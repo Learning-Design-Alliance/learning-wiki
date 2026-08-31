@@ -10,6 +10,8 @@ generated:
 
 # Simulations
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Simulations are the element in which learners engage with realistic, model-based scenarios that approximate authentic systems or environments.
 

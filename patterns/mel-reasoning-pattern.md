@@ -17,6 +17,8 @@ grain_size: lesson
 
 # MEL Reasoning Pattern
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 MEL Reasoning Pattern is the short-form canonical target for the Model-Evidence-Link reasoning pattern, which asks learners to evaluate how evidence supports, challenges, or revises a model or explanation.
 
@@ -50,4 +52,4 @@ MEL Reasoning Pattern is the short-form canonical target for the Model-Evidence-
 - [Model-Evidence-Link (MEL) Reasoning Pattern](model-evidence-link-mel-reasoning-pattern.md)
 
 ## Key Sources
-- Lombardi, D., Sinatra, G. M., & Nussbaum, E. M. (2013). Plausibility judgments in conceptual change and epistemic cognition. *Educational Psychologist, 48*(1), 35-56. [https://doi.org/10.1080/00461520.2013.767515](https://doi.org/10.1080/00461520.2013.767515)
+- Lombardi, D., Sinatra, G. M., & Nussbaum, E. M. (2013). Plausibility judgments in conceptual change and epistemic cognition. *Educational Psychologist, 48*(1), 35-56. [https://doi.org/10.1080/00461520.2015.1113134](https://doi.org/10.1080/00461520.2015.1113134)

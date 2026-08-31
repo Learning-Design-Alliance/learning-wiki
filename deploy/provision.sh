@@ -83,13 +83,19 @@ echo "== 7. systemd units =="
 cp "$APP_DIR/deploy/eval-harness.service" /etc/systemd/system/eval-harness.service
 cp "$APP_DIR/deploy/eval-harness-web.service" /etc/systemd/system/eval-harness-web.service
 cp "$APP_DIR/deploy/eval-auto-optimize.service" /etc/systemd/system/eval-auto-optimize.service
-chmod +x "$APP_DIR/deploy/run.sh" "$APP_DIR/deploy/auto_optimize.sh"
+cp "$APP_DIR/deploy/wiki-health-check.service" /etc/systemd/system/wiki-health-check.service
+cp "$APP_DIR/deploy/wiki-health-check.timer" /etc/systemd/system/wiki-health-check.timer
+chmod +x "$APP_DIR/deploy/run.sh" "$APP_DIR/deploy/auto_optimize.sh" "$APP_DIR/deploy/wiki_health_check.sh"
 systemctl daemon-reload
 systemctl enable --now eval-harness-web
+systemctl enable --now wiki-health-check.timer
 # eval-auto-optimize is installed but deliberately NOT enabled/started here —
 # it's a one-off bounded search you trigger by hand once a baseline run
 # exists (`sudo systemctl start eval-auto-optimize`), not an always-on
-# service like eval-harness-web.
+# service like eval-harness-web. wiki-health-check IS enabled: it's a
+# read-only nightly report, not something that spends API budget or writes
+# wiki content on its own (DOI resolution is the only network activity,
+# cached after the first run).
 
 cat <<EOF
 

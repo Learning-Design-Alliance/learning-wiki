@@ -1,64 +1,72 @@
 ---
 type: strategy
 title: Emotional Thermometer
-description: An emotional thermometer is a visual tool used to help children recognize and gauge the intensity of their emotions.
+description: An emotional thermometer is a visual self-assessment tool that helps learners identify and gauge the intensity of their emotions so they can apply coping strategies before escalation.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
 # Emotional Thermometer
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
-An emotional thermometer is a visual tool used to help children recognize and gauge the intensity of their emotions. The thermometer typically ranges from 'calm' (green) to 'very angry' (red), allowing children to assess their emotional state and implement coping strategies early in the process. It helps children learn to differentiate between varying emotions and their intensities, providing an opportunity to prevent escalation.
+An emotional thermometer is a visual tool used to help learners — most commonly young children — recognize and gauge the intensity of their emotions. The thermometer typically ranges from "calm" (green) at the bottom to "very angry" or "out of control" (red) at the top, allowing children to locate their current emotional state and implement coping strategies early, before escalation. It builds emotion differentiation (granularity) and provides a shared vocabulary for discussing internal states with teachers and caregivers.
 
 ## Design Implications
 
+The thermometer externalizes an internal state, converting a diffuse feeling into a concrete, gradable quantity that can be monitored and acted upon. This supports self-regulation by making the "monitoring" phase of self-regulated learning explicit and observable [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M]. Emotion knowledge and the ability to label feelings in graded terms are reliable predictors of self-regulation and social competence in early childhood [+M]. The tool works as a *prevention* mechanism: its value lies in prompting coping action at low-to-moderate intensity, not in de-escalating a child who is already at the top of the scale.
+
 ### Context
 #### Requirements
-- Emotional thermometer graphic, time to introduce and discuss emotions, consistent use in various situations.
+- A clear, age-appropriate thermometer graphic with labeled zones and concrete behavioral anchors ("I might yell," "I need a break") at each level
+- Explicit introduction and modeling: an adult demonstrates how to "read" the thermometer using [Think-Aloud](../elements/think-aloud.md)-style narration of their own emotional states
+- Consistent use across settings and times, not only during incidents, so the tool is associated with reflection rather than punishment
+- Paired coping strategies at each level (breathing, taking a break, seeking help) so identification leads to action ([Practice](../elements/practice.md))
+
 #### Constraints
-- May not be effective during a full-blown tantrum. Requires consistent practice and reinforcement.
+- Ineffective during full-blown tantrums or peak arousal — at high emotional intensity, working memory and reflective capacity are degraded, and requiring self-assessment can escalate distress [-M]
+- Requires consistent practice and adult reinforcement; introduced once and shelved, it produces no durable gains [-W]
+- If used only reactively after misbehavior, children learn to associate it with punishment and may report artificially low readings [-W]
+- Children with limited emotion vocabulary or alexithymia-like profiles may struggle to map felt states onto scale levels [~M]
+
 #### Implementation Variability
-- <!-- TODO -->
+- Scales can be extended beyond anger to anxiety, frustration, or excitement; some versions use number scales (1–5), color zones, or emoji faces
+- Variants include body-scan versions ("where do you feel it?"), desk-sized private versions, and whole-class check-in boards used at transitions
+- Digital versions (e.g., mood check-in apps) allow logging over time, enabling pattern-spotting with the child
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- Young children, especially those learning to manage anger and other intense emotions
+- Young children (roughly ages 3–10) still developing emotion vocabulary and regulation skills [+M]
+- Children with ADHD, autism, or emotional/behavioral challenges, for whom structured visual supports reduce the demand of reading internal states [+W]
+- Less appropriate as a standalone intervention for older learners, who typically benefit from more nuanced emotion-granularity work [~W]
 
 ### Target Learning Goals
-<!-- Link to sub-claims -->
-- Enhance emotional awareness, promote self-assessment, facilitate early intervention, teach emotion regulation
-
-### Affordances
-- Provides a concrete, visual representation of emotional intensity, supports self-monitoring, enables early intervention to prevent emotional escalation.
-
-### Personalization
-- The scale can be adjusted to include other emotions beyond anger. Different visual representations (e.g., colors, images) can be used to cater to individual preferences.
+- Emotional awareness and differentiation: recognizing and labeling feelings and their intensity
+- Self-assessment and self-monitoring: building the habit of checking in with one's own state [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M]
+- Early intervention: triggering coping strategies before escalation
+- Emotion regulation: connecting awareness to strategy selection, consistent with process models of regulation [+M]
 
 ### Instructions
-<!-- Steps with links to elements -->
-- [Provide guidance](../elements/provide-guidance.md)
-- [Practice](../elements/practice.md)
-
-## Assessment Evidence
-- Monitor children's ability to accurately gauge their emotional intensity. Observe their use of coping strategies after assessing their emotional state.
-
-## Impact
-- Supports emotional literacy and self-regulation. Helps children recognize and manage their emotions more effectively.
+1. Introduce the thermometer in a calm moment, co-constructing the labels and behavioral anchors for each zone with learners.
+2. Model its use by narrating your own state ("I'm at a yellow — I notice my shoulders are tight, so I'll take a breath"), making the monitoring process visible.
+3. Embed brief routine check-ins ([Check-ins](../principles/check-ins.md)) at transitions so use becomes habitual rather than incident-driven.
+4. Pair each zone with a specific coping action and rehearse these through role-play and [Practice](../elements/practice.md) when the learner is calm.
+5. Coach in the moment: prompt ("Where are you on the thermometer?") only at low-to-moderate intensity, and debrief afterward to reinforce accurate self-assessment ([Coaching](../elements/coaching.md)).
 
 ## Related Strategies
-- <!-- TODO -->
-
-## Related Elements
-- <!-- TODO -->
-
-## Tools
-- <!-- TODO -->
+- [Check-ins](../principles/check-ins.md) — routine low-stakes state reporting that normalizes the thermometer's use
+- [Acting-Role-Play](acting-role-play.md) — rehearsal context for practicing zone-specific coping strategies before they are needed
+- [Achievable Micro-Goals](achievable_micro-goals.md) — coping actions at each zone can be framed as small, attainable behavioral goals
 
 ## Examples
-- A child uses an emotional thermometer to identify that they are feeling 'irritated' and chooses to take a break before their anger escalates. Teachers use the thermometer as a classroom tool to prompt discussions about different emotions and their intensity.
+- **[Incredible Years](http://www.incredibleyears.com)** (Webster-Stratton) — the Dina School curriculum uses a "feelings thermometer" among visual tools to teach children with conduct problems to identify emotional arousal levels and select problem-solving responses [+M].
+- **Zones of Regulation** (Kuypers, 2011) — a widely used curriculum built around a four-zone color framework functionally equivalent to an emotional thermometer, with explicit regulation strategies per zone.
+- A classroom example: during morning meeting, children move a marker on a class thermometer chart; the teacher uses the pattern to prompt discussion ("lots of us are at yellow — what could help?"), turning individual monitoring into shared emotional literacy instruction.
 
 ## Key Sources
-- <!-- TODO -->
+- Denham, S. A. (2006). Social-emotional competence as support for school readiness: What is it and how do we assess it? *Early Education and Development, 17*(1), 57–89. [doi:10.1207/s15566935eed1701_4](https://doi.org/10.1207/s15566935eed1701_4)
+- Webster-Stratton, C., Reid, M. J., & Hammond, M. (2001). Social skills and problem-solving training for children with early-onset conduct problems: Who benefits? *Journal of Clinical Child Psychology, 30*(2), 124–141. [doi:10.1111/1469-7610.00790](https://doi.org/10.1111/1469-7610.00790)
+- Gross, J. J. (1998). The emerging field of emotion regulation: An integrative review. *Review of General Psychology, 2*(3), 271–299. [doi:10.1037/1089-2680.2.3.271](https://doi.org/10.1037/1089-2680.2.3.271)
+- Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

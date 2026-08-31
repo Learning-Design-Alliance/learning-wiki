@@ -11,6 +11,8 @@ grain_size: lesson
 
 # Inquiry-Based Learning
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Inquiry-based learning is the short-form canonical pattern for organizing learning around investigation, evidence, and guided explanation.
 
@@ -25,4 +27,4 @@ Inquiry-based learning is the short-form canonical pattern for organizing learni
 - [Collaborative Inquiry](collaborative-inquiry.md)
 
 ## Key Sources
-- Hmelo-Silver, C. E., Duncan, R. G., & Chinn, C. A. (2007). Scaffolding and achievement in problem-based and inquiry learning. *Educational Psychologist, 42*(2), 99-107.
+- Hmelo-Silver, C. E., Duncan, R. G., & Chinn, C. A. (2007). Scaffolding and achievement in problem-based and inquiry learning. *Educational Psychologist, 42*(2), 99-107. [doi:10.1080/00461520701263368](https://doi.org/10.1080/00461520701263368)

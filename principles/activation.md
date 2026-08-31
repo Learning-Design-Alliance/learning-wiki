@@ -15,6 +15,8 @@ sources:
 
 # Activation
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Activation is the principle of prompting learners to surface prior knowledge, experiences, or related schemas before new instruction.
 

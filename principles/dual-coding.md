@@ -10,6 +10,8 @@ generated:
 
 # Dual Coding
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Dual coding is the principle of pairing verbal information with meaningful visual representation so learners can build more than one route into the same idea. It is useful when visuals clarify structure, relation, or process rather than merely decorate text.
 

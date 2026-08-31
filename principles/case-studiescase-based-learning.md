@@ -10,6 +10,8 @@ generated:
 
 # Case Studies/Case-based Learning
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Case studies use realistic scenarios, dilemmas, or incidents as the object of analysis so learners must interpret evidence, weigh alternatives, and justify action. Rather than receiving rules first and applying them later, learners grapple with ambiguity closer to professional practice: what matters here, what information is missing, what options are plausible, and how should a decision be defended?
 

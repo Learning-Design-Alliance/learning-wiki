@@ -18,9 +18,12 @@ Usage:
     --fix   : auto-promote pages that pass all checks from draft → review
 """
 
+import json
 import re
 import sys
 import argparse
+import unicodedata
+import urllib.parse
 from pathlib import Path
 from collections import defaultdict
 
@@ -66,16 +69,119 @@ def check_broken_links(pages: dict[str, Path]) -> list[dict]:
         if path.name in DOC_FILES:
             continue
         text = path.read_text(encoding="utf-8")
-        for m in LINK_RE.finditer(text):
-            target = m.group(1)
-            if target.startswith(("http://", "https://")):
+        # ok.iter_markdown_links matches the destination by paren BALANCE, so
+        # a link to a page whose filename contains parentheses is seen. LINK_RE
+        # could not see those at all (it stops at the first ')'), and this
+        # check openly skipped them — while mkdocs could not resolve them
+        # either, so they rendered as dead literal text. 58 such links were
+        # live when this was changed, every one pointing at a real file.
+        for _, _, target, is_angle in ok.iter_markdown_links(text):
+            if target.startswith(("http://", "https://", "#", "mailto:")):
                 continue
-            target_path = (path.parent / target).resolve()
+            # A destination containing parens only parses inside <...>. It may
+            # resolve on disk and still be broken in the rendered page, so flag
+            # it separately rather than calling it fine.
+            if ok.link_needs_angle_brackets(target) and not is_angle:
+                issues.append({
+                    "file": str(path.relative_to(WIKI_ROOT)),
+                    "type": "link_needs_angle_brackets",
+                    "detail": f"{target} contains parentheses and must be written as "
+                              f"<{target}> to parse — run scripts/fix_links.py --apply",
+                })
+                continue
+            # Percent-decode before hitting the filesystem. A markdown link to
+            # a page whose filename contains an apostrophe, a question mark, a
+            # comma or a quote MUST encode those characters to be a valid link
+            # target, and mkdocs resolves the encoded form correctly — but this
+            # check compared the still-encoded string against real filenames and
+            # reported every one of them broken. Nine of this wiki's twenty
+            # "broken" links were this false positive (the '%27what%27s_my_
+            # emotion%3F%27_game_check-in.md' family), all of them links that
+            # build fine under `mkdocs build --strict`.
+            target_path = (path.parent / urllib.parse.unquote(target)).resolve()
             if not target_path.exists():
                 issues.append({
                     "file": str(path.relative_to(WIKI_ROOT)),
                     "type": "broken_link",
                     "detail": f"{target} (from {path.relative_to(WIKI_ROOT)}) not found",
+                })
+    return issues
+
+
+# python-markdown's toc extension turns each heading into an anchor with this
+# transform, and mkdocs.yml enables `toc` with no custom slugify — so this is
+# the id an `### Author Year` heading actually gets in the built site. Kept as
+# a local copy rather than importing markdown, because lint.py runs in CI
+# *before* the docs dependencies are installed.
+def _heading_anchor(heading: str, separator: str = "-") -> str:
+    v = unicodedata.normalize("NFKD", heading).encode("ascii", "ignore").decode("ascii")
+    v = re.sub(r"[^\w\s-]", "", v).strip().lower()
+    return re.sub(r"[%s\s]+" % separator, separator, v)
+
+
+HEADING_RE = re.compile(r"^#{1,6}\s+(.+?)\s*#*\s*$", re.M)
+
+
+def page_anchors(text: str) -> set[str]:
+    """Every anchor the built page will expose, including toc's duplicate
+    suffixes (`foo`, `foo_1`, `foo_2`) for repeated headings."""
+    anchors, counts = set(), defaultdict(int)
+    for h in HEADING_RE.findall(text):
+        base = _heading_anchor(h)
+        if not base:
+            continue
+        n = counts[base]
+        counts[base] += 1
+        anchors.add(base if n == 0 else f"{base}_{n}")
+    return anchors
+
+
+def check_dead_anchors(pages: dict[str, Path]) -> list[dict]:
+    """A link's fragment is as capable of being dead as its path, and nothing
+    was looking at it. check_broken_links splits the destination at '#' and
+    tests only the file; `mkdocs build --strict` downgrades a missing anchor to
+    INFO and so does not fail on it either. That is the same blind spot that
+    let 118 dead parenthesis links render as literal text for weeks.
+
+    It matters most for claim pages, whose whole subclaim convention is
+    `[-> Author Year](#author-year)` pointing at an `### Author Year` heading in
+    the same page's ## Evidence section. A subclaim whose anchor does not
+    resolve silently stops being traceable to its study."""
+    issues, anchor_cache = [], {}
+
+    def anchors_for(path: Path) -> set[str]:
+        key = str(path)
+        if key not in anchor_cache:
+            try:
+                anchor_cache[key] = page_anchors(path.read_text(encoding="utf-8"))
+            except OSError:
+                anchor_cache[key] = set()
+        return anchor_cache[key]
+
+    for slug, path in pages.items():
+        if "/" in slug or path.name in DOC_FILES:
+            continue
+        text = path.read_text(encoding="utf-8")
+        anchor_cache[str(path)] = page_anchors(text)
+        for _, _, target, _ in ok.iter_markdown_links(text):
+            if target.startswith(("http://", "https://", "mailto:")) or "#" not in target:
+                continue
+            file_part, _, frag = target.partition("#")
+            if not frag:
+                continue
+            frag = urllib.parse.unquote(frag)
+            if file_part:
+                target_path = (path.parent / urllib.parse.unquote(file_part)).resolve()
+                if not target_path.exists():
+                    continue          # already reported as a broken_link
+            else:
+                target_path = path
+            if frag not in anchors_for(target_path):
+                issues.append({
+                    "file": str(path.relative_to(WIKI_ROOT)),
+                    "type": "dead_anchor",
+                    "detail": f"#{frag} -> no such heading in "
+                              f"{target_path.name if file_part else 'this page'}",
                 })
     return issues
 
@@ -118,7 +224,21 @@ def check_claims_missing_evidence(pages: dict[str, Path]) -> list[dict]:
                 "type": "claim_no_evidence_strength",
                 "detail": "evidence_strength missing from frontmatter",
             })
-        # Check for at least one DOI or URL in evidence table
+        # Check for at least one DOI or URL in evidence table.
+        #
+        # Skipped for status: draft, which CLAUDE.md defines as "skeleton or
+        # stub; content not reviewed" — a draft claim having no evidence yet
+        # is the expected state, not a defect, and the status field exists to
+        # say so. This mirrors the rest of this module:
+        # check_draft_no_description only fires on drafts and
+        # check_stable_unverified only on stable. The unenriched backlog stays
+        # visible — wiki_health_check.py counts every draft and TODO page for
+        # the health dashboard — it just doesn't fail CI for pages that are
+        # honestly labelled unfinished. A claim promoted to review or stable
+        # is held to the full standard again.
+        status_m = STATUS_RE.search(text)
+        if status_m and status_m.group(1).strip() == "draft":
+            continue
         evidence_section = ok.get_section(text, "Evidence")
         if evidence_section is not None:
             if not re.search(r"https?://|doi\.org|10\.\d{4}", evidence_section):
@@ -221,6 +341,107 @@ def check_stable_unverified(pages: dict[str, Path]) -> list[dict]:
     return issues
 
 
+BANNER_LINE_RE = re.compile(r"^>\s*\*\*([^*]+)\*\*\s*·\s*\[[^\]]*\]\(index\.md\)\s*$")
+
+# folder -> (banner label, frontmatter `type` value). Kept in step with
+# scripts/add_type_banner.py's TYPE_LABELS, which is what writes them.
+BANNER_TYPES = {
+    "principles": ("Principle", "principle"),
+    "elements": ("Element", "element"),
+    "patterns": ("Pattern", "pattern"),
+    "strategies": ("Strategy", "strategy"),
+    "theories": ("Theory", "theory"),
+    "learner-variables": ("Learner Variable", "learner-variable"),
+    "claims": ("Claim", "claim"),
+}
+
+
+def check_type_banner(pages: dict[str, Path]) -> list[dict]:
+    """Every content page carries a visible page-type banner under its H1
+    (see scripts/add_type_banner.py for why: 73 slugs exist in more than
+    one type folder, and mkdocs strips frontmatter out of the rendered
+    page, so `type:` alone can't tell a reader which section they're in).
+
+    Because that banner duplicates the frontmatter `type` into the body,
+    the two can drift — so check all three agree: the banner exists, its
+    label matches the folder the page actually lives in, and frontmatter
+    `type` matches that folder too. Run
+    `python3 scripts/add_type_banner.py --apply` to fix a missing or
+    stale banner; a frontmatter/folder mismatch needs a human to decide
+    which one is wrong (is this page misfiled, or mislabelled?)."""
+    issues = []
+    seen = set()
+    for slug, path in pages.items():
+        if "/" not in slug:
+            continue
+        folder = slug.split("/", 1)[0]
+        if folder not in BANNER_TYPES or path.stem == "index" or path in seen:
+            continue
+        seen.add(path)
+        label, expected_type = BANNER_TYPES[folder]
+        rel = str(path.relative_to(WIKI_ROOT))
+        text = path.read_text(encoding="utf-8")
+        fm_lines, body = ok.split_frontmatter(text)
+        declared = (ok.parse_frontmatter_scalars(fm_lines).get("type") or "").strip()
+
+        if declared and declared != expected_type:
+            issues.append({"type": "type_folder_mismatch", "file": rel,
+                            "detail": f"frontmatter says type: {declared}, but the page is in "
+                                      f"{folder}/ — expected {expected_type}"})
+
+        lines = body.split("\n")
+        h1_idx = next((i for i, l in enumerate(lines) if l.startswith("# ")), None)
+        if h1_idx is None:
+            issues.append({"type": "no_h1", "file": rel,
+                            "detail": "page has no H1 heading, so it carries no type banner either"})
+            continue
+        scan = h1_idx + 1
+        while scan < len(lines) and not lines[scan].strip():
+            scan += 1
+        m = BANNER_LINE_RE.match(lines[scan].strip()) if scan < len(lines) else None
+        if not m:
+            issues.append({"type": "missing_type_banner", "file": rel,
+                            "detail": "no page-type banner under the H1 — run "
+                                      "scripts/add_type_banner.py --apply"})
+        elif m.group(1).strip() != label:
+            issues.append({"type": "wrong_type_banner", "file": rel,
+                            "detail": f"banner says '{m.group(1).strip()}' but the page is in "
+                                      f"{folder}/ — expected '{label}'"})
+    return issues
+
+
+def check_manifest_integrity(pages: dict[str, Path]) -> list[dict]:
+    """Validate sources/manifest.ndjson — every line must parse as JSON with the
+    required fields for its status, per CLAUDE.md's Source Manifest schema."""
+    issues = []
+    manifest_path = WIKI_ROOT / "sources" / "manifest.ndjson"
+    if not manifest_path.exists():
+        return issues
+    rel = str(manifest_path.relative_to(WIKI_ROOT))
+    for lineno, line in enumerate(manifest_path.read_text(encoding="utf-8").splitlines(), start=1):
+        if not line.strip():
+            continue
+        try:
+            entry = json.loads(line)
+        except json.JSONDecodeError as e:
+            issues.append({"file": rel, "type": "manifest_invalid_json", "detail": f"line {lineno}: {e}"})
+            continue
+        missing = [k for k in ("id", "title", "status", "reviewed_at") if k not in entry]
+        if missing:
+            issues.append({"file": rel, "type": "manifest_missing_field",
+                            "detail": f"line {lineno} ({entry.get('id', '?')}): missing {missing}"})
+        if entry.get("status") not in ("ingested", "rejected"):
+            issues.append({"file": rel, "type": "manifest_bad_status",
+                            "detail": f"line {lineno} ({entry.get('id', '?')}): status={entry.get('status')!r}"})
+        elif entry["status"] == "ingested" and not entry.get("pages"):
+            issues.append({"file": rel, "type": "manifest_ingested_no_pages",
+                            "detail": f"line {lineno} ({entry.get('id', '?')}): status=ingested but no pages"})
+        elif entry["status"] == "rejected" and not entry.get("reason"):
+            issues.append({"file": rel, "type": "manifest_rejected_no_reason",
+                            "detail": f"line {lineno} ({entry.get('id', '?')}): status=rejected but no reason"})
+    return issues
+
+
 def auto_promote(pages: dict[str, Path], all_issues: list[dict], dry_run: bool = False) -> int:
     """Promote draft pages with no issues to status: review."""
     issue_files = {i["file"] for i in all_issues}
@@ -244,7 +465,7 @@ def auto_promote(pages: dict[str, Path], all_issues: list[dict], dry_run: bool =
 def main():
     parser = argparse.ArgumentParser(description="Lint the ld-wiki")
     parser.add_argument("--fix", action="store_true", help="Auto-promote clean draft pages to review")
-    parser.add_argument("--type", choices=["broken_links", "drafts", "claims", "principles", "conflicts", "trust", "all"],
+    parser.add_argument("--type", choices=["broken_links", "dead_anchors", "drafts", "claims", "principles", "conflicts", "trust", "manifest", "type_banner", "all"],
                         default="all", help="Which checks to run")
     args = parser.parse_args()
 
@@ -255,12 +476,15 @@ def main():
     all_issues = []
     checks = {
         "broken_links":  check_broken_links,
+        "dead_anchors":  check_dead_anchors,
         "drafts":        check_draft_no_description,
         "claims":        check_claims_missing_evidence,
         "principles":    check_principles_missing_claims,
         "competing":     check_unfilled_competing_claims,
         "conflicts":     check_open_conflicts,
         "trust":         check_stable_unverified,
+        "manifest":      check_manifest_integrity,
+        "type_banner":   check_type_banner,
     }
 
     selected = list(checks.keys()) if args.type == "all" else [args.type]

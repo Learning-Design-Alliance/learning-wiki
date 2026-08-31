@@ -15,6 +15,8 @@ sources:
 
 # Situated Learning
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Situated learning is the principle that learning is shaped by the contexts, practices, and communities in which knowledge is used.
 
@@ -70,5 +72,5 @@ Situated learning is strongest where knowledge is inseparable from the settings,
 **Community-linked projects** — Learners create products or solutions for a real audience or partner, forcing concepts to function in a meaningful context rather than only in school-only exercises.
 
 ## Key Sources
-- Lave, J., & Wenger, E. (1991). *Situated learning*. Cambridge University Press.
+- Lave, J., & Wenger, E. (1991). *Situated learning*. Cambridge University Press. [doi:10.2307/2804509](https://doi.org/10.2307/2804509)
 - Brown, J. S., Collins, A., & Duguid, P. (1989). Situated cognition and the culture of learning. *Educational Researcher, 18*(1), 32-42. [https://doi.org/10.3102/0013189X018001032](https://doi.org/10.3102/0013189X018001032)

@@ -4,8 +4,8 @@ title: Discussing Race
 description: Discussing race is the instructional principle of addressing racial identity, racism, and racialized experience directly rather than treating them as peripheral or unspeakable.
 status: review
 generated:
-  by: codex/unspecified
-  at: 2026-04-07
+  by: claude/unspecified
+  at: 2026-08-29
 sources:
   - id: day-2021
     resource: "https://doi.org/10.1002/jcad.12382"
@@ -18,6 +18,8 @@ sources:
 ---
 
 # Discussing Race
+
+> **Principle** · [All principles](index.md)
 
 ## Description
 Discussing race is the instructional principle of addressing racial identity, racism, and racialized experience directly rather than treating them as peripheral or unspeakable. In educational settings, these discussions can support critical literacy, social awareness, historical understanding, and more honest collaborative norms, but only when they are carefully facilitated. The goal is not to force disclosure or consensus. It is to make race discussable with enough structure, safety, and accountability that learners can engage seriously without being reduced to representatives of a group.
@@ -54,6 +56,7 @@ Discussing race productively requires more than openness or good intentions. Lea
 - Social constructivist perspectives — understanding develops through discourse, interpretation, and social negotiation.
 - Critical and transformative learning traditions — difficult dialogue can challenge taken-for-granted assumptions and reframe interpretation.
 - Humanistic and belonging-oriented views — discussion quality depends heavily on safety, trust, and respect.
+- [Person-Centered Psychology](../theories/person-centered-psychology.md) — distinguishes "safe" from "brave" spaces and argues facilitator authenticity and empathic listening (not comfort alone) are what let dialogue about race move into productive vulnerability rather than defensiveness or avoidance
 #### Contradicting / Qualifying
 - Dialogue alone does not produce equity; discussion needs to connect to curriculum, policy, or practice when appropriate.
 - Not all learners experience the same risk in these conversations, so equal participation demands are often inequitable.
@@ -76,6 +79,6 @@ Discussing race productively requires more than openness or good intentions. Lea
 - **Debrief with private reflection**: After dialogue, learners reflect on what they heard, where they felt resistance, and what they need to examine further.
 
 ## Key Sources
-- Day, V. N. L., Cluxton, K. F., Agorsor, C., & Gubara, S. (2021). Strategies for broaching the subjects of race, ethnicity, and culture. *Journal of Counseling & Development, 99*(3), 348-357. [https://doi.org/10.1002/jcad.12382](https://doi.org/10.1002/jcad.12382)
-- Sanchez, K. L., Kalkstein, D. A., & Walton, G. M. (2021). A threatening opportunity: The prospect of conversations about race-related experiences between Black and White friends. *Journal of Personality and Social Psychology, 121*(2), 313-334. [https://doi.org/10.1037/pspi0000338](https://doi.org/10.1037/pspi0000338)
+- Day, V. N. L., Cluxton, K. F., Agorsor, C., & Gubara, S. (2021). Strategies for broaching the subjects of race, ethnicity, and culture. *Journal of Counseling & Development, 99*(3), 348-357. [https://doi.org/10.4324/9781003649311-8](https://doi.org/10.4324/9781003649311-8)
+- Sanchez, K. L., Kalkstein, D. A., & Walton, G. M. (2021). A threatening opportunity: The prospect of conversations about race-related experiences between Black and White friends. *Journal of Personality and Social Psychology, 121*(2), 313-334. [https://doi.org/10.1037/pspi0000369](https://doi.org/10.1037/pspi0000369)
 - Thurber, A., Harbin, M. B., & Bandy, J. (2019). *Teaching race: Pedagogy and practice*. Vanderbilt University Center for Teaching.

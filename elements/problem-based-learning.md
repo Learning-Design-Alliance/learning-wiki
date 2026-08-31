@@ -15,6 +15,8 @@ sources:
 
 # Problem-Based Learning
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Problem-based learning, as an element, refers to the use of an authentic or ill-structured problem as the immediate driver of inquiry, information seeking, and solution development inside a larger design. This page serves as the canonical short-form target for element links that point to PBL-style problem framing.
 

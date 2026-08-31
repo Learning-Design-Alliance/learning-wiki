@@ -27,6 +27,8 @@ sources:
 
 # Purposeful Reflection
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Purposeful reflection is structured time for learners to examine what they did, what they understood, where they struggled, and what they should do next. The key distinction is intention: reflection is tied to a learning goal, experience, product, or decision rather than being a generic request to "think about it." Well-designed reflection helps learners consolidate meaning, monitor progress, and connect present learning to future action.
 
@@ -87,5 +89,5 @@ Purposeful reflection works when learners revisit a specific performance, decisi
 ## Key Sources
 - Barrett, H. (2005). Researching electronic portfolios and learner engagement. Retrieved from [http://google.electronicportfolios.com/reflect/whitepaper.pdf](http://google.electronicportfolios.com/reflect/whitepaper.pdf)
 - Brown, J. O. (2002). Know thyself: The impact of portfolio development on adult learning. *Adult Education Quarterly, 52*(3), 228-245. [https://doi.org/10.1177/0741713602052003005](https://doi.org/10.1177/0741713602052003005)
-- Sage, M., & Sele, P. (2015). Reflective journaling as a flipped classroom technique to increase reading and participation with social work students. *Journal of Social Work Education, 51*(4), 668-681. [https://doi.org/10.1080/10437797.2015.1076264](https://doi.org/10.1080/10437797.2015.1076264)
+- Sage, M., & Sele, P. (2015). Reflective journaling as a flipped classroom technique to increase reading and participation with social work students. *Journal of Social Work Education, 51*(4), 668-681. [https://doi.org/10.1080/10437797.2015.1076274](https://doi.org/10.1080/10437797.2015.1076274)
 - Tailab, M., & Marsh, N. (2020). Use of self-assessment of video recording to raise students' awareness of development of their oral presentation skills. *Higher Education Studies, 10*(1). [https://doi.org/10.5539/hes.v10n1p16](https://doi.org/10.5539/hes.v10n1p16)

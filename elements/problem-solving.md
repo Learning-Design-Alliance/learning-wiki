@@ -10,6 +10,8 @@ generated:
 
 # Problem Solving
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Problem solving is the element in which learners identify, analyze, and respond to a challenge by generating and evaluating possible solutions. It is useful when the instructional goal is not only recall, but reasoned action in the face of constraints.
 

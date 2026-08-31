@@ -20,6 +20,8 @@ evidence_strength: strong
 
 # Self-explanation improves conceptual understanding and problem-solving performance.
 
+> **Claim** · [All claims](index.md)
+
 Generating explanations for oneself while studying worked examples or solving problems helps learners bridge gaps in their knowledge, integrate new information with prior schemas, and monitor their own comprehension.
 
 ## Subclaims

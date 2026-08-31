@@ -12,6 +12,8 @@ grain_size: lesson
 
 # POGIL
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 POGIL is the short-form canonical target for Process-Oriented Guided Inquiry Learning. It combines guided discovery with structured team roles and process skill development.
 

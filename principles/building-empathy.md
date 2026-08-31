@@ -4,8 +4,8 @@ title: Building Empathy
 description: Building empathy is the instructional principle of helping learners understand how other people perceive, feel, and interpret a situation.
 status: review
 generated:
-  by: codex/unspecified
-  at: 2026-04-07
+  by: claude/unspecified
+  at: 2026-08-29
 sources:
   - id: sachs-2019
     resource: "https://doi.org/10.1080/02699931.2019.1577226"
@@ -18,6 +18,8 @@ sources:
 ---
 
 # Building Empathy
+
+> **Principle** · [All principles](index.md)
 
 ## Description
 Building empathy is the instructional principle of helping learners understand how other people perceive, feel, and interpret a situation. In learning environments, empathy matters because it improves listening, collaboration, conflict navigation, and the ability to respond thoughtfully across differences in experience or identity. It is usually cultivated through structured perspective-taking, dialogue, narrative exposure, reflection, and authentic interaction rather than through abstract exhortation alone.
@@ -54,6 +56,7 @@ Building empathy requires more than telling learners to care about other people.
 - Social learning theory — learners pick up empathic discourse and listening practices by observing modeled interaction.
 - Transformative learning theory — empathy can deepen when learners critically examine assumptions and encounter disorienting alternative perspectives.
 - Social constructivist views of learning — understanding is built through dialogue with other people, not in isolation.
+- [Person-Centered Psychology](../theories/person-centered-psychology.md) — gives a structured relational methodology (unconditional positive regard, empathic listening, facilitator congruence) for the specific conditions under which perspective-taking can go beyond surface performance
 #### Contradicting / Qualifying
 - Empathy-building is not value-neutral; facilitation choices shape whose experiences are centered and whose are simplified.
 - Perspective-taking activities can increase confidence in misunderstanding if learners infer too much from too little evidence.
@@ -78,5 +81,5 @@ These are indirect anchors: in this repo, the strongest nearby evidence supports
 
 ## Key Sources
 - Nelsestuen, K., & Smith, J. (2020). Empathy interviews. *The Learning Professional, 41*(5), 59-59.
-- Sachs, M. E., Kaplan, J., & Habibi, A. (2019). Echoing the emotions of others: Empathy is related to how adults and children map emotion onto the body. *Cognition & Emotion, 33*(8), 1639-1654. [https://doi.org/10.1080/02699931.2019.1577226](https://doi.org/10.1080/02699931.2019.1577226)
-- Setlhodi, I. I. (2018). Mentoring in the web-class for adult learners. In *Handbook of research on student-centered strategies in online adult learning environments* (pp. 206-220). IGI Global. [https://doi.org/10.4018/978-1-5225-5084-4.ch010](https://doi.org/10.4018/978-1-5225-5084-4.ch010)
+- Sachs, M. E., Kaplan, J., & Habibi, A. (2019). Echoing the emotions of others: Empathy is related to how adults and children map emotion onto the body. *Cognition & Emotion, 33*(8), 1639-1654. [https://doi.org/10.1080/02699931.2019.1591938](https://doi.org/10.1080/02699931.2019.1591938)
+- Setlhodi, I. I. (2018). Mentoring in the web-class for adult learners. In *Handbook of research on student-centered strategies in online adult learning environments* (pp. 206-220). IGI Global. [https://doi.org/10.4018/978-1-7998-8598-6.ch040](https://doi.org/10.4018/978-1-7998-8598-6.ch040)

@@ -10,6 +10,8 @@ generated:
 
 # Learning Management Systems
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Learning management systems are the element in which course organization, materials, communication, and tracking are coordinated through an LMS.
 

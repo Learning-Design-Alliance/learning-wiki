@@ -10,6 +10,8 @@ generated:
 
 # Justification
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Justification is the element in which learners explain why a claim, choice, or solution is warranted using reasons, criteria, or evidence. It is useful when the instructional goal is to strengthen explanation quality rather than only reach an answer.
 

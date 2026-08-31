@@ -10,6 +10,8 @@ generated:
 
 # Learning Outcomes
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Learning outcomes are explicit statements of what learners should know, understand, or be able to do by the end of an instructional experience. They are useful when instruction, assessment, and learner effort need to align around visible targets.
 

@@ -15,6 +15,8 @@ sources:
 
 # Accessible Vocabulary & Syntax
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Use language that preserves disciplinary rigor while reducing unnecessary linguistic difficulty. Accessible vocabulary and syntax do not mean "watering down" content; they mean introducing essential terms intentionally, explaining them clearly, modeling sentence structures that learners will encounter in authentic texts, and removing avoidable wording barriers that would otherwise block participation and comprehension.
 
@@ -78,7 +80,7 @@ Accessible vocabulary and syntax matter because learners can fail a task for lan
 - [Assigned Readings](../elements/assigned-readings.md) paired with glossaries, margin notes, or sentence frames can make complex texts usable without replacing them
 
 ## Key Sources
-- Binder, K. S., Tremblay, K. A., & Joseph, A. (2020). Vocabulary accessibility and acquisition: Do you get more from a financestor or a sociophite? *Journal of Research in Reading, 43*(4), 395-416. [doi:10.1111/1467-9817.12319](https://doi.org/10.1111/1467-9817.12319)
+- Binder, K. S., Tremblay, K. A., & Joseph, A. (2020). Vocabulary accessibility and acquisition: Do you get more from a financestor or a sociophite? *Journal of Research in Reading, 43*(4), 395-416. [doi:10.1111/1467-9817.12314](https://doi.org/10.1111/1467-9817.12314)
 - Alloway, T. P. (2006). How does working memory work in the classroom? *Educational Research and Reviews, 1*(4), 134-139.
 - Centers for Disease Control and Prevention. (2009). *Simply put: A guide for creating easy-to-understand materials*.
 - Devlin, M., Kift, S., Nelson, K., Smith, L., & McKay, J. (2012). *Effective teaching and support of students from low socioeconomic status backgrounds*. Office for Learning and Teaching.

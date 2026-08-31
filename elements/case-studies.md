@@ -10,6 +10,8 @@ generated:
 
 # Case Studies
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Case studies are the element in which learners analyze a concrete scenario, incident, or example in order to reason about concepts, decisions, or consequences. They are useful when learning benefits from applying ideas to situated complexity.
 

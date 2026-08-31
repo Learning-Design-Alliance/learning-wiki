@@ -24,6 +24,8 @@ evidence_strength: strong
 
 # Autonomy support increases intrinsic motivation, engagement, and persistence in learning.
 
+> **Claim** · [All claims](index.md)
+
 When learners experience meaningful choice, volition, and internal causality — rather than external control — they show greater intrinsic motivation, deeper engagement, and longer persistence. The mechanism is not choice for its own sake but perceived self-determination: the sense that one is acting from one's own values rather than external pressure.
 
 ## Subclaims
@@ -46,7 +48,7 @@ Ryan and Deci present the core SDT framework, drawing on decades of experimental
 
 ### Deci Koestner Ryan 1999
 
-Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 125*(5), 627–668. [https://doi.org/10.1037/0033-2909.125.5.627](https://doi.org/10.1037/0033-2909.125.5.627)
+Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 125*(5), 627–668. [https://doi.org/10.1037/0033-2909.125.6.627](https://doi.org/10.1037/0033-2909.125.6.627)
 
 `q4 · meta-analysis of 128 experiments` · `i2 · moderate undermining effect` · `n=128 studies`
 

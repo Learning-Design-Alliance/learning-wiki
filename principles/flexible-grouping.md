@@ -19,6 +19,8 @@ sources:
 
 # Flexible Grouping
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Flexible grouping is a classroom practice that temporarily places learners together in groups to work collaboratively toward specific learning goals or activities. These groups are adaptive, accommodating learners' evolving needs and interests based on instructor observations, formative assessments, and learner feedback. Encouraging learners to move flexibly between groups allows them to bring their own strengths to the class and provides opportunities to learn with and from each other, thereby strengthening social awareness and relationship skills. This practice supports all adults, including those with learning disabilities and multilingual learners, by allowing them to participate alongside their peers, showcase their strengths, and learn from others intentionally.
 
@@ -82,7 +84,7 @@ Flexible grouping is most useful when learner need changes across tasks and over
 - Rotating roles can keep group membership fluid while making contribution expectations explicit
 
 ## Key Sources
-- Burris, C. C., Heubert, J. P., & Levin, H. M. (2006). Accelerating mathematics achievement using heterogeneous grouping. *American Educational Research Journal, 43*(1), 137-154. [doi:10.3102/00028312043001137](https://doi.org/10.3102/00028312043001137)
+- Burris, C. C., Heubert, J. P., & Levin, H. M. (2006). Accelerating mathematics achievement using heterogeneous grouping. *American Educational Research Journal, 43*(1), 137-154. [doi:10.3102/00028312043001105](https://doi.org/10.3102/00028312043001105)
 - Castle, S., Deniz, C. B., & Tortora, M. (2005). Flexible grouping and student learning in a high-needs school. *Education and Urban Society, 37*(2), 139-150. [doi:10.1177/0013124504270787](https://doi.org/10.1177/0013124504270787)
 - Bedford, L., Wiebe, M., & Tschida, M. (2008). Flexible grouping in the higher education learning environment. *Transformative Dialogues, 1*(3).
 - Colón, G., Zgliczynski, T., & Maheady, L. (2022). Using flexible grouping. In *High leverage practices for inclusive classrooms*.

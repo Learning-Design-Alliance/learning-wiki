@@ -10,6 +10,8 @@ generated:
 
 # Learner Choice
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Learner choice is the element in which learners are given meaningful options about task, process, product, or pathway.
 
@@ -24,4 +26,4 @@ Learner choice is the element in which learners are given meaningful options abo
 - [Self-Assessment](self-assessment.md)
 
 ## Key Sources
-- Patall, E. A., Cooper, H., & Robinson, J. C. (2008). The effects of choice on intrinsic motivation. *Psychological Bulletin, 134*(2), 270-300.
+- Patall, E. A., Cooper, H., & Robinson, J. C. (2008). The effects of choice on intrinsic motivation. *Psychological Bulletin, 134*(2), 270-300. [doi:10.1037/0033-2909.134.2.270](https://doi.org/10.1037/0033-2909.134.2.270)

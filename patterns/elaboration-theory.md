@@ -12,6 +12,8 @@ grain_size: course
 
 # Elaboration Theory
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Elaboration Theory is the short-form canonical target for Reigeluth's elaboration pattern, which sequences from simple, inclusive ideas toward more complex detail.
 
@@ -42,4 +44,4 @@ Elaboration Theory is the short-form canonical target for Reigeluth's elaboratio
 - [Reigeluth's Elaboration Theory](reigeluths-elaboration-theory.md)
 
 ## Key Sources
-- Reigeluth, C. M. (1979). In search of a better way to organize instruction. *Journal of Instructional Development, 2*(3), 8-15.
+- Reigeluth, C. M. (1979). In search of a better way to organize instruction. *Journal of Instructional Development, 2*(3), 8-15. [doi:10.1007/bf02984374](https://doi.org/10.1007/bf02984374)

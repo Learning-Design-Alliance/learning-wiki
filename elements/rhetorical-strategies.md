@@ -10,6 +10,8 @@ generated:
 
 # Rhetorical Strategies
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Rhetorical strategies are deliberate moves learners use to persuade, frame, emphasize, appeal to an audience, or strengthen the force of an argument. They are useful when communication goals depend on audience awareness as well as evidence and logic.
 

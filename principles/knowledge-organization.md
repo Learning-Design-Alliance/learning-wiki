@@ -10,6 +10,8 @@ generated:
 
 # Knowledge Organization
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Knowledge organization is the principle of helping learners structure information into meaningful relationships, categories, sequences, or frameworks rather than leaving it as disconnected facts. It is useful when understanding depends on how ideas fit together.
 

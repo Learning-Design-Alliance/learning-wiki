@@ -1,0 +1,19 @@
+[Unit]
+Description=Learning Wiki nightly health check (lint, citations, DOI resolution, dedupe)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+User=evalrunner
+WorkingDirectory=/opt/learning-wiki
+EnvironmentFile=/etc/eval-harness.env
+ExecStart=/opt/learning-wiki/deploy/wiki_health_check.sh
+# No Restart= — this is triggered by wiki-health-check.timer on a schedule,
+# not something that should relaunch itself on failure (see the wrapper
+# script for why a "found issues" run isn't a failure in the first place).
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

@@ -10,6 +10,8 @@ generated:
 
 # Multimedia Instruction
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
 

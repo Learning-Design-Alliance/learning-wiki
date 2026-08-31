@@ -23,6 +23,8 @@ sources:
 
 # Developing Your Cultural Awareness
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Developing cultural awareness is the ongoing practice of examining how one's own background, assumptions, language, and institutional context shape teaching and learning across difference. For educators, this includes noticing bias, understanding how identity and power affect classroom experience, and designing instruction in ways that reduce stereotype threat and exclusion. It is not a one-time competency; it is a sustained reflective and relational practice that changes how instructors interpret learner behavior, choose materials, and respond to participation.
 
@@ -82,4 +84,4 @@ Developing cultural awareness improves instruction when it changes how educators
 ## Key Sources
 - Rhodes, C. M. (2018). Culturally responsive teaching with adult learners: A review of the literature. *International Journal of Adult Vocational Education and Technology, 9*(4), 33-41. [https://doi.org/10.4018/IJAVET.2018100103](https://doi.org/10.4018/IJAVET.2018100103)
 - Nelson, S. W., & Guerra, P. L. (2014). Educator beliefs and cultural knowledge: Implications for school improvement efforts. *Educational Administration Quarterly, 50*(1), 67-95. [https://doi.org/10.1177/0013161X13488595](https://doi.org/10.1177/0013161X13488595)
-- Reinholz, D. L., Stone-Johnstone, A., & Shah, N. (2020). Walking the walk: Using classroom analytics to support instructors to address implicit bias in teaching. *International Journal for Academic Development, 25*(3), 259-272. [https://doi.org/10.1080/1360144X.2019.1692210](https://doi.org/10.1080/1360144X.2019.1692210)
+- Reinholz, D. L., Stone-Johnstone, A., & Shah, N. (2020). Walking the walk: Using classroom analytics to support instructors to address implicit bias in teaching. *International Journal for Academic Development, 25*(3), 259-272. [https://doi.org/10.1080/1360144x.2019.1692211](https://doi.org/10.1080/1360144x.2019.1692211)

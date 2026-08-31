@@ -15,6 +15,8 @@ sources:
 
 # Expanding Social Networks
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Networking and supporting adult learners in expanding their social networks provide access to additional resources and Social Supports, which can impact their trajectory and Motivation. Knowledge and utilization of existing informal and formal social networks to raise awareness of local learning opportunities can improve persistence and feelings of Safety. This can have a significant impact on vulnerable populations, especially adults who have been negatively impacted by Adverse Experiences, Socioeconomic Status, language barriers, and physical or cognitive limitations. When it comes to getting a job, networks are especially important to low-skilled workers and immigrants.​
 
@@ -82,5 +84,5 @@ Expanding social networks matters because access to opportunity is often mediate
 ## Key Sources
 - Department for Education. (2018). *Decisions of adult learners*. Kantar Public and Learning and Work Institute.
 - Hellerstein, J. K., & Neumark, D. (2020). Social capital, networks, and economic wellbeing. *The Future of Children, 30*(1).
-- Dorner, H. (2012). Effects of online mentoring in computer-supported collaborative learning environments. *American Journal of Distance Education, 26*(3), 157-171. [doi:10.1080/08923647.2012.697697](https://doi.org/10.1080/08923647.2012.697697)
+- Dorner, H. (2012). Effects of online mentoring in computer-supported collaborative learning environments. *American Journal of Distance Education, 26*(3), 157-171. [doi:10.1080/08923647.2012.692265](https://doi.org/10.1080/08923647.2012.692265)
 - Ngcoza, K., & Southwood, S. (2019). Webs of development: Professional networks as spaces for learning. *Pythagoras, 40*(1).

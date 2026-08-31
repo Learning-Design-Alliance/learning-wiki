@@ -50,6 +50,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 import okf_lib as ok
+from eval import discover_articles
 
 WIKI_ROOT = Path(__file__).parent.parent
 EVAL_ROOT = WIKI_ROOT / "eval"
@@ -63,6 +64,7 @@ TYPE_TO_FOLDER = {
     "pattern": "patterns",
     "strategy": "strategies",
     "theory": "theories",
+    "learner-variable": "learner-variables",
 }
 
 # Matches okf_lib's own citation-year convention: "(2020)" or "(2020a)".
@@ -241,6 +243,14 @@ _OTHER_LAYOUT = {
         "related_heading": "Related Theories",
         "claims_heading": "Claims",
     },
+    "learner-variable": {
+        # Same shape as theory — both are canonical concept pages that
+        # claims link into as evidence, rather than prescriptive design
+        # constructs like principle/pattern/strategy.
+        "target_goals_heading": "Target Learning Objectives",
+        "related_heading": "Related Learner Variables",
+        "claims_heading": "Claims",
+    },
 }
 
 
@@ -416,37 +426,88 @@ def main() -> None:
           f"{' (dry run)' if args.dry_run else ''}...\n")
 
     all_written = []
+    article_registry_entries = {}  # article_id -> {outcome, run_id, model, pages} for the
+                                    # processed-articles registry (see discover_articles.py) —
+                                    # covers EVERY article this run touched, not just ingested
+                                    # ones, so a validation-failure isn't re-generated later either.
     n_skipped_validation = 0
     for path in result_files:
         record = json.loads(path.read_text(encoding="utf-8"))
+        article_id = record["article_id"]
         validation = record.get("validation") or {}
         if not validation.get("passed"):
             n_skipped_validation += 1
-            print(f"  [SKIP] {record['article_id']}: structural validation did not pass "
+            print(f"  [SKIP] {article_id}: structural validation did not pass "
                   f"({validation.get('error_count', '?')} error(s)) — not ingesting any of "
                   f"this article's contributions", file=sys.stderr)
+            reason = None
+            if not args.dry_run:
+                if validation.get("parse_error"):
+                    reason = f"parse error: {validation['parse_error']}"
+                elif not validation.get("n_contributions"):
+                    reason = "no extractable contributions (out of scope or no learning-design content found)"
+                else:
+                    reason = f"{validation.get('error_count', '?')} structural validation error(s)"
+                ok.append_manifest_entry(
+                    source_id=article_id,
+                    title=record.get("article_title", ""),
+                    status="rejected",
+                    reason=reason,
+                )
+            # article_registry_entries feeds discover_articles.record_processed_articles()
+            # below (eval/corpus/processed_articles.json) — a separate, scraper-specific
+            # mechanism from the sources/manifest.ndjson append above: the manifest is a
+            # general append-only audit log (any pipeline, human-browsable on GitHub), this
+            # registry tracks `attempts` so a validation_failed article gets a bounded number
+            # of retries across future discovery batches instead of the manifest's flat
+            # "rejected" verdict treating it as permanent. Both stay populated in dry-run mode
+            # (matching pre-merge behavior) since the enclosing `if args.dry_run: return`
+            # below means neither ever actually gets persisted to disk in that case.
+            article_registry_entries[article_id] = {
+                "outcome": "validation_failed", "run_id": args.run_id, "model": args.model,
+                "pages": [], "reason": reason,
+            }
             continue
-        print(f"[{record['article_id']}] {record.get('article_title', '')}")
-        all_written.extend(ingest_record(record, args.by, args.dry_run))
+        print(f"[{article_id}] {record.get('article_title', '')}")
+        written = ingest_record(record, args.by, args.dry_run)
+        all_written.extend(written)
+        if written and not args.dry_run:
+            ok.append_manifest_entry(
+                source_id=article_id,
+                title=record.get("article_title", ""),
+                status="ingested",
+                pages=[f"{folder}/{slug}.md" for folder, slug, *_ in written],
+            )
+        article_registry_entries[article_id] = {
+            "outcome": "ingested" if written else "no_new_pages",
+            "run_id": args.run_id, "model": args.model,
+            "pages": [f"{folder}/{slug}.md" for folder, slug, _, _ in written],
+        }
 
     print(f"\n{len(all_written)} page(s) {'would be ' if args.dry_run else ''}written, "
           f"{n_skipped_validation} article(s) skipped (failed structural validation).")
 
-    if args.dry_run or not all_written:
+    if args.dry_run:
         return
 
-    print("\nRegenerating index.md files...")
-    subprocess.run([sys.executable, str(WIKI_ROOT / "scripts" / "build_indexes.py")], check=True, cwd=WIKI_ROOT)
+    if all_written:
+        print("\nRegenerating index.md files...")
+        subprocess.run([sys.executable, str(WIKI_ROOT / "scripts" / "build_indexes.py")], check=True, cwd=WIKI_ROOT)
 
-    print("Logging each new page (revision card + log.md)...")
-    for folder, slug, article_id, article_title in all_written:
-        subprocess.run([
-            sys.executable, str(WIKI_ROOT / "scripts" / "log_revision.py"),
-            f"{folder}/{slug}.md",
-            "--by", args.by,
-            "--type", "ingest",
-            "--desc", f"Ingested from {article_id} ({article_title}) via eval_harness.py + ingest_extractions.py",
-        ], check=True, cwd=WIKI_ROOT)
+        print("Logging each new page (revision card + log.md)...")
+        for folder, slug, article_id, article_title in all_written:
+            subprocess.run([
+                sys.executable, str(WIKI_ROOT / "scripts" / "log_revision.py"),
+                f"{folder}/{slug}.md",
+                "--by", args.by,
+                "--type", "ingest",
+                "--desc", f"Ingested from {article_id} ({article_title}) via eval_harness.py + ingest_extractions.py",
+            ], check=True, cwd=WIKI_ROOT)
+
+    if article_registry_entries:
+        discover_articles.record_processed_articles(article_registry_entries)
+        print(f"\nRecorded {len(article_registry_entries)} article outcome(s) in "
+              f"eval/corpus/processed_articles.json — future discovery batches will exclude these ids.")
 
     print(f"\nDone. {len(all_written)} new page(s), indexes regenerated, log.md updated.")
     print("Review the diff before committing — this is draft-quality, machine-ingested content "

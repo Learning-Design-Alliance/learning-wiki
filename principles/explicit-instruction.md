@@ -10,6 +10,8 @@ generated:
 
 # Explicit Instruction
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Explicit instruction is the principle of teaching with clear explanations, modeling, guided practice, and deliberate checks for understanding rather than leaving key steps or criteria implicit. This page serves as the canonical short-form target for links that refer to explicit instruction broadly rather than to a domain-specific variant.
 

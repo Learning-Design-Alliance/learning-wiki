@@ -10,6 +10,8 @@ generated:
 
 # Scenario-Based Learning
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Scenario-based learning is the element in which instruction is organized around a realistic situation, case, or mission that requires learners to interpret information and make decisions in context. It is useful when the goal is application, transfer, and judgment under conditions that resemble real use.
 

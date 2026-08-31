@@ -4,13 +4,15 @@ title: Flipped Learning
 description: Flipped Learning is a pattern that moves some initial content exposure outside class so synchronous time can be used for application, discussion, and feedback.
 status: review
 generated:
-  by: codex/unspecified
-  at: 2026-04-07
+  by: claude/unspecified
+  at: 2026-08-29
 author: Jonathan Bergmann and Aaron Sams
 grain_size: course
 ---
 
 # Flipped Learning
+
+> **Pattern** · [All patterns](index.md)
 
 ## Description
 Flipped Learning is a pattern that moves some initial content exposure outside class so synchronous time can be used for application, discussion, and feedback. This page serves as the canonical short-form target for links that refer to the flipped model under the broader "flipped learning" label.
@@ -74,3 +76,6 @@ Flipped Learning is a pattern that moves some initial content exposure outside c
 
 ## Key Sources
 - Bergmann, J., & Sams, A. (2012). *Flip your classroom: Reach every student in every class every day*. International Society for Technology in Education.
+- Lage, M. J., Platt, G. J., & Treglia, M. (2000). Inverting the classroom: A gateway to creating an inclusive learning environment. *The Journal of Economic Education, 31*(1), 30-43. An earlier "inverted classroom" paper credited with popularizing the model in higher education, using pre-class preparation and in-class economics experiments — a direct precursor to the model Bergmann and Sams later branded "flipped."
+- Walvoord, B. E., & Anderson, V. J. (1998). *Effective grading: A tool for learning and assessment*. Jossey-Bass.
+- Arduini-Van Hoose, N. (2020). Flipped classroom. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

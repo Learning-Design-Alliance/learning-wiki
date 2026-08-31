@@ -10,6 +10,8 @@ generated:
 
 # Retrieval Practice
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Retrieval practice is the element in which learners recall information from memory rather than only re-exposing themselves to it.
 
@@ -34,4 +36,4 @@ Retrieval practice is the element in which learners recall information from memo
 - [Spaced Repetition](spaced-repetition.md)
 
 ## Key Sources
-- Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning. *Psychological Science, 17*(3), 249-255.
+- Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning. *Psychological Science, 17*(3), 249-255. [doi:10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)

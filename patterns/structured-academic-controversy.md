@@ -17,6 +17,8 @@ grain_size: lesson
 
 # Structured Academic Controversy
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Structured Academic Controversy is a discussion pattern in which learners examine opposing positions, advocate for one side, switch roles, and work toward a more integrated conclusion. This page serves as the canonical short-form target for links to the SAC pattern.
 

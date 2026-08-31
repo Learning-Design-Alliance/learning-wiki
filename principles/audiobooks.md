@@ -19,6 +19,8 @@ sources:
 
 # Audiobooks
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Audiobooks provide spoken access to written texts, allowing learners to listen to fluent reading while focusing attention on meaning rather than decoding every word independently. They are especially useful when the goal is comprehension, vocabulary exposure, access to complex content, or sustained engagement with texts that would otherwise be inaccessible or exhausting in print alone.
 
@@ -82,6 +84,6 @@ Audiobooks are most powerful when decoding demands would otherwise block access 
 
 ## Key Sources
 - Best, E. (2020). *Audiobooks and literacy: A rapid review of the literature*. National Literacy Trust.
-- Milani, A., Lorusso, M. L., & Molteni, M. (2010). The effects of audiobooks on the psychosocial adjustment of pre-adolescents and adolescents with dyslexia. *Dyslexia, 16*(1), 87-97. [doi:10.1002/dys.419](https://doi.org/10.1002/dys.419)
+- Milani, A., Lorusso, M. L., & Molteni, M. (2010). The effects of audiobooks on the psychosocial adjustment of pre-adolescents and adolescents with dyslexia. *Dyslexia, 16*(1), 87-97. [doi:10.1002/dys.397](https://doi.org/10.1002/dys.397)
 - Kartal, G., & Simsek, H. (2017). The effects of audiobooks on EFL students' listening comprehension. *The Reading Matrix, 17*(1), 112-123.
 - Wood, S. G., Moxley, J. H., Tighe, E. L., & Wagner, R. K. (2018). Does use of text-to-speech and related read-aloud tools improve reading comprehension for students with reading disabilities? A meta-analysis. *Journal of Learning Disabilities, 51*(1), 73-84. [doi:10.1177/0022219416688170](https://doi.org/10.1177/0022219416688170)

@@ -1,10 +1,113 @@
 # Learning Design Wiki — Agent Operating Guide
 
-This is a **persistent, LLM-maintained knowledge base** for learning design. The wiki compiles design principles, instructional patterns, elements, strategies, theories, and empirical claims into a structured, cross-linked reference.
+This is a **persistent, LLM-maintained knowledge base** for learning design. The wiki compiles design principles, instructional patterns, elements, strategies, theories, learner variables, and empirical claims into a structured, cross-linked reference.
 
 **You never write the wiki yourself.** The LLM reads sources, ingests new content, cross-links pages, and keeps schemas consistent. You source materials and ask questions.
 
 The wiki is a bundle in the [Open Knowledge Format (OKF) v0.2](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md): every content page is markdown with YAML frontmatter carrying `type`, `title`, `description`, `status`, `generated`, and (where applicable) `sources`; cross-links are plain bundle-relative markdown links, not Obsidian wikilinks; `index.md` and `log.md` are OKF's reserved directory-listing and change-log filenames.
+
+---
+
+## Working alongside other sessions — read this before starting
+
+This repo has one human maintainer and many Claude Code sessions — nine open at the time
+of writing, each in its own worktree. A session that has been idle for a day still holds
+its old plan and its old view of `main`, and resuming it will happily redo work that has
+already landed. Sessions cannot message each other (an idle one is disconnected), so
+**this file is the coordination channel** — it is loaded into every session's context
+automatically. Anything a future session must not undo belongs here.
+
+**Keep the number of live sessions small.** Most of the duplication below came from
+parallel sessions, not from parallel people. One session per open task, closed when the
+task merges.
+
+**Branch from `main`, merge to `main` the same day, never stack.** A wiki-wide fix is a
+wiki-wide diff: a typical task here changes 200+ files. Two branches living longer than a
+day *will* collide on hundreds of them. This is not hypothetical — on 2026-08-31 three
+branches were open at once, each changing ~200 of the same files, arranged in a stack
+(`normalize-slugs` → `fix-no-h1-pages` → `research-scraper-test-setup`) whose base kept
+moving. Two sessions independently fixed the same 13 corrupted pages, independently wrote
+a link-repair tool, and independently shipped the *same* `[^)\s]+` parenthesis bug in it.
+One merge cost 41 conflict resolutions. Do not open a PR whose base is another feature
+branch.
+
+**Before starting any wiki-wide pass, check whether it is already done.** Run
+`python3 scripts/lint.py` and `python3 scripts/wiki_health_check.py --skip-doi` first, and
+`git log --oneline -20 origin/main` to see what landed recently. A count of zero means the
+work is done, not that the check is broken.
+
+**Things that are settled — do not re-litigate or revert:**
+
+- **Never assert a DOI that has not been resolved against Crossref.** A DOI that resolves
+  to the *wrong* paper is worse than none, because it reads as verified. `10.1007/978-1-4684-7562-3_3`
+  ("Model of Causality in Social Learning Theory") was auto-applied to 69 pages as Bandura
+  (1977); it took a manual audit to catch. `cc.titles_align()` guards the containment case
+  that let it through, and `enrich.verify_page_citations()` gates every newly written page.
+- **`classify_doi`'s `error` status is not `wrong_paper`.** A failed lookup means Crossref
+  was unreachable. Stripping on `error` deletes good DOIs from every page touched during an
+  outage.
+- **Unenriched claim pages are `status: draft`, and lint's DOI check skips drafts.** This is
+  deliberate, and matches how `check_draft_no_description` and `check_stable_unverified`
+  already work. Do not "fix" it by promoting those pages to `review`.
+- **Links to filenames containing parentheses need the `<...>` form.** A bare destination
+  closes at the first `)`. `scripts/fix_links.py --apply` repairs them; lint's
+  `link_needs_angle_brackets` catches new ones.
+- **`scripts/find_title_duplicates.py` reports ~943 near-duplicate title pairs.** That is a
+  known backlog, mostly hyphen-vs-underscore variants of one page. It is reported, not
+  lint-failing, on purpose.
+
+**When you finish something wiki-wide, add a line here.** That is how the next session
+finds out.
+
+### State as of 2026-08-31 — the stack is collapsed
+
+All three open PRs were merged into `main` in dependency order (#21, then #19, then #20).
+`main` now carries the link repairs, the citation gates, the corrupted-page repairs *and*
+the refilled content for them, the 135-slug normalisation, and the near-duplicate detector.
+`lint.py` reports 0 and `mkdocs build --strict` exits 0 on that tree.
+
+These three branches are **fully merged and dead** — do not resume a session onto them, do
+not push to them, do not reopen a PR from them:
+
+- `claude/research-scraper-test-setup-i4bh9m`
+- `claude/fix-no-h1-pages-240eb2`
+- `claude/normalize-slugs-forward-port`
+
+Ten other remote branches are also fully merged into `main` and equally dead:
+`brand/top-bar-lazuli-colors`, `claude/edtech-theories-principles-v2ezw5`,
+`claude/jls-open-access-scraper-b45d3c`, `claude/learning-wiki-okf-conversion-6t5pjn`,
+`claude/open-source-license-strategy-6q4gjc`, `content/merge-headings-and-highlight`,
+`docs/scale-index-pages`, `feature/source-manifest`, `fix/log-md-formatting`,
+`fix/pages-build-colon-filenames`.
+
+Only four branches still hold unmerged commits:
+
+| Branch | Unmerged | Collision risk |
+|---|---|---|
+| `claude/standards-design-process-homes-q9qky1` | 4 commits, 54 files | **None** — works entirely in a new `goals/` folder, plus `log.md`, `sources/manifest.ndjson`, and one new script |
+| `ci/detect-orphaned-pages-v2` | 1 commit, 2 files | Low — `docs.yml` + a new script |
+| `ci/pr-preview-deploys` | contains the above | Low |
+| `docs/material-theme-polish` | 1 commit, 6 files | **High and stale** — 3 days old, edits `build_indexes.py` and four `index.md` files that have since been regenerated many times. Re-derive the `mkdocs.yml`/`build_indexes.py` change on a fresh branch rather than merging this one |
+
+### Known open work
+
+- **`check_citations.py` only detects one direction of citation conflict.** It groups by
+  first author + year and flags *one paper with two DOIs*. It cannot see *one DOI on two
+  different papers*, which is the more dangerous direction and exactly the Bandura failure
+  (`10.1007/978-1-4684-7562-3_3` on 69 pages). Live example:
+  `10.1111/j.1467-7687.2008.00714.x` is attached to Siegler & Ramani (2008) in
+  *Developmental Science* on `strategies/math_games.md` and to a different Siegler & Ramani
+  (2008) in *Child Development* on `strategies/numbers_to_100.md`. Needs Crossref to
+  resolve, so `strategies/estimation-warm-ups.md` cites that source without a DOI rather
+  than picking a side.
+- **The 13 refilled strategy pages assert DOIs written before the Crossref gate existed.**
+  `#19` states it corroborated DOIs against existing repo usage rather than against Crossref,
+  because that worktree had no network. Re-run `scripts/check_citations.py` over
+  `strategies/{classroom-design-for-engagement,contrasting-cases,formative-assessment-cycles,
+  formative-feedback,multisensory-phonics-instruction,sketchnoting,teaching-as-learning}.md`
+  and the six underscore-named siblings from a machine that can reach Crossref.
+- **Gate 3 (manifest gate) is unbuilt.** `sources/manifest.ndjson` still records `ingested`
+  even when page verification failed.
 
 ---
 
@@ -14,7 +117,7 @@ The wiki is a bundle in the [Open Knowledge Format (OKF) v0.2](https://github.co
 Process a new source (paper, book chapter, CSV batch, worked example) into wiki pages.
 
 Steps:
-1. Identify the page type(s) the source contributes to (principle, element, pattern, strategy, theory, claim)
+1. Identify the page type(s) the source contributes to (principle, element, pattern, strategy, theory, learner-variable, claim). `learner-variable` is schema-ready but not yet part of the automated single-pass extraction prompt (deliberately deferred to a dedicated future sweep, so the extraction agent isn't juggling a fourth job on top of claims/omission/fabrication) — for now, factor a learner-variable page out by hand when a claim reports a finding about a learner characteristic (e.g. "X predicts/moderates Y outcome"), rather than leaving it as a bare, unlinked claim.
 2. Check if a page already exists (`index.md` or `grep` by name)
 3. If new: create a page in the correct folder using the template below
 4. If existing: merge new content into the right sections; append to `## Key Sources` (or `## Evidence` for claims); log the change
@@ -83,11 +186,11 @@ Always link the tag to a claim page: `[Claim statement](../claims/example-claim.
 
 ## Frontmatter fields
 
-Every content page (principle, element, pattern, strategy, theory, claim) carries this OKF-conformant frontmatter:
+Every content page (principle, element, pattern, strategy, theory, learner-variable, claim) carries this OKF-conformant frontmatter:
 
 | Field | Required | Meaning |
 |-------|----------|---------|
-| `type` | Yes | `principle` \| `element` \| `pattern` \| `strategy` \| `theory` \| `claim` |
+| `type` | Yes | `principle` \| `element` \| `pattern` \| `strategy` \| `theory` \| `learner-variable` \| `claim` |
 | `title` | Recommended | Display name — normally matches the page's `# H1` |
 | `description` | Recommended | One-sentence summary, used in index listings |
 | `status` | Recommended | See Status values above |
@@ -133,6 +236,73 @@ which appends the `verified` entry alongside its normal `generated`/log-update w
 
 ---
 
+## Page-type banner
+
+Every content page carries a one-line banner directly under its `# H1`, naming
+the page's type and linking back to its section index:
+
+```markdown
+# Cooperative Learning
+
+> **Principle** · [All principles](index.md)
+```
+
+This exists because 73 slugs live in more than one type folder — `cooperative-learning`
+and `direct-instruction` each exist in **all four** of principles/elements/patterns/strategies,
+with near-identical titles. Frontmatter carries `type`, but mkdocs strips frontmatter out
+of the rendered page entirely, so on the docs site, in GitHub's file view, in the dashboard's
+edit box, and in whatever an agent reads during an ingest, the folder in the URL was the only
+thing distinguishing them. A blockquote renders as a visible callout in both GitHub and
+mkdocs-material.
+
+The banner's label follows the **folder the page is in**, which is what actually determines
+its section — so where frontmatter `type` and the folder disagree, that's a real data bug
+(the page is either misfiled or mislabelled) and a human decides which. `lint.py`'s
+`check_type_banner` verifies all three agree — banner present, label matches folder, and
+frontmatter `type` matches folder — on every health run.
+
+Run `python3 scripts/add_type_banner.py --apply` after any batch that creates pages; it's
+idempotent (updates an existing banner in place rather than stacking a second one), so it's
+safe to re-run at any time. `--check` reports without writing.
+
+Yes, this duplicates `type:` from frontmatter into the body — the same tradeoff this schema
+already accepts for `sources:` mirroring the citations in `## Key Sources`: a structured field
+and a human-readable rendering of the same fact, kept in sync by a lint check rather than by
+dropping one.
+
+---
+
+## Renaming a page
+
+Renaming a page is two jobs, and `git mv` only does the first. Nothing else in
+the wiki updates the pages that link to the one you moved, so a rename lands as
+a set of silently broken cross-links.
+
+The dangerous version is a rename that is correct in its own tree and breaks
+links only when merged forward, because the branch was cut before the linking
+pages existed. That has already happened once here: merging the scraper branch
+orphaned 17 links to `a_finder's_guide_to_facts.md`, renamed there to
+`a_finders_guide_to_facts.md`.
+
+After renaming, always run:
+
+```bash
+python3 scripts/update_links_for_renames.py --from-git --dry-run
+python3 scripts/update_links_for_renames.py --from-git --apply
+```
+
+It reads the renames staged in git (so `git mv` first, or `git add` the rename),
+and re-points every inbound link — same-folder, `../folder/`, bundle-absolute,
+and the percent-encoded spellings models emit for slugs containing `'`, `"`, `?`,
+`,`, `(`, `)`, `&`, `+`. Every rewrite is checked to resolve on disk before it is
+kept, so the pass cannot turn a working link into a broken one. Pass `--map
+<file>` instead of `--from-git` to drive it from an explicit `old<TAB>new` list.
+
+Then confirm with `python3 scripts/lint.py --type broken_links` and regenerate
+indexes with `python3 scripts/build_indexes.py`.
+
+---
+
 ## Cross-link conventions
 
 - Cross-links are standard markdown links, relative to the linking page: `slug.md` for another page in the same folder, `../folder/slug.md` for a page in a different folder (every content folder sits exactly one level under the wiki root, so `../folder/` always resolves correctly regardless of which folder you're linking from)
@@ -156,18 +326,60 @@ ld-wiki/
   patterns/          ← instructional patterns (reusable designs at lesson/unit level)
   strategies/        ← teaching strategies (concrete activity recipes)
   theories/          ← learning theories (explanatory frameworks)
+  learner-variables/ ← canonical learner characteristics (prior knowledge, self-efficacy, ...) claims link into
   claims/            ← empirical claims with evidence
   sources/           ← bibliographic source pages (optional; most citations live inline in Key Sources / Evidence)
+    manifest.ndjson    ← append-only log of every source reviewed, ingested or rejected (see Source Manifest below)
   scripts/
     okf_lib.py         ← shared OKF helpers (frontmatter parse/dump, link conversion, actor formatting)
     ingest.py          ← CSV → wiki pages batch ingest
     enrich.py          ← LLM-based stub enrichment (Claude/Gemini)
     build_indexes.py   ← regenerates index.md and every per-folder index from disk state
     log_revision.py    ← records a revision card + updates a page's `generated` field + appends to log.md
+    log_source_review.py ← appends one entry to sources/manifest.ndjson (see Source Manifest below)
+    add_type_banner.py ← inserts/refreshes the page-type banner under each page's H1 (see below)
+    update_links_for_renames.py ← after pages are renamed, re-points every inbound cross-link (see below)
     lint.py            ← health-check (see Lint above)
 ```
 
 Each folder's `index.md` is itself a reserved OKF filename: no frontmatter (except the bundle-root's `okf_version`), and a plain `* [Title](slug.md) - description` bullet listing grouped by status. Regenerate these with `python3 scripts/build_indexes.py` rather than hand-editing them.
+
+---
+
+## Source Manifest
+
+`sources/manifest.ndjson` is an append-only record of every source article the ingest pipeline has *reviewed* — whether it contributed pages or was rejected as out of scope. It exists so anyone (including people outside this project) can check whether a specific article has already been covered, or audit the whole scan, at a scale (eventually tens of thousands of articles) where a rendered list or one page per source stops being practical. It is not meant to be human-browsed — it's a data file, not a wiki page.
+
+**Format:** one JSON object per line (NDJSON), never rewritten or reordered — only appended to.
+
+```json
+{"id": "eric-ed265520", "title": "The Effects of High and Low Relevant Text Underlining on Test Performance.", "doi": null, "reviewed_at": "2026-08-27", "status": "ingested", "pages": ["elements/text-underlining-and-annotating.md", "theories/von-restorff-effect-text-marking.md"]}
+{"id": "eric-ed616622", "title": "A Bibliography of Cognitive Information Processing Theory, Research, and Practice", "doi": null, "reviewed_at": "2026-08-27", "status": "rejected", "reason": "matched the search topic on keyword overlap only, but the source is a career/vocational-counseling bibliography, not a learning-science theory; out of scope for this wiki"}
+```
+
+Fields: `id` (source identifier — the ERIC/PMC/arXiv id from the automated pipeline, or `doi:<doi>` / a URL for manually-ingested articles), `title`, `doi` (nullable), `reviewed_at` (ISO date), `status` (`"ingested"` or `"rejected"`), and either `pages` (bundle-relative paths the source contributed to, for `"ingested"`) or `reason` (why it didn't contribute, for `"rejected"`).
+
+**Always append via the helper, never hand-edit the file:**
+
+```bash
+python3 scripts/log_source_review.py --id "doi:10.1234/example" --title "Article Title" \
+  --status ingested --pages claims/foo.md elements/bar.md
+
+python3 scripts/log_source_review.py --id "doi:10.1234/other" --title "Other Article" \
+  --status rejected --reason "not learning-science, out of scope"
+```
+
+(`scripts/ingest_extractions.py`, the automated eval-pipeline ingest path, calls `okf_lib.append_manifest_entry()` directly instead of shelling out to this script — same effect.)
+
+**Looking something up** (no need for a script — it's just NDJSON):
+
+```bash
+grep '"id": "eric-ed265520"' sources/manifest.ndjson
+grep -i '"title":.*underlining' sources/manifest.ndjson
+python3 -c "import json,sys; [print(l) for l in map(json.loads, open('sources/manifest.ndjson')) if l['status']=='rejected']"
+```
+
+Known gap: the CSV batch-import path (`scripts/ingest.py`, reading external `~/research_briefs/*.csv` files) doesn't write to the manifest — those rows have no natural per-article identity to key an entry on.
 
 ---
 
@@ -187,6 +399,8 @@ generated:
 ---
 
 # [Principle Name]
+
+> **Principle** · [All principles](index.md)
 
 ## Description
 [What this principle is and what it recommends.]
@@ -243,6 +457,8 @@ generated:
 
 # [Element Name]
 
+> **Element** · [All elements](index.md)
+
 ## Description
 [What this instructional element is; how it functions.]
 
@@ -295,6 +511,8 @@ grain_size:
 ---
 
 # [Pattern Name]
+
+> **Pattern** · [All patterns](index.md)
 
 ## Description
 [What this pattern is; how it works; what problem it solves.]
@@ -372,6 +590,8 @@ generated:
 
 # [Strategy Name]
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 [What this strategy is and how it is carried out.]
 
@@ -425,6 +645,8 @@ generated:
 
 # [Theory Name]
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 [What this theory proposes; its core mechanism or claim.]
 
@@ -456,6 +678,63 @@ generated:
 
 ---
 
+### Learner Variable
+
+A canonical page per distinct learner characteristic/variable (prior knowledge, self-efficacy,
+working memory capacity, spatial ability, ...). Claims that report a finding about the variable
+link *into* it, the same way claims link into theories — this keeps "prior knowledge," "prior
+domain knowledge," and "background knowledge" from three different articles as one page instead
+of three fragmented, undiscoverable mentions. Schema-ready but not yet part of the automated
+single-pass extraction prompt — see the Ingest section above for why, and factor these out by
+hand for now when a claim clearly reports a learner-characteristic finding.
+
+```markdown
+---
+type: learner-variable
+title: [Variable Name]
+description: [One-sentence definition of this learner characteristic]
+status: draft
+generated:
+  by: <actor>
+  at: YYYY-MM-DD
+---
+
+# [Variable Name]
+
+> **Learner Variable** · [All learner variables](index.md)
+
+## Description
+[What this learner variable is; how it's typically measured or operationalized.]
+
+## Implications
+
+### Context
+- 
+
+### Target Learners
+- 
+
+### Target Learning Objectives
+<!-- Learning outcomes this variable has been shown to affect -->
+- 
+
+## Claims
+<!-- Claims reporting findings about this variable, with evidence tags: [Claim statement](../claims/claim-slug.md) [+M] -->
+- 
+
+## Related Learner Variables
+- 
+
+## Examples
+<!-- Links to principles/elements/patterns/strategies that account for this variable -->
+- 
+
+## Key Sources
+- 
+```
+
+---
+
 ### Claim
 
 ```markdown
@@ -471,6 +750,8 @@ evidence_strength:   # strong / moderate / weak / mixed
 ---
 
 # [Claim statement — one sentence, present tense]
+
+> **Claim** · [All claims](index.md)
 
 [Optional 1–2 sentence clarification of scope or mechanism.]
 

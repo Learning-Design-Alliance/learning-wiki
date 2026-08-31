@@ -15,6 +15,8 @@ sources:
 
 # Self-Directed Learning
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Self-directed learning is the principle of helping learners plan, monitor, and manage important parts of their own learning process.
 

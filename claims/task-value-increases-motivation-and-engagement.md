@@ -20,6 +20,8 @@ evidence_strength: strong
 
 # Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.
 
+> **Claim** · [All claims](index.md)
+
 Task value is the learner's subjective appraisal of why a task is worth doing. Expectancy-value theory identifies four components: intrinsic value (the task is inherently interesting or enjoyable), attainment value (success matters to the learner's identity or self-concept), utility value (the task is useful for future goals), and cost (what must be given up to do it). Perceived value, combined with expectancy of success, predicts choice, persistence, and quality of engagement — not just whether a learner participates, but how much they invest.
 
 ## Subclaims

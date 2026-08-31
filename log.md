@@ -8,13 +8,9163 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ---
 
+## 2026-08-30
+
+* **Correction**: 17 pages — repaired all 20 broken cross-links: percent-encoded punctuation in slugs (14), over-deep `../../` paths (3), a filename truncated at its closing paren (2), a `principions/` typo, and two links retargeted to pages that exist
+* **Correction**: 12 pages — replaced citations of the placeholder `claims/claim-slug.md` with real claim links or plain prose; the link text stated a specific claim but resolved to a stub marked "should not be cited"
+* **Deprecate**: `claims/claim-slug.md` — removed; template example slug materialised as a page, cited by 11 pages as if it were evidence
+* **Deprecate**: `principles/principle-slug.md` — removed; duplicate Spaced Practice content at a template placeholder filename, merged into [principles/spacing](principles/spacing.md)
+* **Deprecate**: `strategies/slug.md` — removed; a strategy confabulated from the placeholder filename "slug", with real citations attached to a strategy that does not exist
+* **Correction**: `scripts/enrich.py` — added `repair_encoded_links()` (percent-decoding and path-depth repair, applied only when the corrected target exists) and a `PLACEHOLDER_SLUGS` guard stopping `create_missing_stubs()` from materialising template example links
+* **Correction**: [principles/spacing](principles/spacing.md) — Absorbed the duplicate at principles/principle-slug.md: linked Related Principles and Claims, fixed an internal Rohrer & Taylor DOI conflict
+* **Correction**: [strategies/puppet_shows_to_explore_emotions](strategies/puppet_shows_to_explore_emotions.md) — Replaced unfilled blank-template body with a sourced strategy page; set real title
+* **Correction**: [strategies/promoting_belonging_through_cues_and_representations](strategies/promoting_belonging_through_cues_and_representations.md) — Replaced unfilled blank-template body with a sourced strategy page; set real title
+* **Correction**: [strategies/teaching-as-learning](strategies/teaching-as-learning.md) — Replaced placeholder template body and enrichment reasoning transcript with a sourced strategy page
+* **Correction**: [strategies/sketchnoting](strategies/sketchnoting.md) — Replaced placeholder template body and enrichment reasoning transcript with a sourced strategy page
+* **Correction**: [strategies/ongoing_feedback_and_reflection](strategies/ongoing_feedback_and_reflection.md) — Replaced placeholder template body and enrichment reasoning transcript with a sourced strategy page
+* **Correction**: [strategies/norm_setting](strategies/norm_setting.md) — Replaced placeholder template body and enrichment reasoning transcript with a sourced strategy page
+* **Correction**: [strategies/multisensory-phonics-instruction](strategies/multisensory-phonics-instruction.md) — Replaced placeholder template body and enrichment reasoning transcript with a sourced strategy page
+* **Correction**: [strategies/leveraging_strengths_in_relationship_skills](strategies/leveraging_strengths_in_relationship_skills.md) — Replaced placeholder template body and enrichment reasoning transcript with a sourced strategy page
+* **Correction**: [strategies/have_explicit_conversations_about_emotions_and_social_issues,_including_issues_of_social_justice](strategies/have-explicit-conversations-about-emotions-and-social-issues-including-issues-of-social-justice.md) — Replaced placeholder template body and enrichment reasoning transcript with a sourced strategy page
+* **Correction**: [strategies/formative-feedback](strategies/formative-feedback.md) — Replaced placeholder template body and enrichment reasoning transcript with a sourced strategy page
+* **Correction**: [strategies/formative-assessment-cycles](strategies/formative-assessment-cycles.md) — Replaced placeholder template body and enrichment reasoning transcript with a sourced strategy page
+* **Correction**: [strategies/define_and_apply_ethical_responsibility](strategies/define_and_apply_ethical_responsibility.md) — Replaced placeholder template body and enrichment reasoning transcript with a sourced strategy page
+* **Correction**: [strategies/contrasting-cases](strategies/contrasting-cases.md) — Replaced placeholder template body and enrichment reasoning transcript with a sourced strategy page
+* **Correction**: [strategies/classroom-design-for-engagement](strategies/classroom-design-for-engagement.md) — Replaced placeholder template body and enrichment reasoning transcript with a sourced strategy page
+* **Deprecate**: `strategies/a_finders_guide_to_facts.md` — removed; corrupted duplicate of [strategies/a_finder's_guide_to_facts](strategies/a_finders_guide_to_facts.md), inbound links retargeted
+* **Deprecate**: `strategies/multiple_representations.md` — removed; corrupted duplicate of [strategies/multiple-representations](strategies/multiple-representations.md), inbound links retargeted
+* **Correction**: [strategies/chunking_reduces_working_memory_load](strategies/chunking_reduces_working_memory_load.md) — Relabelled type claim -> strategy to match folder; retitled and added Instructions section
+* **Correction**: [claims/classroom-design-affects-learning-progress](claims/classroom-design-affects-learning-progress.md) — Replaced enrichment reasoning transcript with a sourced claim page; set id and evidence_strength
+* **Correction**: [strategies/on-the-job_training_(ojt)](strategies/on-the-job-training-ojt.md) — Replaced exemplar frontmatter and reasoning transcript with a full OJT strategy page; type element -> strategy
+* **Correction**: [patterns/experiential-learning-cycle](patterns/experiential-learning-cycle.md) — Replaced enrichment reasoning transcript with a full pattern page; restored H1 and type banner
+* **Enrich**: Advance organizers improve learning — enriched from claims CSV via Claude
+* **Enrich**: Argumentation Improves Reasoning — enriched from claims CSV via Claude
+* **Enrich**: Adaptive learning improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Activation Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Analogical Reasoning Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: The timing of acute exercise relative to learning modulates memory consolidation — enriched from claims CSV via Claude
+* **Enrich**: Annotating improves learning — enriched from claims CSV via Claude
+* **Enrich**: Advance Organizers Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Assessment for learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Belonging Interventions Improve Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Authentic Audiences Improve Student Work — enriched from claims CSV via Claude
+* **Enrich**: Automatic word recognition frees resources for comprehension — enriched from claims CSV via Claude
+* **Enrich**: Brief Intervention Empathic Discipline Cuts Suspensions — enriched from claims CSV via Claude
+* **Enrich**: Blended Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Block Play Predicts Math Achievement — enriched from claims CSV via Claude
+* **Enrich**: Building Empathy Improves Intergroup Attitudes — enriched from claims CSV via Claude
+* **Enrich**: Claim Slug — enriched from claims CSV via Claude
+* **Enrich**: Case-based learning improves exam performance — enriched from claims CSV via Claude
+* **Enrich**: Civic Online Reasoning Instruction Improves Evaluation — enriched from claims CSV via Claude
+* **Enrich**: Clear Structure Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Checklist-based evaluation instruction does not reliably improve online source evaluation — enriched from claims CSV via Claude
+* **Enrich**: Classroom Physical Activity Improves Attention — enriched from claims CSV via Claude
+* **Enrich**: Cognitive disequilibrium motivates conceptual change — enriched from claims CSV via Claude
+* **Enrich**: Presenting multiple cases from different perspectives supports transfer in ill-structured domains — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Load Management — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Load Reduction Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Coherence Principle Irrelevant Material Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Collaborative Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Collaborative Writing Improves Text Quality — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Overload Degrades Learning — enriched from claims CSV via Claude
+* **Enrich**: Comparing contrasting cases improves learning — enriched from claims CSV via Claude
+* **Enrich**: Comparing Contrasting Cases Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Considering The Opposite Reduces Bias — enriched from claims CSV via Claude
+* **Enrich**: Concept mapping improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Concept mapping improves learning — enriched from claims CSV via Claude
+* **Enrich**: Cooperative learning without individual accountability produces free-riding that reduces learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Contiguity Principle Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Constructive learning beats active and passive learning — enriched from claims CSV via Claude
+* **Enrich**: Group rewards combined with individual accountability make cooperative learning effective — enriched from claims CSV via Claude
+* **Enrich**: Cooperative Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Cooperative learning outperforms competitive and individualistic goal structures — enriched from claims CSV via Claude
+* **Enrich**: Deliberate Practice Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Decorative Illustrations Do Not Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Desirable Difficulties Enhance Learning — enriched from claims CSV via Claude
+* **Enrich**: Desirable Difficulties Improve Retention — enriched from claims CSV via Claude
+* **Enrich**: Dialogic Reading Improves Expressive Language — enriched from claims CSV via Claude
+* **Enrich**: Dialogic Reading Improves Language Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Disciplinary Literacy Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Direct instruction improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Discussion Quality Drives Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Drawing Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Distributed Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Dual Coding Improves Recall — enriched from claims CSV via Claude
+* **Enrich**: Elaborative Encoding Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Eliciting Self Explanations Improves Understanding — enriched from claims CSV via Claude
+* **Enrich**: Elaborative Interrogation Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Dual Coding Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Expertise Reversal Guidance Hurts Experts — enriched from claims CSV via Claude
+* **Enrich**: Exercise Increases Hippocampal Volume — enriched from claims CSV via Claude
+* **Enrich**: Explicit Handwriting Instruction Improves Legibility — enriched from claims CSV via Claude
+* **Enrich**: Emotion Labeling Improves Regulation — enriched from claims CSV via Claude
+* **Enrich**: Explicit Writing Strategy Instruction Improves Writing — enriched from claims CSV via Claude
+* **Enrich**: Expressive Writing Improves Exam Performance — enriched from claims CSV via Claude
+* **Enrich**: Expressive Writing Improves Health Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Feedback Addressing Task Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Extrinsic Rewards Undermine Intrinsic Motivation — enriched from claims CSV via Claude
+* **Enrich**: Feedback Answers Three Questions — enriched from claims CSV via Claude
+* **Enrich**: Feedback Enhances Retrieval Practice — enriched from claims CSV via Claude
+* **Enrich**: Feedback improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Feedback Improves Learning When It Addresses Task Goals — enriched from claims CSV via Claude
+* **Enrich**: Feedback Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Most Effective At Task And Process Levels — enriched from claims CSV via Claude
+* **Enrich**: Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning — enriched from claims CSV via Claude
+* **Enrich**: Fiction Reading Improves Empathy — enriched from claims CSV via Claude
+* **Enrich**: Feedback Praise Reduces Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Use Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Fluency Judgments Mislead Learners — enriched from claims CSV via Claude
+* **Enrich**: Fluency is a poor cue for actual learning — enriched from claims CSV via Claude
+* **Enrich**: Generation Effect Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Fluent Illusions Mislead Self Assessment — enriched from claims CSV via Claude
+* **Enrich**: Generative Learning Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Generative Learning Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Goal setting improves performance — enriched from claims CSV via Claude
+* **Enrich**: Growth mindset improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Growth mindset interventions produce small positive effects on academic outcomes — enriched from claims CSV via Claude
+* **Enrich**: Guided Discovery Outperforms Pure Discovery — enriched from claims CSV via Claude
+* **Enrich**: Generative processing improves learning — enriched from claims CSV via Claude
+* **Enrich**: Guided Inquiry Outperforms Pure Discovery — enriched from claims CSV via Claude
+* **Enrich**: Graphic Organizers Support Novice Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Guided Notes Improve Note Accuracy — enriched from claims CSV via Claude
+* **Enrich**: Growth Mindset Interventions Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Hands-on learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Guided Play Improves Academic Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Hands On Without Conceptual Integration Insufficient — enriched from claims CSV via Claude
+* **Enrich**: Highlighting Alone Low Utility — enriched from claims CSV via Claude
+* **Enrich**: Highlighting shows low utility for improving learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Highlighting Alone Is Ineffective — enriched from claims CSV via Claude
+* **Enrich**: Different types of handwriting interventions produce equivalent gains in handwriting legibility and fluency — enriched from claims CSV via Claude
+* **Enrich**: Incidental Vocabulary Exposure Limited — enriched from claims CSV via Claude
+* **Enrich**: Increasing Wait Time Improves Response Quality — enriched from claims CSV via Claude
+* **Enrich**: Incidental Word Learning While Reading Occurs But At Low Rates Per Exposure — enriched from claims CSV via Claude
+* **Enrich**: Learners mistake fluency and familiarity for actual knowledge, producing an illusion of knowing — enriched from claims CSV via Claude
+* **Enrich**: Inquiry Based Teaching Improves Science Achievement — enriched from claims CSV via Claude
+* **Enrich**: Interleaved Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Discrimination — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Inductive Learning — enriched from claims CSV via Claude
+* **Enrich**: Invention Tasks Prepare Future Learning — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Joint Book Reading Predicts Literacy Success — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Judgments of learning are often inaccurate — enriched from claims CSV via Claude
+* **Enrich**: Laptop note-taking tends toward verbatim transcription and shallower learning than longhand note-taking — enriched from claims CSV via Claude
+* **Enrich**: Learner-centered teacher–student relationships improve student outcomes — enriched from claims CSV via Claude
+* **Enrich**: Lateral Reading Improves Source Evaluation — enriched from claims CSV via Claude
+* **Enrich**: Learner Constructed Graphic Organizers Outperform Provided — enriched from claims CSV via Claude
+* **Enrich**: Learner Generated Organizers Beat Provided Organizers — enriched from claims CSV via Claude
+* **Enrich**: Learner Paced Beats System Paced Complex Material — enriched from claims CSV via Claude
+* **Enrich**: Learners misjudge which learning strategies are effective — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Effective Study Strategies — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Retrieval Benefit — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Spacing Benefits — enriched from claims CSV via Claude
+* **Enrich**: Learners misjudge the benefits of spaced practice — enriched from claims CSV via Claude
+* **Enrich**: Learning Space Redesign Alone Insufficient — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Mastery — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Tutor Learning — enriched from claims CSV via Claude
+* **Enrich**: Strategy instruction is more effective when contextualized in authentic content-area tasks — enriched from claims CSV via Claude
+* **Enrich**: Learning Styles Matching Does Not Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning Styles Matching Yields No Benefit — enriched from claims CSV via Claude
+* **Enrich**: Manipulatives Improve Math Learning — enriched from claims CSV via Claude
+* **Enrich**: Mastery Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Math Anxiety Degrades Performance — enriched from claims CSV via Claude
+* **Enrich**: Metacognitive prompts improve learning — enriched from claims CSV via Claude
+* **Enrich**: Metacognitive Strategies Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Minimal guidance is ineffective for novices — enriched from claims CSV via Claude
+* **Enrich**: Manipulatives Require Connection To Concept — enriched from claims CSV via Claude
+* **Enrich**: Minimal Guidance Instruction Less Effective — enriched from claims CSV via Claude
+* **Enrich**: Minimal guidance is less effective for novices than explicit instruction — enriched from claims CSV via Claude
+* **Enrich**: Minimally Guided Instruction Less Effective For Novices — enriched from claims CSV via Claude
+* **Enrich**: Presenting words as spoken narration rather than on-screen text alongside graphics improves learning — enriched from claims CSV via Claude
+* **Enrich**: Misconceptions Interfere With New Learning — enriched from claims CSV via Claude
+* **Enrich**: Mismatched Graphic Organizers Increase Extraneous Load — enriched from claims CSV via Claude
+* **Enrich**: Modality Principle Narration Beats On Screen Text — enriched from claims CSV via Claude
+* **Enrich**: Modality Principle Spoken Narration Beats On Screen Text — enriched from claims CSV via Claude
+* **Enrich**: Mnemonic Instruction Improves Recall For Students With Disabilities — enriched from claims CSV via Claude
+* **Enrich**: Morphological Instruction Improves Vocabulary — enriched from claims CSV via Claude
+* **Enrich**: Morphological Instruction Improves Literacy — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Learning More Effective With Words And Pictures — enriched from claims CSV via Claude
+* **Enrich**: People learn better from words and pictures than from words alone — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Principles Benefit Novices — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Words Plus Images Beat Words Alone — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Principle Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Multiple representations improve learning — enriched from claims CSV via Claude
+* **Enrich**: Number Board Games Improve Numerical Knowledge — enriched from claims CSV via Claude
+* **Enrich**: Multiple Contrasting Cases Support Abstraction — enriched from claims CSV via Claude
+* **Enrich**: Parent Implemented Intervention Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Parent Involvement Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Parent Coaching Outperforms Information Only — enriched from claims CSV via Claude
+* **Enrich**: Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone — enriched from claims CSV via Claude
+* **Enrich**: Parent Involvement Improves Early Reading — enriched from claims CSV via Claude
+* **Enrich**: Parental Involvement Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Benefits Assessor — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Structured Criteria Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Worked examples reduce unnecessary search for novices — enriched from claims CSV via Claude
+* **Enrich**: Peer Discussion Improves Conceptual Understanding — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Accuracy Depends On Expertise — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Work Quality — enriched from claims CSV via Claude
+* **Enrich**: Peer Tutoring Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Writing Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Writing — enriched from claims CSV via Claude
+* **Enrich**: Personalized Normative Feedback Corrects Misperceived Norms — enriched from claims CSV via Claude
+* **Enrich**: Personalized Learning Effects Vary With Fidelity — enriched from claims CSV via Claude
+* **Enrich**: Phoneme awareness is a stronger predictor of reading development than rhyme awareness — enriched from claims CSV via Claude
+* **Enrich**: Phonics Instruction Improves Word Reading — enriched from claims CSV via Claude
+* **Enrich**: Phonemic Awareness Training Improves Reading — enriched from claims CSV via Claude
+* **Enrich**: Physical Experience Enhances Science Learning — enriched from claims CSV via Claude
+* **Enrich**: Phonics Instruction Outperforms Whole Word For Generalization — enriched from claims CSV via Claude
+* **Enrich**: Play Based Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Positive Greetings At The Door Improve Engagement — enriched from claims CSV via Claude
+* **Enrich**: Phonological Awareness Training Improves Reading — enriched from claims CSV via Claude
+* **Enrich**: Positive Greetings At The Door Improve Engagement And Behavior — enriched from claims CSV via Claude
+* **Enrich**: Pretesting Can Harm Motivation — enriched from claims CSV via Claude
+* **Enrich**: Pretesting enhances learning — enriched from claims CSV via Claude
+* **Enrich**: Pretesting Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Prior Knowledge Needed For Accurate Self Assessment — enriched from claims CSV via Claude
+* **Enrich**: Process Writing Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Prior Knowledge Determines New Learning — enriched from claims CSV via Claude
+* **Enrich**: Process Writing Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Pretraining Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Productive Failure Improves Conceptual Learning — enriched from claims CSV via Claude
+* **Enrich**: Productive Failure Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Question prompts improve learning — enriched from claims CSV via Claude
+* **Enrich**: Project-based learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Reading Literary Fiction Improves Theory Of Mind — enriched from claims CSV via Claude
+* **Enrich**: Questioning Strategies Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Reading Strategy Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Reciprocal Teaching Improves Reading Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Effect Impairs Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Harms Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Hurts Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundant on-screen text duplicates of narration or graphics impair learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Principle On Screen Text Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Principle Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundant On Screen Text Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Reflective practice shows mixed evidence of effectiveness in professional education — enriched from claims CSV via Claude
+* **Enrich**: Reflective Practice Improves Outcomes When Structured — enriched from claims CSV via Claude
+* **Enrich**: Rereading Is A Low Utility Study Strategy — enriched from claims CSV via Claude
+* **Enrich**: Rereading is less effective than retrieval practice — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Failure Reduces Benefit — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Enhances Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Fails Without Encoding — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Retrieval practice improves long-term retention — enriched from claims CSV via Claude
+* **Enrich**: Rubrics Improve Peer Feedback Quality — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Rewards Undermine Intrinsic Motivation — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Rubrics Improve Student Work Quality — enriched from claims CSV via Claude
+* **Enrich**: Rubrics improve student work — enriched from claims CSV via Claude
+* **Enrich**: Scaffolded Close Reading Improves Comprehension For Struggling Readers — enriched from claims CSV via Claude
+* **Enrich**: Interesting but irrelevant details impair learning — enriched from claims CSV via Claude
+* **Enrich**: Scaffolding improves learning — enriched from claims CSV via Claude
+* **Enrich**: Scaffolding improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Segmenting Improves Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Segmentation Benefits Shrink With Expertise — enriched from claims CSV via Claude
+* **Enrich**: Segmenting Principle Improves Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Social-emotional learning benefits persist at follow-up — enriched from claims CSV via Claude
+* **Enrich**: Seductive Details Harm Learning — enriched from claims CSV via Claude
+* **Enrich**: SEL Programs Improve Academic Achievement — enriched from claims CSV via Claude
+* **Enrich**: SEL Programs Improve Behavior And Achievement — enriched from claims CSV via Claude
+* **Enrich**: SEL programs improve social emotional skills — enriched from claims CSV via Claude
+* **Enrich**: Self-affirmation improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Accuracy Is Low Without Training — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Improves Self Regulated Learning — enriched from claims CSV via Claude
+* **Enrich**: Self-determination instruction improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Determined Learning Model Of Instruction Improves Self Determination — enriched from claims CSV via Claude
+* **Enrich**: Self Directed IEP Increases Student Participation — enriched from claims CSV via Claude
+* **Enrich**: Self-explanation improves learning — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Against Criteria Supports Self Regulated Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Explanation Prompts Improve Learning From Worked Examples — enriched from claims CSV via Claude
+* **Enrich**: Self Explanation Prompts Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Monitoring Comprehension Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Self-questioning improves comprehension — enriched from claims CSV via Claude
+* **Enrich**: Self Monitoring Improves On Task Behavior — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Improves Academic Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Predicts Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategies Improve Performance — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning strategy instruction improves writing outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Regulation Strategy Instruction Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Self Talk Improves Learning And Performance — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategies Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategy Instruction Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self-regulation strategy instruction improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Signaling Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Simulation Based Education With Deliberate Practice Improves Clinical Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Simulation Based Education Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Small Group Learning Improves STEM Achievement — enriched from claims CSV via Claude
+* **Enrich**: Social Emotional Learning Programs Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Social Emotional Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Spaced Practice Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Repetition Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spacing Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spacing Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spatial Skills Improve Through Block Building — enriched from claims CSV via Claude
+* **Enrich**: Spatial Contiguity Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Outperforms Restudy — enriched from claims CSV via Claude
+* **Enrich**: Spatial Training Improves Math Performance — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Degrades Learning — enriched from claims CSV via Claude
+* **Enrich**: Split attention between mutually referring sources of information impairs learning — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Integration Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Story Mapping Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Needs Conditional Knowledge — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Structured Discussion Methods Improve Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Structured Discussion Approaches Improve Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Structured Literacy Interventions Help Struggling Readers — enriched from claims CSV via Claude
+* **Enrich**: Structured Peer Tutoring Outperforms Unstructured — enriched from claims CSV via Claude
+* **Enrich**: Summarization Effective With Training — enriched from claims CSV via Claude
+* **Enrich**: Teacher Expectancy Effects Influence Student Achievement — enriched from claims CSV via Claude
+* **Enrich**: Systematic Phonics Improves Word Reading — enriched from claims CSV via Claude
+* **Enrich**: Summarization Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Teacher Guided Inquiry Outperforms Student Led — enriched from claims CSV via Claude
+* **Enrich**: Teacher expectation effects on achievement — enriched from claims CSV via Claude
+* **Enrich**: Teacher Student Relationships Improve Engagement And Achievement — enriched from claims CSV via Claude
+* **Enrich**: Teacher Student Relationships Improve Engagement — enriched from claims CSV via Claude
+* **Enrich**: Teaching Others Generative Strategy — enriched from claims CSV via Claude
+* **Enrich**: Testing Effect Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Testing Effect Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Retrieval practice improves long-term retention more than restudying — enriched from claims CSV via Claude
+* **Enrich**: Tutoring benefits both tutors and tutees — enriched from claims CSV via Claude
+* **Enrich**: Testing Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Unguided discovery is less effective than guided instruction for novices — enriched from claims CSV via Claude
+* **Enrich**: Words and pictures are better than words alone — enriched from claims CSV via Claude
+* **Enrich**: Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts — enriched from claims CSV via Claude
+* **Enrich**: Tutoring Effectiveness Comes From Scaffolding And Feedback — enriched from claims CSV via Claude
+* **Enrich**: Vocabulary Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Sequencing worked examples with practice problems improves learning for novices — enriched from claims CSV via Claude
+* **Enrich**: Writing Improves Mathematical Understanding — enriched from claims CSV via Claude
+* **Enrich**: Writing Strategy Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Writing To Learn Improves Content Learning — enriched from claims CSV via Claude
+* **Enrich**: Writing To Learn Improves Understanding — enriched from claims CSV via Claude
+* **Enrich**: Adaptive learning improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Argumentation Improves Reasoning — enriched from claims CSV via Claude
+* **Enrich**: Advance organizers improve learning — enriched from claims CSV via Claude
+* **Enrich**: Analogical Reasoning Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Activation Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: The timing of acute exercise relative to learning modulates memory consolidation — enriched from claims CSV via Claude
+* **Enrich**: Annotating improves learning — enriched from claims CSV via Claude
+* **Enrich**: Advance Organizers Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Authentic Audiences Improve Student Work — enriched from claims CSV via Claude
+* **Enrich**: Assessment for learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Blended Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Automatic word recognition frees resources for comprehension — enriched from claims CSV via Claude
+* **Enrich**: Block Play Predicts Math Achievement — enriched from claims CSV via Claude
+* **Enrich**: Belonging Interventions Improve Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Brief Intervention Empathic Discipline Cuts Suspensions — enriched from claims CSV via Claude
+* **Enrich**: Building Empathy Improves Intergroup Attitudes — enriched from claims CSV via Claude
+* **Enrich**: Claim Slug — enriched from claims CSV via Claude
+* **Enrich**: Case-based learning improves exam performance — enriched from claims CSV via Claude
+* **Enrich**: Checklist-based evaluation instruction does not reliably improve online source evaluation — enriched from claims CSV via Claude
+* **Enrich**: Civic Online Reasoning Instruction Improves Evaluation — enriched from claims CSV via Claude
+* **Enrich**: Clear Structure Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Classroom Physical Activity Improves Attention — enriched from claims CSV via Claude
+* **Enrich**: Cognitive disequilibrium motivates conceptual change — enriched from claims CSV via Claude
+* **Enrich**: Presenting multiple cases from different perspectives supports transfer in ill-structured domains — enriched from claims CSV via Claude
+* **Enrich**: Coherence Principle Irrelevant Material Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Load Management — enriched from claims CSV via Claude
+* **Enrich**: Collaborative Writing Improves Text Quality — enriched from claims CSV via Claude
+* **Enrich**: Collaborative Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Overload Degrades Learning — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Load Reduction Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Comparing Contrasting Cases Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Comparing contrasting cases improves learning — enriched from claims CSV via Claude
+* **Enrich**: Concept mapping improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Considering The Opposite Reduces Bias — enriched from claims CSV via Claude
+* **Enrich**: Concept mapping improves learning — enriched from claims CSV via Claude
+* **Enrich**: Cooperative learning without individual accountability produces free-riding that reduces learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Contiguity Principle Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Constructive learning beats active and passive learning — enriched from claims CSV via Claude
+* **Enrich**: Cooperative Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Group rewards combined with individual accountability make cooperative learning effective — enriched from claims CSV via Claude
+* **Enrich**: Cooperative learning outperforms competitive and individualistic goal structures — enriched from claims CSV via Claude
+* **Enrich**: Decorative Illustrations Do Not Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Dialogic Reading Improves Expressive Language — enriched from claims CSV via Claude
+* **Enrich**: Desirable Difficulties Enhance Learning — enriched from claims CSV via Claude
+* **Enrich**: Desirable Difficulties Improve Retention — enriched from claims CSV via Claude
+* **Enrich**: Deliberate Practice Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Dialogic Reading Improves Language Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Direct instruction improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Discussion Quality Drives Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Disciplinary Literacy Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Dual Coding Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Distributed Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Dual Coding Improves Recall — enriched from claims CSV via Claude
+* **Enrich**: Drawing Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Elaborative Interrogation Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Elaborative Encoding Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Emotion Labeling Improves Regulation — enriched from claims CSV via Claude
+* **Enrich**: Exercise Increases Hippocampal Volume — enriched from claims CSV via Claude
+* **Enrich**: Expertise Reversal Guidance Hurts Experts — enriched from claims CSV via Claude
+* **Enrich**: Explicit Writing Strategy Instruction Improves Writing — enriched from claims CSV via Claude
+* **Enrich**: Explicit Handwriting Instruction Improves Legibility — enriched from claims CSV via Claude
+* **Enrich**: Expressive Writing Improves Health Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Expressive Writing Improves Exam Performance — enriched from claims CSV via Claude
+* **Enrich**: Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning — enriched from claims CSV via Claude
+* **Enrich**: Eliciting Self Explanations Improves Understanding — enriched from claims CSV via Claude
+* **Enrich**: Feedback Addressing Task Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Extrinsic Rewards Undermine Intrinsic Motivation — enriched from claims CSV via Claude
+* **Enrich**: Feedback Improves Learning When It Addresses Task Goals — enriched from claims CSV via Claude
+* **Enrich**: Feedback Enhances Retrieval Practice — enriched from claims CSV via Claude
+* **Enrich**: Feedback Answers Three Questions — enriched from claims CSV via Claude
+* **Enrich**: Feedback improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Feedback Use Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Most Effective At Task And Process Levels — enriched from claims CSV via Claude
+* **Enrich**: Feedback Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Fiction Reading Improves Empathy — enriched from claims CSV via Claude
+* **Enrich**: Feedback Praise Reduces Learning — enriched from claims CSV via Claude
+* **Enrich**: Fluent Illusions Mislead Self Assessment — enriched from claims CSV via Claude
+* **Enrich**: Fluency Judgments Mislead Learners — enriched from claims CSV via Claude
+* **Enrich**: Fluency is a poor cue for actual learning — enriched from claims CSV via Claude
+* **Enrich**: Generation Effect Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Generative Learning Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Generative Learning Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Graphic Organizers Support Novice Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Goal setting improves performance — enriched from claims CSV via Claude
+* **Enrich**: Growth mindset improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Growth Mindset Interventions Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Generative processing improves learning — enriched from claims CSV via Claude
+* **Enrich**: Growth mindset interventions produce small positive effects on academic outcomes — enriched from claims CSV via Claude
+* **Enrich**: Hands On Without Conceptual Integration Insufficient — enriched from claims CSV via Claude
+* **Enrich**: Guided Notes Improve Note Accuracy — enriched from claims CSV via Claude
+* **Enrich**: Hands-on learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Guided Inquiry Outperforms Pure Discovery — enriched from claims CSV via Claude
+* **Enrich**: Guided Play Improves Academic Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Different types of handwriting interventions produce equivalent gains in handwriting legibility and fluency — enriched from claims CSV via Claude
+* **Enrich**: Highlighting Alone Is Ineffective — enriched from claims CSV via Claude
+* **Enrich**: Highlighting Alone Low Utility — enriched from claims CSV via Claude
+* **Enrich**: Highlighting shows low utility for improving learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Incidental Vocabulary Exposure Limited — enriched from claims CSV via Claude
+* **Enrich**: Increasing Wait Time Improves Response Quality — enriched from claims CSV via Claude
+* **Enrich**: Learners mistake fluency and familiarity for actual knowledge, producing an illusion of knowing — enriched from claims CSV via Claude
+* **Enrich**: Inquiry Based Teaching Improves Science Achievement — enriched from claims CSV via Claude
+* **Enrich**: Incidental Word Learning While Reading Occurs But At Low Rates Per Exposure — enriched from claims CSV via Claude
+* **Enrich**: Guided Discovery Outperforms Pure Discovery — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Inductive Learning — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Discrimination — enriched from claims CSV via Claude
+* **Enrich**: Interleaved Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Invention Tasks Prepare Future Learning — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Joint Book Reading Predicts Literacy Success — enriched from claims CSV via Claude
+* **Enrich**: Laptop note-taking tends toward verbatim transcription and shallower learning than longhand note-taking — enriched from claims CSV via Claude
+* **Enrich**: Lateral Reading Improves Source Evaluation — enriched from claims CSV via Claude
+* **Enrich**: Learner-centered teacher–student relationships improve student outcomes — enriched from claims CSV via Claude
+* **Enrich**: Judgments of learning are often inaccurate — enriched from claims CSV via Claude
+* **Enrich**: Learner Generated Organizers Beat Provided Organizers — enriched from claims CSV via Claude
+* **Enrich**: Learner Constructed Graphic Organizers Outperform Provided — enriched from claims CSV via Claude
+* **Enrich**: Learners misjudge which learning strategies are effective — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Effective Study Strategies — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Retrieval Benefit — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Spacing Benefits — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Learners misjudge the benefits of spaced practice — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Mastery — enriched from claims CSV via Claude
+* **Enrich**: Learning Space Redesign Alone Insufficient — enriched from claims CSV via Claude
+* **Enrich**: Learner Paced Beats System Paced Complex Material — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Tutor Learning — enriched from claims CSV via Claude
+* **Enrich**: Strategy instruction is more effective when contextualized in authentic content-area tasks — enriched from claims CSV via Claude
+* **Enrich**: Manipulatives Improve Math Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning Styles Matching Yields No Benefit — enriched from claims CSV via Claude
+* **Enrich**: Learning Styles Matching Does Not Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Mastery Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Manipulatives Require Connection To Concept — enriched from claims CSV via Claude
+* **Enrich**: Metacognitive Strategies Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Metacognitive prompts improve learning — enriched from claims CSV via Claude
+* **Enrich**: Math Anxiety Degrades Performance — enriched from claims CSV via Claude
+* **Enrich**: Minimal Guidance Instruction Less Effective — enriched from claims CSV via Claude
+* **Enrich**: Minimal guidance is ineffective for novices — enriched from claims CSV via Claude
+* **Enrich**: Minimally Guided Instruction Less Effective For Novices — enriched from claims CSV via Claude
+* **Enrich**: Minimal guidance is less effective for novices than explicit instruction — enriched from claims CSV via Claude
+* **Enrich**: Presenting words as spoken narration rather than on-screen text alongside graphics improves learning — enriched from claims CSV via Claude
+* **Enrich**: Mismatched Graphic Organizers Increase Extraneous Load — enriched from claims CSV via Claude
+* **Enrich**: Misconceptions Interfere With New Learning — enriched from claims CSV via Claude
+* **Enrich**: Mnemonic Instruction Improves Recall For Students With Disabilities — enriched from claims CSV via Claude
+* **Enrich**: Modality Principle Narration Beats On Screen Text — enriched from claims CSV via Claude
+* **Enrich**: Modality Principle Spoken Narration Beats On Screen Text — enriched from claims CSV via Claude
+* **Enrich**: Morphological Instruction Improves Vocabulary — enriched from claims CSV via Claude
+* **Enrich**: Morphological Instruction Improves Literacy — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Principle Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: People learn better from words and pictures than from words alone — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Learning More Effective With Words And Pictures — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Principles Benefit Novices — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Words Plus Images Beat Words Alone — enriched from claims CSV via Claude
+* **Enrich**: Parent Implemented Intervention Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Parent Coaching Outperforms Information Only — enriched from claims CSV via Claude
+* **Enrich**: Multiple Contrasting Cases Support Abstraction — enriched from claims CSV via Claude
+* **Enrich**: Parent Involvement Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone — enriched from claims CSV via Claude
+* **Enrich**: Number Board Games Improve Numerical Knowledge — enriched from claims CSV via Claude
+* **Enrich**: Multiple representations improve learning — enriched from claims CSV via Claude
+* **Enrich**: Parent Involvement Improves Early Reading — enriched from claims CSV via Claude
+* **Enrich**: Parental Involvement Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Benefits Assessor — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Structured Criteria Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Worked examples reduce unnecessary search for novices — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Peer Discussion Improves Conceptual Understanding — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Accuracy Depends On Expertise — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Writing Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Work Quality — enriched from claims CSV via Claude
+* **Enrich**: Peer Tutoring Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Writing — enriched from claims CSV via Claude
+* **Enrich**: Personalized Learning Effects Vary With Fidelity — enriched from claims CSV via Claude
+* **Enrich**: Personalized Normative Feedback Corrects Misperceived Norms — enriched from claims CSV via Claude
+* **Enrich**: Phoneme awareness is a stronger predictor of reading development than rhyme awareness — enriched from claims CSV via Claude
+* **Enrich**: Phonemic Awareness Training Improves Reading — enriched from claims CSV via Claude
+* **Enrich**: Phonics Instruction Improves Word Reading — enriched from claims CSV via Claude
+* **Enrich**: Phonological Awareness Training Improves Reading — enriched from claims CSV via Claude
+* **Enrich**: Phonics Instruction Outperforms Whole Word For Generalization — enriched from claims CSV via Claude
+* **Enrich**: Physical Experience Enhances Science Learning — enriched from claims CSV via Claude
+* **Enrich**: Play Based Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Positive Greetings At The Door Improve Engagement — enriched from claims CSV via Claude
+* **Enrich**: Positive Greetings At The Door Improve Engagement And Behavior — enriched from claims CSV via Claude
+* **Enrich**: Pretesting Can Harm Motivation — enriched from claims CSV via Claude
+* **Enrich**: Pretesting enhances learning — enriched from claims CSV via Claude
+* **Enrich**: Pretesting Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Process Writing Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Prior Knowledge Needed For Accurate Self Assessment — enriched from claims CSV via Claude
+* **Enrich**: Process Writing Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Prior Knowledge Determines New Learning — enriched from claims CSV via Claude
+* **Enrich**: Productive Failure Improves Conceptual Learning — enriched from claims CSV via Claude
+* **Enrich**: Productive Failure Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Project-based learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Question prompts improve learning — enriched from claims CSV via Claude
+* **Enrich**: Pretraining Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Reading Strategy Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Reading Literary Fiction Improves Theory Of Mind — enriched from claims CSV via Claude
+* **Enrich**: Questioning Strategies Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Reciprocal Teaching Improves Reading Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Harms Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Effect Impairs Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Hurts Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Principle Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundant on-screen text duplicates of narration or graphics impair learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Principle On Screen Text Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundant On Screen Text Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Reflective practice shows mixed evidence of effectiveness in professional education — enriched from claims CSV via Claude
+* **Enrich**: Reflective Practice Improves Outcomes When Structured — enriched from claims CSV via Claude
+* **Enrich**: Rereading is less effective than retrieval practice — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Fails Without Encoding — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Failure Reduces Benefit — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Rereading Is A Low Utility Study Strategy — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Enhances Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Retrieval practice improves long-term retention — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Rubrics Improve Peer Feedback Quality — enriched from claims CSV via Claude
+* **Enrich**: Rewards Undermine Intrinsic Motivation — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Rubrics improve student work — enriched from claims CSV via Claude
+* **Enrich**: Rubrics Improve Student Work Quality — enriched from claims CSV via Claude
+* **Enrich**: Scaffolded Close Reading Improves Comprehension For Struggling Readers — enriched from claims CSV via Claude
+* **Enrich**: Interesting but irrelevant details impair learning — enriched from claims CSV via Claude
+* **Enrich**: Scaffolding improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Scaffolding improves learning — enriched from claims CSV via Claude
+* **Enrich**: Segmenting Improves Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Social-emotional learning benefits persist at follow-up — enriched from claims CSV via Claude
+* **Enrich**: Segmentation Benefits Shrink With Expertise — enriched from claims CSV via Claude
+* **Enrich**: Segmenting Principle Improves Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: SEL Programs Improve Academic Achievement — enriched from claims CSV via Claude
+* **Enrich**: Seductive Details Harm Learning — enriched from claims CSV via Claude
+* **Enrich**: SEL Programs Improve Behavior And Achievement — enriched from claims CSV via Claude
+* **Enrich**: SEL programs improve social emotional skills — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Accuracy Is Low Without Training — enriched from claims CSV via Claude
+* **Enrich**: Self-determination instruction improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Improves Self Regulated Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Determined Learning Model Of Instruction Improves Self Determination — enriched from claims CSV via Claude
+* **Enrich**: Self Directed IEP Increases Student Participation — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Against Criteria Supports Self Regulated Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Explanation Prompts Improve Learning From Worked Examples — enriched from claims CSV via Claude
+* **Enrich**: Self-explanation improves learning — enriched from claims CSV via Claude
+* **Enrich**: Self Explanation Prompts Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Monitoring Comprehension Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Monitoring Improves On Task Behavior — enriched from claims CSV via Claude
+* **Enrich**: Self-questioning improves comprehension — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Improves Academic Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self-affirmation improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Predicts Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategies Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategies Improve Performance — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning strategy instruction improves writing outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Regulation Strategy Instruction Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategy Instruction Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Talk Improves Learning And Performance — enriched from claims CSV via Claude
+* **Enrich**: Self-regulation strategy instruction improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Signaling Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Social Emotional Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Simulation Based Education With Deliberate Practice Improves Clinical Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Social Emotional Learning Programs Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Simulation Based Education Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Small Group Learning Improves STEM Achievement — enriched from claims CSV via Claude
+* **Enrich**: Spaced Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Practice Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Repetition Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Outperforms Restudy — enriched from claims CSV via Claude
+* **Enrich**: Spacing Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spacing Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spatial Skills Improve Through Block Building — enriched from claims CSV via Claude
+* **Enrich**: Spatial Contiguity Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Spatial Training Improves Math Performance — enriched from claims CSV via Claude
+* **Enrich**: Split attention between mutually referring sources of information impairs learning — enriched from claims CSV via Claude
+* **Enrich**: Story Mapping Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Degrades Learning — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Integration Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Needs Conditional Knowledge — enriched from claims CSV via Claude
+* **Enrich**: Structured Discussion Approaches Improve Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Summarization Effective With Training — enriched from claims CSV via Claude
+* **Enrich**: Structured Discussion Methods Improve Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Structured Literacy Interventions Help Struggling Readers — enriched from claims CSV via Claude
+* **Enrich**: Structured Peer Tutoring Outperforms Unstructured — enriched from claims CSV via Claude
+* **Enrich**: Summarization Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Systematic Phonics Improves Word Reading — enriched from claims CSV via Claude
+* **Enrich**: Teacher Expectancy Effects Influence Student Achievement — enriched from claims CSV via Claude
+* **Enrich**: Teacher expectation effects on achievement — enriched from claims CSV via Claude
+* **Enrich**: Teacher Student Relationships Improve Engagement And Achievement — enriched from claims CSV via Claude
+* **Enrich**: Teacher Student Relationships Improve Engagement — enriched from claims CSV via Claude
+* **Enrich**: Teacher Guided Inquiry Outperforms Student Led — enriched from claims CSV via Claude
+* **Enrich**: Teaching Others Generative Strategy — enriched from claims CSV via Claude
+* **Enrich**: Testing Effect Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Testing Effect Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Retrieval practice improves long-term retention more than restudying — enriched from claims CSV via Claude
+* **Enrich**: Testing Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Tutoring benefits both tutors and tutees — enriched from claims CSV via Claude
+* **Enrich**: Unguided discovery is less effective than guided instruction for novices — enriched from claims CSV via Claude
+* **Enrich**: Tutoring Effectiveness Comes From Scaffolding And Feedback — enriched from claims CSV via Claude
+* **Enrich**: Words and pictures are better than words alone — enriched from claims CSV via Claude
+* **Enrich**: Sequencing worked examples with practice problems improves learning for novices — enriched from claims CSV via Claude
+* **Enrich**: Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts — enriched from claims CSV via Claude
+* **Enrich**: Vocabulary Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Writing Strategy Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Writing Improves Mathematical Understanding — enriched from claims CSV via Claude
+* **Enrich**: Writing To Learn Improves Content Learning — enriched from claims CSV via Claude
+* **Enrich**: Writing To Learn Improves Understanding — enriched from claims CSV via Claude
+* **Enrich**: Advance organizers improve learning — enriched from claims CSV via Claude
+* **Enrich**: Argumentation Improves Reasoning — enriched from claims CSV via Claude
+* **Enrich**: Analogical Reasoning Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Activation Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Adaptive learning improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: The timing of acute exercise relative to learning modulates memory consolidation — enriched from claims CSV via Claude
+* **Enrich**: Annotating improves learning — enriched from claims CSV via Claude
+* **Enrich**: Advance Organizers Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Belonging Interventions Improve Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Assessment for learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Authentic Audiences Improve Student Work — enriched from claims CSV via Claude
+* **Enrich**: Brief Intervention Empathic Discipline Cuts Suspensions — enriched from claims CSV via Claude
+* **Enrich**: Automatic word recognition frees resources for comprehension — enriched from claims CSV via Claude
+* **Enrich**: Blended Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Block Play Predicts Math Achievement — enriched from claims CSV via Claude
+* **Enrich**: Building Empathy Improves Intergroup Attitudes — enriched from claims CSV via Claude
+* **Enrich**: Claim Slug — enriched from claims CSV via Claude
+* **Enrich**: Case-based learning improves exam performance — enriched from claims CSV via Claude
+* **Enrich**: Civic Online Reasoning Instruction Improves Evaluation — enriched from claims CSV via Claude
+* **Enrich**: Checklist-based evaluation instruction does not reliably improve online source evaluation — enriched from claims CSV via Claude
+* **Enrich**: Clear Structure Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Classroom Physical Activity Improves Attention — enriched from claims CSV via Claude
+* **Enrich**: Cognitive disequilibrium motivates conceptual change — enriched from claims CSV via Claude
+* **Enrich**: Presenting multiple cases from different perspectives supports transfer in ill-structured domains — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Load Management — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Load Reduction Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Coherence Principle Irrelevant Material Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Collaborative Writing Improves Text Quality — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Overload Degrades Learning — enriched from claims CSV via Claude
+* **Enrich**: Collaborative Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Comparing contrasting cases improves learning — enriched from claims CSV via Claude
+* **Enrich**: Comparing Contrasting Cases Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Concept mapping improves learning — enriched from claims CSV via Claude
+* **Enrich**: Considering The Opposite Reduces Bias — enriched from claims CSV via Claude
+* **Enrich**: Concept mapping improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Cooperative learning without individual accountability produces free-riding that reduces learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Contiguity Principle Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Group rewards combined with individual accountability make cooperative learning effective — enriched from claims CSV via Claude
+* **Enrich**: Constructive learning beats active and passive learning — enriched from claims CSV via Claude
+* **Enrich**: Cooperative Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Cooperative learning outperforms competitive and individualistic goal structures — enriched from claims CSV via Claude
+* **Enrich**: Decorative Illustrations Do Not Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Deliberate Practice Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Dialogic Reading Improves Expressive Language — enriched from claims CSV via Claude
+* **Enrich**: Desirable Difficulties Improve Retention — enriched from claims CSV via Claude
+* **Enrich**: Desirable Difficulties Enhance Learning — enriched from claims CSV via Claude
+* **Enrich**: Dialogic Reading Improves Language Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Disciplinary Literacy Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Direct instruction improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Dual Coding Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Discussion Quality Drives Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Drawing Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Distributed Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Dual Coding Improves Recall — enriched from claims CSV via Claude
+* **Enrich**: Elaborative Encoding Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Eliciting Self Explanations Improves Understanding — enriched from claims CSV via Claude
+* **Enrich**: Emotion Labeling Improves Regulation — enriched from claims CSV via Claude
+* **Enrich**: Elaborative Interrogation Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Exercise Increases Hippocampal Volume — enriched from claims CSV via Claude
+* **Enrich**: Expertise Reversal Guidance Hurts Experts — enriched from claims CSV via Claude
+* **Enrich**: Explicit Handwriting Instruction Improves Legibility — enriched from claims CSV via Claude
+* **Enrich**: Explicit Writing Strategy Instruction Improves Writing — enriched from claims CSV via Claude
+* **Enrich**: Expressive Writing Improves Exam Performance — enriched from claims CSV via Claude
+* **Enrich**: Example–problem sequences reduce cognitive load and improve learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Expressive Writing Improves Health Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Extrinsic Rewards Undermine Intrinsic Motivation — enriched from claims CSV via Claude
+* **Enrich**: [Claim statement — one sentence, present tense] — enriched from claims CSV via Claude
+* **Enrich**: Feedback Addressing Task Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Answers Three Questions — enriched from claims CSV via Claude
+* **Enrich**: Feedback Enhances Retrieval Practice — enriched from claims CSV via Claude
+* **Enrich**: Feedback improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Feedback Improves Learning When It Addresses Task Goals — enriched from claims CSV via Claude
+* **Enrich**: Feedback Most Effective At Task And Process Levels — enriched from claims CSV via Claude
+* **Enrich**: Feedback Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Praise Reduces Learning — enriched from claims CSV via Claude
+* **Enrich**: Fiction Reading Improves Empathy — enriched from claims CSV via Claude
+* **Enrich**: Fluency Judgments Mislead Learners — enriched from claims CSV via Claude
+* **Enrich**: Fluent Illusions Mislead Self Assessment — enriched from claims CSV via Claude
+* **Enrich**: Feedback Use Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Fluency is a poor cue for actual learning — enriched from claims CSV via Claude
+* **Enrich**: Generation Effect Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Generative Learning Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Generative Learning Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Generative processing improves learning — enriched from claims CSV via Claude
+* **Enrich**: Goal setting improves performance — enriched from claims CSV via Claude
+* **Enrich**: Graphic Organizers Support Novice Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Growth Mindset Interventions Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Growth mindset interventions produce small positive effects on academic outcomes — enriched from claims CSV via Claude
+* **Enrich**: Growth mindset improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Guided Notes Improve Note Accuracy — enriched from claims CSV via Claude
+* **Enrich**: Guided Discovery Outperforms Pure Discovery — enriched from claims CSV via Claude
+* **Enrich**: Guided Play Improves Academic Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Guided Inquiry Outperforms Pure Discovery — enriched from claims CSV via Claude
+* **Enrich**: Hands-on learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Hands On Without Conceptual Integration Insufficient — enriched from claims CSV via Claude
+* **Enrich**: Highlighting Alone Is Ineffective — enriched from claims CSV via Claude
+* **Enrich**: Highlighting Alone Low Utility — enriched from claims CSV via Claude
+* **Enrich**: Highlighting shows low utility for improving learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Increasing Wait Time Improves Response Quality — enriched from claims CSV via Claude
+* **Enrich**: Learners mistake fluency and familiarity for actual knowledge, producing an illusion of knowing — enriched from claims CSV via Claude
+* **Enrich**: Incidental Vocabulary Exposure Limited — enriched from claims CSV via Claude
+* **Enrich**: Incidental Word Learning While Reading Occurs But At Low Rates Per Exposure — enriched from claims CSV via Claude
+* **Enrich**: Inquiry Based Teaching Improves Science Achievement — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Discrimination — enriched from claims CSV via Claude
+* **Enrich**: Interleaved Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Inductive Learning — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Invention Tasks Prepare Future Learning — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Joint Book Reading Predicts Literacy Success — enriched from claims CSV via Claude
+* **Enrich**: Judgments of learning are often inaccurate — enriched from claims CSV via Claude
+* **Enrich**: Laptop note-taking tends toward verbatim transcription and shallower learning than longhand note-taking — enriched from claims CSV via Claude
+* **Enrich**: Learner Generated Organizers Beat Provided Organizers — enriched from claims CSV via Claude
+* **Enrich**: Learner-centered teacher–student relationships improve student outcomes — enriched from claims CSV via Claude
+* **Enrich**: Lateral Reading Improves Source Evaluation — enriched from claims CSV via Claude
+* **Enrich**: Learner Paced Beats System Paced Complex Material — enriched from claims CSV via Claude
+* **Enrich**: Learner Constructed Graphic Organizers Outperform Provided — enriched from claims CSV via Claude
+* **Enrich**: Learners misjudge which learning strategies are effective — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Retrieval Benefit — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Spacing Benefits — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Effective Study Strategies — enriched from claims CSV via Claude
+* **Enrich**: Learners misjudge the benefits of spaced practice — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Mastery — enriched from claims CSV via Claude
+* **Enrich**: Learning Styles Matching Does Not Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Tutor Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning Space Redesign Alone Insufficient — enriched from claims CSV via Claude
+* **Enrich**: Strategy instruction is more effective when contextualized in authentic content-area tasks — enriched from claims CSV via Claude
+* **Enrich**: Manipulatives Improve Math Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning Styles Matching Yields No Benefit — enriched from claims CSV via Claude
+* **Enrich**: Manipulatives Require Connection To Concept — enriched from claims CSV via Claude
+* **Enrich**: Mastery Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Math Anxiety Degrades Performance — enriched from claims CSV via Claude
+* **Enrich**: Different types of handwriting interventions produce equivalent gains in handwriting legibility and fluency — enriched from claims CSV via Claude
+* **Enrich**: Metacognitive prompts improve learning — enriched from claims CSV via Claude
+* **Enrich**: Metacognitive Strategies Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Minimal Guidance Instruction Less Effective — enriched from claims CSV via Claude
+* **Enrich**: Minimal guidance is ineffective for novices — enriched from claims CSV via Claude
+* **Enrich**: Minimal guidance is less effective for novices than explicit instruction — enriched from claims CSV via Claude
+* **Enrich**: Minimally Guided Instruction Less Effective For Novices — enriched from claims CSV via Claude
+* **Enrich**: Mnemonic Instruction Improves Recall For Students With Disabilities — enriched from claims CSV via Claude
+* **Enrich**: Presenting words as spoken narration rather than on-screen text alongside graphics improves learning — enriched from claims CSV via Claude
+* **Enrich**: Misconceptions Interfere With New Learning — enriched from claims CSV via Claude
+* **Enrich**: Mismatched Graphic Organizers Increase Extraneous Load — enriched from claims CSV via Claude
+* **Enrich**: Modality Principle Narration Beats On Screen Text — enriched from claims CSV via Claude
+* **Enrich**: Modality Principle Spoken Narration Beats On Screen Text — enriched from claims CSV via Claude
+* **Enrich**: Morphological Instruction Improves Vocabulary — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Principle Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Morphological Instruction Improves Literacy — enriched from claims CSV via Claude
+* **Enrich**: People learn better from words and pictures than from words alone — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Principles Benefit Novices — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Words Plus Images Beat Words Alone — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Learning More Effective With Words And Pictures — enriched from claims CSV via Claude
+* **Enrich**: Multiple Contrasting Cases Support Abstraction — enriched from claims CSV via Claude
+* **Enrich**: Number Board Games Improve Numerical Knowledge — enriched from claims CSV via Claude
+* **Enrich**: Multiple representations improve learning — enriched from claims CSV via Claude
+* **Enrich**: Parent Implemented Intervention Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Parent Coaching Outperforms Information Only — enriched from claims CSV via Claude
+* **Enrich**: Parent Involvement Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Parent Involvement Improves Early Reading — enriched from claims CSV via Claude
+* **Enrich**: Parental Involvement Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Benefits Assessor — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Structured Criteria Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Peer Discussion Improves Conceptual Understanding — enriched from claims CSV via Claude
+* **Enrich**: Worked examples reduce unnecessary search for novices — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Accuracy Depends On Expertise — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Writing Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Writing — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Work Quality — enriched from claims CSV via Claude
+* **Enrich**: Peer Tutoring Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Personalized Normative Feedback Corrects Misperceived Norms — enriched from claims CSV via Claude
+* **Enrich**: Phonemic Awareness Training Improves Reading — enriched from claims CSV via Claude
+* **Enrich**: Personalized Learning Effects Vary With Fidelity — enriched from claims CSV via Claude
+* **Enrich**: Phoneme awareness is a stronger predictor of reading development than rhyme awareness — enriched from claims CSV via Claude
+* **Enrich**: Phonics Instruction Improves Word Reading — enriched from claims CSV via Claude
+* **Enrich**: Phonological Awareness Training Improves Reading — enriched from claims CSV via Claude
+* **Enrich**: Phonics Instruction Outperforms Whole Word For Generalization — enriched from claims CSV via Claude
+* **Enrich**: Physical Experience Enhances Science Learning — enriched from claims CSV via Claude
+* **Enrich**: Play Based Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Positive Greetings At The Door Improve Engagement — enriched from claims CSV via Claude
+* **Enrich**: Positive Greetings At The Door Improve Engagement And Behavior — enriched from claims CSV via Claude
+* **Enrich**: Pretesting Can Harm Motivation — enriched from claims CSV via Claude
+* **Enrich**: Pretesting Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Pretesting enhances learning — enriched from claims CSV via Claude
+* **Enrich**: Pretraining Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Prior Knowledge Needed For Accurate Self Assessment — enriched from claims CSV via Claude
+* **Enrich**: Process Writing Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Prior Knowledge Determines New Learning — enriched from claims CSV via Claude
+* **Enrich**: Process Writing Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Question prompts improve learning — enriched from claims CSV via Claude
+* **Enrich**: Reading Strategy Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Productive Failure Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Reading Literary Fiction Improves Theory Of Mind — enriched from claims CSV via Claude
+* **Enrich**: Productive Failure Improves Conceptual Learning — enriched from claims CSV via Claude
+* **Enrich**: Questioning Strategies Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Project-based learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Harms Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Effect Impairs Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Hurts Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Principle On Screen Text Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Principle Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundant on-screen text duplicates of narration or graphics impair learning — enriched from claims CSV via Claude
+* **Enrich**: Reciprocal Teaching Improves Reading Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Redundant On Screen Text Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Reflective Practice Improves Outcomes When Structured — enriched from claims CSV via Claude
+* **Enrich**: Rereading is less effective than retrieval practice — enriched from claims CSV via Claude
+* **Enrich**: Rereading Is A Low Utility Study Strategy — enriched from claims CSV via Claude
+* **Enrich**: Reflective practice shows mixed evidence of effectiveness in professional education — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Fails Without Encoding — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Failure Reduces Benefit — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Enhances Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Rewards Undermine Intrinsic Motivation — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Rubrics Improve Peer Feedback Quality — enriched from claims CSV via Claude
+* **Enrich**: Retrieval practice improves long-term retention — enriched from claims CSV via Claude
+* **Enrich**: Rubrics Improve Student Work Quality — enriched from claims CSV via Claude
+* **Enrich**: Rubrics improve student work — enriched from claims CSV via Claude
+* **Enrich**: Scaffolded Close Reading Improves Comprehension For Struggling Readers — enriched from claims CSV via Claude
+* **Enrich**: Interesting but irrelevant details impair learning — enriched from claims CSV via Claude
+* **Enrich**: Scaffolding improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Scaffolding improves learning — enriched from claims CSV via Claude
+* **Enrich**: Segmentation Benefits Shrink With Expertise — enriched from claims CSV via Claude
+* **Enrich**: Segmenting Principle Improves Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Social-emotional learning benefits persist at follow-up — enriched from claims CSV via Claude
+* **Enrich**: SEL Programs Improve Academic Achievement — enriched from claims CSV via Claude
+* **Enrich**: Segmenting Improves Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Seductive Details Harm Learning — enriched from claims CSV via Claude
+* **Enrich**: SEL Programs Improve Behavior And Achievement — enriched from claims CSV via Claude
+* **Enrich**: SEL programs improve social emotional skills — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Accuracy Is Low Without Training — enriched from claims CSV via Claude
+* **Enrich**: Self-determination instruction improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Improves Self Regulated Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Directed IEP Increases Student Participation — enriched from claims CSV via Claude
+* **Enrich**: Self Determined Learning Model Of Instruction Improves Self Determination — enriched from claims CSV via Claude
+* **Enrich**: Self-explanation improves learning — enriched from claims CSV via Claude
+* **Enrich**: Self-affirmation improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Against Criteria Supports Self Regulated Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Explanation Prompts Improve Learning From Worked Examples — enriched from claims CSV via Claude
+* **Enrich**: Self Explanation Prompts Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Monitoring Comprehension Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Monitoring Improves On Task Behavior — enriched from claims CSV via Claude
+* **Enrich**: Self-questioning improves comprehension — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Improves Academic Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Predicts Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning strategy instruction improves writing outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategies Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategies Improve Performance — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategy Instruction Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulation Strategy Instruction Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Self-regulation strategy instruction improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Talk Improves Learning And Performance — enriched from claims CSV via Claude
+* **Enrich**: Signaling Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Simulation Based Education With Deliberate Practice Improves Clinical Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Simulation Based Education Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Social Emotional Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Social Emotional Learning Programs Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Small Group Learning Improves STEM Achievement — enriched from claims CSV via Claude
+* **Enrich**: Spaced Practice Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Repetition Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spacing Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Outperforms Restudy — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spacing Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spatial Skills Improve Through Block Building — enriched from claims CSV via Claude
+* **Enrich**: Spatial Training Improves Math Performance — enriched from claims CSV via Claude
+* **Enrich**: Split attention between mutually referring sources of information impairs learning — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Integration Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Degrades Learning — enriched from claims CSV via Claude
+* **Enrich**: Spatial Contiguity Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Story Mapping Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Needs Conditional Knowledge — enriched from claims CSV via Claude
+* **Enrich**: Structured Discussion Approaches Improve Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Structured Discussion Methods Improve Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Structured Literacy Interventions Help Struggling Readers — enriched from claims CSV via Claude
+* **Enrich**: Structured Peer Tutoring Outperforms Unstructured — enriched from claims CSV via Claude
+* **Enrich**: Summarization Effective With Training — enriched from claims CSV via Claude
+* **Enrich**: Systematic Phonics Improves Word Reading — enriched from claims CSV via Claude
+* **Enrich**: Summarization Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Teacher Expectancy Effects Influence Student Achievement — enriched from claims CSV via Claude
+* **Enrich**: Teacher Student Relationships Improve Engagement And Achievement — enriched from claims CSV via Claude
+* **Enrich**: Teacher expectation effects on achievement — enriched from claims CSV via Claude
+* **Enrich**: Teacher Guided Inquiry Outperforms Student Led — enriched from claims CSV via Claude
+* **Enrich**: Teaching Others Generative Strategy — enriched from claims CSV via Claude
+* **Enrich**: Teacher Student Relationships Improve Engagement — enriched from claims CSV via Claude
+* **Enrich**: Testing Effect Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Retrieval practice improves long-term retention more than restudying — enriched from claims CSV via Claude
+* **Enrich**: Testing Effect Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Testing Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Vocabulary Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Tutoring benefits both tutors and tutees — enriched from claims CSV via Claude
+* **Enrich**: Tutoring Effectiveness Comes From Scaffolding And Feedback — enriched from claims CSV via Claude
+* **Enrich**: Unguided discovery is less effective than guided instruction for novices — enriched from claims CSV via Claude
+* **Enrich**: Words and pictures are better than words alone — enriched from claims CSV via Claude
+* **Enrich**: Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts — enriched from claims CSV via Claude
+* **Enrich**: Sequencing worked examples with practice problems improves learning for novices — enriched from claims CSV via Claude
+* **Enrich**: Writing Improves Mathematical Understanding — enriched from claims CSV via Claude
+* **Enrich**: Writing To Learn Improves Content Learning — enriched from claims CSV via Claude
+* **Enrich**: Writing Strategy Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Writing To Learn Improves Understanding — enriched from claims CSV via Claude
+* **Enrich**: Adaptive learning improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Argumentation Improves Reasoning — enriched from claims CSV via Claude
+* **Enrich**: The timing of acute exercise relative to learning modulates memory consolidation — enriched from claims CSV via Claude
+* **Enrich**: Activation Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Analogical Reasoning Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Annotating improves learning — enriched from claims CSV via Claude
+* **Enrich**: Advance organizers improve learning — enriched from claims CSV via Claude
+* **Enrich**: Advance Organizers Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Assessment for learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Authentic Audiences Improve Student Work — enriched from claims CSV via Claude
+* **Enrich**: Belonging Interventions Improve Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Blended Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Automatic word recognition frees resources for comprehension — enriched from claims CSV via Claude
+* **Enrich**: Brief Intervention Empathic Discipline Cuts Suspensions — enriched from claims CSV via Claude
+* **Enrich**: Block Play Predicts Math Achievement — enriched from claims CSV via Claude
+* **Enrich**: Building Empathy Improves Intergroup Attitudes — enriched from claims CSV via Claude
+* **Enrich**: Case-based learning improves exam performance — enriched from claims CSV via Claude
+* **Enrich**: Claim Slug — enriched from claims CSV via Claude
+* **Enrich**: Checklist-based evaluation instruction does not reliably improve online source evaluation — enriched from claims CSV via Claude
+* **Enrich**: Clear Structure Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Classroom Physical Activity Improves Attention — enriched from claims CSV via Claude
+* **Enrich**: Civic Online Reasoning Instruction Improves Evaluation — enriched from claims CSV via Claude
+* **Enrich**: Cognitive disequilibrium motivates conceptual change — enriched from claims CSV via Claude
+* **Enrich**: Presenting multiple cases from different perspectives supports transfer in ill-structured domains — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Load Management — enriched from claims CSV via Claude
+* **Enrich**: Coherence Principle Irrelevant Material Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Overload Degrades Learning — enriched from claims CSV via Claude
+* **Enrich**: Collaborative Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Load Reduction Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Collaborative Writing Improves Text Quality — enriched from claims CSV via Claude
+* **Enrich**: Comparing contrasting cases improves learning — enriched from claims CSV via Claude
+* **Enrich**: Comparing Contrasting Cases Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Concept mapping improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Concept mapping improves learning — enriched from claims CSV via Claude
+* **Enrich**: Considering The Opposite Reduces Bias — enriched from claims CSV via Claude
+* **Enrich**: Contiguity Principle Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Cooperative learning without individual accountability produces free-riding that reduces learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Constructive learning beats active and passive learning — enriched from claims CSV via Claude
+* **Enrich**: Cooperative Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Group rewards combined with individual accountability make cooperative learning effective — enriched from claims CSV via Claude
+* **Enrich**: Cooperative learning outperforms competitive and individualistic goal structures — enriched from claims CSV via Claude
+* **Enrich**: Decorative Illustrations Do Not Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Deliberate Practice Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Dialogic Reading Improves Expressive Language — enriched from claims CSV via Claude
+* **Enrich**: Desirable Difficulties Improve Retention — enriched from claims CSV via Claude
+* **Enrich**: Desirable Difficulties Enhance Learning — enriched from claims CSV via Claude
+* **Enrich**: Dialogic Reading Improves Language Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Direct instruction improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Disciplinary Literacy Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Dual Coding Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Discussion Quality Drives Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Drawing Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Dual Coding Improves Recall — enriched from claims CSV via Claude
+* **Enrich**: Elaborative Encoding Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Distributed Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Elaborative Interrogation Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Eliciting Self Explanations Improves Understanding — enriched from claims CSV via Claude
+* **Enrich**: Emotion Labeling Improves Regulation — enriched from claims CSV via Claude
+* **Enrich**: Example–problem sequences reduce cognitive load and improve learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Exercise Increases Hippocampal Volume — enriched from claims CSV via Claude
+* **Enrich**: Expertise Reversal Guidance Hurts Experts — enriched from claims CSV via Claude
+* **Enrich**: Explicit Handwriting Instruction Improves Legibility — enriched from claims CSV via Claude
+* **Enrich**: Expressive Writing Improves Exam Performance — enriched from claims CSV via Claude
+* **Enrich**: Explicit Writing Strategy Instruction Improves Writing — enriched from claims CSV via Claude
+* **Enrich**: Expressive Writing Improves Health Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Extrinsic Rewards Undermine Intrinsic Motivation — enriched from claims CSV via Claude
+* **Enrich**: Feedback Addressing Task Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Answers Three Questions — enriched from claims CSV via Claude
+* **Enrich**: Feedback Improves Learning When It Addresses Task Goals — enriched from claims CSV via Claude
+* **Enrich**: Feedback improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Feedback Enhances Retrieval Practice — enriched from claims CSV via Claude
+* **Enrich**: Feedback Most Effective At Task And Process Levels — enriched from claims CSV via Claude
+* **Enrich**: Feedback Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Use Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Praise Reduces Learning — enriched from claims CSV via Claude
+* **Enrich**: Fiction Reading Improves Empathy — enriched from claims CSV via Claude
+* **Enrich**: Fluency Judgments Mislead Learners — enriched from claims CSV via Claude
+* **Enrich**: Fluency is a poor cue for actual learning — enriched from claims CSV via Claude
+* **Enrich**: Generation Effect Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Generative Learning Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Fluent Illusions Mislead Self Assessment — enriched from claims CSV via Claude
+* **Enrich**: Generative Learning Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Generative processing improves learning — enriched from claims CSV via Claude
+* **Enrich**: Graphic Organizers Support Novice Comprehension — enriched from claims CSV via Claude
+* **Enrich**: [Claim statement — one sentence, present tense] — enriched from claims CSV via Claude
+* **Enrich**: Growth mindset improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Growth Mindset Interventions Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Guided Discovery Outperforms Pure Discovery — enriched from claims CSV via Claude
+* **Enrich**: Growth mindset interventions produce small positive effects on academic outcomes — enriched from claims CSV via Claude
+* **Enrich**: Guided Notes Improve Note Accuracy — enriched from claims CSV via Claude
+* **Enrich**: Guided Play Improves Academic Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Guided Inquiry Outperforms Pure Discovery — enriched from claims CSV via Claude
+* **Enrich**: Hands On Without Conceptual Integration Insufficient — enriched from claims CSV via Claude
+* **Enrich**: Hands-on learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Different types of handwriting interventions produce equivalent gains in handwriting legibility and fluency — enriched from claims CSV via Claude
+* **Enrich**: Highlighting Alone Is Ineffective — enriched from claims CSV via Claude
+* **Enrich**: Highlighting Alone Low Utility — enriched from claims CSV via Claude
+* **Enrich**: Incidental Word Learning While Reading Occurs But At Low Rates Per Exposure — enriched from claims CSV via Claude
+* **Enrich**: Incidental Vocabulary Exposure Limited — enriched from claims CSV via Claude
+* **Enrich**: Highlighting shows low utility for improving learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning — enriched from claims CSV via Claude
+* **Enrich**: Increasing Wait Time Improves Response Quality — enriched from claims CSV via Claude
+* **Enrich**: Learners mistake fluency and familiarity for actual knowledge, producing an illusion of knowing — enriched from claims CSV via Claude
+* **Enrich**: Inquiry Based Teaching Improves Science Achievement — enriched from claims CSV via Claude
+* **Enrich**: Interleaved Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Discrimination — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Inductive Learning — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Invention Tasks Prepare Future Learning — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Joint Book Reading Predicts Literacy Success — enriched from claims CSV via Claude
+* **Enrich**: Judgments of learning are often inaccurate — enriched from claims CSV via Claude
+* **Enrich**: Laptop note-taking tends toward verbatim transcription and shallower learning than longhand note-taking — enriched from claims CSV via Claude
+* **Enrich**: Lateral Reading Improves Source Evaluation — enriched from claims CSV via Claude
+* **Enrich**: Learner-centered teacher–student relationships improve student outcomes — enriched from claims CSV via Claude
+* **Enrich**: Learner Paced Beats System Paced Complex Material — enriched from claims CSV via Claude
+* **Enrich**: Learner Generated Organizers Beat Provided Organizers — enriched from claims CSV via Claude
+* **Enrich**: Learner Constructed Graphic Organizers Outperform Provided — enriched from claims CSV via Claude
+* **Enrich**: Learners misjudge which learning strategies are effective — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Effective Study Strategies — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Retrieval Benefit — enriched from claims CSV via Claude
+* **Enrich**: Learners misjudge the benefits of spaced practice — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Spacing Benefits — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Mastery — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Tutor Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning Space Redesign Alone Insufficient — enriched from claims CSV via Claude
+* **Enrich**: Strategy instruction is more effective when contextualized in authentic content-area tasks — enriched from claims CSV via Claude
+* **Enrich**: Learning Styles Matching Does Not Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Manipulatives Improve Math Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning Styles Matching Yields No Benefit — enriched from claims CSV via Claude
+* **Enrich**: Mastery Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Metacognitive prompts improve learning — enriched from claims CSV via Claude
+* **Enrich**: Metacognitive Strategies Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Manipulatives Require Connection To Concept — enriched from claims CSV via Claude
+* **Enrich**: Math Anxiety Degrades Performance — enriched from claims CSV via Claude
+* **Enrich**: Minimal guidance is ineffective for novices — enriched from claims CSV via Claude
+* **Enrich**: Minimal Guidance Instruction Less Effective — enriched from claims CSV via Claude
+* **Enrich**: Minimal guidance is less effective for novices than explicit instruction — enriched from claims CSV via Claude
+* **Enrich**: Minimally Guided Instruction Less Effective For Novices — enriched from claims CSV via Claude
+* **Enrich**: Presenting words as spoken narration rather than on-screen text alongside graphics improves learning — enriched from claims CSV via Claude
+* **Enrich**: Modality Principle Narration Beats On Screen Text — enriched from claims CSV via Claude
+* **Enrich**: Mnemonic Instruction Improves Recall For Students With Disabilities — enriched from claims CSV via Claude
+* **Enrich**: Misconceptions Interfere With New Learning — enriched from claims CSV via Claude
+* **Enrich**: Mismatched Graphic Organizers Increase Extraneous Load — enriched from claims CSV via Claude
+* **Enrich**: Modality Principle Spoken Narration Beats On Screen Text — enriched from claims CSV via Claude
+* **Enrich**: Morphological Instruction Improves Vocabulary — enriched from claims CSV via Claude
+* **Enrich**: Morphological Instruction Improves Literacy — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Learning More Effective With Words And Pictures — enriched from claims CSV via Claude
+* **Enrich**: People learn better from words and pictures than from words alone — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Principle Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Words Plus Images Beat Words Alone — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Principles Benefit Novices — enriched from claims CSV via Claude
+* **Enrich**: Multiple representations improve learning — enriched from claims CSV via Claude
+* **Enrich**: Number Board Games Improve Numerical Knowledge — enriched from claims CSV via Claude
+* **Enrich**: Multiple Contrasting Cases Support Abstraction — enriched from claims CSV via Claude
+* **Enrich**: Parent Coaching Outperforms Information Only — enriched from claims CSV via Claude
+* **Enrich**: Parent Involvement Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone — enriched from claims CSV via Claude
+* **Enrich**: Parent Involvement Improves Early Reading — enriched from claims CSV via Claude
+* **Enrich**: Parent Implemented Intervention Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Parental Involvement Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Benefits Assessor — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Structured Criteria Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Worked examples reduce unnecessary search for novices — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Peer Discussion Improves Conceptual Understanding — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Accuracy Depends On Expertise — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Work Quality — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Writing — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Writing Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Peer Tutoring Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Personalized Learning Effects Vary With Fidelity — enriched from claims CSV via Claude
+* **Enrich**: Personalized Normative Feedback Corrects Misperceived Norms — enriched from claims CSV via Claude
+* **Enrich**: Phoneme awareness is a stronger predictor of reading development than rhyme awareness — enriched from claims CSV via Claude
+* **Enrich**: Phonemic Awareness Training Improves Reading — enriched from claims CSV via Claude
+* **Enrich**: Phonological Awareness Training Improves Reading — enriched from claims CSV via Claude
+* **Enrich**: Phonics Instruction Improves Word Reading — enriched from claims CSV via Claude
+* **Enrich**: Physical Experience Enhances Science Learning — enriched from claims CSV via Claude
+* **Enrich**: Phonics Instruction Outperforms Whole Word For Generalization — enriched from claims CSV via Claude
+* **Enrich**: Play Based Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Positive Greetings At The Door Improve Engagement — enriched from claims CSV via Claude
+* **Enrich**: Positive Greetings At The Door Improve Engagement And Behavior — enriched from claims CSV via Claude
+* **Enrich**: Pretesting Can Harm Motivation — enriched from claims CSV via Claude
+* **Enrich**: Pretesting enhances learning — enriched from claims CSV via Claude
+* **Enrich**: Pretesting Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Prior Knowledge Needed For Accurate Self Assessment — enriched from claims CSV via Claude
+* **Enrich**: Pretraining Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Process Writing Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Process Writing Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Prior Knowledge Determines New Learning — enriched from claims CSV via Claude
+* **Enrich**: Productive Failure Improves Conceptual Learning — enriched from claims CSV via Claude
+* **Enrich**: Productive Failure Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Question prompts improve learning — enriched from claims CSV via Claude
+* **Enrich**: Reading Strategy Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Project-based learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Reading Literary Fiction Improves Theory Of Mind — enriched from claims CSV via Claude
+* **Enrich**: Reciprocal Teaching Improves Reading Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Questioning Strategies Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Effect Impairs Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Hurts Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Harms Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundant On Screen Text Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Principle On Screen Text Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Principle Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundant on-screen text duplicates of narration or graphics impair learning — enriched from claims CSV via Claude
+* **Enrich**: Reflective practice shows mixed evidence of effectiveness in professional education — enriched from claims CSV via Claude
+* **Enrich**: Rereading is less effective than retrieval practice — enriched from claims CSV via Claude
+* **Enrich**: Reflective Practice Improves Outcomes When Structured — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Fails Without Encoding — enriched from claims CSV via Claude
+* **Enrich**: Rereading Is A Low Utility Study Strategy — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Failure Reduces Benefit — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Enhances Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Rewards Undermine Intrinsic Motivation — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Retrieval practice improves long-term retention — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Rubrics Improve Student Work Quality — enriched from claims CSV via Claude
+* **Enrich**: Rubrics improve student work — enriched from claims CSV via Claude
+* **Enrich**: Interesting but irrelevant details impair learning — enriched from claims CSV via Claude
+* **Enrich**: Scaffolding improves learning — enriched from claims CSV via Claude
+* **Enrich**: Scaffolded Close Reading Improves Comprehension For Struggling Readers — enriched from claims CSV via Claude
+* **Enrich**: Scaffolding improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Segmentation Benefits Shrink With Expertise — enriched from claims CSV via Claude
+* **Enrich**: Segmenting Improves Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Segmenting Principle Improves Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Seductive Details Harm Learning — enriched from claims CSV via Claude
+* **Enrich**: Rubrics Improve Peer Feedback Quality — enriched from claims CSV via Claude
+* **Enrich**: SEL Programs Improve Academic Achievement — enriched from claims CSV via Claude
+* **Enrich**: Social-emotional learning benefits persist at follow-up — enriched from claims CSV via Claude
+* **Enrich**: SEL Programs Improve Behavior And Achievement — enriched from claims CSV via Claude
+* **Enrich**: SEL programs improve social emotional skills — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Accuracy Is Low Without Training — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Improves Self Regulated Learning — enriched from claims CSV via Claude
+* **Enrich**: Self-determination instruction improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Determined Learning Model Of Instruction Improves Self Determination — enriched from claims CSV via Claude
+* **Enrich**: Self-affirmation improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self-explanation improves learning — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Against Criteria Supports Self Regulated Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Directed IEP Increases Student Participation — enriched from claims CSV via Claude
+* **Enrich**: Self Explanation Prompts Improve Learning From Worked Examples — enriched from claims CSV via Claude
+* **Enrich**: Self Explanation Prompts Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Monitoring Improves On Task Behavior — enriched from claims CSV via Claude
+* **Enrich**: Self Monitoring Comprehension Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Self-questioning improves comprehension — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Improves Academic Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Predicts Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategies Improve Performance — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategies Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning strategy instruction improves writing outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self-regulation strategy instruction improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulation Strategy Instruction Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Self Talk Improves Learning And Performance — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategy Instruction Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Signaling Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Small Group Learning Improves STEM Achievement — enriched from claims CSV via Claude
+* **Enrich**: Simulation Based Education Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Social Emotional Learning Programs Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Social Emotional Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Simulation Based Education With Deliberate Practice Improves Clinical Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Spaced Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Repetition Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Practice Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Spacing Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spacing Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spatial Contiguity Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Spatial Training Improves Math Performance — enriched from claims CSV via Claude
+* **Enrich**: Spatial Skills Improve Through Block Building — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Outperforms Restudy — enriched from claims CSV via Claude
+* **Enrich**: Split attention between mutually referring sources of information impairs learning — enriched from claims CSV via Claude
+* **Enrich**: Story Mapping Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Degrades Learning — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Needs Conditional Knowledge — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Integration Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Structured Discussion Approaches Improve Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Structured Discussion Methods Improve Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Summarization Effective With Training — enriched from claims CSV via Claude
+* **Enrich**: Structured Peer Tutoring Outperforms Unstructured — enriched from claims CSV via Claude
+* **Enrich**: Summarization Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Structured Literacy Interventions Help Struggling Readers — enriched from claims CSV via Claude
+* **Enrich**: Teacher Expectancy Effects Influence Student Achievement — enriched from claims CSV via Claude
+* **Enrich**: Systematic Phonics Improves Word Reading — enriched from claims CSV via Claude
+* **Enrich**: Teacher expectation effects on achievement — enriched from claims CSV via Claude
+* **Enrich**: Teacher Student Relationships Improve Engagement — enriched from claims CSV via Claude
+* **Enrich**: Teacher Student Relationships Improve Engagement And Achievement — enriched from claims CSV via Claude
+* **Enrich**: Teacher Guided Inquiry Outperforms Student Led — enriched from claims CSV via Claude
+* **Enrich**: Testing Effect Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Teaching Others Generative Strategy — enriched from claims CSV via Claude
+* **Enrich**: Retrieval practice improves long-term retention more than restudying — enriched from claims CSV via Claude
+* **Enrich**: Testing Effect Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Testing Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Tutoring benefits both tutors and tutees — enriched from claims CSV via Claude
+* **Enrich**: Tutoring Effectiveness Comes From Scaffolding And Feedback — enriched from claims CSV via Claude
+* **Enrich**: Unguided discovery is less effective than guided instruction for novices — enriched from claims CSV via Claude
+* **Enrich**: Words and pictures are better than words alone — enriched from claims CSV via Claude
+* **Enrich**: Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts — enriched from claims CSV via Claude
+* **Enrich**: Sequencing worked examples with practice problems improves learning for novices — enriched from claims CSV via Claude
+* **Enrich**: Writing Strategy Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Writing To Learn Improves Content Learning — enriched from claims CSV via Claude
+* **Enrich**: Writing Improves Mathematical Understanding — enriched from claims CSV via Claude
+* **Enrich**: Writing To Learn Improves Understanding — enriched from claims CSV via Claude
+* **Enrich**: Vocabulary Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Analogical Reasoning Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Adaptive learning improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: The timing of acute exercise relative to learning modulates memory consolidation — enriched from claims CSV via Claude
+* **Enrich**: Argumentation Improves Reasoning — enriched from claims CSV via Claude
+* **Enrich**: Activation Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Annotating improves learning — enriched from claims CSV via Claude
+* **Enrich**: Advance Organizers Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Advance Organizers Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Belonging Interventions Improve Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Authentic Audiences Improve Student Work — enriched from claims CSV via Claude
+* **Enrich**: Assessment for learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Automatic Word Recognition Frees Resources For Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Block Play Predicts Math Achievement — enriched from claims CSV via Claude
+* **Enrich**: Brief Intervention Empathic Discipline Cuts Suspensions — enriched from claims CSV via Claude
+* **Enrich**: Blended Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Building Empathy Improves Intergroup Attitudes — enriched from claims CSV via Claude
+* **Enrich**: Claim Slug — enriched from claims CSV via Claude
+* **Enrich**: Case-based learning improves exam performance — enriched from claims CSV via Claude
+* **Enrich**: Checklist-based evaluation instruction does not reliably improve online source evaluation — enriched from claims CSV via Claude
+* **Enrich**: Civic Online Reasoning Instruction Improves Evaluation — enriched from claims CSV via Claude
+* **Enrich**: Classroom Physical Activity Improves Attention — enriched from claims CSV via Claude
+* **Enrich**: Clear Structure Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Cognitive disequilibrium motivates conceptual change — enriched from claims CSV via Claude
+* **Enrich**: Presenting multiple cases from different perspectives supports transfer in ill-structured domains — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Load Management — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Load Reduction Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Coherence Principle Irrelevant Material Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Collaborative Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Overload Degrades Learning — enriched from claims CSV via Claude
+* **Enrich**: Collaborative Writing Improves Text Quality — enriched from claims CSV via Claude
+* **Enrich**: Comparing Contrasting Cases Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Comparing contrasting cases improves learning — enriched from claims CSV via Claude
+* **Enrich**: Concept mapping improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Considering The Opposite Reduces Bias — enriched from claims CSV via Claude
+* **Enrich**: Concept mapping improves learning — enriched from claims CSV via Claude
+* **Enrich**: Constructive learning beats active and passive learning — enriched from claims CSV via Claude
+* **Enrich**: Cooperative learning without individual accountability produces free-riding that reduces learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Contiguity Principle Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Cooperative Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Group rewards combined with individual accountability make cooperative learning effective — enriched from claims CSV via Claude
+* **Enrich**: Cooperative learning outperforms competitive and individualistic goal structures — enriched from claims CSV via Claude
+* **Enrich**: Decorative Illustrations Do Not Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Deliberate Practice Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Dialogic Reading Improves Expressive Language — enriched from claims CSV via Claude
+* **Enrich**: Desirable Difficulties Enhance Learning — enriched from claims CSV via Claude
+* **Enrich**: Dialogic Reading Improves Language Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Desirable Difficulties Improve Retention — enriched from claims CSV via Claude
+* **Enrich**: Direct instruction improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Disciplinary Literacy Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Discussion Quality Drives Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Drawing Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Dual Coding Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Dual Coding Improves Recall — enriched from claims CSV via Claude
+* **Enrich**: Elaborative Encoding Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Eliciting Self Explanations Improves Understanding — enriched from claims CSV via Claude
+* **Enrich**: Elaborative Interrogation Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Emotion Labeling Improves Regulation — enriched from claims CSV via Claude
+* **Enrich**: Example–problem sequences reduce cognitive load and improve learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Exercise Increases Hippocampal Volume — enriched from claims CSV via Claude
+* **Enrich**: Expertise Reversal Guidance Hurts Experts — enriched from claims CSV via Claude
+* **Enrich**: Expressive Writing Improves Health Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Explicit Writing Strategy Instruction Improves Writing — enriched from claims CSV via Claude
+* **Enrich**: Expressive Writing Improves Exam Performance — enriched from claims CSV via Claude
+* **Enrich**: Explicit Handwriting Instruction Improves Legibility — enriched from claims CSV via Claude
+* **Enrich**: Extrinsic Rewards Undermine Intrinsic Motivation — enriched from claims CSV via Claude
+* **Enrich**: Feedback Addressing Task Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Answers Three Questions — enriched from claims CSV via Claude
+* **Enrich**: Feedback Improves Learning When It Addresses Task Goals — enriched from claims CSV via Claude
+* **Enrich**: Feedback improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Feedback Enhances Retrieval Practice — enriched from claims CSV via Claude
+* **Enrich**: Feedback Most Effective At Task And Process Levels — enriched from claims CSV via Claude
+* **Enrich**: Feedback Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Use Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Praise Reduces Learning — enriched from claims CSV via Claude
+* **Enrich**: Fiction Reading Improves Empathy — enriched from claims CSV via Claude
+* **Enrich**: Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning — enriched from claims CSV via Claude
+* **Enrich**: Fluency Judgments Mislead Learners — enriched from claims CSV via Claude
+* **Enrich**: Fluency is a poor cue for actual learning — enriched from claims CSV via Claude
+* **Enrich**: Generation Effect Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Fluent Illusions Mislead Self Assessment — enriched from claims CSV via Claude
+* **Enrich**: Generative Learning Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Generative Learning Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Graphic Organizers Support Novice Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Generative processing improves learning — enriched from claims CSV via Claude
+* **Enrich**: Growth mindset interventions produce small positive effects on academic outcomes — enriched from claims CSV via Claude
+* **Enrich**: Growth mindset improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Guided Discovery Outperforms Pure Discovery — enriched from claims CSV via Claude
+* **Enrich**: Growth Mindset Interventions Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Distributed Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Guided Notes Improve Note Accuracy — enriched from claims CSV via Claude
+* **Enrich**: Guided Inquiry Outperforms Pure Discovery — enriched from claims CSV via Claude
+* **Enrich**: Guided Play Improves Academic Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Hands On Without Conceptual Integration Insufficient — enriched from claims CSV via Claude
+* **Enrich**: Hands-on learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Highlighting Alone Is Ineffective — enriched from claims CSV via Claude
+* **Enrich**: [Claim statement] — enriched from claims CSV via Claude
+* **Enrich**: Highlighting shows low utility for improving learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Incidental Vocabulary Exposure Limited — enriched from claims CSV via Claude
+* **Enrich**: Highlighting Alone Low Utility — enriched from claims CSV via Claude
+* **Enrich**: Learners mistake fluency and familiarity for actual knowledge, producing an illusion of knowing — enriched from claims CSV via Claude
+* **Enrich**: Incidental Word Learning While Reading Occurs But At Low Rates Per Exposure — enriched from claims CSV via Claude
+* **Enrich**: Increasing Wait Time Improves Response Quality — enriched from claims CSV via Claude
+* **Enrich**: Inquiry Based Teaching Improves Science Achievement — enriched from claims CSV via Claude
+* **Enrich**: Interleaved Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Discrimination — enriched from claims CSV via Claude
+* **Enrich**: [Claim statement — one sentence, present tense] — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Inductive Learning — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Invention Tasks Prepare Future Learning — enriched from claims CSV via Claude
+* **Enrich**: Joint Book Reading Predicts Literacy Success — enriched from claims CSV via Claude
+* **Enrich**: Laptop note-taking tends toward verbatim transcription and shallower learning than longhand note-taking — enriched from claims CSV via Claude
+* **Enrich**: Lateral Reading Improves Source Evaluation — enriched from claims CSV via Claude
+* **Enrich**: Learner Generated Organizers Beat Provided Organizers — enriched from claims CSV via Claude
+* **Enrich**: Learner Constructed Graphic Organizers Outperform Provided — enriched from claims CSV via Claude
+* **Enrich**: Judgments of learning are often inaccurate — enriched from claims CSV via Claude
+* **Enrich**: Learner-centered teacher–student relationships improve student outcomes — enriched from claims CSV via Claude
+* **Enrich**: Learner Paced Beats System Paced Complex Material — enriched from claims CSV via Claude
+* **Enrich**: Learners misjudge which learning strategies are effective — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Effective Study Strategies — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Retrieval Benefit — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Spacing Benefits — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Mastery — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning Space Redesign Alone Insufficient — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Tutor Learning — enriched from claims CSV via Claude
+* **Enrich**: Strategy instruction is more effective when contextualized in authentic content-area tasks — enriched from claims CSV via Claude
+* **Enrich**: Learning Styles Matching Does Not Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Learners misjudge the benefits of spaced practice — enriched from claims CSV via Claude
+* **Enrich**: Manipulatives Improve Math Learning — enriched from claims CSV via Claude
+* **Enrich**: Manipulatives Require Connection To Concept — enriched from claims CSV via Claude
+* **Enrich**: Mastery Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Math Anxiety Degrades Performance — enriched from claims CSV via Claude
+* **Enrich**: Metacognitive Strategies Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Metacognitive prompts improve learning — enriched from claims CSV via Claude
+* **Enrich**: Minimal Guidance Instruction Less Effective — enriched from claims CSV via Claude
+* **Enrich**: Minimal guidance is ineffective for novices — enriched from claims CSV via Claude
+* **Enrich**: Learning Styles Matching Yields No Benefit — enriched from claims CSV via Claude
+* **Enrich**: Minimally Guided Instruction Less Effective For Novices — enriched from claims CSV via Claude
+* **Enrich**: Minimal guidance is less effective for novices than explicit instruction — enriched from claims CSV via Claude
+* **Enrich**: Misconceptions Interfere With New Learning — enriched from claims CSV via Claude
+* **Enrich**: Mismatched Graphic Organizers Increase Extraneous Load — enriched from claims CSV via Claude
+* **Enrich**: Mnemonic Instruction Improves Recall For Students With Disabilities — enriched from claims CSV via Claude
+* **Enrich**: Presenting words as spoken narration rather than on-screen text alongside graphics improves learning — enriched from claims CSV via Claude
+* **Enrich**: Modality Principle Narration Beats On Screen Text — enriched from claims CSV via Claude
+* **Enrich**: Modality Principle Spoken Narration Beats On Screen Text — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Learning More Effective With Words And Pictures — enriched from claims CSV via Claude
+* **Enrich**: Morphological Instruction Improves Literacy — enriched from claims CSV via Claude
+* **Enrich**: People learn better from words and pictures than from words alone — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Principles Benefit Novices — enriched from claims CSV via Claude
+* **Enrich**: Morphological Instruction Improves Vocabulary — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Principle Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Multiple representations improve learning — enriched from claims CSV via Claude
+* **Enrich**: Number Board Games Improve Numerical Knowledge — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Words Plus Images Beat Words Alone — enriched from claims CSV via Claude
+* **Enrich**: Multiple Contrasting Cases Support Abstraction — enriched from claims CSV via Claude
+* **Enrich**: Parent Implemented Intervention Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone — enriched from claims CSV via Claude
+* **Enrich**: Parent Involvement Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Parent Coaching Outperforms Information Only — enriched from claims CSV via Claude
+* **Enrich**: Parent Involvement Improves Early Reading — enriched from claims CSV via Claude
+* **Enrich**: Parental Involvement Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Benefits Assessor — enriched from claims CSV via Claude
+* **Enrich**: Peer Discussion Improves Conceptual Understanding — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Structured Criteria Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Worked examples reduce unnecessary search for novices — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Accuracy Depends On Expertise — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Work Quality — enriched from claims CSV via Claude
+* **Enrich**: Peer Tutoring Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Writing Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Writing — enriched from claims CSV via Claude
+* **Enrich**: Personalized Learning Effects Vary With Fidelity — enriched from claims CSV via Claude
+* **Enrich**: Personalized Normative Feedback Corrects Misperceived Norms — enriched from claims CSV via Claude
+* **Enrich**: Phonemic Awareness Training Improves Reading — enriched from claims CSV via Claude
+* **Enrich**: Phoneme awareness is a stronger predictor of reading development than rhyme awareness — enriched from claims CSV via Claude
+* **Enrich**: Phonics Instruction Improves Word Reading — enriched from claims CSV via Claude
+* **Enrich**: Phonics Instruction Outperforms Whole Word For Generalization — enriched from claims CSV via Claude
+* **Enrich**: Phonological Awareness Training Improves Reading — enriched from claims CSV via Claude
+* **Enrich**: Positive Greetings At The Door Improve Engagement — enriched from claims CSV via Claude
+* **Enrich**: Physical Experience Enhances Science Learning — enriched from claims CSV via Claude
+* **Enrich**: Play Based Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Positive Greetings At The Door Improve Engagement And Behavior — enriched from claims CSV via Claude
+* **Enrich**: Pretesting Can Harm Motivation — enriched from claims CSV via Claude
+* **Enrich**: Pretesting enhances learning — enriched from claims CSV via Claude
+* **Enrich**: Prior Knowledge Determines New Learning — enriched from claims CSV via Claude
+* **Enrich**: Prior Knowledge Needed For Accurate Self Assessment — enriched from claims CSV via Claude
+* **Enrich**: Process Writing Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Pretraining Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Pretesting Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Process Writing Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Productive Failure Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Productive Failure Improves Conceptual Learning — enriched from claims CSV via Claude
+* **Enrich**: Project-based learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Questioning Strategies Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Question prompts improve learning — enriched from claims CSV via Claude
+* **Enrich**: Reading Literary Fiction Improves Theory Of Mind — enriched from claims CSV via Claude
+* **Enrich**: Reading Strategy Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Reciprocal Teaching Improves Reading Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Effect Impairs Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Harms Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Hurts Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Principle On Screen Text Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Principle Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundant On Screen Text Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundant on-screen text duplicates of narration or graphics impair learning — enriched from claims CSV via Claude
+* **Enrich**: Reflective practice shows mixed evidence of effectiveness in professional education — enriched from claims CSV via Claude
+* **Enrich**: Rereading is less effective than retrieval practice — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Fails Without Encoding — enriched from claims CSV via Claude
+* **Enrich**: Rereading Is A Low Utility Study Strategy — enriched from claims CSV via Claude
+* **Enrich**: Reflective Practice Improves Outcomes When Structured — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Failure Reduces Benefit — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Enhances Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Retrieval practice improves long-term retention — enriched from claims CSV via Claude
+* **Enrich**: Rubrics Improve Peer Feedback Quality — enriched from claims CSV via Claude
+* **Enrich**: Rewards Undermine Intrinsic Motivation — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Rubrics Improve Student Work Quality — enriched from claims CSV via Claude
+* **Enrich**: Rubrics improve student work — enriched from claims CSV via Claude
+* **Enrich**: Interesting but irrelevant details impair learning — enriched from claims CSV via Claude
+* **Enrich**: Scaffolded Close Reading Improves Comprehension For Struggling Readers — enriched from claims CSV via Claude
+* **Enrich**: Scaffolding improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Scaffolding improves learning — enriched from claims CSV via Claude
+* **Enrich**: Segmentation Benefits Shrink With Expertise — enriched from claims CSV via Claude
+* **Enrich**: Segmenting Improves Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Social-emotional learning benefits persist at follow-up — enriched from claims CSV via Claude
+* **Enrich**: Seductive Details Harm Learning — enriched from claims CSV via Claude
+* **Enrich**: Segmenting Principle Improves Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: SEL Programs Improve Academic Achievement — enriched from claims CSV via Claude
+* **Enrich**: SEL Programs Improve Behavior And Achievement — enriched from claims CSV via Claude
+* **Enrich**: SEL programs improve social emotional skills — enriched from claims CSV via Claude
+* **Enrich**: Self-determination instruction improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Accuracy Is Low Without Training — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Improves Self Regulated Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Determined Learning Model Of Instruction Improves Self Determination — enriched from claims CSV via Claude
+* **Enrich**: Self Directed IEP Increases Student Participation — enriched from claims CSV via Claude
+* **Enrich**: Self-affirmation improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self-explanation improves learning — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Against Criteria Supports Self Regulated Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Explanation Prompts Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Explanation Prompts Improve Learning From Worked Examples — enriched from claims CSV via Claude
+* **Enrich**: Self Monitoring Comprehension Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Monitoring Improves On Task Behavior — enriched from claims CSV via Claude
+* **Enrich**: Self-questioning improves comprehension — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Improves Academic Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Predicts Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning strategy instruction improves writing outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategies Improve Performance — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategies Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulation Strategy Instruction Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Self-regulation strategy instruction improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategy Instruction Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Talk Improves Learning And Performance — enriched from claims CSV via Claude
+* **Enrich**: Signaling Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Social Emotional Learning Programs Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Social Emotional Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Simulation Based Education Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Simulation Based Education With Deliberate Practice Improves Clinical Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Small Group Learning Improves STEM Achievement — enriched from claims CSV via Claude
+* **Enrich**: Spaced Practice Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spacing Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Repetition Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Outperforms Restudy — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spatial Contiguity Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Spacing Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spatial Skills Improve Through Block Building — enriched from claims CSV via Claude
+* **Enrich**: Spatial Training Improves Math Performance — enriched from claims CSV via Claude
+* **Enrich**: Split attention between mutually referring sources of information impairs learning — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Integration Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Degrades Learning — enriched from claims CSV via Claude
+* **Enrich**: Story Mapping Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Needs Conditional Knowledge — enriched from claims CSV via Claude
+* **Enrich**: Summarization Effective With Training — enriched from claims CSV via Claude
+* **Enrich**: Structured Discussion Methods Improve Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Structured Literacy Interventions Help Struggling Readers — enriched from claims CSV via Claude
+* **Enrich**: Structured Discussion Approaches Improve Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Structured Peer Tutoring Outperforms Unstructured — enriched from claims CSV via Claude
+* **Enrich**: Summarization Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Systematic Phonics Improves Word Reading — enriched from claims CSV via Claude
+* **Enrich**: Teacher Expectancy Effects Influence Student Achievement — enriched from claims CSV via Claude
+* **Enrich**: Teacher expectation effects on achievement — enriched from claims CSV via Claude
+* **Enrich**: Teacher Student Relationships Improve Engagement — enriched from claims CSV via Claude
+* **Enrich**: Teacher Student Relationships Improve Engagement And Achievement — enriched from claims CSV via Claude
+* **Enrich**: Teacher Guided Inquiry Outperforms Student Led — enriched from claims CSV via Claude
+* **Enrich**: Teaching Others Generative Strategy — enriched from claims CSV via Claude
+* **Enrich**: Testing Effect Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Retrieval practice improves long-term retention more than restudying — enriched from claims CSV via Claude
+* **Enrich**: Testing Effect Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Vocabulary Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Testing Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Tutoring benefits both tutors and tutees — enriched from claims CSV via Claude
+* **Enrich**: Tutoring Effectiveness Comes From Scaffolding And Feedback — enriched from claims CSV via Claude
+* **Enrich**: Unguided discovery is less effective than guided instruction for novices — enriched from claims CSV via Claude
+* **Enrich**: Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts — enriched from claims CSV via Claude
+* **Enrich**: Words and pictures are better than words alone — enriched from claims CSV via Claude
+* **Enrich**: Writing Improves Mathematical Understanding — enriched from claims CSV via Claude
+* **Enrich**: Writing Strategy Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Sequencing worked examples with practice problems improves learning for novices — enriched from claims CSV via Claude
+* **Enrich**: Writing To Learn Improves Content Learning — enriched from claims CSV via Claude
+* **Enrich**: Writing To Learn Improves Understanding — enriched from claims CSV via Claude
+* **Enrich**: Adaptive learning improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Argumentation Improves Reasoning — enriched from claims CSV via Claude
+* **Enrich**: Analogical Reasoning Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: The timing of acute exercise relative to learning modulates memory consolidation — enriched from claims CSV via Claude
+* **Enrich**: Activation Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Assessment for learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Annotating improves learning — enriched from claims CSV via Claude
+* **Enrich**: Advance Organizers Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Belonging Interventions Improve Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Automatic Word Recognition Frees Resources For Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Block Play Predicts Math Achievement — enriched from claims CSV via Claude
+* **Enrich**: Brief Intervention Empathic Discipline Cuts Suspensions — enriched from claims CSV via Claude
+* **Enrich**: Authentic Audiences Improve Student Work — enriched from claims CSV via Claude
+* **Enrich**: Blended Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Building Empathy Improves Intergroup Attitudes — enriched from claims CSV via Claude
+* **Enrich**: Case-based learning improves exam performance — enriched from claims CSV via Claude
+* **Enrich**: Claim Slug — enriched from claims CSV via Claude
+* **Enrich**: Classroom Physical Activity Improves Attention — enriched from claims CSV via Claude
+* **Enrich**: Cognitive disequilibrium motivates conceptual change — enriched from claims CSV via Claude
+* **Enrich**: Checklist Evaluation Ineffective Online — enriched from claims CSV via Claude
+* **Enrich**: Clear Structure Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Presenting multiple cases from different perspectives supports transfer in ill-structured domains — enriched from claims CSV via Claude
+* **Enrich**: Civic Online Reasoning Instruction Improves Evaluation — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Load Management — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Load Reduction Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Coherence Principle Irrelevant Material Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Collaborative Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Overload Degrades Learning — enriched from claims CSV via Claude
+* **Enrich**: Collaborative Writing Improves Text Quality — enriched from claims CSV via Claude
+* **Enrich**: Comparing Contrasting Cases Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Concept mapping improves learning — enriched from claims CSV via Claude
+* **Enrich**: Comparing contrasting cases improves learning — enriched from claims CSV via Claude
+* **Enrich**: Concept mapping improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Considering The Opposite Reduces Bias — enriched from claims CSV via Claude
+* **Enrich**: Contiguity Principle Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Cooperative learning without individual accountability produces free-riding that reduces learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Constructive learning beats active and passive learning — enriched from claims CSV via Claude
+* **Enrich**: Cooperative learning outperforms competitive and individualistic goal structures — enriched from claims CSV via Claude
+* **Enrich**: Cooperative Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Decorative Illustrations Do Not Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Group rewards combined with individual accountability make cooperative learning effective — enriched from claims CSV via Claude
+* **Enrich**: Deliberate Practice Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Desirable Difficulties Enhance Learning — enriched from claims CSV via Claude
+* **Enrich**: Dialogic Reading Improves Expressive Language — enriched from claims CSV via Claude
+* **Enrich**: Dialogic Reading Improves Language Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Discussion Quality Drives Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Direct instruction improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Disciplinary Literacy Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Distributed Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Drawing Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Dual Coding Improves Recall — enriched from claims CSV via Claude
+* **Enrich**: Desirable Difficulties Improve Retention — enriched from claims CSV via Claude
+* **Enrich**: Elaborative Encoding Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Eliciting Self Explanations Improves Understanding — enriched from claims CSV via Claude
+* **Enrich**: Elaborative Interrogation Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Dual Coding Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Emotion Labeling Improves Regulation — enriched from claims CSV via Claude
+* **Enrich**: Example–problem sequences reduce cognitive load and improve learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Exercise Increases Hippocampal Volume — enriched from claims CSV via Claude
+* **Enrich**: Expertise Reversal Guidance Hurts Experts — enriched from claims CSV via Claude
+* **Enrich**: Explicit Handwriting Instruction Improves Legibility — enriched from claims CSV via Claude
+* **Enrich**: Expressive Writing Improves Health Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Explicit Writing Strategy Instruction Improves Writing — enriched from claims CSV via Claude
+* **Enrich**: Extrinsic Rewards Undermine Intrinsic Motivation — enriched from claims CSV via Claude
+* **Enrich**: Expressive Writing Improves Exam Performance — enriched from claims CSV via Claude
+* **Enrich**: Feedback Addressing Task Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Answers Three Questions — enriched from claims CSV via Claude
+* **Enrich**: Feedback Improves Learning When It Addresses Task Goals — enriched from claims CSV via Claude
+* **Enrich**: Feedback Enhances Retrieval Practice — enriched from claims CSV via Claude
+* **Enrich**: Feedback improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Feedback Most Effective At Task And Process Levels — enriched from claims CSV via Claude
+* **Enrich**: Feedback Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Praise Reduces Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Use Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning — enriched from claims CSV via Claude
+* **Enrich**: Fiction Reading Improves Empathy — enriched from claims CSV via Claude
+* **Enrich**: Generation Effect Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Fluency Judgments Mislead Learners — enriched from claims CSV via Claude
+* **Enrich**: Generative Learning Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Fluent Illusions Mislead Self Assessment — enriched from claims CSV via Claude
+* **Enrich**: Generative Learning Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Fluency is a poor cue for actual learning — enriched from claims CSV via Claude
+* **Enrich**: Generative processing improves learning — enriched from claims CSV via Claude
+* **Enrich**: Graphic Organizers Support Novice Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Growth Mindset Interventions Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Growth mindset improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Growth mindset interventions produce small positive effects on academic outcomes — enriched from claims CSV via Claude
+* **Enrich**: Guided Discovery Outperforms Pure Discovery — enriched from claims CSV via Claude
+* **Enrich**: Guided Inquiry Outperforms Pure Discovery — enriched from claims CSV via Claude
+* **Enrich**: Guided Notes Improve Note Accuracy — enriched from claims CSV via Claude
+* **Enrich**: Guided Play Improves Academic Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Hands-on learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Highlighting Alone Is Ineffective — enriched from claims CSV via Claude
+* **Enrich**: Hands On Without Conceptual Integration Insufficient — enriched from claims CSV via Claude
+* **Enrich**: Incidental Vocabulary Exposure Limited — enriched from claims CSV via Claude
+* **Enrich**: Increasing Wait Time Improves Response Quality — enriched from claims CSV via Claude
+* **Enrich**: Learners mistake fluency and familiarity for actual knowledge, producing an illusion of knowing — enriched from claims CSV via Claude
+* **Enrich**: Incidental Word Learning While Reading Occurs But At Low Rates Per Exposure — enriched from claims CSV via Claude
+* **Enrich**: Inquiry Based Teaching Improves Science Achievement — enriched from claims CSV via Claude
+* **Enrich**: Interleaved Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Discrimination — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Inductive Learning — enriched from claims CSV via Claude
+* **Enrich**: Highlighting Alone Low Utility — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Invention Tasks Prepare Future Learning — enriched from claims CSV via Claude
+* **Enrich**: Different types of handwriting interventions produce equivalent gains in handwriting legibility and fluency — enriched from claims CSV via Claude
+* **Enrich**: Joint Book Reading Predicts Literacy Success — enriched from claims CSV via Claude
+* **Enrich**: Lateral Reading Improves Source Evaluation — enriched from claims CSV via Claude
+* **Enrich**: Judgments of learning are often inaccurate — enriched from claims CSV via Claude
+* **Enrich**: Learner-centered teacher–student relationships improve student outcomes — enriched from claims CSV via Claude
+* **Enrich**: Laptop note-taking tends toward verbatim transcription and shallower learning than longhand note-taking — enriched from claims CSV via Claude
+* **Enrich**: Learner Generated Organizers Beat Provided Organizers — enriched from claims CSV via Claude
+* **Enrich**: Learner Paced Beats System Paced Complex Material — enriched from claims CSV via Claude
+* **Enrich**: Learner Constructed Graphic Organizers Outperform Provided — enriched from claims CSV via Claude
+* **Enrich**: Goal Setting Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Learners misjudge which learning strategies are effective — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Retrieval Benefit — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Effective Study Strategies — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Spacing Benefits — enriched from claims CSV via Claude
+* **Enrich**: Learners misjudge the benefits of spaced practice — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Mastery — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning Space Redesign Alone Insufficient — enriched from claims CSV via Claude
+* **Enrich**: Strategy instruction is more effective when contextualized in authentic content-area tasks — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Tutor Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning Styles Matching Does Not Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning Styles Matching Yields No Benefit — enriched from claims CSV via Claude
+* **Enrich**: Manipulatives Improve Math Learning — enriched from claims CSV via Claude
+* **Enrich**: Mastery Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Metacognitive prompts improve learning — enriched from claims CSV via Claude
+* **Enrich**: Math Anxiety Degrades Performance — enriched from claims CSV via Claude
+* **Enrich**: Manipulatives Require Connection To Concept — enriched from claims CSV via Claude
+* **Enrich**: Metacognitive Strategies Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Minimal Guidance Ineffective For Novices — enriched from claims CSV via Claude
+* **Enrich**: Minimal Guidance Instruction Less Effective — enriched from claims CSV via Claude
+* **Enrich**: Minimal guidance is less effective for novices than explicit instruction — enriched from claims CSV via Claude
+* **Enrich**: Minimally Guided Instruction Less Effective For Novices — enriched from claims CSV via Claude
+* **Enrich**: Misconceptions Interfere With New Learning — enriched from claims CSV via Claude
+* **Enrich**: Modality Effect Narration Over Text — enriched from claims CSV via Claude
+* **Enrich**: Mismatched Graphic Organizers Increase Extraneous Load — enriched from claims CSV via Claude
+* **Enrich**: Mnemonic Instruction Improves Recall For Students With Disabilities — enriched from claims CSV via Claude
+* **Enrich**: Modality Principle Narration Beats On Screen Text — enriched from claims CSV via Claude
+* **Enrich**: Morphological Instruction Improves Literacy — enriched from claims CSV via Claude
+* **Enrich**: Modality Principle Spoken Narration Beats On Screen Text — enriched from claims CSV via Claude
+* **Enrich**: Morphological Instruction Improves Vocabulary — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Learning More Effective With Words And Pictures — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Principle Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: People learn better from words and pictures than from words alone — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Principles Benefit Novices — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Words Plus Images Beat Words Alone — enriched from claims CSV via Claude
+* **Enrich**: Multiple representations improve learning — enriched from claims CSV via Claude
+* **Enrich**: Multiple Contrasting Cases Support Abstraction — enriched from claims CSV via Claude
+* **Enrich**: Number Board Games Improve Numerical Knowledge — enriched from claims CSV via Claude
+* **Enrich**: Parent Implemented Intervention Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone — enriched from claims CSV via Claude
+* **Enrich**: Parent Coaching Outperforms Information Only — enriched from claims CSV via Claude
+* **Enrich**: Parent Involvement Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Parent Involvement Improves Early Reading — enriched from claims CSV via Claude
+* **Enrich**: Parental Involvement Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Benefits Assessor — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Structured Criteria Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Peer Discussion Improves Conceptual Understanding — enriched from claims CSV via Claude
+* **Enrich**: Worked examples reduce unnecessary search for novices — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Accuracy Depends On Expertise — enriched from claims CSV via Claude
+* **Enrich**: Peer Tutoring Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Writing Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Personalized Learning Effects Vary With Fidelity — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Work Quality — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Writing — enriched from claims CSV via Claude
+* **Enrich**: Phoneme awareness is a stronger predictor of reading development than rhyme awareness — enriched from claims CSV via Claude
+* **Enrich**: Personalized Normative Feedback Corrects Misperceived Norms — enriched from claims CSV via Claude
+* **Enrich**: Phonemic Awareness Training Improves Reading — enriched from claims CSV via Claude
+* **Enrich**: Phonics Instruction Improves Word Reading — enriched from claims CSV via Claude
+* **Enrich**: Phonological Awareness Training Improves Reading — enriched from claims CSV via Claude
+* **Enrich**: Positive Greetings At The Door Improve Engagement — enriched from claims CSV via Claude
+* **Enrich**: Physical Experience Enhances Science Learning — enriched from claims CSV via Claude
+* **Enrich**: Phonics Instruction Outperforms Whole Word For Generalization — enriched from claims CSV via Claude
+* **Enrich**: Positive Greetings At The Door Improve Engagement And Behavior — enriched from claims CSV via Claude
+* **Enrich**: Play Based Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Pretesting Can Harm Motivation — enriched from claims CSV via Claude
+* **Enrich**: Pretesting Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Pretraining Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Process Writing Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Pretesting enhances learning — enriched from claims CSV via Claude
+* **Enrich**: Prior Knowledge Needed For Accurate Self Assessment — enriched from claims CSV via Claude
+* **Enrich**: Prior Knowledge Determines New Learning — enriched from claims CSV via Claude
+* **Enrich**: Process Writing Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Productive Failure Improves Conceptual Learning — enriched from claims CSV via Claude
+* **Enrich**: Productive Failure Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Question prompts improve learning — enriched from claims CSV via Claude
+* **Enrich**: Project-based learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Reading Strategy Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Questioning Strategies Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Reciprocal Teaching Improves Reading Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Reading Literary Fiction Improves Theory Of Mind — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Effect Impairs Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Harms Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Principle On Screen Text Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Hurts Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundant on-screen text duplicates of narration or graphics impair learning — enriched from claims CSV via Claude
+* **Enrich**: Redundant On Screen Text Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Principle Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Reflective practice shows mixed evidence of effectiveness in professional education — enriched from claims CSV via Claude
+* **Enrich**: Rereading is less effective than retrieval practice — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Fails Without Encoding — enriched from claims CSV via Claude
+* **Enrich**: Reflective Practice Improves Outcomes When Structured — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Failure Reduces Benefit — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Enhances Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Rereading Is A Low Utility Study Strategy — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Retrieval practice improves long-term retention — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Rewards Undermine Intrinsic Motivation — enriched from claims CSV via Claude
+* **Enrich**: Rubrics Improve Student Work Quality — enriched from claims CSV via Claude
+* **Enrich**: Rubrics improve student work — enriched from claims CSV via Claude
+* **Enrich**: Scaffolding improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Scaffolded Close Reading Improves Comprehension For Struggling Readers — enriched from claims CSV via Claude
+* **Enrich**: Scaffolding improves learning — enriched from claims CSV via Claude
+* **Enrich**: Interesting but irrelevant details impair learning — enriched from claims CSV via Claude
+* **Enrich**: Rubrics Improve Peer Feedback Quality — enriched from claims CSV via Claude
+* **Enrich**: Segmentation Benefits Shrink With Expertise — enriched from claims CSV via Claude
+* **Enrich**: Segmenting Improves Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Seductive Details Harm Learning — enriched from claims CSV via Claude
+* **Enrich**: Social-emotional learning benefits persist at follow-up — enriched from claims CSV via Claude
+* **Enrich**: SEL Programs Improve Academic Achievement — enriched from claims CSV via Claude
+* **Enrich**: Segmenting Principle Improves Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: SEL Programs Improve Behavior And Achievement — enriched from claims CSV via Claude
+* **Enrich**: SEL programs improve social emotional skills — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Improves Self Regulated Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Accuracy Is Low Without Training — enriched from claims CSV via Claude
+* **Enrich**: Self-determination instruction improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Determined Learning Model Of Instruction Improves Self Determination — enriched from claims CSV via Claude
+* **Enrich**: Self Directed IEP Increases Student Participation — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Against Criteria Supports Self Regulated Learning — enriched from claims CSV via Claude
+* **Enrich**: Self-affirmation improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self-explanation improves learning — enriched from claims CSV via Claude
+* **Enrich**: Self Explanation Prompts Improve Learning From Worked Examples — enriched from claims CSV via Claude
+* **Enrich**: Self Monitoring Improves On Task Behavior — enriched from claims CSV via Claude
+* **Enrich**: Self Explanation Prompts Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Monitoring Comprehension Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Self-questioning improves comprehension — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Improves Academic Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategies Improve Performance — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning strategy instruction improves writing outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Predicts Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulation Strategy Instruction Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategies Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self-regulation strategy instruction improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategy Instruction Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Signaling Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Talk Improves Learning And Performance — enriched from claims CSV via Claude
+* **Enrich**: Social Emotional Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Simulation Based Education Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Small Group Learning Improves STEM Achievement — enriched from claims CSV via Claude
+* **Enrich**: Social Emotional Learning Programs Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Spaced Practice Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Repetition Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spacing Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Outperforms Restudy — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spatial Skills Improve Through Block Building — enriched from claims CSV via Claude
+* **Enrich**: Spacing Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spatial Contiguity Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Spatial Training Improves Math Performance — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Impairs Learning — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Integration Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Degrades Learning — enriched from claims CSV via Claude
+* **Enrich**: Story Mapping Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Needs Conditional Knowledge — enriched from claims CSV via Claude
+* **Enrich**: Structured Discussion Approaches Improve Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Structured Discussion Methods Improve Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Structured Peer Tutoring Outperforms Unstructured — enriched from claims CSV via Claude
+* **Enrich**: Summarization Effective With Training — enriched from claims CSV via Claude
+* **Enrich**: Structured Literacy Interventions Help Struggling Readers — enriched from claims CSV via Claude
+* **Enrich**: Summarization Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Systematic Phonics Improves Word Reading — enriched from claims CSV via Claude
+* **Enrich**: Teacher Expectancy Effects Influence Student Achievement — enriched from claims CSV via Claude
+* **Enrich**: Teacher expectation effects on achievement — enriched from claims CSV via Claude
+* **Enrich**: Teacher Student Relationships Improve Engagement — enriched from claims CSV via Claude
+* **Enrich**: Teacher Guided Inquiry Outperforms Student Led — enriched from claims CSV via Claude
+* **Enrich**: Teacher Student Relationships Improve Engagement And Achievement — enriched from claims CSV via Claude
+* **Enrich**: Teaching Others Generative Strategy — enriched from claims CSV via Claude
+* **Enrich**: Testing Effect Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Testing Effect Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Retrieval practice improves long-term retention more than restudying — enriched from claims CSV via Claude
+* **Enrich**: Vocabulary Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Testing Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Tutoring benefits both tutors and tutees — enriched from claims CSV via Claude
+* **Enrich**: Tutoring Effectiveness Comes From Scaffolding And Feedback — enriched from claims CSV via Claude
+* **Enrich**: Unguided discovery is less effective than guided instruction for novices — enriched from claims CSV via Claude
+* **Enrich**: Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts — enriched from claims CSV via Claude
+* **Enrich**: Words and pictures are better than words alone — enriched from claims CSV via Claude
+* **Enrich**: Sequencing worked examples with practice problems improves learning for novices — enriched from claims CSV via Claude
+* **Enrich**: Writing Strategy Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Writing Improves Mathematical Understanding — enriched from claims CSV via Claude
+* **Enrich**: Writing To Learn Improves Content Learning — enriched from claims CSV via Claude
+* **Enrich**: Writing To Learn Improves Understanding — enriched from claims CSV via Claude
+* **Enrich**: Simulation Based Education With Deliberate Practice Improves Clinical Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Concrete Representational Abstract_Cra_Sequence — enriched from strategies CSV via Claude
+* **Enrich**: Adaptive learning improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Argumentation Improves Reasoning — enriched from claims CSV via Claude
+* **Enrich**: Analogical Reasoning Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Activation Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Assessment for learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: The timing of acute exercise relative to learning modulates memory consolidation — enriched from claims CSV via Claude
+* **Enrich**: Annotating improves learning — enriched from claims CSV via Claude
+* **Enrich**: Advance Organizers Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Automatic Word Recognition Frees Resources For Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Belonging Interventions Improve Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Authentic Audiences Improve Student Work — enriched from claims CSV via Claude
+* **Enrich**: Brief Intervention Empathic Discipline Cuts Suspensions — enriched from claims CSV via Claude
+* **Enrich**: Block Play Predicts Math Achievement — enriched from claims CSV via Claude
+* **Enrich**: Building Empathy Improves Intergroup Attitudes — enriched from claims CSV via Claude
+* **Enrich**: Blended Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Case-based learning improves exam performance — enriched from claims CSV via Claude
+* **Enrich**: Claim Slug — enriched from claims CSV via Claude
+* **Enrich**: Civic Online Reasoning Instruction Improves Evaluation — enriched from claims CSV via Claude
+* **Enrich**: Clear Structure Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Classroom Physical Activity Improves Attention — enriched from claims CSV via Claude
+* **Enrich**: Checklist Evaluation Ineffective Online — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Load Management — enriched from claims CSV via Claude
+* **Enrich**: Cognitive disequilibrium motivates conceptual change — enriched from claims CSV via Claude
+* **Enrich**: Presenting multiple cases from different perspectives supports transfer in ill-structured domains — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Load Reduction Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Coherence Principle Irrelevant Material Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Overload Degrades Learning — enriched from claims CSV via Claude
+* **Enrich**: Collaborative Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Collaborative Writing Improves Text Quality — enriched from claims CSV via Claude
+* **Enrich**: Comparing Contrasting Cases Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Concept mapping improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Concept mapping improves learning — enriched from claims CSV via Claude
+* **Enrich**: Comparing contrasting cases improves learning — enriched from claims CSV via Claude
+* **Enrich**: Cooperative Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Cooperative learning outperforms competitive and individualistic goal structures — enriched from claims CSV via Claude
+* **Enrich**: Cooperative learning without individual accountability produces free-riding that reduces learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Contiguity Principle Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Considering The Opposite Reduces Bias — enriched from claims CSV via Claude
+* **Enrich**: Decorative Illustrations Do Not Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Group rewards combined with individual accountability make cooperative learning effective — enriched from claims CSV via Claude
+* **Enrich**: Constructive learning beats active and passive learning — enriched from claims CSV via Claude
+* **Enrich**: Dialogic Reading Improves Language Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Deliberate Practice Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Dialogic Reading Improves Expressive Language — enriched from claims CSV via Claude
+* **Enrich**: Direct instruction improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Desirable Difficulties Improve Retention — enriched from claims CSV via Claude
+* **Enrich**: Desirable Difficulties Enhance Learning — enriched from claims CSV via Claude
+* **Enrich**: Disciplinary Literacy Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Discussion Quality Drives Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Distributed Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Dual Coding Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Drawing Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Dual Coding Improves Recall — enriched from claims CSV via Claude
+* **Enrich**: Eliciting Self Explanations Improves Understanding — enriched from claims CSV via Claude
+* **Enrich**: Elaborative Interrogation Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Elaborative Encoding Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Emotion Labeling Improves Regulation — enriched from claims CSV via Claude
+* **Enrich**: Exercise Increases Hippocampal Volume — enriched from claims CSV via Claude
+* **Enrich**: Example–problem sequences reduce cognitive load and improve learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Expertise Reversal Guidance Hurts Experts — enriched from claims CSV via Claude
+* **Enrich**: Expressive Writing Improves Health Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Explicit Handwriting Instruction Improves Legibility — enriched from claims CSV via Claude
+* **Enrich**: Expressive Writing Improves Exam Performance — enriched from claims CSV via Claude
+* **Enrich**: Explicit Writing Strategy Instruction Improves Writing — enriched from claims CSV via Claude
+* **Enrich**: Extrinsic Rewards Undermine Intrinsic Motivation — enriched from claims CSV via Claude
+* **Enrich**: Feedback improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Feedback Answers Three Questions — enriched from claims CSV via Claude
+* **Enrich**: Feedback Enhances Retrieval Practice — enriched from claims CSV via Claude
+* **Enrich**: Feedback Addressing Task Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Improves Learning When It Addresses Task Goals — enriched from claims CSV via Claude
+* **Enrich**: Feedback Most Effective At Task And Process Levels — enriched from claims CSV via Claude
+* **Enrich**: Feedback Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Use Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Fiction Reading Improves Empathy — enriched from claims CSV via Claude
+* **Enrich**: Fluency is a poor cue for actual learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Praise Reduces Learning — enriched from claims CSV via Claude
+* **Enrich**: Fluency Judgments Mislead Learners — enriched from claims CSV via Claude
+* **Enrich**: Generation Effect Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Fluent Illusions Mislead Self Assessment — enriched from claims CSV via Claude
+* **Enrich**: Generative Learning Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Generative Learning Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning — enriched from claims CSV via Claude
+* **Enrich**: Graphic Organizers Support Novice Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Growth mindset improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Goal Setting Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Generative processing improves learning — enriched from claims CSV via Claude
+* **Enrich**: Growth Mindset Interventions Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Growth mindset interventions produce small positive effects on academic outcomes — enriched from claims CSV via Claude
+* **Enrich**: Guided Notes Improve Note Accuracy — enriched from claims CSV via Claude
+* **Enrich**: Hands On Without Conceptual Integration Insufficient — enriched from claims CSV via Claude
+* **Enrich**: Guided Discovery Outperforms Pure Discovery — enriched from claims CSV via Claude
+* **Enrich**: Hands-on learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Guided Inquiry Outperforms Pure Discovery — enriched from claims CSV via Claude
+* **Enrich**: Guided Play Improves Academic Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Highlighting Alone Is Ineffective — enriched from claims CSV via Claude
+* **Enrich**: Highlighting Alone Low Utility — enriched from claims CSV via Claude
+* **Enrich**: Learners mistake fluency and familiarity for actual knowledge, producing an illusion of knowing — enriched from claims CSV via Claude
+* **Enrich**: Incidental Word Learning While Reading Occurs But At Low Rates Per Exposure — enriched from claims CSV via Claude
+* **Enrich**: Incidental Vocabulary Exposure Limited — enriched from claims CSV via Claude
+* **Enrich**: Increasing Wait Time Improves Response Quality — enriched from claims CSV via Claude
+* **Enrich**: Highlighting shows low utility for improving learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Inquiry Based Teaching Improves Science Achievement — enriched from claims CSV via Claude
+* **Enrich**: Interleaved Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Different types of handwriting interventions produce equivalent gains in handwriting legibility and fluency — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Inductive Learning — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Invention Tasks Prepare Future Learning — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Discrimination — enriched from claims CSV via Claude
+* **Enrich**: Joint Book Reading Predicts Literacy Success — enriched from claims CSV via Claude
+* **Enrich**: Laptop note-taking tends toward verbatim transcription and shallower learning than longhand note-taking — enriched from claims CSV via Claude
+* **Enrich**: Judgments of learning are often inaccurate — enriched from claims CSV via Claude
+* **Enrich**: Lateral Reading Improves Source Evaluation — enriched from claims CSV via Claude
+* **Enrich**: Learner Paced Beats System Paced Complex Material — enriched from claims CSV via Claude
+* **Enrich**: Learner-centered teacher–student relationships improve student outcomes — enriched from claims CSV via Claude
+* **Enrich**: Learner Constructed Graphic Organizers Outperform Provided — enriched from claims CSV via Claude
+* **Enrich**: Learners misjudge which learning strategies are effective — enriched from claims CSV via Claude
+* **Enrich**: Learner Generated Organizers Beat Provided Organizers — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Effective Study Strategies — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Retrieval Benefit — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Spacing Benefits — enriched from claims CSV via Claude
+* **Enrich**: Learners misjudge the benefits of spaced practice — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Mastery — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning Space Redesign Alone Insufficient — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Tutor Learning — enriched from claims CSV via Claude
+* **Enrich**: Strategy instruction is more effective when contextualized in authentic content-area tasks — enriched from claims CSV via Claude
+* **Enrich**: Learning Styles Matching Does Not Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning Styles Matching Yields No Benefit — enriched from claims CSV via Claude
+* **Enrich**: Manipulatives Improve Math Learning — enriched from claims CSV via Claude
+* **Enrich**: Mastery Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Math Anxiety Degrades Performance — enriched from claims CSV via Claude
+* **Enrich**: Metacognitive prompts improve learning — enriched from claims CSV via Claude
+* **Enrich**: Metacognitive Strategies Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Minimal Guidance Ineffective For Novices — enriched from claims CSV via Claude
+* **Enrich**: Minimal Guidance Instruction Less Effective — enriched from claims CSV via Claude
+* **Enrich**: Minimally Guided Instruction Less Effective For Novices — enriched from claims CSV via Claude
+* **Enrich**: Minimal guidance is less effective for novices than explicit instruction — enriched from claims CSV via Claude
+* **Enrich**: Misconceptions Interfere With New Learning — enriched from claims CSV via Claude
+* **Enrich**: Mismatched Graphic Organizers Increase Extraneous Load — enriched from claims CSV via Claude
+* **Enrich**: Modality Principle Narration Beats On Screen Text — enriched from claims CSV via Claude
+* **Enrich**: Mnemonic Instruction Improves Recall For Students With Disabilities — enriched from claims CSV via Claude
+* **Enrich**: Modality Effect Narration Over Text — enriched from claims CSV via Claude
+* **Enrich**: Modality Principle Spoken Narration Beats On Screen Text — enriched from claims CSV via Claude
+* **Enrich**: Morphological Instruction Improves Literacy — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Learning More Effective With Words And Pictures — enriched from claims CSV via Claude
+* **Enrich**: Morphological Instruction Improves Vocabulary — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Principles Benefit Novices — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Principle Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Words Plus Images Beat Words Alone — enriched from claims CSV via Claude
+* **Enrich**: People learn better from words and pictures than from words alone — enriched from claims CSV via Claude
+* **Enrich**: Multiple Contrasting Cases Support Abstraction — enriched from claims CSV via Claude
+* **Enrich**: Multiple representations improve learning — enriched from claims CSV via Claude
+* **Enrich**: Number Board Games Improve Numerical Knowledge — enriched from claims CSV via Claude
+* **Enrich**: Parent Implemented Intervention Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Parent Involvement Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Parental Involvement Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Parent Coaching Outperforms Information Only — enriched from claims CSV via Claude
+* **Enrich**: Parent Involvement Improves Early Reading — enriched from claims CSV via Claude
+* **Enrich**: Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Benefits Assessor — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Structured Criteria Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Peer Discussion Improves Conceptual Understanding — enriched from claims CSV via Claude
+* **Enrich**: Worked examples reduce unnecessary search for novices — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Accuracy Depends On Expertise — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Writing Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Work Quality — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Writing — enriched from claims CSV via Claude
+* **Enrich**: Personalized Normative Feedback Corrects Misperceived Norms — enriched from claims CSV via Claude
+* **Enrich**: Peer Tutoring Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Personalized Learning Effects Vary With Fidelity — enriched from claims CSV via Claude
+* **Enrich**: Phoneme awareness is a stronger predictor of reading development than rhyme awareness — enriched from claims CSV via Claude
+* **Enrich**: Phonemic Awareness Training Improves Reading — enriched from claims CSV via Claude
+* **Enrich**: Phonics Instruction Improves Word Reading — enriched from claims CSV via Claude
+* **Enrich**: Phonological Awareness Training Improves Reading — enriched from claims CSV via Claude
+* **Enrich**: Phonics Instruction Outperforms Whole Word For Generalization — enriched from claims CSV via Claude
+* **Enrich**: Physical Experience Enhances Science Learning — enriched from claims CSV via Claude
+* **Enrich**: Positive Greetings At The Door Improve Engagement And Behavior — enriched from claims CSV via Claude
+* **Enrich**: Positive Greetings At The Door Improve Engagement — enriched from claims CSV via Claude
+* **Enrich**: Pretesting Can Harm Motivation — enriched from claims CSV via Claude
+* **Enrich**: Pretesting Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Pretesting enhances learning — enriched from claims CSV via Claude
+* **Enrich**: Play Based Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Pretraining Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Prior Knowledge Needed For Accurate Self Assessment — enriched from claims CSV via Claude
+* **Enrich**: Process Writing Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Prior Knowledge Determines New Learning — enriched from claims CSV via Claude
+* **Enrich**: Process Writing Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Productive Failure Improves Conceptual Learning — enriched from claims CSV via Claude
+* **Enrich**: Question prompts improve learning — enriched from claims CSV via Claude
+* **Enrich**: Project-based learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Productive Failure Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Reading Strategy Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Reading Literary Fiction Improves Theory Of Mind — enriched from claims CSV via Claude
+* **Enrich**: Reciprocal Teaching Improves Reading Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Questioning Strategies Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Effect Impairs Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Hurts Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Harms Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundant On Screen Text Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Principle On Screen Text Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Principle Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundant on-screen text duplicates of narration or graphics impair learning — enriched from claims CSV via Claude
+* **Enrich**: Reflective practice shows mixed evidence of effectiveness in professional education — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Reflective Practice Improves Outcomes When Structured — enriched from claims CSV via Claude
+* **Enrich**: Rereading Is A Low Utility Study Strategy — enriched from claims CSV via Claude
+* **Enrich**: Rereading is less effective than retrieval practice — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Fails Without Encoding — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Enhances Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Failure Reduces Benefit — enriched from claims CSV via Claude
+* **Enrich**: Rewards Undermine Intrinsic Motivation — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Rubrics Improve Peer Feedback Quality — enriched from claims CSV via Claude
+* **Enrich**: Retrieval practice improves long-term retention — enriched from claims CSV via Claude
+* **Enrich**: Rubrics Improve Student Work Quality — enriched from claims CSV via Claude
+* **Enrich**: Rubrics improve student work — enriched from claims CSV via Claude
+* **Enrich**: Scaffolding improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Scaffolded Close Reading Improves Comprehension For Struggling Readers — enriched from claims CSV via Claude
+* **Enrich**: Interesting but irrelevant details impair learning — enriched from claims CSV via Claude
+* **Enrich**: Scaffolding improves learning — enriched from claims CSV via Claude
+* **Enrich**: Segmentation Benefits Shrink With Expertise — enriched from claims CSV via Claude
+* **Enrich**: Segmenting Improves Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Segmenting Principle Improves Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Social-emotional learning benefits persist at follow-up — enriched from claims CSV via Claude
+* **Enrich**: Seductive Details Harm Learning — enriched from claims CSV via Claude
+* **Enrich**: SEL Programs Improve Academic Achievement — enriched from claims CSV via Claude
+* **Enrich**: SEL Programs Improve Behavior And Achievement — enriched from claims CSV via Claude
+* **Enrich**: SEL programs improve social emotional skills — enriched from claims CSV via Claude
+* **Enrich**: Self-affirmation improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Improves Self Regulated Learning — enriched from claims CSV via Claude
+* **Enrich**: Self-determination instruction improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Accuracy Is Low Without Training — enriched from claims CSV via Claude
+* **Enrich**: Self Determined Learning Model Of Instruction Improves Self Determination — enriched from claims CSV via Claude
+* **Enrich**: Self Directed IEP Increases Student Participation — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Against Criteria Supports Self Regulated Learning — enriched from claims CSV via Claude
+* **Enrich**: Self-explanation improves learning — enriched from claims CSV via Claude
+* **Enrich**: Self Explanation Prompts Improve Learning From Worked Examples — enriched from claims CSV via Claude
+* **Enrich**: Self Explanation Prompts Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Monitoring Improves On Task Behavior — enriched from claims CSV via Claude
+* **Enrich**: Self Monitoring Comprehension Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Questioning Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Improves Academic Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Predicts Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategies Improve Performance — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning strategy instruction improves writing outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategies Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self-regulation strategy instruction improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulation Strategy Instruction Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategy Instruction Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Signaling Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Talk Improves Learning And Performance — enriched from claims CSV via Claude
+* **Enrich**: Social Emotional Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Small Group Learning Improves STEM Achievement — enriched from claims CSV via Claude
+* **Enrich**: Simulation Based Education Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Social Emotional Learning Programs Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Simulation Based Education With Deliberate Practice Improves Clinical Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Spaced Practice Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Repetition Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spacing Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spacing Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Outperforms Restudy — enriched from claims CSV via Claude
+* **Enrich**: Spatial Skills Improve Through Block Building — enriched from claims CSV via Claude
+* **Enrich**: Spatial Training Improves Math Performance — enriched from claims CSV via Claude
+* **Enrich**: Spatial Contiguity Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Impairs Learning — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Degrades Learning — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Integration Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Story Mapping Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Needs Conditional Knowledge — enriched from claims CSV via Claude
+* **Enrich**: Structured Discussion Approaches Improve Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Structured Discussion Methods Improve Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Structured Literacy Interventions Help Struggling Readers — enriched from claims CSV via Claude
+* **Enrich**: Summarization Effective With Training — enriched from claims CSV via Claude
+* **Enrich**: Structured Peer Tutoring Outperforms Unstructured — enriched from claims CSV via Claude
+* **Enrich**: Summarization Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Teacher Expectancy Effects Influence Student Achievement — enriched from claims CSV via Claude
+* **Enrich**: Systematic Phonics Improves Word Reading — enriched from claims CSV via Claude
+* **Enrich**: Teacher Student Relationships Improve Engagement — enriched from claims CSV via Claude
+* **Enrich**: Teacher Guided Inquiry Outperforms Student Led — enriched from claims CSV via Claude
+* **Enrich**: Teacher expectation effects on achievement — enriched from claims CSV via Claude
+* **Enrich**: Teacher Student Relationships Improve Engagement And Achievement — enriched from claims CSV via Claude
+* **Enrich**: Teaching Others Generative Strategy — enriched from claims CSV via Claude
+* **Enrich**: Testing Effect Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Testing Effect Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Testing Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Tutoring Effectiveness Comes From Scaffolding And Feedback — enriched from claims CSV via Claude
+* **Enrich**: Tutoring benefits both tutors and tutees — enriched from claims CSV via Claude
+* **Enrich**: Vocabulary Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Unguided discovery is less effective than guided instruction for novices — enriched from claims CSV via Claude
+* **Enrich**: Words and pictures are better than words alone — enriched from claims CSV via Claude
+* **Enrich**: Sequencing worked examples with practice problems improves learning for novices — enriched from claims CSV via Claude
+* **Enrich**: Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts — enriched from claims CSV via Claude
+* **Enrich**: Retrieval practice improves long-term retention more than restudying — enriched from claims CSV via Claude
+* **Enrich**: Writing Improves Mathematical Understanding — enriched from claims CSV via Claude
+* **Enrich**: Writing Strategy Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Writing To Learn Improves Content Learning — enriched from claims CSV via Claude
+* **Enrich**: Writing To Learn Improves Understanding — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Argumentation Improves Reasoning — enriched from claims CSV via Claude
+* **Enrich**: Analogical Reasoning Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Adaptive learning improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Assessment for learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Annotating improves learning — enriched from claims CSV via Claude
+* **Enrich**: Activation Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: The timing of acute exercise relative to learning modulates memory consolidation — enriched from claims CSV via Claude
+* **Enrich**: Advance Organizers Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Authentic Audiences Improve Student Work — enriched from claims CSV via Claude
+* **Enrich**: Blended Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Belonging Interventions Improve Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Block Play Predicts Math Achievement — enriched from claims CSV via Claude
+* **Enrich**: Brief Intervention Empathic Discipline Cuts Suspensions — enriched from claims CSV via Claude
+* **Enrich**: Building Empathy Improves Intergroup Attitudes — enriched from claims CSV via Claude
+* **Enrich**: Case-based learning improves exam performance — enriched from claims CSV via Claude
+* **Enrich**: Claim Slug — enriched from claims CSV via Claude
+* **Enrich**: Checklist Evaluation Ineffective Online — enriched from claims CSV via Claude
+* **Enrich**: Classroom Physical Activity Improves Attention — enriched from claims CSV via Claude
+* **Enrich**: Civic Online Reasoning Instruction Improves Evaluation — enriched from claims CSV via Claude
+* **Enrich**: Clear Structure Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Cognitive disequilibrium motivates conceptual change — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Load Management — enriched from claims CSV via Claude
+* **Enrich**: Presenting multiple cases from different perspectives supports transfer in ill-structured domains — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Load Reduction Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Coherence Principle Irrelevant Material Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Overload Degrades Learning — enriched from claims CSV via Claude
+* **Enrich**: Automatic Word Recognition Frees Resources For Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Collaborative Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Collaborative Writing Improves Text Quality — enriched from claims CSV via Claude
+* **Enrich**: Comparing contrasting cases improves learning — enriched from claims CSV via Claude
+* **Enrich**: Comparing Contrasting Cases Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Concept mapping improves learning — enriched from claims CSV via Claude
+* **Enrich**: Concept mapping improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Considering The Opposite Reduces Bias — enriched from claims CSV via Claude
+* **Enrich**: Cooperative learning without individual accountability produces free-riding that reduces learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Contiguity Principle Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Group rewards combined with individual accountability make cooperative learning effective — enriched from claims CSV via Claude
+* **Enrich**: Constructive learning beats active and passive learning — enriched from claims CSV via Claude
+* **Enrich**: Cooperative Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Decorative Illustrations Do Not Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Deliberate Practice Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Cooperative learning outperforms competitive and individualistic goal structures — enriched from claims CSV via Claude
+* **Enrich**: Dialogic Reading Improves Expressive Language — enriched from claims CSV via Claude
+* **Enrich**: Desirable Difficulties Improve Retention — enriched from claims CSV via Claude
+* **Enrich**: Desirable Difficulties Enhance Learning — enriched from claims CSV via Claude
+* **Enrich**: Dialogic Reading Improves Language Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Direct instruction improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Disciplinary Literacy Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Discussion Quality Drives Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Distributed Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Dual Coding Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Dual Coding Improves Recall — enriched from claims CSV via Claude
+* **Enrich**: Elaborative Encoding Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Drawing Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Eliciting Self Explanations Improves Understanding — enriched from claims CSV via Claude
+* **Enrich**: Example–problem sequences reduce cognitive load and improve learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Emotion Labeling Improves Regulation — enriched from claims CSV via Claude
+* **Enrich**: Elaborative Interrogation Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Expertise Reversal Guidance Hurts Experts — enriched from claims CSV via Claude
+* **Enrich**: Exercise Increases Hippocampal Volume — enriched from claims CSV via Claude
+* **Enrich**: Explicit Writing Strategy Instruction Improves Writing — enriched from claims CSV via Claude
+* **Enrich**: Explicit Handwriting Instruction Improves Legibility — enriched from claims CSV via Claude
+* **Enrich**: Expressive Writing Improves Health Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Expressive Writing Improves Exam Performance — enriched from claims CSV via Claude
+* **Enrich**: Extrinsic Rewards Undermine Intrinsic Motivation — enriched from claims CSV via Claude
+* **Enrich**: Feedback Answers Three Questions — enriched from claims CSV via Claude
+* **Enrich**: Feedback Addressing Task Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Feedback Improves Learning When It Addresses Task Goals — enriched from claims CSV via Claude
+* **Enrich**: Feedback Enhances Retrieval Practice — enriched from claims CSV via Claude
+* **Enrich**: Feedback Most Effective At Task And Process Levels — enriched from claims CSV via Claude
+* **Enrich**: Feedback Use Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Fiction Reading Improves Empathy — enriched from claims CSV via Claude
+* **Enrich**: Fluency Judgments Mislead Learners — enriched from claims CSV via Claude
+* **Enrich**: Feedback Praise Reduces Learning — enriched from claims CSV via Claude
+* **Enrich**: Fluency is a poor cue for actual learning — enriched from claims CSV via Claude
+* **Enrich**: Fluent Illusions Mislead Self Assessment — enriched from claims CSV via Claude
+* **Enrich**: Generation Effect Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Generative Learning Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Generative Learning Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Generative processing improves learning — enriched from claims CSV via Claude
+* **Enrich**: Graphic Organizers Support Novice Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Goal Setting Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Growth mindset improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Growth Mindset Interventions Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Growth mindset interventions produce small positive effects on academic outcomes — enriched from claims CSV via Claude
+* **Enrich**: Guided Discovery Outperforms Pure Discovery — enriched from claims CSV via Claude
+* **Enrich**: Guided Notes Improve Note Accuracy — enriched from claims CSV via Claude
+* **Enrich**: Hands On Without Conceptual Integration Insufficient — enriched from claims CSV via Claude
+* **Enrich**: Guided Play Improves Academic Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Guided Inquiry Outperforms Pure Discovery — enriched from claims CSV via Claude
+* **Enrich**: Hands-on learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Different types of handwriting interventions produce equivalent gains in handwriting legibility and fluency — enriched from claims CSV via Claude
+* **Enrich**: Highlighting Alone Low Utility — enriched from claims CSV via Claude
+* **Enrich**: Highlighting shows low utility for improving learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Highlighting Alone Is Ineffective — enriched from claims CSV via Claude
+* **Enrich**: Learners mistake fluency and familiarity for actual knowledge, producing an illusion of knowing — enriched from claims CSV via Claude
+* **Enrich**: Increasing Wait Time Improves Response Quality — enriched from claims CSV via Claude
+* **Enrich**: Incidental Word Learning While Reading Occurs But At Low Rates Per Exposure — enriched from claims CSV via Claude
+* **Enrich**: Incidental Vocabulary Exposure Limited — enriched from claims CSV via Claude
+* **Enrich**: Inquiry Based Teaching Improves Science Achievement — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Discrimination — enriched from claims CSV via Claude
+* **Enrich**: Interleaved Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Inductive Learning — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Invention Tasks Prepare Future Learning — enriched from claims CSV via Claude
+* **Enrich**: Joint Book Reading Predicts Literacy Success — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Laptop note-taking tends toward verbatim transcription and shallower learning than longhand note-taking — enriched from claims CSV via Claude
+* **Enrich**: Learner-centered teacher–student relationships improve student outcomes — enriched from claims CSV via Claude
+* **Enrich**: Learner Constructed Graphic Organizers Outperform Provided — enriched from claims CSV via Claude
+* **Enrich**: Lateral Reading Improves Source Evaluation — enriched from claims CSV via Claude
+* **Enrich**: Learner Paced Beats System Paced Complex Material — enriched from claims CSV via Claude
+* **Enrich**: Judgments of learning are often inaccurate — enriched from claims CSV via Claude
+* **Enrich**: Learners misjudge which learning strategies are effective — enriched from claims CSV via Claude
+* **Enrich**: Learner Generated Organizers Beat Provided Organizers — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Effective Study Strategies — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Spacing Benefits — enriched from claims CSV via Claude
+* **Enrich**: Learners misjudge the benefits of spaced practice — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Mastery — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Tutor Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning Space Redesign Alone Insufficient — enriched from claims CSV via Claude
+* **Enrich**: Strategy instruction is more effective when contextualized in authentic content-area tasks — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Retrieval Benefit — enriched from claims CSV via Claude
+* **Enrich**: Manipulatives Improve Math Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning Styles Matching Does Not Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning Styles Matching Yields No Benefit — enriched from claims CSV via Claude
+* **Enrich**: Mastery Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Metacognitive prompts improve learning — enriched from claims CSV via Claude
+* **Enrich**: Math Anxiety Degrades Performance — enriched from claims CSV via Claude
+* **Enrich**: Minimal Guidance Ineffective For Novices — enriched from claims CSV via Claude
+* **Enrich**: Metacognitive Strategies Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Minimal Guidance Instruction Less Effective — enriched from claims CSV via Claude
+* **Enrich**: Minimally Guided Instruction Less Effective For Novices — enriched from claims CSV via Claude
+* **Enrich**: Misconceptions Interfere With New Learning — enriched from claims CSV via Claude
+* **Enrich**: Mismatched Graphic Organizers Increase Extraneous Load — enriched from claims CSV via Claude
+* **Enrich**: Minimal guidance is less effective for novices than explicit instruction — enriched from claims CSV via Claude
+* **Enrich**: Modality Principle Narration Beats On Screen Text — enriched from claims CSV via Claude
+* **Enrich**: Mnemonic Instruction Improves Recall For Students With Disabilities — enriched from claims CSV via Claude
+* **Enrich**: Modality Effect Narration Over Text — enriched from claims CSV via Claude
+* **Enrich**: Modality Principle Spoken Narration Beats On Screen Text — enriched from claims CSV via Claude
+* **Enrich**: Morphological Instruction Improves Vocabulary — enriched from claims CSV via Claude
+* **Enrich**: Morphological Instruction Improves Literacy — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Learning More Effective With Words And Pictures — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Principle Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: People learn better from words and pictures than from words alone — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Words Plus Images Beat Words Alone — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Principles Benefit Novices — enriched from claims CSV via Claude
+* **Enrich**: Multiple Contrasting Cases Support Abstraction — enriched from claims CSV via Claude
+* **Enrich**: Number Board Games Improve Numerical Knowledge — enriched from claims CSV via Claude
+* **Enrich**: Parent Implemented Intervention Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Multiple representations improve learning — enriched from claims CSV via Claude
+* **Enrich**: Parent Involvement Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Parent Coaching Outperforms Information Only — enriched from claims CSV via Claude
+* **Enrich**: Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone — enriched from claims CSV via Claude
+* **Enrich**: Parent Involvement Improves Early Reading — enriched from claims CSV via Claude
+* **Enrich**: Parental Involvement Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Benefits Assessor — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Peer Discussion Improves Conceptual Understanding — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Structured Criteria Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Worked examples reduce unnecessary search for novices — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Accuracy Depends On Expertise — enriched from claims CSV via Claude
+* **Enrich**: Personalized Learning Effects Vary With Fidelity — enriched from claims CSV via Claude
+* **Enrich**: Peer Tutoring Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Work Quality — enriched from claims CSV via Claude
+* **Enrich**: Phoneme awareness is a stronger predictor of reading development than rhyme awareness — enriched from claims CSV via Claude
+* **Enrich**: Personalized Normative Feedback Corrects Misperceived Norms — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Writing — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Writing Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Phonemic Awareness Training Improves Reading — enriched from claims CSV via Claude
+* **Enrich**: Physical Experience Enhances Science Learning — enriched from claims CSV via Claude
+* **Enrich**: Phonological Awareness Training Improves Reading — enriched from claims CSV via Claude
+* **Enrich**: Phonics Instruction Improves Word Reading — enriched from claims CSV via Claude
+* **Enrich**: Phonics Instruction Outperforms Whole Word For Generalization — enriched from claims CSV via Claude
+* **Enrich**: Play Based Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Positive Greetings At The Door Improve Engagement — enriched from claims CSV via Claude
+* **Enrich**: Positive Greetings At The Door Improve Engagement And Behavior — enriched from claims CSV via Claude
+* **Enrich**: Pretesting Can Harm Motivation — enriched from claims CSV via Claude
+* **Enrich**: Pretesting Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Prior Knowledge Determines New Learning — enriched from claims CSV via Claude
+* **Enrich**: Pretesting enhances learning — enriched from claims CSV via Claude
+* **Enrich**: Pretraining Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Process Writing Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Prior Knowledge Needed For Accurate Self Assessment — enriched from claims CSV via Claude
+* **Enrich**: Process Writing Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Productive Failure Improves Conceptual Learning — enriched from claims CSV via Claude
+* **Enrich**: Productive Failure Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Question prompts improve learning — enriched from claims CSV via Claude
+* **Enrich**: Questioning Strategies Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Project-based learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Reading Strategy Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Reading Literary Fiction Improves Theory Of Mind — enriched from claims CSV via Claude
+* **Enrich**: Reciprocal Teaching Improves Reading Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Effect Impairs Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Harms Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Hurts Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Principle Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundant on-screen text duplicates of narration or graphics impair learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Principle On Screen Text Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundant On Screen Text Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Reflective practice shows mixed evidence of effectiveness in professional education — enriched from claims CSV via Claude
+* **Enrich**: Reflective Practice Improves Outcomes When Structured — enriched from claims CSV via Claude
+* **Enrich**: Rereading is less effective than retrieval practice — enriched from claims CSV via Claude
+* **Enrich**: Rereading Is A Low Utility Study Strategy — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Fails Without Encoding — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Failure Reduces Benefit — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Enhances Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Rewards Undermine Intrinsic Motivation — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Rubrics Improve Student Work Quality — enriched from claims CSV via Claude
+* **Enrich**: Rubrics Improve Peer Feedback Quality — enriched from claims CSV via Claude
+* **Enrich**: Interesting but irrelevant details impair learning — enriched from claims CSV via Claude
+* **Enrich**: Scaffolding improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Scaffolding improves learning — enriched from claims CSV via Claude
+* **Enrich**: Scaffolded Close Reading Improves Comprehension For Struggling Readers — enriched from claims CSV via Claude
+* **Enrich**: ... — enriched from claims CSV via Claude
+* **Enrich**: Segmentation Benefits Shrink With Expertise — enriched from claims CSV via Claude
+* **Enrich**: Segmenting Improves Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: SEL Programs Improve Academic Achievement — enriched from claims CSV via Claude
+* **Enrich**: Social-emotional learning benefits persist at follow-up — enriched from claims CSV via Claude
+* **Enrich**: SEL Programs Improve Behavior And Achievement — enriched from claims CSV via Claude
+* **Enrich**: Seductive Details Harm Learning — enriched from claims CSV via Claude
+* **Enrich**: Self-affirmation improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Segmenting Principle Improves Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: SEL programs improve social emotional skills — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Accuracy Is Low Without Training — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Improves Self Regulated Learning — enriched from claims CSV via Claude
+* **Enrich**: Self-determination instruction improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Determined Learning Model Of Instruction Improves Self Determination — enriched from claims CSV via Claude
+* **Enrich**: Self Directed IEP Increases Student Participation — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Against Criteria Supports Self Regulated Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Explanation Prompts Improve Learning From Worked Examples — enriched from claims CSV via Claude
+* **Enrich**: Self-explanation improves learning — enriched from claims CSV via Claude
+* **Enrich**: Self Monitoring Comprehension Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Explanation Prompts Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Monitoring Improves On Task Behavior — enriched from claims CSV via Claude
+* **Enrich**: Self Questioning Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Improves Academic Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Predicts Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning strategy instruction improves writing outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategies Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategies Improve Performance — enriched from claims CSV via Claude
+* **Enrich**: Self Regulation Strategy Instruction Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Self-regulation strategy instruction improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategy Instruction Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Talk Improves Learning And Performance — enriched from claims CSV via Claude
+* **Enrich**: Signaling Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Simulation Based Education With Deliberate Practice Improves Clinical Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Social Emotional Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Small Group Learning Improves STEM Achievement — enriched from claims CSV via Claude
+* **Enrich**: Social Emotional Learning Programs Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Simulation Based Education Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Spaced Practice Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Repetition Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Outperforms Restudy — enriched from claims CSV via Claude
+* **Enrich**: Spacing Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Spacing Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spatial Skills Improve Through Block Building — enriched from claims CSV via Claude
+* **Enrich**: Spatial Contiguity Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Spatial Training Improves Math Performance — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Impairs Learning — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Integration Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Degrades Learning — enriched from claims CSV via Claude
+* **Enrich**: Story Mapping Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Needs Conditional Knowledge — enriched from claims CSV via Claude
+* **Enrich**: Summarization Effective With Training — enriched from claims CSV via Claude
+* **Enrich**: Structured Discussion Approaches Improve Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Structured Peer Tutoring Outperforms Unstructured — enriched from claims CSV via Claude
+* **Enrich**: Structured Literacy Interventions Help Struggling Readers — enriched from claims CSV via Claude
+* **Enrich**: Structured Discussion Methods Improve Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Summarization Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Systematic Phonics Improves Word Reading — enriched from claims CSV via Claude
+* **Enrich**: Teacher expectation effects on achievement — enriched from claims CSV via Claude
+* **Enrich**: Teacher Expectancy Effects Influence Student Achievement — enriched from claims CSV via Claude
+* **Enrich**: Testing Effect Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Teacher Student Relationships Improve Engagement And Achievement — enriched from claims CSV via Claude
+* **Enrich**: Teacher Guided Inquiry Outperforms Student Led — enriched from claims CSV via Claude
+* **Enrich**: Teacher Student Relationships Improve Engagement — enriched from claims CSV via Claude
+* **Enrich**: Teaching Others Generative Strategy — enriched from claims CSV via Claude
+* **Enrich**: Testing Effect Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Retrieval practice improves long-term retention more than restudying — enriched from claims CSV via Claude
+* **Enrich**: Tutoring benefits both tutors and tutees — enriched from claims CSV via Claude
+* **Enrich**: Vocabulary Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Testing Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Unguided Discovery Less Effective Than Guided Instruction — enriched from claims CSV via Claude
+* **Enrich**: Tutoring Effectiveness Comes From Scaffolding And Feedback — enriched from claims CSV via Claude
+* **Enrich**: Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts — enriched from claims CSV via Claude
+* **Enrich**: Words and pictures are better than words alone — enriched from claims CSV via Claude
+* **Enrich**: Sequencing worked examples with practice problems improves learning for novices — enriched from claims CSV via Claude
+* **Enrich**: Writing To Learn Improves Content Learning — enriched from claims CSV via Claude
+* **Enrich**: Writing Improves Mathematical Understanding — enriched from claims CSV via Claude
+* **Enrich**: Writing To Learn Improves Understanding — enriched from claims CSV via Claude
+* **Enrich**: [Claim statement — one sentence, present tense] — enriched from claims CSV via Claude
+* **Enrich**: Adaptive learning improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Argumentation Improves Reasoning — enriched from claims CSV via Claude
+* **Enrich**: Activation Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: The timing of acute exercise relative to learning modulates memory consolidation — enriched from claims CSV via Claude
+* **Enrich**: Annotating improves learning — enriched from claims CSV via Claude
+* **Enrich**: Assessment for learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Analogical Reasoning Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Advance Organizers Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Authentic Audiences Improve Student Work — enriched from claims CSV via Claude
+* **Enrich**: Belonging Interventions Improve Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Building Empathy Improves Intergroup Attitudes — enriched from claims CSV via Claude
+* **Enrich**: Blended Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Brief Intervention Empathic Discipline Cuts Suspensions — enriched from claims CSV via Claude
+* **Enrich**: Block Play Predicts Math Achievement — enriched from claims CSV via Claude
+* **Enrich**: Case-based learning improves exam performance — enriched from claims CSV via Claude
+* **Enrich**: Claim Slug — enriched from claims CSV via Claude
+* **Enrich**: Checklist Evaluation Ineffective Online — enriched from claims CSV via Claude
+* **Enrich**: Clear Structure Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Classroom Physical Activity Improves Attention — enriched from claims CSV via Claude
+* **Enrich**: Cognitive disequilibrium motivates conceptual change — enriched from claims CSV via Claude
+* **Enrich**: Civic Online Reasoning Instruction Improves Evaluation — enriched from claims CSV via Claude
+* **Enrich**: Presenting multiple cases from different perspectives supports transfer in ill-structured domains — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Load Management — enriched from claims CSV via Claude
+* **Enrich**: Coherence Principle Irrelevant Material Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Load Reduction Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Overload Degrades Learning — enriched from claims CSV via Claude
+* **Enrich**: Collaborative Writing Improves Text Quality — enriched from claims CSV via Claude
+* **Enrich**: Collaborative Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Comparing contrasting cases improves learning — enriched from claims CSV via Claude
+* **Enrich**: Comparing Contrasting Cases Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Considering The Opposite Reduces Bias — enriched from claims CSV via Claude
+* **Enrich**: Concept mapping improves learning — enriched from claims CSV via Claude
+* **Enrich**: Concept mapping improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Contiguity Principle Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Cooperative learning without individual accountability produces free-riding that reduces learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Constructive learning beats active and passive learning — enriched from claims CSV via Claude
+* **Enrich**: Group rewards combined with individual accountability make cooperative learning effective — enriched from claims CSV via Claude
+* **Enrich**: Cooperative Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Cooperative learning outperforms competitive and individualistic goal structures — enriched from claims CSV via Claude
+* **Enrich**: Decorative Illustrations Do Not Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Desirable Difficulties Improve Retention — enriched from claims CSV via Claude
+* **Enrich**: Dialogic Reading Improves Expressive Language — enriched from claims CSV via Claude
+* **Enrich**: Deliberate Practice Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Dialogic Reading Improves Language Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Desirable Difficulties Enhance Learning — enriched from claims CSV via Claude
+* **Enrich**: Disciplinary Literacy Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Discussion Quality Drives Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Distributed Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Drawing Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Dual Coding Improves Recall — enriched from claims CSV via Claude
+* **Enrich**: Dual Coding Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Elaborative Encoding Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Eliciting Self Explanations Improves Understanding — enriched from claims CSV via Claude
+* **Enrich**: Elaborative Interrogation Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Direct Instruction Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Example–problem sequences reduce cognitive load and improve learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Emotion Labeling Improves Regulation — enriched from claims CSV via Claude
+* **Enrich**: Exercise Increases Hippocampal Volume — enriched from claims CSV via Claude
+* **Enrich**: Expertise Reversal Guidance Hurts Experts — enriched from claims CSV via Claude
+* **Enrich**: Explicit Handwriting Instruction Improves Legibility — enriched from claims CSV via Claude
+* **Enrich**: Explicit Writing Strategy Instruction Improves Writing — enriched from claims CSV via Claude
+* **Enrich**: Expressive Writing Improves Health Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Expressive Writing Improves Exam Performance — enriched from claims CSV via Claude
+* **Enrich**: Extrinsic Rewards Undermine Intrinsic Motivation — enriched from claims CSV via Claude
+* **Enrich**: Feedback Addressing Task Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Answers Three Questions — enriched from claims CSV via Claude
+* **Enrich**: Feedback Improves Learning When It Addresses Task Goals — enriched from claims CSV via Claude
+* **Enrich**: Feedback improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Feedback Enhances Retrieval Practice — enriched from claims CSV via Claude
+* **Enrich**: Fiction Reading Improves Empathy — enriched from claims CSV via Claude
+* **Enrich**: Feedback Praise Reduces Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Most Effective At Task And Process Levels — enriched from claims CSV via Claude
+* **Enrich**: Fluency Judgments Mislead Learners — enriched from claims CSV via Claude
+* **Enrich**: Feedback Use Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Fluency is a poor cue for actual learning — enriched from claims CSV via Claude
+* **Enrich**: Fluent Illusions Mislead Self Assessment — enriched from claims CSV via Claude
+* **Enrich**: Generation Effect Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Generative Learning Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Generative Learning Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Feedback Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Graphic Organizers Support Novice Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Goal Setting Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Generative processing improves learning — enriched from claims CSV via Claude
+* **Enrich**: Growth mindset interventions produce small positive effects on academic outcomes — enriched from claims CSV via Claude
+* **Enrich**: Growth mindset improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Growth Mindset Interventions Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Guided Discovery Outperforms Pure Discovery — enriched from claims CSV via Claude
+* **Enrich**: Guided Notes Improve Note Accuracy — enriched from claims CSV via Claude
+* **Enrich**: Hands-on learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Guided Play Improves Academic Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Highlighting Alone Is Ineffective — enriched from claims CSV via Claude
+* **Enrich**: Hands On Without Conceptual Integration Insufficient — enriched from claims CSV via Claude
+* **Enrich**: Highlighting Alone Low Utility — enriched from claims CSV via Claude
+* **Enrich**: Guided Inquiry Outperforms Pure Discovery — enriched from claims CSV via Claude
+* **Enrich**: Highlighting shows low utility for improving learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: [Claim statement — one sentence, present tense] — enriched from claims CSV via Claude
+* **Enrich**: Incidental Word Learning While Reading Occurs But At Low Rates Per Exposure — enriched from claims CSV via Claude
+* **Enrich**: Incidental Vocabulary Exposure Limited — enriched from claims CSV via Claude
+* **Enrich**: Inquiry Based Teaching Improves Science Achievement — enriched from claims CSV via Claude
+* **Enrich**: Increasing Wait Time Improves Response Quality — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Discrimination — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Inductive Learning — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Learners mistake fluency and familiarity for actual knowledge, producing an illusion of knowing — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Invention Tasks Prepare Future Learning — enriched from claims CSV via Claude
+* **Enrich**: Interleaved Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Joint Book Reading Predicts Literacy Success — enriched from claims CSV via Claude
+* **Enrich**: Judgments of learning are often inaccurate — enriched from claims CSV via Claude
+* **Enrich**: Laptop note-taking tends toward verbatim transcription and shallower learning than longhand note-taking — enriched from claims CSV via Claude
+* **Enrich**: Learner Constructed Graphic Organizers Outperform Provided — enriched from claims CSV via Claude
+* **Enrich**: Learner Generated Organizers Beat Provided Organizers — enriched from claims CSV via Claude
+* **Enrich**: Learner-centered teacher–student relationships improve student outcomes — enriched from claims CSV via Claude
+* **Enrich**: Learner Paced Beats System Paced Complex Material — enriched from claims CSV via Claude
+* **Enrich**: Lateral Reading Improves Source Evaluation — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Retrieval Benefit — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Effective Study Strategies — enriched from claims CSV via Claude
+* **Enrich**: Learners misjudge which learning strategies are effective — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Spacing Benefits — enriched from claims CSV via Claude
+* **Enrich**: Learners misjudge the benefits of spaced practice — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Tutor Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Mastery — enriched from claims CSV via Claude
+* **Enrich**: Learning Space Redesign Alone Insufficient — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Strategy instruction is more effective when contextualized in authentic content-area tasks — enriched from claims CSV via Claude
+* **Enrich**: Learning Styles Matching Does Not Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Manipulatives Improve Math Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning Styles Matching Yields No Benefit — enriched from claims CSV via Claude
+* **Enrich**: Mastery Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Metacognitive prompts improve learning — enriched from claims CSV via Claude
+* **Enrich**: Metacognitive Strategies Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Minimal Guidance Ineffective For Novices — enriched from claims CSV via Claude
+* **Enrich**: Minimal Guidance Instruction Less Effective — enriched from claims CSV via Claude
+* **Enrich**: Math Anxiety Degrades Performance — enriched from claims CSV via Claude
+* **Enrich**: Minimally Guided Instruction Less Effective For Novices — enriched from claims CSV via Claude
+* **Enrich**: Minimal guidance is less effective for novices than explicit instruction — enriched from claims CSV via Claude
+* **Enrich**: Misconceptions Interfere With New Learning — enriched from claims CSV via Claude
+* **Enrich**: Mnemonic Instruction Improves Recall For Students With Disabilities — enriched from claims CSV via Claude
+* **Enrich**: Mismatched Graphic Organizers Increase Extraneous Load — enriched from claims CSV via Claude
+* **Enrich**: Modality Principle Spoken Narration Beats On Screen Text — enriched from claims CSV via Claude
+* **Enrich**: Modality Principle Narration Beats On Screen Text — enriched from claims CSV via Claude
+* **Enrich**: Modality Effect Narration Over Text — enriched from claims CSV via Claude
+* **Enrich**: Morphological Instruction Improves Literacy — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Principle Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Morphological Instruction Improves Vocabulary — enriched from claims CSV via Claude
+* **Enrich**: People learn better from words and pictures than from words alone — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Learning More Effective With Words And Pictures — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Principles Benefit Novices — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Words Plus Images Beat Words Alone — enriched from claims CSV via Claude
+* **Enrich**: Multiple Contrasting Cases Support Abstraction — enriched from claims CSV via Claude
+* **Enrich**: Multiple representations improve learning — enriched from claims CSV via Claude
+* **Enrich**: Number Board Games Improve Numerical Knowledge — enriched from claims CSV via Claude
+* **Enrich**: Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone — enriched from claims CSV via Claude
+* **Enrich**: Parent Involvement Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Parent Involvement Improves Early Reading — enriched from claims CSV via Claude
+* **Enrich**: Parent Implemented Intervention Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Parent Coaching Outperforms Information Only — enriched from claims CSV via Claude
+* **Enrich**: Parental Involvement Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Benefits Assessor — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Peer Discussion Improves Conceptual Understanding — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Structured Criteria Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Worked examples reduce unnecessary search for novices — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Accuracy Depends On Expertise — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Work Quality — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Writing — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Writing Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Personalized Normative Feedback Corrects Misperceived Norms — enriched from claims CSV via Claude
+* **Enrich**: Phoneme awareness is a stronger predictor of reading development than rhyme awareness — enriched from claims CSV via Claude
+* **Enrich**: Personalized Learning Effects Vary With Fidelity — enriched from claims CSV via Claude
+* **Enrich**: Peer Tutoring Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Phonemic Awareness Training Improves Reading — enriched from claims CSV via Claude
+* **Enrich**: Phonics Instruction Outperforms Whole Word For Generalization — enriched from claims CSV via Claude
+* **Enrich**: Phonics Instruction Improves Word Reading — enriched from claims CSV via Claude
+* **Enrich**: Phonological Awareness Training Improves Reading — enriched from claims CSV via Claude
+* **Enrich**: Physical Experience Enhances Science Learning — enriched from claims CSV via Claude
+* **Enrich**: Positive Greetings At The Door Improve Engagement — enriched from claims CSV via Claude
+* **Enrich**: Positive Greetings At The Door Improve Engagement And Behavior — enriched from claims CSV via Claude
+* **Enrich**: Play Based Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Pretesting Can Harm Motivation — enriched from claims CSV via Claude
+* **Enrich**: Pretesting Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Pretesting enhances learning — enriched from claims CSV via Claude
+* **Enrich**: Pretraining Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Prior Knowledge Needed For Accurate Self Assessment — enriched from claims CSV via Claude
+* **Enrich**: Process Writing Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Process Writing Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Prior Knowledge Determines New Learning — enriched from claims CSV via Claude
+* **Enrich**: Productive Failure Improves Conceptual Learning — enriched from claims CSV via Claude
+* **Enrich**: Productive Failure Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Question prompts improve learning — enriched from claims CSV via Claude
+* **Enrich**: Project-based learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Questioning Strategies Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Reading Literary Fiction Improves Theory Of Mind — enriched from claims CSV via Claude
+* **Enrich**: Reading Strategy Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Reciprocal Teaching Improves Reading Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Harms Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Effect Impairs Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Hurts Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Principle Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundant on-screen text duplicates of narration or graphics impair learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Principle On Screen Text Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundant On Screen Text Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Reflective practice shows mixed evidence of effectiveness in professional education — enriched from claims CSV via Claude
+* **Enrich**: Reflective Practice Improves Outcomes When Structured — enriched from claims CSV via Claude
+* **Enrich**: Rereading Is A Low Utility Study Strategy — enriched from claims CSV via Claude
+* **Enrich**: Rereading is less effective than retrieval practice — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Fails Without Encoding — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Enhances Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Failure Reduces Benefit — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Rewards Undermine Intrinsic Motivation — enriched from claims CSV via Claude
+* **Enrich**: Scaffolding improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Scaffolded Close Reading Improves Comprehension For Struggling Readers — enriched from claims CSV via Claude
+* **Enrich**: Rubrics Improve Student Work Quality — enriched from claims CSV via Claude
+* **Enrich**: Seductive Details Effect — enriched from claims CSV via Claude
+* **Enrich**: Rubrics Improve Peer Feedback Quality — enriched from claims CSV via Claude
+* **Enrich**: Scaffolding improves learning — enriched from claims CSV via Claude
+* **Enrich**: Seductive Details Harm Learning — enriched from claims CSV via Claude
+* **Enrich**: Segmentation Benefits Shrink With Expertise — enriched from claims CSV via Claude
+* **Enrich**: Segmenting Improves Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Segmenting Principle Improves Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Social-emotional learning benefits persist at follow-up — enriched from claims CSV via Claude
+* **Enrich**: SEL Programs Improve Academic Achievement — enriched from claims CSV via Claude
+* **Enrich**: SEL Programs Improve Behavior And Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self-affirmation improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: SEL programs improve social emotional skills — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Accuracy Is Low Without Training — enriched from claims CSV via Claude
+* **Enrich**: Self-determination instruction improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Against Criteria Supports Self Regulated Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Determined Learning Model Of Instruction Improves Self Determination — enriched from claims CSV via Claude
+* **Enrich**: Self Directed IEP Increases Student Participation — enriched from claims CSV via Claude
+* **Enrich**: Self Explanation Prompts Improve Learning From Worked Examples — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Improves Self Regulated Learning — enriched from claims CSV via Claude
+* **Enrich**: Self-explanation improves learning — enriched from claims CSV via Claude
+* **Enrich**: Self Explanation Prompts Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Monitoring Improves On Task Behavior — enriched from claims CSV via Claude
+* **Enrich**: Rubrics Improve Student Work — enriched from claims CSV via Claude
+* **Enrich**: Self Monitoring Comprehension Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Questioning Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Improves Academic Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Predicts Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategies Improve Performance — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning strategy instruction improves writing outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategies Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulation Strategy Instruction Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Self Talk Improves Learning And Performance — enriched from claims CSV via Claude
+* **Enrich**: Self-regulation strategy instruction improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Signaling Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategy Instruction Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Simulation Based Education With Deliberate Practice Improves Clinical Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Simulation Based Education Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Social Emotional Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Social Emotional Learning Programs Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Small Group Learning Improves STEM Achievement — enriched from claims CSV via Claude
+* **Enrich**: Spaced Repetition Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Practice Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Outperforms Restudy — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spacing Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spatial Skills Improve Through Block Building — enriched from claims CSV via Claude
+* **Enrich**: Spatial Contiguity Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Spatial Training Improves Math Performance — enriched from claims CSV via Claude
+* **Enrich**: Spacing Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Degrades Learning — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Impairs Learning — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Integration Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Story Mapping Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Needs Conditional Knowledge — enriched from claims CSV via Claude
+* **Enrich**: Structured Discussion Approaches Improve Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Structured Literacy Interventions Help Struggling Readers — enriched from claims CSV via Claude
+* **Enrich**: Summarization Effective With Training — enriched from claims CSV via Claude
+* **Enrich**: Summarization Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Structured Peer Tutoring Outperforms Unstructured — enriched from claims CSV via Claude
+* **Enrich**: Systematic Phonics Improves Word Reading — enriched from claims CSV via Claude
+* **Enrich**: Structured Discussion Methods Improve Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Teacher Expectancy Effects Influence Student Achievement — enriched from claims CSV via Claude
+* **Enrich**: Teacher expectation effects on achievement — enriched from claims CSV via Claude
+* **Enrich**: Teacher Student Relationships Improve Engagement And Achievement — enriched from claims CSV via Claude
+* **Enrich**: Teaching Others Generative Strategy — enriched from claims CSV via Claude
+* **Enrich**: Testing Effect Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Teacher Guided Inquiry Outperforms Student Led — enriched from claims CSV via Claude
+* **Enrich**: Teacher Student Relationships Improve Engagement — enriched from claims CSV via Claude
+* **Enrich**: Testing Effect Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Retrieval practice improves long-term retention more than restudying — enriched from claims CSV via Claude
+* **Enrich**: Vocabulary Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Tutoring benefits both tutors and tutees — enriched from claims CSV via Claude
+* **Enrich**: Testing Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Unguided Discovery Less Effective Than Guided Instruction — enriched from claims CSV via Claude
+* **Enrich**: Tutoring Effectiveness Comes From Scaffolding And Feedback — enriched from claims CSV via Claude
+* **Enrich**: Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts — enriched from claims CSV via Claude
+* **Enrich**: Words and pictures are better than words alone — enriched from claims CSV via Claude
+* **Enrich**: Sequencing worked examples with practice problems improves learning for novices — enriched from claims CSV via Claude
+* **Enrich**: Writing Improves Mathematical Understanding — enriched from claims CSV via Claude
+* **Enrich**: Writing To Learn Improves Content Learning — enriched from claims CSV via Claude
+* **Enrich**: Writing To Learn Improves Understanding — enriched from claims CSV via Claude
+* **Enrich**: Writing Strategy Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Analogical Reasoning Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Annotating improves learning — enriched from claims CSV via Claude
+* **Enrich**: Advance Organizers Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Activation Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Assessment for learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Argumentation Improves Reasoning — enriched from claims CSV via Claude
+* **Enrich**: Adaptive learning improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Authentic Audiences Improve Student Work — enriched from claims CSV via Claude
+* **Enrich**: Automatic Word Recognition Frees Resources For Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Blended Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Belonging Interventions Improve Outcomes — enriched from claims CSV via Claude
+* **Enrich**: The timing of acute exercise relative to learning modulates memory consolidation — enriched from claims CSV via Claude
+* **Enrich**: Case-based learning improves exam performance — enriched from claims CSV via Claude
+* **Enrich**: Building Empathy Improves Intergroup Attitudes — enriched from claims CSV via Claude
+* **Enrich**: Claim Slug — enriched from claims CSV via Claude
+* **Enrich**: Checklist Evaluation Ineffective Online — enriched from claims CSV via Claude
+* **Enrich**: Block Play Predicts Math Achievement — enriched from claims CSV via Claude
+* **Enrich**: Brief Intervention Empathic Discipline Cuts Suspensions — enriched from claims CSV via Claude
+* **Enrich**: Civic Online Reasoning Instruction Improves Evaluation — enriched from claims CSV via Claude
+* **Enrich**: Clear Structure Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Cognitive disequilibrium motivates conceptual change — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Load Management — enriched from claims CSV via Claude
+* **Enrich**: Presenting multiple cases from different perspectives supports transfer in ill-structured domains — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Load Reduction Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Coherence Principle Irrelevant Material Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Overload Degrades Learning — enriched from claims CSV via Claude
+* **Enrich**: Collaborative Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Comparing Contrasting Cases Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Comparing contrasting cases improves learning — enriched from claims CSV via Claude
+* **Enrich**: Concept mapping improves learning — enriched from claims CSV via Claude
+* **Enrich**: Concept mapping improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Collaborative Writing Improves Text Quality — enriched from claims CSV via Claude
+* **Enrich**: Constructive learning beats active and passive learning — enriched from claims CSV via Claude
+* **Enrich**: Contiguity Principle Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Considering The Opposite Reduces Bias — enriched from claims CSV via Claude
+* **Enrich**: Group rewards combined with individual accountability make cooperative learning effective — enriched from claims CSV via Claude
+* **Enrich**: Cooperative learning outperforms competitive and individualistic goal structures — enriched from claims CSV via Claude
+* **Enrich**: Cooperative Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Desirable Difficulties Improve Retention — enriched from claims CSV via Claude
+* **Enrich**: Decorative Illustrations Do Not Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Desirable Difficulties Enhance Learning — enriched from claims CSV via Claude
+* **Enrich**: Deliberate Practice Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Cooperative learning without individual accountability produces free-riding that reduces learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Dialogic Reading Improves Language Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Dialogic Reading Improves Expressive Language — enriched from claims CSV via Claude
+* **Enrich**: Discussion Quality Drives Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Direct Instruction Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Disciplinary Literacy Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Distributed Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Drawing Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Dual Coding Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Eliciting Self Explanations Improves Understanding — enriched from claims CSV via Claude
+* **Enrich**: Elaborative Interrogation Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Elaborative Encoding Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Dual Coding Improves Recall — enriched from claims CSV via Claude
+* **Enrich**: Example Problem Sequences Reduce Cognitive Load And Improve Learning Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Exercise Increases Hippocampal Volume — enriched from claims CSV via Claude
+* **Enrich**: Expertise Reversal Guidance Hurts Experts — enriched from claims CSV via Claude
+* **Enrich**: Emotion Labeling Improves Regulation — enriched from claims CSV via Claude
+* **Enrich**: Expressive Writing Improves Health Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Expressive Writing Improves Exam Performance — enriched from claims CSV via Claude
+* **Enrich**: Explicit Handwriting Instruction Improves Legibility — enriched from claims CSV via Claude
+* **Enrich**: Explicit Writing Strategy Instruction Improves Writing — enriched from claims CSV via Claude
+* **Enrich**: Feedback Addressing Task Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Extrinsic Rewards Undermine Intrinsic Motivation — enriched from claims CSV via Claude
+* **Enrich**: Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Answers Three Questions — enriched from claims CSV via Claude
+* **Enrich**: Feedback Enhances Retrieval Practice — enriched from claims CSV via Claude
+* **Enrich**: Feedback improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Feedback Improves Learning When It Addresses Task Goals — enriched from claims CSV via Claude
+* **Enrich**: Feedback Praise Reduces Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Most Effective At Task And Process Levels — enriched from claims CSV via Claude
+* **Enrich**: Fluency Judgments Mislead Learners — enriched from claims CSV via Claude
+* **Enrich**: Feedback Use Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Fluency is a poor cue for actual learning — enriched from claims CSV via Claude
+* **Enrich**: Fluent Illusions Mislead Self Assessment — enriched from claims CSV via Claude
+* **Enrich**: Generative Learning Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Generation Effect Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Generative Learning Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Fiction Reading Improves Empathy — enriched from claims CSV via Claude
+* **Enrich**: Graphic Organizers Support Novice Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Goal Setting Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Generative processing improves learning — enriched from claims CSV via Claude
+* **Enrich**: Growth mindset interventions produce small positive effects on academic outcomes — enriched from claims CSV via Claude
+* **Enrich**: Growth mindset improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Growth Mindset Interventions Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Guided Discovery Outperforms Pure Discovery — enriched from claims CSV via Claude
+* **Enrich**: Guided Notes Improve Note Accuracy — enriched from claims CSV via Claude
+* **Enrich**: Guided Play Improves Academic Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Hands On Without Conceptual Integration Insufficient — enriched from claims CSV via Claude
+* **Enrich**: Hands-on learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Highlighting Alone Is Ineffective — enriched from claims CSV via Claude
+* **Enrich**: Guided Inquiry Outperforms Pure Discovery — enriched from claims CSV via Claude
+* **Enrich**: Highlighting Alone Low Utility — enriched from claims CSV via Claude
+* **Enrich**: Highlighting shows low utility for improving learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Increasing Wait Time Improves Response Quality — enriched from claims CSV via Claude
+* **Enrich**: Learners mistake fluency and familiarity for actual knowledge, producing an illusion of knowing — enriched from claims CSV via Claude
+* **Enrich**: Incidental Vocabulary Exposure Limited — enriched from claims CSV via Claude
+* **Enrich**: Incidental Word Learning While Reading Occurs But At Low Rates Per Exposure — enriched from claims CSV via Claude
+* **Enrich**: Inquiry Based Teaching Improves Science Achievement — enriched from claims CSV via Claude
+* **Enrich**: Interleaved Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Inductive Learning — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Discrimination — enriched from claims CSV via Claude
+* **Enrich**: Invention Tasks Prepare Future Learning — enriched from claims CSV via Claude
+* **Enrich**: Joint Book Reading Predicts Literacy Success — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Judgments of learning are often inaccurate — enriched from claims CSV via Claude
+* **Enrich**: Laptop note-taking tends toward verbatim transcription and shallower learning than longhand note-taking — enriched from claims CSV via Claude
+* **Enrich**: Handwriting Intervention Type Equivalence — enriched from claims CSV via Claude
+* **Enrich**: Learner Constructed Graphic Organizers Outperform Provided — enriched from claims CSV via Claude
+* **Enrich**: Learner Generated Organizers Beat Provided Organizers — enriched from claims CSV via Claude
+* **Enrich**: Learner-centered teacher–student relationships improve student outcomes — enriched from claims CSV via Claude
+* **Enrich**: Lateral Reading Improves Source Evaluation — enriched from claims CSV via Claude
+* **Enrich**: Learner Paced Beats System Paced Complex Material — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Retrieval Benefit — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Effective Study Strategies — enriched from claims CSV via Claude
+* **Enrich**: Learners misjudge which learning strategies are effective — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Spacing Benefits — enriched from claims CSV via Claude
+* **Enrich**: Learners misjudge the benefits of spaced practice — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Tutor Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning Space Redesign Alone Insufficient — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Mastery — enriched from claims CSV via Claude
+* **Enrich**: Learning Styles Matching Does Not Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Manipulatives Improve Math Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning Styles Matching Yields No Benefit — enriched from claims CSV via Claude
+* **Enrich**: Mastery Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Metacognitive Strategies Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Math Anxiety Degrades Performance — enriched from claims CSV via Claude
+* **Enrich**: Metacognitive prompts improve learning — enriched from claims CSV via Claude
+* **Enrich**: Learning Strategy Instruction Contextualized More Effective — enriched from claims CSV via Claude
+* **Enrich**: Minimally Guided Instruction Less Effective For Novices — enriched from claims CSV via Claude
+* **Enrich**: Minimal Guidance Instruction Less Effective — enriched from claims CSV via Claude
+* **Enrich**: Minimal guidance is less effective for novices than explicit instruction — enriched from claims CSV via Claude
+* **Enrich**: Misconceptions Interfere With New Learning — enriched from claims CSV via Claude
+* **Enrich**: Mismatched Graphic Organizers Increase Extraneous Load — enriched from claims CSV via Claude
+* **Enrich**: Mnemonic Instruction Improves Recall For Students With Disabilities — enriched from claims CSV via Claude
+* **Enrich**: Modality Effect Narration Over Text — enriched from claims CSV via Claude
+* **Enrich**: Modality Principle Narration Beats On Screen Text — enriched from claims CSV via Claude
+* **Enrich**: Minimal Guidance Ineffective For Novices — enriched from claims CSV via Claude
+* **Enrich**: Morphological Instruction Improves Literacy — enriched from claims CSV via Claude
+* **Enrich**: Modality Principle Spoken Narration Beats On Screen Text — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Learning More Effective With Words And Pictures — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Principle Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Morphological Instruction Improves Vocabulary — enriched from claims CSV via Claude
+* **Enrich**: People learn better from words and pictures than from words alone — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Principles Benefit Novices — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Words Plus Images Beat Words Alone — enriched from claims CSV via Claude
+* **Enrich**: Multiple Contrasting Cases Support Abstraction — enriched from claims CSV via Claude
+* **Enrich**: Number Board Games Improve Numerical Knowledge — enriched from claims CSV via Claude
+* **Enrich**: Multiple representations improve learning — enriched from claims CSV via Claude
+* **Enrich**: Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone — enriched from claims CSV via Claude
+* **Enrich**: Parent Implemented Intervention Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Parent Involvement Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Parent Coaching Outperforms Information Only — enriched from claims CSV via Claude
+* **Enrich**: Parent Involvement Improves Early Reading — enriched from claims CSV via Claude
+* **Enrich**: Parental Involvement Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Benefits Assessor — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Structured Criteria Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Worked examples reduce unnecessary search for novices — enriched from claims CSV via Claude
+* **Enrich**: Peer Discussion Improves Conceptual Understanding — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Accuracy Depends On Expertise — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Writing Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Writing — enriched from claims CSV via Claude
+* **Enrich**: Personalized Normative Feedback Corrects Misperceived Norms — enriched from claims CSV via Claude
+* **Enrich**: Peer Tutoring Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Work Quality — enriched from claims CSV via Claude
+* **Enrich**: Personalized Learning Effects Vary With Fidelity — enriched from claims CSV via Claude
+* **Enrich**: Phoneme awareness is a stronger predictor of reading development than rhyme awareness — enriched from claims CSV via Claude
+* **Enrich**: Phonological Awareness Training Improves Reading — enriched from claims CSV via Claude
+* **Enrich**: Phonemic Awareness Training Improves Reading — enriched from claims CSV via Claude
+* **Enrich**: Phonics Instruction Improves Word Reading — enriched from claims CSV via Claude
+* **Enrich**: Phonics Instruction Outperforms Whole Word For Generalization — enriched from claims CSV via Claude
+* **Enrich**: Play Based Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Positive Greetings At The Door Improve Engagement And Behavior — enriched from claims CSV via Claude
+* **Enrich**: Physical Experience Enhances Science Learning — enriched from claims CSV via Claude
+* **Enrich**: Positive Greetings At The Door Improve Engagement — enriched from claims CSV via Claude
+* **Enrich**: Pretesting enhances learning — enriched from claims CSV via Claude
+* **Enrich**: Pretesting Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Prior Knowledge Needed For Accurate Self Assessment — enriched from claims CSV via Claude
+* **Enrich**: Pretraining Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Pretesting Can Harm Motivation — enriched from claims CSV via Claude
+* **Enrich**: Process Writing Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Process Writing Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Productive Failure Improves Conceptual Learning — enriched from claims CSV via Claude
+* **Enrich**: Productive Failure Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Question prompts improve learning — enriched from claims CSV via Claude
+* **Enrich**: Reciprocal Teaching Improves Reading Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Reading Strategy Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Project-based learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Questioning Strategies Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Effect Impairs Learning — enriched from claims CSV via Claude
+* **Enrich**: Reading Literary Fiction Improves Theory Of Mind — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Harms Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Hurts Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Principle On Screen Text Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Principle Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundant on-screen text duplicates of narration or graphics impair learning — enriched from claims CSV via Claude
+* **Enrich**: Redundant On Screen Text Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Reflective practice shows mixed evidence of effectiveness in professional education — enriched from claims CSV via Claude
+* **Enrich**: Reflective Practice Improves Outcomes When Structured — enriched from claims CSV via Claude
+* **Enrich**: Rereading is less effective than retrieval practice — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Fails Without Encoding — enriched from claims CSV via Claude
+* **Enrich**: Rereading Is A Low Utility Study Strategy — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Enhances Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Failure Reduces Benefit — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Rewards Undermine Intrinsic Motivation — enriched from claims CSV via Claude
+* **Enrich**: Rubrics Improve Student Work — enriched from claims CSV via Claude
+* **Enrich**: Rubrics Improve Student Work Quality — enriched from claims CSV via Claude
+* **Enrich**: Scaffolded Close Reading Improves Comprehension For Struggling Readers — enriched from claims CSV via Claude
+* **Enrich**: Scaffolding improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Seductive Details Effect — enriched from claims CSV via Claude
+* **Enrich**: Segmentation Benefits Shrink With Expertise — enriched from claims CSV via Claude
+* **Enrich**: Scaffolding improves learning — enriched from claims CSV via Claude
+* **Enrich**: Segmenting Improves Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Rubrics Improve Peer Feedback Quality — enriched from claims CSV via Claude
+* **Enrich**: Seductive Details Harm Learning — enriched from claims CSV via Claude
+* **Enrich**: SEL Programs Improve Academic Achievement — enriched from claims CSV via Claude
+* **Enrich**: Segmenting Principle Improves Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Social-emotional learning benefits persist at follow-up — enriched from claims CSV via Claude
+* **Enrich**: SEL Programs Improve Behavior And Achievement — enriched from claims CSV via Claude
+* **Enrich**: SEL programs improve social emotional skills — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Accuracy Is Low Without Training — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Improves Self Regulated Learning — enriched from claims CSV via Claude
+* **Enrich**: Self-determination instruction improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Determined Learning Model Of Instruction Improves Self Determination — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Against Criteria Supports Self Regulated Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Directed IEP Increases Student Participation — enriched from claims CSV via Claude
+* **Enrich**: Self-explanation improves learning — enriched from claims CSV via Claude
+* **Enrich**: Self Explanation Prompts Improve Learning From Worked Examples — enriched from claims CSV via Claude
+* **Enrich**: Self Explanation Prompts Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Monitoring Improves On Task Behavior — enriched from claims CSV via Claude
+* **Enrich**: Self Monitoring Comprehension Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Questioning Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Improves Academic Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self-affirmation improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Predicts Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategies Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning strategy instruction improves writing outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Regulation Strategy Instruction Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategies Improve Performance — enriched from claims CSV via Claude
+* **Enrich**: Self-regulation strategy instruction improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Talk Improves Learning And Performance — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategy Instruction Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Signaling Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Simulation Based Education With Deliberate Practice Improves Clinical Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Social Emotional Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Social Emotional Learning Programs Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Small Group Learning Improves STEM Achievement — enriched from claims CSV via Claude
+* **Enrich**: Simulation Based Education Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Spaced Practice Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Repetition Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Outperforms Restudy — enriched from claims CSV via Claude
+* **Enrich**: Spatial Skills Improve Through Block Building — enriched from claims CSV via Claude
+* **Enrich**: Spacing Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spatial Contiguity Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Spacing Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Spatial Training Improves Math Performance — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Degrades Learning — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Integration Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Impairs Learning — enriched from claims CSV via Claude
+* **Enrich**: Story Mapping Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Needs Conditional Knowledge — enriched from claims CSV via Claude
+* **Enrich**: Structured Discussion Approaches Improve Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Structured Literacy Interventions Help Struggling Readers — enriched from claims CSV via Claude
+* **Enrich**: Structured Discussion Methods Improve Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Summarization Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Summarization Effective With Training — enriched from claims CSV via Claude
+* **Enrich**: Structured Peer Tutoring Outperforms Unstructured — enriched from claims CSV via Claude
+* **Enrich**: Systematic Phonics Improves Word Reading — enriched from claims CSV via Claude
+* **Enrich**: Teacher Expectancy Effects Influence Student Achievement — enriched from claims CSV via Claude
+* **Enrich**: Teacher expectation effects on achievement — enriched from claims CSV via Claude
+* **Enrich**: Teacher Student Relationships Improve Engagement And Achievement — enriched from claims CSV via Claude
+* **Enrich**: Testing Effect Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Teaching Others Generative Strategy — enriched from claims CSV via Claude
+* **Enrich**: Teacher Student Relationships Improve Engagement — enriched from claims CSV via Claude
+* **Enrich**: Teacher Guided Inquiry Outperforms Student Led — enriched from claims CSV via Claude
+* **Enrich**: Testing Effect Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Testing Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Retrieval practice improves long-term retention more than restudying — enriched from claims CSV via Claude
+* **Enrich**: Vocabulary Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Sequencing worked examples with practice problems improves learning for novices — enriched from claims CSV via Claude
+* **Enrich**: Writing Improves Mathematical Understanding — enriched from claims CSV via Claude
+* **Enrich**: Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts — enriched from claims CSV via Claude
+* **Enrich**: Words and pictures are better than words alone — enriched from claims CSV via Claude
+* **Enrich**: Unguided Discovery Less Effective Than Guided Instruction — enriched from claims CSV via Claude
+* **Enrich**: Tutoring Effectiveness Comes From Scaffolding And Feedback — enriched from claims CSV via Claude
+* **Enrich**: Tutoring benefits both tutors and tutees — enriched from claims CSV via Claude
+* **Enrich**: Writing To Learn Improves Content Learning — enriched from claims CSV via Claude
+* **Enrich**: Writing To Learn Improves Understanding — enriched from claims CSV via Claude
+* **Enrich**: Writing Strategy Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Annotating improves learning — enriched from claims CSV via Claude
+* **Enrich**: Activation Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Analogical Reasoning Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Adaptive learning improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Advance Organizers Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Argumentation Improves Reasoning — enriched from claims CSV via Claude
+* **Enrich**: The timing of acute exercise relative to learning modulates memory consolidation — enriched from claims CSV via Claude
+* **Enrich**: Assessment for learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Authentic Audiences Improve Student Work — enriched from claims CSV via Claude
+* **Enrich**: Block Play Predicts Math Achievement — enriched from claims CSV via Claude
+* **Enrich**: Building Empathy Improves Intergroup Attitudes — enriched from claims CSV via Claude
+* **Enrich**: Automatic Word Recognition Frees Resources For Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Brief Intervention Empathic Discipline Cuts Suspensions — enriched from claims CSV via Claude
+* **Enrich**: Belonging Interventions Improve Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Blended Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Claim Slug — enriched from claims CSV via Claude
+* **Enrich**: Checklist Evaluation Ineffective Online — enriched from claims CSV via Claude
+* **Enrich**: Case-based learning improves exam performance — enriched from claims CSV via Claude
+* **Enrich**: Civic Online Reasoning Instruction Improves Evaluation — enriched from claims CSV via Claude
+* **Enrich**: Cognitive disequilibrium motivates conceptual change — enriched from claims CSV via Claude
+* **Enrich**: Clear Structure Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Classroom Physical Activity Improves Attention — enriched from claims CSV via Claude
+* **Enrich**: Presenting multiple cases from different perspectives supports transfer in ill-structured domains — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Load Management — enriched from claims CSV via Claude
+* **Enrich**: Coherence Principle Irrelevant Material Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Collaborative Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Load Reduction Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Overload Degrades Learning — enriched from claims CSV via Claude
+* **Enrich**: Collaborative Writing Improves Text Quality — enriched from claims CSV via Claude
+* **Enrich**: Comparing contrasting cases improves learning — enriched from claims CSV via Claude
+* **Enrich**: Comparing Contrasting Cases Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Concept mapping improves learning — enriched from claims CSV via Claude
+* **Enrich**: Considering The Opposite Reduces Bias — enriched from claims CSV via Claude
+* **Enrich**: Constructive learning beats active and passive learning — enriched from claims CSV via Claude
+* **Enrich**: Cooperative learning without individual accountability produces free-riding that reduces learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Concept mapping improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Contiguity Principle Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Classroom Design Affects Learning Progress — enriched from claims CSV via Claude
+* **Enrich**: Group rewards combined with individual accountability make cooperative learning effective — enriched from claims CSV via Claude
+* **Enrich**: Cooperative Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Cooperative learning outperforms competitive and individualistic goal structures — enriched from claims CSV via Claude
+* **Enrich**: Decorative Illustrations Do Not Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Dialogic Reading Improves Expressive Language — enriched from claims CSV via Claude
+* **Enrich**: Deliberate Practice Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Desirable Difficulties Improve Retention — enriched from claims CSV via Claude
+* **Enrich**: Dialogic Reading Improves Language Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Direct Instruction Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Desirable Difficulties Enhance Learning — enriched from claims CSV via Claude
+* **Enrich**: Disciplinary Literacy Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Drawing Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Dual Coding Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Distributed Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Discussion Quality Drives Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Elaborative Encoding Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Dual Coding Improves Recall — enriched from claims CSV via Claude
+* **Enrich**: Example Problem Sequences Reduce Cognitive Load And Improve Learning Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Elaborative Interrogation Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Eliciting Self Explanations Improves Understanding — enriched from claims CSV via Claude
+* **Enrich**: Explicit Handwriting Instruction Improves Legibility — enriched from claims CSV via Claude
+* **Enrich**: Emotion Labeling Improves Regulation — enriched from claims CSV via Claude
+* **Enrich**: Exercise Increases Hippocampal Volume — enriched from claims CSV via Claude
+* **Enrich**: Extrinsic Rewards Undermine Intrinsic Motivation — enriched from claims CSV via Claude
+* **Enrich**: Expressive Writing Improves Health Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Feedback Answers Three Questions — enriched from claims CSV via Claude
+* **Enrich**: Expertise Reversal Guidance Hurts Experts — enriched from claims CSV via Claude
+* **Enrich**: Expressive Writing Improves Exam Performance — enriched from claims CSV via Claude
+* **Enrich**: Explicit Writing Strategy Instruction Improves Writing — enriched from claims CSV via Claude
+* **Enrich**: Feedback Addressing Task Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Improves Learning When It Addresses Task Goals — enriched from claims CSV via Claude
+* **Enrich**: Feedback Enhances Retrieval Practice — enriched from claims CSV via Claude
+* **Enrich**: Feedback improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Feedback Most Effective At Task And Process Levels — enriched from claims CSV via Claude
+* **Enrich**: Feedback Praise Reduces Learning — enriched from claims CSV via Claude
+* **Enrich**: Fiction Reading Improves Empathy — enriched from claims CSV via Claude
+* **Enrich**: Fluency is a poor cue for actual learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Use Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Fluent Illusions Mislead Self Assessment — enriched from claims CSV via Claude
+* **Enrich**: Generative processing improves learning — enriched from claims CSV via Claude
+* **Enrich**: Generation Effect Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Generative Learning Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Fluency Judgments Mislead Learners — enriched from claims CSV via Claude
+* **Enrich**: Generative Learning Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Feedback Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Goal Setting Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Graphic Organizers Support Novice Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Growth mindset improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Guided Notes Improve Note Accuracy — enriched from claims CSV via Claude
+* **Enrich**: Guided Discovery Outperforms Pure Discovery — enriched from claims CSV via Claude
+* **Enrich**: Growth mindset interventions produce small positive effects on academic outcomes — enriched from claims CSV via Claude
+* **Enrich**: Guided Play Improves Academic Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Growth Mindset Interventions Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Guided Inquiry Outperforms Pure Discovery — enriched from claims CSV via Claude
+* **Enrich**: Hands-on learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Learners mistake fluency and familiarity for actual knowledge, producing an illusion of knowing — enriched from claims CSV via Claude
+* **Enrich**: Highlighting Alone Is Ineffective — enriched from claims CSV via Claude
+* **Enrich**: Hands On Without Conceptual Integration Insufficient — enriched from claims CSV via Claude
+* **Enrich**: Highlighting shows low utility for improving learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Highlighting Alone Low Utility — enriched from claims CSV via Claude
+* **Enrich**: Handwriting Intervention Type Equivalence — enriched from claims CSV via Claude
+* **Enrich**: Incidental Vocabulary Exposure Limited — enriched from claims CSV via Claude
+* **Enrich**: Incidental Word Learning While Reading Occurs But At Low Rates Per Exposure — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Discrimination — enriched from claims CSV via Claude
+* **Enrich**: Increasing Wait Time Improves Response Quality — enriched from claims CSV via Claude
+* **Enrich**: Invention Tasks Prepare Future Learning — enriched from claims CSV via Claude
+* **Enrich**: Interleaved Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Inquiry Based Teaching Improves Science Achievement — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Inductive Learning — enriched from claims CSV via Claude
+* **Enrich**: Joint Book Reading Predicts Literacy Success — enriched from claims CSV via Claude
+* **Enrich**: Judgments of learning are often inaccurate — enriched from claims CSV via Claude
+* **Enrich**: Lateral Reading Improves Source Evaluation — enriched from claims CSV via Claude
+* **Enrich**: Laptop note-taking tends toward verbatim transcription and shallower learning than longhand note-taking — enriched from claims CSV via Claude
+* **Enrich**: Learner-centered teacher–student relationships improve student outcomes — enriched from claims CSV via Claude
+* **Enrich**: Learner Generated Organizers Beat Provided Organizers — enriched from claims CSV via Claude
+* **Enrich**: Learner Constructed Graphic Organizers Outperform Provided — enriched from claims CSV via Claude
+* **Enrich**: Learner Paced Beats System Paced Complex Material — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Effective Study Strategies — enriched from claims CSV via Claude
+* **Enrich**: Learners misjudge which learning strategies are effective — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Spacing Benefits — enriched from claims CSV via Claude
+* **Enrich**: Learners misjudge the benefits of spaced practice — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Mastery — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning Styles Matching Does Not Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning Space Redesign Alone Insufficient — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Tutor Learning — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Retrieval Benefit — enriched from claims CSV via Claude
+* **Enrich**: Learning Styles Matching Yields No Benefit — enriched from claims CSV via Claude
+* **Enrich**: Manipulatives Improve Math Learning — enriched from claims CSV via Claude
+* **Enrich**: Mastery Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Metacognitive prompts improve learning — enriched from claims CSV via Claude
+* **Enrich**: Math Anxiety Degrades Performance — enriched from claims CSV via Claude
+* **Enrich**: Minimal Guidance Ineffective For Novices — enriched from claims CSV via Claude
+* **Enrich**: Metacognitive Strategies Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Minimally Guided Instruction Less Effective For Novices — enriched from claims CSV via Claude
+* **Enrich**: Minimal Guidance Instruction Less Effective — enriched from claims CSV via Claude
+* **Enrich**: Minimal guidance is less effective for novices than explicit instruction — enriched from claims CSV via Claude
+* **Enrich**: Learning Strategy Instruction Contextualized More Effective — enriched from claims CSV via Claude
+* **Enrich**: Misconceptions Interfere With New Learning — enriched from claims CSV via Claude
+* **Enrich**: Mnemonic Instruction Improves Recall For Students With Disabilities — enriched from claims CSV via Claude
+* **Enrich**: Mismatched Graphic Organizers Increase Extraneous Load — enriched from claims CSV via Claude
+* **Enrich**: Modality Principle Spoken Narration Beats On Screen Text — enriched from claims CSV via Claude
+* **Enrich**: Modality Effect Narration Over Text — enriched from claims CSV via Claude
+* **Enrich**: Modality Principle Narration Beats On Screen Text — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Learning More Effective With Words And Pictures — enriched from claims CSV via Claude
+* **Enrich**: People learn better from words and pictures than from words alone — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Principle Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Morphological Instruction Improves Vocabulary — enriched from claims CSV via Claude
+* **Enrich**: Morphological Instruction Improves Literacy — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Words Plus Images Beat Words Alone — enriched from claims CSV via Claude
+* **Enrich**: Multiple representations improve learning — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Principles Benefit Novices — enriched from claims CSV via Claude
+* **Enrich**: Multiple Contrasting Cases Support Abstraction — enriched from claims CSV via Claude
+* **Enrich**: Number Board Games Improve Numerical Knowledge — enriched from claims CSV via Claude
+* **Enrich**: Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone — enriched from claims CSV via Claude
+* **Enrich**: Parent Implemented Intervention Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Parent Coaching Outperforms Information Only — enriched from claims CSV via Claude
+* **Enrich**: Parent Involvement Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Parental Involvement Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Parent Involvement Improves Early Reading — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Benefits Assessor — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Structured Criteria Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Peer Discussion Improves Conceptual Understanding — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Accuracy Depends On Expertise — enriched from claims CSV via Claude
+* **Enrich**: Worked examples reduce unnecessary search for novices — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Writing — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Writing Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Peer Tutoring Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Work Quality — enriched from claims CSV via Claude
+* **Enrich**: Personalized Learning Effects Vary With Fidelity — enriched from claims CSV via Claude
+* **Enrich**: Personalized Normative Feedback Corrects Misperceived Norms — enriched from claims CSV via Claude
+* **Enrich**: Phoneme awareness is a stronger predictor of reading development than rhyme awareness — enriched from claims CSV via Claude
+* **Enrich**: Phonics Instruction Improves Word Reading — enriched from claims CSV via Claude
+* **Enrich**: Phonemic Awareness Training Improves Reading — enriched from claims CSV via Claude
+* **Enrich**: Phonics Instruction Outperforms Whole Word For Generalization — enriched from claims CSV via Claude
+* **Enrich**: Phonological Awareness Training Improves Reading — enriched from claims CSV via Claude
+* **Enrich**: Physical Experience Enhances Science Learning — enriched from claims CSV via Claude
+* **Enrich**: Play Based Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Pretesting Can Harm Motivation — enriched from claims CSV via Claude
+* **Enrich**: Positive Greetings At The Door Improve Engagement — enriched from claims CSV via Claude
+* **Enrich**: Positive Greetings At The Door Improve Engagement And Behavior — enriched from claims CSV via Claude
+* **Enrich**: Pretesting Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Pretesting enhances learning — enriched from claims CSV via Claude
+* **Enrich**: Process Writing Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Process Writing Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Pretraining Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Productive Failure Improves Conceptual Learning — enriched from claims CSV via Claude
+* **Enrich**: Prior Knowledge Needed For Accurate Self Assessment — enriched from claims CSV via Claude
+* **Enrich**: Productive Failure Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Question prompts improve learning — enriched from claims CSV via Claude
+* **Enrich**: Project-based learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Reading Literary Fiction Improves Theory Of Mind — enriched from claims CSV via Claude
+* **Enrich**: Reading Strategy Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Reciprocal Teaching Improves Reading Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Harms Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Effect Impairs Learning — enriched from claims CSV via Claude
+* **Enrich**: Questioning Strategies Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Hurts Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Reflective practice shows mixed evidence of effectiveness in professional education — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Principle On Screen Text Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundant on-screen text duplicates of narration or graphics impair learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Principle Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundant On Screen Text Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Reflective Practice Improves Outcomes When Structured — enriched from claims CSV via Claude
+* **Enrich**: Rereading is less effective than retrieval practice — enriched from claims CSV via Claude
+* **Enrich**: Rereading Is A Low Utility Study Strategy — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Fails Without Encoding — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Failure Reduces Benefit — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Enhances Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Rewards Undermine Intrinsic Motivation — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Rubrics Improve Student Work Quality — enriched from claims CSV via Claude
+* **Enrich**: Rubrics Improve Peer Feedback Quality — enriched from claims CSV via Claude
+* **Enrich**: Scaffolding improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Rubrics Improve Student Work — enriched from claims CSV via Claude
+* **Enrich**: Scaffolded Close Reading Improves Comprehension For Struggling Readers — enriched from claims CSV via Claude
+* **Enrich**: Scaffolding improves learning — enriched from claims CSV via Claude
+* **Enrich**: Segmentation Benefits Shrink With Expertise — enriched from claims CSV via Claude
+* **Enrich**: Seductive Details Effect — enriched from claims CSV via Claude
+* **Enrich**: SEL Programs Improve Academic Achievement — enriched from claims CSV via Claude
+* **Enrich**: Social-emotional learning benefits persist at follow-up — enriched from claims CSV via Claude
+* **Enrich**: Segmenting Principle Improves Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Segmenting Improves Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Seductive Details Harm Learning — enriched from claims CSV via Claude
+* **Enrich**: SEL Programs Improve Behavior And Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Accuracy Is Low Without Training — enriched from claims CSV via Claude
+* **Enrich**: Self-affirmation improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: SEL programs improve social emotional skills — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Improves Self Regulated Learning — enriched from claims CSV via Claude
+* **Enrich**: Self-determination instruction improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Determined Learning Model Of Instruction Improves Self Determination — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Against Criteria Supports Self Regulated Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Directed IEP Increases Student Participation — enriched from claims CSV via Claude
+* **Enrich**: Self Explanation Prompts Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Self-explanation improves learning — enriched from claims CSV via Claude
+* **Enrich**: Self Explanation Prompts Improve Learning From Worked Examples — enriched from claims CSV via Claude
+* **Enrich**: Self Monitoring Improves On Task Behavior — enriched from claims CSV via Claude
+* **Enrich**: Self Monitoring Comprehension Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Questioning Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Improves Academic Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategies Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Predicts Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategies Improve Performance — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning strategy instruction improves writing outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Talk Improves Learning And Performance — enriched from claims CSV via Claude
+* **Enrich**: Self-regulation strategy instruction improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulation Strategy Instruction Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategy Instruction Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Signaling Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Simulation Based Education Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Social Emotional Learning Programs Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Spaced Repetition Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Small Group Learning Improves STEM Achievement — enriched from claims CSV via Claude
+* **Enrich**: Simulation Based Education With Deliberate Practice Improves Clinical Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Social Emotional Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Spaced Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Practice Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Spacing Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spatial Skills Improve Through Block Building — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Outperforms Restudy — enriched from claims CSV via Claude
+* **Enrich**: Spacing Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spatial Training Improves Math Performance — enriched from claims CSV via Claude
+* **Enrich**: Spatial Contiguity Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Impairs Learning — enriched from claims CSV via Claude
+* **Enrich**: Story Mapping Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Degrades Learning — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Integration Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Needs Conditional Knowledge — enriched from claims CSV via Claude
+* **Enrich**: Structured Discussion Approaches Improve Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Structured Peer Tutoring Outperforms Unstructured — enriched from claims CSV via Claude
+* **Enrich**: Summarization Effective With Training — enriched from claims CSV via Claude
+* **Enrich**: Structured Discussion Methods Improve Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Structured Literacy Interventions Help Struggling Readers — enriched from claims CSV via Claude
+* **Enrich**: Summarization Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Teacher expectation effects on achievement — enriched from claims CSV via Claude
+* **Enrich**: Systematic Phonics Improves Word Reading — enriched from claims CSV via Claude
+* **Enrich**: Teacher Expectancy Effects Influence Student Achievement — enriched from claims CSV via Claude
+* **Enrich**: Teacher Student Relationships Improve Engagement — enriched from claims CSV via Claude
+* **Enrich**: Teaching Others Generative Strategy — enriched from claims CSV via Claude
+* **Enrich**: Teacher Guided Inquiry Outperforms Student Led — enriched from claims CSV via Claude
+* **Enrich**: Teacher Student Relationships Improve Engagement And Achievement — enriched from claims CSV via Claude
+* **Enrich**: Retrieval practice improves long-term retention more than restudying — enriched from claims CSV via Claude
+* **Enrich**: Testing Effect Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Testing Effect Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Testing Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Tutoring benefits both tutors and tutees — enriched from claims CSV via Claude
+* **Enrich**: Unguided Discovery Less Effective Than Guided Instruction — enriched from claims CSV via Claude
+* **Enrich**: Tutoring Effectiveness Comes From Scaffolding And Feedback — enriched from claims CSV via Claude
+* **Enrich**: Sequencing worked examples with practice problems improves learning for novices — enriched from claims CSV via Claude
+* **Enrich**: Vocabulary Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts — enriched from claims CSV via Claude
+* **Enrich**: Writing Strategy Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Writing To Learn Improves Content Learning — enriched from claims CSV via Claude
+* **Enrich**: Writing Improves Mathematical Understanding — enriched from claims CSV via Claude
+* **Enrich**: Writing To Learn Improves Understanding — enriched from claims CSV via Claude
+* **Enrich**: Words And Pictures Better Than Words Alone — enriched from claims CSV via Claude
+* **Enrich**: Assessment for learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Activation Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Analogical Reasoning Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: The timing of acute exercise relative to learning modulates memory consolidation — enriched from claims CSV via Claude
+* **Enrich**: Annotating improves learning — enriched from claims CSV via Claude
+* **Enrich**: Adaptive learning improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Argumentation Improves Reasoning — enriched from claims CSV via Claude
+* **Enrich**: Advance Organizers Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Authentic Audiences Improve Student Work — enriched from claims CSV via Claude
+* **Enrich**: Building Empathy Improves Intergroup Attitudes — enriched from claims CSV via Claude
+* **Enrich**: Block Play Predicts Math Achievement — enriched from claims CSV via Claude
+* **Enrich**: Automatic Word Recognition Frees Resources For Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Belonging Interventions Improve Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Blended Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Case-based learning improves exam performance — enriched from claims CSV via Claude
+* **Enrich**: Brief Intervention Empathic Discipline Cuts Suspensions — enriched from claims CSV via Claude
+* **Enrich**: Claim Slug — enriched from claims CSV via Claude
+* **Enrich**: Civic Online Reasoning Instruction Improves Evaluation — enriched from claims CSV via Claude
+* **Enrich**: Checklist Evaluation Ineffective Online — enriched from claims CSV via Claude
+* **Enrich**: Classroom Design Affects Learning Progress — enriched from claims CSV via Claude
+* **Enrich**: Cognitive disequilibrium motivates conceptual change — enriched from claims CSV via Claude
+* **Enrich**: Classroom Physical Activity Improves Attention — enriched from claims CSV via Claude
+* **Enrich**: Coherence Principle Irrelevant Material Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Load Reduction Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Load Management — enriched from claims CSV via Claude
+* **Enrich**: Presenting multiple cases from different perspectives supports transfer in ill-structured domains — enriched from claims CSV via Claude
+* **Enrich**: Collaborative Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Collaborative Writing Improves Text Quality — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Overload Degrades Learning — enriched from claims CSV via Claude
+* **Enrich**: Comparing contrasting cases improves learning — enriched from claims CSV via Claude
+* **Enrich**: Considering The Opposite Reduces Bias — enriched from claims CSV via Claude
+* **Enrich**: Comparing Contrasting Cases Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Concept mapping improves learning — enriched from claims CSV via Claude
+* **Enrich**: Concept mapping improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Constructive learning beats active and passive learning — enriched from claims CSV via Claude
+* **Enrich**: Cooperative learning without individual accountability produces free-riding that reduces learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Contiguity Principle Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Group rewards combined with individual accountability make cooperative learning effective — enriched from claims CSV via Claude
+* **Enrich**: Desirable Difficulties Improve Retention — enriched from claims CSV via Claude
+* **Enrich**: Cooperative Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Cooperative learning outperforms competitive and individualistic goal structures — enriched from claims CSV via Claude
+* **Enrich**: Decorative Illustrations Do Not Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Deliberate Practice Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Dialogic Reading Improves Expressive Language — enriched from claims CSV via Claude
+* **Enrich**: Desirable Difficulties Enhance Learning — enriched from claims CSV via Claude
+* **Enrich**: Dialogic Reading Improves Language Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Direct Instruction Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Discussion Quality Drives Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Disciplinary Literacy Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Distributed Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Dual Coding Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Drawing Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Dual Coding Improves Recall — enriched from claims CSV via Claude
+* **Enrich**: Elaborative Interrogation Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Example Problem Sequences Reduce Cognitive Load And Improve Learning Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Elaborative Encoding Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Eliciting Self Explanations Improves Understanding — enriched from claims CSV via Claude
+* **Enrich**: Emotion Labeling Improves Regulation — enriched from claims CSV via Claude
+* **Enrich**: Expertise Reversal Guidance Hurts Experts — enriched from claims CSV via Claude
+* **Enrich**: Exercise Increases Hippocampal Volume — enriched from claims CSV via Claude
+* **Enrich**: Extrinsic Rewards Undermine Intrinsic Motivation — enriched from claims CSV via Claude
+* **Enrich**: Expressive Writing Improves Exam Performance — enriched from claims CSV via Claude
+* **Enrich**: Expressive Writing Improves Health Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Explicit Writing Strategy Instruction Improves Writing — enriched from claims CSV via Claude
+* **Enrich**: Explicit Handwriting Instruction Improves Legibility — enriched from claims CSV via Claude
+* **Enrich**: Feedback Addressing Task Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Answers Three Questions — enriched from claims CSV via Claude
+* **Enrich**: Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Improves Learning When It Addresses Task Goals — enriched from claims CSV via Claude
+* **Enrich**: Feedback Enhances Retrieval Practice — enriched from claims CSV via Claude
+* **Enrich**: Feedback improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Feedback Praise Reduces Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Most Effective At Task And Process Levels — enriched from claims CSV via Claude
+* **Enrich**: Feedback Use Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Fiction Reading Improves Empathy — enriched from claims CSV via Claude
+* **Enrich**: Fluency is a poor cue for actual learning — enriched from claims CSV via Claude
+* **Enrich**: Fluency Judgments Mislead Learners — enriched from claims CSV via Claude
+* **Enrich**: Generation Effect Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Generative Learning Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Generative Learning Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Generative processing improves learning — enriched from claims CSV via Claude
+* **Enrich**: Fluent Illusions Mislead Self Assessment — enriched from claims CSV via Claude
+* **Enrich**: Graphic Organizers Support Novice Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Goal Setting Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Growth mindset improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Growth Mindset Interventions Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Guided Discovery Outperforms Pure Discovery — enriched from claims CSV via Claude
+* **Enrich**: Guided Notes Improve Note Accuracy — enriched from claims CSV via Claude
+* **Enrich**: Growth mindset interventions produce small positive effects on academic outcomes — enriched from claims CSV via Claude
+* **Enrich**: Guided Play Improves Academic Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Guided Inquiry Outperforms Pure Discovery — enriched from claims CSV via Claude
+* **Enrich**: Hands-on learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Highlighting Alone Is Ineffective — enriched from claims CSV via Claude
+* **Enrich**: Highlighting Alone Low Utility — enriched from claims CSV via Claude
+* **Enrich**: Handwriting Intervention Type Equivalence — enriched from claims CSV via Claude
+* **Enrich**: Learners mistake fluency and familiarity for actual knowledge, producing an illusion of knowing — enriched from claims CSV via Claude
+* **Enrich**: Hands On Without Conceptual Integration Insufficient — enriched from claims CSV via Claude
+* **Enrich**: Highlighting shows low utility for improving learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Incidental Vocabulary Exposure Limited — enriched from claims CSV via Claude
+* **Enrich**: Incidental Word Learning While Reading Occurs But At Low Rates Per Exposure — enriched from claims CSV via Claude
+* **Enrich**: Increasing Wait Time Improves Response Quality — enriched from claims CSV via Claude
+* **Enrich**: Interleaved Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Discrimination — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Inductive Learning — enriched from claims CSV via Claude
+* **Enrich**: Invention Tasks Prepare Future Learning — enriched from claims CSV via Claude
+* **Enrich**: Inquiry Based Teaching Improves Science Achievement — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Feedback Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Judgments of learning are often inaccurate — enriched from claims CSV via Claude
+* **Enrich**: Joint Book Reading Predicts Literacy Success — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Laptop note-taking tends toward verbatim transcription and shallower learning than longhand note-taking — enriched from claims CSV via Claude
+* **Enrich**: Learner-centered teacher–student relationships improve student outcomes — enriched from claims CSV via Claude
+* **Enrich**: Lateral Reading Improves Source Evaluation — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Effective Study Strategies — enriched from claims CSV via Claude
+* **Enrich**: Learner Generated Organizers Beat Provided Organizers — enriched from claims CSV via Claude
+* **Enrich**: Learner Constructed Graphic Organizers Outperform Provided — enriched from claims CSV via Claude
+* **Enrich**: Learner Paced Beats System Paced Complex Material — enriched from claims CSV via Claude
+* **Enrich**: Learners misjudge which learning strategies are effective — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Retrieval Benefit — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Spacing Benefits — enriched from claims CSV via Claude
+* **Enrich**: Learners misjudge the benefits of spaced practice — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Mastery — enriched from claims CSV via Claude
+* **Enrich**: Learning Styles Matching Does Not Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning Space Redesign Alone Insufficient — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Tutor Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning Strategy Instruction Contextualized More Effective — enriched from claims CSV via Claude
+* **Enrich**: Learning Styles Matching Yields No Benefit — enriched from claims CSV via Claude
+* **Enrich**: Mastery Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Manipulatives Improve Math Learning — enriched from claims CSV via Claude
+* **Enrich**: Math Anxiety Degrades Performance — enriched from claims CSV via Claude
+* **Enrich**: Metacognitive prompts improve learning — enriched from claims CSV via Claude
+* **Enrich**: Metacognitive Strategies Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Minimal Guidance Instruction Less Effective — enriched from claims CSV via Claude
+* **Enrich**: Minimal Guidance Ineffective For Novices — enriched from claims CSV via Claude
+* **Enrich**: Minimally Guided Instruction Less Effective For Novices — enriched from claims CSV via Claude
+* **Enrich**: Minimal guidance is less effective for novices than explicit instruction — enriched from claims CSV via Claude
+* **Enrich**: Modality Principle Narration Beats On Screen Text — enriched from claims CSV via Claude
+* **Enrich**: Misconceptions Interfere With New Learning — enriched from claims CSV via Claude
+* **Enrich**: Mismatched Graphic Organizers Increase Extraneous Load — enriched from claims CSV via Claude
+* **Enrich**: Modality Effect Narration Over Text — enriched from claims CSV via Claude
+* **Enrich**: Mnemonic Instruction Improves Recall For Students With Disabilities — enriched from claims CSV via Claude
+* **Enrich**: Modality Principle Spoken Narration Beats On Screen Text — enriched from claims CSV via Claude
+* **Enrich**: People learn better from words and pictures than from words alone — enriched from claims CSV via Claude
+* **Enrich**: Morphological Instruction Improves Literacy — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Principle Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Morphological Instruction Improves Vocabulary — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Learning More Effective With Words And Pictures — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Principles Benefit Novices — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Words Plus Images Beat Words Alone — enriched from claims CSV via Claude
+* **Enrich**: Multiple Contrasting Cases Support Abstraction — enriched from claims CSV via Claude
+* **Enrich**: Multiple representations improve learning — enriched from claims CSV via Claude
+* **Enrich**: Number Board Games Improve Numerical Knowledge — enriched from claims CSV via Claude
+* **Enrich**: Parent Involvement Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Parent Implemented Intervention Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Parent Involvement Improves Early Reading — enriched from claims CSV via Claude
+* **Enrich**: Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone — enriched from claims CSV via Claude
+* **Enrich**: Parent Coaching Outperforms Information Only — enriched from claims CSV via Claude
+* **Enrich**: Parental Involvement Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Benefits Assessor — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Structured Criteria Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Peer Discussion Improves Conceptual Understanding — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Work Quality — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Accuracy Depends On Expertise — enriched from claims CSV via Claude
+* **Enrich**: Worked examples reduce unnecessary search for novices — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Writing Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Writing — enriched from claims CSV via Claude
+* **Enrich**: Personalized Learning Effects Vary With Fidelity — enriched from claims CSV via Claude
+* **Enrich**: Peer Tutoring Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Phoneme awareness is a stronger predictor of reading development than rhyme awareness — enriched from claims CSV via Claude
+* **Enrich**: Personalized Normative Feedback Corrects Misperceived Norms — enriched from claims CSV via Claude
+* **Enrich**: Phonemic Awareness Training Improves Reading — enriched from claims CSV via Claude
+* **Enrich**: Phonics Instruction Outperforms Whole Word For Generalization — enriched from claims CSV via Claude
+* **Enrich**: Phonics Instruction Improves Word Reading — enriched from claims CSV via Claude
+* **Enrich**: Phonological Awareness Training Improves Reading — enriched from claims CSV via Claude
+* **Enrich**: Pretesting Can Harm Motivation — enriched from claims CSV via Claude
+* **Enrich**: Physical Experience Enhances Science Learning — enriched from claims CSV via Claude
+* **Enrich**: Positive Greetings At The Door Improve Engagement And Behavior — enriched from claims CSV via Claude
+* **Enrich**: Positive Greetings At The Door Improve Engagement — enriched from claims CSV via Claude
+* **Enrich**: Pretraining Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Play Based Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Pretesting enhances learning — enriched from claims CSV via Claude
+* **Enrich**: Pretesting Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Prior Knowledge Needed For Accurate Self Assessment — enriched from claims CSV via Claude
+* **Enrich**: Process Writing Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Process Writing Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Question prompts improve learning — enriched from claims CSV via Claude
+* **Enrich**: Productive Failure Improves Conceptual Learning — enriched from claims CSV via Claude
+* **Enrich**: Questioning Strategies Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Productive Failure Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Reading Literary Fiction Improves Theory Of Mind — enriched from claims CSV via Claude
+* **Enrich**: Reading Strategy Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Project-based learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Reciprocal Teaching Improves Reading Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Harms Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Hurts Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Effect Impairs Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Principle On Screen Text Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Principle Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Reflective practice shows mixed evidence of effectiveness in professional education — enriched from claims CSV via Claude
+* **Enrich**: Redundant on-screen text duplicates of narration or graphics impair learning — enriched from claims CSV via Claude
+* **Enrich**: Redundant On Screen Text Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Reflective Practice Improves Outcomes When Structured — enriched from claims CSV via Claude
+* **Enrich**: Rereading Is A Low Utility Study Strategy — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Rereading is less effective than retrieval practice — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Fails Without Encoding — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Enhances Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Failure Reduces Benefit — enriched from claims CSV via Claude
+* **Enrich**: Rewards Undermine Intrinsic Motivation — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Rubrics Improve Student Work Quality — enriched from claims CSV via Claude
+* **Enrich**: Rubrics Improve Peer Feedback Quality — enriched from claims CSV via Claude
+* **Enrich**: Scaffolded Close Reading Improves Comprehension For Struggling Readers — enriched from claims CSV via Claude
+* **Enrich**: Seductive Details Effect — enriched from claims CSV via Claude
+* **Enrich**: Scaffolding improves learning — enriched from claims CSV via Claude
+* **Enrich**: Scaffolding improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Segmenting Improves Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Seductive Details Harm Learning — enriched from claims CSV via Claude
+* **Enrich**: SEL Programs Improve Academic Achievement — enriched from claims CSV via Claude
+* **Enrich**: Segmenting Principle Improves Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Rubrics Improve Student Work — enriched from claims CSV via Claude
+* **Enrich**: Segmentation Benefits Shrink With Expertise — enriched from claims CSV via Claude
+* **Enrich**: Social-emotional learning benefits persist at follow-up — enriched from claims CSV via Claude
+* **Enrich**: SEL Programs Improve Behavior And Achievement — enriched from claims CSV via Claude
+* **Enrich**: SEL programs improve social emotional skills — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Accuracy Is Low Without Training — enriched from claims CSV via Claude
+* **Enrich**: Self-affirmation improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Improves Self Regulated Learning — enriched from claims CSV via Claude
+* **Enrich**: Self-determination instruction improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Against Criteria Supports Self Regulated Learning — enriched from claims CSV via Claude
+* **Enrich**: Self-explanation improves learning — enriched from claims CSV via Claude
+* **Enrich**: Self Determined Learning Model Of Instruction Improves Self Determination — enriched from claims CSV via Claude
+* **Enrich**: Self Explanation Prompts Improve Learning From Worked Examples — enriched from claims CSV via Claude
+* **Enrich**: Self Explanation Prompts Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Monitoring Improves On Task Behavior — enriched from claims CSV via Claude
+* **Enrich**: Self Monitoring Comprehension Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Questioning Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Predicts Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategies Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Improves Academic Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Directed IEP Increases Student Participation — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategies Improve Performance — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning strategy instruction improves writing outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategy Instruction Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulation Strategy Instruction Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Self-regulation strategy instruction improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Talk Improves Learning And Performance — enriched from claims CSV via Claude
+* **Enrich**: Signaling Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Simulation Based Education With Deliberate Practice Improves Clinical Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Simulation Based Education Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Spaced Repetition Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Small Group Learning Improves STEM Achievement — enriched from claims CSV via Claude
+* **Enrich**: Social Emotional Learning Programs Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Social Emotional Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Spaced Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Practice Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Outperforms Restudy — enriched from claims CSV via Claude
+* **Enrich**: Spatial Skills Improve Through Block Building — enriched from claims CSV via Claude
+* **Enrich**: Spatial Contiguity Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spacing Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spacing Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Spatial Training Improves Math Performance — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Degrades Learning — enriched from claims CSV via Claude
+* **Enrich**: Story Mapping Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Impairs Learning — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Integration Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Needs Conditional Knowledge — enriched from claims CSV via Claude
+* **Enrich**: Structured Peer Tutoring Outperforms Unstructured — enriched from claims CSV via Claude
+* **Enrich**: Summarization Effective With Training — enriched from claims CSV via Claude
+* **Enrich**: Structured Discussion Approaches Improve Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Structured Literacy Interventions Help Struggling Readers — enriched from claims CSV via Claude
+* **Enrich**: Structured Discussion Methods Improve Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Teacher expectation effects on achievement — enriched from claims CSV via Claude
+* **Enrich**: Summarization Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Teacher Expectancy Effects Influence Student Achievement — enriched from claims CSV via Claude
+* **Enrich**: Systematic Phonics Improves Word Reading — enriched from claims CSV via Claude
+* **Enrich**: Teacher Guided Inquiry Outperforms Student Led — enriched from claims CSV via Claude
+* **Enrich**: Teacher Student Relationships Improve Engagement And Achievement — enriched from claims CSV via Claude
+* **Enrich**: Teaching Others Generative Strategy — enriched from claims CSV via Claude
+* **Enrich**: Teacher Student Relationships Improve Engagement — enriched from claims CSV via Claude
+* **Enrich**: Testing Effect Retrieval Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Testing Effect Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Testing Effect Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Testing Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Tutoring benefits both tutors and tutees — enriched from claims CSV via Claude
+* **Enrich**: Words And Pictures Better Than Words Alone — enriched from claims CSV via Claude
+* **Enrich**: Tutoring Effectiveness Comes From Scaffolding And Feedback — enriched from claims CSV via Claude
+* **Enrich**: Sequencing worked examples with practice problems improves learning for novices — enriched from claims CSV via Claude
+* **Enrich**: Unguided Discovery Less Effective Than Guided Instruction — enriched from claims CSV via Claude
+* **Enrich**: Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts — enriched from claims CSV via Claude
+* **Enrich**: Vocabulary Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Writing Strategy Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Writing To Learn Improves Content Learning — enriched from claims CSV via Claude
+* **Enrich**: Writing Improves Mathematical Understanding — enriched from claims CSV via Claude
+* **Enrich**: Writing To Learn Improves Understanding — enriched from claims CSV via Claude
+* **Enrich**: Assessment for learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Activation Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Annotating improves learning — enriched from claims CSV via Claude
+* **Enrich**: Analogical Reasoning Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Argumentation Improves Reasoning — enriched from claims CSV via Claude
+* **Enrich**: Authentic Audiences Improve Student Work — enriched from claims CSV via Claude
+* **Enrich**: Adaptive learning improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Advance Organizers Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: The timing of acute exercise relative to learning modulates memory consolidation — enriched from claims CSV via Claude
+* **Enrich**: Automatic Word Recognition Frees Resources For Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Building Empathy Improves Intergroup Attitudes — enriched from claims CSV via Claude
+* **Enrich**: Belonging Interventions Improve Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Block Play Predicts Math Achievement — enriched from claims CSV via Claude
+* **Enrich**: Brief Intervention Empathic Discipline Cuts Suspensions — enriched from claims CSV via Claude
+* **Enrich**: Case-based learning improves exam performance — enriched from claims CSV via Claude
+* **Enrich**: Blended Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Claim Slug — enriched from claims CSV via Claude
+* **Enrich**: Civic Online Reasoning Instruction Improves Evaluation — enriched from claims CSV via Claude
+* **Enrich**: Checklist Evaluation Ineffective Online — enriched from claims CSV via Claude
+* **Enrich**: Classroom Design Affects Learning Progress — enriched from claims CSV via Claude
+* **Enrich**: Classroom Physical Activity Improves Attention — enriched from claims CSV via Claude
+* **Enrich**: Cognitive disequilibrium motivates conceptual change — enriched from claims CSV via Claude
+* **Enrich**: Presenting multiple cases from different perspectives supports transfer in ill-structured domains — enriched from claims CSV via Claude
+* **Enrich**: Coherence Principle Irrelevant Material Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Collaborative Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Collaborative Writing Improves Text Quality — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Overload Degrades Learning — enriched from claims CSV via Claude
+* **Enrich**: Comparing Contrasting Cases Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Load Reduction Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Comparing contrasting cases improves learning — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Load Management — enriched from claims CSV via Claude
+* **Enrich**: Concept mapping improves learning — enriched from claims CSV via Claude
+* **Enrich**: Constructive learning beats active and passive learning — enriched from claims CSV via Claude
+* **Enrich**: Concept mapping improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Cooperative learning without individual accountability produces free-riding that reduces learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Considering The Opposite Reduces Bias — enriched from claims CSV via Claude
+* **Enrich**: Cooperative Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Group rewards combined with individual accountability make cooperative learning effective — enriched from claims CSV via Claude
+* **Enrich**: Contiguity Principle Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Cooperative learning outperforms competitive and individualistic goal structures — enriched from claims CSV via Claude
+* **Enrich**: Direct Instruction Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Decorative Illustrations Do Not Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Dialogic Reading Improves Expressive Language — enriched from claims CSV via Claude
+* **Enrich**: Dialogic Reading Improves Language Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Deliberate Practice Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Disciplinary Literacy Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Drawing Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Dual Coding Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Discussion Quality Drives Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Distributed Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Elaborative Encoding Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Dual Coding Improves Recall — enriched from claims CSV via Claude
+* **Enrich**: Elaborative Interrogation Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Example Problem Sequences Reduce Cognitive Load And Improve Learning Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Emotion Labeling Improves Regulation — enriched from claims CSV via Claude
+* **Enrich**: Eliciting Self Explanations Improves Understanding — enriched from claims CSV via Claude
+* **Enrich**: Explicit Handwriting Instruction Improves Legibility — enriched from claims CSV via Claude
+* **Enrich**: Expertise Reversal Guidance Hurts Experts — enriched from claims CSV via Claude
+* **Enrich**: Exercise Increases Hippocampal Volume — enriched from claims CSV via Claude
+* **Enrich**: Expressive Writing Improves Exam Performance — enriched from claims CSV via Claude
+* **Enrich**: Extrinsic Rewards Undermine Intrinsic Motivation — enriched from claims CSV via Claude
+* **Enrich**: Expressive Writing Improves Health Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Explicit Writing Strategy Instruction Improves Writing — enriched from claims CSV via Claude
+* **Enrich**: Feedback Addressing Task Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Answers Three Questions — enriched from claims CSV via Claude
+* **Enrich**: Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning — enriched from claims CSV via Claude
+* **Enrich**: Desirable Difficulties Enhance Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Enhances Retrieval Practice — enriched from claims CSV via Claude
+* **Enrich**: Feedback Improves Learning When It Addresses Task Goals — enriched from claims CSV via Claude
+* **Enrich**: Feedback Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Desirable Difficulties Improve Retention — enriched from claims CSV via Claude
+* **Enrich**: Feedback Most Effective At Task And Process Levels — enriched from claims CSV via Claude
+* **Enrich**: Feedback improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Feedback Praise Reduces Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Use Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Fiction Reading Improves Empathy — enriched from claims CSV via Claude
+* **Enrich**: Fluency is a poor cue for actual learning — enriched from claims CSV via Claude
+* **Enrich**: Fluent Illusions Mislead Self Assessment — enriched from claims CSV via Claude
+* **Enrich**: Generative Learning Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Generation Effect Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Generative Learning Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Fluency Judgments Mislead Learners — enriched from claims CSV via Claude
+* **Enrich**: Generative processing improves learning — enriched from claims CSV via Claude
+* **Enrich**: Graphic Organizers Support Novice Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Guided Discovery Outperforms Pure Discovery — enriched from claims CSV via Claude
+* **Enrich**: Growth mindset improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Goal Setting Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Growth Mindset Interventions Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Guided Play Improves Academic Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Growth mindset interventions produce small positive effects on academic outcomes — enriched from claims CSV via Claude
+* **Enrich**: Guided Notes Improve Note Accuracy — enriched from claims CSV via Claude
+* **Enrich**: Hands-on learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Handwriting Intervention Type Equivalence — enriched from claims CSV via Claude
+* **Enrich**: Highlighting Alone Is Ineffective — enriched from claims CSV via Claude
+* **Enrich**: Hands On Without Conceptual Integration Insufficient — enriched from claims CSV via Claude
+* **Enrich**: Guided Inquiry Outperforms Pure Discovery — enriched from claims CSV via Claude
+* **Enrich**: Highlighting Alone Low Utility — enriched from claims CSV via Claude
+* **Enrich**: Highlighting shows low utility for improving learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Discrimination — enriched from claims CSV via Claude
+* **Enrich**: Incidental Vocabulary Exposure Limited — enriched from claims CSV via Claude
+* **Enrich**: Incidental Word Learning While Reading Occurs But At Low Rates Per Exposure — enriched from claims CSV via Claude
+* **Enrich**: Increasing Wait Time Improves Response Quality — enriched from claims CSV via Claude
+* **Enrich**: Interleaved Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Inquiry Based Teaching Improves Science Achievement — enriched from claims CSV via Claude
+* **Enrich**: Invention Tasks Prepare Future Learning — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Inductive Learning — enriched from claims CSV via Claude
+* **Enrich**: Illusion Of Knowing — enriched from claims CSV via Claude
+* **Enrich**: Joint Book Reading Predicts Literacy Success — enriched from claims CSV via Claude
+* **Enrich**: Judgments of learning are often inaccurate — enriched from claims CSV via Claude
+* **Enrich**: Laptop note-taking tends toward verbatim transcription and shallower learning than longhand note-taking — enriched from claims CSV via Claude
+* **Enrich**: Lateral Reading Improves Source Evaluation — enriched from claims CSV via Claude
+* **Enrich**: Learner-centered teacher–student relationships improve student outcomes — enriched from claims CSV via Claude
+* **Enrich**: Learner Generated Organizers Beat Provided Organizers — enriched from claims CSV via Claude
+* **Enrich**: Learner Constructed Graphic Organizers Outperform Provided — enriched from claims CSV via Claude
+* **Enrich**: Learner Paced Beats System Paced Complex Material — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Retrieval Benefit — enriched from claims CSV via Claude
+* **Enrich**: Learners misjudge which learning strategies are effective — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Effective Study Strategies — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Mastery — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Spacing Benefits — enriched from claims CSV via Claude
+* **Enrich**: Learners misjudge the benefits of spaced practice — enriched from claims CSV via Claude
+* **Enrich**: Learning Styles Matching Does Not Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning Space Redesign Alone Insufficient — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Tutor Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning Styles Matching Yields No Benefit — enriched from claims CSV via Claude
+* **Enrich**: Manipulatives Improve Math Learning — enriched from claims CSV via Claude
+* **Enrich**: Mastery Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Metacognitive Strategies Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Math Anxiety Degrades Performance — enriched from claims CSV via Claude
+* **Enrich**: Learning Strategy Instruction Contextualized More Effective — enriched from claims CSV via Claude
+* **Enrich**: Metacognitive prompts improve learning — enriched from claims CSV via Claude
+* **Enrich**: Minimal Guidance Ineffective For Novices — enriched from claims CSV via Claude
+* **Enrich**: Minimal Guidance Instruction Less Effective — enriched from claims CSV via Claude
+* **Enrich**: Minimal guidance is less effective for novices than explicit instruction — enriched from claims CSV via Claude
+* **Enrich**: Mnemonic Instruction Improves Recall For Students With Disabilities — enriched from claims CSV via Claude
+* **Enrich**: Modality Effect Narration Over Text — enriched from claims CSV via Claude
+* **Enrich**: Misconceptions Interfere With New Learning — enriched from claims CSV via Claude
+* **Enrich**: Mismatched Graphic Organizers Increase Extraneous Load — enriched from claims CSV via Claude
+* **Enrich**: Modality Principle Narration Beats On Screen Text — enriched from claims CSV via Claude
+* **Enrich**: Minimally Guided Instruction Less Effective For Novices — enriched from claims CSV via Claude
+* **Enrich**: Modality Principle Spoken Narration Beats On Screen Text — enriched from claims CSV via Claude
+* **Enrich**: People learn better from words and pictures than from words alone — enriched from claims CSV via Claude
+* **Enrich**: Morphological Instruction Improves Literacy — enriched from claims CSV via Claude
+* **Enrich**: Morphological Instruction Improves Vocabulary — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Principle Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Principles Benefit Novices — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Learning More Effective With Words And Pictures — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Words Plus Images Beat Words Alone — enriched from claims CSV via Claude
+* **Enrich**: Multiple Contrasting Cases Support Abstraction — enriched from claims CSV via Claude
+* **Enrich**: Multiple representations improve learning — enriched from claims CSV via Claude
+* **Enrich**: Number Board Games Improve Numerical Knowledge — enriched from claims CSV via Claude
+* **Enrich**: Parent Coaching Outperforms Information Only — enriched from claims CSV via Claude
+* **Enrich**: Parent Implemented Intervention Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone — enriched from claims CSV via Claude
+* **Enrich**: Parent Involvement Improves Early Reading — enriched from claims CSV via Claude
+* **Enrich**: Parental Involvement Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Benefits Assessor — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Structured Criteria Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Worked examples reduce unnecessary search for novices — enriched from claims CSV via Claude
+* **Enrich**: Peer Discussion Improves Conceptual Understanding — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Work Quality — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Writing — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Accuracy Depends On Expertise — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Writing Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Personalized Normative Feedback Corrects Misperceived Norms — enriched from claims CSV via Claude
+* **Enrich**: Personalized Learning Effects Vary With Fidelity — enriched from claims CSV via Claude
+* **Enrich**: Peer Tutoring Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Phonics Instruction Improves Word Reading — enriched from claims CSV via Claude
+* **Enrich**: Phoneme awareness is a stronger predictor of reading development than rhyme awareness — enriched from claims CSV via Claude
+* **Enrich**: Phonemic Awareness Training Improves Reading — enriched from claims CSV via Claude
+* **Enrich**: Phonics Instruction Outperforms Whole Word For Generalization — enriched from claims CSV via Claude
+* **Enrich**: Parent Involvement Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Phonological Awareness Training Improves Reading — enriched from claims CSV via Claude
+* **Enrich**: Physical Experience Enhances Science Learning — enriched from claims CSV via Claude
+* **Enrich**: Play Based Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Positive Greetings At The Door Improve Engagement — enriched from claims CSV via Claude
+* **Enrich**: Pretesting Can Harm Motivation — enriched from claims CSV via Claude
+* **Enrich**: Positive Greetings At The Door Improve Engagement And Behavior — enriched from claims CSV via Claude
+* **Enrich**: Pretesting Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Prior Knowledge Needed For Accurate Self Assessment — enriched from claims CSV via Claude
+* **Enrich**: Pretraining Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Pretesting enhances learning — enriched from claims CSV via Claude
+* **Enrich**: Process Writing Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Process Writing Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Productive Failure Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Productive Failure Improves Conceptual Learning — enriched from claims CSV via Claude
+* **Enrich**: Project-based learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Reading Strategy Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Reading Literary Fiction Improves Theory Of Mind — enriched from claims CSV via Claude
+* **Enrich**: Question prompts improve learning — enriched from claims CSV via Claude
+* **Enrich**: Questioning Strategies Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Reciprocal Teaching Improves Reading Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Effect Impairs Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Harms Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Principle On Screen Text Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Hurts Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Principle Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Reflective practice shows mixed evidence of effectiveness in professional education — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundant On Screen Text Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundant on-screen text duplicates of narration or graphics impair learning — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Rereading Is A Low Utility Study Strategy — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Fails Without Encoding — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Enhances Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Failure Reduces Benefit — enriched from claims CSV via Claude
+* **Enrich**: Reflective Practice Improves Outcomes When Structured — enriched from claims CSV via Claude
+* **Enrich**: Rereading Less Effective Than Retrieval Practice — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Rewards Undermine Intrinsic Motivation — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Rubrics Improve Peer Feedback Quality — enriched from claims CSV via Claude
+* **Enrich**: Rubrics Improve Student Work Quality — enriched from claims CSV via Claude
+* **Enrich**: Scaffolding improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Scaffolded Close Reading Improves Comprehension For Struggling Readers — enriched from claims CSV via Claude
+* **Enrich**: Scaffolding improves learning — enriched from claims CSV via Claude
+* **Enrich**: Seductive Details Effect — enriched from claims CSV via Claude
+* **Enrich**: Social-emotional learning benefits persist at follow-up — enriched from claims CSV via Claude
+* **Enrich**: Segmentation Benefits Shrink With Expertise — enriched from claims CSV via Claude
+* **Enrich**: Rubrics Improve Student Work — enriched from claims CSV via Claude
+* **Enrich**: Seductive Details Harm Learning — enriched from claims CSV via Claude
+* **Enrich**: Segmenting Improves Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Segmenting Principle Improves Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: SEL Programs Improve Academic Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self-affirmation improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: SEL programs improve social emotional skills — enriched from claims CSV via Claude
+* **Enrich**: SEL Programs Improve Behavior And Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Accuracy Is Low Without Training — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Improves Self Regulated Learning — enriched from claims CSV via Claude
+* **Enrich**: Self-determination instruction improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Determined Learning Model Of Instruction Improves Self Determination — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Against Criteria Supports Self Regulated Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Explanation Prompts Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Directed Iep Increases Student Participation — enriched from claims CSV via Claude
+* **Enrich**: Self Explanation Prompts Improve Learning From Worked Examples — enriched from claims CSV via Claude
+* **Enrich**: Self-explanation improves learning — enriched from claims CSV via Claude
+* **Enrich**: Self Monitoring Comprehension Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Monitoring Improves On Task Behavior — enriched from claims CSV via Claude
+* **Enrich**: Self Questioning Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategies Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Improves Academic Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Predicts Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategies Improve Performance — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning strategy instruction improves writing outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self-regulation strategy instruction improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulation Strategy Instruction Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Self Talk Improves Learning And Performance — enriched from claims CSV via Claude
+* **Enrich**: Signaling Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategy Instruction Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Small Group Learning Improves STEM Achievement — enriched from claims CSV via Claude
+* **Enrich**: Simulation Based Education With Deliberate Practice Improves Clinical Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Simulation Based Education Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Social Emotional Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Social Emotional Learning Programs Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Spaced Repetition Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Practice Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Outperforms Restudy — enriched from claims CSV via Claude
+* **Enrich**: Spacing Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spacing Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spatial Contiguity Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Spatial Skills Improve Through Block Building — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Impairs Learning — enriched from claims CSV via Claude
+* **Enrich**: Spatial Training Improves Math Performance — enriched from claims CSV via Claude
+* **Enrich**: Story Mapping Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Degrades Learning — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Integration Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Needs Conditional Knowledge — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Structured Discussion Approaches Improve Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Structured Discussion Methods Improve Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Structured Peer Tutoring Outperforms Unstructured — enriched from claims CSV via Claude
+* **Enrich**: Teacher expectation effects on achievement — enriched from claims CSV via Claude
+* **Enrich**: Summarization Effective With Training — enriched from claims CSV via Claude
+* **Enrich**: Structured Literacy Interventions Help Struggling Readers — enriched from claims CSV via Claude
+* **Enrich**: Teacher Expectancy Effects Influence Student Achievement — enriched from claims CSV via Claude
+* **Enrich**: Summarization Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Systematic Phonics Improves Word Reading — enriched from claims CSV via Claude
+* **Enrich**: Teacher Guided Inquiry Outperforms Student Led — enriched from claims CSV via Claude
+* **Enrich**: Teaching Others Generative Strategy — enriched from claims CSV via Claude
+* **Enrich**: Testing Effect Retrieval Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Teacher Student Relationships Improve Engagement — enriched from claims CSV via Claude
+* **Enrich**: Teacher Student Relationships Improve Engagement And Achievement — enriched from claims CSV via Claude
+* **Enrich**: Testing Effect Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Testing Effect Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Testing Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Tutoring benefits both tutors and tutees — enriched from claims CSV via Claude
+* **Enrich**: Tutoring Effectiveness Comes From Scaffolding And Feedback — enriched from claims CSV via Claude
+* **Enrich**: Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts — enriched from claims CSV via Claude
+* **Enrich**: Unguided Discovery Less Effective Than Guided Instruction — enriched from claims CSV via Claude
+* **Enrich**: Words And Pictures Better Than Words Alone — enriched from claims CSV via Claude
+* **Enrich**: Sequencing worked examples with practice problems improves learning for novices — enriched from claims CSV via Claude
+* **Enrich**: Writing Strategy Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Writing Improves Mathematical Understanding — enriched from claims CSV via Claude
+* **Enrich**: Vocabulary Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Writing To Learn Improves Content Learning — enriched from claims CSV via Claude
+* **Enrich**: Writing To Learn Improves Understanding — enriched from claims CSV via Claude
+* **Enrich**: Assessment for learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Activation Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Analogical Reasoning Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Adaptive learning improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Advance Organizers Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Argumentation Improves Reasoning — enriched from claims CSV via Claude
+* **Enrich**: Annotating improves learning — enriched from claims CSV via Claude
+* **Enrich**: The timing of acute exercise relative to learning modulates memory consolidation — enriched from claims CSV via Claude
+* **Enrich**: Block Play Predicts Math Achievement — enriched from claims CSV via Claude
+* **Enrich**: Building Empathy Improves Intergroup Attitudes — enriched from claims CSV via Claude
+* **Enrich**: Automatic Word Recognition Frees Resources For Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Belonging Interventions Improve Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Blended Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Brief Intervention Empathic Discipline Cuts Suspensions — enriched from claims CSV via Claude
+* **Enrich**: Authentic Audiences Improve Student Work — enriched from claims CSV via Claude
+* **Enrich**: Case-based learning improves exam performance — enriched from claims CSV via Claude
+* **Enrich**: Claim Slug — enriched from claims CSV via Claude
+* **Enrich**: Cognitive disequilibrium motivates conceptual change — enriched from claims CSV via Claude
+* **Enrich**: Presenting multiple cases from different perspectives supports transfer in ill-structured domains — enriched from claims CSV via Claude
+* **Enrich**: Checklist Evaluation Ineffective Online — enriched from claims CSV via Claude
+* **Enrich**: Classroom Design Affects Learning Progress — enriched from claims CSV via Claude
+* **Enrich**: Classroom Physical Activity Improves Attention — enriched from claims CSV via Claude
+* **Enrich**: Civic Online Reasoning Instruction Improves Evaluation — enriched from claims CSV via Claude
+* **Enrich**: Coherence Principle Irrelevant Material Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Overload Degrades Learning — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Load Reduction Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Collaborative Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Collaborative Writing Improves Text Quality — enriched from claims CSV via Claude
+* **Enrich**: Comparing Contrasting Cases Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Concept mapping improves learning — enriched from claims CSV via Claude
+* **Enrich**: Comparing contrasting cases improves learning — enriched from claims CSV via Claude
+* **Enrich**: Concept mapping improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Considering The Opposite Reduces Bias — enriched from claims CSV via Claude
+* **Enrich**: Cooperative learning without individual accountability produces free-riding that reduces learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Contiguity Principle Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Cooperative Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Cooperative learning outperforms competitive and individualistic goal structures — enriched from claims CSV via Claude
+* **Enrich**: Group rewards combined with individual accountability make cooperative learning effective — enriched from claims CSV via Claude
+* **Enrich**: Desirable Difficulties Enhance Learning — enriched from claims CSV via Claude
+* **Enrich**: Constructive learning beats active and passive learning — enriched from claims CSV via Claude
+* **Enrich**: Decorative Illustrations Do Not Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Direct Instruction Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Deliberate Practice Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Dialogic Reading Improves Expressive Language — enriched from claims CSV via Claude
+* **Enrich**: Dialogic Reading Improves Language Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Disciplinary Literacy Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Drawing Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Discussion Quality Drives Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Dual Coding Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Distributed Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Dual Coding Improves Recall — enriched from claims CSV via Claude
+* **Enrich**: Elaborative Interrogation Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Eliciting Self Explanations Improves Understanding — enriched from claims CSV via Claude
+* **Enrich**: Elaborative Encoding Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Explicit Handwriting Instruction Improves Legibility — enriched from claims CSV via Claude
+* **Enrich**: Exercise Increases Hippocampal Volume — enriched from claims CSV via Claude
+* **Enrich**: Emotion Labeling Improves Regulation — enriched from claims CSV via Claude
+* **Enrich**: Expertise Reversal Guidance Hurts Experts — enriched from claims CSV via Claude
+* **Enrich**: Expressive Writing Improves Exam Performance — enriched from claims CSV via Claude
+* **Enrich**: Explicit Writing Strategy Instruction Improves Writing — enriched from claims CSV via Claude
+* **Enrich**: Extrinsic Rewards Undermine Intrinsic Motivation — enriched from claims CSV via Claude
+* **Enrich**: Expressive Writing Improves Health Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Feedback Answers Three Questions — enriched from claims CSV via Claude
+* **Enrich**: Feedback Addressing Task Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Improves Learning When It Addresses Task Goals — enriched from claims CSV via Claude
+* **Enrich**: Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Enhances Retrieval Practice — enriched from claims CSV via Claude
+* **Enrich**: Feedback Most Effective At Task And Process Levels — enriched from claims CSV via Claude
+* **Enrich**: [Claim statement — one sentence, present tense] — enriched from claims CSV via Claude
+* **Enrich**: Feedback Praise Reduces Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Use Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Fluency is a poor cue for actual learning — enriched from claims CSV via Claude
+* **Enrich**: Fiction Reading Improves Empathy — enriched from claims CSV via Claude
+* **Enrich**: Fluent Illusions Mislead Self Assessment — enriched from claims CSV via Claude
+* **Enrich**: Fluency Judgments Mislead Learners — enriched from claims CSV via Claude
+* **Enrich**: Generation Effect Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Generative Learning Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Generative Learning Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Growth mindset improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Graphic Organizers Support Novice Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Goal Setting Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Guided Notes Improve Note Accuracy — enriched from claims CSV via Claude
+* **Enrich**: Growth Mindset Interventions Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Growth mindset interventions produce small positive effects on academic outcomes — enriched from claims CSV via Claude
+* **Enrich**: Hands-on learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Guided Inquiry Outperforms Pure Discovery — enriched from claims CSV via Claude
+* **Enrich**: Guided Discovery Outperforms Pure Discovery — enriched from claims CSV via Claude
+* **Enrich**: Generative processing improves learning — enriched from claims CSV via Claude
+* **Enrich**: Handwriting Intervention Type Equivalence — enriched from claims CSV via Claude
+* **Enrich**: Highlighting Alone Is Ineffective — enriched from claims CSV via Claude
+* **Enrich**: Hands On Without Conceptual Integration Insufficient — enriched from claims CSV via Claude
+* **Enrich**: Incidental Word Learning While Reading Occurs But At Low Rates Per Exposure — enriched from claims CSV via Claude
+* **Enrich**: Highlighting shows low utility for improving learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Highlighting Alone Low Utility — enriched from claims CSV via Claude
+* **Enrich**: Inquiry Based Teaching Improves Science Achievement — enriched from claims CSV via Claude
+* **Enrich**: Incidental Vocabulary Exposure Limited — enriched from claims CSV via Claude
+* **Enrich**: Interleaved Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Increasing Wait Time Improves Response Quality — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Discrimination — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Judgments of learning are often inaccurate — enriched from claims CSV via Claude
+* **Enrich**: Invention Tasks Prepare Future Learning — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Inductive Learning — enriched from claims CSV via Claude
+* **Enrich**: Laptop note-taking tends toward verbatim transcription and shallower learning than longhand note-taking — enriched from claims CSV via Claude
+* **Enrich**: Joint Book Reading Predicts Literacy Success — enriched from claims CSV via Claude
+* **Enrich**: Learner-centered teacher–student relationships improve student outcomes — enriched from claims CSV via Claude
+* **Enrich**: Lateral Reading Improves Source Evaluation — enriched from claims CSV via Claude
+* **Enrich**: Learner Constructed Graphic Organizers Outperform Provided — enriched from claims CSV via Claude
+* **Enrich**: Learner Paced Beats System Paced Complex Material — enriched from claims CSV via Claude
+* **Enrich**: Learner Generated Organizers Beat Provided Organizers — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Retrieval Benefit — enriched from claims CSV via Claude
+* **Enrich**: Learners misjudge which learning strategies are effective — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Spacing Benefits — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Mastery — enriched from claims CSV via Claude
+* **Enrich**: Learning Styles Matching Does Not Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Learners misjudge the benefits of spaced practice — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Tutor Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning Styles Matching Yields No Benefit — enriched from claims CSV via Claude
+* **Enrich**: Learning Space Redesign Alone Insufficient — enriched from claims CSV via Claude
+* **Enrich**: Manipulatives Improve Math Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning Strategy Instruction Contextualized More Effective — enriched from claims CSV via Claude
+* **Enrich**: Mastery Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Math Anxiety Degrades Performance — enriched from claims CSV via Claude
+* **Enrich**: Metacognitive prompts improve learning — enriched from claims CSV via Claude
+* **Enrich**: Minimally Guided Instruction Less Effective For Novices — enriched from claims CSV via Claude
+* **Enrich**: Metacognitive Strategies Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Minimal Guidance Instruction Less Effective — enriched from claims CSV via Claude
+* **Enrich**: Minimal guidance is less effective for novices than explicit instruction — enriched from claims CSV via Claude
+* **Enrich**: Mismatched Graphic Organizers Increase Extraneous Load — enriched from claims CSV via Claude
+* **Enrich**: Misconceptions Interfere With New Learning — enriched from claims CSV via Claude
+* **Enrich**: Modality Principle Narration Beats On Screen Text — enriched from claims CSV via Claude
+* **Enrich**: Mnemonic Instruction Improves Recall For Students With Disabilities — enriched from claims CSV via Claude
+* **Enrich**: Minimal Guidance Ineffective For Novices — enriched from claims CSV via Claude
+* **Enrich**: Modality Effect Narration Over Text — enriched from claims CSV via Claude
+* **Enrich**: Modality Principle Spoken Narration Beats On Screen Text — enriched from claims CSV via Claude
+* **Enrich**: People learn better from words and pictures than from words alone — enriched from claims CSV via Claude
+* **Enrich**: Morphological Instruction Improves Literacy — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Learning More Effective With Words And Pictures — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Principle Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Morphological Instruction Improves Vocabulary — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Words Plus Images Beat Words Alone — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Principles Benefit Novices — enriched from claims CSV via Claude
+* **Enrich**: Multiple Contrasting Cases Support Abstraction — enriched from claims CSV via Claude
+* **Enrich**: Multiple representations improve learning — enriched from claims CSV via Claude
+* **Enrich**: Number Board Games Improve Numerical Knowledge — enriched from claims CSV via Claude
+* **Enrich**: Parent Coaching Outperforms Information Only — enriched from claims CSV via Claude
+* **Enrich**: Parent Implemented Intervention Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Parent Involvement Improves Early Reading — enriched from claims CSV via Claude
+* **Enrich**: Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone — enriched from claims CSV via Claude
+* **Enrich**: Parent Involvement Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Parental Involvement Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Benefits Assessor — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Structured Criteria Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Peer Discussion Improves Conceptual Understanding — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Work Quality — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Accuracy Depends On Expertise — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Writing — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Writing Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Peer Tutoring Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Personalized Normative Feedback Corrects Misperceived Norms — enriched from claims CSV via Claude
+* **Enrich**: Phonics Instruction Improves Word Reading — enriched from claims CSV via Claude
+* **Enrich**: Personalized Learning Effects Vary With Fidelity — enriched from claims CSV via Claude
+* **Enrich**: Phoneme awareness is a stronger predictor of reading development than rhyme awareness — enriched from claims CSV via Claude
+* **Enrich**: Phonemic Awareness Training Improves Reading — enriched from claims CSV via Claude
+* **Enrich**: Phonics Instruction Outperforms Whole Word For Generalization — enriched from claims CSV via Claude
+* **Enrich**: Physical Experience Enhances Science Learning — enriched from claims CSV via Claude
+* **Enrich**: Phonological Awareness Training Improves Reading — enriched from claims CSV via Claude
+* **Enrich**: Positive Greetings At The Door Improve Engagement — enriched from claims CSV via Claude
+* **Enrich**: Pretesting Can Harm Motivation — enriched from claims CSV via Claude
+* **Enrich**: Positive Greetings At The Door Improve Engagement And Behavior — enriched from claims CSV via Claude
+* **Enrich**: Play Based Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Pretesting enhances learning — enriched from claims CSV via Claude
+* **Enrich**: Prior Knowledge Needed For Accurate Self Assessment — enriched from claims CSV via Claude
+* **Enrich**: Process Writing Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Pretraining Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Productive Failure Improves Conceptual Learning — enriched from claims CSV via Claude
+* **Enrich**: Process Writing Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Pretesting Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Question prompts improve learning — enriched from claims CSV via Claude
+* **Enrich**: Productive Failure Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Project-based learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Questioning Strategies Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Reading Strategy Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Reading Literary Fiction Improves Theory Of Mind — enriched from claims CSV via Claude
+* **Enrich**: Reciprocal Teaching Improves Reading Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Harms Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Effect Impairs Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Hurts Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Principle On Screen Text Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Principle Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Reflective practice shows mixed evidence of effectiveness in professional education — enriched from claims CSV via Claude
+* **Enrich**: Redundant On Screen Text Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundant on-screen text duplicates of narration or graphics impair learning — enriched from claims CSV via Claude
+* **Enrich**: Reflective Practice Improves Outcomes When Structured — enriched from claims CSV via Claude
+* **Enrich**: Rereading Is A Low Utility Study Strategy — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Fails Without Encoding — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Failure Reduces Benefit — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Enhances Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Rubrics Improve Peer Feedback Quality — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Rubrics Improve Student Work Quality — enriched from claims CSV via Claude
+* **Enrich**: Rewards Undermine Intrinsic Motivation — enriched from claims CSV via Claude
+* **Enrich**: Scaffolded Close Reading Improves Comprehension For Struggling Readers — enriched from claims CSV via Claude
+* **Enrich**: Scaffolding improves learning — enriched from claims CSV via Claude
+* **Enrich**: Scaffolding improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Seductive Details Effect — enriched from claims CSV via Claude
+* **Enrich**: Segmentation Benefits Shrink With Expertise — enriched from claims CSV via Claude
+* **Enrich**: Seductive Details Harm Learning — enriched from claims CSV via Claude
+* **Enrich**: Segmenting Principle Improves Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Social-emotional learning benefits persist at follow-up — enriched from claims CSV via Claude
+* **Enrich**: Rubrics Improve Student Work — enriched from claims CSV via Claude
+* **Enrich**: SEL Programs Improve Academic Achievement — enriched from claims CSV via Claude
+* **Enrich**: Segmenting Improves Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Accuracy Is Low Without Training — enriched from claims CSV via Claude
+* **Enrich**: Self-affirmation improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: SEL Programs Improve Behavior And Achievement — enriched from claims CSV via Claude
+* **Enrich**: SEL programs improve social emotional skills — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Against Criteria Supports Self Regulated Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Determined Learning Model Of Instruction Improves Self Determination — enriched from claims CSV via Claude
+* **Enrich**: Self-determination instruction improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Improves Self Regulated Learning — enriched from claims CSV via Claude
+* **Enrich**: [Claim statement — one sentence, present tense] — enriched from claims CSV via Claude
+* **Enrich**: Self-explanation improves learning — enriched from claims CSV via Claude
+* **Enrich**: Self Directed Iep Increases Student Participation — enriched from claims CSV via Claude
+* **Enrich**: Self Explanation Prompts Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Explanation Prompts Improve Learning From Worked Examples — enriched from claims CSV via Claude
+* **Enrich**: Self Monitoring Improves On Task Behavior — enriched from claims CSV via Claude
+* **Enrich**: Self Monitoring Comprehension Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Questioning Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Improves Academic Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategies Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Predicts Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning strategy instruction improves writing outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self-regulation strategy instruction improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategies Improve Performance — enriched from claims CSV via Claude
+* **Enrich**: Self Talk Improves Learning And Performance — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategy Instruction Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulation Strategy Instruction Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Signaling Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Small Group Learning Improves STEM Achievement — enriched from claims CSV via Claude
+* **Enrich**: Simulation Based Education With Deliberate Practice Improves Clinical Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Social Emotional Learning Programs Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Social Emotional Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Simulation Based Education Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Spaced Repetition Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spacing Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Practice Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spacing Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Outperforms Restudy — enriched from claims CSV via Claude
+* **Enrich**: Spatial Skills Improve Through Block Building — enriched from claims CSV via Claude
+* **Enrich**: Spatial Contiguity Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Impairs Learning — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Story Mapping Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Spatial Training Improves Math Performance — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Degrades Learning — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Integration Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Needs Conditional Knowledge — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Structured Discussion Approaches Improve Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Summarization Effective With Training — enriched from claims CSV via Claude
+* **Enrich**: Structured Peer Tutoring Outperforms Unstructured — enriched from claims CSV via Claude
+* **Enrich**: Structured Discussion Methods Improve Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Structured Literacy Interventions Help Struggling Readers — enriched from claims CSV via Claude
+* **Enrich**: Teacher expectation effects on achievement — enriched from claims CSV via Claude
+* **Enrich**: Systematic Phonics Improves Word Reading — enriched from claims CSV via Claude
+* **Enrich**: Summarization Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Teacher Expectancy Effects Influence Student Achievement — enriched from claims CSV via Claude
+* **Enrich**: Teaching Others Generative Strategy — enriched from claims CSV via Claude
+* **Enrich**: Teacher Student Relationships Improve Engagement And Achievement — enriched from claims CSV via Claude
+* **Enrich**: Teacher Student Relationships Improve Engagement — enriched from claims CSV via Claude
+* **Enrich**: Teacher Guided Inquiry Outperforms Student Led — enriched from claims CSV via Claude
+* **Enrich**: Testing Effect Retrieval Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Testing Effect Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Testing Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Testing Effect Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Tutoring benefits both tutors and tutees — enriched from claims CSV via Claude
+* **Enrich**: Words And Pictures Better Than Words Alone — enriched from claims CSV via Claude
+* **Enrich**: Unguided Discovery Less Effective Than Guided Instruction — enriched from claims CSV via Claude
+* **Enrich**: Tutoring Effectiveness Comes From Scaffolding And Feedback — enriched from claims CSV via Claude
+* **Enrich**: Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts — enriched from claims CSV via Claude
+* **Enrich**: Sequencing worked examples with practice problems improves learning for novices — enriched from claims CSV via Claude
+* **Enrich**: Vocabulary Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Writing Strategy Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Writing Improves Mathematical Understanding — enriched from claims CSV via Claude
+* **Enrich**: Writing To Learn Improves Content Learning — enriched from claims CSV via Claude
+* **Enrich**: Writing To Learn Improves Understanding — enriched from claims CSV via Claude
+* **Enrich**: Explicit_Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Generative_Processing — enriched from strategies CSV via Claude
+* **Enrich**: Teaching As Learning — enriched from strategies CSV via Claude
+* **Enrich**: Invention — enriched from elements CSV via Claude
+* **Enrich**: Writing Prompts — enriched from elements CSV via Claude
+* **Enrich**: Prior Knowledge — enriched from learner-variables CSV via Claude
+* **Enrich**: Activation Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Assessment for learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Adaptive learning improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: The timing of acute exercise relative to learning modulates memory consolidation — enriched from claims CSV via Claude
+* **Enrich**: Analogical Reasoning Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Argumentation Improves Reasoning — enriched from claims CSV via Claude
+* **Enrich**: Advance Organizers Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Authentic Audiences Improve Student Work — enriched from claims CSV via Claude
+* **Enrich**: Annotating Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Belonging Interventions Improve Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Block Play Predicts Math Achievement — enriched from claims CSV via Claude
+* **Enrich**: Automatic Word Recognition Frees Resources For Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Building Empathy Improves Intergroup Attitudes — enriched from claims CSV via Claude
+* **Enrich**: Brief Intervention Empathic Discipline Cuts Suspensions — enriched from claims CSV via Claude
+* **Enrich**: Checklist Evaluation Ineffective Online — enriched from claims CSV via Claude
+* **Enrich**: Blended Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Civic Online Reasoning Instruction Improves Evaluation — enriched from claims CSV via Claude
+* **Enrich**: Claim Slug — enriched from claims CSV via Claude
+* **Enrich**: Classroom Physical Activity Improves Attention — enriched from claims CSV via Claude
+* **Enrich**: Presenting multiple cases from different perspectives supports transfer in ill-structured domains — enriched from claims CSV via Claude
+* **Enrich**: Case Based Learning Improves Exam Performance — enriched from claims CSV via Claude
+* **Enrich**: Coherence Principle Irrelevant Material Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Classroom Design Affects Learning Progress — enriched from claims CSV via Claude
+* **Enrich**: Cognitive disequilibrium motivates conceptual change — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Overload Degrades Learning — enriched from claims CSV via Claude
+* **Enrich**: Comparing Contrasting Cases Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Collaborative Writing Improves Text Quality — enriched from claims CSV via Claude
+* **Enrich**: Concept mapping improves learning — enriched from claims CSV via Claude
+* **Enrich**: Concept mapping improves learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Collaborative Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Comparing contrasting cases improves learning — enriched from claims CSV via Claude
+* **Enrich**: Considering The Opposite Reduces Bias — enriched from claims CSV via Claude
+* **Enrich**: Cooperative learning without individual accountability produces free-riding that reduces learning outcomes — enriched from claims CSV via Claude
+* **Enrich**: Contiguity Principle Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Cooperative learning outperforms competitive and individualistic goal structures — enriched from claims CSV via Claude
+* **Enrich**: Constructive Learning Beats Active Passive — enriched from claims CSV via Claude
+* **Enrich**: Group rewards combined with individual accountability make cooperative learning effective — enriched from claims CSV via Claude
+* **Enrich**: Cooperative Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Dialogic Reading Improves Language Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Dialogic Reading Improves Expressive Language — enriched from claims CSV via Claude
+* **Enrich**: Deliberate Practice Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Direct Instruction Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Discussion Quality Drives Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Disciplinary Literacy Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Drawing Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Decorative Illustrations Do Not Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Distributed Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Dual Coding Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Desirable Difficulties Enhance Learning — enriched from claims CSV via Claude
+* **Enrich**: Dual Coding Improves Recall — enriched from claims CSV via Claude
+* **Enrich**: Elaborative Interrogation Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Eliciting Self Explanations Improves Understanding — enriched from claims CSV via Claude
+* **Enrich**: Elaborative Encoding Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Explicit Handwriting Instruction Improves Legibility — enriched from claims CSV via Claude
+* **Enrich**: Expertise Reversal Guidance Hurts Experts — enriched from claims CSV via Claude
+* **Enrich**: Exercise Increases Hippocampal Volume — enriched from claims CSV via Claude
+* **Enrich**: Emotion Labeling Improves Regulation — enriched from claims CSV via Claude
+* **Enrich**: Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Addressing Task Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Expressive Writing Improves Exam Performance — enriched from claims CSV via Claude
+* **Enrich**: Expressive Writing Improves Health Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Extrinsic Rewards Undermine Intrinsic Motivation — enriched from claims CSV via Claude
+* **Enrich**: Feedback Answers Three Questions — enriched from claims CSV via Claude
+* **Enrich**: Feedback Enhances Retrieval Practice — enriched from claims CSV via Claude
+* **Enrich**: Feedback Improves Learning When It Addresses Task Goals — enriched from claims CSV via Claude
+* **Enrich**: Feedback Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Explicit Writing Strategy Instruction Improves Writing — enriched from claims CSV via Claude
+* **Enrich**: Feedback Most Effective At Task And Process Levels — enriched from claims CSV via Claude
+* **Enrich**: Feedback Use Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Praise Reduces Learning — enriched from claims CSV via Claude
+* **Enrich**: Fiction Reading Improves Empathy — enriched from claims CSV via Claude
+* **Enrich**: Fluent Illusions Mislead Self Assessment — enriched from claims CSV via Claude
+* **Enrich**: Generation Effect Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Generative Learning Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Generative processing improves learning — enriched from claims CSV via Claude
+* **Enrich**: Generative Learning Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Goal Setting Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Growth mindset improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Graphic Organizers Support Novice Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Guided Discovery Outperforms Pure Discovery — enriched from claims CSV via Claude
+* **Enrich**: Growth Mindset Interventions Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Growth mindset interventions produce small positive effects on academic outcomes — enriched from claims CSV via Claude
+* **Enrich**: Guided Notes Improve Note Accuracy — enriched from claims CSV via Claude
+* **Enrich**: Guided Inquiry Outperforms Pure Discovery — enriched from claims CSV via Claude
+* **Enrich**: Fluency Poor Cue Learning — enriched from claims CSV via Claude
+* **Enrich**: Guided Play Improves Academic Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Highlighting Alone Is Ineffective — enriched from claims CSV via Claude
+* **Enrich**: Highlighting Alone Low Utility — enriched from claims CSV via Claude
+* **Enrich**: Handwriting Intervention Type Equivalence — enriched from claims CSV via Claude
+* **Enrich**: Highlighting Low Utility — enriched from claims CSV via Claude
+* **Enrich**: Incidental Vocabulary Exposure Limited — enriched from claims CSV via Claude
+* **Enrich**: Incidental Word Learning While Reading Occurs But At Low Rates Per Exposure — enriched from claims CSV via Claude
+* **Enrich**: Hands-on learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Inquiry Based Teaching Improves Science Achievement — enriched from claims CSV via Claude
+* **Enrich**: Increasing Wait Time Improves Response Quality — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Discrimination — enriched from claims CSV via Claude
+* **Enrich**: Interleaved Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Joint Book Reading Predicts Literacy Success — enriched from claims CSV via Claude
+* **Enrich**: Feedback Improves Learning Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Laptop note-taking tends toward verbatim transcription and shallower learning than longhand note-taking — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Inductive Learning — enriched from claims CSV via Claude
+* **Enrich**: Lateral Reading Improves Source Evaluation — enriched from claims CSV via Claude
+* **Enrich**: Learner-centered teacher–student relationships improve student outcomes — enriched from claims CSV via Claude
+* **Enrich**: Judgments Of Learning Inaccurate — enriched from claims CSV via Claude
+* **Enrich**: Learner Paced Beats System Paced Complex Material — enriched from claims CSV via Claude
+* **Enrich**: Learner Constructed Graphic Organizers Outperform Provided — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Retrieval Benefit — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Learner Generated Organizers Beat Provided Organizers — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Mastery — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Spacing Benefits — enriched from claims CSV via Claude
+* **Enrich**: Learning Space Redesign Alone Insufficient — enriched from claims CSV via Claude
+* **Enrich**: Learners misjudge the benefits of spaced practice — enriched from claims CSV via Claude
+* **Enrich**: Learning Strategy Instruction Contextualized More Effective — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Tutor Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning Styles Matching Does Not Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Learners misjudge which learning strategies are effective — enriched from claims CSV via Claude
+* **Enrich**: Learning Styles Matching Yields No Benefit — enriched from claims CSV via Claude
+* **Enrich**: Math Anxiety Degrades Performance — enriched from claims CSV via Claude
+* **Enrich**: Metacognitive prompts improve learning — enriched from claims CSV via Claude
+* **Enrich**: Manipulatives Improve Math Learning — enriched from claims CSV via Claude
+* **Enrich**: Metacognitive Strategies Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Mastery Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Minimal Guidance Instruction Less Effective — enriched from claims CSV via Claude
+* **Enrich**: Minimal Guidance Ineffective For Novices — enriched from claims CSV via Claude
+* **Enrich**: Hands On Without Conceptual Integration Insufficient — enriched from claims CSV via Claude
+* **Enrich**: Misconceptions Interfere With New Learning — enriched from claims CSV via Claude
+* **Enrich**: Minimally Guided Instruction Less Effective For Novices — enriched from claims CSV via Claude
+* **Enrich**: Minimal guidance is less effective for novices than explicit instruction — enriched from claims CSV via Claude
+* **Enrich**: Modality Effect Narration Over Text — enriched from claims CSV via Claude
+* **Enrich**: Mismatched Graphic Organizers Increase Extraneous Load — enriched from claims CSV via Claude
+* **Enrich**: Modality Principle Spoken Narration Beats On Screen Text — enriched from claims CSV via Claude
+* **Enrich**: Mnemonic Instruction Improves Recall For Students With Disabilities — enriched from claims CSV via Claude
+* **Enrich**: People learn better from words and pictures than from words alone — enriched from claims CSV via Claude
+* **Enrich**: Morphological Instruction Improves Literacy — enriched from claims CSV via Claude
+* **Enrich**: Modality Principle Narration Beats On Screen Text — enriched from claims CSV via Claude
+* **Enrich**: Morphological Instruction Improves Vocabulary — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Learning More Effective With Words And Pictures — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Principles Benefit Novices — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Words Plus Images Beat Words Alone — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Principle Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Multiple representations improve learning — enriched from claims CSV via Claude
+* **Enrich**: Parent Coaching Outperforms Information Only — enriched from claims CSV via Claude
+* **Enrich**: Number Board Games Improve Numerical Knowledge — enriched from claims CSV via Claude
+* **Enrich**: Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone — enriched from claims CSV via Claude
+* **Enrich**: Multiple Contrasting Cases Support Abstraction — enriched from claims CSV via Claude
+* **Enrich**: Parent Implemented Intervention Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Parent Involvement Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Parent Involvement Improves Early Reading — enriched from claims CSV via Claude
+* **Enrich**: Parental Involvement Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Benefits Assessor — enriched from claims CSV via Claude
+* **Enrich**: Peer Discussion Improves Conceptual Understanding — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Structured Criteria Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Accuracy Depends On Expertise — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Writing — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Writing Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Work Quality — enriched from claims CSV via Claude
+* **Enrich**: Phoneme awareness is a stronger predictor of reading development than rhyme awareness — enriched from claims CSV via Claude
+* **Enrich**: Personalized Normative Feedback Corrects Misperceived Norms — enriched from claims CSV via Claude
+* **Enrich**: Personalized Learning Effects Vary With Fidelity — enriched from claims CSV via Claude
+* **Enrich**: Peer Tutoring Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Phonics Instruction Outperforms Whole Word For Generalization — enriched from claims CSV via Claude
+* **Enrich**: Phonemic Awareness Training Improves Reading — enriched from claims CSV via Claude
+* **Enrich**: Phonological Awareness Training Improves Reading — enriched from claims CSV via Claude
+* **Enrich**: Phonics Instruction Improves Word Reading — enriched from claims CSV via Claude
+* **Enrich**: Physical Experience Enhances Science Learning — enriched from claims CSV via Claude
+* **Enrich**: Play Based Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Positive Greetings At The Door Improve Engagement And Behavior — enriched from claims CSV via Claude
+* **Enrich**: Positive Greetings At The Door Improve Engagement — enriched from claims CSV via Claude
+* **Enrich**: Pretesting Can Harm Motivation — enriched from claims CSV via Claude
+* **Enrich**: Pretraining Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Pretesting Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Prior Knowledge Needed For Accurate Self Assessment — enriched from claims CSV via Claude
+* **Enrich**: Pretesting Enhances Learning — enriched from claims CSV via Claude
+* **Enrich**: Peer Assisted Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Process Writing Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Process Writing Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Question prompts improve learning — enriched from claims CSV via Claude
+* **Enrich**: Productive Failure Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Productive Failure Improves Conceptual Learning — enriched from claims CSV via Claude
+* **Enrich**: Reading Strategy Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Reading Literary Fiction Improves Theory Of Mind — enriched from claims CSV via Claude
+* **Enrich**: Reciprocal Teaching Improves Reading Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Questioning Strategies Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Effect Impairs Learning — enriched from claims CSV via Claude
+* **Enrich**: Project-based learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Harms Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Hurts Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Principle On Screen Text Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Principle Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundant on-screen text duplicates of narration or graphics impair learning — enriched from claims CSV via Claude
+* **Enrich**: Reflective practice shows mixed evidence of effectiveness in professional education — enriched from claims CSV via Claude
+* **Enrich**: Redundant On Screen Text Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Reflective Practice Improves Outcomes When Structured — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Fails Without Encoding — enriched from claims CSV via Claude
+* **Enrich**: Rereading Is A Low Utility Study Strategy — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Failure Reduces Benefit — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Enhances Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Rewards Undermine Intrinsic Motivation — enriched from claims CSV via Claude
+* **Enrich**: Scaffolded Close Reading Improves Comprehension For Struggling Readers — enriched from claims CSV via Claude
+* **Enrich**: Rubrics Improve Peer Feedback Quality — enriched from claims CSV via Claude
+* **Enrich**: Segmentation Benefits Shrink With Expertise — enriched from claims CSV via Claude
+* **Enrich**: Scaffolding Improves Learning Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Scaffolding Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Seductive Details Effect — enriched from claims CSV via Claude
+* **Enrich**: Segmenting Improves Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Seductive Details Harm Learning — enriched from claims CSV via Claude
+* **Enrich**: Segmenting Principle Improves Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Social-emotional learning benefits persist at follow-up — enriched from claims CSV via Claude
+* **Enrich**: SEL Programs Improve Academic Achievement — enriched from claims CSV via Claude
+* **Enrich**: SEL Programs Improve Behavior And Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Accuracy Is Low Without Training — enriched from claims CSV via Claude
+* **Enrich**: Self-affirmation improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: SEL programs improve social emotional skills — enriched from claims CSV via Claude
+* **Enrich**: Self-determination instruction improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Improves Self Regulated Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Determined Learning Model Of Instruction Improves Self Determination — enriched from claims CSV via Claude
+* **Enrich**: Self Directed Iep Increases Student Participation — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Against Criteria Supports Self Regulated Learning — enriched from claims CSV via Claude
+* **Enrich**: Self-explanation improves learning — enriched from claims CSV via Claude
+* **Enrich**: Self Explanation Prompts Improve Learning From Worked Examples — enriched from claims CSV via Claude
+* **Enrich**: Self Explanation Prompts Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Monitoring Comprehension Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Monitoring Improves On Task Behavior — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Improves Academic Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Predicts Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Questioning Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategies Improve Performance — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategies Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning strategy instruction improves writing outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self-regulation strategy instruction improves achievement — enriched from claims CSV via Claude
+* **Enrich**: Self-regulated learning improves outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategy Instruction Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulation Strategy Instruction Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Signaling Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Talk Improves Learning And Performance — enriched from claims CSV via Claude
+* **Enrich**: Simulation Based Education Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Simulation Based Education With Deliberate Practice Improves Clinical Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Small Group Learning Improves STEM Achievement — enriched from claims CSV via Claude
+* **Enrich**: Social Emotional Learning Programs Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Social Emotional Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Spaced Repetition Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Outperforms Restudy — enriched from claims CSV via Claude
+* **Enrich**: Spaced Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spacing Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spatial Contiguity Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Spacing Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spatial Skills Improve Through Block Building — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Impairs Learning — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Integration Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Degrades Learning — enriched from claims CSV via Claude
+* **Enrich**: Spatial Training Improves Math Performance — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Story Mapping Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Needs Conditional Knowledge — enriched from claims CSV via Claude
+* **Enrich**: Structured Literacy Interventions Help Struggling Readers — enriched from claims CSV via Claude
+* **Enrich**: Structured Discussion Methods Improve Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Structured Discussion Approaches Improve Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Summarization Effective With Training — enriched from claims CSV via Claude
+* **Enrich**: Structured Peer Tutoring Outperforms Unstructured — enriched from claims CSV via Claude
+* **Enrich**: Systematic Phonics Improves Word Reading — enriched from claims CSV via Claude
+* **Enrich**: Teacher Expectancy Effects Influence Student Achievement — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Summarization Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Teacher Guided Inquiry Outperforms Student Led — enriched from claims CSV via Claude
+* **Enrich**: Teacher Expectation Effects On Achievement — enriched from claims CSV via Claude
+* **Enrich**: Teacher Student Relationships Improve Engagement — enriched from claims CSV via Claude
+* **Enrich**: Testing Effect Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Teaching Others Generative Strategy — enriched from claims CSV via Claude
+* **Enrich**: Testing Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Tutoring benefits both tutors and tutees — enriched from claims CSV via Claude
+* **Enrich**: Tutoring Effectiveness Comes From Scaffolding And Feedback — enriched from claims CSV via Claude
+* **Enrich**: Teacher Student Relationships Improve Engagement And Achievement — enriched from claims CSV via Claude
+* **Enrich**: Unguided Discovery Less Effective Than Guided Instruction — enriched from claims CSV via Claude
+* **Enrich**: Vocabulary Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Writing Strategy Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts — enriched from claims CSV via Claude
+* **Enrich**: Writing Improves Mathematical Understanding — enriched from claims CSV via Claude
+* **Enrich**: Words And Pictures Better Than Words Alone — enriched from claims CSV via Claude
+* **Enrich**: Writing To Learn Improves Content Learning — enriched from claims CSV via Claude
+* **Enrich**: Worked Example Problem Sequences — enriched from claims CSV via Claude
+* **Enrich**: Writing To Learn Improves Understanding — enriched from claims CSV via Claude
+* **Enrich**: Authentic Audiences Improve Student Work — enriched from claims CSV via Claude
+* **Enrich**: Activation Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Assessment For Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Adaptive Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Analogical Reasoning Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Acute Exercise Timing Memory — enriched from claims CSV via Claude
+* **Enrich**: Argumentation Improves Reasoning — enriched from claims CSV via Claude
+* **Enrich**: Advance Organizers Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Automatic Word Recognition Frees Resources For Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Civic Online Reasoning Instruction Improves Evaluation — enriched from claims CSV via Claude
+* **Enrich**: Belonging Interventions Improve Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Block Play Predicts Math Achievement — enriched from claims CSV via Claude
+* **Enrich**: Brief Intervention Empathic Discipline Cuts Suspensions — enriched from claims CSV via Claude
+* **Enrich**: Claim Slug — enriched from claims CSV via Claude
+* **Enrich**: Building Empathy Improves Intergroup Attitudes — enriched from claims CSV via Claude
+* **Enrich**: Checklist Evaluation Ineffective Online — enriched from claims CSV via Claude
+* **Enrich**: Blended Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Classroom Design Affects Learning Progress — enriched from claims CSV via Claude
+* **Enrich**: Classroom Physical Activity Improves Attention — enriched from claims CSV via Claude
+* **Enrich**: Coherence Principle Irrelevant Material Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Flexibility Theory Multiple Cases — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Overload Degrades Learning — enriched from claims CSV via Claude
+* **Enrich**: Cognitive Disequilibrium Motivates Conceptual Change — enriched from claims CSV via Claude
+* **Enrich**: Collaborative Writing Improves Text Quality — enriched from claims CSV via Claude
+* **Enrich**: Concept Mapping Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Comparing Contrasting Cases Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Comparing Contrasting Cases Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Considering The Opposite Reduces Bias — enriched from claims CSV via Claude
+* **Enrich**: Concept Maps Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Cooperative Learning Free Rider Without Accountability — enriched from claims CSV via Claude
+* **Enrich**: Contiguity Principle Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Cooperative Learning Group Rewards And Individual Accountability — enriched from claims CSV via Claude
+* **Enrich**: Cooperative Learning Outperforms Competitive Individualistic — enriched from claims CSV via Claude
+* **Enrich**: Cooperative Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Dialogic Reading Improves Language Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Discussion Quality Drives Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Disciplinary Literacy Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Drawing Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Distributed Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Decorative Illustrations Do Not Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Dialogic Reading Improves Expressive Language — enriched from claims CSV via Claude
+* **Enrich**: Dual Coding Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Elaborative Interrogation Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Elaborative Encoding Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Dual Coding Improves Recall — enriched from claims CSV via Claude
+* **Enrich**: Eliciting Self Explanations Improves Understanding — enriched from claims CSV via Claude
+* **Enrich**: Exercise Increases Hippocampal Volume — enriched from claims CSV via Claude
+* **Enrich**: Explicit Handwriting Instruction Improves Legibility — enriched from claims CSV via Claude
+* **Enrich**: Experimenter-generated underlining is as effective as student-generated underlining for test performance — enriched from claims CSV via Claude
+* **Enrich**: Expertise Reversal Guidance Hurts Experts — enriched from claims CSV via Claude
+* **Enrich**: Explicit Writing Strategy Instruction Improves Writing — enriched from claims CSV via Claude
+* **Enrich**: Expressive Writing Improves Health Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Expressive Writing Improves Exam Performance — enriched from claims CSV via Claude
+* **Enrich**: Emotion Labeling Improves Regulation — enriched from claims CSV via Claude
+* **Enrich**: Feedback Addressing Task Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Improves Learning When It Addresses Task Goals — enriched from claims CSV via Claude
+* **Enrich**: Feedback Answers Three Questions Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Enhances Retrieval Practice — enriched from claims CSV via Claude
+* **Enrich**: Extrinsic Rewards Undermine Intrinsic Motivation — enriched from claims CSV via Claude
+* **Enrich**: Fiction Reading Improves Empathy — enriched from claims CSV via Claude
+* **Enrich**: Feedback Most Effective At Task And Process Levels — enriched from claims CSV via Claude
+* **Enrich**: Feedback Praise Reduces Learning — enriched from claims CSV via Claude
+* **Enrich**: Fluent Illusions Mislead Self Assessment — enriched from claims CSV via Claude
+* **Enrich**: Feedback Use Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Feedback Answers Three Questions — enriched from claims CSV via Claude
+* **Enrich**: Goal Setting Improves Performance — enriched from claims CSV via Claude
+* **Enrich**: Generation Effect Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Generative Processing Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Generative Learning Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Generative Learning Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Graphic Organizers Support Novice Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Growth Mindset Interventions Small Effects — enriched from claims CSV via Claude
+* **Enrich**: Growth Mindset Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Guided Notes Improve Note Accuracy — enriched from claims CSV via Claude
+* **Enrich**: Guided Play Improves Academic Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Growth Mindset Interventions Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Case Based Learning Improves Exam Performance — enriched from claims CSV via Claude
+* **Enrich**: Guided Inquiry Outperforms Pure Discovery — enriched from claims CSV via Claude
+* **Enrich**: Hands On Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Handwriting Intervention Type Equivalence — enriched from claims CSV via Claude
+* **Enrich**: Hands On Without Conceptual Integration Insufficient — enriched from claims CSV via Claude
+* **Enrich**: Highlighting Alone Low Utility — enriched from claims CSV via Claude
+* **Enrich**: Highlighting Alone Is Ineffective — enriched from claims CSV via Claude
+* **Enrich**: Incidental Vocabulary Exposure Limited — enriched from claims CSV via Claude
+* **Enrich**: Guided Discovery Outperforms Pure Discovery — enriched from claims CSV via Claude
+* **Enrich**: Highlighting Low Utility — enriched from claims CSV via Claude
+* **Enrich**: Increasing Wait Time Improves Response Quality — enriched from claims CSV via Claude
+* **Enrich**: Incidental Word Learning While Reading Occurs But At Low Rates Per Exposure — enriched from claims CSV via Claude
+* **Enrich**: Interleaving Improves Discrimination — enriched from claims CSV via Claude
+* **Enrich**: Inquiry Based Teaching Improves Science Achievement — enriched from claims CSV via Claude
+* **Enrich**: Laptop Notes Verbatim Shallower — enriched from claims CSV via Claude
+* **Enrich**: Learner Centered Teacher Student Relationships Are Effective — enriched from claims CSV via Claude
+* **Enrich**: Interleaved Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Joint Book Reading Predicts Literacy Success — enriched from claims CSV via Claude
+* **Enrich**: Learner Generated Organizers Beat Provided Organizers — enriched from claims CSV via Claude
+* **Enrich**: Learner Constructed Graphic Organizers Outperform Provided — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Retrieval Benefit — enriched from claims CSV via Claude
+* **Enrich**: Intuitive learners tend to outperform sensing learners in media-based presentations — enriched from claims CSV via Claude
+* **Enrich**: Lateral Reading Improves Source Evaluation — enriched from claims CSV via Claude
+* **Enrich**: Learner Paced Beats System Paced Complex Material — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Spacing Benefits — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Effective Learning Strategies — enriched from claims CSV via Claude
+* **Enrich**: Learning Strategy Instruction Contextualized More Effective — enriched from claims CSV via Claude
+* **Enrich**: Learning Styles Matching Does Not Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning Space Redesign Alone Insufficient — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Learners Misjudge Spacing — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Tutor Learning — enriched from claims CSV via Claude
+* **Enrich**: Learning Styles Matching Yields No Benefit — enriched from claims CSV via Claude
+* **Enrich**: Math Anxiety Degrades Performance — enriched from claims CSV via Claude
+* **Enrich**: Learning By Teaching Improves Mastery — enriched from claims CSV via Claude
+* **Enrich**: Different media combinations significantly affect the recall and retention of information — enriched from claims CSV via Claude
+* **Enrich**: Minimal Guidance Less Effective For Novices — enriched from claims CSV via Claude
+* **Enrich**: Minimally Guided Instruction Less Effective For Novices — enriched from claims CSV via Claude
+* **Enrich**: Minimal Guidance Instruction Less Effective — enriched from claims CSV via Claude
+* **Enrich**: Metacognitive Strategies Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Minimal Guidance Ineffective For Novices — enriched from claims CSV via Claude
+* **Enrich**: Misconceptions Interfere With New Learning — enriched from claims CSV via Claude
+* **Enrich**: Metacognitive Prompts Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Mismatched Graphic Organizers Increase Extraneous Load — enriched from claims CSV via Claude
+* **Enrich**: Mnemonic Instruction Improves Recall For Students With Disabilities — enriched from claims CSV via Claude
+* **Enrich**: Modality Effect Narration Over Text — enriched from claims CSV via Claude
+* **Enrich**: Morphological Instruction Improves Literacy — enriched from claims CSV via Claude
+* **Enrich**: Modality Principle Spoken Narration Beats On Screen Text — enriched from claims CSV via Claude
+* **Enrich**: Morphological Instruction Improves Vocabulary — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Learning More Effective With Words And Pictures — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Principle — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Principles Benefit Novices — enriched from claims CSV via Claude
+* **Enrich**: Multimedia Words Plus Images Beat Words Alone — enriched from claims CSV via Claude
+* **Enrich**: Multiple Contrasting Cases Support Abstraction — enriched from claims CSV via Claude
+* **Enrich**: Multiple Representations Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Number Board Games Improve Numerical Knowledge — enriched from claims CSV via Claude
+* **Enrich**: Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone — enriched from claims CSV via Claude
+* **Enrich**: Parent Coaching Outperforms Information Only — enriched from claims CSV via Claude
+* **Enrich**: Parent Implemented Intervention Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Parent Involvement Improves Early Reading — enriched from claims CSV via Claude
+* **Enrich**: Parent Involvement Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Parental Involvement Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Benefits Assessor — enriched from claims CSV via Claude
+* **Enrich**: Peer Assessment Structured Criteria Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Peer Discussion Improves Conceptual Understanding — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Accuracy Depends On Expertise — enriched from claims CSV via Claude
+* **Enrich**: Peer Assisted Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Peer Tutoring Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Writing Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Peer Feedback Improves Writing — enriched from claims CSV via Claude
+* **Enrich**: Personalized Learning Effects Vary With Fidelity — enriched from claims CSV via Claude
+* **Enrich**: Personalized Normative Feedback Corrects Misperceived Norms — enriched from claims CSV via Claude
+* **Enrich**: Phoneme Awareness Stronger Predictor Than Rhyme — enriched from claims CSV via Claude
+* **Enrich**: Phonics Instruction Outperforms Whole Word For Generalization — enriched from claims CSV via Claude
+* **Enrich**: Phonological Awareness Training Improves Reading — enriched from claims CSV via Claude
+* **Enrich**: Physical Experience Enhances Science Learning — enriched from claims CSV via Claude
+* **Enrich**: Positive Greetings At The Door Improve Engagement And Behavior — enriched from claims CSV via Claude
+* **Enrich**: Pretesting Can Harm Motivation — enriched from claims CSV via Claude
+* **Enrich**: Phonics Instruction Improves Word Reading — enriched from claims CSV via Claude
+* **Enrich**: Positive Greetings At The Door Improve Engagement — enriched from claims CSV via Claude
+* **Enrich**: Phonemic Awareness Training Improves Reading — enriched from claims CSV via Claude
+* **Enrich**: Pretraining Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Prior knowledge is not significantly related to test performance in this sample — enriched from claims CSV via Claude
+* **Enrich**: Prior Knowledge Needed For Accurate Self Assessment — enriched from claims CSV via Claude
+* **Enrich**: Process Writing Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Productive Failure Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Process Writing Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Productive Failure Improves Conceptual Learning — enriched from claims CSV via Claude
+* **Enrich**: Reading Literary Fiction Improves Theory Of Mind — enriched from claims CSV via Claude
+* **Enrich**: Reading Strategy Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Reciprocal Teaching Improves Reading Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Harms Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Effect Impairs Learning — enriched from claims CSV via Claude
+* **Enrich**: Question Prompts Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Hurts Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Principle Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Project Based Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Principle — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Principle On Screen Text Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Redundant On Screen Text Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Reflective Practice Improves Outcomes When Structured — enriched from claims CSV via Claude
+* **Enrich**: Relevancy of emphasized text directs attention and influences test performance — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Fails Without Encoding — enriched from claims CSV via Claude
+* **Enrich**: Redundancy Hurts Learning — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Failure Reduces Benefit — enriched from claims CSV via Claude
+* **Enrich**: Rewards Undermine Intrinsic Motivation — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Enhances Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Transfer — enriched from claims CSV via Claude
+* **Enrich**: Rubrics Improve Peer Feedback Quality — enriched from claims CSV via Claude
+* **Enrich**: Rereading Is A Low Utility Study Strategy — enriched from claims CSV via Claude
+* **Enrich**: Retrieval Practice Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Segmenting Principle Improves Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Scaffolded Close Reading Improves Comprehension For Struggling Readers — enriched from claims CSV via Claude
+* **Enrich**: Seductive Details Effect — enriched from claims CSV via Claude
+* **Enrich**: Segmentation Benefits Shrink With Expertise — enriched from claims CSV via Claude
+* **Enrich**: Segmenting Improves Multimedia Learning — enriched from claims CSV via Claude
+* **Enrich**: Reflective Practice Evidence Mixed In Professional Education — enriched from claims CSV via Claude
+* **Enrich**: Sel Programs Improve Social Emotional Skills — enriched from claims CSV via Claude
+* **Enrich**: Sel Benefits Persist Follow Up — enriched from claims CSV via Claude
+* **Enrich**: Sel Programs Improve Behavior And Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Accuracy Is Low Without Training — enriched from claims CSV via Claude
+* **Enrich**: Sel Programs Improve Academic Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Determination Instruction Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Determined Learning Model Of Instruction Improves Self Determination — enriched from claims CSV via Claude
+* **Enrich**: Seductive Details Harm Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Assessment Against Criteria Supports Self Regulated Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Explanation Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Explanation Prompts Improve Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Explanation Prompts Improve Learning From Worked Examples — enriched from claims CSV via Claude
+* **Enrich**: Self Monitoring Improves On Task Behavior — enriched from claims CSV via Claude
+* **Enrich**: Self Monitoring Comprehension Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Self Affirmation Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Directed Iep Increases Student Participation — enriched from claims CSV via Claude
+* **Enrich**: Self Questioning Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Improves Academic Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategies Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Predicts Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategies Improve Writing — enriched from claims CSV via Claude
+* **Enrich**: Self Regulation Strategy Instruction Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategies Improve Performance — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Strategy Instruction Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Self Talk Improves Learning And Performance — enriched from claims CSV via Claude
+* **Enrich**: Self Regulation Strategy Instruction Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Simulation Based Education Improves Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Small Group Learning Improves Stem Achievement — enriched from claims CSV via Claude
+* **Enrich**: Signaling Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Social Emotional Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Simulation Based Education With Deliberate Practice Improves Clinical Outcomes — enriched from claims CSV via Claude
+* **Enrich**: Self Regulated Learning Improves Achievement — enriched from claims CSV via Claude
+* **Enrich**: Social Emotional Learning Programs Improve Achievement — enriched from claims CSV via Claude
+* **Enrich**: Spaced Repetition Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spaced Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Spatial Skills Improve Through Block Building — enriched from claims CSV via Claude
+* **Enrich**: Spacing Improves Long Term Retention — enriched from claims CSV via Claude
+* **Enrich**: Spatial Contiguity Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Practice Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Impairs Learning — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Degrades Learning — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: Story Mapping Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Improves Academic Performance — enriched from claims CSV via Claude
+* **Enrich**: Split Attention Effect Integration Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Strategy Instruction Needs Conditional Knowledge — enriched from claims CSV via Claude
+* **Enrich**: Structured Discussion Approaches Improve Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Summarization Effective With Training — enriched from claims CSV via Claude
+* **Enrich**: Structured Peer Tutoring Outperforms Unstructured — enriched from claims CSV via Claude
+* **Enrich**: Structured Discussion Methods Improve Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Systematic Phonics Improves Word Reading — enriched from claims CSV via Claude
+* **Enrich**: Structured Literacy Interventions Help Struggling Readers — enriched from claims CSV via Claude
+* **Enrich**: Summarization Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Teacher Expectancy Effects Influence Student Achievement — enriched from claims CSV via Claude
+* **Enrich**: Teaching Others Generative Strategy — enriched from claims CSV via Claude
+* **Enrich**: Teacher Student Relationships Improve Engagement And Achievement — enriched from claims CSV via Claude
+* **Enrich**: Teacher Guided Inquiry Outperforms Student Led — enriched from claims CSV via Claude
+* **Enrich**: Teacher Student Relationships Improve Engagement — enriched from claims CSV via Claude
+* **Enrich**: Spaced Retrieval Outperforms Restudy — enriched from claims CSV via Claude
+* **Enrich**: Testing Effect Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Testing Improves Retention — enriched from claims CSV via Claude
+* **Enrich**: Tutoring Effectiveness Comes From Scaffolding And Feedback — enriched from claims CSV via Claude
+* **Enrich**: Words And Pictures Better Than Words Alone — enriched from claims CSV via Claude
+* **Enrich**: Unguided Discovery Less Effective Than Guided Instruction — enriched from claims CSV via Claude
+* **Enrich**: Vocabulary Instruction Improves Comprehension — enriched from claims CSV via Claude
+* **Enrich**: Writing Improves Mathematical Understanding — enriched from claims CSV via Claude
+* **Enrich**: Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts — enriched from claims CSV via Claude
+* **Enrich**: Tutoring Benefits Tutors And Tutees — enriched from claims CSV via Claude
+* **Enrich**: Writing To Learn Improves Understanding — enriched from claims CSV via Claude
+* **Enrich**: Writing To Learn Improves Content Learning — enriched from claims CSV via Claude
+* **Enrich**: Writing Strategy Instruction Improves Writing Quality — enriched from claims CSV via Claude
+* **Enrich**: The von Restorff effect in text marking — enriched from theories CSV via Claude
+* **Enrich**: Activation Improves Learning — enriched from claims CSV via Claude
+* **Enrich**: Activation — enriched from claims CSV via Claude
+* **Enrich**: Active Learning Improves Exam Performance — enriched from claims CSV via Claude
+* **Enrich**: Competency Based Progression — enriched from strategies CSV via Claude
+* **Enrich**: Discussion Norms — enriched from strategies CSV via Claude
+* **Enrich**: Micro Credentials — enriched from strategies CSV via Claude
+* **Enrich**: Scenario Based_E Learning — enriched from strategies CSV via Claude
+* **Enrich**: Case Based Learning — enriched from strategies CSV via Claude
+* **Enrich**: Micro Credentials And Badging — enriched from strategies CSV via Claude
+* **Enrich**: Formative Assessment — enriched from strategies CSV via Claude
+* **Enrich**: Cold Calling — enriched from strategies CSV via Claude
+* **Enrich**: Mastery Based Progression — enriched from strategies CSV via Claude
+* **Enrich**: Simulation Based Training — enriched from strategies CSV via Claude
+* **Enrich**: Classroom Response Systems — enriched from strategies CSV via Claude
+* **Enrich**: Cloze Procedure — enriched from strategies CSV via Claude
+* **Enrich**: Interactive Read Aloud — enriched from strategies CSV via Claude
+* **Enrich**: Praise Specific Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Paired_Reading — enriched from strategies CSV via Claude
+* **Enrich**: Worked Example Fading — enriched from strategies CSV via Claude
+* **Enrich**: Tiered Vocabulary Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Accountable_Talk — enriched from strategies CSV via Claude
+* **Enrich**: Behavior_Contracts — enriched from strategies CSV via Claude
+* **Enrich**: Exhibition_Of_Learning — enriched from strategies CSV via Claude
+* **Enrich**: Concept Probing — enriched from strategies CSV via Claude
+* **Enrich**: I_Do_We_Do_You_Do — enriched from strategies CSV via Claude
+* **Enrich**: Multimedia Design — enriched from strategies CSV via Claude
+* **Enrich**: Maze Cloze Assessments — enriched from strategies CSV via Claude
+* **Enrich**: Reading Fluency Practice — enriched from strategies CSV via Claude
+* **Enrich**: Positive Behavior Interventions And Supports — enriched from strategies CSV via Claude
+* **Enrich**: Publishing Student Work — enriched from strategies CSV via Claude
+* **Enrich**: Token_Economy — enriched from strategies CSV via Claude
+* **Enrich**: Text Talk — enriched from strategies CSV via Claude
+* **Enrich**: Two Stage Quizzes — enriched from strategies CSV via Claude
+* **Enrich**: Writing Across The Curriculum — enriched from strategies CSV via Claude
+* **Enrich**: Vocabulary In Context — enriched from strategies CSV via Claude
+* **Enrich**: Learning Goals — enriched from elements CSV via Claude
+* **Enrich**: Audience Analysis — enriched from elements CSV via Claude
+* **Enrich**: Adaptive Learning — enriched from strategies CSV via Claude
+* **Enrich**: Classroom Meetings — enriched from strategies CSV via Claude
+* **Enrich**: Case Based Teaching — enriched from strategies CSV via Claude
+* **Enrich**: Accountability Partners — enriched from strategies CSV via Claude
+* **Enrich**: Cloze_Exercises — enriched from strategies CSV via Claude
+* **Enrich**: Community_Building — enriched from strategies CSV via Claude
+* **Enrich**: Empathic_Discipline — enriched from strategies CSV via Claude
+* **Enrich**: Derived Facts — enriched from strategies CSV via Claude
+* **Enrich**: Cumulative Review Quizzes — enriched from strategies CSV via Claude
+* **Enrich**: Doubles Minus One — enriched from strategies CSV via Claude
+* **Enrich**: Faded Guidance — enriched from strategies CSV via Claude
+* **Enrich**: Formative Assessment Routines — enriched from strategies CSV via Claude
+* **Enrich**: Home Reading Programs — enriched from strategies CSV via Claude
+* **Enrich**: Formative Evaluation — enriched from strategies CSV via Claude
+* **Enrich**: Learner Personas — enriched from strategies CSV via Claude
+* **Enrich**: Genre Scaffolding — enriched from strategies CSV via Claude
+* **Enrich**: Peer Review Protocols — enriched from strategies CSV via Claude
+* **Enrich**: Metacognitive Strategy Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Positive Classroom Climate — enriched from strategies CSV via Claude
+* **Enrich**: Portfolios — enriched from strategies CSV via Claude
+* **Enrich**: Muddiest_Point — enriched from strategies CSV via Claude
+* **Enrich**: Positive Reinforcement Systems — enriched from strategies CSV via Claude
+* **Enrich**: Pre Reading_Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Premack Principle — enriched from strategies CSV via Claude
+* **Enrich**: Repeated_Reading_For_Fluency — enriched from strategies CSV via Claude
+* **Enrich**: Restorative Approaches — enriched from strategies CSV via Claude
+* **Enrich**: Predicting Observing Explaining — enriched from strategies CSV via Claude
+* **Enrich**: Read_Alouds — enriched from strategies CSV via Claude
+* **Enrich**: Scaffolded Difficulty Progression — enriched from strategies CSV via Claude
+* **Enrich**: Simplifying Language — enriched from strategies CSV via Claude
+* **Enrich**: Seductive Details Removal — enriched from strategies CSV via Claude
+* **Enrich**: Spelling_Retrieval_Practice — enriched from strategies CSV via Claude
+* **Enrich**: Social Emotional Learning Curricula — enriched from strategies CSV via Claude
+* **Enrich**: Social Norms Marketing Campaign — enriched from strategies CSV via Claude
+* **Enrich**: Socratic_Questioning — enriched from strategies CSV via Claude
+* **Enrich**: Teacher Parent Communication — enriched from strategies CSV via Claude
+* **Enrich**: Text Based Discussion Protocols — enriched from strategies CSV via Claude
+* **Enrich**: Text_Marking — enriched from strategies CSV via Claude
+* **Enrich**: Writing For Real Audiences — enriched from strategies CSV via Claude
+* **Enrich**: Vocabulary Instruction Small Groups — enriched from strategies CSV via Claude
+* **Enrich**: Worked_Examples_First — enriched from strategies CSV via Claude
+* **Enrich**: Gamification — enriched from principles CSV via Claude
+* **Enrich**: Active Monitoring — enriched from strategies CSV via Claude
+* **Enrich**: Categorization — enriched from strategies CSV via Claude
+* **Enrich**: Choice — enriched from strategies CSV via Claude
+* **Enrich**: Citation_Chaining — enriched from strategies CSV via Claude
+* **Enrich**: Chunking Text — enriched from strategies CSV via Claude
+* **Enrich**: Authentic Writing — enriched from strategies CSV via Claude
+* **Enrich**: 3 2 1_Reflection — enriched from strategies CSV via Claude
+* **Enrich**: Claim Support Question — enriched from strategies CSV via Claude
+* **Enrich**: Co Creating Classroom Norms — enriched from strategies CSV via Claude
+* **Enrich**: Completion Problems First — enriched from strategies CSV via Claude
+* **Enrich**: Coherence — enriched from strategies CSV via Claude
+* **Enrich**: Co Creating_Classroom_Norms — enriched from strategies CSV via Claude
+* **Enrich**: Counting All — enriched from strategies CSV via Claude
+* **Enrich**: Conceptual Change — enriched from strategies CSV via Claude
+* **Enrich**: Communicating High Expectations — enriched from strategies CSV via Claude
+* **Enrich**: Cramming — enriched from strategies CSV via Claude
+* **Enrich**: Comparing Contrasting Cases — enriched from strategies CSV via Claude
+* **Enrich**: Daily Behavior Report Cards — enriched from strategies CSV via Claude
+* **Enrich**: Classroom Norms Co Creation — enriched from strategies CSV via Claude
+* **Enrich**: Design Challenges — enriched from strategies CSV via Claude
+* **Enrich**: Cumulative Review Quizzing — enriched from strategies CSV via Claude
+* **Enrich**: Decodable Text Reading Practice — enriched from strategies CSV via Claude
+* **Enrich**: Doubles Plus One — enriched from strategies CSV via Claude
+* **Enrich**: Diagnostic Assessment — enriched from strategies CSV via Claude
+* **Enrich**: Dictation Exercises — enriched from strategies CSV via Claude
+* **Enrich**: Discussion Based Learning — enriched from strategies CSV via Claude
+* **Enrich**: Drafting And Feedback Cycles — enriched from strategies CSV via Claude
+* **Enrich**: Establishing_Routines_And_Procedures — enriched from strategies CSV via Claude
+* **Enrich**: Exit_Ticket — enriched from strategies CSV via Claude
+* **Enrich**: Exam Wrappers — enriched from strategies CSV via Claude
+* **Enrich**: First Then_Boards — enriched from strategies CSV via Claude
+* **Enrich**: Estimation Warm Ups — enriched from strategies CSV via Claude
+* **Enrich**: Expressive Writing Before Assessment — enriched from strategies CSV via Claude
+* **Enrich**: Goal Setting With Learners — enriched from strategies CSV via Claude
+* **Enrich**: Hint Design — enriched from strategies CSV via Claude
+* **Enrich**: Interleave_Practice_Types — enriched from strategies CSV via Claude
+* **Enrich**: Handwriting Fluency Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Interactive Video Quizzing — enriched from strategies CSV via Claude
+* **Enrich**: Formative Assessment With Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Home School Communication — enriched from strategies CSV via Claude
+* **Enrich**: Jigsaw Cooperative Learning — enriched from strategies CSV via Claude
+* **Enrich**: Literature_Reviews — enriched from strategies CSV via Claude
+* **Enrich**: Low Stakes Testing — enriched from strategies CSV via Claude
+* **Enrich**: Leveled Text Reading — enriched from strategies CSV via Claude
+* **Enrich**: Jigsaw_Reading — enriched from strategies CSV via Claude
+* **Enrich**: Learning Stations — enriched from strategies CSV via Claude
+* **Enrich**: Jigsaw_Method — enriched from strategies CSV via Claude
+* **Enrich**: Metacognitive Prompting — enriched from strategies CSV via Claude
+* **Enrich**: Mood Meters — enriched from strategies CSV via Claude
+* **Enrich**: Numbered Heads Together — enriched from strategies CSV via Claude
+* **Enrich**: Morphological Analysis Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Needs Analysis — enriched from strategies CSV via Claude
+* **Enrich**: One Minute Paper — enriched from strategies CSV via Claude
+* **Enrich**: Orton Gillingham Approach — enriched from strategies CSV via Claude
+* **Enrich**: Peer Tutoring With Structured Materials — enriched from strategies CSV via Claude
+* **Enrich**: Parent Workshops — enriched from strategies CSV via Claude
+* **Enrich**: Make Ten — enriched from strategies CSV via Claude
+* **Enrich**: Phonemic Awareness Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Peer Critique — enriched from strategies CSV via Claude
+* **Enrich**: Process Writing Workshop — enriched from strategies CSV via Claude
+* **Enrich**: Praise And Ignore — enriched from strategies CSV via Claude
+* **Enrich**: Peer_Assessment — enriched from strategies CSV via Claude
+* **Enrich**: Proximity_Control — enriched from strategies CSV via Claude
+* **Enrich**: Print Based_Self Study_Guides — enriched from strategies CSV via Claude
+* **Enrich**: Restorative Justice Conferencing — enriched from strategies CSV via Claude
+* **Enrich**: Personalized_Normative_Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Positive Reinforcement Schedules — enriched from strategies CSV via Claude
+* **Enrich**: Public_Commitment — enriched from strategies CSV via Claude
+* **Enrich**: Retrieval Practice Training — enriched from strategies CSV via Claude
+* **Enrich**: Restorative Practices Circles — enriched from strategies CSV via Claude
+* **Enrich**: Redundancy Avoidance — enriched from strategies CSV via Claude
+* **Enrich**: Response Cards — enriched from strategies CSV via Claude
+* **Enrich**: Simulation Based Practice — enriched from strategies CSV via Claude
+* **Enrich**: Restorative Questions — enriched from strategies CSV via Claude
+* **Enrich**: Role Assignment — enriched from strategies CSV via Claude
+* **Enrich**: Scaffolded Problem Sequencing — enriched from strategies CSV via Claude
+* **Enrich**: Systematic Synthetic Phonics — enriched from strategies CSV via Claude
+* **Enrich**: See_Think_Wonder — enriched from strategies CSV via Claude
+* **Enrich**: Studio Critique — enriched from strategies CSV via Claude
+* **Enrich**: Take Home_Practice_Sets — enriched from strategies CSV via Claude
+* **Enrich**: Timed Practice With Progress Monitoring — enriched from strategies CSV via Claude
+* **Enrich**: Small Group Phonemic Awareness Intervention — enriched from strategies CSV via Claude
+* **Enrich**: Spaced Repetition Scheduling — enriched from strategies CSV via Claude
+* **Enrich**: Use_Spaced_Practice — enriched from strategies CSV via Claude
+* **Enrich**: Weeding — enriched from strategies CSV via Claude
+* **Enrich**: Use Pre Questions — enriched from strategies CSV via Claude
+* **Enrich**: Warm Demander Pedagogy — enriched from strategies CSV via Claude
+* **Enrich**: Use_Multiple_Representations — enriched from strategies CSV via Claude
+* **Enrich**: Video Based Modeling — enriched from strategies CSV via Claude
+* **Enrich**: Self Regulated Learning Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Reciprocal Peer Tutoring — enriched from strategies CSV via Claude
+* **Enrich**: Sentence Frames — enriched from strategies CSV via Claude
+* **Enrich**: Word Sort — enriched from strategies CSV via Claude
+* **Enrich**: Literacy Centers — enriched from strategies CSV via Claude
+* **Enrich**: Positive Behavioral Interventions And Supports — enriched from patterns CSV via Claude
+* **Enrich**: Misconception Probes — enriched from elements CSV via Claude
+* **Enrich**: Discussion — enriched from elements CSV via Claude
+* **Enrich**: Transfer Tasks — enriched from elements CSV via Claude
+* **Enrich**: Learning Contracts — enriched from elements CSV via Claude
+* **Enrich**: Audiobooks — enriched from elements CSV via Claude
+* **Enrich**: Objective — enriched from elements CSV via Claude
+* **Enrich**: Emotion Regulation — enriched from elements CSV via Claude
+* **Enrich**: Experimentation — enriched from elements CSV via Claude
+* **Enrich**: Spacing — enriched from principles CSV via Claude
+* **Enrich**: Autonomy — enriched from principles CSV via Claude
+* **Enrich**: Belonging Interventions — enriched from strategies CSV via Claude
+* **Enrich**: After Action Review — enriched from strategies CSV via Claude
+* **Enrich**: Annotating_Text — enriched from strategies CSV via Claude
+* **Enrich**: Bell Ringer — enriched from strategies CSV via Claude
+* **Enrich**: Annotated Bibliographies — enriched from strategies CSV via Claude
+* **Enrich**: Card Sorting — enriched from strategies CSV via Claude
+* **Enrich**: Choral Responding — enriched from strategies CSV via Claude
+* **Enrich**: Civic Online Reasoning — enriched from strategies CSV via Claude
+* **Enrich**: Baseline Assessment — enriched from strategies CSV via Claude
+* **Enrich**: Check Incheck Out — enriched from strategies CSV via Claude
+* **Enrich**: Claim Evidence Reasoning — enriched from strategies CSV via Claude
+* **Enrich**: Chunking Content — enriched from strategies CSV via Claude
+* **Enrich**: A_Finders_Guide_To_Facts — enriched from strategies CSV via Claude
+* **Enrich**: Check In_Check Out — enriched from strategies CSV via Claude
+* **Enrich**: Classroom Movement Breaks — enriched from strategies CSV via Claude
+* **Enrich**: Classroom Norms — enriched from strategies CSV via Claude
+* **Enrich**: Classroom Management — enriched from strategies CSV via Claude
+* **Enrich**: Classroom Climate Routines — enriched from strategies CSV via Claude
+* **Enrich**: Class Discussion Facilitation — enriched from strategies CSV via Claude
+* **Enrich**: Classroom Routines And Procedures — enriched from strategies CSV via Claude
+* **Enrich**: Classroom_Pbis — enriched from strategies CSV via Claude
+* **Enrich**: Classroom Community Building — enriched from strategies CSV via Claude
+* **Enrich**: Classroom Rules And Routines — enriched from strategies CSV via Claude
+* **Enrich**: Clicker Questions — enriched from strategies CSV via Claude
+* **Enrich**: Collaborative Learning — enriched from strategies CSV via Claude
+* **Enrich**: Collaborative Annotation — enriched from strategies CSV via Claude
+* **Enrich**: Concrete Examples — enriched from strategies CSV via Claude
+* **Enrich**: Concrete Representational Abstract Sequence — enriched from strategies CSV via Claude
+* **Enrich**: Community Building Circles — enriched from strategies CSV via Claude
+* **Enrich**: Cognitively Guided Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Corroboration — enriched from strategies CSV via Claude
+* **Enrich**: Contacts Between Students And Faculty — enriched from strategies CSV via Claude
+* **Enrich**: Conferencing — enriched from strategies CSV via Claude
+* **Enrich**: Counting On — enriched from strategies CSV via Claude
+* **Enrich**: Critique Protocol — enriched from strategies CSV via Claude
+* **Enrich**: Critique And Revision — enriched from strategies CSV via Claude
+* **Enrich**: Critique Protocols — enriched from strategies CSV via Claude
+* **Enrich**: Cover Copy Compare — enriched from strategies CSV via Claude
+* **Enrich**: Critique_Protocols — enriched from strategies CSV via Claude
+* **Enrich**: Daily 5 — enriched from strategies CSV via Claude
+* **Enrich**: Data Driven Dialogue — enriched from strategies CSV via Claude
+* **Enrich**: Decodable Text Reading — enriched from strategies CSV via Claude
+* **Enrich**: Cumulative Quizzing — enriched from strategies CSV via Claude
+* **Enrich**: Decodable Texts — enriched from strategies CSV via Claude
+* **Enrich**: Dictation And Spelling Practice — enriched from strategies CSV via Claude
+* **Enrich**: Dialogue Journals — enriched from strategies CSV via Claude
+* **Enrich**: Discussion_Protocols — enriched from strategies CSV via Claude
+* **Enrich**: Discussion Protocols — enriched from strategies CSV via Claude
+* **Enrich**: Diagnostic Pre Assessment — enriched from strategies CSV via Claude
+* **Enrich**: Dual Coding — enriched from strategies CSV via Claude
+* **Enrich**: Emotion Check Ins — enriched from strategies CSV via Claude
+* **Enrich**: Differentiated Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Empathic Discipline — enriched from strategies CSV via Claude
+* **Enrich**: Empathy Walks — enriched from strategies CSV via Claude
+* **Enrich**: Equity Audits — enriched from strategies CSV via Claude
+* **Enrich**: Echo Reading — enriched from strategies CSV via Claude
+* **Enrich**: Essential Questions — enriched from strategies CSV via Claude
+* **Enrich**: Establishing Classroom Routines — enriched from strategies CSV via Claude
+* **Enrich**: Exemplar Based Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Establishing_Rules_And_Expectations — enriched from strategies CSV via Claude
+* **Enrich**: Establishing Group Roles — enriched from strategies CSV via Claude
+* **Enrich**: Establishing Clear Expectations — enriched from strategies CSV via Claude
+* **Enrich**: Explicit Systematic Phonics Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Exhibition — enriched from strategies CSV via Claude
+* **Enrich**: Explicit Routine Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Explicit Systematic Phonics — enriched from strategies CSV via Claude
+* **Enrich**: Fact Checking Routines — enriched from strategies CSV via Claude
+* **Enrich**: Faded Worked Examples — enriched from strategies CSV via Claude
+* **Enrich**: Family Literacy Nights — enriched from strategies CSV via Claude
+* **Enrich**: Family Literacy Engagement — enriched from strategies CSV via Claude
+* **Enrich**: Flashcard Drill — enriched from strategies CSV via Claude
+* **Enrich**: Formative Assessment Cycles — enriched from strategies CSV via Claude
+* **Enrich**: Games For Fluency Practice — enriched from strategies CSV via Claude
+* **Enrich**: Explicit Writing Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Formative Feedback Loops — enriched from strategies CSV via Claude
+* **Enrich**: Formative Self Assessment — enriched from strategies CSV via Claude
+* **Enrich**: Goal Setting With Students — enriched from strategies CSV via Claude
+* **Enrich**: Group Contingency — enriched from strategies CSV via Claude
+* **Enrich**: Genius_Hour_20_Time — enriched from strategies CSV via Claude
+* **Enrich**: Goal Setting In Writing — enriched from strategies CSV via Claude
+* **Enrich**: Front Loading Vocabulary — enriched from strategies CSV via Claude
+* **Enrich**: Guided Notes — enriched from strategies CSV via Claude
+* **Enrich**: Grading For Equity — enriched from strategies CSV via Claude
+* **Enrich**: Group Points System — enriched from strategies CSV via Claude
+* **Enrich**: Guided Writing — enriched from strategies CSV via Claude
+* **Enrich**: Home Visiting — enriched from strategies CSV via Claude
+* **Enrich**: Home Visits — enriched from strategies CSV via Claude
+* **Enrich**: Help Seeking — enriched from strategies CSV via Claude
+* **Enrich**: High Probability Request Sequences — enriched from strategies CSV via Claude
+* **Enrich**: I Notice I Wonder — enriched from strategies CSV via Claude
+* **Enrich**: Icebreakers And Introductions — enriched from strategies CSV via Claude
+* **Enrich**: I Used To Think Now I Think — enriched from strategies CSV via Claude
+* **Enrich**: Ideal Problem Solving — enriched from strategies CSV via Claude
+* **Enrich**: Instructor Feedback Loops — enriched from strategies CSV via Claude
+* **Enrich**: Instructional Coaching — enriched from strategies CSV via Claude
+* **Enrich**: Incremental Rehearsal — enriched from strategies CSV via Claude
+* **Enrich**: Instructor Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Individual Rotation — enriched from strategies CSV via Claude
+* **Enrich**: Interleaved Practice — enriched from strategies CSV via Claude
+* **Enrich**: Keyboarding Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Just In Time Learning — enriched from strategies CSV via Claude
+* **Enrich**: Laboratory Reports — enriched from strategies CSV via Claude
+* **Enrich**: Learning Students Names — enriched from strategies CSV via Claude
+* **Enrich**: Learning Clubs — enriched from strategies CSV via Claude
+* **Enrich**: Learner And Context Analysis — enriched from strategies CSV via Claude
+* **Enrich**: Lab Rotation — enriched from strategies CSV via Claude
+* **Enrich**: Keyword Mnemonic — enriched from strategies CSV via Claude
+* **Enrich**: Literacy Rich Environment — enriched from strategies CSV via Claude
+* **Enrich**: Learning Through Play — enriched from strategies CSV via Claude
+* **Enrich**: Learning Menus — enriched from strategies CSV via Claude
+* **Enrich**: Media Literacy Education — enriched from strategies CSV via Claude
+* **Enrich**: Makerspaces — enriched from strategies CSV via Claude
+* **Enrich**: Miscue Analysis — enriched from strategies CSV via Claude
+* **Enrich**: Modeled Writing — enriched from strategies CSV via Claude
+* **Enrich**: Montessori_Prepared_Environment — enriched from strategies CSV via Claude
+* **Enrich**: Math Anxiety Reduction — enriched from strategies CSV via Claude
+* **Enrich**: Mini Lessons — enriched from strategies CSV via Claude
+* **Enrich**: Morphology Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Mindfulness Practice — enriched from strategies CSV via Claude
+* **Enrich**: Modality — enriched from strategies CSV via Claude
+* **Enrich**: Movement Based Learning — enriched from strategies CSV via Claude
+* **Enrich**: Mood Meter Check In — enriched from strategies CSV via Claude
+* **Enrich**: One Minute Papers — enriched from strategies CSV via Claude
+* **Enrich**: Offline Learning Packets — enriched from strategies CSV via Claude
+* **Enrich**: Muddiest Point — enriched from strategies CSV via Claude
+* **Enrich**: Pals_Peer Assisted Learning Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Multisensory Handwriting Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Open Ended Questioning — enriched from strategies CSV via Claude
+* **Enrich**: Pacing — enriched from strategies CSV via Claude
+* **Enrich**: Paired Repeated Reading — enriched from strategies CSV via Claude
+* **Enrich**: Paired Reading — enriched from strategies CSV via Claude
+* **Enrich**: Positive Greetings At The Door — enriched from strategies CSV via Claude
+* **Enrich**: Peer Mediated Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Performance Support Job Aids — enriched from strategies CSV via Claude
+* **Enrich**: Multisensory Phonics Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Performance Task Design — enriched from strategies CSV via Claude
+* **Enrich**: Phonemic Awareness Blending And Segmenting — enriched from strategies CSV via Claude
+* **Enrich**: Positive Narration — enriched from strategies CSV via Claude
+* **Enrich**: Praise — enriched from strategies CSV via Claude
+* **Enrich**: Positive Phone Calls Home — enriched from strategies CSV via Claude
+* **Enrich**: Pre Training — enriched from strategies CSV via Claude
+* **Enrich**: Pre Questioning — enriched from strategies CSV via Claude
+* **Enrich**: Positive Self Talk Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Positive Self Talk Reframing — enriched from strategies CSV via Claude
+* **Enrich**: Positive Teacher Student Relationships — enriched from strategies CSV via Claude
+* **Enrich**: Process Praise — enriched from strategies CSV via Claude
+* **Enrich**: Provide_Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Proximity Management — enriched from strategies CSV via Claude
+* **Enrich**: Precision Requests — enriched from strategies CSV via Claude
+* **Enrich**: Readers Theatre — enriched from strategies CSV via Claude
+* **Enrich**: Providing_Multiple_Means_Of_Representation — enriched from strategies CSV via Claude
+* **Enrich**: Reciprocal Peer Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Quick Look Cards — enriched from strategies CSV via Claude
+* **Enrich**: Quick Images — enriched from strategies CSV via Claude
+* **Enrich**: Random Calling Name Cards — enriched from strategies CSV via Claude
+* **Enrich**: Racial Equity In Pbl Build Community Through Shared Ownership — enriched from strategies CSV via Claude
+* **Enrich**: Reflection — enriched from strategies CSV via Claude
+* **Enrich**: Relationship Building — enriched from strategies CSV via Claude
+* **Enrich**: Restorative Practices — enriched from strategies CSV via Claude
+* **Enrich**: Reading Writing Connection — enriched from strategies CSV via Claude
+* **Enrich**: Refutation Texts — enriched from strategies CSV via Claude
+* **Enrich**: Retrieval Practice Activities — enriched from strategies CSV via Claude
+* **Enrich**: Reframing Self Talk — enriched from strategies CSV via Claude
+* **Enrich**: Retrieval Practice Openers — enriched from strategies CSV via Claude
+* **Enrich**: Room Positioning — enriched from strategies CSV via Claude
+* **Enrich**: Revision Cycles — enriched from strategies CSV via Claude
+* **Enrich**: Routines And Signals — enriched from strategies CSV via Claude
+* **Enrich**: Rubric Based Self Assessment — enriched from strategies CSV via Claude
+* **Enrich**: Scaffolded Practice Sequences — enriched from strategies CSV via Claude
+* **Enrich**: Routines — enriched from strategies CSV via Claude
+* **Enrich**: Scaffolding In Pbl — enriched from strategies CSV via Claude
+* **Enrich**: Scaffolded Practice — enriched from strategies CSV via Claude
+* **Enrich**: Rubric Based_Self Assessment — enriched from strategies CSV via Claude
+* **Enrich**: Self Evaluation — enriched from strategies CSV via Claude
+* **Enrich**: Scenario Based Training — enriched from strategies CSV via Claude
+* **Enrich**: Rubric Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Search Strategy Scaffolds — enriched from strategies CSV via Claude
+* **Enrich**: Signaling_And_Highlighting — enriched from strategies CSV via Claude
+* **Enrich**: Self Explanation Prompting — enriched from strategies CSV via Claude
+* **Enrich**: Semantic Gradients And Context Clues — enriched from strategies CSV via Claude
+* **Enrich**: Self Monitoring In Writing — enriched from strategies CSV via Claude
+* **Enrich**: Sentence Frames And Starters — enriched from strategies CSV via Claude
+* **Enrich**: Signaling — enriched from strategies CSV via Claude
+* **Enrich**: Self Regulated Learning Strategy Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Sort And Classify — enriched from strategies CSV via Claude
+* **Enrich**: Spaced Practice Scheduling — enriched from strategies CSV via Claude
+* **Enrich**: Social Emotional Learning Integration — enriched from strategies CSV via Claude
+* **Enrich**: Sourcing — enriched from strategies CSV via Claude
+* **Enrich**: Spelling Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Spaced Scheduling — enriched from strategies CSV via Claude
+* **Enrich**: Source Evaluation — enriched from strategies CSV via Claude
+* **Enrich**: Storytelling — enriched from strategies CSV via Claude
+* **Enrich**: Social Norms Marketing — enriched from strategies CSV via Claude
+* **Enrich**: Structured Peer Discussion Roles — enriched from strategies CSV via Claude
+* **Enrich**: Subitizing Activities — enriched from strategies CSV via Claude
+* **Enrich**: Syllable Division Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Teach Self Regulation Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Take Home Book Bags — enriched from strategies CSV via Claude
+* **Enrich**: Story Retelling — enriched from strategies CSV via Claude
+* **Enrich**: Success Criteria Co Construction — enriched from strategies CSV via Claude
+* **Enrich**: Srsd Self Regulated Strategy Development — enriched from strategies CSV via Claude
+* **Enrich**: Systematic Phonics Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Team Based Learning — enriched from strategies CSV via Claude
+* **Enrich**: Test Anxiety Reduction — enriched from strategies CSV via Claude
+* **Enrich**: Text To Speech Technology — enriched from strategies CSV via Claude
+* **Enrich**: Teaching Metacognitive Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Text Marking And Highlighting — enriched from strategies CSV via Claude
+* **Enrich**: Team_Contracts — enriched from strategies CSV via Claude
+* **Enrich**: Tiered Assignments — enriched from strategies CSV via Claude
+* **Enrich**: Time Boxing — enriched from strategies CSV via Claude
+* **Enrich**: Text Talk Interactive Read Aloud — enriched from strategies CSV via Claude
+* **Enrich**: Think Aloud_Modeling — enriched from strategies CSV via Claude
+* **Enrich**: Three Phase_Lesson — enriched from strategies CSV via Claude
+* **Enrich**: Three Act Tasks — enriched from strategies CSV via Claude
+* **Enrich**: Use Advance Organizers — enriched from strategies CSV via Claude
+* **Enrich**: Timers_And_Pacing — enriched from strategies CSV via Claude
+* **Enrich**: Timed Writing Sprints — enriched from strategies CSV via Claude
+* **Enrich**: Timed Fact Fluency Drills — enriched from strategies CSV via Claude
+* **Enrich**: Token Economies — enriched from strategies CSV via Claude
+* **Enrich**: Use_Concrete_Examples — enriched from strategies CSV via Claude
+* **Enrich**: Use Visual Aids — enriched from strategies CSV via Claude
+* **Enrich**: Use Analogies — enriched from strategies CSV via Claude
+* **Enrich**: Value Affirmation — enriched from strategies CSV via Claude
+* **Enrich**: Use Rubrics And Exemplars — enriched from strategies CSV via Claude
+* **Enrich**: Virtual Reality Simulations — enriched from strategies CSV via Claude
+* **Enrich**: Virtual Reality Training — enriched from strategies CSV via Claude
+* **Enrich**: Use_Retrieval_Practice — enriched from strategies CSV via Claude
+* **Enrich**: Use_Mastery_Learning — enriched from strategies CSV via Claude
+* **Enrich**: Video Based Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Word Of The Week — enriched from strategies CSV via Claude
+* **Enrich**: Visual Schedules — enriched from strategies CSV via Claude
+* **Enrich**: Visual Supports — enriched from strategies CSV via Claude
+* **Enrich**: Withitness — enriched from strategies CSV via Claude
+* **Enrich**: Worked Examples First — enriched from strategies CSV via Claude
+* **Enrich**: Whole Task Practice — enriched from strategies CSV via Claude
+* **Enrich**: Word Prediction Software — enriched from strategies CSV via Claude
+* **Enrich**: Written Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Word Study Developmental Spelling — enriched from strategies CSV via Claude
+* **Enrich**: Writing To Learn — enriched from strategies CSV via Claude
+* **Enrich**: Zoom In — enriched from strategies CSV via Claude
+* **Enrich**: Timely Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Distributed Practice — enriched from strategies CSV via Claude
+* **Enrich**: Find the Total — enriched from strategies CSV via Claude
+* **Enrich**: Explicit Teaching — enriched from strategies CSV via Claude
+* **Enrich**: Cumulative Review — enriched from strategies CSV via Claude
+* **Enrich**: Physical Activity Breaks — enriched from strategies CSV via Claude
+* **Enrich**: Attention Signals — enriched from strategies CSV via Claude
+* **Enrich**: Collaborative Writing — enriched from strategies CSV via Claude
+* **Enrich**: See, Think, Wonder — enriched from strategies CSV via Claude
+* **Enrich**: KWL Chart — enriched from strategies CSV via Claude
+* **Enrich**: Word Study — enriched from strategies CSV via Claude
+* **Enrich**: Partner Reading — enriched from strategies CSV via Claude
+* **Enrich**: Self-Monitoring of Behavior — enriched from strategies CSV via Claude
+* **Enrich**: CRAAP Test — enriched from strategies CSV via Claude
+* **Enrich**: Shared Writing — enriched from strategies CSV via Claude
+* **Enrich**: Word Sorts — enriched from strategies CSV via Claude
+* **Enrich**: Morphological Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Fostering Self-Advocacy and Self-Determination — enriched from strategies CSV via Claude
+* **Enrich**: Flipped Learning — enriched from strategies CSV via Claude
+* **Enrich**: Experiential Learning Cycle — enriched from patterns CSV via Claude
+* **Enrich**: Team Based Learning — enriched from patterns CSV via Claude
+* **Enrich**: Authentic Assessment — enriched from patterns CSV via Claude
+* **Enrich**: Constructive Alignment — enriched from patterns CSV via Claude
+* **Enrich**: Responsive Classroom — enriched from patterns CSV via Claude
+* **Enrich**: Concept Attainment — enriched from patterns CSV via Claude
+* **Enrich**: 5E Learning Cycle — enriched from patterns CSV via Claude
+* **Enrich**: Data Wise Improvement Process — enriched from patterns CSV via Claude
+* **Enrich**: Automaticity — enriched from elements CSV via Claude
+* **Enrich**: Exercise Breaks — enriched from elements CSV via Claude
+* **Enrich**: Exemplars — enriched from elements CSV via Claude
+* **Enrich**: Attention — enriched from elements CSV via Claude
+* **Enrich**: Elaboration — enriched from elements CSV via Claude
+* **Enrich**: Belonging — enriched from elements CSV via Claude
+* **Enrich**: Concept Map — enriched from elements CSV via Claude
+* **Enrich**: Feelings Vocabulary — enriched from elements CSV via Claude
+* **Enrich**: Generation — enriched from elements CSV via Claude
+* **Enrich**: Practice Testing — enriched from elements CSV via Claude
+* **Enrich**: Observation Shadowing — enriched from elements CSV via Claude
+* **Enrich**: Conceptest — enriched from elements CSV via Claude
+* **Enrich**: Learning Objectives — enriched from elements CSV via Claude
+* **Enrich**: Proximity — enriched from elements CSV via Claude
+* **Enrich**: Hypothesis Testing — enriched from elements CSV via Claude
+* **Enrich**: Reinforcement — enriched from elements CSV via Claude
+* **Enrich**: Retrieval — enriched from elements CSV via Claude
+* **Enrich**: Review And Summarizing — enriched from elements CSV via Claude
+* **Enrich**: Probing — enriched from elements CSV via Claude
+* **Enrich**: Rubric — enriched from elements CSV via Claude
+* **Enrich**: Elaborative Reasoning — enriched from principles CSV via Claude
+* **Enrich**: Cooperative Learning — enriched from principles CSV via Claude
+* **Enrich**: Considering The Opposite — enriched from principles CSV via Claude
+* **Enrich**: Disciplinary Literacy — enriched from principles CSV via Claude
+* **Enrich**: Attribution Retraining — enriched from strategies CSV via Claude
+* **Enrich**: Augmented Reality (AR) for Manufacturing Training — enriched from strategies CSV via Claude
+* **Enrich**: Audio Commentary — enriched from strategies CSV via Claude
+* **Enrich**: Authentic Writing Tasks — enriched from strategies CSV via Claude
+* **Enrich**: Anticipation_Guide — enriched from strategies CSV via Claude
+* **Enrich**: Awareness of Self-Talk — enriched from strategies CSV via Claude
+* **Enrich**: Augmented Reality (AR) for Space Industry Training — enriched from strategies CSV via Claude
+* **Enrich**: Balanced Assessment System — enriched from strategies CSV via Claude
+* **Enrich**: Augmented Reality (AR) for Military Training — enriched from strategies CSV via Claude
+* **Enrich**: Balancing Homework with Physical Activity — enriched from strategies CSV via Claude
+* **Enrich**: Authors_Chair — enriched from strategies CSV via Claude
+* **Enrich**: Augmented Reality (AR) in Classroom — enriched from strategies CSV via Claude
+* **Enrich**: Audiobooks for Literacy Reinforcement — enriched from strategies CSV via Claude
+* **Enrich**: Behavior Specific Praise — enriched from strategies CSV via Claude
+* **Enrich**: Behavioral Shadowing — enriched from strategies CSV via Claude
+* **Enrich**: Be Present for Students — enriched from strategies CSV via Claude
+* **Enrich**: Belonging_Interventions — enriched from strategies CSV via Claude
+* **Enrich**: Blackout Conversation — enriched from strategies CSV via Claude
+* **Enrich**: Blended Learning — enriched from strategies CSV via Claude
+* **Enrich**: Balancing Screen Time with Physical Activity — enriched from strategies CSV via Claude
+* **Enrich**: Braille Texts for Literacy Development — enriched from strategies CSV via Claude
+* **Enrich**: Brain-Based Learning Activities — enriched from strategies CSV via Claude
+* **Enrich**: Barometer Taking A Stand On Controversial Issues — enriched from strategies CSV via Claude
+* **Enrich**: Brain-Based Learning with Movement Breaks — enriched from strategies CSV via Claude
+* **Enrich**: Boolean Operators — enriched from strategies CSV via Claude
+* **Enrich**: Bridging Individualism and Collectivism — enriched from strategies CSV via Claude
+* **Enrich**: Brainstorming — enriched from strategies CSV via Claude
+* **Enrich**: Brain-Based Classroom Redesign — enriched from strategies CSV via Claude
+* **Enrich**: Bring Something From Home — enriched from strategies CSV via Claude
+* **Enrich**: Breathing Exercises — enriched from strategies CSV via Claude
+* **Enrich**: Brainstorming 'Stuff We Want to Know About — enriched from strategies CSV via Claude
+* **Enrich**: Building Trusting Relationships — enriched from strategies CSV via Claude
+* **Enrich**: Bright Spaces with Plenty of Light and Air — enriched from strategies CSV via Claude
+* **Enrich**: Calm-Down Corner — enriched from strategies CSV via Claude
+* **Enrich**: Build Relationships with Each Student — enriched from strategies CSV via Claude
+* **Enrich**: Building a Supportive Classroom Environment for Mistakes — enriched from strategies CSV via Claude
+* **Enrich**: Calming Auditory Input — enriched from strategies CSV via Claude
+* **Enrich**: Building Community Through Peer Feedback in PBL — enriched from strategies CSV via Claude
+* **Enrich**: Bystander_Intervention_Training — enriched from strategies CSV via Claude
+* **Enrich**: Case Based Discussion — enriched from strategies CSV via Claude
+* **Enrich**: Calming Visual Input — enriched from strategies CSV via Claude
+* **Enrich**: Calming Movement — enriched from strategies CSV via Claude
+* **Enrich**: Calming Sensory Input — enriched from strategies CSV via Claude
+* **Enrich**: Calming Proprioceptive Input — enriched from strategies CSV via Claude
+* **Enrich**: Check In Check Out — enriched from strategies CSV via Claude
+* **Enrich**: Chalkboard Math App — enriched from strategies CSV via Claude
+* **Enrich**: Check In Activities — enriched from strategies CSV via Claude
+* **Enrich**: Check In_Routines — enriched from strategies CSV via Claude
+* **Enrich**: Checklists & Rubrics — enriched from strategies CSV via Claude
+* **Enrich**: Chart-Based Retrieval and Spaced Practice — enriched from strategies CSV via Claude
+* **Enrich**: Choral Reading — enriched from strategies CSV via Claude
+* **Enrich**: Choral_Reading — enriched from strategies CSV via Claude
+* **Enrich**: Checklists And Visual Schedules — enriched from strategies CSV via Claude
+* **Enrich**: Choice Boards — enriched from strategies CSV via Claude
+* **Enrich**: Chunk Directions — enriched from strategies CSV via Claude
+* **Enrich**: Choral Counting — enriched from strategies CSV via Claude
+* **Enrich**: Clarification of Vocabulary, Symbols, and Language Structures — enriched from strategies CSV via Claude
+* **Enrich**: Circle Time Emotions — enriched from strategies CSV via Claude
+* **Enrich**: Classroom Norms Co Construction — enriched from strategies CSV via Claude
+* **Enrich**: Classroom Design For Engagement — enriched from strategies CSV via Claude
+* **Enrich**: Chunking Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Classroom Physical Activity Integration — enriched from strategies CSV via Claude
+* **Enrich**: Class Meetings — enriched from strategies CSV via Claude
+* **Enrich**: Classroom Library Curation — enriched from strategies CSV via Claude
+* **Enrich**: Classroom Routines — enriched from strategies CSV via Claude
+* **Enrich**: Close Reading — enriched from strategies CSV via Claude
+* **Enrich**: Classroom Routines — enriched from strategies CSV via Claude
+* **Enrich**: Classroom Library — enriched from strategies CSV via Claude
+* **Enrich**: Classwide Peer Editing — enriched from strategies CSV via Claude
+* **Enrich**: Classroom Seating Arrangements — enriched from strategies CSV via Claude
+* **Enrich**: Co Construct_Rubrics — enriched from strategies CSV via Claude
+* **Enrich**: Collaborative Group Work — enriched from strategies CSV via Claude
+* **Enrich**: Co-constructing Knowledge — enriched from strategies CSV via Claude
+* **Enrich**: Cold Call — enriched from strategies CSV via Claude
+* **Enrich**: Co Constructing Norms — enriched from strategies CSV via Claude
+* **Enrich**: Cold Calling — enriched from strategies CSV via Claude
+* **Enrich**: Collaborative Group Work in PBL — enriched from strategies CSV via Claude
+* **Enrich**: Collective Data Analysis — enriched from strategies CSV via Claude
+* **Enrich**: Collaborative Learning Space Design — enriched from strategies CSV via Claude
+* **Enrich**: Collaborative Storytelling — enriched from strategies CSV via Claude
+* **Enrich**: Collaborative Margin Comments — enriched from strategies CSV via Claude
+* **Enrich**: Collaborative Peer Review — enriched from strategies CSV via Claude
+* **Enrich**: Common Ground Group Assignments — enriched from strategies CSV via Claude
+* **Enrich**: Common Language for Multimodal Composition — enriched from strategies CSV via Claude
+* **Enrich**: Communicate Quickly and Easily Through Mobile Apps — enriched from strategies CSV via Claude
+* **Enrich**: Collaborative Writing with Online Platforms — enriched from strategies CSV via Claude
+* **Enrich**: Color Coded Text Marking — enriched from strategies CSV via Claude
+* **Enrich**: Color-Coded Supplies — enriched from strategies CSV via Claude
+* **Enrich**: Combination of Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Community Building — enriched from strategies CSV via Claude
+* **Enrich**: Competency Based Learning — enriched from strategies CSV via Claude
+* **Enrich**: Communication Boards — enriched from strategies CSV via Claude
+* **Enrich**: Complete Scripts of Academic Routines — enriched from strategies CSV via Claude
+* **Enrich**: Community Involvement — enriched from strategies CSV via Claude
+* **Enrich**: Comparing Multiple Solution Methods — enriched from strategies CSV via Claude
+* **Enrich**: Completion Problems — enriched from strategies CSV via Claude
+* **Enrich**: Compare and Contrast Sources — enriched from strategies CSV via Claude
+* **Enrich**: Composition Projects Multimodal — enriched from strategies CSV via Claude
+* **Enrich**: Compassionate Curiosity — enriched from strategies CSV via Claude
+* **Enrich**: Concept Discovery Through Examples and Non-examples — enriched from strategies CSV via Claude
+* **Enrich**: Complex Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Compound Word Study — enriched from strategies CSV via Claude
+* **Enrich**: Comprehension Monitoring — enriched from strategies CSV via Claude
+* **Enrich**: Concrete Representational Abstract Sequencing — enriched from strategies CSV via Claude
+* **Enrich**: Concept Mapping — enriched from strategies CSV via Claude
+* **Enrich**: Confront Fears — enriched from strategies CSV via Claude
+* **Enrich**: Conflict De Escalation — enriched from strategies CSV via Claude
+* **Enrich**: Concrete-Representational-Abstract (CRA) — enriched from strategies CSV via Claude
+* **Enrich**: Concrete Representational Abstract — enriched from strategies CSV via Claude
+* **Enrich**: Confidence Based Quizzing — enriched from strategies CSV via Claude
+* **Enrich**: Connect Prior Knowledge to New Learning — enriched from strategies CSV via Claude
+* **Enrich**: Connecting Languages — enriched from strategies CSV via Claude
+* **Enrich**: Connecting ELLs' Background Knowledge to Content — enriched from strategies CSV via Claude
+* **Enrich**: Connecting Struggles to Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Connecting Emotions to Actions — enriched from strategies CSV via Claude
+* **Enrich**: Connecting New Vocabulary to Texts — enriched from strategies CSV via Claude
+* **Enrich**: Connect Writing to Real-World Applications — enriched from strategies CSV via Claude
+* **Enrich**: Content Word Signal — enriched from strategies CSV via Claude
+* **Enrich**: Content-Related Signal Word — enriched from strategies CSV via Claude
+* **Enrich**: Connection of Prior Knowledge to New Learning — enriched from strategies CSV via Claude
+* **Enrich**: Consider the News Source — enriched from strategies CSV via Claude
+* **Enrich**: Content-Focused Questioning — enriched from strategies CSV via Claude
+* **Enrich**: Consider Your Own Identity — enriched from strategies CSV via Claude
+* **Enrich**: Constructive Decision-Making Process — enriched from strategies CSV via Claude
+* **Enrich**: Context-Specific Journaling — enriched from strategies CSV via Claude
+* **Enrich**: Contract_Grading — enriched from strategies CSV via Claude
+* **Enrich**: Contextual Vocabulary Introduction — enriched from strategies CSV via Claude
+* **Enrich**: Cooperative Learning — enriched from strategies CSV via Claude
+* **Enrich**: Cooperative Teaching — enriched from strategies CSV via Claude
+* **Enrich**: Conversations about Emotions and Social Issues — enriched from strategies CSV via Claude
+* **Enrich**: Cooperative Learning Activities — enriched from strategies CSV via Claude
+* **Enrich**: Create a List of Positive Self-Talk Statements — enriched from strategies CSV via Claude
+* **Enrich**: Create Space for Students to Reflect — enriched from strategies CSV via Claude
+* **Enrich**: Counting Collections — enriched from strategies CSV via Claude
+* **Enrich**: Create a Character Profile — enriched from strategies CSV via Claude
+* **Enrich**: Create a Calm-Down Corner — enriched from strategies CSV via Claude
+* **Enrich**: Create a Word Wall for Emotions — enriched from strategies CSV via Claude
+* **Enrich**: Creating a Strengths-Based Culture — enriched from strategies CSV via Claude
+* **Enrich**: Creating a Common Language for Multimodal Composition — enriched from strategies CSV via Claude
+* **Enrich**: Contrasting Cases — enriched from strategies CSV via Claude
+* **Enrich**: Creating Space for Student Reflection in PBL — enriched from strategies CSV via Claude
+* **Enrich**: Creating Beautiful Spaces in PBL — enriched from strategies CSV via Claude
+* **Enrich**: Creating a Digital Library Section for SEL Topics — enriched from strategies CSV via Claude
+* **Enrich**: Creating a Culture of Error — enriched from strategies CSV via Claude
+* **Enrich**: Creating Questions — enriched from strategies CSV via Claude
+* **Enrich**: Cross Age Tutoring — enriched from strategies CSV via Claude
+* **Enrich**: Creative Analogies and Comparisons — enriched from strategies CSV via Claude
+* **Enrich**: Creative Writing — enriched from strategies CSV via Claude
+* **Enrich**: Cross-Curricular Art Integration — enriched from strategies CSV via Claude
+* **Enrich**: Critical Friends Protocol — enriched from strategies CSV via Claude
+* **Enrich**: Critical Response Process — enriched from strategies CSV via Claude
+* **Enrich**: Cultivate Multiple Ways of Knowing and Making Meaning — enriched from strategies CSV via Claude
+* **Enrich**: Cross-Grade-Level Tutoring — enriched from strategies CSV via Claude
+* **Enrich**: Cultivation of Understanding and Respect Across Languages and Dialects — enriched from strategies CSV via Claude
+* **Enrich**: Cultivation of Multiple Ways of Knowing and Making Meaning — enriched from strategies CSV via Claude
+* **Enrich**: Cultural Exchange Kits — enriched from strategies CSV via Claude
+* **Enrich**: Culturally Competent Family Engagement — enriched from strategies CSV via Claude
+* **Enrich**: Cultivate Understanding and Respect Across Languages and Dialects — enriched from strategies CSV via Claude
+* **Enrich**: Curriculum Based Measurement — enriched from strategies CSV via Claude
+* **Enrich**: Culture Responsive Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Customizable Display of Information — enriched from strategies CSV via Claude
+* **Enrich**: Customizing Display of Information — enriched from strategies CSV via Claude
+* **Enrich**: Culturally Responsive Instruction (CREATE Model) — enriched from strategies CSV via Claude
+* **Enrich**: Daily Class Schedules — enriched from strategies CSV via Claude
+* **Enrich**: Culturally Responsive Practice — enriched from strategies CSV via Claude
+* **Enrich**: Culturally Responsive Teaching — enriched from strategies CSV via Claude
+* **Enrich**: Data Driven Inquiry — enriched from strategies CSV via Claude
+* **Enrich**: Daily Review — enriched from strategies CSV via Claude
+* **Enrich**: Data Driven Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Dealing with Feelings — enriched from strategies CSV via Claude
+* **Enrich**: Debate for the Opposite Team — enriched from strategies CSV via Claude
+* **Enrich**: Daytime Blue Light Exposure — enriched from strategies CSV via Claude
+* **Enrich**: Debriefing — enriched from strategies CSV via Claude
+* **Enrich**: Decoding Drills — enriched from strategies CSV via Claude
+* **Enrich**: Debriefing Emotional Experiences — enriched from strategies CSV via Claude
+* **Enrich**: Daily Math Facts Practice — enriched from strategies CSV via Claude
+* **Enrich**: Decodable_Text_Reading — enriched from strategies CSV via Claude
+* **Enrich**: Define and Apply Ethical Responsibility — enriched from strategies CSV via Claude
+* **Enrich**: Demonstration-Based Flipped Classroom — enriched from strategies CSV via Claude
+* **Enrich**: Designated Calm-Down Spot — enriched from strategies CSV via Claude
+* **Enrich**: Develop Educator Understanding — enriched from strategies CSV via Claude
+* **Enrich**: Designing Personalized Learning for Engagement — enriched from strategies CSV via Claude
+* **Enrich**: Design at the Margins — enriched from strategies CSV via Claude
+* **Enrich**: Deliberate Play — enriched from strategies CSV via Claude
+* **Enrich**: Design Thinking — enriched from strategies CSV via Claude
+* **Enrich**: Developing a Critical Lens for Multimodal Analysis — enriched from strategies CSV via Claude
+* **Enrich**: Diagram Similarities and Differences — enriched from strategies CSV via Claude
+* **Enrich**: Developing Positive Classroom Pride — enriched from strategies CSV via Claude
+* **Enrich**: Develop Observable Criteria — enriched from strategies CSV via Claude
+* **Enrich**: Digital Noise Monitoring — enriched from strategies CSV via Claude
+* **Enrich**: Digital Publishing — enriched from strategies CSV via Claude
+* **Enrich**: Dictionary & Thesaurus — enriched from strategies CSV via Claude
+* **Enrich**: Dictation/Speech-to-text — enriched from strategies CSV via Claude
+* **Enrich**: Digital Tips for Quick and Thoughtful Peer Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Dim or Natural Lighting — enriched from strategies CSV via Claude
+* **Enrich**: Dimensions of Critical Evaluation — enriched from strategies CSV via Claude
+* **Enrich**: Digital Word Detectives Building Vocabulary With E Book Readers — enriched from strategies CSV via Claude
+* **Enrich**: Direct Instruction Web Based Reading Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Direct Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Digital Word Detectives — enriched from strategies CSV via Claude
+* **Enrich**: Discipline-Specific Reading — enriched from strategies CSV via Claude
+* **Enrich**: Discipline-Specific Literacy — enriched from strategies CSV via Claude
+* **Enrich**: Distributed Practice (Spaced Learning) — enriched from strategies CSV via Claude
+* **Enrich**: Direct Instruction Patterning — enriched from strategies CSV via Claude
+* **Enrich**: Discussion-Oriented Flipped Classroom — enriched from strategies CSV via Claude
+* **Enrich**: Distributed Practice — enriched from strategies CSV via Claude
+* **Enrich**: Discussion Web — enriched from strategies CSV via Claude
+* **Enrich**: Distributed Practice (Spacing Effect) — enriched from strategies CSV via Claude
+* **Enrich**: Do_Now_Bell_Work — enriched from strategies CSV via Claude
+* **Enrich**: Dolch Sight Word List - Cloze Passage Worksheets — enriched from strategies CSV via Claude
+* **Enrich**: Document_Outline_Tool — enriched from strategies CSV via Claude
+* **Enrich**: Dolch Sight Word Lists — enriched from strategies CSV via Claude
+* **Enrich**: Dolch Sight Word List - Word Shape Worksheets — enriched from strategies CSV via Claude
+* **Enrich**: Dolch Sight Word List - Flash Cards — enriched from strategies CSV via Claude
+* **Enrich**: Dot Card Flash — enriched from strategies CSV via Claude
+* **Enrich**: Draw To Explain — enriched from strategies CSV via Claude
+* **Enrich**: Double-Entry Journals — enriched from strategies CSV via Claude
+* **Enrich**: Draw Time When Felt Emotion — enriched from strategies CSV via Claude
+* **Enrich**: Drawing and Memory Enhancement — enriched from strategies CSV via Claude
+* **Enrich**: Drawing and Writing Developmental Stages — enriched from strategies CSV via Claude
+* **Enrich**: Drawing for Early Writing and Reading Development — enriched from strategies CSV via Claude
+* **Enrich**: E.S.C.A.P.E. Junk News — enriched from strategies CSV via Claude
+* **Enrich**: Educational Research Map Visualization — enriched from strategies CSV via Claude
+* **Enrich**: Educational Posters — enriched from strategies CSV via Claude
+* **Enrich**: Effective Materials Management — enriched from strategies CSV via Claude
+* **Enrich**: Effective Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Easy-Access Educational Tools — enriched from strategies CSV via Claude
+* **Enrich**: Elaborative Interrogation — enriched from strategies CSV via Claude
+* **Enrich**: Dynamically Introduce Academic Vocabulary — enriched from strategies CSV via Claude
+* **Enrich**: Eliminate_Group_Grades — enriched from strategies CSV via Claude
+* **Enrich**: Emotion-Based Story Discussions — enriched from strategies CSV via Claude
+* **Enrich**: Emotion-Focused Pretend Play — enriched from strategies CSV via Claude
+* **Enrich**: Emotion Emojis Check-In — enriched from strategies CSV via Claude
+* **Enrich**: Emotion Cue Cards — enriched from strategies CSV via Claude
+* **Enrich**: Emotion Guessing Game — enriched from strategies CSV via Claude
+* **Enrich**: Emotion Password — enriched from strategies CSV via Claude
+* **Enrich**: Emphasize the Value of Learning — enriched from strategies CSV via Claude
+* **Enrich**: Embracing Errors as Learning — enriched from strategies CSV via Claude
+* **Enrich**: Empowering Students as Leaders — enriched from strategies CSV via Claude
+* **Enrich**: Empowering Teachers with EQUIP — enriched from strategies CSV via Claude
+* **Enrich**: Emotion_Vocabulary_Building — enriched from strategies CSV via Claude
+* **Enrich**: Encourage Cooperation — enriched from strategies CSV via Claude
+* **Enrich**: Empowering Students Through Self-Advocacy — enriched from strategies CSV via Claude
+* **Enrich**: Emphasize Time on Task — enriched from strategies CSV via Claude
+* **Enrich**: Errors as Learning Opportunities — enriched from strategies CSV via Claude
+* **Enrich**: Encouraging Help-Seeking Behavior — enriched from strategies CSV via Claude
+* **Enrich**: Engage with Empathy — enriched from strategies CSV via Claude
+* **Enrich**: Erroneous_Examples — enriched from strategies CSV via Claude
+* **Enrich**: Enrichment Through Art and Music — enriched from strategies CSV via Claude
+* **Enrich**: Establish Group Norms — enriched from strategies CSV via Claude
+* **Enrich**: Establishing Discussion Norms — enriched from strategies CSV via Claude
+* **Enrich**: Establishing Routines — enriched from strategies CSV via Claude
+* **Enrich**: Establishing_Classroom_Norms — enriched from strategies CSV via Claude
+* **Enrich**: Establish Guidelines for Discussions — enriched from strategies CSV via Claude
+* **Enrich**: Establishing_Norms_Co Constructively — enriched from strategies CSV via Claude
+* **Enrich**: Establishing_Classroom_Routines — enriched from strategies CSV via Claude
+* **Enrich**: Estimate and Predict — enriched from strategies CSV via Claude
+* **Enrich**: Estimation Activities — enriched from strategies CSV via Claude
+* **Enrich**: Exam_Wrappers — enriched from strategies CSV via Claude
+* **Enrich**: Estimation and Prediction for Self-Awareness — enriched from strategies CSV via Claude
+* **Enrich**: Estimation_Activities — enriched from strategies CSV via Claude
+* **Enrich**: Exit Ticket — enriched from strategies CSV via Claude
+* **Enrich**: Exemplar Analysis — enriched from strategies CSV via Claude
+* **Enrich**: Explicit Vocabulary Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Exercise for Cognitive Enhancement — enriched from strategies CSV via Claude
+* **Enrich**: Exhibition Of Learning — enriched from strategies CSV via Claude
+* **Enrich**: Explicit Teacher Modeling — enriched from strategies CSV via Claude
+* **Enrich**: Express Confidence in Learners — enriched from strategies CSV via Claude
+* **Enrich**: Explicit Conversations about Emotions and Social Issues — enriched from strategies CSV via Claude
+* **Enrich**: Expository Advance Organizers — enriched from strategies CSV via Claude
+* **Enrich**: Explicit Teaching — enriched from strategies CSV via Claude
+* **Enrich**: Expressive Outlets — enriched from strategies CSV via Claude
+* **Enrich**: Facilitating Learning — enriched from strategies CSV via Claude
+* **Enrich**: Explicit Strategy Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Explicit and Systematic Writing Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Fact Checking — enriched from strategies CSV via Claude
+* **Enrich**: Familiar, Quiet, and Repetitive Tasks — enriched from strategies CSV via Claude
+* **Enrich**: Fair Communication Anchor Charts — enriched from strategies CSV via Claude
+* **Enrich**: Facilitating Difficult Dialogues — enriched from strategies CSV via Claude
+* **Enrich**: Feedback Format — enriched from strategies CSV via Claude
+* **Enrich**: Family Engagement — enriched from strategies CSV via Claude
+* **Enrich**: Feelings Ring Around the Rosie — enriched from strategies CSV via Claude
+* **Enrich**: Fidget Tools — enriched from strategies CSV via Claude
+* **Enrich**: Field Journals — enriched from strategies CSV via Claude
+* **Enrich**: Feelings_Check In — enriched from strategies CSV via Claude
+* **Enrich**: Family Engagement Supporting Children With Disabilities — enriched from strategies CSV via Claude
+* **Enrich**: Family Literacy Programs — enriched from strategies CSV via Claude
+* **Enrich**: Family Engagement In Homework — enriched from strategies CSV via Claude
+* **Enrich**: Extended Writing Opportunities — enriched from strategies CSV via Claude
+* **Enrich**: Find the Total — enriched from strategies CSV via Claude
+* **Enrich**: Flashcard_Drill — enriched from strategies CSV via Claude
+* **Enrich**: Five High Fives — enriched from strategies CSV via Claude
+* **Enrich**: Five-Stage Problem-Solving Model — enriched from strategies CSV via Claude
+* **Enrich**: Flipped Classroom — enriched from strategies CSV via Claude
+* **Enrich**: Fidget Utilization Protocol — enriched from strategies CSV via Claude
+* **Enrich**: Find the Difference — enriched from strategies CSV via Claude
+* **Enrich**: Follow-Up After Disciplining a Student — enriched from strategies CSV via Claude
+* **Enrich**: Follow-up After Discussions — enriched from strategies CSV via Claude
+* **Enrich**: Formative Assessment Loops — enriched from strategies CSV via Claude
+* **Enrich**: Formative Feedback Routines — enriched from strategies CSV via Claude
+* **Enrich**: Flexible Seating — enriched from strategies CSV via Claude
+* **Enrich**: Frayer Model — enriched from strategies CSV via Claude
+* **Enrich**: Fostering Student Self-Knowledge — enriched from strategies CSV via Claude
+* **Enrich**: Focus on the Question They Answered Correctly — enriched from strategies CSV via Claude
+* **Enrich**: Focus Projects on Issues of Justice — enriched from strategies CSV via Claude
+* **Enrich**: Free Choice Time Student Directed Learning — enriched from strategies CSV via Claude
+* **Enrich**: Follow Up After Discussions About Race — enriched from strategies CSV via Claude
+* **Enrich**: Fostering Self-Advocacy and Self-Determination — enriched from strategies CSV via Claude
+* **Enrich**: Free Choice Time — enriched from strategies CSV via Claude
+* **Enrich**: Free Math Worksheets — enriched from strategies CSV via Claude
+* **Enrich**: Frayer_Model — enriched from strategies CSV via Claude
+* **Enrich**: Free Writing — enriched from strategies CSV via Claude
+* **Enrich**: Functional_Behavioral_Assessment — enriched from strategies CSV via Claude
+* **Enrich**: Frequent Low Stakes Testing — enriched from strategies CSV via Claude
+* **Enrich**: Four Moves — enriched from strategies CSV via Claude
+* **Enrich**: Genre Study — enriched from strategies CSV via Claude
+* **Enrich**: Game-Based Learning (GBL) — enriched from strategies CSV via Claude
+* **Enrich**: Frequent, Low-Stakes Quizzes — enriched from strategies CSV via Claude
+* **Enrich**: Fry Word Lists — enriched from strategies CSV via Claude
+* **Enrich**: Game-Based Incentives for Quiet — enriched from strategies CSV via Claude
+* **Enrich**: Game Based Review — enriched from strategies CSV via Claude
+* **Enrich**: Free Play — enriched from strategies CSV via Claude
+* **Enrich**: Gamified Practice — enriched from strategies CSV via Claude
+* **Enrich**: Give Prompt Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Goal Setting Conferences — enriched from strategies CSV via Claude
+* **Enrich**: GoNoodle Activities — enriched from strategies CSV via Claude
+* **Enrich**: Gradual Release of Responsibility in Multimodal Composition — enriched from strategies CSV via Claude
+* **Enrich**: Good Behavior Game — enriched from strategies CSV via Claude
+* **Enrich**: Grade Students Based on Demonstrated Learning — enriched from strategies CSV via Claude
+* **Enrich**: Gradual Release Of Responsibility — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Organizers as Text Illustrations — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Organizers and Guided Notes (Processing Speed) — enriched from strategies CSV via Claude
+* **Enrich**: Goal_Setting — enriched from strategies CSV via Claude
+* **Enrich**: Gradual_Release_Of_Responsibility — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Organizers/Guided Notes — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Organizers — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Organizers and Visual Aids (for Attention) — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Organizers as Thinking Tools — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Organizers for Lecture Support — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Organizers for Math — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Organizers for Classroom Management — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Organizers for Note-Taking — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Organizers for Pre-Reading — enriched from strategies CSV via Claude
+* **Enrich**: Group-Based Flipped Classroom — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Organizers for Unit Planning — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Organizers for Pre-Writing — enriched from strategies CSV via Claude
+* **Enrich**: Growth Mindset Interventions — enriched from strategies CSV via Claude
+* **Enrich**: Gratitude_Journals — enriched from strategies CSV via Claude
+* **Enrich**: Guided Reading — enriched from strategies CSV via Claude
+* **Enrich**: Greek And Latin Number Prefixes — enriched from strategies CSV via Claude
+* **Enrich**: Guided Discovery with Word Sorting — enriched from strategies CSV via Claude
+* **Enrich**: Group Contingencies — enriched from strategies CSV via Claude
+* **Enrich**: Guided Peer Response using PeerMark™ — enriched from strategies CSV via Claude
+* **Enrich**: Hands On_Laboratory_Procedures — enriched from strategies CSV via Claude
+* **Enrich**: Handwriting Fluency Practice — enriched from strategies CSV via Claude
+* **Enrich**: Growth Mindset Framing — enriched from strategies CSV via Claude
+* **Enrich**: Guided Math — enriched from strategies CSV via Claude
+* **Enrich**: Guide Student Reflection — enriched from strategies CSV via Claude
+* **Enrich**: Growth Mindset Development — enriched from strategies CSV via Claude
+* **Enrich**: Health and Dietary Planning — enriched from strategies CSV via Claude
+* **Enrich**: Highlight Math Vocabulary — enriched from strategies CSV via Claude
+* **Enrich**: Hexagonal Thinking — enriched from strategies CSV via Claude
+* **Enrich**: Have explicit conversations about emotions and social issues, including issues of social justice — enriched from strategies CSV via Claude
+* **Enrich**: Hot Seat — enriched from strategies CSV via Claude
+* **Enrich**: Handwriting Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Highlighting Strategy — enriched from strategies CSV via Claude
+* **Enrich**: How Close to 100? — enriched from strategies CSV via Claude
+* **Enrich**: Headings and Highlight Strategy — enriched from strategies CSV via Claude
+* **Enrich**: Home Living Center Role Play — enriched from strategies CSV via Claude
+* **Enrich**: High Frequency Word Lists — enriched from strategies CSV via Claude
+* **Enrich**: Home Language Reading Demonstrations — enriched from strategies CSV via Claude
+* **Enrich**: Icebreakers — enriched from strategies CSV via Claude
+* **Enrich**: Identifying Self-Talk — enriched from strategies CSV via Claude
+* **Enrich**: Hyperlinked Teaching — enriched from strategies CSV via Claude
+* **Enrich**: Identify Key Background Knowledge in Math Problems — enriched from strategies CSV via Claude
+* **Enrich**: Identify Self-Talk — enriched from strategies CSV via Claude
+* **Enrich**: Identifying Feelings — enriched from strategies CSV via Claude
+* **Enrich**: Include Physical Activity — enriched from strategies CSV via Claude
+* **Enrich**: Identifying and Addressing Self-Regulation Strengths and Challenges — enriched from strategies CSV via Claude
+* **Enrich**: Implicit Instruction Vocabulary — enriched from strategies CSV via Claude
+* **Enrich**: Incorporate Technology into Reflection — enriched from strategies CSV via Claude
+* **Enrich**: Incorporate Students' Cultural Practices — enriched from strategies CSV via Claude
+* **Enrich**: Identifying Obstacles — enriched from strategies CSV via Claude
+* **Enrich**: Independent Practice — enriched from strategies CSV via Claude
+* **Enrich**: Impressions First — enriched from strategies CSV via Claude
+* **Enrich**: Individualized \"Highlighter Tool\ — enriched from strategies CSV via Claude
+* **Enrich**: Integrating Movement into Daily Activities — enriched from strategies CSV via Claude
+* **Enrich**: Interactive Writing — enriched from strategies CSV via Claude
+* **Enrich**: Incorporate Crafts to Remember Positive Self-Talk — enriched from strategies CSV via Claude
+* **Enrich**: Increase Synchronous Teacher Presence — enriched from strategies CSV via Claude
+* **Enrich**: Instructor Presence In Discussions — enriched from strategies CSV via Claude
+* **Enrich**: Individual Deliberate Practice — enriched from strategies CSV via Claude
+* **Enrich**: Independent_Reading_Time — enriched from strategies CSV via Claude
+* **Enrich**: Jigsaw Classroom — enriched from strategies CSV via Claude
+* **Enrich**: Interactive Note Taking — enriched from strategies CSV via Claude
+* **Enrich**: Journaling — enriched from strategies CSV via Claude
+* **Enrich**: Know Your Own Perspectives — enriched from strategies CSV via Claude
+* **Enrich**: Introduce Evaluation Concepts — enriched from strategies CSV via Claude
+* **Enrich**: Latin And Greek Roots For Academic Vocabulary — enriched from strategies CSV via Claude
+* **Enrich**: Interleaving — enriched from strategies CSV via Claude
+* **Enrich**: Learner Analysis — enriched from strategies CSV via Claude
+* **Enrich**: Invented Strategies Before Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Keyword Method — enriched from strategies CSV via Claude
+* **Enrich**: Language Experience Approach — enriched from strategies CSV via Claude
+* **Enrich**: Learning By Teaching — enriched from strategies CSV via Claude
+* **Enrich**: Learning_Journals — enriched from strategies CSV via Claude
+* **Enrich**: Learning Communities — enriched from strategies CSV via Claude
+* **Enrich**: Learning Centers — enriched from strategies CSV via Claude
+* **Enrich**: Learning Dashboards — enriched from strategies CSV via Claude
+* **Enrich**: Learning Journals — enriched from strategies CSV via Claude
+* **Enrich**: Line Awareness Activities — enriched from strategies CSV via Claude
+* **Enrich**: Limit Background Noise — enriched from strategies CSV via Claude
+* **Enrich**: Letter Formation Activities — enriched from strategies CSV via Claude
+* **Enrich**: Making_Words — enriched from strategies CSV via Claude
+* **Enrich**: Low Stakes Quizzing — enriched from strategies CSV via Claude
+* **Enrich**: Magnetism Investigations — enriched from strategies CSV via Claude
+* **Enrich**: Mastery Based Retesting — enriched from strategies CSV via Claude
+* **Enrich**: Low Floor_High Ceiling_Tasks — enriched from strategies CSV via Claude
+* **Enrich**: Mentor Text Analysis — enriched from strategies CSV via Claude
+* **Enrich**: Mentoring — enriched from strategies CSV via Claude
+* **Enrich**: Math Talks — enriched from strategies CSV via Claude
+* **Enrich**: Mastery Oriented Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Math Cards — enriched from strategies CSV via Claude
+* **Enrich**: Mental Contrasting With Implementation Intentions — enriched from strategies CSV via Claude
+* **Enrich**: Micro Flipped Classroom — enriched from strategies CSV via Claude
+* **Enrich**: Mirrors, Windows, and Sliding Glass Doors — enriched from strategies CSV via Claude
+* **Enrich**: Model Assignment or Skill — enriched from strategies CSV via Claude
+* **Enrich**: Minimally Invasive Hand Gesture — enriched from strategies CSV via Claude
+* **Enrich**: Mindfulness And Breathing Exercises — enriched from strategies CSV via Claude
+* **Enrich**: Misconception Repair — enriched from strategies CSV via Claude
+* **Enrich**: Model Reflection — enriched from strategies CSV via Claude
+* **Enrich**: Modeling And Demonstration — enriched from strategies CSV via Claude
+* **Enrich**: Model_Receiving_Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Modeling And Think Alouds — enriched from strategies CSV via Claude
+* **Enrich**: Modeling — enriched from strategies CSV via Claude
+* **Enrich**: Modeling Writing And Revising — enriched from strategies CSV via Claude
+* **Enrich**: Modeling Reflection — enriched from strategies CSV via Claude
+* **Enrich**: Modeling Revision — enriched from strategies CSV via Claude
+* **Enrich**: Modeling and Practice (Source Evaluation) — enriched from strategies CSV via Claude
+* **Enrich**: Modified Jigsaw Activities — enriched from strategies CSV via Claude
+* **Enrich**: Monitoring Progress — enriched from strategies CSV via Claude
+* **Enrich**: Multi Sensory Learning — enriched from strategies CSV via Claude
+* **Enrich**: Multiple Display Boards/Screens — enriched from strategies CSV via Claude
+* **Enrich**: Multiple Representations Visual Representations — enriched from strategies CSV via Claude
+* **Enrich**: Multiple Modalities for Perceiving Information — enriched from strategies CSV via Claude
+* **Enrich**: Moose Math App — enriched from strategies CSV via Claude
+* **Enrich**: Multimodal Presentation — enriched from strategies CSV via Claude
+* **Enrich**: Morphological Awareness Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Multisensory_Phonics_Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Name Pronunciation — enriched from strategies CSV via Claude
+* **Enrich**: Multisensory Encoding — enriched from strategies CSV via Claude
+* **Enrich**: Natural Lighting — enriched from strategies CSV via Claude
+* **Enrich**: Mystery Motivator — enriched from strategies CSV via Claude
+* **Enrich**: Multiple Writing Surfaces — enriched from strategies CSV via Claude
+* **Enrich**: Multisensory Letter Formation — enriched from strategies CSV via Claude
+* **Enrich**: Needs and Wants Assessment with Likert Scales — enriched from strategies CSV via Claude
+* **Enrich**: Nighttime Blue Light Reduction — enriched from strategies CSV via Claude
+* **Enrich**: Multisyllable Word Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Non-Confrontational Check-ins — enriched from strategies CSV via Claude
+* **Enrich**: No_Hands_Up — enriched from strategies CSV via Claude
+* **Enrich**: Music and Emotions — enriched from strategies CSV via Claude
+* **Enrich**: Normalizing Struggle — enriched from strategies CSV via Claude
+* **Enrich**: Note Taking — enriched from strategies CSV via Claude
+* **Enrich**: Nonconfrontational Statements and Informal Chitchat — enriched from strategies CSV via Claude
+* **Enrich**: No-Zero Grading Policy — enriched from strategies CSV via Claude
+* **Enrich**: Norm_Setting — enriched from strategies CSV via Claude
+* **Enrich**: Non-intensive Home Numeracy Environment (HNE) Intervention Program — enriched from strategies CSV via Claude
+* **Enrich**: Note Taking_Structures — enriched from strategies CSV via Claude
+* **Enrich**: Normalizing Error — enriched from strategies CSV via Claude
+* **Enrich**: Novelty Attention-Getters — enriched from strategies CSV via Claude
+* **Enrich**: Note-Taking Using Graphic Organizers — enriched from strategies CSV via Claude
+* **Enrich**: Observations and Conversations — enriched from strategies CSV via Claude
+* **Enrich**: Novelty Sounds — enriched from strategies CSV via Claude
+* **Enrich**: Number Rack App — enriched from strategies CSV via Claude
+* **Enrich**: Ongoing Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Optimize Classroom Acoustics and Noise Levels — enriched from strategies CSV via Claude
+* **Enrich**: Number Relationships and Reasoning Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Outlining — enriched from strategies CSV via Claude
+* **Enrich**: Offer Services and Events to Bring Parents into the School — enriched from strategies CSV via Claude
+* **Enrich**: Optimize Natural Lighting — enriched from strategies CSV via Claude
+* **Enrich**: Operation Math App — enriched from strategies CSV via Claude
+* **Enrich**: Optimizing Natural Lighting — enriched from strategies CSV via Claude
+* **Enrich**: Parental Involvement in Physical Activity — enriched from strategies CSV via Claude
+* **Enrich**: Paragraph Shrinking — enriched from strategies CSV via Claude
+* **Enrich**: Outdoor Book Walk — enriched from strategies CSV via Claude
+* **Enrich**: Peer-Assisted Learning Strategies (PALS) — enriched from strategies CSV via Claude
+* **Enrich**: Part Task_Practice — enriched from strategies CSV via Claude
+* **Enrich**: Peer Editing — enriched from strategies CSV via Claude
+* **Enrich**: Peer Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Pattern Recognition in Learning — enriched from strategies CSV via Claude
+* **Enrich**: Pattern Recognition — enriched from strategies CSV via Claude
+* **Enrich**: Peer Mediation — enriched from strategies CSV via Claude
+* **Enrich**: Peer Discussion — enriched from strategies CSV via Claude
+* **Enrich**: Pay Attention, Pause, Paraphrase — enriched from strategies CSV via Claude
+* **Enrich**: Peer_Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Peer_Tutoring — enriched from strategies CSV via Claude
+* **Enrich**: Peer Observation And Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Peer Feedback Protocols — enriched from strategies CSV via Claude
+* **Enrich**: Personalized Math with Cultural Connections — enriched from strategies CSV via Claude
+* **Enrich**: Perspective Taking Prompts — enriched from strategies CSV via Claude
+* **Enrich**: Pepperoni Pizza — enriched from strategies CSV via Claude
+* **Enrich**: Peer_Feedback_Protocols — enriched from strategies CSV via Claude
+* **Enrich**: Peer Tutoring — enriched from strategies CSV via Claude
+* **Enrich**: Phonological Awareness Development through Rhyming — enriched from strategies CSV via Claude
+* **Enrich**: Peer_Revision — enriched from strategies CSV via Claude
+* **Enrich**: Phonics Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Picture Schedules and Visual Planners — enriched from strategies CSV via Claude
+* **Enrich**: Pictures & Visuals — enriched from strategies CSV via Claude
+* **Enrich**: Planned Ignoring — enriched from strategies CSV via Claude
+* **Enrich**: Phonics_Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Phonics-Based Spelling Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Pictures (Pre-Reading) — enriched from strategies CSV via Claude
+* **Enrich**: PLaNS (Play Learning and Narrative Skills) — enriched from strategies CSV via Claude
+* **Enrich**: Picture Dictionaries — enriched from strategies CSV via Claude
+* **Enrich**: Platform Agnostic Design — enriched from strategies CSV via Claude
+* **Enrich**: Portfolio Assessment — enriched from strategies CSV via Claude
+* **Enrich**: Positive Reinforcement — enriched from strategies CSV via Claude
+* **Enrich**: Positive Behavior Support — enriched from strategies CSV via Claude
+* **Enrich**: Planned Physical Activity — enriched from strategies CSV via Claude
+* **Enrich**: Pinwheel Discussion — enriched from strategies CSV via Claude
+* **Enrich**: Positive_Behavior_Interventions_And_Supports — enriched from strategies CSV via Claude
+* **Enrich**: Positive Self Talk Modeling — enriched from strategies CSV via Claude
+* **Enrich**: Pomodoro Technique — enriched from strategies CSV via Claude
+* **Enrich**: Positive Behavioral Interventions and Supports (PBIS) — enriched from strategies CSV via Claude
+* **Enrich**: Points or Experience (XP) Systems — enriched from strategies CSV via Claude
+* **Enrich**: Political Education — enriched from strategies CSV via Claude
+* **Enrich**: Praise Effort and Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Pre Reading Skimming Text — enriched from strategies CSV via Claude
+* **Enrich**: Pre-Entry Socialization — enriched from strategies CSV via Claude
+* **Enrich**: Positive_Behavioral_Interventions_And_Supports_Pbis — enriched from strategies CSV via Claude
+* **Enrich**: Positive_Behavior_Support — enriched from strategies CSV via Claude
+* **Enrich**: Positive_Narration — enriched from strategies CSV via Claude
+* **Enrich**: Pre Reading Quizzes — enriched from strategies CSV via Claude
+* **Enrich**: PQP (Praise-Question-Polish) — enriched from strategies CSV via Claude
+* **Enrich**: Pre-Shadowing Preparation Activities — enriched from strategies CSV via Claude
+* **Enrich**: Praising Effort and Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Pre Reading Understand The Purpose Of The Reading — enriched from strategies CSV via Claude
+* **Enrich**: Predictable Routines — enriched from strategies CSV via Claude
+* **Enrich**: Predict Observe Explain — enriched from strategies CSV via Claude
+* **Enrich**: Predictive Emotion Planning — enriched from strategies CSV via Claude
+* **Enrich**: Pre-recorded Instructional Video — enriched from strategies CSV via Claude
+* **Enrich**: Preliminary Data Collection — enriched from strategies CSV via Claude
+* **Enrich**: Precorrection — enriched from strategies CSV via Claude
+* **Enrich**: Pre-recording Instructional Videos — enriched from strategies CSV via Claude
+* **Enrich**: Prepare Instructions Carefully — enriched from strategies CSV via Claude
+* **Enrich**: Prediction Observation Explanation — enriched from strategies CSV via Claude
+* **Enrich**: Pretraining — enriched from strategies CSV via Claude
+* **Enrich**: Prediction Relay — enriched from strategies CSV via Claude
+* **Enrich**: Prepare for Parental Reactions — enriched from strategies CSV via Claude
+* **Enrich**: Probing Questions — enriched from strategies CSV via Claude
+* **Enrich**: Prioritizing Agency for Students With Disabilities — enriched from strategies CSV via Claude
+* **Enrich**: Prioritizing Self-Advocacy and Self-Determination — enriched from strategies CSV via Claude
+* **Enrich**: Process-Focused Learning — enriched from strategies CSV via Claude
+* **Enrich**: Prewriting Activities — enriched from strategies CSV via Claude
+* **Enrich**: Prequestions — enriched from strategies CSV via Claude
+* **Enrich**: Primary Language Support with Bilingual Texts — enriched from strategies CSV via Claude
+* **Enrich**: Problem Scenario Analysis — enriched from strategies CSV via Claude
+* **Enrich**: Process Oriented Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Process_Writing — enriched from strategies CSV via Claude
+* **Enrich**: Problem Solving Draw A Picture — enriched from strategies CSV via Claude
+* **Enrich**: Professional Learning Communities — enriched from strategies CSV via Claude
+* **Enrich**: Problem Solving — enriched from strategies CSV via Claude
+* **Enrich**: Process for Constructive Decision-Making — enriched from strategies CSV via Claude
+* **Enrich**: Process Writing — enriched from strategies CSV via Claude
+* **Enrich**: Project-based Learning — enriched from strategies CSV via Claude
+* **Enrich**: Producing Counter-texts — enriched from strategies CSV via Claude
+* **Enrich**: Process Writing Approach — enriched from strategies CSV via Claude
+* **Enrich**: Product Testing — enriched from strategies CSV via Claude
+* **Enrich**: Promoting a Growth Mindset — enriched from strategies CSV via Claude
+* **Enrich**: Project Management Tools for Group Work — enriched from strategies CSV via Claude
+* **Enrich**: Project Options and Self-Grading — enriched from strategies CSV via Claude
+* **Enrich**: Prompted Source Evaluation — enriched from strategies CSV via Claude
+* **Enrich**: Promoting Belonging Through Cues and Representations — enriched from strategies CSV via Claude
+* **Enrich**: Promote a Growth Mindset — enriched from strategies CSV via Claude
+* **Enrich**: Promoting Belonging Through Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Promoting Self-Determination and Self-Advocacy in Students with Disabilities — enriched from strategies CSV via Claude
+* **Enrich**: Providing Accessible Educational Tools — enriched from strategies CSV via Claude
+* **Enrich**: Promoting Self-Directed Learning Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Proximity Control — enriched from strategies CSV via Claude
+* **Enrich**: Provide Easy-Access Educational Tools — enriched from strategies CSV via Claude
+* **Enrich**: Quality Homework Assignments — enriched from strategies CSV via Claude
+* **Enrich**: Provide Manipulatives — enriched from strategies CSV via Claude
+* **Enrich**: Providing Easy-Access Educational Tools — enriched from strategies CSV via Claude
+* **Enrich**: Question Answer Relationships — enriched from strategies CSV via Claude
+* **Enrich**: Publicize Volunteer Opportunities and Student Involvement — enriched from strategies CSV via Claude
+* **Enrich**: Purpose (Pre-Reading) — enriched from strategies CSV via Claude
+* **Enrich**: Question Formulation Technique — enriched from strategies CSV via Claude
+* **Enrich**: Question Answering Relationships — enriched from strategies CSV via Claude
+* **Enrich**: Questioning Techniques — enriched from strategies CSV via Claude
+* **Enrich**: Question Answer_Relationships — enriched from strategies CSV via Claude
+* **Enrich**: Questioning The Author — enriched from strategies CSV via Claude
+* **Enrich**: Quick Writes — enriched from strategies CSV via Claude
+* **Enrich**: Question Answering — enriched from strategies CSV via Claude
+* **Enrich**: Question Formulation Technique (QFT) — enriched from strategies CSV via Claude
+* **Enrich**: Questioning Techniques to Address Errors — enriched from strategies CSV via Claude
+* **Enrich**: Quick Reflection Prompts — enriched from strategies CSV via Claude
+* **Enrich**: Quiet Space — enriched from strategies CSV via Claude
+* **Enrich**: Quiet Signals — enriched from strategies CSV via Claude
+* **Enrich**: Quiet Environment/Pockets of Quiet — enriched from strategies CSV via Claude
+* **Enrich**: Racial Equity in PBL - Build Community Through Peer Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Racial Equity in PBL - Create Space for Students to Reflect — enriched from strategies CSV via Claude
+* **Enrich**: Quiet Time — enriched from strategies CSV via Claude
+* **Enrich**: Racial Equity in PBL - Create Beautiful Spaces — enriched from strategies CSV via Claude
+* **Enrich**: Racial Identity Work — enriched from strategies CSV via Claude
+* **Enrich**: Random Calling — enriched from strategies CSV via Claude
+* **Enrich**: Racial Equity in PBL - Expect Excellence — enriched from strategies CSV via Claude
+* **Enrich**: Racial Equity in PBL - Listen to the Voices of Students — enriched from strategies CSV via Claude
+* **Enrich**: Raise Awareness of Self-Talk — enriched from strategies CSV via Claude
+* **Enrich**: Read Aloud with Highlighting — enriched from strategies CSV via Claude
+* **Enrich**: Racial Equity in PBL - Spark Engagement with Student-Generated Questions — enriched from strategies CSV via Claude
+* **Enrich**: Reactive Cultural Response — enriched from strategies CSV via Claude
+* **Enrich**: Real-World Reframes — enriched from strategies CSV via Claude
+* **Enrich**: Reading in Math Class — enriched from strategies CSV via Claude
+* **Enrich**: Read Alouds With Accountable Talk — enriched from strategies CSV via Claude
+* **Enrich**: Reading Online Strategy Evaluating Online Information — enriched from strategies CSV via Claude
+* **Enrich**: Reader's Theater — enriched from strategies CSV via Claude
+* **Enrich**: Reading Workshop — enriched from strategies CSV via Claude
+* **Enrich**: Real World_Math_Connections — enriched from strategies CSV via Claude
+* **Enrich**: Reciprocal Peer Tutoring — enriched from strategies CSV via Claude
+* **Enrich**: Reasoning-Focused Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Recognizing the Value of Learning from Mistakes — enriched from strategies CSV via Claude
+* **Enrich**: Reciprocal Peer Critique — enriched from strategies CSV via Claude
+* **Enrich**: Redirecting Language — enriched from strategies CSV via Claude
+* **Enrich**: Reciprocal Questioning — enriched from strategies CSV via Claude
+* **Enrich**: Reducing Test Anxiety — enriched from strategies CSV via Claude
+* **Enrich**: Recording Devices — enriched from strategies CSV via Claude
+* **Enrich**: Reflection After Writing — enriched from strategies CSV via Claude
+* **Enrich**: Reflecting on Student Strengths and Challenges — enriched from strategies CSV via Claude
+* **Enrich**: Reducing Distractions — enriched from strategies CSV via Claude
+* **Enrich**: Reflect on Learning — enriched from strategies CSV via Claude
+* **Enrich**: Reflection on Student Learning — enriched from strategies CSV via Claude
+* **Enrich**: Reflection Prompts — enriched from strategies CSV via Claude
+* **Enrich**: Reflective Journaling — enriched from strategies CSV via Claude
+* **Enrich**: Reducing Visual Clutter — enriched from strategies CSV via Claude
+* **Enrich**: Reflective Practice — enriched from strategies CSV via Claude
+* **Enrich**: Reflection Exercises — enriched from strategies CSV via Claude
+* **Enrich**: Reflection with Others — enriched from strategies CSV via Claude
+* **Enrich**: Relevant Vocabulary Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Reframe Anxiety as Excitement — enriched from strategies CSV via Claude
+* **Enrich**: Reframe Negative Self-Talk — enriched from strategies CSV via Claude
+* **Enrich**: Regular Physical Education (PE) Classes — enriched from strategies CSV via Claude
+* **Enrich**: Reflective Writing — enriched from strategies CSV via Claude
+* **Enrich**: Relate Math to Learner Strengths — enriched from strategies CSV via Claude
+* **Enrich**: Relating Math to Student Strengths — enriched from strategies CSV via Claude
+* **Enrich**: Respectful Redirection — enriched from strategies CSV via Claude
+* **Enrich**: Response To Intervention — enriched from strategies CSV via Claude
+* **Enrich**: Respect Diverse Talents and Ways of Learning — enriched from strategies CSV via Claude
+* **Enrich**: Repeated Reading — enriched from strategies CSV via Claude
+* **Enrich**: Remote Support with Augmented Reality (AR) — enriched from strategies CSV via Claude
+* **Enrich**: Research Map Visualization — enriched from strategies CSV via Claude
+* **Enrich**: Require Retakes — enriched from strategies CSV via Claude
+* **Enrich**: Repeated_Reading — enriched from strategies CSV via Claude
+* **Enrich**: Restorative_Practices — enriched from strategies CSV via Claude
+* **Enrich**: Revision_Cycles — enriched from strategies CSV via Claude
+* **Enrich**: Rice Tables And Sandboxes Science Through Inquiry — enriched from strategies CSV via Claude
+* **Enrich**: Restorative Conversations — enriched from strategies CSV via Claude
+* **Enrich**: Restorative Circles — enriched from strategies CSV via Claude
+* **Enrich**: Restorative_Circles — enriched from strategies CSV via Claude
+* **Enrich**: Revision And Resubmission — enriched from strategies CSV via Claude
+* **Enrich**: Role Play — enriched from strategies CSV via Claude
+* **Enrich**: RIP Toolbox (Repetition, Imagery, Patterns) — enriched from strategies CSV via Claude
+* **Enrich**: Retelling — enriched from strategies CSV via Claude
+* **Enrich**: Retakes And Revisions — enriched from strategies CSV via Claude
+* **Enrich**: Rich Library Complexity — enriched from strategies CSV via Claude
+* **Enrich**: Say it Once — enriched from strategies CSV via Claude
+* **Enrich**: Safe and Healthy Elementary School Recess — enriched from strategies CSV via Claude
+* **Enrich**: RSOWV/TRAP Mnemonics — enriched from strategies CSV via Claude
+* **Enrich**: Rubric Based Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Rubric_Co Construction — enriched from strategies CSV via Claude
+* **Enrich**: Running Records — enriched from strategies CSV via Claude
+* **Enrich**: Scaffold Structure and Function — enriched from strategies CSV via Claude
+* **Enrich**: Scaffolded Questioning — enriched from strategies CSV via Claude
+* **Enrich**: Scaffolding Structure and Function in PBL — enriched from strategies CSV via Claude
+* **Enrich**: Scaffolding Self-Regulation — enriched from strategies CSV via Claude
+* **Enrich**: Science Through Inquiry — enriched from strategies CSV via Claude
+* **Enrich**: Schwa Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Screen Readers — enriched from strategies CSV via Claude
+* **Enrich**: See, Think, Wonder — enriched from strategies CSV via Claude
+* **Enrich**: Secret Student — enriched from strategies CSV via Claude
+* **Enrich**: Schema-Based Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Science Notebooks — enriched from strategies CSV via Claude
+* **Enrich**: Segmenting — enriched from strategies CSV via Claude
+* **Enrich**: Screencast Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Selecting Tiered Vocabulary Words — enriched from strategies CSV via Claude
+* **Enrich**: Self- and Peer-Editing — enriched from strategies CSV via Claude
+* **Enrich**: SEL-Focused Digital Libraries — enriched from strategies CSV via Claude
+* **Enrich**: SEL Videos with Discussion — enriched from strategies CSV via Claude
+* **Enrich**: Self-Awareness - Identify Feelings — enriched from strategies CSV via Claude
+* **Enrich**: SEL Integration through Literature — enriched from strategies CSV via Claude
+* **Enrich**: Self Determined Learning Model Of Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Self Monitoring Checklists — enriched from strategies CSV via Claude
+* **Enrich**: Self Correction_Routines — enriched from strategies CSV via Claude
+* **Enrich**: Self-Monitoring of Behavior — enriched from strategies CSV via Claude
+* **Enrich**: Self Monitoring_Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Self Monitoring Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Self Monitoring — enriched from strategies CSV via Claude
+* **Enrich**: Self Explanation Prompts — enriched from strategies CSV via Claude
+* **Enrich**: Self Monitoring Of Performance — enriched from strategies CSV via Claude
+* **Enrich**: Self Regulated Learning — enriched from strategies CSV via Claude
+* **Enrich**: Self Monitoring_Checklists — enriched from strategies CSV via Claude
+* **Enrich**: Self-Monitoring of Performance (SMP) — enriched from strategies CSV via Claude
+* **Enrich**: Self-Regulated Strategy Development (SRSD) — enriched from strategies CSV via Claude
+* **Enrich**: Self-Regulation - Mindfulness Techniques — enriched from strategies CSV via Claude
+* **Enrich**: Self Talk Scripts — enriched from strategies CSV via Claude
+* **Enrich**: Self Questioning — enriched from strategies CSV via Claude
+* **Enrich**: Self-Reinforcement in Writing — enriched from strategies CSV via Claude
+* **Enrich**: Sensory Stimulation — enriched from strategies CSV via Claude
+* **Enrich**: Self Talk Logging — enriched from strategies CSV via Claude
+* **Enrich**: Self-Regulation - Scaffolding — enriched from strategies CSV via Claude
+* **Enrich**: Self Talk — enriched from strategies CSV via Claude
+* **Enrich**: Sentence Expansion — enriched from strategies CSV via Claude
+* **Enrich**: Self-Talk Brainstorm — enriched from strategies CSV via Claude
+* **Enrich**: Sensory_Tools_And_Fidgets — enriched from strategies CSV via Claude
+* **Enrich**: Service Learning — enriched from strategies CSV via Claude
+* **Enrich**: Sentence Starters — enriched from strategies CSV via Claude
+* **Enrich**: Set a High Bar for Each Student — enriched from strategies CSV via Claude
+* **Enrich**: Sentence Frames — enriched from strategies CSV via Claude
+* **Enrich**: Sentence Stems for Reflection — enriched from strategies CSV via Claude
+* **Enrich**: Set Aside Your Own Reaction — enriched from strategies CSV via Claude
+* **Enrich**: Seven Blind Mice — enriched from strategies CSV via Claude
+* **Enrich**: Separate Product, Process, and Progress Criteria — enriched from strategies CSV via Claude
+* **Enrich**: Service_Learning — enriched from strategies CSV via Claude
+* **Enrich**: Shoeless Learning Spaces — enriched from strategies CSV via Claude
+* **Enrich**: Shadowing (Behavior Adjustment) — enriched from strategies CSV via Claude
+* **Enrich**: Shadowing to Address Behavior Problems — enriched from strategies CSV via Claude
+* **Enrich**: Shared Writing — enriched from strategies CSV via Claude
+* **Enrich**: Sift Method — enriched from strategies CSV via Claude
+* **Enrich**: Sift_Method — enriched from strategies CSV via Claude
+* **Enrich**: Signage and Displays — enriched from strategies CSV via Claude
+* **Enrich**: Short Conversations (Pre-Reading) — enriched from strategies CSV via Claude
+* **Enrich**: Simplify and Clarify Instructions — enriched from strategies CSV via Claude
+* **Enrich**: Simple-to-Difficult Examples — enriched from strategies CSV via Claude
+* **Enrich**: Simplify Grading Scales — enriched from strategies CSV via Claude
+* **Enrich**: Silent Countdown — enriched from strategies CSV via Claude
+* **Enrich**: Simultaneous_Multisensory_Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Simulation Learning — enriched from strategies CSV via Claude
+* **Enrich**: Sketchnoting — enriched from strategies CSV via Claude
+* **Enrich**: Skimming And Scanning — enriched from strategies CSV via Claude
+* **Enrich**: Six Consumer Questions — enriched from strategies CSV via Claude
+* **Enrich**: Small Group Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Singing — enriched from strategies CSV via Claude
+* **Enrich**: Slug — enriched from strategies CSV via Claude
+* **Enrich**: Social Awareness Instruction with Current Events — enriched from strategies CSV via Claude
+* **Enrich**: SMART Goal Setting — enriched from strategies CSV via Claude
+* **Enrich**: Socratic_Seminar — enriched from strategies CSV via Claude
+* **Enrich**: Social Emotional Learning Routines — enriched from strategies CSV via Claude
+* **Enrich**: Soliciting Feedback on Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Social Annotation — enriched from strategies CSV via Claude
+* **Enrich**: Sorting_And_Classifying — enriched from strategies CSV via Claude
+* **Enrich**: Spaced Retrieval — enriched from strategies CSV via Claude
+* **Enrich**: Spaced Practice — enriched from strategies CSV via Claude
+* **Enrich**: Solve Before You Teach — enriched from strategies CSV via Claude
+* **Enrich**: Sound-blocking Devices — enriched from strategies CSV via Claude
+* **Enrich**: Spaced_Repetition — enriched from strategies CSV via Claude
+* **Enrich**: Spaced Retrieval Practice — enriched from strategies CSV via Claude
+* **Enrich**: Spark Engagement with Student-Generated Questions — enriched from strategies CSV via Claude
+* **Enrich**: Spaces that Foster Creativity — enriched from strategies CSV via Claude
+* **Enrich**: Speak the Future, Design the Future (Changing the Discourse) — enriched from strategies CSV via Claude
+* **Enrich**: Spaced_Retrieval_Practice — enriched from strategies CSV via Claude
+* **Enrich**: Specific Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Sq3R — enriched from strategies CSV via Claude
+* **Enrich**: Specific Technique Identification — enriched from strategies CSV via Claude
+* **Enrich**: Specific Goal Questioning — enriched from strategies CSV via Claude
+* **Enrich**: Spelling Retrieval Practice — enriched from strategies CSV via Claude
+* **Enrich**: Speech-to-Text Technology — enriched from strategies CSV via Claude
+* **Enrich**: Station_Rotation — enriched from strategies CSV via Claude
+* **Enrich**: Speed Chatting (Pre-Reading) — enriched from strategies CSV via Claude
+* **Enrich**: Spelling_Instruction_Through_Encoding — enriched from strategies CSV via Claude
+* **Enrich**: Steelmanning — enriched from strategies CSV via Claude
+* **Enrich**: Standard-Based Regrouping — enriched from strategies CSV via Claude
+* **Enrich**: Story Mapping — enriched from strategies CSV via Claude
+* **Enrich**: Story Telling (Pre-Reading) — enriched from strategies CSV via Claude
+* **Enrich**: Storytelling in Explainer Animations and Videos — enriched from strategies CSV via Claude
+* **Enrich**: Stress Management Routines — enriched from strategies CSV via Claude
+* **Enrich**: Strategy Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Strength-Based Approach to Responsible Decision-Making — enriched from strategies CSV via Claude
+* **Enrich**: Strategies to Remember Name Pronunciation — enriched from strategies CSV via Claude
+* **Enrich**: Structured Academic Controversy — enriched from strategies CSV via Claude
+* **Enrich**: Strategy Instruction (Self-Regulated Strategy Development - SRSD) — enriched from strategies CSV via Claude
+* **Enrich**: Strength-Based Approach to Social Awareness — enriched from strategies CSV via Claude
+* **Enrich**: Structured and Sustained Family Engagement Programs — enriched from strategies CSV via Claude
+* **Enrich**: Student Shadowing (Teacher/Coach Observation) — enriched from strategies CSV via Claude
+* **Enrich**: Strength-Based Strategies for Self-Awareness — enriched from strategies CSV via Claude
+* **Enrich**: Student Presentations All About Me — enriched from strategies CSV via Claude
+* **Enrich**: Student Led Math Conferences — enriched from strategies CSV via Claude
+* **Enrich**: Structured Discussion Techniques — enriched from strategies CSV via Claude
+* **Enrich**: Structuring Group Work — enriched from strategies CSV via Claude
+* **Enrich**: Student Hand Signals — enriched from strategies CSV via Claude
+* **Enrich**: Student Led Ieps — enriched from strategies CSV via Claude
+* **Enrich**: Student-Pair Math Games — enriched from strategies CSV via Claude
+* **Enrich**: Supply Caddy — enriched from strategies CSV via Claude
+* **Enrich**: Task Analysis — enriched from strategies CSV via Claude
+* **Enrich**: Student Game Design — enriched from strategies CSV via Claude
+* **Enrich**: Summaries and Recaps — enriched from strategies CSV via Claude
+* **Enrich**: Teach Metacognitive Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Teacher As Learner — enriched from strategies CSV via Claude
+* **Enrich**: Syllabication Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Teaching For Transfer — enriched from strategies CSV via Claude
+* **Enrich**: Talking to Young Children About Race and Racism — enriched from strategies CSV via Claude
+* **Enrich**: Teaching Academic Vocabulary — enriched from strategies CSV via Claude
+* **Enrich**: Task Force Teams of Inquiry — enriched from strategies CSV via Claude
+* **Enrich**: Team-Building Through Problem-Based Learning — enriched from strategies CSV via Claude
+* **Enrich**: Teacher-Student Reading Conferences — enriched from strategies CSV via Claude
+* **Enrich**: Temperature Regulation — enriched from strategies CSV via Claude
+* **Enrich**: Teacher-Led Physical Math Games — enriched from strategies CSV via Claude
+* **Enrich**: Ten Frame Activities — enriched from strategies CSV via Claude
+* **Enrich**: Teacher Read-Aloud That Models Reading for Deep Understanding — enriched from strategies CSV via Claude
+* **Enrich**: Ten Frames — enriched from strategies CSV via Claude
+* **Enrich**: Teacher Racial Identity Work — enriched from strategies CSV via Claude
+* **Enrich**: Text Set Construction — enriched from strategies CSV via Claude
+* **Enrich**: Think-Time and Re-Reading — enriched from strategies CSV via Claude
+* **Enrich**: Time Management In Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Tiered_Assignments — enriched from strategies CSV via Claude
+* **Enrich**: Text To Speech Tools — enriched from strategies CSV via Claude
+* **Enrich**: Temperature Monitoring & Adjustment — enriched from strategies CSV via Claude
+* **Enrich**: Token Economy — enriched from strategies CSV via Claude
+* **Enrich**: Text Based_Collaborative_Learning — enriched from strategies CSV via Claude
+* **Enrich**: Timed Retrieval Practice — enriched from strategies CSV via Claude
+* **Enrich**: Two Stars And A Wish — enriched from strategies CSV via Claude
+* **Enrich**: The Role of Background Knowledge — enriched from strategies CSV via Claude
+* **Enrich**: Thinking Critically — enriched from strategies CSV via Claude
+* **Enrich**: Turn and Talk — enriched from strategies CSV via Claude
+* **Enrich**: Use \"I\" Statements to Avoid Blame — enriched from strategies CSV via Claude
+* **Enrich**: Unit Planning with Graphic Organizers — enriched from strategies CSV via Claude
+* **Enrich**: Two Stage Exams — enriched from strategies CSV via Claude
+* **Enrich**: Timed_Math_Fact_Drills — enriched from strategies CSV via Claude
+* **Enrich**: Use_Analogies — enriched from strategies CSV via Claude
+* **Enrich**: Two_Stars_And_A_Wish — enriched from strategies CSV via Claude
+* **Enrich**: Use Formative Feedback — enriched from strategies CSV via Claude
+* **Enrich**: User-Friendly Library Website Practices — enriched from strategies CSV via Claude
+* **Enrich**: Understanding By Design Unit Template — enriched from strategies CSV via Claude
+* **Enrich**: Videos (Pre-Reading) — enriched from strategies CSV via Claude
+* **Enrich**: Value Affirmation Before Assessment — enriched from strategies CSV via Claude
+* **Enrich**: Vocabulary Journals — enriched from strategies CSV via Claude
+* **Enrich**: Wait Time — enriched from strategies CSV via Claude
+* **Enrich**: Visual Timers — enriched from strategies CSV via Claude
+* **Enrich**: Using Empathy Interviews for Family Engagement — enriched from strategies CSV via Claude
+* **Enrich**: Vocabulary Pre Teaching — enriched from strategies CSV via Claude
+* **Enrich**: Vocabulary Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Which One Doesn’t Belong? — enriched from strategies CSV via Claude
+* **Enrich**: What's My Emotion? Game — enriched from strategies CSV via Claude
+* **Enrich**: Vocabulary_Pre Teaching — enriched from strategies CSV via Claude
+* **Enrich**: Use_Structured_Critique_Protocols — enriched from strategies CSV via Claude
+* **Enrich**: Whole Class Self-Monitoring — enriched from strategies CSV via Claude
+* **Enrich**: Welcome Messages — enriched from strategies CSV via Claude
+* **Enrich**: Word Sorting — enriched from strategies CSV via Claude
+* **Enrich**: Word Maps — enriched from strategies CSV via Claude
+* **Enrich**: Watch Emotion Videos — enriched from strategies CSV via Claude
+* **Enrich**: Wide Reading — enriched from strategies CSV via Claude
+* **Enrich**: Worked Example Routine — enriched from strategies CSV via Claude
+* **Enrich**: Wise Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Word Family Charts — enriched from strategies CSV via Claude
+* **Enrich**: Working_Out_Loud — enriched from strategies CSV via Claude
+* **Enrich**: Word Walls — enriched from strategies CSV via Claude
+* **Enrich**: Workshop Based_Writing_Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Writing Conferences — enriched from strategies CSV via Claude
+* **Enrich**: Write Alouds — enriched from strategies CSV via Claude
+* **Enrich**: Writing_Workshop — enriched from strategies CSV via Claude
+
+## 2026-08-29
+
+* **Enrich**: Culturally Responsive Teaching — enriched from strategies CSV via Claude
+* **Enrich**: Gallery Walk — enriched from strategies CSV via Claude
+* **Enrich**: Formative Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Family Engagement — enriched from strategies CSV via Claude
+* **Enrich**: Schema-Based Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Reflective Journaling — enriched from strategies CSV via Claude
+* **Enrich**: Peer Observation — enriched from strategies CSV via Claude
+* **Enrich**: Standards-Based Grading — enriched from strategies CSV via Claude
+* **Enrich**: Normalizing Struggle — enriched from strategies CSV via Claude
+* **Enrich**: Classroom Physical Activity Breaks — enriched from strategies CSV via Claude
+* **Enrich**: Flexible Seating — enriched from strategies CSV via Claude
+* **Enrich**: Word Walls — enriched from strategies CSV via Claude
+* **Enrich**: Free Play — enriched from strategies CSV via Claude
+* **Enrich**: Guided Play — enriched from strategies CSV via Claude
+* **Enrich**: Math Talks — enriched from strategies CSV via Claude
+* **Enrich**: Mindfulness Breaks — enriched from strategies CSV via Claude
+* **Enrich**: Learning Logs — enriched from strategies CSV via Claude
+* **Enrich**: Repetition — enriched from strategies CSV via Claude
+* **Enrich**: Songwriting — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Organizers / Guided Notes (for Processing Speed) — enriched from strategies CSV via Claude
+* **Enrich**: Independent Reading — enriched from strategies CSV via Claude
+* **Enrich**: Movement Breaks — enriched from strategies CSV via Claude
+* **Enrich**: Predicting — enriched from strategies CSV via Claude
+* **Enrich**: Clarifying — enriched from strategies CSV via Claude
+* **Enrich**: Pre-Teaching Vocabulary — enriched from strategies CSV via Claude
+* **Enrich**: KWL Charts — enriched from strategies CSV via Claude
+* **Enrich**: Reading Conferences — enriched from strategies CSV via Claude
+* **Enrich**: Shared Reading — enriched from strategies CSV via Claude
+* **Enrich**: Stop and Jot — enriched from strategies CSV via Claude
+* **Enrich**: Interactive Read-Alouds — enriched from strategies CSV via Claude
+* **Enrich**: Student-Created Magazines — enriched from strategies CSV via Claude
+* **Enrich**: Literature Circles — enriched from strategies CSV via Claude
+* **Enrich**: Read-Alouds — enriched from strategies CSV via Claude
+* **Enrich**: Retrieval Practice — enriched from strategies CSV via Claude
+* **Enrich**: Lateral Reading — enriched from strategies CSV via Claude
+* **Enrich**: Explicit Strategy Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Project-based Learning — enriched from strategies CSV via Claude
+* **Enrich**: Vocabulary Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Writing Workshop — enriched from patterns CSV via Claude
+* **Enrich**: Social Emotional Learning — enriched from patterns CSV via Claude
+* **Enrich**: Workshop Model — enriched from patterns CSV via Claude
+* **Enrich**: Cooperative Learning — enriched from patterns CSV via Claude
+* **Enrich**: Professional Development — enriched from patterns CSV via Claude
+* **Enrich**: Check In — enriched from elements CSV via Claude
+* **Enrich**: Act It Out — enriched from elements CSV via Claude
+* **Enrich**: Accommodations — enriched from elements CSV via Claude
+* **Enrich**: Dialogic Reading — enriched from elements CSV via Claude
+* **Enrich**: Debrief — enriched from elements CSV via Claude
+* **Enrich**: Example Problem Pairs — enriched from elements CSV via Claude
+* **Enrich**: Group Processing — enriched from elements CSV via Claude
+* **Enrich**: Independent Study — enriched from elements CSV via Claude
+* **Enrich**: Individual Accountability — enriched from elements CSV via Claude
+* **Enrich**: Group Roles — enriched from elements CSV via Claude
+* **Enrich**: Choice Boards — enriched from elements CSV via Claude
+* **Enrich**: Cooperative Learning — enriched from elements CSV via Claude
+* **Enrich**: Cognitive Strategies — enriched from elements CSV via Claude
+* **Enrich**: Learning Tasks — enriched from elements CSV via Claude
+* **Enrich**: Lecture — enriched from elements CSV via Claude
+* **Enrich**: Generative Processing — enriched from elements CSV via Claude
+* **Enrich**: Mental Models — enriched from elements CSV via Claude
+* **Enrich**: Physical Education — enriched from elements CSV via Claude
+* **Enrich**: Inquiry — enriched from elements CSV via Claude
+* **Enrich**: Inquiry Learning — enriched from elements CSV via Claude
+* **Enrich**: Prediction — enriched from elements CSV via Claude
+* **Enrich**: Product — enriched from elements CSV via Claude
+* **Enrich**: Interviews — enriched from elements CSV via Claude
+* **Enrich**: Self Efficacy — enriched from elements CSV via Claude
+* **Enrich**: Prompts — enriched from elements CSV via Claude
+* **Enrich**: Performance Support — enriched from elements CSV via Claude
+* **Enrich**: Positive Interdependence — enriched from elements CSV via Claude
+* **Enrich**: Progressive Disclosure — enriched from elements CSV via Claude
+* **Enrich**: Portfolio — enriched from elements CSV via Claude
+* **Enrich**: Text underlining and annotating — enriched from elements CSV via Claude
+* **Enrich**: Simulation — enriched from elements CSV via Claude
+* **Enrich**: Sentence Starters — enriched from elements CSV via Claude
+* **Enrich**: Visual Imagery — enriched from elements CSV via Claude
+* **Enrich**: Student Led Ieps — enriched from elements CSV via Claude
+* **Enrich**: Argument Construction — enriched from elements CSV via Claude
+* **Enrich**: Mastery Progression — enriched from elements CSV via Claude
+* **Enrich**: In-Class Activities — enriched from elements CSV via Claude
+* **Enrich**: Case-Based Learning — enriched from elements CSV via Claude
+* **Enrich**: Hypertext Navigation — enriched from elements CSV via Claude
+* **Enrich**: Team-Based Inquiry — enriched from elements CSV via Claude
+* **Enrich**: Summarization and Synthesis — enriched from elements CSV via Claude
+* **Enrich**: Growth Mindset — enriched from principles CSV via Claude
+* **Enrich**: Responsive Teaching — enriched from principles CSV via Claude
+* **Enrich**: Personalization — enriched from principles CSV via Claude
+* **Enrich**: Principle Slug — enriched from principles CSV via Claude
+* **Enrich**: Adaptive Learning — enriched from principles CSV via Claude
+* **Enrich**: Social Presence — enriched from principles CSV via Claude
+* **Enrich**: Self Affirmation — enriched from principles CSV via Claude
+* **Enrich**: Phonics — enriched from principles CSV via Claude
+* **Enrich**: Universal Design For Learning — enriched from principles CSV via Claude
+* **Enrich**: Spaced Practice — enriched from principles CSV via Claude
+* **Enrich**: Analogical Encoding — enriched from strategies CSV via Claude
+* **Enrich**: Alphabet Books — enriched from strategies CSV via Claude
+* **Enrich**: Aggregating Information — enriched from strategies CSV via Claude
+* **Enrich**: Anchored Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Anglo-Saxon Phoneme-Grapheme Mapping — enriched from strategies CSV via Claude
+* **Enrich**: Annotating Texts — enriched from strategies CSV via Claude
+* **Enrich**: Affirmation Repetition — enriched from strategies CSV via Claude
+* **Enrich**: Anticipation Guide — enriched from strategies CSV via Claude
+* **Enrich**: Anticipation Guides — enriched from strategies CSV via Claude
+* **Enrich**: Annotation — enriched from strategies CSV via Claude
+* **Enrich**: Activating Prior Knowledge — enriched from strategies CSV via Claude
+* **Enrich**: Activating Prior Knowledge — enriched from strategies CSV via Claude
+* **Enrich**: Action Oriented Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Activation — enriched from strategies CSV via Claude
+* **Enrich**: Address Digital Literacy — enriched from strategies CSV via Claude
+* **Enrich**: Active Transitions — enriched from strategies CSV via Claude
+* **Enrich**: Active Listening — enriched from strategies CSV via Claude
+* **Enrich**: Address Mother Tongue Interference — enriched from strategies CSV via Claude
+* **Enrich**: Address Literacy Demands — enriched from strategies CSV via Claude
+* **Enrich**: Address Stereotypical Beliefs About Parents And Poverty — enriched from strategies CSV via Claude
+* **Enrich**: Action Oriented Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Accommodating Processing Speed Challenges — enriched from strategies CSV via Claude
+* **Enrich**: Activate Background Knowledge — enriched from strategies CSV via Claude
+* **Enrich**: Action Research — enriched from strategies CSV via Claude
+* **Enrich**: Acoustics And Noise Management — enriched from strategies CSV via Claude
+* **Enrich**: Action Planning — enriched from strategies CSV via Claude
+* **Enrich**: Act It Out — enriched from strategies CSV via Claude
+* **Enrich**: Acronyms And Acrostics — enriched from strategies CSV via Claude
+* **Enrich**: Address Technology Related Fears — enriched from strategies CSV via Claude
+* **Enrich**: Activating And Using Background Knowledge — enriched from strategies CSV via Claude
+* **Enrich**: Address Biases In The Use Of Language And Symbols — enriched from strategies CSV via Claude
+* **Enrich**: Actively Listen To What Students Say — enriched from strategies CSV via Claude
+* **Enrich**: Active Recess — enriched from strategies CSV via Claude
+* **Enrich**: Addressing Stereotype Threat — enriched from strategies CSV via Claude
+* **Enrich**: Air Writing — enriched from strategies CSV via Claude
+* **Enrich**: Analysis Of Classroom Dynamics Through Shadowing — enriched from strategies CSV via Claude
+* **Enrich**: All About Me Posters — enriched from strategies CSV via Claude
+* **Enrich**: Asynchronous Voice — enriched from strategies CSV via Claude
+* **Enrich**: Analyzing Self Talk — enriched from strategies CSV via Claude
+* **Enrich**: Augmented Reality (Ar) For Medical Education And Training — enriched from strategies CSV via Claude
+* **Enrich**: Assigned Readings — enriched from strategies CSV via Claude
+* **Enrich**: Anticipation Guides — enriched from strategies CSV via Claude
+* **Enrich**: Art Journaling — enriched from strategies CSV via Claude
+* **Enrich**: Audio Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Big Ten Student Motivators — enriched from strategies CSV via Claude
+* **Enrich**: Black Genius Profile — enriched from strategies CSV via Claude
+* **Enrich**: Authentic Learning Tasks — enriched from strategies CSV via Claude
+* **Enrich**: Backward Design — enriched from strategies CSV via Claude
+* **Enrich**: Authentic Audiences And Purposes — enriched from strategies CSV via Claude
+* **Enrich**: Ball Toss Game — enriched from strategies CSV via Claude
+* **Enrich**: Brain Dumps — enriched from strategies CSV via Claude
+* **Enrich**: Body Scan Meditation — enriched from strategies CSV via Claude
+* **Enrich**: Broaden Your Palate — enriched from strategies CSV via Claude
+* **Enrich**: Bookmatch Scaffolding Independent Book Selection — enriched from strategies CSV via Claude
+* **Enrich**: Brain Breaks — enriched from strategies CSV via Claude
+* **Enrich**: Build A Community On Student Voice — enriched from strategies CSV via Claude
+* **Enrich**: Break Tasks Into Pieces — enriched from strategies CSV via Claude
+* **Enrich**: Calm And Honest Reflection — enriched from strategies CSV via Claude
+* **Enrich**: Calibrated Peer Review — enriched from strategies CSV via Claude
+* **Enrich**: Challenge Based Learning (Cbl) — enriched from strategies CSV via Claude
+* **Enrich**: Caring For Students — enriched from strategies CSV via Claude
+* **Enrich**: Case Studies — enriched from strategies CSV via Claude
+* **Enrich**: Checking Your Blind Spot — enriched from strategies CSV via Claude
+* **Enrich**: Choice Based Learning — enriched from strategies CSV via Claude
+* **Enrich**: Chunking Reduces Working Memory Load — enriched from strategies CSV via Claude
+* **Enrich**: Chunking Information — enriched from strategies CSV via Claude
+* **Enrich**: Class Discussion Norms — enriched from strategies CSV via Claude
+* **Enrich**: Circle Count — enriched from strategies CSV via Claude
+* **Enrich**: Co Constructing Classroom Norms — enriched from strategies CSV via Claude
+* **Enrich**: Classroom Physical Activity Breaks — enriched from strategies CSV via Claude
+* **Enrich**: Classroom Routines And Procedures — enriched from strategies CSV via Claude
+* **Enrich**: Clear Structure Presentation — enriched from strategies CSV via Claude
+* **Enrich**: Cloud Text To Speech Api — enriched from strategies CSV via Claude
+* **Enrich**: Co Constructing Rubrics With Students — enriched from strategies CSV via Claude
+* **Enrich**: Cognitive Strategy Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Cold Call To Sample Pair Responses — enriched from strategies CSV via Claude
+* **Enrich**: Collaborative Strategic Reading — enriched from strategies CSV via Claude
+* **Enrich**: Community Building On Student Voice — enriched from strategies CSV via Claude
+* **Enrich**: Comfortable Learning Spaces — enriched from strategies CSV via Claude
+* **Enrich**: Comparing_Cases — enriched from strategies CSV via Claude
+* **Enrich**: Comprehension Checks — enriched from strategies CSV via Claude
+* **Enrich**: Connect Math To Student Strengths — enriched from strategies CSV via Claude
+* **Enrich**: Connect Content To Student Lives — enriched from strategies CSV via Claude
+* **Enrich**: Connecting Math To Esol — enriched from strategies CSV via Claude
+* **Enrich**: Consolidate Key Points — enriched from strategies CSV via Claude
+* **Enrich**: Comprehensive School Physical Activity Programs — enriched from strategies CSV via Claude
+* **Enrich**: Cooperative Classroom Activities — enriched from strategies CSV via Claude
+* **Enrich**: Cooperative Learning — enriched from strategies CSV via Claude
+* **Enrich**: Correcting Students In A Constructive Way — enriched from strategies CSV via Claude
+* **Enrich**: Counting Circles — enriched from strategies CSV via Claude
+* **Enrich**: Craap Test — enriched from strategies CSV via Claude
+* **Enrich**: Counting Based Arithmetic Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Creating A Classroom Library — enriched from strategies CSV via Claude
+* **Enrich**: Create Beautiful Spaces — enriched from strategies CSV via Claude
+* **Enrich**: Creating An Action Plan — enriched from strategies CSV via Claude
+* **Enrich**: Create Culture Kits — enriched from strategies CSV via Claude
+* **Enrich**: Creating Collaborative Spaces — enriched from strategies CSV via Claude
+* **Enrich**: Creating A Sense Of Belonging — enriched from strategies CSV via Claude
+* **Enrich**: Creating Quiet Spaces — enriched from strategies CSV via Claude
+* **Enrich**: Creating Space For New Ideas — enriched from strategies CSV via Claude
+* **Enrich**: Creative Check In Questions — enriched from strategies CSV via Claude
+* **Enrich**: Creative Handwriting Activities — enriched from strategies CSV via Claude
+* **Enrich**: Creative Presentations — enriched from strategies CSV via Claude
+* **Enrich**: Critical Lens Development — enriched from strategies CSV via Claude
+* **Enrich**: Cross Age Peer Tutoring — enriched from strategies CSV via Claude
+* **Enrich**: Cultivating Belonging Through Environmental Cues — enriched from strategies CSV via Claude
+* **Enrich**: Cultural Responsive Practice — enriched from strategies CSV via Claude
+* **Enrich**: Culturally Responsive Curriculum Scorecards — enriched from strategies CSV via Claude
+* **Enrich**: Curating Resources — enriched from strategies CSV via Claude
+* **Enrich**: Curated Material Selection — enriched from strategies CSV via Claude
+* **Enrich**: Cumulative Review — enriched from strategies CSV via Claude
+* **Enrich**: De Emphasize Answers, Emphasize Reasoning — enriched from strategies CSV via Claude
+* **Enrich**: Cursive Handwriting Activities — enriched from strategies CSV via Claude
+* **Enrich**: Data Based Decision Making For Core Instruction — enriched from strategies CSV via Claude
+* **Enrich**: De Emphasize Behavioral Factors — enriched from strategies CSV via Claude
+* **Enrich**: Deliberate Practice — enriched from strategies CSV via Claude
+* **Enrich**: Debate — enriched from strategies CSV via Claude
+* **Enrich**: Demonstrating Caring — enriched from strategies CSV via Claude
+* **Enrich**: Desmos Classroom Activities — enriched from strategies CSV via Claude
+* **Enrich**: Develop A Reliability Checklist — enriched from strategies CSV via Claude
+* **Enrich**: Demystification Of Learning Challenges — enriched from strategies CSV via Claude
+* **Enrich**: Digital Storytelling — enriched from strategies CSV via Claude
+* **Enrich**: Dialogic Reading — enriched from strategies CSV via Claude
+* **Enrich**: Developing Cultural Awareness — enriched from strategies CSV via Claude
+* **Enrich**: Differentiated Teaching — enriched from strategies CSV via Claude
+* **Enrich**: Dictation And Encoding Practice — enriched from strategies CSV via Claude
+* **Enrich**: Dictation — enriched from strategies CSV via Claude
+* **Enrich**: Direct Instruction Genre Specific Writing Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Direct Instruction (Online) — enriched from strategies CSV via Claude
+* **Enrich**: Direct Instruction Phonics — enriched from strategies CSV via Claude
+* **Enrich**: Direct Instruction Problem Solving Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Direct Instruction Keyword Search — enriched from strategies CSV via Claude
+* **Enrich**: Direct Instruction Spelling — enriched from strategies CSV via Claude
+* **Enrich**: Discuss The Benefits Of Positive Self Talk — enriched from strategies CSV via Claude
+* **Enrich**: Discussing Potential Emotions In Advance — enriched from strategies CSV via Claude
+* **Enrich**: Discussing Emotions — enriched from strategies CSV via Claude
+* **Enrich**: Discussions To Guide Reflection — enriched from strategies CSV via Claude
+* **Enrich**: Discussion (Pre Reading) — enriched from strategies CSV via Claude
+* **Enrich**: Discussing Race With Students — enriched from strategies CSV via Claude
+* **Enrich**: Diversity Of Perspectives And Identities — enriched from strategies CSV via Claude
+* **Enrich**: Dolch Word List   Word Search Puzzles — enriched from strategies CSV via Claude
+* **Enrich**: Domain Check — enriched from strategies CSV via Claude
+* **Enrich**: Dragonbox Algebra 5+ App — enriched from strategies CSV via Claude
+* **Enrich**: Drawing For Memory And Comprehension — enriched from strategies CSV via Claude
+* **Enrich**: Drawing To Learn — enriched from strategies CSV via Claude
+* **Enrich**: Dot Card Matching Games — enriched from strategies CSV via Claude
+* **Enrich**: Drawing For Memory And Learning — enriched from strategies CSV via Claude
+* **Enrich**: Drawing For Emergent Writing — enriched from strategies CSV via Claude
+* **Enrich**: Emotion Hello Song — enriched from strategies CSV via Claude
+* **Enrich**: Emotional Walking Game — enriched from strategies CSV via Claude
+* **Enrich**: Emotional Check Ins — enriched from strategies CSV via Claude
+* **Enrich**: Emotional Vocabulary Building — enriched from strategies CSV via Claude
+* **Enrich**: Emotion Word Inclusion In Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Eq Feeling Chart Check In — enriched from strategies CSV via Claude
+* **Enrich**: Empathy For Educators — enriched from strategies CSV via Claude
+* **Enrich**: Establish Group Roles — enriched from strategies CSV via Claude
+* **Enrich**: Establish Ground Rules For Peer Critique — enriched from strategies CSV via Claude
+* **Enrich**: Encouraging Self Advocacy — enriched from strategies CSV via Claude
+* **Enrich**: Estimation And Prediction Activities — enriched from strategies CSV via Claude
+* **Enrich**: Evaluating_Online_Sources — enriched from strategies CSV via Claude
+* **Enrich**: Exit Tickets — enriched from strategies CSV via Claude
+* **Enrich**: Explicit Or Direct Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Explicitly Discuss Different Perspectives — enriched from strategies CSV via Claude
+* **Enrich**: Explicitly Addressing Social Awareness — enriched from strategies CSV via Claude
+* **Enrich**: Explicit Discussion Of Perspectives — enriched from strategies CSV via Claude
+* **Enrich**: Explicit Phonics Routines — enriched from strategies CSV via Claude
+* **Enrich**: Expressive Writing — enriched from strategies CSV via Claude
+* **Enrich**: Explicit Instruction In Self Advocacy And Self Determination — enriched from strategies CSV via Claude
+* **Enrich**: Field Trips — enriched from strategies CSV via Claude
+* **Enrich**: Feedback Through Different Media — enriched from strategies CSV via Claude
+* **Enrich**: Fictional Characters To Teach Social Awareness — enriched from strategies CSV via Claude
+* **Enrich**: Fist Tapping & Arm Tapping — enriched from strategies CSV via Claude
+* **Enrich**: Fishbowl Discussion — enriched from strategies CSV via Claude
+* **Enrich**: Flexible Seating Patterns And Configurations — enriched from strategies CSV via Claude
+* **Enrich**: Gallery Quote Walk Check In — enriched from strategies CSV via Claude
+* **Enrich**: Gain Attention Before Giving Instructions — enriched from strategies CSV via Claude
+* **Enrich**: Gallery Quote Walk — enriched from strategies CSV via Claude
+* **Enrich**: Functional Behavior Assessment — enriched from strategies CSV via Claude
+* **Enrich**: Gradual Increase Of Independent Reading Time — enriched from strategies CSV via Claude
+* **Enrich**: Gonoodle Physical Activity & Movement Breaks — enriched from strategies CSV via Claude
+* **Enrich**: Goal Setting_Conferences — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Notes — enriched from strategies CSV via Claude
+* **Enrich**: Graphic_Organizers — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Organizers For Assessment — enriched from strategies CSV via Claude
+* **Enrich**: Greek Combining Forms — enriched from strategies CSV via Claude
+* **Enrich**: Guided Inquiry — enriched from strategies CSV via Claude
+* **Enrich**: Highlighting Strategy With Add On Tool — enriched from strategies CSV via Claude
+* **Enrich**: Highlighting And Exploration Of Patterns, Critical Features, Big Ideas, And Relationships — enriched from strategies CSV via Claude
+* **Enrich**: Historically Responsive Literacy — enriched from strategies CSV via Claude
+* **Enrich**: Hoax Website Analysis — enriched from strategies CSV via Claude
+* **Enrich**: Home Based Literacy Support — enriched from strategies CSV via Claude
+* **Enrich**: Heat Transfer Investigations — enriched from strategies CSV via Claude
+* **Enrich**: Home Literacy Environment Checklist — enriched from strategies CSV via Claude
+* **Enrich**: Home Surveys — enriched from strategies CSV via Claude
+* **Enrich**: How Spelling Supports Reading — enriched from strategies CSV via Claude
+* **Enrich**: How Many Are Hiding? — enriched from strategies CSV via Claude
+* **Enrich**: I Wonder Journals — enriched from strategies CSV via Claude
+* **Enrich**: Identify Feelings — enriched from strategies CSV via Claude
+* **Enrich**: Implement Measures For Student Self Knowledge — enriched from strategies CSV via Claude
+* **Enrich**: Implicit Vocabulary Instruction — enriched from strategies CSV via Claude
+* **Enrich**: If It Happened To You... — enriched from strategies CSV via Claude
+* **Enrich**: Ikea Vr Kitchen Visualizer — enriched from strategies CSV via Claude
+* **Enrich**: Identifying And Supporting Learners With Relationship Skills — enriched from strategies CSV via Claude
+* **Enrich**: Improve Indoor Air Quality — enriched from strategies CSV via Claude
+* **Enrich**: In A Hot Seat — enriched from strategies CSV via Claude
+* **Enrich**: Incorporate Mindfulness Techniques — enriched from strategies CSV via Claude
+* **Enrich**: Individual Spaces — enriched from strategies CSV via Claude
+* **Enrich**: Independent Reading Time — enriched from strategies CSV via Claude
+* **Enrich**: Interaction With Natural Environment — enriched from strategies CSV via Claude
+* **Enrich**: Inquiry Based Learning — enriched from strategies CSV via Claude
+* **Enrich**: Instructor And Peer Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Inquiry Based Writing — enriched from strategies CSV via Claude
+* **Enrich**: Integrating Art And Science — enriched from strategies CSV via Claude
+* **Enrich**: Interactive Delivery With Questioning — enriched from strategies CSV via Claude
+* **Enrich**: Introduce Summary Frames — enriched from strategies CSV via Claude
+* **Enrich**: Islamic Geometry Exploration — enriched from strategies CSV via Claude
+* **Enrich**: Interactive Scenarios — enriched from strategies CSV via Claude
+* **Enrich**: Interest Based Negotiation — enriched from strategies CSV via Claude
+* **Enrich**: Intervene In Abusive Language — enriched from strategies CSV via Claude
+* **Enrich**: Introducing Yourself Via Video — enriched from strategies CSV via Claude
+* **Enrich**: Jigsaw Reading — enriched from strategies CSV via Claude
+* **Enrich**: Journal Reflections — enriched from strategies CSV via Claude
+* **Enrich**: Journals_And_Learning_Logs — enriched from strategies CSV via Claude
+* **Enrich**: Kwl — enriched from strategies CSV via Claude
+* **Enrich**: Keep Your Love Of Teaching — enriched from strategies CSV via Claude
+* **Enrich**: Just In Time Teaching — enriched from strategies CSV via Claude
+* **Enrich**: Ladder Of Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Labeling Emotions Throughout The Day — enriched from strategies CSV via Claude
+* **Enrich**: Language Songs — enriched from strategies CSV via Claude
+* **Enrich**: Learning Cycles — enriched from strategies CSV via Claude
+* **Enrich**: Learning Walks — enriched from strategies CSV via Claude
+* **Enrich**: Learning Interest Inventories — enriched from strategies CSV via Claude
+* **Enrich**: Learning Games — enriched from strategies CSV via Claude
+* **Enrich**: Learning Logs — enriched from strategies CSV via Claude
+* **Enrich**: Lesson Study — enriched from strategies CSV via Claude
+* **Enrich**: Learning_Conferences — enriched from strategies CSV via Claude
+* **Enrich**: Leveraging Family Knowledge — enriched from strategies CSV via Claude
+* **Enrich**: Lesson Plans — enriched from strategies CSV via Claude
+* **Enrich**: Let Students Know What Order They Will Be Called On — enriched from strategies CSV via Claude
+* **Enrich**: Letter Formation Practice — enriched from strategies CSV via Claude
+* **Enrich**: Leveraging Strengths To Address Learning Differences — enriched from strategies CSV via Claude
+* **Enrich**: Leveraging Strengths In Relationship Skills — enriched from strategies CSV via Claude
+* **Enrich**: Life Back Then — enriched from strategies CSV via Claude
+* **Enrich**: Making Connections — enriched from strategies CSV via Claude
+* **Enrich**: Mastery Learning — enriched from strategies CSV via Claude
+* **Enrich**: Mastery Reassessment — enriched from strategies CSV via Claude
+* **Enrich**: Metacognitive Awareness For Self Regulation — enriched from strategies CSV via Claude
+* **Enrich**: Math Fact Fluency Games — enriched from strategies CSV via Claude
+* **Enrich**: Mathematical Dance — enriched from strategies CSV via Claude
+* **Enrich**: Math Coaching — enriched from strategies CSV via Claude
+* **Enrich**: Measure_And_Graph_Data — enriched from strategies CSV via Claude
+* **Enrich**: Micro Goal Setting — enriched from strategies CSV via Claude
+* **Enrich**: Mentor Texts — enriched from strategies CSV via Claude
+* **Enrich**: Metacognitive_Reflection_Prompts — enriched from strategies CSV via Claude
+* **Enrich**: Mindful Moment — enriched from strategies CSV via Claude
+* **Enrich**: Mindful_Breathing — enriched from strategies CSV via Claude
+* **Enrich**: Mindfulness And Movement Integration — enriched from strategies CSV via Claude
+* **Enrich**: Mindfulness Techniques — enriched from strategies CSV via Claude
+* **Enrich**: Mindfulness Techniques For Managing Emotional Impulses — enriched from strategies CSV via Claude
+* **Enrich**: Mindfulness Techniques For Self Regulation — enriched from strategies CSV via Claude
+* **Enrich**: Mix It Up — enriched from strategies CSV via Claude
+* **Enrich**: Mistake Friendly Classroom — enriched from strategies CSV via Claude
+* **Enrich**: Mnemonics — enriched from strategies CSV via Claude
+* **Enrich**: Model Texts — enriched from strategies CSV via Claude
+* **Enrich**: Model Eliciting Activities (Meas) — enriched from strategies CSV via Claude
+* **Enrich**: Model The Assignment Or Skill — enriched from strategies CSV via Claude
+* **Enrich**: Modeling Multi Step Processes — enriched from strategies CSV via Claude
+* **Enrich**: Modeling Skills And Interaction — enriched from strategies CSV via Claude
+* **Enrich**: Morphological Analysis — enriched from strategies CSV via Claude
+* **Enrich**: Morphological Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Morphological Analysis Of Latin And Greek Roots — enriched from strategies CSV via Claude
+* **Enrich**: Motion And Forces Experiments — enriched from strategies CSV via Claude
+* **Enrich**: Movement Breaks — enriched from strategies CSV via Claude
+* **Enrich**: Multiple Representations — enriched from strategies CSV via Claude
+* **Enrich**: Multiple Exposures — enriched from strategies CSV via Claude
+* **Enrich**: Multisensory Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Multisensory Teaching — enriched from strategies CSV via Claude
+* **Enrich**: Multipurpose Spaces — enriched from strategies CSV via Claude
+* **Enrich**: Naming The Negative Voice — enriched from strategies CSV via Claude
+* **Enrich**: Mystery Emotion — enriched from strategies CSV via Claude
+* **Enrich**: Multiple Representations — enriched from strategies CSV via Claude
+* **Enrich**: Negotiated Grades — enriched from strategies CSV via Claude
+* **Enrich**: Noise Level Monitoring Tools — enriched from strategies CSV via Claude
+* **Enrich**: Noise Monitoring Tools — enriched from strategies CSV via Claude
+* **Enrich**: Note Taking Note Making — enriched from strategies CSV via Claude
+* **Enrich**: Normalizing Trouble — enriched from strategies CSV via Claude
+* **Enrich**: Notice And Wonder — enriched from strategies CSV via Claude
+* **Enrich**: Number Talks — enriched from strategies CSV via Claude
+* **Enrich**: Numbers To 100 — enriched from strategies CSV via Claude
+* **Enrich**: Online Videos For Family Learning — enriched from strategies CSV via Claude
+* **Enrich**: Open Classroom Climate — enriched from strategies CSV via Claude
+* **Enrich**: On The Job Training (Ojt) — enriched from strategies CSV via Claude
+* **Enrich**: Optimize Classroom Acoustics — enriched from strategies CSV via Claude
+* **Enrich**: Optimize Classroom Size And Space — enriched from strategies CSV via Claude
+* **Enrich**: Organized Online Resources — enriched from strategies CSV via Claude
+* **Enrich**: Pairing With Positive Role Models — enriched from strategies CSV via Claude
+* **Enrich**: Peer Teaching — enriched from strategies CSV via Claude
+* **Enrich**: Peer Review Peer Editing — enriched from strategies CSV via Claude
+* **Enrich**: Ongoing Feedback And Reflection — enriched from strategies CSV via Claude
+* **Enrich**: Peer_Critique — enriched from strategies CSV via Claude
+* **Enrich**: Peer And Self Assessment — enriched from strategies CSV via Claude
+* **Enrich**: Peer Observation — enriched from strategies CSV via Claude
+* **Enrich**: Pencil Grasp Activities — enriched from strategies CSV via Claude
+* **Enrich**: Physical Activity Encouraging Environment — enriched from strategies CSV via Claude
+* **Enrich**: Pictionary (Pre Reading) — enriched from strategies CSV via Claude
+* **Enrich**: Pegword Strategy — enriched from strategies CSV via Claude
+* **Enrich**: Philosophical Chairs — enriched from strategies CSV via Claude
+* **Enrich**: Phonemic Awareness Drills — enriched from strategies CSV via Claude
+* **Enrich**: Physical Activity Breaks — enriched from strategies CSV via Claude
+* **Enrich**: Physical Activity & Recess — enriched from strategies CSV via Claude
+* **Enrich**: Picture Word Inductive Model — enriched from strategies CSV via Claude
+* **Enrich**: Pizza Box Portfolios — enriched from strategies CSV via Claude
+* **Enrich**: Poetry Exploration Through Digital Libraries — enriched from strategies CSV via Claude
+* **Enrich**: Playground Pickup Sports And Jam Sessions — enriched from strategies CSV via Claude
+* **Enrich**: Playful Spaces — enriched from strategies CSV via Claude
+* **Enrich**: Play Based Learning — enriched from strategies CSV via Claude
+* **Enrich**: Podcast Based Learning — enriched from strategies CSV via Claude
+* **Enrich**: Playing With Techniques — enriched from strategies CSV via Claude
+* **Enrich**: Playworks Teamup Recess Program — enriched from strategies CSV via Claude
+* **Enrich**: Portfolio Development — enriched from strategies CSV via Claude
+* **Enrich**: Positive Affirmations — enriched from strategies CSV via Claude
+* **Enrich**: Positive Time Out — enriched from strategies CSV via Claude
+* **Enrich**: Positive Intention & Generosity In Networking — enriched from strategies CSV via Claude
+* **Enrich**: Positive Scripts — enriched from strategies CSV via Claude
+* **Enrich**: Practice Time — enriched from strategies CSV via Claude
+* **Enrich**: Praise_And_Reinforcement — enriched from strategies CSV via Claude
+* **Enrich**: Pre Teaching Vocabulary — enriched from strategies CSV via Claude
+* **Enrich**: Pre Reading Generating Questions — enriched from strategies CSV via Claude
+* **Enrich**: Pre Reading Graphic Organizers — enriched from strategies CSV via Claude
+* **Enrich**: Pre Writing Skills Activities — enriched from strategies CSV via Claude
+* **Enrich**: Preferential Seating — enriched from strategies CSV via Claude
+* **Enrich**: Predictability Environment & Structure — enriched from strategies CSV via Claude
+* **Enrich**: Pre Writing With Graphic Organizers — enriched from strategies CSV via Claude
+* **Enrich**: Prep Activities For Shadowing — enriched from strategies CSV via Claude
+* **Enrich**: Present Tense Messages — enriched from strategies CSV via Claude
+* **Enrich**: Pretend Play — enriched from strategies CSV via Claude
+* **Enrich**: Pretesting — enriched from strategies CSV via Claude
+* **Enrich**: Prepare The Ground — enriched from strategies CSV via Claude
+* **Enrich**: Progress Monitoring — enriched from strategies CSV via Claude
+* **Enrich**: Problem Based Learning — enriched from strategies CSV via Claude
+* **Enrich**: Process Writing (Journals) — enriched from strategies CSV via Claude
+* **Enrich**: Project Based Transformation Of Society — enriched from strategies CSV via Claude
+* **Enrich**: Productive Failure — enriched from strategies CSV via Claude
+* **Enrich**: Productive_Struggle — enriched from strategies CSV via Claude
+* **Enrich**: Project Based Learning (Pbl) — enriched from strategies CSV via Claude
+* **Enrich**: Prompt Cards For Emotional Regulation — enriched from strategies CSV via Claude
+* **Enrich**: Provide Instructions Before Starting Work — enriched from strategies CSV via Claude
+* **Enrich**: Provide Opportunities For Success — enriched from strategies CSV via Claude
+* **Enrich**: Provide Writing Models — enriched from strategies CSV via Claude
+* **Enrich**: Providing Manipulatives — enriched from strategies CSV via Claude
+* **Enrich**: Question Generation — enriched from strategies CSV via Claude
+* **Enrich**: Quiet Space For Self Regulation — enriched from strategies CSV via Claude
+* **Enrich**: Puppet Shows To Explore Emotions — enriched from strategies CSV via Claude
+* **Enrich**: Read Alouds With Deliberate Topics — enriched from strategies CSV via Claude
+* **Enrich**: Read Alouds With Discussion — enriched from strategies CSV via Claude
+* **Enrich**: Racial Identity Work For Educators — enriched from strategies CSV via Claude
+* **Enrich**: Read Aloud Routines — enriched from strategies CSV via Claude
+* **Enrich**: Read Aloud — enriched from strategies CSV via Claude
+* **Enrich**: Reading Conferences — enriched from strategies CSV via Claude
+* **Enrich**: Reading And Writing For Real World Math Applications — enriched from strategies CSV via Claude
+* **Enrich**: Real World Math Applications — enriched from strategies CSV via Claude
+* **Enrich**: Reciprocal Teaching Peer Assisted Learning Strategies (Pals) — enriched from strategies CSV via Claude
+* **Enrich**: Reflective Assessment — enriched from strategies CSV via Claude
+* **Enrich**: Reframing Negative Self Talk — enriched from strategies CSV via Claude
+* **Enrich**: Reflective Journals — enriched from strategies CSV via Claude
+* **Enrich**: Reflection On Learning — enriched from strategies CSV via Claude
+* **Enrich**: Reinforce Positive Behaviors — enriched from strategies CSV via Claude
+* **Enrich**: Reflex Math App — enriched from strategies CSV via Claude
+* **Enrich**: Regular Physical Education (Pe) Classes — enriched from strategies CSV via Claude
+* **Enrich**: Relate Math To Student Strengths — enriched from strategies CSV via Claude
+* **Enrich**: Replace Negative Influences With Positive Ones — enriched from strategies CSV via Claude
+* **Enrich**: Response Devices — enriched from strategies CSV via Claude
+* **Enrich**: Research Reports — enriched from strategies CSV via Claude
+* **Enrich**: Retrieval Practice Warm Ups — enriched from strategies CSV via Claude
+* **Enrich**: Retrieval Practice With Graphic Organizers — enriched from strategies CSV via Claude
+* **Enrich**: Retrieval Practice — enriched from strategies CSV via Claude
+* **Enrich**: Rich Resources Diversity — enriched from strategies CSV via Claude
+* **Enrich**: Rubrics — enriched from strategies CSV via Claude
+* **Enrich**: Rich Library Audio & Braille — enriched from strategies CSV via Claude
+* **Enrich**: Rubric Based Assessment — enriched from strategies CSV via Claude
+* **Enrich**: Sel Questioning — enriched from strategies CSV via Claude
+* **Enrich**: Self Monitoring Of Attention (Sma) — enriched from strategies CSV via Claude
+* **Enrich**: Self Assessment Rubrics — enriched from strategies CSV via Claude
+* **Enrich**: Semantic_Feature_Analysis — enriched from strategies CSV via Claude
+* **Enrich**: Self Regulated Strategy Development — enriched from strategies CSV via Claude
+* **Enrich**: Sensitivity To Language Concerns — enriched from strategies CSV via Claude
+* **Enrich**: Sentence Combining — enriched from strategies CSV via Claude
+* **Enrich**: Separating Effort From Achievement — enriched from strategies CSV via Claude
+* **Enrich**: Setting Goals — enriched from strategies CSV via Claude
+* **Enrich**: Share Teacher'S Written Work — enriched from strategies CSV via Claude
+* **Enrich**: Show Me — enriched from strategies CSV via Claude
+* **Enrich**: Shadowing To Adjust Behavior Problems — enriched from strategies CSV via Claude
+* **Enrich**: Shared Reflection — enriched from strategies CSV via Claude
+* **Enrich**: Show And Tell For Multimodal Composition — enriched from strategies CSV via Claude
+* **Enrich**: Silent Game Incentive — enriched from strategies CSV via Claude
+* **Enrich**: Simulation Based Learning — enriched from strategies CSV via Claude
+* **Enrich**: Simulation Based Medical Training — enriched from strategies CSV via Claude
+* **Enrich**: Soar Feedback Method — enriched from strategies CSV via Claude
+* **Enrich**: Songs And Rhymes — enriched from strategies CSV via Claude
+* **Enrich**: Socratic Seminar — enriched from strategies CSV via Claude
+* **Enrich**: Socratic Seminars — enriched from strategies CSV via Claude
+* **Enrich**: Sound Walls — enriched from strategies CSV via Claude
+* **Enrich**: Spaced Learning Through Activity Breaks — enriched from strategies CSV via Claude
+* **Enrich**: Stages Of Drawing And Writing Development — enriched from strategies CSV via Claude
+* **Enrich**: Stand Up Sit Down — enriched from strategies CSV via Claude
+* **Enrich**: Squeeze Ball Or Theraputty — enriched from strategies CSV via Claude
+* **Enrich**: Standard Inverted Classroom — enriched from strategies CSV via Claude
+* **Enrich**: Station Rotation — enriched from strategies CSV via Claude
+* **Enrich**: Stations Interacting With Multiple Texts — enriched from strategies CSV via Claude
+* **Enrich**: Stop And Jot — enriched from strategies CSV via Claude
+* **Enrich**: Story Map — enriched from strategies CSV via Claude
+* **Enrich**: Strategy Identification & Reflection — enriched from strategies CSV via Claude
+* **Enrich**: Strengths Based Ieps — enriched from strategies CSV via Claude
+* **Enrich**: Strengths Based Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Strength Based Strategies For Social Awareness — enriched from strategies CSV via Claude
+* **Enrich**: Structured_Academic_Controversy — enriched from strategies CSV via Claude
+* **Enrich**: Structured Music And Dance Activities — enriched from strategies CSV via Claude
+* **Enrich**: Student Created Magazines — enriched from strategies CSV via Claude
+* **Enrich**: Structured Questioning For Pair Talk — enriched from strategies CSV via Claude
+* **Enrich**: Student Generated Problems — enriched from strategies CSV via Claude
+* **Enrich**: Student Led Conferences — enriched from strategies CSV via Claude
+* **Enrich**: Student Led Conferences — enriched from strategies CSV via Claude
+* **Enrich**: Student Demonstrations — enriched from strategies CSV via Claude
+* **Enrich**: Student Choice — enriched from strategies CSV via Claude
+* **Enrich**: Student Blogging — enriched from strategies CSV via Claude
+* **Enrich**: Student Voice In Curriculum Planning — enriched from strategies CSV via Claude
+* **Enrich**: Student Presentation Of Collaborative Work — enriched from strategies CSV via Claude
+* **Enrich**: Student Models — enriched from strategies CSV via Claude
+* **Enrich**: Student Shadowing (For High School Instructors) — enriched from strategies CSV via Claude
+* **Enrich**: Student Shadowing (For Educator Insights) — enriched from strategies CSV via Claude
+* **Enrich**: Student Shadowing (Qualitative Data Collection) — enriched from strategies CSV via Claude
+* **Enrich**: Support Decoding Of Text, Mathematical Notation, And Symbols — enriched from strategies CSV via Claude
+* **Enrich**: Student Shadowing — enriched from strategies CSV via Claude
+* **Enrich**: Support For Decoding Text, Mathematical Notation, And Symbols — enriched from strategies CSV via Claude
+* **Enrich**: Take A Break Station — enriched from strategies CSV via Claude
+* **Enrich**: Sustained Silent Reading — enriched from strategies CSV via Claude
+* **Enrich**: Tactile Toys For Sensory Integration — enriched from strategies CSV via Claude
+* **Enrich**: Take Action, Be Intentional — enriched from strategies CSV via Claude
+* **Enrich**: Teach Self Regulation Skills — enriched from strategies CSV via Claude
+* **Enrich**: Task Analysis — enriched from strategies CSV via Claude
+* **Enrich**: Temperature Monitoring For Learning Environments — enriched from strategies CSV via Claude
+* **Enrich**: Temperature Control — enriched from strategies CSV via Claude
+* **Enrich**: Text Based Discussions — enriched from strategies CSV via Claude
+* **Enrich**: Test Study Test Technique — enriched from strategies CSV via Claude
+* **Enrich**: Text To Speech (Tts) — enriched from strategies CSV via Claude
+* **Enrich**: Text To Speech (Tts) Software — enriched from strategies CSV via Claude
+* **Enrich**: Text + Social Annotation + Structured Activity — enriched from strategies CSV via Claude
+* **Enrich**: Text Illustrations With Graphic Organizers — enriched from strategies CSV via Claude
+* **Enrich**: Text Chats In Instruction — enriched from strategies CSV via Claude
+* **Enrich**: The Disciplinary Steps — enriched from strategies CSV via Claude
+* **Enrich**: Through The Eyes Of The People In A Story — enriched from strategies CSV via Claude
+* **Enrich**: The Pencil Pledge — enriched from strategies CSV via Claude
+* **Enrich**: Thinking About Emotions In Advance — enriched from strategies CSV via Claude
+* **Enrich**: Tossing Activity — enriched from strategies CSV via Claude
+* **Enrich**: Tier Two Vocabulary Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Tpri Diagnostic Assessment — enriched from strategies CSV via Claude
+* **Enrich**: Translate Academic To Social Language — enriched from strategies CSV via Claude
+* **Enrich**: Timely Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Translate Report Cards Into Multiple Languages — enriched from strategies CSV via Claude
+* **Enrich**: Travel Journals — enriched from strategies CSV via Claude
+* **Enrich**: Turn Around Time — enriched from strategies CSV via Claude
+* **Enrich**: Twelve Angry Men — enriched from strategies CSV via Claude
+* **Enrich**: Uncluttered Learning Environment — enriched from strategies CSV via Claude
+* **Enrich**: Understand Your Bias — enriched from strategies CSV via Claude
+* **Enrich**: Ungrading — enriched from strategies CSV via Claude
+* **Enrich**: Untimed Tests — enriched from strategies CSV via Claude
+* **Enrich**: Use Current Events And Fictional Characters To Teach Social Awareness — enriched from strategies CSV via Claude
+* **Enrich**: Use Current Events & Fictional Characters — enriched from strategies CSV via Claude
+* **Enrich**: Using A Culturally Responsive Curriculum Scorecard — enriched from strategies CSV via Claude
+* **Enrich**: Using Technology — enriched from strategies CSV via Claude
+* **Enrich**: Utility Value Connections — enriched from strategies CSV via Claude
+* **Enrich**: Utilize Text Messaging For Parent Engagement — enriched from strategies CSV via Claude
+* **Enrich**: Validate Feelings — enriched from strategies CSV via Claude
+* **Enrich**: Utilizing Mobile Communication Apps For Parent Engagement — enriched from strategies CSV via Claude
+* **Enrich**: Valuing The Learning Process — enriched from strategies CSV via Claude
+* **Enrich**: Verbal Feedback On Writing — enriched from strategies CSV via Claude
+* **Enrich**: Varying Levels Of Choice In Assessments — enriched from strategies CSV via Claude
+* **Enrich**: Varying Irrelevant Attributes In Examples — enriched from strategies CSV via Claude
+* **Enrich**: Venn Diagrams — enriched from strategies CSV via Claude
+* **Enrich**: Virtual Reality (Vr) Training — enriched from strategies CSV via Claude
+* **Enrich**: Virtual Flipped Classroom — enriched from strategies CSV via Claude
+* **Enrich**: Virtual Reality (Vr) For Empathy Training — enriched from strategies CSV via Claude
+* **Enrich**: Visual Prompts For Essay Writing — enriched from strategies CSV via Claude
+* **Enrich**: Virtual Reality Immersive Training — enriched from strategies CSV via Claude
+* **Enrich**: Visual Organizers — enriched from strategies CSV via Claude
+* **Enrich**: Visual Reading Aids — enriched from strategies CSV via Claude
+* **Enrich**: Wall Calendar — enriched from strategies CSV via Claude
+* **Enrich**: Visualizations And Mind Maps — enriched from strategies CSV via Claude
+* **Enrich**: Waste Reduction Solutions — enriched from strategies CSV via Claude
+* **Enrich**: Warning And Consequence — enriched from strategies CSV via Claude
+* **Enrich**: Website Evaluation Checklist — enriched from strategies CSV via Claude
+* **Enrich**: Web Based Dictionary & Thesaurus — enriched from strategies CSV via Claude
+* **Enrich**: Weekly Student Reflection — enriched from strategies CSV via Claude
+* **Enrich**: What’S My Emotion? Game — enriched from strategies CSV via Claude
+* **Enrich**: Word Building — enriched from strategies CSV via Claude
+* **Enrich**: Windows, Mirrors, And Sliding Glass Doors — enriched from strategies CSV via Claude
+* **Enrich**: Word Detective (Word Identification In Context) — enriched from strategies CSV via Claude
+* **Enrich**: Worked Examples — enriched from strategies CSV via Claude
+* **Enrich**: Word Sorts — enriched from strategies CSV via Claude
+* **Enrich**: Word Processing And Technology Tools — enriched from strategies CSV via Claude
+* **Enrich**: Worked Examples Types — enriched from strategies CSV via Claude
+* **Enrich**: Working Memory Support Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Write Your Own Word Problem — enriched from strategies CSV via Claude
+* **Enrich**: Writing Conferences — enriched from strategies CSV via Claude
+* **Enrich**: Writing Process Approach — enriched from strategies CSV via Claude
+* **Enrich**: Writing Workshops — enriched from strategies CSV via Claude
+* **Enrich**: Yoga, Breathing, And Meditation — enriched from strategies CSV via Claude
+* **Enrich**: Achievable Micro-goals — enriched from strategies CSV via Claude
+* **Enrich**: Act It Out — enriched from strategies CSV via Claude
+* **Enrich**: Accommodate Varying Technology Experience — enriched from strategies CSV via Claude
+* **Enrich**: Acronyms and Acrostics — enriched from strategies CSV via Claude
+* **Enrich**: Accommodating Processing Speed Challenges — enriched from strategies CSV via Claude
+* **Enrich**: Acting/Role Play — enriched from strategies CSV via Claude
+* **Enrich**: Activation — enriched from strategies CSV via Claude
+* **Enrich**: Activating Background Knowledge — enriched from strategies CSV via Claude
+* **Enrich**: Activate Background Knowledge — enriched from strategies CSV via Claude
+* **Enrich**: Actively Listen to What Students Say — enriched from strategies CSV via Claude
+* **Enrich**: Active_Listening — enriched from strategies CSV via Claude
+* **Enrich**: Acoustics and Noise Management — enriched from strategies CSV via Claude
+* **Enrich**: Action Planning — enriched from strategies CSV via Claude
+* **Enrich**: Activating Prior Knowledge — enriched from strategies CSV via Claude
+* **Enrich**: Activities for Student Self-Reflection — enriched from strategies CSV via Claude
+* **Enrich**: Address Stereotypical Beliefs About Parents and Poverty — enriched from strategies CSV via Claude
+* **Enrich**: Address Speed of Processing — enriched from strategies CSV via Claude
+* **Enrich**: Address Mother Tongue Interference — enriched from strategies CSV via Claude
+* **Enrich**: Activating and Using Background Knowledge — enriched from strategies CSV via Claude
+* **Enrich**: Addressing Implicit Bias — enriched from strategies CSV via Claude
+* **Enrich**: Address Technology-Related Fears — enriched from strategies CSV via Claude
+* **Enrich**: Addressing Biases in the Use of Language and Symbols — enriched from strategies CSV via Claude
+* **Enrich**: Addressing Stereotype Threat — enriched from strategies CSV via Claude
+* **Enrich**: Address Literacy Demands — enriched from strategies CSV via Claude
+* **Enrich**: Advance_Organizers — enriched from strategies CSV via Claude
+* **Enrich**: Aggregating Information — enriched from strategies CSV via Claude
+* **Enrich**: Affinity Mapping — enriched from strategies CSV via Claude
+* **Enrich**: Adjust Time Frames — enriched from strategies CSV via Claude
+* **Enrich**: Affirmation Repetition — enriched from strategies CSV via Claude
+* **Enrich**: Address Digital Literacy — enriched from strategies CSV via Claude
+* **Enrich**: Allowing Think-Time and Re-Reading — enriched from strategies CSV via Claude
+* **Enrich**: AI in Education Toolkit for Racial Equity — enriched from strategies CSV via Claude
+* **Enrich**: Air Writing — enriched from strategies CSV via Claude
+* **Enrich**: Allow Think-Time and Re-reading (Processing Speed) — enriched from strategies CSV via Claude
+* **Enrich**: Address Biases in the Use of Language and Symbols — enriched from strategies CSV via Claude
+* **Enrich**: Alphabet Books — enriched from strategies CSV via Claude
+* **Enrich**: Alternative Math Assessments — enriched from strategies CSV via Claude
+* **Enrich**: Ample Space — enriched from strategies CSV via Claude
+* **Enrich**: Always Be Positive — enriched from strategies CSV via Claude
+* **Enrich**: Analyzing Self-Talk — enriched from strategies CSV via Claude
+* **Enrich**: Amplifying Key Ideas — enriched from strategies CSV via Claude
+* **Enrich**: Analysis of Classroom Dynamics Through Shadowing — enriched from strategies CSV via Claude
+* **Enrich**: Anglo-Saxon Phoneme-Grapheme Mapping — enriched from strategies CSV via Claude
+* **Enrich**: Analyze the Project — enriched from strategies CSV via Claude
+* **Enrich**: Analyze Self-Talk Messages — enriched from strategies CSV via Claude
+* **Enrich**: Analyzing Errors (with Taboo game) — enriched from strategies CSV via Claude
+* **Enrich**: Analyzing Projects for ELL Support — enriched from strategies CSV via Claude
+* **Enrich**: Applicable Reflection — enriched from strategies CSV via Claude
+* **Enrich**: Applied Science Testing — enriched from strategies CSV via Claude
+* **Enrich**: Art and Writing Skill Development Stages — enriched from strategies CSV via Claude
+* **Enrich**: Analyzing Video Replays — enriched from strategies CSV via Claude
+* **Enrich**: Apply Student-Centered Strategies to Support Learning Differences — enriched from strategies CSV via Claude
+* **Enrich**: Applying Student-Centered Strategies to Support Learning Differences — enriched from strategies CSV via Claude
+* **Enrich**: Arts and Crafts — enriched from strategies CSV via Claude
+* **Enrich**: Ask the 4 Questions — enriched from strategies CSV via Claude
+* **Enrich**: Ask Open-Ended Questions — enriched from strategies CSV via Claude
+* **Enrich**: Ask Parents for Their Ideas — enriched from strategies CSV via Claude
+* **Enrich**: Ask the Right Questions — enriched from strategies CSV via Claude
+* **Enrich**: Asset-Based Teaching — enriched from strategies CSV via Claude
+* **Enrich**: Assessing Needs and Wants with Likert Scales — enriched from strategies CSV via Claude
+* **Enrich**: Arts Integration — enriched from strategies CSV via Claude
+* **Enrich**: Assess and Differentiate — enriched from strategies CSV via Claude
+* **Enrich**: Attention Check — enriched from strategies CSV via Claude
+* **Enrich**: Assess Fluency Components — enriched from strategies CSV via Claude
+* **Enrich**: Assume Support — enriched from strategies CSV via Claude
+* **Enrich**: Audio Commentary — enriched from strategies CSV via Claude
+* **Enrich**: Attention Signals — enriched from strategies CSV via Claude
+* **Enrich**: Assessing and Differentiating Language Skills in PBL — enriched from strategies CSV via Claude
+* **Enrich**: Attention Breaks — enriched from strategies CSV via Claude
+* **Enrich**: Asynchronous Voice — enriched from strategies CSV via Claude
+* **Enrich**: Audio + Structured Activity — enriched from strategies CSV via Claude
+* **Enrich**: Audio Books — enriched from strategies CSV via Claude
+* **Enrich**: Augmented Reality (AR) for Military Training — enriched from strategies CSV via Claude
+* **Enrich**: Augmented Reality (AR) for Space Industry Training — enriched from strategies CSV via Claude
+* **Enrich**: Augmented Reality (AR) in Classroom — enriched from strategies CSV via Claude
+* **Enrich**: Audiobooks for Literacy Reinforcement — enriched from strategies CSV via Claude
+* **Enrich**: Awareness of Self-Talk — enriched from strategies CSV via Claude
+* **Enrich**: Action-Oriented Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Audiobooks & E-books — enriched from strategies CSV via Claude
+* **Enrich**: Balancing Homework with Physical Activity — enriched from strategies CSV via Claude
+* **Enrich**: Augmented Reality (AR) for Manufacturing Training — enriched from strategies CSV via Claude
+* **Enrich**: Augmented Reality (AR) for Medical Education and Training — enriched from strategies CSV via Claude
+* **Enrich**: Ball Toss Game — enriched from strategies CSV via Claude
+* **Enrich**: Awareness of Implicit Biases — enriched from strategies CSV via Claude
+* **Enrich**: Be Present for Students — enriched from strategies CSV via Claude
+* **Enrich**: Barometer: Taking a Stand on Controversial Issues — enriched from strategies CSV via Claude
+* **Enrich**: Backchannel Discussions — enriched from strategies CSV via Claude
+* **Enrich**: Before or After-School Physical Activity Programs — enriched from strategies CSV via Claude
+* **Enrich**: Background Knowledge Activation — enriched from strategies CSV via Claude
+* **Enrich**: Behavioral Shadowing — enriched from strategies CSV via Claude
+* **Enrich**: Balanced Classroom Decorations — enriched from strategies CSV via Claude
+* **Enrich**: Blackout Conversation — enriched from strategies CSV via Claude
+* **Enrich**: Balancing Screen Time with Physical Activity — enriched from strategies CSV via Claude
+* **Enrich**: Blended Learning — enriched from strategies CSV via Claude
+* **Enrich**: Body Scan Meditation — enriched from strategies CSV via Claude
+* **Enrich**: Balanced Assessment System — enriched from strategies CSV via Claude
+* **Enrich**: Bigger/Smaller/Equal — enriched from strategies CSV via Claude
+* **Enrich**: Black Genius Profile — enriched from strategies CSV via Claude
+* **Enrich**: Big 10 Student Motivators — enriched from strategies CSV via Claude
+* **Enrich**: Big Ten Student Motivators — enriched from strategies CSV via Claude
+* **Enrich**: Book Clubs — enriched from strategies CSV via Claude
+* **Enrich**: Block Play — enriched from strategies CSV via Claude
+* **Enrich**: Boolean Operators — enriched from strategies CSV via Claude
+* **Enrich**: BOOKMATCH: Scaffolding Independent Book Selection — enriched from strategies CSV via Claude
+* **Enrich**: Braille Texts for Literacy Development — enriched from strategies CSV via Claude
+* **Enrich**: Blocks and Legos: Maker Spaces and Fab Labs — enriched from strategies CSV via Claude
+* **Enrich**: Body Scan Meditation Check-In — enriched from strategies CSV via Claude
+* **Enrich**: Brain-Based Learning Activities — enriched from strategies CSV via Claude
+* **Enrich**: Brain-Based Learning with Movement Breaks — enriched from strategies CSV via Claude
+* **Enrich**: Brain-Based Classroom Redesign — enriched from strategies CSV via Claude
+* **Enrich**: Bolster Credibility — enriched from strategies CSV via Claude
+* **Enrich**: Brainstorming 'Stuff We Want to Know About — enriched from strategies CSV via Claude
+* **Enrich**: Bounce Cards — enriched from strategies CSV via Claude
+* **Enrich**: Brain Dumps — enriched from strategies CSV via Claude
+* **Enrich**: Brain-Based Learning — enriched from strategies CSV via Claude
+* **Enrich**: Brain-Based Learning Through Movement — enriched from strategies CSV via Claude
+* **Enrich**: Break Tasks into Pieces — enriched from strategies CSV via Claude
+* **Enrich**: Brain Breaks — enriched from strategies CSV via Claude
+* **Enrich**: Breathing Exercises — enriched from strategies CSV via Claude
+* **Enrich**: Brainstorming (Pre-Reading) — enriched from strategies CSV via Claude
+* **Enrich**: Bridging Individualism and Collectivism — enriched from strategies CSV via Claude
+* **Enrich**: Bright Spaces with Plenty of Light and Air — enriched from strategies CSV via Claude
+* **Enrich**: Bring Something From Home — enriched from strategies CSV via Claude
+* **Enrich**: Brainstorming Topics of Interest — enriched from strategies CSV via Claude
+* **Enrich**: Break Time Consequence — enriched from strategies CSV via Claude
+* **Enrich**: Breathing Techniques and Mindfulness Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Brief Instruction Steps — enriched from strategies CSV via Claude
+* **Enrich**: Build Relationships with Each Student — enriched from strategies CSV via Claude
+* **Enrich**: Bridging Cultures — enriched from strategies CSV via Claude
+* **Enrich**: Build in Thinking Time — enriched from strategies CSV via Claude
+* **Enrich**: Build Community Through Peer Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Build a Community on Student Voice — enriched from strategies CSV via Claude
+* **Enrich**: Broaden Your Palate — enriched from strategies CSV via Claude
+* **Enrich**: Building Community Through Peer Feedback in PBL — enriched from strategies CSV via Claude
+* **Enrich**: Building a Supportive Classroom Environment for Mistakes — enriched from strategies CSV via Claude
+* **Enrich**: Bring the Outdoors In — enriched from strategies CSV via Claude
+* **Enrich**: Build Time for Self-Reflection — enriched from strategies CSV via Claude
+* **Enrich**: Calming Auditory Input — enriched from strategies CSV via Claude
+* **Enrich**: Calm-Down Corner — enriched from strategies CSV via Claude
+* **Enrich**: Building Trusting Relationships — enriched from strategies CSV via Claude
+* **Enrich**: Building a Community on Student Voice — enriched from strategies CSV via Claude
+* **Enrich**: Building a Sound Wall — enriched from strategies CSV via Claude
+* **Enrich**: Calming Proprioceptive Input — enriched from strategies CSV via Claude
+* **Enrich**: Building a Trusting Community — enriched from strategies CSV via Claude
+* **Enrich**: Calming Sensory Input — enriched from strategies CSV via Claude
+* **Enrich**: Building Cultural Competency Skills for School Staff — enriched from strategies CSV via Claude
+* **Enrich**: Calm and Honest Reflection — enriched from strategies CSV via Claude
+* **Enrich**: Calming Combinations — enriched from strategies CSV via Claude
+* **Enrich**: Calming Movement — enriched from strategies CSV via Claude
+* **Enrich**: Calming Movement Breaks — enriched from strategies CSV via Claude
+* **Enrich**: Calming Visual Input — enriched from strategies CSV via Claude
+* **Enrich**: Caring for Students — enriched from strategies CSV via Claude
+* **Enrich**: Calming Oral Sensory Input — enriched from strategies CSV via Claude
+* **Enrich**: Case Studies — enriched from strategies CSV via Claude
+* **Enrich**: Cede Power (Student Voice) — enriched from strategies CSV via Claude
+* **Enrich**: Chalkboard Math App — enriched from strategies CSV via Claude
+* **Enrich**: Calming Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Can You Make It? — enriched from strategies CSV via Claude
+* **Enrich**: Calming Tactile Input — enriched from strategies CSV via Claude
+* **Enrich**: Case Based Learningcase Based Learning — enriched from strategies CSV via Claude
+* **Enrich**: Case Based_Learning — enriched from strategies CSV via Claude
+* **Enrich**: Calming Strategy Cards — enriched from strategies CSV via Claude
+* **Enrich**: Chart-Based Retrieval and Spaced Practice — enriched from strategies CSV via Claude
+* **Enrich**: Challenge Based Learning (CBL) — enriched from strategies CSV via Claude
+* **Enrich**: Challenge Based Learning — enriched from strategies CSV via Claude
+* **Enrich**: Challenge the Text — enriched from strategies CSV via Claude
+* **Enrich**: Checking Your Blind Spot — enriched from strategies CSV via Claude
+* **Enrich**: Character Profile Creation — enriched from strategies CSV via Claude
+* **Enrich**: Changing Spaces with Mood Lighting — enriched from strategies CSV via Claude
+* **Enrich**: Character Emotion Analysis — enriched from strategies CSV via Claude
+* **Enrich**: Character Scrapbooking — enriched from strategies CSV via Claude
+* **Enrich**: Check for Understanding — enriched from strategies CSV via Claude
+* **Enrich**: Circle Count — enriched from strategies CSV via Claude
+* **Enrich**: Chunk Directions — enriched from strategies CSV via Claude
+* **Enrich**: Choice Boards — enriched from strategies CSV via Claude
+* **Enrich**: Checklists & Rubrics — enriched from strategies CSV via Claude
+* **Enrich**: Clarifying — enriched from strategies CSV via Claude
+* **Enrich**: Clarification of Vocabulary, Symbols, and Language Structures — enriched from strategies CSV via Claude
+* **Enrich**: Children's Literature Integration — enriched from strategies CSV via Claude
+* **Enrich**: Chunking Directions — enriched from strategies CSV via Claude
+* **Enrich**: Choice-Based Quiet Time Activities — enriched from strategies CSV via Claude
+* **Enrich**: Clarify Vocabulary, Symbols, and Language Structures — enriched from strategies CSV via Claude
+* **Enrich**: Circle Time Emotions — enriched from strategies CSV via Claude
+* **Enrich**: Circulate and Listen During Pair Talk — enriched from strategies CSV via Claude
+* **Enrich**: Class Anchor Charts or Plus/Delta Chart — enriched from strategies CSV via Claude
+* **Enrich**: Class Book — enriched from strategies CSV via Claude
+* **Enrich**: Classical Music — enriched from strategies CSV via Claude
+* **Enrich**: Classical Music for Ambiance — enriched from strategies CSV via Claude
+* **Enrich**: Classroom Library — enriched from strategies CSV via Claude
+* **Enrich**: Classroom Physical Activity Breaks — enriched from strategies CSV via Claude
+* **Enrich**: Classification Tasks — enriched from strategies CSV via Claude
+* **Enrich**: Classroom Seating Arrangements — enriched from strategies CSV via Claude
+* **Enrich**: Classwide Peer Editing — enriched from strategies CSV via Claude
+* **Enrich**: Cloud Text-to-Speech API — enriched from strategies CSV via Claude
+* **Enrich**: Classroom Checklists — enriched from strategies CSV via Claude
+* **Enrich**: Co-constructing Knowledge — enriched from strategies CSV via Claude
+* **Enrich**: Classroom Design Optimization — enriched from strategies CSV via Claude
+* **Enrich**: Classroom Games — enriched from strategies CSV via Claude
+* **Enrich**: Classroom Management with Graphic Organizers — enriched from strategies CSV via Claude
+* **Enrich**: Co Constructing_Rubrics_With_Students — enriched from strategies CSV via Claude
+* **Enrich**: Cold Call to Sample Pair Responses — enriched from strategies CSV via Claude
+* **Enrich**: Collaborative Group Work in PBL — enriched from strategies CSV via Claude
+* **Enrich**: Clear Online Communication — enriched from strategies CSV via Claude
+* **Enrich**: Collaborative Learning Space Design — enriched from strategies CSV via Claude
+* **Enrich**: Co-Teaching and Collaboration — enriched from strategies CSV via Claude
+* **Enrich**: Collaborative Peer Review — enriched from strategies CSV via Claude
+* **Enrich**: Collaborative Problem-Solving with Sticky Notes — enriched from strategies CSV via Claude
+* **Enrich**: Cognitively Demanding Tasks — enriched from strategies CSV via Claude
+* **Enrich**: Collaborative Group Work — enriched from strategies CSV via Claude
+* **Enrich**: Collaborative Storytelling — enriched from strategies CSV via Claude
+* **Enrich**: Collaborative Creation of Exemplars — enriched from strategies CSV via Claude
+* **Enrich**: Collect My Data — enriched from strategies CSV via Claude
+* **Enrich**: Collaborative Writing with Online Platforms — enriched from strategies CSV via Claude
+* **Enrich**: Combination of Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Color-Coded Supplies — enriched from strategies CSV via Claude
+* **Enrich**: Collective Data Analysis — enriched from strategies CSV via Claude
+* **Enrich**: Common Ground Group Assignments — enriched from strategies CSV via Claude
+* **Enrich**: Communicate Quickly and Easily Through Mobile Apps — enriched from strategies CSV via Claude
+* **Enrich**: Comfortable Learning Spaces — enriched from strategies CSV via Claude
+* **Enrich**: Collaborative Storytelling with Guiding Questions — enriched from strategies CSV via Claude
+* **Enrich**: Communication Boards — enriched from strategies CSV via Claude
+* **Enrich**: Compare and Contrast Sources — enriched from strategies CSV via Claude
+* **Enrich**: Common Language for Multimodal Composition — enriched from strategies CSV via Claude
+* **Enrich**: Collaborative Writing — enriched from strategies CSV via Claude
+* **Enrich**: Communicate High Expectations and Provide Appropriate Support — enriched from strategies CSV via Claude
+* **Enrich**: Comparing Multiple Solution Methods — enriched from strategies CSV via Claude
+* **Enrich**: Communicating Positive Expectations — enriched from strategies CSV via Claude
+* **Enrich**: Compassionate Curiosity — enriched from strategies CSV via Claude
+* **Enrich**: Collaborative Margin Comments — enriched from strategies CSV via Claude
+* **Enrich**: Complete Scripts of Academic Routines — enriched from strategies CSV via Claude
+* **Enrich**: Comprehension Monitoring — enriched from strategies CSV via Claude
+* **Enrich**: Composition Projects: Multimodal — enriched from strategies CSV via Claude
+* **Enrich**: Compound Word Study — enriched from strategies CSV via Claude
+* **Enrich**: Comprehension Checks — enriched from strategies CSV via Claude
+* **Enrich**: Community Building on Student Voice — enriched from strategies CSV via Claude
+* **Enrich**: Community Involvement — enriched from strategies CSV via Claude
+* **Enrich**: Concept Discovery Through Examples and Non-examples — enriched from strategies CSV via Claude
+* **Enrich**: Concept Mapping — enriched from strategies CSV via Claude
+* **Enrich**: Confront Fears — enriched from strategies CSV via Claude
+* **Enrich**: Conflict_De Escalation — enriched from strategies CSV via Claude
+* **Enrich**: Complex Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Concrete-Representational-Abstract (CRA) — enriched from strategies CSV via Claude
+* **Enrich**: Connect Math to Student Strengths — enriched from strategies CSV via Claude
+* **Enrich**: Connect content to student lives — enriched from strategies CSV via Claude
+* **Enrich**: Connect Prior Knowledge to New Learning — enriched from strategies CSV via Claude
+* **Enrich**: Connect Writing to Real-World Applications — enriched from strategies CSV via Claude
+* **Enrich**: Connecting Background Knowledge to Content — enriched from strategies CSV via Claude
+* **Enrich**: Connecting Emotions to Actions — enriched from strategies CSV via Claude
+* **Enrich**: Connecting Math to ESOL — enriched from strategies CSV via Claude
+* **Enrich**: Connecting ELLs' Background Knowledge to Content — enriched from strategies CSV via Claude
+* **Enrich**: Connecting Languages — enriched from strategies CSV via Claude
+* **Enrich**: Concentric Circles — enriched from strategies CSV via Claude
+* **Enrich**: Connecting Struggles to Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Connection of Prior Knowledge to New Learning — enriched from strategies CSV via Claude
+* **Enrich**: Consider the News Source — enriched from strategies CSV via Claude
+* **Enrich**: Consider Your Own Identity — enriched from strategies CSV via Claude
+* **Enrich**: Consistent Classroom Routines and Schedules — enriched from strategies CSV via Claude
+* **Enrich**: Connecting New Vocabulary to Texts — enriched from strategies CSV via Claude
+* **Enrich**: Constructive Decision-Making Process — enriched from strategies CSV via Claude
+* **Enrich**: Consolidate Key Points — enriched from strategies CSV via Claude
+* **Enrich**: Connect with Parents Early in the School Year — enriched from strategies CSV via Claude
+* **Enrich**: Content-Focused Questioning — enriched from strategies CSV via Claude
+* **Enrich**: Content-Related Signal Word — enriched from strategies CSV via Claude
+* **Enrich**: Content Word Signal — enriched from strategies CSV via Claude
+* **Enrich**: Context-Specific Journaling — enriched from strategies CSV via Claude
+* **Enrich**: Contextual Vocabulary Introduction — enriched from strategies CSV via Claude
+* **Enrich**: Connecting Concepts to Procedures — enriched from strategies CSV via Claude
+* **Enrich**: Conversations about Emotions and Social Issues — enriched from strategies CSV via Claude
+* **Enrich**: Cooperative Learning — enriched from strategies CSV via Claude
+* **Enrich**: Consider Socio-Cultural Factors — enriched from strategies CSV via Claude
+* **Enrich**: Consult Fact-Checking Sites — enriched from strategies CSV via Claude
+* **Enrich**: Cooperative Teaching — enriched from strategies CSV via Claude
+* **Enrich**: CRAAP Test — enriched from strategies CSV via Claude
+* **Enrich**: Create a Calm-Down Corner — enriched from strategies CSV via Claude
+* **Enrich**: Create a Character Profile — enriched from strategies CSV via Claude
+* **Enrich**: Cooperative Learning Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Cooperative Classroom Activities — enriched from strategies CSV via Claude
+* **Enrich**: Create a Word Wall for Emotions — enriched from strategies CSV via Claude
+* **Enrich**: Countdown Technique — enriched from strategies CSV via Claude
+* **Enrich**: Create a List of Positive Self-Talk Statements — enriched from strategies CSV via Claude
+* **Enrich**: Create Beautiful Spaces — enriched from strategies CSV via Claude
+* **Enrich**: Create culture kits — enriched from strategies CSV via Claude
+* **Enrich**: Cooperative Learning Activities — enriched from strategies CSV via Claude
+* **Enrich**: Creating a Digital Library Section for SEL Topics — enriched from strategies CSV via Claude
+* **Enrich**: Correcting Students in a Constructive Way — enriched from strategies CSV via Claude
+* **Enrich**: Creating A Sense of Belonging — enriched from strategies CSV via Claude
+* **Enrich**: Create a Classroom Code of Conduct — enriched from strategies CSV via Claude
+* **Enrich**: Create Space for Students to Reflect — enriched from strategies CSV via Claude
+* **Enrich**: Creating a Classroom Library — enriched from strategies CSV via Claude
+* **Enrich**: Creating Beautiful Spaces in PBL — enriched from strategies CSV via Claude
+* **Enrich**: Creating a Common Language for Multimodal Composition — enriched from strategies CSV via Claude
+* **Enrich**: Creating Space for New Ideas — enriched from strategies CSV via Claude
+* **Enrich**: Creating Collaborative Spaces — enriched from strategies CSV via Claude
+* **Enrich**: Creating Questions — enriched from strategies CSV via Claude
+* **Enrich**: Creating Quiet Spaces — enriched from strategies CSV via Claude
+* **Enrich**: Creating a Culture of Error — enriched from strategies CSV via Claude
+* **Enrich**: Creative Analogies and Comparisons — enriched from strategies CSV via Claude
+* **Enrich**: Creating Space for Student Reflection in PBL — enriched from strategies CSV via Claude
+* **Enrich**: Creative Handwriting Activities — enriched from strategies CSV via Claude
+* **Enrich**: Creative Presentations — enriched from strategies CSV via Claude
+* **Enrich**: Creative Check-In Questions — enriched from strategies CSV via Claude
+* **Enrich**: Critical Lens Development — enriched from strategies CSV via Claude
+* **Enrich**: Creative Writing — enriched from strategies CSV via Claude
+* **Enrich**: Critical Response Process — enriched from strategies CSV via Claude
+* **Enrich**: Cross-Age Peer Tutoring — enriched from strategies CSV via Claude
+* **Enrich**: Creating Visuals — enriched from strategies CSV via Claude
+* **Enrich**: Cross-Grade-Level Tutoring — enriched from strategies CSV via Claude
+* **Enrich**: Creating Strategy Charts — enriched from strategies CSV via Claude
+* **Enrich**: Cultivate Multiple Ways of Knowing and Making Meaning — enriched from strategies CSV via Claude
+* **Enrich**: Cultivate Understanding and Respect Across Languages and Dialects — enriched from strategies CSV via Claude
+* **Enrich**: Cross-Curricular Art Integration — enriched from strategies CSV via Claude
+* **Enrich**: Cultivating Belonging Through Environmental Cues — enriched from strategies CSV via Claude
+* **Enrich**: Cultural Exchange Kits — enriched from strategies CSV via Claude
+* **Enrich**: Cultivation of Understanding and Respect Across Languages and Dialects — enriched from strategies CSV via Claude
+* **Enrich**: Culturally Responsive Curriculum Scorecards — enriched from strategies CSV via Claude
+* **Enrich**: Cultural Responsive Practice — enriched from strategies CSV via Claude
+* **Enrich**: Culturally Competent Family Engagement — enriched from strategies CSV via Claude
+* **Enrich**: Creating a Strengths-Based Culture — enriched from strategies CSV via Claude
+* **Enrich**: Creating an Action Plan — enriched from strategies CSV via Claude
+* **Enrich**: Culturally Responsive Instruction (CREATE Model) — enriched from strategies CSV via Claude
+* **Enrich**: Culturally Responsive Teaching — enriched from strategies CSV via Claude
+* **Enrich**: Culturally Responsive Practice — enriched from strategies CSV via Claude
+* **Enrich**: Cumulative Review — enriched from strategies CSV via Claude
+* **Enrich**: Curated Material Selection — enriched from strategies CSV via Claude
+* **Enrich**: Culturally and Historically Responsive Literacy — enriched from strategies CSV via Claude
+* **Enrich**: Cursive Handwriting Activities — enriched from strategies CSV via Claude
+* **Enrich**: Customizing Display of Information — enriched from strategies CSV via Claude
+* **Enrich**: Customizable Display of Information — enriched from strategies CSV via Claude
+* **Enrich**: Daily Class Schedules — enriched from strategies CSV via Claude
+* **Enrich**: Daytime Blue Light Exposure — enriched from strategies CSV via Claude
+* **Enrich**: Daily Review — enriched from strategies CSV via Claude
+* **Enrich**: Daily Math Facts Practice — enriched from strategies CSV via Claude
+* **Enrich**: Data-Based Decision-Making for Core Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Cultivation of Multiple Ways of Knowing and Making Meaning — enriched from strategies CSV via Claude
+* **Enrich**: Debriefing — enriched from strategies CSV via Claude
+* **Enrich**: Curating Resources — enriched from strategies CSV via Claude
+* **Enrich**: Debate for the Opposite Team — enriched from strategies CSV via Claude
+* **Enrich**: De-emphasize Behavioral Factors — enriched from strategies CSV via Claude
+* **Enrich**: Culture Responsive Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Demonstration-Based Flipped Classroom — enriched from strategies CSV via Claude
+* **Enrich**: Dealing with Feelings — enriched from strategies CSV via Claude
+* **Enrich**: Deliberate Practice — enriched from strategies CSV via Claude
+* **Enrich**: Demonstrating Caring — enriched from strategies CSV via Claude
+* **Enrich**: De-emphasize Answers, Emphasize Reasoning — enriched from strategies CSV via Claude
+* **Enrich**: Designing Personalized Learning for Engagement — enriched from strategies CSV via Claude
+* **Enrich**: Design at the Margins — enriched from strategies CSV via Claude
+* **Enrich**: Debriefing Emotional Experiences — enriched from strategies CSV via Claude
+* **Enrich**: Demystification of Learning Challenges — enriched from strategies CSV via Claude
+* **Enrich**: Designated Calm-Down Spot — enriched from strategies CSV via Claude
+* **Enrich**: Develop Educator Understanding — enriched from strategies CSV via Claude
+* **Enrich**: Develop a Reliability Checklist — enriched from strategies CSV via Claude
+* **Enrich**: Developing Cultural Awareness — enriched from strategies CSV via Claude
+* **Enrich**: Diagram Similarities and Differences — enriched from strategies CSV via Claude
+* **Enrich**: Developing Positive Classroom Pride — enriched from strategies CSV via Claude
+* **Enrich**: Dictation/Speech-to-text — enriched from strategies CSV via Claude
+* **Enrich**: Descriptive Feature Chart — enriched from strategies CSV via Claude
+* **Enrich**: Developing a Critical Lens for Multimodal Analysis — enriched from strategies CSV via Claude
+* **Enrich**: Develop Observable Criteria — enriched from strategies CSV via Claude
+* **Enrich**: Develop Cultural Awareness — enriched from strategies CSV via Claude
+* **Enrich**: Dialogic Reading — enriched from strategies CSV via Claude
+* **Enrich**: Dictionary & Thesaurus — enriched from strategies CSV via Claude
+* **Enrich**: Define and Apply Ethical Responsibility — enriched from strategies CSV via Claude
+* **Enrich**: Digital Publishing — enriched from strategies CSV via Claude
+* **Enrich**: Differentiated Teaching — enriched from strategies CSV via Claude
+* **Enrich**: Digital Word Detectives: Building Vocabulary With e-Book Readers — enriched from strategies CSV via Claude
+* **Enrich**: Digital Tips for Quick and Thoughtful Peer Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Digital Noise Monitoring — enriched from strategies CSV via Claude
+* **Enrich**: Digital Word Detectives — enriched from strategies CSV via Claude
+* **Enrich**: Dictation Software — enriched from strategies CSV via Claude
+* **Enrich**: Dim or Natural Lighting — enriched from strategies CSV via Claude
+* **Enrich**: Direct Instruction: Genre-specific Writing Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Direct Instruction: Phonics — enriched from strategies CSV via Claude
+* **Enrich**: Direct Instruction: Keyword Search — enriched from strategies CSV via Claude
+* **Enrich**: Dimensions of Critical Evaluation — enriched from strategies CSV via Claude
+* **Enrich**: Digital Literacy Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Direct Instruction: Patterning — enriched from strategies CSV via Claude
+* **Enrich**: Digital Storytelling — enriched from strategies CSV via Claude
+* **Enrich**: Direct Instruction: Web-based Reading Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Direct Instruction: Spelling — enriched from strategies CSV via Claude
+* **Enrich**: Discipline-Specific Literacy — enriched from strategies CSV via Claude
+* **Enrich**: Discuss the Benefits of Positive Self-Talk — enriched from strategies CSV via Claude
+* **Enrich**: Discussing Potential Emotions in Advance — enriched from strategies CSV via Claude
+* **Enrich**: Discussing Race with Students — enriched from strategies CSV via Claude
+* **Enrich**: Discussing Emotions — enriched from strategies CSV via Claude
+* **Enrich**: Discussion-Oriented Flipped Classroom — enriched from strategies CSV via Claude
+* **Enrich**: Discussion (Pre-Reading) — enriched from strategies CSV via Claude
+* **Enrich**: Discussion Web — enriched from strategies CSV via Claude
+* **Enrich**: Distributed Practice — enriched from strategies CSV via Claude
+* **Enrich**: Distributed Practice (Spacing Effect) — enriched from strategies CSV via Claude
+* **Enrich**: Diversity of Perspectives and Identities — enriched from strategies CSV via Claude
+* **Enrich**: Distributed Practice (Spaced Learning) — enriched from strategies CSV via Claude
+* **Enrich**: Dolch Sight Word List - Cloze Passage Worksheets — enriched from strategies CSV via Claude
+* **Enrich**: Dolch Sight Word List - Word Shape Worksheets — enriched from strategies CSV via Claude
+* **Enrich**: Document Outline — enriched from strategies CSV via Claude
+* **Enrich**: Discipline-Specific Reading — enriched from strategies CSV via Claude
+* **Enrich**: Document Outline Strategy — enriched from strategies CSV via Claude
+* **Enrich**: Dolch Word List - Word Search Puzzles — enriched from strategies CSV via Claude
+* **Enrich**: Direct Instruction (Online) — enriched from strategies CSV via Claude
+* **Enrich**: Direct Instruction: Problem-solving Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Domain Check — enriched from strategies CSV via Claude
+* **Enrich**: Dolch Sight Word List - Flash Cards — enriched from strategies CSV via Claude
+* **Enrich**: Dot Card Flash — enriched from strategies CSV via Claude
+* **Enrich**: Dot Card Matching Games — enriched from strategies CSV via Claude
+* **Enrich**: Discussions to Guide Reflection — enriched from strategies CSV via Claude
+* **Enrich**: Draw Time When Felt Emotion — enriched from strategies CSV via Claude
+* **Enrich**: DragonBox Algebra 5+ App — enriched from strategies CSV via Claude
+* **Enrich**: Drawing To Learn — enriched from strategies CSV via Claude
+* **Enrich**: Don’t Say My Number — enriched from strategies CSV via Claude
+* **Enrich**: Don’t Jump Into \"Fix It\" Mode — enriched from strategies CSV via Claude
+* **Enrich**: Drawing for Early Writing and Reading Development — enriched from strategies CSV via Claude
+* **Enrich**: Double-Entry Journals — enriched from strategies CSV via Claude
+* **Enrich**: Drawing for Emergent Writing — enriched from strategies CSV via Claude
+* **Enrich**: Dolch Sight Word Lists — enriched from strategies CSV via Claude
+* **Enrich**: Drawing and Writing Developmental Stages — enriched from strategies CSV via Claude
+* **Enrich**: Drawing for Memory and Comprehension — enriched from strategies CSV via Claude
+* **Enrich**: Drawing and Memory Enhancement — enriched from strategies CSV via Claude
+* **Enrich**: Drawing for Memory and Learning — enriched from strategies CSV via Claude
+* **Enrich**: Dramatic Play — enriched from strategies CSV via Claude
+* **Enrich**: E.S.C.A.P.E. Junk News — enriched from strategies CSV via Claude
+* **Enrich**: Dynamically Introduce Academic Vocabulary — enriched from strategies CSV via Claude
+* **Enrich**: Easy-Access Educational Tools — enriched from strategies CSV via Claude
+* **Enrich**: Educational Research Map Visualization — enriched from strategies CSV via Claude
+* **Enrich**: Educational Posters — enriched from strategies CSV via Claude
+* **Enrich**: Effective Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Drawing for Formative Assessment — enriched from strategies CSV via Claude
+* **Enrich**: Effective Materials Management — enriched from strategies CSV via Claude
+* **Enrich**: Education Calendars — enriched from strategies CSV via Claude
+* **Enrich**: Dual Color Highlighting — enriched from strategies CSV via Claude
+* **Enrich**: Educational Infographics — enriched from strategies CSV via Claude
+* **Enrich**: Educational Charts — enriched from strategies CSV via Claude
+* **Enrich**: Effort-Based Praise — enriched from strategies CSV via Claude
+* **Enrich**: Eliminate Extra Credit — enriched from strategies CSV via Claude
+* **Enrich**: Electricity and Circuit Tasks — enriched from strategies CSV via Claude
+* **Enrich**: Eliminate Homework and Extra Credit — enriched from strategies CSV via Claude
+* **Enrich**: Emotion-Focused Pretend Play — enriched from strategies CSV via Claude
+* **Enrich**: Emotion Cue Cards — enriched from strategies CSV via Claude
+* **Enrich**: Emotion-Based Story Discussions — enriched from strategies CSV via Claude
+* **Enrich**: Eliminate Internal Negative Chatter — enriched from strategies CSV via Claude
+* **Enrich**: Embrace Errors as Learning Opportunities — enriched from strategies CSV via Claude
+* **Enrich**: Emotion Guessing Game — enriched from strategies CSV via Claude
+* **Enrich**: Emotion Emojis Check-In — enriched from strategies CSV via Claude
+* **Enrich**: Emotion Emojis — enriched from strategies CSV via Claude
+* **Enrich**: Emotion Charades — enriched from strategies CSV via Claude
+* **Enrich**: Emotion Password — enriched from strategies CSV via Claude
+* **Enrich**: Emotion Identification Activities — enriched from strategies CSV via Claude
+* **Enrich**: Emotion Identification and Labeling — enriched from strategies CSV via Claude
+* **Enrich**: Embracing Errors as Learning — enriched from strategies CSV via Claude
+* **Enrich**: Emotion Hello Song — enriched from strategies CSV via Claude
+* **Enrich**: Emotion Identification Games — enriched from strategies CSV via Claude
+* **Enrich**: Emotion Identification through Literature — enriched from strategies CSV via Claude
+* **Enrich**: Emotional Check-ins — enriched from strategies CSV via Claude
+* **Enrich**: Emotion Word Inclusion in Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Emotion Reflection Through Journaling — enriched from strategies CSV via Claude
+* **Enrich**: Empathy for Educators — enriched from strategies CSV via Claude
+* **Enrich**: Emotional Vocabulary Building — enriched from strategies CSV via Claude
+* **Enrich**: Emotion Songs — enriched from strategies CSV via Claude
+* **Enrich**: Emotional Regulation Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Emotional Thermometer — enriched from strategies CSV via Claude
+* **Enrich**: Emotional Walking Game — enriched from strategies CSV via Claude
+* **Enrich**: Emphasize Time on Task — enriched from strategies CSV via Claude
+* **Enrich**: Emphasis on Reasoning over Answers — enriched from strategies CSV via Claude
+* **Enrich**: Emphasis on the Learning Process — enriched from strategies CSV via Claude
+* **Enrich**: Emphasize Reasoning over Answers — enriched from strategies CSV via Claude
+* **Enrich**: Empowering Students Through Self-Advocacy — enriched from strategies CSV via Claude
+* **Enrich**: Emphasize the Value of Learning — enriched from strategies CSV via Claude
+* **Enrich**: Employ Common Language and Strategies Across Disciplines — enriched from strategies CSV via Claude
+* **Enrich**: Empowering Students as Leaders — enriched from strategies CSV via Claude
+* **Enrich**: Encourage Feedback and Sharing — enriched from strategies CSV via Claude
+* **Enrich**: Encouraging Self-Advocacy — enriched from strategies CSV via Claude
+* **Enrich**: Encourage Active Learning — enriched from strategies CSV via Claude
+* **Enrich**: Empowering Teachers with EQUIP — enriched from strategies CSV via Claude
+* **Enrich**: Encourage Reading Diverse Texts — enriched from strategies CSV via Claude
+* **Enrich**: Encourage Student Self-Advocacy — enriched from strategies CSV via Claude
+* **Enrich**: Encouraging Student Self-Advocacy — enriched from strategies CSV via Claude
+* **Enrich**: Encourage Cooperation — enriched from strategies CSV via Claude
+* **Enrich**: Engage Positive Role Models — enriched from strategies CSV via Claude
+* **Enrich**: Encouraging Students to Ask for Help — enriched from strategies CSV via Claude
+* **Enrich**: Enhanced Acoustics and Noise Control — enriched from strategies CSV via Claude
+* **Enrich**: Encouraging Help-Seeking Behavior — enriched from strategies CSV via Claude
+* **Enrich**: Enriched Learning Environment — enriched from strategies CSV via Claude
+* **Enrich**: Engage with Empathy — enriched from strategies CSV via Claude
+* **Enrich**: Environmental Interaction Analysis — enriched from strategies CSV via Claude
+* **Enrich**: EQ Feeling Chart — enriched from strategies CSV via Claude
+* **Enrich**: EQ Feeling Chart Check-In — enriched from strategies CSV via Claude
+* **Enrich**: EQ Feeling Chart Exploration — enriched from strategies CSV via Claude
+* **Enrich**: Equitable Assessment Rubrics — enriched from strategies CSV via Claude
+* **Enrich**: Equitable Calling on Students — enriched from strategies CSV via Claude
+* **Enrich**: Equitable Grading — enriched from strategies CSV via Claude
+* **Enrich**: Equitable Classroom Observations — enriched from strategies CSV via Claude
+* **Enrich**: Errors as Learning Opportunities — enriched from strategies CSV via Claude
+* **Enrich**: Establish Ground Rules for Peer Critique — enriched from strategies CSV via Claude
+* **Enrich**: Establish Guidelines for Discussing Race — enriched from strategies CSV via Claude
+* **Enrich**: Enrichment Through Art and Music — enriched from strategies CSV via Claude
+* **Enrich**: Establish Guidelines for Discussions — enriched from strategies CSV via Claude
+* **Enrich**: Establish Talk Partners — enriched from strategies CSV via Claude
+* **Enrich**: Establish Consistent Routines — enriched from strategies CSV via Claude
+* **Enrich**: Estimation and Prediction — enriched from strategies CSV via Claude
+* **Enrich**: Estimate and Predict — enriched from strategies CSV via Claude
+* **Enrich**: Exercise Contests — enriched from strategies CSV via Claude
+* **Enrich**: Ethical Responsibility Tools — enriched from strategies CSV via Claude
+* **Enrich**: Estimation and Prediction for Self-Awareness — enriched from strategies CSV via Claude
+* **Enrich**: Exit Tickets — enriched from strategies CSV via Claude
+* **Enrich**: Expect Excellence — enriched from strategies CSV via Claude
+* **Enrich**: Exercise for Cognitive Enhancement — enriched from strategies CSV via Claude
+* **Enrich**: Explicate, Validate, and Address Negative Emotions — enriched from strategies CSV via Claude
+* **Enrich**: Expecting Excellence in PBL — enriched from strategies CSV via Claude
+* **Enrich**: Estimation and Prediction Activities — enriched from strategies CSV via Claude
+* **Enrich**: Explicit Discussion of Perspectives — enriched from strategies CSV via Claude
+* **Enrich**: Exit Tickets — enriched from strategies CSV via Claude
+* **Enrich**: Explicit Discussions About Perspectives — enriched from strategies CSV via Claude
+* **Enrich**: Explicit Conversations about Emotions and Social Issues — enriched from strategies CSV via Claude
+* **Enrich**: Explicit Instruction: Argumentation with Evidence — enriched from strategies CSV via Claude
+* **Enrich**: Explicit and Systematic Writing Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Explicit Discussions of Perspectives — enriched from strategies CSV via Claude
+* **Enrich**: Explicit Instruction: Decoding — enriched from strategies CSV via Claude
+* **Enrich**: Explicit Strategy Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Explicit Instruction: Spelling — enriched from strategies CSV via Claude
+* **Enrich**: Explicit Teaching — enriched from strategies CSV via Claude
+* **Enrich**: Explicit Instruction: Handwriting — enriched from strategies CSV via Claude
+* **Enrich**: Explicit Instruction: Writing Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Explicit Teacher Modeling — enriched from strategies CSV via Claude
+* **Enrich**: Explicit Instruction on Book Selection and Care — enriched from strategies CSV via Claude
+* **Enrich**: Explicit or Direct Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Explicit Instruction in Self-Advocacy and Self-Determination — enriched from strategies CSV via Claude
+* **Enrich**: Expository Advance Organizers — enriched from strategies CSV via Claude
+* **Enrich**: Exploration Station — enriched from strategies CSV via Claude
+* **Enrich**: Exploration Station for Multimodal Pathways — enriched from strategies CSV via Claude
+* **Enrich**: Explicitly Discuss Different Perspectives — enriched from strategies CSV via Claude
+* **Enrich**: Expressing Interest in Ethnic Background — enriched from strategies CSV via Claude
+* **Enrich**: Extended Writing Opportunities — enriched from strategies CSV via Claude
+* **Enrich**: Expressing Interest in Students' Ethnic Backgrounds — enriched from strategies CSV via Claude
+* **Enrich**: Expressive Writing — enriched from strategies CSV via Claude
+* **Enrich**: Fair Communication Anchor Charts — enriched from strategies CSV via Claude
+* **Enrich**: Extension Projects for Advanced Students — enriched from strategies CSV via Claude
+* **Enrich**: Facilitating Discourse (Online) — enriched from strategies CSV via Claude
+* **Enrich**: Express Confidence in Learners — enriched from strategies CSV via Claude
+* **Enrich**: Familiar, Quiet, and Repetitive Tasks — enriched from strategies CSV via Claude
+* **Enrich**: Facilitating Learning — enriched from strategies CSV via Claude
+* **Enrich**: Familiar, Repetitive Tasks — enriched from strategies CSV via Claude
+* **Enrich**: Family Engagement: Supporting Children with Disabilities — enriched from strategies CSV via Claude
+* **Enrich**: Family Engagement — enriched from strategies CSV via Claude
+* **Enrich**: Family Book Club — enriched from strategies CSV via Claude
+* **Enrich**: Explicitly Addressing Social Awareness — enriched from strategies CSV via Claude
+* **Enrich**: Feedback Format — enriched from strategies CSV via Claude
+* **Enrich**: Feed Up, Feed Back, Feed Forward Model — enriched from strategies CSV via Claude
+* **Enrich**: Faux-Flipped Classroom — enriched from strategies CSV via Claude
+* **Enrich**: Feedback Through Different Media — enriched from strategies CSV via Claude
+* **Enrich**: Feedback Sandwich — enriched from strategies CSV via Claude
+* **Enrich**: Feelings Ring Around the Rosie — enriched from strategies CSV via Claude
+* **Enrich**: Feeling Face Snack Time — enriched from strategies CSV via Claude
+* **Enrich**: Find the Total — enriched from strategies CSV via Claude
+* **Enrich**: Find the Difference — enriched from strategies CSV via Claude
+* **Enrich**: Fidget Contracts — enriched from strategies CSV via Claude
+* **Enrich**: Fictional Characters to Teach Social Awareness — enriched from strategies CSV via Claude
+* **Enrich**: Field Trips — enriched from strategies CSV via Claude
+* **Enrich**: Fishbowl Discussion — enriched from strategies CSV via Claude
+* **Enrich**: Fist Tapping & Arm Tapping — enriched from strategies CSV via Claude
+* **Enrich**: Five High Fives — enriched from strategies CSV via Claude
+* **Enrich**: Finger Speed-Differences — enriched from strategies CSV via Claude
+* **Enrich**: Five-Stage Problem-Solving Model — enriched from strategies CSV via Claude
+* **Enrich**: Finger-Painting: Arts Integration — enriched from strategies CSV via Claude
+* **Enrich**: Finger Speed-Sums — enriched from strategies CSV via Claude
+* **Enrich**: Focus on the Question They Answered Correctly — enriched from strategies CSV via Claude
+* **Enrich**: Flexible Seating Patterns and Configurations — enriched from strategies CSV via Claude
+* **Enrich**: Flipped Learning — enriched from strategies CSV via Claude
+* **Enrich**: Focus on Enjoyable Moments — enriched from strategies CSV via Claude
+* **Enrich**: Focus Projects on Issues of Justice — enriched from strategies CSV via Claude
+* **Enrich**: Flexible Seating — enriched from strategies CSV via Claude
+* **Enrich**: Focus on Issues of Justice — enriched from strategies CSV via Claude
+* **Enrich**: Follow-up After Discussions — enriched from strategies CSV via Claude
+* **Enrich**: Follow-Up After Disciplining a Student — enriched from strategies CSV via Claude
+* **Enrich**: Follow Up After Discussions About Race — enriched from strategies CSV via Claude
+* **Enrich**: Fidget Utilization Protocol — enriched from strategies CSV via Claude
+* **Enrich**: Focused-Attention Practices — enriched from strategies CSV via Claude
+* **Enrich**: Focusing Projects on Issues of Justice — enriched from strategies CSV via Claude
+* **Enrich**: Follow the Platinum Rule — enriched from strategies CSV via Claude
+* **Enrich**: Fostering Self-Advocacy and Self-Determination — enriched from strategies CSV via Claude
+* **Enrich**: Four Moves — enriched from strategies CSV via Claude
+* **Enrich**: Fossil Analysis — enriched from strategies CSV via Claude
+* **Enrich**: Formative Assessment to Gauge Student Progress and Guide Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Formative Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Fostering Student Self-Knowledge — enriched from strategies CSV via Claude
+* **Enrich**: Foster Self-Advocacy and Self-Determination — enriched from strategies CSV via Claude
+* **Enrich**: Foster Self-Awareness — enriched from strategies CSV via Claude
+* **Enrich**: Free Math Worksheets — enriched from strategies CSV via Claude
+* **Enrich**: Free Choice Time — enriched from strategies CSV via Claude
+* **Enrich**: Free Choice Time: Student-Directed Learning — enriched from strategies CSV via Claude
+* **Enrich**: Free Play — enriched from strategies CSV via Claude
+* **Enrich**: Fry Word Lists — enriched from strategies CSV via Claude
+* **Enrich**: Four Moves and a Habit — enriched from strategies CSV via Claude
+* **Enrich**: Frequent, Low-Stakes Quizzes — enriched from strategies CSV via Claude
+* **Enrich**: Free Graphing Calculator App — enriched from strategies CSV via Claude
+* **Enrich**: Gallery Quote Walk — enriched from strategies CSV via Claude
+* **Enrich**: Frequent Student Reflections — enriched from strategies CSV via Claude
+* **Enrich**: Game-Based Incentives for Quiet — enriched from strategies CSV via Claude
+* **Enrich**: Game-Based Learning (GBL) — enriched from strategies CSV via Claude
+* **Enrich**: Functional Wall Displays — enriched from strategies CSV via Claude
+* **Enrich**: Frustration and Stress Prevention/Reduction Techniques — enriched from strategies CSV via Claude
+* **Enrich**: Gain Attention Before Giving Instructions — enriched from strategies CSV via Claude
+* **Enrich**: Gallery Quote Walk Check-In — enriched from strategies CSV via Claude
+* **Enrich**: Genre Study — enriched from strategies CSV via Claude
+* **Enrich**: GoNoodle: Physical Activity & Movement Breaks — enriched from strategies CSV via Claude
+* **Enrich**: Gallery Walk — enriched from strategies CSV via Claude
+* **Enrich**: Games + Structured Activity — enriched from strategies CSV via Claude
+* **Enrich**: Generating and Asking Questions — enriched from strategies CSV via Claude
+* **Enrich**: GoNoodle Activities — enriched from strategies CSV via Claude
+* **Enrich**: Expressive Outlets — enriched from strategies CSV via Claude
+* **Enrich**: Give Prompt Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Gradual Release of Responsibility in Multimodal Composition — enriched from strategies CSV via Claude
+* **Enrich**: Give Hints and Clues to Help Students Answer Questions — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Organizers/Guided Notes — enriched from strategies CSV via Claude
+* **Enrich**: Goal Setting for Writing — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Organizers and Guided Notes (Processing Speed) — enriched from strategies CSV via Claude
+* **Enrich**: Grade Students Based on Demonstrated Learning — enriched from strategies CSV via Claude
+* **Enrich**: Good Tutee-Tutor Contact — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Organizers (Math) — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Notes — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Organizers and Visual Aids (for Attention) — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Organizers as Thinking Tools — enriched from strategies CSV via Claude
+* **Enrich**: Gradual Increase of Independent Reading Time — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Organizers as Text Illustrations — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Organizers for Assessment — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Organizers and Visual Aids — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Organizers Guided Notes For Processing Speed — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Organizers for Classroom Management — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Organizers and Visual Aids (Attention) — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Organizers for Pre-Reading — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Organizers for Math — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Organizers for Unit Planning — enriched from strategies CSV via Claude
+* **Enrich**: Greek Combining Forms — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Organizers for Pre-Writing — enriched from strategies CSV via Claude
+* **Enrich**: Group-Based Flipped Classroom — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Organizers for Lecture Support — enriched from strategies CSV via Claude
+* **Enrich**: Guided Inquiry — enriched from strategies CSV via Claude
+* **Enrich**: Guided Peer Response using PeerMark™ — enriched from strategies CSV via Claude
+* **Enrich**: Guided Discovery with Word Sorting — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Organizers for Retrieval Practice — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Organizers for Note-Taking — enriched from strategies CSV via Claude
+* **Enrich**: Growth Mindset Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Growth Mindset Development — enriched from strategies CSV via Claude
+* **Enrich**: Guide Student Reflection — enriched from strategies CSV via Claude
+* **Enrich**: Headings and Highlight Strategy — enriched from strategies CSV via Claude
+* **Enrich**: High Frequency Word Lists — enriched from strategies CSV via Claude
+* **Enrich**: Guided Play — enriched from strategies CSV via Claude
+* **Enrich**: Highlight Math Vocabulary — enriched from strategies CSV via Claude
+* **Enrich**: Have explicit conversations about emotions and social issues, including issues of social justice — enriched from strategies CSV via Claude
+* **Enrich**: Highlighting and Exploration of Patterns, Critical Features, Big Ideas, and Relationships — enriched from strategies CSV via Claude
+* **Enrich**: Health and Dietary Planning — enriched from strategies CSV via Claude
+* **Enrich**: Hexagonal Thinking — enriched from strategies CSV via Claude
+* **Enrich**: Home-Based Literacy Support — enriched from strategies CSV via Claude
+* **Enrich**: Highlight and Explore Patterns, Critical Features, Big Ideas, and Relationships — enriched from strategies CSV via Claude
+* **Enrich**: Hoax Website Analysis — enriched from strategies CSV via Claude
+* **Enrich**: Home Living Center Role Play — enriched from strategies CSV via Claude
+* **Enrich**: Home Surveys — enriched from strategies CSV via Claude
+* **Enrich**: Highlighting Strategy — enriched from strategies CSV via Claude
+* **Enrich**: Historically Responsive Literacy — enriched from strategies CSV via Claude
+* **Enrich**: Heat Transfer Investigations — enriched from strategies CSV via Claude
+* **Enrich**: How Spelling Supports Reading — enriched from strategies CSV via Claude
+* **Enrich**: Home Literacy Environment Checklist — enriched from strategies CSV via Claude
+* **Enrich**: How Many Are Hiding? — enriched from strategies CSV via Claude
+* **Enrich**: Hot Seat — enriched from strategies CSV via Claude
+* **Enrich**: Hyperlinked Teaching — enriched from strategies CSV via Claude
+* **Enrich**: I Wonder Journals — enriched from strategies CSV via Claude
+* **Enrich**: Identify Feelings — enriched from strategies CSV via Claude
+* **Enrich**: Identifying and Addressing Self-Regulation Strengths and Challenges — enriched from strategies CSV via Claude
+* **Enrich**: Identify Self-Talk — enriched from strategies CSV via Claude
+* **Enrich**: Identifying Feelings — enriched from strategies CSV via Claude
+* **Enrich**: Home Language Reading Demonstrations — enriched from strategies CSV via Claude
+* **Enrich**: If It Happened to You... — enriched from strategies CSV via Claude
+* **Enrich**: Identifying Obstacles — enriched from strategies CSV via Claude
+* **Enrich**: Illustrate Through Multiple Media — enriched from strategies CSV via Claude
+* **Enrich**: Illustration Through Multiple Media — enriched from strategies CSV via Claude
+* **Enrich**: Identifying Self-Talk — enriched from strategies CSV via Claude
+* **Enrich**: Implicit Instruction: Vocabulary — enriched from strategies CSV via Claude
+* **Enrich**: Identifying and Supporting Learners with Relationship Skills — enriched from strategies CSV via Claude
+* **Enrich**: Identify Key Background Knowledge in Math Problems — enriched from strategies CSV via Claude
+* **Enrich**: Improve Classroom Air Quality — enriched from strategies CSV via Claude
+* **Enrich**: How Close to 100? — enriched from strategies CSV via Claude
+* **Enrich**: Improved Air Quality — enriched from strategies CSV via Claude
+* **Enrich**: In a Hot Seat — enriched from strategies CSV via Claude
+* **Enrich**: Improvisation in Mathematics — enriched from strategies CSV via Claude
+* **Enrich**: Impressions First — enriched from strategies CSV via Claude
+* **Enrich**: Inclusive Cultural Response — enriched from strategies CSV via Claude
+* **Enrich**: Include Physical Activity — enriched from strategies CSV via Claude
+* **Enrich**: Highlighting Strategy with Add-on Tool — enriched from strategies CSV via Claude
+* **Enrich**: IKEA VR Kitchen Visualizer — enriched from strategies CSV via Claude
+* **Enrich**: Inclusive Innovation Process — enriched from strategies CSV via Claude
+* **Enrich**: Incorporating Methods for Self-Testing — enriched from strategies CSV via Claude
+* **Enrich**: Incorporate Technology into Reflection — enriched from strategies CSV via Claude
+* **Enrich**: Incorporate Students' Cultural Practices — enriched from strategies CSV via Claude
+* **Enrich**: Incorporating Physical Activity Into Classroom Learning — enriched from strategies CSV via Claude
+* **Enrich**: Incorporate Crafts to Remember Positive Self-Talk — enriched from strategies CSV via Claude
+* **Enrich**: Incorporating Self-Testing — enriched from strategies CSV via Claude
+* **Enrich**: Implicit Vocabulary Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Increase Synchronous Teacher Presence — enriched from strategies CSV via Claude
+* **Enrich**: Incorporate Mindfulness Techniques — enriched from strategies CSV via Claude
+* **Enrich**: Increase Student Language Production — enriched from strategies CSV via Claude
+* **Enrich**: Increase Classroom Space and Reduce Overcrowding — enriched from strategies CSV via Claude
+* **Enrich**: Increase Latency Periods When Questioning Students — enriched from strategies CSV via Claude
+* **Enrich**: Independent Reading — enriched from strategies CSV via Claude
+* **Enrich**: Improve Indoor Air Quality — enriched from strategies CSV via Claude
+* **Enrich**: Individual_Reflection — enriched from strategies CSV via Claude
+* **Enrich**: Individual Spaces — enriched from strategies CSV via Claude
+* **Enrich**: Individualized \"Highlighter Tool\ — enriched from strategies CSV via Claude
+* **Enrich**: Indoor Air Quality Improvement — enriched from strategies CSV via Claude
+* **Enrich**: Inflectional Endings Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Implement Measures for Student Self-Knowledge — enriched from strategies CSV via Claude
+* **Enrich**: Informal Games and Jam Sessions — enriched from strategies CSV via Claude
+* **Enrich**: Inhibition Support Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Initiating a Conversation with Learners to Correct Name Pronunciation — enriched from strategies CSV via Claude
+* **Enrich**: Instill Intrinsic Motivation — enriched from strategies CSV via Claude
+* **Enrich**: Instructor and Peer Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Instructor as Facilitator — enriched from strategies CSV via Claude
+* **Enrich**: Integrate Emotions into Daily Schedule and Routine — enriched from strategies CSV via Claude
+* **Enrich**: Independent Practice — enriched from strategies CSV via Claude
+* **Enrich**: Intensive Instruction/Active Engagement — enriched from strategies CSV via Claude
+* **Enrich**: Interaction with Natural Environment — enriched from strategies CSV via Claude
+* **Enrich**: Interactive Modeling — enriched from strategies CSV via Claude
+* **Enrich**: Interactive Read-Alouds — enriched from strategies CSV via Claude
+* **Enrich**: Interactive Delivery with Questioning — enriched from strategies CSV via Claude
+* **Enrich**: Individual Deliberate Practice — enriched from strategies CSV via Claude
+* **Enrich**: Interest-Based Negotiation — enriched from strategies CSV via Claude
+* **Enrich**: Interactive Storytelling — enriched from strategies CSV via Claude
+* **Enrich**: Interdisciplinary Activities — enriched from strategies CSV via Claude
+* **Enrich**: Intervene in Abusive Language — enriched from strategies CSV via Claude
+* **Enrich**: Interest Inventories — enriched from strategies CSV via Claude
+* **Enrich**: Inquiry-Based Writing — enriched from strategies CSV via Claude
+* **Enrich**: Interpreting the News — enriched from strategies CSV via Claude
+* **Enrich**: Interviews to Guide Reflection — enriched from strategies CSV via Claude
+* **Enrich**: Introduce Evaluation Concepts — enriched from strategies CSV via Claude
+* **Enrich**: Introduce Summary Frames — enriched from strategies CSV via Claude
+* **Enrich**: Involving Students in Classroom Redesign — enriched from strategies CSV via Claude
+* **Enrich**: Involving Learners in Classroom Design — enriched from strategies CSV via Claude
+* **Enrich**: Irregular Anglo-Saxon Word Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Journal Reflections for Self-Awareness — enriched from strategies CSV via Claude
+* **Enrich**: Integrating Movement into Daily Activities — enriched from strategies CSV via Claude
+* **Enrich**: Introducing Yourself Via Video — enriched from strategies CSV via Claude
+* **Enrich**: Journaling for Metacognitive Awareness — enriched from strategies CSV via Claude
+* **Enrich**: Interactive Scenarios — enriched from strategies CSV via Claude
+* **Enrich**: Keep Your Love of Teaching — enriched from strategies CSV via Claude
+* **Enrich**: Journaling for Self-Reflection — enriched from strategies CSV via Claude
+* **Enrich**: Kagan Cooperative Learning Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Know Your Own Perspectives — enriched from strategies CSV via Claude
+* **Enrich**: Keep Instructions Concise — enriched from strategies CSV via Claude
+* **Enrich**: Journal Reflections — enriched from strategies CSV via Claude
+* **Enrich**: Labeling Emotions Throughout the Day — enriched from strategies CSV via Claude
+* **Enrich**: Key Word Flash Cards — enriched from strategies CSV via Claude
+* **Enrich**: Integrating Art and Science — enriched from strategies CSV via Claude
+* **Enrich**: Keyword Strategy — enriched from strategies CSV via Claude
+* **Enrich**: Kids React — enriched from strategies CSV via Claude
+* **Enrich**: Language Songs — enriched from strategies CSV via Claude
+* **Enrich**: KWL Chart — enriched from strategies CSV via Claude
+* **Enrich**: KWL Charts — enriched from strategies CSV via Claude
+* **Enrich**: Ladder of Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Last Lesson, Last Week, Last Month — enriched from strategies CSV via Claude
+* **Enrich**: Lateral Reading — enriched from strategies CSV via Claude
+* **Enrich**: Latin Prefixes, Suffixes, and Roots — enriched from strategies CSV via Claude
+* **Enrich**: Learner-Centric Approach — enriched from strategies CSV via Claude
+* **Enrich**: Learn About Students' Math Backgrounds — enriched from strategies CSV via Claude
+* **Enrich**: Learning Clubs — enriched from strategies CSV via Claude
+* **Enrich**: Learner-Generated Examples — enriched from strategies CSV via Claude
+* **Enrich**: Learner-to-Learner (Peer) Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Learning Journals — enriched from strategies CSV via Claude
+* **Enrich**: Learner Choice as a Continuum — enriched from strategies CSV via Claude
+* **Enrich**: Language Experience Approach — enriched from strategies CSV via Claude
+* **Enrich**: Learning_Contracts — enriched from strategies CSV via Claude
+* **Enrich**: Learning Goal Setting — enriched from strategies CSV via Claude
+* **Enrich**: Lesson Plans — enriched from strategies CSV via Claude
+* **Enrich**: Letter Formation Activities — enriched from strategies CSV via Claude
+* **Enrich**: Learning Logs — enriched from strategies CSV via Claude
+* **Enrich**: Learning Interest Inventories — enriched from strategies CSV via Claude
+* **Enrich**: Learning Strategy & Tool \"Fair\ — enriched from strategies CSV via Claude
+* **Enrich**: Learning Through Reflection — enriched from strategies CSV via Claude
+* **Enrich**: Islamic Geometry Exploration — enriched from strategies CSV via Claude
+* **Enrich**: Lecture Support with Graphic Organizers — enriched from strategies CSV via Claude
+* **Enrich**: Letter Names and Letter Sounds Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Letter Strategy — enriched from strategies CSV via Claude
+* **Enrich**: Let students know what order they will be called on — enriched from strategies CSV via Claude
+* **Enrich**: Letting students know what order they will be called on — enriched from strategies CSV via Claude
+* **Enrich**: Leverage the Native Language — enriched from strategies CSV via Claude
+* **Enrich**: Leverage Strengths to Address Self-Awareness Challenges — enriched from strategies CSV via Claude
+* **Enrich**: Leveraging Family Knowledge — enriched from strategies CSV via Claude
+* **Enrich**: Leveraging Instructor Office Hours — enriched from strategies CSV via Claude
+* **Enrich**: Leveraging Native Language in PBL — enriched from strategies CSV via Claude
+* **Enrich**: Leveraging Strengths Thinking — enriched from strategies CSV via Claude
+* **Enrich**: Leveraging Strengths for Emotional Regulation — enriched from strategies CSV via Claude
+* **Enrich**: Leveraging Strengths for Attention — enriched from strategies CSV via Claude
+* **Enrich**: Leveraging Strengths in Relationship Skills — enriched from strategies CSV via Claude
+* **Enrich**: Life Back Then — enriched from strategies CSV via Claude
+* **Enrich**: Leveraging Strengths to Address Attention Challenges — enriched from strategies CSV via Claude
+* **Enrich**: Limit Background Noise — enriched from strategies CSV via Claude
+* **Enrich**: Leveraging Strengths to Improve Relationship Skills — enriched from strategies CSV via Claude
+* **Enrich**: Line Awareness Activities — enriched from strategies CSV via Claude
+* **Enrich**: Liberation Literature and Counter-Narratives — enriched from strategies CSV via Claude
+* **Enrich**: Leveraging Strengths to Address Learning Differences — enriched from strategies CSV via Claude
+* **Enrich**: Leveraging Strengths to Support Attention — enriched from strategies CSV via Claude
+* **Enrich**: Leveraging Strengths to Support Processing Speed — enriched from strategies CSV via Claude
+* **Enrich**: Listen to the Voices of Students — enriched from strategies CSV via Claude
+* **Enrich**: Listening and reading for specific information — enriched from strategies CSV via Claude
+* **Enrich**: Literacy Centers — enriched from strategies CSV via Claude
+* **Enrich**: Listening to the Voices of Students in PBL — enriched from strategies CSV via Claude
+* **Enrich**: Magnetism Investigations — enriched from strategies CSV via Claude
+* **Enrich**: Literature/Social Stories — enriched from strategies CSV via Claude
+* **Enrich**: Live Writing Demonstrations — enriched from strategies CSV via Claude
+* **Enrich**: Literature Circles — enriched from strategies CSV via Claude
+* **Enrich**: Logs and Journals to Guide Reflection — enriched from strategies CSV via Claude
+* **Enrich**: Logic Puzzles — enriched from strategies CSV via Claude
+* **Enrich**: Low-Stakes Quizzes — enriched from strategies CSV via Claude
+* **Enrich**: Maintain Optimal Classroom Temperature — enriched from strategies CSV via Claude
+* **Enrich**: Low-Stakes Writing — enriched from strategies CSV via Claude
+* **Enrich**: Maintain Presence for Students — enriched from strategies CSV via Claude
+* **Enrich**: Maintaining High Expectations — enriched from strategies CSV via Claude
+* **Enrich**: Maintaining an Inclusive Curriculum — enriched from strategies CSV via Claude
+* **Enrich**: Maintaining High Expectations for Student Performance — enriched from strategies CSV via Claude
+* **Enrich**: Maintaining Sensitivity to Language Concerns — enriched from strategies CSV via Claude
+* **Enrich**: Making Connections — enriched from strategies CSV via Claude
+* **Enrich**: Make Learning Relevant — enriched from strategies CSV via Claude
+* **Enrich**: Make-Believe: Problem-Based Learning — enriched from strategies CSV via Claude
+* **Enrich**: Maker Spaces and Fab Labs — enriched from strategies CSV via Claude
+* **Enrich**: Making and confirming predictions — enriched from strategies CSV via Claude
+* **Enrich**: Make the Invisible Visible (Power Dynamics) — enriched from strategies CSV via Claude
+* **Enrich**: Making Connections (Text-to-Self, Text-to-Text, Text-to-World) — enriched from strategies CSV via Claude
+* **Enrich**: Making Self-Advocacy and Self-Determination Critical Priorities — enriched from strategies CSV via Claude
+* **Enrich**: Making Inferences — enriched from strategies CSV via Claude
+* **Enrich**: Manipulatives: Sentence Construction — enriched from strategies CSV via Claude
+* **Enrich**: Manipulatives: Sentence Combining — enriched from strategies CSV via Claude
+* **Enrich**: Mapping Online Reading Behavior — enriched from strategies CSV via Claude
+* **Enrich**: Map It Out! — enriched from strategies CSV via Claude
+* **Enrich**: Math Cards — enriched from strategies CSV via Claude
+* **Enrich**: Mass, Density, and Buoyancy Experiments — enriched from strategies CSV via Claude
+* **Enrich**: Matched Examples and Non-examples — enriched from strategies CSV via Claude
+* **Enrich**: Math Art — enriched from strategies CSV via Claude
+* **Enrich**: Math Coach Role-Playing — enriched from strategies CSV via Claude
+* **Enrich**: Math Centers — enriched from strategies CSV via Claude
+* **Enrich**: Math Games — enriched from strategies CSV via Claude
+* **Enrich**: Math Coaching — enriched from strategies CSV via Claude
+* **Enrich**: Math Games and Movement Breaks — enriched from strategies CSV via Claude
+* **Enrich**: Math Journaling — enriched from strategies CSV via Claude
+* **Enrich**: Math Journals — enriched from strategies CSV via Claude
+* **Enrich**: Math Key Word Flashcards — enriched from strategies CSV via Claude
+* **Enrich**: Math Songs — enriched from strategies CSV via Claude
+* **Enrich**: Meaningful Grading Through Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Measurement Tasks — enriched from strategies CSV via Claude
+* **Enrich**: Math Vocabulary Word Walls — enriched from strategies CSV via Claude
+* **Enrich**: Mathematical Dance — enriched from strategies CSV via Claude
+* **Enrich**: Maximize Transfer and Generalization — enriched from strategies CSV via Claude
+* **Enrich**: Maximization of Transfer and Generalization — enriched from strategies CSV via Claude
+* **Enrich**: Memory Game (Matching) — enriched from strategies CSV via Claude
+* **Enrich**: Mentor Texts — enriched from strategies CSV via Claude
+* **Enrich**: Metacognitive Accountable Talk Stems — enriched from strategies CSV via Claude
+* **Enrich**: Metacognitive Journaling — enriched from strategies CSV via Claude
+* **Enrich**: Metacognitive Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Metacognitive Reflection — enriched from strategies CSV via Claude
+* **Enrich**: Metacognitive Awareness for Self-Regulation — enriched from strategies CSV via Claude
+* **Enrich**: Method of Loci (Memory Palace) — enriched from strategies CSV via Claude
+* **Enrich**: Micro Flipped Classroom — enriched from strategies CSV via Claude
+* **Enrich**: Micro-Goal Setting — enriched from strategies CSV via Claude
+* **Enrich**: Math Talks — enriched from strategies CSV via Claude
+* **Enrich**: Mindfulness Techniques — enriched from strategies CSV via Claude
+* **Enrich**: Mindful Break — enriched from strategies CSV via Claude
+* **Enrich**: Mindfulness Breaks — enriched from strategies CSV via Claude
+* **Enrich**: Mind Mapping — enriched from strategies CSV via Claude
+* **Enrich**: Mindful Listening — enriched from strategies CSV via Claude
+* **Enrich**: Mindfulness Techniques for Managing Emotional Impulses — enriched from strategies CSV via Claude
+* **Enrich**: Mindful Moment — enriched from strategies CSV via Claude
+* **Enrich**: Mindfulness Practices — enriched from strategies CSV via Claude
+* **Enrich**: Minimally Invasive Hand Gesture — enriched from strategies CSV via Claude
+* **Enrich**: Mindfulness and Movement Integration — enriched from strategies CSV via Claude
+* **Enrich**: Mindfulness Techniques for Emotional Regulation — enriched from strategies CSV via Claude
+* **Enrich**: Mistake-Friendly Classroom — enriched from strategies CSV via Claude
+* **Enrich**: Mirrors, Windows, and Sliding Glass Doors — enriched from strategies CSV via Claude
+* **Enrich**: Mindfulness Techniques for Self-Regulation — enriched from strategies CSV via Claude
+* **Enrich**: Mini Classroom Exercise Breaks — enriched from strategies CSV via Claude
+* **Enrich**: Model-Eliciting Activities (MEAs) — enriched from strategies CSV via Claude
+* **Enrich**: Mirror Faces — enriched from strategies CSV via Claude
+* **Enrich**: Model Assignment or Skill — enriched from strategies CSV via Claude
+* **Enrich**: Mini-Lessons on Features — enriched from strategies CSV via Claude
+* **Enrich**: Mnemonic Devices — enriched from strategies CSV via Claude
+* **Enrich**: Mitigating Racial Bias in Edtech Products — enriched from strategies CSV via Claude
+* **Enrich**: Model and Example Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Mix It Up — enriched from strategies CSV via Claude
+* **Enrich**: Mobile Communication for Family Engagement — enriched from strategies CSV via Claude
+* **Enrich**: Model Reflection — enriched from strategies CSV via Claude
+* **Enrich**: Model the Assignment or Skill — enriched from strategies CSV via Claude
+* **Enrich**: Modeling and Practice (Source Evaluation) — enriched from strategies CSV via Claude
+* **Enrich**: Model Empathy and Explain — enriched from strategies CSV via Claude
+* **Enrich**: Modeling Reflection — enriched from strategies CSV via Claude
+* **Enrich**: Model Drawing Strategy — enriched from strategies CSV via Claude
+* **Enrich**: Modified Jigsaw Activities — enriched from strategies CSV via Claude
+* **Enrich**: Model Positive Connections to Literacy — enriched from strategies CSV via Claude
+* **Enrich**: Modeling Skills and Interaction — enriched from strategies CSV via Claude
+* **Enrich**: Monitoring Progress — enriched from strategies CSV via Claude
+* **Enrich**: Moose Math App — enriched from strategies CSV via Claude
+* **Enrich**: Morphological Analysis of Latin and Greek Roots — enriched from strategies CSV via Claude
+* **Enrich**: Modeling Empathy — enriched from strategies CSV via Claude
+* **Enrich**: Modeling Positive Self-Talk — enriched from strategies CSV via Claude
+* **Enrich**: Motion and Forces Experiments — enriched from strategies CSV via Claude
+* **Enrich**: Modeling a Growth Mindset — enriched from strategies CSV via Claude
+* **Enrich**: Morphological Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Movement Breaks — enriched from strategies CSV via Claude
+* **Enrich**: Modified Grading Scale — enriched from strategies CSV via Claude
+* **Enrich**: Monitor and Adjust Classroom Temperature — enriched from strategies CSV via Claude
+* **Enrich**: Multiple Display Boards/Screens — enriched from strategies CSV via Claude
+* **Enrich**: Multiple Exposures — enriched from strategies CSV via Claude
+* **Enrich**: Multimodal Assignments — enriched from strategies CSV via Claude
+* **Enrich**: Multiple Modalities for Perceiving Information — enriched from strategies CSV via Claude
+* **Enrich**: Multi-Tiered System of Supports (MTSS) — enriched from strategies CSV via Claude
+* **Enrich**: Multimodal Composition Projects — enriched from strategies CSV via Claude
+* **Enrich**: Motor Images — enriched from strategies CSV via Claude
+* **Enrich**: Multimodal Composition — enriched from strategies CSV via Claude
+* **Enrich**: Multimodal Learning Logs/Blogs — enriched from strategies CSV via Claude
+* **Enrich**: Multiple Representations: Visual Representations — enriched from strategies CSV via Claude
+* **Enrich**: Multiple Examples — enriched from strategies CSV via Claude
+* **Enrich**: Multiple Writing Surfaces — enriched from strategies CSV via Claude
+* **Enrich**: Multipurpose Spaces — enriched from strategies CSV via Claude
+* **Enrich**: Multiple Ways to Perceive Information — enriched from strategies CSV via Claude
+* **Enrich**: Multiple Representations: Number Line — enriched from strategies CSV via Claude
+* **Enrich**: Multiple Texts — enriched from strategies CSV via Claude
+* **Enrich**: Multiple_Representations — enriched from strategies CSV via Claude
+* **Enrich**: Multisensory Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Multiplicative Double Counting — enriched from strategies CSV via Claude
+* **Enrich**: Mystery Emotion — enriched from strategies CSV via Claude
+* **Enrich**: Multisensory Memory Strategies for Irregular Words — enriched from strategies CSV via Claude
+* **Enrich**: Music and Emotions — enriched from strategies CSV via Claude
+* **Enrich**: Name Pronunciation — enriched from strategies CSV via Claude
+* **Enrich**: Multisyllable Word Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Natural Lighting — enriched from strategies CSV via Claude
+* **Enrich**: Needs and Wants Assessment with Likert Scales — enriched from strategies CSV via Claude
+* **Enrich**: Music & Dance — enriched from strategies CSV via Claude
+* **Enrich**: No-Zero Grading Policy — enriched from strategies CSV via Claude
+* **Enrich**: Nighttime Blue Light Reduction — enriched from strategies CSV via Claude
+* **Enrich**: Music and Dance Integration — enriched from strategies CSV via Claude
+* **Enrich**: Narrative Advance Organizers — enriched from strategies CSV via Claude
+* **Enrich**: Name the Negative Voice — enriched from strategies CSV via Claude
+* **Enrich**: Negotiated Grades — enriched from strategies CSV via Claude
+* **Enrich**: Noise Level Monitoring Tools — enriched from strategies CSV via Claude
+* **Enrich**: Non-Confrontational Check-ins — enriched from strategies CSV via Claude
+* **Enrich**: Non-intensive Home Numeracy Environment (HNE) Intervention Program — enriched from strategies CSV via Claude
+* **Enrich**: Noise Monitoring Tools — enriched from strategies CSV via Claude
+* **Enrich**: Naming the Negative Voice — enriched from strategies CSV via Claude
+* **Enrich**: Nonconfrontational Statements and Informal Chitchat — enriched from strategies CSV via Claude
+* **Enrich**: Normalizing Struggle — enriched from strategies CSV via Claude
+* **Enrich**: Normalizing Trouble — enriched from strategies CSV via Claude
+* **Enrich**: Navigator-Tourist Peer Learning — enriched from strategies CSV via Claude
+* **Enrich**: Note-Taking/Note-Making — enriched from strategies CSV via Claude
+* **Enrich**: Novelty Attention-Getters — enriched from strategies CSV via Claude
+* **Enrich**: Novelty Sounds — enriched from strategies CSV via Claude
+* **Enrich**: Numbers to 100 — enriched from strategies CSV via Claude
+* **Enrich**: Non-Competitive Physical Activities — enriched from strategies CSV via Claude
+* **Enrich**: Number Rack App — enriched from strategies CSV via Claude
+* **Enrich**: Note-Taking Using Graphic Organizers — enriched from strategies CSV via Claude
+* **Enrich**: Number Relationships and Reasoning Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Offer Services and Events to Bring Parents into the School — enriched from strategies CSV via Claude
+* **Enrich**: Observations and Conversations — enriched from strategies CSV via Claude
+* **Enrich**: On-the-Job Training (OJT) — enriched from strategies CSV via Claude
+* **Enrich**: Ongoing Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Normalizing Trouble and Struggle — enriched from strategies CSV via Claude
+* **Enrich**: Number Talks — enriched from strategies CSV via Claude
+* **Enrich**: Ongoing Feedback and Reflection — enriched from strategies CSV via Claude
+* **Enrich**: Offering Multiple Options for Family Engagement — enriched from strategies CSV via Claude
+* **Enrich**: One-Sentence Response — enriched from strategies CSV via Claude
+* **Enrich**: Operation Math App — enriched from strategies CSV via Claude
+* **Enrich**: Optimize Classroom Acoustics — enriched from strategies CSV via Claude
+* **Enrich**: One-on-One Conference — enriched from strategies CSV via Claude
+* **Enrich**: Online Videos for Family Learning — enriched from strategies CSV via Claude
+* **Enrich**: Open Classroom Climate — enriched from strategies CSV via Claude
+* **Enrich**: Optimize Classroom Acoustics and Noise Levels — enriched from strategies CSV via Claude
+* **Enrich**: Optimize Classroom Size and Space — enriched from strategies CSV via Claude
+* **Enrich**: Optimizing Natural Lighting — enriched from strategies CSV via Claude
+* **Enrich**: Optimize Natural Lighting — enriched from strategies CSV via Claude
+* **Enrich**: Open Communication and Trust — enriched from strategies CSV via Claude
+* **Enrich**: Outdoor Book Walk — enriched from strategies CSV via Claude
+* **Enrich**: Optimize Classroom Temperature — enriched from strategies CSV via Claude
+* **Enrich**: Optimal Student Flow — enriched from strategies CSV via Claude
+* **Enrich**: Parental Involvement in Physical Activity — enriched from strategies CSV via Claude
+* **Enrich**: Optimizing Classroom Space — enriched from strategies CSV via Claude
+* **Enrich**: Pairing with Positive Role Models — enriched from strategies CSV via Claude
+* **Enrich**: Optimizing School Facilities — enriched from strategies CSV via Claude
+* **Enrich**: Organized Online Resources — enriched from strategies CSV via Claude
+* **Enrich**: Optimize Classroom Lighting — enriched from strategies CSV via Claude
+* **Enrich**: Organizing Information and Taking Notes — enriched from strategies CSV via Claude
+* **Enrich**: Pay Attention, Pause, Paraphrase — enriched from strategies CSV via Claude
+* **Enrich**: Paragraph Shrinking — enriched from strategies CSV via Claude
+* **Enrich**: Peer-Assisted Learning Strategies (PALS) — enriched from strategies CSV via Claude
+* **Enrich**: Pattern Recognition in Learning — enriched from strategies CSV via Claude
+* **Enrich**: Peer Review/Peer Editing — enriched from strategies CSV via Claude
+* **Enrich**: Peer Tutoring — enriched from strategies CSV via Claude
+* **Enrich**: Peer and Self-Assessment — enriched from strategies CSV via Claude
+* **Enrich**: Peer Observation — enriched from strategies CSV via Claude
+* **Enrich**: Partner Reading with Retell — enriched from strategies CSV via Claude
+* **Enrich**: Parental Modeling of Reading — enriched from strategies CSV via Claude
+* **Enrich**: Partner Reading — enriched from strategies CSV via Claude
+* **Enrich**: Pepperoni Pizza — enriched from strategies CSV via Claude
+* **Enrich**: Philosophical Chairs — enriched from strategies CSV via Claude
+* **Enrich**: Personalized Math with Cultural Connections — enriched from strategies CSV via Claude
+* **Enrich**: Peer_Mediation — enriched from strategies CSV via Claude
+* **Enrich**: Pegword Strategy — enriched from strategies CSV via Claude
+* **Enrich**: Peer Coaching — enriched from strategies CSV via Claude
+* **Enrich**: Phonics-Based Spelling Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Perspective-taking and Empathy — enriched from strategies CSV via Claude
+* **Enrich**: Pencil Grasp Activities — enriched from strategies CSV via Claude
+* **Enrich**: Phonological Awareness Development through Rhyming — enriched from strategies CSV via Claude
+* **Enrich**: Phoneme Awareness Training — enriched from strategies CSV via Claude
+* **Enrich**: Phoneme-Grapheme Mapping — enriched from strategies CSV via Claude
+* **Enrich**: Physical Activity Breaks — enriched from strategies CSV via Claude
+* **Enrich**: Physical Activity & Recess — enriched from strategies CSV via Claude
+* **Enrich**: Picture Dictionaries — enriched from strategies CSV via Claude
+* **Enrich**: Phonological and Metalinguistic Awareness Exercises — enriched from strategies CSV via Claude
+* **Enrich**: Physical Activity-Encouraging Environment — enriched from strategies CSV via Claude
+* **Enrich**: Pictures (Pre-Reading) — enriched from strategies CSV via Claude
+* **Enrich**: Pictionary (Pre-Reading) — enriched from strategies CSV via Claude
+* **Enrich**: Pictures & Visuals — enriched from strategies CSV via Claude
+* **Enrich**: Physical_Education — enriched from strategies CSV via Claude
+* **Enrich**: Picture Writing — enriched from strategies CSV via Claude
+* **Enrich**: Pizza Box Portfolios — enriched from strategies CSV via Claude
+* **Enrich**: Pinwheel Discussion — enriched from strategies CSV via Claude
+* **Enrich**: PLaNS (Play Learning and Narrative Skills) — enriched from strategies CSV via Claude
+* **Enrich**: Platform Agnostic Design — enriched from strategies CSV via Claude
+* **Enrich**: Planned Physical Activity — enriched from strategies CSV via Claude
+* **Enrich**: Playground: Pickup Sports and Jam Sessions — enriched from strategies CSV via Claude
+* **Enrich**: Playworks TeamUp Recess Program — enriched from strategies CSV via Claude
+* **Enrich**: Playing with Techniques — enriched from strategies CSV via Claude
+* **Enrich**: Playful Spaces — enriched from strategies CSV via Claude
+* **Enrich**: Play Memory Games — enriched from strategies CSV via Claude
+* **Enrich**: Points or Experience (XP) Systems — enriched from strategies CSV via Claude
+* **Enrich**: Positive Intention & Generosity in Networking — enriched from strategies CSV via Claude
+* **Enrich**: Political Education — enriched from strategies CSV via Claude
+* **Enrich**: Positive Scripts — enriched from strategies CSV via Claude
+* **Enrich**: Positive Behavioral Interventions and Supports (PBIS) — enriched from strategies CSV via Claude
+* **Enrich**: Positive Affirmations — enriched from strategies CSV via Claude
+* **Enrich**: Poetry Exploration through Digital Libraries — enriched from strategies CSV via Claude
+* **Enrich**: Portfolio Development — enriched from strategies CSV via Claude
+* **Enrich**: Praising Effort and Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Picture Schedules and Visual Planners — enriched from strategies CSV via Claude
+* **Enrich**: Practice Time — enriched from strategies CSV via Claude
+* **Enrich**: Post-Reading Discussions — enriched from strategies CSV via Claude
+* **Enrich**: Pre-Entry Socialization — enriched from strategies CSV via Claude
+* **Enrich**: Practice Changing Negative Thoughts into Positive Ones — enriched from strategies CSV via Claude
+* **Enrich**: Pre-reading: Skimming Text — enriched from strategies CSV via Claude
+* **Enrich**: Praise Effort and Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Practice Responsible Decision-Making — enriched from strategies CSV via Claude
+* **Enrich**: PQP (Praise-Question-Polish) — enriched from strategies CSV via Claude
+* **Enrich**: Pre-Reading Graphic Organizers — enriched from strategies CSV via Claude
+* **Enrich**: Pre-reading: 4 Ps (Preview, Predict, Prior Knowledge, Purpose) — enriched from strategies CSV via Claude
+* **Enrich**: Pre-reading: Generating Questions — enriched from strategies CSV via Claude
+* **Enrich**: Pre-Shadowing Preparation Activities — enriched from strategies CSV via Claude
+* **Enrich**: Pre-reading: Understand the Purpose of the Reading — enriched from strategies CSV via Claude
+* **Enrich**: Predictability: Environment & Structure — enriched from strategies CSV via Claude
+* **Enrich**: Pre-Writing Skills Activities — enriched from strategies CSV via Claude
+* **Enrich**: Pre-recorded Instructional Video — enriched from strategies CSV via Claude
+* **Enrich**: Pre-reading: Skim a Book Systematically — enriched from strategies CSV via Claude
+* **Enrich**: Prediction Relay — enriched from strategies CSV via Claude
+* **Enrich**: Pre-recording Instructional Videos — enriched from strategies CSV via Claude
+* **Enrich**: Preliminary Data Collection — enriched from strategies CSV via Claude
+* **Enrich**: Predictive Emotion Planning — enriched from strategies CSV via Claude
+* **Enrich**: Prepare Instructions Carefully — enriched from strategies CSV via Claude
+* **Enrich**: Prep Activities for Shadowing — enriched from strategies CSV via Claude
+* **Enrich**: Pre-Teaching Vocabulary — enriched from strategies CSV via Claude
+* **Enrich**: Prepare the Ground — enriched from strategies CSV via Claude
+* **Enrich**: Preferential Seating — enriched from strategies CSV via Claude
+* **Enrich**: Present Tense Messages — enriched from strategies CSV via Claude
+* **Enrich**: Primary Language Support with Bilingual Texts — enriched from strategies CSV via Claude
+* **Enrich**: Pretend Play — enriched from strategies CSV via Claude
+* **Enrich**: Prioritizing Self-Advocacy and Self-Determination — enriched from strategies CSV via Claude
+* **Enrich**: Prioritizing Agency for Students With Disabilities — enriched from strategies CSV via Claude
+* **Enrich**: Probing Questions — enriched from strategies CSV via Claude
+* **Enrich**: Prewriting Activities — enriched from strategies CSV via Claude
+* **Enrich**: Problem Solving: Draw a Picture — enriched from strategies CSV via Claude
+* **Enrich**: Process-Focused Learning — enriched from strategies CSV via Claude
+* **Enrich**: Problem Scenario Analysis — enriched from strategies CSV via Claude
+* **Enrich**: Process for Constructive Decision-Making — enriched from strategies CSV via Claude
+* **Enrich**: Pre-Writing with Graphic Organizers — enriched from strategies CSV via Claude
+* **Enrich**: Process Writing (Journals) — enriched from strategies CSV via Claude
+* **Enrich**: Producing Counter-texts — enriched from strategies CSV via Claude
+* **Enrich**: Project-based Learning — enriched from strategies CSV via Claude
+* **Enrich**: Process Writing Approach — enriched from strategies CSV via Claude
+* **Enrich**: Project-Based Learning (PBL) — enriched from strategies CSV via Claude
+* **Enrich**: Project Management Tools for Group Work — enriched from strategies CSV via Claude
+* **Enrich**: Proctor Intervention for Rapid Guessing — enriched from strategies CSV via Claude
+* **Enrich**: Project Options and Self-Grading — enriched from strategies CSV via Claude
+* **Enrich**: Problem Solving — enriched from strategies CSV via Claude
+* **Enrich**: Progress Monitoring — enriched from strategies CSV via Claude
+* **Enrich**: Promote a Growth Mindset — enriched from strategies CSV via Claude
+* **Enrich**: Project-Based Transformation of Society — enriched from strategies CSV via Claude
+* **Enrich**: Project-Based Learning (PBL) in Math — enriched from strategies CSV via Claude
+* **Enrich**: Promoting Belonging Through Cues and Representations — enriched from strategies CSV via Claude
+* **Enrich**: Promoting Self-Determination and Self-Advocacy in Students with Disabilities — enriched from strategies CSV via Claude
+* **Enrich**: Promoting Belonging Through Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Prompted Source Evaluation — enriched from strategies CSV via Claude
+* **Enrich**: Prompt Cards for Emotional Regulation — enriched from strategies CSV via Claude
+* **Enrich**: Provide Easy-Access Educational Tools — enriched from strategies CSV via Claude
+* **Enrich**: Promote a Growth Mindset in Math — enriched from strategies CSV via Claude
+* **Enrich**: Propaganda Technique Identification — enriched from strategies CSV via Claude
+* **Enrich**: Prompts & Questions — enriched from strategies CSV via Claude
+* **Enrich**: Provide Writing Models — enriched from strategies CSV via Claude
+* **Enrich**: Provide Manipulatives (Processing Speed) — enriched from strategies CSV via Claude
+* **Enrich**: Promoting Self-Directed Learning Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Provide Instructions Before Starting Work — enriched from strategies CSV via Claude
+* **Enrich**: Promoting a Growth Mindset — enriched from strategies CSV via Claude
+* **Enrich**: Provide Opportunities for Success — enriched from strategies CSV via Claude
+* **Enrich**: Provide Manipulatives — enriched from strategies CSV via Claude
+* **Enrich**: Providing Choices About Content — enriched from strategies CSV via Claude
+* **Enrich**: Puppet Shows to Explore Emotions — enriched from strategies CSV via Claude
+* **Enrich**: Providing Graphic Organizers or Guided Notes — enriched from strategies CSV via Claude
+* **Enrich**: Purpose (Pre-Reading) — enriched from strategies CSV via Claude
+* **Enrich**: Pupil-Generated Word Problems — enriched from strategies CSV via Claude
+* **Enrich**: Prepare for Parental Reactions — enriched from strategies CSV via Claude
+* **Enrich**: Providing Easy-Access Educational Tools — enriched from strategies CSV via Claude
+* **Enrich**: Publicize Volunteer Opportunities and Student Involvement — enriched from strategies CSV via Claude
+* **Enrich**: Purposeful Scheduling for Learner Connections — enriched from strategies CSV via Claude
+* **Enrich**: Providing Manipulatives — enriched from strategies CSV via Claude
+* **Enrich**: Push for Deeper Analysis — enriched from strategies CSV via Claude
+* **Enrich**: Putting Empathy in the Curriculum — enriched from strategies CSV via Claude
+* **Enrich**: Question-based eLearning Design — enriched from strategies CSV via Claude
+* **Enrich**: Quality Homework Assignments — enriched from strategies CSV via Claude
+* **Enrich**: Question_Generation — enriched from strategies CSV via Claude
+* **Enrich**: Quiet Classroom/Pockets of Quiet — enriched from strategies CSV via Claude
+* **Enrich**: Questioning Techniques — enriched from strategies CSV via Claude
+* **Enrich**: Quiet Space — enriched from strategies CSV via Claude
+* **Enrich**: Questioning Techniques to Address Errors — enriched from strategies CSV via Claude
+* **Enrich**: Question Formulation Technique (QFT) — enriched from strategies CSV via Claude
+* **Enrich**: Quick Reflection Prompts — enriched from strategies CSV via Claude
+* **Enrich**: Quiet Time — enriched from strategies CSV via Claude
+* **Enrich**: Quiet Signals — enriched from strategies CSV via Claude
+* **Enrich**: Quiet Environment/Pockets of Quiet — enriched from strategies CSV via Claude
+* **Enrich**: Quiet Space for Self-Regulation — enriched from strategies CSV via Claude
+* **Enrich**: Racial Equity in PBL - Expect Excellence — enriched from strategies CSV via Claude
+* **Enrich**: Providing Accessible Educational Tools — enriched from strategies CSV via Claude
+* **Enrich**: Racial Equity in PBL - Build Community Through Peer Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Racial Equity in PBL - Spark Engagement with Student-Generated Questions — enriched from strategies CSV via Claude
+* **Enrich**: Racial Equity in PBL - Focus Projects on Issues of Justice — enriched from strategies CSV via Claude
+* **Enrich**: Racial Equity in PBL - Listen to the Voices of Students — enriched from strategies CSV via Claude
+* **Enrich**: Racial Equity in PBL - Create Beautiful Spaces — enriched from strategies CSV via Claude
+* **Enrich**: Racial Identity Work for Educators — enriched from strategies CSV via Claude
+* **Enrich**: Racial Equity in PBL - Create Space for Students to Reflect — enriched from strategies CSV via Claude
+* **Enrich**: Racial Identity Work — enriched from strategies CSV via Claude
+* **Enrich**: Reactive Cultural Response — enriched from strategies CSV via Claude
+* **Enrich**: Reaction Observations — enriched from strategies CSV via Claude
+* **Enrich**: Raise Awareness of Self-Talk — enriched from strategies CSV via Claude
+* **Enrich**: Read Alouds — enriched from strategies CSV via Claude
+* **Enrich**: Rapid Sequencing of Examples — enriched from strategies CSV via Claude
+* **Enrich**: Rate (and Change) Tasks — enriched from strategies CSV via Claude
+* **Enrich**: Reader's Theater — enriched from strategies CSV via Claude
+* **Enrich**: Quick Writes — enriched from strategies CSV via Claude
+* **Enrich**: Read-Alouds with Discussion — enriched from strategies CSV via Claude
+* **Enrich**: Reading and Writing for Real-World Math Applications — enriched from strategies CSV via Claude
+* **Enrich**: Read Aloud with Highlighting — enriched from strategies CSV via Claude
+* **Enrich**: Read Aloud — enriched from strategies CSV via Claude
+* **Enrich**: Reading Aloud — enriched from strategies CSV via Claude
+* **Enrich**: Read and Reflect — enriched from strategies CSV via Claude
+* **Enrich**: Reading Conferences — enriched from strategies CSV via Claude
+* **Enrich**: Reading and Understanding Written Math Problems — enriched from strategies CSV via Claude
+* **Enrich**: Real-world Math Applications — enriched from strategies CSV via Claude
+* **Enrich**: Reading Documentation and Reflection — enriched from strategies CSV via Claude
+* **Enrich**: Reading Laterally — enriched from strategies CSV via Claude
+* **Enrich**: Real-World Reframes — enriched from strategies CSV via Claude
+* **Enrich**: Reading Online Strategy: Evaluating Online Information — enriched from strategies CSV via Claude
+* **Enrich**: Reasoning-Focused Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Reasonable Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Reading Online Strategy: Formulating Effective Search Queries — enriched from strategies CSV via Claude
+* **Enrich**: Reading in Math Class — enriched from strategies CSV via Claude
+* **Enrich**: Reciprocal Peer Tutoring — enriched from strategies CSV via Claude
+* **Enrich**: Redirecting Language — enriched from strategies CSV via Claude
+* **Enrich**: Read-Alouds with Deliberate Topics — enriched from strategies CSV via Claude
+* **Enrich**: Reflection After Writing — enriched from strategies CSV via Claude
+* **Enrich**: Reflect on Learning — enriched from strategies CSV via Claude
+* **Enrich**: Reflecting on Student Strengths and Challenges — enriched from strategies CSV via Claude
+* **Enrich**: Reciprocal_Teaching — enriched from strategies CSV via Claude
+* **Enrich**: Reflection Exercises — enriched from strategies CSV via Claude
+* **Enrich**: Recognizing the Value of Learning from Mistakes — enriched from strategies CSV via Claude
+* **Enrich**: Reflection on Student Learning — enriched from strategies CSV via Claude
+* **Enrich**: Reducing Visual Clutter — enriched from strategies CSV via Claude
+* **Enrich**: Reciprocal Teaching: Peer Assisted Learning Strategies (PALS) — enriched from strategies CSV via Claude
+* **Enrich**: Recording Devices — enriched from strategies CSV via Claude
+* **Enrich**: Reflection Prompts — enriched from strategies CSV via Claude
+* **Enrich**: Reflection on Learning — enriched from strategies CSV via Claude
+* **Enrich**: Reflection on Lessons — enriched from strategies CSV via Claude
+* **Enrich**: Reflection with Others — enriched from strategies CSV via Claude
+* **Enrich**: Reflex Math App — enriched from strategies CSV via Claude
+* **Enrich**: Reflective Journaling — enriched from strategies CSV via Claude
+* **Enrich**: Reframe Anxiety as Excitement — enriched from strategies CSV via Claude
+* **Enrich**: Reflective Prompts — enriched from strategies CSV via Claude
+* **Enrich**: Reflective Journals — enriched from strategies CSV via Claude
+* **Enrich**: Reflective Assessment — enriched from strategies CSV via Claude
+* **Enrich**: Relate Math to Student Strengths — enriched from strategies CSV via Claude
+* **Enrich**: Reframing Negative Self-Talk — enriched from strategies CSV via Claude
+* **Enrich**: Relate Math to Learner Strengths — enriched from strategies CSV via Claude
+* **Enrich**: Relevant Vocabulary Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Regular Physical Education (PE) Classes — enriched from strategies CSV via Claude
+* **Enrich**: Regular Text Referencing — enriched from strategies CSV via Claude
+* **Enrich**: Reframe Negative Self-Talk — enriched from strategies CSV via Claude
+* **Enrich**: Relationship Skills Identification and Support — enriched from strategies CSV via Claude
+* **Enrich**: Remove Visual Distractions — enriched from strategies CSV via Claude
+* **Enrich**: Repairing Harm — enriched from strategies CSV via Claude
+* **Enrich**: Repeat Key Points — enriched from strategies CSV via Claude
+* **Enrich**: Repetition — enriched from strategies CSV via Claude
+* **Enrich**: Repeat Key Points (Processing Speed) — enriched from strategies CSV via Claude
+* **Enrich**: Repeating Key Points in Different Ways — enriched from strategies CSV via Claude
+* **Enrich**: Reinforce Positive Behaviors — enriched from strategies CSV via Claude
+* **Enrich**: Relating Math to Student Strengths — enriched from strategies CSV via Claude
+* **Enrich**: Repertoire of Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Replace Negative Influences with Positive Ones — enriched from strategies CSV via Claude
+* **Enrich**: Representation of Diverse Perspectives and Identities — enriched from strategies CSV via Claude
+* **Enrich**: Remote Support with Augmented Reality (AR) — enriched from strategies CSV via Claude
+* **Enrich**: Require Retakes — enriched from strategies CSV via Claude
+* **Enrich**: Rereading — enriched from strategies CSV via Claude
+* **Enrich**: Research Map — enriched from strategies CSV via Claude
+* **Enrich**: Research Map Visualization — enriched from strategies CSV via Claude
+* **Enrich**: Respectful Redirection — enriched from strategies CSV via Claude
+* **Enrich**: Respect Diverse Talents and Ways of Learning — enriched from strategies CSV via Claude
+* **Enrich**: Resistance Reading and Counter-Narratives — enriched from strategies CSV via Claude
+* **Enrich**: Research Reports — enriched from strategies CSV via Claude
+* **Enrich**: Responding with \"Yet\ — enriched from strategies CSV via Claude
+* **Enrich**: Retrieval Practice — enriched from strategies CSV via Claude
+* **Enrich**: Retrieval Practice — enriched from strategies CSV via Claude
+* **Enrich**: Retrieval Practice with Graphic Organizers — enriched from strategies CSV via Claude
+* **Enrich**: Responsible Decision-Making Practice — enriched from strategies CSV via Claude
+* **Enrich**: Response Devices — enriched from strategies CSV via Claude
+* **Enrich**: Restate The Question — enriched from strategies CSV via Claude
+* **Enrich**: Restorative_Questions — enriched from strategies CSV via Claude
+* **Enrich**: Rethinking Accountability — enriched from strategies CSV via Claude
+* **Enrich**: Rice Tables and Sandboxes: Science Through Inquiry — enriched from strategies CSV via Claude
+* **Enrich**: Rich Library: Complexity — enriched from strategies CSV via Claude
+* **Enrich**: Rich Resources: Diversity — enriched from strategies CSV via Claude
+* **Enrich**: Rhythmic Clapping/Counting — enriched from strategies CSV via Claude
+* **Enrich**: Rhyming Games — enriched from strategies CSV via Claude
+* **Enrich**: RIP Toolbox (Repetition, Imagery, Patterns) — enriched from strategies CSV via Claude
+* **Enrich**: RSOWV/TRAP Mnemonics — enriched from strategies CSV via Claude
+* **Enrich**: Rich Library: Multimodal — enriched from strategies CSV via Claude
+* **Enrich**: Rich Library: Multimodal Resources — enriched from strategies CSV via Claude
+* **Enrich**: Rich Library: Poetry — enriched from strategies CSV via Claude
+* **Enrich**: Role Play — enriched from strategies CSV via Claude
+* **Enrich**: Safe and Healthy Elementary School Recess — enriched from strategies CSV via Claude
+* **Enrich**: Role-Playing Emotional Scenarios — enriched from strategies CSV via Claude
+* **Enrich**: Rubrics — enriched from strategies CSV via Claude
+* **Enrich**: Say it Once — enriched from strategies CSV via Claude
+* **Enrich**: Rubric Co Construction — enriched from strategies CSV via Claude
+* **Enrich**: Scaffold Structure and Function — enriched from strategies CSV via Claude
+* **Enrich**: Role-Reversal 2.0 (Flipping the Teacher) — enriched from strategies CSV via Claude
+* **Enrich**: Sail through Math App — enriched from strategies CSV via Claude
+* **Enrich**: Scaffolding Self-Regulation — enriched from strategies CSV via Claude
+* **Enrich**: Scaffolding Structure and Function in PBL — enriched from strategies CSV via Claude
+* **Enrich**: Schema-Based Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Schwa Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Scaffolded Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Scaffolding for Self-Regulation — enriched from strategies CSV via Claude
+* **Enrich**: Scaffolded Peer Review — enriched from strategies CSV via Claude
+* **Enrich**: Rich Library: Audio & Braille — enriched from strategies CSV via Claude
+* **Enrich**: SEL-Focused Digital Libraries — enriched from strategies CSV via Claude
+* **Enrich**: See, Think, Wonder — enriched from strategies CSV via Claude
+* **Enrich**: School Newsletters — enriched from strategies CSV via Claude
+* **Enrich**: SEL Questioning — enriched from strategies CSV via Claude
+* **Enrich**: Secret Student — enriched from strategies CSV via Claude
+* **Enrich**: SEL Integration through Literature — enriched from strategies CSV via Claude
+* **Enrich**: Screen Readers — enriched from strategies CSV via Claude
+* **Enrich**: Science Through Inquiry — enriched from strategies CSV via Claude
+* **Enrich**: SEL Videos with Discussion — enriched from strategies CSV via Claude
+* **Enrich**: Selecting Tiered Vocabulary Words — enriched from strategies CSV via Claude
+* **Enrich**: Self- and Peer-Editing — enriched from strategies CSV via Claude
+* **Enrich**: Self Monitoring — enriched from strategies CSV via Claude
+* **Enrich**: SEL Discussions on Ethical Dilemmas — enriched from strategies CSV via Claude
+* **Enrich**: Self-Monitoring of Behavior — enriched from strategies CSV via Claude
+* **Enrich**: SEL Discussions through Literary Characters — enriched from strategies CSV via Claude
+* **Enrich**: Self-Monitoring of Attention (SMA) — enriched from strategies CSV via Claude
+* **Enrich**: Self-Monitoring of Performance (SMP) — enriched from strategies CSV via Claude
+* **Enrich**: Selecting Culturally Responsive Texts — enriched from strategies CSV via Claude
+* **Enrich**: Self-Awareness - Journal Reflections — enriched from strategies CSV via Claude
+* **Enrich**: Self-Evaluation in Writing — enriched from strategies CSV via Claude
+* **Enrich**: Self-Regulation - Mindfulness Techniques — enriched from strategies CSV via Claude
+* **Enrich**: Sensitivity to Language Concerns — enriched from strategies CSV via Claude
+* **Enrich**: Self-Reinforcement in Writing — enriched from strategies CSV via Claude
+* **Enrich**: Self-Regulation Scaffolding — enriched from strategies CSV via Claude
+* **Enrich**: Self-Organized Learning Groups — enriched from strategies CSV via Claude
+* **Enrich**: Self-Awareness - Identify Feelings — enriched from strategies CSV via Claude
+* **Enrich**: Sensory Stimulation — enriched from strategies CSV via Claude
+* **Enrich**: Self-Regulated Strategy Development (SRSD) — enriched from strategies CSV via Claude
+* **Enrich**: Sentence Stems for Reflection — enriched from strategies CSV via Claude
+* **Enrich**: Self-Talk Brainstorm — enriched from strategies CSV via Claude
+* **Enrich**: Sentence Starters — enriched from strategies CSV via Claude
+* **Enrich**: Separate Product, Process, and Progress Criteria — enriched from strategies CSV via Claude
+* **Enrich**: Sensory Breaks — enriched from strategies CSV via Claude
+* **Enrich**: Set a High Bar for Each Student — enriched from strategies CSV via Claude
+* **Enrich**: Set Aside Your Own Reaction — enriched from strategies CSV via Claude
+* **Enrich**: Sensory Processing and Handwriting — enriched from strategies CSV via Claude
+* **Enrich**: Sentence Frames — enriched from strategies CSV via Claude
+* **Enrich**: Sentence Combining — enriched from strategies CSV via Claude
+* **Enrich**: Set Clear Objectives — enriched from strategies CSV via Claude
+* **Enrich**: Setting Goals — enriched from strategies CSV via Claude
+* **Enrich**: Setting Achievable Micro-Goals — enriched from strategies CSV via Claude
+* **Enrich**: Shadow a Student — enriched from strategies CSV via Claude
+* **Enrich**: Seven Blind Mice — enriched from strategies CSV via Claude
+* **Enrich**: Shadowing (for behavior adjustment) — enriched from strategies CSV via Claude
+* **Enrich**: Shadowing to Adjust Behavior Problems — enriched from strategies CSV via Claude
+* **Enrich**: Shadowing a Student — enriched from strategies CSV via Claude
+* **Enrich**: Shared Reflection — enriched from strategies CSV via Claude
+* **Enrich**: Shadowing for Behavior Adjustment — enriched from strategies CSV via Claude
+* **Enrich**: Shared Writing — enriched from strategies CSV via Claude
+* **Enrich**: Shape Search — enriched from strategies CSV via Claude
+* **Enrich**: Self-Regulation - Scaffolding — enriched from strategies CSV via Claude
+* **Enrich**: Shared Reading — enriched from strategies CSV via Claude
+* **Enrich**: Shoeless Learning Spaces — enriched from strategies CSV via Claude
+* **Enrich**: Sharing and Discussion of Independent Reading — enriched from strategies CSV via Claude
+* **Enrich**: Show and Tell for Multimodal Composition — enriched from strategies CSV via Claude
+* **Enrich**: Signage and Displays — enriched from strategies CSV via Claude
+* **Enrich**: Silent Countdown — enriched from strategies CSV via Claude
+* **Enrich**: Short Conversations (Pre-Reading) — enriched from strategies CSV via Claude
+* **Enrich**: Simple-to-Difficult Examples — enriched from strategies CSV via Claude
+* **Enrich**: Simplify Grading Scales — enriched from strategies CSV via Claude
+* **Enrich**: Simplify and Clarify Instructions — enriched from strategies CSV via Claude
+* **Enrich**: Shadowing (Behavior Adjustment) — enriched from strategies CSV via Claude
+* **Enrich**: Silent Game Incentive — enriched from strategies CSV via Claude
+* **Enrich**: Show Me — enriched from strategies CSV via Claude
+* **Enrich**: Show and Tell for Multimodal Design — enriched from strategies CSV via Claude
+* **Enrich**: Simulation Learning — enriched from strategies CSV via Claude
+* **Enrich**: Simulations + Structured Activity — enriched from strategies CSV via Claude
+* **Enrich**: Six Thinking Hats — enriched from strategies CSV via Claude
+* **Enrich**: Skip Counting with Movement — enriched from strategies CSV via Claude
+* **Enrich**: Six Consumer Questions — enriched from strategies CSV via Claude
+* **Enrich**: SMART Goal Setting — enriched from strategies CSV via Claude
+* **Enrich**: Shadowing to Address Behavior Problems — enriched from strategies CSV via Claude
+* **Enrich**: SOAR Feedback Method — enriched from strategies CSV via Claude
+* **Enrich**: Social Annotation — enriched from strategies CSV via Claude
+* **Enrich**: Share Teacher's Written Work — enriched from strategies CSV via Claude
+* **Enrich**: Snap It — enriched from strategies CSV via Claude
+* **Enrich**: SOAP (Specific, Observable, Appropriate, Personal) — enriched from strategies CSV via Claude
+* **Enrich**: Socratic Seminar — enriched from strategies CSV via Claude
+* **Enrich**: Snowball Discussion — enriched from strategies CSV via Claude
+* **Enrich**: Social Awareness Instruction with Current Events — enriched from strategies CSV via Claude
+* **Enrich**: Soliciting Feedback on Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Sound Walls — enriched from strategies CSV via Claude
+* **Enrich**: Sound-blocking Devices — enriched from strategies CSV via Claude
+* **Enrich**: Spaces that Foster Creativity — enriched from strategies CSV via Claude
+* **Enrich**: Spaced Practice — enriched from strategies CSV via Claude
+* **Enrich**: Social Awareness - Model Empathy and Explain — enriched from strategies CSV via Claude
+* **Enrich**: Socratic Seminars — enriched from strategies CSV via Claude
+* **Enrich**: Slug — enriched from strategies CSV via Claude
+* **Enrich**: Specific Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Songs and Rhymes — enriched from strategies CSV via Claude
+* **Enrich**: Small Group Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Specific Goal Questioning — enriched from strategies CSV via Claude
+* **Enrich**: Spacing Activities in Handwriting — enriched from strategies CSV via Claude
+* **Enrich**: Specific Technique Identification — enriched from strategies CSV via Claude
+* **Enrich**: Speech-to-Text Technology — enriched from strategies CSV via Claude
+* **Enrich**: Stand Up/Sit Down — enriched from strategies CSV via Claude
+* **Enrich**: Speak the Future, Design the Future (Changing the Discourse) — enriched from strategies CSV via Claude
+* **Enrich**: Squeeze Ball or Theraputty — enriched from strategies CSV via Claude
+* **Enrich**: Standard Inverted Classroom — enriched from strategies CSV via Claude
+* **Enrich**: Speed Chatting (Pre-Reading) — enriched from strategies CSV via Claude
+* **Enrich**: Stages of Drawing and Writing Development — enriched from strategies CSV via Claude
+* **Enrich**: Standard-Based Regrouping — enriched from strategies CSV via Claude
+* **Enrich**: Stop and Jot — enriched from strategies CSV via Claude
+* **Enrich**: Spaced Learning Through Activity Breaks — enriched from strategies CSV via Claude
+* **Enrich**: Standards-Based Grading — enriched from strategies CSV via Claude
+* **Enrich**: Start with Yourself (Identity Mapping) — enriched from strategies CSV via Claude
+* **Enrich**: Step In When Abusive Language Occurs — enriched from strategies CSV via Claude
+* **Enrich**: Story Map — enriched from strategies CSV via Claude
+* **Enrich**: Stations: Interacting with Multiple Texts — enriched from strategies CSV via Claude
+* **Enrich**: Story Telling (Pre-Reading) — enriched from strategies CSV via Claude
+* **Enrich**: Spark Engagement with Student-Generated Questions — enriched from strategies CSV via Claude
+* **Enrich**: Stick-It Together (Collaborative Problem-Solving) — enriched from strategies CSV via Claude
+* **Enrich**: Storage Areas — enriched from strategies CSV via Claude
+* **Enrich**: Storytelling in Explainer Animations and Videos — enriched from strategies CSV via Claude
+* **Enrich**: Strategy Identification & Reflection — enriched from strategies CSV via Claude
+* **Enrich**: Story and Concept Maps — enriched from strategies CSV via Claude
+* **Enrich**: Strategies to Remember Name Pronunciation — enriched from strategies CSV via Claude
+* **Enrich**: Strategy Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Strength-Based Approach to Responsible Decision-Making — enriched from strategies CSV via Claude
+* **Enrich**: Storybook Emotion Analysis — enriched from strategies CSV via Claude
+* **Enrich**: Strategic Desk Arrangement — enriched from strategies CSV via Claude
+* **Enrich**: Strategy Instruction (Self-Regulated Strategy Development - SRSD) — enriched from strategies CSV via Claude
+* **Enrich**: Strategies to Develop Positive Classroom Pride — enriched from strategies CSV via Claude
+* **Enrich**: Strength-Based Approach to Social Awareness — enriched from strategies CSV via Claude
+* **Enrich**: Strength-Based Strategies for Social Awareness — enriched from strategies CSV via Claude
+* **Enrich**: Strategy Identification and Application — enriched from strategies CSV via Claude
+* **Enrich**: Strength-Based Approach to Self-Awareness — enriched from strategies CSV via Claude
+* **Enrich**: Strength-Based Strategies for Responsible Decision-Making — enriched from strategies CSV via Claude
+* **Enrich**: Structured Music and Dance Activities — enriched from strategies CSV via Claude
+* **Enrich**: Strengths-Based Teaching — enriched from strategies CSV via Claude
+* **Enrich**: Structured Discussion Techniques — enriched from strategies CSV via Claude
+* **Enrich**: Structured and Sustained Family Engagement Programs — enriched from strategies CSV via Claude
+* **Enrich**: Structured Questioning for Pair Talk — enriched from strategies CSV via Claude
+* **Enrich**: Strengths-Based IEPs — enriched from strategies CSV via Claude
+* **Enrich**: Strength-Based Strategies for Self-Awareness — enriched from strategies CSV via Claude
+* **Enrich**: Student-Created Magazines — enriched from strategies CSV via Claude
+* **Enrich**: Structured/Segmented Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Student-generated Problems — enriched from strategies CSV via Claude
+* **Enrich**: Student-Led Conferences — enriched from strategies CSV via Claude
+* **Enrich**: Structured Observation Protocol — enriched from strategies CSV via Claude
+* **Enrich**: Student-Pair Math Games — enriched from strategies CSV via Claude
+* **Enrich**: Student Blogging — enriched from strategies CSV via Claude
+* **Enrich**: Student Shadowing (Teacher/Coach Observation) — enriched from strategies CSV via Claude
+* **Enrich**: Structuring Lessons — enriched from strategies CSV via Claude
+* **Enrich**: Student-Driven Classroom Transformation — enriched from strategies CSV via Claude
+* **Enrich**: Student Choice — enriched from strategies CSV via Claude
+* **Enrich**: Student Game Design — enriched from strategies CSV via Claude
+* **Enrich**: Student-Generated Questions — enriched from strategies CSV via Claude
+* **Enrich**: Student Hand Signals — enriched from strategies CSV via Claude
+* **Enrich**: Student Assessment Reports — enriched from strategies CSV via Claude
+* **Enrich**: Student Models — enriched from strategies CSV via Claude
+* **Enrich**: Student-Generated Questions in PBL — enriched from strategies CSV via Claude
+* **Enrich**: Student Led Math Conferences — enriched from strategies CSV via Claude
+* **Enrich**: Student Presentations: All About Me — enriched from strategies CSV via Claude
+* **Enrich**: Student Demonstrations — enriched from strategies CSV via Claude
+* **Enrich**: Student Feedback on the Class — enriched from strategies CSV via Claude
+* **Enrich**: Student Portfolio Creation — enriched from strategies CSV via Claude
+* **Enrich**: Student Shadowing (for educator insights) — enriched from strategies CSV via Claude
+* **Enrich**: Student Self-Knowledge — enriched from strategies CSV via Claude
+* **Enrich**: Student Shadowing (Qualitative Data Collection) — enriched from strategies CSV via Claude
+* **Enrich**: Summaries and Recaps — enriched from strategies CSV via Claude
+* **Enrich**: Student Reflection (Responsible Decision-Making) — enriched from strategies CSV via Claude
+* **Enrich**: Student Shadowing — enriched from strategies CSV via Claude
+* **Enrich**: Support Decoding of Text, Mathematical Notation, and Symbols — enriched from strategies CSV via Claude
+* **Enrich**: Support for Decoding Text, Mathematical Notation, and Symbols — enriched from strategies CSV via Claude
+* **Enrich**: Study of Written Models — enriched from strategies CSV via Claude
+* **Enrich**: Student Presentation of Collaborative Work — enriched from strategies CSV via Claude
+* **Enrich**: Supply Caddy — enriched from strategies CSV via Claude
+* **Enrich**: Summative Assessment to Measure Learning Over Time — enriched from strategies CSV via Claude
+* **Enrich**: Syllabication Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Student Shadowing (for high school instructors) — enriched from strategies CSV via Claude
+* **Enrich**: Tactile Toys for Sensory Integration — enriched from strategies CSV via Claude
+* **Enrich**: Take Action, Be Intentional — enriched from strategies CSV via Claude
+* **Enrich**: Talking to Young Children About Race and Racism — enriched from strategies CSV via Claude
+* **Enrich**: Supporting Self-Regulation — enriched from strategies CSV via Claude
+* **Enrich**: Sushi Monster App — enriched from strategies CSV via Claude
+* **Enrich**: Task Analysis — enriched from strategies CSV via Claude
+* **Enrich**: Supported Independent Reading — enriched from strategies CSV via Claude
+* **Enrich**: Task Force Teams of Inquiry — enriched from strategies CSV via Claude
+* **Enrich**: Talk About Real-Life Challenges and Situations — enriched from strategies CSV via Claude
+* **Enrich**: Take A Break Station — enriched from strategies CSV via Claude
+* **Enrich**: Talk Moves — enriched from strategies CSV via Claude
+* **Enrich**: Targeted and Specific Communication with Families — enriched from strategies CSV via Claude
+* **Enrich**: Targeted Networking — enriched from strategies CSV via Claude
+* **Enrich**: Teacher-Led Physical Math Games — enriched from strategies CSV via Claude
+* **Enrich**: Task Management for Writing — enriched from strategies CSV via Claude
+* **Enrich**: Teach Academic Vocabulary — enriched from strategies CSV via Claude
+* **Enrich**: Teach Kids to Choose Their Self-Talk — enriched from strategies CSV via Claude
+* **Enrich**: Teach Key Words for Standardized Test Prompts — enriched from strategies CSV via Claude
+* **Enrich**: Teach Self-Regulation Skills — enriched from strategies CSV via Claude
+* **Enrich**: Teacher-Student Reading Conferences — enriched from strategies CSV via Claude
+* **Enrich**: Teach Mindfulness Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Teacher Racial Identity Work — enriched from strategies CSV via Claude
+* **Enrich**: Teach Positive Actions — enriched from strategies CSV via Claude
+* **Enrich**: Teacher as Writer — enriched from strategies CSV via Claude
+* **Enrich**: Teaching Academic Vocabulary — enriched from strategies CSV via Claude
+* **Enrich**: Teacher Modeling — enriched from strategies CSV via Claude
+* **Enrich**: Teaching Social Awareness Through Current Events and Fictional Characters — enriched from strategies CSV via Claude
+* **Enrich**: Teaching Academic Vocabulary in PBL — enriched from strategies CSV via Claude
+* **Enrich**: Temperature Control — enriched from strategies CSV via Claude
+* **Enrich**: Temperature Monitoring & Adjustment — enriched from strategies CSV via Claude
+* **Enrich**: Technology Accessibility — enriched from strategies CSV via Claude
+* **Enrich**: Teacher Read-Aloud That Models Reading for Deep Understanding — enriched from strategies CSV via Claude
+* **Enrich**: Technology Breaks — enriched from strategies CSV via Claude
+* **Enrich**: Teen Exercise as Stress Management — enriched from strategies CSV via Claude
+* **Enrich**: Test-Study-Test Technique — enriched from strategies CSV via Claude
+* **Enrich**: Text-to-Speech (TTS) — enriched from strategies CSV via Claude
+* **Enrich**: Text-Based Discussions — enriched from strategies CSV via Claude
+* **Enrich**: Text-to-Speech (TTS) Software — enriched from strategies CSV via Claude
+* **Enrich**: Team-Building Through Problem-Based Learning — enriched from strategies CSV via Claude
+* **Enrich**: Text + Social Annotation + Structured Activity — enriched from strategies CSV via Claude
+* **Enrich**: Text Illustrations with Graphic Organizers — enriched from strategies CSV via Claude
+* **Enrich**: Text Chats in Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Temperature Regulation — enriched from strategies CSV via Claude
+* **Enrich**: Temperature Monitoring for Learning Environments — enriched from strategies CSV via Claude
+* **Enrich**: The Pencil Pledge — enriched from strategies CSV via Claude
+* **Enrich**: Text-to-Speech Software — enriched from strategies CSV via Claude
+* **Enrich**: Text + Structured Activity — enriched from strategies CSV via Claude
+* **Enrich**: The Role of Background Knowledge — enriched from strategies CSV via Claude
+* **Enrich**: Text-to-Text, Text-to-Self, Text-to-World — enriched from strategies CSV via Claude
+* **Enrich**: The Best Part of Me Book — enriched from strategies CSV via Claude
+* **Enrich**: The Frayer Model — enriched from strategies CSV via Claude
+* **Enrich**: The Title (Pre-Reading) — enriched from strategies CSV via Claude
+* **Enrich**: Think-Time and Re-Reading — enriched from strategies CSV via Claude
+* **Enrich**: The Disciplinary Steps — enriched from strategies CSV via Claude
+* **Enrich**: Things to Consider as a Healthy Skeptic — enriched from strategies CSV via Claude
+* **Enrich**: Think-Pair-Share (Turn & Talk) — enriched from strategies CSV via Claude
+* **Enrich**: Think Write Pair Share — enriched from strategies CSV via Claude
+* **Enrich**: Thinking About Emotions in Advance — enriched from strategies CSV via Claude
+* **Enrich**: Think-Alouds for Online Reading Strategies — enriched from strategies CSV via Claude
+* **Enrich**: Tier Two Vocabulary Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Think Time — enriched from strategies CSV via Claude
+* **Enrich**: Timely Feedback — enriched from strategies CSV via Claude
+* **Enrich**: Thinking Tools with Graphic Organizers — enriched from strategies CSV via Claude
+* **Enrich**: Three-Tiered Writing Conferences — enriched from strategies CSV via Claude
+* **Enrich**: Thinking Critically — enriched from strategies CSV via Claude
+* **Enrich**: TPRI Diagnostic Assessment — enriched from strategies CSV via Claude
+* **Enrich**: Through the Eyes of the People in a Story — enriched from strategies CSV via Claude
+* **Enrich**: Translate Academic to Social Language — enriched from strategies CSV via Claude
+* **Enrich**: Tiered Seating Areas — enriched from strategies CSV via Claude
+* **Enrich**: Tiered Vocabulary Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Translate Report Cards Into Multiple Languages — enriched from strategies CSV via Claude
+* **Enrich**: Timely Peer Review — enriched from strategies CSV via Claude
+* **Enrich**: Turn-around Time — enriched from strategies CSV via Claude
+* **Enrich**: Travel Journals — enriched from strategies CSV via Claude
+* **Enrich**: Tossing Activity — enriched from strategies CSV via Claude
+* **Enrich**: Turn and Talk — enriched from strategies CSV via Claude
+* **Enrich**: Uncluttered Learning Environment — enriched from strategies CSV via Claude
+* **Enrich**: Training Handouts — enriched from strategies CSV via Claude
+* **Enrich**: Trampoline Review — enriched from strategies CSV via Claude
+* **Enrich**: Trait Identification and Construction — enriched from strategies CSV via Claude
+* **Enrich**: Untimed Tests — enriched from strategies CSV via Claude
+* **Enrich**: Use \"I\" Statements to Avoid Blame — enriched from strategies CSV via Claude
+* **Enrich**: Use Current Events & Fictional Characters — enriched from strategies CSV via Claude
+* **Enrich**: Use current events and fictional characters to teach social awareness — enriched from strategies CSV via Claude
+* **Enrich**: Understand Your Bias — enriched from strategies CSV via Claude
+* **Enrich**: Uncluttered Environment — enriched from strategies CSV via Claude
+* **Enrich**: Use Body Language and Demonstrations — enriched from strategies CSV via Claude
+* **Enrich**: Unit Planning with Graphic Organizers — enriched from strategies CSV via Claude
+* **Enrich**: Use Books to Teach Emotions — enriched from strategies CSV via Claude
+* **Enrich**: User-Friendly Library Website Practices — enriched from strategies CSV via Claude
+* **Enrich**: Use Estimation and Prediction — enriched from strategies CSV via Claude
+* **Enrich**: Using Empathy Interviews for Family Engagement — enriched from strategies CSV via Claude
+* **Enrich**: Use this Toolkit: Mitigating Racial Bias in Edtech — enriched from strategies CSV via Claude
+* **Enrich**: Use Positive Affirmations — enriched from strategies CSV via Claude
+* **Enrich**: Use Quotations to Cite Textual Evidence — enriched from strategies CSV via Claude
+* **Enrich**: Use Templates and Tools That Allow for Scaffolding — enriched from strategies CSV via Claude
+* **Enrich**: Using Technology — enriched from strategies CSV via Claude
+* **Enrich**: Use Visual Aids — enriched from strategies CSV via Claude
+* **Enrich**: Using Colors for Different Feelings — enriched from strategies CSV via Claude
+* **Enrich**: Utilize Text Messaging for Parent Engagement — enriched from strategies CSV via Claude
+* **Enrich**: Utilizing Mobile Communication Apps for Parent Engagement — enriched from strategies CSV via Claude
+* **Enrich**: Varying Irrelevant Attributes in Examples — enriched from strategies CSV via Claude
+* **Enrich**: Valuing the Learning Process — enriched from strategies CSV via Claude
+* **Enrich**: Varying Levels of Choice in Assessments — enriched from strategies CSV via Claude
+* **Enrich**: Using a Culturally Responsive Curriculum Scorecard — enriched from strategies CSV via Claude
+* **Enrich**: Venn Diagrams — enriched from strategies CSV via Claude
+* **Enrich**: Using Manipulatives — enriched from strategies CSV via Claude
+* **Enrich**: Using Positive Affirmations — enriched from strategies CSV via Claude
+* **Enrich**: Using Reflection for Habit Formation — enriched from strategies CSV via Claude
+* **Enrich**: Validate Feelings — enriched from strategies CSV via Claude
+* **Enrich**: Videos (Pre-Reading) — enriched from strategies CSV via Claude
+* **Enrich**: Virtual Flipped Classroom — enriched from strategies CSV via Claude
+* **Enrich**: Verbal Feedback on Writing — enriched from strategies CSV via Claude
+* **Enrich**: Virtual Reality (VR) for Empathy Training — enriched from strategies CSV via Claude
+* **Enrich**: Videoconferencing for Collaboration — enriched from strategies CSV via Claude
+* **Enrich**: Video Report Cards — enriched from strategies CSV via Claude
+* **Enrich**: Verbal Repetition — enriched from strategies CSV via Claude
+* **Enrich**: Videos: SEL Topics — enriched from strategies CSV via Claude
+* **Enrich**: Visual Organizers — enriched from strategies CSV via Claude
+* **Enrich**: Virtual Embodiment — enriched from strategies CSV via Claude
+* **Enrich**: Visual Reading Aids — enriched from strategies CSV via Claude
+* **Enrich**: Visual Cues — enriched from strategies CSV via Claude
+* **Enrich**: Visualizations and Mind Maps — enriched from strategies CSV via Claude
+* **Enrich**: Virtual Reality (VR) Skills Management Assessments — enriched from strategies CSV via Claude
+* **Enrich**: Visual Timers — enriched from strategies CSV via Claude
+* **Enrich**: Wait Time — enriched from strategies CSV via Claude
+* **Enrich**: Virtual Reality (VR) Training — enriched from strategies CSV via Claude
+* **Enrich**: Visual Mnemonics — enriched from strategies CSV via Claude
+* **Enrich**: Visual Prompts for Essay Writing — enriched from strategies CSV via Claude
+* **Enrich**: Visual Representations in Mathematics — enriched from strategies CSV via Claude
+* **Enrich**: Watch Emotion Videos — enriched from strategies CSV via Claude
+* **Enrich**: Warning and Consequence — enriched from strategies CSV via Claude
+* **Enrich**: Vocabulary Instruction — enriched from strategies CSV via Claude
+* **Enrich**: Web-based Dictionary & Thesaurus — enriched from strategies CSV via Claude
+* **Enrich**: Vocabulary Meaning Through Context — enriched from strategies CSV via Claude
+* **Enrich**: Wall Calendar — enriched from strategies CSV via Claude
+* **Enrich**: What's My Emotion? Game — enriched from strategies CSV via Claude
+* **Enrich**: Weekly Student Reflection — enriched from strategies CSV via Claude
+* **Enrich**: Website Evaluation Checklist — enriched from strategies CSV via Claude
+* **Enrich**: Waste Reduction Solutions — enriched from strategies CSV via Claude
+* **Enrich**: Web-Search Scavenger Hunt — enriched from strategies CSV via Claude
+* **Enrich**: Web Annotation Tools — enriched from strategies CSV via Claude
+* **Enrich**: Which One Doesn’t Belong? — enriched from strategies CSV via Claude
+* **Enrich**: Website Domain Analysis — enriched from strategies CSV via Claude
+* **Enrich**: Word Building — enriched from strategies CSV via Claude
+* **Enrich**: Whole Class Self-Monitoring — enriched from strategies CSV via Claude
+* **Enrich**: What Would Their Day Look Like? — enriched from strategies CSV via Claude
+* **Enrich**: What’s Below the Surface? (Iceberg Analysis) — enriched from strategies CSV via Claude
+* **Enrich**: Word Detective (Word Identification in Context) — enriched from strategies CSV via Claude
+* **Enrich**: Word Processing and Technology Tools — enriched from strategies CSV via Claude
+* **Enrich**: Where Are the People Like Me? — enriched from strategies CSV via Claude
+* **Enrich**: Word Maps — enriched from strategies CSV via Claude
+* **Enrich**: What’s My Number? — enriched from strategies CSV via Claude
+* **Enrich**: Word Sorts — enriched from strategies CSV via Claude
+* **Enrich**: Word Walls — enriched from strategies CSV via Claude
+* **Enrich**: What’s My Emotion? Game — enriched from strategies CSV via Claude
+* **Enrich**: Windows, Mirrors, and Sliding Glass Doors — enriched from strategies CSV via Claude
+* **Enrich**: Word Problem Creation — enriched from strategies CSV via Claude
+* **Enrich**: Worked Example Routine — enriched from strategies CSV via Claude
+* **Enrich**: Worked Examples Types — enriched from strategies CSV via Claude
+* **Enrich**: Word Processing for Composition — enriched from strategies CSV via Claude
+* **Enrich**: Word Sort — enriched from strategies CSV via Claude
+* **Enrich**: Word Processing for Writing Skills — enriched from strategies CSV via Claude
+* **Enrich**: Write Alouds — enriched from strategies CSV via Claude
+* **Enrich**: Word Study — enriched from strategies CSV via Claude
+* **Enrich**: Write Your Own Word Problem — enriched from strategies CSV via Claude
+* **Enrich**: Writing Conferences — enriched from strategies CSV via Claude
+* **Enrich**: Yoga, Breathing, and Meditation — enriched from strategies CSV via Claude
+* **Enrich**: Writing Process Approach — enriched from strategies CSV via Claude
+* **Enrich**: Writing Workshops — enriched from strategies CSV via Claude
+* **Enrich**: Write with a Transition Handout — enriched from strategies CSV via Claude
+* **Enrich**: Writing Down Goals — enriched from strategies CSV via Claude
+* **Enrich**: WWYD Critical Incidents — enriched from strategies CSV via Claude
+* **Enrich**: Writing Process Portfolios — enriched from strategies CSV via Claude
+* **Enrich**: Youth Participatory Action Research (YPAR) — enriched from strategies CSV via Claude
+* **Enrich**: Zoom Family Hours — enriched from strategies CSV via Claude
+* **Enrich**: \"Document Outline\" Tool — enriched from strategies CSV via Claude
+* **Enrich**: \"Headings and Highlight\" Strategy — enriched from strategies CSV via Claude
+* **Enrich**: What's My Emotion?' Game Check-In — enriched from strategies CSV via Claude
+* **Enrich**: 3-Source Rule — enriched from strategies CSV via Claude
+* **Enrich**: 5-Minute Writing Conferences — enriched from strategies CSV via Claude
+* **Enrich**: A Finder's Guide to Facts — enriched from strategies CSV via Claude
+* **Enrich**: Accessible Syntax — enriched from strategies CSV via Claude
+* **Enrich**: Acceptance, Responsibility, and Sharing — enriched from strategies CSV via Claude
+* **Enrich**: Accessing Students’ Background Knowledge — enriched from strategies CSV via Claude
+* **Enrich**: Academic Choice (Planning, Working, Reflecting) — enriched from strategies CSV via Claude
+* **Enrich**: In-Class Activities — enriched from elements CSV via Claude
+* **Enrich**: Summarization and Synthesis — enriched from elements CSV via Claude
+* **Enrich**: Argument Construction — enriched from elements CSV via Claude
+* **Enrich**: Team-Based Inquiry — enriched from elements CSV via Claude
+* **Enrich**: Structured Questioning — enriched from elements CSV via Claude
+* **Enrich**: Hypertext Navigation — enriched from elements CSV via Claude
+* **Enrich**: Mastery Progression — enriched from elements CSV via Claude
+* **Enrich**: Case-Based Learning — enriched from elements CSV via Claude
+* **Enrich**: Repetition — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Organizers / Guided Notes (for Processing Speed) — enriched from strategies CSV via Claude
+* **Enrich**: Clarifying — enriched from strategies CSV via Claude
+* **Enrich**: Role Play — enriched from strategies CSV via Claude
+* **Enrich**: Translanguaging — enriched from strategies CSV via Claude
+* **Enrich**: Wait Time — enriched from strategies CSV via Claude
+* **Enrich**: Think-Write-Pair-Share — enriched from strategies CSV via Claude
+* **Enrich**: Predicting — enriched from strategies CSV via Claude
+* **Enrich**: Summarizing — enriched from strategies CSV via Claude
+* **Enrich**: Tactile Toys / Fidgets — enriched from strategies CSV via Claude
+* **Enrich**: Read-Alouds — enriched from strategies CSV via Claude
+* **Enrich**: Rereading — enriched from strategies CSV via Claude
+* **Enrich**: Exit Tickets — enriched from strategies CSV via Claude
+* **Enrich**: Retrieval Practice — enriched from strategies CSV via Claude
+* **Enrich**: Rubrics — enriched from strategies CSV via Claude
+* **Enrich**: Book Clubs / Literature Circles — enriched from strategies CSV via Claude
+* **Enrich**: Songwriting — enriched from strategies CSV via Claude
+* **Enrich**: Checklists — enriched from strategies CSV via Claude
+* **Enrich**: Conver-Stations — enriched from strategies CSV via Claude
+* **Enrich**: Call-and-Response — enriched from strategies CSV via Claude
+* **Enrich**: Gestures — enriched from strategies CSV via Claude
+* **Enrich**: Countdown Clock / Visual Analog Timer — enriched from strategies CSV via Claude
+* **Enrich**: Standards-/Mastery-Based Grading — enriched from strategies CSV via Claude
+* **Enrich**: Scaffolding — enriched from strategies CSV via Claude
+* **Enrich**: Translanguaging — enriched from strategies CSV via Claude
+* **Enrich**: Math Talks / Number Talks — enriched from strategies CSV via Claude
+* **Enrich**: Repetition — enriched from strategies CSV via Claude
+* **Enrich**: Timers — enriched from strategies CSV via Claude
+* **Enrich**: Turn-and-Talk — enriched from strategies CSV via Claude
+* **Enrich**: Audiobooks — enriched from strategies CSV via Claude
+* **Enrich**: Videos — enriched from strategies CSV via Claude
+* **Enrich**: Manipulatives — enriched from strategies CSV via Claude
+* **Enrich**: Clarifying — enriched from strategies CSV via Claude
+* **Enrich**: Graphic Organizers / Guided Notes (for Processing Speed) — enriched from strategies CSV via Claude
+* **Enrich**: Groups — enriched from strategies CSV via Claude
+* **Enrich**: Jigsaw — enriched from strategies CSV via Claude
+* **Enrich**: Summarizing — enriched from strategies CSV via Claude
+* **Enrich**: Self-Reinforcement — enriched from strategies CSV via Claude
+* **Enrich**: Visualizing — enriched from strategies CSV via Claude
+* **Enrich**: Tactile Toys / Fidgets — enriched from strategies CSV via Claude
+* **Enrich**: Think-Write-Share — enriched from strategies CSV via Claude
+* **Enrich**: Think-Write-Pair-Share — enriched from strategies CSV via Claude
+* **Enrich**: Self-Instruction — enriched from strategies CSV via Claude
+* **Enrich**: T-Chart — enriched from strategies CSV via Claude
+* **Enrich**: Connecting — enriched from strategies CSV via Claude
+* **Enrich**: Songwriting — enriched from strategies CSV via Claude
+* **Enrich**: Rereading — enriched from strategies CSV via Claude
+* **Enrich**: Book Clubs / Literature Circles — enriched from strategies CSV via Claude
+* **Enrich**: Alphaboxes — enriched from strategies CSV via Claude
+* **Enrich**: Analogies — enriched from strategies CSV via Claude
+* **Enrich**: Self-instructions — enriched from strategies CSV via Claude
+* **Enrich**: Skimming — enriched from strategies CSV via Claude
+* **Enrich**: Patience — enriched from strategies CSV via Claude
+* **Enrich**: Discussions — enriched from strategies CSV via Claude
+* **Enrich**: Peergrade — enriched from strategies CSV via Claude
+* **Enrich**: Recess — enriched from strategies CSV via Claude
+* **Enrich**: Rubrics — enriched from strategies CSV via Claude
+* **Enrich**: Checklists — enriched from strategies CSV via Claude
+* **Enrich**: Read-Alouds — enriched from strategies CSV via Claude
+* **Enrich**: Predicting — enriched from strategies CSV via Claude
+* **Enrich**: In-Class Activities — enriched from elements CSV via Claude
+* **Enrich**: Pre-Class Video/Lecture — enriched from elements CSV via Claude
+* **Enrich**: Position Development — enriched from elements CSV via Claude
+* **Enrich**: Provide feedback — enriched from elements CSV via Claude
+* **Enrich**: Reflection — enriched from elements CSV via Claude
+* **Enrich**: Argumentation — enriched from elements CSV via Claude
+* **Enrich**: Peer Discussion — enriched from elements CSV via Claude
+* **Enrich**: Hypertext Navigation — enriched from elements CSV via Claude
+* **Enrich**: Case-Based Learning — enriched from elements CSV via Claude
+* **Enrich**: Expert Groups — enriched from elements CSV via Claude
+* **Enrich**: Moderation — enriched from elements CSV via Claude
+* **Enrich**: Submission — enriched from elements CSV via Claude
+* **Enrich**: Discussion Prompt — enriched from elements CSV via Claude
+* **Enrich**: Team-Based Inquiry — enriched from elements CSV via Claude
+* **Enrich**: Revision — enriched from elements CSV via Claude
+* **Enrich**: Just-in-Time Information — enriched from elements CSV via Claude
+* **Enrich**: Model Revision — enriched from elements CSV via Claude
+* **Enrich**: Mastery Progression — enriched from elements CSV via Claude
+* **Enrich**: Differentiated Team Roles — enriched from elements CSV via Claude
+* **Enrich**: Peer Explanation — enriched from elements CSV via Claude
+* **Enrich**: Scaffolded Inquiry — enriched from elements CSV via Claude
+* **Enrich**: Justification & Argumentation — enriched from elements CSV via Claude
+* **Enrich**: Argument Construction — enriched from elements CSV via Claude
+* **Enrich**: Structured Questioning — enriched from elements CSV via Claude
+* **Enrich**: Summarization and Synthesis — enriched from elements CSV via Claude
+* **Enrich**: Recall prior knowledge — enriched from elements CSV via Claude
+* **Enrich**: Gain attention — enriched from elements CSV via Claude
+* **Enrich**: State objectives — enriched from elements CSV via Claude
+* **Enrich**: Procedural information — enriched from elements CSV via Claude
+* **Enrich**: Provide feedback — enriched from elements CSV via Claude
+* **Enrich**: Part-task practice — enriched from elements CSV via Claude
+* **Enrich**: Direct instruction — enriched from elements CSV via Claude
+* **Enrich**: Provide guidance — enriched from elements CSV via Claude
+* **Enrich**: Practice — enriched from elements CSV via Claude
+* **Enrich**: Assess performance — enriched from elements CSV via Claude
+* **Enrich**: Enhance retention and transfer — enriched from elements CSV via Claude
+* **Enrich**: Activation — enriched from elements CSV via Claude
+* **Enrich**: Application — enriched from elements CSV via Claude
+* **Enrich**: Integration — enriched from elements CSV via Claude
+* **Enrich**: Epitome (Elaboration Theory) — enriched from elements CSV via Claude
+* **Enrich**: Simple-to-complex sequencing — enriched from elements CSV via Claude
+* **Enrich**: Continuous Review — enriched from elements CSV via Claude
+* **Enrich**: Analogies and prior knowledge activation — enriched from elements CSV via Claude
+* **Enrich**: Lectures — enriched from elements CSV via Claude
+* **Enrich**: Assigned Readings — enriched from elements CSV via Claude
+* **Enrich**: Midterm Exam — enriched from elements CSV via Claude
+* **Enrich**: Final Exam — enriched from elements CSV via Claude
+* **Enrich**: Quizzes — enriched from elements CSV via Claude
+* **Enrich**: Peer Discussion — enriched from elements CSV via Claude
+* **Enrich**: Discussion Sections — enriched from elements CSV via Claude
+* **Enrich**: Individual Reflection — enriched from elements CSV via Claude
+* **Enrich**: Whole-Class Sharing — enriched from elements CSV via Claude
+* **Enrich**: Advance Organizers — enriched from elements CSV via Claude
+* **Enrich**: Cognitive Conflict — enriched from elements CSV via Claude
+* **Enrich**: Optional Quizzes or Discussion Sections — enriched from elements CSV via Claude
+* **Enrich**: Assigned Positions — enriched from elements CSV via Claude
+* **Enrich**: Summarization and Synthesis — enriched from elements CSV via Claude
+* **Enrich**: Argument Construction — enriched from elements CSV via Claude
+* **Enrich**: Consensus-Building — enriched from elements CSV via Claude
+* **Enrich**: Role Reversal — enriched from elements CSV via Claude
+* **Enrich**: In-Class Activities — enriched from elements CSV via Claude
+* **Enrich**: Conceptual Questioning — enriched from elements CSV via Claude
+* **Enrich**: Individual Response — enriched from elements CSV via Claude
+* **Enrich**: Reassessment — enriched from elements CSV via Claude
+* **Enrich**: Peer Collaboration — enriched from elements CSV via Claude
+* **Enrich**: Formative Assessment — enriched from elements CSV via Claude
+* **Enrich**: Case Study — enriched from elements CSV via Claude
+* **Enrich**: Class Discussion — enriched from elements CSV via Claude
+* **Enrich**: Research — enriched from elements CSV via Claude
+* **Enrich**: Decision-Making — enriched from elements CSV via Claude
+* **Enrich**: Reflection — enriched from elements CSV via Claude
+* **Enrich**: Pre-Class Video/Lecture — enriched from elements CSV via Claude
+* **Enrich**: Argumentation — enriched from elements CSV via Claude
+* **Enrich**: Rebuttals — enriched from elements CSV via Claude
+* **Enrich**: Persuasion — enriched from elements CSV via Claude
+* **Enrich**: Knowledge Synthesis — enriched from elements CSV via Claude
+* **Enrich**: Peer Teaching — enriched from elements CSV via Claude
+* **Enrich**: Collaborative Learning — enriched from elements CSV via Claude
+* **Enrich**: Expert Groups — enriched from elements CSV via Claude
+* **Enrich**: Reciprocal Teaching — enriched from elements CSV via Claude
+* **Enrich**: Problem Scenario — enriched from elements CSV via Claude
+* **Enrich**: Position Development — enriched from elements CSV via Claude
+* **Enrich**: Inquiry-Based Exploration — enriched from elements CSV via Claude
+* **Enrich**: Collaborative Problem-Solving — enriched from elements CSV via Claude
+* **Enrich**: Modeling — enriched from elements CSV via Claude
+* **Enrich**: Application of Knowledge — enriched from elements CSV via Claude
+* **Enrich**: Coaching — enriched from elements CSV via Claude
+* **Enrich**: Articulation — enriched from elements CSV via Claude
+* **Enrich**: Perspective-Taking — enriched from elements CSV via Claude
+* **Enrich**: Solution Development — enriched from elements CSV via Claude
+* **Enrich**: Inquiry and Research — enriched from elements CSV via Claude
+* **Enrich**: Question Formulation — enriched from elements CSV via Claude
+* **Enrich**: Problem Presentation — enriched from elements CSV via Claude
+* **Enrich**: Hypertext Navigation — enriched from elements CSV via Claude
+* **Enrich**: Knowledge-Building Discourse — enriched from elements CSV via Claude
+* **Enrich**: Case-Based Learning — enriched from elements CSV via Claude
+* **Enrich**: Pre-Seminar Preparation — enriched from elements CSV via Claude
+* **Enrich**: Open-Ended Discussion — enriched from elements CSV via Claude
+* **Enrich**: Just-in-Time Information — enriched from elements CSV via Claude
+* **Enrich**: Problem-Solving Tasks — enriched from elements CSV via Claude
+* **Enrich**: Mission-Based Learning — enriched from elements CSV via Claude
+* **Enrich**: Moderation — enriched from elements CSV via Claude
+* **Enrich**: Discussion Prompt — enriched from elements CSV via Claude
+* **Enrich**: Resource Evaluation — enriched from elements CSV via Claude
+* **Enrich**: Criteria Development — enriched from elements CSV via Claude
+* **Enrich**: Consensus Discussion — enriched from elements CSV via Claude
+* **Enrich**: Review — enriched from elements CSV via Claude
+* **Enrich**: Peer Interaction — enriched from elements CSV via Claude
+* **Enrich**: Revision — enriched from elements CSV via Claude
+* **Enrich**: Feedback — enriched from elements CSV via Claude
+* **Enrich**: Submission — enriched from elements CSV via Claude
+* **Enrich**: Evidence-Based Reasoning — enriched from elements CSV via Claude
+* **Enrich**: Eliciting Student Thinking — enriched from elements CSV via Claude
+* **Enrich**: Adaptive Mastery Learning — enriched from elements CSV via Claude
+* **Enrich**: Structured Questioning — enriched from elements CSV via Claude
+* **Enrich**: Team-Based Inquiry — enriched from elements CSV via Claude
+* **Enrich**: Scaffolded Inquiry — enriched from elements CSV via Claude
+* **Enrich**: Model Revision — enriched from elements CSV via Claude
+* **Enrich**: Mastery Progression — enriched from elements CSV via Claude
+* **Enrich**: Differentiated Team Roles — enriched from elements CSV via Claude
+* **Enrich**: Justification & Argumentation — enriched from elements CSV via Claude
+* **Enrich**: Peer Explanation — enriched from elements CSV via Claude
+* **Enrich**: Association — enriched from strategies CSV via Claude
+* **Enrich**: Think-Alouds — enriched from strategies CSV via Claude
+* **Enrich**: Games — enriched from strategies CSV via Claude
+* **Enrich**: Conver-Stations — enriched from strategies CSV via Claude
+* **Enrich**: Fishbowl — enriched from strategies CSV via Claude
+* **Enrich**: Teach-OK — enriched from strategies CSV via Claude
+* **Enrich**: Summarization — enriched from strategies CSV via Claude
+* **Enrich**: Questioning — enriched from strategies CSV via Claude
+* **Enrich**: Flashcards — enriched from strategies CSV via Claude
+* **Enrich**: Previewing — enriched from strategies CSV via Claude
+* **Enrich**: Games — enriched from strategies CSV via Claude
+* **Enrich**: Simulations — enriched from strategies CSV via Claude
+* **Enrich**: Gamification — enriched from strategies CSV via Claude
+* **Enrich**: Badges — enriched from strategies CSV via Claude
+* **Enrich**: Leaderboards — enriched from strategies CSV via Claude
+* **Ingest**: [claims/relationship-focused-pd-shifts-teacher-conceptions-of-rigor-and-safety](claims/relationship-focused-pd-shifts-teacher-conceptions-of-rigor-and-safety.md) — New claim: relationship-focused PD shifts teacher conceptions of rigor and safety (Chowning 2023)
+* **Ingest**: [principles/relationships-as-foundation-for-argumentation](principles/relationships-as-foundation-for-argumentation.md) — New principle: relationships as foundation for argumentation, from Chowning 2023
+* **Ingest**: [strategies/collaborative-autoethnography-for-teacher-pd](strategies/collaborative-autoethnography-for-teacher-pd.md) — New strategy: collaborative autoethnography for teacher PD, from Chowning 2023
+* **Ingest**: [claims/external-evidence-can-refute-computational-models-of-particle-interactions](claims/external-evidence-can-refute-computational-models-of-particle-interactions.md) — New claim: external evidence can refute computational models of particle interactions (Wagh et al. 2025)
+* **Ingest**: [patterns/three-practices-for-ontological-alignment-in-computational-modeling](patterns/three-practices-for-ontological-alignment-in-computational-modeling.md) — New pattern: three practices for ontological alignment in computational modeling (Wagh et al. 2025)
+* **Ingest**: [theories/ontological-alignment](theories/ontological-alignment.md) — New theory page on ontological alignment, from Wagh et al. 2025
+* **Ingest**: [claims/teacher-appropriation-of-edp-reframes-restrictive-stem-narratives](claims/teacher-appropriation-of-edp-reframes-restrictive-stem-narratives.md) — New claim: teacher appropriation of EDP reframes restrictive STEM narratives (Watkins 2023)
+* **Ingest**: [principles/appropriating-disciplinary-tools-to-challenge-restrictive-narratives](principles/appropriating-disciplinary-tools-to-challenge-restrictive-narratives.md) — New principle: appropriating disciplinary tools to challenge restrictive narratives, from Watkins 2023
+* **Ingest**: [claims/dialogic-teacher-support-cultivates-statistical-modeling-practice](claims/dialogic-teacher-support-cultivates-statistical-modeling-practice.md) — New claim: dialogic teacher support cultivates statistical modeling practice (Wisittanawat & Lehrer 2024)
+* **Ingest**: [strategies/dialogic-facilitation-of-statistical-modeling-practice](strategies/dialogic-facilitation-of-statistical-modeling-practice.md) — New strategy: dialogic facilitation of statistical modeling practice, from Wisittanawat & Lehrer 2024
+* **Ingest**: [claims/heterogeneity-seeking-curricula-surface-diverse-epistemic-commitments](claims/heterogeneity-seeking-curricula-surface-diverse-epistemic-commitments.md) — New claim: heterogeneity-seeking curricula surface diverse epistemic commitments (Pierson et al. 2023)
+* **Ingest**: [patterns/heterogeneity-seeking-modeling-curriculum](patterns/heterogeneity-seeking-modeling-curriculum.md) — New pattern: heterogeneity-seeking modeling curriculum (Pierson et al. 2023)
+* **Ingest**: [theories/epistemic-commitments](theories/epistemic-commitments.md) — New theory page on epistemic commitments, from Pierson et al. 2023
+* **Ingest**: [claims/historians-epistemic-processes-extend-beyond-source-analysis](claims/historians-epistemic-processes-extend-beyond-source-analysis.md) — New claim: academic historians' epistemic processes extend well beyond source analysis and writing (Kainulainen et al. 2025)
+* **Content**: [theories/historical-reasoning-framework](theories/historical-reasoning-framework.md) — Extended with Kainulainen et al. 2025's 14-category empirical expansion of historians' epistemic processes; added claim link and source
+* **Ingest**: [claims/fiber-crafting-develops-proportional-reasoning-through-unitizing](claims/fiber-crafting-develops-proportional-reasoning-through-unitizing.md) — New claim: fiber crafting develops proportional reasoning through unitizing (Peppler et al. 2025)
+* **Ingest**: [patterns/fiber-crafting-for-proportional-reasoning](patterns/fiber-crafting-for-proportional-reasoning.md) — New pattern: fiber crafting for proportional reasoning (Peppler et al. 2025)
+* **Ingest**: [theories/materialized-action](theories/materialized-action.md) — New theory page on materialized action, from Peppler et al. 2025
+* **Ingest**: [claims/mixed-disciplinary-teacher-making-supports-transdisciplinary-epistemic-liberation](claims/mixed-disciplinary-teacher-making-supports-transdisciplinary-epistemic-liberation.md) — New claim: mixed-disciplinary teacher making supports transdisciplinary epistemic liberation (Finch et al. 2021)
+* **Ingest**: [patterns/luminous-science-transdisciplinary-curriculum](patterns/luminous-science-transdisciplinary-curriculum.md) — New pattern: Luminous Science transdisciplinary curriculum, from Finch et al. 2021
+* **Ingest**: [claims/co-design-tools-support-balancing-standards-and-student-interests](claims/co-design-tools-support-balancing-standards-and-student-interests.md) — New claim: co-design tools support balancing standards and student interests (Penuel et al. 2022)
+* **Ingest**: [strategies/co-design-tools-for-standards-and-interest-balancing](strategies/co-design-tools-for-standards-and-interest-balancing.md) — New strategy: co-design tools for standards and interest balancing (Penuel et al. 2022)
+* **Ingest**: [patterns/storyline-science-curriculum-design](patterns/storyline-science-curriculum-design.md) — New pattern: storyline science curriculum design, from Penuel et al. 2022
+* **Ingest**: [claims/choice-rich-infrastructure-supports-productive-deviation-and-learning](claims/choice-rich-infrastructure-supports-productive-deviation-and-learning.md) — New claim: choice-rich infrastructure supports productive deviation and learning (Hilppö & Stevens 2024)
+* **Ingest**: [patterns/alternative-in-school-steam-learning-infrastructure](patterns/alternative-in-school-steam-learning-infrastructure.md) — New pattern: alternative in-school STEAM learning infrastructure, from Hilppö & Stevens 2024
+* **Ingest**: [claims/ambiguous-tasks-with-revision-help-students-recognize-role-of-assumptions](claims/ambiguous-tasks-with-revision-help-students-recognize-role-of-assumptions.md) — New claim: ambiguous tasks with revision help students recognize role of assumptions (Komatsu et al. 2024)
+* **Ingest**: [patterns/productive-ambiguity-task-design-for-assumptions](patterns/productive-ambiguity-task-design-for-assumptions.md) — New pattern: productive ambiguity task design for assumptions, from Komatsu et al. 2024
+* **Ingest**: [claims/unfolding-knowledge-elements-produces-deeper-conceptual-learning-opportunities](claims/unfolding-knowledge-elements-produces-deeper-conceptual-learning-opportunities.md) — New claim: unfolding knowledge elements produces deeper conceptual learning opportunities (Ademmer & Prediger 2025)
+* **Ingest**: [patterns/grounding-and-unfolding-facilitation-moves](patterns/grounding-and-unfolding-facilitation-moves.md) — New pattern: grounding and unfolding facilitation moves, from Ademmer & Prediger 2025
+* **Ingest**: [claims/mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning](claims/mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) — New claim: mentored inquiry supports transition from intuitive to formal equation reasoning (Kapon & Schvartzer 2024)
+* **Ingest**: [patterns/guided-equation-appropriation](patterns/guided-equation-appropriation.md) — New pattern: guided equation appropriation (Kapon & Schvartzer 2024)
+* **Ingest**: [theories/equations-as-language](theories/equations-as-language.md) — New theory page on equations as language, from Kapon & Schvartzer 2024
+* **Content**: [principles/epistemic-cognition](principles/epistemic-cognition.md) — Cross-linked Dishon et al. 2024 claim and Collaborative Critique strategy; added Epistemic Commitments as a related theory
+* **Ingest**: [claims/collaborative-evidence-critique-shifts-students-toward-procedural-objectivity](claims/collaborative-evidence-critique-shifts-students-toward-procedural-objectivity.md) — New claim: collaborative evidence critique shifts students toward procedural objectivity (Dishon et al. 2024)
+* **Ingest**: [strategies/collaborative-critique-and-redesign-of-flawed-studies](strategies/collaborative-critique-and-redesign-of-flawed-studies.md) — New strategy: collaborative critique and redesign of flawed studies, from Dishon et al. 2024
+* **Ingest**: [claims/spontaneous-sentence-production-in-synthetic-planning-increases-understanding](claims/spontaneous-sentence-production-in-synthetic-planning-increases-understanding.md) — New claim: spontaneous sentence production in synthetic planning increases understanding (Baaijen & Galbraith 2018)
+* **Ingest**: [patterns/synthetic-planning-for-discovery-oriented-writing](patterns/synthetic-planning-for-discovery-oriented-writing.md) — New pattern: synthetic planning for discovery-oriented writing (Baaijen & Galbraith 2018)
+* **Ingest**: [theories/dual-process-account-of-discovery-in-writing](theories/dual-process-account-of-discovery-in-writing.md) — New theory page on the dual-process account of discovery in writing, from Baaijen & Galbraith 2018
+* **Ingest**: [claims/curricular-knowledge-enables-responsive-instructional-moves](claims/curricular-knowledge-enables-responsive-instructional-moves.md) — New claim: curricular knowledge enables responsive instructional moves (Robertson et al. 2021)
+* **Ingest**: [principles/curricular-knowledge-as-a-resource-for-responsiveness](principles/curricular-knowledge-as-a-resource-for-responsiveness.md) — New principle on curricular knowledge as a resource for responsiveness, from Robertson et al. 2021
+* **Ingest**: [claims/spontaneous-additive-strategy-relates-to-multiplicative-reasoning](claims/spontaneous-additive-strategy-relates-to-multiplicative-reasoning.md) — New claim: spontaneous additive strategy relates to multiplicative reasoning (Tzur et al. 2021)
+* **Ingest**: [theories/steffes-number-sequences-and-multiplicative-double-counting](theories/steffes-number-sequences-and-multiplicative-double-counting.md) — New theory page on Steffe's number sequences and multiplicative double counting, from Tzur et al. 2021
+* **Content**: [principles/scaffolding-and-fading](principles/scaffolding-and-fading.md) — Added Kupers et al. 2017 claim link and key source
+* **Ingest**: [claims/scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states](claims/scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states.md) — New claim: scaffolding/autonomy attractor-state dynamics, Kupers et al. 2017
+* **Ingest**: [principles/persistent-autonomy-support-during-resistance](principles/persistent-autonomy-support-during-resistance.md) — New principle: persistent autonomy support during resistance, Kupers et al. 2017
+* **Ingest**: [claims/student-uptake-of-support-predicts-small-group-answer-accuracy](claims/student-uptake-of-support-predicts-small-group-answer-accuracy.md) — New claim: student uptake of support predicts small-group answer accuracy, van de Pol et al. 2019
+* **Content**: [strategies/small-group-scaffolding-tool](strategies/small-group-scaffolding-tool.md) — Cross-linked Step 5 to van de Pol et al. 2019's timely-fading finding
+* **Content**: [principles/scaffolding-and-fading](principles/scaffolding-and-fading.md) — Added timely-fading and abrupt-shift constraints from van de Pol et al. 2019 and Kupers et al. 2017
+* **Content**: [elements/scaffolding](elements/scaffolding.md) — Added timely-fading constraint from van de Pol et al. 2019
+* **Ingest**: [claims/scripted-personal-inquiry-associated-with-inquiry-knowledge-gains](claims/scripted-personal-inquiry-associated-with-inquiry-knowledge-gains.md) — New claim (weak-moderate evidence): scripted personal inquiry and inquiry-knowledge gains, Sharples et al. 2015
+* **Ingest**: [patterns/scripted-personally-meaningful-inquiry](patterns/scripted-personally-meaningful-inquiry.md) — New pattern: scripted personally meaningful inquiry, Sharples et al. 2015
+* **Ingest**: [theories/personal-inquiry](theories/personal-inquiry.md) — New theory: personal inquiry and scripted orchestration, Sharples et al. 2015
+* **Ingest**: [claims/boundary-crossing-mechanisms-unfold-sequentially-and-brokers-face-an-involvement-paradox](claims/boundary-crossing-mechanisms-unfold-sequentially-and-brokers-face-an-involvement-paradox.md) — New claim: sequential boundary-crossing mechanisms and broker involvement paradox, Akkerman & Bruining 2016
+* **Ingest**: [strategies/broker-position-circulation](strategies/broker-position-circulation.md) — New strategy: broker position circulation, Akkerman & Bruining 2016
+* **Ingest**: [patterns/multilevel-professional-development-school-partnership](patterns/multilevel-professional-development-school-partnership.md) — New pattern: multilevel PDS partnership structure, Akkerman & Bruining 2016
+* **Content**: [theories/boundary-crossing-learning](theories/boundary-crossing-learning.md) — Extended with temporal sequencing, broker paradox, and three-way tension findings from Akkerman & Bruining 2016
+* **Ingest**: [claims/students-progress-through-zones-of-mathematical-play](claims/students-progress-through-zones-of-mathematical-play.md) — New claim (weak evidence): students progress through zones of mathematical play, Williams-Pierce & Thevenow-Harrison 2021
+* **Ingest**: [elements/provocative-objects](elements/provocative-objects.md) — New element: provocative objects, Williams-Pierce & Thevenow-Harrison 2021
+* **Ingest**: [theories/zones-of-mathematical-play](theories/zones-of-mathematical-play.md) — New theory: zones of mathematical play, from Williams-Pierce & Thevenow-Harrison 2021
+* **Ingest**: [claims/reflexive-noticing-shifts-stabilization-to-possibility-discourse](claims/reflexive-noticing-shifts-stabilization-to-possibility-discourse.md) — New claim: reflexive noticing shifts stabilization to possibility discourse, Rainio & Hofmann 2021
+* **Ingest**: [strategies/reflexive-noticing-facilitation](strategies/reflexive-noticing-facilitation.md) — New strategy: reflexive noticing facilitation, Rainio & Hofmann 2021
+* **Ingest**: [theories/reflexive-noticing](theories/reflexive-noticing.md) — New theory: reflexive noticing, from Rainio & Hofmann 2021
+* **Ingest**: [claims/justice-oriented-youth-maker-programs-support-critical-identity-and-resistance](claims/justice-oriented-youth-maker-programs-support-critical-identity-and-resistance.md) — New claim: justice-oriented maker programs support critical identity and resistance, Greenberg et al. 2020
+* **Ingest**: [patterns/critical-maker-entrepreneurialism-program](patterns/critical-maker-entrepreneurialism-program.md) — New pattern: critical maker-entrepreneurialism program, Greenberg et al. 2020
+* **Ingest**: [theories/critical-maker-entrepreneurialism](theories/critical-maker-entrepreneurialism.md) — New theory: critical maker-entrepreneurialism, from Greenberg et al. 2020
+* **Ingest**: [claims/resolving-participation-double-bind-requires-redesigned-activity-structures](claims/resolving-participation-double-bind-requires-redesigned-activity-structures.md) — New claim: resolving participation double-bind requires redesigned activity structures, Meléndez 2021
+* **Ingest**: [patterns/differentiated-activity-structures-for-inclusive-participation](patterns/differentiated-activity-structures-for-inclusive-participation.md) — New pattern: differentiated activity structures for inclusive participation, Meléndez 2021
+* **Content**: [theories/cultural-historical-activity-theory](theories/cultural-historical-activity-theory.md) — Extended with collective-vs-system-level expansive learning distinction and double-bind, from Meléndez 2021
+* **Content**: [theories/self-regulated-learning](theories/self-regulated-learning.md) — Linked new claim from Omarchevska et al. 2022 on scientific reasoning and self-regulation
+* **Ingest**: [claims/argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence](claims/argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence.md) — New claim: argumentation quality associated with reasoning/self-regulation co-occurrence, Omarchevska et al. 2022
+* **Ingest**: [principles/integrate-self-regulation-with-scientific-reasoning-instruction](principles/integrate-self-regulation-with-scientific-reasoning-instruction.md) — New principle: integrate self-regulation with scientific reasoning instruction, Omarchevska et al. 2022
+* **Ingest**: [claims/numerical-routines-individualize-through-bonding](claims/numerical-routines-individualize-through-bonding.md) — New claim: three-stage bonding sequence for numerical routines, Lavie & Sfard 2019
+* **Ingest**: [principles/vertical-and-horizontal-bonding-in-numerical-routines](principles/vertical-and-horizontal-bonding-in-numerical-routines.md) — New principle: vertical/horizontal bonding in numerical routines, Lavie & Sfard 2019
+* **Ingest**: [theories/commognition](theories/commognition.md) — New theory: commognition, from Lavie & Sfard 2019
+* **Ingest**: [claims/explicit-contextualization-instruction-improves-writing-procedure-not-scores](claims/explicit-contextualization-instruction-improves-writing-procedure-not-scores.md) — New claim: contextualization instruction improves procedure not scores, Sendur et al. 2021
+* **Ingest**: [patterns/explicit-instruction-in-historical-contextualization](patterns/explicit-instruction-in-historical-contextualization.md) — New pattern: explicit instruction in historical contextualization, Sendur et al. 2021
+* **Ingest**: [theories/historical-reasoning-framework](theories/historical-reasoning-framework.md) — New theory: historical reasoning framework, from Sendur et al. 2021
+* **Ingest**: [claims/emotion-dynamics-during-problem-solving-predict-learning-outcomes-context-dependently](claims/emotion-dynamics-during-problem-solving-predict-learning-outcomes-context-dependently.md) — New claim: emotion dynamics during PS-I predict outcomes context-dependently, Sinha 2022
+* **Ingest**: [strategies/failure-driven-scaffolding](strategies/failure-driven-scaffolding.md) — New strategy: failure-driven scaffolding, from Sinha 2022
+* **Ingest**: [theories/problem-solving-followed-by-instruction](theories/problem-solving-followed-by-instruction.md) — New theory: Problem-Solving Followed by Instruction (PS-I), from Sinha 2022
+* **Ingest**: [claims/critical-constructive-feedback-is-neglected-at-multiple-stages](claims/critical-constructive-feedback-is-neglected-at-multiple-stages.md) — New claim: multi-stage feedback neglect and agent-signaling effect, Tärning et al. 2020
+* **Ingest**: [elements/pedagogical-agent-signaling](elements/pedagogical-agent-signaling.md) — New element: pedagogical agent signaling for feedback salience, from Tärning et al. 2020
+* **Ingest**: [theories/critical-constructive-feedback-processing](theories/critical-constructive-feedback-processing.md) — New theory: five-stage feedback-processing model from Tärning et al. 2020
+* **Ingest**: [claims/critical-speculative-design-supports-critical-consciousness-in-science](claims/critical-speculative-design-supports-critical-consciousness-in-science.md) — New claim from Arad, Sanchez, & Bell 2023 (speculative design pedagogy for racial justice)
+* **Ingest**: [patterns/threading-weaving-patternmaking](patterns/threading-weaving-patternmaking.md) — New pattern from Arad, Sanchez, & Bell 2023 (speculative design pedagogy for racial justice)
+* **Ingest**: [theories/critical-speculative-design-pedagogy](theories/critical-speculative-design-pedagogy.md) — New theory from Arad, Sanchez, & Bell 2023 (speculative design pedagogy for racial justice)
+* **Content**: [elements/scaffolding](elements/scaffolding.md) — Cross-linked Small-Group Scaffolding Tool from Calor et al. 2022
+* **Ingest**: [claims/group-level-scaffolding-training-increases-teacher-process-support-and-student-participation](claims/group-level-scaffolding-training-increases-teacher-process-support-and-student-participation.md) — New claim from Calor, Dekker, van Drie, & Volman 2022 (group-level scaffolding)
+* **Ingest**: [strategies/small-group-scaffolding-tool](strategies/small-group-scaffolding-tool.md) — New strategy from Calor, Dekker, van Drie, & Volman 2022 (group-level scaffolding)
+* **Content**: [theories/epistemic-injustice](theories/epistemic-injustice.md) — Cross-linked Womanist Restorying from Shaw et al. 2023
+* **Ingest**: [claims/restorying-supports-computing-identity-reconstruction](claims/restorying-supports-computing-identity-reconstruction.md) — New claim from Shaw, Coleman, Thomas, & Kafai 2023 (restorying computing education)
+* **Ingest**: [strategies/restorying-through-electronic-quilting](strategies/restorying-through-electronic-quilting.md) — New strategy from Shaw, Coleman, Thomas, & Kafai 2023 (restorying computing education)
+* **Ingest**: [theories/womanist-restorying](theories/womanist-restorying.md) — New theory from Shaw, Coleman, Thomas, & Kafai 2023 (restorying computing education)
+* **Ingest**: [claims/positioning-students-as-sources-increases-productive-participation-in-science-discourse](claims/positioning-students-as-sources-increases-productive-participation-in-science-discourse.md) — New claim from Furberg & Silseth 2022 (invoking student resources)
+* **Ingest**: [strategies/dialogic-facilitation-of-student-resources](strategies/dialogic-facilitation-of-student-resources.md) — New strategy from Furberg & Silseth 2022 (invoking student resources)
+* **Ingest**: [claims/ai-mediated-feedback-in-hands-on-exhibits-improves-learning-and-engagement](claims/ai-mediated-feedback-in-hands-on-exhibits-improves-learning-and-engagement.md) — New claim from Yannier et al. 2022 (intelligent science exhibits)
+* **Ingest**: [patterns/intelligent-mixed-reality-exhibit](patterns/intelligent-mixed-reality-exhibit.md) — New pattern from Yannier et al. 2022 (intelligent science exhibits)
+* **Content**: [principles/collaborative-learning](principles/collaborative-learning.md) — Cross-linked group creativity claim and new principle from Pierroux et al. 2022
+* **Ingest**: [claims/well-defined-tasks-and-accessible-materials-support-shared-creative-influence](claims/well-defined-tasks-and-accessible-materials-support-shared-creative-influence.md) — New claim from Pierroux, Steier, & Ludvigsen 2022 (group creativity in adolescence)
+* **Ingest**: [principles/conditions-for-productive-group-creativity](principles/conditions-for-productive-group-creativity.md) — New principle from Pierroux, Steier, & Ludvigsen 2022 (group creativity in adolescence)
+* **Content**: [elements/perspective-taking](elements/perspective-taking.md) — Cross-linked Participant Examples from Cohen, Hod, & Ben-Zvi 2023
+* **Ingest**: [claims/participant-examples-support-identity-reconstruction-through-academic-content](claims/participant-examples-support-identity-reconstruction-through-academic-content.md) — New claim from Cohen, Hod, & Ben-Zvi 2023 (national identity reconstruction)
+* **Ingest**: [elements/participant-examples](elements/participant-examples.md) — New element from Cohen, Hod, & Ben-Zvi 2023 (national identity reconstruction)
+* **Ingest**: [strategies/humanistic-knowledge-building-community](strategies/humanistic-knowledge-building-community.md) — New strategy from Cohen, Hod, & Ben-Zvi 2023 (national identity reconstruction)
+* **Content**: [principles/cultural-life-experiences-connections](principles/cultural-life-experiences-connections.md) — Cross-linked embodied dance improvisation claim from Solomon et al. 2022
+* **Ingest**: [claims/embodied-dance-improvisation-supports-physics-engagement-and-sensemaking](claims/embodied-dance-improvisation-supports-physics-engagement-and-sensemaking.md) — New claim from Solomon et al. 2022 (embodied physics dance)
+* **Ingest**: [patterns/embodied-physics-inquiry-through-dance](patterns/embodied-physics-inquiry-through-dance.md) — New pattern from Solomon et al. 2022 (embodied physics dance)
+* **Content**: [theories/funds-of-knowledge](theories/funds-of-knowledge.md) — Extended to include embodied and cultural-practice resources per Solomon et al. 2022
+* **Correction**: [strategies/broker-facilitated-cross-domain-integration](strategies/broker-facilitated-cross-domain-integration.md) — Removed leftover template placeholder comments that lint flagged as broken links
+* **Content**: [principles/epistemic-cognition](principles/epistemic-cognition.md) — Added Epistemic Games related theory link from Arthars et al. (2024)
+* **Ingest**: [claims/epistemic-games-reveal-unacknowledged-disciplinary-differences-in-teams](claims/epistemic-games-reveal-unacknowledged-disciplinary-differences-in-teams.md) — Initial ingest from Arthars, Markauskaite & Goodyear (2024), JLS 33(2)
+* **Ingest**: [elements/epistemic-games-shared-understanding-moves](elements/epistemic-games-shared-understanding-moves.md) — Initial ingest from Arthars, Markauskaite & Goodyear (2024), JLS 33(2)
+* **Ingest**: [theories/epistemic-games](theories/epistemic-games.md) — Initial ingest from Arthars, Markauskaite & Goodyear (2024), JLS 33(2)
+* **Content**: [principles/authentic-audiences-purposes](principles/authentic-audiences-purposes.md) — Added Organization Simulation and Interdisciplinary CBRE examples from the JLS interdisciplinary-learning special issue
+* **Content**: [elements/group-work](elements/group-work.md) — Added Organization Simulation for Interdisciplinary Learning as a pattern using this element
+* **Ingest**: [claims/organization-simulation-knowledge-practices-support-interdisciplinary-learning](claims/organization-simulation-knowledge-practices-support-interdisciplinary-learning.md) — Initial ingest from Muukkonen & Kajamaa (2024), JLS 33(2)
+* **Ingest**: [patterns/organization-simulation-for-interdisciplinary-learning](patterns/organization-simulation-for-interdisciplinary-learning.md) — Initial ingest from Muukkonen & Kajamaa (2024), JLS 33(2)
+* **Ingest**: [theories/knowledge-objects-and-knowledge-practices](theories/knowledge-objects-and-knowledge-practices.md) — Initial ingest from Muukkonen & Kajamaa (2024), JLS 33(2)
+* **Ingest**: [claims/subtle-teacher-guidance-not-imposition-enables-interdisciplinary-integration](claims/subtle-teacher-guidance-not-imposition-enables-interdisciplinary-integration.md) — Initial ingest from Schwarz, Heyd-Metzuyanim, Koichu, Tabach & Yarden (2024), JLS 33(2)
+* **Ingest**: [patterns/interdisciplinary-societal-dilemma-units](patterns/interdisciplinary-societal-dilemma-units.md) — Initial ingest from Schwarz, Heyd-Metzuyanim, Koichu, Tabach & Yarden (2024), JLS 33(2)
+* **Ingest**: [claims/interdisciplinary-humanities-units-improve-interdisciplinary-competences](claims/interdisciplinary-humanities-units-improve-interdisciplinary-competences.md) — Initial ingest from Novis-Deutsch et al. (2024), JLS 33(2)
+* **Content**: [principles/inquiry-based-learning](principles/inquiry-based-learning.md) — Added Interdisciplinary CBRE and ISD Units examples from the JLS interdisciplinary-learning special issue
+* **Ingest**: [claims/course-based-research-experience-boundary-objects-support-disciplinary-integration-and-authentic-research-networks](claims/course-based-research-experience-boundary-objects-support-disciplinary-integration-and-authentic-research-networks.md) — Initial ingest from Papendieck & Clarke (2024), JLS 33(2)
+* **Ingest**: [patterns/interdisciplinary-course-based-research-experience](patterns/interdisciplinary-course-based-research-experience.md) — Initial ingest from Papendieck & Clarke (2024), JLS 33(2)
+* **Ingest**: [theories/ecological-paradigm-of-interdisciplinary-learning](theories/ecological-paradigm-of-interdisciplinary-learning.md) — Initial ingest from Kali (2024), JLS 33(2), synthesizing design implications from the JLS interdisciplinary-learning special issue
+* **Content**: [principles/community-based-learning](principles/community-based-learning.md) — Added Humanizing Co-Design with Educators example from Potvin et al. (2024)
+* **Content**: [principles/reflection](principles/reflection.md) — Added Humanizing Co-Design with Educators example from Potvin et al. (2024)
+* **Ingest**: [claims/attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer](claims/attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer.md) — Initial ingest from Potvin, Teeters, Penuel & Dimidjian (2024), JLS 33(1)
+* **Ingest**: [patterns/humanizing-co-design-with-educators](patterns/humanizing-co-design-with-educators.md) — Initial ingest from Potvin, Teeters, Penuel & Dimidjian (2024), JLS 33(1)
+* **Content**: [theories/cultural-historical-activity-theory](theories/cultural-historical-activity-theory.md) — Added Boundary Crossing Learning related theory link
+* **Content**: [theories/situated-learning](theories/situated-learning.md) — Added Boundary Crossing Learning related theory link
+* **Content**: [elements/hands-on-learning](elements/hands-on-learning.md) — Added Broker-Facilitated Cross-Domain Integration affordance from Liukkonen et al. (2023)
+* **Ingest**: [claims/multivoiced-boundary-crossing-supports-holistic-nature-connection-and-ethical-reflection](claims/multivoiced-boundary-crossing-supports-holistic-nature-connection-and-ethical-reflection.md) — Initial ingest from Liukkonen, Vartiainen, Pöllänen & Kokko (2023), JLS 32(4-5)
+* **Ingest**: [strategies/broker-facilitated-cross-domain-integration](strategies/broker-facilitated-cross-domain-integration.md) — Initial ingest from Liukkonen, Vartiainen, Pöllänen & Kokko (2023), JLS 32(4-5)
+* **Ingest**: [patterns/bioart-boundary-crossing-making](patterns/bioart-boundary-crossing-making.md) — Initial ingest from Liukkonen, Vartiainen, Pöllänen & Kokko (2023), JLS 32(4-5)
+* **Ingest**: [theories/boundary-crossing-learning](theories/boundary-crossing-learning.md) — Initial ingest from Liukkonen, Vartiainen, Pöllänen & Kokko (2023), JLS 32(4-5); also draws on Papendieck & Clarke (2024)
+* **Ingest**: [claims/rpp-adaptive-practices-sustain-partnerships-during-disruption](claims/rpp-adaptive-practices-sustain-partnerships-during-disruption.md) — Initial ingest from Popa, Anderson, Denner, McKenney & Peurach (2023), JLS 32(4-5)
+* **Ingest**: [strategies/responsive-rpp-adaptation-during-disruption](strategies/responsive-rpp-adaptation-during-disruption.md) — Initial ingest from Popa, Anderson, Denner, McKenney & Peurach (2023), JLS 32(4-5)
+* **Content**: [claims/positioning-personal-experience-as-epistemic-resource-supports-critical-orientation-expansion](claims/positioning-personal-experience-as-epistemic-resource-supports-critical-orientation-expansion.md) — Linked related claim from Sedawi & Calabrese Barton (2024)
+* **Content**: [claims/personal-connection-to-data-supports-critical-data-literacy-stance-taking](claims/personal-connection-to-data-supports-critical-data-literacy-stance-taking.md) — Linked related claim from Sedawi & Calabrese Barton (2024)
+* **Content**: [patterns/data-storytelling-forage-remix-diy](patterns/data-storytelling-forage-remix-diy.md) — Added Agentic Data-Engagement Positions affordance link
+* **Content**: [theories/onto-epistemic-heterogeneity](theories/onto-epistemic-heterogeneity.md) — Added Epistemic Injustice related theory link
+* **Content**: [principles/cultural-life-experiences-connections](principles/cultural-life-experiences-connections.md) — Added Epistemic Injustice theory and linked claim from Sedawi & Calabrese Barton (2024)
+* **Ingest**: [claims/lively-data-and-agentic-positions-support-epistemically-just-crisis-sensemaking](claims/lively-data-and-agentic-positions-support-epistemically-just-crisis-sensemaking.md) — Initial ingest from Sedawi & Calabrese Barton (2024), JLS 33(4-5)
+* **Ingest**: [elements/agentic-data-engagement-positions](elements/agentic-data-engagement-positions.md) — Initial ingest from Sedawi & Calabrese Barton (2024), JLS 33(4-5)
+* **Ingest**: [theories/epistemic-injustice](theories/epistemic-injustice.md) — Initial ingest from Sedawi & Calabrese Barton (2024), JLS 33(4-5)
+* **Content**: [theories/constructivism](theories/constructivism.md) — Added Sociomaterial Agency of Tools related theory link
+* **Content**: [elements/hands-on-learning](elements/hands-on-learning.md) — Added Sociomaterial Agency of Tools affordance and material-choice constraint claim from Peppler & Thompson (2024)
+* **Ingest**: [claims/material-choice-shapes-conceptual-learning-and-participation](claims/material-choice-shapes-conceptual-learning-and-participation.md) — Initial ingest from Peppler & Thompson (2024), JLS 33(4-5)
+* **Ingest**: [theories/sociomaterial-agency-of-tools](theories/sociomaterial-agency-of-tools.md) — Initial ingest from Peppler & Thompson (2024), JLS 33(4-5)
+* **Content**: [theories/cultural-historical-activity-theory](theories/cultural-historical-activity-theory.md) — Added Adaptive Cycles Framework related theory link
+* **Ingest**: [claims/pd-support-salience-depends-on-adaptive-cycle-phase](claims/pd-support-salience-depends-on-adaptive-cycle-phase.md) — Initial ingest from Ehrenfeld & Stengel (2025), JLS 34(3)
+* **Ingest**: [strategies/video-based-feedback-cycle-for-teacher-teams](strategies/video-based-feedback-cycle-for-teacher-teams.md) — Initial ingest from Ehrenfeld & Stengel (2025), JLS 34(3)
+* **Ingest**: [theories/adaptive-cycles-framework](theories/adaptive-cycles-framework.md) — Initial ingest from Ehrenfeld & Stengel (2025), JLS 34(3)
+* **Content**: [theories/situated-learning](theories/situated-learning.md) — Added new Claims section linking Marshall & Horn (2025) on teachers as agentic synthesizers of PD practices
+* **Ingest**: [claims/teachers-synthesize-pd-practices-with-context-not-just-transfer-them](claims/teachers-synthesize-pd-practices-with-context-not-just-transfer-them.md) — Initial ingest from Marshall & Horn (2025), JLS
+* **Content**: [patterns/reflective-practice](patterns/reflective-practice.md) — Linked claim from Clark, Scott, DiPasquale & Becker (2024) on designerly stances in pre-service teacher PD
+* **Ingest**: [claims/course-emphasis-on-reframing-shifts-teachers-toward-designerly-stances](claims/course-emphasis-on-reframing-shifts-teachers-toward-designerly-stances.md) — Initial ingest from Clark, Scott, DiPasquale & Becker (2024), JLS
+* **Ingest**: [theories/designerly-stances](theories/designerly-stances.md) — Initial ingest from Clark, Scott, DiPasquale & Becker (2024), JLS
+* **Content**: [principles/epistemic-cognition](principles/epistemic-cognition.md) — Added Mechanistic Reasoning theory and linked claim from Shtechman, Ergazaki & Haskel-Ittah (2025)
+* **Ingest**: [claims/elementary-students-prefer-mechanistic-explanations](claims/elementary-students-prefer-mechanistic-explanations.md) — Initial ingest from Shtechman, Ergazaki & Haskel-Ittah (2025), JLS
+* **Ingest**: [elements/evaluating-and-justifying-mechanistic-explanations](elements/evaluating-and-justifying-mechanistic-explanations.md) — Initial ingest from Shtechman, Ergazaki & Haskel-Ittah (2025), JLS
+* **Ingest**: [theories/mechanistic-reasoning](theories/mechanistic-reasoning.md) — Initial ingest from Shtechman, Ergazaki & Haskel-Ittah (2025), JLS
+* **Content**: [theories/onto-epistemic-heterogeneity](theories/onto-epistemic-heterogeneity.md) — Added Funds of Knowledge related theory link
+* **Content**: [principles/cultural-life-experiences-connections](principles/cultural-life-experiences-connections.md) — Added Funds of Knowledge theory and linked claim from Randall, Earnest, Thota & Mensing (2025)
+* **Ingest**: [claims/funds-of-knowledge-tasks-reveal-computational-thinking](claims/funds-of-knowledge-tasks-reveal-computational-thinking.md) — Initial ingest from Randall, Earnest, Thota & Mensing (2025), JLS
+* **Ingest**: [strategies/family-interview-based-assessment-task-design](strategies/family-interview-based-assessment-task-design.md) — Initial ingest from Randall, Earnest, Thota & Mensing (2025), JLS
+* **Ingest**: [theories/funds-of-knowledge](theories/funds-of-knowledge.md) — Initial ingest from Randall, Earnest, Thota & Mensing (2025), JLS
+* **Content**: [elements/video-based-reflection](elements/video-based-reflection.md) — Extended element to cover children's self-interpretation of play video (Vescio 2025) alongside teacher PD use (Ehrenfeld & Stengel 2025)
+* **Content**: [principles/learner-choice](principles/learner-choice.md) — Linked claim from Vescio (2025) on children's video interpretation of unscripted play
+* **Ingest**: [claims/childrens-video-interpretation-of-play-reveals-mathematical-and-social-sensemaking](claims/childrens-video-interpretation-of-play-reveals-mathematical-and-social-sensemaking.md) — Initial ingest from Vescio (2025), JLS 34(3)
+* **Content**: [principles/authentic-audiences-purposes](principles/authentic-audiences-purposes.md) — Added Identity-Centered e-Textile Making example from Tofel-Grehl et al. (2024)
+* **Content**: [theories/self-determination-theory](theories/self-determination-theory.md) — Added Rightful Presence related theory and Identity-Centered e-Textile Making example from Tofel-Grehl et al. (2024)
+* **Ingest**: [claims/identity-centered-making-supports-stem-engagement-and-identity-affirmation](claims/identity-centered-making-supports-stem-engagement-and-identity-affirmation.md) — Initial ingest from Tofel-Grehl et al. (2024), JLS
+* **Ingest**: [patterns/identity-centered-e-textile-making](patterns/identity-centered-e-textile-making.md) — Initial ingest from Tofel-Grehl et al. (2024), JLS
+* **Ingest**: [theories/rightful-presence](theories/rightful-presence.md) — Initial ingest from Tofel-Grehl et al. (2024), JLS
+* **Content**: [theories/cognitive-apprenticeship](theories/cognitive-apprenticeship.md) — Added Examples link to Computational Essay Writing pattern from Odden & Zwicki (2025)
+* **Ingest**: [claims/creating-computational-literature-develops-computational-literacy](claims/creating-computational-literature-develops-computational-literacy.md) — Initial ingest from Odden & Zwicki (2025), JLS
+* **Ingest**: [patterns/computational-essay-writing](patterns/computational-essay-writing.md) — Initial ingest from Odden & Zwicki (2025), JLS
+* **Content**: [principles/discussing-race](principles/discussing-race.md) — Added Person-Centered Psychology as supporting theory from Hod & Tueg (2026)
+* **Content**: [principles/building-empathy](principles/building-empathy.md) — Added Person-Centered Psychology as supporting theory from Hod & Tueg (2026)
+* **Ingest**: [theories/person-centered-psychology](theories/person-centered-psychology.md) — Initial ingest from Hod & Tueg (2026), JLS
+* **Claim**: [patterns/reflective-practice](patterns/reflective-practice.md) — Linked claim from Sarfati-Shaulov & Vedder-Weiss (2025)
+* **Ingest**: [claims/elaborated-discussion-of-narrated-emotions-supports-teacher-learning](claims/elaborated-discussion-of-narrated-emotions-supports-teacher-learning.md) — Initial ingest from Sarfati-Shaulov & Vedder-Weiss (2025), JLS 35(1)
+* **Ingest**: [strategies/narrated-emotional-storytelling-in-teacher-pd](strategies/narrated-emotional-storytelling-in-teacher-pd.md) — Initial ingest from Sarfati-Shaulov & Vedder-Weiss (2025), JLS 35(1)
+* **Claim**: [patterns/problem-based-learning-pbl](patterns/problem-based-learning-pbl.md) — Linked claim from Miller & Li (2026) on spontaneous vs. contrived authenticity
+* **Ingest**: [claims/spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry](claims/spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) — Initial ingest from Miller & Li (2026), JLS 35(2)
+* **Ingest**: [claims/awareness-of-heterogeneity-does-not-predict-regulation-success](claims/awareness-of-heterogeneity-does-not-predict-regulation-success.md) — Initial ingest from Spang, Greisel & Kollar (2026), JLS 35(2)
+* **Ingest**: [claims/homogeneous-problem-perceptions-predict-regulation-success](claims/homogeneous-problem-perceptions-predict-regulation-success.md) — Initial ingest from Spang, Greisel & Kollar (2026), JLS 35(2)
+* **Claim**: [principles/cultural-life-experiences-connections](principles/cultural-life-experiences-connections.md) — Linked claim from Champion, Solomon & Lammey (2025)
+* **Claim**: [patterns/formative-assessment](patterns/formative-assessment.md) — Linked claim from Champion, Solomon & Lammey (2025)
+* **Ingest**: [claims/multimodal-culturally-grounded-assessment-supports-engagement-and-agency](claims/multimodal-culturally-grounded-assessment-supports-engagement-and-agency.md) — Initial ingest from Champion, Solomon & Lammey (2025), JLS 34(4)
+* **Ingest**: [elements/embodied-choreographic-assessment](elements/embodied-choreographic-assessment.md) — Initial ingest from Champion, Solomon & Lammey (2025), JLS 34(4)
+* **Ingest**: [elements/listening-palette](elements/listening-palette.md) — Initial ingest from Champion, Solomon & Lammey (2025), JLS 34(4)
+* **Claim**: [principles/collaborative-learning](principles/collaborative-learning.md) — Linked claims from Palatnik & Abrahamson (2026) and Spang, Greisel & Kollar (2026)
+* **Ingest**: [claims/embodied-collaborative-construction-can-build-shared-geometric-reasoning](claims/embodied-collaborative-construction-can-build-shared-geometric-reasoning.md) — Initial ingest from Palatnik & Abrahamson (2026), JLS
+* **Ingest**: [patterns/body-scale-collaborative-construction](patterns/body-scale-collaborative-construction.md) — Initial ingest from Palatnik & Abrahamson (2026), JLS
+* **Ingest**: [claims/pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction](claims/pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction.md) — Initial ingest from Su, Chi & Nagashima (2026), JLS 35(1)
+* **Ingest**: [patterns/pair-c-framework](patterns/pair-c-framework.md) — Initial ingest from Su, Chi & Nagashima (2026), JLS 35(1)
+* **Claim**: [principles/authentic-audiences-purposes](principles/authentic-audiences-purposes.md) — Linked claims from Kahn & Hall (2026) and Miller & Li (2026)
+* **Ingest**: [claims/personal-connection-to-data-supports-critical-data-literacy-stance-taking](claims/personal-connection-to-data-supports-critical-data-literacy-stance-taking.md) — Initial ingest from Kahn & Hall (2026), JLS
+* **Ingest**: [patterns/data-storytelling-forage-remix-diy](patterns/data-storytelling-forage-remix-diy.md) — Initial ingest from Kahn & Hall (2026), JLS
+* **Claim**: [principles/cultural-life-experiences-connections](principles/cultural-life-experiences-connections.md) — Added Onto-Epistemic Heterogeneity as a supporting theory and linked a new claim from Higgs, Kaimana & Isero (2026)
+* **Ingest**: [claims/positioning-personal-experience-as-epistemic-resource-supports-critical-orientation-expansion](claims/positioning-personal-experience-as-epistemic-resource-supports-critical-orientation-expansion.md) — Initial ingest from Higgs, Kaimana & Isero (2026), JLS ahead-of-print
+* **Ingest**: [theories/onto-epistemic-heterogeneity](theories/onto-epistemic-heterogeneity.md) — Initial ingest from Higgs, Kaimana & Isero (2026), JLS ahead-of-print
+* **Claim**: [principles/community-based-learning](principles/community-based-learning.md) — Added CHAT as a qualifying theory and linked a new constraint claim from Engeström & Käyhkö (2021)
+* **Ingest**: [claims/community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object](claims/community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) — Initial ingest from Engeström & Käyhkö (2021), JLS 30(3)
+* **Ingest**: [theories/cultural-historical-activity-theory](theories/cultural-historical-activity-theory.md) — Initial ingest from Engeström & Käyhkö (2021), JLS 30(3) — CHAT with boundary object and dialogicality
+* **Content**: [principles/validity-reliability-and-bias-in-classroom-assessment](principles/validity-reliability-and-bias-in-classroom-assessment.md) — Enriched with constructs, three types of reliability, and the reliability-does-not-imply-validity distinction (Unit 2)
+* **Ingest**: [strategies/teacher_action_research](strategies/teacher_action_research.md) — New strategy: teacher action research cycle (Unit 2)
+* **Ingest**: [theories/developmental-research-designs](theories/developmental-research-designs.md) — New theory: cross-sectional/longitudinal/sequential developmental research designs (Unit 2)
+* **Ingest**: [elements/research-data-collection-methods](elements/research-data-collection-methods.md) — New element: observation/survey/archival research data-collection methods (Unit 2)
+* **Ingest**: [principles/designing-a-valid-experiment](principles/designing-a-valid-experiment.md) — New principle: experimental design mechanics, IV/DV, blinding, random sampling vs assignment (Unit 2)
+* **Ingest**: [claims/illusory-correlations-persist-through-confirmation-bias](claims/illusory-correlations-persist-through-confirmation-bias.md) — New claim (ld-13): illusory correlations and the full-moon lunar-lunacy meta-analysis (Unit 2)
+* **Ingest**: [theories/research-design-taxonomy](theories/research-design-taxonomy.md) — New theory: quant/qual, descriptive/correlational/experimental research design taxonomy (Unit 2)
+* **Ingest**: [principles/evidence-based-teaching-and-scientific-reasoning](principles/evidence-based-teaching-and-scientific-reasoning.md) — New principle: evidence-based teaching, confirmation bias, falsifiability, scientific method (Unit 2)
+* **Content**: [strategies/consider_socio-cultural_factors](strategies/consider_socio-cultural_factors.md) — Enriched with NCES digital-divide statistics (Unit 1)
+* **Content**: [principles/intelligence-testing-uses-and-limits](principles/intelligence-testing-uses-and-limits.md) — Enriched with Binet's founding history and purpose for intelligence testing (Unit 1)
+* **Ingest**: [theories/critical-pedagogy](theories/critical-pedagogy.md) — New theory: Critical Pedagogy (Unit 1)
+* **Ingest**: [theories/essentialism-and-perennialism-educational-philosophy](theories/essentialism-and-perennialism-educational-philosophy.md) — New theory: Essentialism and Perennialism as educational philosophies (Unit 1)
+* **Ingest**: [theories/existentialism-educational-philosophy](theories/existentialism-educational-philosophy.md) — New theory: Existentialism as an educational philosophy (Unit 1)
+* **Ingest**: [theories/pragmatism-and-progressivism-educational-philosophy](theories/pragmatism-and-progressivism-educational-philosophy.md) — New theory: Pragmatism and Progressivism as educational philosophies (Unit 1)
+* **Ingest**: [theories/realism-educational-philosophy](theories/realism-educational-philosophy.md) — New theory: Realism as an educational philosophy (Unit 1)
+* **Ingest**: [theories/idealism-educational-philosophy](theories/idealism-educational-philosophy.md) — New theory: Idealism as an educational philosophy (Unit 1)
+* **Ingest**: [principles/twelve-characteristics-of-effective-teachers](principles/twelve-characteristics-of-effective-teachers.md) — New principle: Walker (2008) twelve characteristics of effective teachers (Unit 1)
+* **Ingest**: [principles/nbpts-five-core-propositions](principles/nbpts-five-core-propositions.md) — New principle: NBPTS Five Core Propositions for accomplished teaching (Unit 1)
+* **Ingest**: [theories/fullers-concerns-theory](theories/fullers-concerns-theory.md) — New theory: Fuller's Concerns Theory of teacher development, self/task/impact stages (Unit 1)
+* **Ingest**: [principles/educational-psychology-as-art-and-science](principles/educational-psychology-as-art-and-science.md) — New principle: educational psychology as both art and science (Unit 1)
+* **Ingest**: [patterns/herbarts-formal-steps](patterns/herbarts-formal-steps.md) — New pattern: Herbart's five formal steps for lesson sequencing (Unit 1)
+* **Content**: [elements/observation](elements/observation.md) — Enriched with classroom-assessment-specific observation content (Unit 10)
+* **Content**: [principles/intelligence-testing-uses-and-limits](principles/intelligence-testing-uses-and-limits.md) — Cross-linked terminology-shift and standardized-test-bias pages (Unit 10)
+* **Content**: [principles/assessment-for-learning](principles/assessment-for-learning.md) — Enriched with Dweck incremental/fixed view of ability shaping assessment purpose (Unit 10)
+* **Content**: [strategies/addressing_stereotype_threat](strategies/addressing_stereotype_threat.md) — Enriched with Aronson & Steele 2005 mechanism and citation (Unit 10)
+* **Content**: [strategies/effort-based_praise](strategies/effort-based_praise.md) — Enriched with precise Dweck 2000 mechanism and citation (Unit 10)
+* **Content**: [strategies/frequent,_low-stakes_quizzes](strategies/frequent-low-stakes-quizzes.md) — Enriched with Dempster & Perkins and Bangert-Downs citations (Unit 10)
+* **Content**: [strategies/portfolio_development](strategies/portfolio_development.md) — Enriched with four-dimension purpose taxonomy, implementation steps, Vermont reliability case study (Unit 10)
+* **Content**: [elements/performance-based-assessment](elements/performance-based-assessment.md) — Enriched with authentic/alternative assessment distinction and advantages/disadvantages (Unit 10)
+* **Content**: [strategies/checklists](strategies/checklists.md) — Enriched with checklist-vs-rating-scale distinction (Unit 10)
+* **Content**: [strategies/rubrics](strategies/rubrics.md) — Enriched with holistic/analytic/rating-scale distinctions and citations (Unit 10)
+* **Ingest**: [strategies/traffic-lights-self-assessment](strategies/traffic-lights-self-assessment.md) — New strategy page: Black & Wiliam's traffic-lights confidence self-assessment technique (Unit 10)
+* **Ingest**: [claims/teacher-effectiveness-compounds-over-consecutive-years](claims/teacher-effectiveness-compounds-over-consecutive-years.md) — New claim page: Dallas study on teacher effectiveness and assignment patterns (Unit 10)
+* **Ingest**: [principles/grading-policy-decisions](principles/grading-policy-decisions.md) — New principle page: weighting, hodgepodge grading, absolute vs relative grading, grade descriptions (Unit 10)
+* **Ingest**: [principles/wise-feedback-across-difference](principles/wise-feedback-across-difference.md) — New principle page: Cohen/Steele/Ross wise feedback across racial/ethnic difference (Unit 10)
+* **Ingest**: [principles/standardized-test-fairness-and-bias](principles/standardized-test-fairness-and-bias.md) — New principle page: item content/format bias, differential prediction, stereotype threat mechanism (Unit 10)
+* **Ingest**: [principles/high-stakes-testing-accountability-effects](principles/high-stakes-testing-accountability-effects.md) — New principle page: NCLB content-standard/alignment problems, AYP growth-vs-proficiency, teaching to the test (Unit 10)
+* **Ingest**: [principles/criterion-and-norm-referenced-testing](principles/criterion-and-norm-referenced-testing.md) — New principle page: criterion vs norm-referenced testing, norm groups, achievement/aptitude/diagnostic test types (Unit 10)
+* **Ingest**: [principles/validity-reliability-and-bias-in-classroom-assessment](principles/validity-reliability-and-bias-in-classroom-assessment.md) — New principle page: validity types, Table of Specifications, reliability, offensiveness/unfair penalization bias (Unit 10)
+* **Ingest**: [elements/constructed-response-assessment-items](elements/constructed-response-assessment-items.md) — New element page: completion/short-answer and extended-response items, scoring reliability challenges (Unit 10)
+* **Ingest**: [elements/selected-response-assessment-items](elements/selected-response-assessment-items.md) — New element page: multiple-choice, true-false, and matching items consolidated with common-error tables (Unit 10)
+* **Correction**: [strategies/establish_consistent_routines](strategies/establish_consistent_routines.md) — Fixed in-text citation abbreviation (EIS -> IES) and added its full reference to Key Sources
+* **Content**: [strategies/warning_and_consequence](strategies/warning_and_consequence.md) — Cross-linked low-profile control and natural/logical consequences pages (Unit 9)
+* **Content**: [strategies/repairing_harm](strategies/repairing_harm.md) — Cross-linked conflict-resolution and natural/logical consequences pages (Unit 9)
+* **Content**: [theories/turiels-social-domain-theory](theories/turiels-social-domain-theory.md) — Cross-linked classroom rules-vs-procedures application (Unit 9)
+* **Content**: [principles/culturally-responsive-classroom-norms](principles/culturally-responsive-classroom-norms.md) — Enriched with Tharp/Dillon/Bowers & Flinders on culturally responsive behavior management (Unit 9)
+* **Content**: [principles/reinforcement-theory](principles/reinforcement-theory.md) — Enriched with Thorndike's puzzle box and the negative reinforcement trap (Unit 9)
+* **Content**: [strategies/conditioning-natural-reinforcers](strategies/conditioning-natural-reinforcers.md) — Enriched with classroom-specific natural reinforcer examples (Unit 9)
+* **Content**: [strategies/establish_consistent_routines](strategies/establish_consistent_routines.md) — Enriched with engaged learning time and the five elements of teaching routines (Unit 9)
+* **Content**: [strategies/classroom_seating_arrangements](strategies/classroom_seating_arrangements.md) — Enriched with seating configuration options, citations, and ABC-model antecedent cross-link (Unit 9)
+* **Ingest**: [strategies/teacher-effectiveness-training-conflict-resolution](strategies/teacher-effectiveness-training-conflict-resolution.md) — New strategy page: Gordon's problem-ownership/active-listening/I-message/negotiation model (Unit 9)
+* **Ingest**: [strategies/ignoring-and-nonverbal-redirection](strategies/ignoring-and-nonverbal-redirection.md) — New strategy page: ignoring minor misbehavior and nonverbal cues (Unit 9)
+* **Ingest**: [strategies/low-profile-classroom-control](strategies/low-profile-classroom-control.md) — New strategy page: Rinne's anticipation/deflection/reaction (Unit 9)
+* **Ingest**: [elements/antecedent-behavior-consequence-model](elements/antecedent-behavior-consequence-model.md) — New element page: ABC model, Dead Person's Rule, negative reinforcement trap (Unit 9)
+* **Ingest**: [principles/natural-and-logical-consequences](principles/natural-and-logical-consequences.md) — New principle page: natural/logical consequences vs punishment (Unit 9)
+* **Ingest**: [principles/classroom-space-and-procedural-design](principles/classroom-space-and-procedural-design.md) — New principle page: arranging space, procedures vs rules, task difficulty sequencing, transitions (Unit 9)
+* **Ingest**: [principles/effective-classroom-management-plan](principles/effective-classroom-management-plan.md) — New principle page: six criteria for an effective classroom management plan (Unit 9)
+* **Ingest**: [theories/kounins-classroom-management-research](theories/kounins-classroom-management-research.md) — New theory page: Kounin's withitness, overlapping, ripple effect, and the Emmer et al. 1980 study (Unit 9)
+* **Ingest**: [theories/glassers-choice-theory-and-cooperative-learning](theories/glassers-choice-theory-and-cooperative-learning.md) — New theory page: Glasser's choice theory, boss/leader management, cooperative learning (Unit 9)
+* **Ingest**: [theories/ginotts-congruent-communication](theories/ginotts-congruent-communication.md) — New theory page: Ginott's congruent communication approach (Unit 9)
+* **Ingest**: [theories/teaching-styles-warmth-and-control](theories/teaching-styles-warmth-and-control.md) — New theory page: Soar & Soar's warmth x control teaching-style framework (Unit 9)
+* **Content**: [patterns/blended-learning](patterns/blended-learning.md) — Substantially enrich stub with definitions, Means 2010, Palloff & Pratt 2013 (Unit 8 enrichment)
+* **Content**: [strategies/differentiated_teaching](strategies/differentiated_teaching.md) — Substantially enrich stub with Tomlinson's content/process/product framework (Unit 8 enrichment)
+* **Content**: [patterns/flipped-learning](patterns/flipped-learning.md) — Add Lage Platt Treglia 2000 historical precursor citation (Unit 8 enrichment)
+* **Content**: [patterns/peer-instruction](patterns/peer-instruction.md) — Add Hake 1998, Crouch & Mazur 2001, Deslauriers 2011 effect sizes (Unit 8 enrichment)
+* **Content**: [patterns/traditional-lecture-based-instruction](patterns/traditional-lecture-based-instruction.md) — Add Bligh 2000 objective-dependent effectiveness breakdown (Unit 8 enrichment)
+* **Content**: [principles/active-learning](principles/active-learning.md) — Add Freeman 2014 precise effect sizes and equity/discussion claim cross-links (Unit 8 enrichment)
+* **Content**: [elements/advance-organizers](elements/advance-organizers.md) — Add attention-focusing appeals and anticipatory-set content (Unit 8 enrichment)
+* **Content**: [elements/state-objectives](elements/state-objectives.md) — Add cognitive-vs-behavioral objectives distinction (Gronlund/Mager) (Unit 8 enrichment)
+* **Ingest**: [strategies/pause-procedure](strategies/pause-procedure.md) — New strategy: pause procedure (Unit 8 ingest)
+* **Ingest**: [claims/active-learning-narrows-achievement-gaps](claims/active-learning-narrows-achievement-gaps.md) — New claim ld-11: active learning narrows achievement gaps (Unit 8 ingest)
+* **Ingest**: [claims/discussion-promotes-more-active-thought-than-lecture](claims/discussion-promotes-more-active-thought-than-lecture.md) — New claim ld-10: discussion vs lecture active thought (Unit 8 ingest)
+* **Ingest**: [patterns/emergent-curriculum](patterns/emergent-curriculum.md) — New pattern: emergent curriculum (Unit 8 ingest)
+* **Ingest**: [elements/addressing-student-misconceptions](elements/addressing-student-misconceptions.md) — New element: addressing student misconceptions (Unit 8 ingest)
+* **Ingest**: [patterns/team-based-learning](patterns/team-based-learning.md) — New pattern: Team-Based Learning (TBL), RAP/4S framework (Unit 8 ingest)
+* **Ingest**: [patterns/just-in-time-teaching](patterns/just-in-time-teaching.md) — New pattern: Just-In-Time Teaching (JiTT) (Unit 8 ingest)
+* **Ingest**: [patterns/understanding-by-design](patterns/understanding-by-design.md) — New pattern: Understanding by Design backward design framework (Unit 8 ingest)
+* **Content**: [principles/social-interdependence](principles/social-interdependence.md) — Cross-link culturally responsive classroom norms (Unit 7 enrichment)
+* **Content**: [theories/metacognition](theories/metacognition.md) — Cross-link bilingual metalinguistic awareness claim (Unit 7 enrichment)
+* **Content**: [strategies/multi-tiered_system_of_supports_(mtss)](strategies/multi-tiered-system-of-supports-mtss.md) — Substantially rewrite stub with RTI/MTSS tier structure and history (Unit 7 enrichment)
+* **Content**: [principles/universal-design-for-learning](principles/universal-design-for-learning.md) — Add concrete classroom tactics and alternative-assessment content (Unit 7 enrichment)
+* **Content**: [theories/triarchic-theory-of-intelligence](theories/triarchic-theory-of-intelligence.md) — Add creativity-components table and practical-intelligence validity caveat (Unit 7 enrichment)
+* **Ingest**: [principles/culturally-responsive-classroom-norms](principles/culturally-responsive-classroom-norms.md) — New page: culturally responsive classroom norms (Unit 7 ingest)
+* **Ingest**: [claims/bilingual-fluency-enhances-metalinguistic-awareness](claims/bilingual-fluency-enhances-metalinguistic-awareness.md) — New claim ld-9: bilingual fluency enhances metalinguistic awareness (Unit 7 ingest)
+* **Ingest**: [claims/heritage-language-preservation-supports-english-acquisition](claims/heritage-language-preservation-supports-english-acquisition.md) — New claim ld-8: heritage language preservation supports English acquisition (Unit 7 ingest)
+* **Ingest**: [principles/gender-equitable-classroom-interaction](principles/gender-equitable-classroom-interaction.md) — New page: gender-equitable classroom interaction patterns (Unit 7 ingest)
+* **Ingest**: [principles/least-restrictive-environment](principles/least-restrictive-environment.md) — New page: least restrictive environment (Unit 7 ingest)
+* **Ingest**: [strategies/explicit-interpersonal-skills-instruction](strategies/explicit-interpersonal-skills-instruction.md) — New strategy: explicit interpersonal skills instruction (Unit 7 ingest)
+* **Ingest**: [principles/functional-behavior-assessment](principles/functional-behavior-assessment.md) — New page: functional behavior assessment and trigger identification (Unit 7 ingest)
+* **Ingest**: [principles/supporting-students-with-autism-spectrum-disorder](principles/supporting-students-with-autism-spectrum-disorder.md) — New page: supporting students with autism spectrum disorder (Unit 7 ingest)
+* **Ingest**: [principles/supporting-students-with-adhd](principles/supporting-students-with-adhd.md) — New page: supporting students with ADHD (Unit 7 ingest)
+* **Ingest**: [elements/specific-learning-disabilities](elements/specific-learning-disabilities.md) — New page: specific learning disabilities, dyslexia/dysgraphia/dyscalculia (Unit 7 ingest)
+* **Ingest**: [principles/cognitive-styles](principles/cognitive-styles.md) — New page: cognitive styles, field dependence/independence and impulsivity/reflectivity (Unit 7 ingest)
+* **Ingest**: [principles/supporting-students-with-intellectual-disabilities](principles/supporting-students-with-intellectual-disabilities.md) — New page: supporting students with intellectual disabilities (Unit 7 ingest)
+* **Ingest**: [principles/supporting-gifted-and-talented-students](principles/supporting-gifted-and-talented-students.md) — New page: supporting gifted and talented students, Terman study (Unit 7 ingest)
+* **Ingest**: [principles/intelligence-testing-uses-and-limits](principles/intelligence-testing-uses-and-limits.md) — New page: IQ testing, standardization, and bias (Unit 7 ingest)
+* **Ingest**: [claims/flynn-effect-rising-iq-scores-over-generations](claims/flynn-effect-rising-iq-scores-over-generations.md) — New claim ld-7: the Flynn effect (Unit 7 ingest)
+* **Content**: [theories/cognitive-load-theory](theories/cognitive-load-theory.md) — Cross-link seductive details effect as an extraneous-load source (Unit 6 enrichment)
+* **Content**: [principles/reinforcement-theory](principles/reinforcement-theory.md) — Add overjustification effect as a documented constraint (Unit 6 enrichment)
+* **Content**: [theories/behaviorism](theories/behaviorism.md) — Add overjustification effect cross-link (Unit 6 enrichment)
+* **Content**: [theories/arcs-model](theories/arcs-model.md) — Add sub-tactics table and interest-model/Skinner cross-links (Unit 6 enrichment)
+* **Content**: [theories/expectancy-value-theory](theories/expectancy-value-theory.md) — Add multiplicative expectancy x value formula and expectancy/instrumentality/valence teaching tactics (Unit 6 enrichment)
+* **Content**: [theories/self-determination-theory](theories/self-determination-theory.md) — Add intrinsic-extrinsic continuum and autonomy/competence/relatedness teaching tactics (Unit 6 enrichment)
+* **Content**: [theories/self-efficacy-theory](theories/self-efficacy-theory.md) — Expand four sources of self-efficacy and learned helplessness with moderators/citations (Unit 6 enrichment)
+* **Content**: [theories/attribution-theory](theories/attribution-theory.md) — Add stable-attribution downside, effort-based-attribution conditions, mindset citations (Unit 6 enrichment)
+* **Ingest**: [theories/student-orientation-toward-achievement](theories/student-orientation-toward-achievement.md) — New page: Student Orientation Toward Achievement, Covington's self-worth typology (Unit 6 ingest)
+* **Ingest**: [theories/goal-orientation-theory](theories/goal-orientation-theory.md) — New page: Goal Orientation Theory, 2x2 mastery/performance x approach/avoidance model (Unit 6 ingest)
+* **Ingest**: [claims/seductive-details-distract-from-learning](claims/seductive-details-distract-from-learning.md) — New claim ld-6: seductive details effect (Unit 6 ingest)
+* **Ingest**: [theories/four-phase-interest-development](theories/four-phase-interest-development.md) — New page: Four-Phase Model of Interest Development (Unit 6 ingest)
+* **Ingest**: [claims/overjustification-effect-reduces-intrinsic-motivation](claims/overjustification-effect-reduces-intrinsic-motivation.md) — New claim ld-5: overjustification effect (Unit 6 ingest)
+* **Ingest**: [theories/instinct-drive-and-arousal-theories](theories/instinct-drive-and-arousal-theories.md) — New page: Instinct, Drive, and Arousal Theories (Unit 6 ingest)
+* **Content**: [strategies/project-based_learning_(pbl)](strategies/project-based-learning-pbl.md) — Enriched from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
+* **Content**: [patterns/socratic-seminar](patterns/socratic-seminar.md) — Enriched from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
+* **Content**: [principles/annotating](principles/annotating.md) — Enriched from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
+* **Content**: [theories/metacognition](theories/metacognition.md) — Enriched from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
+* **Content**: [principles/social-interdependence](principles/social-interdependence.md) — Enriched from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
+* **Content**: [patterns/jigsaw-method](patterns/jigsaw-method.md) — Enriched from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
+* **Ingest**: [patterns/hunters-effective-teaching-model](patterns/hunters-effective-teaching-model.md) — Ingested from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
+* **Ingest**: [strategies/student-teams-achievement-divisions](strategies/student-teams-achievement-divisions.md) — Ingested from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
+* **Ingest**: [principles/fostering-creative-thinking](principles/fostering-creative-thinking.md) — Ingested from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
+* **Ingest**: [strategies/ideal-problem-solving-model](strategies/ideal-problem-solving-model.md) — Ingested from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
+* **Ingest**: [principles/well-structured-vs-ill-structured-problems](principles/well-structured-vs-ill-structured-problems.md) — Ingested from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
+* **Ingest**: [claims/functional-fixedness-limits-problem-solving](claims/functional-fixedness-limits-problem-solving.md) — Ingested from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
+* **Ingest**: [theories/critical-thinking](theories/critical-thinking.md) — Ingested from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
+* **Content**: [theories/self-efficacy-theory](theories/self-efficacy-theory.md) — Enriched from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Content**: [theories/self-regulated-learning](theories/self-regulated-learning.md) — Enriched from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Content**: [theories/social-learning-theory](theories/social-learning-theory.md) — Enriched from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Content**: [principles/reinforcement-theory](principles/reinforcement-theory.md) — Enriched from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Content**: [theories/behaviorism](theories/behaviorism.md) — Enriched from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Content**: [principles/transfer-of-learning](principles/transfer-of-learning.md) — Enriched from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Ingest**: [elements/self-regulation-questionnaire](elements/self-regulation-questionnaire.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Ingest**: [strategies/prosocial-modeling](strategies/prosocial-modeling.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Ingest**: [strategies/learning-hierarchy-task-analysis](strategies/learning-hierarchy-task-analysis.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Ingest**: [strategies/conditioning-natural-reinforcers](strategies/conditioning-natural-reinforcers.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Ingest**: [strategies/behavioral-feedback-for-responses](strategies/behavioral-feedback-for-responses.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Ingest**: [strategies/effective-presentation-for-errorless-learning](strategies/effective-presentation-for-errorless-learning.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Ingest**: [strategies/prompting-hierarchy](strategies/prompting-hierarchy.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Ingest**: [strategies/time-out-negative-punishment](strategies/time-out-negative-punishment.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Ingest**: [strategies/token-economies](strategies/token-economies.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Ingest**: [strategies/hugging-and-bridging-for-transfer](strategies/hugging-and-bridging-for-transfer.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Ingest**: [principles/educational-readiness](principles/educational-readiness.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Ingest**: [claims/early-delay-of-gratification-predicts-later-outcomes](claims/early-delay-of-gratification-predicts-later-outcomes.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Ingest**: [patterns/five-e-model](patterns/five-e-model.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Ingest**: [theories/blooms-taxonomy](theories/blooms-taxonomy.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Ingest**: [theories/locus-of-control](theories/locus-of-control.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Content**: [theories/kohlberg-moral-development](theories/kohlberg-moral-development.md) — Enriched with content from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Content**: [theories/psychosocial-theory-of-identity-development](theories/psychosocial-theory-of-identity-development.md) — Enriched with content from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Content**: [theories/information-processing-theory](theories/information-processing-theory.md) — Enriched with content from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Content**: [theories/sociocultural-theory](theories/sociocultural-theory.md) — Enriched with content from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Content**: [theories/stages-of-cognitive-development](theories/stages-of-cognitive-development.md) — Enriched with content from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Ingest**: [theories/metacognition](theories/metacognition.md) — New page from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Ingest**: [theories/executive-function-development](theories/executive-function-development.md) — New page from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Ingest**: [principles/bullying-prevention-and-intervention](principles/bullying-prevention-and-intervention.md) — New page from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Ingest**: [theories/adolescent-peer-group-structure](theories/adolescent-peer-group-structure.md) — New page from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Ingest**: [claims/motor-milestones-vary-by-cultural-childcare-practices](claims/motor-milestones-vary-by-cultural-childcare-practices.md) — New page from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Ingest**: [claims/conversational-turns-predict-language-development](claims/conversational-turns-predict-language-development.md) — New page from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Ingest**: [principles/heritage-language-maintenance](principles/heritage-language-maintenance.md) — New page from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Ingest**: [principles/supporting-early-language-development](principles/supporting-early-language-development.md) — New page from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Ingest**: [elements/child-directed-speech](elements/child-directed-speech.md) — New page from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Ingest**: [theories/language-acquisition-theory](theories/language-acquisition-theory.md) — New page from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Ingest**: [principles/character-education](principles/character-education.md) — New page from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Ingest**: [theories/turiels-social-domain-theory](theories/turiels-social-domain-theory.md) — New page from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Ingest**: [theories/gilligans-ethic-of-care](theories/gilligans-ethic-of-care.md) — New page from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Ingest**: [theories/piaget-moral-development](theories/piaget-moral-development.md) — New page from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Ingest**: [theories/play-and-cognitive-development](theories/play-and-cognitive-development.md) — New page from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Ingest**: [theories/adolescent-brain-development](theories/adolescent-brain-development.md) — New page from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Content**: [theories/constructionism](theories/constructionism.md) — Cross-link to new theories/stages-of-cognitive-development.md
+* **Content**: [theories/constructivism](theories/constructivism.md) — Cross-link to new theories/stages-of-cognitive-development.md
+* **Source**: [theories/cognitive-load-theory](theories/cognitive-load-theory.md) — Add Chandler & Sweller (1991) key source found via Educational Learning Theories ch12
+* **Content**: [theories/information-processing-theory](theories/information-processing-theory.md) — Add forgetting theories, metacognition/metamemory, rehearsal vs elaboration, criticisms from Educational Learning Theories ch12
+* **Ingest**: [theories/maslow-hierarchy-of-needs](theories/maslow-hierarchy-of-needs.md) — New page: Maslow's hierarchy of needs, from Educational Learning Theories ch11
+* **Content**: [strategies/develop_observable_criteria](strategies/develop_observable_criteria.md) — Cross-link to new theories/blooms-taxonomy.md
+* **Ingest**: [theories/blooms-taxonomy](theories/blooms-taxonomy.md) — New page: Bloom's Taxonomy across cognitive/psychomotor/affective domains, from Educational Learning Theories ch10
+* **Content**: [theories/multiple-intelligences-theory](theories/multiple-intelligences-theory.md) — Add existential intelligence, identification criteria, g-factor/no-validation critique thread from Educational Learning Theories ch9
+* **Ingest**: [theories/psychosocial-theory-of-identity-development](theories/psychosocial-theory-of-identity-development.md) — New page: Erikson's psychosocial theory of identity development, from Educational Learning Theories ch8
+* **Ingest**: [theories/bioecological-model-of-human-development](theories/bioecological-model-of-human-development.md) — New page: Bronfenbrenner's bioecological model, from Educational Learning Theories ch7
+* **Content**: [principles/experiential-learning](principles/experiential-learning.md) — Cross-link to new theories/experiential-learning-theory.md
+* **Ingest**: [theories/experiential-learning-theory](theories/experiential-learning-theory.md) — New page: Kolb's Experiential Learning Theory, split from principles/experiential-learning.md, from Educational Learning Theories ch6
+* **Ingest**: [theories/kohlberg-moral-development](theories/kohlberg-moral-development.md) — New page: Kohlberg's stages of moral development, from Educational Learning Theories ch5
+* **Content**: [theories/sociocultural-theory](theories/sociocultural-theory.md) — Add private speech, cultural-tool transmission modes, internalization, expanded criticisms from Educational Learning Theories ch4
+* **Content**: [theories/social-learning-theory](theories/social-learning-theory.md) — Add Social Cognitive Theory expansion: triadic reciprocal causation, agency, capability, self-regulation, criticisms, from Educational Learning Theories ch3
+* **Ingest**: [theories/stages-of-cognitive-development](theories/stages-of-cognitive-development.md) — New page: Piaget's stages of cognitive development, from Educational Learning Theories ch2
+* **Content**: [theories/behaviorism](theories/behaviorism.md) — Add Pavlov/classical conditioning, Skinner box, named techniques, criticisms from Educational Learning Theories ch1
+* **Content**: [elements/makerspace](elements/makerspace.md) — Cross-linked new Constructionism theory page (LIDT Foundations ingest)
+* **Content**: [theories/constructivism](theories/constructivism.md) — Cross-linked new Constructionism theory page (LIDT Foundations ingest)
+* **Content**: [principles/learner-centered-paradigm](principles/learner-centered-paradigm.md) — Enriched with Reigeluth's new-roles taxonomy for teachers/students/technology, from "An Instructional Theory for the Post-Industrial Age" (ch. 20 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Content**: [principles/problem-based-learning](principles/problem-based-learning.md) — Added Savery (2019) key source and PBI-critique caveat from Reigeluth (ch. 20), LIDT Foundations ingest
+* **Content**: [principles/performance-technology](principles/performance-technology.md) — Enriched with Rossett & Schafer's Performance Support Tools taxonomy, from Boileau, "Informal Learning" (ch. 17 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Content**: [theories/information-processing-theory](theories/information-processing-theory.md) — Enriched with encoding types, working-memory model, and memory taxonomy from Spielman et al., "Memory" (ch. 9 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [patterns/project-and-instructional-space](patterns/project-and-instructional-space.md) — Ingested from Reigeluth, "An Instructional Theory for the Post-Industrial Age" (ch. 20 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [patterns/massive-open-online-course](patterns/massive-open-online-course.md) — Ingested from Weller, "Twenty Years of EdTech" (ch. 8) and Wiley, "Open Educational Resources" (ch. 37) of LIDT Foundations, edtechbooks.org/lidtfoundations
+* **Ingest**: [elements/open-educational-resources](elements/open-educational-resources.md) — Ingested from Wiley, "Open Educational Resources" (ch. 37) and Weller, "Twenty Years of EdTech" (ch. 8) of LIDT Foundations, edtechbooks.org/lidtfoundations
+* **Ingest**: [claims/media-comparison-studies-produce-uninterpretable-results](claims/media-comparison-studies-produce-uninterpretable-results.md) — Ingested from Lockee, Moore & Burton, "Old Concerns with New Distance Education Research" (ch. 36 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [principles/free-choice-learning-environment-design](principles/free-choice-learning-environment-design.md) — Ingested from Ashton, Nelson & Millward, "Careers in Museum Learning" (ch. 52 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [principles/access-use-effectiveness-framework](principles/access-use-effectiveness-framework.md) — Ingested from Davies & West, "Technology Integration in Schools" (ch. 31 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [principles/universal-design-for-learning](principles/universal-design-for-learning.md) — Ingested from U.S. Office of Educational Technology, "National Educational Technology Plan" (ch. 30 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [principles/informal-learning](principles/informal-learning.md) — Ingested from Boileau, "Informal Learning" (ch. 17 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [principles/communities-of-innovation](principles/communities-of-innovation.md) — Ingested from West, "Communities of Innovation" (ch. 14 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [principles/four-boundaries-of-learning-community](principles/four-boundaries-of-learning-community.md) — Ingested from Williams & West, "Learning Communities" (ch. 13 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [theories/triarchic-theory-of-intelligence](theories/triarchic-theory-of-intelligence.md) — Ingested from Spielman et al., "Intelligence" (ch. 10 of LIDT Foundations, edtechbooks.org/lidtfoundations) -- Sternberg's Triarchic Theory
+* **Ingest**: [theories/multiple-intelligences-theory](theories/multiple-intelligences-theory.md) — Ingested from Spielman et al., "Intelligence" (ch. 10 of LIDT Foundations, edtechbooks.org/lidtfoundations) -- Gardner's Multiple Intelligences
+* **Ingest**: [theories/constructionism](theories/constructionism.md) — Ingested from Lee, "A Short History of the Learning Sciences" (ch. 4 of LIDT Foundations, edtechbooks.org/lidtfoundations) -- Papert's constructionism
+* **Ingest**: [theories/design-layers-theory](theories/design-layers-theory.md) — Ingested from Gibbons, "What and How Do Designers Design?" (ch. 24 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Content**: [theories/first-principles-of-instruction](theories/first-principles-of-instruction.md) — Cross-linked new ARCS Model theory page
+* **Content**: [theories/self-determination-theory](theories/self-determination-theory.md) — Cross-linked new ARCS Model theory page
+* **Content**: [theories/self-efficacy-theory](theories/self-efficacy-theory.md) — Cross-linked new ARCS Model theory page
+* **Content**: [theories/expectancy-value-theory](theories/expectancy-value-theory.md) — Cross-linked new ARCS Model theory page
+* **Ingest**: [theories/arcs-model](theories/arcs-model.md) — Ingested from Park, "Motivation Theories and Instructional Design" (ch. 15 of LIDT Foundations, edtechbooks.org/lidtfoundations) -- Keller's ARCS model
+* **Content**: [theories/self-determination-theory](theories/self-determination-theory.md) — Cross-linked new Self-Efficacy, Attribution, and Expectancy-Value theory pages (LIDT Foundations ingest)
+* **Content**: [theories/social-learning-theory](theories/social-learning-theory.md) — Cross-linked new Self-Efficacy Theory page (LIDT Foundations ingest)
+* **Ingest**: [theories/expectancy-value-theory](theories/expectancy-value-theory.md) — Ingested from Park, "Motivation Theories and Instructional Design" (ch. 15 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [theories/attribution-theory](theories/attribution-theory.md) — Ingested from Park (ch. 15) and Seifert & Sutton (ch. 16), "Motivation Theories" chapters of LIDT Foundations, edtechbooks.org/lidtfoundations
+* **Ingest**: [theories/self-efficacy-theory](theories/self-efficacy-theory.md) — Ingested from Park (ch. 15) and Seifert & Sutton (ch. 16), "Motivation Theories" chapters of LIDT Foundations, edtechbooks.org/lidtfoundations
+* **Content**: [theories/constructivism](theories/constructivism.md) — Cross-linked new Makerspace element (LIDT Foundations ingest)
+* **Content**: [principles/user-centered-design-for-learning](principles/user-centered-design-for-learning.md) — Cross-linked new Cone of Experience principle (LIDT Foundations ingest)
+* **Content**: [theories/self-determination-theory](theories/self-determination-theory.md) — Cross-linked new Digital Open Badges element (LIDT Foundations ingest)
+* **Ingest**: [principles/cone-of-experience](principles/cone-of-experience.md) — Ingested from Lee & Reeves, "Edgar Dale and the Cone of Experience" (ch. 7 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [elements/digital-open-badges](elements/digital-open-badges.md) — Ingested from Farmer & West, "Opportunities and Challenges with Digital Open Badges" (ch. 41 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [elements/learning-analytics-feedback](elements/learning-analytics-feedback.md) — Ingested from Baker & Inventado, "Educational Data Mining and Learning Analytics" (ch. 40 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [elements/makerspace](elements/makerspace.md) — Ingested from Dousay, "Defining and Differentiating the Makerspace" (ch. 28 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Content**: [principles/community-of-inquiry](principles/community-of-inquiry.md) — Cross-linked new Online Course Design pattern (LIDT Foundations ingest)
+* **Content**: [patterns/game-based-mastery-learning](patterns/game-based-mastery-learning.md) — Cross-linked new Programmed Instruction and Epistemic Games patterns (LIDT Foundations ingest)
+* **Content**: [theories/situated-learning](theories/situated-learning.md) — Cross-linked new Epistemic Games pattern (LIDT Foundations ingest)
+* **Content**: [theories/self-determination-theory](theories/self-determination-theory.md) — Cross-linked new Epistemic Games pattern (LIDT Foundations ingest)
+* **Ingest**: [patterns/epistemic-games](patterns/epistemic-games.md) — Ingested from Shaffer, Squire, Halverson & Gee, "Video Games and the Future of Learning" (ch. 39) and Rieber, Smith & Noah, "The Value of Serious Play" (ch. 38) of LIDT Foundations, edtechbooks.org/lidtfoundations
+* **Ingest**: [patterns/online-course-design](patterns/online-course-design.md) — Ingested from Martin & Oyarzun, "Distance Learning" (ch. 35 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [patterns/programmed-instruction](patterns/programmed-instruction.md) — Ingested from Molenda, "Programmed Instruction" (ch. 6 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Content**: [theories/cognitive-load-theory](theories/cognitive-load-theory.md) — Cross-linked new User-Centered Design for Learning principle (LIDT Foundations ingest)
+* **Ingest**: [principles/learner-centered-paradigm](principles/learner-centered-paradigm.md) — Ingested from Watson & Reigeluth, "The Learner-Centered Paradigm of Education" (ch. 34 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [principles/user-centered-design-for-learning](principles/user-centered-design-for-learning.md) — Ingested from Earnshaw, Tawfik & Schmidt, "User Experience Design" (ch. 29 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [principles/technology-integration-levels](principles/technology-integration-levels.md) — Ingested from Kimmons, "K-12 Technology Frameworks" (ch. 32 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [principles/tpack](principles/tpack.md) — Ingested from Koehler & Mishra, "What Is Technological Pedagogical Content Knowledge?" (ch. 33 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [principles/performance-technology](principles/performance-technology.md) — Ingested from Stefaniak, "Performance Technology" (ch. 27 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Content**: [theories/social-learning-theory](theories/social-learning-theory.md) — Cross-linked new Sociocultural Theory page (LIDT Foundations ingest)
+* **Content**: [theories/situated-learning](theories/situated-learning.md) — Cross-linked new Sociocultural Theory and Connectivism pages (LIDT Foundations ingest)
+* **Content**: [theories/cognitive-apprenticeship](theories/cognitive-apprenticeship.md) — Cross-linked new Sociocultural Theory page (LIDT Foundations ingest)
+* **Source**: [theories/constructivism](theories/constructivism.md) — Added Ertmer & Newby (2013) key source and cross-links to new Cognitivism and Sociocultural Theory pages (LIDT Foundations ingest)
+* **Source**: [theories/behaviorism](theories/behaviorism.md) — Added Ertmer & Newby (2013) key source and cross-links to new Cognitivism and Connectivism theory pages (LIDT Foundations ingest)
+* **Ingest**: [theories/first-principles-of-instruction](theories/first-principles-of-instruction.md) — Ingested from Merrill "Using the First Principles of Instruction..." (ch. 21 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [theories/connectivism](theories/connectivism.md) — Ingested from Siemens "Connectivism" (ch. 19 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [theories/sociocultural-theory](theories/sociocultural-theory.md) — Ingested from Polly, Casto, Norwood & Allman "Sociocultural Perspectives of Learning" (ch. 12 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [theories/cognitivism](theories/cognitivism.md) — Ingested from Ertmer & Newby (2013) "Behaviorism, Cognitivism, Constructivism" (ch. 11 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+
 ## 2026-08-28
 
-* **Deprecate**: [strategies/"headings_and_highlight"_strategy](strategies/"headings_and_highlight"_strategy.md) — Deprecated as a duplicate of headings_and_highlight_strategy.md; content merged into the canonical page, this page kept as a redirect stub per CLAUDE.md's no-delete convention
+* **Content**: [theories/sociocultural-theory](theories/sociocultural-theory.md) — Cross-linked to new Stages of Cognitive Development theory page
+* **Content**: [theories/constructionism](theories/constructionism.md) — Cross-linked to new Stages of Cognitive Development theory page
+* **Content**: [theories/constructivism](theories/constructivism.md) — Cross-linked to new Stages of Cognitive Development theory page
+* **Content**: [theories/social-learning-theory](theories/social-learning-theory.md) — Enriched with content from Educational Learning Theories (2nd ed., Zhou & Brown)
+* **Content**: [theories/behaviorism](theories/behaviorism.md) — Enriched with content from Educational Learning Theories (2nd ed., Zhou & Brown)
+* **Ingest**: [theories/maslow-hierarchy-of-needs](theories/maslow-hierarchy-of-needs.md) — New theory page from Educational Learning Theories (2nd ed., Zhou & Brown)
+* **Ingest**: [theories/psychosocial-theory-of-identity-development](theories/psychosocial-theory-of-identity-development.md) — New theory page from Educational Learning Theories (2nd ed., Zhou & Brown)
+* **Ingest**: [theories/bioecological-model-of-human-development](theories/bioecological-model-of-human-development.md) — New theory page from Educational Learning Theories (2nd ed., Zhou & Brown)
+* **Ingest**: [theories/kohlberg-moral-development](theories/kohlberg-moral-development.md) — New theory page from Educational Learning Theories (2nd ed., Zhou & Brown)
+* **Ingest**: [theories/stages-of-cognitive-development](theories/stages-of-cognitive-development.md) — New theory page from Educational Learning Theories (2nd ed., Zhou & Brown)
+* **Deprecate**: [strategies/"headings_and_highlight"_strategy](strategies/headings-and-highlight-strategy-variant.md) — Deprecated as a duplicate of headings_and_highlight_strategy.md; content merged into the canonical page, this page kept as a redirect stub per CLAUDE.md's no-delete convention
 * **Content**: [strategies/headings_and_highlight_strategy](strategies/headings_and_highlight_strategy.md) — Merged in the genuinely different observations from the duplicate "headings_and_highlight"_strategy.md page: sharper Impact framing (the real affordance is clean multi-edit headings), social-studies example folded into Target Learners, and a new Implementation Variability note on broad reading-comprehension use vs. content-specific use
+* **Fix**: `strategies/* (49 pages)` — renamed files containing a literal `:` in the filename (e.g. `blocks_and_legos:_maker_spaces_and_fab_labs.md` → `blocks_and_legos-maker_spaces_and_fab_labs.md`) — the colon was parsed as a URI scheme separator by Jekyll/GitHub Pages, breaking the Pages build with "Invalid scheme format"; updated all cross-links in strategies/index.md and principles/explicit-instruction-math-strategies.md, principles/explicit-instruction-online-reading-strategies.md; regenerated indexes and verified with `scripts/lint.py`
 
 ## 2026-08-27
 
+* **Content**: [claims/prior-knowledge-not-related-to-performance](claims/prior-knowledge-not-related-to-performance.md) — Cross-link to new learner-variables/prior-knowledge.md; add Discussion note
+* **Ingest**: [learner-variables/prior-knowledge](learner-variables/prior-knowledge.md) — New learner-variable page type: backfill from existing prior-knowledge claim
 * **Ingest**: `theories/cognitive-information-processing-theory` (page removed before commit — see below) — Ingested from eric-ed616622 (A Bibliography of Cognitive Information Processing Theory, Research, and Practice) via eval_harness.py + ingest_extractions.py
 * **Deprecate**: `theories/cognitive-information-processing-theory` — Removed before commit: matched the "information processing theory" search topic on keyword overlap only, but the source is a career/vocational-counseling bibliography, not a learning-science theory; out of scope for this wiki
 * **Ingest**: [claims/intuitive-learners-outperform-sensing-learners](claims/intuitive-learners-outperform-sensing-learners.md) — Ingested from eric-ed476964 (Dual Coding Theory and Computer Education: Some Media Experiments To Examine the Effects of Different Media on Learning.) via eval_harness.py + ingest_extractions.py
@@ -25,164 +9175,102 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Ingest**: [claims/experimenter-underlining-effective-as-student-underlining](claims/experimenter-underlining-effective-as-student-underlining.md) — Ingested from eric-ed265520 (The Effects of High and Low Relevant Text Underlining on Test Performance.) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [claims/relevancy-of-emphasis-directs-attention](claims/relevancy-of-emphasis-directs-attention.md) — Ingested from eric-ed265520 (The Effects of High and Low Relevant Text Underlining on Test Performance.) via eval_harness.py + ingest_extractions.py
 
-## [2026-04-06] ingest | batch from research_briefs CSVs | 74 principles; 100 elements; 32 patterns; 1637 strategies pages created
-
-## [2026-04-06] enrich | Whole-task performance | enriched from elements CSV via Claude
-
-## [2026-04-06] enrich | Supportive information | enriched from elements CSV via Claude
-
-## [2026-04-06] enrich | Whole-task performance | enriched from elements CSV via Claude
-
-## [2026-04-06] enrich | Supportive information | enriched from elements CSV via Claude
-
-## [2026-04-06] enrich | Whole-task performance | enriched from elements CSV via Claude
-
-## [2026-04-06] enrich | Supportive information | enriched from elements CSV via Claude
-## [2026-04-06] enrich | whole-task-performance | enriched via wiki-enrich skill
-## [2026-04-06] enrich | chunking | enriched via wiki-enrich skill
-## [2026-04-06] enrich | scaffolding-and-fading | enriched via wiki-enrich skill
-## [2026-04-06] enrich | explaining-their-thinking | enriched via wiki-enrich skill
-## [2026-04-06] enrich | error-analysis | enriched via wiki-enrich skill
-## [2026-04-06] enrich | goal-setting-monitoring | enriched via wiki-enrich skill
-## [2026-04-07] edit | ask-experts | completed principle page structure, linked claims/examples, and normalized sources
-## [2026-04-07] edit | principles batch A | enriched accessible-vocabulary-syntax, annotating, audiobooks, authentic-audiences-purposes, case-studiescase-based-learning, and communities-of-practice
-## [2026-04-07] edit | principles batch B | enriched clear-structure-presentation and competency-based-learning-assessment
-## [2026-04-07] edit | principles batch C | enriched debate, debriefing, and evaluating-sources after git init
-## [2026-04-07] edit | principles batch D | enriched expanding-social-networks, experiential-learning, and explicit-instruction-internet-search after initial commit
-## [2026-04-07] edit | principles batch E | enriched explicit-instruction-computer-basics, explicit-instruction-math-strategies, and explicit-instruction-online-reading-strategies with linked claims
-## [2026-04-07] edit | principles batch F | enriched explicit-instruction-phonics, explicit-instruction-vocabulary, and flexible-grouping with linked claims
-
-## [2026-04-07] edit | principles batch G | enriched formative-assessment, foster-growth-mindset, and game-based-learning with linked claims
-
-## [2026-04-07] edit | claims batch A | created missing claims expertise-reversal-effect, self-monitoring-improves-self-regulation, we-1, we-2, we-3, we-4, we-5, and worked-examples-expertise-reversal
-
-## [2026-04-07] edit | elements batch A | created missing elements act, adaptive-difficulty, and adaptive-learning
-
-## [2026-04-07] edit | elements batch B | created missing elements analogies, anchored-instruction, and assessment
-
-## [2026-04-07] edit | principles batch H | enriched building-empathy, check-ins, and creating-visual-representations with linked claims
-
-## [2026-04-07] edit | principles batch I | enriched cultural-life-experiences-connections, developing-your-cultural-awareness, and discussing-race with linked claims
-
-## [2026-04-07] edit | principles batch J | enriched empathy-interviews, graphic-organizers, and guided-practice with linked claims
-
-## [2026-04-07] edit | principles batch K | enriched handoutsonline-guidesvisual-reading-aids, immediate-feedback, and inquiry-based-learning with linked claims
-
-## [2026-04-07] edit | principles batch L | enriched instructor-accessibility, journaling, and learner-choice with linked claims
-
-## [2026-04-07] edit | principles batch M | enriched mentoringcoaching, metaphors-analogies, and mindfulness-activities with linked claims
-
-## [2026-04-07] edit | principles batch N | enriched mnemonic-device, multimedia-projects, and multimodal-instruction with linked claims
-
-## [2026-04-07] edit | principles batch O | enriched multiple-methods-of-assessment, note-taking, and observationshadowing with linked claims
-
-## [2026-04-07] edit | principles batch P | enriched pairing-non-examples-with-examples, peer-discussion, and peer-feedbackpeer-review with linked claims
-
-## [2026-04-07] edit | principles batch Q | enriched perspective-seekingmultiple-perspectives, physical-activity, and positive-self-talk with linked claims
-
-## [2026-04-07] edit | principles batch R | enriched pre-reading-questioning, problem-based-learning, and process-based-writing with linked claims
-
-## [2026-04-07] edit | principles batch S | enriched purposeful-reflection, quiet-learning-spaces, and real-world-math with linked claims
-
-## [2026-04-07] edit | principles batch T | enriched self-monitoring, simulations-immersive-virtual-environments, and skills-sprint with linked claims
-
-## [2026-04-07] edit | principles batch U | enriched speech-to-text, strengths-based-approach, and text-chats with linked claims
-
-## [2026-04-07] edit | principles batch V | enriched text-to-speech and video-replay-analysis with linked claims
-
-## [2026-04-07] edit | patterns batch A | enriched 4cid-four-component-instructional-design, anchored-instruction, and case-based-learning-harvard-method with linked dependencies
-
-## [2026-04-07] edit | patterns batch B | enriched cognitive-flexibility-theory, cognitive-load-reduction-clt-scaffolding-approach, and cognitively-guided-instruction-cgi-for-math with linked dependencies
-
-## [2026-04-07] edit | patterns batch C | enriched collaborative-evaluation, collaborative-inquiry, and debate-format with linked dependencies
-
-## [2026-04-07] edit | patterns batch D | enriched develop-understanding, discussion-group, and flipped-classroom with linked dependencies
-
-## [2026-04-07] edit | patterns batch E | enriched fostering-communities-of-learning-fcl, gagnés-9-events-of-instruction, and game-based-mastery-learning-eg-duolingo-pattern with linked dependencies
-
-## [2026-04-07] edit | patterns batch F | enriched goal-based-scenarios-gbs, guided-discovery-learning, and jigsaw-method with linked dependencies
-
-## [2026-04-07] edit | patterns batch G | enriched lda-reflection, learning-for-use-lfu-model, and merrills-first-principles-of-instruction with linked dependencies
-
-## [2026-04-07] edit | patterns batch H | enriched model-evidence-link-mel-reasoning-pattern, peer-instruction, and problem-based-learning-pbl with linked dependencies
-
-## [2026-04-07] edit | patterns batch I | enriched process-oriented-guided-inquiry-learning-pogil, reigeluths-elaboration-theory, and socratic-seminar with linked dependencies
-
-## [2026-04-07] edit | patterns batch J | enriched structured-academic-controversy-sac, structured-peer-review, and think-pair-share with linked dependencies
-
-## [2026-04-07] edit | patterns batch K | enriched traditional-lecture-reading-midterm-final-assessment with linked dependencies
-
-## [2026-04-07] edit | cleanup batch A | created self-regulated-learning, self-determination-theory, information-processing-theory, and smarter-goals to resolve repeated broken links
-
-## [2026-04-07] edit | cleanup batch B | created constructivism, removed placeholder claim links from elements, and repaired worked-examples strategy links
-
-## [2026-04-07] edit | cleanup batch C | created shared mastery and assessment principle, element, and pattern pages to resolve repeated broken links across elements
-
-## [2026-04-07] edit | cleanup batch D | created think-aloud, hints, and erroneous-examples elements and removed literal placeholder wikilinks from index and spaced-learning
-
-## [2026-04-07] edit | cleanup batch E | removed placeholder claim links from strategies, added social-learning and discussion-related pages, and repaired the malformed standards-based grading strategy link
-
-## [2026-04-07] edit | cleanup batch F | added active-learning, structured-discussion, scenario-based-learning, just-in-time-learning, and short-form structured academic controversy targets to reduce the remaining real broken-link backlog
-
-## [2026-04-07] edit | pattern cleanup batch G | added short-form pattern targets for goal-based-scenarios and Merrill demonstration references
-
-## [2026-04-07] edit | pattern cleanup batch H | added short-form flipped-learning target to close the remaining pattern-specific broken link
-
-## [2026-04-07] edit | element cleanup batch I | added metacognition, scaffolding, CLT, dual-coding, guided-discovery, concept-mapping, immediate-feedback, problem-based-learning, and short-form POGIL/elaboration/CLT pattern targets for the element backlog
-
-## [2026-04-07] edit | element cleanup batch J | added reflection and self-regulation support pages plus situated-learning, dual-coding-theory, and constructivist-learning aliases for remaining element dependencies
-
-## [2026-04-07] edit | element cleanup batch K | added iterative-learning, community-based-learning, information-literacy, research-based-learning, and competency-based-assessment targets for the next element dependency cluster
-
-## [2026-04-08] edit | element cleanup batch L | added summative-assessment and performance-based-assessment targets plus non-examples for the next assessment and demonstration dependency cluster
-
-## [2026-04-08] edit | element cleanup batch M | added comparing-cases, fading, explicit-instruction, cognitive-load-management, and think-aloud-modeling for the next demonstration dependency cluster
-
-## [2026-04-08] edit | element cleanup batch N | added social-constructivism, collaborative-discussion, structured-debate, holistic-learning, and conceptual-overviews for the next consensus and elaboration dependency cluster
-
-## [2026-04-08] edit | element cleanup batch O | added community-of-inquiry, group-work, hands-on-learning, and short-form Merrill's First Principles targets for the next collaboration and application dependency cluster
-
-## [2026-04-08] edit | element cleanup batch P | added epistemic-cognition, MEL reasoning, self-regulation, reflection-activities, and analogical-reasoning targets for the next argumentation and integration dependency cluster
-
-## [2026-04-08] edit | element cleanup batch Q | added cognitive-load-reduction, metaphors, prior-knowledge-activation, retrieval-practice, and pre-reading-activities for the next analogy and activation dependency cluster
-
-## [2026-04-08] edit | element cleanup batch R | added contextualization, metacognitive-reflection, cognitive-flexibility, cognitive-disequilibrium, and discrepant-events for the next activation and cognitive-conflict dependency cluster
-
-## [2026-04-08] edit | element cleanup batch S | added learning-outcomes, goal-setting, scientific-reasoning, justification, and peer-learning for the next objectives and explanation dependency cluster
-
-## [2026-04-08] edit | element cleanup batch T | added CGI for Math alias plus pre-class-preparation, case-studies, seminar-format, and collaborative-decision-making for the next discussion and preparation dependency cluster
-
-## [2026-04-08] edit | element cleanup batch U | added role-playing, self-explanation, memory-consolidation, spaced-repetition, and spiral-curriculum for the next review and explanation dependency cluster
-
-## [2026-04-08] edit | element cleanup batch V | added behaviorism, deliberate-practice, reinforcement-theory, game-based-mastery-learning, and digital-learning for the next mastery and hypertext dependency cluster
-
-## [2026-04-08] edit | element cleanup batch W | added multimedia-learning, self-paced-learning, and multimedia-learning pattern targets for the next digital media dependency cluster
-
-## [2026-04-08] edit | element cleanup batch X | added expert-modeling, guided-inquiry, game-based-mastery-learning-duolingo-pattern, and social-interdependence for the next modeling and inquiry dependency cluster
-
-## [2026-04-08] edit | element cleanup batch Y | added literature-review, data-analysis, problem-scenarios, negotiation, and Merrill activation targets for the next research and scenario dependency cluster
-
-## [2026-04-08] edit | element cleanup batch Z | added knowledge-organization, sequencing, conceptual-scaffolding, gradual-release, and motivation for the next summarization and sequencing dependency cluster
-
-## [2026-04-08] edit | element cleanup batch AA | added engagement, cognitive-activation, video-prompts, real-world-problems, and drill-practice for the next attention and practice dependency cluster
-
-## [2026-04-08] edit | element cleanup batch AB | added 4C/ID alias, problem-solving, Merrill application, peer-assessment, and rubric-design for the next practice and criteria dependency cluster
-
-## [2026-04-08] edit | element cleanup batch AC | added self-directed-learning, procedural-learning, scaffolding-fading, and fading-scaffolding for the next procedural support dependency cluster
-
-## [2026-04-08] edit | element cleanup batch AD | added knowledge-building, clear-structure, explicit-teaching, and multimedia-instruction for the next direct instruction dependency cluster
-
-## [2026-04-08] edit | element cleanup batch AE | added jigsaw-learning, rhetorical-skill-development, transfer-of-learning, and Merrill integration targets for the next argument and transfer dependency cluster
-
-## [2026-04-08] edit | element cleanup batch AF | added rhetorical-strategies, public-speaking, self-testing, traditional-lecture-based-instruction, and blended-learning for the next persuasion and delivery dependency cluster
-
-## [2026-04-08] edit | element cleanup batch AG | added distributed-cognition, collaboration, observation, and task-management aliases for the next cross-element and strategy dependency cluster
-
-## [2026-04-08] edit | element cleanup batch AH | added progress-tracking, communication-channels, resource-hubs, digital-tools, and small-group-instruction for the next strategy dependency cluster
-
-## [2026-04-13] ingest | claims/autonomy-supports-intrinsic-motivation | new claim (motiv-1); evidence: Ryan & Deci 2000, Deci et al. 1999 meta-analysis (128 studies), Stefanou et al. 2004
-## [2026-04-13] ingest | claims/self-efficacy-predicts-academic-persistence | new claim (motiv-2); evidence: Bandura 1997, Pajares 1996 systematic review
-## [2026-04-13] ingest | claims/task-value-increases-motivation-and-engagement | new claim (motiv-3); evidence: Eccles & Wigfield 2002, Wigfield & Cambria 2010
-## [2026-04-13] edit | principles/motivation | added motiv-1, motiv-2, motiv-3 to Claims section; updated Implications prose to reference autonomy, efficacy, and task-value facets
-
-## [2026-08-28] fix | strategies/* (49 pages) | renamed files containing a literal `:` in the filename (e.g. `blocks_and_legos:_maker_spaces_and_fab_labs.md` → `blocks_and_legos-maker_spaces_and_fab_labs.md`) — the colon was parsed as a URI scheme separator by Jekyll/GitHub Pages, breaking the Pages build with "Invalid scheme format"; updated all cross-links in strategies/index.md and principles/explicit-instruction-math-strategies.md, principles/explicit-instruction-online-reading-strategies.md; regenerated indexes and verified with `scripts/lint.py`
+## 2026-04-06
+
+* **Ingest**: `batch from research_briefs CSVs` — 74 principles; 100 elements; 32 patterns; 1637 strategies pages created
+* **Enrich**: [elements/whole-task-performance](elements/whole-task-performance.md) — enriched from elements CSV via Claude
+* **Enrich**: [elements/supportive-information](elements/supportive-information.md) — enriched from elements CSV via Claude
+* **Enrich**: [elements/whole-task-performance](elements/whole-task-performance.md) — enriched from elements CSV via Claude
+* **Enrich**: [elements/supportive-information](elements/supportive-information.md) — enriched from elements CSV via Claude
+* **Enrich**: [elements/whole-task-performance](elements/whole-task-performance.md) — enriched from elements CSV via Claude
+* **Enrich**: [elements/supportive-information](elements/supportive-information.md) — enriched from elements CSV via Claude
+* **Enrich**: [elements/whole-task-performance](elements/whole-task-performance.md) — enriched via wiki-enrich skill
+* **Enrich**: [principles/chunking](principles/chunking.md) — enriched via wiki-enrich skill
+* **Enrich**: [principles/scaffolding-and-fading](principles/scaffolding-and-fading.md) — enriched via wiki-enrich skill
+* **Enrich**: [principles/explaining-their-thinking](principles/explaining-their-thinking.md) — enriched via wiki-enrich skill
+* **Enrich**: [principles/error-analysis](principles/error-analysis.md) — enriched via wiki-enrich skill
+* **Enrich**: [principles/goal-setting-monitoring](principles/goal-setting-monitoring.md) — enriched via wiki-enrich skill
+
+## 2026-04-07
+
+* **Edit**: [principles/ask-experts](principles/ask-experts.md) — completed principle page structure, linked claims/examples, and normalized sources
+* **Edit**: `principles batch A` — enriched accessible-vocabulary-syntax, annotating, audiobooks, authentic-audiences-purposes, case-studiescase-based-learning, and communities-of-practice
+* **Edit**: `principles batch B` — enriched clear-structure-presentation and competency-based-learning-assessment
+* **Edit**: `principles batch C` — enriched debate, debriefing, and evaluating-sources after git init
+* **Edit**: `principles batch D` — enriched expanding-social-networks, experiential-learning, and explicit-instruction-internet-search after initial commit
+* **Edit**: `principles batch E` — enriched explicit-instruction-computer-basics, explicit-instruction-math-strategies, and explicit-instruction-online-reading-strategies with linked claims
+* **Edit**: `principles batch F` — enriched explicit-instruction-phonics, explicit-instruction-vocabulary, and flexible-grouping with linked claims
+* **Edit**: `principles batch G` — enriched formative-assessment, foster-growth-mindset, and game-based-learning with linked claims
+* **Edit**: `claims batch A` — created missing claims expertise-reversal-effect, self-monitoring-improves-self-regulation, we-1, we-2, we-3, we-4, we-5, and worked-examples-expertise-reversal
+* **Edit**: `elements batch A` — created missing elements act, adaptive-difficulty, and adaptive-learning
+* **Edit**: `elements batch B` — created missing elements analogies, anchored-instruction, and assessment
+* **Edit**: `principles batch H` — enriched building-empathy, check-ins, and creating-visual-representations with linked claims
+* **Edit**: `principles batch I` — enriched cultural-life-experiences-connections, developing-your-cultural-awareness, and discussing-race with linked claims
+* **Edit**: `principles batch J` — enriched empathy-interviews, graphic-organizers, and guided-practice with linked claims
+* **Edit**: `principles batch K` — enriched handoutsonline-guidesvisual-reading-aids, immediate-feedback, and inquiry-based-learning with linked claims
+* **Edit**: `principles batch L` — enriched instructor-accessibility, journaling, and learner-choice with linked claims
+* **Edit**: `principles batch M` — enriched mentoringcoaching, metaphors-analogies, and mindfulness-activities with linked claims
+* **Edit**: `principles batch N` — enriched mnemonic-device, multimedia-projects, and multimodal-instruction with linked claims
+* **Edit**: `principles batch O` — enriched multiple-methods-of-assessment, note-taking, and observationshadowing with linked claims
+* **Edit**: `principles batch P` — enriched pairing-non-examples-with-examples, peer-discussion, and peer-feedbackpeer-review with linked claims
+* **Edit**: `principles batch Q` — enriched perspective-seekingmultiple-perspectives, physical-activity, and positive-self-talk with linked claims
+* **Edit**: `principles batch R` — enriched pre-reading-questioning, problem-based-learning, and process-based-writing with linked claims
+* **Edit**: `principles batch S` — enriched purposeful-reflection, quiet-learning-spaces, and real-world-math with linked claims
+* **Edit**: `principles batch T` — enriched self-monitoring, simulations-immersive-virtual-environments, and skills-sprint with linked claims
+* **Edit**: `principles batch U` — enriched speech-to-text, strengths-based-approach, and text-chats with linked claims
+* **Edit**: `principles batch V` — enriched text-to-speech and video-replay-analysis with linked claims
+* **Edit**: `patterns batch A` — enriched 4cid-four-component-instructional-design, anchored-instruction, and case-based-learning-harvard-method with linked dependencies
+* **Edit**: `patterns batch B` — enriched cognitive-flexibility-theory, cognitive-load-reduction-clt-scaffolding-approach, and cognitively-guided-instruction-cgi-for-math with linked dependencies
+* **Edit**: `patterns batch C` — enriched collaborative-evaluation, collaborative-inquiry, and debate-format with linked dependencies
+* **Edit**: `patterns batch D` — enriched develop-understanding, discussion-group, and flipped-classroom with linked dependencies
+* **Edit**: `patterns batch E` — enriched fostering-communities-of-learning-fcl, gagnés-9-events-of-instruction, and game-based-mastery-learning-eg-duolingo-pattern with linked dependencies
+* **Edit**: `patterns batch F` — enriched goal-based-scenarios-gbs, guided-discovery-learning, and jigsaw-method with linked dependencies
+* **Edit**: `patterns batch G` — enriched lda-reflection, learning-for-use-lfu-model, and merrills-first-principles-of-instruction with linked dependencies
+* **Edit**: `patterns batch H` — enriched model-evidence-link-mel-reasoning-pattern, peer-instruction, and problem-based-learning-pbl with linked dependencies
+* **Edit**: `patterns batch I` — enriched process-oriented-guided-inquiry-learning-pogil, reigeluths-elaboration-theory, and socratic-seminar with linked dependencies
+* **Edit**: `patterns batch J` — enriched structured-academic-controversy-sac, structured-peer-review, and think-pair-share with linked dependencies
+* **Edit**: `patterns batch K` — enriched traditional-lecture-reading-midterm-final-assessment with linked dependencies
+* **Edit**: `cleanup batch A` — created self-regulated-learning, self-determination-theory, information-processing-theory, and smarter-goals to resolve repeated broken links
+* **Edit**: `cleanup batch B` — created constructivism, removed placeholder claim links from elements, and repaired worked-examples strategy links
+* **Edit**: `cleanup batch C` — created shared mastery and assessment principle, element, and pattern pages to resolve repeated broken links across elements
+* **Edit**: `cleanup batch D` — created think-aloud, hints, and erroneous-examples elements and removed literal placeholder wikilinks from index and spaced-learning
+* **Edit**: `cleanup batch E` — removed placeholder claim links from strategies, added social-learning and discussion-related pages, and repaired the malformed standards-based grading strategy link
+* **Edit**: `cleanup batch F` — added active-learning, structured-discussion, scenario-based-learning, just-in-time-learning, and short-form structured academic controversy targets to reduce the remaining real broken-link backlog
+* **Edit**: `pattern cleanup batch G` — added short-form pattern targets for goal-based-scenarios and Merrill demonstration references
+* **Edit**: `pattern cleanup batch H` — added short-form flipped-learning target to close the remaining pattern-specific broken link
+* **Edit**: `element cleanup batch I` — added metacognition, scaffolding, CLT, dual-coding, guided-discovery, concept-mapping, immediate-feedback, problem-based-learning, and short-form POGIL/elaboration/CLT pattern targets for the element backlog
+* **Edit**: `element cleanup batch J` — added reflection and self-regulation support pages plus situated-learning, dual-coding-theory, and constructivist-learning aliases for remaining element dependencies
+* **Edit**: `element cleanup batch K` — added iterative-learning, community-based-learning, information-literacy, research-based-learning, and competency-based-assessment targets for the next element dependency cluster
+
+## 2026-04-08
+
+* **Edit**: `element cleanup batch L` — added summative-assessment and performance-based-assessment targets plus non-examples for the next assessment and demonstration dependency cluster
+* **Edit**: `element cleanup batch M` — added comparing-cases, fading, explicit-instruction, cognitive-load-management, and think-aloud-modeling for the next demonstration dependency cluster
+* **Edit**: `element cleanup batch N` — added social-constructivism, collaborative-discussion, structured-debate, holistic-learning, and conceptual-overviews for the next consensus and elaboration dependency cluster
+* **Edit**: `element cleanup batch O` — added community-of-inquiry, group-work, hands-on-learning, and short-form Merrill's First Principles targets for the next collaboration and application dependency cluster
+* **Edit**: `element cleanup batch P` — added epistemic-cognition, MEL reasoning, self-regulation, reflection-activities, and analogical-reasoning targets for the next argumentation and integration dependency cluster
+* **Edit**: `element cleanup batch Q` — added cognitive-load-reduction, metaphors, prior-knowledge-activation, retrieval-practice, and pre-reading-activities for the next analogy and activation dependency cluster
+* **Edit**: `element cleanup batch R` — added contextualization, metacognitive-reflection, cognitive-flexibility, cognitive-disequilibrium, and discrepant-events for the next activation and cognitive-conflict dependency cluster
+* **Edit**: `element cleanup batch S` — added learning-outcomes, goal-setting, scientific-reasoning, justification, and peer-learning for the next objectives and explanation dependency cluster
+* **Edit**: `element cleanup batch T` — added CGI for Math alias plus pre-class-preparation, case-studies, seminar-format, and collaborative-decision-making for the next discussion and preparation dependency cluster
+* **Edit**: `element cleanup batch U` — added role-playing, self-explanation, memory-consolidation, spaced-repetition, and spiral-curriculum for the next review and explanation dependency cluster
+* **Edit**: `element cleanup batch V` — added behaviorism, deliberate-practice, reinforcement-theory, game-based-mastery-learning, and digital-learning for the next mastery and hypertext dependency cluster
+* **Edit**: `element cleanup batch W` — added multimedia-learning, self-paced-learning, and multimedia-learning pattern targets for the next digital media dependency cluster
+* **Edit**: `element cleanup batch X` — added expert-modeling, guided-inquiry, game-based-mastery-learning-duolingo-pattern, and social-interdependence for the next modeling and inquiry dependency cluster
+* **Edit**: `element cleanup batch Y` — added literature-review, data-analysis, problem-scenarios, negotiation, and Merrill activation targets for the next research and scenario dependency cluster
+* **Edit**: `element cleanup batch Z` — added knowledge-organization, sequencing, conceptual-scaffolding, gradual-release, and motivation for the next summarization and sequencing dependency cluster
+* **Edit**: `element cleanup batch AA` — added engagement, cognitive-activation, video-prompts, real-world-problems, and drill-practice for the next attention and practice dependency cluster
+* **Edit**: `element cleanup batch AB` — added 4C/ID alias, problem-solving, Merrill application, peer-assessment, and rubric-design for the next practice and criteria dependency cluster
+* **Edit**: `element cleanup batch AC` — added self-directed-learning, procedural-learning, scaffolding-fading, and fading-scaffolding for the next procedural support dependency cluster
+* **Edit**: `element cleanup batch AD` — added knowledge-building, clear-structure, explicit-teaching, and multimedia-instruction for the next direct instruction dependency cluster
+* **Edit**: `element cleanup batch AE` — added jigsaw-learning, rhetorical-skill-development, transfer-of-learning, and Merrill integration targets for the next argument and transfer dependency cluster
+* **Edit**: `element cleanup batch AF` — added rhetorical-strategies, public-speaking, self-testing, traditional-lecture-based-instruction, and blended-learning for the next persuasion and delivery dependency cluster
+* **Edit**: `element cleanup batch AG` — added distributed-cognition, collaboration, observation, and task-management aliases for the next cross-element and strategy dependency cluster
+* **Edit**: `element cleanup batch AH` — added progress-tracking, communication-channels, resource-hubs, digital-tools, and small-group-instruction for the next strategy dependency cluster
+
+## 2026-04-13
+
+* **Ingest**: [claims/autonomy-supports-intrinsic-motivation](claims/autonomy-supports-intrinsic-motivation.md) — new claim (motiv-1); evidence: Ryan & Deci 2000, Deci et al. 1999 meta-analysis (128 studies), Stefanou et al. 2004
+* **Ingest**: [claims/self-efficacy-predicts-academic-persistence](claims/self-efficacy-predicts-academic-persistence.md) — new claim (motiv-2); evidence: Bandura 1997, Pajares 1996 systematic review
+* **Ingest**: [claims/task-value-increases-motivation-and-engagement](claims/task-value-increases-motivation-and-engagement.md) — new claim (motiv-3); evidence: Eccles & Wigfield 2002, Wigfield & Cambria 2010
+* **Edit**: [principles/motivation](principles/motivation.md) — added motiv-1, motiv-2, motiv-3 to Claims section; updated Implications prose to reference autonomy, efficacy, and task-value facets

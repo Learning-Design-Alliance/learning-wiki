@@ -4,11 +4,13 @@ title: Experiential Learning
 description: Experiential learning is learning by doing, which may include self-directed learning activities.
 status: review
 generated:
-  by: codex/unspecified
-  at: 2026-04-07
+  by: claude/unspecified
+  at: 2026-08-29
 ---
 
 # Experiential Learning
+
+> **Principle** · [All principles](index.md)
 
 ## Description
 Experiential learning is learning by doing, which may include self-directed learning activities. Helping learners make sense of experiences is foundational to adult learning. There are four key elements of experiential learning: concrete experience, reflection and observation, development of new ideas, and experimenting with new ideas. Active participation in experiential learning benefits both learners and the community. Adult learners gain concrete experiences and reflect on them by comparing the new experiences with Background Knowledge. It fosters the upgrading of life skills, such as a respect for diversity, exposure to multiple perspectives, and offers opportunities for critical reflection and Cognitive Flexibility. Experiential learning can also foster personal autonomy, self-fulfillment, interpersonal effectiveness and Social Awareness and Relationship Skills.
@@ -43,7 +45,7 @@ Experiential learning works because it puts learners in situations where concept
 
 ### Theory
 #### Supporting
-- Kolb’s experiential cycle directly supports the move from concrete experience to reflection, abstraction, and experimentation
+- [Experiential Learning Theory](../theories/experiential-learning-theory.md) [+S] — Kolb's experiential cycle directly supports the move from concrete experience to reflection, abstraction, and experimentation
 - Deweyan and constructivist perspectives support learning through doing and meaning-making from consequences
 - Sociocultural perspectives qualify experiential learning by emphasizing the role of guided participation, context, and tools
 - [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S] supports integrated performance tasks as especially useful for transfer
@@ -68,12 +70,12 @@ Experiential learning works because it puts learners in situations where concept
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->
 - Simulations, internships, clinical rounds, labs, community projects, and field-based inquiry
-- [Project-Based Learning (PBL)](../strategies/project-based_learning_(pbl).md) — learners build knowledge through extended authentic work
+- [Project-Based Learning (PBL)](../strategies/project-based-learning-pbl.md) — learners build knowledge through extended authentic work
 - [Anchored Instruction](../patterns/anchored-instruction.md) — realistic scenarios anchor inquiry and applied reasoning
 - Reflection journals, post-task debriefs, and iteration cycles are typical implementation supports
 
 ## Key Sources
 - Dernova, M. (2015). Experiential learning theory as one of the foundations of adult learning practice worldwide. *Comparative Professional Pedagogy, 5*(2).
-- Hansman, C. A. (2001). Context-based adult learning. *New Directions for Adult and Continuing Education, 89*, 43-52.
+- Hansman, C. A. (2001). Context-based adult learning. *New Directions for Adult and Continuing Education, 89*, 43-52. [doi:10.1002/ace.7](https://doi.org/10.1002/ace.7)
 - Zeivots, S. (2016). Emotional highs in adult experiential learning. *Australian Journal of Adult Learning, 56*(3), 353-373.
 - Knowles, M. S., Holton, E. F., & Swanson, R. A. (2015). *The adult learner* (8th ed.).

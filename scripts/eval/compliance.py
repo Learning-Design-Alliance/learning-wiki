@@ -10,8 +10,9 @@ covers automated-access mechanics (which paths, how fast), not licensing or
 "which retrieval channel is actually sanctioned" (e.g. NCBI restricts
 automated PMC retrieval to specific APIs regardless of what robots.txt
 allows). See eval/SOURCES.md for the per-source policy notes that motivated
-the choices here (why PMC goes through the BioC API instead of scraping
-article HTML, why arXiv bulk work should move to S3 instead of this module).
+the choices here (why PMC full text is fetched from the PMC Article Datasets
+on AWS instead of scraping article HTML, why arXiv bulk work should move to
+S3 instead of this module).
 """
 
 import os
@@ -44,6 +45,17 @@ USER_AGENT = (
 #     but keep a courteous floor above the bare minimum.
 #   - eric.ed.gov / files.eric.ed.gov: no published rate-limit guidance found;
 #     use a conservative default rather than assuming unlimited.
+#   - pmc-oa-opendata.s3.amazonaws.com: the PMC Article Datasets on AWS
+#     (see pmc_aws.py and eval/SOURCES.md) — a public, world-readable S3
+#     bucket under the AWS Open Data Sponsorship Program, not one of NCBI's
+#     own modest servers. No published per-request rate limit; this floor is
+#     just a courteous non-zero minimum, not a measured ceiling.
+#   - api.crossref.org: used by scripts/doi_resolver.py to verify cited
+#     DOIs actually exist. Crossref's "polite pool" (identified via a
+#     mailto param, which doi_resolver.py sets from EVAL_HARNESS_CONTACT_EMAIL
+#     when set) documents much higher headroom than this; this floor is a
+#     conservative default, not a measured ceiling, and resolution results
+#     are cached so most runs make very few requests here at all.
 DEFAULT_MIN_DELAY = {
     "arxiv.org": 15.0,
     "export.arxiv.org": 15.0,
@@ -51,6 +63,8 @@ DEFAULT_MIN_DELAY = {
     "eutils.ncbi.nlm.nih.gov": 1.0,
     "eric.ed.gov": 2.0,
     "files.eric.ed.gov": 2.0,
+    "pmc-oa-opendata.s3.amazonaws.com": 0.1,
+    "api.crossref.org": 0.25,
 }
 FALLBACK_MIN_DELAY = 3.0  # any domain not listed above
 

@@ -10,6 +10,8 @@ generated:
 
 # Journaling
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Journaling is the element in which learners record reflections, observations, questions, or progress over time in written form. It is useful when learning benefits from continuity, introspection, and visible documentation of change.
 

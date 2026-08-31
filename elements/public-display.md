@@ -10,6 +10,8 @@ generated:
 
 # Public Display
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Public display is the element in which learner work is made visible to a wider audience in the classroom or beyond.
 

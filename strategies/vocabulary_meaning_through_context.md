@@ -1,65 +1,72 @@
 ---
 type: strategy
 title: Vocabulary Meaning Through Context
-description: Instructors should present vocabulary in context so that learners can deduce the meaning for themselves, aiding understanding and retention.
+description: Instructors present vocabulary embedded in meaningful context so learners infer meaning themselves, aiding understanding and retention.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
 # Vocabulary Meaning Through Context
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
-Instructors should present vocabulary in context so that learners can deduce the meaning for themselves, aiding understanding and retention. Instructors should not simply define words and phrases. If learners guess the meaning incorrectly, provide another example or let them compare examples. Use texts written specifically for vocabulary instruction. After learning new words or phrases, learners should practice using them in their own words. One way to accomplish this is to start each class with a 5–10 minute conversation on a topic that allows them to reuse what they have learned.
+Instructors present vocabulary in context so that learners can deduce meaning for themselves, aiding understanding and retention, rather than simply defining words and phrases. If learners guess incorrectly, the instructor supplies another example or has learners compare examples. Learners then practice using new words in their own words — for example, through a 5–10 minute opening conversation that requires reuse of recently learned vocabulary.
 
 ## Design Implications
 
+Inferring word meaning from context engages learners in generative processing, which produces richer lexical representations than rote definition memorization [Learners incidentally acquire word meanings from reading context, though gains per encounter are small.](https://doi.org/10.2307/747758) [+M]. The act of generating a meaning hypothesis — even an imperfect one — creates a retrieval and correction opportunity that strengthens memory [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. Because single-context encounters rarely establish durable word knowledge, meaning must be consolidated through multiple encounters and spaced reuse [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+
 ### Context
 #### Requirements
-- Requires texts with vocabulary presented in context, time for practice and conversation
+- Texts or conversations in which target vocabulary appears in informative context; texts written or selected specifically for vocabulary instruction work best
+- Time for learners to generate, test, and revise meaning hypotheses before receiving confirmation
+- Follow-on production activities ([Practice](../elements/practice.md), conversation, role play) that require learners to use the words in their own sentences
+- A word-selection policy: context works best for words whose meaning is inferable from surrounding text and that appear with enough frequency to be reinforced
+
 #### Constraints
-- Context does not always help in explaining meaning, may be time-consuming
+- Context does not always disambiguate meaning — learners can construct plausible but wrong meanings from weak or misleading context, and errors can persist if never surfaced [-M]
+- Incidental acquisition from context alone is slow and unreliable; a single contextual encounter typically yields only partial word knowledge [-M]
+- Guessing from context consumes working memory and can disrupt comprehension of the text itself, especially for low-proficiency readers [~M]
+- Time-consuming relative to direct definition, and inefficient for high-utility words needed immediately for a task [-W]
+
 #### Implementation Variability
-- <!-- TODO -->
+- **Guided vs. incidental:** instructor-selected target words with structured guessing tasks vs. simply reading rich texts; guided versions produce larger gains
+- **Contrast sets:** presenting the word in multiple, contrasting contexts so learners triangulate meaning [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Verification timing:** confirm meanings immediately after guessing, or delay confirmation to create a testing effect
+- **Production-first vs. comprehension-first:** learners use the word in their own sentence before vs. after confirming meaning
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- Adult English language learners
+- Adult English language learners and second-language learners at intermediate proficiency and above, who have enough language knowledge to generate plausible hypotheses
+- Learners developing independent word-learning strategies for use beyond the classroom
+- Less effective for beginners, who lack the linguistic scaffolding to infer meaning and benefit more from direct definition and translation [-M]
 
 ### Target Learning Goals
-<!-- Link to sub-claims -->
-- Improve English vocabulary, increase understanding and memory, develop self-teaching skills
-
-### Affordances
-- Aids understanding and memory, provides satisfaction, teaches students how to learn on their own
-
-### Personalization
-- Instructors can provide additional support based on student needs, such as another example or time to work it out on their own
+- Vocabulary breadth and depth: meaning, connotation, and collocational behavior
+- Retention: durable memory for word meanings built through generative processing [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
+- Self-teaching: developing the transferable skill of inferring meaning from context during independent reading
 
 ### Instructions
-<!-- Steps with links to elements -->
-- [Provide guidance](../elements/provide-guidance.md)
-- [Practice](../elements/practice.md)
-- [Provide feedback](../elements/provide-feedback.md)
-
-## Assessment Evidence
-- Learners use new vocabulary in conversation or role play, write original sentences
-
-## Impact
-- Using context to learn meaning is an essential skill that your students need to know for the future. The students we have today won't be going to English class forever. It is part of our responsibility as English teachers (sorry to sound pompous) to make sure that they can continue improving their English by themselves and without the need for us.
+1. Select target words that are inferable from context and high-frequency enough to recur; pre-read the text to verify the context actually supports the meaning.
+2. Present the word in its context (sentence, paragraph, dialogue) without giving the definition; ask learners to propose a meaning and justify it from textual evidence.
+3. If guesses are wrong, provide another example or have learners compare examples rather than correcting directly [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+4. Confirm and refine the meaning, including typical usage and collocations.
+5. Have learners use the word productively — original sentences, role play, or a 5–10 minute opening conversation on a topic that invites reuse ([Practice](../elements/practice.md), [Act It Out](../elements/act-it-out.md)).
+6. Recycle the words in later lessons at increasing intervals [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
 
 ## Related Strategies
-- <!-- TODO -->
-
-## Related Elements
-- <!-- TODO -->
-
-## Tools
-- <!-- TODO -->
+- **Teaching word-learning strategies** — context inference is one of several independent strategies learners should command
+- **Extensive reading** — the primary natural engine for repeated contextual encounters after instruction
 
 ## Examples
-- <!-- TODO -->
+- **Opening conversation routine:** each class begins with a 5–10 minute discussion on a topic engineered to elicit the previous week's target vocabulary, converting receptive knowledge into productive use.
+- **Contrast sets for polysemy:** presenting *run* in "she runs a company," "he runs every morning," and "the dye runs in the wash" so learners distinguish senses rather than memorizing one gloss.
+- **Graded readers with target-word recycling** (e.g., Cambridge English Readers, Penguin Readers) — texts written so high-value vocabulary recurs across chapters, supporting the multiple-encounter requirement.
 
 ## Key Sources
-- <!-- TODO -->
+- Nagy, W. E., Herman, P. A., & Anderson, R. C. (1985). Learning words from context. *Reading Research Quarterly, 20*(2), 233–253. [doi:10.2307/747758](https://doi.org/10.2307/747758)
+- Swanborn, M. S. L., & de Glopper, K. (1999). Incidental word learning while reading: A meta-analysis. *Journal of Educational Psychology, 91*(1), 94–111. [doi:10.3102/00346543069003261](https://doi.org/10.3102/00346543069003261)
+- Beck, I. L., McKeown, M. G., & Kucan, L. (2013). *Bringing Words to Life: Robust Vocabulary Instruction* (2nd ed.). Guilford Press.
+- Nation, I. S. P. (2001). *Learning Vocabulary in Another Language*. Cambridge University Press. [doi:10.1017/cbo9781139524759](https://doi.org/10.1017/cbo9781139524759)

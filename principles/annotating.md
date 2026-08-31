@@ -4,11 +4,13 @@ title: Annotating
 description: Annotating is the practice of marking a text with notes, questions, summaries, definitions, or visual cues while reading.
 status: review
 generated:
-  by: codex/unspecified
-  at: 2026-04-07
+  by: claude/unspecified
+  at: 2026-08-29
 ---
 
 # Annotating
+
+> **Principle** · [All principles](index.md)
 
 ## Description
 Annotating is the practice of marking a text with notes, questions, summaries, definitions, or visual cues while reading. Done well, it turns reading from passive exposure into active sense-making: learners identify what matters, track confusion, connect ideas to prior knowledge, and leave behind an external record of their thinking that can support discussion, writing, and review.
@@ -55,6 +57,7 @@ Annotating improves reading when it makes thinking visible rather than just maki
 
 ### Claims
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — annotations that paraphrase, justify, or question the text improve learning more than passive marking
+- Liu (2006) found that students taught to annotate readings with questions and comments — rather than simply underlining passages — later wrote essays judged better-reasoned and more critically astute than students who annotated less actively, connecting annotation directly to [Critical Thinking](../theories/critical-thinking.md).
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — section summaries, headings, and coded notes help learners manage complex text by organizing it into meaningful units
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — guided prompts and teacher modeling improve annotation quality for learners who do not yet know what to notice
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — teaching a reading process ("define, question, summarize, connect") works better for novices than only asking for an end product
@@ -76,4 +79,6 @@ Annotating improves reading when it makes thinking visible rather than just maki
 - Pressley, M., & Afflerbach, P. (1995). *Verbal protocols of reading: The nature of constructively responsive reading*. Routledge.
 - Kintsch, W. (1998). *Comprehension: A paradigm for cognition*. Cambridge University Press.
 - Fisher, D., & Frey, N. (2014). *Close reading and writing from sources*. International Reading Association.
+- Liu, J. (2006). Assessing student critical thinking through annotation. [Cited via secondary source without full publication details]
+- Arduini-Van Hoose, N. (2020). Critical thinking. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
 - Oster, L. (2001). Using the think-aloud for reading instruction. *The Reading Teacher, 55*(1), 64-69.

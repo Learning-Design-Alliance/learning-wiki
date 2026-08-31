@@ -95,10 +95,42 @@ LOCK_PATH = RUNS_DIR / ".auto_optimize.lock"
 PROMPT_VERSIONS_DIR = WIKI_ROOT / "scripts" / "eval" / "prompt_versions"
 VENV_PYTHON = WIKI_ROOT / "venv" / "bin" / "python"
 SECRETS_ENV_FILE = Path("/etc/eval-harness.env")
+REFRESH_HEALTH_LOG_PATH = WIKI_ROOT / "eval" / "health" / "refresh-console.log"
 PORT = 8080
 MAX_ROUNDS = 20
 _SAFE_RUN_ID_RE = re.compile(r"^[A-Za-z0-9][A-Za-z0-9_.-]*$")
 _SAFE_VERSION_RE = re.compile(r"^v\d+$")
+
+# Wiki content editing (see /edit, /save-page below) — real wiki page
+# filenames carry all sorts of characters straight from scraped titles
+# (apostrophes, parens, &, ?, ...), so this deliberately does NOT pattern-
+# match the filename itself. Safety instead comes from: the folder must be
+# one of these seven, and candidate.parent != folder_dir (below) catches
+# any '..' escape attempt after path resolution, regardless of what
+# characters the filename contains.
+EDITABLE_FOLDERS = {"principles", "elements", "patterns", "strategies", "theories", "claims", "learner-variables"}
+
+
+def _resolve_editable_path(rel_path: str):
+    """rel_path like 'claims/foo.md' -> the real Path if (and only if) it's
+    an existing .md page inside one of EDITABLE_FOLDERS, directly inside
+    that folder (no subdirectories) — else None. Never creates a new file;
+    /edit and /save-page both only ever operate on a page that already
+    exists on disk."""
+    if not rel_path or "/" not in rel_path:
+        return None
+    folder, _, filename = rel_path.partition("/")
+    if folder not in EDITABLE_FOLDERS:
+        return None
+    folder_dir = (WIKI_ROOT / folder).resolve()
+    candidate = (folder_dir / filename).resolve()
+    if candidate.parent != folder_dir:
+        return None  # blocks '..' (or a nested subpath) smuggled in via filename
+    if candidate.suffix != ".md" or candidate.name == "index.md":
+        return None
+    if not candidate.is_file():
+        return None
+    return candidate
 
 # scrape (discover_articles.py + fetch_article.py) launch/lock/state — kept
 # entirely separate from auto-optimize's own STATE_PATH/LOCK_PATH above,
@@ -110,10 +142,14 @@ _SAFE_VERSION_RE = re.compile(r"^v\d+$")
 # which need the venv's `requests` and are only ever launched as a
 # subprocess, never imported into this process.
 sys.path.insert(0, str(WIKI_ROOT))
-from scripts.eval import scrape_report  # noqa: E402 - after sys.path fixup, deliberately
+from scripts.eval import scrape_report, model_catalog  # noqa: E402 - after sys.path fixup, deliberately
+from scripts import wiki_health_check  # noqa: E402 - stdlib-only dependency chain (lint/check_citations/
+                                        # find_cross_folder_duplicates), safe under system python — see
+                                        # wiki_health_check.py's own module docstring chain
 
 RUN_SCRAPE_SCRIPT = WIKI_ROOT / "scripts" / "run_scrape_batch.py"
 SCRAPE_STATE_PATH = RUNS_DIR / ".scrape_state.json"
+SCRAPE_HISTORY_PATH = RUNS_DIR / ".scrape_history.json"
 SCRAPE_LOCK_PATH = RUNS_DIR / ".scrape.lock"
 SCRAPE_CORPUS_DIR = (WIKI_ROOT / "eval" / "corpus").resolve()
 
@@ -317,11 +353,36 @@ def _kill_and_reap(pid: int) -> None:
         pass
 
 
+def _reap_if_zombie(pid: int) -> bool:
+    """Non-destructive liveness check that also clears a finished child
+    instead of letting it masquerade as still-running forever. Plain
+    os.kill(pid, 0) (what _pid_is_alive() checks) keeps reporting success
+    for a process that already exited but was never reaped by its parent —
+    confirmed live: a scrape batch launched via subprocess.Popen that
+    finishes NORMALLY (not via the Stop button, which already reaps
+    through _kill_and_reap) is never waited-on by this server, so it sits
+    as a zombie and _scrape_already_running() reports "still running"
+    indefinitely — every launch after the first successful scrape silently
+    404s on the lock until the whole service is restarted, which just
+    happens to reap it as a side effect of the old process exiting.
+    Returns True only if the process is genuinely still running."""
+    try:
+        reaped_pid, _ = os.waitpid(pid, os.WNOHANG)
+        return reaped_pid != pid  # 0 means still running; == pid means it was a zombie, now reaped
+    except ChildProcessError:
+        # Not this process's child (e.g. spawned by a since-restarted
+        # instance of this service) — fall back to a plain existence check.
+        return _pid_is_alive(pid)
+
+
 def _scrape_already_running() -> bool:
     """Same pattern as _already_running(), against SCRAPE_LOCK_PATH instead
-    — unlike auto-optimize's lock, this one is written and read entirely by
-    this server (run_scrape_batch.py has no lock of its own), so it only
-    catches a scrape launched through the dashboard, not a bare CLI
+    — unlike auto-optimize's lock (self-managed: cmd_auto_optimize() cleans
+    up its own lock file when it finishes), this one is written AND
+    destroyed entirely by this server, so nothing removes it when the
+    scrape subprocess finishes on its own — see _reap_if_zombie() for why
+    that made every scrape after the first one silently unlaunchable. Also
+    only catches a scrape launched through the dashboard, not a bare CLI
     invocation run alongside it. Acceptable for now: the dashboard button
     is the primary way this gets launched."""
     if not SCRAPE_LOCK_PATH.exists():
@@ -331,7 +392,12 @@ def _scrape_already_running() -> bool:
     except (json.JSONDecodeError, OSError):
         return False
     pid = info.get("pid")
-    return bool(pid and _pid_is_alive(pid))
+    if pid and _reap_if_zombie(pid):
+        return True
+    # Dead (freshly reaped above, or already gone) — the lock is stale;
+    # clear it so it stops blocking every future launch attempt.
+    SCRAPE_LOCK_PATH.unlink(missing_ok=True)
+    return False
 
 
 class Handler(SimpleHTTPRequestHandler):
@@ -354,6 +420,19 @@ class Handler(SimpleHTTPRequestHandler):
         self.send_header("Pragma", "no-cache")
         super().end_headers()
 
+    def do_GET(self):
+        # Static-file serving (health.html, optimizer.html, etc.) has no
+        # dispatch table at all — SimpleHTTPRequestHandler's default do_GET
+        # handles every real GET route by serving whatever file exists on
+        # disk under RUNS_DIR. /edit is the one exception: a generated page
+        # (not a file in RUNS_DIR), so it's intercepted here and everything
+        # else falls through to the normal static-file behavior unchanged.
+        parsed = urllib.parse.urlparse(self.path)
+        if parsed.path == "/edit":
+            self._handle_edit_page(urllib.parse.parse_qs(parsed.query))
+            return
+        super().do_GET()
+
     def do_POST(self):
         handlers = {
             "/launch-auto-optimize": self._handle_launch,
@@ -364,6 +443,8 @@ class Handler(SimpleHTTPRequestHandler):
             "/stop-auto-optimize": self._handle_stop_auto_optimize,
             "/launch-scrape": self._handle_launch_scrape,
             "/stop-scrape": self._handle_stop_scrape,
+            "/refresh-health": self._handle_refresh_health,
+            "/save-page": self._handle_save_page,
         }
         handler = handlers.get(self.path)
         if handler is None:
@@ -488,6 +569,39 @@ class Handler(SimpleHTTPRequestHandler):
                            redirect_to="/scrape.html")
             return
 
+        # export.arxiv.org's robots.txt disallows the live search API outright
+        # (see eval/SOURCES.md) — arxiv>0 must come from the local Kaggle
+        # snapshot. This field is an optional override for an
+        # already-downloaded file; left blank, run_scrape_batch.py resolves
+        # it itself via kagglehub (discover_articles.resolve_arxiv_snapshot()
+        # — auto-downloads and caches on first use, from KAGGLE_USERNAME/
+        # KAGGLE_KEY in /etc/eval-harness.env). Only validated here when
+        # actually given — an empty field is not an error.
+        arxiv_snapshot = (form.get("arxiv_snapshot", [""])[0] or "").strip()
+        arxiv_snapshot_path = None
+        if arxiv_snapshot:
+            arxiv_snapshot_path = (WIKI_ROOT / arxiv_snapshot).resolve() if not Path(arxiv_snapshot).is_absolute() \
+                else Path(arxiv_snapshot)
+            if not arxiv_snapshot_path.is_file():
+                self._respond(400, f"arXiv snapshot not found: {arxiv_snapshot}", redirect_to="/scrape.html")
+                return
+
+        model = (form.get("model", [""])[0] or "").strip()
+        if model and model not in model_catalog.MODEL_DESCRIPTIONS:
+            self._respond(400, f"Unknown model: {model!r} — pick one from the dropdown.",
+                           redirect_to="/scrape.html")
+            return
+        prompt_version = (form.get("prompt_version", [""])[0] or "").strip()
+        refresh_cache = (form.get("refresh_cache", [""])[0] or "").strip() == "1"
+        try:
+            max_correction_attempts = int(form.get("max_correction_attempts", ["2"])[0] or "2")
+        except ValueError:
+            self._respond(400, "Correction attempts must be a whole number.", redirect_to="/scrape.html")
+            return
+        if max_correction_attempts < 0:
+            self._respond(400, "Correction attempts must be non-negative.", redirect_to="/scrape.html")
+            return
+
         out = (form.get("out", [""])[0] or "").strip() or "eval/corpus/manifest_bulk.json"
         # Becomes an argv element passed to a subprocess (not shell-
         # interpolated, so not a command-injection vector) — but an
@@ -512,6 +626,14 @@ class Handler(SimpleHTTPRequestHandler):
         label = f"scrape-{int(time.time())}"
         launch_args = ["--pmc", str(pmc), "--eric", str(eric), "--arxiv", str(arxiv),
                         "--out", str(out_path.relative_to(WIKI_ROOT)), "--label", label]
+        if arxiv_snapshot_path:
+            launch_args += ["--arxiv-snapshot", str(arxiv_snapshot_path)]
+        if model:
+            launch_args += ["--model", model, "--max-correction-attempts", str(max_correction_attempts)]
+        if prompt_version:
+            launch_args += ["--prompt-version", prompt_version]
+        if refresh_cache:
+            launch_args += ["--refresh-cache"]
         log_path = RUNS_DIR / f"web-scrape-{int(time.time())}.log"
         log_file = open(log_path, "w", encoding="utf-8")
         proc = subprocess.Popen(
@@ -566,9 +688,118 @@ class Handler(SimpleHTTPRequestHandler):
             state["status"] = "stopped_by_user"
             state["finished_at"] = datetime.now(timezone.utc).isoformat()
             SCRAPE_STATE_PATH.write_text(json.dumps(state, indent=2), encoding="utf-8")
-            (RUNS_DIR / "scrape.html").write_text(scrape_report.render_html(state), encoding="utf-8")
+            (RUNS_DIR / "scrape.html").write_text(
+                scrape_report.render_html(state, history=_load_scrape_history()), encoding="utf-8")
 
         self._respond(200, f"Stopped scrape batch (pid {pid}).", redirect_to="/scrape.html")
+
+    def _handle_refresh_health(self, form: dict) -> None:
+        """Runs the full wiki_health_check.py pass (real Crossref DOI
+        resolution included — the every-batch calls elsewhere all pass
+        --skip-doi, since that's fast enough to run inline; this one isn't)
+        as a background subprocess, same launch-and-forget pattern as
+        /launch-scrape and /launch-auto-optimize. No lock file: unlike
+        those, a health check is read-then-compute-then-write-one-file,
+        short enough (Crossref calls are cached after the first resolution)
+        that two concurrent runs are a minor wasted-effort risk, not a
+        corruption one — not worth a second lock/state-file pair for."""
+        if not VENV_PYTHON.exists():
+            self._respond(500, f"{VENV_PYTHON} not found — is the venv set up?", redirect_to="/health.html")
+            return
+        REFRESH_HEALTH_LOG_PATH.parent.mkdir(parents=True, exist_ok=True)
+        with open(REFRESH_HEALTH_LOG_PATH, "wb") as log_f:
+            subprocess.Popen(
+                [str(VENV_PYTHON), "-u", "scripts/wiki_health_check.py"],
+                cwd=str(WIKI_ROOT), stdout=log_f, stderr=subprocess.STDOUT,
+            )
+        self._respond(200, "Full health check (with DOI resolution) started in the background — "
+                            "this can take a few minutes on a large wiki; the page refreshes itself "
+                            "every 60s, or reload once it's done.", redirect_to="/health.html")
+
+    def _handle_edit_page(self, query: dict) -> None:
+        rel_path = query.get("path", [""])[0]
+        target = _resolve_editable_path(rel_path)
+        if target is None:
+            self._respond_html(404, "<pre>Not found, or not an editable wiki page.</pre>"
+                                     "<p><a href=\"/health.html\">&larr; Back to Wiki Health</a></p>")
+            return
+
+        content = target.read_text(encoding="utf-8")
+        mtime = target.stat().st_mtime
+        notice = ""
+        if query.get("saved") == ["1"]:
+            notice = '<p class="notice good">Saved.</p>'
+        elif query.get("conflict") == ["1"]:
+            notice = ('<p class="notice warn">This file changed on disk since you opened it — your '
+                       'save was NOT applied, to avoid clobbering that change. The text below is the '
+                       'current version on disk; re-apply your edit and save again.</p>')
+
+        body = f"""<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Edit {html.escape(rel_path)}</title>
+<style>
+  body {{ margin: 0; background: #f9f9f7; font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+          color: #0b0b0b; }}
+  @media (prefers-color-scheme: dark) {{ body {{ background: #0d0d0d; color: #fff; }} }}
+  .root {{ max-width: 900px; margin: 0 auto; padding: 32px 20px 64px; }}
+  a.back {{ font-size: 13px; color: #52514e; text-decoration: none; }}
+  h1 {{ font-size: 16px; font-weight: 600; margin: 12px 0 16px; word-break: break-all; }}
+  textarea {{ width: 100%; height: 70vh; font-family: ui-monospace, "SF Mono", Menlo, monospace;
+              font-size: 13px; line-height: 1.5; padding: 12px; box-sizing: border-box;
+              border: 1px solid rgba(11,11,11,0.15); border-radius: 8px; }}
+  button {{ margin-top: 12px; padding: 8px 18px; font-size: 14px; border-radius: 8px;
+            border: 1px solid rgba(11,11,11,0.15); background: #1baf7a; color: #fff; cursor: pointer; }}
+  .notice {{ font-size: 13px; padding: 8px 12px; border-radius: 8px; }}
+  .notice.good {{ background: rgba(27,175,122,0.15); }}
+  .notice.warn {{ background: rgba(235,104,52,0.15); }}
+</style>
+</head>
+<body>
+<div class="root">
+  <a class="back" href="/health.html">&larr; Back to Wiki Health</a>
+  <h1>{html.escape(rel_path)}</h1>
+  {notice}
+  <form method="post" action="/save-page">
+    <input type="hidden" name="path" value="{html.escape(rel_path)}">
+    <input type="hidden" name="mtime" value="{mtime}">
+    <textarea name="content" spellcheck="false">{html.escape(content)}</textarea>
+    <br>
+    <button type="submit">Save</button>
+  </form>
+</div>
+</body>
+</html>"""
+        self._respond_html(200, body)
+
+    def _handle_save_page(self, form: dict) -> None:
+        rel_path = form.get("path", [""])[0]
+        new_content = form.get("content", [""])[0]
+        try:
+            expected_mtime = float(form.get("mtime", ["0"])[0])
+        except ValueError:
+            expected_mtime = 0.0
+
+        target = _resolve_editable_path(rel_path)
+        if target is None:
+            self._respond(404, "Not found, or not an editable wiki page.", redirect_to="/health.html")
+            return
+
+        # Conflict guard: if something else (an enrich.py batch, the
+        # scraper, another browser tab) wrote this file since this edit
+        # page was opened, don't silently clobber it — redirect back to
+        # /edit with conflict=1 so the human sees the real current content
+        # and has to consciously re-apply their edit on top of it.
+        current_mtime = target.stat().st_mtime
+        if abs(current_mtime - expected_mtime) > 0.5:
+            self.send_response(303)
+            self.send_header("Location", f"/edit?path={urllib.parse.quote(rel_path)}&conflict=1")
+            self.end_headers()
+            return
+
+        target.write_text(new_content, encoding="utf-8")
+        self._respond(200, "Saved.", redirect_to=f"/edit?path={urllib.parse.quote(rel_path)}&saved=1")
 
     def _handle_delete_run(self, form: dict) -> None:
         run_id = (form.get("run_id", [""])[0] or "").strip()
@@ -806,34 +1037,85 @@ class Handler(SimpleHTTPRequestHandler):
         self.wfile.write(body.encode("utf-8"))
 
 
+def _load_scrape_history() -> list:
+    """Mirrors run_scrape_batch.py's own _load_history() — duplicated per
+    this project's self-contained-module convention (each script that reads
+    .scrape_history.json owns its own tiny loader rather than importing
+    run_scrape_batch.py, which pulls in discover_articles.py/fetch_article.py
+    and their venv-only deps that this server, running under system python,
+    doesn't have)."""
+    if not SCRAPE_HISTORY_PATH.exists():
+        return []
+    try:
+        return json.loads(SCRAPE_HISTORY_PATH.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return []
+
+
 def _ensure_scrape_page_exists() -> None:
-    """scrape.html is normally written by run_scrape_batch.py's own
-    _save_state() the first time a batch actually runs — a droplet where
-    none ever has (a fresh provision, or one that's only used
-    eval_harness.py run/auto-optimize so far) has no such file at all, and
-    SimpleHTTPRequestHandler serves a bare 404 for it with no indication
-    anything is wrong or what to do next. Write a placeholder "nothing has
-    run yet, here's the launch form" page at startup so /scrape.html always
-    resolves to something useful."""
+    """scrape.html is normally (re)written by run_scrape_batch.py's own
+    _save_state() while a batch is actually running — between batches
+    nothing ever touches it again, which used to mean a `git pull` +
+    service restart to pick up a scrape_report.py template change had no
+    visible effect until the next real scrape ran: confusing enough, live,
+    that it's worth this comment. So this now unconditionally re-renders
+    scrape.html from whatever .scrape_state.json currently holds (a no-op
+    on the state itself — render_html() is a pure function of it — so this
+    can never lose real progress, it just re-applies the current template
+    code to it) every time the service starts, i.e. every deploy. A
+    droplet where no batch has ever run has no state file, so this
+    correctly falls back to an empty/placeholder render, same as before."""
     RUNS_DIR.mkdir(parents=True, exist_ok=True)
-    scrape_page = RUNS_DIR / "scrape.html"
-    if scrape_page.exists():
-        return
     state = {}
     if SCRAPE_STATE_PATH.exists():
         try:
             state = json.loads(SCRAPE_STATE_PATH.read_text(encoding="utf-8"))
         except (json.JSONDecodeError, OSError):
             state = {}
-    scrape_page.write_text(scrape_report.render_html(state), encoding="utf-8")
+    (RUNS_DIR / "scrape.html").write_text(
+        scrape_report.render_html(state, history=_load_scrape_history()), encoding="utf-8")
+
+
+def _ensure_home_page_exists() -> None:
+    """index.html is the actual dashboard home now (see home_report.py's
+    docstring for why), written alongside optimizer.html by
+    eval_harness.py's generate_index(). Re-running that at every service
+    start (not just when index.html happens to be missing) means a deploy
+    that changes home_report.py/index_report.py's templates is visible
+    immediately, the same fix as _ensure_scrape_page_exists() above and
+    for the identical reason — this uses the real, authoritative
+    regeneration path (_regenerate_index(), already used after every
+    stop/delete/rerun action) rather than a separate reimplementation that
+    would have to duplicate its run-counting logic to avoid regressing the
+    displayed count back to zero on every restart."""
+    RUNS_DIR.mkdir(parents=True, exist_ok=True)
+    _regenerate_index()
+
+
+def _ensure_health_page_exists() -> None:
+    """health.html is normally kept fresh by wiki_health_check.write_dashboard_page()
+    — called after every enrich.py batch, every scraper ingest batch (via
+    run_scrape_batch.py's chained health-check step), and the nightly
+    systemd timer. But a droplet where none of those has run yet since the
+    last deploy would otherwise 404 here, and (same reasoning as
+    _ensure_scrape_page_exists/_ensure_home_page_exists above) a deploy
+    that changes health_report.py's template should be visible immediately
+    on restart rather than waiting for the next batch. skip_doi=True: this
+    is a live scan at service-start time, not the nightly full check — no
+    Crossref calls, so it stays fast even on a large wiki."""
+    RUNS_DIR.mkdir(parents=True, exist_ok=True)
+    result = wiki_health_check.run(skip_doi=True)
+    wiki_health_check.write_dashboard_page(result)
 
 
 def main() -> None:
     _ensure_scrape_page_exists()
+    _ensure_home_page_exists()
+    _ensure_health_page_exists()
     server = ThreadingHTTPServer(("127.0.0.1", PORT), Handler)
     print(f"Serving {RUNS_DIR} on http://127.0.0.1:{PORT} "
           f"(static files + POST /launch-auto-optimize, /delete-run, /rerun-run, /set-current-version, "
-          f"/launch-scrape, /stop-scrape) — scraper progress at /scrape.html")
+          f"/launch-scrape, /stop-scrape) — scraper progress at /scrape.html, wiki health at /health.html")
     server.serve_forever()
 
 

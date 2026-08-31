@@ -15,6 +15,8 @@ sources:
 
 # Structured Discussion
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Structured discussion is the element in which talk is guided by prompts, roles, turns, protocols, or evidence requirements rather than left entirely open. It is useful when the goal is to make discussion more equitable, rigorous, and productive.
 
@@ -54,5 +56,5 @@ Structured discussion is the element in which talk is guided by prompts, roles, 
 - A protocol that requires claim, evidence, and response before open discussion.
 
 ## Key Sources
-- Michaels, S., O'Connor, C., & Resnick, L. B. (2008). *Deliberative discourse idealized and realized: Accountable talk in the classroom and in civic life*. Studies in Philosophy and Education.
+- Michaels, S., O'Connor, C., & Resnick, L. B. (2008). *Deliberative discourse idealized and realized: Accountable talk in the classroom and in civic life*. Studies in Philosophy and Education. [doi:10.1007/s11217-007-9071-1](https://doi.org/10.1007/s11217-007-9071-1)
 - Mercer, N., Dawes, L., Wegerif, R., & Sams, C. (2004). Reasoning as a scientist: Ways of helping children to use language to learn science. *British Educational Research Journal, 30*(3), 359-377. [https://doi.org/10.1080/01411920410001689689](https://doi.org/10.1080/01411920410001689689)

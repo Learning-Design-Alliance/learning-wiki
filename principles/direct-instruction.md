@@ -15,6 +15,8 @@ sources:
 
 # Direct Instruction
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Direct instruction is the principle of teaching explicitly through clear explanation, modeling, guided practice, and feedback.
 

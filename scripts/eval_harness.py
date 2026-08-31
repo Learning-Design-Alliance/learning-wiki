@@ -110,7 +110,7 @@ _load_secrets_env()
 sys.path.insert(0, str(Path(__file__).parent.parent))
 from scripts.eval import (fetch_article, openrouter_client, validator, judge, failure_analysis, html_report,
                           executive_summary, cost_projection, history, prompts, optimizer, model_catalog,
-                          auto_optimize_report, index_report, consistency)
+                          auto_optimize_report, index_report, consistency, home_report)
 from scripts.eval.jsonutil import extract_json, JSONExtractionError
 
 RUN_CONFIG_PATH = WIKI_ROOT / "deploy" / "run-config.env"
@@ -221,7 +221,8 @@ def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
     for attempt in range(max_correction_attempts + 1):
         try:
             gen = openrouter_client.generate(model, system_prompt, current_prompt, api_key, max_tokens=max_tokens,
-                                              disable_reasoning=model_catalog.needs_reasoning_disabled(model))
+                                              disable_reasoning=model_catalog.needs_reasoning_disabled(model),
+                                              reasoning_effort=model_catalog.reasoning_effort_for(model))
         except openrouter_client.GenerationError as e:
             record["generation"] = {"error": str(e)}
             return record
@@ -307,7 +308,8 @@ def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
         def _one_comparison_sample():
             extra_gen = openrouter_client.generate(
                 model, system_prompt, original_user_prompt, api_key, max_tokens=max_tokens,
-                disable_reasoning=model_catalog.needs_reasoning_disabled(model))
+                disable_reasoning=model_catalog.needs_reasoning_disabled(model),
+                reasoning_effort=model_catalog.reasoning_effort_for(model))
             extra_parsed = extract_json(extra_gen.raw_text)
             return extra_gen.cost_usd or 0, consistency.extraction_identifier_set(extra_parsed)
 
@@ -550,6 +552,35 @@ def run_batch(models: list, articles: list, judges: list, run_id: str, api_key: 
     return run_dir
 
 
+SCRAPE_STATE_PATH = RUNS_DIR / ".scrape_state.json"
+
+
+def _resync_scrape_state_if_matching(run_id: str) -> None:
+    """If run_id matches the label of the currently-tracked scrape batch
+    (eval/runs/.scrape_state.json, written by run_scrape_batch.py), marks it
+    completed — closing the gap where a scrape batch's chained generation
+    step crashes, or someone resumes it by hand with `run --run-id <that
+    label>` (bypassing run_scrape_batch.py entirely, e.g. after a crash),
+    and the state file is left permanently frozen at whatever it last said
+    even though the real work went on to finish successfully here instead.
+    A no-op if there's no scrape state file, or its label doesn't match this
+    run — most `run` invocations aren't a scrape batch's generation step at
+    all, and this must never be the thing that decides that; it only
+    resyncs a match it already finds recorded."""
+    if not SCRAPE_STATE_PATH.exists():
+        return
+    try:
+        state = json.loads(SCRAPE_STATE_PATH.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return
+    if state.get("label") != run_id:
+        return
+    state["status"] = "completed"
+    state["finished_at"] = datetime.now(timezone.utc).isoformat()
+    state["error_detail"] = None
+    SCRAPE_STATE_PATH.write_text(json.dumps(state, indent=2), encoding="utf-8")
+
+
 def cmd_run(args: argparse.Namespace) -> None:
     api_key = os.environ.get("OPENROUTER_API_KEY")
     if not api_key:
@@ -562,15 +593,34 @@ def cmd_run(args: argparse.Namespace) -> None:
     if args.limit:
         articles = articles[:args.limit]
 
-    run_batch(args.models, articles, args.judges, run_id, api_key,
-              gpt_judge_model=args.gpt_judge_model, gemini_judge_model=args.gemini_judge_model,
-              max_tokens=args.max_tokens,
-              overwrite=args.overwrite, refresh_cache=args.refresh_cache,
-              prompt_version=args.prompt_version, concurrency=args.concurrency,
-              max_correction_attempts=args.max_correction_attempts,
-              retry_errors_only=args.retry_errors_only, ground_truth=args.ground_truth,
-              require_source_quotes=args.require_source_quotes,
-              consistency_samples=args.consistency_samples, subclaim_judging=args.subclaim_judging)
+    # Tees stdout/stderr into eval/runs/<run_id>/.console.log — same
+    # _ConsoleTee pattern as auto-optimize's own console log (see that
+    # class's docstring), but keyed per run-id rather than one global
+    # singleton, so scrape_report.py's live console can find THIS run's
+    # output by run-id regardless of whether it was launched through the
+    # scraper's web form or by hand on the command line — see that file's
+    # _live_console_html() for the matching client-side lookup.
+    run_dir = RUNS_DIR / run_id
+    run_dir.mkdir(parents=True, exist_ok=True)
+    console_log_file = open(run_dir / ".console.log", "w", encoding="utf-8")
+    orig_stdout, orig_stderr = sys.stdout, sys.stderr
+    sys.stdout = _ConsoleTee(orig_stdout, console_log_file)
+    sys.stderr = _ConsoleTee(orig_stderr, console_log_file)
+    try:
+        run_batch(args.models, articles, args.judges, run_id, api_key,
+                  gpt_judge_model=args.gpt_judge_model, gemini_judge_model=args.gemini_judge_model,
+                  max_tokens=args.max_tokens,
+                  overwrite=args.overwrite, refresh_cache=args.refresh_cache,
+                  prompt_version=args.prompt_version, concurrency=args.concurrency,
+                  max_correction_attempts=args.max_correction_attempts,
+                  retry_errors_only=args.retry_errors_only, ground_truth=args.ground_truth,
+                  require_source_quotes=args.require_source_quotes,
+                  consistency_samples=args.consistency_samples, subclaim_judging=args.subclaim_judging)
+    finally:
+        sys.stdout, sys.stderr = orig_stdout, orig_stderr
+        console_log_file.close()
+
+    _resync_scrape_state_if_matching(run_id)
 
     print(f"\nDone. Run report with: python3 scripts/eval_harness.py report --run-id {run_id}")
 
@@ -1100,10 +1150,11 @@ def _generate_index_locked(verbose: bool) -> None:
     except FileNotFoundError:
         live_prompt_version = None
 
-    index_path = RUNS_DIR / "index.html"
+    index_path = RUNS_DIR / "optimizer.html"
     index_path.write_text(
         index_report.render_html(run_summaries, history_rows, auto_optimize_state, live_prompt_version),
         encoding="utf-8")
+    (RUNS_DIR / "index.html").write_text(home_report.render_html(len(run_summaries)), encoding="utf-8")
     if verbose:
         print(f"Wrote {index_path.relative_to(WIKI_ROOT)} ({len(run_summaries)} run(s))")
 
@@ -1420,9 +1471,14 @@ def cmd_optimize(args: argparse.Namespace) -> None:
 
         delta = result["avg_score_delta"]
         if delta is not None and delta >= args.min_improvement:
-            prompts.set_current_version(new_version)
-            print(f"IMPROVED: avg judge-score delta {delta:+.2f} >= threshold {args.min_improvement} — "
-                  f"{new_version} is now the current default prompt.")
+            if args.no_promote_current:
+                print(f"IMPROVED: avg judge-score delta {delta:+.2f} >= threshold {args.min_improvement} — "
+                      f"{new_version} adopted for this chain, but --no-promote-current is set so the shared "
+                      f"CURRENT pointer was NOT moved.")
+            else:
+                prompts.set_current_version(new_version)
+                print(f"IMPROVED: avg judge-score delta {delta:+.2f} >= threshold {args.min_improvement} — "
+                      f"{new_version} is now the current default prompt.")
             current_run_id = new_run_id
         else:
             shown = f"{delta:+.2f}" if delta is not None else "unknown (no model scored in both runs)"
@@ -1817,13 +1873,18 @@ def _run_auto_optimize_loop(args: argparse.Namespace) -> None:
         # anyone who wants to deliberately explore through a dip.
         adopted = args.allow_regression or (delta is not None and delta >= args.min_improvement)
         if adopted:
-            prompts.set_current_version(new_version)
-            if delta is not None and delta >= args.min_improvement:
-                print(f"IMPROVED: avg judge-score delta {delta:+.2f} >= threshold {args.min_improvement} — "
-                      f"{new_version} is now the current default prompt.")
-            else:
+            if args.no_promote_current:
                 shown = f"{delta:+.2f}" if delta is not None else "unknown (no model scored in both runs)"
-                print(f"--allow-regression set — advancing to {new_version} anyway despite delta {shown}.")
+                print(f"ADOPTED (chain only): delta {shown} — {new_version} becomes this chain's baseline, "
+                      f"but --no-promote-current is set so the shared CURRENT pointer was NOT moved.")
+            else:
+                prompts.set_current_version(new_version)
+                if delta is not None and delta >= args.min_improvement:
+                    print(f"IMPROVED: avg judge-score delta {delta:+.2f} >= threshold {args.min_improvement} — "
+                          f"{new_version} is now the current default prompt.")
+                else:
+                    shown = f"{delta:+.2f}" if delta is not None else "unknown (no model scored in both runs)"
+                    print(f"--allow-regression set — advancing to {new_version} anyway despite delta {shown}.")
             current_run_id = new_run_id
         else:
             shown = f"{delta:+.2f}" if delta is not None else "unknown (no model scored in both runs)"
@@ -2001,6 +2062,13 @@ def main() -> None:
     p_opt.add_argument("--iterations", type=int, default=1, help="Max propose/re-run rounds (default: 1)")
     p_opt.add_argument("--min-improvement", type=float, default=0.0,
                         help="Minimum avg judge-score delta to adopt a candidate as the new current prompt (default: 0.0, i.e. any improvement)")
+    p_opt.add_argument("--no-promote-current", action="store_true",
+                        help="Keep adopting/building the chain locally round-to-round, but never call "
+                             "prompts.set_current_version() — i.e. never move the shared CURRENT pointer "
+                             "every other model in the roster runs against. Use this whenever --models is a "
+                             "subset of the full roster (e.g. tuning a prompt for one model's quirks): "
+                             "without it, that model's own improving score silently promotes a prompt to "
+                             "production that was never tested against anything else in the roster.")
     p_opt.add_argument("--run-id-prefix", default="optimize", help="New runs are named <prefix>-<version>, e.g. optimize-v3")
 
     p_auto = subparsers.add_parser(
@@ -2042,6 +2110,16 @@ def main() -> None:
                          help="Adopt every round's revision unconditionally, even if it scores worse than "
                               "the previous baseline (the old default). Off by default — real usage showed "
                               "this compounds regressions rather than recovering from them.")
+    p_auto.add_argument("--no-promote-current", action="store_true",
+                         help="Keep adopting/building the chain locally round-to-round, but never call "
+                              "prompts.set_current_version() — i.e. never move the shared CURRENT pointer "
+                              "every other model in the roster runs against. Use this whenever --models is a "
+                              "subset of the full roster (e.g. tuning a prompt for one model's quirks): "
+                              "without it, that model's own improving score silently promotes a prompt to "
+                              "production that was never tested against anything else in the roster. Real "
+                              "incident this was built to fix: a GLM-only auto-optimize chain (2026-08-27) "
+                              "repeatedly promoted CURRENT to versions tuned around GLM-specific failure "
+                              "modes that no other model in the roster had ever been tested against.")
     p_auto.add_argument("--rounds", type=int, default=3, help="Max rounds (default: 3)")
     p_auto.add_argument("--concurrency", type=int, default=6,
                          help="Max concurrent (model, article) generation calls within one round's test "

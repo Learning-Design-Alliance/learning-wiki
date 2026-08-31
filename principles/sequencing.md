@@ -10,6 +10,8 @@ generated:
 
 # Sequencing
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Sequencing is the principle of arranging instructional content, tasks, or supports in an order that helps learners build understanding progressively. It is useful when learning depends on the order in which complexity, support, and ideas are introduced.
 
@@ -44,4 +46,4 @@ Sequencing matters because the same content can feel coherent or overwhelming de
 - A carpentry course teaches tool setup and key subskills before asking learners to complete a full cabinet build, then integrates the pieces into a whole-task performance.
 
 ## Key Sources
-- Reigeluth, C. M. (1979). In search of a better way to organize instruction. *Journal of Instructional Development, 2*(3), 8-15.
+- Reigeluth, C. M. (1979). In search of a better way to organize instruction. *Journal of Instructional Development, 2*(3), 8-15. [doi:10.1007/bf02984374](https://doi.org/10.1007/bf02984374)

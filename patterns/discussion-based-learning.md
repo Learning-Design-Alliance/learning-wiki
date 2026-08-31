@@ -17,6 +17,8 @@ grain_size: lesson
 
 # Discussion-Based Learning
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Discussion-Based Learning is a pattern in which understanding is built through structured conversation rather than one-way presentation alone. Learners make claims, test interpretations, compare perspectives, and refine ideas through dialogue guided by prompts, norms, and facilitation moves.
 

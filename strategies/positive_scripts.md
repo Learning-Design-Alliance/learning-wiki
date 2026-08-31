@@ -1,64 +1,72 @@
 ---
 type: strategy
 title: Positive Scripts
-description: Creating positive scripts involves regularly constructing and narrating uplifting stories with a positive outline, visualizing goals as already achieved to internalize them.
+description: Regularly constructing and narrating uplifting first-person stories in which goals are visualized as already achieved, to replace limiting self-narratives and internalize desired outcomes.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
 # Positive Scripts
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
-Creating positive scripts involves regularly constructing and narrating uplifting stories with a positive outline, visualizing goals as already achieved to internalize them. This exercise aims to replace negative thought patterns with a drama that is trapping and limiting the individual. It supports the internalization of goals and dreams as if they have already been achieved, fostering a sense of accomplishment and enhancing motivation.
+Positive Scripts are first-person narratives, written or spoken by the learner, that depict a desired future as already realized ("I passed the exam because I studied steadily each evening"). The practice draws on self-talk and mental imagery traditions: learners rehearse an affirmative internal story repeatedly, aiming to displace self-defeating narratives and strengthen expectancy of success. It is typically scheduled as a brief daily or pre-task ritual.
 
 ## Design Implications
 
+Positive Scripts target self-efficacy and outcome expectancy, both of which predict persistence and engagement [Bandura's self-efficacy theory links efficacy beliefs to effort and persistence.](../theories/social-learning-theory.md) [+S]. However, the evidence cautions strongly against pure positive fantasizing: imagining only the desired end-state can drain motivation by delivering the reward mentally before any work is done [Positive fantasies predict lower effort and achievement than mental contrasting.](https://doi.org/10.1037/a0034777) [-S]. Scripts are therefore most defensible when they emphasize the *process* — the actions the learner took — rather than only the outcome [Process goals outperform outcome goals for novices.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M].
+
 ### Context
 #### Requirements
-- Requires consistent practice and willingness to engage in positive visualization. May benefit from external support such as therapy or coaching to address underlying beliefs. Access to resources such as script templates, visualization exercises, or guided meditations can be helpful.
+- A specific, plausible goal the learner has genuinely chosen (imposed scripts ring hollow and undermine autonomy)
+- First-person, present- or past-tense phrasing that names concrete actions and strategies, not just outcomes
+- Regular repetition, ideally tied to an existing routine (start of study session, before bed)
+- A companion planning step so the script connects to real behavior ([Goal Setting](../elements/goal-setting.md) or implementation intentions)
+
 #### Constraints
-- May feel unnatural or unrealistic at first, particularly for individuals with deeply ingrained negative self-perceptions. May not be effective if not accompanied by genuine belief and emotional engagement. Can be challenging to maintain consistency in the face of significant stress or adversity.
+- Outcome-only scripts ("I aced it") reduce energization and effort relative to mentally contrasting desired futures with present obstacles [Positive fantasies predict lower effort and achievement than mental contrasting.](https://doi.org/10.1037/a0034777) [-S]
+- Scripts that contradict a learner's lived evidence can backfire, producing resistance or lowered self-esteem when persuasive claims exceed perceived capability [~M]
+- For novices, focusing on outcomes rather than the strategies that produce them shifts attention away from process learning [Process goals outperform outcome goals for novices.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M]
+- Little direct experimental evidence supports scripted affirmations as a standalone learning intervention; much of the support is indirect, via self-efficacy and mental practice literatures [+W]
+
 #### Implementation Variability
-- <!-- TODO -->
+- **Written journaling** — a short daily paragraph; slower but more elaborative
+- **Pre-task verbal script** — 30–60 seconds spoken before studying or performing, akin to mental practice routines
+- **Process-narrative variant** — script recounts the *work* ("I worked through three practice problems and checked my errors"), aligning with mental-practice findings that imagery of execution, not just results, benefits performance [Mental practice reliably enhances performance, especially when it includes cognitive elements.](https://doi.org/10.1037/0033-2909.116.2.353) [+M]
+- **Mental-contrasting hybrid** — pair the script with naming a present obstacle and an if-then plan (WOOP), converting fantasy into implementable intention
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- All learner levels, particularly useful for individuals prone to negative thought patterns, self-doubt, or lack of motivation.
+- Learners with low self-efficacy who avoid challenge or disengage after early failure [+M]
+- Adolescents and adults; young children may struggle with the counterfactual framing
+- Less suitable for learners who already hold unrealistically positive expectations, where the fantasy component adds no corrective value [-W]
 
 ### Target Learning Goals
-<!-- Link to sub-claims -->
-- Replace negative thoughts with positive narratives, internalize goals and dreams, enhance motivation, foster a sense of accomplishment, promote positive visualization.
-
-### Affordances
-- Enhances motivation by visualizing goals as already achieved. Influences subconscious mind by repeatedly reinforcing positive outcomes. Fosters a growth mindset by encouraging learners to focus on their potential. Increases self-esteem by promoting a more positive self-perception.
-
-### Personalization
-- Can be adapted with customized scripts tailored to individual goals and aspirations. Flexible practice allows for integration into daily routines through journaling, visualization exercises, or verbal storytelling. Scaffolding can be provided for beginners, such as guided prompts or script templates.
+- Motivational and affective goals: persistence, anxiety management, task initiation
+- Self-regulation: building an internal narrative that supports sustained study behavior [Self-regulated learning links self-talk and goal framing to strategy use.](../theories/self-regulated-learning.md) [+M]
+- Not a substitute for cognitive or skill-based goals; scripts support the *willingness* to practice, not the practice itself
 
 ### Instructions
-<!-- Steps with links to elements -->
-- [Provide guidance](../elements/provide-guidance.md)
-- [Practice](../elements/practice.md)
-
-## Assessment Evidence
-- Track changes in self-reported motivation and optimism using questionnaires or journals. Observe improvements in mood, goal-setting, and goal-achievement. Analyze the level of detail and emotional engagement in the created scripts.
-
-## Impact
-- Research suggests that positive visualization can enhance motivation, improve performance, and promote goal achievement (e.g., Psychology Today). Studies show that mental imagery can activate brain regions associated with planning and action. Regular practice has been linked to increased confidence and a more positive outlook.
+1. Help the learner name one specific, self-chosen goal and the concrete actions that would achieve it.
+2. Have the learner draft a short first-person script narrating those actions as accomplished, in vivid but plausible detail.
+3. Pair the script with an obstacle check: identify the main obstacle and an if-then plan for it (mental contrasting).
+4. Schedule brief daily repetition tied to an existing routine, before the relevant task where possible.
+5. Periodically revise the script as evidence accumulates, so it stays anchored to real progress rather than drifting into fantasy.
 
 ## Related Strategies
-- <!-- TODO -->
-
-## Related Elements
-- <!-- TODO -->
-
-## Tools
-- <!-- TODO -->
+- [Mental Contrasting with Implementation Intentions](mental-contrasting-with-implementation-intentions.md) — the evidence-based counterpart that converts positive future thinking into plans
+- [Self-Talk](self-talk.md) — the broader family of instructional self-statements from which scripts derive
+- [Goal Setting](../elements/goal-setting.md) — supplies the specific, process-level content scripts should narrate
 
 ## Examples
-- An individual preparing for a job interview creates a positive script in which they confidently answer questions, impress the interviewer, and receive a job offer. A student facing academic challenges visualizes themselves successfully completing assignments, achieving good grades, and excelling in their studies. Resource: Psychology Today – The Power of Visualization.
+- **WOOP (Wish–Outcome–Obstacle–Plan)**, Gabriele Oettingen's structured routine used in schools and health programs ([https://woopmylife.org](https://woopmylife.org)) — pairs a positive future image with obstacle planning, avoiding the demotivation of pure fantasy.
+- **Sport psychology pre-performance routines** — athletes combine process-focused imagery scripts with self-talk before competition; meta-analytic evidence supports mental practice for motor and cognitive tasks [Driskell, Copper, & Moran (1994)](https://doi.org/10.1037/0033-2909.116.2.353).
+- **Writing-center confidence interventions** — students draft short "success narratives" before high-stakes writing tasks, framed around the strategies they will use rather than the grade they will receive.
 
 ## Key Sources
-- <!-- TODO -->
+- Oettingen, G. (2014). Rethinking positive thinking: Inside the new science of motivating what we want. *Current Directions in Psychological Science, 23*(4), 289–294. [doi:10.1037/a0034777](https://doi.org/10.1037/a0034777)
+- Bandura, A. (1997). *Self-efficacy: The exercise of control.* W. H. Freeman.
+- Driskell, J. E., Copper, C., & Moran, A. (1994). Does mental practice enhance performance? *Journal of Applied Psychology, 79*(4), 481–492. [doi:10.1037/0021-9010.79.4.481](https://doi.org/10.1037/0021-9010.79.4.481)
+- Kappes, H.-B., & Oettingen, G. (2011). Positive fantasies about idealized futures sap energy. *Journal of Experimental Social Psychology, 47*(4), 719–729. [doi:10.1016/j.jesp.2011.02.003](https://doi.org/10.1016/j.jesp.2011.02.003)

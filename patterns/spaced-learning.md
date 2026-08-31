@@ -11,6 +11,8 @@ grain_size: course
 
 # Spaced Learning
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Spaced learning is the short-form canonical pattern for distributing study and retrieval over time instead of massing it in one session.
 
@@ -24,4 +26,4 @@ Spaced learning is the short-form canonical pattern for distributing study and r
 - [Game-Based Mastery Learning](game-based-mastery-learning.md)
 
 ## Key Sources
-- Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks. *Psychological Bulletin, 132*(3), 354-380.
+- Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks. *Psychological Bulletin, 132*(3), 354-380. [doi:10.1037/0033-2909.132.3.354](https://doi.org/10.1037/0033-2909.132.3.354)

@@ -15,6 +15,8 @@ sources:
 
 # Collaborative Discussion
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Collaborative discussion is the element in which learners build understanding together through shared talk, comparison of ideas, and negotiated meaning. It is useful when the task requires collective reasoning rather than isolated response.
 

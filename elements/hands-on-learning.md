@@ -4,11 +4,13 @@ title: Hands-on Learning
 description: Hands-on learning is the element in which learners manipulate materials, tools, or environments directly while applying ideas in practice.
 status: review
 generated:
-  by: codex/unspecified
-  at: 2026-04-08
+  by: claude/unspecified
+  at: 2026-08-29
 ---
 
 # Hands-on Learning
+
+> **Element** · [All elements](index.md)
 
 ## Description
 Hands-on learning is the element in which learners manipulate materials, tools, or environments directly while applying ideas in practice. It is useful when understanding depends on doing, making, testing, or experiencing rather than only discussing.
@@ -23,6 +25,7 @@ Hands-on learning is the element in which learners manipulate materials, tools, 
 #### Constraints
 - **Activity without conceptual framing can stay procedural**
 - **Resource and space demands may limit implementation**
+- **Which materials are used is not an interchangeable implementation detail** — material affordances and cultural coding shape both conceptual learning and who feels invited to participate [Material choice shapes conceptual learning and who feels invited to learn](../claims/material-choice-shapes-conceptual-learning-and-participation.md) [+S]
 
 ### Target Learning Goals
 - Strengthen application, procedural fluency, and experiential understanding.
@@ -30,6 +33,8 @@ Hands-on learning is the element in which learners manipulate materials, tools, 
 ### Affordances
 - [Active Learning](../principles/active-learning.md)
 - [Experiential Learning](../principles/experiential-learning.md)
+- [Sociomaterial Agency of Tools](../theories/sociomaterial-agency-of-tools.md) — explains why material selection itself is a substantive design decision, not a neutral choice
+- [Broker-Facilitated Cross-Domain Integration](../strategies/broker-facilitated-cross-domain-integration.md) — for hands-on activities that require access to a specialized outside institution (a lab, a museum)
 
 ## Related Elements
 - [Application](application.md)

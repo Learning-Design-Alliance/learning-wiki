@@ -23,6 +23,8 @@ sources:
 
 # Instructor Accessibility
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Instructor accessibility is the principle that learners should be able to reach, understand, and get timely support from the instructor when they need it. Accessibility here is relational and instructional, not only physical or technical: it includes visibility, responsiveness, clarity about how to get help, and a learner's sense that asking for support will lead to a constructive response. This is especially important in asynchronous, blended, and adult learning contexts where learners may otherwise navigate challenge in isolation.
 

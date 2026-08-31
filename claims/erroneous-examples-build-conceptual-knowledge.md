@@ -20,6 +20,8 @@ evidence_strength: moderate
 
 # Erroneous examples improve conceptual understanding by forcing comparison with correct models.
 
+> **Claim** · [All claims](index.md)
+
 Studying a hypothetical peer's incorrect solution and being prompted to find, explain, and fix the error leads to deeper conceptual understanding, as it requires learners to discriminate between correct and incorrect features of a problem.
 
 ## Subclaims

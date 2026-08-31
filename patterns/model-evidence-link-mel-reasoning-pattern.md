@@ -21,6 +21,8 @@ grain_size: lesson
 
 # Model-Evidence Link (MEL) Reasoning Pattern
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 The Model-Evidence Link pattern structures reasoning by having learners compare competing models or explanations against available evidence, judge which links are strong or weak, and revise their conclusions accordingly. Rather than asking learners to memorize one correct explanation, the pattern gives them practice weighing evidence, examining fit, and making scientific or disciplinary reasoning visible.
 

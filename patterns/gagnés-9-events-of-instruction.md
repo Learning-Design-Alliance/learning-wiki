@@ -12,6 +12,8 @@ grain_size: lesson
 
 # Gagne's 9 Events of Instruction
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Gagne's 9 Events of Instruction is a structured lesson pattern that sequences attention, objectives, recall, presentation, guidance, practice, feedback, assessment, and transfer. It is a classic design for lessons where the instructor wants to move learners through a complete learning cycle with explicit support at each stage. The pattern is especially useful when content needs to be introduced clearly and practiced systematically within a bounded instructional sequence.
 

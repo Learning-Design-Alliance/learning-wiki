@@ -12,6 +12,8 @@ grain_size: unit
 
 # Learning-for-Use (LfU) Model
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Learning-for-Use is a pattern for designing inquiry so that knowledge is learned in response to a meaningful need and then refined through application. The model typically moves through three broad phases: motivate the need for new knowledge, support knowledge construction, and then refine that knowledge through use in a consequential task. The central idea is that knowledge becomes more retrievable and transferable when learners acquire it for a purpose rather than as isolated content.
 
@@ -100,4 +102,4 @@ LfU is especially useful when designers want inquiry to remain conceptually grou
 - Particularly useful when designers want learners to need the knowledge before formally learning it.
 
 ## Key Sources
-- Edelson, D. C. (2001). Learning-for-use: A framework for the design of technology-supported inquiry activities. *Journal of Research in Science Teaching, 38*(3), 355-385. [https://doi.org/10.1002/1098-2736(200103)38:3<355::AID-TEA1010>3.0.CO;2-M](https://doi.org/10.1002/1098-2736(200103)38:3<355::AID-TEA1010>3.0.CO;2-M)
+- Edelson, D. C. (2001). Learning-for-use: A framework for the design of technology-supported inquiry activities. *Journal of Research in Science Teaching, 38*(3), 355-385. [https://doi.org/10.1002/1098-2736(200103)38:3<355::aid-tea1010>3.0.co;2-m)38:3<355::AID-TEA1010>3.0.CO;2-M](https://doi.org/10.1002/1098-2736(200103)38:3<355::aid-tea1010>3.0.co;2-m)38:3<355::AID-TEA1010>3.0.CO;2-M)

@@ -10,6 +10,8 @@ generated:
 
 # Constructivist Learning
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Constructivist learning is the short-form canonical target for instructional links that emphasize learners actively building meaning through explanation, comparison, inquiry, and revision.
 

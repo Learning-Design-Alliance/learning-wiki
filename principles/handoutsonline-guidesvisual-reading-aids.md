@@ -15,6 +15,8 @@ sources:
 
 # Handouts/Online Guides/Visual Reading Aids
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Handouts, online guides, and visual reading aids support learning by externalizing structure, highlighting key information, and reducing the amount learners must infer or hold in working memory while reading. They can take the form of annotated handouts, reading guides, visual cues, glosses, diagrams, highlighted sections, or structured digital supports. Their main value is not decoration but orientation: they help learners see what matters, where to look, and how parts of a text or task fit together.
 
@@ -72,5 +74,5 @@ Handouts, online guides, and visual reading aids are most useful when learners w
 
 ## Key Sources
 - Carlson, R., Padron, K., & Andrews, C. (2018). Evidence-based instructional strategies for adult learners: A review of the literature. *Codex, 4*(4), 29-47.
-- Osborne, H. (2006). Health literacy: How visuals can help tell the healthcare story. *Journal of Visual Communication in Medicine, 29*(1), 28-32. [https://doi.org/10.1080/17453050600572889](https://doi.org/10.1080/17453050600572889)
+- Osborne, H. (2006). Health literacy: How visuals can help tell the healthcare story. *Journal of Visual Communication in Medicine, 29*(1), 28-32. [https://doi.org/10.1080/01405110600772830](https://doi.org/10.1080/01405110600772830)
 - Mellar, H., Kambouri, M., Sanderson, M., & Pavlou, V. (2004). *ICT and adult literacy, numeracy and ESOL*. NRDC.

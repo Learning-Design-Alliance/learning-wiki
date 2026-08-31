@@ -10,6 +10,8 @@ generated:
 
 # Guided Inquiry
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Guided inquiry is the element in which learners investigate questions or problems with structured prompts, facilitator support, or staged resources that keep the inquiry productive. It is useful when the goal is inquiry with support rather than direct telling or unguided discovery.
 

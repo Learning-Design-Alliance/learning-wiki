@@ -15,6 +15,8 @@ sources:
 
 # Empathy Interviews
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Empathy interviews are structured, open-ended conversations designed to help educators or designers understand how learners experience school, work, systems, and support. Unlike a survey or diagnostic checklist, the goal is not only to collect facts but to hear how learners interpret challenges, strengths, motivations, and belonging in their own words. Used well, empathy interviews improve the instructor's model of the learner and can lead to more responsive supports, stronger relationships, and better alignment between instruction and lived reality.
 

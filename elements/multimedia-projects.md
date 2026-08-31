@@ -10,6 +10,8 @@ generated:
 
 # Multimedia Projects
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Multimedia projects are the element in which learners create artifacts that combine text, visuals, audio, video, or interaction.
 

@@ -23,6 +23,8 @@ sources:
 
 # Journaling
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Journaling is the practice of having learners write regularly to externalize thinking, notice experience, and make learning more visible to themselves or to an instructor. Journals can be reflective, dialogic, disciplinary, metacognitive, or affective, but the common mechanism is structured written sense-making. By writing about what they understand, what they are struggling with, and how new learning connects to prior experience, learners can process meaning more deliberately and track change over time.
 
@@ -80,5 +82,5 @@ Journaling helps when writing is used to inspect thinking rather than just recor
 
 ## Key Sources
 - Dunlap, J. C. (2006). Using guided reflective journaling activities to capture students' changing perceptions. *TechTrends, 50*(6), 20-26. [https://doi.org/10.1007/s11528-006-7614-x](https://doi.org/10.1007/s11528-006-7614-x)
-- Larrotta, C. (2009). Journaling in an adult ESL literacy program. *New Directions for Adult and Continuing Education, 121*, 35-44. [https://doi.org/10.1002/ace.325](https://doi.org/10.1002/ace.325)
-- Sage, M., & Sele, P. (2015). Reflective journaling as a flipped classroom technique to increase reading and participation with social work students. *Journal of Social Work Education, 51*(4), 668-681. [https://doi.org/10.1080/10437797.2015.1076264](https://doi.org/10.1080/10437797.2015.1076264)
+- Larrotta, C. (2009). Journaling in an adult ESL literacy program. *New Directions for Adult and Continuing Education, 121*, 35-44. [https://doi.org/10.1002/ace.323](https://doi.org/10.1002/ace.323)
+- Sage, M., & Sele, P. (2015). Reflective journaling as a flipped classroom technique to increase reading and participation with social work students. *Journal of Social Work Education, 51*(4), 668-681. [https://doi.org/10.1080/10437797.2015.1076274](https://doi.org/10.1080/10437797.2015.1076274)

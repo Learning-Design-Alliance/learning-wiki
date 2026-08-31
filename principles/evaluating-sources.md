@@ -15,6 +15,8 @@ sources:
 
 # Evaluating Sources
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Teaching adult learners how to systematically evaluate sources prepares them to navigate information in an increasingly complex, digital world. It is important to help adult learners understand why they need to evaluate the trustworthiness of a source, equip them with strategies to do so, and give them ample opportunities to practice these essential information and Digital Literacy skills. As learners develop skills and strategies for evaluating sources for authenticity and relevance, they are further developing their Reasoning and Metacognitive skills.
 
@@ -79,5 +81,5 @@ Evaluating sources improves learning when learners move beyond surface cues and 
 ## Key Sources
 - Wineburg, S., & McGrew, S. (2017). *Lateral reading: Reading less and learning more when evaluating digital information*.
 - Breakstone, J., McGrew, S., Smith, M., Ortega, T., & Wineburg, S. (2018). Why we need a new approach to teaching digital literacy. *Phi Delta Kappan, 99*(6), 27-32.
-- Rapchak, M. E., Lewis, L. A., Motyka, J. K., & Balmert, M. (2015). Information literacy and adult learners. *Adult Learning, 26*(4), 135-142. [doi:10.1177/1045159515594150](https://doi.org/10.1177/1045159515594150)
+- Rapchak, M. E., Lewis, L. A., Motyka, J. K., & Balmert, M. (2015). Information literacy and adult learners. *Adult Learning, 26*(4), 135-142. [doi:10.1177/1045159515594155](https://doi.org/10.1177/1045159515594155)
 - Afflerbach, P. A., & Cho, B. Y. (2010). Determining and describing reading strategies: Internet and traditional forms of reading. In *Metacognition, strategy use, and instruction*.

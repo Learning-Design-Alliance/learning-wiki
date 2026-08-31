@@ -10,6 +10,8 @@ generated:
 
 # Guided Practice
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Guided practice is the element in which learners attempt a task with active support before moving to independent work.
 

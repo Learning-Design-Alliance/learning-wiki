@@ -23,6 +23,8 @@ sources:
 
 # Whole-task performance
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Whole-task performance engages learners in authentic, complex tasks that integrate multiple skills and knowledge areas simultaneously, mirroring the conditions of real-world practice. Rather than decomposing learning into isolated components, this element requires learners to coordinate knowledge across domains while solving meaningful, non-trivial problems. 
 
@@ -77,8 +79,8 @@ Whole-task performance accelerates skill acquisition and transfer by embedding l
 - **[Stanford Law School Mills Legal Clinic](https://law.stanford.edu/mills-legal-clinic/)** — Students handle real client matters, requiring the synthesis of legal research, negotiation, drafting, and ethical judgment in a single workflow.
 
 ## Key Sources
-- Collins, A., Brown, J. S., & Newman, S. E. (1989). Cognitive apprenticeship: Teaching the crafts of reading, writing, and mathematics. In L. B. Resnick (Ed.), *Knowing, learning, and instruction: Essays in honor of Robert Glaser* (pp. 453–494). Lawrence Erlbaum Associates.
-- Lave, J., & Wenger, E. (1991). *Situated learning: Legitimate peripheral participation*. Cambridge University Press.
+- Collins, A., Brown, J. S., & Newman, S. E. (1989). Cognitive apprenticeship: Teaching the crafts of reading, writing, and mathematics. In L. B. Resnick (Ed.), *Knowing, learning, and instruction: Essays in honor of Robert Glaser* (pp. 453–494). Lawrence Erlbaum Associates. [doi:10.4324/9781315044408-14](https://doi.org/10.4324/9781315044408-14)
+- Lave, J., & Wenger, E. (1991). *Situated learning: Legitimate peripheral participation*. Cambridge University Press. [doi:10.2307/2804509](https://doi.org/10.2307/2804509)
 - Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development*, 50(3), 43–59. [https://doi.org/10.1007/BF02505024](https://doi.org/10.1007/BF02505024)
 - van Merriënboer, J. J. G. (2007). A brain-friendly approach to more effective training and instruction. *Journal of Workplace Learning*, 19(5), 340–352. [https://doi.org/10.1108/13665620710758110](https://doi.org/10.1108/13665620710758110)
 - van Merriënboer, J. J. G., & Kirschner, P. A. (2018). *Ten steps to complex learning: A systematic approach to four-component instructional design* (3rd ed.). Routledge. [https://doi.org/10.4324/9781315113210](https://doi.org/10.4324/9781315113210)

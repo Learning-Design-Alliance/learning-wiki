@@ -17,6 +17,8 @@ grain_size: unit
 
 # Summative Assessment
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Summative Assessment is the pattern-level target for end-of-sequence judgment of learner performance against defined expectations.
 

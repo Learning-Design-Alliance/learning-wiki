@@ -32,6 +32,8 @@ evidence_strength: moderate
 
 # Contingent scaffolding improves learning more than fixed or absent support.
 
+> **Claim** · [All claims](index.md)
+
 Contingent scaffolding adjusts the type and level of support in real time based on the learner's demonstrated understanding, rather than providing a fixed or predetermined sequence of help. Evidence supports this approach over non-contingent or no support, though the evidence base is small and the mechanism is contested.
 
 ## Subclaims
@@ -50,7 +52,7 @@ Primary evidence link: https://doi.org/10.1016/S0193-3973(99)80040-2
 
 ### Pratt and Savoy-Levine 1998
 
-Pratt, M. W., & Savoy-Levine, K. M. (1998). Contingent tutoring of long-division skills in fourth and fifth graders: Experimental tests of some hypotheses about scaffolding. *Journal of Applied Developmental Psychology, 19*(2), 287–304. [doi:10.1016/S0193-3973(99)80040-2](https://doi.org/10.1016/S0193-3973(99)80040-2)
+Pratt, M. W., & Savoy-Levine, K. M. (1998). Contingent tutoring of long-division skills in fourth and fifth graders: Experimental tests of some hypotheses about scaffolding. *Journal of Applied Developmental Psychology, 19*(2), 287–304. [doi:10.1016/s0193-3973(99)80041-0](https://doi.org/10.1016/s0193-3973(99)80041-0)
 
 `q3 · peer-reviewed quasi-experiment with intervention fidelity check` · `i2 · moderate effect` · `n=40 (N=8 per condition)`
 

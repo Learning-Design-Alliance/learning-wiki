@@ -19,6 +19,8 @@ sources:
 
 # Feedback Loops
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Feedback loops are the principle of using learner performance to generate information that changes the next action for the learner, the instructor, or the system. A loop is only complete when evidence leads to adjustment. The key design move is not merely telling learners how they did, but ensuring that the feedback, interpretation, and next attempt are connected closely enough to improve performance.
 

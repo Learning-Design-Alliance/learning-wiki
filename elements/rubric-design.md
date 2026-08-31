@@ -15,6 +15,8 @@ sources:
 
 # Rubric Design
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Rubric design is the element in which criteria and performance levels are made explicit through a structured evaluative framework. It is useful when learners or instructors need a shared standard for judging quality.
 

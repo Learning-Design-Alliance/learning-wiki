@@ -1,63 +1,76 @@
 ---
 type: strategy
 title: Modeling a Growth Mindset
-description: Teachers, like the students they teach, can learn to develop a growth mindset, but this requires careful planning by school management.
+description: School leaders and experienced educators deliberately demonstrate growth-mindset behaviors — treating challenges, errors, and feedback as learning opportunities — so that teachers and, in turn, their students adopt the same stance.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
 # Modeling a Growth Mindset
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
-Teachers, like the students they teach, can learn to develop a growth mindset, but this requires careful planning by school management. The most obvious way of applying a growth mindset to teacher professional development is through modeling. The key principle is encouraging teachers to see themselves as learners, and, just like students, they are all capable of learning and improving.
+Modeling a growth mindset means that leaders and teachers make their own learning processes visible: they voice uncertainty, attempt difficult tasks, respond to errors with analysis rather than judgment, and frame ability as developable. Teachers, like the students they teach, can learn to develop a growth mindset, but this requires careful planning by school management. The key principle is encouraging teachers to see themselves as learners who are capable of learning and improving — the stance is caught through observation before it is taught through instruction.
 
 ## Design Implications
 
+Modeling works through social learning: observers extract behavioral standards and efficacy beliefs from credible models, especially when the model is similar to them and demonstrates coping rather than mastery [Social learning theory.](../theories/social-learning-theory.md) [+M]. For teachers, the modeled behavior is metacognitive and dispositional — how one talks about mistakes, effort, and feedback — so the demonstration must be authentic and repeated, not a one-off workshop. Teacher self-efficacy, which grows through vicarious experience of peers succeeding, is a strong predictor of persistence with new practices [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M].
+
 ### Context
 #### Requirements
-- Requires school management to actively plan and support teacher professional development. Essential for creating a safe and supportive environment where teachers feel comfortable taking risks and making mistakes.
+- School management actively plans and supports professional development, creating a safe environment where teachers can take risks and make mistakes publicly
+- Leaders who *demonstrate* the stance themselves — sharing their own struggles and learning, not just endorsing the concept ([Demonstration](../elements/demonstration.md))
+- Narration that makes reasoning visible: leaders and mentor teachers verbalize how they interpret a failed lesson or critical feedback ([Think-Aloud](../elements/think-aloud.md))
+- Follow-on structures that let teachers practice the stance: peer observation, [Coaching](../elements/coaching.md) cycles, and collaborative analysis of student work
+- Feedback norms aligned with the model: critique targets strategies and process, not the person [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
+
 #### Constraints
-- Some educators may resist the idea of a growth mindset due to deeply ingrained beliefs about fixed abilities. Requires consistent reinforcement and a supportive school culture to be effective.
+- Some educators resist growth mindset due to deeply ingrained beliefs about fixed ability; a single intervention rarely shifts implicit theories [-W]
+- If leaders model growth language but evaluate teachers on fixed performance metrics, the modeling is discredited — perceived hypocrisy undermines vicarious learning [-M]
+- Praise framed as "you're a natural" or generic "you're so growth-minded" can backfire; process-focused framing is required [Process goals outperform outcome goals for novices.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M]
+- Requires consistent reinforcement and a supportive school culture; effects fade when the modeling is not embedded in routine structures like staff meetings and appraisal
+
 #### Implementation Variability
-- <!-- TODO -->
+- **Leader-led**: principals open staff meetings by sharing a current professional struggle and their learning plan
+- **Peer-led**: mentorship pairs or professional learning communities where teachers observe and debrief each other's risk-taking lessons
+- **Structured programs**: workshop-based PD (e.g., staff sessions based on Dweck's framework) combined with ongoing coaching rather than stand-alone training
+- **Classroom-facing**: teachers then model the same stance for students, narrating their own errors during instruction
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- Teachers and educators at all levels, especially those undergoing professional development or facing new challenges in their teaching practice
+- Teachers and educators at all levels, especially those undergoing professional development or facing new curricula and methods
+- Early-career teachers, who benefit most from vicarious efficacy built by watching similar peers succeed [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
+- Leaders and mentors, who must first internalize the stance before modeling it credibly
 
 ### Target Learning Goals
-<!-- Link to sub-claims -->
-- Promote professional growth among educators by encouraging them to see themselves as continuous learners, enhance their resilience, and foster a positive attitude towards professional development
-
-### Affordances
-- Helps educators embrace challenges and view mistakes as learning opportunities, which can lead to greater innovation and more effective teaching strategies. Encourages a culture of continuous improvement and collaboration among staff.
-
-### Personalization
-- Provide individualized support and mentorship for teachers who struggle with the concept of a growth mindset. Offer opportunities for teachers to share their own learning experiences and challenges with their peers.
+- Dispositional change: shifting implicit beliefs about the malleability of teaching ability
+- Resilience and persistence when facing professional challenges
+- Feedback literacy: interpreting critique as information rather than judgment
+- Transfer to classroom practice: teachers adopting the same modeling behaviors with students
 
 ### Instructions
-<!-- Steps with links to elements -->
-- [Demonstration](../elements/demonstration.md)
-
-## Assessment Evidence
-- Track participation and engagement in professional development activities. Observe changes in teacher attitudes toward challenges and new teaching methods. Collect feedback from teachers on their learning experiences and professional growth.
-
-## Impact
-- Teachers who model a growth mindset are more likely to create a classroom environment that supports student learning and resilience. Studies show that educators with a growth mindset are more effective in promoting student achievement and motivation.
+1. Leaders audit their own language and evaluation practices for fixed-mindset signals before introducing the initiative.
+2. Leaders and mentor teachers publicly model learning behavior — narrating struggles, errors, and revision processes ([Demonstration](../elements/demonstration.md), [Think-Aloud](../elements/think-aloud.md)).
+3. Establish feedback norms that critique strategy and process rather than the person [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
+4. Pair teachers in [Coaching](../elements/coaching.md) or peer-observation cycles where risk-taking lessons are analyzed collaboratively.
+5. Embed the stance in routine structures — staff meetings, appraisal conversations, PD planning — so reinforcement is continuous rather than episodic.
+6. Support teachers in transferring the model to their classrooms, with students observing the same narrated learning behaviors.
 
 ## Related Strategies
-- <!-- TODO -->
-
-## Related Elements
-- <!-- TODO -->
-
-## Tools
-- <!-- TODO -->
+- Peer mentoring and coaching cycles — provide the vicarious experience that builds teacher efficacy
+- Collaborative analysis of student work — enacts process-focused feedback norms among staff
+- Classroom think-aloud modeling — the student-facing extension of the same stance
 
 ## Examples
-- A school principal shares their personal experiences of overcoming challenges in their career, emphasizing the importance of continuous learning and adaptation. Resource: Gerstein, Jackie. "The Educator with a Growth Mindset: A Staff Workshop."
+- A school principal opens each staff meeting by sharing a current professional challenge, what they tried, what failed, and what they are learning — normalizing error analysis at the top of the hierarchy.
+- **Mindset Works' educator programs** (https://www.mindsetworks.com) combine staff workshops with ongoing practice structures so the stance is reinforced beyond a single training.
+- A professional learning community watches a colleague teach a risky new lesson, then debriefs the errors as design information — modeling the same response to error teachers should show students.
 
 ## Key Sources
-- <!-- TODO -->
+- Dweck, C. S. (2006). *Mindset: The new psychology of success*. Random House.
+- Yeager, D. S., & Dweck, C. S. (2012). Mindsets that promote resilience: When students believe that personal characteristics can be developed. *Educational Psychologist, 47*(4), 302–314. [doi:10.1080/00461520.2012.722805](https://doi.org/10.1080/00461520.2012.722805)
+- Rattan, A., Good, C., & Dweck, C. S. (2012). "It's ok — Not everyone can be good at math": Instructors with an entity theory comfort (and demotivate) students. *Journal of Personality and Social Psychology, 102*(4), 731–746. [doi:10.1016/j.jesp.2011.12.012](https://doi.org/10.1016/j.jesp.2011.12.012)
+- Tschannen-Moran, M., & Woolfolk Hoy, A. (2001). Teacher efficacy: Capturing an elusive construct. *Teaching and Teacher Education, 17*(7), 783–805. [doi:10.1016/S0742-051X(01)00036-1](https://doi.org/10.1016/S0742-051X(01)00036-1)
+- Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review, 84*(2), 191–215. [doi:10.1037/0033-295X.84.2.191](https://doi.org/10.1037/0033-295X.84.2.191)

@@ -17,6 +17,8 @@ grain_size: lesson
 
 # Merrill's First Principles (Application)
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 This page is the short-form canonical target for the application move within Merrill's First Principles: learners use new knowledge or skill with support, feedback, and increasingly independent performance.
 

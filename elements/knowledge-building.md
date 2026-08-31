@@ -10,6 +10,8 @@ generated:
 
 # Knowledge-Building
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Knowledge-building is the element in which learners collectively construct, refine, and extend ideas rather than only consume or repeat them. It is useful when the goal is shared understanding that improves through contribution and revision.
 
@@ -42,4 +44,4 @@ Knowledge-building is the element in which learners collectively construct, refi
 - Learners iteratively improve a shared explanation through discussion and evidence.
 
 ## Key Sources
-- Scardamalia, M., & Bereiter, C. (2006). Knowledge building. In R. K. Sawyer (Ed.), *The Cambridge handbook of the learning sciences*. Cambridge University Press.
+- Scardamalia, M., & Bereiter, C. (2006). Knowledge building. In R. K. Sawyer (Ed.), *The Cambridge handbook of the learning sciences*. Cambridge University Press. [doi:10.1017/cbo9780511816833.008](https://doi.org/10.1017/cbo9780511816833.008)

@@ -17,6 +17,8 @@ grain_size: lesson
 
 # Debate Format
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Debate format is a structured discussion pattern in which learners prepare positions, present arguments, respond to opposing claims, and justify conclusions within a defined sequence. Its instructional value comes from forcing learners to clarify claims, weigh evidence, anticipate counterarguments, and communicate under constraint. Debate is most useful when the goal is disciplined argumentation rather than simply "having opinions."
 
@@ -106,5 +108,5 @@ The pattern can take many forms, but the core features are role clarity, timed t
 - Strongest when paired with reflection that allows learners to reconsider their initial positions.
 
 ## Key Sources
-- Vo, H. X., & Morris, R. L. (2006). Debate as a tool in teaching economics: Rationale, techniques, and some evidence. *Journal of Economic Education, 37*(3), 315-331. [https://doi.org/10.3200/JECE.37.3.315-331](https://doi.org/10.3200/JECE.37.3.315-331)
+- Vo, H. X., & Morris, R. L. (2006). Debate as a tool in teaching economics: Rationale, techniques, and some evidence. *Journal of Economic Education, 37*(3), 315-331. [https://doi.org/10.3200/joeb.81.6.315-320](https://doi.org/10.3200/joeb.81.6.315-320)
 - Kennedy, R. (2007). In-class debates: Fertile ground for active learning and the cultivation of critical thinking and oral communication skills. *International Journal of Teaching and Learning in Higher Education, 19*(2), 183-190.

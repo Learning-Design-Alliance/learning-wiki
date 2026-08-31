@@ -12,6 +12,8 @@ grain_size: course
 
 # 4C/ID
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 4C/ID is the short-form canonical target for Four-Component Instructional Design, a whole-task instructional pattern that combines learning tasks, supportive information, procedural information, and part-task practice.
 

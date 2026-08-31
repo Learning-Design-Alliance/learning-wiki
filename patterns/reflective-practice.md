@@ -4,13 +4,15 @@ title: Reflective Practice
 description: Reflective Practice is a pattern in which learners or practitioners act, examine what happened, identify lessons, and deliberately adjust future performance.
 status: review
 generated:
-  by: codex/unspecified
-  at: 2026-04-07
+  by: claude/unspecified
+  at: 2026-08-29
 author: reflective practice tradition
 grain_size: unit
 ---
 
 # Reflective Practice
+
+> **Pattern** · [All patterns](index.md)
 
 ## Description
 Reflective Practice is a pattern in which learners or practitioners act, examine what happened, identify lessons, and deliberately adjust future performance. It is useful when improvement depends on learning from experience rather than only receiving external correction.
@@ -42,6 +44,8 @@ Reflective Practice is a pattern in which learners or practitioners act, examine
 
 ### Claims
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]
+- [Elaborated discussion of narrated emotions supports teacher professional learning](../claims/elaborated-discussion-of-narrated-emotions-supports-teacher-learning.md) [+W] — for teacher professional learning specifically, reflection that surfaces and probes the *emotional* dimension of a teaching episode (see [Narrated Emotional Storytelling](../strategies/narrated-emotional-storytelling-in-teacher-pd.md)), not just the behavioral or cognitive one, was associated with groups revising their understanding
+- [Course-based emphasis on reframing and stakeholder inquiry shifts pre-service teachers toward informed-designer stances](../claims/course-emphasis-on-reframing-shifts-teachers-toward-designerly-stances.md) [+M] — reflective practice that explicitly targets how a problem of practice is *framed* (see [Designerly Stances](../theories/designerly-stances.md)), not just what happened, moved pre-service teachers toward more systemic and stakeholder-centered responses
 
 ## Design
 

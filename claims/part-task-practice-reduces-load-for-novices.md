@@ -16,6 +16,8 @@ evidence_strength: moderate
 
 # Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.
 
+> **Claim** · [All claims](index.md)
+
 For learners with very low prior knowledge, the complexity of a whole task can exceed working memory capacity, making isolated practice of critical sub-skills beneficial before integration.
 
 ## Subclaims

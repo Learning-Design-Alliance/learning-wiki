@@ -12,6 +12,8 @@ grain_size: course
 
 # Self-Directed Learning
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Self-Directed Learning is the pattern-level target for designs in which learners take substantial responsibility for setting goals, selecting resources, monitoring progress, and evaluating outcomes within a structured environment.
 

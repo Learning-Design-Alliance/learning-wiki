@@ -19,6 +19,8 @@ sources:
 
 # Mnemonic Device
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Mnemonic devices are deliberate memory supports such as acronyms, imagery, rhyme, chunking, loci, or categorization systems that help learners encode and retrieve information more efficiently. They are especially useful when the learning goal involves remembering ordered steps, terminology, classifications, or paired associations. Their main limitation is that recall support is not the same as conceptual understanding: mnemonics can strengthen memory for information while still leaving underlying reasoning thin if used in isolation.
 
@@ -74,6 +76,6 @@ Mnemonic devices help when recall is a real bottleneck and the content lends its
 - **Formula or sequence reminders**: A mnemonic cue helps retrieve an ordered set of steps once the underlying process is understood.
 
 ## Key Sources
-- Carney, R. N., & Levin, J. R. (2003). Promoting higher-order learning benefits by building lower-order mnemonic connections. *Applied Cognitive Psychology, 17*(5), 563-575. [https://doi.org/10.1002/acp.882](https://doi.org/10.1002/acp.882)
+- Carney, R. N., & Levin, J. R. (2003). Promoting higher-order learning benefits by building lower-order mnemonic connections. *Applied Cognitive Psychology, 17*(5), 563-575. [https://doi.org/10.1002/acp.889](https://doi.org/10.1002/acp.889)
 - Herrmann, D. J. (1987). Task appropriateness of mnemonic techniques. *Perceptual and Motor Skills, 64*(1), 171-178. [https://doi.org/10.2466/pms.1987.64.1.171](https://doi.org/10.2466/pms.1987.64.1.171)
 - Motlagh, F. A., & Rashidi, N. (2015). A comparison between the effectiveness of mnemonic versus non-mnemonic strategies in foreign language learning context. *International Journal of Language and Applied Linguistics, 1*(1), 19-26.

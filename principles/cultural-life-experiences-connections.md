@@ -4,8 +4,8 @@ title: "Cultural & Life Experiences Connections"
 description: "Connecting instruction to learners' cultural and life experiences means treating what learners already know, value, and have lived through as assets for meaning-making rather than as irrelevant background."
 status: review
 generated:
-  by: codex/unspecified
-  at: 2026-04-07
+  by: claude/unspecified
+  at: 2026-08-29
 sources:
   - id: hansman-2001
     resource: "https://doi.org/10.1002/ace.6"
@@ -19,9 +19,15 @@ sources:
     resource: "https://doi.org/10.1080/03057925.2019.1600504"
     title: "Papen, U., & Tusting, K. (2019). Using ethnography and 'real literacies' to develop a curriculum for English literacy teaching for young deaf adults in India. *Compare: A Journal of Comparative and International Education, 51*(2), 173-191"
     author: "Papen, U., & Tusting, K"
+  - id: higgs-kaimana-isero-2026
+    resource: "https://doi.org/10.1080/10508406.2026.2686084"
+    title: "Higgs, J. M., Kaimana, M., & Isero, M. (2026). Leveraging Onto-Epistemic Heterogeneity for \"Outward\" Exploration: Cultivating Critical AI Awareness in the ELA Classroom. Journal of the Learning Sciences"
+    author: "Higgs, J. M., Kaimana, M., & Isero, M"
 ---
 
 # Cultural & Life Experiences Connections
+
+> **Principle** · [All principles](index.md)
 
 ## Description
 Connecting instruction to learners' cultural and life experiences means treating what learners already know, value, and have lived through as assets for meaning-making rather than as irrelevant background. When instruction acknowledges community knowledge, work experience, language practices, family contexts, and prior responsibilities, learners are more likely to see the material as legible, worthwhile, and connected to real life. This principle strengthens relevance, belonging, and transfer by making learning something learners can situate within what they already understand.
@@ -58,6 +64,9 @@ Connecting instruction to learners’ cultural and life experiences improves lea
 - Social constructivist views of learning — new ideas become meaningful through connection to prior knowledge and social context.
 - Andragogical perspectives on adult learning — adult learners are especially motivated when learning connects to immediate experience and purpose.
 - Self-determination theory — relevance and recognition of learner identity can support motivation, autonomy, and belonging.
+- [Onto-Epistemic Heterogeneity](../theories/onto-epistemic-heterogeneity.md) — treats learners' lived experience and ways of knowing as constitutive of disciplinary knowledge itself, not a bridge set aside once formal content begins
+- [Funds of Knowledge](../theories/funds-of-knowledge.md) — a more operationally concrete version of this principle: specific household and community practices, elicited through family interviews, as instructional and assessment resources
+- [Epistemic Injustice](../theories/epistemic-injustice.md) — names the harm of treating minoritized learners' lived experience as less credible than official/institutional knowledge, and reframes it as a legitimate epistemic resource
 #### Contradicting / Qualifying
 - Cultural connection does not remove the need for explicit teaching of unfamiliar concepts, conventions, or disciplinary norms.
 - Learner experience should inform the design, but not be romanticized as automatically sufficient for mastery.
@@ -66,6 +75,11 @@ Connecting instruction to learners’ cultural and life experiences improves lea
 - [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~M] — concepts are more likely to transfer when they are learned in contexts learners recognize as real and usable
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — learners understand cultural or life-context connections more deeply when they articulate those links themselves
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — culturally connected tasks still need responsive support to avoid tokenism or confusion
+- [Positioning personal experience as an epistemic resource supports expansion from inward to outward critical orientations](../claims/positioning-personal-experience-as-epistemic-resource-supports-critical-orientation-expansion.md) [+W] — treating learners' own experience with a topic as a legitimate analytic starting point, rather than a motivational hook, helped learners extend personal concerns into systemic critique
+- [Multimodal, culturally grounded formative assessment supports engagement and agency](../claims/multimodal-culturally-grounded-assessment-supports-engagement-and-agency.md) [+W] — assessment tasks that treat movement, music, and vernacular language as legitimate response modes drew out deeper engagement from youth in a community-based STEM program
+- [Funds-of-knowledge-grounded tasks reveal computational thinking that decontextualized assessment misses](../claims/funds-of-knowledge-tasks-reveal-computational-thinking.md) [+M] — assessment tasks built around family-interview-identified community practices surfaced computational thinking in young children that a generic task would likely miss
+- [Agentic engagement with lively data supports epistemically just crisis sensemaking](../claims/lively-data-and-agentic-positions-support-epistemically-just-crisis-sensemaking.md) [+W] — minoritized youths' own embodied and community experience functioned as legitimate evidence alongside, not subordinate to, official pandemic data
+- [Embodied dance improvisation supports physics engagement and sense-making](../claims/embodied-dance-improvisation-supports-physics-engagement-and-sensemaking.md) [+W] — validating learners' trained movement vocabularies as legitimate scientific expression extends cultural-connection to embodied, not just verbal or artifact-based, resources
 
 ## Related Principles
 - [Building Empathy](building-empathy.md) — cultural connection often depends on taking learners' lived realities seriously.
@@ -80,6 +94,7 @@ Connecting instruction to learners’ cultural and life experiences improves lea
 - **Context mapping**: Before a new unit, learners identify what prior experience or community knowledge might connect to the topic.
 
 ## Key Sources
-- Hansman, C. A. (2001). Context-based adult learning. *New Directions for Adult and Continuing Education, 89*, 43-52. [https://doi.org/10.1002/ace.6](https://doi.org/10.1002/ace.6)
+- Hansman, C. A. (2001). Context-based adult learning. *New Directions for Adult and Continuing Education, 89*, 43-52. [https://doi.org/10.1002/ace.7](https://doi.org/10.1002/ace.7)
 - National Academies of Sciences, Engineering, and Medicine. (2018). *How people learn II: Learners, contexts, and cultures*. National Academies Press. [https://doi.org/10.17226/24783](https://doi.org/10.17226/24783)
-- Papen, U., & Tusting, K. (2019). Using ethnography and 'real literacies' to develop a curriculum for English literacy teaching for young deaf adults in India. *Compare: A Journal of Comparative and International Education, 51*(2), 173-191. [https://doi.org/10.1080/03057925.2019.1600504](https://doi.org/10.1080/03057925.2019.1600504)
+- Papen, U., & Tusting, K. (2019). Using ethnography and 'real literacies' to develop a curriculum for English literacy teaching for young deaf adults in India. *Compare: A Journal of Comparative and International Education, 51*(2), 173-191. [https://doi.org/10.1080/03057925.2019.1585756](https://doi.org/10.1080/03057925.2019.1585756)
+- Higgs, J. M., Kaimana, M., & Isero, M. (2026). Leveraging Onto-Epistemic Heterogeneity for "Outward" Exploration: Cultivating Critical AI Awareness in the ELA Classroom. *Journal of the Learning Sciences*. [https://doi.org/10.1080/10508406.2026.2686084](https://doi.org/10.1080/10508406.2026.2686084)

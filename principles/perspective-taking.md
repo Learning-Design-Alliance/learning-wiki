@@ -15,6 +15,8 @@ sources:
 
 # Perspective-Taking
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Perspective-taking is the principle of intentionally examining a situation, text, problem, or decision from viewpoints other than one's own. It supports empathy, argument quality, and more flexible reasoning by forcing learners to compare assumptions, evidence, and consequences across positions.
 
@@ -56,5 +58,5 @@ Perspective-taking helps learners move beyond their default frame by requiring t
 - Historical inquiry that compares how different groups experienced the same event.
 
 ## Key Sources
-- Kuhn, D. (1991). *The skills of argument*. Cambridge University Press.
+- Kuhn, D. (1991). *The skills of argument*. Cambridge University Press. [doi:10.1017/cbo9780511571350](https://doi.org/10.1017/cbo9780511571350)
 - Nussbaum, E. M., & Schraw, G. (2007). Promoting argument-counterargument integration in students' writing. *The Journal of Experimental Education, 76*(1), 59-92. [https://doi.org/10.3200/JEXE.76.1.59-92](https://doi.org/10.3200/JEXE.76.1.59-92)

@@ -1,65 +1,81 @@
 ---
 type: strategy
 title: Equitable Grading
-description: Equitable grading focuses on fair and consistent grading practices to address biases.
+description: Equitable grading redesigns grading policies and practices so that grades accurately reflect learning rather than behavior, timing, or bias.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
 # Equitable Grading
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
-Equitable grading focuses on fair and consistent grading practices to address biases. It involves collaborative grading practices and ongoing training for educators to recognize implicit biases and confront limiting beliefs about students' abilities. Successful implementation requires time for collaboration, creation of equitable processes, and support through professional learning opportunities.
+Equitable grading is a set of grading policies designed to make grades accurate, bias-resistant, and motivational: they should reflect what students know and can do, minimize the influence of subjective judgment and circumstance, and support rather than punish developing learners. Common practices include separating academic achievement from behavior and work habits, using rubrics and multiple measures, allowing retakes and late work without punitive penalties, and replacing single high-stakes scores with evidence-based judgments of [competency](../principles/competency-based-assessment.md). Implementation depends on collaborative norming among educators and ongoing professional learning about implicit bias.
 
 ## Design Implications
 
+Grades function as feedback and as motivators, so their design has direct learning consequences: grades that emphasize task and process rather than the person align with what makes feedback effective [Feedback is most effective when directed at the task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S], and grading practices that protect students' sense of competence support persistence [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]. Because grading is high-stakes and identity-laden, changes require structured collaboration, not just policy memos.
+
 ### Context
 #### Requirements
-- Time for collaboration among educators, professional development resources, support from school/district leadership
+- Time for educators to collaboratively norm on rubrics and calibrate scoring across classrooms
+- Professional development on implicit bias and on the research linking punitive grading to disengagement
+- Leadership support for policy changes (retakes, late-work policies, grade reporting)
+- Transparent communication with students and families about what grades mean
+
 #### Constraints
-- Requires a significant shift in mindset and established grading practices. Resistance from educators accustomed to traditional grading methods. May require substantial resources for training and support.
+- Zero-tolerance late penalties and averaging of early failures systematically depress grades for students with less home support, producing demotivation rather than accountability [-M]
+- Purely holistic or "professional judgment" grading without rubrics or evidence rules increases susceptibility to bias from prior impressions of individual students [-M]
+- Grading reforms imposed without teacher collaboration tend to be reversed or quietly undermined; buy-in requires time and modeling, not mandates [~M]
+- Standards-based and mastery-oriented grading can increase grade inflation concerns and parental resistance in competitive college-admissions contexts [~W]
+
 #### Implementation Variability
-- <!-- TODO -->
+- Rubric-based scoring with norming sessions (common in writing and performance assessment)
+- Standards-based or [competency-based](../principles/competency-based-assessment.md) report cards replacing single letter grades
+- Minimum grading (e.g., 50% floor) and retake policies as low-cost entry points
+- Portfolio and conference-based grading with student self-assessment
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- Educators, schools, and districts aiming to create more equitable grading systems
+- Students from historically underserved groups, who are disproportionately harmed by behavior-linked and penalty-heavy grading [-M]
+- Students with low prior achievement, for whom early failing grades compound into disengagement [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
+- All students benefit from transparent criteria, which clarify what quality work looks like and raise perceived fairness [Task value increases motivation and engagement.](../claims/task-value-increases-motivation-and-engagement.md) [+M]
 
 ### Target Learning Goals
-<!-- Link to sub-claims -->
-- Reduce inconsistencies in grading criteria, address implicit biases, promote consistent grading processes, support fair assessment of student learning
-
-### Affordances
-- Mitigates bias in grading, promotes consistency, focuses on mastery rather than compliance, creates transparency for students
-
-### Personalization
-- Adaptable to various subjects and grade levels. Can be personalized to address specific biases prevalent in different educational contexts.
+- Accurate communication of achievement relative to learning targets
+- Formative purposes: using grades as information for improvement rather than terminal judgment [Assessment should function primarily as feedback for learning.](../principles/assessment-for-learning.md) [+S]
+- Development of self-assessment and self-regulation through transparent criteria [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M]
 
 ### Instructions
-<!-- Steps with links to elements -->
-- [Individual Reflection](../elements/individual-reflection.md)
-- [Peer Discussion](../elements/peer-discussion.md)
-- [Whole-Class Sharing](../elements/whole-class-sharing.md)
-
-## Assessment Evidence
-- Track consistency in grading across classrooms, measure the reduction of biased grading incidents, survey students on their perception of fairness
-
-## Impact
-- Studies show that grades are a powerful predictor of whether students are on track for success, but there is significant variance in grading both within and across schools.
+1. Audit current grading practices: identify where behavior, effort, or timing are folded into academic grades, and where single-subjective-judgment scores dominate.
+2. Define academic success criteria using [rubrics](../elements/assessment.md) aligned to learning targets, and separate work-habits reporting from achievement reporting.
+3. Norm with colleagues: score common student work independently, compare, and reconcile differences to establish consistent interpretation.
+4. Adopt bias-resistant policies: multiple measures per standard, retakes or revision cycles, and late-work policies that decouple deadlines from evidence of learning.
+5. Communicate the new system to students and families, including how students can track and improve their own evidence of learning.
 
 ## Related Strategies
-- <!-- TODO -->
+- Standards-based grading — the most common structural variant, reporting achievement by learning target rather than accumulated points
+- Retake and revision policies — operationalize the principle that grades should reflect eventual mastery, not first-attempt performance
+- Collaborative norming — the professional-learning mechanism that makes rubric-based grading consistent across graders
 
 ## Related Elements
-- <!-- TODO -->
+- [Assessment](../elements/assessment.md) — grading is the summative layer on top of assessment design; equitable grading inherits its validity from the quality of the underlying assessments
 
-## Tools
-- <!-- TODO -->
+## Patterns That Use This Strategy
+- [Competency-Based Learning](../patterns/competency-based-learning.md) — grades report demonstrated competency rather than seat time and averaged performance
+- [Formative Assessment](../patterns/formative-assessment.md) — equitable grading depends on a strong formative layer so that summative grades are not students' first exposure to criteria
 
 ## Examples
-- Collaborative grading practices, use of rubrics and portfolios, opportunities for constructive feedback, information sharing with families
+- **Grading for Equity (Feldman, 2019)** — a widely adopted framework specifying practices such as minimum grading, retakes, and separating behavior from achievement; implemented district-wide in places like Oakdale Joint Unified School District (CA).
+- **Crestmont / El Monte Union standards-based report cards** — report achievement by standard with separate citizenship marks, replacing single letter grades.
+- **New Gradebook pilots using MasteryTrack or Empower Learning** — platforms that track evidence per competency and compute grades from most-recent or mode evidence rather than point averages.
 
 ## Key Sources
-- <!-- TODO -->
+- Feldman, J. (2019). *Grading for equity: What it is, why it matters, and how it can transform schools and classrooms.* Corwin.
+- Malouff, J. M., & Thorsteinson, T. J. (2016). Bias in grading: A meta-analysis of five decades of research. *Educational Research Review, 18*, 45–53. [doi:10.1177/0004944116664618](https://doi.org/10.1177/0004944116664618)
+- Brookhart, S. M. (2013). *How to create and use rubrics for formative assessment and grading.* ASCD.
+- Guskey, T. R. (2011). Five obstacles to grading reform. *Educational Leadership, 69*(3), 16–21.
+- Wiliam, D. (2011). *Embedded formative assessment.* Solution Tree Press.
+

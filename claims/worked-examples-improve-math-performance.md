@@ -20,6 +20,8 @@ evidence_strength: moderate
 
 # Worked examples improve mathematics performance, especially for novices.
 
+> **Claim** · [All claims](index.md)
+
 In mathematics learning, worked examples can improve performance by making solution structure visible before learners attempt similar problems on their own.
 
 ## Subclaims
@@ -33,7 +35,7 @@ Primary evidence link: https://doi.org/10.1037/0022-0663.77.1.59
 
 ### Sweller & Cooper 1985
 
-Sweller, J., & Cooper, G. A. (1985). The use of worked examples as a substitute for problem solving in learning algebra. *Journal of Educational Psychology, 77*(1), 59-89. [https://doi.org/10.1037/0022-0663.77.1.59](https://doi.org/10.1037/0022-0663.77.1.59)
+Sweller, J., & Cooper, G. A. (1985). The use of worked examples as a substitute for problem solving in learning algebra. *Journal of Educational Psychology, 77*(1), 59-89. [https://doi.org/10.1207/s1532690xci0201_3](https://doi.org/10.1207/s1532690xci0201_3)
 
 `q3 · peer-reviewed experiment` · `i2 · medium impact` · `n=multiple class-based studies`
 

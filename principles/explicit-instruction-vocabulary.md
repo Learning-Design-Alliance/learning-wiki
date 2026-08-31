@@ -27,6 +27,8 @@ sources:
 
 # Explicit Instruction: Vocabulary
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Seeing and using new words repeatedly and across contexts is critical for vocabulary acquisition. In discussions, reading, and writing, instructors can provide explicit vocabulary instruction and give learners multiple opportunities to see, understand, and apply new words, as well as chances to use strategies for identifying unfamiliar words.
 
@@ -91,6 +93,6 @@ Explicit vocabulary instruction works when it treats words as tools for meaning-
 
 ## Key Sources
 - Bruce Taylor, D., Mraz, M., Nichols, W. D., Rickelman, R. J., & Wood, K. D. (2009). Using explicit instruction to promote vocabulary learning for struggling readers. *Reading & Writing Quarterly, 25*(2-3), 205-220. [doi:10.1080/10573560802683663](https://doi.org/10.1080/10573560802683663)
-- Madrigal-Hopes, D. L., Villavicencio, E., Foote, M. M., & Green, C. (2014). Transforming English language learners' work readiness. *Adult Learning, 25*(2), 47-56. [doi:10.1177/1045159514527923](https://doi.org/10.1177/1045159514527923)
+- Madrigal-Hopes, D. L., Villavicencio, E., Foote, M. M., & Green, C. (2014). Transforming English language learners' work readiness. *Adult Learning, 25*(2), 47-56. [doi:10.1177/1045159514522432](https://doi.org/10.1177/1045159514522432)
 - Riccomini, P. J., Smith, G. W., Hughes, E. M., & Fries, K. M. (2015). The language of mathematics. *Reading & Writing Quarterly, 31*(3), 235-252. [doi:10.1080/10573569.2015.1030995](https://doi.org/10.1080/10573569.2015.1030995)
 - Snow, C. E. (2010). Academic language and the challenge of reading for learning about science. *Science, 328*(5977), 450-452. [doi:10.1126/science.1182597](https://doi.org/10.1126/science.1182597)

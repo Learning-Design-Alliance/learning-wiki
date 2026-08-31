@@ -15,6 +15,8 @@ sources:
 
 # Self-Testing
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Self-testing is the element in which learners quiz themselves or otherwise attempt to retrieve knowledge without immediate external prompting. It is useful when the goal is to strengthen retention and help learners gauge what they actually know.
 

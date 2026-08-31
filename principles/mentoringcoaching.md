@@ -23,6 +23,8 @@ sources:
 
 # Mentoring/Coaching
 
+> **Principle** Â· [All principles](index.md)
+
 ## Description
 Mentoring and coaching are relationship-based supports in which a more experienced peer, instructor, or practitioner helps a learner interpret goals, practice skills, reflect on progress, and navigate challenge. The key difference from simple advice is that mentoring and coaching are developmental: they combine encouragement, modeling, questioning, feedback, and calibrated support over time. In learning settings, they often improve persistence and transfer because support is attached to real performance and real decisions rather than delivered only in the abstract.
 
@@ -80,6 +82,6 @@ Mentoring and coaching are effective because they attach support to the learnerâ
 - **Near-peer tutoring**: Slightly more advanced learners support novices with task-specific modeling and feedback.
 
 ## Key Sources
-- Ladyshewsky, R. K. (2006). Peer coaching: A constructivist methodology for enhancing critical thinking in postgraduate business education. *Higher Education Research & Development, 25*(1), 67-84. [https://doi.org/10.1080/07294360500453036](https://doi.org/10.1080/07294360500453036)
+- Ladyshewsky, R. K. (2006). Peer coaching: A constructivist methodology for enhancing critical thinking in postgraduate business education. *Higher Education Research & Development, 25*(1), 67-84. [https://doi.org/10.1080/13600800500453196](https://doi.org/10.1080/13600800500453196)
 - Topping, K. J. (1996). The effectiveness of peer tutoring in further and higher education: A typology and review of the literature. *Higher Education, 32*(3), 321-345. [https://doi.org/10.1007/BF00138870](https://doi.org/10.1007/BF00138870)
 - Colver, M., & Fry, T. (2016). Evidence to support peer tutoring programs at the undergraduate level. *Journal of College Reading and Learning, 46*(1), 16-41. [https://doi.org/10.1080/10790195.2015.1075446](https://doi.org/10.1080/10790195.2015.1075446)

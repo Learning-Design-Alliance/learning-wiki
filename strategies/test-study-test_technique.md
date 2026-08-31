@@ -1,66 +1,73 @@
 ---
 type: strategy
 title: Test-Study-Test Technique
-description: The test-study-test technique is a spelling instruction strategy where students take a pretest, correct their errors under teacher guidance, and then study the corrected words before taking a final test.
+description: A spelling instruction cycle in which students take a pretest, immediately correct their errors under teacher guidance, study the corrected words, and then take a final test.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
 # Test-Study-Test Technique
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
-The test-study-test technique is a spelling instruction strategy where students take a pretest, correct their errors under teacher guidance, and then study the corrected words before taking a final test. This method involves immediate correction of errors after the pretest, where the teacher spells each word, emphasizing each letter as the student points to it. Students use a colored pencil to mark the incorrect part of the word and then write the correct spelling. This process allows students to identify difficult words, locate the specific parts causing trouble, and correct errors immediately. The technique allows focused study on trouble areas, improving retention and spelling accuracy.
+The Test-Study-Test (TST) technique is a structured spelling cycle: students first attempt to write the target words from dictation (pretest), then immediately compare their attempts against correct spellings and correct their own errors, study the corrected forms, and finally take a posttest on the same words. The pretest functions as a retrieval attempt whose errors become the focus of study, converting assessment into the primary learning event rather than a measurement of prior learning.
 
 ## Design Implications
 
+TST operationalizes the pretesting effect: unsuccessful retrieval attempts followed by feedback produce better retention than studying alone, because the attempt activates prior knowledge and creates a receptive state for corrective information [Unsuccessful retrieval attempts before study enhance subsequent learning.](../claims/high-confidence-errors-improve-retention.md) [+M]. Immediate error correction is essential — the feedback must arrive while the learner's erroneous attempt is still active in working memory [Feedback is most effective when directed at the task and process.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]. The technique also embeds retrieval practice, which strengthens long-term retention relative to restudying [Retrieval practice produces stronger long-term retention than restudying.](../claims/active-learning-improves-exam-performance.md) [+S].
+
 ### Context
 #### Requirements
-- Requires pretests, colored pencils, and teacher guidance. The teacher must be prepared to spell out words and emphasize each letter during the correction process. It is beneficial to provide a quiet study environment.
+- A word list appropriate to students' current spelling level, so pretest attempts are plausible but not uniformly correct
+- Immediate access to correct spellings for self-correction (teacher dictation with board display, peer checking, or answer keys)
+- A structured study phase on the *corrected* forms — students must study what is right, not their own error
+- A final test that closes the loop and provides accountability for the study phase
+
 #### Constraints
-- May require more time than traditional study methods. Some students may find the correction process tedious. The effectiveness depends on the teacher's ability to provide clear guidance during the correction phase.
+- If students study their own misspellings (e.g., copying errors repeatedly), the technique can entrench wrong forms [-M] — correction must precede study
+- With very unfamiliar words, pretest attempts may be pure guessing with little to correct meaningfully [~W] — the pretesting effect is strongest when learners have partial knowledge or high-confidence errors [High-confidence errors, once corrected, improve retention.](../claims/high-confidence-errors-improve-retention.md) [+M]
+- Whole-class pacing can leave fast finishers idle and struggling students without enough correction time; self-paced or small-group variants mitigate this
+- Feedback delayed until the next day substantially weakens the cycle, since the error is no longer active [~M]
+
 #### Implementation Variability
-- <!-- TODO -->
+- **Self-correction variant**: students check against a displayed list and rewrite corrected words, building self-monitoring
+- **Peer-testing variant**: partners dictate and check for each other, adding [Collaborative Learning](../principles/collaborative-learning.md) benefits
+- **Cover-copy-compare**: a self-managed adaptation where students cover the correct form, write it from memory, and compare — suitable for independent practice
+- **Multiple-cycle variant**: words missed on the final test re-enter the next cycle's list, creating an error-driven curriculum
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- All grade levels, as well as adult learners needing to improve spelling skills
+- Elementary students acquiring conventional spelling patterns, the original population for which the technique was developed [+M]
+- Learners with partial knowledge of a word's spelling — those who make plausible, high-confidence errors benefit most [High-confidence errors, once corrected, improve retention.](../claims/high-confidence-errors-improve-retention.md) [+M]
+- Students who simply copy words repeatedly show weaker gains; learners who must retrieve and self-correct outperform copy-only peers [+S]
 
 ### Target Learning Goals
-<!-- Link to sub-claims -->
-- Improve spelling accuracy, enhance error recognition, and focus study efforts on problem areas
-
-### Affordances
-- Provides immediate feedback and error correction, focuses study efforts on specific problem areas, and improves retention through active engagement with the material. This technique enhances metacognitive awareness by making students aware of their spelling errors.
-
-### Personalization
-- Technique can be applied to any spelling list or curriculum. Students can self-correct and study at their own pace.
+- Accurate recall of conventional spellings (retention of arbitrary orthographic forms)
+- Error detection and self-correction: noticing when a written form looks wrong
+- Transfer of corrected forms to authentic writing [Test-enhanced learning transfers to new contexts and formats.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+W]
 
 ### Instructions
-<!-- Steps with links to elements -->
-- [Practice](../elements/practice.md)
-- [Provide feedback](../elements/provide-feedback.md)
-- [Assess performance](../elements/assess-performance.md)
-- [Individual Reflection](../elements/individual-reflection.md)
-
-## Assessment Evidence
-- Track spelling accuracy from pretest to final test. Monitor the reduction in specific errors and assess overall improvement in spelling proficiency.
-
-## Impact
-- Research demonstrates that the test-study-test technique is highly effective in improving spelling skills. It allows students to focus on their specific errors and actively engage with the material, leading to better retention and accuracy.
+1. **Pretest**: dictate the week's word list; students write attempts without help. Frame errors as useful — "your mistakes show us what to study."
+2. **Immediate correction**: display or distribute correct spellings; students compare each attempt, circle errors, and rewrite the correct form. Direct feedback at the word level [Feedback is most effective when directed at the task and process.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
+3. **Study phase**: students study the *corrected* list using structured methods (say–look–cover–write–check), attending to the specific letters they missed
+4. **Final test**: re-dictate the list, ideally after a delay (next day) to invoke retrieval rather than short-term memory [Retrieval practice produces stronger long-term retention than restudying.](../claims/active-learning-improves-exam-performance.md) [+S]
+5. **Recycle**: words missed on the final test return in the next cycle's list
 
 ## Related Strategies
-- <!-- TODO -->
-
-## Related Elements
-- <!-- TODO -->
-
-## Tools
-- <!-- TODO -->
+- Cover-Copy-Compare — the self-managed individual adaptation of the same retrieve–compare–correct loop
+- Retrieval Practice — the general learning principle TST applies to spelling
+- Error Analysis — using the pattern of pretest errors to group students and select words
 
 ## Examples
-- Having students take a spelling pretest, correct their errors immediately with teacher guidance, and then study the corrected words before taking a final test. Using a colored pencil to mark and correct the specific parts of the word that are misspelled.
+- **Weekly spelling cycles in elementary classrooms**: the classic Monday pretest / midweek study / Friday test structure, with immediate self-correction after the pretest — the standard implementation described in spelling instructional literature since Fitzgerald (1953)
+- **Spelling Mastery (Direct Instruction programs, McGraw-Hill)** — incorporates test–study cycles with immediate teacher-led correction of misspellings within a scripted lesson sequence
+- **Read Naturally's spelling supplements and similar structured literacy programs** — embed pretest–correct–retest loops for high-frequency and morphologically patterned words
 
 ## Key Sources
-- <!-- TODO -->
+- Fitzgerald, J. A. (1953). The teaching of spelling. *Elementary English, 30*(2), 79–84.
+- Kornell, N., Hays, M. J., & Bjork, R. A. (2009). Unsuccessful retrieval attempts enhance subsequent learning. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 35*(4), 989–998. [doi:10.1037/a0015729](https://doi.org/10.1037/a0015729)
+- Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/medu.12141](https://doi.org/10.1111/medu.12141)
+- Pan, S. C., & Rickard, T. C. (2018). Transfer of test-enhanced learning: Meta-analytic review and synthesis. *Psychological Bulletin, 144*(7), 710–756. [doi:10.1037/bul0000151](https://doi.org/10.1037/bul0000151)
+- Graham, S., & Santangelo, T. (2014). Does spelling instruction make students better spellers or better writers? A meta-analytic review. *Reading and Writing, 27*(9), 1703–1743. [doi:10.1007/s11145-014-9517-0](https://doi.org/10.1007/s11145-014-9517-0)

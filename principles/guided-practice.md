@@ -23,6 +23,8 @@ sources:
 
 # Guided Practice
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Guided practice is the instructional principle of giving learners repeated opportunities to apply a skill or concept while support is still available. It sits between initial explanation or modeling and independent performance. The purpose is not mere repetition: guided practice lets learners attempt the task, receive targeted feedback, and gradually assume more of the work as scaffolds are faded. It is especially important when a skill has multiple steps, hidden decision points, or a high likelihood of early error.
 
@@ -82,6 +84,6 @@ Guided practice matters because early application is where misunderstanding beco
 
 ## Key Sources
 - National Research Council. (2012). *Improving adult literacy instruction: Supporting learning and motivation*. National Academies Press. [https://doi.org/10.17226/13468](https://doi.org/10.17226/13468)
-- Numrich, C., & Kennedy, A. S. (2017). Providing guided practice in discourse synthesis. *TESOL Journal, 8*(1), 28-43. [https://doi.org/10.1002/tesj.254](https://doi.org/10.1002/tesj.254)
+- Numrich, C., & Kennedy, A. S. (2017). Providing guided practice in discourse synthesis. *TESOL Journal, 8*(1), 28-43. [https://doi.org/10.1002/tesj.258](https://doi.org/10.1002/tesj.258)
 - Massengill, D. (2004). The impact of using guided reading to teach low-literate adults. *Journal of Adolescent & Adult Literacy, 47*(7), 588-602. [https://doi.org/10.1598/JAAL.47.7.5](https://doi.org/10.1598/JAAL.47.7.5)
 - Hua, Y., Morgan, B. S., Kaldenberg, E. R., & Goo, M. (2012). Cognitive strategy instruction for functional mathematical skill: Effects for young adults with intellectual disability. *Education and Training in Autism and Developmental Disabilities, 47*(3), 345-358.
