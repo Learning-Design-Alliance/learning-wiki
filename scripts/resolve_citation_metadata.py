@@ -72,7 +72,9 @@ def decide(cited: tuple, record: dict, cited_title: str = "") -> dict:
       "fix_meta"    the registry disagrees on a field it actually stated
       "strip_doi"   the registry's title matches nothing this page claims,
                     so the DOI belongs to a different paper
-      "skip"        the lookup failed or returned nothing usable
+      "not_found"   Crossref has no record of the DOI — reported, never acted
+                    on, since Crossref does not index every registrar
+      "skip"        the lookup failed; an outage tells us nothing
 
     Kept separate from the file walking so the decision can be tested
     without a network, which matters: this is the part that decides whether
@@ -80,7 +82,13 @@ def decide(cited: tuple, record: dict, cited_title: str = "") -> dict:
     if not record or record.get("status") == "error":
         return {"action": "skip", "fields": {}, "why": "lookup failed"}
     if not record.get("resolved"):
-        return {"action": "skip", "fields": {}, "why": "DOI not found in registry"}
+        # Crossref 404. Evidence, but not proof: Crossref only indexes DOIs
+        # registered through Crossref, so a DataCite dataset DOI or an mEDRA
+        # or JaLC registration is legitimately absent. Never stripped on that
+        # basis alone — reported instead, and ranked by whether the prefix's
+        # other DOIs resolve (see notfound_report).
+        return {"action": "not_found", "fields": {},
+                "why": "no Crossref record for this DOI"}
 
     reg_title = record.get("title") or ""
     if reg_title and cited_title:
@@ -188,6 +196,10 @@ def main() -> None:
     cache = dr.load_cache()
     fixed = stripped = skipped = agreed = 0
     edits: dict[Path, list] = {}
+    # Per-prefix resolution tallies, so a 404 can be weighed against whether
+    # that registrant's other DOIs resolve at all.
+    prefix_ok: dict[str, int] = {}
+    not_found: list[tuple[str, str]] = []
 
     for i, doi in enumerate(todo, 1):
         cached = cache.get(doi)
@@ -215,6 +227,10 @@ def main() -> None:
             d = decide(entry["meta"], record, cited_title)
             if d["action"] == "none":
                 agreed += 1
+                prefix_ok[doi.partition("/")[0]] = prefix_ok.get(doi.partition("/")[0], 0) + 1
+                continue
+            if d["action"] == "not_found":
+                not_found.append((doi, entry["source"]))
                 continue
             if d["action"] == "skip":
                 skipped += 1
@@ -222,6 +238,7 @@ def main() -> None:
             path = WIKI_ROOT / entry["source"]
             edits.setdefault(path, []).append((doi, d, record))
             print(f"  [{i}/{len(todo)}] {entry['source']}: {d['action']} — {d['why']}")
+            prefix_ok[doi.partition("/")[0]] = prefix_ok.get(doi.partition("/")[0], 0) + 1
             if d["action"] == "fix_meta":
                 fixed += 1
             else:
@@ -247,8 +264,26 @@ def main() -> None:
     verb = "Applied" if args.apply else "Would apply"
     print(f"\n{verb}: {fixed} metadata correction(s), {stripped} DOI removal(s) "
           f"across {len(edits)} page(s).")
-    print(f"{agreed} citation(s) already matched the registry; {skipped} skipped "
-          f"(lookup failed or DOI not found — nothing changed for those).")
+    print(f"{agreed} citation(s) already matched the registry.")
+    print(f"{skipped} skipped because the lookup failed — an outage is not a verdict.")
+    if not_found:
+        # A 404 on a prefix whose other DOIs resolve fine is the strong case:
+        # that registrant IS in Crossref, so the record's absence is about this
+        # DOI rather than about coverage.
+        strong = [(d, s) for d, s in not_found if prefix_ok.get(d.partition("/")[0], 0) >= 3]
+        weak = [(d, s) for d, s in not_found if (d, s) not in strong]
+        print(f"\n{len(not_found)} DOI(s) have no Crossref record. Not stripped — Crossref "
+              f"does not index DataCite, mEDRA or JaLC registrations.")
+        if strong:
+            print(f"  {len(strong)} are on a prefix whose other DOIs resolve fine, so that "
+                  f"registrant IS in Crossref and the absence is about the DOI:")
+            for d, s in strong[:15]:
+                print(f"      {d}   {s}")
+            if len(strong) > 15:
+                print(f"      ... and {len(strong) - 15} more")
+        if weak:
+            print(f"  {len(weak)} on prefixes with no other resolving DOI — could simply be "
+                  f"a registrar Crossref does not cover.")
     if not args.apply and edits:
         print("\nRe-run with --apply to write these.")
 
