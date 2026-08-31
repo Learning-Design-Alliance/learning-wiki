@@ -128,10 +128,45 @@ def main() -> None:
 
         ratio = f"{len(c['have'])} assert / {len(c['missing'])} omit"
         if res["status"] == "verified":
-            print(f"  [verify] {c['key']:22} {ratio:22} {c['doi']}")
+            # Verify each PAGE, not just the cluster. Checking one sample and
+            # then writing its DOI onto every page that omits it assumes the
+            # omitting pages cite the same work, and in this corpus they very
+            # often do not: 30 pages omitting wineburg-2019's DOI give titles
+            # like "Lateral reading and the nature of expertise: The studies
+            # of civic online reasoning" and "...: Reading rates and college
+            # students' use of multiple sources" — one stem, several different
+            # papers or several invented subtitles.
+            #
+            # Filling those wrote a DOI onto a citation of a different work,
+            # and resolve_citation_metadata — which checks each page's own
+            # title — then stripped every one of them straight back off. A run
+            # of both reported 73 fills and 72 removals and changed six lines.
+            # Beyond the churn, the order of the two scripts decided the
+            # outcome, which is not a property a verification pass may have.
+            #
+            # classify_doi is the same call, cache-backed, so this costs no
+            # extra lookups; it just asks it about the citation being edited.
+            filled, mismatched = 0, []
             for e in c["missing"]:
+                e_year = e["key"].rsplit("-", 1)[-1]
+                e_title = cc._extract_title_text(e["line"], e_year)
+                e_res = rdc.classify_doi(c["doi"], e["title_words"], e_title)
+                if e_res["status"] != "verified":
+                    mismatched.append((e, e_title, e_res["status"]))
+                    continue
                 edits.setdefault(WIKI_ROOT / e["source"], []).append((e["line"], c["doi"]))
                 added += 1
+                filled += 1
+            print(f"  [verify] {c['key']:22} {ratio:22} {c['doi']}")
+            if mismatched:
+                skipped += len(mismatched)
+                print(f"           {filled} filled; {len(mismatched)} NOT filled — those "
+                      f"pages cite a different title under this key:")
+                for e, t, st in mismatched[:4]:
+                    print(f"             {st:11} {e['source']}")
+                    print(f"                         \"{(t or '')[:72]}\"")
+                if len(mismatched) > 4:
+                    print(f"             ... and {len(mismatched) - 4} more")
         elif res["status"] == "wrong_paper":
             wrong += 1
             print(f"  [WRONG ] {c['key']:22} {ratio:22} {c['doi']}\n"
