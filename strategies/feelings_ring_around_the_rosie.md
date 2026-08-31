@@ -55,7 +55,7 @@ The strategy pairs embodied, playful repetition with emotion labeling — a comb
 6. Debrief briefly with a [Check-In](../elements/check-in.md) to connect the play to real situations.
 
 ## Related Strategies
-- ['What's My Emotion?' Game Check-In](%27what%27s_my_emotion%3F%27_game_check-in.md) — a related emotion-identification game with a check-in frame
+- ['What's My Emotion?' Game Check-In](whats_my_emotion_game_check-in.md) — a related emotion-identification game with a check-in frame
 - [Acting-Role-Play](acting-role-play.md) — the broader strategy of rehearsing social and emotional behavior through embodied roles
 
 ## Related Elements

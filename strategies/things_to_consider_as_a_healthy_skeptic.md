@@ -57,7 +57,7 @@ Skepticism develops through repeated, structured opportunities to evaluate claim
 6. Repeat across varied contexts (news, science claims, historical accounts, advertising) so the disposition generalizes rather than attaching to one topic.
 
 ## Related Strategies
-- [A Finder's Guide to Facts](a_finder's_guide_to_facts.md) — companion approach to evaluating factual claims
+- [A Finder's Guide to Facts](a_finders_guide_to_facts.md) — companion approach to evaluating factual claims
 - [3-Source Rule](3-source_rule.md) — a concrete corroboration habit students can apply when evaluating claims
 
 ## Examples

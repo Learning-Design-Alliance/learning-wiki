@@ -68,9 +68,25 @@ def check_broken_links(pages: dict[str, Path]) -> list[dict]:
         if path.name in DOC_FILES:
             continue
         text = path.read_text(encoding="utf-8")
-        for m in LINK_RE.finditer(text):
-            target = m.group(1)
-            if target.startswith(("http://", "https://")):
+        # ok.iter_markdown_links matches the destination by paren BALANCE, so
+        # a link to a page whose filename contains parentheses is seen. LINK_RE
+        # could not see those at all (it stops at the first ')'), and this
+        # check openly skipped them — while mkdocs could not resolve them
+        # either, so they rendered as dead literal text. 58 such links were
+        # live when this was changed, every one pointing at a real file.
+        for _, _, target, is_angle in ok.iter_markdown_links(text):
+            if target.startswith(("http://", "https://", "#", "mailto:")):
+                continue
+            # A destination containing parens only parses inside <...>. It may
+            # resolve on disk and still be broken in the rendered page, so flag
+            # it separately rather than calling it fine.
+            if ok.link_needs_angle_brackets(target) and not is_angle:
+                issues.append({
+                    "file": str(path.relative_to(WIKI_ROOT)),
+                    "type": "link_needs_angle_brackets",
+                    "detail": f"{target} contains parentheses and must be written as "
+                              f"<{target}> to parse — run scripts/fix_links.py --apply",
+                })
                 continue
             # Percent-decode before hitting the filesystem. A markdown link to
             # a page whose filename contains an apostrophe, a question mark, a

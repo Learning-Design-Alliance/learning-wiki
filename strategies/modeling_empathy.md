@@ -58,7 +58,7 @@ Modeling empathy works through the same observational mechanisms as skill demons
 ## Related Strategies
 - [Active Listening](../strategies/active_listening.md) — the conversational skill through which empathic modeling is most often enacted
 - [Role-Play](../strategies/acting-role-play.md) — converts observed empathic behavior into rehearsed practice
-- ['What's My Emotion?' Game Check-In](../strategies/'what's_my_emotion?'_game_check-in.md) — a structured routine for attending to emotional states
+- ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — a structured routine for attending to emotional states
 
 ## Examples
 - A middle-school teacher notices a student becoming frustrated during group work; she kneels beside the desk, speaks quietly, names the feeling ("this is tricky — you've tried two ways"), and helps the group restart, all within earshot of peers who observe the norm.

@@ -57,7 +57,7 @@ Corroboration tasks push students beyond single-source reading and toward evalua
 6. Fade the rule: replace the count with a lateral-reading check — "What do other sites say about *this* source?" — as students gain experience.
 
 ## Related Strategies
-- [A Finder's Guide to Facts](a_finder's_guide_to_facts.md) — a broader fact-checking framework the 3-source rule can sit inside
+- [A Finder's Guide to Facts](a_finders_guide_to_facts.md) — a broader fact-checking framework the 3-source rule can sit inside
 - [Acting-Role-Play](acting-role-play.md) — students can role-play fact-checker and publisher roles to see how misinformation spreads
 
 ## Examples

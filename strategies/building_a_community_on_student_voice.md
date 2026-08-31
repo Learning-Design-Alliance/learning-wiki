@@ -42,7 +42,7 @@ Student voice practices work through two mechanisms: they satisfy learners' need
 - Students of all ages; routines scale from early elementary check-ins to secondary student-led seminars
 - Reluctant or marginalized students benefit most from written-first and small-group formats, which reduce social risk [~M]
 - Students with low self-efficacy gain confidence through repeated successful contributions [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
-- Students still developing language proficiency need [sentence stems and word banks](accessible-vocabulary-syntax) to participate equitably
+- Students still developing language proficiency need sentence stems and word banks to participate equitably
 
 ### Target Learning Goals
 - Engagement and belonging: fostering a sense of community that supports persistence [Students' need for belonging in the school community predicts engagement.](https://doi.org/10.3102/00346543070003323) [+S]

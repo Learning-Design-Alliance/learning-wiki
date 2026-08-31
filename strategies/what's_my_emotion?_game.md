@@ -59,7 +59,7 @@ The game builds two complementary skills: emotional granularity (accurately nami
 5. Rotate volunteers across sessions; vary the emotion set, including low-intensity states (curious, tired, proud), not only high-arousal ones.
 
 ## Related Strategies
-- ['What's My Emotion?' Game Check-In](../strategies/'what's_my_emotion?'_game_check-in.md) — the check-in variant that uses the game as an opening routine
+- ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — the check-in variant that uses the game as an opening routine
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — the individual reflection phase that precedes demonstration

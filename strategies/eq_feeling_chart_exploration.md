@@ -58,7 +58,7 @@ Naming an emotional state (affect labeling) measurably reduces its intensity and
 5. Close by connecting feelings to learning: "How might this feeling affect your work today?" — linking the activity to ongoing [Check-Ins](../principles/check-ins.md).
 
 ## Related Strategies
-- ['What's My Emotion?' Game Check-In](../strategies/'what's_my_emotion?'_game_check-in.md) — a gamified variant of the same emotion-identification goal
+- ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — a gamified variant of the same emotion-identification goal
 - [Active Listening](../strategies/active_listening.md) — the partner skill that makes the discussion phase productive
 - [5-Minute Writing Conferences](../strategies/5-minute_writing_conferences.md) — an individualized follow-up channel for learners reluctant to share publicly
 

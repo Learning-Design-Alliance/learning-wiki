@@ -97,7 +97,7 @@ Additional links I might add that are verified:
 
 The strategy is about PBL feedback — a "project-based-learning" pattern likely exists but not verifiable. Avoid.
 
-- [Self-Regulated Learning](../theories/self-regulated-learning.md) — theories list: behaviorism, cognitive-apprenticeship, cognitive-load-theory, constructivism, dual-coding-theory, expertise-reversal-effect, information-processing-theory, self-determination-theory, self-regulated-learning, situated-learning, social-learning-theory, von-restorff-effect-text-marking. Yes, self-regulated-learning is visible. I could add a link to the theory page in Design Implications. Good addition: reflection converts feedback into self-regulation [Self-monitoring improves self-regulation](...) — link to [Self-Regulated Learning](../theories/self-regulated-learning.md).
+- [Self-Regulated Learning](../theories/self-regulated-learning.md) — reflection is what converts received feedback into self-regulation, so the loop only closes when learners act on it
 
 - Principles: [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — visible in principles list! Yes: "cognitive-apprenticeship" appears in principles. So coaching/articulation/reflection are elements of cognitive apprenticeship. The stub links to patterns/cognitive-apprenticeship.md which is also verified.
 

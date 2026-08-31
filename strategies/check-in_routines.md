@@ -36,7 +36,7 @@ Check-ins operationalize social-emotional learning at low cost: brief structured
 - **One-word round** — builds vocabulary for emotional articulation; suited to cohort-based classes
 - **Progress check** ("where are you on the task?") — shifts the routine toward [Formative Assessment](../patterns/formative-assessment.md) and informs pacing
 - **Themed prompt** ("what's one thing blocking you?") — connects the ritual to the day's content
-- **Game-based variants** such as ['What's My Emotion?' Game Check-In](../strategies/'what's_my_emotion?'_game_check-in.md) — lower the social barrier for younger or reluctant learners
+- **Game-based variants** such as ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — lower the social barrier for younger or reluctant learners
 
 ### Target Learners
 - K–12 learners, where daily SEL routines show the strongest effects [SEL programs improve achievement and behavior.](https://doi.org/10.1111/j.1467-8624.2010.01564.x) [+S]
@@ -56,7 +56,7 @@ Check-ins operationalize social-emotional learning at low cost: brief structured
 5. **Close the loop later** — follow up privately with learners who signal distress or persistent struggle ([Coaching](../elements/coaching.md))
 
 ## Related Strategies
-- ['What's My Emotion?' Game Check-In](../strategies/'what's_my_emotion?'_game_check-in.md) — a playful variant that lowers the social cost of sharing
+- ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — a playful variant that lowers the social cost of sharing
 - [Exit Tickets](../strategies/exit-tickets.md) — the closing counterpart; together they bracket the session with learner data
 - [5-Minute Writing Conferences](../strategies/5-minute_writing_conferences.md) — individualized follow-up to what a check-in surfaces
 

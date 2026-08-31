@@ -58,7 +58,7 @@ Naming emotions supports emotion understanding and regulation, which in turn und
 6. **Build vocabulary deliberately.** Introduce increasingly precise emotion words (annoyed → exasperated; pleased → proud) and use them consistently in [Check-In](../elements/check-in.md) routines.
 
 ## Related Strategies
-- [What's My Emotion? Game Check-In]('what's_my_emotion?'_game_check-in.md) — a structured routine that turns emotion labeling into a low-stakes warm-up
+- [What's My Emotion? Game Check-In](whats_my_emotion_game_check-in.md) — a structured routine that turns emotion labeling into a low-stakes warm-up
 - [Active Listening](active_listening.md) — the attending and reflecting skills that make accurate labeling possible
 - [Acting-Role-Play](acting-role-play.md) — enacting emotional scenarios gives learners practice using emotion words in context
 

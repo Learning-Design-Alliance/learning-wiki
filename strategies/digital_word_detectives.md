@@ -17,7 +17,7 @@ Students read e-books and use digital tools — embedded dictionaries and digita
 
 ## Design Implications
 
-The strategy combines repeated, meaningful encounters with new words in authentic text with generative processing — students must construct and record a definition in their own words rather than receive one [Vocabulary instruction is most effective when students process words deeply and repeatedly in meaningful contexts.](../claims/activation-improves-learning) [+M]. The digital annotation layer makes word learning an active, visible investigation rather than passive lookup, and the peer discussion adds the interpersonal processing that strengthens word knowledge [Dialogic discussion of texts improves students' expressive language.](../claims/dialogic-reading-improves-expressive-language) [+M].
+The strategy combines repeated, meaningful encounters with new words in authentic text with generative processing — students must construct and record a definition in their own words rather than receive one [Vocabulary instruction is most effective when students process words deeply and repeatedly in meaningful contexts.](../claims/activation-improves-learning.md) [+M]. The digital annotation layer makes word learning an active, visible investigation rather than passive lookup, and the peer discussion adds the interpersonal processing that strengthens word knowledge [Dialogic discussion of texts improves students' expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+M].
 
 ### Context
 #### Requirements
@@ -28,7 +28,7 @@ The strategy combines repeated, meaningful encounters with new words in authenti
 
 #### Constraints
 - Access to digital readers may be limited; a device-sharing rotation or print-plus-dictionary fallback preserves the core routine but loses the in-text annotation anchor [-W]
-- Students need explicit instruction in using digital dictionaries and inserting notes; without it, tool navigation consumes the working memory needed for word analysis [Cognitive overload from unfamiliar tools degrades learning.](../claims/cognitive-overload-degrades-learning) [-M]
+- Students need explicit instruction in using digital dictionaries and inserting notes; without it, tool navigation consumes the working memory needed for word analysis [Cognitive overload from unfamiliar tools degrades learning.](../claims/cognitive-overload-degrades-learning.md) [-M]
 - Dictionary definitions alone produce shallow word knowledge; the strategy fails if students copy definitions without generating examples or own-word paraphrases [-M]
 - Context clues are unreliable for many words — students can infer wrong meanings; teacher feedback during discussion is needed to correct misconceptions [~M]
 
@@ -45,13 +45,13 @@ The strategy combines repeated, meaningful encounters with new words in authenti
 ### Target Learning Goals
 - Vocabulary depth: defining words in students' own words with examples
 - Word-learning strategy: using context clues, morphology, and dictionaries as coordinated tools
-- Comprehension: freeing attention for meaning as word recognition and word knowledge grow [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension) [+M]
+- Comprehension: freeing attention for meaning as word recognition and word knowledge grow [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 
 ### Instructions
 1. Pre-assess: administer the vocabulary pre-assessment for the upcoming chapter and identify 3–4 unknown target words.
 2. Model: use [direct instruction](../patterns/direct-instruction.md) with a projected e-book to demonstrate the detective process — reading to the word, trying context clues, checking the digital dictionary, and inserting a note with an own-word definition and example.
 3. Read and annotate: students read the chapter, investigate each target word, and insert a digital note at the word's location.
-4. Compare notes: students meet in small groups to compare digital notes and negotiate meanings; the teacher circulates and provides [feedback](../elements/feedback.md) targeted at word meaning and strategy use [Feedback is most effective at the task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels) [+S].
+4. Compare notes: students meet in small groups to compare digital notes and negotiate meanings; the teacher circulates and provides [feedback](../elements/feedback.md) targeted at word meaning and strategy use [Feedback is most effective at the task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
 5. Consolidate: hold a whole-class discussion to confirm meanings, resolve misconceptions, and highlight effective detective strategies.
 6. Revisit: return to the annotated words in later chapters so students encounter them repeatedly in context.
 

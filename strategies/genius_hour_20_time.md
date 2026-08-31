@@ -60,7 +60,7 @@ Genius Hour operationalizes [Autonomy](../principles/autonomy.md), one of the th
 6. Close with structured reflection connecting the process to transferable inquiry skills ([Articulation](../elements/articulation.md)).
 
 ## Related Strategies
-- [Academic Choice (Planning, Working, Reflecting)](academic_choice_(planning,_working,_reflecting).md) — the same autonomy-with-structure cycle in a responsive-classroom framing
+- [Academic Choice (Planning, Working, Reflecting)](<academic_choice_(planning,_working,_reflecting).md>) — the same autonomy-with-structure cycle in a responsive-classroom framing
 - Project-based learning — Genius Hour is essentially PBL with learner-selected topics
 - Inquiry-based learning — the epistemic engine; Genius Hour without inquiry structure is show-and-tell
 

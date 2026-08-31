@@ -55,7 +55,7 @@ Putting feelings into words — affect labeling — reliably reduces amygdala re
 5. Give [Coaching](../elements/coaching.md) and feedback on granularity — push learners from "mad" to "frustrated, embarrassed, resentful" as appropriate.
 
 ## Related Strategies
-- ['What's My Emotion?' Game Check-In](../strategies/'what's_my_emotion?'_game_check-in.md) — a game format for the same labeling skill
+- ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — a game format for the same labeling skill
 - [Active Listening](../strategies/active-listening.md) — depends on accurately identifying the speaker's feelings
 - [Acting-Role-Play](../strategies/acting-role-play.md) — enacting feelings deepens recognition of their cues
 

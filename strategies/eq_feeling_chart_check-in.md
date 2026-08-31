@@ -59,7 +59,7 @@ The strategy operationalizes **affect labeling**: putting feelings into words re
 6. Close by connecting to the day's work: "Given how we're arriving, what do we need from each other today?"
 
 ## Related Strategies
-- ['What's My Emotion?' Game Check-In](../strategies/'what's_my_emotion?'_game_check-in.md) — a gamified variant that builds the same emotion vocabulary through recognition rather than self-report
+- ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — a gamified variant that builds the same emotion vocabulary through recognition rather than self-report
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — the general routine element this strategy instantiates with a specific chart-based protocol

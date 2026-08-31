@@ -48,7 +48,7 @@ Comprehension checks convert reading from passive input into retrieval practice,
 - Retention of key content through retrieval [active-learning-improves-exam-performance](../claims/active-learning-improves-exam-performance.md) [+S]
 
 ### Instructions
-1. Segment the text or lesson at natural meaning boundaries — [Chunking](../principles/chunking) reduces the working-memory load of each segment [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
+1. Segment the text or lesson at natural meaning boundaries — [Chunking](../principles/chunking.md) reduces the working-memory load of each segment [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
 2. Before reading, set a purpose with an [Advance Organizer](../elements/advance-organizers.md) so learners know what the checks will target
 3. At each pause point, ask one targeted question requiring inference or summarizing, not literal recall
 4. Collect responses (quick write, pair-share, polling) and scan for misconception patterns

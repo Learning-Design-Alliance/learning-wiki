@@ -57,7 +57,7 @@ Comprehension is fundamentally a process of integrating new information with exi
 
 ## Related Strategies
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the narrower pre-reading phase of this strategy
-- [Accessing Students' Background Knowledge](accessing_students’_background_knowledge.md) — diagnostic techniques for surfacing what learners bring
+- [Accessing Students' Background Knowledge](accessing_students_background_knowledge.md) — diagnostic techniques for surfacing what learners bring
 - [Activate Background Knowledge](activate_background_knowledge.md) — related implementation pattern
 
 ## Examples

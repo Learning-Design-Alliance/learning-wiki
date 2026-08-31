@@ -57,7 +57,7 @@ Scavenger hunts sit within the broader goal of information literacy: students le
 6. Debrief: compare queries and sources across teams, highlighting which search strategies and evaluation heuristics worked ([Practice](../elements/practice.md) with feedback).
 
 ## Related Strategies
-- [A Finder's Guide to Facts](a_finder's_guide_to_facts.md) — a companion framework for evaluating factual claims found online
+- [A Finder's Guide to Facts](a_finders_guide_to_facts.md) — a companion framework for evaluating factual claims found online
 - [Case-Based Learning](case-based-learning.md) — both require locating and weighing evidence, though cases emphasize depth over retrieval speed
 
 ## Examples

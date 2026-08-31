@@ -59,7 +59,7 @@ Emotion labeling is itself a regulatory act: putting feelings into words reduces
 6. Revisit and extend: add words from literature and real events; retire words students use fluently; keep the wall current so it stays a live tool
 
 ## Related Strategies
-- [What's My Emotion? Game Check-In](../strategies/'what's_my_emotion?'_game_check-in.md) — a gamified variant that builds the same labeling skill through play
+- [What's My Emotion? Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — a gamified variant that builds the same labeling skill through play
 - [Act It Out](../strategies/act_it_out.md) — embodied enactment of emotion words deepens the wall's vocabulary
 - [Acting-Role-Play](../strategies/acting-role-play.md) — extended scenarios where students practice identifying and responding to emotions
 

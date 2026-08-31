@@ -57,7 +57,7 @@ Check-ins support learning indirectly but measurably: students who feel a sense 
 5. **Close the loop occasionally** with an end-of-session check-out so learners see the routine as meaningful, supporting [assessment for learning](../principles/assessment-for-learning.md)
 
 ## Related Strategies
-- [What's My Emotion? Game Check-In](%27what%27s_my_emotion%3F%27_game_check-in.md) — a gamified variant that builds emotional vocabulary through play
+- [What's My Emotion? Game Check-In](whats_my_emotion_game_check-in.md) — a gamified variant that builds emotional vocabulary through play
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — individual follow-up channel for what check-ins surface
 - [Achievable Micro-Goals](achievable_micro-goals.md) — natural pairing: after a low-energy check-in, reset the session around a small win
 

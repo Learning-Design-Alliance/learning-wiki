@@ -8954,7 +8954,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Ingest**: [patterns/understanding-by-design](patterns/understanding-by-design.md) — New pattern: Understanding by Design backward design framework (Unit 8 ingest)
 * **Content**: [principles/social-interdependence](principles/social-interdependence.md) — Cross-link culturally responsive classroom norms (Unit 7 enrichment)
 * **Content**: [theories/metacognition](theories/metacognition.md) — Cross-link bilingual metalinguistic awareness claim (Unit 7 enrichment)
-* **Content**: [strategies/multi-tiered_system_of_supports_(mtss)](strategies/multi-tiered_system_of_supports_(mtss).md) — Substantially rewrite stub with RTI/MTSS tier structure and history (Unit 7 enrichment)
+* **Content**: [strategies/multi-tiered_system_of_supports_(mtss)](<strategies/multi-tiered_system_of_supports_(mtss).md>) — Substantially rewrite stub with RTI/MTSS tier structure and history (Unit 7 enrichment)
 * **Content**: [principles/universal-design-for-learning](principles/universal-design-for-learning.md) — Add concrete classroom tactics and alternative-assessment content (Unit 7 enrichment)
 * **Content**: [theories/triarchic-theory-of-intelligence](theories/triarchic-theory-of-intelligence.md) — Add creativity-components table and practical-intelligence validity caveat (Unit 7 enrichment)
 * **Ingest**: [principles/culturally-responsive-classroom-norms](principles/culturally-responsive-classroom-norms.md) — New page: culturally responsive classroom norms (Unit 7 ingest)
@@ -8986,7 +8986,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Ingest**: [theories/four-phase-interest-development](theories/four-phase-interest-development.md) — New page: Four-Phase Model of Interest Development (Unit 6 ingest)
 * **Ingest**: [claims/overjustification-effect-reduces-intrinsic-motivation](claims/overjustification-effect-reduces-intrinsic-motivation.md) — New claim ld-5: overjustification effect (Unit 6 ingest)
 * **Ingest**: [theories/instinct-drive-and-arousal-theories](theories/instinct-drive-and-arousal-theories.md) — New page: Instinct, Drive, and Arousal Theories (Unit 6 ingest)
-* **Content**: [strategies/project-based_learning_(pbl)](strategies/project-based_learning_(pbl).md) — Enriched from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
+* **Content**: [strategies/project-based_learning_(pbl)](<strategies/project-based_learning_(pbl).md>) — Enriched from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
 * **Content**: [patterns/socratic-seminar](patterns/socratic-seminar.md) — Enriched from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
 * **Content**: [principles/annotating](principles/annotating.md) — Enriched from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
 * **Content**: [theories/metacognition](theories/metacognition.md) — Enriched from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose

@@ -135,6 +135,6 @@ Now the exemplar links to ../strategies/use_worked_examples.md and ../strategies
 
 Now, what claims can I plausibly link? The exemplar format: [Claim sentence.](slug.md) [+M]. The claim text is a full sentence describing the claim. I'll do similarly:
 
-- [Explicit social-emotional instruction improves academic and behavioral outcomes.](../claims/...)? Not visible. Can't guess.
+- Explicit social-emotional instruction improves academic and behavioral outcomes.
 - Visible: building-empathy-improves-intergroup-attitudes → "Building empathy improves intergroup attitudes." Link: [Building empathy improves intergroup attitudes.](../claims/building-empathy-improves-intergroup-attitudes.md) [+M]
 - belonging-interventions

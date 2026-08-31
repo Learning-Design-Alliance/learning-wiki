@@ -59,7 +59,7 @@ Self-determination theory identifies autonomy, competence, and relatedness as ba
 6. Hold the system accountable: track engagement indicators such as chronic absenteeism and student-led IEP participation alongside academic measures.
 
 ## Related Strategies
-- [Academic Choice (Planning, Working, Reflecting)](academic_choice_(planning,_working,_reflecting).md) — a classroom structure that operationalizes student decision-making daily
+- [Academic Choice (Planning, Working, Reflecting)](<academic_choice_(planning,_working,_reflecting).md>) — a classroom structure that operationalizes student decision-making daily
 - [Action Planning](action_planning.md) — the goal-setting routine students internalize as part of self-determination
 
 ## Examples

@@ -60,7 +60,7 @@ Anticipating emotions is a form of [implementation-intention](../principles/self
 
 ## Related Strategies
 - [Check-Ins](../principles/check-ins.md) — the routine practice that builds the climate and vocabulary this strategy depends on
-- ['What's My Emotion?' Game Check-In](../strategies/'what's_my_emotion?'_game_check-in.md) — a playful format for building emotion vocabulary in younger learners
+- ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — a playful format for building emotion vocabulary in younger learners
 - [Normalizing Error and Struggle](../strategies/normalizing-error.md) — the broader framing work that pre-discussion of emotions supports
 
 ## Examples

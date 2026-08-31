@@ -59,7 +59,7 @@ Emotion labeling supports self-regulation and communication, and affective granu
 ## Examples
 - **RULER Approach (Yale Center for Emotional Intelligence)** — teaches a "Mood Meter" with dozens of graded emotion terms organized by pleasantness and energy; learners plot their state and select regulation strategies. [https://ei.yale.edu](https://ei.yale.edu)
 - **Zones of Regulation** — color-coded framework grouping emotions and arousal states into four zones, with explicit term instruction per zone. [https://www.zonesofregulation.com](https://www.zonesofregulation.com)
-- **[What's My Emotion? game check-in](../strategies/'what's_my_emotion?'_game_check-in.md)** — a game-based check-in in which learners match or guess emotion terms from cues, building discrimination through play.
+- **[What's My Emotion? game check-in](../strategies/whats_my_emotion_game_check-in.md)** — a game-based check-in in which learners match or guess emotion terms from cues, building discrimination through play.
 - **Second Step (Committee for Children)** — SEL curriculum with explicit feelings-vocabulary lessons in early grades, embedded in scenario discussion. [https://www.secondstep.org](https://www.secondstep.org)
 
 ## Key Sources

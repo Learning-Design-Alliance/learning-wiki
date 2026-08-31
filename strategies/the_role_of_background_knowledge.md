@@ -58,7 +58,7 @@ Comprehension and learning depend far more on prior knowledge than on general ab
 
 ## Related Strategies
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the focused activation move this strategy depends on when knowledge exists
-- [Accessing Students' Background Knowledge](accessing_students’_background_knowledge.md) — diagnostic techniques for discovering what learners bring
+- [Accessing Students' Background Knowledge](accessing_students_background_knowledge.md) — diagnostic techniques for discovering what learners bring
 - [Pre-teaching Vocabulary](pre-teaching-vocabulary.md) — building the lexical component of background knowledge before reading
 
 ## Related Elements

@@ -57,7 +57,7 @@ Naming an emotional state with precision (emotional granularity) supports self-r
 
 ## Related Strategies
 - [Check-In](../elements/check-in.md) — the broader family of session-opening routines; the Mood Meter is a structured, dimensional variant
-- [What's My Emotion? Game Check-In](<../strategies/'what's_my_emotion?'_game_check-in.md>) — a gamified emotion-labeling variant for younger learners
+- [What's My Emotion? Game Check-In](<../strategies/whats_my_emotion_game_check-in.md>) — a gamified emotion-labeling variant for younger learners
 - [3-2-1 Reflection](../strategies/3-2-1_reflection.md) — a closing routine that can pair with the Mood Meter to track affect across a session
 
 ## Examples

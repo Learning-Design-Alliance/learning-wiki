@@ -57,7 +57,7 @@ Source evaluation is most effective when taught as *lateral reading* — leaving
 
 ## Related Strategies
 - [3-Source Rule](3-source_rule.md) — corroborating a claim across multiple sources complements evaluating any single source
-- [A Finder's Guide to Facts](a_finder's_guide_to_facts.md) — broader fact-finding framework within which source evaluation sits
+- [A Finder's Guide to Facts](a_finders_guide_to_facts.md) — broader fact-finding framework within which source evaluation sits
 
 ## Examples
 - **[Civic Online Reasoning curriculum](https://cor.stanford.edu)** (Stanford History Education Group) — free lessons and assessments built on lateral reading research; students learn to investigate sources by leaving the page.

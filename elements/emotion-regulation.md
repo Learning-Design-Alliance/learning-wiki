@@ -58,7 +58,7 @@ Emotions are not noise around learning — they shape attention, working memory 
 
 ## Examples
 
-**['What's My Emotion?' Game Check-In](../strategies/'what's_my_emotion?'_game_check-in.md)** — A low-stakes opening routine that builds emotional vocabulary and awareness, the prerequisite skill for selecting a regulation strategy.
+**['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md)** — A low-stakes opening routine that builds emotional vocabulary and awareness, the prerequisite skill for selecting a regulation strategy.
 
 **[Achievable Micro-Goals](../strategies/achievable_micro-goals.md)** — Breaking tasks into small, attainable steps regulates frustration and overwhelm by making progress visible and reducing the gap between current state and goal.
 

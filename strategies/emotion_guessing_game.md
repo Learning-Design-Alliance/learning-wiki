@@ -55,7 +55,7 @@ Emotion guessing games work because they pair perception of facial expressions w
 5. **Check in**: close with learners naming their own current emotion, transferring the vocabulary to self-awareness ([Check-In](../elements/check-in.md))
 
 ## Related Strategies
-- ['What's My Emotion?' Game Check-In](../strategies/'what's_my_emotion?'_game_check-in.md) — a check-in variant that uses the same format to open a session with emotional self-labeling
+- ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — a check-in variant that uses the same format to open a session with emotional self-labeling
 - [Acting-Role-Play](../strategies/acting-role-play.md) — extends guessing into enacting full scenarios with the target emotion
 
 ## Related Elements

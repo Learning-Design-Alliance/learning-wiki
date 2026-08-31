@@ -59,7 +59,7 @@ Emotion reflection supports self-regulation because labeling and reappraising em
 6. **Commit to an action.** Learners record one alternative behavior to try, creating a concrete bridge from reflection to practice.
 
 ## Related Strategies
-- [What's My Emotion? Game Check-In](../strategies/'what's_my_emotion?'_game_check-in.md) — a low-stakes entry activity that builds the emotion vocabulary this strategy depends on
+- [What's My Emotion? Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — a low-stakes entry activity that builds the emotion vocabulary this strategy depends on
 - [Check-Ins](../principles/check-ins.md) — routine emotion naming that supplies raw material for reflection
 - [Action Planning](../strategies/action_planning.md) — the natural follow-on once an alternative behavior has been identified
 

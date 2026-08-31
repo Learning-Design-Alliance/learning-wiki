@@ -64,7 +64,7 @@ Arts integration works when the art activity is *integral* to the content — a 
 - [Act It Out](act_it_out.md) — drama-based variant; enacting content through movement and role is the most researched arts-integration form
 - [Acting-Role-Play](acting-role-play.md) — structured role enactment for social and historical content
 - [Activate Background Knowledge](activating-prior-knowledge.md) — the preparatory move that makes art-based construction conceptually productive
-- [Academic Choice (Planning, Working, Reflecting)](academic_choice_(planning,_working,_reflecting).md) — structures the learner choice of art form and medium
+- [Academic Choice (Planning, Working, Reflecting)](<academic_choice_(planning,_working,_reflecting).md>) — structures the learner choice of art form and medium
 
 ## Examples
 - **Kindergarten science:** learners finger-paint the stages of a butterfly's life cycle, then narrate their paintings to a partner — pairing visual/embodied encoding with oral rehearsal.

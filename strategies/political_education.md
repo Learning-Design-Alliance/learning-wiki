@@ -58,7 +58,7 @@ Political education front-loads contextual and conceptual knowledge so that late
 6. Consolidate understanding through [Individual Reflection](../elements/individual-reflection.md) connecting content to learners' own positionality and intended action.
 
 ## Related Strategies
-- [A Finder's Guide to Facts](../strategies/a_finder%27s_guide_to_facts.md) — the source-evaluation skills learners need to assess political claims critically
+- [A Finder's Guide to Facts](../strategies/a_finders_guide_to_facts.md) — the source-evaluation skills learners need to assess political claims critically
 - [Activating Prior Knowledge](../strategies/activating_prior_knowledge.md) — surfacing learners' existing assumptions about social issues before challenging them
 - [Acting-Role-Play](../strategies/acting-role-play.md) — embodying stakeholder positions to deepen understanding of power dynamics
 

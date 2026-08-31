@@ -64,7 +64,7 @@ Argument construction supports learning because generating and defending a posit
 
 ## Examples
 - **[3-Source Rule](../strategies/3-source_rule.md)** — requires each claim in a written argument to be supported by at least three independent sources, enforcing evidence-gathering before drafting.
-- **[A Finder's Guide to Facts](../strategies/a_finder's_guide_to_facts.md)** — teaches learners to evaluate source quality before using evidence in an argument.
+- **[A Finder's Guide to Facts](../strategies/a_finders_guide_to_facts.md)** — teaches learners to evaluate source quality before using evidence in an argument.
 - **[Structured Academic Controversy](../patterns/structured-academic-controversy.md) (Johnson & Johnson)** — pairs argue an assigned position, reverse positions mid-activity, then synthesize a joint position.
 - **[Debate](../patterns/debate.md) formats in public speaking courses** — timed construction and delivery of claim–evidence–rebuttal cases under explicit rubrics.
 

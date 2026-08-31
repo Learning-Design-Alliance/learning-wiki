@@ -56,7 +56,7 @@ Prior knowledge is one of the strongest predictors of how much a learner takes f
 
 ## Related Strategies
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the in-lesson counterpart: this strategy supplies the knowledge base that activation draws on
-- [Accessing Students' Background Knowledge](../strategies/accessing_students’_background_knowledge.md) — broader content-area version of the same diagnostic work
+- [Accessing Students' Background Knowledge](../strategies/accessing_students_background_knowledge.md) — broader content-area version of the same diagnostic work
 - [Activate Background Knowledge](../strategies/activate_background_knowledge.md) — lesson-level routines for surfacing what learners bring
 
 ## Examples

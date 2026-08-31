@@ -59,7 +59,7 @@ Emotional states gate cognitive engagement: stress and anxiety consume working m
 6. **Vary the prompt deliberately** — rotate among feeling-naming, energy-rating, and goal-oriented prompts to keep the routine from becoming rote
 
 ## Related Strategies
-- ['What's My Emotion?' Game Check-in](../strategies/'what's_my_emotion?'_game_check-in.md) — a gamified variant that builds emotion vocabulary through play
+- ['What's My Emotion?' Game Check-in](../strategies/whats_my_emotion_game_check-in.md) — a gamified variant that builds emotion vocabulary through play
 - [5-Minute Writing Conferences](../strategies/5-minute_writing_conferences.md) — the individual follow-up channel for learners whose check-ins signal need
 - [Achievable Micro-goals](../strategies/achievable_micro-goals.md) — a natural pairing for converting low-readiness signals into a manageable entry point
 

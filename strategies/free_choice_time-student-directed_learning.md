@@ -13,7 +13,7 @@ generated:
 > **Strategy** · [All strategies](index.md)
 
 ## Description
-Free choice time designates a scheduled block in which learners choose what to work on from a curated (or open) set of activities, materials, or inquiry topics. The instructor's role shifts from directing activity to designing the choice environment, conferring with individuals, and helping learners plan and reflect on their self-directed work. It is carried out through routines such as [Choice Boards](../elements/choice-boards.md), interest-based project time, and structured planning–working–reflecting cycles such as [Academic Choice (Planning, Working, Reflecting)](academic_choice_(planning,_working,_reflecting).md).
+Free choice time designates a scheduled block in which learners choose what to work on from a curated (or open) set of activities, materials, or inquiry topics. The instructor's role shifts from directing activity to designing the choice environment, conferring with individuals, and helping learners plan and reflect on their self-directed work. It is carried out through routines such as [Choice Boards](../elements/choice-boards.md), interest-based project time, and structured planning–working–reflecting cycles such as [Academic Choice (Planning, Working, Reflecting)](<academic_choice_(planning,_working,_reflecting).md>).
 
 ## Design Implications
 
@@ -23,7 +23,7 @@ Choice taps learners' needs for autonomy, one of the three basic psychological n
 #### Requirements
 - A curated set of options that are all worth doing — choice over *how* or *what among good options*, not whether to engage
 - Enough time for learners to reach a productive state in their chosen activity (frequent interruption undermines self-directed work)
-- Planning and reflection routines so learners make deliberate choices rather than defaulting to habit ([Check-In](../elements/check-in.md), [Academic Choice (Planning, Working, Reflecting)](academic_choice_(planning,_working,_reflecting).md))
+- Planning and reflection routines so learners make deliberate choices rather than defaulting to habit ([Check-In](../elements/check-in.md), [Academic Choice (Planning, Working, Reflecting)](<academic_choice_(planning,_working,_reflecting).md>))
 - Instructor availability for conferring, observation, and just-in-time [Coaching](../elements/coaching.md)
 - Clear norms and boundaries so autonomy does not collapse into off-task behavior
 
@@ -53,12 +53,12 @@ Choice taps learners' needs for autonomy, one of the three basic psychological n
 ### Instructions
 1. **Teach the options first.** Ensure every choice has been introduced through [Demonstration](../elements/demonstration.md) or [Explicit Teaching](../patterns/explicit-teaching.md) so learners can actually use what they choose.
 2. **Present a bounded menu.** Offer 3–8 viable options via a [Choice Board](../elements/choice-boards.md), varying by content, process, or product.
-3. **Have learners plan.** Each learner states or writes what they will do and why before starting ([Academic Choice (Planning, Working, Reflecting)](academic_choice_(planning,_working,_reflecting).md)).
+3. **Have learners plan.** Each learner states or writes what they will do and why before starting ([Academic Choice (Planning, Working, Reflecting)](<academic_choice_(planning,_working,_reflecting).md>)).
 4. **Confer during work.** Circulate, observe, and coach; use [Check-Ins](../elements/check-in.md) to redirect off-track choices without taking the choice away.
 5. **Reflect and share.** Close with brief reflection on what was accomplished and what to choose next time, building self-regulation over successive cycles.
 
 ## Related Strategies
-- [Academic Choice (Planning, Working, Reflecting)](academic_choice_(planning,_working,_reflecting).md) — the canonical routine structure for making free choice time productive
+- [Academic Choice (Planning, Working, Reflecting)](<academic_choice_(planning,_working,_reflecting).md>) — the canonical routine structure for making free choice time productive
 - [Montessori Prepared Environment](montessori_prepared_environment.md) — a fully developed curricular model built around self-chosen work in a designed environment
 - [Genius Hour / 20% Time](genius_hour_20_time.md) — interest-driven open inquiry applied to a fixed weekly time block
 

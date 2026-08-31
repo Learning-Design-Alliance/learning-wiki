@@ -61,7 +61,7 @@ Goal setting conferences operationalize two well-supported findings: specific an
 - [Achievable Micro-Goals](achievable_micro-goals.md) — the goal-sizing principle that keeps conference goals proximal and attainable
 - [Action Planning](action_planning.md) — the strategy-naming step that turns a goal into a plan
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — a compressed conference routine applied to writing workshop
-- [Academic Choice (Planning, Working, Reflecting)](academic_choice_(planning,_working,_reflecting).md) — the broader autonomy structure within which goal conferences sit
+- [Academic Choice (Planning, Working, Reflecting)](<academic_choice_(planning,_working,_reflecting).md>) — the broader autonomy structure within which goal conferences sit
 
 ## Examples
 - **Reading workshop conferring** (Teachers College Reading & Writing Project, [https://readingandwritingproject.org](https://readingandwritingproject.org)): teachers hold 3–5 minute goal conferences during independent reading, each ending with a recorded goal the student pursues until the next conference.

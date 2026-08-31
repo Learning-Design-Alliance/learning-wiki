@@ -58,7 +58,7 @@ The strategy combines embodied choice with low-stakes [activation](../elements/a
 
 ## Related Strategies
 - [Check-In Routines](../strategies/check-in_routines.md) — the broader family of opening rituals; the Gallery Quote Walk is an embodied, quote-mediated variant
-- ['What's My Emotion?' Game Check-In](../strategies/'what's_my_emotion?'_game_check-in.md) — a gamified alternative for younger learners
+- ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — a gamified alternative for younger learners
 - [Think-Pair-Share](../patterns/think-pair-share.md) — the sharing structure inside the walk follows the same private-then-public sequence
 
 ## Examples

@@ -56,7 +56,7 @@ Explicit prompting converts an otherwise tacit expert practice into a learnable 
 5. Fade the prompts across successive tasks, moving from full guides to a single self-generated question ([Fading](../elements/fading.md), [Practice](../elements/practice.md)).
 
 ## Related Strategies
-- [A Finder's Guide to Facts](a_finder%27s_guide_to_facts.md) — a companion framework for locating and verifying factual claims
+- [A Finder's Guide to Facts](a_finders_guide_to_facts.md) — a companion framework for locating and verifying factual claims
 - [Three-Source Rule](3-source_rule.md) — the cross-checking protocol that operationalizes corroboration
 - [Annotating](../principles/annotating.md) — the written-response mechanism through which prompts act
 

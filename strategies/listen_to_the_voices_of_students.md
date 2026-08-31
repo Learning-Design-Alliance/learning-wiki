@@ -52,7 +52,7 @@ Elevating student voice builds on self-determination research: experiences of au
 1. Establish safety and norms for respectful sharing before asking for authentic voice ([Check-Ins](../principles/check-ins.md))
 2. Open structured sharing opportunities where students tell their own stories and pose their own questions ([Peer Interaction](../elements/peer-interaction.md), [Whole-Class Sharing](../elements/whole-class-sharing.md))
 3. Model receptive listening — paraphrase, ask follow-up questions, and visibly act on what students say ([Active Listening](../strategies/active_listening.md))
-4. Hand over authorship: students design projects, select topics, and lead discussions ([Academic Choice (Planning, Working, Reflecting)](../strategies/academic_choice_(planning,_working,_reflecting).md))
+4. Hand over authorship: students design projects, select topics, and lead discussions ([Academic Choice (Planning, Working, Reflecting)](<../strategies/academic_choice_(planning,_working,_reflecting).md>))
 5. Close the loop by reflecting with students on how their input shaped the class, making agency visible
 
 ## Related Strategies

@@ -61,7 +61,7 @@ Empathy is teachable but not automatic: explicit instruction combined with persp
 ## Related Strategies
 - [Acting-Role-Play](../strategies/acting-role-play.md) — the primary practice vehicle for rehearsing empathic responses
 - [Active Listening](../strategies/active_listening.md) — the conversational skill empathy instruction should feed into
-- ['What's My Emotion?' Game Check-In](../strategies/'what's_my_emotion?'_game_check-in.md) — a low-stakes routine for building emotion vocabulary that underpins empathic accuracy
+- ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — a low-stakes routine for building emotion vocabulary that underpins empathic accuracy
 
 ## Examples
 - **[Roots of Empathy](https://rootsofempathy.org)** — an evidence-based Canadian program that brings an infant and parent into classrooms across a school year, with structured lessons observing the baby's development to teach empathic understanding; evaluations show reduced aggression and increased prosocial behavior [~M].

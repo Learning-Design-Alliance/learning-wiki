@@ -56,7 +56,7 @@ Accurate emotion labeling is a foundational component of social-emotional learni
 5. [Provide feedback](../elements/provide-feedback.md) that validates the emotion and refines the label ("That sounds more like disappointment than anger") rather than correcting the feeling itself.
 
 ## Related Strategies
-- ['What's My Emotion?' Game Check-In]('what's_my_emotion?'_game_check-in.md) — a structured guessing-game variant of this strategy
+- ['What's My Emotion?' Game Check-In](whats_my_emotion_game_check-in.md) — a structured guessing-game variant of this strategy
 - [Act It Out](act_it_out.md) — embodiment of emotions through movement and drama
 - [Active Listening](active_listening.md) — the facilitation stance needed when learners share feelings
 

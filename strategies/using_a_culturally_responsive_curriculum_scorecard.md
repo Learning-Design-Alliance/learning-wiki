@@ -60,7 +60,7 @@ The scorecard operationalizes culturally responsive pedagogy — the principle t
 ## Related Strategies
 - [Activating Background Knowledge](activating_background_knowledge.md) — culturally responsive curricula work by connecting new content to learners' existing cultural knowledge; the scorecard audits whether materials make those connections
 - [Address Biases in the Use of Language and Symbols](address_biases_in_the_use_of_language_and_symbols.md) — a specific bias-revision practice that scorecard findings often trigger
-- [Accessing Students' Background Knowledge](accessing_students’_background_knowledge.md) — the instructional move that culturally responsive materials are meant to support
+- [Accessing Students' Background Knowledge](accessing_students_background_knowledge.md) — the instructional move that culturally responsive materials are meant to support
 
 ## Examples
 - **[NYC Coalition for Educational Justice](https://www.nyccej.org)** — published the original Culturally Responsive Curriculum Scorecard with ELA and STEAM versions; parent-led teams have used it to audit and publicly report on district-adopted curricula.
