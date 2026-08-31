@@ -591,6 +591,17 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#the-health-dashboard-refreshes-itself" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The health dashboard refreshes itself
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#known-open-work" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -922,6 +933,17 @@
     <span class="md-ellipsis">
       
         State as of 2026-08-31 — the stack is collapsed
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#the-health-dashboard-refreshes-itself" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The health dashboard refreshes itself
       
     </span>
   </a>
@@ -1334,6 +1356,16 @@ not push to them, do not reopen a PR from them:</p>
 </tr>
 </tbody>
 </table>
+<h3 id="the-health-dashboard-refreshes-itself">The health dashboard refreshes itself<a class="headerlink" href="#the-health-dashboard-refreshes-itself" title="Permanent link">&para;</a></h3>
+<p><code>eval/runs/health.html</code> used to regenerate only on an enrichment batch, a scraper ingest,
+the nightly timer, or a service restart — and a <code>git pull</code> is none of those. So the board
+showed numbers from the last pipeline event while its own "last scanned" timestamp said a
+minute ago, which makes a stale page look current. That cost a real debugging session.</p>
+<p><code>dashboard_server.py</code> now compares a cheap tree fingerprint (file count + newest mtime over
+the content folders and <code>scripts/</code>, ~13ms) against the one stamped when the page was
+written, and rescans (~6s) only when they differ. Pull, reload, correct numbers — no
+restart. The fingerprint is deliberately <strong>not</strong> a git revision: the droplet's working tree
+routinely holds real uncommitted work, and keying on HEAD would call all of it invisible.</p>
 <h3 id="known-open-work">Known open work<a class="headerlink" href="#known-open-work" title="Permanent link">&para;</a></h3>
 <ul>
 <li><strong><code>scripts/resolve_citation_metadata.py</code> settles the three citation backlogs against
