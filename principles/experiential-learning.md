@@ -70,7 +70,7 @@ Experiential learning works because it puts learners in situations where concept
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->
 - Simulations, internships, clinical rounds, labs, community projects, and field-based inquiry
-- [Project-Based Learning (PBL)](<../strategies/project-based_learning_(pbl).md>) — learners build knowledge through extended authentic work
+- [Project-Based Learning (PBL)](../strategies/project-based-learning-pbl.md) — learners build knowledge through extended authentic work
 - [Anchored Instruction](../patterns/anchored-instruction.md) — realistic scenarios anchor inquiry and applied reasoning
 - Reflection journals, post-task debriefs, and iteration cycles are typical implementation supports
 

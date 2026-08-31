@@ -54,7 +54,7 @@ Belonging matters because doubt about it is self-confirming. Learners uncertain 
 - **Object and décor audit** — removing stereotype-linked objects and replacing them with neutral or broad ones, the manipulation Cheryan tested directly
 - **Representation in examples** — names, contexts, and scenarios in problems and cases drawn from a wide range without comment
 - **Practitioner visibility** — images and short profiles of people working in the field, chosen for range and for actually being in the field ([Cultivating Belonging Through Environmental Cues](cultivating_belonging_through_environmental_cues.md))
-- **Texts as mirrors and windows** — reading selections in which learners can see both themselves and others ([Windows, Mirrors, and Sliding Glass Doors](windows,_mirrors,_and_sliding_glass_doors.md))
+- **Texts as mirrors and windows** — reading selections in which learners can see both themselves and others ([Windows, Mirrors, and Sliding Glass Doors](windows-mirrors-and-sliding-glass-doors.md))
 - **Student work as the display** — the room's contents produced by its current occupants, which represents them without curation
 - **Narrative belonging interventions** — brief structured exercises reframing early difficulty as common and temporary ([Belonging Interventions](belonging-interventions.md))
 
@@ -87,7 +87,7 @@ Belonging matters because doubt about it is self-confirming. Learners uncertain 
 - [Belonging Interventions](belonging-interventions.md) — the brief narrative interventions that address belonging doubt directly
 - [Creating a Sense of Belonging](creating_a_sense_of_belonging.md) — the broader relational practices this sits inside
 - [Addressing Stereotype Threat](addressing_stereotype_threat.md) — the performance-situation counterpart
-- [Windows, Mirrors, and Sliding Glass Doors](windows,_mirrors,_and_sliding_glass_doors.md) — representation applied to text selection
+- [Windows, Mirrors, and Sliding Glass Doors](windows-mirrors-and-sliding-glass-doors.md) — representation applied to text selection
 - [Classroom Design for Engagement](classroom-design-for-engagement.md) — the wider environmental design this competes with for wall space
 
 ## Examples

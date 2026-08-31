@@ -1580,7 +1580,12 @@ def repair_encoded_links(content: str, current_folder: str) -> tuple[str, list[s
             return f"]({fixed})"
         return match.group(0)
 
-    content = re.sub(r"\]\(([^)\s]+\.md)\)", fix, content)
+    # `[^)\s]+` cannot match a target that itself contains parentheses, and this
+    # wiki has many ("academic_choice_(planning,_working,_reflecting).md"). Match
+    # lazily up to ".md)" instead, and accept the <...> form lint requires for
+    # those targets.
+    content = re.sub(r"\]\(<([^>\n]+?\.md)>\)", lambda m: fix(m), content)
+    content = re.sub(r"\]\(([^\s<>]*?\.md)\)", fix, content)
     return content, repairs
 
 

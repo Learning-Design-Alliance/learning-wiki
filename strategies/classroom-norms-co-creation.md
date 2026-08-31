@@ -60,8 +60,8 @@ Co-creation leverages self-determination dynamics: giving students authentic voi
 
 ## Related Strategies
 - [Active Listening](active-listening.md) — the facilitation stance that makes elicitation genuine rather than performative
-- [Academic Choice (Planning, Working, Reflecting)](<academic_choice_(planning,_working,_reflecting).md>) — extends student voice from norms into daily learning decisions
-- [Acceptance, Responsibility, and Sharing](acceptance,_responsibility,_and_sharing.md) — the dispositions co-created norms are meant to institutionalize
+- [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — extends student voice from norms into daily learning decisions
+- [Acceptance, Responsibility, and Sharing](acceptance-responsibility-and-sharing.md) — the dispositions co-created norms are meant to institutionalize
 
 ## Examples
 - **[Responsive Classroom](https://www.responsivesclassroom.org)** — "Creating Rules Together" protocol in which teachers and K–8 students generate classroom rules from student hopes and dreams; supported by a 3-year randomized controlled trial showing gains in math and reading achievement [Rimm-Kaufman et al., 2014](https://doi.org/10.3102/0002831214523821) [+S]

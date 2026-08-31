@@ -57,8 +57,8 @@ Co-created norms build ownership and buy-in: students follow agreements they hel
 6. **Revisit and repair.** Reference norms during [Discussion Groups](../patterns/discussion-group.md) and conflict; hold periodic norm check-ins to revise as the community matures.
 
 ## Related Strategies
-- [Academic Choice (Planning, Working, Reflecting)](<academic_choice_(planning,_working,_reflecting).md>) — shares the ownership logic: structured student decision-making within teacher-designed boundaries
-- [Acceptance, Responsibility, and Sharing](acceptance,_responsibility,_and_sharing.md) — the dispositions norms are meant to institutionalize
+- [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — shares the ownership logic: structured student decision-making within teacher-designed boundaries
+- [Acceptance, Responsibility, and Sharing](acceptance-responsibility-and-sharing.md) — the dispositions norms are meant to institutionalize
 - [Action Planning](action_planning.md) — extends shared commitment from conduct norms to learning goals
 
 ## Examples

@@ -32,7 +32,7 @@ For a teacher investigating their own classroom, this is most often small-scale 
 - Case studies are the other methodology well-suited to small-scale, single-classroom teacher research, alongside action research
 
 ### Target Learners
-- Practicing teachers investigating and improving their own classroom practice, distinct from student-led inquiry (see [Youth Participatory Action Research (YPAR)](<youth_participatory_action_research_(ypar).md>))
+- Practicing teachers investigating and improving their own classroom practice, distinct from student-led inquiry (see [Youth Participatory Action Research (YPAR)](youth-participatory-action-research-ypar.md))
 
 ### Target Learning Goals
 - A specific, evidence-grounded understanding of one classroom problem, and a defensible account of what did or didn't help
@@ -46,7 +46,7 @@ For a teacher investigating their own classroom, this is most often small-scale 
 6. Repeat the cycle — action research is cyclical, not a single pass.
 
 ## Related Strategies
-- [Youth Participatory Action Research (YPAR)](<youth_participatory_action_research_(ypar).md>) — a related but distinct methodology: student-led inquiry into their own communities, rather than teacher-led inquiry into their own classroom practice
+- [Youth Participatory Action Research (YPAR)](youth-participatory-action-research-ypar.md) — a related but distinct methodology: student-led inquiry into their own communities, rather than teacher-led inquiry into their own classroom practice
 - [Peer Observation](peer_observation.md) — one data-collection method commonly used within an action research cycle
 - [Build Time for Self-Reflection](build_time_for_self-reflection.md) — the reflective habit action research systematizes into a research cycle
 

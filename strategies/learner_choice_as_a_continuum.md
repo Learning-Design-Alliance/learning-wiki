@@ -59,11 +59,11 @@ Choice supports motivation primarily by satisfying the basic psychological need 
 6. **Reflect and recalibrate.** After each cycle, have learners evaluate whether their choices served their learning; use this to position them on the continuum for the next round.
 
 ## Related Strategies
-- [Academic Choice (Planning, Working, Reflecting)](<academic_choice_(planning,_working,_reflecting).md>) — a structured planning–working–reflecting cycle that operationalizes the middle of the continuum
+- [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — a structured planning–working–reflecting cycle that operationalizes the middle of the continuum
 - [Project-Based Learning](project-based-learning.md) — a common vehicle for the learner-as-designer end of the continuum
 
 ## Examples
-- **Elementary literacy menus**: students choose from teacher-designed reading response options, then graduate to proposing their own response formats — a classic application of [Academic Choice (Planning, Working, Reflecting)](<academic_choice_(planning,_working,_reflecting).md>).
+- **Elementary literacy menus**: students choose from teacher-designed reading response options, then graduate to proposing their own response formats — a classic application of [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md).
 - **Genius Hour / 20% Time** (e.g., Google's original model, adapted in schools worldwide): learners select a self-generated challenge and pursue it across a term with milestone conferences.
 - **Big Picture Learning** (https://www.bigpicture.org): students design personalized learning plans around their interests, including internship-based "Learning Through Interests" projects — the entrepreneurial end of the continuum.
 - **Higher education**: contract grading and student-selected assessment weightings (e.g., choosing among exam, portfolio, or project weightings within limits) as co-design of assessment.

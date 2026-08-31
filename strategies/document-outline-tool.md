@@ -56,7 +56,7 @@ The strategy combines structural text analysis with external organization: assig
 5. Students use the exported outline to begin drafting ([Application of Knowledge](../elements/application-of-knowledge.md)), turning each Heading 1 into a section and each Heading 2 into a point with evidence.
 
 ## Related Strategies
-- ["Headings and Highlight" Strategy](../strategies/"headings_and_highlight"_strategy.md) — the same structural-analysis move applied through text marking rather than document headings
+- ["Headings and Highlight" Strategy](headings-and-highlight-strategy-variant.md) — the same structural-analysis move applied through text marking rather than document headings
 - [3-Source Rule](../strategies/3-source_rule.md) — a companion constraint for gathering evidence from multiple texts once outlines exist
 
 ## Related Elements

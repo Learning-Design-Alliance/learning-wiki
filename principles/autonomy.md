@@ -24,7 +24,7 @@ Autonomy is one of three basic psychological needs in [Self-Determination Theory
 - Genuine, meaningful choices ([Choice Boards](../elements/choice-boards.md)) — options that change the substance of the learning experience, not cosmetic variety
 - Rationales for required activities — explaining *why* a task matters preserves perceived volition even when the task itself is fixed
 - Non-controlling feedback and language ([Check-ins](check-ins.md)) — informational rather than pressuring framing ("here's what would help" vs. "you must")
-- Opportunities for self-direction and planning ([Academic Choice (planning, working, reflecting)](<../strategies/academic_choice_(planning,_working,_reflecting).md>)) — learners need room to set goals, monitor progress, and adjust
+- Opportunities for self-direction and planning ([Academic Choice (planning, working, reflecting)](../strategies/academic-choice-planning-working-reflecting.md)) — learners need room to set goals, monitor progress, and adjust
 
 #### Constraints
 - Choice can overload novices who lack the knowledge to evaluate options; guidance about how to choose is needed [~M]
@@ -70,7 +70,7 @@ Autonomy is one of three basic psychological needs in [Self-Determination Theory
 
 **[Choice Boards](../elements/choice-boards.md)** — A grid of task options (e.g., demonstrate understanding via podcast, diagram, or essay) that lets learners select how to show mastery while all options target the same objective. Effective when options are genuinely equivalent in rigor and aligned to the same [learning objective](../elements/objective.md).
 
-**[Academic Choice (planning, working, reflecting)](<../strategies/academic_choice_(planning,_working,_reflecting).md>)** — A Responsive Classroom routine in which learners plan what they will do, work with that plan, and then reflect on their choices — building self-regulation alongside ownership.
+**[Academic Choice (planning, working, reflecting)](../strategies/academic-choice-planning-working-reflecting.md)** — A Responsive Classroom routine in which learners plan what they will do, work with that plan, and then reflect on their choices — building self-regulation alongside ownership.
 
 **Project-based learning with negotiated topics** — Curricula like [Expeditionary Learning / EL Education](https://eleducation.org) give students voice in selecting expedition topics and products within teacher-defined constraints, pairing autonomy with strong structural scaffolds.
 

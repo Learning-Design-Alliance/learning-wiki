@@ -58,7 +58,7 @@ Reading Workshop operationalizes the finding that reading volume is a primary dr
 
 ## Related Strategies
 - [5-minute writing conferences](../strategies/5-minute_writing_conferences.md) — the writing-workshop analogue; the two structures share the mini-lesson/work/conference architecture
-- [Academic choice (planning, working, reflecting)](<../strategies/academic_choice_(planning,_working,_reflecting).md>) — the self-selection and goal-setting routines of workshop enact structured choice
+- [Academic choice (planning, working, reflecting)](academic-choice-planning-working-reflecting.md) — the self-selection and goal-setting routines of workshop enact structured choice
 - [Think-aloud modeling](../strategies/think-aloud-modeling.md) — the core demonstration method inside mini-lessons
 
 ## Examples

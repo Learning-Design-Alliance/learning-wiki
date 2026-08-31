@@ -60,7 +60,7 @@ Student voice practices work because they support learners' basic psychological 
 ## Related Strategies
 - [Active Listening](active_listening.md) — the instructor-side skill that makes student contributions feel heard rather than merely collected
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — an individualized channel for student voice with students who won't speak in whole-class settings
-- [Academic Choice (Planning, Working, Reflecting)](<academic_choice_(planning,_working,_reflecting).md>) — a structured way to give students decision-making authority over their learning
+- [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — a structured way to give students decision-making authority over their learning
 
 ## Examples
 - **Daily check-ins**: students share a feeling and a goal at the start of class; the teacher adjusts pacing or grouping based on patterns across responses.

@@ -38,7 +38,7 @@ Self-regulation is not a fixed trait but a cyclical process of forethought, perf
 - **Mindfulness and pause routines** — brief breathing or refocusing practices used before demanding tasks or after conflict
 - **Goal-setting frameworks** — process goals ("I will check my work after each problem") outperform outcome goals for novices [Process goals outperform outcome goals for novices.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M]
 - **Scaffolded task management** — breaking work into [achievable micro-goals](../strategies/achievable_micro-goals.md) with [Coaching](../elements/coaching.md) and [Check-Ins](../principles/check-ins.md), then fading support as competence grows [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M]
-- **Choice structures** — [Choice Boards](../elements/choice-boards.md) and [Academic Choice](<../strategies/academic_choice_(planning,_working,_reflecting).md>) let students practice planning and self-evaluation within safe boundaries
+- **Choice structures** — [Choice Boards](../elements/choice-boards.md) and [Academic Choice](academic-choice-planning-working-reflecting.md) let students practice planning and self-evaluation within safe boundaries
 
 ### Target Learners
 - Students with attentional, emotional, or executive-function challenges who need explicit regulatory scaffolds and [Accommodations](../elements/accommodations.md)

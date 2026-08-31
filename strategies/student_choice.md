@@ -58,7 +58,7 @@ Choice supports motivation primarily by satisfying the need for autonomy, one of
 6. Debrief the choice itself — what learners would choose differently next time — to build transferable decision-making skill.
 
 ## Related Strategies
-- [Academic Choice (Planning, Working, Reflecting)](<academic_choice_(planning,_working,_reflecting).md>) — a structured cycle that wraps choice in planning and reflection routines
+- [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — a structured cycle that wraps choice in planning and reflection routines
 - [Goal-Setting](../elements/goal-setting.md) — choice becomes more effective when learners articulate why they chose a path
 
 ## Examples

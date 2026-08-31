@@ -61,7 +61,7 @@ Reflection works here because it externalizes the decision process, making reaso
 
 ## Related Strategies
 - [Activities for Student Self-Reflection](activities_for_student_self-reflection.md) — the general reflection repertoire this strategy specializes toward decision-making
-- [Acceptance, Responsibility, and Sharing](acceptance,_responsibility,_and_sharing.md) — a community-circle format that surfaces decisions and their consequences socially
+- [Acceptance, Responsibility, and Sharing](acceptance-responsibility-and-sharing.md) — a community-circle format that surfaces decisions and their consequences socially
 
 ## Related Elements
 - [Challenge Identification](../elements/challenge-identification.md) — naming the decision point is the first reflective act
