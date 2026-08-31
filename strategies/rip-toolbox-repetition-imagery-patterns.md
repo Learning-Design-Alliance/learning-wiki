@@ -81,5 +81,5 @@ The toolbox packages three well-evidenced encoding mechanisms — distributed re
 - Levine, M. (2002). *A mind at a time*. Simon & Schuster. (Origin of the RIP Toolbox framing and the memory-plan practice)
 - Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)
 - Craik, F. I. M., & Lockhart, R. S. (1972). Levels of processing: A framework for memory research. *Journal of Verbal Learning and Verbal Behavior, 11*(6), 671–684. [doi:10.1016/s0022-5371(72)80001-x)80001-X](https://doi.org/10.1016/s0022-5371(72)80001-x)80001-X)
-- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press.
+- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)
 - Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin, 132*(3), 354–380. [doi:10.1037/0033-2909.132.3.354](https://doi.org/10.1037/0033-2909.132.3.354)

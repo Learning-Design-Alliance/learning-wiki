@@ -68,4 +68,4 @@ Multiple representations support learning when learners actively integrate them:
 - Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/CBO9780511811678](https://doi.org/10.1017/CBO9780511811678)
 - Schnotz, W., & Bannert, M. (2003). Construction and interference in learning from multiple representation. *Learning and Instruction, 13*(2), 141–156. [doi:10.1016/S0959-4752(02)00017-8](https://doi.org/10.1016/S0959-4752(02)00017-8)
 - Seufert, T. (2003). Supporting coherence formation in learning from multiple representations. *Learning and Instruction, 13*(2), 227–237. [doi:10.1016/S0959-4752(02)00022-1](https://doi.org/10.1016/S0959-4752(02)00022-1)
-- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press.
+- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)

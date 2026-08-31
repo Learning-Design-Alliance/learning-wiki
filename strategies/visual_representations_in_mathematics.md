@@ -72,4 +72,4 @@ Visual representations reduce working memory demands by holding intermediate qua
 - van Garderen, D., & Montague, M. (2003). Visual–spatial representation, mathematical problem solving, and students of varying abilities. *Learning Disability Quarterly, 26*(4), 246–262.
 - Gersten, R., Beckmann, S., Clarke, B., Foegen, A., Marsh, L., Star, J. R., & Witzel, B. (2009). *Assisting students struggling with mathematics: Response to Intervention (RtI) for elementary and middle schools* (NCEE 2009-4060). National Center for Education Evaluation and Regional Assistance. [https://ies.ed.gov/ncee/wwc/PracticeGuide/2](https://ies.ed.gov/ncee/wwc/PracticeGuide/2)
 - Booth, R. D. L., & Thomas, M. O. J. (2000). Visualization in mathematics learning: Arithmetic problem-solving and student difficulties. *Journal of Mathematical Behavior, 18*(2), 169–190.
-- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press.
+- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)

@@ -92,6 +92,6 @@ The fishbowl makes discussion itself the object of study: the inner circle model
 
 ## Key Sources
 - Webb, N. M. (2009). The teacher's role in promoting collaborative dialogue in the classroom. *British Journal of Educational Psychology, 79*(1), 1–28. [doi:10.1348/000709908x380772](https://doi.org/10.1348/000709908x380772)
-- Mercer, N. (2000). *Words and Minds: How We Use Language to Think Together*. Routledge. [doi:10.1017/CBO9780511489912](https://doi.org/10.1017/CBO9780511489912)
+- Mercer, N. (2000). *Words and Minds: How We Use Language to Think Together*. Routledge. [doi:10.4324/9780203464984](https://doi.org/10.4324/9780203464984)
 - Michaels, S., O'Connor, C., & Resnick, L. B. (2008). Deliberative discourse idealized and realized: Accountable talk in the classroom and in civic life. *Studies in Philosophy and Education, 27*(4), 283–297. [doi:10.1007/s11217-007-9071-1](https://doi.org/10.1007/s11217-007-9071-1)
 - Bandura, A. (1977). *Social learning theory*. Englewood Cliffs, NJ: Prentice Hall.

@@ -82,5 +82,5 @@ Visuals work by directing attention to essential content, making abstract or inv
 - Mayer, R. E. (2021). *Multimedia learning* (3rd ed.). Cambridge University Press. [doi:10.1017/9781316941355](https://doi.org/10.1017/9781316941355)
 - Mayer, R. E. (1989). Systematic thinking fostered by illustrations in text. *Journal of Educational Psychology, 81*(4), 615–623. [doi:10.1037/0022-0663.81.2.240](https://doi.org/10.1037/0022-0663.81.2.240)
 - Carney, R. N., & Levin, J. R. (2002). Pictorial illustrations still improve students' learning from text. *Educational Psychology Review, 14*(1), 5–26. [doi:10.1023/a:1013176309260](https://doi.org/10.1023/a:1013176309260)
-- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press.
+- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)
 - Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the Science of Instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)

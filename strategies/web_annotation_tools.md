@@ -80,6 +80,6 @@ Annotation directs attention to specific text segments and prompts generative pr
 
 ## Key Sources
 - Zhu, X., Chen, B., Avadhanam, R. M., Shui, H., & Zhang, R. Z. (2020). Reading and connecting: Using social annotation in online classes. *Information and Learning Sciences, 121*(5/6), 261–271. [doi:10.1108/ILS-04-2020-0117](https://doi.org/10.1108/ILS-04-2020-0117)
-- Kalir, J. H., & Garcia, A. (2021). *Annotation*. MIT Press. [doi:10.7551/mitpress/12467.001.0001](https://doi.org/10.7551/mitpress/12467.001.0001)
+- Kalir, J. H., & Garcia, A. (2021). *Annotation*. MIT Press.
 - Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)

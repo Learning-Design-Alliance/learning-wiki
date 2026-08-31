@@ -69,6 +69,6 @@ Pairing emotions with color draws on dual coding — representing a concept in b
 ## Key Sources
 - Terwogt, M. M., & Hoeksma, J. B. (1995). Colors and emotions: Preferences and expressions. *The American Journal of Psychology, 108*(1), 35–56.
 - Kaya, N., & Epps, H. H. (2004). Relationship between color and emotion: A study of college students. *College Student Journal, 38*(3), 396–405.
-- Paivio, A. (1986). *Mental representations: A dual coding approach.* Oxford University Press.
+- Paivio, A. (1986). *Mental representations: A dual coding approach.* Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)
 - Kuypers, L. M. (2011). *The Zones of Regulation: A curriculum designed to foster self-regulation and emotional control.* Think Social Publishing.
 - Sutton, T. M., & Altarriba, J. (2016). Color associations to emotion and emotion-laden words: A collection of norms for stimulus construction. *Behavior Research Methods, 48*(2), 686–728. [doi:10.3758/s13428-015-0598-8](https://doi.org/10.3758/s13428-015-0598-8)

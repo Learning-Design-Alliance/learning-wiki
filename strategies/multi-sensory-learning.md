@@ -65,7 +65,7 @@ The evidence base is narrower than the popular "learning styles" framing suggest
 - **PhET Interactive Simulations** (https://phet.colorado.edu) — interactive visual simulations paired with guided-inquiry prompts, letting learners link visual behavior to verbal/conceptual framing.
 
 ## Key Sources
-- Paivio, A. (1986). *Mental representations: A dual coding approach* (2nd ed.). Oxford University Press.
+- Paivio, A. (1986). *Mental representations: A dual coding approach* (2nd ed.). Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)
 - Mayer, R. E. (2021). *Multimedia learning* (3rd ed.). Cambridge University Press. [doi:10.1017/9781316941355](https://doi.org/10.1017/9781316941355)
 - Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2008). Learning styles: Concepts and evidence. *Psychological Science in the Public Interest, 9*(3), 105–119. [doi:10.1111/j.1539-6053.2009.01038.x](https://doi.org/10.1111/j.1539-6053.2009.01038.x)
 - Mayer, R. E., & Moreno, R. (2003). Nine ways to reduce cognitive load in multimedia learning. *Educational Psychologist, 38*(1), 43–52. [doi:10.1207/S15326985EP3801_6](https://doi.org/10.1207/S15326985EP3801_6)

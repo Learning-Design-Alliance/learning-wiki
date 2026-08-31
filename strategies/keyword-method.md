@@ -69,6 +69,6 @@ The keyword method works by converting abstract, arbitrary sound–meaning mappi
 ## Key Sources
 - Atkinson, R. C., & Raugh, M. R. (1975). An application of the mnemonic keyword method to the acquisition of a Russian vocabulary. *Journal of Experimental Psychology: Human Learning and Memory, 1*(2), 126–133. [doi:10.1037/0278-7393.1.2.126](https://doi.org/10.1037/0278-7393.1.2.126)
 - Raugh, M. R., & Atkinson, R. C. (1975). A mnemonic method for learning a second-language vocabulary. *Journal of Educational Psychology, 67*(1), 1–16. [doi:10.1037/h0078665](https://doi.org/10.1037/h0078665)
-- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press.
+- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)
 - Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)
 - Wang, A. Y., & Thomas, M. H. (1995). Effect of keywords on long-term retention: Help or hindrance? *Journal of Educational Psychology, 87*(3), 468–475. [doi:10.1037/0022-0663.87.3.468](https://doi.org/10.1037/0022-0663.87.3.468)

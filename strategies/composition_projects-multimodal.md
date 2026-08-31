@@ -69,7 +69,7 @@ Multimodal composition leverages the productive overlap of verbal and visual rep
 
 ## Key Sources
 - Mayer, R. E. (2021). *Multimedia learning* (3rd ed.). Cambridge University Press. [doi:10.1017/9781316941355](https://doi.org/10.1017/9781316941355)
-- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press.
+- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)
 - Kress, G., & van Leeuwen, T. (2021). *Reading images: The grammar of visual design* (3rd ed.). Routledge.
 - Selfe, C. L. (2009). The movement of air, the breath of meaning: Aurality and multimodal composing. *College Composition and Communication, 60*(4), 616–663.
 - New London Group. (1996). A pedagogy of multiliteracies: Designing social futures. *Harvard Educational Review, 66*(1), 60–92. [doi:10.17763/haer.66.1.17370n67v22j160u](https://doi.org/10.17763/haer.66.1.17370n67v22j160u)

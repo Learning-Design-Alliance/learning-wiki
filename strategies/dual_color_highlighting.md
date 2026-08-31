@@ -69,4 +69,4 @@ Dual color highlighting reduces the working memory demand of visual tracking by 
 - Montali, J., & Lewandowski, L. (1996). Bimodal reading: Benefits of a talking computer for average and less skilled readers. *Journal of Learning Disabilities, 29*(3), 271–279. [doi:10.1177/002221949602900305](https://doi.org/10.1177/002221949602900305)
 - Mayer, R. E. (2009). *Multimedia Learning* (2nd ed.). Cambridge University Press. [doi:10.1017/CBO9780511811678](https://doi.org/10.1017/CBO9780511811678)
 - Takacs, Z. K., Swart, E. K., & Bus, A. G. (2015). Transfer and retention of transfer of multimedia features in multimedia learning. *Review of Educational Research, 85*(4), 581–620. [doi:10.3102/0034654314566171](https://doi.org/10.3102/0034654314566171)
-- Paivio, A. (1986). *Mental Representations: A Dual Coding Approach*. Oxford University Press.
+- Paivio, A. (1986). *Mental Representations: A Dual Coding Approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)

@@ -73,4 +73,4 @@ Protocols work because they convert discussion from a social performance into a 
 - Lyman, F. (1981). The responsive classroom discussion: The inclusion of all students. In A. S. Anderson (Ed.), *Mainstreaming Digest* (pp. 109–113). University of Maryland College of Education.
 - Chi, M. T. H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219–243. [doi:10.1080/00461520.2014.965823](https://doi.org/10.1080/00461520.2014.965823)
 - Smith, M. K., Wood, W. B., Adams, W. K., Wieman, C., Knight, J. K., Guild, N., & Su, T. T. (2009). Why peer discussion improves student performance on in-class concept questions. *Science, 323*(5910), 122–124. [doi:10.1126/science.1165919](https://doi.org/10.1126/science.1165919)
-- Mercer, N. (2000). *Words and Minds: How We Use Language to Think Together*. Routledge. [doi:10.4324/9780203464980](https://doi.org/10.4324/9780203464980)
+- Mercer, N. (2000). *Words and Minds: How We Use Language to Think Together*. Routledge. [doi:10.4324/9780203464984](https://doi.org/10.4324/9780203464984)

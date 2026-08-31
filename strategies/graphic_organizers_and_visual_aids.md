@@ -69,5 +69,5 @@ Graphic organizers work by imposing structure on to-be-learned material, which r
 - Nesbit, J. C., & Adesope, O. O. (2006). Learning with concept and knowledge maps: A meta-analysis. *Review of Educational Research, 76*(3), 413–448. [doi:10.3102/00346543076003413](https://doi.org/10.3102/00346543076003413)
 - Stull, A. T., & Mayer, R. E. (2007). Learning by doing versus learning by viewing: Three experimental comparisons of learner-generated versus author-provided graphic organizers. *Journal of Educational Psychology, 99*(4), 808–820. [doi:10.1037/0022-0663.99.4.808](https://doi.org/10.1037/0022-0663.99.4.808)
 - Robinson, D. H., & Kiewra, K. A. (1995). Visual argument: Graphic organizers are superior to outlines in improving learning from text. *Journal of Educational Psychology, 87*(3), 455–467. [doi:10.1037/0022-0663.87.3.455](https://doi.org/10.1037/0022-0663.87.3.455)
-- Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press.
-- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press.
+- Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/cbo9780511811678](https://doi.org/10.1017/cbo9780511811678)
+- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)

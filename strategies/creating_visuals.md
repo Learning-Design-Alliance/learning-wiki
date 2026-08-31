@@ -74,5 +74,5 @@ Student-generated visuals are effective because drawing requires translating ver
 ## Key Sources
 - Ainsworth, S., Prain, V., & Tytler, R. (2011). Drawing to learn in science. *Science, 333*(6046), 1096–1097. [doi:10.1126/science.1204153](https://doi.org/10.1126/science.1204153)
 - Van Meter, P., & Garner, J. (2005). The promise and practice of learner-generated drawing: Literature review and directions for future research. *Educational Psychology Review, 17*(4), 285–325. [doi:10.1007/s10648-005-7024-5](https://doi.org/10.1007/s10648-005-7024-5)
-- Fiorella, L., & Mayer, R. E. (2016). *Learning as a generative activity: Eight learning strategies that promote understanding*. Cambridge University Press. [doi:10.1017/CBO9781139547369](https://doi.org/10.1017/CBO9781139547369)
+- Fiorella, L., & Mayer, R. E. (2016). *Learning as a generative activity: Eight learning strategies that promote understanding*. Cambridge University Press.
 - Mayer, R. E. (2021). *Multimedia learning* (3rd ed.). Cambridge University Press. [doi:10.1017/9781316941355](https://doi.org/10.1017/9781316941355)

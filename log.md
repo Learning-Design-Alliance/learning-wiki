@@ -8,6 +8,10 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ---
 
+## 2026-08-31
+
+* **Enrich**: The timing of acute exercise relative to learning modulates memory consolidation — enriched from claims CSV via Claude
+
 ## 2026-08-30
 
 * **Correction**: 17 pages — repaired all 20 broken cross-links: percent-encoded punctuation in slugs (14), over-deep `../../` paths (3), a filename truncated at its closing paren (2), a `principions/` typo, and two links retargeted to pages that exist

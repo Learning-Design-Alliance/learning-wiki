@@ -66,5 +66,5 @@ The three-word constraint is the design's engine. By limiting each turn, it prev
 ## Key Sources
 - Anderson, R. C., & Pearson, P. D. (1984). A schema-theoretic view of basic processes in reading comprehension. In P. D. Pearson (Ed.), *Handbook of Reading Research* (pp. 255–291). Longman.
 - Beck, I. L., & McKeown, M. G. (2001). Text talk: Capturing the benefits of read-aloud experiences for young children. *The Reading Teacher, 55*(1), 10–20.
-- Mercer, N. (2000). *Words and Minds: How We Use Language to Think Together*. Routledge.
+- Mercer, N. (2000). *Words and Minds: How We Use Language to Think Together*. Routledge. [doi:10.4324/9780203464984](https://doi.org/10.4324/9780203464984)
 - Prince, M. (2004). Does active learning work? A review of the research. *Journal of Engineering Education, 93*(3), 223–231. [doi:10.1002/j.2168-9830.2004.tb00809.x](https://doi.org/10.1002/j.2168-9830.2004.tb00809.x)

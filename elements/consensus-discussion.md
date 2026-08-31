@@ -74,4 +74,4 @@ Consensus discussions force learners to articulate, defend, and revise their rea
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)
 - Johnson, D. W., & Johnson, R. T. (1979). Conflict in the classroom: Controversy and learning. *Review of Educational Research, 49*(1), 51–70. [doi:10.3102/00346543049001051](https://doi.org/10.3102/00346543049001051)
 - Chi, M. T. H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219–243. [doi:10.1080/00461520.2014.965823](https://doi.org/10.1080/00461520.2014.965823)
-- Mercer, N. (2000). *Words and minds: How we use language to think together.* Routledge.
+- Mercer, N. (2000). *Words and minds: How we use language to think together.* Routledge. [doi:10.4324/9780203464984](https://doi.org/10.4324/9780203464984)

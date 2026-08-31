@@ -78,5 +78,5 @@ The strategy treats mode selection as a learnable design decision rather than a 
 ## Key Sources
 - New London Group. (1996). A pedagogy of multiliteracies: Designing social futures. *Harvard Educational Review, 66*(1), 60–92. [doi:10.17763/haer.66.1.17370n67v22j160u](https://doi.org/10.17763/haer.66.1.17370n67v22j160u)
 - Selfe, C. L. (Ed.). (2009). *Multimodal composition: Resources for teachers*. Hampton Press.
-- Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/CBO9781139164605](https://doi.org/10.1017/CBO9781139164605)
+- Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/cbo9780511811678](https://doi.org/10.1017/cbo9780511811678)
 - Cope, B., & Kalantzis, M. (2009). "Multiliteracies": New literacies, new learning. *Pedagogies: An International Journal, 4*(3), 164–195. [doi:10.1080/15544800903076044](https://doi.org/10.1080/15544800903076044)

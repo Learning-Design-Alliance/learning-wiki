@@ -85,7 +85,7 @@ Structured discussion converts discussion from an unguided activity into a scaff
 
 ## Key Sources
 - Michaels, S., & O'Connor, C. (2012). *Talk science primer. *TERC. [https://terc.edu](https://www.terc.edu)
-- Mercer, N. (2000). *Words and minds: How we use language to think together.* Routledge.
+- Mercer, N. (2000). *Words and minds: How we use language to think together.* Routledge. [doi:10.4324/9780203464984](https://doi.org/10.4324/9780203464984)
 - Zwiers, J., & Crawford, M. (2011). *Academic conversations: Classroom talk that fosters critical thinking and content understanding.* Stenhouse Publishers.
 - Resnick, L. B., Michaels, S., & O'Connor, C. (2010). How (well-structured) talk builds the mind. In D. D. Preiss & R. J. Sternberg (Eds.), *Innovations in educational psychology* (pp. 163–194). Springer.
 - Freeman, S., et al. (2014). Active learning increases student performance in science, engineering, and mathematics. *PNAS, 111*(23), 8410–8415. [doi:10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)

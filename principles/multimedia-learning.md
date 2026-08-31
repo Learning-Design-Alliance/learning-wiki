@@ -75,5 +75,5 @@ Multimedia learning is strongest when multiple representations clarify a concept
 **[Flipped Learning](../patterns/flipped-learning.md)** — Pre-class micro-lessons often rely on multimedia principles: concise visuals, narrated explanation, and signaling that reduce learner confusion before live practice.
 
 ## Key Sources
-- Mayer, R. E. (2021). *Multimedia learning* (3rd ed.). Cambridge University Press.
+- Mayer, R. E. (2021). *Multimedia learning* (3rd ed.). Cambridge University Press. [doi:10.1017/9781316941355](https://doi.org/10.1017/9781316941355)
 - Fiorella, L., & Mayer, R. E. (2015). *Learning as a generative activity*. Cambridge University Press. [https://doi.org/10.1017/CBO9781107707085](https://doi.org/10.1017/CBO9781107707085)

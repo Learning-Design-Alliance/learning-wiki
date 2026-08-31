@@ -51,4 +51,4 @@ Dual coding works when words and visuals reinforce the same underlying idea from
 
 ## Key Sources
 - Paivio, A. (1990). *Mental representations: A dual coding approach*. Oxford University Press.
-- Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press.
+- Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/cbo9780511811678](https://doi.org/10.1017/cbo9780511811678)

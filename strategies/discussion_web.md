@@ -72,5 +72,5 @@ Structured peer discussion of this kind is a form of [Active Learning](../princi
 - Duthie, J. N. (1986). The web: A powerful tool for the teaching and evaluation of the expository essay. *Journal of Educational Research, 79*(5), 301–306.
 - Almasi, J. F. (1996). A new view of discussion: Implications for fostering collaborative comprehension. In L. B. Gambrell & J. F. Almasi (Eds.), *Lively discussions!* International Reading Association.
 - Cramer, M. M. (2004). *The language arts: A balanced approach to teaching reading, writing, listening, talking, and thinking*. Pearson.
-- Mercer, N. (2000). *Words and minds: How we use language to think together*. Routledge. [doi:10.4324/9780203464980](https://doi.org/10.4324/9780203464980)
+- Mercer, N. (2000). *Words and minds: How we use language to think together*. Routledge. [doi:10.4324/9780203464984](https://doi.org/10.4324/9780203464984)
 - Freeman, S., et al. (2014). Active learning increases student performance in science, engineering, and mathematics. *PNAS, 111*(23), 8410–8415. [doi:10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)

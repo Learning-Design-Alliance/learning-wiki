@@ -67,6 +67,6 @@ Signaling works by guiding selective attention and reducing extraneous processin
 ## Key Sources
 - Mautone, P. D., & Mayer, R. E. (2001). Signaling as a cognitive guide in multimedia learning. *Journal of Educational Psychology, 93*(2), 377–389. [doi:10.1037/0022-0663.93.2.377](https://doi.org/10.1037/0022-0663.93.2.377)
 - Johnson, C. I., & Mayer, R. E. (2012). An eye movement analysis of highlighting in computer-based instruction. *Journal of Educational Psychology, 104*(1), 250–262. [doi:10.1037/a0024608](https://doi.org/10.1037/a0024608)
-- Mayer, R. E. (2009). *Multimedia Learning* (2nd ed.). Cambridge University Press.
+- Mayer, R. E. (2009). *Multimedia Learning* (2nd ed.). Cambridge University Press. [doi:10.1017/cbo9780511811678](https://doi.org/10.1017/cbo9780511811678)
 - Mayer, R. E., & Fiorella, L. (2014). Principles for reducing extraneous processing in multimedia learning. In R. E. Mayer (Ed.), *The Cambridge Handbook of Multimedia Learning* (2nd ed., pp. 279–315). Cambridge University Press.
 - Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)

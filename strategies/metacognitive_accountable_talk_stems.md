@@ -71,5 +71,5 @@ Structured talk prompts convert discussion from unguided conversation into elabo
 - Michaels, S., O'Connor, C., & Resnick, L. B. (2008). Deliberative discourse idealized and realized: Accountable talk in the classroom and in civic life. *Studies in Philosophy and Education, 27*(4), 283–297. [doi:10.1007/s11217-007-9071-1](https://doi.org/10.1007/s11217-007-9071-1)
 - Resnick, L. B., Michaels, S., & O'Connor, C. (2010). How (well structured) talk builds the mind. In D. D. Preiss & R. J. Sternberg (Eds.), *Innovations in educational psychology* (pp. 163–194). Springer.
 - Chi, M. T. H., De Leeuw, N., Chiu, M.-H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477. [doi:10.1207/s15516709cog1803_3](https://doi.org/10.1207/s15516709cog1803_3)
-- Mercer, N. (2000). *Words and minds: How we use language to think together.* Routledge. [doi:10.4324/9780203464982](https://doi.org/10.4324/9780203464982)
+- Mercer, N. (2000). *Words and minds: How we use language to think together.* Routledge. [doi:10.4324/9780203464984](https://doi.org/10.4324/9780203464984)
 - Parrish, S. (2010). *Number talks: Helping children build mental math and computation strategies.* Math Solutions.

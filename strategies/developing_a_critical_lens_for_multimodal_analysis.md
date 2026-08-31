@@ -80,5 +80,5 @@ This strategy applies social-semiotic analysis to composition instruction: learn
 - Kress, G., & van Leeuwen, T. (2006). *Reading Images: The Grammar of Visual Design* (2nd ed.). Routledge.
 - Bezemer, J., & Kress, G. (2008). Writing in multimodal texts: A social semiotic account of designs for learning. *Written Communication, 25*(2), 166–195. [doi:10.1177/0741088307313177](https://doi.org/10.1177/0741088307313177)
 - Serafini, F. (2014). *Reading the Visual: An Introduction to Teaching Multimodal Literacy*. Teachers College Press.
-- Mayer, R. E. (2009). *Multimedia Learning* (2nd ed.). Cambridge University Press. [doi:10.1017/CBO9781139168798](https://doi.org/10.1017/CBO9781139168798)
+- Mayer, R. E. (2009). *Multimedia Learning* (2nd ed.). Cambridge University Press. [doi:10.1017/cbo9780511811678](https://doi.org/10.1017/cbo9780511811678)
 - Painter, C., Martin, J. R., & Unsworth, L. (2013). *Reading Visual Narratives: Image Analysis of Children's Picture Books*. Equinox.

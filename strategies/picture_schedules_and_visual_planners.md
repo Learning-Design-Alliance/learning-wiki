@@ -92,6 +92,6 @@ Visual schedules convert a verbal, memory-dependent sequence into a persistent e
 ## Key Sources
 - Mesibov, G. B., Shea, V., & Schopler, E. (2005). *The TEACCH Approach to Autism Spectrum Disorders.* Springer. [doi:10.1037/e609582010-006](https://doi.org/10.1037/e609582010-006)
 - Dutt, A., et al. (2019). Activity schedules for children with autism spectrum disorder: A review. *Review Journal of Autism and Developmental Disorders, 6*, 78–88.
-- Paivio, A. (1986). *Mental Representations: A Dual Coding Approach.* Oxford University Press.
+- Paivio, A. (1986). *Mental Representations: A Dual Coding Approach.* Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)
 - Mayer, R. E. (2021). *Multimedia Learning* (3rd ed.). Cambridge University Press. [doi:10.1017/9781316941355](https://doi.org/10.1017/9781316941355)
 - Sweller, J., Ayres, P., & Kalyuga, S. (2011). *Cognitive Load Theory.* Springer. [doi:10.1007/978-1-4419-8126-4](https://doi.org/10.1007/978-1-4419-8126-4)

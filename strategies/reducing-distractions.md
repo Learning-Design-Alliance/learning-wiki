@@ -69,5 +69,5 @@ Working memory is severely limited, and attention allocated to irrelevant input 
 ## Key Sources
 - Sana, F., Weston, T., & Cepeda, N. J. (2013). Laptop multitasking hinders classroom learning for both users and nearby peers. *Computers & Human Behavior, 29*(3), 706–709. [doi:10.1016/j.compedu.2012.10.003](https://doi.org/10.1016/j.compedu.2012.10.003)
 - Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the Science of Instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)
-- Mayer, R. E. (2021). *Multimedia Learning* (3rd ed.). Cambridge University Press.
+- Mayer, R. E. (2021). *Multimedia Learning* (3rd ed.). Cambridge University Press. [doi:10.1017/9781316941355](https://doi.org/10.1017/9781316941355)
 - Sweller, J., Ayres, P., & Kalyuga, S. (2011). *Cognitive Load Theory*. Springer. [doi:10.1007/978-1-4419-8126-4](https://doi.org/10.1007/978-1-4419-8126-4)

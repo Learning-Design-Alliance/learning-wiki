@@ -70,5 +70,5 @@ Video is effective when it functions as a model of social-emotional behavior rat
 ## Key Sources
 - Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development, 82*(1), 405–432. [doi:10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x)
 - Jones, D. E., Greenberg, M., & Crowley, M. (2015). Early social-emotional functioning and public health: The relationship between kindergarten social competence and future wellness. *American Journal of Public Health, 105*(11), 2283–2290. [doi:10.2105/AJPH.2015.302630](https://doi.org/10.2105/AJPH.2015.302630)
-- Mayer, R. E. (2021). *Multimedia Learning* (3rd ed.). Cambridge University Press.
+- Mayer, R. E. (2021). *Multimedia Learning* (3rd ed.). Cambridge University Press. [doi:10.1017/9781316941355](https://doi.org/10.1017/9781316941355)
 - Schonert-Reichl, K. A., Kitil, M. J., & Hanson-Peterson, J. (2017). To reach the students, teach the teachers: A national scan of teacher preparation and social and emotional learning. *University of British Columbia.* [doi:10.1353/foc.2017.0007](https://doi.org/10.1353/foc.2017.0007)

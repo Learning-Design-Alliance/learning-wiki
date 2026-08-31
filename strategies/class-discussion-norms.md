@@ -69,7 +69,7 @@ Discussion produces learning only when students actually reason with one another
 
 ## Key Sources
 - Michaels, S., O'Connor, C., & Resnick, L. B. (2008). Deliberative discourse idealized and realized: Accountable talk in the classroom and in civic life. *Studies in Philosophy and Education, 27*(4), 283–297. [doi:10.1007/s11217-007-9071-1](https://doi.org/10.1007/s11217-007-9071-1)
-- Mercer, N. (2000). *Words and minds: How we use language to think together.* Routledge.
+- Mercer, N. (2000). *Words and minds: How we use language to think together.* Routledge. [doi:10.4324/9780203464984](https://doi.org/10.4324/9780203464984)
 - Murphy, P. K., Wilkinson, I. A. G., Soter, A. O., Hennessey, M. N., & Alexander, J. F. (2009). Examining the effects of classroom discussion on students' comprehension of text: A meta-analysis. *Journal of Educational Psychology, 101*(3), 740–764. [doi:10.1037/a0015576](https://doi.org/10.1037/a0015576)
 - Alexander, R. (2018). Developing dialogic teaching: Genesis, process, trial. *Research Papers in Education, 33*(5), 561–581. [doi:10.1080/02671522.2018.1481140](https://doi.org/10.1080/02671522.2018.1481140)
 - Resnick, L. B., Michaels, S., & O'Connor, C. (2010). How (well-structured) talk builds the mind. In D. D. Preiss & R. J. Sternberg (Eds.), *Innovations in educational psychology* (pp. 163–194). Springer.

@@ -66,7 +66,7 @@ Combining words and pictures consistently outperforms words alone for transfer a
 - **Anatomy and physiology instruction** — labeled anatomical diagrams with narration replacing paragraph-length text descriptions, a standard application in medical education multimedia.
 
 ## Key Sources
-- Paivio, A. (1986). *Mental representations: A dual coding approach* (2nd ed.). Oxford University Press.
+- Paivio, A. (1986). *Mental representations: A dual coding approach* (2nd ed.). Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)
 - Mayer, R. E. (1997). Multimedia learning: Are we asking the right questions? *Educational Psychologist, 32*(1), 1–19. [doi:10.1207/s15326985ep3201_1](https://doi.org/10.1207/s15326985ep3201_1)
 - Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/CBO9780511811678](https://doi.org/10.1017/CBO9780511811678)
 - Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the Science of Instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)

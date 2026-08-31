@@ -72,4 +72,4 @@ Discussion after reading works because verbalizing interpretations forces elabor
 - Nystrand, M. (1997). *Opening dialogue: Understanding the dynamics of language and learning in the English classroom.* Teachers College Press.
 - Beck, I. L., & McKeown, M. G. (2001). Text talk: Capturing the benefits of read-aloud experiences for young children. *The Reading Teacher, 55*(1), 10–20.
 - Palincsar, A. S., & Brown, A. L. (1984). Reciprocal teaching of comprehension-fostering and comprehension-monitoring activities. *Cognition and Instruction, 1*(2), 117–175. [doi:10.1207/s1532690xci0102_1](https://doi.org/10.1207/s1532690xci0102_1)
-- Mercer, N. (2000). *Words and minds: How we use language to think together.* Routledge. [doi:10.4324/9780203464980](https://doi.org/10.4324/9780203464980)
+- Mercer, N. (2000). *Words and minds: How we use language to think together.* Routledge. [doi:10.4324/9780203464984](https://doi.org/10.4324/9780203464984)

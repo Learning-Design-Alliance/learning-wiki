@@ -84,4 +84,4 @@ Digital reading formats change how learners allocate attention between decoding 
 - Friesen, D. C., & Jared, D. (2012). Cross-language message- and word-level transfer effects in bilingual text processing. *Psychonomic Bulletin & Review, 19*(5), 929–936. [doi:10.3758/bf03193489](https://doi.org/10.3758/bf03193489)
 - Bus, A. G., Takacs, Z. K., & Kegel, C. A. T. (2015). Affordances and limitations of electronic storybooks for young children's emergent literacy. *Developmental Review, 35*, 79–97. [doi:10.1016/j.dr.2014.12.004](https://doi.org/10.1016/j.dr.2014.12.004)
 - Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the Science of Instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)
-- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press.
+- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)

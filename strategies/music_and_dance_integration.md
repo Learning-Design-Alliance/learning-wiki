@@ -67,6 +67,6 @@ Music and movement add a second, temporally structured representational channel 
 ## Key Sources
 - Courey, S. J., Balogh, E., Siker, J. R., & Paik, J. (2012). Academic music: Music instruction to engage third-grade students in learning basic fraction concepts. *Educational Studies in Mathematics, 81*(2), 251–278. [doi:10.1007/s10649-012-9395-9](https://doi.org/10.1007/s10649-012-9395-9)
 - Mayer, R. E. (2009). *Multimedia Learning* (2nd ed.). Cambridge University Press. [doi:10.1017/CBO9780511811678](https://doi.org/10.1017/CBO9780511811678)
-- Paivio, A. (1986). *Mental Representations: A Dual Coding Approach*. Oxford University Press.
+- Paivio, A. (1986). *Mental Representations: A Dual Coding Approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)
 - Geist, K., Geist, E. A., & Kuznik, K. (2012). The patterns of music: Young children learning mathematics through beat, rhythm, and melody. *YC Young Children, 67*(1), 74–79.
 - Schaffer, K., & Stern, E. (2011). *Math Dance with Dr. Schaffer and Mr. Stern*. Moveable Beats Press.

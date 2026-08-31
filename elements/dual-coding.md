@@ -26,4 +26,4 @@ Dual coding is the element in which verbal and visual representations are used t
 - [Multimedia Learning](multimedia-learning.md)
 
 ## Key Sources
-- Paivio, A. (1986). *Mental representations*. Oxford University Press.
+- Paivio, A. (1986). *Mental representations*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)

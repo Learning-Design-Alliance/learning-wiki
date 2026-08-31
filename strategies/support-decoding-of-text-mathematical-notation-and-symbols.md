@@ -69,6 +69,6 @@ Decoding is a prerequisite skill: until word or symbol recognition is automatic,
 ## Key Sources
 - LaBerge, D., & Samuels, S. J. (1974). Toward a theory of automatic information processing in reading. *Cognitive Psychology, 6*(2), 293–323. [doi:10.1016/0010-0285(74)90015-2](https://doi.org/10.1016/0010-0285(74)90015-2)
 - National Reading Panel (2000). *Teaching children to read: An evidence-based assessment of the scientific research literature on reading and its implications for reading instruction.* National Institute of Child Health and Human Development.
-- Paivio, A. (1986). *Mental representations: A dual coding approach.* Oxford University Press.
+- Paivio, A. (1986). *Mental representations: A dual coding approach.* Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)
 - Sweller, J., van Merriënboer, J. J. G., & Paas, F. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251–296. [doi:10.1023/a:1022193728205](https://doi.org/10.1023/a:1022193728205)
 - Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during instruction does not work. *Educational Psychologist, 41*(2), 75–86. [doi:10.1207/s15326985ep4102_1](https://doi.org/10.1207/s15326985ep4102_1)

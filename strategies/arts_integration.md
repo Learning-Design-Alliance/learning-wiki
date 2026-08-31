@@ -84,4 +84,4 @@ Arts integration works when the artistic task forces deep processing of the cont
 - Hardiman, M., Rinne, L., Gregory, E., & Yarmus-Heger, A. (2014). The effects of arts-integrated instruction on memory for math content. *Mind, Brain, and Education, 8*(1), 36–42. [doi:10.1016/j.tine.2019.02.002](https://doi.org/10.1016/j.tine.2019.02.002)
 - Winner, E., & Hetland, L. (2000). The arts and academic achievement: What the evidence shows. *Review of Educational Research, 70*(2).
 - Brouillette, L. (2009). How the arts help children to create healthy social scripts: Exploring the implications. *Education and Urban Society, 42*(3), 288–299. [doi:10.1080/10632910903228116](https://doi.org/10.1080/10632910903228116)
-- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press.
+- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)

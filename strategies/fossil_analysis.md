@@ -67,5 +67,5 @@ Observation-based tasks like this situate science learning in authentic discipli
 ## Key Sources
 - Eberbach, C., & Crowley, K. (2009). From everyday to scientific observation: How children learn to observe the biologist's world. *Journal of the Learning Sciences, 18*(1), 39–114. [doi:10.3102/0034654308325899](https://doi.org/10.3102/0034654308325899)
 - National Research Council. (2012). *A Framework for K–12 Science Education: Practices, Crosscutting Concepts, and Core Ideas.* National Academies Press. [doi:10.17226/13165](https://doi.org/10.17226/13165)
-- Paivio, A. (1986). *Mental Representations: A Dual Coding Approach.* Oxford University Press.
+- Paivio, A. (1986). *Mental Representations: A Dual Coding Approach.* Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)
 - Schwartz, D. L., & Bransford, J. D. (1998). A time for telling. *Cognition and Instruction, 16*(4), 475–522. [doi:10.1207/s1532690xci1604_4](https://doi.org/10.1207/s1532690xci1604_4)

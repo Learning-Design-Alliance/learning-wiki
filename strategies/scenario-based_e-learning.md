@@ -68,7 +68,7 @@ Scenario-based learning works because it situates knowledge in the context of us
 - **Branchtrack / Articulate Storyline** — authoring tools widely used for branching compliance and leadership scenarios in corporate L&D.
 
 ## Key Sources
-- Clark, R. C. (2013). *Scenario-based e-learning: Evidence-based guidelines for online workforce learning*. Wiley. [doi:10.1002/9781119204664](https://doi.org/10.1002/9781119204664)
+- Clark, R. C. (2013). *Scenario-based e-learning: Evidence-based guidelines for online workforce learning*. Wiley.
 - Kolodner, J. L. (1997). Educational implications of analogy: A view from case-based reasoning. *American Psychologist, 52*(1), 57–66. [doi:10.1037/0003-066X.52.1.57](https://doi.org/10.1037/0003-066X.52.1.57)
 - Spiro, R. J., Feltovich, P. J., Jacobson, M. J., & Coulson, R. L. (1992). Cognitive flexibility, constructivism, and hypertext. In T. M. Duffy & D. H. Jonassen (Eds.), *Constructivism and the technology of instruction* (pp. 57–75). Erlbaum.
 - Cook, D. A., Erwin, P. J., & Triola, M. M. (2010). Computerized virtual patients in health professions education: A meta-analysis. *Academic Medicine, 85*(10), 1583–1590. [doi:10.1097/ACM.0b013e3181edfe13](https://doi.org/10.1097/ACM.0b013e3181edfe13)

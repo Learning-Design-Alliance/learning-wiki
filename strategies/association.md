@@ -71,5 +71,5 @@ Association leverages the structure of long-term memory: new items encoded in co
 ## Key Sources
 - Bower, G. H. (1972). Mental imagery and associative learning. In L. W. Gregg (Ed.), *Cognition and Learning*. Wiley.
 - Atkinson, R. C. (1975). Mnemotechnics in second-language learning. *American Psychologist, 30*(8), 821–828. [doi:10.1037/h0077029](https://doi.org/10.1037/h0077029)
-- Paivio, A. (1986). *Mental Representations: A Dual Coding Approach*. Oxford University Press.
+- Paivio, A. (1986). *Mental Representations: A Dual Coding Approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)
 - Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)

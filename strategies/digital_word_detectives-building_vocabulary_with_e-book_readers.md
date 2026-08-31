@@ -71,6 +71,6 @@ Vocabulary is acquired primarily through repeated encounters with words in meani
 ## Key Sources
 - Nagy, W., & Townsend, D. (2012). Words as tools: Learning academic vocabulary as language acquisition. *Reading Research Quarterly, 47*(1), 91–108. [doi:10.1002/RRQ.011](https://doi.org/10.1002/RRQ.011)
 - Takacs, Z., Swart, E. K., & Bus, A. G. (2015). Benefits and pitfalls of multimedia and interactive features in technology-enhanced storybooks: A meta-analysis. *Review of Educational Research, 85*(4), 698–739. [doi:10.3102/0034654314566989](https://doi.org/10.3102/0034654314566989)
-- Paivio, A. (1986). *Mental representations: A dual coding approach.* Oxford University Press.
+- Paivio, A. (1986). *Mental representations: A dual coding approach.* Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)
 - Beck, I. L., McKeown, M. G., & Kucan, L. (2013). *Bringing words to life: Robust vocabulary instruction* (2nd ed.). Guilford Press.
 - Swanborn, M. S. L., & de Glopper, K. (1999). Incidental word learning while reading: A meta-analysis. *Review of Educational Research, 69*(3), 261–285. [doi:10.3102/00346543069003261](https://doi.org/10.3102/00346543069003261)

@@ -45,4 +45,4 @@ Multimedia learning is the element in which learners engage with coordinated com
 - Interactive lessons that combine diagrams, narration, and practice prompts.
 
 ## Key Sources
-- Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press.
+- Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/cbo9780511811678](https://doi.org/10.1017/cbo9780511811678)

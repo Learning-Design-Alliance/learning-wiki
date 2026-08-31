@@ -69,7 +69,7 @@ Positive narration draws on [Social Learning Theory](../theories/social-learning
 
 ## Key Sources
 - Kounin, J. S. (1970). *Discipline and group management in classrooms*. Holt, Rinehart & Winston.
-- Bandura, A. (1977). *Social learning theory*. Prentice Hall. [doi:10.1037/12256-000](https://doi.org/10.1037/12256-000)
+- Bandura, A. (1977). *Social learning theory*. Prentice Hall.
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
 - Bradshaw, C. P., Mitchell, M. M., & Leaf, P. J. (2010). Examining the effects of schoolwide positive behavioral interventions and supports on student outcomes. *Journal of Behavioral Education, 19*(2), 133–153. [doi:10.1177/1098300709334798](https://doi.org/10.1177/1098300709334798)
 - Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 125*(6), 627–668. [doi:10.1037/0033-2909.125.6.627](https://doi.org/10.1037/0033-2909.125.6.627)

@@ -81,4 +81,4 @@ Manipulatives leverage embodied and dual-coding pathways: pairing a concept with
 - McNeil, N. M., & Jarvin, L. (2007). When theories don't add up: Disentangling the manipulatives debate. *Theory Into Practice, 46*(4), 309–316. [doi:10.1080/00405840701593899](https://doi.org/10.1080/00405840701593899)
 - Resnick, L. B., & Omanson, S. F. (1987). Learning to understand arithmetic. In R. Glaser (Ed.), *Advances in instructional psychology* (Vol. 3, pp. 41–95). Lawrence Erlbaum.
 - Bruner, J. S. (1966). *Toward a theory of instruction*. Harvard University Press.
-- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press.
+- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)

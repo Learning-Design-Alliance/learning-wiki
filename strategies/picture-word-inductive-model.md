@@ -69,7 +69,7 @@ PWIM leverages the pairing of image and word to build vocabulary and word recogn
 
 ## Key Sources
 - Calhoun, E. F. (1999). *Teaching beginning reading and writing with the Picture Word Inductive Model*. ASCD.
-- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/oso/9780195066661.001.0001](https://doi.org/10.1093/oso/9780195066661.001.0001)
+- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)
 - Calhoun, E. F. (1999). Teaching beginning reading and writing with the Picture Word Inductive Model. In *Improving student learning through classroom research*. ASCD.
 - Ehri, L. C. (2005). Learning to read words: Theory, findings, and issues. *Scientific Studies of Reading, 9*(2), 167–188. [doi:10.1207/s1532799xssr0902_4](https://doi.org/10.1207/s1532799xssr0902_4)
 - National Reading Panel (2000). *Teaching children to read: An evidence-based assessment of the scientific research literature on reading and its implications for reading instruction*. National Institute of Child Health and Human Development.

@@ -60,7 +60,7 @@ Imagery-based encoding improves recall and comprehension because information sto
 
 ## Key Sources
 - Paivio, A. (1971). *Imagery and verbal processes*. Holt, Rinehart and Winston.
-- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press.
+- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)
 - Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/CBO9780511811678](https://doi.org/10.1017/CBO9780511811678)
 - Pressley, M. (1977). Imagery and children's learning: Putting the picture in developmental perspective. *Review of Educational Research, 47*(4), 585–622. [doi:10.3102/00346543047004585](https://doi.org/10.3102/00346543047004585)
 - Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the Science of Instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)

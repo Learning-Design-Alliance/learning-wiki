@@ -73,4 +73,4 @@ Drawing reduces the competing demands of early writing: young children must simu
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Review of Educational Research, 77*(1), 87–112. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
 - Kellogg, R. T. (2008). Training writing skill: A cognitive developmental perspective. *Current Directions in Psychological Science, 17*(2), 89–93. [doi:10.17239/jowr-2008.01.01.1](https://doi.org/10.17239/jowr-2008.01.01.1)
 - Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes.* Harvard University Press.
-- Paivio, A. (1986). *Mental representations: A dual coding approach.* Oxford University Press.
+- Paivio, A. (1986). *Mental representations: A dual coding approach.* Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)

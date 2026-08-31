@@ -67,5 +67,5 @@ Songs provide multiple redundant memory pathways: verbal content is encoded alon
 ## Key Sources
 - Calvert, S. L., & Tart, M. (1993). Song versus verbal forms for very-long-term, long-term, and short-term verbatim recall. *Journal of Applied Developmental Psychology, 14*(2), 245–260. [doi:10.1016/0193-3973(93)90035-t)90033-T](https://doi.org/10.1016/0193-3973(93)90035-t)90033-T)
 - Moreno, S., & Besson, M. (2006). Musical training and language-related brain electrical activity in children. *Psychophysiology, 43*(3), 287–291. [doi:10.1111/j.1469-8986.2006.00401.x](https://doi.org/10.1111/j.1469-8986.2006.00401.x)
-- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press.
+- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)
 - Tierney, A., & Kraus, N. (2013). The ability to move to a beat is linked to the consistency of neural responses to sound. *Journal of Neuroscience, 33*(38), 14981–14988. [doi:10.1523/JNEUROSCI.0612-13.2013](https://doi.org/10.1523/JNEUROSCI.0612-13.2013)

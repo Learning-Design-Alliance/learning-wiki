@@ -70,6 +70,6 @@ Simultaneous audio and visual presentation of text supports learners whose decod
 
 ## Key Sources
 - Montali, J., & Lewandowski, L. (1996). Bimodal reading: Benefits of a talking computer for average and less skilled readers. *Journal of Learning Disabilities, 29*(3), 271–279. [doi:10.1177/002221949602900305](https://doi.org/10.1177/002221949602900305)
-- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press.
+- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)
 - Rose, D. H., & Meyer, A. (2002). *Teaching every student in the digital age: Universal design for learning*. ASCD.
 - National Reading Panel (2000). *Teaching children to read: An evidence-based assessment of the scientific research literature on reading and its implications for reading instruction*. National Institute of Child Health and Human Development.
