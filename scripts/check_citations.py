@@ -694,14 +694,20 @@ def summarize(results: list[dict], noun: str, conflict_key: str = "conflict",
     split = [r for r in conflicts if tri[id(r)] == "split"]
 
     lines = [f"{len(conflicts)} DOI(s) with {noun}; {minority} citation(s) disagree with "
-             f"their DOI's leading reading.\n",
-             f"  {len(contra)} contra   - a variant leads, but the DOI itself contradicts "
-             f"it. FIX THESE FIRST: following the majority here rewrites correct "
-             f"citations to match wrong ones",
-             f"  {len(decided)} decided  - one variant leads 3:1 or better; the stragglers "
-             f"are the likely fabrications",
-             f"  {len(split)} split     - no variant leads; only Crossref settles these\n",
-             "  worst by number of citations affected:\n"]
+             f"their DOI's leading reading.\n"]
+    # Only claim a contra count when the contradiction test could actually run.
+    # triage() returns "contra" only when a consensus was supplied, so on a
+    # report without one the line is structurally always "0 contra" — which
+    # reads as "checked, found none" rather than "not checked", and that is
+    # the more dangerous of the two things to say.
+    if consensus is not None:
+        lines.append(f"  {len(contra)} contra   - a variant leads, but the DOI itself "
+                     f"contradicts it. FIX THESE FIRST: following the majority here "
+                     f"rewrites correct citations to match wrong ones")
+    lines += [f"  {len(decided)} decided  - one variant leads 3:1 or better; the stragglers "
+              f"are the likely fabrications",
+              f"  {len(split)} split    - no variant leads; only Crossref settles these\n",
+              "  worst by number of citations affected:\n"]
     # Contradicted first regardless of size — a wrong leader on five pages is
     # more urgent than an uncertain one on a hundred.
     ranked = sorted(conflicts, key=lambda r: (tri[id(r)] != "contra",
