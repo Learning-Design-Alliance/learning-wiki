@@ -543,10 +543,52 @@ def check_authority_conflicts(pages: dict[str, Path]) -> list[dict]:
     return issues
 
 
+# The only keys a frontmatter `sources:` entry carries, across all 810 of them.
+SOURCE_ENTRY_KEYS = {"id", "resource", "title", "author"}
+_SOURCE_KEY_RE = re.compile(r"^\s{4}([A-Za-z][\w-]*):")
+_SOURCE_ITEM_RE = re.compile(r"^\s{2}- (?:id|[A-Za-z][\w-]*):")
+
+
+def check_source_entry_keys(pages: dict[str, Path]) -> list[dict]:
+    """Unexpected keys inside a frontmatter `sources:` entry.
+
+    The narrow signal for a class of damage nothing else sees. A rewrite that
+    lands on the wrong line can overwrite a YAML *key* — one pass replaced
+    `resource: "https://doi.org/10.1016/j.learninstruc.2006.03.001"` with a
+    paper's title, leaving an entry keyed `DeFT` and no resource field. That
+    is still valid YAML and still a valid page, so the parser, mkdocs and
+    every other check pass it; only the fact that `DeFT` is not one of the
+    four keys this schema uses gives it away.
+
+    Deliberately not a check for a *missing* `resource`: ten entries in the
+    wiki legitimately have none, and flagging those would bury the signal in
+    known-good noise."""
+    issues = []
+    for slug, path in pages.items():
+        if "/" not in slug:
+            continue
+        text = path.read_text(encoding="utf-8")
+        if not text.startswith("---"):
+            continue
+        fm = text.split("\n---", 1)[0]
+        m = re.search(r"^sources:\s*$(.*?)(?=^\S|\Z)", fm, re.M | re.S)
+        if not m:
+            continue
+        for line in m.group(1).splitlines():
+            km = _SOURCE_KEY_RE.match(line)
+            if km and km.group(1) not in SOURCE_ENTRY_KEYS:
+                issues.append({"type": "unknown_source_key", "file": slug,
+                               "detail": f"sources entry has key {km.group(1)!r}; "
+                                         f"expected one of "
+                                         f"{', '.join(sorted(SOURCE_ENTRY_KEYS))} — a "
+                                         f"rewrite may have overwritten the key itself"})
+    return issues
+
+
 def main():
     parser = argparse.ArgumentParser(description="Lint the ld-wiki")
     parser.add_argument("--fix", action="store_true", help="Auto-promote clean draft pages to review")
-    parser.add_argument("--type", choices=["broken_links", "dead_anchors", "merge_markers", "drafts", "claims", "principles", "conflicts", "trust", "manifest", "type_banner", "authorities", "all"],
+    parser.add_argument("--type", choices=["broken_links", "dead_anchors", "merge_markers", "drafts", "claims", "principles", "conflicts", "trust", "manifest", "type_banner", "authorities", "source_keys", "all"],
                         default="all", help="Which checks to run")
     args = parser.parse_args()
 
@@ -568,6 +610,7 @@ def main():
         "manifest":      check_manifest_integrity,
         "type_banner":   check_type_banner,
         "authorities":   check_authority_conflicts,
+        "source_keys":   check_source_entry_keys,
     }
 
     selected = list(checks.keys()) if args.type == "all" else [args.type]
