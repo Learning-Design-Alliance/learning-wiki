@@ -211,6 +211,29 @@ routinely holds real uncommitted work, and keying on HEAD would call all of it i
   registrants, one of which may sit outside Crossref, so "some other DOI for this paper
   resolves" is *not* sufficient. Run it from the droplet; this sandbox cannot reach
   Crossref.
+- **Run `scripts/verify_citation_edits.py` after any citation tool writes, before you
+  commit.** Every data-corruption bug this pipeline has had was the same shape — a script
+  matching a *DOI* instead of a *citation*, and editing whatever line the DOI happened to
+  appear on. It has now happened three times: `strip_doi_from_line` removed a correct DOI
+  from a page that cited two works under one DOI; `apply_authorities` did the same
+  file-wide; and `fix_title` overwrote a frontmatter YAML key with a paper's title
+  (leaving a `sources` entry keyed `DeFT` and no `resource` field) and replaced a whole
+  prose paragraph on `strategies/explicit_instruction-spelling.md` with a registry title,
+  taking the sentence and the opening of a markdown link with it. **All three shipped, and
+  `lint.py` reported zero on all three** — the results are valid YAML, valid markdown and
+  plausible prose. The damage is only visible as "this edit landed somewhere an edit had
+  no business landing", which is a property of the *diff*, so no page-level check can see
+  it. `verify_citation_edits.py` reports every changed line that is not a citation line
+  and exits 1. It is a guard for tool runs, not a lint check — editing prose by hand will
+  and should trip it.
+- **Never branch a droplet run off whatever branch happens to be checked out.** A run on
+  `fix/fill-agreed-dois` was branched from `fix/crossref-citation-corrections` rather than
+  `main`, so every script executed at its pre-#45 version: no case-insensitive DOI
+  stripping, `have[0]` sampling instead of majority-title, and no `log_authority.py` at
+  all. The results looked plausible and the PR diff looked clean, because the missing
+  commits were already merged into `main` and so did not appear in a three-dot diff.
+  `git checkout main && git pull` first, every time, and check `git merge-base` if a run's
+  numbers look unexpectedly small.
 - **Third-party Actions are pinned to commit SHAs, with the tag in a trailing comment.**
   A tag is mutable — whoever owns that repo can repoint `@v4` at anything — and `docs.yml`
   runs with `contents: write` on every push to `main`. When bumping one, resolve the new
@@ -456,6 +479,7 @@ ld-wiki/
     add_type_banner.py ← inserts/refreshes the page-type banner under each page's H1 (see below)
     update_links_for_renames.py ← after pages are renamed, re-points every inbound cross-link (see below)
     lint.py            ← health-check (see Lint above)
+    verify_citation_edits.py ← after a citation tool writes: did it edit only citations? (see above)
 ```
 
 Each folder's `index.md` is itself a reserved OKF filename: no frontmatter (except the bundle-root's `okf_version`), and a plain `* [Title](slug.md) - description` bullet listing grouped by status. Regenerate these with `python3 scripts/build_indexes.py` rather than hand-editing them.
