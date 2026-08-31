@@ -1452,6 +1452,29 @@ routinely holds real uncommitted work, and keying on HEAD would call all of it i
   separately. <strong>Never repaired automatically</strong> — a subtitle is exactly the kind of
   plausible detail that is worth nothing unless it came from the registry, and the majority
   spelling is evidence, not proof. Resolve from a machine that can reach Crossref.</li>
+<li><strong>15 papers are cited with a <em>family</em> of near-identical DOIs</strong> — same registrant,
+  suffixes a few characters apart: 43 distinct DOIs over 90 citations, so at least 28 of
+  them are wrong, since at most one spelling of a suffix can be the article. Worst is
+  <code>okonofua-2016</code> with <strong>nine</strong> <code>10.1177/1745691615*</code> variants (alongside 27 pages citing
+  <code>10.1073/pnas.1523698113</code>, a different registrant and almost certainly the real one);
+  then <code>rosenshine-2012</code> with four <code>10.1080/00098655.2012.*</code>. <code>check_citations.py
+  --variants</code> reports them. This is the fourth defect shape and the other three checks are
+  structurally blind to it — <code>find_conflicts</code> says only "this paper carries N DOIs" and
+  treats nine digit-permutations of one suffix exactly like two unrelated publishers.</li>
+<li><strong>A variant family is a signal, not a verdict — never strip on family membership alone.</strong>
+  <code>ehri-2001</code> carries <code>10.1598/rrq.36.3.2</code> and <code>10.1598/rrq.36.3.3</code>: one character apart
+  and <em>both real</em>, consecutive articles in the same Reading Research Quarterly issue.
+  Nothing in the shape of a suffix separates that from a fabricated neighbour.</li>
+<li><strong>The family does make one case actionable, and it is the case a bare 404 could not
+  settle.</strong> When Crossref resolves one member of a family to the paper being cited and has
+  no record of another, the second is not "a registrar Crossref does not index" — its own
+  sibling proves the article <em>is</em> in Crossref, under a different suffix.
+  <code>resolve_citation_metadata.proven_fabrications()</code> (pure, tested offline) is the only
+  place that upgrades a 404 to a removal, and it requires the near-identical sibling
+  specifically: a preprint and its published version legitimately carry two DOIs from two
+  registrants, one of which may sit outside Crossref, so "some other DOI for this paper
+  resolves" is <em>not</em> sufficient. Run it from the droplet; this sandbox cannot reach
+  Crossref.</li>
 <li><strong>Third-party Actions are pinned to commit SHAs, with the tag in a trailing comment.</strong>
   A tag is mutable — whoever owns that repo can repoint <code>@v4</code> at anything — and <code>docs.yml</code>
   runs with <code>contents: write</code> on every push to <code>main</code>. When bumping one, resolve the new
