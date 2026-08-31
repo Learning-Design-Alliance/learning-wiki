@@ -128,11 +128,15 @@ routinely holds real uncommitted work, and keying on HEAD would call all of it i
   `resolve_citation_metadata.py` therefore also pulls in every DOI named in a citation
   conflict, which covers 142 DOIs the three checks cannot reach.
 - **A title mismatch does not say which side is wrong.** When the registry's title differs
-  but two of journal, volume and first page agree, the DOI is right and the *title* is the
+  but journal, volume **and first page** all agree, the DOI is right and the *title* is the
   fabrication — `strategies/student-shadowing-...` cites Cook-Sather (2006) as "Sound,
   presence, and silence in education" at exactly the Curriculum Inquiry 36(4) 359 the
   registry gives for "Sound, Presence, and Power". Stripping there deletes a correct DOI
-  and keeps the invented title. `resolve_citation_metadata.py` fixes the title in that case
+  and keeps the invented title. **Two of three is not enough** — the pair that satisfies it
+  is almost always journal + volume, and two articles in one volume of one journal is the
+  normal case, not evidence. At 2/3 the check proposed rewriting "Reading aloud improves
+  memory" to "Why are background telephone conversations distracting?". The first page is
+  what identifies an article within a volume. `resolve_citation_metadata.py` fixes the title in that case
   and strips only when nothing corroborates the DOI.
 - **Crossref returns HTML-escaped strings** — `Youth &amp; Society`. `doi_resolver` unescapes
   once at the boundary; writing the raw value puts the entity on the page.
