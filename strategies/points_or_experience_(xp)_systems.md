@@ -17,7 +17,7 @@ Point systems or experience (XP) systems reward learners for completing tasks, a
 
 ## Design Implications
 
-XP systems are a form of [gamification](../theories/behaviorism.md) that applies game scoring structures to learning activities. Meta-analytic evidence suggests gamification produces significant but small-to-moderate cognitive, motivational, and behavioral gains, with stronger effects when game elements are combined (e.g., points + badges + leaderboards) than when points stand alone [Gamification improves learning outcomes modestly, with stronger effects for combined game elements.](../claims/claim-slug.md) [~M]. Their motivational power depends on supporting learner autonomy: when learners choose which point-earning activities to pursue, the system can support intrinsic motivation, but when points function as controlling rewards for required work they risk undermining it [Rewards perceived as controlling can undermine intrinsic motivation for the rewarded activity.](../claims/autonomy-supports-intrinsic-motivation.md) [~S].
+XP systems are a form of [gamification](../theories/behaviorism.md) that applies game scoring structures to learning activities. Meta-analytic evidence suggests gamification produces significant but small-to-moderate cognitive, motivational, and behavioral gains, with stronger effects when game elements are combined (e.g., points + badges + leaderboards) than when points stand alone. Their motivational power depends on supporting learner autonomy: when learners choose which point-earning activities to pursue, the system can support intrinsic motivation, but when points function as controlling rewards for required work they risk undermining it [Rewards perceived as controlling can undermine intrinsic motivation for the rewarded activity.](../claims/autonomy-supports-intrinsic-motivation.md) [~S].
 
 ### Context
 #### Requirements
@@ -30,7 +30,7 @@ XP systems are a form of [gamification](../theories/behaviorism.md) that applies
 - Points can shift attention from learning to scoring; learners may choose easy, high-point tasks over difficult, valuable ones [Rewards perceived as controlling can undermine intrinsic motivation for the rewarded activity.](../claims/autonomy-supports-intrinsic-motivation.md) [-S] — the overjustification effect is strongest when rewards are expected, tangible, and contingent on task completion
 - Accumulation-only systems can demotivate learners who fall behind early, since catching up feels unattainable
 - Leaderboards paired with XP can depress motivation for lower-ranked learners; competitive displays should be optional or cohort-relative
-- Effects fade over time; novelty-driven engagement gains diminish in long courses [Gamification improves learning outcomes modestly, with stronger effects for combined game elements.](../claims/claim-slug.md) [~W]
+- Effects fade over time; novelty-driven engagement gains diminish in long courses
 
 #### Implementation Variability
 - **Grading replacement:** XP *is* the grade (e.g., all activities sum to a target); reduces loss aversion compared to deductions-from-100 grading
@@ -39,7 +39,7 @@ XP systems are a form of [gamification](../theories/behaviorism.md) that applies
 - **Team XP:** points accrue to groups, combining with [cooperative-learning](../patterns/cooperative-learning.md) structures
 
 ### Target Learners
-- K–12 and undergraduate learners in online or blended environments, where visible progress indicators compensate for reduced instructor presence [Gamification improves learning outcomes modestly, with stronger effects for combined game elements.](../claims/claim-slug.md) [~M]
+- K–12 and undergraduate learners in online or blended environments, where visible progress indicators compensate for reduced instructor presence
 - Learners motivated by mastery progress rather than social comparison; competitive displays can harm anxious or low-performing learners
 - Less effective for learners with strong intrinsic interest in the subject, for whom point scaffolding may crowd out existing motivation [Rewards perceived as controlling can undermine intrinsic motivation for the rewarded activity.](../claims/autonomy-supports-intrinsic-motivation.md) [~M]
 

@@ -10,6 +10,33 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-08-30
 
+* **Correction**: 17 pages — repaired all 20 broken cross-links: percent-encoded punctuation in slugs (14), over-deep `../../` paths (3), a filename truncated at its closing paren (2), a `principions/` typo, and two links retargeted to pages that exist
+* **Correction**: 12 pages — replaced citations of the placeholder `claims/claim-slug.md` with real claim links or plain prose; the link text stated a specific claim but resolved to a stub marked "should not be cited"
+* **Deprecate**: `claims/claim-slug.md` — removed; template example slug materialised as a page, cited by 11 pages as if it were evidence
+* **Deprecate**: `principles/principle-slug.md` — removed; duplicate Spaced Practice content at a template placeholder filename, merged into [principles/spacing](principles/spacing.md)
+* **Deprecate**: `strategies/slug.md` — removed; a strategy confabulated from the placeholder filename "slug", with real citations attached to a strategy that does not exist
+* **Correction**: `scripts/enrich.py` — added `repair_encoded_links()` (percent-decoding and path-depth repair, applied only when the corrected target exists) and a `PLACEHOLDER_SLUGS` guard stopping `create_missing_stubs()` from materialising template example links
+* **Correction**: [principles/spacing](principles/spacing.md) — Absorbed the duplicate at principles/principle-slug.md: linked Related Principles and Claims, fixed an internal Rohrer & Taylor DOI conflict
+* **Correction**: [strategies/puppet_shows_to_explore_emotions](strategies/puppet_shows_to_explore_emotions.md) — Replaced unfilled blank-template body with a sourced strategy page; set real title
+* **Correction**: [strategies/promoting_belonging_through_cues_and_representations](strategies/promoting_belonging_through_cues_and_representations.md) — Replaced unfilled blank-template body with a sourced strategy page; set real title
+* **Correction**: [strategies/teaching-as-learning](strategies/teaching-as-learning.md) — Replaced placeholder template body and enrichment reasoning transcript with a sourced strategy page
+* **Correction**: [strategies/sketchnoting](strategies/sketchnoting.md) — Replaced placeholder template body and enrichment reasoning transcript with a sourced strategy page
+* **Correction**: [strategies/ongoing_feedback_and_reflection](strategies/ongoing_feedback_and_reflection.md) — Replaced placeholder template body and enrichment reasoning transcript with a sourced strategy page
+* **Correction**: [strategies/norm_setting](strategies/norm_setting.md) — Replaced placeholder template body and enrichment reasoning transcript with a sourced strategy page
+* **Correction**: [strategies/multisensory-phonics-instruction](strategies/multisensory-phonics-instruction.md) — Replaced placeholder template body and enrichment reasoning transcript with a sourced strategy page
+* **Correction**: [strategies/leveraging_strengths_in_relationship_skills](strategies/leveraging_strengths_in_relationship_skills.md) — Replaced placeholder template body and enrichment reasoning transcript with a sourced strategy page
+* **Correction**: [strategies/have_explicit_conversations_about_emotions_and_social_issues,_including_issues_of_social_justice](strategies/have_explicit_conversations_about_emotions_and_social_issues,_including_issues_of_social_justice.md) — Replaced placeholder template body and enrichment reasoning transcript with a sourced strategy page
+* **Correction**: [strategies/formative-feedback](strategies/formative-feedback.md) — Replaced placeholder template body and enrichment reasoning transcript with a sourced strategy page
+* **Correction**: [strategies/formative-assessment-cycles](strategies/formative-assessment-cycles.md) — Replaced placeholder template body and enrichment reasoning transcript with a sourced strategy page
+* **Correction**: [strategies/define_and_apply_ethical_responsibility](strategies/define_and_apply_ethical_responsibility.md) — Replaced placeholder template body and enrichment reasoning transcript with a sourced strategy page
+* **Correction**: [strategies/contrasting-cases](strategies/contrasting-cases.md) — Replaced placeholder template body and enrichment reasoning transcript with a sourced strategy page
+* **Correction**: [strategies/classroom-design-for-engagement](strategies/classroom-design-for-engagement.md) — Replaced placeholder template body and enrichment reasoning transcript with a sourced strategy page
+* **Deprecate**: `strategies/a_finders_guide_to_facts.md` — removed; corrupted duplicate of [strategies/a_finder's_guide_to_facts](strategies/a_finders_guide_to_facts.md), inbound links retargeted
+* **Deprecate**: `strategies/multiple_representations.md` — removed; corrupted duplicate of [strategies/multiple-representations](strategies/multiple-representations.md), inbound links retargeted
+* **Correction**: [strategies/chunking_reduces_working_memory_load](strategies/chunking_reduces_working_memory_load.md) — Relabelled type claim -> strategy to match folder; retitled and added Instructions section
+* **Correction**: [claims/classroom-design-affects-learning-progress](claims/classroom-design-affects-learning-progress.md) — Replaced enrichment reasoning transcript with a sourced claim page; set id and evidence_strength
+* **Correction**: [strategies/on-the-job_training_(ojt)](<strategies/on-the-job_training_(ojt).md>) — Replaced exemplar frontmatter and reasoning transcript with a full OJT strategy page; type element -> strategy
+* **Correction**: [patterns/experiential-learning-cycle](patterns/experiential-learning-cycle.md) — Replaced enrichment reasoning transcript with a full pattern page; restored H1 and type banner
 * **Enrich**: Advance organizers improve learning — enriched from claims CSV via Claude
 * **Enrich**: Argumentation Improves Reasoning — enriched from claims CSV via Claude
 * **Enrich**: Adaptive learning improves outcomes — enriched from claims CSV via Claude

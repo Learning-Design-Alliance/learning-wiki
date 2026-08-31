@@ -23,7 +23,7 @@ Literature reviews develop disciplinary reasoning because learners must weigh co
 #### Requirements
 - Access to a real corpus (library databases, curated reading sets) with enough sources to permit genuine synthesis
 - An explicit organizational scheme — thematic, methodological, or chronological — taught before writing begins
-- Source-evaluation criteria (currency, method quality, bias) made explicit, as in [A Finder's Guide to Facts](../strategies/a_finders_guide_to_facts.md)
+- Source-evaluation criteria (currency, method quality, bias) made explicit, as in [A Finder's Guide to Facts](a_finders_guide_to_facts.md)
 - A synthesis scaffold such as an evidence matrix (source × claim × method × finding) to externalize comparisons
 
 #### Constraints

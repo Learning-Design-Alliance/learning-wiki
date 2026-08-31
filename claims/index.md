@@ -2,7 +2,7 @@
 
 Empirical claims with evidence ratings, sources, and competing views.
 
-**423 entries** · 0 stable · 28 in review · 395 drafts
+**422 entries** · 0 stable · 29 in review · 393 drafts
 
 ---
 
@@ -10,6 +10,7 @@ Empirical claims with evidence ratings, sources, and competing views.
 
 * [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md)
 * [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](chunking-reduces-working-memory-load.md)
+* [Classroom Design Affects Learning Progress](classroom-design-affects-learning-progress.md) - Physical classroom design factors — light, air quality, temperature, ownership, flexibility, and visual stimulation — account for a measurable share of variation in pupils' academic progress.
 * [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md)
 * [Different media combinations significantly affect the recall and retention of information](media-combinations-affect-recall-and-retention.md)
 * [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](erroneous-examples-build-conceptual-knowledge.md)
@@ -81,8 +82,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Checklist-based evaluation instruction does not reliably improve online source evaluation](checklist-evaluation-ineffective-online.md)
 * [Choice-rich infrastructure enables self-sustained, self-extending student projects well beyond a challenge's designed scope](choice-rich-infrastructure-supports-productive-deviation-and-learning.md)
 * [Civic Online Reasoning Instruction Improves Evaluation](civic-online-reasoning-instruction-improves-evaluation.md)
-* [Claim Slug](claim-slug.md)
-* [Classroom Design Affects Learning Progress](classroom-design-affects-learning-progress.md)
 * [Classroom Physical Activity Improves Attention](classroom-physical-activity-improves-attention.md)
 * [Clear Structure Improves Learning](clear-structure-improves-learning.md)
 * [Co-design tools for standards analysis, student-interest data, and launch rehearsal support balancing standards alignment with student interests](co-design-tools-support-balancing-standards-and-student-interests.md)

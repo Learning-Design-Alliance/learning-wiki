@@ -2,7 +2,7 @@
 
 Concrete teaching activity recipes — specific, implementable approaches.
 
-**2556 entries** · 0 stable · 2510 in review · 46 drafts
+**2557 entries** · 0 stable · 2524 in review · 33 drafts
 
 ---
 
@@ -276,6 +276,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Chunking Information](chunking_information.md) - Organize content into small, meaningful units so each fits within working memory limits before being consolidated into larger schemas.
 * [Chunking Instruction](chunking_instruction.md) - Breaking instructional content into small, coherent units that each fit within working memory limits before being integrated into larger wholes.
 * [Chunking Text](chunking-text.md) - Breaking continuous text into smaller, meaningfully organized units so working memory can process each unit before integrating them.
+* [Chunking to Reduce Working Memory Load](chunking_reduces_working_memory_load.md) - Grouping instructional material into meaningful units sized to working memory, so learners hold a few chunks rather than many separate elements.
 * [Circle Count](circle_count.md) - A whole-class oral counting routine in which students stand in a circle and count off in sequence, with variations in skip-counting patterns, starting numbers, and direction to build number-sense fluency.
 * [Circle Time Emotions](circle_time_emotions.md) - End each week with a group circle where students discuss different topics and share their feelings.
 * [Circulate and Listen During Pair Talk](circulate_and_listen_during_pair_talk.md) - Actively circulating and listening to pair discussions allows teachers to monitor engagement, reinforce expectations, offer support, and gauge the success of the thinking process.
@@ -297,6 +298,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Classroom Checklists](classroom_checklists.md) - Classroom checklists are structured visual aids that break tasks, routines, and assignments into discrete, trackable steps for students, teachers, and parents.
 * [Classroom Climate Routines](classroom-climate-routines.md) - Recurring, predictable practices that establish a safe, respectful, and productive classroom environment so instructional time is protected and students feel a sense of belonging.
 * [Classroom Community Building](classroom-community-building.md) - Deliberate design of interpersonal structures, norms, and shared activities so learners feel connected to peers and instructor, increasing engagement, persistence, and participation.
+* [Classroom Design for Engagement](classroom-design-for-engagement.md) - Arranging the physical classroom — light, air, layout, ownership, and wall display — so the room supports attention and participation instead of quietly competing with them.
 * [Classroom Design Optimization](classroom_design_optimization.md) - Optimizing classroom design (noise levels, temperature, seating arrangement) can minimize distractions and improve learning.
 * [Classroom Games](classroom_games.md) - Classroom games transform review time into engaging, collaborative activities that motivate learners and reinforce learning through active recall and peer interaction.
 * [Classroom Library](classroom_library.md) - A classroom library is a dedicated, curated in-classroom collection of books organized for easy access, designed to increase voluntary reading volume, engagement, and literacy growth.
@@ -438,6 +440,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Contextual Redefinition](contextual-redefinition.md) - Learners encounter an unfamiliar word in a rich sentence context, hypothesize its meaning, then receive confirmation or correction to refine the definition.
 * [Contextual Vocabulary Introduction](contextual_vocabulary_introduction.md) - Introducing vocabulary words within the context of a story or reading passage so learners derive meaning from surrounding text rather than from isolated definitions.
 * [Contract Grading](contract_grading.md) - An assessment arrangement in which instructor and learner agree in advance on the work, quality criteria, and grade attached to specified levels of completed work.
+* [Contrasting Cases](contrasting-cases.md) - Learners compare two or more cases that share surface features but differ on one critical dimension, so the dimension that matters becomes perceptible.
 * [Conver-Stations](conver-stations.md) - A small-group discussion strategy in which learners rotate between evolving groups, carrying ideas with them to broaden exposure to peers' perspectives.
 * [Conversations about Emotions and Social Issues](conversations_about_emotions_and_social_issues.md) - Structured, explicit conversations in which learners name, discuss, and reason about emotions and social issues, including issues of social justice.
 * [Cooperative Classroom Activities](cooperative_classroom_activities.md) - Design classroom activities that involve cooperative work rather than competitive or individualistic work.
@@ -549,6 +552,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Decodable Text Reading Practice](decodable-text-reading-practice.md) - Practice reading texts deliberately written so that most words contain only phonics patterns already taught, allowing learners to apply decoding skills rather than guess.
 * [Decodable Texts](decodable-texts.md) - Texts deliberately restricted to grapheme–phoneme correspondences and high-frequency words that students have already been taught, so early readers can decode rather than guess.
 * [Decoding Drills](decoding-drills.md) - Short, repeated, timed practice exercises in which learners apply letter–sound correspondences and blending routines to read words accurately and automatically.
+* [Define and Apply Ethical Responsibility](define_and_apply_ethical_responsibility.md) - Making the ethical obligations of a domain explicit, then having learners apply them to concrete, contested cases rather than affirm them in the abstract.
 * [Deliberate Play](deliberate-play.md) - Structured yet intrinsically motivating play activities designed to develop skills and enjoyment simultaneously, typically in early-stage skill development.
 * [Deliberate Practice](deliberate_practice.md) - Deliberate practice involves focused, strategic efforts to improve specific skills or knowledge areas.
 * [Demonstrating Caring](demonstrating_caring.md) - Demonstrating caring communicates sincere personal investment in learners through everyday actions and words, building the relational trust that underpins motivation, persistence, and classroom climate.
@@ -885,11 +889,13 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Follow-Up After Disciplining a Student](follow-up_after_disciplining_a_student.md) - After disciplining a learner, the instructor deliberately re-engages: touching base privately, acknowledging post-disciplinary successes, and persisting rather than writing the learner off.
 * [Follow-up After Discussions](follow-up_after_discussions.md) - Teachers support students in converting insights and emotions from equity-focused discussions into concrete action, while helping them process feelings such as guilt or shame constructively.
 * [Formative Assessment](formative-assessment.md) - Eliciting evidence of learner understanding during instruction and using it to adapt teaching and learning in real time.
+* [Formative Assessment Cycles](formative-assessment-cycles.md) - Running instruction as a repeating loop — elicit evidence of learning, interpret it, adjust teaching, then re-elicit — so that what happens next is decided by what students actually understood.
 * [Formative Assessment Loops](formative-assessment-loops.md) - A cyclical strategy in which evidence of student understanding is gathered mid-instruction, interpreted against learning goals, and used to adjust both teaching and learning before summative evaluation.
 * [Formative Assessment Routines](formative-assessment-routines.md) - Recurring, low-stakes checks embedded in instruction that surface learner understanding in time to adjust teaching before summative evaluation.
 * [Formative Assessment to Gauge Student Progress and Guide Instruction](formative_assessment_to_gauge_student_progress_and_guide_instruction.md) - Assessing student work on a regular basis provides both the teacher and the student with a sense of the student's progress, indicates strengths and areas for improvement, and helps the teacher plan appropriately to meet the student's needs.
 * [Formative Assessment With Feedback](formative-assessment-with-feedback.md) - Eliciting evidence of learning while it is still formable and returning specific, actionable feedback that both learner and instructor act on.
 * [Formative Evaluation](formative-evaluation.md) - Gathering and acting on evidence of learner understanding during instruction, before summative judgment, to adapt teaching and learning in real time.
+* [Formative Feedback](formative-feedback.md) - Giving learners information about their work that tells them where they are going, how they are doing, and what to do next — while there is still time and opportunity to act on it.
 * [Formative Feedback](formative_feedback.md) - Feedback delivered during learning that gives learners actionable information about their performance and how to improve, rather than an evaluative judgment of final quality.
 * [Formative Feedback Loops](formative-feedback-loops.md) - A cyclical process in which learner work is assessed against criteria, feedback is delivered and acted on, and revised performance is re-assessed — closing the gap between current and target performance.
 * [Formative Feedback Routines](formative-feedback-routines.md) - Recurring, structured cycles in which learners produce work, receive timely and actionable feedback, and act on it before the next attempt.
@@ -1011,6 +1017,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Handwriting Fluency Instruction](handwriting-fluency-instruction.md) - Explicit, timed practice that builds fast, legible, automatic letter formation so transcription no longer competes with composing for working memory.
 * [Handwriting Fluency Practice](handwriting-fluency-practice.md) - Timed, repeated writing practice designed to build automatic letter formation and transcription speed, freeing working memory for composing and comprehension.
 * [Handwriting Instruction](handwriting-instruction.md) - Explicit, systematic teaching of letter formation and handwriting fluency to build the automaticity that supports composition.
+* [Have Explicit Conversations About Emotions and Social Issues, Including Issues of Social Justice](have_explicit_conversations_about_emotions_and_social_issues,_including_issues_of_social_justice.md) - Making emotions and contested social realities a named, planned subject of classroom talk rather than something handled implicitly or avoided until an incident forces it.
 * [Headings and Highlight Strategy](headings_and_highlight_strategy.md) - A collaborative reading routine in which students highlight unknown words and key ideas, then negotiate four-word headings for text sections to force distillation of main ideas.
 * [Health and Dietary Planning](health_and_dietary_planning.md) - Learners study dietary guidance (e.g., the food pyramid), determine daily nutritional requirements, and plan a full day of meals that meets those requirements.
 * [Heat Transfer Investigations](heat_transfer_investigations.md) - Learners conduct structured, hands-on experiments comparing how different materials and environments affect the transfer of heat, building conceptual understanding of conduction and insulation alongside experimental practices.
@@ -1240,6 +1247,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Leveraging Native Language in PBL](leveraging_native_language_in_pbl.md) - Leveraging the native language in project-based learning (PBL) involves using students' multilingual abilities as an asset.
 * [Leveraging Strengths for Attention](leveraging_strengths_for_attention.md) - Identifying students' attention-related strengths and using them as entry points to support engagement and develop weaker attention skills.
 * [Leveraging Strengths for Emotional Regulation](leveraging_strengths_for_emotional_regulation.md) - Identifying students' existing strengths — cognitive, social, and dispositional — and deliberately recruiting them to support emotional regulation during learning.
+* [Leveraging Strengths in Relationship Skills](leveraging_strengths_in_relationship_skills.md) - Identifying the social capabilities a learner already has and building relationship-skill instruction outward from those, rather than starting from the interactions they handle badly.
 * [Leveraging Strengths Thinking](leveraging_strengths_thinking.md) - Shifting from deficit to strengths thinking, which views families as having significant expertise and resources that can inform and improve student learning.
 * [Leveraging Strengths to Address Attention Challenges](leveraging_strengths_to_address_attention_challenges.md) - Identify specific student strengths and challenges related to attention, then use strategies that leverage strengths — preferential seating, visual supports, and chunked directions — to sustain attention during learning.
 * [Leveraging Strengths to Address Learning Differences](leveraging_strengths_to_address_learning_differences.md) - Identify each learner's assets and challenges, then route learning through strengths while directly scaffolding areas of difficulty.
@@ -1447,6 +1455,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Multisensory Instruction](multisensory_instruction.md) - Multisensory instruction combines visual, auditory, and tactile-kinesthetic techniques simultaneously to teach skills — most prominently decoding and spelling — so that learning is reinforced through multiple sensory channels.
 * [Multisensory Letter Formation](multisensory-letter-formation.md) - Teaching letter shapes by simultaneously engaging visual, auditory, kinesthetic, and tactile channels — seeing, saying, tracing, and writing each letter.
 * [Multisensory Memory Strategies for Irregular Words](multisensory_memory_strategies_for_irregular_words.md) - Multisensory memory strategies for irregular words involve using multiple senses (visual, auditory, kinesthetic, and tactile) to enhance memory and retention of irregularly spelled words.
+* [Multisensory Phonics Instruction](multisensory-phonics-instruction.md) - Teaching letter–sound correspondences through simultaneous visual, auditory, and kinaesthetic-tactile channels — seeing the grapheme, saying the phoneme, and tracing or building it.
 * [Multisensory Phonics Instruction](multisensory_phonics_instruction.md) - Teaching letter–sound relationships through simultaneous visual, auditory, and kinesthetic–tactile channels so that decoding is grounded in multiple sensory traces.
 * [Multisensory Teaching](multisensory-teaching.md) - Teaching that deliberately pairs visual, auditory, kinesthetic, and tactile input so learners encode content through multiple modalities simultaneously.
 * [Multisyllable Word Instruction](multisyllable_word_instruction.md) - Multisyllable word instruction teaches learners to break words into syllables using the six syllable types, affixes, and schwa patterns to improve decoding and spelling.
@@ -1476,6 +1485,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Non-Confrontational Check-ins](non-confrontational_check-ins.md) - Brief, positive, low-stakes interactions at the classroom threshold that build rapport and preempt disruptive behavior before instruction begins.
 * [Non-intensive Home Numeracy Environment (HNE) Intervention Program](non-intensive_home_numeracy_environment_(hne)_intervention_program.md) - Teachers provide families with information, suggestions, and materials to increase the frequency and quality of math exploration and play at home.
 * [Nonconfrontational Statements and Informal Chitchat](nonconfrontational_statements_and_informal_chitchat.md) - Greeting students at the door and using brief, nonconfrontational statements and informal chitchat to pre-correct behavior, build relationships, and socialize students into productive classroom conduct.
+* [Norm Setting](norm_setting.md) - Establishing, with learners, an explicit and small set of behavioural agreements for how the group will work together — and then actually using them to name and repair behaviour.
 * [Normalizing Error](normalizing-error.md) - Deliberately framing errors as expected, informative, and safe so learners engage with mistakes rather than avoiding them.
 * [Normalizing Struggle](normalizing-struggle.md) - Creating a classroom culture in which difficulty and failure are framed as expected, valuable parts of learning, so students persist through challenges rather than avoiding them.
 * [Normalizing Struggle](normalizing_struggle.md) - Normalizing struggle creates classroom culture in which difficulty, error, and productive failure are treated as expected and valuable parts of learning rather than signs of inadequacy.
@@ -1501,11 +1511,13 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Offer Services and Events to Bring Parents into the School](offer_services_and_events_to_bring_parents_into_the_school.md) - Offer free classes and workshops that focus on topics of interest to parents, such as family nutrition, child development, or homework help.
 * [Offering Multiple Options for Family Engagement](offering_multiple_options_for_family_engagement.md) - Providing a variety of options will improve overall participation, particularly for families with significant barriers to engagement.
 * [Offline Learning Packets](offline-learning-packets.md) - Self-contained printed or downloadable packets that let learners work through structured instruction, practice, and self-assessment without connectivity or live instruction.
+* [On-the-Job Training (OJT)](on-the-job_training_(ojt).md) - Training delivered at the workplace during real production work, where an experienced worker guides a learner through actual tasks rather than simulated ones.
 * [One Minute Paper](one-minute-paper.md) - A brief end-of-class writing task in which learners respond to two questions — what was the most important thing learned, and what remains unclear.
 * [One Minute Papers](one-minute-papers.md) - A brief end-of-session writing activity in which learners respond to two prompts — the muddiest point and the most important thing learned — providing rapid formative feedback to the instructor.
 * [One-on-One Conference](one-on-one_conference.md) - One-on-one conferences involve providing individualized feedback to a learner in a private setting.
 * [One-Sentence Response](one-sentence_response.md) - When instructors ask a question, rather than having students raise hands, every learner writes a sentence to answer the question.
 * [Ongoing Feedback](ongoing_feedback.md) - Ongoing feedback provides feedback at multiple stages of the writing process rather than only on final products, allowing iterative revision while work is still in progress.
+* [Ongoing Feedback and Reflection](ongoing_feedback_and_reflection.md) - Pairing regular feedback with structured learner reflection over an extended period, so learners progressively take over the work of judging and adjusting their own performance.
 * [Online Videos for Family Learning](online_videos_for_family_learning.md) - Using online videos to make it easier for families with different language needs to explore and learn together.
 * [Open Classroom Climate](open_classroom_climate.md) - A learning environment where students feel safe to discuss controversial social and political issues and express opinions freely without judgment.
 * [Open Communication and Trust](open_communication_and_trust.md) - Establishing friendly, low-barrier communication channels between teacher, students, and families so that mutual respect and shared responsibility for learning improve both academic outcomes and attitudes.
@@ -1735,6 +1747,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Promote a Growth Mindset](promote_a_growth_mindset.md) - Promoting a growth mindset involves giving feedback that values effort, strategy, and progress, and framing ability as developable rather than fixed.
 * [Promote a Growth Mindset in Math](promote_a_growth_mindset_in_math.md) - Promote a growth mindset by giving feedback that values effort, strategy use, and persistence, showing learners that mathematical ability is malleable rather than fixed.
 * [Promoting a Growth Mindset](promoting_a_growth_mindset.md) - Promoting a growth mindset encourages learners to believe that ability is malleable, and shapes feedback, task framing, and classroom norms so that effort and strategy are treated as the path to improvement.
+* [Promoting Belonging Through Cues and Representations](promoting_belonging_through_cues_and_representations.md) - Deliberately shaping the ambient signals of a learning environment — images, examples, objects, language, and who is visibly present — so learners can read the setting as one they belong in.
 * [Promoting Belonging Through Instruction](promoting_belonging_through_instruction.md) - Teachers promote belonging through instructional choices and practices that signal all students are capable of success and valued members of the learning community.
 * [Promoting Self-Determination and Self-Advocacy in Students with Disabilities](promoting_self-determination_and_self-advocacy_in_students_with_disabilities.md) - Fostering self-determination and self-advocacy involves empowering students with disabilities to understand their needs, rights, and goals, and to actively participate in decisions about their education and lives.
 * [Promoting Self-Directed Learning Strategies](promoting_self-directed_learning_strategies.md) - Explicitly teaching students strategies for problem-solving, metacognition, and self-reflection so they can plan, monitor, and evaluate their own learning with decreasing support.
@@ -1762,6 +1775,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Publicize Volunteer Opportunities and Student Involvement](publicize_volunteer_opportunities_and_student_involvement.md) - Schools outline specific ways for parents to help in the classroom and at school, from inviting parents to watch group presentations to asking them to chaperone field trips.
 * [Publishing Student Work](publishing-student-work.md) - Students share finished work with a real audience beyond the teacher, giving their writing, projects, or performances authentic purpose and consequence.
 * [Pupil-Generated Word Problems](pupil-generated_word_problems.md) - Learners create their own word problems to deepen awareness of problem structure and sharpen basic math skills, fostering comfort in solving a variety of math problems.
+* [Puppet Shows to Explore Emotions](puppet_shows_to_explore_emotions.md) - Using puppets to act out emotionally charged situations so young children can name, discuss, and rehearse responses to feelings at one remove from themselves.
 * [Purpose (Pre-Reading)](purpose_(pre-reading).md) - Learners are given a specific purpose for reading, typically in the form of discussion questions about the content prepared by the teacher.
 * [Purposeful Scheduling for Learner Connections](purposeful_scheduling_for_learner_connections.md) - Instructors deliberately allocate class time and informal contact points for relationship-building activities that surface learner interests and make instruction more personally relevant.
 * [Push for Deeper Analysis](push_for_deeper_analysis.md) - Encourage students to go beyond surface-level reading and analyze how textual elements — sentence structure, word choice, organization — create meaning, with time and scaffolding for rereading and reflection.
@@ -2117,10 +2131,10 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Singing](singing.md) - Using sung melody and rhythm to encode, rehearse, and retrieve verbal content or to build musical/vocal skill itself.
 * [Six Consumer Questions](six_consumer_questions.md) - A set of six questions designed to help evaluate the trustworthiness of a news story.
 * [Six Thinking Hats](six_thinking_hats.md) - A parallel thinking process that separates thinking into six functions — each symbolized by a colored 'hat' — so groups can focus on one mode of thinking at a time and switch deliberately between them.
+* [Sketchnoting](sketchnoting.md) - Learners take notes as a mix of hand-drawn images, hand-lettered text, and visual structure, generating a representation of the material rather than transcribing it.
 * [Skimming](skimming.md) - Skimming involves reviewing a text quickly, focusing on headings, captions, and highlighted information, to gain familiarity with the material before reading it thoroughly.
 * [Skimming And Scanning](skimming-and-scanning.md) - Rapid reading techniques for locating gist or specific information in a text without reading every word.
 * [Skip Counting with Movement](skip_counting_with_movement.md) - Make up a movement that comes in 2, 3, or more parts.
-* [Slug](slug.md) - A slug is a short, memorable verbal label learners attach to an idea, case, or step to compress it into a retrievable cue.
 * [Small Group Instruction](small_group_instruction.md) - Small group instruction involves a teacher working with a small number of students on a specific skill or concept, enabling targeted support, immediate feedback, and tailored scaffolding.
 * [Small Group Phonemic Awareness Intervention](small-group-phonemic-awareness-intervention.md) - Targeted small-group instruction that develops learners' ability to hear, identify, and manipulate the individual sounds (phonemes) in spoken words.
 * [SMART Goal Setting](smart_goal_setting.md) - SMART goal setting ensures goals are Specific, Measurable, Attainable, Relevant, and Time-Specific.
@@ -2315,6 +2329,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Teacher-Student Reading Conferences](teacher-student_reading_conferences.md) - Schedule regular one-on-one conferences with students to assess their independent reading, provide individualized instructional support, and document progress.
 * [Teaching Academic Vocabulary](teaching_academic_vocabulary.md) - Explicitly teach discipline-specific academic vocabulary — including terms whose everyday meanings differ from their technical meanings — using visuals, context, and learners' home languages as supports.
 * [Teaching Academic Vocabulary in PBL](teaching_academic_vocabulary_in_pbl.md) - In project-based learning (PBL), teaching academic vocabulary involves identifying specialized or technical words students will encounter during a project and planning explicit instruction so all learners can access and use that language.
+* [Teaching as Learning](teaching-as-learning.md) - Learners study material in order to teach it to someone else, then actually teach it — the preparation and the explaining are the learning activity, not a service to the audience.
 * [Teaching For Transfer](teaching-for-transfer.md) - Designing instruction so that knowledge and skills acquired in one context are applied in new, dissimilar contexts.
 * [Teaching Metacognitive Strategies](teaching-metacognitive-strategies.md) - Explicitly teaching learners to plan, monitor, and evaluate their own thinking and learning processes.
 * [Teaching Social Awareness Through Current Events and Fictional Characters](teaching_social_awareness_through_current_events_and_fictional_characters.md) - Model empathy and explain different perspectives using current events and fictional characters as vehicles for social-emotional learning.
@@ -2594,11 +2609,10 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [3 2 1_Reflection](3-2-1_reflection.md) - A structured closure routine in which learners record 3 things they learned, 2 things they found interesting or want to know more about, and 1 question or lingering confusion.
 * [3-Source Rule](3-source_rule.md) - A corroboration strategy requiring students to confirm any claim found online against at least three independent sources before accepting or citing it.
 * [5-Minute Writing Conferences](5-minute_writing_conferences.md) - Brief, structured one-on-one conferences in which students lead with a self-assessment and the teacher delivers targeted, rubric-anchored feedback on one strength and one growth area.
-* [[Strategy Name]](promoting_belonging_through_cues_and_representations.md) - [One-line summary]
 * [\"Document Outline\" Tool]("document_outline"_tool.md) - Students use the \"Document outline\" tool in Google Docs to extract evidence supporting the main ideas they've found in a text.
 * [\"Headings and Highlight\" Strategy]("headings_and_highlight"_strategy.md) - A collaborative digital reading routine in which pairs highlight key ideas and distill sections into four-word headings, then compare and justify their choices with text evidence.
 
 
 ## Draft
 
-46 draft entries are currently omitted from this section page to keep the index navigable. Browse the folder directly or promote pages to `review` as they are curated.
+33 draft entries are currently omitted from this section page to keep the index navigable. Browse the folder directly or promote pages to `review` as they are curated.

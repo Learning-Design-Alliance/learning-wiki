@@ -59,7 +59,7 @@ Sourcing shifts learners from reading for content to reading for *warrant* — a
 6. Fade the routine: move from teacher-posed questions to learner-initiated sourcing on unfamiliar documents, ideally live web sources.
 
 ## Related Strategies
-- [A Finder's Guide to Facts](../strategies/a_finders_guide_to_facts.md) — a broader fact-checking framework in which sourcing is the first evaluative move
+- [A Finder's Guide to Facts](a_finders_guide_to_facts.md) — a broader fact-checking framework in which sourcing is the first evaluative move
 - [3-Source Rule](../strategies/3-source_rule.md) — corroboration across independent sources complements single-source provenance checks
 
 ## Examples

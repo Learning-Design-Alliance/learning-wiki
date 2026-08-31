@@ -222,6 +222,37 @@ dropping one.
 
 ---
 
+## Renaming a page
+
+Renaming a page is two jobs, and `git mv` only does the first. Nothing else in
+the wiki updates the pages that link to the one you moved, so a rename lands as
+a set of silently broken cross-links.
+
+The dangerous version is a rename that is correct in its own tree and breaks
+links only when merged forward, because the branch was cut before the linking
+pages existed. That has already happened once here: merging the scraper branch
+orphaned 17 links to `a_finder's_guide_to_facts.md`, renamed there to
+`a_finders_guide_to_facts.md`.
+
+After renaming, always run:
+
+```bash
+python3 scripts/update_links_for_renames.py --from-git --dry-run
+python3 scripts/update_links_for_renames.py --from-git --apply
+```
+
+It reads the renames staged in git (so `git mv` first, or `git add` the rename),
+and re-points every inbound link — same-folder, `../folder/`, bundle-absolute,
+and the percent-encoded spellings models emit for slugs containing `'`, `"`, `?`,
+`,`, `(`, `)`, `&`, `+`. Every rewrite is checked to resolve on disk before it is
+kept, so the pass cannot turn a working link into a broken one. Pass `--map
+<file>` instead of `--from-git` to drive it from an explicit `old<TAB>new` list.
+
+Then confirm with `python3 scripts/lint.py --type broken_links` and regenerate
+indexes with `python3 scripts/build_indexes.py`.
+
+---
+
 ## Cross-link conventions
 
 - Cross-links are standard markdown links, relative to the linking page: `slug.md` for another page in the same folder, `../folder/slug.md` for a page in a different folder (every content folder sits exactly one level under the wiki root, so `../folder/` always resolves correctly regardless of which folder you're linking from)
@@ -257,6 +288,7 @@ ld-wiki/
     log_revision.py    ← records a revision card + updates a page's `generated` field + appends to log.md
     log_source_review.py ← appends one entry to sources/manifest.ndjson (see Source Manifest below)
     add_type_banner.py ← inserts/refreshes the page-type banner under each page's H1 (see below)
+    update_links_for_renames.py ← after pages are renamed, re-points every inbound cross-link (see below)
     lint.py            ← health-check (see Lint above)
 ```
 

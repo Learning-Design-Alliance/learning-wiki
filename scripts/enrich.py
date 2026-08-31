@@ -282,6 +282,37 @@ _DELIBERATION_MARKERS = [
 _DELIBERATION_RE = re.compile("|".join(_DELIBERATION_MARKERS), re.IGNORECASE)
 
 
+# folder name -> the singular value frontmatter `type:` must carry. Same
+# mapping add_type_banner.py uses; duplicated here so the write guard has no
+# dependency that could be skipped.
+_FOLDER_TYPE = {
+    "principles": "principle", "elements": "element", "patterns": "pattern",
+    "strategies": "strategy", "theories": "theory", "claims": "claim",
+    "learner-variables": "learner-variable",
+}
+
+# Literal placeholder strings from the page templates. A response that echoes
+# the blank template back passes every structural check: the frontmatter
+# closes, there is an H1 (`# [Strategy Name]`), and there are `##` sections.
+# Fourteen pages reached disk exactly this way — nine of them also keeping
+# `title: [Strategy Name]`, so the strategies index listed nine pages by that
+# name — and two carried no authoring commentary at all, so the marker scan
+# above could not see them either.
+_TEMPLATE_PLACEHOLDERS = re.compile(
+    r"\[(?:"
+    r"Strategy Name|Principle Name|Element Name|Pattern Name|Theory Name"
+    r"|One-line summary|One-sentence summary[^\]]*"
+    r"|What this (?:strategy|principle|element|pattern|theory) is[^\]]*"
+    r"|1-2 sentence overview[^\]]*|2-3 sentences"
+    r"|what is needed|conditions where effectiveness drops|variations or adaptations"
+    r"|who benefits most|types of objectives served|Step with links to elements"
+    r"|Related Strategy|Concrete example in a real context"
+    r"|APA citation with DOI link if available|Claim statement[^\]]*"
+    r")\]",
+    re.IGNORECASE,
+)
+
+
 def _reject_non_page_body(path: Path, content: str) -> None:
     """Refuse output that has valid frontmatter but isn't a wiki page.
 
@@ -297,7 +328,51 @@ def _reject_non_page_body(path: Path, content: str) -> None:
     Raises InvalidPageContentError so the caller's per-page handler reports
     it and leaves the file on disk untouched — the same contract as the
     frontmatter check."""
-    body = content.split("---", 2)[-1] if content.count("---") >= 2 else content
+    # Frontmatter must actually CLOSE. A response truncated at max_tokens
+    # partway through the `sources:` list opens the block and never ends it,
+    # so there is no body at all — strategies/a_finders_guide_to_facts.md
+    # reached disk that way. split("---", 2) cannot tell that apart from a
+    # real page, so parse it properly.
+    fm_lines, body = ok.split_frontmatter(content)
+    if not fm_lines:
+        raise InvalidPageContentError(
+            f"Model response has no closed frontmatter block — refusing to write over "
+            f"{path}. Either the response was truncated partway through the frontmatter, "
+            f"or a bare '---' rule opened a prose preamble. "
+            f"First 200 chars: {content.strip()[:200]!r}"
+        )
+
+    # The folder is what actually determines a page's section (see
+    # add_type_banner.py), so a mismatch means the response is describing a
+    # different page than the one being written. strategies/on-the-job_training_(ojt).md
+    # reached disk declaring `type: element` with the template exemplar's own
+    # title, "Demonstration" — the salvage pass had sliced into the exemplar's
+    # frontmatter rather than the page's.
+    declared = ok.parse_frontmatter_scalars(fm_lines).get("type", "").strip()
+    expected = _FOLDER_TYPE.get(path.parent.name)
+    if expected and declared and declared != expected:
+        raise InvalidPageContentError(
+            f"Model response declares type: {declared!r} but the page is in "
+            f"{path.parent.name}/ — expected {expected!r}. Refusing to write over {path}."
+        )
+
+    placeholders = _TEMPLATE_PLACEHOLDERS.findall(content)
+    if placeholders:
+        raise InvalidPageContentError(
+            f"Model response still contains unfilled template placeholders "
+            f"({sorted(set(placeholders))[:4]!r}) — it echoed the blank template instead "
+            f"of writing the page. Refusing to write over {path}."
+        )
+
+    # An orphan closing fence as the body's first content is the signature of a
+    # response whose opening ```markdown fence was only half-stripped by
+    # salvage_leading_junk().
+    if body.lstrip().startswith("```"):
+        raise InvalidPageContentError(
+            f"Model response body opens with a stray code fence — the response was "
+            f"wrapped in a fenced block that only got half-stripped. Refusing to write "
+            f"over {path}."
+        )
 
     if not re.search(r"^# \S", body, re.MULTILINE):
         raise InvalidPageContentError(
@@ -1331,7 +1406,9 @@ def cmd_collect(args: argparse.Namespace) -> None:
         if result.result.type == "succeeded":
             try:
                 content = unwrap_json_response(anthropic_text(result.result.message.content))
+                content, enc_repairs = repair_encoded_links(content, args.type)
                 content, repairs = repair_misfiled_links(content, args.type)
+                repairs = enc_repairs + repairs
                 write_enriched_page(page_path, content)
                 if not getattr(args, "no_verify_citations", False):
                     for r in verify_page_citations(page_path):
@@ -1465,6 +1542,48 @@ def parse_wikilinks(content: str, current_folder: str = None) -> list[tuple[str,
     return links
 
 
+def repair_encoded_links(content: str, current_folder: str) -> tuple[str, list[str]]:
+    """Normalise two mechanical link defects that leave a link broken even
+    though its target exists.
+
+    1. Percent-encoded punctuation. Many slugs here contain literal apostrophes,
+       quotes, question marks and commas, and models URL-encode them on the way
+       out (%27, %22, %3F, %2C). Nothing in this pipeline encodes link targets,
+       so it comes straight from the model; fourteen links across the wiki were
+       broken this way, every one pointing at a file that existed.
+    2. Over-deep relative paths. Every content folder sits exactly one level
+       under the bundle root, so "../../theories/x.md" can never resolve.
+
+    Rewrites only when the corrected target exists on disk, so a repair can
+    never turn a working link into a broken one.
+    """
+    ENCODINGS = {"%27": "'", "%22": '"', "%3F": "?", "%3f": "?", "%2C": ",",
+                 "%2c": ",", "%20": " ", "%28": "(", "%29": ")"}
+    repairs = []
+    base = WIKI_ROOT / current_folder if current_folder else WIKI_ROOT
+
+    def resolves(target: str) -> bool:
+        try:
+            return (base / target).resolve().is_file()
+        except (OSError, ValueError):
+            return False
+
+    def fix(match: re.Match) -> str:
+        target = match.group(1)
+        fixed = target
+        for enc, raw in ENCODINGS.items():
+            fixed = fixed.replace(enc, raw)
+        while fixed.startswith("../../"):
+            fixed = fixed.replace("../../", "../", 1)
+        if fixed != target and not resolves(target) and resolves(fixed):
+            repairs.append(f"{target} -> {fixed}")
+            return f"]({fixed})"
+        return match.group(0)
+
+    content = re.sub(r"\]\(([^)\s]+\.md)\)", fix, content)
+    return content, repairs
+
+
 def repair_misfiled_links(content: str, current_folder: str) -> tuple[str, list[str]]:
     """
     The single most common mistake seen from enrichment models in practice:
@@ -1507,6 +1626,22 @@ def repair_misfiled_links(content: str, current_folder: str) -> tuple[str, list[
     return content, repairs
 
 
+# Slugs that only ever appear as the *example* link target inside a page
+# template ("[Claim statement](../claims/claim-slug.md)", "[Title](slug.md)").
+# A model copying a template example verbatim used to get a real page created
+# for it: claims/claim-slug.md, principles/principle-slug.md and
+# strategies/slug.md all existed this way. Eleven real pages ended up citing
+# claims/claim-slug.md as if it were evidence — each with a specific, plausible
+# claim statement as the link text, resolving to a stub whose body reads "This
+# page is a placeholder stub... It should not be cited." The third was worse:
+# handed the filename "slug", the enricher confabulated a fully-formed strategy
+# page, with four real citations attached to something that does not exist.
+PLACEHOLDER_SLUGS = {
+    "slug", "claim-slug", "principle-slug", "element-slug",
+    "pattern-slug", "strategy-slug", "theory-slug",
+}
+
+
 def create_missing_stubs(content: str, current_folder: str = None) -> list[str]:
     """
     Scan content for wikilinks (see parse_wikilinks). For any that don't have
@@ -1517,6 +1652,11 @@ def create_missing_stubs(content: str, current_folder: str = None) -> list[str]:
 
     for folder, slug in parse_wikilinks(content, current_folder):
         if folder not in STUB_FOLDERS:
+            continue
+        if slug in PLACEHOLDER_SLUGS:
+            print(f"  [skip stub] {folder}/{slug}.md is a template example slug, not a real "
+                  f"page — the response copied a template link verbatim; the citing page "
+                  f"needs a real target.")
             continue
         key = (folder, slug)
         if key in seen:
@@ -1640,7 +1780,9 @@ def cmd_run(args: argparse.Namespace) -> None:
                 )
                 content = anthropic_text(response.content)
 
+            content, enc_repairs = repair_encoded_links(content, args.type)
             content, repairs = repair_misfiled_links(content, args.type)
+            repairs = enc_repairs + repairs
             if repairs:
                 with print_lock:
                     print(f"  [fixed links] {name}: {', '.join(repairs)}")

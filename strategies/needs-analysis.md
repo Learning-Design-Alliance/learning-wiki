@@ -17,14 +17,14 @@ Needs analysis (often called needs assessment) is the front-end process of deter
 
 ## Design Implications
 
-Needs analysis protects against the most common instructional design failure: building training for a problem that is not instructional in origin. Performance gaps can stem from missing tools, unclear expectations, inadequate incentives, or environmental obstacles; instruction aimed at these causes is wasted effort [Training interventions matched to diagnosed causes outperform generic solutions.](../claims/claim-slug.md) [+W]. Analysis should distinguish *can't* (knowledge/skill deficit — trainable) from *won't* (motivation or consequence problem — usually not) before committing to a design.
+Needs analysis protects against the most common instructional design failure: building training for a problem that is not instructional in origin. Performance gaps can stem from missing tools, unclear expectations, inadequate incentives, or environmental obstacles; instruction aimed at these causes is wasted effort. Analysis should distinguish *can't* (knowledge/skill deficit — trainable) from *won't* (motivation or consequence problem — usually not) before committing to a design.
 
 ### Context
 #### Requirements
 - Access to multiple data sources: performers, supervisors, and ideally the work products or performance records themselves
 - A clear statement of the desired state (standard, competency, or organizational goal) against which current performance is compared
 - Willingness to conclude that instruction is *not* the answer when the data say so
-- Triangulation across methods — surveys alone systematically misidentify causes [Self-report data about performance causes diverge from observed performance data.](../claims/claim-slug.md) [+W]
+- Triangulation across methods — surveys alone systematically misidentify causes, since self-reported explanations of a performance gap frequently diverge from what observation shows
 
 #### Constraints
 - Analysis conducted only with managers or sponsors (not performers) produces solutions that miss the actual workflow [~W]

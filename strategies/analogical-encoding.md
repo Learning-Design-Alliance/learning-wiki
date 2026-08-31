@@ -17,7 +17,7 @@ Analogical encoding asks learners to compare two or more surface-different cases
 
 ## Design Implications
 
-Comparison is what drives the abstraction: a single case tends to be encoded in terms of its surface story, while two aligned cases force attention to shared relations [Gick & Holyoak showed that comparing two analogs roughly doubles spontaneous transfer to a structurally similar problem.](../claims/claim-slug.md) [+S]. The strategy enacts [Analogical Reasoning](../principles/analogical-reasoning.md) as a learning mechanism rather than only a presentation device. Because comparing two full cases adds working-memory load, cases should be presented side by side, aligned element-by-element, and kept short [Chunking reduces working-memory load.](../claims/chunking-reduces-working-memory-load.md) [+S].
+Comparison is what drives the abstraction: a single case tends to be encoded in terms of its surface story, while two aligned cases force attention to shared relations [Analogical Reasoning Improves Transfer](../claims/analogical-reasoning-improves-transfer.md) [+S]. The strategy enacts [Analogical Reasoning](../principles/analogical-reasoning.md) as a learning mechanism rather than only a presentation device. Because comparing two full cases adds working-memory load, cases should be presented side by side, aligned element-by-element, and kept short [Chunking reduces working-memory load.](../claims/chunking-reduces-working-memory-load.md) [+S].
 
 ### Context
 #### Requirements
@@ -39,7 +39,7 @@ Comparison is what drives the abstraction: a single case tends to be encoded in 
 - **Delayed comparison**: cases studied separately, then compared — weaker than simultaneous comparison but easier to schedule
 
 ### Target Learners
-- Novices who default to surface-based encoding and need help seeing relational structure [Comparing two analogs improves spontaneous transfer relative to studying one case.](../claims/claim-slug.md) [+S]
+- Novices who default to surface-based encoding and need help seeing relational structure [Analogical Reasoning Improves Transfer](../claims/analogical-reasoning-improves-transfer.md) [+S]
 - Learners in domains where problems look different on the surface but share structure (negotiation, physics, statistics, management)
 - Less useful for experts, who already abstract structure and may find comparison redundant [Expertise reverses the benefit of added instructional support.](../claims/expertise-reversal-effect.md) [~M]
 
