@@ -67,7 +67,7 @@ Empathic discipline works by interrupting the punitive cycle in which teachers i
 
 ## Key Sources
 - Okonofua, J. A., Paunesku, D., & Walton, G. M. (2016). Brief intervention to encourage empathic discipline cuts suspension rates in half among adolescents. *Proceedings of the National Academy of Sciences, 113*(19), 5221–5226. [doi:10.1073/pnas.1523698113](https://doi.org/10.1073/pnas.1523698113)
-- Okonofua, J. A., & Eberhardt, J. L. (2015). Two strikes: Race and the disciplining of young students. *Psychological Science, 26*(5), 617–624. [doi:10.1037/pspi0000018](https://doi.org/10.1037/pspi0000018)
+- Okonofua, J. A., & Eberhardt, J. L. (2015). Two strikes: Race and the disciplining of young students. *Psychological Science, 26*(5), 617–624.
 - Gregory, A., Clawson, K., Davis, A., & Gerewich, J. (2016). The potential of restorative practices to ameliorate discipline gaps: The story of one school's reform. *American Educational Research Journal, 53*(2), 322–363. [doi:10.3102/0002831216635742](https://doi.org/10.3102/0002831216635742)
 - Noddings, N. (2013). *Caring: A relational approach to ethics and moral education* (2nd ed.). University of California Press.
 - Yeager, D. S. (2017). Social-emotional learning programs for adolescents. *The Future of Children, 27*(1), 73–94. [doi:10.1353/foc.2017.0004](https://doi.org/10.1353/foc.2017.0004)

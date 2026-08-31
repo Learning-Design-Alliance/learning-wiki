@@ -84,7 +84,7 @@ Process praise works because it makes the *causal attribution* for success or fa
 - Dweck, C. S. (2006). *Mindset: The new psychology of success*. Random House.
 - Mueller, C. M., & Dweck, C. S. (1998). Praise for intelligence can undermine children's motivation and performance. *Journal of Personality and Social Psychology, 75*(1), 33–52. [doi:10.1037/0022-3514.75.1.33](https://doi.org/10.1037/0022-3514.75.1.33)
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
-- Cimpian, A., Arce, H.-M. C., Markman, E. M., & Dweck, C. S. (2007). Generic language and judgements about categories of people. *Child Development, 78*(2), 535–552. [doi:10.1111/j.1467-8624.2007.01009.x](https://doi.org/10.1111/j.1467-8624.2007.01009.x)
+- Cimpian, A., Arce, H.-M. C., Markman, E. M., & Dweck, C. S. (2007). Generic language and judgements about categories of people. *Child Development, 78*(2), 535–552.
 - Sisk, V. F., Burgoyne, A. P., Sun, J., Butler, J. L., & Macnamara, B. N. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science, 29*(4), 549–571. [doi:10.1177/0956797617739704](https://doi.org/10.1177/0956797617739704)
 - Dweck, C. S. (2000). *Self-theories: Their role in motivation, personality, and development*. Psychology Press.
 - Arduini-Van Hoose, N. (2020). Providing feedback. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

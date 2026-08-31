@@ -68,7 +68,7 @@ Reading aloud converts visual input into auditory output, adding a second encodi
 
 ## Key Sources
 - MacLeod, C. M., Gopie, N., Hourihan, K. L., Neary, K. R., & Ozubko, J. D. (2010). The production effect: Delineation of a phenomenon. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 36*(3), 671–685. [doi:10.1037/a0018785](https://doi.org/10.1037/a0018785)
-- Forrin, N. D., & MacLeod, C. M. (2018). Reading aloud improves memory: A production effect in the classroom. *Journal of Experimental Psychology: Applied, 24*(2), 138–156. [doi:10.1037/xap0000170](https://doi.org/10.1037/xap0000170)
+- Forrin, N. D., & MacLeod, C. M. (2018). Reading aloud improves memory: A production effect in the classroom. *Journal of Experimental Psychology: Applied, 24*(2), 138–156.
 - National Institute of Child Health and Human Development. (2000). *Report of the National Reading Panel: Teaching children to read.* U.S. Government Printing Office.
 - Sweller, J., van Merriënboer, J. J. G., & Paas, F. (2019). Cognitive architecture and instructional design: 20 years later. *Educational Psychology Review, 31*(2), 261–292. [doi:10.1007/s10648-019-09465-5](https://doi.org/10.1007/s10648-019-09465-5)
 

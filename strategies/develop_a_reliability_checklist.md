@@ -84,5 +84,5 @@ Co-constructing evaluation criteria converts source evaluation from an implicit 
 ## Key Sources
 - Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(11), 1–40.
 - Britt, M. A., & Aglinskas, C. (2002). Improving students' ability to identify and use source information. *Cognition and Instruction, 20*(4), 485–522. [doi:10.1207/s1532690xci2004_2](https://doi.org/10.1207/s1532690xci2004_2)
-- Walraven, A., Brand-Gruwel, S., & Boshuizen, H. P. A. (2008). How students evaluate sources and sources of information when searching the World Wide Web for information. *Computers &amp; Education, 52*(1), 234-246. [doi:10.1016/j.compedu.2008.08.003](https://doi.org/10.1016/j.compedu.2008.08.003)
+- Walraven, A., Brand-Gruwel, S., & Boshuizen, H. P. A. (2008). How students evaluate sources and sources of information when searching the World Wide Web for information. *Computers & Education, 52*(1), 234-246. [doi:10.1016/j.compedu.2008.08.003](https://doi.org/10.1016/j.compedu.2008.08.003)
 - Brand-Gruwel, S., Wopereis, I., & Walraven, A. (2009). A descriptive model of information problem solving while using internet. *Computers & Education, 53*(4), 1207–1217. [doi:10.1016/j.compedu.2009.06.004](https://doi.org/10.1016/j.compedu.2009.06.004)

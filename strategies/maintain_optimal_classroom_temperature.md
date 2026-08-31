@@ -63,7 +63,7 @@ Thermal discomfort functions as extraneous cognitive load: the body's effort to 
 - **Practical low-cost case** — a teacher without thermostat access uses a $10 thermometer, cross-ventilation before class, fans, and a seating plan that moves heat-sensitive students away from sunlit windows.
 
 ## Key Sources
-- Wargocki, P., & Wyon, D. P. (2007). The effects of moderately raised classroom temperatures and classroom ventilation rate on the performance of schoolwork by children. *HVAC&amp;R Research, 13*(2), 193-220. [doi:10.1080/10789669.2007.10390951](https://doi.org/10.1080/10789669.2007.10390951)
+- Wargocki, P., & Wyon, D. P. (2007). The effects of moderately raised classroom temperatures and classroom ventilation rate on the performance of schoolwork by children. *HVAC&R Research, 13*(2), 193-220. [doi:10.1080/10789669.2007.10390951](https://doi.org/10.1080/10789669.2007.10390951)
 - Wargocki, P., & Wyon, D. P. (2013). Providing better thermal and air quality conditions in school classrooms would be cost-effective. *Building and Environment, 64*, 139–153. [doi:10.1016/j.buildenv.2012.10.007](https://doi.org/10.1016/j.buildenv.2012.10.007)
 - Goodman, J., Hurwitz, M., Park, J., & Smith, J. (2020). Heat and learning. *American Economic Journal: Economic Policy, 12*(2), 306–339. [doi:10.1257/pol.20180612](https://doi.org/10.1257/pol.20180612)
 - Cedeño Laurent, J. G., et al. (2018). Reduced cognitive function during a heat wave among residents of non-air-conditioned buildings. *PLOS Medicine, 15*(7), e1002605. [doi:10.1371/journal.pmed.1002605](https://doi.org/10.1371/journal.pmed.1002605)
