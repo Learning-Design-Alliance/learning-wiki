@@ -1357,6 +1357,15 @@ not push to them, do not reopen a PR from them:</p>
   only the ones the DOI itself settles (its suffix encodes volume/issue/page) and defers
   the rest. Do not "fix" the deferred ones by majority vote — where the DOI is opaque,
   picking the popular journal is the same guess as picking a DOI.</li>
+<li><strong>120 DOIs are cited with an invented title.</strong> The same defect one layer deeper: the
+  model reproduces the DOI and the title's stem, then makes up whatever follows the colon.
+  <code>10.37016/mr-2020-56</code> carries ten different subtitles across 37 citations. Neither
+  title-overlap clustering nor the metadata check can see it — a shared stem carries every
+  variant past any similarity threshold. <code>check_citations.py --titles</code> reports them; a
+  further 105 are mere truncations (one variant is a prefix of another), reported
+  separately. <strong>Never repaired automatically</strong> — a subtitle is exactly the kind of
+  plausible detail that is worth nothing unless it came from the registry, and the majority
+  spelling is evidence, not proof. Resolve from a machine that can reach Crossref.</li>
 <li><strong>Gate 3 (manifest gate) is unbuilt.</strong> <code>sources/manifest.ndjson</code> still records <code>ingested</code>
   even when page verification failed.</li>
 </ul>
