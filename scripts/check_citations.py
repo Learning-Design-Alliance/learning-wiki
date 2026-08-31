@@ -227,6 +227,12 @@ def extract_citations(text: str, source_label: str) -> list[dict]:
                 "key": key,
                 "doi": _normalize_doi(doi_m.group(0)) if doi_m else None,
                 "line": line[:160],
+                # Parsed from the FULL line, not from the truncated "line"
+                # above: the journal/volume/page string sits at roughly
+                # characters 100-180 of a typical APA citation, so reading it
+                # back off the 160-char excerpt silently drops it for the
+                # longer half of the corpus.
+                "meta": parse_source_meta(line),
                 "source": source_label,
                 "title_words": _title_words(line, year),
             })
@@ -359,6 +365,133 @@ def format_collision_report(collisions: list[dict]) -> str:
     return "\n".join(lines)
 
 
+# "*Journal Name, 99*(3), 445-476" — the APA source string as this wiki writes
+# it. Journal and volume sit inside the italics, issue and pages outside.
+SOURCE_META_RE = re.compile(r"\*([^*]+?),\s*(\d+)\*\((\d+)\),\s*(\d+)([\u2013\u2014\-]\d+)?")
+
+
+def parse_source_meta(line: str):
+    """(journal, volume, issue, first_page) or None — the grouping key.
+
+    First page only, not the full range: the same article is written both
+    "445-476" and "445-76" in this corpus, and splitting those into two
+    variants would manufacture conflicts out of a dash convention."""
+    m = SOURCE_META_RE.search(line)
+    if not m:
+        return None
+    return (" ".join(m.group(1).split()), m.group(2), m.group(3), m.group(4))
+
+
+def source_meta_span(line: str):
+    """(start, end, exact_text) of the journal/volume/page substring, for a
+    repair that needs to rewrite it verbatim rather than re-render it."""
+    m = SOURCE_META_RE.search(line)
+    return (m.start(), m.end(), m.group(0)) if m else None
+
+
+def doi_corroborates(doi: str, volume: str, issue: str, first_page: str) -> bool:
+    """True when the DOI's own suffix spells out this volume/issue/page.
+
+    Many APA and APA-adjacent DOIs are literally built from the citation:
+    10.1037/0022-0663.99.3.445 is ISSN 0022-0663, volume 99, issue 3, page
+    445. Where that holds, which of two disagreeing journal strings is right
+    is arithmetic rather than a vote, and no Crossref call is needed.
+
+    Deliberately narrow. Only the trailing dotted `.VOL.ISS.PAGE` form counts;
+    publisher schemes that pack the volume into a longer opaque token
+    (10.1207/s1532690xci0201_3) are NOT parsed, because a substring search for
+    "02" in an arbitrary identifier matches by luck as often as by meaning.
+    Those are reported for a Crossref pass instead."""
+    m = re.search(r"\.(\d+)\.(\d+)\.(\d+)$", doi.strip())
+    if not m:
+        return False
+    return (m.group(1), m.group(2), m.group(3)) == (volume, issue, first_page)
+
+
+def _is_naming_variant(a: tuple, b: tuple) -> bool:
+    """Two source strings that differ only in how the journal is named.
+
+    "PNAS 111(23)" and "Proceedings of the National Academy of Sciences
+    111(23)" are the same citation written two ways; "Cognition and
+    Instruction 1(2)" and "Cognition and Instruction 2(2)" are not. Volume,
+    issue and first page are the discriminator: when those agree the
+    disagreement is style, and when they differ at least one side states a
+    paper that does not exist at that DOI."""
+    if a[1:] != b[1:]:
+        return False
+    ja, jb = a[0].lower(), b[0].lower()
+    if ja.startswith(jb) or jb.startswith(ja):      # subtitle dropped
+        return True
+    short, long_ = sorted((ja, jb), key=len)
+    initials = "".join(w[0] for w in re.findall(r"[a-z]+", long_)
+                       if w not in {"of", "the", "and", "for", "in", "on"})
+    return short.replace(".", "").replace(" ", "") in (initials, initials[:len(short)])
+
+
+def find_metadata_divergence(by_doi: dict, touched_files: set = None) -> list[dict]:
+    """DOIs whose citations disagree about the journal, volume, issue or pages.
+
+    find_doi_collisions compares titles, so it cannot see this at all: the
+    title is usually copied correctly while the journal around it is invented.
+    Graham & Perin (2007) is cited 101 times under one DOI with seven
+    different journal/volume/page strings, and every one of those pages passes
+    every existing check — the DOI resolves, so nothing downstream questions
+    the fabricated volume and page numbers wrapped around it.
+
+    That is worse than a wrong DOI. A wrong DOI at least resolves to something
+    a reader can check against; a correct DOI wearing an invented journal name
+    validates cleanly and reads as precision.
+
+    Each result carries `severity`: "conflict" when the variants disagree on
+    volume/issue/page (at least one states a paper that does not exist at that
+    DOI), or "naming" when they agree on all three and differ only in how the
+    journal is written."""
+    results = []
+    for doi, entries in sorted(by_doi.items()):
+        if touched_files and not any(e["source"] in touched_files for e in entries):
+            continue
+        variants = defaultdict(list)
+        for e in entries:
+            if e.get("meta"):
+                variants[e["meta"]].append(e)
+        if len(variants) < 2:
+            continue
+        ordered = sorted(variants.items(), key=lambda kv: -len(kv[1]))
+        majority = ordered[0][0]
+        severity = ("naming" if all(_is_naming_variant(majority, v) for v, _ in ordered[1:])
+                    else "conflict")
+        results.append({
+            "doi": doi,
+            "severity": severity,
+            "majority": majority,
+            "majority_corroborated": doi_corroborates(doi, *majority[1:]),
+            "variants": ordered,
+        })
+    return results
+
+
+def format_metadata_report(results: list[dict]) -> str:
+    if not results:
+        return "No citation metadata divergence found."
+    conflicts = [r for r in results if r["severity"] == "conflict"]
+    naming = [r for r in results if r["severity"] == "naming"]
+    lines = [f"{len(conflicts)} DOI(s) with conflicting journal/volume/page metadata, "
+             f"{len(naming)} with journal-name style variants only:\n"]
+    for r in conflicts + naming:
+        tag = "CONFLICT" if r["severity"] == "conflict" else "naming"
+        seal = " [DOI self-describes the majority]" if r["majority_corroborated"] else ""
+        lines.append(f"## {r['doi']}  ({tag}){seal}")
+        for i, (meta, es) in enumerate(r["variants"]):
+            j, v, iss, pg = meta
+            mark = "  <- majority" if i == 0 else ""
+            lines.append(f"  {len(es):4}x  {j} {v}({iss}), {pg}{mark}")
+            if len(es) <= 3:
+                for e in es:
+                    lines.append(f"          {e['source']}")
+        lines.append("")
+    return "\n".join(lines)
+
+
 def format_report(conflicts: list[dict]) -> str:
     if not conflicts:
         return "No citation conflicts found."
@@ -382,11 +515,19 @@ def main() -> None:
     parser.add_argument("--collisions", action="store_true",
                         help="Report the other direction instead: DOIs asserted for more "
                              "than one paper (see find_doi_collisions)")
+    parser.add_argument("--metadata", action="store_true",
+                        help="Report DOIs whose citations disagree about journal, volume, "
+                             "issue or pages (see find_metadata_divergence)")
     args = parser.parse_args()
 
     page_types = PAGE_TYPES if args.files else ((args.type,) if args.type else PAGE_TYPES)
     by_key = load_all_citations(page_types)
     touched = set(args.files) if args.files else None
+
+    if args.metadata:
+        results = find_metadata_divergence(load_by_doi(by_key), touched)
+        print(format_metadata_report(results))
+        sys.exit(0 if not any(r["severity"] == "conflict" for r in results) else 1)
 
     if args.collisions:
         collisions = find_doi_collisions(load_by_doi(by_key), touched)

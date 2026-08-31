@@ -487,6 +487,39 @@ def verify_page_citations(path: Path, apply: bool = True) -> list[dict]:
         print(f"  [DOI collision] {rel}: {c['doi']} is also cited for a different "
               f"paper in {', '.join(others)} — one of them is wrong", file=sys.stderr)
 
+    # Fabricated journal metadata. The model copies a paper's title and DOI
+    # reliably and then invents the journal, volume and pages around them —
+    # Graham & Perin (2007) accumulated seven different journals under one
+    # DOI this way. Nothing else catches it: the DOI resolves, so the bogus
+    # volume and page numbers wrapped around it read as precision.
+    #
+    # Two independent tests, both offline. First the DOI's own suffix, where
+    # it encodes the citation (10.1037/0022-0663.99.3.445 IS volume 99, issue
+    # 3, page 445) — that is decisive on its own and does not need a second
+    # page to compare against. Then how the rest of the wiki cites the same
+    # DOI, which catches the rest.
+    for entry in cc.extract_citations(text, rel):
+        doi, meta = entry.get("doi"), entry.get("meta")
+        if not doi or not meta:
+            continue
+        journal, vol, issue, page = meta
+        if re.search(r"\.\d+\.\d+\.\d+$", doi) and not cc.doi_corroborates(doi, vol, issue, page):
+            print(f"  [citation metadata] {rel}: {doi} encodes a different "
+                  f"volume/issue/page than the cited {journal} {vol}({issue}), {page} "
+                  f"— the journal metadata is likely invented", file=sys.stderr)
+    try:
+        diverged = cc.find_metadata_divergence(cc.load_by_doi(cc.load_all_citations()), {rel})
+    except Exception as e:
+        print(f"  [metadata check skipped: {e}]", file=sys.stderr)
+        diverged = []
+    for d in diverged:
+        if d["severity"] != "conflict":
+            continue          # "PNAS" vs "Proceedings of the ..." is house style
+        maj = d["variants"][0][0]
+        print(f"  [citation metadata] {rel}: {d['doi']} is cited elsewhere as "
+              f"{maj[0]} {maj[1]}({maj[2]}), {maj[3]} — run "
+              f"scripts/fix_citation_metadata.py --check", file=sys.stderr)
+
     return removals
 
 

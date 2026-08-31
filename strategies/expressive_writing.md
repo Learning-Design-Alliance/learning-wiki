@@ -69,7 +69,7 @@ Expressive writing converts unstructured emotional experience into organized lin
 
 ## Key Sources
 - Pennebaker, J. W., & Beall, S. K. (1986). Confronting a traumatic event: Toward an understanding of inhibition and disease. *Journal of Abnormal Psychology, 95*(3), 274–281. [doi:10.1037/0021-843x.95.3.274](https://doi.org/10.1037/0021-843x.95.3.274)
-- Frattaroli, J. (2006). Experimental disclosure and its moderators: A meta-analysis. *Psychological Bulletin, 132*(5), 823–848. [doi:10.1037/0033-2909.132.6.823](https://doi.org/10.1037/0033-2909.132.6.823)
+- Frattaroli, J. (2006). Experimental disclosure and its moderators: A meta-analysis. *Psychological Bulletin, 132*(6), 823–865. [doi:10.1037/0033-2909.132.6.823](https://doi.org/10.1037/0033-2909.132.6.823)
 - Smyth, J. M. (1998). Written emotional expression: Effect sizes, outcome types, and moderating variables. *Journal of Consulting and Clinical Psychology, 66*(1), 174–184. [doi:10.1037/0022-006X.66.1.174](https://doi.org/10.1037/0022-006X.66.1.174)
 - Ramirez, G., & Beilock, S. L. (2011). Writing about testing worries boosts exam performance in the classroom. *Science, 331*(6014), 211–213. [doi:10.1126/science.1199427](https://doi.org/10.1126/science.1199427)
 - Pennebaker, J. W., & Chung, C. K. (2011). Expressive writing: Connections to physical and mental health. In H. S. Friedman (Ed.), *The Oxford Handbook of Health Psychology*. Oxford University Press.

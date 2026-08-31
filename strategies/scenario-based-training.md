@@ -73,4 +73,4 @@ Scenario based training works because it forces retrieval and application under 
 - Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the Science of Instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)
 - Freeman, S., et al. (2014). Active learning increases student performance in science, engineering, and mathematics. *PNAS, 111*(23), 8410–8415. [doi:10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)
 - van Merriënboer, J. J. G., & Kirschner, P. A. (2018). *Ten Steps to Complex Learning* (3rd ed.). Routledge.
-- Kolodner, J. L. (1997). Educational implications of analogy and memory: The case of case-based reasoning. *Educational Technology, 37*(1), 26–34. [doi:10.1037/0003-066x.52.1.57](https://doi.org/10.1037/0003-066x.52.1.57)
+- Kolodner, J. L. (1997). Educational implications of analogy and memory: The case of case-based reasoning. *American Psychologist, 52*(1), 57–66. [doi:10.1037/0003-066x.52.1.57](https://doi.org/10.1037/0003-066x.52.1.57)

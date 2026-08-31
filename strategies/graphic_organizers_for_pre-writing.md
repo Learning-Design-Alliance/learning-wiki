@@ -67,7 +67,7 @@ Planning is the writing subprocess that most strongly distinguishes skilled from
 - **Read Write Think (NCTE/IRA)** — free interactive organizers such as the Persuasion Map and Essay Map: [https://www.readwritethink.org](https://www.readwritethink.org)
 
 ## Key Sources
-- Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Review of Educational Research, 77*(1), 87–112. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
+- Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
 - De La Paz, S., & Graham, S. (2002). Explicitly teaching strategies, skills, and knowledge: Writing instruction in middle school classrooms. *Journal of Educational Psychology, 94*(4), 687–698. [doi:10.1037/0022-0663.94.4.687](https://doi.org/10.1037/0022-0663.94.4.687)
 - Nesbit, J. C., & Adesope, O. O. (2006). Learning with concept and knowledge maps: A meta-analysis. *Review of Educational Research, 76*(3), 413–448. [doi:10.3102/00346543076003413](https://doi.org/10.3102/00346543076003413)
 - Graham, S., Harris, K. R., & Santangelo, T. (2015). Research-based writing practices and the Common Core: Meta-analysis and meta-synthesis. *The Elementary School Journal, 115*(4), 498–522. [doi:10.1086/681964](https://doi.org/10.1086/681964)

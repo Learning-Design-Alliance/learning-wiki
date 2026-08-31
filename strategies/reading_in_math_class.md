@@ -81,6 +81,6 @@ Reading in math class treats mathematical communication as a discipline-specific
 
 ## Key Sources
 - Shanahan, T., & Shanahan, C. (2008). Teaching disciplinary literacy to adolescents: Rethinking content-area literacy. *Harvard Educational Review, 78*(1), 40–59. [doi:10.17763/haer.78.1.v62444321p602101](https://doi.org/10.17763/haer.78.1.v62444321p602101)
-- Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Research, 99*(6), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
+- Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
 - van Gog, T., & Rummel, N. (2010). Example-based learning: Integrating cognitive and social-cognitive research perspectives. *Educational Psychology Review, 22*(2), 155–174. [doi:10.1007/s10648-010-9134-7](https://doi.org/10.1007/s10648-010-9134-7)
 - Draper, R. J. (2002). Every mathematics teacher a reading teacher? *Teaching and Teacher Education, 18*(4), 437–447. [doi:10.1016/S0742-051X(02)00008-2](https://doi.org/10.1016/S0742-051X(02)00008-2)

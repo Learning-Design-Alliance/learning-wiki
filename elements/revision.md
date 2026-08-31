@@ -71,4 +71,4 @@ Revision converts feedback into measurable learning gains only when learners act
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)
 - Butler, D. L., & Winne, P. H. (1995). Feedback and self-regulated learning: A theoretical synthesis. *Review of Educational Research, 65*(3), 245–281. [doi:10.3102/00346543065003245](https://doi.org/10.3102/00346543065003245)
-- Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Reading Psychology, 28*(2), 115–151. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
+- Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
