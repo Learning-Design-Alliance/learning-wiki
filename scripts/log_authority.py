@@ -50,7 +50,10 @@ def main() -> None:
     ap.add_argument("--year")
     ap.add_argument("--journal")
     ap.add_argument("--publisher")
-    ap.add_argument("--isbn", help="checked against its ISBN-10/13 checksum before it is written")
+    ap.add_argument("--isbn", action="append", metavar="ISBN",
+                    help="checked against its ISBN-10/13 checksum before it is written. "
+                         "Repeatable — a book has one per format, and they are not "
+                         "alternatives: a page may cite any of them")
     ap.add_argument("--url")
     ap.add_argument("--note")
     g = ap.add_mutually_exclusive_group()
@@ -61,9 +64,13 @@ def main() -> None:
     args = ap.parse_args()
 
     entry = {"key": args.key, "verified": {"by": args.by, "at": args.at}}
-    for f in ("title", "authors", "year", "journal", "publisher", "isbn", "url", "note"):
+    for f in ("title", "authors", "year", "journal", "publisher", "url", "note"):
         if getattr(args, f):
             entry[f] = getattr(args, f)
+    if args.isbn:
+        # One stays a plain string so the common case reads naturally in the
+        # file; several become a list. Both shapes are read by isbns_of().
+        entry["isbn"] = args.isbn[0] if len(args.isbn) == 1 else args.isbn
     if args.no_doi:
         entry["doi"] = None
     elif args.doi:
