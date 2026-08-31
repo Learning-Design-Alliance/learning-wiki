@@ -64,6 +64,6 @@ The **problem-centered** principle further restructures the typical topic-by-top
 - [Worked Examples](../elements/worked-examples.md)
 
 ## Key Sources
-- Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43–59.
+- Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43–59. [doi:10.1007/bf02505024](https://doi.org/10.1007/bf02505024)
 - Merrill, M. D. (2013). *First principles of instruction: Identifying and designing effective, efficient, and engaging instruction*. Pfeiffer.
 - Merrill, M. D. (2018). Using the first principles of instruction to make instruction effective, efficient, and engaging. In R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/using_the_first_principles_of_instruction](https://edtechbooks.org/lidtfoundations/using_the_first_principles_of_instruction)

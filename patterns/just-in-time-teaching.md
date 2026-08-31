@@ -70,5 +70,5 @@ Marrs and Novak (2004) identify three theoretical elements JiTT combines: (1) it
 - Marrs, K. A., & Novak, G. (2004). Just-in-time teaching in biology: Creating an active learner classroom using the internet. *Cell Biology Education, 3*(1), 49-61.
 - Brame, C. (n.d.). Just-in-time teaching (JiTT). Vanderbilt University Center for Teaching. [https://cft.vanderbilt.edu/guides-sub-pages/just-in-time-teaching-jitt/](https://cft.vanderbilt.edu/guides-sub-pages/just-in-time-teaching-jitt/)
 - National Research Council. (2000). *How people learn: Brain, mind, experience, and school* (Expanded ed.). National Academy Press.
-- Hake, R. R. (1998). Interactive-engagement versus traditional methods: A six-thousand-student survey of mechanics test data for introductory physics courses. *American Journal of Physics, 66*(1), 64-74.
+- Hake, R. R. (1998). Interactive-engagement versus traditional methods: A six-thousand-student survey of mechanics test data for introductory physics courses. *American Journal of Physics, 66*(1), 64-74. [doi:10.1119/1.18809](https://doi.org/10.1119/1.18809)
 - Arduini-Van Hoose, N. (2020). Just-in-time teaching (JiTT). In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

@@ -100,5 +100,5 @@ Well-run OJT is essentially [Cognitive Apprenticeship](cognitive-apprenticeship.
 ## Key Sources
 - Jacobs, R. L. (2003). *Structured on-the-job training: Unleashing employee expertise in the workplace* (2nd ed.). Berrett-Koehler.
 - Lave, J., & Wenger, E. (1991). *Situated learning: Legitimate peripheral participation*. Cambridge University Press. [doi:10.1017/CBO9780511815355](https://doi.org/10.1017/CBO9780511815355)
-- Collins, A., Brown, J. S., & Newman, S. E. (1989). Cognitive apprenticeship: Teaching the crafts of reading, writing, and mathematics. In L. B. Resnick (Ed.), *Knowing, learning, and instruction* (pp. 453–494). Erlbaum.
+- Collins, A., Brown, J. S., & Newman, S. E. (1989). Cognitive apprenticeship: Teaching the crafts of reading, writing, and mathematics. In L. B. Resnick (Ed.), *Knowing, learning, and instruction* (pp. 453–494). Erlbaum. [doi:10.4324/9781315044408-14](https://doi.org/10.4324/9781315044408-14)
 - Blume, B. D., Ford, J. K., Baldwin, T. T., & Huang, J. L. (2010). Transfer of training: A meta-analytic review. *Journal of Management, 36*(4), 1065–1105.

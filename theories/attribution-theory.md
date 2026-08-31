@@ -63,6 +63,6 @@ Effort-based attributions are only convincing under three conditions: tasks pitc
 - Seifert, K., & Sutton, R. (2018). Motivation theories on learning. In R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/motivation_theories_on_learning](https://edtechbooks.org/lidtfoundations/motivation_theories_on_learning)
 - Dweck, C. S. (2000). *Self-theories: Their role in motivation, personality, and development*. Psychology Press.
 - Dweck, C. S. (2006). *Mindset: The new psychology of success*. Random House.
-- Blackwell, L. S., Trzesniewski, K. H., & Dweck, C. S. (2007). Implicit theories of intelligence predict achievement across an adolescent transition: A longitudinal study and an intervention. *Child Development, 78*(1), 246-263.
+- Blackwell, L. S., Trzesniewski, K. H., & Dweck, C. S. (2007). Implicit theories of intelligence predict achievement across an adolescent transition: A longitudinal study and an intervention. *Child Development, 78*(1), 246-263. [doi:10.1111/j.1467-8624.2007.00995.x](https://doi.org/10.1111/j.1467-8624.2007.00995.x)
 - Schunk, D. H., Pintrich, P. R., & Meece, J. L. (2008). *Motivation in education: Theory, research, and applications* (3rd ed.). Pearson.
 - Arduini-Van Hoose, N. (2020). Attribution theory. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

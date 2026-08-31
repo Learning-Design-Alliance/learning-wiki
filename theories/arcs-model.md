@@ -66,11 +66,11 @@ ARCS is explicitly integrative: Keller built it by synthesizing constructs from 
 - A Virtual Tutee System where students teach a virtual character what they've read, applying Confidence- and Relevance-building tactics through the "learning by teaching" effect
 
 ## Key Sources
-- Keller, J. M. (1987). Development and use of the ARCS model of motivational design. *Journal of Instructional Development, 10*(3), 2–10.
+- Keller, J. M. (1987). Development and use of the ARCS model of motivational design. *Journal of Instructional Development, 10*(3), 2–10. [doi:10.1007/bf02905780](https://doi.org/10.1007/bf02905780)
 - Keller, J. M. (2010). *Motivational design for learning and performance: The ARCS model approach*. Springer.
 - Park, S. W. (2018). Motivation theories and instructional design. In R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/motivation_theories_and_instructional_design](https://edtechbooks.org/lidtfoundations/motivation_theories_and_instructional_design)
-- Hidi, S., & Renninger, K. A. (2006). The four-phase model of interest development. *Educational Psychologist, 41*(2), 111-127.
-- Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227-268.
+- Hidi, S., & Renninger, K. A. (2006). The four-phase model of interest development. *Educational Psychologist, 41*(2), 111-127. [doi:10.1207/s15326985ep4102_4](https://doi.org/10.1207/s15326985ep4102_4)
+- Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227-268. [doi:10.1207/s15327965pli1104_01](https://doi.org/10.1207/s15327965pli1104_01)
 - Wigfield, A., & Eccles, J. (1992). The development of achievement task values: A theoretical analysis. *Developmental Review, 12*, 265–310.
 - Locke, E. A., & Latham, G. P. (1984). *Goal setting: A motivational technique that works!* Prentice Hall.
 - Skinner, B. F. (1963). Operant behavior. *American Psychologist, 18*(8), 503-515.

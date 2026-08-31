@@ -75,6 +75,6 @@ Peer-organized groups work because they combine social accountability with learn
 ## Key Sources
 - Edmondson, A. (1999). Psychological safety and learning behavior in work teams. *Administrative Science Quarterly, 44*(2), 350–383. [doi:10.2307/2666999](https://doi.org/10.2307/2666999)
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)
-- Wenger, E. (1998). *Communities of practice: Learning, meaning, and identity.* Cambridge University Press.
+- Wenger, E. (1998). *Communities of practice: Learning, meaning, and identity.* Cambridge University Press. [doi:10.1017/cbo9780511803932](https://doi.org/10.1017/cbo9780511803932)
 - Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268. [doi:10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)
 - Bandura, A. (1997). *Self-efficacy: The exercise of control.* W. H. Freeman.

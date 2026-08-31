@@ -32,5 +32,5 @@ Estimation warm ups work because they require learners to actively retrieve and 
 - Time pressure can raise anxiety and push math-anxious learners toward impulsive answers rather than reasoning
 
 ## Key Sources
-- Booth, J. L., & Siegler, R. S. (2006). Developmental and individual differences in pure numerical estimation. *Developmental Psychology, 42*(1), 189-201.
-- Siegler, R. S., & Ramani, G. B. (2008). Playing linear numerical board games promotes low-income children's numerical development. *Developmental Science, 11*(5), 655-661.
+- Booth, J. L., & Siegler, R. S. (2006). Developmental and individual differences in pure numerical estimation. *Developmental Psychology, 42*(1), 189-201. [doi:10.1037/0012-1649.41.6.189](https://doi.org/10.1037/0012-1649.41.6.189)
+- Siegler, R. S., & Ramani, G. B. (2008). Playing linear numerical board games promotes low-income children's numerical development. *Developmental Science, 11*(5), 655-661. [doi:10.1111/j.1467-7687.2008.00714.x](https://doi.org/10.1111/j.1467-7687.2008.00714.x)

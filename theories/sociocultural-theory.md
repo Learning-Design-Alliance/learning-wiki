@@ -73,7 +73,7 @@ A related developmental mechanism is **private speech**: children's habit of tal
 - Polly, D., Casto, A. R., Norwood, J., & Allman, B. (2018). Sociocultural perspectives of learning. In R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/sociocultural_perspectives_of_learning](https://edtechbooks.org/lidtfoundations/sociocultural_perspectives_of_learning)
 - Rogoff, B. (1990). *Apprenticeship in thinking*. Oxford University Press.
 - Miller, P. (2011). *Theories of developmental psychology* (5th ed.). Worth Publishers.
-- Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry, 17*(2), 89-100.
+- Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry, 17*(2), 89-100. [doi:10.1111/j.1469-7610.1976.tb00381.x](https://doi.org/10.1111/j.1469-7610.1976.tb00381.x)
 - Tudge, J. R. H., & Winterhoff, P. A. (1993). Vygotsky, Piaget, and Bandura: Perspectives on the relations between the social world and cognitive development. *Human Development, 36*, 61-81.
 - Tomasello, M., Kruger, A. C., & Ratner, H. H. (1993). Cultural learning. *Behavioral and Brain Sciences, 16*(1), 495-552.
 - Biggs, J. B., & Moore, P. J. (1993). *Process of learning* (3rd ed.). Prentice Hall.

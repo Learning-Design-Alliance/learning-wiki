@@ -59,7 +59,7 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Strengths-based Approach](../principles/strengths-based-approach.md)
 
 ## Key Sources
-- Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review, 84*, 191–215.
+- Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review, 84*, 191–215. [doi:10.1037/0033-295x.84.2.191](https://doi.org/10.1037/0033-295x.84.2.191)
 - Bandura, A. (1997). *Self-efficacy: The exercise of control*. Freeman.
 - Seifert, K., & Sutton, R. (2018). Motivation theories on learning. In R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/motivation_theories_on_learning](https://edtechbooks.org/lidtfoundations/motivation_theories_on_learning)
 - Park, S. W. (2018). Motivation theories and instructional design. In R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/motivation_theories_and_instructional_design](https://edtechbooks.org/lidtfoundations/motivation_theories_and_instructional_design)
@@ -67,6 +67,6 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - Seligman, M. E. P. (1995). *The optimistic child*. Houghton Mifflin.
 - Erikson, E. H. (1968/1994). *Identity: Youth and crisis*. W. W. Norton.
 - Eccles, J. S., Wigfield, A., & Schiefele, U. (1998). Motivation to succeed. In W. Damon & N. Eisenberg (Eds.), *Handbook of child psychology* (5th ed., Vol. 3, pp. 1017-1095). Wiley.
-- Schunk, D. H., & Zimmerman, B. J. (1997). Social origins of self-regulatory competence. *Educational Psychologist, 32*(4), 195-208.
+- Schunk, D. H., & Zimmerman, B. J. (1997). Social origins of self-regulatory competence. *Educational Psychologist, 32*(4), 195-208. [doi:10.1207/s15326985ep3204_1](https://doi.org/10.1207/s15326985ep3204_1)
 - Goddard, R. D., Hoy, W. K., & Hoy, A. W. (2004). Collective efficacy beliefs: Theoretical developments, empirical evidence, and future directions. *Educational Researcher, 33*(3), 3-13.
 - Arduini-Van Hoose, N. (2020). Self-efficacy theory. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

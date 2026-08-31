@@ -67,6 +67,6 @@ Standardized testing is "high-stakes" when performance carries real consequences
 - Bracey, G. W. (2004). *Setting the record straight: Responses to misconceptions about public education in the U.S.* (2nd ed.). Heinemann.
 - Linn, R. L. (2005). Fixing the NCLB accountability system. *CRESST Policy Brief*, National Center for Research on Evaluation, Standards, and Student Testing.
 - Jerald, C. D. (2006). *The hidden costs of curriculum narrowing*. Center for Comprehensive School Reform and Improvement.
-- Recht, D. R., & Leslie, L. (1988). Effect of prior knowledge on good and poor readers' memory of text. *Journal of Educational Psychology, 80*(1), 16-20.
+- Recht, D. R., & Leslie, L. (1988). Effect of prior knowledge on good and poor readers' memory of text. *Journal of Educational Psychology, 80*(1), 16-20. [doi:10.1037/0022-0663.80.1.16](https://doi.org/10.1037/0022-0663.80.1.16)
 - Pedulla, J. J., Abrams, L. M., Madaus, G. F., Russell, M. K., Ramos, M. A., & Miao, J. (2003). *Perceived effects of state-mandated testing programs on teaching and learning: Findings from a national survey of teachers*. National Board on Educational Testing and Public Policy, Boston College.
 - Arduini-Van Hoose, N. (2020). High-stakes testing. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

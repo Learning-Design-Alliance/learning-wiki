@@ -66,7 +66,7 @@ Grades serve as communication and decision-making inputs; when they blend achiev
 
 ## Key Sources
 - Guskey, T. R. (2011). Five obstacles to grading reform. *Educational Leadership, 69*(3), 16–21.
-- Brookhart, S. M. (2004). *Grading*. Pearson/Merrill Prentice Hall.
+- Brookhart, S. M. (2004). *Grading*. Pearson/Merrill Prentice Hall. [doi:10.4135/9781452218649.n15](https://doi.org/10.4135/9781452218649.n15)
 - Feldman, J. (2019). *Grading for equity: What it is, why it matters, and how it can transform schools and classrooms*. Corwin.
 - O'Connor, K. (2017). *A repair kit for grading: 15 fixes for broken grades* (2nd ed.). Pearson.
 - Wiggins, G. (1998). *Educative assessment: Designing assessments to inform and improve student performance*. Jossey-Bass.

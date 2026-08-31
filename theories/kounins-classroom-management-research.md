@@ -49,8 +49,8 @@ Where the humanist tradition ([Ginott](ginotts-congruent-communication.md), [Gla
 
 ## Key Sources
 - Kounin, J. S. (1970). *Discipline and group management in classrooms*. Holt, Rinehart & Winston.
-- Emmer, E. T., Evertson, C. M., & Anderson, L. M. (1980). Effective classroom management at the beginning of the school year. *The Elementary School Journal, 80*(5), 219-231.
+- Emmer, E. T., Evertson, C. M., & Anderson, L. M. (1980). Effective classroom management at the beginning of the school year. *The Elementary School Journal, 80*(5), 219-231. [doi:10.1086/461192](https://doi.org/10.1086/461192)
 - Emmer, E. T., Evertson, C. M., Clements, B. S., & Worsham, M. E. (1994). *Classroom management for secondary teachers* (4th ed.). Allyn & Bacon.
-- Evertson, C. M., & Emmer, E. T. (1982). Effective management at the beginning of the school year in junior high classes. *Journal of Educational Psychology, 74*(4), 485-498.
-- Emmer, E. T., & Stough, L. M. (2001). Classroom management: A critical part of educational psychology, with implications for teacher education. *Educational Psychologist, 36*(2), 103-112.
+- Evertson, C. M., & Emmer, E. T. (1982). Effective management at the beginning of the school year in junior high classes. *Journal of Educational Psychology, 74*(4), 485-498. [doi:10.1037/0022-0663.74.4.485](https://doi.org/10.1037/0022-0663.74.4.485)
+- Emmer, E. T., & Stough, L. M. (2001). Classroom management: A critical part of educational psychology, with implications for teacher education. *Educational Psychologist, 36*(2), 103-112. [doi:10.1207/s15326985ep3602_5](https://doi.org/10.1207/s15326985ep3602_5)
 - Arduini-Van Hoose, N. (2020). Systems of classroom management; Preventing management problems; Responding to student misbehavior. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

@@ -60,7 +60,7 @@ Despite this psychometric strength, intelligence tests and the definitions of in
 ## Key Sources
 - Zimmerman, B. J., & Schunk, D. H. (Eds.). (2003). *Educational psychology: A century of contributions*. Erlbaum.
 - Watkins, C. E., Campbell, V. L., Nieberding, R., & Hallmark, R. (1995). Contemporary practice of psychological assessment by clinical psychologists. *Professional Psychology: Research and Practice, 26*(1), 54-60.
-- Flynn, J. R. (1999). Searching for justice: The discovery of IQ gains. *American Psychologist, 54*(1), 5-20.
+- Flynn, J. R. (1999). Searching for justice: The discovery of IQ gains. *American Psychologist, 54*(1), 5-20. [doi:10.1037/0003-066x.54.1.5](https://doi.org/10.1037/0003-066x.54.1.5)
 - Neisser, U. (Ed.). (1998). *The rising curve: Long-term gains in IQ and related measures*. American Psychological Association.
 - Neisser, U. (1997). Rising scores on intelligence tests. *American Scientist, 85*(5), 440-447.
 - Arduini-Van Hoose, N. (2020). Intelligence. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

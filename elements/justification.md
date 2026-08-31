@@ -44,4 +44,4 @@ Justification is the element in which learners explain why a claim, choice, or s
 - Learners explain why a solution method fits the problem better than another.
 
 ## Key Sources
-- Toulmin, S. (2003). *The uses of argument* (Updated ed.). Cambridge University Press.
+- Toulmin, S. (2003). *The uses of argument* (Updated ed.). Cambridge University Press. [doi:10.1017/cbo9780511840005](https://doi.org/10.1017/cbo9780511840005)

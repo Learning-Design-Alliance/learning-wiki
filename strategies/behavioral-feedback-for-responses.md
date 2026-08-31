@@ -53,7 +53,7 @@ Behavioral science distinguishes how to respond to a learner's correct versus in
 ## Key Sources
 - Cooper, J. O., Heron, T. E., & Heward, W. L. (1987). *Applied behavior analysis*. Merrill.
 - Rodgers, T. A., & Iwata, B. A. (1991). An analysis of error-correction procedures during discrimination training. *Journal of Applied Behavior Analysis, 24*(4), 775-781.
-- Kulik, J. A., & Kulik, C. C. (1988). Timing of feedback and verbal learning. *Review of Educational Research, 58*(1), 79-97.
+- Kulik, J. A., & Kulik, C. C. (1988). Timing of feedback and verbal learning. *Review of Educational Research, 58*(1), 79-97. [doi:10.3102/00346543058001079](https://doi.org/10.3102/00346543058001079)
 - McKeachie, W. J. (1990). Research on college teaching: The historical background. *Journal of Educational Psychology, 82*(2), 189-200.
 - Hasazi, J. E., & Hasazi, S. E. (1972). Effects of teacher attention on digit-reversal behavior in an elementary school child. *Journal of Applied Behavior Analysis, 5*(2), 157-162.
 - Stromer, R. (1975). Modifying letter and number reversals in elementary school children. *Journal of Applied Behavior Analysis, 8*(2), 211.

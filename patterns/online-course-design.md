@@ -83,6 +83,6 @@ Course-design literature converges on a recurring set of moves that build these 
 
 ## Key Sources
 - Martin, F., & Oyarzun, B. (2018). Distance learning. In R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/distance_learning](https://edtechbooks.org/lidtfoundations/distance_learning)
-- Moore, M. G. (1989). Editorial: Three types of interaction. *American Journal of Distance Education, 3*(2), 1–7.
+- Moore, M. G. (1989). Editorial: Three types of interaction. *American Journal of Distance Education, 3*(2), 1–7. [doi:10.1080/08923648909526659](https://doi.org/10.1080/08923648909526659)
 - Garrison, D. R., Anderson, T., & Archer, W. (1999). Critical inquiry in a text-based environment: Computer conferencing in higher education. *The Internet and Higher Education, 2*(2–3), 87–105.
 - Bernard, R. M., et al. (2009). A meta-analysis of three types of interaction treatments in distance education. *Review of Educational Research, 79*(3), 1243–1289.
