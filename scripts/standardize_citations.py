@@ -118,6 +118,12 @@ def main() -> None:
           f"({sum(len(c['missing']) for c in cands)} to fill in).\n", file=sys.stderr)
 
     added = wrong = skipped = 0
+    # A page whose own title does not match the registry is a FINDING. It was
+    # briefly folded into `skipped`, whose line reads "lookup failed or not
+    # found — an outage is not a verdict", and that made 69 verdicts look like
+    # 69 network problems. The whole discipline here rests on keeping those
+    # two apart.
+    mismatch = 0
     edits: dict[Path, list] = {}
 
     for c in sorted(cands, key=lambda c: -len(c["missing"])):
@@ -152,17 +158,27 @@ def main() -> None:
                 e_title = cc._extract_title_text(e["line"], e_year)
                 e_res = rdc.classify_doi(c["doi"], e["title_words"], e_title)
                 if e_res["status"] != "verified":
-                    mismatched.append((e, e_title, e_res["status"]))
+                    mismatched.append((e, e_title, e_res["status"], e_res.get("title")))
+                    if e_res["status"] in ("not_found", "error"):
+                        skipped += 1
+                    else:
+                        mismatch += 1
                     continue
                 edits.setdefault(WIKI_ROOT / e["source"], []).append((e["line"], c["doi"]))
                 added += 1
                 filled += 1
             print(f"  [verify] {c['key']:22} {ratio:22} {c['doi']}")
             if mismatched:
-                skipped += len(mismatched)
                 print(f"           {filled} filled; {len(mismatched)} NOT filled — those "
-                      f"pages cite a different title under this key:")
-                for e, t, st in mismatched[:4]:
+                      f"pages cite a different title under this key.")
+                # Print what the registry actually says, once. Without it the
+                # report shows the rejected title and leaves the reader to
+                # guess what it was measured against — which is the one fact
+                # that decides whether the page or the DOI is wrong.
+                reg = next((r for *_, r in mismatched if r), None)
+                if reg:
+                    print(f"           registry: \"{reg[:88]}\"")
+                for e, t, st, _r in mismatched[:4]:
                     print(f"             {st:11} {e['source']}")
                     print(f"                         \"{(t or '')[:72]}\"")
                 if len(mismatched) > 4:
@@ -196,6 +212,8 @@ def main() -> None:
     print(f"\n{verb} {added} DOI(s) across {len(edits)} page(s).")
     print(f"{wrong} DOI(s) resolve to the wrong paper — nothing written for those; the pages "
           f"already asserting them need review.")
+    print(f"{mismatch} citation(s) not filled because the page's own title does not match "
+          f"the registry record for that DOI — a finding, not a failure.")
     print(f"{skipped} skipped (lookup failed or not found — an outage is not a verdict).")
 
 
