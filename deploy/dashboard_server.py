@@ -81,6 +81,7 @@ import shutil
 import signal
 import subprocess
 import sys
+import threading
 import time
 import urllib.parse
 from datetime import datetime, timezone
@@ -431,6 +432,8 @@ class Handler(SimpleHTTPRequestHandler):
         if parsed.path == "/edit":
             self._handle_edit_page(urllib.parse.parse_qs(parsed.query))
             return
+        if parsed.path in ("/health.html", "/health"):
+            _refresh_health_if_stale()
         super().do_GET()
 
     def do_POST(self):
@@ -1106,6 +1109,36 @@ def _ensure_health_page_exists() -> None:
     RUNS_DIR.mkdir(parents=True, exist_ok=True)
     result = wiki_health_check.run(skip_doi=True)
     wiki_health_check.write_dashboard_page(result)
+
+
+_HEALTH_REFRESH_LOCK = threading.Lock()
+
+
+def _refresh_health_if_stale() -> None:
+    """Regenerate health.html when the wiki tree has changed since it was written.
+
+    The page used to refresh only on an enrichment batch, a scraper ingest, the
+    nightly timer, or a service restart — none of which a `git pull` is. So the
+    board showed numbers from whatever the tree looked like at the last pipeline
+    event, and the timestamp said "last scanned" a minute ago, which made a
+    stale page look current. That combination cost a real debugging session.
+
+    Checking is ~13ms against 3,700 pages; regenerating is ~6s. That ratio is
+    what makes this viable on every page view rather than on a timer: the common
+    case pays almost nothing, and the page is correct the moment you reload it.
+
+    Failures are swallowed on purpose. A dashboard that 500s because a check
+    raised is worse than one showing the previous scan — the stale page still
+    carries its own timestamp, so it never claims to be something it isn't."""
+    with _HEALTH_REFRESH_LOCK:          # serialize; concurrent loads must not both scan
+        try:
+            if not wiki_health_check.dashboard_is_stale():
+                return
+            result = wiki_health_check.run(skip_doi=True)
+            wiki_health_check.write_dashboard_page(result)
+        except Exception as e:
+            print(f"[health] auto-refresh failed, serving previous page: {e}",
+                  file=sys.stderr)
 
 
 def main() -> None:
