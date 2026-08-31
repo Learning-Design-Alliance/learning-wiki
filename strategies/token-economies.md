@@ -15,6 +15,8 @@ generated:
 ## Description
 A token economy is a behavior management system in which learners earn tokens (points, stickers, chips) contingent on specified target behaviors, then exchange accumulated tokens for backup reinforcers chosen to be motivating. It operationalizes operant conditioning: the token functions as a generalized conditioned reinforcer because it is paired with multiple primary and secondary reinforcers. Effective systems define target behaviors precisely, deliver tokens immediately after the behavior, and include a menu of reinforcers at varied "prices."
 
+The token is a **secondary reinforcer**: it has no inherent reinforcing value and works only because it has been linked to reinforcers that do — **primary reinforcers** such as food, water, sleep, shelter, touch, and pleasure, which organisms do not lose their drive for. Praise, money, and stickers are all secondary reinforcers in the same sense. A sticker chart, where children earn a sticker per target behavior and redeem accumulated stickers for a prize, is the familiar classroom-scale case; token economies have also been used to modify behavior in prisons and mental hospitals.
+
 ## Design Implications
 
 Token economies reliably increase targeted on-task and prosocial behaviors in classroom settings, with the strongest evidence in special education and clinical populations [~S]. Their effect on *learning outcomes* is indirect: they shape the behaviors that make instruction possible (attention, task completion) rather than cognition itself. Because tokens are extrinsic reinforcers, poorly designed systems can undermine intrinsic motivation for activities learners already find interesting [autonomy-supports-intrinsic-motivation](../claims/autonomy-supports-intrinsic-motivation.md) [~M] — the risk is greatest when rewards are contingent on task engagement rather than on meeting performance standards, and when the reward feels controlling rather than informational.
@@ -74,3 +76,4 @@ Token economies reliably increase targeted on-task and prosocial behaviors in cl
 - Stage, S. A., & Quiroz, D. R. (1997). A meta-analysis of interventions to decrease disruptive classroom behavior in public education settings. *School Psychology Review, 26*(3), 333–354.
 - Skinner, B. F. (1953). *Science and human behavior*. Macmillan.
 - Cameron, J., & Pierce, W. D. (1994). Reinforcement, reward, and intrinsic motivation: A meta-analysis. *Review of Educational Research, 64*(3), 363–423. [doi:10.3102/00346543064003363](https://doi.org/10.3102/00346543064003363)
+- Arduini-Van Hoose, N. (2020). Behaviorism. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

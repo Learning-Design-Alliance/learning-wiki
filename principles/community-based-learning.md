@@ -4,8 +4,8 @@ title: Community-Based Learning
 description: Community-based learning is the principle of connecting learning to shared participation, responsibility, and contribution within a classroom, local community, or broader social context.
 status: review
 generated:
-  by: codex/unspecified
-  at: 2026-04-08
+  by: claude/unspecified
+  at: 2026-08-29
 ---
 
 # Community-Based Learning
@@ -28,6 +28,7 @@ Community-based learning is strongest when learners are not only consuming conte
 - **Token community references weaken authenticity**
 - **Participation needs equitable norms and access**
 - **Community work can drift toward service without learning unless goals are explicit**
+- **Without conceptual framing, the intended learning object can narrow to whatever meaning is easiest for all groups to coordinate around** [Community projects need conceptual framing to avoid narrowing the learning object](../claims/community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) [~W]
 
 ### Target Learners
 - Learners who benefit from authentic contribution, civic connection, or shared social purpose
@@ -47,11 +48,13 @@ Community-based learning is strongest when learners are not only consuming conte
 
 #### Contradicting / Qualifying
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — community-based tasks can become overwhelming if they add social complexity without enough instructional structure
+- [Cultural-Historical Activity Theory](../theories/cultural-historical-activity-theory.md) — when groups with different motives share an activity without a common conceptual anchor, the learning object can be jointly renegotiated into something narrower than intended
 
 ### Claims
 - [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S] — authentic, integrated activity can improve transfer beyond fragmented practice
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — learners often need responsive support to participate productively in complex real-world settings
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — reflection and progress tracking strengthen the learning value of community participation
+- [Community projects need conceptual framing to avoid narrowing the learning object](../claims/community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) [~W] — a single case study found that without disciplinary framing, a boundary-crossing community project converged on the most tractable shared meaning (e.g., "making money") rather than its intended broader goal
 
 ## Related Principles
 - [Communities of Practice](communities-of-practice.md) — emphasizes learning through increasing participation in a practice community
@@ -68,6 +71,9 @@ Community-based learning is strongest when learners are not only consuming conte
 
 **Local inquiry with public-facing outcomes** — Learners investigate a neighborhood, organization, or social issue and present findings to a real audience rather than only to the instructor.
 
+**[Humanizing Co-Design with Educators](../patterns/humanizing-co-design-with-educators.md)** — Educators and researchers build shared community and responsibility across an extended co-design partnership.
+
 ## Key Sources
 - Eyler, J., & Giles, D. E. (1999). *Where's the learning in service-learning?* Jossey-Bass.
 - Bringle, R. G., & Hatcher, J. A. (1995). A service-learning curriculum for faculty. *Michigan Journal of Community Service Learning, 2*(1), 112-122.
+- Engeström, R., & Käyhkö, L. (2021). A critical search for the learning object across school and out-of-school contexts: A case of entrepreneurship education. *Journal of the Learning Sciences, 30*(3), 401-432. [https://doi.org/10.1080/10508406.2021.1908296](https://doi.org/10.1080/10508406.2021.1908296)

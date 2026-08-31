@@ -4,8 +4,8 @@ title: Group Work
 description: Group work is the element in which learners work together on a shared task, product, or problem.
 status: review
 generated:
-  by: codex/unspecified
-  at: 2026-04-08
+  by: claude/unspecified
+  at: 2026-08-29
 ---
 
 # Group Work
@@ -42,6 +42,7 @@ Group work is the element in which learners work together on a shared task, prod
 ## Patterns That Use This Element
 - [Jigsaw Method](../patterns/jigsaw-method.md)
 - [Collaborative Inquiry](../patterns/collaborative-inquiry.md)
+- [Organization Simulation for Interdisciplinary Learning](../patterns/organization-simulation-for-interdisciplinary-learning.md)
 
 ## Examples
 - Small groups producing a joint explanation, solution, or artifact.

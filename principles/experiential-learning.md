@@ -4,8 +4,8 @@ title: Experiential Learning
 description: Experiential learning is learning by doing, which may include self-directed learning activities.
 status: review
 generated:
-  by: codex/unspecified
-  at: 2026-04-07
+  by: claude/unspecified
+  at: 2026-08-29
 ---
 
 # Experiential Learning
@@ -45,7 +45,7 @@ Experiential learning works because it puts learners in situations where concept
 
 ### Theory
 #### Supporting
-- Kolb’s experiential cycle directly supports the move from concrete experience to reflection, abstraction, and experimentation
+- [Experiential Learning Theory](../theories/experiential-learning-theory.md) [+S] — Kolb's experiential cycle directly supports the move from concrete experience to reflection, abstraction, and experimentation
 - Deweyan and constructivist perspectives support learning through doing and meaning-making from consequences
 - Sociocultural perspectives qualify experiential learning by emphasizing the role of guided participation, context, and tools
 - [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S] supports integrated performance tasks as especially useful for transfer

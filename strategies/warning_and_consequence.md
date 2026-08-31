@@ -58,6 +58,12 @@ The strategy works because predictability, not severity, drives behavior change:
 - [Positive reinforcement and specific praise](positive-reinforcement.md) — the counterpart that makes consequence systems work; a high reinforcement ratio keeps warnings rare and credible
 - [Establishing classroom routines](establishing-routines.md) — prevention that reduces the need for warnings in the first place
 - [Restorative conversations](restorative-conversations.md) — the follow-up that converts a consequence into a learning event
+- [Low-Profile Classroom Control](low-profile-classroom-control.md) — the warn-then-follow-through reaction sequence this technique instantiates
+- [Natural and Logical Consequences](../principles/natural-and-logical-consequences.md) — worth checking this specific consequence against, since a fixed break-time deduction can read as punishment rather than a consequence proportionate to and connected with the misbehavior
+## Related Elements
+- <!-- TODO -->
+## Tools
+- <!-- TODO -->
 
 ## Examples
 - **School-wide PBIS** — most Positive Behavioral Interventions and Supports implementations define a published consequence hierarchy (reminder → warning → reflection → office referral) that teachers apply uniformly; see [https://www.pbis.org](https://www.pbis.org).

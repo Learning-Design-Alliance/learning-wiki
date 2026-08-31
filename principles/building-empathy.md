@@ -4,8 +4,8 @@ title: Building Empathy
 description: Building empathy is the instructional principle of helping learners understand how other people perceive, feel, and interpret a situation.
 status: review
 generated:
-  by: codex/unspecified
-  at: 2026-04-07
+  by: claude/unspecified
+  at: 2026-08-29
 sources:
   - id: sachs-2019
     resource: "https://doi.org/10.1080/02699931.2019.1577226"
@@ -56,6 +56,7 @@ Building empathy requires more than telling learners to care about other people.
 - Social learning theory — learners pick up empathic discourse and listening practices by observing modeled interaction.
 - Transformative learning theory — empathy can deepen when learners critically examine assumptions and encounter disorienting alternative perspectives.
 - Social constructivist views of learning — understanding is built through dialogue with other people, not in isolation.
+- [Person-Centered Psychology](../theories/person-centered-psychology.md) — gives a structured relational methodology (unconditional positive regard, empathic listening, facilitator congruence) for the specific conditions under which perspective-taking can go beyond surface performance
 #### Contradicting / Qualifying
 - Empathy-building is not value-neutral; facilitation choices shape whose experiences are centered and whose are simplified.
 - Perspective-taking activities can increase confidence in misunderstanding if learners infer too much from too little evidence.

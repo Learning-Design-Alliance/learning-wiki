@@ -15,13 +15,17 @@ generated:
 ## Description
 Differentiated teaching is the deliberate adjustment of instruction — content, process, product, or environment — in response to differences in learners' readiness, interests, and learning profiles (Tomlinson, 2001). It is carried out through ongoing [assessment](../elements/assessment.md) of current understanding, followed by varied tasks, groupings, supports, or pacing so that each learner works at an appropriate level of challenge rather than a single whole-class target.
 
+Carol Ann Tomlinson, a leading authority on differentiation, stresses one clarification that heads off much confusion about the approach: "Differentiated instruction is not the 'Individualized Instruction' of the 1970s." Differentiation means varying instructional technique to teach as many students as possible effectively — it does not mean writing a distinct course of study for every individual student, and treating the two as synonymous (as they often are informally) has fueled much of the debate over whether differentiation is practically feasible at scale.
+
+In a differentiated classroom, teachers start from their existing curriculum and instruction, then ask what would need to change so every learner leaves with the knowledge, understanding, and skill to take on the next phase of learning — adapting instruction based on students' readiness, interest, and learning profile across four elements: **content** (the facts, concepts, principles, attitudes, and skills students access — kept conceptually consistent across students, with complexity adjusted rather than the underlying concept changed), **process** (how students make sense of content), **product** (how students demonstrate learning), and **affect/environment**. Tomlinson organizes the supporting guidance into three "pillars": a **philosophy** (diversity is normal and valuable; every student can learn; the teacher is responsible for structuring student success; every student deserves equitable access), a set of **principles** (a learning-conducive environment; a quality foundational curriculum; assessment-informed teaching; instruction actually designed from that assessment data; a flexible classroom), and concrete **practices** (proactive planning around student profiles; modifying approaches to student need; "teaching up" — pitching work just above a student's current comfort level rather than at or below it; assigning tasks that stay challenging, engaging, and purposeful for every student; and flexible grouping such as stations, interest groups, or orbital studies).
+
 ## Design Implications
 
 Differentiation works only when it is driven by evidence of what learners currently know and can do; without diagnostic [formative assessment](../patterns/formative-assessment.md), adjustments are guesses that often miss the learner [feedback-most-effective-at-task-and-process-levels](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]. Meta-analytic evidence shows differentiation practices produce moderate positive effects on achievement overall, but effects are largest when differentiation is tied to continuous diagnosis rather than static grouping (Deunk et al., 2018) [+M]. Because expertise changes rapidly, differentiation must be dynamic: a support appropriate this week may be redundant next week [Guidance that helps novices can hinder more knowledgeable learners.](../claims/expertise-reversal-effect.md) [~S].
 
 ### Context
 #### Requirements
-- Reliable diagnostic information about each learner's readiness ([assessment](../elements/assessment.md), [check-in](../elements/check-in.md))
+- Reliable diagnostic information about each learner's readiness ([assessment](../elements/assessment.md), [check-in](../elements/check-in.md)) — genuine assessment data informing instructional design, not informal impressions of student ability
 - A repertoire of task variants at different challenge levels, e.g. [choice-boards](../elements/choice-boards.md) or tiered tasks
 - Flexible grouping routines that regroup by need, not fixed ability labels
 - [Accommodations](../elements/accommodations.md) for learners with documented needs, integrated rather than bolted on
@@ -31,6 +35,7 @@ Differentiation works only when it is driven by evidence of what learners curren
 - Differentiation that reduces challenge for struggling learners lowers expectations and achievement; support should scaffold toward the same goals, not simplify the goals themselves [-M]
 - Poorly managed differentiated classrooms increase off-task time and cognitive load; structure and [clear-structure](../principles/clear-structure-presentation.md) matter more than variety [~M]
 - Teachers without planning time or diagnostic tools default to whole-class teaching regardless of intent [-W]
+- Often mistakenly conflated with individualized instruction (a separate course of study per student), which fuels unnecessary skepticism about its feasibility in large, mixed-ability classes
 
 #### Implementation Variability
 - **Content differentiation** — varied texts, problems, or resources at different readiness levels
@@ -38,6 +43,7 @@ Differentiation works only when it is driven by evidence of what learners curren
 - **Product differentiation** — varied ways of demonstrating learning ([choice-boards](../elements/choice-boards.md), projects, performances)
 - **Environment differentiation** — varied workspace, grouping, or technology access
 - **Technology-mediated differentiation** — [adaptive-learning](../principles/adaptive-learning.md) systems adjust task difficulty algorithmically ([adaptive-difficulty](../elements/adaptive-difficulty.md))
+- Which element is adjusted, and how much, varies by classroom, subject, and student profile — there is no single fixed recipe
 
 ### Target Learners
 - Mixed-readiness classrooms where a single instructional target fits few learners [~M]
@@ -51,12 +57,19 @@ Differentiation works only when it is driven by evidence of what learners curren
 - Self-regulation and learner agency, when students participate in choosing challenge levels
 
 ### Instructions
-1. Diagnose current readiness with a short pre-assessment or [check-in](../elements/check-in.md) before planning the unit.
-2. Define the *same* essential learning goal for all learners; vary only the path ([clear-structure](../principles/clear-structure-presentation.md)).
-3. Prepare 2–3 task tiers or a [choice-boards](../elements/choice-boards.md) spanning the readiness range, each at an appropriate challenge level ([cognitive-load-management](../principles/cognitive-load-management.md)).
-4. Group flexibly by current need; regroup as evidence changes rather than fixing ability labels.
-5. Provide targeted [coaching](../elements/coaching.md) and [accommodations](../elements/accommodations.md) during work time, scaffolding toward the shared goal.
-6. Re-assess and adjust continuously ([assessment](../elements/assessment.md)); fade supports as readiness grows [fading-support-promotes-transfer-of-responsibility](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
+1. Start from the existing curriculum and instruction rather than a blank slate.
+2. Diagnose current readiness, interests, and learning profiles with a short pre-assessment or [check-in](../elements/check-in.md) before planning the unit.
+3. Define the *same* essential learning goal for all learners; vary only the path ([clear-structure](../principles/clear-structure-presentation.md)). Identify what would need to change — in content, process, product, or affect/environment — for every learner to reach the next phase.
+4. Prepare 2–3 task tiers or a [choice-boards](../elements/choice-boards.md) spanning the readiness range, each at an appropriate challenge level ([cognitive-load-management](../principles/cognitive-load-management.md)). Keep every tier challenging, engaging and purposeful — "teaching up" rather than down.
+5. Group flexibly by current need (stations, interest groups, orbital studies); regroup as evidence changes rather than fixing permanent ability tracks.
+6. Provide targeted [coaching](../elements/coaching.md) and [accommodations](../elements/accommodations.md) during work time, scaffolding toward the shared goal.
+7. Re-assess and adjust continuously ([assessment](../elements/assessment.md)); fade supports as readiness grows [fading-support-promotes-transfer-of-responsibility](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
+
+## Assessment Evidence
+- Improved performance across all students, mastery of objectives by all learners.
+
+## Impact
+- Differentiated teaching ensures that all students can achieve mastery by addressing their individual learning needs and starting points.
 
 ## Related Strategies
 - [adaptive-learning](../principles/adaptive-learning.md) — technology-mediated differentiation at scale
@@ -72,6 +85,8 @@ Differentiation works only when it is driven by evidence of what learners curren
 
 ## Key Sources
 - Tomlinson, C. A. (2001). *How to differentiate instruction in mixed-ability classrooms* (2nd ed.). ASCD.
+- Tomlinson, C. A. (2014). *The differentiated classroom: Responding to the needs of all learners* (2nd ed.). Association for Supervision and Curriculum Development.
 - Deunk, M. I., Doolaard, S., Smale-Jacobse, A. E., & Bosker, R. J. (2018). Effective differentiation practices: A systematic review and meta-analysis of studies on the cognitive effects of differentiation practices in primary education. *Educational Research Review, 24*, 31–54. [doi:10.1016/j.edurev.2018.02.002](https://doi.org/10.1016/j.edurev.2018.02.002)
 - Hattie, J. (2009). *Visible learning: A synthesis of over 800 meta-analyses relating to achievement*. Routledge. [doi:10.4324/9780203887332](https://doi.org/10.4324/9780203887332)
 - Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during instruction does not work: An analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching. *Educational Psychologist, 41*(2), 75–86. [doi:10.1207/s15326985ep4102_1](https://doi.org/10.1207/s15326985ep4102_1)
+- Arduini-Van Hoose, N. (2020). Differentiated instruction. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

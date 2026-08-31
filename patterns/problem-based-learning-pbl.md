@@ -4,8 +4,8 @@ title: Problem-Based Learning (PBL)
 description: Problem-Based Learning is a pattern that organizes a course, unit, or module around a complex problem that learners must investigate and respond to.
 status: review
 generated:
-  by: codex/unspecified
-  at: 2026-04-07
+  by: claude/unspecified
+  at: 2026-08-29
 sources:
   - id: hmelo-silver-2004
     resource: "https://doi.org/10.1023/B:EDPR.0000034022.16470.f3"
@@ -63,12 +63,14 @@ The pattern is strongest when the problem is authentic enough to matter and the 
 #### Contradicting / Qualifying
 - Some foundational objectives are learned more efficiently through explicit instruction before or during PBL.
 - The pattern depends on facilitation; unguided open-ended work is not the same thing.
+- Written PBL curricula design authenticity in advance ("contrived" authenticity), but the strongest engagement in one case study came from a teacher's spontaneous departure from the script to respond to a real event — suggesting curriculum flexibility and teacher autonomy matter as much as the designed scenario itself.
 
 ### Claims
 #### Supporting
 - [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S]
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M]
+- [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](../claims/spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) [+W] — a single case study found that a teacher's in-the-moment departure from the written PBL sequence, to respond to an unplanned real-world event tied to the driving question, produced deeper student-initiated inquiry than the pre-designed ("contrived") authentic scenario
 #### Contradicting
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M]
 
@@ -101,6 +103,10 @@ The pattern is strongest when the problem is authentic enough to matter and the 
 ## Related Patterns
 - [Anchored Instruction](anchored-instruction.md)
 - [Case-Based Learning (Harvard Method)](case-based-learning-harvard-method.md)
+- [Interdisciplinary Societal Dilemma Units](interdisciplinary-societal-dilemma-units.md) — a variant specific to civic/societal dilemmas spanning named disciplines
+- [Organization Simulation for Interdisciplinary Learning](organization-simulation-for-interdisciplinary-learning.md) — adds a competitive external evaluator and organizational role structure to the authentic-problem, facilitated-inquiry core
+- [Interdisciplinary Course-Based Research Experience](interdisciplinary-course-based-research-experience.md) — organizes inquiry around a recurring shared object rather than a single driving problem
+- [Bioart Boundary-Crossing Making](bioart-boundary-crossing-making.md) — organizes inquiry around progressive institutional access and material engagement
 
 ## Examples
 - Medical learners diagnosing and responding to a patient scenario.

@@ -58,6 +58,8 @@ Repairing harm converts a disciplinary incident into a learning event: the stude
 ## Related Strategies
 - Restorative circles and community conferences — the group formats within which repairing harm most often occurs
 - Positive Behavioral Interventions and Supports (PBIS) — repairing harm is often layered onto tiered behavior frameworks as a response-to-incident alternative
+- [Teacher Effectiveness Training / Conflict Resolution](teacher-effectiveness-training-conflict-resolution.md) — a complementary process for the persistent conflicts or misbehavior that repairing harm alone may not fully resolve
+- [Natural and Logical Consequences](../principles/natural-and-logical-consequences.md) — the principle distinguishing repair-focused consequences like this one from punishment
 
 ## Related Elements
 - [Check-ins](../principles/check-ins.md) — low-stakes relational routines that build the trust repairing harm depends on
