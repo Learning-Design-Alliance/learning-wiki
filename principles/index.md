@@ -2,7 +2,7 @@
 
 Research-backed design commitments: what to do and why.
 
-**199 entries** · 0 stable · 150 in review · 49 drafts
+**198 entries** · 0 stable · 149 in review · 49 drafts
 
 ---
 
@@ -204,7 +204,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Social Learning](social-learning.md) - Social learning is the principle that understanding and performance often develop through interaction with other people, not just individual study.
 * [Social Presence](social-presence.md) - Social presence is the degree to which learners perceive others in a learning environment as real, intentional people — designing for it builds trust, engagement, and productive discourse, especially online.
 * [Spaced Learning](spaced-learning.md) - Spaced learning distributes study or practice across multiple sessions separated by intervals of time, rather than concentrating the same total effort into a single block.
-* [Spaced Practice](principle-slug.md) - Distribute learning episodes and practice opportunities over time rather than massing them together, so that partial forgetting between sessions makes retrieval effortful and strengthens long-term retention.
 * [Spaced Practice](spaced-practice.md) - Distribute practice of a skill or retrieval of content across multiple sessions separated in time rather than massing it into one block, because spaced exposure produces markedly stronger long-term retention.
 * [Spacing](spacing.md) - Distribute learning episodes and practice over time rather than massing them together, so that partial forgetting between sessions triggers effortful retrieval and strengthens long-term retention.
 * [Speech-to-text](speech-to-text.md) - Speech-to-text converts spoken language into written text, giving learners another route for composing, capturing ideas, and participating in text-based environments.

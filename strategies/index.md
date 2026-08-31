@@ -2,7 +2,7 @@
 
 Concrete teaching activity recipes — specific, implementable approaches.
 
-**2560 entries** · 0 stable · 2525 in review · 35 drafts
+**2559 entries** · 0 stable · 2524 in review · 35 drafts
 
 ---
 
@@ -275,7 +275,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Chunking Directions](chunking_directions.md) - Breaking down directions into smaller, more manageable sections to support sustained attention.
 * [Chunking Information](chunking_information.md) - Organize content into small, meaningful units so each fits within working memory limits before being consolidated into larger schemas.
 * [Chunking Instruction](chunking_instruction.md) - Breaking instructional content into small, coherent units that each fit within working memory limits before being integrated into larger wholes.
-* [Chunking Reduces Working Memory Load](chunking_reduces_working_memory_load.md) - Organizing information into meaningful units reduces the working memory burden of processing it, improving learning and recall.
 * [Chunking Text](chunking-text.md) - Breaking continuous text into smaller, meaningfully organized units so working memory can process each unit before integrating them.
 * [Circle Count](circle_count.md) - A whole-class oral counting routine in which students stand in a circle and count off in sequence, with variations in skip-counting patterns, starting numbers, and direction to build number-sense fluency.
 * [Circle Time Emotions](circle_time_emotions.md) - End each week with a group circle where students discuss different topics and share their feelings.

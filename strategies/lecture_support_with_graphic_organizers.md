@@ -59,7 +59,7 @@ Graphic organizers exploit the [Dual Coding Theory](../theories/dual-coding-theo
 
 ## Related Strategies
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — a skeletal organizer at the start of a lecture doubles as a prior-knowledge activation prompt
-- [Chunking lecture content](chunking_reduces_working_memory_load.md) — organizers segment lectures into digestible structural units
+- [Chunking reduces working memory load](../claims/chunking-reduces-working-memory-load.md) — organizers segment lectures into digestible structural units
 
 ## Examples
 - **Anatomy lectures using concept maps** — instructors build a body-systems concept map across a multi-week unit, with each lecture adding and linking nodes; students receive the cumulative map as a study artifact.
