@@ -61,6 +61,20 @@ def _norm_journal(s: str) -> str:
     return " ".join(s.split())
 
 
+def _unescape_record(record: dict) -> dict:
+    """Unescape a record's text fields, whether it came fresh or from cache.
+
+    doi_resolver unescapes at fetch time, but the cache holds entries written
+    before it did — so a cached "Youth &amp; Society" survived that fix and the
+    run still proposed writing the entity onto the page. Unescaping on read
+    covers both, and is idempotent: journal names and paper titles do not
+    legitimately contain HTML entities."""
+    import html
+    if not isinstance(record, dict):
+        return record
+    return {k: (html.unescape(v) if isinstance(v, str) else v) for k, v in record.items()}
+
+
 def decide(cited: tuple, record: dict, cited_title: str = "") -> dict:
     """Compare one citation against a Crossref record. Pure — no I/O.
 
@@ -82,6 +96,7 @@ def decide(cited: tuple, record: dict, cited_title: str = "") -> dict:
     Kept separate from the file walking so the decision can be tested
     without a network, which matters: this is the part that decides whether
     to rewrite hundreds of citations."""
+    record = _unescape_record(record)
     if not record or record.get("status") == "error":
         return {"action": "skip", "fields": {}, "why": "lookup failed"}
     if not record.get("resolved"):
@@ -117,15 +132,26 @@ def decide(cited: tuple, record: dict, cited_title: str = "") -> dict:
             # registry is far better evidence of the same work than a subtitle
             # the model is known to invent.
             journal, vol, issue, page = cited
-            agree = sum([
-                bool(record.get("journal")) and _norm_journal(journal) == _norm_journal(record["journal"]),
-                bool(record.get("volume")) and str(vol) == str(record["volume"]),
-                bool(record.get("first_page")) and str(page) == str(record["first_page"]),
-            ])
-            if agree >= 2:
+            j_ok = bool(record.get("journal")) and _norm_journal(journal) == _norm_journal(record["journal"])
+            v_ok = bool(record.get("volume")) and str(vol) == str(record["volume"])
+            p_ok = bool(record.get("first_page")) and str(page) == str(record["first_page"])
+            # All three, and the first page is not negotiable.
+            #
+            # A 2-of-3 rule looked reasonable and was badly wrong in practice,
+            # because the pair that satisfies it is almost always journal +
+            # volume — and two articles sharing a journal and volume is the
+            # normal case, not evidence. It proposed rewriting "Reading aloud
+            # improves memory: A production effect" to "Why are background
+            # telephone conversations distracting?" purely because both sit in
+            # the same volume of the same journal.
+            #
+            # The first page is what identifies an article within a volume. In
+            # every genuine case here it matched (Cook-Sather 3/3, Okonofua &
+            # Eberhardt 3/3) and in every false one it did not.
+            if j_ok and v_ok and p_ok:
                 return {"action": "fix_title", "fields": {"title": reg_title},
-                        "why": f"title is wrong, not the DOI ({agree}/3 of journal, volume "
-                               f"and page match the registry): \"{cited_title[:45]}\" -> "
+                        "why": f"title is wrong, not the DOI (journal, volume AND first page "
+                               f"all match the registry): \"{cited_title[:45]}\" -> "
                                f"\"{reg_title[:45]}\""}
             return {"action": "strip_doi", "fields": {},
                     "why": f"DOI resolves to \"{reg_title[:70]}\", not the cited work"}
@@ -263,7 +289,7 @@ def main() -> None:
                 skipped += 1
                 continue
             path = WIKI_ROOT / entry["source"]
-            edits.setdefault(path, []).append((doi, d, record))
+            edits.setdefault(path, []).append((doi, d, _unescape_record(record)))
             print(f"  [{i}/{len(todo)}] {entry['source']}: {d['action']} — {d['why']}")
             prefix_ok[doi.partition("/")[0]] = prefix_ok.get(doi.partition("/")[0], 0) + 1
             if d["action"] in ("fix_meta", "fix_title"):
