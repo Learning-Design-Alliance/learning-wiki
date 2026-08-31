@@ -59,6 +59,52 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### State as of 2026-08-31 — the stack is collapsed
+
+All three open PRs were merged into `main` in dependency order (#21, then #19, then #20).
+`main` now carries the link repairs, the citation gates, the corrupted-page repairs *and*
+the refilled content for them, the 135-slug normalisation, and the near-duplicate detector.
+`lint.py` reports 0 and `mkdocs build --strict` exits 0 on that tree.
+
+These three branches are **fully merged and dead** — do not resume a session onto them, do
+not push to them, do not reopen a PR from them:
+
+- `claude/research-scraper-test-setup-i4bh9m`
+- `claude/fix-no-h1-pages-240eb2`
+- `claude/normalize-slugs-forward-port`
+
+Ten other remote branches are also fully merged into `main` and equally dead:
+`brand/top-bar-lazuli-colors`, `claude/edtech-theories-principles-v2ezw5`,
+`claude/jls-open-access-scraper-b45d3c`, `claude/learning-wiki-okf-conversion-6t5pjn`,
+`claude/open-source-license-strategy-6q4gjc`, `content/merge-headings-and-highlight`,
+`docs/scale-index-pages`, `feature/source-manifest`, `fix/log-md-formatting`,
+`fix/pages-build-colon-filenames`.
+
+Only four branches still hold unmerged commits:
+
+| Branch | Unmerged | Collision risk |
+|---|---|---|
+| `claude/standards-design-process-homes-q9qky1` | 4 commits, 54 files | **None** — works entirely in a new `goals/` folder, plus `log.md`, `sources/manifest.ndjson`, and one new script |
+| `ci/detect-orphaned-pages-v2` | 1 commit, 2 files | Low — `docs.yml` + a new script |
+| `ci/pr-preview-deploys` | contains the above | Low |
+| `docs/material-theme-polish` | 1 commit, 6 files | **High and stale** — 3 days old, edits `build_indexes.py` and four `index.md` files that have since been regenerated many times. Re-derive the `mkdocs.yml`/`build_indexes.py` change on a fresh branch rather than merging this one |
+
+### Known open work
+
+- **Dead anchors are invisible to lint.** `check_broken_links` splits a destination at `#`
+  and only tests the file. `mkdocs build --strict` reports a missing anchor as INFO, so it
+  does not fail either — the same blind spot that let 118 dead paren-links through. 8 claim
+  pages currently carry `[→ Author Year](#author-year)` subclaim links with no matching
+  `### Author Year` heading.
+- **The 13 refilled strategy pages assert DOIs written before the Crossref gate existed.**
+  `#19` states it corroborated DOIs against existing repo usage rather than against Crossref,
+  because that worktree had no network. Re-run `scripts/check_citations.py` over
+  `strategies/{classroom-design-for-engagement,contrasting-cases,formative-assessment-cycles,
+  formative-feedback,multisensory-phonics-instruction,sketchnoting,teaching-as-learning}.md`
+  and the six underscore-named siblings from a machine that can reach Crossref.
+- **Gate 3 (manifest gate) is unbuilt.** `sources/manifest.ndjson` still records `ingested`
+  even when page verification failed.
+
 ---
 
 ## Three core operations
