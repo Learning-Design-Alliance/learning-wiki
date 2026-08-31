@@ -43,6 +43,7 @@ Usage:
     python3 scripts/resolve_citation_metadata.py --apply --limit 20
 """
 
+import re
 import argparse
 import sys
 from pathlib import Path
@@ -208,14 +209,22 @@ def rewrite_line(line: str, fields: dict, pages_text: str | None) -> str | None:
     return line[:start] + f"*{journal}, {vol}*({issue}), {pages}" + line[end:]
 
 
+_DOI_LINK = (r"[ \t]*\[(?:doi:)?(?:https?://(?:dx\.)?doi\.org/)?{d}\]"
+             r"\(https?://(?:dx\.)?doi\.org/{d}\)")
+
+
 def strip_doi_from_line(line: str, doi: str) -> str:
     """Remove the DOI hyperlink, leaving the citation text intact but
-    unlinked — the same shape verify_page_citations leaves behind."""
-    for form in (f" [doi:{doi}](https://doi.org/{doi})",
-                 f" [https://doi.org/{doi}](https://doi.org/{doi})"):
-        for variant in (form, form.replace(doi, doi.upper())):
-            line = line.replace(variant, "")
-    return line
+    unlinked — the same shape verify_page_citations leaves behind.
+
+    Case-insensitive, and that is not a nicety. DOIs are compared and stored
+    lowercased (cc._normalize_doi), but the spelling *on the page* is very
+    often mixed case: 10.1097/ACM.0b013e318244fa9c has an uppercase registrant
+    code and a lowercase suffix, so it matches neither the lowercased form nor
+    .upper(). The literal replace this used to do therefore silently did
+    nothing on those, while the run still counted the removal — leaving a DOI
+    the resolver had *proven* wrong on a page the report called fixed."""
+    return re.sub(_DOI_LINK.format(d=re.escape(doi)), "", line, flags=re.I)
 
 
 def proven_fabrications(not_found_dois, siblings: dict, verified: set) -> dict:
@@ -375,14 +384,23 @@ def main() -> None:
     if proven:
         not_found = [(d, s_) for d, s_ in not_found if d not in proven]
 
+    # Every intended edit that no rewrite actually landed. Tracked because the
+    # counters above are *intentions* formed during the decision loop, and a
+    # rewrite that silently matched nothing used to be indistinguishable from
+    # one that worked — which is how a DOI proven wrong stayed on
+    # patterns/team-based-learning.md under a run that reported it removed.
+    no_ops: list[tuple[str, str, str]] = []
+    written: set = set()
     if args.apply and edits:
         for path, items in edits.items():
             text = path.read_text(encoding="utf-8")
             out = []
+            landed = set()
             for line in text.splitlines(keepends=True):
                 for doi, d, record in items:
                     if doi.lower() not in line.lower():
                         continue
+                    before = line
                     if d["action"] == "fix_meta":
                         new = rewrite_line(line, d["fields"], record.get("pages"))
                         if new:
@@ -398,12 +416,32 @@ def main() -> None:
                             line = line.replace(old_t, d["fields"]["title"], 1)
                     elif d["action"] == "strip_doi":
                         line = strip_doi_from_line(line, doi)
+                    if line != before:
+                        landed.add((doi, d["action"]))
                 out.append(line)
+            rel = str(path.relative_to(WIKI_ROOT))
+            if landed:
+                written.add(rel)
+            for doi, d, _ in items:
+                if (doi, d["action"]) not in landed:
+                    no_ops.append((rel, doi, d["action"]))
+                    if d["action"] in ("fix_meta", "fix_title"):
+                        fixed -= 1
+                    else:
+                        stripped -= 1
+                        variant_stripped -= bool(doi in proven)
             path.write_text("".join(out), encoding="utf-8")
 
     verb = "Applied" if args.apply else "Would apply"
+    # Pages that actually changed on disk, not pages an edit was planned for.
+    pages = len(written) if args.apply else len(edits)
     print(f"\n{verb}: {fixed} metadata correction(s), {stripped} DOI removal(s) "
-          f"across {len(edits)} page(s).")
+          f"across {pages} page(s).")
+    if no_ops:
+        print(f"\n{len(no_ops)} intended edit(s) matched nothing on the page and were NOT "
+              f"written — these are still wrong on disk:")
+        for rel, doi, action in no_ops:
+            print(f"      {action:10} {doi}   {rel}")
     print(f"{agreed} citation(s) already matched the registry.")
     print(f"{skipped} skipped because the lookup failed — an outage is not a verdict.")
     if variant_stripped:
