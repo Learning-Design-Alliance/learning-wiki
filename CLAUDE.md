@@ -173,9 +173,13 @@ dropping one.
 
 Renaming a page is two jobs, and `git mv` only does the first. Nothing else in
 the wiki updates the pages that link to the one you moved, so a rename lands as
-a set of silently broken cross-links — and because a rename is often done on a
-branch cut some time ago, they only break once the rename is merged forward into
-a tree that has since grown pages linking to the old name.
+a set of silently broken cross-links.
+
+The dangerous version is a rename that is correct in its own tree and breaks
+links only when merged forward, because the branch was cut before the linking
+pages existed. That has already happened once here: merging the scraper branch
+orphaned 17 links to `a_finder's_guide_to_facts.md`, renamed there to
+`a_finders_guide_to_facts.md`.
 
 After renaming, always run:
 

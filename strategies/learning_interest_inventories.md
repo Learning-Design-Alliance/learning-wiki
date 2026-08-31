@@ -72,7 +72,7 @@ Interest inventories operationalize the link between personal relevance and moti
 
 ## Related Strategies
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — interests are a form of prior knowledge; inventories surface material that later serves as an activation hook
-- [Academic Choice (Planning, Working, Reflecting)](academic_choice_(planning,_working,_reflecting).md) — the structural mechanism through which inventoried interests become learner decisions
+- [Academic Choice (Planning, Working, Reflecting)](<academic_choice_(planning,_working,_reflecting).md>) — the structural mechanism through which inventoried interests become learner decisions
 - [Action Planning](action_planning.md) — learners translate interests into goals and steps
 
 ## Examples

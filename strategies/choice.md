@@ -58,7 +58,7 @@ Choice supports motivation primarily by satisfying the need for autonomy [Autono
 6. Debrief the choice ("What did you pick, and was it a good fit?") to build evaluative judgment for future selections.
 
 ## Related Strategies
-- [Academic Choice (Planning, Working, Reflecting)](academic_choice_(planning,_working,_reflecting).md) — a structured cycle that wraps choice in planning and reflection
+- [Academic Choice (Planning, Working, Reflecting)](<academic_choice_(planning,_working,_reflecting).md>) — a structured cycle that wraps choice in planning and reflection
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — builds the knowledge base learners need to choose well
 
 ## Examples

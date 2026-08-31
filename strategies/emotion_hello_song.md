@@ -37,7 +37,7 @@ The strategy works because labeling and expressing emotions builds the emotional
 - **Student-led variant:** after several weeks, learners take turns choosing the emotion and leading the verse, building leadership and emotional fluency
 - **Multilingual/cultural adaptation:** swap in greetings and emotion words from learners' home languages; adapt expressions to culturally specific display rules
 - **Older learners:** replace the song with a rhythmic call-and-response or "emotion charades" greeting that preserves the structure without infantilizing adolescents
-- **Extension:** pair the song with the ['What's My Emotion?' Game Check-In]('what's_my_emotion?'_game_check-in.md) for deeper recognition practice
+- **Extension:** pair the song with the ['What's My Emotion?' Game Check-In](whats_my_emotion_game_check-in.md) for deeper recognition practice
 
 ### Target Learners
 - Early childhood and early elementary students, for whom emotion labeling and facial-expression recognition are still developing; emotion knowledge in young children predicts later social competence and school adjustment [Emotion knowledge in young children predicts later social competence and school adjustment.](https://doi.org/10.1016/j.ecresq.2004.01.002) [+M]
@@ -58,7 +58,7 @@ The strategy works because labeling and expressing emotions builds the emotional
 5. **Connect to the day.** Briefly acknowledge the room's emotional weather and transition to instruction; follow up privately with any learner signaling distress.
 
 ## Related Strategies
-- ['What's My Emotion?' Game Check-In]('what's_my_emotion?'_game_check-in.md) — a game-based companion for emotion recognition practice
+- ['What's My Emotion?' Game Check-In](whats_my_emotion_game_check-in.md) — a game-based companion for emotion recognition practice
 - [Act It Out](act_it_out.md) — embodied expression of emotions and scenarios
 - [Check-Ins](../principles/check-ins.md) — the broader family of opening routines this strategy instantiates
 

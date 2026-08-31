@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Self Talk Improves Learning And Performance
-status: review
+status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30

@@ -56,6 +56,9 @@ Perspective-taking deepens learning when learners must actively construct the ot
 - [Cognitive Conflict](cognitive-conflict.md) — the conceptual tension perspective-taking is designed to produce
 - [Class Discussion](class-discussion.md) — the venue where perspectives are voiced, challenged, and synthesized
 - [Argumentation](argumentation.md) — the reasoning skill that makes representing another position rigorous rather than impressionistic
+- [Role Reversal](role-reversal.md)
+- [Structured Discussion](structured-discussion.md)
+- [Participant Examples](participant-examples.md) — a more specific move in which the learner positions their own identity as a character within the example, not just a viewpoint they consider
 
 ## Patterns That Use This Element
 - [Debate](../patterns/debate.md) — opposing roles require each side to construct and defend a full position

@@ -49,12 +49,18 @@ Explicit criteria support learning because they enable self-regulation: learners
 - Self-regulated learning: building learners' capacity to judge their own work against standards
 
 ### Instructions
-1. **Define the objective** using an observable verb from Bloom's (revised) or Webb's DOK; replace "understand X" with "classify X," "justify X," or "construct X."
+1. **Define the objective** using an observable verb from [Bloom's Taxonomy](../theories/blooms-taxonomy.md) (revised) or Webb's DOK; replace "understand X" with "classify X," "justify X," or "construct X."
 2. **Identify the evidence** — what a learner doing the objective would visibly say, make, or do ([Assess Performance](../elements/assess-performance.md)).
 3. **Draft criteria and scales** — 3–5 criteria maximum, each with descriptors describing quality, not absence of faults.
 4. **Calibrate with exemplars** — pair each criterion with samples of strong and weak work ([Non-Examples](../elements/non-examples.md) sharpen interpretation of criteria).
-5. **Share criteria before work begins** and teach learners to use them for self- and peer-assessment ([Assessment](../elements/assessment.md), [Check-In](../elements/check-in.md)).
-6. **Use criteria for feedback** — reference specific criteria when giving feedback so learners can act on it ([Feedback](../elements/feedback.md)).
+5. **Share criteria before work begins** and teach learners to use them for self- and peer-assessment ([Assessment](../elements/assessment.md), [Check-In](../elements/check-in.md)), providing guidance as they first apply them ([Provide Guidance](../elements/provide-guidance.md)).
+6. **Use criteria for feedback** — reference specific criteria when giving feedback so learners can act on it ([Feedback](../elements/feedback.md), [Provide Feedback](../elements/provide-feedback.md)).
+
+## Assessment Evidence
+- Student understanding of criteria, effectiveness of communication
+
+## Impact
+- Criteria should be concise, student-friendly, easily understood, and clearly communicated so that students understand expectations.
 
 ## Related Strategies
 - [Rubric-Based Assessment](rubric-based-assessment.md) — the primary vehicle for communicating observable criteria

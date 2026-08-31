@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Sequencing worked examples with practice problems improves learning for novices
-status: review
+status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30

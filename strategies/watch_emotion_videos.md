@@ -57,7 +57,7 @@ Video is effective here because it combines visual and verbal channels to convey
 6. Embed a [Check-In](../elements/check-in.md) later the same day asking students to try the strategy and report how it went.
 
 ## Related Strategies
-- ['What's My Emotion?' Game Check-In]('what's_my_emotion?'_game_check-in.md) — a follow-up activity that rehearses emotion naming after viewing
+- ['What's My Emotion?' Game Check-In](whats_my_emotion_game_check-in.md) — a follow-up activity that rehearses emotion naming after viewing
 - [Acting-Role-Play](acting-role-play.md) — live enactment of the regulation steps the video modeled
 
 ## Related Elements

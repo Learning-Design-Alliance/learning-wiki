@@ -56,7 +56,7 @@ Labeling emotions is the foundational skill of emotional literacy: students cann
 6. **Extend granularity:** Gradually replace broad labels with precise ones (mad → annoyed, frustrated, furious) as vocabulary grows.
 
 ## Related Strategies
-- ['What's My Emotion?' Game Check-In](../strategies/'what's_my_emotion?'_game_check-in.md) — a game-based variant that embeds identification in a daily routine
+- ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — a game-based variant that embeds identification in a daily routine
 - [Acting/Role-Play](../strategies/acting-role-play.md) — students enact emotions, deepening the connection between label and felt experience
 
 ## Examples

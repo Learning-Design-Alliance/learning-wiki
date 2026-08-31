@@ -4,8 +4,8 @@ title: Inquiry-based Learning
 description: Inquiry-based learning organizes learning around questions, investigation, evidence, and explanation rather than around direct transmission alone.
 status: review
 generated:
-  by: codex/unspecified
-  at: 2026-04-07
+  by: claude/unspecified
+  at: 2026-08-29
 sources:
   - id: moon-2019
     resource: "https://doi.org/10.1080/15391523.2018.1470483"
@@ -76,6 +76,8 @@ Inquiry-based learning is powerful when learners investigate genuine questions a
 - **Guided science or social inquiry**: Learners investigate a phenomenon or issue using structured prompts and staged evidence gathering.
 - **Problem-framing workshops**: Learners refine a broad topic into investigable questions before researching.
 - **Digital inquiry tasks**: Learners navigate simulations, databases, or online sources to test and revise explanations.
+- [Interdisciplinary Course-Based Research Experience](../patterns/interdisciplinary-course-based-research-experience.md) — a whole-class authentic research inquiry organized around a shared boundary object
+- [Interdisciplinary Societal Dilemma Units](../patterns/interdisciplinary-societal-dilemma-units.md) — small-group deliberative inquiry into an authentic, multi-solution societal dilemma
 
 ## Key Sources
 - Moon, J. A., & Brockway, D. (2019). Facilitating learning in an interactive science simulation: The effects of task segmentation guidance on adults' inquiry-based learning and cognitive load. *Journal of Research on Technology in Education, 51*(1), 77-100. [https://doi.org/10.1080/15391523.2019.1566038](https://doi.org/10.1080/15391523.2019.1566038)

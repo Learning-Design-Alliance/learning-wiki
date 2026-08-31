@@ -23,7 +23,7 @@ Literature reviews develop disciplinary reasoning because learners must weigh co
 #### Requirements
 - Access to a real corpus (library databases, curated reading sets) with enough sources to permit genuine synthesis
 - An explicit organizational scheme — thematic, methodological, or chronological — taught before writing begins
-- Source-evaluation criteria (currency, method quality, bias) made explicit, as in [A Finder's Guide to Facts](../strategies/a_finder's_guide_to_facts.md)
+- Source-evaluation criteria (currency, method quality, bias) made explicit, as in [A Finder's Guide to Facts](a_finders_guide_to_facts.md)
 - A synthesis scaffold such as an evidence matrix (source × claim × method × finding) to externalize comparisons
 
 #### Constraints
@@ -58,7 +58,7 @@ Literature reviews develop disciplinary reasoning because learners must weigh co
 6. Peer-review drafts against a rubric checking synthesis (not summary), then revise.
 
 ## Related Strategies
-- [A Finder's Guide to Facts](a_finder's_guide_to_facts.md) — the source-evaluation skill that feeds a credible review corpus
+- [A Finder's Guide to Facts](a_finders_guide_to_facts.md) — the source-evaluation skill that feeds a credible review corpus
 - [3-Source Rule](3-2-1_reflection.md) — a simplified multi-source verification habit that prepares younger learners for review work
 - [Case-Based Learning](../strategies/case-based-learning.md) — single-case analysis that literature reviews scale up to many cases
 

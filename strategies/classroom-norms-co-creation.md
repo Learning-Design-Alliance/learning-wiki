@@ -60,7 +60,7 @@ Co-creation leverages self-determination dynamics: giving students authentic voi
 
 ## Related Strategies
 - [Active Listening](active-listening.md) — the facilitation stance that makes elicitation genuine rather than performative
-- [Academic Choice (Planning, Working, Reflecting)](academic_choice_(planning,_working,_reflecting).md) — extends student voice from norms into daily learning decisions
+- [Academic Choice (Planning, Working, Reflecting)](<academic_choice_(planning,_working,_reflecting).md>) — extends student voice from norms into daily learning decisions
 - [Acceptance, Responsibility, and Sharing](acceptance,_responsibility,_and_sharing.md) — the dispositions co-created norms are meant to institutionalize
 
 ## Examples

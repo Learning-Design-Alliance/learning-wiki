@@ -26,7 +26,11 @@ sources:
 > **Element** · [All elements](index.md)
 
 ## Description
-An advance organizer is introductory material — a concept map, outline, analogy, or brief prose passage — presented *before* instruction to provide an anchoring framework into which new content can be assimilated. Introduced by Ausubel, the organizer works by making relevant existing knowledge active and by pre-structuring the relationships among ideas the learner is about to encounter.
+An advance organizer is introductory material — a concept map, outline, analogy, or brief prose passage — presented *before* instruction to provide an anchoring framework into which new content can be assimilated. Introduced by Ausubel (1968), the organizer works by making relevant existing knowledge active and by pre-structuring the relationships among ideas the learner is about to encounter — for example, "Listen to this story and think of the three things the duckling did" primes a listener to organize what follows around a specific retrieval structure before hearing it.
+
+Advance organizers typically appear within a broader **anticipatory set** — Hunter's (1982) term for the lesson-opening phase that comes right after gaining students' initial attention. Before this phase can work at all, a teacher must first secure learners' actual attention, since it's difficult to communicate a lesson's purpose while students are still settling in, talking, or distracted. Research on attention (Solso, 1988) identifies four appeals that reliably draw an attending response: **psychophysical appeal** (varying the color, size, intensity, or pitch of stimuli — most efficiently a teacher's own voice inflection, gesture, posture, and movement); **emotional appeal** (using stimuli learners already have emotional associations with — calling students by name, referencing something personal like an article of clothing, or using words from a student's native language); **discrepancy appeal** (novelty or surprise — a history teacher dressing in period costume, a science teacher producing an unusual smell before an experiment, a math teacher opening with an unsolvable problem); and **commanding stimuli appeal** (an assertively delivered instruction or agreed-upon code word that reliably gets compliance, e.g. "Now listen closely").
+
+Once attention is secured, the anticipatory set's job is to build a genuine **learning set**: making the lesson's goal feel relevant, placing it in a context learners can relate to, and clearing other distracting stimuli from mind — often by having learners recall past learning through drawing, summarizing, reading a short passage, or writing, explicitly linking past and present learning. Advance organizers are one common way to fill this anticipatory-set role, though the anticipatory set is the broader concept and can also work through other retrieval-priming activities.
 
 ## Design Implications
 
@@ -37,12 +41,14 @@ Advance organizers improve comprehension and retention by giving learners a subs
 - Content that has an identifiable hierarchical or relational structure worth mapping
 - Connection to learners' prior knowledge — the organizer must anchor to something ([Activation](activation.md))
 - Brevity and higher-order abstraction: an organizer that simply restates the lesson adds load without adding structure ([Chunking](../principles/chunking.md))
+- Learner attention already secured (via a psychophysical, emotional, discrepancy, or commanding-stimuli appeal) before the organizer is introduced, since one delivered to a distracted class accomplishes little
 
 #### Constraints
 - Effects are small overall and shrink for rote or discrete-fact learning; organizers help meaningful, conceptually structured content most [Meta-analytic gains are modest and strongest for meaningful verbal learning.](https://doi.org/10.3102/000283120170002211) [~M]
 - Learners with strong prior knowledge may find organizers redundant, adding processing without benefit [~W]
 - Poorly designed organizers — too detailed, too abstract, or disconnected from the lesson — can misdirect attention and impose extraneous load [-W]
 - Overly directive organizers can constrain how learners structure open-ended material, reducing exploration [~W]
+- An organizer only helps if it is actually used to store and retrieve the coming content — presenting one and then never referencing it during the lesson wastes its organizing function
 
 ### Target Learners
 - Novices in content-heavy domains (history, STEM, law) who lack an existing schema for the material [+M]
@@ -86,3 +92,7 @@ Advance organizers improve comprehension and retention by giving learners a subs
 - Ausubel, D. P. (1968). *Educational psychology: A cognitive view*. Holt, Rinehart & Winston.
 - Luiten, J., Ames, W., & Ackerson, G. (1980). A meta-analysis of the effects of advance organizers on learning and retention. *American Educational Research Journal, 17*(2), 211–218. [doi:10.3102/00028312017002211](https://doi.org/10.3102/00028312017002211)
 - Mayer, R. E. (1979). Can advance organizers influence meaningful learning? *Review of Educational Research, 49*(2), 371–383. [doi:10.3102/00346543049002371](https://doi.org/10.3102/00346543049002371)
+- Ausubel, D. P. (1968). *Educational psychology: A cognitive view*. Holt, Rinehart and Winston.
+- Hunter, M. (1982). *Mastery teaching*. TIP Publications.
+- Solso, R. L. (1988). *Cognitive psychology* (2nd ed.). Allyn & Bacon.
+- Arduini-Van Hoose, N. (2020). Delivering instruction. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

@@ -56,7 +56,7 @@ Cue cards function as environmental scaffolds for emotion regulation: they offlo
 5. Review use in brief check-ins, retire strategies that don't work, and fade prompts as independence grows ([Check-In](../elements/check-in.md), [Enhance Retention and Transfer](../elements/enhance-retention-and-transfer.md)).
 
 ## Related Strategies
-- ['What's My Emotion?' Game Check-In](../strategies/'what's_my_emotion?'_game_check-in.md) — builds the emotion vocabulary the cards presuppose
+- ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — builds the emotion vocabulary the cards presuppose
 - [Check-Ins](../principles/check-ins.md) — regular emotional state monitoring that pairs naturally with card use
 - [Achievable Micro-Goals](../strategies/achievable_micro-goals.md) — framing each card strategy as a small, attainable action
 

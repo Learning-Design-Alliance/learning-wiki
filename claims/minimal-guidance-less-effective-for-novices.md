@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Minimal guidance is less effective for novices than explicit instruction
-status: review
+status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30

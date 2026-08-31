@@ -53,12 +53,12 @@ Goal setting works because specific, difficult goals focus attention and energiz
 2. Co-construct a specific, challenging but attainable goal with the learner; convert vague aims into concrete targets using [Achievable Micro-Goals](../strategies/achievable_micro-goals.md).
 3. Break the goal into proximal sub-goals with short timelines, recorded in an [Action Plan](../strategies/action_planning.md).
 4. Schedule regular [Check-Ins](../elements/check-in.md) to monitor progress, give feedback, and adjust goals that prove too easy or too hard.
-5. Have learners reflect on goal attainment and set the next goal, gradually transferring ownership ([Academic Choice](../strategies/academic_choice_(planning,_working,_reflecting).md))).
+5. Have learners reflect on goal attainment and set the next goal, gradually transferring ownership ([Academic Choice](<../strategies/academic_choice_(planning,_working,_reflecting).md>)).
 
 ## Related Strategies
 - [Achievable Micro-Goals](achievable_micro-goals.md) — the proximal sub-goal mechanism that makes distal goals attainable
 - [Action Planning](action_planning.md) — the concrete record of how goals will be pursued
-- [Academic Choice (Planning, Working, Reflecting)](academic_choice_(planning,_working,_reflecting).md)) — structures learner ownership of goals and plans
+- [Academic Choice (Planning, Working, Reflecting)](<academic_choice_(planning,_working,_reflecting).md>) — structures learner ownership of goals and plans
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — a vehicle for individual goal-setting conversations
 
 ## Examples

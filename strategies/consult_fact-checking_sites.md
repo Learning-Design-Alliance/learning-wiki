@@ -57,7 +57,7 @@ Consulting expert fact-checkers is a form of "lateral reading": leaving an unfam
 5. Close with [Class Discussion](../elements/class-discussion.md) on edge cases — claims no fact-checker has covered — and what to do when professional verification is unavailable.
 
 ## Related Strategies
-- [A Finder's Guide to Facts](a_finder's_guide_to_facts.md) — companion framework for evaluating sources when no fact-check exists
+- [A Finder's Guide to Facts](a_finders_guide_to_facts.md) — companion framework for evaluating sources when no fact-check exists
 - [Lateral Reading](lateral-reading.md) — the underlying reading behavior this strategy operationalizes
 
 ## Examples

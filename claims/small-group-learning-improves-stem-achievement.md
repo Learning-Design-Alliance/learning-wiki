@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Small Group Learning Improves STEM Achievement
-status: review
+status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30

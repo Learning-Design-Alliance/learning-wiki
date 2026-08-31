@@ -58,7 +58,7 @@ Structured social-emotional discussion builds emotional vocabulary and peer rela
 
 ## Related Strategies
 - [Active Listening](active-listening.md) — the listening norm that makes circle sharing feel safe and heard
-- ['What's My Emotion?' Game Check-In]('what's_my_emotion?'_game_check-in.md) — a playful warm-up that builds the emotion vocabulary circles depend on
+- ['What's My Emotion?' Game Check-In](whats_my_emotion_game_check-in.md) — a playful warm-up that builds the emotion vocabulary circles depend on
 - [Acceptance, Responsibility, and Sharing](acceptance,_responsibility,_and_sharing.md) — the disposition circle discussions aim to cultivate
 
 ## Related Elements

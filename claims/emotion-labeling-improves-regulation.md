@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Emotion Labeling Improves Regulation
-status: review
+status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
@@ -25,7 +25,7 @@ Putting feelings into words — naming an emotional state with a specific label 
 
 ## Discussion
 
-**Mechanism.** The proposed mechanism is that converting a diffuse felt experience into a verbal label engages semantic processing, which creates psychological distance from the emotion and makes it an object of reflection rather than an overwhelming experience. This is consistent with the broader premise of [Self-Regulated Learning](../theories/self-regulated-learning.md), in which monitoring one's own states is a precondition for controlling them. Structured check-in routines such as [Check-in](../elements/check-in.md) give learners a recurring, low-stakes opportunity to practice this labeling, and emotion-labeling games such as ['What's my emotion?' game check-in](../strategies/'what's_my_emotion?'_game_check-in.md) embed the practice in a familiar routine.
+**Mechanism.** The proposed mechanism is that converting a diffuse felt experience into a verbal label engages semantic processing, which creates psychological distance from the emotion and makes it an object of reflection rather than an overwhelming experience. This is consistent with the broader premise of [Self-Regulated Learning](../theories/self-regulated-learning.md), in which monitoring one's own states is a precondition for controlling them. Structured check-in routines such as [Check-in](../elements/check-in.md) give learners a recurring, low-stakes opportunity to practice this labeling, and emotion-labeling games such as ['What's my emotion?' game check-in](../strategies/whats_my_emotion_game_check-in.md) embed the practice in a familiar routine.
 
 **Boundary conditions to establish.** Several moderators are plausible but currently unverified on this page: (a) labeling may help most when emotions are moderately intense — very low-intensity states may not warrant labeling, and very high-intensity states may overwhelm the labeling process itself; (b) the specificity of the label likely matters — a differentiated vocabulary for emotions (e.g., distinguishing frustration from boredom from anxiety) should support more targeted regulation than a coarse good/bad distinction, which connects to the role of [Accessible vocabulary & syntax](../principles/accessible-vocabulary-syntax.md) in making labels usable for all learners; (c) cultural and individual display norms may affect willingness to label emotions publicly versus privately, which matters for whether labeling is designed as a shared classroom routine or a private reflection.
 

@@ -4,15 +4,21 @@ update_links_for_renames.py — After pages are renamed, re-point every inbound
 cross-link at the new filename.
 
 Why this exists: renaming a page is two jobs, and `git mv` only does the first.
-A slug-normalisation pass in another worktree renamed 162 strategy pages
-(`a_finder's_guide_to_facts.md` -> `a-finders-guide-to-facts.md`,
-`academic_choice_(planning,_working,_reflecting).md` ->
-`academic-choice-planning-working-reflecting.md`) without touching the pages
-that link to them. In that worktree's own tree the renames looked clean —
-lint reported zero broken links — but that tree is 101 commits behind and holds
-2035 pages. The current tree holds 3424, and many of the pages added since link
-to the old names, including 19 links repaired in this branch. Merging the
-renames forward without this pass silently re-breaks all of them.
+Nothing else in the wiki updates the pages that link to the one you moved.
+
+This is not hypothetical. Two independent slug-normalisation efforts ran against
+this wiki at once. One (a984820f on the scraper branch) renamed 192 files and did
+update the links in its own tree. The other (162 renames on
+claude/ecstatic-mclaren-43fb6c) did not, and looked clean anyway — lint there
+reports zero broken links, because that tree sits 101 commits behind and indexes
+2035 pages against this tree's 3599, so most of the pages that link to the old
+names do not exist there yet.
+
+The failure mode is a rename that is correct in its own tree and breaks links
+only once merged forward. It happened here: merging the scraper branch orphaned
+17 links to `a_finder's_guide_to_facts.md`, which that branch had renamed to
+`a_finders_guide_to_facts.md` — links this branch had itself repaired one commit
+earlier. This script re-pointed all 17 from a one-line rename map.
 
 So: whoever renames chooses the names, and this closes the gap they leave. It
 does not rename anything and has no opinion about what a good slug is.
@@ -99,11 +105,20 @@ def rename_map_from_file(path: Path) -> dict:
 
 
 def link_variants(old_path: str, from_folder: str) -> list:
-    """Every way a page in `from_folder` might spell a link to `old_path`."""
+    """Every way a page in `from_folder` might spell a link to `old_path`.
+
+    `from_folder` is "" for a page at the bundle root (index.md, log.md), where
+    the correct form is "folder/slug.md" with no "../" prefix — log.md's own
+    entries were left broken by an earlier version of this that always prefixed.
+    """
     folder, _, basename = old_path.partition("/")
-    forms = [f"../{folder}/{basename}", f"/{folder}/{basename}"]
-    if folder == from_folder:
-        forms.append(basename)
+    forms = [f"/{folder}/{basename}"]
+    if from_folder:
+        forms.append(f"../{folder}/{basename}")
+        if folder == from_folder:
+            forms.append(basename)
+    else:
+        forms.append(f"{folder}/{basename}")
     # percent-encoded spellings of each form
     encoded = []
     for f in forms:
@@ -120,6 +135,8 @@ def link_variants(old_path: str, from_folder: str) -> list:
 
 def new_link_for(new_path: str, from_folder: str) -> str:
     folder, _, basename = new_path.partition("/")
+    if not from_folder:                 # page at the bundle root
+        return f"{folder}/{basename}"
     return basename if folder == from_folder else f"../{folder}/{basename}"
 
 

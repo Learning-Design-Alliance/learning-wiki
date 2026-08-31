@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone
-status: review
+status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30

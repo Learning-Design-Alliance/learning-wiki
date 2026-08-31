@@ -57,7 +57,7 @@ Giving learners authentic decision rights increases ownership and intrinsic moti
 5. **Close the loop repeatedly.** At each unit boundary, revisit what worked, using [Assessment for Learning](../principles/assessment-for-learning.md) data alongside student reflection.
 
 ## Related Strategies
-- [Academic Choice (Planning, Working, Reflecting)](academic_choice_(planning,_working,_reflecting).md) — the within-lesson counterpart: students choose how to pursue goals the curriculum sets
+- [Academic Choice (Planning, Working, Reflecting)](<academic_choice_(planning,_working,_reflecting).md>) — the within-lesson counterpart: students choose how to pursue goals the curriculum sets
 - [Activating Prior Knowledge](activating_prior_knowledge.md) — voice mechanisms double as tools for surfacing what students already know and want to know
 
 ## Examples

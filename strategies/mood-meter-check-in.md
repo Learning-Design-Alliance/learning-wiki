@@ -36,7 +36,7 @@ Affective states influence attention, working memory, and willingness to engage,
 - **Analog:** sticky notes or magnets on a wall-mounted grid; fastest and preserves anonymity
 - **Digital:** the RULER Mood Meter app or LMS polls; enables trend tracking over time
 - **Private journal variant:** learners plot privately and write one sentence on *why* and one regulation strategy — deepens the [Self-Regulated Learning](../theories/self-regulated-learning.md) connection
-- **Young learners:** replace valence/energy axes with faces or characters (see ['What's My Emotion?' Game Check-In]('what's_my_emotion?'_game_check-in.md))
+- **Young learners:** replace valence/energy axes with faces or characters (see ['What's My Emotion?' Game Check-In](whats_my_emotion_game_check-in.md))
 
 ### Target Learners
 - K–12 students, where routine emotion labeling builds foundational self-awareness [+W]
@@ -56,7 +56,7 @@ Affective states influence attention, working memory, and willingness to engage,
 5. Connect to regulation: ask learners to identify one strategy to shift quadrants if their current state interferes with learning (movement, breathing, reframing), linking to [Check-Ins](../principles/check-ins.md) as an ongoing practice rather than a one-off.
 
 ## Related Strategies
-- ['What's My Emotion?' Game Check-In]('what's_my_emotion?'_game_check-in.md) — a play-based variant for younger learners building the same emotion vocabulary
+- ['What's My Emotion?' Game Check-In](whats_my_emotion_game_check-in.md) — a play-based variant for younger learners building the same emotion vocabulary
 - [3-2-1 Reflection](3-2-1_reflection.md) — a closing routine that can bookend the Mood Meter at the end of a session
 - [Exit Tickets](exit-tickets.md) — a parallel end-of-session formative routine; the Mood Meter is its affective counterpart
 

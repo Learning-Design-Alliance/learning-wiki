@@ -189,6 +189,22 @@ def read_csv_lookup(csv_path: Path, name_col: str) -> dict[str, dict]:
     return lookup
 
 
+def anthropic_text(content_blocks) -> str:
+    """Join the text blocks of an Anthropic response.
+
+    Claude 4.6+ models — Sonnet 5 included — think adaptively by default, so
+    `response.content` can lead with a ThinkingBlock. Reaching for
+    `content[0].text` then raises "'ThinkingBlock' object has no attribute
+    'text'" and the page is silently lost to the per-page error handler.
+    Confirmed in production: a `--model sonnet` run over claims failed on 4 of
+    5 pages this way, and the one that succeeded only did so because it
+    happened not to emit a thinking block.
+
+    Select by block type rather than trusting position, and join rather than
+    taking the first — a response may contain more than one text block."""
+    return "".join(b.text for b in content_blocks if getattr(b, "type", None) == "text")
+
+
 def unwrap_json_response(content: str) -> str:
     """Some model responses (confirmed in production with GLM-5.3-flash via
     OpenRouter) come back as a JSON envelope like {"answer": "...markdown..."}
@@ -248,55 +264,41 @@ class InvalidPageContentError(ValueError):
     disk."""
 
 
+# Phrases that can only be the model narrating its own authoring task. Kept
+# deliberately narrow: each one was verified against the whole wiki to fire on
+# real leaked deliberation and NOT on legitimate prose. Broader tells were
+# tried and rejected — "exemplar" is a real instructional-design term
+# (elements/exemplars.md), pages legitimately open "Wait time is...", and
+# quoted teacher speech contains "I'll say its sounds: /m/ /o/ /p/".
+_DELIBERATION_MARKERS = [
+    r"\(\+\d{2,} more\)",                              # the truncated slug list from the prompt
+    r"Visible relevant ones",
+    r"the exemplar (?:frontmatter|has|is|matches|also includes)",
+    r"template stub",
+    r"the (?:page|stub) to write",
+    r"I need to match",
+    r"\bthe draft stub\b",
+]
+_DELIBERATION_RE = re.compile("|".join(_DELIBERATION_MARKERS), re.IGNORECASE)
+
+
 # folder name -> the singular value frontmatter `type:` must carry. Same
-# mapping add_type_banner.py uses; duplicated here rather than imported so
-# the write guard has no dependency that could be skipped.
-FOLDER_TYPE = {
-    "principles": "principle",
-    "elements": "element",
-    "patterns": "pattern",
-    "strategies": "strategy",
-    "theories": "theory",
-    "claims": "claim",
+# mapping add_type_banner.py uses; duplicated here so the write guard has no
+# dependency that could be skipped.
+_FOLDER_TYPE = {
+    "principles": "principle", "elements": "element", "patterns": "pattern",
+    "strategies": "strategy", "theories": "theory", "claims": "claim",
     "learner-variables": "learner-variable",
 }
 
-# Phrases that show the model narrating its own page-writing task rather
-# than writing the page. Matched against the body only (never frontmatter),
-# case-insensitively, and a page must hit TWO DISTINCT markers to be
-# refused — single hits are legitimate prose more often than not
-# ("the exemplar's structure" on an exemplar-analysis page, "Hmm," inside a
-# quoted think-aloud, "I'll use..." in modelled learner speech). Calibrated
-# against the whole wiki: at a threshold of 2 this flags 12 pages, all of
-# them genuinely contaminated, and none of the 6 single-hit pages, all of
-# which are clean.
-DELIBERATION_MARKERS = (
-    "the template says",
-    "preserve verbatim",
-    "i'll use",
-    "i'll write",
-    "i'll include",
-    "i'll keep",
-    "let me draft",
-    "hmm,",
-    "not in the list",
-    "the exemplar has",
-    "exemplar's",
-    "visible list",
-    "i'm not confident",
-    "i can't verify",
-)
-DELIBERATION_THRESHOLD = 2
-
 # Literal placeholder strings from the page templates. A response that echoes
-# the blank template back — frontmatter `title: [Strategy Name]`, a body of
-# `[What this strategy is and how it is carried out — 2-3 sentences.]` — passes
-# every structural check below: the frontmatter closes, `type` matches the
-# folder, there is an H1 (`# [Strategy Name]`) and there are `##` sections.
-# Two such pages reached disk this way with no deliberation text at all, so the
-# marker heuristic did not see them either, and add_type_banner.py duly gave
-# `# [Strategy Name]` a banner. Matched case-insensitively over the whole page.
-TEMPLATE_PLACEHOLDERS = re.compile(
+# the blank template back passes every structural check: the frontmatter
+# closes, there is an H1 (`# [Strategy Name]`), and there are `##` sections.
+# Fourteen pages reached disk exactly this way — nine of them also keeping
+# `title: [Strategy Name]`, so the strategies index listed nine pages by that
+# name — and two carried no authoring commentary at all, so the marker scan
+# above could not see them either.
+_TEMPLATE_PLACEHOLDERS = re.compile(
     r"\[(?:"
     r"Strategy Name|Principle Name|Element Name|Pattern Name|Theory Name"
     r"|One-line summary|One-sentence summary[^\]]*"
@@ -305,100 +307,171 @@ TEMPLATE_PLACEHOLDERS = re.compile(
     r"|what is needed|conditions where effectiveness drops|variations or adaptations"
     r"|who benefits most|types of objectives served|Step with links to elements"
     r"|Related Strategy|Concrete example in a real context"
-    r"|APA citation with DOI link if available"
-    r"|Claim statement[^\]]*"
+    r"|APA citation with DOI link if available|Claim statement[^\]]*"
     r")\]",
     re.IGNORECASE,
 )
 
 
+def _reject_non_page_body(path: Path, content: str) -> None:
+    """Refuse output that has valid frontmatter but isn't a wiki page.
 
-def validate_page_content(content: str, path: Path, expected_type: str | None) -> None:
-    """Whole-page check run before anything is written to disk.
+    The existing "must start with ---" check catches a raw JSON envelope, but
+    not the failure this pipeline actually produced at scale: correct
+    frontmatter wrapping a body that is the model's own planning notes.
+    Roughly 13 pages reached the published site carrying lines like "The
+    exemplar (Demonstration) matches this template closely. I need to match
+    its density, structure, and voice." and "strategies/: huge list (+2097
+    more). Visible relevant ones: ...". Five more had no H1 at all, because
+    the body never became a page.
 
-    The original guard only asserted that the response *starts* with "---",
-    which turns out to catch just one of the ways a response can be junk.
-    Five pages reached disk past it, each a different shape:
-
-      * valid frontmatter followed by the model's reasoning transcript
-        instead of a body (claims/classroom-design-affects-learning-progress,
-        patterns/experiential-learning-cycle)
-      * a bare "---" horizontal rule opening a prose preamble, with the real
-        frontmatter further down inside a code fence
-        (strategies/multiple_representations)
-      * a truncated response (max_tokens) that stopped partway through the
-        frontmatter's `sources:` list, so the block never closed and there
-        was no body at all (strategies/a_finders_guide_to_facts)
-      * salvage_leading_junk() slicing from the first "\n---\n" in a
-        reasoning transcript, which was the *exemplar's* frontmatter being
-        discussed rather than the page's own — so the page inherited the
-        exemplar's `type:` and `title:`
-        (strategies/on-the-job_training_(ojt), left declaring type: element
-        and title: Demonstration while sitting in strategies/)
-
-    Every one of those is caught by asking whether the finished text is
-    actually a page: closed frontmatter, a `type` matching its folder, an
-    H1, and at least one `##` section. Raises InvalidPageContentError so the
-    caller's existing per-page except leaves the file untouched and logs an
-    [ERROR] for that slug.
-    """
+    Raises InvalidPageContentError so the caller's per-page handler reports
+    it and leaves the file on disk untouched — the same contract as the
+    frontmatter check."""
+    # Frontmatter must actually CLOSE. A response truncated at max_tokens
+    # partway through the `sources:` list opens the block and never ends it,
+    # so there is no body at all — strategies/a_finders_guide_to_facts.md
+    # reached disk that way. split("---", 2) cannot tell that apart from a
+    # real page, so parse it properly.
     fm_lines, body = ok.split_frontmatter(content)
     if not fm_lines:
         raise InvalidPageContentError(
-            f"refusing to write over {path}: frontmatter block is not closed by a second "
-            f"'---' (truncated response, or a bare '---' rule opening a prose preamble). "
+            f"Model response has no closed frontmatter block — refusing to write over "
+            f"{path}. Either the response was truncated partway through the frontmatter, "
+            f"or a bare '---' rule opened a prose preamble. "
             f"First 200 chars: {content.strip()[:200]!r}"
         )
 
-    fm = ok.parse_frontmatter_scalars(fm_lines)
-    declared = fm.get("type", "").strip()
-    if expected_type:
-        want = FOLDER_TYPE.get(expected_type)
-        if want and declared != want:
-            raise InvalidPageContentError(
-                f"refusing to write over {path}: frontmatter says type: {declared!r} but the "
-                f"page is in {expected_type}/ — expected {want!r}. Usually means the salvage "
-                f"pass sliced into an exemplar's frontmatter rather than the page's own."
-            )
+    # The folder is what actually determines a page's section (see
+    # add_type_banner.py), so a mismatch means the response is describing a
+    # different page than the one being written. strategies/on-the-job_training_(ojt).md
+    # reached disk declaring `type: element` with the template exemplar's own
+    # title, "Demonstration" — the salvage pass had sliced into the exemplar's
+    # frontmatter rather than the page's.
+    declared = ok.parse_frontmatter_scalars(fm_lines).get("type", "").strip()
+    expected = _FOLDER_TYPE.get(path.parent.name)
+    if expected and declared and declared != expected:
+        raise InvalidPageContentError(
+            f"Model response declares type: {declared!r} but the page is in "
+            f"{path.parent.name}/ — expected {expected!r}. Refusing to write over {path}."
+        )
+
+    placeholders = _TEMPLATE_PLACEHOLDERS.findall(content)
+    if placeholders:
+        raise InvalidPageContentError(
+            f"Model response still contains unfilled template placeholders "
+            f"({sorted(set(placeholders))[:4]!r}) — it echoed the blank template instead "
+            f"of writing the page. Refusing to write over {path}."
+        )
+
+    # An orphan closing fence as the body's first content is the signature of a
+    # response whose opening ```markdown fence was only half-stripped by
+    # salvage_leading_junk().
+    if body.lstrip().startswith("```"):
+        raise InvalidPageContentError(
+            f"Model response body opens with a stray code fence — the response was "
+            f"wrapped in a fenced block that only got half-stripped. Refusing to write "
+            f"over {path}."
+        )
 
     if not re.search(r"^# \S", body, re.MULTILINE):
         raise InvalidPageContentError(
-            f"refusing to write over {path}: no '# ' H1 heading in the body — the response is "
-            f"frontmatter plus something that isn't a page. Body starts: {body.strip()[:200]!r}"
+            f"Model response has frontmatter but no '# ' H1 heading — refusing to write "
+            f"over {path}. A page without an H1 is not a page (and lint's type-banner "
+            f"check will flag it). Body starts: {body.strip()[:200]!r}"
         )
 
     if not re.search(r"^## \S", body, re.MULTILINE):
         raise InvalidPageContentError(
-            f"refusing to write over {path}: no '## ' section headings in the body. "
-            f"Body starts: {body.strip()[:200]!r}"
+            f"Model response has no '## ' section headings — refusing to write over "
+            f"{path}. Every page template defines sections; a body without any means "
+            f"the template wasn't followed. Body starts: {body.strip()[:200]!r}"
         )
 
-    # An orphan closing fence as the body's first content is the signature of
-    # a response whose opening ```markdown fence was stripped by salvage.
-    if body.lstrip().startswith("```"):
+    # Scan prose only. The page templates put their own instructions in HTML
+    # comments — the claim template says "Summarize ONLY the Evidence entries
+    # already present in the draft stub below" — and matching those would
+    # reject pages for following the template correctly (claims/activation.md
+    # was rejected by exactly that before this).
+    prose = re.sub(r"<!--.*?-->", "", body, flags=re.DOTALL)
+    m = _DELIBERATION_RE.search(prose)
+    if m:
+        line = next((l for l in prose.split("\n") if m.group(0).lower() in l.lower()), "")
         raise InvalidPageContentError(
-            f"refusing to write over {path}: body opens with a stray code fence — the response "
-            f"was wrapped in a fenced block that only got half-stripped."
-        )
-
-    placeholders = TEMPLATE_PLACEHOLDERS.findall(content)
-    if placeholders:
-        raise InvalidPageContentError(
-            f"refusing to write over {path}: response still contains unfilled template "
-            f"placeholders ({sorted(set(placeholders))[:4]!r}) — the model echoed the blank "
-            f"template instead of writing the page."
-        )
-
-    lowered = body.lower()
-    hits = [m for m in DELIBERATION_MARKERS if m in lowered]
-    if len(hits) >= DELIBERATION_THRESHOLD:
-        raise InvalidPageContentError(
-            f"refusing to write over {path}: body contains model deliberation rather than page "
-            f"prose (matched {hits!r})."
+            f"Model response contains its own authoring commentary rather than page "
+            f"content — refusing to write over {path}. Matched {m.group(0)!r} in: "
+            f"{line.strip()[:200]!r}"
         )
 
 
-def write_enriched_page(path: Path, content: str, expected_type: str | None = None) -> None:
+def verify_page_citations(path: Path, apply: bool = True) -> list[dict]:
+    """Resolve every DOI this page cites against Crossref and strip the ones
+    that don't check out, BEFORE the page is treated as done.
+
+    This is the gate the wiki did not have. Verification previously ran only
+    as a separate, deliberate resolve_doi_conflicts.py sweep long after
+    ingest, and when one was audited, 4 of 11 distinct DOIs it had applied
+    across 120 pages were wrong — including a Springer chapter, "Model of
+    Causality in Social Learning Theory", attached to Bandura's 1977
+    Prentice-Hall book on 69 pages. Each had passed a title-overlap check.
+
+    A DOI that resolves to the wrong paper is worse than no DOI: it reads as
+    verified, so nothing downstream questions it. So anything not returning
+    'verified' is removed and reported, leaving the citation intact but
+    unlinked for a human to source properly.
+
+    Returns one record per removal. Makes live Crossref calls, but they are
+    cache-backed (eval/corpus/doi_resolution_cache.json) and scoped to this
+    page's own citations."""
+    import check_citations as cc
+    import resolve_doi_conflicts as rdc
+
+    path = Path(path)
+    text = path.read_text(encoding="utf-8")
+    # Callers pass either an absolute path or one relative to the wiki root;
+    # resolve() normalises both so this never raises on a relative path.
+    rel = str(path.resolve().relative_to(WIKI_ROOT.resolve()))
+    removals = []
+    for entry in cc.extract_citations(text, rel):
+        doi = entry.get("doi")
+        if not doi:
+            continue
+        year = entry["key"].rsplit("-", 1)[-1]
+        located = None
+        for line in text.split("\n"):
+            if doi.lower() in line.lower():
+                located = line
+                break
+        cited_title = cc._extract_title_text(located or entry["line"], year)
+        try:
+            res = rdc.classify_doi(doi, cc._words_from_text(cited_title), cited_title)
+        except Exception as e:                      # network trouble must not lose the page
+            print(f"  [citation check skipped for {doi}: {e}]", file=sys.stderr)
+            continue
+        if res["status"] == "verified":
+            continue
+        # 'error' means the lookup itself failed (network, proxy, Crossref
+        # down) — NOT that the DOI is wrong. Stripping on error would delete
+        # every DOI on every page touched during an outage. Report it as
+        # unchecked and leave it alone; the nightly doi_resolver sweep will
+        # catch it once the network is back.
+        if res["status"] == "error":
+            print(f"  [citation unchecked] {rel}: {doi} — Crossref lookup failed, "
+                  f"left in place", file=sys.stderr)
+            continue
+        removals.append({"doi": doi, "status": res["status"],
+                         "cited_as": cited_title, "resolves_to": res.get("title")})
+        if apply:
+            for form in (f" [doi:{doi}](https://doi.org/{doi})",
+                         f" [https://doi.org/{doi}](https://doi.org/{doi})"):
+                text = text.replace(form, "")
+                text = text.replace(form.replace(doi, doi.upper()), "")
+    if apply and removals:
+        path.write_text(text, encoding="utf-8")
+    return removals
+
+
+def write_enriched_page(path: Path, content: str) -> None:
     """Write enriched content; ensure status/generated are set (OKF style).
 
     Refuses to write anything that doesn't start with a frontmatter "---"
@@ -419,13 +492,13 @@ def write_enriched_page(path: Path, content: str, expected_type: str | None = No
             f"frontmatter after JSON-unwrap and leading-junk salvage attempts) — refusing "
             f"to write over {path}. First 200 chars: {content.strip()[:200]!r}"
         )
+    _reject_non_page_body(path, content)
     content = re.sub(r"^status:\s*.+$", "status: review", content, flags=re.MULTILINE)
     generated_block = f'generated:\n  by: "claude/unspecified"\n  at: {TODAY}'
     if re.search(r"^generated:\s*\n\s+by:.*\n\s+at:.*$", content, re.MULTILINE):
         content = re.sub(r"^generated:\s*\n\s+by:.*\n\s+at:.*$", generated_block, content, flags=re.MULTILINE)
     else:
         content = re.sub(r"^(status:\s*.+)$", r"\1\n" + generated_block, content, count=1, flags=re.MULTILINE)
-    validate_page_content(content, path, expected_type)
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(content, encoding="utf-8")
 
@@ -1332,11 +1405,16 @@ def cmd_collect(args: argparse.Namespace) -> None:
 
         if result.result.type == "succeeded":
             try:
-                content = unwrap_json_response(result.result.message.content[0].text)
+                content = unwrap_json_response(anthropic_text(result.result.message.content))
                 content, enc_repairs = repair_encoded_links(content, args.type)
                 content, repairs = repair_misfiled_links(content, args.type)
                 repairs = enc_repairs + repairs
-                write_enriched_page(page_path, content, expected_type=args.type)
+                write_enriched_page(page_path, content)
+                if not getattr(args, "no_verify_citations", False):
+                    for r in verify_page_citations(page_path):
+                        print(f"  [citation stripped] {slug}: {r['doi']} {r['status']} — "
+                              f"cited as {r['cited_as'][:60]!r}"
+                              + (f", resolves to {r['resolves_to'][:60]!r}" if r.get("resolves_to") else ""))
                 create_missing_stubs(content, args.type)
                 written.append((args.type, slug))
                 written_files.append(str(page_path.relative_to(WIKI_ROOT)))
@@ -1465,31 +1543,26 @@ def parse_wikilinks(content: str, current_folder: str = None) -> list[tuple[str,
 
 
 def repair_encoded_links(content: str, current_folder: str) -> tuple[str, list[str]]:
-    """
-    Normalise two mechanical link defects that models produce and that leave a
-    link broken even though its target exists.
+    """Normalise two mechanical link defects that leave a link broken even
+    though its target exists.
 
-    1. Percent-encoded punctuation. Many slugs in this wiki contain literal
-       apostrophes, quotes, question marks and commas
-       ("'what's_my_emotion?'_game_check-in.md"), and models URL-encode them on
-       the way out (%27, %22, %3F, %2C). Nothing in this pipeline encodes link
-       targets, so this comes straight from the model. Fourteen links across the
-       wiki were broken this way, every one of them pointing at a file that
-       existed under its literal name.
+    1. Percent-encoded punctuation. Many slugs here contain literal apostrophes,
+       quotes, question marks and commas, and models URL-encode them on the way
+       out (%27, %22, %3F, %2C). Nothing in this pipeline encodes link targets,
+       so it comes straight from the model; fourteen links across the wiki were
+       broken this way, every one pointing at a file that existed.
     2. Over-deep relative paths. Every content folder sits exactly one level
-       under the bundle root, so "../../theories/x.md" can never resolve;
-       the model is counting one level too many.
+       under the bundle root, so "../../theories/x.md" can never resolve.
 
-    Rewrites only when the corrected target actually exists on disk, so a repair
-    can never turn a working link into a broken one. Returns
-    (possibly-modified content, [repair descriptions]).
+    Rewrites only when the corrected target exists on disk, so a repair can
+    never turn a working link into a broken one.
     """
-    ENCODINGS = {"%27": "'", "%22": '"', "%3F": "?", "%3f": "?",
-                 "%2C": ",", "%2c": ",", "%20": " ", "%28": "(", "%29": ")"}
+    ENCODINGS = {"%27": "'", "%22": '"', "%3F": "?", "%3f": "?", "%2C": ",",
+                 "%2c": ",", "%20": " ", "%28": "(", "%29": ")"}
     repairs = []
+    base = WIKI_ROOT / current_folder if current_folder else WIKI_ROOT
 
     def resolves(target: str) -> bool:
-        base = WIKI_ROOT / current_folder if current_folder else WIKI_ROOT
         try:
             return (base / target).resolve().is_file()
         except (OSError, ValueError):
@@ -1555,15 +1628,14 @@ def repair_misfiled_links(content: str, current_folder: str) -> tuple[str, list[
 
 # Slugs that only ever appear as the *example* link target inside a page
 # template ("[Claim statement](../claims/claim-slug.md)", "[Title](slug.md)").
-# A model that copies a template example verbatim used to get a real page
-# created for it: claims/claim-slug.md, principles/principle-slug.md and
-# strategies/slug.md all existed this way. Two were harmless-looking stubs, but
-# 11 real pages ended up citing claims/claim-slug.md as if it were evidence —
-# each with a specific, plausible claim statement as the link text, resolving to
-# a page whose body reads "This page is a placeholder stub... It should not be
-# cited." The third was worse: handed the filename "slug", the enricher
-# confabulated a fully-formed strategy page for a strategy that does not exist,
-# complete with four real citations attached to it.
+# A model copying a template example verbatim used to get a real page created
+# for it: claims/claim-slug.md, principles/principle-slug.md and
+# strategies/slug.md all existed this way. Eleven real pages ended up citing
+# claims/claim-slug.md as if it were evidence — each with a specific, plausible
+# claim statement as the link text, resolving to a stub whose body reads "This
+# page is a placeholder stub... It should not be cited." The third was worse:
+# handed the filename "slug", the enricher confabulated a fully-formed strategy
+# page, with four real citations attached to something that does not exist.
 PLACEHOLDER_SLUGS = {
     "slug", "claim-slug", "principle-slug", "element-slug",
     "pattern-slug", "strategy-slug", "theory-slug",
@@ -1574,9 +1646,6 @@ def create_missing_stubs(content: str, current_folder: str = None) -> list[str]:
     """
     Scan content for wikilinks (see parse_wikilinks). For any that don't have
     a corresponding file, create a minimal draft stub. Returns list of created paths.
-
-    Template example slugs are skipped and reported rather than materialised —
-    see PLACEHOLDER_SLUGS.
     """
     created = []
     seen = set()
@@ -1709,7 +1778,7 @@ def cmd_run(args: argparse.Namespace) -> None:
                     system=get_system_prompt(args.type),
                     messages=[{"role": "user", "content": user_prompt}],
                 )
-                content = response.content[0].text
+                content = anthropic_text(response.content)
 
             content, enc_repairs = repair_encoded_links(content, args.type)
             content, repairs = repair_misfiled_links(content, args.type)
@@ -1718,7 +1787,9 @@ def cmd_run(args: argparse.Namespace) -> None:
                 with print_lock:
                     print(f"  [fixed links] {name}: {', '.join(repairs)}")
 
-            write_enriched_page(page_path, content, expected_type=args.type)
+            write_enriched_page(page_path, content)
+            for r in verify_page_citations(page_path):
+                print(f"  [citation stripped] {page_path.name}: {r['doi']} {r['status']}")
             with written_lock:
                 written.append((args.type, name))
                 written_files.append(str(page_path.relative_to(WIKI_ROOT)))
@@ -1814,6 +1885,11 @@ def main() -> None:
                        help="Max pages to enrich in parallel (default: 1, sequential — same "
                             "behavior as before this option existed). Rate limits are per-provider "
                             "and not enforced here, so raise this gradually and watch for 429s.")
+    p_run.add_argument("--no-verify-citations", action="store_true",
+                       help="Skip the per-page Crossref check that strips DOIs which don't resolve "
+                            "to the cited work. On by default: a DOI resolving to the WRONG paper "
+                            "reads as verified, so nothing downstream questions it — that is how one "
+                            "Springer chapter ended up attached to Bandura (1977) across 69 pages.")
     p_run.add_argument("--dry-run", action="store_true",
                        help="Show prompts without calling API")
 

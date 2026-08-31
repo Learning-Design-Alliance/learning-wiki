@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Structured Discussion Methods Improve Comprehension
-status: review
+status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30

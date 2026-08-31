@@ -15,6 +15,8 @@ generated:
 ## Description
 A checklist is an ordered list of criteria, steps, or expectations used to track whether learners are accomplishing specific tasks or meeting defined standards. In learning contexts, checklists serve three functions simultaneously: as an assessment tool (judging whether criteria are met), as a self-regulation support (guiding learners to monitor their own work against explicit standards), and as a communication device (making expectations shared and transparent between educator and learner).
 
+Structurally, a checklist is the least complex type of scoring rubric: it lets a rater indicate whether an expected component is present, but not the quality of that component — a pass/fail judgment per item rather than a graded one. That makes checklists quick to administer but limited in the feedback they can carry, so they suit minor assignments, drafts, and procedural work where a presence/absence check is enough. When feedback about the *quality* of the work matters, a rating scale or rubric — the same basic structure with a quality judgment added — is the better tool (see [Rubrics](rubrics.md)).
+
 ## Design Implications
 
 Checklists convert fuzzy expectations into discrete, observable criteria, which supports learner self-monitoring — a core driver of self-regulated learning [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+S]. By externalizing evaluation criteria, they offload the need to hold standards in mind while working, and they frame performance as a set of process goals — completing defined steps — which for novices produces better results than focusing on outcome goals [Process goals outperform outcome goals for novices.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M]. Their assessment value depends entirely on criterion quality: specific, observable, standards-aligned criteria yield actionable feedback, while generic criteria yield box-ticking.
@@ -73,6 +75,7 @@ Checklists can be customized with different scales (4-point, 7-point), criteria,
 - Rubrics — scaled checklists with quality-level descriptors; rubrics add graded performance levels where checklists mark presence or absence
 - Self-assessment protocols — checklists are the most common artifact through which structured self-assessment is operationalized
 - Progress portfolios — checklists supply the item-level evidence that portfolios aggregate into a growth narrative
+- [Rubrics](rubrics.md) — the more informative next step when quality, not just presence, needs to be assessed
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — the checklist is the instrument; performance assessment is the act it supports
@@ -98,3 +101,5 @@ Checklists can be customized with different scales (4-point, 7-point), criteria,
 - Andrade, H. L., Du, Y., & Wang, X. (2008). Putting rubrics to the test: The effect of a model, criteria generation, and rubric-referenced self-assessment on elementary school students' writing. *Educational Measurement: Issues and Practice, 27*(2), 3–13. [doi:10.1111/j.1745-3992.2008.00118.x](https://doi.org/10.1111/j.1745-3992.2008.00118.x)
 - Pronovost, P., Needham, D., Berenholtz, S., Sinopoli, D., Chu, H., Cosgrove, S., … Goeschel, C. (2006). An intervention to decrease catheter-related bloodstream infections in the ICU. *New England Journal of Medicine, 355*(26), 2725–2732. [doi:10.1016/j.ajic.2008.10.008](https://doi.org/10.1016/j.ajic.2008.10.008)
 - Gawande, A. (2009). *The Checklist Manifesto: How to get things right.* Metropolitan Books.
+- Linn, R. L., & Miller, M. D. (2005). *Measurement and assessment in teaching* (9th ed.). Pearson.
+- Arduini-Van Hoose, N. (2020). Teacher-made assessments. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

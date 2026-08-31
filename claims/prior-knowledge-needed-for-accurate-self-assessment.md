@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Prior Knowledge Needed For Accurate Self Assessment
-status: review
+status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30

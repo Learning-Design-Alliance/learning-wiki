@@ -58,7 +58,7 @@ Labeling emotional states with words measurably reduces their intensity and impr
 6. Require the vocabulary in authentic output: reflective journals, literature discussion, conflict-resolution conversations, and end-of-task self-assessment
 
 ## Related Strategies
-- ['What's My Emotion?' Game Check-In](../strategies/'what's_my_emotion?'_game_check-in.md) — a gamified routine that turns emotion-word recognition into repeated retrieval practice
+- ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — a gamified routine that turns emotion-word recognition into repeated retrieval practice
 - [Acting-Role-Play](../strategies/acting-role-play.md) — embodied enactment gives emotion words situational referents
 - [Act It Out](../elements/act-it-out.md) — the element-level move for introducing new emotion words through gesture and expression
 

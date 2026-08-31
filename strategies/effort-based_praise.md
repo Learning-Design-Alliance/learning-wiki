@@ -51,12 +51,20 @@ Process praise works because it makes the *causal attribution* for success or fa
 2. Attribute the outcome to that controllable process: "Your diagram helped you spot the error" rather than "You're good at this"
 3. When the outcome is poor, pair acknowledgment of effort with concrete strategy guidance — never effort praise alone for failure
 4. Keep praise genuine and proportionate; reserve it for processes the learner actually controlled
-5. Reinforce the same attribution language in rubrics, peer feedback, and family communication so learners receive a consistent message
+5. Reinforce the same attribution language in rubrics, peer feedback, and family communication so learners receive a consistent message, so the attribution carries beyond the immediate task ([Enhance Retention and Transfer](../elements/enhance-retention-and-transfer.md))
+
+## Assessment Evidence
+- Track changes in learner motivation and persistence. Measure performance improvements following effort-based praise. Assess the extent to which learners adopt a growth mindset.
+
+## Impact
+- Research demonstrates that effort-based praise enhances motivation and performance, while intelligence-based praise can undermine it (reference Dweck's research on mindset). Learners who receive effort-based praise are more likely to embrace challenges and persist through setbacks (reference research on resilience).
+- The specific mechanism: telling a student they are smart when they produce a good result implicitly commits them to that same explanation when they later do poorly — if a good result means "you're smart," a poor result on the very same logic means "you're not smart" (Dweck, 2000). Effort-based praise avoids setting up this trap because it never ties the outcome to a fixed personal trait in the first place.
 
 ## Related Strategies
 - [Formative Feedback](../strategies/formative-feedback.md) — process praise is a motivational subset of process-level feedback
 - [Growth Mindset Interventions](../strategies/growth-mindset-interventions.md) — effort-based praise is the day-to-day mechanism through which mindset interventions take hold
 - [Attribution Retraining](../strategies/attribution-retraining.md) — explicit instruction in controllable attributions; praise is the implicit version
+- [Wise Feedback Across Racial and Ethnic Difference](../principles/wise-feedback-across-difference.md) — a further consideration when feedback (effort-based or otherwise) crosses a racial or ethnic difference between teacher and student
 
 ## Related Elements
 - [Provide Feedback](../elements/provide-feedback.md) — the delivery mechanism for process praise
@@ -78,3 +86,5 @@ Process praise works because it makes the *causal attribution* for success or fa
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
 - Cimpian, A., Arce, H.-M. C., Markman, E. M., & Dweck, C. S. (2007). Generic language and judgements about categories of people. *Child Development, 78*(2), 535–552. [doi:10.1111/j.1467-8624.2007.01009.x](https://doi.org/10.1111/j.1467-8624.2007.01009.x)
 - Sisk, V. F., Burgoyne, A. P., Sun, J., Butler, J. L., & Macnamara, B. N. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science, 29*(4), 549–571. [doi:10.1177/0956797617739704](https://doi.org/10.1177/0956797617739704)
+- Dweck, C. S. (2000). *Self-theories: Their role in motivation, personality, and development*. Psychology Press.
+- Arduini-Van Hoose, N. (2020). Providing feedback. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

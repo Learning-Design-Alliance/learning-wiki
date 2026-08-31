@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Growth mindset interventions produce small positive effects on academic outcomes
-status: review
+status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30

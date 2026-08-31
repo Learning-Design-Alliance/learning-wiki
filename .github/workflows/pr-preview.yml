@@ -31,7 +31,7 @@ jobs:
       - name: Set up docs directory
         run: |
           mkdir -p docs
-          for dir in principles elements patterns strategies theories claims branding; do
+          for dir in principles elements patterns strategies theories learner-variables claims branding; do
             ln -s ../$dir docs/$dir
           done
           ln -s ../index.md docs/index.md

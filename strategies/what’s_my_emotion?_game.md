@@ -62,7 +62,7 @@ The game pairs two mechanisms known to support learning: enacting content improv
 ## Related Strategies
 - [Acting-Role-Play](acting-role-play.md) — the broader family of embodiment activities; this game is a constrained, single-emotion variant
 - [Active Listening](active_listening.md) — the cue-attention skill the guessing round exercises, extended to verbal and paralinguistic cues
-- ['What's My Emotion?' Game Check-In]('what's_my_emotion?'_game_check-in.md) — the same game used as a routine opening check-in rather than a standalone lesson
+- ['What's My Emotion?' Game Check-In](whats_my_emotion_game_check-in.md) — the same game used as a routine opening check-in rather than a standalone lesson
 
 ## Related Elements
 - [Act It Out](../elements/act-it-out.md) — the enactment element at the core of each round

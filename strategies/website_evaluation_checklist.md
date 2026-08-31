@@ -57,7 +57,7 @@ Checklists work by converting expert tacit knowledge into an external procedure,
 6. [Fading](../elements/fading.md): reduce checklist support across successive tasks until learners evaluate independently.
 
 ## Related Strategies
-- [A Finder's Guide to Facts](../strategies/a_finder's_guide_to_facts.md) — a broader framework for verifying factual claims online
+- [A Finder's Guide to Facts](../strategies/a_finders_guide_to_facts.md) — a broader framework for verifying factual claims online
 - [3-Source Rule](../strategies/3-source_rule.md) — corroboration procedure that operationalizes the checklist's cross-checking criterion
 - [Case-Based Learning](../elements/case-based-learning.md) — authentic site evaluations function as mini-cases
 

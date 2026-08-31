@@ -141,6 +141,48 @@ def _title_words(line: str, year: str) -> set:
     return _words_from_text(_extract_title_text(line, year))
 
 
+def _norm_title(text: str) -> str:
+    """Lowercase, strip punctuation, collapse whitespace — for comparing two
+    title strings positionally rather than as bags of words."""
+    return " ".join(re.sub(r"[^a-z0-9 ]", " ", text.lower()).split())
+
+
+def titles_align(cited_text: str, resolved_title: str) -> bool:
+    """Guard against a short, generic cited title "matching" a longer, different
+    work that merely CONTAINS it.
+
+    Word-overlap alone cannot tell these two apart:
+
+      Bandura (1977), *Social learning theory*  ->  Crossref: "Model of
+      Causality in Social Learning Theory"   overlap 3/5 = 0.60, but this is a
+      Springer chapter ABOUT the theory, not Bandura's Prentice-Hall book.
+      Confirmed in production: this DOI was auto-applied to 69 pages.
+
+      Ambrose (2010), *How learning works*  ->  Crossref: "How Learning Works:
+      Seven Research-Based Principles for Smart Teaching"   overlap is lower
+      still, and this one IS the same book.
+
+    What separates them is position, not proportion. A genuine subtitle
+    expansion is a PREFIX; a work about the cited topic carries the cited words
+    somewhere after its own leading words. So when the resolved title adds
+    anything on top of everything the citation named, require one title to
+    actually begin with the other. One extra word is enough to matter —
+    "Advances in Cognitive Load Theory" is not Sweller's "Cognitive Load
+    Theory" — and since this guard only rejects NON-prefix containment, a
+    genuine subtitle expansion is unaffected at any size. Titles that merely
+    differ in wording, rather than one containing the other, never reach this
+    and are left to the word-overlap check, which handles article and
+    word-order differences ("The uses of argument" vs "Uses of Argument")."""
+    cited_words, resolved_words = _words_from_text(cited_text), _words_from_text(resolved_title)
+    if not cited_words or not resolved_words:
+        return True   # nothing to judge on; defer to the overlap check
+    contained = cited_words <= resolved_words
+    if not (contained and len(resolved_words) > len(cited_words)):
+        return True   # not the risky containment shape
+    c, r = _norm_title(cited_text), _norm_title(resolved_title)
+    return bool(c and r and (r.startswith(c) or c.startswith(r)))
+
+
 def _same_paper(a: set, b: set) -> bool:
     if not a or not b:
         return False

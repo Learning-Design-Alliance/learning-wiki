@@ -57,7 +57,7 @@ Naming an emotion (affect labeling) reliably reduces amygdala reactivity and sel
 5. Close by connecting the feeling to the work ahead: "Given how you're arriving today, what do you need to do your best work?"
 
 ## Related Strategies
-- ['What's My Emotion?' Game Check-in](../strategies/'what's_my_emotion?'_game_check-in.md) — a gamified variant that builds the same emotional vocabulary
+- ['What's My Emotion?' Game Check-in](../strategies/whats_my_emotion_game_check-in.md) — a gamified variant that builds the same emotional vocabulary
 - [Active Listening](../strategies/active_listening.md) — the partner skill that makes the pair discussion work
 - [5-Minute Writing Conferences](../strategies/5-minute_writing_conferences.md) — a one-on-one alternative for students reluctant to share publicly
 

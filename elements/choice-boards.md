@@ -75,6 +75,6 @@ Choice boards support learning primarily through motivation: perceived autonomy 
 
 ## Examples
 
-**[Academic Choice (planning, working, reflecting)](../strategies/academic_choice_(planning,_working,_reflecting).md)** — The Responsive Classroom protocol that choice boards operationalize: learners plan a choice, work on it, then reflect on the outcome, adding a metacognitive frame to the selection itself.
+**[Academic Choice (planning, working, reflecting)](<../strategies/academic_choice_(planning,_working,_reflecting).md>)** — The Responsive Classroom protocol that choice boards operationalize: learners plan a choice, work on it, then reflect on the outcome, adding a metacognitive frame to the selection itself.
 
 **[HyperDocs](https://hyperdocs.co)** — Digital choice boards built in Google Docs/Slides with linked options; widely used templates pair each option with

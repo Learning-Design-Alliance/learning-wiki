@@ -59,7 +59,7 @@ The routine activates prior knowledge and directs attention before content deliv
 ## Related Strategies
 - [3-2-1_reflection](3-2-1_reflection.md) — a related structured-prompt routine used after instruction rather than before
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a discussion structure often used to run the routine's steps with full participation
-- [I Used to Think... Now I Think...](i-used-to-think-now-i-think.md) — a companion Project Zero routine for surfacing conceptual change after instruction
+- [I_Used_to_Think..._Now_I_Think...](i-used-to-think-now-i-think.md) — a companion Project Zero routine for surfacing conceptual change after instruction
 
 ## Examples
 - **[Project Zero's Visible Thinking](https://pz.harvard.edu/projects/visible-thinking)** — the originating initiative; See_Think_Wonder is one of its core routines, with documented classroom use across K–12.

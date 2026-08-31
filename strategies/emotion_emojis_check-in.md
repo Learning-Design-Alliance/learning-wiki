@@ -56,7 +56,7 @@ Naming an emotion — even via a simple visual symbol — supports affect labeli
 5. Close the loop later in the session or at dismissal with a brief re-check to reinforce emotional monitoring.
 
 ## Related Strategies
-- ['What's My Emotion?' Game Check-In]('what's_my_emotion?'_game_check-in.md) — a gamified variant that builds emotion vocabulary through matching and guessing
+- ['What's My Emotion?' Game Check-In](whats_my_emotion_game_check-in.md) — a gamified variant that builds emotion vocabulary through matching and guessing
 - [Mood Meter Check-In](mood-meter-check-in.md) — a quadrant-based variant with finer emotional granularity
 
 ## Related Elements

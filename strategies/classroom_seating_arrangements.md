@@ -15,6 +15,19 @@ generated:
 ## Description
 Classroom seating arrangement is the deliberate configuration of desks, tables, chairs, or virtual layout (gallery view, breakout rooms) to shape communication patterns, attention, and on-task behavior. Common configurations include rows, horseshoes/U-shapes, cluster pods, and flexible seating. The core principle is alignment: rows support teacher-focused instruction and independent work, while clusters and horseshoes support discussion and collaboration. Because arrangement changes who can see, hear, and interact with whom, it functions as a low-cost, high-leverage environmental lever on engagement.
 
+Instructional communication theory holds that seating arrangement shapes how the instructor communicates with students and how students interact with each other, with consequences for engagement, motivation, and focus (McCorskey & McVetta, 1978); more recent research finds students generally prefer flexible over fixed seating — mobile chairs and trapezoidal tables on casters over rectangular tables with immobile chairs (Harvey & Kenyon, 2013). Student-centered spatial design, oriented around learners actively constructing knowledge, can support learning outcomes (Rands & Gansemer-Topf, 2017), though most classrooms in practice are still built around more conventional seating models.
+
+Common configurations, each with different tradeoffs:
+- **Traditional (rows)** — students face the teacher, backs to one another; minimizes student-student communication and supports a "sage on the stage" model. Teacher-student interaction concentrates on students in the front row or middle of the room; back-row students tend to be less engaged.
+- **Roundtable** — teacher and students all face one another around a single large table (or desks arranged to the same effect); supports both whole-class and pairwise dialogue.
+- **Horseshoe / semicircle** — a modified roundtable that lets the teacher move around the room while all participants still face each other; encourages discussion, though engagement concentrates on students directly opposite the teacher, with somewhat less for students immediately adjacent. Works well when the teacher wants to project and discuss material at the front of the room.
+- **Double horseshoe** — an inner and outer horseshoe; invites even more discussion than a single horseshoe, though inner-circle students have their backs to the outer circle, limiting some interaction (offset somewhat by turning around for group work).
+- **Pods (groups/pairs)** — rectangular, circular, or trapezoidal tables (or clustered desks) forming groups of 3-4 or pairs; well suited when students will spend a large portion of class time working together, and communicates that the room is a learning community built around peer work.
+
+Recommendations for using these options: **align arrangement with activity** (group pods for group work, a horseshoe for whole-class discussion, changing arrangement mid-class as goals shift); **bolster arrangement with engagement** when changing the physical setup isn't practical (e.g., deliberately directing more attention to horseshoe-side students who'd otherwise get less, or using [Think-Pair-Share](<think-pair-share_(turn_&_talk).md>) in a fixed traditional layout to get peer interaction anyway); and **set up early**, designating time (or enlisting students) to arrange and later reset the room rather than losing instructional time to it.
+
+Seating arrangement also functions as a behavioral antecedent, independent of its communication effects: sitting near a particular peer can be an antecedent to talking and not completing work, sitting near a window or door an antecedent to inattention, and sitting near the teacher an antecedent to staying on task — see [Antecedent-Behavior-Consequence Model](../elements/antecedent-behavior-consequence-model.md).
+
 ## Design Implications
 
 Seating arrangement acts as an environmental scaffold for the intended interaction structure: it makes some behaviors easy and others awkward, so the layout should be chosen *after* the pedagogical goal, not before [~M]. Research shows students in row arrangements show more on-task behavior during independent work, while cluster arrangements increase peer interaction — including off-task interaction — so the "best" arrangement is task-dependent [Wannarka & Ruhl, 2008] [~S]. Physical position also matters: students seated in the front and center of a room ask more questions and participate more, an effect that persists even when students choose their own seats [Marx, Fuhrer, & Hartig, 1999] [~M].
@@ -78,8 +91,18 @@ Seating arrangement acts as an environmental scaffold for the intended interacti
 - **Flipped classroom courses** — rows or pods for the in-class active-learning session, with pods reconfigured per activity; see the [Flipped Classroom](../patterns/flipped-classroom.md) pattern.
 - **Virtual seminars (Zoom/Teams)** — gallery view during whole-class discussion, breakout rooms of 3–4 for small-group tasks, mirroring the pod/horseshoe distinction online.
 
+## Related Strategies
+- [Think-Pair-Share (Turn & Talk)](<think-pair-share_(turn_&_talk).md>) — a way to get peer interaction even in a traditional row-based layout that can't easily be reconfigured
+
+## Related Elements
+- [Antecedent-Behavior-Consequence Model](../elements/antecedent-behavior-consequence-model.md) — seating placement as a behavioral antecedent
+
 ## Key Sources
 - Wannarka, R., & Ruhl, K. (2008). Seating arrangements that promote positive academic and behavioural outcomes: A review of empirical research. *Educational Psychology Review, 20*(3), 361–378. [doi:10.1111/j.1467-9604.2008.00375.x](https://doi.org/10.1111/j.1467-9604.2008.00375.x)
 - Marx, A., Fuhrer, U., & Hartig, T. (1999). Effects of classroom seating arrangements on children's question-asking. *Learning Environments Research, 2*(3), 249–263. [doi:10.1023/a:1009901922191](https://doi.org/10.1023/a:1009901922191)
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)
 - Hastings, N., & Schwieso, J. (1995). Tasks and tables: The effects of seating arrangements on task engagement in primary classrooms. *Educational Research, 37*(3), 279–292. [doi:10.1080/0013188950370306](https://doi.org/10.1080/0013188950370306)
+- McCorskey, J. C., & McVetta, R. W. (1978). Classroom seating arrangements: Instructional communication theory versus student preferences. *Communication Education, 27*(2), 99-111.
+- Harvey, E. J., & Kenyon, M. C. (2013). Classroom seating considerations for 21st century students and faculty. *Journal of Learning Spaces, 2*(1).
+- Rands, M. L., & Gansemer-Topf, A. M. (2017). The room itself is active: How classroom design impacts student engagement. *Journal of Learning Spaces, 6*(1).
+- Arduini-Van Hoose, N. (2020). Preventing management problems. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

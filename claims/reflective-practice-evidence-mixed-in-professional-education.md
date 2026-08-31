@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Reflective practice shows mixed evidence of effectiveness in professional education
-status: review
+status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30

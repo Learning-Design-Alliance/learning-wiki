@@ -57,7 +57,7 @@ Creative check-ins leverage the fact that emotion and cognition are inseparable 
 6. Vary question type across the term (whimsical, reflective, content-linked) to prevent ritualization.
 
 ## Related Strategies
-- ['What's My Emotion?' Game Check-In]('what's_my_emotion?'_game_check-in.md) — a gamified variant that builds emotional vocabulary through the same opening routine
+- ['What's My Emotion?' Game Check-In](whats_my_emotion_game_check-in.md) — a gamified variant that builds emotional vocabulary through the same opening routine
 - [Activate Background Knowledge](activate_background_knowledge.md) — content-linked check-ins double as prior-knowledge activation
 - [Active Listening](active_listening.md) — the instructor stance that makes check-in responses feel heard rather than collected
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — a deeper, individualized follow-on channel for what check-ins surface

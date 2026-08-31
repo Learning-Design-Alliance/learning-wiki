@@ -2,7 +2,7 @@
 
 Concrete teaching activity recipes — specific, implementable approaches.
 
-**2524 entries** · 0 stable · 2524 in review · 0 drafts
+**2557 entries** · 0 stable · 2524 in review · 33 drafts
 
 ---
 
@@ -12,11 +12,11 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### A {: #letter-a }
 
-* [A Finder's Guide to Facts](a_finder's_guide_to_facts.md) - A set of heuristic questions for evaluating the credibility of a news story before accepting or sharing it.
+* [A Finder's Guide to Facts](a_finders_guide_to_facts.md) - A set of heuristic questions for evaluating the credibility of a news story before accepting or sharing it.
 * [Academic Choice (Planning, Working, Reflecting)](academic_choice_(planning,_working,_reflecting).md) - Academic Choice empowers learners by providing them with options in their learning and involves a three-phase process: planning, working, and reflecting.
 * [Acceptance, Responsibility, and Sharing](acceptance,_responsibility,_and_sharing.md) - A conflict-resolution strategy in which learners process emotions, take responsibility for their part in a conflict, and share feelings openly with the others involved.
 * [Accessible Syntax](accessible_syntax.md) - Adjusting the complexity of sentence structures in instruction and learner tasks to match learners' cognitive capacity and language proficiency.
-* [Accessing Students’ Background Knowledge](accessing_students’_background_knowledge.md) - This strategy involves intentionally activating and building upon learners' existing knowledge and experiences to enhance comprehension and engagement.
+* [Accessing Students’ Background Knowledge](accessing_students_background_knowledge.md) - This strategy involves intentionally activating and building upon learners' existing knowledge and experiences to enhance comprehension and engagement.
 * [Accommodate Varying Technology Experience](accommodate_varying_technology_experience.md) - Recognize that adults have diverse levels of technology exposure and experience, and design entry points, scaffolds, and optional supports so tool unfamiliarity never blocks content learning.
 * [Accommodating Processing Speed Challenges](accommodating_processing_speed_challenges.md) - Adjusting pacing, task volume, and response formats so learners who process information slowly can demonstrate knowledge without speed acting as a confound.
 * [Accountability Partners](accountability-partners.md) - Pairing learners so each regularly reports progress, setbacks, and next steps to the other, using social commitment to sustain effort and self-regulation.
@@ -184,7 +184,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Brain-Based Learning Through Movement](brain-based_learning_through_movement.md) - Structured physical movement and multi-sensory activity are woven into instruction to support attention, memory consolidation, and engagement.
 * [Brain-Based Learning with Movement Breaks](brain-based_learning_with_movement_breaks.md) - Incorporating movement, social interaction, and distributed learning to enhance attention, engagement, and retention.
 * [Brainstorming](brainstorming.md) - A generative strategy in which learners produce many ideas in a short period, deferring evaluation to increase fluency and divergent thinking before converging on solutions.
-* [Brainstorming 'Stuff We Want to Know About'](brainstorming_'stuff_we_want_to_know_about'.md) - Learners and instructors co-create an ongoing, publicly posted list of questions and topics of interest related to course content, which then drives inquiry and project selection.
+* [Brainstorming 'Stuff We Want to Know About'](brainstorming_stuff_we_want_to_know_about.md) - Learners and instructors co-create an ongoing, publicly posted list of questions and topics of interest related to course content, which then drives inquiry and project selection.
 * [Brainstorming (Pre-Reading)](brainstorming_(pre-reading).md) - Learners generate and share ideas about a topic in a short, timed session before reading, activating prior knowledge and building anticipation for the text.
 * [Brainstorming Topics of Interest](brainstorming_topics_of_interest.md) - Brainstorming an ongoing class list of topics learners want to know about and are interested in—a phenomenon, an event, or a law, for example—as a foundation for subsequent inquiry and instruction.
 * [Break Tasks Into Pieces](break_tasks_into_pieces.md) - Divide complex tasks into smaller, manageable chunks with clear checkpoints so learners can complete each piece within their attention and working-memory limits.
@@ -229,7 +229,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Calming Strategy Cards](calming_strategy_cards.md) - Calming strategy cards provide learners with portable, visual reminders of emotional regulation strategies — such as deep breathing, squeezing a fidget, or taking a mindfulness break — to use when feelings escalate.
 * [Calming Tactile Input](calming_tactile_input.md) - Using tactile input to provide calming sensory experiences involves engaging the sense of touch to reduce anxiety and promote relaxation.
 * [Calming Visual Input](calming_visual_input.md) - Altering the visual environment — reducing clutter, dimming light, and limiting distracting displays — to reduce overstimulation and support attention and self-regulation.
-* [Can You Make It?](can_you_make_it?.md) - Learners draw a dot card and recreate the arrangement on a large, blank dot card using counters, building subitizing and number sense.
+* [Can You Make It?](can_you_make_it.md) - Learners draw a dot card and recreate the arrangement on a large, blank dot card using counters, building subitizing and number sense.
 * [Card Sorting](card-sorting.md) - Learners sort a set of cards — each bearing a concept, example, or statement — into categories, either following given criteria or generating their own, to surface and consolidate conceptual structure.
 * [Caring For Students](caring_for_students.md) - Building relationships of trust and responsiveness so students feel known, valued, and supported — creating the relational conditions under which instruction becomes effective.
 * [Case Based Discussion](case-based-discussion.md) - Learners collaboratively analyze an authentic, open-ended case under facilitation, articulating positions, defending decisions, and revising reasoning in response to peers.
@@ -259,8 +259,8 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Checklists](checklists.md) - A strategy that uses lists of specific criteria or steps to track task completion, document learning progress, and structure assessment and self-assessment.
 * [Checklists & Rubrics](checklists_&_rubrics.md) - Checklists and rubrics provide explicit criteria that learners use to evaluate, monitor, and improve their own and peers' work.
 * [Checklists And Visual Schedules](checklists-and-visual-schedules.md) - External written or pictorial supports that make task sequences, steps, and routines visible so learners can track progress and manage work independently.
-* [Children's Literature for Math Instruction](children's_literature_for_math_instruction.md) - Children's literature for math instruction is a strategy in which stories, picture books, or narrative texts are used to introduce mathematical ideas, contexts, or discussion.
-* [Children's Literature Integration](children's_literature_integration.md) - Integrating children's literature, especially multicultural literature, into math instruction to enhance engagement and comprehension.
+* [Children's Literature for Math Instruction](childrens_literature_for_math_instruction.md) - Children's literature for math instruction is a strategy in which stories, picture books, or narrative texts are used to introduce mathematical ideas, contexts, or discussion.
+* [Children's Literature Integration](childrens_literature_integration.md) - Integrating children's literature, especially multicultural literature, into math instruction to enhance engagement and comprehension.
 * [Choice](choice.md) - Giving learners structured options about how, what, or when they learn, to support autonomy and engagement.
 * [Choice Based Learning](choice-based_learning.md) - Learners select among meaningful options — task, process, product, or environment — increasing autonomy and ownership of learning.
 * [Choice Boards](choice_boards.md) - Choice boards offer learners structured options for how they engage with or demonstrate learning, increasing autonomy, engagement, and ownership.
@@ -418,7 +418,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Connecting](connecting.md) - Connecting involves relating a current problem or text to prior knowledge and experiences so new material is understood as a meaningful extension of what learners already know.
 * [Connecting Background Knowledge To Content](connecting_background_knowledge_to_content.md) - A method for making instruction more culturally relevant by connecting content to learners' experiences.
 * [Connecting Concepts to Procedures](connecting_concepts_to_procedures.md) - Instruction explicitly links conceptual understanding with procedural skill so each reinforces the other, rather than teaching algorithms as rote steps.
-* [Connecting ELLs' Background Knowledge to Content](connecting_ells'_background_knowledge_to_content.md) - This strategy involves making instruction more culturally relevant by connecting content to ELLs' experiences.
+* [Connecting ELLs' Background Knowledge to Content](connecting_ells_background_knowledge_to_content.md) - This strategy involves making instruction more culturally relevant by connecting content to ELLs' experiences.
 * [Connecting Emotions to Actions](connecting_emotions_to_actions.md) - Learners reflect on how emotions influence their actions, then discuss and plan alternative behaviors.
 * [Connecting Languages](connecting_languages.md) - Encourage students to see connections between their languages to better understand how languages are structured and organized.
 * [Connecting Math to ESOL](connecting_math_to_esol.md) - Integrating authentic mathematical content and numeracy tasks into English for Speakers of Other Languages (ESOL) instruction so learners build language proficiency through meaningful quantitative contexts.
@@ -635,8 +635,8 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Dolch Sight Word Lists](dolch_sight_word_lists.md) - The Dolch Sight Word list comprises the 220 most common service words and 95 common nouns in children's texts, taught for instant recognition rather than decoding.
 * [Dolch Word List - Word Search Puzzles](dolch_word_list_-_word_search_puzzles.md) - Word search puzzles built from Dolch sight words, used as low-stakes practice for automatic recognition of high-frequency words.
 * [Domain Check](domain_check.md) - A quick source-evaluation heuristic in which students check the top-level domain of a website (.edu, .gov, .org, .com) as a first-pass indicator of credibility.
-* [Don’t Jump Into "Fix It" Mode](don’t_jump_into_"fix_it"_mode.md) - Resist the urge to immediately find solutions; listen and understand first, then collaborate on what support the learner actually wants.
-* [Don’t Say My Number](don’t_say_my_number.md) - A counting game where a chosen number is forbidden, and learners must skip it while counting aloud in sequence.
+* [Don’t Jump Into "Fix It" Mode](dont_jump_into_fix_it_mode.md) - Resist the urge to immediately find solutions; listen and understand first, then collaborate on what support the learner actually wants.
+* [Don’t Say My Number](dont_say_my_number.md) - A counting game where a chosen number is forbidden, and learners must skip it while counting aloud in sequence.
 * [Dot Card Flash](dot_card_flash.md) - One learner flashes a dot card to another for about 3 seconds, then hides it; the second learner recreates the arrangement from memory.
 * [Dot Card Matching Games](dot_card_matching_games.md) - Learners match dot cards with equal quantities but different arrangements, or match dot cards to corresponding numeral cards, building subitizing and number-sense foundations.
 * [Double-Entry Journals](double-entry_journals.md) - Learners split a page into two columns, recording quotations or text excerpts on one side and their personal responses, questions, or interpretations on the other as they read.
@@ -816,7 +816,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Expository Advance Organizers](expository_advance_organizers.md) - Expository advance organizers give students a broad idea of the lesson's purpose before it begins by clearly stating the goals of the lesson.
 * [Express Confidence in Learners](express_confidence_in_learners.md) - Directly communicating to learners that they have the ability to succeed, so that instructor belief functions as a self-fulfilling expectation.
 * [Expressing Interest in Ethnic Background](expressing_interest_in_ethnic_background.md) - Teachers demonstrate genuine care for students' cultural needs by encouraging them to research and share their ethnic backgrounds, fostering a trusting classroom environment.
-* [Expressing Interest in Students' Ethnic Backgrounds](expressing_interest_in_students'_ethnic_backgrounds.md) - Teachers actively demonstrate care for students' cultural, emotional, and intellectual needs by inviting students to research and share information about their ethnic backgrounds, including the origins and meanings of their names.
+* [Expressing Interest in Students' Ethnic Backgrounds](expressing_interest_in_students_ethnic_backgrounds.md) - Teachers actively demonstrate care for students' cultural, emotional, and intellectual needs by inviting students to research and share information about their ethnic backgrounds, including the origins and meanings of their names.
 * [Expressive Outlets](expressive_outlets.md) - Learners externalize thoughts and emotions through structured writing, drawing, or verbalization to regulate affect and free cognitive resources for learning.
 * [Expressive Writing](expressive_writing.md) - Expressive writing asks learners to write continuously about their thoughts and feelings surrounding emotionally significant experiences, typically in short structured sessions.
 * [Expressive Writing Before Assessment](expressive-writing-before-assessment.md) - A brief pre-assessment writing intervention in which students write about their worries and anxieties to offload intrusive thoughts and protect working memory during the test.
@@ -1043,8 +1043,8 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Home Visits](home-visits.md) - Teachers or school staff visit students' homes to build relationships with families, learn about the learner's context, and establish trust that supports engagement and achievement.
 * [Home-Based Literacy Support](home-based_literacy_support.md) - Schools provide families with structured resources, guidance, and routines to support children's literacy learning at home.
 * [Hot Seat](hot_seat.md) - One learner assumes the role of a book character, historical figure, or concept and answers classmates' questions in character while seated before the group.
-* [How Close to 100?](how_close_to_100?.md) - A partner dice game in which children roll two dice to determine the dimensions of an array drawn on a 100 grid, aiming to fill the grid as completely as possible while recording the matching number sentence.
-* [How Many Are Hiding?](how_many_are_hiding?.md) - A part-part-whole number activity in which children hide some cubes under a cup and peers infer the hidden quantity from the visible remainder and the known total.
+* [How Close to 100?](how_close_to_100.md) - A partner dice game in which children roll two dice to determine the dimensions of an array drawn on a 100 grid, aiming to fill the grid as completely as possible while recording the matching number sentence.
+* [How Many Are Hiding?](how_many_are_hiding.md) - A part-part-whole number activity in which children hide some cubes under a cup and peers infer the hidden quantity from the visible remainder and the known total.
 * [How Spelling Supports Reading](how_spelling_supports_reading.md) - Explicit, systematic spelling instruction that teaches phoneme–grapheme relationships and morphology to strengthen reading development.
 * [Hyperlinked Teaching](hyperlinked_teaching.md) - Hyperlinked teaching embeds direct avenues for further inquiry into learning materials, letting students choose what to explore more deeply and connect ideas across multiple sources.
 
@@ -1083,7 +1083,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Inclusive Innovation Process](inclusive_innovation_process.md) - A student, community, and educator-led research and design framework that produces equity-focused solutions through five structured phases.
 * [Incorporate Crafts to Remember Positive Self-Talk](incorporate_crafts_to_remember_positive_self-talk.md) - Using creative hands-on activities to produce tangible artifacts (affirmation cards, crafts, visual reminders) that reinforce positive self-talk.
 * [Incorporate Mindfulness Techniques](incorporate_mindfulness_techniques.md) - Incorporate mindfulness techniques to help students manage their initial emotional impulses and reactivity.
-* [Incorporate Students' Cultural Practices](incorporate_students'_cultural_practices.md) - Integrating students' cultural backgrounds, experiences, and community practices into lesson design and classroom activities so content connects to what learners already know and value.
+* [Incorporate Students' Cultural Practices](incorporate_students_cultural_practices.md) - Integrating students' cultural backgrounds, experiences, and community practices into lesson design and classroom activities so content connects to what learners already know and value.
 * [Incorporate Technology into Reflection](incorporate_technology_into_reflection.md) - Leverages students' familiarity with digital tools — microblogging, collaborative documents, multimedia capture, and discussion platforms — to make reflection more frequent, visible, and interactive.
 * [Incorporating Methods for Self-Testing](incorporating_methods_for_self-testing.md) - Reframing testing as a low-stakes learning activity — teaching students to quiz themselves during study so retrieval practice strengthens memory and reveals gaps.
 * [Incorporating Physical Activity Into Classroom Learning](incorporating_physical_activity_into_classroom_learning.md) - Incorporate movement into classroom instruction by having science classes explore natural settings, using physical movements to teach math, or acting out stories in language arts.
@@ -1102,7 +1102,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Individual Reflection](individual_reflection.md) - Learners deliberately review their own experience, work, or thinking to extract lessons, surface assumptions, and consolidate learning.
 * [Individual Rotation](individual-rotation.md) - A blended learning strategy in which each learner follows a personalized schedule or playlist rotating among modalities — online, small-group, and independent work — set by an algorithm or teacher plan.
 * [Individual Spaces](individual_spaces.md) - Creating designated areas within the classroom to serve specific functions, such as independent work, collaborative projects, or mini-lessons, can promote student engagement.
-* [Individualized \"Highlighter Tool\"](individualized_"highlighter_tool".md) - Students use an individualized \"highlighter tool\" (e.g., a Google Doc add-on) to create custom highlighters in different colors, label the categories, highlight relevant text, and export highlights by color into a summary table.
+* [Individualized \"Highlighter Tool\"](individualized_highlighter_tool.md) - Students use an individualized \"highlighter tool\" (e.g., a Google Doc add-on) to create custom highlighters in different colors, label the categories, highlight relevant text, and export highlights by color into a summary table.
 * [Indoor Air Quality Improvement](indoor_air_quality_improvement.md) - Improving indoor air quality reduces absenteeism, particularly for students with asthma, and addresses "sick building syndrome." Proper ventilation systems and pollutant reduction create a healthier learning environment.
 * [Inflectional Endings Instruction](inflectional_endings_instruction.md) - Inflectional endings instruction focuses on teaching the rules for adding suffixes (e.g., -ed, -s, -es, -ing, -er, -est) to base words.
 * [Informal Games and Jam Sessions](informal_games_and_jam_sessions.md) - Encourage participation in informal games and jam sessions to foster creativity, collaboration, and enjoyment without the pressure of competition.
@@ -1200,7 +1200,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Latin And Greek Roots For Academic Vocabulary](latin-and-greek-roots-for-academic-vocabulary.md) - Teaching the high-frequency Latin and Greek morphemes that compose academic English so learners can decode, infer, and retain unfamiliar discipline vocabulary.
 * [Latin Prefixes, Suffixes, and Roots](latin_prefixes,_suffixes,_and_roots.md) - Direct teaching about the meaningful parts of words begins with the most common inflections, but then extends to prefixes, suffixes, and roots of Latin origin.
 * [Leaderboards](leaderboards.md) - Leaderboards showcase the distribution of point totals that learners have accumulated through various learning activities, leveraging competition to drive engagement.
-* [Learn About Students' Math Backgrounds](learn_about_students'_math_backgrounds.md) - Systematically gathering information about learners' prior math instruction, informal skills, cultural number systems, and interests, then using that knowledge to tailor math instruction.
+* [Learn About Students' Math Backgrounds](learn_about_students_math_backgrounds.md) - Systematically gathering information about learners' prior math instruction, informal skills, cultural number systems, and interests, then using that knowledge to tailor math instruction.
 * [Learner Analysis](learner-analysis.md) - Systematically gathering information about learners' prior knowledge, skills, motivations, and constraints to inform instructional design decisions.
 * [Learner And Context Analysis](learner-and-context-analysis.md) - Systematic investigation of learners' prior knowledge, characteristics, and the instructional environment before designing instruction, so that design decisions fit who will learn and where.
 * [Learner Choice as a Continuum](learner_choice_as_a_continuum.md) - Learner choice as a continuum positions autonomy on a graduated spectrum, moving from teacher-provided menus of options toward learner-driven purpose discovery, design, and self-regulation.
@@ -1225,7 +1225,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Learning Logs](learning_logs.md) - Learning logs are short, reflective writing activities completed at the beginning or end of a class to review previously learned material or focus on new concepts.
 * [Learning Menus](learning-menus.md) - A learning menu offers learners a structured set of activity options — often tiered by difficulty or modality — from which they choose how to practice or demonstrate learning.
 * [Learning Stations](learning-stations.md) - Learners rotate through a sequence of small, self-contained activity stations, each targeting a different task, modality, or level of support.
-* [Learning Strategy & Tool \"Fair\"](learning_strategy_&_tool_"fair".md) - A hands-on exploratory event where learners sample a variety of learning strategies and tools, discovering which fit their needs before committing to them.
+* [Learning Strategy & Tool \"Fair\"](learning_strategy_&_tool_fair.md) - A hands-on exploratory event where learners sample a variety of learning strategies and tools, discovering which fit their needs before committing to them.
 * [Learning Students Names](learning-students-names.md) - The instructor deliberately learns and uses each student's name early in a course to build rapport, participation, and accountability.
 * [Learning Through Play](learning-through-play.md) - Structuring learning activities as playful, self-directed, and intrinsically motivating experiences so that exploration and enjoyment drive knowledge construction.
 * [Learning Through Reflection](learning_through_reflection.md) - Link and construct meaning from experiences through structured individual and social reflection.
@@ -1836,7 +1836,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Read-Alouds](read_alouds.md) - The teacher reads a text aloud to learners while modeling fluent reading, thinking, and vocabulary engagement, making complex text accessible beyond learners' independent reading levels.
 * [Read-Alouds with Deliberate Topics](read-alouds_with_deliberate_topics.md) - Teachers strategically select and read aloud stories that incorporate social-emotional learning (SEL) themes to foster self-reflection, promote social awareness, and strengthen relationship skills among students.
 * [Read-Alouds with Discussion](read-alouds_with_discussion.md) - Teachers read aloud stories depicting social and emotional challenges and facilitate structured discussion that prompts perspective-taking and self-reflection.
-* [Reader's Theater](reader's_theater.md) - Reader's Theater combines reading practice and performance by having learners read scripts adapted from books or stories aloud, without costumes, props, or memorization.
+* [Reader's Theater](readers_theater.md) - Reader's Theater combines reading practice and performance by having learners read scripts adapted from books or stories aloud, without costumes, props, or memorization.
 * [Readers Theatre](readers-theatre.md) - Learners rehearse and perform a script (often adapted from prose) through expressive oral reading — no memorization, props, or staging — to build reading fluency and comprehension.
 * [Reading Aloud](reading_aloud.md) - Encouraging students to read questions, texts, and their own writing aloud to leverage auditory processing and the memory advantage of vocal production.
 * [Reading and Understanding Written Math Problems](reading_and_understanding_written_math_problems.md) - Explicit instruction in reading, representing, and translating math word problems so learners can extract quantities and relationships from text before computing.
@@ -1924,7 +1924,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Resistance Reading and Counter-Narratives](resistance_reading_and_counter-narratives.md) - Resistance reading and writing counter-narratives are strategies to develop learners' abilities to critique a text (or an image or other media) and to respond in writing, sharing their concerns and critiques.
 * [Respect Diverse Talents and Ways of Learning](respect_diverse_talents_and_ways_of_learning.md) - There are many roads to learning.
 * [Respectful Redirection](respectful_redirection.md) - Respectful redirection is a quick, in-the-moment strategy to give corrective feedback to students using a calm tone, neutral body language, and clear, concise wording.
-* [Responding with \"Yet\"](responding_with_"yet".md) - Adding the word \"yet\" to responses when learners express frustration or inability (e.g., \"I can't do this\") introduces the idea of a growth mindset, fostering the belief that abilities can improve over time.
+* [Responding with \"Yet\"](responding_with_yet.md) - Adding the word \"yet\" to responses when learners express frustration or inability (e.g., \"I can't do this\") introduces the idea of a growth mindset, fostering the belief that abilities can improve over time.
 * [Response Cards](response-cards.md) - All learners simultaneously display answers on individual cards or boards, replacing one-at-a-time hand-raising with whole-group active responding.
 * [Response Devices](response_devices.md) - Response devices allow learners to anonymously share answers with the whole class, enabling whole-group participation and rapid formative assessment.
 * [Response To Intervention](response-to-intervention.md) - A multi-tier prevention framework that screens all learners, delivers escalating levels of targeted instruction, and uses continuous progress monitoring to decide when intensity should increase.
@@ -2097,7 +2097,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Shadowing to Address Behavior Problems](shadowing_to_address_behavior_problems.md) - An adult shadow provides close, continuous, low-key supervision of a student exhibiting harmful behavior to prevent incidents and coach replacement behaviors in real time.
 * [Shadowing to Adjust Behavior Problems](shadowing_to_adjust_behavior_problems.md) - An adult stays within arm's reach of a child who exhibits harmful behaviors (e.g., biting, hitting) to prevent incidents and coach replacement behaviors in the moment.
 * [Shape Search](shape_search.md) - Learners identify two- and three-dimensional shapes in their surroundings, promoting geometric awareness and real-world application of geometric concepts.
-* [Share Teacher's Written Work](share_teacher's_written_work.md) - Instructors share their own written work with learners, soliciting feedback and criticism to model the value of continuous improvement.
+* [Share Teacher's Written Work](share_teachers_written_work.md) - Instructors share their own written work with learners, soliciting feedback and criticism to model the value of continuous improvement.
 * [Shared Reading](shared-reading.md) - An interactive read-aloud in which an adult models fluent reading while learners follow the text, participate through prediction and questioning, and gradually take over parts of the reading.
 * [Shared Reading](shared_reading.md) - An interactive read-aloud in which an adult models fluent reading while learners follow the text, participate in prediction and discussion, and gradually take over parts of the reading.
 * [Shared Reflection](shared_reflection.md) - A classroom practice in which students publicly share reflections on their academic work—both successes and struggles—so that the class collectively supports each member's ongoing improvement.
@@ -2436,7 +2436,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Ungrading](ungrading.md) - Removing or de-emphasizing letter grades and numeric scores in favor of feedback, self-assessment, and revision-oriented evaluation.
 * [Unit Planning with Graphic Organizers](unit_planning_with_graphic_organizers.md) - When introducing a unit, show students how the parts of the unit fit together with a graphic organizer, giving them a map of where they are at any point and why each part matters.
 * [Untimed Tests](untimed_tests.md) - Untimed tests remove the pressure of completing assessments within a set time limit, allowing learners to focus on problem-solving without time-related anxiety.
-* [Use "I" Statements to Avoid Blame](use_"i"_statements_to_avoid_blame.md) - Avoid using "you" statements, which can make students defensive; instead frame feedback and conflict talk around the speaker's own observations and feelings.
+* [Use "I" Statements to Avoid Blame](use_i_statements_to_avoid_blame.md) - Avoid using "you" statements, which can make students defensive; instead frame feedback and conflict talk around the speaker's own observations and feelings.
 * [Use Advance Organizers](use-advance-organizers.md) - Present a brief, higher-level framework (verbal, graphic, or comparative) before new material so learners can anchor incoming information to existing knowledge structures.
 * [Use Analogies](use-analogies.md) - Introduce new concepts by mapping them onto familiar, well-structured knowledge domains so learners can reason from the known to the unknown.
 * [Use Analogies](use_analogies.md) - Introduce new material by mapping it onto a familiar, well-understood domain so learners can reason about the unfamiliar through the familiar.
@@ -2535,13 +2535,13 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Weeding](weeding.md) - Systematically removing extraneous words, images, audio, and features from learning materials so that working-memory resources are devoted to essential content.
 * [Weekly Student Reflection](weekly_student_reflection.md) - Students spend 10–15 minutes each week responding to structured prompts about their learning, building metacognitive awareness, self-regulation, and teacher–student dialogue.
 * [Welcome Messages](welcome-messages.md) - A personal, orientation-focused message from the instructor at the start of a course that establishes social presence, clarifies expectations, and signals belonging.
-* [What Would Their Day Look Like?](what_would_their_day_look_like?.md) - Learners select a photo of a person or animal in an unfamiliar situation and imagine what their daily life might be like.
+* [What Would Their Day Look Like?](what_would_their_day_look_like.md) - Learners select a photo of a person or animal in an unfamiliar situation and imagine what their daily life might be like.
 * [What's My Emotion? Game](what's_my_emotion?_game.md) - Using an EQ Feeling Chart, students identify how they are feeling individually, then one student demonstrates an emotion non-verbally while the class guesses what it is.
-* [What’s Below the Surface? (Iceberg Analysis)](what’s_below_the_surface?_(iceberg_analysis).md) - Uses an iceberg graphic to push students from surface-level plot events to deeper analysis of character traits, motivations, and identity.
+* [What’s Below the Surface? (Iceberg Analysis)](whats_below_the_surface_(iceberg_analysis).md) - Uses an iceberg graphic to push students from surface-level plot events to deeper analysis of character traits, motivations, and identity.
 * [What’s My Emotion? Game](what’s_my_emotion?_game.md) - One learner demonstrates an emotion through body language and facial expressions while the rest of the class guesses the emotion, building emotional literacy through enactment and feedback.
-* [What’s My Number?](what’s_my_number?.md) - A guessing game where one person thinks of a number and provides clues, and others use logical reasoning and deduction to determine the number.
-* [Where Are the People Like Me?](where_are_the_people_like_me?.md) - Learners examine media examples to consider who is represented and who is not, then explore the impact of this lack of diversity and how it might affect those who are misrepresented or not represented.
-* [Which One Doesn’t Belong?](which_one_doesn’t_belong?.md) - Learners compare a small set of cards representing quantities and identify — and justify — which one differs, building number sense through structured comparison.
+* [What’s My Number?](whats_my_number.md) - A guessing game where one person thinks of a number and provides clues, and others use logical reasoning and deduction to determine the number.
+* [Where Are the People Like Me?](where_are_the_people_like_me.md) - Learners examine media examples to consider who is represented and who is not, then explore the impact of this lack of diversity and how it might affect those who are misrepresented or not represented.
+* [Which One Doesn’t Belong?](which_one_doesnt_belong.md) - Learners compare a small set of cards representing quantities and identify — and justify — which one differs, building number sense through structured comparison.
 * [Whole Class Self-Monitoring](whole_class_self-monitoring.md) - Whole class self-monitoring involves the entire class participating in self-monitoring techniques, adapted from individual self-monitoring methods.
 * [Whole Task Practice](whole-task-practice.md) - Learners practice complete, authentic versions of the target task from the start, rather than isolated subskills practiced separately before being combined.
 * [Wide Reading](wide-reading.md) - Sustained, high-volume reading of self-selected, accessible texts to build fluency, vocabulary, background knowledge, and motivation.
@@ -2605,10 +2605,14 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### 0-9 & Other {: #letter-num }
 
-* ['What's My Emotion?' Game Check-In]('what's_my_emotion?'_game_check-in.md) - Students use the EQ Feeling Chart to identify, act out, and guess feelings, building emotional literacy through a game-based check-in.
+* ['What's My Emotion?' Game Check-In](whats_my_emotion_game_check-in.md) - Students use the EQ Feeling Chart to identify, act out, and guess feelings, building emotional literacy through a game-based check-in.
 * [3 2 1_Reflection](3-2-1_reflection.md) - A structured closure routine in which learners record 3 things they learned, 2 things they found interesting or want to know more about, and 1 question or lingering confusion.
 * [3-Source Rule](3-source_rule.md) - A corroboration strategy requiring students to confirm any claim found online against at least three independent sources before accepting or citing it.
 * [5-Minute Writing Conferences](5-minute_writing_conferences.md) - Brief, structured one-on-one conferences in which students lead with a self-assessment and the teacher delivers targeted, rubric-anchored feedback on one strength and one growth area.
 * [\"Document Outline\" Tool]("document_outline"_tool.md) - Students use the \"Document outline\" tool in Google Docs to extract evidence supporting the main ideas they've found in a text.
 * [\"Headings and Highlight\" Strategy]("headings_and_highlight"_strategy.md) - A collaborative digital reading routine in which pairs highlight key ideas and distill sections into four-word headings, then compare and justify their choices with text evidence.
 
+
+## Draft
+
+33 draft entries are currently omitted from this section page to keep the index navigable. Browse the folder directly or promote pages to `review` as they are curated.

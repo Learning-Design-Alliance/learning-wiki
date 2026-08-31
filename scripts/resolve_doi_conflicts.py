@@ -59,7 +59,7 @@ WIKI_ROOT = Path(__file__).parent.parent
 NEEDS_HUMAN_SNAPSHOT_PATH = WIKI_ROOT / "eval" / "health" / "doi_needs_human.json"
 
 
-def classify_doi(doi: str, cluster_title_words: set) -> dict:
+def classify_doi(doi: str, cluster_title_words: set, cited_title_text: str = None) -> dict:
     """Resolve `doi` against Crossref (cache-backed, same cache
     doi_resolver.py's own checks use) and classify it relative to this
     cluster's title: 'verified' (resolves, title matches), 'wrong_paper'
@@ -83,10 +83,31 @@ def classify_doi(doi: str, cluster_title_words: set) -> dict:
 
     if not result["resolved"]:
         return {"status": "not_found", "title": None}
-    resolved_words = cc._words_from_text(result.get("title") or "")
+    resolved_title = result.get("title") or ""
+    resolved_words = cc._words_from_text(resolved_title)
     if cc._same_paper(cluster_title_words, resolved_words):
-        return {"status": "verified", "title": result["title"]}
-    return {"status": "wrong_paper", "title": result["title"]}
+        # Word overlap says yes — but a short, generic cited title is fully
+        # contained in plenty of longer, unrelated works. cc.titles_align
+        # rejects the containment case unless one title actually begins with
+        # the other (a real subtitle expansion). Without it, Bandura's
+        # "Social learning theory" verified against a Springer chapter called
+        # "Model of Causality in Social Learning Theory" at 0.60 overlap, and
+        # that DOI was written onto 69 pages.
+        if cited_title_text and not cc.titles_align(cited_title_text, resolved_title):
+            return {"status": "wrong_paper", "title": resolved_title}
+        return {"status": "verified", "title": resolved_title}
+    return {"status": "wrong_paper", "title": resolved_title}
+
+
+def _cited_title_text(key: str, entries: list, cluster_title_words: set) -> str:
+    """The cluster's own title as TEXT (word order intact), for the positional
+    check in cc.titles_align. Read fresh from disk via _locate_citation_line
+    for the same reason _search_fallback does: entries[...]["line"] is
+    truncated to 160 chars and cuts into the title on long author lists."""
+    _, year = key.rsplit("-", 1)
+    longest = max(entries, key=lambda e: len(e["title_words"]))
+    located = _locate_citation_line(longest["source"], key, cluster_title_words)
+    return cc._extract_title_text(located[1].strip() if located else longest["line"], year)
 
 
 def _search_fallback(key: str, entries: list, cluster_title_words: set, debug: bool = False):
@@ -131,7 +152,8 @@ def _search_fallback(key: str, entries: list, cluster_title_words: set, debug: b
         if not c.get("doi") or not c.get("title"):
             continue
         resolved_words = cc._words_from_text(c["title"])
-        if cc._same_paper(cluster_title_words, resolved_words):
+        if cc._same_paper(cluster_title_words, resolved_words) and \
+                cc.titles_align(title_text, c["title"]):
             return c["doi"], c["title"]
     return None
 
@@ -148,7 +170,9 @@ def resolve_cluster(conflict: dict, debug: bool = False) -> dict:
     cluster_title_words = max((e["title_words"] for e in entries), key=len)
 
     candidate_dois = sorted(d for d in conflict["dois"] if d)
-    classifications = {doi: classify_doi(doi, cluster_title_words) for doi in candidate_dois}
+    cited_title = _cited_title_text(key, entries, cluster_title_words)
+    classifications = {doi: classify_doi(doi, cluster_title_words, cited_title)
+                       for doi in candidate_dois}
     verified = [doi for doi, c in classifications.items() if c["status"] == "verified"]
 
     if len(verified) == 1:
@@ -237,7 +261,8 @@ def resolve_standalone_issues(by_key: dict, conflict_keys: set, debug_key: str =
     for i, (doi, affected) in enumerate(unique_dois, 1):
         print(f"  [{i}/{len(unique_dois)}] checking {doi} ({affected[0]['key']})...", file=sys.stderr)
         cluster_title_words = max((e["title_words"] for e in affected), key=len)
-        classification = classify_doi(doi, cluster_title_words)
+        classification = classify_doi(doi, cluster_title_words,
+                                      _cited_title_text(affected[0]["key"], affected, cluster_title_words))
         if classification["status"] == "verified":
             continue  # already correct, nothing to do
 
@@ -456,7 +481,8 @@ def debug_key(key: str) -> None:
 
     for doi, affected in sorted(by_doi.items()):
         cluster_title_words = max((e["title_words"] for e in affected), key=len)
-        classification = classify_doi(doi, cluster_title_words)
+        classification = classify_doi(doi, cluster_title_words,
+                                      _cited_title_text(key, affected, cluster_title_words))
         title_note = f' — Crossref title: "{classification["title"]}"' if classification.get("title") else ""
         print(f"DOI {doi}: {classification['status']}{title_note}")
         print(f"  cited on: {', '.join(e['source'] for e in affected)}")

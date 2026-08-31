@@ -4,8 +4,8 @@ title: Peer Instruction
 description: Peer Instruction is a pattern in which learners first answer a conceptual question individually, then discuss their reasoning with peers, and then answer again before instructor debrief.
 status: review
 generated:
-  by: codex/unspecified
-  at: 2026-04-07
+  by: claude/unspecified
+  at: 2026-08-29
 sources:
   - id: crouch-2001
     resource: "https://doi.org/10.1119/1.1374249"
@@ -23,6 +23,8 @@ grain_size: lesson
 Peer Instruction is a pattern in which learners first answer a conceptual question individually, then discuss their reasoning with peers, and then answer again before instructor debrief. The key mechanism is not the poll itself. It is the combination of commitment, peer explanation, reconsideration, and feedback that helps learners confront misconceptions and refine understanding.
 
 The pattern is especially effective for conceptual questions that require reasoning rather than recall. It works well in large classes because it creates active processing without needing the instructor to hear every learner individually.
+
+In practice, students typically answer individually via clickers or a handheld response system (anonymously, with results visible immediately to the instructor); if a large fraction of the class (usually 30-65%) answers incorrectly, students discuss in small groups while the instructor circulates, then answer again, with the instructor closing the cycle by explaining the correct answer and following up with related questions — each full cycle typically taking 13-15 minutes. The evidence for its effectiveness is unusually well quantified: Hake's (1998) large survey compared 2,084 students in 14 traditionally-taught introductory physics courses against 4,458 students in 48 courses using "interactive engagement" methods (broadly, active, feedback-rich approaches including peer instruction), finding pre/post-test learning gains almost two standard deviations higher for the interactive-engagement group (0.48 ± 0.14 vs. 0.23 ± 0.04). Assessing peer instruction specifically across eight years at Harvard, Crouch and Mazur (2001) found even larger gains (0.49 to 0.74), compared to just 0.25-0.40 for traditionally-taught sections at the same institution during the same period. Deslauriers, Schelew, and Wieman (2011) found a similar effect in a more tightly controlled comparison: two sections of the same large-enrollment physics course, showing no prior differences, were taught identically until one section was "flipped" for a single week (pre-class reading and quizzes, in-class small-group discussion of clicker and written-response questions, no lecture) while the other continued as before — the flipped section still showed a substantial learning-gain advantage over the matched control from that single week's change alone.
 
 ## Implications
 
@@ -109,3 +111,6 @@ The pattern is especially effective for conceptual questions that require reason
 ## Key Sources
 - Mazur, E. (1997). *Peer instruction: A user's manual*. Prentice Hall.
 - Crouch, C. H., & Mazur, E. (2001). Peer instruction: Ten years of experience and results. *American Journal of Physics, 69*(9), 970-977. [https://doi.org/10.1119/1.1374249](https://doi.org/10.1119/1.1374249)
+- Hake, R. R. (1998). Interactive-engagement versus traditional methods: A six-thousand-student survey of mechanics test data for introductory physics courses. *American Journal of Physics, 66*(1), 64-74.
+- Deslauriers, L., Schelew, E., & Wieman, C. (2011). Improved learning in a large-enrollment physics class. *Science, 332*(6031), 862-864. [doi:10.1126/science.1201783](https://doi.org/10.1126/science.1201783)
+- Arduini-Van Hoose, N. (2020). Flipped classroom. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

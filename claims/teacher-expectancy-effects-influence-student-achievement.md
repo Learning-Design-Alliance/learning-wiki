@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Teacher Expectancy Effects Influence Student Achievement
-status: review
+status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30

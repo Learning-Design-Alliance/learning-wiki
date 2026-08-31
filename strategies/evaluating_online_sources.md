@@ -56,7 +56,7 @@ Lateral reading outperforms the checklist approaches (e.g., CRAAP tests) histori
 5. Integrate into authentic tasks — research papers, [Argumentation](../elements/argumentation.md) exercises, or [Case Studies](../elements/case-studies.md) — so evaluation is applied, not isolated
 
 ## Related Strategies
-- [A Finder's Guide to Facts](a_finder's_guide_to_facts.md) — a complementary framework for assessing factual claims
+- [A Finder's Guide to Facts](a_finders_guide_to_facts.md) — a complementary framework for assessing factual claims
 - [3-Source Rule](3-source_rule.md) — a corroboration heuristic that operationalizes triangulation
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — background knowledge of the information ecosystem determines what learners can infer during evaluation
 

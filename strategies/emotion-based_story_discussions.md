@@ -58,7 +58,7 @@ Narrative provides psychologically safe distance: learners can discuss a charact
 6. Close with a brief [Check-In](../elements/check-in.md) inviting (but not requiring) learners to connect the discussion to their own experience.
 
 ## Related Strategies
-- ['What's My Emotion?' Game Check-In]('what's_my_emotion?'_game_check-in.md) — builds the emotion vocabulary these discussions depend on
+- ['What's My Emotion?' Game Check-In](whats_my_emotion_game_check-in.md) — builds the emotion vocabulary these discussions depend on
 - [Acting-Role-Play](acting-role-play.md) — extends character perspective-taking into embodied practice
 - [Active-Listening](active-listening.md) — the facilitation stance that keeps discussion open and respectful
 

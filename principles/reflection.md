@@ -4,8 +4,8 @@ title: Reflection
 description: "Reflection is the principle of deliberately examining one's experience, reasoning, performance, or progress in order to extract lessons and guide future action."
 status: review
 generated:
-  by: codex/unspecified
-  at: 2026-04-07
+  by: claude/unspecified
+  at: 2026-08-29
 ---
 
 # Reflection
@@ -47,6 +47,7 @@ Reflection improves learning when it turns a past action or judgment into eviden
 
 ## Examples
 - Post-task reflection that identifies one strong move, one weak move, and one next adjustment.
+- [Humanizing Co-Design with Educators](../patterns/humanizing-co-design-with-educators.md) — uses a structured field-note reflection protocol to turn educators' own classroom experience into design input
 
 ## Key Sources
 - Schon, D. A. (1983). *The reflective practitioner*. Basic Books.

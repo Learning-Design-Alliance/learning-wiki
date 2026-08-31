@@ -60,7 +60,7 @@ Pretend play provides a psychologically safe, low-stakes context in which childr
 
 ## Related Strategies
 - [Acting-Role-Play](acting-role-play.md) — the broader family of role enactment; this strategy adds a deliberate emotion focus
-- ['What's My Emotion?' Game Check-In]('what's_my_emotion?'_game_check-in.md) — a structured warm-up that builds the emotion vocabulary pretend play then uses
+- ['What's My Emotion?' Game Check-In](whats_my_emotion_game_check-in.md) — a structured warm-up that builds the emotion vocabulary pretend play then uses
 - [Act It Out](act_it_out.md) — physical enactment of emotions that can feed into character play
 
 ## Related Elements

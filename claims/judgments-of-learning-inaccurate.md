@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Judgments of learning are often inaccurate
-status: review
+status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30

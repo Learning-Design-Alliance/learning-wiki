@@ -22,6 +22,7 @@ import json
 import re
 import sys
 import argparse
+import urllib.parse
 from pathlib import Path
 from collections import defaultdict
 
@@ -67,11 +68,36 @@ def check_broken_links(pages: dict[str, Path]) -> list[dict]:
         if path.name in DOC_FILES:
             continue
         text = path.read_text(encoding="utf-8")
-        for m in LINK_RE.finditer(text):
-            target = m.group(1)
-            if target.startswith(("http://", "https://")):
+        # ok.iter_markdown_links matches the destination by paren BALANCE, so
+        # a link to a page whose filename contains parentheses is seen. LINK_RE
+        # could not see those at all (it stops at the first ')'), and this
+        # check openly skipped them — while mkdocs could not resolve them
+        # either, so they rendered as dead literal text. 58 such links were
+        # live when this was changed, every one pointing at a real file.
+        for _, _, target, is_angle in ok.iter_markdown_links(text):
+            if target.startswith(("http://", "https://", "#", "mailto:")):
                 continue
-            target_path = (path.parent / target).resolve()
+            # A destination containing parens only parses inside <...>. It may
+            # resolve on disk and still be broken in the rendered page, so flag
+            # it separately rather than calling it fine.
+            if ok.link_needs_angle_brackets(target) and not is_angle:
+                issues.append({
+                    "file": str(path.relative_to(WIKI_ROOT)),
+                    "type": "link_needs_angle_brackets",
+                    "detail": f"{target} contains parentheses and must be written as "
+                              f"<{target}> to parse — run scripts/fix_links.py --apply",
+                })
+                continue
+            # Percent-decode before hitting the filesystem. A markdown link to
+            # a page whose filename contains an apostrophe, a question mark, a
+            # comma or a quote MUST encode those characters to be a valid link
+            # target, and mkdocs resolves the encoded form correctly — but this
+            # check compared the still-encoded string against real filenames and
+            # reported every one of them broken. Nine of this wiki's twenty
+            # "broken" links were this false positive (the '%27what%27s_my_
+            # emotion%3F%27_game_check-in.md' family), all of them links that
+            # build fine under `mkdocs build --strict`.
+            target_path = (path.parent / urllib.parse.unquote(target)).resolve()
             if not target_path.exists():
                 issues.append({
                     "file": str(path.relative_to(WIKI_ROOT)),
@@ -119,7 +145,21 @@ def check_claims_missing_evidence(pages: dict[str, Path]) -> list[dict]:
                 "type": "claim_no_evidence_strength",
                 "detail": "evidence_strength missing from frontmatter",
             })
-        # Check for at least one DOI or URL in evidence table
+        # Check for at least one DOI or URL in evidence table.
+        #
+        # Skipped for status: draft, which CLAUDE.md defines as "skeleton or
+        # stub; content not reviewed" — a draft claim having no evidence yet
+        # is the expected state, not a defect, and the status field exists to
+        # say so. This mirrors the rest of this module:
+        # check_draft_no_description only fires on drafts and
+        # check_stable_unverified only on stable. The unenriched backlog stays
+        # visible — wiki_health_check.py counts every draft and TODO page for
+        # the health dashboard — it just doesn't fail CI for pages that are
+        # honestly labelled unfinished. A claim promoted to review or stable
+        # is held to the full standard again.
+        status_m = STATUS_RE.search(text)
+        if status_m and status_m.group(1).strip() == "draft":
+            continue
         evidence_section = ok.get_section(text, "Evidence")
         if evidence_section is not None:
             if not re.search(r"https?://|doi\.org|10\.\d{4}", evidence_section):

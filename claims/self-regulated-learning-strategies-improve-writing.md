@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Self-regulated learning strategy instruction improves writing outcomes
-status: review
+status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30

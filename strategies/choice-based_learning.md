@@ -24,7 +24,7 @@ Choice supports motivation primarily by satisfying the basic psychological need 
 - A set of 2–5 genuinely distinct, goal-aligned options — not cosmetic variation
 - Clear success criteria that apply across all options, so choice does not change what is assessed ([Assessment](../elements/assessment.md) must remain comparable)
 - Enough learner readiness to make a reasonable selection; [Scaffolding](../elements/scaffolding.md) or teacher conferencing for learners who cannot yet choose well
-- A structure for committing to and completing the chosen path (e.g., a planning step as in [Academic Choice (planning, working, reflecting)](../strategies/academic_choice_(planning,_working,_reflecting).md))
+- A structure for committing to and completing the chosen path (e.g., a planning step as in [Academic Choice (planning, working, reflecting)](<../strategies/academic_choice_(planning,_working,_reflecting).md>))
 
 #### Constraints
 - Choice of *task difficulty* often backfires: learners choose options that are too easy or too hard, and low-prior-knowledge learners especially make maladaptive selections [~M] — constrain difficulty choices or use [Adaptive Difficulty](../elements/adaptive-difficulty.md) instead
@@ -57,7 +57,7 @@ Choice supports motivation primarily by satisfying the basic psychological need 
 5. Debrief the choice itself: what learners selected, why, and whether they would choose differently next time — this builds transferable decision-making.
 
 ## Related Strategies
-- [Academic Choice (planning, working, reflecting)](../strategies/academic_choice_(planning,_working,_reflecting).md) — a structured planning–working–reflecting cycle that operationalizes choice for younger learners
+- [Academic Choice (planning, working, reflecting)](<../strategies/academic_choice_(planning,_working,_reflecting).md>) — a structured planning–working–reflecting cycle that operationalizes choice for younger learners
 - [Project-Based Learning](../strategies/project-based-learning.md) — typically embeds topic and product choice within an extended authentic task
 
 ## Examples

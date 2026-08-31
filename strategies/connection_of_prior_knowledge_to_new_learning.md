@@ -60,7 +60,7 @@ Prior knowledge is among the strongest predictors of learning outcomes, but it c
 ## Related Strategies
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the activation component in isolation; this strategy adds the bridging and misconception-handling work
 - [Activate Background Knowledge](../strategies/activate_background_knowledge.md) — classroom routine variant emphasizing learner experience sharing
-- [Accessing Students' Background Knowledge](../strategies/accessing_students’_background_knowledge.md) — diagnostic and culturally responsive variant
+- [Accessing Students' Background Knowledge](../strategies/accessing_students_background_knowledge.md) — diagnostic and culturally responsive variant
 
 ## Examples
 - **Bransford & Johnson's passage studies** — learners who were given a relevant title ("washing clothes") before reading a vague passage comprehended and recalled far more than those given it afterward, demonstrating that activation must precede encoding.

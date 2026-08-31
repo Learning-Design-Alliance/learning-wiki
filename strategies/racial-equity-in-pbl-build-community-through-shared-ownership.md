@@ -60,7 +60,7 @@ Shared ownership operationalizes culturally relevant pedagogy's "academic succes
 7. **Reflect on the community, not just the content.** Close with structured reflection on how the team shared ownership and whose knowledge shaped the product.
 
 ## Related Strategies
-- [Academic Choice (Planning, Working, Reflecting)](academic_choice_(planning,_working,_reflecting).md) — the choice-and-reflection cycle that operationalizes student ownership day to day
+- [Academic Choice (Planning, Working, Reflecting)](<academic_choice_(planning,_working,_reflecting).md>) — the choice-and-reflection cycle that operationalizes student ownership day to day
 - [Acceptance, Responsibility, and Sharing](acceptance,_responsibility,_and_sharing.md) — community norms that make shared ownership safe to exercise
 
 ## Examples

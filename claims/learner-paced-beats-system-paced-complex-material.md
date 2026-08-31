@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Learner Paced Beats System Paced Complex Material
-status: review
+status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30

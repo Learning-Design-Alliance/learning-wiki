@@ -62,7 +62,7 @@ Check ins make learner status visible early enough to act on, converting assumpt
 
 **[5-Minute Writing Conferences](../strategies/5-minute_writing_conferences.md)** — Brief one-on-one check ins during writing workshop in which the teacher asks about the draft's direction and offers one targeted suggestion.
 
-**["What's My Emotion?" Game Check-In](../strategies/'what's_my_emotion?'_game_check-in.md)** — An affective check in that has learners identify and name emotional states, building readiness and emotional vocabulary before instruction.
+**["What's My Emotion?" Game Check-In](../strategies/whats_my_emotion_game_check-in.md)** — An affective check in that has learners identify and name emotional states, building readiness and emotional vocabulary before instruction.
 
 **[Muddiest Point](../strategies/active-listening.md)** — End-of-class prompt asking "What was most confusing today?"; responses drive the opening of the next session.
 

@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Checklist-based evaluation instruction does not reliably improve online source evaluation
-status: review
+status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30

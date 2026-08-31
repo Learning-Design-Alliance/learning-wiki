@@ -4,8 +4,8 @@ title: Epistemic Cognition
 description: "Epistemic cognition is the principle of helping learners reason about knowledge itself: what counts as evidence, how claims are justified, how certainty should be calibrated, and how knowledge is constructed or revised."
 status: review
 generated:
-  by: codex/unspecified
-  at: 2026-04-08
+  by: claude/unspecified
+  at: 2026-08-29
 sources:
   - id: hofer-1997
     resource: "https://doi.org/10.3102/00346543067001088"
@@ -49,6 +49,9 @@ Epistemic cognition matters when learners need to move beyond “what do I think
 - Argumentation and disciplinary-literacy traditions — knowing includes knowing what counts as evidence and justification
 - [Evaluating Sources](evaluating-sources.md) — one of the clearest practical applications of epistemic cognition
 - [Perspective-Taking](perspective-taking.md) — evaluating claims often requires comparing viewpoints and standards
+- [Mechanistic Reasoning](../theories/mechanistic-reasoning.md) — operationalizes epistemic cognition into two concrete criteria (explanatory power, information accuracy) within biological explanation
+- [Epistemic Games](../theories/epistemic-games.md) — a team-level, interactional analogue: the "knowledge validation" move is where a group negotiates its shared epistemic standards in real time, often surfacing disciplinary disagreement about what counts as trustworthy evidence
+- [Epistemic Commitments](../theories/epistemic-commitments.md) — extends epistemic cognition by centering student-originated values (including non-disciplinary ones like care for living things) rather than only externally-imposed disciplinary ideals
 
 #### Contradicting / Qualifying
 - [Behaviorism](../theories/behaviorism.md) — purely performance-focused instruction may underrepresent epistemic judgment because observable correctness does not capture warrant quality
@@ -57,11 +60,14 @@ Epistemic cognition matters when learners need to move beyond “what do I think
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — requiring learners to explain why a claim is justified can deepen epistemic understanding
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~M] — overconfident error can be instructionally useful when it is followed by evidence-based correction
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — epistemic judgment improves when learners monitor the quality of their evidence and certainty
+- [Elementary students prefer and can evaluate mechanistic explanations using explanatory power and accuracy criteria](../claims/elementary-students-prefer-mechanistic-explanations.md) [+M] — even young children apply real epistemic criteria (does it explain "how," is it accurate) when judging competing explanations
+- [Collaborative critique-and-redesign instruction shifts students from a value-free view of objectivity toward a procedural one](../claims/collaborative-evidence-critique-shifts-students-toward-procedural-objectivity.md) [+M] — extends epistemic cognition to evaluating psychological/social-science evidence specifically
 
 ## Related Principles
 - [Evaluating Sources](evaluating-sources.md) — directly operationalizes epistemic judgment around credibility and evidence
 - [Perspective-Taking](perspective-taking.md) — learners often need to compare competing interpretations and standards
 - [Debate](debate.md) — argument-focused settings often require explicit epistemic norms to stay productive
+- [Collaborative Critique and Redesign of Flawed Studies](../strategies/collaborative-critique-and-redesign-of-flawed-studies.md) — a concrete instructional strategy for developing evidence-evaluation ideals in psychology/social-science instruction
 
 ## Examples
 

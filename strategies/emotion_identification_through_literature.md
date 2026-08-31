@@ -35,7 +35,7 @@ Naming emotions builds the vocabulary needed for later emotional regulation and 
 #### Implementation Variability
 - Whole-class read-aloud with poster reference, small-group guided reading, or independent reading with a personal emotion bookmark
 - Posters can range from six basic emotions (early elementary) to nuanced gradations (frustrated vs. angry vs. disappointed) for older students
-- Extend into role-play: students act out the character's emotion ([Act It Out](act_it_out.md)) or play a feelings check-in game (['What's My Emotion?' Game Check-In]('what's_my_emotion?'_game_check-in.md))
+- Extend into role-play: students act out the character's emotion ([Act It Out](act_it_out.md)) or play a feelings check-in game (['What's My Emotion?' Game Check-In](whats_my_emotion_game_check-in.md))
 
 ### Target Learners
 - Early elementary students (K–3) still building basic emotion vocabulary and facial-expression recognition
@@ -60,7 +60,7 @@ Naming emotions builds the vocabulary needed for later emotional regulation and 
 
 ## Related Strategies
 - [Act It Out](act_it_out.md) — extends identification into embodied expression of the identified emotion
-- ['What's My Emotion?' Game Check-In]('what's_my_emotion?'_game_check-in.md) — daily practice of the same labeling skill outside the literacy block
+- ['What's My Emotion?' Game Check-In](whats_my_emotion_game_check-in.md) — daily practice of the same labeling skill outside the literacy block
 - [Acting-Role-Play](acting-role-play.md) — dramatization of story scenes to deepen perspective-taking
 
 ## Examples

@@ -60,7 +60,7 @@ Affect labeling reduces amygdala reactivity and increases prefrontal engagement,
 
 ## Related Strategies
 - [Check-In](../elements/check-in.md) — the scheduled routine that anchors distributed labeling
-- ['What's My Emotion?' Game Check-In](../strategies/'what's_my_emotion?'_game_check-in.md) — gamified vocabulary-building variant for younger learners
+- ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — gamified vocabulary-building variant for younger learners
 - [Achievable Micro-Goals](../strategies/achievable_micro-goals.md) — natural pairing: label the state, then set a small next step
 - [Action-Oriented Feedback](../strategies/action-oriented_feedback.md) — feedback framing that keeps labeled emotion pointed at the task
 

@@ -58,7 +58,7 @@ Music provides an affective stimulus that is shared but personally interpreted, 
 6. **Repeat across contrasting excerpts** so learners discriminate among related emotions (e.g., sadness vs. melancholy vs. nostalgia).
 
 ## Related Strategies
-- ['What's My Emotion?' Game Check-In](../strategies/'what's_my_emotion?'_game_check-in.md) — a gamified variant of emotion identification that pairs well as a warm-up
+- ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — a gamified variant of emotion identification that pairs well as a warm-up
 - [Journaling](../strategies/journaling.md) — the private-writing variant for learners reluctant to share aloud
 - [Building Empathy](../principles/building-empathy.md) — the broader goal this activity serves
 

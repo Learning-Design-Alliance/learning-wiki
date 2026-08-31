@@ -55,9 +55,8 @@ Self affirmation works by decoupling self-worth from performance in the threaten
 - None identified — though the threat-dependency of effects qualifies any claim that affirmation improves learning generally
 
 ### Claims
-<!-- TODO: add claim links when evidence pages exist -->
-- Values-affirmation interventions improve academic performance for threatened groups (Miyake et al., 2010; Walton & Cohen, 2011) [+M]
-- Effects are contingent on the presence of identity or evaluative threat [~M]
+- [Self-affirmation improves outcomes](../claims/self-affirmation-improves-outcomes.md) [+M] — values-affirmation interventions improve academic performance for threatened groups
+- [Belonging interventions improve outcomes](../claims/belonging-interventions-improve-outcomes.md) [+M] — a closely related identity-threat intervention, with the same contingency on threat being present
 
 ## Related Principles
 - [Check-ins](check-ins.md) — low-stakes affective touchpoints that, like affirmation, surface and regulate learner emotional states before demanding tasks

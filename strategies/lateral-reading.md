@@ -56,7 +56,7 @@ Lateral reading works because it shifts evaluation from judging *content* to jud
 5. **Assess transfer**: present a novel source and evaluate whether learners spontaneously leave the page
 
 ## Related Strategies
-- [A Finder's Guide to Facts](../strategies/a_finder's_guide_to_facts.md) — a complementary framework for locating reliable factual sources
+- [A Finder's Guide to Facts](../strategies/a_finders_guide_to_facts.md) — a complementary framework for locating reliable factual sources
 - [3-Source Rule](../strategies/3-source_rule.md) — a corroboration heuristic that operationalizes lateral verification
 
 ## Examples

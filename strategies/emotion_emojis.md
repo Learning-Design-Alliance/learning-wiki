@@ -54,7 +54,7 @@ Emotion emojis function as a structured [check-in](../principles/check-ins.md): 
 4. Close by connecting the check-in to regulation: students name one small action they can take to move toward a productive state.
 
 ## Related Strategies
-- ['What's My Emotion?' Game Check-In](../strategies/'what's_my_emotion?'_game_check-in.md) — a gamified variant that builds emotion vocabulary through play
+- ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — a gamified variant that builds emotion vocabulary through play
 - [5-Minute Writing Conferences](../strategies/5-minute_writing_conferences.md) — a follow-up channel for students whose emoji signals a need for individual attention
 
 ## Related Elements

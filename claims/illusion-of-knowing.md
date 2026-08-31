@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Learners mistake fluency and familiarity for actual knowledge, producing an illusion of knowing
-status: review
+status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30

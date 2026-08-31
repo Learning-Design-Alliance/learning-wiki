@@ -58,7 +58,7 @@ The strategy works primarily through belonging and personalization rather than d
 
 ## Related Strategies
 - [Activating Background Knowledge](../strategies/activating-prior-knowledge.md) — home objects are a concrete hook for connecting students' out-of-school knowledge to classroom learning
-- [Academic Choice](../strategies/academic_choice_(planning,_working,_reflecting).md) — like choice of a personal object, structured autonomy supports ownership of the classroom space
+- [Academic Choice](<../strategies/academic_choice_(planning,_working,_reflecting).md>) — like choice of a personal object, structured autonomy supports ownership of the classroom space
 
 ## Examples
 - **Responsive Classroom practices** (Center for Responsive Schools, https://www.responsiveschools.org) — early-year community-building routines include family photo displays and sharing circles that normalize home-to-school connection.

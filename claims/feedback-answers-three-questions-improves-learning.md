@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning
-status: review
+status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30

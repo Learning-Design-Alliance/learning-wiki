@@ -70,7 +70,7 @@ Track student participation and leadership in decision-making meetings, students
 Students who receive self-determination instruction show greater goal attainment and stronger postschool employment and education outcomes than comparable peers who do not [+M]. Effects are strongest when instruction is sustained across years rather than delivered as a single unit [~M].
 
 ## Related Strategies
-- [Academic Choice (Planning, Working, Reflecting)](academic_choice_(planning,_working,_reflecting).md) — a structured choice routine that builds the decision-making muscles agency requires
+- [Academic Choice (Planning, Working, Reflecting)](<academic_choice_(planning,_working,_reflecting).md>) — a structured choice routine that builds the decision-making muscles agency requires
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — the goal-setting and self-monitoring cycle underlying student-directed learning
 
 ## Related Elements
