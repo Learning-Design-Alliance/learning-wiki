@@ -75,6 +75,6 @@ Sentence combining works because it makes syntactic construction the explicit ob
 
 ## Key Sources
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
-- Saddler, B., & Graham, S. (2005). The effects of peer-assisted sentence-combining instruction on the writing of more and less skilled young writers. *Journal of Educational Psychology, 97*(1), 43–54.
+- Saddler, B., & Graham, S. (2005). The Effects of Peer-Assisted Sentence-Combining Instruction on the Writing Performance of More and Less Skilled Young Writers. *Journal of Educational Psychology, 97*(1), 43–54. [doi:10.1037/0022-0663.97.1.43](https://doi.org/10.1037/0022-0663.97.1.43)
 - Andrews, R., Torgerson, C., Beverton, S., Freeman, A., Locke, T., Low, G., Robinson, A., & Zhu, D. (2006). The effects of grammar teaching on writing development. *British Educational Research Journal, 32*(1), 39–55. [doi:10.1080/01411920500401997](https://doi.org/10.1080/01411920500401997)
 - Hochman, J. C., & Wexler, N. (2017). *The Writing Revolution: A Guide to Advancing Thinking Through Writing in All Subjects and Grades*. Jossey-Bass.

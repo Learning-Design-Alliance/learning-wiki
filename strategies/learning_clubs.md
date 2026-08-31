@@ -69,7 +69,7 @@ Learning clubs combine two well-supported levers: autonomy through topic choice 
 - **Concept-Oriented Reading Instruction (CORI)** — Guthrie's research program embedding student choice and social collaboration in content-area reading instruction.
 
 ## Key Sources
-- Patall, E. A., Cooper, H., & Robinson, J. C. (2008). The effects of choice on intrinsic motivation and related outcomes: A meta-analysis of research on choice. *Psychological Bulletin, 134*(2), 270–300.
+- Patall, E. A., Cooper, H., & Robinson, J. C. (2008). The effects of choice on intrinsic motivation and related outcomes: A meta-analysis of research findings. *Psychological Bulletin, 134*(2), 270–300. [doi:10.1037/0033-2909.134.2.270](https://doi.org/10.1037/0033-2909.134.2.270)
 - Daniels, H. (2002). *Literature circles: Voice and choice in book clubs and reading groups* (2nd ed.). Stenhouse Publishers.
 - Guthrie, J. T., Wigfield, A., & You, W. (2012). Instructional contexts for engagement and achievement. In S. L. Christenson et al. (Eds.), *Handbook of research on student engagement* (pp. 601–634). Springer. [doi:10.1007/978-1-4614-2018-7_29](https://doi.org/10.1007/978-1-4614-2018-7_29)
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)

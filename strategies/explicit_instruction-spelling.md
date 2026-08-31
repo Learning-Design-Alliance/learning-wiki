@@ -17,7 +17,7 @@ Explicit spelling instruction directly teaches spelling rules, patterns, and str
 
 ## Design Implications
 
-Explicit instruction outperforms incidental or naturalistic approaches to spelling: meta-analytic evidence shows formal spelling instruction improves both spelling accuracy and, to a lesser degree, reading performance, while unguided "natural learning" approaches produce weaker outcomes [Spelling instruction improves spelling and reading outcomes relative to incidental approaches.](https://doi.org/10.1007/s11145-014-9517-0) [+S]. Because spelling depends on mapping sounds to letter patterns, instruction that makes those mappings explicit — rather than asking learners to infer them from reading alone — reduces the search space novices face [Phonics instruction outperforms whole-word approaches for generalization.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. Retention depends on distributed review: words taught once and dropped are quickly forgotten, so recycling must be scheduled [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+Does spelling instruction make students better spellers, readers, and writers? A meta-analytic reviewhttps://doi.org/10.1007/s11145-014-9517-0) [+S]. Because spelling depends on mapping sounds to letter patterns, instruction that makes those mappings explicit — rather than asking learners to infer them from reading alone — reduces the search space novices face [Phonics instruction outperforms whole-word approaches for generalization.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. Retention depends on distributed review: words taught once and dropped are quickly forgotten, so recycling must be scheduled [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
 
 ### Context
 #### Requirements
@@ -67,7 +67,7 @@ Explicit instruction outperforms incidental or naturalistic approaches to spelli
 - **Test-study-test in classroom practice** — a weekly cycle in which Monday's pretest errors drive individualized study lists, with previously missed words reappearing on later tests until mastered.
 
 ## Key Sources
-- Graham, S., & Santangelo, T. (2014). Does spelling instruction make students better spellers or readers? A meta-analytic review. *Reading and Writing, 27*(9), 1703–1743.
+- Graham, S., & Santangelo, T. (2014). Does spelling instruction make students better spellers, readers, and writers? A meta-analytic review *Reading and Writing, 27*(9), 1703–1743. [doi:10.1007/s11145-014-9517-0](https://doi.org/10.1007/s11145-014-9517-0)
 - Graham, S. (2000). Should the natural learning approach replace spelling instruction? *Journal of Educational Psychology, 92*(2), 235–247. [doi:10.1037/0022-0663.92.2.235](https://doi.org/10.1037/0022-0663.92.2.235)
 - Ehri, L. C. (2000). Learning to read and learning to spell: Two sides of a coin. *Topics in Language Disorders, 20*(3), 19–36. [doi:10.1097/00011363-200020030-00005](https://doi.org/10.1097/00011363-200020030-00005)
 - Joshi, R. M., Treiman, R., Carreker, S., & Moats, L. C. (2008). How words cast their spell: Spelling is an integral part of learning the language, not a matter of memorization. *American Educator, 32*(4), 6–16, 42–43.

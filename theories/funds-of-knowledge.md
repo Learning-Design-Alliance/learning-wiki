@@ -52,5 +52,5 @@ Funds of knowledge (Moll, Amanti, Neff & Gonzalez, 1992) refers to the historica
 
 ## Key Sources
 - Randall, J., Earnest, D., Thota, N., & Mensing, S. (2025). Investigating and assessing informal computational thinking in grades K-2: A funds of knowledge approach. *Journal of the Learning Sciences, 34*(4), 526-570. [https://doi.org/10.1080/10508406.2025.2574311](https://doi.org/10.1080/10508406.2025.2574311)
-- Moll, L. C., Amanti, C., Neff, D., & Gonzalez, N. (1992). Funds of knowledge for teaching: Using a qualitative approach to connect homes and classrooms. *Theory Into Practice, 31*(2), 132-141.
+- Moll, L. C., Amanti, C., Neff, D., & Gonzalez, N. (1992). Funds of knowledge for teaching: Using a qualitative approach to connect homes and classrooms. *Theory Into Practice, 31*(2), 132-141. [doi:10.1080/00405849209543534](https://doi.org/10.1080/00405849209543534)
 - Solomon, F., Champion, D., Steele, M., & Wright, T. (2022). Embodied physics: Utilizing dance resources for learning and engagement in STEM. *Journal of the Learning Sciences, 31*(1), 73-106. [https://doi.org/10.1080/10508406.2021.2023543](https://doi.org/10.1080/10508406.2021.2023543)
