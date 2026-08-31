@@ -17,7 +17,7 @@ Positive Behavior Interventions and Supports (PBIS) is a multi-tiered framework 
 
 ## Design Implications
 
-PBIS treats behavior as a learnable skill rather than an innate trait, applying the same instructional logic to conduct as to academics: expectations are modeled, practiced, and reinforced [Horner et al.'s randomized trials show schoolwide PBIS reduces office discipline referrals and suspensions.](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) [+S]. Acknowledgment systems work because contingent, frequent reinforcement of expected behavior outcompetes attention paid to problem behavior [Behavior is shaped by its consequences.](../../theories/behaviorism.md) [+S]. The framework's tiered structure (universal, targeted, intensive) mirrors [Scaffolding](../elements/scaffolding.md) logic: most students thrive on universal supports alone, while a minority receive progressively more individualized intervention.
+PBIS treats behavior as a learnable skill rather than an innate trait, applying the same instructional logic to conduct as to academics: expectations are modeled, practiced, and reinforced [Horner et al.'s randomized trials show schoolwide PBIS reduces office discipline referrals and suspensions.](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) [+S]. Acknowledgment systems work because contingent, frequent reinforcement of expected behavior outcompetes attention paid to problem behavior [Behavior is shaped by its consequences.](../theories/behaviorism.md) [+S]. The framework's tiered structure (universal, targeted, intensive) mirrors [Scaffolding](../elements/scaffolding.md) logic: most students thrive on universal supports alone, while a minority receive progressively more individualized intervention.
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ PBIS treats behavior as a learnable skill rather than an innate trait, applying 
 
 #### Constraints
 - Implementation without fidelity — adopting the token economy but skipping explicit teaching of expectations — produces weak or null effects [-M]
-- Acknowledgment systems can backfire when rewards feel controlling or are applied inconsistently across staff [Extrinsic rewards can undermine intrinsic motivation when perceived as controlling.](../../theories/self-determination-theory.md) [~M] — tokens should function as feedback, not payment
+- Acknowledgment systems can backfire when rewards feel controlling or are applied inconsistently across staff [Extrinsic rewards can undermine intrinsic motivation when perceived as controlling.](../theories/self-determination-theory.md) [~M] — tokens should function as feedback, not payment
 - Punitive responses (exclusionary discipline) remain counterproductive even as a backstop; suspensions predict worse academic and behavioral trajectories [-S]
 - Effects on academic achievement are smaller and less consistent than effects on discipline outcomes [~M]
 - Inconsistent staff implementation is the most common failure mode; a framework adopted by some teachers but not others loses its predictability advantage
@@ -48,7 +48,7 @@ PBIS treats behavior as a learnable skill rather than an innate trait, applying 
 
 ### Target Learning Goals
 - Procedural skill acquisition: knowing what expected behavior looks like in each setting
-- Self-regulation: internalizing expectations so monitoring shifts from external tokens to self-management [Self-regulated learning develops through modeled strategies and gradual transfer of control.](../../theories/self-regulated-learning.md) [+M]
+- Self-regulation: internalizing expectations so monitoring shifts from external tokens to self-management [Self-regulated learning develops through modeled strategies and gradual transfer of control.](../theories/self-regulated-learning.md) [+M]
 - School climate and belonging: predictable, positively framed environments increase students' sense of belonging [Belonging interventions improve student outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M]
 
 ### Instructions

@@ -22,6 +22,7 @@ import json
 import re
 import sys
 import argparse
+import urllib.parse
 from pathlib import Path
 from collections import defaultdict
 
@@ -71,7 +72,16 @@ def check_broken_links(pages: dict[str, Path]) -> list[dict]:
             target = m.group(1)
             if target.startswith(("http://", "https://")):
                 continue
-            target_path = (path.parent / target).resolve()
+            # Percent-decode before hitting the filesystem. A markdown link to
+            # a page whose filename contains an apostrophe, a question mark, a
+            # comma or a quote MUST encode those characters to be a valid link
+            # target, and mkdocs resolves the encoded form correctly — but this
+            # check compared the still-encoded string against real filenames and
+            # reported every one of them broken. Nine of this wiki's twenty
+            # "broken" links were this false positive (the '%27what%27s_my_
+            # emotion%3F%27_game_check-in.md' family), all of them links that
+            # build fine under `mkdocs build --strict`.
+            target_path = (path.parent / urllib.parse.unquote(target)).resolve()
             if not target_path.exists():
                 issues.append({
                     "file": str(path.relative_to(WIKI_ROOT)),

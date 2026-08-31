@@ -54,7 +54,7 @@ The strategy works because it forces selection and hierarchical organization —
 5. Export the outline as a table of contents and use it as the skeleton for drafting or revising the essay.
 
 ## Related Strategies
-- ["Headings and Highlight" strategy]("_headings_and_highlight"_strategy.md) — the same heading-as-structure move applied to text marking rather than outlining
+- ["Headings and Highlight" strategy](headings_and_highlight_strategy.md) — the same heading-as-structure move applied to text marking rather than outlining
 - [3-Source Rule](3-source_rule.md) — a complementary constraint on how much evidence students gather per main idea
 
 ## Examples
