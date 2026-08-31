@@ -69,5 +69,5 @@ Station rotation operationalizes [Active Learning](../principles/active-learning
 ## Key Sources
 - Horn, M. B., & Staker, H. (2015). *Blended: Using disruptive innovation to improve schools*. Jossey-Bass.
 - Freeman, S., et al. (2014). Active learning increases student performance in science, engineering, and mathematics. *PNAS, 111*(23), 8410–8415. [doi:10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)
-- Means, B., Toyama, Y., Murphy, R., & Baki, M. (2013). The effectiveness of online and blended learning: A meta-analysis of the empirical literature. *Teachers College Record, 115*(3), 1–47. [doi:10.1177/016146811311500307](https://doi.org/10.1177/016146811311500307)
+- Means, B., Toyama, Y., Murphy, R., & Baki, M. (2013). The effectiveness of online and blended learning: A meta-analysis of the empirical literature. *Teachers College Record: The Voice of Scholarship in Education, 115*(3), 1-47. [doi:10.1177/016146811311500307](https://doi.org/10.1177/016146811311500307)
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)

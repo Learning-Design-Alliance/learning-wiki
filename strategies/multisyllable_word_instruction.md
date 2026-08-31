@@ -84,7 +84,7 @@ Multisyllable word instruction reduces the working-memory burden of decoding lon
 
 ## Key Sources
 - Ehri, L. C., Nunes, S. R., Stahl, S. A., & Willoughby, D. (2001). Systematic phonics instruction helps students learn to read: Evidence from the National Reading Panel's meta-analysis. *Review of Educational Research, 71*(3), 393–447. [doi:10.3102/00346543071003393](https://doi.org/10.3102/00346543071003393)
-- Bhattacharya, A., & Ehri, L. C. (2004). Graphosyllabic analysis helps adolescent struggling readers read and spell words. *Journal of Educational Psychology, 96*(1), 27–39. [doi:10.1177/00222194040370040501](https://doi.org/10.1177/00222194040370040501)
+- Bhattacharya, A., & Ehri, L. C. (2004). Graphosyllabic analysis helps adolescent struggling readers read and spell words. *Journal of Learning Disabilities, 37*(4), 331-348. [doi:10.1177/00222194040370040501](https://doi.org/10.1177/00222194040370040501)
 - Archer, A. L., Gleason, M. M., & Vachon, V. L. (2003). Decoding and fluency: Foundation skills for struggling older readers. *Learning Disability Quarterly, 26*(2), 89–101. [doi:10.2307/1593592](https://doi.org/10.2307/1593592)
 - Moats, L. C. (2000). *Speech to print: Language essentials for teachers.* Brookes Publishing.
 - Nagy, W. E., & Anderson, R. C. (1984). How many words are there in printed school English? *Reading Research Quarterly, 19*(3), 304–330. [doi:10.2307/747823](https://doi.org/10.2307/747823)

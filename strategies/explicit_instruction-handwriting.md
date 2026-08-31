@@ -66,6 +66,6 @@ Handwriting is a transcription skill: until letter production is automatic, it c
 
 ## Key Sources
 - Graham, S., Harris, K. R., & Fink, B. (2000). Is handwriting causally related to learning to write? Treatment of handwriting problems in beginning writers. *Journal of Educational Psychology, 92*(4), 620–633. [doi:10.1037/0022-0663.92.4.620](https://doi.org/10.1037/0022-0663.92.4.620)
-- Santangelo, T., & Graham, S. (2016). A comprehensive meta-analysis of handwriting instruction. *Journal of Educational Psychology, 108*(5), 665–700. [doi:10.1007/s10648-015-9335-1](https://doi.org/10.1007/s10648-015-9335-1)
+- Santangelo, T., & Graham, S. (2016). A comprehensive meta-analysis of handwriting instruction. *Educational Psychology Review, 28*(2), 225-265. [doi:10.1007/s10648-015-9335-1](https://doi.org/10.1007/s10648-015-9335-1)
 - Berninger, V. W., Vaughan, K. B., Abbott, R. D., Begay, K., Coleman, K. B., Curtin, G., Hawkins, J. M., & Graham, S. (2002). Teaching spelling and composition alone and together: Implications for the simple view of writing. *Journal of Educational Psychology, 94*(2), 291–304. [doi:10.1037/0022-0663.94.2.291](https://doi.org/10.1037/0022-0663.94.2.291)
-- James, K. H., & Engelhardt, L. (2012). The effects of handwriting experience on literacy learning. *Trends in Neuroscience and Education, 1*(2), 32–42. [doi:10.1016/j.tine.2012.08.001](https://doi.org/10.1016/j.tine.2012.08.001)
+- James, K. H., & Engelhardt, L. (2012). The effects of handwriting experience on literacy learning. *Trends in Neuroscience and Education, 1*(2), 32–42.

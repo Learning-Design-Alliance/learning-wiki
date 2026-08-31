@@ -64,7 +64,7 @@ Awareness of one's own biases is a necessary but insufficient first step; meta-a
 - **Structured hiring panels** — organizations such as orchestras adopting blind auditions and panel formats to reduce bias in evaluation decisions.
 
 ## Key Sources
-- Forscher, P. S., Lai, C. K., Axt, J. R., Ebersole, C. R., Herman, M., Devine, P. G., & Nosek, B. A. (2019). A meta-analysis of procedures to change implicit bias. *Psychological Bulletin, 145*(6), 522–561. [doi:10.1037/pspa0000160](https://doi.org/10.1037/pspa0000160)
+- Forscher, P. S., Lai, C. K., Axt, J. R., Ebersole, C. R., Herman, M., Devine, P. G., & Nosek, B. A. (2019). A meta-analysis of procedures to change implicit bias. *Psychological Bulletin, 145*(6), 522–561.
 - Devine, P. G. (1989). Stereotypes and prejudice: Their automatic and controlled components. *Journal of Personality and Social Psychology, 56*(1), 5–18. [doi:10.1037/0022-3514.56.1.5](https://doi.org/10.1037/0022-3514.56.1.5)
 - Lai, C. K., Marini, M., Lehr, S. A., Cerruti, C., Shin, J.-E. L., Joy-Gaba, J. A., … Nosek, B. A. (2014). Reducing implicit racial preferences: I. A comparative investigation of 17 interventions. *Journal of Experimental Psychology: General, 143*(4), 1765–1784. [doi:10.1037/pspi0000339](https://doi.org/10.1037/pspi0000339)
 - Greenwald, A. G., & Krieger, L. H. (2006). Implicit bias: Scientific foundations. *California Law Review, 94*(4), 945–967. [doi:10.2307/20439057](https://doi.org/10.2307/20439057)

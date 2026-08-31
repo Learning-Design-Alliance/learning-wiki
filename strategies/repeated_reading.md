@@ -70,5 +70,5 @@ Repeated reading exploits the fact that word recognition is the bottleneck for c
 ## Key Sources
 - Samuels, S. J. (1979). The method of repeated reading. *The Reading Teacher, 32*(4), 403–408.
 - Therrien, W. J. (2004). Fluency and comprehension gains as a result of repeated reading: A meta-analysis. *Remedial and Special Education, 25*(4), 252–261. [doi:10.1177/07419325040250040801](https://doi.org/10.1177/07419325040250040801)
-- Lee, J., & Yoon, S. Y. (2017). The effects of repeated reading on reading fluency and comprehension for middle school students with specific learning disabilities. *Learning Disability Quarterly, 40*(2), 106–115. [doi:10.1177/0022219415605194](https://doi.org/10.1177/0022219415605194)
+- Lee, J., & Yoon, S. Y. (2017). The effects of repeated reading on reading fluency and comprehension for middle school students with specific learning disabilities. *Journal of Learning Disabilities, 50*(2), 213-224. [doi:10.1177/0022219415605194](https://doi.org/10.1177/0022219415605194)
 - National Institute of Child Health and Human Development. (2000). *Report of the National Reading Panel: Teaching children to read* (NIH Publication No. 00-4769). U.S. Government Printing Office. [https://www.nichd.nih.gov/research/supported/nrp](https://www.nichd.nih.gov/research/supported/nrp)

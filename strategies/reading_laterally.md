@@ -65,7 +65,7 @@ Lateral reading works because it shifts evaluation from judging a source's self-
 - **Classroom routine**: when a student cites a website, the class spends five minutes laterally reading the site's funders and reputation before discussing its content, making the verification visible rather than private.
 
 ## Key Sources
-- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: The studies of civic online reasoning. *Teachers College Record, 121*(11), 1–32. [doi:10.37016/mr-2020-56](https://doi.org/10.37016/mr-2020-56)
-- Breakstone, J., Smith, M., Ortega, P., Kerr, D., & Wineburg, S. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8), 539–550. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
-- McGrew, S., Breakstone, J., Ortega, T., Richardson, M., & Wineburg, S. (2019). Can students evaluate online sources? Learning from assessments of civic online reasoning. *Theory & Research in Social Education, 47*(2), 165–193. [doi:10.1080/00933104.2017.1416320](https://doi.org/10.1080/00933104.2017.1416320)
+- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: The studies of civic online reasoning. *Teachers College Record, 121*(11), 1–32.
+- Breakstone, J., Smith, M., Ortega, P., Kerr, D., & Wineburg, S. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8), 505-515. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
+- McGrew, S., Breakstone, J., Ortega, T., Richardson, M., & Wineburg, S. (2019). Can students evaluate online sources? Learning from assessments of civic online reasoning. *Theory &amp; Research in Social Education, 46*(2), 165-193. [doi:10.1080/00933104.2017.1416320](https://doi.org/10.1080/00933104.2017.1416320)
 - Wineburg, S., McGrew, S., Breakstone, J., & Ortega, T. (2016). *Evaluating information: The cornerstone of civic online reasoning.* Stanford Digital Repository.

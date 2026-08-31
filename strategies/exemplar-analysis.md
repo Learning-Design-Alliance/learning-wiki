@@ -70,5 +70,5 @@ Exemplars give novices a concrete reference model, reducing unguided search duri
 ## Key Sources
 - Sweller, J., & Cooper, G. A. (1985). The use of worked examples as a substitute for problem solving in learning algebra. *Cognition and Instruction, 2*(1), 59–89. [doi:10.1207/s1532690xci0201_3](https://doi.org/10.1207/s1532690xci0201_3)
 - van Gog, T., & Rummel, N. (2010). Example-based learning: Integrating cognitive and social-cognitive research perspectives. *Educational Psychology Review, 22*(2), 155–174. [doi:10.1007/s10648-010-9134-7](https://doi.org/10.1007/s10648-010-9134-7)
-- Durkin, K., & Rittle-Johnson, B. (2012). The effectiveness of using incorrect examples to support learning and decoding of fractions. *Learning and Instruction, 22*(1), 66–74. [doi:10.1016/j.learninstruc.2011.11.001](https://doi.org/10.1016/j.learninstruc.2011.11.001)
-- Renkl, A. (2014). Toward an instructionally oriented theory of example-based learning. *Cognitive Science, 38*(7), 1431–1476. [doi:10.1111/cogs.12086](https://doi.org/10.1111/cogs.12086)
+- Durkin, K., & Rittle-Johnson, B. (2012). The effectiveness of using incorrect examples to support learning and decoding of fractions. *Learning and Instruction, 22*(3), 206-214. [doi:10.1016/j.learninstruc.2011.11.001](https://doi.org/10.1016/j.learninstruc.2011.11.001)
+- Renkl, A. (2014). Toward an instructionally oriented theory of example-based learning. *Cognitive Science, 38*(1), 1-37. [doi:10.1111/cogs.12086](https://doi.org/10.1111/cogs.12086)

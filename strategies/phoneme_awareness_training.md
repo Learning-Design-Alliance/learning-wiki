@@ -66,7 +66,7 @@ Phoneme awareness is one of the best-established causal predictors of reading an
 - **"Sound workout" with manipulatives** — small-group sessions where learners represent each sound in a word with a block before spelling it.
 
 ## Key Sources
-- Ehri, L. C., Nunes, S. R., Willows, D. M., & Valeska Schuster, B. (2001). Phonemic awareness instruction helps children learn to read: Evidence from the National Reading Panel's meta-analysis. *Reading Research Quarterly, 36*(3), 250–287. [doi:10.1598/RRQ.36.3.5](https://doi.org/10.1598/RRQ.36.3.5)
+- Ehri, L. C., Nunes, S. R., Willows, D. M., & Valeska Schuster, B. (2001). Phonemic awareness instruction helps children learn to read: Evidence from the National Reading Panel's meta-analysis. *Reading Research Quarterly, 36*(3), 250–287.
 - Bradley, L., & Bryant, P. E. (1983). Categorizing sounds and learning to read — a causal connection. *Nature, 301*, 419–421. [doi:10.1038/301419a0](https://doi.org/10.1038/301419a0)
 - Melby-Lervåg, M., Hulme, C., & Halaas Lyster, S.-A. (2012). Phonological skills and their role in learning to read: A meta-analytic review. *Psychological Bulletin, 138*(2), 322–352. [doi:10.1037/a0026744](https://doi.org/10.1037/a0026744)
 - National Reading Panel. (2000). *Teaching children to read: An evidence-based assessment of the scientific research literature on reading and its implications for reading instruction.* National Institute of Child Health and Human Development.

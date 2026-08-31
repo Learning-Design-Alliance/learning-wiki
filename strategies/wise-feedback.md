@@ -67,7 +67,7 @@ Wise feedback works because critical feedback is ambiguous: learners — especia
 
 ## Key Sources
 - Yeager, D. S., & Cohen, G. L. (2012). Turning play into work: The effects of teacher surveillance and reprimand on student motivation. In *Advances in Motivation and Achievement* (Vol. 17). Emerald.
-- Yeager, D. S., Purdie-Vaughns, V., Garcia, J., Apfel, N., Brzustoski, P., Master, A., Hessert, W. T., Williams, M. E., & Cohen, G. L. (2014). Breaking the cycle of mistrust: Wise interventions to provide critical feedback across the racial divide. *Journal of Experimental Psychology: General, 143*(2), 804–824. [doi:10.1037/a0033906](https://doi.org/10.1037/a0033906)
+- Yeager, D. S., Purdie-Vaughns, V., Garcia, J., Apfel, N., Brzustoski, P., Master, A., Hessert, W. T., Williams, M. E., & Cohen, G. L. (2014). Breaking the cycle of mistrust: Wise interventions to provide critical feedback across the racial divide. *Journal of Experimental Psychology: General, 143*(2), 804–824.
 - Cohen, G. L., Steele, C. M., & Ross, L. D. (1999). The mentor's dilemma: Providing critical feedback across the racial divide. *Personality and Social Psychology Bulletin, 25*(10), 1302–1318. [doi:10.1177/0146167299258011](https://doi.org/10.1177/0146167299258011)
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
 - Walton, G. M., & Wilson, T. D. (2018). Wise interventions: Psychological remedies for social and personal problems. *Psychological Review, 125*(5), 617–655. [doi:10.1037/rev0000115](https://doi.org/10.1037/rev0000115)

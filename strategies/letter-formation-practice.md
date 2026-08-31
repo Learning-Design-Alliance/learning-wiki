@@ -65,7 +65,7 @@ Handwriting practice builds a motor memory for each letter that supports rapid, 
 - **Montessori sandpaper letters** — tactile tracing with simultaneous letter-name/sound articulation before pencil writing.
 
 ## Key Sources
-- Graham, S., Harris, K. R., & Fink, B. (2000). Extra handwriting instruction: Prevent writing difficulties in a first-grade classroom. *Journal of Educational Psychology, 92*(4), 620–633. [doi:10.1037/0022-0663.92.4.620](https://doi.org/10.1037/0022-0663.92.4.620)
+- Graham, S., Harris, K. R., & Fink, B. (2000). Extra handwriting instruction: Prevent writing difficulties in a first-grade classroom. *Journal of Educational Psychology, 92*(4), 620–633.
 - Longcamp, M., Zerbato-Poudou, M.-T., & Velay, J.-L. (2005). The influence of writing practice on letter recognition in preschool children: A comparison between learning handwriting and learning to type letters. *Computers & Education, 44*(3)... see also *Neuropsychologia* work on handwriting and letter recognition. [doi:10.1016/j.actpsy.2004.10.019](https://doi.org/10.1016/j.actpsy.2004.10.019)
-- James, K. H., & Engelhardt, L. (2012). The effects of handwriting experience on literacy learning. *Trends in Neuroscience and Education, 1*(2), 56–60. [doi:10.1016/j.tine.2012.08.001](https://doi.org/10.1016/j.tine.2012.08.001)
+- James, K. H., & Engelhardt, L. (2012). The effects of handwriting experience on literacy learning. *Trends in Neuroscience and Education, 1*(2), 56–60.
 - Berninger, V. W., et al. (2006). Early development of language by hand: Composing, reading, listening, and speaking connections; three letter-writing modes; and fast mapping in spelling. *Developmental Neuropsychology, 29*(1), 61–92. [doi:10.1207/s15326942dn2901_5](https://doi.org/10.1207/s15326942dn2901_5)

@@ -69,5 +69,5 @@ Calm-down corners operationalize emotion regulation instruction by giving learne
 ## Key Sources
 - Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development, 82*(1), 405–432. [doi:10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x)
 - Gross, J. J. (2015). Emotion regulation: Current status and future prospects. *Psychological Inquiry, 26*(1), 1–26. [doi:10.1080/1047840X.2014.940781](https://doi.org/10.1080/1047840X.2014.940781)
-- Jones, S. M., & Bouffard, S. M. (2012). Social and emotional learning in schools: From programs to strategies. *Social Policy Report, 26*(4), 1–33. [doi:10.1002/j.2379-3988.2012.tb00073.x](https://doi.org/10.1002/j.2379-3988.2012.tb00073.x)
+- Jones, S. M., & Bouffard, S. M. (2012). Social and emotional learning in schools: From programs to strategies. *Child Policy Nexus, 26*(4), 1-33. [doi:10.1002/j.2379-3988.2012.tb00073.x](https://doi.org/10.1002/j.2379-3988.2012.tb00073.x)
 - CASEL. (2020). *CASEL's SEL framework*. Collaborative for Academic, Social, and Emotional Learning. [https://casel.org](https://casel.org)

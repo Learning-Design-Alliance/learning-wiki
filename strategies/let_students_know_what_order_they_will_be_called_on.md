@@ -69,6 +69,6 @@ Predictability reduces the cognitive and emotional load of participation: when s
 
 ## Key Sources
 - Rowe, M. B. (1986). Wait time: Slowing down may be a way of speeding up! *Journal of Teacher Education, 37*(1), 43–50. [doi:10.1177/002248718603700110](https://doi.org/10.1177/002248718603700110)
-- Dallimore, E. J., Hertenstein, J. H., & Platt, M. B. (2013). Impact of cold-calling on student voluntary participation and perceptions of learning. *Journal on Excellence in College Teaching, 24*(3), 25–52. [doi:10.1177/1052562912446067](https://doi.org/10.1177/1052562912446067)
+- Dallimore, E. J., Hertenstein, J. H., & Platt, M. B. (2013). Impact of cold-calling on student voluntary participation and perceptions of learning. *Journal of Management Education, 37*(3), 305-341. [doi:10.1177/1052562912446067](https://doi.org/10.1177/1052562912446067)
 - Waugh, R. F., & Andrews, B. (2006). Positive and negative effects of using class rules to manage student behaviour. *International Education Journal, 7*(2), 197–211.
 - Tomlinson, C. A. (2014). *The differentiated classroom: Responding to the needs of all learners* (2nd ed.). ASCD.

@@ -70,7 +70,7 @@ Checklists like CRAAP reduce the working-memory and expertise demands of source 
 
 ## Key Sources
 - Blakeslee, S. (2004). The CRAAP test. *LOEX Quarterly, 31*(3).
-- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(11), 1–40. [doi:10.37016/mr-2020-56](https://doi.org/10.37016/mr-2020-56)
-- Breakstone, J., Smith, M., Ortega-Wollberg, L., Wineburg, S., Donenfeld, J., & Ziv, M. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8), 539–548. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
+- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(11), 1–40.
+- Breakstone, J., Smith, M., Ortega-Wollberg, L., Wineburg, S., Donenfeld, J., & Ziv, M. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8), 505-515. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
 - Meola, M. (2004). Chucking the checklist: A contextual approach to teaching undergraduates web-site evaluation. *portal: Libraries and the Academy, 4*(3), 331–344. [doi:10.1353/pla.2004.0055](https://doi.org/10.1353/pla.2004.0055)
 - Caulfield, M. (2017). *Web literacy for student fact-checkers... and other people who care about facts.* Pressbooks. [webliteracy.pressbooks.com](https://webliteracy.pressbooks.com)

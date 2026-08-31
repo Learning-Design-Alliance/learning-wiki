@@ -69,7 +69,7 @@ Read-alouds give learners access to ideas and language they could not yet decode
 
 ## Key Sources
 - Beck, I. L., & McKeown, M. G. (2001). Text Talk: Capturing the benefits of read-aloud experiences for young children. *The Reading Teacher, 55*(1), 10–20.
-- Dickinson, D. K., & Smith, M. W. (1994). Long-term effects of preschool teachers' book readings on low-income children's vocabulary and story comprehension. *Reading Research Quarterly, 29*(2), 105–122. [doi:10.2307/747807](https://doi.org/10.2307/747807)
+- Dickinson, D. K., & Smith, M. W. (1994). Long-term effects of preschool teachers' book readings on low-income children's vocabulary and story comprehension. *Reading Research Quarterly, 29*(2), 104. [doi:10.2307/747807](https://doi.org/10.2307/747807)
 - Fisher, D., Flood, J., Lapp, D., & Frey, N. (2004). Interactive read-alouds: Is there a common set of implementation practices? *The Reading Teacher, 58*(1), 8–17. [doi:10.1598/RT.58.1.1](https://doi.org/10.1598/RT.58.1.1)
 - Takacs, Z. K., Swart, E. K., & Bus, A. G. (2015). Benefits and pitfalls of multimedia and interactive features in technology-enhanced storybooks: A meta-analysis. *Review of Educational Research, 85*(4), 698–739. [doi:10.3102/0034654314566989](https://doi.org/10.3102/0034654314566989)
 - Whitehurst, G. J., et al. (1988). Accelerating language development through picture book reading. *Developmental Psychology, 24*(4), 552–559. [doi:10.1037/0012-1649.24.4.552](https://doi.org/10.1037/0012-1649.24.4.552)

@@ -66,6 +66,6 @@ The CRAAP Test gives learners a concrete, structured procedure for a judgment ta
 
 ## Key Sources
 - Blakeslee, S. (2004). The CRAAP test. *LOEX Quarterly, 31*(3).
-- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(11), 1–40. [doi:10.37016/mr-2020-56](https://doi.org/10.37016/mr-2020-56)
+- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(11), 1–40.
 - Breakstone, J., Smith, M., Wineburg, S., Wilson, A., Kirschner, P., & Chen, D. (2018). Students evaluate news sources, but not as well as we'd hoped. *Teachers College Record, 120*(14), 1–24.
-- McGrew, S., Breakstone, J., Ortega, T., Smith, M., & Wineburg, S. (2018). Can students evaluate online sources? Learning from assessments of civic online reasoning. *Theory & Research in Social Education, 46*(2), 165–193. [doi:10.1080/00933104.2017.1416320](https://doi.org/10.1080/00933104.2017.1416320)
+- McGrew, S., Breakstone, J., Ortega, T., Smith, M., & Wineburg, S. (2018). Can students evaluate online sources? Learning from assessments of civic online reasoning. *Theory &amp; Research in Social Education, 46*(2), 165-193. [doi:10.1080/00933104.2017.1416320](https://doi.org/10.1080/00933104.2017.1416320)

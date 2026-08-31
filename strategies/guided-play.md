@@ -71,7 +71,7 @@ Guided play leverages children's intrinsic motivation by preserving autonomy whi
 
 ## Key Sources
 - Weisberg, D. S., Hirsh-Pasek, K., & Golinkoff, R. M. (2013). Guided play: Where curricular goals meet a playful pedagogy. *Mind, Brain, and Education, 7*(2), 104–112. [doi:10.1111/mbe.12015](https://doi.org/10.1111/mbe.12015)
-- Skene, K., O'Farrelly, C. M., Byrne, E. M., Kirby, N., Stevens, E. C., Ramchandani, P. G., & McGillicuddy-De Lisi, A. V. (2022). Can guidance during play enhance children's learning and development in educational contexts? A systematic review and meta-analysis. *Child Development, 93*(4), 1058–1080. [doi:10.1111/cdev.13730](https://doi.org/10.1111/cdev.13730)
+- Skene, K., O'Farrelly, C. M., Byrne, E. M., Kirby, N., Stevens, E. C., Ramchandani, P. G., & McGillicuddy-De Lisi, A. V. (2022). Can guidance during play enhance children's learning and development in educational contexts? A systematic review and meta-analysis. *Child Development, 93*(4), 1058–1080.
 - Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does discovery-based instruction enhance learning? A meta-analysis. *Journal of Educational Psychology, 103*(1), 1–18. [doi:10.1037/a0021017](https://doi.org/10.1037/a0021017)
 - Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes.* Harvard University Press.
 - Hirsh-Pasek, K., Golinkoff, R. M., Berk, L. E., & Singer, D. G. (2009). *A mandate for playful learning in preschool: Applying the scientific evidence.* Oxford University Press.

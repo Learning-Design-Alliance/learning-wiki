@@ -69,6 +69,6 @@ Self-talk analysis converts private, automatic cognition into data that learners
 
 ## Key Sources
 - Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive–developmental inquiry. *American Psychologist, 34*(10), 906–911. [doi:10.1037/0003-066X.34.10.906](https://doi.org/10.1037/0003-066X.34.10.906)
-- Hatzigeorgiadis, A., Zourbanos, N., Galanis, E., & Theodorakis, Y. (2011). Self-talk and sports performance: A meta-analysis. *Perspectives on Psychological Science, 6*(4), 376–389. [doi:10.1177/1745691611413136](https://doi.org/10.1177/1745691611413136)
+- Hatzigeorgiadis, A., Zourbanos, N., Galanis, E., & Theodorakis, Y. (2011). Self-talk and sports performance: A meta-analysis. *Perspectives on Psychological Science, 6*(4), 348-356. [doi:10.1177/1745691611413136](https://doi.org/10.1177/1745691611413136)
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
 - Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press.

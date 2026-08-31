@@ -69,5 +69,5 @@ Literature functions as a [Case Study](../elements/case-study.md) of human socia
 ## Key Sources
 - Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development, 82*(1), 405–432. [doi:10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x)
 - Kidd, D. C., & Castano, E. (2013). Reading literary fiction improves theory of mind. *Science, 342*(6156), 377–380. [doi:10.1126/science.1239918](https://doi.org/10.1126/science.1239918)
-- Mar, R. A., Oatley, K., & Peterson, J. B. (2009). Exploring the link between reading fiction and empathy: Ruling out individual differences and examining outcomes. *Communications, 34*(4), 407–428. [doi:10.1515/COMM.2009.025](https://doi.org/10.1515/COMM.2009.025)
+- Mar, R. A., Oatley, K., & Peterson, J. B. (2009). Exploring the link between reading fiction and empathy: Ruling out individual differences and examining outcomes. *COMM, 34*(4), 407-428. [doi:10.1515/COMM.2009.025](https://doi.org/10.1515/COMM.2009.025)
 - Jones, S. M., & Kahn, J. (2017). *The evidence base for how we learn: Supporting students' social, emotional, and academic development*. The Aspen Institute.

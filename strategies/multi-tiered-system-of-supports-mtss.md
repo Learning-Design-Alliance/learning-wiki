@@ -83,7 +83,7 @@ MTSS operationalizes prevention over remediation: the goal is to catch strugglin
 
 ## Key Sources
 - Fuchs, D., & Fuchs, L. S. (2006). Introduction to response to intervention: What, why, and how valid is it? *Reading Research Quarterly, 41*(1), 93–99. [doi:10.1598/RRQ.41.1.4](https://doi.org/10.1598/RRQ.41.1.4)
-- Fletcher, J. M., & Vaughn, S. (2009). Response to intervention: Preventing and remediating academic difficulties. *Journal of Learning Disabilities, 42*(2), 124–132. [doi:10.1111/j.1750-8606.2008.00072.x](https://doi.org/10.1111/j.1750-8606.2008.00072.x)
+- Fletcher, J. M., & Vaughn, S. (2009). Response to intervention: Preventing and remediating academic difficulties. *Child Development Perspectives, 3*(1), 30-37. [doi:10.1111/j.1750-8606.2008.00072.x](https://doi.org/10.1111/j.1750-8606.2008.00072.x)
 - Balu, R., Zhu, P., Doolittle, F., Schiller, E., Jenkins, J., & Gersten, R. (2015). *Evaluation of response to intervention practices for elementary school reading* (NCEE 2016-4000). National Center for Education Evaluation and Regional Assistance. [https://ies.ed.gov/ncee/pubs/20154001/](https://ies.ed.gov/ncee/pubs/20154001/)
 - Gersten, R., Beckmann, S., Clarke, B., Foegen, A., Marsh, L., Star, J. R., & Witzel, B. (2009). *Assisting students struggling with mathematics: Response to Intervention (RtI) for elementary and middle schools* (NCEE 2009-4060). National Center for Education Evaluation and Regional Assistance. [https://ies.ed.gov/ncee/wwc/PracticeGuide/2](https://ies.ed.gov/ncee/wwc/PracticeGuide/2)
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)

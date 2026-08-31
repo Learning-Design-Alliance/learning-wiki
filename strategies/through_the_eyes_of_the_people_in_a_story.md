@@ -77,7 +77,7 @@ Perspective-taking tasks deepen narrative comprehension by requiring learners to
 - Facing History and Ourselves ([https://www.facinghistory.org](https://www.facinghistory.org)) uses identity-centered perspective-taking routines on historical narratives, pairing close reading with in-character reflection and discussion.
 
 ## Key Sources
-- Mar, R. A., Oatley, K., & Peterson, J. B. (2009). Exploring the link between reading fiction and empathy: Ruling out individual differences and examining outcomes. *Journal of Research in Personality, 43*(5), 874–886. [doi:10.1515/comm.2009.025](https://doi.org/10.1515/comm.2009.025)
+- Mar, R. A., Oatley, K., & Peterson, J. B. (2009). Exploring the link between reading fiction and empathy: Ruling out individual differences and examining outcomes. *COMM, 34*(4), 407-428. [doi:10.1515/comm.2009.025](https://doi.org/10.1515/comm.2009.025)
 - Kidd, D. C., & Castano, E. (2013). Reading literary fiction improves theory of mind. *Science, 342*(6156), 377–380. [doi:10.1126/science.1239918](https://doi.org/10.1126/science.1239918)
 - Chi, M. T. H., de Leeuw, N., Chiu, M.-H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477. [doi:10.1207/s15516709cog1803_3](https://doi.org/10.1207/s15516709cog1803_3)
 - Dodell-Feder, D., & Tamir, D. I. (2018). Fiction reading has a small positive impact on social cognition: A meta-analysis. *Journal of Experimental Psychology: General, 147*(11), 1713–1727. [doi:10.1037/xge0000395](https://doi.org/10.1037/xge0000395)

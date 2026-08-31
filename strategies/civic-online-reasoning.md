@@ -65,7 +65,7 @@ The core insight is empirical: professional fact-checkers evaluate far faster an
 - **NewsGuard and professional fact-checking organizations** (e.g., Snopes, PolitiFact) — real-world instances of lateral reading as professional practice, usable as case material.
 
 ## Key Sources
-- Breakstone, J., Smith, M., Ortega-Woll, S., & Wineburg, S. (2021). Students' civic online reasoning: A national picture. *Journal of Educational Computing Research, 59*(8), 1587–1613. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
-- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading rates and college students' use of multiple sources to read and evaluate sources. *Teachers College Record, 121*(11), 1–40. [doi:10.37016/mr-2020-56](https://doi.org/10.37016/mr-2020-56)
+- Breakstone, J., Smith, M., Ortega-Woll, S., & Wineburg, S. (2021). Students' civic online reasoning: A national picture. *Educational Researcher, 50*(8), 505-515. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
+- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading rates and college students' use of multiple sources to read and evaluate sources. *Teachers College Record, 121*(11), 1–40.
 - McGrew, S., Ortega, T., Breakstone, J., & Wineburg, S. (2017). The challenge that's bigger than fake news: Civic reasoning in a social media environment. *American Educator, 41*(3), 4–9.
 - Breakstone, J., Smith, M., Connolly, P., Liang, C., Ortega-Woll, S., Fritch, M., & Wineburg, S. (2022). How students evaluate digital news sources during research. *Journal of Educational Computing Research, 60*(6), 1615–1643.

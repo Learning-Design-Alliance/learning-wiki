@@ -75,6 +75,6 @@ Guided play combines children's self-direction with intentional adult scaffoldin
 
 ## Key Sources
 - Skene, K., O'Farrelly, C. M., Byrne, E. M., Kirby, N., Stevens, E. B., & Ramchandani, P. G. (2022). Can guidance during play enhance children's learning and development in educational contexts? A systematic review and meta-analysis. *Child Development, 93*(4), 1162–1180. [doi:10.1111/cdev.13730](https://doi.org/10.1111/cdev.13730)
-- Weisberg, D. S., Hirsh-Pasek, K., & Golinkoff, R. M. (2013). Guided play: Where curricular goals meet a playful pedagogy. *Early Childhood Research Quarterly, 28*(2), 341–352. [doi:10.1111/mbe.12015](https://doi.org/10.1111/mbe.12015)
+- Weisberg, D. S., Hirsh-Pasek, K., & Golinkoff, R. M. (2013). Guided play: Where curricular goals meet a playful pedagogy. *Mind, Brain, and Education, 7*(2), 104-112. [doi:10.1111/mbe.12015](https://doi.org/10.1111/mbe.12015)
 - Nicolopoulou, A. (2005). Play and narrative in the process of development: Commonalities, differences, and interrelations. *Cognitive Development, 20*(4), 495–502. [doi:10.1016/j.cogdev.2005.09.001](https://doi.org/10.1016/j.cogdev.2005.09.001)
 - Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes.* Harvard University Press.

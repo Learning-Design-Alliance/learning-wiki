@@ -68,6 +68,6 @@ Precision Requests work because they reduce the ambiguity and social friction of
 
 ## Key Sources
 - Kame'enui, E. J., & Darch, C. B. (1995). *Instructional classroom management: A proactive approach to behavior management*. Longman.
-- Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children, 31*(3), 351–380. [doi:10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)
+- Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children, 31*(1), 351-380. [doi:10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)
 - Hester, P. P., Hendrickson, J. M., & Gable, R. A. (2009). Forty years later — The value of praise, ignoring, and rules for preschoolers at risk for behavior disorders. *Education and Treatment of Children, 32*(4), 513–529. [doi:10.1353/etc.0.0067](https://doi.org/10.1353/etc.0.0067)
 - Sugai, G., & Horner, R. H. (2002). The evolution of discipline practices: School-wide positive behavior supports. *Child & Family Behavior Therapy, 24*(1–2), 23–50. [doi:10.1300/J019v24n01_03](https://doi.org/10.1300/J019v24n01_03)

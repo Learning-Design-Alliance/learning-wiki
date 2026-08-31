@@ -72,8 +72,8 @@ PBIS applies behavioral learning principles at the systems level: expectations a
 - A typical Tier 1 implementation: students learn "Be Safe" on the bus through a taught lesson and role-play in the first week, bus drivers hand out acknowledgment tickets, and a team reviews referral data monthly.
 
 ## Key Sources
-- Horner, R. H., Sugai, G., Smolkowski, K., Eber, L., Nakasato, J., Todd, A. W., & Esperanza, J. (2009). A randomized, wait-list controlled effectiveness trial assessing school-wide positive behavior support in elementary schools. *Journal of Positive Behavior Interventions, 11*(3), 133–144. [doi:10.1177/1098300709334798](https://doi.org/10.1177/1098300709334798)
-- Bradshaw, C. P., Mitchell, M. M., & Leaf, P. J. (2010). Examining the effects of schoolwide positive behavioral interventions and supports on student outcomes. *Journal of Educational Psychology, 102*(1), 198–209. [doi:10.1177/1098300709334798](https://doi.org/10.1177/1098300709334798)
+- Horner, R. H., Sugai, G., Smolkowski, K., Eber, L., Nakasato, J., Todd, A. W., & Esperanza, J. (2009). A randomized, wait-list controlled effectiveness trial assessing school-wide positive behavior support in elementary schools. *Journal of Positive Behavior Interventions, 12*(3), 133-148.
+- Bradshaw, C. P., Mitchell, M. M., & Leaf, P. J. (2010). Examining the effects of schoolwide positive behavioral interventions and supports on student outcomes. *Journal of Positive Behavior Interventions, 12*(3), 133-148.
 - Bradshaw, C. P., Waasdorp, T. E., & Leaf, P. J. (2012). Effects of school-wide positive behavioral interventions and supports on child behavior problems. *Pediatrics, 130*(5), e1136–e1145. [doi:10.1542/peds.2012-0243](https://doi.org/10.1542/peds.2012-0243)
 - Sugai, G., & Horner, R. H. (2006). A promising approach for expanding and sustaining school-wide positive behavior support. *School Psychology Review, 35*(2), 245–259. [doi:10.1080/02796015.2006.12087989](https://doi.org/10.1080/02796015.2006.12087989)
 - Simonsen, B., & Myers, D. (2015). *Classroom behavior management: A practical guide for educators*. Rowman & Littlefield.

@@ -63,7 +63,7 @@ Handwriting is a graphomotor skill whose fluency underpins later composition: wh
 - **Montessori sandpaper letters** pair tactile tracing of textured letterforms with the letter sound, a classic multisensory design dating to Montessori's original materials.
 
 ## Key Sources
-- James, K. H., & Engelhardt, L. (2012). The effects of handwriting experience on literacy learning. *Trends in Neuroscience and Education, 1*(2), 34–42. [doi:10.1016/j.tine.2012.08.001](https://doi.org/10.1016/j.tine.2012.08.001)
+- James, K. H., & Engelhardt, L. (2012). The effects of handwriting experience on literacy learning. *Trends in Neuroscience and Education, 1*(2), 34–42.
 - Bara, F., Gentaz, E., Colé, P., & Sprenger-Charolles, L. (2004). The visuo-haptic and haptic exploration of letters increases the kindergarten-children's understanding of the alphabetic principle. *Reading and Writing, 17*(6), 577–597. [doi:10.1016/j.cogdev.2004.05.003](https://doi.org/10.1016/j.cogdev.2004.05.003)
 - Berninger, V. W., Vaughan, K., Abbott, R. D., Begay, K., Coleman, K. B., Curtin, G., Hawkins, J. M., & Graham, S. (2006). Teaching spelling and composition alone and together: Implications for the simple view of writing. *Journal of Educational Psychology, 94*(2), 291–304. [doi:10.1037/0022-0663.94.2.291](https://doi.org/10.1037/0022-0663.94.2.291)
 - Graham, S., Harris, K. R., & Fink, B. (2000). Is handwriting causally related to learning to write? Treatment of handwriting problems in beginning writers. *Journal of Educational Psychology, 92*(4), 620–633. [doi:10.1037/0022-0663.92.4.620](https://doi.org/10.1037/0022-0663.92.4.620)

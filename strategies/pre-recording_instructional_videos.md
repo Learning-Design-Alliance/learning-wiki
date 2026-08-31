@@ -69,7 +69,7 @@ Video is a multimedia channel: combining narration with relevant visuals can imp
 
 ## Key Sources
 - Guo, P. J., Kim, J., & Rubin, R. (2014). How video production affects student engagement in MOOCs. *Proceedings of the First ACM Conference on Learning @ Scale*, 41–50. [doi:10.1145/2556325.2566239](https://doi.org/10.1145/2556325.2566239)
-- Noetel, M., Griffith, S., Delaney, O., Sanders, N. R., Mazarakis, N., Poumpouridis, C., & Lomas, T. (2021). Video improves learning in higher education: A meta-analysis. *Review of Educational Research, 91*(2), 204–236. [doi:10.3102/0034654321990713](https://doi.org/10.3102/0034654321990713)
+- Noetel, M., Griffith, S., Delaney, O., Sanders, N. R., Mazarakis, N., Poumpouridis, C., & Lomas, T. (2021). Video improves learning in higher education: A meta-analysis. *Review of Educational Research, 91*(2), 204–236.
 - Brame, C. J. (2016). Effective educational videos: Principles and guidelines for maximizing student learning from video content. *CBE—Life Sciences Education, 15*(4), es6. [doi:10.1187/cbe.16-03-0125](https://doi.org/10.1187/cbe.16-03-0125)
 - Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the Science of Instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)
 - Mayer, R. E. (2020). *Multimedia Learning* (3rd ed.). Cambridge University Press. [doi:10.1017/9781316941355](https://doi.org/10.1017/9781316941355)

@@ -68,6 +68,6 @@ Self-regulation scaffolding works because it externalizes regulatory processes (
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
-- Dignath, C., & Büttner, G. (2008). Components of fostering self-regulated learning among students: A meta-analysis on intervention studies at primary and secondary school level. *Learning and Instruction, 18*(2), 97–108. [doi:10.1007/s11409-008-9029-x](https://doi.org/10.1007/s11409-008-9029-x)
+- Dignath, C., & Büttner, G. (2008). Components of fostering self-regulated learning among students: A meta-analysis on intervention studies at primary and secondary school level. *Metacognition and Learning, 3*(3), 231-264. [doi:10.1007/s11409-008-9029-x](https://doi.org/10.1007/s11409-008-9029-x)
 - Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes.* Harvard University Press.
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)

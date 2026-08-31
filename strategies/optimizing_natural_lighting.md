@@ -65,6 +65,6 @@ Classroom physical environment is a meaningful but often overlooked contributor 
 
 ## Key Sources
 - Barrett, P., Davies, F., Zhang, Y., & Barrett, L. (2015). The impact of classroom design on pupils' learning: Final results of a holistic, multi-level analysis. *Building and Environment, 89*, 118–133. [doi:10.1016/j.buildenv.2015.02.013](https://doi.org/10.1016/j.buildenv.2015.02.013)
-- Wargocki, P., & Wyon, D. P. (2013). Providing better thermal and air quality conditions in school classrooms would be cost-effective. *Indoor Air, 23*(5), 432–441. [doi:10.1016/j.buildenv.2012.10.007](https://doi.org/10.1016/j.buildenv.2012.10.007)
+- Wargocki, P., & Wyon, D. P. (2013). Providing better thermal and air quality conditions in school classrooms would be cost-effective. *Building and Environment, 59*(5), 581-589. [doi:10.1016/j.buildenv.2012.10.007](https://doi.org/10.1016/j.buildenv.2012.10.007)
 - Heschong Mahone Group. (1999). *Daylighting in schools: An investigation into the relationship between daylighting and human performance.* Pacific Gas and Electric Company. [Report PDF](https://www.energy.ca.gov/2003publications/CEC-500-2003-082/CEC-500-2003-082.PDF)
 - Choi, K., & Suk, H.-J. (2016). Dynamic lighting system for the learning environment: Performance of elementary students. *Optics Express, 24*(10), A907–A916. [doi:10.1364/OE.24.00A907](https://doi.org/10.1364/OE.24.00A907)

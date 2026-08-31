@@ -68,7 +68,7 @@ Shadowing is a prevention-first behavior support: by interrupting the antecedent
 - **Elopement in early elementary**: a shadow walks with the child between settings, teaching a "walk with the line" routine and a break-request card, then fades to checkpoint supervision.
 
 ## Key Sources
-- Webster-Stratton, C., Reid, M. J., & Hammond, M. (2004). Treating children with early-onset conduct problems: Intervention outcomes for parent, child, and teacher training. *Journal of Clinical Child and Adolescent Psychology, 33*(1), 105–124. [doi:10.1207/S15374424JCCP3301_11](https://doi.org/10.1207/S15374424JCCP3301_11)
+- Webster-Stratton, C., Reid, M. J., & Hammond, M. (2004). Treating children with early-onset conduct problems: Intervention outcomes for parent, child, and teacher training. *Journal of Clinical Child &amp; Adolescent Psychology, 33*(1), 105-124. [doi:10.1207/S15374424JCCP3301_11](https://doi.org/10.1207/S15374424JCCP3301_11)
 - Conroy, M. A., Dunlap, G., Clarke, S., & Alter, P. J. (2005). A descriptive analysis of positive behavioral intervention research with young children with challenging behavior. *Topics in Early Childhood Special Education, 25*(3), 157–166. [doi:10.1177/02711214050250030301](https://doi.org/10.1177/02711214050250030301)
 - Horner, R. H., Sugai, G., & Anderson, C. M. (2010). Examining the evidence base for school-wide positive behavior support. *Focus on Exceptional Children, 42*(8), 1–14. [doi:10.17161/foec.v42i8.6906](https://doi.org/10.17161/foec.v42i8.6906)
 - Bandura, A. (1977). Social learning theory. *Englewood Cliffs, NJ: Prentice Hall.*

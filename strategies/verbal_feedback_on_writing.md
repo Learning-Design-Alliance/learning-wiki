@@ -68,7 +68,7 @@ Verbal feedback works because it increases feedback *uptake*: students report au
 
 ## Key Sources
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
-- Lunt, T., & Curran, J. (2010). 'Are you listening please?' The advantages of electronic audio feedback compared to written feedback. *Innovations in Education and Teaching International, 47*(2), 175–184. [doi:10.1080/02602930902977772](https://doi.org/10.1080/02602930902977772)
+- Lunt, T., & Curran, J. (2010). 'Are you listening please?' The advantages of electronic audio feedback compared to written feedback. *Assessment &amp; Evaluation in Higher Education, 35*(7), 759-769. [doi:10.1080/02602930902977772](https://doi.org/10.1080/02602930902977772)
 - Merry, S., & Orsmond, P. (2008). Students' attitudes to and usage of academic feedback provided via audio recordings. *Bioscience Education, 11*(1), 1–11. [doi:10.3108/beej.11.3](https://doi.org/10.3108/beej.11.3)
 - Voelkel, S., & Mello, L. V. (2014). Audio feedback — better feedback? *Bioscience Education, 22*(1), 16–30.
-- Ice, P., Curtis, R., Phillips, P., & Wells, J. (2007). Using asynchronous audio feedback to enhance teaching presence and cognitive presence. *Journal of Asynchronous Learning Networks, 11*(2), 15–37. [doi:10.24059/olj.v11i2.1724](https://doi.org/10.24059/olj.v11i2.1724)
+- Ice, P., Curtis, R., Phillips, P., & Wells, J. (2007). Using asynchronous audio feedback to enhance teaching presence and cognitive presence. *Online Learning, 11*(2), 15. [doi:10.24059/olj.v11i2.1724](https://doi.org/10.24059/olj.v11i2.1724)

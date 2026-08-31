@@ -67,7 +67,7 @@ Emotion check ins operationalize the premise that affect and cognition are inter
 - **University exam-prep pulse** — instructors use a two-question anonymous poll ("How prepared do you feel? How are you feeling about it?") a week before finals, then adjust review sessions to the aggregate response.
 
 ## Key Sources
-- Lieberman, M. D., Eisenberger, N. I., Crockett, M. J., Tom, S. M., Pfeifer, J. H., & Way, B. M. (2007). Putting feelings into words: Affect labeling disrupts amygdala activity in response to affective stimuli. *Psychological Science, 18*(5), 421–428. [doi:10.1177/1754073917742706](https://doi.org/10.1177/1754073917742706)
+- Lieberman, M. D., Eisenberger, N. I., Crockett, M. J., Tom, S. M., Pfeifer, J. H., & Way, B. M. (2007). Putting feelings into words: Affect labeling disrupts amygdala activity in response to affective stimuli. *Emotion Review, 10*(2), 116-124. [doi:10.1177/1754073917742706](https://doi.org/10.1177/1754073917742706)
 - Brackett, M. A., Bailey, C. S., Hoffmann, J. D., & Simmons, D. N. (2019). RULER: A theory-driven, systemic approach to social, emotional, and academic learning. *Educational Psychologist, 54*(3), 144–161. [doi:10.1080/00461520.2019.1614447](https://doi.org/10.1080/00461520.2019.1614447)
 - Walton, G. M., & Cohen, G. L. (2011). A brief social-belonging intervention improves academic and health outcomes of minority students. *Science, 331*(6023), 1447–1451. [doi:10.1126/science.1198364](https://doi.org/10.1126/science.1198364)
 - Pekrun, R. (2006). The control-value theory of achievement emotions: Assumptions, corollaries, and implications for educational research and practice. *Educational Psychology Review, 18*(4), 315–341. [doi:10.1007/s10648-006-9029-9](https://doi.org/10.1007/s10648-006-9029-9)

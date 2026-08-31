@@ -66,6 +66,6 @@ Recess functions as an attention-restoration and arousal-regulation mechanism: s
 - **Playworks** — a nonprofit providing trained recess coaches who facilitate inclusive games while preserving student choice (https://www.playworks.org)
 
 ## Key Sources
-- Pellegrini, A. D., & Bohn, C. M. (2005). The role of recess in children's cognitive performance and school adjustment. *Educational Psychologist, 40*(1), 13–23. [doi:10.3102/0013189x034001013](https://doi.org/10.3102/0013189x034001013)
+- Pellegrini, A. D., & Bohn, C. M. (2005). The role of recess in children's cognitive performance and school adjustment. *Educational Researcher, 34*(1), 13-19. [doi:10.3102/0013189x034001013](https://doi.org/10.3102/0013189x034001013)
 - Ramstetter, C. L., Murray, R., & Garner, A. S. (2010). The crucial role of recess in schools. *Journal of School Health, 80*(11), 517–526. [doi:10.1111/j.1746-1561.2010.00537.x](https://doi.org/10.1111/j.1746-1561.2010.00537.x)
 - Erwin, H. E., Ickes, M., Ahn, S., & Fedewa, A. (2014). Impact of recess interventions on children's physical activity—A meta-analysis. *American Journal of Health Promotion, 28*(3), 159–167. [doi:10.4278/ajhp.120926-LIT-470](https://doi.org/10.4278/ajhp.120926-LIT-470)

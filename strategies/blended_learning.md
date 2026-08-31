@@ -88,7 +88,7 @@ Blended designs outperform either mode alone when the two components are deliber
 - K–12 station rotation (e.g., Rocketship Public Schools' lab-rotation model): learners rotate between teacher-led instruction, collaborative work, and adaptive online practice.
 
 ## Key Sources
-- Means, B., Toyama, Y., Murphy, R., & Baki, M. (2013). The effectiveness of online and blended learning: A meta-analysis of the empirical literature. *Teachers College Record, 115*(3), 1–47. [doi:10.1177/016146811311500307](https://doi.org/10.1177/016146811311500307)
+- Means, B., Toyama, Y., Murphy, R., & Baki, M. (2013). The effectiveness of online and blended learning: A meta-analysis of the empirical literature. *Teachers College Record: The Voice of Scholarship in Education, 115*(3), 1-47. [doi:10.1177/016146811311500307](https://doi.org/10.1177/016146811311500307)
 - Garrison, D. R., & Kanuka, H. (2004). Blended learning: Uncovering its transformative potential in higher education. *The Internet and Higher Education, 7*(2), 95–105. [doi:10.1016/j.iheduc.2004.02.001](https://doi.org/10.1016/j.iheduc.2004.02.001)
 - Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., Jordt, H., & Wenderoth, M. P. (2014). Active learning increases student performance in science, engineering, and mathematics. *PNAS, 111*(23), 8410–8415. [doi:10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)

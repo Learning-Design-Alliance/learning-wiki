@@ -76,6 +76,6 @@ Simulation works because it lets learners practice whole tasks with realistic de
 
 ## Key Sources
 - Cook, D. A., Hatala, R., Brydges, R., Zendejas, B., Szostek, J. H., Wang, A. T., Erwin, P. J., & Barsuk, J. H. (2011). Technology-enhanced simulation for health professions education: A systematic review and meta-analysis. *JAMA, 306*(9), 978–988. [doi:10.1001/jama.2011.1234](https://doi.org/10.1001/jama.2011.1234)
-- Sitzmann, T. (2011). A meta-analytic examination of the instructional effectiveness of computer-based simulation environments. *Personnel Psychology, 64*(2), 487–528. [doi:10.1111/j.1744-6570.2011.01190.x](https://doi.org/10.1111/j.1744-6570.2011.01190.x)
+- Sitzmann, T. (2011). A meta-analytic examination of the instructional effectiveness of computer-based simulation environments. *Personnel Psychology, 64*(2), 489-528. [doi:10.1111/j.1744-6570.2011.01190.x](https://doi.org/10.1111/j.1744-6570.2011.01190.x)
 - Fanning, R. M., & Gaba, D. M. (2007). The role of debriefing in simulation-based learning. *Simulation in Healthcare, 2*(2), 115–125. [doi:10.1097/SIH.0b013e3180315539](https://doi.org/10.1097/SIH.0b013e3180315539)
 - Gaba, D. M. (2004). The future vision of simulation in health care. *Quality and Safety in Health Care, 13*(suppl 1), i2–i10. [doi:10.1136/qshc.2004.009878](https://doi.org/10.1136/qshc.2004.009878)

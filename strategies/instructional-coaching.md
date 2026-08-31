@@ -70,7 +70,7 @@ Coaching applies the same learning science that governs novice skill acquisition
 - **Chicago's Teacher Instructional Coaching Program** — district-scale coaching studied by Kraft, Blazar, and colleagues, illustrating both the promise and the scale-related dilution of effects.
 
 ## Key Sources
-- Kraft, M. A., Blazar, D., & Hogan, D. (2018). The effect of teacher coaching on instruction and achievement: A meta-analysis of the causal evidence. *Review of Educational Research, 88*(4), 513–588. [doi:10.3102/0034654318759268](https://doi.org/10.3102/0034654318759268)
+- Kraft, M. A., Blazar, D., & Hogan, D. (2018). The effect of teacher coaching on instruction and achievement: A meta-analysis of the causal evidence. *Review of Educational Research, 88*(4), 547-588. [doi:10.3102/0034654318759268](https://doi.org/10.3102/0034654318759268)
 - Joyce, B., & Showers, B. (2002). *Student achievement through staff development* (3rd ed.). ASCD.
 - Knight, J. (2017). *The impact cycle: What instructional coaches should do to foster powerful improvements in teaching.* Corwin.
 - Allen, J. P., Pianta, R. C., Gregory, A., Mikami, A. Y., & Lun, J. (2011). An interaction-based approach to enhancing secondary school instruction and student achievement. *Science, 333*(6045), 1034–1037. [doi:10.1126/science.1207998](https://doi.org/10.1126/science.1207998)

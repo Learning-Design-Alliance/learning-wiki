@@ -89,7 +89,7 @@ Simulations work because they make learners generate decisions and experience th
 
 ## Key Sources
 - Garris, R., Ahlers, R., & Driskell, J. E. (2002). Games, motivation, and learning: A research and practice model. *Simulation & Gaming, 33*(4), 441–467. [doi:10.1177/1046878102238607](https://doi.org/10.1177/1046878102238607)
-- Cook, D. A., Hatala, R., Brydges, R., Zendejas, B., Szostek, J. H., Wang, A. T., Erwin, P. J., & Barsuk, J. H. (2013). Technology-enhanced simulation for health professions education: A systematic review and meta-analysis. *JAMA, 310*(9), 978–988. [doi:10.3109/0142159x.2012.714886](https://doi.org/10.3109/0142159x.2012.714886)
+- Cook, D. A., Hatala, R., Brydges, R., Zendejas, B., Szostek, J. H., Wang, A. T., Erwin, P. J., & Barsuk, J. H. (2013). Technology-enhanced simulation for health professions education: A systematic review and meta-analysis. *JAMA, 310*(9), 978–988.
 - Fanning, R. M., & Gaba, D. M. (2007). The role of debriefing in simulation-based learning. *Simulation in Healthcare, 2*(2), 115–125. [doi:10.1097/sih.0b013e3180315539](https://doi.org/10.1097/sih.0b013e3180315539)
 - Chernikova, O., Heitzmann, N., Stadler, M., Holzberger, D., Seidel, T., & Fischer, F. (2020). Simulation-based learning in higher education: A meta-analysis. *Review of Educational Research, 90*(4), 499–541. [doi:10.3102/0034654320933544](https://doi.org/10.3102/0034654320933544)
 - Kolb, D. A. (1984). *Experiential learning: Experience as the source of learning and development.* Prentice Hall.

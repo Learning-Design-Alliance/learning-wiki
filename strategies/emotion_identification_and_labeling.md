@@ -70,6 +70,6 @@ Emotion labeling converts diffuse affective experience into discrete, manipulabl
 
 ## Key Sources
 - Denham, S. A. (2006). Social-emotional competence as support for school readiness: What is it and how do we assess it? *Early Education and Development, 17*(1), 57–89. [doi:10.1207/s15566935eed1701_4](https://doi.org/10.1207/s15566935eed1701_4)
-- Lieberman, M. D., et al. (2007). Putting feelings into words: Affect labeling disrupts amygdala activity in response to affective stimuli. *Psychological Science, 18*(5), 421–428. [doi:10.1177/1754073917742706](https://doi.org/10.1177/1754073917742706)
+- Lieberman, M. D., et al. (2007). Putting feelings into words: Affect labeling disrupts amygdala activity in response to affective stimuli. *Emotion Review, 10*(2), 116-124. [doi:10.1177/1754073917742706](https://doi.org/10.1177/1754073917742706)
 - Barrett, L. F., Mesquita, B., & Gendron, M. (2011). Context in emotion perception. *Current Directions in Psychological Science, 20*(5), 286–290. [doi:10.1177/0963721411422522](https://doi.org/10.1177/0963721411422522)
 - Izard, C., et al. (2008). Accelerating the development of emotion competence in Head Start children: Effects on adaptive and maladaptive behavior. *Development and Psychopathology, 20*(1), 269–292. [doi:10.1017/s0954579408000175](https://doi.org/10.1017/s0954579408000175)

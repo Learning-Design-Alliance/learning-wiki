@@ -68,6 +68,6 @@ Narratives function as vicarious models: readers simulate characters' mental sta
 ## Key Sources
 - Gray, C. A., & Garand, J. D. (1993). Social stories: Improving responses of students with autism with accurate social information. *Focus on Autistic Behavior, 10*(1), 1–10.
 - Kidd, D. C., & Castano, E. (2013). Reading literary fiction improves theory of mind. *Science, 342*(6156), 377–380. [doi:10.1126/science.1239918](https://doi.org/10.1126/science.1239918)
-- Mar, R. A., Oatley, K., & Peterson, J. B. (2009). Exploring the link between reading fiction and empathy: Ruling out individual differences and examining outcomes. *Journal of Research in Personality, 43*(5), 874–886. [doi:10.1515/comm.2009.025](https://doi.org/10.1515/comm.2009.025)
+- Mar, R. A., Oatley, K., & Peterson, J. B. (2009). Exploring the link between reading fiction and empathy: Ruling out individual differences and examining outcomes. *COMM, 34*(4), 407-428. [doi:10.1515/comm.2009.025](https://doi.org/10.1515/comm.2009.025)
 - Reynhout, G., & Carter, M. (2006). Social stories for children with disabilities: A review of the evidence. *Journal of Autism and Developmental Disorders, 36*(4), 445–469. [doi:10.1007/s10803-006-0086-1](https://doi.org/10.1007/s10803-006-0086-1)
 - Bandura, A. (1977). *Social learning theory*. Prentice Hall.

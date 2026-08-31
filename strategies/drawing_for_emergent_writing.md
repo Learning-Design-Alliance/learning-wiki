@@ -71,6 +71,6 @@ Drawing reduces the competing demands of early writing: young children must simu
 ## Key Sources
 - Adoniou, M. (2013). Drawing to support writing development in English language learners. *Language and Education, 27*(3), 261–277. [doi:10.1080/09500782.2012.704047](https://doi.org/10.1080/09500782.2012.704047)
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
-- Kellogg, R. T. (2008). Training writing skill: A cognitive developmental perspective. *Current Directions in Psychological Science, 17*(2), 89–93. [doi:10.17239/jowr-2008.01.01.1](https://doi.org/10.17239/jowr-2008.01.01.1)
+- Kellogg, R. T. (2008). Training writing skill: A cognitive developmental perspective. *Journal of Writing Research, 1*(1), 1-26. [doi:10.17239/jowr-2008.01.01.1](https://doi.org/10.17239/jowr-2008.01.01.1)
 - Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes.* Harvard University Press.
 - Paivio, A. (1986). *Mental representations: A dual coding approach.* Oxford University Press.

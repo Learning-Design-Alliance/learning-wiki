@@ -66,7 +66,7 @@ Cold calling dramatically broadens participation beyond volunteers, distributing
 - **Large-enrollment STEM courses** — instructors combine cold call with clicker questions and peer discussion so that being called on follows peer rehearsal rather than replacing it.
 
 ## Key Sources
-- Dallimore, E. J., Hertenstein, J. H., & Platt, M. B. (2013). Impact of cold-calling on student voluntary participation and perceptions of learning. *Journal of Excellence in College Teaching, 24*(3), 51–74. [doi:10.1177/1052562912446067](https://doi.org/10.1177/1052562912446067)
+- Dallimore, E. J., Hertenstein, J. H., & Platt, M. B. (2013). Impact of cold-calling on student voluntary participation and perceptions of learning. *Journal of Management Education, 37*(3), 305-341. [doi:10.1177/1052562912446067](https://doi.org/10.1177/1052562912446067)
 - Lemov, D. (2015). *Teach Like a Champion 2.0*. Jossey-Bass.
 - Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/medu.12141](https://doi.org/10.1111/medu.12141)
 - Waugh, R. F., & Andrews, B. (2006). Positive and negative effects of teachers' question-type and wait-time on student participation. *Learning Environments Research, 9*(2), 169–181. [doi:10.1007/s10984-006-9005-7](https://doi.org/10.1007/s10984-006-9005-7)

@@ -71,7 +71,7 @@ Self-monitoring works primarily through reactivity: simply attending to and reco
 - **Digital study tools**: apps such as [Forest](https://www.forestapp.cc) or [RescueTime](https://www.rescuetime.com) operationalize self-monitoring for adult learners by logging focused time and prompting reflection on session goals.
 
 ## Key Sources
-- Reid, R., Trout, A. L., & Schwartz, M. (2005). Self-regulation interventions for children with attention deficit/hyperactivity disorder. *Exceptional Children, 71*(4), 361–377. [doi:10.17161/fec.v32i4.6773](https://doi.org/10.17161/fec.v32i4.6773)
+- Reid, R., Trout, A. L., & Schwartz, M. (2005). Self-regulation interventions for children with attention deficit/hyperactivity disorder. *Focus on Exceptional Children, 32*(4), 361. [doi:10.17161/fec.v32i4.6773](https://doi.org/10.17161/fec.v32i4.6773)
 - Levendoski, L. S., & Cartledge, G. (2000). Self-monitoring for elementary school children with serious emotional disturbances: Classroom applications for increased academic attending. *Behavioral Disorders, 25*(3), 211–224. [doi:10.1177/019874290002500308](https://doi.org/10.1177/019874290002500308)
 - Graham-Day, K. J., Gardner, R., & Hsin, Y.-W. (2010). Increasing on-task behavior of students with high-functioning autism using self-monitoring. *Intervention in School and Clinic, 45*(4), 224–231. [doi:10.1177/1053451209353446](https://doi.org/10.1177/1053451209353446)
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

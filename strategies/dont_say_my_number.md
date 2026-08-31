@@ -71,7 +71,7 @@ The game layers a working-memory and inhibition load on top of number-sequence p
 - **Intervention settings** — the format parallels the number-board-game tradition used by Ramani and Siegler, in which repeated, engaging number activities produce gains in numerical knowledge for young children.
 
 ## Key Sources
-- Ramani, G. B., & Siegler, R. S. (2008). Promoting broad and stable improvements in low-income children's numerical knowledge through playing number board games. *Journal of Educational Psychology, 100*(2), 345–359. [doi:10.1111/j.1467-8624.2007.01131.x](https://doi.org/10.1111/j.1467-8624.2007.01131.x)
-- Siegler, R. S., & Ramani, G. B. (2009). Playing linear number board games — but not circular ones — improves low-income preschoolers' numerical understanding. *Child Development, 80*(2), 375–395. [doi:10.1037/a0014239](https://doi.org/10.1037/a0014239)
+- Ramani, G. B., & Siegler, R. S. (2008). Promoting broad and stable improvements in low-income children's numerical knowledge through playing number board games. *Child Development, 79*(2), 375-394. [doi:10.1111/j.1467-8624.2007.01131.x](https://doi.org/10.1111/j.1467-8624.2007.01131.x)
+- Siegler, R. S., & Ramani, G. B. (2009). Playing linear number board games — but not circular ones — improves low-income preschoolers' numerical understanding. *Journal of Educational Psychology, 101*(3), 545-560. [doi:10.1037/a0014239](https://doi.org/10.1037/a0014239)
 - Clements, D. H., & Sarama, J. (2021). *Learning and teaching early math: The learning trajectories approach* (3rd ed.). Routledge. [doi:10.4324/9780203520574](https://doi.org/10.4324/9780203520574)
 - Gathercole, S. E., & Alloway, T. P. (2008). *Working memory and learning: A practical guide for teachers*. SAGE.

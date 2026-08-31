@@ -70,5 +70,5 @@ Learning improves when learners are prompted to generate content-relevant cognit
 ## Key Sources
 - Wittrock, M. C. (1989). Generative processes of comprehension. *Educational Psychologist, 24*(4), 345–376. [doi:10.1207/s15326985ep2404_2](https://doi.org/10.1207/s15326985ep2404_2)
 - Mayer, R. E. (2021). *Multimedia Learning* (3rd ed.). Cambridge University Press. [doi:10.1017/9781316941355](https://doi.org/10.1017/9781316941355)
-- Fiorella, L., & Mayer, R. E. (2016). Eight ways to promote generative learning in multimedia learning. *Journal of Educational Psychology, 108*(6), 794–813. [doi:10.1007/s10648-015-9348-9](https://doi.org/10.1007/s10648-015-9348-9)
+- Fiorella, L., & Mayer, R. E. (2016). Eight ways to promote generative learning in multimedia learning. *Educational Psychology Review, 28*(4), 717-741. [doi:10.1007/s10648-015-9348-9](https://doi.org/10.1007/s10648-015-9348-9)
 - Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)

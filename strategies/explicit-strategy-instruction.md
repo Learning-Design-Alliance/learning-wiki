@@ -68,7 +68,7 @@ Explicit strategy instruction works because it converts tacit expert processes i
 - **Self-regulated strategy development (SRSD) in writing** (Graham & Harris): students taught planning and revising strategies for composition, with modeling, memorization of strategy steps, and self-monitoring; one of the most extensively validated writing interventions.
 
 ## Key Sources
-- Palincsar, A. S., & Brown, A. L. (1984). Reciprocal teaching of comprehension-fostering and comprehension-monitoring activities. *Cognition and Instruction, 2*(2), 117–175. [doi:10.1207/s1532690xci0102_1](https://doi.org/10.1207/s1532690xci0102_1)
+- Palincsar, A. S., & Brown, A. L. (1984). Reciprocal teaching of comprehension-fostering and comprehension-monitoring activities. *Cognition and Instruction, 1*(2), 117-175. [doi:10.1207/s1532690xci0102_1](https://doi.org/10.1207/s1532690xci0102_1)
 - Biggs, J. B., & Purdie, N. (1996). Effects of learning skills interventions on student learning: A meta-analysis. *Review of Educational Research, 66*(2), 99–136. [doi:10.3102/00346543066002099](https://doi.org/10.3102/00346543066002099)
 - Dignath, C., & Büttner, G. (2008). Components of fostering self-regulated learning among students: A meta-analysis on intervention studies at primary and secondary school level. *Metacognition and Learning, 3*(3), 231–264. [doi:10.1007/s11409-008-9029-x](https://doi.org/10.1007/s11409-008-9029-x)
 - Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)

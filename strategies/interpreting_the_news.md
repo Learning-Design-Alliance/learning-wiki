@@ -68,7 +68,7 @@ Comparing multiple accounts of the same event is a form of multiple-document ana
 - Media-literacy courses built on the Stanford History Education Group's civic online reasoning curriculum ([SHEG](https://cor.stanford.edu/)) use lateral reading of news sources as a core activity.
 
 ## Key Sources
-- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(11), 1–40. [doi:10.37016/mr-2020-56](https://doi.org/10.37016/mr-2020-56)
-- Breakstone, J., Smith, M., Wineburg, S., Lester, A., Ortega, T., & Collins, S. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8), 539–549. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
+- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(11), 1–40.
+- Breakstone, J., Smith, M., Wineburg, S., Lester, A., Ortega, T., & Collins, S. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8), 505-515. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
 - Bråten, I., Britt, M. A., Strømsø, H. I., & Rouet, J.-F. (2011). The role of epistemic beliefs in the comprehension of multiple expository texts: Toward an integrated model. *Educational Psychology Review, 23*(4), 485–510. [doi:10.1007/s10648-011-9156-1](https://doi.org/10.1007/s10648-011-9156-1)
 - Kuhn, D. (1999). A developmental model of critical thinking. *Educational Researcher, 28*(2), 16–46. [doi:10.3102/0013189X028002016](https://doi.org/10.3102/0013189X028002016)

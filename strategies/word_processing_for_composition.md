@@ -66,8 +66,8 @@ Word processing lowers the mechanical cost of revision, which increases both the
 - **WriteToLearn** — automated formative feedback on student essays supports multiple revision cycles with immediate scoring ([Pearson WriteToLearn](https://www.pearsonassessments.com/writetolearn)).
 
 ## Key Sources
-- Morphy, P., & Graham, S. (2012). Word processing programs and weaker writers/readers: A meta-analysis of research findings. *Reading and Writing, 25*(5), 1059–1082. [doi:10.1007/s11145-010-9292-5](https://doi.org/10.1007/s11145-010-9292-5)
+- Morphy, P., & Graham, S. (2012). Word processing programs and weaker writers/readers: A meta-analysis of research findings. *Reading and Writing, 25*(3), 641-678. [doi:10.1007/s11145-010-9292-5](https://doi.org/10.1007/s11145-010-9292-5)
 - Graham, S., & Perin, D. (2007). *Writing next: Effective strategies to improve writing of adolescents in middle and high schools*. Alliance for Excellent Education.
 - Bangert-Drowns, R. L. (1993). The word processor as an instructional tool: A meta-analysis of word processing in writing instruction. *Review of Educational Research, 63*(1), 69–93. [doi:10.3102/00346543063001069](https://doi.org/10.3102/00346543063001069)
-- Graham, S., & Sandmel, D. (2011). The process writing approach: A meta-analysis. *Journal of Educational Research, 104*(6), 396–407. [doi:10.17763/haer.81.4.t2k0m13756113566](https://doi.org/10.17763/haer.81.4.t2k0m13756113566)
+- Graham, S., & Sandmel, D. (2011). The process writing approach: A meta-analysis. *Journal of Educational Research, 104*(6), 396–407.
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)

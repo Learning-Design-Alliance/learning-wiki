@@ -65,7 +65,7 @@ Evaluative settings trigger threat responses that consume working memory and dep
 - **PERTS / College Transition programs** — Online social-belonging and affirmation modules used in gateway course redesigns ([PERTS](https://www.perts.net)).
 
 ## Key Sources
-- Cohen, G. L., Garcia, J., Apfel, N., & Master, A. (2009). Reducing the racial achievement gap: A social-psychological intervention. *Science, 324*(5925), 400–403. [doi:10.1126/science.1128317](https://doi.org/10.1126/science.1128317)
+- Cohen, G. L., Garcia, J., Apfel, N., & Master, A. (2009). Reducing the racial achievement gap: A social-psychological intervention. *Science, 313*(5791), 1307-1310. [doi:10.1126/science.1128317](https://doi.org/10.1126/science.1128317)
 - Miyake, A., Kost-Smith, L. E., Finkelstein, N. D., Pollock, S. J., Cohen, G. L., & Ito, T. A. (2010). Reducing the gender achievement gap in college science: A classroom study of values affirmation. *Science, 330*(6008), 1234–1237. [doi:10.1126/science.1195996](https://doi.org/10.1126/science.1195996)
 - Cohen, G. L., & Sherman, D. K. (2014). The psychology of change: Self-affirmation and social psychological intervention. *Annual Review of Psychology, 65*, 333–371. [doi:10.1146/annurev-psych-010213-115137](https://doi.org/10.1146/annurev-psych-010213-115137)
 - Walton, G. M., & Cohen, G. L. (2011). A brief social-belonging intervention improves academic and health outcomes of minority students. *Science, 331*(6023), 1447–1451. [doi:10.1126/science.1198364](https://doi.org/10.1126/science.1198364)

@@ -80,7 +80,7 @@ Individual rotation operationalizes personalization by matching modality and pac
 ## Key Sources
 - Horn, M. B., & Staker, H. (2014). *Blended: Using disruptive innovation to improve schools*. Jossey-Bass. [https://www.christenseninstitute.org/publications/blended/](https://www.christenseninstitute.org/publications/blended/)
 - Pane, J. F., Steiner, E. D., Baird, M. D., & Hamilton, L. S. (2015). *Continued progress: Promising evidence on personalized learning*. RAND Corporation. [https://www.rand.org/pubs/research_reports/RR1375.html](https://www.rand.org/pubs/research_reports/RR1375.html) [doi:10.7249/rr1365](https://doi.org/10.7249/rr1365)
-- Means, B., Toyama, Y., Murphy, R., & Baki, M. (2013). The effectiveness of online and blended learning: A meta-analysis. *Teachers College Record, 115*(11), 1–47. [doi:10.1177/016146811311500307](https://doi.org/10.1177/016146811311500307)
+- Means, B., Toyama, Y., Murphy, R., & Baki, M. (2013). The effectiveness of online and blended learning: A meta-analysis. *Teachers College Record: The Voice of Scholarship in Education, 115*(3), 1-47. [doi:10.1177/016146811311500307](https://doi.org/10.1177/016146811311500307)
 - Zhang, L., Carter, R. A., Zhang, J., Hunt, T. L., Emerling, C. R., Yang, S., & Xu, F. (2019). Exploring K-3 teachers' implementation of station rotation within K-12 blended learning research. *Journal of Digital Learning in Teacher Education, 35*(2), 78–96. [doi:10.1080/21532974.2018.1558982](https://doi.org/10.1080/21532974.2018.1558982)
 
 ---

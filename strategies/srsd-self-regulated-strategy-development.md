@@ -71,7 +71,7 @@ SRSD combines explicit strategy instruction with [self-regulated learning](../th
 
 ## Key Sources
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
-- Graham, S., & Sandmel, K. (2011). The process writing approach: A meta-analysis. *Journal of Educational Psychology, 103*(4), 996–1018. [doi:10.17763/haer.81.4.t2k0m13756113566](https://doi.org/10.17763/haer.81.4.t2k0m13756113566)
+- Graham, S., & Sandmel, K. (2011). The process writing approach: A meta-analysis. *Journal of Educational Psychology, 103*(4), 996–1018.
 - Harris, K. R., Graham, S., Mason, L. H., & Friedlander, B. (2008). *Powerful writing strategies for all students.* Brookes Publishing.
 - Graham, S., Harris, K. R., & McKeown, D. (2013). The writing of students with learning disabilities, meta-analysis of self-regulated strategy development writing intervention studies, and future directions: Redux. In L. Swanson, K. R. Harris, & S. Graham (Eds.), *Handbook of learning disabilities* (2nd ed., pp. 405–438). Guilford Press.
 - De La Paz, S., & Graham, S. (2002). Explicitly teaching strategies, skills, and knowledge: Writing instruction in middle school classrooms. *Journal of Educational Psychology, 94*(4), 687–698. [doi:10.1037/0022-0663.94.4.687](https://doi.org/10.1037/0022-0663.94.4.687)

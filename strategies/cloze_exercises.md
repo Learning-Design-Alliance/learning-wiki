@@ -72,4 +72,4 @@ Cloze tasks convert reading from passive reception into generative retrieval: le
 - Oller, J. W., & Jonz, J. (Eds.). (1994). *Cloze and coherence*. Bucknell University Press.
 - Barnett, M. A. (1982). Some can-strategies and success in the ESL cloze test. *TESOL Quarterly, 16*(1), 65–71. [doi:10.2307/3586563](https://doi.org/10.2307/3586563)
 - Nation, I. S. P. (2001). *Learning vocabulary in another language*. Cambridge University Press. [doi:10.1017/CBO9781139524759](https://doi.org/10.1017/CBO9781139524759)
-- Fuchs, L. S., & Fuchs, D. (2004). Determining adequate yearly progress from a growth-based perspective. *Learning Disabilities Research & Practice, 19*(1), 12–24. [doi:10.1177/073724770402900405](https://doi.org/10.1177/073724770402900405)
+- Fuchs, L. S., & Fuchs, D. (2004). Determining adequate yearly progress from a growth-based perspective. *Assessment for Effective Intervention, 29*(4), 25-37. [doi:10.1177/073724770402900405](https://doi.org/10.1177/073724770402900405)

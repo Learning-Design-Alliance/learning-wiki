@@ -68,6 +68,6 @@ Reflective writing converts experience into articulated knowledge: the act of ex
 ## Key Sources
 - Moon, J. A. (2006). *Learning Journals: A Handbook for Reflective Practice and Professional Development* (2nd ed.). Routledge.
 - Boud, D., Keogh, R., & Walker, D. (Eds.). (1985). *Reflection: Turning Experience into Learning*. Kogan Page.
-- Connor-Greene, P. A. (2000). Assessing and promoting student learning: Blurring the line between teaching and testing. *College Teaching, 48*(2), 71–74. [doi:10.1207/s15328023top2702_01](https://doi.org/10.1207/s15328023top2702_01)
+- Connor-Greene, P. A. (2000). Assessing and promoting student learning: Blurring the line between teaching and testing. *Teaching of Psychology, 27*(2), 84-88. [doi:10.1207/s15328023top2702_01](https://doi.org/10.1207/s15328023top2702_01)
 - Ash, S. L., & Clayton, P. H. (2009). Generating, deepening, and documenting learning: The power of critical reflection in applied learning. *Journal of Applied Learning in Higher Education, 1*, 25–48.
 - Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)

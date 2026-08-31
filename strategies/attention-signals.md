@@ -67,7 +67,7 @@ Attention signals function as a conditioned cue: through repeated pairing, a neu
 - **Online seminars**: instructors use a raised-hand emoji in chat or a "mics off, cameras ready" cue as the digital attention signal before whole-group discussion.
 
 ## Key Sources
-- Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children, 31*(3), 351–380. [doi:10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)
+- Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children, 31*(1), 351-380. [doi:10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)
 - Marzano, R. J., Marzano, J. S., & Pickering, D. J. (2003). *Classroom Management That Works: Research-Based Strategies for Every Teacher.* ASCD.
 - Wong, H. K., & Wong, R. T. (2018). *The First Days of School: How to Be an Effective Teacher* (5th ed.). Harry K. Wong Publications.
 - Emmer, E. T., & Sabornie, E. J. (Eds.). (2015). *Handbook of Classroom Management* (2nd ed.). Routledge. [doi:10.4324/9780203074114](https://doi.org/10.4324/9780203074114)

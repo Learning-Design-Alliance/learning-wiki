@@ -70,6 +70,6 @@ Math Art leverages dual coding — representing concepts both visually and verba
 
 ## Key Sources
 - Mulligan, J. T., & Mitchelmore, M. C. (2009). Awareness of pattern and structure in early mathematical development. *Mathematics Education Research Journal, 21*(2), 33–49. [doi:10.1007/BF03217544](https://doi.org/10.1007/BF03217544)
-- Clements, D. H., & Sarama, J. (2007). Effects of a preschool mathematics curriculum: Summative research on the Building Blocks project. *Science, 318*(5850), 682–684. [doi:10.3102/0002831207312908](https://doi.org/10.3102/0002831207312908)
+- Clements, D. H., & Sarama, J. (2007). Effects of a preschool mathematics curriculum: Summative research on the Building Blocks project. *American Educational Research Journal, 45*(2), 443-494. [doi:10.3102/0002831207312908](https://doi.org/10.3102/0002831207312908)
 - Bishop, A. J. (1988). *Mathematical enculturation: A cultural perspective on mathematics education.* Kluwer Academic Publishers.
 - Boaler, J. (2016). *Mathematical mindsets: Unleashing students' potential through creative math, inspiring messages and innovative teaching.* Jossey-Bass.

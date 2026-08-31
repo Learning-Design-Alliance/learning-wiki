@@ -62,7 +62,7 @@ Listening comprehension and reading comprehension draw on shared language proces
 - **Audio-assisted reading influenced by the fluency literature** — Repeated listening while following text is a standard fluency intervention for struggling readers.
 
 ## Key Sources
-- Rogowsky, B. A., Calhoun, B. M., & Tallal, P. (2016). Does modality matter? The effects of reading, listening, and dual modality on comprehension. *Journal of Experimental Education, 84*(1), 125–152. [doi:10.1177/2158244016669550](https://doi.org/10.1177/2158244016669550)
+- Rogowsky, B. A., Calhoun, B. M., & Tallal, P. (2016). Does modality matter? The effects of reading, listening, and dual modality on comprehension. *Sage Open, 6*(3), 125. [doi:10.1177/2158244016669550](https://doi.org/10.1177/2158244016669550)
 - Daniel, D. B., & Willingham, D. T. (2012). The science of listening (in school). *Educational Leadership, 70*(2), 28–33.
 - Montali, J., & Lewandowski, L. (1996). Bimodal reading: Benefits of a talking computer for average and less skilled readers. *Journal of Learning Disabilities, 29*(3), 271–279. [doi:10.1177/002221949602900305](https://doi.org/10.1177/002221949602900305)
 - Willingham, D. T. (2017). *The Reading Mind: A Cognitive Approach to Understanding How the Mind Reads*. Jossey-Bass.

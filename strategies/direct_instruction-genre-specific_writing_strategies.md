@@ -69,7 +69,7 @@ Genre knowledge is largely tacit; learners who have not absorbed it through wide
 
 ## Key Sources
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
-- Graham, S., & Sandmel, D. (2011). The process writing approach: A meta-analysis. *Journal of Educational Psychology, 103*(2), 393–418. [doi:10.17763/haer.81.4.t2k0m13756113566](https://doi.org/10.17763/haer.81.4.t2k0m13756113566)
+- Graham, S., & Sandmel, D. (2011). The process writing approach: A meta-analysis. *Journal of Educational Psychology, 103*(2), 393–418.
 - De La Paz, S., & Graham, S. (2002). Explicitly teaching strategies, skills, and knowledge: Writing instruction in middle school classrooms. *Journal of Educational Psychology, 94*(4), 687–698. [doi:10.1037/0022-0663.94.4.687](https://doi.org/10.1037/0022-0663.94.4.687)
 - Graham, S., & Harris, K. R. (2016). A path to better writing: Evidence-based practices in the classroom. *The Reading Teacher, 69*(4), 359–365. [doi:10.1002/trtr.1432](https://doi.org/10.1002/trtr.1432)
 - Derewianka, B., & Jones, P. (2016). *Teaching Language in Context* (2nd ed.). Oxford University Press.

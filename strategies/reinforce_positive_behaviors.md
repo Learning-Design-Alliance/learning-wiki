@@ -66,7 +66,7 @@ Contingent, specific praise for appropriate behavior is among the most consisten
 - **Good Behavior Game** — a group contingency in which teams earn privileges by collectively meeting behavioral criteria; strong experimental support for reducing disruption [+S].
 
 ## Key Sources
-- Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management. *Education and Treatment of Children, 31*(3), 351–380. [doi:10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)
+- Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management. *Education and Treatment of Children, 31*(1), 351-380. [doi:10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
 - Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 125*(6), 627–668. [doi:10.1037/0033-2909.125.6.627](https://doi.org/10.1037/0033-2909.125.6.627)
 - Cameron, J., & Pierce, W. D. (1994). Reinforcement, reward, and intrinsic motivation: A meta-analysis. *Review of Educational Research, 64*(3), 363–423. [doi:10.3102/00346543064003363](https://doi.org/10.3102/00346543064003363)

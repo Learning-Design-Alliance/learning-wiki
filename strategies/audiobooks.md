@@ -68,7 +68,7 @@ Audiobooks exploit the fact that listening comprehension typically develops ahea
 - **[Storyline Online](https://storylineonline.net)** — actors reading picture books aloud, used in early-grade classrooms to model fluent reading
 
 ## Key Sources
-- Rogowsky, B. A., Calhoun, B. M., & Tallal, P. (2016). Does modality matter? The effects of reading, listening, and dual modulation on comprehension and vocabulary. *The Journal of Experimental Education, 84*(1), 1–22. [doi:10.1177/2158244016669550](https://doi.org/10.1177/2158244016669550)
+- Rogowsky, B. A., Calhoun, B. M., & Tallal, P. (2016). Does modality matter? The effects of reading, listening, and dual modulation on comprehension and vocabulary. *Sage Open, 6*(3), 1. [doi:10.1177/2158244016669550](https://doi.org/10.1177/2158244016669550)
 - Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the Science of Instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)
 - Clark, J. M., & Paivio, A. (1991). Dual coding theory and education. *Educational Psychology Review, 3*(3), 149–210. [doi:10.1007/BF01320076](https://doi.org/10.1007/BF01320076)
 - Wolfson, G. (2008). Using audiobooks and meeting the needs of the struggling reader. *Journal of Adolescent & Adult Literacy, 51*(7), 584–591.

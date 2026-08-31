@@ -70,6 +70,6 @@ Collaboration improves achievement when it is structured — with positive inter
 
 ## Key Sources
 - Springer, L., Stanne, M. E., & Donovan, S. S. (1999). Effects of small-group learning on undergraduates in science, mathematics, engineering, and technology: A meta-analysis. *Review of Educational Research, 69*(1), 21–51. [doi:10.3102/00346543069001021](https://doi.org/10.3102/00346543069001021)
-- Johnson, D. W., & Johnson, R. T. (2008). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Psychologist, 43*(4), 215–231. [doi:10.3102/0013189x09339057](https://doi.org/10.3102/0013189x09339057)
+- Johnson, D. W., & Johnson, R. T. (2008). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365-379. [doi:10.3102/0013189x09339057](https://doi.org/10.3102/0013189x09339057)
 - Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., Jordt, H., & Wenderoth, M. P. (2014). Active learning increases student performance in science, engineering, and mathematics. *PNAS, 111*(23), 8410–8415. [doi:10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)
 - Webb, N. M. (2009). The teacher's role in promoting collaborative dialogue in the classroom. *British Journal of Educational Psychology, 79*(1), 1–28. [doi:10.1348/000709908X380772](https://doi.org/10.1348/000709908X380772)

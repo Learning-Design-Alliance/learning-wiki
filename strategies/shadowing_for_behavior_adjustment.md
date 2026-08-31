@@ -69,6 +69,6 @@ Shadowing functions as intensive, in-the-moment [Coaching](../elements/coaching.
 
 ## Key Sources
 - Bandura, A. (1977). *Social learning theory*. Prentice Hall.
-- Webster-Stratton, C., Reid, M. J., & Hammond, M. (2004). Treating children with early-onset conduct problems: Intervention outcomes for parent, child, and teacher training. *Journal of Child Psychology and Psychiatry, 45*(1), 105–124. [doi:10.1207/s15374424jccp3301_11](https://doi.org/10.1207/s15374424jccp3301_11)
+- Webster-Stratton, C., Reid, M. J., & Hammond, M. (2004). Treating children with early-onset conduct problems: Intervention outcomes for parent, child, and teacher training. *Journal of Clinical Child &amp; Adolescent Psychology, 33*(1), 105-124. [doi:10.1207/s15374424jccp3301_11](https://doi.org/10.1207/s15374424jccp3301_11)
 - Sugai, G., & Horner, R. H. (2002). The evolution of discipline practices: School-wide positive behavior supports. *Child & Family Behavior Therapy, 24*(1–2), 23–50. [doi:10.1300/J019v24n01_03](https://doi.org/10.1300/J019v24n01_03)
 - Crone, D. A., & Horner, R. H. (2003). *Building positive behavior support systems in schools: Functional behavioral assessment*. Guilford Press.

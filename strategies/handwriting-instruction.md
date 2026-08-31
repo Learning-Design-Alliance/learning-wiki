@@ -65,5 +65,5 @@ Handwriting is a transcription skill: when letter production is effortful, worki
 ## Key Sources
 - Berninger, V. W., Vaughan, K., Abbott, R. D., Begay, K., Coleman, K. B., Curtin, G., Hawkins, J. M., & Graham, S. (2002). Teaching spelling and composition alone and together: Implications for the simple view of writing. *Journal of Educational Psychology, 94*(2), 291–304. [doi:10.1037/0022-0663.94.2.291](https://doi.org/10.1037/0022-0663.94.2.291)
 - Graham, S., Harris, K. R., Mason, L., Fink-Chorzempa, B., Moran, S., & Saddler, B. (2008). How do primary grade teachers teach handwriting? A national survey. *Reading and Writing, 21*(1–2), 49–69. [doi:10.1007/s11145-007-9064-z](https://doi.org/10.1007/s11145-007-9064-z)
-- James, K. H., & Engelhardt, L. (2012). The effects of handwriting experience on literacy learning. *Trends in Neuroscience and Education, 1*(2), 56–67. [doi:10.1016/j.tine.2012.08.001](https://doi.org/10.1016/j.tine.2012.08.001)
+- James, K. H., & Engelhardt, L. (2012). The effects of handwriting experience on literacy learning. *Trends in Neuroscience and Education, 1*(2), 56–67.
 - Graham, S., & Santangelo, T. (2014). Does spelling instruction make students better spellers, readers, and writers? A meta-analytic review. *Reading and Writing, 27*(9), 1703–1743. [doi:10.1007/s11145-014-9517-0](https://doi.org/10.1007/s11145-014-9517-0)

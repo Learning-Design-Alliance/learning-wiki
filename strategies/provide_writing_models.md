@@ -68,5 +68,5 @@ Writing models function as worked examples for a domain where the "procedure" is
 ## Key Sources
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
 - Sadler, D. R. (1989). Formative assessment and the design of instructional systems. *Instructional Science, 18*(2), 119–144. [doi:10.1007/BF00117714](https://doi.org/10.1007/BF00117714)
-- Braaksma, M. A. H., Rijlaarsdam, G., & van den Bergh, H. (2002). Observational learning and the effects of model-overflow in learning to write. *British Journal of Educational Psychology, 72*(4), 551–572. [doi:10.1037/0022-0663.94.2.405](https://doi.org/10.1037/0022-0663.94.2.405)
+- Braaksma, M. A. H., Rijlaarsdam, G., & van den Bergh, H. (2002). Observational learning and the effects of model-overflow in learning to write. *Journal of Educational Psychology, 94*(2), 405-415. [doi:10.1037/0022-0663.94.2.405](https://doi.org/10.1037/0022-0663.94.2.405)
 - Zimmerman, B. J., & Kitsantas, A. (2002). Acquiring writing revision and self-regulatory skill through observation and emulation. *Journal of Educational Psychology, 94*(4), 660–668. [doi:10.1037/0022-0663.94.4.660](https://doi.org/10.1037/0022-0663.94.4.660)

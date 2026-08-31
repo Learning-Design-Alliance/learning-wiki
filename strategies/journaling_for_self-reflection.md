@@ -69,7 +69,7 @@ Reflection prompts convert experience into articulated knowledge; unstructured "
 - **IB Diploma CAS portfolios** — International Baccalaureate students maintain reflective journals over 18 months of creativity, activity, and service experiences, with structured prompts and advisor check-ins.
 
 ## Key Sources
-- Connor-Greene, P. A. (2000). Assessing and promoting student learning: Blurring the line between teaching and testing. *College Teaching, 48*(2), 62–65. [doi:10.1207/s15328023top2702_01](https://doi.org/10.1207/s15328023top2702_01)
+- Connor-Greene, P. A. (2000). Assessing and promoting student learning: Blurring the line between teaching and testing. *Teaching of Psychology, 27*(2), 84-88. [doi:10.1207/s15328023top2702_01](https://doi.org/10.1207/s15328023top2702_01)
 - Boud, D., Keogh, R., & Walker, D. (Eds.). (1985). *Reflection: Turning experience into learning.* Kogan Page.
 - Moon, J. A. (2006). *Learning journals: A handbook for reflective practice and professional development* (2nd ed.). Routledge.
 - Ash, S. L., & Clayton, P. H. (2009). Generating, deepening, and documenting learning: The power of critical reflection in applied learning. *Journal of Applied Learning in Higher Education, 1*, 25–48.

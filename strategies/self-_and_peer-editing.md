@@ -68,7 +68,7 @@ Editing as a formative activity improves writing quality when it is criterion-re
 - **Classroom checklist routine:** Using an editing checklist, students self-edit their drafts, then meet with a partner to peer-edit; the teacher first models the checklist on sample text, and groups collaboratively edit one shared piece.
 
 ## Key Sources
-- Graham, S., & Sandmel, D. (2011). The process writing approach: A meta-analysis. *The Journal of Educational Research, 104*(6), 396–407. [doi:10.17763/haer.81.4.t2k0m13756113566](https://doi.org/10.17763/haer.81.4.t2k0m13756113566)
+- Graham, S., & Sandmel, D. (2011). The process writing approach: A meta-analysis. *The Journal of Educational Research, 104*(6), 396–407.
 - Topping, K. (1998). Peer assessment between students in colleges and universities. *Review of Educational Research, 68*(3), 249–276. [doi:10.3102/00346543068003249](https://doi.org/10.3102/00346543068003249)
 - Cho, K., & MacArthur, C. (2011). Learning by reviewing. *Journal of Educational Psychology, 103*(1), 54–67. [doi:10.1037/a0021950](https://doi.org/10.1037/a0021950)
 - Sadler, D. R. (1989). Formative assessment and the design of instructional systems. *Instructional Science, 18*(2), 119–144. [doi:10.1007/bf00117714](https://doi.org/10.1007/bf00117714)

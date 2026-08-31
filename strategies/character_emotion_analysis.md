@@ -75,6 +75,6 @@ Reading narrative fiction requires tracking characters' goals, beliefs, and emot
 
 ## Key Sources
 - Kidd, D. C., & Castano, E. (2013). Reading literary fiction improves theory of mind. *Science, 342*(6156), 377–380. [doi:10.1126/science.1239918](https://doi.org/10.1126/science.1239918)
-- Mar, R. A., Oatley, K., & Peterson, J. B. (2009). Exploring the link between reading fiction and empathy: Ruling out individual differences and examining outcomes. *European Journal of Communication Research, 34*(2), 165–180. [doi:10.1515/comm.2009.025](https://doi.org/10.1515/comm.2009.025)
+- Mar, R. A., Oatley, K., & Peterson, J. B. (2009). Exploring the link between reading fiction and empathy: Ruling out individual differences and examining outcomes. *COMM, 34*(4), 407-428. [doi:10.1515/comm.2009.025](https://doi.org/10.1515/comm.2009.025)
 - Denham, S. A. (2006). Social-emotional competence as support for school readiness: What is it and how do we assess it? *Early Education and Development, 17*(1), 57–89. [doi:10.1207/s15566935eed1701_4](https://doi.org/10.1207/s15566935eed1701_4)
 - Rivers, S. E., Brackett, M. A., Reyes, M. R., Mayer, J. D., Caruso, D. R., & Salovey, P. (2012). Measuring emotional intelligence in early adolescence with the MSCEIT-YV. *Journal of Psychoeducational Assessment, 30*(4), 344–366. [doi:10.1177/0734282912449443](https://doi.org/10.1177/0734282912449443)

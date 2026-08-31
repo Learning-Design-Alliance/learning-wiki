@@ -66,7 +66,7 @@ Query formulation is a procedural skill that novices perform poorly without expl
 - **Middle school science research project** — students search a question three ways (full question, keywords, keywords with quotation marks), compare the relevance of top results, and record which formulation worked in a search log.
 
 ## Key Sources
-- Brand-Gruwel, S., Wopereis, I., & Vermetten, Y. (2005). Information problem solving by experts and novices: Analysis of a complex cognitive skill. *Computers & Education, 45*(1), 487–520. [doi:10.1016/j.chb.2004.10.005](https://doi.org/10.1016/j.chb.2004.10.005)
-- Walraven, A., Brand-Gruwel, B., & Boshuizen, H. P. A. (2008). Information-problem solving: A review of problems students encounter and instructional solutions. *Computers in Human Behavior, 24*(3), 1023–1041. [doi:10.1016/j.chb.2007.01.030](https://doi.org/10.1016/j.chb.2007.01.030)
+- Brand-Gruwel, S., Wopereis, I., & Vermetten, Y. (2005). Information problem solving by experts and novices: Analysis of a complex cognitive skill. *Computers in Human Behavior, 21*(3), 487-508. [doi:10.1016/j.chb.2004.10.005](https://doi.org/10.1016/j.chb.2004.10.005)
+- Walraven, A., Brand-Gruwel, B., & Boshuizen, H. P. A. (2008). Information-problem solving: A review of problems students encounter and instructional solutions. *Computers in Human Behavior, 24*(3), 623-648. [doi:10.1016/j.chb.2007.01.030](https://doi.org/10.1016/j.chb.2007.01.030)
 - Kuiper, E., Volman, M., & Terwel, J. (2005). The Web as an information resource in K–12 education: Knowledge-building and classroom integration. *Computers & Education, 45*(1), 361–371.
 - Leu, D. J., Kinzer, C. K., Coiro, J., Castek, J., & Henry, L. A. (2013). New literacies: A dual-level theory of the changing nature of literacy, instruction, and assessment. In D. E. Alvermann, N. J. Unrau, & R. B. Ruddell (Eds.), *Theoretical models and processes of reading* (6th ed., pp. 1150–1181). International Reading Association.

@@ -69,7 +69,7 @@ Hand-raising lets a small minority of confident students dominate discourse whil
 
 ## Key Sources
 - Rowe, M. B. (1986). Wait time: Slowing down may be a way of speeding up! *Journal of Teacher Education, 37*(1), 43–50. [doi:10.1177/002248718603700110](https://doi.org/10.1177/002248718603700110)
-- Dallimore, E. J., Hertenstein, J. H., & Platt, M. B. (2013). Impact of cold-calling on student voluntary participation and perceptions of learning. *Journal on Excellence in College Teaching, 24*(3), 25–46. [doi:10.1177/1052562912446067](https://doi.org/10.1177/1052562912446067)
+- Dallimore, E. J., Hertenstein, J. H., & Platt, M. B. (2013). Impact of cold-calling on student voluntary participation and perceptions of learning. *Journal of Management Education, 37*(3), 305-341. [doi:10.1177/1052562912446067](https://doi.org/10.1177/1052562912446067)
 - Lemov, D. (2010). *Teach Like a Champion: 49 Techniques that Put Students on the Path to College*. Jossey-Bass.
 - Wiliam, D. (2011). *Embedded Formative Assessment*. Solution Tree Press.
 - Freeman, S., et al. (2014). Active learning increases student performance in science, engineering, and mathematics. *PNAS, 111*(23), 8410–8415. [doi:10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)

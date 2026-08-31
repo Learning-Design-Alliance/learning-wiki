@@ -75,6 +75,6 @@ Summarization works because it forces generative processing: learners must selec
 ## Key Sources
 - Rinehart, S. D., Stahl, S. A., & Erickson, L. G. (1986). Some effects of summarization teaching on reading and studying. *Reading Research Quarterly, 21*(4), 422–438. [doi:10.2307/747614](https://doi.org/10.2307/747614)
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
-- Wade-Stein, D., & Kintsch, E. (2004). Summary Street: Interactive computer support for writing comprehension. *Interactive Learning Environments, 12*(3), 239–258. [doi:10.1207/s1532690xci2203_3](https://doi.org/10.1207/s1532690xci2203_3)
+- Wade-Stein, D., & Kintsch, E. (2004). Summary Street: Interactive computer support for writing comprehension. *Cognition and Instruction, 22*(3), 333-362. [doi:10.1207/s1532690xci2203_3](https://doi.org/10.1207/s1532690xci2203_3)
 - Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)
 - Graham, S., & Hebert, M. (2011). Writing-to-read: A meta-analysis of the impact of writing and writing instruction on reading. *Harvard Educational Review, 81*(4), 710–744. [doi:10.17763/haer.81.4.t2k0m13756113566](https://doi.org/10.17763/haer.81.4.t2k0m13756113566)

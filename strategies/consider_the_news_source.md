@@ -65,7 +65,7 @@ Source evaluation is most effective when taught as *lateral reading* — leaving
 - **News literacy units comparing coverage** — learners contrast a wire-service report (visible sourcing, editorial review) with a content-mill article on the same event, identifying which accountability signals each displays.
 
 ## Key Sources
-- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(3), 1–40. [doi:10.37016/mr-2020-56](https://doi.org/10.37016/mr-2020-56)
+- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(3), 1–40.
 - Breakstone, J., Smith, M., Orland, M., Barr, D., Spindler, S., & Wineburg, S. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8), 505–515. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
 - Metzger, M. J., Flanagin, A. J., & Medders, R. B. (2010). Social and heuristic approaches to credibility evaluation online. *Journal of Communication, 60*(3), 413–439. [doi:10.1111/j.1460-2466.2010.01488.x](https://doi.org/10.1111/j.1460-2466.2010.01488.x)
 - Caulfield, M. (2019). *Web literacy for student fact-checkers... and other people who care about facts*. Pressbooks. [https://webliteracy.pressbooks.com](https://webliteracy.pressbooks.com)

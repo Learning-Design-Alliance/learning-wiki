@@ -65,6 +65,6 @@ Mindfulness training functions as attention regulation practice: controlled stud
 
 ## Key Sources
 - Mrazek, M. D., Franklin, M. S., Phillips, D. T., Baird, B., & Schooler, J. W. (2014). Mindfulness training improves working memory capacity and GRE performance while reducing mind wandering. *Psychological Science, 24*(5), 776–781. [doi:10.1177/0956797612459659](https://doi.org/10.1177/0956797612459659)
-- Zenner, C., Herrnleben-Kurz, S., & Walach, H. (2014). Mindfulness-based interventions in schools — a systematic review and meta-analysis. *Social Indicators Research, 119*(2), 605–628. [doi:10.3389/fpsyg.2014.00603](https://doi.org/10.3389/fpsyg.2014.00603)
+- Zenner, C., Herrnleben-Kurz, S., & Walach, H. (2014). Mindfulness-based interventions in schools — a systematic review and meta-analysis. *Frontiers in Psychology, 5*(2), 605. [doi:10.3389/fpsyg.2014.00603](https://doi.org/10.3389/fpsyg.2014.00603)
 - Kabat-Zinn, J. (2003). Mindfulness-based interventions in context: Past, present, and future. *Clinical Psychology: Science and Practice, 10*(2), 144–156. [doi:10.1093/clipsy.bpg016](https://doi.org/10.1093/clipsy.bpg016)
 - Roeser, R. W., Schonert-Reichl, K. A., Jha, A., et al. (2013). Mindfulness training and reductions in teacher stress and burnout: Results from a randomized, controlled trial. *Journal of Educational Psychology, 105*(3), 787–804. [doi:10.1037/a0032093](https://doi.org/10.1037/a0032093)

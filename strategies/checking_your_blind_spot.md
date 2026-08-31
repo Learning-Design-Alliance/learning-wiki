@@ -83,7 +83,7 @@ The strategy works because it converts an invisible influence into an object of 
 - **Project Implicit education modules** — used in university and workplace settings to introduce the blind-spot premise, followed by facilitated case discussion and commitment to countermeasures.
 
 ## Key Sources
-- Forscher, P. S., Lai, C. K., Axt, J., Ebersole, C. R., Herman, M., Devine, P. G., & Nosek, B. A. (2019). A meta-analysis of procedures to change implicit bias. *Psychological Bulletin, 145*(5), 522–541. [doi:10.1037/pspa0000160](https://doi.org/10.1037/pspa0000160)
-- Devine, P. G., Forscher, P. S., Austin, A. J., & Cox, W. T. L. (2012). Long-term reduction in implicit bias: A prejudice habit-breaking intervention. *Journal of Personality and Social Psychology, 103*(4), 497–516. [doi:10.1016/j.jesp.2012.06.003](https://doi.org/10.1016/j.jesp.2012.06.003)
+- Forscher, P. S., Lai, C. K., Axt, J., Ebersole, C. R., Herman, M., Devine, P. G., & Nosek, B. A. (2019). A meta-analysis of procedures to change implicit bias. *Journal of Personality and Social Psychology, 117*(3), 522-559. [doi:10.1037/pspa0000160](https://doi.org/10.1037/pspa0000160)
+- Devine, P. G., Forscher, P. S., Austin, A. J., & Cox, W. T. L. (2012). Long-term reduction in implicit bias: A prejudice habit-breaking intervention. *Journal of Personality and Social Psychology, 103*(4), 497–516.
 - Moss-Racusin, C. A., Dovidio, J. F., Brescoll, V. L., Graham, M. J., & Handelsman, J. (2012). Science faculty's subtle gender biases favor male students. *PNAS, 109*(41), 16474–16479. [doi:10.1073/pnas.1211286109](https://doi.org/10.1073/pnas.1211286109)
 - Lai, C. K., Marini, M., Lehr, S. A., Cerruti, C., Shin, J.-E. L., Joy-Gaba, J. A., … Nosek, B. A. (2014). Reducing implicit racial preferences: I. A comparative investigation of 17 interventions. *Journal of Experimental Psychology: General, 143*(4), 1765–1785. [doi:10.1037/pspi0000339](https://doi.org/10.1037/pspi0000339)

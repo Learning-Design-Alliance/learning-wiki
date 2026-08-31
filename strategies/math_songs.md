@@ -66,6 +66,6 @@ Songs impose structure on verbal material, effectively chunking content into rhy
 
 ## Key Sources
 - Wallace, W. T. (1994). Memory for music: Effect of melody on recall of text. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 20*(6), 1471–1485. [doi:10.1037/0278-7393.20.6.1471](https://doi.org/10.1037/0278-7393.20.6.1471)
-- Calvert, S. L., & Tart, M. (1993). Song versus verbal forms for very-long-term, long-term, and short-term verbatim recall. *Developmental Psychology, 29*(6), 1167–1173. [doi:10.1016/0193-3973(93)90035-t](https://doi.org/10.1016/0193-3973(93)90035-t)
+- Calvert, S. L., & Tart, M. (1993). Song versus verbal forms for very-long-term, long-term, and short-term verbatim recall. *Journal of Applied Developmental Psychology, 14*(2), 245-260. [doi:10.1016/0193-3973(93)90035-t](https://doi.org/10.1016/0193-3973(93)90035-t)
 - Geist, K., Geist, E. A., & Kuznik, K. (2012). The patterns of music: Young children learning mathematics through beat, rhythm, and melody. *YC: Young Children, 67*(1), 82–89.
 - Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)

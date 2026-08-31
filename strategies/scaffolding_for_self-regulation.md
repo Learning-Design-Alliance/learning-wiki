@@ -72,6 +72,6 @@ Effective scaffolding of self-regulation is contingent — the amount and type o
 ## Key Sources
 - Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press.
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
-- Dignath, C., & Büttner, G. (2008). Components of fostering self-regulated learning among students: A meta-analysis on intervention studies at primary and secondary school level. *Learning and Instruction, 18*(2), 111–122. [doi:10.1007/s11409-008-9029-x](https://doi.org/10.1007/s11409-008-9029-x)
+- Dignath, C., & Büttner, G. (2008). Components of fostering self-regulated learning among students: A meta-analysis on intervention studies at primary and secondary school level. *Metacognition and Learning, 3*(3), 231-264. [doi:10.1007/s11409-008-9029-x](https://doi.org/10.1007/s11409-008-9029-x)
 - Pino-Pasternak, D., Whitebread, D., & Tolmie, A. (2014). Dimensions of parental involvement in home-school relationships: A metacognitive and self-regulatory perspective. *Review of Education, 2*(3), 210–241. [doi:10.1002/rev3.3030](https://doi.org/10.1002/rev3.3030)
 - Hmelo-Silver, C. E., Duncan, R. G., & Chinn, C. A. (2007). Scaffolding and achievement in problem-based and inquiry learning: A response to Kirschner, Sweller, and Clark (2006). *Educational Psychologist, 42*(2), 99–107. [doi:10.1080/00461520701263368](https://doi.org/10.1080/00461520701263368)

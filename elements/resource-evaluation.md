@@ -71,7 +71,7 @@ Resource evaluation works when learners actively apply criteria to real, contras
 **Annotated bibliography assignments** — Learners summarize, evaluate, and justify the role of each source in an emerging argument, making evaluative reasoning assessable.
 
 ## Key Sources
-- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Training college students to evaluate online sources. *Teachers College Record, 121*(11), 1–32. [doi:10.37016/mr-2020-56](https://doi.org/10.37016/mr-2020-56)
+- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Training college students to evaluate online sources. *Harvard Kennedy School Misinformation Review, 121*(11), 1. [doi:10.37016/mr-2020-56](https://doi.org/10.37016/mr-2020-56)
 - Braasch, J. L. G., Bråten, I., Strømsø, H. I., Anmarkrud, Ø., & Ferguson, L. E. (2013). Promoting secondary school students' evaluation of source features of multiple documents. *Contemporary Educational Psychology, 38*(3), 180–195. [doi:10.1016/j.cedpsych.2013.03.003](https://doi.org/10.1016/j.cedpsych.2013.03.003)
 - Britt, M. A., & Aglinskas, C. (2002). Improving students' ability to identify and use source information. *Cognition and Instruction, 20*(4), 485–522. [doi:10.1207/S1532690XCI2004_2](https://doi.org/10.1207/S1532690XCI2004_2)
 - McGrew, S., Ortega, T., Breakstone, J., & Wineburg, S. (2017). The challenge that's bigger than fake news: Civic reasoning in a social media environment. *American Educator, 41*(3), 4–9.

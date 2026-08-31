@@ -69,5 +69,5 @@ Word sorts operationalize inductive concept learning: rather than being told a r
 ## Key Sources
 - Bear, D. R., Invernizzi, M., Templeton, S., & Johnston, F. (2016). *Words their way: Word study for phonics, vocabulary, and spelling instruction* (6th ed.). Pearson.
 - Ehri, L. C. (2005). Learning to read words: Theory, findings, and issues. *Scientific Studies of Reading, 9*(2), 167–188. [doi:10.1207/s1532799xssr0902_4](https://doi.org/10.1207/s1532799xssr0902_4)
-- Graham, S., & Santangelo, T. (2014). Does spelling instruction make students better spellers or readers? A meta-analytic review. *Reading and Writing, 27*(9), 1703–1743. [doi:10.1007/s11145-014-9517-0](https://doi.org/10.1007/s11145-014-9517-0)
+- Graham, S., & Santangelo, T. (2014). Does spelling instruction make students better spellers or readers? A meta-analytic review. *Reading and Writing, 27*(9), 1703–1743.
 - Joseph, L. M. (2000). Developing first graders' phonemic awareness, word identification and spelling: A comparison of two contemporary FRY word study approaches. *Reading Psychology, 21*(4), 315–334.

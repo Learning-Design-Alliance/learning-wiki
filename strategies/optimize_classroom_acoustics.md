@@ -68,5 +68,5 @@ Speech is the primary instructional medium, and degraded acoustics impose a cont
 ## Key Sources
 - Crandell, C. C., & Smaldino, J. J. (2000). Classroom acoustics for children with normal hearing and with hearing impairment. *Language, Speech, and Hearing Services in Schools, 31*(4), 362–370. [doi:10.1044/0161-1461.3104.362](https://doi.org/10.1044/0161-1461.3104.362)
 - Klatte, M., Bergström, K., & Lachmann, T. (2013). Does noise affect learning? A short review on noise effects on cognitive performance in children. *Frontiers in Psychology, 4*, 578. [doi:10.3389/fpsyg.2013.00578](https://doi.org/10.3389/fpsyg.2013.00578)
-- Shield, B. M., & Dockrell, J. E. (2003). The effects of noise on children at school: A review. *Journal of Building Acoustics, 10*(2), 97–116. [doi:10.1260/135101003768965960](https://doi.org/10.1260/135101003768965960)
+- Shield, B. M., & Dockrell, J. E. (2003). The effects of noise on children at school: A review. *Building Acoustics, 10*(2), 97-116. [doi:10.1260/135101003768965960](https://doi.org/10.1260/135101003768965960)
 - American National Standards Institute. (2010). *ANSI S12.60-2010: Acoustical performance criteria, design requirements, and guidelines for schools*. Acoustical Society of America.

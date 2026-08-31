@@ -71,6 +71,6 @@ This strategy treats the educator's self-knowledge as a prerequisite for equitab
 ## Key Sources
 - Gay, G. (2018). *Culturally Responsive Teaching: Theory, Research, and Practice* (3rd ed.). Teachers College Press.
 - Okonofua, J. A., Paunesku, D., & Walton, G. M. (2016). Brief intervention to encourage empathic discipline cuts suspension rates in half among adolescents. *Proceedings of the National Academy of Sciences, 113*(19), 5221–5226. [doi:10.1073/pnas.1523698113](https://doi.org/10.1073/pnas.1523698113)
-- Forscher, P. S., et al. (2019). A meta-analysis of procedures to change implicit bias. *Psychological Bulletin, 145*(5), 522–541. [doi:10.1037/pspa0000160](https://doi.org/10.1037/pspa0000160)
+- Forscher, P. S., et al. (2019). A meta-analysis of procedures to change implicit bias. *Journal of Personality and Social Psychology, 117*(3), 522-559. [doi:10.1037/pspa0000160](https://doi.org/10.1037/pspa0000160)
 - Devine, P. G., Forscher, P. S., Austin, A. J., & Cox, W. T. L. (2012). Long-term reduction in implicit race bias: A prejudice habit-breaking intervention. *Journal of Experimental Social Psychology, 48*(6), 1267–1278. [doi:10.1016/j.jesp.2012.06.003](https://doi.org/10.1016/j.jesp.2012.06.003)
 - Hammond, Z. (2015). *Culturally Responsive Teaching and the Brain*. Corwin.

@@ -64,6 +64,6 @@ Project-based learning embeds content learning in complex, language-rich tasks, 
 
 ## Key Sources
 - Echevarría, J., Vogt, M., & Short, D. J. (2017). *Making content comprehensible for English learners: The SIOP model* (5th ed.). Pearson.
-- Bunch, G. C. (2013). Pedagogical language knowledge: Preparing teachers for all students in today's classrooms. *Bilingual Research Journal, 36*(3), 281–298. [doi:10.1177/016146811011201404](https://doi.org/10.1177/016146811011201404)
+- Bunch, G. C. (2013). Pedagogical language knowledge: Preparing teachers for all students in today's classrooms. *Bilingual Research Journal, 36*(3), 281–298.
 - Gibbons, P. (2002). *Scaffolding language, scaffolding learning: Teaching second language learners in the mainstream classroom*. Heinemann.
 - Lee, O., Quinn, H., & Valdés, G. (2013). Science and language for English language learners in relation to Next Generation Science Standards and with implications for Common Core State Standards for English language arts and mathematics. *Educational Researcher, 42*(4), 223–233. [doi:10.3102/0013189X13480524](https://doi.org/10.3102/0013189X13480524)

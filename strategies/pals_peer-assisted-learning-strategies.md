@@ -69,6 +69,6 @@ PALS converts practice time into high-frequency, individualized responding: each
 
 ## Key Sources
 - Fuchs, D., Fuchs, L. S., Mathes, P. G., & Simmons, D. C. (1997). Peer-assisted learning strategies: Making classrooms more responsive to diversity. *American Educational Research Journal, 34*(1), 174–206. [doi:10.3102/00028312034001174](https://doi.org/10.3102/00028312034001174)
-- Fuchs, L. S., Fuchs, D., Yazdian, L., & Powell, S. R. (2002). Enhancing first-grade children's mathematical development with peer-assisted learning strategies. *School Psychology Review, 31*(3), 350–367. [doi:10.1080/02796015.2002.12086160](https://doi.org/10.1080/02796015.2002.12086160)
+- Fuchs, L. S., Fuchs, D., Yazdian, L., & Powell, S. R. (2002). Enhancing first-grade children's mathematical development with peer-assisted learning strategies. *School Psychology Review, 31*(3), 350–367.
 - Rohrbeck, C. A., Ginsburg-Block, M. D., Fantuzzo, J. W., & Miller, T. R. (2003). Peer-assisted learning interventions with elementary school students: A meta-analytic review. *Journal of Educational Psychology, 95*(2), 240–257. [doi:10.1037/0022-0663.95.2.240](https://doi.org/10.1037/0022-0663.95.2.240)
 - What Works Clearinghouse (2021). *Peer-Assisted Learning Strategies (PALS) intervention report.* Institute of Education Sciences. [https://ies.ed.gov/ncee/wwc/InterventionReport/816](https://ies.ed.gov/ncee/wwc/InterventionReport/816)

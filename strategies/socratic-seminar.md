@@ -70,7 +70,7 @@ Socratic Seminars operationalize [Active Learning](../principles/active-learning
 - **Fishbowl seminars in online courses** — synchronous video seminars with breakout "inner circles" and chat-based observer notes, adapting turn-taking norms to remote settings
 
 ## Key Sources
-- Murphy, P. K., Wilkinson, I. A. G., Soter, A. O., Hennessey, M. N., & Alexander, J. F. (2009). Examining the effects of classroom discussion on students' comprehension of text: A meta-analysis. *Review of Educational Research, 79*(2), 814–859. [doi:10.1037/a0015576](https://doi.org/10.1037/a0015576)
+- Murphy, P. K., Wilkinson, I. A. G., Soter, A. O., Hennessey, M. N., & Alexander, J. F. (2009). Examining the effects of classroom discussion on students' comprehension of text: A meta-analysis. *Journal of Educational Psychology, 101*(3), 740-764. [doi:10.1037/a0015576](https://doi.org/10.1037/a0015576)
 - Applebee, A. N., Langer, J. A., Nystrand, M., & Gamoran, A. (2003). Discussion-based approaches to developing understanding: Classroom instruction and student performance in middle and high school English. *American Educational Research Journal, 40*(3), 685–730. [doi:10.3102/00028312040003685](https://doi.org/10.3102/00028312040003685)
 - Mercier, H., & Sperber, D. (2011). Why do humans reason? Arguments for an argumentative theory. *Behavioral and Brain Sciences, 34*(2), 57–74. [doi:10.1017/S0140525X10000968](https://doi.org/10.1017/S0140525X10000968)
 - Paul, R., & Elder, L. (2007). *Critical thinking: The art of Socratic questioning*. Journal of Developmental Education, 31(1), 36–37.

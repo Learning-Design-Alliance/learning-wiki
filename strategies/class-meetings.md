@@ -68,7 +68,7 @@ Class meetings operationalize social-emotional learning and community-building: 
 - **Weekly team meetings in EL Education (Expeditionary Learning) crews** — secondary adaptation where a small stable group meets for community, goal-setting, and academic reflection.
 
 ## Key Sources
-- Rimm-Kaufman, S. E., Fan, X., Chiu, Y.-J., & You, W. (2007). The contribution of the Responsive Classroom Approach to children's academic and social adjustment. *Early Education and Development, 18*(3), 445–470. [doi:10.1002/pits.20231](https://doi.org/10.1002/pits.20231)
+- Rimm-Kaufman, S. E., Fan, X., Chiu, Y.-J., & You, W. (2007). The contribution of the Responsive Classroom Approach to children's academic and social adjustment. *Psychology in the Schools, 44*(4), 397-413. [doi:10.1002/pits.20231](https://doi.org/10.1002/pits.20231)
 - Osterman, K. F. (2000). Students' need for belonging in the school community. *Review of Educational Research, 70*(3), 323–367. [doi:10.3102/00346543070003323](https://doi.org/10.3102/00346543070003323)
 - Glasser, W. (1986). *Control theory in the classroom*. Harper & Row.
-- Rimm-Kaufman, S. E., & Chiu, Y.-J. (2007). Promoting social and academic competence in the classroom: An intervention study examining the contribution of the Responsive Classroom Approach. *Psychology in the Schools, 44*(4), 397–413. [doi:10.1002/pits.20231](https://doi.org/10.1002/pits.20231)
+- Rimm-Kaufman, S. E., & Chiu, Y.-J. (2007). Promoting social and academic competence in the classroom: An intervention study examining the contribution of the Responsive Classroom Approach. *Psychology in the Schools, 44*(4), 397-413. [doi:10.1002/pits.20231](https://doi.org/10.1002/pits.20231)

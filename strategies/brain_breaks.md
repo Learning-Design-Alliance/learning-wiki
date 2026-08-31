@@ -70,7 +70,7 @@ Brain breaks function primarily as an [attention](../elements/activation.md) and
 - **Mindful breathing breaks** in secondary classrooms — 2 minutes of guided breathing to down-regulate arousal before assessments.
 
 ## Key Sources
-- Fedewa, A. L., & Ahn, S. (2011). The effects of physical activity and physical fitness on children's achievement and cognitive outcomes: A meta-analysis. *Review of Educational Research, 81*(3), 443–478. [doi:10.1080/02701367.2011.10599785](https://doi.org/10.1080/02701367.2011.10599785)
+- Fedewa, A. L., & Ahn, S. (2011). The effects of physical activity and physical fitness on children's achievement and cognitive outcomes: A meta-analysis. *Research Quarterly for Exercise and Sport, 82*(3), 521-535. [doi:10.1080/02701367.2011.10599785](https://doi.org/10.1080/02701367.2011.10599785)
 - Sio, U. N., & Ormerod, T. C. (2009). Does incubation enhance problem solving? A meta-analytic review. *Psychological Bulletin, 135*(1), 94–120. [doi:10.1037/a0014212](https://doi.org/10.1037/a0014212)
 - Baird, B., Smallwood, J., Mrazek, M. D., Kam, J. W. Y., Franklin, M. S., & Schooler, J. W. (2012). Inspired by distraction: Mind wandering facilitates creative incubation. *Psychological Science, 23*(10), 1117–1122. [doi:10.1177/0956797612446024](https://doi.org/10.1177/0956797612446024)
 - Hillman, C. H., Erickson, K. I., & Kramer, A. F. (2008). Be smart, exercise your heart: Exercise effects on brain and cognition. *Nature Reviews Neuroscience, 9*(1), 58–65. [doi:10.1038/nrn2298](https://doi.org/10.1038/nrn2298)

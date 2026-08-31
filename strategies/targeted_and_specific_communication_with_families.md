@@ -70,6 +70,6 @@ Family engagement research consistently shows that *specific* invitations — na
 
 ## Key Sources
 - Hoover-Dempsey, K. V., & Sandler, H. M. (1995). Parental involvement in children's education: Why does it make a difference? *Teachers College Record, 97*(2), 310–331. [doi:10.1177/016146819509700202](https://doi.org/10.1177/016146819509700202)
-- Epstein, J. L., & Van Voorhis, F. L. (2001). More than minutes: Teachers' roles in designing homework. *Teachers College Record, 103*(4), 584–620. [doi:10.1207/s15326985ep3603_4](https://doi.org/10.1207/s15326985ep3603_4)
+- Epstein, J. L., & Van Voorhis, F. L. (2001). More than minutes: Teachers' roles in designing homework. *Educational Psychologist, 36*(3), 181-193. [doi:10.1207/s15326985ep3603_4](https://doi.org/10.1207/s15326985ep3603_4)
 - Sheldon, S. B., & Epstein, J. L. (2005). Involvement counts: Family and community partnerships and mathematics achievement. *The Journal of Educational Research, 98*(4), 196–207. [doi:10.3200/JOER.98.4.196-207](https://doi.org/10.3200/JOER.98.4.196-207)
 - Kraft, M. A., & Dougherty, S. M. (2013). The effect of teacher-family communication on student engagement: Evidence from a randomized field experiment. *Journal of Research on Educational Effectiveness, 6*(3), 199–222. [doi:10.1080/19345747.2012.743636](https://doi.org/10.1080/19345747.2012.743636)

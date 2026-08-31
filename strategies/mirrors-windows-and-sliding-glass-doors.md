@@ -76,6 +76,6 @@ Diverse text selection alone is insufficient; the empathy and intergroup-attitud
 ## Key Sources
 - Bishop, R. S. (1990). Mirrors, windows, and sliding glass doors. *Perspectives: Choosing and Using Books for the Classroom, 6*(3), ix–xi.
 - Kaufman, G. F., & Libby, L. K. (2012). Changing beliefs and behavior through experience-taking. *Journal of Personality and Social Psychology, 103*(1), 1–19. [doi:10.1037/a0027525](https://doi.org/10.1037/a0027525)
-- Mar, R. A., Oatley, K., & Peterson, J. B. (2009). Exploring the link between reading fiction and empathy: Ruling out individual differences and examining outcomes. *Journal of Research in Personality, 43*(5), 874–886. [doi:10.1515/comm.2009.025](https://doi.org/10.1515/comm.2009.025)
+- Mar, R. A., Oatley, K., & Peterson, J. B. (2009). Exploring the link between reading fiction and empathy: Ruling out individual differences and examining outcomes. *COMM, 34*(4), 407-428. [doi:10.1515/comm.2009.025](https://doi.org/10.1515/comm.2009.025)
 - Cameron, L., Rutland, A., & Brown, R. (2007). Promoting children's positive intergroup attitudes towards outgroups through storybook reading. *Developmental Psychology, 43*(6), 1352–1369.
 - Tschida, C. M., Yoder, C. C., & Buchholz, B. A. (2017). Learning to teach in the "spotlight": Teachers' use of diverse children's literature. *Journal of Children's Literature, 43*(1), 38–47.

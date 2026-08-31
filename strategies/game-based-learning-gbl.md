@@ -79,6 +79,6 @@ Learning in games is driven by cycles of decision, feedback, and adjustment; wel
 ## Key Sources
 - Plass, J. L., Homer, B. D., & Kinzer, C. K. (2015). Foundations of game-based learning. *Educational Psychologist, 50*(4), 258–283. [doi:10.1080/00461520.2015.1122533](https://doi.org/10.1080/00461520.2015.1122533)
 - Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital games, design, and learning: A systematic review and meta-analysis. *Review of Educational Research, 86*(1), 79–122. [doi:10.3102/0034654315582065](https://doi.org/10.3102/0034654315582065)
-- Wouters, P., van Nimwegen, C., van Oostendorp, H., & van der Spek, E. D. (2013). A meta-analysis of the cognitive and motivational effects of serious games. *Journal of Educational Computing Research, 55*(2), 169–197. [doi:10.1037/a0031311](https://doi.org/10.1037/a0031311)
+- Wouters, P., van Nimwegen, C., van Oostendorp, H., & van der Spek, E. D. (2013). A meta-analysis of the cognitive and motivational effects of serious games. *Journal of Educational Psychology, 105*(2), 249-265. [doi:10.1037/a0031311](https://doi.org/10.1037/a0031311)
 - Mayer, R. E. (2019). Computer games in education. *Annual Review of Psychology, 70*, 531–549. [doi:10.1146/annurev-psych-010418-102744](https://doi.org/10.1146/annurev-psych-010418-102744)
 - Sailer, M., & Homner, L. (2020). The gamification of learning: A meta-analysis. *Educational Psychology Review, 32*, 77–112. [doi:10.1007/s10648-019-09498-w](https://doi.org/10.1007/s10648-019-09498-w)

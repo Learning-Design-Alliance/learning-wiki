@@ -67,7 +67,7 @@ Writing forces learners to transform material into their own words, which promot
 - **Physics "explain-your-reasoning" prompts** — introductory courses requiring short written justifications alongside problem solutions, converting problem sets into writing-to-learn opportunities.
 
 ## Key Sources
-- Emig, J. (1977). Writing as a mode of learning. *College English, 38*(7), 652–657. [doi:10.2307/356095](https://doi.org/10.2307/356095)
+- Emig, J. (1977). Writing as a mode of learning. *College Composition &amp; Communication, 28*(2), 122-128. [doi:10.2307/356095](https://doi.org/10.2307/356095)
 - Bangert-Drowns, R. L., Hurley, M. M., & Wilkinson, B. (2004). The effects of school-based writing-to-learn interventions on academic achievement: A meta-analysis. *Review of Educational Research, 74*(1), 29–58. [doi:10.3102/00346543074001029](https://doi.org/10.3102/00346543074001029)
 - Klein, P. D. (1999). Reopening inquiry into cognitive processes in writing-to-learn. *Educational Psychology Review, 11*(3), 203–270. [doi:10.1023/a:1021913217147](https://doi.org/10.1023/a:1021913217147)
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)

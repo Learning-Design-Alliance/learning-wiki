@@ -78,6 +78,6 @@ The routine addresses the central failure mode of example-based learning: learne
 
 ## Key Sources
 - Sweller, J., & Cooper, G. A. (1985). The use of worked examples as a substitute for problem solving in learning algebra. *Cognition and Instruction, 2*(1), 59–89. [doi:10.1207/s1532690xci0201_3](https://doi.org/10.1207/s1532690xci0201_3)
-- Renkl, A. (2014). Toward an instructionally oriented theory of example-based learning. *Cognitive Science, 38*(7), 1431–1476. [doi:10.1111/cogs.12086](https://doi.org/10.1111/cogs.12086)
+- Renkl, A. (2014). Toward an instructionally oriented theory of example-based learning. *Cognitive Science, 38*(1), 1-37. [doi:10.1111/cogs.12086](https://doi.org/10.1111/cogs.12086)
 - van Gog, T., & Rummel, N. (2010). Example-based learning: Integrating cognitive and social-cognitive research perspectives. *Educational Psychology Review, 22*(2), 155–174. [doi:10.1007/s10648-010-9134-7](https://doi.org/10.1007/s10648-010-9134-7)
 - Atkinson, R. K., Derry, S. J., Renkl, A., & Wortham, D. (2000). Learning from examples: Instructional principles from the worked examples research. *Review of Educational Research, 70*(2), 181–214. [doi:10.3102/00346543070002181](https://doi.org/10.3102/00346543070002181)

@@ -68,7 +68,7 @@ Music provides a structured, repetitive, and emotionally engaging carrier for em
 - **Classroom adaptation** — a kindergarten teacher rewrites the verses of *If You're Happy and You Know It* to include frustrated, nervous, and proud, then asks children to contribute one personal verse each week
 
 ## Key Sources
-- Hallam, S. (2010). The power of music: Its impact on the intellectual, social and personal development of children and young people. *Psychology of Music, 38*(3), 269–290. [doi:10.1177/0255761410370658](https://doi.org/10.1177/0255761410370658)
+- Hallam, S. (2010). The power of music: Its impact on the intellectual, social and personal development of children and young people. *International Journal of Music Education, 28*(3), 269-289. [doi:10.1177/0255761410370658](https://doi.org/10.1177/0255761410370658)
 - Denham, S. A. (2006). Social-emotional competence as support for school readiness: What is it and how do we assess it? *Early Education and Development, 17*(1), 57–89. [doi:10.1207/s15566935eed1701_4](https://doi.org/10.1207/s15566935eed1701_4)
 - Juslin, P. N., & Västfjäll, D. (2008). Emotional responses to music: The need to consider underlying mechanisms. *Behavioral and Brain Sciences, 31*(5), 559–575. [doi:10.1017/S0140525X08005293](https://doi.org/10.1017/S0140525X08005293)
 - Clark, J. M., & Paivio, A. (1991). Dual coding theory and education. *Educational Psychology Review, 3*(3), 149–210. [doi:10.1007/BF01320076](https://doi.org/10.1007/BF01320076)

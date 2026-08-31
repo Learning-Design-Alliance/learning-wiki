@@ -71,7 +71,7 @@ Spelling practice works because producing a word from memory requires learners t
 - **Dictogloss** — learners reconstruct a short dictated text in their own words, adding a grammatical and compositional dimension
 
 ## Key Sources
-- Graham, S., & Santangelo, L. (2014). Does spelling instruction make students better spellers or readers? A meta-analytic review. *Reading and Writing, 27*(9), 1503–1543. [doi:10.1007/s11145-014-9517-0](https://doi.org/10.1007/s11145-014-9517-0)
+- Graham, S., & Santangelo, L. (2014). Does spelling instruction make students better spellers or readers? A meta-analytic review. *Reading and Writing, 27*(9), 1503–1543.
 - Ehri, L. C. (2005). Learning to read words: Theory, findings, and issues. *Scientific Studies of Reading, 9*(2), 167–188. [doi:10.1207/s1532799xssr0902_4](https://doi.org/10.1207/s1532799xssr0902_4)
 - Graham, S., Harris, K. R., & Fink, B. (2000). Extra handwriting instruction made phonics instruction more effective: Preventing writing disabilities. *Journal of Educational Psychology, 92*(4), 652–666. [doi:10.1037/0022-0663.92.4.652](https://doi.org/10.1037/0022-0663.92.4.652)
 - Joshi, R. M., Treiman, R., Carreker, S., & Moats, L. C. (2008). How words cast their spell: Spelling is an integral part of learning the language, not a matter of memorization. *American Educator, 32*(4), 6–16.

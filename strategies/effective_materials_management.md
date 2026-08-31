@@ -66,7 +66,7 @@ Materials management is a low-cost environmental intervention that protects inst
 - **Google Classroom / LMS folder conventions** — the digital analogue: consistently named topics and assignments so students locate materials without searching.
 
 ## Key Sources
-- Wang, M. C., Haertel, G. D., & Walberg, H. J. (1993). Toward a knowledge base for school learning. *Review of Educational Research, 63*(3), 273–298. [doi:10.3102/00346543063003249](https://doi.org/10.3102/00346543063003249)
+- Wang, M. C., Haertel, G. D., & Walberg, H. J. (1993). Toward a knowledge base for school learning. *Review of Educational Research, 63*(3), 249-294. [doi:10.3102/00346543063003249](https://doi.org/10.3102/00346543063003249)
 - Emmer, E. T., & Stough, L. M. (2001). Classroom management: A critical part of educational psychology, with implications for teacher education. *Educational Psychologist, 36*(2), 103–112. [doi:10.1207/S15326985EP3602_5](https://doi.org/10.1207/S15326985EP3602_5)
 - Kounin, J. S. (1970). *Discipline and group management in classrooms.* New York: Holt, Rinehart & Winston.
 - Archer, A. L., & Hughes, C. A. (2011). *Explicit instruction: Effective and efficient teaching.* New York: Guilford Press.

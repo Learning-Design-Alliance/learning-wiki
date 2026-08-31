@@ -69,6 +69,6 @@ Badging works when it functions as a competency signal, not a participation trop
 
 ## Key Sources
 - Grant, S. L. (2014). What counts as learning: Open digital badging for credentialing and assessment. *Doctoral dissertation, University of Michigan.* [doi:10.7302/2214](https://doi.org/10.7302/2214)
-- Gibson, D., Ostashewski, N., Flintoff, K., Grant, S., & Knight, E. (2015). Digital badges in education. *Education and Information Technologies, 20*(3), 403–410. [doi:10.1007/s10639-013-9291-7](https://doi.org/10.1007/s10639-013-9291-7)
+- Gibson, D., Ostashewski, N., Flintoff, K., Grant, S., & Knight, E. (2015). Digital badges in education. *Education and Information Technologies, 20*(2), 403-410. [doi:10.1007/s10639-013-9291-7](https://doi.org/10.1007/s10639-013-9291-7)
 - Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 125*(6), 627–668. [doi:10.1037/0033-2909.125.6.627](https://doi.org/10.1037/0033-2909.125.6.627)
 - Oliver, B. (2019). Making micro-credentials work for learners, employers and providers. *Deakin University.* [doi:10.6084/m9.figshare.9979202](https://doi.org/10.6084/m9.figshare.9979202)

@@ -66,7 +66,7 @@ Strategy instruction paired with metacognitive reflection reliably improves prob
 - [Youcubed](https://www.youcubed.org) mathematical mindset tasks, which are designed for productive struggle and paired with classroom norms about strategies for getting unstuck.
 
 ## Key Sources
-- Hattie, J., Biggs, J., & Purdie, N. (1996). Effects of learning skills interventions on student learning: A meta-analysis. *International Journal of Educational Research, 25*(6), 529–554. [doi:10.3102/00346543066002099)81268-3](https://doi.org/10.3102/00346543066002099)81268-3)
-- Dignath, C., & Büttner, G. (2008). Components of fostering self-regulated learning among students: A meta-analysis on intervention studies at primary and secondary school level. *Learning and Instruction, 18*(2), 150–164. [doi:10.1007/s11409-008-9029-x](https://doi.org/10.1007/s11409-008-9029-x)
+- Hattie, J., Biggs, J., & Purdie, N. (1996). Effects of learning skills interventions on student learning: A meta-analysis. *Review of Educational Research, 66*(2), 99-136. [doi:10.3102/00346543066002099)81268-3](https://doi.org/10.3102/00346543066002099)81268-3)
+- Dignath, C., & Büttner, G. (2008). Components of fostering self-regulated learning among students: A meta-analysis on intervention studies at primary and secondary school level. *Metacognition and Learning, 3*(3), 231-264. [doi:10.1007/s11409-008-9029-x](https://doi.org/10.1007/s11409-008-9029-x)
 - Montague, M. (2008). Self-regulation strategies to improve mathematical problem solving for students with learning disabilities. *Learning Disability Quarterly, 31*(1), 37–44.
 - Hmelo-Silver, C. E., Duncan, R. G., & Chinn, C. A. (2007). Scaffolding and achievement in problem-based and inquiry learning: A response to Kirschner, Sweller, and Clark (2006). *Educational Psychologist, 42*(2), 99–107. [doi:10.1080/00461520701263368](https://doi.org/10.1080/00461520701263368)

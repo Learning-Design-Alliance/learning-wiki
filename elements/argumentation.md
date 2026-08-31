@@ -70,6 +70,6 @@ Argumentation supports learning by requiring learners to coordinate evidence wit
 
 ## Key Sources
 - Kuhn, D. (2010). Teaching and learning science as argument. *Science Education, 94*(5), 810–824. [doi:10.1002/sce.20395](https://doi.org/10.1002/sce.20395)
-- Nussbaum, E. M. (2008). Collaborative discourse, argumentation, and learning: Preface and literature review. *Educational Psychology Review, 20*(2), 147–157. [doi:10.1016/j.cedpsych.2008.06.001](https://doi.org/10.1016/j.cedpsych.2008.06.001)
+- Nussbaum, E. M. (2008). Collaborative discourse, argumentation, and learning: Preface and literature review. *Contemporary Educational Psychology, 33*(3), 345-359. [doi:10.1016/j.cedpsych.2008.06.001](https://doi.org/10.1016/j.cedpsych.2008.06.001)
 - Andriessen, J. (2006). Arguing to learn. In R. K. Sawyer (Ed.), *The Cambridge Handbook of the Learning Sciences* (pp. 443–459). Cambridge University Press.
 - Johnson, D. W., & Johnson, R. T. (2009). Energizing learning: The instructional power of conflict. *Educational Researcher, 38*(1), 37–51. [doi:10.3102/0013189X08330540](https://doi.org/10.3102/0013189X08330540)

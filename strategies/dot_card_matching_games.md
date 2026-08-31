@@ -69,7 +69,7 @@ Matching different arrangements of the same quantity is a form of contrasting ca
 - **Classroom "Quick Look" routines** — teachers flash a dot card for 2–3 seconds, then learners reproduce or match it, a common component of early numeracy intervention programs
 
 ## Key Sources
-- Clements, D. H., & Sarama, J. (2007). Effects of a preschool mathematics curriculum: Summative research on the Building Blocks project. *Science, 319*(5860), 196–200. [doi:10.3102/0002831207312908](https://doi.org/10.3102/0002831207312908)
+- Clements, D. H., & Sarama, J. (2007). Effects of a preschool mathematics curriculum: Summative research on the Building Blocks project. *American Educational Research Journal, 45*(2), 443-494. [doi:10.3102/0002831207312908](https://doi.org/10.3102/0002831207312908)
 - Clements, D. H. (1999). Subitizing: What is it? Why teach it? *Teaching Children Mathematics, 5*(7), 400–405.
 - Sarama, J., & Clements, D. H. (2009). *Early childhood mathematics education research: Learning trajectories for young children.* Routledge. [doi:10.4324/9780203883785](https://doi.org/10.4324/9780203883785)
 - Butterworth, B. (1999). *The mathematical brain.* Macmillan.

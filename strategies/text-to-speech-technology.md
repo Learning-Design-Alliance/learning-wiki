@@ -69,7 +69,7 @@ TTS reduces the decoding burden of reading, which matters because struggling dec
 - **Read-aloud test accommodations** — many U.S. state assessments permit TTS for non-reading sections, decoupling content access from decoding skill.
 
 ## Key Sources
-- Wood, S. G., Moxley, J. H., Tighe, E. L., & Wagner, R. K. (2018). Does use of text-to-speech and related read-aloud tools improve reading comprehension for students with reading disabilities? A meta-analysis. *Exceptional Children, 84*(3), 250–274. [doi:10.1177/0022219416688170](https://doi.org/10.1177/0022219416688170)
+- Wood, S. G., Moxley, J. H., Tighe, E. L., & Wagner, R. K. (2018). Does use of text-to-speech and related read-aloud tools improve reading comprehension for students with reading disabilities? A meta-analysis. *Journal of Learning Disabilities, 51*(1), 73-84. [doi:10.1177/0022219416688170](https://doi.org/10.1177/0022219416688170)
 - Rose, D. H., & Meyer, A. (2002). *Teaching every student in the digital age: Universal design for learning.* ASCD.
 - Mayer, R. E. (2021). *Multimedia learning* (3rd ed.). Cambridge University Press. [doi:10.1017/9781316941355](https://doi.org/10.1017/9781316941355)
 - Montali, J., & Lewandowski, L. (1996). Bimodal reading: Benefits of a talking computer for average and less skilled readers. *Journal of Learning Disabilities, 29*(3), 271–279. [doi:10.1177/002221949602900305](https://doi.org/10.1177/002221949602900305)

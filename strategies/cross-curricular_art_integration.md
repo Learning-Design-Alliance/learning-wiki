@@ -71,6 +71,6 @@ Art integration works when the artistic task forces learners to represent, trans
 ## Key Sources
 - Winner, E., & Hetland, L. (2000). The arts in education: Evaluating the evidence for a causal link. *Journal of Aesthetic Education, 34*(3–4), 3–10.
 - Hetland, L., Winner, E., Veenema, S., & Sheridan, K. M. (2007). *Studio thinking: The real benefits of visual arts education.* Teachers College Press.
-- Brouillette, L. (2009). How the arts help children to create healthy social scripts: Exploring the implications of Langer's theory. *Arts and Learning Research Journal, 25*(1), 18–31. [doi:10.1080/10632910903228116](https://doi.org/10.1080/10632910903228116)
+- Brouillette, L. (2009). How the arts help children to create healthy social scripts: Exploring the implications of Langer's theory. *Arts Education Policy Review, 111*(1), 16-24. [doi:10.1080/10632910903228116](https://doi.org/10.1080/10632910903228116)
 - Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/CBO9780511811678](https://doi.org/10.1017/CBO9780511811678)
 - Catterall, J. S., Dumais, S. A., & Hampden-Thompson, G. (2012). *The arts and achievement in at-risk youth: Findings from four longitudinal studies.* National Endowment for the Arts.

@@ -77,5 +77,5 @@ Scaffolding and fading matter when learners are expected to perform work they ca
 **Worked example to independent problem sequence** — Learners first study or complete a heavily supported version, then solve increasingly less scaffolded problems on their own.
 
 ## Key Sources
-- Renkl, A., Atkinson, R. K., Maier, U. H., & Staley, R. (2002). From example study to problem solving: Smooth transitions help learning. *Instructional Science, 30*(4), 293-308. [https://doi.org/10.1080/00220970209599510](https://doi.org/10.1080/00220970209599510)
+- Renkl, A., Atkinson, R. K., Maier, U. H., & Staley, R. (2002). From example study to problem solving: Smooth transitions help learning. *The Journal of Experimental Education, 70*(4), 293-315. [https://doi.org/10.1080/00220970209599510](https://doi.org/10.1080/00220970209599510)
 - van de Pol, J., Volman, M., & Beishuizen, J. (2010). Scaffolding in teacher-student interaction: A decade of research. *Educational Psychology Review, 22*(3), 271-296. [https://doi.org/10.1007/s10648-010-9127-6](https://doi.org/10.1007/s10648-010-9127-6)

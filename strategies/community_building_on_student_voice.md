@@ -82,6 +82,6 @@ Student voice practices work primarily through belonging and autonomy: when stud
 ## Key Sources
 - Cornelius-White, J. (2007). Learner-centered teacher-student relationships are effective: A meta-analysis. *Review of Educational Research, 77*(1), 113–143. [doi:10.3102/003465430298563](https://doi.org/10.3102/003465430298563)
 - Osterman, K. F. (2000). Students' need for belonging in the school community. *Review of Educational Research, 70*(3), 323–367. [doi:10.3102/00346543070003323](https://doi.org/10.3102/00346543070003323)
-- Mitra, D. L. (2004). The significance of students: Can increasing "student voice" in schools lead to gains in youth development? *Teachers College Record, 106*(4), 651–688. [doi:10.1111/j.1467-9620.2004.00354.x](https://doi.org/10.1111/j.1467-9620.2004.00354.x)
+- Mitra, D. L. (2004). The significance of students: Can increasing "student voice" in schools lead to gains in youth development? *Teachers College Record: The Voice of Scholarship in Education, 106*(4), 651-688. [doi:10.1111/j.1467-9620.2004.00354.x](https://doi.org/10.1111/j.1467-9620.2004.00354.x)
 - Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78. [doi:10.1037/0003-066X.55.1.68](https://doi.org/10.1037/0003-066X.55.1.68)
 - Juvonen, J. (2006). Sense of belonging, social bonds, and school functioning. *Journal of School Health, 76*(6), 284–289. [doi:10.4324/9780203874790.ch28](https://doi.org/10.4324/9780203874790.ch28)

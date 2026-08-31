@@ -69,6 +69,6 @@ Cultural awareness is a precondition for [Culturally Responsive Teaching](../pri
 ## Key Sources
 - Gay, G. (2002). Preparing for culturally responsive teaching. *Journal of Teacher Education, 53*(2), 106–116. [doi:10.1177/0022487102053002003](https://doi.org/10.1177/0022487102053002003)
 - Ladson-Billings, G. (1995). Toward a theory of culturally relevant pedagogy. *American Educational Research Journal, 32*(3), 465–491. [doi:10.3102/00028312032003465](https://doi.org/10.3102/00028312032003465)
-- Forscher, P. S., et al. (2019). A meta-analysis of procedures to change implicit bias. *Psychological Bulletin, 145*(5), 522–561. [doi:10.1037/pspa0000160](https://doi.org/10.1037/pspa0000160)
+- Forscher, P. S., et al. (2019). A meta-analysis of procedures to change implicit bias. *Journal of Personality and Social Psychology, 117*(3), 522-559. [doi:10.1037/pspa0000160](https://doi.org/10.1037/pspa0000160)
 - Moll, L. C., Amanti, C., Neff, D., & Gonzalez, N. (1992). Funds of knowledge for teaching: Using a qualitative approach to connect homes and classrooms. *Theory Into Practice, 31*(2), 132–141. [doi:10.1080/00405849209543534](https://doi.org/10.1080/00405849209543534)
 - Gay, G. (2010). *Culturally responsive teaching: Theory, research, and practice* (2nd ed.). Teachers College Press.

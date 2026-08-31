@@ -68,6 +68,6 @@ Processing speed is a distinct cognitive capacity that develops over time and co
 
 ## Key Sources
 - Sheppard, L. D., & Vernon, P. A. (2008). Intelligence and speed of information-processing: A review of 50 years of research. *Personality and Individual Differences, 44*(3), 535–551. [doi:10.1016/j.paid.2007.09.015](https://doi.org/10.1016/j.paid.2007.09.015)
-- Fry, A. F., & Hale, S. (1996). Processing speed, working memory, and fluid intelligence: Evidence for a developmental cascade. *Psychological Bulletin, 120*(3), 466–487. [doi:10.1111/j.1467-9280.1996.tb00366.x](https://doi.org/10.1111/j.1467-9280.1996.tb00366.x)
+- Fry, A. F., & Hale, S. (1996). Processing speed, working memory, and fluid intelligence: Evidence for a developmental cascade. *Psychological Science, 7*(4), 237-241. [doi:10.1111/j.1467-9280.1996.tb00366.x](https://doi.org/10.1111/j.1467-9280.1996.tb00366.x)
 - Kail, R., & Salthouse, T. A. (1994). Processing speed as a mental capacity. *Acta Psychologica, 86*(2–3), 199–225. [doi:10.1016/0001-6918(94)90003-5](https://doi.org/10.1016/0001-6918(94)90003-5)
 - CAST. (2018). *Universal Design for Learning Guidelines version 2.2.* [https://udlguidelines.cast.org](https://udlguidelines.cast.org)

@@ -68,6 +68,6 @@ Strength-based self-awareness work aligns with [Self-Regulated Learning](../theo
 
 ## Key Sources
 - Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development, 82*(1), 405–432. [doi:10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x)
-- Jones, S. M., & Bouffard, S. M. (2012). Social and emotional learning in schools: From programs to strategies. *Social Policy Report, 26*(4), 1–33. [doi:10.1002/j.2379-3988.2012.tb00073.x](https://doi.org/10.1002/j.2379-3988.2012.tb00073.x)
+- Jones, S. M., & Bouffard, S. M. (2012). Social and emotional learning in schools: From programs to strategies. *Child Policy Nexus, 26*(4), 1-33. [doi:10.1002/j.2379-3988.2012.tb00073.x](https://doi.org/10.1002/j.2379-3988.2012.tb00073.x)
 - Zimmerman, B. J., & Schunk, D. H. (2011). *Handbook of Self-Regulation of Learning and Performance*. Routledge.
 - Clifton, D. O., & Harter, J. K. (2003). Investing in strengths. In K. S. Cameron, J. E. Dutton, & R. E. Quinn (Eds.), *Positive Organizational Scholarship* (pp. 111–121). Berrett-Koehler.

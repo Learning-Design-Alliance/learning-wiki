@@ -85,7 +85,7 @@ Equity problems in classroom discourse are typically invisible to teachers becau
 - **Student-run equity audits**: secondary students code their own class discussions and present findings, making participation norms a shared object of inquiry
 
 ## Key Sources
-- Reinholz, D. L., & Shah, N. (2018). Equity analytics: A methodological approach for quantifying how participation is distributed in STEM classroom discourse. *International Journal of STEM Education, 5*(1), 21. [doi:10.5951/jresematheduc.49.2.0140](https://doi.org/10.5951/jresematheduc.49.2.0140)
+- Reinholz, D. L., & Shah, N. (2018). Equity analytics: A methodological approach for quantifying how participation is distributed in STEM classroom discourse. *Journal for Research in Mathematics Education, 49*(2), 140-177. [doi:10.5951/jresematheduc.49.2.0140](https://doi.org/10.5951/jresematheduc.49.2.0140)
 - Shah, N., & Lewis, C. M. (2019). Equity in groupwork: The social process of creating justice in a science classroom. *Cultural Studies of Science Education, 14*(2), 327–356. [doi:10.1007/s11422-018-9888-x](https://doi.org/10.1007/s11422-018-9888-x)
 - Cohen, E. G., & Lotan, R. A. (2014). *Designing groupwork: Strategies for the heterogeneous classroom* (3rd ed.). Teachers College Press.
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)

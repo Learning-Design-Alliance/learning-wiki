@@ -67,7 +67,7 @@ Diverse resources do their work through two mechanisms: representational (learne
 - **Cognitive Flexibility Hypertext** — Spiro's ill-structured domain approach, presenting the same complex topic from multiple thematic criss-crossings so learners build flexible representations.
 
 ## Key Sources
-- Gay, G. (2002). Preparing for culturally responsive teaching. *Harvard Educational Review, 72*(2), 106–116. [doi:10.1177/0022487102053002003](https://doi.org/10.1177/0022487102053002003)
+- Gay, G. (2002). Preparing for culturally responsive teaching. *Journal of Teacher Education, 53*(2), 106-116. [doi:10.1177/0022487102053002003](https://doi.org/10.1177/0022487102053002003)
 - Banks, J. A. (1993). Approaches to multicultural curriculum reform. In J. A. Banks & C. A. M. Banks (Eds.), *Multicultural Education: Issues and Perspectives*. Allyn & Bacon.
 - Spiro, R. J., Feltovich, P. J., Jacobson, M. J., & Coulson, R. L. (1991). Cognitive flexibility, constructivism, and hypertext: Random access instruction for advanced knowledge acquisition in ill-structured domains. *Educational Technology, 31*(5), 24–33.
 - Bishop, R. S. (1990). Mirrors, windows, and sliding glass doors. *Perspectives: Choosing and Using Books for the Classroom, 6*(3), ix–xi.

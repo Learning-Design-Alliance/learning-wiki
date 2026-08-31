@@ -71,5 +71,5 @@ The strategy converts abstract disagreement into embodied, social reasoning: lea
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)
 - Hess, D. E., & McAvoy, P. (2015). *The political classroom: Evidence and ethics in democratic education*. Routledge.
-- Nussbaum, E. M. (2008). Collaborative discourse, argumentation, and learning: Preface and literature review. *Educational Psychology Review, 20*(3), 291–303. [doi:10.1016/j.cedpsych.2008.06.001](https://doi.org/10.1016/j.cedpsych.2008.06.001)
+- Nussbaum, E. M. (2008). Collaborative discourse, argumentation, and learning: Preface and literature review. *Contemporary Educational Psychology, 33*(3), 345-359. [doi:10.1016/j.cedpsych.2008.06.001](https://doi.org/10.1016/j.cedpsych.2008.06.001)
 - Hess, D. E. (2009). *Controversy in the classroom: The democratic power of discussion*. Routledge.

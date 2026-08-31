@@ -66,5 +66,5 @@ Pre-writing activities function as [part-task practice](../elements/part-task-pr
 ## Key Sources
 - Berninger, V. W., Vaughan, K. B., Abbott, R. D., Begay, K., Coleman, K. B., Curtin, G., Hawkins, J. M., & Graham, S. (1997). Treatment of handwriting problems in beginning writers: Transfer from handwriting to composition. *Journal of Educational Psychology, 89*(4), 652–666. [doi:10.1037/0022-0663.89.4.652](https://doi.org/10.1037/0022-0663.89.4.652)
 - Graham, S., Harris, K. R., & Fink, B. (2000). Is handwriting causally related to learning to write words? Examination of the evidence. *Journal of Educational Psychology, 92*(4), 620–633. [doi:10.1037/0022-0663.92.4.620](https://doi.org/10.1037/0022-0663.92.4.620)
-- James, K. H., & Engelhardt, L. (2012). The effects of handwriting experience on literacy learning. *Trends in Neuroscience and Education, 1*(2), 32–42. [doi:10.1016/j.tine.2012.08.001](https://doi.org/10.1016/j.tine.2012.08.001)
+- James, K. H., & Engelhardt, L. (2012). The effects of handwriting experience on literacy learning. *Trends in Neuroscience and Education, 1*(2), 32–42.
 - Hoy, M. M. P., Egan, M. Y., & Feder, K. P. (2011). A systematic review of interventions to improve handwriting. *Canadian Journal of Occupational Therapy, 78*(1), 13–25. [doi:10.2182/cjot.2011.78.1.3](https://doi.org/10.2182/cjot.2011.78.1.3)

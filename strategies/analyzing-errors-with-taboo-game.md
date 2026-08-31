@@ -76,7 +76,7 @@ The strategy combines game-based practice with error analysis: the game generate
 - An ESL vocabulary class uses Taboo with academic vocabulary; the error analysis focuses on circumlocution — describing around an unknown word — as a compensatory communication strategy.
 
 ## Key Sources
-- Durkin, K., & Rittle-Johnson, B. (2012). The effectiveness of using incorrect examples to support learning and decoding of algebra. *Learning and Individual Differences, 22*(2), 261–271. [doi:10.1016/j.learninstruc.2011.11.001](https://doi.org/10.1016/j.learninstruc.2011.11.001)
+- Durkin, K., & Rittle-Johnson, B. (2012). The effectiveness of using incorrect examples to support learning and decoding of algebra. *Learning and Instruction, 22*(3), 206-214. [doi:10.1016/j.learninstruc.2011.11.001](https://doi.org/10.1016/j.learninstruc.2011.11.001)
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
 - Chi, M. T. H., de Leeuw, N., Chiu, M.-H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477. [doi:10.1207/s15516709cog1803_3](https://doi.org/10.1207/s15516709cog1803_3)
 - Metcalfe, J. (2017). Learning from errors. *Annual Review of Psychology, 68*, 465–489. [doi:10.1146/annurev-psych-010416-044022](https://doi.org/10.1146/annurev-psych-010416-044022)

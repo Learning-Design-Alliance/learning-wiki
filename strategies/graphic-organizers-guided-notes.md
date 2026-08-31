@@ -70,6 +70,6 @@ Both tools reduce extraneous load during lecture by shifting the burden of selec
 
 ## Key Sources
 - Nesbit, J. C., & Adesope, O. O. (2006). Learning with concept and knowledge maps: A meta-analysis. *Review of Educational Research, 76*(3), 413–448. [doi:10.3102/00346543076003413](https://doi.org/10.3102/00346543076003413)
-- Austin, J. L., Lee, M. G., Thibeault, M. D., Carr, J. E., & Bailey, J. S. (2002). Effects of guided notes on university students' responding and recall of information. *Journal of Applied Behavior Analysis, 35*(3), 243–250. [doi:10.1023/a:1021110922552](https://doi.org/10.1023/a:1021110922552)
+- Austin, J. L., Lee, M. G., Thibeault, M. D., Carr, J. E., & Bailey, J. S. (2002). Effects of guided notes on university students' responding and recall of information. *Journal of Behavioral Education, 11*(4), 243-254. [doi:10.1023/a:1021110922552](https://doi.org/10.1023/a:1021110922552)
 - Kiewra, K. A. (1989). A review of note-taking: The encoding-storage paradigm and beyond. *Educational Psychology Review, 1*(2), 147–172. [doi:10.1007/bf01326640](https://doi.org/10.1007/bf01326640)
 - Mayer, R. E. (Ed.). (2014). *The Cambridge Handbook of Multimedia Learning* (2nd ed.). Cambridge University Press. [doi:10.1017/CBO9781139547369](https://doi.org/10.1017/CBO9781139547369)

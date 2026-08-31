@@ -72,6 +72,6 @@ Attention is a limited resource, especially for students with ADHD or weak execu
 ## Key Sources
 - Evans, S. W., Owens, J. S., & Bunford, N. (2014). Evidence-based psychosocial treatments for children and adolescents with attention-deficit/hyperactivity disorder. *Journal of Clinical Child & Adolescent Psychology, 43*(4), 527–551. [doi:10.1080/15374416.2013.850700](https://doi.org/10.1080/15374416.2013.850700)
 - DuPaul, G. J., & Eckert, T. L. (1997). The effects of school-based interventions for attention deficit hyperactivity disorder: A meta-analysis. *School Psychology Review, 26*(1), 5–27.
-- Reid, R., Trout, A. L., & Schartz, M. (2005). Self-regulation interventions for children with attention deficit/hyperactivity disorder. *Exceptional Children, 71*(4), 361–377. [doi:10.17161/fec.v32i4.6773](https://doi.org/10.17161/fec.v32i4.6773)
+- Reid, R., Trout, A. L., & Schartz, M. (2005). Self-regulation interventions for children with attention deficit/hyperactivity disorder. *Focus on Exceptional Children, 32*(4), 361. [doi:10.17161/fec.v32i4.6773](https://doi.org/10.17161/fec.v32i4.6773)
 - Barkley, R. A. (1997). *ADHD and the nature of self-control.* Guilford Press.
 - Zentall, S. S. (2006). *ADHD and education: Foundations, characteristics, methods, and collaboration.* Pearson/Merrill Prentice Hall.

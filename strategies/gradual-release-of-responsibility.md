@@ -67,7 +67,7 @@ GRR operationalizes [Scaffolding](../principles/scaffolding.md) as a temporal se
 
 ## Key Sources
 - Pearson, P. D., & Gallagher, M. C. (1983). The instruction of reading comprehension. *Contemporary Educational Psychology, 8*(3), 317–344. [doi:10.1016/0361-476X(83)90019-X](https://doi.org/10.1016/0361-476X(83)90019-X)
-- Fisher, D., & Frey, N. (2013). Gradual release of responsibility instructional framework. *Phi Delta Kappan, 94*(3), 62–66. [doi:10.1108/s2048-045820190000010006](https://doi.org/10.1108/s2048-045820190000010006)
+- Fisher, D., & Frey, N. (2013). Gradual release of responsibility instructional framework. *Phi Delta Kappan, 94*(3), 62–66.
 - Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes.* Harvard University Press.
 - van Merriënboer, J. J. G., & Kirschner, P. A. (2018). *Ten steps to complex learning* (3rd ed.). Routledge. [doi:10.4324/9781315116341](https://doi.org/10.4324/9781315116341)
 - van Gog, T., & Rummel, N. (2010). Example-based learning: Integrating cognitive and social-cognitive research perspectives. *Educational Psychology Review, 22*(2), 155–174. [doi:10.1007/s10648-010-9134-7](https://doi.org/10.1007/s10648-010-9134-7)

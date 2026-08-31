@@ -66,7 +66,7 @@ The core evidence comes from productive failure studies: learners who explore co
 
 ## Key Sources
 - Kapur, M. (2008). Productive failure. *Cognition and Instruction, 26*(3), 379–424. [doi:10.1080/07370000802212669](https://doi.org/10.1080/07370000802212669)
-- Kapur, M. (2014). Productive failure in learning math. *Journal of the Learning Sciences, 23*(4), 522–550. [doi:10.1111/cogs.12107](https://doi.org/10.1111/cogs.12107)
+- Kapur, M. (2014). Productive failure in learning math. *Cognitive Science, 38*(5), 1008-1022. [doi:10.1111/cogs.12107](https://doi.org/10.1111/cogs.12107)
 - Schwartz, D. L., & Bransford, J. D. (1998). A time for telling. *Cognition and Instruction, 16*(4), 475–522. [doi:10.1207/s1532690xci1604_4](https://doi.org/10.1207/s1532690xci1604_4)
 - Bjork, R. A., & Bjork, E. L. (2011). Making things hard on yourself, but in a good way: Creating desirable difficulties to enhance learning. In M. A. Gernsbacher et al. (Eds.), *Psychology and the real world* (pp. 56–64). Worth Publishers.
 - Hiebert, J., & Grouws, D. A. (2007). The effects of classroom mathematics teaching on students' learning. In F. K. Lester (Ed.), *Second handbook of research on mathematics teaching and learning* (pp. 371–404). Information Age Publishing.

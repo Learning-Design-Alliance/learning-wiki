@@ -66,7 +66,7 @@ Digital literacy is best taught through authentic tasks — real searches, real 
 - **Northstar Digital Literacy** ([https://www.digitalliteracyassessment.org](https://www.digitalliteracyassessment.org)): standards-based assessment and instruction for adult learners, widely used in adult basic education programs.
 
 ## Key Sources
-- Breakstone, J., Smith, M., Orland, M., Barr, D., Spindler, M., & McGrew, S. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8), 539–552. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
+- Breakstone, J., Smith, M., Orland, M., Barr, D., Spindler, M., & McGrew, S. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8), 505-515. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
 - Eshet-Alkalai, Y. (2004). Digital literacy: A conceptual framework for survival skills in the digital era. *Journal of Educational Multimedia and Hypermedia, 13*(1), 93–106.
 - Kirschner, P. A., & De Bruyckere, P. (2017). The myths of the digital native and the multitasker. *Teaching and Teacher Education, 67*, 135–142. [doi:10.1016/j.tate.2017.06.001](https://doi.org/10.1016/j.tate.2017.06.001)
 - McGrew, S., Ortega, T., Breakstone, J., & Wineburg, S. (2017). The challenge that's bigger than fake news: Civic reasoning in a social media environment. *American Educator, 41*(3), 4–9.

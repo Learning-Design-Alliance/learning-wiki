@@ -69,5 +69,5 @@ Art journaling leverages dual coding: pairing verbal and visual representations 
 ## Key Sources
 - Paivio, A. (1991). Dual coding theory: Retrospect and current status. *Canadian Journal of Psychology, 45*(3), 255–287. [doi:10.1037/h0084295](https://doi.org/10.1037/h0084295)
 - Bangert-Drowns, R. L., Hurley, M. M., & Wilkinson, B. (2004). The effects of school-based writing-to-learn interventions on academic achievement: A meta-analysis. *Review of Educational Research, 74*(1), 29–58. [doi:10.3102/00346543074001029](https://doi.org/10.3102/00346543074001029)
-- Connor-Greene, P. A. (2000). Assessing and promoting student learning: Blurring the line between teaching and testing. *College Teaching, 48*(2), 71–74. [doi:10.1207/s15328023top2702_01](https://doi.org/10.1207/s15328023top2702_01)
+- Connor-Greene, P. A. (2000). Assessing and promoting student learning: Blurring the line between teaching and testing. *Teaching of Psychology, 27*(2), 84-88. [doi:10.1207/s15328023top2702_01](https://doi.org/10.1207/s15328023top2702_01)
 - Zimmerman, B. J., & Campillo, M. (2003). Motivating self-regulated problem solvers. In J. E. Davidson & R. J. Sternberg (Eds.), *The psychology of problem solving* (pp. 233–262). Cambridge University Press.

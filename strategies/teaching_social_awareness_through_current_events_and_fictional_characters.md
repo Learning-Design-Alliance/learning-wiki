@@ -70,6 +70,6 @@ Narrative provides low-stakes psychological distance: learners can analyze a fic
 
 ## Key Sources
 - Kidd, D. C., & Castano, E. (2013). Reading literary fiction improves theory of mind. *Science, 342*(6156), 377–380. [doi:10.1126/science.1239918](https://doi.org/10.1126/science.1239918)
-- Mar, R. A., Oatley, K., & Peterson, J. B. (2009). Exploring the link between reading fiction and empathy: Ruling out individual differences and examining outcomes. *European Journal of Communication Research, 34*(4), 407–428. [doi:10.1515/comm.2009.025](https://doi.org/10.1515/comm.2009.025)
+- Mar, R. A., Oatley, K., & Peterson, J. B. (2009). Exploring the link between reading fiction and empathy: Ruling out individual differences and examining outcomes. *COMM, 34*(4), 407-428. [doi:10.1515/comm.2009.025](https://doi.org/10.1515/comm.2009.025)
 - Batson, C. D., Early, S., & Salvarani, G. (1997). Perspective taking: Imagining how another feels versus imagining how you would feel. *Personality and Social Psychology Bulletin, 23*(7), 751–758. [doi:10.1177/0146167297237008](https://doi.org/10.1177/0146167297237008)
 - Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development, 82*(1), 405–432. [doi:10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x)

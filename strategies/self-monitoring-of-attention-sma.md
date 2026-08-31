@@ -68,7 +68,7 @@ SMA converts attention from an invisible, unexamined state into an object of exp
 - **ClassDojo-style self-reporting** — some teachers adapt behavior-tracking platforms so students self-record attention points, combining SMA with immediate feedback.
 
 ## Key Sources
-- Reid, R., Trout, A. L., & Schartz, M. (2005). Self-regulation interventions for students with attention deficit/hyperactivity disorder. *Exceptional Children, 71*(4), 361–377. [doi:10.17161/fec.v32i4.6773](https://doi.org/10.17161/fec.v32i4.6773)
+- Reid, R., Trout, A. L., & Schartz, M. (2005). Self-regulation interventions for students with attention deficit/hyperactivity disorder. *Focus on Exceptional Children, 32*(4), 361. [doi:10.17161/fec.v32i4.6773](https://doi.org/10.17161/fec.v32i4.6773)
 - Harris, K. R., Friedlander, B. D., Sadler, B., Frizzelle, R., & Graham, S. (2005). Self-monitoring of attention versus self-monitoring of academic performance: Effects among students with ADHD in the general education classroom. *The Journal of Special Education, 39*(3), 145–156. [doi:10.1177/00224669050390030201](https://doi.org/10.1177/00224669050390030201)
 - Graham, S., Harris, K. R., & Reid, R. (1992). Developing self-regulated learners. *Focus on Exceptional Children, 24*(6), 1–16.
 - Shapiro, E. S., & Cole, C. L. (1999). *Behavior change in the classroom: Self-management interventions.* Guilford Press.

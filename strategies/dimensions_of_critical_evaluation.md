@@ -66,8 +66,8 @@ Explicitly naming and contrasting the dimensions prevents the common failure mod
 - A science methods course applies the dimensions to conflicting web pages about climate data, prompting learners to notice that accuracy judgments require domain knowledge while reliability judgments can be made from source features.
 
 ## Key Sources
-- Breakstone, J., Smith, M., Wineburg, S., Rapaport, A., Carle, J., Garland, M., & Saavedra, A. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8), 539–552. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
-- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(11), 1–40. [doi:10.37016/mr-2020-56](https://doi.org/10.37016/mr-2020-56)
+- Breakstone, J., Smith, M., Wineburg, S., Rapaport, A., Carle, J., Garland, M., & Saavedra, A. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8), 505-515. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
+- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(11), 1–40.
 - Braasch, J. L. G., Bråten, I., Strømsø, H. I., Anmarkrud, Ø., & Ferguson, L. E. (2013). Promoting secondary school students' evaluation of source features of multiple documents. *Contemporary Educational Psychology, 38*(3), 180–195. [doi:10.1016/j.cedpsych.2013.03.003](https://doi.org/10.1016/j.cedpsych.2013.03.003)
 - Paul, R., & Elder, L. (2006). *Critical thinking: Tools for taking charge of your learning and your life* (2nd ed.). Pearson/Prentice Hall.
 - Facione, P. A. (1990). *Critical thinking: A statement of expert consensus for purposes of educational assessment and instruction* (The Delphi Report). California Academic Press.

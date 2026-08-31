@@ -69,6 +69,6 @@ Fading resolves the central tension of example-based learning: full examples are
 
 ## Key Sources
 - Renkl, A., Atkinson, R. K., & Große, C. S. (2004). How fading worked solution steps works—A cognitive load perspective. *Instructional Science, 32*(1–2), 59–82. [doi:10.1023/B:TRUC.0000021815.74806.f6](https://doi.org/10.1023/B:TRUC.0000021815.74806.f6)
-- Renkl, A., Atkinson, R. K., Maier, U. H., & Staley, R. (2002). From example study to problem solving: Smooth transitions help learning. *Journal of Educational Psychology, 94*(2), 294–309. [doi:10.1080/00220970209599510](https://doi.org/10.1080/00220970209599510)
+- Renkl, A., Atkinson, R. K., Maier, U. H., & Staley, R. (2002). From example study to problem solving: Smooth transitions help learning. *The Journal of Experimental Education, 70*(4), 293-315. [doi:10.1080/00220970209599510](https://doi.org/10.1080/00220970209599510)
 - Sweller, J., & Cooper, G. A. (1985). The use of worked examples as a substitute for problem solving in learning algebra. *Cognition and Instruction, 2*(1), 59–89. [doi:10.1207/s1532690xci0201_3](https://doi.org/10.1207/s1532690xci0201_3)
 - van Gog, T., & Rummel, N. (2010). Example-based learning: Integrating cognitive and social-cognitive research perspectives. *Educational Psychology Review, 22*(2), 155–174. [doi:10.1007/s10648-010-9134-7](https://doi.org/10.1007/s10648-010-9134-7)

@@ -68,7 +68,7 @@ New learning is stored in relation to existing knowledge structures; when releva
 
 ## Key Sources
 - Ausubel, D. P. (1968). *Educational psychology: A cognitive view*. Holt, Rinehart & Winston.
-- Dochy, F., Segers, M., & Buehl, M. M. (2003). The relation between assessment practices and outcomes of studies: The case of research on prior knowledge. *Review of Educational Research, 69*(2), 147–159. [doi:10.2307/1170673](https://doi.org/10.2307/1170673)
+- Dochy, F., Segers, M., & Buehl, M. M. (2003). The relation between assessment practices and outcomes of studies: The case of research on prior knowledge. *Review of Educational Research, 69*(2), 145. [doi:10.2307/1170673](https://doi.org/10.2307/1170673)
 - Ogle, D. M. (1986). K-W-L: A teaching model that develops active reading of expository text. *The Reading Teacher, 39*(6), 564–570. [doi:10.1598/rt.39.6.11](https://doi.org/10.1598/rt.39.6.11)
 - Rosenshine, B. (2012). Principles of instruction: Research-based strategies that all teachers should know. *The Clearing House, 85*(6), 225–233. [doi:10.1080/00098655.2012.658824](https://doi.org/10.1080/00098655.2012.658824)
 - Palincsar, A. S., & Brown, A. L. (1984). Reciprocal teaching of comprehension-fostering and comprehension-monitoring activities. *Cognition and Instruction, 1*(2), 117–175. [doi:10.1207/s1532690xci0102_1](https://doi.org/10.1207/s1532690xci0102_1)

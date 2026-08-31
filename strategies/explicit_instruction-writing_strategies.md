@@ -69,6 +69,6 @@ Explicit strategy instruction works because it converts the tacit processes expe
 ## Key Sources
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
 - Graham, S., McKeown, D., Kiuhara, S., & Harris, K. R. (2012). A meta-analysis of writing instruction for students in the elementary grades. *Journal of Educational Psychology, 104*(4), 879–896. [doi:10.1037/a0029185](https://doi.org/10.1037/a0029185)
-- Graham, S., & Sandmel, S. (2011). The process writing approach: A meta-analysis. *Journal of Educational Research, 104*(6), 396–407. [doi:10.17763/haer.81.4.t2k0m13756113566](https://doi.org/10.17763/haer.81.4.t2k0m13756113566)
+- Graham, S., & Sandmel, S. (2011). The process writing approach: A meta-analysis. *Journal of Educational Research, 104*(6), 396–407.
 - Harris, K. R., Graham, S., & Mason, L. H. (2006). Improving the planning, self-monitoring, and written performance of young writers with learning disabilities. *Learning Disabilities Research & Practice, 21*(2), 77–88.
 

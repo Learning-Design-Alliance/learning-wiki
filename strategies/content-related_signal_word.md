@@ -72,7 +72,7 @@ The strategy pairs a conditioned attention signal with low-stakes retrieval: eac
 - A middle-school humanities class rotates signal words through unit vocabulary (*renaissance*, *patron*, *perspective*), and the teacher ends each unit with a quick review of all prior signal words.
 
 ## Key Sources
-- Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children, 31*(3), 351–380. [doi:10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)
+- Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children, 31*(1), 351-380. [doi:10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)
 - Kounin, J. S. (1970). *Discipline and group management in classrooms*. New York: Holt, Rinehart & Winston.
 - Agarwal, P. K., Bain, P. M., & Chamberlain, R. W. (2012). The value of applied research: Retrieval practice improves classroom learning and recommendations from a teacher, a principal, and a scientist. *Educational Psychology Review, 24*(3), 437–448. [doi:10.1007/s10648-012-9210-2](https://doi.org/10.1007/s10648-012-9210-2)
 - Emmer, E. T., & Sabornie, E. J. (2015). *Handbook of classroom management* (2nd ed.). Routledge. [doi:10.4324/9780203074114](https://doi.org/10.4324/9780203074114)

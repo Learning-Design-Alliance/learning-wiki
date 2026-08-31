@@ -70,4 +70,4 @@ Bias awareness activities work by making automatic cognitive processes explicit 
 ## Key Sources
 - Devine, P. G. (1989). Stereotypes and prejudice: Their automatic and controlled components. *Journal of Personality and Social Psychology, 56*(1), 5–18. [doi:10.1037/0022-3514.56.1.5](https://doi.org/10.1037/0022-3514.56.1.5)
 - Plant, E. A., & Devine, P. G. (1998). Internal and external motivation to respond without prejudice. *Journal of Personality and Social Psychology, 74*(2), 365–380. [doi:10.1037/t03881-000](https://doi.org/10.1037/t03881-000)
-- Forscher, P. S., Lai, C. K., Axt, J. R., Ebersole, C. R., Herman, M., Devine, P. G., & Nosek, B. A. (2019). A meta-analysis of procedures to change implicit measures. *Journal of Personality and Social Psychology, 117*(3), 554–595. [doi:10.1037/pspa0000160](https://doi.org/10.1037/pspa0000160)
+- Forscher, P. S., Lai, C. K., Axt, J. R., Ebersole, C. R., Herman, M., Devine, P. G., & Nosek, B. A. (2019). A meta-analysis of procedures to change implicit measures. *Journal of Personality and Social Psychology, 117*(3), 522-559. [doi:10.1037/pspa0000160](https://doi.org/10.1037/pspa0000160)

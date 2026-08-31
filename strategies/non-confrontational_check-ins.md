@@ -66,7 +66,7 @@ Positive greetings and relationship-based check-ins measurably increase academic
 - **Secondary entry pulse check** — A high school teacher posts a 1–5 readiness scale; students tap their level on entry, and the teacher privately follows up with any 1s or 2s during the opening task.
 
 ## Key Sources
-- Cook, C. R., Fiat, A., Larson, M., Daikos, C., Slemrod, T., Holland, E. A., Thayer, A. J., & Renshaw, T. (2018). Positive greetings at the door to improve student behavior and teacher well-being. *Journal of Positive Behavior Interventions, 20*(3), 149–159. [doi:10.1177/1098300717753831](https://doi.org/10.1177/1098300717753831)
+- Cook, C. R., Fiat, A., Larson, M., Daikos, C., Slemrod, T., Holland, E. A., Thayer, A. J., & Renshaw, T. (2018). Positive greetings at the door to improve student behavior and teacher well-being. *Journal of Positive Behavior Interventions, 20*(3), 149–159.
 - Okonofua, J. A., Walton, G. M., & Eberhardt, J. L. (2016). A vicious cycle: A social–psychological account of extreme racial disparities in school discipline. *Perspectives on Psychological Science, 11*(3), 381–398. [doi:10.1177/1745691615627758](https://doi.org/10.1177/1745691615627758)
 - Marzano, R. J., & Marzano, J. S. (2003). The key to classroom management. *Educational Leadership, 61*(1), 6–13.
 - Walton, G. M., & Cohen, G. L. (2011). A brief social-belonging intervention improves academic and health outcomes of minority students. *Science, 331*(6023), 1447–1451. [doi:10.1126/science.1198364](https://doi.org/10.1126/science.1198364)

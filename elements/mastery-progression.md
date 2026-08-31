@@ -74,6 +74,6 @@ Mastery gating strengthens retention and skill acquisition by ensuring learners 
 
 ## Key Sources
 - Bloom, B. S. (1968). Learning for mastery. *Evaluation Comment, 1*(2). UCLA Center for the Study of Evaluation.
-- Kulik, C.-L. C., Kulik, J. A., & Bangert-Drowns, R. L. (1990). Effectiveness of mastery learning programs: A meta-analysis. *Review of Educational Research, 60*(3), 315–342. [doi:10.3102/00346543060002265](https://doi.org/10.3102/00346543060002265)
+- Kulik, C.-L. C., Kulik, J. A., & Bangert-Drowns, R. L. (1990). Effectiveness of mastery learning programs: A meta-analysis. *Review of Educational Research, 60*(2), 265-299. [doi:10.3102/00346543060002265](https://doi.org/10.3102/00346543060002265)
 - Guskey, T. R. (2010). Lessons of mastery learning. *Educational Leadership, 68*(2), 52–57.
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)

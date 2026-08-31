@@ -67,7 +67,7 @@ Physical arrangement is not neutral: it shapes which behaviors are possible and 
 - **Flexible seating pilots in K-12** — reconfiguring rows into clusters for project phases and back to rows for assessment, with transition routines taught in the first week
 
 ## Key Sources
-- Wannarka, R., & Ruhl, K. (2008). Seating arrangements that promote positive academic and behavioural outcomes: A review of empirical research. *Educational Psychology Review, 20*(2), 249–264. [doi:10.1111/j.1467-9604.2008.00375.x](https://doi.org/10.1111/j.1467-9604.2008.00375.x)
+- Wannarka, R., & Ruhl, K. (2008). Seating arrangements that promote positive academic and behavioural outcomes: A review of empirical research. *Support for Learning, 23*(2), 89-93. [doi:10.1111/j.1467-9604.2008.00375.x](https://doi.org/10.1111/j.1467-9604.2008.00375.x)
 - Fisher, A. V., Godwin, K. E., & Seltman, H. (2014). Visual environment, attention allocation, and learning in young children: When too much of a good thing may be bad. *Psychological Science, 25*(7), 1362–1370. [doi:10.1177/0956797614533801](https://doi.org/10.1177/0956797614533801)
 - Barrett, P., Zhang, Y., Davies, F., & Barrett, L. (2015). *Clever Classrooms: Summary findings of the HEAD project*. University of Salford. [http://www.salford.ac.uk/cleverclassrooms](http://www.salford.ac.uk/cleverclassrooms)
 - Glass, G. V., & Smith, M. L. (1979). Meta-analysis of research on class size and achievement. *Educational Evaluation and Policy Analysis, 1*(1), 2–16. [doi:10.3102/01623737001001002](https://doi.org/10.3102/01623737001001002)

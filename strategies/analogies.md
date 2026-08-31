@@ -78,6 +78,6 @@ Analogies work because they activate relevant prior knowledge and let learners r
 ## Key Sources
 - Ausubel, D. P. (1960). The use of advance organizers in the learning and retention of meaningful verbal material. *Journal of Educational Psychology, 51*(5), 267–272. [doi:10.1037/h0046669](https://doi.org/10.1037/h0046669)
 - Glynn, S. M., & Takahashi, T. (1998). Learning from analogy-enhanced science text. *Journal of Research in Science Teaching, 35*(10), 1129–1149. [doi:10.1002/(SICI)1098-2736(199812)35:10<1129::AID-TEA5>3.0.CO;2-2](https://doi.org/10.1002/(SICI)1098-2736(199812)35:10<1129::AID-TEA5>3.0.CO;2-2)
-- Donnelly, C. M., & McDaniel, M. A. (1993). Use of analogies in learning unknown scientific concepts. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 19*(5), 1133–1145. [doi:10.1037/0278-7393.19.4.975](https://doi.org/10.1037/0278-7393.19.4.975)
+- Donnelly, C. M., & McDaniel, M. A. (1993). Use of analogies in learning unknown scientific concepts. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 19*(4), 975-987. [doi:10.1037/0278-7393.19.4.975](https://doi.org/10.1037/0278-7393.19.4.975)
 - Duit, R. (1991). On the role of analogies and metaphors in learning science. *Science Education, 75*(6), 649–672. [doi:10.1002/sce.3730750606](https://doi.org/10.1002/sce.3730750606)
 - Harrison, A. G., & Coll, R. K. (2008). *Using analogies in middle and secondary science classrooms*. Corwin Press.

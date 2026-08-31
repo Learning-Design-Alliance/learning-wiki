@@ -66,6 +66,6 @@ Recreating dot arrangements connects perceptual pattern recognition to physical 
 ## Key Sources
 - Carbonneau, K. J., Marley, S. C., & Selig, J. P. (2013). A meta-analysis of the efficacy of teaching mathematics with concrete manipulatives. *Journal of Educational Psychology, 105*(2), 380–400. [doi:10.1037/a0031084](https://doi.org/10.1037/a0031084)
 - Clements, D. H. (1999). Subitizing: What is it? Why teach it? *Teaching Children Mathematics, 5*(7), 400–405.
-- Clements, D. H., & Sarama, J. (2007). Effects of a preschool mathematics curriculum: Summative research on the Building Blocks project. *Journal for Research in Mathematics Education, 38*(2), 136–163. [doi:10.3102/0002831207312908](https://doi.org/10.3102/0002831207312908)
+- Clements, D. H., & Sarama, J. (2007). Effects of a preschool mathematics curriculum: Summative research on the Building Blocks project. *American Educational Research Journal, 45*(2), 443-494. [doi:10.3102/0002831207312908](https://doi.org/10.3102/0002831207312908)
 - Sarama, J., & Clements, D. H. (2009). *Early childhood mathematics education research: Learning trajectories for young children.* Routledge. [doi:10.4324/9780203883785](https://doi.org/10.4324/9780203883785)
 - Butterworth, B. (1999). *The mathematical brain.* Macmillan.

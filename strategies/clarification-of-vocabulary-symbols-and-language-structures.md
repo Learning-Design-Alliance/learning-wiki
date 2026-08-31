@@ -72,6 +72,6 @@ Vocabulary knowledge is one of the strongest correlates of reading comprehension
 
 ## Key Sources
 - Beck, I. L., McKeown, M. G., & Kucan, L. (2013). *Bringing words to life: Robust vocabulary instruction* (2nd ed.). Guilford Press.
-- Elleman, A. M., Lindo, E. J., Morphy, P., & Compton, D. L. (2009). The impact of vocabulary instruction on passage-level comprehension of school-age children: A meta-analysis. *Journal of Educational Psychology, 101*(3), 540–553. [doi:10.1080/19345740802539200](https://doi.org/10.1080/19345740802539200)
+- Elleman, A. M., Lindo, E. J., Morphy, P., & Compton, D. L. (2009). The impact of vocabulary instruction on passage-level comprehension of school-age children: A meta-analysis. *Journal of Research on Educational Effectiveness, 2*(1), 1-44. [doi:10.1080/19345740802539200](https://doi.org/10.1080/19345740802539200)
 - Nagy, W., & Townsend, D. (2012). Words as tools: Learning academic vocabulary as language acquisition. *Reading Research Quarterly, 47*(1), 91–108. [doi:10.1002/RRQ.011](https://doi.org/10.1002/RRQ.011)
 - Mayer, R. E., & Moreno, R. (2003). Nine ways to reduce cognitive load in multimedia learning. *Educational Psychologist, 38*(1), 43–52. [doi:10.1207/S15326985EP3801_6](https://doi.org/10.1207/S15326985EP3801_6)

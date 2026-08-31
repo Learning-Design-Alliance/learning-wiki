@@ -70,7 +70,7 @@ Open-ended discussion supports learning by requiring learners to articulate, def
 - **Structured Academic Controversy** (Johnson & Johnson) — learners argue one side of an issue, switch sides, then drop positions to seek consensus; a published protocol for making open discussion equitable.
 
 ## Key Sources
-- Murphy, P. K., Wilkinson, I. A. G., Soter, A. O., Hennessey, M. N., & Alexander, J. F. (2009). Examining the effects of classroom discussion on students' comprehension of text: A meta-analysis. *Review of Educational Research, 79*(2), 814–859. [doi:10.1037/a0015576](https://doi.org/10.1037/a0015576)
+- Murphy, P. K., Wilkinson, I. A. G., Soter, A. O., Hennessey, M. N., & Alexander, J. F. (2009). Examining the effects of classroom discussion on students' comprehension of text: A meta-analysis. *Journal of Educational Psychology, 101*(3), 740-764. [doi:10.1037/a0015576](https://doi.org/10.1037/a0015576)
 - Chi, M. T. H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219–243. [doi:10.1080/00461520.2014.965823](https://doi.org/10.1080/00461520.2014.965823)
 - Johnson, D. W., & Johnson, R. T. (2009). Energizing learning: The instructional power of conflict. *Educational Researcher, 38*(1), 37–51. [doi:10.3102/0013189X08330540](https://doi.org/10.3102/0013189X08330540)
 - Mercer, N. (2000). *Words and minds: How we use language to think together.* Routledge.

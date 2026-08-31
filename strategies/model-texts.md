@@ -67,6 +67,6 @@ Model texts function as worked examples for writing: they substitute a completed
 
 ## Key Sources
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
-- Graham, S., & Sandmel, D. (2011). The process writing approach: A meta-analysis. *Journal of Educational Research, 104*(6), 396–407. [doi:10.17763/haer.81.4.t2k0m13756113566](https://doi.org/10.17763/haer.81.4.t2k0m13756113566)
+- Graham, S., & Sandmel, D. (2011). The process writing approach: A meta-analysis. *Journal of Educational Research, 104*(6), 396–407.
 - Hochman, J. C., & Wexler, N. (2017). *The Writing Revolution: A Guide to Advancing Thinking Through Writing in All Subjects and Grades*. Jossey-Bass.
 - Fitzgerald, J., & Shanahan, T. (2000). Reading and writing relations and their development. *Educational Psychologist, 35*(1), 39–50. [doi:10.1207/S15326985EP3501_5](https://doi.org/10.1207/S15326985EP3501_5)

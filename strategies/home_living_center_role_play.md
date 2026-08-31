@@ -75,7 +75,7 @@ Role play in a familiar, realistic setting lets learners externalize and rehears
 
 ## Key Sources
 - Goldstein, T. R., & Lerner, M. D. (2018). Dramatic pretend play games uniquely improve emotional control in young children. *Early Childhood Research Quarterly, 43*, 156–167.
-- Lindsey, E. W., & Colwell, M. J. (2013). Pretend and physical play: Links to preschoolers' emotional competence. *Early Education & Development, 24*(2), 144–174. [doi:10.13110/merrpalmquar1982.59.3.0330](https://doi.org/10.13110/merrpalmquar1982.59.3.0330)
+- Lindsey, E. W., & Colwell, M. J. (2013). Pretend and physical play: Links to preschoolers' emotional competence. *Merrill-Palmer Quarterly, 59*(3), 330. [doi:10.13110/merrpalmquar1982.59.3.0330](https://doi.org/10.13110/merrpalmquar1982.59.3.0330)
 - Ashiabi, G. S. (2007). Play in the preschool classroom: Its socioemotional significance and the teacher's role in play. *Early Childhood Education Journal, 35*(2), 199–207. [doi:10.1007/s10643-007-0165-8](https://doi.org/10.1007/s10643-007-0165-8)
 - Bandura, A. (1977). *Social learning theory*. Prentice Hall.
 - Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press.

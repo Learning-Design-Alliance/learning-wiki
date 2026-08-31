@@ -70,7 +70,7 @@ Valuing reasoning over answers converts errors from endpoints into learning oppo
 
 ## Key Sources
 - Chi, M. T. H., de Leeuw, N., Chiu, M.-H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477. [doi:10.1207/s15516709cog1803_3](https://doi.org/10.1207/s15516709cog1803_3)
-- Durkin, K., & Rittle-Johnson, B. (2012). The effectiveness of using incorrect examples to support learning about decimal magnitude. *Learning and Instruction, 22*(1), 85–94. [doi:10.1016/j.learninstruc.2011.11.001](https://doi.org/10.1016/j.learninstruc.2011.11.001)
-- Kapur, M. (2014). Productive failure in learning math. *Journal of the Learning Sciences, 23*(4), 565–583. [doi:10.1111/cogs.12107](https://doi.org/10.1111/cogs.12107)
+- Durkin, K., & Rittle-Johnson, B. (2012). The effectiveness of using incorrect examples to support learning about decimal magnitude. *Learning and Instruction, 22*(3), 206-214. [doi:10.1016/j.learninstruc.2011.11.001](https://doi.org/10.1016/j.learninstruc.2011.11.001)
+- Kapur, M. (2014). Productive failure in learning math. *Cognitive Science, 38*(5), 1008-1022. [doi:10.1111/cogs.12107](https://doi.org/10.1111/cogs.12107)
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
 - Boaler, J., & Brodie, K. (2004). The importance, nature, and impact of teacher questions. *Proceedings of the 26th Annual Meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education.*

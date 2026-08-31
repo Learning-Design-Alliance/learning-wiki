@@ -68,5 +68,5 @@ Jigsaw converts the accountability problem of group work into a structural featu
 ## Key Sources
 - Aronson, E., Blaney, N., Stephan, C., Sikes, J., & Snapp, M. (1978). *The jigsaw classroom*. Sage.
 - Slavin, R. E. (1995). *Cooperative learning: Theory, research, and practice* (2nd ed.). Allyn & Bacon.
-- Souvignier, E., & Kronenberger, J. (2007). Cooperative learning with third and fourth graders: Effects of jigsaw on achievement and motivation. *Learning and Instruction, 17*(4), 423–439. [doi:10.1016/j.learninstruc.2007.02.005](https://doi.org/10.1016/j.learninstruc.2007.02.005)
+- Souvignier, E., & Kronenberger, J. (2007). Cooperative learning with third and fourth graders: Effects of jigsaw on achievement and motivation. *Learning and Instruction, 17*(4), 423–439.
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)

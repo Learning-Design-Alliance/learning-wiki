@@ -66,7 +66,7 @@ CRA manages intrinsic cognitive load by giving abstract notation a referent lear
 - **[Number Frames / Number Pieces apps](https://www.mathlearningcenter.org/apps)** — free virtual manipulatives supporting the concrete and representational phases digitally
 
 ## Key Sources
-- Bouck, E. C., Satsangi, R., & Park, J. (2018). The concrete–representational–abstract approach for students with learning disabilities: An evidence-based practice synthesis. *Learning Disabilities Research & Practice, 33*(3), 134–154. [doi:10.1177/0741932517721712](https://doi.org/10.1177/0741932517721712)
+- Bouck, E. C., Satsangi, R., & Park, J. (2018). The concrete–representational–abstract approach for students with learning disabilities: An evidence-based practice synthesis. *Remedial and Special Education, 39*(4), 211-228. [doi:10.1177/0741932517721712](https://doi.org/10.1177/0741932517721712)
 - Bruner, J. S. (1966). *Toward a theory of instruction*. Harvard University Press.
 - Carbonneau, K. J., Marley, S. C., & Selig, J. P. (2013). A meta-analysis of the efficacy of teaching mathematics with concrete manipulatives. *Journal of Educational Psychology, 105*(2), 380–400. [doi:10.1037/a0031084](https://doi.org/10.1037/a0031084)
 - Witzel, B. S., Mercer, C. D., & Miller, M. D. (2003). Teaching early algebra to students with mathematics learning difficulties. *Learning Disability Quarterly, 26*(4), 265–280.

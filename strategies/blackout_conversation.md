@@ -75,6 +75,6 @@ Blackout Conversation combines constrained text-marking with perspective-taking:
 
 ## Key Sources
 - Kleon, A. (2010). *Newspaper blackout*. Harper Perennial.
-- Mar, R. A., Oatley, K., & Peterson, J. B. (2009). Exploring the link between reading fiction and empathy: Ruling out individual differences and examining outcomes. *Communications, 34*(4), 407–428. [doi:10.1515/COMM.2009.025](https://doi.org/10.1515/COMM.2009.025)
+- Mar, R. A., Oatley, K., & Peterson, J. B. (2009). Exploring the link between reading fiction and empathy: Ruling out individual differences and examining outcomes. *COMM, 34*(4), 407-428. [doi:10.1515/COMM.2009.025](https://doi.org/10.1515/COMM.2009.025)
 - White, T. G., Kim, J. S., Kingston, L., & Foster, L. (2014). Reading fiction and reading minds: The role of simulation in the default network. *Psychological Science, 25*(11), 2129–2141. [doi:10.1177/0956797614549386](https://doi.org/10.1177/0956797614549386)
 - CASEL. (2020). *CASEL framework: Social and emotional learning competencies*. Collaborative for Academic, Social, and Emotional Learning. https://casel.org/fundamentals-of-sel/
