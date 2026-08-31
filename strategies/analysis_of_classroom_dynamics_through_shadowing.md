@@ -39,13 +39,11 @@ Shadowing works as a form of formative diagnosis: it converts tacit impressions 
 - **Video-enhanced shadowing**, where segments are recorded for shared analysis in a debrief
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim](../claims/claim-slug.md) -->
 - The "learners" here are teachers, coaches, and administrators developing diagnostic and reflective practice
 - Novice teachers benefit most, as shadowing builds the observational expertise that experienced teachers have internalized [~M]
 - Instructional coaches use shadowing data to ground feedback in shared evidence rather than impression [Feedback is most effective when directed at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim](../claims/claim-slug.md) -->
 - Diagnostic skill: learning to see classroom events as data rather than impressions
 - Reflective practice: connecting observed student experience to one's own instructional decisions [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
 - Empathy and perspective-taking: understanding the learner's lived experience of pacing, seating, and participation demands

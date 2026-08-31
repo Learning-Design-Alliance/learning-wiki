@@ -17,7 +17,7 @@ Student shadowing is a qualitative data collection method in which an educator �
 
 ## Design Implications
 
-Shadowing operationalizes the principle that students hold expert knowledge about their own school experience that adults routinely under-access [Cook-Sather argues that authorizing student perspectives is a precondition for trust, dialogue, and institutional change.](../claims/claim-slug.md) [+W]. As an [empathy-building](../principles/building-empathy.md) method, it converts abstract equity commitments into concrete, situated observation — a leader who has personally experienced a student's fragmented schedule or long silent lunch period interprets subsequent data differently. The method draws on case study and ethnographic traditions: a single day is a bounded case, and its value depends on disciplined observation protocol rather than casual presence [Yin, 2018].
+Shadowing operationalizes the principle that students hold expert knowledge about their own school experience that adults routinely under-access — the argument Cook-Sather makes for authorizing student perspectives as a precondition for trust, dialogue, and institutional change. As an [empathy-building](../principles/building-empathy.md) method, it converts abstract equity commitments into concrete, situated observation — a leader who has personally experienced a student's fragmented schedule or long silent lunch period interprets subsequent data differently. The method draws on case study and ethnographic traditions: a single day is a bounded case, and its value depends on disciplined observation protocol rather than casual presence [Yin, 2018].
 
 ### Context
 #### Requirements

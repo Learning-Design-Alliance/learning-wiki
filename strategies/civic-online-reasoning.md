@@ -56,7 +56,7 @@ The core insight is empirical: professional fact-checkers evaluate far faster an
 5. Assess with authentic tasks: score evaluation decisions on realistic web content, not recall of checklist criteria.
 
 ## Related Strategies
-- [A Finder's Guide to Facts](a_finders_guide_to_facts.md) — a related journalistic framework for vetting claims and sources
+- [A Finder's Guide to Facts](a_finder's_guide_to_facts.md) — a related journalistic framework for vetting claims and sources
 - [Argumentation strategies](../elements/argumentation.md) — evaluation of sources feeds directly into constructing and critiquing evidence-based arguments [Argumentation improves reasoning.](../claims/argumentation-improves-reasoning.md) [+M]
 
 ## Examples

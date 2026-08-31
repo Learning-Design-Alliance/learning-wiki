@@ -4,7 +4,7 @@ title: Spacing
 description: Distribute learning episodes and practice over time rather than massing them together, so that partial forgetting between sessions triggers effortful retrieval and strengthens long-term retention.
 status: review
 generated:
-  by: "claude/unspecified"
+  by: claude/unspecified
   at: 2026-08-30
 sources:
   - id: cepeda-2006
@@ -20,7 +20,7 @@ sources:
     title: "Kang, S. H. K. (2016). Spaced repetition promotes efficient and effective learning: Policy implications of innovations in teaching and learning science. *Policy Insights from the Behavioral and Brain Sciences, 3*(1), 12–19"
     author: "Kang, S. H. K"
   - id: rohrer-2007
-    resource: "https://doi.org/10.1007/s11251-007-9029-9"
+    resource: "https://doi.org/10.1007/s11251-007-9015-8"
     title: "Rohrer, D., & Taylor, K. (2007). The shuffling of mathematics problems improves learning. *Instructional Science, 35*(6), 481–498"
     author: "Rohrer, D., & Taylor, K"
 ---
@@ -73,17 +73,18 @@ Spacing works because the partial forgetting that occurs between sessions makes 
 - Desirable difficulties research qualifies spacing: it is beneficial only when the difficulty is *productive* — if the gap exceeds what retrieval can bridge, the difficulty becomes undesirable
 
 ### Claims
-<!-- TODO: add claim links when evidence pages exist -->
-- Spaced practice improves long-term retention relative to massed practice [+S] — Cepeda et al. (2006) meta-analysis; effect grows with retention interval
-- Distributed practice is among the highest-utility learning techniques [+S] — Dunlosky et al. (2013) utility ratings
-- Spacing mathematics practice improves delayed test performance [+M] — Rohrer & Taylor (2007)
+- [Spaced Practice Improves Long Term Retention](../claims/spaced-practice-improves-long-term-retention.md) [+S] — Cepeda et al. (2006) meta-analysis; the advantage grows with the retention interval
+- [Spacing Improves Retention](../claims/spacing-improves-retention.md) [+S] — distributed practice rated among the highest-utility techniques by Dunlosky et al. (2013)
+- [Spaced Retrieval Outperforms Restudy](../claims/spaced-retrieval-outperforms-restudy.md) [+S] — a spaced *retest* is far more powerful than a spaced *reread*
+- [Interleaving Improves Retention](../claims/interleaved-practice-improves-retention.md) [+M] — shuffling problem types across sessions, the mathematics case (Rohrer & Taylor, 2007)
 
 ## Related Principles
-- Retrieval Practice — spaced retrieval is the most powerful combination; spacing without retrieval (e.g., spaced rereading) forfeits most of the benefit
+- [Retrieval Practice](retrieval-practice.md) — spaced retrieval is the most powerful combination; spacing without retrieval (e.g., spaced rereading) forfeits most of the benefit
+- [Active Learning](active-learning.md) — the spaced encounter has to require generation, not rereading, for the interval to pay off
+- [Assessment for Learning](assessment-for-learning.md) — cumulative low-stakes quizzing institutionalizes spacing by making every prior unit fair game
+- [Cognitive Load Management](cognitive-load-management.md) — spacing keeps each session's load manageable and prevents fatigue-driven overload in long massed sessions
+- [Chunking](chunking.md) — chunked material is cheaper to re-enter at each spaced encounter, lowering the cost of the return visit
 - Interleaving — mixes problem types within and across sessions, complementing spacing by preventing blocked, massed practice of a single type
-- Cumulative Assessment — institutionalizes spacing by requiring every quiz to sample from all prior units
-- Cognitive Load Management — spacing keeps each session's load manageable and prevents fatigue-driven overload in long massed sessions
-- Automaticity — durable fluency requires repeated, distributed practice after initial acquisition
 
 ## Examples
 

@@ -58,7 +58,7 @@ Media literacy instruction works best when it teaches specific, transferable eva
 6. Culminate in media creation for an [Authentic Audience](../principles/authentic-audiences-purposes.md) so learners experience persuasive intent from the producer's side
 
 ## Related Strategies
-- [A Finder's Guide to Facts](a_finders_guide_to_facts.md) — a structured protocol for evaluating factual claims that operationalizes media literacy in the classroom
+- [A Finder's Guide to Facts](a_finder's_guide_to_facts.md) — a structured protocol for evaluating factual claims that operationalizes media literacy in the classroom
 - [3-Source Rule](3-source_rule.md) — a corroboration heuristic that builds triangulation habits
 - [Socratic Questioning](../elements/socratic-questioning.md) — questioning techniques that deepen analysis of media claims
 

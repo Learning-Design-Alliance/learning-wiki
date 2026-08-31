@@ -17,7 +17,7 @@ Proximity control is a nonverbal classroom-management strategy in which the teac
 
 ## Design Implications
 
-Proximity control works because it makes surveillance visible and immediate while preserving the flow of the lesson; it is one of several "withitness" behaviors Kounin identified in teachers who successfully prevent, rather than merely react to, misbehavior [Kounin's withitness and overlapping behaviors predict smoother lesson flow and fewer disruptions.](../claims/claim-slug.md) [+M]. It is most effective when applied early and casually — the teacher continues teaching or helping other students while moving — and least effective when it becomes an obvious confrontation. Because it is rooted in operant conditioning of antecedent conditions rather than consequences, it pairs naturally with [Behaviorism](../principles/behaviorism.md) approaches that shape behavior through environmental cues rather than punishment.
+Proximity control works because it makes surveillance visible and immediate while preserving the flow of the lesson; it is one of several "withitness" behaviors Kounin identified in teachers who successfully prevent, rather than merely react to, misbehavior. It is most effective when applied early and casually — the teacher continues teaching or helping other students while moving — and least effective when it becomes an obvious confrontation. Because it is rooted in operant conditioning of antecedent conditions rather than consequences, it pairs naturally with [Behaviorism](../principles/behaviorism.md) approaches that shape behavior through environmental cues rather than punishment.
 
 ### Context
 #### Requirements

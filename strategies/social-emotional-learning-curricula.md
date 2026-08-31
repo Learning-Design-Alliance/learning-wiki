@@ -61,7 +61,7 @@ Well-implemented SEL programs produce measurable gains in social-emotional skill
 ## Related Strategies
 - [Academic Choice (Planning, Working, Reflecting)](academic_choice_(planning,_working,_reflecting).md) — structures student autonomy, which supports the self-management competencies SEL curricula target
 - [Acceptance, Responsibility, and Sharing](acceptance,_responsibility,_and_sharing.md) — a classroom-routine variant that embeds SEL practice in daily community meetings
-- ['What's My Emotion?' Game Check-In](%27what%27s_my_emotion%3F%27_game_check-in.md) — a low-stakes emotion-labeling activity usable as a warm-up within an SEL sequence
+- ['What's My Emotion?' Game Check-In]('what's_my_emotion?'_game_check-in.md) — a low-stakes emotion-labeling activity usable as a warm-up within an SEL sequence
 
 ## Examples
 - **[PATHS (Promoting Alternative Thinking Strategies)](https://www.pathseducation.com)** — sequenced elementary curriculum teaching emotion vocabulary and self-control; among the most heavily evaluated universal SEL programs.

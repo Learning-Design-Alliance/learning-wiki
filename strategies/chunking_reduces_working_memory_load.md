@@ -1,11 +1,11 @@
 ---
-type: claim
-title: Chunking Reduces Working Memory Load
-description: Organizing information into meaningful units reduces the working memory burden of processing it, improving learning and recall.
+type: strategy
+title: Chunking to Reduce Working Memory Load
+description: Grouping instructional material into meaningful units sized to working memory, so learners hold a few chunks rather than many separate elements.
 status: review
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-29
+  by: claude/unspecified
+  at: 2026-08-30
 sources:
   - id: miller-1956
     resource: "https://doi.org/10.1037/h0043158"
@@ -25,7 +25,7 @@ sources:
     author: "Sweller, J., Ayres, P., & Kalyuga, S"
 ---
 
-# Chunking Reduces Working Memory Load
+# Chunking to Reduce Working Memory Load
 
 > **Strategy** · [All strategies](index.md)
 
@@ -34,7 +34,7 @@ Working memory can hold only a small number of discrete items at once — classi
 
 ## Design Implications
 
-Chunking is a core mechanism of [Cognitive Load Management](../principles/cognitive-load-management.md): presenting material in coherent, meaningful groups keeps intrinsic load within working memory limits, whereas unstructured streams of elements overwhelm learners and force premature forgetting [Sweller et al., 2011](https://doi.org/10.1007/978-1-4419-8126-4) [+S]. The effect depends on the chunk being *meaningful* to the learner — arbitrary groupings of unrelated items do not reduce load, because the learner must still hold each element separately.
+Chunking is a core mechanism of [Cognitive Load Management](../principles/cognitive-load-management.md) [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]: presenting material in coherent, meaningful groups keeps intrinsic load within working memory limits, whereas unstructured streams of elements overwhelm learners and force premature forgetting [Sweller et al., 2011](https://doi.org/10.1007/978-1-4419-8126-4) [+S]. The effect depends on the chunk being *meaningful* to the learner — arbitrary groupings of unrelated items do not reduce load, because the learner must still hold each element separately.
 
 ### Context
 #### Requirements
@@ -64,7 +64,17 @@ Chunking is a core mechanism of [Cognitive Load Management](../principles/cognit
 - Procedural learning where steps must be held in mind simultaneously
 - Schema construction: building larger knowledge units that themselves serve as future chunks
 
+### Instructions
+1. **Analyze the material for natural boundaries.** Identify where the content divides on conceptual, procedural, or categorical lines; chunk on those seams rather than on a fixed item count ([Advance Organizers](../elements/advance-organizers.md)).
+2. **Size each chunk to novel-element count, not length.** Count how many genuinely new, interacting elements a chunk contains — three to five for unfamiliar material — rather than how many minutes or slides it occupies.
+3. **Name the chunk.** Give each unit an explicit label, so the group can be retrieved as one item instead of reconstructed element by element.
+4. **Present chunks one at a time.** Segment continuous media and multi-step procedures at the boundaries identified in step 1, and let learners pace the transitions where the medium allows ([Part-Task Practice](../elements/part-task-practice.md)).
+5. **Practise within, then across.** Have learners work each chunk to fluency before requiring them to integrate chunks, so integration draws on consolidated units rather than loose elements ([Spaced Repetition](../elements/spaced-repetition.md)).
+6. **Make the relationships between chunks explicit.** Once the parts are secure, show how they compose into the whole — chunking that never reassembles leaves learners with fragments.
+7. **Fade the chunking as expertise grows.** Withdraw the imposed segmentation once learners chunk the material themselves, since retaining it becomes redundant and slows them down.
+
 ## Related Strategies
+- [Chunking Content](chunking-content.md) — the same strategy stated in delivery terms: segmenting lessons, videos, and texts into coherent units
 - [Segmenting](../strategies/segmenting.md) — chunking applied to continuous media
 - [Advance Organizers](../elements/advance-organizers.md) — supply the framework that makes chunks meaningful
 - [Spaced Repetition](../elements/spaced-repetition.md) — consolidates chunks into long-term memory so they free working memory capacity

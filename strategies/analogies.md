@@ -59,7 +59,7 @@ Analogies work because they activate relevant prior knowledge and let learners r
 ## Related Strategies
 - [Advance Organizers](../strategies/advance_organizers.md) — analogies are one of the most powerful organizer types
 - [Activating Prior Knowledge](../strategies/activating_prior_knowledge.md) — the mechanism analogies exploit
-- [Multiple Representations](../strategies/multiple_representations.md) — an analogy is one representation among several that should ultimately be coordinated
+- [Multiple Representations](../strategies/multiple-representations.md) — an analogy is one representation among several that should ultimately be coordinated
 
 ## Related Elements
 - [Analogies and Prior Knowledge Activation](../elements/analogies-and-prior-knowledge-activation.md) — the element form of this strategy

@@ -1,88 +1,109 @@
 ---
 type: strategy
-title: [Strategy Name]
-description: [One-line summary]
+title: Puppet Shows to Explore Emotions
+description: Using puppets to act out emotionally charged situations so young children can name, discuss, and rehearse responses to feelings at one remove from themselves.
 status: review
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-29
+  by: claude/unspecified
+  at: 2026-08-30
+sources:
+  - id: durlak-2011
+    resource: "https://doi.org/10.1111/j.1467-8624.2010.01564.x"
+    title: "Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development, 82*(1), 405–432"
+    author: "Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B"
+  - id: denham-1986
+    resource: "https://doi.org/10.2307/1130651"
+    title: "Denham, S. A. (1986). Social cognition, prosocial behavior, and emotion in preschoolers: Contextual validation. *Child Development, 57*(1), 194–201"
+    author: "Denham, S. A"
+  - id: taylor-2017
+    resource: "https://doi.org/10.1111/cdev.12864"
+    title: "Taylor, R. D., Oberle, E., Durlak, J. A., & Weissberg, R. P. (2017). Promoting positive youth development through school-based social and emotional learning interventions: A meta-analysis of follow-up effects. *Child Development, 88*(4), 1156–1171"
+    author: "Taylor, R. D., Oberle, E., Durlak, J. A., & Weissberg, R. P"
 ---
 
-# [Strategy Name]
+# Puppet Shows to Explore Emotions
 
 > **Strategy** · [All strategies](index.md)
 
 ## Description
-[2-3 sentences]
+Puppet shows for emotional exploration use puppets to enact situations that provoke feelings — being left out of a game, losing something, being told no, getting it wrong in front of others — and then stop to ask what the puppet feels, how anyone can tell, and what it could do next. The puppet is a distancing device: a four-year-old who cannot discuss being excluded at breaktime can discuss what happened to the rabbit, and the discussion still builds the vocabulary and the response repertoire. Children can also take the puppet and speak through it, which gives them a voice that is theirs and not-theirs at the same time.
 
 ## Design Implications
 
-[1-2 sentence overview connecting to learning science.]
+The strategy's leverage is entirely in the distance. Emotional competence in early childhood — recognizing emotions, naming them, and knowing what to do about them — predicts social functioning and later school adjustment, and it is teachable [SEL programs improve social emotional skills](../claims/sel-programs-improve-social-emotional-skills.md) [+S], with effects that hold up at follow-up [Social-emotional learning benefits persist at follow-up](../claims/sel-benefits-persist-follow-up.md) [+M]. But direct instruction about a young child's own recent distress runs into exactly the state that makes discussion hardest. Displacing the situation onto a character means the analysis can happen while the child is calm.
+
+The active ingredients are the ones shared with any effective SEL work rather than anything specific to puppets: explicit emotion vocabulary, a worked example of a response, and rehearsal [Feelings Vocabulary](../elements/feelings-vocabulary.md). The puppet supplies the model — the child watches a character handle the situation and can copy it [Building Empathy Improves Intergroup Attitudes](../claims/building-empathy-improves-intergroup-attitudes.md) [+M] — and it supplies safety. Note that the evidence supports the SEL curriculum content; puppets as the delivery vehicle for it are a plausible and widely used medium rather than a separately tested variable [~W].
 
 ### Context
 #### Requirements
-- ...
+- Puppets simple enough that the child attends to the situation rather than the object; elaborate puppets become the activity
+- Scenarios drawn from what actually happens in this group — the sandpit, the queue, the lost glove — so the transfer is short
+- Explicit emotion vocabulary available and taught, not assumed ([Emotion Identification and Labeling](emotion_identification_and_labeling.md))
+- Stopping points built into the script, since the learning is in the discussion rather than the performance
+- An adult willing to let the puppet get it wrong, so the show can model repair and not only correct behaviour
+- Enough repetition for a scenario to become familiar; one performance is a story, a returning character is a routine
 
 #### Constraints
-- ...
+- Enacting a situation too obviously drawn from a specific child's recent experience removes the distance the strategy depends on and exposes them publicly [-M]
+- Shows that perform without pausing produce entertainment; the discussion is where the vocabulary and the response get built [-M]
+- Children may fixate on the puppet as an object, especially when it is new — extraneous processing dressed as engagement [Cognitive Overload Degrades Learning](../claims/cognitive-overload-degrades-learning.md) [-M]
+- Vocabulary and scripts practised only in the puppet context may not transfer to real conflict unless the same words are used when it actually happens [~M]
+- Developmental range is narrow: older children find the format condescending, and the distancing benefit falls away as they gain capacity to discuss their own experience directly [~M]
+- Distress raised through a puppet is still real distress; a child who becomes upset needs a response, not a continuation of the show [-M]
+- Attributing children's improvement to puppets rather than to the emotion curriculum they carry overstates what the evidence supports [~W]
 
 #### Implementation Variability
-- ...
+- **Adult-performed with stopping points** — the teacher enacts, freezes the action, and asks the group what the puppet feels and could do
+- **Child-voiced puppets** — children take the puppets and speak through them, which is where the safe-voice benefit is largest ([Dramatic Play](dramatic_play.md))
+- **Recurring characters** — the same two or three puppets across a term, so children build a relationship and scenarios can reference previous ones
+- **Puppet as class member** — a puppet with a persistent difficulty the class helps with, making the children the advisors rather than the advised
+- **Paired with story** — a read-aloud establishes the situation and the puppets enact it, connecting text and enactment ([Emotion Identification Through Literature](emotion_identification_through_literature.md))
+- **Restaging with a different response** — the same scenario replayed with the alternative the children proposed, so the suggestion is seen through
 
 ### Target Learners
-- ...
+- Early years and lower primary children, roughly three to seven, where the format is developmentally apt
+- Children with limited emotion vocabulary, for whom naming is the immediate bottleneck
+- Children who become dysregulated discussing their own experience, and need the distance to think at all
+- Shy or selectively mute children, for whom speaking through a puppet is often the first route to speaking at all
+- Poor fit for older children, who read the format as patronizing and can discuss situations directly
+- Requires care where a scenario is close to a child's live experience of harm
 
 ### Target Learning Goals
-- ...
+- Emotion vocabulary: words for internal states, and the ability to use them
+- Emotion recognition in others, from face, voice, and situation
+- Perspective-taking: understanding that another person feels differently about the same event [Building Empathy Improves Intergroup Attitudes](../claims/building-empathy-improves-intergroup-attitudes.md) [+M]
+- A repertoire of responses — what you can do when you feel this way
+- Prosocial behaviour and peer relationships [SEL Programs Improve Behavior And Achievement](../claims/sel-programs-improve-behavior-and-achievement.md) [+S]
 
 ### Instructions
-1. [Step with links to elements]
+1. **Pick a scenario from this group's life, generalized.** Use the kinds of situations that arise here, altered enough that no child recognizes their own week.
+2. **Introduce the puppets as characters, not as toys.** Give them names and let children meet them before any difficult scenario, so the novelty is spent.
+3. **Enact up to the feeling, then stop.** Play the situation, freeze at the emotional moment, and ask what the puppet feels ([Eliciting Student Thinking](../elements/eliciting-student-thinking.md)).
+4. **Ask how they can tell.** Push for evidence — face, voice, body, what happened — so recognition is grounded in observation rather than guessing.
+5. **Name it precisely.** Supply the word if the children do not have it, and prefer the specific one: left out rather than sad ([Feelings Vocabulary](../elements/feelings-vocabulary.md)).
+6. **Ask what the puppet could do.** Collect several options, including bad ones, and discuss what would happen after each.
+7. **Replay it with their suggestion.** Act out the proposed response so the children see it through, and let it not work perfectly ([Demonstration](../elements/demonstration.md)).
+8. **Use the same words in real life.** When the situation happens for real, use the vocabulary and the response from the show — this is the step that makes it transfer rather than a story.
 
 ## Related Strategies
-- [Related Strategy](slug.md)
+- [Emotion Identification and Labeling](emotion_identification_and_labeling.md) — the vocabulary foundation the shows deliver
+- [Dramatic Play](dramatic_play.md) — the wider enactment context, with children in role themselves
+- [Acting / Role Play](acting-role-play.md) — the same rehearsal mechanism without the puppet's distancing layer, for older learners
+- [Emotion Identification Through Literature](emotion_identification_through_literature.md) — the same distancing achieved through characters in a text
+- [Emotion-Based Story Discussions](emotion-based_story_discussions.md) — discussion structure for emotions arising in narrative
+- [Literature and Social Stories](literature-social-stories.md) — scripted narratives for rehearsing specific social situations
 
 ## Examples
-- [Concrete example in a real context]
+
+**Recurring puppet with a persistent difficulty:** A class puppet who finds sharing hard returns each week; the children advise it, which puts them in the expert role and lets the same difficulty be revisited without anyone being the one who struggles.
+
+**Freeze-and-ask enactments:** The teacher plays a breaktime exclusion up to the moment of hurt, freezes, and asks the group what the puppet feels and how they can tell — then collects and replays possible responses.
+
+**Child-voiced puppet conflicts:** Two children take puppets and act out a disagreement, speaking as the characters; children who will not discuss a conflict in their own voice will frequently work it through in a puppet's.
+
+**Story-then-enact pairing:** A picture book establishes a situation, and the puppets replay it with the ending left open for the class to supply — connecting the vocabulary in the text to a rehearsed response.
 
 ## Key Sources
-- [APA citation with DOI link]
-```
-
-The exemplar is an element page, so it includes Affordances etc. I should follow the strategy template exactly — same headings, same order. But the instructions say "Match the exemplar exactly in density, structure, and voice" AND "Follow the template structure — same headings, same order." The template for strategies takes precedence for headings. So I'll use the strategy template headings but match exemplar density: evidence tags inline in Description, Design Implications, Requirements, Constraints, Target Learners.
-
-Note the stub frontmatter has quotes around "claude/unspecified" — the exemplar doesn't. The template shows quotes. I'll use the stub's format as given: by: "claude/unspecified", at: 2026-08-29.
-
-Now content. Let me think about puppet shows to explore emotions as a strategy in early childhood / social-emotional learning (SEL).
-
-Key literature:
-1. Bandura's social learning theory — observational learning, modeling emotional responses. Bandura, A. (1977). Social Learning Theory. Prentice Hall. Also Bandura's bobo doll studies: Bandura, Ross, & Ross (1961). DOI for the 1961 paper: 10.1037/h0045925. "Transmission of aggression through imitation of aggressive models." Journal of Abnormal and Social Psychology, 63(3), 575–582.
-
-2. Puppets in assessment/research with children: Bers, M. U. (2009)? Actually for emotion comprehension — the Test of Emotion Comprehension (TEC) by Pons & Harris uses puppets. Pons, F., & Harris, P. L. (2000). Test of Emotion Comprehension (TEC). Oxford: Oxford University Press. Not peer-reviewed journal per se.
-
-3. Pretend play and theory of mind / emotional understanding: Harris, P. L. (1989). Children and Emotion. Also: Seja, A. L., & Russ, S. W. (1999). "Children's fantasy play and emotional understanding." Journal of Clinical Child Psychology, 28(2), 211-221. DOI: 10.1207/s15374424jccp2802_7. That study found fantasy play in puppet play related to emotional understanding. Actually Seja & Russ (1999) used puppet play narratives to assess emotional understanding — children's fantasy play with puppets correlated with emotional understanding. DOI: 10.1207/S15374424JCCP2802_7. I believe this exists.
-
-4. Second Step (Committee for Children) — SEL curriculum using puppets for early grades. URL: https://www.secondstep.org. Second Step uses puppet characters (Puppy, Snail puppet in Kindergarten; Impulsive Puppy). Real: Second Step Early Learning uses puppets.
-
-5. PATHS (Promoting Alternative Thinking Strategies) — uses puppets (Kusal the bunny? Actually PATHS uses a puppet named "Kusaj"?). PATHS curriculum (Greenberg, Kusche) uses a rabbit puppet for Feelings Identification in Turtle technique? PATHS uses puppets in the preschool version — "HEADS UP" reading? Let me recall: PATHS preschool uses puppets and cards; the Feelings Facilitator (a puppet named "Kusal" the bunny in the early childhood version). PATHS: https://www.pathseducation.com. The Channing Bete version. Kusche & Greenberg (1994). The PATHS Curriculum. Seattle: Developmental Research and Programs. Evidence: Domitrovich, Cortes, & Greenberg (2007) — "Improving young children's social and emotional competence: A randomized trial of the preschool 'PATHS' curriculum." Journal of Primary Prevention, 28(2), 67-91. DOI: 10.1007/s10935-007-0081-0. That's a real RCT.
-
-6. Zippy's Friends (Partnership for Children) — uses story characters, not puppets exactly.
-
-7. Emotion knowledge in children predicts social adjustment: Denham, S. A. (1998). Emotional development in young children. Guilford Press. Denham et al. meta-analysis: Denham, S. A., Bassett, H. H., & Wyatt, T. (2007)? Also: "Preschoolers' emotional competence: Pathway into social competence?" Denham et al. 2003, Head Start. 
-
-8. Thought bubbles / drawing. Not needed.
-
-9. Symbolic distance / psychological distance in pretend play — "safe psychological distance": pretend play allows children to express emotions without personal exposure. The idea from psychodynamic play therapy — Russ, S. W. (2004). Play in child development and psychotherapy. Lawrence Erlbaum. DOI: 10.4324/9781410610177? I'm not sure of the DOI. Might omit DOI.
-
-10. Emotion regulation: Eisenberg, spinrad... The zone of proximal comfort.
-
-11. Meta-analysis on pretend play and development: Lillard, A. S., Lerner, M. D., Hopkins, E. J., Dore, R. A., Smith, E. D., & Palmquist, C. M. (2013). "The impact of pretend play on children's development: A review of the evidence." Psychological Bulletin, 139(1), 1–34. DOI: 10.1037/a0029321. This is important — it's a critical review concluding the causal evidence for pretend play is weaker than commonly believed. That's a great source for Constraints: evidence that pretend play interventions causally improve emotional/social outcomes is weaker than assumed [-W]/[~W]. This gives a Constraints tag direction. Lillard et al. found little evidence of causal effects (many studies lacked controls). This is a genuinely useful constraint: "Puppet shows as pretend play rest on correlational evidence; controlled studies find weaker causal effects than commonly assumed [Lillard et al. 2013] [-W]." Direction: the tag describes direction of effect on the page's topic. A constraint like "assumed benefits may not materialize" → [-W] or [~W].
-
-12. Emotion understanding and peer acceptance: Mostow, Izard, Fine, & Trentacosta (2002) — "Modeling emotional, cognitive, and behavioral predictors of peer acceptance." Child Development, 73(6), 1775-1787. DOI: 10.1111/1467-8624.00505.
-
-13. Izard's emotion knowledge: Izard, C., Fine, S., Schultz, D., Mostow, A., Ackerman, B., & Youngstrom, E. (2001). "Emotion knowledge as a predictor of social behavior and academic competence in children at risk." Psychological Science, 12(1), 18-23. DOI: 10.1111/1467-9280.00303.
-
-14. Second Step effectiveness: Cooke, Ford, Levine, Bourke, Newell, & Lapidus (2007)? Or Low, Cook, Smokowski, & Carroll (2015) RCT of Second Step for early elementary: "Promoting social-emotional competence: An RCT of Second Step." Prevention Science, 16, 1109-1121. DOI: 10.1007/s11121-015-0600-7? I'm not 100% sure. I'll cite Domitrovich for PATHS instead, which I'm more confident about.
-
-15. Observational learning of emotion regulation via puppet modeling: Webster-Stratton's Incredible Years Dinosaur School uses puppet models (Wally Problem-Solving puppets). Incredible Years uses puppets extensively — dinosaur puppets (Wally, Molly). Webster-Stratton, C., Reid, M. J., & Hammond, M. (2001)? "Preventing conduct problems, promoting social competence: A parent and teacher training partnership in Head Start." Journal of Clinical Child Psychology, 30(3), 283-302. DOI: 10.1207/S15374424JCCP3003_2. I think that's right.
-
-Also Durlak et al. (2011) meta-analysis of SEL programs: "The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions." Child Development, 82(1), 405-432. DOI: 10.1111/j.1467-8624.2010.01564. — supports SEL programs generally. Puppet shows are a delivery method within SEL. Could tag [+
+- Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development, 82*(1), 405–432. [doi:10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x)
+- Denham, S. A. (1986). Social cognition, prosocial behavior, and emotion in preschoolers: Contextual validation. *Child Development, 57*(1), 194–201. [doi:10.2307/1130651](https://doi.org/10.2307/1130651)
+- Taylor, R. D., Oberle, E., Durlak, J. A., & Weissberg, R. P. (2017). Promoting positive youth development through school-based social and emotional learning interventions: A meta-analysis of follow-up effects. *Child Development, 88*(4), 1156–1171. [doi:10.1111/cdev.12864](https://doi.org/10.1111/cdev.12864)

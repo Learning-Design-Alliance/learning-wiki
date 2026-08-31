@@ -17,7 +17,7 @@ A word wall for emotions is a persistent classroom display of feelings words —
 
 ## Design Implications
 
-Emotion labeling is itself a regulatory act: putting feelings into words reduces amygdala reactivity and improves behavioral control [Putting feelings into words: affect labeling disrupts amygdala activity in response to emotional stimuli.](../claims/claim-slug.md) [+M]. A visible wall lowers the working-memory and retrieval demands of this process — students do not need to generate vocabulary from scratch at the moment of dysregulation, when cognitive resources are most depleted [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. The wall works best as a *used* tool embedded in routines, not as static decoration; decorative displays that are never referenced do not improve learning [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+M].
+Emotion labeling is itself a regulatory act: putting feelings into words reduces amygdala reactivity and improves behavioral control — the affect-labeling effect. A visible wall lowers the working-memory and retrieval demands of this process — students do not need to generate vocabulary from scratch at the moment of dysregulation, when cognitive resources are most depleted [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. The wall works best as a *used* tool embedded in routines, not as static decoration; decorative displays that are never referenced do not improve learning [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+M].
 
 ### Context
 #### Requirements

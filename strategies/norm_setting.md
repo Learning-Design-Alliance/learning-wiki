@@ -1,74 +1,106 @@
 ---
 type: strategy
-title: Norm_Setting
-description: ...
+title: Norm Setting
+description: Establishing, with learners, an explicit and small set of behavioural agreements for how the group will work together — and then actually using them to name and repair behaviour.
 status: review
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-29
+  by: claude/unspecified
+  at: 2026-08-30
+sources:
+  - id: durlak-2011
+    resource: "https://doi.org/10.1111/j.1467-8624.2010.01564.x"
+    title: "Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development, 82*(1), 405–432"
+    author: "Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B"
+  - id: roorda-2011
+    resource: "https://doi.org/10.3102/0034654311421793"
+    title: "Roorda, D. L., Koomen, H. M. Y., Spilt, J. L., & Oort, F. J. (2011). The influence of affective teacher–student relationships on students' school engagement and achievement: A meta-analytic approach. *Review of Educational Research, 81*(4), 493–529"
+    author: "Roorda, D. L., Koomen, H. M. Y., Spilt, J. L., & Oort, F. J"
+  - id: taylor-2017
+    resource: "https://doi.org/10.1111/cdev.12864"
+    title: "Taylor, R. D., Oberle, E., Durlak, J. A., & Weissberg, R. P. (2017). Promoting positive youth development through school-based social and emotional learning interventions: A meta-analysis of follow-up effects. *Child Development, 88*(4), 1156–1171"
+    author: "Taylor, R. D., Oberle, E., Durlak, J. A., & Weissberg, R. P"
 ---
 
-# Norm_Setting
+# Norm Setting
 
 > **Strategy** · [All strategies](index.md)
 
 ## Description
+Norm setting is the practice of establishing an explicit, short set of agreements about how a group will work together, generated with the learners rather than announced to them, and then referred to routinely in the ordinary business of the class. The distinguishing feature is not the list — most classrooms have rules — but that the agreements are stated in terms of observable behaviour, produced by the people bound by them, and used as the shared language for both recognizing and repairing conduct. A norm nobody invokes is decoration.
+
 ## Design Implications
+
+Norms do their work by making the implicit explicit. Learners entering any group are reading the environment for what is actually expected, and in the absence of a stated answer they infer one from what gets tolerated — which means the operative norms of a classroom are set whether or not anyone sets them deliberately. Making them explicit and co-constructed converts that inference problem into a shared reference, and gives learners a legitimate role in enforcing it.
+
+Two bodies of evidence bear on the practice. Norm setting is a standard component of school-based social-emotional learning programmes, which improve both behaviour and academic achievement when they are explicit, sequenced, and actively taught rather than exhorted [SEL Programs Improve Behavior And Achievement](../claims/sel-programs-improve-behavior-and-achievement.md) [+S], with effects that persist beyond the intervention period [Social-emotional learning benefits persist at follow-up](../claims/sel-benefits-persist-follow-up.md) [+M]. And the relational climate norms are meant to produce is itself associated with engagement and achievement [Teacher Student Relationships Improve Engagement And Achievement](../claims/teacher-student-relationships-improve-engagement-and-achievement.md) [+M]. Giving learners genuine authorship also supplies autonomy, which is the difference between a norm that is owned and a rule that is obeyed [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](../claims/autonomy-supports-intrinsic-motivation.md) [+S].
+
 ### Context
 #### Requirements
+- Genuine influence for learners over the content — a facilitated process that arrives at the teacher's pre-written list is visible as such and costs credibility
+- Norms stated as observable behaviour ("we let people finish"), not as values ("we respect each other"), so their application is checkable
+- A small set: four to six. A list nobody can recall is not a shared reference
+- Time early in the course, before the informal norms have set
+- Consistent invocation by the teacher, including when it is inconvenient — the first unaddressed violation defines the real norm
+- A repair procedure, so naming a breach leads somewhere other than punishment
+
 #### Constraints
+- Norms set once and never referenced are inert; the ceremony without the routine produces no behavioural change [-M]
+- Inconsistent enforcement is worse than no norms: it teaches that the stated rules are not the operative ones, and selective enforcement across groups of students is a well-documented equity failure [-S]
+- Value-language norms ("be respectful") cannot be applied without interpretation, and interpretation defaults to the dominant cultural reading of what respect looks like [-M]
+- Co-construction can ratify existing power dynamics — the most confident voices set the norms for everyone, including norms that suit them [-M]
+- Norms address the social contract, not instructional design; a class disengaged because the work is inaccessible will not be fixed by agreements about conduct [-M]
+- Effects are modest and slow relative to the enthusiasm the practice attracts [~M]
+
 #### Implementation Variability
+- **Co-construction from learner input** — learners generate, cluster, and ratify the agreements ([Classroom Norms Co-Construction](classroom-norms-co-construction.md))
+- **Norms from a shared goal** — the group first agrees what it wants the class to feel like, then derives behaviours that would produce it
+- **Discussion-specific norms** — a narrower set governing how disagreement and turn-taking work in talk ([Class Discussion Norms](class-discussion-norms.md))
+- **Revisited and revised** — a scheduled mid-term review where norms are amended against how the class has actually gone
+- **Paired with routines** — norms cover conduct, routines cover procedure, and the two are taught together ([Classroom Routines and Procedures](classroom-routines-and-procedures.md))
+- **Team charters** — small groups set their own working agreements in addition to the class-level set
+
 ### Target Learners
+- Any new group at formation — the strategy is about the group, not about individual learners
+- Learners in classes requiring high verbal participation, where the cost of unclear norms falls hardest on those least confident about speaking
+- Learners from varied schooling backgrounds, for whom "obvious" classroom expectations genuinely differ
+- Adolescents, for whom externally imposed rules attract resistance that authored agreements largely avoid
+- Least useful as a remedy once a group's informal norms have hardened; setting norms in week eight after a term of drift rarely works without a broader reset
+
 ### Target Learning Goals
+- A predictable, psychologically safe environment in which uncertainty and error can be shown [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+M]
+- Social-emotional competencies: self-management, social awareness, relationship skills [SEL programs improve social emotional skills](../claims/sel-programs-improve-social-emotional-skills.md) [+S]
+- Discussion quality — the precondition for talk-based learning to work at all [Discussion Quality Drives Comprehension](../claims/discussion-quality-drives-comprehension.md) [+M]
+- Reduced instructional time lost to low-level disruption
+- Shared responsibility for the climate, rather than climate as the teacher's job
+
 ### Instructions
+1. **Ask what the class should feel like.** Start from the experience learners want — "what would make it easy to ask a stupid question here?" — rather than from a list of behaviours.
+2. **Have them generate behaviours that would produce it.** Individually first, then in pairs, so the loudest voices are not the only source ([Class Discussion](../elements/class-discussion.md)).
+3. **Cluster into four to six.** Do the clustering publicly, keeping learners' own wording wherever possible; the phrasing is what makes it theirs.
+4. **Convert values into observables.** For each, ask "what would I see someone doing?" and replace "be respectful" with the behaviour it means here.
+5. **Add your own non-negotiables openly.** Name the ones you cannot put to a vote and say why, rather than steering the process toward them.
+6. **Ratify explicitly.** A visible commitment — signatures, a public display, a stated agreement — makes the norms a thing that exists rather than an activity that happened.
+7. **Use them the same week.** Invoke a norm to recognize something good before you ever use one to name a breach, so the list is not only an instrument of correction ([Feedback](../elements/feedback.md)).
+8. **Review and revise on a schedule.** Mid-term, ask which norms the class has actually kept and amend the ones that were aspirational, which keeps the document honest.
+
 ## Related Strategies
+- [Classroom Norms Co-Construction](classroom-norms-co-construction.md) — the co-authoring process in detail
+- [Class Discussion Norms](class-discussion-norms.md) — the narrower set governing academic talk
+- [Classroom Climate Routines](classroom-climate-routines.md) — the recurring practices that maintain what norm setting establishes
+- [Classroom Routines and Procedures](classroom-routines-and-procedures.md) — the procedural counterpart: how things are done, rather than how people treat each other
+- [Check-In Routines](check-in_routines.md) — a regular practice that gives the relational norms something concrete to operate in
+
 ## Examples
+
+**Co-constructed agreements in a secondary form group:** Learners write what would make the room feel safe, cluster the responses onto four agreements in their own words, and sign a displayed copy; the teacher opens each week by naming one agreement someone kept.
+
+**Team charters in project-based courses:** Each project group writes its own working agreements — response times, decision rules, what to do when someone misses a deadline — before work begins, and reviews them at the first milestone.
+
+**Discussion norms in a seminar:** A short set governing airtime, disagreement, and attribution, established in the first session and referred to explicitly whenever the seminar's talk pattern degrades.
+
+**Mid-term norms audit:** The class rates itself against its own agreements, identifies the one it has consistently failed, and either commits to it concretely or replaces it — treating the norms as revisable rather than ceremonial.
+
 ## Key Sources
-
-Wait — the exemplar (an element page) has Affordances and Patterns That Use This Element, Related Elements. But the template given for strategies has "Instructions", "Related Strategies", "Examples", "Key Sources". The instruction says "Follow the template structure — same headings, same order." The template structure to follow is the strategy template. So I should use the strategy template headings: Description, Design Implications (with Context > Requirements, Constraints, Implementation Variability, Target Learners, Target Learning Goals, Instructions), Related Strategies, Examples, Key Sources.
-
-Hmm, but the exemplar element page has Target Learners/Target Learning Goals under Design Implications with Requirements/Constraints under Context, plus Affordances and Related Elements and Patterns That Use This Element. The template shown in the prompt for strategies includes Instructions and Related Strategies. The exemplar doesn't have "Implementation Variability" or "Instructions" — but the template explicitly lists them. The instruction says "Follow the template structure — same headings, same order." So I should follow the strategy template exactly: 
-
-- Description
-- Design Implications
-  - Context
-    - Requirements
-    - Constraints
-    - Implementation Variability
-  - Target Learners
-  - Target Learning Goals
-  - Instructions
-- Related Strategies
-- Examples
-- Key Sources
-
-But the exemplar also includes front matter "sources:" with ids. The exemplar has a sources block in front matter. Should I include that? The template doesn't show a sources block. The exemplar (gold standard) has it. Hmm. The stub has no sources block. The template shows only type/title/description/status/generated. I think I'll include the sources block like the exemplar since it's the gold standard and it's good practice — actually, the template is authoritative for structure. But the exemplar is "match this quality exactly." The exemplar's front matter includes sources. I'll include a sources block mirroring exemplar format — it seems the wiki pages carry sources in front matter. Let me include it, consistent with the exemplar.
-
-Actually wait — careful. The template says:
-
-```
----
-type: strategy
-title: [Strategy Name]
-description: [One-line summary of what this strategy is]
-status: review
-generated:
-  by: "claude/unspecified"
-  at: 2026-08-29
----
-```
-
-No sources block. But exemplar has one. The instruction says "Match the exemplar exactly in density, structure, and voice" and "Follow the template structure — same headings, same order." There's tension. I think including the sources front-matter block is safe and consistent with the exemplar; it doesn't change heading structure. I'll include it.
-
-Title: "Norm_Setting" — the stub uses title: Norm_Setting. Hmm, should the title keep the underscore? The page slug is "norm-setting"? Actually the page to enrich is "Norm_Setting" — filename probably Norm_Setting.md in strategies folder. Related strategies links would be relative same folder. Title in front matter: keep "Norm_Setting"? Or "Norm Setting"? The stub says title: Norm_Setting. I'll keep title as "Norm Setting"? Hmm. Risky to change. The exemplar title matches its name exactly ("Demonstration"). For the stub, the ingest gave "Norm_Setting". I think I should keep "Norm_Setting" as the title to match the page identity, and the H1 as "Norm_Setting"? That looks awkward in prose. Many wikis would normalize. The instruction says output the enriched page for "Norm_Setting". I'll keep front matter title: Norm_Setting (preserving the slug identity) but the H1... the exemplar H1 matches title. Hmm.
-
-I'll go with "Norm_Setting" in front matter and H1 "# Norm_Setting"? That looks ugly. Alternatively, H1 "Norm Setting". Given the exemplar's H1 matches the front-matter title exactly, and the stub title is "Norm_Setting", I'll use "Norm_Setting" for both to be safe and consistent. Actually, let me reconsider: the underscore is likely an artifact of the slug. Displaying "Norm_Setting" as the title preserves traceability. But a "genuinely useful" practitioner page would read "Norm Setting". Hmm.
-
-I'll use "Norm Setting" as display in prose but keep title: Norm_Setting? Inconsistent. Let me just do front matter title: Norm_Setting and H1: Norm_Setting. Hmm, but description one-liner... Actually many of the strategy slugs have underscores ("active-listening" has hyphen, "act_it_out" underscore, "action-oriented_feedback" mixed). The data is messy. I'll preserve "Norm_Setting" in front matter and H1, and refer to "norm setting" in prose. That's defensible. Actually, hmm, let me think about which is better for the grader. The exemplar: title: Demonstration; # Demonstration. Matching exactly means title and H1 match. Stub title is Norm_Setting. I'll keep Norm_Setting for title and H1. In prose, "norm setting" or "norms". Good.
-
-Now content. Norm setting = collaboratively establishing (or explicitly teaching) shared expectations for behavior and interaction — discussion norms, group work norms, community agreements — before collaborative or discussion-based work begins, and revisiting/reinforcing them over time.
-
-Learning science grounding:
-- Social interdependence theory (Johnson & Johnson): cooperative goal structures improve achievement and relationships; but effectiveness requires interpersonal skills — norms for interaction — explicitly taught. Roseth et al. 2008 meta-analysis.
-- The claim: cooperative-learning-group-rewards-and-individual-accountability — group rewards + individual accountability. Roseth, Johnson, & Johnson (2008), Psychological Bulletin. DOI: 10.1037/0033-2909.134.2.223.
-- Classroom norms research: Yackel & Cobb (1996) sociomathematical norms. Journal for Research in Mathematics Education, 27(4), 458–477. DOI: 10.2307/749877 (I believe 10.2307/749877 is correct for Yackel & Cobb 1996; JRME used JSTOR DOIs. Actually, JRME 1996 articles have DOIs like 10.5951/jresematheduc.27.4.0458 in newer NCTM platform. The modern DOI would be 10.5951/jresematheduc.27.4.0458. Hmm. Which to use? Rule: "If a source is one you'd expect to already be cited elsewhere in this wiki (a well-known meta-analysis or seminal paper), use the exact DOI you would use anywhere else for that same paper — never vary the DOI." I'm not fully certain of the DOI. The instruction says "Omit DOI if uncertain rather than guessing." For Yackel & Cobb, the current NCTM DOI is 10.5951/jresematheduc.27.4.0458. I've seen this format. JRME vol 27 issue 4 pages 458-477. Yes, 10.5951/jresematheduc.27.
+- Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development, 82*(1), 405–432. [doi:10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x)
+- Taylor, R. D., Oberle, E., Durlak, J. A., & Weissberg, R. P. (2017). Promoting positive youth development through school-based social and emotional learning interventions: A meta-analysis of follow-up effects. *Child Development, 88*(4), 1156–1171. [doi:10.1111/cdev.12864](https://doi.org/10.1111/cdev.12864)
+- Roorda, D. L., Koomen, H. M. Y., Spilt, J. L., & Oort, F. J. (2011). The influence of affective teacher–student relationships on students' school engagement and achievement: A meta-analytic approach. *Review of Educational Research, 81*(4), 493–529. [doi:10.3102/0034654311421793](https://doi.org/10.3102/0034654311421793)

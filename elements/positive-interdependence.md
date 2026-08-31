@@ -34,7 +34,7 @@ Positive interdependence is the mechanism through which cooperative structures o
 
 ### Target Learners
 - Learners across ages, with the strongest documented effects in elementary through undergraduate settings [Cooperative learning with group rewards and individual accountability improves achievement.](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+S]
-- Lower-achieving students, who benefit from peer explanation; higher-achieving students also gain through the [Protégé Effect](../claims/protégé-effect-teaching-others-improves-learning.md) of explaining [+M]
+- Lower-achieving students, who benefit from peer explanation; higher-achieving students also gain through the tutor benefit of explaining [Learning By Teaching Improves Tutor Learning](../claims/learning-by-teaching-improves-tutor-learning.md) [+M]
 - Less suited to learners who need private processing time or who experience social anxiety in evaluative group settings [~W]
 
 ### Target Learning Goals

@@ -2,7 +2,7 @@
 
 Explanatory frameworks that ground principles and claims.
 
-**12 entries** · 0 stable · 11 in review · 1 drafts
+**12 entries** · 0 stable · 12 in review · 0 drafts
 
 ---
 
@@ -19,7 +19,4 @@ Explanatory frameworks that ground principles and claims.
 * [Self-Regulated Learning](self-regulated-learning.md) - Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance.
 * [Situated Learning](situated-learning.md) - Situated learning holds that knowledge is inseparable from the social, material, and cultural contexts in which it is used.
 * [Social Learning Theory](social-learning-theory.md) - Social Learning Theory, developed primarily by Albert Bandura, proposes that learning occurs not only through direct reinforcement (as behaviorism holds) but also through observation of others and the cognitive processing of those…
-
-## Draft
-
-* [The von Restorff effect in text marking](von-restorff-effect-text-marking.md) - The von Restorff effect is used to explain how underlining functions by isolating information against a background.
+* [The von Restorff effect in text marking](von-restorff-effect-text-marking.md) - The von Restorff effect is used to explain how underlining and other text marking function by isolating information against a homogeneous background, directing attention and supporting recall of the marked material.
