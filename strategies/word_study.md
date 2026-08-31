@@ -75,5 +75,5 @@ Word study aligns with research showing that instruction connecting spelling to 
 - Bear, D. R., Invernizzi, M., Templeton, S., & Johnston, F. (2020). *Words their way: Word study for phonics, vocabulary, and spelling instruction* (7th ed.). Pearson.
 - Ehri, L. C. (2005). Learning to read words: Theory, findings, and issues. *Scientific Studies of Reading, 9*(2), 167–188. [doi:10.1207/s1532799xssr0902_4](https://doi.org/10.1207/s1532799xssr0902_4)
 - Zutell, J. (1996). The directed spelling thinking activity (DSTA): Providing an effective balance in word study instruction. *Reading & Writing Quarterly, 12*(1), 33–46. [doi:10.1080/1057356960120104](https://doi.org/10.1080/1057356960120104)
-- Graham, S., & Santangelo, T. (2014). Does spelling instruction make students better spellers or readers? A meta-analytic review. *Reading and Writing, 27*(9), 1703–1743.
+- Graham, S., & Santangelo, T. (2014). Does spelling instruction make students better spellers, readers, and writers? A meta-analytic review *Reading and Writing, 27*(9), 1703–1743. [doi:10.1007/s11145-014-9517-0](https://doi.org/10.1007/s11145-014-9517-0)
 - Templeton, S., & Morris, D. (2000). Spelling. In M. L. Kamil et al. (Eds.), *Handbook of reading research* (Vol. 3, pp. 525–543). Erlbaum.

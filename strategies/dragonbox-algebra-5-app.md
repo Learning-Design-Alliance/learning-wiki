@@ -63,7 +63,7 @@ The app exemplifies *implicit scaffolding through representational sequencing*: 
 - **DragonBox Big Numbers** — the same developer applies the implicit-manipulation approach to place value and long addition/subtraction.
 
 ## Key Sources
-- Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital games as a context for cognitive ability, learning, and assessment: A meta-analysis. *Review of Educational Research, 86*(1), 79–122.
+- Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital Games, Design, and Learning *Review of Educational Research, 86*(1), 79–122. [doi:10.3102/0034654315582065](https://doi.org/10.3102/0034654315582065)
 - Wouters, P., van Nimwegen, C., van Oostendorp, H., & van der Spek, E. D. (2013). A meta-analysis of the cognitive and motivational effects of serious games. *Journal of Educational Psychology, 105*(2), 249–265. [doi:10.1037/a0031311](https://doi.org/10.1037/a0031311)
 - Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during instruction does not work. *Educational Psychologist, 41*(2), 75–86. [doi:10.1207/s15326985ep4102_1](https://doi.org/10.1207/s15326985ep4102_1)
 - Mayer, R. E. (2019). *Computer games for learning: An evidence-based approach*. MIT Press.

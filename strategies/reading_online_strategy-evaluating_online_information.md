@@ -66,6 +66,6 @@ Explicit instruction in online evaluation produces large gains in students' abil
 
 ## Key Sources
 - Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(11), 1–40.
-- Breakstone, J., Smith, M., Orland-Barak, L., Connolly, P., Haas, C., Hill, H., & Wineburg, S. (2021). Teachers' findings from a national study of civic online reasoning instruction. *Educational Researcher, 50*(8), 505–515.
+- Breakstone, J., Smith, M., Orland-Barak, L., Connolly, P., Haas, C., Hill, H., & Wineburg, S. (2021). Students’ Civic Online Reasoning: A National Portrait *Educational Researcher, 50*(8), 505–515. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
 - McGrew, S., Ortega, T., Breakstone, J., & Wineburg, S. (2017). The challenge that's bigger than fake news: Civic reasoning in a social media environment. *American Educator, 41*(3), 4–9.
 - Britt, M. A., & Rouet, J.-F. (2012). Learning with multiple documents: Component skills and their acquisition. In M. J. Lawson & J. R. Kirby (Eds.), *Enhancing the quality of learning* (pp. 276–314). Cambridge University Press. [doi:10.1017/CBO9781139048224.017](https://doi.org/10.1017/CBO9781139048224.017)
