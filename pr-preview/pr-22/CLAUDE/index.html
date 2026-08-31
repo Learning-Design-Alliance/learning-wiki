@@ -1336,11 +1336,15 @@ not push to them, do not reopen a PR from them:</p>
 </table>
 <h3 id="known-open-work">Known open work<a class="headerlink" href="#known-open-work" title="Permanent link">&para;</a></h3>
 <ul>
-<li><strong>Dead anchors are invisible to lint.</strong> <code>check_broken_links</code> splits a destination at <code>#</code>
-  and only tests the file. <code>mkdocs build --strict</code> reports a missing anchor as INFO, so it
-  does not fail either — the same blind spot that let 118 dead paren-links through. 8 claim
-  pages currently carry <code>[→ Author Year](#author-year)</code> subclaim links with no matching
-  <code>### Author Year</code> heading.</li>
+<li><strong><code>check_citations.py</code> only detects one direction of citation conflict.</strong> It groups by
+  first author + year and flags <em>one paper with two DOIs</em>. It cannot see <em>one DOI on two
+  different papers</em>, which is the more dangerous direction and exactly the Bandura failure
+  (<code>10.1007/978-1-4684-7562-3_3</code> on 69 pages). Live example:
+  <code>10.1111/j.1467-7687.2008.00714.x</code> is attached to Siegler &amp; Ramani (2008) in
+  <em>Developmental Science</em> on <code>strategies/math_games.md</code> and to a different Siegler &amp; Ramani
+  (2008) in <em>Child Development</em> on <code>strategies/numbers_to_100.md</code>. Needs Crossref to
+  resolve, so <code>strategies/estimation-warm-ups.md</code> cites that source without a DOI rather
+  than picking a side.</li>
 <li><strong>The 13 refilled strategy pages assert DOIs written before the Crossref gate existed.</strong>
   <code>#19</code> states it corroborated DOIs against existing repo usage rather than against Crossref,
   because that worktree had no network. Re-run <code>scripts/check_citations.py</code> over
