@@ -403,6 +403,65 @@ def ingest_record(record: dict, actor: str, dry_run: bool) -> list:
     return written
 
 
+def gate_citations(pages: list) -> dict:
+    """Run the citation gate over the pages a source just wrote.
+
+    Gate 3. Gates 1 and 2 — structural validation and the enrichment-time
+    Crossref check — already existed, but nothing connected either to the
+    manifest, so `sources/manifest.ndjson` recorded "ingested" for a source
+    whose pages carried a DOI resolving to the wrong paper. Structural
+    validity is the weakest of the three checks and the one least likely to
+    catch what actually goes wrong.
+
+    Returns {"checked", "crossref_reachable", "removed", "flagged"}.
+
+    The two failure kinds are kept apart on purpose. A Crossref lookup that
+    could not complete is an outage, not a finding — recording it as a citation
+    issue would fill the manifest with noise during any network blip and, worse,
+    make a clean ingest during an outage indistinguishable from a dirty one.
+    So outage lines set crossref_reachable: false, and only genuine findings —
+    a DOI on two papers, invented journal metadata, an invented title — become
+    `flagged`. This is the same distinction that keeps classify_doi from
+    treating "error" as "wrong paper"."""
+    import io, contextlib
+    try:
+        import enrich
+    except Exception as e:                       # pragma: no cover - import guard
+        return {"checked": False, "error": f"gate unavailable: {e}"}
+
+    # Lines the gate prints that mean "could not check", not "found a problem".
+    OUTAGE = ("resolve failed", "citation unchecked", "check skipped", "skipped:")
+    FINDING = ("[citation metadata]", "[citation title]", "[DOI collision]")
+
+    removed, flagged, ran, reachable = [], [], False, True
+    for rel in pages:
+        path = WIKI_ROOT / rel
+        if not path.exists():
+            continue
+        buf = io.StringIO()
+        try:
+            # verify_page_citations reports collisions, fabricated journal
+            # metadata and invented titles on stderr, and returns the DOIs it
+            # actually stripped. Both matter: a strip is a defect it fixed, a
+            # report is one it found and left for a human.
+            with contextlib.redirect_stderr(buf):
+                dropped = enrich.verify_page_citations(path, apply=True)
+            ran = True
+        except Exception as e:
+            flagged.append(f"{rel}: gate error: {e}")
+            continue
+        for d in dropped:
+            removed.append(f"{rel}: {d['doi']} ({d.get('status')})")
+        for line in buf.getvalue().splitlines():
+            s = line.strip()
+            if any(o in s for o in OUTAGE):
+                reachable = False
+            elif s.startswith(FINDING):
+                flagged.append(s)
+    return {"checked": ran, "crossref_reachable": reachable,
+            "removed": removed, "flagged": flagged}
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--run-id", required=True, help="eval/runs/<run-id> to ingest from")
@@ -472,11 +531,23 @@ def main() -> None:
         written = ingest_record(record, args.by, args.dry_run)
         all_written.extend(written)
         if written and not args.dry_run:
+            page_paths = [f"{folder}/{slug}.md" for folder, slug, *_ in written]
+            citations = gate_citations(page_paths)
+            if citations["removed"]:
+                print(f"  [citations] stripped {len(citations['removed'])} unverifiable "
+                      f"DOI(s) from this source's pages", file=sys.stderr)
+            if citations["flagged"]:
+                print(f"  [citations] {len(citations['flagged'])} citation issue(s) "
+                      f"recorded in the manifest for review", file=sys.stderr)
+            if not citations["checked"]:
+                print(f"  [citations] gate could not run — manifest records this ingest "
+                      f"as unverified", file=sys.stderr)
             ok.append_manifest_entry(
                 source_id=article_id,
                 title=record.get("article_title", ""),
                 status="ingested",
-                pages=[f"{folder}/{slug}.md" for folder, slug, *_ in written],
+                pages=page_paths,
+                citations=citations,
             )
         article_registry_entries[article_id] = {
             "outcome": "ingested" if written else "no_new_pages",
