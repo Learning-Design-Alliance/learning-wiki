@@ -34,6 +34,42 @@ from resolve_citation_metadata import strip_doi_from_line
 WIKI_ROOT = Path(__file__).parent.parent
 
 
+def _is_target(line: str, finding: dict) -> bool:
+    """Whether this file line is the citation the finding is about.
+
+    Matching on the DOI alone is not enough, and getting that wrong is how
+    this script first stripped a *correct* DOI:
+    strategies/positive_behavior_interventions_and_supports.md cites both
+    Horner (2005) and Sugai & Horner (2009) with the same
+    10.1007/978-0-387-09632-2_13, one wrongly and one rightly. A file-wide
+    replace on the DOI removed both. The finding is about one citation, so the
+    edit has to be too — anchor on the citation text as well.
+
+    check_citations truncates its stored line at 160 characters, so this
+    compares a prefix; that is still specific enough to separate two citations
+    that differ in their first words, which is every real case."""
+    stem = finding["line"][:120]
+    return bool(stem) and line.strip().startswith(stem) \
+        and finding["doi"].lower() in line.lower()
+
+
+def out_of_scope(auth: dict, by_key: dict) -> list[dict]:
+    """Citations sharing an authority's key but citing a different work.
+
+    Reported, never acted on. An author-year key is not unique — see
+    authorities.covers() — and the fact that one exists is worth saying out
+    loud, because APA's own answer (a 2009a / 2009b year suffix) is a page
+    edit only a person should make."""
+    out = []
+    for key, entry in auth.items():
+        if not entry.get("title"):
+            continue
+        for c in by_key.get(key, []):
+            if not au.covers(entry, c):
+                out.append({"key": key, "source": c["source"], "doi": c["doi"]})
+    return out
+
+
 def findings(auth: dict, by_key: dict) -> list[dict]:
     """One record per citation that disagrees with its key's authority."""
     out = []
@@ -41,7 +77,7 @@ def findings(auth: dict, by_key: dict) -> list[dict]:
         for c in by_key.get(key, []):
             for why in au.contradictions(entry, c):
                 out.append({"key": key, "source": c["source"], "doi": c["doi"],
-                            "why": why,
+                            "why": why, "line": c["line"],
                             # Only the no-DOI verdict is auto-repairable; see
                             # the module docstring.
                             "fixable": bool(c["doi"]) and "doi" in entry
@@ -64,10 +100,18 @@ def main() -> None:
         return
     by_key = cc.load_all_citations()
     results = findings(auth, by_key)
-    covered = sum(len(by_key.get(k, [])) for k in auth)
+    other = out_of_scope(auth, by_key)
+    covered = sum(len(by_key.get(k, [])) for k in auth) - len(other)
     print(f"{len(auth)} authorit(y/ies) recorded, covering {covered} citation(s).")
+    if other:
+        print(f"\n{len(other)} citation(s) share an authority's author-year key but cite a "
+              f"different work, so no authority applies to them. An author-year key is not "
+              f"unique; APA's answer is a 2009a/2009b suffix, which is a page edit only you "
+              f"should make:")
+        for r in other:
+            print(f"      {r['key']}  {r['source']}  ({r['doi'] or 'no DOI'})")
     if not results:
-        print("Every citation of those sources agrees with what was verified.")
+        print("\nEvery citation covered by an authority agrees with what was verified.")
         return
 
     fixable = [r for r in results if r["fixable"]]
@@ -77,10 +121,8 @@ def main() -> None:
         for r in fixable:
             path = WIKI_ROOT / r["source"]
             text = path.read_text(encoding="utf-8")
-            new = "".join(
-                strip_doi_from_line(line, r["doi"]) if r["doi"].lower() in line.lower()
-                else line
-                for line in text.splitlines(keepends=True))
+            new = "".join(strip_doi_from_line(line, r["doi"]) if _is_target(line, r) else line
+                          for line in text.splitlines(keepends=True))
             if new != text:
                 path.write_text(new, encoding="utf-8")
                 written.add(r["source"])

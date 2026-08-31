@@ -68,7 +68,7 @@ PBIS treats behavior as a learnable skill set rather than a character trait, app
 - **Check-In/Check-Out (CICO)** — a Tier 2 intervention in which a mentor greets the student each morning, reviews goals, and provides point-based feedback each period, with a brief end-of-day check-out.
 
 ## Key Sources
-- Horner, R. H., Sugai, G., Todd, A. W., & Lewis-Palmer, T. (2005). Schoolwide positive behavior support. In L. Bambara & L. Kern (Eds.), *Individualized supports for students with problem behaviors* (pp. 359–390). Guilford Press. [doi:10.1007/978-0-387-09632-2_13](https://doi.org/10.1007/978-0-387-09632-2_13)
+- Horner, R. H., Sugai, G., Todd, A. W., & Lewis-Palmer, T. (2005). Schoolwide positive behavior support. In L. Bambara & L. Kern (Eds.), *Individualized supports for students with problem behaviors* (pp. 359–390). Guilford Press.
 - Bradshaw, C. P., Mitchell, M. M., & Leaf, P. J. (2010). Examining the effects of schoolwide positive behavioral interventions and supports on student outcomes. *Journal of Positive Behavior Interventions, 12*(3), 133–148. [doi:10.1177/1098300709334798](https://doi.org/10.1177/1098300709334798)
 - Bradshaw, C. P., Waasdorp, T. E., & Leaf, P. J. (2012). Effects of school-wide positive behavioral interventions and supports on child behavior problems. *Pediatrics, 130*(5), e1136–e1145. [doi:10.1542/peds.2012-0243](https://doi.org/10.1542/peds.2012-0243)
 - Sugai, G., & Horner, R. H. (2009). Defining and describing schoolwide positive behavior support. In W. Sailor, G. Dunlap, G. Sugai, & R. Horner (Eds.), *Handbook of positive behavior support* (pp. 307–326). Springer. [doi:10.1007/978-0-387-09632-2_13](https://doi.org/10.1007/978-0-387-09632-2_13)
