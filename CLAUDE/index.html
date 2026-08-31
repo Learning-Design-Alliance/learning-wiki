@@ -1377,6 +1377,14 @@ routinely holds real uncommitted work, and keying on HEAD would call all of it i
   means "the registry did not say", not "the wiki is wrong". The decision function
   <code>decide()</code> is pure and unit-tested offline, including the containment trap that put a
   Springer chapter's DOI on 69 pages.</li>
+<li><strong>64 of the 97 citation conflicts are one agreed DOI plus pages that omit it</strong> — 211
+  citations to fill in. <code>scripts/standardize_citations.py</code> writes the DOI onto the pages
+  missing it, <strong>but only where Crossref confirms it resolves to the paper being cited</strong>.
+  Never fill these in by consensus: the same shape covers <code>bandura-1977</code>, where exactly ONE
+  of 68 citations asserts <code>10.1037/12256-000</code> and 67 assert nothing, so copying the majority
+  would propagate a single unverified DOI onto 67 pages — which is how the 69-page Bandura
+  error happened. The direction of the majority is the only thing separating that case from
+  <code>collins-1989</code> (22 assert, 1 omits), and direction is not evidence.</li>
 <li><strong>21 DOI collisions are open — one DOI asserted for two different papers.</strong> Both
   directions are now detected: <code>check_citations.py</code> for one paper with two DOIs (97 open),
   and <code>check_citations.py --collisions</code> for one DOI on two papers (21 open). The second is
