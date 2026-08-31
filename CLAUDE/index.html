@@ -568,6 +568,17 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#working-alongside-other-sessions-read-this-before-starting" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Working alongside other sessions — read this before starting
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#three-core-operations" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -856,6 +867,17 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#working-alongside-other-sessions-read-this-before-starting" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Working alongside other sessions — read this before starting
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#three-core-operations" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1138,6 +1160,52 @@
 <p>This is a <strong>persistent, LLM-maintained knowledge base</strong> for learning design. The wiki compiles design principles, instructional patterns, elements, strategies, theories, learner variables, and empirical claims into a structured, cross-linked reference.</p>
 <p><strong>You never write the wiki yourself.</strong> The LLM reads sources, ingests new content, cross-links pages, and keeps schemas consistent. You source materials and ask questions.</p>
 <p>The wiki is a bundle in the <a href="https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md">Open Knowledge Format (OKF) v0.2</a>: every content page is markdown with YAML frontmatter carrying <code>type</code>, <code>title</code>, <code>description</code>, <code>status</code>, <code>generated</code>, and (where applicable) <code>sources</code>; cross-links are plain bundle-relative markdown links, not Obsidian wikilinks; <code>index.md</code> and <code>log.md</code> are OKF's reserved directory-listing and change-log filenames.</p>
+<hr />
+<h2 id="working-alongside-other-sessions-read-this-before-starting">Working alongside other sessions — read this before starting<a class="headerlink" href="#working-alongside-other-sessions-read-this-before-starting" title="Permanent link">&para;</a></h2>
+<p>This repo has one human maintainer and many Claude Code sessions — nine open at the time
+of writing, each in its own worktree. A session that has been idle for a day still holds
+its old plan and its old view of <code>main</code>, and resuming it will happily redo work that has
+already landed. Sessions cannot message each other (an idle one is disconnected), so
+<strong>this file is the coordination channel</strong> — it is loaded into every session's context
+automatically. Anything a future session must not undo belongs here.</p>
+<p><strong>Keep the number of live sessions small.</strong> Most of the duplication below came from
+parallel sessions, not from parallel people. One session per open task, closed when the
+task merges.</p>
+<p><strong>Branch from <code>main</code>, merge to <code>main</code> the same day, never stack.</strong> A wiki-wide fix is a
+wiki-wide diff: a typical task here changes 200+ files. Two branches living longer than a
+day <em>will</em> collide on hundreds of them. This is not hypothetical — on 2026-08-31 three
+branches were open at once, each changing ~200 of the same files, arranged in a stack
+(<code>normalize-slugs</code> → <code>fix-no-h1-pages</code> → <code>research-scraper-test-setup</code>) whose base kept
+moving. Two sessions independently fixed the same 13 corrupted pages, independently wrote
+a link-repair tool, and independently shipped the <em>same</em> <code>[^)\s]+</code> parenthesis bug in it.
+One merge cost 41 conflict resolutions. Do not open a PR whose base is another feature
+branch.</p>
+<p><strong>Before starting any wiki-wide pass, check whether it is already done.</strong> Run
+<code>python3 scripts/lint.py</code> and <code>python3 scripts/wiki_health_check.py --skip-doi</code> first, and
+<code>git log --oneline -20 origin/main</code> to see what landed recently. A count of zero means the
+work is done, not that the check is broken.</p>
+<p><strong>Things that are settled — do not re-litigate or revert:</strong></p>
+<ul>
+<li><strong>Never assert a DOI that has not been resolved against Crossref.</strong> A DOI that resolves
+  to the <em>wrong</em> paper is worse than none, because it reads as verified. <code>10.1007/978-1-4684-7562-3_3</code>
+  ("Model of Causality in Social Learning Theory") was auto-applied to 69 pages as Bandura
+  (1977); it took a manual audit to catch. <code>cc.titles_align()</code> guards the containment case
+  that let it through, and <code>enrich.verify_page_citations()</code> gates every newly written page.</li>
+<li><strong><code>classify_doi</code>'s <code>error</code> status is not <code>wrong_paper</code>.</strong> A failed lookup means Crossref
+  was unreachable. Stripping on <code>error</code> deletes good DOIs from every page touched during an
+  outage.</li>
+<li><strong>Unenriched claim pages are <code>status: draft</code>, and lint's DOI check skips drafts.</strong> This is
+  deliberate, and matches how <code>check_draft_no_description</code> and <code>check_stable_unverified</code>
+  already work. Do not "fix" it by promoting those pages to <code>review</code>.</li>
+<li><strong>Links to filenames containing parentheses need the <code>&lt;...&gt;</code> form.</strong> A bare destination
+  closes at the first <code>)</code>. <code>scripts/fix_links.py --apply</code> repairs them; lint's
+  <code>link_needs_angle_brackets</code> catches new ones.</li>
+<li><strong><code>scripts/find_title_duplicates.py</code> reports ~943 near-duplicate title pairs.</strong> That is a
+  known backlog, mostly hyphen-vs-underscore variants of one page. It is reported, not
+  lint-failing, on purpose.</li>
+</ul>
+<p><strong>When you finish something wiki-wide, add a line here.</strong> That is how the next session
+finds out.</p>
 <hr />
 <h2 id="three-core-operations">Three core operations<a class="headerlink" href="#three-core-operations" title="Permanent link">&para;</a></h2>
 <h3 id="1-ingest">1. Ingest<a class="headerlink" href="#1-ingest" title="Permanent link">&para;</a></h3>
