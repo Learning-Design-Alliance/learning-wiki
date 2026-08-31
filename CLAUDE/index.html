@@ -695,6 +695,17 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#renaming-a-page" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Renaming a page
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#cross-link-conventions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -987,6 +998,17 @@
     <span class="md-ellipsis">
       
         Page-type banner
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#renaming-a-page" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Renaming a page
       
     </span>
   </a>
@@ -1429,6 +1451,28 @@ already accepts for <code>sources:</code> mirroring the citations in <code>## Ke
 and a human-readable rendering of the same fact, kept in sync by a lint check rather than by
 dropping one.</p>
 <hr />
+<h2 id="renaming-a-page">Renaming a page<a class="headerlink" href="#renaming-a-page" title="Permanent link">&para;</a></h2>
+<p>Renaming a page is two jobs, and <code>git mv</code> only does the first. Nothing else in
+the wiki updates the pages that link to the one you moved, so a rename lands as
+a set of silently broken cross-links.</p>
+<p>The dangerous version is a rename that is correct in its own tree and breaks
+links only when merged forward, because the branch was cut before the linking
+pages existed. That has already happened once here: merging the scraper branch
+orphaned 17 links to <code>a_finder's_guide_to_facts.md</code>, renamed there to
+<code>a_finders_guide_to_facts.md</code>.</p>
+<p>After renaming, always run:</p>
+<div class="highlight"><pre><span></span><code>python3<span class="w"> </span>scripts/update_links_for_renames.py<span class="w"> </span>--from-git<span class="w"> </span>--dry-run
+python3<span class="w"> </span>scripts/update_links_for_renames.py<span class="w"> </span>--from-git<span class="w"> </span>--apply
+</code></pre></div>
+<p>It reads the renames staged in git (so <code>git mv</code> first, or <code>git add</code> the rename),
+and re-points every inbound link — same-folder, <code>../folder/</code>, bundle-absolute,
+and the percent-encoded spellings models emit for slugs containing <code>'</code>, <code>"</code>, <code>?</code>,
+<code>,</code>, <code>(</code>, <code>)</code>, <code>&amp;</code>, <code>+</code>. Every rewrite is checked to resolve on disk before it is
+kept, so the pass cannot turn a working link into a broken one. Pass <code>--map
+&lt;file&gt;</code> instead of <code>--from-git</code> to drive it from an explicit <code>old&lt;TAB&gt;new</code> list.</p>
+<p>Then confirm with <code>python3 scripts/lint.py --type broken_links</code> and regenerate
+indexes with <code>python3 scripts/build_indexes.py</code>.</p>
+<hr />
 <h2 id="cross-link-conventions">Cross-link conventions<a class="headerlink" href="#cross-link-conventions" title="Permanent link">&para;</a></h2>
 <ul>
 <li>Cross-links are standard markdown links, relative to the linking page: <code>slug.md</code> for another page in the same folder, <code>../folder/slug.md</code> for a page in a different folder (every content folder sits exactly one level under the wiki root, so <code>../folder/</code> always resolves correctly regardless of which folder you're linking from)</li>
@@ -1461,6 +1505,7 @@ dropping one.</p>
     log_revision.py    ← records a revision card + updates a page's `generated` field + appends to log.md
     log_source_review.py ← appends one entry to sources/manifest.ndjson (see Source Manifest below)
     add_type_banner.py ← inserts/refreshes the page-type banner under each page's H1 (see below)
+    update_links_for_renames.py ← after pages are renamed, re-points every inbound cross-link (see below)
     lint.py            ← health-check (see Lint above)
 </code></pre></div>
 <p>Each folder's <code>index.md</code> is itself a reserved OKF filename: no frontmatter (except the bundle-root's <code>okf_version</code>), and a plain <code>* [Title](slug.md) - description</code> bullet listing grouped by status. Regenerate these with <code>python3 scripts/build_indexes.py</code> rather than hand-editing them.</p>
