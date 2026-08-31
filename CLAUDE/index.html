@@ -1520,6 +1520,28 @@ routinely holds real uncommitted work, and keying on HEAD would call all of it i
   commits were already merged into <code>main</code> and so did not appear in a three-dot diff.
   <code>git checkout main &amp;&amp; git pull</code> first, every time, and check <code>git merge-base</code> if a run's
   numbers look unexpectedly small.</li>
+<li><strong><code>run_scrape_batch.py</code> is the one command for a whole batch — launchable from
+  <code>/scrape.html</code>.</strong> With <code>--model</code> it chains discover → prefetch → generate → ingest →
+  rebuild indexes and banners → fill agreed DOIs → resolve against Crossref → apply
+  human authorities → <strong>verify</strong> → lint → check_citations → health check. Started and
+  left alone, it takes hours; progress and the live console render at <code>/scrape.html</code>.
+  arXiv comes from the Kaggle snapshot (<code>export.arxiv.org</code> disallows automated access,
+  so <code>--arxiv &gt; 0</code> needs <code>KAGGLE_USERNAME</code>/<code>KAGGLE_KEY</code> or <code>--arxiv-snapshot</code>); <strong>PMC
+  and ERIC are live APIs</strong> — NCBI E-utilities and the IES API — not Kaggle.</li>
+<li><strong>A failing <code>verify_citation_edits.py</code> marks the whole batch <code>error</code>, deliberately.</strong>
+  It is the only step in the chain that stops the run. Every corruption this pipeline
+  has shipped passed <code>lint.py</code>, because the damage is a property of the diff rather than
+  of any page, and an unattended batch is exactly where that gets committed and
+  forgotten. The working tree is left untouched so the offending lines can be read.
+  A lint failure, by contrast, is reported and not fatal — lint findings are the normal
+  state of a fresh batch.</li>
+<li><strong><code>ingest_extractions.py --model</code> takes the DIRECTORY name, not the slug.</strong>
+  <code>safe_model_dirname</code> maps <code>/</code> to <code>__</code>, so <code>z-ai/glm-5.3-flash</code> is
+  <code>z-ai__glm-5.3-flash</code>. <code>run_scrape_batch.py</code> passed the raw slug, which made
+  ingest look in <code>eval/runs/&lt;label&gt;/z-ai/glm-5.3-flash</code> — a path that never exists — so
+  every dashboard scrape launched <em>with</em> a model completed discover, fetch and generate,
+  paid for the generation, and then failed at ingest. Only a slug containing no <code>/</code>
+  would have worked, and OpenRouter slugs all contain one.</li>
 <li><strong>Third-party Actions are pinned to commit SHAs, with the tag in a trailing comment.</strong>
   A tag is mutable — whoever owns that repo can repoint <code>@v4</code> at anything — and <code>docs.yml</code>
   runs with <code>contents: write</code> on every push to <code>main</code>. When bumping one, resolve the new
