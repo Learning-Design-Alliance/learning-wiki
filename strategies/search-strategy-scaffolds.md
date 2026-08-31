@@ -60,7 +60,7 @@ Unscaffolded search is dominated by keyword matching and surface cues; learners 
 ## Related Strategies
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — the demonstration method that makes expert search decisions visible
 - [3-Source Rule](../strategies/3-source_rule.md) — a corroboration scaffold that forces learners to triangulate across sources
-- [A Finder's Guide to Facts](../strategies/a_finder%27s_guide_to_facts.md) — a published evaluation routine for judging online claims
+- [A Finder's Guide to Facts](../strategies/a_finders_guide_to_facts.md) — a published evaluation routine for judging online claims
 
 ## Examples
 - **Stanford History Education Group — Civic Online Reasoning curriculum** ([https://cor.stanford.edu](https://cor.stanford.edu)): free lessons teaching lateral reading and source evaluation; classroom studies show large gains in students' ability to evaluate online sources [Civic online reasoning instruction improves students' evaluation of online sources.](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S]

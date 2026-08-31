@@ -58,7 +58,7 @@ Music provides a structured, repetitive, and emotionally engaging carrier for em
 6. Revisit the song across days and weeks; spaced revisiting supports retention [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
 
 ## Related Strategies
-- ['What's My Emotion?' Game Check-In](../strategies/'what's_my_emotion?'_game_check-in.md) — a complementary game-based routine for practicing emotion identification
+- ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — a complementary game-based routine for practicing emotion identification
 - [Acting-Role-Play](../strategies/acting-role-play.md) — extends song scenarios into enacted practice of emotional responses
 - [Act It Out](../strategies/act_it_out.md) — physical expression of feelings that pairs naturally with sung verses
 

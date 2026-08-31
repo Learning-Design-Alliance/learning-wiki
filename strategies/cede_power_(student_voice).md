@@ -56,7 +56,7 @@ Autonomy is a core psychological need, and instructional environments that suppo
 5. Gradually expand the scope of ceded decisions as students demonstrate readiness, mirroring [Fading](../elements/fading.md) of other supports.
 
 ## Related Strategies
-- [Academic Choice (Planning, Working, Reflecting)](academic_choice_(planning,_working,_reflecting).md) — a structured classroom routine that operationalizes ceded power in daily learning
+- [Academic Choice (Planning, Working, Reflecting)](<academic_choice_(planning,_working,_reflecting).md>) — a structured classroom routine that operationalizes ceded power in daily learning
 - [Action Planning](action_planning.md) — students set and manage their own goals, a concrete transfer of authority
 
 ## Examples

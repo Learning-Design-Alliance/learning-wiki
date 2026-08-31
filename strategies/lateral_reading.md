@@ -56,7 +56,7 @@ Lateral reading works because it shifts evaluation from analyzing a source's sel
 
 ## Related Strategies
 - [SIFT method](sift_method.md) — a four-step packaged variant (Stop; Investigate the source; Find better coverage; Trace claims) built around lateral reading
-- [A Finder's Guide to Facts](a_finder's_guide_to_facts.md) — a related framework for teaching fact-verification habits
+- [A Finder's Guide to Facts](a_finders_guide_to_facts.md) — a related framework for teaching fact-verification habits
 - [Case-Based Learning](case-based_learning.md) — viral misinformation cases provide authentic material for lateral-reading practice
 
 ## Related Elements

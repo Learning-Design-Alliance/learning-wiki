@@ -53,7 +53,7 @@ Storybook discussion works because narrative provides emotionally rich but low-s
 5. Close with whole-class sharing that connects story emotions to learners' real experiences, and revisit the book later to reinforce vocabulary.
 
 ## Related Strategies
-- ['What's My Emotion?' Game Check-In](../strategies/'what's_my_emotion?'_game_check-in.md) — a complementary face-to-face emotion recognition warm-up
+- ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — a complementary face-to-face emotion recognition warm-up
 - [Act It Out](../strategies/act_it_out.md) — embodied extension of character emotion work
 - [Active Listening](../strategies/active_listening.md) — the facilitation stance that keeps discussion learner-driven
 

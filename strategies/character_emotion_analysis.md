@@ -59,7 +59,7 @@ Reading narrative fiction requires tracking characters' goals, beliefs, and emot
 
 ## Related Strategies
 - [Acting-Role-Play](acting-role-play.md) — enacting the scene converts inferred emotion into embodied practice
-- ['What's My Emotion?' Game Check-In]('what's_my_emotion?'_game_check-in.md) — builds the emotion vocabulary that analysis depends on
+- ['What's My Emotion?' Game Check-In](whats_my_emotion_game_check-in.md) — builds the emotion vocabulary that analysis depends on
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — connecting character emotions to students' own experiences is a form of prior-knowledge activation
 
 ## Related Elements

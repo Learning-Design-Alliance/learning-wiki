@@ -59,7 +59,7 @@ Naming emotions recruits verbal labeling that supports regulation — the "affec
 
 ## Related Strategies
 - [Active-Listening](active-listening.md) — the peer behavior the debrief depends on; without it, sharing becomes performance
-- ['What's My Emotion?' Game Check-In]('what's_my_emotion?'_game_check-in.md) — a playful variant that builds the same emotion vocabulary through guessing rather than disclosure
+- ['What's My Emotion?' Game Check-In](whats_my_emotion_game_check-in.md) — a playful variant that builds the same emotion vocabulary through guessing rather than disclosure
 - [Action Planning](action_planning.md) — a natural follow-on that converts identified feelings into regulation strategies
 
 ## Examples

@@ -58,7 +58,7 @@ Connecting instruction to students' lived experience raises the perceived value 
 
 ## Related Strategies
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the general cognitive routine this strategy grounds in students' specific family and community experience
-- [Accessing Students' Background Knowledge](../strategies/accessing_students’_background_knowledge.md) — the broader practice of eliciting what students bring to instruction
+- [Accessing Students' Background Knowledge](../strategies/accessing_students_background_knowledge.md) — the broader practice of eliciting what students bring to instruction
 
 ## Examples
 - **Moll et al.'s funds of knowledge project (Tucson, AZ):** teachers conducted household visits among Mexican-American families and built modules on construction, farming, and economics that fed directly into math and social studies instruction (Moll, Amanti, Neff, & González, 1992)

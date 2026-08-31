@@ -58,7 +58,7 @@ Choice in assessments supports motivation primarily by satisfying the need for a
 6. After the assessment, have students briefly justify how their choice served the learning goals, connecting choice to [Assessment for Learning](../principles/assessment-for-learning.md).
 
 ## Related Strategies
-- [Academic Choice (Planning, Working, Reflecting)](academic_choice_(planning,_working,_reflecting).md) — the broader classroom structure of which assessment choice is one application
+- [Academic Choice (Planning, Working, Reflecting)](<academic_choice_(planning,_working,_reflecting).md>) — the broader classroom structure of which assessment choice is one application
 - [Choice Boards](../elements/choice-boards.md) — the concrete element used to present tiered options
 
 ## Examples

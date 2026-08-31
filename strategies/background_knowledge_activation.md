@@ -58,7 +58,7 @@ Activation works because comprehension depends on linking new information to exi
 ## Related Strategies
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the general-purpose version of this strategy across domains
 - [Activate Background Knowledge](activate_background_knowledge.md) — closely related routine with overlapping techniques
-- [Accessing Students' Background Knowledge](accessing_students’_background_knowledge.md) — diagnostic counterpart focused on eliciting what learners bring
+- [Accessing Students' Background Knowledge](accessing_students_background_knowledge.md) — diagnostic counterpart focused on eliciting what learners bring
 
 ## Examples
 - **Anticipation guides** — Before reading a history text, learners agree/disagree with statements about its themes, then revise answers after reading; widely used in adolescent literacy programs.

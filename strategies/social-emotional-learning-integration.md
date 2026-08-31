@@ -59,7 +59,7 @@ Integrated SEL improves both behavioral and academic outcomes, with meta-analyti
 ## Related Strategies
 - [Active Listening](active-listening.md) — the teacher-side skill that makes integration credible
 - [Acting-Role-Play](acting-role-play.md) — a vehicle for practicing perspective-taking within content
-- [Academic Choice (Planning, Working, Reflecting)](academic_choice_(planning,_working,_reflecting).md) — autonomy-supportive structure aligned with SEL self-management goals
+- [Academic Choice (Planning, Working, Reflecting)](<academic_choice_(planning,_working,_reflecting).md>) — autonomy-supportive structure aligned with SEL self-management goals
 
 ## Examples
 - **[RULER](https://www.rulerapproach.org)** (Yale Center for Emotional Intelligence) — integrates emotion-labeling tools (mood meter, meta-moment) into classroom routines and academic work.

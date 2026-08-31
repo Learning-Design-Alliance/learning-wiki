@@ -53,7 +53,7 @@ Check ins work primarily through social-emotional and motivational channels rath
 2. Pose a low-stakes prompt (affective, cognitive, or relational) — see [Check In](../elements/check-in.md) for the element-level design.
 3. Collect responses quickly (poll, round-robin, sticky notes, chat).
 4. Acknowledge what you heard and make one visible instructional adjustment — pacing, grouping, or re-teaching — so learners see the loop close.
-5. Vary prompts periodically to prevent ritual fatigue; a game format such as ['What's My Emotion?' Game Check-In](../strategies/'what's_my_emotion?'_game_check-in.md) can renew engagement.
+5. Vary prompts periodically to prevent ritual fatigue; a game format such as ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) can renew engagement.
 
 ## Related Strategies
 - [Exit Tickets](exit-tickets.md) — the closing counterpart; check ins open the feedback loop that exit tickets close

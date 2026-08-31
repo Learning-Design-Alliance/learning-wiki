@@ -57,7 +57,7 @@ New knowledge is stored in relation to existing knowledge structures; instructio
 
 ## Related Strategies
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the activation routine this strategy builds on; connecting goes further by explicitly bridging to new content
-- [Accessing Students' Background Knowledge](accessing_students’_background_knowledge.md) — the diagnostic step of learning what learners actually bring
+- [Accessing Students' Background Knowledge](accessing_students_background_knowledge.md) — the diagnostic step of learning what learners actually bring
 - [Activate Background Knowledge](activate_background_knowledge.md) — the general principle of readiness before instruction
 
 ## Examples

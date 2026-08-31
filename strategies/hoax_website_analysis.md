@@ -57,7 +57,7 @@ Hoax websites function as [erroneous examples](../claims/erroneous-examples-buil
 6. Distribute follow-up practice across the term with varied artifact types (satire, advocacy sites, AI-generated content) rather than a single lesson.
 
 ## Related Strategies
-- [A Finder's Guide to Facts](../strategies/a_finder's_guide_to_facts.md) — a companion framework for evaluating factual claims that hoax analysis operationalizes
+- [A Finder's Guide to Facts](../strategies/a_finders_guide_to_facts.md) — a companion framework for evaluating factual claims that hoax analysis operationalizes
 - [3-Source Rule](../strategies/3-source_rule.md) — a corroboration habit that extends hoax analysis into routine verification
 - [Case-based learning](../elements/case-based-learning.md) — hoax sites serve as compact, high-impact cases for discussion
 

@@ -58,7 +58,7 @@ The strategy combines [Activation](../principles/activation.md) of personal expe
 5. Debrief as a whole class: name the emotion, note how the same emotion can arise from different situations, and connect to the day's learning topic ([Check-In](../elements/check-in.md) norms apply).
 
 ## Related Strategies
-- [What's My Emotion? Game Check-In](<../strategies/'what's_my_emotion?'_game_check-in.md>) — a faster, game-based alternative for building emotion vocabulary
+- [What's My Emotion? Game Check-In](<../strategies/whats_my_emotion_game_check-in.md>) — a faster, game-based alternative for building emotion vocabulary
 - [Acting-Role-Play](../strategies/acting-role-play.md) — enacts emotional episodes physically rather than visually
 - [Individual Reflection](../strategies/individual_reflection.md) — the private-processing component that pairs with sharing
 

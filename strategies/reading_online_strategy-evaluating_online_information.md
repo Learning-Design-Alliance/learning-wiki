@@ -50,13 +50,13 @@ Explicit instruction in online evaluation produces large gains in students' abil
 ### Instructions
 1. Model expert evaluation on a live webpage using [Think-Aloud](../elements/think-aloud.md): open a new tab, investigate who is behind the source, and verbalize the decision.
 2. Contrast expert moves with novice moves (reading vertically, trusting design cues) using paired examples.
-3. Have learners practice lateral reading and source tracing on curated real-world tasks, using a resource like [A Finder's Guide to Facts](../strategies/a_finder's_guide_to_facts.md).
+3. Have learners practice lateral reading and source tracing on curated real-world tasks, using a resource like [A Finder's Guide to Facts](../strategies/a_finders_guide_to_facts.md).
 4. Require corroboration across independent sources before accepting a claim, e.g., via the [3-Source Rule](../strategies/3-source_rule.md).
 5. Have learners [Annotating](../principles/annotating.md) sources with credibility judgments and justifications, then discuss disagreements in a [Class Discussion](../elements/class-discussion.md).
 6. Fade support: move from modeled demonstrations to independent evaluation of unfamiliar sources, with periodic check-ins.
 
 ## Related Strategies
-- [A Finder's Guide to Facts](../strategies/a_finder's_guide_to_facts.md) — a structured framework for interrogating sources that operationalizes this strategy
+- [A Finder's Guide to Facts](../strategies/a_finders_guide_to_facts.md) — a structured framework for interrogating sources that operationalizes this strategy
 - [3-Source Rule](../strategies/3-source_rule.md) — a simple corroboration heuristic supporting the verification component
 
 ## Examples

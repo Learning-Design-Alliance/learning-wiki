@@ -218,7 +218,7 @@
   cited as: - Walraven, A., Brand-Gruwel, B., & Boshuizen, H. P. A. (2008). Information-problem solving: A review of problems students encounter and instructional solutions
 - **10.1016/j.chb.2007.09.006** (strategies/web-search_scavenger_hunt.md): resolves, but to a different paper — "Interpersonal perception in bulletin board systems among Chinese Internet users" — likely misattributed
   cited as: - Walraven, A., Brand-Gruwel, S., & Boshuizen, H. P. A. (2008). Information-problem solving: A review of problems students encounter and instructional solutions
-- **10.1016/j.cognition.2019.04.016** (strategies/a_finder's_guide_to_facts.md): resolves, but to a different paper — "Pupils say more than a thousand words: Pupil size reflects how observed actions are interpreted" — likely misattributed
+- **10.1016/j.cognition.2019.04.016** (strategies/a_finders_guide_to_facts.md): resolves, but to a different paper — "Pupils say more than a thousand words: Pupil size reflects how observed actions are interpreted" — likely misattributed
   cited as: - Pennycook, G., & Rand, D. G. (2019). Lazy, not biased: Susceptibility to partisan fake news is better explained by lack of reasoning than by motivated reasoni
 - **10.1016/j.compcom.2017.08.001** (principles/multimedia-projects.md): does not exist on Crossref — likely fabricated
   cited as: - Kitalong, K. S., & Miner, R. L. (2017). Multimodal composition pedagogy designed to enhance authors' personal agency: Lessons from non-academic and academic c
@@ -372,7 +372,7 @@
   cited as: - Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43–59. [doi:10.1023/A:1023685105686](https:/
 - **10.1023/a:1024418107165** (strategies/student-generated_questions.md): does not exist on Crossref — likely fabricated
   cited as: - Hakkarainen, K. (2003). Emergence of progressive-inquiry culture in computer-supported collaborative learning. *Learning Environments Research, 6*(2), 199–220
-- **10.1023/a:1024590107379** (strategies/children's_literature_integration.md): does not exist on Crossref — likely fabricated
+- **10.1023/a:1024590107379** (strategies/childrens_literature_integration.md): does not exist on Crossref — likely fabricated
   cited as: - Hong, H. (1999). Using storybooks to help young children make sense of mathematics. *Early Childhood Education Journal, 27*(2), 65–69. [doi:10.1023/A:10245901
 - **10.1023/b:edpr.0000034021.16470.f3** (elements/decision-making.md): does not exist on Crossref — likely fabricated
   cited as: - Hmelo-Silver, C. E. (2004). Problem-based learning: What and how do students learn? *Educational Psychology Review, 16*(3), 235–266. [doi:10.1023/B:EDPR.00000
@@ -384,7 +384,7 @@
   cited as: - Whitehurst, G. J., Falco, F. L., Lonigan, C. J., Fischel, J. E., DeBaryshe, B. D., Valdez-Menchaca, M. C., & Caulfield, M. (1988). Accelerating language devel
 - **10.1037/0012-1649.29.6.1167** (strategies/math_songs.md): does not exist on Crossref — likely fabricated
   cited as: - Calvert, S. L., & Tart, M. (1993). Song versus verbal forms for very-long-term, long-term, and short-term verbatim recall. *Developmental Psychology, 29*(6), 
-- **10.1037/0022-0663.100.2.345** (strategies/don’t_say_my_number.md): does not exist on Crossref — likely fabricated
+- **10.1037/0022-0663.100.2.345** (strategies/dont_say_my_number.md): does not exist on Crossref — likely fabricated
   cited as: - Ramani, G. B., & Siegler, R. S. (2008). Promoting broad and stable improvements in low-income children's numerical knowledge through playing number board game
 - **10.1037/0022-0663.76.2.300** (elements/midterm-exam.md): resolves, but to a different paper — "Readers' acquisition of the components of the text-lookback strategy." — likely misattributed
   cited as: - Kulik, J. A., Kulik, C.-L. C., & Bangert-Drowns, R. L. (1984). Effects of testing on students' learning. *Journal of Educational Psychology, 76*(2), 300–309. 
@@ -712,7 +712,7 @@
   cited as: - Ramani, G. B., & Siegler, R. S. (2008). Promoting broad and stable improvements in low-income children's numerical knowledge through playing number board game
 - **10.1111/j.1467-8624.2008.01244.x** (strategies/multiple_representations-number_line.md): resolves, but to a different paper — "Age Differences in Future Orientation and Delay Discounting" — likely misattributed
   cited as: - Siegler, R. S., & Ramani, G. B. (2009). Playing linear number board games—but not circular ones—improves low-income children's numerical understanding. *Child
-- **10.1111/j.1467-8624.2009.01280.x** (strategies/don’t_say_my_number.md): resolves, but to a different paper — "Harsh Parenting and Child Externalizing Behavior: Skin Conductance Level Reactivity as a Moderator" — likely misattributed
+- **10.1111/j.1467-8624.2009.01280.x** (strategies/dont_say_my_number.md): resolves, but to a different paper — "Harsh Parenting and Child Externalizing Behavior: Skin Conductance Level Reactivity as a Moderator" — likely misattributed
   cited as: - Siegler, R. S., & Ramani, G. B. (2009). Playing linear number board games — but not circular ones — improves low-income preschoolers' numerical understanding.
 - **10.1111/j.1467-8624.2010.01564** (strategies/calming_strategies.md): does not exist on Crossref — likely fabricated
   cited as: - Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning:
@@ -722,7 +722,7 @@
   cited as: - Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. 
 - **10.1111/j.1467-9280.2007.01900.x** (strategies/emphasis_on_the_learning_process.md): resolves, but to a different paper — "Is Television Traumatic?: Dreams, Stress, and Media Exposure in the Aftermath of September 11, 2001" — likely misattributed
   cited as: - Cimpian, A., Arce, H.-M. C., Markman, E. M., & Dweck, C. S. (2007). Generic language with "some" signals a category-wide pattern of ability. *Psychological Sc
-- **10.1111/j.1467-9280.2007.01916.x** (strategies/'what's_my_emotion?'_game_check-in.md): resolves, but to a different paper — "Putting Feelings Into Words" — likely misattributed
+- **10.1111/j.1467-9280.2007.01916.x** (strategies/whats_my_emotion_game_check-in.md): resolves, but to a different paper — "Putting Feelings Into Words" — likely misattributed
   cited as: - Lieberman, M. D., et al. (2007). Putting feelings into words: Affect labeling disrupts amygdala activity in response to affective stimuli. *Psychological Scie
 - **10.1111/j.1467-9280.2007.01995.x** (strategies/addressing_biases_in_the_use_of_language_and_symbols.md): resolves, but to a different paper — "Signaling Threat" — likely misattributed
   cited as: - Murphy, M. C., Steele, C. M., & Gross, J. J. (2007). Signaling threat: How situational cues affect women in math, science, and engineering settings. *Psycholo
@@ -1017,7 +1017,7 @@
   cited as: - Palincsar, A. S., & Brown, A. L. (1984). Reciprocal teaching of comprehension-fostering and comprehension-monitoring activities. *Cognition and Instruction, 1
 - **10.2307/3333641** (strategies/finger-painting-arts_integration.md): resolves, but to a different paper — "Music and Mathematics: Modest Support for the Oft-Claimed Relationship" — likely misattributed
   cited as: - Moga, E., Burger, K., Hetland, L., & Winner, E. (2000). Does studying the arts engender creative thinking? Evidence for near but not far transfer. *Journal of
-- **10.2307/747212** (strategies/accessing_students’_background_knowledge.md): does not exist on Crossref — likely fabricated
+- **10.2307/747212** (strategies/accessing_students_background_knowledge.md): does not exist on Crossref — likely fabricated
   cited as: - Steffensen, M. S., Joag-Dev, C., & Anderson, R. C. (1979). A cross-cultural perspective on reading comprehension. *Reading Research Quarterly, 15*(1), 10–29. 
 - **10.2307/747623** (strategies/explicit_instruction_on_book_selection_and_care.md): resolves, but to a different paper — "Testing a Compensatory-Encoding Model" — likely misattributed
   cited as: - Stanovich, K. E. (1986). Matthew effects in reading: Some consequences of individual differences in the acquisition of literacy. *Reading Research Quarterly, 
@@ -1051,7 +1051,7 @@
   cited as: - Breakstone, J., Smith, M., Ortega, P., Kerr, D., & Wineburg, S. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8)
 - **10.3102/0013189x211030106** (strategies/interpreting_the_news.md): does not exist on Crossref — likely fabricated
   cited as: - Breakstone, J., Smith, M., Wineburg, S., Lester, A., Ortega, T., & Collins, S. (2021). Students' civic online reasoning: A national portrait. *Educational Res
-- **10.3102/0013189x211035106** (strategies/a_finder's_guide_to_facts.md): does not exist on Crossref — likely fabricated
+- **10.3102/0013189x211035106** (strategies/a_finders_guide_to_facts.md): does not exist on Crossref — likely fabricated
   cited as: - Breakstone, J., Smith, M., Wineburg, S., Lester, A., Ortega, T., & Collins, S. (2021). Students' civic online reasoning: A national portrait. *Educational Res
 - **10.3102/0013189x211035497** (strategies/digital_literacy_instruction.md): does not exist on Crossref — likely fabricated
   cited as: - Breakstone, J., Smith, M., Orland, M., Barr, D., Spindler, M., & McGrew, S. (2021). Students' civic online reasoning: A national portrait. *Educational Resear
@@ -1069,7 +1069,7 @@
   cited as: - Kulik, C.-L. C., Kulik, J. A., & Bangert-Drowns, R. L. (1990). Effectiveness of mastery learning programs: A meta-analysis. *Review of Educational Research, 6
 - **10.3102/0034654306298493** (strategies/building_a_community_on_student_voice.md): does not exist on Crossref — likely fabricated
   cited as: - Cornelius-White, J. (2007). Learner-centered teacher-student relationships are effective: A meta-analysis. *Review of Educational Research, 77*(1), 113–143. [
-- **10.3102/00346543064001004** (strategies/learn_about_students'_math_backgrounds.md): does not exist on Crossref — likely fabricated
+- **10.3102/00346543064001004** (strategies/learn_about_students_math_backgrounds.md): does not exist on Crossref — likely fabricated
   cited as: - Tobias, S. (1994). Interest, prior knowledge, and learning. *Review of Educational Research, 64*(1), 4–25. [doi:10.3102/00346543064001004](https://doi.org/10.
 - **10.3102/00346543064004379** (elements/reciprocal-teaching.md): does not exist on Crossref — likely fabricated
   cited as: - Rosenshine, B., & Meister, C. (1994). Reciprocal teaching: A review of the research. *Review of Educational Research, 64*(4), 479–530. [doi:10.3102/0034654306

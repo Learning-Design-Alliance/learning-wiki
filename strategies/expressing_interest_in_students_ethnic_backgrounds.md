@@ -57,7 +57,7 @@ Expressing authentic interest in students' backgrounds builds the teacher–stud
 6. Connect findings back to ongoing content — use student backgrounds as [Assigned Readings](../elements/assigned-readings.md) complements, case material, and examples throughout the term, not as a single isolated event.
 
 ## Related Strategies
-- [Accessing Students' Background Knowledge](../strategies/accessing_students’_background_knowledge.md) — the cognitive counterpart: surfacing what students already know, which this strategy does through a cultural and relational lens
+- [Accessing Students' Background Knowledge](../strategies/accessing_students_background_knowledge.md) — the cognitive counterpart: surfacing what students already know, which this strategy does through a cultural and relational lens
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — heritage research supplies the prior knowledge that later instruction can activate
 - [Check-Ins](../principles/check-ins.md) — brief recurring relational practices that sustain the trust this strategy builds
 

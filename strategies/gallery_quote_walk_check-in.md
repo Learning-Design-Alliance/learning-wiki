@@ -55,7 +55,7 @@ Naming emotions reduces their intensity and improves regulation — the "affect 
 5. Close with a 1–2 minute teacher synthesis that names the range of emotions present and transitions to the lesson.
 
 ## Related Strategies
-- ['What's My Emotion?' Game Check-In]('what's_my_emotion?'_game_check-in.md) — a gamified alternative that builds the same emotional-labeling skill through play rather than text selection
+- ['What's My Emotion?' Game Check-In](whats_my_emotion_game_check-in.md) — a gamified alternative that builds the same emotional-labeling skill through play rather than text selection
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — the parent element; this strategy is one structured enactment of it

@@ -59,7 +59,7 @@ Activation works because meaningful learning is associative: new information is 
 
 ## Related Strategies
 - [Activate Background Knowledge](activate_background_knowledge.md) — closely related routine emphasizing learner background and experience
-- [Accessing Students' Background Knowledge](accessing_students’_background_knowledge.md) — asset-based variant focused on cultural and lived experience
+- [Accessing Students' Background Knowledge](accessing_students_background_knowledge.md) — asset-based variant focused on cultural and lived experience
 
 ## Examples
 - **Anticipation guides in science class**: students agree/disagree with statements like "heavier objects fall faster" before a unit on gravity; the teacher revisits the guide after instruction to confront misconceptions.

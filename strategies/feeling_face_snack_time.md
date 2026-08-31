@@ -57,7 +57,7 @@ The strategy works because it pairs explicit emotion labeling with embodied enac
 6. Repeat across days, rotating in new emotions and using the cards at other moments ([Check-ins](../principles/check-ins.md)) so the vocabulary generalizes beyond snack time.
 
 ## Related Strategies
-- ['What's My Emotion?' Game Check-In](../strategies/'what's_my_emotion?'_game_check-in.md) — the same emotion-card mechanic in a whole-group check-in format
+- ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — the same emotion-card mechanic in a whole-group check-in format
 - [Act It Out](../strategies/act_it_out.md) — embodied enactment of scenarios, here applied to emotions rather than content
 - [Acting-Role-Play](../strategies/acting-role-play.md) — extended dramatization that deepens the same expression-recognition goal
 

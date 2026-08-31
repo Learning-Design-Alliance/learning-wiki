@@ -401,3 +401,52 @@ def dump_frontmatter(fm: dict) -> str:
             lines.append(f"{key}: {yaml_escape(str(val))}")
     lines.append("---")
     return "\n".join(lines) + "\n"
+
+
+def iter_markdown_links(text: str):
+    """Yield (start, end, dest, is_angle) for every ](...) link in `text`,
+    matching the destination by paren BALANCE the way CommonMark does.
+
+    A regex like r"\\]\\(([^)\\s]+\\.md)\\)" cannot do this: it stops at the
+    first ')', so a link to a real page whose filename contains parentheses —
+    "../strategies/project-based_learning_(pbl).md" — is captured truncated,
+    or skipped entirely. lint.py's link check excluded those deliberately and
+    therefore never saw them, while mkdocs could not resolve them either (a
+    bare '(' in a destination breaks markdown parsing), so they rendered as
+    dead literal text. 58 such links were live in the wiki when this was
+    written, every one pointing at a file that exists.
+
+    is_angle marks the <...> destination form, which is how a destination
+    containing parens is written safely."""
+    i = 0
+    while True:
+        i = text.find("](", i)
+        if i == -1:
+            return
+        j = i + 2
+        if j < len(text) and text[j] == "<":
+            k = text.find(">", j)
+            if k == -1:
+                i += 2
+                continue
+            yield i, k + 2, text[j + 1:k], True
+            i = k + 2
+            continue
+        depth, k = 1, j
+        while k < len(text) and text[k] != "\n":
+            if text[k] == "(":
+                depth += 1
+            elif text[k] == ")":
+                depth -= 1
+                if depth == 0:
+                    break
+            k += 1
+        if k < len(text) and depth == 0:
+            yield i, k + 1, text[j:k], False
+        i = j
+
+
+def link_needs_angle_brackets(dest: str) -> bool:
+    """A destination containing parens must use the <...> form (or be
+    percent-encoded) to survive markdown parsing."""
+    return ("(" in dest or ")" in dest) and not dest.startswith("<")

@@ -58,7 +58,7 @@ The strategy works primarily through motivational mechanisms: giving students au
 
 ## Related Strategies
 - [Choice Boards](../strategies/choice_boards.md) — extends the same ownership logic from the environment to academic tasks
-- [Academic Choice (Planning, Working, Reflecting)](../strategies/academic_choice_(planning,_working,_reflecting).md) — a parallel structure for sharing decision authority over learning activities
+- [Academic Choice (Planning, Working, Reflecting)](<../strategies/academic_choice_(planning,_working,_reflecting).md>) — a parallel structure for sharing decision authority over learning activities
 
 ## Related Elements
 - [Individual Reflection](../elements/individual-reflection.md) — elicits each student's experience of the space before group decisions

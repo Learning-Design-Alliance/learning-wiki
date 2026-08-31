@@ -58,7 +58,7 @@ The strategy leverages embodied, attention-directing observation: learners must 
 6. Rotate performance roles so learners also produce expressions, deepening encoding through enactment.
 
 ## Related Strategies
-- ['What's My Emotion?' Game Check-In]('what's_my_emotion?'_game_check-in.md) — a closely related check-in variant used to open a session with the same guessing mechanic
+- ['What's My Emotion?' Game Check-In](whats_my_emotion_game_check-in.md) — a closely related check-in variant used to open a session with the same guessing mechanic
 - [Acting & Role-Play](acting-role-play.md) — the broader family of embodied enactment strategies this belongs to
 - [Active Listening](active-listening.md) — complements decoding of nonverbal cues with attending to tone and content
 

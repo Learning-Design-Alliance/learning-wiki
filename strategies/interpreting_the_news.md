@@ -60,7 +60,7 @@ Comparing multiple accounts of the same event is a form of multiple-document ana
 ## Related Strategies
 - [Case Studies](../elements/case-studies.md) — a news event analyzed from multiple accounts functions as a live case; the comparison logic is the same
 - [Debate](../patterns/debate.md) — assigned-position analysis of coverage converts interpretation into structured argument
-- [A Finder's Guide to Facts](../strategies/a_finder's_guide_to_facts.md) — companion strategy for evaluating factual claims within news texts
+- [A Finder's Guide to Facts](../strategies/a_finders_guide_to_facts.md) — companion strategy for evaluating factual claims within news texts
 
 ## Examples
 - Students compare climate-change coverage across outlets, mapping how each frames causality and which stakeholders are quoted, then discuss how framing shapes public opinion.

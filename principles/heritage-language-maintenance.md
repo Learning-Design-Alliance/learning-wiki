@@ -50,7 +50,7 @@ Most children worldwide grow up bilingual or multilingual; the United States is 
 
 ## Examples
 - [Primary Language Support with Bilingual Texts](../strategies/primary_language_support_with_bilingual_texts.md)
-- [Connecting ELLs' Background Knowledge to Content](../strategies/connecting_ells'_background_knowledge_to_content.md)
+- [Connecting ELLs' Background Knowledge to Content](../strategies/connecting_ells_background_knowledge_to_content.md)
 
 ## Key Sources
 - Hansen, L., Umeda, Y., & McKinney, M. (2002). Ragged interlanguage morphology and orders of acquisition issues. *Journal of Multilingual and Multicultural Development, 23*(1-2), 6-20.

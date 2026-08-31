@@ -55,7 +55,7 @@ The strategy works by pairing explicit category instruction with application to 
 6. Follow with [Practice](../elements/practice.md) on novel ads, fading the template as learners gain fluency.
 
 ## Related Strategies
-- [A Finder's Guide to Facts](../strategies/a_finder's_guide_to_facts.md) — complementary evaluation heuristic for judging the credibility of online information sources
+- [A Finder's Guide to Facts](../strategies/a_finders_guide_to_facts.md) — complementary evaluation heuristic for judging the credibility of online information sources
 - [Case-Based Learning](../patterns/case-based-learning.md) — the ad-analysis phase is a small-scale case method applied to persuasive artifacts
 
 ## Examples

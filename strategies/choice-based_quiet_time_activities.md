@@ -57,7 +57,7 @@ Autonomy is a core psychological need whose support reliably increases intrinsic
 6. Review the menu periodically based on observation of what students select and how well each option sustains engagement.
 
 ## Related Strategies
-- [Academic Choice (Planning, Working, Reflecting)](academic_choice_(planning,_working,_reflecting).md) — the broader responsive-classroom structure this strategy specializes into a quiet-time context
+- [Academic Choice (Planning, Working, Reflecting)](<academic_choice_(planning,_working,_reflecting).md>) — the broader responsive-classroom structure this strategy specializes into a quiet-time context
 - [Check-ins](../principles/check-ins.md) — brief reflection routines that pair naturally with post-choice self-assessment
 
 ## Related Elements

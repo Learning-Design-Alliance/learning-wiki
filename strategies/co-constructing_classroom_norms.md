@@ -56,7 +56,7 @@ Co-construction converts classroom management from external control to internali
 6. **Revisit**: review norms after conflicts, at term transitions, and when group composition changes; revise rather than merely re-post.
 
 ## Related Strategies
-- [Academic Choice (Planning, Working, Reflecting)](academic_choice_(planning,_working,_reflecting).md) — a sibling autonomy-supportive structure from Responsive Classroom; norms give academic choice its guardrails
+- [Academic Choice (Planning, Working, Reflecting)](<academic_choice_(planning,_working,_reflecting).md>) — a sibling autonomy-supportive structure from Responsive Classroom; norms give academic choice its guardrails
 - [Active Listening](active_listening.md) — the facilitation skill the teacher models during the co-construction process itself
 
 ## Examples

@@ -56,7 +56,7 @@ Mindfulness practice targets the attentional and regulatory substrate on which a
 5. **Debrief occasionally.** Brief [Check-in](../elements/check-in.md) conversations about when the technique helped build learners' own case for using it, supporting ownership [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S].
 
 ## Related Strategies
-- ['What's My Emotion?' Game Check-in](%27what%27s_my_emotion%3F%27_game_check-in.md) — builds the emotion vocabulary that noticing-and-naming depends on
+- ['What's My Emotion?' Game Check-in](whats_my_emotion_game_check-in.md) — builds the emotion vocabulary that noticing-and-naming depends on
 - [Achievable Micro-Goals](achievable_micro-goals.md) — pairs regulation with manageable task entry points
 - [Active Listening](active-listening.md) — the interpersonal counterpart: regulating one's own reactivity during dialogue
 

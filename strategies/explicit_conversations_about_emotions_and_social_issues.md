@@ -65,7 +65,7 @@ Explicit conversation works because it converts tacit social-emotional experienc
 - [Building Empathy](../principles/building-empathy.md) — the broader principle this strategy operationalizes through talk
 - [Acting-Role-Play](../strategies/acting-role-play.md) — embodied alternative to discussion for perspective-taking
 - [Active Listening](../strategies/active-listening.md) — the interactional skill that makes these conversations productive
-- ['What's My Emotion?' Game Check-In](../strategies/'what's_my_emotion?'_game_check-in.md) — a gamified entry point for emotion vocabulary
+- ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — a gamified entry point for emotion vocabulary
 
 ## Related Elements
 - [Class Discussion](../elements/class-discussion.md) — the core delivery format

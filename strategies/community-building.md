@@ -56,7 +56,7 @@ Sense of belonging predicts persistence and engagement, particularly for at-risk
 
 ## Related Strategies
 - [Active-Listening](../strategies/active-listening.md) — the interpersonal skill base for discussion norms and peer feedback
-- [Check-In](../strategies/'what's_my_emotion?'_game_check-in.md) — routine low-stakes openings that sustain relational contact
+- [Check-In](../strategies/whats_my_emotion_game_check-in.md) — routine low-stakes openings that sustain relational contact
 
 ## Examples
 - **PBL teams with role rotation and team charters** — interdependent roles (facilitator, recorder, skeptic) with individual deliverables prevent free-riding while building team cohesion.

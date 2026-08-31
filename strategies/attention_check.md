@@ -56,7 +56,7 @@ Attention checks operationalize self-monitoring: prompting learners to evaluate 
 
 ## Related Strategies
 - [Check-Ins](../principles/check-ins.md) — the comprehension-focused sibling; attention checks target readiness to learn, check-ins target whether learning occurred
-- ['What's My Emotion?' Game Check-In](../strategies/'what's_my_emotion?'_game_check-in.md) — an affective variant that surfaces the emotional states that often drive attentional drift
+- ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — an affective variant that surfaces the emotional states that often drive attentional drift
 - [5-Minute Writing Conferences](../strategies/5-minute_writing_conferences.md) — individualized follow-up for learners whose attention checks repeatedly flag disengagement
 
 ## Examples

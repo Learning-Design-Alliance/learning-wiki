@@ -58,7 +58,7 @@ A richer emotion lexicon improves both emotional competence and broader language
 6. **Revisit and expand.** Recycle earlier words in new contexts and add finer distinctions as the set becomes fluent.
 
 ## Related Strategies
-- ['What's My Emotion?' Game Check-In](%27what%27s_my_emotion%3F%27_game_check-in.md) — a game format for practicing emotion labels during routine check-ins
+- ['What's My Emotion?' Game Check-In](whats_my_emotion_game_check-in.md) — a game format for practicing emotion labels during routine check-ins
 - [Acting-Role-Play](acting-role-play.md) — embodied practice of recognizing and expressing emotional states
 - [Active-Listening](active-listening.md) — the receptive counterpart: accurately hearing and reflecting others' emotion labels
 

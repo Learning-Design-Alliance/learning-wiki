@@ -56,7 +56,7 @@ The strategy draws on the facial feedback tradition, which holds that producing 
 5. Transition into the lesson, referring back to the emotion word when relevant content arises ([Practice](../elements/practice.md)).
 
 ## Related Strategies
-- [What's My Emotion? Game Check-In](../strategies/'what's_my_emotion?'_game_check-in.md) — a game-based variant that practices emotion identification in a group format
+- [What's My Emotion? Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — a game-based variant that practices emotion identification in a group format
 - [Check-Ins](../principles/check-ins.md) — broader family of entry routines that surface learner affect at the start of a session
 
 ## Related Elements

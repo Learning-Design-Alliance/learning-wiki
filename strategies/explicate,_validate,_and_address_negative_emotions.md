@@ -59,7 +59,7 @@ Emotions are not noise around cognition; they are part of it. Control-value theo
 
 ## Related Strategies
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — surfacing prior experience includes surfacing prior emotional associations with the subject
-- ['What's My Emotion?' Game Check-In]('what's_my_emotion?'_game_check-in.md) — a structured, low-stakes way to make emotions discussable
+- ['What's My Emotion?' Game Check-In](whats_my_emotion_game_check-in.md) — a structured, low-stakes way to make emotions discussable
 - [Utility-Value Connections](utility-value-connections.md) — the "address" step often takes the form of a utility-value intervention
 
 ## Examples

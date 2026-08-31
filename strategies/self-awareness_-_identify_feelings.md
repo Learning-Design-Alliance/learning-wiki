@@ -60,7 +60,7 @@ Emotion identification is a learnable perceptual and linguistic skill, not a fix
 6. **Apply**: connect labels to choices ("When you notice you're frustrated, what could you do?") so identification feeds regulation.
 
 ## Related Strategies
-- ['What's My Emotion?' Game Check-In](../strategies/'what's_my_emotion?'_game_check-in.md) — a game-based variant of the same labeling work
+- ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — a game-based variant of the same labeling work
 - [Active Listening](../strategies/active-listening.md) — the facilitator skill that makes emotion talk safe and accurate
 - [Acting-Role-Play](../strategies/acting-role-play.md) — enacting emotional scenarios to practice identification in context
 

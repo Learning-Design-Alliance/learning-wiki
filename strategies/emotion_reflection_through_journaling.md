@@ -60,7 +60,7 @@ Expressive writing about emotional experiences reliably improves psychological a
 
 ## Related Strategies
 - [Activities for Student Self-Reflection](activities_for_student_self-reflection.md) — the broader family of reflective practices; journaling is its most sustained, record-based form
-- ['What's My Emotion?' Game Check-In](%27what%27s_my_emotion%3F%27_game_check-in.md) — a low-stakes emotion-labeling warm-up that builds the vocabulary journaling depends on
+- ['What's My Emotion?' Game Check-In](whats_my_emotion_game_check-in.md) — a low-stakes emotion-labeling warm-up that builds the vocabulary journaling depends on
 - [Achievable Micro-Goals](achievable_micro-goals.md) — the natural goal-setting companion to pattern review sessions
 - [Action Planning](action_planning.md) — converts journal-derived insights into committed next steps
 
