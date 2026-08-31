@@ -555,6 +555,86 @@ def format_title_report(results: list[dict]) -> str:
     return "\n".join(lines)
 
 
+def _variant_counts(r: dict) -> list:
+    return [len(es) for _, es in r["variants"]]
+
+
+def triage(r: dict) -> str:
+    """How settleable this entry is without a registry lookup.
+
+    "decided"  - one variant dominates at 3:1 or better. The stragglers are
+                 almost certainly the invented ones, and a Crossref call is
+                 confirming a strong prior rather than discovering an answer.
+    "split"    - no variant leads by that much, very often 1-vs-1. There is no
+                 majority to appeal to and "majority" in the report means
+                 nothing; only the registry settles it.
+
+    This is the triage the raw dumps could not express. Reporting 166 DOIs as
+    one flat list implies 166 equal problems, when in practice a large share
+    are one confident reading plus a couple of stragglers, and the rest are
+    genuine coin-flips that must not be resolved by counting."""
+    counts = _variant_counts(r)
+    if len(counts) < 2:
+        return "decided"
+    return "decided" if counts[0] >= 3 * counts[1] else "split"
+
+
+def _fmt_variant(v) -> str:
+    return f"{v[0]} {v[1]}({v[2]}), {v[3]}" if isinstance(v, tuple) else str(v)
+
+
+def summarize(results: list[dict], noun: str, conflict_key: str = "conflict") -> str:
+    """A triage table instead of every affected file. See triage()."""
+    conflicts = [r for r in results if r["severity"] == conflict_key]
+    other = [r for r in results if r["severity"] != conflict_key]
+    if not conflicts:
+        return f"No {noun} found." + (
+            f" ({len(other)} lower-severity variant(s) — --full to list.)" if other else "")
+
+    minority = sum(sum(_variant_counts(r)[1:]) for r in conflicts)
+    decided = [r for r in conflicts if triage(r) == "decided"]
+    split = [r for r in conflicts if triage(r) == "split"]
+
+    lines = [f"{len(conflicts)} DOI(s) with {noun}; {minority} citation(s) disagree with "
+             f"their DOI's leading reading.\n",
+             f"  {len(decided)} decided  - one variant leads 3:1 or better; the stragglers "
+             f"are the likely fabrications",
+             f"  {len(split)} split     - no variant leads; only Crossref settles these\n",
+             "  worst by number of citations affected:\n"]
+    ranked = sorted(conflicts, key=lambda r: -sum(_variant_counts(r)))
+    for r in ranked[:12]:
+        counts = _variant_counts(r)
+        lines.append(f"  {sum(counts):5} cites  {len(counts)} variants  [{triage(r):7}]  "
+                     f"{r['doi']}")
+        lines.append(f"                  leading: {_fmt_variant(r['variants'][0][0])[:78]}")
+    if len(ranked) > 12:
+        lines.append(f"\n  ... and {len(ranked) - 12} more.")
+    if other:
+        lines.append(f"\n{len(other)} lower-severity entr(y/ies) not shown "
+                     f"(naming style or truncation).")
+    lines.append("\nRun with --full for every affected file.")
+    return "\n".join(lines)
+
+
+def summarize_collisions(collisions: list[dict]) -> str:
+    if not collisions:
+        return "No DOI collisions found — every DOI is cited for one paper."
+    lines = [f"{len(collisions)} DOI(s) attached to more than one paper. Every one needs "
+             f"Crossref: which side is wrong cannot be counted out, and picking the "
+             f"popular one is how the wrong citation becomes canonical.\n",
+             "  worst by number of citations affected:\n"]
+    ranked = sorted(collisions, key=lambda c: -sum(len(cl) for cl in c["clusters"]))
+    for c in ranked[:12]:
+        n = sum(len(cl) for cl in c["clusters"])
+        lines.append(f"  {n:5} cites  {len(c['clusters'])} paper(s)  {c['doi']}")
+        for cl in c["clusters"][:2]:
+            lines.append(f"                  {cl[0]['line'][2:90].strip()}")
+    if len(ranked) > 12:
+        lines.append(f"\n  ... and {len(ranked) - 12} more.")
+    lines.append("\nRun with --full for every affected file.")
+    return "\n".join(lines)
+
+
 def format_report(conflicts: list[dict]) -> str:
     if not conflicts:
         return "No citation conflicts found."
@@ -581,6 +661,9 @@ def main() -> None:
     parser.add_argument("--metadata", action="store_true",
                         help="Report DOIs whose citations disagree about journal, volume, "
                              "issue or pages (see find_metadata_divergence)")
+    parser.add_argument("--full", action="store_true",
+                        help="List every affected file rather than the triage summary. "
+                             "The full dumps run to thousands of lines.")
     parser.add_argument("--titles", action="store_true",
                         help="Report DOIs cited with more than one distinct title "
                              "(see find_title_divergence)")
@@ -592,17 +675,20 @@ def main() -> None:
 
     if args.titles:
         results = find_title_divergence(load_by_doi(by_key), touched)
-        print(format_title_report(results))
+        print(format_title_report(results) if args.full
+              else summarize(results, "invented titles"))
         sys.exit(0 if not any(r["severity"] == "conflict" for r in results) else 1)
 
     if args.metadata:
         results = find_metadata_divergence(load_by_doi(by_key), touched)
-        print(format_metadata_report(results))
+        print(format_metadata_report(results) if args.full
+              else summarize(results, "fabricated journal metadata"))
         sys.exit(0 if not any(r["severity"] == "conflict" for r in results) else 1)
 
     if args.collisions:
         collisions = find_doi_collisions(load_by_doi(by_key), touched)
-        print(format_collision_report(collisions))
+        print(format_collision_report(collisions) if args.full
+              else summarize_collisions(collisions))
         sys.exit(0 if not collisions else 1)
 
     conflicts = find_conflicts(by_key, touched)
