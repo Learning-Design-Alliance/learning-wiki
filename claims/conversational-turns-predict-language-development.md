@@ -26,9 +26,9 @@ The widely cited "30 million word gap" (Hart & Risley, 1995) framed early langua
 
 ## Subclaims
 
-`q2 i2` Reciprocal conversational turns between adult and child predict development in Broca's area (a key language-production region) more strongly than either total word count heard or family socioeconomic status. [→ Gabrieli, MIT McGovern Institute](#gabrieli-mit-mcgovern)
+`q2 i2` Reciprocal conversational turns between adult and child predict development in Broca's area (a key language-production region) more strongly than either total word count heard or family socioeconomic status. [→ Gabrieli, MIT McGovern Institute](#gabrieli-mit-mcgovern-institute)
 
-`q2 i1` The original 30-million-word estimate of the word gap has not fully replicated; later re-analyses estimate a considerably smaller gap, and some of the original disparity likely reflected a mismatch between researchers' expectations and the different (not simply deficient) linguistic practices of the homes studied. [→ Hart and Risley 1995](#hart-risley-1995)
+`q2 i1` The original 30-million-word estimate of the word gap has not fully replicated; later re-analyses estimate a considerably smaller gap, and some of the original disparity likely reflected a mismatch between researchers' expectations and the different (not simply deficient) linguistic practices of the homes studied. [→ Hart and Risley 1995](#hart-and-risley-1995)
 
 ## Evidence
 

@@ -22,7 +22,7 @@ Standard motor-milestone charts (e.g., typical walking age) are often treated as
 
 ## Subclaims
 
-`q2 i1` Among the Aché of eastern Paraguay, where infants are carried and given little floor time due to forest terrain, independent walking emerges around 23-25 months, compared to a typical Western average around 12 months — yet by age 9, Aché children's motor competence is comparable to Western norms. [→ Kaplan and Dove 1987](#kaplan-dove-1987)
+`q2 i1` Among the Aché of eastern Paraguay, where infants are carried and given little floor time due to forest terrain, independent walking emerges around 23-25 months, compared to a typical Western average around 12 months — yet by age 9, Aché children's motor competence is comparable to Western norms. [→ Kaplan and Dove 1987](#kaplan-and-dove-1987)
 
 ## Evidence
 

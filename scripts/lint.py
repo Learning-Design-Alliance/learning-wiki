@@ -22,6 +22,7 @@ import json
 import re
 import sys
 import argparse
+import unicodedata
 import urllib.parse
 from pathlib import Path
 from collections import defaultdict
@@ -103,6 +104,84 @@ def check_broken_links(pages: dict[str, Path]) -> list[dict]:
                     "file": str(path.relative_to(WIKI_ROOT)),
                     "type": "broken_link",
                     "detail": f"{target} (from {path.relative_to(WIKI_ROOT)}) not found",
+                })
+    return issues
+
+
+# python-markdown's toc extension turns each heading into an anchor with this
+# transform, and mkdocs.yml enables `toc` with no custom slugify — so this is
+# the id an `### Author Year` heading actually gets in the built site. Kept as
+# a local copy rather than importing markdown, because lint.py runs in CI
+# *before* the docs dependencies are installed.
+def _heading_anchor(heading: str, separator: str = "-") -> str:
+    v = unicodedata.normalize("NFKD", heading).encode("ascii", "ignore").decode("ascii")
+    v = re.sub(r"[^\w\s-]", "", v).strip().lower()
+    return re.sub(r"[%s\s]+" % separator, separator, v)
+
+
+HEADING_RE = re.compile(r"^#{1,6}\s+(.+?)\s*#*\s*$", re.M)
+
+
+def page_anchors(text: str) -> set[str]:
+    """Every anchor the built page will expose, including toc's duplicate
+    suffixes (`foo`, `foo_1`, `foo_2`) for repeated headings."""
+    anchors, counts = set(), defaultdict(int)
+    for h in HEADING_RE.findall(text):
+        base = _heading_anchor(h)
+        if not base:
+            continue
+        n = counts[base]
+        counts[base] += 1
+        anchors.add(base if n == 0 else f"{base}_{n}")
+    return anchors
+
+
+def check_dead_anchors(pages: dict[str, Path]) -> list[dict]:
+    """A link's fragment is as capable of being dead as its path, and nothing
+    was looking at it. check_broken_links splits the destination at '#' and
+    tests only the file; `mkdocs build --strict` downgrades a missing anchor to
+    INFO and so does not fail on it either. That is the same blind spot that
+    let 118 dead parenthesis links render as literal text for weeks.
+
+    It matters most for claim pages, whose whole subclaim convention is
+    `[-> Author Year](#author-year)` pointing at an `### Author Year` heading in
+    the same page's ## Evidence section. A subclaim whose anchor does not
+    resolve silently stops being traceable to its study."""
+    issues, anchor_cache = [], {}
+
+    def anchors_for(path: Path) -> set[str]:
+        key = str(path)
+        if key not in anchor_cache:
+            try:
+                anchor_cache[key] = page_anchors(path.read_text(encoding="utf-8"))
+            except OSError:
+                anchor_cache[key] = set()
+        return anchor_cache[key]
+
+    for slug, path in pages.items():
+        if "/" in slug or path.name in DOC_FILES:
+            continue
+        text = path.read_text(encoding="utf-8")
+        anchor_cache[str(path)] = page_anchors(text)
+        for _, _, target, _ in ok.iter_markdown_links(text):
+            if target.startswith(("http://", "https://", "mailto:")) or "#" not in target:
+                continue
+            file_part, _, frag = target.partition("#")
+            if not frag:
+                continue
+            frag = urllib.parse.unquote(frag)
+            if file_part:
+                target_path = (path.parent / urllib.parse.unquote(file_part)).resolve()
+                if not target_path.exists():
+                    continue          # already reported as a broken_link
+            else:
+                target_path = path
+            if frag not in anchors_for(target_path):
+                issues.append({
+                    "file": str(path.relative_to(WIKI_ROOT)),
+                    "type": "dead_anchor",
+                    "detail": f"#{frag} -> no such heading in "
+                              f"{target_path.name if file_part else 'this page'}",
                 })
     return issues
 
@@ -386,7 +465,7 @@ def auto_promote(pages: dict[str, Path], all_issues: list[dict], dry_run: bool =
 def main():
     parser = argparse.ArgumentParser(description="Lint the ld-wiki")
     parser.add_argument("--fix", action="store_true", help="Auto-promote clean draft pages to review")
-    parser.add_argument("--type", choices=["broken_links", "drafts", "claims", "principles", "conflicts", "trust", "manifest", "type_banner", "all"],
+    parser.add_argument("--type", choices=["broken_links", "dead_anchors", "drafts", "claims", "principles", "conflicts", "trust", "manifest", "type_banner", "all"],
                         default="all", help="Which checks to run")
     args = parser.parse_args()
 
@@ -397,6 +476,7 @@ def main():
     all_issues = []
     checks = {
         "broken_links":  check_broken_links,
+        "dead_anchors":  check_dead_anchors,
         "drafts":        check_draft_no_description,
         "claims":        check_claims_missing_evidence,
         "principles":    check_principles_missing_claims,

@@ -30,3 +30,7 @@ Estimation warm ups work because they require learners to actively retrieve and 
 - Without a reveal or benchmark comparison, estimates are never calibrated and the activity collapses into guessing [-M] — learners need feedback on their estimates to adjust their internal magnitude representations
 - Estimating quantities far outside learners' experience, with no anchors or referents provided, produces wild guesses with little reasoning value [~M]
 - Time pressure can raise anxiety and push math-anxious learners toward impulsive answers rather than reasoning
+
+## Key Sources
+- Booth, J. L., & Siegler, R. S. (2006). Developmental and individual differences in pure numerical estimation. *Developmental Psychology, 42*(1), 189-201.
+- Siegler, R. S., & Ramani, G. B. (2008). Playing linear numerical board games promotes low-income children's numerical development. *Developmental Science, 11*(5), 655-661.

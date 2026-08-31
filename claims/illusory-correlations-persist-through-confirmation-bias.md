@@ -17,7 +17,7 @@ People can perceive a relationship between two variables that does not actually 
 
 ## Subclaims
 
-`q4 i3` A meta-analysis of nearly 40 studies found no relationship between lunar phase and human behavior, contradicting the widespread popular belief that behavior becomes stranger during a full moon. [→ Rotton & Kelly 1985](#rotton--kelly-1985)
+`q4 i3` A meta-analysis of nearly 40 studies found no relationship between lunar phase and human behavior, contradicting the widespread popular belief that behavior becomes stranger during a full moon. [→ Rotton & Kelly 1985](#rotton-kelly-1985)
 
 ## Evidence
 

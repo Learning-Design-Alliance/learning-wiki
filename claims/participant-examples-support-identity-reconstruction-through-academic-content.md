@@ -21,9 +21,9 @@ sources:
 Over a four-month knowledge-building unit presenting national identity as a contested, multiply-defined category, one student's language use shifted from essentialist uncertainty about his own identity category membership toward a confident, constructionist stance — a shift documented through his use of an academic case as a [participant example](../elements/participant-examples.md), positioning himself as analogous to the case's subject.
 
 ## Subclaims
-`q1 i2` Across nine language acts spanning four months (Knowledge Forum notes, interviews, presentations, discussions, and a final essay), one focal student's discourse moved from uncertain essentialism ("Will I still be a part of this wonderful thing?") through a partial essentialist appeal (arguing one boundary of Jewish identity over another) to explicit constructionism ("I had to create a new definition... someone is Jewish if they know they are Jewish"). [→ Cohen et al. 2023](#cohen-hod-benzvi-2023)
+`q1 i2` Across nine language acts spanning four months (Knowledge Forum notes, interviews, presentations, discussions, and a final essay), one focal student's discourse moved from uncertain essentialism ("Will I still be a part of this wonderful thing?") through a partial essentialist appeal (arguing one boundary of Jewish identity over another) to explicit constructionism ("I had to create a new definition... someone is Jewish if they know they are Jewish"). [→ Cohen et al. 2023](#cohen-et-al-2023)
 
-`q1 i2` The student's unsolicited note on a contested legal case (a Christian convert's claim to Jewish national status) functioned as a participant example: he de-emphasized the case's religious dimension (central to the original ruling) and emphasized its national/secular dimension, using the case's reasoning to argue for his own recognition as a secular Jew. [→ Cohen et al. 2023](#cohen-hod-benzvi-2023)
+`q1 i2` The student's unsolicited note on a contested legal case (a Christian convert's claim to Jewish national status) functioned as a participant example: he de-emphasized the case's religious dimension (central to the original ruling) and emphasized its national/secular dimension, using the case's reasoning to argue for his own recognition as a secular Jew. [→ Cohen et al. 2023](#cohen-et-al-2023)
 
 ## Evidence
 
