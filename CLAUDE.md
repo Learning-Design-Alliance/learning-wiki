@@ -445,6 +445,7 @@ ld-wiki/
   claims/            ← empirical claims with evidence
   sources/           ← bibliographic source pages (optional; most citations live inline in Key Sources / Evidence)
     manifest.ndjson    ← append-only log of every source reviewed, ingested or rejected (see Source Manifest below)
+    authorities.ndjson ← append-only log of citations a HUMAN verified against the real source (see Citation Authorities below)
   scripts/
     okf_lib.py         ← shared OKF helpers (frontmatter parse/dump, link conversion, actor formatting)
     ingest.py          ← CSV → wiki pages batch ingest
@@ -497,6 +498,60 @@ python3 -c "import json,sys; [print(l) for l in map(json.loads, open('sources/ma
 ```
 
 Known gap: the CSV batch-import path (`scripts/ingest.py`, reading external `~/research_briefs/*.csv` files) doesn't write to the manifest — those rows have no natural per-article identity to key an entry on.
+
+---
+
+## Citation Authorities — the human's side of the record
+
+`sources/authorities.ndjson` is where a **person** records what they checked against
+the real source: the publisher's page, the book in hand, the article's own PDF. It is
+append-only NDJSON like `manifest.ndjson`, keyed by the same author-year key
+`check_citations.py` uses.
+
+It exists because every automated check in this repo verifies against Crossref, and
+Crossref can only see what it indexes. **2,493 of the wiki's 12,893 citations — 1,232
+distinct author-year keys — carry no DOI and no journal metadata at all.** They are
+books, and all five checks are structurally blind to them: every one needs two variants
+of something to compare, and a book citation offers nothing to compare. Nothing has ever
+verified that Ambrose et al. (2010) is *How Learning Works*, Jossey-Bass,
+ISBN 978-0-470-61760-1. No lookup would say so. A person can.
+
+```bash
+python3 scripts/log_authority.py --key ambrose-2010 --by human:david \
+  --title "How Learning Works: Seven Research-Based Principles for Smart Teaching" \
+  --publisher "Jossey-Bass" --isbn 978-0-470-61760-1 --url https://www.wiley.com/... \
+  --note "Verified against the Wiley product page."
+
+python3 scripts/apply_authorities.py --check     # then --apply
+python3 scripts/citation_worklist.py             # what to look at next, ranked
+```
+
+Four things about it that are deliberate:
+
+- **An agent must never author one.** `append_authority()` refuses any `verified.by` that
+  is not `human:<id>`, for the same reason CLAUDE.md forbids an agent adding a page's
+  `verified:` entry because the page looks complete. A machine-written "authority" is
+  just another unverified assertion wearing a badge that says otherwise.
+- **`"doi": null` is a verdict; an absent `doi` field is not.** The first says a human
+  established that no DOI is registered, which makes any DOI a later batch invents for
+  that key provably wrong and strippable without a lookup. The second says only "not
+  established", and nothing may act on it. Same discipline as `crossref_reachable: false`
+  vs `flagged`, and as `error` vs `wrong_paper`.
+- **It ratchets.** `lint.py`'s `check_authority_conflicts` fails on any citation that
+  contradicts a recorded verdict, so a settled decision survives the next enrichment
+  batch. Repairing the pages alone does not: the model that invented a DOI for a book
+  once will invent one again, and nothing in the corpus remembers otherwise.
+- **Only the no-DOI verdict is auto-repaired.** `apply_authorities.py` reports a wrong
+  ISBN, a differing DOI or a mismatched title rather than rewriting it — the page may be
+  citing a different edition, a chapter rather than the book, or a reprint, and only the
+  person who checked can say which. The tooling has been confidently wrong about exactly
+  this kind of "obvious" correction before (the Cook-Sather title case above).
+
+`scripts/citation_worklist.py` is the reading end. It collapses all five checks onto the
+author-year key — so several report lines about one source appear once — ranks by how
+many citations ride on it, ranks the book backlog separately (different work: a person
+and a publisher page, not a lookup), and drops keys already settled, so the list shrinks
+as you work.
 
 ---
 
