@@ -185,6 +185,36 @@ def _judgment_section(result: dict) -> str:
           <ul class="issue-list">{"".join(rows)}</ul>
         </div>""")
 
+    for key, heading, blurb in (
+        ("metadata_conflicts", "Fabricated journal metadata",
+         "A correct DOI wearing an invented journal, volume or page range. Worse than a "
+         "wrong DOI: the DOI resolves, so every check passes and the false volume and page "
+         "numbers read as precision. `fix_citation_metadata.py` repairs the ones the DOI "
+         "itself settles; the rest need Crossref."),
+        ("title_conflicts", "Fabricated titles",
+         "A correct DOI cited with more than one title \u2014 the model reproduces the stem "
+         "and invents whatever follows the colon. Title-overlap clustering cannot see these, "
+         "because the shared stem carries every variant past the similarity threshold."),
+    ):
+        items = detail.get(key, [])
+        if not items:
+            continue
+        rows = []
+        for d in sorted(items, key=lambda x: -len(x["variants"]))[:40]:
+            vs = "".join(
+                f'<li>{len(es)}x {_esc(str(v)[:110])}</li>' for v, es in d["variants"]
+            )
+            rows.append(f'<li><strong>{_esc(d["doi"])}</strong>'
+                        f'<ul class="issue-list">{vs}</ul></li>')
+        more = (f'<li class="muted">... and {len(items) - 40} more</li>'
+                if len(items) > 40 else "")
+        parts.append(f"""
+        <div class="issue-group">
+          <h3>{heading} <span class="count-badge">{len(items)}</span></h3>
+          <p class="muted">{blurb}</p>
+          <ul class="issue-list">{"".join(rows)}{more}</ul>
+        </div>""")
+
     doi_issues = detail.get("doi_issues", [])
     if result.get("doi_skipped"):
         parts.append("""
@@ -256,6 +286,9 @@ def render_html(result: dict) -> str:
                    sub="one paper, two DOIs", warn=result["citation_conflicts"] > 0),
         _stat_tile("DOI collisions", result.get("doi_collisions", 0),
                    sub="one DOI, two papers", warn=result.get("doi_collisions", 0) > 0),
+        _stat_tile("Fabricated detail", result.get("metadata_conflicts", 0) + result.get("title_conflicts", 0),
+                   sub="invented journal or title", 
+                   warn=(result.get("metadata_conflicts", 0) + result.get("title_conflicts", 0)) > 0),
         _stat_tile("DOI problems", doi_display, warn=(not result.get("doi_skipped")) and result["doi_issues"] > 0),
         _stat_tile("Needs judgment", result["cross_folder_needs_judgment"],
                    sub=f"{result['cross_folder_self_referential']} auto-resolved",

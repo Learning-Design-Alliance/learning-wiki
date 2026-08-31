@@ -112,6 +112,15 @@ Only four branches still hold unmerged commits:
   only the ones the DOI itself settles (its suffix encodes volume/issue/page) and defers
   the rest. Do not "fix" the deferred ones by majority vote — where the DOI is opaque,
   picking the popular journal is the same guess as picking a DOI.
+- **120 DOIs are cited with an invented title.** The same defect one layer deeper: the
+  model reproduces the DOI and the title's stem, then makes up whatever follows the colon.
+  `10.37016/mr-2020-56` carries ten different subtitles across 37 citations. Neither
+  title-overlap clustering nor the metadata check can see it — a shared stem carries every
+  variant past any similarity threshold. `check_citations.py --titles` reports them; a
+  further 105 are mere truncations (one variant is a prefix of another), reported
+  separately. **Never repaired automatically** — a subtitle is exactly the kind of
+  plausible detail that is worth nothing unless it came from the registry, and the majority
+  spelling is evidence, not proof. Resolve from a machine that can reach Crossref.
 - **Gate 3 (manifest gate) is unbuilt.** `sources/manifest.ndjson` still records `ingested`
   even when page verification failed.
 
