@@ -91,6 +91,15 @@ Only four branches still hold unmerged commits:
 
 ### Known open work
 
+- **`scripts/resolve_citation_metadata.py` settles the three citation backlogs against
+  Crossref.** Run it from a machine with network (the harness droplet):
+  `--check` to report, `--apply` to write. It corrects a journal/volume/issue/page to the
+  registry's values and strips a DOI whose registry title matches no citation of it. It
+  never invents or searches for a replacement DOI, never touches anything when the lookup
+  fails (an outage is not a verdict), and never fills a field Crossref left empty — absent
+  means "the registry did not say", not "the wiki is wrong". The decision function
+  `decide()` is pure and unit-tested offline, including the containment trap that put a
+  Springer chapter's DOI on 69 pages.
 - **21 DOI collisions are open — one DOI asserted for two different papers.** Both
   directions are now detected: `check_citations.py` for one paper with two DOIs (97 open),
   and `check_citations.py --collisions` for one DOI on two papers (21 open). The second is
