@@ -70,8 +70,11 @@ def decide(cited: tuple, record: dict, cited_title: str = "") -> dict:
 
       "none"        the registry agrees, or said nothing about these fields
       "fix_meta"    the registry disagrees on a field it actually stated
-      "strip_doi"   the registry's title matches nothing this page claims,
-                    so the DOI belongs to a different paper
+      "fix_title"   the title disagrees but journal/volume/page corroborate
+                    the DOI, so the title is what was invented
+      "strip_doi"   the registry's title matches nothing this page claims AND
+                    the other coordinates do not corroborate it either, so the
+                    DOI belongs to a different paper
       "not_found"   Crossref has no record of the DOI — reported, never acted
                     on, since Crossref does not index every registrar
       "skip"        the lookup failed; an outage tells us nothing
@@ -100,6 +103,30 @@ def decide(cited: tuple, record: dict, cited_title: str = "") -> dict:
         if same and not cc.titles_align(cited_title, reg_title):
             same = False
         if not same:
+            # A title mismatch alone does not tell you WHICH side is wrong.
+            # strategies/student-shadowing... cites Cook-Sather (2006) "Sound,
+            # presence, and silence in education", Curriculum Inquiry 36(4)
+            # 359 — and the registry says the title is "Sound, Presence, and
+            # Power: 'Student Voice' in Educational Research and Reform" at
+            # exactly that journal, volume, issue and page. The DOI is right
+            # and the TITLE is the fabrication; stripping would delete the good
+            # data and keep the invented text.
+            #
+            # So weigh the other coordinates. Journal, volume and first page
+            # are independent of the title, and two of them agreeing with the
+            # registry is far better evidence of the same work than a subtitle
+            # the model is known to invent.
+            journal, vol, issue, page = cited
+            agree = sum([
+                bool(record.get("journal")) and _norm_journal(journal) == _norm_journal(record["journal"]),
+                bool(record.get("volume")) and str(vol) == str(record["volume"]),
+                bool(record.get("first_page")) and str(page) == str(record["first_page"]),
+            ])
+            if agree >= 2:
+                return {"action": "fix_title", "fields": {"title": reg_title},
+                        "why": f"title is wrong, not the DOI ({agree}/3 of journal, volume "
+                               f"and page match the registry): \"{cited_title[:45]}\" -> "
+                               f"\"{reg_title[:45]}\""}
             return {"action": "strip_doi", "fields": {},
                     "why": f"DOI resolves to \"{reg_title[:70]}\", not the cited work"}
 
@@ -239,7 +266,7 @@ def main() -> None:
             edits.setdefault(path, []).append((doi, d, record))
             print(f"  [{i}/{len(todo)}] {entry['source']}: {d['action']} — {d['why']}")
             prefix_ok[doi.partition("/")[0]] = prefix_ok.get(doi.partition("/")[0], 0) + 1
-            if d["action"] == "fix_meta":
+            if d["action"] in ("fix_meta", "fix_title"):
                 fixed += 1
             else:
                 stripped += 1
@@ -256,6 +283,15 @@ def main() -> None:
                         new = rewrite_line(line, d["fields"], record.get("pages"))
                         if new:
                             line = new
+                    elif d["action"] == "fix_title":
+                        year = None
+                        for e in by_doi[doi]:
+                            if e["source"] == str(path.relative_to(WIKI_ROOT)):
+                                year = e["key"].rsplit("-", 1)[-1]
+                                break
+                        old_t = cc._extract_title_text(line, year) if year else ""
+                        if old_t and old_t in line:
+                            line = line.replace(old_t, d["fields"]["title"], 1)
                     elif d["action"] == "strip_doi":
                         line = strip_doi_from_line(line, doi)
                 out.append(line)
