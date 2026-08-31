@@ -1,0 +1,16 @@
+# Review is required on the paths where a merge means code execution, not
+# content. A bad wiki page renders wrong and lint usually catches it; a bad
+# script runs on the harness droplet with the API keys in its environment,
+# and a bad workflow runs in CI with contents: write on this repo.
+#
+# The 3,700 content pages are deliberately NOT covered. They change hundreds
+# at a time in normal enrichment batches, and requiring review on those would
+# make the rule noise that gets clicked through — which is how a rule stops
+# protecting the paths that actually matter.
+
+/scripts/            @dsporcaro
+/deploy/             @dsporcaro
+/.github/            @dsporcaro
+/mkdocs.yml          @dsporcaro
+/requirements-docs.txt  @dsporcaro
+/CLAUDE.md           @dsporcaro

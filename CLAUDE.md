@@ -128,6 +128,11 @@ Only four branches still hold unmerged commits:
   separately. **Never repaired automatically** — a subtitle is exactly the kind of
   plausible detail that is worth nothing unless it came from the registry, and the majority
   spelling is evidence, not proof. Resolve from a machine that can reach Crossref.
+- **The three third-party GitHub Actions are pinned to mutable tags**, not commit SHAs:
+  `peaceiris/actions-gh-pages@v4` and `rossjrw/pr-preview-action@v1` (twice). A tag can be
+  repointed by whoever owns that repo, and `docs.yml` runs with `contents: write` on every
+  push to `main`. Resolve each tag to a SHA and pin it. Left undone rather than guessed:
+  a wrong SHA breaks CI, and an invented one is the same failure as an invented DOI.
 - **Gate 3 (manifest gate) is unbuilt.** `sources/manifest.ndjson` still records `ingested`
   even when page verification failed.
 
