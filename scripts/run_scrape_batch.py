@@ -34,6 +34,16 @@ sys.path.insert(0, str(WIKI_ROOT))
 
 from scripts.eval import discover_articles, fetch_article, scrape_report
 
+
+def eval_harness_safe_model_dirname(model: str) -> str:
+    """eval_harness.safe_model_dirname, imported lazily.
+
+    A module-level import of eval_harness would pull its whole dependency tree
+    (and its API clients) into a process that mostly does not need them — see
+    the _ConsoleTee note above for the same reasoning."""
+    from scripts.eval_harness import safe_model_dirname
+    return safe_model_dirname(model)
+
 RUNS_DIR = WIKI_ROOT / "eval" / "runs"
 SCRAPE_STATE_PATH = RUNS_DIR / ".scrape_state.json"
 SCRAPE_HISTORY_PATH = RUNS_DIR / ".scrape_history.json"
@@ -255,8 +265,18 @@ def run(args) -> None:
         state["status"] = "ingesting"
         _save_state(state)
         print(f"\n=== ingesting {args.label!r} results into wiki pages ===", flush=True)
+        # safe_model_dirname, not the raw slug. eval_harness writes results to
+        # eval/runs/<label>/<model with "/" -> "__">/, and ingest_extractions
+        # takes that DIRECTORY name. Passing "z-ai/glm-5.3-flash" made it look
+        # in eval/runs/<label>/z-ai/glm-5.3-flash — a path that never exists —
+        # so every dashboard scrape launched WITH a model got through discover,
+        # fetch and generate and then failed at ingest, having paid for the
+        # generation. Only a model slug with no "/" in it would have worked,
+        # and OpenRouter slugs all have one.
         ingest_cmd = [sys.executable, "-u", "scripts/ingest_extractions.py",
-                      "--run-id", args.label, "--model", args.model, "--by", "claude/unspecified"]
+                      "--run-id", args.label,
+                      "--model", eval_harness_safe_model_dirname(args.model),
+                      "--by", "process:wiki-ingest"]
         ingest_rc = _run_chained_step(ingest_cmd, SCRAPE_CONSOLE_LOG_PATH)
         if ingest_rc != 0:
             state["status"] = "error"
@@ -272,6 +292,69 @@ def run(args) -> None:
         # deploy/wiki-health-check.service) runs the full check including
         # DOI resolution independent of scraper activity, so nothing here
         # goes unchecked for more than a day.
+        # --- Post-ingest passes -------------------------------------------
+        # Fresh pages arrive with the citation defects this repo has spent
+        # weeks characterising: invented journal metadata, invented subtitles,
+        # families of near-identical DOIs, and DOIs belonging to another paper
+        # entirely. Leaving those to a manual pass means every batch lands
+        # dirty and someone has to remember. They run here.
+        #
+        # Order is not arbitrary. standardize fills a DOI only where Crossref
+        # confirms it resolves to the citation being edited; resolve then
+        # judges each page's own title and strips what belongs elsewhere;
+        # authorities applies verdicts a human already recorded, which outrank
+        # both. Running resolve before standardize leaves wrong DOIs on disk
+        # looking verified.
+        state["status"] = "validating"
+        _save_state(state)
+        for label, cmd in (
+            ("rebuilding indexes", ["scripts/build_indexes.py"]),
+            ("page-type banners", ["scripts/add_type_banner.py", "--apply"]),
+            ("filling agreed DOIs", ["scripts/standardize_citations.py", "--apply"]),
+            ("resolving against Crossref", ["scripts/resolve_citation_metadata.py", "--apply"]),
+            ("applying human authorities", ["scripts/apply_authorities.py", "--apply"]),
+        ):
+            print(f"\n=== {label} ===", flush=True)
+            rc = _run_chained_step([sys.executable, "-u", *cmd], SCRAPE_CONSOLE_LOG_PATH)
+            if rc != 0:
+                print(f"=== {label} exited {rc} — continuing; the verify step below "
+                      f"decides whether the tree is safe ===", flush=True)
+
+        # The hard stop. Every data-corruption bug this pipeline has shipped
+        # was a citation script matching a DOI instead of a citation and
+        # rewriting whatever line the DOI sat on — a frontmatter YAML key, a
+        # prose paragraph. All of it passed lint.py, because the results are
+        # valid YAML and plausible prose; the damage is a property of the DIFF,
+        # so no page-level check can see it. An unattended batch is precisely
+        # where that gets committed and forgotten, so this failing marks the
+        # whole batch as an error rather than letting it report "completed".
+        print(f"\n=== verifying every edit landed on a citation line ===", flush=True)
+        verify_rc = _run_chained_step(
+            [sys.executable, "-u", "scripts/verify_citation_edits.py"],
+            SCRAPE_CONSOLE_LOG_PATH)
+        if verify_rc != 0:
+            state["status"] = "error"
+            state["error_detail"] = (
+                "A citation pass edited a line that is not a citation — see the console "
+                "log for which. The working tree is left as it is; nothing was reverted. "
+                "Inspect those lines before committing anything from this batch.")
+            state["finished_at"] = _now()
+            _save_state(state)
+            print(f"=== scrape batch {args.label!r} STOPPED: edits landed off citation "
+                  f"lines (exit {verify_rc}) ===", flush=True)
+            return
+
+        print(f"\n=== lint ===", flush=True)
+        lint_rc = _run_chained_step([sys.executable, "-u", "scripts/lint.py"],
+                                     SCRAPE_CONSOLE_LOG_PATH)
+        if lint_rc != 0:
+            print(f"=== lint flagged issues (exit {lint_rc}) — see console log; not "
+                  f"treated as a batch failure ===", flush=True)
+
+        print(f"\n=== citation conflicts after this batch ===", flush=True)
+        _run_chained_step([sys.executable, "-u", "scripts/check_citations.py"],
+                          SCRAPE_CONSOLE_LOG_PATH)
+
         print(f"\n=== health check on {args.label!r}'s new pages ===", flush=True)
         health_cmd = [sys.executable, "-u", "scripts/wiki_health_check.py", "--skip-doi"]
         health_rc = _run_chained_step(health_cmd, SCRAPE_CONSOLE_LOG_PATH)
@@ -283,7 +366,8 @@ def run(args) -> None:
     state["finished_at"] = _now()
     _save_state(state)
     print(f"=== scrape batch {args.label!r} fully complete "
-          f"({'discover+fetch+generate+ingest' if args.model else 'discover+fetch'} done) ===", flush=True)
+          f"({'discover+fetch+generate+ingest+validate' if args.model else 'discover+fetch'} "
+          f"done) ===", flush=True)
 
 
 def main() -> None:
