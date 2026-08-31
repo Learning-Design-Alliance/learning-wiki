@@ -319,6 +319,7 @@ def append_manifest_entry(
     doi: str | None = None,
     reason: str | None = None,
     pages: list | None = None,
+    citations: dict | None = None,
 ) -> None:
     """Append one line to sources/manifest.ndjson — the append-only record of every
     source article the ingest pipeline has reviewed, ingested or rejected, so
@@ -331,6 +332,16 @@ def append_manifest_entry(
     to — required (non-empty) for "ingested", omitted for "rejected". `reason`
     is required for "rejected" (why it didn't contribute), omitted for
     "ingested".
+
+    `citations` records what the citation gate found on the pages this source
+    wrote — {"checked": bool, "removed": [...], "flagged": [...]}. Without it
+    an "ingested" line says only that the pages were structurally valid, which
+    is the weakest of the three gates and the one least likely to catch the
+    defects that actually occur: a DOI that resolves to the wrong paper, or a
+    correct DOI wearing an invented journal. "checked": false is written
+    deliberately when the gate could not run (no network) so a later audit can
+    tell an unverified ingest from a clean one, rather than both reading as a
+    bare "ingested".
     """
     import json
 
@@ -352,6 +363,8 @@ def append_manifest_entry(
         entry["reason"] = reason
     else:
         entry["pages"] = pages
+        if citations is not None:
+            entry["citations"] = citations
 
     manifest_path = WIKI_ROOT / "sources" / "manifest.ndjson"
     manifest_path.parent.mkdir(exist_ok=True)

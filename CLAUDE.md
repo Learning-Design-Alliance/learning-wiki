@@ -133,8 +133,13 @@ Only four branches still hold unmerged commits:
   runs with `contents: write` on every push to `main`. When bumping one, resolve the new
   tag with `git ls-remote https://github.com/<owner>/<repo> refs/tags/<tag>` and paste the
   SHA it prints. Do not write a SHA from memory or from a changelog.
-- **Gate 3 (manifest gate) is unbuilt.** `sources/manifest.ndjson` still records `ingested`
-  even when page verification failed.
+- **Gate 3 is built.** `sources/manifest.ndjson` entries now carry a `citations` object —
+  `{checked, crossref_reachable, removed, flagged}` — so `ingested` no longer means only
+  "structurally valid", which was the weakest of the three gates and the one least likely
+  to catch what actually goes wrong. `crossref_reachable: false` is recorded separately
+  from `flagged` on purpose: an outage is not a finding, and conflating them would both
+  fill the manifest with noise during a blip and make a clean ingest during an outage
+  indistinguishable from a dirty one.
 
 ---
 
@@ -385,6 +390,8 @@ Each folder's `index.md` is itself a reserved OKF filename: no frontmatter (exce
 ```
 
 Fields: `id` (source identifier — the ERIC/PMC/arXiv id from the automated pipeline, or `doi:<doi>` / a URL for manually-ingested articles), `title`, `doi` (nullable), `reviewed_at` (ISO date), `status` (`"ingested"` or `"rejected"`), and either `pages` (bundle-relative paths the source contributed to, for `"ingested"`) or `reason` (why it didn't contribute, for `"rejected"`).
+
+`"ingested"` entries also carry `citations`: `{checked, crossref_reachable, removed, flagged}` — what the citation gate found on the pages that source wrote. `removed` lists DOIs stripped because they resolved to the wrong paper; `flagged` lists findings left for a human (a DOI on two papers, invented journal metadata, an invented title). `crossref_reachable: false` means the network check could not run, so that line is an *unverified* ingest rather than a clean one — never read a bare `"ingested"` as "citations were checked".
 
 **Always append via the helper, never hand-edit the file:**
 
