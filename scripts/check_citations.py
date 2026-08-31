@@ -492,6 +492,69 @@ def format_metadata_report(results: list[dict]) -> str:
     return "\n".join(lines)
 
 
+def find_title_divergence(by_doi: dict, touched_files: set = None) -> list[dict]:
+    """DOIs cited with more than one distinct title.
+
+    The third and largest layer of the same defect. The model reproduces a
+    paper's DOI and the *stem* of its title reliably, then invents whatever
+    follows the colon. 10.37016/mr-2020-56 is cited 37 times as "Lateral
+    reading and the nature of expertise: ..." with ten different subtitles —
+    "reading less and learning more when evaluating digital information",
+    "the studies of professional fact-checkers", "the ability of historians to
+    evaluate digital sources is limited", and seven more.
+
+    Neither existing check sees it. find_doi_collisions clusters by title-word
+    overlap, and a shared stem carries these far past the 0.35 threshold, so
+    all ten land in one cluster and report as one paper.
+    find_metadata_divergence only ever looks at the journal string.
+
+    `severity` is "truncation" when every variant is a prefix of the longest —
+    someone dropped the subtitle, which loses detail but asserts nothing false
+    — and "conflict" otherwise, where at least one subtitle was invented.
+
+    Reported, never repaired. The majority spelling is *evidence* about the
+    real title but not proof of it, and a subtitle is exactly the kind of
+    plausible-sounding detail that is worth nothing unless it came from the
+    registry. Resolve from a machine that can reach Crossref."""
+    results = []
+    for doi, entries in sorted(by_doi.items()):
+        if touched_files and not any(e["source"] in touched_files for e in entries):
+            continue
+        variants = defaultdict(list)
+        for e in entries:
+            year = e["key"].rsplit("-", 1)[-1]
+            norm = _norm_title(_extract_title_text(e["line"], year))
+            if norm:
+                variants[norm].append(e)
+        if len(variants) < 2:
+            continue
+        ordered = sorted(variants.items(), key=lambda kv: -len(kv[1]))
+        longest = max(variants, key=len)
+        severity = ("truncation" if all(longest.startswith(v) for v in variants)
+                    else "conflict")
+        results.append({"doi": doi, "severity": severity, "variants": ordered})
+    return results
+
+
+def format_title_report(results: list[dict]) -> str:
+    if not results:
+        return "No title divergence found — every DOI is cited with one title."
+    conflicts = [r for r in results if r["severity"] == "conflict"]
+    trunc = [r for r in results if r["severity"] == "truncation"]
+    lines = [f"{len(conflicts)} DOI(s) cited with conflicting titles, "
+             f"{len(trunc)} with a truncated variant only:\n"]
+    for r in sorted(conflicts, key=lambda r: -len(r["variants"])) + trunc:
+        tag = "CONFLICT" if r["severity"] == "conflict" else "truncation"
+        lines.append(f"## {r['doi']}  ({tag}, {len(r['variants'])} variants)")
+        for v, es in r["variants"]:
+            lines.append(f"  {len(es):4}x  {v[:100]}")
+            if len(es) <= 2:
+                for e in es:
+                    lines.append(f"          {e['source']}")
+        lines.append("")
+    return "\n".join(lines)
+
+
 def format_report(conflicts: list[dict]) -> str:
     if not conflicts:
         return "No citation conflicts found."
@@ -518,11 +581,19 @@ def main() -> None:
     parser.add_argument("--metadata", action="store_true",
                         help="Report DOIs whose citations disagree about journal, volume, "
                              "issue or pages (see find_metadata_divergence)")
+    parser.add_argument("--titles", action="store_true",
+                        help="Report DOIs cited with more than one distinct title "
+                             "(see find_title_divergence)")
     args = parser.parse_args()
 
     page_types = PAGE_TYPES if args.files else ((args.type,) if args.type else PAGE_TYPES)
     by_key = load_all_citations(page_types)
     touched = set(args.files) if args.files else None
+
+    if args.titles:
+        results = find_title_divergence(load_by_doi(by_key), touched)
+        print(format_title_report(results))
+        sys.exit(0 if not any(r["severity"] == "conflict" for r in results) else 1)
 
     if args.metadata:
         results = find_metadata_divergence(load_by_doi(by_key), touched)

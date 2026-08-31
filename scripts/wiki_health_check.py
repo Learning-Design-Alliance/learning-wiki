@@ -144,7 +144,15 @@ def run(skip_doi: bool = False) -> dict:
     # to find_conflicts, which groups by author+year and so can only compare
     # citations that already agree on both — which is precisely why the wrong
     # Bandura DOI sat on 69 pages with every page agreeing with every other.
-    doi_collisions = cc.find_doi_collisions(cc.load_by_doi(all_citations))
+    _by_doi = cc.load_by_doi(all_citations)
+    doi_collisions = cc.find_doi_collisions(_by_doi)
+    # Fabricated bibliographic detail wrapped around a correct DOI: an invented
+    # journal/volume/page, or an invented subtitle. Both validate cleanly
+    # against every DOI check there is, which is what makes them dangerous.
+    meta_conflicts = [d for d in cc.find_metadata_divergence(_by_doi)
+                      if d["severity"] == "conflict"]
+    title_conflicts = [d for d in cc.find_title_divergence(_by_doi)
+                       if d["severity"] == "conflict"]
     collisions = fcfd.find_collisions()
     self_referential = fcfd.find_self_referential(collisions)
     needs_judgment = {slug: folders for slug, folders in collisions.items() if slug not in self_referential}
@@ -160,6 +168,8 @@ def run(skip_doi: bool = False) -> dict:
         "lint": {name: len(issues) for name, issues in lint_results.items()},
         "citation_conflicts": len(citation_conflicts),
         "doi_collisions": len(doi_collisions),
+        "metadata_conflicts": len(meta_conflicts),
+        "title_conflicts": len(title_conflicts),
         "doi_issues": len(doi_issues),
         "doi_skipped": skip_doi,  # so a consumer can tell "0 problems" apart from "not checked this run"
         "title_duplicates": title_duplicate_count,
@@ -171,6 +181,8 @@ def run(skip_doi: bool = False) -> dict:
             "lint": lint_results,
             "citation_conflicts": citation_conflicts,
             "doi_collisions": doi_collisions,
+            "metadata_conflicts": meta_conflicts,
+            "title_conflicts": title_conflicts,
             "doi_issues": doi_issues,
             "self_referential": self_referential,
             # {slug: [folders]} — the collisions NOT auto-resolved by the
@@ -203,6 +215,10 @@ def format_report(result: dict) -> str:
         f"- Citation conflicts (one paper, two DOIs): {result['citation_conflicts']}",
         f"- DOI collisions (one DOI, two papers): {result.get('doi_collisions', 0)} "
         f"— run `check_citations.py --collisions` for the list",
+        f"- Fabricated journal metadata (right DOI, invented journal/volume/pages): "
+        f"{result.get('metadata_conflicts', 0)} — `check_citations.py --metadata`",
+        f"- Fabricated titles (right DOI, invented subtitle): "
+        f"{result.get('title_conflicts', 0)} — `check_citations.py --titles`",
         f"- Near-duplicate title pairs (same folder): {result['title_duplicates']} "
         f"— run `find_title_duplicates.py` for the list",
         f"- DOI resolution problems: {result['doi_issues']}",
@@ -322,7 +338,8 @@ def main() -> None:
         print(report)
 
     total_issues = (sum(result["lint"].values()) + result["citation_conflicts"]
-                     + result["doi_collisions"]
+                     + result["doi_collisions"] + result["metadata_conflicts"]
+                     + result["title_conflicts"]
                      + result["doi_issues"] + result["cross_folder_needs_judgment"])
     sys.exit(0 if not total_issues else 1)
 

@@ -520,6 +520,24 @@ def verify_page_citations(path: Path, apply: bool = True) -> list[dict]:
               f"{maj[0]} {maj[1]}({maj[2]}), {maj[3]} — run "
               f"scripts/fix_citation_metadata.py --check", file=sys.stderr)
 
+    # Invented subtitles. The model reproduces a DOI and a title's stem
+    # reliably and then makes up whatever follows the colon — one DOI here
+    # carries ten different subtitles. Title-overlap clustering cannot see it,
+    # because a shared stem carries the variants past every similarity
+    # threshold.
+    try:
+        titles = cc.find_title_divergence(cc.load_by_doi(cc.load_all_citations()), {rel})
+    except Exception as e:
+        print(f"  [title check skipped: {e}]", file=sys.stderr)
+        titles = []
+    for d in titles:
+        if d["severity"] != "conflict":
+            continue          # a dropped subtitle loses detail, asserts nothing false
+        print(f"  [citation title] {rel}: {d['doi']} is cited with "
+              f"{len(d['variants'])} different titles across the wiki; most common is "
+              f"\"{d['variants'][0][0][:70]}\" — verify against Crossref before trusting "
+              f"this page's version", file=sys.stderr)
+
     return removals
 
 
