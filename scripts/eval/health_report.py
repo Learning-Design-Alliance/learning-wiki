@@ -75,10 +75,14 @@ def _type_bar(page_type: str, counts: dict) -> str:
     total = counts["total"]
     draft = counts["draft"]
     todo = counts["todo"]
-    # "needs work" here is an upper-bound estimate (draft + todo can
-    # double-count the same page) — good enough for a bar's visual
-    # proportion, unlike count_total_incomplete_pages()'s exact union count.
-    needs_work = min(total, draft + todo)
+    # The exact union, counted once per page by count_incomplete_pages().
+    # This used to be min(total, draft + todo) — an upper bound justified as
+    # "good enough for a bar's visual proportion" — but draft and todo overlap
+    # almost completely on claim pages, so the sum overflowed the total, the
+    # clamp pinned it at total, and the bar rendered 0/422 complete for a
+    # folder with 29 pages in review. An approximation that reports zero where
+    # the answer is not zero is not good enough for a bar either.
+    needs_work = counts.get("incomplete", min(total, draft + todo))
     clean = max(0, total - needs_work)
     pct_clean = round(100 * clean / total) if total else 100
     return f"""
@@ -243,7 +247,8 @@ def _judgment_section(result: dict) -> str:
 def render_html(result: dict) -> str:
     lint_total = sum(result["lint"].values())
     doi_display = "skipped" if result.get("doi_skipped") else str(result["doi_issues"])
-    total_incomplete = sum(min(c["total"], c["draft"] + c["todo"]) for c in result["incomplete_pages"].values())
+    total_incomplete = sum(c.get("incomplete", min(c["total"], c["draft"] + c["todo"]))
+                           for c in result["incomplete_pages"].values())
 
     tiles = "".join([
         _stat_tile("Lint issues", lint_total, warn=lint_total > 0),

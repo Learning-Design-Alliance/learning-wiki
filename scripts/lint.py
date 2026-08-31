@@ -198,6 +198,42 @@ def check_dead_anchors(pages: dict[str, Path]) -> list[dict]:
     return issues
 
 
+# A conflicted merge leaves these at the start of a line. Anchored to line
+# start so a page that legitimately discusses the markers in prose or inside
+# a fenced code block (this wiki documents git workflow in places) is not
+# flagged for mentioning them mid-sentence.
+MERGE_MARKER_RE = re.compile(r"^(<{7}|={7}|>{7})(\s|$)", re.M)
+
+
+def check_merge_markers(pages: dict[str, Path]) -> list[dict]:
+    """Unresolved VCS conflict markers left in a page.
+
+    Nothing was looking for these, and the gap is not theoretical: a
+    `git stash pop` on the droplet conflicted in one claim page, and this
+    script then reported "Total issues: 0" with `<<<<<<<` sitting in the file.
+    A page in that state renders the markers as literal text on the site and
+    silently carries both versions of whatever was in conflict.
+
+    The `[Conflicts]` check next door is about competing claims between pages,
+    not merge conflicts, which makes its OK line actively misleading here."""
+    issues = []
+    for slug, path in pages.items():
+        if "/" in slug:
+            continue
+        text = path.read_text(encoding="utf-8")
+        hits = MERGE_MARKER_RE.findall(text)
+        if hits:
+            first = MERGE_MARKER_RE.search(text)
+            line_no = text[:first.start()].count("\n") + 1
+            issues.append({
+                "file": str(path.relative_to(WIKI_ROOT)),
+                "type": "merge_conflict_markers",
+                "detail": f"{len(hits)} unresolved conflict marker(s), first at line {line_no} "
+                          f"— resolve the merge before committing",
+            })
+    return issues
+
+
 def check_draft_no_description(pages: dict[str, Path]) -> list[dict]:
     issues = []
     for slug, path in pages.items():
@@ -477,7 +513,7 @@ def auto_promote(pages: dict[str, Path], all_issues: list[dict], dry_run: bool =
 def main():
     parser = argparse.ArgumentParser(description="Lint the ld-wiki")
     parser.add_argument("--fix", action="store_true", help="Auto-promote clean draft pages to review")
-    parser.add_argument("--type", choices=["broken_links", "dead_anchors", "drafts", "claims", "principles", "conflicts", "trust", "manifest", "type_banner", "all"],
+    parser.add_argument("--type", choices=["broken_links", "dead_anchors", "merge_markers", "drafts", "claims", "principles", "conflicts", "trust", "manifest", "type_banner", "all"],
                         default="all", help="Which checks to run")
     args = parser.parse_args()
 
@@ -489,6 +525,7 @@ def main():
     checks = {
         "broken_links":  check_broken_links,
         "dead_anchors":  check_dead_anchors,
+        "merge_markers": check_merge_markers,
         "drafts":        check_draft_no_description,
         "claims":        check_claims_missing_evidence,
         "principles":    check_principles_missing_claims,

@@ -67,17 +67,26 @@ def count_incomplete_pages() -> dict:
         folder = WIKI_ROOT / page_type
         if not folder.exists():
             continue
-        draft = todo = total = 0
+        draft = todo = incomplete = total = 0
         for path in folder.glob("*.md"):
             if path.stem == "index":
                 continue
             total += 1
             text = path.read_text(encoding="utf-8")
-            if "status: draft" in text:
-                draft += 1
-            if "<!-- TODO -->" in text:
-                todo += 1
-        counts[page_type] = {"total": total, "draft": draft, "todo": todo}
+            is_draft = "status: draft" in text
+            has_todo = "<!-- TODO -->" in text
+            draft += is_draft
+            todo += has_todo
+            # The union, per type. draft and todo overlap heavily — every one
+            # of the 311 claim pages carrying a TODO is also status: draft —
+            # so draft + todo double-counts. Consumers clamped that sum with
+            # min(total, ...), which turned the overlap into a claims bar
+            # reading 0/422 complete when 29 claim pages are actually in
+            # review. Counting the union once here removes the need to
+            # approximate downstream.
+            incomplete += (is_draft or has_todo)
+        counts[page_type] = {"total": total, "draft": draft, "todo": todo,
+                             "incomplete": incomplete}
     return counts
 
 
@@ -108,6 +117,7 @@ def run(skip_doi: bool = False) -> dict:
     lint_checks = {
         "broken_links": lint.check_broken_links,
         "dead_anchors": lint.check_dead_anchors,
+        "merge_markers": lint.check_merge_markers,
         "drafts": lint.check_draft_no_description,
         "claims": lint.check_claims_missing_evidence,
         "principles": lint.check_principles_missing_claims,
