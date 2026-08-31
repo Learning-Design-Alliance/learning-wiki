@@ -286,6 +286,79 @@ def find_conflicts(by_key: dict, touched_files: set = None) -> list[dict]:
     return conflicts
 
 
+def load_by_doi(by_key: dict) -> dict:
+    """Invert the corpus: {normalised DOI -> [citation, ...]}."""
+    by_doi = defaultdict(list)
+    for entries in by_key.values():
+        for e in entries:
+            if e["doi"]:
+                by_doi[e["doi"]].append(e)
+    return by_doi
+
+
+def find_doi_collisions(by_doi: dict, touched_files: set = None) -> list[dict]:
+    """Return DOIs that are attached to what look like *different papers*.
+
+    This is the opposite direction from find_conflicts, and the more dangerous
+    one. find_conflicts groups by author+year and asks "does this one paper
+    carry two DOIs?" — it can only ever compare citations that already agree on
+    author and year, so a DOI copied onto an unrelated work is invisible to it.
+    That is exactly how 10.1007/978-1-4684-7562-3_3 ("Model of Causality in
+    Social Learning Theory") ended up asserted as Bandura (1977) on 69 pages:
+    every page agreed with every other, because they had all copied the same
+    wrong DOI. Only a manual audit caught it.
+
+    Two signals, either of which is enough:
+
+      * the entries split into more than one title cluster (_same_paper), or
+      * they disagree on first author or year *and* their titles are not
+        word-for-word the same.
+
+    The second exists because title clustering is a similarity judgment and
+    0.35 Jaccard is loose: Zoogman et al. (2015) "Mindfulness interventions
+    with youth" and Zoogman et al. (2019) "Mindfulness-based interventions for
+    youth" — different author lists, different papers — overlap far too much to
+    separate on title alone, so clustering alone would miss them.
+
+    The identical-title escape clause is what keeps that signal usable.
+    CITATION_KEY_RE reads the first "Surname, ... (year)" in the line, which on
+    a book chapter is often the *editor* rather than the author, and on a line
+    carrying two years picks the wrong one — so the same citation, copied
+    verbatim onto two pages, can yield sugai-2009 on one and horner-2005 on the
+    other. Those are artifacts of key extraction, not disagreements about the
+    work: if the two lines state the same title, they are the same paper
+    whatever the key says. Without this clause the check reports 44 collisions,
+    most of them that artifact, and a check that mostly cries wolf gets ignored.
+
+    A DOI cited for one paper across many pages — the normal case — is silent."""
+    collisions = []
+    for doi, entries in sorted(by_doi.items()):
+        if len(entries) < 2:
+            continue
+        if touched_files and not any(e["source"] in touched_files for e in entries):
+            continue
+        clusters = _cluster_by_title(entries)
+        keys = {e["key"] for e in entries}
+        titles = {frozenset(e["title_words"]) for e in entries}
+        if len(clusters) > 1 or (len(keys) > 1 and len(titles) > 1):
+            collisions.append({"doi": doi, "clusters": clusters, "keys": keys})
+    return collisions
+
+
+def format_collision_report(collisions: list[dict]) -> str:
+    if not collisions:
+        return "No DOI collisions found — every DOI is cited for one paper."
+    lines = [f"{len(collisions)} DOI(s) attached to more than one paper:\n"]
+    for c in collisions:
+        lines.append(f"## {c['doi']}")
+        for i, cluster in enumerate(c["clusters"], 1):
+            lines.append(f"  paper {i}:")
+            for e in cluster:
+                lines.append(f"    - {e['source']}: {e['line']}")
+        lines.append("")
+    return "\n".join(lines)
+
+
 def format_report(conflicts: list[dict]) -> str:
     if not conflicts:
         return "No citation conflicts found."
@@ -306,11 +379,20 @@ def main() -> None:
                         help="Only report conflicts touching these bundle-relative files "
                              "(the corpus scanned is still the whole wiki, so a conflict "
                              "against an older unrelated page is still caught)")
+    parser.add_argument("--collisions", action="store_true",
+                        help="Report the other direction instead: DOIs asserted for more "
+                             "than one paper (see find_doi_collisions)")
     args = parser.parse_args()
 
     page_types = PAGE_TYPES if args.files else ((args.type,) if args.type else PAGE_TYPES)
     by_key = load_all_citations(page_types)
     touched = set(args.files) if args.files else None
+
+    if args.collisions:
+        collisions = find_doi_collisions(load_by_doi(by_key), touched)
+        print(format_collision_report(collisions))
+        sys.exit(0 if not collisions else 1)
+
     conflicts = find_conflicts(by_key, touched)
     print(format_report(conflicts))
     sys.exit(0 if not conflicts else 1)

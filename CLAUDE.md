@@ -91,15 +91,14 @@ Only four branches still hold unmerged commits:
 
 ### Known open work
 
-- **`check_citations.py` only detects one direction of citation conflict.** It groups by
-  first author + year and flags *one paper with two DOIs*. It cannot see *one DOI on two
-  different papers*, which is the more dangerous direction and exactly the Bandura failure
-  (`10.1007/978-1-4684-7562-3_3` on 69 pages). Live example:
-  `10.1111/j.1467-7687.2008.00714.x` is attached to Siegler & Ramani (2008) in
-  *Developmental Science* on `strategies/math_games.md` and to a different Siegler & Ramani
-  (2008) in *Child Development* on `strategies/numbers_to_100.md`. Needs Crossref to
-  resolve, so `strategies/estimation-warm-ups.md` cites that source without a DOI rather
-  than picking a side.
+- **21 DOI collisions are open — one DOI asserted for two different papers.** Both
+  directions are now detected: `check_citations.py` for one paper with two DOIs (97 open),
+  and `check_citations.py --collisions` for one DOI on two papers (21 open). The second is
+  the Bandura direction, and it is reported rather than auto-fixed on purpose — deciding
+  which side of a pair is wrong needs Crossref, and picking blind is how the wrong one
+  becomes canonical. Worst live case: `10.1177/001440290707300301` is on Konrad et al.
+  (2007) self-determination *and* Bellini & Akullian (2007) video modelling, two unrelated
+  papers. Resolve these from a machine that can reach Crossref.
 - **The 13 refilled strategy pages assert DOIs written before the Crossref gate existed.**
   `#19` states it corroborated DOIs against existing repo usage rather than against Crossref,
   because that worktree had no network. Re-run `scripts/check_citations.py` over
