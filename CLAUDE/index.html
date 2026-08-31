@@ -1497,6 +1497,29 @@ routinely holds real uncommitted work, and keying on HEAD would call all of it i
   registrants, one of which may sit outside Crossref, so "some other DOI for this paper
   resolves" is <em>not</em> sufficient. Run it from the droplet; this sandbox cannot reach
   Crossref.</li>
+<li><strong>Run <code>scripts/verify_citation_edits.py</code> after any citation tool writes, before you
+  commit.</strong> Every data-corruption bug this pipeline has had was the same shape — a script
+  matching a <em>DOI</em> instead of a <em>citation</em>, and editing whatever line the DOI happened to
+  appear on. It has now happened three times: <code>strip_doi_from_line</code> removed a correct DOI
+  from a page that cited two works under one DOI; <code>apply_authorities</code> did the same
+  file-wide; and <code>fix_title</code> overwrote a frontmatter YAML key with a paper's title
+  (leaving a <code>sources</code> entry keyed <code>DeFT</code> and no <code>resource</code> field) and replaced a whole
+  prose paragraph on <code>strategies/explicit_instruction-spelling.md</code> with a registry title,
+  taking the sentence and the opening of a markdown link with it. <strong>All three shipped, and
+  <code>lint.py</code> reported zero on all three</strong> — the results are valid YAML, valid markdown and
+  plausible prose. The damage is only visible as "this edit landed somewhere an edit had
+  no business landing", which is a property of the <em>diff</em>, so no page-level check can see
+  it. <code>verify_citation_edits.py</code> reports every changed line that is not a citation line
+  and exits 1. It is a guard for tool runs, not a lint check — editing prose by hand will
+  and should trip it.</li>
+<li><strong>Never branch a droplet run off whatever branch happens to be checked out.</strong> A run on
+  <code>fix/fill-agreed-dois</code> was branched from <code>fix/crossref-citation-corrections</code> rather than
+  <code>main</code>, so every script executed at its pre-#45 version: no case-insensitive DOI
+  stripping, <code>have[0]</code> sampling instead of majority-title, and no <code>log_authority.py</code> at
+  all. The results looked plausible and the PR diff looked clean, because the missing
+  commits were already merged into <code>main</code> and so did not appear in a three-dot diff.
+  <code>git checkout main &amp;&amp; git pull</code> first, every time, and check <code>git merge-base</code> if a run's
+  numbers look unexpectedly small.</li>
 <li><strong>Third-party Actions are pinned to commit SHAs, with the tag in a trailing comment.</strong>
   A tag is mutable — whoever owns that repo can repoint <code>@v4</code> at anything — and <code>docs.yml</code>
   runs with <code>contents: write</code> on every push to <code>main</code>. When bumping one, resolve the new
@@ -1790,6 +1813,7 @@ indexes with <code>python3 scripts/build_indexes.py</code>.</p>
     add_type_banner.py ← inserts/refreshes the page-type banner under each page's H1 (see below)
     update_links_for_renames.py ← after pages are renamed, re-points every inbound cross-link (see below)
     lint.py            ← health-check (see Lint above)
+    verify_citation_edits.py ← after a citation tool writes: did it edit only citations? (see above)
 </code></pre></div>
 <p>Each folder's <code>index.md</code> is itself a reserved OKF filename: no frontmatter (except the bundle-root's <code>okf_version</code>), and a plain <code>* [Title](slug.md) - description</code> bullet listing grouped by status. Regenerate these with <code>python3 scripts/build_indexes.py</code> rather than hand-editing them.</p>
 <hr />
