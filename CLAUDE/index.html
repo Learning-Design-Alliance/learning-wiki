@@ -1378,8 +1378,13 @@ not push to them, do not reopen a PR from them:</p>
   runs with <code>contents: write</code> on every push to <code>main</code>. When bumping one, resolve the new
   tag with <code>git ls-remote https://github.com/&lt;owner&gt;/&lt;repo&gt; refs/tags/&lt;tag&gt;</code> and paste the
   SHA it prints. Do not write a SHA from memory or from a changelog.</li>
-<li><strong>Gate 3 (manifest gate) is unbuilt.</strong> <code>sources/manifest.ndjson</code> still records <code>ingested</code>
-  even when page verification failed.</li>
+<li><strong>Gate 3 is built.</strong> <code>sources/manifest.ndjson</code> entries now carry a <code>citations</code> object —
+  <code>{checked, crossref_reachable, removed, flagged}</code> — so <code>ingested</code> no longer means only
+  "structurally valid", which was the weakest of the three gates and the one least likely
+  to catch what actually goes wrong. <code>crossref_reachable: false</code> is recorded separately
+  from <code>flagged</code> on purpose: an outage is not a finding, and conflating them would both
+  fill the manifest with noise during a blip and make a clean ingest during an outage
+  indistinguishable from a dirty one.</li>
 </ul>
 <hr />
 <h2 id="three-core-operations">Three core operations<a class="headerlink" href="#three-core-operations" title="Permanent link">&para;</a></h2>
@@ -1670,6 +1675,7 @@ indexes with <code>python3 scripts/build_indexes.py</code>.</p>
 <span class="p">{</span><span class="nt">"id"</span><span class="p">:</span><span class="w"> </span><span class="s2">"eric-ed616622"</span><span class="p">,</span><span class="w"> </span><span class="nt">"title"</span><span class="p">:</span><span class="w"> </span><span class="s2">"A Bibliography of Cognitive Information Processing Theory, Research, and Practice"</span><span class="p">,</span><span class="w"> </span><span class="nt">"doi"</span><span class="p">:</span><span class="w"> </span><span class="kc">null</span><span class="p">,</span><span class="w"> </span><span class="nt">"reviewed_at"</span><span class="p">:</span><span class="w"> </span><span class="s2">"2026-08-27"</span><span class="p">,</span><span class="w"> </span><span class="nt">"status"</span><span class="p">:</span><span class="w"> </span><span class="s2">"rejected"</span><span class="p">,</span><span class="w"> </span><span class="nt">"reason"</span><span class="p">:</span><span class="w"> </span><span class="s2">"matched the search topic on keyword overlap only, but the source is a career/vocational-counseling bibliography, not a learning-science theory; out of scope for this wiki"</span><span class="p">}</span>
 </code></pre></div>
 <p>Fields: <code>id</code> (source identifier — the ERIC/PMC/arXiv id from the automated pipeline, or <code>doi:&lt;doi&gt;</code> / a URL for manually-ingested articles), <code>title</code>, <code>doi</code> (nullable), <code>reviewed_at</code> (ISO date), <code>status</code> (<code>"ingested"</code> or <code>"rejected"</code>), and either <code>pages</code> (bundle-relative paths the source contributed to, for <code>"ingested"</code>) or <code>reason</code> (why it didn't contribute, for <code>"rejected"</code>).</p>
+<p><code>"ingested"</code> entries also carry <code>citations</code>: <code>{checked, crossref_reachable, removed, flagged}</code> — what the citation gate found on the pages that source wrote. <code>removed</code> lists DOIs stripped because they resolved to the wrong paper; <code>flagged</code> lists findings left for a human (a DOI on two papers, invented journal metadata, an invented title). <code>crossref_reachable: false</code> means the network check could not run, so that line is an <em>unverified</em> ingest rather than a clean one — never read a bare <code>"ingested"</code> as "citations were checked".</p>
 <p><strong>Always append via the helper, never hand-edit the file:</strong></p>
 <div class="highlight"><pre><span></span><code>python3<span class="w"> </span>scripts/log_source_review.py<span class="w"> </span>--id<span class="w"> </span><span class="s2">"doi:10.1234/example"</span><span class="w"> </span>--title<span class="w"> </span><span class="s2">"Article Title"</span><span class="w"> </span><span class="se">\</span>
 <span class="w">  </span>--status<span class="w"> </span>ingested<span class="w"> </span>--pages<span class="w"> </span>claims/foo.md<span class="w"> </span>elements/bar.md
