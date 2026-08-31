@@ -778,6 +778,17 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#citation-authorities-the-humans-side-of-the-record" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Citation Authorities — the human's side of the record
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#page-templates" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1120,6 +1131,17 @@
     <span class="md-ellipsis">
       
         Source Manifest
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#citation-authorities-the-humans-side-of-the-record" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Citation Authorities — the human's side of the record
       
     </span>
   </a>
@@ -1757,6 +1779,7 @@ indexes with <code>python3 scripts/build_indexes.py</code>.</p>
   claims/            ← empirical claims with evidence
   sources/           ← bibliographic source pages (optional; most citations live inline in Key Sources / Evidence)
     manifest.ndjson    ← append-only log of every source reviewed, ingested or rejected (see Source Manifest below)
+    authorities.ndjson ← append-only log of citations a HUMAN verified against the real source (see Citation Authorities below)
   scripts/
     okf_lib.py         ← shared OKF helpers (frontmatter parse/dump, link conversion, actor formatting)
     ingest.py          ← CSV → wiki pages batch ingest
@@ -1792,6 +1815,53 @@ grep<span class="w"> </span>-i<span class="w"> </span><span class="s1">'"title":
 python3<span class="w"> </span>-c<span class="w"> </span><span class="s2">"import json,sys; [print(l) for l in map(json.loads, open('sources/manifest.ndjson')) if l['status']=='rejected']"</span>
 </code></pre></div>
 <p>Known gap: the CSV batch-import path (<code>scripts/ingest.py</code>, reading external <code>~/research_briefs/*.csv</code> files) doesn't write to the manifest — those rows have no natural per-article identity to key an entry on.</p>
+<hr />
+<h2 id="citation-authorities-the-humans-side-of-the-record">Citation Authorities — the human's side of the record<a class="headerlink" href="#citation-authorities-the-humans-side-of-the-record" title="Permanent link">&para;</a></h2>
+<p><code>sources/authorities.ndjson</code> is where a <strong>person</strong> records what they checked against
+the real source: the publisher's page, the book in hand, the article's own PDF. It is
+append-only NDJSON like <code>manifest.ndjson</code>, keyed by the same author-year key
+<code>check_citations.py</code> uses.</p>
+<p>It exists because every automated check in this repo verifies against Crossref, and
+Crossref can only see what it indexes. <strong>2,493 of the wiki's 12,893 citations — 1,232
+distinct author-year keys — carry no DOI and no journal metadata at all.</strong> They are
+books, and all five checks are structurally blind to them: every one needs two variants
+of something to compare, and a book citation offers nothing to compare. Nothing has ever
+verified that Ambrose et al. (2010) is <em>How Learning Works</em>, Jossey-Bass,
+ISBN 978-0-470-61760-1. No lookup would say so. A person can.</p>
+<div class="highlight"><pre><span></span><code>python3<span class="w"> </span>scripts/log_authority.py<span class="w"> </span>--key<span class="w"> </span>ambrose-2010<span class="w"> </span>--by<span class="w"> </span>human:david<span class="w"> </span><span class="se">\</span>
+<span class="w">  </span>--title<span class="w"> </span><span class="s2">"How Learning Works: Seven Research-Based Principles for Smart Teaching"</span><span class="w"> </span><span class="se">\</span>
+<span class="w">  </span>--publisher<span class="w"> </span><span class="s2">"Jossey-Bass"</span><span class="w"> </span>--isbn<span class="w"> </span><span class="m">978</span>-0-470-61760-1<span class="w"> </span>--url<span class="w"> </span>https://www.wiley.com/...<span class="w"> </span><span class="se">\</span>
+<span class="w">  </span>--note<span class="w"> </span><span class="s2">"Verified against the Wiley product page."</span>
+
+python3<span class="w"> </span>scripts/apply_authorities.py<span class="w"> </span>--check<span class="w">     </span><span class="c1"># then --apply</span>
+python3<span class="w"> </span>scripts/citation_worklist.py<span class="w">             </span><span class="c1"># what to look at next, ranked</span>
+</code></pre></div>
+<p>Four things about it that are deliberate:</p>
+<ul>
+<li><strong>An agent must never author one.</strong> <code>append_authority()</code> refuses any <code>verified.by</code> that
+  is not <code>human:&lt;id&gt;</code>, for the same reason CLAUDE.md forbids an agent adding a page's
+  <code>verified:</code> entry because the page looks complete. A machine-written "authority" is
+  just another unverified assertion wearing a badge that says otherwise.</li>
+<li><strong><code>"doi": null</code> is a verdict; an absent <code>doi</code> field is not.</strong> The first says a human
+  established that no DOI is registered, which makes any DOI a later batch invents for
+  that key provably wrong and strippable without a lookup. The second says only "not
+  established", and nothing may act on it. Same discipline as <code>crossref_reachable: false</code>
+  vs <code>flagged</code>, and as <code>error</code> vs <code>wrong_paper</code>.</li>
+<li><strong>It ratchets.</strong> <code>lint.py</code>'s <code>check_authority_conflicts</code> fails on any citation that
+  contradicts a recorded verdict, so a settled decision survives the next enrichment
+  batch. Repairing the pages alone does not: the model that invented a DOI for a book
+  once will invent one again, and nothing in the corpus remembers otherwise.</li>
+<li><strong>Only the no-DOI verdict is auto-repaired.</strong> <code>apply_authorities.py</code> reports a wrong
+  ISBN, a differing DOI or a mismatched title rather than rewriting it — the page may be
+  citing a different edition, a chapter rather than the book, or a reprint, and only the
+  person who checked can say which. The tooling has been confidently wrong about exactly
+  this kind of "obvious" correction before (the Cook-Sather title case above).</li>
+</ul>
+<p><code>scripts/citation_worklist.py</code> is the reading end. It collapses all five checks onto the
+author-year key — so several report lines about one source appear once — ranks by how
+many citations ride on it, ranks the book backlog separately (different work: a person
+and a publisher page, not a lookup), and drops keys already settled, so the list shrinks
+as you work.</p>
 <hr />
 <h2 id="page-templates">Page templates<a class="headerlink" href="#page-templates" title="Permanent link">&para;</a></h2>
 <h3 id="principle">Principle<a class="headerlink" href="#principle" title="Permanent link">&para;</a></h3>
