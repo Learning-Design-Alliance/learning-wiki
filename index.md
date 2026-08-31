@@ -4,7 +4,31 @@ okf_version: "0.2"
 
 # Learning Design Wiki
 
-A persistent, LLM-maintained knowledge base for learning design: [Principles](principles/index.md) (198), [Elements](elements/index.md) (325), [Patterns](patterns/index.md) (130), [Strategies](strategies/index.md) (2557), [Theories](theories/index.md) (89), [Learner Variables](learner-variables/index.md) (1), and [Claims](claims/index.md) (422) — cross-linked and evidence-tagged. Read [CLAUDE.md](CLAUDE.md) for the schema, page templates, and agent operating instructions.
+<img src="branding/lazuli-wordmark-lapis.svg" alt="Lazuli" width="220">
+
+A persistent, LLM-maintained knowledge base for learning design. Read [CLAUDE.md](CLAUDE.md) for the schema, page templates, and agent operating instructions.
+
+---
+
+## Knowledge Types
+
+### [Principles](principles/index.md) (198)
+Research-backed design commitments: what to do and why.
+
+### [Elements](elements/index.md) (325)
+Instructional building blocks — the components you compose into patterns.
+
+### [Patterns](patterns/index.md) (130)
+Reusable instructional designs at the lesson or unit level.
+
+### [Strategies](strategies/index.md) (2557)
+Concrete teaching activity recipes — specific, implementable approaches.
+
+### [Theories](theories/index.md) (89)
+Explanatory frameworks that ground principles and claims.
+
+### [Claims](claims/index.md) (422)
+Empirical claims with evidence ratings, sources, and competing views.
 
 ---
 
@@ -12,7 +36,6 @@ A persistent, LLM-maintained knowledge base for learning design: [Principles](pr
 
 * [Ingest & edit log](log.md)
 * [Schema & agent guide](CLAUDE.md)
-* [Source manifest](https://github.com/Learning-Design-Alliance/learning-wiki/blob/main/sources/manifest.ndjson) — every source article reviewed, ingested or rejected (plain NDJSON, not a wiki page — browse on GitHub or grep it)
 
 ## How to use this wiki
 

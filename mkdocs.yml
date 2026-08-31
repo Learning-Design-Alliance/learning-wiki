@@ -12,25 +12,28 @@ site_dir: site
 theme:
   name: material
   logo: branding/lazuli-monogram-lapis.svg
-  favicon: branding/lazuli-favicon.svg
+  favicon: branding/lazuli-monogram-lapis.svg
   icon:
     repo: fontawesome/brands/github
   palette:
     - scheme: default
-      primary: custom
-      accent: custom
+      primary: teal
+      accent: deep orange
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate
-      primary: custom
-      accent: custom
+      primary: teal
+      accent: deep orange
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
   features:
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
     - navigation.top
+    - navigation.footer
     - navigation.indexes
     - navigation.tracking
     - navigation.path
@@ -47,9 +50,6 @@ theme:
 
 extra:
   generator: false
-
-extra_css:
-  - branding/lazuli-theme.css
 
 plugins:
   - search:
@@ -76,7 +76,6 @@ nav:
   - Patterns: patterns/index.md
   - Strategies: strategies/index.md
   - Theories: theories/index.md
-  - Learner Variables: learner-variables/index.md
   - Claims: claims/index.md
   - Log: log.md
   - Schema & Guide: CLAUDE.md
