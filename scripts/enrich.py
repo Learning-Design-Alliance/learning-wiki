@@ -264,6 +264,132 @@ class InvalidPageContentError(ValueError):
     disk."""
 
 
+# Phrases that can only be the model narrating its own authoring task. Kept
+# deliberately narrow: each one was verified against the whole wiki to fire on
+# real leaked deliberation and NOT on legitimate prose. Broader tells were
+# tried and rejected — "exemplar" is a real instructional-design term
+# (elements/exemplars.md), pages legitimately open "Wait time is...", and
+# quoted teacher speech contains "I'll say its sounds: /m/ /o/ /p/".
+_DELIBERATION_MARKERS = [
+    r"\(\+\d{2,} more\)",                              # the truncated slug list from the prompt
+    r"Visible relevant ones",
+    r"the exemplar (?:frontmatter|has|is|matches|also includes)",
+    r"template stub",
+    r"the (?:page|stub) to write",
+    r"I need to match",
+    r"\bthe draft stub\b",
+]
+_DELIBERATION_RE = re.compile("|".join(_DELIBERATION_MARKERS), re.IGNORECASE)
+
+
+def _reject_non_page_body(path: Path, content: str) -> None:
+    """Refuse output that has valid frontmatter but isn't a wiki page.
+
+    The existing "must start with ---" check catches a raw JSON envelope, but
+    not the failure this pipeline actually produced at scale: correct
+    frontmatter wrapping a body that is the model's own planning notes.
+    Roughly 13 pages reached the published site carrying lines like "The
+    exemplar (Demonstration) matches this template closely. I need to match
+    its density, structure, and voice." and "strategies/: huge list (+2097
+    more). Visible relevant ones: ...". Five more had no H1 at all, because
+    the body never became a page.
+
+    Raises InvalidPageContentError so the caller's per-page handler reports
+    it and leaves the file on disk untouched — the same contract as the
+    frontmatter check."""
+    body = content.split("---", 2)[-1] if content.count("---") >= 2 else content
+
+    if not re.search(r"^# \S", body, re.MULTILINE):
+        raise InvalidPageContentError(
+            f"Model response has frontmatter but no '# ' H1 heading — refusing to write "
+            f"over {path}. A page without an H1 is not a page (and lint's type-banner "
+            f"check will flag it). Body starts: {body.strip()[:200]!r}"
+        )
+
+    if not re.search(r"^## \S", body, re.MULTILINE):
+        raise InvalidPageContentError(
+            f"Model response has no '## ' section headings — refusing to write over "
+            f"{path}. Every page template defines sections; a body without any means "
+            f"the template wasn't followed. Body starts: {body.strip()[:200]!r}"
+        )
+
+    m = _DELIBERATION_RE.search(body)
+    if m:
+        line = next((l for l in body.split("\n") if m.group(0).lower() in l.lower()), "")
+        raise InvalidPageContentError(
+            f"Model response contains its own authoring commentary rather than page "
+            f"content — refusing to write over {path}. Matched {m.group(0)!r} in: "
+            f"{line.strip()[:200]!r}"
+        )
+
+
+def verify_page_citations(path: Path, apply: bool = True) -> list[dict]:
+    """Resolve every DOI this page cites against Crossref and strip the ones
+    that don't check out, BEFORE the page is treated as done.
+
+    This is the gate the wiki did not have. Verification previously ran only
+    as a separate, deliberate resolve_doi_conflicts.py sweep long after
+    ingest, and when one was audited, 4 of 11 distinct DOIs it had applied
+    across 120 pages were wrong — including a Springer chapter, "Model of
+    Causality in Social Learning Theory", attached to Bandura's 1977
+    Prentice-Hall book on 69 pages. Each had passed a title-overlap check.
+
+    A DOI that resolves to the wrong paper is worse than no DOI: it reads as
+    verified, so nothing downstream questions it. So anything not returning
+    'verified' is removed and reported, leaving the citation intact but
+    unlinked for a human to source properly.
+
+    Returns one record per removal. Makes live Crossref calls, but they are
+    cache-backed (eval/corpus/doi_resolution_cache.json) and scoped to this
+    page's own citations."""
+    import check_citations as cc
+    import resolve_doi_conflicts as rdc
+
+    path = Path(path)
+    text = path.read_text(encoding="utf-8")
+    # Callers pass either an absolute path or one relative to the wiki root;
+    # resolve() normalises both so this never raises on a relative path.
+    rel = str(path.resolve().relative_to(WIKI_ROOT.resolve()))
+    removals = []
+    for entry in cc.extract_citations(text, rel):
+        doi = entry.get("doi")
+        if not doi:
+            continue
+        year = entry["key"].rsplit("-", 1)[-1]
+        located = None
+        for line in text.split("\n"):
+            if doi.lower() in line.lower():
+                located = line
+                break
+        cited_title = cc._extract_title_text(located or entry["line"], year)
+        try:
+            res = rdc.classify_doi(doi, cc._words_from_text(cited_title), cited_title)
+        except Exception as e:                      # network trouble must not lose the page
+            print(f"  [citation check skipped for {doi}: {e}]", file=sys.stderr)
+            continue
+        if res["status"] == "verified":
+            continue
+        # 'error' means the lookup itself failed (network, proxy, Crossref
+        # down) — NOT that the DOI is wrong. Stripping on error would delete
+        # every DOI on every page touched during an outage. Report it as
+        # unchecked and leave it alone; the nightly doi_resolver sweep will
+        # catch it once the network is back.
+        if res["status"] == "error":
+            print(f"  [citation unchecked] {rel}: {doi} — Crossref lookup failed, "
+                  f"left in place", file=sys.stderr)
+            continue
+        removals.append({"doi": doi, "status": res["status"],
+                         "cited_as": cited_title, "resolves_to": res.get("title")})
+        if apply:
+            for form in (f" [doi:{doi}](https://doi.org/{doi})",
+                         f" [https://doi.org/{doi}](https://doi.org/{doi})"):
+                text = text.replace(form, "")
+                text = text.replace(form.replace(doi, doi.upper()), "")
+    if apply and removals:
+        path.write_text(text, encoding="utf-8")
+    return removals
+
+
 def write_enriched_page(path: Path, content: str) -> None:
     """Write enriched content; ensure status/generated are set (OKF style).
 
@@ -285,6 +411,7 @@ def write_enriched_page(path: Path, content: str) -> None:
             f"frontmatter after JSON-unwrap and leading-junk salvage attempts) — refusing "
             f"to write over {path}. First 200 chars: {content.strip()[:200]!r}"
         )
+    _reject_non_page_body(path, content)
     content = re.sub(r"^status:\s*.+$", "status: review", content, flags=re.MULTILINE)
     generated_block = f'generated:\n  by: "claude/unspecified"\n  at: {TODAY}'
     if re.search(r"^generated:\s*\n\s+by:.*\n\s+at:.*$", content, re.MULTILINE):
@@ -1200,6 +1327,11 @@ def cmd_collect(args: argparse.Namespace) -> None:
                 content = unwrap_json_response(anthropic_text(result.result.message.content))
                 content, repairs = repair_misfiled_links(content, args.type)
                 write_enriched_page(page_path, content)
+                if not getattr(args, "no_verify_citations", False):
+                    for r in verify_page_citations(page_path):
+                        print(f"  [citation stripped] {slug}: {r['doi']} {r['status']} — "
+                              f"cited as {r['cited_as'][:60]!r}"
+                              + (f", resolves to {r['resolves_to'][:60]!r}" if r.get("resolves_to") else ""))
                 create_missing_stubs(content, args.type)
                 written.append((args.type, slug))
                 written_files.append(str(page_path.relative_to(WIKI_ROOT)))
@@ -1508,6 +1640,8 @@ def cmd_run(args: argparse.Namespace) -> None:
                     print(f"  [fixed links] {name}: {', '.join(repairs)}")
 
             write_enriched_page(page_path, content)
+            for r in verify_page_citations(page_path):
+                print(f"  [citation stripped] {page_path.name}: {r['doi']} {r['status']}")
             with written_lock:
                 written.append((args.type, name))
                 written_files.append(str(page_path.relative_to(WIKI_ROOT)))
@@ -1603,6 +1737,11 @@ def main() -> None:
                        help="Max pages to enrich in parallel (default: 1, sequential — same "
                             "behavior as before this option existed). Rate limits are per-provider "
                             "and not enforced here, so raise this gradually and watch for 429s.")
+    p_run.add_argument("--no-verify-citations", action="store_true",
+                       help="Skip the per-page Crossref check that strips DOIs which don't resolve "
+                            "to the cited work. On by default: a DOI resolving to the WRONG paper "
+                            "reads as verified, so nothing downstream questions it — that is how one "
+                            "Springer chapter ended up attached to Bandura (1977) across 69 pages.")
     p_run.add_argument("--dry-run", action="store_true",
                        help="Show prompts without calling API")
 
