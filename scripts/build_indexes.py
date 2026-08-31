@@ -56,13 +56,6 @@ PAGE_TYPES = {
         "description": "Explanatory frameworks that ground principles and claims.",
         "status_field": True,
     },
-    "learner-variables": {
-        "label": "Learner Variables",
-        "description": "Canonical learner characteristics/variables (prior knowledge, self-efficacy, "
-                        "working memory, ...) that claims report findings about — one page per variable "
-                        "so the same concept doesn't fragment across differently-worded tags.",
-        "status_field": True,
-    },
     "claims": {
         "label": "Claims",
         "description": "Empirical claims with evidence ratings, sources, and competing views.",
@@ -75,7 +68,7 @@ PAGE_TYPES = {
     },
 }
 
-ROOT_INDEX_TYPES = ["principles", "elements", "patterns", "strategies", "theories", "learner-variables", "claims"]
+ROOT_INDEX_TYPES = ["principles", "elements", "patterns", "strategies", "theories", "claims"]
 
 
 def get_page_meta(path: Path) -> dict:
@@ -159,16 +152,6 @@ def build_folder_index(page_type: str, config: dict) -> str:
                 "Constructivism, Information Processing Theory, Situated Cognition, "
                 "Dual Coding Theory, Worked Example Effect."
             ),
-            "learner-variables": (
-                "## How to add a learner variable\n\n"
-                "Create a file in `learner-variables/` using the Learner Variable template in "
-                "[CLAUDE.md](../CLAUDE.md).\n\n"
-                "One canonical page per distinct learner characteristic (prior knowledge, self-efficacy, "
-                "working memory capacity, spatial ability, ...) — claims link into it rather than "
-                "repeating a free-text description of the variable. Start from claims already in the "
-                "wiki that report a finding about a learner characteristic (e.g. "
-                "\"X predicts/moderates Y outcome\") and factor the variable out into its own page."
-            ),
             "claims": (
                 "## How to add a claim\n\n"
                 "Create a file in `claims/` using the Claim template in [CLAUDE.md](../CLAUDE.md).\n\n"
@@ -182,12 +165,7 @@ def build_folder_index(page_type: str, config: dict) -> str:
                 "Create a file in `sources/` using the Source template in [CLAUDE.md](../CLAUDE.md).\n\n"
                 "Source pages are created when a claim or principle cites a specific paper or book. "
                 "Each source page needs: full citation, DOI/URL, a 2–4 sentence summary, "
-                "and links to claim pages the source supports.\n\n"
-                "## Source manifest\n\n"
-                "Every source the ingest pipeline has reviewed — ingested or rejected — is recorded in "
-                "[`sources/manifest.ndjson`](https://github.com/Learning-Design-Alliance/learning-wiki/blob/main/sources/manifest.ndjson), "
-                "separately from these optional per-source pages. It's plain data (one JSON object per line), "
-                "not rendered here — see CLAUDE.md's Source Manifest section for the schema and how to query it."
+                "and links to claim pages the source supports."
             ),
         }
         guidance = empty_guidance.get(
@@ -223,14 +201,6 @@ def build_folder_index(page_type: str, config: dict) -> str:
 
 
 def build_root_index(counts: dict) -> str:
-    type_links = []
-    for page_type in ROOT_INDEX_TYPES:
-        config = PAGE_TYPES.get(page_type, {})
-        label = config.get("label", page_type.title())
-        count = counts.get(page_type, {}).get("total", 0)
-        type_links.append(f"[{label}]({page_type}/index.md) ({count})")
-    type_line = ", ".join(type_links[:-1]) + f", and {type_links[-1]}"
-
     lines = [
         "---",
         'okf_version: "0.2"',
@@ -238,18 +208,36 @@ def build_root_index(counts: dict) -> str:
         "",
         "# Learning Design Wiki",
         "",
-        "A persistent, LLM-maintained knowledge base for learning design: "
-        f"{type_line} — cross-linked and evidence-tagged. "
+        '<img src="branding/lazuli-wordmark-lapis.svg" alt="Lazuli" width="220">',
+        "",
+        "A persistent, LLM-maintained knowledge base for learning design. "
         "Read [CLAUDE.md](CLAUDE.md) for the schema, page templates, and agent operating instructions.",
         "",
+        "---",
+        "",
+        "## Knowledge Types",
+        "",
+    ]
+
+    for page_type in ROOT_INDEX_TYPES:
+        config = PAGE_TYPES.get(page_type, {})
+        label = config.get("label", page_type.title())
+        desc = config.get("description", "")
+        count = counts.get(page_type, {}).get("total", 0)
+        stable = counts.get(page_type, {}).get("stable", 0)
+        lines.append(f"### [{label}]({page_type}/index.md) ({count})")
+        lines.append(f"{desc}")
+        if stable:
+            lines.append(f"*{stable} stable*")
+        lines.append("")
+
+    lines += [
         "---",
         "",
         "## Quick navigation",
         "",
         "* [Ingest & edit log](log.md)",
         "* [Schema & agent guide](CLAUDE.md)",
-        "* [Source manifest](https://github.com/Learning-Design-Alliance/learning-wiki/blob/main/sources/manifest.ndjson) "
-        "— every source article reviewed, ingested or rejected (plain NDJSON, not a wiki page — browse on GitHub or grep it)",
         "",
         "## How to use this wiki",
         "",

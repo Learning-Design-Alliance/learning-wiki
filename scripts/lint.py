@@ -122,11 +122,23 @@ def _heading_anchor(heading: str, separator: str = "-") -> str:
 HEADING_RE = re.compile(r"^#{1,6}\s+(.+?)\s*#*\s*$", re.M)
 
 
+# attr_list (enabled in mkdocs.yml) lets a heading name its own id:
+#     #### A {: #letter-a }
+# which overrides the slugified one. build_indexes.py uses this for the A-Z
+# jump bars on large section indexes, so a check that ignored it would call
+# every one of those jump links dead.
+ATTR_ID_RE = re.compile(r"\{:?\s*#([^\s}]+)[^}]*\}\s*$")
+
+
 def page_anchors(text: str) -> set[str]:
-    """Every anchor the built page will expose, including toc's duplicate
-    suffixes (`foo`, `foo_1`, `foo_2`) for repeated headings."""
+    """Every anchor the built page will expose: explicit attr_list ids, plus
+    slugified headings with toc's duplicate suffixes (`foo`, `foo_1`, ...)."""
     anchors, counts = set(), defaultdict(int)
     for h in HEADING_RE.findall(text):
+        explicit = ATTR_ID_RE.search(h)
+        if explicit:
+            anchors.add(explicit.group(1))
+            continue
         base = _heading_anchor(h)
         if not base:
             continue
