@@ -121,6 +121,12 @@ routinely holds real uncommitted work, and keying on HEAD would call all of it i
   would propagate a single unverified DOI onto 67 pages — which is how the 69-page Bandura
   error happened. The direction of the majority is the only thing separating that case from
   `collins-1989` (22 assert, 1 omits), and direction is not evidence.
+- **A DOI asserted on only one page is invisible to the divergence checks.** Metadata,
+  title and collision detection all need two *variants* of something to compare, so a lone
+  wrong DOI disagrees with nothing and is flagged by nothing — the `bandura-1977` shape,
+  where one page carries `10.1037/12256-000` and 67 carry none.
+  `resolve_citation_metadata.py` therefore also pulls in every DOI named in a citation
+  conflict, which covers 142 DOIs the three checks cannot reach.
 - **21 DOI collisions are open — one DOI asserted for two different papers.** Both
   directions are now detected: `check_citations.py` for one paper with two DOIs (97 open),
   and `check_citations.py --collisions` for one DOI on two papers (21 open). The second is

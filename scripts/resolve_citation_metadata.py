@@ -155,7 +155,8 @@ def main() -> None:
     import doi_resolver as dr
     import resolve_doi_conflicts as rdc      # noqa: F401  (shares the cache)
 
-    by_doi = cc.load_by_doi(cc.load_all_citations())
+    by_key = cc.load_all_citations()
+    by_doi = cc.load_by_doi(by_key)
     consensus = cc.token_consensus(by_doi)
 
     # Only DOIs some check actually flagged — no point spending a lookup on
@@ -169,6 +170,17 @@ def main() -> None:
             flagged.add(r["doi"])
     for c in cc.find_doi_collisions(by_doi):
         flagged.add(c["doi"])
+    # Citation conflicts too, which the three checks above structurally cannot
+    # see. All of them need two *variants* of something — two journal strings,
+    # two titles, two papers — so a DOI asserted on a single page is invisible
+    # to every one of them. That is exactly the bandura-1977 shape: one page
+    # carries 10.1037/12256-000 and 67 carry nothing, so nothing disagrees with
+    # it and nothing checks it. standardize_citations.py surfaces these as
+    # "resolves to the wrong paper" and then had no way to act on them.
+    for c in cc.find_conflicts(by_key):
+        for e in c["entries"]:
+            if e["doi"]:
+                flagged.add(e["doi"])
 
     todo = sorted(flagged)[: args.limit] if args.limit else sorted(flagged)
     print(f"{len(flagged)} flagged DOI(s); resolving {len(todo)}.\n", file=sys.stderr)
