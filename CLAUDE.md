@@ -127,6 +127,13 @@ routinely holds real uncommitted work, and keying on HEAD would call all of it i
   where one page carries `10.1037/12256-000` and 67 carry none.
   `resolve_citation_metadata.py` therefore also pulls in every DOI named in a citation
   conflict, which covers 142 DOIs the three checks cannot reach.
+- **A Crossref 404 is not proof a DOI is fabricated.** Crossref indexes only DOIs
+  registered through Crossref, so a DataCite dataset, mEDRA or JaLC registration is
+  legitimately absent. `resolve_citation_metadata.py` never strips on a 404; it reports
+  them, ranked by whether the *prefix's* other DOIs resolve. A 404 on a prefix that
+  otherwise resolves fine means that registrant IS in Crossref and the absence is about
+  this DOI — that is the strong case. A 404 on a prefix with no resolving siblings is
+  probably just coverage.
 - **21 DOI collisions are open — one DOI asserted for two different papers.** Both
   directions are now detected: `check_citations.py` for one paper with two DOIs (97 open),
   and `check_citations.py --collisions` for one DOI on two papers (21 open). The second is
