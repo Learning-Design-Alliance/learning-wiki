@@ -236,15 +236,34 @@ def resolve_standalone_issues(by_key: dict, conflict_keys: set, debug_key: str =
 
 def _locate_citation_line(rel_path: str, key: str, cluster_title_words: set):
     """Finds the specific citation line in rel_path matching `key` (author-
-    year) AND this cluster's title, re-derived fresh from the file's
-    actual current content — never from entries[...]["line"], which
-    extract_citations() truncates to 160 chars, cutting straight into the
-    title for anything with a long author list (confirmed on a real
-    8-author citation: the stored line ran out mid-word, inside the title
-    itself, before the DOI/URL was even reached). Returns (line_index,
-    full_untruncated_line) or None if no matching line is found."""
+    year), re-derived fresh from the file's actual current content — never
+    from entries[...]["line"], which extract_citations() truncates to 160
+    chars, cutting straight into the title for anything with a long author
+    list (confirmed on a real 8-author citation: the stored line ran out
+    mid-word, inside the title itself, before the DOI/URL was even
+    reached). Returns (line_index, full_untruncated_line) or None if no
+    matching line is found.
+
+    Only checks this cluster's title-word overlap when MORE THAN ONE line
+    on this page shares the same author-year key — that's the only case
+    with anything to disambiguate (e.g. two different papers by the same
+    author in the same year both cited on one page). When there's exactly
+    one candidate line, using it is unambiguous regardless of how its
+    wording compares to cluster_title_words, which is picked from some
+    OTHER page in the cluster and can legitimately differ (a different
+    subtitle, an abbreviated vs. full title, different punctuation).
+    Requiring the overlap check even in the unambiguous case was a real,
+    confirmed production bug: a resolve run correctly identified the
+    canonical DOI for wineburg-2019 and graham-2011 (each cited on ~25
+    pages) but the overlap check rejected the match on every single page,
+    because cluster_title_words came from whichever page happened to have
+    the most distinct title words, and other pages' shorter/differently
+    worded citations of the exact same book didn't clear 0.35 overlap
+    against it — 63 correct, unambiguous edits silently skipped as
+    'could not locate' in one run alone."""
     path = WIKI_ROOT / rel_path
     lines = path.read_text(encoding="utf-8").splitlines(keepends=True)
+    candidates = []
     for i, raw_line in enumerate(lines):
         stripped = raw_line.strip()
         if not stripped or stripped.startswith("<!--"):
@@ -255,10 +274,18 @@ def _locate_citation_line(rel_path: str, key: str, cluster_title_words: set):
         this_key = f"{m.group(1).lower()}-{m.group(2)}"
         if this_key != key:
             continue
-        this_title_words = cc._title_words(stripped, m.group(2))
-        if not cc._same_paper(this_title_words, cluster_title_words):
-            continue
+        candidates.append((i, raw_line, stripped, m.group(2)))
+
+    if not candidates:
+        return None
+    if len(candidates) == 1:
+        i, raw_line, _, _ = candidates[0]
         return i, raw_line
+
+    matches = [(i, raw_line) for i, raw_line, stripped, year in candidates
+               if cc._same_paper(cc._title_words(stripped, year), cluster_title_words)]
+    if len(matches) == 1:
+        return matches[0]
     return None
 
 
