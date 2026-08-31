@@ -89,6 +89,19 @@ Only four branches still hold unmerged commits:
 | `ci/pr-preview-deploys` | contains the above | Low |
 | `docs/material-theme-polish` | 1 commit, 6 files | **High and stale** — 3 days old, edits `build_indexes.py` and four `index.md` files that have since been regenerated many times. Re-derive the `mkdocs.yml`/`build_indexes.py` change on a fresh branch rather than merging this one |
 
+### The health dashboard refreshes itself
+
+`eval/runs/health.html` used to regenerate only on an enrichment batch, a scraper ingest,
+the nightly timer, or a service restart — and a `git pull` is none of those. So the board
+showed numbers from the last pipeline event while its own "last scanned" timestamp said a
+minute ago, which makes a stale page look current. That cost a real debugging session.
+
+`dashboard_server.py` now compares a cheap tree fingerprint (file count + newest mtime over
+the content folders and `scripts/`, ~13ms) against the one stamped when the page was
+written, and rescans (~6s) only when they differ. Pull, reload, correct numbers — no
+restart. The fingerprint is deliberately **not** a git revision: the droplet's working tree
+routinely holds real uncommitted work, and keying on HEAD would call all of it invisible.
+
 ### Known open work
 
 - **`scripts/resolve_citation_metadata.py` settles the three citation backlogs against

@@ -368,8 +368,8 @@ def render_html(result: dict) -> str:
 <div class="viz-root">
   <a class="back-link" href="/index.html">&larr; Dashboard home</a>
   <h1>Wiki Health</h1>
-  <div class="meta">Last scanned {_esc(_fmt_ts(result["timestamp"]))} &middot; auto-refreshes every
-  {AUTO_REFRESH_MS // 1000}s</div>
+  <div class="meta">Last scanned {_esc(_fmt_ts(result["timestamp"]))} &middot; reloads every
+  {AUTO_REFRESH_MS // 1000}s and rescans whenever the wiki changes on disk</div>
 
   <div class="tiles">{tiles}</div>
 
