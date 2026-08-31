@@ -67,4 +67,4 @@ Needs analysis protects against the most common instructional design failure: bu
 - Witkin, B. R., & Altschuld, J. W. (1995). *Planning and conducting needs assessments: A practical guide*. Sage.
 - Kaufman, R., & English, F. W. (1979). *Needs assessment: Concept and application*. Educational Technology Publications.
 - Dick, W., Carey, L., & Carey, J. O. (2015). *The systematic design of instruction* (8th ed.). Pearson.
-- Clark, R. E., & Estes, F. (2008). *Turning research into results: A guide to selecting the right performance solutions*. IAP. [doi:10.2307/30034370](https://doi.org/10.2307/30034370)
+- Clark, R. E., & Estes, F. (2008). *Turning research into results: A guide to selecting the right performance solutions*. IAP. [doi:10.1002/pfi.4140430110](https://doi.org/10.1002/pfi.4140430110)

@@ -66,6 +66,6 @@ Teacher expectations and beliefs shape interaction quality with families and stu
 
 ## Key Sources
 - Moll, L. C., Amanti, C., Neff, D., & Gonzalez, N. (1992). Funds of knowledge for teaching: Using a qualitative approach to connect homes and classrooms. *Theory Into Practice, 31*(2), 132–141. [doi:10.1080/00405849209543534](https://doi.org/10.1080/00405849209543534)
-- Lott, B. (2002). Cognitive and behavioral distancing from the poor. *American Psychologist, 57*(11), 1001–1010. [doi:10.1037/0003-066X.57.11.1001](https://doi.org/10.1037/0003-066X.57.11.1001)
+- Lott, B. (2002). Cognitive and behavioral distancing from the poor. *American Psychologist, 57*(11), 1001–1010. [doi:10.1037/0003-066x.57.2.100](https://doi.org/10.1037/0003-066x.57.2.100)
 - Gorski, P. C. (2008). The myth of the "culture of poverty." *Educational Leadership, 65*(7), 32–36.
 - Okonofua, J. A., Walton, G. M., & Eberhardt, J. L. (2016). A vicious cycle: A social–psychological account of extreme racial disparities in school discipline. *Perspectives on Psychological Science, 11*(3), 381–398. [doi:10.1177/1745691615627452](https://doi.org/10.1177/1745691615627452)

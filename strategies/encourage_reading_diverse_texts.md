@@ -77,6 +77,6 @@ Exposure to varied text structures builds the genre knowledge and vocabulary tha
 
 ## Key Sources
 - Shanahan, T., & Shanahan, C. (2008). Teaching disciplinary literacy to adolescents: Rethinking content-area literacy. *Harvard Educational Review, 78*(1), 40–59. [doi:10.17763/haer.78.1.v62444321p602101](https://doi.org/10.17763/haer.78.1.v62444321p602101)
-- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil et al. (Eds.), *Handbook of Reading Research, Vol. III* (pp. 403–422). Erlbaum.
+- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil et al. (Eds.), *Handbook of Reading Research, Vol. III* (pp. 403–422). Erlbaum. [doi:10.1108/978-1-60752-786-220251011](https://doi.org/10.1108/978-1-60752-786-220251011)
 - Duke, N. K. (2000). 3.6 minutes per day: The scarcity of informational texts in first grade. *Reading Research Quarterly, 35*(2), 202–224. [doi:10.1598/RRQ.35.2.1](https://doi.org/10.1598/RRQ.35.2.1)
 - Nagy, W., & Townsend, D. (2012). Words as tools: Learning academic vocabulary as language acquisition. *Reading Research Quarterly, 47*(1), 91–108. [doi:10.1002/RRQ.011](https://doi.org/10.1002/RRQ.011)

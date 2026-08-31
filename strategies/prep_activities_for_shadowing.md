@@ -64,5 +64,5 @@ Unprepared observers lack the schemas to know where to look, so much of an exper
 ## Key Sources
 - Ausubel, D. P. (1960). The use of advance organizers in the learning and retention of meaningful verbal material. *Journal of Educational Psychology, 51*(5), 267–272. [doi:10.1037/h0046669](https://doi.org/10.1037/h0046669)
 - Bandura, A. (1977). *Social learning theory*. Prentice Hall.
-- Page-Cutrara, K., & Turk, M. (2017). Prebriefing in nursing simulation: An integrative review. *Clinical Simulation in Nursing, 15*, 45–60. [doi:10.1016/j.ecns.2017.05.006](https://doi.org/10.1016/j.ecns.2017.05.006)
+- Page-Cutrara, K., & Turk, M. (2017). Prebriefing in nursing simulation: An integrative review. *Clinical Simulation in Nursing, 15*, 45–60. [doi:10.1016/j.ecns.2015.05.001](https://doi.org/10.1016/j.ecns.2015.05.001)
 - Sweller, J., van Merriënboer, J. J. G., & Paas, F. (2019). Cognitive architecture and instructional design: 20 years later. *Educational Psychology Review, 31*(2), 261–292. [doi:10.1007/s10648-019-09465-5](https://doi.org/10.1007/s10648-019-09465-5)

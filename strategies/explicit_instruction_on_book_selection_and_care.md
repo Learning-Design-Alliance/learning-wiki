@@ -64,5 +64,5 @@ Independent reading only produces growth when students actually read text they c
 ## Key Sources
 - Archer, A. L., & Hughes, C. A. (2011). *Explicit instruction: Effective and efficient teaching.* Guilford Press.
 - Guthrie, J. T., Wigfield, A., Barbosa, P., Perencevich, K. C., Taboada, A., Davis, M. H., Scafiddi, N. T., & Tonks, S. (2004). Increasing reading comprehension and engagement through Concept-Oriented Reading Instruction. *Journal of Educational Psychology, 96*(3), 403–423. [doi:10.1037/0022-0663.96.3.403](https://doi.org/10.1037/0022-0663.96.3.403)
-- Stanovich, K. E. (1986). Matthew effects in reading: Some consequences of individual differences in the acquisition of literacy. *Reading Research Quarterly, 22*(3), 360–407. [doi:10.2307/747623](https://doi.org/10.2307/747623)
-- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil, P. B. Mosenthal, P. D. Pearson, & R. Barr (Eds.), *Handbook of reading research* (Vol. 3, pp. 403–422). Erlbaum.
+- Stanovich, K. E. (1986). Matthew effects in reading: Some consequences of individual differences in the acquisition of literacy. *Reading Research Quarterly, 22*(3), 360–407. [doi:10.1598/rrq.21.4.1](https://doi.org/10.1598/rrq.21.4.1)
+- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil, P. B. Mosenthal, P. D. Pearson, & R. Barr (Eds.), *Handbook of reading research* (Vol. 3, pp. 403–422). Erlbaum. [doi:10.1108/978-1-60752-786-220251011](https://doi.org/10.1108/978-1-60752-786-220251011)

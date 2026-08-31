@@ -66,6 +66,6 @@ Routines convert recurring logistical decisions into automatic behavior, reducin
 ## Key Sources
 - Kounin, J. S. (1970). *Discipline and group management in classrooms*. Holt, Rinehart & Winston.
 - Emmer, E. T., Evertson, C. M., & Anderson, L. M. (1980). Effective classroom management at the beginning of the school year. *The Elementary School Journal, 80*(5), 219–231. [doi:10.1086/461192](https://doi.org/10.1086/461192)
-- Leinhardt, G., Weidman, C., & Hammond, K. M. (1987). Introduction and integration of classroom routines by expert teachers. *Curriculum Inquiry, 17*(2), 135–176. [doi:10.1080/03626784.1987.11075279](https://doi.org/10.1080/03626784.1987.11075279)
+- Leinhardt, G., Weidman, C., & Hammond, K. M. (1987). Introduction and integration of classroom routines by expert teachers. *Curriculum Inquiry, 17*(2), 135–176. [doi:10.1080/03626784.1987.11075284](https://doi.org/10.1080/03626784.1987.11075284)
 - Marzano, R. J., & Marzano, J. S. (2003). The key to classroom management. *Educational Leadership, 61*(1), 6–13.
 - Rosenshine, B. (2012). Principles of instruction: Research-based strategies that all teachers should know. *American Educator, 36*(1), 12–19.

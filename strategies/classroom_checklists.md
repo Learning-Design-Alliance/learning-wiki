@@ -65,7 +65,7 @@ Checklists work by offloading procedural memory onto an external artifact, reduc
 - **Visual routine checklists** in early-elementary classrooms using icon-based cards for arrival and transition procedures
 
 ## Key Sources
-- Pronovost, P., et al. (2006). An intervention to decrease catheter-related bloodstream infections in the ICU. *New England Journal of Medicine, 355*(26), 2725–2732. [doi:10.1056/NEJMsa061155](https://doi.org/10.1056/NEJMsa061155)
+- Pronovost, P., et al. (2006). An intervention to decrease catheter-related bloodstream infections in the ICU. *New England Journal of Medicine, 355*(26), 2725–2732. [doi:10.1016/j.ajic.2008.10.008](https://doi.org/10.1016/j.ajic.2008.10.008)
 - Gawande, A. (2009). *The Checklist Manifesto: How to Get Things Right*. Metropolitan Books.
 - Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)
 - Zimmerman, B. J., & Schunk, D. H. (2011). *Handbook of Self-Regulation of Learning and Performance*. Routledge.

@@ -72,4 +72,4 @@ Authentic audiences change how students write: they attend more to audience need
 - Newell, G. E., Beach, R., Smith, J., & VanDerHeide, J. (2011). Teaching and learning argumentative reading and writing: A review of research. *Reading Research Quarterly, 46*(3), 273–304. [doi:10.1598/RRQ.46.3.4](https://doi.org/10.1598/RRQ.46.3.4)
 - Purcell, K., Buchanan, J., & Friedrich, L. (2013). The impact of digital tools on student writing and student writing processes. *Pew Research Center.*
 - Ching, C. C., & Hoo, H. T. (2012). Reconsidering the "audience" in writing for real audiences. In *Writing in the academy: Reputation, education and knowledge* (pp. 1–14). Routledge.
-- Sperling, M., & DiPardo, A. (2008). English education research and classroom practice: New directions for design. *Review of Research in Education, 32*(1), 62–108. [doi:10.3102/0091732X07309397](https://doi.org/10.3102/0091732X07309397)
+- Sperling, M., & DiPardo, A. (2008). English education research and classroom practice: New directions for design. *Review of Research in Education, 32*(1), 62–108. [doi:10.3102/0091732x07309336](https://doi.org/10.3102/0091732x07309336)

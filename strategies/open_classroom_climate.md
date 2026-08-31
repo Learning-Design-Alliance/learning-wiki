@@ -64,7 +64,7 @@ Open classroom climate is one of the most consistently documented school-level p
 - **Facing History and Ourselves** (https://www.facinghistory.org) — published curriculum that sequences community-norm building before controversial historical discussions, operationalizing climate as a prerequisite rather than an assumption.
 
 ## Key Sources
-- Campbell, D. E. (2008). Voice in the classroom: How an open classroom climate fosters political discussion among adolescents. *Political Behavior, 30*(4), 437–454. [doi:10.1007/s11109-008-9057-z](https://doi.org/10.1007/s11109-008-9057-z)
+- Campbell, D. E. (2008). Voice in the classroom: How an open classroom climate fosters political discussion among adolescents. *Political Behavior, 30*(4), 437–454. [doi:10.1007/s11109-008-9063-z](https://doi.org/10.1007/s11109-008-9063-z)
 - Hess, D. E., & McAvoy, P. (2015). *The political classroom: Evidence and ethics in democratic education.* Routledge.
 - Torney-Purta, J., Lehmann, R., Oswald, H., & Schulz, W. (2001). *Citizenship and education in twenty-eight countries: Civic knowledge and engagement at age fourteen.* IEA.
 - Hahn, C. L. (1998). *Becoming political: Comparative perspectives on citizenship education.* SUNY Press.

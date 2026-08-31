@@ -65,6 +65,6 @@ Collaborative writing improves text quality because co-authors must articulate a
 
 ## Key Sources
 - Storch, N. (2005). Collaborative writing: Product, process, and students' reflections. *Journal of Second Language Writing, 14*(3), 153–173. [doi:10.1016/j.jslw.2005.05.002](https://doi.org/10.1016/j.jslw.2005.05.002)
-- McDonough, K., De Vleeschauwer, J., & Crawford, W. (2018). Comparing the quality of collaborative writing, collaborative prewriting, and individual texts in a Thai EFL context. *System, 74*, 109–120. [doi:10.1016/j.system.2018.03.010](https://doi.org/10.1016/j.system.2018.03.010)
+- McDonough, K., De Vleeschauwer, J., & Crawford, W. (2018). Comparing the quality of collaborative writing, collaborative prewriting, and individual texts in a Thai EFL context. *System, 74*, 109–120. [doi:10.1016/j.system.2018.02.010](https://doi.org/10.1016/j.system.2018.02.010)
 - Elola, I., & Oskoz, A. (2010). Collaborative writing: Fostering foreign language and writing conventions development. *Language Learning & Technology, 14*(3), 51–71.
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)

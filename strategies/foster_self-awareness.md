@@ -66,7 +66,7 @@ Self-awareness activities work by externalizing internal states so they can be e
 - **CASEL-aligned SEL curricula** such as [RULER](https://ycei.org/ruler) (Yale Center for Emotional Intelligence) use mood meters and emotion-identification routines to build self-awareness school-wide.
 
 ## Key Sources
-- Sutton, A. (2016). Measuring the effects of self-awareness: Construction of the Self-Awareness Outcomes Questionnaire. *Europe's Journal of Psychology, 12*(4), 645–658. [doi:10.5964/ejop.v12i4.1138](https://doi.org/10.5964/ejop.v12i4.1138)
+- Sutton, A. (2016). Measuring the effects of self-awareness: Construction of the Self-Awareness Outcomes Questionnaire. *Europe's Journal of Psychology, 12*(4), 645–658. [doi:10.5964/ejop.v12i4.1178](https://doi.org/10.5964/ejop.v12i4.1178)
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
 - Morisano, D., Hirsh, J. B., Peterson, J. B., Pihl, R. O., & Shore, B. M. (2010). Setting, elaborating, and reflecting on personal goals improves academic performance. *Journal of Applied Psychology, 95*(2), 255–264. [doi:10.1037/a0018478](https://doi.org/10.1037/a0018478)
 - Dweck, C. S. (2006). *Mindset: The new psychology of success.* Random House.

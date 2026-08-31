@@ -68,7 +68,7 @@ Reflection works because it forces retrieval and articulation of what was learne
 
 ## Key Sources
 - Hmelo-Silver, C. E. (2004). Problem-based learning: What and how do students learn? *Educational Psychology Review, 16*(3), 235–266. [doi:10.1023/b:edpr.0000034022.16470.f3](https://doi.org/10.1023/b:edpr.0000034022.16470.f3)
-- Daudelin, M. W. (1996). Learning from experience through reflection. *Academy of Management Review, 21*(3), 745–769. [doi:10.5465/amr.1996.9603232032](https://doi.org/10.5465/amr.1996.9603232032)
+- Daudelin, M. W. (1996). Learning from experience through reflection. *Academy of Management Review, 21*(3), 745–769. [doi:10.1016/b978-0-7506-7223-8.50016-2](https://doi.org/10.1016/b978-0-7506-7223-8.50016-2)
 - Mann, K., Gordon, J., & MacLeod, A. (2009). Reflection and reflective practice in health professions education: A systematic review. *Advances in Health Sciences Education, 14*(4), 595–621. [doi:10.1007/s10459-007-9090-2](https://doi.org/10.1007/s10459-007-9090-2)
 - Schonert-Reichl, K. A., & Lawlor, M. S. (2010). The effects of a mindfulness-based education program on pre- and early adolescents' well-being and social and emotional competence. *Mindfulness, 1*(3), 137–151. [doi:10.1007/s12671-010-0011-8](https://doi.org/10.1007/s12671-010-0011-8)
 - Schön, D. A. (1983). *The reflective practitioner: How professionals think in action.* Basic Books.

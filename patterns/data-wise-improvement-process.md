@@ -118,4 +118,4 @@ The eight steps, grouped in three phases:
 - Boudett, K. P., City, E. A., & Murnane, R. J. (Eds.). (2013). *Data wise: A step-by-step guide to using assessment results to improve teaching and learning* (Rev. ed.). Harvard Education Press.
 - Boudett, K. P., & City, E. A. (Eds.). (2014). *Meeting wise: Making the most of collaborative time for educators*. Harvard Education Press.
 - Datnow, A., & Park, V. (2014). *Data-driven leadership*. Jossey-Bass.
-- Schildkamp, K. (2019). Data-based decision-making for school improvement: Research insights and gaps. *Studies in Educational Evaluation, 60*, 76–90. [doi:10.1016/j.stueduc.2019.100764](https://doi.org/10.1016/j.stueduc.2019.100764)
+- Schildkamp, K. (2019). Data-based decision-making for school improvement: Research insights and gaps. *Studies in Educational Evaluation, 60*, 76–90. [doi:10.1080/00131881.2019.1625716](https://doi.org/10.1080/00131881.2019.1625716)

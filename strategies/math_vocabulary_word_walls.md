@@ -68,5 +68,5 @@ Word walls reduce the working-memory burden of decoding unfamiliar terminology d
 ## Key Sources
 - Riccomini, P. J., Smith, G. W., Hughes, E. M., & Fries, K. M. (2015). The language of mathematics: The importance of teaching and learning mathematical vocabulary. *Reading & Writing Quarterly, 31*(3), 235–252. [doi:10.1080/10573569.2015.1030995](https://doi.org/10.1080/10573569.2015.1030995)
 - Beck, I. L., McKeown, M. G., & Kucan, L. (2013). *Bringing Words to Life: Robust Vocabulary Instruction* (2nd ed.). Guilford Press.
-- Monroe, E. E., & Panchyshyn, R. S. (1995). Vocabulary considerations for teaching mathematics. *Childhood Education, 72*(2), 80–83. [doi:10.1080/00094056.1996.10521851](https://doi.org/10.1080/00094056.1996.10521851)
+- Monroe, E. E., & Panchyshyn, R. S. (1995). Vocabulary considerations for teaching mathematics. *Childhood Education, 72*(2), 80–83. [doi:10.1080/00094056.1996.10521849](https://doi.org/10.1080/00094056.1996.10521849)
 - Verschaffel, L., Greer, B., & De Corte, E. (2000). *Making Sense of Word Problems*. Swets & Zeitlinger.

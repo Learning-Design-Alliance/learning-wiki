@@ -73,7 +73,7 @@ Racial identity work functions as a prerequisite for culturally responsive pedag
 - **Teacher data inquiry**: equity teams in districts using disaggregated discipline and referral data (e.g., through the [Data Wise](../patterns/data-wise-improvement-process.md) improvement process) to confront racialized patterns in their own practice.
 
 ## Key Sources
-- Sleeter, C. E. (2001). Preparing teachers for culturally diverse schools: Research and the overwhelming presence of whiteness. *Review of Educational Research, 71*(2), 195–242. [doi:10.3102/00346543071002195](https://doi.org/10.3102/00346543071002195)
+- Sleeter, C. E. (2001). Preparing teachers for culturally diverse schools: Research and the overwhelming presence of whiteness. *Review of Educational Research, 71*(2), 195–242. [doi:10.1177/0022487101052002002](https://doi.org/10.1177/0022487101052002002)
 - Ladson-Billings, G. (1995). Toward a theory of culturally relevant pedagogy. *American Educational Research Journal, 32*(3), 465–491. [doi:10.3102/00028312032003465](https://doi.org/10.3102/00028312032003465)
 - Helms, J. E. (1995). An update of Helms's White and people of color racial identity models. In J. G. Ponterotto et al. (Eds.), *Handbook of multicultural counseling* (pp. 181–198). Sage.
 - Milner, H. R. (2010). *Start where you are, but don't stay there: Understanding diversity, opportunity gaps, and teaching in today's classrooms*. Harvard Education Press.

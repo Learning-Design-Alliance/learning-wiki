@@ -64,7 +64,7 @@ Dashboards are only as effective as the self-regulatory behavior they trigger; d
 - **LAK research prototypes (e.g., ViTAL, OnTrack)** — research dashboards studied for effects on self-regulated learning behavior.
 
 ## Key Sources
-- Verbert, K., Duval, E., Klerkx, J., Govaerts, S., & Santos, J. L. (2013). Learning analytics dashboard applications. *IEEE Transactions on Learning Technologies, 6*(3), 150–158. [doi:10.1109/TLT.2012.13](https://doi.org/10.1109/TLT.2012.13)
-- Bodily, R., & Verbert, K. (2017). Review of research on student-facing learning analytics dashboards and educational recommender systems. *IEEE Transactions on Learning Technologies, 10*(4), 405–418. [doi:10.1109/TLT.2017.2659741](https://doi.org/10.1109/TLT.2017.2659741)
+- Verbert, K., Duval, E., Klerkx, J., Govaerts, S., & Santos, J. L. (2013). Learning analytics dashboard applications. *IEEE Transactions on Learning Technologies, 6*(3), 150–158. [doi:10.1177/0002764213479363](https://doi.org/10.1177/0002764213479363)
+- Bodily, R., & Verbert, K. (2017). Review of research on student-facing learning analytics dashboards and educational recommender systems. *IEEE Transactions on Learning Technologies, 10*(4), 405–418. [doi:10.1109/tlt.2017.2740172](https://doi.org/10.1109/tlt.2017.2740172)
 - Jivet, I., Scheffel, M., Drachsler, H., & Specht, M. (2018). License to evaluate: Preparing learners for educational recommender systems and learning analytics dashboards. *Proceedings of the 8th International Conference on Learning Analytics and Knowledge (LAK '18)*, 41–50. [doi:10.1145/3170431.3174343](https://doi.org/10.1145/3170431.3174343)
 - Corrin, L., & de Barba, P. (2015). How do students interpret feedback delivered via dashboards? *Proceedings of the 5th International Conference on Learning Analytics and Knowledge (LAK '15)*, 430–431. [doi:10.1145/2723576.2723662](https://doi.org/10.1145/2723576.2723662)

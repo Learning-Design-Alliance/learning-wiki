@@ -74,6 +74,6 @@ Impressions First is a form of [Activation](../principles/activation.md): elicit
 
 ## Key Sources
 - Rosenblatt, L. M. (1978). *The reader, the text, the poem: The transactional theory of the literary work.* Southern Illinois University Press.
-- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil, P. B. Mosenthal, P. D. Pearson, & R. Barr (Eds.), *Handbook of reading research* (Vol. 3, pp. 403–422). Erlbaum.
+- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil, P. B. Mosenthal, P. D. Pearson, & R. Barr (Eds.), *Handbook of reading research* (Vol. 3, pp. 403–422). Erlbaum. [doi:10.1108/978-1-60752-786-220251011](https://doi.org/10.1108/978-1-60752-786-220251011)
 - Langer, J. A. (1995). *Envisioning literature: Literary understanding and literature instruction.* Teachers College Press.
 - Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268. [doi:10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)

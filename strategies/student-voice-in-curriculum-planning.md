@@ -66,5 +66,5 @@ Giving learners authentic decision rights increases ownership and intrinsic moti
 ## Key Sources
 - Cook-Sather, A., Bovill, C., & Felten, P. (2014). Engaging students as partners in learning and teaching: A guide for faculty. *International Journal of Higher Education* — see Cook-Sather, A., Bovill, C., & Felten, P. (2014). Engaging students as partners in learning and teaching. *Teaching & Learning Together*. [doi:10.1080/21568235.2014.918267](https://doi.org/10.1080/21568235.2014.918267)
 - Mitra, D. L., & Serriere, S. C. (2015). Student voice to improve schools: What youth can teach us about school improvement. *Theory Into Practice, 54*(4), 350–358. [doi:10.1080/00405841.2015.1046670](https://doi.org/10.1080/00405841.2015.1046670)
-- Fielding, M. (2004). 'New wave' student voice and the renewal of civic society. *London Review of Education, 2*(3), 197–217.
+- Fielding, M. (2004). 'New wave' student voice and the renewal of civic society. *London Review of Education, 2*(3), 197–217. [doi:10.1080/1474846042000302834](https://doi.org/10.1080/1474846042000302834)
 - Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268. [doi:10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)

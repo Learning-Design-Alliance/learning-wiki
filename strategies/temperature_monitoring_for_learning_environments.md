@@ -66,7 +66,7 @@ Thermal conditions are a low-cost, high-leverage environmental variable: field s
 - **Exam-room protocol:** Testing centers maintain cooler setpoints (~68–70°F) for extended exams, since sustained sedentary cognition is most sensitive to warmth.
 
 ## Key Sources
-- Park, J., Goodman, J., Hurwitz, M., & Smith, J. (2020). Heat and learning. *Proceedings of the National Academy of Sciences, 117*(19), 10259–10267. [doi:10.1073/pnas.1809554116](https://doi.org/10.1073/pnas.1809554116)
+- Park, J., Goodman, J., Hurwitz, M., & Smith, J. (2020). Heat and learning. *Proceedings of the National Academy of Sciences, 117*(19), 10259–10267. [doi:10.3386/w24639](https://doi.org/10.3386/w24639)
 - Wargocki, P., & Wyon, D. P. (2007). The effects of moderately increased classroom temperature and ventilation on the performance of schoolwork by children. *HVAC&R Research, 13*(2), 193–220. [doi:10.1080/10789669.2007.10390951](https://doi.org/10.1080/10789669.2007.10390951)
 - Seppänen, O., Fisk, W. J., & Lei, Q. H. (2006). Room temperature and productivity in office work. In *Healthy Buildings 2006* (Vol. 1, pp. 243–247). Lawrence Berkeley National Laboratory.
 - Lyons, J. B. (2001). *Do school facilities really impact a child's education?* Council of Educational Facility Planners, International.

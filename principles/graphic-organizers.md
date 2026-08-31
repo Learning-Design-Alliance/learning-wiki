@@ -81,5 +81,5 @@ Graphic organizers help when the structure of a task matters as much as its cont
 ## Key Sources
 - Hall, T., & Strangman, N. (2002). *Graphic organizers*. National Center on Accessing the General Curriculum.
 - Robinson, D. H., Katayama, A. D., Beth, A., Odom, S., Hsieh, Y. P., & Vanderveen, A. (2006). Increasing text comprehension and graphic note taking using a partial graphic organizer. *The Journal of Educational Research, 100*(2), 103-111. [https://doi.org/10.3200/JOER.100.2.103-111](https://doi.org/10.3200/JOER.100.2.103-111)
-- Singleton, S. M., & Filce, H. G. (2015). Graphic organizers for secondary students with learning disabilities. *Teaching Exceptional Children, 48*(2), 110-117. [https://doi.org/10.1177/0040059915603129](https://doi.org/10.1177/0040059915603129)
-- MacArthur, C. A., & Lembo, L. (2009). Strategy instruction in writing for adult literacy learners. *Reading and Writing, 22*(9), 1021-1039. [https://doi.org/10.1007/s11145-008-9133-5](https://doi.org/10.1007/s11145-008-9133-5)
+- Singleton, S. M., & Filce, H. G. (2015). Graphic organizers for secondary students with learning disabilities. *Teaching Exceptional Children, 48*(2), 110-117. [https://doi.org/10.1177/0040059915605799](https://doi.org/10.1177/0040059915605799)
+- MacArthur, C. A., & Lembo, L. (2009). Strategy instruction in writing for adult literacy learners. *Reading and Writing, 22*(9), 1021-1039. [https://doi.org/10.1007/s11145-008-9142-x](https://doi.org/10.1007/s11145-008-9142-x)

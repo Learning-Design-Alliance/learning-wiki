@@ -65,7 +65,7 @@ Reading logs work primarily as a self-monitoring tool: making reading behavior v
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
-- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil et al. (Eds.), *Handbook of Reading Research, Vol. III* (pp. 403–422). Erlbaum.
+- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil et al. (Eds.), *Handbook of Reading Research, Vol. III* (pp. 403–422). Erlbaum. [doi:10.1108/978-1-60752-786-220251011](https://doi.org/10.1108/978-1-60752-786-220251011)
 - Fountas, I. C., & Pinnell, G. S. (2001). *Guiding Readers and Writers: Teaching Comprehension, Genre, and Content Literacy*. Heinemann.
 - Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 125*(6), 627–668. [doi:10.1037/0033-2909.125.6.627](https://doi.org/10.1037/0033-2909.125.6.627)
 - Chi, M. T. H., et al. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477. [doi:10.1207/s15516709cog1803_3](https://doi.org/10.1207/s15516709cog1803_3)

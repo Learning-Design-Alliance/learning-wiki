@@ -65,7 +65,7 @@ Routines function as classroom-level [Chunking](../principles/chunking.md): pack
 - **Wong & Wong, *The First Days of School*** — widely used protocol of teaching entry, homework, and dismissal procedures during the first week of class.
 
 ## Key Sources
-- Leinhardt, G., Weidman, C., & Hammond, K. M. (1987). Introduction and integration of classroom routines by expert teachers. *Curriculum Inquiry, 17*(2), 135–176. [doi:10.1080/03626784.1987.11075282](https://doi.org/10.1080/03626784.1987.11075282)
+- Leinhardt, G., Weidman, C., & Hammond, K. M. (1987). Introduction and integration of classroom routines by expert teachers. *Curriculum Inquiry, 17*(2), 135–176. [doi:10.1080/03626784.1987.11075284](https://doi.org/10.1080/03626784.1987.11075284)
 - Rosenshine, B. (2012). Principles of instruction: Research-based strategies that all teachers should know. *American Educator, 36*(1), 12–19.
 - Emmer, E. T., & Evertson, C. M. (2013). *Classroom management for middle and high school teachers* (9th ed.). Pearson.
 - Kounin, J. S. (1970). *Discipline and group management in classrooms*. Holt, Rinehart & Winston.

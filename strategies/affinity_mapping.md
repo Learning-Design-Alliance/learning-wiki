@@ -67,7 +67,7 @@ Affinity mapping converts divergent idea generation into convergent organization
 - **Digital:** Miro's built-in Affinity Diagram template (https://miro.com/templates/affinity-diagram/) supports remote clustering with voting and color-coded grouping
 
 ## Key Sources
-- Paulus, P. B., & Yang, H.-C. (2000). Idea generation in groups: A basis for creativity in organizations. *Organizational Behavior and Human Decision Processes, 82*(1), 76–87. [doi:10.1006/obhd.2000.2887](https://doi.org/10.1006/obhd.2000.2887)
+- Paulus, P. B., & Yang, H.-C. (2000). Idea generation in groups: A basis for creativity in organizations. *Organizational Behavior and Human Decision Processes, 82*(1), 76–87. [doi:10.1006/obhd.2000.2888](https://doi.org/10.1006/obhd.2000.2888)
 - Chi, M. T. H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219–243. [doi:10.1080/00461520.2014.965823](https://doi.org/10.1080/00461520.2014.965823)
 - Diehl, M., & Stroebe, W. (1987). Productivity loss in brainstorming groups: Toward the solution of a riddle. *Journal of Personality and Social Psychology, 53*(3), 497–509. [doi:10.1037/0022-3514.53.3.497](https://doi.org/10.1037/0022-3514.53.3.497)
 - Beyer, H., & Holtzblatt, K. (1998). *Contextual design: Defining customer-centered systems.* Morgan Kaufmann.

@@ -65,5 +65,5 @@ Segmenting works because working memory is severely limited; when a continuous a
 ## Key Sources
 - Mayer, R. E., & Chandler, P. (2001). When learning is just a click away: Does simple user interaction foster deeper understanding of multimedia messages? *Journal of Educational Psychology, 93*(2), 390–397. [doi:10.1037/0022-0663.93.2.390](https://doi.org/10.1037/0022-0663.93.2.390)
 - Mayer, R. E. (2021). *Multimedia Learning* (3rd ed.). Cambridge University Press. [doi:10.1017/9781316941355](https://doi.org/10.1017/9781316941355)
-- Moreno, R. (2007). Optimizing learning from animations by minimizing cognitive load: Cognitive and affective consequences of spacing and segmentation strategies. *Journal of Educational Psychology, 99*(2), 265–277. [doi:10.1037/0022-0663.99.2.265](https://doi.org/10.1037/0022-0663.99.2.265)
+- Moreno, R. (2007). Optimizing learning from animations by minimizing cognitive load: Cognitive and affective consequences of spacing and segmentation strategies. *Journal of Educational Psychology, 99*(2), 265–277. [doi:10.1002/acp.1348](https://doi.org/10.1002/acp.1348)
 - Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the Science of Instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)

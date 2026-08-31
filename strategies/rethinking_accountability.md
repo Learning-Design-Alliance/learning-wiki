@@ -74,6 +74,6 @@ Fair assessment requires that grades reflect achievement of learning goals rathe
 - Sadler, D. R. (1989). Formative assessment and the design of instructional systems. *Instructional Science, 18*(2), 119–144. [doi:10.1007/bf00117714](https://doi.org/10.1007/bf00117714)
 - Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78. [doi:10.1037/0003-066X.55.1.68](https://doi.org/10.1037/0003-066X.55.1.68)
 - Guskey, T. R. (2004). Zero alternatives: Making grading practices more fair and effective. *Practical Assessment, Research & Evaluation, 9*(14).
-- Brookhart, S. M. (2004). Grading. *Theory Into Practice, 43*(1), 72–80. [doi:10.1207/s15430421tip4301_10](https://doi.org/10.1207/s15430421tip4301_10)
+- Brookhart, S. M. (2004). Grading. *Theory Into Practice, 43*(1), 72–80. [doi:10.4135/9781452218649.n15](https://doi.org/10.4135/9781452218649.n15)
 - Feldman, J. (2019). *Grading for equity: What it is, why it matters, and how it can transform schools and classrooms.* Corwin.
 

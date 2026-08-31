@@ -65,7 +65,7 @@ Shadowing works as an intensive, temporary scaffold: it substitutes adult regula
 - A behavior technician shadowing a student with elopement risk as part of an individualized [PBIS](https://www.pbis.org) Tier 3 plan, collecting ABC (antecedent–behavior–consequence) data that later drives a function-based intervention.
 
 ## Key Sources
-- Bradshaw, C. P., Koth, C. W., Bevans, K. B., Ialongo, N., & Leaf, P. J. (2012). Integrating school-wide positive behavioral interventions and supports with tier 2 coaching to student support teams: The PBISplus model. *Journal of Educational Psychology, 104*(3), 702–715. [doi:10.1037/a0026038](https://doi.org/10.1037/a0026038)
+- Bradshaw, C. P., Koth, C. W., Bevans, K. B., Ialongo, N., & Leaf, P. J. (2012). Integrating school-wide positive behavioral interventions and supports with tier 2 coaching to student support teams: The PBISplus model. *Journal of Educational Psychology, 104*(3), 702–715. [doi:10.1080/1754730x.2012.707429](https://doi.org/10.1080/1754730x.2012.707429)
 - Okonofua, J. A., Paunesku, D., & Walton, G. M. (2016). Brief intervention to encourage empathic discipline cuts suspension rates in half among adolescents. *Psychological Science, 27*(5), 628–638. [doi:10.1073/pnas.1523698113](https://doi.org/10.1073/pnas.1523698113)
 - Horner, R. H., Sugai, G., & Anderson, C. M. (2010). Examining the evidence base for school-wide positive behavior support. *Focus on Exceptional Children, 42*(8), 1–14. [doi:10.17161/foec.v42i8.6906](https://doi.org/10.17161/foec.v42i8.6906)
 - Bandura, A. (1977). Social learning theory. *Englewood Cliffs, NJ: Prentice Hall.*

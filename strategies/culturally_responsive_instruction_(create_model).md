@@ -80,5 +80,5 @@ Culturally responsive instruction works by connecting new content to existing kn
 - Ladson-Billings, G. (1995). Toward a theory of culturally relevant pedagogy. *American Educational Research Journal, 32*(3), 465–491. [doi:10.3102/00028312032003465](https://doi.org/10.3102/00028312032003465)
 - Gay, G. (2018). *Culturally responsive teaching: Theory, research, and practice* (3rd ed.). Teachers College Press.
 - Aronson, B., & Laughter, J. (2016). The theory and practice of culturally relevant education: A synthesis of research across content areas. *Review of Educational Research, 86*(1), 163–206. [doi:10.3102/0034654315582066](https://doi.org/10.3102/0034654315582066)
-- Paris, D., & Alim, H. S. (2014). What are we seeking to sustain through culturally sustaining pedagogy? A loving critique forward. *Harvard Educational Review, 84*(1), 85–100. [doi:10.17763/haer.84.1.p13r04884n636426](https://doi.org/10.17763/haer.84.1.p13r04884n636426)
+- Paris, D., & Alim, H. S. (2014). What are we seeking to sustain through culturally sustaining pedagogy? A loving critique forward. *Harvard Educational Review, 84*(1), 85–100. [doi:10.17763/haer.84.1.982l873k2ht16m77](https://doi.org/10.17763/haer.84.1.982l873k2ht16m77)
 - Hammond, Z. (2015). *Culturally responsive teaching and the brain*. Corwin.

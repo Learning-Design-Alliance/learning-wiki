@@ -64,7 +64,7 @@ Learning a concept means learning which features matter and which do not; multip
 - **[Harvard Business School case method](https://www.hbs.edu/mba/academic-experience/Pages/the-hbs-case-method.aspx)** — repeated case discussion across sessions builds recognition of recurring managerial decision patterns.
 
 ## Key Sources
-- Gick, M. L., & Holyoak, K. J. (1983). Schema induction and analogical transfer. *Cognitive Psychology, 15*(1), 1–38. [doi:10.1016/0010-0285(83)90018-3](https://doi.org/10.1016/0010-0285(83)90018-3)
+- Gick, M. L., & Holyoak, K. J. (1983). Schema induction and analogical transfer. *Cognitive Psychology, 15*(1), 1–38. [doi:10.1016/0010-0285(83)90002-6](https://doi.org/10.1016/0010-0285(83)90002-6)
 - Schwartz, D. L., & Bransford, J. D. (1998). A time for telling. *Cognition and Instruction, 16*(4), 475–522. [doi:10.1207/s1532690xci1604_4](https://doi.org/10.1207/s1532690xci1604_4)
 - Chi, M. T. H., de Leeuw, N., Chiu, M.-H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477. [doi:10.1207/s15516709cog1803_3](https://doi.org/10.1207/s15516709cog1803_3)
 - Marton, F., & Booth, S. (1997). *Learning and awareness.* Lawrence Erlbaum Associates.

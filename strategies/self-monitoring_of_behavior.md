@@ -66,7 +66,7 @@ Self-monitoring works because it converts an external contingency into a self-re
 
 ## Key Sources
 - Stage, S. A., & Quiroz, D. R. (1997). A meta-analysis of interventions to decrease disruptive classroom behavior in public education settings. *School Psychology Review, 26*(3), 333–368.
-- Reid, R., Trout, A. L., & Schwartz, M. (2005). Self-regulation interventions for children with attention deficit/hyperactivity disorder. *Exceptional Children, 72*(1), 5–27.
+- Reid, R., Trout, A. L., & Schwartz, M. (2005). Self-regulation interventions for children with attention deficit/hyperactivity disorder. *Exceptional Children, 72*(1), 5–27. [doi:10.17161/fec.v32i4.6773](https://doi.org/10.17161/fec.v32i4.6773)
 - Bandura, A. (1977). *Social learning theory*. Prentice Hall.
 - Shapiro, E. S., & Cole, C. L. (1994). *Behavior change in the classroom: Self-management interventions*. Guilford Press.
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

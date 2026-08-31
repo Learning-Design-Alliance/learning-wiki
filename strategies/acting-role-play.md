@@ -83,7 +83,7 @@ Role play is a form of [Active Learning](../principles/active-learning.md) groun
 
 ## Key Sources
 - Kontra, C., Lyons, D. J., Fischer, S., & Beilock, S. L. (2015). Physical experience enhances science learning. *Psychological Science, 26*(6), 737–749. [doi:10.1177/0956797615569355](https://doi.org/10.1177/0956797615569355)
-- Nestel, D., & Tierney, T. (2005). Role-play for medical students learning about communication: Guidelines for maximising benefits. *BMC Medical Education, 5*, 30. [doi:10.1186/1472-6920-5-30](https://doi.org/10.1186/1472-6920-5-30)
+- Nestel, D., & Tierney, T. (2005). Role-play for medical students learning about communication: Guidelines for maximising benefits. *BMC Medical Education, 5*, 30. [doi:10.1186/1472-6920-7-3](https://doi.org/10.1186/1472-6920-7-3)
 - Pellegrini, A. D., & Galda, L. (1982). The effects of thematic-fantasy play training on the development of children's story comprehension. *American Educational Research Journal, 19*(3), 443–452.
 - Bandura, A. (1977). *Social learning theory*. Englewood Cliffs, NJ: Prentice Hall.
 - Glenberg, A. M. (2008). Embodiment for education. In P. Calvo & A. Gomila (Eds.), *Handbook of cognitive science: An embodied approach* (pp. 355–372). Elsevier.

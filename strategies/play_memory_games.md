@@ -65,5 +65,5 @@ Memory games reliably improve performance on the trained task and very similar t
 ## Key Sources
 - Melby-Lervåg, M., & Hulme, C. (2013). Is working memory training effective? A meta-analytic review. *Developmental Psychology, 49*(2), 270–291. [doi:10.1037/a0031971](https://doi.org/10.1037/a0031971)
 - Simons, D. J., Boot, W. R., Charness, N., Gathercole, S. E., Chabris, C. F., Hambrick, D. Z., & Stine-Morrow, E. A. L. (2016). Do "brain-training" programs work? *Psychological Science in the Public Interest, 17*(3), 103–186. [doi:10.1177/1529100616661983](https://doi.org/10.1177/1529100616661983)
-- Owen, A. M., Hampshire, A., Grahn, J. A., et al. (2010). Putting brain training to the test. *Nature, 465*(7299), 775–778. [doi:10.1038/nature09086](https://doi.org/10.1038/nature09086)
+- Owen, A. M., Hampshire, A., Grahn, J. A., et al. (2010). Putting brain training to the test. *Nature, 465*(7299), 775–778. [doi:10.1038/nature09042](https://doi.org/10.1038/nature09042)
 - Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)

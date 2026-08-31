@@ -65,6 +65,6 @@ Whole class self-monitoring converts an individual behavior-management technique
 
 ## Key Sources
 - Mooney, P., Ryan, J. B., & Uhing, B. M. (2005). A review of self-management interventions targeting academic outcomes for students with emotional and behavioral disorders. *Journal of Behavioral Education, 14*(3), 203–221. [doi:10.1007/s10864-005-6298-1](https://doi.org/10.1007/s10864-005-6298-1)
-- Briesch, A. M., & Chafouleas, S. M. (2009). Review and analysis of literature on self-management interventions to promote appropriate classroom behaviors (1988–2008). *Psychology in the Schools, 46*(9), 846–863. [doi:10.1002/pits.20430](https://doi.org/10.1002/pits.20430)
-- Bruhn, A. L., McDaniel, S. C., & Kreigh, C. (2015). Self-monitoring interventions for students with behavior problems: A systematic review of current research. *Behavioral Disorders, 40*(2), 102–117. [doi:10.17988/0198-7429-40.2.102](https://doi.org/10.17988/0198-7429-40.2.102)
+- Briesch, A. M., & Chafouleas, S. M. (2009). Review and analysis of literature on self-management interventions to promote appropriate classroom behaviors (1988–2008). *Psychology in the Schools, 46*(9), 846–863. [doi:10.1037/a0016159](https://doi.org/10.1037/a0016159)
+- Bruhn, A. L., McDaniel, S. C., & Kreigh, C. (2015). Self-monitoring interventions for students with behavior problems: A systematic review of current research. *Behavioral Disorders, 40*(2), 102–117. [doi:10.17988/bd-13-45.1](https://doi.org/10.17988/bd-13-45.1)
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

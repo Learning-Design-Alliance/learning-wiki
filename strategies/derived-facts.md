@@ -62,6 +62,6 @@ Derived facts leverage existing knowledge as a scaffold for new knowledge, reduc
 ## Key Sources
 - Carpenter, T. P., Fennema, E., Peterson, P. L., Chiang, C.-P., & Loef, M. (1989). Using knowledge of children's mathematics thinking in classroom teaching: An experimental study. *American Educational Research Journal, 26*(4), 499–531. [doi:10.3102/00028312026004499](https://doi.org/10.3102/00028312026004499)
 - Siegler, R. S. (1988). Strategy choice procedures and the development of multiplication skill. *Journal of Experimental Psychology: General, 117*(3), 258–275. [doi:10.1037/0096-3445.117.3.258](https://doi.org/10.1037/0096-3445.117.3.258)
-- Dowker, A. (2005). *Individual differences in arithmetic: Implications for psychology, neuroscience and education.* Psychology Press. [doi:10.4324/9780203324894](https://doi.org/10.4324/9780203324894)
+- Dowker, A. (2005). *Individual differences in arithmetic: Implications for psychology, neuroscience and education.* Psychology Press. [doi:10.4324/9781315755526-2](https://doi.org/10.4324/9781315755526-2)
 - Parrish, S. D. (2010). Number talks build numerical reasoning. *Teaching Children Mathematics, 18*(3), 198–206.
 - Baroody, A. J. (2006). Why children have difficulties mastering the basic number combinations and how to help them. *Teaching Children Mathematics, 13*(1), 22–31. [doi:10.5951/tcm.13.1.0022](https://doi.org/10.5951/tcm.13.1.0022)

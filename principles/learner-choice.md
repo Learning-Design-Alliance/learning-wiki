@@ -76,6 +76,6 @@ Learner choice improves motivation and ownership when the options are meaningful
 - **Paced pathway choices**: Learners decide whether to review, practice more, or move into extension work.
 
 ## Key Sources
-- Hanewicz, C., Platt, A., & Arendt, A. (2017). Creating a learner-centered teaching environment using student choice in assignments. *Distance Education, 38*(3), 273-287. [https://doi.org/10.1080/01587919.2017.1369008](https://doi.org/10.1080/01587919.2017.1369008)
+- Hanewicz, C., Platt, A., & Arendt, A. (2017). Creating a learner-centered teaching environment using student choice in assignments. *Distance Education, 38*(3), 273-287. [https://doi.org/10.1080/01587919.2017.1369349](https://doi.org/10.1080/01587919.2017.1369349)
 - Stefanou, C. R., Perencevich, K. C., DiCintio, M., & Turner, J. C. (2004). Supporting autonomy in the classroom: Ways teachers encourage student decision making and ownership. *Educational Psychologist, 39*(2), 97-110. [https://doi.org/10.1207/s15326985ep3902_2](https://doi.org/10.1207/s15326985ep3902_2)
 - Herbold, K. (2011). Giving student choice in online learning environments: Addressing adult learner needs. *International Journal of Technology, Knowledge & Society, 7*(5).

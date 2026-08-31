@@ -67,5 +67,5 @@ Mind mapping's learning benefit comes primarily from the *generative processing*
 ## Key Sources
 - Nesbit, J. C., & Adesope, O. O. (2006). Learning with concept and knowledge maps: A meta-analysis. *Review of Educational Research, 76*(3), 413–448. [doi:10.3102/00346543076003413](https://doi.org/10.3102/00346543076003413)
 - Karpicke, J. D., & Blunt, J. R. (2011). Retrieval practice produces more learning than elaborative studying with concept mapping. *Science, 331*(6018), 772–775. [doi:10.1126/science.1199327](https://doi.org/10.1126/science.1199327)
-- Farrand, P., Hussain, F., & Hennessy, E. (2002). The efficacy of the 'mind map' study technique. *Medical Education, 36*(5), 426–431. [doi:10.1046/j.1365-2923.2002.01169.x](https://doi.org/10.1046/j.1365-2923.2002.01169.x)
+- Farrand, P., Hussain, F., & Hennessy, E. (2002). The efficacy of the 'mind map' study technique. *Medical Education, 36*(5), 426–431. [doi:10.1046/j.1365-2923.2002.01205.x](https://doi.org/10.1046/j.1365-2923.2002.01205.x)
 - Novak, J. D., & Cañas, A. J. (2008). The theory underlying concept maps and how to construct and use them. *Florida Institute for Human and Machine Cognition Technical Report IHMC CmapTools 2006-01.*

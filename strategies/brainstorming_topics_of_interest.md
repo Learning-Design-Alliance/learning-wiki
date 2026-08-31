@@ -73,6 +73,6 @@ Brainstorming topics of interest leverages situational interest as an entry poin
 
 ## Key Sources
 - Hidi, S., & Renninger, K. A. (2006). The four-phase model of interest development. *Educational Psychologist, 41*(2), 111–127. [doi:10.1207/s15326985ep4102_4](https://doi.org/10.1207/s15326985ep4102_4)
-- Schraw, G., & Lehman, S. (2001). Situational interest: A review of the literature and directions for future research. *Educational Psychology Review, 13*(1), 23–52. [doi:10.1023/A:1016682717484](https://doi.org/10.1023/A:1016682717484)
+- Schraw, G., & Lehman, S. (2001). Situational interest: A review of the literature and directions for future research. *Educational Psychology Review, 13*(1), 23–52. [doi:10.1023/a:1009004801455](https://doi.org/10.1023/a:1009004801455)
 - Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78. [doi:10.1037/0003-066X.55.1.68](https://doi.org/10.1037/0003-066X.55.1.68)
 - Guthrie, J. T., Wigfield, A., & You, W. (2012). Instructional contexts for engagement and achievement. In S. L. Christenson et al. (Eds.), *Handbook of Research on Student Engagement* (pp. 603–623). Springer. [doi:10.1007/978-1-4614-2018-7_29](https://doi.org/10.1007/978-1-4614-2018-7_29)

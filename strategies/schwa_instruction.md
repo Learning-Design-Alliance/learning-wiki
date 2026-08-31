@@ -70,5 +70,5 @@ Schwa instruction is a form of structured literacy teaching that connects phonol
 ## Key Sources
 - Moats, L. C. (2020). *Speech to print: Language essentials for teachers* (3rd ed.). Brookes Publishing.
 - Ehri, L. C. (2005). Learning to read words: Theory, findings, and issues. *Scientific Studies of Reading, 9*(2), 167–188. [doi:10.1207/s1532799xssr0902_4](https://doi.org/10.1207/s1532799xssr0902_4)
-- Treiman, R., & Cassar, M. (1996). Effects of morphology on children's spelling of final consonant clusters. *Journal of Experimental Child Psychology, 63*(2), 406–428. [doi:10.1006/jecp.1996.0055](https://doi.org/10.1006/jecp.1996.0055)
+- Treiman, R., & Cassar, M. (1996). Effects of morphology on children's spelling of final consonant clusters. *Journal of Experimental Child Psychology, 63*(2), 406–428. [doi:10.1006/jecp.1996.0045](https://doi.org/10.1006/jecp.1996.0045)
 - Ehri, L. C. (2020). The science of learning to read words: A case for systematic phonics instruction. *Reading Research Quarterly, 55*(S1), S45–S60. [doi:10.1002/rrq.334](https://doi.org/10.1002/rrq.334)

@@ -69,4 +69,4 @@ Technology-mediated reflection works because it lowers the transaction cost of w
 - Schön, D. A. (1983). *The Reflective Practitioner: How Professionals Think in Action*. Basic Books.
 - Boud, D., Keogh, R., & Walker, D. (1985). *Reflection: Turning Experience into Learning*. Kogan Page.
 - Moon, J. A. (2004). *A Handbook of Reflective and Experiential Learning: Theory and Practice*. Routledge. [doi:10.4324/9780203416150](https://doi.org/10.4324/9780203416150)
-- Hew, K. F., & Cheung, W. S. (2013). Use of Web 2.0 technologies in K-12 and higher education: The search for affordances. *Educational Research Review, 9*, 47–64. [doi:10.1016/j.edurev.2012.11.001](https://doi.org/10.1016/j.edurev.2012.11.001)
+- Hew, K. F., & Cheung, W. S. (2013). Use of Web 2.0 technologies in K-12 and higher education: The search for affordances. *Educational Research Review, 9*, 47–64. [doi:10.1016/j.edurev.2012.08.001](https://doi.org/10.1016/j.edurev.2012.08.001)

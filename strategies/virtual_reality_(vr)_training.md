@@ -75,7 +75,7 @@ VR's distinctive contribution is *embodied, consequence-free practice* in enviro
 - **Flight simulation** — the longest-standing VR-adjacent training tradition; full-motion simulators are the regulatory standard for airline pilot certification
 
 ## Key Sources
-- Makransky, G., & Mayer, R. E. (2022). Benefits of immersion and presence in a virtual reality-based learning environment. *Educational Psychology Review, 34*, 2323–2345. [doi:10.1007/s10648-022-09675-4](https://doi.org/10.1007/s10648-022-09675-4)
+- Makransky, G., & Mayer, R. E. (2022). Benefits of immersion and presence in a virtual reality-based learning environment. *Educational Psychology Review, 34*, 2323–2345. [doi:10.4324/9781003386131-13](https://doi.org/10.4324/9781003386131-13)
 - Parong, J., & Mayer, R. E. (2018). Learning science in immersive virtual reality. *Journal of Educational Psychology, 110*(6), 785–797. [doi:10.1037/edu0000241](https://doi.org/10.1037/edu0000241)
 - Jensen, L., & Konradsen, F. (2018). A review of the use of virtual reality head-mounted displays in education and training. *Education and Information Technologies, 23*, 1515–1529. [doi:10.1007/s10639-017-9676-0](https://doi.org/10.1007/s10639-017-9676-0)
 - Seymour, N. E., Gallagher, A. G., Roman, S. A., O'Brien, M. K., Bansal, V. K., Andersen, D. K., & Satava, R. M. (2002). Virtual reality training improves operating room performance: Results of a randomized, double-blinded study. *Annals of Surgery, 236*(4), 458–464. [doi:10.1097/00000658-200210000-00008](https://doi.org/10.1097/00000658-200210000-00008)

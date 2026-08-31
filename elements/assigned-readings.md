@@ -70,4 +70,4 @@ Assigned readings support self-paced encoding and allow learners to revisit diff
 - Chi, M. T. H., de Leeuw, N., Chiu, M.-H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477. [doi:10.1207/s15516709cog1803_3](https://doi.org/10.1207/s15516709cog1803_3)
 - Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)
 - Kintsch, W. (1998). *Comprehension: A paradigm for cognition.* Cambridge University Press.
-- Daniel, D. B., & Broida, J. (2004). Using web-based quizzing to improve preparation and learning. *Teaching of Psychology, 31*(3), 199–200. [doi:10.1207/s15328023top3103_4](https://doi.org/10.1207/s15328023top3103_4)
+- Daniel, D. B., & Broida, J. (2004). Using web-based quizzing to improve preparation and learning. *Teaching of Psychology, 31*(3), 199–200. [doi:10.1207/s15328023top3103_6](https://doi.org/10.1207/s15328023top3103_6)

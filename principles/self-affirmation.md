@@ -75,7 +75,7 @@ Self affirmation works by decoupling self-worth from performance in the threaten
 **Onboarding in MOOCs and online courses** — Some course onboarding sequences include a brief "why are you here / what matters to you" reflective prompt; while not always framed as affirmation, it serves the same buffering function for learners entering a high-failure-rate environment.
 
 ## Key Sources
-- Steele, C. M. (1988). The psychology of self-affirmation: Sustaining the integrity of the self. In L. Berkowitz (Ed.), *Advances in Experimental Social Psychology* (Vol. 21, pp. 261–302). Academic Press.
+- Steele, C. M. (1988). The psychology of self-affirmation: Sustaining the integrity of the self. In L. Berkowitz (Ed.), *Advances in Experimental Social Psychology* (Vol. 21, pp. 261–302). Academic Press. [doi:10.1016/s0065-2601(08)60229-4](https://doi.org/10.1016/s0065-2601(08)60229-4)
 - Cohen, G. L., & Sherman, D. K. (2014). The psychology of change: Self-affirmation and social psychological intervention. *Annual Review of Psychology, 65*, 333–371. [doi:10.1146/annurev-psych-010213-115137](https://doi.org/10.1146/annurev-psych-010213-115137)
 - Miyake, A., Kost-Smith, L. E., Finkelstein, N. D., Pollock, S. J., Cohen, G. L., & Ito, T. A. (2010). Reducing the gender achievement gap in college science: A classroom study of values affirmation. *Science, 330*(6008), 1234–1237. [doi:10.1126/science.1195996](https://doi.org/10.1126/science.1195996)
 - Walton, G. M., & Cohen, G. L. (2011). A brief social-belonging intervention improves academic and health outcomes of minority students. *Science, 331*(6023), 1447–1451. [doi:10.1126/science.1198364](https://doi.org/10.1126/science.1198364)

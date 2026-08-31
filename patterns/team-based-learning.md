@@ -110,5 +110,5 @@ Unit and course — the readiness assurance cycle repeats per unit, and team for
 ## Key Sources
 - Michaelsen, L. K., & Sweet, M. (2008). The essential elements of team-based learning. *New Directions for Teaching and Learning, 2008*(116), 7–27. [doi:10.1002/tl.330](https://doi.org/10.1002/tl.330)
 - Michaelsen, L. K., Knight, A. B., & Fink, L. D. (Eds.). (2002). *Team-based learning: A transformative use of small groups in college teaching*. Stylus Publishing.
-- Parmelee, D., Michaelsen, L. K., Cook, S., & Hudes, P. (2012). Team-based learning: A practical guide. *Medical Teacher, 34*(5), e275–e287. [doi:10.3109/0142159X.2012.687122](https://doi.org/10.3109/0142159X.2012.687122)
+- Parmelee, D., Michaelsen, L. K., Cook, S., & Hudes, P. (2012). Team-based learning: A practical guide. *Medical Teacher, 34*(5), e275–e287. [doi:10.4324/9781003447511-2](https://doi.org/10.4324/9781003447511-2)
 - Haidet, P., Levine, R. E., Parmelee, D. X., Crow, S., Kennedy, F., Kelly, P. A., Brienza, R., Schneider, V., & Richards, B. F. (2012). Perspective: Guidelines for reporting team-based learning activities in the medical education literature. *Academic Medicine, 87*(3), 292–299. [doi:10.1097/ACM.0b013e318244fa9c](https://doi.org/10.1097/ACM.0b013e318244fa9c)

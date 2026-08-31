@@ -67,7 +67,7 @@ PBS treats behavior as a learned, communicative act shaped by its environment, a
 - **Functional communication training** — teaching a nonverbal student to request a break with a card instead of throwing materials, directly replacing escape-motivated aggression.
 
 ## Key Sources
-- Carr, E. G., Dunlap, G., Horner, R. H., Koegel, R. L., Turnbull, A. P., Sailor, W., Anderson, J. L., Albin, R. W., Koegel, L. K., & Fox, L. (2002). Positive behavior support: Evolution of an applied science within a person-centered context. *Journal of Positive Behavior Interventions, 4*(1), 4–16.
+- Carr, E. G., Dunlap, G., Horner, R. H., Koegel, R. L., Turnbull, A. P., Sailor, W., Anderson, J. L., Albin, R. W., Koegel, L. K., & Fox, L. (2002). Positive behavior support: Evolution of an applied science within a person-centered context. *Journal of Positive Behavior Interventions, 4*(1), 4–16. [doi:10.1177/154079699702200404](https://doi.org/10.1177/154079699702200404)
 - Sugai, G., & Horner, R. H. (2002). The evolution of discipline practices: School-wide positive behavior supports. *Child & Family Behavior Therapy, 24*(1–2), 23–50. [doi:10.1300/J019v24n01_03](https://doi.org/10.1300/J019v24n01_03)
 - Horner, R. H., Sugai, G., & Anderson, C. M. (2010). Examining the evidence base for school-wide positive behavior support. *Focus on Exceptional Children, 42*(8), 1–14. [doi:10.17161/foec.v42i8.6906](https://doi.org/10.17161/foec.v42i8.6906)
 - Bradshaw, C. P., Mitchell, M. M., & Leaf, P. J. (2010). Examining the effects of schoolwide positive behavioral interventions and supports on student outcomes. *Journal of Positive Behavior Interventions, 12*(3), 133–148. [doi:10.1177/1098300709334798](https://doi.org/10.1177/1098300709334798)

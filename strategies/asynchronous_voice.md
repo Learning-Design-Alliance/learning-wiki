@@ -71,6 +71,6 @@ Voice-based asynchronous discussion increases social presence and teaching prese
 
 ## Key Sources
 - Garrison, D. R., Anderson, T., & Archer, W. (2000). Critical inquiry in a text-based environment: Computer conferencing in higher education. *The Internet and Higher Education, 2*(2–3), 87–105. [doi:10.1016/S1096-7516(00)00016-6](https://doi.org/10.1016/S1096-7516(00)00016-6)
-- Ice, P., Curtis, R., Phillips, P., & Wells, J. (2007). Using asynchronous audio feedback to enhance teaching presence and students' sense of community. *Journal of Asynchronous Learning Networks, 11*(2), 3–25.
-- Borup, J., West, R. E., & Graham, C. R. (2013). The influence of asynchronous video communication on learner social presence: A multivariate analysis. *Distance Education, 34*(1), 67–83. [doi:10.1080/01587919.2013.770308](https://doi.org/10.1080/01587919.2013.770308)
+- Ice, P., Curtis, R., Phillips, P., & Wells, J. (2007). Using asynchronous audio feedback to enhance teaching presence and students' sense of community. *Journal of Asynchronous Learning Networks, 11*(2), 3–25. [doi:10.24059/olj.v11i2.1724](https://doi.org/10.24059/olj.v11i2.1724)
+- Borup, J., West, R. E., & Graham, C. R. (2013). The influence of asynchronous video communication on learner social presence: A multivariate analysis. *Distance Education, 34*(1), 67–83. [doi:10.1080/01587919.2013.770427](https://doi.org/10.1080/01587919.2013.770427)
 - Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the Science of Instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)

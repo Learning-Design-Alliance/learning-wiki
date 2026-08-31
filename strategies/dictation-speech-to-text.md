@@ -77,8 +77,8 @@ Speech-to-text removes the transcription bottleneck — handwriting mechanics, s
 - Speech-to-text as a documented accommodation on state assessments under IEP/504 plans, per [CAST UDL Guidelines](https://udlguidelines.cast.org) (multiple means of action and expression).
 
 ## Key Sources
-- MacArthur, C. A. (2009). Reflections on research on writing and technology for struggling writers. *Learning Disabilities Research & Practice, 24*(2), 93–102. [doi:10.1111/j.1540-5826.2009.01283.x](https://doi.org/10.1111/j.1540-5826.2009.01283.x)
+- MacArthur, C. A. (2009). Reflections on research on writing and technology for struggling writers. *Learning Disabilities Research & Practice, 24*(2), 93–102. [doi:10.1111/j.1540-5826.2009.00283.x](https://doi.org/10.1111/j.1540-5826.2009.00283.x)
 - Graham, S., & Perin, D. (2007). *Writing Next: Effective strategies to improve writing of adolescents in middle and high schools.* Alliance for Excellent Education. (Meta-analysis identifying transcription skill as a bottleneck for developing writers.)
-- Forgrave, K. E. (2002). Assistive technology: Empowering students with learning disabilities. *The Clearing House, 75*(3), 122–126. [doi:10.1080/00098650209599252](https://doi.org/10.1080/00098650209599252)
+- Forgrave, K. E. (2002). Assistive technology: Empowering students with learning disabilities. *The Clearing House, 75*(3), 122–126. [doi:10.1080/00098650209599250](https://doi.org/10.1080/00098650209599250)
 - Evmenova, A. S., & Behrmann, M. M. (2011). Research-based practices in creative writing: A case study of the impact of outlining and graphic organizers on writing. *Journal of Special Education Technology, 26*(4), 1–14. (Speech-to-text within a technology-supported writing intervention.)
 - CAST. (2018). *Universal Design for Learning Guidelines version 2.2.* [https://udlguidelines.cast.org](https://udlguidelines.cast.org)

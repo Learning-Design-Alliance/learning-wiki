@@ -68,5 +68,5 @@ Self monitoring is only as good as the criteria it operates against: checklists 
 ## Key Sources
 - Graham, S., & Harris, K. R. (2005). Improving the writing performance of young struggling writers: Theoretical and programmatic research from the center on accelerating student learning. *The Journal of Special Education, 39*(1), 19–33. [doi:10.1177/00224669050390010301](https://doi.org/10.1177/00224669050390010301)
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
-- Dunlosky, J., Rawson, K. A., & Middleton, E. L. (2005). What constrains the accuracy of metacomprehension judgments? Testing the transfer-appropriate-monitoring and accessibility hypotheses. *Journal of Memory and Language, 52*(4), 551–565. [doi:10.1016/j.jml.2005.01.017](https://doi.org/10.1016/j.jml.2005.01.017)
+- Dunlosky, J., Rawson, K. A., & Middleton, E. L. (2005). What constrains the accuracy of metacomprehension judgments? Testing the transfer-appropriate-monitoring and accessibility hypotheses. *Journal of Memory and Language, 52*(4), 551–565. [doi:10.1016/j.jml.2005.01.011](https://doi.org/10.1016/j.jml.2005.01.011)
 - Gawande, A. (2009). *The Checklist Manifesto: How to Get Things Right*. Metropolitan Books.

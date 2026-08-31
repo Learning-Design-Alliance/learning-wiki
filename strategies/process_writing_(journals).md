@@ -85,6 +85,6 @@ Frequent low-stakes writing builds fluency by reducing the working-memory burden
 ## Key Sources
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Psychological Science, 12*(1), 23–44. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
 - Hyland, K. (2003). *Second Language Writing*. Cambridge University Press. [doi:10.1017/CBO9780511667251](https://doi.org/10.1017/CBO9780511667251)
-- Truscott, J. (1996). The case against grammar correction in L2 writing classes. *Language Learning, 46*(2), 327–369. [doi:10.2307/3587947](https://doi.org/10.2307/3587947)
+- Truscott, J. (1996). The case against grammar correction in L2 writing classes. *Language Learning, 46*(2), 327–369. [doi:10.1111/j.1467-1770.1996.tb01238.x](https://doi.org/10.1111/j.1467-1770.1996.tb01238.x)
 - Elbow, P. (1973). *Writing Without Teachers*. Oxford University Press.
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)

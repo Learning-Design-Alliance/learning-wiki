@@ -63,6 +63,6 @@ Naming and repeatedly applying evaluation criteria converts tacit "gut feelings"
 
 ## Key Sources
 - Abrami, P. C., Bernard, R. M., Borokhovski, E., Waddington, D. I., Wade, C. A., & Persson, T. (2015). Strategies for teaching students to think critically: A meta-analysis. *Review of Educational Research, 85*(2), 275–314. [doi:10.3102/0034654314551063](https://doi.org/10.3102/0034654314551063)
-- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(11).
+- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(11). [doi:10.37016/mr-2020-56](https://doi.org/10.37016/mr-2020-56)
 - Breakstone, J., Smith, M., Wineburg, S., Lester, J., & Ortega, T. (2018). Why we need a new approach to teaching digital literacy. *Phi Delta Kappan, 99*(6), 54–58.
 - Facione, P. A. (1990). *Critical thinking: A statement of expert consensus for purposes of educational assessment and instruction* (The Delphi Report). California Academic Press.

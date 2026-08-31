@@ -70,6 +70,6 @@ Self-reinforcement converts reinforcement contingencies from teacher-controlled 
 
 ## Key Sources
 - Bandura, A. (1977). *Social learning theory*. Prentice Hall.
-- Bandura, A., & Perloff, B. (1967). Relative efficacy of self-monitored and externally imposed reinforcement systems. *Journal of Personality and Social Psychology, 7*(2), 111–116. [doi:10.1037/h0024787](https://doi.org/10.1037/h0024787)
+- Bandura, A., & Perloff, B. (1967). Relative efficacy of self-monitored and externally imposed reinforcement systems. *Journal of Personality and Social Psychology, 7*(2), 111–116. [doi:10.1037/h0024974](https://doi.org/10.1037/h0024974)
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
 - Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 125*(6), 627–668. [doi:10.1037/0033-2909.125.6.627](https://doi.org/10.1037/0033-2909.125.6.627)

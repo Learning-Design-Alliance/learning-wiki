@@ -65,7 +65,7 @@ Strategy charts externalize the strategic repertoire that experts hold internall
 - **Reading workshop anchor charts** (Teachers College Reading & Writing Project): co-created charts of decoding and comprehension strategies ("flip the sound," "back up and reread") that students reference during independent reading
 
 ## Key Sources
-- Mevarech, Z. R., & Kramarski, B. (1997). IMPROVE: A multidimensional method for teaching mathematics in heterogeneous classrooms. *American Educational Research Journal, 34*(2), 365–394. [doi:10.3102/00028312034002379](https://doi.org/10.3102/00028312034002379)
+- Mevarech, Z. R., & Kramarski, B. (1997). IMPROVE: A multidimensional method for teaching mathematics in heterogeneous classrooms. *American Educational Research Journal, 34*(2), 365–394. [doi:10.2307/1163362](https://doi.org/10.2307/1163362)
 - Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)
 - Palincsar, A. S., & Brown, A. L. (1984). Reciprocal teaching of comprehension-fostering and comprehension-monitoring activities. *Cognition and Instruction, 1*(2), 117–175. [doi:10.1207/s1532690xci0102_1](https://doi.org/10.1207/s1532690xci0102_1)
 - Pressley, M., Woloshyn, V., et al. (1995). *Cognitive strategy instruction that really improves children's academic performance* (2nd ed.). Brookline Books.

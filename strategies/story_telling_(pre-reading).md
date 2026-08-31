@@ -66,6 +66,6 @@ Pre-reading storytelling works as a form of [Activation](../principles/activatio
 
 ## Key Sources
 - Sadoski, M., & Paivio, A. (2013). *Imagery and text: A dual coding theory of reading and writing* (2nd ed.). Routledge.
-- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil et al. (Eds.), *Handbook of reading research* (Vol. 3, pp. 403–422). Erlbaum.
+- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil et al. (Eds.), *Handbook of reading research* (Vol. 3, pp. 403–422). Erlbaum. [doi:10.1108/978-1-60752-786-220251011](https://doi.org/10.1108/978-1-60752-786-220251011)
 - Willingham, D. T. (2004). The privileged status of story. *American Educator, 28*(2), 43–45.
 - Pressley, M. (2002). Reading instruction that works: The case for balanced teaching (2nd ed.). Guilford Press.

@@ -68,5 +68,5 @@ BOOKMATCH operationalizes [Scaffolding](../elements/scaffolding.md) for a metaco
 ## Key Sources
 - Wedwick, L., & Wutz, J. (2013). BOOKMATCH: Scaffolding independent book selection. *Journal of Adolescent & Adult Literacy, 57*(3), 227–236.
 - Guthrie, J. T., & Humenick, N. M. (2004). Motivating students to read: Evidence for classroom practices that increase reading motivation and achievement. In R. B. Ruddell & N. J. Unrau (Eds.), *Theoretical models and processes of reading* (5th ed., pp. 629–653). International Reading Association.
-- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil, P. B. Mosenthal, P. D. Pearson, & R. Barr (Eds.), *Handbook of reading research* (Vol. 3, pp. 403–422). Erlbaum.
+- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil, P. B. Mosenthal, P. D. Pearson, & R. Barr (Eds.), *Handbook of reading research* (Vol. 3, pp. 403–422). Erlbaum. [doi:10.1108/978-1-60752-786-220251011](https://doi.org/10.1108/978-1-60752-786-220251011)
 - Pearson, P. D., & Gallagher, M. C. (1983). The instruction of reading comprehension. *Contemporary Educational Psychology, 8*(3), 317–344. [doi:10.1016/0361-476X(83)90019-X](https://doi.org/10.1016/0361-476X(83)90019-X)

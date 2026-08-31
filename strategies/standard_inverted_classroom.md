@@ -64,7 +64,7 @@ The model works only when both halves are redesigned: pre-class materials must b
 - **University-level flipped calculus and statistics courses** — pre-class videos plus in-class worksheets; meta-analytic results show moderate gains over traditional lecture, strongest when in-class time is structured group problem solving [+M]
 
 ## Key Sources
-- Lage, M. J., Platt, G. J., & Treglia, M. (2000). Inverting the classroom: A gateway to creating an inclusive learning environment. *The Journal of Economic Education, 31*(1), 30–43. [doi:10.1080/00220480009596767](https://doi.org/10.1080/00220480009596767)
+- Lage, M. J., Platt, G. J., & Treglia, M. (2000). Inverting the classroom: A gateway to creating an inclusive learning environment. *The Journal of Economic Education, 31*(1), 30–43. [doi:10.1080/00220480009596759](https://doi.org/10.1080/00220480009596759)
 - Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., Jordt, H., & Wenderoth, M. P. (2014). Active learning increases student performance in science, engineering, and mathematics. *PNAS, 111*(23), 8410–8415. [doi:10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)
 - Jensen, J. L., Kummer, T. A., & Godoy, P. D. d. M. (2015). Improvements from a flipped classroom may simply be the fruits of active learning. *CBE—Life Sciences Education, 14*(1), ar5. [doi:10.1187/cbe.14-08-0129](https://doi.org/10.1187/cbe.14-08-0129)
 - Bishop, J. L., & Verleger, M. A. (2013). The flipped classroom: A survey of the research. *ASEE Annual Conference & Exposition*. [doi:10.18260/1-2--22585](https://doi.org/10.18260/1-2--22585)

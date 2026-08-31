@@ -70,6 +70,6 @@ Reading conferences operationalize [formative assessment](../patterns/formative-
 ## Key Sources
 - Atwell, N. (1987). *In the middle: Writing, reading, and learning with adolescents*. Boynton/Cook.
 - Calkins, L. M. (1986). *The art of teaching writing*. Heinemann.
-- Taylor, B. M., Pearson, P. D., Peterson, D. S., & Rodriguez, M. C. (2003). Reading growth in high-poverty classrooms: The influence of instructional practices. *Reading Research Quarterly, 38*(1), 62–115. [doi:10.1598/RRQ.38.1.3](https://doi.org/10.1598/RRQ.38.1.3)
+- Taylor, B. M., Pearson, P. D., Peterson, D. S., & Rodriguez, M. C. (2003). Reading growth in high-poverty classrooms: The influence of instructional practices. *Reading Research Quarterly, 38*(1), 62–115. [doi:10.1086/499740](https://doi.org/10.1086/499740)
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
 - Ivey, G., & Johnston, P. H. (2013). Engagement with young adult literature: Outcomes and processes. *Reading Research Quarterly, 48*(3), 255–275. [doi:10.1002/rrq.46](https://doi.org/10.1002/rrq.46)

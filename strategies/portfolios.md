@@ -64,7 +64,7 @@ Portfolios shift assessment authority toward learners, requiring them to evaluat
 - **IB Middle Years and Diploma Programmes** — require documented process work and reflective statements in arts and theory of knowledge, functioning as curriculum-embedded portfolios.
 
 ## Key Sources
-- Klenowski, V., Askew, S., & Carnell, E. (2006). Portfolios for learning, assessment and professional development in higher education. *Assessment & Evaluation in Higher Education, 31*(4), 447–462. [doi:10.1080/02602930600679182](https://doi.org/10.1080/02602930600679182)
-- Driessen, E., van der Vleuten, C., Schuwirth, L., van Tartwijk, J., & Vermunt, J. (2005). The use of qualitative research criteria for portfolio assessment as an alternative to reliability evaluation: A case study. *Medical Education, 39*(2), 214–220. [doi:10.1111/j.1365-2929.2005.02078.x](https://doi.org/10.1111/j.1365-2929.2005.02078.x)
+- Klenowski, V., Askew, S., & Carnell, E. (2006). Portfolios for learning, assessment and professional development in higher education. *Assessment & Evaluation in Higher Education, 31*(4), 447–462. [doi:10.1080/02602930500352816](https://doi.org/10.1080/02602930500352816)
+- Driessen, E., van der Vleuten, C., Schuwirth, L., van Tartwijk, J., & Vermunt, J. (2005). The use of qualitative research criteria for portfolio assessment as an alternative to reliability evaluation: A case study. *Medical Education, 39*(2), 214–220. [doi:10.1111/j.1365-2929.2004.02059.x](https://doi.org/10.1111/j.1365-2929.2004.02059.x)
 - Boud, D., & Falchikov, N. (2006). Aligning assessment with long-term learning. *Assessment & Evaluation in Higher Education, 31*(4), 399–413. [doi:10.1080/02602930600679050](https://doi.org/10.1080/02602930600679050)
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)

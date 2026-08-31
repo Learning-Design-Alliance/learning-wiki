@@ -70,6 +70,6 @@ Lesson Study works because it converts teaching into a site of systematic inquir
 ## Key Sources
 - Lewis, C., Perry, R., & Murata, A. (2006). How should research contribute to instructional improvement? The case of lesson study. *Educational Researcher, 35*(3), 3–14. [doi:10.3102/0013189X035003003](https://doi.org/10.3102/0013189X035003003)
 - Stigler, J. W., & Hiebert, J. (1999). *The teaching gap: Best ideas from the world's teachers for improving education in the classroom.* Free Press.
-- Lewis, C., & Tsuchida, I. (1998). A lesson is like a swiftly flowing river: How research lessons improve Japanese education. *American Educator, 22*(4), 12–17.
+- Lewis, C., & Tsuchida, I. (1998). A lesson is like a swiftly flowing river: How research lessons improve Japanese education. *American Educator, 22*(4), 12–17. [doi:10.1177/136548029900200117](https://doi.org/10.1177/136548029900200117)
 - Dudley, P. (Ed.). (2013). *Teacher learning in lesson study: What lesson study brings to professional dialogue.* Routledge.
 - Rock, T. C., & Wilson, C. (2005). Improving teaching through lesson study. *Teacher Education Quarterly, 32*(1), 77–92.

@@ -62,7 +62,7 @@ Structured observation tasks give young learners concrete experiences on which l
 - **Mystery mixing stations** — three unlabeled clear liquids at classroom stations; learners observe drops of each in water and infer which pairs are the same substance.
 
 ## Key Sources
-- Eberbach, C., & Crowley, K. (2009). From everyday to scientific observation: How children learn to observe the biologist's world. *Journal of Research in Science Teaching, 46*(2), 123–141. [doi:10.1002/tea.20266](https://doi.org/10.1002/tea.20266)
+- Eberbach, C., & Crowley, K. (2009). From everyday to scientific observation: How children learn to observe the biologist's world. *Journal of Research in Science Teaching, 46*(2), 123–141. [doi:10.3102/0034654308325899](https://doi.org/10.3102/0034654308325899)
 - National Research Council. (2007). *Taking science to school: Learning and teaching science in grades K–8.* The National Academies Press. [doi:10.17226/11625](https://doi.org/10.17226/11625)
 - National Research Council. (2012). *A framework for K–12 science education: Practices, crosscutting concepts, and core ideas.* The National Academies Press. [doi:10.17226/13165](https://doi.org/10.17226/13165)
 - Gunstone, R. F., & White, R. T. (1981). Understanding of gravity. *Science Education, 65*(3), 291–299. [doi:10.1002/sce.3730650308](https://doi.org/10.1002/sce.3730650308)

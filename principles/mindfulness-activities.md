@@ -78,6 +78,6 @@ Mindfulness activities are best treated as readiness supports rather than as cor
 - **Reflective attention prompt**: Learners note their current focus level and what they need to engage productively.
 
 ## Key Sources
-- Baird, B., Mrazek, M. D., Phillips, D. T., & Schooler, J. W. (2014). Domain-specific enhancement of metacognitive ability following meditation training. *Journal of Experimental Psychology: General, 143*(5), 1972-1979. [https://doi.org/10.1037/a0036883](https://doi.org/10.1037/a0036883)
+- Baird, B., Mrazek, M. D., Phillips, D. T., & Schooler, J. W. (2014). Domain-specific enhancement of metacognitive ability following meditation training. *Journal of Experimental Psychology: General, 143*(5), 1972-1979. [https://doi.org/10.1037/a0036882](https://doi.org/10.1037/a0036882)
 - Gorman, T. E., & Green, C. S. (2016). Short-term mindfulness intervention reduces the negative attentional effects associated with heavy media multitasking. *Scientific Reports, 6*, 24542. [https://doi.org/10.1038/srep24542](https://doi.org/10.1038/srep24542)
 - Weger, U. W., Hooper, N., Meier, B. P., & Hopthrow, T. (2012). Mindful maths: Reducing the impact of stereotype threat through a mindfulness exercise. *Consciousness and Cognition, 21*(1), 471-475. [https://doi.org/10.1016/j.concog.2011.10.011](https://doi.org/10.1016/j.concog.2011.10.011)

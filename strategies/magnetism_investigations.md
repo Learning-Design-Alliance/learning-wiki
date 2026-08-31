@@ -70,6 +70,6 @@ Hands-on investigation makes an invisible force observable and testable, which i
 - **FOSS Magnetism and Motion module (Lawrence Hall of Science)** — A published curriculum sequence of magnet investigations with prediction sheets and embedded assessment. https://www.fossweb.com
 
 ## Key Sources
-- Eshach, H., & Fried, M. N. (2005). Should science be taught in early childhood? *Journal of Science Education and Technology, 14*(3), 315–336. [doi:10.1007/s10956-005-3938-2](https://doi.org/10.1007/s10956-005-3938-2)
+- Eshach, H., & Fried, M. N. (2005). Should science be taught in early childhood? *Journal of Science Education and Technology, 14*(3), 315–336. [doi:10.1007/s10956-005-7198-9](https://doi.org/10.1007/s10956-005-7198-9)
 - National Research Council. (2012). *A Framework for K–12 Science Education: Practices, Crosscutting Concepts, and Core Ideas.* The National Academies Press. [doi:10.17226/13165](https://doi.org/10.17226/13165)
 - Hake, R. R. (1998). Interactive-engagement versus traditional methods: A six-thousand-student survey of mechanics test data for introductory physics courses. *American Journal of Physics, 66*(1), 64–74. [doi:10.1119/1.18809](https://doi.org/10.1119/1.18809)

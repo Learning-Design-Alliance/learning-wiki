@@ -66,6 +66,6 @@ Backchannels convert passive listening time into active processing, consistent w
 
 ## Key Sources
 - Yardi, S. (2006). The role of the backchannel in collaborative learning environments. *Proceedings of the 7th International Conference on Learning Sciences*, 852–858.
-- McCarthy, J. F., & boyd, d. m. (2005). Digital backchannels in shared physical spaces: Experiences at an academic conference. *Extended Abstracts of CHI '05*, 1641–1644. [doi:10.1145/1056808.1056964](https://doi.org/10.1145/1056808.1056964)
+- McCarthy, J. F., & boyd, d. m. (2005). Digital backchannels in shared physical spaces: Experiences at an academic conference. *Extended Abstracts of CHI '05*, 1641–1644. [doi:10.1145/1056808.1056986](https://doi.org/10.1145/1056808.1056986)
 - Junco, R., & Cotten, S. R. (2012). No A 4 U: The relationship between multitasking and academic performance. *Computers & Education, 59*(2), 505–514. [doi:10.1016/j.compedu.2011.12.023](https://doi.org/10.1016/j.compedu.2011.12.023)
 - Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., Jordt, H., & Wenderoth, M. P. (2014). Active learning increases student performance in science, engineering, and mathematics. *PNAS, 111*(23), 8410–8415. [doi:10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)

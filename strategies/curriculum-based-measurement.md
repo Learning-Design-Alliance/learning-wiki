@@ -66,6 +66,6 @@ CBM operationalizes [Assessment for Learning](../principles/assessment-for-learn
 
 ## Key Sources
 - Deno, S. L. (1985). Curriculum-based measurement: The emerging alternative. *Exceptional Children, 52*(3), 219–232. [doi:10.1177/001440298505200303](https://doi.org/10.1177/001440298505200303)
-- Stecker, P. M., Fuchs, D., & Fuchs, L. S. (2005). Using curriculum-based measurement to improve student achievement: Review of research. *Psychology in the Schools, 42*(8), 795–819.
+- Stecker, P. M., Fuchs, D., & Fuchs, L. S. (2005). Using curriculum-based measurement to improve student achievement: Review of research. *Psychology in the Schools, 42*(8), 795–819. [doi:10.1002/pits.20113](https://doi.org/10.1002/pits.20113)
 - Fuchs, L. S., & Fuchs, D. (2006). Introduction to curriculum-based measurement. In *What every teacher should know about...* (Pearson).
-- Wayman, M. M., Wallace, T., Wiley, H. I., Tichá, R., & Espin, C. A. (2007). Literature synthesis on curriculum-based measurement in reading. *Journal of Special Education, 41*(2), 85–120. [doi:10.1177/0022466906906206](https://doi.org/10.1177/0022466906906206)
+- Wayman, M. M., Wallace, T., Wiley, H. I., Tichá, R., & Espin, C. A. (2007). Literature synthesis on curriculum-based measurement in reading. *Journal of Special Education, 41*(2), 85–120. [doi:10.1177/00224669070410020401](https://doi.org/10.1177/00224669070410020401)

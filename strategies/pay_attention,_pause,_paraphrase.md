@@ -78,7 +78,7 @@ The protocol converts discussion from a competition for airtime into a comprehen
 
 ## Key Sources
 - Bodie, G. D. (2011). The Active Empathic Listening Scale (AELS): Conceptualization and evidence of validity within the interpersonal domain. *Communication Quarterly, 59*(3), 277–295. [doi:10.1080/01463373.2011.583495](https://doi.org/10.1080/01463373.2011.583495)
-- Itzchakov, G., & Kluger, A. N. (2017). The listening circle: A simple tool to enhance listening and reduce extremism among employees. *Current Opinion in Psychology, 17*, 39–43. [doi:10.1016/j.copsyc.2017.02.004](https://doi.org/10.1016/j.copsyc.2017.02.004)
+- Itzchakov, G., & Kluger, A. N. (2017). The listening circle: A simple tool to enhance listening and reduce extremism among employees. *Current Opinion in Psychology, 17*, 39–43. [doi:10.1016/j.orgdyn.2017.05.005](https://doi.org/10.1016/j.orgdyn.2017.05.005)
 - Nichols, R. G., & Stevens, L. A. (1957). Listening to people. *Harvard Business Review, 35*(5), 85–92.
 - Kagan, S. (1994). *Cooperative learning*. Kagan Publishing.
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)

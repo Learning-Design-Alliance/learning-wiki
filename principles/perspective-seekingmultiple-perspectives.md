@@ -81,6 +81,6 @@ The current claim inventory supports explanation and reflective revision mechani
 - **Structured debate preparation**: Learners prepare to argue a position they do not initially hold in order to understand it more precisely.
 
 ## Key Sources
-- Brookfield, S. D. (1997). Assessing critical thinking. *New Directions for Adult and Continuing Education, 1997*(75), 17-29. [https://doi.org/10.1002/ace.7503](https://doi.org/10.1002/ace.7503)
+- Brookfield, S. D. (1997). Assessing critical thinking. *New Directions for Adult and Continuing Education, 1997*(75), 17-29. [https://doi.org/10.1002/ace.7502](https://doi.org/10.1002/ace.7502)
 - Eyal, T., Steffel, M., & Epley, N. (2018). Perspective mistaking: Accurately understanding the mind of another requires getting perspective, not taking perspective. *Journal of Personality and Social Psychology, 114*(4), 547-571. [https://doi.org/10.1037/pspa0000115](https://doi.org/10.1037/pspa0000115)
 - LaRusso, M., Kim, H. Y., Selman, R., Uccelli, P., Dawson, T., Jones, S., Donovan, S., & Snow, C. (2016). Contributions of academic language, perspective taking, and complex reasoning to deep reading comprehension. *Journal of Research on Educational Effectiveness, 9*(2), 201-222. [https://doi.org/10.1080/19345747.2015.1116035](https://doi.org/10.1080/19345747.2015.1116035)

@@ -72,4 +72,4 @@ QAR works because it makes the otherwise invisible logic of comprehension questi
 - Raphael, T. E. (1986). Teaching question answer relationships, revisited. *The Reading Teacher, 39*(6), 516–522.
 - Raphael, T. E., & Pearson, P. D. (1985). Increasing students' awareness of sources of information for answering questions. *American Educational Research Journal, 22*(2), 217–235. [doi:10.3102/00028312022002217](https://doi.org/10.3102/00028312022002217)
 - Palincsar, A. S., & Brown, A. L. (1984). Reciprocal teaching of comprehension-fostering and comprehension-monitoring activities. *Cognition and Instruction, 1*(2), 117–175. [doi:10.1207/s1532690xci0102_1](https://doi.org/10.1207/s1532690xci0102_1)
-- Pearson, P. D., & Gallagher, M. C. (1983). The instruction of reading comprehension. *Contemporary Educational Psychology, 8*(3), 317–344. [doi:10.1016/0361-476X(83)90012-8](https://doi.org/10.1016/0361-476X(83)90012-8)
+- Pearson, P. D., & Gallagher, M. C. (1983). The instruction of reading comprehension. *Contemporary Educational Psychology, 8*(3), 317–344. [doi:10.1016/0361-476x(83)90019-x](https://doi.org/10.1016/0361-476x(83)90019-x)

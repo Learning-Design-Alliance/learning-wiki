@@ -67,7 +67,7 @@ Routines function as a form of [Automaticity](../elements/automaticity.md) appli
 - **Weekly LMS module structure** (e.g., consistent "read → practice → discuss → submit" arc in many online courses) — a digital routine that reduces navigation load and missed-work confusion.
 
 ## Key Sources
-- Leinhardt, G., Weidman, C., & Hammond, K. M. (1987). Introduction and integration of classroom routines by expert teachers. *Curriculum Inquiry, 17*(2), 135–176. [doi:10.1080/03626784.1987.11075279](https://doi.org/10.1080/03626784.1987.11075279)
+- Leinhardt, G., Weidman, C., & Hammond, K. M. (1987). Introduction and integration of classroom routines by expert teachers. *Curriculum Inquiry, 17*(2), 135–176. [doi:10.1080/03626784.1987.11075284](https://doi.org/10.1080/03626784.1987.11075284)
 - Rosenshine, B. (2012). Principles of instruction: Research-based strategies that all teachers should know. *American Educator, 36*(1), 12–19.
-- Yinger, R. J. (1979). Routines in teacher planning. *Theory Into Practice, 18*(3), 163–169. [doi:10.1080/00405847909542838](https://doi.org/10.1080/00405847909542838)
+- Yinger, R. J. (1979). Routines in teacher planning. *Theory Into Practice, 18*(3), 163–169. [doi:10.1080/00405847909542827](https://doi.org/10.1080/00405847909542827)
 - Emmer, E. T., & Stough, L. M. (2001). Classroom management: A critical part of educational psychology, with implications for teacher education. *Educational Psychologist, 36*(2), 103–112. [doi:10.1207/S15326985EP3602_5](https://doi.org/10.1207/S15326985EP3602_5)

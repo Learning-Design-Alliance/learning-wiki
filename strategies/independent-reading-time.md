@@ -66,7 +66,7 @@ Independent reading builds fluency and vocabulary through volume of authentic re
 
 ## Key Sources
 - National Reading Panel. (2000). *Teaching children to read: An evidence-based assessment of the scientific research literature on reading and its implications for reading instruction.* National Institute of Child Health and Human Development.
-- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil et al. (Eds.), *Handbook of Reading Research, Vol. III* (pp. 403–422). Erlbaum.
+- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil et al. (Eds.), *Handbook of Reading Research, Vol. III* (pp. 403–422). Erlbaum. [doi:10.1108/978-1-60752-786-220251011](https://doi.org/10.1108/978-1-60752-786-220251011)
 - Krashen, S. D. (2004). *The power of reading: Insights from the research* (2nd ed.). Libraries Unlimited/Heinemann.
 - Allington, R. L. (2012). *What really matters for struggling readers: Designing research-based programs* (3rd ed.). Pearson.
 - Guthrie, J. T., Wigfield, A., Barbosa, P., et al. (2004). Increasing reading comprehension and engagement through Concept-Oriented Reading Instruction. *Journal of Educational Psychology, 96*(3), 403–423. [doi:10.1037/0022-0663.96.3.403](https://doi.org/10.1037/0022-0663.96.3.403)

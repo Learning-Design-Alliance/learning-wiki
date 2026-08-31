@@ -66,5 +66,5 @@ Strengths-based regulation works because it raises self-efficacy: students who e
 ## Key Sources
 - Gross, J. J. (2015). Emotion regulation: Current status and future prospects. *Psychological Inquiry, 26*(1), 1–26. [doi:10.1080/1047840X.2014.940781](https://doi.org/10.1080/1047840X.2014.940781)
 - Park, N., Peterson, C., & Seligman, M. E. P. (2004). Strengths of character and well-being. *Journal of Social and Clinical Psychology, 23*(5), 603–619. [doi:10.1521/jscp.23.5.603.50748](https://doi.org/10.1521/jscp.23.5.603.50748)
-- Proctor, C., Maltby, J., & Linley, P. A. (2011). Strengths use as a predictor of well-being in students. *Journal of Happiness Studies, 12*(2), 153–169. [doi:10.1007/s10902-010-9188-2](https://doi.org/10.1007/s10902-010-9188-2)
-- Quinlan, D. M., Swain, J., & Vella-Brodrick, D. A. (2012). Character strengths interventions: Building on what we know for improved outcomes. *Journal of Happiness Studies, 13*(6), 1145–1163. [doi:10.1007/s10902-011-9312-5](https://doi.org/10.1007/s10902-011-9312-5)
+- Proctor, C., Maltby, J., & Linley, P. A. (2011). Strengths use as a predictor of well-being in students. *Journal of Happiness Studies, 12*(2), 153–169. [doi:10.1007/s10902-009-9181-2](https://doi.org/10.1007/s10902-009-9181-2)
+- Quinlan, D. M., Swain, J., & Vella-Brodrick, D. A. (2012). Character strengths interventions: Building on what we know for improved outcomes. *Journal of Happiness Studies, 13*(6), 1145–1163. [doi:10.1007/s10902-011-9311-5](https://doi.org/10.1007/s10902-011-9311-5)

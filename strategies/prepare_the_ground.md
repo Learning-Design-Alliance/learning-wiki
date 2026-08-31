@@ -67,7 +67,7 @@ Difficult dialogues collapse when participants lack trust in the facilitator and
 - **Intergroup Dialogue programs** (University of Michigan model) — semester-length curricula that dedicate the opening weeks to relationship-building and shared vocabulary before structured race dialogues.
 
 ## Key Sources
-- Sue, D. W., Rivera, D. P., Watkins, N. L., Kim, R. H., Kim, S., & Williams, C. D. (2011). Race dialogues in the classroom: Navigating difficult conversations. *The Counseling Psychologist, 39*(3), 339–368. [doi:10.1177/0011000010382458](https://doi.org/10.1177/0011000010382458)
+- Sue, D. W., Rivera, D. P., Watkins, N. L., Kim, R. H., Kim, S., & Williams, C. D. (2011). Race dialogues in the classroom: Navigating difficult conversations. *The Counseling Psychologist, 39*(3), 339–368. [doi:10.1037/a0014191](https://doi.org/10.1037/a0014191)
 - Arao, B., & Clemens, K. (2013). From safe spaces to brave spaces: A new way to frame dialogue around diversity and social justice. In L. Landreman (Ed.), *The Art of Effective Facilitation*. Stylus Publishing.
 - Gay, G. (2018). *Culturally Responsive Teaching: Theory, Research, and Practice* (3rd ed.). Teachers College Press.
 - Gurin, P., Nagda, B. A., & Zúñiga, X. (2013). *Dialogue Across Difference: Practice, Theory, and Research on Intergroup Dialogue*. Russell Sage Foundation.

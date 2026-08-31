@@ -64,7 +64,7 @@ Using students' names lowers the social threshold for participation: students wh
 - **Online discussion personalization** — instructors address students by first name in every discussion reply and feedback comment, substituting for in-person recognition in asynchronous courses.
 
 ## Key Sources
-- Cooper, K. M., Haney, B., Krieg, A., Brownell, S. E., & Wilson, K. J. (2017). What's in a name? The importance of students perceiving that an instructor knows their names in a high-enrollment science classroom. *CBE—Life Sciences Education, 16*(1), ar4. [doi:10.1187/cbe.16-08-0246](https://doi.org/10.1187/cbe.16-08-0246)
+- Cooper, K. M., Haney, B., Krieg, A., Brownell, S. E., & Wilson, K. J. (2017). What's in a name? The importance of students perceiving that an instructor knows their names in a high-enrollment science classroom. *CBE—Life Sciences Education, 16*(1), ar4. [doi:10.1187/cbe.16-08-0265](https://doi.org/10.1187/cbe.16-08-0265)
 - Cooper, K. M., Hendrickson, A. B., Tucker, A. M., Krieg, A., Brownell, S. E., & Wilson, K. J. (2019). Feels like a real scientist: The impact of learning students' names on students' sense of belonging and achievement. *Journal of College Science Teaching, 49*(1), 54–61.
 - Walton, G. M., & Cohen, G. L. (2011). A brief social-belonging intervention improves academic and health outcomes of minority students. *Science, 331*(6023), 1447–1451. [doi:10.1126/science.1198364](https://doi.org/10.1126/science.1198364)
 - Dallimore, E. J., Hertenstein, J. H., & Platt, M. B. (2013). Impact of cold-calling on student voluntary participation. *Journal of Management Education, 37*(6), 747–776. [doi:10.1177/1052562912446067](https://doi.org/10.1177/1052562912446067)

@@ -80,7 +80,7 @@ The approach works because it distributes cognitive load across the composing cy
 
 ## Key Sources
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
-- Graham, S., & Sandbank, M. (2023). A meta-analysis of writing interventions for students with learning disabilities. *Journal of Learning Disabilities*. [doi:10.1177/00222194231164562](https://doi.org/10.1177/00222194231164562)
+- Graham, S., & Sandbank, M. (2023). A meta-analysis of writing interventions for students with learning disabilities. *Journal of Learning Disabilities*. [doi:10.1177/0014402914527238](https://doi.org/10.1177/0014402914527238)
 - Atwell, N. (1987). *In the Middle: Writing, Reading, and Learning with Adolescents*. Boynton/Cook.
 - Calkins, L. (1994). *The Art of Teaching Writing* (2nd ed.). Heinemann.
-- Applebee, A. N., & Langer, J. A. (2011). A snapshot of writing instruction in middle schools and high schools. *English Journal, 100*(6), 14–27. [doi:10.2307/23047766](https://doi.org/10.2307/23047766)
+- Applebee, A. N., & Langer, J. A. (2011). A snapshot of writing instruction in middle schools and high schools. *English Journal, 100*(6), 14–27. [doi:10.58680/ej201116413](https://doi.org/10.58680/ej201116413)

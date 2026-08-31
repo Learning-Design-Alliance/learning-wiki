@@ -63,6 +63,6 @@ Bibliometric maps reduce the search cost of navigating a large, unfamiliar liter
 - **[VOSviewer](https://www.vosviewer.com)** — a general-purpose bibliometric mapping tool widely used to construct and visualize co-citation and bibliographic coupling networks, including education literature.
 
 ## Key Sources
-- Boyack, K. W., & Klavans, R. (2010). Co-citation analysis, bibliographic coupling, and direct citation: Which citation approach represents the research network best? *Journal of the American Society for Information Science and Technology, 61*(12), 2389–2404. [doi:10.1002/asi.21433](https://doi.org/10.1002/asi.21433)
+- Boyack, K. W., & Klavans, R. (2010). Co-citation analysis, bibliographic coupling, and direct citation: Which citation approach represents the research network best? *Journal of the American Society for Information Science and Technology, 61*(12), 2389–2404. [doi:10.1002/asi.21419](https://doi.org/10.1002/asi.21419)
 - Small, H. (1973). Co-citation in the scientific literature: A new measure of the relationship between two documents. *Journal of the American Society for Information Science, 24*(4), 265–269. [doi:10.1002/asi.4630240406](https://doi.org/10.1002/asi.4630240406)
 - Slavin, R. E. (2002). Evidence-based education policies: Transforming educational practice and research. *Educational Researcher, 31*(7), 15–21. [doi:10.3102/0013189X031007015](https://doi.org/10.3102/0013189X031007015)

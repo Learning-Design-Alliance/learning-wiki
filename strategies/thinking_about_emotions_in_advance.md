@@ -65,7 +65,7 @@ Emotions direct attention and consume working-memory resources; unacknowledged a
 - **Advisory check-in forms** — many secondary schools use a two-question digital form (How are you arriving today? Anything the class should know?) that gives the teacher a private dashboard before first period.
 
 ## Key Sources
-- Lieberman, M. D., et al. (2007). Putting feelings into words: Affect labeling disrupts amygdala activity in response to affective stimuli. *Psychological Science, 18*(5), 421–428. [doi:10.1111/j.1467-9280.2007.01916.x](https://doi.org/10.1111/j.1467-9280.2007.01916.x)
+- Lieberman, M. D., et al. (2007). Putting feelings into words: Affect labeling disrupts amygdala activity in response to affective stimuli. *Psychological Science, 18*(5), 421–428. [doi:10.1177/1754073917742706](https://doi.org/10.1177/1754073917742706)
 - Cornelius-White, J. (2007). Learner-centered teacher-student relationships are effective: A meta-analysis. *Review of Educational Research, 77*(1), 113–143. [doi:10.3102/003465430298563](https://doi.org/10.3102/003465430298563)
 - Brackett, M. A., Bailey, C. S., Hoffmann, J. D., & Simmons, D. N. (2019). RULER: A theory-driven, systemic approach to social, emotional, and academic learning. *Educational Psychologist, 54*(3), 144–161. [doi:10.1080/00461520.2019.1614447](https://doi.org/10.1080/00461520.2019.1614447)
 - Pekrun, R. (2006). The control-value theory of achievement emotions: Assumptions, corollaries, and implications for educational research and practice. *Educational Psychology Review, 18*(4), 315–341. [doi:10.1007/s10648-006-9029-9](https://doi.org/10.1007/s10648-006-9029-9)

@@ -65,7 +65,7 @@ Homework's effect on achievement is small overall and depends far more on qualit
 
 ## Key Sources
 - Cooper, H., Robinson, J. C., & Patall, E. A. (2006). Does homework improve academic achievement? A synthesis of research, 1987–2003. *Review of Educational Research, 76*(1), 1–62. [doi:10.3102/00346543076001001](https://doi.org/10.3102/00346543076001001)
-- Patall, E. A., Cooper, H., & Robinson, J. C. (2008). Parent involvement in homework: A research synthesis for teachers. *Educational Psychologist, 43*(4), 274–284. [doi:10.1080/00461520802384103](https://doi.org/10.1080/00461520802384103)
+- Patall, E. A., Cooper, H., & Robinson, J. C. (2008). Parent involvement in homework: A research synthesis for teachers. *Educational Psychologist, 43*(4), 274–284. [doi:10.3102/0034654308325185](https://doi.org/10.3102/0034654308325185)
 - Hoover-Dempsey, K. V., Battiato, A. C., Walker, J. M. T., Reed, R. P., DeJong, J. M., & Jones, K. P. (2001). Parental involvement in homework. *Educational Psychologist, 36*(3), 195–209.
 - Trautwein, U. (2007). The homework–achievement relation reconsidered. *Learning and Instruction, 17*(5), 552–564. [doi:10.1016/j.learninstruc.2007.02.009](https://doi.org/10.1016/j.learninstruc.2007.02.009)
 - Epstein, J. L., & Van Voorhis, F. L. (2001). More than minutes: Teachers' roles in designing homework. *Educational Psychologist, 36*(3), 181–193. [doi:10.1207/s15326985ep3603_4](https://doi.org/10.1207/s15326985ep3603_4)

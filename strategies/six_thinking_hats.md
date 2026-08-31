@@ -81,4 +81,4 @@ The technique's core mechanism is separating modes of thought that normally comp
 - de Bono, E. (1985). *Six thinking hats*. Little, Brown.
 - de Bono, E. (1992). *Serious creativity: Using the power of lateral thinking to create new ideas*. HarperBusiness.
 - Diehl, M., & Stroebe, W. (1987). Productivity loss in brainstorming groups: Toward the solution of a riddle. *Journal of Personality and Social Psychology, 53*(3), 497–509. [doi:10.1037/0022-3514.53.3.497](https://doi.org/10.1037/0022-3514.53.3.497)
-- Nemeth, C. J., Connell, J. B., Rogers, J. D., & Brown, K. S. (2001). Improving decision making by means of dissent. *European Journal of Social Psychology, 31*(1), 31–43. [doi:10.1002/ejsp.35](https://doi.org/10.1002/ejsp.35)
+- Nemeth, C. J., Connell, J. B., Rogers, J. D., & Brown, K. S. (2001). Improving decision making by means of dissent. *European Journal of Social Psychology, 31*(1), 31–43. [doi:10.1111/j.1559-1816.2001.tb02481.x](https://doi.org/10.1111/j.1559-1816.2001.tb02481.x)

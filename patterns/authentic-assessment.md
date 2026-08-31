@@ -112,7 +112,7 @@ Unit or course — authentic tasks typically anchor an extended sequence of prep
 **Medical education — OSCEs (Objective Structured Clinical Examinations):** Students perform standardized patient encounters assessed with structured checklists and global ratings — a hybrid that adds scoring reliability to authentic performance.
 
 ## Key Sources
-- Wiggins, G. (1989). A true test: Toward more authentic and equitable assessment. *Phi Delta Kappan, 70*(9), 703–713. [doi:10.2307/1179495](https://doi.org/10.2307/1179495)
+- Wiggins, G. (1989). A true test: Toward more authentic and equitable assessment. *Phi Delta Kappan, 70*(9), 703–713. [doi:10.1177/003172171109200721](https://doi.org/10.1177/003172171109200721)
 - Wiggins, G. (1998). *Educative assessment: Designing assessments to inform and improve student performance*. Jossey-Bass.
 - Gulikers, J. T. M., Bastiaens, T. J., & Kirschner, P. A. (2004). A five-dimensional framework for authentic assessment. *Educational Technology Research and Development, 52*(3), 67–86. [doi:10.1007/BF02504676](https://doi.org/10.1007/BF02504676)
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)

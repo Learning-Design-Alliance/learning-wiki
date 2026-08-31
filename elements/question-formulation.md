@@ -69,5 +69,5 @@ Generating questions forces learners to surface gaps in their own understanding,
 ## Key Sources
 - Rothstein, D., & Santana, L. (2011). *Make just one change: Teach students to ask their own questions.* Harvard Education Press.
 - Dillon, J. J. (1988). The remedial status of student questioning. *Journal of Curriculum Studies, 20*(3), 197–210. [doi:10.1080/0022027880200301](https://doi.org/10.1080/0022027880200301)
-- Chin, C., & Osborne, J. (2008). Students' questions: A potential resource for teaching and learning science. *Studies in Science Education, 44*(1), 1–39. [doi:10.1080/03057260701828104](https://doi.org/10.1080/03057260701828104)
+- Chin, C., & Osborne, J. (2008). Students' questions: A potential resource for teaching and learning science. *Studies in Science Education, 44*(1), 1–39. [doi:10.1080/03057260701828101](https://doi.org/10.1080/03057260701828101)
 - Graesser, A. C., & Person, N. K. (1994). Question asking during tutoring. *American Educational Research Journal, 31*(1), 104–137. [doi:10.3102/00028312031001104](https://doi.org/10.3102/00028312031001104)

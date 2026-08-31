@@ -67,7 +67,7 @@ Texting works because it lowers the behavioral cost of engagement: parents act o
 - **District attendance campaigns** — texted absence alerts to parents reduced chronic absenteeism relative to mailed letters in multiple urban districts.
 
 ## Key Sources
-- York, B. N., Loeb, S., & Doss, C. (2019). One step at a time: The effects of an early literacy text-messaging program for parents of preschoolers. *Journal of Human Capital, 13*(2), 277–303. [doi:10.1086/701831](https://doi.org/10.1086/701831)
+- York, B. N., Loeb, S., & Doss, C. (2019). One step at a time: The effects of an early literacy text-messaging program for parents of preschoolers. *Journal of Human Capital, 13*(2), 277–303. [doi:10.3386/w20659](https://doi.org/10.3386/w20659)
 - Kraft, M. A., & Dougherty, S. M. (2013). The effect of teacher-family communication on student engagement: Evidence from a randomized field experiment. *Journal of Research on Educational Effectiveness, 6*(3), 199–222. [doi:10.1080/19345747.2012.743636](https://doi.org/10.1080/19345747.2012.743636)
 - Kraft, M. A., & Rogers, T. (2015). The underutilized potential of teacher-to-parent communication: Evidence from a field experiment. *Economics of Education Review, 47*, 49–63. [doi:10.2139/ssrn.2528688](https://doi.org/10.2139/ssrn.2528688)
 - Bergman, P., & Chan, E. W. (2021). Leveraging parents through low-cost technology: The impact of high-frequency information on student achievement. *Journal of Human Resources, 56*(1), 125–158. [doi:10.3368/jhr.56.1.1118-9837R1](https://doi.org/10.3368/jhr.56.1.1118-9837R1)

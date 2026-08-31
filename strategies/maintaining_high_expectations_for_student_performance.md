@@ -65,7 +65,7 @@ High expectations work through the combination of demanding goals and strong sup
 - **Writing conferences in workshop models** — Teacher holds every student to grade-level writing standards but tailors the conference focus to each writer's next step, praising specific growth rather than general effort.
 
 ## Key Sources
-- Rosenthal, R., & Jacobson, L. (1968). *Pygmalion in the classroom: Teacher expectation and pupils' intellectual development*. Holt, Rinehart & Winston.
+- Rosenthal, R., & Jacobson, L. (1968). *Pygmalion in the classroom: Teacher expectation and pupils' intellectual development*. Holt, Rinehart & Winston. [doi:10.2307/2092211](https://doi.org/10.2307/2092211)
 - Ladson-Billings, G. (1995). Toward a theory of culturally relevant pedagogy. *American Educational Research Journal, 32*(3), 465–491. [doi:10.3102/00028312032003465](https://doi.org/10.3102/00028312032003465)
 - Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation: A 35-year odyssey. *American Psychologist, 57*(9), 705–717. [doi:10.1037/0003-066X.57.9.705](https://doi.org/10.1037/0003-066X.57.9.705)
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)

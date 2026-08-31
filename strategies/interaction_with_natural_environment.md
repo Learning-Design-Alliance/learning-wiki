@@ -63,6 +63,6 @@ Nature exposure functions as a low-cost lever on the attentional resources that 
 
 ## Key Sources
 - Kaplan, S. (1995). The restorative benefits of nature: Toward an integrative framework. *Journal of Environmental Psychology, 15*(3), 169–182. [doi:10.1016/0272-4944(95)90001-2](https://doi.org/10.1016/0272-4944(95)90001-2)
-- Li, D., & Sullivan, W. C. (2016). Impact of views to school landscapes on recovery from stress and mental fatigue. *Landscape and Urban Planning, 148*, 149–158. [doi:10.1016/j.landurbplan.2015.12.005](https://doi.org/10.1016/j.landurbplan.2015.12.005)
+- Li, D., & Sullivan, W. C. (2016). Impact of views to school landscapes on recovery from stress and mental fatigue. *Landscape and Urban Planning, 148*, 149–158. [doi:10.1016/j.landurbplan.2015.12.015](https://doi.org/10.1016/j.landurbplan.2015.12.015)
 - Kuo, F. E., & Faber Taylor, A. (2004). A potential natural treatment for ADHD: Evidence from a national study. *American Journal of Public Health, 94*(9), 1580–1586. [doi:10.2105/AJPH.94.9.1580](https://doi.org/10.2105/AJPH.94.9.1580)
-- Dettweiler, J., Ünlü, A., Lauterbach, G., Becker, C., & Simon, P. (2017). Stress in school: Some empirical hints on the circadian cortisol rhythm of children in outdoor and indoor classes. *Frontiers in Psychology, 8*, 1930. [doi:10.3389/fpsyg.2017.01930](https://doi.org/10.3389/fpsyg.2017.01930)
+- Dettweiler, J., Ünlü, A., Lauterbach, G., Becker, C., & Simon, P. (2017). Stress in school: Some empirical hints on the circadian cortisol rhythm of children in outdoor and indoor classes. *Frontiers in Psychology, 8*, 1930. [doi:10.3390/ijerph14050475](https://doi.org/10.3390/ijerph14050475)

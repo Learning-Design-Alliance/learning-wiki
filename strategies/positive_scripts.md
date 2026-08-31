@@ -66,5 +66,5 @@ Positive Scripts target self-efficacy and outcome expectancy, both of which pred
 ## Key Sources
 - Oettingen, G. (2014). Rethinking positive thinking: Inside the new science of motivating what we want. *Current Directions in Psychological Science, 23*(4), 289–294. [doi:10.1037/a0034777](https://doi.org/10.1037/a0034777)
 - Bandura, A. (1997). *Self-efficacy: The exercise of control.* W. H. Freeman.
-- Driskell, J. E., Copper, C., & Moran, A. (1994). Does mental practice enhance performance? *Journal of Applied Psychology, 79*(4), 481–492. [doi:10.1037/0033-2909.116.2.353](https://doi.org/10.1037/0033-2909.116.2.353)
-- Kappes, H.-B., & Oettingen, G. (2011). Positive fantasies about idealized futures sap energy. *Journal of Experimental Social Psychology, 47*(4), 719–729. [doi:10.1016/j.jesp.2011.02.004](https://doi.org/10.1016/j.jesp.2011.02.004)
+- Driskell, J. E., Copper, C., & Moran, A. (1994). Does mental practice enhance performance? *Journal of Applied Psychology, 79*(4), 481–492. [doi:10.1037/0021-9010.79.4.481](https://doi.org/10.1037/0021-9010.79.4.481)
+- Kappes, H.-B., & Oettingen, G. (2011). Positive fantasies about idealized futures sap energy. *Journal of Experimental Social Psychology, 47*(4), 719–729. [doi:10.1016/j.jesp.2011.02.003](https://doi.org/10.1016/j.jesp.2011.02.003)

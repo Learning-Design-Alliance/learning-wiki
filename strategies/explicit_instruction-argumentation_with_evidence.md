@@ -67,5 +67,5 @@ Argumentation quality improves when the skill is modeled and scaffolded rather t
 - Nussbaum, E. M., & Kardash, C. A. M. (2005). The effect of goal instructions and text on the generation of counterarguments during persuasive writing. *Journal of Educational Psychology, 97*(2), 157–169. [doi:10.1037/0022-0663.97.2.157](https://doi.org/10.1037/0022-0663.97.2.157)
 - Cho, K.-L., & Jonassen, D. H. (2002). The effects of argumentation scaffolds on argumentation and problem solving. *Educational Technology Research and Development, 50*(3), 5–22. [doi:10.1007/BF02505022](https://doi.org/10.1007/BF02505022)
 - Kuhn, D. (2010). Teaching and learning science as argument. *Science Education, 94*(5), 810–824. [doi:10.1002/sce.20395](https://doi.org/10.1002/sce.20395)
-- Andriessen, J. (2006). Argumentation in education. *Educational Psychology Review, 18*(2), 143–170. [doi:10.1007/s10648-006-9007-5](https://doi.org/10.1007/s10648-006-9007-5)
+- Andriessen, J. (2006). Argumentation in education. *Educational Psychology Review, 18*(2), 143–170. [doi:10.1023/a:1015100631027](https://doi.org/10.1023/a:1015100631027)
 - Toulmin, S. E. (1958). *The uses of argument.* Cambridge University Press.

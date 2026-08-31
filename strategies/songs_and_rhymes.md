@@ -63,7 +63,7 @@ Melodic and rhythmic structure acts as a retrieval scaffold: melody is recalled 
 - **Ludke et al.'s foreign-language experiments** — learners who sang phrases in an unfamiliar language outperformed speech-rhythm and spoken controls on later recall and pronunciation of those phrases ([https://doi.org/10.3758/s13421-013-0342-z](https://doi.org/10.3758/s13421-013-0342-z)).
 
 ## Key Sources
-- Ludke, K. M., Ferreira, F., & Bartlett, J. S. (2014). Singing can facilitate foreign language learning. *Memory & Cognition, 42*(1), 41–52. [doi:10.3758/s13421-013-0342-z](https://doi.org/10.3758/s13421-013-0342-z)
+- Ludke, K. M., Ferreira, F., & Bartlett, J. S. (2014). Singing can facilitate foreign language learning. *Memory & Cognition, 42*(1), 41–52. [doi:10.3758/s13421-013-0342-5](https://doi.org/10.3758/s13421-013-0342-5)
 - Wallace, W. T. (1994). Memory for music: Effect of melody on recall of text. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 20*(6), 1471–1485. [doi:10.1037/0278-7393.20.6.1471](https://doi.org/10.1037/0278-7393.20.6.1471)
 - Rubin, D. C. (1995). *Memory in Oral Traditions: The Cognitive Psychology of Epic, Ballads, and Counting-out Rhymes*. Oxford University Press.
 - Scruggs, T. E., & Mastropieri, M. A. (2000). The effectiveness of mnemonic instruction for students with learning and behavior problems: An update and research synthesis. *Journal of Behavioral Education, 10*(2–3), 163–173. [doi:10.1023/A:1016640214368](https://doi.org/10.1023/A:1016640214368)

@@ -106,5 +106,5 @@ The pattern can take many forms, but the core features are role clarity, timed t
 - Strongest when paired with reflection that allows learners to reconsider their initial positions.
 
 ## Key Sources
-- Vo, H. X., & Morris, R. L. (2006). Debate as a tool in teaching economics: Rationale, techniques, and some evidence. *Journal of Economic Education, 37*(3), 315-331. [https://doi.org/10.3200/JECE.37.3.315-331](https://doi.org/10.3200/JECE.37.3.315-331)
+- Vo, H. X., & Morris, R. L. (2006). Debate as a tool in teaching economics: Rationale, techniques, and some evidence. *Journal of Economic Education, 37*(3), 315-331. [https://doi.org/10.3200/joeb.81.6.315-320](https://doi.org/10.3200/joeb.81.6.315-320)
 - Kennedy, R. (2007). In-class debates: Fertile ground for active learning and the cultivation of critical thinking and oral communication skills. *International Journal of Teaching and Learning in Higher Education, 19*(2), 183-190.

@@ -68,6 +68,6 @@ Guided play exploits intrinsic motivation and active exploration while ensuring 
 
 ## Key Sources
 - Weisberg, D. S., Hirsh-Pasek, K., & Golinkoff, R. M. (2013). Guided play: Where curricular goals meet a playful pedagogy. *Mind, Brain, and Education, 7*(2), 104–112. [doi:10.1111/mbe.12015](https://doi.org/10.1111/mbe.12015)
-- Weisberg, D. S., Hirsh-Pasek, K., Golinkoff, R. M., Kittredge, A. K., & Klahr, D. (2016). Guided play: Principles and practices. *Current Directions in Psychological Science, 25*(3), 177–182. [doi:10.1177/0963721416635512](https://doi.org/10.1177/0963721416635512)
+- Weisberg, D. S., Hirsh-Pasek, K., Golinkoff, R. M., Kittredge, A. K., & Klahr, D. (2016). Guided play: Principles and practices. *Current Directions in Psychological Science, 25*(3), 177–182. [doi:10.1177/0963721416645512](https://doi.org/10.1177/0963721416645512)
 - Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does discovery-based instruction enhance learning? A meta-analysis. *Journal of Educational Psychology, 103*(1), 1–18. [doi:10.1037/a0021017](https://doi.org/10.1037/a0021017)
 - Skene, K., O'Farrelly, C. M., Byrne, E. M., Kirby, N., Stevens, E. C., & Ramchandani, P. G. (2022). Can guidance during play enhance children's learning and development in educational contexts? A systematic review and meta-analysis. *Child Development, 93*(4), 1162–1180. [doi:10.1111/cdev.13730](https://doi.org/10.1111/cdev.13730)

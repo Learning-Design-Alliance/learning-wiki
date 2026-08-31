@@ -76,6 +76,6 @@ Discussing race productively requires more than openness or good intentions. Lea
 - **Debrief with private reflection**: After dialogue, learners reflect on what they heard, where they felt resistance, and what they need to examine further.
 
 ## Key Sources
-- Day, V. N. L., Cluxton, K. F., Agorsor, C., & Gubara, S. (2021). Strategies for broaching the subjects of race, ethnicity, and culture. *Journal of Counseling & Development, 99*(3), 348-357. [https://doi.org/10.1002/jcad.12382](https://doi.org/10.1002/jcad.12382)
-- Sanchez, K. L., Kalkstein, D. A., & Walton, G. M. (2021). A threatening opportunity: The prospect of conversations about race-related experiences between Black and White friends. *Journal of Personality and Social Psychology, 121*(2), 313-334. [https://doi.org/10.1037/pspi0000338](https://doi.org/10.1037/pspi0000338)
+- Day, V. N. L., Cluxton, K. F., Agorsor, C., & Gubara, S. (2021). Strategies for broaching the subjects of race, ethnicity, and culture. *Journal of Counseling & Development, 99*(3), 348-357. [https://doi.org/10.4324/9781003649311-8](https://doi.org/10.4324/9781003649311-8)
+- Sanchez, K. L., Kalkstein, D. A., & Walton, G. M. (2021). A threatening opportunity: The prospect of conversations about race-related experiences between Black and White friends. *Journal of Personality and Social Psychology, 121*(2), 313-334. [https://doi.org/10.1037/pspi0000369](https://doi.org/10.1037/pspi0000369)
 - Thurber, A., Harbin, M. B., & Bandy, J. (2019). *Teaching race: Pedagogy and practice*. Vanderbilt University Center for Teaching.

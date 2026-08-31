@@ -71,4 +71,4 @@ Authentic contexts can support transfer by helping learners map abstract structu
 - Carraher, T. N., Carraher, D. W., & Schliemann, A. D. (1985). Mathematics in the streets and in schools. *British Journal of Developmental Psychology, 3*(1), 21–29. [doi:10.1111/j.2044-835x.1985.tb00951.x](https://doi.org/10.1111/j.2044-835x.1985.tb00951.x)
 - Lave, J. (1988). *Cognition in practice: Mind, mathematics and culture in everyday life.* Cambridge University Press. [doi:10.2307/2073537](https://doi.org/10.2307/2073537)
 - Boaler, J. (1997). *Experiencing school mathematics: Teaching styles, sex and setting.* Open University Press.
-- Wijnia, L., Loyens, S. M. M., & Derous, E. (2019). Problem-based learning and deep learning: A meta-analysis? *Educational Research Review, 27*, 152–170. [doi:10.1016/j.edurev.2019.05.001](https://doi.org/10.1016/j.edurev.2019.05.001)
+- Wijnia, L., Loyens, S. M. M., & Derous, E. (2019). Problem-based learning and deep learning: A meta-analysis? *Educational Research Review, 27*, 152–170. [doi:10.1007/s10648-024-09864-3](https://doi.org/10.1007/s10648-024-09864-3)

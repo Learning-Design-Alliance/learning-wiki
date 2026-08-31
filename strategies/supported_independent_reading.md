@@ -74,7 +74,7 @@ Independent reading works as a strategy only when it functions as *supported pra
 
 ## Key Sources
 - Guthrie, J. T., Wigfield, A., Barbosa, P., Perencevich, K. C., Taboada, A., Davis, M. H., Scafiddi, N. T., & Tonks, S. (2004). Increasing reading comprehension and engagement through Concept-Oriented Reading Instruction. *Journal of Educational Psychology, 96*(3), 403–423. [doi:10.1037/0022-0663.96.3.403](https://doi.org/10.1037/0022-0663.96.3.403)
-- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil, P. B. Mosenthal, P. D. Pearson, & R. Barr (Eds.), *Handbook of Reading Research* (Vol. 3, pp. 403–422). Erlbaum.
+- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil, P. B. Mosenthal, P. D. Pearson, & R. Barr (Eds.), *Handbook of Reading Research* (Vol. 3, pp. 403–422). Erlbaum. [doi:10.1108/978-1-60752-786-220251011](https://doi.org/10.1108/978-1-60752-786-220251011)
 - National Reading Panel. (2000). *Teaching children to read: An evidence-based assessment of the scientific research literature on reading and its implications for reading instruction.* National Institute of Child Health and Human Development.
 - Krashen, S. D. (2004). *The power of reading: Insights from the research* (2nd ed.). Libraries Unlimited.
 - Reutzel, D. R., Fawson, P. C., & Smith, J. A. (2008). Reconsidering silent reading: Scaffolded silent reading (ScSR) improves students' reading fluency and attitudes. *The Reading Teacher, 62*(4), 328–336. [doi:10.1598/RT.62.4.4](https://doi.org/10.1598/RT.62.4.4)

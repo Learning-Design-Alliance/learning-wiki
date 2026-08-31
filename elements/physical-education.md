@@ -70,6 +70,6 @@ Effective PE instruction sequences observation, guided practice, and application
 ## Key Sources
 - Bunker, D., & Thorpe, R. (1982). A model for the teaching of games in secondary schools. *Bulletin of Physical Education, 18*(1), 5–8.
 - Siedentop, D. (1994). *Sport Education: Quality PE Through Positive Sport Experiences*. Human Kinetics.
-- Wallhead, T. L., & O'Sullivan, M. (2005). Sport education: Physical education for the new millennium? *Physical Education and Sport Pedagogy, 10*(2), 181–210. [doi:10.1080/17408980520092558](https://doi.org/10.1080/17408980520092558)
+- Wallhead, T. L., & O'Sullivan, M. (2005). Sport education: Physical education for the new millennium? *Physical Education and Sport Pedagogy, 10*(2), 181–210. [doi:10.1080/17408980500105098](https://doi.org/10.1080/17408980500105098)
 - Metzler, M. W. (2017). *Instructional Models in Physical Education* (3rd ed.). Routledge.
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)

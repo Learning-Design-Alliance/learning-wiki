@@ -67,6 +67,6 @@ Note taking supports learning only when it induces generative processing; verbat
 
 ## Key Sources
 - Chi, M. T. H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219–243. [doi:10.1080/00461520.2014.965823](https://doi.org/10.1080/00461520.2014.965823)
-- Mueller, P. A., & Oppenheimer, D. M. (2014). The pen is mightier than the keyboard: Advantages of longhand over laptop note taking. *Psychological Science, 25*(6), 1159–1168. [doi:10.1177/0956797614524581](https://doi.org/10.1177/0956797614524581)
+- Mueller, P. A., & Oppenheimer, D. M. (2014). The pen is mightier than the keyboard: Advantages of longhand over laptop note taking. *Psychological Science, 25*(6), 1159–1168. [doi:10.1037/e502412013-155](https://doi.org/10.1037/e502412013-155)
 - Kiewra, K. A. (1989). A review of note-taking: The encoding-storage perspective. *Educational Psychology Review, 1*(2), 89–102. [doi:10.1007/BF01326640](https://doi.org/10.1007/BF01326640)
 - Fiorella, L., & Mayer, R. E. (2015). *Learning as a generative activity: Eight learning strategies that promote understanding.* Cambridge University Press. [doi:10.1017/CBO9781139924817](https://doi.org/10.1017/CBO9781139924817)

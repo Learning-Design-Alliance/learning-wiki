@@ -69,6 +69,6 @@ DBRCs operationalize [Behaviorism](../theories/behaviorism.md): they make behavi
 
 ## Key Sources
 - Fabiano, G. A., Vargo, K. K., Pelham, W. E., & Skraba, A. M. (2010). What behavior rating scales do parents and teachers use to monitor daily behavior? An evaluation of Daily Behavior Report Cards. *Journal of Attention Disorders, 14*(3), 211–222. [doi:10.1177/1087054709347005](https://doi.org/10.1177/1087054709347005)
-- Vannest, K. J., Davis, J. L., Davis, C. R., Mason, B. A., & Burke, M. D. (2010). Effective intervention for behavior with a daily behavior report card: A meta-analysis. *Remedial and Special Education, 31*(5), 384–397. [doi:10.1177/0741932509338376](https://doi.org/10.1177/0741932509338376)
+- Vannest, K. J., Davis, J. L., Davis, C. R., Mason, B. A., & Burke, M. D. (2010). Effective intervention for behavior with a daily behavior report card: A meta-analysis. *Remedial and Special Education, 31*(5), 384–397. [doi:10.1080/02796015.2010.12087748](https://doi.org/10.1080/02796015.2010.12087748)
 - Chafouleas, S. M., Riley-Tillman, T. C., & Sugai, G. (2007). *School-Based Behavioral Assessment: Informing Intervention and Instruction.* Guilford Press.
 - Skinner, C. H., Skinner, C. H., & Cashwell, T. H. (1999). Enhancing the integrity of independent variables through programming generalization of self-monitoring skills. *Psychology in the Schools, 36*(4), 317–324.

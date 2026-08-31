@@ -79,4 +79,4 @@ Analogies reduce intrinsic load by letting learners import an existing schema in
 - Gentner, D. (1983). Structure-mapping: A theoretical framework for analogy. *Cognitive Science, 7*(2), 155–170. [doi:10.1207/s15516709cog0702_3](https://doi.org/10.1207/s15516709cog0702_3)
 - Duit, R. (1991). On the role of analogies and metaphors in learning science. *Science Education, 75*(6), 649–672. [doi:10.1002/sce.3730750606](https://doi.org/10.1002/sce.3730750606)
 - Glynn, S. M. (1991). Explaining science concepts: A teaching-with-analogies model. In S. M. Glynn, R. H. Yeany, & B. K. Britton (Eds.), *The psychology of learning science* (pp. 219–239). Lawrence Erlbaum.
-- Harrison, A. G., & Treagust, D. F. (2006). Teaching and learning with analogies: Friend or foe? *Science Education, 90*(5), 865–885. [doi:10.1002/sce.20128](https://doi.org/10.1002/sce.20128)
+- Harrison, A. G., & Treagust, D. F. (2006). Teaching and learning with analogies: Friend or foe? *Science Education, 90*(5), 865–885. [doi:10.1007/1-4020-3830-5_2](https://doi.org/10.1007/1-4020-3830-5_2)

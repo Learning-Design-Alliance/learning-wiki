@@ -63,7 +63,7 @@ Sustained seated attention degrades over the course of a lesson, particularly fo
 - **Mindful stretching before tests** — many elementary classrooms use a 2-minute standing stretch and breathing routine before assessments to reduce arousal and reset attention.
 
 ## Key Sources
-- Howie, E. K., Beets, M. W., & Pate, R. R. (2014). Acute classroom exercise breaks improve on-task behavior in 4th and 5th grade students: A dose–response study. *Preventive Medicine, 67*, 79–84. [doi:10.1016/j.ypmed.2014.01.021](https://doi.org/10.1016/j.ypmed.2014.01.021)
+- Howie, E. K., Beets, M. W., & Pate, R. R. (2014). Acute classroom exercise breaks improve on-task behavior in 4th and 5th grade students: A dose–response study. *Preventive Medicine, 67*, 79–84. [doi:10.1016/j.mhpa.2014.05.002](https://doi.org/10.1016/j.mhpa.2014.05.002)
 - Fedewa, A. L., & Ahn, S. (2011). The effects of physical activity and physical fitness on children's achievement and cognitive outcomes: A meta-analysis. *Research Quarterly for Exercise and Sport, 82*(3), 521–535. [doi:10.1080/02701367.2011.10599785](https://doi.org/10.1080/02701367.2011.10599785)
 - Mahar, M. T. (2011). Impact of short bouts of physical activity on attention-to-task in elementary school children. *Preventive Medicine, 52*(Suppl. 1), S60–S64. [doi:10.1016/j.ypmed.2011.01.026](https://doi.org/10.1016/j.ypmed.2011.01.026)
 - Diamond, A., & Lee, K. (2011). Interventions shown to aid executive function development in children 4 to 12 years old. *Science, 333*(6045), 959–964. [doi:10.1126/science.1204529](https://doi.org/10.1126/science.1204529)

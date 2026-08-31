@@ -64,7 +64,7 @@ Multisensory input supports early letter knowledge: children who trace and explo
 - **Occupational therapy school-based services** — therapists embed sensory-motor warm-ups (wall pushes, putty) followed by structured handwriting practice in push-in or pull-out models
 
 ## Key Sources
-- Bara, F., & Gentaz, E. (2011). Haptics in teaching handwriting: The role of perceptual and visuo-motor skills. *Research in Developmental Disabilities, 32*(2), 400–409. [doi:10.1016/j.ridd.2011.01.010](https://doi.org/10.1016/j.ridd.2011.01.010)
+- Bara, F., & Gentaz, E. (2011). Haptics in teaching handwriting: The role of perceptual and visuo-motor skills. *Research in Developmental Disabilities, 32*(2), 400–409. [doi:10.1016/j.humov.2010.05.015](https://doi.org/10.1016/j.humov.2010.05.015)
 - Case-Smith, J., Weaver, L. L., & Holland, T. (2014). Systematic review of handwriting interventions within occupational therapy for elementary students. *American Journal of Occupational Therapy, 68*(2), 225–234. [doi:10.5014/ajot.2014.009590](https://doi.org/10.5014/ajot.2014.009590)
 - Hoy, M. M. P., Egan, M. Y., & Feder, K. P. (2011). A systematic review of interventions to improve handwriting. *Canadian Journal of Occupational Therapy, 78*(1), 13–25. [doi:10.2182/cjot.2011.78.1.3](https://doi.org/10.2182/cjot.2011.78.1.3)
 - Graham, S., Harris, K. R., & Fink, B. (2000). Is handwriting causally related to learning to write? Treatment of handwriting problems in beginning writers. *Journal of Educational Psychology, 92*(4), 620–633. [doi:10.1037/0022-0663.92.4.620](https://doi.org/10.1037/0022-0663.92.4.620)

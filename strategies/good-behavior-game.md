@@ -67,6 +67,6 @@ GBG applies group contingency and reinforcement principles to reduce disruption 
 
 ## Key Sources
 - Barrish, H. H., Saunders, M., & Wolf, M. M. (1969). Good behavior game: Effects of individual contingencies for group consequences on disruptive behavior in a classroom. *Journal of Applied Behavior Analysis, 2*(2), 119–124. [doi:10.1901/jaba.1969.2-119](https://doi.org/10.1901/jaba.1969.2-119)
-- Embry, D. D. (2002). The Good Behavior Game: A best practice candidate as a universal behavioral vaccine. *Clinical Child and Family Psychology Review, 5*(4), 273–297. [doi:10.1023/A:1020977104786](https://doi.org/10.1023/A:1020977104786)
+- Embry, D. D. (2002). The Good Behavior Game: A best practice candidate as a universal behavioral vaccine. *Clinical Child and Family Psychology Review, 5*(4), 273–297. [doi:10.1023/a:1020977107086](https://doi.org/10.1023/a:1020977107086)
 - Tingstrom, D. H., Sterling-Turner, H. E., & Wilczynski, S. M. (2006). The Good Behavior Game: 1969–2002. *Behavior Modification, 30*(2), 225–253. [doi:10.1177/0145445503261165](https://doi.org/10.1177/0145445503261165)
 - Kellam, S. G., Mackenzie, A. C. L., Brown, C. H., Poduska, J. M., Wang, W., Petras, H., & Wilcox, H. C. (2011). The Good Behavior Game and the future of prevention and treatment. *Addiction Science & Clinical Practice, 6*(1), 73–84. [doi:10.1159/000323280](https://doi.org/10.1159/000323280)

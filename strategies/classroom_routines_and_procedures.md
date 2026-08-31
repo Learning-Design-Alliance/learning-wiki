@@ -66,7 +66,7 @@ Routines function as procedural [chunking](../principles/chunking.md): by bundli
 ## Key Sources
 - Marzano, R. J. (2003). *Classroom management that works: Research-based strategies for every teacher.* ASCD.
 - Emmer, E. T., & Evertson, C. M. (2013). *Classroom management for middle and high school teachers* (9th ed.). Pearson.
-- Leinhardt, G., Weidman, C., & Hammond, K. M. (1987). Introduction and integration of classroom routines by expert teachers. *Curriculum Inquiry, 17*(2), 135–176. [doi:10.1080/03626784.1987.11075279](https://doi.org/10.1080/03626784.1987.11075279)
+- Leinhardt, G., Weidman, C., & Hammond, K. M. (1987). Introduction and integration of classroom routines by expert teachers. *Curriculum Inquiry, 17*(2), 135–176. [doi:10.1080/03626784.1987.11075284](https://doi.org/10.1080/03626784.1987.11075284)
 - Rosenshine, B. (2012). Principles of instruction: Research-based strategies that all teachers should know. *American Educator, 36*(1), 12–19.
 - Sweller, J., van Merriënboer, J. J. G., & Paas, F. (2019). Cognitive architecture and instructional design: 20 years later. *Educational Psychology Review, 31*(2), 261–292. [doi:10.1007/s10648-019-09465-5](https://doi.org/10.1007/s10648-019-09465-5)
 

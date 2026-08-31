@@ -76,7 +76,7 @@ Probing questions work because they elicit elaboration and self-explanation, whi
 
 ## Key Sources
 - Paul, R., & Elder, L. (2007). *The Thinker's Guide to the Art of Socratic Questioning*. Foundation for Critical Thinking.
-- King, A. (1993). Facilitating elaborative learning through guided student-generated questioning. *Educational Psychologist, 28*(2), 111–124. [doi:10.1207/s15326985ep2802_3](https://doi.org/10.1207/s15326985ep2802_3)
+- King, A. (1993). Facilitating elaborative learning through guided student-generated questioning. *Educational Psychologist, 28*(2), 111–124. [doi:10.1207/s15326985ep2701_8](https://doi.org/10.1207/s15326985ep2701_8)
 - Chi, M. T. H., de Leeuw, N., Chiu, M.-H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477. [doi:10.1207/s15516709cog1803_3](https://doi.org/10.1207/s15516709cog1803_3)
 - Dillon, J. T. (1988). *Questioning and Teaching: A Manual of Practice*. Croom Helm.
 - Hmelo-Silver, C. E. (2004). Problem-based learning: What and how do students learn? *Educational Psychology Review, 16*(3), 235–266. [doi:10.1023/B:EDPR.0000034022.16470.f3](https://doi.org/10.1023/B:EDPR.0000034022.16470.f3)

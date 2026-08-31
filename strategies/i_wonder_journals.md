@@ -79,7 +79,7 @@ Student-generated questions are a strong predictor of engagement and a lever for
 - **[Exploratorium Teacher Institute](https://www.exploratorium.edu/education/teacher-institute)** — teacher professional development that models phenomenon-first observation followed by question-posing routines of this kind.
 
 ## Key Sources
-- Chin, C., & Osborne, J. (2008). Students' questions: A potential resource for teaching and learning science. *Studies in Science Education, 44*(1), 1–39. [doi:10.1080/03057260808591696](https://doi.org/10.1080/03057260808591696)
-- Jirout, J., & Klahr, D. (2012). Children's scientific curiosity: In search of an operational definition of an elusive concept. *Developmental Review, 32*(2), 125–147. [doi:10.1016/j.dr.2011.12.001](https://doi.org/10.1016/j.dr.2011.12.001)
+- Chin, C., & Osborne, J. (2008). Students' questions: A potential resource for teaching and learning science. *Studies in Science Education, 44*(1), 1–39. [doi:10.1080/03057260701828101](https://doi.org/10.1080/03057260701828101)
+- Jirout, J., & Klahr, D. (2012). Children's scientific curiosity: In search of an operational definition of an elusive concept. *Developmental Review, 32*(2), 125–147. [doi:10.1016/j.dr.2012.04.002](https://doi.org/10.1016/j.dr.2012.04.002)
 - Edelson, D. C. (2001). Learning-for-use: A framework for the design of technology-supported inquiry activities. *The Journal of the Learning Sciences, 10*(4), 355–386. [doi:10.1002/1098-2736(200103)38:3<355::aid-tea1010>3.0.co;2-m](https://doi.org/10.1002/1098-2736(200103)38:3<355::aid-tea1010>3.0.co;2-m)
-- Hakkarainen, K. (2003). Emergence of progressive-inquiry culture in computer-supported collaborative learning. *Learning Environments Research, 6*(2), 157–176. [doi:10.1023/A:1024446315130](https://doi.org/10.1023/A:1024446315130)
+- Hakkarainen, K. (2003). Emergence of progressive-inquiry culture in computer-supported collaborative learning. *Learning Environments Research, 6*(2), 157–176. [doi:10.3115/1599773.1599794](https://doi.org/10.3115/1599773.1599794)

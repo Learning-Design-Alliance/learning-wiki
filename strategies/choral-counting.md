@@ -67,6 +67,6 @@ Choral Counting converts a procedural skill (skip counting) into a shared object
 
 ## Key Sources
 - Kazemi, E., Franke, M., & Turrou, A. C. (2018). *Choral Counting & Counting Collections: Transforming the PreK–5 Math Classroom*. Stenhouse Publishers.
-- Franke, M. L., & Kazemi, E. (2001). Learning to teach mathematics: Focus on student thinking. *Theory Into Practice, 40*(2), 102–109. [doi:10.1080/00405840109604585](https://doi.org/10.1080/00405840109604585)
+- Franke, M. L., & Kazemi, E. (2001). Learning to teach mathematics: Focus on student thinking. *Theory Into Practice, 40*(2), 102–109. [doi:10.1207/s15430421tip4002_4](https://doi.org/10.1207/s15430421tip4002_4)
 - Kazemi, E., & Franke, M. L. (2004). Teacher learning in mathematics: Using student work to promote professional inquiry. *Journal of Mathematics Teacher Education, 7*(2), 81–111. [doi:10.1023/b:jmte.0000033084.26326.19](https://doi.org/10.1023/b:jmte.0000033084.26326.19)
 - National Council of Teachers of Mathematics (2014). *Principles to Actions: Ensuring Mathematical Success for All*. NCTM. [https://www.nctm.org](https://www.nctm.org)

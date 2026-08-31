@@ -67,7 +67,7 @@ Warm demanding reframes rigor as an act of care: students are far more willing t
 - **Hammond (2015), *Culturally Responsive Teaching and the Brain*** — positions the warm demander as one of three teacher stances within culturally responsive pedagogy, emphasizing rigor plus capacity-building support for historically underserved students.
 
 ## Key Sources
-- Kleinfeld, J. (1975). Effective teachers of Eskimo and Indian students. *School Review, 83*(2), 301–344. [doi:10.1086/443209](https://doi.org/10.1086/443209)
+- Kleinfeld, J. (1975). Effective teachers of Eskimo and Indian students. *School Review, 83*(2), 301–344. [doi:10.1086/443191](https://doi.org/10.1086/443191)
 - Bondy, E., & Ross, D. D. (2008). The teacher as warm demander. *Childhood Education, 84*(4), 226–231. [doi:10.1080/00094056.2008.10522983](https://doi.org/10.1080/00094056.2008.10522983)
 - Okonofua, J. A., Paunesku, D., & Walton, G. M. (2016). Brief intervention to encourage empathic discipline cuts suspension rates in half among adolescents. *Proceedings of the National Academy of Sciences, 113*(19), 5221–5226. [doi:10.1073/pnas.1523698113](https://doi.org/10.1073/pnas.1523698113)
 - Hammond, Z. (2015). *Culturally responsive teaching and the brain: Promoting authentic engagement and rigor among culturally and linguistically diverse students.* Corwin.

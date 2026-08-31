@@ -68,6 +68,6 @@ STT functions as an [accommodation](../elements/accommodations.md) that bypasses
 
 ## Key Sources
 - De La Paz, S., & Graham, S. (1997). Effects of dictation and advanced planning instruction on the composing of students with writing and learning problems. *Journal of Educational Psychology, 89*(2), 203–222.
-- MacArthur, C. A. (2009). Reflections on research on writing and technology for struggling writers. *Learning Disabilities Research & Practice, 24*(2), 93–103. [doi:10.1111/j.1540-5826.2009.01283.x](https://doi.org/10.1111/j.1540-5826.2009.01283.x)
+- MacArthur, C. A. (2009). Reflections on research on writing and technology for struggling writers. *Learning Disabilities Research & Practice, 24*(2), 93–103. [doi:10.1111/j.1540-5826.2009.00283.x](https://doi.org/10.1111/j.1540-5826.2009.00283.x)
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
-- Evmenova, A. S. (2018). Preparing teachers to use universal design for learning to support diverse learners. *Journal of Digital Learning in Teacher Education, 34*(4), 227–244. [doi:10.1080/21532974.2018.1498028](https://doi.org/10.1080/21532974.2018.1498028)
+- Evmenova, A. S. (2018). Preparing teachers to use universal design for learning to support diverse learners. *Journal of Digital Learning in Teacher Education, 34*(4), 227–244. [doi:10.70725/806763ugjaeu](https://doi.org/10.70725/806763ugjaeu)

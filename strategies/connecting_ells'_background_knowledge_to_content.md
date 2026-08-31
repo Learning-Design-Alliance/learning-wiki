@@ -67,7 +67,7 @@ Activating relevant prior knowledge is one of the most consistently supported co
 
 ## Key Sources
 - Moll, L. C., Amanti, C., Neff, D., & Gonzalez, N. (1992). Funds of knowledge for teaching: Using a qualitative approach to connect homes and classrooms. *Harvard Educational Review, 62*(4), 441–462. [doi:10.1080/00405849209543534](https://doi.org/10.1080/00405849209543534)
-- Au, W. (2009). Isn't culturally responsive instruction just good teaching? *Review of Educational Research, 79*(1), 166–194. [doi:10.3102/0034654308326093](https://doi.org/10.3102/0034654308326093)
+- Au, W. (2009). Isn't culturally responsive instruction just good teaching? *Review of Educational Research, 79*(1), 166–194. [doi:10.66392/003777209814736448](https://doi.org/10.66392/003777209814736448)
 - August, D., & Shanahan, T. (Eds.). (2006). *Developing literacy in second-language learners: Report of the National Literacy Panel on Language-Minority Children and Youth.* Lawrence Erlbaum. [doi:10.1080/10862960903340165](https://doi.org/10.1080/10862960903340165)
 - Echevarría, J., Vogt, M., & Short, D. (2017). *Making content comprehensible for English learners: The SIOP model* (5th ed.). Pearson.
 - Gay, G. (2018). *Culturally responsive teaching: Theory, research, and practice* (3rd ed.). Teachers College Press.

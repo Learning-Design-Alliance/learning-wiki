@@ -60,8 +60,8 @@ Accommodations improve access and performance for learners whose needs conflict 
 - **Preferential seating and reduced-distraction testing environments** — environmental accommodations for attention-related barriers
 
 ## Key Sources
-- Fuchs, L. S., & Fuchs, D. (2001). Principles for the prevention and intervention of mathematics difficulties. In *Psychological Perspectives* — see instead: Fuchs, D., & Fuchs, L. S. (2006). Introduction to response to intervention. *Reading Research Quarterly, 41*(1), 93–99. [doi:10.1598/RRQ.41.1.5](https://doi.org/10.1598/RRQ.41.1.5)
+- Fuchs, L. S., & Fuchs, D. (2001). Principles for the prevention and intervention of mathematics difficulties. In *Psychological Perspectives* — see instead: Fuchs, D., & Fuchs, L. S. (2006). Introduction to response to intervention. *Reading Research Quarterly, 41*(1), 93–99. [doi:10.1111/0938-8982.00010](https://doi.org/10.1111/0938-8982.00010)
 - Sireci, S. G., Scarpati, S. E., & Li, C. (2005). Effects of test accommodations on test performance: A review of the literature. *Educational Measurement: Issues and Practice, 24*(1), 3–12. [doi:10.1111/j.1745-3992.2005.00001.x](https://doi.org/10.1111/j.1745-3992.2005.00001.x)
 - Gernsbacher, M. A. (2015). Video captions benefit everyone. *Policy Insights from the Behavioral and Brain Sciences, 2*(1), 195–202. [doi:10.1177/2372732215602130](https://doi.org/10.1177/2372732215602130)
 - Rose, D. H., & Meyer, A. (2002). *Teaching every student in the digital age: Universal design for learning.* ASCD.
-- Ketterlin-Geller, L. R., & Crawford, L. (2011). Recommendations for accommodations: Implications of (in)consistency. *Remedial and Special Education, 32*(4), 291–305. [doi:10.1177/0741932510363753](https://doi.org/10.1177/0741932510363753)
+- Ketterlin-Geller, L. R., & Crawford, L. (2011). Recommendations for accommodations: Implications of (in)consistency. *Remedial and Special Education, 32*(4), 291–305. [doi:10.1177/07419325070280040101](https://doi.org/10.1177/07419325070280040101)

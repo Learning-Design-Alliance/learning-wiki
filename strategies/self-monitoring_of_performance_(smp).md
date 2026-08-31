@@ -65,7 +65,7 @@ SMP works because it converts an invisible performance stream into visible, imme
 - **[ClassDojo](https://www.classdojo.com)** and similar behavior-tracking apps digitize the recording step, though SMP requires the *learner*, not the teacher, to do the recording for the self-regulation benefit to accrue.
 
 ## Key Sources
-- McDougall, D., & Brady, M. P. (1998). Initiating and fading self-management interventions to increase math fluency. *Journal of Applied Behavior Analysis, 31*(1), 35–46. [doi:10.1901/jaba.1998.31-35](https://doi.org/10.1901/jaba.1998.31-35)
-- Reid, R., Trout, A. L., & Schwartz, M. (2005). Self-regulation interventions for children with attention deficit/hyperactivity disorder. *Exceptional Children, 71*(4), 361–377. [doi:10.1177/001440290507100401](https://doi.org/10.1177/001440290507100401)
+- McDougall, D., & Brady, M. P. (1998). Initiating and fading self-management interventions to increase math fluency. *Journal of Applied Behavior Analysis, 31*(1), 35–46. [doi:10.1177/001440299806400201](https://doi.org/10.1177/001440299806400201)
+- Reid, R., Trout, A. L., & Schwartz, M. (2005). Self-regulation interventions for children with attention deficit/hyperactivity disorder. *Exceptional Children, 71*(4), 361–377. [doi:10.17161/fec.v32i4.6773](https://doi.org/10.17161/fec.v32i4.6773)
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
 - Mooney, P., Ryan, J. B., & Uhing, B. M. (2005). A review of self-management interventions targeting academic outcomes for students with emotional and behavioral disorders. *Journal of Behavioral Education, 14*(3), 203–221. [doi:10.1007/s10864-005-6298-1](https://doi.org/10.1007/s10864-005-6298-1)

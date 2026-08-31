@@ -68,7 +68,7 @@ High expectations function through two mechanisms: they raise the goals students
 - **PBLWorks (Buck Institute) Gold Standard PBL** — lists "challenge and success" as a design principle: projects must be demanding yet scaffolded so all students can produce high-quality work ([https://www.pblworks.org](https://www.pblworks.org))
 
 ## Key Sources
-- Rosenthal, R., & Jacobson, L. (1968). Pygmalion in the classroom: Teacher expectation and pupils' intellectual development. *Psychological Reports, 22*(1), 115–118. [doi:10.2466/pr0.1968.22.1.115](https://doi.org/10.2466/pr0.1968.22.1.115)
+- Rosenthal, R., & Jacobson, L. (1968). Pygmalion in the classroom: Teacher expectation and pupils' intellectual development. *Psychological Reports, 22*(1), 115–118. [doi:10.2307/2092211](https://doi.org/10.2307/2092211)
 - Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation: A 35-year odyssey. *American Psychologist, 57*(9), 705–717. [doi:10.1037/0003-066X.57.9.705](https://doi.org/10.1037/0003-066X.57.9.705)
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
 - Bandura, A. (1997). *Self-efficacy: The exercise of control*. W. H. Freeman.

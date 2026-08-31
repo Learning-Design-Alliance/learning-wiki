@@ -64,6 +64,6 @@ Attention checks operationalize self-monitoring: prompting learners to evaluate 
 
 ## Key Sources
 - Schonert-Reichl, K. A., Oberle, E., Lawlor, M. S., Abbott, D., Thomson, K., Oberlander, T. F., & Diamond, A. (2015). Enhancing cognitive and social–emotional development through a simple-to-administer mindfulness-based school program for elementary school children: A randomized controlled trial. *Developmental Psychology, 51*(1), 52–66. [doi:10.1037/a0038454](https://doi.org/10.1037/a0038454)
-- Smallwood, J., Fishman, D. J., & Schooler, J. W. (2007). Counting the cost of an absent mind: Mind wandering as an underrecognized influence on educational performance. *Psychonomic Bulletin & Review, 14*(2), 230–236. [doi:10.3758/BF03194060](https://doi.org/10.3758/BF03194060)
+- Smallwood, J., Fishman, D. J., & Schooler, J. W. (2007). Counting the cost of an absent mind: Mind wandering as an underrecognized influence on educational performance. *Psychonomic Bulletin & Review, 14*(2), 230–236. [doi:10.3758/bf03194057](https://doi.org/10.3758/bf03194057)
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
 - Mrazek, M. D., Franklin, M. S., Phillips, D. T., Baird, B., & Schooler, J. W. (2013). Mindfulness training improves working memory capacity and GRE performance while reducing mind wandering. *Psychological Science, 24*(5), 776–781. [doi:10.1177/0956797612459659](https://doi.org/10.1177/0956797612459659)

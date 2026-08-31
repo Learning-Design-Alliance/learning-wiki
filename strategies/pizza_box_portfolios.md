@@ -66,6 +66,6 @@ The strategy enacts the core mechanism of portfolio assessment — learner parti
 
 ## Key Sources
 - Paulson, F. L., Paulson, P. R., & Meyer, C. A. (1991). What makes a portfolio a portfolio? *Educational Leadership, 48*(5), 60–63.
-- Klenowski, V., Askew, S., & Carnell, E. (2006). Portfolios for learning, assessment and professional development in higher education. *Assessment & Evaluation in Higher Education, 31*(4), 435–453. [doi:10.1080/02602930600679182](https://doi.org/10.1080/02602930600679182)
+- Klenowski, V., Askew, S., & Carnell, E. (2006). Portfolios for learning, assessment and professional development in higher education. *Assessment & Evaluation in Higher Education, 31*(4), 435–453. [doi:10.1080/02602930500352816](https://doi.org/10.1080/02602930500352816)
 - Stiggins, R. J. (2002). Assessment crisis: The absence of assessment FOR learning. *Phi Delta Kappan, 83*(10), 758–765. [doi:10.1177/003172170208301010](https://doi.org/10.1177/003172170208301010)
 - Butler, Y. G., & Lee, J. (2010). The effects of self-assessment among young learners of English. *Language Testing, 27*(1), 5–31. [doi:10.1177/0265532209346370](https://doi.org/10.1177/0265532209346370)

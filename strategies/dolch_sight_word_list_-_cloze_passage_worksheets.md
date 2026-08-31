@@ -72,6 +72,6 @@ Cloze practice targets the automaticity of high-frequency word recognition, whic
 ## Key Sources
 - Dolch, E. W. (1936). A basic sight vocabulary. *The Elementary School Journal, 36*(6), 456–460. [doi:10.1086/457353](https://doi.org/10.1086/457353)
 - Taylor, W. L. (1953). Cloze procedure: A new tool for measuring readability. *Journalism Quarterly, 30*(4), 415–433. [doi:10.1177/107769905303000401](https://doi.org/10.1177/107769905303000401)
-- Stanovich, K. E. (1980). Toward an interactive-compensatory model of individual differences in the development of reading fluency. *Reading Research Quarterly, 16*(1), 32–71. [doi:10.2307/747823](https://doi.org/10.2307/747823)
+- Stanovich, K. E. (1980). Toward an interactive-compensatory model of individual differences in the development of reading fluency. *Reading Research Quarterly, 16*(1), 32–71. [doi:10.2307/747348](https://doi.org/10.2307/747348)
 - Ehri, L. C., Nunes, S. R., Stahl, S. A., & Willows, D. M. (2001). Systematic phonics instruction helps students learn to read: Evidence from the National Reading Panel's meta-analysis. *Review of Educational Research, 71*(3), 393–447. [doi:10.3102/00346543071003393](https://doi.org/10.3102/00346543071003393)
 - National Reading Panel. (2000). *Teaching children to read: An evidence-based assessment of the scientific research literature on reading and its implications for reading instruction.* National Institute of Child Health and Human Development.

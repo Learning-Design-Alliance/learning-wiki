@@ -64,6 +64,6 @@ Structured notes work through two mechanisms: they reduce the transcription burd
 
 ## Key Sources
 - Kiewra, K. A. (1989). A review of note-taking: The encoding-storage paradigm and beyond. *Educational Psychology Review, 1*(2), 147–172. [doi:10.1007/bf01326640](https://doi.org/10.1007/bf01326640)
-- Mueller, P. A., & Oppenheimer, D. M. (2014). The pen is mightier than the keyboard: Advantages of longhand over laptop note taking. *Psychological Science, 25*(6), 1159–1168. [doi:10.1177/0956797614524581](https://doi.org/10.1177/0956797614524581)
+- Mueller, P. A., & Oppenheimer, D. M. (2014). The pen is mightier than the keyboard: Advantages of longhand over laptop note taking. *Psychological Science, 25*(6), 1159–1168. [doi:10.1037/e502412013-155](https://doi.org/10.1037/e502412013-155)
 - Peper, R. J., & Mayer, R. E. (1986). Generative effects of note-taking during film lectures. *Journal of Educational Psychology, 78*(1), 60–63.
 - Pauk, W., & Owens, R. J. Q. (2010). *How to Study in College* (10th ed.). Wadsworth.

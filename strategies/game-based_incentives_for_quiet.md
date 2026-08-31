@@ -66,5 +66,5 @@ The strategy applies operant conditioning principles to classroom routines: a cl
 ## Key Sources
 - Litow, L., & Pumroy, D. K. (1975). A brief review of classroom group-oriented contingencies. *Journal of Applied Behavior Analysis, 8*(3), 341–347. [doi:10.1901/jaba.1975.8-341](https://doi.org/10.1901/jaba.1975.8-341)
 - Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 125*(6), 627–668. [doi:10.1037/0033-2909.125.6.627](https://doi.org/10.1037/0033-2909.125.6.627)
-- Slavin, R. E. (1987). Developmental and motivational perspectives on cooperative learning: A reconciliation. *Child Development, 58*(5), 1161–1167. [doi:10.2307/1130613](https://doi.org/10.2307/1130613)
+- Slavin, R. E. (1987). Developmental and motivational perspectives on cooperative learning: A reconciliation. *Child Development, 58*(5), 1161–1167. [doi:10.2307/1130612](https://doi.org/10.2307/1130612)
 - Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children, 31*(3), 351–380. [doi:10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)

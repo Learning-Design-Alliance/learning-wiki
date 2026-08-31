@@ -67,7 +67,7 @@ The protocol treats fidget use as a trained behavior rather than an open accommo
 - A second-grade teacher implements class-wide fidget contracts: each student who opts in keeps one putty egg in their desk, used only during independent reading, with a weekly check-in on whether it helps.
 
 ## Key Sources
-- Sarver, D. E., Rapport, M. D., Kofler, M. J., Raiker, J. S., & Bolden, J. (2015). Hyperactivity in attention-deficit/hyperactivity disorder (ADHD): Impairing deficit or compensatory behavior? *Journal of Abnormal Child Psychology, 43*(7), 1219–1232. [doi:10.1007/s10802-014-9957-0](https://doi.org/10.1007/s10802-014-9957-0)
+- Sarver, D. E., Rapport, M. D., Kofler, M. J., Raiker, J. S., & Bolden, J. (2015). Hyperactivity in attention-deficit/hyperactivity disorder (ADHD): Impairing deficit or compensatory behavior? *Journal of Abnormal Child Psychology, 43*(7), 1219–1232. [doi:10.1007/s10802-015-0011-1](https://doi.org/10.1007/s10802-015-0011-1)
 - Graziano, P. A., Garcia, A. M., & Landis, T. S. (2018). To fidget or not to fidget, that is the question: A systematic classroom observation of students with ADHD. *Journal of Attention Disorders, 24*(2), 303–312. [doi:10.1177/1087054718770009](https://doi.org/10.1177/1087054718770009)
 - Pecher, D., & Zeelenberg, R. (2020). Do fidget spinners help attention? *Trends in Cognitive Sciences* correspondence literature on fidget spinner effects in classrooms.
 - Barkley, R. A. (2011). *ADHD and the nature of self-control*. Guilford Press.

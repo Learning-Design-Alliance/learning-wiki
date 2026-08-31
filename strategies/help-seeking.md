@@ -65,7 +65,7 @@ Help seeking depends on learners first accurately judging their own comprehensio
 - **"Ask three before me"** — a common K-12 routine that routes help seeking through peers first, building both help-seeking practice and help-giving skill.
 
 ## Key Sources
-- Aleven, V., Stahl, E., Schworm, S., Fischer, F., & Wallace, R. (2006). Help seeking and help design in interactive learning environments. *Review of Educational Research, 76*(2), 273–308. [doi:10.3102/00346543076002273](https://doi.org/10.3102/00346543076002273)
+- Aleven, V., Stahl, E., Schworm, S., Fischer, F., & Wallace, R. (2006). Help seeking and help design in interactive learning environments. *Review of Educational Research, 76*(2), 273–308. [doi:10.3102/00346543073003277](https://doi.org/10.3102/00346543073003277)
 - Newman, R. S. (1991). Goals and self-regulated learning: What motivates children to seek academic help? In M. L. Maehr & P. R. Pintrich (Eds.), *Advances in motivation and achievement* (Vol. 7, pp. 151–183). JAI Press.
 - Karabenick, S. A., & Newman, R. S. (Eds.). (2006). *Help seeking in academic settings: Goals, groups, and contexts.* Lawrence Erlbaum Associates.
 - Nelson-Le Gall, S. (1981). Help-seeking: An understudied problem-solving skill in children. *Developmental Review, 1*(3), 224–246. [doi:10.1016/0273-2297(81)90019-8](https://doi.org/10.1016/0273-2297(81)90019-8)

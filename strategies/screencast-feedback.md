@@ -68,6 +68,6 @@ Screencast feedback leverages the redundancy and signaling affordances of combin
 
 ## Key Sources
 - Henderson, M., & Phillips, M. (2015). Video-based feedback on student assessment: Scarily personal. *Distance Education, 36*(1), 51–66. [doi:10.14742/ajet.1878](https://doi.org/10.14742/ajet.1878)
-- Borup, J., West, R. E., Thomas, R., & Graham, C. R. (2015). The influence of asynchronous video communication on learner social presence: A narrative analysis of four cases. *Distance Education, 36*(1), 67–85. [doi:10.1080/01587919.2015.1020068](https://doi.org/10.1080/01587919.2015.1020068)
+- Borup, J., West, R. E., Thomas, R., & Graham, C. R. (2015). The influence of asynchronous video communication on learner social presence: A narrative analysis of four cases. *Distance Education, 36*(1), 67–85. [doi:10.1080/01587919.2013.770427](https://doi.org/10.1080/01587919.2013.770427)
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
 - Mayer, R. E. (2021). *Multimedia learning* (3rd ed.). Cambridge University Press. [doi:10.1017/9781316941355](https://doi.org/10.1017/9781316941355)

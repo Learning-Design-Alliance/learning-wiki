@@ -73,6 +73,6 @@ Syllabication gives learners a structural schema for attacking multisyllable wor
 
 ## Key Sources
 - Ehri, L. C., Nunes, S. R., Stahl, S. A., & Willows, D. M. (2001). Systematic phonics instruction helps students learn to read: Evidence from the National Reading Panel's meta-analysis. *Review of Educational Research, 71*(3), 393–447. [doi:10.3102/00346543071003393](https://doi.org/10.3102/00346543071003393)
-- Bhattacharya, A., & Ehri, L. C. (2004). Graphosyllabic analysis helps adolescent struggling readers read and spell words. *Journal of Literacy Research, 36*(2), 155–192. [doi:10.1207/s15548430jlr3602_3](https://doi.org/10.1207/s15548430jlr3602_3)
+- Bhattacharya, A., & Ehri, L. C. (2004). Graphosyllabic analysis helps adolescent struggling readers read and spell words. *Journal of Literacy Research, 36*(2), 155–192. [doi:10.1177/00222194040370040501](https://doi.org/10.1177/00222194040370040501)
 - Joshi, R. M., Treiman, R., Carreker, S., & Moats, L. C. (2008). How words cast their spell: Spelling is an integral part of learning the language, not a matter of memorization. *American Educator, 32*(4), 6–16.
 - Graham, S., & Santangelo, T. (2014). Does spelling instruction make students better spellers, readers, and writers? A meta-analytic review. *Reading and Writing, 27*(9), 1703–1743. [doi:10.1007/s11145-014-9517-0](https://doi.org/10.1007/s11145-014-9517-0)

@@ -77,6 +77,6 @@ Fluency develops through a progression from counting and derived strategies to a
 ## Key Sources
 - National Research Council. (2001). *Adding It Up: Helping Children Learn Mathematics*. National Academy Press. [doi:10.17226/9822](https://doi.org/10.17226/9822)
 - Baroody, A. J., Bajwa, N. P., & Eiland, M. (2009). Why can't Johnny remember the basic facts? *Developmental Disabilities Research Reviews, 15*(1), 69–79. [doi:10.1002/ddrr.45](https://doi.org/10.1002/ddrr.45)
-- Boaler, J. (2014). Research suggests timed tests cause math anxiety. *Teaching Children Mathematics, 21*(5), 287–288. [doi:10.5951/teacchilmath.21.5.0287](https://doi.org/10.5951/teacchilmath.21.5.0287)
+- Boaler, J. (2014). Research suggests timed tests cause math anxiety. *Teaching Children Mathematics, 21*(5), 287–288. [doi:10.5951/teacchilmath.20.8.0469](https://doi.org/10.5951/teacchilmath.20.8.0469)
 - Ramirez, G., Gunderson, E. A., Levine, S. C., & Beilock, S. L. (2013). Math anxiety, working memory, and math achievement in early elementary school. *Journal of Cognition and Development, 14*(2), 187–202. [doi:10.1080/15248372.2012.664593](https://doi.org/10.1080/15248372.2012.664593)
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)

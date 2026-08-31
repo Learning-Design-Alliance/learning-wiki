@@ -76,6 +76,6 @@ Noise monitoring works as a form of automated, objective [feedback](../elements/
 
 ## Key Sources
 - Shield, B. M., & Dockrell, J. E. (2003). The effects of noise on children at school: A review. *Building Acoustics, 10*(2), 97–116. [doi:10.1260/135101003768965960](https://doi.org/10.1260/135101003768965960)
-- Bruhn, A. L., McDaniel, S. C., Kreigh, C., & Barton, E. (2015). Self-monitoring interventions for students with behavior problems: A systematic review of current research. *Behavioral Disorders, 40*(2), 102–117. [doi:10.17988/0198-7429-40.2.102](https://doi.org/10.17988/0198-7429-40.2.102)
+- Bruhn, A. L., McDaniel, S. C., Kreigh, C., & Barton, E. (2015). Self-monitoring interventions for students with behavior problems: A systematic review of current research. *Behavioral Disorders, 40*(2), 102–117. [doi:10.17988/bd-13-45.1](https://doi.org/10.17988/bd-13-45.1)
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
 - Litow, L., & Pumroy, D. K. (1975). A brief review of classroom group-oriented contingencies. *Journal of Applied Behavior Analysis, 8*(3), 341–347. [doi:10.1901/jaba.1975.8-341](https://doi.org/10.1901/jaba.1975.8-341)

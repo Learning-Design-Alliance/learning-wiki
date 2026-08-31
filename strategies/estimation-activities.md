@@ -68,6 +68,6 @@ Estimation works as a form of [activation](../principles/activation.md): committ
 
 ## Key Sources
 - Siegler, R. S., & Booth, J. L. (2005). Development of numerical estimation in young children. *Child Development, 75*(2), 428–444. [doi:10.1111/j.1467-8624.2004.00684.x](https://doi.org/10.1111/j.1467-8624.2004.00684.x)
-- Bohr, N. (1948). On the notions of causality and indeterminism. *Dialectica, 2*(3–4), 312–319. [doi:10.1111/j.1746-8361.1948.tb00704.x](https://doi.org/10.1111/j.1746-8361.1948.tb00704.x)
+- Bohr, N. (1948). On the notions of causality and indeterminism. *Dialectica, 2*(3–4), 312–319. [doi:10.1111/j.1746-8361.1948.tb00703.x](https://doi.org/10.1111/j.1746-8361.1948.tb00703.x)
 - Crouch, C. H., & Mazur, E. (2001). Peer instruction: Ten years of experience and results. *American Journal of Physics, 69*(9), 970–977. [doi:10.1119/1.1374249](https://doi.org/10.1119/1.1374249)
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)

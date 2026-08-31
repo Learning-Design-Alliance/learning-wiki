@@ -69,5 +69,5 @@ Planning a day's meals is an application task: learners must translate a general
 ## Key Sources
 - Gollwitzer, P. M. (1999). Implementation intentions: Strong effects of simple plans. *American Psychologist, 54*(7), 493–503. [doi:10.1037/0003-066X.54.7.493](https://doi.org/10.1037/0003-066X.54.7.493)
 - Contento, I. R. (2008). Nutrition education: Linking research, theory, and practice. *Journal of Nutrition Education and Behavior, 40*(4), 194–198.
-- Michie, S., Richardson, M., Johnston, M., et al. (2013). The behavior change technique taxonomy (v1) of 93 hierarchically clustered techniques. *Implementation Science, 8*, 101. [doi:10.1186/1748-5908-8-101](https://doi.org/10.1186/1748-5908-8-101)
+- Michie, S., Richardson, M., Johnston, M., et al. (2013). The behavior change technique taxonomy (v1) of 93 hierarchically clustered techniques. *Implementation Science, 8*, 101. [doi:10.1037/e576662013-001](https://doi.org/10.1037/e576662013-001)
 - Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review, 84*(2), 191–215. [doi:10.1037/0033-295X.84.2.191](https://doi.org/10.1037/0033-295X.84.2.191)

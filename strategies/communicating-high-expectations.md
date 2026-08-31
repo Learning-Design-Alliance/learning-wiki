@@ -62,7 +62,7 @@ Expectation communication works as a "wise intervention": it changes how learner
 - **AVID (Advancement Via Individual Determination, https://www.avid.org)** — college-readiness program that places underperforming students in rigorous coursework with explicit messaging that they are "college material," plus tutorials and organizational support.
 
 ## Key Sources
-- Rosenthal, R., & Jacobson, L. (1968). Pygmalion in the classroom: Teacher expectation and pupils' intellectual development. *Holt, Rinehart & Winston.*
+- Rosenthal, R., & Jacobson, L. (1968). Pygmalion in the classroom: Teacher expectation and pupils' intellectual development. *Holt, Rinehart & Winston.* [doi:10.2307/2092211](https://doi.org/10.2307/2092211)
 - Yeager, D. S., & Walton, G. M. (2011). Social-psychological interventions in education: They're not magic. *Review of Educational Research, 81*(2), 267–301. [doi:10.3102/0034654311405999](https://doi.org/10.3102/0034654311405999)
 - Cohen, G. L., Garcia, J., Apfel, N., & Master, A. (2006). Reducing the racial achievement gap: A social-psychological intervention. *Science, 313*(5791), 1307–1310. [doi:10.1126/science.1128317](https://doi.org/10.1126/science.1128317)
 - Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review, 84*(2), 191–215. [doi:10.1037/0033-295X.84.2.191](https://doi.org/10.1037/0033-295X.84.2.191)

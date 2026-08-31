@@ -67,7 +67,7 @@ The principle works because response probability itself predicts reinforcement v
 
 ## Key Sources
 - Premack, D. (1965). Reinforcement theory. In D. Levine (Ed.), *Nebraska Symposium on Motivation* (Vol. 13, pp. 123–180). University of Nebraska Press. [doi:10.1037/h0022195](https://doi.org/10.1037/h0022195)
-- Premack, D. (1959). Toward empirical behavior laws: I. Positive reinforcement. *Psychological Review, 66*(4), 219–233. [doi:10.1037/h0040899](https://doi.org/10.1037/h0040899)
+- Premack, D. (1959). Toward empirical behavior laws: I. Positive reinforcement. *Psychological Review, 66*(4), 219–233. [doi:10.1037/h0040891](https://doi.org/10.1037/h0040891)
 - Cooper, J. O., Heron, T. E., & Heward, W. L. (2020). *Applied behavior analysis* (3rd ed.). Pearson.
 - Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 125*(6), 627–668. [doi:10.1037/0033-2909.125.6.627](https://doi.org/10.1037/0033-2909.125.6.627)
 - Timberlake, W., & Farmer-Dougan, V. A. (1991). Reinforcement in applied settings: Figuring out ahead of time what will work. *Psychological Bulletin, 110*(3), 379–391. [doi:10.1037/0033-2909.110.3.379](https://doi.org/10.1037/0033-2909.110.3.379)

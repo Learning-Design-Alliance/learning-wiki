@@ -50,7 +50,7 @@ Primary evidence link: https://doi.org/10.1016/S0193-3973(99)80040-2
 
 ### Pratt and Savoy-Levine 1998
 
-Pratt, M. W., & Savoy-Levine, K. M. (1998). Contingent tutoring of long-division skills in fourth and fifth graders: Experimental tests of some hypotheses about scaffolding. *Journal of Applied Developmental Psychology, 19*(2), 287–304. [doi:10.1016/S0193-3973(99)80040-2](https://doi.org/10.1016/S0193-3973(99)80040-2)
+Pratt, M. W., & Savoy-Levine, K. M. (1998). Contingent tutoring of long-division skills in fourth and fifth graders: Experimental tests of some hypotheses about scaffolding. *Journal of Applied Developmental Psychology, 19*(2), 287–304. [doi:10.1016/s0193-3973(99)80041-0](https://doi.org/10.1016/s0193-3973(99)80041-0)
 
 `q3 · peer-reviewed quasi-experiment with intervention fidelity check` · `i2 · moderate effect` · `n=40 (N=8 per condition)`
 

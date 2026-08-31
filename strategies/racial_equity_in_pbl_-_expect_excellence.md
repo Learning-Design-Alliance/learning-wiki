@@ -71,7 +71,7 @@ Teacher expectations are among the most powerful and self-fulfilling forces in t
 
 ## Key Sources
 - Ladson-Billings, G. (1995). Toward a theory of culturally relevant pedagogy. *American Educational Research Journal, 32*(3), 465–491. [doi:10.3102/00028312032003465](https://doi.org/10.3102/00028312032003465)
-- McKown, C., & Weinstein, R. S. (2008). Teacher expectations, classroom context, and the achievement gap. *Journal of Educational Psychology, 100*(3), 502–518. [doi:10.1037/0022-0663.100.3.502](https://doi.org/10.1037/0022-0663.100.3.502)
-- Rosenthal, R., & Jacobson, L. (1968). *Pygmalion in the classroom: Teacher expectation and pupils' intellectual development.* Holt, Rinehart & Winston.
+- McKown, C., & Weinstein, R. S. (2008). Teacher expectations, classroom context, and the achievement gap. *Journal of Educational Psychology, 100*(3), 502–518. [doi:10.1016/j.jsp.2007.05.001](https://doi.org/10.1016/j.jsp.2007.05.001)
+- Rosenthal, R., & Jacobson, L. (1968). *Pygmalion in the classroom: Teacher expectation and pupils' intellectual development.* Holt, Rinehart & Winston. [doi:10.2307/2092211](https://doi.org/10.2307/2092211)
 - Berger, R. (2003). *An ethic of excellence: Building a culture of craftsmanship with students.* Heinemann.
 - Hammond, Z. (2015). *Culturally responsive teaching and the brain.* Corwin.

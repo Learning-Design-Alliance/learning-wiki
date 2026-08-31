@@ -66,7 +66,7 @@ Access to books is one of the strongest environmental predictors of reading volu
 
 ## Key Sources
 - Neuman, S. B. (1999). Books make a difference: A study of access to literacy. *Reading Research Quarterly, 34*(3), 286–311. [doi:10.1598/RRQ.34.3.3](https://doi.org/10.1598/RRQ.34.3.3)
-- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil, P. B. Mosenthal, P. D. Pearson, & R. Barr (Eds.), *Handbook of Reading Research* (Vol. 3, pp. 403–422). Erlbaum.
+- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil, P. B. Mosenthal, P. D. Pearson, & R. Barr (Eds.), *Handbook of Reading Research* (Vol. 3, pp. 403–422). Erlbaum. [doi:10.1108/978-1-60752-786-220251011](https://doi.org/10.1108/978-1-60752-786-220251011)
 - Krashen, S. (2004). *The Power of Reading* (2nd ed.). Libraries Unlimited/Heinemann.
 - Morrow, L. M., & Weinstein, C. S. (1986). Encouraging voluntary reading: The impact of a literature program on children's use of library centers. *Reading Research Quarterly, 21*(3), 330–346. [doi:10.2307/747713](https://doi.org/10.2307/747713)
 - Allington, R. L. (2012). *What Really Matters for Struggling Readers* (3rd ed.). Pearson.

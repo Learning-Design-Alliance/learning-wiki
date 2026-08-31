@@ -67,5 +67,5 @@ Consistency across contexts reduces the extraneous cognitive load of re-decoding
 ## Key Sources
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
 - Shanahan, T., & Shanahan, C. (2008). Teaching disciplinary literacy to adolescents: Rethinking content-area literacy. *Harvard Educational Review, 78*(1), 40–59. [doi:10.17763/haer.78.1.v62444321p602101](https://doi.org/10.17763/haer.78.1.v62444321p602101)
-- Graham, S., & Sandmel, D. (2011). The process writing approach: A meta-analysis. *Journal of Educational Research, 104*(6), 396–407. [doi:10.1080/00220671.2010.488703](https://doi.org/10.1080/00220671.2010.488703)
+- Graham, S., & Sandmel, D. (2011). The process writing approach: A meta-analysis. *Journal of Educational Research, 104*(6), 396–407. [doi:10.17763/haer.81.4.t2k0m13756113566](https://doi.org/10.17763/haer.81.4.t2k0m13756113566)
 - Hochman, J. C., & Wexler, N. (2017). *The Writing Revolution: A guide to advancing thinking through writing in all subjects and grades*. Jossey-Bass.

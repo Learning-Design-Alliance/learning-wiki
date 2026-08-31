@@ -65,7 +65,7 @@ Multiple examples work because comparing across cases directs attention to the s
 - **Rittle-Johnson & Star's algebra study**: students comparing multiple worked solution methods gained more conceptual knowledge than students studying the same methods sequentially [Rittle-Johnson & Star, 2007](https://doi.org/10.1037/0022-0663.99.3.505)
 
 ## Key Sources
-- Gick, M. L., & Holyoak, K. J. (1983). Schema induction and analogical transfer. *Cognitive Psychology, 15*(1), 1–38. [doi:10.1016/0010-0285(83)90003-6](https://doi.org/10.1016/0010-0285(83)90003-6)
+- Gick, M. L., & Holyoak, K. J. (1983). Schema induction and analogical transfer. *Cognitive Psychology, 15*(1), 1–38. [doi:10.1016/0010-0285(83)90002-6](https://doi.org/10.1016/0010-0285(83)90002-6)
 - Quilici, J. L., & Mayer, R. E. (1996). Role of examples in how students learn to categorize statistics word problems. *Journal of Educational Psychology, 88*(1), 144–161. [doi:10.1037/0022-0663.88.1.144](https://doi.org/10.1037/0022-0663.88.1.144)
 - Rittle-Johnson, B., & Star, J. R. (2007). Does comparing solution methods facilitate conceptual and procedural knowledge? An experimental study on learning to solve equations. *Journal of Educational Psychology, 99*(3), 505–517. [doi:10.1037/0022-0663.99.3.561](https://doi.org/10.1037/0022-0663.99.3.561)
 - Renkl, A. (2014). Toward an instructionally oriented theory of example-based learning. *Cognitive Science, 38*(1), 1–37. [doi:10.1111/cogs.12086](https://doi.org/10.1111/cogs.12086)

@@ -70,6 +70,6 @@ Professional development that engages teachers as active learners of the actual 
 ## Key Sources
 - Kennedy, M. M. (2016). How does professional development improve teaching? *Review of Educational Research, 86*(4), 945–980. [doi:10.3102/0034654315626800](https://doi.org/10.3102/0034654315626800)
 - Garet, M. S., Porter, A. C., Desimone, L., Birman, B. F., & Yoon, K. S. (2001). What makes professional development effective? Results from a national sample of teachers. *American Educational Research Journal, 38*(4), 915–945. [doi:10.3102/00028312038004915](https://doi.org/10.3102/00028312038004915)
-- Lewis, C., & Tsuchida, I. (1998). A lesson is like a swiftly flowing river: How research lessons improve Japanese education. *American Educator, 22*(4), 12–17. [doi:10.1177/002205749818000106](https://doi.org/10.1177/002205749818000106)
+- Lewis, C., & Tsuchida, I. (1998). A lesson is like a swiftly flowing river: How research lessons improve Japanese education. *American Educator, 22*(4), 12–17. [doi:10.1177/136548029900200117](https://doi.org/10.1177/136548029900200117)
 - Carpenter, T. P., Fennema, E., Peterson, P. L., Chiang, C. P., & Loef, M. (1989). Using knowledge of children's mathematics thinking in classroom teaching: An experimental study. *American Educational Research Journal, 26*(4), 499–531. [doi:10.3102/00028312026004499](https://doi.org/10.3102/00028312026004499)
 - Schön, D. A. (1983). *The reflective practitioner: How professionals think in action.* Basic Books.

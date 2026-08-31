@@ -81,7 +81,7 @@ Speech-to-text is most useful when transcription effort, not idea generation, is
 - **Shared writing workflow**: Learners dictate while using checklists or teacher prompts to review the output line by line.
 
 ## Key Sources
-- Bakken, J. P., Uskov, V. L., & Varidireddy, N. (2019). Text-to-voice and voice-to-text software systems and students with disabilities: A research synthesis. In *Smart Innovation, Systems and Technologies* (Vol. 144, pp. 177-188). [https://doi.org/10.1007/978-981-13-8260-4_16](https://doi.org/10.1007/978-981-13-8260-4_16)
+- Bakken, J. P., Uskov, V. L., & Varidireddy, N. (2019). Text-to-voice and voice-to-text software systems and students with disabilities: A research synthesis. In *Smart Innovation, Systems and Technologies* (Vol. 144, pp. 177-188). [https://doi.org/10.1007/978-981-13-8260-4_45](https://doi.org/10.1007/978-981-13-8260-4_45)
 - Koenecke, A., Nam, A., Lake, E., Nudell, J., Quartey, A., Mengesha, Z., Toups, C., Rickford, J., Jurafsky, D., & Goel, S. (2020). Racial disparities in automated speech recognition. *Proceedings of the National Academy of Sciences, 117*(14), 7684-7689. [https://doi.org/10.1073/pnas.1915768117](https://doi.org/10.1073/pnas.1915768117)
 - Liu, K. K., Thurlow, M. L., Press, A. M., & Dosedel, M. J. (2019). *A review of the literature on computerized speech-to-text accommodations* (NCEO Report 414). National Center on Educational Outcomes.
 - Perelmutter, B., McGregor, K. K., & Gordon, K. R. (2017). Assistive technology interventions for adolescents and adults with learning disabilities: An evidence-based systematic review and meta-analysis. *Computers & Education, 114*, 139-163. [https://doi.org/10.1016/j.compedu.2017.06.005](https://doi.org/10.1016/j.compedu.2017.06.005)

@@ -68,4 +68,4 @@ High expectations function as a motivational signal: students infer their own ca
 - Bandura, A. (1997). *Self-efficacy: The exercise of control*. W. H. Freeman.
 - Gay, G. (2018). *Culturally responsive teaching: Theory, research, and practice* (3rd ed.). Teachers College Press.
 - Dweck, C. S. (2006). *Mindset: The new psychology of success*. Random House.
-- Rosenthal, R., & Jacobson, L. (1968). Pygmalion in the classroom: Teacher expectation and pupils' intellectual development. Holt, Rinehart & Winston.
+- Rosenthal, R., & Jacobson, L. (1968). Pygmalion in the classroom: Teacher expectation and pupils' intellectual development. Holt, Rinehart & Winston. [doi:10.2307/2092211](https://doi.org/10.2307/2092211)

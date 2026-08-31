@@ -77,4 +77,4 @@ Pretend play provides a psychologically safe, low-stakes context in which childr
 - Denham, S. A., & Brown, C. (2010). "Plays nice with others": Social–emotional learning and academic success. *Early Education and Development, 21*(5), 652–680. [doi:10.1080/10409289.2010.497450](https://doi.org/10.1080/10409289.2010.497450)
 - Russ, S. W. (2004). *Play in child development and psychotherapy: Toward empirically supported practice.* Lawrence Erlbaum Associates.
 - Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes.* Harvard University Press.
-- Lindsey, E. W., & Colwell, M. J. (2013). Pretend and physical play: Links to preschoolers' affective social competence. *Merrill-Palmer Quarterly, 59*(3), 330–360. [doi:10.1353/mpq.2013.0016](https://doi.org/10.1353/mpq.2013.0016)
+- Lindsey, E. W., & Colwell, M. J. (2013). Pretend and physical play: Links to preschoolers' affective social competence. *Merrill-Palmer Quarterly, 59*(3), 330–360. [doi:10.13110/merrpalmquar1982.59.3.0330](https://doi.org/10.13110/merrpalmquar1982.59.3.0330)

@@ -80,6 +80,6 @@ The strategy works through two mechanisms that operate in opposite directions fo
 
 ## Key Sources
 - Rohrbeck, C. A., Ginsburg-Block, M. D., Fantuzzo, J. W., & Miller, T. R. (2003). Peer-assisted learning interventions with elementary school students: A meta-analytic review. *Journal of Educational Psychology, 95*(2), 240–257. [doi:10.1037/0022-0663.95.2.240](https://doi.org/10.1037/0022-0663.95.2.240)
-- Webb, N. M. (1989). Peer interaction and learning in small groups. *Review of Educational Research, 59*(3), 321–351. [doi:10.3102/00346543059003321](https://doi.org/10.3102/00346543059003321)
+- Webb, N. M. (1989). Peer interaction and learning in small groups. *Review of Educational Research, 59*(3), 321–351. [doi:10.1016/0883-0355(89)90014-1](https://doi.org/10.1016/0883-0355(89)90014-1)
 - Fiorella, L., & Mayer, R. E. (2013). The relative benefits of learning by teaching and teaching expectancy. *Contemporary Educational Psychology, 38*(4), 281–288. [doi:10.1016/j.cedpsych.2013.06.001](https://doi.org/10.1016/j.cedpsych.2013.06.001)
 - Topping, K. J. (2005). Trends in peer learning. *Educational Psychology, 25*(6), 631–645. [doi:10.1080/01443410500345172](https://doi.org/10.1080/01443410500345172)

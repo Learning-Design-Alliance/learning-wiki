@@ -76,4 +76,4 @@ Structured dilemma discussions work because they require learners to articulate 
 - Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development, 82*(1), 405–432. [doi:10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x)
 - Kohlberg, L. (1981). *Essays on moral development, Vol. 1: The philosophy of moral development.* Harper & Row.
 - Rest, J. R. (1986). *Moral development: Advances in research and theory.* Praeger.
-- Narvaez, D. (2002). Does reading moral stories build character? *Educational Psychology Review, 14*(2), 155–171.
+- Narvaez, D. (2002). Does reading moral stories build character? *Educational Psychology Review, 14*(2), 155–171. [doi:10.1023/a:1014674621501](https://doi.org/10.1023/a:1014674621501)

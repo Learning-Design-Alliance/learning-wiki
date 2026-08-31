@@ -72,6 +72,6 @@ Self correction works because it activates self-monitoring during learning: lear
 - Butler, D. L., & Winne, P. H. (1995). Feedback and self-regulated learning: A theoretical synthesis. *Review of Educational Research, 65*(3), 245–281. [doi:10.3102/00346543065003245](https://doi.org/10.3102/00346543065003245)
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
 - Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)
-- Fyfe, E. R., DeCaro, M. S., & Rittle-Johnson, B. (2015). When feedback is cognitively demanding: The importance of working memory capacity. *Instructional Science, 43*(5), 545–562. [doi:10.1007/s11251-015-9351-y](https://doi.org/10.1007/s11251-015-9351-y)
+- Fyfe, E. R., DeCaro, M. S., & Rittle-Johnson, B. (2015). When feedback is cognitively demanding: The importance of working memory capacity. *Instructional Science, 43*(5), 545–562. [doi:10.1007/s11251-014-9323-8](https://doi.org/10.1007/s11251-014-9323-8)
 
 ---

@@ -68,7 +68,7 @@ Read-alouds work because they decouple comprehension modeling from decoding: lea
 - **A kindergarten teacher reading *The Gruffalo*** — pausing to think aloud ("I wonder why the mouse says that… I'm going to keep that in mind"), then having learners predict and justify before turning the page.
 
 ## Key Sources
-- Swanson, E., Vaughn, S., Wanzek, J., Petscher, Y., Faggella-Luby, M., & Lee, J. (2011). A synthesis of read-aloud interventions on early reading outcomes among preschool through third graders at risk for reading difficulties. *Journal of Learning Disabilities, 44*(3), 258–275. [doi:10.1177/0022219410378445](https://doi.org/10.1177/0022219410378445)
+- Swanson, E., Vaughn, S., Wanzek, J., Petscher, Y., Faggella-Luby, M., & Lee, J. (2011). A synthesis of read-aloud interventions on early reading outcomes among preschool through third graders at risk for reading difficulties. *Journal of Learning Disabilities, 44*(3), 258–275. [doi:10.1177/0022219410378444](https://doi.org/10.1177/0022219410378444)
 - Fisher, D., Flood, J., Lapp, D., & Frey, N. (2004). Interactive read-alouds: Is there a common set of implementation procedures? *The Reading Teacher, 58*(1), 8–17. [doi:10.1598/RT.58.1.1](https://doi.org/10.1598/RT.58.1.1)
 - Beck, I. L., & McKeown, M. G. (2001). Text Talk: Capturing the benefits of read-aloud experiences for young children. *The Reading Teacher, 55*(1), 10–20.
 - Whitehurst, G. J., et al. (1988). Accelerating language development through picture book reading. *Developmental Psychology, 24*(4), 552–559. [doi:10.1037/0012-1649.24.4.552](https://doi.org/10.1037/0012-1649.24.4.552)

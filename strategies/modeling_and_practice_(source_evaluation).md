@@ -63,7 +63,7 @@ Source evaluation is a procedural skill that novices cannot acquire from rules a
 - A school librarian runs monthly "source sleuth" sessions where students race to verify a viral claim, comparing strategies afterward in discussion.
 
 ## Key Sources
-- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(11), 1–40. [doi:10.1177/016146811912101102](https://doi.org/10.1177/016146811912101102)
+- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(11), 1–40. [doi:10.37016/mr-2020-56](https://doi.org/10.37016/mr-2020-56)
 - Breakstone, J., Smith, M., Orland, M., Barr, D., & Wineburg, S. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8), 539–547. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
 - Collins, A., Brown, J. S., & Newman, S. E. (1989). Cognitive apprenticeship: Teaching the crafts of reading, writing, and mathematics. In L. B. Resnick (Ed.), *Knowing, learning, and instruction: Essays in honor of Robert Glaser* (pp. 453–494). Lawrence Erlbaum. [doi:10.4324/9781315044408-14](https://doi.org/10.4324/9781315044408-14)
 - Bandura, A. (1977). *Social learning theory*. Prentice Hall.

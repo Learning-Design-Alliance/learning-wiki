@@ -65,6 +65,6 @@ The thermometer externalizes an internal state, converting a diffuse feeling int
 
 ## Key Sources
 - Denham, S. A. (2006). Social-emotional competence as support for school readiness: What is it and how do we assess it? *Early Education and Development, 17*(1), 57–89. [doi:10.1207/s15566935eed1701_4](https://doi.org/10.1207/s15566935eed1701_4)
-- Webster-Stratton, C., Reid, M. J., & Hammond, M. (2001). Social skills and problem-solving training for children with early-onset conduct problems: Who benefits? *Journal of Clinical Child Psychology, 30*(2), 124–141. [doi:10.1207/S15374424JCCP2902_3](https://doi.org/10.1207/S15374424JCCP2902_3)
+- Webster-Stratton, C., Reid, M. J., & Hammond, M. (2001). Social skills and problem-solving training for children with early-onset conduct problems: Who benefits? *Journal of Clinical Child Psychology, 30*(2), 124–141. [doi:10.1111/1469-7610.00790](https://doi.org/10.1111/1469-7610.00790)
 - Gross, J. J. (1998). The emerging field of emotion regulation: An integrative review. *Review of General Psychology, 2*(3), 271–299. [doi:10.1037/1089-2680.2.3.271](https://doi.org/10.1037/1089-2680.2.3.271)
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

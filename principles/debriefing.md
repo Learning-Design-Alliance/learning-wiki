@@ -88,5 +88,5 @@ Debriefing matters because experience by itself does not reliably produce learni
 ## Key Sources
 - Cheng, A., Grant, V., Dieckmann, P., Arora, S., Robinson, T., & Eppich, W. (2015). Faculty development for simulation programs. *Simulation in Healthcare, 10*(4), 217-222. [doi:10.1097/SIH.0000000000000090](https://doi.org/10.1097/SIH.0000000000000090)
 - Paige, J. T., Arora, S., Fernandez, G., & Seymour, N. (2015). Debriefing 101. *The American Journal of Surgery, 209*(1), 126-131. [doi:10.1016/j.amjsurg.2014.03.017](https://doi.org/10.1016/j.amjsurg.2014.03.017)
-- Secheresse, T., Lima, L., & Pansu, P. (2021). Focusing on explicit debriefing for novice learners in healthcare simulations. *Nurse Education in Practice, 51*. [doi:10.1016/j.nepr.2020.102967](https://doi.org/10.1016/j.nepr.2020.102967)
+- Secheresse, T., Lima, L., & Pansu, P. (2021). Focusing on explicit debriefing for novice learners in healthcare simulations. *Nurse Education in Practice, 51*. [doi:10.1016/j.nepr.2020.102914](https://doi.org/10.1016/j.nepr.2020.102914)
 - INACSL Standards Committee. (2016). INACSL standards of best practice: SimulationSM debriefing. *Clinical Simulation in Nursing, 12*, S21-S25.

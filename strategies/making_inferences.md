@@ -66,7 +66,7 @@ Inference-making is a teachable skill, not merely a byproduct of reading volume:
 
 ## Key Sources
 - Graesser, A. C., Singer, M., & Trabasso, T. (1994). Constructing inferences during narrative text comprehension. *Psychological Review, 101*(3), 371–395. [doi:10.1037/0033-295X.101.3.371](https://doi.org/10.1037/0033-295X.101.3.371)
-- Elbro, C., & Buch-Iversen, I. (2013). Activation of background knowledge for inference making: Effects on poor readers' comprehension. *Scientific Studies of Reading, 17*(4), 249–265. [doi:10.1080/10888438.2012.699578](https://doi.org/10.1080/10888438.2012.699578)
+- Elbro, C., & Buch-Iversen, I. (2013). Activation of background knowledge for inference making: Effects on poor readers' comprehension. *Scientific Studies of Reading, 17*(4), 249–265. [doi:10.1080/10888438.2013.774005](https://doi.org/10.1080/10888438.2013.774005)
 - Yuill, N., & Oakhill, J. (1991). *Children's problems in reading comprehension: An experimental investigation*. Cambridge University Press.
 - McNamara, D. S., & Magliano, J. (2009). Toward a comprehensive model of comprehension. *Psychology of Learning and Motivation, 51*, 297–384.
 - Palincsar, A. S., & Brown, A. L. (1984). Reciprocal teaching of comprehension-fostering and comprehension-monitoring activities. *Cognition and Instruction, 1*(2), 117–175. [doi:10.1207/s1532690xci0102_1](https://doi.org/10.1207/s1532690xci0102_1)

@@ -66,6 +66,6 @@ Multimodal composition imposes high extraneous load on novices, who must simulta
 ## Key Sources
 - Pearson, P. D., & Gallagher, M. C. (1983). The instruction of reading comprehension. *Contemporary Educational Psychology, 8*(3), 317–344. [doi:10.1016/0361-476X(83)90019-X](https://doi.org/10.1016/0361-476X(83)90019-X)
 - Fisher, D., & Frey, N. (2013). *Better learning through structured teaching: A framework for the gradual release of responsibility* (2nd ed.). ASCD. [doi:10.1108/s2048-045820190000010006](https://doi.org/10.1108/s2048-045820190000010006)
-- Dalton, B. (2013). Multimodal composition and the Common Core State Standards. *The Reading Teacher, 66*(4), 333–339. [doi:10.1002/trtr.01117](https://doi.org/10.1002/trtr.01117)
+- Dalton, B. (2013). Multimodal composition and the Common Core State Standards. *The Reading Teacher, 66*(4), 333–339. [doi:10.1002/trtr.01129](https://doi.org/10.1002/trtr.01129)
 - Kress, G. (2010). *Multimodality: A social semiotic approach to contemporary communication*. Routledge.
 - Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press.

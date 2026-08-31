@@ -67,7 +67,7 @@ Natural views and daylight are associated with better attention, lower stress, a
 - **Urban schoolyard greening programs (e.g., Toronto's [Evergreen Brick Works school ground greening](https://www.evergreen.ca))** — transforming paved schoolyards into teaching gardens used for structured lessons.
 
 ## Key Sources
-- Kaplan, S. (1995). The restorative benefits of nature: Toward an integrative framework. *Journal of Environmental Psychology, 15*(3), 169–182. [doi:10.1016/0272-4944(95)90001-9](https://doi.org/10.1016/0272-4944(95)90001-9)
+- Kaplan, S. (1995). The restorative benefits of nature: Toward an integrative framework. *Journal of Environmental Psychology, 15*(3), 169–182. [doi:10.1016/0272-4944(95)90001-2](https://doi.org/10.1016/0272-4944(95)90001-2)
 - Faber Taylor, A., & Kuo, F. E. (2009). Children with attention deficits concentrate better after walk in the park. *Journal of Attention Disorders, 12*(5), 402–409. [doi:10.1177/1087054708323000](https://doi.org/10.1177/1087054708323000)
 - Wells, N. M. (2000). At home with nature: Effects of "greenness" on children's cognitive functioning. *Environment and Behavior, 32*(6), 775–795. [doi:10.1177/00139160021972793](https://doi.org/10.1177/00139160021972793)
 - Kuo, M., Barnes, M., & Jordan, C. (2019). Do experiences with nature promote learning? Converging evidence of a cause-and-effect relationship. *Frontiers in Psychology, 10*, 305. [doi:10.3389/fpsyg.2019.00305](https://doi.org/10.3389/fpsyg.2019.00305)

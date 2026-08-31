@@ -58,7 +58,7 @@ Thermal comfort is not merely a wellbeing issue: field experiments in classrooms
 - **Low-tech mitigation case (Lyons, 2001)** — an elementary school without air conditioning coped with a heat wave by dimming lights, opening windows, and running fans in each classroom.
 
 ## Key Sources
-- Wargocki, P., & Wyon, D. P. (2007). The effects of outdoor air supply rate and supply air temperature in classrooms in the tropics. *Indoor Air, 17*(3), 239–252. [doi:10.1111/j.1600-0668.2006.00448.x](https://doi.org/10.1111/j.1600-0668.2006.00448.x)
+- Wargocki, P., & Wyon, D. P. (2007). The effects of outdoor air supply rate and supply air temperature in classrooms in the tropics. *Indoor Air, 17*(3), 239–252. [doi:10.1080/10789669.2007.10390950](https://doi.org/10.1080/10789669.2007.10390950)
 - Cedeño Laurent, J. G., et al. (2018). Reduced cognitive function during a heat wave among residents of non-air-conditioned buildings. *PLoS Medicine, 15*(7), e1002605. [doi:10.1371/journal.pmed.1002605](https://doi.org/10.1371/journal.pmed.1002605)
 - Seppänen, O., Fisk, W. J., & Lei, Q. (2006). Room temperature and productivity in office work. In *Healthy Buildings 2006* (Vol. 1, pp. 243–247). (No DOI; conference proceedings)
 - Lyons, J. B. (2001). Do school facilities really impact a child's education? *Council of Educational Facility Planners International IssueTrak.*

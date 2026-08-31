@@ -69,6 +69,6 @@ Concept probing operationalizes the principle that new learning is constructed f
 - Hestenes, D., Wells, M., & Swackhamer, G. (1992). Force Concept Inventory. *The Physics Teacher, 30*(3), 141–158. [doi:10.1119/1.2343497](https://doi.org/10.1119/1.2343497)
 - Chi, M. T. H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219–243. [doi:10.1080/00461520.2014.965823](https://doi.org/10.1080/00461520.2014.965823)
 - Vosniadou, S. (Ed.). (2008). *International Handbook of Research on Conceptual Change*. Routledge. [doi:10.4324/9780203874813](https://doi.org/10.4324/9780203874813)
-- Donovan, M. S., & Bransford, J. D. (Eds.). (2005). *How Students Learn: History, Mathematics, and Science in the Classroom*. National Academies Press. [doi:10.17226/10126](https://doi.org/10.17226/10126)
+- Donovan, M. S., & Bransford, J. D. (Eds.). (2005). *How Students Learn: History, Mathematics, and Science in the Classroom*. National Academies Press. [doi:10.2307/30036810](https://doi.org/10.2307/30036810)
 
 ---

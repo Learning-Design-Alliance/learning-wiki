@@ -86,7 +86,7 @@ Video replay analysis is powerful because it gives learners a stable record of p
 - **Presentation review**: Learners examine a recorded talk to identify clarity, structure, and delivery choices.
 
 ## Key Sources
-- Baecher, L., & McCormack, B. (2015). The impact of video review on supervisory conferencing. *Language and Education, 29*(2), 153-167. [https://doi.org/10.1080/09500782.2014.994528](https://doi.org/10.1080/09500782.2014.994528)
-- Dovigo, F. (2020). Through the eyes of inclusion: An evaluation of video analysis as a reflective tool for student teachers within special education. *European Journal of Teacher Education, 43*(1), 110-126. [https://doi.org/10.1080/02619768.2019.1693993](https://doi.org/10.1080/02619768.2019.1693993)
+- Baecher, L., & McCormack, B. (2015). The impact of video review on supervisory conferencing. *Language and Education, 29*(2), 153-167. [https://doi.org/10.1080/09500782.2014.992905](https://doi.org/10.1080/09500782.2014.992905)
+- Dovigo, F. (2020). Through the eyes of inclusion: An evaluation of video analysis as a reflective tool for student teachers within special education. *European Journal of Teacher Education, 43*(1), 110-126. [https://doi.org/10.1080/02619768.2019.1693996](https://doi.org/10.1080/02619768.2019.1693996)
 - Nagro, S. A. (2020). Reflecting on others before reflecting on self: Using video evidence to guide teacher candidates' reflective practices. *Journal of Teacher Education, 71*(4), 420-433. [https://doi.org/10.1177/0022487119872700](https://doi.org/10.1177/0022487119872700)
 - Tripp, T. R., & Rich, P. J. (2012). The influence of video analysis on the process of teacher change. *Teaching and Teacher Education, 28*(5), 728-739. [https://doi.org/10.1016/j.tate.2012.01.011](https://doi.org/10.1016/j.tate.2012.01.011)

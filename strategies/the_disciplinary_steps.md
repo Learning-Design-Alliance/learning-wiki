@@ -73,6 +73,6 @@ The sequence works because it combines relational repair with behavioral account
 
 ## Key Sources
 - Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children, 31*(3), 351–380. [doi:10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)
-- Gregory, A., Skiba, R. J., & Noguera, P. A. (2010). The achievement gap and the discipline gap: Two sides of the same coin? *Educational Researcher, 39*(1), 59–68. [doi:10.3102/0013189X10384810](https://doi.org/10.3102/0013189X10384810)
+- Gregory, A., Skiba, R. J., & Noguera, P. A. (2010). The achievement gap and the discipline gap: Two sides of the same coin? *Educational Researcher, 39*(1), 59–68. [doi:10.3102/0013189x09357621](https://doi.org/10.3102/0013189x09357621)
 - Emmer, E. T., & Sabornie, E. J. (Eds.). (2015). *Handbook of Classroom Management* (2nd ed.). Routledge. [doi:10.4324/9780203074114](https://doi.org/10.4324/9780203074114)
-- Sugai, G., & Horner, R. H. (2009). Responsiveness-to-intervention and school-wide positive behavior supports. *Theory Into Practice, 48*(4), 284–292. [doi:10.1080/00405840903192905](https://doi.org/10.1080/00405840903192905)
+- Sugai, G., & Horner, R. H. (2009). Responsiveness-to-intervention and school-wide positive behavior supports. *Theory Into Practice, 48*(4), 284–292. [doi:10.1080/09362830903235375](https://doi.org/10.1080/09362830903235375)

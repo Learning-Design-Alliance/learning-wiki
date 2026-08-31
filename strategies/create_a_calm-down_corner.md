@@ -70,5 +70,5 @@ A calm-down corner operationalizes social-emotional learning by giving students 
 ## Key Sources
 - Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development, 82*(1), 405–432. [doi:10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x)
 - Brackett, M. A. (2019). *Permission to feel: Unlocking the power of emotions to help our kids, ourselves, and our society thrive.* Celadon Books.
-- Piquero, A. R., Jennings, W. G., & Farrington, D. P. (2010). The monetary value of saving a high-risk youth. *Journal of Quantitative Criminology, 26*(4), 501–525. [doi:10.1007/s10940-010-9107-0](https://doi.org/10.1007/s10940-010-9107-0)
+- Piquero, A. R., Jennings, W. G., & Farrington, D. P. (2010). The monetary value of saving a high-risk youth. *Journal of Quantitative Criminology, 26*(4), 501–525. [doi:10.2139/ssrn.1077214](https://doi.org/10.2139/ssrn.1077214)
 - CASEL. (2020). *CASEL's SEL framework.* Collaborative for Academic, Social, and Emotional Learning. [https://casel.org/casel-sel-framework/](https://casel.org/casel-sel-framework/)

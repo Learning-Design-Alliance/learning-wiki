@@ -66,6 +66,6 @@ Note taking improves learning primarily when it requires generative processing �
 
 ## Key Sources
 - Kiewra, K. A. (1989). A review of note-taking: The encoding-storage perspective and beyond. *Educational Psychology Review, 1*(2), 147–172. [doi:10.1007/bf01326640](https://doi.org/10.1007/bf01326640)
-- Mueller, P. A., & Oppenheimer, D. M. (2014). The pen is mightier than the keyboard: Advantages of longhand over laptop note taking. *Psychological Science, 25*(6), 1159–1168. [doi:10.1177/0956797614524581](https://doi.org/10.1177/0956797614524581)
+- Mueller, P. A., & Oppenheimer, D. M. (2014). The pen is mightier than the keyboard: Advantages of longhand over laptop note taking. *Psychological Science, 25*(6), 1159–1168. [doi:10.1037/e502412013-155](https://doi.org/10.1037/e502412013-155)
 - Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)
 - Fiorella, L., & Mayer, R. E. (2016). Eight ways to promote generative learning. *Educational Psychology Review, 28*(4), 717–741. [doi:10.1007/s10648-015-9348-9](https://doi.org/10.1007/s10648-015-9348-9)

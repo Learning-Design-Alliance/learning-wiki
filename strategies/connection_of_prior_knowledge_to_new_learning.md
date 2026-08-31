@@ -68,6 +68,6 @@ Prior knowledge is among the strongest predictors of learning outcomes, but it c
 
 ## Key Sources
 - Ausubel, D. P. (1968). *Educational psychology: A cognitive view*. Holt, Rinehart & Winston.
-- Bransford, J. D., & Johnson, M. K. (1972). Contextual prerequisites for understanding: Some investigations of comprehension and recall. *Journal of Verbal Learning and Verbal Behavior, 11*(6), 717–726. [doi:10.1016/S0022-5371(72)80001-3](https://doi.org/10.1016/S0022-5371(72)80001-3)
+- Bransford, J. D., & Johnson, M. K. (1972). Contextual prerequisites for understanding: Some investigations of comprehension and recall. *Journal of Verbal Learning and Verbal Behavior, 11*(6), 717–726. [doi:10.1016/s0022-5371(72)80006-9](https://doi.org/10.1016/s0022-5371(72)80006-9)
 - Dochy, F., Segers, M., & Buehl, M. M. (1999). The relation between assessment practices and outcomes of studies: The case of research on prior knowledge. *Review of Educational Research, 69*(2), 145–186. [doi:10.3102/00346543069002145](https://doi.org/10.3102/00346543069002145)
 - Ambrose, S. A., Bridges, M. W., DiPietro, M., Lovett, M. C., & Norman, M. K. (2010). *How learning works: Seven research-based principles for smart teaching*. Jossey-Bass.

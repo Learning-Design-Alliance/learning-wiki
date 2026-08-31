@@ -63,7 +63,7 @@ Routines function as classroom-level [chunking](../principles/chunking.md): bund
 - **Elementary math number talks** — a daily discourse routine (problem posed, silent think time, multiple solutions shared and defended) that automates participation structures so attention goes to reasoning.
 
 ## Key Sources
-- Leinhardt, G., Weidman, C., & Hammond, K. M. (1987). Introduction and integration of classroom routines by expert teachers. *Curriculum Inquiry, 17*(2), 135–176. [doi:10.1080/03626784.1987.11075282](https://doi.org/10.1080/03626784.1987.11075282)
+- Leinhardt, G., Weidman, C., & Hammond, K. M. (1987). Introduction and integration of classroom routines by expert teachers. *Curriculum Inquiry, 17*(2), 135–176. [doi:10.1080/03626784.1987.11075284](https://doi.org/10.1080/03626784.1987.11075284)
 - Rosenshine, B. (2012). Principles of instruction: Research-based strategies that all teachers should know. *American Educator, 36*(1), 12–19. [doi:10.1177/003172171209500106](https://doi.org/10.1177/003172171209500106)
 - Emmer, E. T., & Stough, L. M. (2001). Classroom management: A critical part of educational psychology, with implications for teacher education. *Educational Psychologist, 36*(2), 103–112. [doi:10.1207/S15326985EP3602_5](https://doi.org/10.1207/S15326985EP3602_5)
 - Marzano, R. J. (2003). *Classroom management that works: Research-based strategies for every teacher.* ASCD.

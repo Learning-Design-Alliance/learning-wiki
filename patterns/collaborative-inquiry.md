@@ -106,5 +106,5 @@ The pattern is most useful when the instructional goal is not just finding infor
 - Strongest when inquiry products are shared, critiqued, and revised repeatedly.
 
 ## Key Sources
-- Scardamalia, M., & Bereiter, C. (2006). Knowledge building: Theory, pedagogy, and technology. In R. K. Sawyer (Ed.), *The Cambridge handbook of the learning sciences* (pp. 97-115). Cambridge University Press.
+- Scardamalia, M., & Bereiter, C. (2006). Knowledge building: Theory, pedagogy, and technology. In R. K. Sawyer (Ed.), *The Cambridge handbook of the learning sciences* (pp. 97-115). Cambridge University Press. [doi:10.1017/cbo9780511816833.008](https://doi.org/10.1017/cbo9780511816833.008)
 - Hmelo-Silver, C. E., Duncan, R. G., & Chinn, C. A. (2007). Scaffolding and achievement in problem-based and inquiry learning. *Educational Psychologist, 42*(2), 99-107. [https://doi.org/10.1080/00461520701263368](https://doi.org/10.1080/00461520701263368)

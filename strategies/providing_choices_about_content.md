@@ -66,6 +66,6 @@ Content choice supports motivation primarily through autonomy: perceived self-de
 
 ## Key Sources
 - Patall, E. A., Cooper, H., & Robinson, J. C. (2008). The effects of choice on intrinsic motivation and related outcomes: A meta-analysis of research findings. *Psychological Bulletin, 134*(2), 270–300. [doi:10.1037/0033-2909.134.2.270](https://doi.org/10.1037/0033-2909.134.2.270)
-- Stefanou, C., Stolk, J. D., Prince, M., Chen, J. C., & Lord, S. M. (2004). Self-regulation and autonomy in problem- and project-based learning environments. *Learning and Instruction, 14*(4), 345–360. [doi:10.1016/j.learninstruc.2004.02.002](https://doi.org/10.1016/j.learninstruc.2004.02.002)
+- Stefanou, C., Stolk, J. D., Prince, M., Chen, J. C., & Lord, S. M. (2004). Self-regulation and autonomy in problem- and project-based learning environments. *Learning and Instruction, 14*(4), 345–360. [doi:10.1177/1469787413481132](https://doi.org/10.1177/1469787413481132)
 - Knowles, M. S. (1975). *Self-directed learning: A guide for learners and teachers.* Association Press.
 - Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268. [doi:10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)

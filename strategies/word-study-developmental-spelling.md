@@ -64,7 +64,7 @@ Word study treats spelling as a problem-solving activity in which learners disco
 - A second-grade classroom using three simultaneous sort groups (short vowels, digraphs, long-vowel patterns) based on inventory results, with Friday dictation checks.
 
 ## Key Sources
-- Templeton, S., & Morris, D. (1999). Questions teachers ask about spelling. *Reading Research Quarterly, 34*(1), 102–112. [doi:10.1598/RRQ.34.1.5](https://doi.org/10.1598/RRQ.34.1.5)
+- Templeton, S., & Morris, D. (1999). Questions teachers ask about spelling. *Reading Research Quarterly, 34*(1), 102–112. [doi:10.1598/rrq.34.1.6](https://doi.org/10.1598/rrq.34.1.6)
 - Bear, D. R., Invernizzi, M., Templeton, S., & Johnston, F. (2020). *Words their way: Word study for phonics, vocabulary, and spelling instruction* (7th ed.). Pearson.
 - Henderson, E. H. (1990). *Teaching spelling* (2nd ed.). Houghton Mifflin.
 - Ehri, L. C. (2000). Learning to read and learning to spell: Two sides of a coin. *Topics in Language Disorders, 20*(3), 19–36. [doi:10.1097/00011363-200020030-00005](https://doi.org/10.1097/00011363-200020030-00005)

@@ -67,4 +67,4 @@ Struggle is only productive when it is calibrated: tasks must be difficult enoug
 - Kapur, M. (2008). Productive failure. *Cognition and Instruction, 26*(3), 379–424. [doi:10.1080/07370000802212669](https://doi.org/10.1080/07370000802212669)
 - Dweck, C. S. (2006). *Mindset: The new psychology of success.* Random House.
 - Yeager, D. S., & Dweck, C. S. (2012). Mindsets that promote resilience: When students believe that personal characteristics can be developed. *Educational Psychologist, 47*(4), 302–314. [doi:10.1080/00461520.2012.722805](https://doi.org/10.1080/00461520.2012.722805)
-- Clifford, M. M. (1984). Thoughts on a theory of constructive failure. *Educational Psychologist, 19*(2), 108–120. [doi:10.1080/00461528409529287](https://doi.org/10.1080/00461528409529287)
+- Clifford, M. M. (1984). Thoughts on a theory of constructive failure. *Educational Psychologist, 19*(2), 108–120. [doi:10.1080/00461528409529286](https://doi.org/10.1080/00461528409529286)

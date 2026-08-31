@@ -78,5 +78,5 @@ These are indirect anchors: in this repo, the strongest nearby evidence supports
 
 ## Key Sources
 - Nelsestuen, K., & Smith, J. (2020). Empathy interviews. *The Learning Professional, 41*(5), 59-59.
-- Sachs, M. E., Kaplan, J., & Habibi, A. (2019). Echoing the emotions of others: Empathy is related to how adults and children map emotion onto the body. *Cognition & Emotion, 33*(8), 1639-1654. [https://doi.org/10.1080/02699931.2019.1577226](https://doi.org/10.1080/02699931.2019.1577226)
-- Setlhodi, I. I. (2018). Mentoring in the web-class for adult learners. In *Handbook of research on student-centered strategies in online adult learning environments* (pp. 206-220). IGI Global. [https://doi.org/10.4018/978-1-5225-5084-4.ch010](https://doi.org/10.4018/978-1-5225-5084-4.ch010)
+- Sachs, M. E., Kaplan, J., & Habibi, A. (2019). Echoing the emotions of others: Empathy is related to how adults and children map emotion onto the body. *Cognition & Emotion, 33*(8), 1639-1654. [https://doi.org/10.1080/02699931.2019.1591938](https://doi.org/10.1080/02699931.2019.1591938)
+- Setlhodi, I. I. (2018). Mentoring in the web-class for adult learners. In *Handbook of research on student-centered strategies in online adult learning environments* (pp. 206-220). IGI Global. [https://doi.org/10.4018/978-1-7998-8598-6.ch040](https://doi.org/10.4018/978-1-7998-8598-6.ch040)

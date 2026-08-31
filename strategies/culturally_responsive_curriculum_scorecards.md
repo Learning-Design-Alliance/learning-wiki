@@ -67,4 +67,4 @@ Scorecards operationalize culturally responsive pedagogy by making its criteria 
 - Gay, G. (2002). Preparing for culturally responsive teaching. *Journal of Teacher Education, 53*(2), 106–116. [doi:10.1177/0022487102053002003](https://doi.org/10.1177/0022487102053002003)
 - Gay, G. (2018). *Culturally responsive teaching: Theory, research, and practice* (3rd ed.). Teachers College Press.
 - Hammond, Z. (2015). *Culturally responsive teaching and the brain*. Corwin.
-- Paris, D., & Alim, H. S. (2014). What are we seeking to sustain through culturally sustaining pedagogy? A loving critique forward. *Harvard Educational Review, 84*(1), 85–100. [doi:10.17763/haer.84.1.982l873421j70646](https://doi.org/10.17763/haer.84.1.982l873421j70646)
+- Paris, D., & Alim, H. S. (2014). What are we seeking to sustain through culturally sustaining pedagogy? A loving critique forward. *Harvard Educational Review, 84*(1), 85–100. [doi:10.17763/haer.84.1.982l873k2ht16m77](https://doi.org/10.17763/haer.84.1.982l873k2ht16m77)

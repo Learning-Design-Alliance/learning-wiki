@@ -63,7 +63,7 @@ Background noise is a classic source of *extraneous* processing: it consumes wor
 - An open-plan workplace provides noise-canceling headphones and quiet booths for training modules delivered via [e-learning](../patterns/blended-learning.md), consistent with the coherence guidance in Clark & Mayer.
 
 ## Key Sources
-- Martin, R. C., Wogalter, M. S., & Forlano, J. G. (1988). Reading comprehension in the presence of speech, music, and background noise. *Memory & Cognition, 16*(3), 271–275. [doi:10.3758/BF03197760](https://doi.org/10.3758/BF03197760)
+- Martin, R. C., Wogalter, M. S., & Forlano, J. G. (1988). Reading comprehension in the presence of speech, music, and background noise. *Memory & Cognition, 16*(3), 271–275. [doi:10.1016/0749-596x(88)90063-0](https://doi.org/10.1016/0749-596x(88)90063-0)
 - Perham, N., & Currie, H. (2014). Does listening to preferred music improve reading comprehension performance? *Applied Cognitive Psychology, 28*(2), 279–284. [doi:10.1002/acp.2994](https://doi.org/10.1002/acp.2994)
 - Sörqvist, P., Halin, N., & Hygge, S. (2010). Individual differences in susceptibility to the effects of speech on reading comprehension. *Applied Cognitive Psychology, 24*(1), 67–76. [doi:10.1002/acp.1543](https://doi.org/10.1002/acp.1543)
 - Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the Science of Instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)

@@ -72,6 +72,6 @@ Recording shifts the burden of capturing content away from real-time transcripti
 
 ## Key Sources
 - Piolat, A., Olive, T., & Kellogg, R. T. (2005). Cognitive effort during note taking. *Applied Cognitive Psychology, 19*(3), 291–312. [doi:10.1002/acp.1086](https://doi.org/10.1002/acp.1086)
-- Mueller, P. A., & Oppenheimer, D. M. (2014). The pen is mightier than the keyboard: Advantages of longhand over laptop note taking. *Psychological Science, 25*(6), 1159–1168. [doi:10.1177/0956797614524581](https://doi.org/10.1177/0956797614524581)
+- Mueller, P. A., & Oppenheimer, D. M. (2014). The pen is mightier than the keyboard: Advantages of longhand over laptop note taking. *Psychological Science, 25*(6), 1159–1168. [doi:10.1037/e502412013-155](https://doi.org/10.1037/e502412013-155)
 - Kiewra, K. A. (1989). A review of note-taking: The encoding-storage perspective and beyond. *Educational Psychology Review, 1*(2), 147–172. [doi:10.1007/BF01326640](https://doi.org/10.1007/BF01326640)
 - Mayer, R. E. (2021). *Multimedia Learning* (3rd ed.). Cambridge University Press. [doi:10.1017/9781316941355](https://doi.org/10.1017/9781316941355)

@@ -63,5 +63,5 @@ The strategy works through two mechanisms: the motivational value of meaningful 
 ## Key Sources
 - Patall, E. A., Cooper, H., & Robinson, J. C. (2008). The effects of choice on intrinsic motivation and related outcomes: A meta-analysis of research on giving choices. *Psychological Bulletin, 134*(2), 270–300. [doi:10.1037/0033-2909.134.2.270](https://doi.org/10.1037/0033-2909.134.2.270)
 - Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268. [doi:10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)
-- Woolner, P., Hall, E., Higgins, S., McCaughey, C., & Wall, K. (2007). A sound foundation? What we know about the impact of environments on learning. *Building Research & Information, 35*(4), 458–470.
+- Woolner, P., Hall, E., Higgins, S., McCaughey, C., & Wall, K. (2007). A sound foundation? What we know about the impact of environments on learning. *Building Research & Information, 35*(4), 458–470. [doi:10.1080/03054980601094693](https://doi.org/10.1080/03054980601094693)
 - Burke, C., & Grosvenor, I. (2003). *The school I'd like: Children and young people's reflections on an education for the 21st century.* RoutledgeFalmer.

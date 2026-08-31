@@ -70,7 +70,7 @@ Multisensory instruction is best understood as explicit, systematic phonics inst
 - **Classroom adaptation** — whole-class phonics with air writing, sand trays, and color-coded graphemes embedded in a systematic scope and sequence
 
 ## Key Sources
-- Stevens, E. A., Austin, C., Moore, C., Scammacca, N., Boucher, A. N., & Vaughn, S. (2021). The current state of the science on the effects of the Orton-Gillingham reading approach. *Reading Research Quarterly, 56*(S1), S281–S294. [doi:10.1002/rrq.366](https://doi.org/10.1002/rrq.366)
+- Stevens, E. A., Austin, C., Moore, C., Scammacca, N., Boucher, A. N., & Vaughn, S. (2021). The current state of the science on the effects of the Orton-Gillingham reading approach. *Reading Research Quarterly, 56*(S1), S281–S294. [doi:10.1177/0014402921993406](https://doi.org/10.1177/0014402921993406)
 - Clark, J. M., & Paivio, A. (1991). Dual coding theory and education. *Educational Psychology Review, 3*(3), 149–210. [doi:10.1007/bf01320076](https://doi.org/10.1007/bf01320076)
 - Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/CBO9780511811678](https://doi.org/10.1017/CBO9780511811678)
 - Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2008). Learning styles: Concepts and evidence. *Psychological Science in the Public Interest, 9*(3), 105–119. [doi:10.1111/j.1539-6053.2009.01038.x](https://doi.org/10.1111/j.1539-6053.2009.01038.x)

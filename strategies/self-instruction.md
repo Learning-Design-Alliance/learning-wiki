@@ -68,5 +68,5 @@ Self-instruction converts executive control from external (teacher prompts) to i
 ## Key Sources
 - Meichenbaum, D. (1977). *Cognitive-behavior modification: An integrative approach*. Plenum Press. [doi:10.1007/978-1-4757-9739-8_10](https://doi.org/10.1007/978-1-4757-9739-8_10)
 - Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press.
-- Schunk, D. H., & Zimmerman, B. J. (1997). Social origins of self-regulatory competence. *Educational Psychologist, 32*(4), 195–208. [doi:10.1207/s15326985ep3204_3](https://doi.org/10.1207/s15326985ep3204_3)
+- Schunk, D. H., & Zimmerman, B. J. (1997). Social origins of self-regulatory competence. *Educational Psychologist, 32*(4), 195–208. [doi:10.1207/s15326985ep3204_1](https://doi.org/10.1207/s15326985ep3204_1)
 - Graham, S., & Harris, K. R. (2005). Improving the writing performance of young struggling writers: Theoretical and programmatic research from the center on accelerating student learning. *The Journal of Special Education, 39*(1), 19–33. [doi:10.1177/00224669050390010301](https://doi.org/10.1177/00224669050390010301)

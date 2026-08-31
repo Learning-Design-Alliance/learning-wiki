@@ -67,6 +67,6 @@ A richer emotion lexicon improves both emotional competence and broader language
 
 ## Key Sources
 - Brackett, M. A., Rivers, S. E., Reyes, M. R., & Salovey, P. (2012). Enhancing academic performance and social and emotional competence with the RULER feeling words curriculum. *Learning and Individual Differences, 22*(2), 218–224. [doi:10.1016/j.lindif.2010.10.002](https://doi.org/10.1016/j.lindif.2010.10.002)
-- Lieberman, M. D., Eisenberger, N. I., Crockett, M. J., Tom, S. M., Pfeifer, J. H., & Way, B. M. (2007). Putting feelings into words: Affect labeling disrupts amygdala activity in response to affective stimuli. *Psychological Science, 18*(5), 421–428. [doi:10.1111/j.1467-9280.2007.01916.x](https://doi.org/10.1111/j.1467-9280.2007.01916.x)
+- Lieberman, M. D., Eisenberger, N. I., Crockett, M. J., Tom, S. M., Pfeifer, J. H., & Way, B. M. (2007). Putting feelings into words: Affect labeling disrupts amygdala activity in response to affective stimuli. *Psychological Science, 18*(5), 421–428. [doi:10.1177/1754073917742706](https://doi.org/10.1177/1754073917742706)
 - Beck, L., Kumschick, I. R., Eid, M., & Klann-Delius, G. (2012). Relationship between language competence and emotional competence in middle childhood. *Emotion, 12*(3), 503–514. [doi:10.1037/a0026320](https://doi.org/10.1037/a0026320)
 - Denham, S. A. (2006). Social-emotional competence as support for school readiness: What is it and how do we assess it? *Early Education and Development, 17*(1), 57–89. [doi:10.1207/s15566935eed1701_4](https://doi.org/10.1207/s15566935eed1701_4)

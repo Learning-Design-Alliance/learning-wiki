@@ -66,7 +66,7 @@ Writing workshops operationalize process writing instruction, which meta-analyti
 
 ## Key Sources
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
-- Graham, S., & Sandmel, D. (2011). The process writing approach: A meta-analysis. *The Journal of Educational Research, 104*(8), 540–551. [doi:10.1080/00220671.2010.488703](https://doi.org/10.1080/00220671.2010.488703)
+- Graham, S., & Sandmel, D. (2011). The process writing approach: A meta-analysis. *The Journal of Educational Research, 104*(8), 540–551. [doi:10.17763/haer.81.4.t2k0m13756113566](https://doi.org/10.17763/haer.81.4.t2k0m13756113566)
 - Graham, S., McKeown, D., Kiuhara, S., & Harris, K. R. (2012). A meta-analysis of writing instruction for students in the elementary grades. *Journal of Educational Psychology, 104*(4), 879–896. [doi:10.1037/a0029185](https://doi.org/10.1037/a0029185)
 - Atwell, N. (2014). *In the middle: A lifetime of learning about writing, reading, and adolescents* (3rd ed.). Heinemann.
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)

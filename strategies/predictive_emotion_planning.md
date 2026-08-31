@@ -76,5 +76,5 @@ Anticipating emotional states supports self-regulated learning by giving learner
 ## Key Sources
 - Gross, J. J. (2015). Emotion regulation: Current status and future prospects. *Psychological Inquiry, 26*(1), 1–26. [doi:10.1080/1047840X.2014.940781](https://doi.org/10.1080/1047840X.2014.940781)
 - Gollwitzer, P. M., & Sheeran, P. (2006). Implementation intentions and goal achievement: A meta-analysis of effects and processes. *Advances in Experimental Social Psychology, 38*, 69–119. [doi:10.1016/S0065-2601(06)38002-1](https://doi.org/10.1016/S0065-2601(06)38002-1)
-- Wilson, T. D., & Gilbert, D. T. (2005). Affective forecasting: Knowing what to want. *Current Directions in Psychological Science, 14*(3), 131–134. [doi:10.1111/j.0963-7214.2005.00349.x](https://doi.org/10.1111/j.0963-7214.2005.00349.x)
+- Wilson, T. D., & Gilbert, D. T. (2005). Affective forecasting: Knowing what to want. *Current Directions in Psychological Science, 14*(3), 131–134. [doi:10.1111/j.0963-7214.2005.00355.x](https://doi.org/10.1111/j.0963-7214.2005.00355.x)
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

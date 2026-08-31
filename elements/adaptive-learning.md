@@ -61,4 +61,4 @@ Adaptive learning tailors content, pacing, support, or task sequence in response
 - An instructor changes grouping and support based on ongoing formative evidence
 
 ## Key Sources
-- Shute, V. J., & Towle, B. (2003). Adaptive e-learning. *Educational Psychologist, 38*(2), 105-114. [https://doi.org/10.1207/S15326985EP3802_4](https://doi.org/10.1207/S15326985EP3802_4)
+- Shute, V. J., & Towle, B. (2003). Adaptive e-learning. *Educational Psychologist, 38*(2), 105-114. [https://doi.org/10.1207/s15326985ep3802_5](https://doi.org/10.1207/s15326985ep3802_5)

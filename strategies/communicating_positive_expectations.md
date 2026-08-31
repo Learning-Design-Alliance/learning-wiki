@@ -65,7 +65,7 @@ Expectation communication works primarily through learner self-efficacy: express
 - **Rosenthal & Jacobson's Pygmalion study** — teachers told that randomly selected students were "bloomers" showed gains in those students' measured achievement, demonstrating the expectation mechanism (and its ethical stakes).
 
 ## Key Sources
-- Rosenthal, R., & Jacobson, L. (1968). Pygmalion in the classroom: Teacher expectation and pupils' intellectual development. *Holt, Rinehart & Winston.*
+- Rosenthal, R., & Jacobson, L. (1968). Pygmalion in the classroom: Teacher expectation and pupils' intellectual development. *Holt, Rinehart & Winston.* [doi:10.2307/2092211](https://doi.org/10.2307/2092211)
 - Jussim, L., & Harber, K. D. (2005). Teacher expectations and self-fulfilling prophecies: Knowns and unknowns, resolved and unresolved controversies. *Personality and Social Psychology Review, 9*(2), 131–155. [doi:10.1207/s15327957pspr0902_3](https://doi.org/10.1207/s15327957pspr0902_3)
 - Brophy, J. (1983). Fostering student learning and motivation in the elementary school classroom. In S. G. Paris, G. M. Olson, & H. W. Stevenson (Eds.), *Learning and motivation in the classroom* (pp. 15–63). Lawrence Erlbaum.
 - Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review, 84*(2), 191–215. [doi:10.1037/0033-295X.84.2.191](https://doi.org/10.1037/0033-295X.84.2.191)

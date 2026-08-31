@@ -64,6 +64,6 @@ Restorative conversations operationalize [Social Learning Theory](../theories/so
 
 ## Key Sources
 - Okonofua, J. A., Paunesku, D., & Walton, G. M. (2016). Brief intervention to encourage empathic discipline cuts suspension rates in half among adolescents. *Proceedings of the National Academy of Sciences, 113*(19), 5221–5226. [doi:10.1073/pnas.1523698113](https://doi.org/10.1073/pnas.1523698113)
-- Gregory, A., Clawson, K., Davis, A., & Gerewich, J. (2016). The triggers of teacher misconceptions in the implementation of restorative practices. *School Psychology Quarterly, 31*(3), 372–383. [doi:10.1037/spq0000145](https://doi.org/10.1037/spq0000145)
+- Gregory, A., Clawson, K., Davis, A., & Gerewich, J. (2016). The triggers of teacher misconceptions in the implementation of restorative practices. *School Psychology Quarterly, 31*(3), 372–383. [doi:10.1080/10474412.2014.929950](https://doi.org/10.1080/10474412.2014.929950)
 - Braithwaite, J. (2002). *Restorative justice and responsive regulation.* Oxford University Press.
 - Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78. [doi:10.1037/0003-066X.55.1.68](https://doi.org/10.1037/0003-066X.55.1.68)

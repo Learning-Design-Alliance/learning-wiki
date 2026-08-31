@@ -69,6 +69,6 @@ Interactive writing operationalizes the gradual release of responsibility at the
 
 ## Key Sources
 - McCarrier, A., Pinnell, G. S., & Fountas, I. C. (2000). *Interactive writing: How language and literacy come together, K–2*. Heinemann.
-- Craig, S. A. (2006). The effects of an adapted interactive writing intervention on kindergarten children's emergent literacy skills. *Reading Research Quarterly, 41*(4), 452–478. [doi:10.1598/RRQ.41.4.2](https://doi.org/10.1598/RRQ.41.4.2)
+- Craig, S. A. (2006). The effects of an adapted interactive writing intervention on kindergarten children's emergent literacy skills. *Reading Research Quarterly, 41*(4), 452–478. [doi:10.1598/rrq.38.4.1](https://doi.org/10.1598/rrq.38.4.1)
 - Pearson, P. D., & Gallagher, M. C. (1983). The instruction of reading comprehension. *Contemporary Educational Psychology, 8*(3), 317–344. [doi:10.1016/0361-476X(83)90019-X](https://doi.org/10.1016/0361-476X(83)90019-X)
 - Ehri, L. C. (2005). Learning to read words: Theory, findings, and issues. *Scientific Studies of Reading, 9*(2), 167–188. [doi:10.1207/s1532799xssr0902_4](https://doi.org/10.1207/s1532799xssr0902_4)

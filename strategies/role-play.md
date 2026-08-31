@@ -72,4 +72,4 @@ Role play is a form of situated, active practice: it requires learners to *perfo
 - Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review, 84*(2), 191–215. [doi:10.1037/0033-295X.84.2.191](https://doi.org/10.1037/0033-295X.84.2.191)
 - Kolb, D. A. (1984). *Experiential learning: Experience as the source of learning and development*. Prentice Hall.
 - Nestel, D., & Tierney, T. (2013). Role-play for medical students learning about communication: Guidelines for maximising benefits. *BMC Medical Education, 13*, 104. [doi:10.1186/1472-6920-7-3](https://doi.org/10.1186/1472-6920-7-3)
-- Joyner, B., & Young, L. (1999). Teaching medical students using role play: Twelve tips for successful role-plays. *Medical Teacher, 21*(3), 243–246. [doi:10.1080/01421599979380](https://doi.org/10.1080/01421599979380)
+- Joyner, B., & Young, L. (1999). Teaching medical students using role play: Twelve tips for successful role-plays. *Medical Teacher, 21*(3), 243–246. [doi:10.1080/01421590600711252](https://doi.org/10.1080/01421590600711252)

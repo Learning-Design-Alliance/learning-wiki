@@ -66,6 +66,6 @@ Activation improves comprehension by reducing the working-memory burden of proce
 
 ## Key Sources
 - Ausubel, D. P. (1960). The use of advance organizers in the learning and retention of meaningful verbal material. *Journal of Educational Psychology, 51*(5), 267–272. [doi:10.1037/h0046669](https://doi.org/10.1037/h0046669)
-- Bransford, J. D., & Johnson, M. K. (1972). Contextual prerequisites for understanding: Some investigations of comprehension and recall. *Journal of Verbal Learning and Verbal Behavior, 11*(6), 717–726. [doi:10.1016/S0022-5371(72)80011-8](https://doi.org/10.1016/S0022-5371(72)80011-8)
+- Bransford, J. D., & Johnson, M. K. (1972). Contextual prerequisites for understanding: Some investigations of comprehension and recall. *Journal of Verbal Learning and Verbal Behavior, 11*(6), 717–726. [doi:10.1016/s0022-5371(72)80006-9](https://doi.org/10.1016/s0022-5371(72)80006-9)
 - Dochy, F., Segers, M., & Buehl, M. M. (1999). The relation between assessment practices and outcomes of studies: The case of research on prior knowledge. *Review of Educational Research, 69*(2), 145–186. [doi:10.3102/00346543069002145](https://doi.org/10.3102/00346543069002145)
-- Recht, D. R., & Leslie, L. (1989). Effect of prior knowledge on good and poor readers' memory of text. *Journal of Educational Psychology, 81*(1), 16–20. [doi:10.1037/0022-0663.81.1.16](https://doi.org/10.1037/0022-0663.81.1.16)
+- Recht, D. R., & Leslie, L. (1989). Effect of prior knowledge on good and poor readers' memory of text. *Journal of Educational Psychology, 81*(1), 16–20. [doi:10.1037//0022-0663.80.1.16](https://doi.org/10.1037//0022-0663.80.1.16)

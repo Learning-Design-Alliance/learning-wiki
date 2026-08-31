@@ -65,5 +65,5 @@ Brainstorming operationalizes the principle of separating idea generation from i
 ## Key Sources
 - Osborn, A. F. (1953). *Applied imagination: Principles and procedures of creative thinking*. Charles Scribner's Sons.
 - Diehl, M., & Stroebe, W. (1987). Productivity loss in brainstorming groups: Toward the solution of a riddle. *Journal of Personality and Social Psychology, 53*(3), 497–509. [doi:10.1037/0022-3514.53.3.497](https://doi.org/10.1037/0022-3514.53.3.497)
-- Paulus, P. B., & Yang, H.-C. (2000). Idea generation in groups: A basis for creativity in organizations. *Organizational Behavior and Human Decision Processes, 82*(1), 76–87. [doi:10.1006/obhd.2000.2887](https://doi.org/10.1006/obhd.2000.2887)
+- Paulus, P. B., & Yang, H.-C. (2000). Idea generation in groups: A basis for creativity in organizations. *Organizational Behavior and Human Decision Processes, 82*(1), 76–87. [doi:10.1006/obhd.2000.2888](https://doi.org/10.1006/obhd.2000.2888)
 - Nijstad, B. A., & Stroebe, W. (2006). How the group affects the mind: A cognitive model of idea generation in groups. *Personality and Social Psychology Review, 10*(3), 186–213. [doi:10.1207/s15327957pspr1003_1](https://doi.org/10.1207/s15327957pspr1003_1)

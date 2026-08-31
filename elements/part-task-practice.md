@@ -70,5 +70,5 @@ Part-task practice reduces the working-memory burden of complex task performance
 ## Key Sources
 - Anderson, J. R. (1982). Acquisition of cognitive skill. *Psychological Review, 89*(4), 369–406. [doi:10.1037/0033-295X.89.4.369](https://doi.org/10.1037/0033-295X.89.4.369)
 - Driskell, J. E., Willis, R. P., & Copper, C. (1992). Effect of overlearning on retention. *Journal of Applied Psychology, 77*(5), 615–622. [doi:10.1037/0021-9010.77.5.615](https://doi.org/10.1037/0021-9010.77.5.615)
-- Rohrer, D., & Taylor, K. (2006). The effects of overlearning and distributed practice on the retention of mathematics knowledge. *Applied Cognitive Psychology, 20*(9), 1209–1224. [doi:10.1002/acp.1233](https://doi.org/10.1002/acp.1233)
+- Rohrer, D., & Taylor, K. (2006). The effects of overlearning and distributed practice on the retention of mathematics knowledge. *Applied Cognitive Psychology, 20*(9), 1209–1224. [doi:10.1002/acp.1266](https://doi.org/10.1002/acp.1266)
 - van Merriënboer, J. J. G., & Kirschner, P. A. (2013). *Ten steps to complex learning* (2nd ed.). Routledge.

@@ -66,8 +66,8 @@ Racial identity work treats the educator's self-concept as prior knowledge that 
 - **[Teaching Tolerance / Learning for Justice](https://www.learningforjustice.org)** — published professional development modules and identity-focused reflection tools for K–12 educators, including the "Critical Practices for Anti-bias Education" framework.
 
 ## Key Sources
-- Tatum, B. D. (1992). Talking about race, learning about racism: The application of racial identity development theory in the classroom. *Harvard Educational Review, 62*(1), 1–25. [doi:10.17763/haer.62.1.k7v42488x34n4v6v](https://doi.org/10.17763/haer.62.1.k7v42488x34n4v6v)
+- Tatum, B. D. (1992). Talking about race, learning about racism: The application of racial identity development theory in the classroom. *Harvard Educational Review, 62*(1), 1–25. [doi:10.4135/9781446220986.n31](https://doi.org/10.4135/9781446220986.n31)
 - Helms, J. E. (1995). An update of Helms's White and people of color racial identity models. In J. G. Ponterotto et al. (Eds.), *Handbook of multicultural counseling* (pp. 181–198). Sage.
-- Milner, H. R. (2006). But good intentions are not enough: Preparing teachers to center race and poverty. *The Urban Review, 38*(5), 313–332. [doi:10.1007/s11256-006-0034-9](https://doi.org/10.1007/s11256-006-0034-9)
+- Milner, H. R. (2006). But good intentions are not enough: Preparing teachers to center race and poverty. *The Urban Review, 38*(5), 313–332. [doi:10.1007/s11256-014-0295-4](https://doi.org/10.1007/s11256-014-0295-4)
 - Gay, G., & Kirkland, K. (2003). Developing cultural critical consciousness and self-reflection in preservice teacher education. *Theory Into Practice, 42*(3), 181–187. [doi:10.1207/s15430421tip4203_3](https://doi.org/10.1207/s15430421tip4203_3)
 - Cross, W. E. (1971). The Negro-to-Black conversion experience: Toward a psychology of Black liberation. *Black World, 20*(9), 13–27.

@@ -68,5 +68,5 @@ Jigsaw operationalizes [Cooperative Learning](../patterns/cooperative-learning.m
 ## Key Sources
 - Aronson, E., Stephan, C., Sikes, J., Blaney, N., & Snapp, M. (1978). *The jigsaw classroom*. Sage.
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)
-- Souvignier, E., & Kronenberger, J. (2007). Cooperative learning in third graders' jigsaw groups for mathematics and science with and without embedding training. *Learning and Instruction, 17*(2), 139–153. [doi:10.1016/j.learninstruc.2007.01.006](https://doi.org/10.1016/j.learninstruc.2007.01.006)
+- Souvignier, E., & Kronenberger, J. (2007). Cooperative learning in third graders' jigsaw groups for mathematics and science with and without embedding training. *Learning and Instruction, 17*(2), 139–153. [doi:10.1348/000709906x173297](https://doi.org/10.1348/000709906x173297)
 - Webb, N. M. (2009). The teacher's role in promoting collaborative dialogue in the classroom. *British Journal of Educational Psychology, 79*(1), 1–28. [doi:10.1348/000709908X380772](https://doi.org/10.1348/000709908X380772)

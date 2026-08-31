@@ -69,7 +69,7 @@ Sequencing from simple to complex manages intrinsic cognitive load by ensuring t
 **Saxon Math** — Published curriculum built on "incremental development": small increments of new content with continuous distributed review of earlier material, exemplifying sequencing plus mastery maintenance.
 
 ## Key Sources
-- Posner, G. J., & Strike, K. A. (1976). A categorization scheme for principles of sequencing content. *Educational Psychologist, 12*(1), 77–86. [doi:10.1080/00461527609529166](https://doi.org/10.1080/00461527609529166)
+- Posner, G. J., & Strike, K. A. (1976). A categorization scheme for principles of sequencing content. *Educational Psychologist, 12*(1), 77–86. [doi:10.2307/1169945](https://doi.org/10.2307/1169945)
 - Reigeluth, C. M., & Stein, F. S. (1983). The elaboration theory of instruction. In C. M. Reigeluth (Ed.), *Instructional-design theories and models: An overview of their current status* (pp. 335–381). Lawrence Erlbaum Associates.
 - van Merriënboer, J. J. G., & Kirschner, P. A. (2007). *Ten steps to complex learning: A systematic approach to four-component instructional design*. Lawrence Erlbaum Associates.
 - Sweller, J., van Merriënboer, J. J. G., & Paas, F. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251–296. [doi:10.1023/A:1022193728205](https://doi.org/10.1023/A:1022193728205)

@@ -71,8 +71,8 @@ Frequency and specificity of communication drive effects: personalized messages 
 
 ## Key Sources
 - Kraft, M. A., & Dougherty, S. M. (2013). The effect of teacher–family communication on student engagement: Evidence from a randomized field experiment. *Journal of Research on Educational Effectiveness, 6*(3), 199–222. [doi:10.1080/19345747.2012.743636](https://doi.org/10.1080/19345747.2012.743636)
-- Goodall, J., & Montgomery, C. (2014). Parental involvement to parental engagement: A continuum. *Educational Review, 66*(4), 399–410. [doi:10.1080/00131911.2013.795825](https://doi.org/10.1080/00131911.2013.795825)
+- Goodall, J., & Montgomery, C. (2014). Parental involvement to parental engagement: A continuum. *Educational Review, 66*(4), 399–410. [doi:10.1080/00131911.2013.781576](https://doi.org/10.1080/00131911.2013.781576)
 - Hurwitz, L. B., Lauricella, A. R., Hightower, D., & Wartella, E. (2015). "When you're a parent, nothing is more important": Text messaging as a strategy for parent engagement. *Journal of Children and Media, 9*(4), 465–479.
 - Epstein, J. L. (2011). *School, family, and community partnerships: Preparing educators and improving schools* (2nd ed.). Westview Press.
-- York, B. N., Loeb, S., & Doss, C. (2019). One step at a time: The effects of an early literacy text-messaging program for parents of preschoolers. *Journal of Human Capital, 13*(2), 277–324. [doi:10.1086/701831](https://doi.org/10.1086/701831)
+- York, B. N., Loeb, S., & Doss, C. (2019). One step at a time: The effects of an early literacy text-messaging program for parents of preschoolers. *Journal of Human Capital, 13*(2), 277–324. [doi:10.3386/w20659](https://doi.org/10.3386/w20659)
 

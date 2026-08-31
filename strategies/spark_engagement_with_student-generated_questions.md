@@ -66,6 +66,6 @@ Student question generation increases engagement and investment because learners
 
 ## Key Sources
 - Rothstein, D., & Santana, L. (2011). *Make just one change: Teach students to ask their own questions*. Harvard Education Press.
-- Chin, C., & Osborne, J. (2008). Students' questions: A potential resource for teaching and learning science. *Studies in Science Education, 44*(1), 1–39. [doi:10.1080/09500690701549746](https://doi.org/10.1080/09500690701549746)
+- Chin, C., & Osborne, J. (2008). Students' questions: A potential resource for teaching and learning science. *Studies in Science Education, 44*(1), 1–39. [doi:10.1080/03057260701828101](https://doi.org/10.1080/03057260701828101)
 - Engle, R. A., & Conant, F. R. (2002). Guiding principles for fostering productive disciplinary engagement: Explaining an emergent argument in a community of learners classroom. *Cognition and Instruction, 20*(4), 399–483. [doi:10.1207/s1532690xci2004_1](https://doi.org/10.1207/s1532690xci2004_1)
 - Hmelo-Silver, C. E., Duncan, R. G., & Chinn, C. A. (2007). Scaffolding and achievement in problem-based and inquiry learning: A response to Kirschner, Sweller, and Clark (2006). *Educational Psychologist, 42*(2), 99–107. [doi:10.1080/00461520701263368](https://doi.org/10.1080/00461520701263347)

@@ -67,5 +67,5 @@ Access to varied, interest-relevant texts increases reading engagement and volum
 - Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/CBO9780511811678](https://doi.org/10.1017/CBO9780511811678)
 - Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the Science of Instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)
 - Clark, J. M., & Paivio, A. (1991). Dual coding theory and education. *Educational Psychology Review, 3*(3), 149–210. [doi:10.1007/BF01320076](https://doi.org/10.1007/BF01320076)
-- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil et al. (Eds.), *Handbook of Reading Research, Vol. III* (pp. 403–422). Erlbaum.
+- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil et al. (Eds.), *Handbook of Reading Research, Vol. III* (pp. 403–422). Erlbaum. [doi:10.1108/978-1-60752-786-220251011](https://doi.org/10.1108/978-1-60752-786-220251011)
 - Cunningham, A. E., & Stanovich, K. E. (1998). What reading does for the mind. *American Educator, 22*(1–2), 8–15.

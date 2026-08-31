@@ -68,4 +68,4 @@ Vocabulary knowledge is incremental and relational: learners acquire word meanin
 - Beck, I. L., McKeown, M. G., & Kucan, L. (2013). *Bringing Words to Life: Robust Vocabulary Instruction* (2nd ed.). Guilford Press.
 - Stahl, S. A., & Fairbanks, M. M. (1986). The effects of vocabulary instruction: A model-based meta-analysis. *Review of Educational Research, 56*(1), 72–110. [doi:10.3102/00346543056001072](https://doi.org/10.3102/00346543056001072)
 - Nagy, W. (2005). Why vocabulary instruction needs to be long-term and comprehensive. In E. H. Hiebert & M. L. Kamil (Eds.), *Teaching and Learning Vocabulary* (pp. 27–44). Lawrence Erlbaum.
-- Blachowicz, C. L. Z., Fisher, P. J., Ogle, D., & Watts-Taffe, S. (2006). Vocabulary: Questions from the classroom. *Reading Research Quarterly, 41*(4), 524–539. [doi:10.1598/RRQ.41.4.6](https://doi.org/10.1598/RRQ.41.4.6)
+- Blachowicz, C. L. Z., Fisher, P. J., Ogle, D., & Watts-Taffe, S. (2006). Vocabulary: Questions from the classroom. *Reading Research Quarterly, 41*(4), 524–539. [doi:10.1598/rrq.41.4.5](https://doi.org/10.1598/rrq.41.4.5)

@@ -64,7 +64,7 @@ Anticipating obstacles is most effective when it is tied to specific response pl
 
 ## Key Sources
 - Gollwitzer, P. M. (1999). Implementation intentions: Strong effects of simple plans. *American Psychologist, 54*(7), 493–503. [doi:10.1037/0003-066X.54.7.493](https://doi.org/10.1037/0003-066X.54.7.493)
-- Gollwitzer, P. M., & Sheeran, P. (2006). Implementation intentions and goal achievement: A meta-analysis of effects and processes. *Advances in Experimental Social Psychology, 38*, 69–119. [doi:10.1016/S0065-2601(06)36002-1](https://doi.org/10.1016/S0065-2601(06)36002-1)
+- Gollwitzer, P. M., & Sheeran, P. (2006). Implementation intentions and goal achievement: A meta-analysis of effects and processes. *Advances in Experimental Social Psychology, 38*, 69–119. [doi:10.1016/s0065-2601(06)38002-1](https://doi.org/10.1016/s0065-2601(06)38002-1)
 - Oettingen, G. (2014). *Rethinking positive thinking: Inside the new science of motivation*. Penguin.
 - Klein, G. (2007). Performing a project premortem. *Harvard Business Review, 85*(9), 18–19.
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

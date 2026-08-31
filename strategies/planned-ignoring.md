@@ -69,5 +69,5 @@ Attention is one of the most powerful reinforcers in a classroom; planned ignori
 ## Key Sources
 - Cooper, J. O., Heron, T. E., & Heward, W. L. (2020). *Applied behavior analysis* (3rd ed.). Pearson.
 - Skinner, B. F. (1953). *Science and human behavior*. Macmillan.
-- Kellam, S. G., et al. (2011). The impact of the Good Behavior Game, a universal classroom-based preventive intervention in first and second grades, on high-risk sexual behaviors and drug abuse and dependence disorders into young adulthood. *Prevention Science, 12*(1), 62–73. [doi:10.1007/s11121-010-0196-z](https://doi.org/10.1007/s11121-010-0196-z)
+- Kellam, S. G., et al. (2011). The impact of the Good Behavior Game, a universal classroom-based preventive intervention in first and second grades, on high-risk sexual behaviors and drug abuse and dependence disorders into young adulthood. *Prevention Science, 12*(1), 62–73. [doi:10.1007/s11121-012-0296-z](https://doi.org/10.1007/s11121-012-0296-z)
 - Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management. *Education and Treatment of Children, 31*(3), 351–380. [doi:10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)

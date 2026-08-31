@@ -67,6 +67,6 @@ Reading Workshop operationalizes the finding that reading volume is a primary dr
 ## Key Sources
 - Atwell, N. (1998). *In the middle: New understandings about writing, reading, and learning* (2nd ed.). Boynton/Cook.
 - Calkins, L. M. (2001). *The art of teaching reading*. Addison-Wesley Educational Publishers.
-- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil, P. B. Mosenthal, P. D. Pearson, & R. Barr (Eds.), *Handbook of reading research* (Vol. 3, pp. 403–422). Erlbaum.
+- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil, P. B. Mosenthal, P. D. Pearson, & R. Barr (Eds.), *Handbook of reading research* (Vol. 3, pp. 403–422). Erlbaum. [doi:10.1108/978-1-60752-786-220251011](https://doi.org/10.1108/978-1-60752-786-220251011)
 - National Institute of Child Health and Human Development. (2000). *Report of the National Reading Panel: Teaching children to read*. U.S. Government Printing Office. [https://www.nichd.nih.gov/research/supported/nrp](https://www.nichd.nih.gov/research/supported/nrp)
 - Guthrie, J. T., McRae, A., & Klauda, S. L. (2007). Contributions of Concept-Oriented Reading Instruction to knowledge about interventions for motivations in reading. *Educational Psychologist, 42*(4), 237–250. [doi:10.1080/00461520701621087](https://doi.org/10.1080/00461520701621087)

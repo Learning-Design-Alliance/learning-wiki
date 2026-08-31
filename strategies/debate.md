@@ -68,7 +68,7 @@ Debate is a high-intensity form of [Active Learning](../principles/active-learni
 - **Fishbowl debates in large lecture courses**: six students debate while the rest score argument quality on a rubric, then rotate; everyone prepares both sides
 
 ## Key Sources
-- Oros, A. L. (2007). Let's debate: Active learning encourages student participation and critical thinking. *PS: Political Science & Politics, 40*(1), 227–230. [doi:10.1017/S1049096507070798](https://doi.org/10.1017/S1049096507070798)
+- Oros, A. L. (2007). Let's debate: Active learning encourages student participation and critical thinking. *PS: Political Science & Politics, 40*(1), 227–230. [doi:10.1080/15512160701558273](https://doi.org/10.1080/15512160701558273)
 - Kennedy, R. (2007). In-class debates: Fertile ground for active learning and the cultivation of critical thinking and oral communication skills. *International Journal of Teaching and Learning in Higher Education, 19*(2), 183–190.
 - Chi, M. T. H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219–243. [doi:10.1080/00461520.2014.965823](https://doi.org/10.1080/00461520.2014.965823)
 - Johnson, D. W., & Johnson, R. T. (2009). Energizing learning: The instructional power of conflict. *Educational Researcher, 38*(1), 37–51. [doi:10.3102/0013189X08330540](https://doi.org/10.3102/0013189X08330540)

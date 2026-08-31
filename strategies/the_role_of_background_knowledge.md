@@ -81,4 +81,4 @@ Comprehension and learning depend far more on prior knowledge than on general ab
 - Ausubel, D. P. (1960). The use of advance organizers in the learning and retention of meaningful verbal material. *Journal of Educational Psychology, 51*(5), 267–272. [doi:10.1037/h0046669](https://doi.org/10.1037/h0046669)
 - Willingham, D. T. (2006). How knowledge helps: It takes a lot to know a domain. In *How Students Learn: History, Mathematics, and Science in the Classroom* (pp. 63–82). National Academies Press.
 - Hirsch, E. D. (2003). Reading comprehension requires knowledge—of words and the world. *American Educator, 27*(1), 10–29.
-- Cervetti, G. N., & Hiebert, E. H. (2015). The sixth pillar of reading instruction: Knowledge development. *The Reading Teacher, 68*(7), 548–551. [doi:10.1002/trtr.1347](https://doi.org/10.1002/trtr.1347)
+- Cervetti, G. N., & Hiebert, E. H. (2015). The sixth pillar of reading instruction: Knowledge development. *The Reading Teacher, 68*(7), 548–551. [doi:10.1002/trtr.1343](https://doi.org/10.1002/trtr.1343)

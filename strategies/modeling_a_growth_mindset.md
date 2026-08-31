@@ -69,6 +69,6 @@ Modeling works through social learning: observers extract behavioral standards a
 ## Key Sources
 - Dweck, C. S. (2006). *Mindset: The new psychology of success*. Random House.
 - Yeager, D. S., & Dweck, C. S. (2012). Mindsets that promote resilience: When students believe that personal characteristics can be developed. *Educational Psychologist, 47*(4), 302–314. [doi:10.1080/00461520.2012.722805](https://doi.org/10.1080/00461520.2012.722805)
-- Rattan, A., Good, C., & Dweck, C. S. (2012). "It's ok — Not everyone can be good at math": Instructors with an entity theory comfort (and demotivate) students. *Journal of Personality and Social Psychology, 102*(4), 731–746. [doi:10.1037/a0026553](https://doi.org/10.1037/a0026553)
+- Rattan, A., Good, C., & Dweck, C. S. (2012). "It's ok — Not everyone can be good at math": Instructors with an entity theory comfort (and demotivate) students. *Journal of Personality and Social Psychology, 102*(4), 731–746. [doi:10.1016/j.jesp.2011.12.012](https://doi.org/10.1016/j.jesp.2011.12.012)
 - Tschannen-Moran, M., & Woolfolk Hoy, A. (2001). Teacher efficacy: Capturing an elusive construct. *Teaching and Teacher Education, 17*(7), 783–805. [doi:10.1016/S0742-051X(01)00036-1](https://doi.org/10.1016/S0742-051X(01)00036-1)
 - Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review, 84*(2), 191–215. [doi:10.1037/0033-295X.84.2.191](https://doi.org/10.1037/0033-295X.84.2.191)

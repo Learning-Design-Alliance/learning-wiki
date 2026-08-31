@@ -64,7 +64,7 @@ Lateral reading outperforms the checklist approaches (e.g., CRAAP tests) histori
 - **Snopes / FactCheck.org practice tasks** — Learners verify a viral claim by tracing it to its origin and checking independent fact-checker verdicts
 
 ## Key Sources
-- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(11), 1–40. [doi:10.1177/0002716219847222](https://doi.org/10.1177/0002716219847222)
+- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(11), 1–40. [doi:10.37016/mr-2020-56](https://doi.org/10.37016/mr-2020-56)
 - Breakstone, J., Smith, M., Wineburg, S., Lester, A., Ortega, T., & Collins, S. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8), 505–515. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
 - McGrew, S., Ortega, T., Breakstone, J., & Wineburg, S. (2017). The challenge that's bigger than fake news: Civic reasoning in a social media environment. *American Educator, 41*(3), 4–9.
 - Paul, R., & Elder, L. (2019). *The miniature guide to critical thinking concepts and tools* (8th ed.). Rowman & Littlefield.

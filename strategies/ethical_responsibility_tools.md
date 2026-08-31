@@ -77,6 +77,6 @@ Structured ethical analysis works because it forces learners beyond intuition in
 
 ## Key Sources
 - Bebeau, M. J., Rest, J. R., & Narvaez, D. (1999). Beyond the promise: A perspective on research in moral education. *Educational Researcher, 28*(4), 18–26. [doi:10.3102/0013189X028004018](https://doi.org/10.3102/0013189X028004018)
-- Narvaez, D. (2002). Does reading moral stories build character? *Educational Psychology Review, 14*(2), 155–171. [doi:10.1023/A:1014674229445](https://doi.org/10.1023/A:1014674229445)
+- Narvaez, D. (2002). Does reading moral stories build character? *Educational Psychology Review, 14*(2), 155–171. [doi:10.1023/a:1014674621501](https://doi.org/10.1023/a:1014674621501)
 - Rest, J. R. (1986). *Moral development: Advances in research and theory.* Praeger.
 - Kohlberg, L. (1981). *Essays on moral development, Vol. 1: The philosophy of moral development.* Harper & Row.

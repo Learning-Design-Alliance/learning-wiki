@@ -64,7 +64,7 @@ The strategy draws on the commitment-and-consistency principle: after making a p
 - **Library book-care pledges** — many school libraries (e.g., programs promoted by Scholastic's classroom book-care resources) have students sign a book-care promise before taking books home.
 
 ## Key Sources
-- Freedman, J. L., & Fraser, S. C. (1966). Compliance without pressure: The foot-in-the-door technique. *Journal of Personality and Social Psychology, 4*(2), 195–202. [doi:10.1037/h0023585](https://doi.org/10.1037/h0023585)
+- Freedman, J. L., & Fraser, S. C. (1966). Compliance without pressure: The foot-in-the-door technique. *Journal of Personality and Social Psychology, 4*(2), 195–202. [doi:10.1037/h0023552](https://doi.org/10.1037/h0023552)
 - Gollwitzer, P. M. (1999). Implementation intentions: Strong effects of simple plans. *American Psychologist, 54*(7), 493–503. [doi:10.1037/0003-066X.54.7.493](https://doi.org/10.1037/0003-066X.54.7.493)
 - Bem, D. J. (1972). Self-perception theory. In L. Berkowitz (Ed.), *Advances in Experimental Social Psychology* (Vol. 6, pp. 1–62). Academic Press.
 - Cialdini, R. B. (2001). *Influence: Science and Practice* (4th ed.). Allyn & Bacon.

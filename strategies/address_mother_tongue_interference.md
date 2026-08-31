@@ -71,6 +71,6 @@ Interference errors are systematic, not random, which makes them anticipatable t
 ## Key Sources
 - Lado, R. (1957). *Linguistics across cultures: Applied linguistics for language teachers*. University of Michigan Press.
 - Selinker, L. (1972). Interlanguage. *International Review of Applied Linguistics, 10*(3), 209–231. [doi:10.1515/iral.1972.10.1-4.209](https://doi.org/10.1515/iral.1972.10.1-4.209)
-- Odlin, T. (1989). *Language transfer: Cross-linguistic influence in language learning*. Cambridge University Press. [doi:10.1017/CBO9781139524537](https://doi.org/10.1017/CBO9781139524537)
+- Odlin, T. (1989). *Language transfer: Cross-linguistic influence in language learning*. Cambridge University Press. [doi:10.2307/3587183](https://doi.org/10.2307/3587183)
 - Cummins, J. (1979). Linguistic interdependence and the educational development of bilingual children. *Review of Educational Research, 49*(2), 222–251. [doi:10.3102/00346543049002222](https://doi.org/10.3102/00346543049002222)
 - Ellis, R. (2006). Current issues in the teaching of grammar: An SLA perspective. *TESOL Quarterly, 40*(1), 83–107. [doi:10.2307/40264512](https://doi.org/10.2307/40264512)

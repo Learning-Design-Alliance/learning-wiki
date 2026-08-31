@@ -84,7 +84,7 @@ Arts integration works largely because it forces generative, multimodal encoding
 - **[Scientific illustration in field journals](https://johnmuirlaws.com/)** — nature journaling curricula (e.g., John Muir Laws) combine sketching, [Annotating](../principles/annotating.md), and questioning to teach observation-based science.
 
 ## Key Sources
-- Hardiman, M., Rinne, L., Gregory, E., & Yarmolinskaya, J. (2014). The effects of arts integration on long-term retention of academic content. *Mind, Brain, and Education, 8*(3), 144–148. [doi:10.1111/mbe.12050](https://doi.org/10.1111/mbe.12050)
+- Hardiman, M., Rinne, L., Gregory, E., & Yarmolinskaya, J. (2014). The effects of arts integration on long-term retention of academic content. *Mind, Brain, and Education, 8*(3), 144–148. [doi:10.1111/mbe.12053](https://doi.org/10.1111/mbe.12053)
 - Rinne, L., Gregory, E., Yarborough, A., & Yarborough, J. (2011). Why arts integration improves long-term retention of content. *Mind, Brain, and Education, 5*(2), 89–96. [doi:10.1111/j.1751-228X.2011.01114.x](https://doi.org/10.1111/j.1751-228X.2011.01114.x)
 - Gurnon, D., Voss-Andreae, J., & Stanley, J. (2013). Integrating art and science in undergraduate education. *PLoS Biology, 11*(2), e1001491. [doi:10.1371/journal.pbio.1001491](https://doi.org/10.1371/journal.pbio.1001491)
 - Clark, J. M., & Paivio, A. (1991). Dual coding theory and education. *Educational Psychology Review, 3*(3), 149–210. [doi:10.1007/bf01320076](https://doi.org/10.1007/bf01320076)

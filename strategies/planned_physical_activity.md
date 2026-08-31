@@ -60,7 +60,7 @@ Physical activity is not time taken from learning; it supports it. Regular activ
 - **Family activity planning** — a teenager and parent jointly scheduling three shared activity slots per week plus active transport to school, reviewed at a weekly family check-in.
 
 ## Key Sources
-- Janssen, I., & LeBlanc, A. G. (2010). Systematic review of the health benefits of physical activity and fitness in school-aged children and youth. *Applied Physiology, Nutrition, and Metabolism, 35*(4), 525–540. [doi:10.1139/H10-059](https://doi.org/10.1139/H10-059)
+- Janssen, I., & LeBlanc, A. G. (2010). Systematic review of the health benefits of physical activity and fitness in school-aged children and youth. *Applied Physiology, Nutrition, and Metabolism, 35*(4), 525–540. [doi:10.1186/1479-5868-7-40](https://doi.org/10.1186/1479-5868-7-40)
 - Hillman, C. H., Erickson, K. I., & Kramer, A. F. (2008). Be smart, exercise your heart: Exercise effects on brain and cognition. *Nature Reviews Neuroscience, 9*(1), 58–65. [doi:10.1038/nrn2298](https://doi.org/10.1038/nrn2298)
 - Donnelly, J. E., et al. (2016). Physical activity, fitness, cognitive function, and academic achievement in children: A systematic review. *Medicine & Science in Sports & Exercise, 48*(6), 1197–1222. [doi:10.1249/MSS.0000000000000901](https://doi.org/10.1249/MSS.0000000000000901)
 - U.S. Centers for Disease Control and Prevention. *Comprehensive School Physical Activity Program: A guide for schools.* [https://www.cdc.gov/healthyschools/cspap.htm](https://www.cdc.gov/healthyschools/cspap.htm)

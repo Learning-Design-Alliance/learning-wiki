@@ -68,6 +68,6 @@ Contextualized, meaningful tasks direct learner attention and effort more effect
 ## Key Sources
 - Cummins, J. (1979). Linguistic interdependence and the educational development of bilingual children. *Review of Educational Research, 49*(2), 222–251. [doi:10.3102/00346543049002222](https://doi.org/10.3102/00346543049002222)
 - Janzen, J. (2008). Teaching English language learners in the content areas. *Review of Educational Research, 78*(4), 1010–1038. [doi:10.3102/0034654308325580](https://doi.org/10.3102/0034654308325580)
-- Stone, J. R., Alfeld, C., & Pearson, D. (2008). Rigor and relevance: Enhancing high school students' math skills through career and technical education. *American Educational Research Journal, 45*(3), 767–795. [doi:10.3102/0002831208317468](https://doi.org/10.3102/0002831208317468)
+- Stone, J. R., Alfeld, C., & Pearson, D. (2008). Rigor and relevance: Enhancing high school students' math skills through career and technical education. *American Educational Research Journal, 45*(3), 767–795. [doi:10.3102/0002831208317460](https://doi.org/10.3102/0002831208317460)
 - Ginsburg, L., Manly, M., & Schmitt, M. (2008). *The components of numeracy* (NCSALL Occasional Paper). National Center for the Study of Adult Learning and Literacy, Harvard Graduate School of Education.
 - Moschkovich, J. N. (2002). A situated and sociocultural perspective on bilingual mathematics learners. *Mathematical Thinking and Learning, 4*(2–3), 189–212. [doi:10.1207/s15327833mtl04023_5](https://doi.org/10.1207/s15327833mtl04023_5)

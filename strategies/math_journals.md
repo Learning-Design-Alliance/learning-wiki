@@ -63,6 +63,6 @@ Math journals enact writing-to-learn: requiring students to verbalize mathematic
 
 ## Key Sources
 - Bangert-Drowns, R. L., Hurley, M. M., & Wilkinson, B. (2004). The effects of school-based writing-to-learn interventions on academic achievement: A meta-analysis. *Review of Educational Research, 74*(1), 29–58. [doi:10.3102/00346543074001029](https://doi.org/10.3102/00346543074001029)
-- Pugalee, D. K. (2001). Writing, mathematics, and metacognition: Looking for connections through students' work in mathematical problem solving. *School Science and Mathematics, 101*(5), 236–245. [doi:10.1111/j.1949-8594.2001.tb17957.x](https://doi.org/10.1111/j.1949-8594.2001.tb17957.x)
+- Pugalee, D. K. (2001). Writing, mathematics, and metacognition: Looking for connections through students' work in mathematical problem solving. *School Science and Mathematics, 101*(5), 236–245. [doi:10.1111/j.1949-8594.2001.tb18026.x](https://doi.org/10.1111/j.1949-8594.2001.tb18026.x)
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
 - Clarke, D., Waywood, A., & Stephens, M. (1993). Probing the structure of mathematical writing. *Educational Studies in Mathematics, 25*(3), 235–250.

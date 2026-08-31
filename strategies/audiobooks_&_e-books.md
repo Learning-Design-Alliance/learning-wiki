@@ -79,7 +79,7 @@ Digital reading formats change how learners allocate attention between decoding 
 
 ## Key Sources
 - Rogowsky, B. A., Calhoun, B. M., & Tallal, P. (2016). Does modality matter? The effects of reading, listening, and dual modulation on comprehension and vocabulary. *Journal of Clinical Psychology, 72*(1), 4–15. [doi:10.1177/2158244016669550](https://doi.org/10.1177/2158244016669550)
-- Friesen, D. C., & Jared, D. (2012). Cross-language message- and word-level transfer effects in bilingual text processing. *Psychonomic Bulletin & Review, 19*(5), 929–936. [doi:10.3758/s13423-012-0279-4](https://doi.org/10.3758/s13423-012-0279-4)
-- Bus, A. G., Takacs, Z. K., & Kegel, C. A. T. (2015). Affordances and limitations of electronic storybooks for young children's emergent literacy. *Developmental Review, 35*, 79–97. [doi:10.1016/j.dr.2014.11.004](https://doi.org/10.1016/j.dr.2014.11.004)
+- Friesen, D. C., & Jared, D. (2012). Cross-language message- and word-level transfer effects in bilingual text processing. *Psychonomic Bulletin & Review, 19*(5), 929–936. [doi:10.3758/bf03193489](https://doi.org/10.3758/bf03193489)
+- Bus, A. G., Takacs, Z. K., & Kegel, C. A. T. (2015). Affordances and limitations of electronic storybooks for young children's emergent literacy. *Developmental Review, 35*, 79–97. [doi:10.1016/j.dr.2014.12.004](https://doi.org/10.1016/j.dr.2014.12.004)
 - Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the Science of Instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)
 - Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press.

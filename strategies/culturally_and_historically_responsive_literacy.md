@@ -63,6 +63,6 @@ CHRL extends culturally relevant pedagogy [Ladson-Billings, 1995] by making the 
 ## Key Sources
 - Muhammad, G. (2020). *Cultivating genius: An equity framework for culturally and historically responsive literacy*. Scholastic.
 - Ladson-Billings, G. (1995). Toward a theory of culturally relevant pedagogy. *American Educational Research Journal, 32*(3), 465–491. [doi:10.3102/00028312032003465](https://doi.org/10.3102/00028312032003465)
-- Paris, D., & Alim, H. S. (2014). What are we seeking to sustain through culturally sustaining pedagogy? A loving critique forward. *Harvard Educational Review, 84*(1), 85–100. [doi:10.17763/haer.84.1.982l873421j70646](https://doi.org/10.17763/haer.84.1.982l873421j70646)
+- Paris, D., & Alim, H. S. (2014). What are we seeking to sustain through culturally sustaining pedagogy? A loving critique forward. *Harvard Educational Review, 84*(1), 85–100. [doi:10.17763/haer.84.1.982l873k2ht16m77](https://doi.org/10.17763/haer.84.1.982l873k2ht16m77)
 - Gay, G. (2018). *Culturally responsive teaching: Theory, research, and practice* (3rd ed.). Teachers College Press.
 - Hammond, Z. (2015). *Culturally responsive teaching and the brain*. Corwin.

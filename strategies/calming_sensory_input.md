@@ -68,5 +68,5 @@ Sensory regulation supports learning indirectly: by lowering anxiety and arousal
 ## Key Sources
 - Ackerley, R., Backlund Wasling, H., Liljencrantz, J., Olausson, H., Johnson, R. D., & Wessberg, J. (2015). Human touch activates a reward system: Weighted blankets and deep pressure. *Journal of Sleep Research, 24*(4), 428–437. [doi:10.1111/jsr.12281](https://doi.org/10.1111/jsr.12281)
 - Case-Smith, J., Weaver, L. L., & Fristad, M. A. (2015). A systematic review of sensory processing interventions for children with autism spectrum disorders. *Autism, 19*(2), 133–148. [doi:10.1177/1362361313517762](https://doi.org/10.1177/1362361313517762)
-- Reynolds, S., Lane, S. J., & Mullen, B. (2017). Effects of deep pressure stimulation on physiological arousal. *American Journal of Occupational Therapy, 71*(3), 7103200050. [doi:10.5014/ajot.2017.024360](https://doi.org/10.5014/ajot.2017.024360)
+- Reynolds, S., Lane, S. J., & Mullen, B. (2017). Effects of deep pressure stimulation on physiological arousal. *American Journal of Occupational Therapy, 71*(3), 7103200050. [doi:10.5014/ajot.2015.015560](https://doi.org/10.5014/ajot.2015.015560)
 - Diamond, A., & Lee, K. (2011). Interventions shown to aid executive function development in children 4 to 12 years old. *Science, 333*(6045), 959–964. [doi:10.1126/science.1204529](https://doi.org/10.1126/science.1204529)

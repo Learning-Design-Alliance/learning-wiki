@@ -64,7 +64,7 @@ Giving learners ownership of the data question and collection process turns an a
 - **[Tally Charts and Frequency Tables in Everyday Mathematics](https://www.mheonline.com/everydaymathematics)** — the published elementary curriculum sequences learner-collected tally data into bar graphs across grades 1–3.
 
 ## Key Sources
-- Ben-Zvi, D., & Arcavi, A. (2001). Junior high school students' construction of global views of data and data representations. *Educational Studies in Mathematics, 45*(1–3), 35–65. [doi:10.1023/A:1004780829256](https://doi.org/10.1023/A:1004780829256)
+- Ben-Zvi, D., & Arcavi, A. (2001). Junior high school students' construction of global views of data and data representations. *Educational Studies in Mathematics, 45*(1–3), 35–65. [doi:10.1023/a:1013809201228](https://doi.org/10.1023/a:1013809201228)
 - Friel, S. N., Curcio, F. R., & Bright, G. W. (2001). Making sense of graphs: Critical factors influencing comprehension and instructional implications. *Journal for Research in Mathematics Education, 32*(2), 124–158. [doi:10.2307/749671](https://doi.org/10.2307/749671)
 - Konold, C., & Higgins, T. L. (2003). Reasoning about data. In J. Kilpatrick, W. G. Martin, & D. Schifter (Eds.), *A research companion to Principles and Standards for School Mathematics* (pp. 193–215). NCTM.
 - Lehrer, R., & Schauble, L. (2004). Modeling natural variation through distribution. *American Educational Research Journal, 41*(3), 681–719.

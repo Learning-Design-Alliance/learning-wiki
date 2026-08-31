@@ -66,6 +66,6 @@ Pre-reading brainstorming works because retrieval and generation before reading 
 
 ## Key Sources
 - Osborn, A. F. (1953). *Applied imagination: Principles and procedures of creative thinking*. Charles Scribner's Sons.
-- Paulus, P. B., & Yang, H.-C. (2000). Idea generation in groups: A basis for creativity in organizations. *Organizational Behavior and Human Decision Processes, 82*(1), 76–87. [doi:10.1006/obhd.2000.2887](https://doi.org/10.1006/obhd.2000.2887)
+- Paulus, P. B., & Yang, H.-C. (2000). Idea generation in groups: A basis for creativity in organizations. *Organizational Behavior and Human Decision Processes, 82*(1), 76–87. [doi:10.1006/obhd.2000.2888](https://doi.org/10.1006/obhd.2000.2888)
 - Pressley, M., Wood, E., Woloshyn, V. E., Martin, V., King, A., & Menke, D. (1992). Encouraging mindful use of prior knowledge: Attempting to construct explanatory answers facilitates learning. *Educational Psychologist, 27*(1), 91–109. [doi:10.1207/s15326985ep2701_7](https://doi.org/10.1207/s15326985ep2701_7)
 - Dugosh, K. L., Paulus, P. B., Roland, E. J., & Yang, H.-C. (2000). Cognitive stimulation in brainstorming. *Journal of Personality and Social Psychology, 79*(5), 722–735. [doi:10.1037/0022-3514.79.5.722](https://doi.org/10.1037/0022-3514.79.5.722)

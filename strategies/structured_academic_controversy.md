@@ -68,5 +68,5 @@ SAC converts disagreement into a learning engine by making perspective-taking ma
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (1979). Conflict in the classroom: Controversy and learning. *Review of Educational Research, 49*(1), 51–70. [doi:10.3102/00346543049001051](https://doi.org/10.3102/00346543049001051)
 - Johnson, D. W., & Johnson, R. T. (2009). Energizing learning: The instructional power of conflict. *Educational Researcher, 38*(1), 37–51. [doi:10.3102/0013189X08330540](https://doi.org/10.3102/0013189X08330540)
-- Johnson, D. W., Johnson, R. T., & Smith, K. A. (2000). Constructive controversy: The educative power of intellectual conflict. *Change: The Magazine of Higher Learning, 32*(1), 28–37. [doi:10.1080/00091380009601706](https://doi.org/10.1080/00091380009601706)
-- Johnson, D. W., & Johnson, R. T. (1985). Classroom conflict: Controversy versus debate in learning groups. *Human Relations, 38*(1), 89–101. [doi:10.1177/001872678503800106](https://doi.org/10.1177/001872678503800106)
+- Johnson, D. W., Johnson, R. T., & Smith, K. A. (2000). Constructive controversy: The educative power of intellectual conflict. *Change: The Magazine of Higher Learning, 32*(1), 28–37. [doi:10.1080/00091380009602706](https://doi.org/10.1080/00091380009602706)
+- Johnson, D. W., & Johnson, R. T. (1985). Classroom conflict: Controversy versus debate in learning groups. *Human Relations, 38*(1), 89–101. [doi:10.2307/1162842](https://doi.org/10.2307/1162842)

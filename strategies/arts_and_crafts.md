@@ -67,7 +67,7 @@ Hands-on making converts abstract content into a tangible product, which support
 - **Community craft programs** — museum and library maker programs (e.g., Smithsonian's maker education resources, https://www.si.edu) using craft to teach history and design thinking
 
 ## Key Sources
-- Grissmer, D., Grimm, K. J., Aiyer, S. M., Murrah, W. M., & Steele, J. S. (2010). Fine motor skills and early comprehension of the world: Two new school readiness indicators. *Developmental Psychology, 46*(5), 1008–1017. [doi:10.1037/a0018838](https://doi.org/10.1037/a0018838)
+- Grissmer, D., Grimm, K. J., Aiyer, S. M., Murrah, W. M., & Steele, J. S. (2010). Fine motor skills and early comprehension of the world: Two new school readiness indicators. *Developmental Psychology, 46*(5), 1008–1017. [doi:10.1037/a0020104](https://doi.org/10.1037/a0020104)
 - Kaimal, G., Ray, K., & Muniz, J. (2016). Reduction of cortisol levels and participants' responses following art making. *Art Therapy, 33*(2), 74–80. [doi:10.1080/07421656.2016.1166832](https://doi.org/10.1080/07421656.2016.1166832)
-- Runco, M. A., & Jaeger, G. J. (2012). The standard definition of creativity. *Creativity Research Journal, 24*(1), 92–96. [doi:10.1080/10400419.2012.649143](https://doi.org/10.1080/10400419.2012.649143)
+- Runco, M. A., & Jaeger, G. J. (2012). The standard definition of creativity. *Creativity Research Journal, 24*(1), 92–96. [doi:10.1080/10400419.2023.2257977](https://doi.org/10.1080/10400419.2023.2257977)
 - Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78. [doi:10.1037/0003-066X.55.1.68](https://doi.org/10.1037/0003-066X.55.1.68)

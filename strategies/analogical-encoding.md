@@ -66,6 +66,6 @@ Comparison is what drives the abstraction: a single case tends to be encoded in 
 
 ## Key Sources
 - Gentner, D., Loewenstein, J., & Thompson, L. (2003). Learning and transfer: A general role for analogical encoding. *Journal of Educational Psychology, 95*(2), 393–408. [doi:10.1037/0022-0663.95.2.393](https://doi.org/10.1037/0022-0663.95.2.393)
-- Gick, M. L., & Holyoak, K. J. (1983). Schema induction and analogical transfer. *Cognitive Psychology, 15*(1), 1–38. [doi:10.1016/0010-0285(83)90013-7](https://doi.org/10.1016/0010-0285(83)90013-7)
+- Gick, M. L., & Holyoak, K. J. (1983). Schema induction and analogical transfer. *Cognitive Psychology, 15*(1), 1–38. [doi:10.1016/0010-0285(83)90002-6](https://doi.org/10.1016/0010-0285(83)90002-6)
 - Gentner, D., Loewenstein, J., & Thompson, L. (2003). Analogical encoding and inference in the learning of negotiation. *Journal of Experimental Psychology: Applied, 9*(2), 59–75. [doi:10.1037/1076-898X.9.2.59](https://doi.org/10.1037/1076-898X.9.2.59)
 - Alfieri, L., Nokes-Malach, T. J., & Schunn, C. D. (2013). Learning through case comparisons: A meta-analytic review. *Educational Psychologist, 48*(2), 87–113. [doi:10.1080/00461520.2013.775712](https://doi.org/10.1080/00461520.2013.775712)

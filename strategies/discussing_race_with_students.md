@@ -67,7 +67,7 @@ Race talk triggers strong emotions and identity threat that can shut down produc
 - **Intergroup Dialogue programs** (e.g., University of Michigan's IGR) — semester-long, facilitator-led dialogue courses with empirical evaluation showing improved intergroup understanding and motivation to act across difference
 
 ## Key Sources
-- Sue, D. W., Lin, A. I., Torino, G. C., Capodilupo, C. M., & Rivera, D. P. (2009). Racial dialogues: Challenges faculty of color face in the classroom. *Cultural Diversity and Ethnic Minority Psychology, 15*(2), 109–121. [doi:10.1037/a0014190](https://doi.org/10.1037/a0014190)
+- Sue, D. W., Lin, A. I., Torino, G. C., Capodilupo, C. M., & Rivera, D. P. (2009). Racial dialogues: Challenges faculty of color face in the classroom. *Cultural Diversity and Ethnic Minority Psychology, 15*(2), 109–121. [doi:10.1037/a0024190](https://doi.org/10.1037/a0024190)
 - Sue, D. W. (2015). *Race talk and the conspiracy of silence: Understanding and facilitating difficult dialogues on race*. Wiley.
 - Pollock, M. (Ed.). (2008). *Everyday antiracism: Getting real about race in school*. The New Press.
 - Bonilla-Silva, E. (2006). *Racism without racists: Color-blind racism and the persistence of racial inequality in the United States*. Rowman & Littlefield.

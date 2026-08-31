@@ -68,4 +68,4 @@ Likert scales convert subjective learner states into comparable data, making the
 - Likert, R. (1932). A technique for the measurement of attitudes. *Archives of Psychology, 22*(140), 5–55.
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)
 - Krosnick, J. A. (1999). Survey research. *Annual Review of Psychology, 50*(1), 537–567. [doi:10.1146/annurev.psych.50.1.537](https://doi.org/10.1146/annurev.psych.50.1.537)
-- Jamieson, S. (2004). Likert scales: How to (ab)use them. *Medical Education, 38*(12), 1217–1218. [doi:10.1111/j.1467-9280.2004.00612.x](https://doi.org/10.1111/j.1467-9280.2004.00612.x)
+- Jamieson, S. (2004). Likert scales: How to (ab)use them. *Medical Education, 38*(12), 1217–1218. [doi:10.1111/j.1365-2929.2004.02012.x](https://doi.org/10.1111/j.1365-2929.2004.02012.x)

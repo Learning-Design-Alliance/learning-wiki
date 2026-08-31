@@ -80,5 +80,5 @@ Multimedia projects are valuable when the medium choices themselves become part 
 
 ## Key Sources
 - Yang, Y. T. C., & Wu, W. C. I. (2012). Digital storytelling for enhancing student academic achievement, critical thinking, and learning motivation: A year-long experimental study. *Computers & Education, 59*(2), 339-352. [https://doi.org/10.1016/j.compedu.2011.12.012](https://doi.org/10.1016/j.compedu.2011.12.012)
-- Kitalong, K. S., & Miner, R. L. (2017). Multimodal composition pedagogy designed to enhance authors' personal agency: Lessons from non-academic and academic composing environments. *Computers and Composition, 46*, 39-55. [https://doi.org/10.1016/j.compcom.2017.08.001](https://doi.org/10.1016/j.compcom.2017.08.001)
+- Kitalong, K. S., & Miner, R. L. (2017). Multimodal composition pedagogy designed to enhance authors' personal agency: Lessons from non-academic and academic composing environments. *Computers and Composition, 46*, 39-55. [https://doi.org/10.1016/j.compcom.2017.09.007](https://doi.org/10.1016/j.compcom.2017.09.007)
 - Lim, J., & Polio, C. (2020). Multimodal assignments in higher education: Implications for multimodal writing tasks for L2 writers. *Journal of Second Language Writing, 47*, 100713. [https://doi.org/10.1016/j.jslw.2020.100713](https://doi.org/10.1016/j.jslw.2020.100713)

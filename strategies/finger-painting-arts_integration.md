@@ -72,6 +72,6 @@ Arts integration works when the art activity is *integral* to the content — a 
 
 ## Key Sources
 - Rinne, L., Gregory, E., Yarmolinskaya, J., & Hardiman, M. (2011). Why arts integration improves long-term retention of content. *Mind, Brain, and Education, 5*(2), 89–96. [doi:10.1111/j.1751-228X.2011.01114.x](https://doi.org/10.1111/j.1751-228X.2011.01114.x)
-- Hetland, L., & Winner, E. (2001). The arts and academic achievement: What the evidence shows. *Arts Education Policy Review, 102*(5), 3–6. [doi:10.3200/1085-3200(2001)102&lt;0003:TAAAAA&gt;2.0.CO;2](https://doi.org/10.3200/1085-3200(2001)102%3C0003:TAAAAA%3E2.0.CO;2)
-- Moga, E., Burger, K., Hetland, L., & Winner, E. (2000). Does studying the arts engender creative thinking? Evidence for near but not far transfer. *Journal of Aesthetic Education, 34*(3/4), 91–104. [doi:10.2307/3333641](https://doi.org/10.2307/3333641)
+- Hetland, L., & Winner, E. (2001). The arts and academic achievement: What the evidence shows. *Arts Education Policy Review, 102*(5), 3–6. [doi:10.1080/10632910109600008](https://doi.org/10.3200/1085-3200(2001)102%3C0003:TAAAAA%3E2.0.CO;2)
+- Moga, E., Burger, K., Hetland, L., & Winner, E. (2000). Does studying the arts engender creative thinking? Evidence for near but not far transfer. *Journal of Aesthetic Education, 34*(3/4), 91–104. [doi:10.2307/3333639](https://doi.org/10.2307/3333639)
 - Brouillette, L. (2009). How the arts help children to create healthy social scripts: Exploring the implications of positive school climate. *Arts Education Policy Review, 111*(1), 26–32. [doi:10.1080/10632910903228116](https://doi.org/10.1080/10632910903228116)

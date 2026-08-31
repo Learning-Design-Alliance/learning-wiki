@@ -70,7 +70,7 @@ Recess leverages the well-documented link between physical activity and cognitiv
 
 ## Key Sources
 - Pellegrini, A. D., & Bohn, C. M. (2005). The role of recess in children's cognitive performance and school adjustment. *Educational Psychologist, 40*(1), 13–23. [doi:10.3102/0013189x034001013](https://doi.org/10.3102/0013189x034001013)
-- Barros, R. M., Silver, E. J., & Stein, R. E. K. (2009). School recess and group classroom behavior. *Pediatrics, 123*(2), 431–436. [doi:10.1542/peds.2008-2428](https://doi.org/10.1542/peds.2008-2428)
+- Barros, R. M., Silver, E. J., & Stein, R. E. K. (2009). School recess and group classroom behavior. *Pediatrics, 123*(2), 431–436. [doi:10.1542/peds.2007-2825](https://doi.org/10.1542/peds.2007-2825)
 - Hillman, C. H., Pontifex, M. B., Raine, L. B., Castelli, D. M., Hall, E. E., & Kramer, A. F. (2009). The effect of acute treadmill walking on cognitive control and academic achievement in preadolescent children. *Neuroscience, 159*(3), 1044–1054. [doi:10.1016/j.neuroscience.2009.01.057](https://doi.org/10.1016/j.neuroscience.2009.01.057)
 - Jarrett, O. S., Maxwell, D. M., Dickerson, C., Hoge, P., Davies, G., & Yetley, A. (1998). Impact of recess on classroom behavior: Group effects and individual differences. *Journal of Educational Research, 92*(2), 121–126.
 - Centers for Disease Control and Prevention & SHAPE America. (2017). *Strategies for recess in schools.* [https://www.cdc.gov/healthyschools/physicalactivity/recess.htm](https://www.cdc.gov/healthyschools/physicalactivity/recess.htm)

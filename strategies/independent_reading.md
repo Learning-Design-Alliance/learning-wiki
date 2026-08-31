@@ -68,7 +68,7 @@ Independent reading works as deliberate [practice](../elements/practice.md) for 
 - **First Book and classroom library initiatives** — increasing book access alone measurably increases reading volume in book-scarce communities.
 
 ## Key Sources
-- Guthrie, J. T., Wigfield, A., & Humenick, N. M. (2006). Influences of stimulating tasks on reading motivation and comprehension. *Journal of Educational Research, 99*(4), 232–245. [doi:10.3200/JOER.99.4.232-245](https://doi.org/10.3200/JOER.99.4.232-245)
+- Guthrie, J. T., Wigfield, A., & Humenick, N. M. (2006). Influences of stimulating tasks on reading motivation and comprehension. *Journal of Educational Research, 99*(4), 232–245. [doi:10.3200/joer.99.4.232-246](https://doi.org/10.3200/joer.99.4.232-246)
 - Kuhn, M. R., Schwanenflugel, P. J., Morris, R. D., Morrow, L. M., Woo, D. G., Meisinger, E. B., Sevcik, R. A., Bradley, B., & Stahl, S. A. (2006). Teaching children to become fluent and automatic readers. *Journal of Literacy Research, 38*(4), 357–387. [doi:10.1207/s15548430jlr3804_1](https://doi.org/10.1207/s15548430jlr3804_1)
 - Krashen, S. (2004). *The power of reading: Insights from the research* (2nd ed.). Libraries Unlimited.
 - Moss, B., & Young, T. (2010). *Creating lifelong readers through independent reading*. International Reading Association.

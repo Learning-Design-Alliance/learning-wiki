@@ -66,6 +66,6 @@ MCII converts goal intentions into behavior by addressing two documented failure
 
 ## Key Sources
 - Gollwitzer, P. M. (1999). Implementation intentions: Strong effects of simple plans. *American Psychologist, 54*(7), 493–503. [doi:10.1037/0003-066X.54.7.493](https://doi.org/10.1037/0003-066X.54.7.493)
-- Gollwitzer, P. M., & Sheeran, P. (2006). Implementation intentions and goal achievement: A meta-analysis of effects and processes. *Advances in Experimental Social Psychology, 38*, 69–119. [doi:10.1016/S0065-2601(06)39002-1](https://doi.org/10.1016/S0065-2601(06)39002-1)
+- Gollwitzer, P. M., & Sheeran, P. (2006). Implementation intentions and goal achievement: A meta-analysis of effects and processes. *Advances in Experimental Social Psychology, 38*, 69–119. [doi:10.1016/s0065-2601(06)38002-1](https://doi.org/10.1016/s0065-2601(06)38002-1)
 - Oettingen, G. (2014). *Rethinking positive thinking: Inside the new science of motivating why and how*. Penguin.
-- Duckworth, A. L., Grant, H., Loew, B., Oettingen, G., & Gollwitzer, P. M. (2011). Self-regulation strategies improve self-discipline in adolescents: Results from a randomized field trial. *Proceedings of the National Academy of Sciences, 108*(7), 2699–2703. [doi:10.1073/pnas.1018721108](https://doi.org/10.1073/pnas.1018721108)
+- Duckworth, A. L., Grant, H., Loew, B., Oettingen, G., & Gollwitzer, P. M. (2011). Self-regulation strategies improve self-discipline in adolescents: Results from a randomized field trial. *Proceedings of the National Academy of Sciences, 108*(7), 2699–2703. [doi:10.1080/01443410.2010.506003](https://doi.org/10.1080/01443410.2010.506003)

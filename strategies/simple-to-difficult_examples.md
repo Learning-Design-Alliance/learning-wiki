@@ -73,7 +73,7 @@ Sequencing examples from simple to complex manages intrinsic load during schema 
 - **Duolingo** (https://www.duolingo.com) — introduces grammar with simple, high-frequency sentences before irregular and ambiguous constructions.
 
 ## Key Sources
-- Elio, R., & Anderson, J. R. (1981). The effects of information order and learning mode on schema abstraction. *Memory & Cognition, 9*(6), 569–579. [doi:10.3758/BF03202354](https://doi.org/10.3758/BF03202354)
+- Elio, R., & Anderson, J. R. (1981). The effects of information order and learning mode on schema abstraction. *Memory & Cognition, 9*(6), 569–579. [doi:10.3758/bf03196994](https://doi.org/10.3758/bf03196994)
 - Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23–31. [doi:10.1207/S15326985EP3801_4](https://doi.org/10.1207/S15326985EP3801_4)
 - Renkl, A. (2014). Toward an instructionally oriented theory of example-based learning. *Cognitive Science, 38*(1), 1–37. [doi:10.1111/cogs.12086](https://doi.org/10.1111/cogs.12086)
 - Sweller, J., & Cooper, G. A. (1985). The use of worked examples as a substitute for problem solving in learning algebra. *Cognition and Instruction, 2*(1), 59–89. [doi:10.1207/s1532690xci0201_3](https://doi.org/10.1207/s1532690xci0201_3)

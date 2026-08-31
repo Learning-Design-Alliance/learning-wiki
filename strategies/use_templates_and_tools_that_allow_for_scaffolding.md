@@ -65,7 +65,7 @@ Templates work by offloading the structural demands of a task so working memory 
 
 ## Key Sources
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
-- Graham, S., & Sandmel, K. (2011). The process writing approach: A meta-analysis. *The Journal of Educational Research, 104*(8), 540–551. [doi:10.1080/00220671.2010.546922](https://doi.org/10.1080/00220671.2010.546922)
+- Graham, S., & Sandmel, K. (2011). The process writing approach: A meta-analysis. *The Journal of Educational Research, 104*(8), 540–551. [doi:10.17763/haer.81.4.t2k0m13756113566](https://doi.org/10.17763/haer.81.4.t2k0m13756113566)
 - Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry, 17*(2), 89–100. [doi:10.1111/j.1469-7610.1976.tb00381.x](https://doi.org/10.1111/j.1469-7610.1976.tb00381.x)
 - Rosenshine, B., & Meister, C. (1992). The use of scaffolds for teaching higher-level cognitive strategies. *Educational Leadership, 49*(7), 26–33.
 - Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes.* Harvard University Press.

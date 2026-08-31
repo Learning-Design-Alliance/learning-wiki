@@ -66,6 +66,6 @@ CCC packages several well-supported mechanisms into one low-cost routine: immedi
 
 ## Key Sources
 - Skinner, C. H., McLaughlin, T. F., & Weber, K. P. (1989). Cover, copy, and compare: A self-managed academic intervention effective across skills, students, and settings. *Journal of Behavioral Education, 1*(2), 285–311.
-- Grafman, J. M., & Cates, G. L. (2010). The differential effects of two self-managed math instruction techniques: Cover, copy, compare and traditional flashcards. *Psychology in the Schools, 47*(3), 251–258. [doi:10.1002/pits.20466](https://doi.org/10.1002/pits.20466)
+- Grafman, J. M., & Cates, G. L. (2010). The differential effects of two self-managed math instruction techniques: Cover, copy, compare and traditional flashcards. *Psychology in the Schools, 47*(3), 251–258. [doi:10.1002/pits.20459](https://doi.org/10.1002/pits.20459)
 - Cieslar, W., McLaughlin, T. F., & Derby, K. M. (2008). Effects of the copy, cover, and compare procedure on the math and spelling performance of a high school student with behavioral disorder: A case report. *Preventing School Failure, 52*(4), 45–52. [doi:10.3200/PSFL.52.4.45-52](https://doi.org/10.3200/PSFL.52.4.45-52)
 - Joseph, L. M., & Konrad, M. (2009). Teaching students with intellectual or developmental disabilities to write: A review of the literature. *Research in Developmental Disabilities, 30*(1), 1–19. [doi:10.1016/j.ridd.2008.01.001](https://doi.org/10.1016/j.ridd.2008.01.001)

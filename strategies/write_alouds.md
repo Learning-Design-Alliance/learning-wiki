@@ -65,7 +65,7 @@ Write alouds are a form of [Demonstration](../elements/demonstration.md) applied
 
 ## Key Sources
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
-- Graham, S., & Sandmel, D. (2011). The process writing approach: A meta-analysis. *Journal of Educational Research, 104*(8), 540–561. [doi:10.1080/00220671.2010.546922](https://doi.org/10.1080/00220671.2010.546922)
+- Graham, S., & Sandmel, D. (2011). The process writing approach: A meta-analysis. *Journal of Educational Research, 104*(8), 540–561. [doi:10.17763/haer.81.4.t2k0m13756113566](https://doi.org/10.17763/haer.81.4.t2k0m13756113566)
 - Zimmerman, B. J., & Kitsantas, A. (2002). Acquiring writing revision and self-regulatory skill through observation and emulation. *Journal of Educational Psychology, 94*(2), 292–297. [doi:10.1037/0022-0663.94.4.660](https://doi.org/10.1037/0022-0663.94.4.660)
 - Bandura, A. (1977). *Social learning theory*. Prentice Hall.
 - Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the Science of Instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)

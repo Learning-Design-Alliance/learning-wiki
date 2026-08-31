@@ -68,7 +68,7 @@ Space design is an enabling condition rather than a learning mechanism in itself
 
 ## Key Sources
 - Beichner, R. J., Saul, J. M., Abbott, D. S., Morse, J. J., Deardorff, D., Allain, R. J., Bonham, S. W., Dancy, M. H., & Risley, J. S. (2007). The Student-Centered Activities for Large Enrollment Undergraduate Programs (SCALE-UP) project. *Research-Based Reform of University Physics, 1*(1), 2–39.
-- Baepler, P., Walker, J. D., & Driessen, M. (2014). It's not about seat time: Blending, flipping, and efficiency in active learning classrooms. *Computers & Education, 78*, 227–236. [doi:10.1016/j.compedu.2014.05.013](https://doi.org/10.1016/j.compedu.2014.05.013)
+- Baepler, P., Walker, J. D., & Driessen, M. (2014). It's not about seat time: Blending, flipping, and efficiency in active learning classrooms. *Computers & Education, 78*, 227–236. [doi:10.1016/j.compedu.2014.06.006](https://doi.org/10.1016/j.compedu.2014.06.006)
 - Brooks, D. C. (2012). Space matters: The impact of formal learning environments on student learning. *British Journal of Educational Technology, 43*(5), 719–726.
 - Dori, Y. J., & Belcher, J. (2005). How does technology-enabled active learning affect undergraduate students' understanding of electromagnetism concepts? *The Journal of the Learning Sciences, 14*(2), 243–279. [doi:10.1207/s15327809jls1402_3](https://doi.org/10.1207/s15327809jls1402_3)
 - Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., Jordt, H., & Wenderoth, M. P. (2014). Active learning increases student performance in science, engineering, and mathematics. *PNAS, 111*(23), 8410–8415. [doi:10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)

@@ -64,7 +64,7 @@ Structured discourse deepens conceptual understanding because articulating and d
 - **Paideia Seminar** (National Paideia Center) — scripted seminar cycles pairing reading with structured dialogue.
 
 ## Key Sources
-- Scardamalia, M., & Bereiter, C. (2006). Knowledge building: Theory, pedagogy, and technology. In R. K. Sawyer (Ed.), *The Cambridge Handbook of the Learning Sciences* (pp. 97–118). Cambridge University Press.
+- Scardamalia, M., & Bereiter, C. (2006). Knowledge building: Theory, pedagogy, and technology. In R. K. Sawyer (Ed.), *The Cambridge Handbook of the Learning Sciences* (pp. 97–118). Cambridge University Press. [doi:10.1017/cbo9780511816833.008](https://doi.org/10.1017/cbo9780511816833.008)
 - Scardamalia, M. (2002). Collective cognitive responsibility for the advancement of knowledge. In B. Smith (Ed.), *Liberal Education in a Knowledge Society* (pp. 67–98). Open Court.
 - Chi, M. T. H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219–243. [doi:10.1080/00461520.2014.965823](https://doi.org/10.1080/00461520.2014.965823)
 - Michaels, S., O'Connor, C., & Resnick, L. B. (2008). Deliberative discourse idealized and realized: Accountable talk in the classroom and in civic life. *Studies in Philosophy and Education, 27*(4), 283–297. [doi:10.1007/s11217-007-9071-1](https://doi.org/10.1007/s11217-007-9071-1)

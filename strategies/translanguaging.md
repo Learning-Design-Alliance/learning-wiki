@@ -67,6 +67,6 @@ Translanguaging reframes home languages as an asset rather than a deficit, which
 
 ## Key Sources
 - García, O., & Wei, L. (2014). *Translanguaging: Language, bilingualism and education*. Palgrave Macmillan. [doi:10.1057/9781137385765](https://doi.org/10.1057/9781137385765)
-- Rolstad, K., Mahoney, K., & Glass, G. V. (2005). The big picture: A meta-analysis of program effectiveness research on English language learners. *Review of Educational Research, 75*(3), 247–284. [doi:10.3102/00346543075003247](https://doi.org/10.3102/00346543075003247)
+- Rolstad, K., Mahoney, K., & Glass, G. V. (2005). The big picture: A meta-analysis of program effectiveness research on English language learners. *Review of Educational Research, 75*(3), 247–284. [doi:10.1177/0895904805278067](https://doi.org/10.1177/0895904805278067)
 - Adesope, O. O., Lavin, T., Thompson, T., & Ungerleider, C. (2010). A systematic review and meta-analysis of the cognitive correlates of bilingualism. *Review of Educational Research, 80*(2), 207–245. [doi:10.3102/0034654310368803](https://doi.org/10.3102/0034654310368803)
-- Cenoz, J., & Gorter, D. (2017). Pedagogical translanguaging: An introduction. *Language Teaching, 50*(4), 549–553. [doi:10.1017/S0261444816000339](https://doi.org/10.1017/S0261444816000339)
+- Cenoz, J., & Gorter, D. (2017). Pedagogical translanguaging: An introduction. *Language Teaching, 50*(4), 549–553. [doi:10.1016/j.system.2020.102269](https://doi.org/10.1016/j.system.2020.102269)

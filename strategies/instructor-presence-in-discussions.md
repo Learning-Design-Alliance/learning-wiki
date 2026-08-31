@@ -66,6 +66,6 @@ Discussion without instructor facilitation tends to stall at opinion exchange; i
 
 ## Key Sources
 - Garrison, D. R., & Cleveland-Innes, M. (2005). Facilitating cognitive presence in online learning: Interaction is not enough. *American Journal of Distance Education, 19*(3), 133–148. [doi:10.1207/s15389286ajde1903_2](https://doi.org/10.1207/s15389286ajde1903_2)
-- Richardson, J. C., & Ice, K. Y. (2010). Investigating students' level of critical thinking across instructional strategies in online discussions. *The Internet and Higher Education, 13*(1–2), 52–59. [doi:10.1016/j.iheduc.2009.03.005](https://doi.org/10.1016/j.iheduc.2009.03.005)
+- Richardson, J. C., & Ice, K. Y. (2010). Investigating students' level of critical thinking across instructional strategies in online discussions. *The Internet and Higher Education, 13*(1–2), 52–59. [doi:10.1016/j.iheduc.2009.10.009](https://doi.org/10.1016/j.iheduc.2009.10.009)
 - Shea, P., & Bidjerano, T. (2009). Community of inquiry as a theoretical framework to foster "epistemic engagement" and "cognitive presence" in online education. *Computers & Education, 52*(3), 543–553. [doi:10.1016/j.compedu.2008.10.007](https://doi.org/10.1016/j.compedu.2008.10.007)
-- Swan, K. (2001). Virtual interaction: Design factors affecting student satisfaction and perceived learning in asynchronous online courses. *Distance Education, 22*(2), 306–331. [doi:10.1080/0158791010220209](https://doi.org/10.1080/0158791010220209)
+- Swan, K. (2001). Virtual interaction: Design factors affecting student satisfaction and perceived learning in asynchronous online courses. *Distance Education, 22*(2), 306–331. [doi:10.1080/0158791010220208](https://doi.org/10.1080/0158791010220208)

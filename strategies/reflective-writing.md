@@ -68,7 +68,7 @@ Reflective writing works by forcing elaboration and metacognitive monitoring: tr
 
 ## Key Sources
 - Bangert-Drowns, R. L., Hurley, M. M., & Wilkinson, B. (2004). The effects of school-based writing-to-learn interventions on academic achievement: A meta-analysis. *Review of Educational Research, 74*(1), 29–58. [doi:10.3102/00346543074001029](https://doi.org/10.3102/00346543074001029)
-- Donker, A. S., de Boer, H., Kostons, D., Dignath van Ewijk, C. C., & van der Werf, M. P. C. (2014). Effectiveness of learning strategy instruction on academic performance: A meta-analysis. *Educational Research Review, 11*, 1–26. [doi:10.1016/j.edurev.2014.02.002](https://doi.org/10.1016/j.edurev.2014.02.002)
+- Donker, A. S., de Boer, H., Kostons, D., Dignath van Ewijk, C. C., & van der Werf, M. P. C. (2014). Effectiveness of learning strategy instruction on academic performance: A meta-analysis. *Educational Research Review, 11*, 1–26. [doi:10.1016/j.edurev.2013.11.002](https://doi.org/10.1016/j.edurev.2013.11.002)
 - Gibbs, G. (1988). *Learning by doing: A guide to teaching and learning methods.* Further Education Unit, Oxford Polytechnic.
 - Boud, D., Keogh, R., & Walker, D. (Eds.). (1985). *Reflection: Turning experience into learning.* Kogan Page.
 - Schön, D. A. (1983). *The reflective practitioner: How professionals think in action.* Basic Books.

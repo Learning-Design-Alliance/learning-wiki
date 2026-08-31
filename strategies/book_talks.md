@@ -66,7 +66,7 @@ Book talks convert private reading into a social, communicative act, leveraging 
 - **First Chapter Friday** — a popular variant in which the teacher or students read aloud the opening of a book and talk it, then post titles for checkout.
 
 ## Key Sources
-- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil et al. (Eds.), *Handbook of Reading Research, Vol. III* (pp. 403–422). Erlbaum.
+- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil et al. (Eds.), *Handbook of Reading Research, Vol. III* (pp. 403–422). Erlbaum. [doi:10.1108/978-1-60752-786-220251011](https://doi.org/10.1108/978-1-60752-786-220251011)
 - Kittle, P. (2013). *Book Love: Developing Depth, Stamina, and Passion in Adolescent Readers*. Heinemann.
 - Miller, D. (2009). *The Book Whisperer: Awakening the Inner Reader in Every Child*. Jossey-Bass.
 - Ivey, G., & Johnston, P. H. (2013). Engagement with young adult literature: Outcomes and processes. *Reading Research Quarterly, 48*(3), 255–275. [doi:10.1002/rrq.46](https://doi.org/10.1002/rrq.46)

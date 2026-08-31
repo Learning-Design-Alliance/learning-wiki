@@ -67,7 +67,7 @@ Modeling works through observational learning and identification: children imita
 - Reach Out and Read (https://reachoutandread.org) — pediatricians prescribe daily reading and model read-alouds at well-child visits, positioning reading as a normative adult behavior.
 
 ## Key Sources
-- Evans, M. A., Shaw, D., & Bell, M. (2000). Home literacy activities and their influence on early literacy skills. *Canadian Journal of Experimental Psychology, 54*(2), 121–132. [doi:10.1037/h0087334](https://doi.org/10.1037/h0087334)
+- Evans, M. A., Shaw, D., & Bell, M. (2000). Home literacy activities and their influence on early literacy skills. *Canadian Journal of Experimental Psychology, 54*(2), 121–132. [doi:10.1037/h0087330](https://doi.org/10.1037/h0087330)
 - Bus, A. G., van IJzendoorn, M. H., & Pellegrini, A. D. (1995). Joint book reading makes for success in learning to read: A meta-analysis on intergenerational transmission of literacy. *Review of Educational Research, 65*(1), 1–21. [doi:10.3102/00346543065001001](https://doi.org/10.3102/00346543065001001)
 - Sénéchal, M., & LeFevre, J.-A. (2002). Parental involvement in the development of children's reading skill: A five-year longitudinal study. *Child Development, 73*(2), 445–460. [doi:10.1111/1467-8624.00418](https://doi.org/10.1111/1467-8624.00418)
 - Bandura, A. (1977). *Social learning theory*. Prentice Hall.

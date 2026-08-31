@@ -70,7 +70,7 @@ T-charts operationalize structured comparison, one of the highest-yield instruct
 - [ReadWriteThink](https://www.readwritethink.org) — IRA/NCTE interactive T-chart and comparison tools for literacy classrooms
 
 ## Key Sources
-- Schwartz, D. L., & Bransford, J. D. (1995). A time for telling. *Cognition and Instruction, 19*(4), 475–522. [doi:10.1207/s15516709cog1901_2](https://doi.org/10.1207/s15516709cog1901_2)
+- Schwartz, D. L., & Bransford, J. D. (1995). A time for telling. *Cognition and Instruction, 19*(4), 475–522. [doi:10.1207/s1532690xci1604_4](https://doi.org/10.1207/s1532690xci1604_4)
 - Marzano, R. J., Pickering, D. J., & Pollock, J. E. (2001). *Classroom instruction that works: Research-based strategies for increasing student achievement.* ASCD.
 - Dexter, D. D., & Hughes, C. A. (2011). Graphic organizers and students with learning disabilities: A meta-analysis. *Learning Disability Quarterly, 34*(1), 51–72. [doi:10.1177/073194871103400104](https://doi.org/10.1177/073194871103400104)
 - DiCecco, V. M., & Gleason, M. M. (2002). Using graphic organizers to attain relational knowledge from expository text. *Journal of Learning Disabilities, 35*(4), 306–320.

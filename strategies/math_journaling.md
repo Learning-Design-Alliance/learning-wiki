@@ -63,7 +63,7 @@ Math journaling is a writing-to-learn strategy: the act of articulating a soluti
 - **Dialogue journals in middle school algebra** — the teacher responds weekly to each student's entries, flagging misconceptions and asking a probing question, turning the journal into a low-stakes formative assessment channel.
 
 ## Key Sources
-- Pugalee, D. K. (2001). Writing, mathematics, and metacognition: Looking for connections through students' work in mathematical problem solving. *School Science and Mathematics, 101*(5), 236–245. [doi:10.1111/j.1949-8594.2001.tb18049.x](https://doi.org/10.1111/j.1949-8594.2001.tb18049.x)
+- Pugalee, D. K. (2001). Writing, mathematics, and metacognition: Looking for connections through students' work in mathematical problem solving. *School Science and Mathematics, 101*(5), 236–245. [doi:10.1111/j.1949-8594.2001.tb18026.x](https://doi.org/10.1111/j.1949-8594.2001.tb18026.x)
 - Bangert-Drowns, R. L., Hurley, M. M., & Wilkinson, B. (2004). The effects of school-based writing-to-learn interventions on academic achievement: A meta-analysis. *Review of Educational Research, 74*(1), 29–58. [doi:10.3102/00346543074001029](https://doi.org/10.3102/00346543074001029)
 - Jurdak, M., & Zein, R. A. (1998). The effect of journal writing on achievement in and attitudes toward mathematics. *School Science and Mathematics, 98*(8), 417–421. [doi:10.1111/j.1949-8594.1998.tb17433.x](https://doi.org/10.1111/j.1949-8594.1998.tb17433.x)
 - Bosse, M. J., & Faulconer, J. (2008). Learning and assessing mathematics through reading and writing. *School Science and Mathematics, 108*(1), 8–19. [doi:10.1111/j.1949-8594.2008.tb17935.x](https://doi.org/10.1111/j.1949-8594.2008.tb17935.x)

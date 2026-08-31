@@ -68,6 +68,6 @@ Problem generation converts learners from consumers to constructors of tasks, fo
 
 ## Key Sources
 - Rosenshine, B., Meister, C., & Chapman, S. (1996). Teaching students to generate questions: A review of the intervention studies. *Review of Educational Research, 66*(2), 181–221. [doi:10.3102/00346543066002181](https://doi.org/10.3102/00346543066002181)
-- King, A. (1990). Enhancing peer interaction and learning in the classroom through reciprocal questioning. *American Educational Research Journal, 27*(4), 663–687. [doi:10.3102/00028312027004663](https://doi.org/10.3102/00028312027004663)
+- King, A. (1990). Enhancing peer interaction and learning in the classroom through reciprocal questioning. *American Educational Research Journal, 27*(4), 663–687. [doi:10.3102/00028312027004664](https://doi.org/10.3102/00028312027004664)
 - Foos, P. W., Mora, J. J., & Tkacs, S. (1994). Student study techniques and the generation effect. *Journal of Educational Psychology, 86*(4), 567–576. [doi:10.1037/0022-0663.86.4.567](https://doi.org/10.1037/0022-0663.86.4.567)
 - Palincsar, A. S., & Brown, A. L. (1984). Reciprocal teaching of comprehension-fostering and comprehension-monitoring activities. *Cognition and Instruction, 1*(2), 117–175. [doi:10.1207/s1532690xci0102_1](https://doi.org/10.1207/s1532690xci0102_1)

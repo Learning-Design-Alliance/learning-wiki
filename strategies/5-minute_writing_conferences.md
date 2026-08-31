@@ -78,5 +78,5 @@ The conference converts feedback from a one-way written transmission into a dial
 ## Key Sources
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
 - Sadler, D. R. (1989). Formative assessment and the design of instructional systems. *Instructional Science, 18*(2), 119–144. [doi:10.1007/BF00117714](https://doi.org/10.1007/BF00117714)
-- Graham, S., & Sandmel, D. (2011). The process writing approach: A meta-analysis. *Journal of Educational Research, 104*(6), 396–407. [doi:10.1080/00220671.2010.488703](https://doi.org/10.1080/00220671.2010.488703)
+- Graham, S., & Sandmel, D. (2011). The process writing approach: A meta-analysis. *Journal of Educational Research, 104*(6), 396–407. [doi:10.17763/haer.81.4.t2k0m13756113566](https://doi.org/10.17763/haer.81.4.t2k0m13756113566)
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)

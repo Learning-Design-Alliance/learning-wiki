@@ -63,6 +63,6 @@ Learning depends on a physical environment that supports sustained attention and
 
 ## Key Sources
 - Mendell, M. J., & Heath, G. A. (2005). Do indoor pollutants and thermal conditions in school classrooms influence student performance? A critical review of the literature. *Indoor Air, 15*(1), 27–52. [doi:10.1111/j.1600-0668.2004.00320.x](https://doi.org/10.1111/j.1600-0668.2004.00320.x)
-- Fisk, W. J. (2002). Health and productivity gains from better indoor environments and their relationship with building energy efficiency. *Annual Review of Energy and the Environment, 27*, 537–566. [doi:10.1146/annurev.energy.27.122001.083446](https://doi.org/10.1146/annurev.energy.27.122001.083446)
+- Fisk, W. J. (2002). Health and productivity gains from better indoor environments and their relationship with building energy efficiency. *Annual Review of Energy and the Environment, 27*, 537–566. [doi:10.1111/j.1600-0668.1997.t01-1-00002.x](https://doi.org/10.1111/j.1600-0668.1997.t01-1-00002.x)
 - Wargocki, P., & Wyon, D. P. (2013). Providing better thermal and air quality conditions in school classrooms would be cost-effective. *Building and Environment, 59*, 581–589. [doi:10.1016/j.buildenv.2012.10.007](https://doi.org/10.1016/j.buildenv.2012.10.007)
 - Haverinen-Shaughnessy, U., Moschandreas, D. J., & Shaughnessy, R. J. (2011). Association between substandard classroom ventilation rates and students' academic achievement. *Indoor Air, 21*(2), 121–131. [doi:10.1111/j.1600-0668.2010.00686.x](https://doi.org/10.1111/j.1600-0668.2010.00686.x)

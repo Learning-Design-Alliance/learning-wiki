@@ -70,6 +70,6 @@ Reading comprehension depends heavily on prior knowledge and vocabulary; learner
 
 ## Key Sources
 - Shanahan, T., & Shanahan, C. (2008). Teaching disciplinary literacy to adolescents: Rethinking content-area literacy. *Harvard Educational Review, 78*(1), 40–59. [doi:10.17763/haer.78.1.v62444321p602101](https://doi.org/10.17763/haer.78.1.v62444321p602101)
-- McNamara, D. S. (2004). SERT: Self-explanation reading training. *Discourse Processes, 38*(1), 1–30.
+- McNamara, D. S. (2004). SERT: Self-explanation reading training. *Discourse Processes, 38*(1), 1–30. [doi:10.1207/s15326950dp3801_1](https://doi.org/10.1207/s15326950dp3801_1)
 - Alexander, P. A., & Jetton, T. L. (2000). Learning from text: A multidimensional and developmental perspective. In M. L. Kamil et al. (Eds.), *Handbook of Reading Research* (Vol. 3, pp. 285–310). Erlbaum.
 - Beck, I. L., McKeown, M. G., & Kucan, L. (2013). *Bringing Words to Life: Robust Vocabulary Instruction* (2nd ed.). Guilford Press.

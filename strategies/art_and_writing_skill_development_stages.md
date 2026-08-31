@@ -74,4 +74,4 @@ Stage frameworks help caregivers and educators match expectations and support to
 - Lowenfeld, V., & Brittain, W. L. (1987). *Creative and mental growth* (8th ed.). Macmillan.
 - Dyson, A. H. (1986). Transitions and tensions: Interrelationships between the drawing, talking, and writing of young children. *Research in the Teaching of English, 20*(4), 379–409.
 - Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press.
-- Levin, I., & Bus, A. G. (2003). How is emergent writing based on drawing? Analyses of children's products and their naming by developmental level. *Journal of Educational Psychology, 95*(1), 45–56. [doi:10.1037/0022-0663.95.1.45](https://doi.org/10.1037/0022-0663.95.1.45)
+- Levin, I., & Bus, A. G. (2003). How is emergent writing based on drawing? Analyses of children's products and their naming by developmental level. *Journal of Educational Psychology, 95*(1), 45–56. [doi:10.1037/0012-1649.39.5.891](https://doi.org/10.1037/0012-1649.39.5.891)

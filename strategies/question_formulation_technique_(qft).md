@@ -69,6 +69,6 @@ QFT treats question-asking as a teachable skill rather than a fixed disposition,
 ## Key Sources
 - Rothstein, D., & Santana, L. (2011). *Make just one change: Teach students to ask their own questions.* Harvard Education Press.
 - Rothstein, D., & Santana, L. (2011). Teaching students to ask their own questions: One small change can yield big results. *Harvard Education Letter, 27*(5).
-- Chin, C., & Osborne, J. (2008). Students' questions: A potential resource for teaching and learning science. *Studies in Science Education, 44*(1), 1–39. [doi:10.1080/03057260701828104](https://doi.org/10.1080/03057260701828104)
+- Chin, C., & Osborne, J. (2008). Students' questions: A potential resource for teaching and learning science. *Studies in Science Education, 44*(1), 1–39. [doi:10.1080/03057260701828101](https://doi.org/10.1080/03057260701828101)
 - King, A. (1994). Guiding knowledge construction in the classroom: Effects of teaching children how to question and how to explain. *American Educational Research Journal, 31*(2), 338–368. [doi:10.3102/00028312031002338](https://doi.org/10.3102/00028312031002338)
 - Graesser, A. C., & Person, N. K. (1994). Question asking during tutoring. *American Educational Research Journal, 31*(1), 104–137. [doi:10.3102/00028312031001104](https://doi.org/10.3102/00028312031001104)

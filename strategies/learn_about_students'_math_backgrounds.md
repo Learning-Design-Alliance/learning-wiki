@@ -64,6 +64,6 @@ Prior knowledge is one of the strongest predictors of how much a learner takes f
 
 ## Key Sources
 - Carpenter, T. P., Fennema, E., Peterson, P. L., Chiang, C. P., & Loef, M. (1989). Using knowledge of children's mathematics thinking in classroom teaching: An experimental study. *American Educational Research Journal, 26*(4), 499–531. [doi:10.3102/00028312026004499](https://doi.org/10.3102/00028312026004499)
-- Tobias, S. (1994). Interest, prior knowledge, and learning. *Review of Educational Research, 64*(1), 4–25. [doi:10.3102/00346543064001004](https://doi.org/10.3102/00346543064001004)
+- Tobias, S. (1994). Interest, prior knowledge, and learning. *Review of Educational Research, 64*(1), 4–25. [doi:10.2307/1170745](https://doi.org/10.2307/1170745)
 - Moschkovich, J. N. (2002). A situated and sociocultural perspective on bilingual mathematics learners. *Mathematical Thinking and Learning, 4*(2–3), 189–212. [doi:10.1207/S15327833MTL04023_5](https://doi.org/10.1207/S15327833MTL04023_5)
 - Ginsburg, H. P., Lee, J. S., & Boyd, J. S. (2008). Mathematics education for young children: What it is and how to promote it. *Social Policy Report, 22*(1), 3–22.

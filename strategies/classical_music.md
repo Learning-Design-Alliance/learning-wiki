@@ -59,7 +59,7 @@ Background music is an environmental manipulation of arousal and mood, not an in
 
 ## Key Sources
 - Thompson, W. F., Schellenberg, E. G., & Husain, G. (2001). Arousal, mood, and the Mozart effect. *Psychological Science, 12*(3), 248–251. [doi:10.1111/1467-9280.00345](https://doi.org/10.1111/1467-9280.00345)
-- Pietschnig, J., Voracek, M., & Formann, A. K. (2010). Mozart effect–Shmozart effect: A meta-analysis. *Intelligence, 38*(3), 314–323. [doi:10.1016/j.intell.2010.02.001](https://doi.org/10.1016/j.intell.2010.02.001)
+- Pietschnig, J., Voracek, M., & Formann, A. K. (2010). Mozart effect–Shmozart effect: A meta-analysis. *Intelligence, 38*(3), 314–323. [doi:10.1016/j.intell.2010.03.001](https://doi.org/10.1016/j.intell.2010.03.001)
 - Hallam, S., Price, J., & Katsarou, G. (2002). The effects of background music on primary school pupils' task performance. *Applied Cognitive Psychology, 16*(6), 685–699. [doi:10.1080/03055690220124551](https://doi.org/10.1080/03055690220124551)
 - Schellenberg, E. G. (2005). Music and cognitive abilities. *Current Directions in Psychological Science, 14*(6), 317–320. [doi:10.1111/j.0963-7214.2005.00389.x](https://doi.org/10.1111/j.0963-7214.2005.00389.x)
 

@@ -63,7 +63,7 @@ Manipulatives reduce the representational burden of abstract content by groundin
 
 ## Key Sources
 - Carbonneau, K. J., Marley, S. C., & Selig, J. P. (2013). A meta-analysis of the efficacy of teaching mathematics with concrete manipulatives. *Journal of Educational Psychology, 105*(2), 380–400. [doi:10.1037/a0031084](https://doi.org/10.1037/a0031084)
-- Uttal, D. H., Scudder, K. V., & DeLoache, J. S. (1997). Manipulatives as symbols: A new perspective on the use of concrete objects to teach mathematics. *Journal of Applied Developmental Psychology, 18*(2), 213–254. [doi:10.1016/S0193-3973(97)90009-7](https://doi.org/10.1016/S0193-3973(97)90009-7)
+- Uttal, D. H., Scudder, K. V., & DeLoache, J. S. (1997). Manipulatives as symbols: A new perspective on the use of concrete objects to teach mathematics. *Journal of Applied Developmental Psychology, 18*(2), 213–254. [doi:10.1016/s0193-3973(97)90013-7](https://doi.org/10.1016/s0193-3973(97)90013-7)
 - McNeil, N. M., & Jarvin, L. (2007). When theories don't add up: Disentangling the manipulatives debate. *Theory Into Practice, 46*(4), 309–316. [doi:10.1080/00405840701593899](https://doi.org/10.1080/00405840701593899)
 - Clements, D. H., & McMillen, S. (1996). Rethinking "concrete" manipulatives. *Teaching Children Mathematics, 2*(5), 270–279.
 

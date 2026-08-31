@@ -66,7 +66,7 @@ Meta-analyses consistently find that technology-mediated instruction produces le
 - **Perusall** — social annotation platform that converts assigned reading into interactive, assessable engagement.
 
 ## Key Sources
-- Tamim, R. M., Bernard, R. M., Borokhovski, E., Abrami, P. C., & Schmid, R. F. (2011). What forty years of research says about the impact of technology on learning: A second-order meta-analysis and validation study. *Review of Educational Research, 81*(1), 4–28. [doi:10.3102/0034654311417738](https://doi.org/10.3102/0034654311417738)
+- Tamim, R. M., Bernard, R. M., Borokhovski, E., Abrami, P. C., & Schmid, R. F. (2011). What forty years of research says about the impact of technology on learning: A second-order meta-analysis and validation study. *Review of Educational Research, 81*(1), 4–28. [doi:10.3102/0034654310393361](https://doi.org/10.3102/0034654310393361)
 - Mayer, R. E. (2009). *Multimedia Learning* (2nd ed.). Cambridge University Press. [doi:10.1017/CBO9780511811678](https://doi.org/10.1017/CBO9780511811678)
 - Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the Science of Instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)
 - Schmid, R. F., Bernard, R. M., Borokhovski, E., Tamim, R., Abrami, P. C., Surkes, M. A., Wade, C. A., & Woods, J. (2014). The effects of technology use in postsecondary education: A meta-analysis of classroom applications. *Computers & Education, 72*, 271–291. [doi:10.1016/j.compedu.2013.11.002](https://doi.org/10.1016/j.compedu.2013.11.002)

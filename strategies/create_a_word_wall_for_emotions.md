@@ -67,7 +67,7 @@ Emotion labeling is itself a regulatory act: putting feelings into words reduces
 - [RULER](https://ycei.org/ruler) (Yale Center for Emotional Intelligence) — the Mood Meter is a structured, quadrant-based version of the same idea, embedded in a whole-school approach with explicit teaching of emotion vocabulary.
 
 ## Key Sources
-- Lieberman, M. D., Eisenberger, N. I., Crockett, M. J., Tom, S. M., Pfeifer, J. H., & Way, B. M. (2007). Putting feelings into words: Affect labeling disrupts amygdala activity in response to emotional stimuli. *Psychological Science, 18*(5), 421–428. [doi:10.1111/j.1467-9280.2007.01916.x](https://doi.org/10.1111/j.1467-9280.2007.01916.x)
+- Lieberman, M. D., Eisenberger, N. I., Crockett, M. J., Tom, S. M., Pfeifer, J. H., & Way, B. M. (2007). Putting feelings into words: Affect labeling disrupts amygdala activity in response to emotional stimuli. *Psychological Science, 18*(5), 421–428. [doi:10.1177/1754073917742706](https://doi.org/10.1177/1754073917742706)
 - Beck, I. L., McKeown, M. G., & Kucan, L. (2013). *Bringing Words to Life: Robust Vocabulary Instruction* (2nd ed.). Guilford Press.
 - Kashdan, T. B., Barrett, L. F., & McKnight, P. E. (2015). Unpacking emotion differentiation: Transforming unpleasant experience by perceiving distinctions in negativity. *Current Directions in Psychological Science, 24*(1), 10–16. [doi:10.1177/0963721414550708](https://doi.org/10.1177/0963721414550708)
 - Brackett, M. A., Bailey, C. S., Hoffmann, J. D., & Simmons, D. N. (2019). RULER: A theory-driven, systemic approach to social, emotional, and academic learning. *Educational Psychologist, 54*(3), 144–161. [doi:10.1080/00461520.2019.1614447](https://doi.org/10.1080/00461520.2019.1614447)

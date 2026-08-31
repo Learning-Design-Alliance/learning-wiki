@@ -75,7 +75,7 @@ Progress monitoring operationalizes [Assessment for Learning](../principles/asse
 
 ## Key Sources
 - Fuchs, L. S., & Fuchs, D. (1986). Effects of systematic formative evaluation: A meta-analysis. *Exceptional Children, 53*(3), 199–208. [doi:10.1177/001440298605300301](https://doi.org/10.1177/001440298605300301)
-- Stecker, P. M., Fuchs, L. S., & Fuchs, D. (2005). Using curriculum-based measurement to improve student achievement: Review of research. *Exceptional Children, 71*(2), 205–220. [doi:10.1177/001440290507100203](https://doi.org/10.1177/001440290507100203)
+- Stecker, P. M., Fuchs, L. S., & Fuchs, D. (2005). Using curriculum-based measurement to improve student achievement: Review of research. *Exceptional Children, 71*(2), 205–220. [doi:10.1002/pits.20113](https://doi.org/10.1002/pits.20113)
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)
 - Deno, S. L. (1985). Curriculum-based measurement: The emerging alternative. *Exceptional Children, 52*(3), 219–232. [doi:10.1177/001440298505200303](https://doi.org/10.1177/001440298505200303)
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

@@ -82,7 +82,7 @@ Explicit phonics instruction is appropriate when word-level reading is the bottl
 - Spelling and proofreading practice tied to taught phonics patterns can reinforce transfer into writing
 
 ## Key Sources
-- Gray, S. H., Ehri, L. C., & Locke, J. L. (2018). Morpho-phonemic analysis boosts word reading for adult struggling readers. *Reading and Writing, 31*(1), 75-98. [doi:10.1007/s11145-017-9772-3](https://doi.org/10.1007/s11145-017-9772-3)
+- Gray, S. H., Ehri, L. C., & Locke, J. L. (2018). Morpho-phonemic analysis boosts word reading for adult struggling readers. *Reading and Writing, 31*(1), 75-98. [doi:10.1007/s11145-017-9774-9](https://doi.org/10.1007/s11145-017-9774-9)
 - Hock, M. F. (2012). Effective literacy instruction for adults with specific learning disabilities. *Journal of Learning Disabilities, 45*(1), 64-78. [doi:10.1177/0022219411426859](https://doi.org/10.1177/0022219411426859)
 - McShane, S. (2006). *Applying research in reading instruction for adults: First steps for teachers*.
 - Sticht, T. (2002). *Teaching reading with adults*.

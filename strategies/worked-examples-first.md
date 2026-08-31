@@ -79,6 +79,6 @@ For novices, unguided problem solving forces working memory to be spent on searc
 
 ## Key Sources
 - Sweller, J., & Cooper, G. A. (1985). The use of worked examples as a substitute for problem solving in learning algebra. *Cognition and Instruction, 2*(1), 59–89. [doi:10.1207/s1532690xci0201_3](https://doi.org/10.1207/s1532690xci0201_3)
-- Renkl, A. (2002). Learning from worked-out examples: Instructional explanations supplement self-explanations. *Journal of Educational Psychology, 94*(2), 392–400. [doi:10.1037/0022-0663.94.2.392](https://doi.org/10.1037/0022-0663.94.2.392)
+- Renkl, A. (2002). Learning from worked-out examples: Instructional explanations supplement self-explanations. *Journal of Educational Psychology, 94*(2), 392–400. [doi:10.1016/s0959-4752(01)00030-5](https://doi.org/10.1016/s0959-4752(01)00030-5)
 - van Gog, T., & Rummel, N. (2010). Example-based learning: Integrating cognitive and social-cognitive research perspectives. *Educational Psychology Review, 22*(2), 155–174. [doi:10.1007/s10648-010-9134-7](https://doi.org/10.1007/s10648-010-9134-7)
 - Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23–31. [doi:10.1207/S15326985EP3801_4](https://doi.org/10.1207/S15326985EP3801_4)

@@ -79,7 +79,7 @@ Bilingual texts let multilingual learners access grade-level concepts through th
 
 ## Key Sources
 - Cummins, J. (1979). Linguistic interdependence and the educational development of bilingual children. *Review of Educational Research, 49*(2), 222–251. [doi:10.3102/00346543049002222](https://doi.org/10.3102/00346543049002222)
-- Francis, D. J., Lesaux, N., & Kieffer, M. (2006). Language and literacy in English language learners: Research findings. *Review of Educational Research, 76*(3), 367–417. [doi:10.3102/00346543076003367](https://doi.org/10.3102/00346543076003367)
+- Francis, D. J., Lesaux, N., & Kieffer, M. (2006). Language and literacy in English language learners: Research findings. *Review of Educational Research, 76*(3), 367–417. [doi:10.1037/e584762012-138](https://doi.org/10.1037/e584762012-138)
 - Roberts, T. A. (2008). Home storybook reading in primary or second language with preschool children: Evidence of equal effectiveness for second-language vocabulary acquisition. *Reading Research Quarterly, 43*(2), 103–130. [doi:10.1598/RRQ.43.2.1](https://doi.org/10.1598/RRQ.43.2.1)
 - August, D., & Shanahan, T. (Eds.). (2006). *Developing literacy in second-language learners: Report of the National Literacy Panel on Language-Minority Children and Youth.* Lawrence Erlbaum Associates. [doi:10.1080/10862960903340165](https://doi.org/10.1080/10862960903340165)
 - Goldenberg, C. (2008). Teaching English language learners: What the research does—and does not—say. *American Educator, 32*(2), 8–23.

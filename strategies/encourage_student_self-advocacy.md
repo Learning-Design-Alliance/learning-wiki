@@ -75,7 +75,7 @@ Self-advocacy is a component of self-determination, and interventions that build
 - **Anonymous backchannels** — a teacher uses a digital question queue (e.g., Google Forms or Padlet) so students can flag confusion without public exposure, then gradually transitions students to asking directly.
 
 ## Key Sources
-- Algozzine, B., Browder, D., Karvonen, M., Test, D. W., & Wood, W. M. (2001). Effects of interventions to promote self-determination for individuals with disabilities. *Review of Educational Research, 71*(2), 291–277. [doi:10.3102/00346543071002291](https://doi.org/10.3102/00346543071002291)
+- Algozzine, B., Browder, D., Karvonen, M., Test, D. W., & Wood, W. M. (2001). Effects of interventions to promote self-determination for individuals with disabilities. *Review of Educational Research, 71*(2), 291–277. [doi:10.3102/00346543071002219](https://doi.org/10.3102/00346543071002219)
 - Wehmeyer, M. L. (2005). Self-determination and individuals with severe disabilities: Re-examining meanings and misinterpretations. *Research and Practice for Persons with Severe Disabilities, 30*(3), 113–120. [doi:10.2511/rpsd.30.3.113](https://doi.org/10.2511/rpsd.30.3.113)
 - Van Reusen, A. K., Bos, C. S., Schumaker, J. B., & Deshler, D. D. (1994). *The Self-Advocacy Strategy for Education and Transition Planning*. Edge Enterprises.
 - Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78. [doi:10.1037/0003-066X.55.1.68](https://doi.org/10.1037/0003-066X.55.1.68)

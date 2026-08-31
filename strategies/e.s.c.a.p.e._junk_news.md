@@ -65,6 +65,6 @@ The strategy converts expert source-evaluation into a compact, memorable schema,
 
 ## Key Sources
 - Breakstone, J., Smith, M., Wineburg, S., Lester, A., Ortega, T., & Dreier, S. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8), 505–515. [doi:10.3102/0013189X211017495](https://doi.org/10.3102/0013189X211017495)
-- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(11), 1–40. [doi:10.1177/016146811912100402](https://doi.org/10.1177/016146811912100402)
+- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(11), 1–40. [doi:10.37016/mr-2020-56](https://doi.org/10.37016/mr-2020-56)
 - McGrew, S., Ortega, T., Breakstone, J., & Wineburg, S. (2017). The challenge that's bigger than fake news: Civic reasoning in a social media environment. *American Educator, 41*(3), 4–9.
 - Kahne, J., & Bowyer, B. (2019). Can media literacy education increase digital engagement in politics? *Learning, Media and Technology, 44*(2), 211–224. [doi:10.1080/17439884.2019.1601108](https://doi.org/10.1080/17439884.2019.1601108)

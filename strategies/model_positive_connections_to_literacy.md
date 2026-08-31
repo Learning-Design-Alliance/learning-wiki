@@ -66,7 +66,7 @@ The strategy works through social modeling: when a credible, valued adult visibl
 
 ## Key Sources
 - Bandura, A. (1977). Social learning theory. *Englewood Cliffs, NJ: Prentice Hall.*
-- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil, P. B. Mosenthal, P. D. Pearson, & R. Barr (Eds.), *Handbook of Reading Research, Vol. III* (pp. 403–422). Erlbaum.
+- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil, P. B. Mosenthal, P. D. Pearson, & R. Barr (Eds.), *Handbook of Reading Research, Vol. III* (pp. 403–422). Erlbaum. [doi:10.1108/978-1-60752-786-220251011](https://doi.org/10.1108/978-1-60752-786-220251011)
 - Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268. [doi:10.1207/s15327965pli1104_01](https://doi.org/10.1207/s15327965pli1104_01)
 - Cremin, T., Mottram, M., Collins, F., Powell, S., & Safford, K. (2014). *Building communities of engaged readers: Reading for pleasure.* Routledge.
 - Turner, J. C. (1995). The influence of classroom contexts on young children's motivation for literacy. *Reading Research Quarterly, 30*(3), 410–441. [doi:10.2307/747624](https://doi.org/10.2307/747624)

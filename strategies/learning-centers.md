@@ -72,4 +72,4 @@ Learning centers operationalize small-group, active participation at scale: inst
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)
 - Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268. [doi:10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)
 - Boushey, G., & Moser, J. (2006). *The Daily Five. Stenhouse Publishers.*
-- Pyle, A., & DeLuca, C. (2013). Assessment in the kindergarten classroom: An empirical study of teachers' assessment approaches. *Early Childhood Education Journal, 41*(5), 373–380. [doi:10.1007/s10643-013-0570-x](https://doi.org/10.1007/s10643-013-0570-x)
+- Pyle, A., & DeLuca, C. (2013). Assessment in the kindergarten classroom: An empirical study of teachers' assessment approaches. *Early Childhood Education Journal, 41*(5), 373–380. [doi:10.1007/s10643-012-0573-2](https://doi.org/10.1007/s10643-012-0573-2)

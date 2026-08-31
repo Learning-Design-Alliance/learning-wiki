@@ -65,6 +65,6 @@ Peer mediation operationalizes [Social Learning Theory](../theories/social-learn
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (1996). Conflict resolution and peer mediation programs in elementary and secondary schools: A review of the research. *Review of Educational Research, 66*(4), 459–506. [doi:10.3102/00346543066004459](https://doi.org/10.3102/00346543066004459)
-- Smith, S. W., Daunic, A. P., & Miller, M. D. (2002). Conflict resolution and peer mediation in schools: A review of the research. *Psychology in the Schools, 39*(1), 101–111. [doi:10.1002/pits.10035](https://doi.org/10.1002/pits.10035)
+- Smith, S. W., Daunic, A. P., & Miller, M. D. (2002). Conflict resolution and peer mediation in schools: A review of the research. *Psychology in the Schools, 39*(1), 101–111. [doi:10.1080/00224540209603919](https://doi.org/10.1080/00224540209603919)
 - Jones, T. S., & Kmitta, D. (Eds.). (2000). *Does it work? The case for conflict resolution education in our nation's schools.* Conflict Resolution Education Network.
 - Bandura, A. (1977). *Social learning theory.* Prentice Hall.

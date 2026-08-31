@@ -69,5 +69,5 @@ SLCs operationalize [Assessment for Learning](../principles/assessment-for-learn
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
 - Guskey, T. R., & Bailey, J. M. (2001). *Developing grading and reporting systems for student learning.* Corwin Press.
-- Firestone, W. A. (1996). Images of teaching and proposals for reform: A comparison of ideas from cognitive and organizational research. *Educational Administration Quarterly, 32*(2), 209–235. [doi:10.1177/0013161X96032002004](https://doi.org/10.1177/0013161X96032002004)
+- Firestone, W. A. (1996). Images of teaching and proposals for reform: A comparison of ideas from cognitive and organizational research. *Educational Administration Quarterly, 32*(2), 209–235. [doi:10.1177/0013161x96032002003](https://doi.org/10.1177/0013161x96032002003)
 

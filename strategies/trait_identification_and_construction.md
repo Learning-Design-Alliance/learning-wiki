@@ -71,7 +71,7 @@ Hands-on manipulation of concrete parts supports early science learning by letti
 - **FOSS Structures of Life module (grades 3–4):** [Lawrence Hall of Science, UC Berkeley](https://www.fossweb.com) — observation and comparison of organism structures using hands-on materials, enacting the same identify–compare–justify sequence at a larger scale.
 
 ## Key Sources
-- Stohr-Hunt, P. M. (1996). An analysis of frequency of hands-on experience and science achievement. *Journal of Research in Science Teaching, 33*(1), 101–109. [doi:10.1002/tea.3660330107](https://doi.org/10.1002/tea.3660330107)
+- Stohr-Hunt, P. M. (1996). An analysis of frequency of hands-on experience and science achievement. *Journal of Research in Science Teaching, 33*(1), 101–109. [doi:10.1002/(sici)1098-2736(199601)33:1<101::aid-tea6>3.0.co;2-z](https://doi.org/10.1002/(sici)1098-2736(199601)33:1<101::aid-tea6>3.0.co;2-z)
 - Klahr, D., & Nigam, M. (2004). The equivalence of learning paths in early science instruction: Effects of direct instruction and discovery learning. *Psychological Science, 15*(10), 661–667. [doi:10.1111/j.0956-7976.2004.00737.x](https://doi.org/10.1111/j.0956-7976.2004.00737.x)
 - Schwartz, D. L., & Bransford, J. D. (1998). A time for telling. *Cognition and Instruction, 16*(4), 475–522. [doi:10.1207/s1532690xci1604_4](https://doi.org/10.1207/s1532690xci1604_4)
 - National Research Council. (2012). *A Framework for K–12 Science Education: Practices, Crosscutting Concepts, and Core Ideas.* The National Academies Press. [doi:10.17226/13165](https://doi.org/10.17226/13165)

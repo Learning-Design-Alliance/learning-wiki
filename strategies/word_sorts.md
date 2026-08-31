@@ -68,7 +68,7 @@ Word sorts turn spelling and vocabulary instruction into guided [active learning
 
 ## Key Sources
 - Bear, D. R., Invernizzi, M., Templeton, S., & Johnston, F. (2016). *Words Their Way: Word Study for Phonics, Vocabulary, and Spelling Instruction* (7th ed.). Pearson.
-- Carlisle, J. F. (2000). Awareness of the structure and meaning of morphologically complex words: Impact on reading. *Scientific Studies of Reading, 4*(3), 219–246. [doi:10.1207/S1532799XSSR0403_3](https://doi.org/10.1207/S1532799XSSR0403_3)
+- Carlisle, J. F. (2000). Awareness of the structure and meaning of morphologically complex words: Impact on reading. *Scientific Studies of Reading, 4*(3), 219–246. [doi:10.1023/a:1008131926604](https://doi.org/10.1023/a:1008131926604)
 - Ehri, L. C. (2005). Learning to read words: Theory, findings, and issues. *Scientific Studies of Reading, 9*(2), 167–188. [doi:10.1207/s1532799xssr0902_4](https://doi.org/10.1207/s1532799xssr0902_4)
 - Henderson, E. H. (1990). *Teaching spelling*. Houghton Mifflin.
 - Zutell, J. (1996). The directed spelling thinking activity (DSTA): Providing an effective balance in word study instruction. *Reading & Writing Quarterly, 12*(1), 33–48. [doi:10.1080/1057356960120104](https://doi.org/10.1080/1057356960120104)

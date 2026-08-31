@@ -65,7 +65,7 @@ Data-informed problem framing improves the fit between interventions and local c
 - YPAR projects in which students survey peers and analyze school data to document issues such as restroom access or curriculum representation, then present findings to decision-makers.
 
 ## Key Sources
-- Coburn, C. E., & Turner, E. O. (2011). Research on data use: A critical analysis and future directions. *Educational Researcher, 40*(6), 258–270. [doi:10.3102/0013189X11425878](https://doi.org/10.3102/0013189X11425878)
+- Coburn, C. E., & Turner, E. O. (2011). Research on data use: A critical analysis and future directions. *Educational Researcher, 40*(6), 258–270. [doi:10.1080/15366367.2011.626729](https://doi.org/10.1080/15366367.2011.626729)
 - Bryk, A. S., Gomez, L. M., Grunow, A., & LeMahieu, P. G. (2015). *Learning to improve: How America's schools can get better at getting better.* Harvard Education Press.
 - Mandinach, E. B. (2012). A perfect time for data use: Using data-driven decision making to inform practice. *Educational Psychologist, 47*(2), 71–85. [doi:10.1080/00461520.2012.667064](https://doi.org/10.1080/00461520.2012.667064)
 - Earl, L., & Katz, S. (2006). *Leading schools in a data-rich world: Harnessing data for school improvement.* Corwin Press.

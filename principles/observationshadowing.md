@@ -73,5 +73,5 @@ Observation and shadowing are useful because some aspects of expertise are easie
 
 ## Key Sources
 - Hendry, G. D., & Oliver, G. R. (2012). Seeing is believing: The benefits of peer observation. *Journal of University Teaching & Learning Practice, 9*(1).
-- Tenenberg, J. (2016). Learning through observing peers in practice. *Studies in Higher Education, 41*(4), 756-773. [https://doi.org/10.1080/03075079.2014.950955](https://doi.org/10.1080/03075079.2014.950955)
+- Tenenberg, J. (2016). Learning through observing peers in practice. *Studies in Higher Education, 41*(4), 756-773. [https://doi.org/10.1080/03075079.2014.950954](https://doi.org/10.1080/03075079.2014.950954)
 - Mader, F. H., Mader, D., & Alexander, E. C. (2017). Job shadowing experiences as a teaching tool: A new twist on a tried and true technique. *Atlantic Marketing Journal, 5*(3).

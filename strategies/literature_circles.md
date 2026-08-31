@@ -68,4 +68,4 @@ Literature circles combine [Collaborative Learning](../principles/collaborative-
 - Daniels, H. (2002). *Literature circles: Voice and choice in book clubs and reading groups* (2nd ed.). Stenhouse Publishers.
 - Klingner, J. K., Vaughn, S., & Schumm, J. S. (1998). Collaborative strategic reading during social studies in heterogeneous fourth-grade classrooms. *Journal of Educational Psychology, 90*(1), 3–24. [doi:10.1086/461914](https://doi.org/10.1086/461914)
 - Shelton-Strong, S. J. (2012). Literature circles in ELT. *ELT Journal, 66*(2), 214–223. [doi:10.1093/elt/ccr049](https://doi.org/10.1093/elt/ccr049)
-- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil et al. (Eds.), *Handbook of reading research* (Vol. 3, pp. 403–422). Erlbaum.
+- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil et al. (Eds.), *Handbook of reading research* (Vol. 3, pp. 403–422). Erlbaum. [doi:10.1108/978-1-60752-786-220251011](https://doi.org/10.1108/978-1-60752-786-220251011)

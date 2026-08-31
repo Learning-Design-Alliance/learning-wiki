@@ -73,7 +73,7 @@ Attention breaks operationalize self-monitoring of attention, a self-regulation 
 - A middle-school resource room implements self-monitoring of performance instead: students record problems completed at each cue, sidestepping the harder judgment of "was I attending?"
 
 ## Key Sources
-- Reid, R., Trout, A. L., & Schwartz, M. (2005). Self-regulation interventions for children with attention deficit/hyperactivity disorder. *Exceptional Children, 71*(4), 361–377. [doi:10.1177/001440290507100401](https://doi.org/10.1177/001440290507100401)
+- Reid, R., Trout, A. L., & Schwartz, M. (2005). Self-regulation interventions for children with attention deficit/hyperactivity disorder. *Exceptional Children, 71*(4), 361–377. [doi:10.17161/fec.v32i4.6773](https://doi.org/10.17161/fec.v32i4.6773)
 - Harris, K. R. (1986). Self-monitoring of attention versus self-monitoring of performance: Effects of accuracy and productivity. *Exceptional Children, 52*(6), 545–552.
 - Amato-Zech, N. A., Hoff, K. E., & Doepke, K. J. (2006). Increasing on-task behavior in the classroom: Extension of self-monitoring strategies. *Psychology in the Schools, 43*(2), 211–221. [doi:10.1002/pits.20137](https://doi.org/10.1002/pits.20137)
 - Graham-Day, K. J., Gardner, R., & Wolsey, M. D. (2010). Effects of a self-monitoring strategy on on-task behavior and academic productivity. *Beyond Behavior, 19*(2), 3–10.

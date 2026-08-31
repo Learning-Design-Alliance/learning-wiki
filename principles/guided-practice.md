@@ -82,6 +82,6 @@ Guided practice matters because early application is where misunderstanding beco
 
 ## Key Sources
 - National Research Council. (2012). *Improving adult literacy instruction: Supporting learning and motivation*. National Academies Press. [https://doi.org/10.17226/13468](https://doi.org/10.17226/13468)
-- Numrich, C., & Kennedy, A. S. (2017). Providing guided practice in discourse synthesis. *TESOL Journal, 8*(1), 28-43. [https://doi.org/10.1002/tesj.254](https://doi.org/10.1002/tesj.254)
+- Numrich, C., & Kennedy, A. S. (2017). Providing guided practice in discourse synthesis. *TESOL Journal, 8*(1), 28-43. [https://doi.org/10.1002/tesj.258](https://doi.org/10.1002/tesj.258)
 - Massengill, D. (2004). The impact of using guided reading to teach low-literate adults. *Journal of Adolescent & Adult Literacy, 47*(7), 588-602. [https://doi.org/10.1598/JAAL.47.7.5](https://doi.org/10.1598/JAAL.47.7.5)
 - Hua, Y., Morgan, B. S., Kaldenberg, E. R., & Goo, M. (2012). Cognitive strategy instruction for functional mathematical skill: Effects for young adults with intellectual disability. *Education and Training in Autism and Developmental Disabilities, 47*(3), 345-358.

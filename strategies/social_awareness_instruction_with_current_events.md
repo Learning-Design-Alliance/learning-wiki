@@ -70,5 +70,5 @@ Social awareness develops through guided practice, not exposure alone: structure
 ## Key Sources
 - Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development, 82*(1), 405–432. [doi:10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x)
 - Schonert-Reichl, K. A., & Lawlor, M. S. (2010). Mindfulness and social-emotional learning in the classroom. *Journal of Applied Developmental Psychology, 31*(6), 449–458.
-- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(10).
+- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(10). [doi:10.37016/mr-2020-56](https://doi.org/10.37016/mr-2020-56)
 - Hess, D. E., & McAvoy, P. (2015). *The Political Classroom: Evidence and Ethics in Democratic Education.* Routledge.

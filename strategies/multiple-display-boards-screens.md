@@ -67,5 +67,5 @@ Multiple displays support learning primarily by making collaboration and work-in
 ## Key Sources
 - Mayer, R. E. (2009). *Multimedia Learning* (2nd ed.). Cambridge University Press. [doi:10.1017/CBO9780511811678](https://doi.org/10.1017/CBO9780511811678)
 - Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the Science of Instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)
-- Rogers, Y., & Lindley, S. (2004). Collaborating around vertical and horizontal large interactive displays: Which way is best? *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems*, 1133–1136. [doi:10.1145/985692.985711](https://doi.org/10.1145/985692.985711)
+- Rogers, Y., & Lindley, S. (2004). Collaborating around vertical and horizontal large interactive displays: Which way is best? *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems*, 1133–1136. [doi:10.1016/j.intcom.2004.07.008](https://doi.org/10.1016/j.intcom.2004.07.008)
 - Dillenbourg, P., & Evans, M. (2011). Interactive tabletops in education. *International Journal of Computer-Supported Collaborative Learning, 6*(4), 491–514. [doi:10.1007/s11412-011-9127-7](https://doi.org/10.1007/s11412-011-9127-7)

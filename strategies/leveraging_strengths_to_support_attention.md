@@ -64,7 +64,7 @@ Attention is a limited resource that is allocated, not merely possessed; cues th
 - A high-school English class lets students choose their attention support from a menu (noise-reducing headphones, standing desk, check-in timer); choice itself raises task value and persistence [Task value increases motivation and engagement.](../claims/task-value-increases-motivation-and-engagement.md) [+M].
 
 ## Key Sources
-- Zentall, S. S. (2005). Theory- and evidence-based strategies for children with attention deficit hyperactivity disorder. *Emotional and Behavioural Difficulties, 10*(1), 21–37. [doi:10.1177/1363275205050776](https://doi.org/10.1177/1363275205050776)
+- Zentall, S. S. (2005). Theory- and evidence-based strategies for children with attention deficit hyperactivity disorder. *Emotional and Behavioural Difficulties, 10*(1), 21–37. [doi:10.1016/s1041-6080(02)00064-x](https://doi.org/10.1016/s1041-6080(02)00064-x)
 - Rose, D. H., & Meyer, A. (2002). *Teaching every student in the digital age: Universal Design for Learning.* ASCD.
 - Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/CBO9780511811678](https://doi.org/10.1017/CBO9780511811678)
 - Tomlinson, C. A. (2014). *The differentiated classroom: Responding to the needs of all learners* (2nd ed.). ASCD.

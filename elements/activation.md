@@ -68,7 +68,7 @@ Activation works because new knowledge is encoded in terms of what is already kn
 **[Merrill's First Principles of Instruction](https://www.mdpi.com/2076-3417/12/3/1107)** — Activation is the first principle: effective instruction "activates existing knowledge as a foundation for new knowledge" and, where none exists, provides experience that will.
 
 ## Key Sources
-- Bransford, J. D., & Johnson, M. K. (1972). Contextual prerequisites for understanding: Some investigations of comprehension and recall. *Journal of Verbal Learning and Verbal Behavior, 11*(6), 717–726. [doi:10.1016/S0022-5371(72)80011-8](https://doi.org/10.1016/S0022-5371(72)80011-8)
+- Bransford, J. D., & Johnson, M. K. (1972). Contextual prerequisites for understanding: Some investigations of comprehension and recall. *Journal of Verbal Learning and Verbal Behavior, 11*(6), 717–726. [doi:10.1016/s0022-5371(72)80006-9](https://doi.org/10.1016/s0022-5371(72)80006-9)
 - Ausubel, D. P. (1968). *Educational psychology: A cognitive view*. Holt, Rinehart & Winston.
 - Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43–59. [doi:10.1007/BF02505024](https://doi.org/10.1007/BF02505024)
 - Karpicke, J. D., & Blunt, J. R. (2011). Retrieval practice produces more learning than elaborative studying with concept mapping. *Science, 331*(6018), 772–775. [doi:10.1126/science.1199327](https://doi.org/10.1126/science.1199327)

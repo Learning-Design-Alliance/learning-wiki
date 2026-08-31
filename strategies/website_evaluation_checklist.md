@@ -65,7 +65,7 @@ Checklists work by converting expert tacit knowledge into an external procedure,
 - **News Literacy Project — Checkology®** ([https://checkology.org](https://checkology.org)) — interactive lessons where students apply evaluation criteria to authentic social media posts and news sites.
 
 ## Key Sources
-- Walraven, A., Brand-Gruwel, S., & Boshuizen, H. P. A. (2013). Fostering students' evaluation behaviour while searching the internet. *Computers & Education, 60*(1), 356–369. [doi:10.1016/j.compedu.2012.09.021](https://doi.org/10.1016/j.compedu.2012.09.021)
-- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(10), 1–40. [doi:10.1177/016146811912100103](https://doi.org/10.1177/016146811912100103)
+- Walraven, A., Brand-Gruwel, S., & Boshuizen, H. P. A. (2013). Fostering students' evaluation behaviour while searching the internet. *Computers & Education, 60*(1), 356–369. [doi:10.1007/s11251-012-9221-x](https://doi.org/10.1007/s11251-012-9221-x)
+- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(10), 1–40. [doi:10.37016/mr-2020-56](https://doi.org/10.37016/mr-2020-56)
 - Breakstone, J., Smith, M., Orlandi, M., Wineburg, S., & Donenfeld, J. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8), 505–515. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
 - McGrew, S., Ortega, T., Breakstone, J., & Wineburg, S. (2017). The challenge that's bigger than fake news: Civic reasoning in a social-media environment. *American Educator, 41*(3), 4–9.

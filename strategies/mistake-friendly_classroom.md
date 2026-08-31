@@ -69,4 +69,4 @@ Error tolerance changes what learners do with failure: instead of concealing or 
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)
 - Dweck, C. S. (2006). *Mindset: The new psychology of success*. Random House.
-- Tulis, M. (2013). Error management behavior in classrooms: Teachers' responses to student errors. *Journal of Educational Psychology, 105*(2), 275–289. [doi:10.1037/a0029703](https://doi.org/10.1037/a0029703)
+- Tulis, M. (2013). Error management behavior in classrooms: Teachers' responses to student errors. *Journal of Educational Psychology, 105*(2), 275–289. [doi:10.1016/j.tate.2013.02.003](https://doi.org/10.1016/j.tate.2013.02.003)

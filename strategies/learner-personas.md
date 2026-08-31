@@ -63,7 +63,7 @@ Personas improve design decisions by forcing explicit, testable assumptions abou
 - **Corporate L&D at IBM** — IBM's long-standing use of personas in product design has been extended to employee learning experiences, grounding platform decisions in role-based learner profiles.
 
 ## Key Sources
-- Miaskiewicz, T., & Kozar, K. A. (2011). Personas and user-centered design: A survey of designers' perceptions of personas in the design process. *Design Studies, 32*(5), 417–430. [doi:10.1016/j.destud.2011.03.002](https://doi.org/10.1016/j.destud.2011.03.002)
+- Miaskiewicz, T., & Kozar, K. A. (2011). Personas and user-centered design: A survey of designers' perceptions of personas in the design process. *Design Studies, 32*(5), 417–430. [doi:10.1016/j.destud.2011.03.003](https://doi.org/10.1016/j.destud.2011.03.003)
 - Pruitt, J., & Adlin, T. (2006). *The Persona Lifecycle: Keeping People in Mind Throughout Product Design*. Morgan Kaufmann.
 - Nielsen, L. (2019). *Personas – User Focused Design* (2nd ed.). Springer.
 - Chapman, C. N., & Milham, R. P. (2006). The personas' new clothes: Methodological and practical arguments against a popular method. *Proceedings of the Human Factors and Ergonomics Society 50th Annual Meeting*, 634–636.

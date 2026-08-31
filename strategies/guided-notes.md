@@ -65,7 +65,7 @@ Guided notes work by reducing the transcription burden of note-taking — learne
 - Large-enrollment university lectures commonly distribute partial-outline slides (e.g., via Top Hat or LMS handouts) with blanks for definitions and worked-example steps
 
 ## Key Sources
-- Austin, J. L., Lee, M. W., Thibeault, M. D., Carr, J. E., & Bailey, J. S. (2002). Effects of guided notes on university students' responding and recall of information. *Journal of Behavioral Education, 11*(4), 243–254. [doi:10.1023/A:1021160913909](https://doi.org/10.1023/A:1021160913909)
+- Austin, J. L., Lee, M. W., Thibeault, M. D., Carr, J. E., & Bailey, J. S. (2002). Effects of guided notes on university students' responding and recall of information. *Journal of Behavioral Education, 11*(4), 243–254. [doi:10.1023/a:1021110922552](https://doi.org/10.1023/a:1021110922552)
 - Konrad, M., Joseph, L. M., & Eveleigh, E. (2009). A meta-analytic review of guided notes. *Education and Treatment of Children, 32*(3), 421–444. [doi:10.1353/etc.0.0066](https://doi.org/10.1353/etc.0.0066)
-- Neef, N. A., McCord, B. E., & Ferreri, S. J. (2006). Effects of guided notes versus completed notes during lectures on college students' quiz accuracy. *Journal of Applied Behavior Analysis, 39*(1), 123–130. [doi:10.1901/jaba.2006.23-05](https://doi.org/10.1901/jaba.2006.23-05)
+- Neef, N. A., McCord, B. E., & Ferreri, S. J. (2006). Effects of guided notes versus completed notes during lectures on college students' quiz accuracy. *Journal of Applied Behavior Analysis, 39*(1), 123–130. [doi:10.1901/jaba.2006.94-04](https://doi.org/10.1901/jaba.2006.94-04)
 - Kiewra, K. A. (1989). A review of note-taking: The encoding-storage perspective. *Educational Psychology Review, 1*(2), 89–102. [doi:10.1007/BF01326640](https://doi.org/10.1007/BF01326640)

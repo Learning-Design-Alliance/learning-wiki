@@ -62,7 +62,7 @@ The strategy works because it grounds abstract ecological concepts in concrete, 
 - **Classroom terrarium projects** — learners assign functional roles to soil, rocks, and water, then verify predictions by observing changes over several weeks
 
 ## Key Sources
-- Eshach, H. (2006). Bridging in-school and out-of-school learning: Formal, non-formal, and informal education. *Journal of Science Education and Technology, 16*(2), 171–190. [doi:10.1007/s10956-006-9020-9](https://doi.org/10.1007/s10956-006-9020-9)
+- Eshach, H. (2006). Bridging in-school and out-of-school learning: Formal, non-formal, and informal education. *Journal of Science Education and Technology, 16*(2), 171–190. [doi:10.1007/s10956-006-9027-1](https://doi.org/10.1007/s10956-006-9027-1)
 - National Research Council. (2000). *How people learn: Brain, mind, experience, and school* (expanded ed.). National Academy Press.
 - Sobel, D. (2004). *Place-based education: Connecting classrooms and communities*. Orion Society.
 - Kolb, D. A. (1984). *Experiential learning: Experience as the source of learning and development*. Prentice Hall.

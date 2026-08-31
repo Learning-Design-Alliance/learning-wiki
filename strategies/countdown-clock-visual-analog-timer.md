@@ -78,6 +78,6 @@ Visual timers work by externalizing a quantity that working memory would otherwi
 
 ## Key Sources
 - Barkley, R. A., Koplowitz, S., Anderson, T., & McMurray, M. B. (1997). Sense of time in children with ADHD: Effects of duration, task, and medication. *Journal of the International Neuropsychological Society, 3*(4), 359–369.
-- Toplak, M. E., Dockstader, C., & Tannock, R. (2006). Temporal information processing in ADHD: Findings to date and new methods. *Neuroscience & Biobehavioral Reviews, 30*(5), 624–656. [doi:10.1016/j.neubiorev.2005.11.005](https://doi.org/10.1016/j.neubiorev.2005.11.005)
+- Toplak, M. E., Dockstader, C., & Tannock, R. (2006). Temporal information processing in ADHD: Findings to date and new methods. *Neuroscience & Biobehavioral Reviews, 30*(5), 624–656. [doi:10.1016/j.jneumeth.2005.09.018](https://doi.org/10.1016/j.jneumeth.2005.09.018)
 - Gureasko-Moore, S., DuPaul, G. J., & White, G. P. (2007). Self-management of classroom preparedness and homework: Effects on school functioning of adolescents with attention deficit hyperactivity disorder. *School Psychology Review, 36*(4), 647–664.
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

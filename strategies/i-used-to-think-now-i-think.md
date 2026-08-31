@@ -66,6 +66,6 @@ The routine operationalizes reflection as contrast: by forcing learners to juxta
 
 ## Key Sources
 - Ritchhart, R., Palmer, P., Church, M., & Tishman, S. (2011). *Making thinking visible: How to promote engagement, understanding, and independence for all learners*. Jossey-Bass.
-- Veenman, M. V. J., Van Hout-Wolters, B. H. A. M., & Afflerbach, P. (2006). Metacognition and learning: Conceptual and methodological considerations. *Metacognition and Learning, 1*(1), 3–14. [doi:10.1007/s11409-006-6825-4](https://doi.org/10.1007/s11409-006-6825-4)
+- Veenman, M. V. J., Van Hout-Wolters, B. H. A. M., & Afflerbach, P. (2006). Metacognition and learning: Conceptual and methodological considerations. *Metacognition and Learning, 1*(1), 3–14. [doi:10.1007/s11409-006-6893-0](https://doi.org/10.1007/s11409-006-6893-0)
 - Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)
 - Vosniadou, S. (Ed.). (2008). *International handbook of research on conceptual change*. Routledge. [doi:10.4324/9780203874813](https://doi.org/10.4324/9780203874813)

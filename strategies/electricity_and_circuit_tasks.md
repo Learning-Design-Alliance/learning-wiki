@@ -72,7 +72,7 @@ Hands-on circuit tasks support conceptual change because learners' intuitive mod
 - **FOSS Magnetism and Electricity module (Lawrence Hall of Science):** structured circuit-building investigations with prediction sheets for grades 3–5 ([https://www.fossweb.com](https://www.fossweb.com))
 
 ## Key Sources
-- Shepardson, D. P., & Moje, E. B. (1994). The nature of fourth graders' understandings of electric circuits. *Journal of Research in Science Teaching, 31*(6), 637–658. [doi:10.1002/tea.3660310605](https://doi.org/10.1002/tea.3660310605)
+- Shepardson, D. P., & Moje, E. B. (1994). The nature of fourth graders' understandings of electric circuits. *Journal of Research in Science Teaching, 31*(6), 637–658. [doi:10.1002/sce.3730780505](https://doi.org/10.1002/sce.3730780505)
 - Driver, R., Guesne, E., & Tiberghien, A. (Eds.). (1985). *Children's ideas in science*. Open University Press.
-- Osborne, R. (1983). Towards modifying children's ideas about electric current. *Research in Science & Technological Education, 1*(1), 73–82. [doi:10.1080/0263514830010109](https://doi.org/10.1080/0263514830010109)
+- Osborne, R. (1983). Towards modifying children's ideas about electric current. *Research in Science & Technological Education, 1*(1), 73–82. [doi:10.1080/0263514830010108](https://doi.org/10.1080/0263514830010108)
 - Duit, R., & Treagust, D. F. (1998). Learning in science: From behaviourism towards social constructivism and beyond. In B. J. Fraser & K. G. Tobin (Eds.), *International handbook of science education* (pp. 3–25). Kluwer.

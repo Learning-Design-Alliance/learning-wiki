@@ -65,7 +65,7 @@ Well-designed charts exploit the visual system's capacity for rapid pattern dete
 - **Budget bar charts in civics courses** — learners compare allocations across categories, then critique the scale choices for potential distortion.
 
 ## Key Sources
-- Cleveland, W. S., & McGill, R. (1984). Graphical perception: Theory, experimentation, and application to the development of graphical methods. *Journal of the American Statistical Association, 79*(387), 531–554. [doi:10.1080/01621459.1984.10477116](https://doi.org/10.1080/01621459.1984.10477116)
+- Cleveland, W. S., & McGill, R. (1984). Graphical perception: Theory, experimentation, and application to the development of graphical methods. *Journal of the American Statistical Association, 79*(387), 531–554. [doi:10.1080/01621459.1984.10478080](https://doi.org/10.1080/01621459.1984.10478080)
 - Shah, P., & Hoeffner, J. (2002). Review of graph comprehension research: Implications for instruction. *Educational Psychology Review, 14*(1), 47–69. [doi:10.1023/A:1013180410169](https://doi.org/10.1023/A:1013180410169)
 - Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/CBO9780511811678](https://doi.org/10.1017/CBO9780511811678)
 - Franconeri, S. L., Padilla, L. M., Shah, P., Zacks, J. M., & Hullman, J. (2021). The science of visual data communication: What works. *Psychological Science in the Public Interest, 22*(3), 110–161. [doi:10.1177/15291006211051956](https://doi.org/10.1177/15291006211051956)

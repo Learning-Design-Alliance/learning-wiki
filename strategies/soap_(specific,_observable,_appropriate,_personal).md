@@ -65,7 +65,7 @@ Self-monitoring is one of the most consistently supported self-regulation interv
 - Self-monitoring of performance in math fact fluency: students time themselves on a worksheet and record problems correct per minute, a variant that typically outperforms attention-only monitoring for academic outcomes.
 
 ## Key Sources
-- Reid, R., Trout, A. L., & Schwartz, M. (2005). Self-regulation interventions for children with attention deficit/hyperactivity disorder. *Psychological Bulletin, 131*(1), 35–56. [doi:10.1037/0033-2909.131.1.35](https://doi.org/10.1037/0033-2909.131.1.35)
+- Reid, R., Trout, A. L., & Schwartz, M. (2005). Self-regulation interventions for children with attention deficit/hyperactivity disorder. *Psychological Bulletin, 131*(1), 35–56. [doi:10.17161/fec.v32i4.6773](https://doi.org/10.17161/fec.v32i4.6773)
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
 - Bandura, A. (1977). *Social learning theory*. Prentice Hall.
 - Shapiro, E. S. (2011). *Behavioral assessment in schools: Theory, research, and clinical foundations* (2nd ed.). Guilford Press.

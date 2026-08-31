@@ -79,5 +79,5 @@ Standard-based regrouping operationalizes [Assessment for Learning](../principle
 - Slavin, R. E. (1987). Ability grouping and student achievement in elementary schools: A best-evidence synthesis. *Review of Educational Research, 57*(3), 293–336. [doi:10.3102/00346543057003293](https://doi.org/10.3102/00346543057003293)
 - Kulik, J. A., & Kulik, C.-L. C. (1992). Meta-analytic findings on grouping programs. *Gifted Child Quarterly, 36*(2), 73–77.
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)
-- Steenbergen-Hu, S., & Moon, S. M. (2013). The effects of acceleration on high-ability learners: A meta-analysis. *Gifted Child Quarterly, 57*(1), 4–21. [doi:10.1177/0016986212469256](https://doi.org/10.1177/0016986212469256)
+- Steenbergen-Hu, S., & Moon, S. M. (2013). The effects of acceleration on high-ability learners: A meta-analysis. *Gifted Child Quarterly, 57*(1), 4–21. [doi:10.1177/0016986210383155](https://doi.org/10.1177/0016986210383155)
 - Tomlinson, C. A. (2014). *The differentiated classroom: Responding to the needs of all learners* (2nd ed.). ASCD.

@@ -68,7 +68,7 @@ Blogging works because it combines generative writing, spaced practice, and auth
 - **Language-education blogging** — EFL/ESL classes using weekly reflective posts with peer comments; the setting where fluency and anxiety-reduction effects are best documented [Sun, 2010]
 
 ## Key Sources
-- Sun, Y.-C. (2010). Extensive writing in foreign-language classrooms: A blogging approach. *Innovations in Education and Teaching International, 47*(3), 327–339. [doi:10.1080/14703297.2010.498183](https://doi.org/10.1080/14703297.2010.498183)
+- Sun, Y.-C. (2010). Extensive writing in foreign-language classrooms: A blogging approach. *Innovations in Education and Teaching International, 47*(3), 327–339. [doi:10.1080/14703297.2010.498184](https://doi.org/10.1080/14703297.2010.498184)
 - Yang, S.-H. (2009). Using blogs to enhance critical reflection and community of practice. *Educational Technology & Society, 12*(4), 11–21.
 - Deng, L., & Yuen, A. H. K. (2011). Towards a framework for educational affordances of blogs. *Computers & Education, 56*(2), 441–451. [doi:10.1016/j.compedu.2010.09.005](https://doi.org/10.1016/j.compedu.2010.09.005)
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)

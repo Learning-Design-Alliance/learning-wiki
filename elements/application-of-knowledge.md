@@ -69,6 +69,6 @@ Application is where learning consolidates: retrieving and using knowledge in va
 
 ## Key Sources
 - Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43–59. [doi:10.1007/bf02505024](https://doi.org/10.1007/bf02505024)
-- Dochy, F., Segers, M., Van den Bossche, P., & Gijbels, D. (2003). Effects of problem-based learning: A meta-analysis. *Learning and Instruction, 13*(5), 533–568. [doi:10.1016/S0959-8022(02)00018-7](https://doi.org/10.1016/S0959-8022(02)00018-7)
+- Dochy, F., Segers, M., Van den Bossche, P., & Gijbels, D. (2003). Effects of problem-based learning: A meta-analysis. *Learning and Instruction, 13*(5), 533–568. [doi:10.1016/s0959-4752(02)00025-7](https://doi.org/10.1016/s0959-4752(02)00025-7)
 - Strobel, J., & van Barneveld, A. (2009). When is PBL more effective? A meta-synthesis of meta-analyses comparing PBL to conventional classrooms. *Interdisciplinary Journal of Problem-Based Learning, 3*(1), 44–58. [doi:10.7771/1541-5015.1046](https://doi.org/10.7771/1541-5015.1046)
 - Renkl, A. (2014). Toward an instructionally oriented theory of example-based learning. *Cognitive Science, 38*(1), 1–37. [doi:10.1111/cogs.12086](https://doi.org/10.1111/cogs.12086)

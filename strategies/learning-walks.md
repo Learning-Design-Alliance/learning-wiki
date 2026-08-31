@@ -67,6 +67,6 @@ Learning walks work because they make teaching practice observable and discussab
 
 ## Key Sources
 - City, E. A., Elmore, R. F., Fiarman, S. E., & Teitel, L. (2009). *Instructional rounds in education: A network approach to improving teaching and learning*. Harvard Education Press.
-- Kraft, M. A., & Blazar, D. (2017). Individualized coaching to improve teacher practice across grades and subjects: New experimental evidence. *Educational Policy, 31*(7), 1033–1068. [doi:10.3102/0895904816689177](https://doi.org/10.3102/0895904816689177)
+- Kraft, M. A., & Blazar, D. (2017). Individualized coaching to improve teacher practice across grades and subjects: New experimental evidence. *Educational Policy, 31*(7), 1033–1068. [doi:10.1177/0895904816631099](https://doi.org/10.1177/0895904816631099)
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
 - Lave, J., & Wenger, E. (1991). *Situated learning: Legitimate peripheral participation*. Cambridge University Press. [doi:10.2307/2804509](https://doi.org/10.2307/2804509)

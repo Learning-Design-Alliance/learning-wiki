@@ -62,7 +62,7 @@ Co-teaching works when it is a genuine instructional partnership rather than par
 - The [SIOP Model](https://www.cal.org/siop/) (Echevarría, Vogt, & Short) operationalizes this collaboration: co-teachers use its 30 features to plan lessons with integrated content and language objectives across K–12 settings.
 
 ## Key Sources
-- Murawski, W. W., & Swanson, H. L. (2001). A meta-analysis of co-teaching research: Where are the data? *The Journal of Special Education, 35*(3), 156–163. [doi:10.1177/002246690103500105](https://doi.org/10.1177/002246690103500105)
+- Murawski, W. W., & Swanson, H. L. (2001). A meta-analysis of co-teaching research: Where are the data? *The Journal of Special Education, 35*(3), 156–163. [doi:10.1177/074193250102200501](https://doi.org/10.1177/074193250102200501)
 - Scruggs, T. E., Mastropieri, M. A., & McDuffie, K. A. (2007). Co-teaching in inclusive classrooms: A metasynthesis of qualitative research. *Exceptional Children, 73*(4), 392–416.
 - Echevarría, J., Vogt, M., & Short, D. (2008). *Making content comprehensible for English learners: The SIOP Model* (3rd ed.). Pearson.
 - Friend, M., & Cook, L. (2013). *Interactions: Collaboration skills for school professionals* (7th ed.). Pearson.

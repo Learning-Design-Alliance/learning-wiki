@@ -68,7 +68,7 @@ Pattern recognition converts isolated facts into structured knowledge, reducing 
 - **Physics problem sorting** — students sort problems into categories by solution principle rather than topic, directly training deep-structure recognition [Chi et al., 1981].
 
 ## Key Sources
-- Chase, W. G., & Simon, H. A. (1973). Perception in chess. *Cognitive Psychology, 4*(1), 55–81. [doi:10.1016/0010-0285(73)90004-0](https://doi.org/10.1016/0010-0285(73)90004-0)
+- Chase, W. G., & Simon, H. A. (1973). Perception in chess. *Cognitive Psychology, 4*(1), 55–81. [doi:10.1016/0010-0285(73)90004-2](https://doi.org/10.1016/0010-0285(73)90004-2)
 - Chi, M. T. H., Feltovich, P. J., & Glaser, R. (1981). Categorization and representation of physics problems by experts and novices. *Cognitive Science, 5*(2), 121–152. [doi:10.1207/s15516709cog0502_2](https://doi.org/10.1207/s15516709cog0502_2)
 - Schwartz, D. L., & Bransford, J. D. (1998). A time for telling. *Cognition and Instruction, 16*(4), 475–522. [doi:10.1207/s1532690xci1604_4](https://doi.org/10.1207/s1532690xci1604_4)
 - Gobet, F., Lane, P. C. R., Croker, S., Cheng, P. C.-H., Jones, G., Oliver, I., & Pine, J. M. (2001). Chunking mechanisms in human learning. *Trends in Cognitive Sciences, 5*(6), 236–243. [doi:10.1007/978-1-4419-1428-6_1731)01662-4](https://doi.org/10.1007/978-1-4419-1428-6_1731)01662-4)

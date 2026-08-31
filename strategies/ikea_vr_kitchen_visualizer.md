@@ -71,7 +71,7 @@ The visualizer is a commercial instance of [Situated Learning](../theories/situa
 ## Key Sources
 - Makransky, G., Terkildsen, T. S., & Mayer, R. E. (2019). Adding immersive virtual reality to a science lab simulation causes more presence but less learning. *Learning and Instruction, 60*, 225–236. [doi:10.1111/jcal.12335](https://doi.org/10.1111/jcal.12335)
 - Makransky, G., & Mayer, R. E. (2022). Benefits of immersion and presence in virtual reality for learning. *Educational Psychology Review, 34*, 1583–1616. [doi:10.4324/9781003386131-13](https://doi.org/10.4324/9781003386131-13)
-- Wu, B., Yu, X., & Gu, X. (2020). Effectiveness of immersive virtual reality using head-mounted displays on learning performance: A meta-analysis. *Computers & Education, 148*, 103852. [doi:10.1016/j.compedu.2020.103852](https://doi.org/10.1016/j.compedu.2020.103852)
+- Wu, B., Yu, X., & Gu, X. (2020). Effectiveness of immersive virtual reality using head-mounted displays on learning performance: A meta-analysis. *Computers & Education, 148*, 103852. [doi:10.1111/bjet.13023](https://doi.org/10.1111/bjet.13023)
 - Lave, J., & Wenger, E. (1991). *Situated learning: Legitimate peripheral participation*. Cambridge University Press. [doi:10.2307/2804509](https://doi.org/10.2307/2804509)
 - Mayer, R. E. (2021). Evidence-based principles for how to design effective instructional videos. *Journal of Applied Research in Memory and Cognition, 10*(2), 229–240. [doi:10.1016/j.jarmac.2021.03.007](https://doi.org/10.1016/j.jarmac.2021.03.007)
 

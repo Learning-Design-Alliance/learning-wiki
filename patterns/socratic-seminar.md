@@ -107,4 +107,4 @@ The pattern works best when the prompt is open enough to sustain interpretation 
 
 ## Key Sources
 - Adler, M. J. (1982). *The Paideia proposal: An educational manifesto*. Macmillan.
-- Billings, L., & Fitzgerald, J. (2002). Dialogic discussion and the Paideia seminar. *American Educational Research Journal, 39*(4), 907-941. [https://doi.org/10.3102/00028312039004907](https://doi.org/10.3102/00028312039004907)
+- Billings, L., & Fitzgerald, J. (2002). Dialogic discussion and the Paideia seminar. *American Educational Research Journal, 39*(4), 907-941. [https://doi.org/10.3102/00028312039004905](https://doi.org/10.3102/00028312039004905)

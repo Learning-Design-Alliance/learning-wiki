@@ -64,5 +64,5 @@ AR's core learning advantage is spatial contiguity: instructions are presented a
 ## Key Sources
 - Azuma, R. T. (1997). A survey of augmented reality. *Presence: Teleoperators and Virtual Environments, 6*(4), 355–385. [doi:10.1162/pres.1997.6.4.355](https://doi.org/10.1162/pres.1997.6.4.355)
 - Wu, H.-K., Lee, S. W.-Y., Chang, H.-Y., & Liang, J.-C. (2013). Current status, opportunities and challenges of augmented reality in education. *Computers & Education, 62*, 41–49. [doi:10.1016/j.compedu.2012.10.024](https://doi.org/10.1016/j.compedu.2012.10.024)
-- Radu, I. (2014). Augmented reality in education: A meta-review and cross-media analysis. *Computers & Education, 73*, 1–11. [doi:10.1016/j.compedu.2014.02.007](https://doi.org/10.1016/j.compedu.2014.02.007)
+- Radu, I. (2014). Augmented reality in education: A meta-review and cross-media analysis. *Computers & Education, 73*, 1–11. [doi:10.1007/s00779-013-0747-y](https://doi.org/10.1007/s00779-013-0747-y)
 - Garzón, J., & Acevedo, J. (2019). Meta-analysis of the impact of augmented reality on students' learning gains. *Educational Research Review, 27*, 244–260. [doi:10.1016/j.edurev.2019.100303](https://doi.org/10.1016/j.edurev.2019.100303)

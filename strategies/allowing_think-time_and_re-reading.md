@@ -66,4 +66,4 @@ Extended wait-time after questions shifts classroom discourse from rapid recall 
 - Rowe, M. B. (1986). Wait time: Slowing down may be a way of speeding up! *Journal of Teacher Education, 37*(1), 43–50. [doi:10.1177/002248718603700110](https://doi.org/10.1177/002248718603700110)
 - Tobin, K. (1987). The role of wait time in higher cognitive level learning. *Review of Educational Research, 57*(1), 69–95. [doi:10.3102/00346543057001069](https://doi.org/10.3102/00346543057001069)
 - Samuels, S. J. (1979). The method of repeated readings. *The Reading Teacher, 32*(4), 403–408.
-- Rashotte, C. A., & Torgesen, J. K. (1985). Repeated reading and reading fluency in learning disabled children. *Reading Research Quarterly, 20*(2), 180–188. [doi:10.2307/747754](https://doi.org/10.2307/747754)
+- Rashotte, C. A., & Torgesen, J. K. (1985). Repeated reading and reading fluency in learning disabled children. *Reading Research Quarterly, 20*(2), 180–188. [doi:10.1598/rrq.20.2.4](https://doi.org/10.1598/rrq.20.2.4)

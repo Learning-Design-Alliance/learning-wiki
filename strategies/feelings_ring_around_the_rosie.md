@@ -68,6 +68,6 @@ The strategy pairs embodied, playful repetition with emotion labeling — a comb
 
 ## Key Sources
 - Denham, S. A. (2006). Social-emotional competence as support for school readiness: What is it and how do we assess it? *Early Education and Development, 17*(1), 57–89. [doi:10.1207/s15566935eed1701_4](https://doi.org/10.1207/s15566935eed1701_4)
-- Lindsey, E. W., & Colwell, M. J. (2013). Pretend and physical play: Links to preschoolers' affective social competence. *Merrill-Palmer Quarterly, 59*(3), 330–360.
+- Lindsey, E. W., & Colwell, M. J. (2013). Pretend and physical play: Links to preschoolers' affective social competence. *Merrill-Palmer Quarterly, 59*(3), 330–360. [doi:10.13110/merrpalmquar1982.59.3.0330](https://doi.org/10.13110/merrpalmquar1982.59.3.0330)
 - Bandura, A. (1977). *Social learning theory*. Prentice Hall.
 - Collaborative for Academic, Social, and Emotional Learning (CASEL). (2020). *CASEL's SEL framework*. [https://casel.org/casel-sel-framework/](https://casel.org/casel-sel-framework/)

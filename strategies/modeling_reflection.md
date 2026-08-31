@@ -66,6 +66,6 @@ Modeling works through observational learning: learners acquire not just procedu
 ## Key Sources
 - Schön, D. A. (1983). *The reflective practitioner: How professionals think in action.* Basic Books.
 - Lunenberg, M., Korthagen, F., & Swennen, A. (2007). The teacher educator as a role model. *Teaching and Teacher Education, 23*(5), 586–601. [doi:10.1016/j.tate.2006.11.001](https://doi.org/10.1016/j.tate.2006.11.001)
-- Ertmer, P. A., & Newby, T. J. (1996). The expert learner: Strategic, self-regulated, and reflective. *Instructional Science, 24*(1), 1–24. [doi:10.1007/BF00054612](https://doi.org/10.1007/BF00054612)
+- Ertmer, P. A., & Newby, T. J. (1996). The expert learner: Strategic, self-regulated, and reflective. *Instructional Science, 24*(1), 1–24. [doi:10.1007/bf00156001](https://doi.org/10.1007/bf00156001)
 - Bandura, A. (1977). *Social learning theory.* Prentice Hall.
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

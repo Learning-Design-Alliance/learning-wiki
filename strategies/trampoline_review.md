@@ -64,7 +64,7 @@ The learning benefit comes almost entirely from the retrieval component, not the
 
 ## Key Sources
 - Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/medu.12141](https://doi.org/10.1111/medu.12141)
-- Oppezzo, M., & Schwartz, D. L. (2007). Give your ideas some legs: The positive effect of walking on creative thinking. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 33*(3), 519–527. [doi:10.1037/0278-7393.33.3.519](https://doi.org/10.1037/0278-7393.33.3.519)
+- Oppezzo, M., & Schwartz, D. L. (2007). Give your ideas some legs: The positive effect of walking on creative thinking. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 33*(3), 519–527. [doi:10.1037/a0036577](https://doi.org/10.1037/a0036577)
 - Labban, J. D., & Etnier, J. L. (2011). Effects of acute exercise on long-term memory. *Research Quarterly for Exercise and Sport, 82*(4), 712–721.
 - Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2008). Learning styles: Concepts and evidence. *Psychological Science in the Public Interest, 9*(3), 105–119. [doi:10.1111/j.1539-6053.2009.01038.x](https://doi.org/10.1111/j.1539-6053.2009.01038.x)
 

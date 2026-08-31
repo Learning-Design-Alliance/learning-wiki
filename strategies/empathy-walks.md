@@ -67,5 +67,5 @@ Empathy walks operationalize perspective-taking, which reliably improves intergr
 ## Key Sources
 - Batson, C. D., Sager, K., Garst, E., Kang, M., Rubchinsky, K., & Dawson, K. (1997). Is empathy-induced helping due to self–other merging? *Journal of Personality and Social Psychology, 73*(3), 482–494. [doi:10.1037/0022-3514.73.3.495](https://doi.org/10.1037/0022-3514.73.3.495)
 - Todd, A. R., & Galinsky, A. D. (2014). Perspective-taking as a strategy for improving intergroup relations: Evidence, mechanisms, and qualifications. *Social and Personality Psychology Compass, 8*(7), 374–387. [doi:10.1111/spc3.12116](https://doi.org/10.1111/spc3.12116)
-- Kumagai, A. K. (2008). A conceptual framework for the use of illness narratives in medical education. *Academic Medicine, 83*(7), 653–658. [doi:10.1097/ACM.0b013e3181783817](https://doi.org/10.1097/ACM.0b013e3181783817)
+- Kumagai, A. K. (2008). A conceptual framework for the use of illness narratives in medical education. *Academic Medicine, 83*(7), 653–658. [doi:10.1097/acm.0b013e3181782e17](https://doi.org/10.1097/acm.0b013e3181782e17)
 - Kolb, D. A. (1984). *Experiential learning: Experience as the source of learning and development.* Prentice Hall.

@@ -67,7 +67,7 @@ Access to appealing, self-selected books is one of the strongest correlates of r
 - **Reading Reconsidered (Lemov, Driggs & Woolway, 2016)** — the "Plague of Independent Reading" chapter argues for curated, text-dependent independent reading rather than unstructured choice alone.
 
 ## Key Sources
-- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil et al. (Eds.), *Handbook of Reading Research, Vol. III* (pp. 403–422). Erlbaum.
+- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil et al. (Eds.), *Handbook of Reading Research, Vol. III* (pp. 403–422). Erlbaum. [doi:10.1108/978-1-60752-786-220251011](https://doi.org/10.1108/978-1-60752-786-220251011)
 - Krashen, S. D. (2004). *The Power of Reading: Insights from the Research* (2nd ed.). Libraries Unlimited.
 - Allington, R. L. (2012). *What Really Matters for Struggling Readers* (3rd ed.). Pearson.
 - Ladson-Billings, G. (1995). Toward a theory of culturally relevant pedagogy. *American Educational Research Journal, 32*(3), 465–491. [doi:10.3102/00028312032003465](https://doi.org/10.3102/00028312032003465)

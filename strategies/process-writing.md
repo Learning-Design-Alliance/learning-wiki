@@ -67,5 +67,5 @@ Process writing works because it externalizes and distributes the cognitive dema
 ## Key Sources
 - Hayes, J. R., & Flower, L. S. (1980). Identifying the organization of writing processes. In L. W. Gregg & E. R. Steinberg (Eds.), *Cognitive processes in writing* (pp. 3–30). Lawrence Erlbaum.
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
-- Graham, S., & Sandmel, D. (2011). The process writing approach: A meta-analysis. *The Journal of Educational Research, 104*(6), 396–407. [doi:10.1080/00220671003610897](https://doi.org/10.1080/00220671003610897)
+- Graham, S., & Sandmel, D. (2011). The process writing approach: A meta-analysis. *The Journal of Educational Research, 104*(6), 396–407. [doi:10.17763/haer.81.4.t2k0m13756113566](https://doi.org/10.17763/haer.81.4.t2k0m13756113566)
 - Kellogg, R. T. (2008). Training writing skill: A cognitive developmental perspective. In C. A. MacArthur, S. Graham, & J. Fitzgerald (Eds.), *Handbook of writing research* (pp. 178–192). Guilford Press. [doi:10.17239/jowr-2008.01.01.1](https://doi.org/10.17239/jowr-2008.01.01.1)

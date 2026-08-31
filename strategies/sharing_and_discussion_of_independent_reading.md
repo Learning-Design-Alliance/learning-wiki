@@ -77,7 +77,7 @@ Social interaction around text is a core driver of reading engagement and volume
 
 ## Key Sources
 - Guthrie, J. T., Wigfield, A., Barbosa, P., et al. (2004). Increasing reading comprehension and engagement through concept-oriented reading instruction. *Journal of Educational Psychology, 96*(3), 403–423. [doi:10.1037/0022-0663.96.3.403](https://doi.org/10.1037/0022-0663.96.3.403)
-- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil et al. (Eds.), *Handbook of Reading Research, Vol. III* (pp. 403–422). Erlbaum.
+- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil et al. (Eds.), *Handbook of Reading Research, Vol. III* (pp. 403–422). Erlbaum. [doi:10.1108/978-1-60752-786-220251011](https://doi.org/10.1108/978-1-60752-786-220251011)
 - Gambrell, L. B. (1996). Creating classroom cultures that foster reading motivation. *The Reading Teacher, 50*(1), 14–25.
 - Daniels, H. (2002). *Literature Circles: Voice and Choice in Book Clubs and Reading Groups* (2nd ed.). Stenhouse.
 - Chi, M. T. H., et al. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477. [doi:10.1207/s15516709cog1803_3](https://doi.org/10.1207/s15516709cog1803_3)

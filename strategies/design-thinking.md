@@ -67,5 +67,5 @@ Design Thinking situates learning in ill-structured, authentic problems, which s
 ## Key Sources
 - Dym, C. L., Agogino, A. M., Eris, O., Frey, D. D., & Leifer, L. J. (2005). Engineering design thinking, teaching, and learning. *Journal of Engineering Education, 94*(1), 103–120. [doi:10.1002/j.2168-9830.2005.tb00832.x](https://doi.org/10.1002/j.2168-9830.2005.tb00832.x)
 - Razzouk, R., & Shute, V. (2012). What is design thinking and why is it important? *Review of Educational Research, 82*(3), 330–348. [doi:10.3102/0034654312457429](https://doi.org/10.3102/0034654312457429)
-- Dorst, K. (2011). The core of 'design thinking' and its application. *Design Studies, 32*(6), 521–532. [doi:10.1016/j.destud.2011.04.002](https://doi.org/10.1016/j.destud.2011.04.002)
+- Dorst, K. (2011). The core of 'design thinking' and its application. *Design Studies, 32*(6), 521–532. [doi:10.1016/j.destud.2011.07.006](https://doi.org/10.1016/j.destud.2011.07.006)
 - Hmelo, C. E., Holton, D. L., & Kolodner, J. L. (2000). Designing to learn about complex systems. *Journal of the Learning Sciences, 9*(3), 247–298. [doi:10.1207/s15327809jls0903_2](https://doi.org/10.1207/s15327809jls0903_2)

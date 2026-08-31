@@ -72,6 +72,6 @@ The calm-down spot operationalizes self-regulation instruction by giving student
 
 ## Key Sources
 - Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development, 82*(1), 405–432. [doi:10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x)
-- McClelland, M. M., Cameron, C. E., Connor, C. M., Farris, C. L., Jewkes, A. M., & Morrison, F. J. (2007). Links between behavioral regulation and preschoolers' literacy, vocabulary, and math skills. *Developmental Psychology, 43*(4), 937–947. [doi:10.1037/0012-1649.43.4.937](https://doi.org/10.1037/0012-1649.43.4.937)
+- McClelland, M. M., Cameron, C. E., Connor, C. M., Farris, C. L., Jewkes, A. M., & Morrison, F. J. (2007). Links between behavioral regulation and preschoolers' literacy, vocabulary, and math skills. *Developmental Psychology, 43*(4), 937–947. [doi:10.1037/0012-1649.43.4.947](https://doi.org/10.1037/0012-1649.43.4.947)
 - Bailey, B. A. (2015). *Conscious Discipline: Building resilient classrooms*. Loving Guidance, Inc.
 - CASEL. (2020). *CASEL's SEL framework*. Collaborative for Academic, Social, and Emotional Learning. https://casel.org/casel-sel-framework/

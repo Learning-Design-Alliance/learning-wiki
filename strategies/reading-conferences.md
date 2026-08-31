@@ -68,5 +68,5 @@ Reading conferences operationalize individualized instruction within a workshop 
 - Atwell, N. (1987). *In the middle: Writing, reading, and learning with adolescents*. Boynton/Cook.
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
 - Calkins, L. M. (2001). *The art of teaching reading*. Addison-Wesley Longman.
-- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil et al. (Eds.), *Handbook of reading research* (Vol. 3, pp. 403–422). Erlbaum.
+- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil et al. (Eds.), *Handbook of reading research* (Vol. 3, pp. 403–422). Erlbaum. [doi:10.1108/978-1-60752-786-220251011](https://doi.org/10.1108/978-1-60752-786-220251011)
 - Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press.

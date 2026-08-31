@@ -63,6 +63,6 @@ Media multitasking during study reliably degrades comprehension and efficiency: 
 
 ## Key Sources
 - Sana, F., Weston, T., & Cepeda, N. J. (2013). Laptop multitasking hinders classroom learning for both users and nearby peers. *Computers & Education, 62*, 24–31. [doi:10.1016/j.compedu.2012.10.003](https://doi.org/10.1016/j.compedu.2012.10.003)
-- Rosen, L. D., Carrier, L. M., & Cheever, N. A. (2013). Facebook and texting made me do it: Media-induced task-switching while studying. *Computers & Education, 63*, 50–58. [doi:10.1016/j.compedu.2012.12.001](https://doi.org/10.1016/j.compedu.2012.12.001)
+- Rosen, L. D., Carrier, L. M., & Cheever, N. A. (2013). Facebook and texting made me do it: Media-induced task-switching while studying. *Computers & Education, 63*, 50–58. [doi:10.1016/j.chb.2012.12.001](https://doi.org/10.1016/j.chb.2012.12.001)
 - Ward, A. F., Duke, K., Gneezy, A., & Bos, M. W. (2017). Brain drain: The mere presence of one's own smartphone reduces available cognitive capacity. *Journal of the Association for Consumer Research, 2*(2), 140–154. [doi:10.1086/691462](https://doi.org/10.1086/691462)
 - Junco, R., & Cotten, S. R. (2012). No A 4 U: The relationship between multitasking and academic performance. *Computers & Education, 59*(2), 505–514. [doi:10.1016/j.compedu.2011.12.023](https://doi.org/10.1016/j.compedu.2011.12.023)

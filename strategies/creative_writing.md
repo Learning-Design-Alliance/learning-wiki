@@ -75,6 +75,6 @@ Creative writing forces generative processing: to write a coherent story, learne
 
 ## Key Sources
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
-- Graham, S., & Sandmel, D. (2011). The process writing approach: A meta-analysis. *Journal of Educational Research, 104*(6), 396–407. [doi:10.1080/00220671.2010.526925](https://doi.org/10.1080/00220671.2010.526925)
+- Graham, S., & Sandmel, D. (2011). The process writing approach: A meta-analysis. *Journal of Educational Research, 104*(6), 396–407. [doi:10.17763/haer.81.4.t2k0m13756113566](https://doi.org/10.17763/haer.81.4.t2k0m13756113566)
 - Bruning, R., & Horn, C. (2000). Developing motivation to write. *Educational Psychologist, 35*(1), 25–37. [doi:10.1207/S15326985EP3501_4](https://doi.org/10.1207/S15326985EP3501_4)
 - Wiley, J. (2006). Writing as a generative activity. In *The Science of Writing: Theories, Methods, Individual Differences, and Applications* (pp. 73–90). Erlbaum.

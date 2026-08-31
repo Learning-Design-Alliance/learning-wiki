@@ -65,7 +65,7 @@ Restorative questions operationalize the principle that learners internalize sel
 - **Community conferencing in Queensland, Australia** — Morrison's work on restorative practices in schools used the questions in conference settings following bullying and property incidents
 
 ## Key Sources
-- Evans, K., & Vaandering, D. (2016). The pedagogy of restorative justice in education: Reviewing what we know and how we know it. *Review of Research in Education, 40*(1), 311–342. [doi:10.3102/0091732X16674444](https://doi.org/10.3102/0091732X16674444)
+- Evans, K., & Vaandering, D. (2016). The pedagogy of restorative justice in education: Reviewing what we know and how we know it. *Review of Research in Education, 40*(1), 311–342. [doi:10.1080/00940771.2013.11461873](https://doi.org/10.1080/00940771.2013.11461873)
 - Sherman, L. W., & Strang, H. (2007). *Restorative justice: The evidence*. The Smith Institute.
 - Acosta, J., Chinman, M., Ebener, P., Malone, P. S., Phillips, A., & Wilks, A. (2019). Evaluation of a whole-school change intervention: Findings from a two-year cluster-randomized trial of the Restorative Practices Intervention. *Journal of Youth and Adolescence, 48*(5), 876–890. [doi:10.1007/s10964-019-01013-2](https://doi.org/10.1007/s10964-019-01013-2)
 - Morrison, B. (2007). *Restoring safe school communities: A whole school response to bullying, violence and alienation*. Springer.

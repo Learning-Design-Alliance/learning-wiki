@@ -66,6 +66,6 @@ Learner analysis operationalizes the core finding that learning is a function of
 ## Key Sources
 - Dick, W., Carey, L., & Carey, J. O. (2015). *The systematic design of instruction* (8th ed.). Pearson.
 - Keller, J. M. (1987). Development and use of the ARCS model of instructional design. *Journal of Instructional Development, 10*(3), 2–10. [doi:10.1007/BF02905780](https://doi.org/10.1007/BF02905780)
-- Tobias, S. (1994). Interest, prior knowledge, and learning. *Review of Educational Research, 64*(1), 63–93. [doi:10.3102/00346543064001063](https://doi.org/10.3102/00346543064001063)
+- Tobias, S. (1994). Interest, prior knowledge, and learning. *Review of Educational Research, 64*(1), 63–93. [doi:10.2307/1170745](https://doi.org/10.2307/1170745)
 - Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23–31. [doi:10.1207/S15326985EP3801_4](https://doi.org/10.1207/S15326985EP3801_4)
 - Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2008). Learning styles: Concepts and evidence. *Psychological Science in the Public Interest, 9*(3), 105–119. [doi:10.1111/j.1539-6053.2009.01038.x](https://doi.org/10.1111/j.1539-6053.2009.01038.x)

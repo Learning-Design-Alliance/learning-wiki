@@ -64,6 +64,6 @@ The technique operationalizes two well-supported ideas: that sustained attention
 
 ## Key Sources
 - Cirillo, F. (2018). *The Pomodoro Technique: The acclaimed time-management system*. Currency.
-- Biwer, F., Wiradhany, W., oude Egbrink, M., & de Bruin, A. (2023). Understanding effort regulation: Comparing 'Pomodoro' breaks and self-regulated breaks. *British Journal of Educational Psychology, 93*(S2), 353–367. [doi:10.1111/bjep.12493](https://doi.org/10.1111/bjep.12493)
+- Biwer, F., Wiradhany, W., oude Egbrink, M., & de Bruin, A. (2023). Understanding effort regulation: Comparing 'Pomodoro' breaks and self-regulated breaks. *British Journal of Educational Psychology, 93*(S2), 353–367. [doi:10.1111/bjep.12593](https://doi.org/10.1111/bjep.12593)
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
 - Ariga, A., & Lleras, A. (2011). Brief and rare mental "breaks" keep you focused: Deactivation and reactivation of task goals preempt vigilance decrements. *Cognition, 118*(3), 439–443. [doi:10.1016/j.cognition.2010.12.007](https://doi.org/10.1016/j.cognition.2010.12.007)

@@ -68,7 +68,7 @@ Argument construction supports learning because generating and defending a posit
 
 ## Key Sources
 - Toulmin, S. E. (2003). *The Uses of Argument* (Updated ed.). Cambridge University Press. [doi:10.1017/CBO9780511840005](https://doi.org/10.1017/CBO9780511840005)
-- Jonassen, D. H., & Kim, B. (2010). Arguing to learn and learning to argue: Design hints and justifications. *Educational Technology Research and Development, 58*(2), 171–190. [doi:10.1007/s11423-009-9143-x](https://doi.org/10.1007/s11423-009-9143-x)
+- Jonassen, D. H., & Kim, B. (2010). Arguing to learn and learning to argue: Design hints and justifications. *Educational Technology Research and Development, 58*(2), 171–190. [doi:10.1007/s11423-009-9143-8](https://doi.org/10.1007/s11423-009-9143-8)
 - Nussbaum, E. M. (2008). Collaborative discourse, argumentation, and learning: Preface and literature review. *Contemporary Educational Psychology, 33*(3), 345–359. [doi:10.1016/j.cedpsych.2008.06.001](https://doi.org/10.1016/j.cedpsych.2008.06.001)
 - Kuhn, D. (2010). Teaching and learning science as argument. *Science Education, 94*(5), 810–824. [doi:10.1002/sce.20395](https://doi.org/10.1002/sce.20395)
 - Andriessen, J. (2006). Arguing to learn. In R. K. Sawyer (Ed.), *The Cambridge Handbook of the Learning Sciences* (pp. 443–459). Cambridge University Press.

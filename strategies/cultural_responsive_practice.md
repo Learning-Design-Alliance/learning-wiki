@@ -70,4 +70,4 @@ Culturally responsive practice improves engagement and achievement when it conne
 - Gay, G. (2018). *Culturally responsive teaching: Theory, research, and practice* (3rd ed.). Teachers College Press.
 - Moll, L. C., Amanti, C., Neff, D., & Gonzalez, N. (1992). Funds of knowledge for teaching: Using a qualitative approach to connect homes and classrooms. *Theory Into Practice, 31*(2), 132–141. [doi:10.1080/00405849209543534](https://doi.org/10.1080/00405849209543534)
 - Hammond, Z. (2015). *Culturally responsive teaching and the brain*. Corwin.
-- Paris, D., & Alim, H. S. (2014). What are we seeking to sustain through culturally sustaining pedagogy? A loving critique forward. *Harvard Educational Review, 84*(1), 85–100. [doi:10.17763/haer.84.1.982l873421j70646](https://doi.org/10.17763/haer.84.1.982l873421j70646)
+- Paris, D., & Alim, H. S. (2014). What are we seeking to sustain through culturally sustaining pedagogy? A loving critique forward. *Harvard Educational Review, 84*(1), 85–100. [doi:10.17763/haer.84.1.982l873k2ht16m77](https://doi.org/10.17763/haer.84.1.982l873k2ht16m77)

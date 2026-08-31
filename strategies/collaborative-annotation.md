@@ -66,7 +66,7 @@ Collaborative annotation combines the generative processing of [Annotating](../p
 - **Code review in CS courses** — students annotate peers' code submissions line-by-line (e.g., via GitHub review comments), combining reading comprehension with critique practice.
 
 ## Key Sources
-- Zhu, E. (2006). Interaction and cognitive engagement: An analysis of four asynchronous online discussions. *Instructional Science, 34*(6), 451–480. [doi:10.1007/s11251-006-0004-2](https://doi.org/10.1007/s11251-006-0004-2)
+- Zhu, E. (2006). Interaction and cognitive engagement: An analysis of four asynchronous online discussions. *Instructional Science, 34*(6), 451–480. [doi:10.1007/s11251-006-0004-0](https://doi.org/10.1007/s11251-006-0004-0)
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)
 - Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)
 - Kalir, J. H., & Garcia, A. (2021). Annotation. *MIT Press Essential Knowledge Series.*

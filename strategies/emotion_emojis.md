@@ -68,7 +68,7 @@ Emotion emojis function as a structured [check-in](../principles/check-ins.md): 
 - An elementary classroom uses a magnetic emoji board by the door; students move their emoji on arrival, giving the teacher a quick scan of who may need a morning check-in.
 
 ## Key Sources
-- Lieberman, M. D., et al. (2007). Putting feelings into words: Affect labeling disrupts amygdala activity in response to affective stimuli. *Psychological Science, 18*(5), 421–428. [doi:10.1111/j.1467-9280.2007.01916.x](https://doi.org/10.1111/j.1467-9280.2007.01916.x)
+- Lieberman, M. D., et al. (2007). Putting feelings into words: Affect labeling disrupts amygdala activity in response to affective stimuli. *Psychological Science, 18*(5), 421–428. [doi:10.1177/1754073917742706](https://doi.org/10.1177/1754073917742706)
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
 - Brackett, M. A., Bailey, C. S., Hoffmann, J. D., & Simmons, D. N. (2019). RULER: A theory-driven, systemic approach to social, emotional, and academic learning. *Educational Psychologist, 54*(3), 144–161. [doi:10.1080/00461520.2019.1614447](https://doi.org/10.1080/00461520.2019.1614447)
 - CASEL. (2020). *CASEL's SEL framework*. Collaborative for Academic, Social, and Emotional Learning. https://casel.org/casel_selframework/

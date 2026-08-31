@@ -71,6 +71,6 @@ Familiar, repetitive tasks lower working memory and decision-making demands, fre
 ## Key Sources
 - Leekam, S. R., Prior, M. R., & Uljarevic, M. (2011). Restricted and repetitive behaviors in autism spectrum disorders: A review of research in the last decade. *Psychological Bulletin, 137*(4), 562–593. [doi:10.1037/a0023341](https://doi.org/10.1037/a0023341)
 - Flannery, K. B., & Horner, R. H. (1999). The relationship between predictability and problem behavior for students with severe disabilities. *Journal of Positive Behavior Interventions, 1*(4), 224–238.
-- Mesibov, G. B., Shea, V., & Schopler, E. (2005). *The TEACCH approach to autism spectrum disorders.* Springer.
+- Mesibov, G. B., Shea, V., & Schopler, E. (2005). *The TEACCH approach to autism spectrum disorders.* Springer. [doi:10.1037/e609582010-006](https://doi.org/10.1037/e609582010-006)
 - Sweller, J., van Merriënboer, J. J. G., & Paas, F. (2019). Cognitive architecture and instructional design: 20 years later. *Educational Psychology Review, 31*(2), 261–292. [doi:10.1007/s10648-019-09465-5](https://doi.org/10.1007/s10648-019-09465-5)
 

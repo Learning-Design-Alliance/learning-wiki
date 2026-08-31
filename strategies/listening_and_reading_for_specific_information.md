@@ -77,7 +77,7 @@ Selective attention to a stated purpose reduces the processing burden of full co
 - IELTS preparation courses train candidates to read questions first, predict the type of answer (number, name, date), and listen for paraphrase rather than exact wording.
 
 ## Key Sources
-- Vandergrift, L., & Tafaghodtari, M. H. (2010). Teaching L2 learners how to listen does make a difference: An empirical study. *Language Learning, 60*(2), 470–497. [doi:10.1111/j.1467-9922.2009.00552.x](https://doi.org/10.1111/j.1467-9922.2009.00552.x)
+- Vandergrift, L., & Tafaghodtari, M. H. (2010). Teaching L2 learners how to listen does make a difference: An empirical study. *Language Learning, 60*(2), 470–497. [doi:10.1111/j.1467-9922.2009.00559.x](https://doi.org/10.1111/j.1467-9922.2009.00559.x)
 - Field, J. (2008). *Listening in the Language Classroom*. Cambridge University Press.
 - Grabe, W. (2009). *Reading in a Second Language: Moving from Theory to Practice*. Cambridge University Press.
 - Nation, I. S. P. (2001). *Learning Vocabulary in Another Language*. Cambridge University Press. [doi:10.1017/cbo9781139524759](https://doi.org/10.1017/cbo9781139524759)

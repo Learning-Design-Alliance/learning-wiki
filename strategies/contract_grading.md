@@ -65,7 +65,7 @@ Contract grading works by making expectations explicit and giving learners contr
 
 ## Key Sources
 - Elbow, P. (1986). *Embracing contraries: Explorations in learning and teaching*. Oxford University Press.
-- Inoue, A. B. (2019). *Labor-based grading contracts: Building equity and inclusion in the compassionate writing classroom*. WAC Clearinghouse / University Press of Colorado. [doi:10.37514/PER-B.2019.0216](https://doi.org/10.37514/PER-B.2019.0216)
+- Inoue, A. B. (2019). *Labor-based grading contracts: Building equity and inclusion in the compassionate writing classroom*. WAC Clearinghouse / University Press of Colorado. [doi:10.37514/per-b.2019.0216.0](https://doi.org/10.37514/per-b.2019.0216.0)
 - Nilson, L. B. (2014). *Specifications grading: Restoring rigor, motivating students, and saving faculty time*. Stylus Publishing.
 - Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78. [doi:10.1037/0003-066X.55.1.68](https://doi.org/10.1037/0003-066X.55.1.68)
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)

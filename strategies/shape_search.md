@@ -79,5 +79,5 @@ Shape Search leverages the link between spatial perception and geometric reasoni
 ## Key Sources
 - Clements, D. H., & Battista, M. T. (1992). Geometry and spatial reasoning. In D. A. Grouws (Ed.), *Handbook of research on mathematics teaching and learning* (pp. 420–464). Macmillan.
 - Sarama, S., & Clements, D. H. (2009). *Early childhood mathematics education research: Learning trajectories for young children*. Routledge. [doi:10.4324/9780203883785](https://doi.org/10.4324/9780203883785)
-- Hannibal, M. A. Z. (1999). Young children's understanding of basic geometric relationships. *Journal for Research in Mathematics Education, 30*(2), 192–212. [doi:10.2307/749609](https://doi.org/10.2307/749609)
+- Hannibal, M. A. Z. (1999). Young children's understanding of basic geometric relationships. *Journal for Research in Mathematics Education, 30*(2), 192–212. [doi:10.5951/tcm.5.6.0353](https://doi.org/10.5951/tcm.5.6.0353)
 - Clements, D. H., Swaminathan, S., Hannibal, M. A. Z., & Sarama, J. (1999). Young children's concepts of shape. *Journal for Research in Mathematics Education, 30*(2), 192–212. [doi:10.2307/749610](https://doi.org/10.2307/749610)

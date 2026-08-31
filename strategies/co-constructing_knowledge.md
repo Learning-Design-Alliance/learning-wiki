@@ -67,7 +67,7 @@ Co-construction leverages the social nature of cognition: articulating ideas to 
 
 ## Key Sources
 - Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press.
-- Scardamalia, M., & Bereiter, C. (2006). Knowledge building: Theory, pedagogy, and technology. In R. K. Sawyer (Ed.), *The Cambridge handbook of the learning sciences* (pp. 97–118). Cambridge University Press. [doi:10.1017/CBO9780511816833.004](https://doi.org/10.1017/CBO9780511816833.004)
+- Scardamalia, M., & Bereiter, C. (2006). Knowledge building: Theory, pedagogy, and technology. In R. K. Sawyer (Ed.), *The Cambridge handbook of the learning sciences* (pp. 97–118). Cambridge University Press. [doi:10.1017/cbo9780511816833.008](https://doi.org/10.1017/cbo9780511816833.008)
 - Mercer, N. (2000). *Words and minds: How we use language to think together*. Routledge.
 - Crouch, C. H., & Mazur, E. (2001). Peer instruction: Ten years of experience and results. *American Journal of Physics, 69*(9), 970–977. [doi:10.1119/1.1374249](https://doi.org/10.1119/1.1374249)
 - Howe, C., & Mercer, N. (2007). Children's social development, peer interaction and classroom learning. *Cambridge Primary Review Research Survey 2/1*. University of Cambridge.

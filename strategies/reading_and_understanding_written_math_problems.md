@@ -68,7 +68,7 @@ Word-problem failure is often a comprehension failure rather than an arithmetic 
 
 ## Key Sources
 - Kintsch, W., & Greeno, J. G. (1985). Understanding and solving word arithmetic problems. *Psychological Review, 92*(1), 109–129. [doi:10.1037/0033-295X.92.1.109](https://doi.org/10.1037/0033-295X.92.1.109)
-- Cummins, D. D., Kintsch, W., Reusser, K., & Weimer, R. (1988). The role of understanding in solving word problems. *Cognitive and Instruction, 5*(1), 1–38. [doi:10.1207/s1532690xci0501_1](https://doi.org/10.1207/s1532690xci0501_1)
+- Cummins, D. D., Kintsch, W., Reusser, K., & Weimer, R. (1988). The role of understanding in solving word problems. *Cognitive and Instruction, 5*(1), 1–38. [doi:10.1016/0010-0285(88)90011-4](https://doi.org/10.1016/0010-0285(88)90011-4)
 - Hegarty, M., Mayer, R. E., & Monk, C. A. (1995). Comprehension of arithmetic word problems: A comparison of successful and unsuccessful problem solvers. *Journal of Educational Psychology, 87*(1), 18–32. [doi:10.1037/0022-0663.87.1.18](https://doi.org/10.1037/0022-0663.87.1.18)
 - Carpenter, T. P., Fennema, E., Franke, M. L., Levi, L., & Empson, S. B. (1999). *Children's mathematics: Cognitively Guided Instruction.* Heinemann.
 - Jitendra, A. K., et al. (2007). A comparison of single and multiple strategy instruction on third-grade students' mathematical problem solving. *Journal of Educational Psychology, 99*(1), 115–127. [doi:10.1037/0022-0663.99.1.115](https://doi.org/10.1037/0022-0663.99.1.115)

@@ -79,7 +79,7 @@ AR's learning benefit comes primarily from externalizing abstract or spatially c
 - **AR-enhanced textbooks**: scanning a page triggers narrated explanations or 3D models, functioning as an on-demand [demonstration](../elements/demonstration.md) layer over static text [Wu et al., 2013](https://doi.org/10.1016/j.compedu.2012.11.012).
 
 ## Key Sources
-- Radu, I. (2014). Augmented reality in education: A meta-review and cross-media analysis. *Personal and Ubiquitous Computing, 18*(6), 1533–1543. [doi:10.1007/s00779-014-0747-y](https://doi.org/10.1007/s00779-014-0747-y)
+- Radu, I. (2014). Augmented reality in education: A meta-review and cross-media analysis. *Personal and Ubiquitous Computing, 18*(6), 1533–1543. [doi:10.1007/s00779-013-0747-y](https://doi.org/10.1007/s00779-013-0747-y)
 - Wu, H.-K., Lee, S. W.-Y., Chang, H.-Y., & Liang, J.-C. (2013). Current status, opportunities and challenges of augmented reality in education. *Computers & Education, 62*, 41–49. [doi:10.1016/j.compedu.2012.10.024](https://doi.org/10.1016/j.compedu.2012.10.024)
 - Akçayır, M., & Akçayır, G. (2017). Advantages and challenges associated with augmented reality for education: A systematic review of the literature. *Computers & Education, 114*, 506–527. [doi:10.1016/j.compedu.2016.10.011](https://doi.org/10.1016/j.compedu.2016.10.011)
 - Garzón, J., & Acevedo, J. (2019). Meta-analysis of the impact of augmented reality on students' learning gains. *Educational Research Review, 27*, 244–260. [doi:10.1016/j.edurev.2019.04.001](https://doi.org/10.1016/j.edurev.2019.04.001)

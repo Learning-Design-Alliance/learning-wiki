@@ -68,7 +68,7 @@ Student question generation increases engagement because it builds on authentic 
 
 ## Key Sources
 - Rothstein, D., & Santana, L. (2011). *Make just one change: Teach students to ask their own questions.* Harvard Education Press.
-- Chin, C., & Osborne, J. (2008). Students' questions: A potential resource for teaching and learning science. *Studies in Science Education, 44*(1), 1–39. [doi:10.1080/03057260808591649](https://doi.org/10.1080/03057260808591649)
+- Chin, C., & Osborne, J. (2008). Students' questions: A potential resource for teaching and learning science. *Studies in Science Education, 44*(1), 1–39. [doi:10.1080/03057260701828101](https://doi.org/10.1080/03057260701828101)
 - Ladson-Billings, G. (1995). Toward a theory of culturally relevant pedagogy. *American Educational Research Journal, 32*(3), 465–491. [doi:10.3102/00028312032003465](https://doi.org/10.3102/00028312032003465)
 - Engle, R. A., & Conant, F. R. (2002). Guiding principles for fostering productive disciplinary engagement: Explaining an emergent argument in a novice learning community. *Cognition and Instruction, 20*(4), 399–483. [doi:10.1207/s1532690xci2004_1](https://doi.org/10.1207/s1532690xci2004_1)
 - Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268. [doi:10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)

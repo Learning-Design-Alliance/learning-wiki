@@ -68,6 +68,6 @@ Portfolios operationalize process-oriented writing instruction, which meta-analy
 ## Key Sources
 - Butler, D. L., & Winne, P. H. (1995). Feedback and self-regulated learning: A theoretical synthesis. *Review of Educational Research, 65*(3), 245–281. [doi:10.3102/00346543065003245](https://doi.org/10.3102/00346543065003245)
 - Graham, S., & Perin, D. (2007). *Writing next: Effective strategies to improve writing of adolescents in middle and high schools.* Alliance for Excellent Education.
-- Graham, S., & Sandmel, D. (2011). The process writing approach: A meta-analysis. *Journal of Educational Research, 104*(6), 396–407.
+- Graham, S., & Sandmel, D. (2011). The process writing approach: A meta-analysis. *Journal of Educational Research, 104*(6), 396–407. [doi:10.17763/haer.81.4.t2k0m13756113566](https://doi.org/10.17763/haer.81.4.t2k0m13756113566)
 - Yancey, K. B. (1998). *Reflection in the writing classroom.* Utah State University Press.
-- Zimmerman, B. J., & Kitsantas, A. (2007). A writer's discipline: The development of self-regulatory skill. *Journal of Educational Psychology, 99*(2), 297–309. [doi:10.1037/0022-0663.99.2.297](https://doi.org/10.1037/0022-0663.99.2.297)
+- Zimmerman, B. J., & Kitsantas, A. (2007). A writer's discipline: The development of self-regulatory skill. *Journal of Educational Psychology, 99*(2), 297–309. [doi:10.1163/9781849508216_005](https://doi.org/10.1163/9781849508216_005)

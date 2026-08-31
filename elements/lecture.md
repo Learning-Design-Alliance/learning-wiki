@@ -72,4 +72,4 @@ Lectures are effective for introducing frameworks, modeling expert thinking, and
 - Bligh, D. A. (2000). *What's the Use of Lectures?* (2nd ed.). Jossey-Bass.
 - Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., Jordt, H., & Wenderoth, M. P. (2014). Active learning increases student performance in science, engineering, and mathematics. *PNAS, 111*(23), 8410–8415. [doi:10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)
 - Mayer, R. E., & Moreno, R. (2003). Nine ways to reduce cognitive load in multimedia learning. *Educational Psychologist, 38*(1), 43–52. [doi:10.1207/S15326985EP3801_6](https://doi.org/10.1207/S15326985EP3801_6)
-- Wilson, K., & Korn, J. H. (2007). Attention during lectures: Beyond ten minutes. *Teaching of Psychology, 34*(2), 85–89. [doi:10.1080/14703290701281146](https://doi.org/10.1080/14703290701281146)
+- Wilson, K., & Korn, J. H. (2007). Attention during lectures: Beyond ten minutes. *Teaching of Psychology, 34*(2), 85–89. [doi:10.1080/00986280701291291](https://doi.org/10.1080/00986280701291291)

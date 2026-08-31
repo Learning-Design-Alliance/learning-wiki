@@ -97,5 +97,5 @@ UDL shifts the design question from "how do we fix this learner?" to "how do we 
 
 ## Key Sources
 - Meyer, A., Rose, D. H., & Gordon, D. (2014). *Universal design for learning: Theory and practice*. CAST Professional Publishing. [https://udlguidelines.cast.org](https://udlguidelines.cast.org)
-- Capp, M. J. (2017). The effectiveness of universal design for learning: A meta-analysis of literature between 2013 and 2016. *Review of Educational Research, 87*(4), 899–916. [doi:10.3102/0034654316685135](https://doi.org/10.3102/0034654316685135)
+- Capp, M. J. (2017). The effectiveness of universal design for learning: A meta-analysis of literature between 2013 and 2016. *Review of Educational Research, 87*(4), 899–916. [doi:10.1080/13603116.2017.1325074](https://doi.org/10.1080/13603116.2017.1325074)
 - Rose, D. H., & Meyer, A. (2002). *Teaching every student in the digital age: Universal design for learning*. ASCD. [https://www.cast.org/products-teaching-every-student](https://www.cast.org/products-teaching-every-student)

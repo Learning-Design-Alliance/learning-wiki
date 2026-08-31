@@ -76,5 +76,5 @@ Pairing non-examples with examples strengthens learning because contrast makes c
 - **Procedure contrast**: Learners compare a correct sequence of steps with an incorrect or incomplete one.
 
 ## Key Sources
-- Barbieri, C. A., & Booth, J. L. (2020). Mistakes on display: Incorrect examples refine equation solving and algebraic feature knowledge. *Applied Cognitive Psychology, 34*(4), 862-878. [https://doi.org/10.1002/acp.3662](https://doi.org/10.1002/acp.3662)
-- Bowe, B. J. (2019). Separating real from fake: Building news literacy with the Frayer Model. *Communication Teacher, 33*(4), 246-252. [https://doi.org/10.1080/17404622.2019.1635700](https://doi.org/10.1080/17404622.2019.1635700)
+- Barbieri, C. A., & Booth, J. L. (2020). Mistakes on display: Incorrect examples refine equation solving and algebraic feature knowledge. *Applied Cognitive Psychology, 34*(4), 862-878. [https://doi.org/10.1002/acp.3663](https://doi.org/10.1002/acp.3663)
+- Bowe, B. J. (2019). Separating real from fake: Building news literacy with the Frayer Model. *Communication Teacher, 33*(4), 246-252. [https://doi.org/10.1080/17404622.2019.1575971](https://doi.org/10.1080/17404622.2019.1575971)

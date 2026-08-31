@@ -81,6 +81,6 @@ Fostering a growth mindset helps when the learning environment gives learners cr
 
 ## Key Sources
 - Dweck, C. S. (2006). *Mindset: The new psychology of success*. Ballantine Books.
-- Sarrasin, J. B., Nenciovici, L., Foisy, L. M. B., Allaire-Duquette, G., Riopel, M., & Masson, S. (2018). Effects of teaching the concept of neuroplasticity to induce a growth mindset on motivation, achievement, and brain activity: A meta-analysis. *Trends in Neuroscience and Education, 12*, 22-31. [https://doi.org/10.1016/j.tine.2018.07.004](https://doi.org/10.1016/j.tine.2018.07.004)
+- Sarrasin, J. B., Nenciovici, L., Foisy, L. M. B., Allaire-Duquette, G., Riopel, M., & Masson, S. (2018). Effects of teaching the concept of neuroplasticity to induce a growth mindset on motivation, achievement, and brain activity: A meta-analysis. *Trends in Neuroscience and Education, 12*, 22-31. [https://doi.org/10.1016/j.tine.2018.07.003](https://doi.org/10.1016/j.tine.2018.07.003)
 - Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., Schneider, B., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature, 573*(7774), 364-369. [https://doi.org/10.1038/s41586-019-1466-y](https://doi.org/10.1038/s41586-019-1466-y)
 - Claro, S., Paunesku, D., & Dweck, C. S. (2016). Growth mindset tempers the effects of poverty on academic achievement. *Proceedings of the National Academy of Sciences, 113*(31), 8664-8668. [https://doi.org/10.1073/pnas.1608207113](https://doi.org/10.1073/pnas.1608207113)

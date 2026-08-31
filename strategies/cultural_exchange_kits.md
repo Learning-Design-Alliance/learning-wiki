@@ -76,7 +76,7 @@ Cultural Exchange Kits are a form of identity-affirming, artifact-based learning
 
 ## Key Sources
 - Pettigrew, T. F., & Tropp, L. R. (2006). A meta-analytic test of intergroup contact theory. *Journal of Personality and Social Psychology, 90*(5), 751–783. [doi:10.1037/0022-3514.90.5.751](https://doi.org/10.1037/0022-3514.90.5.751)
-- Bigler, R. S., & Liben, L. S. (2007). Developmental intergroup theory: Explaining and reducing children's social stereotyping and prejudice. *Current Directions in Psychological Science, 16*(3), 162–166. [doi:10.1111/j.1467-8721.2007.00496.x](https://doi.org/10.1111/j.1467-8721.2007.00496.x)
+- Bigler, R. S., & Liben, L. S. (2007). Developmental intergroup theory: Explaining and reducing children's social stereotyping and prejudice. *Current Directions in Psychological Science, 16*(3), 162–166. [doi:10.1093/acprof:oso/9780199890712.003.0060](https://doi.org/10.1093/acprof:oso/9780199890712.003.0060)
 - Banks, J. A., & Banks, C. A. M. (Eds.). (2019). *Multicultural Education: Issues and Perspectives* (10th ed.). Wiley.
 - Byram, M. (1997). *Teaching and Assessing Intercultural Communicative Competence*. Multilingual Matters.
 - Cohen, E. G., & Lotan, R. A. (2014). *Designing Groupwork: Strategies for the Heterogeneous Classroom* (3rd ed.). Teachers College Press.

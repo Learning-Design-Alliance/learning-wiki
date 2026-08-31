@@ -66,5 +66,5 @@ Pre-teaching vocabulary reduces the extraneous cognitive load of decoding unfami
 ## Key Sources
 - Beck, I. L., McKeown, M. G., & Kucan, L. (2013). *Bringing words to life: Robust vocabulary instruction* (2nd ed.). Guilford Press.
 - Stahl, S. A., & Fairbanks, M. M. (1986). The effects of vocabulary instruction: A model-based meta-analysis. *Review of Educational Research, 56*(1), 72–110. [doi:10.3102/00346543056001072](https://doi.org/10.3102/00346543056001072)
-- Coyne, M. D., McCoach, D. B., & Kapp, S. (2007). Vocabulary intervention for kindergarten students: Comparing extended instruction to embedded instruction and incidental exposure. *Learning and Instruction, 17*(4), 401–417. [doi:10.1016/j.learninstruc.2007.02.006](https://doi.org/10.1016/j.learninstruc.2007.02.006)
+- Coyne, M. D., McCoach, D. B., & Kapp, S. (2007). Vocabulary intervention for kindergarten students: Comparing extended instruction to embedded instruction and incidental exposure. *Learning and Instruction, 17*(4), 401–417. [doi:10.2307/30035543](https://doi.org/10.2307/30035543)
 - Nagy, W., & Townsend, D. (2012). Words as tools: Learning academic vocabulary as language acquisition. *Reading Research Quarterly, 47*(1), 91–108. [doi:10.1002/RRQ.011](https://doi.org/10.1002/RRQ.011)

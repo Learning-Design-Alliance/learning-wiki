@@ -69,7 +69,7 @@ Audience analysis improves learning primarily by aligning instruction with learn
 **Writing-audience analysis in composition courses** — Students analyze a real reader (e.g., a policy brief for a named decision-maker) before drafting; authentic audience specification improves the quality of student writing [Authentic audiences improve student work.](../claims/authentic-audiences-improve-student-work.md) [+M]
 
 ## Key Sources
-- Tobias, S. (1994). Interest, prior knowledge, and learning. *Review of Educational Research, 64*(1), 39–54. [doi:10.3102/00346543064001039](https://doi.org/10.3102/00346543064001039)
+- Tobias, S. (1994). Interest, prior knowledge, and learning. *Review of Educational Research, 64*(1), 39–54. [doi:10.2307/1170745](https://doi.org/10.2307/1170745)
 - Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the Science of Instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)
 - Mayer, R. E. (2009). *Multimedia Learning* (2nd ed.). Cambridge University Press. [doi:10.1017/CBO9780511811678](https://doi.org/10.1017/CBO9780511811678)
 - Dick, W., Carey, L., & Carey, J. O. (2015). *The Systematic Design of Instruction* (8th ed.). Pearson.

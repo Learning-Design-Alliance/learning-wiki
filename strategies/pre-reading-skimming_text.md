@@ -66,7 +66,7 @@ Skimming works because it activates relevant prior knowledge and gives readers a
 
 ## Key Sources
 - Robinson, F. P. (1946). *Effective study*. Harper & Brothers.
-- Mayer, R. E. (2003). What causes individual differences in learning from text? *Educational Psychology Review, 15*(2), 191–210. [doi:10.1023/A:1023479314251](https://doi.org/10.1023/A:1023479314251)
+- Mayer, R. E. (2003). What causes individual differences in learning from text? *Educational Psychology Review, 15*(2), 191–210. [doi:10.1017/cbo9780511615801.012](https://doi.org/10.1017/cbo9780511615801.012)
 - Ausubel, D. P. (1960). The use of advance organizers in the learning and retention of meaningful verbal material. *Journal of Educational Psychology, 51*(5), 267–272. [doi:10.1037/h0046669](https://doi.org/10.1037/h0046669)
 - Palincsar, A. S., & Brown, A. L. (1984). Reciprocal teaching of comprehension-fostering and comprehension-monitoring activities. *Cognition and Instruction, 1*(2), 117–175. [doi:10.1207/s1532690xci0102_1](https://doi.org/10.1207/s1532690xci0102_1)
 - Pressley, M. (2002). *Reading instruction that works: The case for balanced teaching* (2nd ed.). Guilford Press.

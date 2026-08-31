@@ -67,6 +67,6 @@ YPAR is a form of [Community-Based Learning](../principles/community-based-learn
 
 ## Key Sources
 - Anyon, Y., Bender, K., Kennedy, H., Ditch, S., Whitfield, K., Fulton, A., Delgado, D., Haghighat, E., Meiklejohn, K., & McIntosh, K. (2018). A systematic review of youth participatory action research (YPAR) in the United States: Methodologies, youth outcomes, and future directions. *Health Education & Behavior, 45*(4), 465–478. [doi:10.1177/1090198118769357](https://doi.org/10.1177/1090198118769357)
-- Ozer, E. J. (2016). Youth-led participatory action research: Developmental and equity perspectives. *Advances in Child Development and Behavior, 50*, 189–207. [doi:10.1016/j.acdb.2015.11.006](https://doi.org/10.1016/j.acdb.2015.11.006)
+- Ozer, E. J. (2016). Youth-led participatory action research: Developmental and equity perspectives. *Advances in Child Development and Behavior, 50*, 189–207. [doi:10.1016/bs.acdb.2015.11.006](https://doi.org/10.1016/bs.acdb.2015.11.006)
 - Cammarota, J., & Fine, M. (Eds.). (2008). *Revolutionizing education: Youth participatory action research in motion*. Routledge.
 - Kirshner, B. (2015). *Youth activism in an era of education inequality*. NYU Press.

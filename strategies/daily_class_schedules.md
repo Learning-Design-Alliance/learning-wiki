@@ -67,6 +67,6 @@ Time on task is one of the most consistent correlates of achievement, but raw al
 
 ## Key Sources
 - Rosenshine, B. (2012). Principles of instruction: Research-based strategies that all teachers should know. *American Educator, 36*(1), 12–19.
-- Karweit, N., & Slavin, R. E. (1981). Measurement and modeling of time and learning. *American Educational Research Journal, 18*(3), 325–339. [doi:10.3102/00028312018003325](https://doi.org/10.3102/00028312018003325)
+- Karweit, N., & Slavin, R. E. (1981). Measurement and modeling of time and learning. *American Educational Research Journal, 18*(3), 325–339. [doi:10.3102/00028312018002157](https://doi.org/10.3102/00028312018002157)
 - Hillman, C. H., Erickson, K. I., & Kramer, A. F. (2008). Be smart, exercise your heart: Exercise effects on brain and cognition. *Nature Reviews Neuroscience, 9*(1), 58–65. [doi:10.1038/nrn2298](https://doi.org/10.1038/nrn2298)
 - Hattie, J. (2009). *Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement*. Routledge. [doi:10.4324/9780203887332](https://doi.org/10.4324/9780203887332)

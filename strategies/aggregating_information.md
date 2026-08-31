@@ -64,7 +64,7 @@ Aggregation turns discussion from a sequence of individual utterances into an ob
 - **Affinity mapping in design thinking** (Stanford d.school methods) — students cluster individually generated sticky notes into named themes, performing the aggregation themselves.
 
 ## Key Sources
-- Scardamalia, M., & Bereiter, C. (2006). Knowledge building: Theory, pedagogy, and technology. In R. K. Sawyer (Ed.), *The Cambridge Handbook of the Learning Sciences* (pp. 97–118). Cambridge University Press. [doi:10.1017/CBO9780511816833.011](https://doi.org/10.1017/CBO9780511816833.011)
+- Scardamalia, M., & Bereiter, C. (2006). Knowledge building: Theory, pedagogy, and technology. In R. K. Sawyer (Ed.), *The Cambridge Handbook of the Learning Sciences* (pp. 97–118). Cambridge University Press. [doi:10.1017/cbo9780511816833.008](https://doi.org/10.1017/cbo9780511816833.008)
 - Chi, M. T. H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219–243. [doi:10.1080/00461520.2014.965823](https://doi.org/10.1080/00461520.2014.965823)
 - Hewitt, J., & Scardamalia, M. (1998). Design principles for distributed knowledge building processes. *Educational Psychology Review, 10*(1), 75–96. [doi:10.1023/A:1022810231840](https://doi.org/10.1023/A:1022810231840)
 - Bonwell, C. C., & Eison, J. A. (1992). *Active learning: Creating excitement in the classroom* (ASHE-ERIC Higher Education Report No. 1). George Washington University.

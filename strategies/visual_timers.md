@@ -65,7 +65,7 @@ Visual timers convert an abstract, invisible quantity into a perceptually availa
 - A parent uses a sand timer to mark 10 minutes of tablet time; the visible running sand reduces end-of-activity disputes because the limit, not the parent, "decides" when time is up
 
 ## Key Sources
-- Mesibov, G. B., Shea, V., & Schopler, E. (2005). *The TEACCH approach to autism spectrum disorders*. Springer.
+- Mesibov, G. B., Shea, V., & Schopler, E. (2005). *The TEACCH approach to autism spectrum disorders*. Springer. [doi:10.1037/e609582010-006](https://doi.org/10.1037/e609582010-006)
 - Bryan, L. C., & Gast, D. L. (2000). Teaching on-task and on-schedule behaviors to high-functioning children with autism via picture activity schedules. *Journal of Autism and Developmental Disorders, 30*(6), 553–567. [doi:10.1023/a:1005687310346](https://doi.org/10.1023/a:1005687310346)
 - Cooper, J. O., Heron, T. E., & Heward, W. L. (2007). *Applied behavior analysis* (2nd ed.). Pearson.
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

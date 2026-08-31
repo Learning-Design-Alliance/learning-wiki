@@ -64,7 +64,7 @@ SIFT operationalizes the professional fact-checking practices documented by Wine
 - **Wikipedia's "about" pages as coverage checks** — learners use Wikipedia and Snopes as quick third-party coverage sources during the "Find better coverage" move.
 
 ## Key Sources
-- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(11), 1–40. [doi:10.1177/016146811912101102](https://doi.org/10.1177/016146811912101102)
+- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(11), 1–40. [doi:10.37016/mr-2020-56](https://doi.org/10.37016/mr-2020-56)
 - Breakstone, J., Smith, M., Wineburg, S., Wilson, A., Kahan, A., & Lin, T.-B. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8), 505–515. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
 - Caulfield, M. (2019). *SIFT: The four moves*. Hapgood. [https://hapgood.us/2019/06/19/sift-the-four-moves/](https://hapgood.us/2019/06/19/sift-the-four-moves/)
 - McGrew, S. (2020). Teaching during a fake news crisis: A model of lateral reading intervention. *Reading Research Quarterly, 55*(4), 679–697. [doi:10.1002/rrq.288](https://doi.org/10.1002/rrq.288)

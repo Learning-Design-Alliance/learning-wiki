@@ -63,6 +63,6 @@ Block play is a form of [Active Learning](../principles/active-learning.md) in w
 
 ## Key Sources
 - Casey, B. M., Andrews, N., Schindler, H., Kersh, J. E., Samper, A., & Copley, J. (2008). The development of spatial skills through interventions involving block building activities. *Cognition and Instruction, 26*(3), 269–309. [doi:10.1080/07370000802177177](https://doi.org/10.1080/07370000802177177)
-- Wolfgang, C. H., Stannard, L. L., & Jones, I. (2001). Block play performance among preschoolers as a predictor of later school achievement in mathematics. *Journal for Research in Mathematics Education, 32*(4), 408–426. [doi:10.2307/749700](https://doi.org/10.2307/749700)
+- Wolfgang, C. H., Stannard, L. L., & Jones, I. (2001). Block play performance among preschoolers as a predictor of later school achievement in mathematics. *Journal for Research in Mathematics Education, 32*(4), 408–426. [doi:10.1080/02568540109594958](https://doi.org/10.1080/02568540109594958)
 - Ginsburg, H. P., Lee, J. S., & Boyd, J. S. (2008). Mathematics education for young children: What it is and how to promote it. *Social Policy Report, 22*(1), 3–22.
 - Clements, D. H., & Sarama, J. (2009). *Learning and teaching early math: The learning trajectories approach*. Routledge. [doi:10.4324/9780203883389](https://doi.org/10.4324/9780203883389)

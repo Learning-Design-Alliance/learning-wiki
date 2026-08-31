@@ -66,5 +66,5 @@ Varied repetition works because it exploits dual coding and elaboration: present
 - Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/CBO9780511811678](https://doi.org/10.1017/CBO9780511811678)
 - Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the science of instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)
 - Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press.
-- Rohrer, D., & Taylor, K. (2006). The effects of overlearning and distributed practise on the retention and transfer of mathematics skills. *Applied Cognitive Psychology, 20*(9), 1209–1224. [doi:10.1002/acp.1247](https://doi.org/10.1002/acp.1247)
+- Rohrer, D., & Taylor, K. (2006). The effects of overlearning and distributed practise on the retention and transfer of mathematics skills. *Applied Cognitive Psychology, 20*(9), 1209–1224. [doi:10.1002/acp.1266](https://doi.org/10.1002/acp.1266)
 - Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin, 132*(3), 354–380. [doi:10.1037/0033-2909.132.3.354](https://doi.org/10.1037/0033-2909.132.3.354)

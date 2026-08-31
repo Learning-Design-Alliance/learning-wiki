@@ -64,6 +64,6 @@ Visual reading aids operate on the principle that decoding and visual tracking c
 
 ## Key Sources
 - Wilkins, A. J. (2003). Reading through colour: How coloured filters can reduce reading stress, perceptual distortion and reading rate. *Chichester: Wiley.*
-- Henderson, L. M., Tsogka, N., & Snowling, M. J. (2013). Questioning the benefits that coloured overlays and lenses have for reading: an individual study of reading achievement. *Vision Research, 72*, 17–28. [doi:10.1016/j.visres.2012.09.006](https://doi.org/10.1016/j.visres.2012.09.006)
+- Henderson, L. M., Tsogka, N., & Snowling, M. J. (2013). Questioning the benefits that coloured overlays and lenses have for reading: an individual study of reading achievement. *Vision Research, 72*, 17–28. [doi:10.1111/j.1471-3802.2012.01237.x](https://doi.org/10.1111/j.1471-3802.2012.01237.x)
 - Rayner, K. (1998). Eye movements in reading and information processing: 20 years of research. *Psychological Bulletin, 124*(3), 372–422. [doi:10.1037/0033-2909.124.3.372](https://doi.org/10.1037/0033-2909.124.3.372)
 - Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the Science of Instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)

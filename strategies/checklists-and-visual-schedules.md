@@ -71,8 +71,8 @@ Both tools reduce extraneous cognitive load by removing the need to hold a task 
 - **LMS progress checklists** — platforms like Canvas and Moodle display module-level checklists showing which assignments are complete, supporting self-paced course navigation.
 
 ## Key Sources
-- MacDuff, G. S., Krantz, P. J., & McClannahan, L. E. (1993). Teaching children with autism to use photographic activity schedules: Maintenance and generalization of complex response chains. *Journal of Applied Behavior Analysis, 26*(1), 77–97. [doi:10.1901/jaba.1993.26-77](https://doi.org/10.1901/jaba.1993.26-77)
+- MacDuff, G. S., Krantz, P. J., & McClannahan, L. E. (1993). Teaching children with autism to use photographic activity schedules: Maintenance and generalization of complex response chains. *Journal of Applied Behavior Analysis, 26*(1), 77–97. [doi:10.1901/jaba.1993.26-89](https://doi.org/10.1901/jaba.1993.26-89)
 - Dettmer, S., Simpson, R. L., Myles, B. S., & Ganz, J. B. (2000). The use of visual supports to facilitate transitions of students with autism. *Focus on Autism and Other Developmental Disabilities, 15*(3), 163–169. [doi:10.1177/108835760001500307](https://doi.org/10.1177/108835760001500307)
-- Mesibov, G. B., Shea, V., & Schopler, E. (2005). *The TEACCH approach to autism spectrum disorders*. Springer. [doi:10.1007/978-0-387-48692-6](https://doi.org/10.1007/978-0-387-48692-6)
+- Mesibov, G. B., Shea, V., & Schopler, E. (2005). *The TEACCH approach to autism spectrum disorders*. Springer. [doi:10.1037/e609582010-006](https://doi.org/10.1037/e609582010-006)
 - Haynes, A. B., Weiser, T. G., Berry, W. R., et al. (2009). A surgical safety checklist to reduce morbidity and mortality in a global population. *New England Journal of Medicine, 360*(5), 491–499. [doi:10.1056/NEJMsa0810119](https://doi.org/10.1056/NEJMsa0810119)
 - Gawande, A. (2009). *The checklist manifesto: How to get things right*. Metropolitan Books.

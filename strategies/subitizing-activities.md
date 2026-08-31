@@ -65,7 +65,7 @@ Subitizing activities convert a laborious counting procedure into an automatic p
 - **Rekenrek routines** in kindergarten classrooms — teachers flash the bead rack briefly and students name the quantity seen, then describe the chunks (e.g., "5 red and 3 white").
 
 ## Key Sources
-- Feigenson, L., Dehaene, S., & Spelke, E. (2004). Core systems of number. *Trends in Cognitive Sciences, 8*(7), 307–314. [doi:10.1016/j.tics.2004.07.008](https://doi.org/10.1016/j.tics.2004.07.008)
+- Feigenson, L., Dehaene, S., & Spelke, E. (2004). Core systems of number. *Trends in Cognitive Sciences, 8*(7), 307–314. [doi:10.1016/j.tics.2004.05.002](https://doi.org/10.1016/j.tics.2004.05.002)
 - Clements, D. H., & Sarama, J. (2021). *Learning and teaching early math: The learning trajectories approach* (4th ed.). Routledge. [doi:10.4324/9780203520574](https://doi.org/10.4324/9780203520574)
 - Kaufman, E. L., Lord, M. W., Reese, T. W., & Volkmann, J. (1949). The discrimination of visual number. *American Journal of Psychology, 62*(4), 498–525. [doi:10.2307/1418556](https://doi.org/10.2307/1418556)
 - Dehaene, S. (2011). *The number sense: How the mind creates mathematics* (2nd ed.). Oxford University Press.

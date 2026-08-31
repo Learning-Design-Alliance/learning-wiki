@@ -72,7 +72,7 @@ Grades function as feedback and as motivators, so their design has direct learni
 
 ## Key Sources
 - Feldman, J. (2019). *Grading for equity: What it is, why it matters, and how it can transform schools and classrooms.* Corwin.
-- Malouff, J. M., & Thorsteinson, T. J. (2016). Bias in grading: A meta-analysis of five decades of research. *Educational Research Review, 18*, 45–53. [doi:10.1016/j.edurev.2016.05.002](https://doi.org/10.1016/j.edurev.2016.05.002)
+- Malouff, J. M., & Thorsteinson, T. J. (2016). Bias in grading: A meta-analysis of five decades of research. *Educational Research Review, 18*, 45–53. [doi:10.1177/0004944116664618](https://doi.org/10.1177/0004944116664618)
 - Brookhart, S. M. (2013). *How to create and use rubrics for formative assessment and grading.* ASCD.
 - Guskey, T. R. (2011). Five obstacles to grading reform. *Educational Leadership, 69*(3), 16–21.
 - Wiliam, D. (2011). *Embedded formative assessment.* Solution Tree Press.

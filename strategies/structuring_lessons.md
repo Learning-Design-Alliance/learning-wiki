@@ -66,6 +66,6 @@ Structured lessons reduce extraneous cognitive load by making the organization o
 
 ## Key Sources
 - Rosenshine, B. (2012). Principles of instruction: Research-based strategies that all teachers should know. *American Educator, 36*(1), 12–19. [https://www.aft.org/sites/default/files/periodicals/Rosenshine.pdf](https://www.aft.org/sites/default/files/periodicals/Rosenshine.pdf)
-- Seidel, T., & Shavelson, R. J. (2007). Teaching effectiveness research in the past decade: The role of theory and research design in disentangling meta-analysis results. *Review of Educational Research, 77*(3), 454–499. [doi:10.3102/00346543073003453](https://doi.org/10.3102/00346543073003453)
+- Seidel, T., & Shavelson, R. J. (2007). Teaching effectiveness research in the past decade: The role of theory and research design in disentangling meta-analysis results. *Review of Educational Research, 77*(3), 454–499. [doi:10.3102/0034654307310317](https://doi.org/10.3102/0034654307310317)
 - Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during instruction does not work: An analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching. *Educational Psychologist, 41*(2), 75–86. [doi:10.1207/s15326985ep4102_1](https://doi.org/10.1207/s15326985ep4102_1)
 - Gagné, R. M., Briggs, L. J., & Wager, W. W. (1992). *Principles of instructional design* (4th ed.). Harcourt Brace Jovanovich.

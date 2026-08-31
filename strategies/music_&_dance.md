@@ -65,6 +65,6 @@ Music and movement are not decorative add-ons; their benefit comes from well-est
 
 ## Key Sources
 - Wallace, W. T. (1994). Memory for music: Effect of melody on recall of text. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 20*(6), 1471–1485. [doi:10.1037/0278-7393.20.6.1471](https://doi.org/10.1037/0278-7393.20.6.1471)
-- Kontra, C., Lyons, D. J., Fischer, S. M., & Beilock, S. L. (2012). Physical experience enhances science learning. *Psychological Science, 23*(6), 637–644. [doi:10.1177/0956797612439293](https://doi.org/10.1177/0956797612439293)
-- Dargue, N., Sweller, N., & Jones, M. P. (2019). When our hands help us understand: A meta-analysis of gesture effects. *Review of Educational Research, 89*(6), 845–884. [doi:10.3102/0034654319871349](https://doi.org/10.3102/0034654319871349)
+- Kontra, C., Lyons, D. J., Fischer, S. M., & Beilock, S. L. (2012). Physical experience enhances science learning. *Psychological Science, 23*(6), 637–644. [doi:10.1177/0956797615569355](https://doi.org/10.1177/0956797615569355)
+- Dargue, N., Sweller, N., & Jones, M. P. (2019). When our hands help us understand: A meta-analysis of gesture effects. *Review of Educational Research, 89*(6), 845–884. [doi:10.1037/bul0000202](https://doi.org/10.1037/bul0000202)
 - Mayer, R. E. (2021). *Multimedia Learning* (3rd ed.). Cambridge University Press. [doi:10.1017/9781316941355](https://doi.org/10.1017/9781316941355)

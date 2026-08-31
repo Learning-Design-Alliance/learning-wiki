@@ -66,6 +66,6 @@ Cold calling increases the proportion of students actively processing a question
 
 ## Key Sources
 - Dallimore, E. J., Hertenstein, J. H., & Platt, M. B. (2013). Impact of cold-calling on student learning. *Journal of Management Education, 37*(6), 747–774. [doi:10.1177/1052562912446067](https://doi.org/10.1177/1052562912446067)
-- Dallimore, E. J., Hertenstein, J. H., & Platt, M. B. (2009). Classroom participation and discussion effectiveness: Student-generated strategies. *Communication Education, 58*(1), 115–131. [doi:10.1080/03634520802443610](https://doi.org/10.1080/03634520802443610)
+- Dallimore, E. J., Hertenstein, J. H., & Platt, M. B. (2009). Classroom participation and discussion effectiveness: Student-generated strategies. *Communication Education, 58*(1), 115–131. [doi:10.1080/0363452032000135805](https://doi.org/10.1080/0363452032000135805)
 - Waugh, R. F., & Andrews, B. (2006). Positive and negative effects of learning objects in higher education. *Educational Psychology, 26*(6), 723–741. [doi:10.1080/01443410500391035](https://doi.org/10.1080/01443410500391035)
 - Rowe, M. B. (1986). Wait time: Slowing down may be a way of speeding up! *Journal of Teacher Education, 37*(1), 43–50. [doi:10.1177/002248718603700110](https://doi.org/10.1177/002248718603700110)

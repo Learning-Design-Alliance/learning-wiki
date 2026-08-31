@@ -67,7 +67,7 @@ Lighting is one of the most manipulable features of a physical learning space, a
 - **Tunable-white classroom lighting trials** — European school pilots (e.g., Philips/Signify lighting installations in Dutch and German schools) have tested programmable lighting scenes — "focus," "calm," "energy" — tied to lesson phases, with reported improvements in engagement, though controlled evidence remains limited [~W].
 
 ## Key Sources
-- Barrett, P., Davies, F., Zhang, Y., & Barrett, L. (2017). The holistic impact of classroom spaces on learning in specific subjects. *Environment and Behavior, 49*(4), 425–451. [doi:10.1177/0013916516681199](https://doi.org/10.1177/0013916516681199)
+- Barrett, P., Davies, F., Zhang, Y., & Barrett, L. (2017). The holistic impact of classroom spaces on learning in specific subjects. *Environment and Behavior, 49*(4), 425–451. [doi:10.1177/0013916516648735](https://doi.org/10.1177/0013916516648735)
 - Küller, R., & Lindsten, C. (1992). Health and behavior of children in classrooms with and without windows. *Lighting Research & Technology, 24*(3), 133–152.
 - Boyce, P. R. (2014). *Human Factors in Lighting* (3rd ed.). CRC Press.
 - Wargocki, P., & Wyon, D. P. (2017). Ten questions concerning thermal and indoor air quality effects on the performance of office work and schoolwork. *Building and Environment, 112*, 359–366. [doi:10.1016/j.buildenv.2016.11.020](https://doi.org/10.1016/j.buildenv.2016.11.020)

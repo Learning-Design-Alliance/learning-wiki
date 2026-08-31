@@ -84,4 +84,4 @@ Portfolio development converts assessment artifacts into objects of metacognitiv
 - Butler, D. L., & Winne, P. H. (1995). Feedback and self-regulated learning: A theoretical synthesis. *Review of Educational Research, 65*(3), 245–281. [doi:10.3102/00346543065003245](https://doi.org/10.3102/00346543065003245)
 - Barrett, H. C. (2007). Researching electronic portfolios and learner engagement: The REFLECT initiative. *Journal of Adolescent & Adult Literacy, 50*(6), 436–449. [doi:10.1598/JAAL.50.6.2](https://doi.org/10.1598/JAAL.50.6.2)
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
-- Boud, D. (2000). Sustainable assessment: Rethinking assessment for the learning society. *Studies in Continuing Education, 22*(2), 151–167. [doi:10.1080/713695714](https://doi.org/10.1080/713695714)
+- Boud, D. (2000). Sustainable assessment: Rethinking assessment for the learning society. *Studies in Continuing Education, 22*(2), 151–167. [doi:10.1080/713695728](https://doi.org/10.1080/713695728)

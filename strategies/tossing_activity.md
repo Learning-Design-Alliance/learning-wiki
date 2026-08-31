@@ -69,5 +69,5 @@ Movement-based activities can improve engagement and retention when the physical
 ## Key Sources
 - Kontra, C., Lyons, D. J., Fischer, S. M., & Beilock, S. L. (2015). Physical experience enhances science learning. *Psychological Science, 26*(6), 737–749. [doi:10.1177/0956797615569355](https://doi.org/10.1177/0956797615569355)
 - Toumpaniari, K., Loyens, S., Mavilidi, M.-F., & Paas, F. (2015). Preschool children's foreign language vocabulary learning by embodying words through physical activity and gesturing. *Educational Psychology Review, 27*(3), 445–456. [doi:10.1007/s10648-015-9316-4](https://doi.org/10.1007/s10648-015-9316-4)
-- Beilock, S. L., & Goldin-Meadow, S. (2010). Gesture changes thought by grounding it in action. *Psychological Science, 21*(11), 1605–1610. [doi:10.1177/0956797610389714](https://doi.org/10.1177/0956797610389714)
+- Beilock, S. L., & Goldin-Meadow, S. (2010). Gesture changes thought by grounding it in action. *Psychological Science, 21*(11), 1605–1610. [doi:10.1037/e520562012-295](https://doi.org/10.1037/e520562012-295)
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)

@@ -66,6 +66,6 @@ Calming movement breaks support self-regulation, which is a precondition for att
 
 ## Key Sources
 - Fedewa, A. L., & Ahn, S. (2011). The effects of physical activity and physical fitness on children's achievement and cognitive outcomes: A meta-analysis. *Research Quarterly for Exercise and Sport, 82*(3), 521–535. [doi:10.1080/02701367.2011.10599785](https://doi.org/10.1080/02701367.2011.10599785)
-- Pfeiffer, B., Clark, G. F., & Arbesman, M. (2018). Effectiveness of cognitive and occupation-based interventions for children with challenges in sensory processing and integration: A systematic review. *American Journal of Occupational Therapy, 72*(1). [doi:10.5014/ajot.2018.028283](https://doi.org/10.5014/ajot.2018.028283)
+- Pfeiffer, B., Clark, G. F., & Arbesman, M. (2018). Effectiveness of cognitive and occupation-based interventions for children with challenges in sensory processing and integration: A systematic review. *American Journal of Occupational Therapy, 72*(1). [doi:10.5014/ajot.2018.028233](https://doi.org/10.5014/ajot.2018.028233)
 - Donnelly, J. E., & Lambourne, K. (2011). Classroom-based physical activity, cognition, and academic achievement. *Preventive Medicine, 52*(Suppl.), S36–S42. [doi:10.1016/j.ypmed.2011.01.021](https://doi.org/10.1016/j.ypmed.2011.01.021)
 - Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78. [doi:10.1037/0003-066X.55.1.68](https://doi.org/10.1037/0003-066X.55.1.68)

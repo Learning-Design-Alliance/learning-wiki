@@ -66,6 +66,6 @@ Activation works because new knowledge is stored in relation to existing knowled
 
 ## Key Sources
 - Ausubel, D. P. (1968). *Educational psychology: A cognitive view*. Holt, Rinehart & Winston.
-- Bransford, J. D., & Johnson, M. K. (1972). Contextual prerequisites for understanding: Some investigations of comprehension and recall. *Journal of Verbal Learning and Verbal Behavior, 11*(6), 717–726. [doi:10.1016/S0022-5371(72)80029-8](https://doi.org/10.1016/S0022-5371(72)80029-8)
-- Simonsmeier, B. A., Flaig, M., Deiglmayr, A., Schalk, L., & Schneider, M. (2020). Prior knowledge activation in learning: A meta-analysis. *Educational Psychology Review, 32*, 771–803. [doi:10.1007/s10648-020-09546-x](https://doi.org/10.1007/s10648-020-09546-x)
+- Bransford, J. D., & Johnson, M. K. (1972). Contextual prerequisites for understanding: Some investigations of comprehension and recall. *Journal of Verbal Learning and Verbal Behavior, 11*(6), 717–726. [doi:10.1016/s0022-5371(72)80006-9](https://doi.org/10.1016/s0022-5371(72)80006-9)
+- Simonsmeier, B. A., Flaig, M., Deiglmayr, A., Schalk, L., & Schneider, M. (2020). Prior knowledge activation in learning: A meta-analysis. *Educational Psychology Review, 32*, 771–803. [doi:10.1080/00461520.2021.1939700](https://doi.org/10.1080/00461520.2021.1939700)
 - Pressley, M., Wood, E., Woloshyn, V. E., Martin, V., King, A., & Menke, D. (1992). Encouraging mindful use of prior knowledge: Attempting to construct explanatory answers facilitates learning. *Educational Psychologist, 27*(1), 91–109. [doi:10.1207/s15326985ep2701_7](https://doi.org/10.1207/s15326985ep2701_7)

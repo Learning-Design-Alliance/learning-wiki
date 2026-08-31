@@ -64,7 +64,7 @@ The strategy addresses a documented motivational problem: instrumental networkin
 - **Alumni mentoring platforms** (e.g., [Ten Thousand Coffees](https://www.tenthousandcoffees.org)) — structure first contacts around the mentor's offer to help, reversing the usual ask-first dynamic.
 
 ## Key Sources
-- Casciaro, T., Gino, F., & Kouchaki, M. (2016). The contaminating effects of building instrumental ties: On behaving badly needlessly. *Academy of Management Journal, 59*(1), 96–114. [doi:10.5465/amj.2014.1035](https://doi.org/10.5465/amj.2014.1035)
-- Grant, A. M. (2007). Relational job design and the motivation to make a prosocial difference. *Academy of Management Review, 32*(2), 393–417. [doi:10.5465/amr.2007.24348728](https://doi.org/10.5465/amr.2007.24348728)
+- Casciaro, T., Gino, F., & Kouchaki, M. (2016). The contaminating effects of building instrumental ties: On behaving badly needlessly. *Academy of Management Journal, 59*(1), 96–114. [doi:10.2139/ssrn.2430174](https://doi.org/10.2139/ssrn.2430174)
+- Grant, A. M. (2007). Relational job design and the motivation to make a prosocial difference. *Academy of Management Review, 32*(2), 393–417. [doi:10.5465/amr.2007.24351328](https://doi.org/10.5465/amr.2007.24351328)
 - Cialdini, R. B. (2001). *Influence: Science and practice* (4th ed.). Allyn & Bacon.
 - Grant, A. M. (2013). *Give and take: A revolutionary approach to success*. Viking.

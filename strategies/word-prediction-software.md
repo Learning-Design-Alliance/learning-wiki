@@ -66,7 +66,7 @@ Word prediction functions as an [accommodation](../elements/accommodations.md) t
 - **iOS/Android built-in keyboards** — consumer-grade prediction now standard, though not configurable for instructional purposes
 
 ## Key Sources
-- MacArthur, C. A. (2009). Reflections on research on writing and technology for struggling writers. *Learning Disabilities Research & Practice, 24*(2), 93–102. [doi:10.1111/j.1540-5826.2009.01283.x](https://doi.org/10.1111/j.1540-5826.2009.01283.x)
+- MacArthur, C. A. (2009). Reflections on research on writing and technology for struggling writers. *Learning Disabilities Research & Practice, 24*(2), 93–102. [doi:10.1111/j.1540-5826.2009.00283.x](https://doi.org/10.1111/j.1540-5826.2009.00283.x)
 - Evmenova, A. S., Graff, H. J., Jerome, M. K., & Behrmann, M. M. (2010). Word prediction programs with phonetic spelling support: Performance comparisons and impact on journal writing for students with writing difficulties. *Journal of Special Education Technology, 25*(4), 33–48.
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
 - Berninger, V. W., & Winn, W. D. (2006). Implications of advancements in brain research and technology for writing development, writing instruction, and educational evolution. In C. A. MacArthur, S. Graham, & J. Fitzgerald (Eds.), *Handbook of Writing Research* (pp. 96–114). Guilford Press.

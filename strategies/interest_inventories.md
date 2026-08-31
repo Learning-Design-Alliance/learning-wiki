@@ -64,5 +64,5 @@ Interest inventories operationalize personal relevance, which raises task value 
 ## Key Sources
 - Hidi, S., & Renninger, K. A. (2006). The four-phase model of interest development. *Educational Psychologist, 41*(2), 111–127. [doi:10.1207/s15326985ep4102_4](https://doi.org/10.1207/s15326985ep4102_4)
 - Schiefele, U. (1991). Interest, learning, and motivation. *Educational Psychologist, 26*(3–4), 299–323. [doi:10.1080/00461520.1991.9653136](https://doi.org/10.1080/00461520.1991.9653136)
-- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil, P. B. Mosenthal, P. D. Pearson, & R. Barr (Eds.), *Handbook of Reading Research* (Vol. 3, pp. 403–422). Erlbaum.
+- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil, P. B. Mosenthal, P. D. Pearson, & R. Barr (Eds.), *Handbook of Reading Research* (Vol. 3, pp. 403–422). Erlbaum. [doi:10.1108/978-1-60752-786-220251011](https://doi.org/10.1108/978-1-60752-786-220251011)
 - Renninger, K. A., & Hidi, S. (2016). *The Power of Interest for Motivation and Learning*. Routledge. [doi:10.4324/9781315771045](https://doi.org/10.4324/9781315771045)

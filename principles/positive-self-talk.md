@@ -82,5 +82,5 @@ The current claim inventory supports regulation and process-focused guidance mec
 
 ## Key Sources
 - Kross, E., Bruehlman-Senecal, E., Park, J., Burson, A., Dougherty, A., Shablack, H., Bremner, R., Moser, J., & Ayduk, O. (2014). Self-talk as a regulatory mechanism: How you do it matters. *Journal of Personality and Social Psychology, 106*(2), 304-324. [https://doi.org/10.1037/a0035173](https://doi.org/10.1037/a0035173)
-- Gainsburg, I., & Kross, E. (2020). Distanced self-talk changes how people conceptualize the self. *Journal of Experimental Social Psychology, 88*, 103971. [https://doi.org/10.1016/j.jesp.2019.103971](https://doi.org/10.1016/j.jesp.2019.103971)
+- Gainsburg, I., & Kross, E. (2020). Distanced self-talk changes how people conceptualize the self. *Journal of Experimental Social Psychology, 88*, 103971. [https://doi.org/10.1016/j.jesp.2020.103969](https://doi.org/10.1016/j.jesp.2020.103969)
 - Hatzigeorgiadis, A., Zourbanos, N., Galanis, E., & Theodorakis, Y. (2011). Self-talk and sports performance: A meta-analysis. *Perspectives on Psychological Science, 6*(4), 348-356. [https://doi.org/10.1177/1745691611413136](https://doi.org/10.1177/1745691611413136)

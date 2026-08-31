@@ -74,6 +74,6 @@ Problem posing sits at the deep end of mathematical understanding: to write a so
 - A homework cycle in which each student submits one problem, the teacher curates a set, and the next day's quiz is drawn entirely from student-authored problems — raising both effort and audience awareness ([Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md)).
 
 ## Key Sources
-- Silver, E. A. (1996). Fostering creativity through instruction rich in mathematical problem solving and problem posing. *ZDM, 3*, 75–80. [doi:10.2307/749940](https://doi.org/10.2307/749940)
+- Silver, E. A. (1996). Fostering creativity through instruction rich in mathematical problem solving and problem posing. *ZDM, 3*, 75–80. [doi:10.1007/s11858-997-0003-x](https://doi.org/10.1007/s11858-997-0003-x)
 - Cankoy, O., & Darbaz, S. (2010). Effect of a problem posing elementary mathematics program on problem solving achievement. *Procedia — Social and Behavioral Sciences, 2*(2), 2827–2831. [doi:10.1016/j.sbspro.2011.04.522](https://doi.org/10.1016/j.sbspro.2011.04.522)
 - Chi, M. T. H., de Leeuw, N., Chiu, M.-H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477. [doi:10.1207/s15516709cog1803_3](https://doi.org/10.1207/s15516709cog1803_3)

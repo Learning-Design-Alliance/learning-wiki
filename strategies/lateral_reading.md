@@ -76,6 +76,6 @@ Lateral reading works because it shifts evaluation from analyzing a source's sel
 
 ## Key Sources
 - Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: The ability of historians to evaluate digital sources is limited. *Teachers College Record, 121*(11), 1–40. [doi:10.37016/mr-2020-56](https://doi.org/10.37016/mr-2020-56)
-- Breakstone, J., Smith, M., Orland, M., Barr, D., & Wineburg, S. (2021). Lateral reading on the open Internet: A district-wide field study of high school students. *Journal of Educational Psychology, 113*(5), 893–909. [doi:10.1037/edu0000639](https://doi.org/10.1037/edu0000639)
+- Breakstone, J., Smith, M., Orland, M., Barr, D., & Wineburg, S. (2021). Lateral reading on the open Internet: A district-wide field study of high school students. *Journal of Educational Psychology, 113*(5), 893–909. [doi:10.1037/edu0000740](https://doi.org/10.1037/edu0000740)
 - McGrew, S., Ortega, T., Breakstone, J., & Wineburg, S. (2017). The challenge that's bigger than fake news: Civic reasoning in a social-media environment. *American Educator, 41*(3), 4–9.
 - Wineburg, S., McGrew, S., Breakstone, J., & Ortega, T. (2016). Evaluating information: The cornerstone of civic online reasoning. *Stanford Digital Repository.* [doi:10.2139/ssrn.3048994](https://doi.org/10.2139/ssrn.3048994)

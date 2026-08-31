@@ -68,6 +68,6 @@ Generation reliably improves retention of the generated material relative to rea
 
 ## Key Sources
 - Slamecka, N. J., & Graf, P. (1978). The generation effect: Delineation of a phenomenon. *Journal of Experimental Psychology: Human Learning and Memory, 4*(6), 592–604. [doi:10.1037/0278-7393.4.6.592](https://doi.org/10.1037/0278-7393.4.6.592)
-- Bertsch, S., Pesta, B. J., Wiegand, R. E., & Wichardt, P. C. (2007). The generation effect: A meta-analytic review. *Memory & Cognition, 35*(5), 1026–1039. [doi:10.3758/BF03193476](https://doi.org/10.3758/BF03193476)
+- Bertsch, S., Pesta, B. J., Wiegand, R. E., & Wichardt, P. C. (2007). The generation effect: A meta-analytic review. *Memory & Cognition, 35*(5), 1026–1039. [doi:10.3758/bf03193441](https://doi.org/10.3758/bf03193441)
 - Karpicke, J. D., & Blunt, J. R. (2011). Retrieval practice produces more learning than elaborative studying with concept mapping. *Science, 331*(6018), 772–775. [doi:10.1126/science.1199327](https://doi.org/10.1126/science.1199327)
 - Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)

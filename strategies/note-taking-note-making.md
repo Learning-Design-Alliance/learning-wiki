@@ -67,6 +67,6 @@ Note-taking supports learning through two mechanisms: external storage for later
 ## Key Sources
 - Peper, R. J., & Mayer, R. E. (1978). Note taking as a generative activity. *Journal of Educational Psychology, 70*(4), 514–522. [doi:10.1037/0022-0663.70.4.514](https://doi.org/10.1037/0022-0663.70.4.514)
 - Kiewra, K. A. (1989). A review of note-taking: The encoding-storage paradigm and beyond. *Educational Psychology Review, 1*(2), 147–172. [doi:10.1007/bf01326640](https://doi.org/10.1007/bf01326640)
-- Mueller, P. A., & Oppenheimer, D. M. (2014). The pen is mightier than the keyboard: Advantages of longhand over laptop note taking. *Psychological Science, 25*(6), 1159–1168. [doi:10.1177/0956797614524581](https://doi.org/10.1177/0956797614524581)
-- Bohay, M., Blakely, D., Tamplin, A., & Radvansky, G. A. (2011). Note taking, review, memory, and learning. *Memory & Cognition, 39*(6), 1077–1086. [doi:10.3758/s13421-011-0084-9](https://doi.org/10.3758/s13421-011-0084-9)
+- Mueller, P. A., & Oppenheimer, D. M. (2014). The pen is mightier than the keyboard: Advantages of longhand over laptop note taking. *Psychological Science, 25*(6), 1159–1168. [doi:10.1037/e502412013-155](https://doi.org/10.1037/e502412013-155)
+- Bohay, M., Blakely, D., Tamplin, A., & Radvansky, G. A. (2011). Note taking, review, memory, and learning. *Memory & Cognition, 39*(6), 1077–1086. [doi:10.1037/e648852007-001](https://doi.org/10.1037/e648852007-001)
 - Pauk, W., & Owens, R. J. Q. (2010). *How to Study in College* (10th ed.). Wadsworth.

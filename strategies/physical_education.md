@@ -64,8 +64,8 @@ Motor skill acquisition follows the same cognitive principles as other domains: 
 - **[SHAPE America](https://www.shapeamerica.org)** standards-based curricula: grade-level outcomes specifying skill competencies (e.g., dribbling with control in dynamic contexts by grade 5) that anchor station-based mastery practice
 
 ## Key Sources
-- Schmidt, R. A. (1975). A schema theory of discrete motor skill learning. *Psychological Review, 82*(4), 225–260. [doi:10.1037/0033-295X.82.4.225](https://doi.org/10.1037/0033-295X.82.4.225)
+- Schmidt, R. A. (1975). A schema theory of discrete motor skill learning. *Psychological Review, 82*(4), 225–260. [doi:10.1037/h0076770](https://doi.org/10.1037/h0076770)
 - Bandura, A. (1977). *Social learning theory.* Prentice Hall.
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
 - Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. *Psychological Review, 100*(3), 363–406. [doi:10.1037/0033-295X.100.3.363](https://doi.org/10.1037/0033-295X.100.3.363)
-- Wallhead, T. L., & O'Sullivan, M. (2005). Sport Education: Physical education for the new millennium? *Physical Education and Sport Pedagogy, 10*(2), 181–210.
+- Wallhead, T. L., & O'Sullivan, M. (2005). Sport Education: Physical education for the new millennium? *Physical Education and Sport Pedagogy, 10*(2), 181–210. [doi:10.1080/17408980500105098](https://doi.org/10.1080/17408980500105098)

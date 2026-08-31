@@ -65,7 +65,7 @@ Prior knowledge is among the strongest predictors of new learning: what students
 - **Home-language peer talk** — before reading a science text, multilingual students discuss the topic with peers in their home language, surfacing concepts that the teacher then connects to target vocabulary.
 
 ## Key Sources
-- Steffensen, M. S., Joag-Dev, C., & Anderson, R. C. (1979). A cross-cultural perspective on reading comprehension. *Reading Research Quarterly, 15*(1), 10–29. [doi:10.2307/747212](https://doi.org/10.2307/747212)
+- Steffensen, M. S., Joag-Dev, C., & Anderson, R. C. (1979). A cross-cultural perspective on reading comprehension. *Reading Research Quarterly, 15*(1), 10–29. [doi:10.2307/747429](https://doi.org/10.2307/747429)
 - Bransford, J. D., & Johnson, M. K. (1972). Contextual prerequisites for understanding: Some investigations of comprehension and recall. *Journal of Verbal Learning and Verbal Behavior, 11*(6), 717–726. [doi:10.1016/S0022-5371(72)80006-9](https://doi.org/10.1016/S0022-5371(72)80006-9)
 - Ausubel, D. P. (1960). The use of advance organizers in the learning and retention of meaningful verbal material. *Journal of Educational Psychology, 51*(5), 267–272. [doi:10.1037/h0046669](https://doi.org/10.1037/h0046669)
 - Dochy, F., Segers, M., & Buehl, M. M. (1999). The relation between assessment practices and outcomes of studies: The case of research on prior knowledge. *Review of Educational Research, 69*(2), 145–186. [doi:10.3102/00346543069002145](https://doi.org/10.3102/00346543069002145)

@@ -62,6 +62,6 @@ Storybook discussion works because narrative provides emotionally rich but low-s
 
 ## Key Sources
 - Denham, S. A. (1986). Social cognition, prosocial development, and emotion in preschoolers. *Developmental Psychology, 22*(5), 642–652. [doi:10.2307/1130651](https://doi.org/10.2307/1130651)
-- Mar, R. A., Oatley, K., & Peterson, J. B. (2006). Exploring the link between reading fiction and empathy: Ruling out individual differences and examining outcomes. *Journal of Research in Personality, 40*(5), 694–712. [doi:10.1016/j.jesp.2005.11.008](https://doi.org/10.1016/j.jesp.2005.11.008)
+- Mar, R. A., Oatley, K., & Peterson, J. B. (2006). Exploring the link between reading fiction and empathy: Ruling out individual differences and examining outcomes. *Journal of Research in Personality, 40*(5), 694–712. [doi:10.1515/comm.2009.025](https://doi.org/10.1515/comm.2009.025)
 - Vezzali, L., Stathi, S., Giovannini, D., Capozza, D., & Trifiletti, E. (2015). The greatest magic of Harry Potter: Reducing prejudice. *Journal of Applied Social Psychology, 45*(2), 105–121. [doi:10.1111/jasp.12279](https://doi.org/10.1111/jasp.12279)
 - Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development, 82*(1), 405–432. [doi:10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x)

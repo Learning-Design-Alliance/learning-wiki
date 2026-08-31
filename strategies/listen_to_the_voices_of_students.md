@@ -66,5 +66,5 @@ Elevating student voice builds on self-determination research: experiences of au
 ## Key Sources
 - Mitra, D. L. (2004). The significance of students: Can increasing "student voice" in schools lead to gains in youth development? *Teachers College Record, 106*(4), 651–688. [doi:10.1111/j.1467-9620.2004.00354.x](https://doi.org/10.1111/j.1467-9620.2004.00354.x)
 - Cook-Sather, A. (2006). Sound, presence, and power: "Student voice" in educational research and reform. *Curriculum Inquiry, 36*(4), 359–390. [doi:10.1111/j.1467-873X.2006.00363.x](https://doi.org/10.1111/j.1467-873X.2006.00363.x)
-- Fielding, M. (2004). "New wave" student voice and the renewal of civic society. *London Review of Education, 2*(3), 197–217. [doi:10.1080/1474846042000277658](https://doi.org/10.1080/1474846042000277658)
+- Fielding, M. (2004). "New wave" student voice and the renewal of civic society. *London Review of Education, 2*(3), 197–217. [doi:10.1080/1474846042000302834](https://doi.org/10.1080/1474846042000302834)
 - Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268. [doi:10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)

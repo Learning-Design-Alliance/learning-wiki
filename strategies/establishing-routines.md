@@ -66,7 +66,7 @@ Routines are a form of overlearned procedural knowledge: by automating the "chor
 - **Lab safety routines in introductory chemistry** — modeled and rehearsed equipment and cleanup procedures that automate safety-critical steps before independent lab work
 
 ## Key Sources
-- Leinhardt, G., Weidman, C., & Hammond, K. M. (1987). Introduction and integration of classroom routines by expert teachers. *Curriculum Inquiry, 17*(2), 135–176. [doi:10.1080/03626784.1987.11075279](https://doi.org/10.1080/03626784.1987.11075279)
+- Leinhardt, G., Weidman, C., & Hammond, K. M. (1987). Introduction and integration of classroom routines by expert teachers. *Curriculum Inquiry, 17*(2), 135–176. [doi:10.1080/03626784.1987.11075284](https://doi.org/10.1080/03626784.1987.11075284)
 - Emmer, E. T., & Stough, L. M. (2001). Classroom management: A critical part of educational psychology, with implications for teacher education. *Educational Psychologist, 36*(2), 103–112. [doi:10.1207/S15326985EP3602_5](https://doi.org/10.1207/S15326985EP3602_5)
 - Rosenshine, B. (2012). Principles of instruction: Research-based strategies that all teachers should know. *American Educator, 36*(1), 12–19.
 - Marzano, R. J., & Marzano, J. S. (2003). The key to classroom management. *Educational Leadership, 61*(1), 6–13.

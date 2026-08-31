@@ -66,4 +66,4 @@ The strategy enacts the coherence principle of [Cognitive Load Management](../pr
 - Mayer, R. E. (2021). *Multimedia Learning* (3rd ed.). Cambridge University Press. [doi:10.1017/9781316941355](https://doi.org/10.1017/9781316941355)
 - Rey, G. D. (2012). A review of research and a meta-analysis of the seductive detail effect. *Educational Research Review, 7*(3), 216–237. [doi:10.1016/j.edurev.2012.05.003](https://doi.org/10.1016/j.edurev.2012.05.003)
 - Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the Science of Instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)
-- Sundararajan, T., & Adesope, O. (2020). Keep it coherent: A meta-analysis of the seductive details effect. *Educational Psychology Review, 32*, 707–734. [doi:10.1007/s10648-020-09522-3](https://doi.org/10.1007/s10648-020-09522-3)
+- Sundararajan, T., & Adesope, O. (2020). Keep it coherent: A meta-analysis of the seductive details effect. *Educational Psychology Review, 32*, 707–734. [doi:10.1007/s10648-020-09522-4](https://doi.org/10.1007/s10648-020-09522-4)

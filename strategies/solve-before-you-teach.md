@@ -66,7 +66,7 @@ Solving the task first converts the instructor's tacit expertise into usable ped
 
 ## Key Sources
 - Stein, M. K., Engle, R. A., Smith, M. S., & Hughes, E. K. (2008). Orchestrating productive mathematical discussions: Five practices for helping teachers move beyond show and tell. *Mathematical Thinking and Learning, 10*(4), 313–340. [doi:10.1080/10986060802229675](https://doi.org/10.1080/10986060802229675)
-- Ball, D. L., Thames, M. H., & Phelps, G. (2008). Content knowledge for teaching: What makes it special? *Journal of Teacher Education, 59*(5), 389–407. [doi:10.1177/0022487108323554](https://doi.org/10.1177/0022487108323554)
-- Kapur, M. (2012). Productive failure in learning the concept of variance. *Instructional Science, 40*(4), 651–672. [doi:10.1007/s11251-012-9203-6](https://doi.org/10.1007/s11251-012-9203-6)
+- Ball, D. L., Thames, M. H., & Phelps, G. (2008). Content knowledge for teaching: What makes it special? *Journal of Teacher Education, 59*(5), 389–407. [doi:10.1177/0022487108324554](https://doi.org/10.1177/0022487108324554)
+- Kapur, M. (2012). Productive failure in learning the concept of variance. *Instructional Science, 40*(4), 651–672. [doi:10.1007/s11251-012-9209-6](https://doi.org/10.1007/s11251-012-9209-6)
 - Simon, M. A. (1995). Reconstructing mathematics pedagogy from a constructivist perspective. *Journal for Research in Mathematics Education, 26*(2), 114–145. [doi:10.5951/jresematheduc.26.2.0114](https://doi.org/10.5951/jresematheduc.26.2.0114)
 - Smith, M. S., & Stein, M. K. (2011). *5 Practices for Orchestrating Productive Mathematics Discussions.* NCTM.

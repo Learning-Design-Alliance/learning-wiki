@@ -66,7 +66,7 @@ Counting strategies are developmentally valuable but computationally expensive: 
 
 ## Key Sources
 - Siegler, R. S. (1987). The perils of averaging data over strategies: An example from children's addition. *Journal of Experimental Psychology: General, 116*(3), 250–264. [doi:10.1037/0096-3445.116.3.250](https://doi.org/10.1037/0096-3445.116.3.250)
-- Groen, G. J., & Resnick, L. B. (1977). Can preschool children invent addition algorithms? *Journal of Educational Psychology, 69*(6), 645–652. [doi:10.1037/0096-3445.106.1.63](https://doi.org/10.1037/0096-3445.106.1.63)
+- Groen, G. J., & Resnick, L. B. (1977). Can preschool children invent addition algorithms? *Journal of Educational Psychology, 69*(6), 645–652. [doi:10.1037/0022-0663.69.6.645](https://doi.org/10.1037/0022-0663.69.6.645)
 - Geary, D. C. (1993). Mathematical disabilities: Cognitive, neuropsychological, and genetic components. *Psychological Bulletin, 114*(2), 345–362. [doi:10.1037/0033-2909.114.2.345](https://doi.org/10.1037/0033-2909.114.2.345)
 - Siegler, R. S., & Shipley, C. (1995). Variation, selection, and cognitive change. In T. J. Simon & G. S. Halford (Eds.), *Developing cognitive competence: New approaches to process modeling* (pp. 31–76). Erlbaum.
 - Fuson, K. C. (1988). *Children's counting and concepts of number*. Springer-Verlag. [doi:10.1007/978-1-4612-3754-9](https://doi.org/10.1007/978-1-4612-3754-9)

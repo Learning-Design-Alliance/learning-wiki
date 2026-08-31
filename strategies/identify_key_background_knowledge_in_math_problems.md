@@ -60,7 +60,7 @@ Math word problems are reading comprehension tasks before they are mathematics t
 - Modified assessment items (as studied by Abedi & Lord) that shorten and simplify problem language show the same principle from the item-design side.
 
 ## Key Sources
-- Abedi, J., & Lord, C. (2001). The language factor in mathematics tests. *Applied Measurement in Education, 14*(3), 219–234. [doi:10.1207/S15324818AME1403_4](https://doi.org/10.1207/S15324818AME1403_4)
+- Abedi, J., & Lord, C. (2001). The language factor in mathematics tests. *Applied Measurement in Education, 14*(3), 219–234. [doi:10.1207/s15324818ame1403_2](https://doi.org/10.1207/s15324818ame1403_2)
 - Recht, D. R., & Leslie, L. (1988). Effect of prior knowledge on good and poor readers' memory of text. *Journal of Educational Psychology, 80*(1), 16–20. [doi:10.1037/0022-0663.80.1.16](https://doi.org/10.1037/0022-0663.80.1.16)
 - Cummins, J. (1984). *Bilingualism and special education: Issues in assessment and pedagogy.* Clevedon: Multilingual Matters.
 - Sweller, J., Ayres, P., & Kalyuga, S. (2011). *Cognitive load theory.* Springer. [doi:10.1007/978-1-4419-8126-4](https://doi.org/10.1007/978-1-4419-8126-4)

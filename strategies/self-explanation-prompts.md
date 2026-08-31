@@ -66,6 +66,6 @@ Self explanation forces the learner to actively integrate new information with p
 
 ## Key Sources
 - Chi, M. T. H., Bassok, M., Lewis, M. W., Reimann, P., & Glaser, R. (1989). Self-explanations: How students study and use examples in learning to solve problems. *Cognitive Science, 13*(2), 145–182. [doi:10.1207/s15516709cog1302_1](https://doi.org/10.1207/s15516709cog1302_1)
-- Bisra, K., Liu, Q., Nesbit, J. C., Salimi, F., & Winne, P. H. (2010). Inducing self-explanation: A meta-analysis. *Educational Psychology Review, 22*(3), 273–308. [doi:10.1007/s10648-010-9129-4](https://doi.org/10.1007/s10648-010-9129-4)
+- Bisra, K., Liu, Q., Nesbit, J. C., Salimi, F., & Winne, P. H. (2010). Inducing self-explanation: A meta-analysis. *Educational Psychology Review, 22*(3), 273–308. [doi:10.1007/s10648-018-9434-x](https://doi.org/10.1007/s10648-018-9434-x)
 - Atkinson, R. K., Renkl, A., & Merrill, M. M. (2003). Transitioning from studying examples to solving problems: Effects of self-explanation prompts and fading worked-out steps. *Journal of Educational Psychology, 95*(4), 774–783. [doi:10.1037/0022-0663.95.4.774](https://doi.org/10.1037/0022-0663.95.4.774)
 - Fonseca, B. A., & Chi, M. T. H. (2011). Instruction based on self-explanation. In R. E. Mayer & P. A. Alexander (Eds.), *Handbook of Research on Learning and Instruction* (pp. 296–321). Routledge.

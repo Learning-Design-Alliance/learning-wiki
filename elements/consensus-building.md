@@ -72,5 +72,5 @@ Consensus building supports learning because articulating and defending a positi
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)
 - Aronson, E., & Patnoe, S. (2011). *Cooperation in the classroom: The jigsaw method* (3rd ed.). Pinter & Martin.
-- Asterhan, C. S. C., & Schwarz, B. B. (2016). Argumentation for learning: Well-trodden paths and unexplored territories. *International Journal of Educational Research, 79*, 167–179. [doi:10.1016/j.ijer.2016.03.008](https://doi.org/10.1016/j.ijer.2016.03.008)
+- Asterhan, C. S. C., & Schwarz, B. B. (2016). Argumentation for learning: Well-trodden paths and unexplored territories. *International Journal of Educational Research, 79*, 167–179. [doi:10.1080/00461520.2016.1155458](https://doi.org/10.1080/00461520.2016.1155458)
 - Mercer, N. (2008). The seeds of time: Why classroom dialogue needs a temporal analysis. *Journal of the Learning Sciences, 17*(1), 33–59. [doi:10.1080/10508400701793182](https://doi.org/10.1080/10508400701793182)

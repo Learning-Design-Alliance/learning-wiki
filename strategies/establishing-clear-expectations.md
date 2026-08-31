@@ -66,7 +66,7 @@ Clear expectations reduce uncertainty about what counts as success, freeing work
 
 ## Key Sources
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
-- Rosenthal, R., & Jacobson, L. (1968). *Pygmalion in the classroom: Teacher expectation and pupils' intellectual development.* Holt, Rinehart & Winston.
+- Rosenthal, R., & Jacobson, L. (1968). *Pygmalion in the classroom: Teacher expectation and pupils' intellectual development.* Holt, Rinehart & Winston. [doi:10.2307/2092211](https://doi.org/10.2307/2092211)
 - Ambrose, S. A., Bridges, M. W., DiPietro, M., Lovett, M. C., & Norman, M. K. (2010). *How learning works: Seven research-based principles for smart teaching.* Jossey-Bass.
 - Wiggins, G., & McTighe, J. (2005). *Understanding by design* (2nd ed.). ASCD.
 - Jussim, L., & Harber, K. D. (2005). Teacher expectations and self-fulfilling prophecies: Knowns and unknowns, resolved and unresolved controversies. *Personality and Social Psychology Review, 9*(2), 131–155. [doi:10.1207/s15327957pspr0902_3](https://doi.org/10.1207/s15327957pspr0902_3)

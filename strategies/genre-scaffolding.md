@@ -65,7 +65,7 @@ Genre scaffolding reduces the cognitive burden of composing by giving learners a
 - **AP/IB source-based essay instruction:** teachers scaffold argumentative writing by deconstructing scored exemplar essays, co-constructing a response to a new prompt, then fading to independent timed writing.
 
 ## Key Sources
-- Hyland, K. (2007). Genre pedagogy: Language, literacy and L2 writing instruction. *ELT Journal, 61*(2), 150–156. [doi:10.1093/elt/ccm019](https://doi.org/10.1093/elt/ccm019)
+- Hyland, K. (2007). Genre pedagogy: Language, literacy and L2 writing instruction. *ELT Journal, 61*(2), 150–156. [doi:10.1016/j.jslw.2007.07.005](https://doi.org/10.1016/j.jslw.2007.07.005)
 - Graham, S., & Perin, D. (2007). *Writing next: Effective strategies to improve writing of adolescents in middle and high schools.* Alliance for Excellent Education.
 - De La Paz, S., & Graham, S. (2002). Explicitly teaching strategies, skills, and knowledge: Writing instruction in middle school classrooms. *Journal of Educational Psychology, 94*(4), 687–698.
 - Martin, J. R., & Rose, D. (2008). *Genre relations: Mapping culture.* Equinox.

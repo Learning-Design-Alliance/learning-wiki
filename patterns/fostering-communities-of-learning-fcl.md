@@ -102,4 +102,4 @@ FCL is strongest when the curriculum can be organized around sustained inquiry a
 
 ## Key Sources
 - Brown, A. L., & Campione, J. C. (1996). Psychological theory and the design of innovative learning environments: On procedures, principles, and systems. In L. Schauble & R. Glaser (Eds.), *Innovations in learning* (pp. 289-325). Erlbaum.
-- Scardamalia, M., & Bereiter, C. (2006). Knowledge building: Theory, pedagogy, and technology. In R. K. Sawyer (Ed.), *The Cambridge handbook of the learning sciences* (pp. 97-115). Cambridge University Press.
+- Scardamalia, M., & Bereiter, C. (2006). Knowledge building: Theory, pedagogy, and technology. In R. K. Sawyer (Ed.), *The Cambridge handbook of the learning sciences* (pp. 97-115). Cambridge University Press. [doi:10.1017/cbo9780511816833.008](https://doi.org/10.1017/cbo9780511816833.008)

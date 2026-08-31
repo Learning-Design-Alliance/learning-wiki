@@ -63,6 +63,6 @@ The rationale is cognitive: writing quality depends on working-memory resources,
 
 ## Key Sources
 - Berninger, V. W., Abbott, R. D., Augsburger, A., & Garcia, N. (2009). Comparison of pen and keyboard transcription modes in children with and without learning disabilities. *Learning Disability Quarterly, 32*(3), 123–141. [doi:10.2307/27740364](https://doi.org/10.2307/27740364)
-- Alves, R. A., Limpo, T., Fidalgo, R., Carvalhais, L., Pereira, L. Á., & Castro, S. L. (2016). The impact of promoting transcription on early text production: A review and meta-analysis. *Educational Psychology Review, 28*(2), 329–350. [doi:10.1007/s10648-015-9311-3](https://doi.org/10.1007/s10648-015-9311-3)
+- Alves, R. A., Limpo, T., Fidalgo, R., Carvalhais, L., Pereira, L. Á., & Castro, S. L. (2016). The impact of promoting transcription on early text production: A review and meta-analysis. *Educational Psychology Review, 28*(2), 329–350. [doi:10.1037/edu0000089](https://doi.org/10.1037/edu0000089)
 - Kellogg, R. T. (2008). Training writing skill: A cognitive developmental perspective. In C. A. MacArthur, S. Graham, & J. Fitzgerald (Eds.), *Handbook of writing research* (pp. 113–129). Guilford Press. [doi:10.17239/jowr-2008.01.01.1](https://doi.org/10.17239/jowr-2008.01.01.1)
 - Freeman, S. E., & Mackinnon, J. R. (2017). Keyboarding instruction: A systematic review. *Journal of Occupational Therapy, Schools, & Early Intervention, 10*(2), 148–163. [doi:10.1080/19411243.2017.1304842](https://doi.org/10.1080/19411243.2017.1304842)

@@ -69,4 +69,4 @@ One-on-one interaction allows instruction to be calibrated precisely to the indi
 - Chickering, A. W., & Gamson, Z. F. (1987). Seven principles for good practice in undergraduate education. *AAHE Bulletin, 39*(7), 3–7.
 - Astin, A. W. (1984). Student involvement: A developmental theory for higher education. *Journal of College Student Personnel, 25*(4), 297–308.
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
-- Tinto, V. (1997). Classrooms as communities: Exploring the educational character of student persistence. *Journal of Higher Education, 68*(6), 599–623. [doi:10.1080/00221546.1997.11779003](https://doi.org/10.1080/00221546.1997.11779003)
+- Tinto, V. (1997). Classrooms as communities: Exploring the educational character of student persistence. *Journal of Higher Education, 68*(6), 599–623. [doi:10.2307/2959965](https://doi.org/10.2307/2959965)

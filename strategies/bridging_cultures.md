@@ -82,6 +82,6 @@ Bridging Cultures treats the teacher, not the student, as the primary learner: t
 ## Key Sources
 - Trumbull, E., Rothstein-Fisch, C., Greenfield, P. M., & Quiroz, B. (2001). *Bridging Cultures in Our Schools: New Approaches That Work*. WestEd.
 - Rothstein-Fisch, C., & Trumbull, E. (2008). *Managing Diverse Classrooms: How to Build on Students' Cultural Strengths*. ASCD.
-- Greenfield, P. M., Quiroz, B., & Raeff, C. (2000). Cross-cultural conflict and harmony in the social construction of the child. *New Directions for Child and Adolescent Development, 87*, 25–46. [doi:10.1002/cd.23220008704](https://doi.org/10.1002/cd.23220008704)
+- Greenfield, P. M., Quiroz, B., & Raeff, C. (2000). Cross-cultural conflict and harmony in the social construction of the child. *New Directions for Child and Adolescent Development, 87*, 25–46. [doi:10.1002/cd.23220008708](https://doi.org/10.1002/cd.23220008708)
 - Gay, G. (2018). *Culturally Responsive Teaching: Theory, Research, and Practice* (3rd ed.). Teachers College Press.
 - Hammond, Z. (2015). *Culturally Responsive Teaching and the Brain*. Corwin.

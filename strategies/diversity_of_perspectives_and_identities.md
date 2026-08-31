@@ -65,7 +65,7 @@ Exposure to diverse perspectives improves complex thinking: students in diverse 
 
 ## Key Sources
 - Gurin, P., Dey, E. L., Hurtado, S., & Gurin, G. (2002). Diversity and higher education: Theory and impact on educational outcomes. *Harvard Educational Review, 72*(3), 330–367. [doi:10.17763/haer.72.3.01151786u134n051](https://doi.org/10.17763/haer.72.3.01151786u134n051)
-- Hong, L., & Page, S. E. (2004). Groups of diverse problem solvers can outperform groups of high-ability problem solvers. *Proceedings of the National Academy of Sciences, 101*(46), 16385–16389. [doi:10.1073/pnas.0308708101](https://doi.org/10.1073/pnas.0308708101)
+- Hong, L., & Page, S. E. (2004). Groups of diverse problem solvers can outperform groups of high-ability problem solvers. *Proceedings of the National Academy of Sciences, 101*(46), 16385–16389. [doi:10.1073/pnas.0403723101](https://doi.org/10.1073/pnas.0403723101)
 - Bowman, N. A. (2010). College diversity experiences and cognitive development: A meta-analysis. *Review of Educational Research, 80*(1), 4–33. [doi:10.3102/0034654309352495](https://doi.org/10.3102/0034654309352495)
 - Banks, J. A. (2004). Approaches to multicultural curriculum reform. In J. A. Banks & C. A. M. Banks (Eds.), *Multicultural education: Issues and perspectives* (5th ed.). Wiley.
 - Page, S. E. (2007). *The difference: How the power of diversity creates better groups, firms, schools, and societies*. Princeton University Press.

@@ -69,5 +69,5 @@ Portfolios shift assessment from a summative snapshot toward [Assessment for Lea
 ## Key Sources
 - Paulson, F. L., Paulson, P. R., & Meyer, C. A. (1991). What makes a portfolio a portfolio? *Educational Leadership, 48*(5), 60–63.
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)
-- Moss, P. A., Schutz, A. M., Vancleece, R. M., & Beaubiece, R. (1999). Validity in educational assessment. *Review of Research in Education, 24*(1), 109–162. [doi:10.3102/0091732X024001109](https://doi.org/10.3102/0091732X024001109)
+- Moss, P. A., Schutz, A. M., Vancleece, R. M., & Beaubiece, R. (1999). Validity in educational assessment. *Review of Research in Education, 24*(1), 109–162. [doi:10.1111/j.1745-3992.2003.tb00140.x](https://doi.org/10.1111/j.1745-3992.2003.tb00140.x)
 - Butler, D. L., & Winne, P. H. (1995). Feedback and self-regulated learning: A theoretical synthesis. *Review of Educational Research, 65*(3), 245–281. [doi:10.3102/00346543065003245](https://doi.org/10.3102/00346543065003245)

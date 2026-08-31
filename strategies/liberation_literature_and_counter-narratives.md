@@ -76,4 +76,4 @@ Texts function as identity-affirming and perspective-taking tools, but the benef
 - Gay, G. (2018). *Culturally responsive teaching: Theory, research, and practice* (3rd ed.). Teachers College Press.
 - Tschida, C. M., Yingling, E. A., & Hinton, M. B. W. (2015). Learning to teach the diverse: Preservice teachers' engagement with multicultural children's literature. *Journal of Children's Literature, 41*(1), 24–36.
 - Naidoo, J. C. (2014). The importance of diversity in library programs and material collections for children. *Association for Library Service to Children (ALSC), American Library Association.*
-- Boutte, G. S. (2015). *Educating African American students: And how are the children?* Routledge. [doi:10.4324/9781315813641](https://doi.org/10.4324/9781315813641)
+- Boutte, G. S. (2015). *Educating African American students: And how are the children?* Routledge. [doi:10.4324/9781003164456](https://doi.org/10.4324/9781003164456)

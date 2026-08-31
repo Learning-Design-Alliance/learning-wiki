@@ -69,4 +69,4 @@ Process focus changes what gets noticed and rewarded. Learners calibrate their g
 - Butler, R. (1988). Enhancing and undermining intrinsic motivation: The effects of task-involving and ego-involving evaluation on interest and performance. *British Journal of Educational Psychology, 58*(1), 1–14. [doi:10.1111/j.2044-8279.1988.tb00874.x](https://doi.org/10.1111/j.2044-8279.1988.tb00874.x)
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)
 - Dweck, C. S. (2006). *Mindset: The new psychology of success.* Random House.
-- Grant, H., & Dweck, C. S. (2003). Clarifying achievement goals and their impact. *Journal of Personality and Social Psychology, 85*(4), 541–553. [doi:10.1037/0022-3514.85.4.541](https://doi.org/10.1037/0022-3514.85.4.541)
+- Grant, H., & Dweck, C. S. (2003). Clarifying achievement goals and their impact. *Journal of Personality and Social Psychology, 85*(4), 541–553. [doi:10.1037/0022-3514.85.3.541](https://doi.org/10.1037/0022-3514.85.3.541)

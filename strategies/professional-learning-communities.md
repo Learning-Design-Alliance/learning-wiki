@@ -72,6 +72,6 @@ PLCs work when they shift professional learning from transmission (expert delive
 ## Key Sources
 - DuFour, R. (2004). What is a "professional learning community"? *Educational Leadership, 61*(8), 6–11.
 - Vescio, V., Ross, D., & Adams, A. (2008). A review of research on the impact of professional learning communities on teaching practice and student learning. *Teaching and Teacher Education, 24*(1), 80–91. [doi:10.1016/j.tate.2007.01.004](https://doi.org/10.1016/j.tate.2007.01.004)
-- Lomos, C., Hofman, R. H., & Bosker, R. J. (2011). Professional communities and student achievement — a meta-analysis. *School Effectiveness and School Improvement, 22*(2), 121–148. [doi:10.1080/09243453.2010.532036](https://doi.org/10.1080/09243453.2010.532036)
+- Lomos, C., Hofman, R. H., & Bosker, R. J. (2011). Professional communities and student achievement — a meta-analysis. *School Effectiveness and School Improvement, 22*(2), 121–148. [doi:10.1080/09243453.2010.550467](https://doi.org/10.1080/09243453.2010.550467)
 - Hord, S. M. (1997). Professional learning communities: Communities of continuous inquiry and improvement. *Austin, TX: Southwest Educational Development Laboratory.*
 - Stoll, L., Bolam, R., McMahon, A., Wallace, M., & Thomas, S. (2006). Professional learning communities: A review of the literature. *Journal of Educational Change, 7*(4), 221–258. [doi:10.1007/s10833-006-0001-8](https://doi.org/10.1007/s10833-006-0001-8)

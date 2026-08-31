@@ -88,7 +88,7 @@ Working with real waste items grounds an abstract environmental topic in direct 
 - Environmental education programs combining knowledge with action opportunities show stronger effects on pro-environmental behavior than knowledge-only approaches [+M]
 
 ## Key Sources
-- Hines, J. M., Hungerford, H. R., & Tomera, A. N. (1987). Analysis and synthesis of research on responsible environmental behavior: A meta-analysis. *The Journal of Environmental Education, 18*(2), 1–8. [doi:10.1080/00958964.1987.10801954](https://doi.org/10.1080/00958964.1987.10801954)
+- Hines, J. M., Hungerford, H. R., & Tomera, A. N. (1987). Analysis and synthesis of research on responsible environmental behavior: A meta-analysis. *The Journal of Environmental Education, 18*(2), 1–8. [doi:10.1080/00958964.1987.9943482](https://doi.org/10.1080/00958964.1987.9943482)
 - Rickinson, M. (2001). Learners and learning in environmental education: A critical review of the evidence. *Environmental Education Research, 7*(3), 207–320. [doi:10.1080/13504620120065230](https://doi.org/10.1080/13504620120065230)
 - Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., Jordt, H., & Wenderoth, M. P. (2014). Active learning increases student performance in science, engineering, and mathematics. *PNAS, 111*(23), 8410–8415. [doi:10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)
 - Chi, M. T. H., de Leeuw, N., Chiu, M.-H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477. [doi:10.1207/s15516709cog1803_3](https://doi.org/10.1207/s15516709cog1803_3)

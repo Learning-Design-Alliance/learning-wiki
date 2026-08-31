@@ -67,6 +67,6 @@ Ungrading aligns with the evidence that grades function as controlling, ego-invo
 ## Key Sources
 - Butler, R. (1988). Enhancing and undermining intrinsic motivation: The effects of task-involving and ego-involving evaluation on interest and performance. *British Journal of Educational Psychology, 58*(1), 1–14. [doi:10.1111/j.2044-8279.1988.tb00874.x](https://doi.org/10.1111/j.2044-8279.1988.tb00874.x)
 - Butler, R., & Nisan, M. (1986). Effects of no feedback, task-related comments, and grades on intrinsic motivation and performance. *Journal of Educational Psychology, 78*(3), 210–216. [doi:10.1037/0022-0663.78.3.210](https://doi.org/10.1037/0022-0663.78.3.210)
-- Schinske, J., & Tanner, K. (2014). Teaching more by grading less (or differently). *CBE—Life Sciences Education, 13*(2), 159–174. [doi:10.1187/cbe.14-06-0094](https://doi.org/10.1187/cbe.14-06-0094)
+- Schinske, J., & Tanner, K. (2014). Teaching more by grading less (or differently). *CBE—Life Sciences Education, 13*(2), 159–174. [doi:10.1187/cbe.cbe-14-03-0054](https://doi.org/10.1187/cbe.cbe-14-03-0054)
 - Blum, S. D. (Ed.). (2017). *Ungrading: Why rating students undermines learning (and what to do instead)*. West Virginia University Press.
 - Kohn, A. (2011). The case against grades. *Educational Leadership, 69*(3), 28–34.

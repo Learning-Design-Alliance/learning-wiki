@@ -51,4 +51,4 @@ Comparing cases is the element in which learners inspect two or more examples, s
 - Studying strong and weak examples of an argument to see the role of evidence quality.
 
 ## Key Sources
-- Rittle-Johnson, B., Star, J. R., & Durkin, K. (2009). The importance of prior knowledge when comparing examples. *Educational Psychology Review, 21*(4), 321-344. [https://doi.org/10.1007/s10648-009-9112-7](https://doi.org/10.1007/s10648-009-9112-7)
+- Rittle-Johnson, B., Star, J. R., & Durkin, K. (2009). The importance of prior knowledge when comparing examples. *Educational Psychology Review, 21*(4), 321-344. [https://doi.org/10.1037/a0016026](https://doi.org/10.1037/a0016026)

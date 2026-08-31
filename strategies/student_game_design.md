@@ -77,5 +77,5 @@ Student game design is a constructionist strategy — learning happens through b
 ## Key Sources
 - Papert, S. (1993). *Mindstorms: Children, computers, and powerful ideas* (2nd ed.). Basic Books.
 - Kafai, Y. B. (1995). *Minds in play: Computer game design as a context for children's learning*. Lawrence Erlbaum Associates.
-- Resnick, M., Maloney, J., Monroy-Hernández, A., Rusk, N., Eastmond, E., Brennan, K., Millner, A., Rosenbaum, E., Silver, J., Silverman, B., & Kafai, Y. (2009). Scratch: Programming for all. *Communications of the ACM, 52*(11), 60–67. [doi:10.1145/1592761.1592776](https://doi.org/10.1145/1592761.1592776)
+- Resnick, M., Maloney, J., Monroy-Hernández, A., Rusk, N., Eastmond, E., Brennan, K., Millner, A., Rosenbaum, E., Silver, J., Silverman, B., & Kafai, Y. (2009). Scratch: Programming for all. *Communications of the ACM, 52*(11), 60–67. [doi:10.1145/1592761.1592779](https://doi.org/10.1145/1592761.1592779)
 - Plass, J. L., Homer, B. D., & Kinzer, C. K. (2015). Foundations of game-based learning. *Educational Psychologist, 50*(4), 258–283. [doi:10.1080/00461520.2015.1122533](https://doi.org/10.1080/00461520.2015.1122533)

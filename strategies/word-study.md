@@ -71,5 +71,5 @@ Word study operationalizes [Active Learning](../principles/active-learning.md) f
 - Bear, D. R., Invernizzi, M., Templeton, S., & Johnston, F. (2020). *Words their way: Word study for phonics, vocabulary, and spelling instruction* (7th ed.). Pearson.
 - Ehri, L. C. (2005). Learning to read words: Theory, findings, and issues. *Scientific Studies of Reading, 9*(2), 167–188. [doi:10.1207/s1532799xssr0902_4](https://doi.org/10.1207/s1532799xssr0902_4)
 - Ehri, L. C. (2014). Orthographic mapping in the acquisition of sight word reading, spelling memory, and vocabulary learning. *Scientific Studies of Reading, 18*(1), 5–21. [doi:10.1080/10888438.2013.819356](https://doi.org/10.1080/10888438.2013.819356)
-- Templeton, S., & Morris, D. (1999). Questions teachers ask about spelling. *Reading Research Report No. 94*. National Reading Research Center.
+- Templeton, S., & Morris, D. (1999). Questions teachers ask about spelling. *Reading Research Report No. 94*. National Reading Research Center. [doi:10.1598/rrq.34.1.6](https://doi.org/10.1598/rrq.34.1.6)
 - Zutell, J. (1996). The directed spelling thinking activity (DSTA): Providing an effective balance in word study instruction. *Reading & Writing Quarterly, 12*(1), 33–46. [doi:10.1080/1057356960120104](https://doi.org/10.1080/1057356960120104)

@@ -88,7 +88,7 @@ Visual schedules convert a verbal, memory-dependent sequence into a persistent e
 - A middle-school student with ADHD uses a discreet digital planner on a phone with image icons for homework steps, checked off at the start of each study block.
 
 ## Key Sources
-- Mesibov, G. B., Shea, V., & Schopler, E. (2005). *The TEACCH Approach to Autism Spectrum Disorders.* Springer. [doi:10.1007/978-0-387-48692-3](https://doi.org/10.1007/978-0-387-48692-3)
+- Mesibov, G. B., Shea, V., & Schopler, E. (2005). *The TEACCH Approach to Autism Spectrum Disorders.* Springer. [doi:10.1037/e609582010-006](https://doi.org/10.1037/e609582010-006)
 - Dutt, A., et al. (2019). Activity schedules for children with autism spectrum disorder: A review. *Review Journal of Autism and Developmental Disorders, 6*, 78–88.
 - Paivio, A. (1986). *Mental Representations: A Dual Coding Approach.* Oxford University Press.
 - Mayer, R. E. (2021). *Multimedia Learning* (3rd ed.). Cambridge University Press. [doi:10.1017/9781316941355](https://doi.org/10.1017/9781316941355)

@@ -66,5 +66,5 @@ Question generation transforms reading from comprehension into evaluation, and s
 ## Key Sources
 - Freire, P. (1970). *Pedagogy of the oppressed*. Herder and Herder.
 - McLaughlin, M., & DeVoogd, G. L. (2004). Critical literacy as comprehension: Expanding reader response. *Journal of Adolescent & Adult Literacy, 48*(1), 52–62.
-- Luke, A. (2012). Critical literacy: Foundational notes. *Theory Into Practice, 51*(1), 4–11. [doi:10.1080/00405841.2012.636334](https://doi.org/10.1080/00405841.2012.636334)
+- Luke, A. (2012). Critical literacy: Foundational notes. *Theory Into Practice, 51*(1), 4–11. [doi:10.1080/00405841.2012.636324](https://doi.org/10.1080/00405841.2012.636324)
 - Janks, H. (2010). *Literacy and power*. Routledge.

@@ -109,7 +109,7 @@ Lesson — a single concept-attainment cycle fits one class period; a unit may c
 
 ## Key Sources
 - Bruner, J. S., Goodnow, J. J., & Austin, G. A. (1956). *A study of thinking*. Wiley.
-- Tennyson, R. D., & Cocchiarella, M. J. (1986). An empirically based instructional design theory for teaching concepts. *Review of Educational Research, 56*(1), 40–71. [doi:10.3102/00346543056001055](https://doi.org/10.3102/00346543056001055)
+- Tennyson, R. D., & Cocchiarella, M. J. (1986). An empirically based instructional design theory for teaching concepts. *Review of Educational Research, 56*(1), 40–71. [doi:10.2307/1170286](https://doi.org/10.2307/1170286)
 - Klahr, D., & Nigam, M. (2004). The equivalence of learning paths in early science instruction: Effects of direct instruction and discovery learning. *Psychological Science, 15*(10), 661–667. [doi:10.1111/j.0956-7976.2004.00737.x](https://doi.org/10.1111/j.0956-7976.2004.00737.x)
 - Schwartz, D. L., & Bransford, J. D. (1998). A time for telling. *Cognition and Instruction, 16*(4), 475–522. [doi:10.1207/s1532690xci1604_4](https://doi.org/10.1207/s1532690xci1604_4)
 - Merrill, M. D., & Tennyson, R. D. (1977). *Teaching concepts: An instructional design guide*. Educational Technology Publications.

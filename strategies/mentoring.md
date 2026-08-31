@@ -65,7 +65,7 @@ Mentoring works because it combines [Coaching](../elements/coaching.md) with sus
 - **PhD advisor–advisee relationships** — the canonical academic mentoring dyad, combining instrumental functions (co-authorship, sponsorship) with psychosocial ones; quality predicts completion and time-to-degree.
 
 ## Key Sources
-- DuBois, D. L., Holloway, B. E., Valentine, J. C., & Cooper, H. (2002). Effectiveness of mentoring programs for youth: A meta-analytic review. *American Journal of Community Psychology, 30*(2), 157–197. [doi:10.1023/A:1020166206619](https://doi.org/10.1023/A:1020166206619)
-- Eby, L. T., Allen, T. D., Evans, S. C., Ng, T., & DuBois, D. L. (2008). Does mentoring matter? A multidisciplinary meta-analysis comparing mentored and non-mentored individuals. *Journal of Vocational Behavior, 72*(2), 254–267. [doi:10.1016/j.jvb.2007.05.006](https://doi.org/10.1016/j.jvb.2007.05.006)
+- DuBois, D. L., Holloway, B. E., Valentine, J. C., & Cooper, H. (2002). Effectiveness of mentoring programs for youth: A meta-analytic review. *American Journal of Community Psychology, 30*(2), 157–197. [doi:10.1037/e314882004-001](https://doi.org/10.1037/e314882004-001)
+- Eby, L. T., Allen, T. D., Evans, S. C., Ng, T., & DuBois, D. L. (2008). Does mentoring matter? A multidisciplinary meta-analysis comparing mentored and non-mentored individuals. *Journal of Vocational Behavior, 72*(2), 254–267. [doi:10.1016/j.jvb.2007.04.005](https://doi.org/10.1016/j.jvb.2007.04.005)
 - Kram, K. E. (1985). *Mentoring at work: Developmental relationships in organizational life.* Scott Foresman.
 - Collins, M. E., & Augsberger, A. (2016). Youth mentors' perceived role and goal setting: An analysis of the role of mentoring in supporting youth. *Children and Youth Services Review, 71*, 203–211. [doi:10.1016/j.childyouth.2016.11.006](https://doi.org/10.1016/j.childyouth.2016.11.006)

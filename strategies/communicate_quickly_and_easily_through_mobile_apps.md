@@ -80,6 +80,6 @@ Large-scale text-messaging programs show high parent engagement and meaningful e
 
 ## Key Sources
 - Kraft, M. A., & Rogers, T. (2015). The underutilized potential of teacher-to-parent communication: Evidence from a field experiment. *Economics of Education Review, 47*, 49–63. [doi:10.2139/ssrn.2528688](https://doi.org/10.2139/ssrn.2528688)
-- Doss, C., Fahle, E. M., Loeb, S., & York, B. N. (2019). More than just a nudge: Supporting kindergarten parents with differentiated and personalized text messages. *Journal of Human Capital, 13*(4), 535–563. [doi:10.1086/705683](https://doi.org/10.1086/705683)
+- Doss, C., Fahle, E. M., Loeb, S., & York, B. N. (2019). More than just a nudge: Supporting kindergarten parents with differentiated and personalized text messages. *Journal of Human Capital, 13*(4), 535–563. [doi:10.3386/w24450](https://doi.org/10.3386/w24450)
 - York, B. N., & Loeb, S. (2014). One step at a time: The effects of an early literacy text messaging program for parents of preschoolers. *NBER Working Paper No. 20659*. [doi:10.3386/w20659](https://doi.org/10.3386/w20659)
 - Epstein, J. L., & Van Voorhis, F. L. (2001). More than minutes: Teachers' roles in designing homework. *Educational Psychologist, 36*(3), 181–193. [doi:10.1207/S15326985EP3603_4](https://doi.org/10.1207/S15326985EP3603_4)

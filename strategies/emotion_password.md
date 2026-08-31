@@ -67,7 +67,7 @@ The strategy draws on the facial feedback tradition, which holds that producing 
 - **Early-elementary morning entry ritual** — a kindergarten teacher posts a picture card of the day's expression; children make the face at the door, then mark their own current feeling on a chart during morning circle.
 
 ## Key Sources
-- Coles, N. A., Larsen, J. T., & Lench, H. C. (2019). A meta-analysis of the facial feedback literature: Effects of facial actions on emotional experiences are small and variable. *Psychological Bulletin, 145*(6), 610–651. [doi:10.1037/bul0000184](https://doi.org/10.1037/bul0000184)
+- Coles, N. A., Larsen, J. T., & Lench, H. C. (2019). A meta-analysis of the facial feedback literature: Effects of facial actions on emotional experiences are small and variable. *Psychological Bulletin, 145*(6), 610–651. [doi:10.1037/bul0000194](https://doi.org/10.1037/bul0000194)
 - Brackett, M. A., Bailey, C. S., Hoffmann, J. D., & Simmons, D. N. (2019). RULER: A theory-driven, systemic approach to social, emotional, and academic learning. *Educational Psychologist, 54*(3), 144–161. [doi:10.1080/00461520.2019.1614447](https://doi.org/10.1080/00461520.2019.1614447)
 - Ekman, P., & Friesen, W. V. (1975). *Unmasking the face: A guide to recognizing emotions from facial clues*. Prentice Hall.
 - Barrett, L. F., Adolphs, R., Marsella, S., Martinez, A. M., & Pollak, S. D. (2019). Emotional expressions reconsidered: Challenges to inferring emotion from human facial movements. *Psychological Science in the Public Interest, 20*(1), 1–68. [doi:10.1177/1529100619832930](https://doi.org/10.1177/1529100619832930)

@@ -67,5 +67,5 @@ Literacy centers are fundamentally a classroom-management solution for enabling 
 - Fountas, I. C., & Pinnell, G. S. (2017). *Guided reading: Responsive teaching across the grades* (2nd ed.). Heinemann.
 - Diller, D. (2007). *Making the most of small groups: Differentiation for all*. Stenhouse Publishers.
 - Boushey, G., & Moser, J. (2014). *The Daily 5: Fostering literacy independence in the elementary grades* (2nd ed.). Stenhouse Publishers.
-- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil, P. B. Mosenthal, P. D. Pearson, & R. Barr (Eds.), *Handbook of reading research* (Vol. 3, pp. 403–422). Erlbaum.
+- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil, P. B. Mosenthal, P. D. Pearson, & R. Barr (Eds.), *Handbook of reading research* (Vol. 3, pp. 403–422). Erlbaum. [doi:10.1108/978-1-60752-786-220251011](https://doi.org/10.1108/978-1-60752-786-220251011)
 - Tomlinson, C. A. (2014). *The differentiated classroom: Responding to the needs of all learners* (2nd ed.). ASCD.

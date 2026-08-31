@@ -75,7 +75,7 @@ Video replay works because it converts fleeting performance into a stable, revie
 - **Counselor and clinical training:** Recorded mock counseling sessions reviewed in supervision, with the trainee first self-assessing before receiving supervisor feedback.
 
 ## Key Sources
-- Fukkink, R. G., Trienekens, N., & Kramer, L. J. C. (2011). Video feedback in education and training: Putting learning in the picture. *Teaching and Teacher Education, 27*(7), 1010–1018. [doi:10.1016/j.tate.2011.04.009](https://doi.org/10.1016/j.tate.2011.04.009)
+- Fukkink, R. G., Trienekens, N., & Kramer, L. J. C. (2011). Video feedback in education and training: Putting learning in the picture. *Teaching and Teacher Education, 27*(7), 1010–1018. [doi:10.1007/s10648-010-9144-5](https://doi.org/10.1007/s10648-010-9144-5)
 - Sigrist, R., Rauter, G., Riener, R., & Wolf, P. (2013). Augmented visual, auditory, haptic, and multimodal feedback in motor learning: A review. *Psychonomic Bulletin & Review, 20*(1), 21–53. [doi:10.3758/s13423-012-0333-8](https://doi.org/10.3758/s13423-012-0333-8)
 - Gaudin, C., & Chaliès, S. (2015). Video viewing in teacher education and professional development: A literature review. *Educational Research Review, 16*, 41–67. [doi:10.1016/j.edurev.2015.06.001](https://doi.org/10.1016/j.edurev.2015.06.001)
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)

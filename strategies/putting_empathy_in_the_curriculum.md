@@ -68,6 +68,6 @@ Empathy is teachable but not automatic: explicit instruction combined with persp
 
 ## Key Sources
 - Davis, M. H. (1983). Measuring individual differences in empathy: Evidence for a multidimensional approach. *Journal of Personality and Social Psychology, 44*(1), 113–126. [doi:10.1037/0022-3514.44.1.113](https://doi.org/10.1037/0022-3514.44.1.113)
-- Konrath, S. H., O'Brien, E. H., & Hsing, C. (2011). Changes in dispositional empathy in American college students over time: A meta-analysis. *Personality and Social Psychology Review, 15*(2), 180–198. [doi:10.1177/1088868310387395](https://doi.org/10.1177/1088868310387395)
-- Schonert-Reichl, K. A., Smith, V., Zaidman-Zait, A., & Hertzman, C. (2012). Promoting children's prosocial behaviors in school settings: A meta-analysis of social and emotional learning interventions. *Social Development, 21*(3), 561–577. [doi:10.1111/j.1467-9507.2011.00631.x](https://doi.org/10.1111/j.1467-9507.2011.00631.x)
+- Konrath, S. H., O'Brien, E. H., & Hsing, C. (2011). Changes in dispositional empathy in American college students over time: A meta-analysis. *Personality and Social Psychology Review, 15*(2), 180–198. [doi:10.1177/1088868310377395](https://doi.org/10.1177/1088868310377395)
+- Schonert-Reichl, K. A., Smith, V., Zaidman-Zait, A., & Hertzman, C. (2012). Promoting children's prosocial behaviors in school settings: A meta-analysis of social and emotional learning interventions. *Social Development, 21*(3), 561–577. [doi:10.1007/s12310-011-9064-7](https://doi.org/10.1007/s12310-011-9064-7)
 - Batson, C. D. (2009). *These things called empathy: Eight related but distinct phenomena.* In J. Decety & W. Ickes (Eds.), *The social neuroscience of empathy* (pp. 3–15). MIT Press.

@@ -67,5 +67,5 @@ Interest-based negotiation builds transferable social-problem-solving skill by t
 ## Key Sources
 - Fisher, R., Ury, W., & Patton, B. (2011). *Getting to yes: Negotiating agreement without giving in* (3rd ed.). Penguin Books.
 - Johnson, D. W., & Johnson, R. T. (1996). Conflict resolution and peer mediation programs in elementary and secondary schools: A review of the research. *Review of Educational Research, 66*(4), 459–506. [doi:10.3102/00346543066004459](https://doi.org/10.3102/00346543066004459)
-- Thompson, L., Wang, J., & Gunia, B. C. (2010). Negotiation: 2010–2012. *Annual Review of Psychology, 64*, 491–519. [doi:10.1146/annurev.psych.120710.100431](https://doi.org/10.1146/annurev.psych.120710.100431)
+- Thompson, L., Wang, J., & Gunia, B. C. (2010). Negotiation: 2010–2012. *Annual Review of Psychology, 64*, 491–519. [doi:10.1146/annurev.psych.093008.100458](https://doi.org/10.1146/annurev.psych.093008.100458)
 - Deutsch, M. (2006). Cooperation and competition. In M. Deutsch, P. T. Coleman, & E. C. Marcus (Eds.), *The handbook of conflict resolution* (2nd ed., pp. 23–42). Jossey-Bass.
