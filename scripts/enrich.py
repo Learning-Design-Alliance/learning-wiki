@@ -189,6 +189,22 @@ def read_csv_lookup(csv_path: Path, name_col: str) -> dict[str, dict]:
     return lookup
 
 
+def anthropic_text(content_blocks) -> str:
+    """Join the text blocks of an Anthropic response.
+
+    Claude 4.6+ models — Sonnet 5 included — think adaptively by default, so
+    `response.content` can lead with a ThinkingBlock. Reaching for
+    `content[0].text` then raises "'ThinkingBlock' object has no attribute
+    'text'" and the page is silently lost to the per-page error handler.
+    Confirmed in production: a `--model sonnet` run over claims failed on 4 of
+    5 pages this way, and the one that succeeded only did so because it
+    happened not to emit a thinking block.
+
+    Select by block type rather than trusting position, and join rather than
+    taking the first — a response may contain more than one text block."""
+    return "".join(b.text for b in content_blocks if getattr(b, "type", None) == "text")
+
+
 def unwrap_json_response(content: str) -> str:
     """Some model responses (confirmed in production with GLM-5.3-flash via
     OpenRouter) come back as a JSON envelope like {"answer": "...markdown..."}
@@ -1181,7 +1197,7 @@ def cmd_collect(args: argparse.Namespace) -> None:
 
         if result.result.type == "succeeded":
             try:
-                content = unwrap_json_response(result.result.message.content[0].text)
+                content = unwrap_json_response(anthropic_text(result.result.message.content))
                 content, repairs = repair_misfiled_links(content, args.type)
                 write_enriched_page(page_path, content)
                 create_missing_stubs(content, args.type)
@@ -1484,7 +1500,7 @@ def cmd_run(args: argparse.Namespace) -> None:
                     system=get_system_prompt(args.type),
                     messages=[{"role": "user", "content": user_prompt}],
                 )
-                content = response.content[0].text
+                content = anthropic_text(response.content)
 
             content, repairs = repair_misfiled_links(content, args.type)
             if repairs:
