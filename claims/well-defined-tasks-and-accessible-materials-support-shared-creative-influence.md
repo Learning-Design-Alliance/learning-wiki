@@ -21,11 +21,11 @@ sources:
 The same adolescent group produced shared, distributed creative influence during a well-defined modeling task with accessible materials, and unproductive social conflict during an ill-defined form-design task with resource-constrained materials — with a formally designated "expert" role failing to protect a student's merit-based argument from being overridden by peer social dominance in the latter task.
 
 ## Subclaims
-`q2 i2` During a well-defined block-modeling task (maximize function and site orientation) using equally accessible, malleable colored blocks, four 12–13-year-olds reached general agreement within 30 minutes and co-created a novel design concept through elaboration and gesture, with all new ideas "picked up" and expanded on regardless of who proposed them. [→ Pierroux et al. 2022](#pierroux-steier-ludvigsen-2022)
+`q2 i2` During a well-defined block-modeling task (maximize function and site orientation) using equally accessible, malleable colored blocks, four 12–13-year-olds reached general agreement within 30 minutes and co-created a novel design concept through elaboration and gesture, with all new ideas "picked up" and expanded on regardless of who proposed them. [→ Pierroux et al. 2022](#pierroux-et-al-2022)
 
-`q2 i2` During an ill-defined form-design task (what should the building look like?) using resource-constrained, technically demanding professional materials, the same group's interactions were characterized by disagreement and unresolved tension, with the final product hastily resolved in the last ten minutes of a two-hour session. [→ Pierroux et al. 2022](#pierroux-steier-ludvigsen-2022)
+`q2 i2` During an ill-defined form-design task (what should the building look like?) using resource-constrained, technically demanding professional materials, the same group's interactions were characterized by disagreement and unresolved tension, with the final product hastily resolved in the last ten minutes of a two-hour session. [→ Pierroux et al. 2022](#pierroux-et-al-2022)
 
-`q2 i2` A student formally assigned as the group's "Inspiration expert" and making repeated merit-based arguments (an explicit contrast-concept, a historical reference) was unable to influence the group's design outcome; the group rejected his contributions with social pressure ("it's ugly") rather than by engaging his reasoning, and the disagreement went unresolved through task completion. [→ Pierroux et al. 2022](#pierroux-steier-ludvigsen-2022)
+`q2 i2` A student formally assigned as the group's "Inspiration expert" and making repeated merit-based arguments (an explicit contrast-concept, a historical reference) was unable to influence the group's design outcome; the group rejected his contributions with social pressure ("it's ugly") rather than by engaging his reasoning, and the disagreement went unresolved through task completion. [→ Pierroux et al. 2022](#pierroux-et-al-2022)
 
 ## Evidence
 
