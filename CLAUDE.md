@@ -8,6 +8,59 @@ The wiki is a bundle in the [Open Knowledge Format (OKF) v0.2](https://github.co
 
 ---
 
+## Working alongside other sessions — read this before starting
+
+This repo has one human maintainer and many Claude Code sessions — nine open at the time
+of writing, each in its own worktree. A session that has been idle for a day still holds
+its old plan and its old view of `main`, and resuming it will happily redo work that has
+already landed. Sessions cannot message each other (an idle one is disconnected), so
+**this file is the coordination channel** — it is loaded into every session's context
+automatically. Anything a future session must not undo belongs here.
+
+**Keep the number of live sessions small.** Most of the duplication below came from
+parallel sessions, not from parallel people. One session per open task, closed when the
+task merges.
+
+**Branch from `main`, merge to `main` the same day, never stack.** A wiki-wide fix is a
+wiki-wide diff: a typical task here changes 200+ files. Two branches living longer than a
+day *will* collide on hundreds of them. This is not hypothetical — on 2026-08-31 three
+branches were open at once, each changing ~200 of the same files, arranged in a stack
+(`normalize-slugs` → `fix-no-h1-pages` → `research-scraper-test-setup`) whose base kept
+moving. Two sessions independently fixed the same 13 corrupted pages, independently wrote
+a link-repair tool, and independently shipped the *same* `[^)\s]+` parenthesis bug in it.
+One merge cost 41 conflict resolutions. Do not open a PR whose base is another feature
+branch.
+
+**Before starting any wiki-wide pass, check whether it is already done.** Run
+`python3 scripts/lint.py` and `python3 scripts/wiki_health_check.py --skip-doi` first, and
+`git log --oneline -20 origin/main` to see what landed recently. A count of zero means the
+work is done, not that the check is broken.
+
+**Things that are settled — do not re-litigate or revert:**
+
+- **Never assert a DOI that has not been resolved against Crossref.** A DOI that resolves
+  to the *wrong* paper is worse than none, because it reads as verified. `10.1007/978-1-4684-7562-3_3`
+  ("Model of Causality in Social Learning Theory") was auto-applied to 69 pages as Bandura
+  (1977); it took a manual audit to catch. `cc.titles_align()` guards the containment case
+  that let it through, and `enrich.verify_page_citations()` gates every newly written page.
+- **`classify_doi`'s `error` status is not `wrong_paper`.** A failed lookup means Crossref
+  was unreachable. Stripping on `error` deletes good DOIs from every page touched during an
+  outage.
+- **Unenriched claim pages are `status: draft`, and lint's DOI check skips drafts.** This is
+  deliberate, and matches how `check_draft_no_description` and `check_stable_unverified`
+  already work. Do not "fix" it by promoting those pages to `review`.
+- **Links to filenames containing parentheses need the `<...>` form.** A bare destination
+  closes at the first `)`. `scripts/fix_links.py --apply` repairs them; lint's
+  `link_needs_angle_brackets` catches new ones.
+- **`scripts/find_title_duplicates.py` reports ~943 near-duplicate title pairs.** That is a
+  known backlog, mostly hyphen-vs-underscore variants of one page. It is reported, not
+  lint-failing, on purpose.
+
+**When you finish something wiki-wide, add a line here.** That is how the next session
+finds out.
+
+---
+
 ## Three core operations
 
 ### 1. Ingest
