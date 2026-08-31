@@ -313,9 +313,15 @@ def _reject_non_page_body(path: Path, content: str) -> None:
             f"the template wasn't followed. Body starts: {body.strip()[:200]!r}"
         )
 
-    m = _DELIBERATION_RE.search(body)
+    # Scan prose only. The page templates put their own instructions in HTML
+    # comments — the claim template says "Summarize ONLY the Evidence entries
+    # already present in the draft stub below" — and matching those would
+    # reject pages for following the template correctly (claims/activation.md
+    # was rejected by exactly that before this).
+    prose = re.sub(r"<!--.*?-->", "", body, flags=re.DOTALL)
+    m = _DELIBERATION_RE.search(prose)
     if m:
-        line = next((l for l in body.split("\n") if m.group(0).lower() in l.lower()), "")
+        line = next((l for l in prose.split("\n") if m.group(0).lower() in l.lower()), "")
         raise InvalidPageContentError(
             f"Model response contains its own authoring commentary rather than page "
             f"content — refusing to write over {path}. Matched {m.group(0)!r} in: "

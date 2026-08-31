@@ -2,7 +2,7 @@
 
 Concrete teaching activity recipes — specific, implementable approaches.
 
-**2556 entries** · 0 stable · 2523 in review · 33 drafts
+**2556 entries** · 0 stable · 2510 in review · 46 drafts
 
 ---
 
@@ -438,7 +438,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Contextual Redefinition](contextual-redefinition.md) - Learners encounter an unfamiliar word in a rich sentence context, hypothesize its meaning, then receive confirmation or correction to refine the definition.
 * [Contextual Vocabulary Introduction](contextual_vocabulary_introduction.md) - Introducing vocabulary words within the context of a story or reading passage so learners derive meaning from surrounding text rather than from isolated definitions.
 * [Contract Grading](contract_grading.md) - An assessment arrangement in which instructor and learner agree in advance on the work, quality criteria, and grade attached to specified levels of completed work.
-* [Contrasting Cases](contrasting-cases.md) - [one-line]
 * [Conver-Stations](conver-stations.md) - A small-group discussion strategy in which learners rotate between evolving groups, carrying ideas with them to broaden exposure to peers' perspectives.
 * [Conversations about Emotions and Social Issues](conversations_about_emotions_and_social_issues.md) - Structured, explicit conversations in which learners name, discuss, and reason about emotions and social issues, including issues of social justice.
 * [Cooperative Classroom Activities](cooperative_classroom_activities.md) - Design classroom activities that involve cooperative work rather than competitive or individualistic work.
@@ -1448,7 +1447,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Multisensory Instruction](multisensory_instruction.md) - Multisensory instruction combines visual, auditory, and tactile-kinesthetic techniques simultaneously to teach skills — most prominently decoding and spelling — so that learning is reinforced through multiple sensory channels.
 * [Multisensory Letter Formation](multisensory-letter-formation.md) - Teaching letter shapes by simultaneously engaging visual, auditory, kinesthetic, and tactile channels — seeing, saying, tracing, and writing each letter.
 * [Multisensory Memory Strategies for Irregular Words](multisensory_memory_strategies_for_irregular_words.md) - Multisensory memory strategies for irregular words involve using multiple senses (visual, auditory, kinesthetic, and tactile) to enhance memory and retention of irregularly spelled words.
-* [Multisensory Phonics Instruction](multisensory-phonics-instruction.md) - ...
 * [Multisensory Phonics Instruction](multisensory_phonics_instruction.md) - Teaching letter–sound relationships through simultaneous visual, auditory, and kinesthetic–tactile channels so that decoding is grounded in multiple sensory traces.
 * [Multisensory Teaching](multisensory-teaching.md) - Teaching that deliberately pairs visual, auditory, kinesthetic, and tactile input so learners encode content through multiple modalities simultaneously.
 * [Multisyllable Word Instruction](multisyllable_word_instruction.md) - Multisyllable word instruction teaches learners to break words into syllables using the six syllable types, affixes, and schwa patterns to improve decoding and spelling.
@@ -1478,7 +1476,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Non-Confrontational Check-ins](non-confrontational_check-ins.md) - Brief, positive, low-stakes interactions at the classroom threshold that build rapport and preempt disruptive behavior before instruction begins.
 * [Non-intensive Home Numeracy Environment (HNE) Intervention Program](non-intensive_home_numeracy_environment_(hne)_intervention_program.md) - Teachers provide families with information, suggestions, and materials to increase the frequency and quality of math exploration and play at home.
 * [Nonconfrontational Statements and Informal Chitchat](nonconfrontational_statements_and_informal_chitchat.md) - Greeting students at the door and using brief, nonconfrontational statements and informal chitchat to pre-correct behavior, build relationships, and socialize students into productive classroom conduct.
-* [Norm_Setting](norm_setting.md) - ...
 * [Normalizing Error](normalizing-error.md) - Deliberately framing errors as expected, informative, and safe so learners engage with mistakes rather than avoiding them.
 * [Normalizing Struggle](normalizing-struggle.md) - Creating a classroom culture in which difficulty and failure are framed as expected, valuable parts of learning, so students persist through challenges rather than avoiding them.
 * [Normalizing Struggle](normalizing_struggle.md) - Normalizing struggle creates classroom culture in which difficulty, error, and productive failure are treated as expected and valuable parts of learning rather than signs of inadequacy.
@@ -2594,24 +2591,14 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### 0-9 & Other {: #letter-num }
 
 * ['What's My Emotion?' Game Check-In](whats_my_emotion_game_check-in.md) - Students use the EQ Feeling Chart to identify, act out, and guess feelings, building emotional literacy through a game-based check-in.
-* [...](leveraging_strengths_in_relationship_skills.md) - ...
 * [3 2 1_Reflection](3-2-1_reflection.md) - A structured closure routine in which learners record 3 things they learned, 2 things they found interesting or want to know more about, and 1 question or lingering confusion.
 * [3-Source Rule](3-source_rule.md) - A corroboration strategy requiring students to confirm any claim found online against at least three independent sources before accepting or citing it.
 * [5-Minute Writing Conferences](5-minute_writing_conferences.md) - Brief, structured one-on-one conferences in which students lead with a self-assessment and the teacher delivers targeted, rubric-anchored feedback on one strength and one growth area.
-* [[Strategy Name]](classroom-design-for-engagement.md) - [One-line summary]
-* [[Strategy Name]](define_and_apply_ethical_responsibility.md) - [One-line summary]
-* [[Strategy Name]](formative-assessment-cycles.md) - [One-line summary]
-* [[Strategy Name]](formative-feedback.md) - [One-line summary]
-* [[Strategy Name]](have_explicit_conversations_about_emotions_and_social_issues,_including_issues_of_social_justice.md) - [One-line summary]
-* [[Strategy Name]](ongoing_feedback_and_reflection.md) - [One-line summary]
 * [[Strategy Name]](promoting_belonging_through_cues_and_representations.md) - [One-line summary]
-* [[Strategy Name]](puppet_shows_to_explore_emotions.md) - [One-line summary]
-* [[Strategy Name]](sketchnoting.md) - [One-line summary]
-* [[Strategy Name]](teaching-as-learning.md) - [One-line summary]
 * [\"Document Outline\" Tool]("document_outline"_tool.md) - Students use the \"Document outline\" tool in Google Docs to extract evidence supporting the main ideas they've found in a text.
 * [\"Headings and Highlight\" Strategy]("headings_and_highlight"_strategy.md) - A collaborative digital reading routine in which pairs highlight key ideas and distill sections into four-word headings, then compare and justify their choices with text evidence.
 
 
 ## Draft
 
-33 draft entries are currently omitted from this section page to keep the index navigable. Browse the folder directly or promote pages to `review` as they are curated.
+46 draft entries are currently omitted from this section page to keep the index navigable. Browse the folder directly or promote pages to `review` as they are curated.
