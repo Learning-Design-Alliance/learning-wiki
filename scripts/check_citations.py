@@ -749,6 +749,159 @@ def summarize_collisions(collisions: list[dict]) -> str:
     return "\n".join(lines)
 
 
+# --- Near-identical DOI families -------------------------------------------
+#
+# The fourth defect shape, and the one the other three checks are blind to by
+# construction. find_conflicts reports "this paper carries N DOIs" and stops
+# there; it treats 10.1073/pnas.1523698113 vs 10.1177/1745691615621640 (two
+# unrelated registrants) exactly like 10.1177/1745691615621640 vs
+# ...621643 vs ...621645 — nine SAGE suffixes for okonofua-2016 that differ
+# from each other by two or three digits.
+#
+# The second shape is not a disagreement between sources. It is one DOI that
+# the model reproduced from memory several times, getting the tail wrong a
+# different way each time. At most one member of such a family can be the
+# real article, so a family of N contributes at least N-1 provably wrong DOIs
+# — which is a stronger statement than "these disagree", and it is available
+# without any lookup.
+#
+# It is emphatically NOT a verdict on WHICH member is wrong. ehri-2001 cites
+# 10.1598/rrq.36.3.2 and 10.1598/rrq.36.3.3 — one character apart, and both
+# real: consecutive articles in the same Reading Research Quarterly issue.
+# Nothing in the shape of a suffix distinguishes that from a fabricated
+# neighbour. The family is a signal that narrows where to look; Crossref
+# still says which one survives. See resolve_citation_metadata.py, where a
+# family member Crossref 404s while a sibling resolves to the cited paper is
+# the one case the family makes actionable.
+
+MAX_SUFFIX_EDITS = 3
+
+
+def _edit_distance(a: str, b: str, cap: int = MAX_SUFFIX_EDITS) -> int:
+    """Levenshtein distance, abandoned once it provably exceeds `cap`."""
+    if abs(len(a) - len(b)) > cap:
+        return cap + 1
+    prev = list(range(len(b) + 1))
+    for i, ca in enumerate(a, 1):
+        cur = [i]
+        for j, cb in enumerate(b, 1):
+            cur.append(min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + (ca != cb)))
+        if min(cur) > cap:
+            return cap + 1
+        prev = cur
+    return prev[-1]
+
+
+def near_identical(a: str, b: str, cap: int = MAX_SUFFIX_EDITS) -> bool:
+    """True if two DOIs are the same registrant with near-identical suffixes.
+
+    Requires an identical prefix: 10.1073/... and 10.1177/... are different
+    publishers, and a coincidental suffix resemblance across registrants says
+    nothing. Within a registrant, a suffix is an opaque article identifier, so
+    two that differ by a couple of characters are either neighbours in one
+    issue or one of them is a misremembering of the other."""
+    pa, _, sa = a.partition("/")
+    pb, _, sb = b.partition("/")
+    if pa != pb or not sa or not sb or sa == sb:
+        return False
+    return _edit_distance(sa, sb, cap) <= cap
+
+
+def find_doi_variant_families(by_key: dict, touched_files: set = None) -> list[dict]:
+    """Return citation clusters that cite two or more near-identical DOIs.
+
+    Runs over the same author-year + title clusters find_conflicts uses, so a
+    "family" is always several DOIs offered for one paper — never two papers
+    that happen to sit next to each other in an issue."""
+    families = []
+    for key, entries in by_key.items():
+        if len(entries) < 2:
+            continue
+        for cluster in _cluster_by_title(entries):
+            if touched_files and not any(e["source"] in touched_files for e in cluster):
+                continue
+            dois = sorted({e["doi"] for e in cluster if e["doi"]})
+            if len(dois) < 2:
+                continue
+            # Union-find over near_identical, so a chain a~b~c groups as one
+            # family even where a and c are three edits apart.
+            parent = {d: d for d in dois}
+
+            def find(d):
+                while parent[d] != d:
+                    parent[d] = parent[parent[d]]
+                    d = parent[d]
+                return d
+
+            for i, a in enumerate(dois):
+                for b in dois[i + 1:]:
+                    if near_identical(a, b):
+                        parent[find(a)] = find(b)
+            groups = defaultdict(list)
+            for d in dois:
+                groups[find(d)].append(d)
+            for members in groups.values():
+                if len(members) < 2:
+                    continue
+                counts = {d: sum(1 for e in cluster if e["doi"] == d)
+                          for d in members}
+                families.append({
+                    "key": key,
+                    "prefix": members[0].partition("/")[0],
+                    "members": sorted(members, key=lambda d: (-counts[d], d)),
+                    "counts": counts,
+                    "entries": [e for e in cluster if e["doi"] in set(members)],
+                })
+    return sorted(families, key=lambda f: (-len(f["members"]),
+                                           -sum(f["counts"].values()), f["key"]))
+
+
+def variant_siblings(families: list[dict]) -> dict:
+    """{doi -> set of the other DOIs offered for the same paper}."""
+    out = defaultdict(set)
+    for f in families:
+        for d in f["members"]:
+            out[d] |= set(f["members"]) - {d}
+    return dict(out)
+
+
+def summarize_variant_families(families: list[dict]) -> str:
+    if not families:
+        return "No near-identical DOI families found."
+    cites = sum(sum(f["counts"].values()) for f in families)
+    wrong = sum(len(f["members"]) - 1 for f in families)
+    lines = [
+        f"{len(families)} paper(s) are cited with a family of near-identical DOIs "
+        f"({cites} citation(s), {sum(len(f['members']) for f in families)} distinct DOIs).",
+        f"At least {wrong} of those DOIs are wrong: the members of a family share a "
+        f"registrant and differ by a few characters, so at most one can be the article.",
+        "",
+        "Which one survives still needs Crossref — 10.1598/rrq.36.3.2 and .3 differ by",
+        "one character and are both real, consecutive articles in the same issue.",
+        "",
+    ]
+    for f in families[:12]:
+        lines.append(f"  {f['key']}  —  {len(f['members'])} variants under {f['prefix']}/")
+        for d in f["members"]:
+            lines.append(f"      {f['counts'][d]:4}x  {d}")
+    if len(families) > 12:
+        lines.append(f"\n  ... and {len(families) - 12} more.")
+    lines.append("\nRun with --full for every affected file.")
+    return "\n".join(lines)
+
+
+def format_variant_report(families: list[dict]) -> str:
+    if not families:
+        return "No near-identical DOI families found."
+    lines = [f"{len(families)} near-identical DOI famil(y/ies):\n"]
+    for f in families:
+        lines.append(f"## {f['key']}  ({f['prefix']}/)")
+        for e in sorted(f["entries"], key=lambda e: (e["doi"], e["source"])):
+            lines.append(f"  - {e['source']}: {e['doi']}")
+        lines.append("")
+    return "\n".join(lines)
+
+
 def format_report(conflicts: list[dict]) -> str:
     if not conflicts:
         return "No citation conflicts found."
@@ -781,11 +934,21 @@ def main() -> None:
     parser.add_argument("--titles", action="store_true",
                         help="Report DOIs cited with more than one distinct title "
                              "(see find_title_divergence)")
+    parser.add_argument("--variants", action="store_true",
+                        help="Report papers cited with a family of near-identical DOIs — "
+                             "same registrant, suffixes a few characters apart "
+                             "(see find_doi_variant_families)")
     args = parser.parse_args()
 
     page_types = PAGE_TYPES if args.files else ((args.type,) if args.type else PAGE_TYPES)
     by_key = load_all_citations(page_types)
     touched = set(args.files) if args.files else None
+
+    if args.variants:
+        families = find_doi_variant_families(by_key, touched)
+        print(format_variant_report(families) if args.full
+              else summarize_variant_families(families))
+        sys.exit(0 if not families else 1)
 
     if args.titles:
         results = find_title_divergence(load_by_doi(by_key), touched)
