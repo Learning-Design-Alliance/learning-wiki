@@ -107,6 +107,7 @@ def run(skip_doi: bool = False) -> dict:
     pages = lint.all_pages()
     lint_checks = {
         "broken_links": lint.check_broken_links,
+        "dead_anchors": lint.check_dead_anchors,
         "drafts": lint.check_draft_no_description,
         "claims": lint.check_claims_missing_evidence,
         "principles": lint.check_principles_missing_claims,
@@ -127,7 +128,13 @@ def run(skip_doi: bool = False) -> dict:
     title_duplicates = {f: ftd.find_pairs(f) for f in PAGE_TYPES}
     title_duplicate_count = sum(len(v) for v in title_duplicates.values())
 
-    citation_conflicts = cc.find_conflicts(cc.load_all_citations())
+    all_citations = cc.load_all_citations()
+    citation_conflicts = cc.find_conflicts(all_citations)
+    # The other direction: one DOI asserted for two different papers. Invisible
+    # to find_conflicts, which groups by author+year and so can only compare
+    # citations that already agree on both — which is precisely why the wrong
+    # Bandura DOI sat on 69 pages with every page agreeing with every other.
+    doi_collisions = cc.find_doi_collisions(cc.load_by_doi(all_citations))
     collisions = fcfd.find_collisions()
     self_referential = fcfd.find_self_referential(collisions)
     needs_judgment = {slug: folders for slug, folders in collisions.items() if slug not in self_referential}
@@ -142,6 +149,7 @@ def run(skip_doi: bool = False) -> dict:
         "timestamp": datetime.now(timezone.utc).isoformat(),
         "lint": {name: len(issues) for name, issues in lint_results.items()},
         "citation_conflicts": len(citation_conflicts),
+        "doi_collisions": len(doi_collisions),
         "doi_issues": len(doi_issues),
         "doi_skipped": skip_doi,  # so a consumer can tell "0 problems" apart from "not checked this run"
         "title_duplicates": title_duplicate_count,
@@ -152,6 +160,7 @@ def run(skip_doi: bool = False) -> dict:
         "_detail": {
             "lint": lint_results,
             "citation_conflicts": citation_conflicts,
+            "doi_collisions": doi_collisions,
             "doi_issues": doi_issues,
             "self_referential": self_referential,
             # {slug: [folders]} — the collisions NOT auto-resolved by the
@@ -181,7 +190,9 @@ def format_report(result: dict) -> str:
         "",
         "## Summary",
         lint_line,
-        f"- Citation conflicts: {result['citation_conflicts']}",
+        f"- Citation conflicts (one paper, two DOIs): {result['citation_conflicts']}",
+        f"- DOI collisions (one DOI, two papers): {result.get('doi_collisions', 0)} "
+        f"— run `check_citations.py --collisions` for the list",
         f"- Near-duplicate title pairs (same folder): {result['title_duplicates']} "
         f"— run `find_title_duplicates.py` for the list",
         f"- DOI resolution problems: {result['doi_issues']}",
@@ -207,6 +218,10 @@ def format_report(result: dict) -> str:
     if result["_detail"]["citation_conflicts"]:
         lines.append("\n## Citation conflicts")
         lines.append(cc.format_report(result["_detail"]["citation_conflicts"]))
+
+    if result["_detail"].get("doi_collisions"):
+        lines.append("\n## DOI collisions — one DOI, more than one paper")
+        lines.append(cc.format_collision_report(result["_detail"]["doi_collisions"]))
 
     if result["_detail"]["doi_issues"]:
         lines.append("\n## DOI resolution problems")
@@ -297,6 +312,7 @@ def main() -> None:
         print(report)
 
     total_issues = (sum(result["lint"].values()) + result["citation_conflicts"]
+                     + result["doi_collisions"]
                      + result["doi_issues"] + result["cross_folder_needs_judgment"])
     sys.exit(0 if not total_issues else 1)
 

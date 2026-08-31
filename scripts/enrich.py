@@ -468,6 +468,25 @@ def verify_page_citations(path: Path, apply: bool = True) -> list[dict]:
                 text = text.replace(form.replace(doi, doi.upper()), "")
     if apply and removals:
         path.write_text(text, encoding="utf-8")
+
+    # Offline backstop. Everything above needs Crossref, and on an 'error'
+    # status it deliberately leaves the DOI alone rather than deleting good
+    # data during an outage — which means a whole batch can be written with
+    # no DOI verification at all and nothing says so. This check needs no
+    # network: it asks whether the DOIs this page just asserted are cited
+    # for a *different* paper elsewhere in the wiki. Reported, never
+    # stripped — which of the two citations is wrong is a human call, and
+    # guessing is how the wrong one becomes canonical.
+    try:
+        collisions = cc.find_doi_collisions(cc.load_by_doi(cc.load_all_citations()), {rel})
+    except Exception as e:
+        print(f"  [collision check skipped: {e}]", file=sys.stderr)
+        collisions = []
+    for c in collisions:
+        others = sorted({e["source"] for cl in c["clusters"] for e in cl} - {rel})
+        print(f"  [DOI collision] {rel}: {c['doi']} is also cited for a different "
+              f"paper in {', '.join(others)} — one of them is wrong", file=sys.stderr)
+
     return removals
 
 

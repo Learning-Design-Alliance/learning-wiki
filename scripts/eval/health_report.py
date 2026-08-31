@@ -158,6 +158,29 @@ def _judgment_section(result: dict) -> str:
           <ul class="issue-list">{"".join(rows)}</ul>
         </div>""")
 
+    collisions = detail.get("doi_collisions", [])
+    if collisions:
+        rows = []
+        for c in collisions:
+            papers = "".join(
+                '<li><ul class="issue-list">' + "".join(
+                    f'<li>{_file_link(e["source"])}: {_esc(e["line"][:110])}</li>' for e in cl
+                ) + "</ul></li>"
+                for cl in c["clusters"]
+            )
+            rows.append(f'<li><strong>{_esc(c["doi"])}</strong>'
+                        f'<ul class="issue-list">{papers}</ul></li>')
+        parts.append(f"""
+        <div class="issue-group">
+          <h3>DOI collisions <span class="count-badge">{len(collisions)}</span></h3>
+          <p class="muted">One DOI asserted for more than one paper — the opposite of a citation
+          conflict, and the more dangerous direction, because every page agrees with every other.
+          This is how a Springer chapter's DOI sat on 69 pages as Bandura (1977). At most one side
+          of each pair is right; deciding which needs Crossref, so nothing is changed
+          automatically.</p>
+          <ul class="issue-list">{"".join(rows)}</ul>
+        </div>""")
+
     doi_issues = detail.get("doi_issues", [])
     if result.get("doi_skipped"):
         parts.append("""
@@ -224,7 +247,10 @@ def render_html(result: dict) -> str:
 
     tiles = "".join([
         _stat_tile("Lint issues", lint_total, warn=lint_total > 0),
-        _stat_tile("Citation conflicts", result["citation_conflicts"], warn=result["citation_conflicts"] > 0),
+        _stat_tile("Citation conflicts", result["citation_conflicts"],
+                   sub="one paper, two DOIs", warn=result["citation_conflicts"] > 0),
+        _stat_tile("DOI collisions", result.get("doi_collisions", 0),
+                   sub="one DOI, two papers", warn=result.get("doi_collisions", 0) > 0),
         _stat_tile("DOI problems", doi_display, warn=(not result.get("doi_skipped")) and result["doi_issues"] > 0),
         _stat_tile("Needs judgment", result["cross_folder_needs_judgment"],
                    sub=f"{result['cross_folder_self_referential']} auto-resolved",
