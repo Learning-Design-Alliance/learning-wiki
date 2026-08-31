@@ -23,6 +23,8 @@ sources:
 
 # Choice Boards
 
+> **Element** · [All elements](index.md)
+
 ## Description
 A choice board is a visual matrix of learning activities — often a 3×3 "tic-tac-toe" grid — from which learners select a required subset (e.g., any three in a row, one from each column). It converts a single assigned task into a bounded set of options, giving learners autonomy over *how* they engage with content or demonstrate learning while the instructor retains control over *what* is learned.
 

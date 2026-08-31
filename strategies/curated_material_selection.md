@@ -10,6 +10,8 @@ generated:
 
 # Curated Material Selection
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Curated material selection is the ongoing practice of reviewing an instructional resource collection — readings, videos, examples, datasets, tools — against explicit criteria tied to learning goals, and pruning what no longer serves. It treats materials as a maintained portfolio rather than an accumulating archive: items are added because they meet a defined instructional need, and retired when they are outdated, redundant, or misaligned.
 

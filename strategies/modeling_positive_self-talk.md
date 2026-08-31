@@ -10,6 +10,8 @@ generated:
 
 # Modeling Positive Self-Talk
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Modeling positive self-talk means the teacher, parent, or mentor deliberately verbalizes constructive internal dialogue — reframing setbacks, acknowledging effort, and expressing realistic optimism — so learners can observe how a competent adult manages their own thinking. It is a form of [Demonstration](../elements/demonstration.md) applied to affective and metacognitive skills: the "expert performance" being modeled is not a procedure but a pattern of self-directed thought.
 

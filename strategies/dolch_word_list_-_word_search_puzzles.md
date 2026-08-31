@@ -10,6 +10,8 @@ generated:
 
 # Dolch Word List - Word Search Puzzles
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy uses word search puzzles whose target words are drawn from the Dolch Word List — the 220 high-frequency service words compiled by Edward W. Dolch (1936) that account for a large share of running text in early reading materials. Learners scan letter grids to locate sight words, providing repeated visual exposure intended to build automatic word recognition. The puzzles function as low-stakes, self-checkable practice rather than primary instruction.
 

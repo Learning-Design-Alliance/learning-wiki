@@ -10,6 +10,8 @@ generated:
 
 # Interactive Delivery With Questioning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Interactive delivery with questioning replaces extended one-way presentation with a sequence of instructor-posed questions, student responses, and responsive follow-up. The instructor plans questions in advance, elicits answers from many students (not just volunteers), and adapts the explanation in real time to what responses reveal about understanding.
 

@@ -10,6 +10,8 @@ generated:
 
 # Attribution Retraining
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Attribution retraining is a strategy grounded in Weiner's attribution theory: learners who attribute failure to stable, uncontrollable causes ("I'm just not a math person") disengage, while those who attribute it to unstable, controllable causes ("I didn't use the right strategy") persist. The strategy uses structured feedback, guided discussion, and reflection to shift attributions toward effort, strategy use, and task conditions. It is typically delivered after failure or difficulty experiences, when attributions are most salient and malleable.
 

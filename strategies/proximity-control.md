@@ -10,6 +10,8 @@ generated:
 
 # Proximity Control
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Proximity control is a nonverbal classroom-management strategy in which the teacher moves toward — and stands or works near — a student or group showing early signs of disengagement or disruption. The teacher's physical presence raises the salience of monitoring, which typically suppresses off-task behavior without interrupting instruction, public reprimand, or loss of instructional time.
 

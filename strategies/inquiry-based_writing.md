@@ -10,6 +10,8 @@ generated:
 
 # Inquiry-Based Writing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Inquiry-based writing positions a focused investigation — collecting "immediate and concrete data" through observation, interviews, surveys, experiments, or document analysis — as the generative engine of a writing task. Learners write about something they have actually examined rather than something they must invent or recall, so the composing problem shifts from "what do I have to say?" to "how do I best say what I found?" The strategy is carried out by sequencing a genuine data-gathering activity, structured analysis of that data, and then drafting, revising, and publishing writing grounded in the evidence.
 

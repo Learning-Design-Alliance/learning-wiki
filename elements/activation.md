@@ -10,6 +10,8 @@ generated:
 
 # Activation
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Activation prompts learners to retrieve and make explicit what they already know before encountering new material. It functions as a bridge: existing knowledge structures provide the slots into which new information must be organized, so learning that begins with activation is faster and more coherent than learning that begins cold.
 

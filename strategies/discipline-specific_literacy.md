@@ -10,6 +10,8 @@ generated:
 
 # Discipline-Specific Literacy
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Discipline-specific literacy (also called disciplinary literacy) teaches students how texts are constructed, interpreted, and used within a particular field — how historians source documents, how scientists read data and methods sections, how mathematicians parse proofs. It rests on the finding that literacy skills are not generic: the strategies that make a strong reader in one discipline can be counterproductive in another [Shanahan & Shanahan, 2008](https://doi.org/10.17763/haer.78.1.n77784r701489l70) [+S]. Instruction typically pairs [mentor texts](mentor-texts.md) with explicit modeling of disciplinary reading and writing moves, followed by guided practice and feedback.
 

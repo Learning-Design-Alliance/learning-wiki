@@ -10,6 +10,8 @@ generated:
 
 # Standards-Based Grading
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Standards-based grading (SBG) replaces point-accumulation and percentage systems with evaluation against explicitly defined learning standards. Each grade reports what a student knows and can do relative to a standard — often on a proficiency scale — rather than averaging behavior, effort, homework compliance, and early failures into a single number. Reassessment is typically permitted, so the grade reflects eventual mastery rather than the pace at which it was reached.
 

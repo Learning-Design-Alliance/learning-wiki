@@ -27,6 +27,8 @@ sources:
 
 # Project-based Learning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Project-based learning (PBL) engages learners in sustained inquiry around an authentic, real-world problem or challenge, culminating in a public product or presentation. Learners generate questions, research, plan, iterate on solutions, and reflect, with the instructor acting as facilitator — managing groups, monitoring progress, and providing ongoing feedback rather than delivering content up front.
 

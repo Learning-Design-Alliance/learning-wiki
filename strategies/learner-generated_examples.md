@@ -10,6 +10,8 @@ generated:
 
 # Learner-Generated Examples
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learner-generated examples ask students to produce their own instances of a concept, principle, or procedure — a novel illustration, a personal anecdote, a worked case — rather than only recognizing or studying examples supplied by the instructor. Generating an example requires retrieving the concept's defining features and mapping them onto new content, which promotes reflection, reinforces well-formed concepts, and exposes fuzzy boundaries or misconceptions that passive study leaves hidden.
 

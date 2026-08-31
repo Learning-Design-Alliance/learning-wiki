@@ -10,6 +10,8 @@ generated:
 
 # Creating Questions
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Creating Questions is a strategy in which learners generate questions about content they are listening to. The instructor pauses at intervals during a speech, documentary, podcast, or read-aloud, and learners write one or two questions about what they just heard. This shifts learners from passively receiving information to actively monitoring their own comprehension — listening for points of confusion, gaps, or curiosity. Because learners are typically trained to answer questions rather than pose them, brief modeling of effective question formulation is essential.
 

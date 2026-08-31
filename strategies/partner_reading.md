@@ -10,6 +10,8 @@ generated:
 
 # Partner Reading
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Partner reading is a cooperative learning strategy in which two learners work together to read an assigned text. Learners take turns reading aloud and provide each other with feedback in order to monitor comprehension. It is most widely implemented as the fluency component of Peer-Assisted Learning Strategies (PALS), a class-wide peer-tutoring program in which the teacher pairs a stronger reader with a developing reader. When one partner makes an error, the other says, "The word is ___. What's the word?" The reader repeats the correct word, and the partner says, "Now reread," prompting the reader to return to the beginning of the sentence and read it without error.
 

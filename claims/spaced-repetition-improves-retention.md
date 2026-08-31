@@ -11,6 +11,8 @@ evidence_strength: strong
 
 # Spaced Repetition Improves Retention
 
+> **Claim** · [All claims](index.md)
+
 Distributing study of a given item across multiple sessions separated by time produces stronger long-term retention than massing the same amount of study into a single session. The advantage grows as the retention interval lengthens [+S].
 
 ## Subclaims

@@ -10,6 +10,8 @@ generated:
 
 # Estimation and Prediction Activities
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Estimation and prediction activities ask learners to commit in advance to a concrete, checkable judgment — how many problems they will solve correctly, how long a task will take, how confident they are in an answer, or what an experiment will show — before they engage with the task. After completing the work, learners compare their predictions against actual outcomes. The gap between predicted and actual performance becomes the object of reflection, targeting the accuracy of learners' self-assessments rather than the task performance alone.
 

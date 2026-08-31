@@ -10,6 +10,8 @@ generated:
 
 # Virtual Reality (VR) for Empathy Training
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners wear a head-mounted display and inhabit a first-person virtual scenario in which they experience a situation from another person's perspective — for example, navigating a financial crisis as a customer, experiencing homelessness, or perceiving the world through a colleague's constraints. The strategy combines embodied simulation with structured debrief and practice of empathic responses, so that the VR experience functions as a setup for skill rehearsal rather than an end in itself.
 

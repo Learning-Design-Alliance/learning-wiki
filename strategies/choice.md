@@ -10,6 +10,8 @@ generated:
 
 # Choice
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Choice is a strategy in which learners are given structured options over some aspect of their learning — the topic they study, the format of their product, the sequence of tasks, or the level of challenge. It is carried out by designing a bounded set of meaningful alternatives rather than a single prescribed path, then letting learners select among them.
 

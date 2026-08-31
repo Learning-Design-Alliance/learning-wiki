@@ -10,6 +10,8 @@ generated:
 
 # Play Based Learning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Play based learning positions play — activity that is intrinsically motivated, enjoyable, process-oriented, and freely chosen — as the primary vehicle for learning. It spans a continuum from free play (child-directed with no adult agenda) to guided play (adults design the environment and co-play with a learning goal in mind, but children retain direction) to direct instruction. The strategy is carried out by curating rich materials, joining or observing play to extend it with questions and vocabulary, and embedding target concepts into play scenarios rather than delivering them didactically.
 

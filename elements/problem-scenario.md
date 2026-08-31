@@ -10,6 +10,8 @@ generated:
 
 # Problem Scenario
 
+> **Element** · [All elements](index.md)
+
 ## Description
 A problem scenario places learners inside a structured, realistic situation — a business decision, a patient case, a design brief — that cannot be resolved without applying target knowledge. Unlike a [Case Study](case-study.md), which typically presents how a situation unfolded, a problem scenario is deliberately incomplete: learners must define the problem, gather or request information, and commit to decisions with consequences.
 

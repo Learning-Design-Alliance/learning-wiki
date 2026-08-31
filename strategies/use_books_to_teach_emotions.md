@@ -10,6 +10,8 @@ generated:
 
 # Use Books to Teach Emotions
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Stories are used as examples of handling emotions in a responsible way. Fiction provides a safe, inviting entry point for conversations about the range of feelings and how to handle each. By reading and discussing how characters' emotions connect with their actions, students begin to articulate how emotions drive behavior — and how behavior can be regulated. The strategy works because narrative offers *vicarious* emotional experience: readers simulate characters' mental states without the social risk of exposing their own [~M].
 

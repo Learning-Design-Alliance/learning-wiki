@@ -11,6 +11,8 @@ evidence_strength: low
 
 # Mismatched Graphic Organizers Increase Extraneous Load
 
+> **Claim** · [All claims](index.md)
+
 A graphic organizer helps learning only when its structure matches the structure of the content and the task; a mismatched organizer forces learners to reconcile two incompatible representations, consuming working-memory resources that do not contribute to schema construction.
 
 ## Subclaims

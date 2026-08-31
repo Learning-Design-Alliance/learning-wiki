@@ -10,6 +10,8 @@ generated:
 
 # Badges
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Badges are a digital way to acknowledge learner work. Learners can receive a badge if they achieve certain levels of success on assignments, or if they do additional work, such as submitting a draft or sharing notes with another learner. Badges may be displayed to other learners in the class as a means to encourage competition or to demonstrate the variety of badges which can be earned. Well-designed badges function as micro-credentials: they carry explicit criteria and evidence, making them closer to [Competency-Based Assessment](../principles/competency-based-assessment.md) than to simple participation rewards.
 

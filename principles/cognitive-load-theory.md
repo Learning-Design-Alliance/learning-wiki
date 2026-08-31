@@ -15,6 +15,8 @@ sources:
 
 # Cognitive Load Theory
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Cognitive Load Theory, as a design principle, emphasizes managing the demands placed on working memory so learners can devote more capacity to schema construction rather than avoidable confusion. In practice this means simplifying presentation, sequencing support, and reducing unnecessary processing costs.
 

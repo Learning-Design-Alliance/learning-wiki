@@ -11,6 +11,8 @@ evidence_strength:
 
 # Rewards Undermine Intrinsic Motivation
 
+> **Claim** · [All claims](index.md)
+
 Extrinsic rewards — particularly tangible, expected rewards offered contingent on task engagement or completion — can reduce learners' intrinsic motivation for activities they initially found interesting.
 
 ## Subclaims

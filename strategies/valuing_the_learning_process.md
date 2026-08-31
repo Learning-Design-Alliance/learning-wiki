@@ -10,6 +10,8 @@ generated:
 
 # Valuing the Learning Process
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Valuing the learning process means structuring instruction, feedback, and evaluation so that learners experience understanding, exploration, and productive struggle as the point of the activity — not merely the route to a grade. In practice this involves framing tasks as opportunities to grow, rewarding strategy use and revision, and de-emphasizing social comparison and normative evaluation. The goal is to shift learners toward a mastery (task-involved) goal orientation rather than a performance (ego-involved) one.
 

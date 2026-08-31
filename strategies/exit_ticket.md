@@ -10,6 +10,8 @@ generated:
 
 # Exit Ticket
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 An exit ticket is a brief assessment — typically one to three questions or a short prompt — completed by learners in the final minutes of a lesson and submitted before they leave. Responses are reviewed by the instructor, who uses them to gauge understanding, surface misconceptions, and adjust the next lesson. Because it doubles as retrieval practice and as formative assessment data, it serves both learner and instructor simultaneously.
 

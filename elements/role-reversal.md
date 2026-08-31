@@ -10,6 +10,8 @@ generated:
 
 # Role Reversal
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Role reversal asks learners to argue the position they currently oppose — typically mid-debate or after an initial round of advocacy. By constructing the strongest case for the other side, learners must engage with opposing arguments at the level of reasoning rather than merely rebutting them, which exposes the partiality of their own position and deepens understanding of the issue's structure.
 

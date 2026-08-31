@@ -16,6 +16,8 @@ evidence_strength: moderate
 
 # Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.
 
+> **Claim** · [All claims](index.md)
+
 The expertise reversal effect describes a recurring pattern in instructional research: scaffolds, explanations, and worked examples that reduce cognitive load for novices lose value once learners have already internalized the underlying schema.
 
 ## Subclaims

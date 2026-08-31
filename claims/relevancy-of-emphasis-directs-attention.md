@@ -16,6 +16,8 @@ id: CL-RELEVANCY
 
 # Relevancy of emphasized text directs attention and influences test performance
 
+> **Claim** · [All claims](index.md)
+
 Emphasis cues such as underlining do not simply boost learning overall — they shift attention toward whatever is emphasized, so test performance follows the *relevancy* of the marked material rather than the mere presence of marking.
 
 ## Subclaims

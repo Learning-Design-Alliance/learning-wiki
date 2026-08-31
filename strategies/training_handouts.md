@@ -10,6 +10,8 @@ generated:
 
 # Training Handouts
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Training handouts are supplementary materials distributed during training sessions to structure attention, support note-taking, and provide a durable reference after the session ends. Effective handouts do not duplicate slides verbatim; they are designed as participation tools — outlines with gaps to complete, worksheets, feedback forms, and action plans — that require learners to actively process content during the session.
 

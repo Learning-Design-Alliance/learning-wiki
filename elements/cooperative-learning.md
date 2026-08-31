@@ -10,6 +10,8 @@ generated:
 
 # Cooperative Learning
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Cooperative learning organizes instruction so that small groups of learners work interdependently toward a shared goal, with each member responsible for both their own learning and their teammates' learning. It is distinguished from mere group work by deliberate structuring: positive interdependence, individual accountability, promotive interaction, social skills, and group processing (Johnson & Johnson's five elements).
 

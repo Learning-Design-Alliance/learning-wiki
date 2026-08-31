@@ -17,6 +17,8 @@ grain_size: unit
 
 # Cognitive Flexibility Theory
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Cognitive Flexibility Theory is a pattern for teaching in ill-structured domains by repeatedly revisiting concepts across multiple cases, perspectives, and contexts. Rather than presenting knowledge as a single linear explanation, the pattern helps learners see how ideas shift depending on context, representation, and problem framing. It is especially useful where oversimplified rules break down and learners need to interpret complexity rather than apply a fixed procedure.
 

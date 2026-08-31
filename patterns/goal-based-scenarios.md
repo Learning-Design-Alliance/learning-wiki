@@ -17,6 +17,8 @@ grain_size: unit
 
 # Goal-Based Scenarios
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Goal-Based Scenarios organize learning around a mission or role-based objective pursued inside a realistic scenario. This page serves as the canonical short-form pattern target for references that point to the GBS family without the explicit acronym.
 

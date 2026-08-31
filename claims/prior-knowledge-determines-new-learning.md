@@ -11,6 +11,8 @@ evidence_strength: strong
 
 # Prior Knowledge Determines New Learning
 
+> **Claim** · [All claims](index.md)
+
 New learning is built on what the learner already knows: existing knowledge structures determine what can be understood, how new information is organized, and where misconceptions will interfere. This is a foundational premise of [cognitive load theory](../theories/cognitive-load-theory.md) and schema-based accounts of learning rather than a single experimental finding — its Evidence section therefore awaits a dedicated synthesis of the supporting literature.
 
 ## Subclaims

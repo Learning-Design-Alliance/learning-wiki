@@ -11,6 +11,8 @@ evidence_strength: weak
 
 # Peer Feedback Improves Work Quality
 
+> **Claim** · [All claims](index.md)
+
 Feedback provided by peers on drafts or work-in-progress can improve the quality of the work produced, both for receivers (who act on the feedback) and often for givers (who learn by evaluating others' work against criteria). [+W]
 
 ## Subclaims

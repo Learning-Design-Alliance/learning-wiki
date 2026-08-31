@@ -10,6 +10,8 @@ generated:
 
 # Dim or Natural Lighting
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Dim or natural lighting is an environmental design strategy that manages the intensity, color temperature, and source (daylight vs. electric) of light in a learning space. Rather than uniform, high-intensity overhead fluorescent lighting, the space offers tunable or dimmable illumination — brighter and cooler for focused work, dimmer and warmer for calm activities — and maximizes access to natural light. Harsh, flickering, or humming fixtures are treated as sources of distraction and sensory discomfort, particularly for learners with autism or sensory processing differences.
 

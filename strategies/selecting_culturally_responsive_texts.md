@@ -10,6 +10,8 @@ generated:
 
 # Selecting Culturally Responsive Texts
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy involves auditing and curating classroom libraries, assigned readings, and multimedia texts so that learners encounter characters, authors, and perspectives that mirror their own identities and open windows into others' experiences (Bishop, 1990). Selection is guided by criteria of authenticity, complexity, and representation — prioritizing #OwnVoices authors and avoiding tokenism — and the texts are then integrated into instruction rather than displayed as symbols of diversity.
 

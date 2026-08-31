@@ -10,6 +10,8 @@ generated:
 
 # SOAP (Specific, Observable, Appropriate, Personal)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 SOAP is an acronym that serves as a guide for teachers when selecting behaviors for students to self-monitor. Each letter represents a criterion: the behavior should be **Specific** (precisely defined, not vague), **Observable** (detectable by the student without inference), **Appropriate** (matched to the student's developmental level and the instructional context), and **Personal** (meaningful and relevant to the individual student). The acronym operationalizes the behavioral-assessment principle that self-monitoring interventions succeed or fail at the point of target-behavior selection.
 

@@ -10,6 +10,8 @@ generated:
 
 # Collect My Data
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Collect My Data is a learner-driven data-collection strategy in which students select a question or category of items to investigate (e.g., favorite fruit, types of pets, weather observations), record observations using tally charts, and then translate the tallies into graphs. The strategy moves learners through the full data cycle — posing a question, gathering data, representing it, and interpreting results — using their own choices as the content.
 

@@ -12,6 +12,8 @@ grain_size: course
 
 # Fostering Communities of Learning (FCL)
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Fostering Communities of Learning is a pattern for organizing a class as a knowledge-building community rather than a collection of isolated learners. Learners investigate topics, share expertise, teach one another, and reflect on how the community's understanding is evolving. The pattern treats learning as distributed across people, roles, and artifacts, with the instructor shaping the norms and supports that let the community function productively.
 

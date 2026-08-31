@@ -10,6 +10,8 @@ generated:
 
 # Positive Reinforcement Schedules
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Positive reinforcement schedules are planned patterns for delivering rewarding consequences after a target behavior, drawn from operant conditioning [Behaviorism](../theories/behaviorism.md). The schedule — *when* and *how often* reinforcement follows the behavior — matters as much as the reinforcer itself: continuous reinforcement builds new behaviors fastest, while intermittent schedules (fixed/variable ratio and interval) produce greater resistance to extinction once the behavior is established (Ferster & Skinner, 1957). In learning design, this covers token economies, points, praise routines, and gamified reward cadences.
 

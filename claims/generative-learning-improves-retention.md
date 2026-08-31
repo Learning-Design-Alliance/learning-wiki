@@ -11,6 +11,8 @@ evidence_strength:
 
 # Generative Learning Improves Retention
 
+> **Claim** · [All claims](index.md)
+
 Learners who transform to-be-learned material into new forms — summarizing, mapping, self-explaining, drawing, teaching — retain more than learners who receive or re-read the same material passively.
 
 ## Subclaims

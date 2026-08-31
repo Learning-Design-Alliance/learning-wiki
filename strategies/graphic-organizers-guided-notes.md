@@ -10,6 +10,8 @@ generated:
 
 # Graphic Organizers/Guided Notes
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Graphic organizers are visual frameworks — concept maps, timelines, comparison matrices, flowcharts — that structure the relationships among ideas in a lesson. Guided notes are instructor-prepared lecture notes with key information removed (blanks, prompts, incomplete diagrams) that students complete during instruction. Both externalize the structure of the content so that learners spend limited working memory on comprehension rather than on deciding what to record.
 

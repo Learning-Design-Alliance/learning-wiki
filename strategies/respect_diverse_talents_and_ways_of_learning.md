@@ -10,6 +10,8 @@ generated:
 
 # Respect Diverse Talents and Ways of Learning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 One of Chickering and Gamson's (1987) Seven Principles: learners bring different talents, prior experience, and preferred modes of engagement, and instruction should offer multiple pathways into the same content. In practice this means varying representation (text, visual, demonstration), expression (written, oral, applied), and engagement (individual, collaborative, authentic problems) so that learners can display and extend their strengths rather than being penalized for a single mismatched format. Crucially, this is not the same as matching instruction to a "learning style" — a hypothesis with no supporting evidence.
 

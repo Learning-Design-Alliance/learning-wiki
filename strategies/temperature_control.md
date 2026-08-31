@@ -10,6 +10,8 @@ generated:
 
 # Temperature Control
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Temperature control is the deliberate regulation of ambient thermal conditions in learning environments to keep them within a moderate comfort range — roughly 68–74°F (20–23°C) for typical sedentary classroom activity. It is carried out through HVAC management, monitoring, and responsive adjustment, treating thermal comfort as an instructional precondition rather than a facilities afterthought.
 

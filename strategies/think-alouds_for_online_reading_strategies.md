@@ -10,6 +10,8 @@ generated:
 
 # Think-Alouds for Online Reading Strategies
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A think-aloud for online reading is an explicit modeling activity in which the teacher verbalizes the cognitive and metacognitive decisions involved in navigating digital texts — evaluating search results, judging source credibility, deciding which links to follow, monitoring comprehension across non-linear paths, and backtracking when a path proves unproductive. By making expert decision-making audible, the strategy converts the largely invisible processes of online reading into observable, imitable moves, supporting self-regulation and building the background knowledge needed to navigate non-linear texts.
 

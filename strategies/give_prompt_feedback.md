@@ -10,6 +10,8 @@ generated:
 
 # Give Prompt Feedback
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Knowing what you know and don't know focuses learning. Feedback is an integral part of learning: learners need appropriate feedback on performance to benefit from instruction. In getting started, they need help assessing existing knowledge and competence; during practice, they need frequent opportunities to perform and receive suggestions for improvement; at intervals, they need chances to reflect on what they have learned and what they still need to know. Prompt means the feedback arrives while the learner can still act on it — not after the learning episode has closed.
 

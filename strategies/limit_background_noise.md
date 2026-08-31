@@ -10,6 +10,8 @@ generated:
 
 # Limit Background Noise
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Minimizing background noise — television, conversations, or lyrical music — during learning activities improves concentration and comprehension. Irrelevant background speech is especially disruptive because the auditory system automatically processes its meaning, competing for the same verbal working-memory resources the learner needs for reading or listening [Irrelevant speech and lyrical music impair reading comprehension and reading efficiency.](../claims/cognitive-overload-degrades-learning.md) [+S]. Lyrical music can be as detrimental as speech because its lyrics impose comparable language-processing demands [~S]. Instrumental music without lyrics has little to no negative effect on comprehension [~S].
 

@@ -10,6 +10,8 @@ generated:
 
 # Education Calendars
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Education calendars are visual aids designed to keep students, parents, and teachers informed about important dates, events, and activities. They function as advance organizers for the temporal structure of a course or program: by displaying what is coming and when, they reduce uncertainty about expectations and support planning by all stakeholders. Effective calendars pair clear information design (chunking, color-coding, imagery) with regular distribution and updating.
 

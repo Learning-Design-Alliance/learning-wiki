@@ -10,6 +10,8 @@ generated:
 
 # Interest Based Negotiation
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Interest-based negotiation (also called principled or integrative negotiation) asks parties in a conflict to separate people from the problem, focus on underlying *interests* (needs, concerns, motivations) rather than stated *positions* (demands), generate multiple options for mutual gain, and evaluate options against objective criteria. In learning contexts, it is taught as a skill through role-play and simulation, and used as a process norm for resolving classroom, team, and community disputes.
 

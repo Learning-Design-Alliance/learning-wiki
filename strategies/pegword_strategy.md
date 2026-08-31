@@ -10,6 +10,8 @@ generated:
 
 # Pegword Strategy
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The pegword strategy is a mnemonic technique that uses rhyming words to represent numbers or order. Learners first memorize a fixed list of concrete "pegwords" for each number (one = bun, two = shoe, three = tree), then form interactive visual images linking each pegword to the item to be remembered. Retrieval proceeds by recalling the pegword, which cues the associated image and its content. It is a variant of the keyword method applied to ordered or numbered information.
 

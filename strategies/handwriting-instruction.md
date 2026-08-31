@@ -10,6 +10,8 @@ generated:
 
 # Handwriting Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Handwriting instruction is the explicit, systematic teaching of letter formation, legibility, and writing fluency. It typically progresses from letter formation (stroke direction, starting points) to fluency building (writing letters and words quickly and legibly without conscious attention), so that transcription becomes automatic and working memory is freed for composing [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Instruction combines teacher modeling of strokes, guided practice with immediate feedback, and brief distributed fluency sessions.
 

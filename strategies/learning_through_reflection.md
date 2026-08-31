@@ -10,6 +10,8 @@ generated:
 
 # Learning Through Reflection
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Reflection is the deliberate act of stepping back from an experience to examine it, link it to prior knowledge, and extract transferable meaning. It can be private (journals, self-questioning) or social (structured discussion, peer debrief), and it draws on both cognitive and emotional responses to the experience. Reflection converts raw experience into learning; without it, experience alone often produces little durable change in understanding [~M].
 

@@ -10,6 +10,8 @@ generated:
 
 # Modeling And Think Alouds
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Modeling and think-alouds combine two moves: the instructor demonstrates a skill or process while simultaneously verbalizing the reasoning, decisions, and self-monitoring behind each action. The goal is to externalize expert cognition — not just *what* experts do, but *why* and *how they know* it is working — so learners can build a mental model of both the procedure and the metacognitive control that governs it.
 

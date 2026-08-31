@@ -10,6 +10,8 @@ generated:
 
 # Fishbowl Discussion
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A fishbowl discussion places a small group of students (typically 4–8) in an inner circle or spotlighted space to converse about a text, case, or problem, while the remaining students form an outer circle that observes and analyzes the conversation. Roles then rotate — observers enter the inner circle, often by replacing a specific speaker — so that every student cycles through both participating and observing. The outer group is usually given an analytic task (tracking reasoning moves, noting evidence use, evaluating who built on whom) rather than passively watching.
 

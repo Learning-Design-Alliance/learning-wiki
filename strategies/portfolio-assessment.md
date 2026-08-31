@@ -10,6 +10,8 @@ generated:
 
 # Portfolio Assessment
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Portfolio assessment asks learners to assemble a purposeful, criterion-referenced collection of work samples produced over time — drafts, final products, reflections, and self-assessments — as the primary evidence of learning. Unlike single-point testing, it documents process and growth, and typically requires learners to select artifacts and justify their selections against explicit rubrics or standards.
 

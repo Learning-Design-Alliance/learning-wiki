@@ -10,6 +10,8 @@ generated:
 
 # Cumulative Quizzing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Cumulative quizzing structures assessments so that every quiz draws on material from the entire course to date, not only the most recently taught content. Each retrieval of older material is itself a spaced learning event, so the assessment schedule doubles as the review schedule. It is typically implemented through frequent low-stakes quizzes, with later items revisiting concepts from earlier weeks.
 

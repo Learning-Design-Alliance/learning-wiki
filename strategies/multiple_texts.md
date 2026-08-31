@@ -10,6 +10,8 @@ generated:
 
 # Multiple Texts
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Reading multiple texts on the same topic expands learners' understanding, encourages critical thinking, and fosters synthesis skills. Learners establish a clear purpose for reading, work through short texts from varied sources (news articles, video clips, trade books, diagrams), record and cross-reference information using tools like Inquiry Charts, and integrate ideas through discussion, sketching, and writing. The goal is not accumulation but *inter-textual* reasoning — evaluating source credibility, reconciling conflicting accounts, and building an integrated situation model that no single text provides.
 

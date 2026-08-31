@@ -10,6 +10,8 @@ generated:
 
 # Word Study
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Word study is an approach to spelling and word knowledge instruction in which students actively investigate regularities in words — sound, pattern, and meaning relationships — rather than memorizing arbitrary word lists. Students examine words with shared features, compare and contrast them through sorting activities, and discover spelling generalizations they can apply to unfamiliar words. Instruction is differentiated: teachers assess each student's developmental spelling stage (typically via a spelling inventory) and group accordingly, following the developmental sequence from emergent to derivational relations described in the Words Their Way framework (Bear et al., 2020).
 

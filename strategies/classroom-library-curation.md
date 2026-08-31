@@ -10,6 +10,8 @@ generated:
 
 # Classroom Library Curation
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Classroom library curation is the intentional design of a classroom's book collection: selecting titles that reflect students' identities, interests, and cultures; organizing them for easy browsing and access; and refreshing the collection as readers grow. It treats the library itself as an instructional design decision rather than an inherited room feature.
 

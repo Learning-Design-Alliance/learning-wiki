@@ -10,6 +10,8 @@ generated:
 
 # Concrete Examples
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Concrete examples anchor abstract ideas in specific, tangible instances — a worked physics problem for the principle of conservation, a real negotiation transcript for game theory, a particular poem for the concept of meter. The strategy is carried out by presenting one or more instances first (or alongside the abstraction), then helping learners map features of the example onto the general principle.
 

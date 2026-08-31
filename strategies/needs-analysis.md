@@ -10,6 +10,8 @@ generated:
 
 # Needs Analysis
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Needs analysis (often called needs assessment) is the front-end process of determining whether a performance gap exists, what causes it, and whether — and what kind of — instruction will close it. It gathers data from learners, performers, and stakeholders through interviews, surveys, observation, and document review, then maps findings to instructional or non-instructional interventions. It is carried out before design begins, so that subsequent decisions about objectives, [Practice](../elements/practice.md), and assessment are grounded in evidence rather than assumption.
 

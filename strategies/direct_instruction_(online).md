@@ -10,6 +10,8 @@ generated:
 
 # Direct Instruction (Online)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Direct instruction in online learning involves pre-developed presentations, assessing student work and providing instructive feedback, diagnosing misconceptions, clarifying concepts, and referring students to additional resources or practice opportunities. It is a key component of teaching presence in the [Community of Inquiry](../principles/community-of-inquiry.md) framework, ensuring students receive guidance and support to achieve learning outcomes. Online, the instruction is typically asynchronous and must therefore be fully self-contained: the explanation, modeling, and checks for understanding that a face-to-face teacher improvises must be designed into the materials in advance.
 

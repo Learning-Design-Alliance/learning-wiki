@@ -10,6 +10,8 @@ generated:
 
 # Baseline Assessment
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Baseline assessment measures what learners know and can do *before* instruction begins — prior knowledge, prerequisite skills, misconceptions, and sometimes attitudes or self-efficacy. It is carried out through diagnostics, pretests, placement tasks, or brief ungraded probes, and its primary purpose is to inform instructional decisions (pacing, grouping, content selection), not to grade learners.
 

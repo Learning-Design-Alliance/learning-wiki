@@ -10,6 +10,8 @@ generated:
 
 # Quality Homework Assignments
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Quality homework is purposefully designed out-of-class work that reinforces classroom learning, invites real-world application, and offers enriching experiences — rather than busywork assigned by routine. Effective assignments are meaningful, low-stakes, aligned with explicit learning goals, and designed so learners can complete them independently, often spacing practice over time.
 

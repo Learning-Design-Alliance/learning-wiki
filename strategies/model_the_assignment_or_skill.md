@@ -27,6 +27,8 @@ sources:
 
 # Model the Assignment or Skill
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Modeling means the teacher performs the target task — writing a paragraph, solving a problem, annotating a text, critiquing an argument — while verbalizing the decisions, checks, and revisions that expert performance involves. The goal is to make invisible expert thinking observable, so learners acquire not just the product but the process that produces it.
 

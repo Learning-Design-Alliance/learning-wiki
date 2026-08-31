@@ -10,6 +10,8 @@ generated:
 
 # What’s My Emotion? Game
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 One learner demonstrates an emotion through body language and facial expressions — no words allowed — while the rest of the class guesses the emotion. After each guess, the actor and teacher confirm or correct, name the emotion precisely, and point to the specific cues (posture, eyebrows, movement quality) that signaled it. The game converts emotion recognition from a vocabulary exercise into a perceptual-motor activity with immediate feedback.
 

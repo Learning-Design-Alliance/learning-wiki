@@ -10,6 +10,8 @@ generated:
 
 # Inhibition Support Strategies
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Inhibition support strategies help learners who struggle to suppress irrelevant stimuli, resist impulsive responses, or hold focus on pertinent information. Rather than treating inhibition as a deficit to be drilled, these strategies restructure the task and environment so that working memory and attention are spent on the learning goal, while leveraging learner strengths (e.g., strong verbal reasoning, visual processing, interest-driven engagement) to compensate [Inhibition is one of three core executive functions that supports working memory and cognitive flexibility.](https://doi.org/10.1146/annurev-psych-113011-143750) [+M].
 

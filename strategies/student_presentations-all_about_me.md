@@ -10,6 +10,8 @@ generated:
 
 # Student Presentations All About Me
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Students create and deliver a short presentation about themselves — interests, background, strengths, goals — typically at the start of a course or school year. The task doubles as low-stakes oral communication practice and as a community-building ritual: peers learn who is in the room while the presenter practices organizing and delivering content to an authentic audience.
 

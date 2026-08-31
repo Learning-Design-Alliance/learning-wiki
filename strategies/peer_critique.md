@@ -10,6 +10,8 @@ generated:
 
 # Peer Critique
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Peer critique is a structured strategy in which learners review one another's work against explicit criteria and deliver actionable feedback, then revise their own work in response. It is carried out through protocols (e.g., gallery walks, "two stars and a wish," critical friends protocols) that specify what reviewers look for, how comments are phrased, and how authors respond.
 

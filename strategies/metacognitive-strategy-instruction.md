@@ -10,6 +10,8 @@ generated:
 
 # Metacognitive Strategy Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Metacognitive strategy instruction explicitly teaches learners *how* to approach tasks — planning, monitoring comprehension, selecting and adjusting strategies, and evaluating outcomes — rather than only teaching content. Effective programs combine declarative knowledge (what the strategy is), procedural knowledge (how to execute it), and conditional knowledge (when and why it works), typically through [Explicit Instruction](../principles/explicit-instruction.md), [Think-Aloud](../elements/think-aloud.md) modeling, and guided practice with [Fading](../elements/fading.md).
 

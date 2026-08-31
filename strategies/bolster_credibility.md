@@ -10,6 +10,8 @@ generated:
 
 # Bolster Credibility
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Bolster Credibility is a media-literacy strategy centered on a single diagnostic question: did the writer or speaker engage with anyone who disagrees? A credible source calls the senator whose legislation it criticizes, presents the strongest version of the opposing argument, and lets a challenged guest actually answer. Learners use this criterion both to evaluate sources they consume and to strengthen their own arguments — wrestling with opposing views is a service to the reader and typically improves the argument itself.
 

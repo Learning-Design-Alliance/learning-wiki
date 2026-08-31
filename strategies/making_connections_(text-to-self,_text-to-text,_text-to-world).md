@@ -10,6 +10,8 @@ generated:
 
 # Making Connections (Text-to-Self, Text-to-Text, Text-to-World)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Making Connections is a comprehension strategy in which readers deliberately relate a text to three referents: their own experiences (text-to-self), other texts they have read (text-to-text), and events or knowledge in the wider world (text-to-world). It is usually introduced through instructor modeling — a [Think-Aloud](../elements/think-aloud.md) in which the teacher verbalizes a connection — followed by guided practice with prompts ("This reminds me of…"), and independent application through journals, annotation, or discussion. The strategy is a staple of comprehension-strategies instruction in the tradition of [Reciprocal Teaching](../elements/reciprocal-teaching.md) and transactional reading theory (Rosenblatt, 1978).
 

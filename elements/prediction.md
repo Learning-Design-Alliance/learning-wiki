@@ -10,6 +10,8 @@ generated:
 
 # Prediction
 
+> **Element** · [All elements](index.md)
+
 ## Description
 A prediction asks learners to commit to an answer, outcome, or explanation *before* receiving instruction — guessing the result of an experiment, the next step in a demonstration, or the answer to a question about material not yet taught. The act of committing, even incorrectly, prepares learners to encode the corrective information that follows.
 

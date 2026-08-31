@@ -10,6 +10,8 @@ generated:
 
 # Praising Effort and Strategies
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Praising effort and strategies (often called "process praise") means giving feedback that names the specific actions, strategies, persistence, and choices a learner used — rather than praising the person ("You're so smart") or offering generic approval ("Good job"). The goal is to reinforce the belief that success comes from controllable, learnable behavior, which supports a growth mindset and sustained persistence after setbacks.
 

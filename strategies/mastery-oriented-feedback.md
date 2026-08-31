@@ -10,6 +10,8 @@ generated:
 
 # Mastery Oriented Feedback
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Mastery oriented feedback communicates how a learner's current performance relates to their learning goals and what strategies will move them forward, rather than judging ability, awarding global praise, or ranking students against peers. It treats errors as information about the learning process, keeping attention on the task instead of the self.
 

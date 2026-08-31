@@ -12,6 +12,8 @@ grain_size: program, course, unit
 
 # Social Emotional Learning
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Social Emotional Learning is a framework for developing five interrelated competencies: self-awareness, self-management, social awareness, relationship skills, and responsible decision-making (CASEL, 2020). SEL operates through two channels — explicit instruction in named skills (e.g., emotion labeling, conflict resolution) and integration of those skills into academic content and classroom routines. The pattern addresses the problem that academic learning depends on emotional and interpersonal conditions: students who cannot regulate distress, persist through frustration, or collaborate productively learn less regardless of instructional quality.
 

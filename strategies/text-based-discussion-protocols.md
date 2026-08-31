@@ -10,6 +10,8 @@ generated:
 
 # Text Based Discussion Protocols
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Text based discussion protocols are structured talk routines — such as Socratic seminars, reciprocal teaching, Accountable Talk, and literature circles — that organize student discussion around a common text. Each protocol specifies who speaks, when, with what prompts, and toward what goal, converting the unpredictable dynamics of open discussion into a repeatable structure. The shared text anchors the conversation, requiring participants to ground claims in textual evidence rather than personal opinion.
 

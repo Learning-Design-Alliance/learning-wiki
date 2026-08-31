@@ -10,6 +10,8 @@ generated:
 
 # Reading Online Strategy: Formulating Effective Search Queries
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy teaches students to translate an information need into search terms that a search engine can act on effectively. For younger students, this means selecting keywords and using quotation marks rather than typing full questions; for older students, it extends to Boolean operators (AND, OR, NOT, NEAR), parentheses, and truncation (asterisk). Because search behavior is largely invisible and habitual, instruction pairs explicit modeling with metacognitive reflection on students' own information-seeking, so they can evaluate and revise their query strategies rather than repeating unproductive habits.
 

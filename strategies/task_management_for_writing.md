@@ -10,6 +10,8 @@ generated:
 
 # Task Management for Writing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Task management for writing is a [self-regulated learning](../theories/self-regulated-learning.md) support that helps students break a writing assignment into planned subtasks (brainstorming, outlining, drafting, revising), allocate time to each, and manage distractions during work sessions. It is typically carried out through explicit planning conversations, written task schedules, and agreed routines for breaks and focus. The facilitator's role is to externalize the management function early and progressively hand it to the student.
 

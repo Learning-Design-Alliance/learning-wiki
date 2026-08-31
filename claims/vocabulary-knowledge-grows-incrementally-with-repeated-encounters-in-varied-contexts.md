@@ -11,6 +11,8 @@ evidence_strength: weak
 
 # Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts
 
+> **Claim** · [All claims](index.md)
+
 Word knowledge is not acquired all-at-once; it accumulates gradually across multiple exposures, with each encounter in a different context adding a facet of meaning, usage, and collocation.
 
 ## Subclaims

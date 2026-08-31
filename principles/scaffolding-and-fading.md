@@ -23,6 +23,8 @@ sources:
 
 # Scaffolding and Fading
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Scaffolding provides temporary, contingent support to learners as they develop new skills or knowledge. Fading is the systematic and gradual removal of those supports as the learner gains competence, leading to independent performance and the transfer of responsibility.
 

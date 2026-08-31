@@ -17,6 +17,8 @@ grain_size: unit
 
 # Collaborative Inquiry
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Collaborative inquiry is a pattern in which learners pose questions together, investigate possible answers, critique emerging explanations, and revise their understanding in public. It differs from traditional research assignments by making inquiry collective and iterative rather than individual and linear. The group's evolving questions and explanations become the main engine of learning.
 

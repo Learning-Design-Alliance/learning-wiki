@@ -11,6 +11,8 @@ evidence_strength:
 
 # Deliberate Practice Improves Performance
 
+> **Claim** · [All claims](index.md)
+
 Structured, effortful practice on well-defined subskills at the edge of current ability — with immediate feedback and opportunities for repetition and refinement — produces larger performance gains than mere repetition or experience.
 
 ## Subclaims

@@ -10,6 +10,8 @@ generated:
 
 # Self Assessment Rubrics
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Self assessment rubrics are explicit scoring guides listing quality criteria and performance levels that learners apply to their own drafts, performances, or solutions. The learner, not the instructor, performs the evaluative act: judging work against criteria, identifying gaps, and planning revisions. The strategy is typically carried out before submission (draft-stage self-scoring), at submission (reflective cover sheets), or after feedback (comparing self-scores with instructor scores).
 

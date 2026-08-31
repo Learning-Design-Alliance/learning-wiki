@@ -10,6 +10,8 @@ generated:
 
 # Silent Countdown
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The Silent Countdown is a classroom management technique in which the teacher uses a silent, visual signal — typically raising five fingers and lowering one at a time — to indicate the number of seconds remaining until full quiet and attention are expected. It combines a clear behavioral expectation with a built-in transition period, allowing students to comply without verbal reprimand. The technique is a form of non-verbal cueing within a proactive classroom management system.
 

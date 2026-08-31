@@ -11,6 +11,8 @@ evidence_strength: weak
 
 # Reading Literary Fiction Improves Theory Of Mind
 
+> **Claim** · [All claims](index.md)
+
 Reading literary fiction — as distinct from popular fiction or non-fiction — temporarily improves readers' performance on theory of mind (ToM) tasks, the ability to infer others' mental states.
 
 ## Subclaims

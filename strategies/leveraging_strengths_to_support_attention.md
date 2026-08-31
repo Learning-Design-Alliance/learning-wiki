@@ -10,6 +10,8 @@ generated:
 
 # Leveraging Strengths to Support Attention
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy identifies what a learner already does well — strong visual processing, verbal fluency, sustained interest in particular topics, or self-monitoring habits — and uses that strength as the channel through which attention is recruited and sustained. Instead of treating attention as a deficit to be fixed, the instructor designs tasks so that the learner's strong system carries the load for the weaker one: preferential seating paired with visual anchors, directions delivered in the learner's strongest modality, tasks chunked around interest areas, and self-monitoring tools the learner already uses successfully.
 

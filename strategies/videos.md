@@ -10,6 +10,8 @@ generated:
 
 # Videos
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Videos are dynamic resources for supporting curricula, engaging students through sight and sound. They can bring abstract or inaccessible phenomena into the classroom — historical footage, scientific processes, diverse cultural perspectives — making concepts concrete and memorable. When enhanced with subtitles and embedded questions, video becomes an interactive medium rather than a passive one, allowing students to watch, listen, and read simultaneously.
 

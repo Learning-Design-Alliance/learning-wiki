@@ -10,6 +10,8 @@ generated:
 
 # Text Illustrations With Graphic Organizers
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Text illustrations with graphic organizers pair written expository or argumentative text with a spatial diagram — a matrix, hierarchy, flowchart, or concept map — that represents the text's key ideas and their relationships. The organizer may be provided by the instructor as a reading aid or constructed by learners after reading as a summarization activity. Unlike decorative illustrations, these organizers encode relational structure (comparisons, sequences, classifications) that prose conveys only linearly.
 

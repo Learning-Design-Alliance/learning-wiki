@@ -10,6 +10,8 @@ generated:
 
 # Classical Music
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Playing calm, low-arousal classical music (e.g., Bach, Vivaldi — not bombastic Romantic works) at low volume as learners enter the room or during transitions and independent work. The goal is environmental: to set a professional tone, reduce anxiety, and signal a shift into learning mode — not to deliver content through music.
 

@@ -10,6 +10,8 @@ generated:
 
 # Embrace Errors as Learning Opportunities
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy reframes errors as diagnostic information and learning material rather than as evidence of failure. Instead of moving quickly past a wrong answer, the teacher surfaces the reasoning behind it — identifying what is correct in the student's approach, then guiding the student (or the class) to locate the misconception. Structured uses include [Erroneous Examples](../claims/erroneous-examples-build-conceptual-knowledge.md) — worked examples containing deliberate errors for students to find and fix — and classroom norms that reward risk-taking and reasoning over immediate correctness. The strategy is closely tied to growth-mindset messaging: ability is treated as developable, and struggle is normalized as part of learning.
 

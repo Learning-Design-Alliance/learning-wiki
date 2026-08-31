@@ -10,6 +10,8 @@ generated:
 
 # Dictation And Encoding Practice
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Dictation asks learners to transcribe spoken words, phrases, or sentences into writing; encoding practice is the broader activity of producing spellings from sound rather than reading them from print. Because the learner must segment the speech stream into phonemes and retrieve or construct the letter sequence, dictation exercises the productive direction of the orthographic mapping process that reading alone does not.
 

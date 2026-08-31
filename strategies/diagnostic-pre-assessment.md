@@ -10,6 +10,8 @@ generated:
 
 # Diagnostic Pre Assessment
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A diagnostic pre assessment measures what learners already know, can do, and misunderstand *before* instruction begins. Unlike summative assessment, its purpose is not to grade but to map the starting state — prior knowledge, misconceptions, skill gaps, and misconceptions — so instruction can be calibrated to actual learner needs rather than assumptions.
 

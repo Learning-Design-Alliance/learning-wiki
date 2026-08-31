@@ -10,6 +10,8 @@ generated:
 
 # Precision Requests
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Precision Requests are a low-intensity classroom management strategy in which the teacher makes a clear, specific, positively stated request of a student ("Please begin the worksheet now"), pauses to give the student compliance time, and follows a pre-planned hierarchy of consequences — typically a soft reprimand, then a choice, then a more formal consequence — if compliance does not occur. The technique, developed by Kame'enui and Darch, replaces vague, repeated, or escalating verbal directives with a single precise request and a predictable follow-through sequence.
 

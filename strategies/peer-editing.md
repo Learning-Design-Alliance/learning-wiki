@@ -10,6 +10,8 @@ generated:
 
 # Peer Editing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Peer editing (a form of peer review or peer assessment) has learners exchange drafts and critique one another's work against explicit criteria before revising. It is carried out through structured protocols — rubrics, comment prompts, or review forms — that direct reviewers' attention to specific qualities of the work rather than general impressions.
 

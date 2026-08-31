@@ -11,6 +11,8 @@ evidence_strength: moderate
 
 # Feedback Improves Learning
 
+> **Claim** · [All claims](index.md)
+
 Information provided to learners about their performance or understanding can improve subsequent learning, relative to practice without such information. This page covers the general claim; its strength depends heavily on the form, timing, and content of the feedback and on the learner's stage of expertise.
 
 ## Subclaims

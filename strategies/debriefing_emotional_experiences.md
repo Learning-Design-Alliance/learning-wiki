@@ -10,6 +10,8 @@ generated:
 
 # Debriefing Emotional Experiences
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Debriefing emotional experiences is a structured discussion routine, typically held at the end of the day, in which each child identifies an emotion they experienced, describes the situation that prompted it, and listens as peers do the same. Sentence prompts ("Today I felt ___ when ___") scaffold expression, and the facilitator models non-judgmental responses. The routine converts fleeting emotional episodes into named, reflected-upon experiences, building emotional vocabulary and self-awareness.
 

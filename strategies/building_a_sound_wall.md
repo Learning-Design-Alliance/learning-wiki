@@ -10,6 +10,8 @@ generated:
 
 # Building a Sound Wall
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A sound wall is a classroom display organized around the approximately 44 phonemes of spoken English rather than the 26 letters of the alphabet. Consonants are typically grouped by manner and place of articulation (stops, nasals, fricatives, etc.) with mouth-picture cues, and vowels are arranged as a vowel valley showing the continuum of tongue position. Unlike a traditional A–Z word wall, a sound wall foregrounds the *sound* first and maps graphemes onto it, mirroring the direction of processing required in reading and spelling: learners must go from phoneme to spelling, not letter to sound.
 

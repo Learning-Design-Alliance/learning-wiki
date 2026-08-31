@@ -10,6 +10,8 @@ generated:
 
 # Home Language Reading Demonstrations
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 When newcomer multilingual students arrive in a classroom, the teacher asks them to read a book in their home language — aloud to the teacher, a peer, or a small group — as a [Demonstration](../elements/demonstration.md) of what they already know about reading. The teacher observes fluency, comprehension strategies, print conventions, and expression without needing to speak the language, then uses what is observed to plan instruction. By using the collective skills and knowledge of all students (both ELL and English-L1 students) in the classroom, even a monolingual teacher can tap into these valuable language resources that ELLs have, with confidence that these methods will promote language development in English as well as the home language.
 

@@ -10,6 +10,8 @@ generated:
 
 # Micro Credentials And Badging
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Micro credentials and digital badges certify that a learner has demonstrated a specific, defined competency — a skill, task, or body of knowledge — typically assessed against explicit criteria rather than awarded for seat time. Badges are usually digital, metadata-rich (issuer, criteria, evidence), and stackable toward larger credentials. The strategy restructures recognition around demonstrated performance and makes progress visible in small, frequent increments.
 

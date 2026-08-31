@@ -10,6 +10,8 @@ generated:
 
 # Individual Deliberate Practice
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Deliberate practice is a structured approach to skill development that focuses on intentional, effortful, and consistent work at the edge of current ability. It involves breaking skills into manageable sub-skills, setting specific improvement goals, practicing with full concentration, and receiving timely, descriptive feedback. Sustained repetition builds automaticity, which reduces mental load and frees cognitive resources for more complex tasks [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
 

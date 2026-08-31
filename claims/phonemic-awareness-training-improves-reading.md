@@ -11,6 +11,8 @@ evidence_strength: undetermined
 
 # Phonemic Awareness Training Improves Reading
 
+> **Claim** · [All claims](index.md)
+
 Explicit instruction in identifying, segmenting, and blending the individual sounds (phonemes) in spoken words improves later reading achievement, primarily by supporting the development of decoding and word-recognition skill.
 
 ## Subclaims

@@ -10,6 +10,8 @@ generated:
 
 # Project-Based Transformation of Society
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Students work in small groups to identify and propose solutions to crucial problems in their society. In the classic formulation, groups generate 15 crucial problems and draft 15 laws to address them, then decide how each law would be enforced — fines, rewards, prison sentences, persuasion campaigns, or economic stimuli. The strategy combines [Active Learning](../principles/active-learning.md) with structured [Collaborative Learning](../principles/collaborative-learning.md): identifying issues, developing solutions, and confronting the practical and ethical trade-offs of governance.
 

@@ -10,6 +10,8 @@ generated:
 
 # Emotional Regulation Strategies
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Emotional regulation strategies help learners manage their responses to emotional stimuli—frustration, anxiety, excitement, conflict—so that emotion does not displace learning. Educators first identify each student's regulatory strengths and challenges, then teach explicit regulation skills (reappraisal, self-talk, help-seeking), structure the environment to reduce unnecessary emotional load, and align supports to individual profiles. Regulation can manifest as resolving conflicts, adapting to change, or persisting through difficulty.
 

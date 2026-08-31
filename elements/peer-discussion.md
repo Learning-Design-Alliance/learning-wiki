@@ -27,6 +27,8 @@ sources:
 
 # Peer Discussion
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Peer discussion places learners in structured conversation with classmates to articulate, defend, and revise their understanding of ideas. It converts passive reception into generative processing: learners must externalize reasoning, encounter alternative interpretations, and resolve discrepancies between their thinking and others'.
 

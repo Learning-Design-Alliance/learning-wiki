@@ -10,6 +10,8 @@ generated:
 
 # Socratic Seminar
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Socratic seminar is the element in which learners build understanding through text-centered questioning and discussion.
 

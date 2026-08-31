@@ -10,6 +10,8 @@ generated:
 
 # EQ Feeling Chart Exploration
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners use the EQ Feeling Chart — a visual display of emotion vocabulary organized by intensity and valence — to identify and name their current feelings. In pairs, they discuss what they feel and where the feeling comes from, then share observations with the whole class. The strategy converts diffuse internal states into precise, communicable language, building emotional literacy through structured [Peer Discussion](../elements/peer-discussion.md) and [Whole-Class Sharing](../elements/whole-class-sharing.md).
 

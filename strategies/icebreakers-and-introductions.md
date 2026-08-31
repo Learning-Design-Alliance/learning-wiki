@@ -10,6 +10,8 @@ generated:
 
 # Icebreakers And Introductions
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Icebreakers and introductions are brief, low-stakes activities at the opening of a course, workshop, or session in which participants share information about themselves and learn about others. They range from simple name exchanges to structured prompts ("share one thing you're curious about") and small-group tasks. Their instructional function is social: they build the interpersonal foundation that later collaborative and discussion-based work depends on.
 

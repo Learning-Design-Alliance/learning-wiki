@@ -10,6 +10,8 @@ generated:
 
 # Timed Practice With Progress Monitoring
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Timed practice with progress monitoring pairs brief, repeated, time-limited practice trials on a well-defined skill (e.g., math fact retrieval, decoding, typing) with systematic charting of performance — typically rate correct and errors per minute — across sessions. The timing converts accuracy into a fluency measure, and the visible record of growth serves both instructional decision-making and learner motivation.
 

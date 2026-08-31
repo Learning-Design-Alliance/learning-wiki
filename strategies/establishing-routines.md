@@ -10,6 +10,8 @@ generated:
 
 # Establishing Routines
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Establishing routines means designing and explicitly rehearsing consistent procedures for recurring activities — how discussions begin, how materials are distributed, how transitions occur, how feedback is exchanged — so that these processes become automatic. The instructor teaches the routine as content in its own right, models it, and practices it until learners execute it without instruction. Once automated, the routine recedes from conscious attention, preserving working memory and instructional time for the actual learning task.
 

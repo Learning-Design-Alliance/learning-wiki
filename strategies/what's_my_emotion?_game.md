@@ -10,6 +10,8 @@ generated:
 
 # What's My Emotion? Game
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Using an EQ Feeling Chart, students first identify how they are feeling individually. Then a volunteer demonstrates that feeling through body language and facial expressions only — no words — and the whole class tries to guess what the student is feeling. The activity combines private emotion labeling with public non-verbal expression and group interpretation.
 

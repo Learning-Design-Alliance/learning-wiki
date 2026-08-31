@@ -10,6 +10,8 @@ generated:
 
 # Social Presence
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Social presence is the degree to which participants in a learning environment perceive each other as "real" people — with personality, emotion, and intent — rather than as anonymous or mechanical interlocutors. The principle recommends deliberately designing for social presence through personal introductions, affective and cohesive communication, instructor visibility and responsiveness, and activities that surface learners' identities and voices. It is most consequential in mediated environments (online, blended, asynchronous), where cues that make people feel present are naturally attenuated.
 

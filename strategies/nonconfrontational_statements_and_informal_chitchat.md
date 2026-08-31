@@ -10,6 +10,8 @@ generated:
 
 # Nonconfrontational Statements and Informal Chitchat
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The teacher positions themselves at the classroom door during transitions and greets each student by name, pairing the greeting with either a *nonconfrontational statement* (a brief, private, low-intensity prompt or pre-correction, e.g., "Remember, phones go in the caddy") or *informal chitchat* (a short personal exchange unrelated to behavior, e.g., "How did the game go?"). The strategy converts the unstructured, high-risk transition period into a structured relational touchpoint that sets behavioral expectations before students enter the room.
 

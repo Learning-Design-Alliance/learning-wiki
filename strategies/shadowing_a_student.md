@@ -10,6 +10,8 @@ generated:
 
 # Shadowing a Student
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Shadowing is a direct observation technique in which an adult — a teacher, administrator, coach, or designer — follows a single student through an entire school day, recording low-inference observations of the student's learning, interactions, and environment. The goal is to see school from the student's perspective and gather qualitative evidence without interpretation, opinion, or judgment in the moment. Insights are extracted afterward through structured reflection, and they are typically used to surface hidden barriers, inequities, and opportunities in the learning environment.
 

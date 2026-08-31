@@ -10,6 +10,8 @@ generated:
 
 # Teacher-Student Reading Conferences
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A reading conference is a brief, structured one-on-one conversation between teacher and student about the student's independent reading. The teacher uses a planned rotation — combining scheduled and spontaneous conferences — to learn about the student's reading habits, observe how the student solves problems while reading, offer targeted instruction or feedback, and record notes that inform future teaching. Conferences typically follow a predictable arc: research the reader (ask about the book and process), decide on a teaching point, teach, and link to ongoing practice.
 

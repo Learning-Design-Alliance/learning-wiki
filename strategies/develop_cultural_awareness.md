@@ -10,6 +10,8 @@ generated:
 
 # Develop Cultural Awareness
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Developing cultural awareness as an educator means building empathy for diverse learners, recognizing how one's own identity and cultural positioning shape expectations and interpretations of student behavior, and noticing how the learning environment affects learners' sense of belonging. It is carried out through structured self-reflection, sustained professional learning, coaching, and peer collaboration aimed at surfacing explicit and implicit bias in oneself, in curriculum materials, and in institutional systems.
 

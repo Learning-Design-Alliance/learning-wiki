@@ -10,6 +10,8 @@ generated:
 
 # Learning Clubs
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learning clubs are a grouping system used to organize active learning events around student-selected areas of interest. Guided by the teacher, students select content-area topics and draw on multiple texts — websites, printed material, video, and music — to investigate their topics. Students then share their learning using similar media, such as learning blogs, giving the club a genuine audience and purpose.
 

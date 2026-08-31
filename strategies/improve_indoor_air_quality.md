@@ -23,6 +23,8 @@ sources:
 
 # Improve Indoor Air Quality
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy addresses the physical learning environment by increasing outdoor air supply, filtering or otherwise reducing indoor pollutants (CO₂, particulates, volatile organic compounds, allergens), and managing humidity and temperature in classrooms and study spaces. It is carried out through facility-level measures (HVAC maintenance, ventilation upgrades, CO₂ monitoring), operational routines (scheduled airing, low-emission cleaning and materials), and targeted accommodations for students with respiratory conditions such as asthma.
 

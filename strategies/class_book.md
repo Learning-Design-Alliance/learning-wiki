@@ -10,6 +10,8 @@ generated:
 
 # Class Book
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A class book is a compilation of individually authored pages into a single shared volume, typically following a shared writing or brainstorming activity that establishes a common structure or theme. Each student contributes one page — a word problem, an explanation, an illustration, a chapter — and the assembled book becomes a classroom artifact that others read. The strategy combines individual accountability with a collective product, converting ordinary assignments into publications with a real audience.
 

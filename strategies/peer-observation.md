@@ -10,6 +10,8 @@ generated:
 
 # Peer Observation
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Peer observation is a structured, reciprocal process in which colleagues observe each other's teaching to provide constructive, non-judgmental feedback and stimulate reflection. It typically follows a three-stage cycle: a pre-observation meeting to agree on focus and goals, the observation itself (often using a shared protocol or rubric), and a post-observation debrief for feedback and joint reflection. Unlike administrative evaluation, its purpose is developmental — building shared inquiry and a collaborative improvement culture rather than judging performance.
 

@@ -10,6 +10,8 @@ generated:
 
 # Tiered Assignments
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Tiered assignments present the same essential learning goal to all learners but vary the task's complexity, scaffolding, or abstraction across tiers. Unlike differentiated *outcomes*, tiers differ only in the pathway: every student produces work evidencing the same standard, but the support structure, text complexity, number of steps, or degree of open-endedness is adjusted to readiness. Teachers typically build 2–4 tiers and assign them based on formative assessment data rather than fixed ability labels.
 

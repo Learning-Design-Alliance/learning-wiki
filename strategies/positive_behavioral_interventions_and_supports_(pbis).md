@@ -10,6 +10,8 @@ generated:
 
 # Positive Behavioral Interventions and Supports (PBIS)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 PBIS is a proactive, school-wide framework for improving behavior and climate by *teaching* behavioral expectations the way academic content is taught, then consistently recognizing and reinforcing them. It is organized in three tiers: universal expectations for all students (Tier 1), targeted small-group supports (Tier 2), and intensive individualized interventions (Tier 3). The core premise is that students can only meet expectations they know, have practiced, and see reinforced — so the emphasis is on prevention and explicit instruction rather than punishment.
 

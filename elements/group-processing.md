@@ -10,6 +10,8 @@ generated:
 
 # Group Processing
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Group processing is the fifth element of cooperative learning: after (or during) a collaborative task, the group explicitly reflects on its functioning — which member actions helped or hindered the work, and what to do differently next time. It converts collaboration from an assumed condition into an object of learning, giving teams feedback on both task performance and interpersonal effectiveness.
 

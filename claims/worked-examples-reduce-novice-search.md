@@ -16,6 +16,8 @@ evidence_strength: moderate
 
 # Worked examples reduce unnecessary search for novices.
 
+> **Claim** · [All claims](index.md)
+
 When novices study a fully or partially solved example before independent problem solving, they spend less effort on blind search and can devote more attention to understanding structure and procedure.
 
 ## Subclaims

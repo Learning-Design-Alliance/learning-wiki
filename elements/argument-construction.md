@@ -10,6 +10,8 @@ generated:
 
 # Argument Construction
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Argument construction asks learners to build a structured claim–evidence–reasoning case for a position, typically using an explicit framework such as Toulmin's model (claim, grounds, warrant, backing, qualifier, rebuttal). Learners must gather and evaluate evidence, articulate warrants connecting evidence to claims, and anticipate counterarguments — converting domain knowledge into defensible reasoning rather than recall.
 

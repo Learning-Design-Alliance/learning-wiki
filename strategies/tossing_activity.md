@@ -10,6 +10,8 @@ generated:
 
 # Tossing Activity
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A tossing activity embeds academic content in a physical action: learners toss, catch, or aim objects (bean bags, numbered balls, dice cubes) whose surfaces or targets carry the material to be learned — numbers, words, categories, or visuals. The act of throwing and catching is not a break from learning but the retrieval mechanism itself: learners must process the content on the object or target in order to act. This is an instance of embodied cognition, in which motor activity is recruited to support conceptual processing rather than merely to raise arousal.
 

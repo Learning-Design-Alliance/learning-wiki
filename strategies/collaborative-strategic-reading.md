@@ -10,6 +10,8 @@ generated:
 
 # Collaborative Strategic Reading
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Collaborative Strategic Reading (CSR) is a research-validated instructional approach that combines reading comprehension strategy instruction with [cooperative learning](../principles/collaborative-learning.md). Students work in small, heterogeneous groups to apply four strategies to a text: **preview** (activating prior knowledge and predicting), **click and clunk** (monitoring comprehension and fixing breakdowns in vocabulary or concepts), **get the gist** (identifying the main idea of a section), and **wrap up** (generating questions and summarizing). Each student takes a role (leader, clunk expert, gist expert, announcer, timekeeper), and the teacher first models the strategies through [think-alouds](../elements/think-aloud.md) before students assume responsibility in their groups.
 

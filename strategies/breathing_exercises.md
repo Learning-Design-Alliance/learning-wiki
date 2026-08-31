@@ -10,6 +10,8 @@ generated:
 
 # Breathing Exercises
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Breathing exercises are short, structured practices — such as slow diaphragmatic breathing, box breathing, or paced breath counting — used to help learners regulate arousal, settle distracting thoughts, and prepare for focused work. They are typically delivered as a 1–5 minute whole-class routine at transitions, before assessments, or at the start of a lesson, with the instructor guiding pace and posture until learners can self-initiate the practice.
 

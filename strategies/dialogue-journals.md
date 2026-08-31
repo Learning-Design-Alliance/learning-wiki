@@ -10,6 +10,8 @@ generated:
 
 # Dialogue Journals
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A dialogue journal is a private, ongoing written conversation between a learner and a teacher (or peer) in which both parties write entries and respond to each other's messages over weeks or months. Unlike graded writing assignments, the teacher responds as a genuine conversational participant — asking questions, sharing reactions, and modeling written language — rather than evaluating or correcting. The format originated in language education (Staton et al., 1988) and is now used across content areas and age levels, in paper notebooks or digital platforms.
 

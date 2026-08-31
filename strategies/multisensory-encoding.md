@@ -10,6 +10,8 @@ generated:
 
 # Multisensory Encoding
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Multisensory encoding presents the same core content through more than one sensory modality — most commonly combining visual and auditory channels, but also including gesture, movement, and tactile experience. The goal is not decoration or redundancy but complementary representations: each channel carries part of the load or reinforces the same structure in a different format.
 

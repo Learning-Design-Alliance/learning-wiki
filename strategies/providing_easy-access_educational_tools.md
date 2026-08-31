@@ -10,6 +10,8 @@ generated:
 
 # Providing Easy-Access Educational Tools
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy organizes learning materials, manipulatives, references, and digital resources so learners can locate and use them independently, without waiting for instructor distribution or permission. Tools are stored in predictable, labeled locations (physical or digital), accompanied by brief instructions for use, so that access friction does not become a barrier to self-directed work.
 

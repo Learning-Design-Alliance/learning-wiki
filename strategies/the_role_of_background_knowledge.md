@@ -10,6 +10,8 @@ generated:
 
 # The Role of Background Knowledge
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Background knowledge is the pre-existing store of facts, experiences, and vocabulary that learners bring to a new topic, and it largely determines what new instruction can accomplish. Learners may have relevant experiences that just need to be drawn out; otherwise, students may lack the needed knowledge entirely, and instruction must build it before new content can stick. Practical moves include identifying connections to students' experiences, modifying linguistic complexity, rephrasing problems, and using manipulatives purposefully — e.g., red cubes as "hot" (positive) and blue cubes as "cold" (negative) numbers when teaching integers. In one documented case, a teacher struggling to teach grid coordinates to three Vietnamese ESL students nearly gave up until one student realized, "Oh, I know — same same you drive a boat!" — he had navigated by stars while fleeing Vietnam, and explained the concept to the others in Vietnamese with gestures and drawings. The teacher reflected: "I had failed to activate their prior knowledge, and in the process had almost given up."
 

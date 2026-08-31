@@ -10,6 +10,8 @@ generated:
 
 # Songs and Rhymes
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Songs and rhymes embed target content in melody, rhythm, and rhyme so that prosodic structure organizes and cues verbal material. The learner encodes content alongside a predictable sound pattern; at retrieval, the melody or rhyme scheme constrains what comes next, reducing search in memory. This is the mechanism behind alphabet songs, multiplication rhymes, and the oral traditions that preserved long texts for centuries before writing [Rubin, 1995].
 

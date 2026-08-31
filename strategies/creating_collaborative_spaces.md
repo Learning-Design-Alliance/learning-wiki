@@ -10,6 +10,8 @@ generated:
 
 # Creating Collaborative Spaces
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Creating collaborative spaces means structuring the classroom — physically, socially, and procedurally — so that peer interaction and joint problem-solving are the default mode of learning rather than an occasional add-on. This includes room layout, group formation routines, discussion norms, and task designs that require interdependence. The strategy treats collaboration as an environmental condition to be engineered, not a personality trait to be hoped for.
 

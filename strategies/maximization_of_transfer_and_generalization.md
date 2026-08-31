@@ -10,6 +10,8 @@ generated:
 
 # Maximization of Transfer and Generalization
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Maximization of transfer and generalization is the deliberate design of instruction so that what learners acquire can be applied to novel problems, contexts, and situations beyond the original learning conditions. It is carried out by varying practice conditions, using multiple contrasting examples, making underlying principles explicit, and prompting learners to abstract and articulate the generalizable structure of what they are learning. Transfer is notoriously difficult to achieve without such design effort; near transfer (to similar problems) occurs more readily than far transfer (to dissimilar contexts), and instruction must be engineered for the latter rather than assumed [Salomon & Perkins, 1989].
 

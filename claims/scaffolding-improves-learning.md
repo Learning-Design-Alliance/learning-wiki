@@ -11,6 +11,8 @@ evidence_strength: moderate
 
 # Scaffolding improves learning
 
+> **Claim** · [All claims](index.md)
+
 Learners who receive temporary, adaptive support — hints, prompts, models, or structured tools — during instruction show better learning outcomes than those left to unsupported discovery, provided the support is faded as competence develops.
 
 ## Subclaims

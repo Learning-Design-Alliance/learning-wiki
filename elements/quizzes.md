@@ -10,6 +10,8 @@ generated:
 
 # Quizzes
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Quizzes are short, low-stakes assessments used during learning rather than at its end. Their primary function is not measurement but learning: answering questions forces retrieval from memory, and the feedback that follows corrects and consolidates what was retrieved.
 

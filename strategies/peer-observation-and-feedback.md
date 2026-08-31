@@ -10,6 +10,8 @@ generated:
 
 # Peer Observation And Feedback
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Peer observation and feedback arranges for learners to watch or review one another's work — live performance, drafts, or recorded practice — and deliver structured comments against explicit criteria. The observer role is as productive as the receiving role: critiquing a peer's work against criteria develops the evaluative judgment needed to assess one's own work [Topping, K. (1998) review finds reciprocal peer tutoring benefits tutors as much as tutees.](../claims/assessment-for-learning-improves-achievement.md) [+M].
 

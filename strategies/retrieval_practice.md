@@ -10,6 +10,8 @@ generated:
 
 # Retrieval Practice
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Retrieval practice asks learners to actively reconstruct information from memory — via free recall, short-answer questions, flashcards, or low-stakes quizzes — instead of passively reviewing material. Each successful retrieval attempt strengthens the memory trace and the cues that access it, making future recall more likely. It is carried out by replacing or supplementing review activities (re-reading, highlighting) with opportunities to produce answers from memory, followed by feedback.
 

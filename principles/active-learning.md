@@ -19,6 +19,8 @@ sources:
 
 # Active Learning
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Active learning is the principle that learners should do meaningful cognitive work with content rather than only receive it. The core move is not activity for its own sake, but requiring learners to explain, apply, compare, predict, generate, or revise so that understanding is constructed through use.
 

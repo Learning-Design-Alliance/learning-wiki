@@ -10,6 +10,8 @@ generated:
 
 # Media Literacy Education
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Media literacy education develops learners' capacity to critically analyze media messages, evaluate source credibility, and produce media themselves. Contemporary implementations emphasize *civic online reasoning* — determining who is behind a piece of information, what evidence supports it, and what other sources say — using techniques such as lateral reading and fact-checking strategies rather than relying on surface features of websites.
 

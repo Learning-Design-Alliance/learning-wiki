@@ -10,6 +10,8 @@ generated:
 
 # Movement Based Learning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Movement based learning embeds physical activity into instruction so that learners encode, rehearse, or demonstrate content through bodily action — acting out concepts, gesturing explanations, or performing brief exercise bouts around instruction. It ranges from gesture-enriched explanation to full embodied activities such as [Act It Out](../elements/act-it-out.md) and [Acting-Role-Play](../strategies/acting-role-play.md).
 

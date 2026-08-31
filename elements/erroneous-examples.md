@@ -15,6 +15,8 @@ sources:
 
 # Erroneous Examples
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Erroneous examples are worked examples that intentionally contain a mistake for learners to identify, explain, and correct. They are useful when the design goal is to make misconceptions visible and strengthen conceptual discrimination, not just demonstrate a correct procedure.
 

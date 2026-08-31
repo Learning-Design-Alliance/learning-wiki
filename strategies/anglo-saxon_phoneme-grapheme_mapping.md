@@ -10,6 +10,8 @@ generated:
 
 # Anglo-Saxon Phoneme-Grapheme Mapping
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Phoneme-grapheme mapping is a structured spelling routine in which learners segment a word into its individual speech sounds (phonemes), write one sound per box in a grid, and then record the letter or letter combination (grapheme) that spells each sound. The routine makes the orthographic structure of Anglo-Saxon English words — including consonant digraphs, blends, and short-vowel spellings — visible and explicit, so learners map sounds to spellings rather than memorizing whole-word letter strings. It is typically delivered through teacher-led dictation with immediate correction.
 

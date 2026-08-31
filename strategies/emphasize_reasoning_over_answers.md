@@ -10,6 +10,8 @@ generated:
 
 # Emphasize Reasoning over Answers
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 De-emphasizing correct answers and spending more time on reasoning shifts the instructional focus from the product of problem solving to the process. Teachers elicit and examine students' thinking — initial ideas, solution paths, and errors — before or instead of revealing the correct answer. Common enactments include presenting worked examples containing deliberate errors for students to diagnose, asking students to share approaches before confirming answers, and grading or giving feedback on the quality of justification rather than only on correctness.
 

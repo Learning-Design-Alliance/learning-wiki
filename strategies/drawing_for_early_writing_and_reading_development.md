@@ -10,6 +10,8 @@ generated:
 
 # Drawing for Early Writing and Reading Development
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Drawing serves as a "picture writing" pre-writing activity in which young children express ideas through illustration before attempting conventional text. Children draw a picture, talk about it, "write" about it to the best of their ability, and then "read" what they have written, with the instructor modeling correct writing underneath. This sequence helps children understand that pictures represent ideas that can be turned into words, connecting writing and reading before formal decoding and encoding are established.
 

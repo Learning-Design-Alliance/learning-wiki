@@ -10,6 +10,8 @@ generated:
 
 # Self Explanation Prompting
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Self explanation prompting asks learners to generate explanations *to themselves* while studying material — articulating why a step in a worked solution was taken, how a new concept connects to prior knowledge, or what a text segment means in their own words. The prompt can be open ("explain this step to yourself") or scaffolded with specific question stems. The critical feature is that the learner, not the instructor, produces the explanatory content; the prompt only triggers the generative process.
 

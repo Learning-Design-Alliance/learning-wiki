@@ -10,6 +10,8 @@ generated:
 
 # Verbal Feedback on Writing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Verbal feedback uses voice recording (audio files, embedded audio in documents, or screen-capture narration) to deliver feedback on student writing in place of, or alongside, written comments. The instructor records spoken commentary — often keyed to symbols or numbers on the draft — typically opening with high expectations and a growth-oriented framing, and students listen to the recording before revising. Because speech conveys tone, nuance, and far more content per minute than typing, recorded commentary tends to be longer, more detailed, and more personal than written margin notes.
 

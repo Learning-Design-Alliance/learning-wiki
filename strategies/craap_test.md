@@ -10,6 +10,8 @@ generated:
 
 # CRAAP Test
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The CRAAP Test is a five-criterion checklist — **C**urrency, **R**elevance, **A**uthority, **A**ccuracy, **P**urpose — developed at the Meriam Library, California State University, Chico (Blakeslee, 2004), to scaffold evaluation of information sources. Learners answer a series of questions under each criterion (e.g., "When was the information published or last updated?", "Who is the author and what are their credentials?", "Is the intent to inform, sell, or persuade?") and judge whether the source passes. It is typically taught in library instruction sessions as a portable heuristic for assessing websites, articles, and other sources.
 

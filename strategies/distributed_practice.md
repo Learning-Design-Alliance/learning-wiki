@@ -10,6 +10,8 @@ generated:
 
 # Distributed Practice
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Distributed practice (spacing) involves practicing content in short sessions separated by intervals of time, rather than in one long massed session. It leverages the principle that some forgetting between sessions is productive: the effort to reconstruct partially forgotten material strengthens retrieval routes and slows subsequent forgetting. Spacing works best after initial learning reaches reasonable accuracy, with intervals scaled to the time until assessment — one common heuristic places gaps at roughly 10–20% of the retention interval.
 

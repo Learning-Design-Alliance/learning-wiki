@@ -23,6 +23,8 @@ sources:
 
 # Model Revision
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Model revision asks learners to articulate a working conceptual model, confront it with evidence and feedback, and deliberately revise it. The element treats the learner's initial understanding as a draft to be evaluated and improved rather than a fixed starting point, making the *process* of conceptual change visible and iterative.
 

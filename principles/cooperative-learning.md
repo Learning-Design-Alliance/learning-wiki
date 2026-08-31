@@ -10,6 +10,8 @@ generated:
 
 # Cooperative Learning
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Cooperative learning organizes instruction so that small groups of learners pursue shared goals under two defining conditions: **positive interdependence** (one member's success depends on all members' learning) and **individual accountability** (each member's learning is separately assessed). Structured interaction — discussion, explanation, mutual checking — converts group activity into learning rather than mere task completion.
 

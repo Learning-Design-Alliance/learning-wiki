@@ -10,6 +10,8 @@ generated:
 
 # Cognitive Apprenticeship
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Cognitive apprenticeship is the element in which learners observe expert thinking, practice with coaching, and gradually assume more responsibility.
 

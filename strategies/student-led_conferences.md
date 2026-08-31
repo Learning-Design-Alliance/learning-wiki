@@ -10,6 +10,8 @@ generated:
 
 # Student-Led Conferences
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Student-led conferences (SLCs) replace the traditional teacher-directed parent–teacher conference with a meeting in which the student presents their own work, progress, and goals to family members, with the teacher facilitating rather than leading. Students typically prepare by curating a portfolio of work, reflecting on strengths and areas for growth, and rehearsing a structured presentation. The format converts reporting on learning into an act of learning itself: preparing to explain one's progress requires self-assessment, articulation of evidence, and goal-setting.
 

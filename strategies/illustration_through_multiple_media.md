@@ -10,6 +10,8 @@ generated:
 
 # Illustration Through Multiple Media
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Illustration through multiple media presents a concept in more than one representational format — for example, an animated diagram with narrated explanation, a physical demonstration, and an interactive simulation of the same phenomenon. The goal is not variety for its own sake but complementary representations: each medium carries the part of the explanation it handles best, and together they support the construction of a richer mental model.
 

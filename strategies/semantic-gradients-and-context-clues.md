@@ -10,6 +10,8 @@ generated:
 
 # Semantic Gradients And Context Clues
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Semantic gradients are arrays of related words ordered along a continuum of intensity or degree (e.g., *freezing → cold → cool → warm → hot → scorching*), which learners arrange, discuss, and revise. Context clue instruction teaches learners to systematically use surrounding words, syntax, and discourse signals to infer the meaning of unfamiliar words. Together they move vocabulary instruction beyond definitions toward nuanced, relational word knowledge.
 

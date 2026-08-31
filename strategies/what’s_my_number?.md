@@ -10,6 +10,8 @@ generated:
 
 # What’s My Number?
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 One player (or the instructor) selects a secret number within a stated range and reveals incremental clues — comparisons ("greater than 20"), properties ("even," "a multiple of 5"), or digit information — while other players narrow the candidate set through logical deduction. Each clue and guess is an opportunity to reason aloud about what the information eliminates, making the game a low-stakes vehicle for number sense, inequality reasoning, and strategic question-asking.
 

@@ -10,6 +10,8 @@ generated:
 
 # Clear Structure
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Clear structure is the short-form canonical target for designs that make the organization, sequence, and expectations of learning visible and easy to follow.
 

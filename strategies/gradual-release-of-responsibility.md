@@ -10,6 +10,8 @@ generated:
 
 # Gradual Release Of Responsibility
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Gradual Release of Responsibility (GRR) is an instructional sequence in which the teacher first models the target skill, then guides learners through joint practice, and finally releases learners to independent application — often summarized as "I do, we do, you do." The model, formalized by Pearson and Gallagher (1983) from Vygotsky's zone of proximal development, treats responsibility as a continuum that the instructor deliberately transfers rather than a binary choice between telling and letting go.
 

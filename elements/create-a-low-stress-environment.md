@@ -10,6 +10,8 @@ generated:
 
 # Create a Low-Stress Environment
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Create a low-stress environment is the element of designing routines, norms, and spaces that reduce unnecessary anxiety during learning.
 

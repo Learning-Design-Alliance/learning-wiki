@@ -10,6 +10,8 @@ generated:
 
 # Develop Educator Understanding
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Educators develop their own understanding of self-awareness — their own and their students' — and how it affects learning by studying research, examining learner variability data, and reflecting on their practice. The strategy treats the educator as a learner first: before designing supports for students' self-awareness, teachers build accurate mental models of emotional regulation, metacognition, and the ways their own interpretations of student behavior can be biased or incomplete.
 

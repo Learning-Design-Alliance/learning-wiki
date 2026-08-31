@@ -10,6 +10,8 @@ generated:
 
 # Jigsaw Method
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The Jigsaw Method, developed by Elliot Aronson in 1971, divides a lesson into segments and assigns each member of a "home" group one segment to master. Learners first meet in temporary "expert" groups with members of other home groups who share the same segment, then return to teach their segment to their home group. Because no learner holds the full picture alone, the structure creates genuine positive interdependence: each student's contribution is necessary for the group's collective understanding.
 

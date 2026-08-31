@@ -10,6 +10,8 @@ generated:
 
 # Build in Thinking Time
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Providing dedicated, silent thinking time before pair talk allows students to generate their own ideas and rehearse explanations before being influenced by their partner. The instructor poses a question, specifies a short period of silence (typically 3–10 seconds for recall questions, longer for complex ones), and only then opens discussion. This ensures all students engage in generative thinking rather than deferring to quicker or more confident peers.
 

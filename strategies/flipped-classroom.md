@@ -10,6 +10,8 @@ generated:
 
 # Flipped Classroom
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The flipped classroom moves direct instruction outside of class — typically as short videos or structured readings — and reserves synchronous time for application: problem-solving, discussion, and feedback with the instructor present. The instructor's role shifts from delivering content to diagnosing and correcting understanding during [Practice](../elements/practice.md).
 

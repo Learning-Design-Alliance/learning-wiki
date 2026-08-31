@@ -10,6 +10,8 @@ generated:
 
 # Expository Advance Organizers
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Expository advance organizers give students a broad idea of the lesson's purpose before it begins by clearly stating the goals of the lesson. Introduced by Ausubel, they present material at a higher level of abstraction and inclusiveness than the lesson itself, providing an anchoring structure into which new content can be assimilated. In practice this means stating objectives verbally or in writing, previewing the key concepts, and showing how the lesson connects to prior knowledge before instruction begins.
 

@@ -11,6 +11,8 @@ evidence_strength: pending
 
 # Feedback Addressing Task Improves Learning
 
+> **Claim** · [All claims](index.md)
+
 Feedback that directs the learner's attention to the task — how their work relates to the learning goal, what was done well, and what to do next — improves learning more than feedback directed at the self (praise, personal evaluation).
 
 ## Subclaims

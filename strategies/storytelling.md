@@ -10,6 +10,8 @@ generated:
 
 # Storytelling
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Storytelling presents content within a narrative frame: a protagonist pursuing goals, encountering obstacles, and resolving them through the concepts being taught. It can take the form of an instructor-voiced story, a case narrative, a scenario learners act within, or a story learners construct themselves. The narrative structure supplies causal connections and temporal sequence that bind otherwise isolated facts into a coherent, retrievable schema.
 

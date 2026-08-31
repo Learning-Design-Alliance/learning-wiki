@@ -10,6 +10,8 @@ generated:
 
 # Retrieval Practice With Graphic Organizers
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy sequences three activities: (1) students retrieve everything they can remember about a topic from memory, unaided (a brain dump or free recall); (2) they reorganize that retrieved content into a graphic organizer — a concept map, flowchart, matrix, or hierarchical diagram — making relationships explicit; (3) they verify and correct the organizer against source material. The sequence combines the memory-strengthening effect of retrieval with the relational processing of knowledge organization, and can be done individually or in pairs.
 

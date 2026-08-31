@@ -10,6 +10,8 @@ generated:
 
 # Retelling
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Retelling asks learners to reconstruct a narrative or informational text in their own words after reading or hearing it — identifying characters, setting, problem, and resolution, or main ideas and supporting details, in a coherent sequence. It can be oral, written, or dramatized, and is typically scored against the text's story grammar or idea structure to reveal what was comprehended, sequenced, and omitted.
 

@@ -10,6 +10,8 @@ generated:
 
 # Frayer Model
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The Frayer Model is a four-quadrant graphic organizer used to teach a concept: learners complete sections for (1) a definition, (2) essential characteristics or facts, (3) examples, and (4) non-examples. Because learners must supply the content themselves rather than copy a glossary entry, the organizer functions as a structured generative activity rather than a passive note-taking frame. It was developed by Frayer, Frederick, and Klausmeier (1969) at the Wisconsin Research and Development Center for Cognitive Learning as part of work on concept acquisition.
 

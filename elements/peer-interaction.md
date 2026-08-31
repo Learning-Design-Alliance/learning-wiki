@@ -10,6 +10,8 @@ generated:
 
 # Peer Interaction
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Peer interaction places learners in direct engagement with one another through discussion, debate, peer teaching, or collaborative task work. It functions as a social engine for learning: learners articulate ideas, encounter alternative perspectives, and negotiate shared understanding rather than receiving instruction passively.
 

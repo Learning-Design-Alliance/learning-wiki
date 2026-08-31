@@ -11,6 +11,8 @@ grain_size: lesson
 
 # Peer Teaching
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Peer teaching is the short-form canonical pattern for learners teaching concepts, processes, or interpretations to one another.
 

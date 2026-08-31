@@ -11,6 +11,8 @@ evidence_strength:
 
 # Strategy Instruction Improves Writing Quality
 
+> **Claim** · [All claims](index.md)
+
 Explicit instruction in planning, revising, and editing strategies — including self-regulation of the writing process — improves the quality of students' written compositions.
 
 ## Subclaims

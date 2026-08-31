@@ -10,6 +10,8 @@ generated:
 
 # Through the Eyes of the People in a Story
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners select a character from a short story or novel and retell or re-enact the main events from that character's point of view, articulating the character's thoughts, emotions, and perceptions of other characters and events. The strategy combines close reading, reflective writing, and role-play or presentation, converting narrative comprehension into perspective-taking work. It is carried out through individual reflection on the chosen character, structured discussion with peers who adopted other characters, and optional in-character performance.
 

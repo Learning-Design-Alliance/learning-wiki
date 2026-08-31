@@ -10,6 +10,8 @@ generated:
 
 # Word Study
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Word study replaces rote spelling memorization with structured investigation of how words work. Students examine sets of words with shared features — sounds, spelling patterns, meanings, or morphological elements — and compare and contrast them to discover spelling generalizations themselves. Instruction is differentiated by developmental spelling stage, typically assessed with a spelling inventory, so each group works on patterns at the edge of what they already control.
 

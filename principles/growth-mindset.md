@@ -10,6 +10,8 @@ generated:
 
 # Growth Mindset
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Growth mindset is the belief that intellectual and performance abilities are malleable and can be developed through effort, effective strategies, and help-seeking. As a design principle, it recommends (a) explicitly teaching learners about the malleability of ability and how the brain changes with learning, and (b) aligning feedback, task design, and grading practices so that effort, strategy use, and progress — not innate talent — are what get noticed and rewarded.
 

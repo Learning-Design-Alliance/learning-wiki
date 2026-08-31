@@ -10,6 +10,8 @@ generated:
 
 # Gain attention
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Gaining attention is the opening move of instruction: an unexpected event, provocative question, vivid scenario, or perceptual cue that orients learners toward the material before content delivery begins. It functions by activating curiosity and directing working-memory resources to the upcoming task, rather than by transmitting content itself.
 

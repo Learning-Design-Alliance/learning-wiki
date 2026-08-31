@@ -10,6 +10,8 @@ generated:
 
 # Augmented Reality (AR) for Manufacturing Training
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 AR for manufacturing training overlays digital instructions — 3D part models, step sequences, animations, and warnings — directly onto the physical workstation or machine a trainee is working on, typically via head-mounted displays or smartglasses. Because the guidance is hands-free and spatially anchored to the actual components, trainees practice the real task with in-context support rather than switching between a manual and the workpiece.
 

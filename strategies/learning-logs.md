@@ -10,6 +10,8 @@ generated:
 
 # Learning Logs
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learning logs are brief, structured writing activities completed at the beginning or end of a class in which learners respond to a specific prompt — a definition, an example, a personal connection, or a summary of a key concept — for a few minutes. The log is a running record of the learner's evolving understanding, not a graded essay; its purpose is to force active construction of meaning from facts rather than passive review.
 

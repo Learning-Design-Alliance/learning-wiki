@@ -10,6 +10,8 @@ generated:
 
 # Teaching Social Awareness Through Current Events and Fictional Characters
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy uses two kinds of narrative material — real events in the news and the inner lives of fictional characters — as anchors for teaching social awareness: the ability to take others' perspectives, recognize emotions, and understand how circumstances shape behavior. The instructor models empathetic reasoning aloud ("Why might this person have acted this way? What are they feeling?"), then structures discussion or role-play in which learners practice generating and comparing multiple perspectives.
 

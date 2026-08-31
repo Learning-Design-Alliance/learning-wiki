@@ -11,6 +11,8 @@ evidence_strength:
 
 # Dual Coding Improves Learning
 
+> **Claim** · [All claims](index.md)
+
 Pairing verbal information with corresponding visual representations improves learning, because information processed through both verbal and visual channels creates two memory traces rather than one.
 
 ## Subclaims

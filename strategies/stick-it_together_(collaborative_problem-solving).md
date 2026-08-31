@@ -10,6 +10,8 @@ generated:
 
 # Stick-It Together (Collaborative Problem-Solving)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Stick-It Together is a cooperative problem-solving routine in which each student first works a problem individually on a sticky note, then the small group combines their ideas onto one shared page to produce the best possible collective answer. Students must defend their own reasoning, evaluate peers' approaches, and negotiate a single response, making individual thinking visible before and during collaboration. Group solutions are then shared publicly, with the teacher facilitating comparison of strategies across groups.
 

@@ -10,6 +10,8 @@ generated:
 
 # Signage and Displays
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Signage and displays are the persistent visual elements of a learning space: wall posters, anchor charts, rule lists, schedules, student work exhibits, and wayfinding signs. Effective displays orient learners to routines and content, signal belonging and shared norms, and make thinking visible — while avoiding the decorative overload that competes with instruction for attention.
 

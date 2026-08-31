@@ -10,6 +10,8 @@ generated:
 
 # Reflecting on Student Strengths and Challenges
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Educators systematically identify each student's strengths and challenges — academic, social-emotional, or behavioral — using data and observation, then select instructional strategies that build on existing strengths while targeting areas of need. The practice treats the student profile as the starting point for instructional decision-making rather than remediating deficits in isolation.
 

@@ -15,6 +15,8 @@ sources:
 
 # Holistic Learning
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Holistic learning is the principle of helping learners grasp the overall structure, purpose, or whole of a domain before becoming lost in isolated details. It is useful when understanding depends on seeing how parts relate within a larger conceptual system.
 

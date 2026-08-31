@@ -11,6 +11,8 @@ evidence_strength: weak
 
 # Reflective practice shows mixed evidence of effectiveness in professional education
 
+> **Claim** · [All claims](index.md)
+
 Structured reflection on one's own professional practice is widely embedded in professional education (teaching, nursing, medicine, social work), but the evidence that it improves learning or practice outcomes is mixed rather than consistently positive. [~W]
 
 ## Subclaims

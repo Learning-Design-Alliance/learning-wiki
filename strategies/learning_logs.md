@@ -27,6 +27,8 @@ sources:
 
 # Learning Logs
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learning logs are short, structured writing activities completed at the beginning or end of a class in which learners respond to a prompt about the material — defining a concept, generating an example, summarizing a procedure, or connecting new content to prior experience. Entries are typically brief (3–10 minutes), low-stakes, and cumulative, forming a running record of the learner's developing understanding. The writing functions simultaneously as retrieval practice, self-explanation, and a formative-assessment artifact for the instructor.
 

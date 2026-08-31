@@ -10,6 +10,8 @@ generated:
 
 # Replace Negative Influences with Positive Ones
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy asks learners to audit their social and informational environment — relationships, peer groups, media consumption, and physical study settings — and to reduce exposure to influences that undermine motivation, self-efficacy, or wellbeing. In place of these, learners deliberately seek out supportive peers, credible role models, and constructive content. It is carried out through a cycle of identification, substitution, and periodic re-evaluation, often with the help of a mentor, coach, or peer group.
 

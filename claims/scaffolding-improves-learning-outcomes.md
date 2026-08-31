@@ -11,6 +11,8 @@ evidence_strength: moderate
 
 # Scaffolding improves learning outcomes
 
+> **Claim** · [All claims](index.md)
+
 Instructional scaffolding — temporary, adaptive support that is faded as learner competence develops — enables learners to complete tasks they could not yet perform independently, with support progressively withdrawn toward independent performance.
 
 ## Subclaims

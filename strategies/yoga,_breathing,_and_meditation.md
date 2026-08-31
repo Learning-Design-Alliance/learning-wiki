@@ -10,6 +10,8 @@ generated:
 
 # Yoga, Breathing, And Meditation
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 该策略将身体姿势练习（瑜伽）、呼吸调节（如箱式呼吸、鼻孔交替呼吸）和正念冥想系统地嵌入教学流程中，通常以短时、规律的形式出现（课前5–10分钟）。其机制是通过降低过度觉醒或提升过低觉醒，把学习者的生理状态调节到适合注意与编码的区间，并训练注意监控与情绪调节技能。
 

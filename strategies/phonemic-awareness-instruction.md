@@ -10,6 +10,8 @@ generated:
 
 # Phonemic Awareness Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Phonemic awareness (PA) instruction teaches learners to attend to and manipulate the phonemes of spoken language — blending sounds into words (/c/ /a/ /t/ → *cat*), segmenting words into sounds, and adding, deleting, or substituting phonemes (changing *cat* to *hat*). It is delivered orally, without print, in short explicit lessons with teacher modeling, guided practice, and immediate feedback. PA is distinct from [phonics](../strategies/phonics-instruction.md) instruction, which connects these sounds to letters; PA is most powerful when it transitions into that connection.
 

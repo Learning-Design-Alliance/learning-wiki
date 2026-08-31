@@ -10,6 +10,8 @@ generated:
 
 # Leveraging Strengths for Attention
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy identifies what a student's attention system already does well — sustained focus on preferred topics, selective filtering in quiet settings, flexible shifting between tasks — and deliberately builds instruction around those strengths. Strengths become the vehicle for engagement (e.g., a student with strong visual attention creates graphic organizers) and the scaffold for developing weaker attention functions through graduated practice.
 

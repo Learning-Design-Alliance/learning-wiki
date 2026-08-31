@@ -10,6 +10,8 @@ generated:
 
 # Formative Feedback Routines
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A formative feedback routine is a scheduled, repeatable cycle — produce, receive feedback, revise, resubmit or apply — embedded into the flow of instruction rather than appended to it. The feedback is *formative* in Black & Wiliam's sense: it is used to shape subsequent learning, not to certify final achievement. The routine aspect matters as much as the feedback itself; a single feedback event rarely changes behavior, but a predictable cycle that learners expect and act on does.
 

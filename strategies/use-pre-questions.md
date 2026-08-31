@@ -10,6 +10,8 @@ generated:
 
 # Use Pre Questions
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Pre questions are questions posed to learners *before* they study the target material. Learners typically answer them incorrectly — the point is not assessment but preparation: the act of attempting retrieval, even unsuccessfully, primes related knowledge and makes the subsequent instruction more effective. Pre questions can be delivered as a short quiz, embedded questions in a text or video, or instructor prompts at the start of a lesson.
 

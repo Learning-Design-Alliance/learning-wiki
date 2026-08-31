@@ -10,6 +10,8 @@ generated:
 
 # Mindfulness and Movement Integration
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Integrating mindfulness with movement combines physical activity with practices that cultivate awareness, attention, and presence — mindful walking, yoga, Tai Chi, or brief movement-and-breathing breaks embedded in lessons. The aim is twofold: to support physical well-being and to train attentional and self-regulatory capacities that carry over into learning tasks. The movement is not exercise for its own sake; the mindful component (attention to breath, bodily sensation, and present-moment experience) is what distinguishes it from ordinary physical activity.
 

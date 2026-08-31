@@ -10,6 +10,8 @@ generated:
 
 # Leveraging Family Knowledge
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Leveraging family knowledge means treating students' households and communities as sources of academic content rather than deficits to be remediated. Teachers identify the knowledge, practices, and skills that exist in students' families — farming, cooking, mechanics, storytelling, multilingualism — and build instruction on that foundation. The approach originates in the funds of knowledge research tradition (Moll et al., 1992), in which teachers conducted household visits and then designed lessons that connected classroom tasks to the competencies they documented.
 

@@ -10,6 +10,8 @@ generated:
 
 # Reading Writing Connection
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The reading writing connection treats reading and writing as mutually reinforcing acts of composing and comprehending meaning rather than separate subjects. In practice, learners read mentor texts to study how authors achieve effects, then write in those genres; or they write about what they read (summarizing, analyzing, responding) to deepen comprehension. The strategy rests on shared knowledge theory: both activities draw on common knowledge of text structure, vocabulary, syntax, and rhetorical purpose [Fitzgerald & Shanahan, 2000] [+M].
 

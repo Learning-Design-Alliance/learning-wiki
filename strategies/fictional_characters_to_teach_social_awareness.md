@@ -10,6 +10,8 @@ generated:
 
 # Fictional Characters to Teach Social Awareness
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy uses fictional characters and narratives — from literature, film, or purpose-built scenarios — as safe proxies through which learners examine social situations, perspectives, and ethical dilemmas. Because the characters are not real, learners can discuss sensitive topics (prejudice, exclusion, conflict, inequity) without the interpersonal risk of naming real peers or communities. The fiction is deliberately connected to current events or learners' lived contexts so that insights transfer outward from the story to the world.
 

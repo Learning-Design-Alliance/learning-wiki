@@ -10,6 +10,8 @@ generated:
 
 # Digital Tips for Quick and Thoughtful Peer Feedback
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy uses digital platforms — shared documents, learning management systems, media-sharing boards — to make peer feedback faster, more visible, and easier to structure. Students share work digitally (a link, a shared document, a photo of physical work) and respond through comments, rubric-tagged annotations, or synchronous conversation. Digital mediation also creates an audit trail of feedback quality, which instructors can use for [Assessment for Learning](../principles/assessment-for-learning.md) purposes and for teaching digital citizenship.
 

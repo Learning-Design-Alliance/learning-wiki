@@ -11,6 +11,8 @@ evidence_strength: pending
 
 # Spaced Practice Improves Long Term Retention
 
+> **Claim** · [All claims](index.md)
+
 Practice that is distributed across multiple sessions with intervening gaps produces stronger long-term retention than the same amount of practice massed into a single session.
 
 ## Subclaims

@@ -10,6 +10,8 @@ generated:
 
 # Pupil-Generated Word Problems
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners author their own word problems — selecting quantities, operations, contexts, and constraints — and then exchange, solve, and critique one another's problems. Problem posing reverses the usual direction of instruction: instead of decoding someone else's problem, learners must construct the semantic structure themselves, which forces them to attend to how quantities, relationships, and question sentences fit together.
 

@@ -11,6 +11,8 @@ evidence_strength: moderate
 
 # Misconceptions Interfere With New Learning
 
+> **Claim** · [All claims](index.md)
+
 Pre-existing misconceptions — coherent but incorrect mental models — can interfere with the acquisition of accurate new knowledge, particularly when learners fail to recognize the conflict between their prior beliefs and the to-be-learned content.
 
 ## Subclaims

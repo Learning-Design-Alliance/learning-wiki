@@ -10,6 +10,8 @@ generated:
 
 # Sensory Tools and Fidgets
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Sensory tools and fidgets are small, quiet, manipulable objects (stress balls, putty, textured strips, wobble cushions, foot bands) or environmental sensory supports offered to learners during instruction. The rationale is that channeling excess motor energy or providing tactile input frees attentional and working-memory resources for the learning task itself, rather than leaving the learner to suppress movement or seek stimulation in more disruptive ways.
 

@@ -10,6 +10,8 @@ generated:
 
 # Optimize Classroom Temperature
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Optimizing classroom temperature means keeping instructional spaces within a moderate thermal range — approximately 68–74°F (20–23°C) — and preventing sustained exposure to heat above that range. It is carried out through HVAC control, ventilation, teacher authority over thermostat settings, and attention to solar gain and outdoor conditions. Thermal comfort is a precondition for attention: as classrooms warm beyond the comfort zone, concentration, working memory, and task persistence degrade measurably.
 

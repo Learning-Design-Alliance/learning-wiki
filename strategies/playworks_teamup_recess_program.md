@@ -10,6 +10,8 @@ generated:
 
 # Playworks TeamUp Recess Program
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 TeamUp is a variant of the [Playworks](https://www.playworks.org) program model in which school staff — rather than a full-time Playworks coach — run a structured recess. Schools receive training, a game guide, and equipment, then treat recess like an instructional period: games are planned in advance, taught explicitly, and led by rotating adults or older students. The design goal is to convert unstructured playground time into a predictable social-learning environment that builds cooperation, conflict resolution, and physical activity while reducing bullying and post-recess classroom disruption.
 

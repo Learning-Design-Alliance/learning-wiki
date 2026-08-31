@@ -10,6 +10,8 @@ generated:
 
 # Apply Student-Centered Strategies to Support Learning Differences
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy involves building a data-driven, student-centered plan and then implementing specific instructional strategies matched to a selected student's learning differences — both strengths and challenges. It moves from assessment data (formal or informal) to a hypothesis about what the student needs, selects strategies accordingly, and monitors whether the strategies actually change learning.
 

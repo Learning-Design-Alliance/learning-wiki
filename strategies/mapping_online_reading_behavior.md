@@ -10,6 +10,8 @@ generated:
 
 # Mapping Online Reading Behavior
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners start with a research question and document every step and detour they take while reading online — sites visited, links followed, searches issued, and sources abandoned — using drawing, mind-mapping software, or screenshots. They then share their maps and reflect on their decision-making at each node: why they followed a link, why they left a page, and how they judged a source's credibility. The map externalizes an otherwise invisible reading process so it can be examined, compared, and improved.
 

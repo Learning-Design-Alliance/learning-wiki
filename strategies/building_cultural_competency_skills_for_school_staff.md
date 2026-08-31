@@ -10,6 +10,8 @@ generated:
 
 # Building Cultural Competency Skills for School Staff
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Building cultural competency develops staff knowledge, skills, and dispositions for working effectively across cultural differences — shifting from deficit thinking (viewing families' backgrounds as obstacles) to strengths-based thinking (viewing families as holders of expertise and resources). It is carried out through sustained professional learning that combines conceptual reframing, structured reflection on one's own cultural assumptions, and applied practice in real family and community interactions, supported by school-wide policies that make welcoming practices routine rather than individual heroics.
 

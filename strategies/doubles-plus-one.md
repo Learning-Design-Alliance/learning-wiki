@@ -10,6 +10,8 @@ generated:
 
 # Doubles Plus One
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Doubles Plus One is a mental-math strategy for addition facts in which a learner transforms an unfamiliar near-double fact into a known doubles fact plus one — for example, solving 6+7 by recalling 6+6=12 and adding 1 to get 13. It is typically taught after doubles facts are automatic, so the strategy recruits existing fluency rather than building new facts from counting. It belongs to a family of "derived fact" or "thinking strategies" (doubles plus two, make-ten, near-tens) that replace rote memorization of the full fact table with a small set of retrievable anchors plus generalizable transformations.
 

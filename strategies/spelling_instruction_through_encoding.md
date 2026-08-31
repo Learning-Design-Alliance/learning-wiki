@@ -10,6 +10,8 @@ generated:
 
 # Spelling Instruction Through Encoding
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Encoding instruction teaches spelling by requiring learners to *produce* written words — typically from dictation — rather than merely reading, copying, or recognizing them. Learners segment a spoken word into phonemes, map each phoneme to plausible graphemes, and write the word, then compare their attempt against the correct form. This production requirement converts spelling practice into a form of retrieval practice with feedback, and builds the orthographic representations that support both accurate spelling and automatic word recognition [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M].
 

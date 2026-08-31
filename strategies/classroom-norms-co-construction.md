@@ -10,6 +10,8 @@ generated:
 
 # Classroom Norms Co Construction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Classroom norms co-construction is a strategy in which the instructor facilitates a structured process — typically early in a course or term — through which learners propose, discuss, revise, and collectively agree on the norms that will govern discussion, collaboration, feedback, and behavior. The instructor retains veto power over norms that conflict with safety or equity, but the authorship of the norm set is genuinely shared. The resulting agreement is documented, revisited, and revised periodically rather than posted once and forgotten.
 

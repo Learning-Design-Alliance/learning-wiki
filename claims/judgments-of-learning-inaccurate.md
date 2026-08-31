@@ -11,6 +11,8 @@ evidence_strength: moderate
 
 # Judgments of learning are often inaccurate
 
+> **Claim** · [All claims](index.md)
+
 Learners' judgments of learning (JOLs) — predictions about how well they have learned material — frequently diverge from actual test performance, especially when made under conditions that allow fluency or familiarity to be mistaken for mastery. [-M]
 
 ## Subclaims

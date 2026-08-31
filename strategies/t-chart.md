@@ -10,6 +10,8 @@ generated:
 
 # T-Chart
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A T-chart is a graphic organizer shaped like the letter T, with a horizontal line at the top to signify a broad category and a vertical line that allows learners to compare attributes of a concept, organism, or phenomenon. With the topic as the title on the horizontal line, learners record contrasting attributes on each side of the vertical line — mutually exclusive categories (mammals vs. non-mammals, insects vs. spiders) or two variants of the same category (two spider species with different characteristics). The structure externalizes comparison as a two-column record, making similarities and differences visible and inspectable.
 

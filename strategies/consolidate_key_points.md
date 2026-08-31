@@ -10,6 +10,8 @@ generated:
 
 # Consolidate Key Points
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Consolidate Key Points is the step in a discussion sequence — typically following [pair talk](../patterns/think-pair-share.md) or small-group work — in which the teacher elicits, synthesizes, and explicitly states the ideas students should retain. The teacher draws together student contributions, corrects or sharpens them, and names the takeaway so that every learner leaves the activity with a clear, accurate summary rather than a fragmentary memory of the conversation.
 

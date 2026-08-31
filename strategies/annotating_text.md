@@ -10,6 +10,8 @@ generated:
 
 # Annotating Text
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Annotating text is a reading strategy in which learners actively mark up a document while reading — highlighting key ideas, writing margin notes, coding passages with symbols, posing questions, and recording connections. It converts passive reading into a generative activity: the reader must select what matters, summarize it in their own words, and respond to it. Annotation can be done on paper, in shared documents, or with digital tools such as [Perusall](https://www.perusall.com) and [Hypothesis](https://web.hypothes.is).
 

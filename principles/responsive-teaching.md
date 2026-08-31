@@ -10,6 +10,8 @@ generated:
 
 # Responsive Teaching
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Responsive teaching means continuously eliciting learner thinking and adjusting instruction in real time — re-sequencing, re-explaining, extending, or redirecting — based on what students actually say and do rather than on the planned lesson script. It treats student ideas, including errors and partial understandings, as the primary evidence for instructional decisions.
 

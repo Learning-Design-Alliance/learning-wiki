@@ -10,6 +10,8 @@ generated:
 
 # Summarization and Synthesis
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Summarization asks learners to condense material into their own words, selecting and restating the most important ideas. Synthesis goes further: learners integrate ideas across multiple sources or experiences into a new, coherent account. Both are generative activities — the learner must construct meaning rather than recognize it.
 

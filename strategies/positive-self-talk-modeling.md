@@ -10,6 +10,8 @@ generated:
 
 # Positive Self Talk Modeling
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Positive self talk modeling is the practice of an instructor, peer, or character deliberately verbalizing their internal coping and motivational dialogue aloud — "This is hard, but I've done hard things before; let me break it into steps" — so learners can observe and internalize adaptive self-statements. It derives from Meichenbaum's self-instructional training, in which learners progress from observing an expert's overt self-speech to covert private speech to internalized thought. The model's statements typically combine task strategy ("first I check what the question asks"), coping ("mistakes tell me what to fix"), and self-efficacy language ("I can figure this out").
 

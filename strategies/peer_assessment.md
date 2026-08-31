@@ -10,6 +10,8 @@ generated:
 
 # Peer Assessment
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Peer assessment arranges for learners to evaluate the quality of one another's work against explicit criteria, typically via rubrics, checklists, or structured feedback protocols. It functions simultaneously as an assessment mechanism (generating feedback at scale) and a learning activity (requiring assessors to internalize quality criteria and apply them to authentic examples).
 

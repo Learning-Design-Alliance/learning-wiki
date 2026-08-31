@@ -10,6 +10,8 @@ generated:
 
 # Contextual Redefinition
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Contextual redefinition is a vocabulary strategy in which learners first meet a target word embedded in a sentence or passage whose surrounding language constrains the word's meaning. Learners generate a tentative definition from the context, after which the teacher or material confirms, refines, or corrects it with an explicit definition. The sequence — encounter, hypothesize, verify — converts passive word exposure into an active inference-and-feedback cycle.
 

@@ -10,6 +10,8 @@ generated:
 
 # Incorporating Physical Activity Into Classroom Learning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy embeds bodily movement into academic instruction rather than treating physical activity as a separate subject. Learners act out narratives in language arts, use gestures and whole-body motion to model mathematical relationships, or collect and observe phenomena in natural settings during science. The core mechanism is enactment: encoding content through motor and spatial systems in addition to verbal ones, which creates richer, more redundant memory traces [~M].
 

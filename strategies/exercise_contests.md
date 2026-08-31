@@ -10,6 +10,8 @@ generated:
 
 # Exercise Contests
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Exercise contests organize physical activity into a time-bounded challenge — a month-long step-count competition, a BINGO card of exercises to check off, or a cumulative activity-log race — with prizes or recognition awarded for participation or achievement. Learners track their own activity (paper logs, fitness trackers, apps) and compete individually or in teams. The strategy uses extrinsic incentives and social comparison to initiate behavior that the designer hopes will become habitual.
 

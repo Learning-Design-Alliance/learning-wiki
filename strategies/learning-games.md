@@ -10,6 +10,8 @@ generated:
 
 # Learning Games
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learning games are rule-governed activities with explicit goals, quantifiable outcomes, and feedback loops, designed so that mastering the game requires mastering the target content or skill. They range from digital serious games (e.g., *DragonBox*, *Foldit*) to well-structured classroom games (e.g., review competitions, simulation games). The defining feature is that the learning is embedded in the game mechanics rather than delivered as a wrapper around game play.
 

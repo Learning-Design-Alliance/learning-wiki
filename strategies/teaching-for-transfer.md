@@ -10,6 +10,8 @@ generated:
 
 # Teaching For Transfer
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Teaching for transfer is the deliberate design of instruction so that what learners acquire can be applied beyond the conditions of original learning — to new problems, domains, or situations. It is carried out by teaching abstract principles alongside multiple concrete instances, prompting learners to make comparisons and abstractions themselves, and practicing application in varied contexts rather than a single one.
 

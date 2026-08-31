@@ -10,6 +10,8 @@ generated:
 
 # Retrieval Practice Training
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Retrieval practice training teaches learners to strengthen memory by actively pulling information from long-term memory — through self-quizzing, free recall, flashcards, or answering questions before checking answers — instead of passively rereading material. The training component goes beyond simply administering retrieval activities: it makes learners aware that retrieval is a learning event, not merely an assessment, and equips them to generate and use retrieval opportunities independently. Effective training typically combines direct explanation of the testing effect, modeling of retrieval strategies, guided practice with feedback, and comparison against the rereading habits learners default to.
 

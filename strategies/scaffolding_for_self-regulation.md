@@ -10,6 +10,8 @@ generated:
 
 # Scaffolding for Self-Regulation
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Scaffolding for self-regulation provides temporary external structure — routines, prompts, checklists, co-regulation from an adult or peer, and immediate feedback — that helps learners manage emotional and behavioral responses in new or challenging situations. The support is calibrated to the learner's current capability and progressively faded as internal self-regulatory capacity develops. The mechanism is Vygotskian: learners first experience regulation *through* a more capable other, then internalize those strategies as self-regulation.
 

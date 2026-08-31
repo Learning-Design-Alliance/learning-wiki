@@ -10,6 +10,8 @@ generated:
 
 # Misconception Repair
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Misconception repair begins by eliciting learners' existing intuitive ideas — often flawed but robust mental models built from everyday experience — and then deliberately creating cognitive conflict between those ideas and evidence or expert explanations. Learners must recognize the inadequacy of their prior conception before an alternative, scientifically accurate model can be integrated. The strategy treats misconceptions not as gaps to be filled but as coherent frameworks that must be actively restructured.
 

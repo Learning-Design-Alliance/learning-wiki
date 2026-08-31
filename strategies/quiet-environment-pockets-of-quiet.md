@@ -10,6 +10,8 @@ generated:
 
 # Quiet Environment/Pockets of Quiet
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Reducing background noise in classrooms supports increased learner attention. This can be achieved by creating quiet classrooms, designating small quiet areas ("pockets of quiet"), or providing noise-blocking devices such as headphones or earplugs. These spaces and devices help learners self-regulate by providing an environment away from excess noise, protecting the acoustic conditions needed for speech perception and focused work.
 

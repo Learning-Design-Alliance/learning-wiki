@@ -10,6 +10,8 @@ generated:
 
 # Working Out Loud
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Working out loud is the practice of narrating one's work in progress — sharing drafts, questions, failures, and reasoning in a public or semi-public venue — so that others can see, respond to, and build on it. Coined by Bryce Williams (2010) and developed by John Stepper (2015), it combines *visible work* with *relational generosity*: posting is directed at people who can help, not merely archived. In learning contexts, learners post artifacts, explain their thinking, and solicit critique from peers, mentors, or a wider professional network.
 

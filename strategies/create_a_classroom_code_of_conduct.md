@@ -10,6 +10,8 @@ generated:
 
 # Create a Classroom Code of Conduct
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Teachers and students collaborate to establish a classroom code of conduct based on respectful, fair, kind, and empathetic behaviors. The process typically begins by asking students how they want to be treated, eliciting concrete behavioral examples, and converging on a shared norm — often framed as the Golden Rule ("treat others the way you want to be treated"). Because students participate in authoring the norms, the code functions as a social contract rather than an imposed rule list, which increases buy-in and the likelihood of self-enforcement.
 

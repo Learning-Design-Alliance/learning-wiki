@@ -10,6 +10,8 @@ generated:
 
 # Prepare for Parental Reactions
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 To teach controversial or emotionally charged content — race, politics, identity — a teacher must be confident that such discussions are essential for students' development, part of the curriculum, and important for helping students understand and improve their world. Preparation means securing administrative and collegial support, aligning planned activities with state standards, and communicating proactively with parents and guardians (e.g., an advance letter outlining what students will do and why). The strategy treats parental opposition as a predictable condition of teaching difficult content, to be planned for rather than reacted to.
 

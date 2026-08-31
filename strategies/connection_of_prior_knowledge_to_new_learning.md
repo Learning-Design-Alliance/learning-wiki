@@ -10,6 +10,8 @@ generated:
 
 # Connection of Prior Knowledge to New Learning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy deliberately surfaces what learners already know and links it to new content before, during, and after instruction. New information is encoded more durably when it is integrated into existing knowledge structures rather than stored in isolation; conversely, new learning that conflicts with unexamined prior conceptions is often distorted to fit them. The strategy is carried out through activation activities (pre-assessments, brainstorming, analogy, advance organizers) followed by explicit bridging — showing how the new concept extends, refines, or corrects what learners already hold.
 

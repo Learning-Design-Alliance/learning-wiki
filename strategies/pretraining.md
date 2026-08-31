@@ -10,6 +10,8 @@ generated:
 
 # Pretraining
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Pretraining provides learners with prior instruction on the names, characteristics, locations, and functions of the key concepts and components that a subsequent lesson will assume. Rather than learning "what it's called" and "how it works" simultaneously, learners first acquire the vocabulary and component knowledge, then encounter the causal model or procedure with those elements already familiar.
 

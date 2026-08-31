@@ -10,6 +10,8 @@ generated:
 
 # Doubles Minus One
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Doubles Minus One (also called "near doubles" or "doubles −1") is a mental computation strategy for addition facts such as 7+6 or 8+7. Learners anchor on a memorized doubles fact (7+7=14), then adjust: because 6 is one less than 7, the sum is one less than 14, so 7+6=13. The strategy converts roughly a dozen hard-to-memorize facts into applications of facts already known, using the structural relationship between addends.
 

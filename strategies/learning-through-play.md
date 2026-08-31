@@ -10,6 +10,8 @@ generated:
 
 # Learning Through Play
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learning through play embeds learning goals in activities characterized by enjoyment, voluntary engagement, iteration, and learner agency — free play, guided play, and game-based formats. The educator designs the environment and materials so that productive exploration is likely, rather than directing each step. Play ranges on a continuum from child-directed free play to adult-scaffolded [guided play](../strategies/guided-play.md), where the adult co-constructs the activity while preserving learner autonomy.
 

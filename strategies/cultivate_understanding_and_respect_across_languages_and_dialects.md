@@ -10,6 +10,8 @@ generated:
 
 # Cultivate Understanding and Respect Across Languages and Dialects
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy makes content accessible across linguistic variation while positioning every learner's language repertoire as an asset. Instructors provide translations of key terms, pair language with visuals, gestures, and real-world examples, and explicitly treat dialectal and home-language variation as legitimate rather than deficient. The dual aim is comprehension of academic content and the development of respect for linguistic diversity.
 

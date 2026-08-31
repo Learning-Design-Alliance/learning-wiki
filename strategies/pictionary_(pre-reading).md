@@ -10,6 +10,8 @@ generated:
 
 # Pictionary (Pre-Reading)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Key words from an upcoming text are selected, and the class is divided into two or three teams. A learner from each team comes to the whiteboard and draws a word without using letters or numbers while teammates race to guess it. The activity primes vocabulary, activates prior knowledge, and builds visual-verbal associations before learners encounter the words in context.
 

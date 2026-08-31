@@ -10,6 +10,8 @@ generated:
 
 # Help Seeking
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Help seeking is an adaptive self-regulation strategy in which learners recognize they need assistance, formulate a request, and obtain help from a teacher, peer, or system. It is carried out through explicit requests (questions, office hours, forum posts), structured mechanisms (hint buttons, peer tutoring), and classroom norms that legitimize asking. Because it requires monitoring one's own understanding and acting on that judgment, it is classified as a core self-regulatory behavior rather than a passive receipt of support.
 

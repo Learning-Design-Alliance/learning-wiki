@@ -10,6 +10,8 @@ generated:
 
 # Considering The Opposite
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Considering the opposite is a debiasing technique in which learners are prompted to explicitly generate reasons why their initial conclusion, diagnosis, or hypothesis might be wrong — and why an alternative might be right. It counters confirmation bias, anchoring, and overconfidence by forcing the activation of disconfirming evidence that would otherwise be filtered out. The technique originated in social psychology (Lord, Lepper & Preston, 1984) and has since been applied to clinical judgment, forecasting, and classroom argumentation.
 

@@ -10,6 +10,8 @@ generated:
 
 # Ten Frame Activities
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A ten frame is a 2×5 grid on which counters are placed to represent numbers up to ten. Ten frame activities ask learners to build, read, compare, and combine quantities on the frame — for example, flashing a filled frame for two seconds and asking "how many did you see?", or showing 7 as 5-and-2 and asking what is needed to make 10. The frame's fixed structure anchors quantities to the benchmarks of 5 and 10, the organizational backbone of the base-ten system.
 

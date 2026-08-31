@@ -10,6 +10,8 @@ generated:
 
 # Reading in Math Class
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Students read authentic published writing about mathematics — expository articles, essays, and columns from sources such as *Math Horizons*, Martin Gardner's *Scientific American* columns, or *Quanta Magazine*. Reading serves two functions: building comprehension of mathematical ideas as they are communicated in prose, and providing models of what effective mathematical writing looks like, which students can draw on when producing their own explanations and proofs.
 

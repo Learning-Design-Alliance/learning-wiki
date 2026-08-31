@@ -10,6 +10,8 @@ generated:
 
 # Temperature Regulation
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Temperature regulation is the deliberate management of ambient temperature in learning environments so that thermal discomfort does not consume cognitive and attentional resources needed for learning. Field research in schools shows that both overheating and excessive cooling degrade performance on reading and mathematics tasks, with the steepest effects above roughly 24°C [Wargocki & Wyon demonstrated classroom temperature reductions improved academic performance.](https://doi.org/10.1016/j.buildenv.2013.01.001) [+S]. Because thermal discomfort operates as a continuous low-level distractor, it is best treated as a baseline environmental condition to be engineered in advance rather than a teaching strategy to be applied mid-lesson.
 

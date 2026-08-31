@@ -10,6 +10,8 @@ generated:
 
 # Act It Out
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Act It Out asks learners to physically enact a scenario — a social interaction, a procedure, a historical event, a mathematical relationship — rather than only hearing or reading about it. One or more students perform the roles while others observe, and the group then debriefs what worked, what didn't, and why. The strategy is most often used for situations learners find difficult to navigate in the abstract: conflict resolution, scientific misconceptions, grammar structures, or professional interactions.
 

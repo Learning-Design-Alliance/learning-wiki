@@ -10,6 +10,8 @@ generated:
 
 # Premack Principle
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The Premack Principle states that a more probable behavior can reinforce a less probable behavior: access to an activity the learner already prefers is made contingent on completing a task the learner avoids. In practice, the instructor specifies an "if–then" contingency — "First finish your worksheet, then you may use the art station" — so that the preferred activity functions as a reinforcer for the target task. It derives from operant conditioning and the behavioral analysis of reinforcement [Premack, D. (1965)](https://doi.org/10.1037/h0022195).
 

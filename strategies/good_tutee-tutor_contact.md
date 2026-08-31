@@ -10,6 +10,8 @@ generated:
 
 # Good Tutee-Tutor Contact
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Good tutee-tutor contact means frequent, scheduled, and personally engaged interaction between tutor and tutee — knowing the tutee by name, asking about their well-being, and treating them as an individual with a life beyond the session. Contact is not merely logistical; it builds the relational foundation on which motivation, honest disclosure of confusion, and persistence through difficulty depend. Chickering and Gamson (1987) identify frequent student-faculty contact as the first of their seven principles of good practice, citing its motivational power.
 

@@ -11,6 +11,8 @@ evidence_strength: undetermined
 
 # Self-determination instruction improves outcomes
 
+> **Claim** · [All claims](index.md)
+
 Explicitly teaching learners about their basic psychological needs — autonomy, competence, and relatedness — and how to satisfy them improves motivational and learning outcomes.
 
 ## Subclaims

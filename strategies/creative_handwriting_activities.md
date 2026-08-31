@@ -10,6 +10,8 @@ generated:
 
 # Creative Handwriting Activities
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Creative handwriting activities replace repetitive copywork with varied, playful, and often multi-sensory tasks — writing in sand or shaving cream, forming letters with clay or body movements, tracing rainbow letters, composing real messages to real audiences, or using novel tools (chalk, paintbrushes, tablets with styluses). The goal is to build legible, automatic letter formation while sustaining motivation, rather than treating handwriting as isolated mechanical drill.
 

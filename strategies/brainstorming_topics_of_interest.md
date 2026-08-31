@@ -10,6 +10,8 @@ generated:
 
 # Brainstorming Topics of Interest
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Brainstorming an ongoing class list of topics learners want to know about and are interested in—a phenomenon, an event, or a law, for example. If teaching science, math, or history, require topics to be about the field, but also encourage general topics (and then find connections to content later). The list functions as a shared, evolving resource that anchors later instruction, projects, and inquiry to learner-generated relevance.
 

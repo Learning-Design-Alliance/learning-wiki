@@ -10,6 +10,8 @@ generated:
 
 # Create Space for Students to Reflect
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Providing structured opportunities for students to pause, reflect, and think about themselves, their ideas, and their feelings about projects can transform a classroom culture. Reflection promotes socio-emotional learning and provides a counterbalance to the fast pace of traditional classrooms, which can activate trauma and drain student energy. In practice, this means deliberately scheduled activities — journaling, [check-ins](../elements/check-in.md), structured debriefs, exit reflections — that ask learners to examine their own thinking and emotional responses rather than moving immediately to the next task.
 

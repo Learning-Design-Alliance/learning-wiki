@@ -23,6 +23,8 @@ sources:
 
 # Learning Interest Inventories
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learning interest inventories are structured surveys, questionnaires, or interview protocols that surface what learners care about, how they prefer to engage with content, and what conditions help them find joy in learning. Instructors use the results to select examples, design tasks, and offer choices that connect curriculum to individual interests. The inventory is a diagnostic tool, not an intervention itself — its value comes entirely from how the information is acted on in task design.
 

@@ -10,6 +10,8 @@ generated:
 
 # Leveraging Native Language in PBL
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Leveraging the native language in project-based learning (PBL) means treating students' full linguistic repertoires as assets rather than obstacles. Students research, discuss, draft, and produce project artifacts in their native language alongside the language of instruction — for example, creating bilingual products for authentic audiences — so that language difference becomes a resource for meaning-making, identity, and engagement rather than a barrier to participation.
 

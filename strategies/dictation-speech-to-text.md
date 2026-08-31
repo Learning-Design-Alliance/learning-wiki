@@ -10,6 +10,8 @@ generated:
 
 # Dictation/Speech-to-text
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Dictation uses speech recognition technology to convert spoken language into written text, allowing learners to compose by voice rather than by keyboard or handwriting. The learner speaks into a microphone; the software transcribes the words into a word processor or other text field, where they can be reviewed and edited. Modern implementations range from built-in device tools (Apple Dictation, Google Voice Typing, Microsoft Dictate) to trained systems such as Dragon (Nuance).
 

@@ -10,6 +10,8 @@ generated:
 
 # Increase Latency Periods When Questioning Students
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Latency (or "wait time") is the pause an instructor holds between posing a question and calling on a respondent, and between a learner's answer and the instructor's reply. Typical teacher latency is under one second; Rowe's classic research showed that extending it to three or more seconds lengthens and deepens student responses, increases voluntary participation, and disproportionately benefits low-achieving learners [Rowe's wait-time research on extended pauses improving response quality.](https://doi.org/10.1002/tea.3660110204) [+S]. The strategy is carried out by deliberately pausing after questions, silently counting, and resisting the urge to rephrase or answer one's own question.
 

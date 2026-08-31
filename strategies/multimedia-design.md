@@ -10,6 +10,8 @@ generated:
 
 # Multimedia Design
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Multimedia design is the deliberate arrangement of words (spoken or printed) and pictures (static or dynamic) in instructional materials. It is carried out by applying empirically derived principles — segmenting, signaling, coherence, modality, redundancy, and personalization — to videos, slides, animations, e-learning modules, and illustrated texts, so that the presentation aligns with how working memory processes visual and auditory channels.
 

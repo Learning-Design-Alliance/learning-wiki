@@ -10,6 +10,8 @@ generated:
 
 # Social Learning Theory
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Social Learning Theory, developed primarily by Albert Bandura, proposes that learning occurs not only through direct reinforcement (as behaviorism holds) but also through observation of others and the cognitive processing of those observations. The core mechanism is *modeling*: learners observe a model performing a behavior, encode the behavioral pattern, and reproduce it — with reproduction mediated by attention, retention, motor reproduction, and motivation.
 

@@ -12,6 +12,8 @@ grain_size: course
 
 # Competency-Based Learning
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Competency-Based Learning is a pattern that organizes progression around demonstrated competence on defined outcomes rather than uniform pacing. It typically combines explicit competencies, flexible progress, reassessment, and evidence of performance across time.
 

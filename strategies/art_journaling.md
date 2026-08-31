@@ -10,6 +10,8 @@ generated:
 
 # Art Journaling
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Art journaling asks learners to maintain an ongoing journal in which visual art-making — drawing, collage, diagramming, color work — is combined with written reflection on course content, personal responses, and emotional reactions. The journal functions as a low-stakes, private-to-semiprivate space where learners externalize understanding in two modalities rather than prose alone. Entries are typically prompted (e.g., "sketch the water cycle and annotate where you got confused") but may include open pages for free response.
 

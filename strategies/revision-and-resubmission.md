@@ -10,6 +10,8 @@ generated:
 
 # Revision And Resubmission
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Revision and resubmission structures assessment so that feedback arrives *before* the grade is final: learners receive specific, actionable feedback on an initial attempt, revise, and resubmit for a new evaluation. The strategy converts feedback from a terminal verdict into an input to further learning, making the feedback–action–improvement cycle the unit of assessment rather than the single submission.
 

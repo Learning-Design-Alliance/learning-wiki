@@ -10,6 +10,8 @@ generated:
 
 # Completion Problems First
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Completion problems first is a sequencing strategy in which learners' earliest practice tasks are partially completed — some steps or solution states are given, and learners fill in the remainder. It operationalizes the *completion strategy* (van Merriënboer) as a bridge between studying full [worked examples](../principles/worked-examples.md) and solving problems unaided, implementing a smooth [fading](../elements/fading.md) of guidance rather than an abrupt transition.
 

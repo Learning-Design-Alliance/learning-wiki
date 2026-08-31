@@ -10,6 +10,8 @@ generated:
 
 # Designing Personalized Learning for Engagement
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy ensures that personalized learning opportunities are designed to maximize engagement for all students, regardless of disability status, by making learning choices flexible and accessible from the outset. It pairs personalization with the Universal Design for Learning (UDL) framework: multiple means of engagement, multiple means of representation, and multiple means of action and expression. The design burden falls on the environment, not the learner — options are built in rather than retrofitted as accommodations.
 

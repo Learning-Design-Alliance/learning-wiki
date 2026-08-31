@@ -10,6 +10,8 @@ generated:
 
 # Positive Interdependence
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Positive interdependence is the structural condition — deliberately designed into a task, reward, role, or resource arrangement — under which group members perceive that they cannot succeed unless every member succeeds. It is the defining feature distinguishing cooperative learning from mere group work: it converts a collection of individuals into a genuine team with a shared fate.
 

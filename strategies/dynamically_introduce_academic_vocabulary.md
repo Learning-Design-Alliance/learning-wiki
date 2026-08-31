@@ -10,6 +10,8 @@ generated:
 
 # Dynamically Introduce Academic Vocabulary
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Rather than presenting academic vocabulary as static lists to memorize, this strategy introduces target words through dynamic, contextualized encounters: a memorable story, a vivid example, or a humorous personal anecdote at first exposure, followed by repeated meetings with the word across varied authentic contexts — discussion, reading, writing, and application tasks. Each encounter adds nuance to the learner's understanding, so the definition is internalized as a usable tool rather than recited as a string.
 

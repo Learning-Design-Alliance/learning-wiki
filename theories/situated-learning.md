@@ -10,6 +10,8 @@ generated:
 
 # Situated Learning
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Situated learning holds that knowledge is inseparable from the social, material, and cultural contexts in which it is used. Learning is strengthened when it happens through participation in authentic practices rather than only through abstract decontextualized instruction.
 

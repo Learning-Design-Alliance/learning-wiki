@@ -10,6 +10,8 @@ generated:
 
 # Solve Before You Teach
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Solve Before You Teach is a preparation strategy in which the instructor completes the target task — problem, reading, design challenge, or proof — before planning instruction. The instructor attends to their own solution process: where they hesitated, which approaches they tried and rejected, and where errors are likely. These observations become the basis for anticipating learner difficulties, selecting which student approaches to highlight, and planning questions and [Scaffolding](../principles/scaffolding.md) moves.
 

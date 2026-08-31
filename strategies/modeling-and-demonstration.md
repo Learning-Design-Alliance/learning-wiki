@@ -10,6 +10,8 @@ generated:
 
 # Modeling And Demonstration
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Modeling and demonstration involve an expert performing a task — solving a problem, executing a procedure, applying a strategy — while learners observe. Its power comes from making thinking visible: the modeler narrates decisions, monitors their own understanding, and shows how errors are detected and corrected, rather than merely displaying the finished product.
 

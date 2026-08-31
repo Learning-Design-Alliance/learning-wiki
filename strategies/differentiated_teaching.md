@@ -10,6 +10,8 @@ generated:
 
 # Differentiated Teaching
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Differentiated teaching is the deliberate adjustment of instruction — content, process, product, or environment — in response to differences in learners' readiness, interests, and learning profiles (Tomlinson, 2001). It is carried out through ongoing [assessment](../elements/assessment.md) of current understanding, followed by varied tasks, groupings, supports, or pacing so that each learner works at an appropriate level of challenge rather than a single whole-class target.
 

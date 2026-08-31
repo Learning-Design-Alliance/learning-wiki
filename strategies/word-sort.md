@@ -10,6 +10,8 @@ generated:
 
 # Word Sort
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 In a Word Sort, small groups receive an envelope of key terms on separate slips of paper. Before reading or lecture, students discuss what the terms might mean and organize them into categories based on perceived relationships. After exposure to the terms through text or lecture, groups reconvene to revise their sorts, now grounded in formal definitions.
 

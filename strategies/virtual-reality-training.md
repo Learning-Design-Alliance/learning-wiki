@@ -10,6 +10,8 @@ generated:
 
 # Virtual Reality Training
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Virtual Reality (VR) training places learners inside an interactive, three-dimensional simulated environment where they can rehearse procedures, manipulate equipment, and experience scenarios that would be dangerous, expensive, or impractical to stage in reality. Learning happens through embodied action — the learner performs the task (or a scaled version of it) rather than watching or reading about it, typically with system feedback on performance.
 

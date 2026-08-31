@@ -10,6 +10,8 @@ generated:
 
 # Augmented Reality (AR) for Medical Education and Training
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 AR overlays interactive, spatially registered 3D content — anatomical models, procedural guidance, virtual patients — onto the learner's real view of the world, typically via head-mounted displays, tablets, or mobile devices. In medical education it is used to teach anatomy in depth, multiply training opportunities through simulation, and let trainees rehearse procedures on virtual patients before touching real ones.
 

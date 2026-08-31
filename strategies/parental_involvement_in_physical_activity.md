@@ -10,6 +10,8 @@ generated:
 
 # Parental Involvement in Physical Activity
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Engage parents by providing details about the benefits of physical activity and encouraging their participation. Parents can promote physical activity at home through family walks, active play, and shared recreation; at school, they can volunteer to supervise before- or after-school programs or lead classroom exercise breaks. Active parental support increases the likelihood of program success, because parents are among the strongest correlates of children's activity levels [Rhodes et al. review of parental correlates.](https://doi.org/10.1016/j.jshs.2016.12.004) [+M].
 

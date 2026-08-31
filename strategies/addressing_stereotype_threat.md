@@ -10,6 +10,8 @@ generated:
 
 # Addressing Stereotype Threat
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Stereotype threat is the situational anxiety and performance disruption that occurs when a learner fears their performance could confirm a negative stereotype about a group they belong to (Steele & Aronson, 1995). Addressing it means redesigning the learning environment — how tasks are framed, how ability is described, how feedback is given, and how belonging is signaled — so that group identity is not made salient as a performance risk at the moment of learning or assessment.
 

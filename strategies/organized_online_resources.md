@@ -10,6 +10,8 @@ generated:
 
 # Organized Online Resources
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Organized online resources is a strategy in which an instructor curates, annotates, and structures digital materials — readings, videos, interactive tools, worksheets, exemplars — into a single coherent collection (a course hub, curation tool, or shared workspace) with clear labels, sequencing, and purpose statements for each item. The organizational work is done up front by the instructor so learners spend their effort on learning rather than searching, evaluating, and assembling materials.
 

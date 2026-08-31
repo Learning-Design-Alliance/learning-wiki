@@ -10,6 +10,8 @@ generated:
 
 # Student Shadowing (for high school instructors)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A veteran teacher or instructional coach shadows one or two students for one or two full school days, attending every class, completing (or attempting) the work, and experiencing the schedule, transitions, and social dynamics exactly as the student does. The goal is to see instruction from the learner's seat — how much time is spent passively listening, how often the student is required to produce or participate, and where attention, movement, and accountability break down. Findings feed directly into adjustments to the shadower's own teaching practice.
 

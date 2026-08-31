@@ -10,6 +10,8 @@ generated:
 
 # Gamified Practice
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Gamified practice embeds game design elements — points, badges, levels, leaderboards, streaks, narrative, or challenge structures — into practice activities that would otherwise be plain drills or exercises. The goal is not to replace practice but to sustain the repeated, effortful engagement that practice requires, while providing rapid feedback and progressively calibrated difficulty.
 

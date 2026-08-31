@@ -10,6 +10,8 @@ generated:
 
 # Timed Retrieval Practice
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Timed retrieval practice asks learners to actively recall information — from memory, without notes — within a fixed time limit, typically through short quizzes, brain dumps, flashcard rounds, or rapid-fire question sequences. The time constraint forces fluent, effortful retrieval rather than slow, cue-heavy searching, and the act of retrieval itself (not the time pressure) is the primary learning mechanism.
 

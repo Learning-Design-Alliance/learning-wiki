@@ -10,6 +10,8 @@ generated:
 
 # Clarification of Vocabulary, Symbols, and Language Structures
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy makes the language of a domain — its vocabulary, symbols, notation, and syntactic structures — explicit and learnable, rather than leaving learners to infer meaning from context alone. It is carried out through pre-teaching critical terms, providing definitions with multiple representations (verbal, visual, symbolic), modeling how language structures signal relationships between ideas, and giving learners supported practice using the terms and symbols themselves.
 

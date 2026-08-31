@@ -10,6 +10,8 @@ generated:
 
 # Practice Testing
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Practice testing (retrieval practice) asks learners to recall or apply information from memory — via low- or no-stakes quizzes, flashcards, free recall, or problem-solving — before or instead of restudying. The act of successful retrieval itself strengthens memory and reveals gaps, making testing a learning event rather than merely an assessment event.
 

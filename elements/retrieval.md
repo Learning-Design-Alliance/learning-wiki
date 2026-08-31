@@ -10,6 +10,8 @@ generated:
 
 # Retrieval
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Retrieval practice (the "testing effect") requires learners to pull information out of memory — via free recall, short-answer questions, quizzes, or self-explanation — instead of passively reviewing it. The act of successful retrieval itself modifies memory, making the retrieved knowledge more accessible later than equivalent time spent re-reading.
 

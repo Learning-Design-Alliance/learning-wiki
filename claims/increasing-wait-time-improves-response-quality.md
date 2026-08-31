@@ -11,6 +11,8 @@ evidence_strength: weak
 
 # Increasing Wait Time Improves Response Quality
 
+> **Claim** · [All claims](index.md)
+
 Extending the pause a teacher leaves after asking a question — and after a student begins to answer — yields longer, more complex, and more evidence-based student responses.
 
 ## Subclaims

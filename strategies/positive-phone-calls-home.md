@@ -10,6 +10,8 @@ generated:
 
 # Positive Phone Calls Home
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Positive phone calls home are brief (2–5 minute) calls or messages from a teacher to a family member that share specific good news about a student — effort, improvement, kindness, or achievement — made *before* any behavioral or academic problem occurs. They are a relationship-building intervention, not a reporting mechanism: the goal is to establish the teacher–family relationship on a positive footing and to signal to the student that their teacher notices and values them.
 

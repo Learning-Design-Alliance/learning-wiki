@@ -10,6 +10,8 @@ generated:
 
 # Praise Effort and Strategies
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 When learners succeed, praise their efforts and strategies rather than their intelligence. Praising intelligence can undermine motivation and performance, as learners may come to view intelligence as a fixed trait; in the face of failure, they may display less task persistence, less task enjoyment, and worse performance [Mueller & Dweck's experiments showed person-praise led to less persistence after setbacks than process-praise]. Effective praise is specific, identifies the strategy or effort that produced the outcome, and orients learners toward controllable causes of success.
 

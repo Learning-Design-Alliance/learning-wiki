@@ -10,6 +10,8 @@ generated:
 
 # Reflective Journaling
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Reflective journaling is a writing technique in which students record their understanding, reactions, and analysis of an event, experience, or concept — encompassing thoughts and emotions, not just content. It encourages reflective learning by making students' perceptions visible, increases attention during class, and supports transformative learning by prompting critical reflection on beliefs and deliberate plans to revise them [Mezirow's transformative learning framework](https://doi.org/10.1002/ace.7401) [+W].
 

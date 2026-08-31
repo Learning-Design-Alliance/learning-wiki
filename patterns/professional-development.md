@@ -12,6 +12,8 @@ grain_size: program
 
 # Professional Development
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Professional development applies the science of teacher learning to the design of experiences that change what educators know, do, and believe about instruction. Effective PD treats teachers as learners of a complex cognitive skill — much as [Cognitive Apprenticeship](cognitive-apprenticeship.md) treats students — combining modeling of expert practice, coached enactment in real classrooms, and iterative feedback. The problem it solves is well documented: one-shot workshops and one-off "sit and get" trainings rarely change classroom practice or student outcomes, while sustained, practice-embedded programs do [Darling-Hammond et al.'s review of effective PD features](https://doi.org/10.1080/00405841.2017.1382459) [+S].
 

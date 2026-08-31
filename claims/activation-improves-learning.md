@@ -11,6 +11,8 @@ evidence_strength:
 
 # Activation Improves Learning
 
+> **Claim** · [All claims](index.md)
+
 Activating learners' relevant prior knowledge before or during instruction improves comprehension and retention of new material. The claim covers deliberate pre-instructional activities — pre-questions, brainstorming, analogies, advance organizers — that surface what learners already know so new material can be connected to it.
 
 ## Subclaims

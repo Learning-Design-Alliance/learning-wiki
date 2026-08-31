@@ -10,6 +10,8 @@ generated:
 
 # Value Affirmation Before Assessment
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Value affirmation asks learners to select their most important personal values (e.g., relationships, creativity, community) from a list and write for 10–15 minutes about why those values matter to them. Completed shortly before an exam or other evaluative event, the activity reduces the anxiety and identity threat that depress performance, particularly for learners who enter the situation under stereotype or belonging threat. It is a self-affirmation intervention (Cohen & Sherman, 2014), not a confidence or optimism exercise — learners affirm *who they are*, not how they will perform.
 

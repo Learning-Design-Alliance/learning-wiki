@@ -11,6 +11,8 @@ evidence_strength: moderate
 
 # Interleaving Improves Learning
 
+> **Claim** · [All claims](index.md)
+
 Mixing different problem types or categories within a study sequence (interleaving) produces better learning and transfer than studying each category in a blocked sequence [+S], largely by forcing learners to discriminate which strategy or concept applies.
 
 ## Subclaims

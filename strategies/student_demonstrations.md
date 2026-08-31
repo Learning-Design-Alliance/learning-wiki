@@ -10,6 +10,8 @@ generated:
 
 # Student Demonstrations
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Student demonstrations involve learners showcasing their understanding of a topic or skill through a performance, presentation, or hands-on activity. Whereas instructor demonstrations model expert performance for observation, student demonstrations reverse the direction: the learner produces the performance, making their thinking and skill visible to peers and instructor. They are typically embedded in an assessment plan, serving both as evidence of learning and as an act of learning itself — preparing to demonstrate requires organizing, rehearsing, and applying knowledge.
 

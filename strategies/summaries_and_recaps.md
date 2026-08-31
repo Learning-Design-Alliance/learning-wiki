@@ -10,6 +10,8 @@ generated:
 
 # Summaries and Recaps
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Summaries and recaps periodically restate key content in condensed form — at the end of a segment, lesson, or unit — using different words, images, or examples than the original explanation. The strategy breaks content into smaller pieces, explains each part, then closes with a brief recap that learners may encounter passively (instructor-provided) or actively (learner-generated summaries, which generally produce stronger learning).
 

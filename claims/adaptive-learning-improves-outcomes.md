@@ -11,6 +11,8 @@ evidence_strength:
 
 # Adaptive learning improves outcomes
 
+> **Claim** · [All claims](index.md)
+
 Learning environments that adjust task difficulty, sequencing, or support to individual learner performance can improve outcomes relative to fixed, one-size-fits-all sequences — but the effect depends heavily on how adaptation is implemented and for whom.
 
 ## Subclaims

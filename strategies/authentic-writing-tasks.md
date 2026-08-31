@@ -10,6 +10,8 @@ generated:
 
 # Authentic Writing Tasks
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Authentic writing tasks ask learners to produce texts that resemble what writers actually do outside school — proposals, reviews, explanations for a lay audience, letters to decision-makers — for an audience and purpose beyond "demonstrate learning to the grader." The task specifies a realistic rhetorical situation (who reads it, why, what they will do with it), and the writing is evaluated against communicative effectiveness in that situation, not just correctness or coverage.
 

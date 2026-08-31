@@ -12,6 +12,8 @@ grain_size: unit, course
 
 # Authentic Assessment
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Authentic assessment asks learners to demonstrate competence by performing the kinds of tasks experts actually do — designing, arguing, diagnosing, writing for real audiences, solving ill-structured problems — under conditions that resemble real practice. Instead of measuring isolated knowledge with decontextualized test items, it evaluates the quality of a performance or product against public criteria, typically via [rubrics](../elements/rubrics.md) or expert judgment. The problem it solves is the transfer gap: learners who score well on tests often cannot apply knowledge when the context, format, or stakes change [~M].
 

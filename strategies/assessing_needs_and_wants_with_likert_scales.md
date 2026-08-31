@@ -10,6 +10,8 @@ generated:
 
 # Assessing Needs and Wants with Likert Scales
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy uses short Likert-scale surveys (typically five-point, from "strongly disagree" to "strongly agree") to gather quantitative data on what learners need — prior knowledge, confidence, perceived relevance — and what they want — interests, preferences, motivations. Responses are aggregated to inform instructional decisions such as topic sequencing, pacing, grouping, and emphasis, and are typically collected at the start of a unit, at [check-ins](../principles/check-ins.md) during it, and at closure.
 

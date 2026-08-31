@@ -10,6 +10,8 @@ generated:
 
 # Reflection After Writing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Reflection After Writing is a structured pause following a writing assignment in which students examine how the work went: what blocked them, which strategies helped, and what they will change next time. It is typically prompted by specific questions (e.g., "What was hardest about drafting this?" "Which revision strategy did you use, and did it work?") and may be written, discussed, or conferenced. The strategy converts a completed task into a source of strategic self-knowledge rather than treating submission as the endpoint.
 

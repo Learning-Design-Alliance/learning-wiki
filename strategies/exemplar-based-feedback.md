@@ -10,6 +10,8 @@ generated:
 
 # Exemplar Based Feedback
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Exemplar based feedback replaces (or supplements) verbal and rubric-only feedback with concrete samples of work — strong exemplars, weak exemplars, or a graded range — that learners compare against their own drafts. The learner's task shifts from decoding abstract criteria to judging the distance between their work and a visible target, which is how assessment standards are actually communicated in practice communities.
 

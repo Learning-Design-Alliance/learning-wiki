@@ -10,6 +10,8 @@ generated:
 
 # Accommodate Varying Technology Experience
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners arrive with widely varying familiarity with the digital tools, platforms, and conventions a course depends on. This strategy treats technology fluency as a prerequisite skill to be assessed and scaffolded — through optional onboarding modules, step-by-step tool guides, and peer support — rather than assumed. The goal is to ensure that cognitive effort goes to the learning content, not to wrestling with the interface.
 

@@ -10,6 +10,8 @@ generated:
 
 # Student Blogging
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Student blogging asks learners to publish short written posts on a schedule — reflecting on course content, documenting project work, or responding to prompts — to a real or classroom audience, typically with peer commenting. It converts writing from a private assessment artifact into a public, iterative practice: posts are read, responded to, and revised, giving writing an audience and a purpose beyond the grade.
 

@@ -10,6 +10,8 @@ generated:
 
 # Make-Believe: Problem-Based Learning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Make-believe problem-based learning places learners inside a simulated real-world situation — a role, a scenario, a stake — and asks them to solve a complex, open-ended problem collaboratively, as practitioners in that world would. The "make-believe" frame (a kidnapped teacher, a restaurant the class must launch, a climate summit) gives authentic problems a narrative container that makes them emotionally engaging and manageable within a classroom. Learners work alongside expert guidance, identify what they need to know, and develop solutions that are evaluated against real-world criteria rather than a single correct answer.
 

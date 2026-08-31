@@ -10,6 +10,8 @@ generated:
 
 # Teach Positive Actions
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Teaching positive actions means directly instructing learners in the concrete behaviors that produce well-being and success: caring for the body (nutrition, exercise, sleep), developing the intellect (thinking, decision-making, problem-solving), managing oneself (time, energy, emotions), treating others fairly and kindly, acting honestly, and setting and achieving goals. The strategy is carried out through sequenced lessons that name the positive action, model it, give learners practice with it, and connect it to how they feel about themselves. The best-known implementation is the [Positive Action](https://www.positiveaction.net) curriculum, a school-wide program with grade-specific lessons, but the strategy generalizes to any setting where prosocial and self-management behaviors are taught explicitly rather than assumed.
 

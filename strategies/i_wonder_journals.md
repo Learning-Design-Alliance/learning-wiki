@@ -23,6 +23,8 @@ sources:
 
 # I Wonder Journals
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 I Wonder Journals are ongoing notebooks in which students record open-ended questions ("I wonder why…?", "I wonder what would happen if…?") sparked by observations, readings, or everyday experiences. The teacher periodically reads the journals (with student permission), harvests questions, and uses them to launch investigations, shape lessons, and model how curiosity becomes inquiry. The practice operationalizes student questioning as a routine rather than an occasional event.
 

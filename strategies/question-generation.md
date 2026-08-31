@@ -10,6 +10,8 @@ generated:
 
 # Question Generation
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Question generation asks learners to author questions about the material they are studying rather than only answering questions posed to them. It can occur before instruction (generating curiosity questions), during reading or viewing (self-questioning), or after instruction (comprehension-monitoring and elaborative questions). The strategy works because composing a question forces learners to identify the structure of the content, detect gaps in their understanding, and rephrase ideas in their own terms.
 

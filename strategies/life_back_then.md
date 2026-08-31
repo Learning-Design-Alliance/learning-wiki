@@ -10,6 +10,8 @@ generated:
 
 # Life Back Then
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 "Life Back Then" is a historical persona strategy in which learners choose (or are assigned) a time period and a character who lived during it — an ordinary person rather than a famous figure works best. Learners research the character's daily life, social conditions, and worldview using primary and secondary sources, then present first-person accounts, artifacts, or dramatizations to the class. The strategy combines historical inquiry with perspective-taking, culminating in an [authentic audience](../principles/authentic-audiences-purposes.md) performance.
 

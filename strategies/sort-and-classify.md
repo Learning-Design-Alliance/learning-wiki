@@ -10,6 +10,8 @@ generated:
 
 # Sort And Classify
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Sort and classify asks learners to organize a set of items — examples, objects, statements, problems — into groups according to features or rules. The activity can be *closed* (a known taxonomy to be applied) or *open* (learners induce the categories themselves), and the sorting process, including discussion of why items belong together, is the learning mechanism.
 

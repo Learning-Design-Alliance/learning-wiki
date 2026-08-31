@@ -10,6 +10,8 @@ generated:
 
 # Hyperlinked Teaching
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Hyperlinked teaching provides students with direct avenues for further inquiry and exploration within a topic. Rather than a single linear path through content, materials contain links to deeper explanations, alternative perspectives, and supplementary resources, and students are expected to pursue, evaluate, and synthesize these connections with evidence from multiple sources. The instructor curates the link ecology and structures time for exploration, discussion, and product creation.
 

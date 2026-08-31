@@ -10,6 +10,8 @@ generated:
 
 # Strengths Based Feedback
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Strengths based feedback leads with an accurate diagnosis of what a learner is doing well — specific strategies, skills, or dispositions that are working — and then frames improvement as an extension or transfer of those strengths. It is not praise: the strength named must be genuine, specific, and connected to the learning goal, and it must be followed by actionable next steps. The approach draws on positive psychology's shift from deficit repair to capacity building [Seligman & Csikszentmihalyi, 2000](https://doi.org/10.1037/0003-066X.55.1.5) and on feedback research showing that effectiveness depends on what level the feedback addresses [Feedback is most effective at the task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
 

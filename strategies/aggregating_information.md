@@ -10,6 +10,8 @@ generated:
 
 # Aggregating Information
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Aggregating involves finding and displaying patterns in discussions and other communications. The instructor (or a tool, or the learners themselves) collects contributions from many participants, identifies recurring themes, contrasts, or gaps, and re-presents them visually or in summary form — as a concept map, theme list, word cloud, or synthesis post. The goal is to convert distributed, ephemeral talk into a visible, shared artifact that the whole group can reason with.
 

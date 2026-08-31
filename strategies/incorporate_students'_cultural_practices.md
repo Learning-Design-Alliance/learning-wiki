@@ -10,6 +10,8 @@ generated:
 
 # Incorporate Students' Cultural Practices
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy integrates students' cultural backgrounds, experiences, and community practices into lesson design, materials, and classroom activities. It goes beyond surface-level representation (holidays, food, artifacts) to draw on students' funds of knowledge — the skills, language practices, and ways of knowing from their homes and communities — as instructional resources. Teachers research students' cultural and educational backgrounds, invite students to contribute cultural knowledge (e.g., music, art, family practices, with explanation of significance), and offer choice in settings, characters, and examples so learners can connect with the work.
 

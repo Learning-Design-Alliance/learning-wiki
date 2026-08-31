@@ -10,6 +10,8 @@ generated:
 
 # Combination of Strategies
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Combining two or more calming sensory strategies to create a more comprehensive and effective approach to self-regulation. Examples include digging in a tactile bin while listening to white noise, sitting with a weighted blanket while looking at sensory bottles, or chewing gum while working on a fine motor task. The rationale is that learners with multiple sensory needs — for example, proprioceptive seeking alongside auditory sensitivity — are better served by addressing those needs simultaneously than by a single isolated tool.
 

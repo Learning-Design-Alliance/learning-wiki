@@ -10,6 +10,8 @@ generated:
 
 # Consult Fact-Checking Sites
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners develop the habit of consulting professional fact-checking services — FactCheck.org, Snopes.com, and PolitiFact.com — to verify the truth of claims, and use reverse image search (Google Images, TinEye) to trace the origin and authenticity of photographs. The strategy treats verification as an external, routinized check rather than an ad hoc judgment, shifting the burden from internal reasoning to reliable institutional resources.
 

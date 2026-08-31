@@ -10,6 +10,8 @@ generated:
 
 # Structured and Sustained Family Engagement Programs
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Structured and sustained family engagement programs are school-wide, institutionalized approaches to partnering with families — moving beyond one-off events (open houses, conferences) toward ongoing activities tied directly to student learning. They are carried out through a framework of engagement types (parenting, communicating, volunteering, learning at home, decision-making, collaborating with community), led by committed school leadership, and continuously evaluated so that effective offerings are retained and ineffective ones dropped.
 

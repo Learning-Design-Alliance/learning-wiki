@@ -10,6 +10,8 @@ generated:
 
 # Inclusive Innovation Process
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The Inclusive Innovation Process is a framework for growth with equity through a student, community, and educator-led research and design process. It unfolds in five phases — Connect and Commit, Inquire and Investigate, Design and Develop, Implement and Iterate, and Sustain and Scale — and treats students and community members as co-researchers and co-designers rather than subjects of change. The process emphasizes intentional inclusion, collaboration, and reflection to address equity-related problems defined by the community itself.
 

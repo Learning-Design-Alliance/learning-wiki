@@ -10,6 +10,8 @@ generated:
 
 # Classroom Rules And Routines
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Classroom rules are explicit statements of behavioral expectations; routines are rehearsed procedures for recurring activities (entering the room, transitioning between tasks, distributing materials, seeking help). Both are taught directly, practiced, and reinforced consistently until they run automatically, reducing the need for in-the-moment behavioral management.
 

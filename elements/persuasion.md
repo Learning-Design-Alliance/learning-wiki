@@ -10,6 +10,8 @@ generated:
 
 # Persuasion
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Persuasion tasks ask learners to construct and deliver arguments designed to change an audience's beliefs or actions, using logic, evidence, and rhetorical technique. Unlike [Argumentation](argumentation.md), which emphasizes reasoned justification, persuasion foregrounds audience awareness — tailoring claims, credibility, and emotional appeal to the listeners being addressed.
 

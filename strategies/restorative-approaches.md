@@ -10,6 +10,8 @@ generated:
 
 # Restorative Approaches
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Restorative approaches replace punitive responses to misbehavior with processes that bring together those harmed and those responsible to acknowledge harm, take accountability, and agree on repair. In classrooms this spans a continuum: proactive community-building circles and affective statements that build relationships before conflict, and responsive practices — restorative questions, mediation, conferences — that address harm after it occurs. The underlying shift is from asking "what rule was broken and what punishment is deserved?" to "who was harmed, what are their needs, and whose obligation is it to meet them?"
 

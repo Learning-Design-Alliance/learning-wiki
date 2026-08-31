@@ -10,6 +10,8 @@ generated:
 
 # Spaced Practice
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Spaced practice distributes study sessions, practice attempts, or reviews of a topic across time — hours, days, or weeks — instead of concentrating them in a single block. The gaps between sessions allow some forgetting to occur, so each re-engagement requires effortful retrieval, which strengthens the memory trace and improves long-term retention far beyond what massed practice achieves for the same total time on task.
 

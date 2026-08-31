@@ -15,6 +15,8 @@ sources:
 
 # Collaborative Learning
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Collaborative learning is the principle of designing tasks so learners build understanding through shared work, dialogue, and interdependence rather than isolated effort alone.
 

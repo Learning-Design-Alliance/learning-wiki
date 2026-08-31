@@ -11,6 +11,8 @@ evidence_strength:
 
 # Feedback Most Effective At Task And Process Levels
 
+> **Claim** · [All claims](index.md)
+
 Feedback directed at the task (how well the work meets the goal) and at the process (the strategies used to do the work) supports learning more than feedback directed at the person (praise or criticism of the self).
 
 ## Subclaims

@@ -10,6 +10,8 @@ generated:
 
 # Purpose (Pre-Reading)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners are given a specific purpose for reading, typically in the form of discussion questions about the content prepared by the teacher. They review these questions before reading and prepare answers while reading the text. Afterward, they discuss the questions with a partner. The strategy focuses attention, activates prior knowledge, and enhances comprehension by converting reading from passive reception into goal-directed search.
 

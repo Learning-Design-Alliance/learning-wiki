@@ -10,6 +10,8 @@ generated:
 
 # Praise and Reinforcement
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Praise and reinforcement are verbal or symbolic consequences delivered after a learner performs a desired behavior or produces acceptable work, intended to increase the frequency of that behavior and build motivation. Effective use requires that praise be contingent on performance, specific about what was done well, and delivered in a manner that preserves learner autonomy rather than functioning as external control.
 

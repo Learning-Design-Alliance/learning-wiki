@@ -10,6 +10,8 @@ generated:
 
 # Planned Physical Activity
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Planned physical activity is the deliberate scheduling of movement — sport, active transport, family activity, structured play — into a learner's daily and weekly routine, rather than leaving it to unstructured spare time. For pre-teens and teenagers, who need roughly 60 minutes of moderate-to-vigorous activity per day, planning is what converts good intentions into consistent behavior. The planning process considers available spaces, low-cost options, active friends, and activities the family can do together, and balances activity against homework, work, and social commitments.
 

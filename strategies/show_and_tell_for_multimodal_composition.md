@@ -10,6 +10,8 @@ generated:
 
 # Show and Tell for Multimodal Composition
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Show and tell for multimodal composition devotes a few minutes each week for learners to display the effects of different multimodal combinations (image, sound, gesture, layout, moving image) or to narrate their composition process to peers. It creates a space akin to the author's chair in writing workshops, but extended beyond print: learners explain *why* they paired a mode with a meaning, making design decisions — usually tacit — explicit and discussable. The strategy treats multimodal design as a teachable, critiquable craft rather than an intuitive act.
 

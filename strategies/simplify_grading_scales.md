@@ -10,6 +10,8 @@ generated:
 
 # Simplify Grading Scales
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Simplify Grading Scales replaces the conventional 0–100 percentage scale with a coarse ordinal scale — typically 0–4 or a small set of performance levels — often anchored to rubric descriptors. The core rationale is mathematical: on a 100-point scale, a zero for a missed assignment is catastrophically far from the next lowest grade (typically 50–60), so a single missing or failed task can mathematically dominate a term grade regardless of later learning. Coarse scales compress this range, keep grades tied to demonstrated performance levels, and make grade meaning transparent to students and families.
 

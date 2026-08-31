@@ -10,6 +10,8 @@ generated:
 
 # Graphic Organizers (Math)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Graphic organizers are structured visual templates — diagrams, mats, charts, and grids — that externalize the structure of a math problem or concept so learners can organize information spatially instead of holding it in working memory. In mathematics they serve two main functions: problem-solving scaffolds (e.g., step-by-step word-problem frames, "break it down" templates) that help students identify what is being asked and which operation to use, and concept-development tools (e.g., the [Frayer model](https://www.theteachertoolkit.com/index.php/tool/frayer-model), Venn diagrams, place-value mats) that map relationships among ideas. Common formats include the Frayer model, step-by-step frames, Venn diagrams, number lines, place-value charts, ten-frames, and coordinate or hundredths grids.
 

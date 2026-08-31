@@ -10,6 +10,8 @@ generated:
 
 # IKEA VR Kitchen Visualizer
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The IKEA VR Kitchen Visualizer (released 2016 for HTC Vive and Oculus Rift) lets customers walk around a virtual version of their planned kitchen at true scale, swap cabinet fronts, colors, and layouts, and interact with objects — frying pancakes, opening drawers, sorting waste. Beyond visualization, it surfaces design heuristics such as the work triangle, corner storage, and waste-sorting workflows, aiming to transfer practical knowledge to customers and reduce costly purchase mistakes before commitment.
 

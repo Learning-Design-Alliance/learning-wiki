@@ -10,6 +10,8 @@ generated:
 
 # Dealing with Feelings
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Dealing with Feelings is a guided self-reflection strategy for adults who were not sufficiently taught as children how to handle the emotions that accompany failure, error, or criticism. The learner works through a sequence: creating a safe, non-judgmental space; allowing the feeling (sadness, anger, shame) to be present and "seen"; expressing what happened and why the feeling arose — often through writing; receiving or simulating non-judgmental listening; and finally comforting oneself. Releasing the emotional tension makes it possible to look at the mistake more peacefully and honestly, which is a precondition for learning from it.
 

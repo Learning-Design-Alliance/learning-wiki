@@ -10,6 +10,8 @@ generated:
 
 # Use Visual Aids
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Supplementing verbal instructions with visual aids means pairing spoken or written explanation with images, diagrams, charts, or demonstrations that represent the same content. The visual and verbal channels carry complementary information, so learners can integrate meaning across both rather than parsing everything through language alone.
 

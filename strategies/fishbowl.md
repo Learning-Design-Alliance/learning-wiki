@@ -23,6 +23,8 @@ sources:
 
 # Fishbowl
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Two learners sit facing each other in the center of the room; the remaining learners sit in a circle around them. The two central learners have a conversation based on a pre-determined topic, often deliberately practicing specific discussion skills the class is working on (asking follow-up questions, paraphrasing, elaborating on another person's point). Learners on the outside observe, take notes, or perform another discussion-related task assigned by the teacher. Variations include relay-style swapping between inner and outer circles, outer-circle "coaching" from the sidelines, and outer-circle scoring of the conversation against a rubric followed by a structured debrief.
 

@@ -10,6 +10,8 @@ generated:
 
 # Math Talks
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Math talks are structured conversations focused on mathematical reasoning and problem-solving strategies. A facilitator poses a problem — often one with multiple solution paths — and learners explain their thinking aloud, compare strategies, and work toward shared precision in mathematical language. The instructor's role shifts from delivering procedures to eliciting, probing, and connecting student ideas, which also yields real-time evidence of comprehension.
 

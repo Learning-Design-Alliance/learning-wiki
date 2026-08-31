@@ -10,6 +10,8 @@ generated:
 
 # Website Domain Analysis
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners are taught the differences between .com, .gov, .org, and .edu domains to assess the reliability of websites. This is typically taught as a mini-lesson in which students learn the typical purpose and potential biases of each domain type, then apply a checklist or rubric when evaluating sources. Domain analysis is a heuristic form of source evaluation: it gives learners a fast, low-effort rule of thumb for triage before deeper evaluation.
 

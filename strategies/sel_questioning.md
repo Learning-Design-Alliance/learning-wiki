@@ -10,6 +10,8 @@ generated:
 
 # SEL Questioning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 SEL Questioning is a strategy in which teachers pose brief, structured questions targeting social-emotional competencies — self-awareness, empathy, coping, and help-seeking — rather than academic content alone. Questions typically fall into four families: kindness ("When did someone show you kindness this week?"), metaphor ("If your mood were weather, what would it be?"), challenge ("What's hard for you right now, and how are you handling it?"), and support ("Who could you ask for help?"). Learners respond individually (journaling, turn-and-talk) and then share in [class discussion](../elements/class-discussion.md), making emotional reasoning visible and normative.
 

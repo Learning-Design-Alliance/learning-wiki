@@ -10,6 +10,8 @@ generated:
 
 # Communicate Quickly and Easily Through Mobile Apps
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Mobile apps such as Remind, ClassDojo, and Seesaw give teachers a fast, asynchronous channel for communicating with parents and students about assignments, progress, and school events. By lowering the effort cost of contact — no phone calls, notes home, or scheduled meetings — they increase the frequency and timeliness of home–school information flow, which supports [Check-Ins](../elements/check-in.md) and ongoing [Feedback](../elements/feedback.md) beyond the classroom day.
 

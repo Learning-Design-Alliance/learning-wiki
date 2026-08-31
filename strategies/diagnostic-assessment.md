@@ -10,6 +10,8 @@ generated:
 
 # Diagnostic Assessment
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Diagnostic assessment gathers evidence about what learners already know, believe, and can do *before* instruction begins, so that teaching can be matched to actual starting points rather than assumed ones. It typically takes the form of pre-tests, concept inventories, misconception probes, or structured interviews, and its output is a profile of readiness — not a grade.
 

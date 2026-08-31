@@ -10,6 +10,8 @@ generated:
 
 # Text Talk
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Text Talk is a read-aloud approach developed by Isabel Beck and Margaret McKeown in which the teacher reads a storybook aloud but stops at points of complexity to ask open-ended, text-based questions that require children to reason about ideas rather than respond to pictures. It deliberately separates picture support from text comprehension — children are asked to construct meaning from the language — and weaves in brief, child-friendly explanations of sophisticated "Tier 2" vocabulary encountered in the story.
 

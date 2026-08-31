@@ -10,6 +10,8 @@ generated:
 
 # Routines And Signals
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Routines are rehearsed, repeatable procedures for recurring classroom activities (entering, distributing materials, transitioning between tasks, submitting work); signals are brief cues — verbal, visual, or auditory — that trigger a specific learned response (attention, silence, movement). Together they automate the operational layer of a learning environment so that instruction, not management, consumes instructional time.
 

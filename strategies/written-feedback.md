@@ -10,6 +10,8 @@ generated:
 
 # Written Feedback
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Written feedback delivers comments on learner work — identifying what was done well, where performance falls short of the goal, and what to do next. It is carried out through margin comments, end comments, rubric-anchored notes, or structured feedback sheets, ideally framed as actionable guidance rather than verdicts.
 

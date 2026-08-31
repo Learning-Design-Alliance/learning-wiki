@@ -10,6 +10,8 @@ generated:
 
 # Weekly Student Reflection
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Weekly student reflection is a recurring, low-stakes routine in which students spend 10–15 minutes responding to structured prompts about what they learned, how they learned it, where they struggled, and what they will do next. Prompts are typically short written responses — journals, exit tickets, or LMS forms — that cycle through phases of self-monitoring (What did I do?), self-evaluation (How well did it work?), and strategic planning (What will I change?). When instructors read and respond, the routine doubles as a formative-assessment channel and a vehicle for teacher–student dialogue.
 

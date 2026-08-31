@@ -16,6 +16,8 @@ evidence_strength: moderate
 
 # Worked-example guidance becomes less effective as learner expertise increases.
 
+> **Claim** · [All claims](index.md)
+
 The supports that help novices during initial acquisition can become redundant for more experienced learners, reducing efficiency and sometimes depressing performance.
 
 ## Subclaims

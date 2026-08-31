@@ -10,6 +10,8 @@ generated:
 
 # Awareness of Implicit Biases
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Awareness of implicit biases involves recognizing unconscious attitudes and stereotypes that influence instructor judgments and behaviors — such as grading, questioning patterns, and expectations — and taking deliberate steps to counteract them. In education, these biases can shape which students are called on, how feedback is framed, and whose contributions are credited, with cumulative effects on achievement and belonging. The strategy combines structured self-assessment, evidence-based debiasing habits, and external feedback loops rather than relying on introspection alone.
 

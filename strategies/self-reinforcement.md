@@ -10,6 +10,8 @@ generated:
 
 # Self-Reinforcement
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Self-reinforcement involves individuals selecting a reinforcer and rewarding themselves for reaching or exceeding a set criterion. The learner — not the teacher — administers the reward, which shifts the locus of behavioral control from external management to self-management. Rooted in [Social Learning Theory](../theories/social-learning-theory.md) and [Behaviorism](../theories/behaviorism.md), it is a core component of [Self-Regulated Learning](../theories/self-regulated-learning.md): learners observe their own performance, compare it against a standard, and deliver consequences to themselves [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M].
 

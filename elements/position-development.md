@@ -10,6 +10,8 @@ generated:
 
 # Position Development
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Position development asks learners to form, articulate, and defend a stance on a genuinely contested issue, then refine that stance in response to evidence and counterargument. The stance is treated as provisional: the learning happens in the cycle of claiming, justifying, and revising rather than in arriving at a "correct" answer.
 

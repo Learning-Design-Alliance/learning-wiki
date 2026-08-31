@@ -10,6 +10,8 @@ generated:
 
 # Scaffolding Structure and Function in PBL
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy embeds language scaffolds within project-based learning (PBL) so that students can demonstrate content understanding through academic language they might not yet command independently. Instructors supply structural supports — sentence starters ("The evidence shows that…"), conditional frames ("If ______, then ______"), and discourse templates for justifying, comparing, or hypothesizing — paired with explicit instruction in the *function* each structure serves (e.g., claiming, evidencing, conceding). The scaffold targets both the linguistic form and the rhetorical purpose, so students learn not just how to say it but when and why.
 

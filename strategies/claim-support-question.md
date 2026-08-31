@@ -10,6 +10,8 @@ generated:
 
 # Claim Support Question
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Claim Support Question (CSQ) is a thinking routine developed by [Project Zero at Harvard Graduate School of Education](https://pz.harvard.edu/thinking-routines) in which learners (1) make a claim about a topic or text, (2) identify support — evidence, reasoning, or examples — for that claim, and (3) ask a related question that the claim does not resolve. The routine structures argumentation into a compact, repeatable format that makes reasoning visible and keeps inquiry open rather than closing on a verdict.
 

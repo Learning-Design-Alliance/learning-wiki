@@ -10,6 +10,8 @@ generated:
 
 # Normalizing Error
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Normalizing error means structuring the learning environment so that mistakes are treated as a routine and valuable part of learning rather than as evidence of low ability. It is carried out through instructor language ("errors tell us what to teach next"), public analysis of mistakes, low-stakes or ungraded practice, and sharing of the instructor's own errors — shifting the classroom norm from error avoidance to error examination.
 

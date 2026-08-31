@@ -10,6 +10,8 @@ generated:
 
 # Interdisciplinary Activities
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Interdisciplinary activities present issues, themes, and problems that require skills and knowledge from more than one subject to address or answer. Learners must integrate concepts, methods, or explanatory frameworks from multiple disciplines — for example, using physics and statistics to evaluate a public-health claim — rather than treating each subject as a sealed container. The approach can be implemented through entire units, class-long exercises, or short activities.
 

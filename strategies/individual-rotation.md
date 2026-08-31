@@ -23,6 +23,8 @@ sources:
 
 # Individual Rotation
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Individual rotation is a blended learning model in which each student follows an individually assigned, often algorithm-generated, schedule or playlist that rotates among learning modalities — online adaptive software, teacher-led small-group instruction, collaborative activities, and independent work. Unlike [Station Rotation](station-rotation.md), the rotation is customized per learner rather than fixed for the whole class; unlike [Flipped Classroom](flipped-classroom.md), it governs the entire learning pathway rather than the homework/class split.
 

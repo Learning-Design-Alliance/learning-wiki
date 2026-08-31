@@ -10,6 +10,8 @@ generated:
 
 # Instill Intrinsic Motivation
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Instilling intrinsic motivation means designing instruction so that learners act because the activity itself is satisfying, meaningful, or identity-affirming — not because of grades, tokens, or external pressure. A practical classroom version teaches students a thought–action–feeling cycle: negative self-talk ("I can't do this") is reframed into positive thoughts, which drive positive actions, which produce positive feelings about the self that reinforce further action. Structurally, the strategy rests on supporting three needs identified by [Self-Determination Theory](../theories/self-determination-theory.md): autonomy, competence, and relatedness [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S].
 

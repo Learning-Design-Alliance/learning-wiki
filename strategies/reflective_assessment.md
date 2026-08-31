@@ -10,6 +10,8 @@ generated:
 
 # Reflective Assessment
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Reflective assessment treats assessment as a learning activity rather than a terminal judgment: learners examine their own progress over time, articulate what they have learned and how, and grades are positioned as information about growth rather than rewards or sanctions. The instructor designs assessment events that require students to compare current performance against prior performance and against explicit criteria, and uses the results to adjust instruction. This aligns with the broader shift from an assessment *of* learning culture to an assessment *for* learning culture [Assessment for Learning](../principles/assessment-for-learning.md) [+S].
 

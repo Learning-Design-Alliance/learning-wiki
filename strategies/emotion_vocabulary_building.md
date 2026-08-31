@@ -10,6 +10,8 @@ generated:
 
 # Emotion Vocabulary Building
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Emotion vocabulary building is the deliberate instruction of emotion words — moving learners from broad categories ("good," "bad," "mad") toward granular distinctions (frustrated, disappointed, anxious, resentful). It is carried out through direct teaching of labels, discussion of when each applies, and repeated opportunities to label one's own and others' states in context. Affect labeling itself appears to regulate emotional experience: naming a feeling reduces amygdala reactivity and increases prefrontal engagement [Lieberman et al. (2007)](https://doi.org/10.1111/j.1467-9280.2007.01916.x) [+M].
 

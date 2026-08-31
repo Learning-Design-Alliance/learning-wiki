@@ -10,6 +10,8 @@ generated:
 
 # Comprehensive School Physical Activity Programs
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A Comprehensive School Physical Activity Program (CSPAP) is a whole-school framework, promoted by the CDC and SHAPE America, that coordinates physical activity across five components: physical education, physical activity during school, physical activity before and after school, staff involvement, and family and community engagement. Rather than relying on physical education class alone, CSPAP treats the entire school day and environment as an instructional setting for accumulating the recommended 60 minutes of daily moderate-to-vigorous physical activity (MVPA) and for building lifelong movement habits.
 

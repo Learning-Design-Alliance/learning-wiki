@@ -11,6 +11,8 @@ evidence_strength:
 
 # Fluent Illusions Mislead Self Assessment
 
+> **Claim** · [All claims](index.md)
+
 The subjective ease of processing information (fluency) is often mistaken by learners for evidence of learning, producing overconfident self-assessments that misdirect further study.
 
 ## Subclaims

@@ -10,6 +10,8 @@ generated:
 
 # Follow the Platinum Rule
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The Platinum Rule — "treat others the way *they* want and need to be treated" — extends the Golden Rule by requiring learners and educators to first understand the other person's perspective, needs, and preferences before deciding how to act. In learning design it means diagnosing what each student actually needs (prior knowledge, cultural context, motivational state, preferred support) instead of projecting one's own preferences onto them. It is carried out through perspective-taking, active listening, and responsive adjustment of instruction and interaction.
 

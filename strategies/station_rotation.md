@@ -10,6 +10,8 @@ generated:
 
 # Station Rotation
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Station rotation divides a class into small groups that move through a set sequence of stations on a schedule, each with a distinct activity modality: a teacher-led station for targeted instruction, a collaborative station for group work, and an independent or digital station for practice. Unlike [Lab Rotation](lab-rotation.md) or [Flipped Classroom](flipped-classroom.md) models, rotation happens *within* the classroom, keeping the teacher central to every student's learning time. It is the most common blended-learning model in K–12 classrooms (Horn & Staker, 2015).
 

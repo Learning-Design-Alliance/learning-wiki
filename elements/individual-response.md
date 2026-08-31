@@ -10,6 +10,8 @@ generated:
 
 # Individual Response
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Individual Response asks learners to commit to an answer or solution on their own before any group discussion or peer comparison occurs. It functions as the private, first-draft phase of interactive instruction — the moment when each learner must retrieve, reason, and take a position without being able to defer to others.
 

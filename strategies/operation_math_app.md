@@ -10,6 +10,8 @@ generated:
 
 # Operation Math App
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Operation Math (Spinlight Studio) is a game-based app in which learners play a secret agent who defeats villains by completing 105 timed math missions covering addition, subtraction, multiplication, and division. Each mission presents a short sequence of computation problems under a countdown timer, with immediate right/wrong feedback and unlockable gear as rewards. The app is aimed primarily at ages 9–11 and is designed to build [automaticity](../elements/automaticity.md) with basic facts and multi-digit computation through repeated, game-framed [practice](../elements/practice.md).
 

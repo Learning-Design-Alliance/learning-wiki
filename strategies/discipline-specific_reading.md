@@ -10,6 +10,8 @@ generated:
 
 # Discipline-Specific Reading
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Students read authentic texts from the target discipline — professional columns, magazine articles, journal excerpts, or trade writing — rather than only textbook prose. By studying how experts in a field actually communicate (how a mathematician argues a proof informally, how a scientist reports uncertainty), students build genre awareness and a repertoire of models for their own disciplinary reading and writing.
 

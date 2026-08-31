@@ -10,6 +10,8 @@ generated:
 
 # Rich Library: Multimodal Resources
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A rich library gives learners access to a curated collection of multimodal resources — videos, audiobooks, digital and print texts, blogs, and interactive media — spanning diverse genres and topics. Learners select resources aligned with their interests and goals, building background knowledge and engagement through self-directed exploration. The strategy treats breadth of access and learner choice as the primary levers, with curation ensuring quality and relevance.
 

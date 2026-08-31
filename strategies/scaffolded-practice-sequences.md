@@ -10,6 +10,8 @@ generated:
 
 # Scaffolded Practice Sequences
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Scaffolded practice sequences arrange a set of practice tasks along a planned gradient: early tasks are simpler and heavily supported, later tasks are more complex and less supported. Support is faded systematically — from full worked examples, to completion problems, to independent problem solving — so that responsibility for task performance transfers gradually from instruction to the learner.
 

@@ -11,6 +11,8 @@ evidence_strength: moderate
 
 # Clear Structure Improves Learning
 
+> **Claim** · [All claims](index.md)
+
 Presenting learning content with an explicit, predictable organization — clear goals, logical sequencing, signposting, and consistent formatting — reduces extraneous processing and helps learners build coherent mental models.
 
 ## Subclaims

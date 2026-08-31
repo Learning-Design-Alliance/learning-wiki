@@ -10,6 +10,8 @@ generated:
 
 # Speech-to-Text Technology
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Speech-to-text (STT) technology converts spoken language into written text in real time. The learner speaks into a device (computer, tablet, or smartphone) equipped with speech recognition software, which transcribes the words; the learner then corrects errors and adds punctuation. For learners with dyslexia, dysgraphia, or physical disabilities, STT removes the transcription barrier — spelling, letter formation, and typing mechanics — so composing effort can go to ideas and organization rather than transcription.
 

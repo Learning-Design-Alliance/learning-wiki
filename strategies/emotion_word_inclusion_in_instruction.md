@@ -10,6 +10,8 @@ generated:
 
 # Emotion Word Inclusion in Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Emotion word inclusion means the educator routinely and deliberately uses emotion vocabulary in instructional talk: naming their own emotional states ("I'm frustrated this didn't work — let me try again"), labeling the learner's apparent feelings ("You seem disappointed with that score"), and naming emotions in stories, cases, or historical figures ("How did she feel when…?"). The practice serves two functions: it gives learners the words to identify and communicate emotional states, and it signals that emotions are legitimate, discussable parts of the learning environment.
 

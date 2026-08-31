@@ -10,6 +10,8 @@ generated:
 
 # Audiobooks
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Audiobooks deliver text through narrated audio, giving learners an alternative channel for accessing the same content as print reading. They can replace print for learners whose listening comprehension outstrips their decoding ability, or supplement it through combined audio-plus-print presentation. The strategy is carried out by curating recordings matched to learners' interests and reading levels, embedding them in reading time or assigned readings, and following up with comprehension activities.
 

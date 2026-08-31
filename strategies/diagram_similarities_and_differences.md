@@ -10,6 +10,8 @@ generated:
 
 # Diagram Similarities and Differences
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners identify two or more words, concepts, or cases, generate a list of similarities and differences, and represent those relationships in a Venn diagram or comparison matrix. The strategy is one of Robert Marzano's high-yield instructional strategies: identifying similarities and differences is the single largest-effect category in his synthesis of instructional research [Marzano, R. J. (1998) meta-analytic synthesis] [+S]. It is a structured form of [Analogical Reasoning](../principles/analogical-reasoning.md) in which learners must analyze both items deeply enough to make justified comparisons.
 

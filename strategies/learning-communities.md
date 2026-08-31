@@ -10,6 +10,8 @@ generated:
 
 # Learning Communities
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A learning community organizes learners into a durable group with a shared purpose — a common cohort, project, or body of knowledge — where members depend on one another for progress. Unlike one-off group work, learning communities persist across tasks and time, developing shared norms, distributed expertise, and a sense of collective identity. The instructor's role shifts from sole knowledge source toward designing structures (roles, rituals, shared artifacts) that make mutual engagement productive.
 

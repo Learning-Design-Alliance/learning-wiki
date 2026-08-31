@@ -10,6 +10,8 @@ generated:
 
 # Questioning The Author
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Questioning the Author (QtA) is a discussion-based reading comprehension strategy in which the teacher poses open-ended "queries" directed at the author's intentions — e.g., "What is the author trying to tell us here?" or "Does that make sense with what came before?" — rather than asking students to recall text details. Students treat the text as fallible and under construction, working collaboratively to build meaning as they read, and the teacher follows up with "follow-up queries" that probe and connect student responses.
 

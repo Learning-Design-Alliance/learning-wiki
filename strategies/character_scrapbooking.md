@@ -10,6 +10,8 @@ generated:
 
 # Character Scrapbooking
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Students select four key events from a novel and create scrapbook entries representing a character's inner thoughts, feelings, and experiences during each event. Entries combine drawings, images, magazine cutouts, and textual quotes, and may be shared with peers or reframed as social media posts from the character's perspective. The activity requires students to infer unspoken mental states from textual evidence, then translate that inference into a visual-verbal composition.
 

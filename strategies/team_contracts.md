@@ -10,6 +10,8 @@ generated:
 
 # Team Contracts
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A team contract (also called a team charter or group agreement) is a document co-authored by members of a collaborative learning team at the outset of a project. It typically specifies individual roles and responsibilities, meeting and communication norms, decision-making procedures, quality standards, and consequences for non-participation. Because members negotiate and sign it themselves, the contract functions as a public commitment device rather than an instructor-imposed rule set.
 

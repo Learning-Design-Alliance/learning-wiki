@@ -10,6 +10,8 @@ generated:
 
 # Letter Names and Letter Sounds Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy provides explicit, direct instruction in letter names and letter–sound (grapheme–phoneme) correspondences, typically in kindergarten and early first grade. Letters are taught systematically — a planned sequence rather than incidental exposure — with frequent opportunities to name letters, produce sounds, and map sounds to letters in reading and writing. Letter–sound knowledge, more than letter-name knowledge, is the critical bridge to decoding; letter names can scaffold sound learning (e.g., /b/ in "bee") but must not substitute for it.
 

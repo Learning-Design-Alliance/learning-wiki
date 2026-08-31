@@ -10,6 +10,8 @@ generated:
 
 # After Action Review
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 An After Action Review (AAR) is a structured reflection conducted immediately after a task, simulation, or performance episode. Learners answer four canonical questions — what was supposed to happen, what actually happened, why the differences occurred, and what will be done differently next time — converting experience into explicit, transferable lessons. The format originated in the U.S. Army and has been adapted widely in medical simulation, aviation, and project-based education.
 

@@ -10,6 +10,8 @@ generated:
 
 # Calming Strategies
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Calming strategies are concrete, repeatable techniques — deep breathing, seeking a quiet space, squeezing a fidget, taking a cool drink, brief mindfulness — that learners use to down-regulate anger, anxiety, and other intense emotions. They are explicitly taught and rehearsed during calm periods, so that the response is available and fluent when emotional arousal is high. Effectiveness varies by individual and by the intensity of the emotion, so learners build a repertoire rather than a single technique.
 

@@ -10,6 +10,8 @@ generated:
 
 # Ample Space
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Ample space refers to designing learning environments with sufficient floor area, circulation room, and layout flexibility so that learners can move, collaborate, and attend without the physical and psychological friction of crowding. It encompasses per-student floor area, aisle and pathway width, and the spatial margin around work zones — not merely total room size.
 

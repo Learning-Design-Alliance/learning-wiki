@@ -11,6 +11,8 @@ evidence_strength: weak
 
 # Seductive Details Harm Learning
 
+> **Claim** · [All claims](index.md)
+
 Highly interesting but irrelevant text, images, audio, or video added to instructional materials — "seductive details" — tend to impair learning of the core content rather than enhance it.
 
 ## Subclaims

@@ -15,6 +15,8 @@ sources:
 
 # Competency-based Learning & Assessment
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Competency-based learning and assessment organize progress around demonstrated mastery rather than seat time, pacing norms, or one-shot averages. Learners advance by showing they can perform clearly defined competencies, often through applied tasks, performance assessments, or repeated attempts. The design promise is tighter alignment between what matters and what is assessed, but that promise depends on the quality of the competencies, evidence, and supports.
 

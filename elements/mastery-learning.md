@@ -10,6 +10,8 @@ generated:
 
 # Mastery Learning
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Mastery learning is the element in which progression depends on demonstrated understanding rather than time alone.
 

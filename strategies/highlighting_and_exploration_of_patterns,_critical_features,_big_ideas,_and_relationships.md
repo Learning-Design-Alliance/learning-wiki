@@ -10,6 +10,8 @@ generated:
 
 # Highlighting and Exploration of Patterns, Critical Features, Big Ideas, and Relationships
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy directs learner attention to what matters most in a task, text, or domain — critical features, recurring patterns, underlying big ideas, and the relationships among them — rather than leaving learners to discover salience on their own. It is carried out through two complementary moves: *highlighting* (signaling, underlining, advance organizers, contrastive framing) and *exploration* (guided comparison of cases, pattern-finding prompts, self-explanation questions that push learners to articulate the structure themselves).
 

@@ -10,6 +10,8 @@ generated:
 
 # Family Literacy Engagement
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Family literacy engagement encompasses the practices, routines, and programs through which families support children's reading and writing development — from shared book reading and storytelling to school-structured programs that equip caregivers with specific interaction techniques. It is carried out both informally (home literacy environment) and formally (structured interventions such as dialogic reading training or family literacy workshops).
 

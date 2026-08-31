@@ -10,6 +10,8 @@ generated:
 
 # Small Group Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Small group instruction places a teacher or facilitator with a small number of learners (typically 3–8) who share a similar instructional need, for focused work on a specific skill or concept. The reduced group size increases per-learner interaction time, allows scaffolds to be calibrated to observed performance, and creates space for immediate, individualized feedback that whole-class formats cannot sustain.
 

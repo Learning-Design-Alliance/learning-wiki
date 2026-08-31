@@ -10,6 +10,8 @@ generated:
 
 # Mix It Up
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Mix It Up is a structured social-mixing strategy in which learners are deliberately grouped or seated with peers outside their usual social circles and given low-stakes, prompted activities to interact. The facilitator supplies conversation prompts, icebreaker questions, or shared tasks so that cross-group contact is easy to initiate, reducing the social risk that keeps cliques and identity groups separate.
 

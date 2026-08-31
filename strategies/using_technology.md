@@ -10,6 +10,8 @@ generated:
 
 # Using Technology
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Using technology as a strategy means deliberately selecting and integrating digital tools — multimedia, simulations, learning platforms, collaboration tools, adaptive systems — to serve specific instructional purposes. The strategy treats technology as a delivery and interaction medium whose effectiveness depends entirely on the pedagogy it carries, not on the presence of the technology itself.
 

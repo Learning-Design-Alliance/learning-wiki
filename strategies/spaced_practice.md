@@ -10,6 +10,8 @@ generated:
 
 # Spaced Practice
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Spaced practice distributes study sessions and reviews across time rather than concentrating them in a single block. Its benefit comes partly from the retrieval effort each spaced encounter requires: after a delay, memory is partially faded, and successful recall under those conditions strengthens the trace more than an easy, immediate repetition would. Instructors implement spacing by breaking content into shorter sessions across days or weeks, opening sessions with low-stakes recall of prior material, and scheduling cumulative review. Digital platforms can automate the schedule — sending reminders, resurfacing lapsed items, and gating re-engagement until the intended interval has elapsed.
 

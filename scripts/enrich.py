@@ -355,6 +355,8 @@ generated:
 
 # [Principle Name]
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 [What this principle is and what it recommends — 2-4 sentences.]
 
@@ -409,6 +411,8 @@ generated:
 
 # [Element Name]
 
+> **Element** · [All elements](index.md)
+
 ## Description
 [What this instructional element is; how it functions — 2-3 sentences.]
 
@@ -460,6 +464,8 @@ grain_size: {grain_size}
 ---
 
 # [Pattern Name]
+
+> **Pattern** · [All patterns](index.md)
 
 ## Description
 [What this pattern is; how it works; what problem it solves — 3-4 sentences.]
@@ -534,6 +540,8 @@ generated:
 
 # [Strategy Name]
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 [What this strategy is and how it is carried out — 2-3 sentences.]
 
@@ -585,6 +593,8 @@ generated:
 
 # [Theory Name]
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 [What this theory proposes; its core mechanism or claim — 2-4 sentences.]
 
@@ -627,6 +637,8 @@ evidence_strength: {evidence_strength}
 ---
 
 # [Claim statement — one sentence, present tense]
+
+> **Claim** · [All claims](index.md)
 
 [Optional 1-2 sentence clarification of scope or mechanism — using ONLY what the draft stub already states.]
 
@@ -674,6 +686,8 @@ generated:
 ---
 
 # [Variable Name]
+
+> **Learner Variable** · [All learner variables](index.md)
 
 ## Description
 [What this learner variable is; how it's typically measured or operationalized — 2-3 sentences.]

@@ -10,6 +10,8 @@ generated:
 
 # Stations: Interacting with Multiple Texts
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Small groups rotate through a sequence of stations, each presenting a different resource — informational text, poetry, art, photography, maps, video, or audio — related to a single event, theme, or anchor question. At each station, learners engage the material and complete a short task before rotating. A whole-group debrief follows, where learners synthesize across stations. The strategy works well to launch a new unit or to deepen study of an already-introduced topic.
 

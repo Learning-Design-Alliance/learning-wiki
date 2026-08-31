@@ -10,6 +10,8 @@ generated:
 
 # Reading Documentation and Reflection
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Students systematically record details about their independent reading — titles, pages read, new vocabulary, brief responses — and periodically reflect on the record. Documentation creates an external trace of reading behavior; reflection converts that trace into self-knowledge about habits, preferences, and comprehension. The practice should remain lightweight so that recording does not displace reading itself.
 

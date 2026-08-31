@@ -10,6 +10,8 @@ generated:
 
 # Foster Self-Awareness
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Self-awareness is the ability to correctly identify one's own emotions, thoughts, and values and understand how they influence behavior. Fostering it involves structured activities — identifying feelings, journal reflections, estimation and prediction tasks, and guided analysis — that turn private internal states into objects learners can observe, name, and act on. It is a core CASEL social-emotional competency and a precondition for [Self-Regulated Learning](../theories/self-regulated-learning.md), since learners cannot monitor or control processes they cannot perceive.
 

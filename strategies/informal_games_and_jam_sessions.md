@@ -10,6 +10,8 @@ generated:
 
 # Informal Games and Jam Sessions
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Informal games and jam sessions are low-stakes, non-competitive activities — pickup games, improvisation sessions, open music jams, hack nights — in which learners engage with a domain for its own sake rather than for assessment or ranking. The format removes evaluative pressure, positioning the activity as play while still exercising domain skills. A facilitator provides space, materials, and light structure, but participation and direction are largely learner-driven.
 

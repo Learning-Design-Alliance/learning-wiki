@@ -10,6 +10,8 @@ generated:
 
 # Action Planning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Action planning is the process by which learners translate self-reflective insight into concrete, explicit plans for future behavior — specifying what they will do, when, where, and how. It typically follows a cycle of [self-assessment](../elements/assessment.md) or reflection and produces a written or verbal commitment ("Next time I write an essay, I will outline my argument before drafting"). In the self-regulated learning literature, action planning sits at the intersection of the forethought and self-reflection phases: it converts evaluative conclusions into proximal intentions and implementation intentions [Gollwitzer's implementation-intention framework](https://doi.org/10.1037/0003-066X.54.7.493) [+S].
 

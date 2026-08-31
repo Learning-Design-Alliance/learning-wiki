@@ -10,6 +10,8 @@ generated:
 
 # Mission-Based Learning
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Mission-based learning places learners inside a structured, goal-oriented challenge — a "mission" with a defined objective, operating constraints, and observable success criteria. Unlike open-ended projects, missions are bounded: learners know what must be accomplished, under what conditions, and how completion will be judged, and they must plan and execute actions to reach the goal.
 

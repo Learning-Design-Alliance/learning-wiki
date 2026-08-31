@@ -10,6 +10,8 @@ generated:
 
 # Journal Reflections
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Journal reflections ask learners to regularly write about their experiences, learning processes, and outcomes, connecting what happened to what it means and what to do next. The writing is typically structured by prompts that push beyond summary toward analysis — examining assumptions, monitoring progress, and planning adjustments. Journals can be private, instructor-read, or shared with peers, and may be paper-based or embedded in course platforms.
 

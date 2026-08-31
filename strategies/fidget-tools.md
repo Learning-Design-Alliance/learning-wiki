@@ -10,6 +10,8 @@ generated:
 
 # Fidget Tools
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Fidget tools are small, quiet, hand-held or foot-operated objects that learners manipulate while listening, reading, or working. The rationale is that some learners — particularly those with ADHD or high trait fidgeting — experience improved attention when excess motor energy is discharged through a low-cognitive-demand outlet, keeping the primary task from competing with the need to move.
 

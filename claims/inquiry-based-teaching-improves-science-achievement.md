@@ -11,6 +11,8 @@ evidence_strength: moderate
 
 # Inquiry Based Teaching Improves Science Achievement
 
+> **Claim** · [All claims](index.md)
+
 Teaching science through guided inquiry — where students investigate questions, generate hypotheses, and evaluate evidence — raises science achievement relative to traditional transmission-style instruction, with the strongest effects when inquiry is scaffolded and teacher-guided [+M]. The claim applies to *guided* inquiry; unguided discovery is treated as a boundary condition, not part of the claim.
 
 ## Subclaims

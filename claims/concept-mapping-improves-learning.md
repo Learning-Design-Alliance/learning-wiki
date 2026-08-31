@@ -11,6 +11,8 @@ evidence_strength:
 
 # Concept mapping improves learning
 
+> **Claim** · [All claims](index.md)
+
 Learners who construct node-and-link diagrams of relationships among concepts show better understanding and retention than learners using comparable non-mapping study activities. The claim's scope is *construction* of maps by learners; studying a supplied map is treated as a distinct, weaker activity (see Discussion).
 
 ## Subclaims

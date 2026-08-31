@@ -10,6 +10,8 @@ generated:
 
 # Sentence Expansion
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Sentence expansion gives learners a short, often kernel sentence (e.g., "The boy ran.") and asks them to elaborate it by answering question prompts — who, what, when, where, why, how — or by embedding appositives, subordinating conjunctions, and adverbial phrases. It is carried out as a brief, frequent activity, often at the start of a lesson, and is a core activity in [The Writing Revolution](https://www.thewritingrevolution.org) method (Hochman & Wexler, 2017). Because the content is supplied, learners can devote full attention to syntax rather than invention.
 

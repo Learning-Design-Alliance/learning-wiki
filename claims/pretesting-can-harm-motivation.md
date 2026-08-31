@@ -11,6 +11,8 @@ evidence_strength: weak
 
 # Pretesting Can Harm Motivation
 
+> **Claim** · [All claims](index.md)
+
 Pretesting — attempting to answer questions about not-yet-learned material before instruction — can reduce learners' motivation and engagement when failure on the pretest is experienced as discouraging rather than as a productive challenge. [-W]
 
 ## Subclaims

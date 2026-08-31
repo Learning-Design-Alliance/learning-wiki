@@ -10,6 +10,8 @@ generated:
 
 # Peer Discussion
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Peer discussion places learners in dialogue with one another — explaining their reasoning, answering each other's questions, and resolving disagreements — rather than interacting only with an instructor. It ranges from brief structured exchanges (think-pair-share, peer instruction votes) to extended formats such as [Class Discussion](../elements/class-discussion.md), seminars, and [Argumentation](../elements/argumentation.md) tasks. The instructor's role shifts from delivering content to designing prompts, monitoring talk, and orchestrating the synthesis that follows.
 

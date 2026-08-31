@@ -11,6 +11,8 @@ evidence_strength:
 
 # Spatial Contiguity Improves Learning
 
+> **Claim** · [All claims](index.md)
+
 Placing explanatory text or labels physically close to the corresponding part of a graphic — rather than separated from it — improves learning from multimedia materials.
 
 ## Subclaims

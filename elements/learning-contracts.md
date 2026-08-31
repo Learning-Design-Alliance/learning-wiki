@@ -10,6 +10,8 @@ generated:
 
 # Learning Contracts
 
+> **Element** · [All elements](index.md)
+
 ## Description
 A learning contract is a written agreement — negotiated between learner and instructor — that specifies what the learner will accomplish, how they will do it, by when, and how the outcome will be verified. It converts a course's external structure into a learner-authored plan, making goals, effort, and evaluation criteria explicit and mutually binding.
 

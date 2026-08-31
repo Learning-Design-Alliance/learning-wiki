@@ -10,6 +10,8 @@ generated:
 
 # Tiered Seating Areas
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Tiered seating areas are stepped or elevated seating arrangements — built-in risers, carpeted platforms, or staggered furniture — that allow a group to convene with clear sightlines to a speaker or demonstration. They are especially useful in classrooms that rely on regular small-group instruction, [Class Discussion](../elements/class-discussion.md), or student presentations, because the speaker can maintain eye contact and a steady conversational volume rather than projecting across a flat room. For younger learners, a "cozy" carpeted tier functions similarly while adding a sense of enclosure and comfort.
 

@@ -11,6 +11,8 @@ evidence_strength: moderate
 
 # Multimedia Principle Improves Learning
 
+> **Claim** · [All claims](index.md)
+
 Presenting words and corresponding pictures together produces better learning than words alone, because learners can use both verbal and visual channels to build integrated mental representations.
 
 ## Subclaims

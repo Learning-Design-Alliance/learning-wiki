@@ -10,6 +10,8 @@ generated:
 
 # Strategies to Remember Name Pronunciation
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy has the instructor deliberately learn each learner's name and its correct pronunciation using memory techniques: associating the name with a familiar word or image, writing syllables in English phonetics, rhyming, rehearsing aloud, and consulting pronunciation resources (e.g., NameShouts, HearNames) for names from unfamiliar language backgrounds. Correct pronunciation is then used consistently in discussion, feedback, and check-ins.
 

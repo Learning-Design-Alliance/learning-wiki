@@ -10,6 +10,8 @@ generated:
 
 # Community Building Circles
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Community building circles are a structured dialogue format — adapted from restorative practices and Indigenous talking-circle traditions — in which participants sit in a circle and take turns responding to an open prompt, often passing a talking piece that signals whose turn it is to speak. Circles are used at the start of a course or day (check-ins), before difficult content, or after conflict, with the explicit goal of building relational trust and a sense of belonging rather than covering academic content.
 

@@ -10,6 +10,8 @@ generated:
 
 # Separating Effort From Achievement
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Separating effort from achievement means giving learners two distinct channels of recognition: one for the quality of their work against standards (achievement) and one for their persistence, strategy use, and improvement over time (effort). In practice this means effort-based praise and feedback are delivered separately from grades or performance judgments, so learners never interpret effort as a substitute for mastery — or failure as evidence that effort is worthless.
 

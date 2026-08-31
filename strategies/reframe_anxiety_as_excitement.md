@@ -10,6 +10,8 @@ generated:
 
 # Reframe Anxiety as Excitement
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy asks learners to reinterpret the physiological arousal of anxiety — elevated heart rate, heightened alertness, cortisol surge — as excitement rather than threat. Because anxiety and excitement share nearly identical bodily signatures, the reappraisal requires no down-regulation of arousal; it only changes the *label* attached to it. Excitement orients learners toward an opportunity mindset ("I get to show what I can do"), whereas anxiety orients them toward a threat mindset ("something bad will happen"). The canonical implementation is a minimal prompt — "Try to get excited" — delivered verbally or on screen immediately before a demanding task.
 

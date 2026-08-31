@@ -19,6 +19,8 @@ sources:
 
 # Discussing Race
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Discussing race is the instructional principle of addressing racial identity, racism, and racialized experience directly rather than treating them as peripheral or unspeakable. In educational settings, these discussions can support critical literacy, social awareness, historical understanding, and more honest collaborative norms, but only when they are carefully facilitated. The goal is not to force disclosure or consensus. It is to make race discussable with enough structure, safety, and accountability that learners can engage seriously without being reduced to representatives of a group.
 

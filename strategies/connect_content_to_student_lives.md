@@ -10,6 +10,8 @@ generated:
 
 # Connect Content To Student Lives
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy deliberately anchors new academic content in students' existing experiences, cultural knowledge, communities, and personal goals. It is carried out through relevance framing (explaining why content matters for *this* learner), task design (problems and texts drawn from familiar contexts), and eliciting student-generated connections during instruction. It goes beyond superficial "fun" hooks: the connection must carry part of the instructional meaning, not just decorate it.
 

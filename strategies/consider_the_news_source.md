@@ -10,6 +10,8 @@ generated:
 
 # Consider the News Source
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners interrogate the *source* of a news report rather than only its content: Who publishes it? Does it employ editors who check work before publication? Does it link to underlying evidence and name where facts come from? Traditional news brands sometimes err — sometimes badly — but their identity, standards, and accountability structures are visible. Less prominent sites may carry compelling stories, but the burden is on them to show who they are, where their information came from, and that they have argued honestly. "Trust me" is never an acceptable answer; the strategy teaches learners to expect demonstrated sourcing and editorial accountability as the price of credibility.
 

@@ -10,6 +10,8 @@ generated:
 
 # Reinforce Positive Behaviors
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Reinforcing positive behaviors means deliberately noticing and responding to desired learner actions — effort, cooperation, self-regulation, correct responses — with contingent praise, acknowledgment, or rewards, rather than attending only to misbehavior. Grounded in operant conditioning [Behaviorism](../theories/behaviorism.md), the strategy increases the future frequency of reinforced behaviors when the reinforcer reliably and immediately follows the behavior and is explicitly tied to it.
 

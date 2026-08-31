@@ -10,6 +10,8 @@ generated:
 
 # Mindfulness Techniques for Self-Regulation
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy embeds short, structured mindfulness practices — focused breathing, body scans, brief meditative pauses before demanding tasks — into instruction to help students notice their emotional and attentional states and regulate initial impulses. The mechanism is improved metacognitive awareness: students learn to observe reactivity as it arises rather than being carried by it, creating a pause in which a deliberate regulatory response becomes possible.
 

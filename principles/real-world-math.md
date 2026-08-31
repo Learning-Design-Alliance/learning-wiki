@@ -19,6 +19,8 @@ sources:
 
 # Real-world Math
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Real-world math connects mathematical ideas to situations learners recognize as meaningful in work, home, community, finance, health, civic life, or further study. The point is not merely to decorate abstract content with a story problem; it is to show how mathematical reasoning helps make sense of actual decisions, quantities, tradeoffs, and patterns. For adult learners especially, relevance can improve persistence and reduce the sense that math is disconnected from everyday competence.
 

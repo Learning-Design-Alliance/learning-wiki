@@ -10,6 +10,8 @@ generated:
 
 # Exit Tickets
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 An exit ticket is a brief written prompt — typically one to three questions — that learners complete in the final minutes of a lesson. Responses serve two functions simultaneously: they prompt learners to retrieve and consolidate what was just taught, and they generate rapid formative data the instructor uses to adjust the next lesson. Formats range from a single conceptual question ("Explain the difference between weathering and erosion in your own words") to confidence self-ratings to "muddiest point" prompts.
 

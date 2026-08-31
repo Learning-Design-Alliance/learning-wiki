@@ -10,6 +10,8 @@ generated:
 
 # Peer Critique
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Peer critique is a structured feedback arrangement in which learners review one another's drafts, solutions, or performances against explicit criteria and deliver actionable suggestions for revision. It is carried out through protocols (e.g., gallery walks, "warm/cool" feedback, rubric-guided review) that specify what reviewers look for, how comments are phrased, and how authors respond.
 

@@ -10,6 +10,8 @@ generated:
 
 # Pattern Recognition in Learning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Pattern recognition is the cognitive process by which learners identify recurring structures, relationships, or sequences and use them to organize, interpret, and remember new information. As a strategy, it means designing learning activities around *detecting* regularities — comparing cases, sorting examples, and abstracting underlying principles — rather than presenting the pattern as a finished rule to memorize. Expertise research shows that what distinguishes experts from novices is largely the depth and quality of the patterns they perceive: chess masters encode board positions as meaningful chunks, and expert physicists classify problems by deep structure rather than surface features [Chase & Simon, 1973; Chi et al., 1981].
 

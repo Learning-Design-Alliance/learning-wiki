@@ -23,6 +23,8 @@ sources:
 
 # Positive Self-talk
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Positive self-talk is the deliberate use of supportive, instructional, or regulating internal language to influence how a learner interprets difficulty, effort, and performance. In learning settings, its value lies less in generic optimism than in how learners talk themselves through challenge: naming what to do next, reducing catastrophic interpretation, and maintaining effort when a task is uncomfortable. Positive self-talk can support regulation and persistence, but it works best when it is specific, credible, and tied to action.
 

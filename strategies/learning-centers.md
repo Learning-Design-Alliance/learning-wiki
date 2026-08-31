@@ -10,6 +10,8 @@ generated:
 
 # Learning Centers
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learning centers (also called stations) are physically or digitally distinct areas of the classroom, each designed around a focused activity — practice, exploration, collaboration, or teacher-led instruction. Students rotate through centers in small groups, working independently or with peers while the teacher typically runs one center for targeted small-group instruction. The structure converts a single large group into several parallel, self-managed activity sites.
 

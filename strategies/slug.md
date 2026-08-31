@@ -10,6 +10,8 @@ generated:
 
 # Slug
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A slug is a brief, distinctive label — typically two to five words — that learners generate or are given to name an idea, example, case, or step. Borrowed from journalism, where a slug names a story before it is written, the strategy asks learners to compress meaning into a cue that can later trigger recall of the fuller content. Slugs function as retrieval handles: a labeled case ("the drowning-beach example") is easier to reinstate in memory than an unlabeled one.
 

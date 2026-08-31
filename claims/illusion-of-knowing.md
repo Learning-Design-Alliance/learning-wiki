@@ -11,6 +11,8 @@ evidence_strength: pending
 
 # Learners mistake fluency and familiarity for actual knowledge, producing an illusion of knowing
 
+> **Claim** · [All claims](index.md)
+
 The illusion of knowing is a metacognitive error in which subjective ease of processing — smooth reading, recognition of material, or familiarity with a term — is misinterpreted as evidence of durable, retrievable understanding. It is the mechanism behind common study behaviors that feel effective but fail under test conditions [~M].
 
 ## Subclaims

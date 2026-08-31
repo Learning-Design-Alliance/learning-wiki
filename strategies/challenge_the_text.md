@@ -10,6 +10,8 @@ generated:
 
 # Challenge the Text
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Challenge the Text is a critical literacy strategy in which students interrogate a text by generating and answering their own text-dependent questions — questioning what is said, what is omitted, whose voice is privileged, and whose is silenced. Students take multiple perspectives, uncover assumptions and biases, and support their analysis with textual evidence. The strategy can operate during or after reading and places an anti-bias lens on the literacy experience by surfacing issues of power within social contexts, positioning students as participants in — rather than recipients of — textual discourse.
 

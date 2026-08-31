@@ -10,6 +10,8 @@ generated:
 
 # Analyze Self-Talk Messages
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners record their internal dialogue across situations, then examine it for recurring patterns, triggers, and themes — distinguishing, for example, task-focused statements ("I need to check my work") from self-defeating ones ("I always mess this up"). For example, at 10:00 each day, right before science, Juanita notices she begins to feel lousy: she dreads returning from PE because science lab is next, and her inner voice says, "Hopefully my partner Berta understands this stuff, because I guess I can just copy from her." Identifying these patterns is the first step toward replacing negative self-talk with constructive alternatives.
 

@@ -19,6 +19,8 @@ sources:
 
 # Memory Consolidation
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Memory consolidation is the principle of designing instruction so that learning is stabilized across time rather than treated as secure after one exposure. It matters when durable retention depends on revisiting, retrieving, and integrating material across multiple encounters.
 

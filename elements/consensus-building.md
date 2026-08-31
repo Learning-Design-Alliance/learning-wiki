@@ -10,6 +10,8 @@ generated:
 
 # Consensus Building
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Consensus building is a structured collaborative activity in which learners with differing positions or interpretations must negotiate toward a shared conclusion that all members can accept and articulate. Unlike debate, the goal is not victory but synthesis: participants must integrate opposing arguments into a joint position, which forces them to evaluate evidence, acknowledge partial merit in rival views, and construct a defensible rationale together.
 

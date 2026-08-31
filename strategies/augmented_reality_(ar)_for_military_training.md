@@ -10,6 +10,8 @@ generated:
 
 # Augmented Reality (AR) for Military Training
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 AR overlays virtual objects — enemy combatants, vehicles, hazards, equipment callouts — onto the physical world as seen through head-mounted displays, tablets, or projected systems. This lets trainees rehearse tactical, maintenance, and decision-making tasks in real terrain and on real equipment without the cost, travel, range time, and risk of fully live exercises. Unlike [Virtual Reality](../strategies/virtual-reality-simulations.md), AR preserves the physical cues of the actual environment, supporting [situated learning](../theories/situated-learning.md) [~M].
 

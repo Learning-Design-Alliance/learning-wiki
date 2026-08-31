@@ -10,6 +10,8 @@ generated:
 
 # Designated Calm-Down Spot
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A designated calm-down spot is a safe, structured space within the classroom where students go to regain emotional control before rejoining learning activities. The spot is equipped with self-regulation supports — stress balls, Theraputty, breathing-technique visual aids — and, critically, its use is explicitly taught and modeled rather than left to chance.
 

@@ -10,6 +10,8 @@ generated:
 
 # Publicize Volunteer Opportunities and Student Involvement
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Schools outline specific ways for parents to help in the classroom and at school, from inviting parents to watch group presentations to asking them to chaperone field trips. A direct call for volunteers is less daunting than a general statement about the importance of parental involvement. Showcasing student work, such as artwork on display or pep assemblies, also guides parents to students' successful efforts.
 

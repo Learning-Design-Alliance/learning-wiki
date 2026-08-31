@@ -10,6 +10,8 @@ generated:
 
 # Explicit or Direct Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Explicit (direct) instruction is a teacher-led, highly structured approach in which goals, expectations, and content are stated clearly, new material is presented in small steps with [Practice](../elements/practice.md) after each step, and skills are modeled before learners attempt them. It follows a predictable sequence — activate prior knowledge, model, guided practice with feedback, independent practice — and deliberately reduces ambiguity about what is to be learned and how success is judged.
 

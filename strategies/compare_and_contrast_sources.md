@@ -10,6 +10,8 @@ generated:
 
 # Compare and Contrast Sources
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Present learners with multiple sources on the same topic and have them compare and contrast the information presented, including information conveyed through photographs and other images as well as text. Guiding questions structure the comparison: When was each source created or updated? What is similar or different about the images on each page? What is the main idea or reason behind each page? What seems to be the author's purpose on each page?
 

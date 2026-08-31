@@ -10,6 +10,8 @@ generated:
 
 # Positive Reinforcement Systems
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A positive reinforcement system identifies target behaviors or learning actions and delivers a valued consequence — praise, points, privileges, tokens, or feedback — immediately and contingently after the behavior occurs. Rooted in operant conditioning, the strategy shifts the design burden from punishing undesired behavior to making desired behavior reliably pay off. In classrooms it ranges from teacher praise routines to formal token economies and digital reward systems.
 

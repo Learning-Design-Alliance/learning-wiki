@@ -10,6 +10,8 @@ generated:
 
 # Collaborative Decision-Making
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Collaborative decision-making is the element in which learners evaluate options together and negotiate a shared choice or recommendation. It is useful when the instructional goal includes reasoning, tradeoff analysis, and group judgment.
 

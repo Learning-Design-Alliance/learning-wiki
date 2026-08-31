@@ -10,6 +10,8 @@ generated:
 
 # Analyzing Self-Talk
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Analyzing self-talk is a metacognitive strategy in which learners systematically capture their inner dialogue — often through journaling, thought logs, or prompted reflection — and then examine it for recurring patterns, triggers, and underlying beliefs. The goal is not immediate reframing but accurate self-observation: noticing *what* one says to oneself, *when*, and *in response to what*, so that automatic thoughts become inspectable objects of reflection. It draws on the metacognitive tradition of monitoring one's own cognition [Flavell, 1979] and on self-regulated learning models in which self-monitoring is the first phase of self-control [Zimmerman, 2002].
 

@@ -10,6 +10,8 @@ generated:
 
 # Uncluttered Environment
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 An uncluttered environment is a physical learning space — classroom, workspace, or home study area — deliberately stripped of visual distractions: supplies stored out of sight, surfaces cleared, and wall displays limited to a small number of currently relevant items. The rationale is attentional: every visible object competes for limited visual attention and working memory resources, so reducing irrelevant stimuli preserves capacity for the learning task itself.
 

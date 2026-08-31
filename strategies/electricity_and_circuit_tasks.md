@@ -10,6 +10,8 @@ generated:
 
 # Electricity and Circuit Tasks
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Electricity and circuit tasks are hands-on physical science activities in which learners investigate how electricity flows by building, testing, and troubleshooting simple circuits. Learners use tools such as electric testers, batteries, bulbs, wires, and puzzle boards to identify complete circuits, predict where current will flow, and test their predictions against observable outcomes. The strategy pairs physical manipulation with prediction-and-explanation cycles, so that manipulation of materials is deliberately connected to conceptual reasoning about current, closed loops, and conductivity.
 

@@ -10,6 +10,8 @@ generated:
 
 # Morphological Awareness Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Morphological awareness instruction teaches learners to recognize and manipulate morphemes — the smallest meaningful units of language, such as roots (*port*), prefixes (*re-*, *un-*), and suffixes (*-tion*, *-ly*) — and to use that knowledge when reading, spelling, and figuring out unfamiliar words. Instruction typically involves word-structure analysis (breaking *unhappiness* into *un* + *happy* + *ness*), morphological problem-solving (inferring the meaning of *predictable* from *predict*), and structured word study routines such as word sorts and word matrices. It treats English orthography as a meaningful system rather than a set of arbitrary letter-sound mappings.
 

@@ -10,6 +10,8 @@ generated:
 
 # Pacing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Pacing is the deliberate control of how quickly new information is delivered — how long each segment lasts, when pauses occur, and whether the learner or the instructor controls the rate. It is carried out by segmenting content into manageable units, inserting pauses for processing, and adjusting speed to learner signals or learner control.
 

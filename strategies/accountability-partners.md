@@ -10,6 +10,8 @@ generated:
 
 # Accountability Partners
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Accountability partners are peers who agree to hold each other responsible for pursuing a learning goal. The mechanism is regular, structured check-ins — each partner reports what they committed to, what they actually did, and what they will do next. The strategy converts private intentions into socially witnessed commitments, leveraging commitment consistency and social monitoring to support persistence.
 

@@ -10,6 +10,8 @@ generated:
 
 # Enriched Learning Environment
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 An enriched learning environment is a physical (and by extension digital) space deliberately designed to support attention, well-being, and learner agency. Design levers include layout and traffic flow, flexible furniture, muted color schemes, natural light, plants and views of nature, curated environmental print, and clutter-free organization of materials. The goal is not decoration but the reduction of extraneous stimulation and the creation of conditions in which learners can regulate their own attention and activity.
 

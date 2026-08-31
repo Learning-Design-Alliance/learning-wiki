@@ -10,6 +10,8 @@ generated:
 
 # Calm-Down Corner
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A calm-down corner is a designated, non-punitive classroom space stocked with regulation tools — emotion identification charts, breathing visual guides, sensory items, and social-emotional books — where learners go to de-escalate and practice self-regulation strategies. It functions as a structured practice environment for emotion regulation rather than a time-out or disciplinary removal: the goal is skill-building, not isolation.
 

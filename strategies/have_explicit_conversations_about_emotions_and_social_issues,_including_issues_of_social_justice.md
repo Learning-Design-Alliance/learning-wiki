@@ -10,6 +10,8 @@ generated:
 
 # [Strategy Name]
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 [2-3 sentences]
 

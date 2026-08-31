@@ -10,6 +10,8 @@ generated:
 
 # If It Happened To You...
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 "If It Happened To You..." is a discussion strategy in which learners encounter an anonymized dilemma or event drawn from a novel (typically young adult fiction), stripped of character names and book context, and respond as though the situation were their own. After committing to a personal response, learners compare their choices with those of the original character, analyzing why the character acted differently and what that reveals about perspective, circumstance, and values. The strategy converts reading comprehension into personal decision-making and perspective comparison.
 

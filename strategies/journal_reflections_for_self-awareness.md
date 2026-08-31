@@ -10,6 +10,8 @@ generated:
 
 # Journal Reflections for Self-Awareness
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Journal reflections ask students to periodically write about what they experienced, how they performed, what strategies helped or hindered them, and what they will do next. The writing is structured around noticing patterns in one's own learning and behavior, and often includes goal-setting and progress monitoring. Over time the journal becomes a personal record that supports self-assessment and adjustment.
 

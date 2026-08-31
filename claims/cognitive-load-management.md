@@ -11,6 +11,8 @@ evidence_strength:
 
 # Cognitive Load Management
 
+> **Claim** · [All claims](index.md)
+
 Managing intrinsic, extraneous, and germane cognitive load — by controlling element interactivity, removing unnecessary processing demands, and scaffolding complex content — protects limited working-memory capacity and improves learning outcomes.
 
 ## Subclaims

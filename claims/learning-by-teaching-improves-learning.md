@@ -11,6 +11,8 @@ evidence_strength:
 
 # Learning By Teaching Improves Learning
 
+> **Claim** · [All claims](index.md)
+
 Learners who prepare to teach — or actually teach — material to others often achieve deeper understanding and better retention than learners who study only for themselves.
 
 ## Subclaims

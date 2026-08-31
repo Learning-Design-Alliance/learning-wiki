@@ -23,6 +23,8 @@ sources:
 
 # Virtual Flipped Classroom
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A virtual flipped classroom moves all first-exposure instruction — videos, readings, worked examples — into asynchronous online modules, and reserves synchronous online sessions for application: problem-solving, discussion, feedback, and individualized tutoring. Unlike the blended [Flipped Classroom](../patterns/flipped-classroom.md), there is no physical classroom; the "group space" is a video conference or collaborative online environment, and the instructor's synchronous role shifts from presenter to coach.
 

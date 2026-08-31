@@ -11,6 +11,8 @@ evidence_strength: moderate
 
 # Expertise Reversal Guidance Hurts Experts
 
+> **Claim** · [All claims](index.md)
+
 Instructional guidance that benefits novices — worked examples, prompts, explanations — can become redundant or actively counterproductive for more advanced learners, who must reconcile it with knowledge they already possess. [-M]
 
 ## Subclaims

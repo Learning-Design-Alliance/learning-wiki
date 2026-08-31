@@ -10,6 +10,8 @@ generated:
 
 # Reflection with Others
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Reflection with Others is a professional learning strategy in which teachers examine their own teaching through structured collaboration with colleagues — inviting peers to observe lessons and give non-evaluative feedback, discussing what is and isn't working, and jointly analyzing specific strategies and techniques. Unlike solitary reflection, it externalizes the reflective process: a colleague notices what the teacher cannot see from inside the lesson, and dialogue converts private impressions into shared, actionable analysis. It is most commonly organized around a subject area (e.g., colleagues who teach similar math content) so that feedback is specific rather than generic.
 

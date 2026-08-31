@@ -10,6 +10,8 @@ generated:
 
 # Distributed Practice (Spacing Effect)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Distributed practice (spacing) schedules encounters with the same material or skill across multiple sessions separated by time, rather than massing them into one block. Each spaced encounter requires the learner to reconstruct a partially forgotten memory trace, and this effortful retrieval strengthens the trace more than an immediate repetition would. It contrasts with massed practice (cramming), which produces strong short-term performance but rapid forgetting.
 

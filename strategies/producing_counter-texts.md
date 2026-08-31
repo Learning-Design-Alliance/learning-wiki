@@ -10,6 +10,8 @@ generated:
 
 # Producing Counter-texts
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Producing counter-texts asks learners to craft alternative versions of existing texts — rewritten fairy tales, historical accounts from marginalized perspectives, responses to biased media — to surface missing perspectives and challenge stereotypes. The work requires learners to first analyze the original for its framing, omissions, and power structures, then compose a text that speaks from a different position. It is a production task, not just a critique: learners must take on an authorial voice and make deliberate rhetorical choices.
 

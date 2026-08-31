@@ -11,6 +11,8 @@ evidence_strength:
 
 # Considering The Opposite Reduces Bias
 
+> **Claim** · [All claims](index.md)
+
 Deliberately reasoning about hypotheses and evidence that contradict one's initial belief reduces confirmation bias in judgment and evaluation. The strategy operates at the moment of judgment: learners are prompted to ask how the evidence might support the rival view rather than whether it supports their own.
 
 ## Subclaims

@@ -10,6 +10,8 @@ generated:
 
 # Foster Self-Advocacy and Self-Determination
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy develops learners' capacity to understand their needs and rights, communicate them effectively, set and monitor goals, solve problems, and make decisions about their own learning. It is carried out through explicit instruction in self-advocacy skills, structured opportunities to practice them in authentic settings (e.g., leading IEP meetings, negotiating accommodations), and gradual transfer of decision-making responsibility from teacher to student. Self-determination theory provides the motivational grounding: autonomy, competence, and relatedness are basic needs whose support predicts intrinsic motivation and engagement [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S].
 

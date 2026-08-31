@@ -10,6 +10,8 @@ generated:
 
 # Use Multiple Representations
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Presenting a concept in multiple representations means offering the same underlying idea in complementary formats — text alongside diagrams, equations alongside graphs, symbols alongside concrete manipulatives — rather than in a single format. The strategy rests on the assumption that each representation makes visible different aspects of a concept, and that learning to translate between them is itself part of the target understanding [Ainsworth's DeFT framework](https://doi.org/10.1016/j.compedu.2005.11.004) [+M].
 

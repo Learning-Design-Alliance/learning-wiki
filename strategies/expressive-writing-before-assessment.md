@@ -10,6 +10,8 @@ generated:
 
 # Expressive Writing Before Assessment
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Expressive writing before assessment asks students to spend roughly 10 minutes immediately before an exam or high-stakes task writing openly about their worries, fears, and anxious thoughts about the upcoming performance. The act of externalizing worry is thought to "offload" intrusive ruminations that would otherwise consume working memory during the assessment, freeing cognitive resources for the task itself. It is typically unstructured and private — students are told their writing will not be graded or read.
 

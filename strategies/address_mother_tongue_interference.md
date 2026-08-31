@@ -10,6 +10,8 @@ generated:
 
 # Address Mother Tongue Interference
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Mother tongue interference (negative L1 transfer) occurs when features of a learner's first language — phonology, syntax, vocabulary, or pragmatics — are carried into the target language in ways that produce errors or impede comprehension. This strategy treats interference as predictable and teachable: the instructor identifies the specific L1–L2 contrasts that affect their learner population, surfaces them explicitly, and provides targeted practice and feedback rather than treating errors as random. Modern SLA frames this as *cross-linguistic influence*, recognizing that the L1 can also support learning through positive transfer [Odlin, 1989].
 

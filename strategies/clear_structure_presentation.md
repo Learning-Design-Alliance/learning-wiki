@@ -10,6 +10,8 @@ generated:
 
 # Clear Structure Presentation
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Clear structure presentation organizes content into an explicit, visible hierarchy before and during instruction: outlines, section headings, advance organizers, signposting language, and typographic signaling cues. The learner is never left to infer how ideas relate; the organization is made perceptible so that working memory is spent on comprehension rather than on reconstructing the author's logic.
 

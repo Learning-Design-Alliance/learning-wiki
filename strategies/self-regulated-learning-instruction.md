@@ -10,6 +10,8 @@ generated:
 
 # Self Regulated Learning Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Self Regulated Learning (SRL) instruction explicitly teaches learners the strategies and self-management processes — goal setting, strategy selection, self-monitoring, self-evaluation, and adaptive adjustment — that effective learners use spontaneously. Rather than assuming students arrive with these skills, the instructor models, scaffolds, and gradually transfers control of the learning process to the student. SRL instruction is typically organized around cyclical phases (forethought, performance, self-reflection) drawn from [Self-Regulated Learning](../theories/self-regulated-learning.md) theory.
 

@@ -10,6 +10,8 @@ generated:
 
 # Noise Monitoring Tools
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Noise monitoring tools are devices or apps (e.g., a decibel meter projected on a classroom display) that measure ambient sound and provide real-time feedback — a color change, an animated gauge, an audible alert — when noise levels exceed a teacher-set threshold. They convert an invisible environmental condition into a visible, self-monitored signal, shifting some responsibility for acoustic regulation from teacher prompting to student self-monitoring.
 

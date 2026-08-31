@@ -10,6 +10,8 @@ generated:
 
 # Quick Images
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Quick Images is a routine in which the teacher briefly displays a visual — most commonly a dot arrangement, ten-frame, or rekenrek — for two to three seconds, then hides it and asks learners to reproduce or describe what they saw. Learners then share *how* they saw the quantity ("I saw a 4 and a 3, which makes 7"), making their decomposition strategies visible to the group. The brevity is deliberate: it forces learners to structure the image rather than count one-by-one, pressing them toward subitizing and part-whole reasoning.
 

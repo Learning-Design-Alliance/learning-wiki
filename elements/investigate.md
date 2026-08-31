@@ -10,6 +10,8 @@ generated:
 
 # Investigate
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Investigate is the element in which learners collect information, examine evidence, or test ideas to answer a question.
 

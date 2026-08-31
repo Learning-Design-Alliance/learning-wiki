@@ -10,6 +10,8 @@ generated:
 
 # Self-Awareness - Identify Feelings
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy has learners identify, label, or match facial expressions and feelings, categorize feeling words by emotion type, and analyze characters' feelings in literature. Self-awareness — the ability to correctly recognize one's own emotions, thoughts, and values and how they influence behavior — is treated as a prerequisite skill for [Self-Regulated Learning](../theories/self-regulated-learning.md) and for managing interpersonal interactions. The core mechanism is *affect labeling*: putting feelings into words, which research shows reduces amygdala reactivity and improves emotional regulation [Lieberman et al., 2007] [+M].
 

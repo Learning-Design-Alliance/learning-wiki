@@ -11,6 +11,8 @@ evidence_strength: pending
 
 # Elaborative Encoding Improves Retention
 
+> **Claim** · [All claims](index.md)
+
 Elaborative encoding — connecting new material to prior knowledge through self-explanation, examples, analogies, and "why" and "how" questions — produces more durable memory traces than rote rehearsal.
 
 ## Subclaims

@@ -10,6 +10,8 @@ generated:
 
 # Emotional Thermometer
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 An emotional thermometer is a visual tool used to help learners — most commonly young children — recognize and gauge the intensity of their emotions. The thermometer typically ranges from "calm" (green) at the bottom to "very angry" or "out of control" (red) at the top, allowing children to locate their current emotional state and implement coping strategies early, before escalation. It builds emotion differentiation (granularity) and provides a shared vocabulary for discussing internal states with teachers and caregivers.
 

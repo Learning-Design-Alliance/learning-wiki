@@ -10,6 +10,8 @@ generated:
 
 # Structuring Group Work
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Structuring group work means designing collaborative tasks so that interaction is productive: each member has a defined role or contribution, individual accountability is built into the task, and the dialogue patterns that drive learning are prompted explicitly. Unstructured "get into groups and discuss" reliably produces unequal participation and social loafing; structure — roles, protocols, interdependent tasks, and assessment of individual learning — is what converts grouping into [Collaborative Learning](../principles/collaborative-learning.md).
 

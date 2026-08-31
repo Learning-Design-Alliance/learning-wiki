@@ -10,6 +10,8 @@ generated:
 
 # Cloze Procedure
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The cloze procedure removes selected words from a text — systematically (every nth word) or strategically (key vocabulary, connectives, grammatical structures) — and asks learners to supply the missing items. Because learners must use sentence context, syntax, and semantic cues to generate plausible replacements, the procedure converts passive reading into active construction of meaning.
 

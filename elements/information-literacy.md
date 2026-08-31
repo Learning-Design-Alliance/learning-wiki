@@ -10,6 +10,8 @@ generated:
 
 # Information Literacy
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Information literacy is the element in which learners identify information needs, locate sources, evaluate credibility, and use information responsibly. It is useful when tasks require judgment about evidence rather than mere retrieval.
 

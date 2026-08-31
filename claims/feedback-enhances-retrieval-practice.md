@@ -11,6 +11,8 @@ evidence_strength: pending
 
 # Feedback Enhances Retrieval Practice
 
+> **Claim** · [All claims](index.md)
+
 Retrieval practice strengthens long-term retention, and providing feedback after retrieval attempts further improves learning by correcting errors and confirming correct responses. This page treats the *interaction* — whether feedback adds incremental value beyond retrieval alone — as a distinct claim requiring its own evidence.
 
 ## Subclaims

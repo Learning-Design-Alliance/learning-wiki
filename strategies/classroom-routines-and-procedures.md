@@ -10,6 +10,8 @@ generated:
 
 # Classroom Routines And Procedures
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Classroom routines and procedures are consistent, explicitly taught patterns for recurring activities — entering the room, distributing materials, transitioning between tasks, seeking help, submitting work. They are carried out by naming the procedure, modeling it, rehearsing it until fluent, and maintaining it with brief reinforcement, so that management becomes automatic rather than negotiated.
 

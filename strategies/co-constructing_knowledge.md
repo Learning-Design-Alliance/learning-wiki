@@ -10,6 +10,8 @@ generated:
 
 # Co-constructing Knowledge
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Co-constructing knowledge positions learners as active partners who build understanding alongside the teacher through dialogue, shared inquiry, and collaborative meaning-making, rather than receiving fully formed content. The teacher's role shifts from authority-as-transmitter to facilitator who elicits, challenges, and connects student ideas. The approach draws on Vygotsky's account of learning as a social process in which understanding emerges through interaction within the zone of proximal development.
 

@@ -15,6 +15,8 @@ sources:
 
 # Situated Learning
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Situated learning is the principle that learning is shaped by the contexts, practices, and communities in which knowledge is used.
 

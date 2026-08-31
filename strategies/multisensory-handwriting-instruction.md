@@ -10,6 +10,8 @@ generated:
 
 # Multisensory Handwriting Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Multisensory handwriting instruction teaches letter formation by pairing the motor act of writing with simultaneous visual, verbal, and tactile input — for example, tracing a letter in sand while saying its sound, forming it with clay, then writing it on paper while naming it. The approach is a hallmark of structured literacy programs such as Orton-Gillingham and Handwriting Without Tears, and is grounded in the finding that writing letters by hand shapes letter perception and recognition, not just production [James & Engelhardt, 2012](https://doi.org/10.1016/j.tine.2012.08.001) [+M].
 

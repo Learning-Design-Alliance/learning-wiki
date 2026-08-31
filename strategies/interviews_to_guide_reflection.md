@@ -10,6 +10,8 @@ generated:
 
 # Interviews to Guide Reflection
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Interviews to guide reflection are structured one-on-one conversations—teacher-to-student or peer-to-peer—held at the close of a learning sequence to elicit what was learned, how it was learned, and how it might transfer to future settings. The interviewer asks open, probing questions while the interviewee articulates their reasoning, making the interview a form of guided [self-explanation](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. The format also models and rehearses habits of mind: listening with empathy, communicating with precision, and posing productive questions.
 

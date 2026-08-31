@@ -10,6 +10,8 @@ generated:
 
 # Manipulatives: Sentence Construction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners write or compose sentences using physical objects — color-coded blocks, magnetic word tiles, or word cards — where each object or color represents a word, phrase, or part of speech. By physically arranging and rearranging these objects, learners visualize sentence structure (subject–verb–object, clause boundaries, phrase order) rather than encountering grammar purely as abstract rules. The strategy converts syntactic relationships into a spatial, manipulable form that can be built, tested, and revised.
 

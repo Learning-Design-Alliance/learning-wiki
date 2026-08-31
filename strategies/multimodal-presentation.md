@@ -10,6 +10,8 @@ generated:
 
 # Multimodal Presentation
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Multimodal presentation delivers content through two or more coordinated channels — most commonly spoken or written words combined with relevant images, diagrams, or animation. The goal is to engage both verbal and visual processing channels so learners can build integrated mental representations rather than translating words into images on their own.
 

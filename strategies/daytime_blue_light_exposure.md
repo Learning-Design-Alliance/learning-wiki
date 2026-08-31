@@ -10,6 +10,8 @@ generated:
 
 # Daytime Blue Light Exposure
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Daytime blue light exposure means deliberately increasing learners' exposure to short-wavelength (~460–480 nm) light during school or study hours — through natural sunlight, blue-enriched white LED lighting, or light boxes. Blue-spectrum light suppresses melatonin and stimulates the circadian alerting system, raising subjective alertness and objective cognitive performance. Because puberty biologically delays the sleep-wake phase, adolescents accumulate sleep debt and arrive at school under-circadian-aroused; morning blue-enriched light can partially counteract this by advancing and stabilizing the circadian rhythm.
 

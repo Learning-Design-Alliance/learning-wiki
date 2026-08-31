@@ -10,6 +10,8 @@ generated:
 
 # Calming Strategy Cards
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Calming strategy cards are small, portable prompts (illustrated or written) that remind learners of specific emotional regulation strategies to use when anger, anxiety, or overwhelm begins to escalate. Cards are introduced and rehearsed during calm periods, personalized by learner choice, and then used in the moment as external cues that substitute for executive-control processes that degrade under emotional arousal. With repeated, supported use, the strategies can become internalized and accessible without the cards.
 

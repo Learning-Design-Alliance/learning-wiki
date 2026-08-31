@@ -17,6 +17,8 @@ grain_size: lesson
 
 # Debate Format
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Debate format is a structured discussion pattern in which learners prepare positions, present arguments, respond to opposing claims, and justify conclusions within a defined sequence. Its instructional value comes from forcing learners to clarify claims, weigh evidence, anticipate counterarguments, and communicate under constraint. Debate is most useful when the goal is disciplined argumentation rather than simply "having opinions."
 

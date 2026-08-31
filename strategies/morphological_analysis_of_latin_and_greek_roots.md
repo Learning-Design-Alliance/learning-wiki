@@ -10,6 +10,8 @@ generated:
 
 # Morphological Analysis of Latin and Greek Roots
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Morphological analysis teaches learners to treat words as built from meaningful units rather than as whole memorized items. Learners are explicitly taught high-frequency Latin and Greek roots (e.g., *spect*, *port*, *bio*, *chron*), common affixes, and a procedure for decomposing unfamiliar words and reasoning from parts to whole meaning. Instruction typically combines direct teaching of a small set of high-yield morphemes with guided analysis of novel words containing them.
 

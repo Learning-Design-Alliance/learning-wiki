@@ -10,6 +10,8 @@ generated:
 
 # Family Literacy Nights
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Family Literacy Nights are scheduled school events where children and caregivers participate together in structured literacy activities — shared reading, writing games, storytelling, and take-home materials — typically facilitated by teachers or reading specialists. The strategy treats families as partners in literacy development rather than recipients of information, combining adult education about home literacy practices with direct, guided interaction between caregivers and children.
 

@@ -10,6 +10,8 @@ generated:
 
 # Strength-Based Approach to Self-Awareness
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy identifies a student's existing strengths related to self-awareness — the ability to accurately identify one's own emotions, thoughts, and values and how they influence behavior — and uses those strengths as an entry point for addressing challenges. Typical activities include labeling and naming feelings, structured journal reflection to surface patterns and manage goals, and estimation/prediction tasks in which students check the accuracy of their self-assessments. The strength-based framing matters: intervention starts from what the student already does well rather than from a deficit inventory, which supports self-efficacy and willingness to engage [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M].
 

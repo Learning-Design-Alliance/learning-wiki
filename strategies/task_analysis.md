@@ -10,6 +10,8 @@ generated:
 
 # Task Analysis
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Task analysis involves decomposing a complex assignment — most commonly a writing task — into smaller, manageable sub-tasks with clear success criteria for each. Learners read or hear the instructions aloud, restate the task in their own words, and jointly identify and highlight the key requirements before beginning work. The result is a shared, explicit map of what the assignment demands, in what order, and to what standard.
 

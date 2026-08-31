@@ -10,6 +10,8 @@ generated:
 
 # Racial Equity in PBL - Focus Projects on Issues of Justice
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy directs project-based learning toward authentic problems of racial, social, and environmental justice so that students investigate and act on issues with real stakes for their communities. Rather than treating PBL as a format applied to any content, the strategy makes the *purpose* of the project — confronting injustice — the engine of relevance, engagement, and agency. It draws on culturally relevant pedagogy and critical literacy traditions, in which academic learning is coupled with developing students' capacity to identify and challenge inequity [Ladson-Billings, 1995] [+M].
 

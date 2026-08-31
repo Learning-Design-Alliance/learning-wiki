@@ -10,6 +10,8 @@ generated:
 
 # Review And Summarizing
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Review and summarizing is an instructional element in which learners revisit previously encountered content and condense it — orally, in writing, or graphically — into their own words. It functions both as a consolidation activity, strengthening and reorganizing memory traces, and as a formative check that surfaces misconceptions and gaps for the learner and instructor alike.
 

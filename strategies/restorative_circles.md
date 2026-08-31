@@ -10,6 +10,8 @@ generated:
 
 # Restorative Circles
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Restorative Circles bring together the people affected by a conflict or harm — typically students, plus teachers or community members — in a facilitated, round-robin dialogue. A talking piece and structured sequential questions ("What happened? Who was affected? What is needed to make things right?") ensure every voice is heard before the group jointly agrees on repair actions. The format derives from restorative justice practice (Braithwaite, 1989) and is used both reactively (responding to incidents) and proactively (community-building circles with no incident at hand).
 

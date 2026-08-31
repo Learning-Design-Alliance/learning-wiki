@@ -10,6 +10,8 @@ generated:
 
 # Highlight Math Vocabulary
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The instructor models how to highlight or circle the words in a word problem that signal a mathematical operation — e.g., "each," "per," "times," "shared equally" for multiplication and division — while thinking aloud about why each word was selected. Learners then co-construct a class list of signal words, displayed on a word wall or graphic organizer, and apply the highlighting routine to their own problem solving.
 

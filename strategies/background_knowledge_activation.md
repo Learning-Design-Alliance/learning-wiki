@@ -10,6 +10,8 @@ generated:
 
 # Background Knowledge Activation
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Before engaging in text-based discussions or new content, instructors deliberately surface and activate learners' background knowledge related to the text's setting, themes, or concepts. This is typically done through open-ended questions, brief free-writes, or [Analogies](../elements/analogies.md) that prompt learners to connect prior experiences to the new material. Activation makes relevant schemas available in working memory, so incoming information can be integrated rather than encoded in isolation.
 

@@ -10,6 +10,8 @@ generated:
 
 # Method of Loci (Memory Palace)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The method of loci is a mnemonic strategy in which learners mentally place vivid images of to-be-remembered items at sequential locations along a familiar route or within a familiar building. Recall proceeds by mentally "walking" the route and retrieving the items from their locations. The technique exploits the fact that human spatial memory is exceptionally durable, and that vivid, unusual, interactive imagery strengthens the binding between cue and content.
 

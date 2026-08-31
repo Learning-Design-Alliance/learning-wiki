@@ -10,6 +10,8 @@ generated:
 
 # Speed Chatting (Pre-Reading)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Speed chatting is a pre-reading activity where learners form two rows facing each other and ask simple questions related to the reading topic. Each pair has limited time (e.g., 60–90 seconds) to discuss a question before one row rotates, creating new pairs; the process repeats several times. The rapid rotation keeps energy high, surfaces diverse prior knowledge, and gives every learner multiple low-stakes speaking opportunities before encountering the text.
 

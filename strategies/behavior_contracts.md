@@ -10,6 +10,8 @@ generated:
 
 # Behavior Contracts
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A behavior contract is a negotiated written agreement specifying which behavior the learner will perform, under what conditions, and what consequences (rewards or privileges) will follow. The learner typically participates in drafting the terms, and both parties sign. Contracts operationalize contingency management: they make expectations and reinforcement contingencies explicit, monitorable, and mutually owned rather than implicit and teacher-imposed.
 

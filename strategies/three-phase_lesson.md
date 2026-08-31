@@ -10,6 +10,8 @@ generated:
 
 # Three-Phase Lesson
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The Three-Phase Lesson organizes a single lesson into three sequenced phases: **Before** (activating prior knowledge, framing the task, establishing expectations), **During** (students actively work on a problem, task, or investigation while the teacher circulates, questions, and supports), and **After** (consolidation — students share strategies, the teacher highlights key ideas, and connections are made explicit). The structure is most closely associated with mathematics instruction (e.g., Ontario's "Getting Started / Working On It / Reflect and Connect" framework) but generalizes to any problem- or inquiry-based lesson. It is a lesson-level architecture rather than a single technique: each phase draws on distinct elements, and the value comes from the deliberate handoffs between them.
 

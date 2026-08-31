@@ -10,6 +10,8 @@ generated:
 
 # Use Analogies
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 An analogy explains an unfamiliar target concept by relating it to a familiar source domain with a similar relational structure (e.g., the atom as a solar system, electrical current as water flow). The strategy works by activating prior knowledge and aligning its structure with the new material, so learners can infer relationships in the target domain from relationships they already understand [Analogical reasoning improves transfer of relational structure to new domains.](../claims/analogical-reasoning-improves-transfer.md) [+S].
 

@@ -10,6 +10,8 @@ generated:
 
 # Counting Based Arithmetic Strategies
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Counting based strategies are procedural methods for solving arithmetic problems by constructing quantities through counting rather than retrieving memorized facts. The developmental sequence runs from *counting all* (enumerating both addends, e.g., 3 + 5 → "1, 2, 3… 4, 5, 6, 7, 8"), to *counting on* (starting from the larger addend and counting the other: "8… 9, 10, 11, 12, 13"), to *counting up/down* for subtraction and flexible decomposition. These strategies are the dominant solution methods in early elementary arithmetic and are studied extensively through strategy-choice models such as Siegler's overlapping-waves theory [Siegler, R. S. (1987). The perils of averaging data over strategies. *Journal of Experimental Psychology: General, 116*(3), 250–264](https://doi.org/10.1037/0096-3445.116.3.250) [+S].
 

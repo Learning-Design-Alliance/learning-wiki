@@ -10,6 +10,8 @@ generated:
 
 # Emotional Check-ins
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 An emotional check-in is a short, predictable opening routine in which each learner signals their current emotional state — via a rating scale, mood meter, color zone, one-word share, or quick written response. The educator scans the results to gauge collective and individual readiness, then adjusts pacing, grouping, or content accordingly. Beyond informing the teacher, the routine itself builds learners' emotional vocabulary and self-awareness, core competencies of social-emotional learning (SEL).
 

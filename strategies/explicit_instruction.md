@@ -10,6 +10,8 @@ generated:
 
 # Explicit Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Explicit instruction is a structured, teacher-directed approach in which the instructor clearly states the learning goal, models the skill or strategy step by step, guides learners through supported practice, and releases them to independent application. It makes the reasoning behind each step visible rather than leaving learners to infer procedures from examples or discovery. The canonical sequence is often summarized as "I do, we do, you do."
 

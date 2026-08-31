@@ -10,6 +10,8 @@ generated:
 
 # Scaffolded Inquiry
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Scaffolded inquiry sequences learning tasks so that learners begin with heavily structured investigation — embedded prompts, worked models, and instructor-framed questions — and progressively take over the questioning, reasoning, and design decisions themselves. The instructor's role shifts from directing the inquiry to coaching and eventually observing as learners independently formulate questions, gather evidence, and draw conclusions.
 

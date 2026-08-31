@@ -16,6 +16,8 @@ sources:
 
 # Experimenter-generated underlining is as effective as student-generated underlining for test performance
 
+> **Claim** · [All claims](index.md)
+
 The act of generating one's own underlining does not, by itself, improve test performance over simply studying text that someone else has underlined — what matters is which content gets marked, not who marks it.
 
 ## Subclaims

@@ -10,6 +10,8 @@ generated:
 
 # Math Songs
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Math songs are musical compositions designed to teach and reinforce math concepts and skills. They exploit rhyme, rhythm, and melody to make mathematical content more engaging and memorable, and can introduce new concepts, reinforce fluency with facts, or anchor daily classroom routines. They function as a mnemonic supplement — not a replacement — for conceptual instruction and [practice](../elements/practice.md).
 

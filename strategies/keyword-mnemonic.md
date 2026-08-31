@@ -10,6 +10,8 @@ generated:
 
 # Keyword Mnemonic
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The keyword mnemonic is a two-stage strategy for learning vocabulary and paired associations. In the *acoustic link* stage, learners identify a familiar word (the keyword) that sounds similar to part of the target term; in the *imagery link* stage, they form a mental image in which the keyword and the term's meaning interact. For example, to learn Spanish *pato* (duck), an English speaker might use the keyword "pot" and picture a duck wearing a pot as a hat. Learners can generate images themselves or be supplied with them.
 

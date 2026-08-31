@@ -10,6 +10,8 @@ generated:
 
 # Text Based_Collaborative_Learning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Text-based collaborative learning organizes learners into structured joint activity around a common text: they discuss interpretations, annotate passages, pose and answer questions, negotiate meaning, and often produce shared written artifacts. The text serves as a common object of inquiry, and the collaboration serves as the mechanism by which comprehension is externalized, challenged, and refined.
 

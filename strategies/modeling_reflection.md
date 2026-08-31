@@ -10,6 +10,8 @@ generated:
 
 # Modeling Reflection
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Modeling reflection means the instructor deliberately externalizes their own reflective process: revisiting a decision, analyzing why an approach succeeded or failed, and articulating what they will do differently. Rather than assigning reflection as an activity, the instructor demonstrates it as a practice, converting private metacognitive habits into observable behavior learners can imitate. This is reflection-as-demonstration, distinct from prompting learners to reflect themselves.
 

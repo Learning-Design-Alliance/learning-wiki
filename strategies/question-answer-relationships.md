@@ -10,6 +10,8 @@ generated:
 
 # Question Answer Relationships
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Question Answer Relationships (QAR) is a questioning strategy in which learners are explicitly taught a taxonomy of question types based on the source of the answer: **Right There** (answer stated in one place in the text), **Think and Search** (answer assembled from multiple places in the text), **Author and Me** (answer requires combining text information with prior knowledge), and **On My Own** (answer comes entirely from the learner's own knowledge and experience). Instruction proceeds by labeling questions with the category, having learners sort questions into categories, and finally having learners generate their own questions of each type. The goal is metacognitive: learners stop treating all questions the same way and instead ask "where does this answer live?" before searching.
 

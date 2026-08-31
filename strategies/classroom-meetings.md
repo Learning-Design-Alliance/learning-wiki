@@ -10,6 +10,8 @@ generated:
 
 # Classroom Meetings
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A classroom meeting is a recurring, structured gathering — often daily or weekly — where the whole class discusses community issues, plans activities, solves interpersonal problems, and makes shared decisions. The teacher facilitates rather than directs, using protocols (greeting, sharing, problem-solving agenda items) that give every student voice. The format originates in Dewey's democratic education and Glasser's class meetings, and is institutionalized in programs such as [Responsive Classroom](https://www.responsiveclassroom.org) and the Tribes Learning Community.
 

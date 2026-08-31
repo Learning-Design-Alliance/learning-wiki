@@ -10,6 +10,8 @@ generated:
 
 # Self Talk Scripts
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Self talk scripts are short, explicit verbal formulas — modeled by an instructor or co-constructed with learners — that learners say (aloud or silently) to themselves while working. They operationalize private speech as a self-regulation tool: directing attention ("First I check what the question is asking"), monitoring ("Does this make sense so far?"), encouraging persistence ("Mistakes mean I'm learning"), and managing anxiety ("I've done problems like this before"). The approach derives from Meichenbaum's cognitive-behavioral self-instructional training, in which learners progress from adult modeling of the script, to guided practice with prompts, to covert self-instruction.
 

@@ -11,6 +11,8 @@ evidence_strength:
 
 # Question prompts improve learning
 
+> **Claim** · [All claims](index.md)
+
 Question prompts are questions embedded in learning materials, tasks, or dialogue that ask learners to respond before, during, or after instruction. They are hypothesized to improve learning by prompting active processing — retrieval, self-explanation, and connection to prior knowledge — rather than passive reading or listening.
 
 ## Subclaims

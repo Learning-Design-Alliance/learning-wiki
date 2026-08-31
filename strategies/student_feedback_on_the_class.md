@@ -10,6 +10,8 @@ generated:
 
 # Student Feedback on the Class
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy involves deliberately gathering students' perceptions of the class — what is helping them learn, what is confusing, what the workload and climate feel like — and using that information to adjust instruction. It is carried out through short anonymous surveys, mid-semester check-ins, exit prompts, or structured discussion, with the teacher visibly responding to what they hear. Unlike summative course evaluations collected at the end of term, the feedback is formative: it arrives while the teacher can still act on it.
 

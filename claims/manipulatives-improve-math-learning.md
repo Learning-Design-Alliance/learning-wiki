@@ -11,6 +11,8 @@ evidence_strength:
 
 # Manipulatives Improve Math Learning
 
+> **Claim** · [All claims](index.md)
+
 Physical or visual objects that learners manipulate (counters, base-ten blocks, fraction tiles) can support mathematics learning by making abstract relationships concrete and actionable.
 
 ## Subclaims

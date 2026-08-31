@@ -10,6 +10,8 @@ generated:
 
 # Brain-Based Learning Through Movement
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Brain-based learning through movement integrates purposeful physical activity — movement breaks, kinesthetic tasks, gesture, and peer teaching that gets students out of their seats — into the flow of instruction. The rationale is that movement increases arousal and blood flow, engages multiple sensory and motor systems during encoding, and provides attentional reset between demanding cognitive segments. It is carried out through structured routines (e.g., short activity breaks between instructional segments, acting out content, walking peer-discussion pairings) rather than unstructured "free movement."
 

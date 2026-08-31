@@ -10,6 +10,8 @@ generated:
 
 # Rethinking Accountability
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Rethinking accountability means recognizing that students did not choose disruptive circumstances (a pandemic, family crisis, displacement, or institutional disruption) and should not be unjustly penalized for the challenges those circumstances create. Instructors balance generosity with high standards: they modify assignments, offer flexibility in deadlines and grading policies, use alternative assessments, and prioritize maintaining connection and hope over strict procedural enforcement. The goal is to keep accountability meaningful — students still demonstrate learning — while decoupling it from penalties for factors unrelated to learning.
 

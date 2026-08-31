@@ -10,6 +10,8 @@ generated:
 
 # Prediction Relay
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Prediction Relay is one of the structured activities in [Peer-Assisted Learning Strategies](../principles/collaborative-learning.md) (PALS) for Reading, developed at Vanderbilt University. In it, paired students take turns reading a paragraph aloud, then stop to predict what will happen next in the text before continuing. The reader makes and verifies predictions; the coach supports, questions, and awards points for plausible, text-grounded predictions. Prediction Relay extends the core PALS sequence (partner reading with summarization) by making anticipation of upcoming text the explicit comprehension move.
 

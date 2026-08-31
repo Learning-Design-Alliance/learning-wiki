@@ -10,6 +10,8 @@ generated:
 
 # Eliminate Internal Negative Chatter
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy targets the learner's inner dialogue: noticing automatic negative thoughts ("I always fail at this"), interrupting them (thought-stopping cues such as silently saying "Stop" or "Cancel"), challenging their validity against evidence, and replacing them with more accurate or instructional self-statements. It draws on cognitive restructuring from [cognitive-behavioral therapy](https://beckinstitute.org) and on self-talk research showing that the *content and form* of inner speech shapes emotion and performance. Over time, the practice reduces the frequency and intensity of rumination and shifts self-talk toward task-focused, instructional language.
 

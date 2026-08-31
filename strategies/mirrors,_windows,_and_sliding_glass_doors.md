@@ -10,6 +10,8 @@ generated:
 
 # Mirrors, Windows, and Sliding Glass Doors
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Rudine Sims Bishop's (1990) framework holds that literature serves readers as a *mirror* (reflecting their own identity and culture), a *window* (offering a view into lives unlike their own), or a *sliding glass door* (inviting them to step into and inhabit another world). As a strategy, it directs educators to audit and diversify classroom texts and materials, then structure reflection and discussion so students explicitly consider which function a text served for them and why. The goal is identity-affirming engagement for marginalized learners and perspective-taking for all learners.
 

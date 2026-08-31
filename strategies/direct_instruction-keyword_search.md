@@ -10,6 +10,8 @@ generated:
 
 # Direct Instruction: Keyword Search
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Direct instruction of keyword search explicitly teaches learners how to translate an information need into effective search terms: generating synonyms, combining terms with Boolean operators, using field limits and phrase quotes, and iterating when results disappoint. It also teaches evaluation criteria (authority, currency, evidence) so learners can judge what retrieval returns. The instructor models each move — thinking aloud while decomposing a question into concepts, choosing terms, and revising — then guides learners through practice with feedback.
 

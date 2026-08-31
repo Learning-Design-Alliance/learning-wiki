@@ -10,6 +10,8 @@ generated:
 
 # Identifying and Addressing Self-Regulation Strengths and Challenges
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy involves educators systematically observing and assessing students' self-regulation — the ability to manage attention, emotions, and behavior in service of goals — and then matching instructional supports to each student's profile. Rather than treating self-regulation as a fixed trait students either have or lack, the educator identifies specific strengths (e.g., strong working memory, sustained interest in a topic) and challenges (e.g., impulse control under frustration), then leverages strengths as entry points while explicitly teaching and scaffolding weaker regulatory skills.
 

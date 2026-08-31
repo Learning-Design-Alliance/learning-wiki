@@ -11,6 +11,8 @@ evidence_strength: weak
 
 # Growth mindset improves achievement
 
+> **Claim** · [All claims](index.md)
+
 Teaching learners that abilities are malleable (a "growth mindset") can raise academic achievement, but effects are small on average and depend heavily on who is targeted and how the intervention is delivered.
 
 ## Subclaims

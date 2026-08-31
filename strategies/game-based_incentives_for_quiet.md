@@ -10,6 +10,8 @@ generated:
 
 # Game-Based Incentives for Quiet
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Game-Based Incentives for Quiet is a classroom management strategy that converts a behavioral expectation — a fast, quiet transition — into a game. In a typical implementation ("Silent 20"), students have 20 seconds to return to their seats and be completely silent; success moves the class forward on a shared game board (e.g., a large facsimile of *The Game of Life*), and reaching the final square earns a group reward such as a popcorn party. The mechanism is a group contingency with delayed reinforcement: the target behavior is immediate, but the payoff accumulates over days or weeks.
 

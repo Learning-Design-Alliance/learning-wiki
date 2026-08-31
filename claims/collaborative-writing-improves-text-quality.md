@@ -11,6 +11,8 @@ evidence_strength: weak
 
 # Collaborative Writing Improves Text Quality
 
+> **Claim** · [All claims](index.md)
+
 Students who compose texts collaboratively — co-planning, co-drafting, and co-revising with peers — produce written products of higher quality than students writing alone. The claim concerns the quality of the written product, not (yet) gains in individual writing ability.
 
 ## Subclaims

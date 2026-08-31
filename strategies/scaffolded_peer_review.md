@@ -10,6 +10,8 @@ generated:
 
 # Scaffolded Peer Review
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Scaffolded peer review organizes peer assessment so that learners receive structured support in giving and receiving critique: exemplars of strong and weak work, rubrics or criterion-referenced prompts, a narrowed feedback scope, and instructor modeling of constructive commentary. The scaffolding addresses the two documented weaknesses of unstructured peer review — vague, unactionable feedback and learner discomfort with critique — and is faded as reviewers gain competence.
 

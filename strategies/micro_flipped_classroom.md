@@ -10,6 +10,8 @@ generated:
 
 # Micro Flipped Classroom
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Short video lectures (typically under 10 minutes, each covering a single concept) are assigned as pre-class study material together with brief assignments or comprehension checks. Class time is then devoted to applying, discussing, and extending that material rather than delivering it. The "micro" variant distinguishes itself from the general [Flipped Classroom](../patterns/flipped-classroom.md) by deliberately chunking pre-class content into small, single-objective segments with low-stakes accountability tasks attached.
 

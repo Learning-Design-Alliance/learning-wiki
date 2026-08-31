@@ -11,6 +11,8 @@ evidence_strength:
 
 # Comparing Contrasting Cases Improves Learning
 
+> **Claim** · [All claims](index.md)
+
 Learners who compare two or more cases that differ on key features — side by side, with attention directed to what varies and why — learn the underlying principles better than learners who study the same cases one at a time.
 
 ## Subclaims

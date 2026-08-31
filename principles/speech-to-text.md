@@ -23,6 +23,8 @@ sources:
 
 # Speech-to-text
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Speech-to-text converts spoken language into written text, giving learners another route for composing, capturing ideas, and participating in text-based environments. Its instructional value is not just accommodation, although that is often essential. It can reduce transcription barriers, help learners externalize ideas more quickly, and support drafting when handwriting or keyboarding would otherwise consume too much effort.
 

@@ -10,6 +10,8 @@ generated:
 
 # Student Shadowing (Qualitative Data Collection)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Student shadowing is a qualitative data collection method in which an educator — typically a school leader, instructional coach, or researcher — accompanies a single student through an entire school day, observing classes, transitions, social interactions, and unstructured time from the student's point of view. The goal is to surface the lived experience of schooling that aggregate data (test scores, attendance, discipline records) cannot reveal. The shadower records observations systematically but minimally interacts with the student during the day, then debriefs afterward.
 

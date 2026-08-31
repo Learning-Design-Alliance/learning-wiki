@@ -10,6 +10,8 @@ generated:
 
 # Flipped Learning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Flipped learning reverses the traditional sequence: learners encounter new content individually before class — usually through short pre-recorded videos, readings, or podcasts — and class time is devoted to active learning such as problem-solving, discussion, case work, and group projects. The instructor shifts from content deliverer to facilitator, guiding learners as they apply, extend, and get feedback on what they studied. The model depends on both halves working: pre-class exposure *and* purposefully structured in-class application.
 

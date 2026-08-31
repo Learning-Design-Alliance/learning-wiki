@@ -10,6 +10,8 @@ generated:
 
 # Jigsaw Classroom
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The Jigsaw Classroom, developed by Elliot Aronson in 1971 for desegregating classrooms in Austin, Texas, divides a lesson into segments and assigns each member of a "jigsaw" group one segment to master. Learners first meet in temporary "expert groups" with peers who share the same segment, then return to their home groups to teach their piece. Because no learner holds the full picture alone, the structure creates genuine positive interdependence: each student's learning depends on listening to and learning from every teammate.
 

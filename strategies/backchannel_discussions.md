@@ -10,6 +10,8 @@ generated:
 
 # Backchannel Discussions
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A backchannel is a conversation that happens right alongside another activity. While the audience listens to a presenter or watches a video, a shared chat stream (e.g., YoTeach!, Slack, or a platform chat) runs on a second screen or personal device. Participants ask questions, offer commentary, and share links without interrupting the primary flow, producing a written record of the discussion. The format gives learners who are reluctant to speak aloud, or who process more slowly, a channel to contribute fully.
 

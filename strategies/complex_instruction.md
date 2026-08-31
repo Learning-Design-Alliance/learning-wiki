@@ -10,6 +10,8 @@ generated:
 
 # Complex Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Complex Instruction (CI), developed by Elizabeth Cohen and colleagues at Stanford, is a cooperative learning pedagogy built on three interlocking tenets: rich, open-ended tasks with multiple ability entry points; structured group roles and norms that make learners interdependent; and active "assigning competence" — the teacher publicly names a low-status learner's intellectual contribution to disrupt status hierarchies. Groups of four work on a single task; each learner holds a role (team captain, resource manager, recorder-reporter, facilitator) while the teacher circulates, observes group dynamics, and intervenes on status rather than content.
 

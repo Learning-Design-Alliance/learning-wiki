@@ -10,6 +10,8 @@ generated:
 
 # Drafting And Feedback Cycles
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Drafting and feedback cycles structure learning as iteration: learners produce a draft, receive feedback (from instructors, peers, or self-assessment), revise, and repeat. The defining feature is that feedback arrives *before* the work is finalized and graded, so it functions as information for improvement rather than as a verdict. The cycle converts a single high-stakes performance into multiple low-stakes attempts with corrective information in between.
 

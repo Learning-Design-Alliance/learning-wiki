@@ -10,6 +10,8 @@ generated:
 
 # Don’t Jump Into "Fix It" Mode
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 When a student brings a problem — academic, social, or emotional — the instinctive adult response is to propose a solution. This strategy deliberately suspends that instinct: first listen fully and understand what is wrong, then ask what kind of help (if any) the student wants before discussing possible solutions together. Students often need to be heard rather than repaired, and premature fixing short-circuits both understanding and the student's own problem-solving.
 

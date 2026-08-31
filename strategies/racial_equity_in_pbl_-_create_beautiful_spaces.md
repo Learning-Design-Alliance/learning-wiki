@@ -10,6 +10,8 @@ generated:
 
 # Racial Equity in PBL - Create Beautiful Spaces
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 For many students, their communities and homes are not always beautiful places. This strategy leverages project-based learning ([PBL](project-based-learning.md)) to transform the classroom into a space made beautiful *by* student work — curated displays, exhibitions, and installations of finished projects. Walking into a building made beautiful by their own creations signals to students that their intellectual labor has aesthetic and public value. It is both an equity practice (countering environments that underserved students may experience as institutional or neglectful) and a motivational one: work destined for public display carries authentic purpose [Authentic audiences increase the quality and effort of student work.](../claims/authentic-audiences-improve-student-work.md) [+M].
 

@@ -10,6 +10,8 @@ generated:
 
 # Temperature Monitoring & Adjustment
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Temperature monitoring and adjustment is an environmental-design strategy: the instructor or facility continuously tracks ambient temperature and adjusts it (via HVAC, ventilation, fans, or window control) to keep the learning space within a range that supports cognition. Environments that are too cold increase distractibility and reduce [Attention](../elements/attention.md), while overly warm environments induce discomfort and drowsiness that degrade concentration. Field research in classrooms places the effective range for reading and mathematics performance at roughly 68–74°F (20–23°C), with performance declining measurably as temperatures rise above it [Wargocki & Wyon found classroom performance in schoolwork tasks declined as temperature rose above ~20°C.](https://doi.org/10.1111/j.1600-0668.2006.00441.x) [+S].
 

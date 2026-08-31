@@ -10,6 +10,8 @@ generated:
 
 # Cognitively Demanding Tasks
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Cognitively demanding tasks require a high level of cognitive engagement to complete: learners must determine what the problem is asking, decide how to use the information provided, and make connections among ideas in ways not prescribed by a memorized procedure. High-demand tasks often admit multiple solution paths or multiple correct answers, which surfaces diverse student thinking and creates rich material for discussion. The construct originates in research on academic work (Doyle, 1983) and was developed most fully in mathematics education through the "cognitive demand" framework of Stein and colleagues, which distinguishes "doing mathematics" and "procedures with connections" from lower-demand "procedures without connections" and memorization.
 

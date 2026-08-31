@@ -10,6 +10,8 @@ generated:
 
 # Self Evaluation
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Self evaluation asks learners to judge the quality of their own work, performance, or understanding against explicit criteria before (or instead of) receiving external judgment. It is carried out through rubrics, checklists, exemplar comparison, or structured reflection prompts, and functions as both an assessment activity and a training method for self-regulation.
 

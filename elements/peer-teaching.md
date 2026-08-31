@@ -10,6 +10,8 @@ generated:
 
 # Peer Teaching
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Peer teaching places learners in the role of instructor: they explain, question, and elaborate material for classmates, then receive questions that probe their understanding. Preparing to teach and teaching itself force learners to reorganize knowledge, fill gaps, and articulate reasoning — a form of generative processing that benefits the teacher as much as the taught.
 

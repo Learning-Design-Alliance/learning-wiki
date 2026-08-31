@@ -10,6 +10,8 @@ generated:
 
 # Turn Around Time
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Turn around time is the interval between a learner submitting or performing work and receiving feedback on it. The strategy treats that interval as a design variable: instructors and course systems deliberately shorten it — through rapid grading cycles, automated checks, in-class conferencing, or live commentary — so learners can act on feedback while their reasoning about the task is still retrievable.
 

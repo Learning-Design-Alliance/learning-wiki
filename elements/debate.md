@@ -10,6 +10,8 @@ generated:
 
 # Debate
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Debate is the element in which learners take positions, justify them with evidence, and respond to alternatives in a structured exchange.
 

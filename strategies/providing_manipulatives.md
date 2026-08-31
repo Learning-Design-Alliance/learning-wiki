@@ -10,6 +10,8 @@ generated:
 
 # Providing Manipulatives
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Providing manipulatives means giving learners physical or virtual objects — base-ten blocks, fraction tiles, balance beams, simulations — that they can act on directly to model abstract concepts. The strategy rests on the idea that embodied, hands-on interaction grounds symbolic content in perceptual and motor experience, making invisible structures (place value, ratios, forces) observable and testable.
 

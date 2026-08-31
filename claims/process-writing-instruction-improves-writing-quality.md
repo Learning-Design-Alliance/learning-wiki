@@ -11,6 +11,8 @@ evidence_strength: moderate
 
 # Process Writing Instruction Improves Writing Quality
 
+> **Claim** · [All claims](index.md)
+
 Process writing instruction — teaching writing as a cycle of planning, drafting, revising, and editing, often with peer collaboration and teacher conferencing — improves the quality of students' written compositions compared with traditional, product-focused writing instruction.
 
 ## Subclaims

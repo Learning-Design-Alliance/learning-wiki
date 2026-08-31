@@ -10,6 +10,8 @@ generated:
 
 # Grade Students Based on Demonstrated Learning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Instead of averaging scores over time, this strategy grades students on their ultimate level of demonstrated mastery at the end of a unit. Early low scores function as diagnostic information rather than permanent penalties, and students may reassess or revise work until they can demonstrate the target competency. This mitigates rewarding students who begin with higher prior mastery and encourages perseverance.
 

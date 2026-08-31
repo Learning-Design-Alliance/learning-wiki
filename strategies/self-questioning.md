@@ -10,6 +10,8 @@ generated:
 
 # Self Questioning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Self questioning is a strategy in which learners actively generate questions about the material they are studying and attempt to answer them, rather than passively rereading or reviewing. It can be prompted by the instructor (embedded question prompts, question stems) or taught as a self-regulated habit (e.g., "What is the main point here? What do I still not understand?"). The questions function both as elaborative processing — forcing the learner to connect and restructure content — and as a comprehension monitor that exposes gaps.
 

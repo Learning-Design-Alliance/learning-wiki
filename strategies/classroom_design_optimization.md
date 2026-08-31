@@ -10,6 +10,8 @@ generated:
 
 # Classroom Design Optimization
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Classroom design optimization is the deliberate arrangement of the physical learning environment — acoustic treatment, thermal conditions, lighting, and seating configuration — to reduce extraneous load and support attention. It treats the room itself as an instructional variable: noise, temperature, and layout either consume learner attention or free it for the content.
 

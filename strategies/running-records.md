@@ -10,6 +10,8 @@ generated:
 
 # Running Records
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A running record is a standardized observational assessment in which a teacher listens to a student read a graded text aloud and codes every error and self-correction in real time using a notation system developed by Marie Clay. The resulting record yields an accuracy rate, a self-correction ratio, and an analysis of which cueing sources (meaning, structure, visual) the child used — informing instructional decisions about text placement and teaching focus.
 

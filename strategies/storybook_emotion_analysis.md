@@ -10,6 +10,8 @@ generated:
 
 # Storybook Emotion Analysis
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy uses storybooks as a safe, structured context for analyzing emotions. Learners infer how characters feel from narrative and visual cues, discuss the causes and consequences of those emotions, and connect them to their own experiences. Because emotions are examined in a fictional third party, learners can discuss socially sensitive feelings (anger, fear, embarrassment) at a comfortable distance.
 

@@ -10,6 +10,8 @@ generated:
 
 # Word Family Charts
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A word family chart displays collections of words that share a common letter pattern — typically a rime such as *-ight* (light, night, sight, might) or *-ake* (make, take, cake, snake) — organized so the shared pattern is visually salient. Learners read, sort, and generate words within the family, using the known anchor word to decode and spell new words by analogy. Charts are typically co-constructed with learners and posted for ongoing reference.
 

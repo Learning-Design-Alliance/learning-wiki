@@ -10,6 +10,8 @@ generated:
 
 # Graphic Notes
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Graphic notes combine verbal lecture content with visual structures — diagrams, mind maps, timelines, charts, sketches, and spatial layout — so that learners record and organize spoken information graphically rather than as linear text. The instructor models or provides the visual scaffolding during presentation, and learners revisit the notes afterward as a study artifact.
 

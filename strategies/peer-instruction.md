@@ -10,6 +10,8 @@ generated:
 
 # Peer Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Peer Instruction, developed by Eric Mazur at Harvard, structures class time around a repeating cycle: the instructor poses a conceptually demanding multiple-choice or true/false question ([ConcepTest](../elements/conceptest.md)); students commit to an individual answer, often via clicker or show of hands; they then attempt to convince a neighbor with a different answer; finally they revote and the instructor debriefs based on the vote distribution. The strategy converts lecture time into episodes of [active learning](../principles/active-learning.md) driven by cognitive conflict and peer explanation.
 

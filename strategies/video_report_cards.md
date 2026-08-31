@@ -10,6 +10,8 @@ generated:
 
 # Video Report Cards
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A video report card is a short, personalized recording — typically 2–5 minutes — in which a teacher walks parents through their child's performance: trends across grading periods, specific strengths, areas for growth, and concrete recommendations for home support. Videos can be translated, captioned, or recorded in the family's home language to reduce language barriers that written reports often create.
 

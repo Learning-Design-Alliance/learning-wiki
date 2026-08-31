@@ -10,6 +10,8 @@ generated:
 
 # Bring Something From Home
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Students bring a personal object from home — a photograph, a stuffed animal, a musical instrument, a family artifact — to keep in or contribute to the classroom. The strategy serves two functions: it provides a source of comfort and familiarity for students adjusting to a new environment, and it makes students' families and cultures visible in the shared classroom space. It is typically launched with a sharing ritual in which each student tells the class about their item.
 

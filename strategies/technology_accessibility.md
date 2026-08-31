@@ -10,6 +10,8 @@ generated:
 
 # Technology Accessibility
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Technology accessibility means learners can actually reach and use the media and devices a learning design depends on: projectors, laptops or tablets, cameras, recording and production tools, and connectivity. It covers physical availability, equitable distribution, and the [Accommodations](../elements/accommodations.md) and training learners need to use the tools productively rather than being distracted or excluded by them.
 

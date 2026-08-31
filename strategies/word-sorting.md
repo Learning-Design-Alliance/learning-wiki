@@ -10,6 +10,8 @@ generated:
 
 # Word Sorting
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Word sorting asks learners to classify a set of words into categories based on shared features — spelling patterns (e.g., *-ake* vs. *-ick*), initial or final sounds, vowel teams, or morphological elements (prefixes, suffixes, roots). Learners compare and contrast words, articulate why each belongs where it does, and induce the underlying pattern themselves rather than being told a rule first. The canonical implementation is developmental word study as practiced in [Words Their Way](https://www.wordstudy.wayne.edu/) (Bear, Invernizzi, Templeton, & Johnston), where sorts are matched to a learner's spelling-development stage.
 

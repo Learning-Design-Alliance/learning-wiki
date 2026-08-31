@@ -10,6 +10,8 @@ generated:
 
 # Learn About Students' Math Backgrounds
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy involves deliberately eliciting what learners already know and can do mathematically — formal schooling history, informal and practical skills (sports statistics, family finances, measurement systems used at home), and interests — before and during instruction. Teachers then connect new content to that knowledge, group learners intentionally, and create leadership opportunities so learners can demonstrate competence in multiple ways. It is foundational for adult basic education, multilingual classrooms, and any setting where prior schooling varies widely.
 

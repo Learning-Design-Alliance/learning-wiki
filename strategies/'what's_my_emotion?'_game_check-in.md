@@ -10,6 +10,8 @@ generated:
 
 # 'What's My Emotion?' Game Check-In
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Students use the EQ Feeling Chart to identify their feelings. One student acts out a chosen emotion through body language and facial expressions while the rest of the class guesses it, then the group names and briefly discusses the feeling. The activity functions as a low-stakes [check-in](../principles/check-ins.md) that doubles as practice in emotion recognition and expression.
 

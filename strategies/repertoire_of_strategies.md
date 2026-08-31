@@ -10,6 +10,8 @@ generated:
 
 # Repertoire of Strategies
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Procedural fluency requires having a repertoire of strategies. Before learners can flexibly choose an appropriate strategy, they must have strategies from which to choose. Strategies are flexible ways to solve a problem; algorithms are step-by-step procedures. Students should be able to flexibly use and adapt strategies and switch to a different strategy when their first choice is not working well. Every student must have the opportunity to learn more than one method — limiting students to only one method puts them at a disadvantage, denying them access to more intuitive methods and the opportunity to flexibly choose a method that fits the problem at hand.
 

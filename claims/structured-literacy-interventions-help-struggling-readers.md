@@ -11,6 +11,8 @@ evidence_strength: unset
 
 # Structured Literacy Interventions Help Struggling Readers
 
+> **Claim** · [All claims](index.md)
+
 Structured literacy — explicit, systematic, cumulative instruction in phonemic awareness, phonics, and decoding — improves word reading for students who struggle, relative to less explicit or incidental approaches.
 
 ## Subclaims

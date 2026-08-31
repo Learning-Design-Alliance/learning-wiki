@@ -10,6 +10,8 @@ generated:
 
 # Songwriting
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Songwriting asks students to compose original verses or complete songs that integrate target language concepts — letter sounds, vocabulary words, or sentence structures — often set to a familiar tune such as "Mary Had a Little Lamb." Learners identify letter sounds, brainstorm candidate words, and structure verses around the new language, then illustrate their verses to reinforce learning through a second modality. The activity combines auditory, visual, and kinesthetic engagement in a single creative product.
 

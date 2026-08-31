@@ -10,6 +10,8 @@ generated:
 
 # High Frequency Word Lists
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 High-frequency word lists (e.g., the Dolch list of 220 service words and the Fry list of the 1,000 most common English words) are collections of the words that account for the majority of running text — the first 100 Fry words alone cover roughly half of all written material. They are taught so learners can recognize these words instantly by sight, freeing attentional resources for decoding unfamiliar words and comprehending text. Many high-frequency words are phonetically irregular (e.g., *said*, *was*, *of*), so instruction combines orthographic mapping with repeated exposure rather than pure rote memorization.
 

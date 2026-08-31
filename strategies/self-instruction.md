@@ -10,6 +10,8 @@ generated:
 
 # Self-Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Self-instruction (self-talk, self-statements) is a strategy in which learners verbalize guidance to themselves while performing a task, in order to self-regulate their behavior. Meichenbaum's five statement types structure the practice: problem definition ("What is it I have to do?"), focusing attention ("I need to watch the sign"), strategy explanation ("I divide first, then multiply"), coping ("This is hard, but I can go slowly"), and self-reinforcement ("Good, I got that right"). The developmental goal is internalization: overt speech fades to whispered, then covert, inner speech as the regulation becomes automatic [Vygotsky's private-speech account predicts this overt-to-covert progression.](../theories/social-learning-theory.md) [+M]
 

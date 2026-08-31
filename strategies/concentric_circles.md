@@ -10,6 +10,8 @@ generated:
 
 # Concentric Circles
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners form two circles, one inside the other, with each inner learner paired face-to-face with an outer learner. The teacher poses a question; pairs discuss it briefly; then a signal rotates one circle so every learner faces a new partner, and a new question begins. Two straight lines facing one another work identically — one line slides over one spot and the leftover learner wraps to the start. The format can also run as peer teaching, with each learner responsible for explaining one piece of content to successive partners.
 

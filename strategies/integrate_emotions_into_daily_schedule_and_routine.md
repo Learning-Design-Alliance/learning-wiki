@@ -10,6 +10,8 @@ generated:
 
 # Integrate Emotions into Daily Schedule and Routine
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy embeds emotion teaching into existing daily routines rather than treating social-emotional learning as a separate block. When reviewing the schedule, the teacher asks students to predict the emotions each activity might evoke — anxiety during a math test, boredom during a long lesson, nervousness at recess — and to select and record strategies for managing those feelings. The written plan is then revisited in the moment, converting a one-time discussion into a repeated regulation practice.
 

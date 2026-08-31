@@ -10,6 +10,8 @@ generated:
 
 # Journaling for Self-Reflection
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Journaling for self-reflection asks learners to regularly record their thinking about course content, their learning processes, and their progress toward goals — then typically receive instructor or peer feedback on those entries. Unlike free-form diary writing, effective reflective journaling is prompted and structured: learners describe what they did, why it worked or failed, and what they will change next. The practice builds metacognitive monitoring and self-regulation while giving instructors a window into student thinking that conventional assessments do not reveal.
 

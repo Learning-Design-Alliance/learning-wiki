@@ -10,6 +10,8 @@ generated:
 
 # Mirror Faces
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners work in pairs. One learner displays a facial expression associated with a target emotion (e.g., surprise, frustration, pride); the partner mirrors it, then names the emotion and describes a situation that might evoke it. Roles swap, and the facilitator introduces progressively subtler expressions. The mirroring serves two functions at once: it sharpens *recognition* of expressive cues and builds *embodied simulation* — reproducing the expression recruits the same affective processes involved in experiencing the emotion [~M].
 

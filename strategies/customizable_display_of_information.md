@@ -10,6 +10,8 @@ generated:
 
 # Customizable Display of Information
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Customizable display of information means presenting content in digital formats whose appearance and modality learners can adjust — font size and type, spacing, color contrast, text-to-speech, captions, language, and layout. Rather than fixing a single presentation, the design exposes controls so each learner can configure the display to fit perceptual, linguistic, and working-memory constraints. This is a core UDL (Universal Design for Learning) representation strategy: the content stays constant while its rendering flexes.
 

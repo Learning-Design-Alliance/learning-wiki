@@ -11,6 +11,8 @@ evidence_strength:
 
 # Teacher expectation effects on achievement
 
+> **Claim** · [All claims](index.md)
+
 Teacher expectations about individual students' ability can influence those students' subsequent achievement, in part through differences in instructional treatment and interaction quality. The claim concerns the self-fulfilling-prophecy pathway (expectation → differential treatment → achievement change), not the accuracy of teacher judgments per se.
 
 ## Subclaims

@@ -10,6 +10,8 @@ generated:
 
 # Finger-Painting: Arts Integration
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Arts integration embeds artistic practices — drawing, painting, drama, music, dance, creative writing, design — into the teaching of non-arts subjects, so that learners construct and express academic content *through* an art form rather than only through text and talk. In a finger-painting variant, learners physically render concepts (life cycles, fractions, historical scenes, emotional arcs in literature) with tactile, low-stakes media. The strategy serves dual goals: deepening subject-matter understanding and revealing learners' talents and interests that traditional assessments miss.
 

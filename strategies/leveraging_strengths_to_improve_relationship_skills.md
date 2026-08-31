@@ -10,6 +10,8 @@ generated:
 
 # Leveraging Strengths to Improve Relationship Skills
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy identifies a student's existing competencies in the social domain — clear communication, empathy, cooperation, humor, leadership, conflict de-escalation — and deliberately deploys them as the foundation for growth in weaker areas of relationship skill. Rather than remediating deficits directly, the educator positions students in roles and tasks where their strengths are visible and valued, then extends those strengths into adjacent skills through structured practice, peer pairing, and explicit instruction. The approach reflects the broader strengths-based orientation of social-emotional learning (SEL), which treats relationship skills as developable competencies rather than fixed traits.
 

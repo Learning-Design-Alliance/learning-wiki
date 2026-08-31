@@ -10,6 +10,8 @@ generated:
 
 # Individual Reflection
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Individual reflection asks learners to step back from an experience or completed task and deliberately examine it — what happened, why it happened, what it means, and what to do differently next time. It is typically carried out through structured prompts, journals, or written debriefs, and differs from mere review by requiring learners to connect the experience to their goals, prior knowledge, and future action.
 

@@ -10,6 +10,8 @@ generated:
 
 # Fair Communication Anchor Charts
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Anchor charts are co-created or teacher-authored visual displays that make communication protocols — turn-taking, active listening, respecting diverse perspectives, avoiding interruptions, giving specific feedback — permanently visible in the learning space. By externalizing these norms, the chart functions as a persistent environmental prompt that reduces the working-memory and social burden of remembering "how to talk" during cognitively demanding discussion and teamwork.
 

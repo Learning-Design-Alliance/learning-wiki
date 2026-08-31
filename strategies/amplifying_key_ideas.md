@@ -10,6 +10,8 @@ generated:
 
 # Amplifying Key Ideas
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Amplifying involves deliberately drawing learner attention to the most important ideas in course materials, discussions, and student work — through signaling (headings, emphasis, verbal cueing), summarizing, providing additional examples, or publicly elevating insightful student contributions. The goal is to guide selective attention so that limited working memory and study time are spent on what matters most.
 

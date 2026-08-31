@@ -10,6 +10,8 @@ generated:
 
 # Errors as Learning Opportunities
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Creating a classroom culture where errors become learning opportunities shifts the perception of mistakes as failures to opportunities for growth and understanding. When a student provides an incorrect answer, instructors should explore what aspects of the student's thinking were correct, providing a chance for the student to identify their error or misconception. For example, instead of immediately correcting a wrong answer or moving to a student with the right answer, the teacher can ask, "What is right about that student's thinking?" This reinforces the idea that learning involves a process of discovery and refinement.
 

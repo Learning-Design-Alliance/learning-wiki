@@ -10,6 +10,8 @@ generated:
 
 # Platform Agnostic Design
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Platform agnostic design means instructional materials, activities, and assessments work consistently regardless of the learner's operating system, browser, device, or assistive technology. Rather than building for one environment (e.g., a specific LMS, app, or browser), designers use open web standards, responsive layouts, and multiple format options so that access is determined by learner need, not by technology preference or institutional mandate.
 

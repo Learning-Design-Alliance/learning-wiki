@@ -10,6 +10,8 @@ generated:
 
 # Learning Strategy & Tool "Fair"
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A Learning Strategy & Tool "Fair" is a structured exploration event — inspired by an instrument "petting zoo" — where learners circulate among stations, each featuring a different learning strategy or tool, and try each one briefly on authentic material. The goal is low-stakes experimentation: learners discover what strategies exist, experience using them firsthand, and leave with informed judgments about which to adopt. Product developers can embed the same structure digitally by surfacing suggested strategies based on learner needs and performance.
 

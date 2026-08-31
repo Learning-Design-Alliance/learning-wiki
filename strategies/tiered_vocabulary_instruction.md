@@ -10,6 +10,8 @@ generated:
 
 # Tiered Vocabulary Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Tiered vocabulary instruction, developed by Isabel Beck and colleagues, sorts words into three tiers by frequency and utility. Tier One words (e.g., *chair*, *happy*) are basic and rarely need instruction; Tier Two words (e.g., *coincidence*, *reluctant*) are high-frequency across contexts for mature language users and are the primary target of direct instruction; Tier Three words (e.g., *isotope*, *tariff*) are low-frequency and domain-specific, best taught as they arise within content. The framework directs limited instructional time toward Tier Two words because they appear across many texts and contexts, giving each taught word the broadest return on comprehension and expression.
 

@@ -15,6 +15,8 @@ sources:
 
 # Cognitive Load Reduction
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Cognitive load reduction is the short-form canonical target for instructional moves that simplify presentation, reduce extraneous processing, and make initial learning more manageable.
 

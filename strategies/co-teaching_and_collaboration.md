@@ -10,6 +10,8 @@ generated:
 
 # Co-Teaching and Collaboration
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Co-teaching pairs a content teacher (e.g., mathematics) with a language specialist (e.g., ELL teacher) who jointly identify target content, key vocabulary, academic language demands, and language-focused tasks such as writing a proof, reading a word problem, explaining problem-solving aloud, or writing numbers as words. The specialist guides the content teacher through analyzing language demands; this analysis becomes integrated into the content teacher's own planning over time. After the lesson, the pair debriefs to identify areas needing clarification and shares insights with colleagues.
 

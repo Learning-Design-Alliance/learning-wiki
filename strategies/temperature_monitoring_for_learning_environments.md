@@ -10,6 +10,8 @@ generated:
 
 # Temperature Monitoring for Learning Environments
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy involves systematically monitoring the temperature of a learning environment and making adjustments to maintain conditions within the range associated with optimal cognitive performance. Environments that are too cold increase distractibility and fidgeting; environments that are too warm produce discomfort, drowsiness, and reduced concentration. Implementation ranges from building-level HVAC policy to direct intervention — adjusting thermostats, opening windows, using fans, or giving learners personal control over their immediate environment.
 

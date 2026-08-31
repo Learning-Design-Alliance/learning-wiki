@@ -10,6 +10,8 @@ generated:
 
 # Picture Writing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Picture writing asks children — especially pre-writers — to express ideas through illustration before or alongside written text. The drawing serves as a plan: it sparks ideas, supplies details, and provides a framework the child can then describe in words. As literacy develops, the picture functions as a pre-writing scaffold, and the child's own emergent writing (labels, captions, sentences) is gradually layered onto it.
 

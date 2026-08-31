@@ -10,6 +10,8 @@ generated:
 
 # Balanced Assessment System
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A balanced assessment system deliberately coordinates three assessment types — formative (day-to-day evidence gathered during instruction), interim (periodic checks used to adjust instruction across weeks or units), and summative (end-of-unit or end-of-course evaluations of achievement). The design goal is coherence: each layer answers a different decision question, and the system as a whole feeds instructional decisions rather than merely documenting outcomes. Most of the system's instructional value comes from the formative layer [Assessment for learning improves achievement when evidence is actually used to adjust teaching.](../principles/assessment-for-learning.md) [+S].
 

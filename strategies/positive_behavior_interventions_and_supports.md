@@ -10,6 +10,8 @@ generated:
 
 # Positive Behavior Interventions and Supports
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Positive Behavior Interventions and Supports (PBIS) is a multi-tiered framework for establishing the social culture and behavioral supports needed for all students to succeed. Rather than reacting to misbehavior with punishment, schools explicitly teach behavioral expectations, acknowledge students who meet them, and escalate support through three tiers: universal expectations for all (Tier 1), targeted small-group supports (Tier 2), and intensive individualized interventions (Tier 3). Implementation is data-driven, with teams using office discipline referral (ODR) and attendance data to identify students needing additional support.
 

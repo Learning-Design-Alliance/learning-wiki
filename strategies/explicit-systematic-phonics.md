@@ -10,6 +10,8 @@ generated:
 
 # Explicit Systematic Phonics
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Explicit systematic phonics teaches letter–sound correspondences directly and in a deliberate sequence — from simple, high-utility patterns to more complex ones — with teacher modeling of blending and segmenting before independent application. "Explicit" means the correspondences are stated and demonstrated rather than left for learners to infer from text; "systematic" means a planned scope and sequence governs the order of introduction. It is carried out through short, frequent lessons that pair new correspondences with [decodable practice](../elements/practice.md) in reading words, sentences, and connected text.
 

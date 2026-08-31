@@ -10,6 +10,8 @@ generated:
 
 # Use Body Language and Demonstrations
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy pairs spoken or written instruction with non-verbal channels: gestures, facial expression, posture, and — most importantly — physical demonstration of the task itself. Instead of describing what to do, the instructor shows it, making the action observable and imitable. It draws on social learning theory: much procedural knowledge is acquired by observing a model rather than by decoding verbal descriptions [Bandura, A. (1977). Social learning theory.](../theories/social-learning-theory.md) [+S].
 

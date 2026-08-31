@@ -11,6 +11,8 @@ evidence_strength: unverified
 
 # Rubrics Improve Student Work Quality
 
+> **Claim** · [All claims](index.md)
+
 Rubrics — explicit scoring criteria shared with learners before they produce work — are claimed to improve the quality of that work by making expectations visible and supporting self-assessment.
 
 ## Subclaims

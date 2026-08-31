@@ -10,6 +10,8 @@ generated:
 
 # Analysis of Classroom Dynamics Through Shadowing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Shadowing places the observer in the student's seat: the observer follows one or more students through a lesson or full school day, recording what the student experiences — how long they sit passively, when they have opportunities to speak, move, or collaborate, and how the balance of lecture and [collaboration](../elements/collaboration.md) plays out. Because teachers rarely experience their own classrooms as students do (Lortie, 1975, calls this the "apprenticeship of observation"), shadowing surfaces dynamics — pacing, dead time, unequal participation, cognitive passivity — that are invisible from the front of the room. The goal is not evaluation of the teacher but diagnosis of the learning experience, feeding structured reflection and instructional change.
 

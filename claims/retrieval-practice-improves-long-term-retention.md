@@ -11,6 +11,8 @@ evidence_strength: strong
 
 # Retrieval Practice Improves Long Term Retention
 
+> **Claim** · [All claims](index.md)
+
 Actively recalling information from memory (retrieval practice, or the "testing effect") produces stronger long-term retention than restudying the same material. The claim concerns retention over meaningful delays (days or more), not immediate performance, where restudying often looks as good or better.
 
 ## Subclaims

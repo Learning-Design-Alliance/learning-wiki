@@ -10,6 +10,8 @@ generated:
 
 # Interactive Modeling
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Interactive Modeling is a structured instructional routine, developed by the [Responsive Classroom](https://www.responsiveclassroom.org) approach, for teaching academic, social, and behavioral skills. The educator names the skill and its purpose, demonstrates it while students observe, asks students what they noticed, invites one or more students to model it in turn, and then has the whole group practice immediately. Unlike a one-way [Demonstration](../elements/demonstration.md), the routine alternates modeling with student observation, verbalization, and rehearsal, so learners both see expert performance and generate it themselves.
 

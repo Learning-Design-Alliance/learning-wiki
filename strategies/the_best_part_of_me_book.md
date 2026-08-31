@@ -10,6 +10,8 @@ generated:
 
 # The Best Part of Me Book
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The class creates a collaborative book in which each student selects one part of their body they love, is photographed with it, and writes the name of the body part and the reason they love it. The strategy, popularized by photographer Wendy Ewald's published classroom project, combines photography, personal writing, and whole-class publication to promote self-esteem, positive body image, and community. The finished artifact gives every student a visible, valued place in a shared product.
 

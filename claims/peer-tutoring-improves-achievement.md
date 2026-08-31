@@ -11,6 +11,8 @@ evidence_strength: insufficient
 
 # Peer Tutoring Improves Achievement
 
+> **Claim** · [All claims](index.md)
+
 Learners who tutor peers — or who are tutored by them — tend to show higher achievement than learners receiving equivalent instruction without tutoring, with the strongest benefits typically accruing to the tutor.
 
 ## Subclaims

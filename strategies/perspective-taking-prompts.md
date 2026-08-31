@@ -10,6 +10,8 @@ generated:
 
 # Perspective Taking Prompts
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Perspective taking prompts direct learners to explicitly consider how another person — a character, historical actor, user, peer, or stakeholder — perceives a situation, what they know, what they want, and why they act as they do. They are carried out through structured questions ("What is she feeling here? Why might he have made that choice?"), writing tasks, role assignments, or [Role-Play](acting-role-play.md) scenarios that require learners to reason *from within* another position rather than merely *about* it.
 

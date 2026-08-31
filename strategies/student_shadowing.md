@@ -10,6 +10,8 @@ generated:
 
 # Student Shadowing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Student shadowing places an adult in the learner's seat for a full school day: the educator attends classes, completes assignments, eats lunch, and navigates transitions alongside a single student, observing without intervening. The goal is not evaluation but empathic, first-person insight into how instructional decisions, routines, and environments are actually experienced by students — data that is difficult to obtain through surveys or observation from the front of the room.
 

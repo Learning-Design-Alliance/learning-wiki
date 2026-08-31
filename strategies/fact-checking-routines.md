@@ -10,6 +10,8 @@ generated:
 
 # Fact Checking Routines
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Fact checking routines are explicit, repeatable procedures learners follow to evaluate the accuracy of a claim, source, or piece of media before using or sharing it. Rather than treating evaluation as an occasional lesson, the routine is practiced until it becomes a habitual response to new information. The most researched variant is *lateral reading* — leaving a source to investigate what independent sources say about it — which professional fact checkers use and novices typically do not.
 

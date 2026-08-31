@@ -10,6 +10,8 @@ generated:
 
 # Using Manipulatives
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Manipulatives are physical objects — counters, base-10 blocks, fraction strips, pattern blocks, geoboards, algebra tiles — that learners handle to model and reason about mathematical concepts. They serve to introduce, practice, or remediate ideas across number, algebra, geometry, measurement, and data strands. Effective use requires making the manipulative's mathematical structure transparent, connecting it explicitly to symbols and language, and fading it as learners internalize the concept.
 

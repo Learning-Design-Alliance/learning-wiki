@@ -11,6 +11,8 @@ evidence_strength:
 
 # Retrieval Fails Without Encoding
 
+> **Claim** · [All claims](index.md)
+
 Retrieval practice strengthens memory only for material that was first encoded into long-term memory; if learners never formed a usable memory representation, attempting retrieval produces little or no benefit.
 
 ## Subclaims

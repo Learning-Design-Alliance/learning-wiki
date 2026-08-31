@@ -10,6 +10,8 @@ generated:
 
 # Inclusive Cultural Response
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Inclusive Cultural Response involves addressing gaps in cultural learning and representation by adding and including texts and making changes in units of study. This cultural response addresses historical omissions by including authors, perspectives, and experiences traditionally marginalized to make content more relevant and engaging. It goes beyond swapping reading lists: units of study are restructured so that diverse perspectives shape the questions asked, not just the materials read.
 

@@ -10,6 +10,8 @@ generated:
 
 # Web-Based Dictionary & Thesaurus
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy integrates web-based dictionaries (e.g., Merriam-Webster, Wiktionary) and thesauruses (e.g., Thesaurus.com, WordHippo) into reading, writing, and vocabulary instruction so learners can resolve word meanings and find synonyms on demand. Unlike print references, digital tools offer instant search, audio pronunciation, embedded example sentences, and hyperlinked cross-references that support rapid, low-cost lookup during authentic reading and writing tasks.
 

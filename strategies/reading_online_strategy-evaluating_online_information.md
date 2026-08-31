@@ -10,6 +10,8 @@ generated:
 
 # Reading Online Strategy — Evaluating Online Information
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy teaches learners to treat online texts as claims requiring verification rather than as information to absorb. It includes checking who is behind a source, reading laterally (leaving the page to investigate it), corroborating claims across independent sources, and attending to evidence quality. Instruction is typically delivered through authentic web tasks with explicit modeling of expert evaluation moves.
 

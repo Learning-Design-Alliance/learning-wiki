@@ -10,6 +10,8 @@ generated:
 
 # Provide Manipulatives (Processing Speed)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Providing manipulatives means giving learners physical objects (counters, base-ten blocks, fraction tiles, algebra tiles) or their virtual equivalents that they can handle and rearrange to represent abstract ideas. For learners with slower processing speed, manipulatives externalize intermediate states of a problem, so working memory is not consumed by holding and transforming mental representations while also executing procedures.
 

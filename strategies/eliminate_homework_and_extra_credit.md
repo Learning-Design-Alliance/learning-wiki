@@ -10,6 +10,8 @@ generated:
 
 # Eliminate Homework and Extra Credit
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy removes homework scores and extra-credit points from final grades. Practice work is still assigned and often still expected, but it is treated as formative — feedback is given, completion may be monitored, yet the grade reflects only summative evidence of learning. Extra credit is eliminated because it inflates grades with points unrelated to mastery and disproportionately benefits students with more time and resources.
 

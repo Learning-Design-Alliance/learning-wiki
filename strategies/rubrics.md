@@ -10,6 +10,8 @@ generated:
 
 # Rubrics
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Rubrics are evaluation tools consisting of a set of criteria, a fixed scale, and descriptors that distinguish the differences in the levels of the scale. They are used to judge the degree of understanding, proficiency levels of skills, the quality of products or performances, and learner growth from one level to the next. Three types are common: holistic (an overall impression), analytic (distinct elements judged independently), and developmental (growth along a proficiency continuum).
 

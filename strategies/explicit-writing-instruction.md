@@ -10,6 +10,8 @@ generated:
 
 # Explicit Writing Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Explicit writing instruction teaches the components of skilled writing — planning, drafting, revising, sentence construction, and genre structure — through direct explanation, [modeling](../elements/act-it-out.md), guided practice, and independent application. The instructor makes invisible expert decisions visible (e.g., thinking aloud while planning a paragraph), then supports learners as they apply the same moves to their own text. It contrasts with immersion-only approaches that assume students will absorb writing skill from reading and frequent writing alone.
 

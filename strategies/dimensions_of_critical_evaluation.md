@@ -10,6 +10,8 @@ generated:
 
 # Dimensions of Critical Evaluation
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy makes the dimensions of critical evaluation explicit and teaches them as a differentiated framework rather than a single "is this credible?" judgment. Learners discuss four dimensions: **Relevance** (importance to a reading purpose), **Accuracy** (verifiable, up-to-date facts), **Bias/Perspective** (the author's position or slant), and **Reliability** (trustworthiness based on author and publishing body). Comparing the dimensions reveals a structural distinction: relevance and accuracy are judgments about the *content itself*, while perspective and reliability require examining *details about the author and agenda*. This gives learners a concrete way to remember that any evaluation must consider both the claims made and the author's expertise to make those claims.
 

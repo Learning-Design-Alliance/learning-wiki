@@ -10,6 +10,8 @@ generated:
 
 # Explicit Instruction: Argumentation with Evidence
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy directly teaches learners how to construct arguments and support claims with evidence, rather than leaving argumentation skill to develop implicitly through discussion. Instruction typically covers claim–evidence–reasoning structure (often via the Toulmin model), criteria for evaluating source quality, and the deliberate consideration of counterarguments. It is frequently applied in online and discussion-based settings, where unsupported opinion tends to dominate unless norms and skills are explicitly taught.
 

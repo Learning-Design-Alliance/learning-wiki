@@ -10,6 +10,8 @@ generated:
 
 # Culturally Responsive Teaching
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Culturally responsive teaching (CRT) uses students' cultural knowledge, prior experiences, and frames of reference as conduits for learning rather than obstacles to it. The teacher learns how students' identities — race, language, gender, ability, community — shape how they interpret instruction, then designs learning tasks, examples, and interactions that connect to those frames while building the independent cognitive capacity students need to succeed beyond the classroom (Gay, 2010; Hammond, 2015). Ladson-Billings (1995) framed the closely related construct of culturally relevant pedagogy as resting on three pillars: academic success, cultural competence, and sociopolitical consciousness.
 

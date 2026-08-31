@@ -11,6 +11,8 @@ evidence_strength: weak-to-moderate
 
 # Play Based Learning Improves Outcomes
 
+> **Claim** · [All claims](index.md)
+
 Guided play and structured play-based approaches can improve academic, social, and self-regulation outcomes relative to didactic instruction, though the strength of the effect depends heavily on how much adult scaffolding is built into the play.
 
 ## Subclaims

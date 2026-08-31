@@ -10,6 +10,8 @@ generated:
 
 # Patience
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Patience is the deliberate instructional stance of allowing learners extended time, repeated attempts, and emotional support when working through tasks that are new and difficult to them — such as analyzing mentor texts or practicing higher-order thinking. It is carried out through adjusted pacing, individualized feedback, and celebrating effort and progress rather than only outcomes. It is not lowered standards: the teacher persists in the expectation while persisting with the learner.
 

@@ -10,6 +10,8 @@ generated:
 
 # Decodable Texts
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Decodable texts are beginning-reader texts in which the majority of words can be sounded out using phonics correspondences already taught, plus a small set of irregular high-frequency words. They are sequenced to match a phonics scope and sequence, so that as new correspondences are introduced, the texts progressively include them. The strategy is carried out by aligning text selection with the instructional sequence: teach the pattern, then have students read connected text dominated by that pattern.
 

@@ -10,6 +10,8 @@ generated:
 
 # Claim Evidence Reasoning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Claim Evidence Reasoning (CER) is a scaffolding framework, developed for science education by McNeill and Krajcik, that structures learners' explanations into three components: a **claim** (an assertion answering a question), **evidence** (data or observations supporting the claim), and **reasoning** (a justification linking the evidence to the claim via a scientific principle). Learners produce written or oral explanations using this template, typically with sentence starters ("My claim is… The evidence for this is… This happens because…") that fade as proficiency grows.
 

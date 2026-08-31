@@ -10,6 +10,8 @@ generated:
 
 # Provide Feedback
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Providing feedback means giving learners information about the correctness, quality, or appropriateness of their performance, together with guidance on how to close the gap between current and desired performance. It is carried out through instructor comments, automated system responses, peer review, rubric-based evaluation, or self-assessment against criteria — ideally while the learner is still working toward the goal, not after it has passed.
 

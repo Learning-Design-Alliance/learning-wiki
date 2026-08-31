@@ -10,6 +10,8 @@ generated:
 
 # Student-Generated Questions
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Student-generated questions place learners in the role of question-askers rather than question-answerers: students formulate the questions that drive a project, investigation, or discussion, then pursue answers through research, experimentation, or dialogue. The strategy converts curiosity into an explicit artifact — a question — that structures subsequent inquiry and gives students ownership over the direction of learning.
 

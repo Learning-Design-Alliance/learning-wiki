@@ -10,6 +10,8 @@ generated:
 
 # Extended Writing Opportunities
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Extended writing opportunities give learners frequent, sustained practice composing text rather than limiting writing to occasional high-stakes assignments. Implementations range from daily skill-focused exercises (e.g., sentence-combining or fluency drills) to extended process writing with revision cycles, to digital chat and discussion features that let learners write for authentic audiences in real time or asynchronously. The strategy treats writing as both a skill to be developed through practice and a tool for learning content.
 

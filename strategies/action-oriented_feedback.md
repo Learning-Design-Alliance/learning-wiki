@@ -10,6 +10,8 @@ generated:
 
 # Action-Oriented Feedback
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Action-oriented feedback tells learners what to *do next*, not just what went wrong. Instead of marking grammar errors or assigning a grade, the teacher or peer suggests specific actions — "vary your sentence openings in paragraph two," "add a topic sentence that states your claim" — that the learner can carry out on the current draft or transfer to future writing. One-on-one [conferencing](../elements/coaching.md) and structured peer editing with concrete suggestions are the primary delivery mechanisms.
 

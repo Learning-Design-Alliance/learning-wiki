@@ -10,6 +10,8 @@ generated:
 
 # Share Teacher's Written Work
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Instructors share their own written work — current drafts, polished pieces, or writing from earlier in their education — with learners and invite feedback and criticism. The strategy models expert work-in-progress, normalizes revision, and positions feedback as a reciprocal practice rather than a one-way judgment. It is a form of [Demonstration](../elements/demonstration.md) applied to the writing process itself, with the instructor deliberately occupying the learner's role.
 

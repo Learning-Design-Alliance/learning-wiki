@@ -11,6 +11,8 @@ grain_size: lesson
 
 # Inquiry-Based Learning
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Inquiry-based learning is the short-form canonical pattern for organizing learning around investigation, evidence, and guided explanation.
 

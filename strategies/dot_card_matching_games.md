@@ -10,6 +10,8 @@ generated:
 
 # Dot Card Matching Games
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Dot card matching games present learners with cards showing dots in varied arrangements (dice patterns, ten-frames, irregular clusters) and ask them to find pairs with equal quantities or to pair dot cards with numeral cards. Because the same quantity appears in different spatial configurations, learners must abstract "fiveness" from any particular layout — either by rapid recognition (subitizing) or by structured counting. The game format turns repeated quantity comparison into a low-stakes, self-checking activity suited to early childhood and early elementary mathematics.
 

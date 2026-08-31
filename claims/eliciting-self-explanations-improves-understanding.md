@@ -11,6 +11,8 @@ evidence_strength:
 
 # Eliciting Self Explanations Improves Understanding
 
+> **Claim** · [All claims](index.md)
+
 When learners are prompted to explain to themselves why a step, statement, or example is correct, they integrate new material with prior knowledge and show deeper understanding than learners who only read or rehearse the material.
 
 ## Subclaims

@@ -10,6 +10,8 @@ generated:
 
 # Behavioral Shadowing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 An adult shadows a child closely (within arm's reach) to prevent specific harmful behaviors (e.g., biting, hitting) before they occur. The adult remains unobtrusive, avoiding special attention or punishment, while ensuring the safety of the child and classmates. The goal is to break the cycle of harmful behavior and teach alternative strategies, drawing on functional behavior assessment and positive behavior support principles [Behaviorism](../theories/behaviorism.md).
 

@@ -10,6 +10,8 @@ generated:
 
 # Leverage the Native Language
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy treats students' native languages as instructional resources: learners conduct research, collaborate, draft, and create products in their strongest language, often producing bilingual or multilingual artifacts. Instead of requiring all work to occur in the target language of instruction, the teacher designs tasks where the home language carries genuine cognitive and communicative load — deepening content learning while validating linguistic identity.
 

@@ -10,6 +10,8 @@ generated:
 
 # Circulate and Listen During Pair Talk
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Circulating and listening means the teacher moves purposefully around the room while students engage in [pair talk](../elements/collaboration.md), eavesdropping on conversations to assess understanding, surface misconceptions, and reinforce norms of productive dialogue. The teacher's stance is diagnostic rather than evaluative — gathering evidence in real time that can be used for immediate support and for planning subsequent instruction.
 

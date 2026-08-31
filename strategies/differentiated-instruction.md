@@ -10,6 +10,8 @@ generated:
 
 # Differentiated Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Differentiated instruction is a framework in which teachers proactively plan varied approaches to content (what students learn), process (how they work), and product (how they demonstrate learning), based on ongoing assessment of readiness, interest, and learner profile. The goal is not individualized instruction for every student, but a small number of purposeful pathways converging on the same essential learning goals.
 

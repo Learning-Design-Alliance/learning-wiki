@@ -10,6 +10,8 @@ generated:
 
 # Genre Study
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Genre study is an approach to teaching literature and composition in which learners read multiple texts within a specific genre, discuss and chart the elements that define it (structure, voice, conventions, audience expectations), and typically write their own pieces in that style. By treating genres as socially evolved patterns rather than arbitrary categories, the approach builds both comprehension — readers can anticipate a text's moves — and writing transfer, since knowledge of a genre's conventions directly supports producing text in it.
 

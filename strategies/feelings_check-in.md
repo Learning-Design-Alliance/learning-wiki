@@ -10,6 +10,8 @@ generated:
 
 # Feelings Check-In
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A feelings check-in is a short, low-stakes opening routine in which learners name or rate their current emotional state — via a mood scale, emoji board, color zones, one-word share, or a quick round-robin. It serves two functions simultaneously: developing learners' emotional vocabulary and self-awareness, and giving the instructor formative information about readiness to learn that can shape pacing and tone.
 

@@ -10,6 +10,8 @@ generated:
 
 # Model Texts
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Model texts (also called mentor texts or exemplars) are finished samples of the kind of writing learners are asked to produce — a persuasive essay, lab report, or short story written at or near target quality. Learners read, analyze, and discuss these texts to internalize genre structure, style, and quality criteria before drafting their own pieces.
 

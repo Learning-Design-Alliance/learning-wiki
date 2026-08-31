@@ -10,6 +10,8 @@ generated:
 
 # Literacy Centers
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Literacy centers are designated areas in the classroom where students work independently or collaboratively on meaningful literacy tasks — such as word work, listening, writing, or independent reading — to practice and extend skills taught during core instruction. The structure frees the teacher to deliver uninterrupted small-group reading instruction, enabling greater scaffolding and strategic coaching for the group at the table. Centers typically rotate on a schedule, with students moving between stations individually or in small groups.
 

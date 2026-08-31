@@ -10,6 +10,8 @@ generated:
 
 # KWL Charts
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 KWL charts are advance organizers divided into three columns: what students already **Know**, what they **Want to know**, and what they **Learned**. Before a lesson or unit, students complete the K and W columns — surfacing prior knowledge and generating questions. After instruction, they complete the L column, consolidating new learning and checking it against their initial expectations. The routine is typically carried out through individual writing followed by [class discussion](../elements/class-discussion.md).
 

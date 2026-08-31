@@ -10,6 +10,8 @@ generated:
 
 # Teacher Racial Identity Work
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Teacher racial identity work is the sustained, reflective process by which educators examine their own racial identity, implicit biases, and position within systems of racial privilege — and connect that self-understanding to their instructional decisions, relationships with students, and responses to race in the classroom. It is carried out through structured self-reflection, engagement with scholarship on race and racism, participation in facilitated peer dialogue, and deliberate learning about the racial identities and lived experiences of their students. Teachers who do this work model self-awareness and create conditions in which students can name inequity and advocate for themselves.
 

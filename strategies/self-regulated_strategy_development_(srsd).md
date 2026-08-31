@@ -10,6 +10,8 @@ generated:
 
 # Self-Regulated Strategy Development (SRSD)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 SRSD is an instructional approach designed to enhance students' writing skills by addressing their affective, behavioral, and cognitive characteristics. It integrates findings from cognitive development, behavior, and affect research. Teachers explicitly teach a genre-specific writing strategy (e.g., planning or revising), then scaffold students toward independent, self-regulated use of that strategy — including goal setting, self-monitoring, self-instruction, and self-reinforcement — while fostering positive attitudes about writing and about themselves as writers. The core goals are to develop knowledge about writing, support students' ability to monitor and manage their own writing, and promote positive attitudes toward writing.
 

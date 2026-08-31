@@ -21,6 +21,8 @@ grain_size: course
 
 # Merrill's First Principles of Instruction
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Merrill's First Principles of Instruction is a task-centered pattern that organizes learning around five recurring moves: problem-centered work, activation of prior knowledge, demonstration, application, and integration. Rather than prescribing a rigid lesson script, it identifies a set of instructional conditions that tend to support effective learning across many settings. The pattern is strongest when learners are working toward meaningful performance, not just isolated recall.
 

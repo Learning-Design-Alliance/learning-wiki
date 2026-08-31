@@ -10,6 +10,8 @@ generated:
 
 # Social Norms Marketing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Social norms marketing (also called the social norms approach) corrects widespread misperceptions of what peers actually do and believe. Learners overestimate how many peers engage in risky or disengaged behavior (e.g., heavy drinking, skipping class, cheating) and underestimate protective behaviors; campaigns publicize accurate data — "most students here have 0–4 drinks when they party" — to close the gap between perceived and actual norms. The strategy is carried out through targeted messages delivered via posters, orientation sessions, personalized feedback, or course communications, grounded in locally collected survey data rather than generic statistics.
 

@@ -10,6 +10,8 @@ generated:
 
 # Critical Friends Protocol
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The Critical Friends Protocol (CFP) is a structured peer-review process — most associated with the Annenberg Institute's National School Reform Faculty — in which a presenter shares work-in-progress and a small group of "critical friends" responds through timed, scripted steps: presentation, clarifying questions, warm and cool feedback, presenter reflection, and debrief. A facilitator enforces the norms (time limits, presenter silence during feedback, descriptive rather than evaluative language) so that critique is honest but psychologically safe. The protocol format converts informal, often vague peer feedback into disciplined public reasoning about a shared artifact.
 

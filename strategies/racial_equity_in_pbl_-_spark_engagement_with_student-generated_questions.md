@@ -10,6 +10,8 @@ generated:
 
 # Racial Equity in PBL - Spark Engagement with Student-Generated Questions
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy positions student-generated questions — not teacher-assigned prompts — as the driving force of project-based learning (PBL). Instead of presenting content and tasks, the facilitator invites students to ask what they genuinely want to know about a topic, then organizes the project around those questions. The equity rationale is explicit: traditional transmission-style instruction can function as one more site of disempowerment for Black and Latinx students, whereas authoring the questions that drive inquiry positions them as intellectual agents [Ladson-Billings' culturally relevant pedagogy](../principles/active-learning.md) [+M].
 

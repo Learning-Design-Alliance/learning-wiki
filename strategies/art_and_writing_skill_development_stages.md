@@ -10,6 +10,8 @@ generated:
 
 # Art and Writing Skill Development Stages
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Drawing and writing skills in early childhood develop through recognizable, loosely ordered stages: 1) Random Scribbling (15 months–2½ years), where children discover the marks their movements produce; 2) Controlled Scribbling (2–3 years), where marks become deliberate and repeated; 3) Lines and Patterns (2½–3½ years), where children grasp that writing consists of lines, curves, and repeated forms; 4) Pictures of Objects or People (3–5 years), where drawings become recognizable and increasingly detailed; and 5) Letter and Word Practice (3–5 years), where children experiment with letters — often those in their own names — and begin to understand that print carries meaning. Adults support this progression by supplying varied materials, attending to process over product, and treating early marks as meaningful communication rather than errors to correct.
 

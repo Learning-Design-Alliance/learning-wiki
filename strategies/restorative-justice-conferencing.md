@@ -10,6 +10,8 @@ generated:
 
 # Restorative Justice Conferencing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Restorative Justice Conferencing (RJC) brings together the person who caused harm, those harmed, and sometimes family or community members, in a structured meeting facilitated by a trained coordinator. Participants describe what happened, discuss its impact, and jointly agree on steps to repair the harm — apologies, restitution, service, or behavioral commitments. In schools, the same structure replaces exclusionary discipline with accountability conversations that keep students in community.
 

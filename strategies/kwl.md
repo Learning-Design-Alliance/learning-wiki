@@ -10,6 +10,8 @@ generated:
 
 # KWL
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 KWL is a graphic-organizer-based instructional routine in which learners first record what they already **Know** about a topic, then generate questions about what they **Want to know**, and after instruction record what they **Learned**. Developed by Ogle (1986) for expository reading, it structures the lesson around activation of prior knowledge, purpose-setting, and post-hoc verification of learning.
 

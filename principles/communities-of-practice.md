@@ -15,6 +15,8 @@ sources:
 
 # Communities of Practice
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Communities of practice are groups that deepen learning through sustained participation around a shared domain, problem space, or profession. Members do not just exchange information; they build shared language, norms, tools, and standards of practice over time. Learning happens through contribution, observation, feedback, and increasingly central participation in the work of the community.
 

@@ -11,6 +11,8 @@ evidence_strength:
 
 # Activation
 
+> **Claim** · [All claims](index.md)
+
 Activation refers to instructional moves that surface and engage learners' relevant prior knowledge before new material is introduced — for example, recall prompts, advance organizers, analogies, or discussion of prior experience.
 
 ## Subclaims

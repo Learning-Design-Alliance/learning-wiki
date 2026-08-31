@@ -16,6 +16,8 @@ evidence_strength: moderate
 
 # Different media combinations significantly affect the recall and retention of information
 
+> **Claim** · [All claims](index.md)
+
 How information is distributed across media channels (e.g., text, images, narration) changes how well learners recall and retain it, in line with the predictions of [Dual Coding Theory](../theories/dual-coding-theory.md).
 
 ## Subclaims

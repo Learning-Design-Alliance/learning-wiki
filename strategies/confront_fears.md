@@ -10,6 +10,8 @@ generated:
 
 # Confront Fears
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Confront Fears is a strategy in which learners name the specific fears (of failure, judgment, or the unknown) that block engagement, decompose them into a hierarchy of manageable steps, and approach them gradually while reappraising worst-case scenarios. It draws on exposure-based techniques from behavioral therapy and on cognitive restructuring: learners test catastrophic predictions against evidence, replacing avoidance with approach behavior. The result is a shift in inner dialogue from threat-avoidance to calculated risk-taking.
 

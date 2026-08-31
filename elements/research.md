@@ -10,6 +10,8 @@ generated:
 
 # Research
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Research as an instructional element places learners in the role of investigator: they pose or refine questions, gather and evaluate evidence, and construct defensible conclusions. It functions as an extended, learner-driven activity that develops both domain knowledge and the transferable practices of inquiry — searching, evaluating sources, analyzing data, and communicating findings.
 

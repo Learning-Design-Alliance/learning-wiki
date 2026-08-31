@@ -11,6 +11,8 @@ evidence_strength:
 
 # Expressive Writing Improves Exam Performance
 
+> **Claim** · [All claims](index.md)
+
 Brief expressive writing about exam-related worries, completed shortly before a high-stakes test, can offload anxious thoughts and free working-memory resources for the exam task itself. The claim concerns *performance* under pressure — helping students show what they already know — not the acquisition of new knowledge.
 
 ## Subclaims

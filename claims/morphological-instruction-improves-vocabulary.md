@@ -11,6 +11,8 @@ evidence_strength:
 
 # Morphological Instruction Improves Vocabulary
 
+> **Claim** · [All claims](index.md)
+
 Teaching learners to analyze and manipulate morphemes (prefixes, suffixes, roots, and inflections) improves vocabulary knowledge and supports word reading and comprehension.
 
 ## Subclaims

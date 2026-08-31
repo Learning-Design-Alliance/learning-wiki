@@ -10,6 +10,8 @@ generated:
 
 # Find the Total
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Find the Total is an early-numeracy activity in which learners are shown two dot cards and asked to determine the total number of dots. In a number-talk format, learners then explain *how* they found the total, making addition strategies (counting all, counting on, known doubles, making ten) publicly visible and comparable. The activity pairs a concrete visual representation with verbal explanation, building fluency, mental math, and part-whole understanding simultaneously.
 

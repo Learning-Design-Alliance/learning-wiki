@@ -10,6 +10,8 @@ generated:
 
 # Montessori Prepared Environment
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The prepared environment is the central organizing strategy of Montessori pedagogy: the teacher designs the classroom — its materials, furniture, routines, and social norms — so that children can select, manipulate, and master activities largely on their own. Materials are developmentally sequenced, self-correcting, and accessible on open shelves; the adult's role shifts from delivering instruction to observing, preparing, and intervening minimally. Structure is embedded in the environment itself rather than imposed moment-to-moment by the teacher.
 

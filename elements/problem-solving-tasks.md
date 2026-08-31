@@ -10,6 +10,8 @@ generated:
 
 # Problem-Solving Tasks
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Problem-solving tasks are structured activities in which learners must apply knowledge to reach a goal state that is not directly given — diagnosing a fault, designing a solution, or deciding among alternatives. Unlike routine exercises, they require learners to select and coordinate strategies, making them the primary vehicle for developing analytical reasoning and transferable skill.
 

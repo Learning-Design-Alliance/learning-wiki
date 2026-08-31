@@ -10,6 +10,8 @@ generated:
 
 # Phonics
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Phonics instruction teaches the systematic relationships between written symbols (graphemes) and speech sounds (phonemes), and trains learners to apply these relationships to decode words. It recommends explicit, sequenced teaching of letter–sound correspondences followed by immediate application to reading and spelling real words. Systematic phonics — teaching correspondences in a planned progression rather than incidentally — is one of the most consistently supported findings in reading research.
 

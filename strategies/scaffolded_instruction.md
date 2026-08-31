@@ -10,6 +10,8 @@ generated:
 
 # Scaffolded Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Scaffolded instruction provides temporary, adjustable support — hints, prompts, task structuring, worked models, or coaching — that enables learners to perform a task they could not yet complete independently, followed by systematic withdrawal of that support as competence grows. The term originates in Wood, Bruner, and Ross's (1976) study of adult tutoring, where effective tutors controlled task difficulty, marked relevant features, and modeled solutions only as needed. The metaphor implies both construction (the scaffold enables work at a height the learner cannot yet reach) and removal (it is dismantled, not left in place).
 

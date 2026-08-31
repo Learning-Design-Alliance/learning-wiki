@@ -10,6 +10,8 @@ generated:
 
 # Community Building on Student Voice
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Community building on student voice is the deliberate structuring of classroom time, routines, and norms so that students regularly share and discuss their thinking and see that input shaping the learning environment. Common mechanisms include daily [check-ins](../principles/check-ins.md), reflection sheets, sentence stems, and student-led [class discussion](../elements/class-discussion.md), which together build the confidence to speak up and advocate for one's own learning.
 

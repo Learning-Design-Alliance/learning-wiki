@@ -10,6 +10,8 @@ generated:
 
 # Question Answer Relationships
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Question Answer Relationships (QAR) is a metacognitive reading strategy in which learners are explicitly taught to categorize questions into types — "Right There" (answer stated in one place in the text), "Think and Search" (answer assembled across parts of the text), "Author and Me" (text clues combined with prior knowledge), and "On My Own" (answer drawn entirely from the learner's own knowledge) — and to select a search strategy matched to each type. Instruction typically moves from teacher-modeled classification, to guided sorting of questions, to learners generating and answering their own questions.
 

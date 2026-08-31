@@ -10,6 +10,8 @@ generated:
 
 # Metacognitive Strategies
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Metacognitive strategies teach students to think about their thinking: to plan an approach before a task, monitor comprehension and progress during it, and evaluate outcomes and strategy effectiveness afterward. They range from embedded prompts and checklists to explicit instruction in self-regulation routines, and they extend to managing motivation and effort, not just cognition.
 

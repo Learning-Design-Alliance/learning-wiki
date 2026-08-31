@@ -10,6 +10,8 @@ generated:
 
 # Family Engagement In Homework
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Family engagement in homework moves beyond the traditional "parent as enforcer" role toward structured participation: families interact with the learner around the content, monitor progress with autonomy support, or contribute as resources (sharing knowledge, materials, or real-world connections). The strategy is carried out through deliberately designed assignments — interactive tasks, clear communication of learning goals, and guidance for families on *how* to help — rather than leaving the family's role to chance.
 

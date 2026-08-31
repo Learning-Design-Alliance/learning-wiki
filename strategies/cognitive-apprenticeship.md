@@ -10,6 +10,8 @@ generated:
 
 # Cognitive Apprenticeship
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Cognitive apprenticeship adapts traditional apprenticeship methods — observation, coaching, and progressive independence — to cognitive skills that are normally invisible, such as reading comprehension, diagnosis, or mathematical problem solving. The expert first models the task while verbalizing the reasoning behind each move, then coaches learners as they attempt it, and finally requires them to articulate their own strategies, reflect on their performance against expert work, and explore independent applications. The method was formalized by Collins, Brown, and Newman (1989) as a sequence of modeling, coaching, scaffolding, articulation, reflection, and exploration.
 

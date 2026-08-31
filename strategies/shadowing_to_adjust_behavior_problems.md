@@ -10,6 +10,8 @@ generated:
 
 # Shadowing to Adjust Behavior Problems
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Shadowing is an intensive, temporary behavior-support strategy in which an adult remains in close physical proximity (typically arm's reach) to a child who engages in harmful or disruptive behavior such as biting, hitting, or elopement. The adult's dual role is to physically pre-empt incidents by anticipating triggers and interrupting the behavior chain, and to coach replacement behaviors in the moment — prompting and reinforcing an appropriate alternative (e.g., "Use your words" or handing over a break card) before the harmful behavior occurs.
 

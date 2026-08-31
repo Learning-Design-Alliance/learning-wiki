@@ -10,6 +10,8 @@ generated:
 
 # Game-Based Learning (GBL)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Game-based learning designs learning activities so that game characteristics — goals, rules, challenge, feedback, and often narrative — inhere within the learning activity itself. Games are used to reach specific learning objectives across knowledge, skills, and attitudes, whether as board games, role-plays, simulations, or digital games. GBL is distinct from [gamification](gamification.md), which applies game elements (points, badges, leaderboards) to non-game instruction without making the activity itself a game.
 

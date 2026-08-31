@@ -10,6 +10,8 @@ generated:
 
 # Draw To Explain
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Draw To Explain asks learners to produce their own drawing, sketch, or diagram that explains a concept, process, or causal system — not to view or copy one. The act of constructing the visual forces learners to select key ideas, organize spatial relationships, and integrate them with verbal knowledge, making it a generative activity rather than a receptive one. It is typically paired with a short verbal explanation or label requirement so the drawing must communicate, not merely decorate.
 

@@ -10,6 +10,8 @@ generated:
 
 # Strengths-Based IEPs
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A strengths-based IEP reframes the Individualized Education Program so that documented strengths, interests, and preferences are treated as instructional assets, not as pleasantries preceding a list of deficits. The team identifies what the learner *can* do — skills, strategies, and conditions under which performance succeeds — and writes goals that route progress on an area of need through that capability. Learners themselves contribute evidence and voice, which builds self-awareness and self-advocacy alongside academic progress.
 

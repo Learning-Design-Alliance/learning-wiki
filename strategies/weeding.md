@@ -10,6 +10,8 @@ generated:
 
 # Weeding
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Weeding is the deliberate removal of non-essential material — decorative graphics, tangential anecdotes, redundant on-screen text, background music, and unused interface features — from learning materials before delivery. It is carried out by auditing each element of a lesson or screen against the learning objective and deleting anything that does not support it, rather than adding cues or simplifying wording.
 

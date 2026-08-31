@@ -10,6 +10,8 @@ generated:
 
 # Collaborative Learning Space Design
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Collaborative learning space design is the deliberate arrangement of the physical (or virtual) learning environment to enable group work and peer interaction: large shared tables instead of rows of individual desks, mobile furniture and dividers that allow rapid reconfiguration, multiple seating options, and sightlines that let every participant see every other participant. The premise is that space is not neutral — physical layouts encode a pedagogy, and environments built for transmission make [Collaborative Learning](../principles/collaborative-learning.md) structurally difficult regardless of instructor intent.
 

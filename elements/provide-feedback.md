@@ -10,6 +10,8 @@ generated:
 
 # Provide Feedback
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Providing feedback gives learners information about the gap between their current and desired performance, so they can correct errors and refine understanding. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? (Hattie & Timperley, 2007). It functions as the corrective loop that makes [Practice](practice.md) productive rather than merely repetitive.
 

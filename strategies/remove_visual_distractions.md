@@ -10,6 +10,8 @@ generated:
 
 # Remove Visual Distractions
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy reduces the visual clutter of the learning environment — wall displays, desk materials, on-screen widgets, decorative graphics — so that learners' limited attention and working-memory resources are directed at the task rather than at incidental stimuli. It is carried out by auditing the physical or digital workspace, removing or hiding anything not serving the current learning goal, and restoring relevant materials only when they become relevant.
 

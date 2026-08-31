@@ -10,6 +10,8 @@ generated:
 
 # Countdown Technique
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The countdown technique involves the teacher counting down from a number — such as "I need two people… you know who you are. I need one person…" — to prompt students to quiet down and focus. Modeled by Doug Lemov in *Teach Like a Champion*, it is a minimally invasive way to regain attention and establish quiet. The countdown creates a bounded, predictable window for compliance, converting an open-ended demand ("be quiet") into a concrete, time-limited expectation.
 

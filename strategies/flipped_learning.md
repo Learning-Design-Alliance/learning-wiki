@@ -10,6 +10,8 @@ generated:
 
 # Flipped Learning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Flipped learning reverses the traditional sequence: learners encounter new content individually before class — usually through short recorded videos, readings, or podcasts — and class time is devoted to active learning such as problem-solving, discussion, and group work with the instructor present to coach. The design logic is that first exposure is well suited to individual study (it can be paused, replayed, and self-paced), while application benefits most from expert support and peer interaction. Flipping only the logistics is insufficient; the approach depends on what class time is *used for*, not merely on moving lectures online.
 

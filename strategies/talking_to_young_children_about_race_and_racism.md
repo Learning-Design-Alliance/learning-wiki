@@ -10,6 +10,8 @@ generated:
 
 # Talking to Young Children About Race and Racism
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy involves parents and caregivers proactively initiating conversations with young children (roughly ages 3–8) about race, racism, and anti-racism, rather than waiting for children to raise the topic or adopting a "colorblind" silence. Conversations are honest, specific, and developmentally calibrated, and are typically supported by curated media, picture books, play guides, and discussion prompts. The adult's role is to name unfairness when children observe it, answer questions directly, and model anti-racist responses.
 

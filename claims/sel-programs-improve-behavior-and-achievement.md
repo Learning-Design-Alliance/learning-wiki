@@ -11,6 +11,8 @@ evidence_strength: pending
 
 # SEL Programs Improve Behavior And Achievement
 
+> **Claim** · [All claims](index.md)
+
 School-based social-emotional learning (SEL) programs that explicitly teach self-regulation, social skills, and responsible decision-making improve students' behavioral outcomes and academic achievement.
 
 ## Subclaims

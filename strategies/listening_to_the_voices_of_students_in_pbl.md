@@ -10,6 +10,8 @@ generated:
 
 # Listening to the Voices of Students in PBL
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Listening to the voices of students means structuring project-based learning so that students have genuine authorship — they pose questions, tell their own stories, make consequential decisions about project direction, and see their input visibly shape the work. It is carried out through elicitation (structured sharing and discussion), responsiveness (instructor acts on what students say), and shared leadership (students hold roles with real decision rights). This contrasts with traditional transmission models in which students are positioned as recipients rather than co-designers of learning.
 

@@ -11,6 +11,8 @@ evidence_strength: weak
 
 # Checklist-based evaluation instruction does not reliably improve online source evaluation
 
+> **Claim** · [All claims](index.md)
+
 Teaching learners to evaluate online information via static checklists (e.g., source-evaluation rubrics applied to a single page) does not reliably produce sound evaluation of web sources.
 
 ## Subclaims

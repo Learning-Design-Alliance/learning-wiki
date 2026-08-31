@@ -10,6 +10,8 @@ generated:
 
 # Precorrection
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Precorrection is a low-intensity behavioral strategy in which the teacher anticipates a predictable problem situation and intervenes *before* it occurs — stating the expectation, prompting the desired behavior, and often having students rehearse it. It shifts behavior management from reactive correction to proactive support, and is typically delivered in the natural setting in under a minute.
 

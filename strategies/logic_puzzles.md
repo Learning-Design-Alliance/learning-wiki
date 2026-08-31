@@ -10,6 +10,8 @@ generated:
 
 # Logic Puzzles
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Logic puzzles are self-contained problems governed by explicit rules, where the solution must be derived through deduction rather than recalled or guessed. Common forms include grid-logic puzzles (e.g., Einstein's riddle), Sudoku, knights-and-knaves problems, and non-verbal matrix puzzles (e.g., Raven's-style items). As a learning strategy, they are carried out by presenting a puzzle, giving learners time to attempt it individually or in pairs, then debriefing the reasoning path — not just the answer.
 

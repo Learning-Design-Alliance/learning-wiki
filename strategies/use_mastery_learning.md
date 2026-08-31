@@ -10,6 +10,8 @@ generated:
 
 # Use Mastery Learning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Mastery learning restructures the traditional instructional contract: instead of holding instructional time constant and letting achievement vary, it holds achievement constant at a criterion level and lets time and support vary. Learners study a unit, take a [formative assessment](../elements/assessment.md), and receive corrective instruction targeted at their specific gaps; they advance only after demonstrating the criterion, typically 80–90% correct.
 

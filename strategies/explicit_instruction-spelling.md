@@ -10,6 +10,8 @@ generated:
 
 # Explicit Instruction: Spelling
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Explicit spelling instruction directly teaches spelling rules, patterns, and strategies through structured lessons, clear explanations, and systematic practice rather than relying on incidental learning or discovery. Effective programs teach regular spelling patterns, high-frequency words (regular and irregular), and frequently misspelled words. Core techniques include test-study-test cycles — students correct their own errors immediately after a pretest — and explicit phoneme–grapheme mapping. For irregular words, a "spell-out" method is used: students say the word, spell it aloud, then say it again. Recurring review and recycling of frequently misspelled words ensures accountability and mastery.
 

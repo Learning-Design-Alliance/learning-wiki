@@ -10,6 +10,8 @@ generated:
 
 # Mental Models
 
+> **Element** · [All elements](index.md)
+
 ## Description
 A mental model is a learner's internal representation of how a system, process, or domain works — a runnable structure they can use to explain phenomena, predict outcomes, and simulate "what happens if…" scenarios. Instruction that targets mental models aims to build, refine, or repair these representations rather than only transmitting facts or procedures.
 

@@ -11,6 +11,8 @@ evidence_strength: weak
 
 # Pretesting enhances learning
 
+> **Claim** · [All claims](index.md)
+
 Attempting to answer questions about material before it has been taught — even when those attempts fail — improves retention and transfer of that material relative to studying without a pretest. The claim covers pre-instruction testing on *not-yet-learned* material; it is distinct from retrieval practice on already-learned material.
 
 ## Subclaims

@@ -10,6 +10,8 @@ generated:
 
 # Five-Stage Problem-Solving Model
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A five-stage model that scaffolds learners through a complete problem-solving cycle: (1) understand the problem by restating it in their own words, (2) describe the barriers standing between them and the goal, (3) identify multiple possible solutions, (4) try a solution while keeping accurate records of thoughts and procedures, and (5) evaluate the results. The model externalizes the metacognitive and self-regulatory moves that skilled problem-solvers perform implicitly, making them explicit and teachable.
 

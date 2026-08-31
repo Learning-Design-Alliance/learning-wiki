@@ -10,6 +10,8 @@ generated:
 
 # Summarization
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Summarization instruction explicitly teaches learners how to identify the most important information in a text, condense it, and restate it coherently in their own words. Learners then practice writing summaries across increasingly complex texts, with feedback on their selections and phrasing. Having learners write summaries of what they read is a key recommendation of the *Writing to Read* report, and summarization is an increasingly common expectation as students advance and are assigned more complex texts to read and comprehend.
 

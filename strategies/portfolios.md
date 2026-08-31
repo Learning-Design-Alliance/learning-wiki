@@ -10,6 +10,8 @@ generated:
 
 # Portfolios
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A portfolio is a purposeful, curated collection of a learner's work assembled over time, accompanied by the learner's own reflection on what each artifact shows about their learning. Unlike a folder of everything, a portfolio requires selection against criteria — the learner must justify why each piece is included and what it evidences. Portfolios serve both assessment (documenting competence) and learning (driving self-evaluation and goal-setting).
 

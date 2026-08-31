@@ -10,6 +10,8 @@ generated:
 
 # Reframing Negative Self-Talk
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Reframing is a cognitive strategy in which learners identify negative self-statements ("I always fail at this," "Everyone knows I can't win") and deliberately restate them as more constructive, accurate alternatives ("This is hard, but I'll learn something from trying"). Students typically draw on self-talk logs or journals to surface their own negative messages, then practice converting them — often addressing a named persona for their inner critic (e.g., "Ruthless Ralph") to externalize and depersonalize the thought. The strategy adapts cognitive restructuring techniques from cognitive-behavioral therapy into classroom practice.
 

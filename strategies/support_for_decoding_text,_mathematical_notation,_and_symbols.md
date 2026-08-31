@@ -10,6 +10,8 @@ generated:
 
 # Support for Decoding Text, Mathematical Notation, and Symbols
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy reduces the decoding burden of written text, mathematical notation, and domain symbols so that learners' limited working memory is spent on the target learning goal rather than on parsing the representation itself. Supports include pre-teaching symbol meanings, glossaries and pronunciation guides, scaffolded notation introduction, read-aloud and text-to-speech options, and progressively fading decoding aids as fluency develops.
 

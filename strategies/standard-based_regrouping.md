@@ -10,6 +10,8 @@ generated:
 
 # Standard-Based Regrouping
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Standard-based regrouping forms temporary, homogeneous groups based on learners' demonstrated mastery of *specific standards* rather than general ability. Learners are assessed formatively — through pre-assessments, warm-up questions, and exit tickets — to identify which standards they have not yet mastered; learners from multiple classes or sections can be pooled into groups targeted at a single standard. Groups are fluid: they dissolve and reform as mastery data change, so placement reflects current skill on a defined objective, not a fixed label.
 

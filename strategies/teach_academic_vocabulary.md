@@ -10,6 +10,8 @@ generated:
 
 # Teach Academic Vocabulary
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Teaching academic vocabulary means identifying the discipline-specific and high-utility words a text, task, or project depends on, then providing explicit instruction on their meanings and uses rather than leaving learners to infer them from context. Instruction typically includes student-friendly definitions, multiple encounters across contexts, and active use of the words in speaking and writing. While all students benefit, English language learners often need more targeted and extended support.
 

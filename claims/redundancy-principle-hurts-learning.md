@@ -11,6 +11,8 @@ evidence_strength: low
 
 # Redundancy Principle Hurts Learning
 
+> **Claim** · [All claims](index.md)
+
 Presenting the same information in multiple simultaneous formats (e.g., on-screen text duplicating narration, or graphics labeled with text that repeats what is already shown) imposes extraneous cognitive load and can impair learning compared with a single well-chosen format.
 
 ## Subclaims

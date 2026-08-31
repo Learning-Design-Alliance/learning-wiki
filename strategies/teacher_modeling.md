@@ -10,6 +10,8 @@ generated:
 
 # Teacher Modeling
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Teacher modeling is the instructor's live demonstration of a cognitive or productive strategy — most commonly in writing instruction — by performing it in front of students while narrating the decisions, false starts, and revisions involved. Unlike a polished exemplar, modeling makes the *process* visible, including the teacher's own difficulty and self-correction. It is the classroom enactment of [Demonstration](../elements/demonstration.md) combined with [Articulation](../elements/articulation.md) of expert thinking.
 

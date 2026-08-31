@@ -10,6 +10,8 @@ generated:
 
 # Provide Instructions Before Starting Work
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy delivers complete, comprehensible task instructions *before* learners begin work, so they understand the goal, the required steps, and the criteria for success before investing effort. Instructions specify what to do, in what order, with what resources, and against what standard — reducing aimless exploration and wasted effort during the task itself.
 

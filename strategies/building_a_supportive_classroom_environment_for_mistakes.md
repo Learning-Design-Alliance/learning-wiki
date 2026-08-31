@@ -10,6 +10,8 @@ generated:
 
 # Building a Supportive Classroom Environment for Mistakes
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy comprises concrete teacher behaviors that reframe errors as learning opportunities: explaining *why* answers are wrong rather than only marking them, allowing students to revise and resubmit work, weighting improvement in evaluation, and responding to wrong answers in discussion by asking students to explain their reasoning and starting from what is correct. Complementary practices include showcasing instructive mistakes, holding regular class meetings to share errors and lessons learned, and teachers modeling their own mistakes. The goal is to lower the social and emotional cost of error so students attempt, disclose, and repair their thinking publicly.
 

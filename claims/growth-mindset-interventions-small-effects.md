@@ -11,6 +11,8 @@ evidence_strength: weak
 
 # Growth mindset interventions produce small positive effects on academic outcomes
 
+> **Claim** · [All claims](index.md)
+
 Brief interventions teaching learners that abilities are malleable can improve motivation and achievement, but meta-analytic evidence indicates the average effects on academic performance are small and highly conditional on context.
 
 ## Subclaims

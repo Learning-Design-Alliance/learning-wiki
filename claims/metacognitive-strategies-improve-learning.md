@@ -11,6 +11,8 @@ evidence_strength: moderate
 
 # Metacognitive Strategies Improve Learning
 
+> **Claim** · [All claims](index.md)
+
 Learners who are taught to plan, monitor, and evaluate their own thinking — for example, by setting goals, checking comprehension, and reflecting on strategy use — achieve better learning outcomes than learners who receive instruction alone.
 
 ## Subclaims

@@ -10,6 +10,8 @@ generated:
 
 # Simulations
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Simulations use electronic or software-based activities to model a real-world situation to which a learner must react — operating equipment, managing a patient, negotiating with a customer, or responding to a system failure. Learners practice skills, make decisions, and experience the consequences of mistakes in a safe environment. Long established in aviation and healthcare, simulation-based training is spreading across industries as AI and VR lower the cost of realistic scenario generation.
 

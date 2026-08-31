@@ -10,6 +10,8 @@ generated:
 
 # Purposeful Scheduling for Learner Connections
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Purposeful scheduling treats relationship-building as an instructional activity with dedicated time, rather than something left to chance. Instructors embed structured get-to-know activities, one-on-one conferences, and informal contact (before/after class, sitting with groups during work) into the course schedule. The information gathered is then used to personalize content and connect instruction to learners' experiences.
 

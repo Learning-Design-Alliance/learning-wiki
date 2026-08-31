@@ -10,6 +10,8 @@ generated:
 
 # Writing Prompts
 
+> **Element** · [All elements](index.md)
+
 ## Description
 A writing prompt specifies a task that requires learners to generate written text — an explanation, argument, reflection, or summary — rather than select or recognize a response. Prompts function both as learning activities (writing to consolidate understanding) and as assessment instruments (writing to reveal it), and their design determines which of these functions dominates.
 

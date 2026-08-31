@@ -10,6 +10,8 @@ generated:
 
 # Brain-Based Learning with Movement Breaks
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy intersperses short, structured movement breaks and socially interactive activities between segments of instruction, so that content is processed in smaller chunks with physical activity in between. Rather than treating movement as a reward or diversion, it positions brief physical activity as a mechanism for restoring attention, consolidating learning, and re-engaging students before the next instructional segment.
 

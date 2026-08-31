@@ -10,6 +10,8 @@ generated:
 
 # Culturally Responsive Curriculum Scorecards
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Culturally Responsive Curriculum Scorecards are structured rubric instruments that rate a curriculum or instructional material on dimensions such as representation, authorship diversity, linguistic accessibility, community relevance, and opportunities for student voice. They are typically co-developed and applied by coalitions of educators, families, and students — most prominently through the NYU Metropolitan Center's Culturally Responsive-Sustaining Education framework — converting a values commitment into itemized, scoreable criteria that produce actionable redesign decisions.
 

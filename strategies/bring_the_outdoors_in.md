@@ -10,6 +10,8 @@ generated:
 
 # Bring the Outdoors In
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Bring the Outdoors In is an environmental design strategy that treats indoor and outdoor space as a continuous learning environment rather than separating "classroom" from "outside." It is carried out by physically opening the classroom to nature (roll-back doors, windows with green views, outdoor work zones), scheduling instructional time outdoors, and maximizing natural light indoors. The strategy draws on attention restoration theory and biophilic design: natural settings replenish depleted directed-attention resources and reduce physiological stress.
 

@@ -10,6 +10,8 @@ generated:
 
 # Interactive Video Quizzing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Interactive video quizzing embeds questions — multiple choice, short answer, or reflection prompts — at defined points within a video, pausing playback until the learner responds. It converts passive viewing into retrieval practice and gives instructors analytics on where comprehension breaks down. Common implementations include [Edpuzzle](https://edpuzzle.com), [PlayPosit](https://www.playposit.com), [H5P Interactive Video](https://h5p.org/interactive-video), and native quizzing in [Panopto](https://www.panopto.com) and Kaltura.
 

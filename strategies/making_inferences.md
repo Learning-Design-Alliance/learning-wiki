@@ -10,6 +10,8 @@ generated:
 
 # Making Inferences
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Making inferences requires readers to draw conclusions from information in a text that the author does not explicitly state. Readers combine textual clues with their own background knowledge to "read between the lines," building a coherent situation model of what the text describes. Because authors routinely leave connections unstated, comprehension depends on the reader actively generating these bridging inferences rather than passively decoding stated propositions [Constructing inferences during narrative text comprehension.](https://doi.org/10.1037/0033-295X.101.3.371) [+S].
 

@@ -10,6 +10,8 @@ generated:
 
 # Word Walls
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Word walls display key vocabulary words in a prominent, persistent location so learners have constant access to high-leverage terms during instruction, discussion, and independent work. They are carried out by curating a growing collection of words, explicitly teaching them, and requiring learners to use them in writing and talk. Words can be arranged by linguistic features, synonyms, or topical relationships, and the wall can be reorganized as understanding deepens. Digital word walls (e.g., Padlet) make the collection collaborative and portable.
 

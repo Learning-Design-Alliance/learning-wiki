@@ -10,6 +10,8 @@ generated:
 
 # Spaced Repetition
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Spaced repetition schedules repeated encounters with the same material across time, with intervals expanding as items become better learned (e.g., 1 day, 3 days, 1 week, 1 month). It is typically implemented with [retrieval practice](../elements/practice.md): each spaced encounter is a test or active recall attempt rather than a rereading. The schedule can be fixed (e.g., expand at a set ratio) or adaptive, driven by learner performance and predicted forgetting.
 

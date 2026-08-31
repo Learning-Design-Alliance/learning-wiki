@@ -10,6 +10,8 @@ generated:
 
 # Keyboarding Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Keyboarding instruction teaches learners to type by touch — keys mapped to fingers, eyes on the screen or copy rather than the keyboard — through explicit finger-position teaching, structured drill, and timed practice with accuracy and speed feedback. The goal is automaticity: transcription that runs without conscious attention, freeing working memory for the real task of composing text.
 

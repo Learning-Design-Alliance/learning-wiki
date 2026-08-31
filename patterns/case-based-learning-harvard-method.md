@@ -17,6 +17,8 @@ grain_size: lesson
 
 # Case-Based Learning (Harvard Method)
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Case-based learning in the Harvard method uses a carefully written case as the center of discussion, analysis, and decision making. Learners study a realistic situation, identify the central problem, weigh competing interpretations, and defend a course of action in discussion. The pattern does not treat the case as an illustration after the fact; the case is the primary vehicle through which learners reason.
 

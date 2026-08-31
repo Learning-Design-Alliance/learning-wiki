@@ -10,6 +10,8 @@ generated:
 
 # Student Reflection (Responsible Decision-Making)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy uses structured reflection — guided prompts, journals, decision frameworks, and debrief conversations — to help students examine how they make behavioral and social choices. Responsible decision-making, as defined by the [CASEL framework](https://casel.org/fundamentals-of-sel/), involves identifying problems, analyzing situations, evaluating consequences, and reflecting on ethical responsibility. Reflection converts lived experience into examined experience: students revisit decisions they made (or scenarios they analyzed), articulate their reasoning, and consider what they would do differently.
 

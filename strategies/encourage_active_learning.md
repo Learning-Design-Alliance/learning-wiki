@@ -10,6 +10,8 @@ generated:
 
 # Encourage Active Learning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Active learning positions learners as generators, not receivers, of cognitive work: they discuss, write, solve, teach, and apply material during instruction rather than only afterward. The strategy spans a continuum from simple (think-pair-share, minute papers) to complex (problem-based inquiry, peer instruction), but its defining feature is that learners must do something with the content — retrieve it, connect it to prior experience, or use it to produce an answer — while the instructor is present to guide and correct. Making the learning process itself explicit ("why we are doing this activity") is part of the strategy, not an add-on.
 

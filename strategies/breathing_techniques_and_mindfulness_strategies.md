@@ -10,6 +10,8 @@ generated:
 
 # Breathing Techniques and Mindfulness Strategies
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Teaching breathing techniques and mindfulness strategies equips students with tools to manage challenging situations. Learners are explicitly taught practices — such as paced diaphragmatic breathing, body scans, and brief attention-anchoring exercises — that help them notice their emotional and physiological states and down-regulate arousal before it disrupts learning or behavior. The goal is a repertoire of self-regulation moves students can deploy independently, not a one-off relaxation activity.
 

@@ -10,6 +10,8 @@ generated:
 
 # Chunking Information
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Chunking organizes content into small, meaningful units — each small enough to be processed as a single item in working memory — and sequences those units so learners can consolidate them into larger schemas before the next load arrives. It is carried out by segmenting text, video, diagrams, or instruction into coherent parts, labeling each part, and ordering them from simple to complex.
 

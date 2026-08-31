@@ -10,6 +10,8 @@ generated:
 
 # Positive Behavioral Interventions and Supports (PBIS)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 PBIS is a multi-tiered behavioral framework in which schools explicitly define, teach, and reinforce a small set of positive behavioral expectations (e.g., "be safe, be respectful, be responsible") across all settings. Tier 1 applies universal expectations and acknowledgment systems to all students; Tier 2 adds targeted group supports (e.g., check-in/check-out); Tier 3 provides individualized, function-based behavior plans. The approach is carried out through direct teaching of routines, frequent positive acknowledgment, consistent consequences, and continuous data-based decision-making.
 

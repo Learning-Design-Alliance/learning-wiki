@@ -10,6 +10,8 @@ generated:
 
 # Project-Based Learning (PBL) in Math
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Project-Based Learning (PBL) is a teaching method in which learners gain knowledge and skills by working for an extended period to investigate and respond to a complex, authentic question, problem, or challenge. In mathematics, this means anchoring concepts — ratio, functions, statistics, geometry — in real-world contexts such as designing a structure, auditing a budget, or modeling a community problem. Learners typically work in groups with substantial self-direction, while the instructor acts as facilitator, providing just-in-time instruction as the mathematics becomes necessary to the project.
 

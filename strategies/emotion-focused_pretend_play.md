@@ -10,6 +10,8 @@ generated:
 
 # Emotion-Focused Pretend Play
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The teacher or caregiver enters children's pretend play in the dramatic play area and, as a co-player, starts conversations about how the imaginary characters feel — "Why is your baby crying? What will make her happy?" Children are helped to give their characters emotions, act those emotions out, and respond to the emotions of others' characters. The adult's role is that of a [coaching](../elements/coaching.md) co-player who scaffolds emotion vocabulary and perspective-taking within the play itself, rather than directing it.
 

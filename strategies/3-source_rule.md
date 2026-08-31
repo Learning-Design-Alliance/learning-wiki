@@ -10,6 +10,8 @@ generated:
 
 # 3-Source Rule
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 When students conduct online research, the teacher enforces a rule that any factual claim must be confirmed across three different websites before it can be used. The rule operationalizes *corroboration* — one of the core historical-thinking heuristics alongside sourcing and contextualization — by forcing students to seek independent confirmation rather than trusting the first result. The classic test case is the "tree octopus" hoax site: a claim can appear on three sites and still be false if all three copy the same misinformation, which is precisely why the rule must be paired with source-quality evaluation.
 

@@ -10,6 +10,8 @@ generated:
 
 # Estimation Activities
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Estimation activities ask learners to commit to a plausible approximate answer — a magnitude, range, or order-of-magnitude judgment — before they compute, measure, or receive the exact value. The estimate activates prior knowledge, sets up a comparison point, and creates a low-stakes prediction whose confirmation or violation drives learning.
 

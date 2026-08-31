@@ -10,6 +10,8 @@ generated:
 
 # Reflective Writing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Reflective writing asks learners to write about their own learning — what they did, what confused them, what strategies worked, and what they would do differently — rather than only about subject-matter content. It is carried out through prompts, journals, learning logs, or post-task debriefs, typically with structure (e.g., Gibbs' cycle, "What? So what? Now what?") that moves learners beyond description toward analysis and planning.
 

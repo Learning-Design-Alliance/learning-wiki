@@ -10,6 +10,8 @@ generated:
 
 # Graphic Organizers for Classroom Management
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy applies the visual-structuring power of [Graphic Organizers](../elements/graphic-organizers.md) to classroom management: the most important policies, procedures, and expectations are rendered as diagrams, flowcharts, matrices, or visual schedules rather than (or alongside) verbal statements. Students can see at a glance what to do, in what order, and what the consequences or next steps are, reducing ambiguity and the need for repeated verbal redirection.
 

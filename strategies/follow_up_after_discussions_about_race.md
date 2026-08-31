@@ -10,6 +10,8 @@ generated:
 
 # Follow Up After Discussions About Race
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy treats a classroom discussion about race as the beginning of a change process rather than an end in itself. After the discussion, the teacher takes or facilitates actions that address the inequities it revealed — for example, helping students write letters to a newspaper editor, accompanying a representative group of students to speak with the principal about how students are being treated, or adjusting classroom and school practices the discussion exposed as unfair. Learners are given real time to do something that changes the learning environment, converting talk into agency.
 

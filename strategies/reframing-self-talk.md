@@ -10,6 +10,8 @@ generated:
 
 # Reframing Self Talk
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Reframing self talk teaches learners to monitor their internal dialogue, identify automatic negative or catastrophic interpretations ("I'm bad at math," "I always fail under pressure"), and replace them with statements that are accurate, task-focused, and actionable ("I haven't mastered this procedure yet; let me rework step two"). It is typically carried out through explicit instruction, modeled examples, sentence stems or cue cards, and repeated practice during challenging tasks until the replacement dialogue becomes habitual.
 

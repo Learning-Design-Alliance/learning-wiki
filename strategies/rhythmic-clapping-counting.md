@@ -10,6 +10,8 @@ generated:
 
 # Rhythmic Clapping/Counting
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The teacher claps or counts out a rhythm pattern (e.g., "clap-clap-pause, clap-clap-clap" or "1-2-rest, 1-2-3"), and students listen before imitating it back. The cycle of model–imitate–vary can be repeated with increasing complexity, and students can eventually compose and lead their own patterns. The strategy converts an abstract pattern into a multimodal, embodied experience combining auditory, verbal, and motor channels.
 

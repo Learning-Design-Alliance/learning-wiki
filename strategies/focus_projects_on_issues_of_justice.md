@@ -10,6 +10,8 @@ generated:
 
 # Focus Projects on Issues of Justice
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Projects center on authentic issues of justice — inequity, access, discrimination, community wellbeing — that matter to students and their communities. Rather than treating content as abstract schoolwork, learners investigate a real problem, analyze its causes, and produce work intended to have impact, positioning them as agents of change rather than passive recipients of curriculum. This promotes engagement and emphasizes the role of education in addressing social justice issues.
 

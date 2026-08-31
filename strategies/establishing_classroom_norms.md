@@ -10,6 +10,8 @@ generated:
 
 # Establishing Classroom Norms
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Establishing classroom norms means making expectations for behavior, participation, and academic work explicit, teachable, and shared — rather than leaving them implicit or imposed. It is typically carried out in the first days of a course through discussion, co-construction with learners, and deliberate modeling and rehearsal of the norms, followed by consistent, low-stakes reinforcement.
 

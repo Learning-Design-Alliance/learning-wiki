@@ -10,6 +10,8 @@ generated:
 
 # Student Assessment Reports
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Student assessment reports are structured documents — frequently incorporating charts, pictograms, color coding, and plain-language summaries — that communicate learner progress against defined criteria to students, parents, and other stakeholders. Well-designed reports do more than transmit scores: they translate assessment data into actionable information, making visible what has been mastered, what remains, and what to do next. Design choices (visual hierarchy, accessible language, progress-over-time framing) determine whether the report functions as a communication tool or merely a data dump.
 

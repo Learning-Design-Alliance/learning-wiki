@@ -10,6 +10,8 @@ generated:
 
 # Rich Resources: Diversity
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Rich Resources: Diversity means deliberately curating the texts, examples, cases, media, and expert voices used in instruction so that they represent a range of cultures, identities, disciplines, and viewpoints. Learners encounter both "mirrors" (materials reflecting their own experience) and "windows" (materials opening onto others' experience), which supports identity development, empathy, and more flexible conceptual understanding.
 

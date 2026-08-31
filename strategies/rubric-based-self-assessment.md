@@ -10,6 +10,8 @@ generated:
 
 # Rubric Based Self Assessment
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Rubric based self assessment asks learners to judge their own draft or performance against explicit, criterion-referenced descriptors before (or instead of) receiving instructor evaluation. Learners rate their work on each criterion, cite evidence for the rating, and identify revisions. The rubric converts tacit quality standards into visible, actionable criteria, making the learner an active participant in evaluation rather than a passive recipient of grades.
 

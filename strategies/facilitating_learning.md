@@ -10,6 +10,8 @@ generated:
 
 # Facilitating Learning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Facilitating learning repositions the teacher from primary source of content to designer and guide of student activity. The facilitator structures tasks, poses questions, mediates [Class Discussion](../elements/class-discussion.md) and [Coaching](../elements/coaching.md), and distributes authority over topics, materials, and pace to students. In culturally diverse classrooms, this shift also functions as an equity move: students gain power over what and how they learn, which raises intrinsic motivation and connectedness to the material [Autonomy support improves intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S].
 

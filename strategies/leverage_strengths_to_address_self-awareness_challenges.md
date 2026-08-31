@@ -10,6 +10,8 @@ generated:
 
 # Leverage Strengths to Address Self-Awareness Challenges
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy begins with the educator gathering evidence about an individual student's strengths (e.g., strong verbal reasoning, persistence, visual memory) and self-awareness challenges (e.g., inaccurate self-assessment, difficulty monitoring comprehension). The educator then deliberately designs instruction so that tasks route through the student's strengths while scaffolding the self-awareness gap — for example, letting a verbally strong student explain reasoning aloud to compensate for weak written self-monitoring. The strength is used as an entry point, not a reward; it does the cognitive work that the challenge would otherwise block.
 

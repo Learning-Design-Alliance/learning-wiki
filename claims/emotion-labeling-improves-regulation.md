@@ -11,6 +11,8 @@ evidence_strength: weak
 
 # Emotion Labeling Improves Regulation
 
+> **Claim** · [All claims](index.md)
+
 Putting feelings into words — naming an emotional state with a specific label — helps learners understand and manage that state, supporting self-regulation during learning.
 
 ## Subclaims

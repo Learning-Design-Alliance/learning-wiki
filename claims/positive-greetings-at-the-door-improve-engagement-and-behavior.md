@@ -11,6 +11,8 @@ evidence_strength:
 
 # Positive Greetings At The Door Improve Engagement And Behavior
 
+> **Claim** · [All claims](index.md)
+
 Greeting each learner individually with a positive, personal interaction at the classroom doorway increases academic engaged time and reduces disruptive behavior during the subsequent lesson.
 
 ## Subclaims

@@ -10,6 +10,8 @@ generated:
 
 # SIFT Method
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The SIFT method, developed by Mike Caulfield, is a streamlined approach to evaluating online information: **S**top and check your emotional reaction, **I**nvestigate the source, **F**ind better coverage of the claim, and **T**race claims, quotes, and media to their original context. Unlike traditional checklist-based source evaluation (e.g., CRAAP), SIFT treats the open web itself as the fact-checking tool — learners "read laterally," leaving an unfamiliar page to see what independent sources say about it and about the claim.
 

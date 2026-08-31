@@ -10,6 +10,8 @@ generated:
 
 # Direct instruction
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Direct instruction presents new content through explicit explanations, lectures, or demonstrations, with the instructor structuring the sequence of examples, practice, and feedback. It makes the target knowledge and procedures overt rather than leaving learners to discover them, and typically follows a model–guide–test progression from full support to independent performance.
 

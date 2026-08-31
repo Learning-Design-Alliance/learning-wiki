@@ -10,6 +10,8 @@ generated:
 
 # Wide Reading
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Wide reading is the sustained, high-volume reading of many texts — typically self-selected, matched to the reader's level, and spanning varied topics and genres. It is carried out by protecting substantial in-school reading time, ensuring access to large collections of appropriately leveled books, and minimizing interruption by worksheets or assessment during reading.
 

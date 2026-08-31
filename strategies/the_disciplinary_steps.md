@@ -10,6 +10,8 @@ generated:
 
 # The Disciplinary Steps
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The Disciplinary Steps are a scripted sequence for handling learner misbehavior: (1) review what happened, (2) identify and accept the learner's feelings, (3) review alternative actions the learner could have taken, (4) explain the building policy as it applies to the situation, (5) state that all learners are treated the same, (6) invoke an immediate and meaningful consequence, (7) express disappointment at having to invoke the consequence, and (8) communicate an expectation that the learner will do better in the future. The sequence deliberately separates emotional validation from consequence delivery, so the learner feels heard before the policy is applied.
 

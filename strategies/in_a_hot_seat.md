@@ -10,6 +10,8 @@ generated:
 
 # In A Hot Seat
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 In A Hot Seat is a drama-based strategy in which a learner adopts a character — typically constructed from a stimulus such as a photograph, artifact, or historical document — and sits in a designated "hot seat" while classmates ask questions that the learner answers in role. The technique, developed within Dorothy Heathcote's process drama tradition, uses improvised role-play to make learners reason from inside another person's situation rather than about it. It is carried out in three phases: character construction from the stimulus, improvised questioning by the group, and debriefing out of role.
 

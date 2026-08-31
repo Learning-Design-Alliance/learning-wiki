@@ -10,6 +10,8 @@ generated:
 
 # Word Detective (Word Identification In Context)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Word Detective is a strategy in which learners actively search for target words embedded in varied, authentic contexts — song lyrics, storybooks, environmental print, sentences, and conversations — rather than studying words in isolation. Learners act as "detectives," locating the word, noticing how its meaning and form shift across contexts, and articulating evidence for their identification. The search itself is the learning activity: each encounter adds a contextual trace to the word's representation.
 

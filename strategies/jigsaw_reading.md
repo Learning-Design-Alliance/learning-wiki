@@ -10,6 +10,8 @@ generated:
 
 # Jigsaw Reading
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Jigsaw reading divides a text into complementary segments, assigning each member of a "home group" a different piece. Learners first meet in "expert groups" with others who read the same segment to deepen and consolidate their understanding, then return to their home groups to teach their segment to peers. No learner has the whole text, so every member's contribution is structurally necessary — interdependence is built into the task rather than requested of the group.
 

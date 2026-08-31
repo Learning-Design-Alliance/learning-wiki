@@ -10,6 +10,8 @@ generated:
 
 # Teach-OK
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Teach-OK is a peer teaching strategy that begins with the teacher spending a few minutes introducing a concept to the class. The teacher then calls "Teach!", the class responds "Okay!", and pairs of learners take turns re-teaching the concept to each other in short, energetic bursts. It resembles [Think-Pair-Share](../elements/class-discussion.md) but is faster-paced, focuses on re-teaching rather than open sharing, and encourages learners to use gestures to animate their explanations. The routine originated in Whole Brain Teaching (Biffle) and has been adapted from K–12 through college classrooms.
 

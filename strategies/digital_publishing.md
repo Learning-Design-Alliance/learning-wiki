@@ -10,6 +10,8 @@ generated:
 
 # Digital Publishing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Digital publishing involves using online platforms and tools to share student writing and creations with a wider audience, fostering engagement and providing valuable feedback. Platforms range from class blogs and digital book creators to fanfiction communities and media-sharing sites. Because the work is received by real readers rather than only a grading teacher, students write for an [authentic audience](../principles/authentic-audiences-purposes.md) and experience genuine reception, discussion, and impact.
 

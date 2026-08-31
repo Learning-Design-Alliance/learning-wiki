@@ -10,6 +10,8 @@ generated:
 
 # Incremental Rehearsal
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Incremental rehearsal (IR) is a drill procedure in which new items are rehearsed alongside a large pool of already-mastered items, typically at a ratio of about 9 known items to 1 unknown item. Each new item is repeatedly interleaved into the known deck across successive rounds, so it is retrieved progressively later each time while the learner maintains a very high success rate. The technique is carried out with flashcards: the tutor presents the new item, immediately provides the answer, then inserts it into the deck so the learner retrieves it after 1, then 3, then 6, then 9 known items before it is retired to the mastered pile.
 

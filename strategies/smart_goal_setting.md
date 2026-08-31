@@ -10,6 +10,8 @@ generated:
 
 # SMART Goal Setting
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 SMART goal setting structures learning objectives so they are Specific, Measurable, Attainable, Relevant, and Time-bound. Learners (or instructors) convert vague intentions ("get better at writing") into concrete commitments ("draft and revise two argumentative essays by March 15, scoring 4+ on the rubric"). The framework operationalizes goal-setting theory: specific, challenging goals reliably produce higher performance than vague "do your best" goals [Locke & Latham, 2002] [+S].
 

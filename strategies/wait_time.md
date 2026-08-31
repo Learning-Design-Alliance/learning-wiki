@@ -10,6 +10,8 @@ generated:
 
 # Wait Time
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Wait time is the deliberate period of silence between the time a question is asked and the time when one or more learners respond, and again after a learner responds before the instructor reacts or moves on. Rowe's foundational research identified a minimum of about three seconds as the threshold below which classroom discourse degrades into rapid recall exchange; the appropriate duration scales with question complexity — roughly 1–3 seconds for recall questions, 4–6 for calculation or multi-step questions, and 6–10 or more for higher-order questions. The second pause, after a student's response, is equally important: it gives other learners time to process the answer and invites elaboration rather than immediate evaluation.
 

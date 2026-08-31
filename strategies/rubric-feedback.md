@@ -10,6 +10,8 @@ generated:
 
 # Rubric Feedback
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Rubric feedback delivers evaluative information about a learner's work through an explicit scoring guide that decomposes performance into named criteria (e.g., "argument quality," "use of evidence") with descriptions of what each quality level looks like. Rather than a grade plus comments, the learner sees *where* their work falls on each dimension and *what* the next level would require. Rubrics may be shared before the task (as a target), during (as a self-check), or after (as a feedback frame).
 

@@ -10,6 +10,8 @@ generated:
 
 # Dialogic Reading
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Dialogic reading is an interactive shared-reading technique in which the adult helps the child become the teller of the story instead of passively listening. The adult prompts the child to say something about the book, evaluates the response, expands it by rephrasing and adding information, and repeats the prompt to ensure learning — the PEER sequence (Prompt, Evaluate, Expand, Repeat). Prompts follow the CROWD mnemonic: Completion (fill-in-the-blank), Recall (questions about past events in the book), Open-ended (focus on pictures), Wh- (what, where, when, why, how), and Distancing (relating the book to the child's outside experiences). Dialogic reading works best with books that have rich, detailed pictures, and the interaction should remain enjoyable and substantially child-led.
 

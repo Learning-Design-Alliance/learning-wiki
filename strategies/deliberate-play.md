@@ -10,6 +10,8 @@ generated:
 
 # Deliberate Play
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Deliberate play is a middle ground between free play and [deliberate practice](../principles/deliberate-practice.md): activities designed by adults to develop skill, but structured as games with flexible rules, immediate enjoyment, and intrinsic motivation rather than explicit instruction and effortful repetition. It is carried out by designing developmentally appropriate, game-like activities that embed the target skill in varied, enjoyable contexts — e.g., street-style soccer variants, improvisational music games, or math games with adaptive rules.
 

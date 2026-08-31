@@ -10,6 +10,8 @@ generated:
 
 # Optimize Classroom Lighting
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Optimizing classroom lighting means designing the visual environment to support attention, alertness, and visual comfort — primarily by maximizing access to natural daylight, supplementing with full-spectrum or tunable artificial light where daylight is insufficient, and giving occupants controls over brightness and glare. Lighting is a physical condition that operates upstream of instruction: it shapes arousal, circadian regulation, and the legibility of learning materials before any pedagogical strategy takes effect.
 

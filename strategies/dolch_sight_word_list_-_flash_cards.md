@@ -10,6 +10,8 @@ generated:
 
 # Dolch Sight Word List - Flash Cards
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Printable flash card sets covering the Dolch sight word list — the 220 most frequent service words compiled by Edward Dolch (1948), organized into pre-primer through third-grade tiers, plus a 95-word noun list. Each set is displayed eight cards to a page for printing and cutting. Cards are used for rapid, repeated recognition drills in which the learner names the word on sight rather than decoding it.
 

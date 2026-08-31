@@ -10,6 +10,8 @@ generated:
 
 # Class Discussion Facilitation
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Class discussion facilitation is the deliberate design and steering of verbal exchange among learners — through questioning, talk moves, grouping, and norms — so that students do most of the cognitive work of explaining, justifying, and responding to one another. The facilitator's role shifts from information deliverer to architect of participation: framing open problems, distributing turns, pressing for reasoning, and synthesizing emerging ideas.
 

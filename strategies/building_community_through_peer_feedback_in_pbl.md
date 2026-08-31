@@ -10,6 +10,8 @@ generated:
 
 # Building Community Through Peer Feedback in PBL
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Building community through peer feedback involves giving students opportunities to frequently share work-in-progress, exchange structured feedback, and revise. In project-based learning (PBL), critique cycles are positioned not as an assessment add-on but as a community practice: students depend on one another to improve their work, witness each other's growth over multiple drafts, and develop the norms of respectful, specific critique that make collaboration possible. The strategy treats feedback as a social act that simultaneously improves the artifact and builds the relationships and sense of belonging that sustain a project community.
 

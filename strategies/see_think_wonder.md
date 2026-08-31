@@ -10,6 +10,8 @@ generated:
 
 # See_Think_Wonder
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 See_Think_Wonder is a thinking routine developed by Harvard Project Zero's Visible Thinking initiative. Learners examine an artifact — an image, object, text, data display, or demonstration — and respond to three prompts in sequence: *What do you see?* (careful observation), *What do you think about it?* (interpretation and reasoning), and *What do you wonder?* (curiosity-driven questioning). The routine is typically carried out individually, in pairs, or as a whole-group discussion before formal instruction on the topic.
 

@@ -10,6 +10,8 @@ generated:
 
 # Direct Instruction Phonics
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Direct instruction phonics teaches letter–sound correspondences explicitly, in a logically sequenced progression (e.g., single consonants and short vowels before digraphs, vowel teams, and multisyllabic patterns), with teacher modeling, guided practice, and immediate corrective feedback. Learners are taught to blend sounds into words and to apply taught patterns to decodable text, rather than inferring the code incidentally from whole-word exposure. The approach is a content-specific application of [Direct Instruction](../patterns/direct-instruction.md): clear objectives, scripted or tightly structured lessons, high response rates, and cumulative review.
 

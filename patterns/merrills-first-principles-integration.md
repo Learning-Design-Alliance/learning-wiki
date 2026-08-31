@@ -17,6 +17,8 @@ grain_size: lesson
 
 # Merrill's First Principles (Integration)
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 This page is the short-form canonical target for the integration move within Merrill's First Principles: learners connect new learning to their own contexts, explain it to others, or use it in a novel setting.
 

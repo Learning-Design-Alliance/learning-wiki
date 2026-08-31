@@ -10,6 +10,8 @@ generated:
 
 # Restate The Question
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Restating the question asks learners to paraphrase a question or problem in their own words before attempting an answer. The instructor treats the restatement as the first required step of any response, refusing the "right answer" shortcut and instead surfacing how the learner has interpreted the task. This converts answering from recall into comprehension, and gives the instructor a diagnostic window into misread instructions, misidentified quantities, or misframed problems.
 

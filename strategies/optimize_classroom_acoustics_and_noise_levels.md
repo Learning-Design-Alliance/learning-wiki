@@ -10,6 +10,8 @@ generated:
 
 # Optimize Classroom Acoustics and Noise Levels
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy treats the acoustic environment as an instructional variable: reducing background noise, controlling reverberation, and improving speech-to-noise ratio so that instructional speech is clearly intelligible to every learner. It is carried out through physical interventions (absorptive materials, soundproofing, layout), behavioral norms (noise protocols, quiet zones), and assistive tools (sound-field amplification, noise-canceling headphones).
 

@@ -10,6 +10,8 @@ generated:
 
 # Propaganda Technique Identification
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners are first taught a named taxonomy of propaganda techniques (e.g., bandwagon, testimonial, glittering generalities, name-calling, loaded language) through direct instruction with annotated examples. They then apply the taxonomy by identifying techniques in authentic online advertisements and reflect on how the interactive medium of online reading — hyperlinks, personalization, native advertising, social sharing — can amplify or blunt a technique's persuasive power. The strategy converts passive exposure to persuasion into active analysis by giving learners a vocabulary for what they are seeing.
 

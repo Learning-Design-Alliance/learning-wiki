@@ -21,6 +21,8 @@ grain_size: lesson
 
 # Collaborative Evaluation
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Collaborative evaluation is a pattern in which learners assess resources, proposals, performances, or solutions together using shared criteria. Instead of evaluating privately and independently, learners discuss standards, compare judgments, and work toward a reasoned collective evaluation. The pattern is useful because it makes evaluative thinking visible and gives learners practice applying quality criteria rather than only receiving them.
 

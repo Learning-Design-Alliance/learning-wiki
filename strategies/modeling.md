@@ -10,6 +10,8 @@ generated:
 
 # Modeling
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Modeling is the act of demonstrating a skill, strategy, or reasoning process while learners observe, so that expert performance becomes visible and imitable before learners attempt the task themselves. Effective modeling goes beyond showing the final product: the modeler narrates decisions, monitors their own understanding, and makes tacit expert knowledge explicit. It is the foundational move in [Cognitive Apprenticeship](../theories/cognitive-apprenticeship.md) and derives its theoretical grounding from [Social Learning Theory](../theories/social-learning-theory.md), in which observational learning is a primary mechanism of skill acquisition.
 

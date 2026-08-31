@@ -10,6 +10,8 @@ generated:
 
 # Note-Taking
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Note-taking is the element in which learners record, organize, and condense information in ways that support later understanding and retrieval.
 

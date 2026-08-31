@@ -11,6 +11,8 @@ evidence_strength: moderate
 
 # Joint Book Reading Predicts Literacy Success
 
+> **Claim** · [All claims](index.md)
+
 The frequency and quality of adult–child shared book reading during early childhood is associated with later reading achievement, vocabulary growth, and emergent literacy skills. The claim is predictive rather than causal: the association is well established, but the unique causal contribution of shared reading itself remains contested.
 
 ## Subclaims

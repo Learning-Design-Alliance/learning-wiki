@@ -10,6 +10,8 @@ generated:
 
 # Empathic Discipline
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Empathic discipline is a teacher-facing intervention that reframes student misbehavior as a developmental, context-driven response rather than a character flaw, and positions discipline as an opportunity to maintain the teacher–student relationship. In its canonical form it is a brief (~45-minute) online module combining non-judgmental framing of misbehavior, stories from students describing how punitive discipline damaged their sense of belonging, and short writing exercises in which teachers articulate their own empathic approach to discipline [A brief intervention reframing discipline empathically reduces suspensions.](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) [+S].
 

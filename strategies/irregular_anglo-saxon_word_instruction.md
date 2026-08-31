@@ -10,6 +10,8 @@ generated:
 
 # Irregular Anglo-Saxon Word Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Irregular Anglo-Saxon words (e.g., *said*, *was*, *one*, *two*, *who*, *come*) contain letter–sound correspondences that do not follow the regular patterns taught in systematic phonics, so they cannot be fully decoded or spelled by rule. Effective instruction teaches these words by (a) grouping words with memorable similarities, (b) explicitly marking the "odd part" that must be learned by heart while mapping the regular parts to sounds, (c) using multisensory practice routines (tracing, writing, saying), (d) mnemonics, and (e) close visual attention tasks such as visualizing the letter sequence and recalling it backwards as well as forwards. The goal is secure orthographic representations — instant recognition in reading and accurate recall in spelling.
 

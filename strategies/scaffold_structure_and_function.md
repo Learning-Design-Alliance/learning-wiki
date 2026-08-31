@@ -10,6 +10,8 @@ generated:
 
 # Scaffold Structure and Function
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Scaffold Structure and Function is a language-focused planning strategy, most often used in project-based learning (PBL), in which the designer analyzes a project to identify the specific language functions (what students must *do* with language — argue, describe, hypothesize) and structures (the grammatical forms and vocabulary that realize those functions) required for success. Students are then explicitly taught these forms and given tools such as sentence starters, stems, and frames so that language demands do not become a hidden barrier to demonstrating content knowledge.
 

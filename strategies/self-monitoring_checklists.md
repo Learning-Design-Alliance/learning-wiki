@@ -10,6 +10,8 @@ generated:
 
 # Self Monitoring_Checklists
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Self-monitoring checklists are explicit, criterion-referenced lists of steps, quality standards, or comprehension checks that learners use to evaluate their own work and process while completing a task. Rather than relying on the feeling of knowing, learners systematically compare their performance against stated criteria — checking off completed steps, verifying requirements, or rating their understanding. The checklist externalizes the monitoring phase of self-regulated learning, making it concrete and habitual.
 

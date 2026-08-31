@@ -10,6 +10,8 @@ generated:
 
 # Interactive Read-Alouds
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Interactive read-alouds involve a facilitator reading a text aloud while stopping at planned points to engage learners in discussion and activity — asking questions, making predictions, connecting the text to personal experience, and inviting interpretation. Because the facilitator carries the decoding load, learners can engage with rich texts beyond their independent reading level while practicing comprehension, vocabulary, and critical thinking. The interaction is deliberate: pause points, prompts, and activities are planned in advance to align with learning objectives.
 

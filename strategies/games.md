@@ -10,6 +10,8 @@ generated:
 
 # Games
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Games place learners inside rule-governed scenarios where they learn by doing: individuals or teams collaborate or compete under conditions that mirror real-world constraints. Motivation tools such as points, badges, and certificates are layered on to sustain engagement, and a facilitator debriefs play so that game outcomes convert into explicit lessons about on-the-job situations.
 

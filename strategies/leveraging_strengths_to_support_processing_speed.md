@@ -10,6 +10,8 @@ generated:
 
 # Leveraging Strengths to Support Processing Speed
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy involves identifying a student's cognitive strengths and using them to compensate for or bypass challenges related to processing speed — the pace at which a learner takes in information, makes sense of it, and begins to respond. Processing speed varies across individuals and across contexts for the same person, so the strategy begins with assessment and observation rather than a fixed accommodation list. Typical moves include routing content through a stronger modality (e.g., visual organizers for a visually strong learner), reducing the volume of low-value processing (e.g., [Chunking](../principles/chunking.md) content, pre-teaching vocabulary), and protecting thinking time so speed is not confounded with ability.
 

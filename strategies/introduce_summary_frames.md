@@ -10,6 +10,8 @@ generated:
 
 # Introduce Summary Frames
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners read a section of text to themselves before verbally summarizing the passage to a partner or completing sentence frames. Frames are generic text-structure templates — e.g., "_____ wanted _____, but _____, so _____" for problem/solution text, or "_____ happens because _____" for cause/effect — that prompt learners to identify main ideas and the logical connectives that hold a passage together. The strategy combines independent reading, structured oral rehearsal, and generative restatement, all of which force the learner to construct rather than merely recognize meaning.
 

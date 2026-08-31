@@ -10,6 +10,8 @@ generated:
 
 # Language Experience Approach
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The language experience approach (LEA) is a whole language method that integrates the development of reading, writing, listening, and speaking skills through the use of learners' experiences. Learners share an experience (an outing, a science demonstration, a personal story), and the instructor records their dictation verbatim on a chart or board. The resulting text — written in the learner's own words — then becomes the material for reading, rereading, word study, and writing activities.
 

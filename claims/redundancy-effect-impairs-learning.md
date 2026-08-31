@@ -11,6 +11,8 @@ evidence_strength: weak
 
 # Redundancy Effect Impairs Learning
 
+> **Claim** · [All claims](index.md)
+
 When the same information is presented simultaneously through multiple channels — such as narrated text duplicating on-screen text, or graphics labeled with both text and redundant audio — learning is impaired relative to presenting the information once, because learners must coordinate and re-process identical material.
 
 ## Subclaims

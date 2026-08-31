@@ -10,6 +10,8 @@ generated:
 
 # Audiobooks for Literacy Reinforcement
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Audiobooks present literature and informational texts in audio form, either alone or paired with the printed text for learners to follow. They allow students — including emerging readers and ESL/ELL learners — to experience texts beyond their current decoding level, building vocabulary, background knowledge, and motivation to read. Formats range from audio-only recordings to synchronized audio-plus-text and interactive e-books.
 

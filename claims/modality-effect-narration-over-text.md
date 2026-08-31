@@ -11,6 +11,8 @@ evidence_strength: unrated
 
 # Presenting words as spoken narration rather than on-screen text alongside graphics improves learning
 
+> **Claim** · [All claims](index.md)
+
 Presenting words as spoken narration rather than on-screen text — alongside graphics or animation — improves learning, because distributing information across the auditory and visual channels reduces overload in the visual channel.
 
 ## Subclaims

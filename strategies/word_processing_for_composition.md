@@ -10,6 +10,8 @@ generated:
 
 # Word Processing for Composition
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Word processing for composition integrates software-based writing tools (e.g., Google Docs, Microsoft Word) into writing instruction so that drafting, revising, and editing become fluid rather than laborious. Because text can be inserted, deleted, and reordered without recopying, students revise more and treat writing as a recursive process rather than a single-pass transcription task. The teacher's role shifts toward frequent, embedded feedback — often via comments and revision history — rather than feedback delivered only at the end of a polished draft.
 

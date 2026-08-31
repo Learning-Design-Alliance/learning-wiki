@@ -10,6 +10,8 @@ generated:
 
 # Phonics-Based Spelling Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Phonics-based spelling instruction teaches learners to spell by segmenting words into phonemes (individual sound units) and mapping each phoneme to its corresponding letter or letter combination. Rather than memorizing whole-word spellings, learners generate spellings from their knowledge of grapheme–phoneme correspondences, making principled "educated guesses" about unfamiliar words. This reciprocal use of phonics for both reading and writing strengthens the orthographic knowledge that underlies both skills.
 

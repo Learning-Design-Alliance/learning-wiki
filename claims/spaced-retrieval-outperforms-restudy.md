@@ -11,6 +11,8 @@ evidence_strength: pending
 
 # Spaced Retrieval Outperforms Restudy
 
+> **Claim** · [All claims](index.md)
+
 Retrieving information from memory at spaced intervals produces stronger, longer-lasting retention than re-reading or restudying the same material. The claim concerns the *interaction* of spacing and retrieval — not either effect alone.
 
 ## Subclaims

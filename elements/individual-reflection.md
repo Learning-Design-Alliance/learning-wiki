@@ -10,6 +10,8 @@ generated:
 
 # Individual Reflection
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Individual reflection asks learners to step back from a task or experience and deliberately analyze their own thinking, decisions, and learning progress. It converts experience into articulated insight — learners examine *what* they did, *why* it worked or failed, and *what* to change next time — rather than simply moving on to the next activity.
 

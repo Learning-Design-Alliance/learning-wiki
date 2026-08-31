@@ -10,6 +10,8 @@ generated:
 
 # Multiple Display Boards/Screens
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Multiple Display Boards/Screens is a strategy in which a learning space is equipped with several simultaneous display surfaces — whiteboards, writable walls, projectors, or networked screens — so that instructional content, group work products, and shared artifacts can all be visible at once. Screens may be mirrored (one source to many displays), split (many sources side by side), or dedicated to distinct functions (one for instruction, one for group work in progress). The goal is to make thinking and work publicly visible and to reduce the bottleneck of a single shared display.
 

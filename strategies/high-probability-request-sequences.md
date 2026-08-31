@@ -10,6 +10,8 @@ generated:
 
 # High Probability Request Sequences
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A high probability (high-p) request sequence is a behavioral technique in which the teacher delivers two to five brief requests the learner is highly likely to comply with ("Give me the red pencil," "Show me your name card"), then immediately follows with the low probability (low-p) target request — typically the academic task or transition the learner has been avoiding. The technique exploits *behavioral momentum*: compliance with easy requests increases the momentary probability of compliance with a subsequent, harder request. It is carried out in seconds, requires no materials, and is delivered conversationally during natural instruction.
 

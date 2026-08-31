@@ -10,6 +10,8 @@ generated:
 
 # Developing Cultural Awareness
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Developing cultural awareness is the deliberate, ongoing practice by which educators come to understand their learners' cultural backgrounds, identities, and funds of knowledge — and simultaneously examine how their own cultural positioning, assumptions, and implicit biases shape their instructional decisions. It is carried out through structured self-reflection, sustained engagement with learners' communities, and the design of instruction that treats learners' cultural knowledge as an asset rather than an obstacle.
 

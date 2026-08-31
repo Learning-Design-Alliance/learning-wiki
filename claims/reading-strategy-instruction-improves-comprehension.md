@@ -11,6 +11,8 @@ evidence_strength: moderate
 
 # Reading Strategy Instruction Improves Comprehension
 
+> **Claim** · [All claims](index.md)
+
 Explicit teaching of reading strategies — planning, monitoring, and evaluating one's understanding of text — improves learners' comprehension beyond what general reading practice produces [+S].
 
 ## Subclaims

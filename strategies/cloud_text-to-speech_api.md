@@ -10,6 +10,8 @@ generated:
 
 # Cloud Text-to-Speech API
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Cloud Text-to-Speech (TTS) services — such as [Google Cloud Text-to-Speech](https://cloud.google.com/text-to-speech), [Amazon Polly](https://aws.amazon.com/polly/), [Microsoft Azure Speech](https://azure.microsoft.com/products/ai-services/text-to-speech), and the open-source [Coqui TTS](https://github.com/coqui-ai/TTS) — convert written text into natural-sounding synthesized speech delivered as audio. In learning design, they let teams add narration to text, visuals, and interactive content programmatically, without studio recording, and at scale across languages and voices.
 

@@ -10,6 +10,8 @@ generated:
 
 # Translate Report Cards Into Multiple Languages
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy translates report cards, progress reports, and related academic communications into the home languages of the families a school serves. It treats families' access to assessment information as a design problem: a report card a parent cannot read is functionally not a report card. Translation is typically carried out by professional translators or district language services, with teacher-facing templates standardized so that translated versions can be produced at scale each grading period.
 

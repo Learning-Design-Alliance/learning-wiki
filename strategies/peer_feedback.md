@@ -10,6 +10,8 @@ generated:
 
 # Peer Feedback
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Peer feedback arranges for learners to exchange evaluative comments on one another's work, typically against explicit criteria or a rubric. It functions formatively: the goal is revision and improved understanding, not grading. Giving feedback is itself a learning activity — reviewing a peer's work requires learners to internalize quality criteria and apply them to a concrete case.
 

@@ -10,6 +10,8 @@ generated:
 
 # Groups
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Groups is a fast-paced whole-class game in which the teacher calls out a number (e.g., "3") and students have roughly ten seconds to form groups of that size. Because the class size rarely divides evenly, some students are left out each round — but every new call gives everyone another chance. Once students understand the basic game, the teacher increases the cognitive demand by calling arithmetic expressions instead of numbers ("get into groups of 7−4"), and by including boundary cases such as "1" or "everyone in the class" to keep attention high.
 

@@ -10,6 +10,8 @@ generated:
 
 # Bright Spaces with Plenty of Light and Air
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy treats the physical environment — daylight, electric lighting quality, ventilation, and thermal comfort — as an instructional design variable rather than an afterthought. It is carried out by maximizing daylight access, providing controllable and varied lighting, ensuring fresh-air supply (through operable vents, HVAC, or accessible fans where vents are unavailable), and giving learners some agency over their immediate conditions.
 

@@ -10,6 +10,8 @@ generated:
 
 # Action Oriented Feedback
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Action oriented feedback is feedback phrased as a concrete next step the learner can take — "add a topic sentence to this paragraph," "re-check the sign when you moved the term across the equals sign" — rather than as evaluation ("good work," "unclear") or person-level judgment ("you're careless"). It answers Hattie and Timperley's (2007) question "Where to next?" by converting diagnosis into a specific, executable move. It is carried out by identifying the gap between current and target performance, then specifying the smallest action that closes it.
 

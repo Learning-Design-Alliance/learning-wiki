@@ -10,6 +10,8 @@ generated:
 
 # Communication Channels
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Communication channels are the element in which learners use designated tools or spaces to coordinate, discuss, ask questions, and share updates during a learning activity. They are useful when collaboration depends on reliable communication pathways.
 

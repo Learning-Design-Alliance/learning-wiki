@@ -10,6 +10,8 @@ generated:
 
 # Educational Infographics
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Educational infographics are visual aids that simplify complex information into easily digestible formats using a combination of charts, icons, and text. They summarize topics, visualize statistics, explain processes, and present timelines in a single coherent artifact. Effective infographics use color and layout strategically — not decoratively — to highlight relationships and patterns within the data.
 

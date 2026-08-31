@@ -10,6 +10,8 @@ generated:
 
 # Student-Pair Math Games
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Pair-based games facilitate active learning through friendly competition, requiring students to recall and apply math skills in a dynamic setting. Because each turn demands a rapid computation, the game format embeds high-frequency [practice](../elements/practice.md) and retrieval inside a social, low-stakes structure. Examples include:
 

@@ -10,6 +10,8 @@ generated:
 
 # Relate Math to Learner Strengths
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy connects mathematical concepts to learners' existing interests, hobbies, and areas of competence — sports statistics, music, design, gaming, finance — so that new math content arrives anchored in something the learner already knows and cares about. It is carried out by learning about learners, then selecting or adapting examples, problem contexts, and application tasks that draw on those strengths.
 

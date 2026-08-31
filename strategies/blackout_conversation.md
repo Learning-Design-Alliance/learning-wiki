@@ -10,6 +10,8 @@ generated:
 
 # Blackout Conversation
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Students transform conversational text selections into poetry by blacking out sections to reveal only key terms and phrases, focusing on the meaning, nuances, and silences of each character's dialogue. Working in pairs, students read the dialogue aloud, then independently examine their assigned character's subtext — what they are really saying, hiding, feeling, or withholding. After blacking out the "background noise," partners reread the remaining words together and highlight the essence of the conversation. The strategy adapts blackout poetry (popularized by Austin Kleon's *Newspaper Blackout*) to dramatic dialogue as a vehicle for social-emotional learning.
 

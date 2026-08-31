@@ -10,6 +10,8 @@ generated:
 
 # Rereading
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Rereading asks learners to revisit text they have already read — a sentence, a paragraph, or an entire passage — to improve word recognition accuracy, fluency, and comprehension. It is carried out through repeated readings of short text chunks, teacher modeling during read-alouds, and paired or independent practice. Successive passes free attention from decoding, allowing the reader to consolidate meaning and build automaticity.
 

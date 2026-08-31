@@ -10,6 +10,8 @@ generated:
 
 # Multisyllable Word Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Multisyllable word instruction teaches learners how to break words into syllables to improve decoding and spelling. Learners study the six basic syllable types (closed, open, vowel-consonant-e, r-controlled, vowel team, and consonant-le), how syllable division affects vowel pronunciation, and how prefixes, suffixes, compound words, and the schwa in unaccented syllables change spelling. Instruction is explicit and systematic: the teacher models word decomposition, guides flexible syllable division, and fades support as learners apply the strategy independently to unfamiliar words.
 

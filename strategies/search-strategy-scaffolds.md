@@ -10,6 +10,8 @@ generated:
 
 # Search Strategy Scaffolds
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Search strategy scaffolds are explicit supports — query templates, source-evaluation checklists, staged search plans, or modeled searches — that structure how learners locate information. Rather than assuming students already know how to find and judge information, the strategy makes the search process itself an instructional target: learners are taught to decompose an information need, generate and refine queries, scan results strategically, and evaluate sources before using them.
 

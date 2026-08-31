@@ -11,6 +11,8 @@ evidence_strength:
 
 # Spaced Practice Improves Retention
 
+> **Claim** · [All claims](index.md)
+
 Practicing or reviewing material across multiple sessions separated in time produces stronger long-term retention than concentrating the same amount of practice into a single session (massed practice).
 
 ## Subclaims

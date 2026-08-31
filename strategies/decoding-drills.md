@@ -10,6 +10,8 @@ generated:
 
 # Decoding Drills
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Decoding drills are brief, high-frequency practice routines in which learners apply taught grapheme–phoneme correspondences to read words, word parts, or decodable text, with the goal of building accuracy first and then automaticity. They typically follow an explicit phonics lesson and use carefully controlled word lists so that every item rehearses only patterns already taught.
 

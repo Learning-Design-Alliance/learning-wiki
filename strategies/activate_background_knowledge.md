@@ -10,6 +10,8 @@ generated:
 
 # Activate Background Knowledge
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Activating background knowledge means deliberately prompting learners to retrieve relevant prior knowledge before new content is introduced — through opening questions, brief discussions, brainstorming, or structured activities such as [Advance Organizers](../elements/advance-organizers.md) or KWL charts. The goal is to bring relevant schemas into working memory so new information can be connected to, and integrated with, what learners already hold. Retrieval of prior knowledge is itself a form of [Practice](../elements/practice.md) that strengthens the existing schema while preparing it to receive new links.
 

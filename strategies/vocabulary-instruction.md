@@ -10,6 +10,8 @@ generated:
 
 # Vocabulary Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Vocabulary instruction deliberately selects high-value words and teaches them directly through clear definitions, examples, context, and repeated opportunities to use them. It typically includes pre-teaching challenging words before reading a text so students do not stall on unfamiliar terms, and it can be embedded in any content area. Effective programs go beyond dictionary definitions to build rich word knowledge — multiple meanings, morphological relatives, and contextual usage.
 

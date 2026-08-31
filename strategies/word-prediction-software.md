@@ -10,6 +10,8 @@ generated:
 
 # Word Prediction Software
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Word prediction software displays a list of likely next words as a learner types, typically triggered by the first one or two letters. The learner selects a predicted word rather than typing it in full, which reduces spelling demands, keystrokes, and the working-memory burden of holding a word in mind while transcribing it. Most modern tools combine prediction with text-to-speech feedback, custom dictionaries, and topic-specific vocabulary.
 

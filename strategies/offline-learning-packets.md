@@ -10,6 +10,8 @@ generated:
 
 # Offline Learning Packets
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Offline learning packets are self-contained instructional units — printed worksheets, booklets, or downloadable files — that sequence explanation, worked examples, practice, and self-check answers so learners can progress without internet access or synchronous teaching. They are carried out by packaging a complete learning cycle into a single artifact: content input, guided application, and a mechanism for learners to verify their own understanding.
 

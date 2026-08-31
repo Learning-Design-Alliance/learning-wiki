@@ -10,6 +10,8 @@ generated:
 
 # Remote Support with Augmented Reality (AR)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Remote AR support connects a field worker or novice with a remote expert through a shared augmented view: the local user's camera feed is transmitted to the expert, who overlays annotations (arrows, circles, drawings, 3D pointers) directly onto objects in the user's field of view. Because the expert sees what the learner sees, spatial references that are notoriously ambiguous in voice-only support ("the bolt to the left of the valve") become unambiguous. AR headsets can additionally connect to IoT sensors and diagnostic data, surfacing equipment state in the same view as the guidance.
 

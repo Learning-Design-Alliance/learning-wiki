@@ -10,6 +10,8 @@ generated:
 
 # Test Anxiety Reduction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Test anxiety reduction encompasses design and instructional moves that lower the threat value of assessment: frequent low-stakes quizzing, clear expectations, expressive writing before exams, relaxation and coping-skills training, and framing that separates assessment from identity. It is carried out both through assessment design (how tests are structured and framed) and through learner-facing interventions (what learners are taught to do with their worry).
 

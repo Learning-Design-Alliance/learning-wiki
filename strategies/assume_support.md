@@ -10,6 +10,8 @@ generated:
 
 # Assume Support
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Assume Support is a stance toward family and community engagement: practitioners treat all families as caring about their children's education and doing the best they can with the resources, time, and knowledge they have. Rather than interpreting low visible engagement as low commitment, the practitioner designs flexible communication channels and support structures that accommodate widely varying home circumstances — work schedules, language, digital access, and differing beliefs about the school's role.
 

@@ -10,6 +10,8 @@ generated:
 
 # Teaching Metacognitive Strategies
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Teaching metacognitive strategies means explicitly instructing learners in how to plan an approach to a task, monitor their comprehension and progress while working, and evaluate and adjust their strategies afterward. It is carried out through direct explanation of strategies, [demonstration of expert thinking](../elements/think-aloud.md) (e.g., think-aloud modeling), guided practice with prompts and checklists, and structured reflection routines. The goal is to make invisible cognitive processes — self-questioning, strategy selection, error detection — explicit, teachable, and eventually self-initiated.
 

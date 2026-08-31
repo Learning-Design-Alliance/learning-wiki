@@ -10,6 +10,8 @@ generated:
 
 # Authentic Learning Tasks
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Authentic learning tasks ask learners to engage with problems that resemble those encountered in real professional, civic, or everyday contexts — ill-structured, situated in a meaningful scenario, and directed toward a genuine purpose or audience. Rather than practicing decontextualized exercises, learners perform the discipline itself: investigating, designing, evaluating, or arguing as a practitioner would. The task, not just the content, carries the authenticity.
 

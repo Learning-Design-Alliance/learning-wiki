@@ -10,6 +10,8 @@ generated:
 
 # Modified Grading Scale
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A modified grading scale replaces the conventional 0–100 percentage scale with a compressed interval scale, most commonly 0–4, where each point represents a performance band rather than a raw percentage. Because the 0–100 scale treats a zero for missing work as catastrophic — a single zero can make a passing course grade mathematically unrecoverable — compression reduces the weight of any one assignment and keeps grades interpretable as evidence of learning rather than as accumulated penalties.
 

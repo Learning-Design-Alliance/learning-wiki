@@ -16,6 +16,8 @@ evidence_strength: strong
 
 # Whole-task performance improves transfer of complex skills to real-world settings.
 
+> **Claim** · [All claims](index.md)
+
 Engaging in authentic, integrated tasks during training better prepares learners for the complexity and coordination required in professional practice compared to isolated part-task practice.
 
 ## Subclaims

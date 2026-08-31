@@ -10,6 +10,8 @@ generated:
 
 # Strengths-Based Teaching
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Strengths-based teaching identifies what learners already do well — talents, interests, and prior competencies — and designs instruction so those strengths become the entry point for new learning. Rather than organizing instruction around diagnosed deficits, the instructor measures strengths, acknowledges them publicly and privately, creates structured opportunities for success, and offers multiple ways to demonstrate knowledge. The approach draws on positive psychology, which finds that deliberate use of identified strengths predicts well-being and engagement [Seligman et al. argue strengths use is a core pathway to flourishing.](https://doi.org/10.1037/0003-066X.60.5.410) [+M].
 

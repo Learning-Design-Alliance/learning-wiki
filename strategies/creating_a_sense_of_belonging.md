@@ -10,6 +10,8 @@ generated:
 
 # Creating A Sense Of Belonging
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Creating a sense of belonging means deliberately shaping classroom norms, relationships, and feedback practices so learners perceive themselves as accepted, respected, and capable members of the learning community. It is carried out through early social integration activities, normative framing of difficulty, attributional feedback, and structures that give every learner a recognized role and voice.
 

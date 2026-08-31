@@ -10,6 +10,8 @@ generated:
 
 # Emotion Identification through Literature
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy uses emotion posters — visual displays of emotion categories with facial expressions, labels, and example language — as a reference tool during read-alouds. The teacher pauses at emotionally charged moments and asks students to infer the character's feelings using both textual evidence (word choice, dialogue, actions) and visual cues (illustrations), then name the emotion using the poster's vocabulary.
 

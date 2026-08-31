@@ -10,6 +10,8 @@ generated:
 
 # Story Mapping
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Story mapping is a comprehension strategy in which learners identify and organize the structural elements of a narrative — setting, characters, problem, goal, key events, and resolution — into a visual graphic organizer. It is typically carried out during or after reading: the teacher models completing a map with a think-aloud, then learners complete maps independently or collaboratively, using the map as a basis for retelling, discussion, or writing.
 

@@ -10,6 +10,8 @@ generated:
 
 # Improvisation in Mathematics
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Improvisation in Mathematics adapts theater-improv exercises — yes-and games, physical tableaux, role-play, and spontaneous scenario-building — to mathematical content. Students act out problems, embody concepts (e.g., forming a human number line or geometric transformation), and respond to unscripted mathematical prompts in real time. The strategy treats mathematical thinking as a performative, social activity in which errors are accepted and built upon rather than erased.
 

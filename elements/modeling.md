@@ -10,6 +10,8 @@ generated:
 
 # Modeling
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Modeling is the instructional element in which an instructor, expert, or advanced peer demonstrates expert thinking and behavior — making both the actions and the reasoning behind them visible. It functions as the observational entry point to skill acquisition: learners study a competent performance, including its decision points and self-monitoring, before producing their own attempts.
 

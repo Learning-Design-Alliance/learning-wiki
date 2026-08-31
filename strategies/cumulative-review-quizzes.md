@@ -10,6 +10,8 @@ generated:
 
 # Cumulative Review Quizzes
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Cumulative review quizzes are low- or no-stakes assessments that require learners to retrieve material from the current unit *and* from all previous units, rather than only the most recent content. They are typically short, frequent, and administered at the start of class or as brief online checks. Each item forces retrieval of prior learning, so the quiz itself — not just the feedback — produces the learning benefit.
 

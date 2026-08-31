@@ -10,6 +10,8 @@ generated:
 
 # Text Marking
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Text marking asks learners to interact physically or digitally with a text while reading: underlining key claims, circling unknown vocabulary, numbering steps in an argument, or applying a symbol code (e.g., ✓ for evidence, ? for confusion, ★ for main idea). Unlike passive highlighting, effective text marking is governed by an explicit purpose or code, making it a generative activity that forces selection, evaluation, and organization of ideas [Annotating](../principles/annotating.md).
 

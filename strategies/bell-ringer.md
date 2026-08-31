@@ -10,6 +10,8 @@ generated:
 
 # Bell Ringer
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A bell ringer (also called a "do now," "warm-up," or "opening hook") is a brief task — typically 3–8 minutes — that students begin immediately upon entering class, before formal instruction starts. It is usually displayed or distributed so students can start without teacher direction, and it serves one of three functions: retrieving previously learned content, activating relevant prior knowledge for the day's lesson, or previewing the coming topic.
 

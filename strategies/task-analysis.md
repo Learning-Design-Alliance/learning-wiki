@@ -10,6 +10,8 @@ generated:
 
 # Task Analysis
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Task analysis is the systematic decomposition of a target task into its constituent steps, subtasks, prerequisite knowledge, and — in its cognitive form — the invisible decisions and strategies experts use. It is carried out before instruction is designed, typically through expert interviews, observation, think-aloud protocols, or document analysis, and produces a structured map of what must be taught, sequenced, and practiced.
 

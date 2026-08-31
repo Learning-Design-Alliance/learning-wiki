@@ -10,6 +10,8 @@ generated:
 
 # Physical Activity Breaks
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Physical activity breaks are brief, planned bouts of movement — stretching, aerobic exercise, coordinated movement routines, or active games — inserted into lessons or work sessions, typically lasting 2–10 minutes. They are distinct from recess or physical education: the movement is embedded in academic time and often designed to be delivered in the classroom without equipment or clothing changes. Programs such as TAKE 10!® and Energizers provide published, curriculum-linked break routines that teachers can deploy without special training.
 

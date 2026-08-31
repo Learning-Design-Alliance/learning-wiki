@@ -10,6 +10,8 @@ generated:
 
 # Varying Irrelevant Attributes in Examples
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 When teaching a concept, the examples presented should differ widely on attributes that are *irrelevant* to the concept while consistently displaying the attributes that define it. If all examples of "bird" are small, perching, brown animals, learners may encode size, habitat, or color as part of the concept; varying these across examples forces attention to the defining features. The strategy applies to any concept instruction: presenting a range of surface forms (media, context, difficulty, format, surface story) that share deep structure.
 

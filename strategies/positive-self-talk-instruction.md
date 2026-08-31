@@ -10,6 +10,8 @@ generated:
 
 # Positive Self Talk Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Positive self talk instruction teaches learners to generate and use deliberate self-statements — "I can break this problem into steps," "stay focused," "I've handled harder tasks" — to guide their own thinking, persistence, and emotional state. It derives from cognitive-behavioral self-instructional training, in which an expert models coping statements aloud, the learner rehearses them, and they gradually fade into private speech and then covert inner speech. Two functional varieties are typically taught: *instructional* self-talk (cueing the steps of a task) and *motivational* self-talk (building confidence and managing anxiety).
 

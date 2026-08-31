@@ -10,6 +10,8 @@ generated:
 
 # Formative Self Assessment
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Formative self assessment asks learners to judge the quality of their own work against explicit criteria — rubrics, checklists, exemplars, or success criteria — while the work is still in progress and revisable. The purpose is not grading but calibration: learners compare their current performance to a target, identify gaps, and act on them. It is carried out through structured activities such as rubric-guided drafts, self-checklists, confidence ratings, or comparing one's work to annotated exemplars.
 

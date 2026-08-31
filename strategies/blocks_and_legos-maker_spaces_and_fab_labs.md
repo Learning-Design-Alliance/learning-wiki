@@ -10,6 +10,8 @@ generated:
 
 # Blocks and Legos: Maker Spaces and Fab Labs
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Maker spaces and fab labs are shared workshops — physical or embedded in classrooms — where learners design, prototype, and build tangible artifacts, from robots and musical instruments to sewn garments and upcycled sculptures. The strategy treats construction as the engine of learning: learners apply concepts to real materials, iterate on physical feedback, and share what they make. It descends from constructionist theory, which holds that learning is most durable when learners build artifacts that are personally meaningful and publicly shareable.
 

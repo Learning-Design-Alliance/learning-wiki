@@ -17,6 +17,8 @@ grain_size: course
 
 # Merrill's First Principles
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Merrill's First Principles is the short-form canonical target for task-centered instruction organized around problem-centered work, activation, demonstration, application, and integration.
 

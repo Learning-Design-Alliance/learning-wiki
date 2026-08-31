@@ -10,6 +10,8 @@ generated:
 
 # Sound-blocking Devices
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Sound-blocking devices — noise-reducing headphones, earmuffs, or earplugs — reduce the intensity of ambient auditory input, helping learners with auditory sensitivities regulate sensory load in noisy environments. They are used across settings (classrooms, cafeterias, assemblies, public transit) to lower decibel exposure and free attentional resources for the task at hand. They function as an environmental [accommodation](../elements/accommodations.md) rather than an instructional method: they change the learning context, not the pedagogy.
 

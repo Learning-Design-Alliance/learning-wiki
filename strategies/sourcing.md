@@ -10,6 +10,8 @@ generated:
 
 # Sourcing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Sourcing is a historical- and civic-reasoning strategy in which learners interrogate the origin of a source before engaging with its content: Who produced it? When? For what audience and purpose? Is it trustworthy for this use? Rather than reading a document as transparent information, learners treat it as a *claim made by someone*, and use attributes of the source (author expertise, motive, date, publication venue) to evaluate its claims. It is typically carried out through structured questions, side-by-side source comparison, and explicit modeling of expert evaluation.
 

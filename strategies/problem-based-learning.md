@@ -10,6 +10,8 @@ generated:
 
 # Problem Based Learning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Problem Based Learning (PBL) organizes instruction around an authentic, ill-structured problem that students encounter *before* receiving formal instruction on the underlying content. Working in small groups with a facilitator rather than a lecturer, students analyze the problem, identify what they need to know (a "learning needs" step), self-direct their inquiry, and return to apply new knowledge to a proposed solution. The problem functions as both the trigger for learning and the organizing structure for the knowledge built around it.
 

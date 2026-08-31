@@ -10,6 +10,8 @@ generated:
 
 # Formative Assessment
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Formative assessment is the ongoing, low-stakes gathering of evidence about learner understanding, used to provide feedback to learners and to adjust instruction in real time. Its defining feature is not the instrument (quiz, discussion, draft) but the *use* of the information: assessment becomes formative only when it changes what happens next for the learner or the teacher.
 

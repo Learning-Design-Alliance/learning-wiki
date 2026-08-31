@@ -10,6 +10,8 @@ generated:
 
 # Promoting Self-Directed Learning Strategies
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Promoting self-directed learning involves explicitly teaching students strategies for problem-solving, metacognition, and self-reflection so they can plan, monitor, and evaluate their own learning. The teacher names the processes students use, gives them language for what they did, and provides structured opportunities to practice and refine those strategies. Over time, responsibility for decisions — what to do when stuck, how to check understanding, what to study next — transfers from teacher to learner.
 

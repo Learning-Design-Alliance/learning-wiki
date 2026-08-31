@@ -10,6 +10,8 @@ generated:
 
 # Creating Visuals
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Creating Visuals asks learners to generate their own visual representations — diagrams, sketches, concept maps, infographics, storyboards — of the content they are studying, rather than only viewing instructor-provided graphics. The act of constructing a visual forces learners to select, organize, and integrate information, making it a generative learning activity rather than a passive one.
 

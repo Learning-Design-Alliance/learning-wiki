@@ -10,6 +10,8 @@ generated:
 
 # Civic Online Reasoning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Civic online reasoning is the set of skills needed to judge the credibility of information encountered online — evaluating sources, evidence, and claims about social and political issues. The strategy, developed by the Stanford History Education Group (SHEG, now the Digital Inquiry Group), replaces checklist-based evaluation (e.g., CRAAP tests) with the strategies professional fact-checkers actually use: leaving the page to investigate the source elsewhere ("lateral reading"), checking prior claims, and triangulating across sources [Explicit instruction in lateral reading improves students' evaluation of online sources.](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S].
 

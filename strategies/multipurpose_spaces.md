@@ -10,6 +10,8 @@ generated:
 
 # Multipurpose Spaces
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A multipurpose space is a physical learning environment designed for rapid reconfiguration — movable furniture, writable surfaces, accessible storage, and flexible power/technology — so the same room can host presentation, [class discussion](../elements/class-discussion.md), small-group collaboration, and independent work within a single session. The design goal is that the environment's affordances match the pedagogy of the moment rather than forcing activity to fit a fixed layout.
 

@@ -12,6 +12,8 @@ grain_size: lesson, unit, school-wide
 
 # Responsive Classroom
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Responsive Classroom (RC) is a research- and evidence-based social-emotional learning (SEL) approach for K–8 classrooms developed by the Northeast Foundation for Children. It treats social skills and academic learning as inseparable: teachers use structured routines — most notably the daily [Morning Meeting](../elements/check-in.md), rule creation with students, interactive modeling, academic choice, and positive teacher language — to build a caring classroom community in which academic engagement can flourish. The approach solves the problem of treating behavior management and instruction as separate systems by embedding relationship-building and self-regulation into the same daily structures that deliver content.
 

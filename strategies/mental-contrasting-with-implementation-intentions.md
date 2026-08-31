@@ -10,6 +10,8 @@ generated:
 
 # Mental Contrasting With Implementation Intentions
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Mental Contrasting With Implementation Intentions (MCII) is a two-step self-regulation strategy. First, learners mentally contrast a valued goal with the internal obstacles standing in its way — vividly imagining both the desired outcome and the present hindrance. Second, they form implementation intentions: if-then plans ("If situation X arises, then I will do Y") that link anticipated obstacles to specific responses. The combined procedure is sometimes taught under the name WOOP (Wish, Outcome, Obstacle, Plan).
 

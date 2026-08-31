@@ -10,6 +10,8 @@ generated:
 
 # Minimally Invasive Hand Gesture
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A minimally invasive hand gesture is a pre-taught, silent physical signal — a raised hand, a finger to the lips, a specific two-finger sign — that prompts students to stop talking and attend without the teacher raising their voice. The gesture functions as a low-intensity classroom management cue: it redirects attention while instruction is still in motion, rather than halting the lesson to issue a verbal command.
 

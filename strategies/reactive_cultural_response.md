@@ -10,6 +10,8 @@ generated:
 
 # Reactive Cultural Response
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Reactive Cultural Response is the deliberate adjustment of classroom structure, activities, grouping, and norms during the school year as the personality, strengths, and challenges of a particular group of students become visible. It treats the classroom culture as emergent rather than fixed: the teacher observes day-to-day dynamics and modifies routines, discussion formats, and social arrangements to fit the group that actually exists, not the one planned for in August.
 

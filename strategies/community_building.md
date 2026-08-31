@@ -10,6 +10,8 @@ generated:
 
 # Community Building
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Community building is the intentional cultivation of relationships, shared norms, and collective identity within a learning group. It is carried out through structured early interactions (introductions, [Check-Ins](../elements/check-in.md)), ongoing collaborative routines, and design decisions that make learners interdependent — so that participation feels socially meaningful rather than merely required.
 

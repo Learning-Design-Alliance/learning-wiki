@@ -10,6 +10,8 @@ generated:
 
 # Planned Ignoring
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Planned ignoring is a classroom management strategy in which the teacher deliberately withholds attention — eye contact, verbal response, emotional reaction — from a student's minor attention-seeking misbehavior (e.g., calling out, off-hand comments, posturing), while actively attending to and reinforcing compliant behavior. It operates on the operant principle that behaviors maintained by adult attention will extinguish when that reinforcement is removed [Operant conditioning: behaviors followed by reinforcement increase; behaviors without reinforcement decline.](../theories/behaviorism.md) [+S].
 

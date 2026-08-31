@@ -23,6 +23,8 @@ sources:
 
 # Guided Practice
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Guided practice is the instructional principle of giving learners repeated opportunities to apply a skill or concept while support is still available. It sits between initial explanation or modeling and independent performance. The purpose is not mere repetition: guided practice lets learners attempt the task, receive targeted feedback, and gradually assume more of the work as scaffolds are faded. It is especially important when a skill has multiple steps, hidden decision points, or a high likelihood of early error.
 

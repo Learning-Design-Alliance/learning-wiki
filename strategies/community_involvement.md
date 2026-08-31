@@ -10,6 +10,8 @@ generated:
 
 # Community Involvement
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Community involvement brings people beyond the instructional core — family members, local experts, community organizations, and online communities — into the learning process. It is carried out through guest participation and mentoring in physical classrooms, family partnership programs, and online communities or social media that extend collaboration beyond class time.
 

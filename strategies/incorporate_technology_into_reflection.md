@@ -10,6 +10,8 @@ generated:
 
 # Incorporate Technology into Reflection
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy uses digital tools to structure and support reflective activity: students record observations, respond to prompts, comment on peers' thinking, and revisit their own prior reflections over time. Technology does not replace reflection — it changes its logistics, making it asynchronous, persistent, searchable, and shareable. Common formats include microblog-style posts, collaborative documents, audio/video journals, and threaded discussion platforms.
 

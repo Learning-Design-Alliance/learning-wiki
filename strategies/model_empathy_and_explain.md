@@ -10,6 +10,8 @@ generated:
 
 # Model Empathy and Explain
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Model Empathy and Explain is a social modeling strategy in which the instructor demonstrates empathic behavior — attending to others' feelings, restating perspectives, expressing genuine concern — and then makes the underlying reasoning explicit ("I noticed she sounded frustrated, so I asked what was wrong before moving on"). It combines behavioral demonstration with metacognitive explanation, converting tacit social-emotional skill into observable, imitable steps. The strategy draws on social learning theory: learners acquire social behaviors largely through observation of models rather than direct instruction about them [Bandura, A. (1977). *Social learning theory*. Prentice Hall.] [+S].
 

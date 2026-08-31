@@ -10,6 +10,8 @@ generated:
 
 # Which One Doesn’t Belong?
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The instructor or learners place 3–4 dot cards on the table. Two or three cards represent the same quantity, while one represents a different quantity. The learner identifies the card that doesn't belong and, critically, explains *why* — prompting analysis and comparison of quantities rather than simple recognition. Because any card can be made the "odd one out" by choosing the right attribute, well-designed sets invite multiple justifications and discussion. The activity builds number sense by requiring learners to discriminate quantities, and it differentiates naturally through the numerical range and complexity of the dot arrangements.
 

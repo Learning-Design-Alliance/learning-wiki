@@ -10,6 +10,8 @@ generated:
 
 # Dictionary & Thesaurus
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Incorporating web dictionaries and thesauruses into vocabulary lessons allows learners to quickly search and understand unfamiliar words. When learners look up challenging words while reading, they monitor their comprehension and activate cognitive processes that support increased recall and consolidation to long-term memory. Features such as voice search, audio pronunciation, and embedded quizzes can further support vocabulary building and practice.
 

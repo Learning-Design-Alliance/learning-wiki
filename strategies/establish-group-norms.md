@@ -10,6 +10,8 @@ generated:
 
 # Establish Group Norms
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Establishing group norms means making the expected behaviors of a collaborative group explicit — how members speak, listen, disagree, share work, and make decisions — and then reinforcing those expectations over time. Norms are typically co-created with learners at the start of a collaboration cycle, posted visibly, and revisited when group functioning breaks down.
 

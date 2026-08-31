@@ -10,6 +10,8 @@ generated:
 
 # Free Graphing Calculator App
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The Free Graphing Calculator app (William Jockusch) is a free mobile application that bundles a full-featured graphing calculator, scientific calculator, unit converter, statistics tool, and reference tables of formulas and constants in a single interface. Its learning value comes primarily from *offloading*: by handling routine computation and graph rendering, it frees working-memory resources for reasoning about mathematical structure rather than arithmetic mechanics [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. It is a tool for *doing* mathematics, not a teaching system — it provides no instruction, feedback, or progression, so learning gains depend entirely on how tasks around it are designed.
 

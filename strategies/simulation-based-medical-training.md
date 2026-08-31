@@ -10,6 +10,8 @@ generated:
 
 # Simulation Based Medical Training
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Simulation based medical training places learners in replicated clinical situations — high-fidelity manikins, partial task trainers, standardized patients, screen-based scenarios, or immersive virtual reality — where they perform assessments, procedures, and team decisions without risk to real patients. The simulation itself is only half the design: a structured debriefing afterward, in which learners reflect on performance against expert standards, is where much of the durable learning occurs.
 

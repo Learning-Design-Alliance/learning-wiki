@@ -10,6 +10,8 @@ generated:
 
 # Connecting
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Connecting involves relating a current problem or text to prior knowledge and experiences. It asks learners if the current problem reminds them of any other problem they have solved and how they solved it — for example, "Does this remind you of another math problem? What did you do then?" The strategy operationalizes schema theory: new information is comprehensible and memorable only when it can be assimilated into existing knowledge structures [Ausubel's advance-organizer research shows meaningful verbal learning depends on anchoring new material to relevant prior concepts.](https://doi.org/10.1037/h0046669) [+S].
 

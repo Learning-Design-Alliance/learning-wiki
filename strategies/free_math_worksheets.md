@@ -10,6 +10,8 @@ generated:
 
 # Free Math Worksheets
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Free math worksheets are openly available sets of practice problems organized by topic and difficulty, spanning basic arithmetic through advanced topics. They are used for homework, in-class practice, or supplemental independent work, giving learners repeated opportunities to apply procedures and consolidate skills. Their instructional value depends less on the worksheet itself than on how it is sequenced, paired with feedback, and integrated with instruction.
 

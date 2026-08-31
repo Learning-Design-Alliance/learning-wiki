@@ -10,6 +10,8 @@ generated:
 
 # Midterm Exam
 
+> **Element** · [All elements](index.md)
+
 ## Description
 A midterm exam is a formal, summative assessment administered at the midpoint of a course to measure student understanding and retention of material covered so far. Beyond certification of progress, it functions as a high-stakes retrieval event: preparing for and taking the exam forces learners to reconstruct and consolidate course content.
 

@@ -10,6 +10,8 @@ generated:
 
 # Concept Mapping
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Concept maps are visual tools that help learners organize and articulate what they know about a given concept or topic. Important concepts are enclosed in a circle or box and connected by labeled links that specify the relationship (e.g., "begins with," "includes," "aids"), forming a network of propositions rather than a linear outline. Because learners must decide which concepts matter and how they relate, mapping forces generative processing of the material instead of passive rereading.
 

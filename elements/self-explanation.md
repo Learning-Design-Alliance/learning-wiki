@@ -15,6 +15,8 @@ sources:
 
 # Self-Explanation
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Self-explanation is the element in which learners explain to themselves why something is true, why a step works, or how a solution fits the problem. It is useful when the goal is to deepen understanding beyond surface completion.
 

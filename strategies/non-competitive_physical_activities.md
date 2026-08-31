@@ -10,6 +10,8 @@ generated:
 
 # Non-Competitive Physical Activities
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Non-competitive physical activities offer pre-teens and teenagers who dislike organized sports accessible alternatives — skipping, swimming, gym sessions, online workouts, or community activities such as youth clubs, Scouts, or Girl Guides. The strategy emphasizes skill-building, personal progress, and enjoyment rather than winning, so that physical activity becomes self-sustaining rather than contingent on external evaluation.
 

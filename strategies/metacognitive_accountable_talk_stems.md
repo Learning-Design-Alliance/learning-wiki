@@ -10,6 +10,8 @@ generated:
 
 # Metacognitive Accountable Talk Stems
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Accountable talk stems are phrases and sentence starters (e.g., "I agree with ___ because…", "Can you explain how you got that?", "I changed my mind when…") that structure classroom discussion so students must ground claims in evidence, respond to peers' reasoning, and articulate their own thinking processes. The metacognitive variant adds stems that make monitoring visible — "I'm confused because…", "What strategy did you use?", "How do I know this is right?" — turning talk itself into a vehicle for self-regulated learning. The approach derives from the Institute for Learning's Accountable Talk framework (Michaels, O'Connor, & Resnick), which distinguishes accountability to the learning community, to accurate knowledge, and to rigorous reasoning.
 

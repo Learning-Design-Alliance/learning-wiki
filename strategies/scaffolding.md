@@ -10,6 +10,8 @@ generated:
 
 # Scaffolding
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Scaffolding is the provision of temporary, adaptive support that enables learners to complete tasks they could not yet perform alone, with support gradually withdrawn as competence develops. The term originates in Wood, Bruner, and Ross's (1976) analysis of adult tutoring, building on Vygotsky's [constructivism](../theories/constructivism.md) and the zone of proximal development. Scaffolds can be cognitive (prompts, worked examples, task decomposition), metacognitive (self-regulation checklists), or emotional (sentence stems for articulating feelings, low-stakes practice before high-stakes performance).
 

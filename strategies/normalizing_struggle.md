@@ -10,6 +10,8 @@ generated:
 
 # Normalizing Struggle
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Normalizing struggle is the deliberate shaping of classroom norms, language, and task design so that learners expect difficulty, treat errors as information, and persist through confusion instead of avoiding it. It is carried out through teacher modeling of one's own problem-solving and failure, public discussion of "stuck points," and selection of tasks that are challenging enough to generate genuine — but workable — difficulty. The goal is to reframe struggle from a signal of low ability into a routine feature of the learning process.
 

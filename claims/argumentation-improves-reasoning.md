@@ -11,6 +11,8 @@ evidence_strength: unrated
 
 # Argumentation Improves Reasoning
 
+> **Claim** · [All claims](index.md)
+
 Engaging learners in constructing, critiquing, and defending arguments improves their reasoning skills — including the quality of their justifications, their ability to evaluate evidence, and their transfer of reasoning to new problems.
 
 ## Subclaims

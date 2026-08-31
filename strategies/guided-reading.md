@@ -10,6 +10,8 @@ generated:
 
 # Guided Reading
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Guided reading is a small-group instructional format in which learners read a text at their instructional level — challenging but manageable with support — while the teacher observes, prompts, and coaches. The teacher introduces the text, supports word-solving and comprehension during reading, and leads a brief discussion or teaching point afterward. The goal is to make the reader increasingly independent by gradually transferring strategic control from teacher to learner.
 

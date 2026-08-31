@@ -11,6 +11,8 @@ evidence_strength: moderate
 
 # Highlighting Alone Is Ineffective
 
+> **Claim** · [All claims](index.md)
+
 Highlighting or underlining text by itself does not reliably improve learning, because it can be performed mechanically without the generative processing that builds understanding.
 
 ## Subclaims

@@ -10,6 +10,8 @@ generated:
 
 # Specific Goal Questioning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Specific Goal Questioning means designing questions around a single, explicit analytical goal — for example, "find the grabber and explain why it works" or "map how this essay moves from claim to evidence" — rather than asking general comprehension questions. Each question directs learner attention to one identifiable feature of a mentor text and requires learners to articulate *why* that feature produces its effect, connecting technique to function.
 

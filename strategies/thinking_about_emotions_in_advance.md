@@ -10,6 +10,8 @@ generated:
 
 # Thinking About Emotions in Advance
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy opens a lesson or school day with a brief, structured prompt asking students to identify how they are feeling or what might be bothering them — through a check-in question, mood scale, emotion vocabulary card sort, or quick written reflection. The goal is to surface emotional states *before* instruction begins, so that affect does not operate as unexamined background noise during learning. Naming emotions converts diffuse arousal into identifiable, manageable information, and gives the teacher immediate diagnostic data about the class's readiness to learn.
 

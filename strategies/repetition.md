@@ -10,6 +10,8 @@ generated:
 
 # Repetition
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Repetition is the deliberate re-presentation of key points multiple times within and across a lesson, using simple, plain language that minimizes language-processing demands. Repeating key points gives every student additional opportunities to grasp concepts, while simplified wording removes barriers for learners who process auditory information slowly. It is carried out through verbal emphasis, restatement in varied phrasing, and having learners themselves restate or re-explain the key idea.
 

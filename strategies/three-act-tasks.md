@@ -10,6 +10,8 @@ generated:
 
 # Three Act Tasks
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A Three Act Task is a mathematics lesson structure popularized by Dan Meyer in which a short multimedia story unfolds in three acts. **Act 1** presents a brief video or image ending on a question-worthy conflict (e.g., "Which will run out first, the water or the tank?"); students generate their own questions and estimates. **Act 2** provides the information students request to resolve the conflict, prompting them to model and compute. **Act 3** reveals the resolution via video, followed by a discussion comparing student solutions to the actual outcome. The structure deliberately delays formal information and procedure until learners feel a need for them.
 

@@ -10,6 +10,8 @@ generated:
 
 # Connect with Parents Early in the School Year
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Connecting with parents as soon as possible in the school year through personalized phone calls, emails, in-person conversations, or letters home. The goal is to establish open, comfortable communication channels and mutual respect before problems arise. Contacting parents early — especially with positive, student-specific feedback — builds a foundation of trust that supports collaboration, home reinforcement of learning, and faster resolution of issues throughout the year.
 

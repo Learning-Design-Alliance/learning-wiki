@@ -10,6 +10,8 @@ generated:
 
 # Video-Based Reflection
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Video-based reflection is the element in which learners review recorded performance to analyze choices, patterns, and next steps.
 

@@ -10,6 +10,8 @@ generated:
 
 # One-on-One Conference
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 One-on-one conferences involve providing individualized feedback to a learner in a private setting. This approach allows for personalized attention, facilitates open communication, and provides an opportunity for the learner to ask questions. Conferences are typically structured around a shared artifact (a draft, a project, a portfolio) and a small set of goals, with the learner doing substantial talking — explaining their reasoning, self-assessing, and setting next steps — rather than passively receiving the instructor's evaluation.
 

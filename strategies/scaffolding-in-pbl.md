@@ -10,6 +10,8 @@ generated:
 
 # Scaffolding in PBL
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Scaffolding in problem-based learning (PBL) is the deliberate embedding of supports — question prompts, worked examples, expert models, progress-monitoring tools, and structured collaboration scripts — into ill-structured problem work. Supports are temporary and faded as learners develop the self-regulation and domain knowledge to work unaided. The strategy answers the central critique of minimally guided inquiry: that novices lack the schemas to search problem spaces effectively on their own [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [-S].
 

@@ -10,6 +10,8 @@ generated:
 
 # Disciplinary Literacy
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Disciplinary literacy is the principle that literacy instruction in subject areas should teach the specialized ways of reading, writing, thinking, and communicating that define each discipline. Instead of treating "reading strategies" as content-neutral tools applied uniformly across subjects, it positions learners as apprentices to disciplinary practices: interrogating sources like historians, weighing evidence like scientists, or evaluating arguments like literary critics. The recommendation is to make these discipline-specific practices explicit, model them, and give learners supervised practice in authentic disciplinary tasks.
 

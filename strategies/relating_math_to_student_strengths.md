@@ -10,6 +10,8 @@ generated:
 
 # Relating Math to Student Strengths
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy connects mathematical content to learners' existing interests, hobbies, and areas of competence — sports statistics, art, music, gaming, finance — so that new math concepts land on familiar ground. The instructor gathers information about what learners care about and are good at, then designs examples, problems, and projects that route the math through those domains. The goal is twofold: raise motivation by making content personally meaningful, and raise confidence by positioning learners as experts who bring valued knowledge to the math classroom.
 

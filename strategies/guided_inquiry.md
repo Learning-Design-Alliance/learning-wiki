@@ -10,6 +10,8 @@ generated:
 
 # Guided Inquiry
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Guided inquiry positions learners as investigators who generate questions, gather evidence, and build explanations, while the instructor supplies structure — task framing, scaffolds, prompts, and just-in-time direct instruction — that keeps the investigation productive. It sits between pure discovery, which offers minimal support, and [Direct Instruction](../patterns/direct-instruction.md), which specifies most of the path. The guidance is calibrated: enough to prevent unproductive search, not so much that learners stop reasoning for themselves.
 

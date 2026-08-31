@@ -10,6 +10,8 @@ generated:
 
 # Dot Card Flash
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 One learner briefly flashes a dot card (typically 2–3 seconds) to a partner, then hides it. The partner recreates the arrangement using counters on their own card or mat, then the pair compares and discusses. The brief exposure forces learners to perceive quantity rapidly rather than count one-by-one, building subitizing — instant recognition of small quantities — and a visual memory of number arrangements.
 

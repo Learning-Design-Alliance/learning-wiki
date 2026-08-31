@@ -10,6 +10,8 @@ generated:
 
 # Identifying Self-Talk
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Students record the messages from their inner voice over the course of a week in a journal or notebook. The teacher reminds students that self-talk is incessant and happens all the time, and asks them to record a minimum of five inner-voice messages per day. The goal is not to change self-talk yet, but to build awareness of its content, tone, and triggers — the prerequisite step for later reframing.
 

@@ -10,6 +10,8 @@ generated:
 
 # Family Literacy Programs
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Family literacy programs are structured interventions that work with parents (or primary caregivers) and children — sometimes together, sometimes in separate but coordinated sessions — to improve the home literacy environment and caregivers' ability to support children's language and reading development. Typical components include parent education about literacy development, modeled or coached parent–child interaction (e.g., shared book reading), literacy activities to use at home, and often adult literacy or ESL instruction for the parents themselves. Programs are delivered through schools, libraries, community organizations, and adult education systems (in the U.S., often under the Even Start or family literacy provisions of adult education legislation).
 

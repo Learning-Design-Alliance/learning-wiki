@@ -10,6 +10,8 @@ generated:
 
 # Sentence Frames And Starters
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Sentence frames are partially completed templates ("The evidence suggests that ___ because ___") that learners complete with their own ideas; sentence starters are opening phrases ("One way to interpret this data is…") that launch a response. Both externalize the syntactic and discourse structure of academic language so learners can focus on reasoning rather than constructing grammar from scratch.
 

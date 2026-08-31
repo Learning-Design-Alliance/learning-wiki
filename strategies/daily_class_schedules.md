@@ -10,6 +10,8 @@ generated:
 
 # Daily Class Schedules
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A daily class schedule allocates specific time blocks to subjects and activities across the school day. Beyond administrative necessity, the schedule is a learning design instrument: the sequencing of demanding vs. restorative activities, the placement of [Practice](../elements/practice.md) relative to instruction, and the consistency of routines all shape how much productive learning time a day contains. Well-designed schedules make the day predictable, which reduces the working-memory and emotional cost of constant novelty, and place cognitively demanding subjects when attentional resources are highest.
 

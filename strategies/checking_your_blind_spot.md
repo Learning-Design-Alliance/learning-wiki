@@ -27,6 +27,8 @@ sources:
 
 # Checking Your Blind Spot
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Checking your blind spot is a reflective strategy in which learners deliberately surface the unconscious biases that shape their judgments, decisions, and evaluations. It proceeds in three moves: acknowledging that bias exists and operates outside awareness, examining concrete instances where it may have influenced one's own reasoning, and applying structured countermeasures — decision criteria set in advance, consideration of alternatives, and accountability checks — at the point of judgment. The strategy treats bias as a habit to be managed rather than a flaw to be eliminated.
 

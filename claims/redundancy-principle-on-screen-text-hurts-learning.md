@@ -11,6 +11,8 @@ evidence_strength:
 
 # Redundancy Principle On Screen Text Hurts Learning
 
+> **Claim** · [All claims](index.md)
+
 Presenting the same information simultaneously as narration and as on-screen text tends to impair learning relative to narration alone, because learners split visual attention between reading and watching.
 
 ## Subclaims

@@ -23,6 +23,8 @@ sources:
 
 # Creating Space for New Ideas
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Creating space for new ideas means deliberately structuring the conditions under which educators can experiment with unfamiliar approaches: protected time, access to resources and expertise, and — most critically — psychological safety, so that trying and failing is treated as data rather than deficiency. It is carried out through routines such as scheduled innovation time, small-scale pilots, peer observation, and public framing of failure as informative.
 

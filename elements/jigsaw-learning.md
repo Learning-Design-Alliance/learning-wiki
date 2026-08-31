@@ -10,6 +10,8 @@ generated:
 
 # Jigsaw Learning
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Jigsaw learning is the short-form canonical target for the jigsaw-style distribution of expertise and peer teaching.
 

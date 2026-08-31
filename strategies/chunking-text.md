@@ -10,6 +10,8 @@ generated:
 
 # Chunking Text
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Chunking text means dividing continuous prose into smaller, coherent units — short paragraphs, headed sections, bulleted sequences, or step-by-step segments — so that each unit can be held and processed in working memory before being integrated into a larger understanding. Effective chunking is not arbitrary truncation: units are organized around meaning (one idea per segment), often signaled with headings, whitespace, or numbering, so learners can reconstruct the whole from the parts.
 

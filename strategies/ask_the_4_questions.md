@@ -10,6 +10,8 @@ generated:
 
 # Ask the 4 Questions
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy structures feedback around four questions: What can the student do? What can't the student do? How does the student's work compare with that of others? How can the student do better? Answering all four gives the learner an accurate picture of current performance and a concrete path forward. The same four answers also serve as a clear, jargon-free structure for communicating with parents and caregivers.
 

@@ -10,6 +10,8 @@ generated:
 
 # Multiple Examples
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 When teaching a new technique, providing multiple examples helps students understand and apply the technique in their own writing. A single example risks learners encoding surface features rather than the underlying principle; multiple varied examples support abstraction of the deep structure. Definition alone is insufficient — learners need to see the technique instantiated in different contexts before they can deploy it flexibly.
 

@@ -10,6 +10,8 @@ generated:
 
 # Let Students Know What Order They Will Be Called On
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The instructor announces — at the start of a discussion or before each round — the sequence in which students will be called on (e.g., alphabetical, by seating order, by a posted roster, or by a shuffled deck shown to the class). This converts unpredictable cold-calling into a predictable turn-taking structure. Students who need more processing time, who experience discussion anxiety, or who struggle with inhibitory control can rehearse or draft a response and hold it until their turn, rather than either blurting out or disengaging.
 

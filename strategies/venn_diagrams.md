@@ -10,6 +10,8 @@ generated:
 
 # Venn Diagrams
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A Venn diagram represents two or more concepts as overlapping circles, with shared characteristics placed in the intersection and unique characteristics in the outer regions. Learners either complete a provided diagram or construct their own while comparing texts, cases, categories, or systems. The overlap structure forces an explicit decision about whether a feature is shared, unique, or inapplicable — turning vague "compare and contrast" prompts into a concrete sorting task.
 

@@ -10,6 +10,8 @@ generated:
 
 # Stop and Jot
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Stop and Jot is a structured processing activity in which learners pause at designated points during a lesson and write brief responses — summaries, answers, predictions, or connections — to instructor-posed questions, often in a "stop box" on their notes. The pause gives learners time to consolidate and make sense of material before new content arrives, and gives the instructor a fast formative read on understanding. It functions simultaneously as engagement technique, note-taking scaffold, and comprehension check.
 

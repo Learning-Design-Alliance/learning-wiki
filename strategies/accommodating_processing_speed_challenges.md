@@ -10,6 +10,8 @@ generated:
 
 # Accommodating Processing Speed Challenges
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Accommodating processing speed challenges means adjusting pacing, task volume, and response formats so that learners who process information slowly can demonstrate knowledge without speed acting as a confound. Processing speed — the rate at which simple cognitive operations are executed — varies widely across learners, develops through childhood and adolescence, and declines with age [Salthouse, T. A. (1996). The processing-speed theory of adult age differences in cognition. *Psychological Review, 103*(3), 403–428](https://doi.org/10.1037/0033-295X.103.3.403) [+S]. The strategy is carried out through extended time, reduced item volume, chunked tasks, extended wait time in discussion, and scaffolds that reduce the amount of novel information a learner must hold and manipulate at once.
 

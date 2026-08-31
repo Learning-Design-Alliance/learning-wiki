@@ -10,6 +10,8 @@ generated:
 
 # Co Constructing Rubrics With Students
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Co-constructing rubrics involves students in drafting, negotiating, or refining the criteria and performance-level descriptions by which their work will be judged, rather than receiving a finished rubric from the instructor. The process typically begins with students analyzing exemplars (strong and weak), naming the qualities that distinguish them, and translating those qualities into explicit criteria and descriptors. The instructor's role shifts from author to facilitator, ensuring the resulting criteria are accurate, assessable, and aligned with learning goals.
 

@@ -10,6 +10,8 @@ generated:
 
 # WWYD Critical Incidents
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners are presented with mini case studies that feature a conflict or misunderstanding and are asked, "What would you do if you were person X/person Y?" Each learner commits to an interpretation and a course of action from a specific role's viewpoint, then compares responses in discussion. The strategy converts a [Case Study](../elements/case-study.md) into a forced decision point, which surfaces prior assumptions and makes disagreement between learners visible and discussable.
 

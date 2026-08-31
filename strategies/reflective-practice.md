@@ -10,6 +10,8 @@ generated:
 
 # Reflective Practice
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Reflective practice is the deliberate, structured examination of one's own experience — what happened, why it happened, what one thought and felt, and what to do differently — carried out through writing, dialogue, or guided questioning. It converts raw experience into transferable insight by forcing articulation of tacit reasoning rather than letting experience pass unexamined.
 

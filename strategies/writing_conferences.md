@@ -10,6 +10,8 @@ generated:
 
 # Writing Conferences
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Writing conferences are brief, individualized meetings between a teacher and a student focused on the student's writing. The teacher listens to the student read or discuss their draft, asks questions that prompt reflection, and offers one or two specific, actionable suggestions tied to a clear goal. Rooted in the process-writing tradition of Graves, Atwell, and Calkins, the conference treats the student as the primary decision-maker about their text, with the teacher acting as coach rather than editor.
 

@@ -10,6 +10,8 @@ generated:
 
 # Attention Signals
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Attention signals are techniques used by instructors to regain focus and quiet a noisy learning environment. Signals range from simple auditory or visual cues — flicking the lights, ringing a chime, raising a hand — to call-and-response routines in which the instructor calls a phrase and learners respond with a rehearsed reply. Effective signals are explicitly taught, rehearsed, and applied consistently, so that the response becomes automatic and instruction can resume within seconds.
 

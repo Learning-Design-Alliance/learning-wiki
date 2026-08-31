@@ -10,6 +10,8 @@ generated:
 
 # Find the Difference
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners are shown two dot cards, identify which card has more dots, and determine the difference — how many more dots are on the greater card. The comparison structure ("how many more?") gives subtraction a concrete meaning: rather than executing an abstract operation, learners physically or mentally match dots one-to-one and count the leftover set. This grounds the difference interpretation of subtraction in a visual, countable representation before learners encounter symbolic number sentences.
 

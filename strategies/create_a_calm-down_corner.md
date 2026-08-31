@@ -10,6 +10,8 @@ generated:
 
 # Create a Calm-Down Corner
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A calm-down corner (also called a peace corner) is a dedicated classroom space where students can go to regulate strong emotions before rejoining instruction. It is stocked with self-regulation supports — emotion identification charts, breathing guides, fidget tools, and social-emotional books — and is framed as a positive, non-punitive resource rather than a consequence. The corner works as a low-stakes environment for practicing self-soothing and emotional awareness skills that students eventually generalize to unstructured settings.
 

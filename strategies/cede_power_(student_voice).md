@@ -10,6 +10,8 @@ generated:
 
 # Cede Power (Student Voice)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Ceding power means transferring genuine decision-making authority to students over aspects of their learning — what is studied, how it is assessed, how the classroom runs — rather than offering token input. It ranges from bounded choices within teacher-set structures to full co-design of curriculum and governance, and is carried out through mechanisms like co-constructed rubrics, student-led conferences, and participatory rule-making.
 

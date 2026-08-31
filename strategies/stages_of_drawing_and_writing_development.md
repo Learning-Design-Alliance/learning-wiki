@@ -10,6 +10,8 @@ generated:
 
 # Stages of Drawing and Writing Development
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Children progress through predictable stages of drawing and writing development: random scribbling, controlled scribbling, lines and patterns, pictures of objects or people, and letter and word practice. Art and early writing skills are developmentally intertwined — children first discover the link between the hand holding the crayon and the mark on the page, experiencing the power of cause and effect. As fine motor control improves, scribbles become deliberate, then representational, then symbolic (letters and words). The sequence is best understood as a descriptive map of typical development, not a timetable to enforce.
 

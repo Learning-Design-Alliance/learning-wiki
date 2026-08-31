@@ -11,6 +11,8 @@ evidence_strength:
 
 # Social Emotional Learning Programs Improve Achievement
 
+> **Claim** · [All claims](index.md)
+
 Structured SEL programs — explicit instruction in self-awareness, self-management, social awareness, relationship skills, and responsible decision-making — are claimed to raise academic achievement, not merely improve behavior or wellbeing.
 
 ## Subclaims

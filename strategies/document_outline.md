@@ -10,6 +10,8 @@ generated:
 
 # Document Outline
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The "Document outline" tool in Google Docs can be an easy and effective way to ask students to pick out evidence that supports the main ideas they've found. Students write a heading for a paragraph or group of paragraphs and select "Heading 1"; when they find a sentence or phrase representing supporting evidence, they summarize it and label it "Heading 2." An outline automatically populates in the sidebar with main ideas and nested evidence, and can be exported as a table of contents to serve as a jumping-off point for writing.
 

@@ -10,6 +10,8 @@ generated:
 
 # Scaffolded Problem Sequencing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Scaffolded problem sequencing arranges a set of practice tasks along a deliberate difficulty gradient, pairing each step of increasing complexity with an appropriate level of support — from worked examples, to completion problems, to independent problem solving. The sequence is designed so that learners are neither overwhelmed by premature complexity nor bored by redundant practice, with supports [faded](../elements/fading.md) as competence grows.
 

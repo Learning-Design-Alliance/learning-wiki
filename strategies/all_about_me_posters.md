@@ -10,6 +10,8 @@ generated:
 
 # All About Me Posters
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners create a visual poster representing their identity, interests, family, and experiences, then present it to peers. The strategy serves two functions simultaneously: it surfaces each learner's prior knowledge and interests for the instructor to draw on later, and it builds interpersonal knowledge that underpins classroom community and a sense of belonging.
 

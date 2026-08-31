@@ -10,6 +10,8 @@ generated:
 
 # Prompt Cards For Emotional Regulation
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Prompt cards are small, portable cues — physical cards, desk strips, or on-screen widgets — that display a named emotion, a strategy, or a decision prompt ("Name it to tame it," "Take five breaths," "Ask for a break"). They function as external memory supports that learners consult at the moment of emotional arousal, when working memory and executive control are degraded. Cards may be teacher-authored, co-created with learners, or self-authored, with self-authored versions generally producing stronger ownership.
 

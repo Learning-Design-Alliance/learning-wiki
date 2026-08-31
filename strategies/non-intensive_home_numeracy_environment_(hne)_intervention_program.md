@@ -10,6 +10,8 @@ generated:
 
 # Non-intensive Home Numeracy Environment (HNE) Intervention Program
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A non-intensive HNE intervention is a low-burden, teacher-initiated program in which educators supply families with guidance, activity suggestions, and concrete materials (games, manipulatives, take-home kits) to enrich the math experiences children encounter at home. Rather than prescribing structured homework, the strategy aims to raise the *frequency* of informal, playful numeracy interactions — board games, counting during routines, measuring while cooking — that research links to children's mathematical development.
 

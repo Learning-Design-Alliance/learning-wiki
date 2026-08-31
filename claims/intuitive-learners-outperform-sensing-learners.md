@@ -16,6 +16,8 @@ id: CL-ALTY2002-2
 
 # Intuitive learners tend to outperform sensing learners in media-based presentations
 
+> **Claim** · [All claims](index.md)
+
 Across a series of computer-based media experiments, learners with a preference for intuitive processing (abstract, symbolic) scored higher than sensing-preferring learners (concrete, factual), but the advantage was not uniform across presentation formats.
 
 ## Subclaims

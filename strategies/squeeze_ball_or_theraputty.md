@@ -10,6 +10,8 @@ generated:
 
 # Squeeze Ball or Theraputty
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A squeeze ball or Theraputty is a handheld tactile object provided to a learner as a self-regulation tool. The learner squeezes, stretches, or manipulates the object during instruction or independent work, with the intended function of discharging agitation, sustaining arousal at an optimal level, or providing a permissible movement outlet that reduces more disruptive fidgeting.
 

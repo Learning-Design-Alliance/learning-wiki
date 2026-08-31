@@ -10,6 +10,8 @@ generated:
 
 # Journaling
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Journaling asks learners to write regularly — often briefly and informally — about what they are learning, how they are learning it, or how they are progressing toward goals. Entries may be reflective (what did I understand?), metacognitive (what strategies worked?), or expressive (how do I feel about this material?). The writing is typically low-stakes, personal, and iterative rather than a polished product.
 

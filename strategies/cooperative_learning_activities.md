@@ -10,6 +10,8 @@ generated:
 
 # Cooperative Learning Activities
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Cooperative learning activities are structured group tasks in which learners work together toward a common goal under two deliberate design conditions: **positive interdependence** (the group succeeds only if every member contributes) and **individual accountability** (each member's learning is separately assessed). This distinguishes cooperative learning from mere group work — the structure, not the seating arrangement, produces the effect. Social interdependence theory holds that learners working cooperatively outperform those in competitive or purely individualistic arrangements on achievement, motivation, and interpersonal outcomes [Johnson & Johnson, 2009](https://doi.org/10.3102/0013189X09339057) [+S].
 

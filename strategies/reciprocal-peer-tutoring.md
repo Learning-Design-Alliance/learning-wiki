@@ -10,6 +10,8 @@ generated:
 
 # Reciprocal Peer Tutoring
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Reciprocal peer tutoring (RPT) pairs students of similar ability who alternate the roles of tutor and tutee, taking turns teaching each other content, posing questions, and offering praise and corrective feedback. Because roles rotate, both students experience the generative work of teaching and the guided practice of being tutored, eliminating fixed tutor/tutee hierarchies.
 

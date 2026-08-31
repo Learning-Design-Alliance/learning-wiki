@@ -10,6 +10,8 @@ generated:
 
 # Cross-Curricular Art Integration
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Cross-curricular art integration embeds artistic production — drawing, painting, printmaking, songwriting, drama, or design — inside instruction in another discipline, so that the art activity requires learners to engage with the academic content rather than decorate it. Examples include leaf rubbings and botanical illustration for plant identification, gyotaku (fish print) painting in biology, and creating or analyzing historical propaganda posters and protest songs. The defining feature is bidirectionality: the art task is the vehicle for the content, not a reward appended to it.
 

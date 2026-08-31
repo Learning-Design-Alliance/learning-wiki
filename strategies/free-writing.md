@@ -10,6 +10,8 @@ generated:
 
 # Free Writing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Free writing asks learners to write continuously for a fixed, short period (typically 3–10 minutes) without pausing to edit, correct, or censor. The rule is momentum: if the writer stalls, they write something like "I don't know what to write" until thought resumes. The product is private or low-stakes by design, which separates idea generation from revision and removes evaluation pressure.
 

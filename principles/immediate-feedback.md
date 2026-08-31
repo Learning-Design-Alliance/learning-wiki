@@ -23,6 +23,8 @@ sources:
 
 # Immediate Feedback
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Immediate feedback is feedback delivered close enough to a learner's action that it can still shape interpretation, correction, and the next attempt. Its value is not just speed, but timeliness relative to the learner's current thinking: when feedback arrives while the reasoning path, misconception, or uncertainty is still active, it is easier to adjust strategy and avoid rehearsing errors. Immediate feedback is especially useful during skill acquisition, guided practice, and high-frequency retrieval or problem-solving tasks.
 

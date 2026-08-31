@@ -10,6 +10,8 @@ generated:
 
 # Inquiry-Based Exploration
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Inquiry-based exploration places learners in front of an open-ended problem, question, or phenomenon and asks them to investigate it — gathering information, forming hypotheses, testing ideas, and generating solutions — rather than first receiving a fully worked explanation. The instructor's role shifts from transmitter to designer of the problem and facilitator of the investigation.
 

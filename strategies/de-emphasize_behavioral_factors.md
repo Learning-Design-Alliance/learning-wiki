@@ -10,6 +10,8 @@ generated:
 
 # De-emphasize Behavioral Factors
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 De-emphasizing behavioral factors means stripping non-academic criteria — compliance, attendance, effort, participation, late penalties, and conduct — out of grading so that a grade communicates only what a student knows and can do relative to defined learning goals. The practice is carried out by auditing gradebook categories, replacing behavior-based deductions with separate, non-graded reporting on work habits, and rebuilding grade calculations around evidence of mastery.
 

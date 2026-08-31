@@ -10,6 +10,8 @@ generated:
 
 # Multiple Representations: Number Line
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The number line is a linear visual representation in which numbers are mapped onto positions along a line, making magnitude, order, and interval structure spatially visible. Learners encounter it through physical manipulatives, game boards, and interactive digital tools, where they move, estimate, and compare positions rather than only manipulating symbols. Because it links quantity to space, the number line functions as a bridge between concrete counting and abstract symbolic arithmetic.
 

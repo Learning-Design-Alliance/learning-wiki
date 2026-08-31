@@ -10,6 +10,8 @@ generated:
 
 # Mystery Motivator
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A Mystery Motivator is a [behavioral](../theories/behaviorism.md) reinforcement technique in which learners can earn a reward for meeting a specified criterion (e.g., completing work, staying on task), but the reward itself — or whether it will be delivered at all — is hidden until the criterion is met. The teacher seals a reward in an envelope, covers a hidden prize chart, or uses a spinner revealed only after the target behavior occurs. The unpredictability of the payoff is the mechanism: variable, uncertain reinforcement sustains responding better than predictable delivery.
 

@@ -23,6 +23,8 @@ sources:
 
 # Foster Growth Mindset
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Fostering a growth mindset means designing instruction so that effort, revision, and strategic improvement are treated as normal parts of learning rather than as signs of low ability. In practice, this principle is less about slogans and more about the surrounding message system: what gets praised, how errors are discussed, whether progress is made visible, and whether learners are given a credible path to improve. Growth-mindset-oriented environments help learners interpret difficulty as information about strategy and support needs instead of as proof that they cannot succeed.
 

@@ -133,6 +133,42 @@ which appends the `verified` entry alongside its normal `generated`/log-update w
 
 ---
 
+## Page-type banner
+
+Every content page carries a one-line banner directly under its `# H1`, naming
+the page's type and linking back to its section index:
+
+```markdown
+# Cooperative Learning
+
+> **Principle** · [All principles](index.md)
+```
+
+This exists because 73 slugs live in more than one type folder — `cooperative-learning`
+and `direct-instruction` each exist in **all four** of principles/elements/patterns/strategies,
+with near-identical titles. Frontmatter carries `type`, but mkdocs strips frontmatter out
+of the rendered page entirely, so on the docs site, in GitHub's file view, in the dashboard's
+edit box, and in whatever an agent reads during an ingest, the folder in the URL was the only
+thing distinguishing them. A blockquote renders as a visible callout in both GitHub and
+mkdocs-material.
+
+The banner's label follows the **folder the page is in**, which is what actually determines
+its section — so where frontmatter `type` and the folder disagree, that's a real data bug
+(the page is either misfiled or mislabelled) and a human decides which. `lint.py`'s
+`check_type_banner` verifies all three agree — banner present, label matches folder, and
+frontmatter `type` matches folder — on every health run.
+
+Run `python3 scripts/add_type_banner.py --apply` after any batch that creates pages; it's
+idempotent (updates an existing banner in place rather than stacking a second one), so it's
+safe to re-run at any time. `--check` reports without writing.
+
+Yes, this duplicates `type:` from frontmatter into the body — the same tradeoff this schema
+already accepts for `sources:` mirroring the citations in `## Key Sources`: a structured field
+and a human-readable rendering of the same fact, kept in sync by a lint check rather than by
+dropping one.
+
+---
+
 ## Cross-link conventions
 
 - Cross-links are standard markdown links, relative to the linking page: `slug.md` for another page in the same folder, `../folder/slug.md` for a page in a different folder (every content folder sits exactly one level under the wiki root, so `../folder/` always resolves correctly regardless of which folder you're linking from)
@@ -167,6 +203,7 @@ ld-wiki/
     build_indexes.py   ← regenerates index.md and every per-folder index from disk state
     log_revision.py    ← records a revision card + updates a page's `generated` field + appends to log.md
     log_source_review.py ← appends one entry to sources/manifest.ndjson (see Source Manifest below)
+    add_type_banner.py ← inserts/refreshes the page-type banner under each page's H1 (see below)
     lint.py            ← health-check (see Lint above)
 ```
 
@@ -228,6 +265,8 @@ generated:
 
 # [Principle Name]
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 [What this principle is and what it recommends.]
 
@@ -283,6 +322,8 @@ generated:
 
 # [Element Name]
 
+> **Element** · [All elements](index.md)
+
 ## Description
 [What this instructional element is; how it functions.]
 
@@ -335,6 +376,8 @@ grain_size:
 ---
 
 # [Pattern Name]
+
+> **Pattern** · [All patterns](index.md)
 
 ## Description
 [What this pattern is; how it works; what problem it solves.]
@@ -412,6 +455,8 @@ generated:
 
 # [Strategy Name]
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 [What this strategy is and how it is carried out.]
 
@@ -464,6 +509,8 @@ generated:
 ---
 
 # [Theory Name]
+
+> **Theory** · [All theories](index.md)
 
 ## Description
 [What this theory proposes; its core mechanism or claim.]
@@ -519,6 +566,8 @@ generated:
 
 # [Variable Name]
 
+> **Learner Variable** · [All learner variables](index.md)
+
 ## Description
 [What this learner variable is; how it's typically measured or operationalized.]
 
@@ -566,6 +615,8 @@ evidence_strength:   # strong / moderate / weak / mixed
 ---
 
 # [Claim statement — one sentence, present tense]
+
+> **Claim** · [All claims](index.md)
 
 [Optional 1–2 sentence clarification of scope or mechanism.]
 

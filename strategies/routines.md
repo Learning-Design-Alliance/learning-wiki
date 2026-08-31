@@ -10,6 +10,8 @@ generated:
 
 # Routines
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Routines are consistent, practiced sequences for recurring activities — how lessons open, how transitions occur, how group work starts, how feedback is received. By making the *how* of learning automatic, routines reduce the procedural load on both instructor and learners, allowing attention to go to the *what* of learning. They are established through explicit teaching and rehearsal, then maintained through consistent use.
 

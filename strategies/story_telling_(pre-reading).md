@@ -10,6 +10,8 @@ generated:
 
 # Story Telling (Pre-Reading)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The instructor prepares a short, personalized narrative related to the reading topic and tells it enthusiastically before learners encounter the assigned text. The story should be creative and engaging, ideally including suspense and humor. Sharing this narrative creates interest, activates relevant prior knowledge, and establishes a conceptual and emotional bridge into the reading material.
 

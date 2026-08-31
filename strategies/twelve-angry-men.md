@@ -10,6 +10,8 @@ generated:
 
 # Twelve Angry Men
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 *12 Angry Men* (Lumet, 1957) depicts a single jury deliberation in which one juror gradually dismantles an apparently open-and-shut guilty verdict through evidence-based questioning. As a teaching strategy, learners watch the film (or read the play) and then analyze it as a case: mapping arguments and evidence, identifying persuasion tactics and cognitive biases, and reflecting on group dynamics such as conformity, coalition formation, and minority influence. The strategy is typically implemented as a structured [Class Discussion](../elements/class-discussion.md) or [Debate](../patterns/debate.md) following viewing.
 

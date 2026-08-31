@@ -10,6 +10,8 @@ generated:
 
 # Asynchronous Voice
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Asynchronous voice replaces or supplements real-time discussion with spoken messages exchanged through a voice-messaging or audio-comment platform such as Voxer, VoiceThread, or Flip. Learners contribute to a shared conversation whenever they have time; the teacher can join the group to listen in, model contributions, or give spoken feedback. Compared with text discussion boards, voice preserves prosody, tone, and spontaneity, which supports social presence and reduces the composition burden of written posts.
 

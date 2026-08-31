@@ -10,6 +10,8 @@ generated:
 
 # Structuring Lessons
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A lesson structure maps the teaching and learning that occurs in class. Sound lesson structures reinforce routines, scaffold learning via specific steps and activities, optimize time on task and classroom climate through smooth transitions, and stimulate and maintain engagement by linking lesson and unit learning through planned sequencing of teaching and learning activities. Structure operates at two levels: the macro-sequence of activities within a lesson (opening, development, consolidation) and the micro-decisions about how each activity connects to the next.
 

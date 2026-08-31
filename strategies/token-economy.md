@@ -10,6 +10,8 @@ generated:
 
 # Token Economy
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A token economy is a behaviorist reinforcement system in which learners earn tokens (points, stickers, stars, digital currency) immediately for exhibiting target behaviors or producing desired work, then exchange accumulated tokens for backup reinforcers of their choosing. It operationalizes operant conditioning by bridging the gap between behavior and reward: tokens act as conditioned reinforcers that can be delivered instantly and saved toward larger rewards.
 

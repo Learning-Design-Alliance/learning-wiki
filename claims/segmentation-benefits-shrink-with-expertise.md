@@ -11,6 +11,8 @@ evidence_strength: emerging
 
 # Segmentation Benefits Shrink With Expertise
 
+> **Claim** · [All claims](index.md)
+
 The learning benefit of segmenting continuous instructional material (e.g., pausing animation or breaking narration into learner-paced segments) is largest for novices and diminishes — or reverses — as learner expertise increases.
 
 The claim concerns dynamic, transient media (animation, video, narrated slides) where learners cannot otherwise control the pace of information delivery. It is the segmentation-specific instance of the broader [expertise reversal effect](../theories/expertise-reversal-effect.md).

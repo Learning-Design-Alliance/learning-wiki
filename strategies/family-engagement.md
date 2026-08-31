@@ -27,6 +27,8 @@ sources:
 
 # Family Engagement
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Family engagement is a sustained, collaborative practice in which families and school personnel partner to support children's learning and development. It spans behaviors at school (parent–teacher communication, shared expectations, participation in decision-making) and at home (supervision, high expectations, conversations about learning). Effective engagement is planned and reciprocal — schools actively build communication channels and model expectations rather than waiting for families to initiate contact.
 

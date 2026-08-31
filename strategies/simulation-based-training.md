@@ -10,6 +10,8 @@ generated:
 
 # Simulation Based Training
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Simulation based training places learners inside a replicated version of the target task environment — a flight simulator, a mannequin-based clinical scenario, a business negotiation role-play, a virtual patient — where they perform the task under realistic conditions. Because the environment is synthetic, errors carry no real-world cost, difficulty can be controlled and escalated, and performance can be recorded for structured [feedback](../elements/feedback.md) and debriefing.
 

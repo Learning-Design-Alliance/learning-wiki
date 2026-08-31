@@ -10,6 +10,8 @@ generated:
 
 # Contacts Between Students And Faculty
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Contact between students and faculty is the first of Chickering and Gamson's Seven Principles for Good Practice in Undergraduate Education: frequent student–faculty interaction in and out of class, in person and online. It is carried out through responsive teaching presence — timely feedback, accessible office hours, active facilitation of discussion, informal check-ins, and mentorship — rather than through mere availability.
 

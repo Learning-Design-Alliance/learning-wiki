@@ -23,6 +23,8 @@ sources:
 
 # Multimedia Projects
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Multimedia projects ask learners to create meaning through more than one medium, such as text, image, audio, video, interaction, or digital composition. The instructional value is not simply using technology; it is requiring learners to make design choices about how best to represent, explain, and communicate an idea. These projects can deepen engagement and expression, but they also raise the complexity of planning, composing, and production.
 

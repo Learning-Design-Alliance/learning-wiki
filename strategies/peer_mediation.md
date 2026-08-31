@@ -10,6 +10,8 @@ generated:
 
 # Peer Mediation
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Peer mediation trains selected students in a structured conflict-resolution protocol — typically an adapted interest-based negotiation format — so they can serve as neutral facilitators when peers bring disputes to a mediation session. The mediators do not judge or prescribe solutions; they guide disputants through telling their stories, identifying underlying interests, generating options, and drafting a mutually agreed agreement. Programs are usually whole-school: a designated mediation space and referral process, ongoing mediator training, and adult supervision for cases involving violence or serious harm.
 

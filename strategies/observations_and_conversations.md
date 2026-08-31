@@ -10,6 +10,8 @@ generated:
 
 # Observations and Conversations
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Observations and conversations are formative assessment practices in which instructors monitor learning by watching students work and by engaging them in purposeful dialogue — asking probing questions, listening to peer discussion, and documenting what they hear and see through anecdotal notes. The goal is to surface student thinking as it happens, so instruction can be adjusted before misconceptions consolidate rather than after a summative test reveals them.
 

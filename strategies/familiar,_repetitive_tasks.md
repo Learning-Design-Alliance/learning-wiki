@@ -10,6 +10,8 @@ generated:
 
 # Familiar, Repetitive Tasks
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy provides learners with familiar, quiet, repetitive fine motor and visual tasks — stringing beads, sorting activities, put-in tasks, file folder tasks — to complete at the beginning of the day or during transition times. The purpose is regulatory rather than instructional: predictability and low cognitive demand reduce anxiety and support a calm, focused entry into subsequent learning activities.
 

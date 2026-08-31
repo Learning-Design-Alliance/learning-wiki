@@ -10,6 +10,8 @@ generated:
 
 # Acceptance, Responsibility, and Sharing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy guides learners through three moves after an interpersonal conflict: accepting what happened (including outcomes that cannot be undone), taking responsibility for their own wrong actions without accusation or excuse, and sharing feelings and experiences directly with the other person. Sharing is framed as disclosure of one's own experience ("I felt…, I experienced…") rather than blame, and includes openness to receiving the other person's sadness or anger. When resolution is not possible, the strategy shifts to accepting that outcome while extracting a lesson from the situation.
 

@@ -11,6 +11,8 @@ evidence_strength: unverified
 
 # Multiple Contrasting Cases Support Abstraction
 
+> **Claim** · [All claims](index.md)
+
 Comparing multiple cases that differ on key dimensions helps learners abstract the underlying principles, rather than learning each case as an isolated instance. The claim concerns comparison of *minimally contrasting* cases — cases aligned enough to compare, differing on the dimension to be abstracted.
 
 ## Subclaims

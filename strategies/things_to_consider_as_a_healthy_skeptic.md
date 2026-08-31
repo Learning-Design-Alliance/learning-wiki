@@ -10,6 +10,8 @@ generated:
 
 # Things to Consider as a Healthy Skeptic
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy positions healthy skepticism — the disposition to question sources, seek evidence, and entertain multiple perspectives — as a teachable stance rather than a fixed trait. Teachers use curriculum content as a springboard for introducing multiple perspectives, pose thinking prompts that demand evidence rather than checklist-style answers, and structure small-group grappling followed by whole-class exchange of strategies. The goal is for adolescents to experience skepticism as productive: a way of understanding more deeply, not merely doubting.
 

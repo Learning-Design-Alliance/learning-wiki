@@ -10,6 +10,8 @@ generated:
 
 # Handwriting Fluency Practice
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Handwriting fluency practice consists of brief, frequent, timed writing activities — copying letters, words, or sentences, and free writing under time constraints — aimed at making transcription (letter formation and spelling) automatic. The goal is not penmanship aesthetics but speed and effortlessness: when learners no longer need to think about how to form letters, they can allocate attention to planning ideas, sentence construction, and revision.
 

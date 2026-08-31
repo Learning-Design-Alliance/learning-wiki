@@ -10,6 +10,8 @@ generated:
 
 # Emotional Walking Game
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The Emotional Walking Game is a kinesthetic warm-up in which learners walk around a shared space while the facilitator calls out (or signals) an emotion — joy, anger, fear, pride, boredom — and learners immediately re-embody it in their walk: pace, posture, facial expression, and gesture. After each round, brief debrief questions ("What did your body do? How did it feel?") convert the physical experience into explicit emotional vocabulary and awareness.
 

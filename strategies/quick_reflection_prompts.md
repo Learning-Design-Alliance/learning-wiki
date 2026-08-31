@@ -10,6 +10,8 @@ generated:
 
 # Quick Reflection Prompts
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Quick reflection prompts are brief, structured questions posed at the close of a class period or learning activity, asking learners to articulate what they learned, what confused them, or how their thinking changed. Responses may be written (exit tickets, one-minute papers, muddiest-point notes) or spoken and shared aloud. The strategy gives quiet thinkers a low-stakes channel to express ideas and gives instructors a fast read on learner understanding.
 

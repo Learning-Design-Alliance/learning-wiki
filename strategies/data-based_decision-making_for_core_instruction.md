@@ -31,6 +31,8 @@ sources:
 
 # Data-Based Decision-Making for Core Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Data-based decision-making (DBDM) for core instruction is the systematic cycle of collecting student performance data during whole-class (Tier 1) teaching, analyzing it against learning goals, and using the results to adjust instruction — re-teaching, regrouping, changing representations, or accelerating. It treats core instruction itself as an object of continuous improvement rather than assuming that only intervention tiers need data.
 

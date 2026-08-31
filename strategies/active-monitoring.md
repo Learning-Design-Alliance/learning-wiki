@@ -10,6 +10,8 @@ generated:
 
 # Active Monitoring
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Active Monitoring is a strategy in which learners systematically check their own understanding and progress during learning — asking "Do I actually get this?", "Is my current approach working?", and "What don't I understand yet?" — and use the answers to regulate further study. It is the monitoring phase of [Self-Regulated Learning](../theories/self-regulated-learning.md): learners generate internal feedback rather than waiting for it, then act on it by rereading, self-explaining, switching strategies, or seeking help.
 

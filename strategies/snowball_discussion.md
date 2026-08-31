@@ -10,6 +10,8 @@ generated:
 
 # Snowball Discussion
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners begin in pairs, responding to a discussion question only with a single partner. After each person has had a chance to share their ideas, the pair joins another pair, creating a group of four. Pairs share their ideas with the pair they just joined. Next, groups of four join together to form groups of eight, and so on, until the whole class is joined up in one large discussion. This structure could simply be used to share ideas on a topic, or learners could be required to reach consensus every time they join up with a new group.
 

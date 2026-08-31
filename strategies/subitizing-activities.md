@@ -10,6 +10,8 @@ generated:
 
 # Subitizing Activities
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Subitizing is the rapid, accurate perceptual recognition of the number of items in a small set (typically 1–4) without counting [Feigenson et al. 2004]. Subitizing activities present learners with briefly flashed or quickly hidden-and-revealed dot patterns, finger configurations, dice faces, or ten-frame arrangements and ask them to name or match the quantity. Over time, activities extend from perceptual subitizing of small sets to *conceptual* subitizing — chunking larger arrangements (e.g., "I saw a 3 and a 2, so 5") into composite units [Clements & Sarama 2021].
 

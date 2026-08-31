@@ -10,6 +10,8 @@ generated:
 
 # Recess
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Recess is a scheduled daily period — typically 20–30 minutes — in which students engage in free or lightly structured physical activity during the school day. It is carried out by protecting dedicated time, providing adequate space and supervision, and optionally organizing activity zones (e.g., sports courts, quiet games, open play) so students can choose activities matching their interests and abilities.
 

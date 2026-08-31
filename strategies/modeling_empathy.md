@@ -10,6 +10,8 @@ generated:
 
 # Modeling Empathy
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Modeling empathy means the instructor deliberately demonstrates empathic behavior — validating emotions, responding to mistakes with respect, and treating students as co-learners — so that learners observe and internalize these behaviors as norms. Because students learn a great deal from observing significant adults, the teacher's visible reactions to stress, error, and conflict function as a live model of social-emotional conduct [Social learning theory: behavior is acquired through observation of models.](../theories/social-learning-theory.md) [+S]. The empathic response never seeks to embarrass, belittle, or punish; it protects the learning environment while attending to the context and emotions of the individual student.
 

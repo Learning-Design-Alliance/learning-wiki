@@ -10,6 +10,8 @@ generated:
 
 # Discussion Web
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A discussion web is a graphic organizer that enables students to examine both sides of an issue before agreeing on a conclusion, promoting deeper processing of texts through meaningful conversational discussion. Students first generate individual ideas from their reading, then pair up to record, discuss, and resolve their perspectives on the web's pro/con branches; pairs then join into foursomes to reconcile positions, and the foursome nominates a speaker to present a reasoned conclusion to the whole class. The structure guarantees that every student produces written arguments before speaking, converting an open-ended question into a visible map of evidence for and against.
 

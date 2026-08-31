@@ -10,6 +10,8 @@ generated:
 
 # Distributed Practice (Spaced Learning)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Distributed practice, also known as spaced learning, involves reviewing information or practicing skills across multiple sessions spread out over time, rather than in one continuous session (massed practice). It leverages the spacing effect: spaced reviews produce superior long-term retention compared to cramming, because the gaps between encounters make retrieval more effortful, which strengthens the memory trace. Spacing also encodes material with varied contextual cues, supporting transfer and generalization.
 

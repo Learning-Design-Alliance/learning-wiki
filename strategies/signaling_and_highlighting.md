@@ -10,6 +10,8 @@ generated:
 
 # Signaling and Highlighting
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Signaling (also called cueing) directs learners' attention to the most important elements of a lesson by adding non-content cues — bold or colored text, arrows, gestures, headings, voice emphasis, or brief verbal pointers ("note how this step changes the sign"). Highlighting is the most common visual form: marking key words, steps, or regions of a diagram so they stand out from surrounding material.
 

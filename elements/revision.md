@@ -10,6 +10,8 @@ generated:
 
 # Revision
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Revision is the process by which learners rework a product — a text, design, solution, or argument — in response to [Feedback](feedback.md) and their own [Self-Assessment](self-assessment.md). It treats the first attempt as a draft rather than a final answer, making improvement itself the object of learning.
 

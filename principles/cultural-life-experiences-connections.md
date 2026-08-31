@@ -23,6 +23,8 @@ sources:
 
 # Cultural & Life Experiences Connections
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Connecting instruction to learners' cultural and life experiences means treating what learners already know, value, and have lived through as assets for meaning-making rather than as irrelevant background. When instruction acknowledges community knowledge, work experience, language practices, family contexts, and prior responsibilities, learners are more likely to see the material as legible, worthwhile, and connected to real life. This principle strengthens relevance, belonging, and transfer by making learning something learners can situate within what they already understand.
 

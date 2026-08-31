@@ -19,6 +19,8 @@ sources:
 
 # SMARTER Goals
 
+> **Element** · [All elements](index.md)
+
 ## Description
 SMARTER goals are a structured goal-setting element that asks learners to define goals that are specific, measurable, achievable, relevant, time-bound, evaluated, and revised or rewarded, depending on the local formulation. In this wiki, the main instructional value of SMARTER goals is not the acronym itself but the discipline it brings to making goals concrete enough to monitor and adjust.
 

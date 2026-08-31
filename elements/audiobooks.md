@@ -10,6 +10,8 @@ generated:
 
 # Audiobooks
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Audiobooks present written content as narrated audio, giving learners an alternative or complementary channel for accessing the same verbal material. They function both as an accommodation for learners with decoding difficulties and as a general instructional element for building vocabulary, background knowledge, and listening comprehension.
 

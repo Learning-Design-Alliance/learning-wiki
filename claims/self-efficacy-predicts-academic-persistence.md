@@ -19,6 +19,8 @@ evidence_strength: strong
 
 # Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.
 
+> **Claim** · [All claims](index.md)
+
 Self-efficacy is not global confidence — it is the learner's judgment that they can execute the specific actions required to accomplish a specific task. High self-efficacy for a task produces higher goals, more effort, longer persistence under obstacles, and faster recovery from failure. Low self-efficacy produces avoidance, reduced effort, and attribution of difficulty to stable inability rather than insufficient strategy.
 
 ## Subclaims

@@ -10,6 +10,8 @@ generated:
 
 # Establishing Rules and Expectations
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Establishing rules and expectations means explicitly defining — and ideally co-constructing — the behavioral, procedural, and academic norms of a learning environment, then teaching them as deliberately as content. It is carried out at the start of a course or term through clear statements of what success and appropriate participation look like, modeled routines, and consistent follow-through.
 

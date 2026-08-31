@@ -10,6 +10,8 @@ generated:
 
 # Color-Coded Supplies
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Color-coding school supplies assigns a consistent color to each subject, task type, or workflow stage (e.g., red folders for papers that go home, blue for papers requiring a caregiver's signature, green for homework with "To Do" and "Completed" pockets). The color acts as a pre-attentive visual cue, letting learners identify and retrieve the right material without reading labels or remembering rules. The system only works if the mapping is stable, taught explicitly, and maintained by the learner or adult.
 

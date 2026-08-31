@@ -10,6 +10,8 @@ generated:
 
 # Checklists
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A checklist is an ordered list of criteria, steps, or expectations used to track whether learners are accomplishing specific tasks or meeting defined standards. In learning contexts, checklists serve three functions simultaneously: as an assessment tool (judging whether criteria are met), as a self-regulation support (guiding learners to monitor their own work against explicit standards), and as a communication device (making expectations shared and transparent between educator and learner).
 

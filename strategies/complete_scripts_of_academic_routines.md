@@ -10,6 +10,8 @@ generated:
 
 # Complete Scripts of Academic Routines
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Complete scripts of academic routines provide learners with full, usable language models for recurring academic discourse moves — presenting, disagreeing politely, summarizing a source, asking for clarification. Instead of leaving learners to infer the conventions of academic talk and writing, the instructor supplies sentence frames and complete exemplar passages ("The topic of my presentation is ______. In the first part, I give a few basic definitions. In the next section, I will explain ______."). Learners rehearse with the script, then progressively adapt or replace it with their own language.
 

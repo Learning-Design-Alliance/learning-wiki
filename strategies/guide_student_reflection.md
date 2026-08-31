@@ -10,6 +10,8 @@ generated:
 
 # Guide Student Reflection
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Guiding student reflection means structuring a period in which learners deliberately examine their own thinking — what they intended, what strategies they used, how they monitored progress, and whether their approach was adequate. The teacher supplies the scaffolding for that examination: [class discussions](../elements/class-discussion.md) about problem-solving processes, structured questioning, interviews, or journal prompts and logs. Unprompted, learners rarely reflect productively on their own; guidance converts experience into articulated, reusable knowledge.
 

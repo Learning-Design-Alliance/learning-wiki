@@ -10,6 +10,8 @@ generated:
 
 # Diversity of Perspectives and Identities
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy deliberately incorporates diverse voices, identities, experiences, and epistemologies into curriculum content, materials, examples, and discussion. It goes beyond representation: learners compare and reason across differing perspectives, treating diversity itself as an intellectual resource rather than a demographic fact.
 

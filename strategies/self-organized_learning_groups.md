@@ -10,6 +10,8 @@ generated:
 
 # Self-Organized Learning Groups
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Self-organized learning groups are voluntary cohorts of employees who convene regularly to learn from each other on shared topics — improving team processes (e.g., Scrum retrospectives), mastering technical tools, or learning programming languages. Unlike formal training, the group owns its agenda, pace, and format; the organization's role is to supply the enabling conditions: leadership commitment, protected time, a mechanism for finding colleagues with shared goals, light facilitation support, and a physical or virtual meeting space. The structure sits between a [Communities of Practice](../principles/communities-of-practice.md) (which emerge around ongoing practice) and a formal course (which is instructor-directed).
 

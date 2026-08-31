@@ -10,6 +10,8 @@ generated:
 
 # Text + Structured Activity
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Students engage with text resources (physical or digital) accompanied by a structured activity designed to ensure active learning and engagement with the material. The text conveys information; the structured activity forces processing of that information — answering questions, applying concepts, annotating, or self-explaining — so that reading does not remain passive. This combination provides instruction in pre-class, in-class, or asynchronous settings, and serves as a low-bandwidth alternative to video-based delivery.
 

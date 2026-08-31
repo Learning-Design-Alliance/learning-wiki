@@ -10,6 +10,8 @@ generated:
 
 # Science Notebooks
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Science notebooks are structured written records in which students document observations, record data, make drawings and diagrams, note predictions, and construct explanations over the course of scientific investigations. The notebook functions simultaneously as a working tool (a place to think), a formative assessment source for the teacher, and a genre practice ground for the communication norms of science. Implementation typically pairs notebook entries with investigation cycles: students write before (predictions), during (data, sketches), and after (claims and explanations) hands-on work.
 

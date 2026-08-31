@@ -11,6 +11,8 @@ evidence_strength:
 
 # Testing Improves Retention
 
+> **Claim** · [All claims](index.md)
+
 Retrieving information from memory (being tested) strengthens long-term retention of that information more than restudying it. The claim concerns retrieval practice — low- or no-stakes tests used as learning events — not high-stakes assessment.
 
 ## Subclaims

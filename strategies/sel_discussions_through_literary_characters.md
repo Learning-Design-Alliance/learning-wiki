@@ -10,6 +10,8 @@ generated:
 
 # SEL Discussions through Literary Characters
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Students read and discuss social and emotional learning (SEL) topics through the lens of characters in literature. Teachers select texts with strong characters who face conflicts, make decisions, and change over the course of a narrative; discussions then analyze character relationships, motivations, and resolutions. Because emotional claims are made about fictional third parties rather than about students themselves, the strategy creates a psychologically safe distance for exploring sensitive social and emotional territory while still building transferable strategies for students' own lives.
 

@@ -11,6 +11,8 @@ evidence_strength: low
 
 # Invention Tasks Prepare Future Learning
 
+> **Claim** · [All claims](index.md)
+
 Asking learners to invent solutions to problems before receiving canonical instruction prepares them to learn better from that subsequent instruction, even when their invented solutions are incorrect.
 
 ## Subclaims

@@ -10,6 +10,8 @@ generated:
 
 # Finger Speed-Differences
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Finger Speed-Differences is a competitive partner game for building subtraction fluency. Two students face each other and simultaneously put out a chosen number of fingers; the first to say the difference between the two numbers aloud wins the round. It is the subtraction counterpart to speed-sums, where the sum is called instead.
 

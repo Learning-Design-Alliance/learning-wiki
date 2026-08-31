@@ -10,6 +10,8 @@ generated:
 
 # Video Based Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Video based instruction delivers content through recorded audiovisual segments — narrated slides, screencasts, demonstrations, or talking-head presentations — that learners watch before, during, or after other learning activities. It is carried out by producing or curating video segments, typically kept short and focused on a single concept, and embedding them within a larger sequence that includes practice and feedback.
 

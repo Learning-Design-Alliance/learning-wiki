@@ -10,6 +10,8 @@ generated:
 
 # Repeating Key Points in Different Ways
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Repeating key points in different ways means restating core content through varied representations — paraphrase, concrete examples, visuals, gestures, or analogies — rather than verbatim repetition. Each restatement encodes the idea from a new angle, building redundant retrieval routes while giving learners who process slowly a second or third pass at the material.
 

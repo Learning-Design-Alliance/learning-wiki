@@ -10,6 +10,8 @@ generated:
 
 # Pre-recorded Instructional Video
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Pre-recorded instructional video delivers [Direct Instruction](../elements/direct-instruction.md), [Demonstration](../elements/demonstration.md), or explanation asynchronously: the instructor records content in advance and publishes it through a hosting platform (e.g., YouTube, Canvas, Panopto). Learners can pause, rewind, and rewatch at will, and synchronous sessions can be repurposed for [Practice](../elements/practice.md) and interaction rather than one-way transmission.
 

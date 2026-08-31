@@ -10,6 +10,8 @@ generated:
 
 # Activating Prior Knowledge
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Activating prior knowledge involves prompting learners to recall and share what they already know about a topic before introducing new information. The prompt may be a question, a brief discussion, a brainstorm, a prediction task, or a structured organizer such as a KWL chart. The goal is to bring relevant existing schemas into working memory so new material can be connected to — rather than stored alongside — what the learner already knows.
 

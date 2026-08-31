@@ -10,6 +10,8 @@ generated:
 
 # Applying Student-Centered Strategies to Support Learning Differences
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Educators use data-driven, student-centered plans to implement strategies that support individual learning differences, including both strengths and challenges. Evidence is gathered from multiple sources — performance on different assessment formats (free-response vs. multiple-choice), reading comprehension across contexts (guided vs. independent), and engagement in interest-based programs — and strategies are tailored to leverage strengths while accommodating challenges, such as [Chunking](../principles/chunking.md) content for working-memory limitations or teaching self-monitoring routines for independent reading [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M].
 

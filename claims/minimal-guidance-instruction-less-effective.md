@@ -11,6 +11,8 @@ evidence_strength: strong
 
 # Minimal Guidance Instruction Less Effective
 
+> **Claim** · [All claims](index.md)
+
 Instructional approaches that give novices little or no guidance — pure discovery, unguided problem-solving, exploratory learning without scaffolds — generally produce weaker learning outcomes than explicitly guided instruction [-S], because novices lack the prior knowledge needed to benefit from unstructured search.
 
 ## Subclaims

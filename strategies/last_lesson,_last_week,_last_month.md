@@ -10,6 +10,8 @@ generated:
 
 # Last Lesson, Last Week, Last Month
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This activity involves looking back to the most important information presented yesterday, last week, and last month. The instructor selects three questions from each time period and asks students to answer them with no assistance, enacting spaced retrieval practice. It signals that learning a topic does not end with the summative assessment and that knowledge builds on knowledge.
 

@@ -10,6 +10,8 @@ generated:
 
 # Behavior Specific Praise
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Behavior specific praise (BSP) is a brief, positive verbal statement delivered immediately after a learner exhibits a target behavior, explicitly naming what the learner did ("You showed your work on every step — that made your error easy to find"). Unlike general praise ("good job"), BSP identifies the behavior precisely, functioning as contingent positive reinforcement within a [Behaviorism](../principles/behaviorism.md) framework while also giving learners informational feedback about which actions are valued.
 

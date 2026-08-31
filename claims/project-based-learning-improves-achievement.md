@@ -11,6 +11,8 @@ evidence_strength: undetermined
 
 # Project-based learning improves achievement
 
+> **Claim** · [All claims](index.md)
+
 Scope: sustained, inquiry-driven work organized around a driving question or authentic problem, culminating in a product or performance — distinct from short end-of-unit activities labeled "projects." The claim concerns *measured achievement*, not engagement or motivation alone.
 
 ## Subclaims

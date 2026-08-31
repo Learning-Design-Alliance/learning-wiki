@@ -10,6 +10,8 @@ generated:
 
 # Connecting New Vocabulary to Texts
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy embeds vocabulary instruction within the texts learners are actually reading, rather than teaching word lists in isolation. Teachers identify high-leverage words in a text (often Tier Two academic words per Beck et al.'s framework), provide brief student-friendly explanations tied to the text's themes, and connect new terms to concepts learners already hold. The goal is for words to be acquired as tools for understanding the text, not as isolated items to memorize.
 

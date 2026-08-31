@@ -10,6 +10,8 @@ generated:
 
 # Process Oriented Feedback
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Process oriented feedback directs attention to how a learner produced their work — the strategies chosen, the reasoning applied, the effort and self-monitoring deployed — rather than to the person ("you're smart") or to a bare judgment of the product ("B+"). It answers the question "what did you do, and what could you do differently next time?" by naming specific processes to repeat, revise, or replace, often paired with cues about where to go next.
 

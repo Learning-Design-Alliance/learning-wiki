@@ -10,6 +10,8 @@ generated:
 
 # Case Based Learning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Case based learning places learners in the role of analyst or decision-maker confronting a realistic narrative — a patient history, a business dilemma, a legal dispute, an engineering failure. Learners must identify the salient issues, apply disciplinary concepts to messy particulars, and defend a course of action, typically through structured discussion. The case functions as a situated proxy for experience: it carries the ambiguity, competing constraints, and incomplete information of real practice without its risks.
 

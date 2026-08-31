@@ -10,6 +10,8 @@ generated:
 
 # Ladder of Feedback
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The Ladder of Feedback is a discussion protocol developed by David Perkins and colleagues at Harvard Project Zero for structuring response to work-in-progress. It sequences feedback into four rungs, climbed in order: (1) **clarify** — ask neutral questions to understand the work before judging it; (2) **value** — name what is genuinely strong or promising; (3) **express concerns** — raise problems as personal, tentative statements ("I worry that…"); and (4) **suggest** — offer concrete alternatives, ideally framed as possibilities rather than prescriptions. The ordering is the design: understanding precedes evaluation, and affirmation precedes critique, so that concerns land within a context of demonstrated attention to the work.
 

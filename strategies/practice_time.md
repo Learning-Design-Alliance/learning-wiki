@@ -27,6 +27,8 @@ sources:
 
 # Practice Time
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Practice time is scheduled, low-stakes opportunity for learners to apply a skill or concept immediately after instruction, without grading or evaluative consequences. The instructor's role shifts from presenting to circulating, monitoring, and giving [feedback](../elements/assessment.md) while learners attempt the task themselves.
 

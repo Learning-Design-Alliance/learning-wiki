@@ -10,6 +10,8 @@ generated:
 
 # Pre-Class Video/Lecture
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Instructional content — exposition, worked demonstrations, or recorded lectures — is delivered via video before class, so that synchronous time can be spent on application, discussion, and feedback rather than first exposure. The video functions as the initial-instruction component of a [Flipped Classroom](../patterns/flipped-classroom.md), shifting information transmission outside the group learning space.
 

@@ -10,6 +10,8 @@ generated:
 
 # Structured/Segmented Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Structured instruction involves systematically teaching information that has been chunked into manageable pieces. Complex skills or large bodies of information are analyzed into component parts, which are taught in a planned sequence; after the parts are mastered, they are recombined so learners perceive the process or concept as a whole. The strategy pairs segmentation (ordering) with chunking (sizing) — the instructor controls both what is presented at once and in what order.
 

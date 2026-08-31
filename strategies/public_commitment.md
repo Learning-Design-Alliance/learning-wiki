@@ -10,6 +10,8 @@ generated:
 
 # Public Commitment
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Public commitment asks learners to state a specific, actionable intention — a goal, deadline, or behavior — to an audience of peers, instructors, or a community. The act of declaring the commitment in front of others creates social accountability and engages the drive for self-consistency, making learners more likely to follow through than when the same intention is kept private.
 

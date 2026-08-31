@@ -10,6 +10,8 @@ generated:
 
 # Conceptual Questioning
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Conceptual questioning poses open, "why" and "what-if" questions that target learners' underlying conceptions rather than recall of facts. The goal is to surface assumptions, create productive cognitive conflict, and prompt learners to explain, justify, and revise their mental models.
 

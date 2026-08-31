@@ -11,6 +11,8 @@ evidence_strength:
 
 # Building Empathy Improves Intergroup Attitudes
 
+> **Claim** · [All claims](index.md)
+
 Empathy-building activities — such as perspective-taking exercises, empathic role-play, and narrative engagement with outgroup members' experiences — improve learners' attitudes toward members of other social groups.
 
 ## Subclaims

@@ -10,6 +10,8 @@ generated:
 
 # EQ Feeling Chart
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The EQ Feeling Chart is a structured [check-in](../principles/check-ins.md) activity in which students identify and name their current emotional state using a visual chart of feeling words, then discuss it with a partner using facilitation questions ("What is the feeling? Where does it come from?"). Pairs then share observations with the whole class. The activity operationalizes emotional granularity — the ability to label emotions with precision — which is the foundation of most social-emotional learning curricula.
 

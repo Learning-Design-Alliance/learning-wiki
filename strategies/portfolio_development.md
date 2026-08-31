@@ -10,6 +10,8 @@ generated:
 
 # Portfolio Development
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners regularly select work samples, reflect on why each was chosen, and organize them into a cumulative portfolio — physical or digital — that documents strengths, progress, and areas for improvement. The core activity cycle is *collect → select → reflect*, with structured reflection (written rationales, annotations, recorded commentary) attached to each artifact rather than left implicit.
 

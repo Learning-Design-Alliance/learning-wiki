@@ -10,6 +10,8 @@ generated:
 
 # Graphic Organizers and Visual Aids (for Attention)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Graphic organizers (concept maps, flowcharts, comparison matrices, story maps) and visual aids (diagrams, color-coded notes, highlighted headings) structure content spatially so learners can identify the most important information and the relationships among ideas. As an attention strategy, their function is *signaling*: they cue which material deserves focal processing rather than incidental exposure. They differ from decorative visuals in that they encode substantive relationships, not merely attract the eye.
 

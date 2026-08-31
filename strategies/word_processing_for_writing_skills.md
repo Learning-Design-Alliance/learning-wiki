@@ -10,6 +10,8 @@ generated:
 
 # Word Processing for Writing Skills
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Word processing as a writing strategy has learners compose, share, review, and revise text in an editable digital environment such as Google Docs or Microsoft Word. Because the document is a living artifact, writing becomes iterative rather than single-draft: peers and teachers can comment inline, learners can track revisions, and assistive features (text-to-speech, word prediction, voice typing) lower the mechanical barriers of transcription. The strategy treats the tool not as a typewriter but as an environment for [Practice](../elements/practice.md), feedback, and metacognitive reflection on one's own composing process.
 

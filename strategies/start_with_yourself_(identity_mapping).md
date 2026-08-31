@@ -10,6 +10,8 @@ generated:
 
 # Start with Yourself (Identity Mapping)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Start with Yourself (Identity Mapping) asks educators to explicitly map their own identity markers — race, gender, class, language, citizenship status, ability, religion — and examine how these positions shape what they notice, assume, and value in learners. It is typically carried out through structured protocols such as identity maps and constructivist listening dyads, where participants articulate their positions and hear others' without debate or correction. The strategy operationalizes the premise that empathy and culturally responsive teaching begin with the educator's self-knowledge rather than with techniques applied to students.
 

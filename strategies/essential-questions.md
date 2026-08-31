@@ -10,6 +10,8 @@ generated:
 
 # Essential Questions
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 An essential question is an open, arguable question — "When is estimation better than calculation?" or "Who gets to tell history?" — that frames a unit or course rather than a single lesson. It is carried out by posing the question at the outset, returning to it across activities, and having learners revisit and refine their answers as understanding develops. Unlike recall prompts, essential questions have no single settled answer and are designed to be re-asked with increasing sophistication.
 

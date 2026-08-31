@@ -10,6 +10,8 @@ generated:
 
 # Optimizing School Facilities
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Optimizing school facilities means deliberately engineering the physical learning environment — acoustic conditions, ventilation and air quality, lighting, thermal comfort, and spatial layout — to remove environmental barriers to attention, health, and achievement. It is carried out through building assessment, targeted retrofit or design decisions, and ongoing monitoring of environmental conditions rather than one-time capital spending alone.
 

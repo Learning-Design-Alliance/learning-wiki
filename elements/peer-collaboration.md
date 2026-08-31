@@ -10,6 +10,8 @@ generated:
 
 # Peer Collaboration
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Peer collaboration places two or more learners in joint work on a shared task, requiring them to explain, question, negotiate, and build on each other's thinking. It functions as a social engine for learning: the value comes not from proximity but from the elaboration, conflict, and mutual regulation that genuine joint work provokes.
 

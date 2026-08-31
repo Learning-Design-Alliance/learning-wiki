@@ -10,6 +10,8 @@ generated:
 
 # Response Cards
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Response cards are small whiteboards, laminated cards, or digital equivalents (e.g., Plickers, mini whiteboards) that every learner holds up simultaneously in response to a teacher prompt. The technique converts a single-respondent recitation format into whole-class active responding, giving the instructor an immediate visual sample of every learner's understanding rather than one volunteer's.
 

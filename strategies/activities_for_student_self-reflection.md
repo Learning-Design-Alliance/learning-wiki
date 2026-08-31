@@ -10,6 +10,8 @@ generated:
 
 # Activities for Student Self-Reflection
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy creates structured opportunities for students to examine their own learning — what they understood, how they studied, where they struggled, and what they will do differently. Activities include prompted written summaries, concept mapping, learning journals, exam wrappers, exit tickets, and self-assessment against criteria. The defining feature is that the *student* generates the analysis of their own learning rather than receiving it from the instructor.
 

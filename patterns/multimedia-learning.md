@@ -12,6 +12,8 @@ grain_size: lesson
 
 # Multimedia Learning
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Multimedia Learning is the short-form canonical target for patterns that combine verbal and visual media in intentionally coordinated ways to support understanding.
 

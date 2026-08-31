@@ -10,6 +10,8 @@ generated:
 
 # Culture Responsive Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Culturally responsive instruction adapts standards-based content and teaching methods so that students from diverse cultural backgrounds can access and engage with them. The teacher integrates students' language practices, prior knowledge, community references, and interests into lessons while maintaining rigorous academic goals. Ladson-Billings frames this as culturally relevant pedagogy, which simultaneously pursues academic success, cultural competence, and critical consciousness [Ladson-Billings, 1995](https://doi.org/10.3102/00028312032003465) [+M].
 

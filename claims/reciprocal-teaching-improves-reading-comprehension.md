@@ -11,6 +11,8 @@ evidence_strength:
 
 # Reciprocal Teaching Improves Reading Comprehension
 
+> **Claim** · [All claims](index.md)
+
 Reciprocal teaching is a structured dialogue routine in which learners take turns leading discussions of a text using four strategies — predicting, questioning, clarifying, and summarizing — with the teacher modeling and gradually handing over responsibility.
 
 ## Subclaims

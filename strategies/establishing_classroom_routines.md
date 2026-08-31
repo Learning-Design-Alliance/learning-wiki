@@ -10,6 +10,8 @@ generated:
 
 # Establishing Classroom Routines
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Establishing classroom routines means explicitly teaching, rehearsing, and maintaining consistent procedures for recurring activities — entering the room, transitioning between tasks, distributing materials, seeking help, and closing out work. The instructor models the procedure, practices it with students until it is automatic, and provides brief corrective feedback when it drifts. Once internalized, routines run without conscious negotiation, freeing attention and time for instruction.
 

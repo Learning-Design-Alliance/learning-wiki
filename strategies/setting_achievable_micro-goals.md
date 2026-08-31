@@ -10,6 +10,8 @@ generated:
 
 # Setting Achievable Micro-Goals
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Micro-goals decompose a larger learning objective into small, concrete steps that a learner can complete in a single session or less. Each step is calibrated to be challenging but reliably attainable, so that progress is frequent and visible. The strategy works through two mechanisms: repeated attainment experiences build self-efficacy, and proximal subgoals provide the immediate feedback and monitoring structure that supports self-regulated learning.
 

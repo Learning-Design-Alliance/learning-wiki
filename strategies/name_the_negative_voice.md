@@ -10,6 +10,8 @@ generated:
 
 # Name the Negative Voice
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Students assign a name — and often a persona — to their negative inner voice (e.g., "Adverse Antoine," "Ruthless Ralph," "Cranky Kirsten"). Naming externalizes the critical self-talk, allowing students to observe it as a separate entity rather than an identity ("the voice is being harsh," not "I am worthless"). The technique draws on cognitive defusion from acceptance and commitment therapy and on self-distancing research: shifting from first-person immersion to an observer stance reduces the emotional grip of negative thoughts [Third-person self-talk is a relatively effortless form of emotion regulation.](https://doi.org/10.1038/s41598-017-04047-3) [+M].
 

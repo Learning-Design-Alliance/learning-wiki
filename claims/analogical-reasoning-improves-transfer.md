@@ -11,6 +11,8 @@ evidence_strength: pending
 
 # Analogical Reasoning Improves Transfer
 
+> **Claim** · [All claims](index.md)
+
 Learners who map the structure of a known case onto a new problem transfer their knowledge more readily than learners who study each case in isolation. The claim concerns structural (relational) mapping between a source and target situation, not mere surface resemblance.
 
 ## Subclaims

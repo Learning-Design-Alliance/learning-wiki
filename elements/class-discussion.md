@@ -10,6 +10,8 @@ generated:
 
 # Class Discussion
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Class discussion is a structured conversational format in which learners collectively analyze, question, and reflect on content, guided by an instructor or discussion protocol. It functions as a social processing mechanism: learners articulate interpretations, encounter alternative perspectives, and negotiate shared understanding rather than receiving conclusions directly.
 

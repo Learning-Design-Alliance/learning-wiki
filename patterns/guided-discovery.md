@@ -11,6 +11,8 @@ grain_size: lesson
 
 # Guided Discovery
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Guided discovery is the short-form canonical pattern for learner exploration supported by instructor prompts, constraints, and scaffolds.
 

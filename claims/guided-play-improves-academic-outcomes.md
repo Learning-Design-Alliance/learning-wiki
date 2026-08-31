@@ -11,6 +11,8 @@ evidence_strength: emerging
 
 # Guided Play Improves Academic Outcomes
 
+> **Claim** · [All claims](index.md)
+
 Guided play — play in which adults co-participate and subtly steer toward learning goals while preserving child autonomy — produces better academic and skill outcomes than either free play or direct instruction in early-childhood contexts. [+W]
 
 ## Subclaims

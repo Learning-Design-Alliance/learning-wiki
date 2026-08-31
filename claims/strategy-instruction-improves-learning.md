@@ -11,6 +11,8 @@ evidence_strength: unrated
 
 # Strategy Instruction Improves Learning
 
+> **Claim** · [All claims](index.md)
+
 Explicitly teaching learners cognitive and metacognitive strategies — how to plan, monitor, and evaluate their own thinking — improves learning outcomes across domains. The claim covers both domain strategies (e.g., reading comprehension strategies, problem-solving heuristics) and self-regulation strategies (goal-setting, self-monitoring, self-evaluation).
 
 ## Subclaims

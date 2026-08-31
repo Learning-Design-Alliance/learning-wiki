@@ -10,6 +10,8 @@ generated:
 
 # Augmented Reality (AR) in Classroom
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Augmented reality overlays digital content — 3D models, annotations, audio, video — onto the learner's physical environment, typically via smartphone, tablet, or AR headset. In classrooms, AR is used to visualize phenomena that are otherwise invisible or inaccessible (molecular structures, anatomy, historical sites), to add interactive layers to physical materials such as textbooks and worksheets, and to support situated, inquiry-based activity. Unlike virtual reality, AR keeps learners grounded in the real environment, allowing digital and physical information to be manipulated together.
 

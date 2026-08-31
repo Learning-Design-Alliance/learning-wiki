@@ -10,6 +10,8 @@ generated:
 
 # Competency-Based Assessment
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Competency-based assessment is the short-form canonical target for designs that evaluate learners against explicit competencies or standards rather than normed averages or seat-time expectations.
 

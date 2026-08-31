@@ -10,6 +10,8 @@ generated:
 
 # Dolch Sight Word List - Word Shape Worksheets
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Word shape worksheets present Dolch sight words inside rectangular "boxes" that trace each word's outline (tall letters, short letters, descenders). Students match words to shapes, fill in missing letters within the boxes, or copy words into shape frames. The Dolch list (Dolch, 1948) comprises 220 high-frequency service words — many phonetically irregular (e.g., *said*, *the*, *where*) — that readers must recognize instantly rather than decode.
 

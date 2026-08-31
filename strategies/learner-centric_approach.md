@@ -10,6 +10,8 @@ generated:
 
 # Learner-Centric Approach
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A learner-centric approach positions the learner, rather than the instructor or a fixed curriculum sequence, as the primary decision-maker in learning. Problems are presented as open-ended — there are several viable solution paths, each leading to different outcomes — and learners must analyze the problem, select and justify an approach, and live with the consequences. The instructor's role shifts from transmitter to facilitator, providing resources, [Coaching](../elements/coaching.md), and feedback as learners construct understanding through [Active Learning](../principles/active-learning.md).
 

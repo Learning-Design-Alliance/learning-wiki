@@ -10,6 +10,8 @@ generated:
 
 # Analyzing Projects for ELL Support
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Analyzing projects for ELL support is a design-time audit in which educators examine a project-based learning (PBL) task through a language lens: identifying the academic vocabulary, language functions (e.g., justify, compare, explain), discourse demands, and speaking/listening requirements embedded in each task. The analysis then drives deliberate planning of vocabulary instruction and language scaffolds so that linguistic demands do not become a hidden barrier to content learning. It treats language not as a prerequisite to be waited for but as an outcome the project itself can develop [Bunch's pedagogical language knowledge framework reframes content instruction as an opportunity for language development.](https://doi.org/10.3102/0091732X12461706) [+M]
 

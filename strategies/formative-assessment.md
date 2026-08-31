@@ -10,6 +10,8 @@ generated:
 
 # Formative Assessment
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Formative assessment is the process of gathering evidence about learner understanding *while* learning is underway and using that evidence to adjust instruction and learner activity. It differs from summative assessment in purpose rather than instrument: the same quiz is formative if its results change what happens next, summative if it only certifies attainment. The core loop is: elicit evidence → interpret it against learning goals → act on it (by teacher, learner, or peers) [Assessment used formatively improves achievement.](../claims/assessment-for-learning-improves-achievement.md) [+S].
 

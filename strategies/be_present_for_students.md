@@ -10,6 +10,8 @@ generated:
 
 # Be Present for Students
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Being present means making oneself predictably and visibly available to students for individual, informal conversations — before and after class, in hallways, during office hours — particularly when course content is emotionally demanding. When students discuss sensitive topics such as race, they may experience anxiety or discomfort; the instructor's role is to signal that this discomfort is normal, expected, and workable, and that a trusted adult is available to help them process it. Presence is carried out through consistent availability, empathetic listening, and brief check-ins rather than formal counseling.
 

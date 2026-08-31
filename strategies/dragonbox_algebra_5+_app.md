@@ -10,6 +10,8 @@ generated:
 
 # DragonBox Algebra 5+ App
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 DragonBox Algebra 5+ (WeWantToKnow AS) is a commercial game-based learning app that introduces algebraic equation solving through a fantasy card game. Learners drag cards and apply operations to isolate a glowing "box" on one side of a balance-like field; each move corresponds to a legal algebraic operation (adding to both sides, dividing both sides, etc.). Only after learners have mastered the implicit manipulation rules does the app progressively substitute formal notation — variables, coefficients, operators — for the game objects, mapping the game world onto standard equation syntax.
 

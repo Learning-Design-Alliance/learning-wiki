@@ -10,6 +10,8 @@ generated:
 
 # Ideal Problem Solving
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Ideal Problem Solving is a strategy built on the IDEAL heuristic (Bransford & Stein, 1984): **I**dentify the problem, **D**efine and represent it, **E**xplore possible strategies, **A**ct on a chosen strategy, and **L**ook back to evaluate the result. Rather than teaching domain-specific procedures, it gives learners a transferable framework for approaching ill-structured and novel problems. It is typically carried out through explicit modeling of each phase, guided practice with prompts, and gradual withdrawal of the scaffold.
 

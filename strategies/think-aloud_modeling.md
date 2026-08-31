@@ -10,6 +10,8 @@ generated:
 
 # Think Aloud Modeling
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Think-aloud modeling is a strategy in which an instructor performs a task — solving a problem, reading a text, debugging code, evaluating a source — while verbalizing the reasoning, self-monitoring, and decision points that normally remain tacit. It goes beyond showing *what* experts do to expose *how* and *why* they do it, including moments of confusion, revision, and self-correction. It is the narration method that makes [Demonstration](../elements/demonstration.md) effective.
 

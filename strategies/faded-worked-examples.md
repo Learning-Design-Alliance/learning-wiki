@@ -10,6 +10,8 @@ generated:
 
 # Faded Worked Examples
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Faded worked examples present a series of problems in which the expert's solution is initially complete, then progressively incomplete — first the final steps are omitted (backward fading), later earlier steps (forward fading), until the learner solves entire problems independently. The technique operationalizes [Scaffolding](../principles/scaffolding.md) within example-based learning: support is withdrawn in step-sized increments matched to growing competence.
 

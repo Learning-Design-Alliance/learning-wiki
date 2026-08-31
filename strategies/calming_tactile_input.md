@@ -10,6 +10,8 @@ generated:
 
 # Calming Tactile Input
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Calming tactile input uses the sense of touch to reduce arousal and support emotional regulation: running hands through a tactile bin of sand, rice, or beans; applying deep pressure through weighted blankets, weighted stuffed animals, or firm hugs; or squishing into a pillow or beanbag chair for full-body input. The strategy is drawn from sensory integration practice and is typically offered as a brief, scheduled, or on-demand regulation break rather than as instruction itself.
 

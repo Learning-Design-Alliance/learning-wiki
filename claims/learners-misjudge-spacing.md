@@ -11,6 +11,8 @@ evidence_strength:
 
 # Learners misjudge the benefits of spaced practice
 
+> **Claim** · [All claims](index.md)
+
 Learners systematically believe that massed practice is more effective than spaced practice, even though spaced practice reliably produces better retention — a metacognitive illusion that leads them to choose study schedules that undermine their own learning.
 
 ## Subclaims

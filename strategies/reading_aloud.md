@@ -10,6 +10,8 @@ generated:
 
 # Reading Aloud
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Reading aloud asks learners to vocalize text — a question before answering it, a draft during revision, or a model text as a stylistic exemplar — rather than reading silently. Vocalization engages auditory and articulatory channels in addition to visual ones, and the act of producing speech creates a distinctive memory trace known as the production effect [Reading aloud improves memory.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. In writing instruction, hearing one's own prose exposes errors, awkward rhythm, and missing punctuation that silent reading glosses over.
 

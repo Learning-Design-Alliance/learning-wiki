@@ -10,6 +10,8 @@ generated:
 
 # Pretesting
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Pretesting presents learners with questions about material they have not yet been taught, requiring them to generate an answer or guess before instruction. Learners typically err, but the act of attempting retrieval — even unsuccessfully — primes subsequent learning. The strategy is carried out as a short quiz, problem set, or prediction task immediately preceding the relevant lesson.
 

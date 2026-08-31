@@ -11,6 +11,8 @@ evidence_strength:
 
 # SEL Programs Improve Academic Achievement
 
+> **Claim** · [All claims](index.md)
+
 Social-emotional learning (SEL) programs — structured curricula that teach self-awareness, self-management, social awareness, relationship skills, and responsible decision-making — produce gains in academic achievement alongside their social-emotional outcomes.
 
 ## Subclaims

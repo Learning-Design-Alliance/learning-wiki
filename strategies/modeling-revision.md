@@ -10,6 +10,8 @@ generated:
 
 # Modeling Revision
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Modeling revision is an instructional strategy in which the teacher explicitly demonstrates the process of revising — not just the final product — by working through a draft (their own or a student sample) while verbalizing the decisions involved: rereading for problems, diagnosing what is unclear or ineffective, considering alternatives, and making and evaluating changes. Because revision is a largely invisible, self-directed process, modeling converts tacit expert routines into observable steps learners can imitate. It is typically carried out as a live or recorded [Think-Aloud](../elements/think-aloud.md) over a shared text, often followed by guided or independent revision practice.
 

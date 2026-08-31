@@ -10,6 +10,8 @@ generated:
 
 # Scaffolded Questioning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Scaffolded questioning is the deliberate sequencing and adaptive adjustment of questions to move learners from what they can do independently toward reasoning they could not yet produce alone. The instructor begins with questions within reach (recall, observation), then steps up to prompts for explanation, justification, and transfer, adjusting support in real time based on learner responses — offering hints, simplifying the question, or handing back responsibility as competence grows.
 

@@ -10,6 +10,8 @@ generated:
 
 # Use Concrete Examples
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Concrete examples anchor abstract ideas — principles, formulas, categories, procedures — in specific instances a learner can directly inspect. The strategy is carried out by pairing every abstraction with one or more worked instances, then explicitly mapping features of the example back onto the abstract structure so learners extract the general rule rather than memorizing the surface story.
 

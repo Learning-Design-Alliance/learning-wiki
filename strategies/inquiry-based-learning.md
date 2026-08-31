@@ -10,6 +10,8 @@ generated:
 
 # Inquiry Based Learning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Inquiry based learning positions learners as investigators: they pose or explore questions, collect and evaluate evidence, and construct explanations, with the instructor acting as guide rather than transmitter. It spans a continuum from structured inquiry (the question and procedure are given; learners generate the explanation) to open inquiry (learners generate questions and design investigations themselves) [Banchi & Bell's four-level framework](https://www.nsta.org/science-and-children) [~M].
 

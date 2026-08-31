@@ -10,6 +10,8 @@ generated:
 
 # Educational Posters
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Educational posters are visual displays placed in the physical or digital learning environment that surface key concepts, procedures, learning strategies, or reference material. Unlike transient instructional visuals, posters persist across lessons, functioning as environmental scaffolds that support recall, vocabulary access, and self-regulation during independent work.
 

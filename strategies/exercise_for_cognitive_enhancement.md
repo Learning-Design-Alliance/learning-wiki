@@ -10,6 +10,8 @@ generated:
 
 # Exercise for Cognitive Enhancement
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Regular physical exercise improves cognitive function through physiological mechanisms: acute bouts raise catecholamine (norepinephrine, dopamine) and BDNF levels, supporting attention and encoding, while sustained aerobic activity promotes hippocampal neurogenesis and angiogenesis [Exercise increases hippocampal volume and improves memory in older adults.](../claims/exercise-increases-hippocampal-volume.md) [+S]. In learning contexts, the strategy is carried out by scheduling physical activity — single bouts before or during instruction, or regular programs across weeks — to prime attention, consolidate memory, and support executive function.
 

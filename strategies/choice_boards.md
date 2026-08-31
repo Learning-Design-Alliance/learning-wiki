@@ -10,6 +10,8 @@ generated:
 
 # Choice Boards
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A choice board is a grid or menu of tasks — often organized by modality, difficulty, or learning objective — from which learners select a subset to complete. All options map to the same learning goals, so choice varies the *pathway* while the instructor retains control over the *destination*. Boards may govern how learners practice, how they demonstrate mastery, or both, and typically include completion requirements (e.g., "choose any three," tic-tac-toe rows, or point totals).
 

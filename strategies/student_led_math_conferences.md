@@ -10,6 +10,8 @@ generated:
 
 # Student Led Math Conferences
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Throughout the year, teachers hold brief personal math conferences with individual students. Students bring artifacts of their own learning — formative assessments, math journals, problem work — and lead a structured reflection on their progress. Teacher and student together identify areas needing strengthening and write a personal goal tied to specific academic concepts, making the student the primary agent of the conversation rather than the recipient of a report.
 

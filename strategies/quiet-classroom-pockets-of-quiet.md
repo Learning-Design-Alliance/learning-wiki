@@ -10,6 +10,8 @@ generated:
 
 # Quiet Classroom/Pockets of Quiet
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Creating a quiet classroom by reducing background noise to support increased attention towards learning. Designing small areas as quiet spaces ("pockets of quiet") can also benefit students who need to be away from excess noise, supporting greater self-regulation. The strategy operates on two levels: whole-room acoustic management and designated low-stimulation zones learners can access voluntarily.
 

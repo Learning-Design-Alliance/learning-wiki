@@ -10,6 +10,8 @@ generated:
 
 # Jigsaw Cooperative Learning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Jigsaw divides a body of material into segments and assigns each segment to one member of a small "home" group. Learners first meet in temporary "expert" groups with peers from other home groups who share the same segment, then return to teach their segment to their home group. Because no one else in the home group has that piece, each learner becomes the sole source of critical information, creating genuine positive interdependence [Cooperative learning](../patterns/cooperative-learning.md).
 

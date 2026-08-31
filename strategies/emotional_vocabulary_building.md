@@ -10,6 +10,8 @@ generated:
 
 # Emotional Vocabulary Building
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Emotional vocabulary building gives learners direct, repeated access to a rich set of emotion words — through word walls, feeling-word charts, mood meters, or embedded labeling routines — so they can identify, differentiate, and communicate internal states with precision. The strategy treats emotion words as learnable academic vocabulary: explicitly taught, displayed for ongoing reference, and used in authentic talk and writing rather than memorized in isolation.
 

@@ -10,6 +10,8 @@ generated:
 
 # Teacher as Writer
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Teacher as Writer is a professional learning strategy in which teachers engage in their own writing — drafting, revising, and sharing — in order to experience the writing process their students face. Teachers write personally meaningful pieces (about family, self, or interests), receive feedback, and reflect on the emotional and cognitive demands of composing. The goal is not publication but embodied understanding: teachers who write develop empathy for struggling writers and more credible instructional judgment about what writing instruction requires.
 

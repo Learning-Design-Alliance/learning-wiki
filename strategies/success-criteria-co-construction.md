@@ -10,6 +10,8 @@ generated:
 
 # Success Criteria Co-Construction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Success criteria co-construction is a formative assessment practice in which the teacher and learners jointly generate, negotiate, and refine the criteria that describe quality performance on a task — rather than the teacher presenting a finished rubric or checklist. Learners typically analyze exemplars of varying quality, articulate what distinguishes strong from weak work, and translate those observations into concrete, student-friendly criteria that then guide drafting, [self-assessment](../elements/self-assessment.md), and peer feedback.
 

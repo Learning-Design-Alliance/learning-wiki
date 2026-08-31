@@ -10,6 +10,8 @@ generated:
 
 # Multimodal Composition
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Multimodal composition asks learners to create texts that combine multiple modes of communication — words, images, sound, movement, spatial layout — rather than relying on prose alone. Learners produce slide shows, video essays, audio documentaries, infographics, websites, and other artifacts, and in doing so learn what each mode affords and constrains. Digital literacy — the ability to locate, evaluate, use, and create information with digital tools — is both a prerequisite and an outcome.
 

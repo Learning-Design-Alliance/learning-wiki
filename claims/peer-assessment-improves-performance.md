@@ -11,6 +11,8 @@ evidence_strength: unverified
 
 # Peer Assessment Improves Performance
 
+> **Claim** · [All claims](index.md)
+
 When learners evaluate one another's work against explicit criteria, the act of judging quality deepens their own understanding and can improve subsequent performance. The claim covers both directions of the exchange — gains from assessing peers and gains from being assessed by peers — and is currently unverified pending Evidence entries.
 
 ## Subclaims

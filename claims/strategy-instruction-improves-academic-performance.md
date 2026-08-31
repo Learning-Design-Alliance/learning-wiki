@@ -11,6 +11,8 @@ evidence_strength: pending
 
 # Strategy Instruction Improves Academic Performance
 
+> **Claim** · [All claims](index.md)
+
 Explicitly teaching learners cognitive and metacognitive strategies — how to plan, monitor, and evaluate their own thinking — raises academic performance across domains and age groups.
 
 ## Subclaims

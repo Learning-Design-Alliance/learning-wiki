@@ -10,6 +10,8 @@ generated:
 
 # Graphic Organizers
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A graphic organizer is a visual-spatial representation of content — concept maps, matrices, flowcharts, hierarchies, Venn diagrams — that externalizes the relationships among ideas in a topic. The instructor may provide a completed organizer, a partially completed one for learners to fill in, or only the frame, with learners constructing the content themselves. Because the display makes relational structure visible, it complements linear text or lecture rather than merely decorating it.
 

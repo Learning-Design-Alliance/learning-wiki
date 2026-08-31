@@ -10,6 +10,8 @@ generated:
 
 # Maintaining High Expectations for Student Performance
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Maintaining high expectations means holding every student accountable to demanding, individually calibrated achievement standards rather than lowering demands for students perceived as struggling. Expectations are set relative to each student's current performance and growth trajectory: students receive praise in proportion to genuine accomplishment, not lavished on trivial tasks. When a student stalls, the teacher engages positively and guides the student through the initial steps needed to complete the task, rather than reducing the task itself.
 

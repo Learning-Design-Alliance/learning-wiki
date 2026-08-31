@@ -23,6 +23,8 @@ sources:
 
 # Structured Questioning
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Structured questioning is an instructional element in which the instructor sequences purposeful questions — moving from factual retrieval toward explanation, application, and evaluation — to guide learners through inquiry without giving answers directly. The questions function as scaffolds: each one directs attention, elicits reasoning, and prompts learners to construct and articulate understanding themselves.
 

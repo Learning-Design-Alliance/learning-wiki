@@ -10,6 +10,8 @@ generated:
 
 # Empathic Discipline
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Empathic discipline treats student misbehavior as a signal to be understood rather than a violation to be punished. Teachers adopt the perspective that a student's disruptive behavior reflects unmet needs or situational struggles, and respond in ways that preserve the relationship while still holding the student accountable. It is typically carried out through brief perspective-taking interventions, relationship-building routines, and restorative rather than exclusionary responses to infractions.
 

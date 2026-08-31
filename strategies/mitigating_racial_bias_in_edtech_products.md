@@ -10,6 +10,8 @@ generated:
 
 # Mitigating Racial Bias in Edtech Products
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Mitigating racial bias in edtech products means systematically examining how a product's data, models, content, and interaction design affect students differently by race, and redesigning so that Black and Brown students are served well rather than as an afterthought. The **AI in Education Toolkit for Racial Equity** operationalizes this as actions across the full product lifecycle: interrogating training data and labels, surfacing assumptions embedded in personas and use cases, testing algorithmic performance across racial groups, and designing with — not merely for — Black and Brown students and educators. It is a sociotechnical strategy: bias lives in datasets, proxies, defaults, and deployment contexts simultaneously, so no single technical fix suffices.
 

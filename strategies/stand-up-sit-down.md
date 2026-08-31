@@ -10,6 +10,8 @@ generated:
 
 # Stand Up Sit Down
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Stand Up/Sit Down is a whole-class response routine in which the teacher poses a computation or criterion (e.g., "Stand up if the product is even," or "Stand if 7 × 8 minus 6 is greater than 50") and students respond physically — standing, sitting, or staying put — based on a mentally computed result. The target number is often disguised inside a multi-step prompt, so students must compute before they can act. The format converts individual retrieval into a fast, public, embodied check that the whole class performs simultaneously.
 

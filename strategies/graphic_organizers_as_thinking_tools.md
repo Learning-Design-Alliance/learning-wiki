@@ -10,6 +10,8 @@ generated:
 
 # Graphic Organizers as Thinking Tools
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Students interact with content by organizing chunks of it into graphic organizers — concept maps, matrices, Venn diagrams, flowcharts, hierarchical taxonomies — in groups, pairs, or individually, then comparing their results. The organizer is not a handout to fill in passively; it is a thinking tool that forces learners to select, relate, and structure ideas, making their mental models visible and discussable. Comparing organizers across learners surfaces alternative interpretations and drives productive discussion about similarities and differences in the content.
 

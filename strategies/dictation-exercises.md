@@ -10,6 +10,8 @@ generated:
 
 # Dictation Exercises
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Dictation exercises ask learners to listen to spoken language and transcribe it accurately in writing. The task forces learners to segment the speech stream into words and phonemes, map sounds to spellings, and hold the utterance in working memory long enough to write it. Variants include partial dictation (filling gaps in a transcript), running dictation (memory-and-movement versions where text is memorized in one location and written in another), and phrase-by-phrase dictogloss, where learners reconstruct a gist-level text from notes.
 

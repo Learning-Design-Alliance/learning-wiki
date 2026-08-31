@@ -10,6 +10,8 @@ generated:
 
 # Timed Math Fact Drills
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Timed math fact drills are short, frequent practice sessions in which learners answer basic arithmetic facts (addition, subtraction, multiplication, division) under mild time pressure, aiming for accurate *and* rapid retrieval. They are typically implemented as daily 2–10 minute routines using worksheets, flashcards, or software, with progress tracked against fluency benchmarks (e.g., digits correct per minute). The goal is automaticity — freeing working memory for higher-order mathematics.
 

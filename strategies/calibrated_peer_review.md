@@ -10,6 +10,8 @@ generated:
 
 # Calibrated Peer Review
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Calibrated Peer Review (CPR) is a peer assessment strategy in which learners first evaluate benchmark samples of work — typically strong, average, and weak exemplars — and compare their judgments against expert ratings. Only after demonstrating acceptable calibration do they review peers' work and receive reviews of their own. The calibration phase converts peer review from an unstructured exchange into a training sequence for evaluative judgment.
 

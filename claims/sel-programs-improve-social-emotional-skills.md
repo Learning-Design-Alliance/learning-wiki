@@ -11,6 +11,8 @@ evidence_strength: moderate
 
 # SEL programs improve social emotional skills
 
+> **Claim** · [All claims](index.md)
+
 Structured social-emotional learning (SEL) programs — sequenced curricula that explicitly teach self-awareness, self-management, social awareness, relationship skills, and responsible decision-making — improve students' social-emotional competencies.
 
 ## Subclaims

@@ -23,6 +23,8 @@ sources:
 
 # Multimodal Instruction
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Multimodal instruction presents and develops learning through more than one representational mode, such as text, speech, image, gesture, diagram, demonstration, or interactive media. Its value is not in catering to supposed fixed "learning styles," but in using different modes for different instructional purposes: some ideas are clearer when shown, some when spoken, some when enacted, and some when learners move between representations. Well-designed multimodal instruction can improve clarity, access, and retention when the modes complement rather than compete with one another.
 

@@ -10,6 +10,8 @@ generated:
 
 # Classwide Peer Editing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Classwide peer editing involves having students review and critique examples of student writing, which can be real or mock examples displayed or distributed to the entire class. Students compliment the piece (word choice, sentence structure, tone, organization), make specific suggestions for improvement, and point out objective errors in grammar, spelling, and continuity. Because the whole class works on the same piece under teacher facilitation, the strategy doubles as training in evaluative judgment before students apply the same routine to peers' or their own drafts.
 

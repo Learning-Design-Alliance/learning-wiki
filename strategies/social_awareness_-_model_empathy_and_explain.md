@@ -10,6 +10,8 @@ generated:
 
 # Social Awareness - Model Empathy and Explain
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Model empathy and explain is a strategy in which the facilitator makes empathic reasoning visible — narrating how they infer another person's feelings, motives, and constraints — and then leads explicit, structured conversations about differing perspectives, emotions, and social issues, including issues of social justice. Current events and fictional characters serve as safe, concrete anchors for these discussions. The strategy combines social modeling with explicit explanation, so learners observe and hear the reasoning behind perspective-taking rather than being told simply to "be empathetic."
 

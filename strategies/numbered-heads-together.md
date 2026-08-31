@@ -10,6 +10,8 @@ generated:
 
 # Numbered Heads Together
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Numbered Heads Together (NHT) is a Kagan cooperative learning structure. Learners work in teams of four; each member is assigned a number (1–4). The teacher poses a question, the team discusses until every member can explain the answer ("heads together"), then the teacher randomly calls a number, and that student reports for the team. Random reporting makes each member's understanding consequential, so teams cannot rely on their strongest member.
 

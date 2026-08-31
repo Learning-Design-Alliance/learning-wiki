@@ -10,6 +10,8 @@ generated:
 
 # Drawing for Emergent Writing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Drawing for emergent writing positions children's drawings as a bridge between visual expression and written composition. Learners draw first — freely or in response to a prompt — and then use the drawing as a semantic plan for labeling, captioning, dictating, or writing text. The strategy treats drawing not as decoration or reward but as a planning and meaning-making stage that precedes and supports transcription.
 

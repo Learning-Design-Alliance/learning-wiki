@@ -10,6 +10,8 @@ generated:
 
 # Exit Tickets
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 An exit ticket is a brief prompt — typically one to three questions — completed by learners in the final minutes of a lesson and submitted before leaving. It serves two functions simultaneously: learners consolidate and self-assess their understanding, and the instructor gains rapid formative data about what the class did and did not learn, informing the next lesson's starting point.
 

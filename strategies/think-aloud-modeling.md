@@ -10,6 +10,8 @@ generated:
 
 # Think-Aloud Modeling
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Think-aloud modeling is a strategy in which an instructor performs a task while verbalizing the reasoning, checks, and decisions normally kept internal. It helps learners see not just what to do, but how an expert monitors and adapts during performance.
 

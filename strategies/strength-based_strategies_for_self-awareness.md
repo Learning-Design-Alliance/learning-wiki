@@ -10,6 +10,8 @@ generated:
 
 # Strength-Based Strategies for Self-Awareness
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Strength-based strategies for self-awareness position the identification of a learner's existing strengths — emotional vocabulary, accurate self-assessment, persistence, interpersonal insight — as the entry point for addressing academic and social-emotional challenges. Rather than remediating deficits directly, the educator helps students name their emotions, recognize their capabilities and limitations, predict outcomes of their actions, and apply what they already do well to what they find difficult. Self-awareness here follows the CASEL definition: identifying emotions, accurate self-perception, recognizing strengths, self-confidence, and self-efficacy.
 

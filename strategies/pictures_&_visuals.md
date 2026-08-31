@@ -10,6 +10,8 @@ generated:
 
 # Pictures & Visuals
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy uses images, diagrams, videos, animations, and graphic organizers to represent content alongside or instead of verbal explanation. Its theoretical basis is [Dual Coding Theory](../theories/dual-coding-theory.md): information encoded both verbally and visually leaves two retrieval paths, improving recall [Pairing words with relevant images improves recall compared with words alone.](../claims/dual-coding-improves-recall.md) [+S]. The benefit is conditional, not automatic — visuals help when they are relevant, explanatory, and integrated with text, and can harm learning when they are decorative or overloaded [Decorative illustrations do not improve learning and can reduce it by diverting attention.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S].
 

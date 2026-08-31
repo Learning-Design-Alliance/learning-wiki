@@ -10,6 +10,8 @@ generated:
 
 # Ask Open-Ended Questions
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Asking open-ended questions means inviting students to explain, describe, or reflect in their own words — "What's on your mind today?" or "What made that hard?" — instead of assuming you already know how a student is feeling or what they understand. The strategy applies equally to emotional check-ins and academic probing: in both cases the educator withholds premature interpretation, attends to nonverbal cues, and lets the student's response drive the conversation. Closed or leading questions ("Are you frustrated?") constrain the answer and can confirm an educator's mistaken assumption.
 

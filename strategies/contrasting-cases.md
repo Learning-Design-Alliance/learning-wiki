@@ -12,6 +12,8 @@ Wait — the exemplar frontmatter has sources list; template stub doesn't show s
 
 Headings per template:
 # Contrasting Cases
+
+> **Strategy** · [All strategies](index.md)
 ## Description
 ## Design Implications
 ### Context

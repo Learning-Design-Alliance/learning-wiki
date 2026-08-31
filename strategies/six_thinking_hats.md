@@ -10,6 +10,8 @@ generated:
 
 # Six Thinking Hats
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The Six Thinking Hats technique, developed by Edward de Bono, is a parallel thinking process that separates thinking into six clear functions and roles, each identified with a colored symbolic "hat": White (facts and information), Red (feelings and intuition), Black (caution and critical judgment), Yellow (benefits and optimism), Green (creativity and alternatives), and Blue (process control and metacognition). By mentally wearing and switching hats together — everyone thinking in the same mode at the same time — participants focus or redirect thoughts, conversation, or a meeting, rather than arguing from opposing positions simultaneously.
 

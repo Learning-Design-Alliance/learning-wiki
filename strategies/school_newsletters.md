@@ -10,6 +10,8 @@ generated:
 
 # School Newsletters
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 School newsletters are recurring visual communications — print or digital — designed to keep staff, students, and parents informed and engaged with school events, activities, and learning priorities. They combine text, images, school branding (colors, fonts, icons), and structured sections to create a sense of community and shared purpose. As a communication strategy rather than a direct instructional one, their learning value lies in orienting attention, building shared expectations, and connecting home and school around learning goals.
 

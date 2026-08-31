@@ -10,6 +10,8 @@ generated:
 
 # Icebreakers
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Icebreakers are brief, low-stakes activities at the opening of a course, unit, or session that require learners to interact with peers and typically to disclose something about themselves. They function less as content instruction than as social infrastructure: they create initial familiarity, signal that participation is expected, and give the instructor early information about the group. Common formats include paired introductions, "two truths and a lie," human scavenger hunts, and structured [check-ins](../elements/check-in.md).
 

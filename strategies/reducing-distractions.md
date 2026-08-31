@@ -10,6 +10,8 @@ generated:
 
 # Reducing Distractions
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Reducing distractions is the deliberate removal or suppression of stimuli that compete with the learning task for attention — extraneous on-screen decoration, background noise, irrelevant media, notifications, and multitasking demands. It is carried out through environment design (physical and digital), message design (what is presented), and task design (what learners are asked to do simultaneously).
 

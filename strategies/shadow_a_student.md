@@ -10,6 +10,8 @@ generated:
 
 # Shadow a Student
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Shadowing involves following a single student throughout their school day — observing classes, transitions, lunch, and unstructured time — to gain firsthand insight into their experiences, challenges, and needs. The educator's role is to observe without intervening or judging, then reflect systematically on what the day revealed about the learner's perspective. The practice, popularized by the [Shadow a Student Challenge](http://shadowastudent.org) (School Retool / Stanford d.school), is a form of empathy-driven field observation intended to surface assumptions educators hold about students.
 

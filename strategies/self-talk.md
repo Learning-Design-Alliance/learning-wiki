@@ -10,6 +10,8 @@ generated:
 
 # Self Talk
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Self talk is the deliberate use of instructional or motivational statements directed at oneself — aloud or silently — to guide attention, regulate effort, and structure task performance. It operationalizes the private speech Vygotsky described as the developmental bridge between social dialogue and internal self-regulation: learners first hear task guidance from others, then say it to themselves, and finally internalize it. In instruction, self talk is taught explicitly as a repertoire of cue statements ("What do I know? What's my first step? Check my answer") that learners deploy during independent work.
 

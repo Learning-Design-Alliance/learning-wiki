@@ -11,6 +11,8 @@ evidence_strength: undetermined
 
 # Discussion Quality Drives Comprehension
 
+> **Claim** · [All claims](index.md)
+
 Comprehension gains from classroom discussion depend on the quality of the discourse — features such as open-ended questions, elaborated student talk, and responsive follow-up — rather than on the mere presence of discussion.
 
 ## Subclaims

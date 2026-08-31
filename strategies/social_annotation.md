@@ -10,6 +10,8 @@ generated:
 
 # Social Annotation
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Social annotation is a collaborative method in which learners add notes, comments, questions, highlights, and multimedia to shared digital texts, images, or videos, and reply to one another's annotations in place. Unlike private [Annotating](../principles/annotating.md), it transforms reading into a social activity: conversation is anchored to specific passages of the text rather than occurring after or around it. Platforms such as [Hypothesis](https://web.hypothes.is), [Perusall](https://www.perusall.com), [NowComment](https://nowcomment.com), and [Diigo](https://www.diigo.com) make the annotation layer visible to a class or group.
 

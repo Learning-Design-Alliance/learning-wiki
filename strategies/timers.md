@@ -10,6 +10,8 @@ generated:
 
 # Timers
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Timers, both visual and auditory, are used to help learners gauge how much time remains during an activity, supporting greater attention and task completion. Visual timers — such as color-disappearing countdown clocks — make the abstract construct of elapsed time perceptible, which supports learners who do not yet have an internal sense of duration. Timers structure activities (turn-taking in games, writing sprints, group work phases) and manage transitions by providing a clear, predictable cue that an activity is ending.
 

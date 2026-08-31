@@ -10,6 +10,8 @@ generated:
 
 # Working Memory Support Strategies
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Working memory support strategies are instructional design techniques that manage the severe capacity limits of working memory — roughly three to five novel elements for most adults [Cowan's embedded-processes model.](https://doi.org/10.1017/S0140525X01003922) [+S]. They work through three mechanisms: reducing intrinsic load (segmenting, [Chunking](../principles/chunking.md), pretraining), minimizing extraneous load (removing redundancy, integrating sources, clear structure), and externalizing content (graphics, organizers, worked examples) so learners need not hold intermediate states in mind. The approach is grounded in [Cognitive Load Theory](../theories/cognitive-load-theory.md) [+S].
 

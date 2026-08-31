@@ -11,6 +11,8 @@ evidence_strength: weak
 
 # Blended Learning Improves Outcomes
 
+> **Claim** · [All claims](index.md)
+
 Blended learning — instruction that combines face-to-face teaching with online learning activities — is widely claimed to produce better learning outcomes than fully face-to-face or fully online formats. This page concerns that comparative-outcome claim; it does not yet have curated evidence entries.
 
 ## Subclaims

@@ -10,6 +10,8 @@ generated:
 
 # Student Shadowing (Teacher/Coach Observation)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A teacher or coach shadows a student — following them through a lesson, a day, or a unit — to observe their behavior, engagement, and interactions from the learner's perspective. The observer then reflects on what was seen and uses those observations to make concrete instructional adjustments. Unlike evaluation-oriented observation (where an observer watches the *teacher*), shadowing inverts the lens: the adult becomes the student's witness.
 

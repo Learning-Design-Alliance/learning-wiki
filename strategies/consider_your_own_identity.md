@@ -10,6 +10,8 @@ generated:
 
 # Consider Your Own Identity
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Educators systematically examine their own racial identity, social position, biases, and privileges as preparation for facilitating conversations about race. Structured tools support this work: Glen Singleton and Curtis Linton's *Courageous Conversations About Race* framework, Peggy McIntosh's "invisible knapsack" inventory of white privilege, the Intercultural Development Inventory (IDI) as a measure of intercultural sensitivity, and the construction of a personal racial autobiography. The premise is that unexamined identity leaks into facilitation — through avoidance, defensiveness, or microaggressions — and that self-knowledge is a prerequisite for creating an equitable classroom climate.
 

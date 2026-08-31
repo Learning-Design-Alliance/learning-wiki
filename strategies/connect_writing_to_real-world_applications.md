@@ -10,6 +10,8 @@ generated:
 
 # Connect Writing to Real-World Applications
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Instructors make explicit how writing functions in learners' lives, communities, and future careers — through authentic tasks, professional examples, and guest speakers who describe the role writing plays in their work. The strategy draws on utility-value research: learners persist and perform better when they see course content as useful to their goals [Hulleman & Harackiewicz, 2009] [+S].
 

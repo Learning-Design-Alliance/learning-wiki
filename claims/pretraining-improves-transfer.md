@@ -11,6 +11,8 @@ evidence_strength:
 
 # Pretraining Improves Transfer
 
+> **Claim** · [All claims](index.md)
+
 Learners who receive instruction on key concepts, terms, or characteristics of a system *before* the main instruction show better transfer than learners who receive the same content integrated into or after the main instruction.
 
 ## Subclaims

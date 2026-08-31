@@ -10,6 +10,8 @@ generated:
 
 # Outlining
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Outlining asks learners to represent content as a hierarchical structure — main ideas, sub-ideas, and supporting details — before producing a full text or while processing source material. It can be instructor-provided (a skeleton to complete), learner-generated (a plan built before writing), or co-constructed. The outline functions as an external planning device that offloads organization from working memory.
 

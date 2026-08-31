@@ -10,6 +10,8 @@ generated:
 
 # Gallery Walk
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Stations, posters, or artifacts are set up around the classroom, on walls, or on tables. Small groups of learners travel from station to station together, performing a task or responding to a prompt at each stop, with written or spoken conversation as the intended outcome. Variations include groups creating posters and acting as tour guides, commenting on peers' work with sticky notes, or rotating through learner-created video tutorials.
 

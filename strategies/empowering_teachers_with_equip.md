@@ -10,6 +10,8 @@ generated:
 
 # Empowering Teachers with EQUIP
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 EQUIP (Equity Quantified in Participation) is a customizable observation tool for tracking patterns in student participation during classroom discourse. An observer — the teacher, a peer, or a coach — codes who speaks and the quality of that participation in real time or from video, tagging turns with social markers (race, gender) and discourse features (question type, student talk quality). EQUIP generates instant analytics that teachers use to recognize inequitable participation patterns and set goals for changing their practice.
 

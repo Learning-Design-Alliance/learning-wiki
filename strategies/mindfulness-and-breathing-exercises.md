@@ -10,6 +10,8 @@ generated:
 
 # Mindfulness And Breathing Exercises
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Mindfulness and breathing exercises are short, structured practices in which learners direct attention to present-moment experience — typically the breath, bodily sensations, or sounds — and practice returning attention when it wanders. In learning contexts they are usually delivered as brief (2–10 minute) opening or transition routines rather than extended meditation training, with the goal of settling arousal, reducing anxiety, and improving readiness to attend.
 

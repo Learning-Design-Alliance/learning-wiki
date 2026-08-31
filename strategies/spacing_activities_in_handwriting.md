@@ -10,6 +10,8 @@ generated:
 
 # Spacing Activities in Handwriting
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Spacing activities target the spatial organization of handwriting — consistent gaps between letters within words and clear word boundaries — which is one of the strongest determinists of legibility. They are carried out through explicit instruction on spacing rules, physical "spacing tools" (craft sticks, clothespins, finger spacing), visual cues and puzzles, and structured practice with feedback on written products.
 

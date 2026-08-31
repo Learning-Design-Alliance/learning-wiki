@@ -10,6 +10,8 @@ generated:
 
 # Real-World Reframes
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 When a student expresses frustration or negativity (e.g., "I can't do this stuff!"), the teacher first reflects the feeling back ("You sound really frustrated, Jackson") and then prompts the student toward a concrete next action: "I wonder what strategy or first step you might be able to take?" Suggested actions include checking and reframing the inner voice, taking deep breaths, checking with a friend, rereading instructions, or asking for help. The strategy pairs emotional validation with cognitive reappraisal and immediate behavioral redirection, rather than either dismissing the emotion or solving the problem for the student.
 

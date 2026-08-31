@@ -19,6 +19,8 @@ sources:
 
 # Scaffolding & Fading
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Scaffolding & Fading is the short-form canonical target for designs that provide temporary support and then reduce it as learner independence grows.
 

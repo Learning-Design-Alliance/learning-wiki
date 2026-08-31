@@ -10,6 +10,8 @@ generated:
 
 # Exhibition of Learning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 An exhibition of learning is a structured culminating event — an evening showcase, gallery walk, panel defense, or demo day — where learners present completed work to an audience beyond the teacher: families, community members, industry partners, or peers from other classes. It converts the end of a project into a public performance of understanding, where learners must explain, defend, and demonstrate what they know rather than submit it privately.
 

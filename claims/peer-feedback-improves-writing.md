@@ -11,6 +11,8 @@ evidence_strength:
 
 # Peer Feedback Improves Writing
 
+> **Claim** · [All claims](index.md)
+
 Structured peer feedback on writing improves the quality of subsequent drafts and revisions, and engaging students as reviewers of others' writing can also strengthen their own writing. The claim covers both directions of the exchange — receiving feedback and giving it — and applies to structured peer review arrangements rather than informal comment exchange.
 
 ## Subclaims

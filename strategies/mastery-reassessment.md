@@ -10,6 +10,8 @@ generated:
 
 # Mastery Reassessment
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Mastery reassessment is a grading and instructional strategy in which an initial assessment is treated as formative: learners who fall short of a proficiency standard receive targeted reteaching or corrective instruction, then attempt a parallel reassessment. The reassessment score typically *replaces* the original rather than being averaged with it, signaling that the goal is eventual proficiency rather than performance on a single occasion. This operationalizes the core commitment of mastery learning — that time and support vary while the achievement standard stays constant.
 

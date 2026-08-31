@@ -10,6 +10,8 @@ generated:
 
 # Supply Caddy
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Instead of having supplies scattered across a room or desk, keep them in a single portable caddy (a shower caddy or cleaning-supply caddy works well), organized by function — writing tools together, cutting and adhesives together. A caddy with a handle can be stored out of the way when not in use and carried to wherever the learner is working, making the organization system mobile rather than location-bound.
 

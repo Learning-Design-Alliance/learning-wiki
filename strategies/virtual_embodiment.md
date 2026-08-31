@@ -10,6 +10,8 @@ generated:
 
 # Virtual Embodiment
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Virtual embodiment places learners inside a virtual body — often one differing from their own in race, age, height, or ability — using a head-mounted display and synchronized first-person perspective with real or virtual limb movement. When the illusion of body ownership takes hold, learners do not merely observe an outgroup member's situation; they experience being treated as, and seeing themselves as, that person. This converts abstract appeals to empathy ("treat others as you wish to be treated") into a first-person experience of the golden rule in operation.
 

@@ -10,6 +10,8 @@ generated:
 
 # Novelty Attention-Getters
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Novelty attention-getters use unique and unexpected stimuli to capture young students' attention and quiet the classroom. Examples include wind chimes, rain sticks, imaginary actions like "popping a marshmallow," or a "quiet spray" bottle filled with lavender-scented water. The unusual or imaginative stimulus interrupts ongoing behavior and signals a transition to focused attention, functioning as the "gain attention" event in [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md).
 

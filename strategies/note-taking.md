@@ -10,6 +10,8 @@ generated:
 
 # Note Taking
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Note taking is the practice of recording key ideas during a lecture, reading, or multimedia presentation, typically involving selection of important information, paraphrasing, and organization into a personal structure. It serves two functions: encoding (processing material deeply at the moment of learning) and storage (creating an external record for later review). Variants include linear notes, structured outlines, [Cornell notes](https://en.wikipedia.org/wiki/Cornell_Notes), concept maps, and sketchnoting.
 

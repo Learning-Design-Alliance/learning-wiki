@@ -10,6 +10,8 @@ generated:
 
 # Using Reflection for Habit Formation
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy embeds recurring, structured reflection — journals, exit routines, reflective dialogue, self-assessment — into the regular rhythm of instruction so that looking back on experience becomes a habit rather than an occasional event. The teacher acts as facilitator of meaning-making: guiding learners to approach tasks strategically, monitor their own progress, construct meaning from experience, and apply learnings to new contexts. The goal is not a single reflective activity but the formation of a durable habit of mind.
 

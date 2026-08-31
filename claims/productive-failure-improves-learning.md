@@ -11,6 +11,8 @@ evidence_strength:
 
 # Productive Failure Improves Learning
 
+> **Claim** · [All claims](index.md)
+
 Learners who attempt to solve challenging problems before receiving canonical instruction often outperform learners who receive instruction first, because the failed attempts activate prior knowledge and make the subsequent instruction more meaningful.
 
 ## Subclaims

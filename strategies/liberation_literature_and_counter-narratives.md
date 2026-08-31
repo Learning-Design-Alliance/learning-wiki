@@ -10,6 +10,8 @@ generated:
 
 # Liberation Literature and Counter-Narratives
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Liberation literature involves exposing learners to literature that places out-group identities at the center of the curriculum to counter common negative stereotypes or omissions. The strategy rests on Bishop's (1990) metaphor of texts as "mirrors, windows, and sliding glass doors": learners need texts that reflect their own identities (mirrors), texts that let them view others' experiences (windows), and texts they can step into imaginatively (doors). Implementation involves selecting texts with authentic, varied voices; examining authors, characters, and representation critically; and using graphic organizers to structure discussion of identity and perspective.
 

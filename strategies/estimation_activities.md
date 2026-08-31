@@ -10,6 +10,8 @@ generated:
 
 # Estimation Activities
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Estimation activities ask learners to produce a plausible approximate answer — a magnitude, range, or order-of-magnitude judgment — before or instead of exact computation. Learners might estimate the sum of 412 + 389 before calculating, guess the number of objects in a jar, or predict a measurement before verifying it. The activity is carried out by posing a quantitative question, requiring a committed estimate (often written and shared), and then comparing the estimate against an exact answer or measured value.
 

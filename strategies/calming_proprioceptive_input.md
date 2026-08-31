@@ -10,6 +10,8 @@ generated:
 
 # Calming Proprioceptive Input
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Using proprioceptive input, also known as "heavy work," involves engaging muscles and joints to provide a calming and organizing sensory experience. Activities include squishing play dough or a stress ball, pulling against resistance bands, pushing or moving chairs or desks, climbing, holding a heavy door open, carrying books, and chewing against resistance. These activities stimulate the proprioceptive system, which many practitioners report has a regulatory, calming effect — particularly for learners who are sensory-seeking or easily overwhelmed.
 

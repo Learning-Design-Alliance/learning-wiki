@@ -10,6 +10,8 @@ generated:
 
 # Establish Talk Partners
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Establishing talk partners means assigning students a standing partner for pair-talk activities, chosen deliberately rather than left to self-selection. The pairing is established as a classroom routine so that talk activities can begin immediately, and partners are selected to ensure equitable exchange — avoiding pairings where one student dominates or both remain passive.
 

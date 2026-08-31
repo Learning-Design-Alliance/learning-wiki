@@ -10,6 +10,8 @@ generated:
 
 # Self Monitoring
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Self monitoring is the ongoing process by which learners observe and judge their own understanding, performance, or progress — asking "Do I actually get this?" or "How did I do against the criteria?" — and use those judgments to regulate further study. It is the monitoring phase of [Self-Regulated Learning](../theories/self-regulated-learning.md), sitting between forethought (planning) and reflection (evaluation). In practice it is carried out through self-questioning, self-testing, checklists, progress tracking, and comparing one's work against models or rubrics.
 

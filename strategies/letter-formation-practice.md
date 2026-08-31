@@ -10,6 +10,8 @@ generated:
 
 # Letter Formation Practice
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Letter formation practice is the deliberate, repeated production of individual letters by hand, guided by a model that specifies starting point, stroke sequence, and direction. It typically pairs a visual exemplar with verbal mediation (naming the strokes aloud, e.g., "down, over, down") and immediate feedback, moving from tracing and copying to independent production. The goal is automaticity: letterforms produced without conscious attention so working memory is freed for composing.
 

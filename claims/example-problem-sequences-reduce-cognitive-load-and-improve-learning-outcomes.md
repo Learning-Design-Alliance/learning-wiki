@@ -11,6 +11,8 @@ evidence_strength: moderate
 
 # Example–problem sequences reduce cognitive load and improve learning outcomes
 
+> **Claim** · [All claims](index.md)
+
 Learners who study worked examples before or interleaved with practice problems show lower cognitive load and higher performance than those who only solve problems. The claim concerns sequencing — the ordering and alternation of examples and problems — rather than the presence of examples alone.
 
 ## Subclaims

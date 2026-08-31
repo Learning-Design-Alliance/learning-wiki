@@ -10,6 +10,8 @@ generated:
 
 # Brainstorming
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Brainstorming asks learners to generate as many ideas as possible around a problem or question within a set time, following rules that defer judgment, welcome wild ideas, and build on others' contributions. It is typically used at the start of a project, design task, or inquiry cycle to broaden the solution space before [evaluation and selection](../elements/assessment.md) begin.
 

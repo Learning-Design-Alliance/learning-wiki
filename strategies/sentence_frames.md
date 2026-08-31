@@ -10,6 +10,8 @@ generated:
 
 # Sentence Frames
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Sentence frames are partially completed sentence templates ("I disagree with ___ because ___") that learners use to structure their spoken or written responses. They make the *discourse moves* of a discipline — agreeing, disagreeing with evidence, building on a peer's idea, hedging, citing — explicit and available to learners who have ideas but not yet the language to express them. Frames are typically introduced, modeled, practiced in low-stakes exchanges, and faded as learners internalize the structures.
 

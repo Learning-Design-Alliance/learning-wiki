@@ -10,6 +10,8 @@ generated:
 
 # Self-Regulation - Mindfulness Techniques
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Incorporate mindfulness techniques — brief breathing exercises, body scans, and attention-anchoring practices — to help learners notice and manage their initial emotional impulses and reactivity. Self-regulation is the ability to alter and regulate emotional and behavioral responses; mindfulness trains the attentional and monitoring capacity that underlies it, giving learners a pause between stimulus and reaction.
 

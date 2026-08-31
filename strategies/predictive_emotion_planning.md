@@ -10,6 +10,8 @@ generated:
 
 # Predictive Emotion Planning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Predictive Emotion Planning asks learners to look ahead at a scheduled activity and anticipate the emotions it may evoke — anxiety before a test, boredom during a long task, excitement during group work — and to select coping strategies in advance. The practice converts emotional regulation from a reactive skill into a proactive one: instead of managing feelings after they disrupt attention, learners rehearse a plan before the trigger occurs. It is typically carried out through a short structured routine (schedule review, emotion identification, strategy selection) at the start of a day or lesson.
 

@@ -10,6 +10,8 @@ generated:
 
 # Using a Culturally Responsive Curriculum Scorecard
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The Culturally Responsive Curriculum Scorecard (developed by the NYC Coalition for Educational Justice) is a structured evaluation instrument that a team of stakeholders — parents, students, educators, and community members — uses to audit curriculum materials such as textbooks, lesson plans, and teacher guides. The team scores materials against criteria covering representation of diverse identities, presence of social justice themes, and the cultural responsiveness of teacher-facing materials, then aggregates scores to produce an actionable profile of the curriculum. Versions exist for English Language Arts and STEAM, and the tool is explicitly designed to be adapted to local school and campaign contexts.
 

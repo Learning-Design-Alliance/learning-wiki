@@ -27,6 +27,8 @@ sources:
 
 # Text-to-Speech
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Text-to-speech (TTS) converts written text into spoken audio, giving learners an additional way to access reading materials, instructions, and feedback. It is useful when decoding, visual fatigue, pace, or attention barriers make print alone harder to process. TTS can widen access to content, support rereading, and help learners coordinate listening with visual text.
 

@@ -10,6 +10,8 @@ generated:
 
 # Graphic Organizers for Note-Taking
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners use graphic organizers — matrices, concept maps, Venn diagrams, flowcharts, timelines — to structure notes taken from readings, research, films, or podcasts. The instructor may pre-select an organizer matched to the content structure (e.g., a comparison matrix for contrasting theories) to promote learning efficiency, or learners may construct their own.
 

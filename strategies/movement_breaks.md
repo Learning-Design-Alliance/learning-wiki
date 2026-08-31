@@ -10,6 +10,8 @@ generated:
 
 # Movement Breaks
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Movement breaks are short (1–5 minute), structured physical activities — stretching, rhythmic movement, brief games, or walking — inserted between instructional segments. They are carried out as deliberate transitions: the teacher signals a pause in academic work, leads or cues a defined physical activity, and then re-enters instruction with a clear transition routine.
 

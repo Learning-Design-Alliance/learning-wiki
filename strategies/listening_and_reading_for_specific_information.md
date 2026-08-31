@@ -10,6 +10,8 @@ generated:
 
 # Listening and reading for specific information
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy directs learners to extract particular details — names, dates, figures, key phrases, or specific ideas — from spoken or written input, rather than attempting exhaustive comprehension. Learners receive a purpose or task before engaging with the material, listen or read selectively, monitor their comprehension, and infer missing meaning from linguistic and contextual clues. It is a core comprehension strategy in second-language pedagogy and in academic study skills, where learners must process lectures, reports, and examinations efficiently.
 

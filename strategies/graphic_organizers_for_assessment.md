@@ -10,6 +10,8 @@ generated:
 
 # Graphic Organizers for Assessment
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Instead of (or alongside) selected-response or short-answer quiz items, students complete a graphic organizer — a concept map, matrix, flowchart, or Venn diagram — that represents relationships among terms and concepts from a body of instruction. The organizer serves as the assessment artifact: correctness of nodes, links, and overall structure is scored as evidence of conceptual understanding. Because organizers externalize relational knowledge, they reveal *how* ideas connect, not merely whether isolated facts are recalled.
 

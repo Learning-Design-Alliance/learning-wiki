@@ -10,6 +10,8 @@ generated:
 
 # Pencil Grasp Activities
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Pencil grasp activities are targeted fine-motor interventions that develop the hand strength, thumb opposition, and in-hand manipulation needed for a functional grasp — typically a dynamic tripod or quadrupod, in which the pencil is controlled by thumb, index, and middle finger with an open web space. Activities range from embedded play (beads, clothespins, tweezers, playdough) to direct instruction on how to hold and control a writing tool, followed by structured handwriting [practice](../elements/practice.md).
 

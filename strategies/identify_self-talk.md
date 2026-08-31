@@ -10,6 +10,8 @@ generated:
 
 # Identify Self-Talk
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Students keep a running log of their inner voice — the ongoing stream of private commentary, evaluation, and instruction that accompanies daily activity — recording at least five messages per day for a week in a journal or notebook. The goal is metacognitive awareness: making the usually invisible internal dialogue observable so it can later be examined, challenged, or deliberately reshaped. The strategy draws on the tradition of private speech as a tool of self-regulation, in which children's overt self-guidance gradually internalizes into covert verbal thought [Vygotsky, 1978].
 

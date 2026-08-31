@@ -10,6 +10,8 @@ generated:
 
 # Pre-Reading Graphic Organizers
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Pre-reading graphic organizers are structure-specific visual frames (e.g., a Venn diagram for compare/contrast, a flowchart for sequence, a cause-effect chain) introduced *before* reading. The teacher names the text structure, models how the organizer maps onto it, and students use the organizer as a scaffold while reading to capture the components of that structure. The organizer functions as both an advance organizer — orienting attention to the relationships that matter — and a note-taking frame that externalizes the text's macrostructure.
 

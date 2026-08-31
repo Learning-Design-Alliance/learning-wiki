@@ -12,6 +12,8 @@ grain_size: lesson, unit
 
 # Concept Attainment
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Concept attainment is an inductive instructional pattern in which learners are shown carefully sequenced examples ("yes") and non-examples ("no") of a target concept and must infer its defining attributes themselves. Rather than receiving a definition first, learners generate and test hypotheses about what distinguishes exemplars from non-exemplars, then confirm their understanding by classifying novel instances. The pattern solves a persistent problem of definition-first teaching: learners can memorize a definition without grasping the concept's boundaries or its range of permissible variation.
 

@@ -10,6 +10,8 @@ generated:
 
 # Rate (and Change) Tasks
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Ask learners to rate the level of challenge in an activity on a scale of 1 to 10. If the activity is rated an eight or higher, ask what could be done to make the task a two or three. The rating acts as a rapid [check-in](../principles/check-ins.md) that surfaces frustration before it escalates into avoidance, and the follow-up question converts the rating into a concrete plan for modifying the task.
 

@@ -11,6 +11,8 @@ evidence_strength: moderate
 
 # Highlighting shows low utility for improving learning outcomes
 
+> **Claim** · [All claims](index.md)
+
 Highlighting and underlining text is one of the most widely used study strategies, yet it shows little benefit for learning outcomes relative to simply reading.
 
 ## Subclaims

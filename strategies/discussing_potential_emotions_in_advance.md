@@ -10,6 +10,8 @@ generated:
 
 # Discussing Potential Emotions in Advance
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy involves explicitly naming and discussing the emotions learners are likely to experience during an upcoming task, challenge, or transition — before they encounter it. The instructor might say, "When you hit a bug you can't fix, you'll probably feel frustrated — that's normal, and here's what to do." Learners may also generate their own predictions and coping plans, converting anticipated emotional experience into a rehearsed regulation strategy rather than an in-the-moment crisis.
 

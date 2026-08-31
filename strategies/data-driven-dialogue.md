@@ -10,6 +10,8 @@ generated:
 
 # Data Driven Dialogue
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Data Driven Dialogue is a facilitation protocol for collaborative analysis of student data (assessment results, attendance, work samples) by educator teams. Developed by Lipton and Wellman, it deliberately separates phases of exploration: groups first *activate* prior knowledge and predict what the data will show, then *observe* the data with strictly descriptive language, and only then *infer* causes and commit to actions. The structure prevents the common failure mode of leaping from a glance at data to an unfounded intervention.
 

@@ -10,6 +10,8 @@ generated:
 
 # Keyword Strategy
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The keyword strategy is a two-stage mnemonic for learning vocabulary and paired associations. First, the learner identifies a familiar **keyword** that sounds similar to (or otherwise cues) the unfamiliar term — e.g., *car* for the Spanish *carne* (meat). Second, the learner forms an interactive mental image linking the keyword to the meaning — a picture of a steak in a car. The strategy works by converting an arbitrary verbal association into a concrete, imageable one, exploiting the superior durability of visual and elaborative encoding [Dunlosky et al. rate imagery-based mnemonics as useful for paired-associate learning.](../claims/chunking-reduces-working-memory-load.md) [+M].
 

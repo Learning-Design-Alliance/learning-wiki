@@ -10,6 +10,8 @@ generated:
 
 # Expressing Interest in Ethnic Background
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Teachers demonstrate genuine care for students' cultural needs by encouraging them to research and share their ethnic backgrounds, fostering a trusting classroom environment. Analyzing and celebrating differences in traditions, beliefs, and social behaviors helps students realize their beliefs and traditions constitute a culture, promoting cultural responsiveness. This strategy also involves learning the proper pronunciation of student names and showing interest in their etymology.
 

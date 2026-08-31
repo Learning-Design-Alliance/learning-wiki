@@ -10,6 +10,8 @@ generated:
 
 # Personalized Normative Feedback
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Personalized normative feedback (PNF) gives learners individualized data about their own behavior alongside accurate data about what peers actually do or believe, targeting the gap between perceived and actual norms. It is most developed in the "social norms approach" to health behavior (e.g., reducing alcohol misuse), but the mechanism — correcting pluralistic ignorance and false consensus — applies wherever learners misjudge what is typical, acceptable, or expected. Delivery is usually individual (survey followed by tailored report) and works best when the comparison group is credible and the norm data are genuinely local.
 

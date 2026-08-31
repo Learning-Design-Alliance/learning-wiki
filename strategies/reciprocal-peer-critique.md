@@ -10,6 +10,8 @@ generated:
 
 # Reciprocal Peer Critique
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Reciprocal peer critique is a structured arrangement in which learners exchange drafts or completed work and provide critical, criteria-based feedback to one another, then revise in response. "Reciprocal" signals that every learner occupies both roles — giving critique and receiving it — rather than a one-way review. The critique itself is typically scaffolded with rubrics, sentence stems, or protocols (e.g., "I like / I wonder / I suggest") so that feedback is specific and actionable rather than evaluative.
 

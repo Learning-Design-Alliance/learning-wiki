@@ -10,6 +10,8 @@ generated:
 
 # Structured Debate
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Structured debate is the element in which learners examine opposing claims using explicit roles, turn structures, evidence requirements, and response rules. It is useful when the goal is disciplined argumentation rather than free-form disagreement.
 

@@ -10,6 +10,8 @@ generated:
 
 # Concrete Representational Abstract (CRA) Sequence
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The CRA sequence teaches a concept in three linked stages: first with **concrete** manipulable objects (counters, base-ten blocks, fraction tiles), then with **representational** drawings or diagrams of those objects, and finally with **abstract** symbols (numerals, operators, equations). Each stage models the same underlying structure, so the transition from one to the next is a translation rather than a leap. It is carried out by explicitly connecting the stages — the same problem is solved at each level and the links between representations are named aloud.
 

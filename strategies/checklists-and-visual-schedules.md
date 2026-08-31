@@ -10,6 +10,8 @@ generated:
 
 # Checklists And Visual Schedules
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Checklists and visual schedules externalize the sequence of a task or routine into discrete, visible steps — written, pictorial, or object-based — that a learner can consult, follow, and mark off. They offload task management from working memory and from instructor prompting to a stable artifact in the environment, supporting independent execution of multi-step work.
 

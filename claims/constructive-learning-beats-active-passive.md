@@ -11,6 +11,8 @@ evidence_strength: low
 
 # Constructive learning beats active and passive learning
 
+> **Claim** · [All claims](index.md)
+
 Learning outcomes improve as learners move from passive to active to constructive engagement — generating ideas and outputs beyond what was presented — with constructive modes generally outperforming merely active ones.
 
 ## Subclaims

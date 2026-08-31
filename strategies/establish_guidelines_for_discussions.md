@@ -10,6 +10,8 @@ generated:
 
 # Establish Guidelines for Discussions
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Establishing guidelines for discussions means co-creating or explicitly introducing behavioral norms *before* dialogue begins, so participants know how to engage when the conversation becomes difficult. Well-known formulations include Singleton's four agreements for [Courageous Conversations About Race](https://courageousconversation.com/about/) — stay engaged, experience discomfort, speak your truth, accept non-closure — and the "pause of respect" after a difficult disclosure. The guidelines function as a shared contract that lowers the social risk of honest participation.
 

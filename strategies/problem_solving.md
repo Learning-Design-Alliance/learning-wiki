@@ -10,6 +10,8 @@ generated:
 
 # Problem Solving
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Problem solving involves designing activities that require learners to come up with solutions — ways of dealing with issues or challenges they can apply back on the job. Learners are presented with a problem (ideally authentic and ill-structured), investigate it, and construct, test, and defend a solution. The process of determining a solution is where deep learning occurs: learners must organize knowledge around the problem's structure rather than recall isolated facts [Hmelo-Silver's review of problem-based learning](../claims/case-based-learning-improves-exam-performance.md) [+M].
 

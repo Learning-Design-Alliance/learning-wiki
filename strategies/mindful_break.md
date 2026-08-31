@@ -10,6 +10,8 @@ generated:
 
 # Mindful Break
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A mindful break is a brief, student-initiated pause in instruction: a learner rings a bell when the class appears to need one, all activity stops, students stand and stretch in silence, then sit for roughly 30 seconds of mindful breathing before resuming. The student who rang the bell closes the break by prompting everyone to silently think of something they are grateful for. The routine combines attention reset, physiological regulation, and a gratitude practice into a single repeatable protocol.
 

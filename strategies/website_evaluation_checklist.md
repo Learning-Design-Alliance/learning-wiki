@@ -10,6 +10,8 @@ generated:
 
 # Website Evaluation Checklist
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A website evaluation checklist is a structured heuristic that guides learners through explicit criteria when judging the credibility of online sources — typically including corroboration of information across sources, author and publisher reliability, currency, documentation of claims, advocacy or bias, and conflicts of interest. Learners apply the checklist to real websites, often including deliberately unreliable ones, until the criteria become internalized evaluation habits.
 

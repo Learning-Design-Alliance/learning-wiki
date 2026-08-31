@@ -10,6 +10,8 @@ generated:
 
 # Maintaining High Expectations
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 In culturally responsive instruction, achievement expectations are determined individually rather than applied uniformly. Students receive praise in proportion to their accomplishments — not lavish praise for simple tasks — and when a student struggles, the instructor guides them positively through the initial steps rather than lowering the demand. The strategy communicates the belief that every student can succeed at challenging work while calibrating support to current performance.
 

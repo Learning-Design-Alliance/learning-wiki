@@ -10,6 +10,8 @@ generated:
 
 # Take A Break Station
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A Take A Break Station is a designated space in the classroom where students can voluntarily step away to decompress, recognize their emotional state, and re-enter learning ready to engage. Unlike a punitive time-out, it is framed as a self-management tool: the station typically includes calming materials (stress balls, timers, drawing supplies), reflection prompts, and a comfortable seat. Students learn to identify when they need a break, use the space productively, and return independently — building the self-monitoring and emotion-regulation skills that underpin long-term behavior change [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M].
 

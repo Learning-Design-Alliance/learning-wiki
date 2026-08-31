@@ -10,6 +10,8 @@ generated:
 
 # Conceptual Change
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Conceptual change instruction targets learners' entrenched intuitive theories — misconceptions that are coherent, functional, and resistant to direct correction. The strategy first makes prior conceptions explicit, then confronts them with evidence or explanations they cannot account for, and finally supports construction of the replacement conception. It is carried out through prediction tasks, contrasting cases, refutational texts, and discussion rather than simple transmission of correct information.
 

@@ -10,6 +10,8 @@ generated:
 
 # Awareness of Self-Talk
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Awareness of self-talk is a strategy in which learners are explicitly taught to notice, name, and examine their internal dialogue — the running commentary of judgments, predictions, and self-appraisals that accompanies effortful tasks. Learners first learn what self-talk is and how it shapes confidence and persistence, then practice catching it in real situations through logs, discussion, and structured reflection. The goal is metacognitive: making the inner voice an object of observation rather than an unquestioned background [Metacognition develops through explicit instruction in monitoring one's own thinking.](../claims/metacognitive-strategies-improve-learning.md) [+M]
 

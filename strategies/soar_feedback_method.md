@@ -10,6 +10,8 @@ generated:
 
 # SOAR Feedback Method
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The SOAR method is a quality framework for feedback on student writing: feedback should be **S**pecific (tied to concrete features of the text, not global impressions), **O**ngoing (delivered across drafts rather than as a single terminal event), **A**ction-Oriented (telling the writer what to *do* next, not just what is wrong), and **R**easonable (limited in scope to what the writer can act on in one revision cycle). It operationalizes formative assessment research into a checklist instructors can apply to every round of comments.
 

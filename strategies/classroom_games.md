@@ -10,6 +10,8 @@ generated:
 
 # Classroom Games
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Classroom games are structured, rule-governed activities — from board game adaptations to quiz-show formats — that convert review and consolidation into active, often competitive, participation. Effective games pair clear rules and objectives with retrieval demands: learners must recall, apply, or discriminate content to advance. The goal is to make review low-stakes and motivating while still requiring genuine cognitive engagement rather than mere participation.
 

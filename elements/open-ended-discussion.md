@@ -10,6 +10,8 @@ generated:
 
 # Open-Ended Discussion
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Open-ended discussion is facilitated dialogue in which learners collectively explore a question, text, or problem that has no single predetermined answer. The instructor's role shifts from transmitting content to structuring and steering talk — posing probing questions, requiring justification, and distributing participation — so that learners construct and test ideas against one another.
 

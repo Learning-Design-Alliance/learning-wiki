@@ -10,6 +10,8 @@ generated:
 
 # Mindfulness Techniques for Managing Emotional Impulses
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Mindfulness techniques train learners to notice emotional and physiological reactions as they arise, pause before responding, and choose a deliberate action rather than a reflexive one. In classrooms this is carried out through brief structured practices — focused breathing, body scans, mindful observation of thoughts — embedded at transitions, before assessments, or during conflict, rather than as standalone content.
 

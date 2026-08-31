@@ -10,6 +10,8 @@ generated:
 
 # Consider Socio-Cultural Factors
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy treats learners' socio-economic circumstances, home environment, and cultural background as design inputs rather than afterthoughts. It involves auditing assumptions about device and internet access, digital literacy, language, and cultural reference points, then adjusting materials, delivery modes, and support structures so that no group is systematically disadvantaged.
 

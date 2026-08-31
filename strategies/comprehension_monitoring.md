@@ -10,6 +10,8 @@ generated:
 
 # Comprehension Monitoring
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Comprehension monitoring is the metacognitive process of evaluating one's own understanding during reading and taking corrective action when it breaks down. Skilled readers continuously ask "Does this make sense?" and deploy *repair* or *fix-up* strategies — rereading, reading ahead to resolve ambiguity, looking up unfamiliar words, summarizing, or seeking help — when it does not. Poor readers typically lack both the awareness that comprehension has failed and a repertoire of repair strategies, so they continue reading without noticing the breakdown [Markman, 1977].
 

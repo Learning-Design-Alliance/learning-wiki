@@ -10,6 +10,8 @@ generated:
 
 # Video Prompts
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Video prompts are short video clips used to launch attention, curiosity, discussion, or analysis. They are useful when a brief visual or narrative stimulus can focus learners on a question, problem, or phenomenon.
 

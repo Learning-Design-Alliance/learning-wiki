@@ -10,6 +10,8 @@ generated:
 
 # Think-Write-Share
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Think-Write-Share is a questioning strategy in which every learner first thinks silently about a posed question, writes an initial response, and then shares that response with peers or the whole class. The written record creates individual accountability and gives learners an artifact to revise, while the sharing phase exposes divergent ideas and drives discussion toward a more accurate shared understanding.
 

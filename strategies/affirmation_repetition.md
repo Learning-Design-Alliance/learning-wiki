@@ -10,6 +10,8 @@ generated:
 
 # Affirmation Repetition
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Affirmation repetition involves having learners repeat empowering statements to themselves — aloud, silently, or in writing — during times of stress or challenge. Typical affirmations include "I can only do my best" or "I know I can do this." The strategy draws on two distinct literatures: self-affirmation theory, in which affirming personal values buffers threat and preserves cognitive resources, and positive self-talk, in which instructional self-statements support performance under pressure.
 

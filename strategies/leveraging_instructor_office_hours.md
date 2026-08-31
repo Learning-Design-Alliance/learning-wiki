@@ -10,6 +10,8 @@ generated:
 
 # Leveraging Instructor Office Hours
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Office hours are scheduled, recurring times when instructors make themselves available for individual or small-group consultation. Used deliberately as a teaching strategy rather than a passive availability, they provide personalized help with course content, feedback on work in progress, and academic and career advice that extends beyond a single course.
 

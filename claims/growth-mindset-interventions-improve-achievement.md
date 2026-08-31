@@ -11,6 +11,8 @@ evidence_strength: weak
 
 # Growth Mindset Interventions Improve Achievement
 
+> **Claim** · [All claims](index.md)
+
 Brief interventions that teach learners that abilities are malleable can raise academic achievement, though effects are typically small and depend heavily on context and implementation.
 
 ## Subclaims

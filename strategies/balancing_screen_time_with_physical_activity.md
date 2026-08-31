@@ -10,6 +10,8 @@ generated:
 
 # Balancing Screen Time with Physical Activity
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy reframes screen time from a competing sedentary activity into a vehicle for movement and creation. Rather than simply capping screen use, educators and parents steer children toward *active* screen purposes — filming nature documentaries, recording and reviewing sports skills, playing exergames (video dance games, motion-controlled fitness titles) — while protecting time for sleep, homework, and face-to-face socializing. The goal is a daily rhythm in which screens and physical activity complement rather than displace each other.
 

@@ -10,6 +10,8 @@ generated:
 
 # Visual Prompts for Essay Writing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy pairs a compelling photograph or artwork with an abstract "life lesson" statement (e.g., *Hard work pays off*) and asks students to write an essay connecting the image, the statement, and their own experience. A typical implementation is an 11-minute timed essay: students study the image, interpret what it shows, generate or adopt a life lesson it suggests, then write continuously — first explaining the lesson, then linking it to personal experience, literature, or the world. The image functions as a concrete anchor for an abstract claim, giving reluctant or novice writers something specific to react to before they must produce structured prose.
 

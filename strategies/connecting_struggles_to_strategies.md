@@ -10,6 +10,8 @@ generated:
 
 # Connecting Struggles to Strategies
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Connecting struggles to strategies involves explicitly teaching students various problem-solving strategies and helping them understand when and why to use each strategy effectively. Educators create opportunities for students to get productively "stuck" on challenging problems, then guide them to name, reflect on, and record the strategies that helped them get unstuck. Over time this builds a co-authored strategy resource and the habit of treating difficulty as a signal to try a different approach rather than a signal to stop.
 

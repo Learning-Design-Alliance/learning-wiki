@@ -10,6 +10,8 @@ generated:
 
 # Visual Mnemonics
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Visual mnemonics involve creating visual images to cue a strategy or represent a concept. Learners associate abstract or arbitrary content with concrete, vivid imagery — a picture, symbol, or imagined scene — so that the image serves as a retrieval cue at recall time. The technique exploits the picture-superiority effect and dual coding: information encoded both verbally and visually leaves two memory traces instead of one [Concrete visual and verbal codes combine to improve recall.](../theories/dual-coding-theory.md) [+S].
 

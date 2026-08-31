@@ -10,6 +10,8 @@ generated:
 
 # Comparing Multiple Solution Methods
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners compare and contrast multiple solution methods for the same problem, presented side by side, rather than studying one method at a time. The instructor presents worked examples of two or more valid approaches to an identical problem and prompts learners to identify similarities and differences — why each method works, when it is efficient, and what conceptual features it exposes. The goal is not just to know *a* method but to understand the solution space: to generate, recognize, and evaluate alternative approaches.
 

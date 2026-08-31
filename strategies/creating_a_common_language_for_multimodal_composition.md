@@ -10,6 +10,8 @@ generated:
 
 # Creating a Common Language for Multimodal Composition
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy builds a shared vocabulary for analyzing and producing multimodal texts. The class selects one mode (linguistic, visual, audio, gestural, or spatial), analyzes authentic examples of that mode in and out of school, and co-constructs a working definition displayed on an anchor chart. The resulting common language lets students name design choices, critique drafts, and discuss their own composing decisions with precision rather than vague praise or complaint.
 

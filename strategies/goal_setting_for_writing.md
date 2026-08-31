@@ -10,6 +10,8 @@ generated:
 
 # Goal Setting for Writing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Goal setting for writing gives learners explicit, task-specific targets — tied to the purpose, audience, and genre of the piece — that guide planning, drafting, and revision. Learners work with teachers or peers to set these goals, track progress against them, and use self-assessment and feedback to decide what to improve next. Goals can target the product (e.g., "state a counterargument in paragraph 3") or the process (e.g., "plan before drafting"), and both forms work best when they are specific and attainable rather than vague or purely quantitative [Specific, challenging goals outperform vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S].
 

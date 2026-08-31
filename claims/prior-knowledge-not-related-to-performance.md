@@ -16,6 +16,8 @@ sources:
 
 # Prior knowledge is not significantly related to test performance in this sample
 
+> **Claim** · [All claims](index.md)
+
 In one study of text underlining, learners' prior knowledge scores did not correlate significantly with the number of test questions answered correctly. This is a narrow, sample-specific null finding — not evidence that prior knowledge is generally unrelated to learning.
 
 ## Subclaims

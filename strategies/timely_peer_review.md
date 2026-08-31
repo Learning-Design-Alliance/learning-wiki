@@ -10,6 +10,8 @@ generated:
 
 # Timely Peer Review
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Timely peer review schedules structured peer feedback at several points across the life of an assignment: on drafts before submission, on the work the day it is due, and again after it has been graded. The repeated cycles signal that writing is an ongoing process and that feedback — peer or teacher — is a tool for continued improvement, not a terminal verdict.
 

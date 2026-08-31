@@ -10,6 +10,8 @@ generated:
 
 # Alphaboxes
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Alphaboxes is a collaborative strategy for interacting with text using a grid of boxes labeled A–Z. Students generate words, questions, concepts, or ideas related to a text and write them under the corresponding letter. Used before or after reading, it pushes students beyond factual recall toward higher-level processes — generating questions, making connections, explaining, and considering alternative perspectives — while distributing cognitive responsibility across group members.
 

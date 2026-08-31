@@ -10,6 +10,8 @@ generated:
 
 # Token Economies
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A token economy is a behavior management system in which learners earn tokens (points, stickers, chips) contingent on specified target behaviors, then exchange accumulated tokens for backup reinforcers chosen to be motivating. It operationalizes operant conditioning: the token functions as a generalized conditioned reinforcer because it is paired with multiple primary and secondary reinforcers. Effective systems define target behaviors precisely, deliver tokens immediately after the behavior, and include a menu of reinforcers at varied "prices."
 

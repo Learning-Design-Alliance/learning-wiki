@@ -10,6 +10,8 @@ generated:
 
 # Question Formulation Technique
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The Question Formulation Technique (QFT), developed by Dan Rothstein and Luz Santana of the Right Question Institute, is a structured protocol in which learners produce as many questions as possible about a prompt (a "QFocus"), then improve them, prioritize them, and plan how to use them. The instructor designs the prompt and facilitates the process but does not answer or evaluate questions during generation, deliberately separating question-asking from question-answering.
 

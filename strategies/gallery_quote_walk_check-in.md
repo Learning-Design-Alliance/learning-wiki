@@ -10,6 +10,8 @@ generated:
 
 # Gallery Quote Walk Check-In
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Students read a set of quotes displayed around the room and choose the one that best reflects their current emotional state. They gather beneath their chosen quote, and volunteers explain why it resonates. The activity functions as a low-stakes [check-in](../elements/check-in.md): it surfaces affect, builds emotional vocabulary, and establishes social presence before academic work begins.
 

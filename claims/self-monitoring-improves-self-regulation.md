@@ -20,6 +20,8 @@ evidence_strength: moderate
 
 # Self-monitoring improves self-regulation and supports better learning decisions.
 
+> **Claim** · [All claims](index.md)
+
 When learners are prompted to check their current performance against a goal or criterion, they are more likely to notice gaps, adjust strategy, and persist in purposeful ways.
 
 ## Subclaims

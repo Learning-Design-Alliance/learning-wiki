@@ -10,6 +10,8 @@ generated:
 
 # Take Home_Practice_Sets
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Take-home practice sets are curated collections of problems, exercises, or tasks assigned for completion outside of instructional sessions. They extend the [Practice](../elements/practice.md) cycle beyond limited class time, typically pairing items at varied difficulty with feedback mechanisms such as answer keys, worked solutions, or automated grading.
 

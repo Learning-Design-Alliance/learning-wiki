@@ -10,6 +10,8 @@ generated:
 
 # Systematic Phonics Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Systematic phonics instruction teaches grapheme–phoneme correspondences (GPCs) in a deliberate, pre-planned sequence — typically moving from simple, high-utility correspondences to more complex ones — with explicit teaching, blending and segmenting practice, and application to decodable text. It contrasts with incidental or "embedded" phonics, where letter–sound relationships are taught only as they arise in authentic texts.
 

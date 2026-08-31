@@ -10,6 +10,8 @@ generated:
 
 # Text-to-Text, Text-to-Self, Text-to-World
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Text-to-Text, Text-to-Self, Text-to-World (often abbreviated T-T, T-S, T-W) is a comprehension strategy popularized by Keene and Zimmermann's work on proficient reader thinking. Learners are prompted to connect a text to other texts they have read (comparing themes, structures, or characters), to their own lived experience (relating events and emotions to personal memory), and to broader world issues and current events. Connections can be prompted before, during, or after reading — to activate relevant knowledge, sustain engagement, or consolidate understanding.
 

@@ -10,6 +10,8 @@ generated:
 
 # Case Based Learning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Case based learning places learners in the role of analyst or decision-maker confronting a realistic scenario — a patient presentation, a business dilemma, a legal dispute, a classroom incident. Learners work through the case individually or in groups, applying concepts to diagnose problems, weigh options, and justify decisions. It is carried out through structured case discussion, written case analysis, or sequenced case sets that reveal information progressively.
 

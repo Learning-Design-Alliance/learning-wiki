@@ -10,6 +10,8 @@ generated:
 
 # Interviews
 
+> **Element** · [All elements](index.md)
+
 ## Description
 An interview places learners in direct contact with a source of knowledge — a domain expert, practitioner, community member, or peer — whom they question using a prepared protocol. The learner acts as an active inquirer rather than a recipient of pre-packaged content, and the resulting material (notes, transcripts, recordings) becomes an artifact for analysis, synthesis, or presentation.
 

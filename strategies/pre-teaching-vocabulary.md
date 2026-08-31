@@ -10,6 +10,8 @@ generated:
 
 # Pre-Teaching Vocabulary
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Pre-teaching vocabulary involves identifying the words most critical to understanding an upcoming text or lesson and explicitly introducing them — with student-friendly definitions, examples, and quick activities — before learners read or engage with the material. The goal is not exhaustive word study but targeted preparation: removing the specific lexical barriers that would otherwise derail comprehension. It is typically carried out through brief direct explanation, discussion of examples and non-examples, and quick checks for understanding.
 

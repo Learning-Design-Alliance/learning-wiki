@@ -10,6 +10,8 @@ generated:
 
 # Context-Specific Journaling
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Context-specific journaling asks learners to write structured reflections on a defined experience — a team assignment, internship, clinical placement, or professional practice — recording what they observed, what they thought and felt about it, and why it matters. Unlike general diary writing, the journal is anchored to a concrete context and typically guided by prompts, making it a deliberate component of experiential learning rather than free-form writing.
 

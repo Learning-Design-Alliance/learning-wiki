@@ -10,6 +10,8 @@ generated:
 
 # Belonging Interventions
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Belonging interventions are short, structured activities — typically delivered early in a course or transition — that present evidence that worries about belonging ("Do I fit here?") are common, temporary, and not a signal of inability. Students typically read summary findings from surveys of older students, write a reflective essay connecting the message to their own experience, and sometimes hear testimonials from successful peers. The approach draws on social-psychological theory: uncertainty about belonging, when left unaddressed, triggers vigilance and disengagement that compounds into achievement gaps [Walton & Cohen, 2011](https://doi.org/10.1126/science.1198364) [+S].
 

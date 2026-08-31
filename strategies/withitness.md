@@ -10,6 +10,8 @@ generated:
 
 # Withitness
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Withitness is the teacher's ability to monitor the entire classroom continuously and to communicate that awareness to students — knowing what every learner is doing, and intervening early and accurately. Coined by Jacob Kounin, it is the single most consistent teacher behavior distinguishing effective from ineffective classroom managers: students behave because they believe misbehavior will be noticed, not because they fear consequences.
 

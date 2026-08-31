@@ -10,6 +10,8 @@ generated:
 
 # Classroom Climate Routines
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Classroom climate routines are repeated, predictable practices — greetings, check-ins, norms-setting, transition procedures, and closing reflections — that establish psychological safety, shared expectations, and relational trust in a classroom. They are carried out consistently at fixed points (entry, transitions, closure) so that the social-emotional "operating system" of the class runs without renegotiation, freeing attention and time for instruction.
 

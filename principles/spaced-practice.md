@@ -10,6 +10,8 @@ generated:
 
 # Spaced Practice
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Spaced practice distributes study sessions or practice opportunities for the same material across time, with gaps between encounters, rather than concentrating them in a single massed session. The recommendation is to schedule repeated engagement with content at expanding or fixed intervals — typically separated by days — so that learners must partially reconstruct or retrieve prior learning at each encounter. Spacing is one of the most robust findings in learning science, with benefits documented across ages, materials, and retention intervals.
 

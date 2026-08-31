@@ -10,6 +10,8 @@ generated:
 
 # Word Walls
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A word wall is a visible, organized display of high-leverage vocabulary words for the current unit or discipline, built cumulatively over time. Learners are explicitly taught to use the wall — referencing it during writing and discussion, sorting words by linguistic features, and exploring relationships among terms — rather than treating it as passive decoration.
 

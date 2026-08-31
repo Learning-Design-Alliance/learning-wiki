@@ -10,6 +10,8 @@ generated:
 
 # Questioning Techniques to Address Errors
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Strategic questioning is used to guide students to recognize their errors and correct their thinking, emphasizing conceptual understanding over rote memorization. Rather than directly correcting an error, the teacher asks questions that direct attention to the student's own reasoning — the reasonableness of the answer, the underlying concepts, and the steps that produced the mistake. The teacher acts as a facilitator, guiding the student through self-discovery and correction.
 

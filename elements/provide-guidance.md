@@ -10,6 +10,8 @@ generated:
 
 # Provide guidance
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Providing guidance means supplying learners with scaffolding, models, worked examples, or coaching support while they acquire new knowledge or skills. The instructor or system structures the task enough to prevent unproductive search and error, then progressively withdraws support as competence develops.
 

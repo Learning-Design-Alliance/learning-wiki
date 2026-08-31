@@ -10,6 +10,8 @@ generated:
 
 # Counting On
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Counting On is a foundational mental arithmetic strategy for addition in which the learner begins at the value of one addend and counts forward the number of steps indicated by the second addend (e.g., for 5 + 3: "6, 7, 8"). It replaces the less efficient "counting all" strategy, in which children count both sets from one. It is typically taught in early elementary mathematics, often through finger counts, number lines, or counters, and serves as a bridge between concrete counting and derived-fact or recall-based addition.
 

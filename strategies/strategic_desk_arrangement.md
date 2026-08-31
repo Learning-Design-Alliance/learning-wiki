@@ -10,6 +10,8 @@ generated:
 
 # Strategic Desk Arrangement
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Strategic desk arrangement is the deliberate configuration of classroom seating — rows, clusters, horseshoes, or flexible combinations — matched to the learning activity rather than fixed by default. The physical layout functions as an environmental scaffold: it shapes sightlines, communication pathways, and the ease with which learners can collaborate or attend to a shared focal point.
 

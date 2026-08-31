@@ -11,6 +11,8 @@ evidence_strength:
 
 # Self-regulated learning improves achievement
 
+> **Claim** · [All claims](index.md)
+
 Learners who plan, monitor, and evaluate their own learning — and who are explicitly taught to do so — achieve better outcomes than learners who study the same material without these self-regulatory processes.
 
 ## Subclaims

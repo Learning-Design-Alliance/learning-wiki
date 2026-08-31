@@ -10,6 +10,8 @@ generated:
 
 # Drawing and Writing Developmental Stages
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Young children's drawing and early writing progress through recognizable stages — random scribbling (≈15 months–2.5 years), controlled scribbling, lines and patterns, pictures of objects and people (pre-schematic and schematic), and letter/word practice — that reflect parallel growth in fine-motor control, symbolic understanding, and print awareness. Knowing these stages lets educators match materials, expectations, and feedback to what a child can actually do, treating drawing and emergent writing as interconnected rather than separate skills [Dyson's research shows children's drawing and writing develop as one integrated meaning-making system.](../claims/dual-coding-improves-recall.md) [+M].
 

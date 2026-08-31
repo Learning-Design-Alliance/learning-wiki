@@ -10,6 +10,8 @@ generated:
 
 # Brain Breaks
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Brain breaks are brief (typically 1–10 minute) planned interruptions to sustained instructional activity, usually involving physical movement, social interaction, or a change in task modality. They are carried out by pausing the primary learning task and engaging learners in a short, low-stakes activity — stretching, a movement game, a quick social prompt — before returning to the original task with renewed attention.
 

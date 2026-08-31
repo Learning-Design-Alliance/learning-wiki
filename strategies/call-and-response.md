@@ -10,6 +10,8 @@ generated:
 
 # Call-and-Response
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Call-and-response involves the instructor initiating a phrase or word, and the students responding with a pre-determined phrase or word. The exchange serves as an attention signal: it interrupts ongoing noise, prompts a physical and verbal shift toward the teacher, and marks a transition between activities. Because the response is choral and scripted, it requires no individual student to decide whether to comply — the routine itself carries the demand.
 

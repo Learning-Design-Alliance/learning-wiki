@@ -10,6 +10,8 @@ generated:
 
 # Time Boxing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Time boxing assigns a specific, bounded interval (e.g., 25 minutes, one class period) to a defined learning task, and the learner works on that task only within the box. Unlike to-do lists, which define work by output ("finish the essay"), time boxes define work by duration ("draft for 40 minutes"), which converts an open-ended obligation into a bounded commitment with a clear start and stop.
 

@@ -15,6 +15,8 @@ sources:
 
 # Structured Discussion
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Structured discussion is the element in which talk is guided by prompts, roles, turns, protocols, or evidence requirements rather than left entirely open. It is useful when the goal is to make discussion more equitable, rigorous, and productive.
 

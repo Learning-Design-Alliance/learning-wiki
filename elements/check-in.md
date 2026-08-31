@@ -10,6 +10,8 @@ generated:
 
 # Check In
 
+> **Element** · [All elements](index.md)
+
 ## Description
 A check in is a short, deliberate touchpoint — a question, poll, one-minute paper, or brief conference — through which an instructor or system elicits learners' current state: their understanding, misconceptions, progress, or emotional readiness. It functions as a diagnostic and relational mechanism, feeding information forward so instruction can be adjusted rather than delivered blind.
 

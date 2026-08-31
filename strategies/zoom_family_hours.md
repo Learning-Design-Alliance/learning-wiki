@@ -10,6 +10,8 @@ generated:
 
 # Zoom Family Hours
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Zoom Family Hours are scheduled, recurring video-conference sessions — typically in the evening — during which parents and family members can drop in to ask questions, discuss their child's progress, or otherwise engage with the teacher. They function as a low-stakes, accessible alternative to in-person conferences, lowering the logistical barriers (travel, rigid appointment times) that suppress family participation. Effective implementations set clear boundaries (time limits, topic norms) and offer asynchronous alternatives for families who cannot or prefer not to attend.
 

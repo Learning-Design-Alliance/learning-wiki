@@ -10,6 +10,8 @@ generated:
 
 # AI in Education Toolkit for Racial Equity
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Using an AI in Education Toolkit for Racial Equity means taking a structured, in-depth look at the data used to build algorithms and the ways products are used by and for Black and Brown students in schools. The toolkit provides concrete actions at every stage of product design and development — problem framing, data collection, model building, testing, and deployment — to mitigate racial bias before products reach classrooms. It functions as both an audit instrument and a design heuristic, converting abstract equity commitments into checkable practices.
 

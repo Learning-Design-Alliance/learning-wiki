@@ -10,6 +10,8 @@ generated:
 
 # Praise Specific Feedback
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Praise specific feedback is praise that identifies *what* the learner did — the strategy, effort, process, or feature of the work — rather than delivering a global judgment ("good job," "you're so smart"). It functions as informational feedback: it tells learners which actions to repeat and connects outcomes to controllable causes. It is carried out by pairing an evaluative statement with a concrete description of the behavior or work that earned it.
 

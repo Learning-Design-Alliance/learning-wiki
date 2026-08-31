@@ -20,6 +20,8 @@ evidence_strength: strong
 
 # Fading support promotes the transfer of responsibility from instructor to learner.
 
+> **Claim** · [All claims](index.md)
+
 Fading, or the systematic withdrawal of scaffolding as competence increases, is essential for internalizing new skills and preventing long-term dependence on external aids.
 
 ## Subclaims

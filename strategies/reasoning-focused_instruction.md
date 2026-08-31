@@ -10,6 +10,8 @@ generated:
 
 # Reasoning-Focused Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Reasoning-focused instruction shifts classroom attention from producing correct answers to explaining, justifying, and evaluating the thinking behind them. Teachers present worked examples — including deliberately flawed ones — and ask students to identify errors, share initial approaches before answers are revealed, and compare multiple solution paths. This makes mathematics (or any discipline) more discursive: the variety of ways a problem can be tackled becomes the object of study, and the process of thinking is valued over the speed of arriving at an answer.
 

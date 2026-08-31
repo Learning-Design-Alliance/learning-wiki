@@ -10,6 +10,8 @@ generated:
 
 # Role Assignment
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Role assignment gives each member of a small group a defined function — such as facilitator, recorder, timekeeper, or skeptic — that carries distinct responsibilities for the group's work. The strategy structures collaboration by distributing cognitive and social labor, preventing free-riding, and ensuring that every learner has a concrete, accountable contribution to make.
 

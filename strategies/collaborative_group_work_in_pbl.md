@@ -10,6 +10,8 @@ generated:
 
 # Collaborative Group Work in PBL
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 In project-based learning (PBL), collaborative group work involves intentionally structuring activities so students work together to achieve common goals — through critique and revision processes, collaborative products, labs, and team-building routines. Collaboration is not mere co-presence: effective designs build positive interdependence and individual accountability, so that each member's contribution is necessary and visible. For English Language Learners (ELLs), structured peer interaction provides authentic, low-stakes opportunities to practice academic vocabulary and language structures with peer support.
 

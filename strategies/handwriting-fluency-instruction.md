@@ -10,6 +10,8 @@ generated:
 
 # Handwriting Fluency Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Handwriting fluency instruction teaches learners to form letters quickly and legibly without conscious effort, typically through brief, frequent, timed practice sessions with immediate corrective feedback on letter formation. The goal is automaticity of transcription: once letter production is automatic, working memory resources are freed for higher-level composing processes such as planning, sentence construction, and revision.
 

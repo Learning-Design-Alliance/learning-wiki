@@ -10,6 +10,8 @@ generated:
 
 # Research Map Visualization
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A research map visualization is a large-scale, interactive graphic representation of a research literature. The Digital Promise Research Map analyzed bibliographic records (titles, keywords, authors, cited references, and abstracts) from over 110,000 articles published in 191 journals between 2009 and 2018, indexed in Web of Science. Bibliographic coupling — linking articles that share at least two common references — produced a network in which clustering algorithms grouped densely connected articles into topic nodes; circle size encodes article count and line thickness encodes connection strength. The visualization was built with BiblioTools and D3 and is available at [Digital Promise's Research Map](https://researchmap.digitalpromise.org).
 

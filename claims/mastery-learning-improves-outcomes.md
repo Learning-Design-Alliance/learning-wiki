@@ -11,6 +11,8 @@ evidence_strength: pending
 
 # Mastery Learning Improves Outcomes
 
+> **Claim** · [All claims](index.md)
+
 When learners must demonstrate mastery of each unit before advancing, achievement improves relative to time-fixed, group-paced instruction. The mechanism is holding learning constant and varying time, rather than holding time constant and varying learning.
 
 ## Subclaims

@@ -10,6 +10,8 @@ generated:
 
 # Derived Facts
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The derived facts strategy asks learners to compute unknown facts by reasoning from known ones — for example, deriving 7 × 8 from 7 × 7 + 7, or 9 + 6 from 9 + 1 + 5. Rather than drilling every fact to immediate recall, learners build a small core of automatic facts and a repertoire of decomposition and compensation strategies to derive the rest. Over repeated use, derivation itself becomes fast, and many derived facts consolidate into direct recall.
 

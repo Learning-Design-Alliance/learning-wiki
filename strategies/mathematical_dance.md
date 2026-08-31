@@ -10,6 +10,8 @@ generated:
 
 # Mathematical Dance
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Mathematical dance uses choreographed movement to embody mathematical concepts — learners or performers physically enact structures such as symmetry, geometric transformations, combinatorics, or number patterns. For example, a dance can show how two consecutive triangular numbers compose a square number, or how permutations arise from dancers swapping positions. The strategy draws on embodied cognition: physical action can ground abstract ideas in sensorimotor experience [Physical experience with abstract concepts improves understanding and test performance.](../claims/physical-experience-enhances-science-learning.md) [+M].
 

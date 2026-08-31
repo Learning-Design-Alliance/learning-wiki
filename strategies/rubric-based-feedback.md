@@ -10,6 +10,8 @@ generated:
 
 # Rubric Based Feedback
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Rubric based feedback delivers evaluative comments organized around the explicit criteria and performance levels of a scoring rubric, rather than as free-form prose. The rubric serves as a shared reference point: the feedback identifies *which* criteria the work meets, partially meets, or misses, and what the next level of performance looks like. It is typically carried out by marking a rubric (holistic or analytic), annotating criterion-level comments, and pairing the marked rubric with brief narrative guidance on how to improve.
 

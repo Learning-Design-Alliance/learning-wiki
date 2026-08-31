@@ -10,6 +10,8 @@ generated:
 
 # Mood Meter Check In
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The Mood Meter Check In is a routine in which learners plot how they are feeling on a color-coded grid organized by pleasantness (valence) and energy (arousal), then optionally share and briefly discuss. Developed as part of the [RULER](https://ei.yale.edu/ruler) approach at the Yale Center for Emotional Intelligence, the routine is typically used at the start of a class session or day, taking 2–5 minutes. It serves both an instructional function — priming self-regulation and readiness to learn — and a formative one, giving the teacher a snapshot of the class's emotional climate.
 

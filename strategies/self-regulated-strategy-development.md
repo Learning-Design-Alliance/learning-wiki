@@ -10,6 +10,8 @@ generated:
 
 # Self Regulated Strategy Development
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 SRSD (Graham & Harris) teaches learners a concrete academic strategy—most commonly for writing, but also math and reading comprehension—through six stages: develop background knowledge, discuss it, model it, memorize it, support it, and independent performance. Crucially, strategy instruction is paired with explicit training in self-regulation: learners set goals, monitor their own performance, use self-talk to manage effort and frustration, and evaluate their outcomes. The goal is not just that learners *can* use the strategy, but that they *do* use it on their own, maintaining and generalizing it beyond the instructional setting.
 

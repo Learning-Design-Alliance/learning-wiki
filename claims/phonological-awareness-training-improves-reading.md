@@ -11,6 +11,8 @@ evidence_strength: unrated
 
 # Phonological Awareness Training Improves Reading
 
+> **Claim** · [All claims](index.md)
+
 Explicit instruction in phonological awareness — the ability to detect and manipulate the sound structure of spoken language — improves word reading and related literacy outcomes, particularly when taught in kindergarten and first grade.
 
 ## Subclaims

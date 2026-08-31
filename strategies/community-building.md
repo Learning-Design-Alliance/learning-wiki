@@ -10,6 +10,8 @@ generated:
 
 # Community Building
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Community building is the deliberate design of interpersonal structures, norms, and shared activities that create belonging, trust, and mutual accountability among learners. It is carried out through early relationship-establishing routines ([Check-In](../elements/check-in.md)), collaborative structures with interdependent goals, sustained discussion practices, and explicit norms for participation and feedback. In online settings it requires intentional scaffolding of social presence, since community does not emerge spontaneously without co-presence.
 

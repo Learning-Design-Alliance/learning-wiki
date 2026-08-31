@@ -10,6 +10,8 @@ generated:
 
 # Just In Time Teaching
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Just-in-Time Teaching (JiTT) is a cycle in which learners complete short, conceptually focused web-based "warm-up" assignments before class, and the instructor reviews those responses immediately beforehand to adapt the upcoming session. Class time is then devoted to addressing the specific misconceptions and gaps revealed, typically through interactive activities rather than lecture. Developed by Novak, Patterson, Gavrin, and Christian at IUPUI for introductory physics, JiTT makes formative assessment the hinge between out-of-class preparation and in-class instruction.
 

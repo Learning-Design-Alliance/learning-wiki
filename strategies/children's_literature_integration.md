@@ -10,6 +10,8 @@ generated:
 
 # Children's Literature Integration
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Integrating children's literature — storybooks, picture books, and trade books with mathematical content — into math instruction to enhance engagement and comprehension. Stories situate abstract concepts in narrative contexts, giving learners a purpose for computation and a shared referent for discussion. Multicultural selections extend this by connecting mathematics to diverse cultural practices, and the approach can extend into home lending systems and digital libraries to support family reading.
 

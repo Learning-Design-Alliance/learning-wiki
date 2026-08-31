@@ -10,6 +10,8 @@ generated:
 
 # Reaction Observations
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Reaction observations involve observing and describing the properties of liquids and their mixtures. Learners examine phenomena such as the bleeding of colored inks in water and the behavior of two liquids before and after mixing, then record and explain what they see. The strategy builds foundational observational and descriptive skills while introducing basic chemical concepts (solubility, diffusion, mixing) through direct experience rather than verbal explanation alone.
 

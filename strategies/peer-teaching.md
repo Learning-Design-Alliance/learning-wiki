@@ -10,6 +10,8 @@ generated:
 
 # Peer Teaching
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Peer teaching places learners in the instructional role: they explain material, answer questions, diagnose misunderstandings, and give feedback to classmates. Common formats include reciprocal tutoring, jigsaw arrangements, cross-age tutoring, and structured "teach-back" activities. The strategy exploits the fact that preparing to teach — and teaching itself — forces reorganization, elaboration, and monitoring of one's own understanding.
 

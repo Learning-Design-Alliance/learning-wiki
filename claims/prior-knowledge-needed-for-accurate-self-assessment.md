@@ -11,6 +11,8 @@ evidence_strength: moderate
 
 # Prior Knowledge Needed For Accurate Self Assessment
 
+> **Claim** · [All claims](index.md)
+
 Learners need sufficient domain knowledge to accurately judge their own understanding and performance; without it, self-assessments tend to be miscalibrated.
 
 ## Subclaims

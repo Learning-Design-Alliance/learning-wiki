@@ -10,6 +10,8 @@ generated:
 
 # Domain Check
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Domain Check asks learners to inspect a source's URL — specifically its top-level domain (.edu, .gov, .org, .com, .net) — as a rapid first-pass filter for credibility. The strategy treats domain type as a weak proxy for authority: educational and government sites are presumed more reliable than commercial ones. It is typically taught as an entry-level move in source evaluation, before deeper techniques such as reading laterally, checking authorship, or tracing claims to primary sources.
 

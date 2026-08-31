@@ -10,6 +10,8 @@ generated:
 
 # Daily Review
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Daily review opens each lesson with a brief (5–10 minute) activity that reactivates previously studied material — key concepts, vocabulary, formulas, homework errors, or problem areas identified by learners. Common formats include flashcards, low-stakes quizzes, games, oral questioning, and worked corrections of prior mistakes. The mechanism is [retrieval practice](../principles/active-learning.md): successfully recalling material strengthens memory more than rereading it [Roediger & Karpicke, 2006] [+S], and distributing that retrieval across days exploits the spacing effect [Cepeda et al., 2006] [+S].
 

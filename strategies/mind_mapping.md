@@ -10,6 +10,8 @@ generated:
 
 # Mind Mapping
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Mind mapping is a visual thinking tool in which learners place a central concept at the middle of a page or screen and radiate related ideas outward as branches, sub-branches, and labeled links. It is used to capture, organize, and restructure information — during brainstorming, note-taking, planning, or revision — forcing learners to make relationships between ideas explicit. Unlike a linear outline, a mind map encodes hierarchy and association simultaneously, which can surface connections and gaps in understanding that linear formats obscure.
 

@@ -10,6 +10,8 @@ generated:
 
 # [Strategy Name]
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 ## Design Implications
 ### Context

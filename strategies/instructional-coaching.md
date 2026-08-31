@@ -10,6 +10,8 @@ generated:
 
 # Instructional Coaching
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Instructional coaching is a form of job-embedded professional development in which a coach partners with a teacher over an extended period (typically a semester or more) to set an instructional goal, observe practice, provide non-evaluative feedback, and support repeated cycles of refinement. Unlike one-shot workshops, coaching embeds learning in the teacher's actual classroom, combining modeling, co-planning, observation, and structured debriefs. Prominent models include Jim Knight's [Impact Cycle](https://www.instructionalcoaching.com) and Cognitive Coaching.
 

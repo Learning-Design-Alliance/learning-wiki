@@ -10,6 +10,8 @@ generated:
 
 # Cognitive Apprenticeship
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Cognitive apprenticeship is the theory that complex thinking is learned through modeled expert performance, coached participation, scaffolding, articulation, reflection, and gradual fading in authentic tasks.
 

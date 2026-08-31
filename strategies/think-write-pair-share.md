@@ -27,6 +27,8 @@ sources:
 
 # Think-Write-Pair-Share
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Think-Write-Pair-Share (TWPS) extends Lyman's (1981) Think-Pair-Share by inserting an individual writing stage between private thinking and paired discussion. Learners first consider a prompt silently, then commit a written response, discuss and refine it with a partner, and finally selected pairs report to the whole class. The writing stage forces retrieval and articulation before social exposure, so every learner arrives at discussion with a defensible position rather than an unformed reaction.
 

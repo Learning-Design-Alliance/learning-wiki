@@ -10,6 +10,8 @@ generated:
 
 # Modeled Writing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Modeled writing is a strategy in which the teacher or expert writer composes text while learners watch, narrating each decision — word choice, sentence construction, planning, and revision — as it is made. Unlike shared or guided writing, the learners do not contribute to the text; their role is to observe the entire generative process, including hesitation, self-correction, and rereading. It is the writing analogue of a live [Demonstration](../elements/demonstration.md) with [Think-Aloud](../elements/think-aloud.md) narration.
 

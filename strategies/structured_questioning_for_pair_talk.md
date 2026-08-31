@@ -10,6 +10,8 @@ generated:
 
 # Structured Questioning for Pair Talk
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Structured questioning for pair talk means giving pairs of learners a specific, well-formed question — often sequenced, scaffolded, or tiered — together with a clear goal and time frame, before they begin talking. Rather than asking students to "discuss with your partner," the instructor supplies the prompt, the expected product of the talk (an answer, a decision, an explanation), and a time limit, then monitors and harvests responses. The structure converts unguided conversation into a focused cognitive task.
 

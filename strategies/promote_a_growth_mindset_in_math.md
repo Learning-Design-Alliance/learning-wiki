@@ -10,6 +10,8 @@ generated:
 
 # Promote a Growth Mindset in Math
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Promote a growth mindset by giving feedback that values effort, strategy use, and persistence, showing learners that there is always room to improve their skills. In mathematics in particular, learners often hold entity beliefs — that math ability is innate and fixed — which makes errors feel like verdicts rather than information. The strategy operates through three channels: how adults praise (process over person), how errors are framed (normal and informative), and how the classroom narrative describes what mathematicians actually do (struggle, revise, persist).
 

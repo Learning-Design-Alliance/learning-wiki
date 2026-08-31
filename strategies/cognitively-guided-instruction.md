@@ -10,6 +10,8 @@ generated:
 
 # Cognitively Guided Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Cognitively Guided Instruction (CGI) is a professional development program and instructional stance in which teachers learn the research-based taxonomy of children's mathematical problem-solving strategies (direct modeling, counting strategies, derived facts, recall) and the classification of problem types (e.g., join, separate, part-part-whole, compare), then use that knowledge to listen to and build instruction on students' own informal strategies. Rather than teaching a prescribed procedure first, teachers pose problems, elicit multiple solution strategies, and sequence problems to support students' progression toward more efficient reasoning.
 

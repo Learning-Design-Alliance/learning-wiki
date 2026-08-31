@@ -10,6 +10,8 @@ generated:
 
 # Changing Spaces with Mood Lighting
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Changing spaces with mood lighting means deliberately varying the color temperature, intensity, and placement of light in a learning environment to match the activity — warm, dimmed lamplight for reading and relaxation; bright, cool light for focused analytical work. The change itself acts as an environmental cue that signals a shift in mode, giving learners a mental break and altering the affective tone of the room.
 

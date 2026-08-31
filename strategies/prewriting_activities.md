@@ -10,6 +10,8 @@ generated:
 
 # Prewriting Activities
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Prewriting activities are structured tasks completed before drafting — brainstorming, listing, word webs, graphic organizers, outlining, freewriting, and vocabulary activation — that help writers generate, organize, and connect ideas. They reduce the planning burden during composition by externalizing content and structure in advance. Prewriting can be done individually or collaboratively, and is a core component of process approaches to writing instruction.
 

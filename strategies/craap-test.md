@@ -10,6 +10,8 @@ generated:
 
 # CRAAP Test
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The CRAAP Test is a source-evaluation rubric developed by the Meriam Library at California State University, Chico (Blakeslee, 2004). Students score a website against five criteria — **C**urrency, **R**elevance, **A**uthority, **A**ccuracy, and **P**urpose — using a worksheet that asks about surface features such as domain suffix, spelling and grammar, listed authors, and dates updated. The result is a numeric credibility score used to accept or reject a source.
 

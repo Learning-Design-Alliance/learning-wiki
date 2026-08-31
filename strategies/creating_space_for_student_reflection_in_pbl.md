@@ -10,6 +10,8 @@ generated:
 
 # Creating Space for Student Reflection in PBL
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Creating space for student reflection means deliberately scheduling and structuring moments within project-based learning (PBL) for students to pause and examine their own thinking, emotions, and progress. Rather than treating reflection as an afterthought, the instructor builds it into the project cycle — through journaling, structured debriefs, mindfulness practices, or check-ins — so that experience is converted into articulated understanding. This counters the urgency-driven pace of traditional classrooms and supports both well-being and deeper learning.
 

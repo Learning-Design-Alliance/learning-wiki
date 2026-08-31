@@ -10,6 +10,8 @@ generated:
 
 # Creative Writing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Creative writing as a learning strategy asks students to compose original narratives — stories, characters, imagined worlds — that incorporate the concepts of a subject area. Rather than only summarizing or explaining content, learners transform it: they invent creatures adapted to a habitat, dramatize historical events, or personify scientific processes. The strategy was popularized in science education by former teachers Ed Kang and Amy Schwartzbach-Kang, who embedded storytelling into their after-school program's science lessons.
 

@@ -11,6 +11,8 @@ evidence_strength: moderate
 
 # Minimal guidance is ineffective for novices
 
+> **Claim** · [All claims](index.md)
+
 Minimally guided approaches — discovery learning, pure problem-based learning, pure inquiry learning — place a disproportionate burden on limited working memory when learners lack the prior knowledge to constrain search, making them less effective than guided instruction for novices.
 
 ## Subclaims

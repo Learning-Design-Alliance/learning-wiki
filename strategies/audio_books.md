@@ -10,6 +10,8 @@ generated:
 
 # Audio Books
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Audio books present written text through professional narration, allowing learners to listen instead of — or in parallel with — reading. They function as an alternative access route to the same content, decoupling comprehension from decoding skill. Digital platforms add playback-speed control, bookmarking, and synchronized transcripts that enable simultaneous audio-plus-text engagement.
 

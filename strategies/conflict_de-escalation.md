@@ -10,6 +10,8 @@ generated:
 
 # Conflict De Escalation
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Conflict de-escalation is the deliberate use of calm tone, active listening, validation, and lowered demands to reduce the emotional intensity of a confrontation before attempting to resolve it. In learning environments it is carried out by the instructor (or trained peers) through early recognition of escalation cues, non-threatening body language, and offering the agitated party choice and face-saving exits rather than ultimatums.
 

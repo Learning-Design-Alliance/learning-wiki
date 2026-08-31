@@ -10,6 +10,8 @@ generated:
 
 # Game Based Review
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Game based review re-packages previously taught content into competitive or cooperative game formats — quiz games, board races, digital platforms, escape-room puzzles — so that learners repeatedly retrieve and apply material in a low-stakes, motivating context. The game structure supplies rules, feedback, and pacing; the content supplies the retrieval demands. It is a review strategy, not a first-teaching strategy: the learning target must already have been introduced.
 

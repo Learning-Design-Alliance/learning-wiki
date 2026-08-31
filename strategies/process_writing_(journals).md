@@ -27,6 +27,8 @@ sources:
 
 # Process Writing (Journals)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Process writing positions writing as a developing act rather than a finished product: learners write frequently and fluently — often in journals — prioritizing the communication of ideas over error-free text. The instructor responds with selective, delayed feedback focused on meaning and a small number of recently taught forms, rather than comprehensive error correction. The approach, rooted in Elbow's (1973) freewriting movement and process-oriented composition pedagogy, treats fluency and accuracy as separable goals that develop on different timelines.
 

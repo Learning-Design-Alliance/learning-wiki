@@ -10,6 +10,8 @@ generated:
 
 # Process-Focused Learning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Process-focused learning shifts attention from outcome measures (grades, scores, rankings) to the quality of the learning process itself — strategy use, revision, persistence through difficulty, and reflection. Instructors enact this by praising effort and strategy rather than ability, building revision into assessment, and making thinking and progress visible. The approach is grounded in achievement-goal and mindset research: when evaluation is task-involving rather than ego-involving, learners adopt mastery goals, take intellectual risks, and persist after setbacks [Mueller & Dweck's praise studies.](../claims/growth-mindset-improves-achievement.md) [+M].
 

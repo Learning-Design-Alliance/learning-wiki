@@ -10,6 +10,8 @@ generated:
 
 # Correcting Students In A Constructive Way
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Correcting students constructively means responding to academic errors or behavioral missteps with feedback that is specific, behavior-focused, and forward-looking, rather than punitive or person-focused. The correction names what went wrong, why it matters, and what to do next, while explicitly protecting the student's sense of competence and belonging. It treats errors as information for learning rather than evidence of failure.
 

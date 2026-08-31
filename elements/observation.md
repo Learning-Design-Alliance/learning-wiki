@@ -10,6 +10,8 @@ generated:
 
 # Observation
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Observation is the short-form canonical target for instructional activities in which learners watch people, processes, or contexts carefully in order to notice patterns, behaviors, or constraints.
 

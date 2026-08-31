@@ -10,6 +10,8 @@ generated:
 
 # Post-Reading Discussions
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 After reading, instructors facilitate structured discussions in which learners talk through what a text meant to them — favorite moments and interpretations for narrative texts, or confirmed and corrected understandings for informational texts. The discussion converts private reading into public reasoning: learners articulate interpretations, respond to peers, and revisit the questions posed before reading. Revisiting opening questions helps learners reflect on how their understanding changed across the reading process.
 

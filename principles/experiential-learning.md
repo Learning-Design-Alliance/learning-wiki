@@ -10,6 +10,8 @@ generated:
 
 # Experiential Learning
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Experiential learning is learning by doing, which may include self-directed learning activities. Helping learners make sense of experiences is foundational to adult learning. There are four key elements of experiential learning: concrete experience, reflection and observation, development of new ideas, and experimenting with new ideas. Active participation in experiential learning benefits both learners and the community. Adult learners gain concrete experiences and reflect on them by comparing the new experiences with Background Knowledge. It fosters the upgrading of life skills, such as a respect for diversity, exposure to multiple perspectives, and offers opportunities for critical reflection and Cognitive Flexibility. Experiential learning can also foster personal autonomy, self-fulfillment, interpersonal effectiveness and Social Awareness and Relationship Skills.
 

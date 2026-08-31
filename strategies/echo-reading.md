@@ -10,6 +10,8 @@ generated:
 
 # Echo Reading
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Echo reading is an oral reading fluency strategy in which an expert reader (teacher, tutor, or audio recording) reads a short segment — a sentence, line, or phrase — aloud with appropriate prosody, and learners immediately echo it back aloud. The segment length is kept short enough that the learner's memory of the model's phrasing and intonation is still active. It is typically used with texts slightly above a learner's independent decoding level, and is often followed by re-reading of the full passage.
 

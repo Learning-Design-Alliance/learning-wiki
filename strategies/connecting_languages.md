@@ -10,6 +10,8 @@ generated:
 
 # Connecting Languages
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Connecting Languages is a strategy in which teachers explicitly prompt multilingual learners to compare their home language with English — identifying cognates, shared structures, and points of divergence. The teacher asks how the home language is the same as and different from English, hunts for words that sound alike and mean the same (or sound alike but mean something different), and treats the home language as an instructional resource rather than an obstacle. The goal is metalinguistic awareness: understanding that languages are systems that can be analyzed, compared, and leveraged.
 

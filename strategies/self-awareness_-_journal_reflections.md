@@ -10,6 +10,8 @@ generated:
 
 # Self-Awareness - Journal Reflections
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Journal reflections ask learners to periodically write about their experiences, emotional responses, and performance outcomes, then examine those entries for patterns. Self-awareness — the ability to identify one's own emotions, thoughts, and values and how they influence behavior — is treated as a learnable skill developed through structured, recurring written reflection. Entries may be free-form or prompted, and are often revisited to set and monitor personal goals.
 

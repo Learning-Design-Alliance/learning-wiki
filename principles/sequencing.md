@@ -10,6 +10,8 @@ generated:
 
 # Sequencing
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Sequencing is the principle of arranging instructional content, tasks, or supports in an order that helps learners build understanding progressively. It is useful when learning depends on the order in which complexity, support, and ideas are introduced.
 

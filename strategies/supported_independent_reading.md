@@ -10,6 +10,8 @@ generated:
 
 # Supported Independent Reading
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Supported Independent Reading (SIR) is a classroom structure in which students read self-selected texts at their independent reading level — texts they can decode and comprehend with minimal effort — during a protected block of instructional time (typically 15–30 minutes). The "supported" component distinguishes it from unstructured silent reading: teachers explicitly teach book-selection strategies, confer individually with students about their reading, and connect independent reading to strategies modeled during read-aloud, shared reading, and guided reading. The goal is voluminous, engaged reading practice that consolidates skills taught in more structured contexts.
 

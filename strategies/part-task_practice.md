@@ -10,6 +10,8 @@ generated:
 
 # Part-Task Practice
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Part-task practice isolates one or more constituent subskills of a complex task — a surgical knot, a musical passage, a database query — and provides repetitive, often distributed practice on that component before learners attempt the integrated whole. It is typically paired with whole-task instruction, with the part-task practice serving as supplementary repetition for components that must become automatic.
 

@@ -10,6 +10,8 @@ generated:
 
 # Word Problem Creation
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners author their own multistep word problems — choosing the operations, contexts, and quantities — and exchange them with peers to solve. Problem creation reverses the usual direction of instruction: instead of interpreting someone else's problem, learners must construct the underlying mathematical structure themselves, then communicate it in readable prose. The strategy integrates mathematics and literacy and can be applied across strands (operations, geometry, statistics, measurement).
 

@@ -23,6 +23,8 @@ sources:
 
 # Universal Design For Learning
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Universal Design for Learning (UDL) is a framework that treats learner variability as the norm and designs instruction proactively around it, rather than retrofitting accommodations after a barrier appears. It recommends providing multiple means of **engagement** (the "why" of learning), **representation** (the "what"), and **action and expression** (the "how"), so that learners with different needs, preferences, and backgrounds can reach the same rigorous goals. UDL borrows its logic from universal design in architecture: ramps and automatic doors built in from the start benefit everyone, not only those with disabilities.
 

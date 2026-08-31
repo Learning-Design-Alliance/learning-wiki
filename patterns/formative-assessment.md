@@ -21,6 +21,8 @@ grain_size: lesson
 
 # Formative Assessment
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Formative Assessment is a pattern in which instruction repeatedly cycles through eliciting evidence, interpreting it, and adjusting teaching or learning before final evaluation. It is a practical pattern for embedding low-stakes checkpoints into a lesson or unit.
 

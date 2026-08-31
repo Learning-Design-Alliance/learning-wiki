@@ -10,6 +10,8 @@ generated:
 
 # Simulation Learning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Simulation learning places learners inside a simplified, interactive model of a real-world system, event, or role, where their decisions produce observable consequences without real-world stakes. Learners take on assigned roles, act within the simulation's rules, and then examine what happened — learning as much from peers' moves and the debriefing as from the instructor. Effective simulations follow a three-phase arc: preparation, active participation, and structured debriefing that connects the experience to course goals.
 

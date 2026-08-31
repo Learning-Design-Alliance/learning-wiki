@@ -10,6 +10,8 @@ generated:
 
 # Argumentation
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Argumentation asks learners to construct, defend, and critique claims using evidence and reasoning, rather than simply stating conclusions. It functions both as a learning activity and as a target skill: engaging in argument makes disciplinary norms of justification visible while deepening conceptual understanding through the need to justify and rebut [Engaging in argumentation improves conceptual understanding by requiring learners to articulate and defend reasoning.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
 

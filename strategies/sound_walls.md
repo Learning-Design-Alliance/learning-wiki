@@ -10,6 +10,8 @@ generated:
 
 # Sound Walls
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A sound wall is a classroom display organized by phonemes — typically arranged as consonants and a vowel valley — rather than by alphabet letter. Each phoneme card shows the articulatory features (mouth position, voiced/unvoiced) and the graphemes that can represent that sound, so learners map speech sounds to spellings explicitly. It functions as an instructional tool used during explicit phonics lessons, not merely a reference poster; teachers add grapheme cards as sounds are taught.
 

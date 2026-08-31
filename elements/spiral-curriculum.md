@@ -10,6 +10,8 @@ generated:
 
 # Spiral Curriculum
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Spiral curriculum is the element in which important ideas are revisited repeatedly over time, with each return expanding complexity or depth. It is useful when learning should grow cumulatively rather than be treated as covered once and complete.
 

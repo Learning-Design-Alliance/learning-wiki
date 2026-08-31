@@ -10,6 +10,8 @@ generated:
 
 # Reflective Journaling
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Reflective journaling asks learners to write regularly about their understanding, reactions, and analysis of course content or experiences — not summaries of what was covered, but their responses to it: what surprised them, what they previously believed that now seems wrong, what remains unclear. It functions as a channel for connecting beliefs, feelings, and actions, and is a core vehicle for transformative learning, in which learners examine and revise their assumptions [Mezirow's transformative learning theory](../theories/constructivism.md) [+W].
 

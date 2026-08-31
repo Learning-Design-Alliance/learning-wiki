@@ -11,6 +11,8 @@ evidence_strength: weak
 
 # Learner Constructed Graphic Organizers Outperform Provided
 
+> **Claim** · [All claims](index.md)
+
 Learners who construct their own graphic organizers (concept maps, diagrams, knowledge maps) tend to show deeper learning than learners who study organizer diagrams provided to them, because construction forces active selection, organization, and integration of material. This page currently states a plausible hypothesis; no controlled comparison has yet been added to Evidence.
 
 ## Subclaims

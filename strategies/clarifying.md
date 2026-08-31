@@ -10,6 +10,8 @@ generated:
 
 # Clarifying
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Clarifying is the strategy of identifying and resolving points of uncertainty in a text or problem: unfamiliar vocabulary, complex sentence structures, and difficult concepts. In reading, learners learn to notice when comprehension breaks down and apply repair tactics (rereading, consulting a glossary, breaking down syntax). In mathematics, clarifying means identifying what facts are known, what the problem is asking, and what information is still needed before attempting a solution.
 

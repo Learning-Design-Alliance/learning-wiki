@@ -10,6 +10,8 @@ generated:
 
 # Rich Library: Multimodal
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A rich multimodal library is a curated collection of learning resources spanning multiple formats and registers — canonical texts alongside blogs, song lyrics, videos, podcasts, web pages, online discussions, and fan-produced writing. Rather than restricting learners to a single textbook, the instructor assembles a deliberately varied resource set that represents the discipline's genres and connects them to learners' interests and out-of-school literacies. The strategy serves three functions at once: building background knowledge, increasing motivation through choice and relevance, and modeling the full range of texts through which a discipline actually communicates.
 

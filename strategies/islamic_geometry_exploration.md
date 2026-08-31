@@ -10,6 +10,8 @@ generated:
 
 # Islamic Geometry Exploration
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Students explore Islamic art and architecture — tessellations, rosettes, girih patterns — as a context for geometry standards such as symmetry, congruency, similarity, and composition. A typical entry point is a virtual field trip to the Mosque of Sultan Barquq in Cairo, where students identify patterns and the underlying geometric constructions. Facilitated questioning connects the artistic forms to mathematical ideas and to the cultures that produced them.
 

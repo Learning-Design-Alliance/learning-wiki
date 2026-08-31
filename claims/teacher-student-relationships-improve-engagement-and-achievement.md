@@ -11,6 +11,8 @@ evidence_strength: moderate
 
 # Teacher Student Relationships Improve Engagement And Achievement
 
+> **Claim** · [All claims](index.md)
+
 Positive, warm teacher–student relationships increase students' engagement and, through engagement, support higher achievement. The claim is typically framed as an indirect pathway: relationship quality → engagement (behavioral, emotional, cognitive) → achievement.
 
 ## Subclaims

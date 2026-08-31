@@ -10,6 +10,8 @@ generated:
 
 # Print-Based Self-Study Guides
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Print-based self-study guides are standalone written materials — workbooks, study manuals, correspondence course texts, job aids — designed for a learner to work through alone. Because no instructor is present to clarify, sequence, or motivate, the guide must itself carry the full instructional burden: clear structure, built-in practice, self-checking, and explicit guidance on how to use the material.
 

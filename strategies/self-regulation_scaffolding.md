@@ -10,6 +10,8 @@ generated:
 
 # Self-Regulation Scaffolding
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Self-regulation scaffolding provides learners with temporary supports — prompts, routines, modeling, and feedback — that help them plan, monitor, and control their own cognition, emotion, and behavior in challenging situations. The instructor or system initially carries part of the regulatory load, then progressively hands responsibility to the learner as their self-regulatory competence grows. It treats self-regulation as a learnable skill developed through guided practice rather than a fixed trait.
 

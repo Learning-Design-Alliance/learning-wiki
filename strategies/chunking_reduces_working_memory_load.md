@@ -27,6 +27,8 @@ sources:
 
 # Chunking Reduces Working Memory Load
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Working memory can hold only a small number of discrete items at once — classically estimated at seven plus or minus two [Miller, 1956](https://doi.org/10.1037/h0043158) [+S], with more recent estimates closer to three to five for novel material [Cowan, 2001](https://doi.org/10.1017/S0140525X01003922) [+S]. Chunking recodes individual elements into larger, meaningful units so that a single chunk occupies one slot regardless of how many elements it contains. Because chunks are stored in long-term memory and retrieved as units, chunking effectively expands functional capacity without changing the underlying limit [Gobet et al., 2001](https://doi.org/10.1191/1478088401pv045ra) [+S].
 

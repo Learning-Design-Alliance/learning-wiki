@@ -10,6 +10,8 @@ generated:
 
 # Implicit Vocabulary Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Implicit vocabulary instruction teaches words "in the moment" using heavy contextual support, brief planned definitions, and incidental encounters, rather than through separate, formal vocabulary lessons. Teachers anticipate difficult words in a text (often domain-specific or Tier III words) and prepare short glosses, synonyms, or contextual cues that are delivered as the words arise. The goal is uninterrupted comprehension of the current text, with word learning occurring as a by-product of meaningful reading and listening.
 

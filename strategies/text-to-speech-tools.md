@@ -10,6 +10,8 @@ generated:
 
 # Text To Speech Tools
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Text-to-speech (TTS) tools render digital text as synthesized speech, typically with word-level highlighting that tracks the narration. They are used both as an [accommodation](../elements/accommodations.md) for learners with reading difficulties and as a universal design option that lets learners switch between reading and listening modes.
 

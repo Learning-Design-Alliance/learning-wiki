@@ -23,6 +23,8 @@ sources:
 
 # Inflectional Endings Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Inflectional endings instruction explicitly teaches the rules for adding suffixes such as -ed, -s, -es, -ing, -er, and -est to base words. These suffixes change number, person, or tense without changing a word's part of speech. Instruction typically includes making learners aware of the sounds suffixes make (e.g., the three pronunciations of past-tense -ed), sorting words by ending sound, and explicitly teaching orthographic rules — the doubling rule (*commit → committed*), the drop-e rule (*hope → hoping*), and the change-y-to-i rule (*carry → carried*). Meta-analytic evidence shows morphological instruction, of which inflectional endings are the entry point, improves literacy outcomes including word reading, spelling, and comprehension [Goodwin & Ahn's meta-analysis of morphological interventions.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S].
 

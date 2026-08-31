@@ -10,6 +10,8 @@ generated:
 
 # Resistance Reading and Counter-Narratives
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Resistance reading and writing counter-narratives are strategies to develop learners' abilities to critique a text (or an image or other media) and to respond in writing, sharing their concerns and critiques. Resistance reading requires learners to analyze a book, song lyrics, a commercial, or a poem by first thinking about the context and purpose that informed the text — asking who created it, for whom, and whose interests it serves. Counter-narratives involve crafting a response to the text, either as a rebuttal or as a rewriting of the original from a different perspective, positioning learners as producers of meaning rather than passive consumers.
 

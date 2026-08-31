@@ -10,6 +10,8 @@ generated:
 
 # Graphic Organizers and Visual Aids
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Graphic organizers and visual aids present content in structured visual formats — concept maps, Venn diagrams, timelines, flowcharts, advance organizers, comparison matrices — that externalize relationships among ideas. They direct attention to the most important information, make structural relationships visible, and offload organization work from working memory onto the display.
 

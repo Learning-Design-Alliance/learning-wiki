@@ -10,6 +10,8 @@ generated:
 
 # Self-Monitoring of Behavior
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Self-monitoring is a strategy in which learners observe, evaluate, and record their own behavior — typically on-task attention (self-monitoring of attention, SMA) or academic output (self-monitoring of performance, SMP). The learner is trained to recognize the target behavior, then cued at intervals (e.g., a timer or audio tone) to ask "Was I on task?" or "Did I meet my goal?" and tally the result. Because the act of observation itself functions as a prompt, the strategy frequently changes the behavior it measures, reducing the need for continuous instructor supervision.
 

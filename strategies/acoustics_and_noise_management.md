@@ -10,6 +10,8 @@ generated:
 
 # Acoustics and Noise Management
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Acoustics and noise management is the deliberate control of the sound environment in which learning occurs — reducing background noise, controlling reverberation, and managing intermittent or irrelevant speech — so that instructional audio remains intelligible and learners' attentional and working-memory resources are spent on content rather than on filtering sound. It spans physical interventions (absorptive materials, room layout, HVAC noise limits), behavioral norms (voice levels, turn-taking protocols), and instructional design choices (audio quality in media, quiet zones for independent work).
 

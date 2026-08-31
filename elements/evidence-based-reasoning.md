@@ -10,6 +10,8 @@ generated:
 
 # Evidence-Based Reasoning
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Evidence-based reasoning asks learners to evaluate two or more competing models or explanations against real-world data, deciding which model best accounts for the evidence and articulating why. Rather than receiving a canonical explanation, learners weigh alternative claims, coordinate evidence with theory, and revise their understanding — a process that targets epistemic cognition as much as domain content.
 

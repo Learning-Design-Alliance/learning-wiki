@@ -10,6 +10,8 @@ generated:
 
 # Moose Math App
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Moose Math (Duck Duck Moose, now part of Khan Academy) is a game-based mathematics app for early elementary learners. Children complete mini-games — a juice shop, a pet store, a city-building activity — in which solving counting, addition, subtraction, geometry, and sorting problems earns rewards and unlocks new content. The Dust Funnies characters provide instructions and encouragement, and progress maps track advancement through problem sets aligned to Common Core standards for kindergarten and grade 1.
 

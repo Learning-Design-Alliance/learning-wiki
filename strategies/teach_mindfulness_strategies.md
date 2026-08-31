@@ -10,6 +10,8 @@ generated:
 
 # Teach Mindfulness Strategies
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Teach students a repertoire of mindfulness strategies — focused breathing, body scans, guided meditation, mindful journaling, and mindful drawing — so they can regulate attention and emotion on demand. Instruction proceeds through explicit modeling, guided practice, and gradual transfer of responsibility, with students building a personal "toolkit" of techniques that work for them.
 

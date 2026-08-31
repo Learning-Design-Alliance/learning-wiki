@@ -15,6 +15,8 @@ sources:
 
 # Explicit Instruction: Internet Search
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Teaching learners how to effectively search the internet is critical for helping them learn how to find accurate and relevant information and aids in developing information literacy. Learners need to learn to draw upon their Background Knowledge to frame a good research question, generate associated vocabulary, and create a search string that will bring up relevant information. Since an internet search requires sorting through extensive pieces of information, this task can be heavy on learners' Working Memory. Teaching adult learners search skills such as utilizing quotation marks, asterisks, and connecting words can help alleviate that load, as well as build a Learner Mindset for research. This skill is especially important to teach explicitly since just letting the learners explore does not help them make the mental connections necessary to search effectively, and this can be frustrating for them.
 

@@ -10,6 +10,8 @@ generated:
 
 # Simultaneous Multisensory Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Simultaneous multisensory instruction (VAKT: visual–auditory–kinesthetic–tactile) teaches a linguistic unit — a phoneme, grapheme, or word — through multiple sensory channels at once: the learner sees the letter, hears its sound, says it aloud, and traces or writes it in the same lesson segment. It is the core delivery method of structured literacy programs such as [Orton-Gillingham](https://www.ortonacademy.org) and its derivatives (Wilson Reading System, SPIRE). The intent is to build redundant, interconnected memory traces linking phonological, orthographic, and motor representations.
 

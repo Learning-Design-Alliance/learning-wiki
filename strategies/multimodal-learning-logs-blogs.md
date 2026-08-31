@@ -10,6 +10,8 @@ generated:
 
 # Multimodal Learning Logs/Blogs
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learning logs or blogs are ongoing, learner-authored records in which students reflect on their learning, document the content of each session, and share what supported or interfered with their learning. Unlike single-mode journals, they deliberately combine text with visuals, embedded video, audio, photographs, and hyperlinks to external resources, so that learners must select and coordinate multiple representations to communicate their understanding. Used over time, they function both as reflective tools and as shareable artifacts for peers, instructors, and authentic audiences.
 

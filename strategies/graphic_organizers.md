@@ -10,6 +10,8 @@ generated:
 
 # Graphic Organizers
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Graphic organizers are visual-spatial representations of content — concept maps, Venn diagrams, flowcharts, comparison matrices, timelines, and hierarchy charts — that make the relational structure of a topic visible. They are used in two directions: *instructor-provided* organizers given before or during instruction, and *learner-generated* organizers constructed by students as an elaboration activity. Both exploit the spatial and visual channels to offload relational information that would otherwise have to be held in working memory or inferred from linear prose.
 

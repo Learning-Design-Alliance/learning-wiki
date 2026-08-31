@@ -10,6 +10,8 @@ generated:
 
 # Learning Dashboards
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learning dashboards aggregate data about learner behavior (time on task, progress, quiz scores, peer comparison) and present it visually to learners, instructors, or both. They are carried out by embedding analytics visualizations in a learning environment — course homepages, LMS widgets, or standalone tools — with the intent that seeing the data prompts reflection, goal-setting, or corrective action.
 

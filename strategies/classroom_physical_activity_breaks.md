@@ -10,6 +10,8 @@ generated:
 
 # Classroom Physical Activity Breaks
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Classroom physical activity breaks are short (typically 3–10 minute) episodes of movement embedded within seated instructional time. They range from structured curricular activities (e.g., movement-based math drills) to brief aerobic or stretching routines, and are carried out at the whole-class level without special equipment or leaving the room.
 

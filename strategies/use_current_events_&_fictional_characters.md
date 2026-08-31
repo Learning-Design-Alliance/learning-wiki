@@ -10,6 +10,8 @@ generated:
 
 # Use Current Events & Fictional Characters
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy embeds target content in real-world current events or in fictional characters, stories, and scenarios. Learners analyze a live news event, debate a decision facing a character, or carry out tasks *as* a persona, so abstract concepts arrive attached to concrete people, stakes, and narratives rather than as decontextualized facts.
 

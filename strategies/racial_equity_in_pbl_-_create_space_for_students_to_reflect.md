@@ -10,6 +10,8 @@ generated:
 
 # Racial Equity in PBL - Create Space for Students to Reflect
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Reflection is rare in traditional classrooms, where the emphasis is on urgency and completing assignments quickly. This pace can make schools feel unsafe for students whose identities and experiences are already under strain, activating trauma and draining energy. Project-based learning (PBL) flips this script by deliberately building in pauses where students stop and think about themselves, their ideas and questions, and how they feel about the project — treating reflection as an equity practice, not an add-on.
 

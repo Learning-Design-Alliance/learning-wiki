@@ -10,6 +10,8 @@ generated:
 
 # Promoting Belonging Through Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Promoting belonging through instruction means designing everyday teaching practices — task design, feedback, grouping, discourse norms — so that students experience themselves as capable, respected members of the academic community. Rather than treating belonging as a fixed student trait, this strategy treats it as a malleable perception shaped by instructional signals: who gets to contribute, how struggle is framed, and whether errors are treated as normal parts of learning.
 

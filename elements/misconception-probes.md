@@ -10,6 +10,8 @@ generated:
 
 # Misconception Probes
 
+> **Element** · [All elements](index.md)
+
 ## Description
 A misconception probe is a carefully constructed question, scenario, or two-tier item (answer plus reasoning) that targets a known, documented misconception. Learners commit to an answer *before* instruction, making their intuitive model visible to themselves and the instructor. The probe functions as diagnosis, not assessment — its purpose is to activate the faulty schema so that subsequent instruction can directly challenge it.
 

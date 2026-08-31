@@ -10,6 +10,8 @@ generated:
 
 # Four Moves and a Habit
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The Four Moves and a Habit (also known as SIFT) is a fact-checking framework developed by Mike Caulfield for evaluating online information. The four moves are: **Stop** and check your emotional reaction (the habit), **Investigate the source** before engaging with its content, **Find better coverage** of the claim from more reliable outlets, and **Trace claims, quotes, and media to their original context**. Unlike traditional checklist approaches (e.g., CRAAP), it treats the web as the fact-checker's tool rather than the object of suspicion — learners open new tabs and consult external sources about a source instead of scrutinizing the source page itself.
 

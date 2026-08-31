@@ -10,6 +10,8 @@ generated:
 
 # Competency Based Learning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Competency based learning (CBL) organizes instruction around explicit, measurable competencies — statements of what learners must know and be able to do — and allows progression only when learners demonstrate mastery of each one. Time becomes the variable and learning the constant: students receive differentiated support and multiple assessment opportunities until they reach the proficiency standard, rather than moving on with the cohort regardless of attainment.
 

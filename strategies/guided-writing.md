@@ -10,6 +10,8 @@ generated:
 
 # Guided Writing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Guided writing is a small-group or whole-class instructional strategy in which the teacher scaffolds a composition task: modeling text construction, eliciting ideas through prompts, and providing targeted feedback while students draft. Responsibility for the writing gradually shifts from teacher to student, typically within a gradual-release sequence (model → shared → guided → independent).
 

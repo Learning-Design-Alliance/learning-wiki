@@ -10,6 +10,8 @@ generated:
 
 # Deliberate Practice
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Deliberate practice is structured, effortful practice aimed at improving a specific, well-defined component of performance rather than merely repeating an activity. It requires an identified weakness, a targeted exercise just beyond current ability, immediate informative [feedback](../elements/feedback.md), and opportunities for repetition with refinement. The concept originates in Ericsson's research on expert performance, which found that accumulated deliberate practice — not general experience — distinguishes experts from non-experts [+M].
 

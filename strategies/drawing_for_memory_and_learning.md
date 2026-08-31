@@ -10,6 +10,8 @@ generated:
 
 # Drawing for Memory and Learning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Drawing for memory and learning asks learners to create their own pictures of to-be-learned content — sketching a concept, process, or relationship — rather than only reading, writing, or viewing provided images. The learner must translate verbal information into a spatial, pictorial representation, which requires elaborative processing of meaning. The strategy is distinct from being shown a diagram: the generative act of drawing is what drives the benefit.
 

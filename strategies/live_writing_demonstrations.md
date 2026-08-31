@@ -10,6 +10,8 @@ generated:
 
 # Live Writing Demonstrations
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Instructors demonstrate the writing process in real-time, composing text in front of learners while verbalizing their thought process, revisions, and decisions. Using a projector or shared document, the instructor drafts, revises, and sometimes deliberately struggles — making the normally invisible cognitive work of writing observable. Learners observe, critique, and contribute input, turning writing from a private product into a transparent, collaborative process.
 

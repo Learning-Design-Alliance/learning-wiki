@@ -10,6 +10,8 @@ generated:
 
 # Brain-Based Classroom Redesign
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Brain-based classroom redesign treats the physical environment as an instructional variable: layout, furniture, color, lighting, displays, and materials are deliberately arranged to reduce unnecessary cognitive load, permit movement and collaboration, and signal safety and belonging. Typical moves include decluttering walls, using muted color schemes, maximizing natural light, adding plants, providing flexible seating, and involving learners in shaping the space. The goal is a "brain-friendly" environment — calm, organized, and responsive to how attention and working memory actually operate.
 

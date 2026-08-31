@@ -10,6 +10,8 @@ generated:
 
 # Teacher As Learner
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Teacher As Learner positions the instructor as an active learner of content, of student thinking, or of their own practice. It takes concrete forms: teachers work through the same problems students will solve, study student work and misconceptions systematically (as in [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md)), rehearse new instructional moves with peer feedback, or learn an unfamiliar skill themselves to experience the learner's perspective firsthand. The strategy treats teaching expertise as something continuously rebuilt through learning, not fixed at certification.
 

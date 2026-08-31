@@ -15,6 +15,8 @@ sources:
 
 # Handouts/Online Guides/Visual Reading Aids
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Handouts, online guides, and visual reading aids support learning by externalizing structure, highlighting key information, and reducing the amount learners must infer or hold in working memory while reading. They can take the form of annotated handouts, reading guides, visual cues, glosses, diagrams, highlighted sections, or structured digital supports. Their main value is not decoration but orientation: they help learners see what matters, where to look, and how parts of a text or task fit together.
 

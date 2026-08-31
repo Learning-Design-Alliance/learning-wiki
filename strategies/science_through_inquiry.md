@@ -10,6 +10,8 @@ generated:
 
 # Science Through Inquiry
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Science Through Inquiry positions learners as investigators: they pose questions, design and conduct investigations, gather and interpret evidence, and revise explanations or models in light of data. Rather than first receiving canonical explanations, learners construct understanding through structured exploration that mirrors authentic scientific practice. The strategy spans a continuum from fully guided (confirmation, structured inquiry) to open inquiry, with the degree of learner autonomy over question, method, and solution varying by design.
 

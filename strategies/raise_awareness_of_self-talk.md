@@ -10,6 +10,8 @@ generated:
 
 # Raise Awareness of Self-Talk
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy makes internal dialogue an explicit object of study. Learners first learn what self-talk is and how it shapes self-esteem, confidence, and persistence, then identify the judgments they hold about their abilities across domains (sports, arts, school subjects). They compare what their inner voice says when facing a manageable task versus a difficult one, and examine how confidence and past experience color that voice. A KWL chart or journal serves as a pre- and post-activity reflection tool, so learners can see how their awareness — and sometimes their self-talk itself — has changed.
 

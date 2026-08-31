@@ -10,6 +10,8 @@ generated:
 
 # Natural Lighting
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Natural lighting (daylighting) is the deliberate design and use of daylight — through windows, skylights, light shelves, and glare control — as the primary illumination in learning spaces. Before cheap electric power, schools relied on daylight by necessity; research since the 1990s has shown that daylight-rich classrooms are associated with faster learning progress, better attention, and improved mood compared with predominantly artificial lighting [-S for artificial-only environments].
 

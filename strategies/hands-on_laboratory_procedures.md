@@ -10,6 +10,8 @@ generated:
 
 # Hands-On Laboratory Procedures
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Hands-on laboratory procedures place learners in direct contact with the materials, instruments, and phenomena of a discipline — pipetting, wiring circuits, dissecting, titrating — under structured protocols. The strategy pairs physical execution with observation and interpretation, so that procedural actions and conceptual reasoning develop together rather than as separate tracks.
 

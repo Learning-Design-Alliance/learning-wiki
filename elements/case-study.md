@@ -10,6 +10,8 @@ generated:
 
 # Case Study
 
+> **Element** · [All elements](index.md)
+
 ## Description
 A case study presents learners with a rich, realistic scenario — a business decision, a patient presentation, a legal dispute — that they must analyze, discuss, and resolve using concepts from the domain. The case functions as an authentic problem context: learners bridge theory and practice by deciding what matters, what principles apply, and what to recommend, rather than receiving those judgments pre-packaged.
 

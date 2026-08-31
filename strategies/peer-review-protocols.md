@@ -10,6 +10,8 @@ generated:
 
 # Peer Review Protocols
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Peer review protocols are structured procedures through which learners evaluate one another's work against explicit criteria, exchange written or oral feedback, and often revise in response. The protocol — rubrics, sentence stems, calibrated exemplars, staged deadlines — is what distinguishes peer review from informal commenting: it specifies what reviewers look for, how judgments are justified, and what happens to the feedback.
 

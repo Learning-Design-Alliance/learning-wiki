@@ -10,6 +10,8 @@ generated:
 
 # Restorative Circles
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Restorative Circles bring affected parties — those who caused harm, those harmed, and community members — into a facilitated, round-robin dialogue using a talking piece and sequenced prompts (What happened? Who was affected? What is needed to make things right?). The goal is not punishment but accountability, repair of relationships, and reintegration of the person who caused harm into the community. Circles are used both reactively (responding to specific incidents) and proactively (community-building, norm-setting, academic check-ins).
 

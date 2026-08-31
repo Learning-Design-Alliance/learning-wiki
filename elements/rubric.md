@@ -10,6 +10,8 @@ generated:
 
 # Rubric
 
+> **Element** · [All elements](index.md)
+
 ## Description
 A rubric is an explicit scoring guide that breaks a complex task into criteria and describes what performance looks like at each quality level. It functions simultaneously as an assessment tool for evaluators and a transparency tool for learners, converting tacit quality standards into visible, actionable expectations.
 

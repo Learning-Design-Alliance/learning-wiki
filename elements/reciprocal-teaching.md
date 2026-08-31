@@ -10,6 +10,8 @@ generated:
 
 # Reciprocal Teaching
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Reciprocal Teaching is a structured small-group procedure in which learners take turns acting as the discussion leader, applying four comprehension strategies — predicting, questioning, clarifying, and summarizing — to shared text or content. The teacher initially models the strategies, then gradually hands the "teacher" role to students, who guide the dialogue while peers respond and contribute.
 

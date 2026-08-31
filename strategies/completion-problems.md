@@ -10,6 +10,8 @@ generated:
 
 # Completion Problems
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A completion problem (also called a completion strategy or fade-in problem) presents learners with a task that is partially solved — the initial steps are provided, and the learner must supply the remainder. It sits between a full [worked example](../principles/worked-examples.md) and an unsolved problem, operationalizing the "completion strategy" from early cognitive load research [van Merriënboer, 1990]. As expertise grows, the proportion completed by the learner increases until they solve problems independently.
 

@@ -10,6 +10,8 @@ generated:
 
 # Syllabication Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Syllabication instruction explicitly teaches the six basic syllable types (closed, open, vowel-consonant-e, vowel team, r-controlled, and consonant-le) and the patterns that govern how written words divide into syllables. Once children understand, for example, how open, closed, and consonant-le syllables work, they can reliably predict when to double consonants in words ending with a consonant-le syllable (e.g., *bubble*, *little*). Instruction proceeds from simple to complex syllable types, with guided practice dividing, reading, and spelling words that exemplify each pattern.
 

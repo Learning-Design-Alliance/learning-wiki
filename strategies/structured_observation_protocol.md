@@ -10,6 +10,8 @@ generated:
 
 # Structured Observation Protocol
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A structured observation protocol involves using a template or guide to record factual details about a student's experiences without interpretation, opinion, or judgment. For instance, the observer notes the student's body language, facial expressions, and interactions with teachers and peers, deliberately separating description from inference. The protocol also encourages gathering perceptions of the school from teachers, staff, students, parents, and community members. After shadowing, the observer summarizes and organizes notes to pinpoint areas needing attention and reflects on the insights gained.
 

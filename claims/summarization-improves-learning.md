@@ -11,6 +11,8 @@ evidence_strength:
 
 # Summarization Improves Learning
 
+> **Claim** · [All claims](index.md)
+
 Writing summaries of to-be-learned material — identifying main ideas and condensing them into the learner's own words — improves comprehension and retention relative to re-reading or passive study.
 
 ## Subclaims

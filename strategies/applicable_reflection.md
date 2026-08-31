@@ -10,6 +10,8 @@ generated:
 
 # Applicable Reflection
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Applicable reflection is a forward-oriented form of reflection in which learners analyze past performance specifically to inform future work. Rather than reflecting for its own sake, students answer questions like "What did I learn from my last assignment?" and "How will I apply that knowledge to my next one?" The instructor makes the forward connection explicit by being transparent about upcoming tasks, so reflection has a real, immediate purpose: improving the quality of the learner's own trajectory through the course.
 

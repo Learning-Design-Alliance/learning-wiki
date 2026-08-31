@@ -10,6 +10,8 @@ generated:
 
 # Meaningful Grading Through Feedback
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Meaningful grading treats grades as representations of demonstrated learning rather than one-time judgments, pairing them with descriptive, concrete, actionable feedback and allowing multiple opportunities to demonstrate mastery. The strategy separates the informational function of assessment (what to improve) from the evaluative function (the grade), so that feedback is not suppressed by a summative mark.
 

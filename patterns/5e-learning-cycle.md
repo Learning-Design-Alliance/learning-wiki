@@ -12,6 +12,8 @@ grain_size: unit, lesson
 
 # 5E Learning Cycle
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 The 5E Learning Cycle is an instructional sequence for science (and other inquiry-oriented) teaching built on the earlier Karplus learning cycle. Learners first **Engage** with a phenomenon that surfaces prior ideas and creates curiosity, then **Explore** it through hands-on or data-based investigation, then receive formal **Explain** instruction that connects their experience to canonical concepts, then **Elaborate** by applying concepts to new situations, and finally **Evaluate** their own and others' understanding. Its core design move is delaying direct explanation until after concrete experience, so that new concepts answer questions learners have already begun to ask.
 

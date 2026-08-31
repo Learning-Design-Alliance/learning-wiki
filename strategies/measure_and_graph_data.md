@@ -10,6 +10,8 @@ generated:
 
 # Measure and Graph Data
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners gather quantitative data through direct measurement — timing, counting, weighing, sensing — and then represent the data in tables and graphs to reveal patterns, relationships, and anomalies. The strategy treats measurement and graphing not as reporting chores but as sense-making activities: deciding *what* to measure forces operationalization of concepts, and constructing a graph forces decisions about scale, axes, and relationships that surface underlying structure.
 

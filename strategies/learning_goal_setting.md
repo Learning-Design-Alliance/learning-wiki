@@ -10,6 +10,8 @@ generated:
 
 # Learning Goal Setting
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learning goal setting is the practice of defining clear, specific objectives *before* engaging in a learning experience — such as shadowing, observation, a project, or a unit of study. Learners articulate what they want to find out, write down their current assumptions, and identify what evidence would challenge or confirm those assumptions. This converts a diffuse experience into a directed inquiry: attention is pre-committed to targets, and post-experience reflection has explicit criteria to evaluate against.
 

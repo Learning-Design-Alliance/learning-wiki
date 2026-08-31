@@ -10,6 +10,8 @@ generated:
 
 # Learning Menus
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A learning menu is a differentiated-instruction structure in which the teacher curates a bounded set of activity options addressing the same learning goal, and learners select which to complete. Menus vary in form: fixed menus (choose a set number), tiered menus (options at different complexity levels), and product menus (different ways to demonstrate mastery). The teacher retains control of the options; learners control the selection.
 

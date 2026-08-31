@@ -10,6 +10,8 @@ generated:
 
 # Reflection
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Reflection is a structured activity in which learners deliberately revisit an experience, artifact, or problem to examine what happened, why it happened, and what should change next time. It is carried out through prompts, journals, structured protocols (e.g., [3-2-1 Reflection](../strategies/3-2-1_reflection.md)), or discussion, and works best when it produces a concrete artifact or commitment rather than unstructured rumination.
 

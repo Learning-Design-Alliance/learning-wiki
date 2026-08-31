@@ -10,6 +10,8 @@ generated:
 
 # What Would Their Day Look Like?
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners select a photo of a person or animal in an unfamiliar situation and imagine what that individual's daily life might be like. They research the context further, then present their chosen character's daily routine to the class — often as a diary entry, narrative, or oral account. The activity uses imaginative engagement with a specific individual as an entry point into perspective-taking and empathy, followed by research that grounds the imagination in evidence.
 

@@ -10,6 +10,8 @@ generated:
 
 # Clarify Vocabulary, Symbols, and Language Structures
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy ensures learners can construct meaning from the words, symbols, notation, and sentence structures of a discipline before being asked to use them for higher-order work. It is carried out by pre-teaching or glossing key vocabulary, defining symbols explicitly, providing multiple representations (verbal, visual, numeric) of the same concept, and unpacking complex syntax into accessible forms. The goal is not simplification of content but clarification of the *language of the content*, so linguistic demands do not masquerade as conceptual difficulty.
 

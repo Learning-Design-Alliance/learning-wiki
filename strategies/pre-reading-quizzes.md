@@ -10,6 +10,8 @@ generated:
 
 # Pre Reading Quizzes
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A pre-reading quiz presents learners with a small set of questions about material they are about to read, before any instruction or exposure to the text. Learners attempt answers even when they do not know them; the quiz is typically ungraded or low-stakes. The subsequent reading then resolves the questions, and the failed retrieval attempts themselves enhance learning of the correct answers.
 

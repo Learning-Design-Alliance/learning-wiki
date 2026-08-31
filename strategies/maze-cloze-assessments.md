@@ -10,6 +10,8 @@ generated:
 
 # Maze Cloze Assessments
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A maze cloze assessment presents a passage in which every 5th–7th word is replaced by a set of three choices — one correct, one semantically plausible distractor, one unrelated distractor. Students circle or click the word that best completes each sentence. Unlike traditional cloze (which requires free recall of the deleted word), the maze format is objectively scorable and yields a rapid estimate of reading comprehension and monitoring.
 

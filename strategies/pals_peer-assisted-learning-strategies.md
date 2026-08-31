@@ -10,6 +10,8 @@ generated:
 
 # PALS_Peer Assisted Learning Strategies
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Peer Assisted Learning Strategies (PALS) is a classwide peer-tutoring program, developed at Vanderbilt University by Douglas and Lynn Fuchs, in which students work in pairs and alternate between the roles of "coach" and "player." Sessions follow a predictable script — in reading, partner reading with retells and paragraph shrinking, then prediction relay; in math, coached practice with point-earning for correct answers and explanations. The teacher trains students in the routines, monitors pairs, and awards team points, but the bulk of instructional time is spent in structured peer interaction rather than whole-class teaching.
 

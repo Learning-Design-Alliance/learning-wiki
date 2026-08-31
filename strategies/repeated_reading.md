@@ -10,6 +10,8 @@ generated:
 
 # Repeated Reading
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Repeated reading asks learners to read the same passage aloud several times — typically three to four — until they reach a criterion such as a target words-correct-per-minute rate or a fixed number of readings. The learner reads the full passage each time (unlike error-drill or phrase-drill variants), with feedback and progress monitoring between readings. The strategy was introduced by Samuels (1979) as a way to move decoding from effortful to automatic.
 

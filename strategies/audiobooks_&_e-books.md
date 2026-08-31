@@ -10,6 +10,8 @@ generated:
 
 # Audiobooks & E-books
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Audiobooks and e-books are digital text and audio formats used to support literacy development, comprehension, and reading engagement. Audiobooks bridge the decoding gap, allowing learners to access age-appropriate stories and complex content beyond their independent reading level. E-books offer customizable features — adjustable fonts, text size, spacing, and background color — that accommodate individual learning preferences and accessibility needs. Following along visually while listening can strengthen word-recognition ability, while listening alone can expand vocabulary and background knowledge.
 

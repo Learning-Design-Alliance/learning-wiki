@@ -10,6 +10,8 @@ generated:
 
 # Increase Synchronous Teacher Presence
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Teacher presence in synchronous (live) online sessions is the deliberate use of instructor visibility, immediacy, and interaction — greeting learners by name, narrating decisions, responding in real time, and structuring the session — so that learners experience the course as personally guided rather than self-serve. It is carried out through live video/audio, chat, polls, and shared workspaces, combined with tight session structure to limit distraction and cognitive overload.
 

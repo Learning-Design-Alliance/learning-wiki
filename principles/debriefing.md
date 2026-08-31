@@ -23,6 +23,8 @@ sources:
 
 # Debriefing
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Debriefing is a structured reflection after an activity, simulation, discussion, or performance in which learners revisit what happened, why it happened, and what should change next time. Its value lies in making experience interpretable. Without debriefing, learners may leave with strong impressions but weak insight; with it, they can compare mental models, surface errors, consolidate learning, and plan transfer.
 

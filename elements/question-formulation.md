@@ -10,6 +10,8 @@ generated:
 
 # Question Formulation
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Question Formulation asks learners to generate, refine, and prioritize their own questions about a topic before or during inquiry, rather than responding only to instructor-posed questions. The questions learners produce become the driving agenda for research, discussion, or investigation, positioning them as owners of the inquiry process.
 

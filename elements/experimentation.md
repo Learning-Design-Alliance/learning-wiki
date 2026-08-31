@@ -10,6 +10,8 @@ generated:
 
 # Experimentation
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Experimentation asks learners to pose a question or prediction, systematically vary conditions, observe outcomes, and revise their understanding based on evidence. It functions as both a learning activity and a model of scientific reasoning: the learner generates a hypothesis, gathers data, and confronts discrepancies between expectation and result.
 

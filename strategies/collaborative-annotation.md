@@ -10,6 +10,8 @@ generated:
 
 # Collaborative Annotation
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Collaborative annotation places a shared document, image, codebase, or dataset at the center of a group reading activity. Learners add margin comments, highlights, questions, and replies that are visible to peers, turning private reading into a visible, social sense-making process. It is typically carried out in tools such as Perusall, Hypothesis, or Google Docs, often with prompts that direct attention to specific interpretive moves.
 

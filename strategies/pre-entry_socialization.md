@@ -10,6 +10,8 @@ generated:
 
 # Pre-Entry Socialization
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Pre-entry socialization involves engaging students in brief, positive interactions before they enter the classroom — typically at the door — to set a productive tone. Behavior management expert Rob Plevin recommends "nonconfrontational statements" and "informal chitchat" to socialize students into productive behaviors before instruction begins. The practice is proactive rather than reactive: it addresses potential disruptions before they occur by establishing rapport and signaling teacher presence and expectations.
 

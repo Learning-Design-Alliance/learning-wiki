@@ -10,6 +10,8 @@ generated:
 
 # Analogies
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 An analogies strategy introduces a new or abstract concept by explicitly comparing it to a familiar one, mapping the shared structure between the two ("an atom is like a solar system: the nucleus is the sun, the electrons are the planets"). The comparison functions as an [advance organizer](../elements/advance-organizers.md), giving learners a familiar schema into which new information can be integrated rather than memorized in isolation. Effective use goes beyond stating the comparison — it makes the mapping explicit, identifies where the analogy breaks down, and prompts learners to reason with it.
 

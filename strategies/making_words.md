@@ -10,6 +10,8 @@ generated:
 
 # Making Words
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Making Words, developed by Patricia Cunningham and James Cunningham, is a sequential word-building activity for beginning and struggling readers. Learners receive a small set of letter cards and are guided to build a series of words — starting with short words and progressing to longer ones — by adding, rearranging, and substituting letters, culminating in a "secret word" that uses all the letters. The activity ends with sorting the built words by pattern (e.g., rhyming families, vowel spellings) so learners generalize the letter–sound relationships rather than memorizing individual words.
 

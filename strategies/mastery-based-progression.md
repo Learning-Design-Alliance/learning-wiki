@@ -10,6 +10,8 @@ generated:
 
 # Mastery Based Progression
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Mastery based progression holds the learning standard constant and lets time vary: learners move to new material only after demonstrating a defined proficiency level on prerequisite material, typically via criterion-referenced assessment. Instruction is organized into units with explicit mastery thresholds (e.g., 80–90% on parallel assessment forms), and learners who fall short receive corrective instruction and reassessment rather than moving on with gaps.
 

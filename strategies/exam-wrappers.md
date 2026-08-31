@@ -10,6 +10,8 @@ generated:
 
 # Exam Wrappers
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 An exam wrapper is a structured reflection instrument administered around an exam — typically a handful of questions completed right after receiving feedback (and sometimes before the exam) — that asks students how they studied, how their preparation worked, where they lost points, and what they will change next time. The goal is to convert the naturally high-attention moment of exam return into a metacognitive learning event, closing the loop between performance and strategy.
 

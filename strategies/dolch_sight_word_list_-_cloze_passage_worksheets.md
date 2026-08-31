@@ -10,6 +10,8 @@ generated:
 
 # Dolch Sight Word List - Cloze Passage Worksheets
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Cloze passage worksheets present short, grade-level texts in which selected Dolch sight words (e.g., *the*, *said*, *because*, *would*) have been deleted. Students read the passage and supply the missing words from context, from a word bank, or from memory. Each grade level typically includes three worksheets plus a nouns set, so the same format can be revisited across a school year with increasing difficulty.
 

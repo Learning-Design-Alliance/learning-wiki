@@ -10,6 +10,8 @@ generated:
 
 # Modified Jigsaw Activities
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The jigsaw strategy divides a task into subtopics, assigning one to each group member. Students first work in "expert groups" with peers who share the same subtopic, then return to their home groups to teach what they learned, making each member uniquely responsible for a piece of the whole. In the modified peer-tutoring variant, tutor–tutee pairs are given the same subtopic and work side-by-side to master it before presenting to their team together, so the tutee is supported rather than left to teach unprepared material.
 

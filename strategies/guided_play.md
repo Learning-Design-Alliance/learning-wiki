@@ -10,6 +10,8 @@ generated:
 
 # Guided Play
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Guided play sits between free play and direct instruction: children retain agency over the activity while an adult designs the play environment around specific learning goals and interjects questions, comments, and explanations at opportune moments. The adult acts as a co-player and facilitator — enriching the play with language and concepts — rather than directing it. The defining feature is that the learning goal shapes the *context*, while the child controls the *activity* within it.
 

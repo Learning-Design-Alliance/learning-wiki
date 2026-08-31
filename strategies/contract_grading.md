@@ -10,6 +10,8 @@ generated:
 
 # Contract Grading
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Contract grading replaces ad-hoc evaluation with an explicit agreement: the instructor specifies in advance what work at each grade level requires (quantity, quality criteria, revision expectations), and learners choose a contract tier and complete the agreed work. Grades are then awarded for fulfilling the contract rather than for relative ranking against peers. The approach shifts the instructor's evaluative role toward specification and feedback, and the learner's role toward planning and self-management.
 

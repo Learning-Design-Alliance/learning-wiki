@@ -10,6 +10,8 @@ generated:
 
 # Interest Inventories
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Interest inventories are surveys used to assess students' areas of interest. They can be open-ended, where students generate their own topics, or closed, where students select from a predetermined list. The results are used to form learning clubs or to select texts, problems, and project topics aligned with shared interests, connecting instruction to students' background knowledge and personal relevance.
 

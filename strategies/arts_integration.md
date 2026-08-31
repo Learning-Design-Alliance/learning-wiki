@@ -10,6 +10,8 @@ generated:
 
 # Arts Integration
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Arts integration is an instructional strategy in which learners construct or demonstrate understanding of non-arts content through an art form — writing and performing a play about a historical event, choreographing a dance that models a scientific process, or designing a graphic that illustrates a mathematical relationship. The defining feature is bidirectional connection: the art activity is not decoration but a means of representing and reasoning about the target content, and the content constrains what counts as a successful artistic product.
 

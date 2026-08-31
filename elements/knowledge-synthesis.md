@@ -10,6 +10,8 @@ generated:
 
 # Knowledge Synthesis
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Knowledge synthesis asks learners to integrate information from multiple sources, perspectives, or group members into a single coherent account, model, or argument. Rather than recalling or summarizing individual inputs, learners must reconcile differences, resolve contradictions, and organize ideas into a unified structure — the integration itself is the learning work.
 

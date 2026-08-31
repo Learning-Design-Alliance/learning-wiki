@@ -12,6 +12,8 @@ grain_size: unit, course
 
 # Writing Workshop
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Writing Workshop organizes writing instruction around extended, authentic writing time rather than isolated skill drills. A typical session follows a predictable routine: a short [mini-lesson](../elements/demonstration.md) in which the teacher models a craft move or strategy, a sustained writing block in which students draft and revise their own self-selected or assigned pieces, and a closing share in which writers read work aloud or discuss process. The teacher circulates during writing time, holding brief one-to-one [conferences](../elements/feedback.md) that deliver just-in-time instruction calibrated to the individual writer. The pattern solves the problem that writing is a complex, iterative process that cannot be learned from lectures about writing — it must be practiced with feedback while the work is in progress.
 

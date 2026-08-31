@@ -10,6 +10,8 @@ generated:
 
 # Literature/Social Stories
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy selects or creates narratives — literary texts, picture books, or structured "social stories" — that model positive social interactions, communication strategies, and conflict resolution. Learners engage with characters' behaviors and outcomes as vicarious models, then discuss, analyze, and rehearse the social moves depicted. Social stories, developed by Gray and Garand for autistic learners, follow a defined format: descriptive sentences establishing context, perspective sentences describing feelings, and directive sentences suggesting responses.
 

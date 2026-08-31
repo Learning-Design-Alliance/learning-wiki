@@ -10,6 +10,8 @@ generated:
 
 # Home Surveys
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Home surveys are short, recurring questionnaires sent to students' families (or to students themselves at home) to collect ongoing information about learning conditions, well-being, family priorities, and the effectiveness of instruction. Unlike one-time intake forms, they establish a feedback loop: the teacher gathers data, adjusts practice, and families see their input reflected in classroom decisions, which builds trust and sustained engagement.
 

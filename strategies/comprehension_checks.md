@@ -10,6 +10,8 @@ generated:
 
 # Comprehension Checks
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Comprehension checks are brief, targeted questions or tasks inserted at intervals during reading, listening, or instruction to verify that learners are constructing the intended meaning. They interrupt passive reception, surface misconceptions while they can still be corrected, and give the instructor real-time evidence for adjusting pacing and support.
 

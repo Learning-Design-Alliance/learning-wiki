@@ -10,6 +10,8 @@ generated:
 
 # Cold Calling
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Cold calling is the practice of asking a question, allowing brief thinking time, and then directing it to a named student rather than accepting only raised hands. It is carried out as a normative classroom routine — predictable, evenly distributed, and framed as an expectation of thinking rather than a test — so that all students prepare to respond rather than only volunteers.
 

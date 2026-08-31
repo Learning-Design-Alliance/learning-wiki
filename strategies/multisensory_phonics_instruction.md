@@ -10,6 +10,8 @@ generated:
 
 # Multisensory Phonics Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Multisensory phonics instruction teaches grapheme–phoneme correspondences by engaging visual (seeing the letter), auditory (hearing the sound), and kinesthetic–tactile (tracing, writing, manipulating) channels simultaneously — e.g., tracing a letter in sand while saying its sound. It is a hallmark of structured literacy approaches such as Orton–Gillingham and is typically delivered through [Direct Instruction](../patterns/direct-instruction.md) sequences with explicit modeling and immediate practice.
 

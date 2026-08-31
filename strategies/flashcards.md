@@ -10,6 +10,8 @@ generated:
 
 # Flashcards
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Flashcards are a study tool in which a question, term, or concept appears on one side and the corresponding answer or explanation on the other, providing a quick, accessible method for self-testing and review. In digital form — most prominently [Anki](https://apps.ankiweb.net) — cards are scheduled by a spaced repetition algorithm that expands review intervals for material recalled successfully and shortens them for material that is forgotten, concentrating effort on difficult items. The core mechanism is [retrieval practice](../principles/active-learning.md): each card forces the learner to reconstruct an answer from memory rather than reread it.
 

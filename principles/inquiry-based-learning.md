@@ -19,6 +19,8 @@ sources:
 
 # Inquiry-based Learning
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Inquiry-based learning organizes learning around questions, investigation, evidence, and explanation rather than around direct transmission alone. Learners are asked to pose or pursue questions, gather and interpret information, test ideas, and communicate what they have found. The core promise of inquiry is that learners become more active sense-makers, but strong inquiry design is not the same as leaving learners alone. It usually depends on well-scaffolded tasks, structured prompts, and explicit support for evidence use and explanation.
 

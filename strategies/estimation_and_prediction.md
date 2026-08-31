@@ -10,6 +10,8 @@ generated:
 
 # Estimation and Prediction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Estimation and prediction asks learners to commit in advance to a judgment about their own learning or performance — how well they will do on an upcoming project, how long a task will take, or what score they expect — and then compare the recorded estimate against the actual outcome. The comparison converts a private guess into a feedback event, exposing gaps between confidence and competence and calibrating future judgments.
 

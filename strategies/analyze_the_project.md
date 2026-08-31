@@ -10,6 +10,8 @@ generated:
 
 # Analyze the Project
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Before launching a project, teachers analyze it through the lens of English Language Learners (ELLs) by asking: What language skills will students need? What vocabulary instruction might they need? What speaking and listening skills should be scaffolded? What functions of language (arguing, explaining, sequencing, persuading) does each task demand? This analysis occurs *before* the project launches, so language support is designed into the project rather than retrofitted when students struggle.
 

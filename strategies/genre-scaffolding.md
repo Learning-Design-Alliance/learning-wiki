@@ -10,6 +10,8 @@ generated:
 
 # Genre Scaffolding
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Genre scaffolding teaches learners the socially recognized forms of writing — recounts, arguments, lab reports, narratives — by making their stages, structural moves, and characteristic language explicit. Learners analyze mentor texts, co-construct a piece with the instructor, then write independently as support is progressively withdrawn. The approach treats text structure as learnable knowledge rather than something acquired only through wide reading.
 

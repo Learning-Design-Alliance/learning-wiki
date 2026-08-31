@@ -10,6 +10,8 @@ generated:
 
 # Standards-Based Grading
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Standards-based grading (SBG) replaces single-letter averages of heterogeneous evidence (behavior, effort, homework completion, early failures) with scores on clearly defined learning standards, typically reported on a mastery scale (e.g., 1–4). Grades communicate *what a student knows and can do* rather than accumulating points; reassessment is permitted so a grade reflects eventual mastery, not the speed of first learning.
 

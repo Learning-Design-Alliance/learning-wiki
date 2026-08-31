@@ -10,6 +10,8 @@ generated:
 
 # Gradual Increase of Independent Reading Time
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy structures independent reading as a gradually expanding block of sustained, self-selected reading. Sessions begin very short — as little as five minutes for young or struggling readers — and lengthen incrementally as students demonstrate the ability to stay engaged with a text. The goal is to build *reading stamina*: the capacity to sustain attention and comprehension over extended periods of independent reading.
 

@@ -10,6 +10,8 @@ generated:
 
 # Knowledge-Building
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Knowledge-building is the element in which learners collectively construct, refine, and extend ideas rather than only consume or repeat them. It is useful when the goal is shared understanding that improves through contribution and revision.
 

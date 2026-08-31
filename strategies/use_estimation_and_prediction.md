@@ -10,6 +10,8 @@ generated:
 
 # Use Estimation and Prediction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Students make explicit predictions before beginning work — an estimated grade on a project, time needed to complete a task, or expected performance on an assessment — and record those estimates. After completing the work, they compare predictions with actual outcomes and reflect on sources of discrepancy, building calibrated self-assessment over repeated cycles.
 

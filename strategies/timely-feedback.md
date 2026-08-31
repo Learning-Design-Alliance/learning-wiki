@@ -10,6 +10,8 @@ generated:
 
 # Timely Feedback
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Timely feedback delivers information about a learner's performance as soon as possible after the performance occurs — immediately for procedural skills, or within hours to days for complex work. The core mechanism is contiguity: when feedback arrives while the learner's attempt is still active in working memory, the learner can connect the corrective information to the specific action, rather than reconstructing what they did from a faded memory. Delayed feedback risks losing the moment entirely — the learner may no longer recall their reasoning, so the feedback attaches to nothing actionable.
 

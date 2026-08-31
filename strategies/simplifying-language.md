@@ -10,6 +10,8 @@ generated:
 
 # Simplifying Language
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Simplifying language means rewriting instructional materials — text, narration, instructions, and assessment items — so that the linguistic surface demands less of the learner: shorter sentences, common vocabulary, explicit connectives, and one idea per sentence. The goal is to free working memory for the actual content rather than for decoding prose. Simplification targets the *language wrapper* around content, not the conceptual difficulty of the content itself.
 

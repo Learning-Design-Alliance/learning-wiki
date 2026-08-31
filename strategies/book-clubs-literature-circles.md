@@ -27,6 +27,8 @@ sources:
 
 # Book Clubs / Literature Circles
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Book clubs, also known as literature circles, are a grouping system for organizing active learning events around student-selected areas of interest. Learners investigate content-area topics by drawing on multiple texts — books, websites, video, music — then share their learning through learning logs, blogs, and structured peer discussion of questions, inferences, and predictions. Group members exchange background knowledge and negotiate interpretations, making the discussion itself a site of comprehension building rather than a report of finished understanding.
 

@@ -10,6 +10,8 @@ generated:
 
 # Educational Research Map Visualization
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy uses an interactive research map visualization to explore education and learning sciences literature. The map is built from bibliographic coupling of journal articles — analyzing titles, keywords, authors, and abstracts, then linking articles that share references — so that clusters of related work emerge as topics and subtopics. Users browse the map like an interactive encyclopedia: identifying themes, tracing connections between topics, and saving articles of interest for later reading.
 

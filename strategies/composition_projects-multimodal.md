@@ -10,6 +10,8 @@ generated:
 
 # Composition Projects Multimodal
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Multimodal composition projects ask learners to produce original artifacts that deliberately combine modes of meaning — writing, visuals, audio, video, gesture, and spatial layout — rather than text alone. Learners plan, draft, and revise across modes, making rhetorical decisions about which mode best serves their purpose and audience. The composition process, not just the artifact, is the site of learning.
 

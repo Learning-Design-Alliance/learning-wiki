@@ -10,6 +10,8 @@ generated:
 
 # Positive Time Out
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Positive Time Out is a non-punitive alternative to exclusionary time-out in which a learner who is emotionally dysregulated moves to a pre-established "calm-down" space — chosen or co-designed with the learner — to cool off and then rejoin the activity. Unlike punitive time-out, which removes the learner as a consequence for misbehavior, positive time-out is framed as a tool the learner *uses* to build self-regulation, ideally selected by the learner rather than imposed by the teacher [Nelsen, 2006]. It is typically paired with a brief re-entry conversation or [check-in](../elements/check-in.md) before the learner resumes work.
 

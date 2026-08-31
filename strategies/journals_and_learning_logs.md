@@ -10,6 +10,8 @@ generated:
 
 # Journals and Learning Logs
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Journals and learning logs are recurring written records in which learners describe what they did or learned, analyze why it happened, and plan what to do next. Learning logs tend to be structured and content-focused (what was covered, what was confusing); journals are broader and more personal, capturing reactions, questions, and evolving understanding. The strategy is carried out through a regular writing routine — often prompted — that is periodically reviewed by the learner, peers, or instructor.
 

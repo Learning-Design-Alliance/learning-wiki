@@ -11,6 +11,8 @@ evidence_strength: low
 
 # Worked examples reduce unnecessary search for novices
 
+> **Claim** · [All claims](index.md)
+
 For learners who lack domain experience, studying step-by-step worked solutions imposes less extraneous cognitive load than solving equivalent problems unaided, because it removes the need to search for solution steps. The claim is scoped to novices; the benefit shrinks and can reverse as expertise grows (see [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-expertise-reversal.md)).
 
 ## Subclaims

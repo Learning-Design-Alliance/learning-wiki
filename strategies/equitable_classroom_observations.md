@@ -10,6 +10,8 @@ generated:
 
 # Equitable Classroom Observations
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 EQUIP (Equity Quantified in Participation) is a customizable classroom observation protocol for tracking who participates, how often, and in what ways during classroom discourse. Observers — teachers themselves, peers, coaches, or students — code participation in real time or from video using configurable social markers (e.g., race, gender) and discourse moves (e.g., high- vs. low-level questions). The tool generates instant analytics that make participation patterns visible, providing a data-based starting point for teacher reflection and instructional change.
 

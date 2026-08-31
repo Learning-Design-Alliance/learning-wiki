@@ -10,6 +10,8 @@ generated:
 
 # Peer Tutoring
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Peer tutoring arranges learners into structured pairs or small groups in which one student (the tutor) explains material, models procedures, questions, and gives feedback to another (the tutee). Effective implementations are not informal "work with a partner": they specify roles, materials, tutor scripts or prompting routines, and regular role switching, with the teacher training tutors and monitoring pairs.
 

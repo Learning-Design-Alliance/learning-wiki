@@ -10,6 +10,8 @@ generated:
 
 # Practice
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Practice asks learners to actively apply new knowledge or skills through structured activities rather than passively receiving information. It converts exposure into fluency and retention by requiring learners to generate responses, solve problems, or perform procedures under conditions that gradually approximate the target performance.
 

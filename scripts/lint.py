@@ -222,6 +222,75 @@ def check_stable_unverified(pages: dict[str, Path]) -> list[dict]:
     return issues
 
 
+BANNER_LINE_RE = re.compile(r"^>\s*\*\*([^*]+)\*\*\s*·\s*\[[^\]]*\]\(index\.md\)\s*$")
+
+# folder -> (banner label, frontmatter `type` value). Kept in step with
+# scripts/add_type_banner.py's TYPE_LABELS, which is what writes them.
+BANNER_TYPES = {
+    "principles": ("Principle", "principle"),
+    "elements": ("Element", "element"),
+    "patterns": ("Pattern", "pattern"),
+    "strategies": ("Strategy", "strategy"),
+    "theories": ("Theory", "theory"),
+    "learner-variables": ("Learner Variable", "learner-variable"),
+    "claims": ("Claim", "claim"),
+}
+
+
+def check_type_banner(pages: dict[str, Path]) -> list[dict]:
+    """Every content page carries a visible page-type banner under its H1
+    (see scripts/add_type_banner.py for why: 73 slugs exist in more than
+    one type folder, and mkdocs strips frontmatter out of the rendered
+    page, so `type:` alone can't tell a reader which section they're in).
+
+    Because that banner duplicates the frontmatter `type` into the body,
+    the two can drift — so check all three agree: the banner exists, its
+    label matches the folder the page actually lives in, and frontmatter
+    `type` matches that folder too. Run
+    `python3 scripts/add_type_banner.py --apply` to fix a missing or
+    stale banner; a frontmatter/folder mismatch needs a human to decide
+    which one is wrong (is this page misfiled, or mislabelled?)."""
+    issues = []
+    seen = set()
+    for slug, path in pages.items():
+        if "/" not in slug:
+            continue
+        folder = slug.split("/", 1)[0]
+        if folder not in BANNER_TYPES or path.stem == "index" or path in seen:
+            continue
+        seen.add(path)
+        label, expected_type = BANNER_TYPES[folder]
+        rel = str(path.relative_to(WIKI_ROOT))
+        text = path.read_text(encoding="utf-8")
+        fm_lines, body = ok.split_frontmatter(text)
+        declared = (ok.parse_frontmatter_scalars(fm_lines).get("type") or "").strip()
+
+        if declared and declared != expected_type:
+            issues.append({"type": "type_folder_mismatch", "file": rel,
+                            "detail": f"frontmatter says type: {declared}, but the page is in "
+                                      f"{folder}/ — expected {expected_type}"})
+
+        lines = body.split("\n")
+        h1_idx = next((i for i, l in enumerate(lines) if l.startswith("# ")), None)
+        if h1_idx is None:
+            issues.append({"type": "no_h1", "file": rel,
+                            "detail": "page has no H1 heading, so it carries no type banner either"})
+            continue
+        scan = h1_idx + 1
+        while scan < len(lines) and not lines[scan].strip():
+            scan += 1
+        m = BANNER_LINE_RE.match(lines[scan].strip()) if scan < len(lines) else None
+        if not m:
+            issues.append({"type": "missing_type_banner", "file": rel,
+                            "detail": "no page-type banner under the H1 — run "
+                                      "scripts/add_type_banner.py --apply"})
+        elif m.group(1).strip() != label:
+            issues.append({"type": "wrong_type_banner", "file": rel,
+                            "detail": f"banner says '{m.group(1).strip()}' but the page is in "
+                                      f"{folder}/ — expected '{label}'"})
+    return issues
+
+
 def check_manifest_integrity(pages: dict[str, Path]) -> list[dict]:
     """Validate sources/manifest.ndjson — every line must parse as JSON with the
     required fields for its status, per CLAUDE.md's Source Manifest schema."""
@@ -277,7 +346,7 @@ def auto_promote(pages: dict[str, Path], all_issues: list[dict], dry_run: bool =
 def main():
     parser = argparse.ArgumentParser(description="Lint the ld-wiki")
     parser.add_argument("--fix", action="store_true", help="Auto-promote clean draft pages to review")
-    parser.add_argument("--type", choices=["broken_links", "drafts", "claims", "principles", "conflicts", "trust", "manifest", "all"],
+    parser.add_argument("--type", choices=["broken_links", "drafts", "claims", "principles", "conflicts", "trust", "manifest", "type_banner", "all"],
                         default="all", help="Which checks to run")
     args = parser.parse_args()
 
@@ -295,6 +364,7 @@ def main():
         "conflicts":     check_open_conflicts,
         "trust":         check_stable_unverified,
         "manifest":      check_manifest_integrity,
+        "type_banner":   check_type_banner,
     }
 
     selected = list(checks.keys()) if args.type == "all" else [args.type]

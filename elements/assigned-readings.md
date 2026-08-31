@@ -10,6 +10,8 @@ generated:
 
 # Assigned Readings
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Assigned readings place curated texts — textbook chapters, articles, cases, or primary sources — in learners' hands so they build conceptual foundations at their own pace. The element shifts first exposure to content outside of group time, freeing synchronous sessions for application, discussion, and clarification.
 

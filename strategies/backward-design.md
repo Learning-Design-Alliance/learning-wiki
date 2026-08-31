@@ -10,6 +10,8 @@ generated:
 
 # Backward Design
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Backward Design is a curriculum planning strategy in which the designer first identifies the desired learning results, then determines what evidence would demonstrate achievement of those results, and only then plans instructional activities. Developed by Wiggins and McTighe as "Understanding by Design," it reverses the common activity-first or content-first planning habit, ensuring that every lesson and assessment serves an explicit outcome.
 

@@ -23,6 +23,8 @@ sources:
 
 # Comfortable Learning Spaces
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Comfortable learning spaces are physical (or virtual) environments deliberately designed to reduce extraneous stressors — noise, glare, crowding, visual clutter, thermal discomfort — while signaling safety and belonging. The strategy treats the environment itself as an instructional variable: light, air quality, acoustics, seating options, and display choices are tuned so that learners' attentional and emotional resources are available for learning rather than spent coping with discomfort.
 

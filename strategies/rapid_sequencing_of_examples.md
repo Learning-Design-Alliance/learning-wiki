@@ -10,6 +10,8 @@ generated:
 
 # Rapid Sequencing of Examples
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Rapid sequencing of examples presents multiple instances of a concept in quick succession, or displays them simultaneously, so that learners can compare them while all are active in working memory. The temporal or spatial contiguity makes shared structural features salient and supports abstraction of the defining features of the concept. If examples are separated by long gaps or intervening content, learners tend to encode each instance in isolation and fail to generalize.
 

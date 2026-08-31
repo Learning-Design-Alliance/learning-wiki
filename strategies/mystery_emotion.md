@@ -10,6 +10,8 @@ generated:
 
 # Mystery Emotion
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Mystery Emotion is a strategy in which the instructor (or later, a learner) silently acts out an emotion — through facial expression, posture, gesture, and tone — and the group works to identify it. The "mystery" framing turns emotion recognition into a puzzle to be solved collaboratively, with learners proposing, defending, and refining hypotheses about what is being expressed and what cues support each guess.
 

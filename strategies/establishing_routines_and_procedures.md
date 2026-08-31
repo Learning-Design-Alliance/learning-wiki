@@ -10,6 +10,8 @@ generated:
 
 # Establishing Routines and Procedures
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Establishing routines and procedures means identifying the recurring activities of a learning environment (entering, transitioning, distributing materials, group work, submitting work) and explicitly teaching learners how each is done — through explanation, [Demonstration](../elements/demonstration.md), rehearsal, and reinforcement — until the behaviors run without instructor intervention. The instructor decides the procedure in advance, names it, models it, and has learners practice it early, treating classroom conduct as a skill to be learned rather than a rule to be obeyed.
 

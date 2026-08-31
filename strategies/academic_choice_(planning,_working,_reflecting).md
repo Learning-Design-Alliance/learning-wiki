@@ -10,6 +10,8 @@ generated:
 
 # Academic Choice (Planning, Working, Reflecting)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Academic Choice is a structured strategy in which the teacher sets the learning goal but learners choose *what* to work on or *how* to work, within a three-phase cycle: planning (learners state what they will do and how), working (learners execute their plan), and reflecting (learners evaluate what they did and learned). Originating in the Responsive Classroom approach, it converts student autonomy into a deliberate pedagogical routine rather than an unstructured free-choice period.
 

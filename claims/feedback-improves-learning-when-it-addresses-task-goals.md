@@ -11,6 +11,8 @@ evidence_strength:
 
 # Feedback Improves Learning When It Addresses Task Goals
 
+> **Claim** · [All claims](index.md)
+
 Feedback is most effective when it tells learners how their performance relates to the goal of the task and what to do next — rather than praising the person, judging the self, or merely supplying correct answers.
 
 ## Subclaims

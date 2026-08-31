@@ -10,6 +10,8 @@ generated:
 
 # Exploration Station for Multimodal Pathways
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 An Exploration Station is a designated computer station (or set of stations) stocked with digital images, audio files, video, and writing tools, where students freely explore different pathways for composing multimodal texts. Students may work linearly (linguistic → audio → visual), begin with images and audio, or move recursively between drafts in different modes. The station's purpose is not to deliver instruction but to give students low-stakes time and materials for self-directed experimentation, with the goal of building ownership over mode choice and discovering which pathways serve their composing purposes.
 

@@ -10,6 +10,8 @@ generated:
 
 # Content-Related Signal Word
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A content-related signal word is a classroom management routine in which a vocabulary term from the current unit (e.g., *integer*, *renaissance*, *circuit*) serves as the auditory cue for silence and attention. When the teacher calls out the word, students respond — often by echoing the word or its definition — and then go quiet. The routine embeds distributed vocabulary review inside an existing management transition rather than treating the two as competing uses of class time.
 

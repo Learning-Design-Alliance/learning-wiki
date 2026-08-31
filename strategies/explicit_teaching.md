@@ -10,6 +10,8 @@ generated:
 
 # Explicit Teaching
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Explicit teaching is a structured approach in which the teacher clearly shows students what to do and how to do it. The teacher decides on the learning intentions and success criteria and makes them transparent to students, demonstrates them by modelling, checks for understanding throughout, and at the end of each lesson revisits what was covered and ties it together. It is carried out through short segments of instruction, guided practice with high rates of student response, and immediate corrective feedback.
 

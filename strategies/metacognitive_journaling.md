@@ -10,6 +10,8 @@ generated:
 
 # Metacognitive Journaling
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Metacognitive journaling is a structured writing practice in which learners document and analyze their own thinking — problem-solving decisions, comprehension breakdowns, biases, and changes in understanding over time. Entries may be prompted by the instructor (e.g., "What confused you most today?") or self-initiated, and they function as both a monitoring tool and a record that supports later self-evaluation. The act of externalizing thought in writing slows cognition enough for learners to observe it, converting fleeting awareness into inspectable text.
 

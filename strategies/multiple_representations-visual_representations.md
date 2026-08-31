@@ -10,6 +10,8 @@ generated:
 
 # Multiple Representations Visual Representations
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy presents the same content in two or more coordinated formats — typically words plus pictures, diagrams, graphs, animations, or manipulatives — rather than a single format. Learners must actively integrate the representations, mapping referents across them to construct a unified mental model. It is carried out by pairing verbal explanations with relevant visuals, sequencing them contiguously, and often supporting the mapping process with labels, color coding, or prompts.
 

@@ -23,6 +23,8 @@ sources:
 
 # Write Your Own Word Problem
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners are assigned to author their own word problems that incorporate key vocabulary, operations, or structures discussed in class. Writing a problem requires inverting the usual task: instead of translating a situation into an equation, learners must understand a mathematical relationship well enough to embed it in a coherent story. The resulting problems can then be exchanged, solved by peers, and discussed.
 

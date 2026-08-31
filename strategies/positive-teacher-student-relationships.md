@@ -10,6 +10,8 @@ generated:
 
 # Positive Teacher Student Relationships
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Positive teacher–student relationships are ongoing interpersonal bonds marked by warmth, trust, low conflict, and the teacher's demonstrated belief in the student's capability. They are carried out through consistent everyday practices — greeting students, learning about their lives and interests, responding to mistakes with patience, and pairing emotional support with demanding academic expectations.
 

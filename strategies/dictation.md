@@ -10,6 +10,8 @@ generated:
 
 # Dictation
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Dictation asks learners to write down text spoken aloud by an instructor or audio system, moving from single words to sentences to connected passages. Because learners must segment speech into phonemes and map each onto a grapheme or spelling pattern, dictation forces active retrieval of orthographic knowledge rather than passive copying. It is typically followed by immediate comparison against the correct text and targeted correction.
 

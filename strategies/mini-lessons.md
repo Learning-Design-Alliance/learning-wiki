@@ -10,6 +10,8 @@ generated:
 
 # Mini Lessons
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A mini lesson is a deliberately brief, tightly focused teaching segment that introduces exactly one concept, strategy, or skill. It typically follows a predictable arc — connect to prior learning, briefly teach or model the target, then hand off to learner activity — and is bounded in time so that the majority of a session is spent with learners working, not listening.
 

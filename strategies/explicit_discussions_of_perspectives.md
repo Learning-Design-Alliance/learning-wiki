@@ -10,6 +10,8 @@ generated:
 
 # Explicit Discussions of Perspectives
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Explicit discussions of perspectives are structured conversations in which learners deliberately examine how different individuals or groups might experience, interpret, or evaluate the same event, text, or problem. The instructor makes perspective-taking an explicit goal — naming the perspectives, prompting learners to articulate them, and requiring learners to justify or critique each viewpoint rather than merely acknowledging it.
 

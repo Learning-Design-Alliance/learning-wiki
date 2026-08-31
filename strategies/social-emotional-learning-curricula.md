@@ -10,6 +10,8 @@ generated:
 
 # Social Emotional Learning Curricula
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Social Emotional Learning (SEL) curricula are structured, sequenced instructional programs that explicitly teach five interrelated competencies: self-awareness, self-management, social awareness, relationship skills, and responsible decision-making (the CASEL framework). Delivery typically combines direct instruction of skills, structured practice through role-play or discussion, and integration into academic content and classroom routines.
 

@@ -10,6 +10,8 @@ generated:
 
 # Games For Fluency Practice
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Games for fluency practice embed repeated, timed retrieval or execution of a already-taught skill inside game mechanics — points, levels, competition, or chance — so that learners perform the skill many times at increasing speed without the tedium of drill. The game supplies motivation and repetition; the fluency gain comes from the high rate of accurate, speeded responding, not from the game itself.
 

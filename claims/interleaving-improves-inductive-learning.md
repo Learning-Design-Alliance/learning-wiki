@@ -11,6 +11,8 @@ evidence_strength:
 
 # Interleaving Improves Inductive Learning
 
+> **Claim** · [All claims](index.md)
+
 Interleaving — mixing different problem or category types within a practice sequence rather than blocking them by type — improves learners' ability to induce the distinguishing features of concepts and select appropriate strategies.
 
 ## Subclaims

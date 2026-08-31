@@ -10,6 +10,8 @@ generated:
 
 # Summarizing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Summarizing asks learners to integrate the most important information from a text, lesson, or problem into a concise overview in their own words. In problem-solving contexts, it extends beyond restating content: learners justify their answer, evaluate whether their solution plan succeeded, and articulate the strategies they used. The act of selecting, condensing, and reorganizing forces deep processing of the material rather than surface reproduction.
 

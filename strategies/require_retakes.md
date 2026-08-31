@@ -10,6 +10,8 @@ generated:
 
 # Require Retakes
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Requiring retakes means that when a learner's initial performance on an assessment falls below the proficiency standard, they must engage in targeted remediation and then reassess until they demonstrate the intended learning. The grade recorded reflects eventual mastery rather than first-attempt performance, and the retake is paired with a required corrective activity — not simply a second attempt at the same test.
 

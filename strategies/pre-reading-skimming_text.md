@@ -10,6 +10,8 @@ generated:
 
 # Pre Reading Skimming Text
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Pre-reading skimming asks learners to move quickly through a text before reading it closely — scanning the title, headings, first sentences of paragraphs, figures, and summaries to build a skeletal map of its structure and content. The skim is deliberately shallow and fast (typically 1–3 minutes); the goal is orientation, not comprehension. It is usually paired with a brief prediction or question-setting step that converts the skim into an active plan for the close read.
 

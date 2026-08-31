@@ -10,6 +10,8 @@ generated:
 
 # Measurement Tasks
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Measurement tasks ask learners to quantify physical properties — length, area, volume, mass, temperature — using tools such as rulers, balances, and thermometers. Rather than memorizing units and conversions, learners devise and carry out measurement procedures themselves (e.g., determining how many marbles can be made from a set volume of material), then record and report results. This hands-on framing builds procedural fluency with instruments and, more importantly, conceptual understanding of what attributes are being measured and why units matter.
 

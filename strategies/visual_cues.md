@@ -10,6 +10,8 @@ generated:
 
 # Visual Cues
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Visual cues are graphics, diagrams, annotations, or gestures presented alongside verbal information to direct attention, reinforce meaning, and reduce reliance on auditory processing alone. They work by giving learners a second, permanent representation of content that can be revisited, unlike transient speech.
 

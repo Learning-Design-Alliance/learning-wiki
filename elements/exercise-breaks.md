@@ -10,6 +10,8 @@ generated:
 
 # Exercise Breaks
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Exercise breaks are brief (typically 4–20 minute) episodes of moderate-to-vigorous physical activity — movement games, stretching, jumping, or walking — inserted between instructional segments. They function as attention-restoration and consolidation opportunities rather than as fitness interventions, though regular classroom physical activity also contributes to health outcomes.
 

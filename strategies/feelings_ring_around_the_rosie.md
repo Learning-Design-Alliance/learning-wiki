@@ -10,6 +10,8 @@ generated:
 
 # Feelings Ring Around the Rosie
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 During recess or circle time, learners play "Ring Around the Rosie" while acting out a different emotion each round. When the group falls down, the facilitator calls an emotion (happy, sad, frustrated, surprised), and learners rise and move through the next round while expressing that emotion with face, posture, and movement. The familiar song structure provides a low-stakes, repetitive frame in which emotional expression becomes playful rather than evaluative.
 

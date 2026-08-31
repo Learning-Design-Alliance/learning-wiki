@@ -11,6 +11,8 @@ evidence_strength: moderate
 
 # Split Attention Effect Integration Improves Learning
 
+> **Claim** · [All claims](index.md)
+
 When instructional material requires learners to mentally integrate information that is physically or temporally separated (e.g., a diagram with its explanation placed elsewhere), presenting the sources in an integrated format reduces extraneous cognitive load and improves learning.
 
 ## Subclaims

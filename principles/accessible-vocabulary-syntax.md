@@ -15,6 +15,8 @@ sources:
 
 # Accessible Vocabulary & Syntax
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Use language that preserves disciplinary rigor while reducing unnecessary linguistic difficulty. Accessible vocabulary and syntax do not mean "watering down" content; they mean introducing essential terms intentionally, explaining them clearly, modeling sentence structures that learners will encounter in authentic texts, and removing avoidable wording barriers that would otherwise block participation and comprehension.
 

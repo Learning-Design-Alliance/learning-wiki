@@ -10,6 +10,8 @@ generated:
 
 # Pepperoni Pizza
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Pepperoni Pizza is a concrete-representational game for early multiplication. Children roll a die twice: the first roll determines how many pizzas to draw, the second determines how many pepperonis to place on each pizza. Children then write the corresponding number sentence (e.g., 4 × 3 = 12) to answer "How many pepperonis in all?" The game converts the abstract structure of multiplication — equal groups — into a drawable, countable representation.
 

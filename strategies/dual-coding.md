@@ -10,6 +10,8 @@ generated:
 
 # Dual Coding
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Dual coding pairs verbal information (words, narration, text) with a complementary visual representation (diagram, animation, image, graph) so that content is processed through both the verbal and visual channels of working memory. The two representations are not redundant — each carries part of the meaning — and learners benefit most when they actively integrate the two into a single coherent mental model. The strategy draws on Paivio's dual coding theory and Mayer's multimedia learning research.
 

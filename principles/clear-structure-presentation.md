@@ -15,6 +15,8 @@ sources:
 
 # Clear Structure & Presentation
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Instruction should make its structure visible. Learners need to know what they are learning, why it matters, how the content is organized, and what successful performance looks like. Clear structure and presentation reduce avoidable confusion, support attention, and let learners spend effort on the idea or task itself rather than on guessing the lesson's logic.
 

@@ -10,6 +10,8 @@ generated:
 
 # Schwa Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Schwa instruction teaches learners that any vowel letter (a, e, i, o, u) can represent the reduced, unaccented sound /ə/ — often described to children as a "lazy vowel" that has had its "stuffing taken out." Because English stress patterns drive vowel reduction, schwa explains many apparent spelling irregularities in multisyllabic words (e.g., *prob-lem*, *a-dept*, *com-mit*, *car-rot*). Instruction typically combines explicit explanation, word sorting, and having students say a word naturally, then mark the syllable containing the schwa.
 

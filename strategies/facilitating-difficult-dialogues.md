@@ -10,6 +10,8 @@ generated:
 
 # Facilitating Difficult Dialogues
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Facilitating difficult dialogues means deliberately structuring classroom conversations on contested or identity-laden topics — politics, race, religion, ethics, current events — so that participants can voice disagreement, encounter perspectives unlike their own, and revise their thinking without social or emotional harm. The strategy combines norm-setting, facilitation moves (reframing, probing, perspective-taking), and structured formats that distribute voice, rather than relying on open, unstructured discussion.
 

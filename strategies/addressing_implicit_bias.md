@@ -10,6 +10,8 @@ generated:
 
 # Addressing Implicit Bias
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Addressing implicit bias treats bias as a universal feature of human cognition rather than a moral failing, bringing automatic associations into the open for non-judgmental examination. Learners use structured self-awareness techniques — such as the substitution test ("would I respond the same way if this person were different?") and analysis of informal networks for homogeneity — alongside structural countermeasures like blended teams and panel interviews. The strategy shifts effort from eliminating bias (largely impossible through awareness alone) to *managing* its expression through deliberate, repeated practice.
 

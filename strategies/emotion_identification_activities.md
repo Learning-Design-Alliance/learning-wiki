@@ -10,6 +10,8 @@ generated:
 
 # Emotion Identification Activities
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Emotion identification activities help learners recognize, name, and express emotions in themselves and others. Typical formats include making and guessing emotion faces, labeling one's own feelings during [check-ins](../principles/check-ins.md), inferring characters' emotions in stories, and games using puppets, emotion cards, or modified songs. The core mechanism is building a vocabulary of emotion labels and mapping those labels to facial, vocal, and situational cues.
 

@@ -10,6 +10,8 @@ generated:
 
 # Home Literacy Environment Checklist
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This checklist is a self-assessment instrument that helps parents and caregivers evaluate the literacy-richness of their home environment. It contains statements about resources and activities, organized into three categories: what the child *has* at home (books, writing materials), what an adult *does* with the child (shared reading, storytelling, rhyming games), and what the child *observes* (adults reading and writing for their own purposes). Parents mark each statement true or false, tally the results to gauge overall literacy support, and receive guidance on concrete steps to enrich their child's exposure to books and print.
 

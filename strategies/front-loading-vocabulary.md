@@ -10,6 +10,8 @@ generated:
 
 # Front Loading Vocabulary
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Front loading vocabulary means explicitly pre-teaching the meanings of high-value words before learners read a text, watch a demonstration, or begin a task. It typically involves selecting a small set of words critical to understanding, providing student-friendly definitions and examples, and engaging learners in brief active processing of those meanings before the main activity.
 

@@ -23,6 +23,8 @@ sources:
 
 # Procedural Information
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Procedural information provides step-by-step instructions — "how-to" guidance — that supports learners in performing the recurrent, algorithmic components of a task. In [Four-Component Instructional Design](../patterns/4cid-four-component-instructional-design.md) it is one of two forms of supportive information, presented *just in time* during task performance rather than up front, so that learners can act while consulting the steps rather than memorizing them first.
 

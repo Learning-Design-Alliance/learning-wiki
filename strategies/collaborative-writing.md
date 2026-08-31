@@ -10,6 +10,8 @@ generated:
 
 # Collaborative Writing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Collaborative writing arranges for learners to co-construct a text through every stage of the writing process: planning, drafting, revising, editing, and publishing. Rather than dividing a document into sections written independently, effective collaborative writing involves genuine joint composition—negotiating content, arguing over phrasing, and giving each other feedback on shared drafts. Technology (shared documents, wikis, version-controlled writing platforms) supports the coordination, especially for classes that do not meet daily or that assign writing as out-of-class work.
 

@@ -10,6 +10,8 @@ generated:
 
 # Map It Out!
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Before a family trip, children map the route, calculate mileage, estimate travel time, and track progress along the way. The strategy embeds measurement, estimation, and proportional reasoning inside an authentic activity with real stakes, so the mathematics serves a purpose the child cares about rather than existing as an exercise in itself.
 

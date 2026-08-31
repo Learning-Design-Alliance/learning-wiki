@@ -10,6 +10,8 @@ generated:
 
 # Environmental Interaction Analysis
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Environmental Interaction Analysis engages learners in examining environments, their inhabitants, and the physical traces they leave — tracks, soil disturbance, water flow, plant growth — to infer relationships between organisms and their surroundings. Learners write narratives about ecological events (e.g., a predation sequence reconstructed from tracks) or analyze the functional role of environmental components (rocks, soil, water) in a contained ecosystem such as a terrarium. The strategy converts direct observation of authentic materials into evidence-based reasoning and expressive writing.
 

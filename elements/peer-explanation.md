@@ -23,6 +23,8 @@ sources:
 
 # Peer Explanation
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Peer explanation asks learners to verbalize their reasoning, solution methods, or conceptual understanding to a classmate. The act of articulating forces learners to reconstruct, organize, and monitor their own understanding, while the listener's questions expose gaps the explainer did not know they had.
 

@@ -10,6 +10,8 @@ generated:
 
 # Social Awareness Instruction with Current Events
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy uses current events and fictional characters as anchors for explicitly teaching social awareness — the ability to understand others' perspectives, empathize with people from different backgrounds, and reason about social issues including social justice. Students read or view authentic material, then engage in facilitated discussion that names and rehearses the social-emotional skills involved: perspective-taking, identifying emotions, and evaluating how circumstances shape behavior.
 

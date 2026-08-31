@@ -10,6 +10,8 @@ generated:
 
 # Sensory Stimulation
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Sensory stimulation involves providing experiences that engage a person's senses — tactile, proprioceptive, vestibular, visual, or auditory — to improve regulation, attention, and focus. In classrooms this typically takes the form of fidget tools, movement breaks, weighted or textured materials, and sensory-rich activities that help learners manage sensory defensiveness or satisfy sensory-seeking needs. The premise is that addressing sensory needs first reduces fidgeting, off-task behavior, and dysregulation, creating conditions for learning rather than teaching content directly.
 

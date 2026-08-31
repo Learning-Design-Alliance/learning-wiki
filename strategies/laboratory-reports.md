@@ -10,6 +10,8 @@ generated:
 
 # Laboratory Reports
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A laboratory report is a written artifact produced after hands-on experimentation, following the canonical structure of scientific writing: introduction with hypothesis, methods, results, and discussion. Learners must translate a concrete experience into formal scientific prose, which forces them to articulate procedures precisely, represent data accurately, and connect findings to theory. The report functions simultaneously as a learning activity (structuring and consolidating the experience) and as an assessment of both conceptual understanding and scientific communication.
 

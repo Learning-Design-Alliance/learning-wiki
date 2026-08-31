@@ -10,6 +10,8 @@ generated:
 
 # Speak the Future, Design the Future (Changing the Discourse)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy holds that the language educators use to describe students and schooling constrains what they can imagine and build. It distinguishes "Discourse I" (DI) — language that maintains the status quo and locates problems in students — from "Discourse II" (DII) — language that locates problems in structures and imagines liberation. The canonical example: calling a student a "dropout" (DI) blames the student; calling them "pushed out" (DII) implicates the school structures that alienated them. During design work, teams use this lens to audit their own language, ideas, and artifacts, ensuring the discourse itself promotes equity rather than reproducing oppressive assumptions.
 

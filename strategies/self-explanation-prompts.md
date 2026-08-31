@@ -10,6 +10,8 @@ generated:
 
 # Self Explanation Prompts
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Self explanation prompts ask learners to generate explanations *to themselves* — why a step in a worked solution was taken, why a statement is true, or how new material relates to what they already know. The prompt supplies the question; the learner supplies the reasoning. This differs from receiving an explanation (which is instructor-generated) and from [Think-Aloud](../elements/think-aloud.md) (which verbalizes ongoing processing rather than justifying specific content).
 

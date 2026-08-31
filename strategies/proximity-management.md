@@ -10,6 +10,8 @@ generated:
 
 # Proximity Management
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Proximity management is a classroom strategy in which the teacher circulates among students during individual or group work rather than remaining at the front of the room. Physical closeness serves three functions simultaneously: it allows rapid detection and redirection of off-task behavior, it creates natural opportunities for individual [check-ins](../elements/check-in.md) and feedback, and it signals availability and attention to every learner.
 

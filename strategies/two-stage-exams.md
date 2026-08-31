@@ -10,6 +10,8 @@ generated:
 
 # Two Stage Exams
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A two-stage exam (also called collaborative or two-phase testing) splits an assessment into an individual stage followed by a group stage. Students first answer questions alone; immediately afterward, teams of 3–5 discuss and re-answer the same items (or parallel versions), reaching consensus on each. Typically the individual stage counts for 75–85% of the exam grade and the group stage for 15–25%, and feedback on reasoning is immediate because disagreement surfaces during discussion.
 

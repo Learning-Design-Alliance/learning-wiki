@@ -10,6 +10,8 @@ generated:
 
 # Emotion Identification and Labeling
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners identify, label, and match facial expressions and feelings, building a vocabulary for internal states. Activities include categorizing feeling words by type, analyzing characters' feelings in literature, and connecting actions with emotions. The strategy treats emotional literacy as a learnable skill: accurate labeling of one's own and others' emotions is the foundation for regulation and empathy.
 

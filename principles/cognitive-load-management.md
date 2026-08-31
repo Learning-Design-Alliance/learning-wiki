@@ -15,6 +15,8 @@ sources:
 
 # Cognitive Load Management
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Cognitive load management is the short-form canonical target for instructional choices that reduce extraneous processing, sequence support, and calibrate task demands to learner expertise.
 

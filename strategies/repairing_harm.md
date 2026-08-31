@@ -10,6 +10,8 @@ generated:
 
 # Repairing Harm
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Repairing harm is a restorative practice in which, instead of receiving a conventional punishment, a student who has misbehaved is tasked with figuring out how to repair the damage caused by their behavior — and then actually carrying out that repair with everyone who was impacted. The process typically moves through three phases: meeting with a facilitator to identify the harm and all stakeholders, considering how the behavior affected others (developing empathy), and creating and executing a repair plan with each stakeholder, which may range from a facilitated apology to concrete restitution such as cleaning, service, or renegotiated agreements. It functions as an alternative to exclusionary or purely punitive discipline.
 

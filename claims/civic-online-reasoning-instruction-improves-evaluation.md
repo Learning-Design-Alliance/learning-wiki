@@ -11,6 +11,8 @@ evidence_strength: weak
 
 # Civic Online Reasoning Instruction Improves Evaluation
 
+> **Claim** · [All claims](index.md)
+
 Explicit instruction in evaluating online information — including lateral reading, source checking, and attention to evidence — improves learners' ability to judge the credibility of web content.
 
 ## Subclaims

@@ -10,6 +10,8 @@ generated:
 
 # Explicate, Validate, and Address Negative Emotions
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 When learners enter a course carrying negative emotions and expectations — anxiety about difficulty, resentment at perceived irrelevance, shame about prior failure — those emotions consume working memory and attention that would otherwise support learning [~S]. This strategy makes those emotions an explicit, legitimate topic at the outset of instruction: the instructor names the common feelings associated with the subject, validates them as normal and reasonable, and then addresses them by reframing the course's value and providing concrete paths to success. The sequence is explicate → validate → address, not reassure-and-move-on.
 

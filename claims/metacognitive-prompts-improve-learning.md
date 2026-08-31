@@ -11,6 +11,8 @@ evidence_strength:
 
 # Metacognitive prompts improve learning
 
+> **Claim** · [All claims](index.md)
+
 Prompts that direct learners' attention to planning, monitoring, and evaluating their own thinking can improve learning outcomes, particularly when embedded in structured learning tasks.
 
 ## Subclaims

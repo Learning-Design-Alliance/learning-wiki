@@ -10,6 +10,8 @@ generated:
 
 # Document Outline Tool
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A document outline tool supports learners in planning a written product before drafting: they organize the document into sections, headings, and bullet-level key points, establishing the logical skeleton first. The tool may be a structured template, a drag-and-drop outliner (e.g., Workflowy, Notion, Google Docs outline view), or an instructor-provided planning frame. The core move is separating *structural planning* from *prose generation*, so working memory is spent on organization rather than on composing sentences and arranging ideas simultaneously.
 

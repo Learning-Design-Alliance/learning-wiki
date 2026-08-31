@@ -10,6 +10,8 @@ generated:
 
 # Explicitly Discuss Different Perspectives
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners engage in structured discussions that make diverse viewpoints explicit — examining how people with different backgrounds, disciplinary commitments, or stakeholder positions interpret the same phenomenon. The strategy goes beyond exposure: learners must articulate a perspective, compare it against alternatives, and reason about why the differences exist. It is typically carried out through facilitated whole-class discussion, structured controversy, or analysis of contrasting cases and primary sources.
 

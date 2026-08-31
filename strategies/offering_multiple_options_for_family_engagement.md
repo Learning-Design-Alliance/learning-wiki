@@ -10,6 +10,8 @@ generated:
 
 # Offering Multiple Options for Family Engagement
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Offering multiple options for family engagement means designing a portfolio of participation pathways — school-based events, home visits, take-home materials that guide learning support, technology-mediated communication, peer-to-peer family networks, and community partnerships — rather than a single canonical mode of involvement. The strategy recognizes that families differ in work schedules, language, transportation, digital access, and cultural norms around school participation, so no single channel reaches everyone. It is carried out by auditing barriers, mapping options against them, and coordinating the options so families can move among them as circumstances change.
 

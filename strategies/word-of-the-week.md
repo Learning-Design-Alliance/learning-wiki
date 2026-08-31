@@ -10,6 +10,8 @@ generated:
 
 # Word Of The Week
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Word Of The Week is a classroom routine in which a single academically useful word is selected each week and given sustained, multimodal treatment: the teacher introduces its meaning, pronunciation, and morphology; students generate examples, non-examples, and related words; and the word is deliberately recycled in discussion, writing, and display throughout the week. The goal is not exposure to many words but depth of processing for a few high-utility words, on the principle that rich, repeated encounters build the flexible word knowledge that supports comprehension.
 

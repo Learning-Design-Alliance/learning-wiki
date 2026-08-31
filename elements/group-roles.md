@@ -10,6 +10,8 @@ generated:
 
 # Group Roles
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Group roles are assigned or negotiated responsibilities — such as facilitator, recorder, checker, or resource manager — that structure how members of a small group contribute to a shared task. Roles function as a form of procedural scaffolding: they specify who does what, reduce coordination overhead, and prevent the free-riding and status hierarchies that undermine collaborative work.
 

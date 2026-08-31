@@ -10,6 +10,8 @@ generated:
 
 # Self-Talk Brainstorm
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Provide learners with scenarios of challenging situations and have them brainstorm possible neutral or positive self-talk responses. Examples include: being excluded from a lunch table, a teacher not having time for your question, being blamed for something you didn't do, and failing a test. For each scenario, present examples of negative self-talk and prompt learners to generate more positive or neutral alternatives. The strategy operationalizes cognitive restructuring in a low-stakes, rehearsal format: learners practice noticing automatic negative interpretations and substituting deliberate, constructive ones before they need the skill in real situations.
 

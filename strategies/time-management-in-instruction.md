@@ -10,6 +10,8 @@ generated:
 
 # Time Management In Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Time management in instruction is the deliberate allocation, pacing, and protection of instructional time — deciding how many minutes go to explanation, practice, transition, and review, and keeping those allocations intact. It operates at three levels: allocated time (what the schedule provides), engaged time (what learners actually spend on task), and academic learning time (engaged time spent on tasks at the right difficulty) [Gettinger & Seibert, 2002]. The strategy treats time as the scarcest instructional resource and manages it explicitly rather than letting transitions, drift, and off-task episodes consume it.
 

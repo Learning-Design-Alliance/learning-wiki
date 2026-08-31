@@ -11,6 +11,8 @@ evidence_strength: moderate
 
 # Self-explanation improves learning
 
+> **Claim** · [All claims](index.md)
+
 Self-explanation — prompting learners to articulate how new material relates to what they already know, or why a step in a solution works — improves learning by forcing the integration of new information with prior knowledge rather than passive reception.
 
 ## Subclaims

@@ -10,6 +10,8 @@ generated:
 
 # Read Aloud Routines
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Read aloud routines are scheduled, repeated episodes in which a more proficient reader reads a text aloud to learners while making the reading process visible — through expressive delivery, pauses for prediction or vocabulary, and discussion before, during, and after the text. The routine differs from incidental reading aloud in its predictability, text selection logic, and intentional interaction structure (e.g., [Dialogic Reading](../elements/dialogic-reading.md) prompts such as CROWD questions and PEER sequences).
 

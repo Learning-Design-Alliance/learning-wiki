@@ -10,6 +10,8 @@ generated:
 
 # Strength-Based Strategies for Social Awareness
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Strength-based strategies for social awareness begin by identifying what a student already does well in the social-emotional domain — e.g., reading others' emotions, showing curiosity about peers, mediating disputes, or expressing care — and then using that strength as an entry point for growth. Rather than remediating deficits directly, the educator positions the strength as a resource: a student strong in humor might be coached to use it inclusively, while a student strong in perspective-taking might be recruited as a peer mediator. This aligns with positive psychology's premise that building on character strengths fosters engagement and wellbeing alongside skill development [~M].
 

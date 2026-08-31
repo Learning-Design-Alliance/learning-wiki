@@ -10,6 +10,8 @@ generated:
 
 # Formative Assessment to Gauge Student Progress and Guide Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Formative assessment is the ongoing collection and interpretation of evidence about student learning *during* a learning sequence, used to adapt teaching and learning while there is still time to act. Unlike summative assessment, which certifies outcomes after instruction, formative assessment functions as feedback loops for both parties: students learn where they stand relative to the goal, and instructors learn where instruction is working and where it needs adjustment.
 

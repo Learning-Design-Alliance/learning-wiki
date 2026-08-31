@@ -10,6 +10,8 @@ generated:
 
 # Step In When Abusive Language Occurs
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy calls for the teacher to intervene immediately and consistently when abusive, biased, or offensive language occurs in the classroom. The intervention has two parts: a brief public stop ("I don't allow that term in my classroom") that sets the norm for everyone, and a private follow-up conversation that helps the student understand the impact of their words. Consistency is the operative mechanism — students monitor whether adults follow through, and perceived inconsistency erodes both trust and the norm itself.
 

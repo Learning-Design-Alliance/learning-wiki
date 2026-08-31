@@ -10,6 +10,8 @@ generated:
 
 # Emotion Emojis Check-In
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Students express their current feelings by drawing or sharing an emoji that represents their emotional state. Volunteers then share their emoji and explain how it reflects their current feelings. The activity functions as a low-stakes [Check-In](../elements/check-in.md) that surfaces affect at the start of a session and builds a shared emotional vocabulary.
 

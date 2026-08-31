@@ -10,6 +10,8 @@ generated:
 
 # Story and Concept Maps
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Story and concept maps are visual representations used to organize information and enhance comprehension, particularly of narratives and complex relationships. Story maps focus on key story elements — characters, setting, problem, and solution — while concept maps show labeled relationships between concepts arranged hierarchically. Learners construct, complete, or extend the maps before, during, or after reading, converting text into an organized spatial structure that makes relationships explicit.
 

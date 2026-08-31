@@ -10,6 +10,8 @@ generated:
 
 # Optimizing Natural Lighting
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Optimizing natural lighting means designing and managing classroom daylight — through window placement, skylights, glazing, and light-control measures — so that learners receive sufficient, glare-free illumination from daylight rather than relying solely on electric lighting. It is an environmental design strategy: it changes the conditions under which all instruction occurs rather than adding a new instructional activity.
 

@@ -10,6 +10,8 @@ generated:
 
 # Relationship Skills Identification and Support
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy involves educators systematically observing students to identify strengths and challenges in relationship skills — effective communication, cooperation, conflict management, and resisting inappropriate social pressure — and then implementing targeted supports. The approach is strengths-based: existing social competencies are leveraged as entry points for addressing weaker areas. Supports include pairing students with positive role models, designing group work around common interests, making communication protocols visible, explicitly teaching skills through literature and role-play, and having students reflect on which strategies work for them.
 

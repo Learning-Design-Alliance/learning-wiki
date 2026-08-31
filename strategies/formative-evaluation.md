@@ -10,6 +10,8 @@ generated:
 
 # Formative Evaluation
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Formative evaluation is the systematic collection of evidence about learner understanding *during* instruction, used to adapt subsequent teaching and learning rather than to assign grades. It closes a feedback loop: elicit performance, interpret it against criteria, and adjust instruction or learner activity accordingly. It is distinct from [Assessment](../elements/assessment.md) used summatively, where the purpose is certification rather than adjustment.
 

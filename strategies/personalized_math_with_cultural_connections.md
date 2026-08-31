@@ -10,6 +10,8 @@ generated:
 
 # Personalized Math with Cultural Connections
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy anchors mathematical concepts in contexts drawn from students' interests, communities, and cultural practices — e.g., using hip-hop lyrics for ratio problems, local sports statistics for data analysis, or community budgeting for proportional reasoning. Personalization can be done by the teacher, co-designed with students, or generated adaptively by a system. The goal is to make abstract mathematics meaningful and accessible by connecting it to knowledge students already hold.
 

@@ -10,6 +10,8 @@ generated:
 
 # Sentence Combining
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Sentence combining is a writing strategy in which learners take two or more short, simple sentences and merge them into a single compound or complex sentence, choosing among coordination, subordination, embedding, or appositive structures. Instruction typically pairs explicit teacher modeling of the combining move with guided and independent practice on carefully sequenced exercises. Meta-analytic evidence identifies sentence combining as one of the most effective writing interventions, with reliable gains in writing quality [Graham & Perin meta-analysis of adolescent writing instruction.](https://doi.org/10.1037/0022-0663.99.3.445) [+S].
 

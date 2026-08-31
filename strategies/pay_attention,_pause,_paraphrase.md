@@ -10,6 +10,8 @@ generated:
 
 # Pay Attention, Pause, Paraphrase
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Pay Attention, Pause, Paraphrase is a structured conversation strategy for pairs or small groups that enforces active listening. Only one learner speaks at a time; listeners do not formulate responses while the speaker talks, but focus solely on understanding. After the speaker finishes, the listener pauses, then paraphrases what was said — and the speaker confirms or corrects the paraphrase — before offering their own thoughts. Sentence starters ("What I hear you saying is…") can scaffold the paraphrase move.
 

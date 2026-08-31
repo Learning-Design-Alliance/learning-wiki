@@ -10,6 +10,8 @@ generated:
 
 # Rubric_Co Construction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Rubric co-construction engages learners in developing the scoring criteria, quality levels, and descriptors for a task before or during the work, rather than receiving a finished rubric. Typically the instructor presents exemplars of varying quality, learners generate and negotiate the criteria that distinguish them, and the group converges on shared language for what "good" looks like. The process converts assessment criteria from external requirements into internalized standards.
 

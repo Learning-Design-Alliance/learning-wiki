@@ -10,6 +10,8 @@ generated:
 
 # Chunking Content
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Chunking content means dividing material into small, self-contained units — a few concepts, steps, or screens at a time — so that each unit can be processed within the narrow capacity of working memory before being integrated with prior units. It is carried out by segmenting lessons, videos, texts, and practice sequences at natural conceptual boundaries, and by grouping related information visually and verbally so learners perceive structure rather than a stream of details.
 

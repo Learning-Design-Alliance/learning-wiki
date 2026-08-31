@@ -10,6 +10,8 @@ generated:
 
 # Inquiry and Research
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Inquiry and research place learners in the role of investigator: they pose or refine questions, gather and evaluate evidence, and build explanations from what they find. The element shifts the locus of knowledge construction from instructor to learner, with the instructor designing the question space, providing tools and [Scaffolding](scaffolding.md), and [Coaching](coaching.md) during the investigation.
 

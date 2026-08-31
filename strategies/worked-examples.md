@@ -10,6 +10,8 @@ generated:
 
 # Worked Examples
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A worked example presents a complete solution to a problem, with each step shown and often annotated with the reasoning behind it. Learners study the example before solving a similar problem themselves, substituting example study for unguided problem search during early skill acquisition. The strategy is the canonical application of [Cognitive Load Theory](../theories/cognitive-load-theory.md): novices studying worked examples avoid the means-ends search that consumes working memory without contributing to schema construction [Worked examples reduce unnecessary search for novices.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+S].
 

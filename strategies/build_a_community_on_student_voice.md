@@ -10,6 +10,8 @@ generated:
 
 # Build a Community on Student Voice
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Building a community on student voice means structuring the classroom so that students routinely contribute to — and increasingly shape — the norms, discussions, and decisions of their learning community. It is carried out through regular structures such as daily check-ins, reflection routines, sentence stems, and student-led discussion, with the instructor acting as facilitator rather than sole authority. The goal is both relational (students feel known and safe) and agentic (students practice self-advocacy and shared ownership of learning).
 

@@ -10,6 +10,8 @@ generated:
 
 # Cloze Exercises
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A cloze exercise presents a passage in which words (every *n*th word, or selected content/function words) have been deleted; learners supply the missing items using contextual, syntactic, and semantic cues. Originally developed by Wilson Taylor (1953) as a readability measure, cloze was adapted for instruction because the act of reconstructing deleted text forces learners to process meaning rather than decode passively.
 

@@ -10,6 +10,8 @@ generated:
 
 # Positive Behavior Support
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Positive Behavior Support (PBS, often implemented as Schoolwide Positive Behavior Interventions and Supports, PBIS) is a proactive framework that reduces problem behavior by (a) defining and explicitly teaching behavioral expectations, (b) reinforcing them consistently, and (c) using functional behavioral assessment to understand what problem behavior accomplishes for the student and replacing it with functionally equivalent, appropriate behavior. It operates at three tiers: universal supports for all students, targeted group supports for some, and individualized intensive supports for a few.
 

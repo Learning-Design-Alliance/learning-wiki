@@ -10,6 +10,8 @@ generated:
 
 # Creating Strategy Charts
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A strategy chart is a co-constructed visual reference — an anchor chart, poster, or shared document — that lists the problem-solving strategies a class has generated and named together. Learners return to the chart when stuck, using embedded language prompts ("What have I tried? What's another way?") to articulate their thinking and connect struggle to a strategic next move.
 

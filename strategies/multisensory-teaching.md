@@ -10,6 +10,8 @@ generated:
 
 # Multisensory Teaching
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Multisensory teaching engages multiple sensory channels — typically visual, auditory, kinesthetic (movement), and tactile (touch) — in the same lesson, so that learners see, say, hear, and physically manipulate content rather than receiving it through one channel. The approach originated in structured literacy for dyslexia (Orton-Gillingham) and is now applied across subjects, from tracing sandpaper letters to manipulating physical models in science.
 

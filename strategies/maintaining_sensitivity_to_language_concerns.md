@@ -10,6 +10,8 @@ generated:
 
 # Maintaining Sensitivity to Language Concerns
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 In traditional classrooms, students who are not native speakers of the language of instruction often feel marginalized, lost, and pressured into discarding their home language. Maintaining sensitivity to language concerns means treating linguistic diversity as a resource: instructional materials are matched to learners' current proficiency, key materials and supports are provided in the primary language where possible, and students are encouraged to develop full proficiency in English *while* continuing to build their first language. The strategy draws on the distinction between conversational fluency and academic language proficiency — surface fluency can mask continuing academic needs [Cummins, 1979/2008].
 

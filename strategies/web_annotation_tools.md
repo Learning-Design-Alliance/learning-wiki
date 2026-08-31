@@ -10,6 +10,8 @@ generated:
 
 # Web Annotation Tools
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners use free web-based tools (e.g., Hypothes.is, Perusall, Diigo) to annotate online documents — slideshows, blog posts, PDFs, or web pages — adding highlights, margin comments, questions, and replies directly on the source material. Group features make annotations visible to peers, turning a private reading act into a social, asynchronous discussion anchored in the text itself.
 

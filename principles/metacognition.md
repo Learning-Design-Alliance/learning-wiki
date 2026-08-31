@@ -15,6 +15,8 @@ sources:
 
 # Metacognition
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Metacognition is the principle of helping learners monitor, evaluate, and regulate their own thinking. It matters when learners need to notice what they understand, where they are confused, and what strategy or support they should use next.
 

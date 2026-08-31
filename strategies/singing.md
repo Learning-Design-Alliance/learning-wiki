@@ -10,6 +10,8 @@ generated:
 
 # Singing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Singing as a learning strategy uses melody, rhythm, and vocal production to support learning in two distinct ways: (1) as a mnemonic vehicle, where target content (lyrics, sequences, vocabulary, procedures) is set to or learned through song, and (2) as a performance skill, where learners develop vocal technique, pitch matching, and ensemble musicianship. In both forms, singing couples verbal material with a strong temporal-rhythmic structure and requires active vocal production rather than passive listening.
 

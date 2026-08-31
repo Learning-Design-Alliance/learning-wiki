@@ -10,6 +10,8 @@ generated:
 
 # Where Are the People Like Me?
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners examine media examples — films, television, music, advertising, fashion — to analyze who is represented, who is missing, and how groups are portrayed. Through structured discussion and reflection, they connect patterns of representation to effects on identity, belonging, and social perception. The strategy builds critical media literacy while surfacing the affective consequences of under- and misrepresentation, particularly for learners from marginalized groups.
 

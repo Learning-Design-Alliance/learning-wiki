@@ -10,6 +10,8 @@ generated:
 
 # Assess performance
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Assessing performance is the instructional event in which learners demonstrate what they can do and the instructor or system evaluates that demonstration against criteria. It functions both as a measurement of mastery and as a learning event in its own right — the act of retrieving and producing performance strengthens memory and reveals gaps that instruction has not closed.
 

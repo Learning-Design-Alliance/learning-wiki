@@ -10,6 +10,8 @@ generated:
 
 # Classroom Management with Graphic Organizers
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Teachers put the most important policies, procedures, and expectations into graphic form — posters, flowcharts, anchor charts, visual schedules, behavior matrices — to increase the likelihood that students will follow them. The strategy applies dual-coding and [Chunking](../principles/chunking.md) logic to classroom management: visual organization makes expectations permanently visible, reduces the verbal load of repeated teacher reminders, and gives students an external reference for self-monitoring their own behavior.
 

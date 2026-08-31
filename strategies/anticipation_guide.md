@@ -10,6 +10,8 @@ generated:
 
 # Anticipation Guide
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 An anticipation guide is a short list of declarative statements — often plausible-sounding misconceptions — that learners agree or disagree with *before* encountering new material. After instruction, learners return to their initial responses, compare them against what they now know, and discuss or revise them. The strategy activates prior knowledge, surfaces misconceptions, and creates purpose for reading or instruction.
 

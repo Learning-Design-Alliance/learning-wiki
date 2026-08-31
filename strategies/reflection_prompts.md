@@ -10,6 +10,8 @@ generated:
 
 # Reflection Prompts
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Reflection prompts are specific questions or statements used to guide learners in thinking deeply about their learning process, content understanding, and personal growth. They operationalize metacognition by converting an internal, often skipped activity ("think about what you learned") into a concrete, answerable task. Effective prompts target three distinct objects: the content (What is the key idea?), the process (What strategy did I use, and did it work?), and the self (What was hard for me, and what will I do differently next time?).
 

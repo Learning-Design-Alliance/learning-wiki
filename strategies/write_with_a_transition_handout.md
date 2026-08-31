@@ -10,6 +10,8 @@ generated:
 
 # Write with a Transition Handout
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Before learners write, the instructor provides a handout organizing common transitions by rhetorical function (e.g., contrast, cause, sequence, concession). The instructor models where transitions fit in a text and explains how each one signals a relationship to the reader, converting an implicit stylistic convention into an explicit, usable tool.
 

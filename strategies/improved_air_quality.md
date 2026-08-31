@@ -10,6 +10,8 @@ generated:
 
 # Improved Air Quality
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Improved air quality is a physical-environment strategy that addresses ventilation rate, filtration, and pollutant source control in classrooms and other learning spaces. Poor indoor air quality is a major contributor to absenteeism, particularly for students with asthma, and is associated with "sick building syndrome" symptoms that depress attendance and performance for all occupants. Because bacteria, viruses, and allergens that contribute to childhood illness accumulate in poorly ventilated schools, air quality management functions as a precondition for learning rather than an instructional technique itself.
 

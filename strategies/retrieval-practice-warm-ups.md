@@ -10,6 +10,8 @@ generated:
 
 # Retrieval Practice Warm Ups
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Retrieval practice warm ups are brief activities at the start of a lesson in which learners recall previously learned material from memory — answering questions, solving a few problems, or summarizing prior content — before new instruction begins. They function simultaneously as [retrieval practice](../principles/retrieval-practice.md), spaced review, and a formative check that surfaces gaps before new material builds on old.
 

@@ -10,6 +10,8 @@ generated:
 
 # Comparing Cases
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Comparing cases asks learners to examine two or more worked instances — problems, examples, or scenarios — side by side and identify what varies and what stays constant. The comparison itself, not any single case, is the instructional event: alignment of the cases makes the underlying relational structure visible, supporting abstraction of general principles.
 

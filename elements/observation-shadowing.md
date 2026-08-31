@@ -10,6 +10,8 @@ generated:
 
 # Observation Shadowing
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Observation shadowing pairs watching with immediate imitation: the learner observes someone else perform a task — an expert, a more capable peer, or a recorded model — and then reproduces the observed performance as closely as possible, often in real time or immediately after. It operationalizes Bandura's observational learning sequence (attention → retention → reproduction → motivation) by compressing the gap between observation and production, so the observed model is still fresh in working memory when the learner acts.
 

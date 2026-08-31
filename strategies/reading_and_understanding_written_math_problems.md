@@ -10,6 +10,8 @@ generated:
 
 # Reading and Understanding Written Math Problems
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Word problems require learners to read text, build a situation model of the quantities and relationships described, and only then select and execute a mathematical operation. This strategy treats the reading and comprehension phase as an explicit object of instruction: the teacher models translating words into pictures, diagrams, and number sentences, teaches the vocabulary and syntax of mathematical language, and has students verbalize and critique each other's interpretations. It is especially valuable for English language learners, for whom the linguistic demands of word problems can mask mathematical competence.
 

@@ -10,6 +10,8 @@ generated:
 
 # Transfer Tasks
 
+> **Element** · [All elements](index.md)
+
 ## Description
 A transfer task asks learners to apply what they have learned to a new problem, context, or situation that differs in surface features from the original instruction. It functions both as an assessment of whether learning is flexible rather than rote and as an instructional event that itself deepens abstraction of the underlying principle.
 

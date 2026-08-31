@@ -12,6 +12,8 @@ grain_size: course
 
 # Blended Learning
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Blended Learning is the pattern-level target for instruction that intentionally combines in-person and digital learning experiences so each mode does some work the other does not.
 

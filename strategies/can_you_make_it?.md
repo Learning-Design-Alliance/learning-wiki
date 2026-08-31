@@ -10,6 +10,8 @@ generated:
 
 # Can You Make It?
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners draw a dot card showing a small quantity arranged in a pattern (e.g., 3 dots in a triangle), then recreate that arrangement on a large, blank dot card using physical counters. The task requires learners to perceive the quantity, hold its structure in mind, and map it onto a spatial arrangement — exercising both subitizing (rapid recognition of small quantities without counting) and one-to-one counting. Beginners start with quantities of 1–3; the range expands as recognition becomes automatic.
 

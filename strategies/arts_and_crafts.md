@@ -10,6 +10,8 @@ generated:
 
 # Arts and Crafts
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Arts and crafts strategies engage learners in designing and producing physical artifacts — drawings, models, textiles, collages, sculptures — as a vehicle for learning. The activity can serve the content itself (e.g., building a model of a cell), act as an expressive outlet that supports regulation and motivation, or develop craft-specific skills such as fine motor control and planning. It is carried out through a cycle of instruction or modeling, hands-on making, and reflection or sharing of the finished work.
 

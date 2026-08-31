@@ -10,6 +10,8 @@ generated:
 
 # Dictation Software
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Dictation (speech-to-text) software converts spoken language into written text, allowing learners to compose orally rather than by hand or keyboard. This decouples idea generation from the mechanical demands of transcription — spelling, handwriting, and keystrokes — so working memory can be devoted to content, organization, and voice. Modern implementations range from built-in OS dictation (Apple Dictation, Windows Speech Recognition, Google Docs Voice Typing) to dedicated tools such as Dragon (Nuance) and Read&Write (Texthelp).
 

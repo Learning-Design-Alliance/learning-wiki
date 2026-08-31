@@ -10,6 +10,8 @@ generated:
 
 # Choral Counting
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Choral Counting is a whole-class mathematics routine in which learners count aloud together by a chosen starting number and increment (e.g., by 6 starting at 15) while the teacher records the count in a deliberate visual arrangement — typically rows of a fixed length on a chart or whiteboard. After counting, the class studies the recorded sequence, noticing and discussing patterns in the numbers, their digits, and their spatial arrangement. The routine is a core practice in Cognitively Guided Instruction classrooms and is usually paired with [Number Talks](../strategies/number-talks.md) as a complementary discussion-based routine.
 

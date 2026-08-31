@@ -11,6 +11,8 @@ evidence_strength: weak
 
 # Scaffolded Close Reading Improves Comprehension For Struggling Readers
 
+> **Claim** · [All claims](index.md)
+
 Struggling readers comprehend challenging texts better when close reading is scaffolded — teacher-guided text-dependent questioning, repeated readings, and gradual release of responsibility — rather than assigned as independent work.
 
 ## Subclaims

@@ -11,6 +11,8 @@ evidence_strength: weak
 
 # Parent Involvement Improves Achievement
 
+> **Claim** · [All claims](index.md)
+
 Parental engagement in children's learning — at home and at school — is associated with higher academic achievement, though the form and intensity of involvement condition the effect.
 
 ## Subclaims

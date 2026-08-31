@@ -10,6 +10,8 @@ generated:
 
 # Pre-Teaching Vocabulary
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Pre-teaching vocabulary involves explicitly introducing selected new words before learners encounter them in a text, lecture, or lesson. The instructor provides student-friendly definitions, examples, and contexts of use, so that word meanings are available in memory when the text demands them. This front-loads word knowledge so that working memory during reading is spent on comprehension rather than on inferring unfamiliar meanings from context.
 

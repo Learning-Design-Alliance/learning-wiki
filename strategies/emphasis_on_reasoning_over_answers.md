@@ -10,6 +10,8 @@ generated:
 
 # Emphasis on Reasoning over Answers
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy reorients instruction and classroom discourse away from evaluating final answers and toward examining the reasoning that produced them. Teachers elicit initial ideas before answers are settled, put worked examples with errors on the board for students to diagnose, and ask learners to describe their first steps rather than their conclusions. The result is a more discursive classroom in which being wrong is treated as informative rather than as failure, which builds confidence and supports conceptual learning [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 

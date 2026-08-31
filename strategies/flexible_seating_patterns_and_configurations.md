@@ -10,6 +10,8 @@ generated:
 
 # Flexible Seating Patterns and Configurations
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Flexible seating provides a variety of furniture options (standing desks, floor seating, clusters, quiet corners) that students can choose from and that the teacher can reconfigure to match the activity. It treats the physical environment as an instructional variable: rows for individual focus, clusters for [collaborative learning](../principles/collaborative-learning.md), circles for [class discussion](../elements/class-discussion.md).
 

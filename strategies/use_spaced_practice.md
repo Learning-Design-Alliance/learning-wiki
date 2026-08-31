@@ -10,6 +10,8 @@ generated:
 
 # Use Spaced Practice
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Spaced practice distributes study, review, or practice of a topic across multiple sessions separated by intervals of time, rather than concentrating it in a single block (massed practice). The intervals can be fixed (e.g., weekly review) or expanding (each successive gap grows longer), and spacing applies equally to revisiting content, re-practicing skills, and re-testing knowledge.
 

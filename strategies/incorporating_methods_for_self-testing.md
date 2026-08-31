@@ -10,6 +10,8 @@ generated:
 
 # Incorporating Methods for Self-Testing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Self-testing reframes assessment from a grading event into a learning activity: students actively retrieve information — via flashcards, practice questions, or free recall — instead of rereading notes. In culturally responsive and low-stakes classrooms, frequent non-graded checks let students monitor progress without the anxiety attached to high-stakes testing. The strategy has two components: the instructor builds frequent retrieval opportunities into instruction, and students are explicitly taught self-testing techniques they can apply independently.
 

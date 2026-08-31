@@ -15,6 +15,8 @@ sources:
 
 # Perspective-Taking
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Perspective-taking is the principle of intentionally examining a situation, text, problem, or decision from viewpoints other than one's own. It supports empathy, argument quality, and more flexible reasoning by forcing learners to compare assumptions, evidence, and consequences across positions.
 

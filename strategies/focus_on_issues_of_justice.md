@@ -10,6 +10,8 @@ generated:
 
 # Focus on Issues of Justice
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Authentic projects that focus on issues of justice engage students by having them work on something that matters — impacting their lives, their community, and the lives of those they care about. Rooted in critical pedagogy, these projects position students as investigators and change agents rather than passive recipients of content, connecting academic standards to real inequities and civic action. The approach goes beyond teaching the standards: it creates opportunities for students to develop ethical reasoning, empathy, and a sense of agency.
 

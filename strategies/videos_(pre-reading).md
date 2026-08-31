@@ -10,6 +10,8 @@ generated:
 
 # Videos (Pre-Reading)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A short video relating to the topic of an upcoming reading is shown before learners read the text. Discussion questions are prepared in advance based on the video content; after viewing, learners discuss what they saw with a partner. The video functions as an advance organizer and shared reference experience that gives the subsequent reading a familiar conceptual frame.
 

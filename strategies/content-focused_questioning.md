@@ -10,6 +10,8 @@ generated:
 
 # Content-Focused Questioning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Content-focused questioning directs students' attention to the central ideas of a text and to how the author supports those ideas with evidence and examples. The instructor poses a planned sequence of questions — beginning with what students already know and moving toward comprehension of main points before discussing rhetorical or analytical techniques. Questions may be answered individually, in peer discussion, or in whole-class sharing, and students can eventually generate their own questions about the text.
 

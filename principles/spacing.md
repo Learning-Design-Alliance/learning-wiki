@@ -27,6 +27,8 @@ sources:
 
 # Spacing
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Spacing (distributed practice) distributes study or practice of a given content across multiple sessions separated in time, rather than concentrating it in one massed session. The recommendation is to schedule review and practice so that some forgetting has occurred between encounters, then re-engage the material through retrieval or application. Spacing is one of the most robust findings in learning science, with large, durable effects on long-term retention across ages, materials, and settings.
 

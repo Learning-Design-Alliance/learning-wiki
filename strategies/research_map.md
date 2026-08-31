@@ -10,6 +10,8 @@ generated:
 
 # Research Map
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A research map is a visual representation of research topics and their interconnections, allowing users to explore academic literature in a structured and intuitive way. It displays clusters of related articles and topics, with connections indicating shared references, themes, or conceptual relationships. Learners use the map to navigate a complex research landscape, locate key areas of study, and discover relevant sources they would not find through linear search.
 

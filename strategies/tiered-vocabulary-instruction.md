@@ -10,6 +10,8 @@ generated:
 
 # Tiered Vocabulary Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Tiered vocabulary instruction sorts words into three tiers based on frequency and utility. Tier One words (e.g., *run*, *happy*) are basic and rarely need teaching; Tier Two words (e.g., *analyze*, *coincidence*, *reluctant*) are high-frequency across contexts for mature language users and are the primary target of direct instruction; Tier Three words (e.g., *photosynthesis*, *tariff*) are low-frequency and domain-specific, best taught within content-area units rather than as general vocabulary. Instruction concentrates on Tier Two words because each one pays off across many texts, subjects, and communicative situations, giving learners more precise and mature expression.
 

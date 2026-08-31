@@ -10,6 +10,8 @@ generated:
 
 # Providing Choices About Content
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Providing choices about content means learners select *what* to learn — the topic, materials, or questions to pursue — within boundaries set by the instructor. Choosing what to learn is itself a skill: content must be identified, questions framed, and boundaries set. The strategy differs from choice about process or product ([Stefanou et al., 2004](https://doi.org/10.1016/j.learninstruc.2004.02.002) [+S]) in that it targets the object of learning, and is a core move in self-directed and andragogical designs [Knowles, 1975].
 

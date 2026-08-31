@@ -10,6 +10,8 @@ generated:
 
 # Bigger/Smaller/Equal
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The teacher calls out a number. If it is greater than 10, students expand their bodies to take up as much space as possible (feet planted, no running); if less than 10, they shrink to occupy minimal space; if exactly 10, they hold neutral and form an equals sign with their arms. Once students master the rules, the teacher advances to sums and differences ("12 − 5"), requiring students to compute before responding with their bodies.
 

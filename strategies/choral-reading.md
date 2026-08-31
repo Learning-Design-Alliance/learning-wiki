@@ -10,6 +10,8 @@ generated:
 
 # Choral Reading
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Choral reading is a group oral reading strategy in which learners read a text aloud together — in unison, in parts, or in echo of a leader — while a teacher or proficient reader provides a fluent model. It is typically carried out with short, rhythmically or structurally engaging texts (poems, songs, refrains, predictable passages) and repeated over several sessions until reading becomes smooth and expressive.
 

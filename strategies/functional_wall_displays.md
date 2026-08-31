@@ -10,6 +10,8 @@ generated:
 
 # Functional Wall Displays
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Functional wall displays use classroom wall space as an instructional resource: word walls, anchor charts, concept maps, reference posters, and curated student work that learners can consult during instruction. Unlike decorative displays, functional displays are positioned where they can be readily seen at the moment of need and are updated to track the current unit of learning.
 

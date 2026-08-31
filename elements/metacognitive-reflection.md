@@ -10,6 +10,8 @@ generated:
 
 # Metacognitive Reflection
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Metacognitive reflection is the element in which learners examine how they thought, what strategies they used, where they were confused, and what they should do next. It is useful when the goal is to make reflection more explicitly about thinking and strategy, not just about feelings or outcomes.
 

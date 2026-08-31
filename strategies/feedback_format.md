@@ -10,6 +10,8 @@ generated:
 
 # Feedback Format
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Feedback format refers to the medium through which feedback is delivered: written text, audio recordings, screencast video, or face-to-face/video conversation. The same feedback content can land very differently depending on format — audio and video convey tone and nuance that text strips out, while text supports scanning and re-reading. Format choice should follow from the content of the feedback, the learner's needs, and the practical constraints of the setting.
 

@@ -10,6 +10,8 @@ generated:
 
 # Double-Entry Journals
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A double-entry journal is a two-column response format in which learners copy or summarize a phrase, sentence, or idea from an assigned text in the left column and write their reaction — a question, connection, prediction, evaluation, or emotional response — in the right column. The format forces learners to move between the text's words and their own thinking, converting passive reading into an active, dialogic exchange with the text.
 

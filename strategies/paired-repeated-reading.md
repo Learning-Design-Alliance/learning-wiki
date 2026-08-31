@@ -10,6 +10,8 @@ generated:
 
 # Paired Repeated Reading
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Paired repeated reading is a fluency-building technique in which two learners take turns reading the same passage aloud several times — typically three to four readings — while the partner listens, follows along, and gives feedback on accuracy and expression. The reader rereads until a criterion (e.g., 85–100 words correct per minute with few errors) is reached, then partners switch roles. It adapts Samuels' (1979) repeated reading method for classroom use by removing the need for one-on-one teacher time.
 

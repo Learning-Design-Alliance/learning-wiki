@@ -10,6 +10,8 @@ generated:
 
 # Pinwheel Discussion
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners are divided into four groups. Three groups are assigned to represent specific points of view; members of the fourth group act as "provocateurs," tasked with keeping the discussion going and challenging claims. One speaker from each group sits facing the other speakers, forming a square in the center of the room; remaining group members sit in a wedge behind their speaker, so the arrangement resembles a pinwheel from above. Speakers discuss questions their groups prepared in advance, teammates may pass notes or quietly coach, and after a set interval new learners rotate into the center seats to continue the conversation.
 

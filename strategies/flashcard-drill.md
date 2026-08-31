@@ -10,6 +10,8 @@ generated:
 
 # Flashcard Drill
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Flashcard drill presents learners with a cue (question, term, or image) and requires active retrieval of the associated response before the answer is revealed. Cards are cycled through repeated rounds, ideally with intervals between repetitions, so that each item is retrieved multiple times across sessions rather than passively reread.
 

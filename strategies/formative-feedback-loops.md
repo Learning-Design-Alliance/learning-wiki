@@ -10,6 +10,8 @@ generated:
 
 # Formative Feedback Loops
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A formative feedback loop is a repeated cycle of (1) eliciting evidence of learner understanding, (2) interpreting it against clear success criteria, (3) delivering actionable feedback, and (4) giving learners the opportunity and time to act on that feedback before the next assessment point. The loop — not the feedback message alone — is the unit of design: feedback that is never acted on is wasted [Feedback is most effective when learners have opportunities to act on it.](../claims/assessment-for-learning-improves-achievement.md) [+S].
 

@@ -10,6 +10,8 @@ generated:
 
 # Scenario-Based E-Learning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Scenario-based e-learning places learners inside a realistic situation — a customer complaint, a patient case, a safety incident — and requires them to make decisions that drive the scenario forward. Rather than being told the rules, learners encounter consequences of their choices within the simulated context, then receive feedback or a debrief that connects outcomes to underlying principles.
 

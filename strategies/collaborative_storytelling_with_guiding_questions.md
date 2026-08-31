@@ -10,6 +10,8 @@ generated:
 
 # Collaborative Storytelling with Guiding Questions
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Collaborative storytelling with guiding questions has pairs of students co-create a narrative by responding to a structured sequence of prompts covering setting, protagonist and antagonist, the central problem, character histories, internal thoughts, dialogue, a positive and a negative event, and the ending. Each student first thinks silently about their individual response to a question; the pair then shares answers and negotiates which one to record. After working through all questions, students write a simple illustrated version of their story, rehearse telling it, and present it to another small group. The think-first-then-negotiate structure ensures individual thought precedes group discussion, producing a final product stronger than what either student would likely create alone.
 

@@ -10,6 +10,8 @@ generated:
 
 # KWL Chart
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A KWL chart is a three-column graphic organizer completed across a lesson: before instruction, students list what they already **Know** about a topic and what they **Want** to know; after instruction, they record what they **Learned**. Developed by Donna Ogle for expository reading, it functions as a pre-reading activation routine, a goal-setting device, and a post-hoc self-assessment in a single low-cost artifact.
 

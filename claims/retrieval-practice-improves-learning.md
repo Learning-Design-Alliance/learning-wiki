@@ -11,6 +11,8 @@ evidence_strength: strong
 
 # Retrieval Practice Improves Learning
 
+> **Claim** · [All claims](index.md)
+
 Actively recalling information from memory (rather than rereading or reviewing it) strengthens long-term retention and transfer of that information — the "testing effect."
 
 ## Subclaims

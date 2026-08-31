@@ -10,6 +10,8 @@ generated:
 
 # Positive Intention & Generosity in Networking
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy teaches learners to approach professional networking as an exchange grounded in genuine interest and generosity — identifying shared interests, offering help before requesting it, and framing connections around mutual benefit rather than instrumental gain. It is carried out through explicit reframing exercises, scripts for value-first outreach, and structured practice in giving (information, introductions, recognition) before asking.
 

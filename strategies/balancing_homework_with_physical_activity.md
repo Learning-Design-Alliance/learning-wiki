@@ -10,6 +10,8 @@ generated:
 
 # Balancing Homework with Physical Activity
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy integrates physical activity into homework routines rather than treating study and movement as competing demands. Learners break extended sitting into shorter blocks separated by 3–10 minute movement bursts (stretching, jumping jacks, kicking a ball), optionally use standing desks, and families or teachers coordinate so that homework volume leaves room for daily activity. The goal is to protect both the attentional benefits of movement and the consolidation benefits of focused study.
 

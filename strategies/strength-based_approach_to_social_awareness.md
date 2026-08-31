@@ -10,6 +10,8 @@ generated:
 
 # Strength-Based Approach to Social Awareness
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy identifies a student's existing social-emotional strengths (e.g., strong verbal skills, humor, leadership, empathy in familiar contexts) and deliberately uses them as an entry point for developing weaker social-awareness skills — understanding social norms, taking others' perspectives, and reading emotional cues. Instruction proceeds through explicit discussion of perspectives, [modeling](../elements/act-it-out.md) of empathic responses, structured conversations about emotions and social issues, and analysis of current events or fictional characters whose social dilemmas can be examined at a safe distance.
 

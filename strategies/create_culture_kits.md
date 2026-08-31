@@ -10,6 +10,8 @@ generated:
 
 # Create Culture Kits
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A culture kit is a curated collection of 3–5 personally meaningful objects, images, or artifacts that a student assembles to represent facets of their cultural background, family history, or identity. Students present their kits to peers, respond to questions, and often write reflectively about the objects' significance, converting private identity knowledge into shared classroom knowledge.
 

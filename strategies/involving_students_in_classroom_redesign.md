@@ -10,6 +10,8 @@ generated:
 
 # Involving Students in Classroom Redesign
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Involving students in classroom redesign means treating the physical environment — layout, furniture, displays, materials organization — as a co-designed artifact rather than a teacher-determined given. Students gather evidence about how the environment affects attention and learning, deliberate over competing proposals, and implement changes. The strategy pairs environmental decision-making with instruction about the research behind environmental effects, so choices are informed rather than purely preferential.
 

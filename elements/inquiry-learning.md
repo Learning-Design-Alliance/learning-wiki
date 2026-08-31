@@ -10,6 +10,8 @@ generated:
 
 # Inquiry Learning
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Inquiry learning places learners in the role of investigator: they pose or explore questions, gather and analyze evidence, and construct explanations, with the instructor acting as guide rather than primary explainer. It ranges along a continuum from open (learner-generated questions and procedures) to guided (teacher-structured tasks and prompts), and the evidence strongly favors the guided end.
 

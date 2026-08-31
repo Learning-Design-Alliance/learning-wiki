@@ -11,6 +11,8 @@ evidence_strength:
 
 # Claim Slug
 
+> **Claim** · [All claims](index.md)
+
 This page is a placeholder stub: no claim statement, scope, or supporting evidence has been specified yet. It should not be cited or cross-linked until a concrete claim and evidence entries are added.
 
 ## Subclaims

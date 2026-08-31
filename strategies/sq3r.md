@@ -10,6 +10,8 @@ generated:
 
 # SQ3R
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 SQ3R is a study-reading sequence developed by Francis Robinson (1946): **Survey** the text (headings, summaries, figures), **Question** (turn headings into questions), **Read** to answer those questions, **Recite** (self-explain or retrieve key points without looking), and **Review** (re-check and consolidate after a delay). It converts passive reading into an active, goal-directed cycle built around pre-questions and retrieval.
 

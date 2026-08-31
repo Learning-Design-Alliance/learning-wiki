@@ -10,6 +10,8 @@ generated:
 
 # Name Pronunciation
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Pronouncing learners' names correctly is a low-cost, high-signal practice that builds trust and rapport from the first interaction. Mispronunciation — or repeated failure to attempt it — can produce feelings of anxiety, invisibility, shame, and resentment that contribute to social and educational disengagement [Names carry identity and mispronunciation is experienced as a microaggression that marginalizes students of color.](https://doi.org/10.1080/10665684.2012.719878) [+M]. The strategy is to elicit each learner's preferred name and pronunciation early, record it, and practice it until correct.
 

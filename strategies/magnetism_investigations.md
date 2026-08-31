@@ -10,6 +10,8 @@ generated:
 
 # Magnetism Investigations
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Magnetism investigations are hands-on science activities in which learners test which objects a magnet attracts, explore how magnetic force acts at a distance and through materials, and map how a compass needle responds to nearby magnets and magnetic fields. The cycle of predicting, testing, observing, and explaining drives the learning: learners commit to a prediction, confront the outcome, and revise their mental model of magnetic properties.
 

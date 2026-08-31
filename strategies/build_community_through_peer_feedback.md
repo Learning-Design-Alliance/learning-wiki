@@ -10,6 +10,8 @@ generated:
 
 # Build Community Through Peer Feedback
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Students regularly exchange structured feedback on one another's work and use it to revise. The strategy serves two goals simultaneously: improving work quality through iterative critique, and building a classroom community in which students see peers as legitimate sources of expertise and support rather than competitors.
 

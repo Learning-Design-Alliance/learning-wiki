@@ -10,6 +10,8 @@ generated:
 
 # Peer Instruction
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Peer instruction is the element in which learners explain, compare, and revise answers with one another around conceptual questions.
 

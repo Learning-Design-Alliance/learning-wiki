@@ -10,6 +10,8 @@ generated:
 
 # Body Scan Meditation Check-In
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Students participate in a guided body scan meditation to bring calmness and awareness into the classroom. Attention is systematically directed through regions of the body — feet, legs, torso, arms, face — while students notice sensations without judgment. Used as a check-in, it functions as a transition ritual that settles arousal and builds interoceptive awareness before academic work begins.
 

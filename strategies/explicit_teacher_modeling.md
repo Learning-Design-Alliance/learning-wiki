@@ -10,6 +10,8 @@ generated:
 
 # Explicit Teacher Modeling
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Explicit teacher modeling involves the teacher both describing and demonstrating a skill or concept. The teacher names the features of the concept or the steps of the skill, breaks it into learnable parts, and performs it while verbalizing the reasoning behind each decision — often via [Think-Aloud](../elements/think-aloud.md). Modeling is delivered at a lively pace with periodic questioning and checks for understanding, and is always followed by guided practice before independent work.
 

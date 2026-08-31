@@ -10,6 +10,8 @@ generated:
 
 # Shared Writing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Shared writing involves a teacher and students collaboratively composing a text, with the teacher acting as a scribe. Students contribute ideas, wording, and decisions while the teacher records them, models conventions in the moment, and guides the group to revise and refine the text. Because the teacher holds the physical and mechanical burden of transcription, students can devote their full attention to composing — planning, generating, and evaluating ideas at the discourse level.
 

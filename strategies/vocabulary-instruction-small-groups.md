@@ -10,6 +10,8 @@ generated:
 
 # Vocabulary Instruction Small Groups
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Small-group vocabulary instruction gathers 3–8 learners to explicitly teach a small set of high-utility words through student-friendly definitions, multiple contexts, and active engagement. The teacher models word meaning and use, then structures collaborative activities — discussion, sorting, example generation, acting out — that require learners to process each word deeply rather than memorize definitions.
 

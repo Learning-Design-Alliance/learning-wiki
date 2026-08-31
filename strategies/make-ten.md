@@ -10,6 +10,8 @@ generated:
 
 # Make Ten
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Make Ten (also called "bridging through ten" or the "ten-structure" strategy) is a mental computation strategy for single-digit addition with sums above ten. Learners decompose one addend so that the other addend is completed to a full ten, then add the remainder to the ten (8 + 5 becomes 8 + 2 + 3, then 10 + 3 = 13). It is typically taught with ten-frames, number bonds, and Cuisenaire rods so the decomposition is grounded in a visual quantity structure rather than a memorized procedure.
 

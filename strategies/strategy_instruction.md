@@ -10,6 +10,8 @@ generated:
 
 # Strategy Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Strategy instruction teaches learners how to learn effectively by applying principles, rules, or multi-step processes to solve problems or accomplish learning tasks. Examples include phonics rules, comprehension-monitoring routines, procedures for decoding multi-syllabic words, using context clues to define unknown words, and test-taking strategies. Instructors model their thought processes — demonstrating when and how to use the strategy — then prompt and cue learners as they apply it, gradually releasing responsibility until learners deploy the strategy independently.
 

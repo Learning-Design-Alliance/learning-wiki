@@ -15,6 +15,8 @@ sources:
 
 # Mastery Learning
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Mastery learning is the principle that progression should depend on demonstrated competence rather than time spent, first exposure, or one-shot performance. Learners are given clear targets, supported practice, feedback, and additional attempts until they reach an acceptable level of understanding or skill. The value of the principle is not repetition by itself, but the combination of clear criteria, corrective support, and another opportunity to succeed.
 

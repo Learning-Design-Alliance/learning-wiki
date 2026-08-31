@@ -10,6 +10,8 @@ generated:
 
 # Formative Feedback
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Formative feedback is information provided to learners *while* learning is underway, describing the gap between current and desired performance and pointing to concrete next steps. It is carried out through timely, specific, task- and process-focused comments, self- and peer-assessment routines, and iterative revision cycles — in contrast to summative evaluation, which renders a judgment after learning concludes.
 

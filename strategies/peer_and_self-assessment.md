@@ -27,6 +27,8 @@ sources:
 
 # Peer and Self-Assessment
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Peer and self-assessment ask students to evaluate their own or classmates' work against explicit criteria, producing feedback and — more importantly — developing the capacity to judge quality. The act of applying criteria to someone else's work builds the internal standards students then apply to their own drafts. This positions assessment as a learning activity rather than only a measurement event, enacting [Assessment for Learning](../principles/assessment-for-learning.md).
 

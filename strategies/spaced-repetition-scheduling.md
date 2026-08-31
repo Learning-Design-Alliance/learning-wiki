@@ -10,6 +10,8 @@ generated:
 
 # Spaced Repetition Scheduling
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Spaced repetition scheduling distributes study or review of an item across multiple sessions separated by expanding intervals (e.g., 1 day, 3 days, 1 week), timed so each review occurs near the point of forgetting. It is typically implemented with [Retrieval Practice](../elements/practice.md) — the learner actively recalls the item rather than rereading it — and an algorithm or rule adjusts the next interval based on recall success.
 

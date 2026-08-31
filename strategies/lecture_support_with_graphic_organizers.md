@@ -10,6 +10,8 @@ generated:
 
 # Lecture Support with Graphic Organizers
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Instructors present lecture content using graphic organizers — concept maps, matrices, flowcharts, hierarchical trees, comparison tables — rather than bullet-point slides or prose outlines. The organizer externalizes the relational structure of the content (hierarchies, sequences, cause–effect links, contrasts) so that learners see how ideas connect while hearing them explained, rather than reconstructing those connections later from linear notes.
 

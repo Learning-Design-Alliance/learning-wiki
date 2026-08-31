@@ -10,6 +10,8 @@ generated:
 
 # How Close to 100?
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A game played in partners where children roll two dice to determine the dimensions of an array to draw on a 100 grid, aiming to fill the grid as much as possible. Each roll produces two factors; the player draws the corresponding array anywhere it fits on the grid and writes the number sentence (e.g., 4 × 6 = 24). Play ends when neither partner can place an array; the winner is the player whose grid is more completely filled. The game was popularized by Jo Boaler's [youCubed](https://www.youcubed.org/tasks/how-close-to-100/) as a low-floor, high-ceiling fluency task.
 

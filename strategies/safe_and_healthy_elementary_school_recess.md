@@ -10,6 +10,8 @@ generated:
 
 # Safe and Healthy Elementary School Recess
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Safe and healthy recess treats recess as an instructional setting rather than unstructured downtime. Recess is planned like a lesson — with game structures, role assignments, and trained adult facilitation — so that play deliberately builds cooperation, conflict resolution, and physical activity. Programs such as [Playworks TeamUp](https://www.playworks.org) organize recess around inclusive games, junior coach roles, and explicit conflict-resolution routines (e.g., rock-paper-scissors as a dispute protocol), aiming to reduce bullying and disciplinary referrals while increasing moderate-to-vigorous physical activity.
 

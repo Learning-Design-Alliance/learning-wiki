@@ -15,6 +15,8 @@ sources:
 
 # Observation/Shadowing
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Observation and shadowing are learning designs in which learners watch peers, experts, or practitioners perform authentic work in order to notice strategies, decisions, routines, and contextual demands that are difficult to infer from explanation alone. When structured well, observation is not passive. Learners attend to specific questions, compare what they saw to explicit models, and use the experience to inform their own later performance. Shadowing is especially useful when expertise includes tacit judgment, timing, interaction, or situated problem solving.
 

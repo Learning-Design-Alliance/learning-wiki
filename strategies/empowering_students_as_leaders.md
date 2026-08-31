@@ -10,6 +10,8 @@ generated:
 
 # Empowering Students as Leaders
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy identifies students whose challenging classroom behavior often masks leadership qualities — social influence, initiative, verbal confidence — and gives them formal leadership roles within learning groups: facilitator, timekeeper, materials manager, or outcome checker. Student leaders are paired with or positioned to support peers who struggle academically, converting a source of disruption into a source of structure. The approach reframes the student's status from "problem" to "contributor," which changes both the student's self-concept and the peer group's response to them.
 

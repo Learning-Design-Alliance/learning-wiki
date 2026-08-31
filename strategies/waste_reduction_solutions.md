@@ -10,6 +10,8 @@ generated:
 
 # Waste Reduction Solutions
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners examine and sort waste items from a garbage can, categorize and chart the items, and propose solutions to reduce the amount of solid waste. The strategy turns an everyday artifact — the contents of a waste bin — into an authentic dataset that learners classify, quantify, and reason about. It builds environmental awareness while exercising data organization, argumentation, and problem-solving skills.
 

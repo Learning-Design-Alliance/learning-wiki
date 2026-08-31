@@ -10,6 +10,8 @@ generated:
 
 # Calming Movement
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Calming movement uses slow, repetitive, rhythmic movement — rocking, swaying, gentle swinging, rhythmic songs with motion ("Row, Row, Row Your Boat"), or slow back-and-forth movement on a scooter board or therapy ball — to deliver predictable vestibular input that helps a learner down-regulate arousal. It is typically used as a reset when a child is overstimulated, overwhelmed, or escalating toward dysregulation, and is drawn from sensory integration practice rather than from cognitive instructional design.
 

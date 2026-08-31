@@ -10,6 +10,8 @@ generated:
 
 # Reading Workshop
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Reading Workshop is a classroom structure — developed most influentially by Nancie Atwell and Lucy Calkins — that organizes literacy instruction into a predictable sequence: a short whole-class mini-lesson (10–15 minutes of explicit strategy instruction), an extended block of independent reading time in self-selected books, and one-to-one reading conferences in which the teacher coaches individual students. It typically closes with a brief share session in which students articulate what they tried. The structure pairs explicit instruction with large amounts of authentic reading volume.
 

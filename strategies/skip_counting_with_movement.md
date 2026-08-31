@@ -10,6 +10,8 @@ generated:
 
 # Skip Counting with Movement
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Make up a movement that comes in 2, 3, or more parts. Whisper the first parts, and call out the final move loudly. Example: Windmills. Whisper "1" and touch your right hand to your left foot. Whisper "2" and touch your left hand to your right foot. Call out "3" and do a jumping jack! Continue counting like this up to 30, calling out the multiples of 3 and whispering the numbers in between.
 

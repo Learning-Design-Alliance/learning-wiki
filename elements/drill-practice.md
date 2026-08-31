@@ -15,6 +15,8 @@ sources:
 
 # Drill & Practice
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Drill and practice is the element in which learners repeatedly perform a focused skill or response pattern until it becomes more fluent or automatic. It is useful when subskills need rapid, accurate execution to support later complex performance.
 

@@ -10,6 +10,8 @@ generated:
 
 # Critique Protocols
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Critique protocols are structured routines — often with scripted sentence stems, timed rounds, and defined roles — that govern how learners examine one another's drafts or performances and offer feedback. Well-known formulations include Ron Berger's norms ("kind, specific, helpful") and the [Critical Friends](https://nsrfharmony.org/) protocol suite from the National School Reform Faculty. The protocol, not the teacher's discretion, carries the structure: it specifies what is looked at, in what order, and what kind of comments are permitted.
 

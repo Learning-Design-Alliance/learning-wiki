@@ -10,6 +10,8 @@ generated:
 
 # Dictation And Spelling Practice
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Dictation and spelling practice asks learners to write words, phrases, or sentences from spoken input, then compare their attempts against a correct model and correct errors. The act of producing the spelling from memory — rather than copying or recognizing it — forces retrieval of the word's orthographic form, which strengthens the memory representation that supports both spelling and word reading.
 

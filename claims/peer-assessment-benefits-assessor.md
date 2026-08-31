@@ -11,6 +11,8 @@ evidence_strength:
 
 # Peer Assessment Benefits Assessor
 
+> **Claim** · [All claims](index.md)
+
 The act of assessing peers' work can produce learning gains for the assessor, not only for the assessee. This page concerns the assessor-side benefit: reviewing, judging, and giving feedback on another learner's work as a learning activity in its own right.
 
 ## Subclaims

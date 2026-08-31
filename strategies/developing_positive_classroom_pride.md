@@ -10,6 +10,8 @@ generated:
 
 # Developing Positive Classroom Pride
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Developing positive classroom pride means deliberately helping learners take ownership of and feel pride in their accomplishments, effort, and positive behaviors — and in the collective identity of the class. Pride shapes identity, and identity drives behavior: learners who see themselves as capable contributors and members of a worthwhile group act accordingly. The strategy is carried out through sincere, specific recognition of learner successes, public celebration of collective achievement, and framing classroom norms as expressions of "who we are" rather than rules to obey.
 

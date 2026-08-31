@@ -11,6 +11,8 @@ evidence_strength: moderate
 
 # Simulation Based Education With Deliberate Practice Improves Clinical Outcomes
 
+> **Claim** · [All claims](index.md)
+
 Simulation-based education that incorporates deliberate practice — repeated, goal-directed rehearsal with immediate feedback and increasing difficulty — improves clinical skill performance and, in some domains, patient-level outcomes.
 
 ## Subclaims

@@ -10,6 +10,8 @@ generated:
 
 # Number Rack App
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Number Rack is a free virtual manipulative from [The Math Learning Center](https://www.mathlearningcenter.org/apps/number-rack) that replicates the rekenrek — a two-row bead frame with five red and five white beads per row. Learners slide beads to model quantities, compose and decompose numbers, and act out addition and subtraction. The app includes a text tool for writing equations alongside bead models, and supports multiple racks for work with larger numbers. It is the digital counterpart of the physical rekenrek used in early elementary classrooms.
 

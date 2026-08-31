@@ -10,6 +10,8 @@ generated:
 
 # Positive Self Talk Reframing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Positive self talk reframing is a self-regulation strategy in which learners first become aware of their automatic internal commentary ("I can't do this," "I always fail at math") and then systematically replace it with alternative statements — either positively framed affirmations ("I've solved hard problems before"), instructional cues ("elbow up, follow through"), or distanced third-person phrasing ("[Name], you've handled this before"). It is typically taught through explicit modeling, scripted practice, and gradual transfer to spontaneous use in challenging situations.
 

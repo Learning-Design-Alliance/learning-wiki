@@ -10,6 +10,8 @@ generated:
 
 # Pre Training
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Pre training teaches learners the names, characteristics, and key concepts of a system, process, or domain *before* the main instruction begins. Instead of learning what something is called and how it works simultaneously, learners first acquire the vocabulary and component knowledge, then encounter the full explanation. It is carried out through short pre-lessons, glossaries, concept introductions, or orientation activities placed before the primary learning task.
 

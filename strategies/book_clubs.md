@@ -10,6 +10,8 @@ generated:
 
 # Book Clubs
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Book clubs (also called literature circles) organize learners into small, relatively autonomous groups that read a shared text and meet regularly to discuss it. Unlike teacher-led [Class Discussion](../elements/class-discussion.md), the club itself owns the conversation: members prepare, pose questions, and negotiate interpretations, with the instructor acting as facilitator rather than discussion leader. Choice of text and of discussion focus is typically distributed to the group, which is what distinguishes book clubs from assigned whole-class reading followed by recitation.
 

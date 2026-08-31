@@ -10,6 +10,8 @@ generated:
 
 # Putting Empathy in the Curriculum
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy embeds empathy directly into existing subject-matter instruction: defining empathy as a class, analyzing empathic (and non-empathic) characters in literature, using design-thinking's "empathize" phase to understand users, asking students to consider their audience before presentations, and role-playing behavioral scenarios. The core move is making empathy an explicit, discussable object of study woven through regular content, not a separate social-emotional lesson block.
 

@@ -10,6 +10,8 @@ generated:
 
 # Reflection Activities
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Reflection activities are structured tasks that ask learners to examine what they did, understood, or would change next. They are useful when reflection needs to be made visible and actionable rather than left implicit.
 

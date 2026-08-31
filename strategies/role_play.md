@@ -10,6 +10,8 @@ generated:
 
 # Role Play
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Role play places learners inside a simulated scenario where they adopt a defined role — a customer, a manager, a patient, a historical actor — and interact with others in real time. Because the consequences are artificial, learners can attempt difficult conversations, make errors, and receive feedback without real-world cost. The activity typically follows a cycle of briefing, enactment, and structured debrief, where much of the durable learning occurs.
 

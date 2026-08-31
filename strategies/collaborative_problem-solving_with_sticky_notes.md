@@ -10,6 +10,8 @@ generated:
 
 # Collaborative Problem Solving With Sticky Notes
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Each learner first works a problem alone and records their answer or idea on a sticky note, guaranteeing individual thinking before any group contact. Small groups then compare notes, argue about discrepancies, and produce a single synthesized answer — often on a larger note or whiteboard — that the group must jointly defend. The sticky note is the mechanism that makes private thinking visible, portable, and rearrangeable.
 

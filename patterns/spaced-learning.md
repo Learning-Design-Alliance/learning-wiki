@@ -11,6 +11,8 @@ grain_size: course
 
 # Spaced Learning
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Spaced learning is the short-form canonical pattern for distributing study and retrieval over time instead of massing it in one session.
 

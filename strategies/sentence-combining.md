@@ -10,6 +10,8 @@ generated:
 
 # Sentence Combining
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Sentence combining gives learners two or more simple "kernel" sentences and asks them to merge them into a single, more sophisticated sentence using coordination, subordination, relative clauses, appositives, or participial phrases. It is typically taught through modeling (the instructor combines an example while explaining choices), guided practice, and independent application, often within the context of students' own writing rather than isolated exercises.
 

@@ -10,6 +10,8 @@ generated:
 
 # Example Problem Pairs
 
+> **Element** · [All elements](index.md)
+
 ## Description
 An example problem pair pairs a fully worked example with a structurally identical (isomorphic) problem that the learner must solve immediately afterward. The learner studies the expert solution, then applies the same procedure to a near-transfer task, alternating example study and problem solving across a sequence.
 

@@ -10,6 +10,8 @@ generated:
 
 # Word Sorts
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A word sort presents learners with a set of words (typically on cards) to be grouped under category headers according to a shared feature — vowel pattern, initial sound, inflectional ending, or derivational morpheme. Learners compare and contrast words, articulate why each belongs where it does, and check their sorts against known words. The activity is inductive: the pattern is discovered through classification rather than stated as a rule first.
 

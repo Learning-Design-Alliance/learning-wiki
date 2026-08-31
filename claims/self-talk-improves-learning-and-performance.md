@@ -11,6 +11,8 @@ evidence_strength: weak
 
 # Self Talk Improves Learning And Performance
 
+> **Claim** · [All claims](index.md)
+
 Instructional or motivational self-talk — verbalizing task-relevant cues or encouragement to oneself — can improve attention, technique, and performance on learning and motor tasks.
 
 ## Subclaims

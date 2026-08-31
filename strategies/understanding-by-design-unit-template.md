@@ -10,6 +10,8 @@ generated:
 
 # Understanding By Design Unit Template
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The Understanding by Design (UbD) Unit Template operationalizes backward design: planners first specify desired results (enduring understandings, essential questions, knowledge and skills), then determine acceptable evidence (performance tasks and other assessments aligned to those results), and only last design the learning plan (activities, instruction, and resources). The template enforces this three-stage sequence — Stage 1 → Stage 2 → Stage 3 — so that activities are justified by the evidence they should produce rather than selected for engagement alone.
 

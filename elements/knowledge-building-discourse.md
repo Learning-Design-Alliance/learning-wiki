@@ -10,6 +10,8 @@ generated:
 
 # Knowledge-Building Discourse
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Knowledge-building discourse is structured, sustained discussion in which learners collectively work to improve ideas rather than merely exchange opinions. Talk is treated as a medium for advancing community understanding — questioning, elaborating, and revising explanations — in the tradition of Scardamalia and Bereiter's knowledge-building pedagogy.
 

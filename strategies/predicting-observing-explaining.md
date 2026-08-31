@@ -10,6 +10,8 @@ generated:
 
 # Predicting Observing Explaining
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Predict-Observe-Explain (POE) is a three-phase strategy, typically used in science education. Learners first commit to a written prediction about the outcome of an event or demonstration, then observe the event (live, via video, or through simulation), and finally explain the outcome — especially any mismatch between their prediction and the observation. The strategy was developed by White and Gunstone (1992) as a probe of, and remedy for, learners' prior conceptions.
 

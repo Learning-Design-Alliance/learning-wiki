@@ -10,6 +10,8 @@ generated:
 
 # Address Speed of Processing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Processing speed is the pace at which a learner takes in information, makes sense of it, and begins to respond. Addressing speed of processing means diagnosing where pace — not knowledge or reasoning — is the bottleneck, then adjusting instruction: slowing and structuring input (guided notes, advance organizers, chunked content), extending think-time and response windows, and offering alternative formats for demonstrating knowledge. The goal is to decouple *speed of processing* from *depth of learning*, so that assessment reflects understanding rather than rate.
 

@@ -10,6 +10,8 @@ generated:
 
 # Learning Conferences
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A learning conference is a short, scheduled one-on-one conversation between teacher and learner focused on the learner's current work, goals, and next steps. The teacher listens more than talks, asks diagnostic questions, offers targeted feedback, and negotiates a concrete next action. Conferences are a staple of writing workshop models (Calkins, Atwell) and reading instruction, but the format generalizes to any domain where individual work can be reviewed in dialogue.
 

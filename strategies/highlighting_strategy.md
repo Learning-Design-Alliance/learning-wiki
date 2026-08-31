@@ -10,6 +10,8 @@ generated:
 
 # Highlighting Strategy
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The highlighting strategy is a digital approach to text engagement in which learners apply individualized, color-coded highlights to a document — for example, Argument #1 in red, Argument #2 in green — with each color labeled so no key is needed. Because the highlighting is digital, highlights can be exported by color into a single table, converting scattered marks into an organized set of ideas the learner can then summarize. This transforms highlighting from a passive reading habit into a categorization-and-consolidation routine that supports deeper analysis and organization of information.
 

@@ -10,6 +10,8 @@ generated:
 
 # Achievable Micro-goals
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Achievable micro-goals break a large learning task into small, immediately attainable sub-goals that a learner can complete in a single session or less. Each completed micro-goal produces a visible marker of progress, which builds self-efficacy and sustains motivation through the difficult middle phases of learning. The strategy is carried out by decomposing the task, sequencing the sub-goals so early ones are reliably achievable, and making completion explicit (checklists, progress bars, check-ins).
 

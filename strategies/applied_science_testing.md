@@ -10,6 +10,8 @@ generated:
 
 # Applied Science Testing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Applied science testing engages learners in using scientific principles and procedures to evaluate real-world materials and products — for example, testing the solubility of different packing materials or comparing the quality and price of plastic kitchen wraps. Learners design or follow test protocols, collect data, and justify evaluative conclusions, treating everyday products as objects of scientific inquiry.
 

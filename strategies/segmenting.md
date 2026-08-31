@@ -10,6 +10,8 @@ generated:
 
 # Segmenting
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Segmenting divides continuous instructional material — animation, video, narrated slides, complex diagrams — into discrete, meaningful parts that learners can process one at a time, typically with a "continue" button or pause point between parts. It is one of Mayer's multimedia design principles, grounded in the observation that a continuous presentation forces learners to hold and integrate many pieces of information in working memory simultaneously [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S].
 

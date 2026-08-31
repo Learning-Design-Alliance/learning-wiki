@@ -10,6 +10,8 @@ generated:
 
 # Formative Assessment Loops
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A formative assessment loop is a repeating cycle: elicit evidence of learning (a quick check, task, or question), interpret that evidence against the intended learning goal, and act on it — the teacher adjusts instruction while learners adjust their strategies. The loop closes only when the *action* step occurs; collecting evidence without responsive follow-up is measurement, not formative assessment [Assessment for learning improves achievement.](../claims/assessment-for-learning-improves-achievement.md) [+S].
 

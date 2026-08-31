@@ -10,6 +10,8 @@ generated:
 
 # Elaborative Reasoning
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Elaborative reasoning is the practice of prompting learners to expand on new material — explaining why it is true, connecting it to what they already know, generating their own examples, and drawing inferences beyond what was explicitly taught. Rather than receiving or rehearsing content verbatim, learners construct additional meaning around it. The recommendation is to design tasks and prompts that require this generative work, because elaborated encodings are richer, better organized, and more retrievable than surface-level ones.
 

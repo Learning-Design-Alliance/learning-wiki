@@ -10,6 +10,8 @@ generated:
 
 # EQ Feeling Chart Check-In
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Students use a provided EQ Feeling Chart — a visual grid of emotion words and faces organized by valence and intensity — to identify and communicate their current emotions. In pairs, they discuss what they are feeling, where those feelings are coming from, and any additional emotions they may be experiencing. The class then reconvenes to share what they noticed during their discussions, without requiring anyone to disclose beyond their comfort level.
 

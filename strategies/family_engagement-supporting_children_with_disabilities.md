@@ -10,6 +10,8 @@ generated:
 
 # Family Engagement Supporting Children With Disabilities
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Family engagement positions parents and caregivers as active partners in a child's special education and intervention, rather than as recipients of information. It ranges from families delivering or reinforcing evidence-based practices at home (e.g., naturalistic language teaching, behavior support routines) to families participating as decision-makers in IEP planning. The strategy rests on the fact that children with disabilities learn in many settings across many hours, and that skills taught in school often fail to generalize without family-mediated practice.
 

@@ -10,6 +10,8 @@ generated:
 
 # Maintain Optimal Classroom Temperature
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Thermal comfort is a physical precondition for learning: rooms that are too hot or too cold divert physiological and attentional resources away from the task at hand. Field studies in schools show that learning performance on tasks requiring concentration (reading speed, comprehension, arithmetic) declines measurably as classroom temperature rises above roughly 23–24°C, with each degree of excess heat imposing a small but consistent cost [Wargocki & Wyon's school field experiments link reduced classroom temperature to improved learning task performance.](https://doi.org/10.1080/09613210308668851) [+S]. The strategy is carried out by giving teachers or building operators the ability to monitor and adjust temperature at the classroom level, and by treating thermal comfort as part of routine instructional setup rather than facilities management alone.
 

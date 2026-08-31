@@ -11,6 +11,8 @@ evidence_strength: emerging
 
 # Spatial Training Improves Math Performance
 
+> **Claim** · [All claims](index.md)
+
 Training learners' spatial skills — through mental rotation, spatial visualization, and similar tasks — transfers to improved performance in mathematics, particularly in areas with strong spatial components such as geometry, measurement, and graph interpretation.
 
 ## Subclaims

@@ -10,6 +10,8 @@ generated:
 
 # Design Thinking
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Design Thinking organizes learning around a structured innovation process: empathizing with users, defining a problem, ideating solutions, prototyping, and testing. Learners work on authentic, open-ended problems where user needs — not textbook answers — drive the solution. The process is carried out in teams through rapid, iterative cycles in which early ideas are externalized as sketches or prototypes and revised based on user feedback.
 

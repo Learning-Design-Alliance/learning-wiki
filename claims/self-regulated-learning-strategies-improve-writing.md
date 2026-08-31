@@ -11,6 +11,8 @@ evidence_strength:
 
 # Self-regulated learning strategy instruction improves writing outcomes
 
+> **Claim** · [All claims](index.md)
+
 Explicitly teaching writers to plan, monitor, and revise their own composing process improves writing quality beyond instruction focused only on writing mechanics or content.
 
 ## Subclaims

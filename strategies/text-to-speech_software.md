@@ -10,6 +10,8 @@ generated:
 
 # Text-to-Speech Software
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Text-to-speech (TTS) software converts written text into synthesized speech, allowing learners to listen to digital text rather than — or in addition to — reading it visually. Modern TTS tools read web pages, PDFs, and word-processor documents, often with synchronized word- or sentence-level highlighting, adjustable voice speed, and OCR integration for scanned print. In learning design, TTS functions primarily as an [accommodation](../elements/accommodations.md) that removes decoding barriers, and secondarily as a multimodal presentation option that pairs auditory and visual input.
 

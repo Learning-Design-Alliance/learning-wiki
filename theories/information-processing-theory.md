@@ -15,6 +15,8 @@ sources:
 
 # Information Processing Theory
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval. In broad terms, the theory asks what learners notice, how much they can actively process at once, how they organize new information, and how it becomes retrievable later.
 

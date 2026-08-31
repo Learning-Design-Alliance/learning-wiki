@@ -10,6 +10,8 @@ generated:
 
 # Sail through Math App
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Sail through Math is an iOS app from McGraw-Hill Education that develops arithmetic fluency — addition, subtraction, multiplication, and division, including equations and two-step problems — through a pirate-themed narrative. Learners progress through three difficulty levels, solving math facts and equations embedded in story contexts (firing cannonballs, earning treasure), with the game providing immediate correctness feedback and level progression as performance improves.
 

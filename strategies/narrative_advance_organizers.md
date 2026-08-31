@@ -10,6 +10,8 @@ generated:
 
 # Narrative Advance Organizers
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A narrative advance organizer opens a lesson with a story — historical anecdote, personal narrative, or fictional scenario — that introduces the conceptual structure of the material to come at a higher level of abstraction than the content itself. Drawing on Ausubel's subsumption theory, the story provides an anchoring framework into which new ideas can be integrated, rather than functioning as mere entertainment [Advance organizers provide ideational scaffolding for meaningful reception learning.](../elements/advance-organizers.md) [+W].
 

@@ -10,6 +10,8 @@ generated:
 
 # Self Talk Logging
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Self talk logging asks learners to capture their internal monologue while working: what they are thinking, where they get confused, what they tell themselves to do next, and how they judge their own progress. The log can be written (a margin journal, a structured template), spoken (audio notes), or prompted at checkpoints. Unlike a [Think-Aloud](../elements/think-aloud.md), which is spontaneous and transient, a log creates a persistent record that learners and instructors can review, analyze, and compare over time.
 

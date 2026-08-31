@@ -10,6 +10,8 @@ generated:
 
 # Read-Alouds with Discussion
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Teachers read aloud carefully selected stories depicting social and emotional challenges — friendship conflict, empathy, self-regulation, identity — and then facilitate structured discussion in which students interpret characters' motives, connect events to their own experience, and articulate alternative responses. The read-aloud provides a shared, low-stakes referent; the discussion converts that referent into reflection and transferable social understanding.
 

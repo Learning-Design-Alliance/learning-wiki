@@ -10,6 +10,8 @@ generated:
 
 # Mindful Moment
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A mindful moment involves pausing, settling the nervous system, and refocusing attention and energy on a new task. It entails inviting learners to close their eyes (if they're comfortable) and take a few deep breaths, paying attention to the sensation of breathing or noticing their thoughts. The practice is brief (1–5 minutes), deliberately structured, and positioned at transitions — the start of class, after a disruptive event, or before a demanding task — so that attention is re-anchored before new cognitive work begins.
 

@@ -10,6 +10,8 @@ generated:
 
 # Use this Toolkit: Mitigating Racial Bias in Edtech
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This toolkit guides educational technology (edtech) companies in identifying and mitigating racial bias in the design and development of their products. It emphasizes that without rigorous, intentional oversight, AI and machine learning in edtech can amplify existing racial biases in school systems and introduce new ones through algorithmic design — a concern documented across educational AI applications [~M]. The toolkit offers concrete actions at every stage of product design and development, advocating for racial equity and a commitment to changing education for all students, especially those the system was not designed for.
 

@@ -10,6 +10,8 @@ generated:
 
 # Role-Playing
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Role-playing is the element in which learners adopt roles and act through a scenario, interaction, or decision process from that perspective. It is useful when learning depends on situational judgment, empathy, communication, or applied decision-making.
 

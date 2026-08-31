@@ -10,6 +10,8 @@ generated:
 
 # Asset Based Teaching
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Asset-based teaching designs instruction from what learners already know, can do, and bring culturally and linguistically, rather than from a catalogue of perceived deficits. The instructor treats students' home languages, community knowledge, and lived experience as instructional resources to be activated and built upon, not obstacles to be remediated. In practice this means diagnosing strengths first, framing tasks so those strengths are usable, and structuring participation so every learner contributes knowledge, not only receives it.
 

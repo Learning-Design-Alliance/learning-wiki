@@ -10,6 +10,8 @@ generated:
 
 # Mindful Breathing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Mindful breathing directs learners to attend to the physical sensations of breathing — typically for 1–10 minutes — and to notice and return attention when the mind wanders. It is used as a brief readiness routine at the start of a session, before high-stakes assessments, or as a reset after distraction. The "return" step is the trainable component: each noticing-and-returning cycle is a repetition in attentional control.
 

@@ -10,6 +10,8 @@ generated:
 
 # SEL Discussions on Ethical Dilemmas
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy involves using age-appropriate, real-life ethical dilemmas as discussion starters to help students practice responsible decision-making. Students identify the problem, analyze the situation from multiple perspectives, propose and defend solutions, and evaluate outcomes against ethical principles — all within a facilitated, low-stakes discussion format. It is typically integrated into social studies, language arts, or advisory periods.
 

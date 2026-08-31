@@ -10,6 +10,8 @@ generated:
 
 # Digital Word Detectives
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Students read e-books and use digital tools — embedded dictionaries and digital note-taking — to figure out the meanings of teacher-selected vocabulary words, adopting the role of "word detectives." The teacher pre-identifies roughly 3–4 target words per chapter, checks which are already known, and students record their own definitions and examples as digital notes anchored to the words in the text. Notes are then compared and discussed in small groups and as a whole class.
 

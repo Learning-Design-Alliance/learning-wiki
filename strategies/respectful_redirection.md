@@ -10,6 +10,8 @@ generated:
 
 # Respectful Redirection
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Respectful redirection is a quick, in-the-moment strategy for correcting off-task or disruptive behavior using a calm tone, neutral body language, and clear, concise wording. The instructor tells students exactly what they are doing incorrectly and what they should do instead, in as few words as possible, reducing confusion and confrontation. It provides brief, consistent, systematic correction with feedback, which has a positive effect on student behavior [~M]. Tone, word choice, and brevity determine how students respond: redirection framed as a statement of expectation rather than a personal criticism preserves the student–teacher relationship while still stopping the behavior.
 

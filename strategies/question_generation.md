@@ -10,6 +10,8 @@ generated:
 
 # Question Generation
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Question generation asks learners to formulate their own questions about texts, problems, or topics rather than only answering questions posed to them. It can be structured (question stems, prompt cards, assigned roles) or open-ended, and typically precedes or accompanies reading, discussion, or problem solving. The act of composing a question forces learners to identify key concepts, detect gaps in understanding, and rephrase content in their own words.
 

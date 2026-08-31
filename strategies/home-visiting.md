@@ -10,6 +10,8 @@ generated:
 
 # Home Visiting
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Home visiting delivers instruction and support in the learner's own home rather than in a classroom or center. Trained visitors — nurses, early childhood educators, parent educators, or paraprofessionals — work one-on-one with families, typically modeling practices (e.g., responsive caregiving, shared book reading), observing the parent or learner apply them, and providing feedback in context. The approach is most prominent in early childhood and family literacy programs, where the home is the primary learning environment.
 

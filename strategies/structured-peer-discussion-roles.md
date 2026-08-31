@@ -10,6 +10,8 @@ generated:
 
 # Structured Peer Discussion Roles
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Structured peer discussion roles assign each member of a small group a specific, named function during discussion — such as facilitator, recorder, summarizer, skeptic, or questioner — often with rotation across sessions. The roles create positive interdependence: the discussion cannot succeed unless each member performs their function, which distributes airtime, prevents social loafing, and requires each learner to engage the content from a distinct cognitive angle.
 

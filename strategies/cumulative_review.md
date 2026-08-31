@@ -10,6 +10,8 @@ generated:
 
 # Cumulative Review
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Cumulative review is the deliberate, recurring integration of previously taught material into current instruction and assessment. Instead of teaching topics in sealed blocks — "unit 3 is over, we never touch unit 1 again" — every practice set, quiz, and discussion includes items drawn from earlier content, forcing learners to retrieve and apply old knowledge alongside new.
 

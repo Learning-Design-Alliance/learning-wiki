@@ -10,6 +10,8 @@ generated:
 
 # Text Chats in Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Text chats in instruction use synchronous or near-synchronous text messaging — SMS, chat tools (Slack, Discord, Remind), or in-platform chat — as a channel for questions, discussion, feedback, and coordination during learning. The strategy lowers the social and logistical barriers to participation: learners can contribute without speaking publicly, and instructors can reach students in the channel they already use daily.
 

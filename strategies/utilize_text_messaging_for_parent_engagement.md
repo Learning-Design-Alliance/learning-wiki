@@ -10,6 +10,8 @@ generated:
 
 # Utilize Text Messaging for Parent Engagement
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Text messaging programs send parents brief, regular messages — typically one to three per week — with concrete suggestions for supporting their child's learning at home (e.g., "Ask your child what number comes after 7"), progress updates, or reminders. Because texting requires no new app, account, or training, it reaches families that newsletters, portals, and meetings do not, and its per-message cost is near zero at scale.
 

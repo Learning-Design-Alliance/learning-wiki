@@ -10,6 +10,8 @@ generated:
 
 # Spaced Retrieval Practice
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Spaced retrieval practice combines two of the most robust findings in learning science: *retrieval practice* — actively recalling information from memory rather than rereading it — and *spacing* — distributing those recall attempts across time rather than massing them together. In practice, learners answer questions, solve problems, or summarize material from memory at intervals that grow progressively longer (e.g., one day, then three days, then a week), with feedback provided after each attempt.
 

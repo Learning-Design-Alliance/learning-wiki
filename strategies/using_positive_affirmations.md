@@ -10,6 +10,8 @@ generated:
 
 # Using Positive Affirmations
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Using positive affirmations is a strategy in which learners identify negative messages from their inner voice and deliberately replace them with positive statements of self-worth, capability, or growth ("I can improve with practice," "I belong in this class"). Affirmations may be self-generated or drawn from pre-made lists, and are typically rehearsed at regular intervals — at the start of a day, before a challenging task, or during reflection. The strategy draws on self-affirmation theory, which holds that affirming core personal values buffers defensive responses to threat and supports openness to learning [Cohen & Sherman, 2014](https://doi.org/10.1177/1088868314534648) [+M].
 

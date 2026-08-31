@@ -10,6 +10,8 @@ generated:
 
 # Questioning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Questioning is the deliberate use of teacher- and learner-posed questions to elicit thinking, assess understanding, and drive discussion. Effective questioning yields immediate feedback on student understanding, supports informal and formative assessment, and captures feedback on the effectiveness of teaching strategies. It opens opportunities for students to discuss, argue, and express alternative points of view, and can create links between content and students' lives.
 

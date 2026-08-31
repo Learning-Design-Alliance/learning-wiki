@@ -10,6 +10,8 @@ generated:
 
 # Graphic Organizers for Retrieval Practice
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Students first recall as much as they can about a topic from memory — a "brain dump" — and then sort, cluster, and structure that retrieved information into a graphic organizer such as a timeline, concept map, or comparison matrix. Afterwards, they check against source texts to confirm, correct, or add information, which consolidates the retrieval benefit while making knowledge gaps visible.
 

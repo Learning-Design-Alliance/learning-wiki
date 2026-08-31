@@ -10,6 +10,8 @@ generated:
 
 # Listen to the Voices of Students
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Providing students authorship and allowing them to share their stories empowers them, fostering agency and leadership. This approach disrupts traditional classroom power dynamics by treating student perspectives as legitimate instructional content — students shape discussion topics, project directions, and classroom norms rather than merely responding to teacher-initiated prompts. It is carried out through structured sharing formats, student-led discussion, and authentic authorship opportunities in which learners' lived experiences become part of the curriculum.
 

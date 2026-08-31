@@ -10,6 +10,8 @@ generated:
 
 # Find the Total
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners are shown two dot cards and asked to find the total number of dots. In a number-talk format, learners then explain *how* they found the total, making addition strategies (counting all, counting on, making ten, doubles) visible and comparable across the class. The activity pairs a concrete, subitizable visual with verbal strategy articulation, building fluency and part-whole understanding simultaneously.
 

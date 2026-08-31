@@ -15,6 +15,8 @@ sources:
 
 # Self-Regulation
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Self-regulation is the short-form canonical target for instructional designs that help learners plan, monitor, and adjust behavior, effort, and strategy over time.
 

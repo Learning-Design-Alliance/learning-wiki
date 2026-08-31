@@ -21,6 +21,8 @@ grain_size: course
 
 # Flipped Classroom
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Flipped Classroom is a pattern that shifts some direct instruction or initial content acquisition outside class so that class time can be used for application, discussion, problem solving, and feedback. The key design move is not simply assigning video before class; it is reallocating synchronous time toward higher-value interaction and practice.
 

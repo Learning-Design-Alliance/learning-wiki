@@ -10,6 +10,8 @@ generated:
 
 # Break Tasks Into Pieces
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Breaking tasks into pieces means decomposing a complex task into smaller, sequenced sub-tasks, each with a clear goal, completion criterion, and checkpoint. Learners complete one piece at a time — often with a short break or review between pieces — rather than attempting the whole task in a single sitting. The strategy reduces perceived workload and overwhelm, and is especially useful for learners with attention or executive-function difficulties.
 

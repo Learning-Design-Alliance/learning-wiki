@@ -11,6 +11,8 @@ evidence_strength:
 
 # Active Learning Improves Exam Performance
 
+> **Claim** · [All claims](index.md)
+
 Students taught through active-learning approaches (e.g., in-class problem-solving, discussion, peer instruction) tend to perform better on examinations than students taught through traditional lecture alone.
 
 ## Subclaims

@@ -10,6 +10,8 @@ generated:
 
 # Reading Laterally
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Reading Laterally is the practice of verifying information by leaving the original source and consulting multiple external sources to evaluate its credibility before engaging deeply with its content. Rather than examining a website's "About Us" page or internal links (vertical reading), lateral readers open new tabs to investigate what independent, reputable sources say about the original source's expertise, reputation, and potential biases. Professional fact-checkers read "laterally," across many connected sites instead of digging deep into the site at hand, allowing them to reach warranted judgments in a fraction of the time vertical readers require.
 

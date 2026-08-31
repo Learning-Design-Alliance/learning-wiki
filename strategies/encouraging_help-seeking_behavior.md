@@ -10,6 +10,8 @@ generated:
 
 # Encouraging Help-Seeking Behavior
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Encouraging help-seeking behavior means deliberately building the norms, routines, and tools that make asking for assistance a normal, low-cost part of learning rather than a face-threatening act. Adaptive help-seeking — recognizing a difficulty, formulating a specific question, and directing it to an appropriate source (teacher, peer, or resource) — is itself a learnable self-regulated learning skill, not merely a personality trait. The strategy operates on two levels: shaping classroom culture so help-seeking is not stigmatized, and teaching the *how* of effective help-seeking (asking specific, instrumental questions rather than "just give me the answer").
 

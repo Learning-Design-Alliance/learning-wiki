@@ -10,6 +10,8 @@ generated:
 
 # Leveled Text Reading
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Leveled text reading assigns learners texts calibrated to their assessed reading level — typically via a gradient system such as Fountas & Pinnell's A–Z, Lexile measures, or decodability ratings — so that students read material they can process with minimal support. Texts are revisited at increasing levels as assessment shows growth, often within small-group "guided reading" structures where the teacher supports the group between a shared introduction and independent reading.
 

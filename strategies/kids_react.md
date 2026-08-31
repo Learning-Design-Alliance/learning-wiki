@@ -10,6 +10,8 @@ generated:
 
 # Kids React
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Perform an online image search for a charged everyday term (the original uses "school lunch"), project the results or distribute them as handouts, and have students attend to one image at a time. Students signal an immediate emotional reaction — a face, or thumbs up, down, or sideways — and the teacher charts the class's responses. The class then discusses what assumptions each reaction rested on, and students write individually about the assumptions a person might make from a simple image search.
 

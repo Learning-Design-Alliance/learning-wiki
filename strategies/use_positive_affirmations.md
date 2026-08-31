@@ -10,6 +10,8 @@ generated:
 
 # Use Positive Affirmations
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Positive affirmations are short, self-referential statements ("I am capable of solving hard problems") that learners repeat or reflect on to counter negative self-talk. The strategy draws on two distinct literatures: *self-affirmation theory*, in which reflecting on core personal values protects self-integrity under threat [Cohen & Sherman, 2014](https://doi.org/10.1146/annurev-psych-010213-115137) [+S], and *positive self-statements*, in which learners directly assert positive qualities — a practice with much weaker and more conditional support [+W].
 

@@ -10,6 +10,8 @@ generated:
 
 # Writing Across The Curriculum
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Writing Across The Curriculum (WAC) is a whole-program strategy in which writing is treated as a learning tool in every discipline, not solely as an assessed product in English/language arts. It typically combines *writing-to-learn* tasks (journals, low-stakes in-class writing, informal explanations) with *writing-in-the-disciplines* tasks (lab reports, case analyses, argumentative essays) that teach disciplinary genres and norms. Faculty across departments assign, scaffold, and respond to writing rather than delegating it to composition courses.
 

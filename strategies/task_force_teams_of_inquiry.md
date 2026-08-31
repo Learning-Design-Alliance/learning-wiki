@@ -10,6 +10,8 @@ generated:
 
 # Task Force Teams of Inquiry
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Task force teams of inquiry organize learners into small, mission-driven teams, each of which selects a topic from a class-generated brainstorm list. The team's mission is to explore, research, and present on that topic, typically culminating in a public product such as a report, presentation, or recommendation. The teacher frames the inquiry, connects it to relevant standards, and facilitates rather than directs the investigation.
 

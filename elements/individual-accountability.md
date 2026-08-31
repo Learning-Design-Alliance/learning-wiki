@@ -10,6 +10,8 @@ generated:
 
 # Individual Accountability
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Individual accountability is the design feature of cooperative learning that makes each group member personally responsible for a distinct portion of the work and for mastering the material. It functions as the counterweight to [Collaborative Learning](../principles/collaborative-learning.md): without it, group structures can allow some learners to ride on others' effort while learning little themselves.
 

@@ -10,6 +10,8 @@ generated:
 
 # Tactile Toys for Sensory Integration
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Tactile toys — fidgets, stress balls, textured objects, putty, tangle toys — are small manipulable objects given to learners to occupy the hands and provide sensory input during instruction. The rationale draws on sensory integration theory: some learners, particularly those with ADHD or autism spectrum conditions, may regulate arousal and attention through self-directed tactile stimulation, and an appropriate toy may substitute for more disruptive fidgeting. Unlike most learning strategies, the evidence here is thin and conditional; this page treats tactile toys as a low-cost [accommodation](../elements/accommodations.md) to be trialed and monitored, not an established intervention.
 

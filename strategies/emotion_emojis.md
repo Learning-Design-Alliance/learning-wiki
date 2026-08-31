@@ -10,6 +10,8 @@ generated:
 
 # Emotion Emojis
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Students express how they are feeling by drawing or selecting an emoji at the start of a lesson or check-in point. Volunteers then share their emoji and explain how it reflects their current feelings, converting a private affective state into a brief, low-stakes public signal the instructor can respond to.
 

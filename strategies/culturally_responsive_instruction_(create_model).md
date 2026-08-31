@@ -10,6 +10,8 @@ generated:
 
 # Culturally Responsive Instruction (CREATE Model)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Culturally responsive instruction uses students' cultural knowledge, prior experiences, language practices, and frames of reference as conduits for learning academic content rather than as obstacles to it. The CREATE model operationalizes this by making standards-based content accessible through relatable aspects of students' daily lives — student-centered stories, vocabulary, and language — while infusing interests such as hip hop, sports, and community experiences in ways that feel authentic rather than performative. The goal is empowerment across intellectual, social, emotional, and political dimensions, not merely engagement.
 

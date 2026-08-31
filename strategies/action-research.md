@@ -10,6 +10,8 @@ generated:
 
 # Action Research
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Action research is a cyclical inquiry process in which practitioners (usually teachers) systematically study their own practice: they identify a problem, plan and implement an intervention, collect evidence of its effects, and reflect on the results before planning the next cycle. The classic cycle is plan → act → observe → reflect, repeated iteratively [Lewin, 1946]. Unlike external evaluation, the practitioner is both the researcher and the beneficiary of the findings, and the knowledge produced is situated in a specific context rather than intended as generalizable causal claims.
 

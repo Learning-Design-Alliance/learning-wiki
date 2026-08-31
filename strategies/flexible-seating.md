@@ -10,6 +10,8 @@ generated:
 
 # Flexible Seating
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Flexible seating replaces rows of identical desks with a range of options — couches, floor pillows, standing tables, stools, buckets — and gives learners the choice of where to sit. The choice is typically tied to the task: collaborative work at large tables, quiet reading in a corner, discussion in a circle. The instructor's role shifts from assigning seats to teaching learners to make strategic choices about their own working conditions.
 

@@ -16,6 +16,8 @@ evidence_strength: moderate
 
 # Example-problem sequences reduce cognitive load and improve learning outcomes.
 
+> **Claim** · [All claims](index.md)
+
 Learners who study worked examples before or interleaved with practice problems tend to learn more efficiently than learners who only solve problems.
 
 ## Subclaims

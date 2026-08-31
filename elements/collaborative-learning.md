@@ -10,6 +10,8 @@ generated:
 
 # Collaborative Learning
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Collaborative learning organizes learners into structured teams that jointly solve problems, complete tasks, and construct shared understanding. The structure matters as much as the grouping: effective designs assign roles, interdependence, and individual accountability rather than simply seating learners together.
 

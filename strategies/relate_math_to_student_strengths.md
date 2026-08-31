@@ -10,6 +10,8 @@ generated:
 
 # Relate Math to Student Strengths
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy anchors new mathematical content in domains where a student already demonstrates competence — sports statistics, music, gaming, crafts, commerce, or community practices — and frames the math as an extension of that competence rather than a replacement for it. It is carried out through strength-based task design: teachers inventory student interests and funds of knowledge, then select or adapt problems, contexts, and representations that recruit those assets. The goal is both motivational (positioning students as capable) and cognitive (giving new concepts a familiar structure to attach to).
 

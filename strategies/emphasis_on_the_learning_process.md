@@ -10,6 +10,8 @@ generated:
 
 # Emphasis on the Learning Process
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy shifts learner attention from outcomes (grades, scores, rankings) toward the processes that produce learning — effort, strategy use, revision, and self-monitoring. It is enacted through process-focused feedback, reflective discussion, and assessment practices that reward improvement and strategy quality. Without this emphasis, learners may base self-perceptions of ability on grades alone, which promotes a fixed mindset and avoidance of challenge.
 

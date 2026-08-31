@@ -10,6 +10,8 @@ generated:
 
 # Equity Audits
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 An equity audit is a structured examination of a course, program, or learning environment to surface disparities in access, opportunity, representation, and outcomes across learner groups. It combines disaggregated outcome data (completion, grades, engagement by demographic group) with a review of design artifacts — examples used, images, language, assessment formats, participation structures — to locate where the design itself, rather than learner deficit, produces unequal results. Findings feed a concrete revision plan with measurable equity targets.
 

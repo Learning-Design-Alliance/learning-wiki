@@ -10,6 +10,8 @@ generated:
 
 # Student-Generated Problems
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Student-generated problems ask learners to author problems, questions, or tasks based on the concepts they are studying, rather than only solving problems supplied by the instructor. Authoring requires learners to identify the deep structure of a concept — what makes a problem solvable, what quantities or relationships matter, and what makes a distractor plausible. Problems are typically exchanged with peers, who solve them and give feedback, closing the loop between generation and application.
 

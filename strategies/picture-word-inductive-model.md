@@ -10,6 +10,8 @@ generated:
 
 # Picture Word Inductive Model
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The Picture Word Inductive Model (PWIM), developed by Emily Calhoun, uses a large, content-rich picture as the anchor for literacy instruction. Students identify objects and actions in the picture, the teacher labels them to create a "picture-word chart," and students then classify the words by shared attributes (spelling patterns, parts of speech, meaning), construct sentences from them, and eventually write paragraphs and titles. Knowledge of letters, sounds, spelling, and sentence structure is built *inductively* — students discover patterns from words they already associate with a meaningful image — rather than through a pre-sequenced phonics scope.
 

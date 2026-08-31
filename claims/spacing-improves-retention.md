@@ -11,6 +11,8 @@ evidence_strength: strong
 
 # Spacing Improves Retention
 
+> **Claim** · [All claims](index.md)
+
 Repeating study or practice episodes across multiple sessions separated in time produces stronger long-term retention than massing the same amount of practice into a single session.
 
 ## Subclaims

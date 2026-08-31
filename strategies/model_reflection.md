@@ -10,6 +10,8 @@ generated:
 
 # Model Reflection
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Students need to encounter reflective role models. Modeling reflection can involve reflecting on a workshop session: teachers share journal excerpts that model evidence of good listening, probing for clarity, asking thoughtful questions, and voicing metacognitive thinking. Through experience and continuous modeling, the class learns to use habits of mind in reflective conversations, strengthening transfer to the internal voice of reflection.
 

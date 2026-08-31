@@ -10,6 +10,8 @@ generated:
 
 # Modeling Writing And Revising
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Modeling writing and revising means the instructor writes — or rewrites — text in front of learners while thinking aloud, verbalizing choices about audience, structure, word selection, and revision. Because writing processes are largely covert, modeling externalizes them so learners can observe how a writer generates, evaluates, and improves text rather than only seeing polished final products.
 

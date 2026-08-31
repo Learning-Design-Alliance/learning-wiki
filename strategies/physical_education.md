@@ -10,6 +10,8 @@ generated:
 
 # Physical Education
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Physical Education (PE) is a curricular domain and instructional strategy in which learners acquire motor skills, tactical understanding, and health-related knowledge through structured movement tasks. Effective PE sequences [Demonstration](../elements/demonstration.md), guided [Practice](../elements/practice.md), and [Coaching](../elements/coaching.md) within progressively modified game or performance contexts, rather than relying on drill alone.
 

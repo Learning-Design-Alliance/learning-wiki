@@ -10,6 +10,8 @@ generated:
 
 # Parental Modeling of Reading
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Parents demonstrate the value of reading by being visible readers themselves — reading books, magazines, or newspapers regularly in the presence of their children. This normalizes reading as a daily, valued activity and conveys its importance without direct instruction. The mechanism is observational: children acquire attitudes, habits, and self-concepts as readers by watching the adults around them [Bandura, A. (1977). *Social learning theory*.](../theories/social-learning-theory.md) [+M].
 

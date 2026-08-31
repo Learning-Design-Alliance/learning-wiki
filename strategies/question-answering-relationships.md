@@ -10,6 +10,8 @@ generated:
 
 # Question Answering Relationships
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Question Answering Relationships (QAR), developed by Taffy Raphael, teaches learners to categorize questions into types based on the source of the answer: **Right There** (answer stated in one place in the text), **Think and Search** (answer assembled from multiple places in the text), **Author and Me** (answer requires combining text information with prior knowledge), and **On My Own** (answerable from prior knowledge alone, without the text). Learners first learn to label question types, then to use the classification to decide how to search for and construct answers. The strategy makes the otherwise tacit relationship between questions, texts, and the reader's own knowledge explicit and teachable.
 

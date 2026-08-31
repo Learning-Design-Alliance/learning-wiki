@@ -10,6 +10,8 @@ generated:
 
 # Jigsaw Reading
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Jigsaw Reading is a cooperative structure in which a text is divided into segments and each member of a "home" group is assigned a different segment. Learners first meet in temporary "expert" groups with others who read the same segment to deepen comprehension, then return to their home groups and teach their segment to teammates, so that no learner can complete the task without contributions from every member. The interdependence is structural: each learner holds a unique piece, making listening and explaining mandatory rather than optional.
 

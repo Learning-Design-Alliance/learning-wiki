@@ -10,6 +10,8 @@ generated:
 
 # Identify Key Background Knowledge in Math Problems
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Before teaching a math problem, the teacher systematically identifies the background knowledge — vocabulary, cultural references, real-world contexts, and prerequisite concepts — that learners need to comprehend the problem statement itself, separate from the target mathematics. The teacher brainstorms the questions learners might ask (both relevant and irrelevant), then plans how to supply the missing knowledge. This area is especially powerful for collaboration between math teachers and ELL/ESL specialists.
 

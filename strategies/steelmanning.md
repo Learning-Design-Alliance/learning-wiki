@@ -10,6 +10,8 @@ generated:
 
 # Steelmanning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Steelmanning asks learners to articulate the most compelling, charitable version of an opposing position — stronger than its typical advocates state it — before responding to it. It is carried out by having learners research, reconstruct, and often *argue for* the view they reject, then compare that reconstruction against their critique. It inverts the more common "straw man" pattern of engaging with weakened versions of opposing claims.
 

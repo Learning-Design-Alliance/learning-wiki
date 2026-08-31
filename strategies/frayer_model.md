@@ -10,6 +10,8 @@ generated:
 
 # Frayer Model
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The Frayer Model (Frayer, Frederick, & Klausmeier, 1969) is a graphic organizer divided into four quadrants surrounding a target concept: a definition, key characteristics or attributes, examples, and non-examples. Learners complete the organizer themselves — individually or in discussion — rather than receiving it pre-filled, forcing them to discriminate the concept's boundaries rather than merely restate a glossary definition.
 

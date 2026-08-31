@@ -10,6 +10,8 @@ generated:
 
 # Unit Planning with Graphic Organizers
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 When introducing a unit to students, the teacher presents a graphic organizer — a concept map, flowchart, timeline, or structured diagram — showing how the unit's topics, lessons, and assessments fit together. The organizer is displayed throughout the unit and referenced as each new segment begins, so students can locate the current lesson within the larger structure and understand why they are learning each individual part. The act of building the organizer also forces the teacher to decide what is essential versus "nice to know."
 

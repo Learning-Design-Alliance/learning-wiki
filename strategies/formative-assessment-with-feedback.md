@@ -31,6 +31,8 @@ sources:
 
 # Formative Assessment With Feedback
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Formative assessment is the process of eliciting evidence of student understanding *during* instruction — before grades are final and while teaching can still respond — and interpreting that evidence against explicit learning goals. The feedback component closes the loop: it tells learners where they are relative to the goal, what the gap is, and what to do next. The strategy is carried out through low-stakes checks (quizzes, drafts, exit tickets, discussion probes), timely feedback on that evidence, and instructional adjustment by both teacher and learner.
 

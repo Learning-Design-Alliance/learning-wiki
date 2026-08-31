@@ -23,6 +23,8 @@ sources:
 
 # Discussion Sections
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Discussion sections are smaller, instructor- or TA-led sessions in which learners analyze, question, and debate course material in depth, typically complementing lectures. They function as the interactive component of a course: learners articulate and defend interpretations, surface misconceptions, and co-construct understanding through structured dialogue.
 

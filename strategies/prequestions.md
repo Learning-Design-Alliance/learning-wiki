@@ -10,6 +10,8 @@ generated:
 
 # Prequestions
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Prequestions are questions posed to learners *before* they receive instruction on the target content — typically as a quiz, clicker question, or opening prompt. Learners usually answer incorrectly or guess, and the act of attempting an answer prepares them to encode the correct information more deeply when it is subsequently presented. This is the classroom application of the **pretesting effect**: errors made during pretesting do not impair learning; they enhance it [Kornell et al. found that unsuccessful retrieval attempts before study improved later retention.](https://doi.org/10.1037/a0016577) [+S].
 

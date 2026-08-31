@@ -11,6 +11,8 @@ evidence_strength: insufficient
 
 # Peer Assessment Improves Academic Performance
 
+> **Claim** · [All claims](index.md)
+
 When learners evaluate one another's work against explicit criteria, the act of judging quality deepens their own understanding and can raise performance on subsequent tasks. The claim covers both directions of the exchange — giving and receiving peer feedback — and treats peer assessment as a formative practice rather than a grading mechanism.
 
 ## Subclaims

@@ -10,6 +10,8 @@ generated:
 
 # Dramatic Play
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Dramatic play, also known as pretend play or sociodramatic play, is a learning strategy in which learners take on imagined roles and act out scenarios — reenacting stories, running a pretend store, or playing doctor — experimenting with social and emotional roles through imagination. Learners negotiate roles, take turns, share responsibility, and solve problems that arise within the scenario. Prop boxes or themed corners (old clothes, cooking utensils, writing materials) enrich the play and scaffold the pretend frame.
 

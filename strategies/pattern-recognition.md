@@ -10,6 +10,8 @@ generated:
 
 # Pattern Recognition
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Pattern recognition as a strategy presents learners with multiple, deliberately varied instances of a concept, procedure, or problem type and asks them to identify what the instances share and how they differ. Rather than telling learners the defining features up front, the strategy has them extract the underlying structure themselves — surface features vary, deep structure repeats. It is carried out through example sets, comparison tasks, sorting or classification activities, and prompts that ask "what makes these the same kind of problem?"
 

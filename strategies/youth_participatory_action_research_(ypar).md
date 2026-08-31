@@ -10,6 +10,8 @@ generated:
 
 # Youth Participatory Action Research (YPAR)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Youth Participatory Action Research (YPAR) positions young people as co-researchers who investigate problems affecting their own communities, analyze evidence, and act on findings. Unlike adult-led research about youth, YPAR democratically engages participants in research design, methods, and analysis, drawing on their lived experience as expertise. The cycle typically moves from identifying a problem, through systematic inquiry, to dissemination and action aimed at institutional or community change.
 

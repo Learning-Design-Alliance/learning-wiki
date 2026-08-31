@@ -10,6 +10,8 @@ generated:
 
 # Authors' Chair
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The Authors' Chair is a writing-workshop routine in which a student sits in a designated chair and reads a piece of their own writing aloud to the class, then fields questions, comments, and feedback from peers. Developed by Donald Graves and Jane Hansen within the process-writing movement, it positions students as real authors writing for an authentic audience rather than producing work solely for the teacher.
 

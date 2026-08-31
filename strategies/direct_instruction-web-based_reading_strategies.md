@@ -10,6 +10,8 @@ generated:
 
 # Direct Instruction Web Based Reading Strategies
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy applies [Direct Instruction](direct-instruction.md) to the specific demands of reading on the internet: navigating hyperlinks, evaluating source credibility, handling multiple open texts, and integrating information across pages. The instructor explicitly names, models, and sequences these strategies — often through screen-shared [Think-Alouds](../elements/think-aloud.md) — then guides practice before releasing learners to independent application. It treats web reading as a distinct skill set rather than an automatic extension of print reading.
 

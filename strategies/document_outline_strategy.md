@@ -10,6 +10,8 @@ generated:
 
 # Document Outline Strategy
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Using the "Document outline" tool in Google Docs, students identify the main ideas in a text and the evidence supporting them, then encode that structure as headings. A main idea becomes a "Heading 1"; each summarized piece of supporting evidence becomes a "Heading 2" placed at the relevant sentence or paragraph. When complete, the outline can be exported to a table of contents at the top of the document, and each heading acts as a hyperlink that jumps to the corresponding passage — turning the finished outline into a navigable map of the text and a jumping-off point for writing.
 

@@ -10,6 +10,8 @@ generated:
 
 # Zoom In
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Zoom In is a thinking routine in which learners are shown a small, cropped section of a rich image (a painting, photograph, historical scene, or diagram) and asked to observe, speculate, and generate questions. The view is progressively expanded in stages, and at each stage learners revise their interpretations in light of the new evidence. The full image is revealed last, followed by a synthesis discussion about how thinking changed as evidence accumulated.
 

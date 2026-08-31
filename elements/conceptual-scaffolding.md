@@ -15,6 +15,8 @@ sources:
 
 # Conceptual Scaffolding
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Conceptual scaffolding is the element in which learners are given temporary structures, prompts, or representations that help them understand the underlying ideas of a domain before handling them independently. It is useful when the challenge is conceptual complexity rather than only procedural execution.
 

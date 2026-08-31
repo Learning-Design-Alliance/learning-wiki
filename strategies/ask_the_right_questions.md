@@ -10,6 +10,8 @@ generated:
 
 # Ask the Right Questions
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Before hitting "share," learners interrogate a source with a compact question set: Who made this? How was it made? Why was it made? When was it made? What is it missing? Where do I go from here? The strategy draws on WNYC's *On the Media* "Breaking News Consumer's Handbook" and NewseumED's *Believe It Or Not?* lesson, which walk teachers and learners through basic news literacy using real online sources.
 

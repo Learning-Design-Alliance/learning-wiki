@@ -10,6 +10,8 @@ generated:
 
 # Brainstorming 'Stuff We Want to Know About'
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners and instructors co-create an ongoing list of questions and topics of interest related to course content, typically generated from a stimulus (a phenomenon, text, image, or event) and maintained publicly across a unit or term. The list functions as both a motivational device — giving learners voice and choice — and an instructional map, since selected questions can drive inquiry projects, case explorations, and discussions.
 

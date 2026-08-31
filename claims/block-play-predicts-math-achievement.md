@@ -11,6 +11,8 @@ evidence_strength: weak
 
 # Block Play Predicts Math Achievement
 
+> **Claim** · [All claims](index.md)
+
 Children's spatial construction skill with blocks and other building materials is associated with later mathematics achievement, and structured block play may support spatial and mathematical development.
 
 The claim is deliberately predictive rather than causal: the evidentiary base is dominated by correlational and longitudinal studies, with a smaller and thinner set of intervention studies. Block play should be treated as a promising, low-cost spatial activity — not a validated mathematics intervention.

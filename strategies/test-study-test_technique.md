@@ -10,6 +10,8 @@ generated:
 
 # Test-Study-Test Technique
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The Test-Study-Test (TST) technique is a structured spelling cycle: students first attempt to write the target words from dictation (pretest), then immediately compare their attempts against correct spellings and correct their own errors, study the corrected forms, and finally take a posttest on the same words. The pretest functions as a retrieval attempt whose errors become the focus of study, converting assessment into the primary learning event rather than a measurement of prior learning.
 

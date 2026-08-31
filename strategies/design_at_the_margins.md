@@ -10,6 +10,8 @@ generated:
 
 # Design at the Margins
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Design at the Margins is an equity-centered design strategy in which educators deliberately design for students at the edges of a school community — those disempowered by race, poverty, language status, or family circumstance — rather than for the perceived average student. It rests on the "curb-cut" premise: what works for those at the margins will benefit all learners. The work involves identifying marginalized students (e.g., students of color, English learners, students receiving interventions, those experiencing family trauma or long commutes), understanding their lived experience through empathy interviews and student shadowing, and centering race explicitly in the analysis. It favors deliberate process over urgency, ensuring solutions are equity-centered rather than reactive.
 

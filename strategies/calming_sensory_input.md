@@ -10,6 +10,8 @@ generated:
 
 # Calming Sensory Input
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Calming sensory input gives learners access to sensory experiences that reduce physiological arousal and support self-regulation: tactile bins filled with sand, rice, or beans; weighted blankets or stuffed animals for deep pressure; chewy pendants or crunchy snacks for oral input; and white noise or calming music for auditory regulation. The strategy treats regulation as a precondition for learning — a dysregulated learner cannot attend, encode, or persist — and embeds sensory regulation tools into the learning environment rather than treating dysregulation as misbehavior.
 

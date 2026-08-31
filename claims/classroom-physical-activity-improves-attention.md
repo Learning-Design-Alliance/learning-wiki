@@ -11,6 +11,8 @@ evidence_strength:
 
 # Classroom Physical Activity Improves Attention
 
+> **Claim** · [All claims](index.md)
+
 Brief bouts of physical activity integrated into classroom instruction — movement breaks, active lessons, standing or walking tasks — produce short-term improvements in students' [attention](../elements/attention.md) and on-task behavior.
 
 ## Subclaims

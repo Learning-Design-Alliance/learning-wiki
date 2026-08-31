@@ -11,6 +11,8 @@ evidence_strength: none
 
 # Split Attention Effect Degrades Learning
 
+> **Claim** · [All claims](index.md)
+
 When learners must mentally integrate information that is physically or temporally separated — such as a diagram and its explanatory text presented apart — working memory resources are consumed by search-and-match processes, degrading learning relative to integrated presentations.
 
 ## Subclaims

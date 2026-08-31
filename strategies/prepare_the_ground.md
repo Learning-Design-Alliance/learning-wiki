@@ -10,6 +10,8 @@ generated:
 
 # Prepare the Ground
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Preparing the ground is the deliberate work done *before* a difficult conversation — especially about race, identity, or injustice — to make that conversation productive rather than harmful. It includes building relational trust over time, co-constructing discussion agreements, establishing a shared factual and conceptual vocabulary, and surfacing participants' prior beliefs so the dialogue starts from common ground rather than ambush.
 

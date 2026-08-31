@@ -10,6 +10,8 @@ generated:
 
 # Character Profile Creation
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Students create character profiles — structured artifacts capturing a character's traits, motivations, relationships, and development — to deepen comprehension of narrative texts. Profiling can include listing adjectives with textual evidence, illustrating characters, writing reflections on motivations, and describing personal responses to the character. The act of constructing the profile requires students to infer, synthesize, and organize information that the text presents implicitly.
 

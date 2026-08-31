@@ -10,6 +10,8 @@ generated:
 
 # Submission
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Submission is the act of learners delivering completed or in-progress work for evaluation, feedback, or peer review. It functions as a structured checkpoint that makes learning visible to instructors and to learners themselves, converting private effort into an assessable artifact.
 

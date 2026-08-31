@@ -10,6 +10,8 @@ generated:
 
 # Using Empathy Interviews for Family Engagement
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Empathy interviews are targeted, one-on-one conversations with a small, purposive sample of family members to learn from their lived experiences of schooling. Borrowed from human-centered design practice (notably the [Stanford d.school Bootcamp Bootleg](https://dschool.stanford.edu/resources)), the method prioritizes open-ended "tell me about a time…" questions over surveys or checklists, letting interviewees define what matters. In school settings, the collected stories drive district and school decisions, build trust, and strengthen family–school relationships — the listening itself is an engagement act, not just a data-collection step.
 

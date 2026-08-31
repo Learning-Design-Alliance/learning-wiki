@@ -11,6 +11,8 @@ evidence_strength: unrated
 
 # Peer Assessment Improves Achievement
 
+> **Claim** · [All claims](index.md)
+
 Involving learners in evaluating the work of peers — with rubrics, criteria, or structured feedback protocols — can raise achievement, both through the feedback received and through the learning that occurs while judging others' work.
 
 ## Subclaims

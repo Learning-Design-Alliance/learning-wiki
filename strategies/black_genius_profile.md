@@ -10,6 +10,8 @@ generated:
 
 # Black Genius Profile
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The Black Genius Profile is a structured instrument through which parents, caregivers, and educators capture Black learners' strengths across six dimensions: Interest Awareness, Racial Identity, Social Justice, Multi-cultural Navigation, Selective Trust, and Can-do Attitude. The profile is completed collaboratively with the child, who reflects on guided questions about their interests, skills, expectations, and growth areas. It functions simultaneously as an advocacy tool (informing school-based decisions), a cultural tool (affirming identity), and a personal learning tool (surfacing strengths that instruction can build on).
 

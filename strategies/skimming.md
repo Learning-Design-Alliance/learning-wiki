@@ -10,6 +10,8 @@ generated:
 
 # Skimming
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Skimming is a pre-reading strategy in which learners rapidly survey a text — headings, subheadings, captions, figures, bolded terms, and summaries — to build a preliminary map of its structure and key points before reading it thoroughly. For younger students this often takes the form of a "picture walk" through illustrated pages. The goal is not comprehension of detail but activation of relevant knowledge and formation of expectations that subsequent reading can confirm or revise.
 

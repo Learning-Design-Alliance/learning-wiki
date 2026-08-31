@@ -10,6 +10,8 @@ generated:
 
 # Four Moves
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The Four Moves — popularized by Mike Caulfield as **SIFT** — are a lightweight routine for evaluating the credibility of online information: **Stop** (notice your emotional reaction and resist acting on first impressions), **Investigate the source** (read *laterally*, leaving the page to learn what others say about it), **Find better coverage** (look for trusted reporting on the claim itself rather than judging the site in isolation), and **Trace claims, quotes, and media to the original context** (find the primary study, transcript, or image). The routine is carried out in seconds to minutes using browser tabs and search, mirroring how professional fact-checkers actually work. It replaces the common classroom habit of judging a page by its own surface features — design, domain suffix, "About" page — with the practice of checking what the rest of the web says.
 

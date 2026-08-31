@@ -10,6 +10,8 @@ generated:
 
 # Instructor Presence In Discussions
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Instructor presence in discussions means the teacher participates visibly in learner-to-learner discourse: framing prompts, probing responses, synthesizing threads, correcting misconceptions, and modeling disciplinary reasoning. It is a core component of [Community of Inquiry](../principles/community-of-inquiry.md), where "teaching presence" — the design and facilitation that moves a conversation toward learning outcomes — predicts perceived learning and satisfaction in online and blended settings [+M].
 

@@ -10,6 +10,8 @@ generated:
 
 # Decodable Text Reading Practice
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Decodable texts are passages in which the majority of words are restricted to grapheme–phoneme correspondences that have been explicitly taught, plus a small controlled set of irregular high-frequency words. Learners read these texts aloud after receiving phonics instruction, so that every word encountered is one they can sound out rather than guess from pictures, context, or memorization. The practice consolidates letter–sound knowledge into fluent word recognition through repeated successful application.
 

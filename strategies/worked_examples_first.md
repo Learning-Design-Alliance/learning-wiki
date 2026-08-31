@@ -23,6 +23,8 @@ sources:
 
 # Worked_Examples_First
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Worked_Examples_First sequences instruction so that learners encounter one or more fully worked solutions — with reasoning made explicit — *before* attempting problems on their own. The strategy replaces early unguided problem solving, where novices flounder in means-ends search, with careful study of expert solutions, followed by paired practice and progressive fading of support.
 

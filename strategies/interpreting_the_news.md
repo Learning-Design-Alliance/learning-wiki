@@ -10,6 +10,8 @@ generated:
 
 # Interpreting the News
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners select a current news item and examine how it is reported across multiple outlets, comparing framing, sourcing, and emphasis to infer the assumptions and perspectives of each reporter. The activity treats news texts as constructed artifacts rather than transparent windows on events, building media literacy, critical evaluation skills, and perspective-taking through structured comparison and discussion.
 

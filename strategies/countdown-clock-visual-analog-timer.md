@@ -10,6 +10,8 @@ generated:
 
 # Countdown Clock / Visual Analog Timer
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A countdown clock or visual analog timer helps learners see how time is broken into chunks and visualize its passage. Unlike a digital clock, which requires reading numerals and computing remaining time, an analog visual timer shows time as a shrinking colored disk or bar — the amount of color remaining *is* the amount of time left. This converts an abstract, symbolic quantity into a directly perceptible one, supporting time estimation, task pacing, and transitions.
 

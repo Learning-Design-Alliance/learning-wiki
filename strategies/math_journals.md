@@ -10,6 +10,8 @@ generated:
 
 # Math Journals
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Math journals are a way to gauge a student's understanding of particular math concepts. Students use their math journals to explain their reasoning, communicate perceived strengths and personal concerns, and reflect on their learning experiences in response to journal prompts. Teachers check the journals periodically and provide individual feedback, making the journal a formative assessment tool as well as a writing-to-learn vehicle.
 

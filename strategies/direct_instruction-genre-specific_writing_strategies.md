@@ -10,6 +10,8 @@ generated:
 
 # Direct Instruction: Genre-specific Writing Strategies
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy makes the features of a target genre — its purpose, audience, structure, and language conventions — explicit, then teaches the planning, drafting, and revising strategies expert writers use within that genre. Instruction typically proceeds through explanation, [modeling](../elements/modeling.md) of a mentor text, guided practice, and independent application. It is a core component of [explicit writing instruction](../patterns/direct-instruction.md) and is among the most consistently supported approaches in the writing intervention literature [Graham & Perin's meta-analysis found strategy instruction among the largest effects on writing quality.](../claims/strategy-instruction-improves-writing-quality.md) [+S]
 

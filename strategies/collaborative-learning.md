@@ -10,6 +10,8 @@ generated:
 
 # Collaborative Learning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Collaborative learning organizes instruction so that small groups of learners work interdependently toward a shared goal, constructing knowledge through explanation, negotiation, and mutual critique rather than receiving it individually. It differs from mere group seating: the task must require genuine joint work, and individual accountability must be preserved.
 

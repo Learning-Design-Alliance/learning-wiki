@@ -10,6 +10,8 @@ generated:
 
 # Restorative Questions
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Restorative questions are a small set of open-ended prompts used in restorative practices to elicit reflection from those who have caused harm and those affected by it. The canonical forms are: *What happened? What were you thinking at the time? Who has been affected and how? What do you need to do to make things right?* Rather than assigning blame or prescribing consequences, the facilitator holds the structure while the participants generate the account, the impact analysis, and the repair plan.
 

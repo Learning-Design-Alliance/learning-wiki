@@ -10,6 +10,8 @@ generated:
 
 # The Pencil Pledge
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The Pencil Pledge is a brief, repeated classroom ritual in which students make a public, voluntary commitment to care for shared materials — pencils, books, devices, communal space — and to act responsibly toward the learning environment. It is typically spoken aloud, signed, or otherwise made visible at the start of a term or learning session, then briefly re-invoked when materials are distributed. The pledge functions as a public commitment device: students bind their future behavior to a stated identity ("I am someone who takes care of our tools").
 

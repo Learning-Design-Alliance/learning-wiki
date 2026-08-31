@@ -10,6 +10,8 @@ generated:
 
 # Regular Text Referencing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Regular text referencing means deliberately and repeatedly returning to previously studied mentor texts — published works, exemplar student writing, or shared class texts — during conferences, mini-lessons, and discussions. Each return visit names the technique being studied, shows it in context, and prompts students to connect it to their own writing. The strategy converts a one-time exposure into spaced, elaborated review, and explicitly signals to students that the technique is reusable in future work.
 

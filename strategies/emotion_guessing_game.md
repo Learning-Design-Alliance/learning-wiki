@@ -10,6 +10,8 @@ generated:
 
 # Emotion Guessing Game
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 An emotion guessing game involves an instructor or student making an emotion face, and the others guess the emotion being expressed. After guessing, the group discusses situations that might evoke that emotion, connecting facial configurations to causes, labels, and social consequences. The game builds emotional vocabulary and nonverbal decoding skill through [active-learning](../principles/active-learning.md) rather than direct explanation.
 

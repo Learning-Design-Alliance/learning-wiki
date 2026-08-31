@@ -10,6 +10,8 @@ generated:
 
 # Focus on the Question They Answered Correctly
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Instead of focusing on a student's mistake, instructors identify the question the student answered correctly — even if it is not the one asked — and treat that answer as evidence of valid thinking. This approach assumes all student ideas are interesting and aims to value the student's reasoning. By locating what the student *did* understand, the instructor can then connect that correct understanding to the question the student did not answer, turning an error into a bridge rather than a failure.
 

@@ -11,6 +11,8 @@ evidence_strength: weak
 
 # Advance Organizers Improve Learning
 
+> **Claim** · [All claims](index.md)
+
 An advance organizer is introductory material presented before the main instruction that is pitched at a higher level of abstraction, inclusiveness, and generality than the learning content itself, providing an anchoring framework for new material (Ausubel, 1960). The claim is currently rated **weak**: the specific supporting studies have not yet been added to this page, and the historical evidence base is known to be mixed.
 
 ## Subclaims

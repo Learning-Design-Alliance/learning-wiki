@@ -11,6 +11,8 @@ evidence_strength:
 
 # Segmenting Improves Multimedia Learning
 
+> **Claim** · [All claims](index.md)
+
 Presenting continuous multimedia material (e.g., a narrated animation) in learner-paced segments rather than as a continuous unit reduces cognitive overload and improves learning.
 
 ## Subclaims

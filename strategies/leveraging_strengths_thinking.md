@@ -10,6 +10,8 @@ generated:
 
 # Leveraging Strengths Thinking
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Leveraging strengths thinking is a professional learning strategy in which school staff deliberately reframe families from sources of "risk" or "deficit" to sources of expertise, knowledge, and resources. Staff learn to identify, elicit, and build instruction on family funds of knowledge — the skills, practices, and cultural resources households already possess — rather than designing around perceived family shortcomings.
 

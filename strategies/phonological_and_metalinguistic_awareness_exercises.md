@@ -10,6 +10,8 @@ generated:
 
 # Phonological and Metalinguistic Awareness Exercises
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 These exercises develop learners' explicit awareness of the sound structure and word-formation rules of language. Students say words that begin with the same sound(s) in English or the L1, segment and blend phonemes, and discuss how words change in the home language (singular/plural, present/past tense). The goal is to make the sub-lexical machinery of reading — phonemes, morphemes, inflections — an object of conscious attention rather than an implicit skill.
 

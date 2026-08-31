@@ -10,6 +10,8 @@ generated:
 
 # Drawing and Memory Enhancement
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Drawing is a technique in which learners create their own pictorial representations of to-be-learned content — sketching a concept, process, or relationship — rather than viewing a provided image. It requires learners to process information visually, kinesthetically, and semantically: they must elaborate on the meaning of the concept and translate it into a new form (a picture). This active reconstruction produces stronger encoding than reading or listening alone, with the "drawing effect" showing reliable memory advantages over writing, imagining, or viewing [Drawing to learn improves recall relative to writing or reading.](../claims/dual-coding-improves-recall.md) [+S].
 

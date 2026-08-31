@@ -10,6 +10,8 @@ generated:
 
 # Emotion Hello Song
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The Emotion Hello Song is a routine opening activity in which the facilitator leads a familiar greeting song, but each verse or round is performed with a different emotion — happy, sad, angry, surprised, calm — expressed through voice, facial expression, and gesture. Learners name the emotion, imitate or perform it, and optionally share how they are feeling that day. It combines an emotional [check-in](../principles/check-ins.md) with embodied practice in emotion recognition and expression.
 

@@ -10,6 +10,8 @@ generated:
 
 # Emotion Password
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners are required to make a particular facial expression — the day's "password" — to enter the classroom or begin an activity. The facilitator names the target emotion (e.g., "today's password is *surprised*"), and each learner must produce the corresponding face before crossing the threshold. The act requires learners to retrieve the emotion concept, map it to a facial configuration, and perform it, turning a routine transition into a micro-exercise in emotion recognition and self-assessment.
 

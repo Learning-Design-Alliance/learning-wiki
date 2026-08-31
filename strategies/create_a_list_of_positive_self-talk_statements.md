@@ -10,6 +10,8 @@ generated:
 
 # Create a List of Positive Self-Talk Statements
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners generate or select a set of affirmative, first-person statements ("I can break this problem into steps") to use when facing difficulty. The list functions as a rehearsed cognitive resource: rather than improvising coping thoughts under stress, learners draw on statements they have already written, evaluated, and personalized. It is typically paired with a reflection activity in which learners identify their common negative thoughts and write counter-statements.
 

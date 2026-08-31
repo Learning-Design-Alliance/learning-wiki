@@ -10,6 +10,8 @@ generated:
 
 # Bounce Cards
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Bounce cards are printed prompt cards that structure peer-to-peer discussion by giving students three explicit response moves: **Bounce** (elaborate on or extend a peer's idea), **Sum it up** (rephrase what a peer said and comment on it), and **Inquire** (ask a question). Teachers first model each move, then students use the cards to plan and conduct conversations on self-selected or assigned topics. The strategy converts the tacit norms of academic dialogue into concrete, teachable language, making equitable turn-taking and active listening observable and practicable.
 

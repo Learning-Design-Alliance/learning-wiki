@@ -10,6 +10,8 @@ generated:
 
 # Muddiest Point
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The Muddiest Point is a [Classroom Assessment Technique](../principles/assessment-for-learning.md) in which, at the end of a lecture or lesson, learners answer one question in a minute or less: "What was the muddiest point — the thing you are least clear about?" Responses are collected anonymously, skimmed before the next session, and the instructor opens the next class by addressing the most common confusions. It was introduced by Mosteller (1989) as one of the fastest feedback devices in Angelo and Cross's classroom assessment repertoire.
 

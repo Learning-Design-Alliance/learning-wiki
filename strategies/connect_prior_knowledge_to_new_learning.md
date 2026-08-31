@@ -10,6 +10,8 @@ generated:
 
 # Connect Prior Knowledge to New Learning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy deliberately surfaces what learners already know and links it to new content before, during, and after instruction. It includes activating prior knowledge through prompts and discussion, using [Analogies](../elements/analogies.md) to map familiar concepts onto unfamiliar ones, and relating new material to learners' experiences and real-world contexts. The goal is meaningful learning: new information is encoded as an elaboration of existing schemas rather than as isolated facts.
 

@@ -27,6 +27,8 @@ sources:
 
 # Reflection
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Reflection is the deliberate act of analyzing one's own experiences, actions, or decisions after (or during) a learning task in order to extract lessons and adjust future behavior. It converts raw experience into usable knowledge by prompting learners to examine what happened, why it happened, and what they would do differently. Schön (1983) distinguished *reflection-on-action* (after the fact) from *reflection-in-action* (during performance), and both forms are designable instructional elements.
 

@@ -10,6 +10,8 @@ generated:
 
 # Reinforcement Theory
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Reinforcement theory is the principle of shaping behavior by making desired responses more likely through contingent consequences such as feedback, reward, or progression. It is useful when the design goal is to stabilize specific performance patterns.
 

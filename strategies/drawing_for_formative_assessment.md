@@ -10,6 +10,8 @@ generated:
 
 # Drawing for Formative Assessment
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Inviting learners to express their understanding through drawings provides insights into their comprehension and any misconceptions. Because a drawing forces learners to decide how to represent relationships, size, shape, and placement of parts, it externalizes their mental model — revealing preconceptions, gaps, and depth of understanding that verbal answers may mask. Teachers analyze the drawings and use them to adjust instruction, making this a diagnostic [assessment](../elements/assessment.md) technique rather than an artistic exercise.
 

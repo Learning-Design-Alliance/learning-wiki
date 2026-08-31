@@ -10,6 +10,8 @@ generated:
 
 # Independent Reading
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Independent reading involves students selecting and reading books on their own, within their reading level and interests, during regularly scheduled classroom time. Effective implementation pairs access to a diverse classroom library with explicit instruction on book selection, teacher conferences for individual guidance, and accountability structures that keep reading purposeful rather than merely supervised.
 

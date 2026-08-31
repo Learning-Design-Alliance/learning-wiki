@@ -10,6 +10,8 @@ generated:
 
 # Consistent Classroom Routines and Schedules
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Consistent routines and schedules establish predictable patterns for how classroom time is structured — how lessons begin, transition, and end, and how materials, movement, and participation are managed. The strategy works by automating the procedural layer of classroom life so that working memory and attention are freed for learning, and by reducing the anxiety and off-task behavior that unpredictability produces. Routines are taught explicitly, practiced, and then maintained with high consistency across days and weeks.
 

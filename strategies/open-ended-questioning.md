@@ -10,6 +10,8 @@ generated:
 
 # Open Ended Questioning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Open ended questioning poses questions that cannot be answered with a single word or a memorized fact — questions such as "Why might this solution fail?" or "What would happen if…?" — and treats learner responses as objects for further inquiry. The instructor withholds immediate evaluation, uses follow-up probes, and allows sufficient [wait time](https://en.wikipedia.org/wiki/Wait_time) so learners construct extended, reasoned answers.
 

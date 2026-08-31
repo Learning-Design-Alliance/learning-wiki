@@ -10,6 +10,8 @@ generated:
 
 # Decision-Making
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Decision-making as an instructional element places learners at a genuine choice point within a structured activity: they must weigh options, justify a selection, and experience the consequences of that selection. Rather than being told the correct course of action, learners construct the reasoning that connects evidence, constraints, and goals to a commitment — making the quality of reasoning, not just the choice itself, the object of instruction.
 

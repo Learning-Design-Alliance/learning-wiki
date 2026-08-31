@@ -10,6 +10,8 @@ generated:
 
 # Establish Guidelines for Discussing Race
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Establishing guidelines for discussing race means co-creating explicit agreements with learners before engaging in race-related dialogue, so that conversations remain respectful and productive even when emotionally charged. Common agreements include staying engaged, experiencing discomfort, speaking your truth, accepting non-closure, being verbally and physically considerate, and never asking students to speak for anyone but themselves. The practice also includes facilitation moves such as introducing a "pause of respect" after an especially honest or hard statement.
 

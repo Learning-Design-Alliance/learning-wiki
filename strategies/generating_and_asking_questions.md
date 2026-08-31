@@ -10,6 +10,8 @@ generated:
 
 # Generating and Asking Questions
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy involves readers asking themselves questions throughout the reading process — before reading to activate prior knowledge and set a purpose, during reading to check understanding and connect ideas, and after reading to consolidate and summarize. Question generation shifts learners from passive reception to active construction: posing a question requires identifying what matters in the text, relating it to prior knowledge, and noticing gaps in understanding. Instructors typically scaffold the strategy with question stems, modeling, and gradual release of responsibility.
 

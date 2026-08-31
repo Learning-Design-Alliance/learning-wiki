@@ -10,6 +10,8 @@ generated:
 
 # Tiered Assignments
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Tiered assignments are a differentiation strategy in which the teacher designs two or more versions of a task that target the *same* essential concept or skill but vary in complexity, process, support, or product. All tiers are equally respectful and equally valued; the difference is the degree of challenge and scaffolding, not the status of the work. Tiers are typically assigned based on readiness evidence — prior assessment, diagnostic tasks, or observation — rather than fixed labels.
 

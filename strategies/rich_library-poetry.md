@@ -10,6 +10,8 @@ generated:
 
 # Rich Library: Poetry
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A rich poetry library gives learners on-demand access to a broad collection of poems — classic and contemporary — alongside audio recordings, illustrations, and category- or age-based browsing. Learners select texts aligned to interest and reading level, then use them as material for reading, discussion, and their own writing. Representative resources include the [iF Poems](https://apps.apple.com/us/app/if-poems/id452665847) app and the [Poetry Foundation](https://www.poetryfoundation.org) website, which offers poems, articles, glossaries, and learning activities.
 

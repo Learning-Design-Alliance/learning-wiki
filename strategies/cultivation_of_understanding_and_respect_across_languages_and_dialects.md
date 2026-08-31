@@ -10,6 +10,8 @@ generated:
 
 # Cultivation of Understanding and Respect Across Languages and Dialects
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy supports learners working in an unfamiliar or complex language by providing multiple access routes to meaning — translations, simplified language, visual imagery, gesture and movement, and bilingual resources — while explicitly cultivating respect for linguistic diversity. It treats the home language or dialect as a resource rather than a deficit, and pairs comprehension supports with classroom norms that make it safe to speak, err, and code-switch.
 

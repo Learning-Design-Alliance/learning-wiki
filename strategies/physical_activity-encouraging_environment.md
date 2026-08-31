@@ -10,6 +10,8 @@ generated:
 
 # Physical Activity-Encouraging Environment
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A physical activity-encouraging environment is a school or learning setting whose physical infrastructure, scheduling, and norms are deliberately arranged to make movement easy, frequent, and socially normal. Concretely, this means playground and sports equipment, walking trails, bike racks and safe routes, classroom layouts that permit movement, and timetables (e.g., rotating rooms, activity breaks) that build walking into the school day. The strategy treats the environment itself as an instructional resource: rather than relying on exhortation to "be active," it lowers the cost and raises the default of physical activity [~M].
 

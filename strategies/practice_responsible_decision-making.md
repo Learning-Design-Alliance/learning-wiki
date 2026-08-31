@@ -10,6 +10,8 @@ generated:
 
 # Practice Responsible Decision-Making
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Students practice responsible decision-making by analyzing problem scenarios — e.g., cheating, bullying, exclusion — that connect to their everyday lives at school. Working in pairs or small groups, they analyze the situation, weigh possible consequences, and commit to a decision. Groups then share decisions with the whole class and reflect on how they arrived at them, making their reasoning visible for critique and refinement.
 

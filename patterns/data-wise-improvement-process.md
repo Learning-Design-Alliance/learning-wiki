@@ -12,6 +12,8 @@ grain_size: program, school
 
 # Data Wise Improvement Process
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 The Data Wise Improvement Process, developed at the Harvard Graduate School of Education, is a structured cycle through which school teams systematically examine student learning data, connect findings to instructional practice, and act on what they learn. It organizes collaborative data work into three phases — **Prepare**, **Inquire**, and **Act** — comprising eight steps, and is deliberately scaffolded by norms and protocols so that conversations about data stay focused on evidence rather than blame. The problem it solves is common in schools: assessment data are collected extensively but rarely translated into changed instruction, because teams lack a shared process for interpreting evidence and agreeing on next steps.
 

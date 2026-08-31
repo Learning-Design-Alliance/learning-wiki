@@ -10,6 +10,8 @@ generated:
 
 # Accessible Syntax
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Accessible syntax is the deliberate adjustment of sentence structure — length, embedding, voice, and connective density — in instructional materials, teacher talk, and learner-facing tasks so that language form does not become an extraneous source of cognitive load. In practice this means simplifying instructor syntax when presenting new content, and scaffolding learner production with sentence starters, frames, and progressively more complex target structures.
 

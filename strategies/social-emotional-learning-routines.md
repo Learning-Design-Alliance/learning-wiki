@@ -10,6 +10,8 @@ generated:
 
 # Social Emotional Learning Routines
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Social Emotional Learning (SEL) routines are brief, repeated, predictable practices — such as daily check-ins, emotion-naming rituals, cooperative norms review, or structured reflection — embedded into the regular flow of instruction. Rather than treating social-emotional competence as a one-off curriculum unit, routines distribute its development across many small, low-stakes repetitions, making self-regulation and interpersonal skills habitual alongside academic work.
 

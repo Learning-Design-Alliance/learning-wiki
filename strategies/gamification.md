@@ -10,6 +10,8 @@ generated:
 
 # Gamification
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Gamification is the integration of game elements — points, badges, leaderboards, levels, streaks, or narrative — into conventional learning activities to increase engagement and motivation [Deterding et al.'s definition of gamification as game elements in non-game contexts.](https://doi.org/10.1145/2181037.2181040) [+M]. Examples include awarding badges for participation in online discussion forums or earning points for completing tasks, tracked via digital gradebooks or shared online. Gamification is distinct from game-based learning: it applies game *mechanics* to non-game activities rather than using full games as instructional content.
 

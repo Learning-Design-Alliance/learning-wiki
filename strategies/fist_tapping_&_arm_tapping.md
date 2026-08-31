@@ -10,6 +10,8 @@ generated:
 
 # Fist Tapping & Arm Tapping
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Fist tapping and arm tapping are multisensory spelling strategies in which learners physically tap out the syllables and sounds of words while saying and spelling them aloud. In fist tapping, learners tap a fist on the desk once per syllable while saying the word; in arm tapping, they tap from shoulder to wrist (or wrist to hand) with two fingers, one tap per sound or syllable, then "sweep" down the arm while saying the whole word. The strategy pairs a motor trace with auditory and verbal encoding, engaging multiple modalities simultaneously — the VAKT (visual-auditory-kinesthetic-tactile) tradition of Orton-Gillingham instruction.
 

@@ -10,6 +10,8 @@ generated:
 
 # Objective
 
+> **Element** · [All elements](index.md)
+
 ## Description
 An objective states the intended learning outcome in observable, measurable terms — typically an action verb applied to a content object under specified conditions and criteria. Objectives function as the design contract of a lesson: they discipline the selection of activities, [Practice](practice.md), and [Assessment](assessment.md), and they communicate expectations to learners.
 

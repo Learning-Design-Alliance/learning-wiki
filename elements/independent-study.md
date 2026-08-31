@@ -10,6 +10,8 @@ generated:
 
 # Independent Study
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Independent study assigns learners primary responsibility for working through content, tasks, or inquiry without direct instructor mediation during the learning episode. The instructor's role shifts to designing the task, providing materials and structure, and checking progress, while the learner supplies pacing, persistence, and self-monitoring.
 

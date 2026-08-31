@@ -10,6 +10,8 @@ generated:
 
 # Virtual Reality (VR) Training
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Virtual Reality (VR) training uses head-mounted displays and interactive simulation to place learners inside a three-dimensional representation of a task environment — an operating theatre, a cockpit, a hazardous industrial site — where they can rehearse procedures and make decisions without real-world consequences. Effective VR training is not passive immersion: it pairs the simulated environment with structured [Practice](../elements/practice.md), [Demonstration](../elements/demonstration.md), and feedback loops, so the medium serves an instructional design rather than substituting for one.
 

@@ -10,6 +10,8 @@ generated:
 
 # Naming the Negative Voice
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Students give their negative inner voice a name — often playful or exaggerated — to externalize it, treating it as a separate entity rather than an accurate self-assessment. The technique draws on narrative therapy's externalization (White & Epston, 1990) and cognitive-behavioral practice of distancing from automatic thoughts: once the voice is named, students can notice it, talk back to it, and reframe its statements instead of fusing with them. Naming converts an invisible, identity-level experience ("I'm bad at this") into an observable, manageable object ("Cranky Kirsten is telling me I'm bad at this again").
 

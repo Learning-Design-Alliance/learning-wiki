@@ -10,6 +10,8 @@ generated:
 
 # Travel Journals
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A travel journal is a longitudinal documentation strategy in which students record their "journey" through a unit or course — capturing what they did, what they noticed, questions that arose, and how their understanding changed. Entries mix modes: prose reflection, sketches, diagrams, pasted artifacts, and graphic organizers. The journal functions simultaneously as a learning tool (processing experience during the unit) and an assessment artifact (evidence of growth over time).
 

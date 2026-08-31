@@ -11,6 +11,8 @@ evidence_strength: unestablished
 
 # Rubrics Improve Peer Feedback Quality
 
+> **Claim** · [All claims](index.md)
+
 Rubrics — explicit criteria describing expected performance levels — guide peer reviewers toward specific, criterion-referenced comments rather than vague or purely affective feedback.
 
 ## Subclaims

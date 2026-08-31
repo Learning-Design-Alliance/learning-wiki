@@ -10,6 +10,8 @@ generated:
 
 # Active Transitions
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Active transitions replace dead time between instructional segments (entering class, switching activities, waiting for peers, packing up) with brief structured tasks: a two-minute movement burst, a quick recall prompt, a partner check, or a timed routine. The strategy treats transition time as instructional time, using it for retrieval, activation, or physical re-engagement rather than management and waiting.
 

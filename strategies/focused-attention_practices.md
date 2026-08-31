@@ -10,6 +10,8 @@ generated:
 
 # Focused-Attention Practices
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Focused-attention practice is a brief exercise — typically 1–5 minutes — in which learners deliberately anchor attention on a single stimulus such as the breath, a sound, or a bodily sensation, noticing when the mind wanders and returning attention to the anchor. The practice functions as attention training and arousal regulation: it downshifts the stress response, reduces intrusive thoughts, and prepares working memory for the learning task at hand. It is a component of broader mindfulness-based interventions, distinguished by its narrow focus on a single attentional anchor rather than open monitoring.
 

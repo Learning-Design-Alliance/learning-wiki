@@ -10,6 +10,8 @@ generated:
 
 # Establishing Group Roles
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Establishing group roles means giving each member of a collaborative group a defined, meaningful function — such as facilitator, recorder, timekeeper, or skeptic — before collaborative work begins. Roles may be assigned by the instructor, negotiated by the group, or rotated across sessions. The goal is to make each member's contribution visible and necessary, converting loose cooperation into structured interdependence.
 

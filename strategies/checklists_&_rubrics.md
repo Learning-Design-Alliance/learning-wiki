@@ -10,6 +10,8 @@ generated:
 
 # Checklists & Rubrics
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Checklists and rubrics make quality criteria explicit so learners can evaluate work against them. A checklist enumerates discrete, binary features to verify ("Does my paragraph have a topic sentence?"); a rubric describes gradations of quality across dimensions (e.g., novice to expert descriptors for "organization"). Both serve self-assessment and peer assessment: learners internalize the criteria, monitor their progress against them, and use them to guide revision rather than waiting for instructor judgment.
 

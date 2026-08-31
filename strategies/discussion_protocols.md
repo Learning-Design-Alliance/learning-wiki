@@ -10,6 +10,8 @@ generated:
 
 # Discussion Protocols
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Discussion protocols are explicit, repeatable structures — turn-taking rules, sentence stems, role assignments, timing limits — that organize classroom conversation. Rather than asking "any thoughts?" and hoping for volunteers, the instructor specifies who speaks, in what order, responding to what, and for how long. Common forms include Socratic seminars, think-pair-share, jigsaw discussions, and structured academic controversy.
 

@@ -10,6 +10,8 @@ generated:
 
 # Teacher Read-Aloud That Models Reading for Deep Understanding
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A teacher read-aloud involves a teacher fluently reading a text aloud to learners, intentionally modeling strategies of understanding that can be reinforced in shared, guided, and independent reading. The teacher engages learners at the edge of their speaking vocabulary, selecting texts a grade or two above their instructional reading level, so that comprehension work is not blocked by decoding demands. Effective read-alouds embed think-alouds and interactive discussion, focusing deliberately on meaning *within* the text, *about* the text, and *beyond* the text.
 

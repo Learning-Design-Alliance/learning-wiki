@@ -10,6 +10,8 @@ generated:
 
 # Read Aloud
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Read Aloud asks learners to vocalize text — assigned reading, assessment questions, or their own drafts — rather than reading silently. It exploits the production effect: words spoken aloud are remembered better than words read silently, because producing speech creates a distinctive, multi-modal memory trace [The production effect: speaking words aloud improves memory for those words relative to silent reading.](../claims/media-combinations-affect-recall-and-retention.md) [+S]. In early literacy, teacher read-alouds also model fluent, expressive reading and build vocabulary and comprehension above learners' independent reading level.
 

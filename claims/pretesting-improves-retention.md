@@ -11,6 +11,8 @@ evidence_strength: emerging
 
 # Pretesting Improves Retention
 
+> **Claim** · [All claims](index.md)
+
 Attempting to answer questions about material before it has been taught — even when those attempts fail — improves later retention of that material relative to studying without a pretest.
 
 ## Subclaims

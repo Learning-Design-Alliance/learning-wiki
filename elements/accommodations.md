@@ -10,6 +10,8 @@ generated:
 
 # Accommodations
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Accommodations are changes to *how* students access instruction and demonstrate learning — extended time, alternative formats, assistive technology, preferential seating, chunked assignments — that level the playing field without altering the construct being assessed or the learning goal. They are distinguished from *modifications*, which change what is taught or expected. Accommodations function as targeted barrier removal: the designer identifies where a fixed presentation or response format disadvantages a learner and provides an alternate route to the same outcome.
 

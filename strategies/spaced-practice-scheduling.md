@@ -10,6 +10,8 @@ generated:
 
 # Spaced Practice Scheduling
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Spaced practice scheduling distributes study or practice of a given skill or topic across multiple sessions separated in time, rather than concentrating it in one block. The gap between encounters forces partial forgetting and effortful retrieval, which strengthens the memory trace more than equivalent time spent massed together.
 

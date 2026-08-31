@@ -10,6 +10,8 @@ generated:
 
 # Communicating Positive Expectations
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Communicating positive expectations means deliberately signaling to every learner — through interaction patterns, feedback, and task assignment — that they are capable of success. The strategy counters the well-documented tendency for teacher expectations to become self-fulfilling: learners perceived as low-potential receive fewer opportunities, less wait time, and less substantive feedback, and their performance declines accordingly [~S]. Educators instead monitor their own interactions for bias and distribute high-expectation behaviors equitably.
 

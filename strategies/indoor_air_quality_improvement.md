@@ -10,6 +10,8 @@ generated:
 
 # Indoor Air Quality Improvement
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Indoor air quality (IAQ) improvement addresses the physical learning environment by increasing outdoor-air ventilation, upgrading filtration, and removing or controlling pollutant sources (cleaning products, building materials, mold, combustion byproducts). It is carried out through facility management (HVAC maintenance and commissioning, CO₂ monitoring), source control policies, and portable air purification where central systems are inadequate.
 

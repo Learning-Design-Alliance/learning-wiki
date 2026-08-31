@@ -10,6 +10,8 @@ generated:
 
 # Classroom Routines
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Classroom routines are consistent, rehearsed sequences for recurring activities — entering class, transitioning between tasks, distributing materials, starting work, seeking help, closing and reflecting. By making the *how* of classroom life automatic, routines reduce the procedural decisions that otherwise consume working memory and instructional time, and they establish the predictable structure within which [Practice](../elements/practice.md) and [Class Discussion](../elements/class-discussion.md) can run efficiently.
 

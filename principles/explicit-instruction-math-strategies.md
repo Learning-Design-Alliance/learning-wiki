@@ -23,6 +23,8 @@ sources:
 
 # Explicit Instruction: Math Strategies
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Direct instruction in math strategies may support some adult learners once conceptual understanding is in place. Discussing strategies for solving math problems provides learners with the tools they need to think about problems from different angles and to flexibly apply these tools during problem solving. To best select strategies, learners need to see beyond the surface structure of the problem to the underlying patterns, in order to match them with the appropriate strategies and procedures to arrive at a solution. This requires a deeper conceptual understanding, which is best developed when learners engage in problem solving and productive failure before direct instruction. Further, using a variety of math strategies to tackle relevant real-world problems makes the concepts meaningful by helping learners make connections to their own lives.
 

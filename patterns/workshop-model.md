@@ -12,6 +12,8 @@ grain_size: lesson, unit
 
 # Workshop Model
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 The workshop model organizes instruction around a predictable three-part structure: a brief whole-class [mini-lesson](../elements/demonstration.md) (typically 10–15 minutes), an extended work session in which students practice independently or collaboratively while the teacher confers with individuals and small groups, and a closing share or reflection. Developed in literacy education by Atwell and Calkins and grounded in the gradual release of responsibility, it solves the problem of transmission-only teaching by making sustained, supported practice — not explanation — the center of the lesson. The teacher's role shifts during the work session from presenter to coach, differentiating through one-to-one [conferences](../elements/feedback.md) rather than whole-class pacing.
 

@@ -10,6 +10,8 @@ generated:
 
 # Self Affirmation
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Self affirmation is a brief psychological intervention in which learners write or reflect on core personal values — relationships, creativity, family, religion — that are unrelated to the domain under evaluation. Grounded in Steele's (1988) self-affirmation theory, the activity bolsters the self's overall integrity so that threats in a specific domain (a difficult test, a stereotype, critical feedback) are less likely to trigger defensive avoidance. In learning design, it is typically deployed as a short in-class or online writing exercise before high-stakes assessments or at the start of a course.
 

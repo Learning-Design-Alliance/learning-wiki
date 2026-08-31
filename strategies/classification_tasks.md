@@ -10,6 +10,8 @@ generated:
 
 # Classification Tasks
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Classification tasks ask learners to sort objects, examples, or concepts into categories based on shared properties, and to justify the criteria they used. Learners may develop their own classification schemes or apply a given one, working from binary sorts up to multi-level classification trees. Because learners must attend to features, compare cases, and defend boundaries, classification is fundamentally an inductive activity: the category structure is constructed from evidence rather than delivered as a definition.
 

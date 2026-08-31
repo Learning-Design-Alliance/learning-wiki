@@ -10,6 +10,8 @@ generated:
 
 # Rice Tables And Sandboxes Science Through Inquiry
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Rice tables and sandboxes are sensory play stations stocked with pourable materials (rice, sand, water, beans) plus tools (funnels, sieves, cups, scales) that children manipulate freely or with light prompts. The teacher frames the materials around a science question — flow, volume, density, erosion, separation — and children generate predictions, test them through hands-on manipulation, and describe what they observe, converting open-ended sensory play into guided [inquiry](../principles/inquiry-based-learning.md).
 

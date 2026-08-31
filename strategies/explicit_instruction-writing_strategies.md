@@ -10,6 +10,8 @@ generated:
 
 # Explicit Instruction: Writing Strategies
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Explicit instruction in writing strategies involves directly teaching students specific, named methods for planning, drafting, revising, and editing their work. The instructor breaks the writing process into manageable steps, models each step (often via think-aloud), guides practice, and fades support as students internalize the strategy. The most researched instantiation is Self-Regulated Strategy Development (SRSD), which adds goal setting, self-monitoring, and self-instruction so students eventually manage the strategy on their own.
 

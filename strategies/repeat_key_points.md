@@ -10,6 +10,8 @@ generated:
 
 # Repeat Key Points
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Repeating key points means deliberately restating the most important ideas of a lesson multiple times and through multiple representations — verbal restatement, visual display, worked example, student paraphrase — so that learners receive several spaced, varied exposures to each core concept. The variation matters as much as the repetition: each restatement should re-encode the idea in a different form or context rather than merely duplicating it.
 

@@ -11,6 +11,8 @@ evidence_strength:
 
 # Structured Discussion Approaches Improve Comprehension
 
+> **Claim** · [All claims](index.md)
+
 Structured discussion approaches — protocols such as Accountable Talk, reciprocal teaching, and Socratic seminar that assign roles, norms, and talk moves to classroom conversation — improve learners' comprehension of texts and concepts relative to unstructured discussion.
 
 ## Subclaims

@@ -19,6 +19,8 @@ sources:
 
 # Pairing Non-examples with Examples
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Pairing non-examples with examples helps learners understand a concept, procedure, or category by seeing both what fits and what does not. The contrast matters because examples alone can make a pattern look obvious when it is not; non-examples force learners to discriminate, compare, and articulate what distinguishes a valid case from an invalid or misleading one. This principle is especially useful when learners hold persistent misconceptions or when the concept boundary is easy to blur.
 

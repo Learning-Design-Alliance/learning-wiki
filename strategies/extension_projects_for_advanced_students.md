@@ -10,6 +10,8 @@ generated:
 
 # Extension Projects for Advanced Students
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Extension projects give learners who have already mastered core content an authentic, open-ended task — analyzing real data, designing a product, or solving a community problem — that applies and deepens what they know. Learners typically work in small teams over an extended period, with the teacher acting as advisor rather than instructor. The strategy replaces "more of the same" work with qualitatively different, higher-complexity application.
 

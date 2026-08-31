@@ -10,6 +10,8 @@ generated:
 
 # Dolch Sight Word Lists
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The Dolch Sight Word list, compiled by Edward William Dolch in 1936, contains the 220 most frequent "service words" in children's literature plus a supplemental list of 95 common nouns. Many of these words (e.g., *the*, *said*, *was*, *of*) are phonetically irregular or too abstract to illustrate, so they are taught for automatic, whole-word recognition — "sight words" — rather than sounded out. Lists are typically organized by grade level (pre-primer through third grade) and taught through flashcards, games, and repeated reading.
 

@@ -10,6 +10,8 @@ generated:
 
 # Positive Scripts
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Positive Scripts are first-person narratives, written or spoken by the learner, that depict a desired future as already realized ("I passed the exam because I studied steadily each evening"). The practice draws on self-talk and mental imagery traditions: learners rehearse an affirmative internal story repeatedly, aiming to displace self-defeating narratives and strengthen expectancy of success. It is typically scheduled as a brief daily or pre-task ritual.
 

@@ -10,6 +10,8 @@ generated:
 
 # Leaderboards
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Leaderboards rank learners by points accumulated through learning activities such as quizzes, discussions, or practice sets, providing a visible representation of relative progress. They are a core gamification mechanic: competition can motivate some learners, but full public ranking can demoralize those at the bottom. A common mitigation is a "relative" leaderboard in which each learner sees only the participants directly above and below them, reframing the display as actionable next steps rather than a verdict on ability.
 

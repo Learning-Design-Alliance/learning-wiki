@@ -10,6 +10,8 @@ generated:
 
 # Mindful Listening
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Mindful listening is a mindfulness practice in which learners deliberately focus attention on sound — ambient noise, a chime, music, or a partner's voice — noticing when attention wanders and returning it to the auditory anchor. Because sound is concrete and ever-present, it is often an easier attentional target than the breath, especially for younger learners. The practice functions as repeated training in monitoring and redirecting attention, the core mechanism through which mindfulness interventions are thought to improve self-regulation.
 

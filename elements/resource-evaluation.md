@@ -10,6 +10,8 @@ generated:
 
 # Resource Evaluation
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Resource evaluation asks learners to judge the credibility, accuracy, and relevance of information sources before using them. Rather than treating evaluation as a checklist delivered by the instructor, learners apply criteria themselves — comparing sources, probing authorship and evidence, and justifying their judgments — which builds transferable information literacy.
 

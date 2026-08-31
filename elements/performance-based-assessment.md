@@ -10,6 +10,8 @@ generated:
 
 # Performance-Based Assessment
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Performance-based assessment is the element in which learners demonstrate knowledge or skill by performing, producing, or solving something observable rather than only selecting answers. It is useful when the learning target involves application, integration, or authentic performance.
 

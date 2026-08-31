@@ -10,6 +10,8 @@ generated:
 
 # Creating Quiet Spaces
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Creating quiet spaces involves designating areas in the learning environment — physical corners, rooms, or digital "do not disturb" modes — where learners can retreat for individual reflection, focused work, or emotional regulation. The strategy treats environmental noise and stimulation as manageable variables rather than fixed conditions, giving learners an explicit alternative to the shared, socially demanding main space.
 

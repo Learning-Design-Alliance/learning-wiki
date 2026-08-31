@@ -10,6 +10,8 @@ generated:
 
 # Guided Discovery with Word Sorting
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Students sort word cards by spelling pattern under teacher questioning that directs attention to critical features, inducing the rule themselves rather than receiving it stated upfront. For example, sorting *page, cage, badge, edge, bridge* reveals the –ge/–dge convention: /j/ after a short vowel is spelled –dge, after a long vowel or consonant –ge. The teacher's questions ("What do you notice about the letter before the g?") scaffold the discovery without giving the answer away.
 

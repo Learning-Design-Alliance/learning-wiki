@@ -10,6 +10,8 @@ generated:
 
 # Brainstorming (Pre-Reading)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners are given a limited time (e.g., five minutes) to generate as many ideas as possible related to the topic of an upcoming reading. They then organize their ideas — often into sentences or a graphic organizer — and circulate to share them with peers before the class begins the text. The activity functions as a pre-reading activation routine: it surfaces what learners already know, exposes them to peers' associations, and creates a purpose for reading.
 

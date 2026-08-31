@@ -10,6 +10,8 @@ generated:
 
 # Number Talks
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A Number Talk is a 10–15 minute routine in which the teacher poses a computation problem — typically one with multiple solution paths — and students solve it mentally, then share and defend their strategies while the teacher records each method on the board. The goal is not the answer but the reasoning: students compare strategies, evaluate efficiency, and build number sense through structured [class discussion](../elements/class-discussion.md). The teacher acts as facilitator and scribe, not evaluator, using questioning to elicit and connect student thinking.
 

@@ -10,6 +10,8 @@ generated:
 
 # Morphological Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Morphological instruction explicitly teaches the meaningful units of words (morphemes) — base words, roots, prefixes, suffixes, and inflectional endings — and how they combine. Learners are taught to analyze, manipulate, and generate words structurally (e.g., *act → action → inactive → reaction*), rather than memorizing words as unanalyzed wholes. Instruction typically combines direct explanation of common morphemes with word-formation activities, word sorts, and structured inquiry into word origins and families.
 

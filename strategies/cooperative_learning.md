@@ -10,6 +10,8 @@ generated:
 
 # Cooperative Learning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Cooperative learning organizes instruction around small groups working toward a shared goal, structured so that each member's success depends on the group's success (positive interdependence) while each member is individually accountable for their contribution. It is distinct from mere group work: the defining features are deliberate task structure, assigned roles, and reward or assessment structures that link individual and group outcomes.
 

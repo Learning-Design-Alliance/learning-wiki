@@ -11,6 +11,8 @@ evidence_strength:
 
 # Tutoring Effectiveness Comes From Scaffolding And Feedback
 
+> **Claim** · [All claims](index.md)
+
 The learning benefits of tutoring are attributed to the tutor's ability to scaffold tasks within the learner's zone of proximal development and to provide immediate, adaptive feedback — not merely to one-on-one attention.
 
 ## Subclaims

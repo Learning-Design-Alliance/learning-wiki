@@ -10,6 +10,8 @@ generated:
 
 # Calming Oral Sensory Input
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Calming oral sensory input engages the mouth — through chewing, sucking, or blowing — to provide proprioceptive and tactile stimulation that supports self-regulation in learners who are overwhelmed, anxious, or dysregulated. Typical activities include chewing chewy foods or safe chewable jewelry, drinking thick smoothies through a narrow straw, and blowing games (feathers, pompoms, bubbles). The underlying rationale draws on sensory integration theory, which holds that organized sensory input supports adaptive emotional and behavioral regulation [Ayres, 1972].
 

@@ -10,6 +10,8 @@ generated:
 
 # Metacognitive Prompting
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Metacognitive prompting embeds brief questions or cues into a learning task that direct learners' attention to their own thinking: planning an approach before starting, monitoring comprehension and progress during the task, and evaluating outcomes and strategy effectiveness afterward. Prompts can be delivered by an instructor, embedded in materials, or built into software, and may be scripted (fixed prompts) or adaptive (triggered by learner behavior).
 

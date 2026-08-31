@@ -10,6 +10,8 @@ generated:
 
 # Math Vocabulary Word Walls
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A math vocabulary word wall is a permanently visible classroom display of mathematical terms, typically organized by concept, operation, or unit, that students and teacher reference during instruction and problem solving. It is carried out by co-constructing the wall with students — brainstorming terms that signal operations, adding informal synonyms alongside formal definitions, and modeling how to locate and use key terms when interpreting word problems. The wall functions as an external memory aid that offloads vocabulary retrieval so working memory can be spent on reasoning.
 

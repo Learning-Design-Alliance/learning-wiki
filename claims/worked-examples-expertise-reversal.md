@@ -20,6 +20,8 @@ evidence_strength: moderate
 
 # Worked examples can become redundant or counterproductive for advanced learners.
 
+> **Claim** · [All claims](index.md)
+
 As learners develop stronger schemas in a domain, studying complete worked examples can shift from being supportive to being unnecessarily repetitive.
 
 ## Subclaims

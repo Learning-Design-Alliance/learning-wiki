@@ -11,6 +11,8 @@ evidence_strength:
 
 # Guided Inquiry Outperforms Pure Discovery
 
+> **Claim** · [All claims](index.md)
+
 Learners acquire knowledge and transfer skills better when inquiry is supported by guidance (scaffolds, prompts, feedback, worked examples) than when they are left to discover content with minimal support. The claim concerns a comparison along a continuum of support — it does not assert that guided inquiry beats all forms of explicit instruction, only that adding guidance to inquiry improves on pure discovery.
 
 ## Subclaims

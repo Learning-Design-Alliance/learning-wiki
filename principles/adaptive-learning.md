@@ -10,6 +10,8 @@ generated:
 
 # Adaptive Learning
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Adaptive learning adjusts instruction — task difficulty, pacing, content sequencing, and support level — in response to ongoing evidence of each learner's performance, rather than presenting a fixed path to all learners. Adaptation ranges from simple branching and difficulty tuning to algorithmic mastery decisions in intelligent tutoring systems. The core recommendation: use continuous assessment data to keep every learner working on tasks they cannot yet do reliably but can reach with appropriate support.
 

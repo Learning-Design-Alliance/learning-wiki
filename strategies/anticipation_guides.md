@@ -10,6 +10,8 @@ generated:
 
 # Anticipation Guides
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 An anticipation guide is a pre-reading activity in which the teacher prepares 3–8 statements — some true, some plausible-but-false — that target the key ideas of an upcoming text. Learners indicate agreement or disagreement with each statement individually, discuss their positions with peers, read the text, and then return to the guide to confirm, revise, and justify their original responses. The before/after cycle converts reading from passive reception into hypothesis testing.
 

@@ -10,6 +10,8 @@ generated:
 
 # Chunking Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Chunking instruction means dividing content into small, self-contained units — a concept, step, rule, or example — sized so that each can be processed in working memory before moving on. Units are sequenced so that each new chunk builds on previously consolidated ones, and learners are given time or practice to consolidate each chunk before the load accumulates. The strategy treats segmenting, sequencing, and pacing as primary design decisions rather than afterthoughts.
 

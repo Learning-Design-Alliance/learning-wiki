@@ -27,6 +27,8 @@ sources:
 
 # Explicit Instruction: Vocabulary
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Seeing and using new words repeatedly and across contexts is critical for vocabulary acquisition. In discussions, reading, and writing, instructors can provide explicit vocabulary instruction and give learners multiple opportunities to see, understand, and apply new words, as well as chances to use strategies for identifying unfamiliar words.
 

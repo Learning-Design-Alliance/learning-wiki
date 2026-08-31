@@ -10,6 +10,8 @@ generated:
 
 # Field Trips
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Field trips are structured excursions that take learners out of the classroom to observe, interact with, and make sense of authentic environments — museums, nature reserves, workplaces, historical sites, or (virtually) inaccessible locations. They situate learning in physical and cultural context, connecting abstract classroom content to concrete places, objects, and people. Effective trips are not outings but instructional designs: they include preparation before, structured engagement during, and consolidation after.
 

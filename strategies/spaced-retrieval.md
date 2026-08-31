@@ -10,6 +10,8 @@ generated:
 
 # Spaced Retrieval
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Spaced retrieval combines two of the most robust findings in learning science: *spacing* (distributing study across time rather than massing it) and *retrieval practice* (actively recalling information instead of rereading it). Learners attempt to recall material, receive feedback, and then revisit it after a delay — with intervals expanding as memory strengthens (e.g., one day, three days, one week). The strategy is carried out through low-stakes quizzes, flashcards, cumulative review, or prompts embedded in later lessons.
 

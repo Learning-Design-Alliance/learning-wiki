@@ -10,6 +10,8 @@ generated:
 
 # Quick Writes
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Quick Writes are short, focused informational writing tasks completed in under ten minutes, aimed at helping students process, organize, and remember information and ideas. The instructor poses a concise prompt (e.g., "Summarize today's key idea in three sentences" or "Explain how X causes Y"), students write continuously for a brief, fixed period, and the writing is treated as thinking work rather than polished composition. Because the tasks are frequent and low-stakes, they provide regular retrieval and elaboration opportunities without the grading burden of extended writing.
 

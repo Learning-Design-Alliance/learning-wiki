@@ -10,6 +10,8 @@ generated:
 
 # Latin And Greek Roots For Academic Vocabulary
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy teaches learners the small set of Latin and Greek roots, prefixes, and suffixes (e.g., *spect*, *port*, *dict*; *bio-*, *-ology*, *trans-*) that generate a disproportionate share of academic and technical vocabulary. Rather than memorizing words one at a time, learners analyze morphological structure to infer meanings of novel words and to connect related words into families (*inspect*, *spectator*, *perspective*). Instruction typically combines explicit teaching of a target morpheme, analysis of example words, and application to unfamiliar words in context.
 

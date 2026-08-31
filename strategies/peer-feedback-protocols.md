@@ -10,6 +10,8 @@ generated:
 
 # Peer Feedback Protocols
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Peer feedback protocols are structured routines — rubrics, sentence stems, staged review cycles, and role scripts — that govern how learners critique one another's work. The protocol converts the vague instruction "give feedback" into a repeatable procedure: examine the work against explicit criteria, identify specific strengths and gaps, suggest actionable revisions, and do so in language the receiver can act on.
 

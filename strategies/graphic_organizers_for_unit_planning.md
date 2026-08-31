@@ -10,6 +10,8 @@ generated:
 
 # Graphic Organizers for Unit Planning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A unit-level graphic organizer is a visual representation — flowchart, concept map, timeline, or matrix — that shows how the lessons, concepts, and activities of an instructional unit relate to one another. It is shared with learners at the outset (and revisited as the unit progresses) so they can see where they are, what came before, and why each part matters. For instructors, building the organizer forces decisions about which concepts are central and which are peripheral.
 

@@ -10,6 +10,8 @@ generated:
 
 # Wait Time
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Wait time is the period of silence between the time a question is asked and the time when one or more learners respond. It involves pausing for a minimum of three seconds after posing a question to allow learners to process and formulate a response, and pausing again after a response so other learners can process the answer. The appropriate duration depends on question complexity, learner ability, and question clarity.
 

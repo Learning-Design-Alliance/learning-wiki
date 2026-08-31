@@ -10,6 +10,8 @@ generated:
 
 # Compound Word Study
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Compound Word Study begins instruction in multisyllable spelling with compound words (e.g., *rainbow*, *classroom*, *baseball*). Compounds offer two structural advantages for young spellers: syllable boundaries are easy to detect because each syllable is a whole word, and the spelling of each base word remains stable when compounded. Learners thus practice the core skill of spelling syllable-by-syllable without the added difficulty of reduced vowels or spelling shifts across syllable boundaries.
 

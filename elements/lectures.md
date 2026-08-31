@@ -10,6 +10,8 @@ generated:
 
 # Lectures
 
+> **Element** · [All elements](index.md)
+
 ## Description
 A lecture is an instructor-led presentation that delivers content in a structured, sequenced format to a group of learners. It functions as an efficient means of transmitting foundational knowledge — explaining concepts, modeling reasoning, and organizing material — but its effectiveness depends on how attention is managed and how actively learners process the presented content.
 

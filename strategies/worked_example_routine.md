@@ -10,6 +10,8 @@ generated:
 
 # Worked Example Routine
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This routine provides a structured approach to using worked examples in teaching to prevent passive or superficial engagement. It sequences five steps — Get ready (present the problem), Read (students study the worked example), Discuss (partners talk until everyone understands each step), Explain (students answer explanation prompts about why steps work), and You Try (students solve a similar problem independently). The routine operationalizes the finding that worked examples benefit learning only when learners actively process the reasoning, not merely view the solution [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M].
 

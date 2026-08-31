@@ -10,6 +10,8 @@ generated:
 
 # Music and Emotions
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners listen to selected musical excerpts and identify, name, and discuss the emotions the music evokes, then connect those responses to their own experiences. Music is a reliable elicitor of emotion — listeners consistently report felt emotions matching the perceived emotional character of a piece [Juslin & Västfjäll's BRECVEMA framework describes seven mechanisms through which music arouses emotion.](https://doi.org/10.1017/S0140525X08004795) [+S] — which makes it a low-stakes, concrete stimulus for practicing emotional identification and expression.
 

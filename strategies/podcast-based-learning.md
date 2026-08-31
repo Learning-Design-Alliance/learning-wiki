@@ -10,6 +10,8 @@ generated:
 
 # Podcast Based Learning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Podcast based learning uses audio episodes as a core instructional medium — either instructor-produced content that learners listen to (lectures, interviews, case narrations) or learner-produced podcasts in which students research, script, and record episodes to demonstrate understanding. It exploits audio's portability and low production barrier, but removes visual channels, so design must compensate through structure, pacing, and accompanying activities.
 

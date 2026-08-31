@@ -11,6 +11,8 @@ evidence_strength:
 
 # Cognitive Overload Degrades Learning
 
+> **Claim** · [All claims](index.md)
+
 When the demands of a learning task exceed the capacity of working memory, learning suffers. This claim covers the general mechanism; specific load-reduction techniques are treated in their own pages.
 
 ## Subclaims

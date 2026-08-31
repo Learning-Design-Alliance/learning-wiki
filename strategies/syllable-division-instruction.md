@@ -10,6 +10,8 @@ generated:
 
 # Syllable Division Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Syllable division instruction teaches learners a set of rules and strategies for breaking multisyllabic words into pronounceable units (e.g., VC/CV as in *rab|bit*, V/CV as in *o|pen*, C+le as in *ta|ble*). It is typically carried out through explicit modeling of the division process on example words, guided practice with word lists and connected text, and gradual transfer to independent decoding and spelling.
 

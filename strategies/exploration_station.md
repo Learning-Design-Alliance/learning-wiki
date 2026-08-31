@@ -10,6 +10,8 @@ generated:
 
 # Exploration Station
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 An Exploration Station is a dedicated computer (or small set of stations) provisioned with digital composition tools — image editors, audio recorders, video tools, writing software — that learners use freely before or during composing. Rather than being assigned a single mode or workflow, learners browse, experiment, and discover their own pathway through a multimodal composition task: linear (linguistic → audio → visual), media-first (browsing images and audio before writing), or recursive (moving back and forth between drafts in different modes). The station positions exploration as legitimate work, creating ownership and valuing innovation.
 

@@ -10,6 +10,8 @@ generated:
 
 # Math Games and Movement Breaks
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Short physical math games and movement breaks are inserted into lessons when learners become restless or attention wanes. They serve two functions at once: restoring attention through brief physical activity, and giving learners a second, embodied encounter with the math concept being taught. Games range from teacher-led whole-class activities (stand up/sit down, finger speed-sums, group formation games) to student-pair games, and require no special materials.
 

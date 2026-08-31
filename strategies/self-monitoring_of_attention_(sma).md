@@ -10,6 +10,8 @@ generated:
 
 # Self-Monitoring of Attention (SMA)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Self-monitoring of attention is a self-regulation strategy in which learners systematically observe and record whether they were attending to the task at predetermined intervals. A cue (tone, vibration, or teacher signal) prompts the learner to ask "Was I paying attention?" and mark yes/no on a recording sheet or device. Over time, the act of self-observation itself improves on-task behavior, independent of any external consequence.
 

@@ -10,6 +10,8 @@ generated:
 
 # Scaffolding
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Scaffolding is the element in which support is added temporarily so learners can perform tasks they could not yet complete independently.
 

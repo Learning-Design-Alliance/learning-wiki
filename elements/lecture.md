@@ -10,6 +10,8 @@ generated:
 
 # Lecture
 
+> **Element** · [All elements](index.md)
+
 ## Description
 A lecture is an instructor-led presentation in which an expert explains content to an audience, typically with visual support such as slides or a board. It functions as an efficient means of transmitting explanation, framing, and expert reasoning to many learners simultaneously, but it is fundamentally a one-way channel: learning depends on what learners do before, during, and after it.
 

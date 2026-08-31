@@ -10,6 +10,8 @@ generated:
 
 # Signaling
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Signaling (also called cueing) adds non-content cues — highlighting, underlining, arrows, color, bolding, headings, pre-questions, or vocal emphasis — that direct learners' attention to the essential elements of a text, diagram, video, or slide without altering the content itself. The strategy works by guiding visual or auditory attention toward material relevant to the learning goal, reducing the need for learners to search a display unaided.
 

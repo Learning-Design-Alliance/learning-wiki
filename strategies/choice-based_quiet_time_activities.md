@@ -10,6 +10,8 @@ generated:
 
 # Choice-Based Quiet Time Activities
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Choice-based quiet time gives students a menu of independent, low-stimulation activities — academic options like reading, writing, or finishing classwork alongside restorative options like doodling, solitary games, or meditation — from which they select freely. The teacher curates the options, models the routines, and protects the quiet environment, but refrains from direct interaction, making the period a structured exercise in autonomy and self-regulation.
 

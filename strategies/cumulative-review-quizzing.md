@@ -10,6 +10,8 @@ generated:
 
 # Cumulative Review Quizzing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Cumulative review quizzing means every quiz, test, or retrieval activity draws on material from the entire course to date, not only the most recent unit. It is typically implemented through frequent low-stakes quizzes in which a portion of items revisit earlier content, forcing learners to retrieve knowledge they learned weeks or months ago. The strategy combines two well-established effects: retrieval practice strengthens memory more than restudying, and spaced retrieval produces more durable retention than massed retrieval.
 

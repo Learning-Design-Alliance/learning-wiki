@@ -11,6 +11,8 @@ evidence_strength: unrated
 
 # Disciplinary Literacy Instruction Improves Comprehension
 
+> **Claim** · [All claims](index.md)
+
 Teaching students the specialized ways of reading, writing, and thinking within a discipline — rather than generic comprehension strategies alone — improves their ability to comprehend discipline-specific texts.
 
 ## Subclaims

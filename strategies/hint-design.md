@@ -10,6 +10,8 @@ generated:
 
 # Hint Design
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Hint design is the deliberate structuring of help so that learners receive the smallest increment of support needed to resume productive work. Hints are typically sequenced from general (pointing to relevant principles or strategies) to specific (revealing a step or the solution), and delivered on demand rather than automatically.
 

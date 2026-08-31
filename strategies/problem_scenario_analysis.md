@@ -10,6 +10,8 @@ generated:
 
 # Problem Scenario Analysis
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Problem Scenario Analysis presents learners with a realistic, often morally or practically ambiguous situation — a cheating incident, a bullying conflict, a workplace dilemma — and structures their engagement with it: analyze the situation, weigh possible actions and consequences, commit to a decision, share it with peers, and reflect on the reasoning behind it. The scenario functions as a [Case Study](../elements/case-study.md) whose value lies less in reaching the "right" answer than in exercising the decision-making process itself.
 

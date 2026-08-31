@@ -10,6 +10,8 @@ generated:
 
 # Critical Response Process
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The Critical Response Process (CRP), developed by choreographer Liz Lerman, is a structured feedback protocol that puts the work's creator in control of the conversation. It proceeds through four steps: **Statements of Meaning** (responders state what was meaningful, evocative, or striking in the work); **Artist as Questioner** (the creator asks questions of the responders); **Neutral Questions** (responders ask questions framed without embedded opinions, and the creator responds); and **Opinion Time** (responders offer opinions, but only with the creator's permission, which can be declined). The sequence deliberately subverts the traditional power dynamic between expert and learner by making feedback a negotiated exchange rather than a unilateral judgment.
 

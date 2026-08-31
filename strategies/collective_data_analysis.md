@@ -10,6 +10,8 @@ generated:
 
 # Collective Data Analysis
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Collective data analysis is a systematic, iterative process of making sense of data through group collaboration, most prominently in participatory action research (PAR) and youth participatory action research (YPAR). Participants — students, teachers, community members — jointly "dive" into datasets (survey results, interview transcripts, observation notes) using structured techniques such as data dives, grounded coding, affinity mapping, and gallery walks to surface themes, outliers, and tensions. The group, not a designated analyst, owns the interpretive work, which both improves the credibility of findings and builds participants' analytical capability.
 

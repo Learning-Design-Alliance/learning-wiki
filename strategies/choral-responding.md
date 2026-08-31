@@ -10,6 +10,8 @@ generated:
 
 # Choral Responding
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Choral responding is a whole-group response technique in which the instructor poses a question or prompt and all learners answer aloud, in unison, on a shared signal (e.g., a hand drop, finger snap, or "everyone…"). It is a high-structure form of increasing [opportunity to respond](../elements/attention.md): instead of one student answering a question, every student produces an audible response to every prompt.
 

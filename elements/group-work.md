@@ -10,6 +10,8 @@ generated:
 
 # Group Work
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Group work is the element in which learners work together on a shared task, product, or problem. It is useful when the task benefits from distributed reasoning, division of labor, or collaborative sensemaking.
 

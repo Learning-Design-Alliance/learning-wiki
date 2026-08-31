@@ -10,6 +10,8 @@ generated:
 
 # Student-Generated Questions in PBL
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Student-generated questions in project-based learning (PBL) positions learners as the originators of the inquiry that drives a project: rather than receiving a teacher-posed driving question, students identify what they genuinely want to find out and refine those curiosities into investigable questions. This is carried out through structured question-generation routines (brainstorming, question-storming, question formulation protocols), followed by criteria-based refinement — sorting open vs. closed, prioritizing, and converting vague wonderings into researchable questions that anchor the project.
 

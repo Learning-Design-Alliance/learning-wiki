@@ -10,6 +10,8 @@ generated:
 
 # Prioritizing Self-Advocacy and Self-Determination
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy treats self-advocacy (students understanding and communicating their own needs) and self-determination (goal-setting, choice-making, decision-making, self-monitoring) as primary educational outcomes rather than byproducts. It is carried out by writing these capacities into explicit learning goals (including IEPs), preparing teachers to teach them, assessing them directly, and holding systems accountable through measures such as student engagement and chronic absenteeism.
 

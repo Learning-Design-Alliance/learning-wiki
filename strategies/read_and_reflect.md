@@ -10,6 +10,8 @@ generated:
 
 # Read and Reflect
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Read and Reflect pairs independent reading with a structured post-reading activity — discussion, summarization, or self-explanation — that requires learners to reconstruct and evaluate what they read. Typical formats include turn-and-talk about a prompt, recommending (or not recommending) the text with reasons, proposing an alternative ending, or condensing the text into a strict character limit. The reflection task, not the reading alone, drives the learning: it forces retrieval and elaboration of the material.
 

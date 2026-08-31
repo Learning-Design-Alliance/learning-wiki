@@ -10,6 +10,8 @@ generated:
 
 # Co-Construct Rubrics
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Co-constructing rubrics means involving learners in building the assessment instrument itself: examining samples of work, identifying what distinguishes strong from weak performance, and drafting the criteria and level descriptors together with the instructor. The finished rubric then guides both the learners' production and the evaluation of it. The activity converts assessment criteria from an external mystery into knowledge learners articulate themselves.
 

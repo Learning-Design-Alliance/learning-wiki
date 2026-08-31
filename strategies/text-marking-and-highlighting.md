@@ -10,6 +10,8 @@ generated:
 
 # Text Marking And Highlighting
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Text marking asks learners to selectively highlight, underline, circle, or annotate passages during reading, isolating what they judge to be most important. It is one of the most widely used study strategies, typically followed by re-reading the marked portions. It can be learner-generated (the reader decides what to mark) or provided (instructor or system pre-marks the text).
 

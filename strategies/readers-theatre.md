@@ -10,6 +10,8 @@ generated:
 
 # Readers Theatre
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Readers Theatre is a format in which learners convert a text (narrative, expository, or historical) into a script, rehearse it through repeated oral reading, and perform it aloud for an audience using voice and gesture only — no costumes, sets, or memorization. Because scripts are kept in hand, rehearsal effort goes into prosody (expression, phrasing, pacing) rather than word recall, making it a low-threat route to high-volume repeated reading.
 

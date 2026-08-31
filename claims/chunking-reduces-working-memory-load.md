@@ -20,6 +20,8 @@ evidence_strength: strong
 
 # Chunking reduces working memory load by grouping information into fewer, more meaningful units.
 
+> **Claim** · [All claims](index.md)
+
 By organizing discrete elements into larger, familiar patterns (chunks), learners can effectively bypass the limited capacity of short-term memory, allowing for more complex processing.
 
 ## Subclaims

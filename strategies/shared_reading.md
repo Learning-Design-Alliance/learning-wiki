@@ -10,6 +10,8 @@ generated:
 
 # Shared Reading
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Shared reading is an interactive reading experience in which an adult reads aloud while learners follow along with the visible text, often with an enlarged or duplicated copy so every child can track print. The adult models fluent, expressive reading, makes thinking visible through prediction and questioning, and invites children to join in on refrains, rhymes, and eventually whole passages. Over repeated sessions, responsibility for reading shifts from adult to child, making shared reading a bridge between being read to and independent reading.
 

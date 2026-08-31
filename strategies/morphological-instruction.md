@@ -10,6 +10,8 @@ generated:
 
 # Morphological Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Morphological instruction makes students aware of morphemes — the smallest units of meaning in words — beginning with inflections (–ed, –s, –es, –ing, –er, –est), which change number, person, or tense without changing part of speech, and extending to prefixes and derivational suffixes. It is carried out through [direct instruction](../patterns/direct-instruction.md) on word structure, word sorting and analysis tasks, and structured [practice](../elements/practice.md) in spelling and decomposing words.
 

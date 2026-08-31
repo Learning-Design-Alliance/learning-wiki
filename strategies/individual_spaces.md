@@ -10,6 +10,8 @@ generated:
 
 # Individual Spaces
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Individual spaces are designated classroom zones configured for specific functions — independent work, small-group collaboration, mini-lessons, or whole-group discussion. By matching seating and spatial arrangement to the learning activity, instructors align the physical environment with the cognitive and social demands of each task, reducing distraction and clarifying behavioral expectations.
 

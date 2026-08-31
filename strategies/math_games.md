@@ -10,6 +10,8 @@ generated:
 
 # Math Games
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Math games are structured activities designed to stimulate enthusiasm for math learning by providing opportunities to explore fundamental number concepts, engage in strategic mathematical thinking, and deepen understanding of numbers. Games encourage exploration of number combinations, place value, patterns, and computational strategies, deepening mathematical understanding and reasoning. They also create authentic opportunities for teachers to observe or assess students and to work with individuals or small groups while the rest of the class plays independently.
 

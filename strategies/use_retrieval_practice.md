@@ -10,6 +10,8 @@ generated:
 
 # Use Retrieval Practice
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Retrieval practice asks learners to pull information out of memory — via free recall, short-answer questions, flashcards, or low-stakes quizzing — instead of passively reviewing material. The act of successful retrieval strengthens the memory trace and makes it more accessible in future contexts, a phenomenon known as the testing effect. It is carried out by replacing or supplementing review activities with recall attempts, typically followed by feedback.
 

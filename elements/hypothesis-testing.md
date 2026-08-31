@@ -10,6 +10,8 @@ generated:
 
 # Hypothesis Testing
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Hypothesis testing asks learners to commit to an explicit, testable prediction before encountering evidence, then to evaluate that prediction against the outcome. The commitment step is critical: a stated hypothesis makes the learner's prior conception inspectable, so subsequent evidence is interpreted as confirmation or disconfirmation of something specific rather than absorbed passively.
 

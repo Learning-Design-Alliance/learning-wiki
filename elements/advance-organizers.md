@@ -23,6 +23,8 @@ sources:
 
 # Advance Organizers
 
+> **Element** · [All elements](index.md)
+
 ## Description
 An advance organizer is introductory material — a concept map, outline, analogy, or brief prose passage — presented *before* instruction to provide an anchoring framework into which new content can be assimilated. Introduced by Ausubel, the organizer works by making relevant existing knowledge active and by pre-structuring the relationships among ideas the learner is about to encounter.
 

@@ -10,6 +10,8 @@ generated:
 
 # Creating a Classroom Library
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A classroom library is a curated, accessible collection of books within the learning space, organized so learners can browse, select, and read independently. Setup involves acquiring a diverse collection, organizing it (by genre, topic, theme, or level), labeling bins so covers face outward, and involving learners in categorization decisions. The goal is to make self-selected reading frictionless and appealing.
 

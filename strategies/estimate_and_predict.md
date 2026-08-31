@@ -10,6 +10,8 @@ generated:
 
 # Estimate and Predict
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Learners make explicit, recorded predictions before a task — how well they will perform on an upcoming project, how long an assignment will take, or what score they expect — and then compare those predictions against actual outcomes. The comparison cycle, repeated across tasks, trains the accuracy of learners' judgments of their own knowledge and performance.
 

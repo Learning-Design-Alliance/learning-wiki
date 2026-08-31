@@ -10,6 +10,8 @@ generated:
 
 # Estimation Warm Ups
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 An estimation warm up opens a lesson with a short prompt asking learners to judge a quantity — "How many jelly beans fill this jar?", "Is the height of this tree closer to 5 m or 50 m?", "Roughly what will the answer be?" — before any formal procedure is taught. Learners commit to an estimate, briefly justify their reasoning, and then compare against a revealed value or benchmark. The activity typically runs 3–7 minutes and functions as activation, formative assessment, and motivation for the precise methods the lesson will develop.
 

@@ -10,6 +10,8 @@ generated:
 
 # Hypertext Navigation
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Hypertext navigation presents content as a network of linked nodes — pages, sections, or media objects — that learners traverse in an order they choose, rather than as a fixed linear sequence. The learner controls both the path and the pace, constructing their own route through the material.
 

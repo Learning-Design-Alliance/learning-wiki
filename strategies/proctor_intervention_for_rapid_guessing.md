@@ -10,6 +10,8 @@ generated:
 
 # Proctor Intervention for Rapid Guessing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Rapid guessing — answering far faster than the item requires — is a behavioral marker of disengagement that threatens the validity of assessment data [Response time effort measures distinguish engaged responding from rapid guessing.](https://doi.org/10.1207/s15324818ame1802_2) [+S]. In this strategy, a real-time monitoring system flags rapid-guessing behavior, and a trained proctor approaches the learner, pauses the test, and holds a brief, non-judgmental conversation about what is going on. The goal is to surface and address the cause — confusion, anxiety, fatigue, or low perceived stakes — and to restore effortful engagement rather than to pressure the student.
 

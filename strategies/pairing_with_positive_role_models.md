@@ -10,6 +10,8 @@ generated:
 
 # Pairing With Positive Role Models
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Pairing with positive role models deliberately places a learner who struggles with social, behavioral, or self-regulatory demands alongside a peer who displays competent versions of those behaviors in authentic interaction. The pairing is structured — through shared tasks, seating, or assigned collaboration — so the struggling learner has repeated opportunities to observe, imitate, and receive feedback on effective communication, empathy, and conflict resolution. It operationalizes observational learning: behavior is acquired by watching a model, especially one perceived as similar and competent [Bandura, Ross, & Ross, 1961](https://doi.org/10.1037/h0045925) [+S].
 

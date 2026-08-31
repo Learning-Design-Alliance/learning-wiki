@@ -10,6 +10,8 @@ generated:
 
 # Games + Structured Activity
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Students engage with educational games designed to introduce or reinforce specific concepts, then complete a structured activity that requires them to apply, explain, or extend what the game surfaced. The game provides engagement, immediate feedback, and low-stakes experimentation; the structured activity converts that experience into durable understanding through [Practice](../elements/practice.md) and [Application](../elements/application.md). The pairing matters because game play alone rarely produces transfer — the debrief and application work is where consolidation happens.
 

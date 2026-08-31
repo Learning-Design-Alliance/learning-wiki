@@ -10,6 +10,8 @@ generated:
 
 # Responding with "Yet"
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Adding the word "yet" to responses when learners express frustration or inability (e.g., "I can't do this") reframes the statement as temporary rather than fixed: "You can't do this *yet*." The move is a linguistic enactment of growth mindset theory — it signals that current performance is a stage in development, not a verdict on ability, and implies that continued effort and appropriate support will produce improvement [Dweck's mindset framework links beliefs about malleability to persistence and response to setbacks.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
 

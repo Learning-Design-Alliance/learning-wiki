@@ -10,6 +10,8 @@ generated:
 
 # Teach Key Words for Standardized Test Prompts
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy involves identifying the small set of high-frequency terms that recur in standardized test prompts — verbs like *analyze*, *compare*, *justify*, *trace*, and *evaluate*, plus directional words like *except*, *most likely*, and *primarily* — and teaching them explicitly before test practice. Instruction pairs each term with a definition, a worked prompt example, and student-generated responses, so learners can rapidly classify what a prompt demands instead of losing time or misreading intent during the test itself.
 

@@ -12,6 +12,8 @@ grain_size: unit
 
 # Journaling
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Journaling is the pattern-level target for recurring written reflection used to track learning, sensemaking, or growth over time.
 

@@ -10,6 +10,8 @@ generated:
 
 # Consensus Discussion
 
+> **Element** · [All elements](index.md)
+
 ## Description
 A consensus discussion asks a group of learners to move beyond stating positions toward agreeing on a shared judgment, decision, or jointly worded answer. Unlike [Debate](debate.md), the goal is not to win but to integrate perspectives into a single defensible position that all participants can endorse.
 

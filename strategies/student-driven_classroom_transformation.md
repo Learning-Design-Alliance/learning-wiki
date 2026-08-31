@@ -10,6 +10,8 @@ generated:
 
 # Student-Driven Classroom Transformation
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Student-driven classroom transformation engages learners in the design and redesign of their physical learning environment — layout, furniture, lighting, color, environmental print, and organization of materials — rather than treating the room as a fixed backdrop decided by the teacher. Students contribute ideas, negotiate design decisions, and often carry out the physical transformation themselves. The strategy treats the environment as a curriculum object: the process of shaping the space builds ownership, agency, and community alongside the resulting "brain-friendly" space itself.
 

@@ -23,6 +23,8 @@ sources:
 
 # Solution Development
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Solution development asks learners to synthesize information from multiple sources into a proposed solution to an authentic problem, then test, evaluate, and revise that solution against evidence or feedback. It functions as the productive phase of problem-centered instruction — the point where analysis converts into a concrete, defensible artifact or decision.
 

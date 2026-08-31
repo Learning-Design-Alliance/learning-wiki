@@ -11,6 +11,8 @@ evidence_strength: weak
 
 # Highlighting Alone Low Utility
 
+> **Claim** · [All claims](index.md)
+
 Highlighting or underlining text during reading is one of the most widely used study strategies, yet as a standalone technique it shows weak support for improving learning outcomes relative to strategies that require generative processing.
 
 ## Subclaims

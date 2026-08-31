@@ -10,6 +10,8 @@ generated:
 
 # Facilitating Discourse (Online)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Facilitating discourse in online learning involves more than requiring students to post in a discussion forum. The instructor regularly reads and responds to postings, moves stalled or drifting conversations forward, draws out areas of agreement and disagreement, points out linkages between contributions, and helps students articulate shared understandings. Immediacy behaviors — referring to students by name, sharing personal examples, timely responses — build the social and teaching presence that sustains productive dialogue. In the [Community of Inquiry](../principles/community-of-inquiry.md) framework, this facilitation is the mechanism by which teaching presence enables cognitive presence: without it, online discussion tends to collapse into serial monologue rather than genuine knowledge construction.
 

@@ -10,6 +10,8 @@ generated:
 
 # Discussing Emotions
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Discussing emotions is a strategy in which learners regularly name, talk about, and reflect on the feelings they experience during learning — frustration at a hard problem, anxiety before an assessment, curiosity sparked by a surprising result. It is carried out through structured routines: brief [check-ins](../elements/check-in.md), whole-class or small-group [discussion](../elements/class-discussion.md), journaling prompts, and teacher-modeled emotion vocabulary. The goal is not therapy but metacognitive and motivational awareness: emotions are treated as data about the learning process that can be examined and regulated.
 

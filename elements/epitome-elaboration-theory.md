@@ -10,6 +10,8 @@ generated:
 
 # Epitome (Elaboration Theory)
 
+> **Element** · [All elements](index.md)
+
 ## Description
 An epitome is a deliberately simplified, holistic version of the full content — the most fundamental ideas and a representative whole task — presented before any detailed elaboration. In [Elaboration Theory](../patterns/elaboration-theory.md), successive passes then add complexity layer by layer, so learners always hold a complete (if coarse) picture of the subject rather than accumulating isolated parts.
 

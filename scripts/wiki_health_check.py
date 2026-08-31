@@ -113,6 +113,7 @@ def run(skip_doi: bool = False) -> dict:
         "conflicts": lint.check_open_conflicts,
         "trust": lint.check_stable_unverified,
         "manifest": lint.check_manifest_integrity,
+        "type_banner": lint.check_type_banner,
     }
     lint_results = {name: fn(pages) for name, fn in lint_checks.items()}
 

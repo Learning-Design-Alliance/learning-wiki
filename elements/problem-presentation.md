@@ -10,6 +10,8 @@ generated:
 
 # Problem Presentation
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Problem presentation is the instructional element in which learners are confronted with an authentic, ill-structured problem before receiving instruction on how to solve it. The problem functions as the organizing stimulus for inquiry: it activates prior knowledge, creates a need to know, and situates subsequent learning in a meaningful context. It is the opening move of [Problem-Based Learning](../patterns/problem-based-learning.md) and [Goal-Based Scenarios](../patterns/goal-based-scenarios.md), where the quality of the problem largely determines the quality of the learning that follows.
 

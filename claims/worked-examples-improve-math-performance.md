@@ -20,6 +20,8 @@ evidence_strength: moderate
 
 # Worked examples improve mathematics performance, especially for novices.
 
+> **Claim** · [All claims](index.md)
+
 In mathematics learning, worked examples can improve performance by making solution structure visible before learners attempt similar problems on their own.
 
 ## Subclaims

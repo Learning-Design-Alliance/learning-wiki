@@ -10,6 +10,8 @@ generated:
 
 # Empathy for Educators
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Empathy for educators is a professional strategy in which teachers deliberately cultivate an empathic mindset toward their students — seeking to understand students' perspectives, experiences, and emotional states, and using that understanding to inform instructional decisions and relational behavior. It is carried out through structured perspective-taking exercises, gathering and acting on student voice, and reflective practice that examines one's own attributions about student behavior.
 

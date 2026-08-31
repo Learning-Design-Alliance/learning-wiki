@@ -10,6 +10,8 @@ generated:
 
 # Student Created Magazines
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Students produce a magazine — individually or in editorial teams — that synthesizes course content into articles, features, interviews, and visuals addressed to a defined readership. The strategy combines research, expository and narrative writing, peer editing, and design decisions, culminating in a published artifact (print or digital) shared with an audience beyond the teacher.
 

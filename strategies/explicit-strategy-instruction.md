@@ -10,6 +10,8 @@ generated:
 
 # Explicit Strategy Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Explicit strategy instruction teaches learners specific tools and techniques for solving problems and regulating their own learning. The instructor names the strategy, models its use (ideally with visible reasoning), provides guided practice with feedback, and — critically — explains *when* and *why* the strategy applies, so learners can deploy it independently across contexts. The goal is not just possession of a technique but conditional knowledge: knowing how, when, and why to use it.
 

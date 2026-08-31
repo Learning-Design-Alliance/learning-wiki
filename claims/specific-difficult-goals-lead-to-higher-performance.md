@@ -16,6 +16,8 @@ evidence_strength: strong
 
 # Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.
 
+> **Claim** · [All claims](index.md)
+
 Setting clear, measurable, and challenging targets helps focus attention, increase effort and persistence, and encourages the development of effective task strategies.
 
 ## Subclaims

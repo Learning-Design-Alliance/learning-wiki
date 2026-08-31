@@ -10,6 +10,8 @@ generated:
 
 # Graphic Organizers for Pre-Reading
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Students identify the text structure (compare/contrast, cause/effect, problem/solution, sequence) before reading and complete a graphic organizer that mirrors that structure as they read. The organizer functions as an [Advance Organizer](../elements/advance-organizers.md): it provides a skeletal framework that learners populate during reading, converting prose into a spatial representation of the text's logic. KWL charts and similar pre-reading frames also activate prior knowledge and set a purpose for reading.
 

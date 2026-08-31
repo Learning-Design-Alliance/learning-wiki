@@ -11,6 +11,8 @@ evidence_strength:
 
 # Rubrics improve student work
 
+> **Claim** · [All claims](index.md)
+
 Rubrics — explicit scoring guides describing performance criteria across quality levels — improve the quality of student work by making expectations visible before and during task completion. This page is currently a plausible hypothesis awaiting evidence: no studies have yet been added to the Evidence section.
 
 ## Subclaims

@@ -10,6 +10,8 @@ generated:
 
 # GoNoodle: Physical Activity & Movement Breaks
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 GoNoodle is a free classroom platform offering short (typically 2–5 minute) videos that lead whole-class movement, dance, breathing, and mindfulness activities. Teachers deploy these breaks as transitions between instructional segments, as energizers when attention wanes, or as calming routines before focused work. The strategy — structured physical activity breaks delivered via guided video — can be implemented with or without the platform itself.
 

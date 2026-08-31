@@ -10,6 +10,8 @@ generated:
 
 # Model-Eliciting Activities (MEAs)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Model-Eliciting Activities are open-ended, realistic problems in which teams of learners must invent, document, test, and revise a generalizable procedure or model — a ranking system, a selection rule, a predictive tool — that a hypothetical client could actually use. Developed by Lesh and colleagues in mathematics education, MEAs are structured around a client letter and a "readiness questions" sequence, and they require learners to externalize their thinking in a written product that can be interpreted, critiqued, and improved by others. The activity is "model-eliciting" because the problem cannot be solved by applying a known procedure; learners must construct the procedure itself.
 

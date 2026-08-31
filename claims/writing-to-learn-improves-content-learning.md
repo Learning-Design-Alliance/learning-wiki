@@ -11,6 +11,8 @@ evidence_strength:
 
 # Writing To Learn Improves Content Learning
 
+> **Claim** · [All claims](index.md)
+
 Writing about subject-matter content — as opposed to writing to demonstrate learning — can deepen understanding of that content by forcing learners to organize, elaborate, and articulate ideas in their own words.
 
 ## Subclaims

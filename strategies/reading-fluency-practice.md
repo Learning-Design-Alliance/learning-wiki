@@ -10,6 +10,8 @@ generated:
 
 # Reading Fluency Practice
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Reading fluency practice gives learners repeated, supported opportunities to read connected text aloud with feedback, targeting the three components of fluency: accuracy, automaticity (rate), and prosody. Core formats include repeated reading of the same passage until a criterion is met, paired or choral reading, and listening-while-reading with recorded models. The goal is not speed for its own sake but automatic word recognition, which releases working memory for meaning-making [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S].
 

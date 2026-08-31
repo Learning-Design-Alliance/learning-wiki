@@ -10,6 +10,8 @@ generated:
 
 # Literature Circles
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Literature circles organize students into small, temporary groups that each select a book to read, meet on a recurring schedule to discuss it, and produce reflective or project-based responses demonstrating understanding. Discussion is student-led: the teacher selects and curates book choices, observes, and offers feedback, while students prepare using notes and marked passages. The approach emphasizes simplicity, adaptability, and student ownership of both text selection and conversation.
 

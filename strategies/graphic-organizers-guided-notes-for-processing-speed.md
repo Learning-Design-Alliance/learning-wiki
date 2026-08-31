@@ -10,6 +10,8 @@ generated:
 
 # Graphic Organizers / Guided Notes (for Processing Speed)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 During lecture, learners are provided with graphic organizers or guided notes to help pull out the important points. These tools structure the information being presented, making it easier to process and retain. Guided notes prompt learners to fill in key information — blanks, prompts, or diagram nodes — promoting active engagement during the lecture rather than verbatim transcription.
 

@@ -10,6 +10,8 @@ generated:
 
 # Analogical Encoding
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Analogical encoding asks learners to compare two or more surface-different cases that share the same underlying structure (e.g., two negotiation dilemmas both hinging on a trade-off between value creation and value claiming). Through comparison, learners extract the shared relational schema and encode it as the case's central meaning, making it more likely they will recognize that structure in a new, surface-dissimilar problem. It is carried out by presenting paired cases, prompting explicit comparison ("How are these two situations alike?"), and naming the abstract principle the comparison reveals.
 

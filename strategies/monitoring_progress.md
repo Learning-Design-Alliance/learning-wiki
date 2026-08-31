@@ -10,6 +10,8 @@ generated:
 
 # Monitoring Progress
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Monitoring progress is the ongoing process of assessing advancement towards a learning or performance goal — checking whether one is on schedule, detecting deviations from the action plan, and making timely adjustments. It is the self-observation phase of [Self-Regulated Learning](../theories/self-regulated-learning.md): learners compare current performance against a standard, and the resulting discrepancy information drives strategy revision and renewed effort.
 

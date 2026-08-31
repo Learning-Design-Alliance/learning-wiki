@@ -10,6 +10,8 @@ generated:
 
 # Exam Wrappers
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 An exam wrapper (also called a post-exam reflection or cognitive wrapper) is a brief structured worksheet or activity that students complete around the time of an exam — most often immediately after receiving their results, sometimes also before the exam. It prompts students to connect their preparation behaviors (time spent, strategies used, resources consulted) with their actual performance, and to commit to one or two concrete changes for the next assessment cycle. The wrapper "wraps" metacognitive reflection around the assessment event itself, when feedback is salient and motivation to adjust is highest.
 

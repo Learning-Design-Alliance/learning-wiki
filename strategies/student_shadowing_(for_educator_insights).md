@@ -10,6 +10,8 @@ generated:
 
 # Student Shadowing (For Educator Insights)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Student shadowing places an educator in the position of following one student through an entire school day — attending their classes, transitions, lunch, and unstructured time — while recording observations about engagement, cognitive demand, social dynamics, and instructional quality. The educator adopts an observational, non-participatory stance, capturing what the student actually experiences rather than what the schedule or lesson plan says happens. The output is typically a structured field-note record used to inform instructional design, school improvement, and empathy-driven redesign.
 

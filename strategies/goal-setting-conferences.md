@@ -10,6 +10,8 @@ generated:
 
 # Goal Setting Conferences
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A goal setting conference is a structured one-on-one (or small-group) conversation in which a teacher and learner jointly identify a specific, challenging-but-attainable learning goal, agree on success criteria and strategies, and schedule a follow-up to review progress. The conference converts abstract expectations ("do better in reading") into concrete commitments ("read two chapter books this month and track summaries in my journal"), and positions the learner — not the teacher — as the owner of the goal.
 

@@ -10,6 +10,8 @@ generated:
 
 # Setting Goals
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Lessons have clear learning intentions with goals that clarify what success looks like. Lesson goals always explain what students need to understand and what they must be able to do. Clear goals help the teacher plan learning activities and help students understand what is required, providing a reference point against which progress can be monitored and [Assessment](../elements/assessment.md) interpreted.
 

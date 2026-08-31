@@ -10,6 +10,8 @@ generated:
 
 # Home School Communication
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Home school communication is the deliberate design of channels through which teachers and families exchange information about student learning — progress reports, conferences, digital platforms, newsletters, and informal contacts. Effective communication is two-way and learning-focused: families receive actionable information about what their child is learning and how to support it, and educators learn about the child's home context. It is a core component of Epstein's framework of "partnerships" among school, family, and community.
 

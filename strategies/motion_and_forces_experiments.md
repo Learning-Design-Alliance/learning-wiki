@@ -10,6 +10,8 @@ generated:
 
 # Motion and Forces Experiments
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Hands-on physical science investigations in which learners manipulate variables — ball mass, ramp height, pendulum length, surface friction — to observe and measure how forces affect motion and energy transfer. Learners generate predictions, run trials, record measurements, and reconcile results with their initial conceptions. The strategy sits at the intersection of inquiry-based science and embodied learning: the phenomenon is physically experienced, not merely described.
 
