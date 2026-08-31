@@ -22,11 +22,12 @@ STATUS_LABELS = {
     "fetching": ("Fetching", "var(--status-warn)"),
     "generating": ("Generating", "var(--status-warn)"),
     "ingesting": ("Ingesting", "var(--status-warn)"),
+    "validating": ("Validating citations", "var(--status-warn)"),
     "completed": ("Completed", "var(--status-good)"),
     "error": ("Error", "var(--status-critical)"),
     "stopped_by_user": ("Stopped", "var(--status-critical)"),
 }
-ACTIVE_STATUSES = ("discovering", "fetching", "generating", "ingesting")
+ACTIVE_STATUSES = ("discovering", "fetching", "generating", "ingesting", "validating")
 
 
 def _esc(s) -> str:
@@ -325,6 +326,7 @@ def render_html(state: dict, history: list = None) -> str:
       fetching: ['Fetching', 'var(--status-warn)'],
       generating: ['Generating', 'var(--status-warn)'],
       ingesting: ['Ingesting', 'var(--status-warn)'],
+      validating: ['Validating citations', 'var(--status-warn)'],
       completed: ['Completed', 'var(--status-good)'],
       error: ['Error', 'var(--status-critical)'],
       stopped_by_user: ['Stopped', 'var(--status-critical)']
@@ -363,7 +365,7 @@ def render_html(state: dict, history: list = None) -> str:
     function applyState(state) {{
       var status = state.status || 'unknown';
       var labelColor = STATUS_LABELS[status] || [status, 'var(--text-secondary)'];
-      var isActive = ['discovering', 'fetching', 'generating', 'ingesting'].indexOf(status) !== -1;
+      var isActive = ['discovering', 'fetching', 'generating', 'ingesting', 'validating'].indexOf(status) !== -1;
       var config = state.config || {{}};
       var discover = state.discover || {{}};
       var fetchState = state.fetch || {{}};
