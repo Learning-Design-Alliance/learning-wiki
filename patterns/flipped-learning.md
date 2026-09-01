@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: flipped-learning
 title: Flipped Learning
 description: Flipped Learning is a pattern that moves some initial content exposure outside class so synchronous time can be used for application, discussion, and feedback.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: element
+id: consensus-discussion
 title: Consensus Discussion
 description: Learners work collaboratively to agree on a shared perspective or decision.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: principle
+id: self-affirmation
 title: Self Affirmation
 description: Brief values-affirmation activities in which learners reflect on personally important values reduce threat and defensive responses, protecting learning and performance in evaluative or stereotype-laden contexts.
 status: review

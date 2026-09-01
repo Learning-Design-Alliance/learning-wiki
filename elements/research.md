@@ -1,5 +1,6 @@
 ---
 type: element
+id: research
 title: Research
 description: Learners conduct investigations to explore topics, gather evidence, and develop conclusions.
 status: review

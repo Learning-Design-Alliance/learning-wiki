@@ -1,5 +1,6 @@
 ---
 type: element
+id: act-it-out
 title: Act It Out
 description: Learners physically enact a concept, process, scenario, or role, converting verbal content into embodied performance.
 status: review

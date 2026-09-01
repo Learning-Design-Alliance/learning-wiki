@@ -1,5 +1,6 @@
 ---
 type: principle
+id: deliberate-practice
 title: Deliberate Practice
 description: Deliberate practice is the principle of engaging learners in focused, feedback-rich practice on specific aspects of performance that are just beyond current ability.
 status: review

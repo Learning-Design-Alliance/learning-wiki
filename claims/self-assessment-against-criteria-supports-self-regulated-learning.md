@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: self-assessment-criteria-srl
+id: self-assessment-against-criteria-supports-self-regulated-learning
 evidence_strength: moderate
 sources:
   - id: zimmerman-2002

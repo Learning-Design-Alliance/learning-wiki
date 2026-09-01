@@ -1,5 +1,6 @@
 ---
 type: element
+id: reflection-activities
 title: Reflection Activities
 description: Reflection activities are structured tasks that ask learners to examine what they did, understood, or would change next.
 status: review

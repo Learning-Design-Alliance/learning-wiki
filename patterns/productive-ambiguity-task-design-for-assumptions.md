@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: productive-ambiguity-task-design-for-assumptions
 title: Productive Ambiguity Task Design for Assumptions
 description: A mathematics task design that deliberately leaves a local assumption (a task condition or the meaning of a lay term) unspecified, so that students generate genuinely contradictory yet individually legitimate answers, then are guided to recognize why an explicit assumption is needed and to revise the task's wording themselves.
 status: draft

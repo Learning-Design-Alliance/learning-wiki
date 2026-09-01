@@ -1,5 +1,6 @@
 ---
 type: element
+id: hands-on-learning
 title: Hands-on Learning
 description: Hands-on learning is the element in which learners manipulate materials, tools, or environments directly while applying ideas in practice.
 status: review

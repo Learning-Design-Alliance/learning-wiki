@@ -1,5 +1,6 @@
 ---
 type: principle
+id: explicit-instruction-internet-search
 title: "Explicit Instruction: Internet Search"
 description: Teaching learners how to effectively search the internet is critical for helping them learn how to find accurate and relevant information and aids in developing information literacy.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: element
+id: argument-construction
 title: Argument Construction
 description: Learners develop structured arguments with supporting evidence.
 status: review

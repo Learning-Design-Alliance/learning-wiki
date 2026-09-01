@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Justice-oriented youth maker programs support redefinition of entrepreneurialism and resistance to structural misrecognition
-id: greenberg-1
+id: justice-oriented-youth-maker-programs-support-critical-identity-and-resistance
 status: draft
 generated:
   by: claude/unspecified

@@ -1,5 +1,6 @@
 ---
 type: principle
+id: competency-based-assessment
 title: Competency-Based Assessment
 description: Judge learners against explicit, observable competencies and defined mastery thresholds rather than normed averages or seat time, using evidence that actually elicits the competence being claimed.
 status: review

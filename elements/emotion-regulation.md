@@ -1,5 +1,6 @@
 ---
 type: element
+id: emotion-regulation
 title: Emotion Regulation
 description: Instructional supports that help learners monitor, reframe, and manage emotional states — anxiety, boredom, frustration, and stress — so that affect does not consume cognitive and motivational resources needed for learning.
 status: review

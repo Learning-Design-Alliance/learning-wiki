@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: handwriting-instruction-improves-legibility
+id: explicit-handwriting-instruction-improves-legibility
 evidence_strength: insufficient
 ---
 

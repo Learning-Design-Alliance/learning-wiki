@@ -1,5 +1,6 @@
 ---
 type: principle
+id: real-world-math
 title: Real-world Math
 description: Real-world math connects mathematical ideas to situations learners recognize as meaningful in work, home, community, finance, health, civic life, or further study.
 status: review

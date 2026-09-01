@@ -1,5 +1,6 @@
 ---
 type: element
+id: peer-interaction
 title: Peer Interaction
 description: Learners engage with one another through discussions, debates, or collaborative tasks.
 status: review

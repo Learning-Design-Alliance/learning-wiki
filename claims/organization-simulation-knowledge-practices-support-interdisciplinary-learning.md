@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Organization-simulation knowledge practices support interdisciplinary learning
-id: kop-1
+id: organization-simulation-knowledge-practices-support-interdisciplinary-learning
 status: draft
 generated:
   by: claude/unspecified

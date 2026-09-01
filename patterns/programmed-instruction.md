@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: programmed-instruction
 title: Programmed Instruction
 description: Programmed Instruction breaks content into small self-contained steps, each requiring an active response with immediate confirmation, so learners advance individually rather than at a group's pace.
 status: draft

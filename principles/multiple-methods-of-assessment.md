@@ -1,5 +1,6 @@
 ---
 type: principle
+id: multiple-methods-of-assessment
 title: Multiple Methods of Assessment
 description: Using multiple methods of assessment means gathering evidence of learning through more than one type of task, representation, or performance.
 status: review

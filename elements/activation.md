@@ -1,5 +1,6 @@
 ---
 type: element
+id: activation
 title: Activation
 description: Learners are encouraged to recall and activate prior knowledge to prepare for new learning.
 status: review

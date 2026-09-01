@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: afl-improves-achievement
+id: assessment-for-learning-improves-achievement
 evidence_strength: moderate
 ---
 

@@ -1,5 +1,6 @@
 ---
 type: element
+id: positive-interdependence
 title: Positive Interdependence
 description: A structural condition in cooperative learning where group members cannot succeed unless all members succeed, linking individual outcomes to shared goals.
 status: review

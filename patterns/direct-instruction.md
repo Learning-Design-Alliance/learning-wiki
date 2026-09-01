@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: direct-instruction
 title: Direct Instruction
 description: Direct instruction is the short-form canonical pattern for explicit explanation, modeling, guided practice, and feedback.
 status: review

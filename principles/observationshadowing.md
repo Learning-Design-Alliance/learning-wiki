@@ -1,5 +1,6 @@
 ---
 type: principle
+id: observationshadowing
 title: Observation/Shadowing
 description: Observation and shadowing are learning designs in which learners watch peers, experts, or practitioners perform authentic work in order to notice strategies, decisions, routines, and contextual demands that are difficult to infer from…
 status: review

@@ -1,5 +1,6 @@
 ---
 type: element
+id: example-problem-pairs
 title: Example Problem Pairs
 description: An example problem pair presents a fully worked solution followed immediately by a similar problem for the learner to solve, alternating study of an example with practice on an isomorphic task.
 status: review

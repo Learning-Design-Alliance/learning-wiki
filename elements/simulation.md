@@ -1,5 +1,6 @@
 ---
 type: element
+id: simulation
 title: Simulation
 description: A simulation is an interactive model of a system or environment in which learners act, observe consequences, and iterate, learning through controlled experimentation rather than direct instruction.
 status: review

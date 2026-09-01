@@ -1,5 +1,6 @@
 ---
 type: principle
+id: empathy-interviews
 title: Empathy Interviews
 description: Empathy interviews are structured, open-ended conversations designed to help educators or designers understand how learners experience school, work, systems, and support.
 status: review

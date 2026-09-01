@@ -1,5 +1,6 @@
 ---
 type: element
+id: coaching
 title: Coaching
 description: Instructors provide individualized, ongoing support and guidance as learners perform a task, offering hints, feedback, and modeling tailored to current performance.
 status: review

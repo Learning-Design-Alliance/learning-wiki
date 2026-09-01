@@ -1,5 +1,6 @@
 ---
 type: element
+id: real-world-math
 title: Real-World Math
 description: Real-world math is the element in which mathematical reasoning is embedded in practical or authentic contexts.
 status: review

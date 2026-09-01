@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Conversational turn-taking predicts language development better than raw word count or socioeconomic status.
-id: ld-1
+id: conversational-turns-predict-language-development
 status: draft
 generated:
   by: claude/unspecified

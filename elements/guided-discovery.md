@@ -1,5 +1,6 @@
 ---
 type: element
+id: guided-discovery
 title: Guided Discovery
 description: Guided discovery is the element in which learners investigate, infer, or notice patterns for themselves, but with prompts, constraints, examples, or feedback that keep the exploration productive.
 status: review

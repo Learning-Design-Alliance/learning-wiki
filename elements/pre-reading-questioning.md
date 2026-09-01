@@ -1,5 +1,6 @@
 ---
 type: element
+id: pre-reading-questioning
 title: Pre-Reading Questioning
 description: Pre-reading questioning is the element in which learners preview a text through guiding questions before or during initial reading.
 status: review

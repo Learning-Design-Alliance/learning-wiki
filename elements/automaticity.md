@@ -1,5 +1,6 @@
 ---
 type: element
+id: automaticity
 title: Automaticity
 description: Automaticity is the state in which a skill or recognition process executes with minimal conscious attention and working-memory demand, freeing cognitive resources for higher-level tasks.
 status: review

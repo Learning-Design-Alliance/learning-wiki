@@ -1,5 +1,6 @@
 ---
 type: principle
+id: evaluating-sources
 title: Evaluating Sources
 description: Teaching adult learners how to systematically evaluate sources prepares them to navigate information in an increasingly complex, digital world.
 status: review

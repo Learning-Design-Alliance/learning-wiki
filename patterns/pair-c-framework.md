@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: pair-c-framework
 title: PAIR-C Framework (Pattern, Agents, Interactions, Relations, Causality)
 description: A five-dimension instructional scaffold for teaching emergent phenomena (e.g., natural selection, collective behavior) by explicitly contrasting decentralized, collective causal structure with sequential, individualistic causal structure.
 status: draft

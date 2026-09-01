@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information
-id: ld-10
+id: discussion-promotes-more-active-thought-than-lecture
 status: draft
 generated:
   by: claude/unspecified

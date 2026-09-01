@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: learners-misjudge-strategy-effectiveness
+id: learners-misjudge-effective-learning-strategies
 evidence_strength:
 ---
 

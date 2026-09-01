@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Dialogic teacher support cultivates all four aspects of statistical modeling practice over a multi-week unit
-id: wisittanawat-1
+id: dialogic-teacher-support-cultivates-statistical-modeling-practice
 status: draft
 generated:
   by: claude/unspecified

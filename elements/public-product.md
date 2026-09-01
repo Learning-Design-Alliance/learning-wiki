@@ -1,5 +1,6 @@
 ---
 type: element
+id: public-product
 title: Public Product
 description: Public product is the element in which learners create work intended for real audiences beyond the teacher alone.
 status: review

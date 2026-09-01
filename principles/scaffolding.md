@@ -1,5 +1,6 @@
 ---
 type: principle
+id: scaffolding
 title: Scaffolding
 description: Scaffolding is the principle of providing temporary support that helps learners perform beyond what they could do independently.
 status: review

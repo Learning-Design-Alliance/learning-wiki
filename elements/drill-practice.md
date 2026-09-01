@@ -1,5 +1,6 @@
 ---
 type: element
+id: drill-practice
 title: "Drill & Practice"
 description: Drill and practice is the element in which learners repeatedly perform a focused skill or response pattern until it becomes more fluent or automatic.
 status: review

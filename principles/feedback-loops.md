@@ -1,5 +1,6 @@
 ---
 type: principle
+id: feedback-loops
 title: Feedback Loops
 description: Feedback loops are the principle of using learner performance to generate information that changes the next action for the learner, the instructor, or the system.
 status: review

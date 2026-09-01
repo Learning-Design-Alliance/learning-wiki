@@ -1,5 +1,6 @@
 ---
 type: principle
+id: engagement
 title: Engagement
 description: Engagement is the principle of designing learning so that learners attend, participate, and sustain effort in cognitively meaningful ways.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: element
+id: learner-choice
 title: Learner Choice
 description: Learner choice is the element in which learners are given meaningful options about task, process, product, or pathway.
 status: review

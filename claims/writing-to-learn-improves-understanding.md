@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: wtl-1
+id: writing-to-learn-improves-understanding
 evidence_strength: pending
 ---
 

@@ -1,5 +1,6 @@
 ---
 type: element
+id: conceptual-questioning
 title: Conceptual Questioning
 description: Learners answer thought-provoking questions designed to challenge assumptions and deepen understanding.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: heterogeneity-seeking-modeling-curriculum
 title: Heterogeneity-Seeking Modeling Curriculum
 description: A science modeling unit that deliberately maintains multiple, complementary model types for the same phenomenon — physical, computational, diagrammatic, embodied, observational — without converging students toward one canonical model, using open-ended facilitation prompts that ask what each model reveals rather than which model is correct.
 status: draft

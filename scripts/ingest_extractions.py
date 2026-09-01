@@ -116,7 +116,7 @@ def _bullets(items, formatter=lambda x: str(x)) -> str:
     return "\n".join(f"- {formatter(i)}" for i in items)
 
 
-def _render_claim(contrib: dict, actor: str) -> tuple[dict, str]:
+def _render_claim(contrib: dict, actor: str, slug: str) -> tuple[dict, str]:
     title = (contrib.get("title") or "").strip()
     evidence = [e for e in (contrib.get("evidence") or []) if isinstance(e, dict)]
     subclaims = [s for s in (contrib.get("subclaims") or []) if isinstance(s, dict)]
@@ -204,7 +204,11 @@ def _render_claim(contrib: dict, actor: str) -> tuple[dict, str]:
         "type": "claim",
         "title": title,
         "description": _one_sentence(title, "Untitled claim"),
-        "id": contrib.get("id") or f"CL-{(ok.slugify(title) or 'unk')[:8]}",
+        # The slug, not a CL-xxxxxxxx code. A claim's identity is the name a
+        # design document cites it by (research:<claim-slug>); a truncated
+        # 8-character hash was neither stable nor unique — six such ids were
+        # already shared by two pages each. See scripts/page_identity.py.
+        "id": slug,
         "status": "draft",
         "generated": {"by": actor, "at": TODAY},
         "evidence_strength": contrib.get("evidence_strength"),
@@ -254,7 +258,7 @@ _OTHER_LAYOUT = {
 }
 
 
-def _render_other(contrib: dict, ctype: str, actor: str) -> tuple[dict, str]:
+def _render_other(contrib: dict, ctype: str, actor: str, slug: str) -> tuple[dict, str]:
     folder = TYPE_TO_FOLDER[ctype]
     layout = _OTHER_LAYOUT[ctype]
     title = (contrib.get("title") or "").strip()
@@ -341,6 +345,11 @@ def _render_other(contrib: dict, ctype: str, actor: str) -> tuple[dict, str]:
 
     fm = {
         "type": ctype,
+        # Identity from birth for the kinds a design document points at, so a
+        # freshly ingested element resolves without a backfill pass. Strategies
+        # and theories are reached through the reverse index, never named.
+        **({"id": slug} if folder in ("elements", "principles", "patterns",
+                                      "learner-variables") else {}),
         "title": title,
         "description": _one_sentence(description, title or "Untitled"),
         "status": "draft",
@@ -360,9 +369,9 @@ def render_page(contrib: dict, actor: str) -> tuple[str, str, dict, str] | None:
         return None
     folder = TYPE_TO_FOLDER[ctype]
     if ctype == "claim":
-        fm, body = _render_claim(contrib, actor)
+        fm, body = _render_claim(contrib, actor, slug)
     else:
-        fm, body = _render_other(contrib, ctype, actor)
+        fm, body = _render_other(contrib, ctype, actor, slug)
     return folder, slug, fm, body
 
 

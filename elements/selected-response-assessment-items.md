@@ -1,5 +1,6 @@
 ---
 type: element
+id: selected-response-assessment-items
 title: Selected-Response Assessment Items
 description: Multiple-choice, true-false, and matching items ask students to select rather than construct a response — easy to score objectively, but hard to write well, and appropriate mainly for recognition-level rather than complex learning goals.
 status: draft

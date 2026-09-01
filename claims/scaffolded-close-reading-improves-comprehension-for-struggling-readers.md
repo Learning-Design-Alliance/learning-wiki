@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: scaffolded-close-reading-struggling-readers
+id: scaffolded-close-reading-improves-comprehension-for-struggling-readers
 evidence_strength: weak
 ---
 

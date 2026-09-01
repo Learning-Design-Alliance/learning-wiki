@@ -1,5 +1,6 @@
 ---
 type: element
+id: task-management
 title: Task Management
 description: Task management is the element in which learners organize, track, assign, or sequence work across a project or collaborative activity.
 status: review

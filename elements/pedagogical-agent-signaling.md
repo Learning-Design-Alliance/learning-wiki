@@ -1,5 +1,6 @@
 ---
 type: element
+id: pedagogical-agent-signaling
 title: Pedagogical Agent Signaling for Feedback Salience
 description: An embodied on-screen agent that points and gazes directly at feedback text when it appears, using social cueing rather than a generic arrow to pull elementary students' attention to feedback they would otherwise skip.
 status: draft

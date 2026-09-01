@@ -1,5 +1,6 @@
 ---
 type: element
+id: journaling
 title: Journaling
 description: Journaling is the element in which learners record reflections, observations, questions, or progress over time in written form.
 status: review

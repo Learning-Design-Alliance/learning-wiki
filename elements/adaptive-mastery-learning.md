@@ -1,5 +1,6 @@
 ---
 type: element
+id: adaptive-mastery-learning
 title: Adaptive Mastery Learning
 description: Learners progress through levels of difficulty with personalized challenges and just-in-time feedback.
 status: review

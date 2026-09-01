@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: lp-1
+id: learner-paced-beats-system-paced-complex-material
 evidence_strength: low
 ---
 

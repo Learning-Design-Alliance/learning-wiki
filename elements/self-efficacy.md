@@ -1,5 +1,6 @@
 ---
 type: element
+id: self-efficacy
 title: Self Efficacy
 description: A learner's belief in their own capability to organize and execute the actions required to perform a task, which strongly influences motivation, effort, persistence, and achievement.
 status: review

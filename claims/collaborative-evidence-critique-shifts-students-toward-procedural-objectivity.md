@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Collaborative critique-and-redesign instruction shifts students from a value-free view of objectivity toward a procedural one
-id: dishon-1
+id: collaborative-evidence-critique-shifts-students-toward-procedural-objectivity
 status: draft
 generated:
   by: claude/unspecified

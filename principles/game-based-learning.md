@@ -1,5 +1,6 @@
 ---
 type: principle
+id: game-based-learning
 title: Game-based Learning
 description: Game-based learning is the instructional principle of using a game itself as the learning environment, with goals, rules, feedback, and progression aligned to specific learning outcomes.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: problem-based-learning-pbl
 title: Problem-Based Learning (PBL)
 description: Problem-Based Learning is a pattern that organizes a course, unit, or module around a complex problem that learners must investigate and respond to.
 status: review

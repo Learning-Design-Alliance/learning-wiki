@@ -1,5 +1,6 @@
 ---
 type: element
+id: spaced-learning
 title: Spaced Learning
 description: Spaced learning is the element in which practice or review is distributed over time rather than massed together.
 status: review

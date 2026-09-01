@@ -1,5 +1,6 @@
 ---
 type: principle
+id: free-choice-learning-environment-design
 title: Free-Choice Learning Environment Design
 description: Free-choice learning environments (museums, hobbies, self-directed exploration) give visitors real control over what and how deeply they engage, with no externally imposed curriculum or sequence, so the design must be intrinsically compelling on its own terms rather than backed by grades or tests.
 status: draft

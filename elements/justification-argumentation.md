@@ -1,5 +1,6 @@
 ---
 type: element
+id: justification-argumentation
 title: Justification & Argumentation
 description: Learners defend conclusions with evidence and reasoning, constructing and critiquing arguments to build critical reasoning and conceptual understanding.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: principle
+id: well-structured-vs-ill-structured-problems
 title: Well-Structured vs. Ill-Structured Problems
 description: Problems vary in how much information and how clear a solution procedure they provide; well-structured problems support algorithms with guaranteed correct solutions, while ill-structured problems require heuristics that work often but not always.
 status: draft

@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: lda-reflection
 title: LDA Reflection
 description: LDA Reflection is a lightweight reflection pattern used to help learners pause after an activity, analyze what happened, and identify what to carry forward.
 status: review

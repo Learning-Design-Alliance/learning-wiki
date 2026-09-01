@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: formative-assessment
 title: Formative Assessment
 description: Formative Assessment is a pattern in which instruction repeatedly cycles through eliciting evidence, interpreting it, and adjusting teaching or learning before final evaluation.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: element
+id: problem-scenarios
 title: Problem Scenarios
 description: Problem scenarios are concrete situations presented to learners as the context for inquiry, analysis, or solution development.
 status: review

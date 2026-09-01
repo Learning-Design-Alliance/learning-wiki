@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: redundancy-effect
+id: redundancy-principle
 evidence_strength: moderate
 ---
 

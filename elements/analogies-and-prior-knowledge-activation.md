@@ -1,5 +1,6 @@
 ---
 type: element
+id: analogies-and-prior-knowledge-activation
 title: Analogies and prior knowledge activation
 description: Uses comparisons to familiar concepts to support understanding.
 status: review

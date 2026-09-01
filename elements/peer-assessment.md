@@ -1,5 +1,6 @@
 ---
 type: element
+id: peer-assessment
 title: Peer Assessment
 description: Peer assessment is the element in which learners evaluate the work or reasoning of peers against shared criteria.
 status: review

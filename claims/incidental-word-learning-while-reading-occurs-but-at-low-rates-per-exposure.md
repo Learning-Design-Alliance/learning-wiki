@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: incidental-word-learning-low-rate
+id: incidental-word-learning-while-reading-occurs-but-at-low-rates-per-exposure
 evidence_strength: moderate
 ---
 

@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: professional-development
 title: Professional Development
 description: Professional development (PD) is the structured, sustained process by which educators build the knowledge, skills, and dispositions needed to improve their teaching practice.
 status: review

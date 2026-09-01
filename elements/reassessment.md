@@ -1,5 +1,6 @@
 ---
 type: element
+id: reassessment
 title: Reassessment
 description: Learners revisit and revise their responses after discussion or additional learning.
 status: review

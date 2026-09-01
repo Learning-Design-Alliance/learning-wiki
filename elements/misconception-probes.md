@@ -1,5 +1,6 @@
 ---
 type: element
+id: misconception-probes
 title: Misconception Probes
 description: A diagnostic question or task designed to surface learners' incorrect intuitions so they can be confronted and revised before instruction consolidates them.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: principle
+id: perspective-taking
 title: Perspective-Taking
 description: "Perspective-taking is the principle of intentionally examining a situation, text, problem, or decision from viewpoints other than one's own."
 status: review

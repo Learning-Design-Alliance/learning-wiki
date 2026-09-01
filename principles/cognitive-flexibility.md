@@ -1,5 +1,6 @@
 ---
 type: principle
+id: cognitive-flexibility
 title: Cognitive Flexibility
 description: Cognitive flexibility is the principle of helping learners represent, interpret, and apply knowledge in more than one way rather than locking it into a single rigid schema.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: principle
+id: tpack
 title: TPACK (Technological Pedagogical Content Knowledge)
 description: TPACK holds that effective teaching with technology requires an integrated understanding of content, pedagogy, and technology together, not mastery of the three in isolation.
 status: draft

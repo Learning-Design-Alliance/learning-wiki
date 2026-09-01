@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: three-practices-for-ontological-alignment-in-computational-modeling
 title: Three Practices for Ontological Alignment in Computational Modeling
 description: Three classroom practices — elevating student ideas that match a tool's representational units, explicitly testing links between conceptual and computational models, and introducing evidence that speaks directly to the tool's representational claims — for introducing a computational modeling tool so its structure aligns with students' existing thinking.
 status: draft

@@ -1,5 +1,6 @@
 ---
 type: element
+id: model-revision
 title: Model Revision
 description: Learners refine their conceptual models based on evidence and feedback.
 status: review

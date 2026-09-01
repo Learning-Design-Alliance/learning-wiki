@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Reflexive noticing shifts teacher discourse from stabilization to possibility, while surprises alone often re-stabilize it
-id: rainio-1
+id: reflexive-noticing-shifts-stabilization-to-possibility-discourse
 status: draft
 generated:
   by: claude/unspecified

@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: cognitive-load-theory
 title: Cognitive Load Theory
 description: Cognitive Load Theory is the short-form canonical target for CLT-informed instructional patterns that reduce extraneous load and calibrate support to expertise.
 status: review

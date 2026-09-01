@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Positioning students as sources increases productive participation in science discourse
-id: isr-1
+id: positioning-students-as-sources-increases-productive-participation-in-science-discourse
 status: draft
 generated:
   by: claude/unspecified

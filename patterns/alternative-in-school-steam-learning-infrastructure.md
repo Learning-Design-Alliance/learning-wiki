@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: alternative-in-school-steam-learning-infrastructure
 title: Alternative In-School STEAM Learning Infrastructure
 description: A dedicated, ungraded, choice-rich block of school time built around a library of leveled STEAM challenges, peer expertise, and observing (not directing) facilitators — designed to make genuine interest-driven learning possible within, not just outside, the school day.
 status: draft

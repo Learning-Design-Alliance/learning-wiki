@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: social-emotional-learning
 title: Social Emotional Learning
 description: Social Emotional Learning (SEL) develops learners' self-awareness, self-management, social awareness, relationship skills, and responsible decision-making through explicit instruction and embedded practice.
 status: review

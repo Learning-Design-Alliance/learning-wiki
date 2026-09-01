@@ -1,5 +1,6 @@
 ---
 type: element
+id: debriefing
 title: Debriefing
 description: Debriefing is the element in which learners reflect on an activity, simulation, or performance to consolidate what happened and why.
 status: review

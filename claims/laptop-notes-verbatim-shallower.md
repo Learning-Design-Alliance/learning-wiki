@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: laptop-verbatim-shallower-learning
+id: laptop-notes-verbatim-shallower
 evidence_strength: weak
 ---
 

@@ -1,5 +1,6 @@
 ---
 type: principle
+id: purposeful-reflection
 title: Purposeful Reflection
 description: Purposeful reflection is structured time for learners to examine what they did, what they understood, where they struggled, and what they should do next.
 status: review

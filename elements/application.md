@@ -1,5 +1,6 @@
 ---
 type: element
+id: application
 title: Application
 description: Learners actively apply knowledge in meaningful tasks.
 status: review

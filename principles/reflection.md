@@ -1,5 +1,6 @@
 ---
 type: principle
+id: reflection
 title: Reflection
 description: "Reflection is the principle of deliberately examining one's experience, reasoning, performance, or progress in order to extract lessons and guide future action."
 status: review

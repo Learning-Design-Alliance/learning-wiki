@@ -1,5 +1,6 @@
 ---
 type: learner-variable
+id: prior-knowledge
 title: Prior Knowledge
 description: A learner's existing domain knowledge in the subject area before instruction begins.
 status: review

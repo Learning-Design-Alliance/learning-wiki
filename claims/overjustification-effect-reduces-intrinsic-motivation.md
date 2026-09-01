@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Rewarding an already-intrinsically-motivating activity can reduce future engagement with it
-id: ld-5
+id: overjustification-effect-reduces-intrinsic-motivation
 status: draft
 generated:
   by: claude/unspecified

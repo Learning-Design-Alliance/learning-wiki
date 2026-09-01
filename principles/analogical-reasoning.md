@@ -1,5 +1,6 @@
 ---
 type: principle
+id: analogical-reasoning
 title: Analogical Reasoning
 description: Analogical reasoning is the principle of using relational similarity between a familiar case and a new case to support understanding, inference, and transfer.
 status: review

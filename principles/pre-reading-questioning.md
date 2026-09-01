@@ -1,5 +1,6 @@
 ---
 type: principle
+id: pre-reading-questioning
 title: Pre-reading Questioning
 description: Pre-reading questioning is the instructional principle of using questions before a text, source, or reading task to activate prior knowledge, orient attention, and establish a purpose for reading.
 status: review

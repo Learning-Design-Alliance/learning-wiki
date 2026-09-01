@@ -1,5 +1,6 @@
 ---
 type: element
+id: note-taking
 title: Note-Taking
 description: Note-taking is the element in which learners record, organize, and condense information in ways that support later understanding and retrieval.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: experiential-learning-cycle
 title: Experiential Learning Cycle
 description: The experiential learning cycle organizes learning as a repeating four-stage sequence — concrete experience, reflective observation, abstract conceptualization, and active experimentation — that turns raw experience into tested knowledge.
 status: review

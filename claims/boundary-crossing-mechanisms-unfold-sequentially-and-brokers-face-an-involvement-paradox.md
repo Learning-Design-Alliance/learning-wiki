@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Boundary-crossing mechanisms unfold sequentially across levels, and broker centrality creates an involvement paradox
-id: akkerman-bruining-1
+id: boundary-crossing-mechanisms-unfold-sequentially-and-brokers-face-an-involvement-paradox
 status: draft
 generated:
   by: claude/unspecified

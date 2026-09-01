@@ -1,7 +1,7 @@
 ---
 type: claim
 title: A teacher's appropriation of the engineering design process reframed restrictive STEM narratives in her teaching and personal life
-id: watkins-1
+id: teacher-appropriation-of-edp-reframes-restrictive-stem-narratives
 status: draft
 generated:
   by: claude/unspecified

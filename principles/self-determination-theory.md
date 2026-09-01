@@ -1,5 +1,6 @@
 ---
 type: principle
+id: self-determination-theory
 title: Self-Determination Theory
 description: Self-determination theory is used here as a principle emphasizing autonomy, competence, and relatedness as conditions that support motivation.
 status: review

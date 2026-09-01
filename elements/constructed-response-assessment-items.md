@@ -1,5 +1,6 @@
 ---
 type: element
+id: constructed-response-assessment-items
 title: Constructed-Response Assessment Items
 description: Completion, short-answer, and extended-response (essay) items ask students to recall and produce an answer rather than recognize one, reducing guessing but introducing a genuine scoring-reliability problem that model answers, sample-reading, and rubrics are all meant to address.
 status: draft

@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: guided-equation-appropriation
 title: Guided Equation Appropriation
 description: A mentored research-apprenticeship sequence that first builds intuitive, mechanistic reasoning about a phenomenon's quantitative behavior, then introduces a formal equation, then guides the student through progressively deeper levels of reading comprehension of that equation.
 status: draft

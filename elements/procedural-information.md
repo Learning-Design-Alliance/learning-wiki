@@ -1,5 +1,6 @@
 ---
 type: element
+id: procedural-information
 title: Procedural Information
 description: Step-by-step instructions and just-in-time guidance to assist learners in acquiring procedural fluency.
 status: review

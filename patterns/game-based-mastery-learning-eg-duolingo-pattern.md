@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: game-based-mastery-learning-eg-duolingo-pattern
 title: Game-Based Mastery Learning (e.g., Duolingo Pattern)
 description: Game-Based Mastery Learning combines mastery progression with game-like mechanics such as levels, streaks, rewards, adaptive challenge, and immediate feedback.
 status: review

@@ -585,10 +585,46 @@ def check_source_entry_keys(pages: dict[str, Path]) -> list[dict]:
     return issues
 
 
+def check_page_identity(pages: dict[str, Path]) -> list[dict]:
+    """`id:` present, equal to the filename, and unique across ids AND aliases.
+
+    The learning-design-spec pipeline resolves design documents against this
+    wiki by slug — a pattern names `element: <slug>`, a design section cites
+    `research:<claim-slug>`. Its contract opens with "every page's id is stable
+    and unique within its kind", because a rename breaks a course that has
+    already shipped.
+
+    Ids and aliases share one namespace per kind on purpose. A document saying
+    `element: foo` cannot tell whether foo is a current slug or a retired one,
+    so two pages answering to it is ambiguous however that came about — which
+    is the case this catches that a filename-uniqueness check never could,
+    filenames being unique by construction."""
+    issues = []
+    try:
+        import page_identity as pid
+    except Exception:
+        return issues
+    for kind, rows in pid.scan().items():
+        for path, slug, page_id, _aliases in rows:
+            rel = f"{kind}/{path.name}"
+            if not page_id:
+                issues.append({"type": "missing_id", "file": rel,
+                               "detail": f"no id: — run scripts/page_identity.py --apply"})
+            elif page_id != slug:
+                issues.append({"type": "id_not_slug", "file": rel,
+                               "detail": f"id is {page_id!r} but the file is {slug!r}; a design "
+                                         f"document resolving by slug would miss this page"})
+        for name, files in pid.collisions(rows):
+            issues.append({"type": "ambiguous_slug", "file": f"{kind}/{files[0]}",
+                           "detail": f"{name!r} is claimed (as id or alias) by "
+                                     f"{', '.join(files)} — a reference to it is ambiguous"})
+    return issues
+
+
 def main():
     parser = argparse.ArgumentParser(description="Lint the ld-wiki")
     parser.add_argument("--fix", action="store_true", help="Auto-promote clean draft pages to review")
-    parser.add_argument("--type", choices=["broken_links", "dead_anchors", "merge_markers", "drafts", "claims", "principles", "conflicts", "trust", "manifest", "type_banner", "authorities", "source_keys", "all"],
+    parser.add_argument("--type", choices=["broken_links", "dead_anchors", "merge_markers", "drafts", "claims", "principles", "conflicts", "trust", "manifest", "type_banner", "authorities", "source_keys", "identity", "all"],
                         default="all", help="Which checks to run")
     args = parser.parse_args()
 
@@ -611,6 +647,7 @@ def main():
         "type_banner":   check_type_banner,
         "authorities":   check_authority_conflicts,
         "source_keys":   check_source_entry_keys,
+        "identity":      check_page_identity,
     }
 
     selected = list(checks.keys()) if args.type == "all" else [args.type]

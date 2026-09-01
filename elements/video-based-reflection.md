@@ -1,5 +1,6 @@
 ---
 type: element
+id: video-based-reflection
 title: Video-Based Reflection
 description: Video-based reflection is the element in which learners or practitioners review recorded performance to analyze choices, patterns, and next steps.
 status: review

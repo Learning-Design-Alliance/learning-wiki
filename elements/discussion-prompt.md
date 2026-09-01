@@ -1,5 +1,6 @@
 ---
 type: element
+id: discussion-prompt
 title: Discussion Prompt
 description: A structured question or statement that initiates meaningful conversation among learners.
 status: review

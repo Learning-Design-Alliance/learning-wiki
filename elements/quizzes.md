@@ -1,5 +1,6 @@
 ---
 type: element
+id: quizzes
 title: Quizzes
 description: Short, low-stakes assessments that reinforce learning and provide feedback.
 status: review

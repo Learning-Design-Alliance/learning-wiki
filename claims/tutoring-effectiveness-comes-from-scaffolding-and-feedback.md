@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: 
+id: tutoring-effectiveness-comes-from-scaffolding-and-feedback
 evidence_strength:
 ---
 

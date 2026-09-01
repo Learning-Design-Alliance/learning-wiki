@@ -1,5 +1,6 @@
 ---
 type: element
+id: peer-collaboration
 title: Peer Collaboration
 description: Learners work together to complete tasks or solve problems, negotiating meaning and distributing cognitive effort.
 status: review

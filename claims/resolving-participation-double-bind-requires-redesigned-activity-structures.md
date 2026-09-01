@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Resolving a participation double-bind requires redesigning activity structures, not just adding outreach
-id: melendez-1
+id: resolving-participation-double-bind-requires-redesigned-activity-structures
 status: draft
 generated:
   by: claude/unspecified

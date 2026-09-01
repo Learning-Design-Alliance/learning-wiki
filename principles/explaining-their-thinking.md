@@ -1,5 +1,6 @@
 ---
 type: principle
+id: explaining-their-thinking
 title: Explaining Their Thinking
 description: Explaining their thinking, also known as self-explanation, is an instructional principle where learners generate explanations for themselves as they solve problems or study worked examples.
 status: review

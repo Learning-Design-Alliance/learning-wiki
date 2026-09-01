@@ -1,5 +1,6 @@
 ---
 type: element
+id: guided-practice
 title: Guided Practice
 description: Guided practice is the element in which learners attempt a task with active support before moving to independent work.
 status: review

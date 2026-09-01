@@ -1,5 +1,6 @@
 ---
 type: element
+id: learning-analytics-feedback
 title: Learning Analytics-Driven Feedback
 description: Learning Analytics-Driven Feedback uses models built from learner interaction data to predict at-risk learners and surface targeted feedback to learners or instructors, compensating for the reduced visibility distance and online instructors have into struggling learners.
 status: draft

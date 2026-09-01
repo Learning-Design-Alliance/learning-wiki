@@ -1,5 +1,6 @@
 ---
 type: principle
+id: discussing-race
 title: Discussing Race
 description: Discussing race is the instructional principle of addressing racial identity, racism, and racialized experience directly rather than treating them as peripheral or unspeakable.
 status: review

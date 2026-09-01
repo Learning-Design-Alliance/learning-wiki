@@ -1,5 +1,6 @@
 ---
 type: principle
+id: persistent-autonomy-support-during-resistance
 title: Persistent Autonomy Support During Resistance
 description: In sustained one-on-one instruction, maintain an autonomy-supportive teaching style even when a student initially resists it, rather than reverting to directive control at the first sign of pushback — consistency over many sessions, not immediate compliance, is what shifts the interaction toward a more productive pattern.
 status: draft

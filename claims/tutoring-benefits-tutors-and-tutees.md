@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: tutoring-benefits-both-tutors-and-tutees
+id: tutoring-benefits-tutors-and-tutees
 evidence_strength: 
 ---
 

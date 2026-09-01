@@ -1,5 +1,6 @@
 ---
 type: element
+id: hypertext-navigation
 title: Hypertext Navigation
 description: Learners explore interconnected digital content at their own pace.
 status: review

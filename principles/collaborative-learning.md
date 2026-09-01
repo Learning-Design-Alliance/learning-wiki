@@ -1,5 +1,6 @@
 ---
 type: principle
+id: collaborative-learning
 title: Collaborative Learning
 description: Collaborative learning is the principle of designing tasks so learners build understanding through shared work, dialogue, and interdependence rather than isolated effort alone.
 status: review

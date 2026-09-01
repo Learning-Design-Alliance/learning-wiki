@@ -1,5 +1,6 @@
 ---
 type: element
+id: think-aloud
 title: Think-Aloud
 description: Think-aloud is the element in which an instructor, peer, or learner verbalizes reasoning while performing a task.
 status: review

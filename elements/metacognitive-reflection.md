@@ -1,5 +1,6 @@
 ---
 type: element
+id: metacognitive-reflection
 title: Metacognitive Reflection
 description: Metacognitive reflection is the element in which learners examine how they thought, what strategies they used, where they were confused, and what they should do next.
 status: review

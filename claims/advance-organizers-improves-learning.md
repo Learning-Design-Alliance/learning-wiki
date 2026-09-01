@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: advance-organizers-improve-learning
+id: advance-organizers-improves-learning
 evidence_strength:
 ---
 

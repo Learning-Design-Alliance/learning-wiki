@@ -1,5 +1,6 @@
 ---
 type: element
+id: concept-map
 title: Concept Map
 description: A concept map is a node-and-link diagram that externalizes relationships among ideas, making the structure of a knowledge domain visible.
 status: review

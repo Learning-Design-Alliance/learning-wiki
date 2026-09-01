@@ -1,5 +1,6 @@
 ---
 type: principle
+id: digital-learning
 title: Digital Learning
 description: Digital learning is the principle of using digital environments and tools to support access, interaction, practice, and feedback in instruction.
 status: review

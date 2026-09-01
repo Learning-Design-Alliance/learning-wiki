@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: merrills-first-principles-application
 title: "Merrill's First Principles (Application)"
 description: "This page is the short-form canonical target for the application move within Merrill's First Principles: learners use new knowledge or skill with support, feedback, and increasingly independent performance."
 status: review

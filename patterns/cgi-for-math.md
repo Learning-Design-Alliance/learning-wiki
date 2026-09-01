@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: cgi-for-math
 title: CGI for Math
 description: "CGI for Math is the short-form canonical target for Cognitively Guided Instruction in mathematics, where instruction is built around learners' informal strategies and explanation of problem solving."
 status: review

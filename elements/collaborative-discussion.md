@@ -1,5 +1,6 @@
 ---
 type: element
+id: collaborative-discussion
 title: Collaborative Discussion
 description: Collaborative discussion is the element in which learners build understanding together through shared talk, comparison of ideas, and negotiated meaning.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: element
+id: evidence-based-reasoning
 title: Evidence-Based Reasoning
 description: Learners evaluate competing models based on real-world evidence and refine their understanding.
 status: review

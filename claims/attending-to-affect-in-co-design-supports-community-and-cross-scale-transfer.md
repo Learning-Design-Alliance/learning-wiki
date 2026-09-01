@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Attending to affect in co-design supports community formation and cross-scale transfer
-id: hcd-1
+id: attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer
 status: draft
 generated:
   by: claude/unspecified

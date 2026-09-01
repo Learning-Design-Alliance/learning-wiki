@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: merrills-first-principles-activation
 title: "Merrill's First Principles (Activation)"
 description: "This page is the short-form canonical target for the activation move within Merrill's First Principles: prompting learners to recall or connect relevant prior knowledge before new instruction or application."
 status: review

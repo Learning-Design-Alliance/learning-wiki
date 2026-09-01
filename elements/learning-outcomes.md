@@ -1,5 +1,6 @@
 ---
 type: element
+id: learning-outcomes
 title: Learning Outcomes
 description: Learning outcomes are explicit statements of what learners should know, understand, or be able to do by the end of an instructional experience.
 status: review

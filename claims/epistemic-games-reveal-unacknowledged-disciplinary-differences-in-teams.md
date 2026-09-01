@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Epistemic games reveal unacknowledged disciplinary differences in interdisciplinary teams
-id: eg-1
+id: epistemic-games-reveal-unacknowledged-disciplinary-differences-in-teams
 status: draft
 generated:
   by: claude/unspecified

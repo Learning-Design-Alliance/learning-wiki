@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: merrills-first-principles-demonstration
 title: "Merrill's First Principles (Demonstration)"
 description: "This page captures the demonstration-focused slice of Merrill's First Principles of Instruction: showing what successful performance or reasoning looks like before asking learners to apply it independently."
 status: review

@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Fiber crafting develops proportional reasoning through nested, personally-defined units
-id: peppler-1
+id: fiber-crafting-develops-proportional-reasoning-through-unitizing
 status: draft
 generated:
   by: claude/unspecified

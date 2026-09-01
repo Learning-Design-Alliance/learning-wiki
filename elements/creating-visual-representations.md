@@ -1,5 +1,6 @@
 ---
 type: element
+id: creating-visual-representations
 title: Creating Visual Representations
 description: Creating visual representations is the element in which learners externalize understanding through diagrams, sketches, models, or other visuals.
 status: review

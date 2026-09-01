@@ -1,5 +1,6 @@
 ---
 type: element
+id: prior-knowledge-activation
 title: Prior Knowledge Activation
 description: Prior knowledge activation is the element in which learners recall, surface, or organize what they already know before engaging with new material.
 status: review

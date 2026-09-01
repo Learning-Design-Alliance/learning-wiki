@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: guided-discovery-learning
 title: Guided Discovery Learning
 description: Guided Discovery Learning is a pattern in which learners investigate examples, data, or problems and are led by prompts, questions, and scaffolds toward important concepts or principles.
 status: review

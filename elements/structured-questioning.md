@@ -1,5 +1,6 @@
 ---
 type: element
+id: structured-questioning
 title: Structured Questioning
 description: Instructors guide learners with sequenced, purposeful questions to scaffold deeper inquiry.
 status: review

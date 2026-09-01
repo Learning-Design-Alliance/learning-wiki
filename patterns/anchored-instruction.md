@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: anchored-instruction
 title: Anchored Instruction
 description: "Anchored instruction organizes learning around a rich, shared scenario that acts as the \"anchor\" for inquiry, discussion, and problem solving."
 status: review

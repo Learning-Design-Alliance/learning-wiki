@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: self-assessment-accuracy-low-without-training
+id: self-assessment-accuracy-is-low-without-training
 evidence_strength: moderate
 ---
 

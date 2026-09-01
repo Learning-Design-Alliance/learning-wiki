@@ -1,5 +1,6 @@
 ---
 type: element
+id: scaffolded-inquiry
 title: Scaffolded Inquiry
 description: Gradually shifts learners from guided exploration to independent inquiry.
 status: review

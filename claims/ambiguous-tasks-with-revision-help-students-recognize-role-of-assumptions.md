@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Ambiguous tasks with a revision step help students recognize the role of assumptions in mathematical activity
-id: komatsu-1
+id: ambiguous-tasks-with-revision-help-students-recognize-role-of-assumptions
 status: draft
 generated:
   by: claude/unspecified

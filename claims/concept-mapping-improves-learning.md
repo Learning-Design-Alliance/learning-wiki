@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: cm-1
+id: concept-mapping-improves-learning
 evidence_strength:
 ---
 

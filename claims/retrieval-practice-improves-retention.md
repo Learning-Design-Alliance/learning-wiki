@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: retrieval-practice-improves-long-term-retention
+id: retrieval-practice-improves-retention
 evidence_strength: strong
 ---
 

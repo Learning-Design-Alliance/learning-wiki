@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: srl-strategies-improve-achievement
+id: self-regulated-learning-strategies-improve-achievement
 evidence_strength: moderate
 ---
 

@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: sdlmi-improves-self-determination
+id: self-determined-learning-model-of-instruction-improves-self-determination
 evidence_strength: pending
 ---
 

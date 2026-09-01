@@ -1,5 +1,6 @@
 ---
 type: principle
+id: learner-choice
 title: Learner Choice
 description: Learner choice is the principle of giving learners meaningful decisions about aspects of their learning, such as topic, format, sequence, pacing, strategy, or demonstration of understanding.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: element
+id: just-in-time-information
 title: Just-in-Time Information
 description: Instruction is provided at the point of need rather than upfront.
 status: review

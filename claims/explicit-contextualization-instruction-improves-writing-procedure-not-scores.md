@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Explicit contextualization instruction improves procedural aspects of historical writing without improving contextualization scores themselves
-id: sendur-1
+id: explicit-contextualization-instruction-improves-writing-procedure-not-scores
 status: draft
 generated:
   by: claude/unspecified

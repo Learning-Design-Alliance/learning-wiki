@@ -1,5 +1,6 @@
 ---
 type: principle
+id: vertical-and-horizontal-bonding-in-numerical-routines
 title: Vertical and Horizontal Bonding in Numerical Routines
 description: Support young children's shift from rote, imitative numerical routines to flexible, outcome-sensitive ones by making explicit the connection between a procedure's steps and its outcome, and by exposing children to multiple procedures that solve the same comparison task.
 status: draft

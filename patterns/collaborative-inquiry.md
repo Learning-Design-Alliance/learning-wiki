@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: collaborative-inquiry
 title: Collaborative Inquiry
 description: Collaborative inquiry is a pattern in which learners pose questions together, investigate possible answers, critique emerging explanations, and revise their understanding in public.
 status: review

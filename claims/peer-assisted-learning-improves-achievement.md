@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: we-search-1
+id: peer-assisted-learning-improves-achievement
 evidence_strength: low
 ---
 

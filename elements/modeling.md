@@ -1,5 +1,6 @@
 ---
 type: element
+id: modeling
 title: Modeling
 description: Instructors or advanced learners demonstrate expert thinking and behavior so learners can observe expert performance before attempting it themselves.
 status: review

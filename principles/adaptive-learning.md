@@ -1,5 +1,6 @@
 ---
 type: principle
+id: adaptive-learning
 title: Adaptive Learning
 description: Adaptive learning systems and designs continuously adjust task difficulty, sequencing, and support based on each learner's ongoing performance, so every learner works at the edge of their current competence.
 status: review

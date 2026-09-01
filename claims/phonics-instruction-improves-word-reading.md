@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: phonics-improves-word-reading
+id: phonics-instruction-improves-word-reading
 evidence_strength:
 ---
 

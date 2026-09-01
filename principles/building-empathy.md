@@ -1,5 +1,6 @@
 ---
 type: principle
+id: building-empathy
 title: Building Empathy
 description: Building empathy is the instructional principle of helping learners understand how other people perceive, feel, and interpret a situation.
 status: review

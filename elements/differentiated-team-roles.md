@@ -1,5 +1,6 @@
 ---
 type: element
+id: differentiated-team-roles
 title: Differentiated Team Roles
 description: Learners take on distinct, interdependent roles within collaborative work to enhance accountability, engagement, and role-specific expertise.
 status: review

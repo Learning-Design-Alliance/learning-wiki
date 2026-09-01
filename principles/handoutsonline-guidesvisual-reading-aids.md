@@ -1,5 +1,6 @@
 ---
 type: principle
+id: handoutsonline-guidesvisual-reading-aids
 title: Handouts/Online Guides/Visual Reading Aids
 description: Handouts, online guides, and visual reading aids support learning by externalizing structure, highlighting key information, and reducing the amount learners must infer or hold in working memory while reading.
 status: review

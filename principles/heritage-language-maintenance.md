@@ -1,5 +1,6 @@
 ---
 type: principle
+id: heritage-language-maintenance
 title: Preserve Heritage Language While Acquiring an Additional Language
 description: Maintaining and developing a bilingual student's heritage language supports, rather than competes with, the acquisition of a new majority or school language, while heritage-language loss is associated with slower additional-language development.
 status: draft

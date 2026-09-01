@@ -1,5 +1,6 @@
 ---
 type: principle
+id: assessment-for-learning
 title: Assessment for Learning
 description: Assessment for learning is the principle that assessment should be used during instruction to support learning, not only after instruction to certify it.
 status: review

@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: phoneme-awareness-predicts-reading-better-than-rhyme
+id: phoneme-awareness-stronger-predictor-than-rhyme
 evidence_strength: pending
 ---
 

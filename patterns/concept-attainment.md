@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: concept-attainment
 title: Concept Attainment
 description: Learners infer the defining attributes of a concept by comparing labeled positive and negative examples, then test and refine their hypothesis.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: element
+id: structured-academic-controversy
 title: Structured Academic Controversy
 description: Structured academic controversy is the element in which learners argue multiple sides of an issue before synthesizing a shared conclusion.
 status: review

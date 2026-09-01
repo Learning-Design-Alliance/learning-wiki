@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: debate-format
 title: Debate Format
 description: Debate format is a structured discussion pattern in which learners prepare positions, present arguments, respond to opposing claims, and justify conclusions within a defined sequence.
 status: review

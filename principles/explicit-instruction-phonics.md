@@ -1,5 +1,6 @@
 ---
 type: principle
+id: explicit-instruction-phonics
 title: "Explicit Instruction: Phonics"
 description: Adult learners who struggle with foundational reading skills, including decoding and phonemic awareness, can benefit from explicit phonics instruction.
 status: review

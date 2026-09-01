@@ -1,5 +1,6 @@
 ---
 type: element
+id: attention
 title: Attention
 description: The design of instruction to capture, direct, and sustain learners' limited attentional resources toward content that matters for learning.
 status: review

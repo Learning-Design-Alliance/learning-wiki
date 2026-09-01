@@ -1,5 +1,6 @@
 ---
 type: principle
+id: sequencing
 title: Sequencing
 description: Sequencing is the principle of arranging instructional content, tasks, or supports in an order that helps learners build understanding progressively.
 status: review

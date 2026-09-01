@@ -1,5 +1,6 @@
 ---
 type: principle
+id: modeling
 title: Modeling
 description: Modeling is the principle of making successful performance visible so learners can study processes, standards, and reasoning before attempting work themselves.
 status: review

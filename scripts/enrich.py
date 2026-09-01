@@ -1582,20 +1582,32 @@ def call_gemini_flex(client, model: str, system_prompt: str, user_prompt: str) -
 
 # ── Missing page creation ─────────────────────────────────────────────────────
 
-def _stub(page_type: str, extra: str = "") -> str:
+# Kinds a design document can point at carry `id:` from birth — see
+# scripts/page_identity.py. A stub written without one is a page the
+# design-spec pipeline cannot resolve until someone remembers to backfill it,
+# and lint's [Identity] check would fail the moment it was created.
+_IDENTIFIED = {"elements", "principles", "patterns", "claims", "learner-variables"}
+
+
+def _stub(page_type: str, extra: str = "", identified: bool = False) -> str:
+    ident = "id: {slug}\n" if identified else ""
     return (
-        f"---\ntype: {page_type}\ntitle: {{name}}\nstatus: draft\n"
+        f"---\ntype: {page_type}\n{ident}title: {{name}}\nstatus: draft\n"
         f"generated:\n  by: \"process:wiki-ingest\"\n  at: {{today}}\n{extra}---\n\n# {{name}}\n"
     )
 
 
 STUB_TEMPLATES = {
-    "elements":   _stub("element"),
-    "principles": _stub("principle"),
-    "patterns":   _stub("pattern"),
+    "elements":   _stub("element", identified=True),
+    "principles": _stub("principle", identified=True),
+    "patterns":   _stub("pattern", identified=True),
     "strategies": _stub("strategy"),
     "theories":   _stub("theory"),
-    "claims":     _stub("claim", extra="id: \nevidence_strength:\n"),
+    # `id:` used to be stamped here as an empty line, which is where all 56
+    # blank claim ids came from. It now carries the slug like every other
+    # identified kind; evidence_strength stays blank, since a value nobody has
+    # established is exactly what "not yet" should look like.
+    "claims":     _stub("claim", extra="evidence_strength:\n", identified=True),
 }
 
 STUB_FOLDERS = set(STUB_TEMPLATES.keys())
@@ -1751,7 +1763,7 @@ def create_missing_stubs(content: str, current_folder: str = None) -> list[str]:
 
         # Derive a display name from the slug
         name = slug.replace("-", " ").title()
-        stub = STUB_TEMPLATES[folder].format(today=TODAY, name=name)
+        stub = STUB_TEMPLATES[folder].format(today=TODAY, name=name, slug=slug)
         page_path.parent.mkdir(parents=True, exist_ok=True)
         page_path.write_text(stub, encoding="utf-8")
         created.append(str(page_path.relative_to(WIKI_ROOT)))

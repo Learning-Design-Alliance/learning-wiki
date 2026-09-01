@@ -1,5 +1,6 @@
 ---
 type: element
+id: small-group-instruction
 title: Small-Group Instruction
 description: Small-group instruction is the element in which learners work with an instructor or facilitator in a reduced-size group for targeted teaching, discussion, or support.
 status: review

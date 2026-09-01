@@ -1,5 +1,6 @@
 ---
 type: principle
+id: immediate-feedback
 title: Immediate Feedback
 description: "Immediate feedback is feedback delivered close enough to a learner's action that it can still shape interpretation, correction, and the next attempt."
 status: review

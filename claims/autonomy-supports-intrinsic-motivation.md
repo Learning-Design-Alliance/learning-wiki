@@ -18,7 +18,7 @@ sources:
     resource: "https://doi.org/10.1207/s15326985ep3902_2"
     title: "Stefanou, C. R., Perencevich, K. C., DiCintio, M., & Turner, J. C. (2004). Supporting autonomy in the classroom: Ways teachers encourage student decision making and ownership. *Educational Psychologist, 39*(2), 97–110. [https://doi.org/10.1207/s15326985ep3902_2](https://doi.org/10.1207/s15326985ep3902_2)"
     author: "Stefanou, C. R., Perencevich, K. C., DiCintio, M., & Turner, J. C"
-id: motiv-1
+id: autonomy-supports-intrinsic-motivation
 evidence_strength: strong
 ---
 

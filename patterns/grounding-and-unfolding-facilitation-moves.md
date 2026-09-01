@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: grounding-and-unfolding-facilitation-moves
 title: Grounding and Unfolding Facilitation Moves
 description: When a student's contribution jumps to a higher-order procedure or informal calculation during whole-class discussion, the teacher grounds it by explicitly unfolding it into the lower-order concept elements it depends on, then leverages back upward — rather than either accepting the jump uncritically or replacing it with the teacher's own procedure.
 status: draft

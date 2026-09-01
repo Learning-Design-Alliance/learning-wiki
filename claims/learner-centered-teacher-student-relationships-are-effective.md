@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id:
+id: learner-centered-teacher-student-relationships-are-effective
 evidence_strength: weak
 ---
 

@@ -1,5 +1,6 @@
 ---
 type: principle
+id: flipped-learning
 title: Flipped Learning
 description: Flipped learning is the principle of shifting initial content exposure outside class so that live time can be used for application, coaching, and discussion.
 status: review

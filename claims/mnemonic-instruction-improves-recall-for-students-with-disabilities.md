@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: mnemonic-instruction-improves-recall-disabilities
+id: mnemonic-instruction-improves-recall-for-students-with-disabilities
 evidence_strength: moderate
 ---
 

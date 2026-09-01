@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: pogil
 title: POGIL
 description: POGIL is the short-form canonical target for Process-Oriented Guided Inquiry Learning.
 status: review

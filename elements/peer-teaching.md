@@ -1,5 +1,6 @@
 ---
 type: element
+id: peer-teaching
 title: Peer Teaching
 description: Learners explain concepts to peers, reinforcing their own understanding.
 status: review

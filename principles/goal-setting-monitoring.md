@@ -1,5 +1,6 @@
 ---
 type: principle
+id: goal-setting-monitoring
 title: "Goal Setting & Monitoring"
 description: Goal setting and monitoring is the instructional principle of helping learners define specific, challenging targets and systematically tracking their progress toward those targets.
 status: review

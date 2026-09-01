@@ -1,5 +1,6 @@
 ---
 type: element
+id: final-exam
 title: Final Exam
 description: "A cumulative assessment evaluating learners' mastery of the entire course material."
 status: review

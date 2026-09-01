@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: adaptive-learning
 title: Adaptive Learning
 description: Adaptive learning is the short-form canonical pattern for adjusting pacing, difficulty, or support based on learner performance.
 status: review

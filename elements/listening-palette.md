@@ -1,5 +1,6 @@
 ---
 type: element
+id: listening-palette
 title: Listening Palette
 description: A multimodal reflection protocol in which learners individually record noticings in whatever mode feels natural (words, sketches, gesture, movement), then build a collaborative representation with peers before sharing with the whole group.
 status: draft

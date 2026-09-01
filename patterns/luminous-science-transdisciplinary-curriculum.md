@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: luminous-science-transdisciplinary-curriculum
 title: Luminous Science Transdisciplinary Curriculum
 description: A project genre that anchors art, science, and computing instruction in students' construction of computationally-rich, aesthetic representations (e.g., programmable sculptural lanterns) of a shared living phenomenon, forcing teachers and students to negotiate epistemic criteria across disciplines rather than treat one discipline's standards as primary.
 status: draft

@@ -1,5 +1,6 @@
 ---
 type: principle
+id: retrieval-practice
 title: Retrieval Practice
 description: Retrieval practice is the principle of strengthening learning by having learners actively recall information, ideas, or procedures from memory rather than only restudy them.
 status: review

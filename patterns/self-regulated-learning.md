@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: self-regulated-learning
 title: Self-Regulated Learning
 description: Self-Regulated Learning is the pattern-level target for designs that explicitly cycle planning, monitoring, feedback, and revision so learners can manage their own learning more effectively.
 status: review

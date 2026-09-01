@@ -1,5 +1,6 @@
 ---
 type: principle
+id: competency-based-learning-assessment
 title: "Competency-based Learning & Assessment"
 description: Competency-based learning and assessment organize progress around demonstrated mastery rather than seat time, pacing norms, or one-shot averages.
 status: review

@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: sim-deliberate-practice-clinical-outcomes
+id: simulation-based-education-with-deliberate-practice-improves-clinical-outcomes
 evidence_strength: moderate
 ---
 

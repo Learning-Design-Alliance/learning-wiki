@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: merrills-first-principles
 title: "Merrill's First Principles"
 description: "Merrill's First Principles is the short-form canonical target for task-centered instruction organized around problem-centered work, activation, demonstration, application, and integration."
 status: review

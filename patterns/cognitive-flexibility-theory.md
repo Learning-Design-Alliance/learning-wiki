@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: cognitive-flexibility-theory
 title: Cognitive Flexibility Theory
 description: Cognitive Flexibility Theory is a pattern for teaching in ill-structured domains by repeatedly revisiting concepts across multiple cases, perspectives, and contexts.
 status: review

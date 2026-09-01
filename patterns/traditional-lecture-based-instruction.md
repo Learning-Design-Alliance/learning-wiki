@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: traditional-lecture-based-instruction
 title: Traditional Lecture-Based Instruction
 description: Traditional Lecture-Based Instruction is the short-form canonical target for designs centered on lecture, assigned study, and subsequent discussion or assessment.
 status: review

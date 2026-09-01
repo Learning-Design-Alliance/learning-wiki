@@ -1,5 +1,6 @@
 ---
 type: element
+id: feedback
 title: Feedback
 description: Learners receive input from instructors or peers to refine their work.
 status: review

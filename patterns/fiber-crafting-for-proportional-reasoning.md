@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: fiber-crafting-for-proportional-reasoning
 title: Fiber Crafting for Proportional Reasoning
 description: A multi-day craft camp (knitting, crochet, and fabric pleating) in which learners define their own stitch or fold units through personal tension and material choice, then discover multiplicative proportional relationships (e.g., stitch width-to-height ratios, row-to-row growth, unfolded-to-folded fabric ratios) as an emergent property of the material rather than a taught formula.
 status: draft

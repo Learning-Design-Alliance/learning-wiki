@@ -1,5 +1,6 @@
 ---
 type: principle
+id: peer-discussion
 title: Peer Discussion
 description: Peer discussion is the instructional principle of using structured talk among learners to deepen interpretation, explanation, and understanding.
 status: review

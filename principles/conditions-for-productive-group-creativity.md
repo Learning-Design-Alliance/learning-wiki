@@ -1,5 +1,6 @@
 ---
 type: principle
+id: conditions-for-productive-group-creativity
 title: Conditions for Productive Group Creativity
 description: Group creative tasks need shared domain knowledge to argue from, materials that are accessible and revisable by all members, and facilitation that distributes authority by merit rather than by social dominance.
 status: draft

@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: massive-open-online-course
 title: Massive Open Online Course (MOOC)
 description: A course-grain pattern combining open enrollment, video-based instruction, and light-touch automated or peer assessment at scale — whose original connectivist, networked-learning design was largely abandoned once commercial "xMOOC" platforms adopted a broadcast, video-lecture-plus-quiz model instead.
 status: draft

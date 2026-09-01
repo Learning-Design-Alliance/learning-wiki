@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id:
+id: vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts
 evidence_strength: weak
 ---
 

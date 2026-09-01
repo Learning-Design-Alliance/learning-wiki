@@ -1,5 +1,6 @@
 ---
 type: principle
+id: validity-reliability-and-bias-in-classroom-assessment
 title: Validity, Reliability, and Bias in Classroom Assessment
 description: A high-quality classroom assessment needs validity (the interpretations and uses made of its results are justified), reliability (its results are consistent across occasions, raters, and items), and freedom from bias (it doesn't distort performance based on a student's group membership) — three genuinely distinct properties, each with its own failure modes.
 status: draft

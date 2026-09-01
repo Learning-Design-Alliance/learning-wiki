@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: highlighting-alone-ineffective
+id: highlighting-alone-is-ineffective
 evidence_strength: moderate
 ---
 

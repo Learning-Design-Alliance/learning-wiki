@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: srl-strategy-instruction-improves-achievement
+id: self-regulation-strategy-instruction-improves-achievement
 evidence_strength:
 ---
 

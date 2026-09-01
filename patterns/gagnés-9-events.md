@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: gagnés-9-events
 title: "Gagné's 9 Events"
 description: "Gagné's 9 Events is a lesson pattern that sequences attention, objectives, recall, presentation, guidance, practice, feedback, assessment, and transfer."
 status: review

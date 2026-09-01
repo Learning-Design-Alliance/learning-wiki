@@ -5,7 +5,7 @@ status: review
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: CL-UNDERLINING-EFFECT
+id: experimenter-underlining-effective-as-student-underlining
 evidence_strength: moderate
 sources:
   - id: nist-1985

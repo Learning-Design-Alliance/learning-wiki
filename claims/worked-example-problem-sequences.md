@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: 
+id: worked-example-problem-sequences
 evidence_strength: low
 ---
 

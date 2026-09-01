@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: guided-inquiry-outperforms-student-led
+id: teacher-guided-inquiry-outperforms-student-led
 evidence_strength: low
 ---
 

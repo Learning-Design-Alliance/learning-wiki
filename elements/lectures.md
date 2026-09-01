@@ -1,5 +1,6 @@
 ---
 type: element
+id: lectures
 title: Lectures
 description: Instructor-led presentation of content in a structured format.
 status: review

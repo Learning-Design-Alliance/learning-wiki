@@ -1,5 +1,6 @@
 ---
 type: principle
+id: functional-behavior-assessment
 title: Functional Behavior Assessment
 description: Disruptive behavior is more effectively addressed by identifying the specific triggering circumstance — physiological, environmental, or instructional — than by focusing on a student's personality, and fair, well-documented responses build the collaborative trust that makes long-term support possible.
 status: draft

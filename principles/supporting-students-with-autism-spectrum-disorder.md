@@ -1,5 +1,6 @@
 ---
 type: principle
+id: supporting-students-with-autism-spectrum-disorder
 title: Supporting Students with Autism Spectrum Disorder
 description: Autism spectrum disorder is defined by disturbances in social interaction, communication, and repetitive behavior or interests that vary widely in severity across the "spectrum" — distinct from intellectual disability — and is not caused by vaccination despite persistent popular belief.
 status: draft

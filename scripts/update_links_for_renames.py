@@ -56,6 +56,8 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 import okf_lib
 
+import page_identity as pid
+
 WIKI_ROOT = Path(__file__).parent.parent
 
 # Punctuation that appears literally in this wiki's filenames and that models
@@ -199,8 +201,50 @@ def main() -> int:
 
     for f, n in sorted(touched.items()):
         print(f"  {f}  ({n})")
+    # Record each retired slug as an alias on the page that replaced it.
+    #
+    # Re-pointing the wiki's own links closes half the gap. The other half is
+    # outside the wiki: the design-spec pipeline resolves `element: <slug>`,
+    # `Realizes: <principle-slug>` and `research:<claim-slug>` out of course
+    # documents this repo cannot see and cannot rewrite. Without an alias a
+    # rename is indistinguishable from a delete-plus-create, and a course that
+    # named the old slug silently stops resolving — the failure the spec's
+    # contract (findings/0008) opens by asking for.
+    #
+    # Only the kinds a design document can point at get one; a strategy is
+    # reached through the reverse index, never named.
+    aliased = 0
+    for old_path, new_path in renames.items():
+        kind = old_path.split("/")[0]
+        if kind not in pid.IDENTIFIED_TYPES:
+            continue
+        old_slug, new_slug = Path(old_path).stem, Path(new_path).stem
+        if old_slug == new_slug:
+            continue          # moved between folders, same name: nothing retired
+        target = WIKI_ROOT / new_path
+        if not target.exists():
+            print(f"  alias SKIPPED — {new_path} is not on disk")
+            continue
+        text = target.read_text(encoding="utf-8")
+        fm, rest = pid.split_fm(text)
+        if fm is None:
+            print(f"  alias SKIPPED — {new_path} has no frontmatter")
+            continue
+        # id follows the filename, old slug becomes an alias. Both halves are
+        # needed: without the id update the page's declared identity drifts
+        # from its own name, which is the very thing an id exists to prevent.
+        updated = pid.add_alias(pid.set_id(fm, new_slug), old_slug)
+        if updated == fm:
+            continue          # already recorded; re-running is a no-op
+        aliased += 1
+        print(f"  alias: {new_path} now answers to {old_slug!r}")
+        if args.apply:
+            target.write_text("---\n" + updated + rest, encoding="utf-8")
+
     verb = "Rewrote" if args.apply else "Would rewrite"
     print(f"\n{verb} {rewritten} link(s) across {len(touched)} page(s).")
+    print(f"{'Recorded' if args.apply else 'Would record'} {aliased} retired slug(s) as "
+          f"aliases, so a design document naming the old name still resolves.")
     if not args.apply:
         print("Dry run — nothing written. Re-run with --apply.")
     else:

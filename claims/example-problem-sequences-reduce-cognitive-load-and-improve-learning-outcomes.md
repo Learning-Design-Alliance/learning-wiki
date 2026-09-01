@@ -5,7 +5,7 @@ status: review
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: we-4
+id: example-problem-sequences-reduce-cognitive-load-and-improve-learning-outcomes
 evidence_strength: moderate
 ---
 

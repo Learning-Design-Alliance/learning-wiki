@@ -1,5 +1,6 @@
 ---
 type: element
+id: peer-discussion
 title: Peer Discussion
 description: Learners engage in structured conversations with classmates to explore, articulate, and refine ideas.
 status: review

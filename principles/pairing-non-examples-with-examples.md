@@ -1,5 +1,6 @@
 ---
 type: principle
+id: pairing-non-examples-with-examples
 title: Pairing Non-examples with Examples
 description: Pairing non-examples with examples helps learners understand a concept, procedure, or category by seeing both what fits and what does not.
 status: review

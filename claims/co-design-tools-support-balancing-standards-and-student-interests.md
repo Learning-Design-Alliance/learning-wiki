@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Co-design tools for standards analysis, student-interest data, and launch rehearsal support balancing standards alignment with student interests
-id: penuel-1
+id: co-design-tools-support-balancing-standards-and-student-interests
 status: draft
 generated:
   by: claude/unspecified

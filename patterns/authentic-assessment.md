@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: authentic-assessment
 title: Authentic Assessment
 description: Authentic assessment evaluates learning through tasks that mirror the knowledge work of real disciplines, professions, and communities rather than through proxies like multiple-choice tests.
 status: review

@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Emotion dynamics during problem-solving predict learning outcomes in a manner that depends on scaffolding design
-id: sinha-1
+id: emotion-dynamics-during-problem-solving-predict-learning-outcomes-context-dependently
 status: draft
 generated:
   by: claude/unspecified

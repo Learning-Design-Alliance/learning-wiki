@@ -1,5 +1,6 @@
 ---
 type: principle
+id: community-based-learning
 title: Community-Based Learning
 description: Community-based learning is the principle of connecting learning to shared participation, responsibility, and contribution within a classroom, local community, or broader social context.
 status: review

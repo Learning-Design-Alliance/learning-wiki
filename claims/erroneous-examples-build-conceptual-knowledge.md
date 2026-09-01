@@ -14,7 +14,7 @@ sources:
     resource: "https://doi.org/10.1016/j.learninstruc.2011.11.001"
     title: "Durkin, K., & Rittle-Johnson, B. (2012). The effectiveness of using erroneous examples to support learning of decimal magnitude. *Learning and Instruction, 22*(3), 206–214. [https://doi.org/10.1016/j.learninstruc.2011.11.001](https://doi.org/10.1016/j.learninstruc.2011.11.001)"
     author: "Durkin, K., & Rittle-Johnson, B"
-id: ea-2
+id: erroneous-examples-build-conceptual-knowledge
 evidence_strength: moderate
 ---
 

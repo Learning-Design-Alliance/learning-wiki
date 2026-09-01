@@ -1,5 +1,6 @@
 ---
 type: principle
+id: educational-readiness
 title: Educational Readiness
 description: Educational readiness has two complementary meanings — a student's preparedness for the activities and expectations of school, and a teacher's or school's responsibility to adjust instruction to meet students where they actually are.
 status: draft

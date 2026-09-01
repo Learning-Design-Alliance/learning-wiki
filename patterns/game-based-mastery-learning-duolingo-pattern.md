@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: game-based-mastery-learning-duolingo-pattern
 title: Game-Based Mastery Learning (Duolingo Pattern)
 description: This page is the short-form canonical target for Duolingo-style game-based mastery learning, where frequent practice, progression gates, feedback, and motivational signals are combined in a mastery sequence.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: principle
+id: epistemic-cognition
 title: Epistemic Cognition
 description: "Epistemic cognition is the principle of helping learners reason about knowledge itself: what counts as evidence, how claims are justified, how certainty should be calibrated, and how knowledge is constructed or revised."
 status: review

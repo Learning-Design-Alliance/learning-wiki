@@ -14,7 +14,7 @@ sources:
     resource: "https://doi.org/10.3102/00346543065003245"
     title: "Butler, D. L., & Winne, P. H. (1995). Feedback and self-regulated learning: A theoretical synthesis. *Review of Educational Research, 65*(3), 245-281. [https://doi.org/10.3102/00346543065003245](https://doi.org/10.3102/00346543065003245)"
     author: "Butler, D. L., & Winne, P. H"
-id: srl-1
+id: self-monitoring-improves-self-regulation
 evidence_strength: moderate
 ---
 

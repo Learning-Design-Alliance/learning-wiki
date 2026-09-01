@@ -1,5 +1,6 @@
 ---
 type: principle
+id: spacing
 title: Spacing
 description: Distribute learning episodes and practice over time rather than massing them together, so that partial forgetting between sessions triggers effortful retrieval and strengthens long-term retention.
 status: review

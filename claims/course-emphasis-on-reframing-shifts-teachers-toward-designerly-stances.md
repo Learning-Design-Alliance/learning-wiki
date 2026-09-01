@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Course-based emphasis on reframing and stakeholder inquiry shifts pre-service teachers toward informed-designer stances
-id: ds-1
+id: course-emphasis-on-reframing-shifts-teachers-toward-designerly-stances
 status: draft
 generated:
   by: claude/unspecified

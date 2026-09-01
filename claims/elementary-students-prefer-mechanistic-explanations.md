@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Elementary students prefer and can evaluate mechanistic explanations using explanatory power and accuracy criteria
-id: mr-1
+id: elementary-students-prefer-mechanistic-explanations
 status: draft
 generated:
   by: claude/unspecified

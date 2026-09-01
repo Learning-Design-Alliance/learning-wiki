@@ -1,5 +1,6 @@
 ---
 type: element
+id: immediate-feedback
 title: Immediate Feedback
 description: "Immediate feedback is the element in which response information is delivered close to the learner's action so it can still shape the next step."
 status: review

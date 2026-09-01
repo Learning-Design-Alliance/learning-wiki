@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Elaborated discussion of narrated emotions supports teacher professional learning
-id: npe-1
+id: elaborated-discussion-of-narrated-emotions-supports-teacher-learning
 status: draft
 generated:
   by: claude/unspecified

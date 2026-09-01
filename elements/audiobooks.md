@@ -1,5 +1,6 @@
 ---
 type: element
+id: audiobooks
 title: Audiobooks
 description: Audiobooks deliver text content through spoken audio, allowing learners to access material through listening rather than (or alongside) reading.
 status: review

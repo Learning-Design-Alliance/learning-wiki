@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: feedback-three-questions-improves-learning
+id: feedback-answers-three-questions-improves-learning
 evidence_strength:
 ---
 

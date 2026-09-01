@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: case-based-learning
 title: Case-Based Learning
 description: Case-based learning is the short-form canonical pattern for learning through analysis of realistic cases.
 status: review

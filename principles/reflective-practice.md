@@ -1,5 +1,6 @@
 ---
 type: principle
+id: reflective-practice
 title: Reflective Practice
 description: Reflective practice is the principle of examining actions, decisions, and outcomes in order to improve later performance.
 status: review

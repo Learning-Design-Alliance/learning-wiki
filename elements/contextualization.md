@@ -1,5 +1,6 @@
 ---
 type: element
+id: contextualization
 title: Contextualization
 description: Contextualization is the element in which new ideas, texts, or tasks are framed within a meaningful situation, purpose, domain, or prior experience.
 status: review

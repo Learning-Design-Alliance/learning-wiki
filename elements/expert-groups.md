@@ -1,5 +1,6 @@
 ---
 type: element
+id: expert-groups
 title: Expert Groups
 description: Learners become subject-matter experts on one segment of a topic and teach that segment to peers, distributing expertise across the group.
 status: review

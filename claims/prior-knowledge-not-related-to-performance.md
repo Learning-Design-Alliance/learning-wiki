@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Prior knowledge is not significantly related to test performance in this sample
-id: CL-PRIOR-KNOWLEDGE
+id: prior-knowledge-not-related-to-performance
 status: review
 generated:
   by: "claude/unspecified"

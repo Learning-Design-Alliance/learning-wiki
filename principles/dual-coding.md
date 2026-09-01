@@ -1,5 +1,6 @@
 ---
 type: principle
+id: dual-coding
 title: Dual Coding
 description: Dual coding is the principle of pairing verbal information with meaningful visual representation so learners can build more than one route into the same idea.
 status: review

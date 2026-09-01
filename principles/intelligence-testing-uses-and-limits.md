@@ -1,5 +1,6 @@
 ---
 type: principle
+id: intelligence-testing-uses-and-limits
 title: Intelligence Testing: Uses and Limits
 description: Standardized intelligence tests are among the most reliable instruments in psychology and predict a range of academic and occupational outcomes, but they must be periodically re-normed against the population, and they have long been criticized as culturally biased and blind to non-academic forms of ability.
 status: draft

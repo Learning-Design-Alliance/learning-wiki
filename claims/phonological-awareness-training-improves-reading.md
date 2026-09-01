@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: pa-training-improves-reading
+id: phonological-awareness-training-improves-reading
 evidence_strength: unrated
 ---
 

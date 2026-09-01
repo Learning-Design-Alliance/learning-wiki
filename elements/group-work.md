@@ -1,5 +1,6 @@
 ---
 type: element
+id: group-work
 title: Group Work
 description: Group work is the element in which learners work together on a shared task, product, or problem.
 status: review

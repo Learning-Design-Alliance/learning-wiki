@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: scripted-personally-meaningful-inquiry
 title: Scripted Personally Meaningful Inquiry
 description: A six-step classroom-to-field-to-classroom inquiry sequence, supported by a persistent visual inquiry-cycle diagram, in which students collectively frame a personally meaningful question, collect data individually outside the classroom, and return to jointly analyze shared results — including explaining unexpected or inconclusive findings.
 status: draft

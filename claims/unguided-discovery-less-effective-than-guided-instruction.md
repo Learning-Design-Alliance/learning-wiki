@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: unguided-discovery-less-effective-than-guided-instruction-for-novices
+id: unguided-discovery-less-effective-than-guided-instruction
 evidence_strength:
 ---
 

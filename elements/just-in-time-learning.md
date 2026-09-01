@@ -1,5 +1,6 @@
 ---
 type: element
+id: just-in-time-learning
 title: Just-in-Time Learning
 description: Just-in-time learning is the element in which information, guidance, or resources are provided at the moment they are needed for the task at hand rather than front-loaded in advance.
 status: review

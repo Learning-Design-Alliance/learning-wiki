@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: discussion-group
 title: Discussion Group
 description: Discussion Group is a structured pattern for using small-group or whole-group talk to deepen understanding, surface interpretation, and test ideas in relation to a prompt or problem.
 status: review

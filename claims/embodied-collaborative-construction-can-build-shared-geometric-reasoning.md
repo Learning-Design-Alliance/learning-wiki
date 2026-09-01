@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Embodied collaborative construction can build shared geometric reasoning
-id: bscc-1
+id: embodied-collaborative-construction-can-build-shared-geometric-reasoning
 status: draft
 generated:
   by: claude/unspecified

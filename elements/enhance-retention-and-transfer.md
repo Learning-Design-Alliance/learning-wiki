@@ -1,5 +1,6 @@
 ---
 type: element
+id: enhance-retention-and-transfer
 title: Enhance retention and transfer
 description: Helps learners apply knowledge to new contexts through reflection and extension activities.
 status: review

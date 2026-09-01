@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: computational-essay-writing
 title: Computational Essay Writing
 description: Students investigate a disciplinary question by extending a provided code simulation and writing a computational essay — a document mixing prose, executable code, and visualization — to explain their question, method, and findings to peers.
 status: draft

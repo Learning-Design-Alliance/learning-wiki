@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: data-wise-improvement-process
 title: Data Wise Improvement Process
 description: The Data Wise Improvement Process is an eight-step, team-based protocol for using student assessment data to drive instructional improvement in schools.
 status: review

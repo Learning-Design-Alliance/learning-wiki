@@ -1,5 +1,6 @@
 ---
 type: principle
+id: social-presence
 title: Social Presence
 description: Social presence is the degree to which learners perceive others in a learning environment as real, intentional people — designing for it builds trust, engagement, and productive discourse, especially online.
 status: review

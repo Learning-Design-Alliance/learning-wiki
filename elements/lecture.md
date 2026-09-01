@@ -1,5 +1,6 @@
 ---
 type: element
+id: lecture
 title: Lecture
 description: A lecture is an instructor-led, largely one-to-many presentation of content in spoken (often supplemented by visual) form, delivering explanation, narrative, and worked reasoning to a group.
 status: review

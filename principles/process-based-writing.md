@@ -1,5 +1,6 @@
 ---
 type: principle
+id: process-based-writing
 title: Process-based Writing
 description: Process-based writing treats writing as a sequence of intentional moves such as generating ideas, planning, drafting, revising, editing, and reflecting rather than as a one-shot product.
 status: review

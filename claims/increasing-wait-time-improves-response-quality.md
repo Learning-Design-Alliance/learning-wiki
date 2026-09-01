@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: wait-time-improves-response-quality
+id: increasing-wait-time-improves-response-quality
 evidence_strength: weak
 ---
 

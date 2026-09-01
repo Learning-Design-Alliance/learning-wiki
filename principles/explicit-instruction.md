@@ -1,5 +1,6 @@
 ---
 type: principle
+id: explicit-instruction
 title: Explicit Instruction
 description: Explicit instruction is the principle of teaching with clear explanations, modeling, guided practice, and deliberate checks for understanding rather than leaving key steps or criteria implicit.
 status: review

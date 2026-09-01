@@ -1,5 +1,6 @@
 ---
 type: principle
+id: user-centered-design-for-learning
 title: User-Centered Design for Learning
 description: User-centered design applies human-computer-interaction methods — personas, prototyping, and usability evaluation — to reduce the extraneous cognitive load a learning interface imposes, alongside pedagogical design.
 status: draft

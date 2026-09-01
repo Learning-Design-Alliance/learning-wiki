@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Interesting but irrelevant details added to a lesson can distract from learning the material they were meant to enliven
-id: ld-6
+id: seductive-details-distract-from-learning
 status: draft
 generated:
   by: claude/unspecified

@@ -1,5 +1,6 @@
 ---
 type: principle
+id: constructivism
 title: Constructivism
 description: Constructivism, as an instructional principle, emphasizes that learners build understanding by connecting new information to prior knowledge through active interpretation, explanation, and application.
 status: review

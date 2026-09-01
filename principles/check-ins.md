@@ -1,5 +1,6 @@
 ---
 type: principle
+id: check-ins
 title: Check-ins
 description: Check-ins are brief, recurring opportunities for learners to signal how they are doing, what they understand, and what kind of support they need.
 status: review

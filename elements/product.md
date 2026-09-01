@@ -1,5 +1,6 @@
 ---
 type: element
+id: product
 title: Product
 description: A product is the tangible artifact or performance a learner creates to demonstrate learning — the observable output that anchors assessment, feedback, and transfer.
 status: review

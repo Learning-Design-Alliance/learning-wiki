@@ -13,7 +13,7 @@ sources:
     resource: "https://doi.org/10.3102/00346543066004543"
     title: "Pajares, F. (1996). Self-efficacy beliefs in academic settings. *Review of Educational Research, 66*(4), 543–578. [https://doi.org/10.3102/00346543066004543](https://doi.org/10.3102/00346543066004543)"
     author: Pajares, F
-id: motiv-2
+id: self-efficacy-predicts-academic-persistence
 evidence_strength: strong
 ---
 

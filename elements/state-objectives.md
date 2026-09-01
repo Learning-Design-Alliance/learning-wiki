@@ -1,5 +1,6 @@
 ---
 type: element
+id: state-objectives
 title: State objectives
 description: Clearly communicates the learning goals to set expectations and focus attention.
 status: review

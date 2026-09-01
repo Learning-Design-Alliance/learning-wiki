@@ -1,5 +1,6 @@
 ---
 type: element
+id: socratic-seminar
 title: Socratic Seminar
 description: Socratic seminar is the element in which learners build understanding through text-centered questioning and discussion.
 status: review

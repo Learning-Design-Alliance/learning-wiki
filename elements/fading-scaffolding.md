@@ -1,5 +1,6 @@
 ---
 type: element
+id: fading-scaffolding
 title: Fading Scaffolding
 description: Fading scaffolding is the element in which supports such as hints, prompts, or models are progressively reduced so that learners take on more of the task independently.
 status: review

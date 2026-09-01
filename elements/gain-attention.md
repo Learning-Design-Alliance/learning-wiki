@@ -1,5 +1,6 @@
 ---
 type: element
+id: gain-attention
 title: Gain attention
 description: Engages learners with an unexpected event, question, or real-world scenario to capture focus.
 status: review

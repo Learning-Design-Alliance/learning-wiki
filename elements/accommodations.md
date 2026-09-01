@@ -1,5 +1,6 @@
 ---
 type: element
+id: accommodations
 title: Accommodations
 description: Adjustments to how content is presented, how learners respond, or how the learning environment is structured that remove barriers for learners with disabilities or other access needs without changing the learning goal.
 status: review

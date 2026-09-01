@@ -1,5 +1,6 @@
 ---
 type: principle
+id: disciplinary-literacy
 title: Disciplinary Literacy
 description: Disciplinary literacy teaches learners to read, write, and reason in the ways that are specific to a discipline — how historians source documents, how scientists evaluate evidence, how mathematicians justify claims — rather than applying generic comprehension strategies to all texts.
 status: review

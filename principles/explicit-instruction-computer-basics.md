@@ -1,5 +1,6 @@
 ---
 type: principle
+id: explicit-instruction-computer-basics
 title: "Explicit Instruction: Computer Basics"
 description: In an increasingly digital world, adults who struggle with using technology can benefit from direct instruction for an array of digital tools.
 status: review

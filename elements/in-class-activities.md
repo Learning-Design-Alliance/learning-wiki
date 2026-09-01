@@ -1,5 +1,6 @@
 ---
 type: element
+id: in-class-activities
 title: In-Class Activities
 description: Learners engage in active, structured tasks during class to apply knowledge.
 status: review

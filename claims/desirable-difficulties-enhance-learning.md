@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Desirable Difficulties Enhance Learning
-id:
+id: desirable-difficulties-enhance-learning
 status: draft
 generated:
   by: "claude/unspecified"

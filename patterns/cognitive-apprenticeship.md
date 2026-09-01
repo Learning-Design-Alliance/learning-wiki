@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: cognitive-apprenticeship
 title: Cognitive Apprenticeship
 description: Cognitive apprenticeship adapts the structure of traditional craft apprenticeship to the teaching of complex cognitive skills.
 status: review

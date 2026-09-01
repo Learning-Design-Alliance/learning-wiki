@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: strategy-instruction-contextualized-authentic-tasks
+id: learning-strategy-instruction-contextualized-more-effective
 evidence_strength: weak
 ---
 

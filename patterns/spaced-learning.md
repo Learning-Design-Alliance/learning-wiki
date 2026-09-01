@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: spaced-learning
 title: Spaced Learning
 description: Spaced learning is the short-form canonical pattern for distributing study and retrieval over time instead of massing it in one session.
 status: review

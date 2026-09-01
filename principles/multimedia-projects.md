@@ -1,5 +1,6 @@
 ---
 type: principle
+id: multimedia-projects
 title: Multimedia Projects
 description: Multimedia projects ask learners to create meaning through more than one medium, such as text, image, audio, video, interaction, or digital composition.
 status: review

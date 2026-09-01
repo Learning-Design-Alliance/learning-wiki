@@ -1,5 +1,6 @@
 ---
 type: principle
+id: annotating
 title: Annotating
 description: Annotating is the practice of marking a text with notes, questions, summaries, definitions, or visual cues while reading.
 status: review

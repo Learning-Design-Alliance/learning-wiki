@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Critical speculative design pedagogy supports critical consciousness and justice-oriented sensemaking in science
-id: csdp-1
+id: critical-speculative-design-supports-critical-consciousness-in-science
 status: draft
 generated:
   by: claude/unspecified

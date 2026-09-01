@@ -1,5 +1,6 @@
 ---
 type: principle
+id: rhetorical-skill-development
 title: Rhetorical Skill Development
 description: Rhetorical skill development is the principle of helping learners craft arguments, communicate persuasively, respond to audiences, and use language strategically for effect.
 status: review

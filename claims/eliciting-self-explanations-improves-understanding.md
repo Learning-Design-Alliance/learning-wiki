@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: self-explanation-improves-understanding
+id: eliciting-self-explanations-improves-understanding
 evidence_strength:
 ---
 

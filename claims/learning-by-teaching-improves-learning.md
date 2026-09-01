@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: lbte-1
+id: learning-by-teaching-improves-learning
 evidence_strength:
 ---
 

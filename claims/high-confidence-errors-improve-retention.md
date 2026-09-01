@@ -14,7 +14,7 @@ sources:
     resource: "https://doi.org/10.3758/PBR.16.1.88"
     title: "Fazio, L. K., & Marsh, E. J. (2009). Surprising feedback improves later memory. *Psychonomic Bulletin & Review, 16*(1), 88–92. [https://doi.org/10.3758/PBR.16.1.88](https://doi.org/10.3758/PBR.16.1.88)"
     author: "Fazio, L. K., & Marsh, E. J"
-id: ea-1
+id: high-confidence-errors-improve-retention
 evidence_strength: strong
 ---
 

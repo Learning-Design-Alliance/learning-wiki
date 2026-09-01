@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: cooperative-learning-goal-structures
+id: cooperative-learning-outperforms-competitive-individualistic
 evidence_strength: moderate
 ---
 

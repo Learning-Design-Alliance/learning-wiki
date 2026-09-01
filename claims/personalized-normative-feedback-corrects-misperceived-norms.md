@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: pnf-corrects-misperceived-norms
+id: personalized-normative-feedback-corrects-misperceived-norms
 evidence_strength:
 ---
 

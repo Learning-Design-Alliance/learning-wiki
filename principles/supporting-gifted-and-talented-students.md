@@ -1,5 +1,6 @@
 ---
 type: principle
+id: supporting-gifted-and-talented-students
 title: Supporting Gifted and Talented Students
 description: Students with unusually high IQ or exceptional talent (traditionally an IQ of 130 or higher) are not the socially maladjusted stereotype often assumed, but they do languish without accommodation, and support usually means blending acceleration with enrichment rather than choosing one.
 status: draft

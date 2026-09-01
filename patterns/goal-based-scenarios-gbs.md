@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: goal-based-scenarios-gbs
 title: Goal-Based Scenarios (GBS)
 description: Goal-Based Scenarios organize learning around a mission or role-based objective that learners pursue inside a realistic scenario.
 status: review

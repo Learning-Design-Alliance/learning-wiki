@@ -1,5 +1,6 @@
 ---
 type: principle
+id: four-boundaries-of-learning-community
 title: Four Boundaries of Learning Community (Access, Relationships, Vision, Function)
 description: Because "learning community" is used inconsistently across research and practice, West and Williams propose defining any community by which of four boundaries actually bind it — access, relationships, vision, and function — so designers can diagnose what a given design will and won't produce.
 status: draft

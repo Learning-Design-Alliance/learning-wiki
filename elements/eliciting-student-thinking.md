@@ -1,5 +1,6 @@
 ---
 type: element
+id: eliciting-student-thinking
 title: Eliciting Student Thinking
 description: Encourages learners to express their ideas, reasoning, and problem-solving approaches verbally.
 status: review

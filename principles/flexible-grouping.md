@@ -1,5 +1,6 @@
 ---
 type: principle
+id: flexible-grouping
 title: Flexible Grouping
 description: Flexible grouping is a classroom practice that temporarily places learners together in groups to work collaboratively toward specific learning goals or activities.
 status: review

@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Funds-of-knowledge-grounded tasks reveal computational thinking that decontextualized assessment misses
-id: fok-1
+id: funds-of-knowledge-tasks-reveal-computational-thinking
 status: draft
 generated:
   by: claude/unspecified

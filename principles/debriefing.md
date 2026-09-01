@@ -1,5 +1,6 @@
 ---
 type: principle
+id: debriefing
 title: Debriefing
 description: Debriefing is a structured reflection after an activity, simulation, discussion, or performance in which learners revisit what happened, why it happened, and what should change next time.
 status: review

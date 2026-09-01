@@ -14,7 +14,7 @@ sources:
     resource: "https://doi.org/10.1023/A:1016027302995"
     title: "Renkl, A., Atkinson, R. K., Maier, U. H., & Staley, R. (2002). From example study to problem solving: Smooth transitions help learning. *Instructional Science, 30*(4), 293–308. [https://doi.org/10.1023/A:1016027302995](https://doi.org/10.1023/A:1016027302995)"
     author: "Renkl, A., Atkinson, R. K., Maier, U. H., & Staley, R"
-id: sf-2
+id: fading-support-promotes-transfer-of-responsibility
 evidence_strength: strong
 ---
 

@@ -1,5 +1,6 @@
 ---
 type: principle
+id: cooperative-learning
 title: Cooperative Learning
 description: Learners work in small, structured groups with positive interdependence and individual accountability, so that success requires every member to learn and contribute.
 status: review

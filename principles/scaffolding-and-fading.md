@@ -1,5 +1,6 @@
 ---
 type: principle
+id: scaffolding-and-fading
 title: Scaffolding and Fading
 description: Scaffolding provides temporary, contingent support to learners as they develop new skills or knowledge.
 status: review

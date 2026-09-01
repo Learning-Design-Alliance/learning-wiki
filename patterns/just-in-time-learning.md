@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: just-in-time-learning
 title: Just-in-Time Learning
 description: Just-in-time learning is the short-form canonical pattern for providing support, information, or practice at the moment it is needed for performance.
 status: review

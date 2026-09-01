@@ -1,5 +1,6 @@
 ---
 type: principle
+id: classroom-space-and-procedural-design
 title: Classroom Space and Procedural Design
 description: Preventing management problems before they start depends on how classroom space is arranged, whether procedures (conventional, efficiency-focused) are distinguished from rules (moral, responsibility-focused), how difficulty is sequenced, how much structure is given, and how transitions are handled.
 status: draft

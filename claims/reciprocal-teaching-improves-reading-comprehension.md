@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: rt-1
+id: reciprocal-teaching-improves-reading-comprehension
 evidence_strength:
 ---
 

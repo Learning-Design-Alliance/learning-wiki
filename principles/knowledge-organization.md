@@ -1,5 +1,6 @@
 ---
 type: principle
+id: knowledge-organization
 title: Knowledge Organization
 description: Knowledge organization is the principle of helping learners structure information into meaningful relationships, categories, sequences, or frameworks rather than leaving it as disconnected facts.
 status: review

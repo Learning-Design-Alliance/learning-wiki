@@ -1,5 +1,6 @@
 ---
 type: element
+id: reciprocal-teaching
 title: Reciprocal Teaching
 description: Learners take turns leading structured dialogue — predicting, questioning, clarifying, and summarizing — to build comprehension of shared text or content.
 status: review

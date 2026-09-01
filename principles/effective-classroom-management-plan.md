@@ -1,5 +1,6 @@
 ---
 type: principle
+id: effective-classroom-management-plan
 title: Effective Classroom Management Plan Criteria
 description: A comprehensive classroom management plan establishes positive relationships, prevents attention-seeking and work-avoidance behavior, redirects misbehavior quickly and unobtrusively, stops chronic misbehavior with consistent simple strategies, teaches self-control, and respects cultural differences — a synthesis of the humanist, applied-behavior-analysis, and prevention-oriented traditions.
 status: draft

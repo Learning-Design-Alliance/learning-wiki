@@ -1,5 +1,6 @@
 ---
 type: principle
+id: perspective-seekingmultiple-perspectives
 title: Perspective Seeking/Multiple Perspectives
 description: Perspective seeking is the instructional principle of actively engaging with multiple viewpoints in order to better understand a topic, event, text, or problem.
 status: review

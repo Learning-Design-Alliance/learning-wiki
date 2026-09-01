@@ -1,5 +1,6 @@
 ---
 type: principle
+id: natural-and-logical-consequences
 title: Natural and Logical Consequences
 description: Natural consequences arise on their own from an action, and logical consequences are imposed by others but have an obvious connection to it; both work better than punishment at reducing misbehavior because they focus on repairing the future rather than blaming the past, though they fail when the misbehavior is too serious, or when the student's motive is power rather than attention.
 status: draft

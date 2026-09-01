@@ -1,5 +1,6 @@
 ---
 type: element
+id: interviews
 title: Interviews
 description: An interview is a structured conversation in which learners pose questions to an expert, practitioner, community member, or peer to gather first-hand knowledge, perspectives, or data.
 status: review

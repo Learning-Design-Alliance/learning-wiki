@@ -1,5 +1,6 @@
 ---
 type: principle
+id: procedural-learning
 title: Procedural Learning
 description: Procedural learning is the principle of helping learners acquire and refine sequences of action, routines, or task procedures until performance becomes more accurate, fluent, and reliable.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: element
+id: performance-based-assessment
 title: Performance-Based Assessment
 description: Performance-based assessment is the element in which learners demonstrate knowledge or skill by performing, producing, or solving something observable rather than only selecting answers.
 status: review

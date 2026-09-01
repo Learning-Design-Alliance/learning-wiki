@@ -1,5 +1,6 @@
 ---
 type: element
+id: case-based-learning
 title: Case-Based Learning
 description: Learners analyze real-world scenarios to apply theoretical concepts.
 status: review

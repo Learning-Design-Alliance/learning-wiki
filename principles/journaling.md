@@ -1,5 +1,6 @@
 ---
 type: principle
+id: journaling
 title: Journaling
 description: Journaling is the practice of having learners write regularly to externalize thinking, notice experience, and make learning more visible to themselves or to an instructor.
 status: review

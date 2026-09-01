@@ -1,5 +1,6 @@
 ---
 type: principle
+id: summative-assessment
 title: Summative Assessment
 description: Summative assessment is the principle of evaluating learner performance at the end of an instructional sequence in order to judge the level of competence, understanding, or achievement reached.
 status: review

@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Feedback improves learning outcomes
-id:
+id: feedback-improves-learning-outcomes
 status: draft
 generated:
   by: "claude/unspecified"

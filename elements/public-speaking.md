@@ -1,5 +1,6 @@
 ---
 type: element
+id: public-speaking
 title: Public Speaking
 description: Public speaking is the element in which learners present ideas aloud to an audience with attention to clarity, organization, evidence, and delivery.
 status: review

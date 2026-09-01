@@ -1,5 +1,6 @@
 ---
 type: principle
+id: least-restrictive-environment
 title: Least Restrictive Environment
 description: Students with disabilities should be educated alongside non-disabled peers in regular classrooms and school programs as much as the specific student and setting allow, with the precise combination of settings determined case by case rather than fixed by disability category alone.
 status: draft

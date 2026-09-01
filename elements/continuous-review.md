@@ -1,5 +1,6 @@
 ---
 type: element
+id: continuous-review
 title: Continuous Review
 description: Learning materials and concepts are revisited systematically to reinforce retention and prevent forgetting.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: principle
+id: criterion-and-norm-referenced-testing
 title: Criterion- and Norm-Referenced Testing
 description: Criterion-referenced tests report what a student can and cannot do against a fixed standard; norm-referenced tests report how a student compares to others who took the same test — genuinely different information, suited to different decisions, and not interchangeable.
 status: draft

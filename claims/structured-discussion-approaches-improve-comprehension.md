@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: structured-discussion-improves-comprehension
+id: structured-discussion-approaches-improve-comprehension
 evidence_strength:
 ---
 

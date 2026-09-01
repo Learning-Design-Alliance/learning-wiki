@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: online-course-design
 title: Online Course Design (Community of Inquiry)
 description: A course-level pattern for designing online courses around Moore's three types of interaction and the Community of Inquiry's cognitive, social, and teaching presences, to counteract the transactional distance learners feel online.
 status: draft
