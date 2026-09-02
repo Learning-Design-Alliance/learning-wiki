@@ -1932,7 +1932,7 @@ does not read it.</p>
 <tr>
 <td><code>sources</code></td>
 <td>When applicable</td>
-<td>List of <code>{ id, resource, title, author }</code> entries parsed from <code>## Key Sources</code> (or <code>## Evidence</code> for claims) — a structured mirror of the citations already in the body, not a replacement for them</td>
+<td>List of <code>{ id, resource, title, author, q, i, n }</code> entries parsed from <code>## Key Sources</code> (or <code>## Evidence</code> for claims) — a structured mirror of the citations already in the body, not a replacement for them</td>
 </tr>
 <tr>
 <td><code>verified</code></td>
@@ -2074,6 +2074,7 @@ indexes with <code>python3 scripts/build_indexes.py</code>.</p>
   CLAUDE.md          ← this file (schema + operating guide)
   index.md           ← OKF bundle-root index; carries okf_version in frontmatter
   reverse-index.json ← generated: which pages point AT each page (see The reverse index below)
+  evidence-scales.json ← what q3 / i2 / n= mean, as data (read by agents and by the docs hook)
   log.md             ← reserved OKF filename: append-only, date-grouped change log
   principles/        ← design principles (what to do and why)
   elements/          ← instructional components (building blocks)
@@ -2559,6 +2560,34 @@ Author, A., &amp; Author, B. (Year). Title. <span class="ge">*Journal, vol*</spa
 | 3 | Peer-reviewed experiment (not pre-registered) or systematic review |
 | 2 | Quasi-experiment, observational with controls, or narrative review |
 | 1 | Case study, expert opinion, or theoretical argument |</p>
+<p><strong>The codes live in three places, from one source.</strong> <code>evidence-scales.json</code> at the bundle
+root is the definition — as data, said once. <code>docs_hooks/page_metadata.py</code> loads it to
+render the human-facing panel, and each claim's frontmatter <code>sources[]</code> entries carry the
+per-study <code>q</code>/<code>i</code>/<code>n</code> mirrored out of the body by <code>scripts/sync_evidence_codes.py</code>. So an
+agent reads a tier and its meaning without parsing prose, and the reader's tables cannot
+drift from the agent's, because there is only one copy.</p>
+<div class="highlight"><pre><span></span><code><span class="nt">sources</span><span class="p">:</span>
+<span class="w">  </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="nt">id</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">haak-et-al-2011</span>
+<span class="w">    </span><span class="nt">resource</span><span class="p">:</span><span class="w"> </span><span class="s">"https://doi.org/10.1126/science.1204820"</span>
+<span class="w">    </span><span class="nt">title</span><span class="p">:</span><span class="w"> </span><span class="s">"Haak,</span><span class="nv"> </span><span class="s">D.</span><span class="nv"> </span><span class="s">C.,</span><span class="nv"> </span><span class="s">…</span><span class="nv"> </span><span class="s">(2011).</span><span class="nv"> </span><span class="s">Increased</span><span class="nv"> </span><span class="s">structure</span><span class="nv"> </span><span class="s">and</span><span class="nv"> </span><span class="s">active</span><span class="nv"> </span><span class="s">learning…"</span>
+<span class="w">    </span><span class="nt">q</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">3</span>
+<span class="w">    </span><span class="nt">i</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">2</span>
+<span class="w">    </span><span class="nt">n</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">large (multiple course sections at a research university)</span>
+</code></pre></div>
+<p>Subclaim prefixes are deliberately not mirrored: a subclaim's <code>q3 i2</code> is a <em>reading</em> of the
+evidence entry it links to, and that entry already carries the codes — a second copy would
+be a second place for them to disagree with no way to tell which was right. <code>q?</code> is
+preserved rather than dropped, because "somebody looked and could not establish it" is a
+different statement from an absent field.</p>
+<p>These two tables are also rendered <em>on every claim page</em>, as a collapsed "Reading the
+evidence codes" panel inserted directly under <code>## Subclaims</code> — see
+<code>docs_hooks/page_metadata.py</code>. An evidence entry spells its codes out beside them
+(<code>q3 · quasi-experimental study · i2 · large effect · n=large</code>), but a subclaim prefix is
+bare <code>q3 i2</code>, and across the claims corpus there are 465 quality codes and 443 impact codes
+with nothing next to them saying what the numbers mean. The tables were always here and
+this file is in the nav as <em>Schema &amp; Guide</em>, so it was a proximity problem, not a missing
+docs one. Not tooltips: the codes sit inside code spans, and neither <code>abbr</code> nor Material's
+tooltips reach inside a <code>&lt;code&gt;</code> element.</p>
 <p><strong>Impact magnitude (i):</strong>
 | i | Rough effect size |
 |---|-------------------|

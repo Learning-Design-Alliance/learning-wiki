@@ -644,6 +644,57 @@
 </blockquote>
 <p>Process-mining 30 undergraduates' think-aloud inquiry behavior, students independently classified as high vs. low in argumentation quality also differed sharply in how densely their scientific-reasoning and self-regulation process codes co-occurred, with low-quality students showing more frequent control-of-variables-strategy violations and less monitoring.</p>
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p>A subclaim is prefixed <code>q? i?</code> — how good the study was, and how big the
+effect. An evidence entry spells both out in words beside the code, and adds
+<code>n=</code> for the sample.</p>
+<table>
+<thead>
+<tr>
+<th>Code</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>q4</code></td>
+<td>Pre-registered RCT or well-powered meta-analysis</td>
+</tr>
+<tr>
+<td><code>q3</code></td>
+<td>Peer-reviewed experiment (not pre-registered) or systematic review</td>
+</tr>
+<tr>
+<td><code>q2</code></td>
+<td>Quasi-experiment, observational with controls, or narrative review</td>
+</tr>
+<tr>
+<td><code>q1</code></td>
+<td>Case study, expert opinion, or theoretical argument</td>
+</tr>
+<tr>
+<td><code>i3</code></td>
+<td>Large — d &gt;= 0.8 or equivalent</td>
+</tr>
+<tr>
+<td><code>i2</code></td>
+<td>Medium — d 0.4-0.79</td>
+</tr>
+<tr>
+<td><code>i1</code></td>
+<td>Small — d 0.2-0.39</td>
+</tr>
+<tr>
+<td><code>i0</code></td>
+<td>Negligible — Negligible or unclear</td>
+</tr>
+</tbody>
+</table>
+<p>Strength here describes the <em>research</em>. Whether anyone has checked that this
+page reports it faithfully is a separate axis — see <code>trust</code> in the page
+metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
 <p><code>q2 i3</code> Groups classified as high vs. low argumentation quality (by k-means clustering on argumentation scores) showed a very large difference in epistemic-network position summarizing their process-code co-occurrence patterns (Mann-Whitney U=34.00, p&lt;.001, d=1.96) — this compares two outcome-defined groups on a process-summary variable and should be read as a strong descriptive association between argumentation quality and process-network shape, not as evidence that any specific process co-occurrence causes higher argumentation quality. <a href="#omarchevska-et-al-2022">→ Omarchevska et al. 2022</a></p>
 <p><code>q2 i2</code> Students with high argumentation quality showed think-aloud episodes of monitoring (e.g., "I think I understand it now," "does that work? yes") interleaved with correct evidence generation and evaluation across multiple experiments, while a representative low-quality student made one hypothesis, manipulated multiple variables without checking, and concluded without inspecting data. <a href="#omarchevska-et-al-2022">→ Omarchevska et al. 2022</a></p>
 <p><code>q2 i2</code> Students with low argumentation quality showed a stronger pattern of correct-then-incorrect evidence generation reflecting violations of the control-of-variables strategy (typically manipulating multiple variables simultaneously instead of isolating one), observed as a qualitative pattern rather than a separately quantified correlation. <a href="#omarchevska-et-al-2022">→ Omarchevska et al. 2022</a></p>
