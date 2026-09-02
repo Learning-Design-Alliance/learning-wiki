@@ -3,7 +3,7 @@ type: pattern
 id: continuous-improvement-of-learning-materials
 title: Continuous Improvement of Learning Materials
 description: A post-release design process that treats a shipped course as a hypothesis under test — instrumenting materials so that use and outcome data are collected together, running short build–measure–learn cycles, and using RISE analysis to decide which resource to revise next.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-02

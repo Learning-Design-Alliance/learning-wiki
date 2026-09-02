@@ -92,15 +92,38 @@ def _rows(meta: dict) -> list:
 # One definition, two audiences: if the tiers change, the page and the agent
 # change together, which a second copy here could not guarantee.
 def _load_scales():
+    """Read the whole of evidence-scales.json, not only its tier tables.
+
+    The file already says what each letter stands for — quality, impact,
+    sample — and what `?` means, in its `means` fields. The first version of
+    this panel took the tiers and paraphrased the rest inline, which put a
+    second wording of the same fact one directory away from the first. The
+    letters are exactly the part a reader does not know, so they are the part
+    that must not drift."""
     import json
     path = Path(__file__).resolve().parent.parent / "evidence-scales.json"
     data = json.loads(path.read_text(encoding="utf-8"))
-    return ([(f"q{t['code']}", t["definition"]) for t in data["quality"]["tiers"]],
-            [(f"i{t['code']}", f"{t['label'].capitalize()} — {t['definition']}")
-             for t in data["impact"]["tiers"]])
+    quality = [(f"q{t['code']}", t["definition"]) for t in data["quality"]["tiers"]]
+    # `i0` is labelled "negligible" and defined "negligible or unclear", so
+    # the naive label + definition join reads "Negligible — Negligible or
+    # unclear". Drop the label where the definition already opens with it.
+    impact = []
+    for tier in data["impact"]["tiers"]:
+        label, definition = tier["label"], tier["definition"]
+        meaning = (definition if definition.lower().startswith(label.lower())
+                   else f"{label.capitalize()} — {definition}")
+        impact.append((f"i{tier['code']}", meaning[0].upper() + meaning[1:]))
+    return quality, impact, data
 
 
-QUALITY_TIERS, IMPACT_TIERS = _load_scales()
+QUALITY_TIERS, IMPACT_TIERS, SCALES = _load_scales()
+
+
+def _first_sentence(text: str) -> str:
+    """The `means` fields carry a definition and then a qualification. The
+    panel wants the definition; the qualification is in the Schema & Guide."""
+    head = str(text).split(". ")[0].strip()
+    return head if head.endswith(".") else head + "."
 
 
 def _evidence_legend() -> str:
@@ -119,14 +142,26 @@ def _evidence_legend() -> str:
 
     Not tooltips: the codes sit inside code spans, and neither `abbr` nor
     Material's tooltips reach inside a `<code>` element."""
-    rows = [f"    | `{code}` | {meaning} |" for code, meaning in QUALITY_TIERS]
-    rows += [f"    | `{code}` | {meaning} |" for code, meaning in IMPACT_TIERS]
+    q_rows = [f"    | `{code}` | {meaning} |" for code, meaning in QUALITY_TIERS]
+    i_rows = [f"    | `{code}` | {meaning} |" for code, meaning in IMPACT_TIERS]
+    q_means = _first_sentence(SCALES["quality"]["means"])
+    i_means = _first_sentence(SCALES["impact"]["means"])
+    n_means = _first_sentence(SCALES["sample"]["means"])
+    unknown = SCALES["unknown"]["means"]
     return "\n".join([
         "", '??? info "Reading the evidence codes"', "",
-        "    A subclaim is prefixed `q? i?` — how good the study was, and how big the",
-        "    effect. An evidence entry spells both out in words beside the code, and adds",
-        "    `n=` for the sample.", "",
-        "    | Code | Meaning |", "    |---|---|", *rows, "",
+        "    The letters are abbreviations:", "",
+        f"    * **`q` — quality.** {q_means}",
+        f"    * **`i` — impact.** {i_means}",
+        f"    * **`n` — sample.** {n_means}", "",
+        "    A subclaim is prefixed with the first two, bare: `q3 i2` means a q3 study",
+        "    with an i2 effect. An evidence entry spells them out in words beside the",
+        "    code and adds `n=`.", "",
+        "    **`q` — evidence quality**", "",
+        "    | Code | Criteria |", "    |---|---|", *q_rows, "",
+        "    **`i` — impact magnitude**", "",
+        "    | Code | Rough effect size |", "    |---|---|", *i_rows, "",
+        f"    A `?` in place of a digit — `q?`, `i?` — {unknown[0].lower()}{unknown[1:]}", "",
         "    Strength here describes the *research*. Whether anyone has checked that this",
         "    page reports it faithfully is a separate axis — see `trust` in the page",
         "    metadata below, and the [Schema & Guide](../CLAUDE.md).", "",

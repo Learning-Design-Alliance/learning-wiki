@@ -27,6 +27,9 @@ Concrete teaching activity recipes — specific, implementable approaches.
 ### [Theories](theories/index.md) (89)
 Explanatory frameworks that ground principles and claims.
 
+### [Learner Variables](learner-variables/index.md) (12)
+Canonical learner characteristics claims report findings about — one page per variable, so the same concept does not fragment across differently-worded tags.
+
 ### [Claims](claims/index.md) (422)
 Empirical claims with evidence ratings, sources, and competing views.
 

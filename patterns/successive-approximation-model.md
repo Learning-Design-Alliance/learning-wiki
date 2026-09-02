@@ -3,7 +3,7 @@ type: pattern
 id: successive-approximation-model
 title: Successive Approximation Model (SAM)
 description: An iterative, agile course design process that replaces a single analyse-build-evaluate pass with short rounds of design, prototype and review, starting from a collaborative Savvy Start and converging on a design by repeated approximation rather than by up-front specification.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-02

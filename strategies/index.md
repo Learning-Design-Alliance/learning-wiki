@@ -2,7 +2,7 @@
 
 Concrete teaching activity recipes — specific, implementable approaches.
 
-**2560 entries** · 0 stable · 2523 in review · 36 drafts · 1 deprecated
+**2560 entries** · 0 stable · 2526 in review · 33 drafts · 1 deprecated
 
 ---
 
@@ -43,6 +43,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Active Transitions](active-transitions.md) - Brief structured activities — physical, cognitive, or social — that fill the gaps between instructional segments, keeping learners engaged rather than idle.
 * [Actively Listen To What Students Say](actively_listen_to_what_students_say.md) - Give students full attention and respond to both the content and the affective signal of what they say, treating their contributions as evidence for instructional decisions.
 * [Activities for Student Self-Reflection](activities_for_student_self-reflection.md) - Structured activities that prompt students to examine their own learning processes, understanding, and progress in order to build metacognition and self-regulation.
+* [Activity-System Personas and Scenarios](activity-system-personas.md) - Building learner personas and design scenarios around the activity system a learner acts within — object, mediating tools, rules, community and division of labour — so that the design responds to what constrains the learner rather than to who they are demographically.
 * [Adaptive Learning](adaptive-learning.md) - A strategy in which instruction, task difficulty, or pacing adjusts dynamically to individual learner performance, typically via algorithmic or rule-based systems.
 * [Address Biases in the Use of Language and Symbols](address_biases_in_the_use_of_language_and_symbols.md) - Auditing and revising the language, examples, and symbols in learning materials and discourse so they are free from bias and stereotypes and respect diverse identities.
 * [Address Digital Literacy](address_digital_literacy.md) - Explicitly teach foundational digital skills and terminology rather than assuming learners already possess them.
@@ -339,6 +340,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Co-Teaching and Collaboration](co-teaching_and_collaboration.md) - Content teachers and language specialists jointly plan and deliver lessons that integrate content objectives with explicit academic-language objectives.
 * [Cognitive Apprenticeship](cognitive-apprenticeship.md) - A strategy that makes expert thinking visible through modeling, then supports learners through coached practice, articulation, reflection, and exploration as they move toward independent performance.
 * [Cognitive Strategy Instruction](cognitive-strategy-instruction.md) - Explicitly teaching learners cognitive strategies — such as summarizing, self-questioning, or problem decomposition — so they can independently perform complex cognitive tasks.
+* [Cognitive Task Analysis](cognitive-task-analysis.md) - A family of interview and observation methods for eliciting the cues, judgements and decision rules an expert uses but cannot readily articulate — the tacit content that a procedural task analysis records as a single step.
 * [Cognitively Demanding Tasks](cognitively_demanding_tasks.md) - Tasks that require learners to engage in non-routine reasoning, make connections among concepts, and explain their thinking rather than reproduce memorized procedures.
 * [Cognitively Guided Instruction](cognitively-guided-instruction.md) - A teacher professional development approach in which instruction is planned around detailed knowledge of how children naturally think about and solve mathematics problems.
 * [Coherence](coherence.md) - Removing extraneous words, images, sounds, and decorative material from instruction so that working memory is spent on the essential content.
@@ -2192,6 +2194,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Stand Up Sit Down](stand-up-sit-down.md) - A whole-body response game in which students stand or sit based on the (often disguised) value of a mentally computed number, turning fact retrieval into fast-paced kinesthetic practice.
 * [Standard Inverted Classroom](standard_inverted_classroom.md) - Learners study lecture videos and other materials before class, freeing class time for practice, application, and individualized support.
 * [Standard-Based Regrouping](standard-based_regrouping.md) - Form homogeneous groups based on learners' mastery of specific standards.
+* [Standards Crosswalk](standards-crosswalk.md) - Deriving a course's goal tree from an external framework — a standards set, competency model or certification blueprint — and carrying the framework's own codes through objectives, activities and assessment items so that coverage and provenance stay traceable in both directions.
 * [Standards-/Mastery-Based Grading](standards-mastery-based-grading.md) - Grades are assigned based on demonstrated mastery of explicitly stated learning objectives rather than accumulated points, averages, or compliance behaviors.
 * [Standards-Based Grading](standards-based-grading.md) - Shift from arbitrary points and percentages to evaluating students on mastery of specific learning standards, making expectations clear and grades meaningful.
 * [Standards-Based Grading](standards-based_grading.md) - Shift from arbitrary points and percentages to evaluating students on mastery of specific learning standards, making expectations clear and grades meaningful.
@@ -2614,7 +2617,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 ## Draft
 
-36 draft entries are currently omitted from this section page to keep the index navigable. Browse the folder directly or promote pages to `review` as they are curated.
+33 draft entries are currently omitted from this section page to keep the index navigable. Browse the folder directly or promote pages to `review` as they are curated.
 
 ## Deprecated
 

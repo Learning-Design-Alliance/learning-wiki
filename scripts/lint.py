@@ -587,6 +587,59 @@ def check_source_entry_keys(pages: dict[str, Path]) -> list[dict]:
     return issues
 
 
+def check_nav_coverage(pages: dict[str, Path]) -> list[dict]:
+    """Every content folder appears in the mkdocs nav AND on the root hub.
+
+    These are two hand-and-machine-maintained lists of the same set — the nav
+    in mkdocs.yml, written by hand, and build_indexes.py's ROOT_INDEX_TYPES,
+    which generates the hub's Knowledge Types section — and they drifted.
+    `learner-variables` was in the nav and in neither PAGE_TYPES nor
+    ROOT_INDEX_TYPES, so the sidebar offered a section the front page did not
+    list, and, worse, that folder's own index.md was never regenerated: a
+    folder absent from PAGE_TYPES is simply not iterated, so it kept whatever
+    it was last written with. It said "1 entries" while twelve pages sat
+    beside it, for weeks, with every check passing.
+
+    Nothing could have caught that, because every check here reads pages and
+    the defect was in which pages a generator visited. This reads the three
+    lists and compares them."""
+    import re
+    issues = []
+    folders = [f for f in ok.CONTENT_FOLDERS if (WIKI_ROOT / f).is_dir()]
+
+    nav = (WIKI_ROOT / "mkdocs.yml").read_text(encoding="utf-8")
+    in_nav = set(re.findall(r"^\s+-\s+[^:]+:\s*([\w-]+)/index\.md\s*$", nav, re.M))
+
+    hub = (WIKI_ROOT / "index.md").read_text(encoding="utf-8")
+    in_hub = set(re.findall(r"^###\s+\[[^\]]+\]\(([\w-]+)/index\.md\)", hub, re.M))
+
+    for folder in folders:
+        missing = [name for name, seen in (("mkdocs.yml nav", folder in in_nav),
+                                           ("index.md hub", folder in in_hub))
+                   if not seen]
+        if missing:
+            issues.append({
+                "type": "content_folder_not_listed",
+                "file": f"{folder}/",
+                "detail": (f"{len(list((WIKI_ROOT / folder).glob('*.md'))) - 1} pages, "
+                           f"but the folder is missing from {' and '.join(missing)}"),
+            })
+
+    # A folder that is not in build_indexes' own table never gets its index
+    # regenerated, which is the half of the bug the two lists above cannot see.
+    sys.path.insert(0, str(Path(__file__).parent))
+    import build_indexes
+    for folder in folders:
+        if folder not in build_indexes.PAGE_TYPES:
+            issues.append({
+                "type": "content_folder_not_generated",
+                "file": f"{folder}/index.md",
+                "detail": "folder is absent from build_indexes.PAGE_TYPES, so its "
+                          "index is never regenerated from disk",
+            })
+    return issues
+
+
 def check_page_identity(pages: dict[str, Path]) -> list[dict]:
     """`id:` present, equal to the filename, and unique across ids AND aliases.
 
@@ -623,10 +676,34 @@ def check_page_identity(pages: dict[str, Path]) -> list[dict]:
     return issues
 
 
+# The single list of checks. --type's choices are derived from it rather than
+# repeated: the hand-written copy had already fallen behind, missing
+# `competing`, so `--type competing` was rejected for a check that runs in
+# every full pass. Two lists of the same set is the defect this file now has
+# a check for; keeping one here is the same discipline applied to itself.
+CHECKS = {
+    "broken_links":  check_broken_links,
+    "dead_anchors":  check_dead_anchors,
+    "merge_markers": check_merge_markers,
+    "drafts":        check_draft_no_description,
+    "claims":        check_claims_missing_evidence,
+    "principles":    check_principles_missing_claims,
+    "competing":     check_unfilled_competing_claims,
+    "conflicts":     check_open_conflicts,
+    "trust":         check_stable_unverified,
+    "manifest":      check_manifest_integrity,
+    "type_banner":   check_type_banner,
+    "authorities":   check_authority_conflicts,
+    "source_keys":   check_source_entry_keys,
+    "identity":      check_page_identity,
+    "nav_coverage":  check_nav_coverage,
+}
+
+
 def main():
     parser = argparse.ArgumentParser(description="Lint the ld-wiki")
     parser.add_argument("--fix", action="store_true", help="Auto-promote clean draft pages to review")
-    parser.add_argument("--type", choices=["broken_links", "dead_anchors", "merge_markers", "drafts", "claims", "principles", "conflicts", "trust", "manifest", "type_banner", "authorities", "source_keys", "identity", "all"],
+    parser.add_argument("--type", choices=[*CHECKS, "all"],
                         default="all", help="Which checks to run")
     args = parser.parse_args()
 
@@ -635,22 +712,7 @@ def main():
     print(f"  {len([s for s in pages if '/' not in s])} pages indexed\n")
 
     all_issues = []
-    checks = {
-        "broken_links":  check_broken_links,
-        "dead_anchors":  check_dead_anchors,
-        "merge_markers": check_merge_markers,
-        "drafts":        check_draft_no_description,
-        "claims":        check_claims_missing_evidence,
-        "principles":    check_principles_missing_claims,
-        "competing":     check_unfilled_competing_claims,
-        "conflicts":     check_open_conflicts,
-        "trust":         check_stable_unverified,
-        "manifest":      check_manifest_integrity,
-        "type_banner":   check_type_banner,
-        "authorities":   check_authority_conflicts,
-        "source_keys":   check_source_entry_keys,
-        "identity":      check_page_identity,
-    }
+    checks = CHECKS
 
     selected = list(checks.keys()) if args.type == "all" else [args.type]
 

@@ -3,7 +3,7 @@ type: pattern
 id: faculty-course-design
 title: Faculty Course Design
 description: The design process as it actually runs in higher education — an instructor designing their own course, part-time, alongside teaching it, with a teaching centre consulting rather than approving, and revision happening between offerings rather than within a project.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-02

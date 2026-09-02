@@ -147,6 +147,25 @@ things (draft: nobody has reviewed this; deprecated: reviewed and superseded), a
 superseded page has to stay findable, since being findable by an old reference is the
 entire reason for keeping it. Deprecated entries are always listed, never elided.
 
+**`learner-variables/` was invisible for weeks, and nothing could have caught it.**
+`build_indexes.py`'s `PAGE_TYPES` never had an entry for the folder, and a folder absent
+from that table is simply not iterated — so its `index.md` kept whatever it was last
+written with (**"1 entries"**, beside twelve pages) and `ROOT_INDEX_TYPES` left the type
+off the front page entirely, while the mkdocs sidebar listed it. Every check passed the
+whole time, because every check reads *pages* and the defect was in which pages a
+generator visited. `lint.py`'s `check_nav_coverage` now compares the three lists —
+`mkdocs.yml`'s nav, the root hub's Knowledge Types, and `build_indexes.PAGE_TYPES` —
+against the content folders on disk. `--type`'s choices are also derived from the check
+registry now rather than repeated beside it; the hand-written copy had already fallen
+behind and was missing `competing`.
+
+**The nine new pages are `status: review`, not `draft`.** Draft means "skeleton or stub;
+content not reviewed" and these are complete pages, so `draft` was simply the wrong value —
+and it had a visible cost: `strategies/index.md` omits drafts, so all three new strategies
+were absent from their own index. Status describes whether the content is written. Whether
+anyone has checked it is the `verified` axis, and whether its citations resolve is recorded
+in the manifest and in the per-page comments — not in `status`.
+
 **Four `realizes:` fields are unset on purpose — do not write pages for them.**
 `lightweight-default`, `elicited-default`, `personas/edge-coverage` and
 `context/author-brief` are that repo's own baselines and named null cases. A wiki page for

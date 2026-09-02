@@ -3,7 +3,7 @@ type: strategy
 id: standards-crosswalk
 title: Standards Crosswalk
 description: Deriving a course's goal tree from an external framework — a standards set, competency model or certification blueprint — and carrying the framework's own codes through objectives, activities and assessment items so that coverage and provenance stay traceable in both directions.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-02

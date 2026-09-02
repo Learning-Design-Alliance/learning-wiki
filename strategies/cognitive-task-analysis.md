@@ -3,7 +3,7 @@ type: strategy
 id: cognitive-task-analysis
 title: Cognitive Task Analysis
 description: A family of interview and observation methods for eliciting the cues, judgements and decision rules an expert uses but cannot readily articulate — the tacit content that a procedural task analysis records as a single step.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-02
