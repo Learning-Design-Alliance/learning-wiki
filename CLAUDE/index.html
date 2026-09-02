@@ -1642,6 +1642,18 @@ routinely holds real uncommitted work, and keying on HEAD would call all of it i
   every dashboard scrape launched <em>with</em> a model completed discover, fetch and generate,
   paid for the generation, and then failed at ingest. Only a slug containing no <code>/</code>
   would have worked, and OpenRouter slugs all contain one.</li>
+<li><strong><code>Deploy Docs</code> is serialized with a <code>concurrency</code> group, because it raced itself four
+  times.</strong> Two merges close together each start a deploy, each builds from its own commit,
+  and both push to <code>gh-pages</code>; the loser is rejected with <em>"the remote contains work that
+  you do not have locally"</em>. The site then stays on whichever build won, so a merged change
+  is simply <strong>absent from the published site while <code>main</code> says it shipped</strong> — and the PR is
+  green, because the failure is in the deploy run, not the PR's checks. Runs 37, 39, 45 and
+  60 all died this way; #60 (the page-metadata panel) merged at 02:57:40, eighteen seconds
+  after #59, and its deploy lost. <code>cancel-in-progress: false</code>: the newest run is built from
+  the newest commit and supersedes the older one, so draining the queue in order publishes
+  the same final tree without throwing away a build most of the way through mkdocs.
+  <strong>If something merged and the site does not show it, check the <code>Deploy Docs</code> run before
+  suspecting the change.</strong></li>
 <li><strong>Third-party Actions are pinned to commit SHAs, with the tag in a trailing comment.</strong>
   A tag is mutable — whoever owns that repo can repoint <code>@v4</code> at anything — and <code>docs.yml</code>
   runs with <code>contents: write</code> on every push to <code>main</code>. When bumping one, resolve the new
