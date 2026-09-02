@@ -602,6 +602,17 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#state-as-of-2026-09-02-the-design-spec-realizes-targets-exist" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        State as of 2026-09-02 — the design-spec realizes: targets exist
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#known-open-work" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -633,6 +644,17 @@
     <span class="md-ellipsis">
       
         The reverse index
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-wiki-index" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The wiki index
       
     </span>
   </a>
@@ -1012,6 +1034,17 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#state-as-of-2026-09-02-the-design-spec-realizes-targets-exist" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        State as of 2026-09-02 — the design-spec realizes: targets exist
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#known-open-work" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1043,6 +1076,17 @@
     <span class="md-ellipsis">
       
         The reverse index
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-wiki-index" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The wiki index
       
     </span>
   </a>
@@ -1488,6 +1532,110 @@ the content folders and <code>scripts/</code>, ~13ms) against the one stamped wh
 written, and rescans (~6s) only when they differ. Pull, reload, correct numbers — no
 restart. The fingerprint is deliberately <strong>not</strong> a git revision: the droplet's working tree
 routinely holds real uncommitted work, and keying on HEAD would call all of it invisible.</p>
+<h3 id="state-as-of-2026-09-02-the-design-spec-realizes-targets-exist">State as of 2026-09-02 — the design-spec <code>realizes:</code> targets exist<a class="headerlink" href="#state-as-of-2026-09-02-the-design-spec-realizes-targets-exist" title="Permanent link">&para;</a></h3>
+<p>learning-design-spec's profiles and methods carry <code>realizes: &lt;wiki-slug&gt;</code>, with the kind
+fixed by what carries the field: a profile realizes a <strong>pattern</strong>, a method realizes a
+<strong>strategy</strong>. Eleven of them named nothing. These are the slugs they now resolve to:</p>
+<table>
+<thead>
+<tr>
+<th>spec object</th>
+<th>kind</th>
+<th>slug</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>dschool-design-thinking</code></td>
+<td>pattern</td>
+<td><code>design-thinking</code></td>
+</tr>
+<tr>
+<td><code>gagne-systematic</code></td>
+<td>pattern</td>
+<td><code>systematic-instructional-design</code></td>
+</tr>
+<tr>
+<td><code>sam-agile</code></td>
+<td>pattern</td>
+<td><code>successive-approximation-model</code></td>
+</tr>
+<tr>
+<td><code>continuous-improvement</code></td>
+<td>pattern</td>
+<td><code>continuous-improvement-of-learning-materials</code></td>
+</tr>
+<tr>
+<td><code>lxd-user-centred</code></td>
+<td>pattern</td>
+<td><code>learner-experience-design</code></td>
+</tr>
+<tr>
+<td><code>faculty-course-design</code></td>
+<td>pattern</td>
+<td><code>faculty-course-design</code></td>
+</tr>
+<tr>
+<td><code>goals/standards-crosswalk</code></td>
+<td>strategy</td>
+<td><code>standards-crosswalk</code></td>
+</tr>
+<tr>
+<td><code>goals/cognitive-task-analysis</code></td>
+<td>strategy</td>
+<td><code>cognitive-task-analysis</code></td>
+</tr>
+<tr>
+<td><code>personas/activity-system</code></td>
+<td>strategy</td>
+<td><code>activity-system-personas</code></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Design thinking was two objects under one name.</strong> <code>strategies/design-thinking.md</code>
+described learners running the cycle; a profile realizing it needs the <em>designer's</em>
+process. The pattern page is the design process at course grain; the strategy page is
+<code>status: deprecated</code>, kept for history, with its two inbound links repointed. A profile
+resolves <code>design-thinking</code> in the pattern namespace and gets the right one — ids are
+unique <em>per kind</em>, which is what makes the same slug in both folders safe.</p>
+<p><strong>Two duplicate pattern pairs are collapsed, canonical page keeping the substance:</strong>
+<code>patterns/4cid.md</code> (1.2 KB stub) folded into <code>4cid-four-component-instructional-design</code>
+(73 inbound links), and <code>gagnés-9-events.md</code> into the of-instruction page. Both stubs were
+pure subsets — the long pages already carried every claim link, element and source. The
+retired slugs are recorded as <code>aliases:</code>, so <code>realizes: 4cid</code> — which the spec and two
+pattern plans already write — still resolves.</p>
+<p><strong>Gagné's page is now ASCII: <code>patterns/gagnes-9-events-of-instruction.md</code>.</strong> A non-ASCII
+<code>id:</code> is an NFC/NFD normalisation trap for a repo that resolves it by string equality, and
+untypeable besides; <code>é</code> survives in the title, the H1 and the author field, where it
+belongs. Both former spellings are aliases. 62 inbound links were repointed by
+<code>update_links_for_renames.py --map</code>, which also stamped the aliases.</p>
+<p><strong><code>deprecated</code> is now its own index bucket.</strong> It used to fall through to <code>draft</code> in
+<code>build_indexes.py</code>, and <code>strategies/</code> omits drafts from its listing — so the wiki's first
+deprecated page was counted as a draft and then hidden. The two statuses mean opposite
+things (draft: nobody has reviewed this; deprecated: reviewed and superseded), and a
+superseded page has to stay findable, since being findable by an old reference is the
+entire reason for keeping it. Deprecated entries are always listed, never elided.</p>
+<p><strong>Four <code>realizes:</code> fields are unset on purpose — do not write pages for them.</strong>
+<code>lightweight-default</code>, <code>elicited-default</code>, <code>personas/edge-coverage</code> and
+<code>context/author-brief</code> are that repo's own baselines and named null cases. A wiki page for
+them would be inventing a literature.</p>
+<p><strong><code>competency-based</code> stays unset, and a page for it is warranted but not writable yet.</strong>
+<code>patterns/competency-based-learning</code> is a pedagogical pattern; the profile is programme
+governance — unbundling credit from seat time, assessment on demand, a competency
+framework as the transcript. That is a distinct object at <code>grain_size: programme</code>, not a
+rename of the existing page. It needs a source before anyone writes it; this sandbox has
+no network for one, and guessing at a literature is the failure mode this whole file is
+about.</p>
+<p><strong>The nine new pages cite only what could be established.</strong> This sandbox's egress proxy
+blocks <code>edtechbooks.org</code> and <code>colorado.edu</code>, so none of the commissioning brief's sources
+could be read. Their <code>## Key Sources</code> therefore carry exactly what the brief stated —
+surnames, chapter number, book, URL — plus primary works already in this corpus, copied
+verbatim. <strong>No initials, chapter titles, years, journals, volumes or pages were inferred</strong>,
+including where inference felt safe: a chapter title read off a URL slug is a guess wearing
+a citation's clothes. Each affected page carries an HTML comment saying which fields are
+absent and why. They are <code>status: draft</code> and belong in <code>citation_worklist.py</code>'s book
+backlog — a person with the chapters in hand can complete them in minutes, and nothing
+automated ever will.</p>
 <h3 id="known-open-work">Known open work<a class="headerlink" href="#known-open-work" title="Permanent link">&para;</a></h3>
 <ul>
 <li><strong><code>scripts/resolve_citation_metadata.py</code> settles the three citation backlogs against
@@ -1790,6 +1938,33 @@ what lets the design side weight evidence per citation rather than per claim.</p
 <p>It is committed on purpose. CI on the design-spec side has no wiki checkout, so an index
 that only exists after someone runs a script is an index that side cannot use.</p>
 <hr />
+<h2 id="the-wiki-index">The wiki index<a class="headerlink" href="#the-wiki-index" title="Permanent link">&para;</a></h2>
+<p><code>wiki-index.json</code> is the table the <a href="https://github.com/Learning-Design-Alliance/learning-design-spec">learning-design-spec</a>
+side resolves against: one record per content page — <code>id</code>, <code>type</code>, <code>title</code>,
+<code>description</code>, <code>path</code>, <code>status</code>, <code>aliases</code>, and <code>grain_size</code> where a page carries one —
+plus a precomputed <code>resolve</code> map per kind. <code>scripts/build_wiki_index.py</code> writes it and
+<code>build_indexes.py</code> regenerates it alongside the reverse index; <code>--check</code> fails when the
+committed copy is stale, and CI runs that check on every PR.</p>
+<p>It exists because that repo shape-checks <code>realizes:</code> and cannot resolve it. A profile
+carries <code>realizes: &lt;pattern-slug&gt;</code> and a method <code>realizes: &lt;strategy-slug&gt;</code>, with the kind
+fixed by what carries the field; the same repo also resolves <code>element:</code>, <code>research:&lt;claim-slug&gt;</code>
+and <code>spec/learners.md</code>'s learner-variable slugs. Its CI has no wiki checkout — that is a
+deliberate constraint on that side, not an oversight — so <strong>a typo'd slug passes CI, ships,
+and fails in front of a course author.</strong> A committed table is what closes that, the same
+arrangement and the same reason as <code>reverse-index.json</code>.</p>
+<p><strong>Aliases are the half a naive dump would omit and the half that matters.</strong> A rename is
+non-breaking only if the retired slug still resolves, and this file is where the spec side
+learns that <code>4cid</code> means <code>4cid-four-component-instructional-design</code>. Ship an index of
+current slugs only and every rename becomes a silent break one repo over — the exact
+failure <code>aliases:</code> exists to prevent, reintroduced at the boundary.</p>
+<p><strong>The <code>resolve</code> map is derivable and is emitted anyway.</strong> Ids and aliases share one
+namespace <em>per kind</em>, which is a rule a second implementation can get wrong; emitting the
+resolution once means every consumer resolves identically, and a collision is caught at
+build time by the side that can fix it. <code>build_wiki_index.py</code> refuses to write a table
+that resolves one slug two ways rather than letting a consumer pick whichever it saw last.</p>
+<p>Both halves come out of one pass, so they cannot drift from each other. Theories are
+included even though nothing in the spec addresses one: a consumer filters on <code>type</code> for
+free, and a kind left out is a kind nobody can point at until somebody notices.</p>
 <h2 id="evidence-markers-are-the-evidence-layer">Evidence markers are the evidence layer<a class="headerlink" href="#evidence-markers-are-the-evidence-layer" title="Permanent link">&para;</a></h2>
 <p>The <code>[±~][SMW]</code> marker beside a claim link is the one field the design-spec pipeline reads
 for evidence quality. It beats the frontmatter <code>evidence_strength:</code> in a way worth naming:
@@ -2094,6 +2269,7 @@ indexes with <code>python3 scripts/build_indexes.py</code>.</p>
   CLAUDE.md          ← this file (schema + operating guide)
   index.md           ← OKF bundle-root index; carries okf_version in frontmatter
   reverse-index.json ← generated: which pages point AT each page (see The reverse index below)
+  wiki-index.json    ← generated: id + kind + title per page, for the design-spec side (see The wiki index below)
   evidence-scales.json ← what q3 / i2 / n= mean, as data (read by agents and by the docs hook)
   log.md             ← reserved OKF filename: append-only, date-grouped change log
   principles/        ← design principles (what to do and why)
@@ -2118,6 +2294,7 @@ indexes with <code>python3 scripts/build_indexes.py</code>.</p>
     update_links_for_renames.py ← after pages are renamed, re-points every inbound cross-link (see below)
     page_identity.py   ← stable `id:`/`aliases:` for the kinds design docs point at (see below)
     build_reverse_index.py ← who points at this page, as shippable data (see below)
+    build_wiki_index.py ← the resolution table learning-design-spec reads (see below)
     check_evidence_markers.py ← claim citations carrying no [±~][SMW] marker (see below)
     lint.py            ← health-check (see Lint above)
     verify_citation_edits.py ← after a citation tool writes: did it edit only citations? (see above)
