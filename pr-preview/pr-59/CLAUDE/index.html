@@ -618,6 +618,17 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#page-identity-id-and-aliases" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Page identity — id: and aliases:
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#the-reverse-index" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -996,6 +1007,17 @@
         
       </ul>
     </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#page-identity-id-and-aliases" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Page identity — id: and aliases:
+      
+    </span>
+  </a>
   
 </li>
       
@@ -1600,6 +1622,66 @@ routinely holds real uncommitted work, and keying on HEAD would call all of it i
   indistinguishable from a dirty one.</li>
 </ul>
 <hr />
+<h2 id="page-identity-id-and-aliases">Page identity — <code>id:</code> and <code>aliases:</code><a class="headerlink" href="#page-identity-id-and-aliases" title="Permanent link">&para;</a></h2>
+<p>The <a href="https://github.com/Learning-Design-Alliance/learning-design-spec">learning-design-spec</a>
+pipeline resolves design documents against this wiki: a pattern plan names
+<code>element: &lt;slug&gt;</code>, a principle names <code>Realizes: &lt;principle-slug&gt;</code>, a design section cites
+<code>research:&lt;claim-slug&gt;</code>, and <code>spec/learners.md</code> requires every learner dimension to be a
+<code>learner-variables/</code> slug. Its contract (that repo's <code>findings/0008</code>) opens with <strong>every
+page's id is stable and unique within its kind</strong> — because a rename breaks a course that
+has already shipped, silently, outside this repo.</p>
+<p>So the six kinds a design document can point at carry <code>id:</code> equal to their filename:
+<strong>elements, principles, patterns, claims, learner-variables, strategies</strong>. Theories stay
+out — nothing in the spec addresses one. A page type gains an id when something <em>outside</em>
+the wiki depends on pointing at it.</p>
+<p><strong>Strategies were nearly left out, and that would have been wrong.</strong> <code>findings/0008</code>'s
+contract names only claim, pattern, element and principle slugs, and the reverse index
+reaches strategies without anyone naming them — so the first cut excluded all 2,557.
+<code>spec/patterns.md</code> then makes a phase name one outright:</p>
+<div class="highlight"><pre><span></span><code><span class="nt">phases</span><span class="p">:</span>
+<span class="w">  </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="nt">phase</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">Read the case</span>
+<span class="w">    </span><span class="nt">element</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">case-based-learning</span>
+<span class="w">    </span><span class="nt">strategy</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">chunked-reading-with-embedded-questions</span><span class="w">   </span><span class="c1"># a learning-wiki strategy slug</span>
+</code></pre></div>
+<p>whose <code>### Instructions</code> become that phase's authored brief. So a strategy rename breaks a
+shipped course exactly the way an element rename does.</p>
+<ul>
+<li><code>python3 scripts/page_identity.py --check</code> — report; <code>--apply</code> — stamp missing ids</li>
+<li><code>python3 scripts/lint.py --type identity</code> — id present, equal to the slug, and unique
+  across ids <strong>and</strong> aliases within a kind</li>
+</ul>
+<p><strong>The claims <code>id:</code> was repurposed, deliberately.</strong> CLAUDE.md used to document it as a short
+programmatic code (<code>we-4</code>, <code>fi-2</code>). Measured before the change: present on all 422 pages and
+useless as identity — 56 blank, only 183 of the 366 non-empty equal to the slug, and six
+values shared by two pages each. <code>enrich.py</code> stamped an empty <code>id:</code> into every new claim,
+which is where the blanks came from. The short code was referenced nowhere in the wiki's
+12,893 citations while the design spec addresses claims by slug throughout, so it was
+vestigial.</p>
+<p><strong><code>aliases:</code> is what makes a rename non-breaking, and it is never stamped empty.</strong> It
+appears when a page is actually renamed: <code>update_links_for_renames.py</code> sets <code>id:</code> to the new
+slug and records the old one in <code>aliases:</code>, so a course document written against the old
+name still resolves. Empty fields on a thousand pages train a reader to skip the block.</p>
+<p>Ids and aliases share one namespace per kind. A document saying <code>element: foo</code> cannot tell
+whether <code>foo</code> is a current slug or a retired one, so two pages answering to it is ambiguous
+however that came about — which is the case lint catches that filename-uniqueness never
+could, filenames being unique by construction.</p>
+<p>Both YAML spellings are read (<code>aliases: [a, b]</code> and the block form), because both are
+written here — <code>page_identity.py</code> edits raw frontmatter text inline, while
+<code>ingest_extractions.py</code> builds pages through <code>okf_lib.dump_frontmatter</code>, which emits a
+block. A reader understanding only one would see no aliases on half the pages that have
+them: the rename would look recorded and still not resolve.</p>
+<p><strong>The spec reads exactly two things from wiki frontmatter: <code>id</code> and <code>type:</code>.</strong> Everything
+else it resolves is a <em>body section</em> — <code>### Instructions</code> for a phase's brief,
+<code>### Target Learners</code> and <code>### Target Learning Goals</code> for matching personas and goals,
+<code>#### Requirements</code>/<code>#### Constraints</code> as the applicability filter, <code>## Claims</code> with their
+inline markers, <code>## Examples</code> on a learner-variable. Those are at 100% and ~99.8% already,
+and <code>findings/0008</code> is explicit that they must stay prose: structuring them into YAML would
+lose the qualifications that make them useful. So there is no further frontmatter work for
+the pattern-building process — a <code>pattern</code> doc's <code>pedagogy:</code> block and a <code>pack</code>'s
+<code>elements:</code> live in those documents, not here.</p>
+<p><strong>Note:</strong> <code>verify_citation_edits.py</code> will trip on an id/alias pass — those are frontmatter
+edits, not citation edits, and it is a guard for citation tool runs only.</p>
+<hr />
 <h2 id="the-reverse-index">The reverse index<a class="headerlink" href="#the-reverse-index" title="Permanent link">&para;</a></h2>
 <p><code>reverse-index.json</code> answers "which pages point at this one". It is generated by
 <code>scripts/build_reverse_index.py</code> and regenerated by <code>build_indexes.py</code>, so anything that
@@ -1812,7 +1894,17 @@ does not read it.</p>
 <td>List of <code>{ by: &lt;actor&gt;, at: &lt;date&gt; }</code> confirmation events — see Trust tiers below. Absent on every page until someone explicitly reviews it; never set this yourself just because a page looks complete</td>
 </tr>
 <tr>
-<td><code>id</code>, <code>evidence_strength</code>, <code>author</code>, <code>grain_size</code></td>
+<td><code>id</code></td>
+<td>On identified kinds</td>
+<td>Equal to the filename slug, on elements/principles/patterns/claims/learner-variables — the stable name design documents resolve by (see Page identity below)</td>
+</tr>
+<tr>
+<td><code>aliases</code></td>
+<td>After a rename</td>
+<td>Every former slug of this page, retained forever, so a document naming the old one still resolves</td>
+</tr>
+<tr>
+<td><code>evidence_strength</code>, <code>author</code>, <code>grain_size</code></td>
 <td>Type-specific</td>
 <td>Extra scalar fields kept as-is per page type (see templates below); OKF tolerates extra frontmatter keys</td>
 </tr>
@@ -1914,7 +2006,7 @@ indexes with <code>python3 scripts/build_indexes.py</code>.</p>
 <li>OKF also permits absolute bundle-relative paths (<code>/folder/slug.md</code>) — this wiki uses the relative form instead because it works with plain <code>mkdocs</code> (the docs site's builder) with no extra plugin, whereas an absolute path renders as a literal domain-root URL once the site is hosted under a subpath</li>
 <li>Slugs are lowercase, hyphen-separated: <code>worked-examples</code>, <code>cognitive-load-theory</code></li>
 <li>Always include the folder in a cross-folder link so the target is unambiguous: <code>[Worked examples reduce novice search](../claims/worked-examples-reduce-novice-search.md)</code></li>
-<li>Claims use semantic slugs: <code>../claims/worked-examples-reduce-novice-load.md</code>; the short <code>id:</code> in frontmatter is for programmatic reference only</li>
+<li>Claims use semantic slugs: <code>../claims/worked-examples-reduce-novice-load.md</code>, and <code>id:</code> in frontmatter equals that slug (see Page identity)</li>
 <li>A link to a page that doesn't exist yet is tolerated (OKF requires consumers to tolerate broken links) — write the link anyway rather than leaving a bare TODO if you know the target slug, but don't invent slugs you haven't verified exist or are about to create</li>
 </ul>
 <hr />
@@ -1943,6 +2035,9 @@ indexes with <code>python3 scripts/build_indexes.py</code>.</p>
     log_source_review.py ← appends one entry to sources/manifest.ndjson (see Source Manifest below)
     add_type_banner.py ← inserts/refreshes the page-type banner under each page's H1 (see below)
     update_links_for_renames.py ← after pages are renamed, re-points every inbound cross-link (see below)
+    page_identity.py   ← stable `id:`/`aliases:` for the kinds design docs point at (see below)
+    build_reverse_index.py ← who points at this page, as shippable data (see below)
+    check_evidence_markers.py ← claim citations carrying no [±~][SMW] marker (see below)
     lint.py            ← health-check (see Lint above)
     verify_citation_edits.py ← after a citation tool writes: did it edit only citations? (see above)
 </code></pre></div>
@@ -2022,6 +2117,7 @@ as you work.</p>
 <h3 id="principle">Principle<a class="headerlink" href="#principle" title="Permanent link">&para;</a></h3>
 <div class="highlight"><pre><span></span><code>---
 type: principle
+id: [principle-slug]      # equal to the filename
 title: [Principle Name]
 description: [One-sentence summary of the recommendation]
 status: draft
@@ -2075,6 +2171,7 @@ generated:
 <h3 id="element">Element<a class="headerlink" href="#element" title="Permanent link">&para;</a></h3>
 <div class="highlight"><pre><span></span><code>---
 type: element
+id: [element-slug]      # equal to the filename
 title: [Element Name]
 description: [One-sentence summary of what this element is]
 status: draft
@@ -2124,6 +2221,7 @@ generated:
 <h3 id="pattern">Pattern<a class="headerlink" href="#pattern" title="Permanent link">&para;</a></h3>
 <div class="highlight"><pre><span></span><code>---
 type: pattern
+id: [pattern-slug]      # equal to the filename
 title: [Pattern Name]
 description: [One-sentence summary of what this pattern is]
 status: draft
@@ -2200,6 +2298,7 @@ author:
 <h3 id="strategy">Strategy<a class="headerlink" href="#strategy" title="Permanent link">&para;</a></h3>
 <div class="highlight"><pre><span></span><code>---
 type: strategy
+id: [strategy-slug]      # equal to the filename
 title: [Strategy Name]
 description: [One-sentence summary of what this strategy is]
 status: draft
@@ -2302,6 +2401,7 @@ single-pass extraction prompt — see the Ingest section above for why, and fact
 hand for now when a claim clearly reports a learner-characteristic finding.</p>
 <div class="highlight"><pre><span></span><code>---
 type: learner-variable
+id: [variable-slug]   # equal to the filename
 title: [Variable Name]
 description: [One-sentence definition of this learner characteristic]
 status: draft
@@ -2348,7 +2448,7 @@ generated:
 <div class="highlight"><pre><span></span><code>---
 type: claim
 title: [Claim statement — one sentence, present tense]
-id: CL-XXXX          # short programmatic ID (e.g. we-4, fi-2)
+id: [claim-slug]     # equal to the filename — what a design doc cites
 status: draft
 generated:
   by: &lt;actor&gt;
