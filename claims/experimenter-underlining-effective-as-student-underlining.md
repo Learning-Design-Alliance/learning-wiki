@@ -10,7 +10,9 @@ evidence_strength: moderate
 sources:
   - id: nist-1985
     resource: "https://eric.ed.gov/?id=ED265520"
-    title: "Nist, S. L., & Hogrebe, M. C. (1985). The Effects of High and Low Relevant Text Underlining on Test Performance. https://eric.ed.gov/?id=ED265520"
+    title: "Nist, S. L., & Hogrebe, M. C. (1985). The Effects of High and Low Relevant Text Underlining on Test Performance. [ERIC ED265520](https://eric.ed.gov/?id=ED265520)"
+    author: "Nist, S. L., & Hogrebe, M. C"
+    q: 3
     author: "Nist, S. L., & Hogrebe, M. C"
 ---
 

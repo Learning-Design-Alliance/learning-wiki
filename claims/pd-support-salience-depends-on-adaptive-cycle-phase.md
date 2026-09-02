@@ -10,7 +10,9 @@ evidence_strength: weak
 sources:
   - id: ehrenfeld-stengel-2025
     resource: "https://doi.org/10.1080/10508406.2025.2468205"
-    title: "Ehrenfeld, N., & Stengel, B. (2025). The temporal dimension of teacher learning in a video-based professional development program: An ecological perspective. Journal of the Learning Sciences, 34(3), 285-328."
+    title: "Ehrenfeld, N., & Stengel, B. (2025). The temporal dimension of teacher learning in a video-based professional development program: An ecological perspective. *Journal of the Learning Sciences, 34*(3), 285-328. [https://doi.org/10.1080/10508406.2025.2468205](https://doi.org/10.1080/10508406.2025.2468205)"
+    author: "Ehrenfeld, N., & Stengel, B"
+    q: 2
     author: "Ehrenfeld, N., & Stengel, B."
 ---
 

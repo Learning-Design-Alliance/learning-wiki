@@ -7,6 +7,26 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+sources:
+  - id: flynn-1999
+    resource: "https://doi.org/10.1037/0003-066X.54.1.5"
+    title: "Flynn, J. R. (1999). Searching for justice: The discovery of IQ gains. *American Psychologist, 54*(1), 5-20. [doi:10.1037/0003-066X.54.1.5](https://doi.org/10.1037/0003-066X.54.1.5)"
+    author: Flynn, J. R
+    q: 3
+    i: 2
+    n: very large (aggregated national standardization samples)
+  - id: neisser-1998
+    title: "Neisser, U. (Ed.). (1998). *The rising curve: Long-term gains in IQ and related measures*. American Psychological Association."
+    author: Neisser, U. (Ed.)
+    q: 2
+    i: 1
+    n: large (aggregated across contributing studies)
+  - id: neisser-1997
+    title: "Neisser, U. (1997). Rising scores on intelligence tests. *American Scientist, 85*(5), 440-447."
+    author: Neisser, U
+    q: 2
+    i: 1
+    n: not applicable (synthesis piece)
 ---
 
 # Average scores on intelligence tests have risen substantially across generations worldwide

@@ -10,7 +10,9 @@ evidence_strength: moderate
 sources:
   - id: muukkonen-kajamaa-2024
     resource: "https://doi.org/10.1080/10508406.2024.2344794"
-    title: "Muukkonen, H., & Kajamaa, A. (2024). Knowledge objects and knowledge practices in interdisciplinary learning: Example of an organization simulation in higher education. Journal of the Learning Sciences, 33(2), 365-404."
+    title: "Muukkonen, H., & Kajamaa, A. (2024). Knowledge objects and knowledge practices in interdisciplinary learning: Example of an organization simulation in higher education. *Journal of the Learning Sciences, 33*(2), 365-404. [https://doi.org/10.1080/10508406.2024.2344794](https://doi.org/10.1080/10508406.2024.2344794)"
+    author: "Muukkonen, H., & Kajamaa, A"
+    q: 2
     author: "Muukkonen, H., & Kajamaa, A."
 ---
 

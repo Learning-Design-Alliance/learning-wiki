@@ -10,14 +10,17 @@ sources:
     resource: "https://doi.org/10.1037/0003-066X.55.1.68"
     title: "Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78. [https://doi.org/10.1037/0003-066X.55.1.68](https://doi.org/10.1037/0003-066X.55.1.68)"
     author: "Ryan, R. M., & Deci, E. L"
+    q: 4
   - id: deci-koestner-ryan-1999
-    resource: "https://doi.org/10.1037/0033-2909.125.5.627"
-    title: "Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 125*(5), 627–668. [https://doi.org/10.1037/0033-2909.125.5.627](https://doi.org/10.1037/0033-2909.125.5.627)"
+    resource: "https://doi.org/10.1037/0033-2909.125.6.627"
+    title: "Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 125*(6), 627–668. [https://doi.org/10.1037/0033-2909.125.6.627](https://doi.org/10.1037/0033-2909.125.6.627)"
     author: "Deci, E. L., Koestner, R., & Ryan, R. M"
+    q: 4
   - id: stefanou-et-al-2004
     resource: "https://doi.org/10.1207/s15326985ep3902_2"
     title: "Stefanou, C. R., Perencevich, K. C., DiCintio, M., & Turner, J. C. (2004). Supporting autonomy in the classroom: Ways teachers encourage student decision making and ownership. *Educational Psychologist, 39*(2), 97–110. [https://doi.org/10.1207/s15326985ep3902_2](https://doi.org/10.1207/s15326985ep3902_2)"
     author: "Stefanou, C. R., Perencevich, K. C., DiCintio, M., & Turner, J. C"
+    q: 3
 id: autonomy-supports-intrinsic-motivation
 evidence_strength: strong
 ---

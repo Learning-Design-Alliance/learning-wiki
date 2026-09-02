@@ -10,7 +10,9 @@ evidence_strength: weak
 sources:
   - id: higgs-kaimana-isero-2026
     resource: "https://doi.org/10.1080/10508406.2026.2686084"
-    title: "Higgs, J. M., Kaimana, M., & Isero, M. (2026). Leveraging Onto-Epistemic Heterogeneity for \"Outward\" Exploration: Cultivating Critical AI Awareness in the ELA Classroom. Journal of the Learning Sciences."
+    title: "Higgs, J. M., Kaimana, M., & Isero, M. (2026). Leveraging Onto-Epistemic Heterogeneity for \"Outward\" Exploration: Cultivating Critical AI Awareness in the ELA Classroom. *Journal of the Learning Sciences*. [https://doi.org/10.1080/10508406.2026.2686084](https://doi.org/10.1080/10508406.2026.2686084)"
+    author: "Higgs, J. M., Kaimana, M., & Isero, M"
+    q: 2
     author: "Higgs, J. M., Kaimana, M., & Isero, M."
 ---
 

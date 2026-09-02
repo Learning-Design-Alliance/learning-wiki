@@ -10,7 +10,9 @@ evidence_strength: strong
 sources:
   - id: yannier-et-al-2022
     resource: "https://doi.org/10.1080/10508406.2022.2032071"
-    title: "Yannier, N., Crowley, K., Do, Y., Hudson, S. E., & Koedinger, K. R. (2022). Intelligent science exhibits: Transforming hands-on exhibits into mixed-reality learning experiences. Journal of the Learning Sciences, 31(3), 335-368."
+    title: "Yannier, N., Crowley, K., Do, Y., Hudson, S. E., & Koedinger, K. R. (2022). Intelligent science exhibits: Transforming hands-on exhibits into mixed-reality learning experiences. *Journal of the Learning Sciences, 31*(3), 335-368. [https://doi.org/10.1080/10508406.2022.2032071](https://doi.org/10.1080/10508406.2022.2032071)"
+    author: "Yannier, N., Crowley, K., Do, Y., Hudson, S. E., & Koedinger, K. R"
+    q: 3
     author: "Yannier, N., Crowley, K., Do, Y., Hudson, S. E., & Koedinger, K. R."
 ---
 

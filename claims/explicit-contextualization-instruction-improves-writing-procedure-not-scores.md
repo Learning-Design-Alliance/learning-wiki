@@ -10,7 +10,9 @@ evidence_strength: moderate
 sources:
   - id: sendur-et-al-2021
     resource: "https://doi.org/10.1080/10508406.2021.1939029"
-    title: "Sendur, K. A., van Drie, J., & van Boxtel, C. (2021). Historical contextualization in students' writing. Journal of the Learning Sciences, 30(4-5), 797-836."
+    title: "Sendur, K. A., van Drie, J., & van Boxtel, C. (2021). Historical contextualization in students' writing. *Journal of the Learning Sciences, 30*(4-5), 797-836. [https://doi.org/10.1080/10508406.2021.1939029](https://doi.org/10.1080/10508406.2021.1939029)"
+    author: "Sendur, K. A., van Drie, J., & van Boxtel, C"
+    q: 3
     author: "Sendur, K. A., van Drie, J., & van Boxtel, C."
 ---
 

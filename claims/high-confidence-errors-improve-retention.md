@@ -10,10 +10,12 @@ sources:
     resource: "https://doi.org/10.1146/annurev-psych-010416-044022"
     title: "Metcalfe, J. (2017). Learning from errors. *Annual Review of Psychology, 68*, 465–489. [https://doi.org/10.1146/annurev-psych-010416-044022](https://doi.org/10.1146/annurev-psych-010416-044022)"
     author: Metcalfe, J
+    q: 4
   - id: fazio-marsh-2009
     resource: "https://doi.org/10.3758/PBR.16.1.88"
     title: "Fazio, L. K., & Marsh, E. J. (2009). Surprising feedback improves later memory. *Psychonomic Bulletin & Review, 16*(1), 88–92. [https://doi.org/10.3758/PBR.16.1.88](https://doi.org/10.3758/PBR.16.1.88)"
     author: "Fazio, L. K., & Marsh, E. J"
+    q: 3
 id: high-confidence-errors-improve-retention
 evidence_strength: strong
 ---

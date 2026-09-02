@@ -497,7 +497,7 @@ Every content page (principle, element, pattern, strategy, theory, learner-varia
 | `description` | Recommended | One-sentence summary, used in index listings |
 | `status` | Recommended | See Status values above |
 | `generated` | Recommended | `{ by: <actor>, at: <date> }` — who/what last wrote the page and when, replacing the old `last_edited`/`edited_by` pair |
-| `sources` | When applicable | List of `{ id, resource, title, author }` entries parsed from `## Key Sources` (or `## Evidence` for claims) — a structured mirror of the citations already in the body, not a replacement for them |
+| `sources` | When applicable | List of `{ id, resource, title, author, q, i, n }` entries parsed from `## Key Sources` (or `## Evidence` for claims) — a structured mirror of the citations already in the body, not a replacement for them |
 | `verified` | Optional | List of `{ by: <actor>, at: <date> }` confirmation events — see Trust tiers below. Absent on every page until someone explicitly reviews it; never set this yourself just because a page looks complete |
 | `id` | On identified kinds | Equal to the filename slug, on elements/principles/patterns/claims/learner-variables — the stable name design documents resolve by (see Page identity below) |
 | `aliases` | After a rename | Every former slug of this page, retained forever, so a document naming the old one still resolves |
@@ -642,6 +642,7 @@ ld-wiki/
   CLAUDE.md          ← this file (schema + operating guide)
   index.md           ← OKF bundle-root index; carries okf_version in frontmatter
   reverse-index.json ← generated: which pages point AT each page (see The reverse index below)
+  evidence-scales.json ← what q3 / i2 / n= mean, as data (read by agents and by the docs hook)
   log.md             ← reserved OKF filename: append-only, date-grouped change log
   principles/        ← design principles (what to do and why)
   elements/          ← instructional components (building blocks)
@@ -1182,6 +1183,39 @@ Author, A., & Author, B. (Year). Title. *Journal, vol*(issue), pages. [doi:...](
 | 3 | Peer-reviewed experiment (not pre-registered) or systematic review |
 | 2 | Quasi-experiment, observational with controls, or narrative review |
 | 1 | Case study, expert opinion, or theoretical argument |
+
+**The codes live in three places, from one source.** `evidence-scales.json` at the bundle
+root is the definition — as data, said once. `docs_hooks/page_metadata.py` loads it to
+render the human-facing panel, and each claim's frontmatter `sources[]` entries carry the
+per-study `q`/`i`/`n` mirrored out of the body by `scripts/sync_evidence_codes.py`. So an
+agent reads a tier and its meaning without parsing prose, and the reader's tables cannot
+drift from the agent's, because there is only one copy.
+
+```yaml
+sources:
+  - id: haak-et-al-2011
+    resource: "https://doi.org/10.1126/science.1204820"
+    title: "Haak, D. C., … (2011). Increased structure and active learning…"
+    q: 3
+    i: 2
+    n: large (multiple course sections at a research university)
+```
+
+Subclaim prefixes are deliberately not mirrored: a subclaim's `q3 i2` is a *reading* of the
+evidence entry it links to, and that entry already carries the codes — a second copy would
+be a second place for them to disagree with no way to tell which was right. `q?` is
+preserved rather than dropped, because "somebody looked and could not establish it" is a
+different statement from an absent field.
+
+These two tables are also rendered *on every claim page*, as a collapsed "Reading the
+evidence codes" panel inserted directly under `## Subclaims` — see
+`docs_hooks/page_metadata.py`. An evidence entry spells its codes out beside them
+(`q3 · quasi-experimental study · i2 · large effect · n=large`), but a subclaim prefix is
+bare `q3 i2`, and across the claims corpus there are 465 quality codes and 443 impact codes
+with nothing next to them saying what the numbers mean. The tables were always here and
+this file is in the nav as *Schema & Guide*, so it was a proximity problem, not a missing
+docs one. Not tooltips: the codes sit inside code spans, and neither `abbr` nor Material's
+tooltips reach inside a `<code>` element.
 
 **Impact magnitude (i):**
 | i | Rough effect size |

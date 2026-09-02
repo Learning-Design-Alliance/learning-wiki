@@ -10,7 +10,9 @@ evidence_strength: weak
 sources:
   - id: odden-zwicki-2025
     resource: "https://doi.org/10.1080/10508406.2025.2494791"
-    title: "Odden, T. O. B., & Zwicki, B. (2025). How physics students build computational literacy by creating computational literature. Journal of the Learning Sciences, 34(5), 700-742."
+    title: "Odden, T. O. B., & Zwicki, B. (2025). How physics students build computational literacy by creating computational literature. *Journal of the Learning Sciences, 34*(5), 700-742. [https://doi.org/10.1080/10508406.2025.2494791](https://doi.org/10.1080/10508406.2025.2494791)"
+    author: "Odden, T. O. B., & Zwicki, B"
+    q: 1
     author: "Odden, T. O. B., & Zwicki, B."
 ---
 

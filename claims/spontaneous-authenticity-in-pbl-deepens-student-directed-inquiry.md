@@ -10,7 +10,9 @@ evidence_strength: weak
 sources:
   - id: miller-li-2026
     resource: "https://doi.org/10.1080/10508406.2025.2557896"
-    title: "Miller, E. A., & Li, T. (2026). Manufacturing authenticity as part of written PBL curriculum: Contrived versus spontaneous events. Journal of the Learning Sciences, 35(2), 319-366."
+    title: "Miller, E. A., & Li, T. (2026). Manufacturing authenticity as part of written PBL curriculum: Contrived versus spontaneous events. *Journal of the Learning Sciences, 35*(2), 319-366. [https://doi.org/10.1080/10508406.2025.2557896](https://doi.org/10.1080/10508406.2025.2557896)"
+    author: "Miller, E. A., & Li, T"
+    q: 2
     author: "Miller, E. A., & Li, T."
 ---
 

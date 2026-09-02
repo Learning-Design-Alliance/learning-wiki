@@ -10,14 +10,17 @@ sources:
     resource: "https://doi.org/10.1037/h0043158"
     title: "Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review, 63*(2), 81–97. [https://doi.org/10.1037/h0043158](https://doi.org/10.1037/h0043158)"
     author: Miller, G. A
+    q: 4
   - id: cowan-2001
     resource: "https://doi.org/10.1017/S0140525X01003922"
-    title: "Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences, 24*(1), 87–114"
-    author: "Cowan, N"
+    title: "Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences, 24*(1), 87–114. [https://doi.org/10.1017/S0140525X01003922](https://doi.org/10.1017/S0140525X01003922)"
+    author: Cowan, N
+    q: 4
   - id: thalmann-et-al-2019
     resource: "https://doi.org/10.1037/xlm0000578"
     title: "Thalmann, M., Souza, A. S., & Oberauer, K. (2019). How does chunking help working memory? *Journal of Experimental Psychology: Learning, Memory, and Cognition, 45*(1), 37–55. [https://doi.org/10.1037/xlm0000578](https://doi.org/10.1037/xlm0000578)"
     author: "Thalmann, M., Souza, A. S., & Oberauer, K"
+    q: 3
 id: chunking-reduces-working-memory-load
 evidence_strength: strong
 ---

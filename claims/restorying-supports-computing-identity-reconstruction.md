@@ -10,7 +10,9 @@ evidence_strength: weak
 sources:
   - id: shaw-et-al-2023
     resource: "https://doi.org/10.1080/10508406.2023.2179847"
-    title: "Shaw, M. S., Coleman, J. J., Thomas, E. E., & Kafai, Y. B. (2023). Restorying a Black girl's future: Using womanist storytelling methodologies to reimagine dominant narratives in computing education. Journal of the Learning Sciences, 32(1), 52-75."
+    title: "Shaw, M. S., Coleman, J. J., Thomas, E. E., & Kafai, Y. B. (2023). Restorying a Black girl's future: Using womanist storytelling methodologies to reimagine dominant narratives in computing education. *Journal of the Learning Sciences, 32*(1), 52-75. [https://doi.org/10.1080/10508406.2023.2179847](https://doi.org/10.1080/10508406.2023.2179847)"
+    author: "Shaw, M. S., Coleman, J. J., Thomas, E. E., & Kafai, Y. B"
+    q: 1
     author: "Shaw, M. S., Coleman, J. J., Thomas, E. E., & Kafai, Y. B."
 ---
 

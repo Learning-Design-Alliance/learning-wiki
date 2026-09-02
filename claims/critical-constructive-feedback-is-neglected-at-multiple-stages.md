@@ -8,9 +8,11 @@ generated:
   at: 2026-08-29
 evidence_strength: moderate
 sources:
-  - id: tarning-et-al-2020
+  - id: tärning-et-al-2020
     resource: "https://doi.org/10.1080/10508406.2020.1770092"
-    title: "Tärning, B., Lee, Y. J., Andersson, R., Månsson, K., Gulz, A., & Haake, M. (2020). Assessing the black box of feedback neglect in a digital educational game for elementary school. Journal of the Learning Sciences, 29(4-5), 511-549."
+    title: "Tärning, B., Lee, Y. J., Andersson, R., Månsson, K., Gulz, A., & Haake, M. (2020). Assessing the black box of feedback neglect in a digital educational game for elementary school. *Journal of the Learning Sciences, 29*(4-5), 511-549. [https://doi.org/10.1080/10508406.2020.1770092](https://doi.org/10.1080/10508406.2020.1770092)"
+    author: "Tärning, B., Lee, Y. J., Andersson, R., Månsson, K., Gulz, A., & Haake, M"
+    q: 3
     author: "Tärning, B., Lee, Y. J., Andersson, R., Månsson, K., Gulz, A., & Haake, M."
 ---
 

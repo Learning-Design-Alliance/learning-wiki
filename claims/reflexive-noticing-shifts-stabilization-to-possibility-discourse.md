@@ -10,7 +10,9 @@ evidence_strength: moderate
 sources:
   - id: rainio-hofmann-2021
     resource: "https://doi.org/10.1080/10508406.2021.1936532"
-    title: "Rainio, A. P., & Hofmann, R. (2021). Teacher professional dialogues during a school intervention: From stabilization to possibility discourse through reflexive noticing. Journal of the Learning Sciences, 30(4-5), 707-746."
+    title: "Rainio, A. P., & Hofmann, R. (2021). Teacher professional dialogues during a school intervention: From stabilization to possibility discourse through reflexive noticing. *Journal of the Learning Sciences, 30*(4-5), 707-746. [https://doi.org/10.1080/10508406.2021.1936532](https://doi.org/10.1080/10508406.2021.1936532)"
+    author: "Rainio, A. P., & Hofmann, R"
+    q: 3
     author: "Rainio, A. P., & Hofmann, R."
 ---
 

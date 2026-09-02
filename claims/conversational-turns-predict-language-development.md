@@ -8,13 +8,13 @@ generated:
   at: 2026-08-29
 evidence_strength: moderate
 sources:
-  - id: gabrieli-mit-mcgovern
-    resource: "https://mcgovern.mit.edu"
-    title: "Gabrieli, J. D. E. MIT McGovern Institute research on conversational turns and Broca's area development."
-    author: "Gabrieli, J. D. E."
-  - id: hart-risley-1995
-    resource: ""
-    title: "Hart, B., & Risley, T. R. (1995). Meaningful differences in the everyday experience of young American children. Paul H. Brookes."
+  - id: gabrieli-mit-mcgovern-institute
+    title: Gabrieli, MIT McGovern Institute
+    q: 2
+  - id: hart-and-risley-1995
+    title: "Hart, B., & Risley, T. R. (1995). *Meaningful differences in the everyday experience of young American children*. Paul H. Brookes."
+    author: "Hart, B., & Risley, T. R"
+    q: 2
     author: "Hart, B., & Risley, T. R."
 ---
 

@@ -10,7 +10,9 @@ evidence_strength: weak
 sources:
   - id: kahn-hall-2026
     resource: "https://doi.org/10.1080/10508406.2026.2624531"
-    title: "Kahn, J., & Hall, R. (2026). An oldtimer and newcomers telling stories about models using open large datasets. Journal of the Learning Sciences."
+    title: "Kahn, J., & Hall, R. (2026). An oldtimer and newcomers telling stories about models using open large datasets. *Journal of the Learning Sciences*. [https://doi.org/10.1080/10508406.2026.2624531](https://doi.org/10.1080/10508406.2026.2624531)"
+    author: "Kahn, J., & Hall, R"
+    q: 2
     author: "Kahn, J., & Hall, R."
 ---
 

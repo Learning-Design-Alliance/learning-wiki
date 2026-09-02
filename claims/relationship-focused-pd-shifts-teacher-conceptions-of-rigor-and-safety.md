@@ -10,7 +10,9 @@ evidence_strength: moderate
 sources:
   - id: chowning-2023
     resource: "https://doi.org/10.1080/07370008.2023.2180006"
-    title: "Chowning, J. T. (2023). \"We All Sort of Jump to That Relationship Piece\": Science Teachers' Collaborative Professional Learning about the Role of Relationships in Argumentation. Cognition and Instruction, 41(4), 436-471."
+    title: "Chowning, J. T. (2023). \"We All Sort of Jump to That Relationship Piece\": Science Teachers' Collaborative Professional Learning about the Role of Relationships in Argumentation. *Cognition and Instruction, 41*(4), 436-471. [https://doi.org/10.1080/07370008.2023.2180006](https://doi.org/10.1080/07370008.2023.2180006)"
+    author: Chowning, J. T
+    q: 2
     author: "Chowning, J. T."
 ---
 

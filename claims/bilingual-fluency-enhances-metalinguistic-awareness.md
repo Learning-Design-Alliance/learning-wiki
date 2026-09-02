@@ -7,6 +7,21 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+sources:
+  - id: jimenez-et-al-1995
+    resource: "https://journals.sagepub.com/home/aer"
+    title: "Jimenez, R. T., García, G. E., & Pearson, P. D. (1995). Three children, two languages, and strategic reading: Case studies in bilingual/monolingual reading. *American Educational Research Journal, 32*(1), 67-97. [https://journals.sagepub.com/home/aer](https://journals.sagepub.com/home/aer)"
+    author: "Jimenez, R. T., García, G. E., & Pearson, P. D"
+    q: 2
+    i: 2
+    n: small (case-study design)
+  - id: francis-2006
+    resource: "https://onlinelibrary.wiley.com/journal/14734192"
+    title: "Francis, N. (2006). Bilingual competence, metalinguistic awareness, and the register continuum. *International Journal of Applied Linguistics, 16*(1), 21-45. [https://onlinelibrary.wiley.com/journal/14734192](https://onlinelibrary.wiley.com/journal/14734192)"
+    author: Francis, N
+    q: 2
+    i: 1
+    n: synthesis across contributing studies
 ---
 
 # Fluent bilingualism enhances metalinguistic awareness

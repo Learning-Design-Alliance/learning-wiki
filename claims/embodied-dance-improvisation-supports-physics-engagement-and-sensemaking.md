@@ -10,7 +10,9 @@ evidence_strength: moderate
 sources:
   - id: solomon-et-al-2022
     resource: "https://doi.org/10.1080/10508406.2021.2023543"
-    title: "Solomon, F., Champion, D., Steele, M., & Wright, T. (2022). Embodied physics: Utilizing dance resources for learning and engagement in STEM. Journal of the Learning Sciences, 31(1), 73-106."
+    title: "Solomon, F., Champion, D., Steele, M., & Wright, T. (2022). Embodied physics: Utilizing dance resources for learning and engagement in STEM. *Journal of the Learning Sciences, 31*(1), 73-106. [https://doi.org/10.1080/10508406.2021.2023543](https://doi.org/10.1080/10508406.2021.2023543)"
+    author: "Solomon, F., Champion, D., Steele, M., & Wright, T"
+    q: 2
     author: "Solomon, F., Champion, D., Steele, M., & Wright, T."
 ---
 

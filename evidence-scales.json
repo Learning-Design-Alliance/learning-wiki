@@ -1,0 +1,34 @@
+{
+  "note": "The q/i shorthand, as data. Written beside a claim's evidence so an agent reads codes rather than prose, and rendered for human readers by docs_hooks/page_metadata.py, which loads THIS file — so the two cannot drift. See CLAUDE.md's Evidence quality tiers / Impact magnitude.",
+  "quality": {
+    "field": "q",
+    "means": "How good the study is. A property of the research, not of whether this page reports it faithfully — that is the separate `verified` axis.",
+    "ordinal": "higher is stronger",
+    "tiers": [
+      {"code": 4, "label": "pre-registered or meta-analytic", "definition": "Pre-registered RCT or well-powered meta-analysis"},
+      {"code": 3, "label": "peer-reviewed experiment", "definition": "Peer-reviewed experiment (not pre-registered) or systematic review"},
+      {"code": 2, "label": "quasi-experiment", "definition": "Quasi-experiment, observational with controls, or narrative review"},
+      {"code": 1, "label": "argument or single case", "definition": "Case study, expert opinion, or theoretical argument"}
+    ]
+  },
+  "impact": {
+    "field": "i",
+    "means": "How big the effect is, in the study's own terms.",
+    "ordinal": "higher is larger",
+    "tiers": [
+      {"code": 3, "label": "large", "definition": "d >= 0.8 or equivalent"},
+      {"code": 2, "label": "medium", "definition": "d 0.4-0.79"},
+      {"code": 1, "label": "small", "definition": "d 0.2-0.39"},
+      {"code": 0, "label": "negligible", "definition": "Negligible or unclear"}
+    ]
+  },
+  "sample": {
+    "field": "n",
+    "means": "Sample size, free text — often a description ('large (multiple course sections)') rather than a number, because a meta-analysis and a classroom study do not count the same thing.",
+    "ordinal": null
+  },
+  "unknown": {
+    "code": "?",
+    "means": "Written but not yet established. `q?` is not the same as an absent q: it says someone looked and could not say, which is a finding rather than a gap."
+  }
+}

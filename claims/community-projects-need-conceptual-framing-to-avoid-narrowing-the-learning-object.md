@@ -8,9 +8,11 @@ generated:
   at: 2026-08-29
 evidence_strength: weak
 sources:
-  - id: engestrom-kayhko-2021
+  - id: engeström-käyhkö-2021
     resource: "https://doi.org/10.1080/10508406.2021.1908296"
-    title: "Engeström, R., & Käyhkö, L. (2021). A critical search for the learning object across school and out-of-school contexts: A case of entrepreneurship education. Journal of the Learning Sciences, 30(3), 401-432."
+    title: "Engeström, R., & Käyhkö, L. (2021). A critical search for the learning object across school and out-of-school contexts: A case of entrepreneurship education. *Journal of the Learning Sciences, 30*(3), 401-432. [https://doi.org/10.1080/10508406.2021.1908296](https://doi.org/10.1080/10508406.2021.1908296)"
+    author: "Engeström, R., & Käyhkö, L"
+    q: 1
     author: "Engeström, R., & Käyhkö, L."
 ---
 

@@ -10,7 +10,9 @@ evidence_strength: moderate
 sources:
   - id: finch-et-al-2021
     resource: "https://doi.org/10.1080/07370008.2021.1945064"
-    title: "Finch, L., Moreno, C., & Shapiro, R. B. (2021). Luminous Science: Teachers Designing For and Developing Transdisciplinary Thinking and Learning. Cognition and Instruction, 39(4), 512-560."
+    title: "Finch, L., Moreno, C., & Shapiro, R. B. (2021). Luminous Science: Teachers Designing For and Developing Transdisciplinary Thinking and Learning. *Cognition and Instruction, 39*(4), 512-560. [https://doi.org/10.1080/07370008.2021.1945064](https://doi.org/10.1080/07370008.2021.1945064)"
+    author: "Finch, L., Moreno, C., & Shapiro, R. B"
+    q: 3
     author: "Finch, L., Moreno, C., & Shapiro, R. B."
 ---
 

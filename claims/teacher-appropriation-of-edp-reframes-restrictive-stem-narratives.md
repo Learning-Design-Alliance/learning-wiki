@@ -10,7 +10,9 @@ evidence_strength: weak
 sources:
   - id: watkins-2023
     resource: "https://doi.org/10.1080/07370008.2022.2156512"
-    title: "Watkins, J. (2023). \"That is Still STEM\": Appropriating the Engineering Design Process to Challenge Dominant Narratives of Engineering and STEM. Cognition and Instruction, 41(4), 405-435."
+    title: "Watkins, J. (2023). \"That is Still STEM\": Appropriating the Engineering Design Process to Challenge Dominant Narratives of Engineering and STEM. *Cognition and Instruction, 41*(4), 405-435. [https://doi.org/10.1080/07370008.2022.2156512](https://doi.org/10.1080/07370008.2022.2156512)"
+    author: Watkins, J
+    q: 1
     author: "Watkins, J."
 ---
 

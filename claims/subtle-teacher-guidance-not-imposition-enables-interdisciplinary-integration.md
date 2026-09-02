@@ -10,7 +10,9 @@ evidence_strength: moderate
 sources:
   - id: schwarz-et-al-2024
     resource: "https://doi.org/10.1080/10508406.2024.2344809"
-    title: "Schwarz, B., Heyd-Metzuyanim, E., Koichu, B., Tabach, M., & Yarden, A. (2024). Opportunities and hindrances for promoting interdisciplinary learning in schools. Journal of the Learning Sciences, 33(2), 242-283."
+    title: "Schwarz, B., Heyd-Metzuyanim, E., Koichu, B., Tabach, M., & Yarden, A. (2024). Opportunities and hindrances for promoting interdisciplinary learning in schools. *Journal of the Learning Sciences, 33*(2), 242-283. [https://doi.org/10.1080/10508406.2024.2344809](https://doi.org/10.1080/10508406.2024.2344809)"
+    author: "Schwarz, B., Heyd-Metzuyanim, E., Koichu, B., Tabach, M., & Yarden, A"
+    q: 2
     author: "Schwarz, B., Heyd-Metzuyanim, E., Koichu, B., Tabach, M., & Yarden, A."
 ---
 

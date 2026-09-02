@@ -10,7 +10,9 @@ evidence_strength: moderate
 sources:
   - id: kainulainen-et-al-2025
     resource: "https://doi.org/10.1080/07370008.2025.2503193"
-    title: "Kainulainen, M., Puurtinen, M., & Chinn, C. A. (2025). Regrounding Inquiry-Based Learning in History: A Study of Historians' Epistemic Processes. Cognition and Instruction, 43(4), 291-315."
+    title: "Kainulainen, M., Puurtinen, M., & Chinn, C. A. (2025). Regrounding Inquiry-Based Learning in History: A Study of Historians' Epistemic Processes. *Cognition and Instruction, 43*(4), 291-315. [https://doi.org/10.1080/07370008.2025.2503193](https://doi.org/10.1080/07370008.2025.2503193)"
+    author: "Kainulainen, M., Puurtinen, M., & Chinn, C. A"
+    q: 2
     author: "Kainulainen, M., Puurtinen, M., & Chinn, C. A."
 ---
 

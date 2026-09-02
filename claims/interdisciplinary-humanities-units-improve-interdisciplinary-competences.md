@@ -10,7 +10,9 @@ evidence_strength: moderate
 sources:
   - id: novis-deutsch-et-al-2024
     resource: "https://doi.org/10.1080/10508406.2024.2346915"
-    title: "Novis-Deutsch, N., Cohen, E., Alexander, H., Rahamian, L., Gavish, U., Glick, O., Yehi-Shalom, O., Marcus, G., & Mann, A. (2024). Interdisciplinary learning in the humanities: Knowledge building and identity work. Journal of the Learning Sciences, 33(2), 284-322."
+    title: "Novis-Deutsch, N., Cohen, E., Alexander, H., Rahamian, L., Gavish, U., Glick, O., Yehi-Shalom, O., Marcus, G., & Mann, A. (2024). Interdisciplinary learning in the humanities: Knowledge building and identity work. *Journal of the Learning Sciences, 33*(2), 284-322. [https://doi.org/10.1080/10508406.2024.2346915](https://doi.org/10.1080/10508406.2024.2346915)"
+    author: "Novis-Deutsch, N., Cohen, E., Alexander, H., Rahamian, L., Gavish, U., Glick, O., Yehi-Shalom, O., Marcus, G., & Mann, A"
+    q: 2
     author: "Novis-Deutsch, N., Cohen, E., Alexander, H., Rahamian, L., Gavish, U., Glick, O., Yehi-Shalom, O., Marcus, G., & Mann, A."
 ---
 
