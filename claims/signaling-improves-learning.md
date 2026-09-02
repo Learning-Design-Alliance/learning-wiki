@@ -12,6 +12,7 @@ evidence_strength:
 # Signaling Improves Learning
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Signaling (cueing) — highlighting the essential elements of a lesson through visual emphasis, color, arrows, or headings — directs learner attention to key content and away from extraneous material, improving learning outcomes.
 

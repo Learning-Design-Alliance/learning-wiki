@@ -12,6 +12,7 @@ evidence_strength: moderate
 # Self Regulated Learning Improves Academic Outcomes
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Learners who actively plan, monitor, and regulate their own learning — setting goals, selecting strategies, and adjusting based on feedback — achieve better academic outcomes than those who do not.
 

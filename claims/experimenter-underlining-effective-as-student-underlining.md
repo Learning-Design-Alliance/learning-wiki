@@ -13,12 +13,14 @@ sources:
     title: "Nist, S. L., & Hogrebe, M. C. (1985). The Effects of High and Low Relevant Text Underlining on Test Performance. [ERIC ED265520](https://eric.ed.gov/?id=ED265520)"
     author: "Nist, S. L., & Hogrebe, M. C"
     q: 3
+    i: 0
     author: "Nist, S. L., & Hogrebe, M. C"
 ---
 
 # Experimenter-generated underlining is as effective as student-generated underlining for test performance
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
 
 The act of generating one's own underlining does not, by itself, improve test performance over simply studying text that someone else has underlined — what matters is which content gets marked, not who marks it.
 

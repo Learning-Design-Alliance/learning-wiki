@@ -12,6 +12,7 @@ evidence_strength:
 # Retrieval Failure Reduces Benefit
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 When learners attempt retrieval practice but fail to successfully retrieve the target information, the learning benefit of the retrieval attempt is reduced compared with successful retrieval. The claim concerns the *quality* of the retrieval attempt, not the presence of failure per se — see Discussion for boundary conditions.
 

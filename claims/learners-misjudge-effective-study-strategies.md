@@ -12,6 +12,7 @@ evidence_strength:
 # Learners Misjudge Effective Study Strategies
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Learners systematically prefer and rate as effective those study strategies that feel easy and fluent in the moment, while underusing strategies that produce durable learning but feel effortful.
 

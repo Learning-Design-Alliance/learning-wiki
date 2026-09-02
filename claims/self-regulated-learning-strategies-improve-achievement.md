@@ -12,6 +12,7 @@ evidence_strength: moderate
 # Self Regulated Learning Strategies Improve Achievement
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Teaching learners to plan, monitor, and evaluate their own learning (self-regulated learning, or SRL) raises academic achievement across domains and age groups. The claim covers explicit strategy training in Zimmerman's three phases — forethought, performance, and self-reflection — not merely exposure to study-skills content.
 

@@ -13,12 +13,15 @@ sources:
     title: "Greenberg, D., Calabrese Barton, A., Tan, E., & Archer, L. (2020). Redefining entrepreneurialism in the maker movement: A critical youth approach. *Journal of the Learning Sciences, 29*(4-5), 471-510. [https://doi.org/10.1080/10508406.2020.1749633](https://doi.org/10.1080/10508406.2020.1749633)"
     author: "Greenberg, D., Calabrese Barton, A., Tan, E., & Archer, L"
     q: 3
+    i: 2
+    n: 12 youth ages 11-14, majority Black/youth of Color, low-income community, one afterschool STEM program running 10+ years
     author: "Greenberg, D., Calabrese Barton, A., Tan, E., & Archer, L."
 ---
 
 # Justice-oriented youth maker programs support redefinition of entrepreneurialism and resistance to structural misrecognition
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium · n=12 youth ages 11-14, majority Black/youth of Color, low-income community, one afterschool STEM program running 10+ years
 
 A two-year critical ethnography of 12 youth in a community STEM-making program found that all five youth teams redefined entrepreneurialism toward community benefit rather than profit, grounded their designs in community-rooted problems, and collectively recognized and resisted racialized structural misrecognition at a public entrepreneurial fair, sustaining and deepening this orientation over more than a year of follow-up.
 

@@ -13,12 +13,15 @@ sources:
     title: "Su, M., Chi, M. T. H., & Nagashima, T. (2026). Applying the PAIR-C Framework to foster deep understanding and address misconceptions in science education. *Journal of the Learning Sciences, 35*(1), 130-175. [https://doi.org/10.1080/10508406.2025.2546471](https://doi.org/10.1080/10508406.2025.2546471)"
     author: "Su, M., Chi, M. T. H., & Nagashima, T"
     q: 2
+    i: 1
+    n: 50 (24 PAIR-C, 26 control)
     author: "Su, M., Chi, M. T. H., & Nagashima, T."
 ---
 
 # PAIR-C scaffolding shows mixed evidence for deep understanding and reduced misconceptions in emergent-phenomena instruction
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small · n=50 (24 PAIR-C, 26 control)
 
 Explicitly scaffolding the contrast between emergent (decentralized, collective) and sequential (individualistic, cumulative) causal structure — the [PAIR-C framework](../patterns/pair-c-framework.md) — produced a statistically significant advantage on near-transfer tasks, a non-significant trend on deep-understanding questions, and no far transfer, in one quasi-experimental study.
 

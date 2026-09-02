@@ -12,6 +12,7 @@ evidence_strength:
 # Self Explanation Prompts Improve Learning From Worked Examples
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Prompting learners to explain worked-example steps to themselves — why each step was taken, what principle it applies — improves learning outcomes compared with studying examples without such prompts.
 

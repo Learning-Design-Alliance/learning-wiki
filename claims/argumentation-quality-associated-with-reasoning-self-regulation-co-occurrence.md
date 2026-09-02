@@ -13,12 +13,15 @@ sources:
     title: "Omarchevska, Y., Lachner, A., Richter, J., & Scheiter, K. (2022). It takes two to tango: How scientific reasoning and self-regulation processes impact argumentation quality. *Journal of the Learning Sciences, 31*(2), 237-277. [https://doi.org/10.1080/10508406.2021.1966633](https://doi.org/10.1080/10508406.2021.1966633)"
     author: "Omarchevska, Y., Lachner, A., Richter, J., & Scheiter, K"
     q: 2
+    i: 2
+    n: 30 undergraduate students (23 female, Mage=23.33), 7 science majors / 23 non-science majors, Southern Germany
     author: "Omarchevska, Y., Lachner, A., Richter, J., & Scheiter, K."
 ---
 
 # Argumentation quality is associated with denser co-occurrence of scientific reasoning and self-regulation processes
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium · n=30 undergraduate students (23 female, Mage=23.33), 7 science majors / 23 non-science majors, Southern Germany
 
 Process-mining 30 undergraduates' think-aloud inquiry behavior, students independently classified as high vs. low in argumentation quality also differed sharply in how densely their scientific-reasoning and self-regulation process codes co-occurred, with low-quality students showing more frequent control-of-variables-strategy violations and less monitoring.
 

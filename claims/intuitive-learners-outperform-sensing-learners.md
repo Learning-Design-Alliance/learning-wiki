@@ -12,12 +12,14 @@ sources:
     title: "Alty, J. L. (2002). Dual Coding Theory and Computer Education: Some Media Experiments To Examine the Effects of Different Media on Learning. *ED-MEDIA 2002 World Conference on Educational Multimedia, Hypermedia & Telecommunications* (14th, Denver, CO). [https://files.eric.ed.gov/fulltext/ED476964.pdf](https://files.eric.ed.gov/fulltext/ED476964.pdf)"
     author: Alty, J. L
     q: 3
+    i: 1
 id: intuitive-learners-outperform-sensing-learners
 ---
 
 # Intuitive learners tend to outperform sensing learners in media-based presentations
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
 
 Across a series of computer-based media experiments, learners with a preference for intuitive processing (abstract, symbolic) scored higher than sensing-preferring learners (concrete, factual), but the advantage was not uniform across presentation formats.
 

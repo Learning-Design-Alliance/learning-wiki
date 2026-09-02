@@ -28,11 +28,13 @@ sources:
     q: 1
     i: 1
     n: not applicable (practitioner synthesis)
+    n: not applicable (practitioner synthesis)
 ---
 
 # Preserving a bilingual student's heritage language supports rather than hinders English acquisition
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 3 studies · `q1`–`q2` · `i1`–`i2`
 
 A common assumption treats time and attention spent on a bilingual student's home (heritage) language as competing with, and therefore slowing, English acquisition. The evidence points the other way for several distinct mechanisms: vocabulary knowledge transfers between languages, specialist intervention is more effective when delivered bilingually, and a preserved shared language keeps parents able to support their children's schooling.
 

@@ -12,6 +12,7 @@ evidence_strength:
 # Spacing Improves Long Term Retention
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Learning episodes separated in time (spaced practice) produce stronger long-term retention than the same amount of learning massed into a single session.
 

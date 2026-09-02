@@ -12,6 +12,7 @@ evidence_strength:
 # Segmenting Principle Improves Multimedia Learning
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Presenting continuous multimedia material (e.g., animation with narration) in learner-paced segments rather than as a continuous unit improves learning by allowing processing time before new content arrives.
 

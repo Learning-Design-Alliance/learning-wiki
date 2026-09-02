@@ -11,6 +11,8 @@ sources:
     title: "van Merriënboer, J. J. G., Kester, L., & Paas, F. (2006). Teaching complex rather than simple tasks: Balancing intrinsic and germane load to enhance transfer of learning. *Applied Cognitive Psychology, 20*(3), 343–352. [https://doi.org/10.1002/acp.1250](https://doi.org/10.1002/acp.1250)"
     author: "van Merriënboer, J. J. G., Kester, L., & Paas, F"
     q: 4
+    i: 3
+    n: unspecified
 id: whole-task-performance-improves-transfer
 evidence_strength: strong
 ---
@@ -18,6 +20,7 @@ evidence_strength: strong
 # Whole-task performance improves transfer of complex skills to real-world settings.
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i3` large · n=unspecified
 
 Engaging in authentic, integrated tasks during training better prepares learners for the complexity and coordination required in professional practice compared to isolated part-task practice.
 

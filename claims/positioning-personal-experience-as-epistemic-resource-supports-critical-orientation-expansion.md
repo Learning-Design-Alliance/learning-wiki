@@ -13,12 +13,15 @@ sources:
     title: "Higgs, J. M., Kaimana, M., & Isero, M. (2026). Leveraging Onto-Epistemic Heterogeneity for \"Outward\" Exploration: Cultivating Critical AI Awareness in the ELA Classroom. *Journal of the Learning Sciences*. [https://doi.org/10.1080/10508406.2026.2686084](https://doi.org/10.1080/10508406.2026.2686084)"
     author: "Higgs, J. M., Kaimana, M., & Isero, M"
     q: 2
+    i: 1
+    n: "69 students (2 classes), grades 9-12 charter school, ~78% qualifying for economic assistance"
     author: "Higgs, J. M., Kaimana, M., & Isero, M."
 ---
 
 # Positioning personal experience as an epistemic resource supports expansion from inward to outward critical orientations
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small · n=69 students (2 classes), grades 9-12 charter school, ~78% qualifying for economic assistance
 
 When instruction treats learners' personal, lived experience with a technology or topic as a legitimate starting point for disciplinary analysis — rather than a motivational hook set aside once "real" content begins — learners are more likely to extend individual ("inward") concerns into systemic, collective ("outward") critique.
 

@@ -12,6 +12,7 @@ evidence_strength: pending
 # Writing To Learn Improves Understanding
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Writing about to-be-learned material — rather than only reading or listening — deepens understanding by forcing learners to organize, elaborate, and articulate ideas in their own words. The claim concerns *understanding* (conceptual knowledge, transfer), not rote recall, and applies to writing as a learning activity during instruction — not to writing instruction aimed at improving composition skill, which is a distinct outcome.
 

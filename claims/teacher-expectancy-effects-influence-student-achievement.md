@@ -12,6 +12,7 @@ evidence_strength: weak
 # Teacher Expectancy Effects Influence Student Achievement
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Teachers' expectations about individual students' ability can shape student achievement through changes in teacher behavior and classroom interaction. The effect operates as a self-fulfilling prophecy rather than a deliberate technique, and is typically small at the classroom level.
 

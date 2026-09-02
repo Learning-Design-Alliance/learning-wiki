@@ -12,6 +12,7 @@ evidence_strength:
 # Retrieval practice improves long-term retention more than restudying
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Actively recalling information (the "testing effect") strengthens long-term retention more than restudying the same material. The mechanism is generally attributed to retrieval modifying the memory trace and making future access routes more available, consistent with [Information Processing Theory](../theories/information-processing-theory.md).
 

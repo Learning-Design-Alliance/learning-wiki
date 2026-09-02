@@ -11,16 +11,22 @@ sources:
     title: "Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review, 63*(2), 81–97. [https://doi.org/10.1037/h0043158](https://doi.org/10.1037/h0043158)"
     author: Miller, G. A
     q: 4
+    i: 3
+    n: N/A
   - id: cowan-2001
     resource: "https://doi.org/10.1017/S0140525X01003922"
     title: "Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences, 24*(1), 87–114. [https://doi.org/10.1017/S0140525X01003922](https://doi.org/10.1017/S0140525X01003922)"
     author: Cowan, N
     q: 4
+    i: 3
+    n: N/A
   - id: thalmann-et-al-2019
     resource: "https://doi.org/10.1037/xlm0000578"
     title: "Thalmann, M., Souza, A. S., & Oberauer, K. (2019). How does chunking help working memory? *Journal of Experimental Psychology: Learning, Memory, and Cognition, 45*(1), 37–55. [https://doi.org/10.1037/xlm0000578](https://doi.org/10.1037/xlm0000578)"
     author: "Thalmann, M., Souza, A. S., & Oberauer, K"
     q: 3
+    i: 2
+    n: unspecified
 id: chunking-reduces-working-memory-load
 evidence_strength: strong
 ---
@@ -28,6 +34,7 @@ evidence_strength: strong
 # Chunking reduces working memory load by grouping information into fewer, more meaningful units.
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 3 studies · `q3`–`q4` · `i2`–`i3`
 
 By organizing discrete elements into larger, familiar patterns (chunks), learners can effectively bypass the limited capacity of short-term memory, allowing for more complex processing.
 

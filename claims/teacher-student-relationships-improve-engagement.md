@@ -12,6 +12,7 @@ evidence_strength:
 # Teacher Student Relationships Improve Engagement
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Positive, warm teacher–student relationships increase students' behavioral, emotional, and cognitive engagement in learning. The claim concerns relationship *quality* — warmth, trust, and appropriate structure — not mere contact time.
 

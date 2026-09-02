@@ -12,6 +12,7 @@ evidence_strength: weak
 # Hands-on learning improves achievement
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Physically manipulating materials or enacting concepts during instruction can improve achievement relative to passive reception, but the effect depends heavily on how the activity is structured and what learners already know.
 

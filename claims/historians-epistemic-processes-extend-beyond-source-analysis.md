@@ -13,12 +13,15 @@ sources:
     title: "Kainulainen, M., Puurtinen, M., & Chinn, C. A. (2025). Regrounding Inquiry-Based Learning in History: A Study of Historians' Epistemic Processes. *Cognition and Instruction, 43*(4), 291-315. [https://doi.org/10.1080/07370008.2025.2503193](https://doi.org/10.1080/07370008.2025.2503193)"
     author: "Kainulainen, M., Puurtinen, M., & Chinn, C. A"
     q: 2
+    i: 2
+    n: "26 Finnish academic historians (~11% of Finnish history professors/lecturers), average interview length 90 minutes"
     author: "Kainulainen, M., Puurtinen, M., & Chinn, C. A."
 ---
 
 # Academic historians' epistemic processes extend well beyond source analysis and writing
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium · n=26 Finnish academic historians (~11% of Finnish history professors/lecturers), average interview length 90 minutes
 
 Interviews with 26 academic historians identified 107 distinct epistemic processes across 14 categories, including five categories — archival collection, tool/language mediation, epistemic virtues and affect, broad methodological choices, and explicitly social processes — that are largely absent from prior empirical research on historians' practices and from inquiry-based-learning design in history.
 

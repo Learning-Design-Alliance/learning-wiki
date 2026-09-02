@@ -12,6 +12,7 @@ evidence_strength: weak
 # Cooperative learning without individual accountability produces free-riding that reduces learning outcomes
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 When group rewards or grades are not tied to each member's individual learning, some members can share the group's outcome without contributing, and their learning suffers while group functioning degrades.
 

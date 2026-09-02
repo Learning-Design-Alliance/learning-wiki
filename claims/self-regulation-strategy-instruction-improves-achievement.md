@@ -12,6 +12,7 @@ evidence_strength:
 # Self-regulation strategy instruction improves achievement
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Explicitly teaching learners strategies for goal-setting, planning, monitoring, and reflecting on their own learning raises academic achievement across domains and age groups.
 

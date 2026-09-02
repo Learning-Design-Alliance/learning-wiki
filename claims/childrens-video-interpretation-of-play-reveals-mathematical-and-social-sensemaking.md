@@ -13,12 +13,15 @@ sources:
     title: "Vescio, J. (2025). \"I love being a kid. I don't want to grow up.\" Young children's video interpretations of their mathematical play. *Journal of the Learning Sciences, 34*(3), 329-367. [https://doi.org/10.1080/10508406.2025.2481844](https://doi.org/10.1080/10508406.2025.2481844)"
     author: Vescio, J
     q: 1
+    i: 0
+    n: 4 children (kindergarten/first-grade)
     author: "Vescio, J."
 ---
 
 # Young children's video interpretation of their own mathematical play reveals both mathematical and social-affective sensemaking
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case · `i0` negligible · n=4 children (kindergarten/first-grade)
 
 When young children watch and interpret video of their own collaborative mathematical play, they surface sophisticated mathematical reasoning (debating definitions, noticing mathematical uniqueness) alongside social and affective dimensions of the experience (care for peers, aesthetics, fun) that a content-only lens on the same play would miss.
 

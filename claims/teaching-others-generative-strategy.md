@@ -12,6 +12,7 @@ evidence_strength: weak
 # Teaching Others Generative Strategy
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Preparing to teach material to others is a generative learning strategy: it prompts learners to organize, elaborate, and restructure content, which can produce deeper processing than studying for a test alone.
 

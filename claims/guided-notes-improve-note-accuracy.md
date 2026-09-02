@@ -12,6 +12,7 @@ evidence_strength:
 # Guided Notes Improve Note Accuracy
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Guided notes are instructor-prepared lecture outlines that cue students to record key information, leaving gaps for learners to complete. The claim is that this scaffolding produces more complete and more accurate notes than unstructured note-taking.
 

@@ -12,6 +12,7 @@ evidence_strength:
 # Summarization Effective With Training
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Writing summaries improves learning outcomes, but the benefit depends heavily on learners being trained in how to summarize — untrained summarization often produces poor-quality summaries and weak learning gains.
 

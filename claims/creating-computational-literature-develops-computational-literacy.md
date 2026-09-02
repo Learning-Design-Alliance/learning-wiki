@@ -13,12 +13,15 @@ sources:
     title: "Odden, T. O. B., & Zwicki, B. (2025). How physics students build computational literacy by creating computational literature. *Journal of the Learning Sciences, 34*(5), 700-742. [https://doi.org/10.1080/10508406.2025.2494791](https://doi.org/10.1080/10508406.2025.2494791)"
     author: "Odden, T. O. B., & Zwicki, B"
     q: 1
+    i: 0
+    n: 4 undergraduate physics students (two pairs)
     author: "Odden, T. O. B., & Zwicki, B."
 ---
 
 # Creating computational literature develops computational literacy even when code modification is minor
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case · `i0` negligible · n=4 undergraduate physics students (two pairs)
 
 Computational literacy has three interdependent pillars — material (technical coding fluency), cognitive (using computation to reason about a disciplinary problem), and social (communicating computational work) — and students can develop the cognitive and social pillars substantially through [computational essay writing](../patterns/computational-essay-writing.md) even when their actual code changes are small, provided they have example computational literature to draw on.
 

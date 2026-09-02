@@ -12,6 +12,7 @@ evidence_strength: moderate
 # Self-regulated learning improves outcomes
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Learners who plan, monitor, and evaluate their own learning (self-regulated learning, SRL) achieve better academic outcomes than those who do not. The claim concerns *training* learners in self-regulatory strategy use, not merely correlating SRL dispositions with achievement.
 

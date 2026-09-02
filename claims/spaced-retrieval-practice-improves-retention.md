@@ -12,6 +12,7 @@ evidence_strength:
 # Spaced Retrieval Practice Improves Retention
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Combining spaced repetition (distributing practice over time) with retrieval practice (actively recalling material rather than rereading it) produces durable long-term retention of learned material.
 

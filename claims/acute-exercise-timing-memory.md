@@ -12,6 +12,7 @@ evidence_strength:
 # The timing of acute exercise relative to learning modulates memory consolidation
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 A single bout of cardiovascular exercise can enhance memory for recently learned material, but the effect depends on *when* the exercise occurs relative to encoding and consolidation — before learning, shortly after learning, or much later.
 

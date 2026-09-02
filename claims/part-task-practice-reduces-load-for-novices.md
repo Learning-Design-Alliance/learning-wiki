@@ -11,6 +11,8 @@ sources:
     title: "Pollock, E., Chandler, P., & Sweller, J. (2002). Assimilating complex information. *Learning and Instruction, 12*(1), 61–86. [https://doi.org/10.1016/S0959-4752(01)00016-0](https://doi.org/10.1016/S0959-4752(01)00016-0)"
     author: "Pollock, E., Chandler, P., & Sweller, J"
     q: 3
+    i: 2
+    n: unspecified
 id: part-task-practice-reduces-load-for-novices
 evidence_strength: moderate
 ---
@@ -18,6 +20,7 @@ evidence_strength: moderate
 # Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium · n=unspecified
 
 For learners with very low prior knowledge, the complexity of a whole task can exceed working memory capacity, making isolated practice of critical sub-skills beneficial before integration.
 

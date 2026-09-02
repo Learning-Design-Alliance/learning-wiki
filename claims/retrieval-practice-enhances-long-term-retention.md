@@ -12,6 +12,7 @@ evidence_strength: strong
 # Retrieval Practice Enhances Long Term Retention
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Attempting to retrieve information from memory strengthens that memory more than restudying the same material, producing durable gains in long-term retention. The claim concerns the *relative* benefit of retrieval over restudy at a delay; it does not claim retrieval practice is always preferable during initial learning, when material is not yet retrievable.
 

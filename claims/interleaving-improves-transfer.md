@@ -12,6 +12,7 @@ evidence_strength: review
 # Interleaving Improves Transfer
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Interleaving — mixing different problem types or categories within a practice session rather than blocking them — improves learners' ability to discriminate between problem types and transfer to novel test items. The claim applies to categorization and strategy-selection tasks where multiple procedures must be distinguished, not to skills with a single uniform procedure.
 

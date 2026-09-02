@@ -12,6 +12,7 @@ evidence_strength: weak
 # Automatic word recognition frees resources for comprehension
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 When word-level decoding becomes automatic, working-memory resources that would otherwise be consumed by decoding are released for higher-level comprehension processes such as integrating ideas and building a situation model.
 

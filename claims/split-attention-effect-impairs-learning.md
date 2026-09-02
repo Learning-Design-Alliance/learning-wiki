@@ -12,6 +12,7 @@ evidence_strength: moderate
 # Split attention between mutually referring sources of information impairs learning
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 When learners must mentally integrate information that is physically or temporally separated (e.g., a diagram with its explanatory text placed apart from it), working memory resources are consumed by the integration process itself, impairing learning.
 

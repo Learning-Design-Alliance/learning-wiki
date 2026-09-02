@@ -12,6 +12,7 @@ evidence_strength:
 # Guided Discovery Outperforms Pure Discovery
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Discovery learning in which learners derive target concepts with minimal support produces weaker learning outcomes than discovery learning that includes instructional guidance such as scaffolds, feedback, prompts, or worked examples.
 

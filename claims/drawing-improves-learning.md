@@ -12,6 +12,7 @@ evidence_strength: unverified
 # Drawing Improves Learning
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Learners who create drawings of to-be-learned material during study show better understanding and recall than learners who read or summarize the same material. This page's evidence base has not yet been populated; no effect direction or magnitude should be asserted from it until studies are added.
 

@@ -13,12 +13,15 @@ sources:
     title: "Yannier, N., Crowley, K., Do, Y., Hudson, S. E., & Koedinger, K. R. (2022). Intelligent science exhibits: Transforming hands-on exhibits into mixed-reality learning experiences. *Journal of the Learning Sciences, 31*(3), 335-368. [https://doi.org/10.1080/10508406.2022.2032071](https://doi.org/10.1080/10508406.2022.2032071)"
     author: "Yannier, N., Crowley, K., Do, Y., Hudson, S. E., & Koedinger, K. R"
     q: 3
+    i: 3
+    n: 32 elementary-school children (median grade 2) for the learning comparison; naturalistic museum-floor logs (~13.5 hours, 104 visits) for the engagement comparison
     author: "Yannier, N., Crowley, K., Do, Y., Hudson, S. E., & Koedinger, K. R."
 ---
 
 # AI-mediated feedback in hands-on exhibits improves learning and engagement
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large · n=32 elementary-school children (median grade 2) for the learning comparison; naturalistic museum-floor logs (~13.5 hours, 104 visits) for the engagement comparison
 
 A museum exhibit that adds computer-vision sensing and a real-time predict-observe-explain feedback cycle to hands-on tower-building produces substantially better concept learning and engineering transfer than the same physical materials without feedback, without reducing enjoyment, and holds visitors' voluntary attention over four times longer.
 

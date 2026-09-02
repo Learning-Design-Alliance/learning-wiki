@@ -12,6 +12,7 @@ evidence_strength: unknown
 # Different types of handwriting interventions produce equivalent gains in handwriting legibility and fluency
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 This is an equivalence (null-difference) claim: it asserts that no intervention type is reliably superior, not that any type is effective. If it holds, program selection can rest on cost, feasibility, and learner fit rather than on efficacy differences between methods.
 

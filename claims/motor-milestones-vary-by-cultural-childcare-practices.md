@@ -12,12 +12,15 @@ sources:
     title: "Kaplan, H., & Dove, H. (1987). Infant development among the Ache of eastern Paraguay. *Developmental Psychology, 23*(2), 190-198."
     author: "Kaplan, H., & Dove, H"
     q: 2
+    i: 1
+    n: unreported in secondary source
     author: "Kaplan, H., & Dove, H."
 ---
 
 # Motor development milestone timing varies by cultural childcare practice, but functional motor competence equalizes by middle childhood.
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small · n=unreported in secondary source
 
 Standard motor-milestone charts (e.g., typical walking age) are often treated as universal biological timetables. Cross-cultural evidence shows the *timing* of milestones is substantially shaped by childcare practice, even though the eventual, functional motor competence converges across cultures by around age 9.
 

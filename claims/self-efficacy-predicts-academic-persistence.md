@@ -10,11 +10,15 @@ sources:
     title: "Bandura, A. (1997). *Self-efficacy: The exercise of control*. W. H. Freeman."
     author: Bandura, A
     q: 4
+    i: 3
+    n: N/A
   - id: pajares-1996
     resource: "https://doi.org/10.3102/00346543066004543"
     title: "Pajares, F. (1996). Self-efficacy beliefs in academic settings. *Review of Educational Research, 66*(4), 543–578. [https://doi.org/10.3102/00346543066004543](https://doi.org/10.3102/00346543066004543)"
     author: Pajares, F
     q: 4
+    i: 3
+    n: N/A
 id: self-efficacy-predicts-academic-persistence
 evidence_strength: strong
 ---
@@ -22,6 +26,7 @@ evidence_strength: strong
 # Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q4` pre-registered or meta-analytic · `i3` large
 
 Self-efficacy is not global confidence — it is the learner's judgment that they can execute the specific actions required to accomplish a specific task. High self-efficacy for a task produces higher goals, more effort, longer persistence under obstacles, and faster recovery from failure. Low self-efficacy produces avoidance, reduced effort, and attribution of difficulty to stable inability rather than insufficient strategy.
 

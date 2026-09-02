@@ -13,12 +13,15 @@ sources:
     title: "Baaijen, V. M., & Galbraith, D. (2018). Discovery Through Writing: Relationships with Writing Processes and Text Quality. *Cognition and Instruction, 36*(3), 199-223. [https://doi.org/10.1080/07370008.2018.1456431](https://doi.org/10.1080/07370008.2018.1456431)"
     author: "Baaijen, V. M., & Galbraith, D"
     q: 3
+    i: 2
+    n: 78 university students (Groningen, native Dutch speakers), randomly assigned to outline vs. synthetic planning
     author: "Baaijen, V. M., & Galbraith, D."
 ---
 
 # Spontaneous sentence production under minimal planning increases writers' understanding but reduces initial text quality
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium · n=78 university students (Groningen, native Dutch speakers), randomly assigned to outline vs. synthetic planning
 
 When writers plan only a single overall goal before drafting (rather than a detailed outline), spontaneous, minimally-rehearsed sentence production predicts an increase in the writer's self-rated understanding of the topic — the opposite pattern from what occurs under detailed outline planning — while also predicting lower initial text quality; a separate process of revising the text's global structure independently predicts increased understanding regardless of planning condition, and the two together (text quality and understanding) are not simply positively related.
 

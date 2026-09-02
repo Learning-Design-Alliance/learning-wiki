@@ -12,6 +12,7 @@ evidence_strength:
 # Feedback improves learning outcomes
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Feedback — information provided to a learner about their performance relative to a goal — is widely treated as one of the most powerful single influences on achievement, but its effects are notoriously heterogeneous: the same intervention can produce large gains, no change, or negative outcomes depending on design and context.
 

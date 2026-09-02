@@ -12,6 +12,7 @@ evidence_strength:
 # Distributed Practice Improves Retention
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Spacing the same learning episodes over time (distributed practice) produces stronger long-term retention than massing them together in a single session. The benefit is best established for delayed tests of verbal and declarative material, and the optimal gap between episodes scales with how long retention is measured.
 

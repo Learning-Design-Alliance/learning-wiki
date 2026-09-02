@@ -12,6 +12,7 @@ evidence_strength:
 # Generative processing improves learning
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Learners who actively construct connections between new material and their prior knowledge — by summarizing, self-explaining, mapping, or generating answers — learn more than learners who passively receive the same material. The claim concerns the *act of generation itself*; comparisons must control for study time, since generative activities typically take longer than passive study.
 

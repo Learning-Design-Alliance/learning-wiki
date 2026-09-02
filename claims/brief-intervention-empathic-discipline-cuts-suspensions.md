@@ -12,6 +12,7 @@ evidence_strength: weak
 # Brief Intervention Empathic Discipline Cuts Suspensions
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 A short, scalable intervention that reframes discipline as an opportunity to maintain relationships with students — rather than to punish — can reduce suspension rates, particularly for students from historically disciplined groups.
 

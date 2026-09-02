@@ -12,6 +12,7 @@ evidence_strength: low
 # Process Writing Improves Writing Quality
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Teaching writing as a recursive process — planning, drafting, revising, and editing with explicit strategy instruction and peer/teacher feedback — produces stronger written compositions than traditional focus on grammar and product alone.
 

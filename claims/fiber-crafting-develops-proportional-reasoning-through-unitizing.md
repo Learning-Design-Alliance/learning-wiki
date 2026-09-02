@@ -13,12 +13,15 @@ sources:
     title: "Peppler, K., Keune, A., Bender, S., & Yankova, N. (2025). Materialized Action: Reformulating the \"Doing of\" Math Through Fiber Crafting. *Cognition and Instruction, 43*(3), 175-200. [https://doi.org/10.1080/07370008.2025.2485070](https://doi.org/10.1080/07370008.2025.2485070)"
     author: "Peppler, K., Keune, A., Bender, S., & Yankova, N"
     q: 2
+    i: 2
+    n: 3 focal youth (ages 9-11) selected from a 17-participant, 3-day public-library summer camp
     author: "Peppler, K., Keune, A., Bender, S., & Yankova, N."
 ---
 
 # Fiber crafting develops proportional reasoning through nested, personally-defined units
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium · n=3 focal youth (ages 9-11) selected from a 17-participant, 3-day public-library summer camp
 
 Three youth engaging in knitting, crochet, and fabric pleating each developed and used multiplicative proportional reasoning specific to their craft's material structure — gauge in knitting, sector growth in crochet, and hidden-layer ratios in pleating — with material properties (tension, needle size, fabric spring-back) actively shaping what unit each child defined and discovered.
 

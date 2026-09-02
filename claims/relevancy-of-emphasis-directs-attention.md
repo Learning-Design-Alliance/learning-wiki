@@ -12,17 +12,22 @@ sources:
     title: "Nist, S. L., & Hogrebe, M. C. (1985). The Effects of High and Low Relevant Text Underlining on Test Performance. [ERIC ED265520](https://eric.ed.gov/?id=ED265520)"
     author: "Nist, S. L., & Hogrebe, M. C"
     q: 3
+    i: 2
+    n: 67
   - id: nist-1985-2
     resource: "https://eric.ed.gov/?id=ED265520"
     title: "Nist, S. L., & Hogrebe, M. C. (1985). The Effects of High and Low Relevant Text Underlining on Test Performance. [ERIC ED265520](https://eric.ed.gov/?id=ED265520)"
     author: "Nist, S. L., & Hogrebe, M. C"
     q: 3
+    i: 2
+    n: 67
 id: relevancy-of-emphasis-directs-attention
 ---
 
 # Relevancy of emphasized text directs attention and influences test performance
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2` medium
 
 Emphasis cues such as underlining do not simply boost learning overall — they shift attention toward whatever is emphasized, so test performance follows the *relevancy* of the marked material rather than the mere presence of marking.
 

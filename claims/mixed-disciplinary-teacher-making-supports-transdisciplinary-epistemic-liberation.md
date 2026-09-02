@@ -13,12 +13,15 @@ sources:
     title: "Finch, L., Moreno, C., & Shapiro, R. B. (2021). Luminous Science: Teachers Designing For and Developing Transdisciplinary Thinking and Learning. *Cognition and Instruction, 39*(4), 512-560. [https://doi.org/10.1080/07370008.2021.1945064](https://doi.org/10.1080/07370008.2021.1945064)"
     author: "Finch, L., Moreno, C., & Shapiro, R. B"
     q: 3
+    i: 2
+    n: 6 core K-12 teachers plus 2 engineer co-participants, spanning art, science, and math/computing, one 5-day workshop plus subsequent classroom implementation
     author: "Finch, L., Moreno, C., & Shapiro, R. B."
 ---
 
 # Mixed-disciplinary teacher making supports transdisciplinary epistemic liberation
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium · n=6 core K-12 teachers plus 2 engineer co-participants, spanning art, science, and math/computing, one 5-day workshop plus subsequent classroom implementation
 
 When art, science, and computing teachers jointly built programmable sculptural lanterns representing a shared classroom garden, all participating teachers raised evaluative criteria from disciplines outside their own — evidence that hands-on, mixed-disciplinary making can expand (not just apply) teachers' sense of what makes a representation "good."
 

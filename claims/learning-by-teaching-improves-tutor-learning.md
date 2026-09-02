@@ -12,6 +12,7 @@ evidence_strength:
 # Learning By Teaching Improves Tutor Learning
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Tutors often learn more from the act of teaching than tutees learn from being taught — preparing to teach, explaining aloud, and responding to a learner's questions drive the tutor to organize, elaborate, and fill gaps in their own understanding.
 

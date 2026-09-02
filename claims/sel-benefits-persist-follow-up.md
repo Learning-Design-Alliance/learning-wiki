@@ -12,6 +12,7 @@ evidence_strength:
 # Social-emotional learning benefits persist at follow-up
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Students who participate in social-emotional learning (SEL) programs retain gains in skills, attitudes, and behavior after the program ends, rather than showing only immediate post-intervention effects.
 

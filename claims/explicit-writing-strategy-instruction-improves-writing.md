@@ -12,6 +12,7 @@ evidence_strength:
 # Explicit Writing Strategy Instruction Improves Writing
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Teaching students explicit, step-by-step strategies for planning, drafting, and revising — rather than relying on immersion in writing alone — improves the quality of their written compositions.
 

@@ -12,6 +12,7 @@ evidence_strength:
 # Learners misjudge which learning strategies are effective
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Learners systematically overestimate the effectiveness of low-effort, fluency-based strategies (rereading, highlighting) and underestimate high-effort, generative strategies (retrieval practice, spacing, interleaving). This claim concerns metacognitive monitoring and strategy selection, not the effectiveness of the strategies themselves — those are covered in their own claim pages.
 

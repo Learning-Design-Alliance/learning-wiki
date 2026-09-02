@@ -13,12 +13,15 @@ sources:
     title: "Watkins, J. (2023). \"That is Still STEM\": Appropriating the Engineering Design Process to Challenge Dominant Narratives of Engineering and STEM. *Cognition and Instruction, 41*(4), 405-435. [https://doi.org/10.1080/07370008.2022.2156512](https://doi.org/10.1080/07370008.2022.2156512)"
     author: Watkins, J
     q: 1
+    i: 2
+    n: 1 elementary teacher, 18-month online graduate certificate program (Tufts TEEP)
     author: "Watkins, J."
 ---
 
 # A teacher's appropriation of the engineering design process reframed restrictive STEM narratives in her teaching and personal life
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case · `i2` medium · n=1 elementary teacher, 18-month online graduate certificate program (Tufts TEEP)
 
 Over an 18-month graduate certificate program, a white, working-class elementary teacher's discourse about the engineering design process (EDP) shifted from describing it as a fixed linear sequence to describing it as nonlinear and personally-owned, and she used this reframed understanding to reclassify her own family's work as engineering, to advocate for student tinkering time in colleagues' classrooms, and to reinterpret her son's non-traditional academic path as "still STEM."
 

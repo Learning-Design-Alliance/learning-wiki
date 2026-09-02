@@ -12,6 +12,7 @@ evidence_strength: moderate
 # Incidental Vocabulary Exposure Limited
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Learners acquire very few word meanings from a single incidental exposure during reading or listening; substantial word learning from context requires multiple encounters over time.
 

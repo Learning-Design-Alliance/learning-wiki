@@ -12,6 +12,7 @@ evidence_strength: weak
 # Group rewards combined with individual accountability make cooperative learning effective
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Cooperative learning reliably improves achievement when two conditions hold together: the group's success depends on each member's learning (individual accountability), and groups receive recognition or rewards based on member learning gains (group rewards).
 

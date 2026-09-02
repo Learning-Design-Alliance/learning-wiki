@@ -12,6 +12,7 @@ evidence_strength:
 # Rereading Is A Low Utility Study Strategy
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Rereading — passively restudying text or notes — is one of the most commonly used study strategies, but it produces less durable learning than strategies that require learners to actively reconstruct material. The scope of this claim is rereading as a self-directed study technique, compared against alternative strategies under equivalent study time.
 

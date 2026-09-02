@@ -11,11 +11,15 @@ sources:
     title: "Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)"
     author: Zimmerman, B. J
     q: 3
+    i: 2
+    n: N/A
   - id: butler-winne-1995
     resource: "https://doi.org/10.3102/00346543065003245"
     title: "Butler, D. L., & Winne, P. H. (1995). Feedback and self-regulated learning: A theoretical synthesis. *Review of Educational Research, 65*(3), 245-281. [https://doi.org/10.3102/00346543065003245](https://doi.org/10.3102/00346543065003245)"
     author: "Butler, D. L., & Winne, P. H"
     q: 3
+    i: 2
+    n: N/A
 id: self-monitoring-improves-self-regulation
 evidence_strength: moderate
 ---
@@ -23,6 +27,7 @@ evidence_strength: moderate
 # Self-monitoring improves self-regulation and supports better learning decisions.
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2` medium
 
 When learners are prompted to check their current performance against a goal or criterion, they are more likely to notice gaps, adjust strategy, and persist in purposeful ways.
 

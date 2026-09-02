@@ -13,12 +13,15 @@ sources:
     title: "van de Pol, J., Mercer, N., & Volman, M. (2019). Scaffolding student understanding in small-group work: Students' uptake of teacher support in subsequent small-group interaction. *Journal of the Learning Sciences, 28*(2), 206-239. [https://doi.org/10.1080/10508406.2018.1522258](https://doi.org/10.1080/10508406.2018.1522258)"
     author: "van de Pol, J., Mercer, N., & Volman, M"
     q: 3
+    i: 2
+    n: 7 seventh-grade Dutch social studies teachers, 28 students (7 groups of 4), 35 lessons, 13,316 coded interaction turns
     author: "van de Pol, J., Mercer, N., & Volman, M."
 ---
 
 # Students' application of teacher support predicts accurate answers in small-group work
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium · n=7 seventh-grade Dutch social studies teachers, 28 students (7 groups of 4), 35 lessons, 13,316 coded interaction turns
 
 A mediation analysis of 35 secondary lessons found that students who applied (rather than ignored or merely copied) a teacher's scaffolding went on to give significantly more accurate answers in subsequent small-group work, but how well-calibrated (contingent) the teacher's support was did not itself predict whether students applied it — timely fading, checking understanding before withdrawing, did.
 

@@ -12,6 +12,7 @@ evidence_strength: pending
 # Parent Implemented Intervention Improves Outcomes
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Parent implemented intervention refers to programs in which parents are trained to deliver instructional or behavioral support to their own children, typically in home or community settings. The claim concerns whether such parent-delivered programs improve child outcomes relative to usual care or comparison conditions.
 

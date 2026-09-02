@@ -12,6 +12,7 @@ evidence_strength: moderate
 # Contiguity Principle Improves Learning
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Presenting corresponding words and pictures near each other in space (spatial contiguity) and in time (temporal contiguity) improves learning compared with separated presentation.
 

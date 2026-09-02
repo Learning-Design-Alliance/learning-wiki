@@ -13,12 +13,15 @@ sources:
     title: "Shaw, M. S., Coleman, J. J., Thomas, E. E., & Kafai, Y. B. (2023). Restorying a Black girl's future: Using womanist storytelling methodologies to reimagine dominant narratives in computing education. *Journal of the Learning Sciences, 32*(1), 52-75. [https://doi.org/10.1080/10508406.2023.2179847](https://doi.org/10.1080/10508406.2023.2179847)"
     author: "Shaw, M. S., Coleman, J. J., Thomas, E. E., & Kafai, Y. B"
     q: 1
+    i: 2
+    n: 1 focal case (a 15-year-old Black girl) from a workshop of 15 youth (14 consenting), 11 of whom were interviewed
     author: "Shaw, M. S., Coleman, J. J., Thomas, E. E., & Kafai, Y. B."
 ---
 
 # Restorying supports Black girls' identification of and resistance to dominant narratives in computing
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case · `i2` medium · n=1 focal case (a 15-year-old Black girl) from a workshop of 15 youth (14 consenting), 11 of whom were interviewed
 
 In a museum computing workshop using electronic quilting to enact womanist restorying, one Black girl explicitly deconstructed her group's dominant stereotype of computer scientists, designed a counter-narrative quilt patch centering a Black woman, and reported increased self-reported belonging and aspiration toward computing.
 

@@ -12,6 +12,7 @@ evidence_strength: emerging
 # Learning By Teaching Improves Mastery
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Preparing to teach — and actually teaching — newly learned material deepens understanding and retention relative to studying for a test or restudying alone. The claim covers both the *expectation* to teach (the "protégé effect") and the act of teaching itself; the two are separable and may contribute differently.
 

@@ -12,6 +12,7 @@ evidence_strength:
 # Generative Learning Improves Comprehension
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Learners who actively transform to-be-learned material — by summarizing, mapping, drawing, self-explaining, or teaching — comprehend it more deeply than learners who receive or reread it passively. The claim concerns deep comprehension and transfer, not verbatim recall.
 

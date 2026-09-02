@@ -11,6 +11,8 @@ sources:
     title: "Sweller, J., & Cooper, G. A. (1985). The use of worked examples as a substitute for problem solving in learning algebra. *Cognition and Instruction, 2*(1), 59-89. [https://doi.org/10.1207/s1532690xci0201_3](https://doi.org/10.1207/s1532690xci0201_3)"
     author: "Sweller, J., & Cooper, G. A"
     q: 3
+    i: 2
+    n: multiple class-based studies
 id: worked-examples-reduce-novice-search
 evidence_strength: moderate
 ---
@@ -18,6 +20,7 @@ evidence_strength: moderate
 # Worked examples reduce unnecessary search for novices.
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium · n=multiple class-based studies
 
 When novices study a fully or partially solved example before independent problem solving, they spend less effort on blind search and can devote more attention to understanding structure and procedure.
 

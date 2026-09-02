@@ -12,6 +12,7 @@ evidence_strength:
 # Dialogic Reading Improves Expressive Language
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Dialogic reading — an interactive shared-reading style in which the adult prompts the child to talk about the story, gives feedback, and gradually shifts more of the telling to the child — improves children's expressive language outcomes relative to typical shared reading. The claim is scoped to expressive (production) measures; receptive vocabulary gains are typically smaller or less consistent.
 

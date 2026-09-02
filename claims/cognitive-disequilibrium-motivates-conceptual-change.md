@@ -12,6 +12,7 @@ evidence_strength: weak
 # Cognitive disequilibrium motivates conceptual change
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 When learners encounter evidence or ideas that conflict with their existing conceptions, the resulting cognitive disequilibrium can motivate them to reorganize their knowledge — the mechanism by which conceptual change occurs.
 

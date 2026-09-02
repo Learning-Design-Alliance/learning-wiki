@@ -12,6 +12,7 @@ evidence_strength: moderate
 # Self Regulated Learning Predicts Achievement
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Learners who set goals, monitor their understanding, and adapt their strategies tend to earn higher achievement than learners who do not — but the relationship is correlational and moderated by context. [~M]
 

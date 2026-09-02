@@ -12,6 +12,7 @@ evidence_strength: low
 # Multimedia Learning More Effective With Words And Pictures
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 People learn better from words and pictures than from words alone: adding relevant graphics, animations, or illustrations to verbal explanations improves understanding and transfer. The claim concerns *instructionally relevant* visuals matched to the explanation — not decoration.
 

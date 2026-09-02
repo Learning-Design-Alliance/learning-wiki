@@ -12,6 +12,7 @@ evidence_strength: pending
 # Phoneme awareness is a stronger predictor of reading development than rhyme awareness
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Awareness of individual phonemes — the ability to segment and manipulate the smallest sound units in words — predicts later reading and spelling achievement more strongly than awareness of larger sound units such as rhymes and syllables.
 

@@ -12,6 +12,7 @@ evidence_strength: weak
 # Fiction Reading Improves Empathy
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Reading literary fiction — particularly narratives that require inferring characters' mental states — can improve readers' performance on emotion-recognition and mentalizing tasks, at least transiently.
 

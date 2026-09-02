@@ -12,6 +12,7 @@ evidence_strength: weak
 # Parent Involvement Improves Early Reading
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Parental engagement in home literacy activities — shared book reading, dialogic questioning, and structured home literacy routines — is associated with stronger early reading and emergent literacy outcomes. The claim covers parent-delivered literacy activities in the home during preschool and early-elementary years, not parental presence or general educational attainment.
 

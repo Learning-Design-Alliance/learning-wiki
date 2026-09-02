@@ -12,6 +12,7 @@ evidence_strength:
 # Unguided discovery is less effective than guided instruction for novices
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 For novices, instructional approaches in which learners must discover target concepts or procedures with minimal guidance produce weaker learning outcomes than approaches that provide explicit instructional guidance such as explanations, worked examples, or structured scaffolds.
 

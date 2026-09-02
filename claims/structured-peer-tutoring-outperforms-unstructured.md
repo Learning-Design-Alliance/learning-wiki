@@ -12,6 +12,7 @@ evidence_strength: moderate
 # Structured Peer Tutoring Outperforms Unstructured
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Peer tutoring produces larger learning gains when the tutoring relationship is structured — with defined roles, training for tutors, scripted or scaffolded interaction protocols, and regular monitoring — than when students are simply paired and told to help each other.
 

@@ -12,6 +12,7 @@ evidence_strength:
 # Feedback Use Improves Learning
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Learners benefit when they receive feedback on their performance and actively use it to revise their understanding or work. The claim centers on feedback **use** — revision, re-attempt, strategy adjustment — not merely feedback delivery.
 

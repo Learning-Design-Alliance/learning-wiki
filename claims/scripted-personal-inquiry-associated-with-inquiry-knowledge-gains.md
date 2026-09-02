@@ -13,12 +13,15 @@ sources:
     title: "Sharples, M., Scanlon, E., Ainsworth, S., Anastopoulou, S., Collins, T., Crook, C., Jones, A., Kerawalla, L., Littleton, K., Mulholland, P., & O'Malley, C. (2015). Personal Inquiry: Orchestrating Science Investigations Within and Beyond the Classroom. *Journal of the Learning Sciences, 24*(2), 308-341. [https://doi.org/10.1080/10508406.2014.944642](https://doi.org/10.1080/10508406.2014.944642)"
     author: "Sharples, M., Scanlon, E., Ainsworth, S., Anastopoulou, S., Collins, T., Crook, C., Jones, A., Kerawalla, L., Littleton, K., Mulholland, P., & O'Malley, C"
     q: 2
+    i: 1
+    n: 28 (intervention) and n=15 (control) Year 8 students for the quantitative comparison; separate after-school club sample (max 30, min 8 attendees) for the sustainability-attitude findings
     author: "Sharples, M., Scanlon, E., Ainsworth, S., Anastopoulou, S., Collins, T., Crook, C., Jones, A., Kerawalla, L., Littleton, K., Mulholland, P., & O'Malley, C."
 ---
 
 # Scripted personally meaningful inquiry is associated with gains in inquiry-decision accuracy, with mixed evidence on attitude and behavior change
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small · n=28 (intervention) and n=15 (control) Year 8 students for the quantitative comparison; separate after-school club sample (max 30, min 8 attendees) for the sustainability-attitude findings
 
 Across two design-based-research implementations of a personal-inquiry toolkit, students showed pre-to-post gains on a comic-format test of inquiry-decision accuracy relative to a non-equivalent control class, successfully carried out investigations across classroom, home, and field settings with only minor technical friction, and some students reported (via interview, not measurement) carrying sustainability-related purchasing changes home — though the authors themselves caution against strong causal or attitude-change conclusions.
 

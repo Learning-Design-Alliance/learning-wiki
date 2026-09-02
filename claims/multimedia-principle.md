@@ -12,6 +12,7 @@ evidence_strength:
 # People learn better from words and pictures than from words alone
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 The multimedia principle (Mayer) holds that adding relevant pictures, diagrams, or animations to verbal instruction improves learning, because learners can build both verbal and pictorial mental models and the connections between them.
 

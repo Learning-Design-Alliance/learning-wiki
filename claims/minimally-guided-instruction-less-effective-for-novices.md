@@ -12,6 +12,7 @@ evidence_strength: strong
 # Minimally Guided Instruction Less Effective For Novices
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 For learners who lack prior knowledge of a domain, instructional approaches that place the burden of discovering key concepts on the learner (discovery learning, pure problem-based or inquiry formats with minimal scaffolding) produce weaker learning outcomes than approaches that provide explicit guidance, structure, and worked models.
 

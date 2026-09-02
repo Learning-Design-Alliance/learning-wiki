@@ -12,6 +12,7 @@ evidence_strength:
 # Desirable Difficulties Enhance Learning
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Introducing certain effortful conditions during learning — such as retrieval practice, spacing, and interleaving — can slow visible performance during instruction while improving long-term retention and transfer. The claim is about *desirable* difficulties specifically: conditions that are effortful but surmountable, not obstacles that exceed the learner's capacity.
 

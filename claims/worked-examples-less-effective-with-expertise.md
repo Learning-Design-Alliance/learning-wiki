@@ -11,6 +11,8 @@ sources:
     title: "Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23-31. [https://doi.org/10.1207/S15326985EP3801_4](https://doi.org/10.1207/S15326985EP3801_4)"
     author: "Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J"
     q: 3
+    i: 2
+    n: multiple studies
 id: worked-examples-less-effective-with-expertise
 evidence_strength: moderate
 ---
@@ -18,6 +20,7 @@ evidence_strength: moderate
 # Worked-example guidance becomes less effective as learner expertise increases.
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium · n=multiple studies
 
 The supports that help novices during initial acquisition can become redundant for more experienced learners, reducing efficiency and sometimes depressing performance.
 

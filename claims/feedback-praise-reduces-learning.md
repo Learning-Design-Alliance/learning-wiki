@@ -12,6 +12,7 @@ evidence_strength: weak
 # Feedback Praise Reduces Learning
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Praise embedded in instructional feedback — especially person-directed praise ("you're so smart") and praise unrelated to the task — can undermine learning by diverting attention from the work, reinforcing fixed self-perceptions, and diluting the informational content of feedback. The claim is scoped to praise as a component of feedback on academic work; it does not assert that praise harms motivation or relationships in all contexts.
 

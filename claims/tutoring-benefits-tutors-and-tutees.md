@@ -12,6 +12,7 @@ evidence_strength:
 # Tutoring benefits both tutors and tutees
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Tutoring is typically framed as a benefit to the tutee, but a substantial body of theory and practice holds that the tutor also gains — through explaining, monitoring, and restructuring their own understanding. This page covers reciprocal and cross-age tutoring arrangements in which learners alternate or take on the tutor role.
 

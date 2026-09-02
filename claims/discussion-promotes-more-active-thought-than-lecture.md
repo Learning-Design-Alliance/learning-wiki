@@ -27,11 +27,13 @@ sources:
     q: 2
     i: 1
     n: synthesis across many contributing studies
+    n: synthesis across many contributing studies
 ---
 
 # Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 3 studies · `q2`–`q3` · `i1`–`i2`
 
 Lecture is not a uniformly inferior instructional method — reviews find it performs about as well as most alternatives for the specific goal of transmitting information. But for the distinct goal of promoting active thought (problem-solving, synthesis, application), lecture measurably underperforms discussion, plausibly because a lecture's passive listener role leaves little cognitive room for anything beyond selecting information and note-taking.
 

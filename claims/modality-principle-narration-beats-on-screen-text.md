@@ -12,6 +12,7 @@ evidence_strength:
 # Modality Principle Narration Beats On Screen Text
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Presenting words as spoken narration rather than as on-screen text improves learning from multimedia lessons that include visual graphics.
 

@@ -13,12 +13,15 @@ sources:
     title: "Liukkonen, P., Vartiainen, H., Pöllänen, S., & Kokko, S. (2023). Interacting with nature in and through boundary crossing learning: A case of bioart-making. *Journal of the Learning Sciences, 32*(4-5), 534-572. [https://doi.org/10.1080/10508406.2023.2263845](https://doi.org/10.1080/10508406.2023.2263845)"
     author: "Liukkonen, P., Vartiainen, H., Pöllänen, S., & Kokko, S"
     q: 1
+    i: 1
+    n: 6 upper-secondary students, 2 teachers, 2 domain experts (a bioartist and a researcher), one intensive week
     author: "Liukkonen, P., Vartiainen, H., Pöllänen, S., & Kokko, S."
 ---
 
 # Multivoiced boundary crossing supports holistic nature connection and ethical reflection
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case · `i1` small · n=6 upper-secondary students, 2 teachers, 2 domain experts (a bioartist and a researcher), one intensive week
 
 A bioart-making project structured to cross institutional, interpersonal, and intrapersonal boundaries let students engage nature across material, experiential, cognitive, emotional, and philosophical dimensions simultaneously rather than sequentially, with material/sensory encounters prompting spontaneous ethical reflection about organism use.
 

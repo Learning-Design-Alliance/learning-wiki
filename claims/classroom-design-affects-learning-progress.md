@@ -12,16 +12,22 @@ sources:
     title: "Barrett, P., Davies, F., Zhang, Y., & Barrett, L. (2015). The impact of classroom design on pupils' learning: Final results of a holistic, multi-level analysis. *Building and Environment, 89*, 118–133. [doi:10.1016/j.buildenv.2015.02.013](https://doi.org/10.1016/j.buildenv.2015.02.013)"
     author: "Barrett, P., Davies, F., Zhang, Y., & Barrett, L"
     q: 2
+    i: 2
+    n: 3766 pupils, 153 classrooms, 27 schools
   - id: barrett-et-al-2013
     resource: "https://doi.org/10.1016/j.buildenv.2012.09.016"
     title: "Barrett, P., Zhang, Y., Moffat, J., & Kobbacy, K. (2013). A holistic, multi-level analysis identifying the impact of classroom design on pupils' learning. *Building and Environment, 59*, 678–689. [doi:10.1016/j.buildenv.2012.09.016](https://doi.org/10.1016/j.buildenv.2012.09.016)"
     author: "Barrett, P., Zhang, Y., Moffat, J., & Kobbacy, K"
     q: 2
+    i: 2
+    n: 751 pupils, 34 classrooms, 7 schools
   - id: cheryan-et-al-2014
     resource: "https://doi.org/10.1177/2372732214548677"
     title: "Cheryan, S., Ziegler, S. A., Plaut, V. C., & Meltzoff, A. N. (2014). Designing classrooms to maximize student achievement. *Policy Insights from the Behavioral and Brain Sciences, 1*(1), 4–12. [doi:10.1177/2372732214548677](https://doi.org/10.1177/2372732214548677)"
     author: "Cheryan, S., Ziegler, S. A., Plaut, V. C., & Meltzoff, A. N"
     q: 2
+    i: 1
+    n: N/A (review)
 id: classroom-design-affects-learning-progress
 evidence_strength: moderate
 ---
@@ -29,6 +35,7 @@ evidence_strength: moderate
 # Classroom Design Affects Learning Progress
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 3 studies · `q2` quasi-experiment · `i1`–`i2`
 
 The physical characteristics of a classroom — daylight, air quality, temperature, acoustics, layout flexibility, learner ownership of the space, and the amount of visual stimulation on its walls — account for a measurable share of the variation in how much pupils learn over a school year. The claim is about *progress attributable to the room*, holding teacher and intake constant; it is not a claim that design substitutes for instruction.
 

@@ -12,6 +12,7 @@ evidence_strength: weak
 # Laptop note-taking tends toward verbatim transcription and shallower learning than longhand note-taking
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 The proposed mechanism is that laptops, being faster than handwriting, invite learners to transcribe lectures word-for-word rather than summarizing, paraphrasing, and selecting — encoding processes that support comprehension. The claim concerns the *style* of note-taking that each medium tends to induce, not an inherent property of the devices themselves.
 

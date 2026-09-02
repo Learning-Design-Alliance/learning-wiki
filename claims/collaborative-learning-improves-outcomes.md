@@ -12,6 +12,7 @@ evidence_strength: moderate
 # Collaborative Learning Improves Outcomes
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Structured collaborative learning — where students work interdependently toward shared goals with individual accountability — produces higher achievement than individualistic instruction. The claim applies to *structured* collaboration; unstructured group work is not covered.
 

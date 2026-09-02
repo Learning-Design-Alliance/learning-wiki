@@ -12,6 +12,7 @@ evidence_strength: low
 # Sequencing worked examples with practice problems improves learning for novices
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 This claim concerns how [worked examples](../elements/demonstration.md) and [practice problems](../elements/practice.md) should be ordered and combined — e.g., example–problem pairs, faded examples, or example-first sequences — rather than whether examples help at all.
 

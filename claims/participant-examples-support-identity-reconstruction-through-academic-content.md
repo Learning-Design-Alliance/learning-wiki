@@ -13,12 +13,15 @@ sources:
     title: "Cohen, E., Hod, Y., & Ben-Zvi, D. (2023). From \"Carrier\" to \"Creator\": The re-construction of national identity in more inclusive terms. *Journal of the Learning Sciences, 32*(3), 427-454. [https://doi.org/10.1080/10508406.2023.2185147](https://doi.org/10.1080/10508406.2023.2185147)"
     author: "Cohen, E., Hod, Y., & Ben-Zvi, D"
     q: 1
+    i: 2
+    n: 1 focal case (a 9th-grade secular Jewish-Israeli student), drawn from a class of 38 in a design combining collaborative online knowledge-building with humanistic classroom practices
     author: "Cohen, E., Hod, Y., & Ben-Zvi, D."
 ---
 
 # Participant examples support identity reconstruction through academic content
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case · `i2` medium · n=1 focal case (a 9th-grade secular Jewish-Israeli student), drawn from a class of 38 in a design combining collaborative online knowledge-building with humanistic classroom practices
 
 Over a four-month knowledge-building unit presenting national identity as a contested, multiply-defined category, one student's language use shifted from essentialist uncertainty about his own identity category membership toward a confident, constructionist stance — a shift documented through his use of an academic case as a [participant example](../elements/participant-examples.md), positioning himself as analogous to the case's subject.
 

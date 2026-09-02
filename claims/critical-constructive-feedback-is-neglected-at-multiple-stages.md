@@ -13,12 +13,15 @@ sources:
     title: "Tärning, B., Lee, Y. J., Andersson, R., Månsson, K., Gulz, A., & Haake, M. (2020). Assessing the black box of feedback neglect in a digital educational game for elementary school. *Journal of the Learning Sciences, 29*(4-5), 511-549. [https://doi.org/10.1080/10508406.2020.1770092](https://doi.org/10.1080/10508406.2020.1770092)"
     author: "Tärning, B., Lee, Y. J., Andersson, R., Månsson, K., Gulz, A., & Haake, M"
     q: 3
+    i: 2
+    n: 46 Swedish fifth-graders (36 with complete eye-tracking data), 424-451 feedback instances
     author: "Tärning, B., Lee, Y. J., Andersson, R., Månsson, K., Gulz, A., & Haake, M."
 ---
 
 # Critical constructive feedback is neglected at multiple, independently measurable processing stages
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium · n=46 Swedish fifth-graders (36 with complete eye-tracking data), 424-451 feedback instances
 
 Using eye-tracking and interaction logs to separate noticing, reading, acting-upon, and progress, only 4.5% of feedback instances in a real classroom digital game survived all four stages; a pointing, gazing pedagogical agent significantly increased noticing and reading (but not acting-upon or progress), while an equivalent arrow cue did not.
 

@@ -12,6 +12,7 @@ evidence_strength:
 # Direct instruction improves learning outcomes
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Explicit, teacher-led instruction — clear objectives, modeling, guided practice with feedback, and independent practice — produces stronger learning outcomes than discovery-only approaches, particularly for novices and structured domains.
 

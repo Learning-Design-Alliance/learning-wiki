@@ -12,6 +12,7 @@ evidence_strength: pending
 # Self Regulated Learning Strategy Instruction Improves Achievement
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Explicit instruction in self-regulated learning (SRL) strategies — goal setting, planning, monitoring, and evaluating one's own learning — raises academic achievement.
 

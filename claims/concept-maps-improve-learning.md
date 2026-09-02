@@ -12,6 +12,7 @@ evidence_strength:
 # Concept mapping improves learning outcomes
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Constructing concept maps — node-link diagrams depicting relationships among concepts — helps learners organize knowledge structurally, which can improve meaningful learning and retention compared with non-structural study activities.
 

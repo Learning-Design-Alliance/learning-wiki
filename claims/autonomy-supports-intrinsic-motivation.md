@@ -11,16 +11,22 @@ sources:
     title: "Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78. [https://doi.org/10.1037/0003-066X.55.1.68](https://doi.org/10.1037/0003-066X.55.1.68)"
     author: "Ryan, R. M., & Deci, E. L"
     q: 4
+    i: 2
+    n: N/A
   - id: deci-koestner-ryan-1999
     resource: "https://doi.org/10.1037/0033-2909.125.6.627"
     title: "Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 125*(6), 627–668. [https://doi.org/10.1037/0033-2909.125.6.627](https://doi.org/10.1037/0033-2909.125.6.627)"
     author: "Deci, E. L., Koestner, R., & Ryan, R. M"
     q: 4
+    i: 2
+    n: 128 studies
   - id: stefanou-et-al-2004
     resource: "https://doi.org/10.1207/s15326985ep3902_2"
     title: "Stefanou, C. R., Perencevich, K. C., DiCintio, M., & Turner, J. C. (2004). Supporting autonomy in the classroom: Ways teachers encourage student decision making and ownership. *Educational Psychologist, 39*(2), 97–110. [https://doi.org/10.1207/s15326985ep3902_2](https://doi.org/10.1207/s15326985ep3902_2)"
     author: "Stefanou, C. R., Perencevich, K. C., DiCintio, M., & Turner, J. C"
     q: 3
+    i: 2
+    n: N/A
 id: autonomy-supports-intrinsic-motivation
 evidence_strength: strong
 ---
@@ -28,6 +34,7 @@ evidence_strength: strong
 # Autonomy support increases intrinsic motivation, engagement, and persistence in learning.
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 3 studies · `q3`–`q4` · `i2` medium
 
 When learners experience meaningful choice, volition, and internal causality — rather than external control — they show greater intrinsic motivation, deeper engagement, and longer persistence. The mechanism is not choice for its own sake but perceived self-determination: the sense that one is acting from one's own values rather than external pressure.
 

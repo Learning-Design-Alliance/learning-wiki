@@ -13,12 +13,15 @@ sources:
     title: "Popa, N., Anderson, E. R., Denner, J., McKenney, S., & Peurach, D. J. (2023). Belonging to a research-practice partnership: Lessons from 15 think-pieces about the COVID-19 pandemic and a call for action. *Journal of the Learning Sciences, 32*(4-5), 682-704. [https://doi.org/10.1080/10508406.2023.2253529](https://doi.org/10.1080/10508406.2023.2253529)"
     author: "Popa, N., Anderson, E. R., Denner, J., McKenney, S., & Peurach, D. J"
     q: 1
+    i: 1
+    n: 21 contributors across 15 think-pieces, drawing on multiple named RPPs (e.g., Boston P-3 RPP, Houston Education Research Consortium)
     author: "Popa, N., Anderson, E. R., Denner, J., McKenney, S., & Peurach, D. J."
 ---
 
 # Relational trust and rapid-response adaptation help research-practice partnerships survive acute disruption
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case · `i1` small · n=21 contributors across 15 think-pieces, drawing on multiple named RPPs (e.g., Boston P-3 RPP, Houston Education Research Consortium)
 
 When an acute disruption (e.g., a pandemic) hits, research-practice partnerships (RPPs) that had already built relational trust and embedded-researcher relationships could pivot to rapid, practically useful work — even at the cost of publishable rigor — and partners reported this strengthened rather than weakened the partnership.
 

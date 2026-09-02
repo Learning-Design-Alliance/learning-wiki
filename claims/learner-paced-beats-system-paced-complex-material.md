@@ -12,6 +12,7 @@ evidence_strength: low
 # Learner Paced Beats System Paced Complex Material
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 For complex material, allowing learners to control the pace of instruction (pause, replay, slow down) produces better learning than a fixed, system-controlled pace, because pacing control lets learners manage cognitive load.
 

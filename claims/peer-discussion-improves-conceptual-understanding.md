@@ -12,6 +12,7 @@ evidence_strength: weak
 # Peer Discussion Improves Conceptual Understanding
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Structured discussion with peers — articulating reasoning, confronting alternative ideas, and negotiating shared understanding — deepens conceptual learning beyond what passive reception achieves. The claim is scoped to *conceptual* outcomes (explanations, transfer, misconception resolution), not procedural fluency or recall.
 

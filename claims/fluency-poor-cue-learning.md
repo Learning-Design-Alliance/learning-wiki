@@ -12,6 +12,7 @@ evidence_strength: moderate
 # Fluency is a poor cue for actual learning
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Learners often judge how well they have learned something by how easy and fluent it feels to process — but this subjective fluency frequently diverges from actual retention and transfer. The claim concerns fluency *as a metacognitive cue* (judgments of learning), not fluency as a design goal.
 

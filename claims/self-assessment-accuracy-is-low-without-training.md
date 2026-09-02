@@ -12,6 +12,7 @@ evidence_strength: moderate
 # Self Assessment Accuracy Is Low Without Training
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Untrained learners systematically misjudge their own performance — typically overestimating it — and self-assessment only becomes reasonably accurate after explicit training, practice with feedback, and access to clear criteria.
 

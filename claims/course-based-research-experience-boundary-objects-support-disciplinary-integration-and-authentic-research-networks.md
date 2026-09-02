@@ -10,13 +10,18 @@ evidence_strength: moderate
 sources:
   - id: papendieck-clarke-2024
     resource: "https://doi.org/10.1080/10508406.2024.2347597"
-    title: "Papendieck, A., & Clarke, J. A. (2024). Curiosity to Question: Tracing productive engagement in an interdisciplinary course-based research experience. Journal of the Learning Sciences, 33(2), 323-364."
+    title: "Papendieck, A., & Clarke, J. A. (2024). Curiosity to Question: Tracing productive engagement in an interdisciplinary course-based research experience. *Journal of the Learning Sciences, 33*(2), 323-364. [https://doi.org/10.1080/10508406.2024.2347597](https://doi.org/10.1080/10508406.2024.2347597)"
+    author: "Papendieck, A., & Clarke, J. A"
+    q: 2
+    i: 2
+    n: 96 students (62 undergraduate, 34 graduate) across 6 cohorts; 65 interviewed; 57 survey respondents
     author: "Papendieck, A., & Clarke, J. A."
 ---
 
 # Course-based research experience boundary objects support disciplinary integration and authentic research networks
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium · n=96 students (62 undergraduate, 34 graduate) across 6 cohorts; 65 interviewed; 57 survey respondents
 
 Organizing an interdisciplinary Course-Based Research Experience around a shared scientific-paper boundary object — that shifts function from compelling, to concrete, to normative, to novel across the term — helped disciplinarily diverse students integrate disciplinary differences and connected them to authentic research networks beyond the classroom, though students used varied and sometimes divergent tactics to cope with unresolved disciplinary disagreements.
 

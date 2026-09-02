@@ -12,6 +12,7 @@ evidence_strength: weak
 # Goal setting improves performance
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 The claim is currently a placeholder: no scope or mechanism has been specified and no evidence has been curated yet (see Subclaims and Evidence below).
 

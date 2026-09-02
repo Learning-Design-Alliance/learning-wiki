@@ -12,6 +12,7 @@ evidence_strength:
 # Phonics Instruction Outperforms Whole Word For Generalization
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Systematic phonics instruction — teaching letter–sound correspondences explicitly — produces stronger transfer to novel words than whole-word (look-and-say) approaches, because it equips learners with a generative decoding strategy rather than a finite store of memorized word forms.
 

@@ -12,6 +12,7 @@ evidence_strength:
 # Annotating improves learning
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Learners who actively mark up texts — highlighting, underlining, margin notes, and other generative annotations — tend to process material more deeply than passive readers. The scope of this claim covers learner-generated annotations on text and multimedia, not instructor-supplied annotations.
 

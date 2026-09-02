@@ -12,6 +12,7 @@ evidence_strength: weak
 # Dual Coding Improves Recall
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Information presented as coordinated verbal and visual representations is remembered better than the same information presented in a single format, because each code provides a separate retrieval route and the two can be referentially connected.
 

@@ -12,6 +12,7 @@ evidence_strength: moderate
 # Multimedia Principles Benefit Novices
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Multimedia design principles — presenting words and pictures together, excluding extraneous material, and managing channels and segments — tend to yield larger learning benefits for learners with low prior knowledge than for more experienced learners.
 

@@ -12,6 +12,7 @@ evidence_strength: unrated
 # Productive Failure Improves Conceptual Learning
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 When learners attempt to solve novel problems *before* receiving canonical instruction, they often perform worse on those attempts but learn more from the subsequent instruction than learners who receive instruction first.
 
