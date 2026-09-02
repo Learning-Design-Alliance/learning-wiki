@@ -764,6 +764,23 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Page-type banner">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#seeing-the-rest-of-the-frontmatter" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Seeing the rest of the frontmatter
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -1156,6 +1173,23 @@
       
     </span>
   </a>
+  
+    <nav class="md-nav" aria-label="Page-type banner">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#seeing-the-rest-of-the-frontmatter" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Seeing the rest of the frontmatter
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -1977,6 +2011,19 @@ safe to re-run at any time. <code>--check</code> reports without writing.</p>
 already accepts for <code>sources:</code> mirroring the citations in <code>## Key Sources</code>: a structured field
 and a human-readable rendering of the same fact, kept in sync by a lint check rather than by
 dropping one.</p>
+<h3 id="seeing-the-rest-of-the-frontmatter">Seeing the rest of the frontmatter<a class="headerlink" href="#seeing-the-rest-of-the-frontmatter" title="Permanent link">&para;</a></h3>
+<p>The banner covers one field. <code>docs_hooks/page_metadata.py</code> — a native mkdocs hook, so no
+new dependency — appends a collapsed <strong>Page metadata</strong> panel to every content page with the
+whole block: <code>type</code>, <code>id</code>, <code>aliases</code>, <code>status</code>, who generated it and when, the <code>sources</code>
+count and ids, and anything else the page carries, including fields added to the schema
+later.</p>
+<p>It also renders the <strong>trust tier</strong> that CLAUDE.md derives from <code>verified</code> but nothing has
+ever displayed — unverified / machine-confirmed / human-reviewed. That turned out to matter
+immediately: <strong>no page in the wiki carries a <code>verified:</code> entry.</strong> The only match in the repo
+is the example in this file. Every one of the 3,721 content pages reads "unverified — no one
+has confirmed this page's content", which is accurate and was previously invisible.</p>
+<p>Index pages, <code>log.md</code> and this file are skipped, and so is any page without a <code>type:</code> —
+those are OKF-reserved or not content.</p>
 <hr />
 <h2 id="renaming-a-page">Renaming a page<a class="headerlink" href="#renaming-a-page" title="Permanent link">&para;</a></h2>
 <p>Renaming a page is two jobs, and <code>git mv</code> only does the first. Nothing else in
