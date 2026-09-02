@@ -2114,6 +2114,7 @@ indexes with <code>python3 scripts/build_indexes.py</code>.</p>
     log_revision.py    ← records a revision card + updates a page's `generated` field + appends to log.md
     log_source_review.py ← appends one entry to sources/manifest.ndjson (see Source Manifest below)
     add_type_banner.py ← inserts/refreshes the page-type banner under each page's H1 (see below)
+    add_evidence_summary.py ← the `&gt; **Evidence** ·` header line on claim pages (see below)
     update_links_for_renames.py ← after pages are renamed, re-points every inbound cross-link (see below)
     page_identity.py   ← stable `id:`/`aliases:` for the kinds design docs point at (see below)
     build_reverse_index.py ← who points at this page, as shippable data (see below)
@@ -2608,6 +2609,29 @@ with nothing next to them saying what the numbers mean. The tables were always h
 this file is in the nav as <em>Schema &amp; Guide</em>, so it was a proximity problem, not a missing
 docs one. Not tooltips: the codes sit inside code spans, and neither <code>abbr</code> nor Material's
 tooltips reach inside a <code>&lt;code&gt;</code> element.</p>
+<p><strong>A claim's header states its weight.</strong> <code>scripts/add_evidence_summary.py</code> puts a second
+banner line directly under the type banner, so an agent resolving <code>research:&lt;claim-slug&gt;</code>
+and a reader landing on the page both see what the claim rests on without scrolling:</p>
+<div class="highlight"><pre><span></span><code><span class="k">&gt; </span><span class="ge">**Claim** · [All claims](index.md)</span>
+<span class="k">&gt; </span><span class="ge">**Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium · n=48</span>
+</code></pre></div>
+<p>It reads the same <code>sources[]</code> codes, so the header cannot disagree with the entries it
+summarises. It <strong>never collapses them into a verdict</strong> — a claim resting on studies coded
+q2 and q4 reports <code>q2</code>–<code>q4</code>, not "moderate". That is what <code>evidence_strength:</code> tried and
+why it produced nineteen spellings; the range is derived, a verdict would be invented. And
+a claim with no coded evidence says <code>&gt; **Evidence** · none recorded yet</code> rather than
+carrying no line: 313 of 422 claim pages are stubs, and "no line" cannot be told from "the
+script never ran here".</p>
+<p><strong>The codes line is written two ways, and the parser must read both.</strong></p>
+<div class="highlight"><pre><span></span><code><span class="sb">`q3 · peer-reviewed experiment · i2 · medium effect · n=48`</span>        one span
+<span class="sb">`q3 · peer-reviewed experiment`</span> · <span class="sb">`i2 · medium effect`</span> · <span class="sb">`n=48`</span>    three spans
+</code></pre></div>
+<p>The three-span form is <strong>dominant — 108 entries against 22</strong> — and the first version of
+<code>parse_evidence_codes</code> required a single span, so it captured <code>q</code> from both and <code>i</code>/<code>n</code>
+from only the 22, silently. It had been written from one example page without checking
+which spelling the corpus used. Fixed: it takes every backtick span on the codes line and
+looks for each code independently, recovering <code>i</code> and <code>n</code> on 121 entries. Coverage went
+from 143/22/22 to 149/149/143.</p>
 <p><strong>Impact magnitude (i):</strong>
 | i | Rough effect size |
 |---|-------------------|
