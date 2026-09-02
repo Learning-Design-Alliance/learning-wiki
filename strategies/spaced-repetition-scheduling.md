@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: spaced-repetition-scheduling
 title: Spaced Repetition Scheduling
 description: Scheduling review of material at increasing intervals over time rather than massing it into a single session, so each review occurs just as forgetting begins.
 status: review

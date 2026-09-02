@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: letter-formation-practice
 title: Letter Formation Practice
 description: Repeated, structured practice producing letterforms by hand, typically with stroke-direction models, verbal mediation, and feedback, to build automatic letter production.
 status: review

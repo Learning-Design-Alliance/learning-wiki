@@ -10,7 +10,7 @@ sources:
     resource: "https://doi.org/10.1207/S15326985EP3801_4"
     title: "Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23-31. [https://doi.org/10.1207/S15326985EP3801_4](https://doi.org/10.1207/S15326985EP3801_4)"
     author: "Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J"
-id: clt-1
+id: expertise-reversal-effect
 evidence_strength: moderate
 ---
 

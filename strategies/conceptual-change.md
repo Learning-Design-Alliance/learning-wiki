@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: conceptual-change
 title: Conceptual Change
 description: Instruction designed to replace learners' intuitive but inaccurate prior conceptions with scientifically accurate ones, typically by surfacing misconceptions and creating cognitive conflict.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-questioning
 title: Self Questioning
 description: Self questioning prompts learners to generate and answer their own questions about material, directing attention, deepening processing, and monitoring understanding.
 status: review

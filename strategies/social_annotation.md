@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: social_annotation
 title: Social Annotation
 description: Social annotation is a collaborative method where learners add notes, comments, and multimedia to shared texts and media, turning reading into an anchored, interactive conversation.
 status: review

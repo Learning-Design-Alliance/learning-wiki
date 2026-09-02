@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: racial_equity_in_pbl_-_focus_projects_on_issues_of_justice
 title: Racial Equity in PBL - Focus Projects on Issues of Justice
 description: Authentic projects that address issues of justice lead to higher student engagement because students are doing work that matters, work that impacts their community, their lives, the lives of those they love and deeply care about.
 status: review

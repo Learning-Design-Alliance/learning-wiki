@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: targeted_networking
 title: Targeted Networking
 description: Focusing relationship-building effort on specific people, groups, and activities aligned with one's goals and interests, prioritizing depth and shared purpose over breadth of contacts.
 status: review

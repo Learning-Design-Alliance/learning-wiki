@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: attribution-retraining
 title: Attribution Retraining
 description: A motivational intervention that guides learners to reattribute failure to controllable, changeable causes (effort, strategy) rather than fixed ones (ability, luck).
 status: review

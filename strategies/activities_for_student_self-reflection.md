@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: activities_for_student_self-reflection
 title: Activities for Student Self-Reflection
 description: Structured activities that prompt students to examine their own learning processes, understanding, and progress in order to build metacognition and self-regulation.
 status: review

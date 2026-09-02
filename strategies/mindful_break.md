@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mindful_break
 title: Mindful Break
 description: A mindful break involves students ringing a bell when they feel the class needs a break, stopping the lesson, standing up and stretching in silence, and then sitting down for mindful breathing.
 status: review

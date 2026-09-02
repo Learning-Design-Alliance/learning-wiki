@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: number-talks
 title: Number Talks
 description: A short, routine classroom discourse activity in which students mentally solve a computation problem and discuss their strategies, making arithmetic reasoning visible and comparable.
 status: review

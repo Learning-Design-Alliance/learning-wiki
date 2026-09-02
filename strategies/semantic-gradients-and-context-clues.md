@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: semantic-gradients-and-context-clues
 title: Semantic Gradients And Context Clues
 description: A vocabulary strategy pairing ordered word continua (semantic gradients) with explicit instruction in inferring word meanings from surrounding text context.
 status: review

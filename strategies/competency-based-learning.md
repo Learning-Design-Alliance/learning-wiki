@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: competency-based-learning
 title: Competency Based Learning
 description: Learners advance by demonstrating mastery of defined competencies rather than by accumulating seat time, with assessment and pacing tied to evidence of proficiency.
 status: review

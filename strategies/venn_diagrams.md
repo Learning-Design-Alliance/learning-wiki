@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: venn_diagrams
 title: Venn Diagrams
 description: Venn diagrams are visual organizers that emphasize comparisons and contrasts between two or more items or concepts.
 status: review

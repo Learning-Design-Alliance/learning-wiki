@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: gallery_quote_walk
 title: Gallery Quote Walk
 description: Students select a displayed quote that expresses how they feel in the moment, physically position themselves by it, and share their choice with peers.
 status: review

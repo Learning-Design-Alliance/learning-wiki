@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: discipline-specific_literacy
 title: Discipline-Specific Literacy
 description: Discipline-specific literacy involves explicitly teaching the reading, writing, speaking, and thinking practices unique to each subject area, rather than treating literacy as a generic, transferable skill.
 status: review

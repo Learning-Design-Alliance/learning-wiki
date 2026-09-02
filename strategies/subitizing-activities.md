@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: subitizing-activities
 title: Subitizing Activities
 description: Brief, repeated activities that build learners' ability to instantly recognize small quantities without counting, forming a foundation for arithmetic.
 status: review

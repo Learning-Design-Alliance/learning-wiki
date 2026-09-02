@@ -1,5 +1,6 @@
 ---
 type: element
+id: flipped-classroom
 title: Flipped Classroom
 description: Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.
 status: review

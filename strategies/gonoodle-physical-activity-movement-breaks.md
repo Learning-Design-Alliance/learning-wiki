@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: gonoodle-physical-activity-movement-breaks
 title: "GoNoodle: Physical Activity & Movement Breaks"
 description: "GoNoodle provides short, structured videos that guide students through movement, dance, and mindfulness breaks to restore attention and support self-regulation during the school day."
 status: review

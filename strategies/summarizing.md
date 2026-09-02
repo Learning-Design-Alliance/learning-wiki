@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: summarizing
 title: Summarizing
 description: Summarizing involves integrating important information from a text or problem to create a concise overview, including justifying solutions and explaining the strategies used.
 status: review

@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Relational trust and rapid-response adaptation help research-practice partnerships survive acute disruption
-id: rpp-1
+id: rpp-adaptive-practices-sustain-partnerships-during-disruption
 status: draft
 generated:
   by: claude/unspecified

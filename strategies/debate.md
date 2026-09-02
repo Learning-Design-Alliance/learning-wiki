@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: debate
 title: Debate
 description: Learners argue assigned positions on a contested question, responding to opposing arguments under structured rules.
 status: review

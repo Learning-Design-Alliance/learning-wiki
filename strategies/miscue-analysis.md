@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: miscue-analysis
 title: Miscue Analysis
 description: A diagnostic reading assessment in which a learner reads aloud from connected text while the teacher records and analyzes deviations ("miscues") to infer the reader's use of cueing systems and comprehension strategies.
 status: review

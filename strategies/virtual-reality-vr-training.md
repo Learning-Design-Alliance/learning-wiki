@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: virtual-reality-vr-training
 title: Virtual Reality (VR) Training
 description: VR training places learners inside simulated, interactive 3D environments where they can rehearse procedures and decisions safely before performing them in real settings.
 status: review

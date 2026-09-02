@@ -1,5 +1,6 @@
 ---
 type: element
+id: individual-reflection
 title: Individual Reflection
 description: Learners independently analyze their own thought processes, decisions, and learning experiences to build self-awareness and improve future performance.
 status: review

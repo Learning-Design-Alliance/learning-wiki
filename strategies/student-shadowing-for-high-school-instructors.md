@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: student-shadowing-for-high-school-instructors
 title: Student Shadowing (for high school instructors)
 description: A veteran teacher or coach shadows one or two students for a couple of days to gain insights into their experiences.
 status: review

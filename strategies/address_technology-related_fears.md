@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: address_technology-related_fears
 title: Address Technology-Related Fears
 description: "Recognize and address adult learners' fears related to technology, such as data loss, privacy concerns, or damaging equipment."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: estimation-warm-ups
 title: Estimation Warm Ups
 description: Brief, low-stakes opening activities in which learners estimate a quantity, magnitude, or answer before computing or measuring it, building number sense and activating prior knowledge.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mass-density-and-buoyancy-experiments
 title: Mass, Density, and Buoyancy Experiments
 description: Learners explore how mass and density determine buoyancy by comparing object behavior across liquids and correlating weight with water displacement.
 status: review

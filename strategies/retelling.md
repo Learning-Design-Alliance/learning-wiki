@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: retelling
 title: Retelling
 description: Learners reconstruct a text, story, or event in their own words, making their comprehension visible and strengthening memory through generative recall.
 status: review

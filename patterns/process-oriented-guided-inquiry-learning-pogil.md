@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: process-oriented-guided-inquiry-learning-pogil
 title: Process-Oriented Guided Inquiry Learning (POGIL)
 description: POGIL is a team-based inquiry pattern in which learners work through carefully designed activities that move from exploration to concept invention to application.
 status: review

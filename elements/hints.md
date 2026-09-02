@@ -1,5 +1,6 @@
 ---
 type: element
+id: hints
 title: Hints
 description: Hints are partial prompts or cues that help learners continue a task without fully giving away the answer.
 status: review

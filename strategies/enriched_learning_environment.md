@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: enriched_learning_environment
 title: Enriched Learning Environment
 description: Creating a brain-friendly and enriched classroom environment involves optimizing the learning space by considering layout, furniture choices, color selections, lighting, nature, environmental print, and organization of materials.
 status: review

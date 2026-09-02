@@ -1,5 +1,6 @@
 ---
 type: principle
+id: self-regulated-learning
 title: Self-Regulated Learning
 description: Self-regulated learning is the principle of designing instruction so learners can plan, monitor, adjust, and reflect on their own learning processes.
 status: review

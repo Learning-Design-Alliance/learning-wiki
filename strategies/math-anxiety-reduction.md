@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: math-anxiety-reduction
 title: Math Anxiety Reduction
 description: Design and instructional moves that lower learners' anxiety about mathematics so working memory and attention can be directed at learning rather than worry.
 status: review

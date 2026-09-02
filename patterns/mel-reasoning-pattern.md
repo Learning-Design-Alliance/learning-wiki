@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: mel-reasoning-pattern
 title: MEL Reasoning Pattern
 description: MEL Reasoning Pattern is the short-form canonical target for the Model-Evidence-Link reasoning pattern, which asks learners to evaluate how evidence supports, challenges, or revises a model or explanation.
 status: review

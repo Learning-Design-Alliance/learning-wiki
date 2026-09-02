@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: three-tiered_writing_conferences
 title: Three-Tiered Writing Conferences
 description: A structured format for brief one-to-one writing conferences that sequences feedback through three perspectives — personal reader, community member, and teacher — ending with student reflection and planning.
 status: review

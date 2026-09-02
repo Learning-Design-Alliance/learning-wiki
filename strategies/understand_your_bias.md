@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: understand_your_bias
 title: Understand Your Bias
 description: A reflective activity that surfaces learners' personal stereotypes and prejudices so they can recognize how their own viewpoint shapes their perception of others.
 status: review

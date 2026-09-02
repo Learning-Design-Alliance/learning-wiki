@@ -1,5 +1,6 @@
 ---
 type: principle
+id: personalization
 title: Personalization
 description: Personalization adapts content, pacing, difficulty, or context to individual learners' prior knowledge, needs, or interests rather than delivering a uniform experience to all.
 status: review

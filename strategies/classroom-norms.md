@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: classroom-norms
 title: Classroom Norms
 description: Explicitly co-created expectations for behavior, participation, and interaction that structure how students engage with each other and the work.
 status: review

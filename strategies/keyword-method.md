@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: keyword-method
 title: Keyword Method
 description: A two-stage mnemonic strategy in which learners link a foreign word to a familiar keyword that sounds similar, then form an interactive image connecting the keyword's meaning to the word's actual meaning.
 status: review

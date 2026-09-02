@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: handwriting-fluency-instruction
 title: Handwriting Fluency Instruction
 description: Explicit, timed practice that builds fast, legible, automatic letter formation so transcription no longer competes with composing for working memory.
 status: review

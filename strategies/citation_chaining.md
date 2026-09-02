@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: citation_chaining
 title: Citation_Chaining
 description: Systematically tracing an article's references backward and its citing literature forward to map a scholarly conversation and locate high-quality sources.
 status: review

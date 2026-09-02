@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: cooperative_teaching
 title: Cooperative Teaching
 description: Structuring learning activities so students work together and teach each other concepts and skills, deepening understanding through explanation and peer support.
 status: review

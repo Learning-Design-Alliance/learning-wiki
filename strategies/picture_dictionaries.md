@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: picture_dictionaries
 title: Picture Dictionaries
 description: Picture dictionaries are reference tools that pair words with illustrations to define vocabulary, supporting language learners through visual–verbal association.
 status: review

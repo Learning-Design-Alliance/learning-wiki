@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: collaborative-evaluation
 title: Collaborative Evaluation
 description: Collaborative evaluation is a pattern in which learners assess resources, proposals, performances, or solutions together using shared criteria.
 status: review

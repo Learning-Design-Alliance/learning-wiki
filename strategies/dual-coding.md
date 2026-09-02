@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: dual-coding
 title: Dual Coding
 description: Pairing verbal information with complementary visual representations so learners encode content through two channels and build richer, better-connected memory structures.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: encouraging_help-seeking_behavior
 title: Encouraging Help-Seeking Behavior
 description: Creating a classroom environment where students feel comfortable asking for help.
 status: review

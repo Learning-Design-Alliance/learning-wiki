@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: shared-writing
 title: Shared Writing
 description: Teacher and students collaboratively compose a text, with the teacher scribing student-generated ideas and guiding revision.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: weeding
 title: Weeding
 description: Systematically removing extraneous words, images, audio, and features from learning materials so that working-memory resources are devoted to essential content.
 status: review

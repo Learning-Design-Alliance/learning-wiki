@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: normalizing_trouble
 title: Normalizing Trouble
 description: Normalizing trouble means explicitly framing difficulty, error, and failure as expected and informative parts of learning, so learners interpret struggle as a signal to engage rather than evidence of inability.
 status: review

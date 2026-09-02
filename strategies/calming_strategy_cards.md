@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: calming_strategy_cards
 title: Calming Strategy Cards
 description: Calming strategy cards provide learners with portable, visual reminders of emotional regulation strategies — such as deep breathing, squeezing a fidget, or taking a mindfulness break — to use when feelings escalate.
 status: review

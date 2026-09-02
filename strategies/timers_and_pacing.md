@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: timers_and_pacing
 title: Timers and Pacing
 description: Using visible time limits and deliberate pacing of activities to focus attention, manage cognitive load, and sustain learner engagement.
 status: review

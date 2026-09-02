@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: physical_activity_breaks
 title: Physical Activity Breaks
 description: Short, structured bouts of movement (2–10 minutes) integrated into lessons or work sessions to restore attention, reduce fatigue, and support well-being.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: comparing_cases
 title: Comparing Cases
 description: Learners study two or more contrasting cases side by side to abstract the deep structure that distinguishes them.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: element
+id: social-learning
 title: Social Learning
 description: Social learning is the element in which interaction with peers, models, or communities is treated as a direct source of learning.
 status: review

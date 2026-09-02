@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: low-stakes_quizzes
 title: Low-Stakes Quizzes
 description: Brief, low-consequence assessments used primarily to trigger retrieval practice and inform teaching, rather than to certify achievement.
 status: review

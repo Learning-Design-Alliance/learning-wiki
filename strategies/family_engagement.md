@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: family_engagement
 title: Family Engagement
 description: Family engagement is a practice in which families and school personnel collaborate to support and improve the learning and development of children.
 status: review

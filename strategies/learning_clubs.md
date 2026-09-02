@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: learning_clubs
 title: Learning Clubs
 description: Learning clubs are a grouping system used to organize active learning events based on student-selected areas of interest.
 status: review

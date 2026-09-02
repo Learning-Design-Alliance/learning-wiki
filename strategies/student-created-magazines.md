@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: student-created-magazines
 title: Student-Created Magazines
 description: Students research real-world applications of a subject area, read primary sources closely, and write and assemble articles into a collaborative magazine.
 status: review

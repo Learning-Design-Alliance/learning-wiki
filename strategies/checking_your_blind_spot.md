@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: checking_your_blind_spot
 title: Checking Your Blind Spot
 description: A reflective strategy in which learners surface and mitigate unconscious bias by acknowledging its existence, examining how it shapes their judgments, and applying structured countermeasures to decision-making.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: metacognitive_reflection
 title: Metacognitive Reflection
 description: A strategy in which learners deliberately examine their own thinking, monitoring, and problem-solving processes to improve future performance rather than to be assessed.
 status: review

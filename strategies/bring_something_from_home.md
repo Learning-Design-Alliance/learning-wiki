@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: bring_something_from_home
 title: Bring Something From Home
 description: Ask students to bring something from home that makes their classroom feel more like home, such as a photograph, a stuffed animal, or a musical instrument.
 status: review

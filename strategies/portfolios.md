@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: portfolios
 title: Portfolios
 description: Learners curate a purposeful collection of work over time, with reflection, to document growth and demonstrate competence.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: establish-group-norms
 title: Establish Group Norms
 description: Explicitly co-creating and reinforcing behavioral and interactional expectations that govern how a collaborative group communicates, makes decisions, and holds members accountable.
 status: review

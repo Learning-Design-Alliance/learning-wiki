@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: optimize_classroom_lighting
 title: Optimize Classroom Lighting
 description: Maximize the use of natural lighting in classrooms, supplementing with full-spectrum artificial light and adjustable controls where daylight is limited.
 status: review

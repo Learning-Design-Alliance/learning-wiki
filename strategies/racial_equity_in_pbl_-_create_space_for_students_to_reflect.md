@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: racial_equity_in_pbl_-_create_space_for_students_to_reflect
 title: Racial Equity in PBL - Create Space for Students to Reflect
 description: Structured pauses for reflection within project-based learning give students of color time to process experiences, surface identity-related insights, and counter the urgency-driven pace of traditional schooling.
 status: review

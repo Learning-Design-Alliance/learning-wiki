@@ -14,7 +14,7 @@ sources:
     resource: "https://doi.org/10.1207/S15326985EP3801_3"
     title: "Renkl, A., & Atkinson, R. K. (2003). Structuring the transition from example study to problem solving in cognitive skill acquisition: A cognitive load perspective. *Educational Psychologist, 38*(1), 15-22. [https://doi.org/10.1207/S15326985EP3801_3](https://doi.org/10.1207/S15326985EP3801_3)"
     author: "Renkl, A., & Atkinson, R. K"
-id: we-xr-1
+id: worked-examples-expertise-reversal
 evidence_strength: moderate
 ---
 

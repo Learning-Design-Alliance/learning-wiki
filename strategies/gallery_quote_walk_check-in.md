@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: gallery_quote_walk_check-in
 title: Gallery Quote Walk Check-In
 description: Students read displayed quotes, choose one that reflects their current feelings, gather by that quote, and optionally share why it resonates.
 status: review

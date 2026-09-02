@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: 4cid
 title: 4C/ID
 description: 4C/ID is the short-form canonical target for Four-Component Instructional Design, a whole-task instructional pattern that combines learning tasks, supportive information, procedural information, and part-task practice.
 status: review

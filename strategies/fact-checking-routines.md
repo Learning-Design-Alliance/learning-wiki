@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: fact-checking-routines
 title: Fact Checking Routines
 description: Structured, repeatable procedures for verifying the accuracy of claims and sources before accepting or sharing them.
 status: review

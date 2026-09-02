@@ -1,5 +1,6 @@
 ---
 type: principle
+id: clear-structure
 title: Clear Structure
 description: Clear structure is the short-form canonical target for designs that make the organization, sequence, and expectations of learning visible and easy to follow.
 status: review

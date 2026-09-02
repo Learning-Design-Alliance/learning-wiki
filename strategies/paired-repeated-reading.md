@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: paired-repeated-reading
 title: Paired Repeated Reading
 description: Learners read the same passage aloud multiple times to a partner, building fluency through repetition with immediate peer feedback.
 status: review

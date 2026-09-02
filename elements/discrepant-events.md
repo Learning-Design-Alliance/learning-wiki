@@ -1,5 +1,6 @@
 ---
 type: element
+id: discrepant-events
 title: Discrepant Events
 description: Discrepant events are demonstrations, observations, or scenarios that violate learner expectations in a noticeable way.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: collaborative_storytelling
 title: Collaborative Storytelling
 description: Learners work in pairs to create a story by responding to guiding questions, alternating individual thinking with negotiated joint writing.
 status: review

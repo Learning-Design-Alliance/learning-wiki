@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: task_force_teams_of_inquiry
 title: Task Force Teams of Inquiry
 description: Small teams form (or are formed) around self-selected topics from a brainstorm list, then research, investigate, and present their findings.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: involving_learners_in_classroom_design
 title: Involving Learners in Classroom Design
 description: Involving learners in classroom design means actively soliciting their input and ideas when creating or modifying the physical learning environment.
 status: review

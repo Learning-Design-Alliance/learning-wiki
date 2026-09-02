@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: cooperative_learning
 title: Cooperative Learning
 description: Structuring small-group work so that learners pursue shared goals under conditions of positive interdependence and individual accountability.
 status: review

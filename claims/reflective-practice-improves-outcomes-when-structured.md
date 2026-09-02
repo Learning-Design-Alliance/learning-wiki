@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: reflection-structured-improves-outcomes
+id: reflective-practice-improves-outcomes-when-structured
 evidence_strength: unrated
 ---
 

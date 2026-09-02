@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: critique_protocols
 title: Critique Protocols
 description: Structured routines for giving and receiving feedback on work-in-progress, making peer critique specific, kind, and useful.
 status: review

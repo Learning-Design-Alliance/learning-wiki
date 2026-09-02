@@ -1,5 +1,6 @@
 ---
 type: element
+id: exemplars
 title: Exemplars
 description: An exemplar is a high-quality model of a finished product or performance — an essay, design, proof, or solution — that learners study to internalize quality criteria before producing their own work.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: collaborative-strategic-reading
 title: Collaborative Strategic Reading
 description: A cooperative reading-comprehension approach in which small groups apply four comprehension strategies (preview, click and clunk, get the gist, wrap up) to text through structured roles and discussion.
 status: review

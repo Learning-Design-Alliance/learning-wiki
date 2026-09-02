@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: incorporate_students_cultural_practices
 title: "Incorporate Students' Cultural Practices"
 description: "Integrating students' cultural backgrounds, experiences, and community practices into lesson design and classroom activities so content connects to what learners already know and value."
 status: review

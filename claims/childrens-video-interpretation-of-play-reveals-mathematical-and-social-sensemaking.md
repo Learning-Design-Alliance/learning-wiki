@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Young children's video interpretation of their own mathematical play reveals both mathematical and social-affective sensemaking
-id: cvi-1
+id: childrens-video-interpretation-of-play-reveals-mathematical-and-social-sensemaking
 status: draft
 generated:
   by: claude/unspecified

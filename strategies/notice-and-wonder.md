@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: notice-and-wonder
 title: Notice And Wonder
 description: A discourse routine that presents a stimulus (image, graph, problem context) and asks learners to state observations before any question is posed, separating sense-making from question-answering.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: element
+id: analogies
 title: Analogies
 description: Analogies connect a new idea to a more familiar situation, structure, or experience so learners can reason about the unfamiliar in terms they already understand.
 status: review

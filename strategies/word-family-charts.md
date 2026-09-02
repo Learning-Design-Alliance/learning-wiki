@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: word-family-charts
 title: Word Family Charts
 description: A word study strategy that organizes words sharing a common rime or spelling pattern into visible chart groups, helping learners decode and spell by analogy.
 status: review

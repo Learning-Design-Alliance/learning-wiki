@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: motion_and_forces_experiments
 title: Motion and Forces Experiments
 description: Hands-on physical science investigations in which learners manipulate variables (ball mass, ramp height, pendulum length) to observe and measure how forces affect motion and energy transfer.
 status: review

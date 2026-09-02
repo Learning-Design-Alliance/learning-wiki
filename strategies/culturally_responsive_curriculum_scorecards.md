@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: culturally_responsive_curriculum_scorecards
 title: Culturally Responsive Curriculum Scorecards
 description: Rubric-based evaluation tools, developed with educators, families, and students, for scoring how well curricula reflect diverse cultural backgrounds and perspectives.
 status: review

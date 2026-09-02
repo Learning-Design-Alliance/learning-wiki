@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: math_art
 title: Math Art
 description: Math Art involves creating drawings and designs that explore mathematical concepts and patterns.
 status: review

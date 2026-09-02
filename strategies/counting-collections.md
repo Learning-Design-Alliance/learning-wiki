@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: counting-collections
 title: Counting Collections
 description: Learners count real collections of objects in self-chosen ways, then record and discuss their counting strategies to build number sense and place-value understanding.
 status: review

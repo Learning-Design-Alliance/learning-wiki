@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: explicit_discussions_of_perspectives
 title: Explicit Discussions of Perspectives
 description: Facilitating structured conversations where learners explore multiple viewpoints and consider how different individuals might experience the same event.
 status: review

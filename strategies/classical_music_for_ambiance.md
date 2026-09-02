@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: classical_music_for_ambiance
 title: Classical Music for Ambiance
 description: Playing calm classical music at low volume during transitions or independent work to shape classroom climate, arousal, and behavior.
 status: review

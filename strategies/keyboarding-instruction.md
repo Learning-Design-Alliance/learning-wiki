@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: keyboarding-instruction
 title: Keyboarding Instruction
 description: Systematic instruction in touch-typing to build fast, accurate, automatic keyboarding so that transcription does not compete with composing.
 status: review

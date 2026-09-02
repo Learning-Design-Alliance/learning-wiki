@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: graphic_organizers_for_unit_planning
 title: Graphic Organizers for Unit Planning
 description: Present students with a graphic organizer to show how the parts of a unit fit together, providing a sense of where they are in the unit and why they are learning the individual parts.
 status: review

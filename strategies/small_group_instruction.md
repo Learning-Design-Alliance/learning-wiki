@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: small_group_instruction
 title: Small Group Instruction
 description: Small group instruction involves a teacher working with a small number of students on a specific skill or concept, enabling targeted support, immediate feedback, and tailored scaffolding.
 status: review

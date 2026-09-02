@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-evaluation_in_writing
 title: Self-Evaluation in Writing
 description: Self-evaluation involves teaching students how to review their writing to decide if changes are needed.
 status: review

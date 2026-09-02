@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: perspective-taking-prompts
 title: Perspective Taking Prompts
 description: Prompts that ask learners to adopt, articulate, or reason from another person's viewpoint, beliefs, or emotional state.
 status: review

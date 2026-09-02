@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: constructive-alignment
 title: Constructive Alignment
 description: Constructive alignment coordinates intended learning outcomes, teaching activities, and assessment tasks so that what learners are asked to do, practice, and be graded on all demand the same cognitive work.
 status: review

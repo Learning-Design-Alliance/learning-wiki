@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: metacognitive_journaling
 title: Metacognitive Journaling
 description: "Metacognitive journaling involves writing about one's own thinking, including tendencies, changes in thinking over time, biases, or blind spots."
 status: review

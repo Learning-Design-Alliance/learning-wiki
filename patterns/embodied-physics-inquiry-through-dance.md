@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: embodied-physics-inquiry-through-dance
 title: Embodied Physics Inquiry Through Dance Improvisation
 description: A session structure that pairs a short physics concept demonstration with dance improvisation exploring that concept, validating culturally specific movement styles as legitimate scientific expression.
 status: draft

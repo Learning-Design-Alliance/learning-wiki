@@ -1,5 +1,6 @@
 ---
 type: principle
+id: autonomy
 title: Autonomy
 description: Autonomy in learning design means giving learners meaningful ownership over how, when, and why they engage — supporting their sense of volition rather than controlling their behavior.
 status: review

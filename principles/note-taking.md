@@ -1,5 +1,6 @@
 ---
 type: principle
+id: note-taking
 title: Note-taking
 description: Note-taking is the instructional principle of helping learners externalize important information, structure, and interpretation while reading, listening, observing, or solving problems.
 status: review

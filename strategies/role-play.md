@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: role-play
 title: Role Play
 description: Learners act out realistic scenarios in a safe environment, practicing communication, decision-making, and interpersonal skills with feedback before facing the real situation.
 status: review

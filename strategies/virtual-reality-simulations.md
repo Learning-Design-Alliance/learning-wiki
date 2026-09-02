@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: virtual-reality-simulations
 title: Virtual Reality Simulations
 description: Immersive, computer-generated environments that let learners enact procedures, explore phenomena, or rehearse decisions in a safe, controlled replica of a real setting.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: math_key_word_flashcards
 title: Math Key Word Flashcards
 description: Learners create and use flashcards mapping key words (e.g., "total," "left," "of") to the four arithmetic operations as a visual aid for solving word problems.
 status: review

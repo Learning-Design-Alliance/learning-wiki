@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: design_at_the_margins
 title: Design at the Margins
 description: Designing learning environments by centering the needs and experiences of students at the edges of a community, on the premise that solutions serving the most marginalized serve everyone.
 status: review

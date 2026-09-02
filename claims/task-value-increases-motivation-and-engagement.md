@@ -14,7 +14,7 @@ sources:
     resource: "https://doi.org/10.1016/j.dr.2009.12.001"
     title: "Wigfield, A., & Cambria, J. (2010). Students' achievement values, goal orientations, and interest: Definitions, development, and relations to achievement outcomes. *Developmental Review, 30*(1), 1–35. [https://doi.org/10.1016/j.dr.2009.12.001](https://doi.org/10.1016/j.dr.2009.12.001)"
     author: "Wigfield, A., & Cambria, J"
-id: motiv-3
+id: task-value-increases-motivation-and-engagement
 evidence_strength: strong
 ---
 

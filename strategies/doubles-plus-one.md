@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: doubles-plus-one
 title: Doubles Plus One
 description: A derived-fact strategy for addition in which learners solve near-double facts (e.g., 7+8) by using a known doubles fact (7+7) and adding one.
 status: review

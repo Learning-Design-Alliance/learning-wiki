@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: plans-play-learning-and-narrative-skills
 title: PLaNS (Play Learning and Narrative Skills)
 description: A guided-play approach in which young children build and act out stories collaboratively to develop narrative and writing skills.
 status: review

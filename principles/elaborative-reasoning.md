@@ -1,5 +1,6 @@
 ---
 type: principle
+id: elaborative-reasoning
 title: Elaborative Reasoning
 description: Elaborative reasoning asks learners to go beyond restating material by generating connections, explanations, examples, and inferences that tie new content to prior knowledge.
 status: review

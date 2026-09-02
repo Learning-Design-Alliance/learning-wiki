@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: collaborative_margin_comments
 title: Collaborative Margin Comments
 description: Learners and instructors give and receive feedback directly in the margins of shared documents using collaborative platforms such as Google Docs or Microsoft Word Online.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: consider_the_news_source
 title: Consider the News Source
 description: Learners evaluate who is behind a news report — its ownership, editorial practices, sourcing, and accountability structures — before judging its credibility.
 status: review

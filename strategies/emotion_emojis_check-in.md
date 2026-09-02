@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: emotion_emojis_check-in
 title: Emotion Emojis Check-In
 description: Students express their current feelings by drawing or sharing an emoji that represents their emotional state.
 status: review

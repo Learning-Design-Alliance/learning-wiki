@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: use_retrieval_practice
 title: Use Retrieval Practice
 description: Learners actively recall information from memory rather than re-reading or re-watching it, strengthening retention and transfer.
 status: review

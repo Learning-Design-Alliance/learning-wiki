@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: peer-editing
 title: Peer Editing
 description: Learners exchange drafts and provide structured, criterion-referenced feedback on each other's work before revision.
 status: review

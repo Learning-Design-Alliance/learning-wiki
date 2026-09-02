@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: personalized_math_with_cultural_connections
 title: Personalized Math with Cultural Connections
 description: Effective math instruction connects to real-life and culturally relevant contexts, engaging students and making concepts more accessible.
 status: review

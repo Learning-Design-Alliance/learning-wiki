@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: learning-stations
 title: Learning Stations
 description: Learners rotate through a sequence of small, self-contained activity stations, each targeting a different task, modality, or level of support.
 status: review

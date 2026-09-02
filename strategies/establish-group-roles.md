@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: establish-group-roles
 title: Establish Group Roles
 description: Assigning distinct, interdependent roles (e.g., facilitator, recorder, checker) to members of collaborative groups to structure participation and accountability.
 status: review

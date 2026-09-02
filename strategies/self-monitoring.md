@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-monitoring
 title: Self Monitoring
 description: Learners deliberately track their own comprehension, performance, and progress against criteria during learning, feeding those judgments into adjustments of strategy and effort.
 status: review

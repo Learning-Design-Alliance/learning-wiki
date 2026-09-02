@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: fictional_characters_to_teach_social_awareness
 title: Fictional Characters to Teach Social Awareness
 description: Use fictional characters and narratives — connected to current events — as safe proxies through which learners examine social situations, perspectives, and ethical dilemmas.
 status: review

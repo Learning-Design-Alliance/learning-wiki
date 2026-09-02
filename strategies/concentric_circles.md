@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: concentric_circles
 title: Concentric Circles
 description: Learners form two facing circles (or lines) and rotate through brief structured peer discussions, meeting a new partner for each question.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: take-home_practice_sets
 title: Take Home_Practice_Sets
 description: Structured sets of practice problems or tasks assigned for completion outside class, extending retrieval and skill-building beyond instructional time.
 status: review

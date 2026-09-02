@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: chunking_information
 title: Chunking Information
 description: Organize content into small, meaningful units so each fits within working memory limits before being consolidated into larger schemas.
 status: review

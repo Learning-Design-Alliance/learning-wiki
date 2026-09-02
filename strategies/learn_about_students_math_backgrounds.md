@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: learn_about_students_math_backgrounds
 title: "Learn About Students' Math Backgrounds"
 description: "Systematically gathering information about learners' prior math instruction, informal skills, cultural number systems, and interests, then using that knowledge to tailor math instruction."
 status: review

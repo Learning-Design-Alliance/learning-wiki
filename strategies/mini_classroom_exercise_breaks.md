@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mini_classroom_exercise_breaks
 title: Mini Classroom Exercise Breaks
 description: Short, scheduled physical activity sessions embedded in the school day to restore attention and increase daily movement.
 status: review

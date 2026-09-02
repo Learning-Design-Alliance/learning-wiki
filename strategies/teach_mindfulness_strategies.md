@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: teach_mindfulness_strategies
 title: Teach Mindfulness Strategies
 description: Teach students various mindfulness strategies, from meditation and deep breathing to journaling and drawing.
 status: review

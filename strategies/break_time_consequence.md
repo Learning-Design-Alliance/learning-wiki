@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: break_time_consequence
 title: Break Time Consequence
 description: Writing instructions in bold letters on the chalkboard stating that students who continue talking during the lesson will have time taken off their break.
 status: review

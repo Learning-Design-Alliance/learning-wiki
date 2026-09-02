@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: daily-behavior-report-cards
 title: Daily Behavior Report Cards
 description: A daily rating of a student's behavior targets, communicated to the student and home, used to monitor, reinforce, and improve classroom behavior.
 status: review

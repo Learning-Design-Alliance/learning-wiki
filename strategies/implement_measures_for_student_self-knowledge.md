@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: implement_measures_for_student_self-knowledge
 title: Implement Measures for Student Self-Knowledge
 description: Using inventories, reflection routines, and self/peer assessment to help students understand their strengths, interests, and growth areas as learners.
 status: review

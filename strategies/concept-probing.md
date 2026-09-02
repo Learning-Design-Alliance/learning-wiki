@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: concept-probing
 title: Concept Probing
 description: Asking diagnostic questions that surface learners' prior conceptions, intuitions, and misconceptions before or during instruction.
 status: review

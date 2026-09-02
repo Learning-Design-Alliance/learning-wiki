@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: developing_positive_classroom_pride
 title: Developing Positive Classroom Pride
 description: Instilling pride is a powerful way to develop positive teacher-learner relationships.
 status: review

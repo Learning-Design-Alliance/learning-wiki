@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: what_would_their_day_look_like
 title: What Would Their Day Look Like?
 description: Learners select a photo of a person or animal in an unfamiliar situation and imagine what their daily life might be like.
 status: review

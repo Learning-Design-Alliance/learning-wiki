@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: temperature-monitoring-adjustment
 title: "Temperature Monitoring & Adjustment"
 description: Monitoring the temperature of a learning environment and adjusting it to maintain an optimal range improves learner focus, reduces distractibility, and supports achievement.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: rubric_co-construction
 title: Rubric_Co Construction
 description: Learners work with the instructor to build or refine the evaluation criteria and quality definitions they will be assessed against.
 status: review

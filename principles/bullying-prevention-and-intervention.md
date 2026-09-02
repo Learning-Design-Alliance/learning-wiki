@@ -1,5 +1,6 @@
 ---
 type: principle
+id: bullying-prevention-and-intervention
 title: Bullying Prevention and Intervention
 description: Effective bullying response requires recognizing the full set of participant roles (not just bully and victim), addressing the power imbalance and repetition that define bullying, and treating cyberbullying as a distinct problem requiring its own detection and response strategies.
 status: draft

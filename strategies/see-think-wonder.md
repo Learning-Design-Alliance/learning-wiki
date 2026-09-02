@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: see-think-wonder
 title: See, Think, Wonder
 description: A Project Zero thinking routine in which learners observe a stimulating image and record what they see, what they think about it, and what it makes them wonder.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: use_this_toolkit-mitigating_racial_bias_in_edtech
 title: "Use this Toolkit: Mitigating Racial Bias in Edtech"
 description: A structured toolkit guiding edtech teams through identifying and mitigating racial bias across the full product design and development lifecycle.
 status: review

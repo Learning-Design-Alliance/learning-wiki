@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: maximize_transfer_and_generalization
 title: Maximize Transfer and Generalization
 description: Deliberately designing instruction so that knowledge and skills acquired in one context can be applied to new problems, domains, and real-world situations.
 status: review

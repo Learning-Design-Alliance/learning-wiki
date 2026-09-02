@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: book-clubs-literature-circles
 title: Book Clubs / Literature Circles
 description: A grouping system that organizes collaborative, student-driven reading and discussion around learner-selected topics of interest, using multiple text types.
 status: review

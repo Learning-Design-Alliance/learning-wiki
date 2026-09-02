@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: writing-process-portfolios
 title: Writing Process Portfolios
 description: Students collect, revise, and reflect on writing drafts over time, making their compositional process visible and assessed rather than only the final product.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: principle
+id: holistic-learning
 title: Holistic Learning
 description: Holistic learning is the principle of helping learners grasp the overall structure, purpose, or whole of a domain before becoming lost in isolated details.
 status: review

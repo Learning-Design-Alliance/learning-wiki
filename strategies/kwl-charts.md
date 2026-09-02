@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: kwl-charts
 title: KWL Charts
 description: A three-column graphic organizer (Know, Want to know, Learned) used before and after instruction to activate prior knowledge, set learning goals, and prompt reflection.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: classroom_design_optimization
 title: Classroom Design Optimization
 description: Optimizing classroom design (noise levels, temperature, seating arrangement) can minimize distractions and improve learning.
 status: review

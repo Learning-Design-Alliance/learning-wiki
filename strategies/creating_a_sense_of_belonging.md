@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: creating_a_sense_of_belonging
 title: Creating A Sense Of Belonging
 description: Designing learning environments so learners feel accepted as valued members of the learning community, which raises motivation, engagement, and persistence.
 status: review

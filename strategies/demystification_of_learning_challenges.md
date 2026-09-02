@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: demystification_of_learning_challenges
 title: Demystification of Learning Challenges
 description: Explaining to learners how memory, attention, and learning work — especially when they struggle — so they can interpret difficulties accurately and adopt effective strategies.
 status: review

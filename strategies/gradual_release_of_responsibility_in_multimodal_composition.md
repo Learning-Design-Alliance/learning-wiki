@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: gradual_release_of_responsibility_in_multimodal_composition
 title: Gradual Release of Responsibility in Multimodal Composition
 description: Sequencing multimodal composition instruction from teacher modeling, to guided collaborative analysis, to independent design work, transferring responsibility as competence grows.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: creative_writing
 title: Creative Writing
 description: Using storytelling and creative writing tasks to deepen, consolidate, and personalize learning of subject-matter content.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: principle
+id: accessible-vocabulary-syntax
 title: "Accessible Vocabulary & Syntax"
 description: Use language that preserves disciplinary rigor while reducing unnecessary linguistic difficulty.
 status: review

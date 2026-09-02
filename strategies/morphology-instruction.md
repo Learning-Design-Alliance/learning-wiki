@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: morphology-instruction
 title: Morphology Instruction
 description: Teaching learners to analyze and use the meaningful units of words (roots, prefixes, suffixes) to decode, spell, and comprehend vocabulary.
 status: review

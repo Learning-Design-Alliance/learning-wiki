@@ -1,5 +1,6 @@
 ---
 type: element
+id: exercise-breaks
 title: Exercise Breaks
 description: Short bouts of physical activity inserted into instruction to restore attention, support memory consolidation, and improve on-task behavior.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: principle
+id: self-monitoring
 title: Self-monitoring
 description: "Self-monitoring is the practice of checking one's current understanding, performance, strategy use, or progress against a goal, model, or success criterion."
 status: review

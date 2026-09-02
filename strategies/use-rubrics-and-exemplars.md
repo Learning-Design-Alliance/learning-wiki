@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: use-rubrics-and-exemplars
 title: Use Rubrics And Exemplars
 description: Providing learners with explicit evaluation criteria (rubrics) alongside models of high-quality work (exemplars) so they understand what success looks like before producing their own.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: keyword-mnemonic
 title: Keyword Mnemonic
 description: A two-step mnemonic that links a foreign word or unfamiliar term to a familiar keyword that sounds similar, then forms an interactive mental image connecting the two.
 status: review

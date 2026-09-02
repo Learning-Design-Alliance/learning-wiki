@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: use_spaced_practice
 title: Use Spaced Practice
 description: Distribute learning sessions and review opportunities over time rather than massing them together, to strengthen retention and transfer.
 status: review

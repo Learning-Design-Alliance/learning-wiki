@@ -1,5 +1,6 @@
 ---
 type: element
+id: debate
 title: Debate
 description: Debate is the element in which learners take positions, justify them with evidence, and respond to alternatives in a structured exchange.
 status: review

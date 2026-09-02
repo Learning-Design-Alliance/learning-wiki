@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: where_are_the_people_like_me
 title: Where Are the People Like Me?
 description: Learners examine media examples to consider who is represented and who is not, then explore the impact of this lack of diversity and how it might affect those who are misrepresented or not represented.
 status: review

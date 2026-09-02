@@ -1,5 +1,6 @@
 ---
 type: element
+id: observationshadowing
 title: Observation/Shadowing
 description: Observation/shadowing is the element in which learners watch practice in context in order to notice decisions, routines, and tacit moves before attempting similar work themselves.
 status: review

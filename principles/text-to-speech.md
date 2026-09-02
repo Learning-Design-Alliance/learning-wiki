@@ -1,5 +1,6 @@
 ---
 type: principle
+id: text-to-speech
 title: Text-to-Speech
 description: Text-to-speech (TTS) converts written text into spoken audio, giving learners an additional way to access reading materials, instructions, and feedback.
 status: review

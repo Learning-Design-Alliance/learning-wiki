@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: completion-problems-first
 title: Completion Problems First
 description: Learners begin with partially completed problems (completion problems) before moving to full problem solving, bridging worked examples and independent practice.
 status: review

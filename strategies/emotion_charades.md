@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: emotion_charades
 title: Emotion Charades
 description: Emotion Charades involves a student acting out a scenario that makes them feel a certain way, while the rest of the group guesses the emotion being portrayed.
 status: review

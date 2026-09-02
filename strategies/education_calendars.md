@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: education_calendars
 title: Education Calendars
 description: Education calendars are visual aids designed to keep students, parents, and teachers informed about important dates, events, and activities.
 status: review

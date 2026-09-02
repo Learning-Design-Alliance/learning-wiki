@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: ei-1
+id: elaborative-interrogation-improves-learning
 evidence_strength:
 ---
 

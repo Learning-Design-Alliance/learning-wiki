@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: active-transitions
 title: Active Transitions
 description: Brief structured activities — physical, cognitive, or social — that fill the gaps between instructional segments, keeping learners engaged rather than idle.
 status: review

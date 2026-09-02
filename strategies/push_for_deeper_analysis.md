@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: push_for_deeper_analysis
 title: Push for Deeper Analysis
 description: Encourage students to go beyond surface-level reading and analyze how textual elements — sentence structure, word choice, organization — create meaning, with time and scaffolding for rereading and reflection.
 status: review

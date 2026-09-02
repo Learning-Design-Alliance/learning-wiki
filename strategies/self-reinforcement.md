@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-reinforcement
 title: Self-Reinforcement
 description: Individuals select a reinforcer and reward themselves for reaching or exceeding a set performance criterion.
 status: review

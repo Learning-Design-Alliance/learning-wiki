@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: redirecting_language
 title: Redirecting Language
 description: Redirecting language is a classroom management tool that uses clear, non-negotiable instructions to redirect student behavior.
 status: review

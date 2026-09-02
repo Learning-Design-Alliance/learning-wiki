@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: formative_feedback
 title: Formative Feedback
 description: Feedback delivered during learning that gives learners actionable information about their performance and how to improve, rather than an evaluative judgment of final quality.
 status: review

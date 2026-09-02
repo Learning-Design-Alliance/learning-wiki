@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: epistemic-games
 title: Epistemic Games
 description: Epistemic Games immerse learners in the values, identity, and situated decision-making of a professional community of practice, so that facts and skills are acquired as a byproduct of doing the community's work rather than as isolated content.
 status: draft

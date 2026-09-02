@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: authentic_learning_tasks
 title: Authentic Learning Tasks
 description: Tasks that mirror the complexity, context, and purposes of real-world performance so learners practice knowledge in the conditions where it will be used.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: see_think_wonder
 title: See_Think_Wonder
 description: A visible-thinking routine that asks learners to describe what they observe, interpret what they think is happening, and pose questions about what they wonder.
 status: review

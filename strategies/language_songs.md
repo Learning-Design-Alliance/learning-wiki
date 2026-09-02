@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: language_songs
 title: Language Songs
 description: Using songs to teach language engages learners through music and rhythm to enhance vocabulary development, phonological awareness, and overall literacy skills.
 status: review

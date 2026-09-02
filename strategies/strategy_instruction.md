@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: strategy_instruction
 title: Strategy Instruction
 description: Strategy instruction teaches learners how to learn effectively by applying principles, rules, or multi-step processes to solve problems or accomplish learning tasks.
 status: review

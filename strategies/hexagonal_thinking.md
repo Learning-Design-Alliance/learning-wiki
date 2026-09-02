@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: hexagonal_thinking
 title: Hexagonal Thinking
 description: Hexagonal thinking is a mixed retrieval and elaboration strategy that uses hexagonal cards, paper, or digital slides to investigate how ideas and concepts are connected.
 status: review

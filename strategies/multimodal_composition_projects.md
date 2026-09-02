@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: multimodal_composition_projects
 title: Multimodal Composition Projects
 description: Learners combine linguistic, visual, audio, gestural, and spatial modes to compose and communicate meaning, typically using digital tools.
 status: review

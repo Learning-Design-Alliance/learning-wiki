@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: creating_a_culture_of_error
 title: Creating a Culture of Error
 description: Fostering a learning environment where mistakes are treated as information and learning opportunities rather than failures, so learners attempt, disclose, and analyze errors openly.
 status: review

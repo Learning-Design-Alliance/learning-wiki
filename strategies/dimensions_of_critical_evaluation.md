@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: dimensions_of_critical_evaluation
 title: Dimensions of Critical Evaluation
 description: "Explicitly teach learners the distinct dimensions used to evaluate information sources — relevance, accuracy, bias/perspective, and reliability — and how content-based and source-based judgments differ."
 status: review

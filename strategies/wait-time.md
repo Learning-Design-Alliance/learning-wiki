@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: wait-time
 title: Wait Time
 description: A deliberate pause of at least three seconds after posing a question (and again after a response) that gives learners time to process, formulate, and extend their answers.
 status: review

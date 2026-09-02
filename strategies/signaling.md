@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: signaling
 title: Signaling
 description: Adding non-content cues (highlights, arrows, color, headings, vocal emphasis) that direct attention to essential material without changing the content itself.
 status: review

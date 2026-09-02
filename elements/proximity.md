@@ -1,5 +1,6 @@
 ---
 type: element
+id: proximity
 title: Proximity
 description: Placing related text and graphics close together on the page or screen so learners can process them as a single unit rather than searching and holding them in working memory.
 status: review

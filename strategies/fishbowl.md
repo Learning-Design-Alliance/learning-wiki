@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: fishbowl
 title: Fishbowl
 description: Two learners sit facing each other in the center of the room; the remaining learners sit in a circle around them.
 status: review

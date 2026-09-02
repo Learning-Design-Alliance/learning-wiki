@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: previewing
 title: Previewing
 description: Prepare learners for upcoming tasks or materials by giving them a structured advance look at content, expectations, and key vocabulary.
 status: review

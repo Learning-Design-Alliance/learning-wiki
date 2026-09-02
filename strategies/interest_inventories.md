@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: interest_inventories
 title: Interest Inventories
 description: "Interest inventories are surveys used to assess students' areas of interest."
 status: review

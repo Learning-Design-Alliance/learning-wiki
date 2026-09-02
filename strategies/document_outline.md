@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: document_outline
 title: Document Outline
 description: "Using Google Docs' automatic document outline tool to have students mark main ideas and supporting evidence with headings, producing a live outline that scaffolds essay planning."
 status: review

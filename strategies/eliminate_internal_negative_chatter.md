@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: eliminate_internal_negative_chatter
 title: Eliminate Internal Negative Chatter
 description: Becoming aware of negative self-talk and actively restructuring it through thought-stopping, cognitive reappraisal, and replacement with constructive inner dialogue.
 status: review

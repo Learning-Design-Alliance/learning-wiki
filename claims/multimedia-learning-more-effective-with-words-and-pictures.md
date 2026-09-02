@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: multimedia-words-pictures
+id: multimedia-learning-more-effective-with-words-and-pictures
 evidence_strength: low
 ---
 

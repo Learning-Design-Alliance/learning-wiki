@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: vocabulary-pre-teaching
 title: Vocabulary Pre Teaching
 description: Teaching key word meanings before learners encounter them in a text or task, so that unfamiliar vocabulary does not block comprehension.
 status: review

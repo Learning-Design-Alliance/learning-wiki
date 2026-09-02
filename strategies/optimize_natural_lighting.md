@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: optimize_natural_lighting
 title: Optimize Natural Lighting
 description: Maximizing daylight in learning spaces to improve attention, mood, and achievement while managing glare and heat.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: principle
+id: wise-feedback-across-difference
 title: Wise Feedback Across Racial and Ethnic Difference
 description: When a teacher and student are from different racial or ethnic backgrounds, critical feedback needs a third component beyond ordinary praise-plus-criticism — an explicit assurance that the teacher believes the student can reach a higher standard — because students of color have historically-grounded reasons to distrust negative feedback from a white teacher.
 status: draft

@@ -1,5 +1,6 @@
 ---
 type: element
+id: seminar-format
 title: Seminar Format
 description: Seminar format is the element in which learning is organized around sustained discussion of a shared text, question, or issue with facilitator support but strong learner participation.
 status: review

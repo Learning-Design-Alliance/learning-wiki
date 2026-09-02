@@ -1,5 +1,6 @@
 ---
 type: principle
+id: error-analysis
 title: Error Analysis
 description: Error analysis is an instructional principle that treats learner errors as valuable opportunities for deepening conceptual understanding and improving long-term retention.
 status: review

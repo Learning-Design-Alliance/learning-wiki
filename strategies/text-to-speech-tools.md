@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: text-to-speech-tools
 title: Text To Speech Tools
 description: Software that converts written text into synthesized spoken audio, allowing learners to listen to digital text rather than — or alongside — reading it.
 status: review

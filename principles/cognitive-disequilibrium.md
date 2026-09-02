@@ -1,5 +1,6 @@
 ---
 type: principle
+id: cognitive-disequilibrium
 title: Cognitive Disequilibrium
 description: Cognitive disequilibrium is the principle of using mismatch, surprise, or contradiction to unsettle an existing mental model and create readiness for revision.
 status: review

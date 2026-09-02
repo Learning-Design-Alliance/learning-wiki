@@ -1,5 +1,6 @@
 ---
 type: principle
+id: foster-growth-mindset
 title: Foster Growth Mindset
 description: Fostering a growth mindset means designing instruction so that effort, revision, and strategic improvement are treated as normal parts of learning rather than as signs of low ability.
 status: review

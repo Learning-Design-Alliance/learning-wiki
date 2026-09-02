@@ -1,5 +1,6 @@
 ---
 type: principle
+id: behaviorism
 title: Behaviorism
 description: Behaviorism, as an instructional principle, emphasizes observable performance, repeated practice, feedback, and reinforcement in shaping learning.
 status: review

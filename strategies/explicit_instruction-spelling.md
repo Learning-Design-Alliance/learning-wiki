@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: explicit_instruction-spelling
 title: "Explicit Instruction: Spelling"
 description: Explicit spelling instruction directly teaches spelling rules, patterns, and strategies through structured lessons, clear explanations, and systematic practice rather than relying on incidental learning or discovery.
 status: review

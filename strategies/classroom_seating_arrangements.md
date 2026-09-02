@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: classroom_seating_arrangements
 title: Classroom Seating Arrangements
 description: Strategically organizing the physical (or virtual) space of a classroom to align interaction patterns, attention, and behavior with instructional goals.
 status: review

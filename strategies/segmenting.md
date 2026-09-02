@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: segmenting
 title: Segmenting
 description: Breaking continuous instructional material (especially animation, video, or narration) into learner-paced segments to manage cognitive load.
 status: review

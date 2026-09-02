@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: emotion_identification_and_labeling
 title: Emotion Identification and Labeling
 description: Learners identify, label, and match facial expressions and feelings to build emotional literacy.
 status: review

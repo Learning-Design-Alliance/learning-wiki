@@ -1,5 +1,6 @@
 ---
 type: element
+id: personalized-pacing
 title: Personalized Pacing
 description: Personalized pacing is the element in which learners move through content or practice at different rates based on need and progress.
 status: review

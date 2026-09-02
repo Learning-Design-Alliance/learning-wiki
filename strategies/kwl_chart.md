@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: kwl_chart
 title: KWL Chart
 description: A KWL chart is a graphic organizer used to structure a lesson by tapping into what students already Know (K), what they Want to know (W), and what they have Learned (L) about a topic.
 status: review

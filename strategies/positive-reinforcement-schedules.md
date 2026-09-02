@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: positive-reinforcement-schedules
 title: Positive Reinforcement Schedules
 description: Systematically delivering rewarding consequences following target behaviors, on planned timing and frequency patterns, to strengthen and maintain those behaviors.
 status: review

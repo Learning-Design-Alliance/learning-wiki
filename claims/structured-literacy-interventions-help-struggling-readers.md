@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: structured-literacy-helps-struggling-readers
+id: structured-literacy-interventions-help-struggling-readers
 evidence_strength: unset
 ---
 

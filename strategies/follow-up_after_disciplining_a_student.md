@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: follow-up_after_disciplining_a_student
 title: Follow-Up After Disciplining a Student
 description: "After disciplining a learner, the instructor deliberately re-engages: touching base privately, acknowledging post-disciplinary successes, and persisting rather than writing the learner off."
 status: review

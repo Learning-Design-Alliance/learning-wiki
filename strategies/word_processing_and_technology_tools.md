@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: word_processing_and_technology_tools
 title: Word Processing and Technology Tools
 description: Use word processors and other digital writing tools to support drafting, revising, and producing written work.
 status: review

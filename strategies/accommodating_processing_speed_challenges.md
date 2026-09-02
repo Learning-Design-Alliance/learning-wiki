@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: accommodating_processing_speed_challenges
 title: Accommodating Processing Speed Challenges
 description: Adjusting pacing, task volume, and response formats so learners who process information slowly can demonstrate knowledge without speed acting as a confound.
 status: review

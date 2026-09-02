@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: flipped-classroom
 title: Flipped Classroom
 description: First exposure to content happens before class via videos or readings; class time is repurposed for active application with instructor support.
 status: review

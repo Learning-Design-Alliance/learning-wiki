@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: embrace_errors_as_learning_opportunities
 title: Embrace Errors as Learning Opportunities
 description: "Treating errors as sites for analysis and discussion rather than failures to be avoided, so that wrong answers surface misconceptions and drive conceptual change."
 status: review

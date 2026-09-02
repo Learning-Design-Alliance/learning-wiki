@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: predicting-observing-explaining
 title: Predicting Observing Explaining
 description: Learners commit to a prediction about an event, observe the actual outcome, and explain any discrepancy between the two.
 status: review

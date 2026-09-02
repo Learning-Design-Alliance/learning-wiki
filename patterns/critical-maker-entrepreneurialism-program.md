@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: critical-maker-entrepreneurialism-program
 title: Critical Maker-Entrepreneurialism Program
 description: A multi-month, community-based STEM making program in which youth identify locally-rooted problems through ethnography, prototype solutions with iterative community feedback, and present at a public entrepreneurial platform while reframing "entrepreneurship" toward community benefit rather than profit or competition.
 status: draft

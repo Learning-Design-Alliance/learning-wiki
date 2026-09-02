@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: collect_my_data
 title: Collect My Data
 description: Learners choose a category of items to collect data on, create tally charts to record observations, and then graph the data to visualize findings.
 status: review

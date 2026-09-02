@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Students' application of teacher support predicts accurate answers in small-group work
-id: van-de-pol-2019-1
+id: student-uptake-of-support-predicts-small-group-answer-accuracy
 status: draft
 generated:
   by: claude/unspecified

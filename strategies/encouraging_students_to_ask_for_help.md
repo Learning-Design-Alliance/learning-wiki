@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: encouraging_students_to_ask_for_help
 title: Encouraging Students to Ask for Help
 description: Creating classroom conditions and teaching routines that normalize and skillfully support adaptive help-seeking when students struggle.
 status: review

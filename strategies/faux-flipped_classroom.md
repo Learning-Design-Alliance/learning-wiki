@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: faux-flipped_classroom
 title: Faux-Flipped Classroom
 description: A flipped-classroom adaptation for young learners that replaces homework with short instructional videos and reserves class time for one-to-one teacher guidance.
 status: review

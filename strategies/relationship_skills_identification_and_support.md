@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: relationship_skills_identification_and_support
 title: Relationship Skills Identification and Support
 description: Educators identify students' strengths and challenges in relationship skills and implement targeted, strengths-based supports to build communication, cooperation, and conflict management.
 status: review

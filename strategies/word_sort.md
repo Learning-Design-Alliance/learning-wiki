@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: word_sort
 title: Word Sort
 description: Students sort key terms into categories before instruction, then re-sort after exposure to definitions, making their prior knowledge visible and building relational frameworks.
 status: review

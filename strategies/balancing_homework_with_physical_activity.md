@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: balancing_homework_with_physical_activity
 title: Balancing Homework with Physical Activity
 description: Encourage children to balance homework with physical activity by breaking up long periods of sitting with short bursts of movement, using standing desks, and coordinating with teachers on workload.
 status: review

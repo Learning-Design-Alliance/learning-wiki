@@ -1,5 +1,6 @@
 ---
 type: element
+id: progress-tracking
 title: Progress Tracking
 description: Progress tracking is the element in which learners or instructors monitor advancement through goals, tasks, competencies, or milestones over time.
 status: review

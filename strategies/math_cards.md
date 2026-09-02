@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: math_cards
 title: Math Cards
 description: An activity using cards showing different representations of the same numerical answer (area model, dominoes, number sentence) to build number sense and conceptual understanding of multiplication rather than rote memorization under time pressure.
 status: review

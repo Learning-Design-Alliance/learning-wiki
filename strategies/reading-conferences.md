@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reading-conferences
 title: Reading Conferences
 description: One-on-one instructor–learner interactions during independent reading that provide targeted feedback, strategy coaching, and gap diagnosis.
 status: review

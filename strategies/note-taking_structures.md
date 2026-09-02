@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: note-taking_structures
 title: Note Taking Structures
 description: Structured formats (Cornell, matrix, outline, guided notes) that scaffold how learners record, organize, and later review information during instruction.
 status: review

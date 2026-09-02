@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: leaderboards
 title: Leaderboards
 description: Leaderboards showcase the distribution of point totals that learners have accumulated through various learning activities, leveraging competition to drive engagement.
 status: review

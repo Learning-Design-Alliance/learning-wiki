@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: home-school-communication
 title: Home School Communication
 description: Structured, two-way exchange of information between educators and families about student learning, progress, and school expectations.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: learning-games
 title: Learning Games
 description: Using structured game play — with goals, rules, feedback, and challenge calibrated to ability — as the primary vehicle for learning content or skills.
 status: review

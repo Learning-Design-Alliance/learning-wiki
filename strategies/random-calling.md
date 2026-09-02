@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: random-calling
 title: Random Calling
 description: Randomly selecting learners to respond to questions, rather than relying on volunteers, to increase participation, accountability, and thinking time across the whole class.
 status: review

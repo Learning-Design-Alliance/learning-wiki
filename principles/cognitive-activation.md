@@ -1,5 +1,6 @@
 ---
 type: principle
+id: cognitive-activation
 title: Cognitive Activation
 description: Cognitive activation is the principle of prompting learners to think deeply, make connections, explain reasoning, and grapple with ideas rather than merely recall or comply.
 status: review

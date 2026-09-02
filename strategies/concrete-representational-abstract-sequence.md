@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: concrete-representational-abstract-sequence
 title: Concrete Representational Abstract Sequence
 description: A three-phase instructional sequence that moves learners from hands-on concrete materials, through visual representations, to abstract symbols.
 status: review

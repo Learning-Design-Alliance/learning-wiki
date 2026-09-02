@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: simplify_grading_scales
 title: Simplify Grading Scales
 description: Replace fine-grained percentage scales (0–100) with coarse scales (e.g., 0–4) so that grades describe performance levels rather than accumulating arithmetic penalties.
 status: review

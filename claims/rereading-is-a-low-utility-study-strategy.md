@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: rereading-low-utility
+id: rereading-is-a-low-utility-study-strategy
 evidence_strength:
 ---
 

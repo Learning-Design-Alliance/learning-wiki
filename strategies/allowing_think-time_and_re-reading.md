@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: allowing_think-time_and_re-reading
 title: Allowing Think-Time and Re-Reading
 description: Allowing plenty of think-time and time for re-reading provides students who need more time to process information the space they need to fully understand the material.
 status: review

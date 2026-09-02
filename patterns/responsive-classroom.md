@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: responsive-classroom
 title: Responsive Classroom
 description: Responsive Classroom is a whole-school social-emotional learning approach that integrates community-building routines, proactive discipline, and academic choice into daily K–8 instruction.
 status: review

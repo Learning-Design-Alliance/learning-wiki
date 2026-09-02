@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: drawing_for_memory_and_comprehension
 title: Drawing for Memory and Comprehension
 description: Learners create their own drawings of to-be-learned content, forcing generative visual, kinesthetic, and semantic processing that improves recall and understanding.
 status: review

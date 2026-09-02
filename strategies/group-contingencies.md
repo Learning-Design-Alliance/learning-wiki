@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: group-contingencies
 title: Group Contingencies
 description: A reward or consequence applied to a whole group based on the behavior or performance of one member, all members, or the group collectively.
 status: review

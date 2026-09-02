@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: split-attention-integration-improves-learning
+id: split-attention-effect-integration-improves-learning
 evidence_strength: moderate
 ---
 

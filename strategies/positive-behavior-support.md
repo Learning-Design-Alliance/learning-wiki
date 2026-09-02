@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: positive-behavior-support
 title: Positive Behavior Support
 description: A schoolwide or classroom framework that prevents problem behavior by teaching and reinforcing expected behaviors rather than punishing infractions.
 status: review

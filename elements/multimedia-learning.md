@@ -1,5 +1,6 @@
 ---
 type: element
+id: multimedia-learning
 title: Multimedia Learning
 description: Multimedia learning is the element in which learners engage with coordinated combinations of words, visuals, audio, animation, or interactive media.
 status: review

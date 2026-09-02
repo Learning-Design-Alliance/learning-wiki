@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: design-challenges
 title: Design Challenges
 description: Learners create an artifact or solution meeting specified criteria, driving learning through the decisions required to build it.
 status: review

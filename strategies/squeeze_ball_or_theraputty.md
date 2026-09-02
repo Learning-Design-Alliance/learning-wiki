@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: squeeze_ball_or_theraputty
 title: Squeeze Ball or Theraputty
 description: Providing a squeeze ball or Theraputty offers a tactile outlet for students to manage frustration and agitation.
 status: review

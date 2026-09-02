@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: writing_down_goals
 title: Writing Down Goals
 description: Writing down goals makes them tangible, supports prioritization, and increases commitment through externalized, reviewable commitments.
 status: review

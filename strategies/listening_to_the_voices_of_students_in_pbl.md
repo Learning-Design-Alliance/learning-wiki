@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: listening_to_the_voices_of_students_in_pbl
 title: Listening to the Voices of Students in PBL
 description: Giving students authorship in project-based learning by eliciting, valuing, and acting on their stories, questions, and decisions, thereby building agency and leadership.
 status: review

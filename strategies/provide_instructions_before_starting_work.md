@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: provide_instructions_before_starting_work
 title: Provide Instructions Before Starting Work
 description: Deliver complete, comprehensible task instructions before learners begin work, so they understand goals, steps, and success criteria before investing effort.
 status: review

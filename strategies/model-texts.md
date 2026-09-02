@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: model-texts
 title: Model Texts
 description: Providing learners with exemplar texts of the target genre or quality to study, analyze, and imitate before producing their own writing.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: principle
+id: metaphors-analogies
 title: "Metaphors & Analogies"
 description: Metaphors and analogies help learners understand unfamiliar ideas by mapping them onto more familiar experiences, systems, or images.
 status: review

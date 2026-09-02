@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: probing_questions
 title: Probing Questions
 description: Probing questions push learners past initial answers by challenging assumptions, demanding evidence, and surfacing implications — deepening reasoning rather than testing recall.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: discussing_emotions
 title: Discussing Emotions
 description: Incorporating structured discussions and reflections about emotions into the learning environment so learners can identify, label, and manage the feelings that shape their learning.
 status: review

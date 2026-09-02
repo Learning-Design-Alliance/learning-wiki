@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: free-writing
 title: Free Writing
 description: A timed, ungraded writing activity in which learners write continuously without stopping to edit, censor, or plan, in order to generate ideas, surface prior knowledge, and build writing fluency.
 status: review

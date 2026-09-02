@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: open_communication_and_trust
 title: Open Communication and Trust
 description: Establishing friendly, low-barrier communication channels between teacher, students, and families so that mutual respect and shared responsibility for learning improve both academic outcomes and attitudes.
 status: review

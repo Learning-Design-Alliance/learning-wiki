@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: direct_instruction-problem-solving_strategies
 title: Direct Instruction: Problem-Solving Strategies
 description: Instructors explicitly teach and model a repertoire of problem-solving strategies, then give learners supported opportunities to choose which strategies to apply and reflect on the outcomes of their choices.
 status: review

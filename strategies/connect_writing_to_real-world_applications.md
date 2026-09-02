@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: connect_writing_to_real-world_applications
 title: Connect Writing to Real-World Applications
 description: "Instructors connect the importance and usefulness of writing to learners' lives and future careers."
 status: review

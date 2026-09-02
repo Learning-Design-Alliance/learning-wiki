@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: interpreting_the_news
 title: Interpreting the News
 description: Learners pick a current news item and explore it from different points of view, examining whether the news is reported objectively and what other interpretations might exist.
 status: review

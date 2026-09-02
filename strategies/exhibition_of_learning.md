@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: exhibition_of_learning
 title: Exhibition of Learning
 description: A culminating public event where learners present finished work to an authentic audience, making their learning visible and open to questioning.
 status: review

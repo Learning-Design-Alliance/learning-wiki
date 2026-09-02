@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: offering_multiple_options_for_family_engagement
 title: Offering Multiple Options for Family Engagement
 description: Providing a variety of options will improve overall participation, particularly for families with significant barriers to engagement.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: present_tense_messages
 title: Present Tense Messages
 description: A self-regulation strategy that redirects internal dialogue from future-oriented worry to concrete, actionable steps in the present moment.
 status: review

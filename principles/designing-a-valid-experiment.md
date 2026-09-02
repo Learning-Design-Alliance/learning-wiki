@@ -1,5 +1,6 @@
 ---
 type: principle
+id: designing-a-valid-experiment
 title: Designing a Valid Experiment
 description: A scientific experiment isolates one manipulated variable between an experimental and control group, guards against experimenter and participant-expectancy bias through blinding, and uses random sampling for generalizability and random assignment for causal inference — two distinct uses of randomness that are often conflated.
 status: draft

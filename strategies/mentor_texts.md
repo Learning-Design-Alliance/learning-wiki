@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mentor_texts
 title: Mentor Texts
 description: Mentor texts are examples of high-quality writing used to teach students how to improve their own writing skills.
 status: review

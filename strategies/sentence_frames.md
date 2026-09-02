@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: sentence_frames
 title: Sentence Frames
 description: Provide partially completed sentence starters that structure academic or dialogic language so learners can participate in discussion and writing beyond their current independent production level.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: principle
+id: transfer-of-learning
 title: Transfer of Learning
 description: Transfer of learning is the principle of helping learners apply what they have learned in one context to new tasks, situations, or problems.
 status: review

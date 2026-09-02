@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: formative-assessment-cycles
 title: Formative Assessment Cycles
 description: Running instruction as a repeating loop — elicit evidence of learning, interpret it, adjust teaching, then re-elicit — so that what happens next is decided by what students actually understood.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: interdisciplinary-societal-dilemma-units
 title: Interdisciplinary Societal Dilemma Units
 description: A school-based pattern that organizes interdisciplinary units around authentic societal dilemmas with no single correct answer, alternating disciplinary preparation with dialogic small-group deliberation, run out-of-school to escape institutional scheduling constraints.
 status: draft

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: sustained-silent-reading
 title: Sustained Silent Reading
 description: A scheduled period in which all members of a class or school read self-selected material silently, with the goal of building reading volume, fluency, and voluntary reading habits.
 status: review

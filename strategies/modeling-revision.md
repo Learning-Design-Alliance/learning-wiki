@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: modeling-revision
 title: Modeling Revision
 description: The instructor makes the revision process visible by thinking aloud while revising a text (or other artifact), demonstrating how writers evaluate, diagnose, and improve their own work.
 status: review

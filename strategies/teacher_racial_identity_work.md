@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: teacher_racial_identity_work
 title: Teacher Racial Identity Work
 description: Teacher racial identity work involves educators examining their own racial identity, biases, and privilege to create a more inclusive and equitable classroom environment.
 status: review

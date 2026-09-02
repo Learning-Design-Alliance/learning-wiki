@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: manipulatives-sentence_combining
 title: "Manipulatives: Sentence Combining"
 description: Using physical or digital manipulatives to combine simple sentences, reducing working memory load while building explicit syntax knowledge.
 status: review

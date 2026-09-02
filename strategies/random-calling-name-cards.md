@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: random-calling-name-cards
 title: Random Calling Name Cards
 description: Randomly drawing student name cards to select who answers questions, distributing participation equitably and keeping all students accountable for engagement.
 status: review

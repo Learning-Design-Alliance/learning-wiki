@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: refutation-texts
 title: Refutation Texts
 description: Texts that explicitly state a common misconception, refute it, and present the scientifically accepted alternative.
 status: review

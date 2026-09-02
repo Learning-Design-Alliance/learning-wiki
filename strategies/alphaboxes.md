@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: alphaboxes
 title: Alphaboxes
 description: A collaborative vocabulary-and-concept generation strategy in which students fill an alphabet grid with words, questions, and ideas related to a text, distributing cognitive work across a group.
 status: review

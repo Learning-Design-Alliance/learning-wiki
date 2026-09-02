@@ -1,5 +1,6 @@
 ---
 type: principle
+id: reinforcement-theory
 title: Reinforcement Theory
 description: Reinforcement theory is the principle of shaping behavior by making desired responses more likely through contingent consequences such as feedback, reward, or progression.
 status: review

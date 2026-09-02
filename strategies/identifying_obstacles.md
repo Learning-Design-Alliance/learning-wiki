@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: identifying_obstacles
 title: Identifying Obstacles
 description: Identifying obstacles involves recognizing potential challenges that could impede progress toward a goal, so that plans and mitigation strategies can be formed in advance.
 status: review

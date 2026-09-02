@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: flashcard-drill
 title: Flashcard Drill
 description: Repeated retrieval of facts or vocabulary using card-based question–answer pairs, typically with self-paced cycling and spacing.
 status: review

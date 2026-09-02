@@ -1,5 +1,6 @@
 ---
 type: principle
+id: skills-sprint
 title: Skills Sprint
 description: Skills sprints are short, intensive learning cycles organized around producing something meaningful under time constraints.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: recess
 title: Recess
 description: Offer daily recess to allow students to be active, which can improve memory, conflict resolution skills, and creativity.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: positive-classroom-climate
 title: Positive Classroom Climate
 description: The deliberate cultivation of supportive teacher–student relationships, peer norms, and emotional conditions that make learners feel safe, respected, and motivated to engage.
 status: review

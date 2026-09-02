@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: uncluttered_learning_environment
 title: Uncluttered Learning Environment
 description: A clean, organized, and uncluttered learning environment is free from distractions and allows the focus to be on learning.
 status: review

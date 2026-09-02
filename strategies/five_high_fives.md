@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: five_high_fives
 title: Five High Fives
 description: A movement-based game in which students try to high-five five different classmates, then use the pattern of success and failure to discover parity (handshake) reasoning.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: skimming
 title: Skimming
 description: Skimming involves reviewing a text quickly, focusing on headings, captions, and highlighted information, to gain familiarity with the material before reading it thoroughly.
 status: review

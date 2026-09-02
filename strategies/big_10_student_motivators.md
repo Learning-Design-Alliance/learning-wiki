@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: big_10_student_motivators
 title: Big 10 Student Motivators
 description: Ten research-backed strategies that encourage playful learning, innovative thinking, and problem-solving skills while engaging students in core subjects.
 status: review

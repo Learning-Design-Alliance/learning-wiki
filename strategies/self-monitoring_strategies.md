@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-monitoring_strategies
 title: Self Monitoring Strategies
 description: Learners deliberately observe, record, and evaluate their own performance, attention, or comprehension during learning to regulate effort and strategy use.
 status: review

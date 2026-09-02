@@ -10,7 +10,7 @@ sources:
     resource: "https://doi.org/10.1002/acp.1250"
     title: "van Merriënboer, J. J. G., Kester, L., & Paas, F. (2006). Teaching complex rather than simple tasks: Balancing intrinsic and germane load to enhance transfer of learning. *Applied Cognitive Psychology, 20*(3), 343–352. [https://doi.org/10.1002/acp.1250](https://doi.org/10.1002/acp.1250)"
     author: "van Merriënboer, J. J. G., Kester, L., & Paas, F"
-id: wt-1
+id: whole-task-performance-improves-transfer
 evidence_strength: strong
 ---
 

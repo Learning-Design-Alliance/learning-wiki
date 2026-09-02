@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: clear_structure_presentation
 title: Clear Structure Presentation
 description: Organizing and presenting content with explicit hierarchical structure — headings, outlines, advance organizers, and signaling cues — so learners can perceive the organization of the material and allocate working memory to understanding rather than to inferring structure.
 status: review

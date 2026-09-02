@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: classroom-movement-breaks
 title: Classroom Movement Breaks
 description: Short, structured physical activity breaks inserted into lessons to restore attention and support learning.
 status: review

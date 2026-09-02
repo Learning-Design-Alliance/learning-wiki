@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: give_hints_and_clues_to_help_students_answer_questions
 title: Give Hints and Clues to Help Students Answer Questions
 description: When a learner struggles to answer, the instructor provides graduated hints and rephrased questions that narrow the search space without supplying the answer.
 status: review

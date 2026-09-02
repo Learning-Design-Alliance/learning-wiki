@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: signage_and_displays
 title: Signage and Displays
 description: Deliberate design of wall displays, signage, and visual artifacts in the learning environment to support orientation, belonging, and identity — without adding visual clutter that competes for attention.
 status: review

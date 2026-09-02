@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: connect_prior_knowledge_to_new_learning
 title: Connect Prior Knowledge to New Learning
 description: Building connections to prior understandings and experiences helps learners integrate new information into their existing knowledge base.
 status: review

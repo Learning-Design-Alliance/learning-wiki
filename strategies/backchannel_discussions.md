@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: backchannel_discussions
 title: Backchannel Discussions
 description: A backchannel is a secondary, text-based conversation running alongside a primary activity such as a lecture, presentation, or video.
 status: review

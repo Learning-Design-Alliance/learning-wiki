@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reading_conferences
 title: Reading Conferences
 description: One-on-one, brief teacher–student conversations during independent reading in which the teacher assesses the reader's thinking, coaches strategy use, and sets a next-step goal.
 status: review

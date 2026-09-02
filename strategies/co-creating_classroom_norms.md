@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: co-creating_classroom_norms
 title: Co-Creating Classroom Norms
 description: Students and teacher jointly generate, discuss, and adopt the behavioral and academic norms that govern the classroom community.
 status: review

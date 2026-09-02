@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: leveraging_strengths_thinking
 title: Leveraging Strengths Thinking
 description: Shifting from deficit to strengths thinking, which views families as having significant expertise and resources that can inform and improve student learning.
 status: review

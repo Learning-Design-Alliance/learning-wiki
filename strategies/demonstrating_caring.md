@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: demonstrating_caring
 title: Demonstrating Caring
 description: Demonstrating caring communicates sincere personal investment in learners through everyday actions and words, building the relational trust that underpins motivation, persistence, and classroom climate.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: math-talks-number-talks
 title: Math Talks / Number Talks
 description: Short, daily classroom routines in which students solve a mathematics problem mentally, then share and compare solution strategies through facilitated whole-class discussion.
 status: review

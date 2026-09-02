@@ -1,5 +1,6 @@
 ---
 type: element
+id: hypothesis-testing
 title: Hypothesis Testing
 description: Learners generate an explicit, testable prediction about an outcome or relationship, then confront evidence that confirms or disconfirms it.
 status: review

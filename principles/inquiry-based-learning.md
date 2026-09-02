@@ -1,5 +1,6 @@
 ---
 type: principle
+id: inquiry-based-learning
 title: Inquiry-based Learning
 description: Inquiry-based learning organizes learning around questions, investigation, evidence, and explanation rather than around direct transmission alone.
 status: review

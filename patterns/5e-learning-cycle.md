@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: 5e-learning-cycle
 title: 5E Learning Cycle
 description: The 5E Learning Cycle organizes instruction into five phases — Engage, Explore, Explain, Elaborate, Evaluate — sequencing hands-on exploration before formal explanation.
 status: review

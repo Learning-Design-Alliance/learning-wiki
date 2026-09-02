@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: narrated-emotional-storytelling-in-teacher-pd
 title: Narrated Emotional Storytelling in Professional Learning Communities
 description: A facilitation strategy in which teachers narrate emotions they experienced in specific teaching moments, and colleagues respond with elaborated questioning that turns the emotion into an object of collective inquiry rather than simple venting or solidarity.
 status: draft

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: increase_latency_periods_when_questioning_students
 title: Increase Latency Periods When Questioning Students
 description: Extending the pause after asking a question (wait time) so all learners — especially low-achieving ones — have time to formulate substantive answers.
 status: review

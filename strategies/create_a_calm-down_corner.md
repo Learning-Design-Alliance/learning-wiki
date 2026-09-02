@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: create_a_calm-down_corner
 title: Create a Calm-Down Corner
 description: Set aside a dedicated, positive reflection space in the classroom where kids can go to practice their emotional regulation skills.
 status: review

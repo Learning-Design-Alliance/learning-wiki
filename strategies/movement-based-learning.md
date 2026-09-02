@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: movement-based-learning
 title: Movement Based Learning
 description: Using physical movement, gesture, and whole-body activity as a vehicle for encoding, practicing, or expressing academic content.
 status: review

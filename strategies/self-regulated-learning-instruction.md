@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-regulated-learning-instruction
 title: Self Regulated Learning Instruction
 description: Explicitly teaching learners to plan, monitor, and control their own learning processes rather than relying on teacher-directed regulation.
 status: review

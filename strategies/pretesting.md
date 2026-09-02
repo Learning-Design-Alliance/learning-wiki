@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: pretesting
 title: Pretesting
 description: Asking learners to attempt or guess answers to questions on not-yet-taught material before instruction begins.
 status: review

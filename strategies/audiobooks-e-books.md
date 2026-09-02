@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: audiobooks-e-books
 title: "Audiobooks & E-books"
 description: Audiobooks and e-books enhance literacy skills, comprehension, and engagement, especially for emerging readers, English language learners, and students with reading challenges.
 status: review

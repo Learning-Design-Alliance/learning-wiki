@@ -1,5 +1,6 @@
 ---
 type: element
+id: assess-performance
 title: Assess performance
 description: Measures learner progress and determines mastery of content.
 status: review

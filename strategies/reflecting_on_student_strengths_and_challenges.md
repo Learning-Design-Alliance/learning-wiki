@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reflecting_on_student_strengths_and_challenges
 title: Reflecting on Student Strengths and Challenges
 description: Educators identify specific student strengths and challenges related to learning, social-emotional learning, or other domains, and use aligned strategies to leverage strengths to support learning and address challenges.
 status: review

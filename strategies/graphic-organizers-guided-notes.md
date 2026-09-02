@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: graphic-organizers-guided-notes
 title: Graphic Organizers/Guided Notes
 description: During lecture, provide students with graphic organizers or guided notes to help pull out the important points.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: equitable_grading
 title: Equitable Grading
 description: Equitable grading redesigns grading policies and practices so that grades accurately reflect learning rather than behavior, timing, or bias.
 status: review

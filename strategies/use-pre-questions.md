@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: use-pre-questions
 title: Use Pre Questions
 description: Asking learners questions about material before instruction, even when they answer incorrectly, to enhance subsequent learning of that material.
 status: review

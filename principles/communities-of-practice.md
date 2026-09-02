@@ -1,5 +1,6 @@
 ---
 type: principle
+id: communities-of-practice
 title: Communities of Practice
 description: Communities of practice are groups that deepen learning through sustained participation around a shared domain, problem space, or profession.
 status: review

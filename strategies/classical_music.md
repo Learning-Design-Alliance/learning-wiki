@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: classical_music
 title: Classical Music
 description: Playing calm classical music at low volume as learners enter or settle into a learning environment to shape atmosphere, arousal, and transition behavior.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: blended-learning
 title: Blended Learning
 description: Blended Learning is the pattern-level target for instruction that intentionally combines in-person and digital learning experiences so each mode does some work the other does not.
 status: review

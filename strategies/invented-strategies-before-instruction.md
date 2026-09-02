@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: invented-strategies-before-instruction
 title: Invented Strategies Before Instruction
 description: Learners attempt to solve novel problems using their own informal strategies before receiving formal instruction on the canonical method.
 status: review

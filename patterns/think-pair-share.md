@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: think-pair-share
 title: Think-Pair-Share
 description: Think-Pair-Share is a short discussion pattern in which learners first think individually, then discuss with a partner, and finally share outward to a larger group.
 status: review

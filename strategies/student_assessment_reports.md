@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: student_assessment_reports
 title: Student Assessment Reports
 description: Student assessment reports are structured, often visual documents that communicate learner progress and assessment results to students, parents, and other stakeholders.
 status: review

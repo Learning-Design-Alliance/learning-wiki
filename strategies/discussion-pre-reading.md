@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: discussion-pre-reading
 title: Discussion (Pre-Reading)
 description: A pre-reading activity in which learners physically commit to an opinion about the reading topic, build arguments for it, and debate peers holding opposing views before encountering the text.
 status: review

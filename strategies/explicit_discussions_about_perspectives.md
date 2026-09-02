@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: explicit_discussions_about_perspectives
 title: Explicit Discussions About Perspectives
 description: Have explicit conversations about emotions and social issues, including issues of social justice, to build perspective-taking and empathy.
 status: review

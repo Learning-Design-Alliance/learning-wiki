@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: choice
 title: Choice
 description: Giving learners structured options about how, what, or when they learn, to support autonomy and engagement.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reading_documentation_and_reflection
 title: Reading Documentation and Reflection
 description: Have students record details about their reading such as book titles, number of pages read, and new vocabulary.
 status: review

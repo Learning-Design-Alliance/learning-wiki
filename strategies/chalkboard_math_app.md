@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: chalkboard_math_app
 title: Chalkboard Math App
 description: A tablet app for drilling basic math facts (addition, subtraction, multiplication, division) with immediate feedback and a chalkboard-style interface.
 status: review

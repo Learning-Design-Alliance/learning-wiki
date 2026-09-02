@@ -1,5 +1,6 @@
 ---
 type: principle
+id: high-stakes-testing-accountability-effects
 title: High-Stakes Testing and Accountability Effects
 description: Accountability systems like NCLB depend on content standards being neither too broad nor too narrow, on tests actually aligning with those standards, and on measuring growth as well as absolute proficiency — and when any of these break down, the predictable results are curriculum narrowing, teaching to the test, and unreliable comparisons across schools and states.
 status: draft

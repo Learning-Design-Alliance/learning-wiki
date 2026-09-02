@@ -1,5 +1,6 @@
 ---
 type: principle
+id: cultural-life-experiences-connections
 title: "Cultural & Life Experiences Connections"
 description: "Connecting instruction to learners' cultural and life experiences means treating what learners already know, value, and have lived through as assets for meaning-making rather than as irrelevant background."
 status: review

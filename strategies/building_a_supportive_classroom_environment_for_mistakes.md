@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: building_a_supportive_classroom_environment_for_mistakes
 title: Building a Supportive Classroom Environment for Mistakes
 description: Specific teacher actions that establish a classroom culture in which errors are treated as information and opportunities for learning rather than failures to be penalized.
 status: review

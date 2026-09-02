@@ -18,7 +18,7 @@ sources:
     resource: "https://doi.org/10.1037/xlm0000578"
     title: "Thalmann, M., Souza, A. S., & Oberauer, K. (2019). How does chunking help working memory? *Journal of Experimental Psychology: Learning, Memory, and Cognition, 45*(1), 37–55. [https://doi.org/10.1037/xlm0000578](https://doi.org/10.1037/xlm0000578)"
     author: "Thalmann, M., Souza, A. S., & Oberauer, K"
-id: ch-1
+id: chunking-reduces-working-memory-load
 evidence_strength: strong
 ---
 

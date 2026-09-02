@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: integrate_emotions_into_daily_schedule_and_routine
 title: Integrate Emotions into Daily Schedule and Routine
 description: Embed explicit anticipation and discussion of emotions into the daily schedule so students predict, plan for, and manage emotional states across academic and social activities.
 status: review

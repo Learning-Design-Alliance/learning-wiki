@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: dictation
 title: Dictation
 description: Learners transcribe spoken words, sentences, or passages, converting speech to written form to build spelling, phoneme-grapheme mapping, and word recognition.
 status: review

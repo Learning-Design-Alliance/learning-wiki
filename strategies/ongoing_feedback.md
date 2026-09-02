@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: ongoing_feedback
 title: Ongoing Feedback
 description: Ongoing feedback provides feedback at multiple stages of the writing process rather than only on final products, allowing iterative revision while work is still in progress.
 status: review

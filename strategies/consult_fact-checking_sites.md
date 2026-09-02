@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: consult_fact-checking_sites
 title: Consult Fact-Checking Sites
 description: Learners regularly use professional fact-checking services and reverse image search to verify claims and media before accepting or sharing them.
 status: review

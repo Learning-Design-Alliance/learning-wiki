@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: modeling-multi-step-processes
 title: Modeling Multi Step Processes
 description: Explicitly demonstrating each step of a multi-step procedure, with reasoning narrated, so learners can observe the full sequence before performing it themselves.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: principle
+id: experiential-learning
 title: Experiential Learning
 description: Experiential learning is learning by doing, which may include self-directed learning activities.
 status: review

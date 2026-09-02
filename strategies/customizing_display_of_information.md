@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: customizing_display_of_information
 title: Customizing Display of Information
 description: Customizing the display of information involves modifying the appearance of digital content to reduce reading effort and improve comprehension.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: zoom-in
 title: Zoom In
 description: A visual inquiry routine in which learners examine a small portion of an image before seeing the whole, building and revising hypotheses as new evidence is revealed.
 status: review

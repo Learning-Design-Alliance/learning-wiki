@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: backward-design
 title: Backward Design
 description: A curriculum planning strategy that begins by defining desired learning outcomes and acceptable evidence of achievement, then designs instruction last.
 status: review

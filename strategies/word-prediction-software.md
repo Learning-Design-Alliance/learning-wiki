@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: word-prediction-software
 title: Word Prediction Software
 description: Software that suggests words as a learner types, reducing spelling and transcription demands so composing effort can go to ideas and structure.
 status: review

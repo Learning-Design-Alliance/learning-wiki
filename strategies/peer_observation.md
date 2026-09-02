@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: peer_observation
 title: Peer Observation
 description: A reciprocal process in which educators observe one another's teaching or learners observe peers' performance, using structured protocols to generate formative feedback.
 status: review

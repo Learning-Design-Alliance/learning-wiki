@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: phonics_instruction
 title: Phonics Instruction
 description: Systematic instruction in letter–sound relationships and how to use them to decode and spell words.
 status: review

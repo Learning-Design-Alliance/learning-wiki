@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: patience
 title: Patience
 description: "Sustained teacher patience and supportive pacing when learners struggle with new, demanding tasks — keeping trying rather than lowering expectations or taking over the work."
 status: review

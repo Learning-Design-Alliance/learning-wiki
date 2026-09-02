@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: explicit-routine-instruction
 title: Explicit Routine Instruction
 description: Teaching well-defined procedures and recurring task sequences through direct explanation, modeling, and guided rehearsal until learners can execute them independently.
 status: review

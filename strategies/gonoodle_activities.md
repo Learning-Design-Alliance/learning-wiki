@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: gonoodle_activities
 title: GoNoodle Activities
 description: GoNoodle provides interactive videos that encourage learners to engage in movement and play, supporting attention and learning.
 status: review

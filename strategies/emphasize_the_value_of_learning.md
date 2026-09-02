@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: emphasize_the_value_of_learning
 title: Emphasize the Value of Learning
 description: Help learners focus on and value the process of learning rather than solely on grades.
 status: review

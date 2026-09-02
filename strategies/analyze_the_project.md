@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: analyze_the_project
 title: Analyze the Project
 description: "Before launching a project, teachers analyze it through the lens of English Language Learners (ELLs), identifying the language skills, vocabulary, and discourse functions the project demands and planning scaffolds in advance."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: principle
+id: strengths-based-approach
 title: Strengths-based Approach
 description: A strengths-based approach starts from the assumption that learners bring assets, knowledge, strategies, identities, and capabilities that instruction should recognize and build on.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: hands-on_laboratory_procedures
 title: Hands-On Laboratory Procedures
 description: Learners physically perform scientific or technical procedures in a lab setting, manipulating equipment and materials to build procedural skill and conceptual understanding.
 status: review

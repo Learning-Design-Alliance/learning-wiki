@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: quiet-classroom-pockets-of-quiet
 title: Quiet Classroom/Pockets of Quiet
 description: Creating a quiet classroom by reducing background noise to support increased Attention towards learning.
 status: review

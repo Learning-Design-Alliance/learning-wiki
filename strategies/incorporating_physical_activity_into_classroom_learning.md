@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: incorporating_physical_activity_into_classroom_learning
 title: Incorporating Physical Activity Into Classroom Learning
 description: Incorporate movement into classroom instruction by having science classes explore natural settings, using physical movements to teach math, or acting out stories in language arts.
 status: review

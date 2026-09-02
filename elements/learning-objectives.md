@@ -1,5 +1,6 @@
 ---
 type: element
+id: learning-objectives
 title: Learning Objectives
 description: Learning objectives are explicit statements of what learners should know or be able to do after instruction, providing direction for design, instruction, and assessment.
 status: review

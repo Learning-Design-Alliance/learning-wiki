@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: art_journaling
 title: Art Journaling
 description: Learners combine visual art-making with written reflection in an ongoing journal to process content, emotions, and personal connections.
 status: review

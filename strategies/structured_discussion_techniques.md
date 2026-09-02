@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: structured_discussion_techniques
 title: Structured Discussion Techniques
 description: Facilitating productive discussions through clear expectations, modeling, sentence starters, and repeatable talk routines so learners can sustain rigorous peer dialogue with minimal instructor supervision.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: learning-through-play
 title: Learning Through Play
 description: Structuring learning activities as playful, self-directed, and intrinsically motivating experiences so that exploration and enjoyment drive knowledge construction.
 status: review

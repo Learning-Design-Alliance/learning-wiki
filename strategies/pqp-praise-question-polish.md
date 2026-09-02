@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: pqp-praise-question-polish
 title: PQP (Praise-Question-Polish)
 description: "The PQP (Praise-Question-Polish) technique guides learners to provide specific and constructive feedback on each other's work."
 status: review

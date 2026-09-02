@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: cultivate_multiple_ways_of_knowing_and_making_meaning
 title: Cultivate Multiple Ways of Knowing and Making Meaning
 description: Honoring multiple and diverse ways of developing understandings of the world ensures that learners have opportunities to connect with the material in ways that resonate with their individual strengths and backgrounds.
 status: review

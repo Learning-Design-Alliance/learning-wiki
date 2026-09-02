@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: listen_to_the_voices_of_students
 title: Listen to the Voices of Students
 description: Providing students authorship and allowing them to share their stories empowers them, fostering agency and leadership.
 status: review

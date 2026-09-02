@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mystery-motivator
 title: Mystery Motivator
 description: An unpredictable, concealed reward delivered contingent on meeting a behavioral or academic criterion, using uncertainty itself as a motivational amplifier.
 status: review

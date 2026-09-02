@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: design-thinking
 title: Design Thinking
 description: A learner-centered innovation process — empathize, define, ideate, prototype, test — used as a learning strategy in which students solve open-ended, human-centered problems through iterative cycles of making and feedback.
 status: review

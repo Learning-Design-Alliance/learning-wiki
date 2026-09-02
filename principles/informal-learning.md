@@ -1,5 +1,6 @@
 ---
 type: principle
+id: informal-learning
 title: Informal Learning
 description: Informal learning is self-directed, unofficial learning "pulled" by the learner's own perceived need rather than "pushed" by a predetermined curriculum, and accounts for the large majority of adult and workplace learning even though organizations still spend most training budgets on formal instruction.
 status: draft

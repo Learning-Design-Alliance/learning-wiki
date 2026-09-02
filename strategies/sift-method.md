@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: sift-method
 title: Sift Method
 description: A four-move strategy (Stop, Investigate the source, Find better coverage, Trace claims) for evaluating online information quickly through lateral rather than vertical reading.
 status: review

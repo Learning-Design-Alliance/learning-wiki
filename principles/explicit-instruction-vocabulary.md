@@ -1,5 +1,6 @@
 ---
 type: principle
+id: explicit-instruction-vocabulary
 title: "Explicit Instruction: Vocabulary"
 description: Seeing and using new words repeatedly and across contexts is critical for vocabulary acquisition.
 status: review

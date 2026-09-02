@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: question-formulation-technique
 title: Question Formulation Technique
 description: A structured procedure in which learners generate, refine, and prioritize their own questions about a topic, shifting ownership of inquiry from instructor to learner.
 status: review

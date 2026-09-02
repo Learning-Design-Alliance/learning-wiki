@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: brain-based_learning_through_movement
 title: Brain-Based Learning Through Movement
 description: Structured physical movement and multi-sensory activity are woven into instruction to support attention, memory consolidation, and engagement.
 status: review

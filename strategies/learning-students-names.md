@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: learning-students-names
 title: Learning Students Names
 description: The instructor deliberately learns and uses each student's name early in a course to build rapport, participation, and accountability.
 status: review

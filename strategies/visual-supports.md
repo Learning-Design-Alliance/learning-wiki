@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: visual-supports
 title: Visual Supports
 description: Visual supports use images, diagrams, graphic organizers, and other visual representations to complement or structure verbal information and reduce cognitive load.
 status: review

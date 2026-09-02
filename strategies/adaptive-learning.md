@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: adaptive-learning
 title: Adaptive Learning
 description: A strategy in which instruction, task difficulty, or pacing adjusts dynamically to individual learner performance, typically via algorithmic or rule-based systems.
 status: review

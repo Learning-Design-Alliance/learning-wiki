@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: broaden_your_palate
 title: Broaden Your Palate
 description: Deliberately consume news and information sources that do not share your political perspective, to sharpen evaluation skills and reduce biased assimilation.
 status: review

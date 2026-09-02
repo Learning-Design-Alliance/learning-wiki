@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: community-building
 title: Community Building
 description: Deliberate design of interpersonal structures, norms, and shared activities that create belonging, trust, and mutual accountability among learners.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: frustration-and-stress-prevention-reduction-techniques
 title: Frustration and Stress Prevention/Reduction Techniques
 description: Pre-planned techniques instructors use to prevent and reduce their own stress and frustration in the classroom, protecting both teacher well-being and instructional quality.
 status: review

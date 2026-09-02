@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: develop_observable_criteria
 title: Develop Observable Criteria
 description: "Using Bloom's Taxonomy, Webb's Depth of Knowledge, and Marzano's Dimensions of Learning to develop measurable course objectives that are concise, student-friendly, and clearly communicated."
 status: review

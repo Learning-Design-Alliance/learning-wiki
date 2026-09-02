@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: multimedia-effect
+id: multimedia-words-plus-images-beat-words-alone
 evidence_strength: moderate
 ---
 

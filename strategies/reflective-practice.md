@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reflective-practice
 title: Reflective Practice
 description: A structured process in which learners deliberately examine their own experiences, actions, and reasoning to extract lessons and improve future performance.
 status: review

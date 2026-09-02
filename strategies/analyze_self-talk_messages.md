@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: analyze_self-talk_messages
 title: Analyze Self-Talk Messages
 description: Ask students to identify patterns or themes in their self-talk.
 status: review

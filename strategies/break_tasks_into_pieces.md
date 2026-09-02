@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: break_tasks_into_pieces
 title: Break Tasks Into Pieces
 description: Divide complex tasks into smaller, manageable chunks with clear checkpoints so learners can complete each piece within their attention and working-memory limits.
 status: review

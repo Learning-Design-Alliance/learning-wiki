@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: temperature_monitoring_for_learning_environments
 title: Temperature Monitoring for Learning Environments
 description: Monitoring and adjusting the thermal conditions of a learning space to keep learners in the range where attention, comfort, and performance are maximized.
 status: review

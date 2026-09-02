@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: just-in-time-teaching
 title: Just-In-Time Teaching (JiTT)
 description: Just-In-Time Teaching has students submit short web-based responses hours before class, letting the instructor adapt that day's activities to exactly where students are struggling, so class time shifts from content transfer to active, cooperative problem-solving.
 status: draft

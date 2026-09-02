@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Spontaneous sentence production under minimal planning increases writers' understanding but reduces initial text quality
-id: baaijen-1
+id: spontaneous-sentence-production-in-synthetic-planning-increases-understanding
 status: draft
 generated:
   by: claude/unspecified

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: word_study
 title: Word Study
 description: Word study is an approach to spelling and word knowledge instruction that emphasizes active investigation of word patterns rather than rote memorization of word lists.
 status: review

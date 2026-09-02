@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: specific_feedback
 title: Specific Feedback
 description: Providing targeted feedback tied directly to specific words, phrases, sentences, or paragraphs in student writing, addressing both content and craft.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: chunking-content
 title: Chunking Content
 description: Breaking instructional content into small, coherent units that each fit within working memory limits before being integrated into larger structures.
 status: review

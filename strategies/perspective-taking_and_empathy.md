@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: perspective-taking_and_empathy
 title: Perspective-taking and Empathy
 description: Deliberately adopting students' viewpoints and responding with empathy to strengthen relationships, communication, and learning conditions.
 status: review

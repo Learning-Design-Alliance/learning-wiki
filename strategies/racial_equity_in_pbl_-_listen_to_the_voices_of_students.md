@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: racial_equity_in_pbl_-_listen_to_the_voices_of_students
 title: Racial Equity in PBL - Listen to the Voices of Students
 description: Give students authorship in sharing and telling their own stories, which a good project allows them to do.
 status: review

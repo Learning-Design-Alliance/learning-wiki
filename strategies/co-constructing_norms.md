@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: co-constructing_norms
 title: Co Constructing Norms
 description: Facilitating a collaborative process in which learners and instructor jointly develop, articulate, and commit to behavioral and intellectual norms for the learning community.
 status: review

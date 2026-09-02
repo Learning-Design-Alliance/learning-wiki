@@ -1,5 +1,6 @@
 ---
 type: element
+id: simple-to-complex-sequencing
 title: Simple-to-complex sequencing
 description: Learning progresses from basic concepts to more detailed, complex ideas, so foundational knowledge is established before advanced material is introduced.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: micro-credentials
 title: Micro Credentials
 description: A strategy that certifies granular, verifiable competencies through short, focused assessments, allowing learners to accumulate and display evidence of specific skills.
 status: review

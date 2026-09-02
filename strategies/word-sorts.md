@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: word-sorts
 title: Word Sorts
 description: A hands-on word study activity in which learners categorize words by shared orthographic, phonological, or morphological features to build decoding, spelling, and vocabulary knowledge.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: principle
+id: multimedia-learning
 title: Multimedia Learning
 description: Multimedia learning is the principle of combining words, visuals, and other media in ways that support understanding without overloading attention.
 status: review

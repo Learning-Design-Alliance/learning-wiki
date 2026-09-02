@@ -1,5 +1,6 @@
 ---
 type: element
+id: explicit-teaching
 title: Explicit Teaching
 description: Explicit teaching is the element in which instructors directly explain, model, and sequence key knowledge or procedures rather than leaving them to be inferred.
 status: review

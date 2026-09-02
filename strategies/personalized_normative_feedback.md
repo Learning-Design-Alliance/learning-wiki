@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: personalized_normative_feedback
 title: Personalized Normative Feedback
 description: Providing individuals with tailored information comparing their own behavior, beliefs, or performance to actual peer-group norms to correct misperceptions and motivate change.
 status: review

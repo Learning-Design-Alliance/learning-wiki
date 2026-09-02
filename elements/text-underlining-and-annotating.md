@@ -1,5 +1,6 @@
 ---
 type: element
+id: text-underlining-and-annotating
 title: Text underlining and annotating
 description: A study aid involving marking text to indicate importance.
 status: review

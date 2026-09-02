@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: prepare_instructions_carefully
 title: Prepare Instructions Carefully
 description: Plan, sequence, and pre-test task instructions in advance — grouping similar tasks, limiting steps per instruction, and anticipating learner questions — so that working memory is spent on the task, not on decoding directions.
 status: review

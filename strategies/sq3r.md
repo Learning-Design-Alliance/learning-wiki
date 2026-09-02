@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: sq3r
 title: SQ3R
 description: A five-step reading strategy — Survey, Question, Read, Recite, Review — that structures text study around previewing, goal-setting, and self-testing.
 status: review

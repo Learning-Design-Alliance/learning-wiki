@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: co-constructing_knowledge
 title: Co-constructing Knowledge
 description: Co-constructing knowledge involves teachers and students dialoguing and building understanding together, rather than teachers transmitting content for students to receive.
 status: review

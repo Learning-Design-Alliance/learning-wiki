@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: creating_an_action_plan
 title: Creating An Action Plan
 description: Learners convert a goal into a concrete, sequenced plan specifying when, where, and how they will act, and how they will monitor progress.
 status: review

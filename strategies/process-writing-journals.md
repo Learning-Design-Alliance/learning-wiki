@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: process-writing-journals
 title: Process Writing (Journals)
 description: Learners write frequently in journals with an emphasis on communicating ideas rather than producing error-free text, receiving selective, delayed teacher feedback tied to recently covered material.
 status: review

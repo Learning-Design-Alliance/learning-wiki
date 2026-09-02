@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: synthetic-planning-for-discovery-oriented-writing
 title: Synthetic Planning for Discovery-Oriented Writing
 description: A writing-task design that deliberately withholds a detailed structural outline — asking writers only to state their overall goal before drafting — so that spontaneous, minimally-planned sentence production can generate new ideas, at the cost of initial text quality that must be repaired through global revision.
 status: draft

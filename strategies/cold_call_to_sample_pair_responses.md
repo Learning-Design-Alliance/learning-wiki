@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: cold_call_to_sample_pair_responses
 title: Cold Call To Sample Pair Responses
 description: After pair work, the instructor cold-calls students to report their pair's answer, making pair discussion accountable and giving the class a sample of peer reasoning.
 status: review

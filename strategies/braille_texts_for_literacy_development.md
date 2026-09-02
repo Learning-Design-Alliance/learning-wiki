@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: braille_texts_for_literacy_development
 title: Braille Texts for Literacy Development
 description: Braille texts are used to build literacy skills such as decoding, fluency, and syntax through tactile reading.
 status: review

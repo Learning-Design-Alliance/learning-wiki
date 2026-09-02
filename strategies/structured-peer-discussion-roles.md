@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: structured-peer-discussion-roles
 title: Structured Peer Discussion Roles
 description: Assigning learners distinct, interdependent roles (e.g., questioner, summarizer, skeptic) within small-group discussion to ensure equitable participation and deeper processing.
 status: review

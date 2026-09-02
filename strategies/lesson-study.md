@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: lesson-study
 title: Lesson Study
 description: A Japanese-originated professional development cycle in which teachers collaboratively plan, observe, and refine a single research lesson to study student learning.
 status: review

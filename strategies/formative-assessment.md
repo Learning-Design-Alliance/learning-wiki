@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: formative-assessment
 title: Formative Assessment
 description: Eliciting evidence of learner understanding during instruction and using it to adapt teaching and learning in real time.
 status: review

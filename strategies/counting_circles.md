@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: counting_circles
 title: Counting Circles
 description: A whole-class routine in which learners count aloud around a circle by a chosen increment from an arbitrary starting number, building number sense, fluency, and flexible mental computation.
 status: review

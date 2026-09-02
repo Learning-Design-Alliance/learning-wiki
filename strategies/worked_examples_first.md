@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: worked_examples_first
 title: Worked_Examples_First
 description: Sequence instruction so learners study fully worked solutions before attempting problems themselves, then fade support as expertise grows.
 status: review

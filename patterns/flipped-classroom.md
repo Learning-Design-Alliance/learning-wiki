@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: flipped-classroom
 title: Flipped Classroom
 description: Flipped Classroom is a pattern that shifts some direct instruction or initial content acquisition outside class so that class time can be used for application, discussion, problem solving, and feedback.
 status: review

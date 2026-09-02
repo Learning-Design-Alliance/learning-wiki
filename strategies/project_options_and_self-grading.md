@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: project_options_and_self-grading
 title: Project Options and Self-Grading
 description: Offer multiple project options and co-construct grading criteria with students, who then assess their own work against those criteria and reflect on the grade they assign themselves.
 status: review

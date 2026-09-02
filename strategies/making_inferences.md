@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: making_inferences
 title: Making Inferences
 description: This strategy requires readers to evaluate or draw conclusions from information in a text, even when the author does not explicitly state it.
 status: review

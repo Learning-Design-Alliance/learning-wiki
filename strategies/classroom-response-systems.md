@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: classroom-response-systems
 title: Classroom Response Systems
 description: Classroom response systems (clickers) collect every learner's answer to in-class questions, making whole-class thinking visible and enabling immediate feedback and peer discussion.
 status: review

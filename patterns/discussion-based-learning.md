@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: discussion-based-learning
 title: Discussion-Based Learning
 description: Discussion-Based Learning is a pattern in which understanding is built through structured conversation rather than one-way presentation alone.
 status: review

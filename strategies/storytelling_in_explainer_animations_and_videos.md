@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: storytelling_in_explainer_animations_and_videos
 title: Storytelling in Explainer Animations and Videos
 description: "Combining visual elements with engaging narratives to capture the learners' attention and facilitate long-term information retention."
 status: review

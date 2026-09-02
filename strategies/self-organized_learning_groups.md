@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-organized_learning_groups
 title: Self-Organized Learning Groups
 description: Learning cohorts formed by employees to learn from each other on topics like improving Scrum processes or new skills such as technical tools or programming languages.
 status: review

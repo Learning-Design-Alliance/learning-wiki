@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: music_and_dance_integration
 title: Music and Dance Integration
 description: This strategy uses movement, rhythm, and music to enhance learning and understanding of various concepts, particularly in mathematics.
 status: review

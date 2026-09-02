@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: communication_boards
 title: Communication Boards
 description: Communication boards are visual aids that display symbols, pictures, words, or phrases to help individuals with limited or no verbal communication express their thoughts, needs, and ideas.
 status: review

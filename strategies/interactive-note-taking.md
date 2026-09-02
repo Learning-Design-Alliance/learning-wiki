@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: interactive-note-taking
 title: Interactive Note Taking
 description: Learners actively transform, organize, and respond to presented content while taking notes, rather than transcribing it verbatim.
 status: review

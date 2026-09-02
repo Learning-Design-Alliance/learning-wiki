@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: illustrate_through_multiple_media
 title: Illustrate Through Multiple Media
 description: Presenting concepts through complementary combinations of visuals, narration, text, simulations, and video to improve comprehension and retention.
 status: review

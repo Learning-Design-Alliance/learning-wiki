@@ -1,5 +1,6 @@
 ---
 type: principle
+id: phonics
 title: Phonics
 description: Phonics instruction teaches learners to map graphemes (letters) onto phonemes (speech sounds) so they can decode unfamiliar words systematically rather than guess from context or pictures.
 status: review

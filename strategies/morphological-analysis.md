@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: morphological-analysis
 title: Morphological Analysis
 description: Teaching learners to decompose words into meaningful units (roots, prefixes, suffixes) to infer meanings, decode unfamiliar vocabulary, and build generative word knowledge.
 status: review

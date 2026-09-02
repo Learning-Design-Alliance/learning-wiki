@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: trampoline_review
 title: Trampoline Review
 description: Learners review academic content while performing rhythmic gross-motor activity such as bouncing on a mini-trampoline, pairing physical movement with retrieval practice.
 status: review

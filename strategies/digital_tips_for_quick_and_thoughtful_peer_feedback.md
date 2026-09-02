@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: digital_tips_for_quick_and_thoughtful_peer_feedback
 title: Digital Tips for Quick and Thoughtful Peer Feedback
 description: Using digital tools to streamline the exchange of peer feedback so students give and receive timely, structured, and constructive comments on each other's work.
 status: review

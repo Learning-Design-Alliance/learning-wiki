@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: life_back_then
 title: Life Back Then
 description: Learners select a historical period and a character who lived in it, research that person's life using primary and secondary sources, and present the character's perspective to the class.
 status: review

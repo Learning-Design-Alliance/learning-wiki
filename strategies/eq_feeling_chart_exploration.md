@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: eq_feeling_chart_exploration
 title: EQ Feeling Chart Exploration
 description: Learners use the EQ Feeling Chart to identify, name, and communicate their feelings with a partner, then share observations with the whole class.
 status: review

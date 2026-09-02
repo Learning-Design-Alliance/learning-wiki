@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: flashcards
 title: Flashcards
 description: Flashcards present a prompt on one side and its answer on the other, enabling rapid self-testing; paired with spaced repetition software such as Anki, they schedule review at expanding intervals to maximize long-term retention.
 status: review

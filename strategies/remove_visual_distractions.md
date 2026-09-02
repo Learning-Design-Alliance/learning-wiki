@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: remove_visual_distractions
 title: Remove Visual Distractions
 description: Strip unnecessary visual stimuli from the learning environment so attentional and working-memory resources are spent on the task rather than on irrelevant displays.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: normalizing-struggle
 title: Normalizing Struggle
 description: Creating a classroom culture in which difficulty and failure are framed as expected, valuable parts of learning, so students persist through challenges rather than avoiding them.
 status: review

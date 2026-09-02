@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: think-pair-share-turn-talk
 title: "Think-Pair-Share (Turn & Talk)"
 description: A three-step cooperative discussion routine — individual thinking, paired discussion, whole-class sharing — that structures participation and rehearsal before public response.
 status: review

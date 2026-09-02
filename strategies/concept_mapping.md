@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: concept_mapping
 title: Concept Mapping
 description: Concept maps are visual tools that help learners organize and articulate what they know about a given concept or topic.
 status: review

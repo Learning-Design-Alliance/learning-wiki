@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: dont_say_my_number
 title: Don’t Say My Number
 description: A counting game where a chosen number is forbidden, and learners must skip it while counting aloud in sequence.
 status: review

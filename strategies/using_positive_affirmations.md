@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: using_positive_affirmations
 title: Using Positive Affirmations
 description: Replacing negative self-talk with positive affirmations to support self-efficacy, emotional regulation, and a growth mindset.
 status: review

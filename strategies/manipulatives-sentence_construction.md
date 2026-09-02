@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: manipulatives-sentence_construction
 title: "Manipulatives: Sentence Construction"
 description: Using physical objects such as color-coded blocks or magnetic word tiles to represent words and phrases, making sentence structure tangible.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: element
+id: smarter-goals
 title: SMARTER Goals
 description: SMARTER goals are a structured goal-setting element that asks learners to define goals that are specific, measurable, achievable, relevant, time-bound, evaluated, and revised or rewarded, depending on the local formulation.
 status: review

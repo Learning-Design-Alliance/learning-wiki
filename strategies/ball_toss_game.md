@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: ball_toss_game
 title: Ball Toss Game
 description: A physical game in which learners toss a ball at targets while performing a cognitive task (counting, naming, or retrieving), pairing gross-motor activity with early academic skills.
 status: review

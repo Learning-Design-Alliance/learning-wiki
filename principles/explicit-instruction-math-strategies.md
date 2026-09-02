@@ -1,5 +1,6 @@
 ---
 type: principle
+id: explicit-instruction-math-strategies
 title: "Explicit Instruction: Math Strategies"
 description: Direct instruction in math strategies may support some adult learners once conceptual understanding is in place.
 status: review

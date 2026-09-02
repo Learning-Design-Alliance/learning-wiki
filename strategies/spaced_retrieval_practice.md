@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: spaced_retrieval_practice
 title: Spaced Retrieval Practice
 description: Distributing retrieval attempts over time and across sessions so learners must reconstruct knowledge from memory rather than re-expose themselves to it.
 status: review

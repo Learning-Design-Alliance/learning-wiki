@@ -1,5 +1,6 @@
 ---
 type: element
+id: case-studies
 title: Case Studies
 description: Case studies are the element in which learners analyze a concrete scenario, incident, or example in order to reason about concepts, decisions, or consequences.
 status: review

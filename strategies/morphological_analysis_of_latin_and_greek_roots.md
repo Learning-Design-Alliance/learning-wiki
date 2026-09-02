@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: morphological_analysis_of_latin_and_greek_roots
 title: Morphological Analysis of Latin and Greek Roots
 description: Teaching learners to decompose unfamiliar words into meaningful morphemes — roots, prefixes, and suffixes — drawn largely from Latin and Greek, and to use that structure to infer meaning.
 status: review

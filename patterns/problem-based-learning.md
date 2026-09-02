@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: problem-based-learning
 title: Problem-Based Learning
 description: Problem-Based Learning uses an authentic or ill-structured problem to drive inquiry, knowledge building, and solution development.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: translate_academic_to_social_language
 title: Translate Academic to Social Language
 description: Model how to say something in a more academic way or how to paraphrase academic texts into more conversational language.
 status: review

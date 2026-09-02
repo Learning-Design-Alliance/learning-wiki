@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: strategies_to_remember_name_pronunciation
 title: Strategies to Remember Name Pronunciation
 description: Use mnemonic and technological techniques — word association, phonetic respelling, rhyming, and name-pronunciation tools — to learn and correctly pronounce learners' names.
 status: review

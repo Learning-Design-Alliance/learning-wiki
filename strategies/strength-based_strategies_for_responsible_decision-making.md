@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: strength-based_strategies_for_responsible_decision-making
 title: Strength-Based Strategies for Responsible Decision-Making
 description: "Educators identify students' strengths related to responsible decision-making and leverage these strengths to address challenges."
 status: review

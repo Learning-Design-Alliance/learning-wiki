@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: case-based_learning
 title: Case Based Learning
 description: Learners analyze realistic, narrative accounts of authentic professional or disciplinary situations to build reasoning, judgment, and applied knowledge.
 status: review

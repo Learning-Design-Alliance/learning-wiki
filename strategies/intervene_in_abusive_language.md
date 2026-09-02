@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: intervene_in_abusive_language
 title: Intervene in Abusive Language
 description: The teacher promptly and constructively addresses abusive, biased, or degrading language when it occurs, using the incident as a teachable moment rather than only a disciplinary event.
 status: review

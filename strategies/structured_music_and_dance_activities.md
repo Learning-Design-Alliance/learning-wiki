@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: structured_music_and_dance_activities
 title: Structured Music and Dance Activities
 description: Structured music and dance activities embed rhythm and movement into educational content, integrating academic, motor, and social goals — particularly for young learners.
 status: review

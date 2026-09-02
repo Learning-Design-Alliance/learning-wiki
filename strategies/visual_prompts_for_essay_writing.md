@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: visual_prompts_for_essay_writing
 title: Visual Prompts for Essay Writing
 description: Using artwork paired with life-lesson statements as timed writing prompts to help adolescents generate and elaborate essay ideas.
 status: review

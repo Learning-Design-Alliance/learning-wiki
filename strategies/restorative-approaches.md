@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: restorative-approaches
 title: Restorative Approaches
 description: A relational discipline and community-building strategy that addresses harm through dialogue, accountability, and repair rather than exclusionary punishment.
 status: review

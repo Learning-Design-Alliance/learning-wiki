@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: write_with_a_transition_handout
 title: Write with a Transition Handout
 description: Before learners write, provide a handout of transitions, model where they fit, and explain how they guide the reader.
 status: review

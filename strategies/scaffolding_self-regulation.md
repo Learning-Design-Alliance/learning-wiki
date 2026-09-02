@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: scaffolding_self-regulation
 title: Scaffolding Self-Regulation
 description: Temporarily structuring tasks, modeling self-regulatory moves, and fading support so learners develop the ability to manage their own emotions, effort, and learning processes.
 status: review

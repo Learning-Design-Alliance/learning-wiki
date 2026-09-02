@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: literature-circles
 title: Literature Circles
 description: Small, student-led reading groups that choose a shared book, prepare notes and marked passages, and meet regularly to discuss it, culminating in creative or reflective projects.
 status: review

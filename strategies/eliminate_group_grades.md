@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: eliminate_group_grades
 title: Eliminate Group Grades
 description: Replacing shared group grades with individual accountability structures so that collaborative work does not mask unequal contribution or learning.
 status: review

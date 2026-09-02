@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: studio-critique
 title: Studio Critique
 description: A structured group feedback protocol in which learners present work-in-progress and receive facilitated peer and instructor critique to revise and improve it.
 status: review

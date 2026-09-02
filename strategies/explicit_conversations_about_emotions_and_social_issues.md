@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: explicit_conversations_about_emotions_and_social_issues
 title: Explicit Conversations about Emotions and Social Issues
 description: Structured, facilitated discussions in which learners name emotions, examine social issues, and consider others' perspectives to build social awareness and empathy.
 status: review

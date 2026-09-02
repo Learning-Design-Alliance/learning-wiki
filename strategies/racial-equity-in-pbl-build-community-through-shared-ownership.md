@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: racial-equity-in-pbl-build-community-through-shared-ownership
 title: Racial Equity In Pbl Build Community Through Shared Ownership
 description: A project-based learning design approach that advances racial equity by distributing intellectual authority across the classroom, so students of color co-own project goals, roles, and outcomes rather than receiving teacher-defined tasks.
 status: review

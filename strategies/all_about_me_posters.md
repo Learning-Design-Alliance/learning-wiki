@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: all_about_me_posters
 title: All About Me Posters
 description: Learners create a visual poster representing their identity, interests, and experiences, then share it to build classroom community and activate personal prior knowledge.
 status: review

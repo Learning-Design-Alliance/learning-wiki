@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: islamic_geometry_exploration
 title: Islamic Geometry Exploration
 description: Exploring Islamic geometry with students centers on exploration, joy, and solidarity.
 status: review

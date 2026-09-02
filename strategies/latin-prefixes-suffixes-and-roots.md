@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: latin-prefixes-suffixes-and-roots
 title: Latin Prefixes, Suffixes, and Roots
 description: Direct teaching about the meaningful parts of words begins with the most common inflections, but then extends to prefixes, suffixes, and roots of Latin origin.
 status: review

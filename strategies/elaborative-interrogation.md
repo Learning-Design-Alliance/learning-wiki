@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: elaborative-interrogation
 title: Elaborative Interrogation
 description: Learners generate explanations for why a stated fact or concept is true, prompting integration of new material with prior knowledge.
 status: review

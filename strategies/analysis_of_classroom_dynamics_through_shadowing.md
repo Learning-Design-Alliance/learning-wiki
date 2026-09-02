@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: analysis_of_classroom_dynamics_through_shadowing
 title: Analysis of Classroom Dynamics Through Shadowing
 description: A teacher, coach, or administrator shadows individual students through a school day to analyze classroom dynamics from the learner's perspective and identify instructional improvements.
 status: review

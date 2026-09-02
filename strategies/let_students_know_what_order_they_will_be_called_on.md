@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: let_students_know_what_order_they_will_be_called_on
 title: Let Students Know What Order They Will Be Called On
 description: Announcing the calling order in advance lets students plan responses, manage anxiety, and wait their turn instead of monitoring for the threat of being called on unexpectedly.
 status: review

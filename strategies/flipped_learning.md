@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: flipped_learning
 title: Flipped Learning
 description: Flipped learning delivers first-exposure instruction outside class (typically via video) and repurposes class time for active, instructor-facilitated application and problem-solving.
 status: review

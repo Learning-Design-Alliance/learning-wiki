@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: exit_ticket
 title: Exit Ticket
 description: A short, end-of-lesson formative assessment that asks learners to respond to a prompt before leaving, giving the instructor immediate evidence of understanding.
 status: review

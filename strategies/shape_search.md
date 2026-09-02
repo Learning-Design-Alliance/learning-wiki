@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: shape_search
 title: Shape Search
 description: Learners identify two- and three-dimensional shapes in their surroundings, promoting geometric awareness and real-world application of geometric concepts.
 status: review

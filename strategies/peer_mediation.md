@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: peer_mediation
 title: Peer Mediation
 description: A structured process in which trained students act as neutral third parties to help classmates resolve interpersonal conflicts themselves.
 status: review

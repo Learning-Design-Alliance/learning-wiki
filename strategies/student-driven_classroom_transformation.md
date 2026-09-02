@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: student-driven_classroom_transformation
 title: Student-Driven Classroom Transformation
 description: Involving students in the design and transformation of their learning environment to promote ownership, engagement, and a sense of community.
 status: review

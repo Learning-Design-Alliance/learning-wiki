@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: equitable_classroom_observations
 title: Equitable Classroom Observations
 description: EQUIP is a customizable observation tool for tracking patterns in student participation, aiming to empower teachers in building more equitable classrooms.
 status: review

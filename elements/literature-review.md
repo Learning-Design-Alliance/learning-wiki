@@ -1,5 +1,6 @@
 ---
 type: element
+id: literature-review
 title: Literature Review
 description: Literature review is the element in which learners gather, evaluate, and synthesize existing sources on a topic in order to understand the current state of knowledge or argument.
 status: review

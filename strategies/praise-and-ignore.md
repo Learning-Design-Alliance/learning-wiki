@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: praise-and-ignore
 title: Praise And Ignore
 description: Deliberately attend to and praise desired student behavior while withholding attention from minor misbehavior, using attention itself as the reinforcer.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: quality_homework_assignments
 title: Quality Homework Assignments
 description: Assigning homework that reinforces learning, encourages real-world application, and offers enriching experiences.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: element
+id: adaptive-difficulty
 title: Adaptive Difficulty
 description: Adaptive difficulty adjusts task challenge in response to learner performance so work remains demanding enough to promote growth without becoming discouraging or trivial.
 status: review

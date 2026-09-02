@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: school_newsletters
 title: School Newsletters
 description: School newsletters are recurring visual communications designed to keep staff, students, and parents informed and engaged with school events, activities, and learning priorities.
 status: review

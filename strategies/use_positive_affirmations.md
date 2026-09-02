@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: use_positive_affirmations
 title: Use Positive Affirmations
 description: Replace negative self-talk with positive affirmations to support self-concept, confidence, and persistence.
 status: review

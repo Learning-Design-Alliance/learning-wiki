@@ -14,7 +14,7 @@ sources:
     resource: "https://doi.org/10.1016/B978-012109890-2/50031-7"
     title: "Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 13–39). Academic Press. [https://doi.org/10.1016/B978-012109890-2/50031-7](https://doi.org/10.1016/B978-012109890-2/50031-7)"
     author: Zimmerman, B. J
-id: gm-2
+id: process-goals-outperform-outcome-goals-for-novices
 evidence_strength: moderate
 ---
 

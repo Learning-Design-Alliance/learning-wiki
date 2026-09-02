@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: explicit_teaching
 title: Explicit Teaching
 description: When teachers adopt explicit teaching practices they clearly show students what to do and how to do it.
 status: review

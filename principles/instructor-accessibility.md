@@ -1,5 +1,6 @@
 ---
 type: principle
+id: instructor-accessibility
 title: Instructor Accessibility
 description: Instructor accessibility is the principle that learners should be able to reach, understand, and get timely support from the instructor when they need it.
 status: review

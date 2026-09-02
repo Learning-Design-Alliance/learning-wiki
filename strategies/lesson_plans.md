@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: lesson_plans
 title: Lesson Plans
 description: A lesson plan is a structured planning document in which an educator specifies learning objectives, sequencing, activities, materials, and assessment for a single instructional session.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: sentence-combining
 title: Sentence Combining
 description: Learners take short, kernel sentences and combine them into more complex, mature sentences using coordination, subordination, and embedding.
 status: review

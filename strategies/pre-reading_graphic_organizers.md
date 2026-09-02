@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: pre-reading_graphic_organizers
 title: Pre-Reading Graphic Organizers
 description: Students identify the text structure prior to reading (e.g., compare and contrast, description, problem-solution, cause and effect, sequence of events) and complete a supporting graphic organizer while reading to fill in the components.
 status: review

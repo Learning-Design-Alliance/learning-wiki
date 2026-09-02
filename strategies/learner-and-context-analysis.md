@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: learner-and-context-analysis
 title: Learner And Context Analysis
 description: Systematic investigation of learners' prior knowledge, characteristics, and the instructional environment before designing instruction, so that design decisions fit who will learn and where.
 status: review

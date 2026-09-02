@@ -1,5 +1,6 @@
 ---
 type: principle
+id: developing-your-cultural-awareness
 title: Developing Your Cultural Awareness
 description: "Developing cultural awareness is the ongoing practice of examining how one's own background, assumptions, language, and institutional context shape teaching and learning across difference."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: air_writing
 title: Air Writing
 description: Air writing involves writing letters or words in the air with large arm movements while simultaneously visualizing the letter's shape and saying its name or sound aloud.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: precorrection
 title: Precorrection
 description: Prompting and rehearsing expected behavior immediately before a predictable challenging situation, so the desired response replaces the problem behavior.
 status: review

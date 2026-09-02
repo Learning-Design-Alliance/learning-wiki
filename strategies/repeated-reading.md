@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: repeated-reading
 title: Repeated Reading
 description: Learners reread the same passage multiple times until reaching a fluency criterion such as a target words-correct-per-minute rate.
 status: review

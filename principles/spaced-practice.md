@@ -1,5 +1,6 @@
 ---
 type: principle
+id: spaced-practice
 title: Spaced Practice
 description: Distribute practice of a skill or retrieval of content across multiple sessions separated in time rather than massing it into one block, because spaced exposure produces markedly stronger long-term retention.
 status: review

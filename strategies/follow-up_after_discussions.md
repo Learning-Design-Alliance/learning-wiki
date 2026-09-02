@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: follow-up_after_discussions
 title: Follow-up After Discussions
 description: Teachers support students in converting insights and emotions from equity-focused discussions into concrete action, while helping them process feelings such as guilt or shame constructively.
 status: review

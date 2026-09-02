@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: classroom_games
 title: Classroom Games
 description: Classroom games transform review time into engaging, collaborative activities that motivate learners and reinforce learning through active recall and peer interaction.
 status: review

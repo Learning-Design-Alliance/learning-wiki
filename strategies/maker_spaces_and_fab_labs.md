@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: maker_spaces_and_fab_labs
 title: Maker Spaces and Fab Labs
 description: Establish physical spaces where learners can invent, design, and build things using a variety of materials and tools, from wood scraps to technology.
 status: review

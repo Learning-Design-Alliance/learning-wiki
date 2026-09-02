@@ -1,5 +1,6 @@
 ---
 type: principle
+id: technology-integration-levels
 title: Technology Integration Levels (SAMR / RAT / PIC-RAT)
 description: A family of frameworks (RAT, SAMR, PIC-RAT) for judging whether a specific use of technology in instruction merely replaces a prior practice or meaningfully improves or transforms it.
 status: draft

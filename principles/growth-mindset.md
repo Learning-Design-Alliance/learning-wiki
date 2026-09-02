@@ -1,5 +1,6 @@
 ---
 type: principle
+id: growth-mindset
 title: Growth Mindset
 description: Teaching learners that abilities are malleable and improvable through effort and strategy, and structuring feedback and tasks so that struggle is framed as information for improvement rather than evidence of fixed limits.
 status: review

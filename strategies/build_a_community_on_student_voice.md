@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: build_a_community_on_student_voice
 title: Build a Community on Student Voice
 description: Building a community on student voice means structuring the classroom so students routinely contribute to — and increasingly shape — the norms, discussions, and decisions of their learning community.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: exit_tickets
 title: Exit Tickets
 description: Short prompts completed by learners at the end of a lesson to surface their understanding, self-assess, and give the instructor formative data for the next lesson.
 status: review

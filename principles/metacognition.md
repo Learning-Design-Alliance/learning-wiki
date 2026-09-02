@@ -1,5 +1,6 @@
 ---
 type: principle
+id: metacognition
 title: Metacognition
 description: Metacognition is the principle of helping learners monitor, evaluate, and regulate their own thinking.
 status: review

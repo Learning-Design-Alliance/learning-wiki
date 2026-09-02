@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: independent_reading_time
 title: Independent Reading Time
 description: Scheduled in-class time in which students self-select and silently read texts at their own level, with light structure and accountability.
 status: review

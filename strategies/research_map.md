@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: research_map
 title: Research Map
 description: A research map is a visual representation of research topics and their interconnections, allowing users to explore academic literature in a structured and intuitive way.
 status: review

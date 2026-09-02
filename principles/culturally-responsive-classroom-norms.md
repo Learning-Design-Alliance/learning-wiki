@@ -1,5 +1,6 @@
 ---
 type: principle
+id: culturally-responsive-classroom-norms
 title: Culturally Responsive Classroom Norms
 description: Many taken-for-granted classroom norms — eye contact, wait time, the purpose of a question, competition versus cooperation, punctuality — reflect specific cultural assumptions (often an independent, individualist view of the self) that can mismatch a student's own cultural norms and produce misunderstanding on both sides, independent of the student's actual ability or motivation.
 status: draft

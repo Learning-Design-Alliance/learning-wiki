@@ -1,5 +1,6 @@
 ---
 type: element
+id: reflection
 title: Reflection
 description: Learners analyze their experiences, actions, or decisions to deepen learning.
 status: review

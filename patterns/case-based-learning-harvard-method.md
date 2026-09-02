@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: case-based-learning-harvard-method
 title: Case-Based Learning (Harvard Method)
 description: Case-based learning in the Harvard method uses a carefully written case as the center of discussion, analysis, and decision making.
 status: review

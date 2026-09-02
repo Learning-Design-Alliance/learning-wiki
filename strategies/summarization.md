@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: summarization
 title: Summarization
 description: Explicit teaching of the elements of a summary of a text leads to improved ability and increased confidence in writing summaries.
 status: review

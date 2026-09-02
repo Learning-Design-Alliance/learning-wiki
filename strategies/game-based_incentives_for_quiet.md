@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: game-based_incentives_for_quiet
 title: Game-Based Incentives for Quiet
 description: "A group contingency in which students earn game-board progress (e.g., 'Silent 20') by meeting a quiet, time-bound behavioral target, with a class reward delivered upon completion."
 status: review

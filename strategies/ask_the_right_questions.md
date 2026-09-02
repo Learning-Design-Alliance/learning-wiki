@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: ask_the_right_questions
 title: Ask the Right Questions
 description: A news-literacy strategy in which learners vet online information by applying a small set of provenance-focused questions before trusting or sharing it.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: communicate_high_expectations_and_provide_appropriate_support
 title: Communicate High Expectations and Provide Appropriate Support
 description: Explicitly conveying confidence in learners' ability to meet demanding standards, paired with calibrated scaffolding that makes those standards reachable.
 status: review

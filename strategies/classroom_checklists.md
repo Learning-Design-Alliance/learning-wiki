@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: classroom_checklists
 title: Classroom Checklists
 description: Classroom checklists are structured visual aids that break tasks, routines, and assignments into discrete, trackable steps for students, teachers, and parents.
 status: review

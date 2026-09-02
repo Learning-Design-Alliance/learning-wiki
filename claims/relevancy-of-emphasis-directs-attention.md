@@ -11,7 +11,7 @@ sources:
     resource: "https://eric.ed.gov/?id=ED265520"
     title: "Nist, S. L., & Hogrebe, M. C. (1985). The Effects of High and Low Relevant Text Underlining on Test Performance."
     author: "Nist, S. L., & Hogrebe, M. C"
-id: CL-RELEVANCY
+id: relevancy-of-emphasis-directs-attention
 ---
 
 # Relevancy of emphasized text directs attention and influences test performance

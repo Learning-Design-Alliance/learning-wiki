@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Early ability to delay gratification predicts later academic and social outcomes, but the association is weaker and more context-dependent than originally reported.
-id: ld-3
+id: early-delay-of-gratification-predicts-later-outcomes
 status: draft
 generated:
   by: claude/unspecified

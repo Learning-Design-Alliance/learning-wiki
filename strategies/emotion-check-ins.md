@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: emotion-check-ins
 title: Emotion Check Ins
 description: Brief structured activities at the start of a session or task in which learners identify and name their current emotional state, building self-awareness and giving instructors actionable information about readiness to learn.
 status: review

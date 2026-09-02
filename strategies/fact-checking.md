@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: fact-checking
 title: Fact Checking
 description: Teaching learners to verify claims by leaving the source and consulting independent evidence — lateral reading, source investigation, and corroboration.
 status: review

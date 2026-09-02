@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: bioart-boundary-crossing-making
 title: Bioart Boundary-Crossing Making
 description: A progressive, multi-institution making project design that uses living-organism art materials and low-threshold, self-buildable tools to move learners across art, science, and nature-facing institutional boundaries.
 status: draft

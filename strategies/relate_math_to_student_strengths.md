@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: relate_math_to_student_strengths
 title: Relate Math to Student Strengths
 description: Connecting math content to students' existing interests, expertise, and out-of-school competencies so they enter instruction from a position of strength.
 status: review

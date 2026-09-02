@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: number_rack_app
 title: Number Rack App
 description: A free virtual rekenrek (bead frame) from The Math Learning Center that supports early number sense, addition, and subtraction through moveable colored beads.
 status: review

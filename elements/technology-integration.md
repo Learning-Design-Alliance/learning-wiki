@@ -1,5 +1,6 @@
 ---
 type: element
+id: technology-integration
 title: Technology Integration
 description: Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
 status: review

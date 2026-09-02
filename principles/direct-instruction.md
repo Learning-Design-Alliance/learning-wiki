@@ -1,5 +1,6 @@
 ---
 type: principle
+id: direct-instruction
 title: Direct Instruction
 description: Direct instruction is the principle of teaching explicitly through clear explanation, modeling, guided practice, and feedback.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: instructor-feedback-loops
 title: Instructor Feedback Loops
 description: A cyclical process in which the instructor gathers evidence of learner understanding, delivers targeted feedback, and adjusts subsequent instruction while learners act on the feedback.
 status: review

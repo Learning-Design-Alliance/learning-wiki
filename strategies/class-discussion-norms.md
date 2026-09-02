@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: class-discussion-norms
 title: Class Discussion Norms
 description: Explicitly taught, consistently enforced rules for how students talk with one another — governing turn-taking, reasoning, listening, and disagreement — so that classroom discussion becomes a learning activity rather than a social free-for-all.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: peer_and_self-assessment
 title: Peer and Self-Assessment
 description: Peer and self-assessment give students the opportunity to review their own or peers' work against explicit criteria, building evaluative judgment alongside the work itself.
 status: review

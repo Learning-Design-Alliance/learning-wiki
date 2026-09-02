@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: expressing_interest_in_ethnic_background
 title: Expressing Interest in Ethnic Background
 description: "Teachers demonstrate genuine care for students' cultural needs by encouraging them to research and share their ethnic backgrounds, fostering a trusting classroom environment."
 status: review

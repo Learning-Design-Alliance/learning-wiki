@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: think-write-share
 title: Think-Write-Share
 description: Learners think independently about a question, write a response, then share with peers or the class, ensuring universal engagement and surfacing misconceptions.
 status: review

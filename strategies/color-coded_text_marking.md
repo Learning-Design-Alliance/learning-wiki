@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: color-coded_text_marking
 title: Color Coded Text Marking
 description: Learners systematically mark text with a fixed color scheme (e.g., one color for claims, another for evidence) to direct attention to text structure and support active comprehension.
 status: review

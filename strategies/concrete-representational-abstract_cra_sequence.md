@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: concrete-representational-abstract_cra_sequence
 title: Concrete Representational Abstract (CRA) Sequence
 description: A graduated instructional sequence that moves learners from hands-on concrete materials, to visual representations, to abstract symbols of the same concept.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: element
+id: consensus-building
 title: Consensus Building
 description: Structured group work in which learners negotiate, defend, and refine differing viewpoints to arrive at a shared conclusion.
 status: review

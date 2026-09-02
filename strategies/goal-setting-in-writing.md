@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: goal-setting-in-writing
 title: Goal Setting In Writing
 description: Learners set specific, product- or process-focused goals for a writing task, then use them to guide drafting and revision.
 status: review

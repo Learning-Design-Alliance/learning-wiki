@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: muddiest-point
 title: Muddiest Point
 description: A one-minute classroom assessment technique in which learners write down the single least-clear point from a lecture or lesson, giving the instructor immediate diagnostic feedback.
 status: review

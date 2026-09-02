@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: sel_videos_with_discussion
 title: SEL Videos with Discussion
 description: Showing short video clips depicting social and emotional situations, followed by structured discussion or related activities, to build learners' social-emotional understanding.
 status: review

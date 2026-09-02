@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: timed-writing-sprints
 title: Timed Writing Sprints
 description: Short, fixed-duration writing sessions with a strict time limit and a low-stakes goal, used to generate text, build fluency, and bypass self-editing during drafting.
 status: review

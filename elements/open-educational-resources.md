@@ -1,5 +1,6 @@
 ---
 type: element
+id: open-educational-resources
 title: Open Educational Resources (The 5Rs)
 description: Open Educational Resources are teaching materials licensed to grant free, perpetual permission to retain, reuse, revise, remix, and redistribute them — the "5Rs" test that distinguishes genuine open licensing from merely free-to-enroll access.
 status: draft

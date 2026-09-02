@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: standard_inverted_classroom
 title: Standard Inverted Classroom
 description: Learners study lecture videos and other materials before class, freeing class time for practice, application, and individualized support.
 status: review

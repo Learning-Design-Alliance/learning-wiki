@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: nonconfrontational_statements_and_informal_chitchat
 title: Nonconfrontational Statements and Informal Chitchat
 description: Greeting students at the door and using brief, nonconfrontational statements and informal chitchat to pre-correct behavior, build relationships, and socialize students into productive classroom conduct.
 status: review

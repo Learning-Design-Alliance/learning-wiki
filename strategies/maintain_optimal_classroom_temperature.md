@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: maintain_optimal_classroom_temperature
 title: Maintain Optimal Classroom Temperature
 description: Keeping classroom temperature within a moderate comfort range (roughly 68–74°F / 20–23°C) protects attention, working memory, and task engagement.
 status: review

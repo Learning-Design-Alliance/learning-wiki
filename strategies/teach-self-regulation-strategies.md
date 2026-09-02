@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: teach-self-regulation-strategies
 title: Teach Self Regulation Strategies
 description: Explicitly teaching learners strategies for goal-setting, monitoring, and reflecting on their own learning so they can manage their cognition, motivation, and behavior.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: signaling_and_highlighting
 title: Signaling and Highlighting
 description: Directing learner attention to essential content through visual, verbal, or typographic cues so that limited attention is allocated to what matters most.
 status: review

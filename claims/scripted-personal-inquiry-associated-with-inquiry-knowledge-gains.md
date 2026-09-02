@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Scripted personally meaningful inquiry is associated with gains in inquiry-decision accuracy, with mixed evidence on attitude and behavior change
-id: sharples-1
+id: scripted-personal-inquiry-associated-with-inquiry-knowledge-gains
 status: draft
 generated:
   by: claude/unspecified

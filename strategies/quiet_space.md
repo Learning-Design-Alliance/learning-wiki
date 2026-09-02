@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: quiet_space
 title: Quiet Space
 description: Creating a designated quiet space in the classroom allows children to self-regulate and reduce sensory overload by limiting auditory, visual, and other sensory input.
 status: review

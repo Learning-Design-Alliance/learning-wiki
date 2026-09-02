@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: restorative-practices-circles
 title: Restorative Practices Circles
 description: A facilitated whole-group dialogue format in which participants pass a talking piece and respond to sequential prompts to build community, repair harm, or resolve conflict.
 status: review

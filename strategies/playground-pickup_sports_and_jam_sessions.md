@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: playground-pickup_sports_and_jam_sessions
 title: Playground Pickup Sports and Jam Sessions
 description: Encouraging informal, self-organized games and activities without emphasizing competition provides opportunities for play, creativity, and voluntary skill practice.
 status: review

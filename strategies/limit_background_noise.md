@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: limit_background_noise
 title: Limit Background Noise
 description: Minimizing background noise, such as television, conversations, or lyrical music, enhances concentration and learning.
 status: review

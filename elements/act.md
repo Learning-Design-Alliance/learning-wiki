@@ -1,5 +1,6 @@
 ---
 type: element
+id: act
 title: Act
 description: is the execution phase of a challenge-based or inquiry cycle, where learners move from investigation and planning into producing, testing, sharing, or implementing a response in the real world.
 status: review

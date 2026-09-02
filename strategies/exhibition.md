@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: exhibition
 title: Exhibition
 description: Learners create and publicly present culminating work to an authentic audience, making learning visible and accountable beyond the classroom.
 status: review

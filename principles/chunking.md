@@ -1,5 +1,6 @@
 ---
 type: principle
+id: chunking
 title: Chunking
 description: Chunking is the instructional design strategy of breaking complex information or tasks into smaller, more manageable units (chunks) to align with the limited capacity of human working memory.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: journaling_for_self-reflection
 title: Journaling for Self-Reflection
 description: Structured journaling practices that prompt learners to reflect on their learning, monitor their own progress, and receive targeted instructor feedback.
 status: review

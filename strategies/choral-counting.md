@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: choral-counting
 title: Choral Counting
 description: A whole-class counting routine in which learners count aloud together by a chosen increment while the teacher records the sequence in an organized layout, then the class discusses patterns in the count.
 status: review

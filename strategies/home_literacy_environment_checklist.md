@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: home_literacy_environment_checklist
 title: Home Literacy Environment Checklist
 description: A self-assessment tool that helps parents evaluate and improve the literacy-richness of their home environment.
 status: review

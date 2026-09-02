@@ -1,5 +1,6 @@
 ---
 type: element
+id: fading
 title: Fading
 description: Fading is the element in which instructional support is deliberately reduced as learner competence grows.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: exemplar-based-feedback
 title: Exemplar Based Feedback
 description: Providing learners with exemplars — samples of work at known quality levels — as the primary vehicle for feedback, so they can calibrate their own work against concrete models rather than abstract criteria.
 status: review

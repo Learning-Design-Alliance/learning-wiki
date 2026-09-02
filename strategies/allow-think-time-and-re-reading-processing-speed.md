@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: allow-think-time-and-re-reading-processing-speed
 title: Allow Think-Time and Re-reading (Processing Speed)
 description: Allowing plenty of think-time and time for re-reading for students who might need more time to process.
 status: review

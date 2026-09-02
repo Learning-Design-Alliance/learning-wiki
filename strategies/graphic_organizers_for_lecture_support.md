@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: graphic_organizers_for_lecture_support
 title: Graphic Organizers for Lecture Support
 description: Instructors deliver lectures using a graphic organizer to visually connect concepts, rather than using PowerPoint or a standard outline.
 status: review

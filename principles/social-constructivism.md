@@ -1,5 +1,6 @@
 ---
 type: principle
+id: social-constructivism
 title: Social Constructivism
 description: Social constructivism is the principle that learners build understanding through interaction with other people, language, and shared activity.
 status: review

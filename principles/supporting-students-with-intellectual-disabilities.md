@@ -1,5 +1,6 @@
 ---
 type: principle
+id: supporting-students-with-intellectual-disabilities
 title: Supporting Students with Intellectual Disabilities
 description: Intellectual disability is defined by both cognitive capacity and adaptive functioning, and effective classroom support boils down to three general strategies — extra time and practice, embedding activities in daily-life context, and full inclusion in both social and academic activities.
 status: draft

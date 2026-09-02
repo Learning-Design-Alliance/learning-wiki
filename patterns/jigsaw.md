@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: jigsaw
 title: Jigsaw
 description: Jigsaw is the short-form canonical pattern for dividing a topic into expert roles, peer teaching, and synthesis.
 status: review

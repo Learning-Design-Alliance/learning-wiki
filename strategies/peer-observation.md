@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: peer-observation
 title: Peer Observation
 description: A collaborative, non-evaluative process in which teachers observe one another's practice to exchange feedback, surface tacit expertise, and improve teaching.
 status: review

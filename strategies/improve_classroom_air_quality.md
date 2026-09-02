@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: improve_classroom_air_quality
 title: Improve Classroom Air Quality
 description: Poor indoor air quality is a major contributor to absenteeism.
 status: review

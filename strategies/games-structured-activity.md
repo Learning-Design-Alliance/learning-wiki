@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: games-structured-activity
 title: Games + Structured Activity
 description: Students engage with educational games designed to introduce or reinforce specific concepts, paired with a structured activity that consolidates and applies what the game introduced.
 status: review

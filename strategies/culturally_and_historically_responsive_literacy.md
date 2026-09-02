@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: culturally_and_historically_responsive_literacy
 title: Culturally and Historically Responsive Literacy
 description: An equity framework that plans literacy instruction around four learning goals — identity, skills, intellect, and criticality — using texts and tasks responsive to students' cultures and histories.
 status: review

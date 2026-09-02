@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: positive-reinforcement
 title: Positive Reinforcement
 description: Delivering a desirable consequence immediately after a target behavior to increase the likelihood the behavior recurs.
 status: review

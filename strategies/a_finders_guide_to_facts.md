@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: a_finders_guide_to_facts
 title: "A Finder's Guide to Facts"
 description: A set of heuristic questions for evaluating the credibility of a news story before accepting or sharing it.
 status: review

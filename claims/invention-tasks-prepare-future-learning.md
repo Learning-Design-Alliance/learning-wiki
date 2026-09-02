@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id:
+id: invention-tasks-prepare-future-learning
 evidence_strength: low
 ---
 

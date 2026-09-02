@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: promote_a_growth_mindset_in_math
 title: Promote a Growth Mindset in Math
 description: Promote a growth mindset by giving feedback that values effort, strategy use, and persistence, showing learners that mathematical ability is malleable rather than fixed.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: emotional_walking_game
 title: Emotional Walking Game
 description: Learners walk through a space and shift their posture, gait, and expression to embody a named emotion each time the facilitator signals.
 status: review

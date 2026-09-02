@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: srl-predicts-achievement
+id: self-regulated-learning-predicts-achievement
 evidence_strength: moderate
 ---
 

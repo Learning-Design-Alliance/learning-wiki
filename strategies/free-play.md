@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: free-play
 title: Free Play
 description: Child-led, self-directed activity in which learners explore and develop physical, social, cognitive, and creative skills through interactions with their environment and peers.
 status: review

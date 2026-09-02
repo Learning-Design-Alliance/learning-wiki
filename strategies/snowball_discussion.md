@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: snowball_discussion
 title: Snowball Discussion
 description: Learners begin in pairs, responding to a discussion question only with a single partner.
 status: review

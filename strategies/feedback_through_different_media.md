@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: feedback_through_different_media
 title: Feedback Through Different Media
 description: Delivering feedback through varied media (video, audio, screencast, text) changes its tone, richness, and impact, with video and audio often conveying more personal, encouraging feedback than written text.
 status: review

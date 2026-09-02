@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: designated_calm-down_spot
 title: Designated Calm-Down Spot
 description: Creating a designated calm-down spot is providing a safe and structured space within the classroom where students can go to regain control over their emotions.
 status: review

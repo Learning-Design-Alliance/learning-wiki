@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: group-based_flipped_classroom
 title: Group-Based Flipped Classroom
 description: A flipped classroom variant in which learners study content independently before class, then spend class time working collaboratively on tasks that require them to explain, apply, and build on that content together.
 status: review

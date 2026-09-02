@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: inhibition_support_strategies
 title: Inhibition Support Strategies
 description: Strategies that help learners suppress attention to irrelevant input and resist impulsive responses by restructuring tasks, environments, and supports around known strengths.
 status: review

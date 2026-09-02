@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: promoting_self-directed_learning_strategies
 title: Promoting Self-Directed Learning Strategies
 description: Explicitly teaching students strategies for problem-solving, metacognition, and self-reflection so they can plan, monitor, and evaluate their own learning with decreasing support.
 status: review

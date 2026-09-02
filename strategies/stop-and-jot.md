@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: stop-and-jot
 title: Stop and Jot
 description: A processing activity in which learners pause at designated points in a lesson to write brief responses to instructor-posed questions before instruction continues.
 status: review

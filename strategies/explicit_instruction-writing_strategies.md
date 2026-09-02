@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: explicit_instruction-writing_strategies
 title: "Explicit Instruction: Writing Strategies"
 description: Explicit instruction in writing strategies directly teaches students specific methods for planning, drafting, revising, and editing, typically through modeling, guided practice, and gradual release toward independent use.
 status: review

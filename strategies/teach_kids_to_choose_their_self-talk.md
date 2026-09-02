@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: teach_kids_to_choose_their_self-talk
 title: Teach Kids to Choose Their Self-Talk
 description: A guided introspection routine in which students observe their own inner speech, categorize it as positive/neutral or negative, and practice deliberately reframing negative self-talk into constructive alternatives.
 status: review

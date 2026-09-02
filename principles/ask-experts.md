@@ -1,5 +1,6 @@
 ---
 type: principle
+id: ask-experts
 title: Ask Experts
 description: Give learners structured access to people with deeper domain expertise so they can ask questions, hear expert reasoning, receive targeted feedback, and compare their own thinking to more mature practice.
 status: review

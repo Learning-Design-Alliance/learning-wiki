@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: talking_to_young_children_about_race_and_racism
 title: Talking to Young Children About Race and Racism
 description: Parents and caregivers initiate honest, developmentally appropriate conversations with young children about race, racism, and anti-racism, using media, books, and guided discussion.
 status: review

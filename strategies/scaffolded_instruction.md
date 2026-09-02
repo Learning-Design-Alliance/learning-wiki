@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: scaffolded_instruction
 title: Scaffolded Instruction
 description: Scaffolded instruction supports learners with temporary, tailored assistance as they attempt tasks beyond their unaided capability, then gradually withdraws that support as competence develops.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: principle
+id: cognitive-styles
 title: Cognitive Styles
 description: Cognitive styles are relatively stable individual differences in how people typically perceive, remember, and solve problems — distinct from the broader, less reliable notion of "learning styles" — and knowledge of a student's style can be used either to play to their existing strengths or to deliberately build the balance they lack.
 status: draft

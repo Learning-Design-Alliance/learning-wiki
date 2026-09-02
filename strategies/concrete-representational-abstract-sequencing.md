@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: concrete-representational-abstract-sequencing
 title: Concrete Representational Abstract Sequencing
 description: Teach a concept first with physical or concrete materials, then with visual representations, then with abstract symbols, fading across stages as understanding consolidates.
 status: review

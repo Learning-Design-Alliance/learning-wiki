@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: address_mother_tongue_interference
 title: Address Mother Tongue Interference
 description: Anticipate and explicitly address patterns from learners' first language (L1) that transfer negatively into the target language, through contrast, targeted feedback, and strategic use of the L1.
 status: review

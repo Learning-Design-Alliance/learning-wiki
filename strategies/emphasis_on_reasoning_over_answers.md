@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: emphasis_on_reasoning_over_answers
 title: Emphasis on Reasoning over Answers
 description: Shifting classroom attention from the correctness of final answers to the quality of reasoning processes, so learners build confidence and conceptual understanding even when their answers are wrong.
 status: review

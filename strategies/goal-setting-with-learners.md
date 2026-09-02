@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: goal-setting-with-learners
 title: Goal Setting With Learners
 description: Collaboratively establishing specific, challenging, proximal performance goals with learners to direct effort, sustain motivation, and support self-regulated learning.
 status: review

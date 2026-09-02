@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: peer-mediated-instruction
 title: Peer Mediated Instruction
 description: Learners acquire and consolidate knowledge by teaching, tutoring, and structuring each other's learning under teacher-designed roles and routines.
 status: review

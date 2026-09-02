@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: weekly_student_reflection
 title: Weekly Student Reflection
 description: Students spend 10–15 minutes each week responding to structured prompts about their learning, building metacognitive awareness, self-regulation, and teacher–student dialogue.
 status: review

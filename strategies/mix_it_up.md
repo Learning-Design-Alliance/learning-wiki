@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mix_it_up
 title: Mix It Up
 description: A structured social-mixing strategy that creates facilitated opportunities for learners to interact with peers outside their usual social circles, using conversation prompts and low-stakes formats to reduce intergroup barriers.
 status: review

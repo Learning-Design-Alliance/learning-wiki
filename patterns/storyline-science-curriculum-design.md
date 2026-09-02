@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: storyline-science-curriculum-design
 title: Storyline Science Curriculum Design
 description: A science unit design in which lessons are organized around a sequence of questions students themselves generate in response to an anchoring phenomenon, written from the student's own perspective, rather than around a sequence of disciplinary topics.
 status: draft

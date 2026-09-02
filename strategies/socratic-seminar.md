@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: socratic-seminar
 title: Socratic Seminar
 description: A structured, dialogue-based discussion in which participants question, analyze, and build meaning from a shared text through open-ended inquiry rather than teacher-led explanation.
 status: review

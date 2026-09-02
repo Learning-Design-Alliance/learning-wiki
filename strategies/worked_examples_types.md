@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: worked_examples_types
 title: Worked Examples Types
 description: Worked example types range from fully worked modelling examples (expert narrates every step and why) through completion problems and case studies, forming a guidance continuum from maximum support toward independent problem solving.
 status: review

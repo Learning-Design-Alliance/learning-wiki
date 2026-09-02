@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: growth-mindset-small-effects
+id: growth-mindset-interventions-small-effects
 evidence_strength: weak
 ---
 

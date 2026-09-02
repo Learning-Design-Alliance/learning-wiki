@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: valuing_the_learning_process
 title: Valuing the Learning Process
 description: Emphasizing understanding, exploration, and growth over grades and performance outcomes, so learners orient toward mastery rather than external evaluation.
 status: review

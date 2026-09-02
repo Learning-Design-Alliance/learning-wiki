@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-reinforcement_in_writing
 title: Self-Reinforcement in Writing
 description: Self-reinforcement involves students delivering effort-based, behavior-specific praise and rewards to themselves during the writing process, building self-regulation and persistence.
 status: review

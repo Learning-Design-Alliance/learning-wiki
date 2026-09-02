@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: de-emphasize-answers-emphasize-reasoning
 title: De-emphasize Answers, Emphasize Reasoning
 description: Spend more time on reasoning than on finding the correct answer.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-monitoring-of-performance
 title: Self Monitoring Of Performance
 description: Learners track and evaluate their own ongoing performance against standards or goals, using the resulting information to adjust effort, strategy, or approach.
 status: review

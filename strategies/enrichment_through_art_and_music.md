@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: enrichment_through_art_and_music
 title: Enrichment Through Art and Music
 description: Teachers integrate art and music from diverse cultures into their lessons to enrich learning, engage students, and promote cultural understanding.
 status: review

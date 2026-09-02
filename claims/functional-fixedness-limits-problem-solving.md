@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Functional fixedness — treating an object's or idea's function as fixed — blocks solutions that require reinterpreting it.
-id: ld-4
+id: functional-fixedness-limits-problem-solving
 status: draft
 generated:
   by: claude/unspecified

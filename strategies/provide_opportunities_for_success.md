@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: provide_opportunities_for_success
 title: Provide Opportunities for Success
 description: Structuring tasks so learners experience genuine, earned success — through realistic expectations, appropriate challenge calibration, and insistence on high-quality work — to build efficacy and sustain motivation.
 status: review

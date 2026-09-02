@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: optimize_classroom_size_and_space
 title: Optimize Classroom Size and Space
 description: Adjusting class size and the physical layout of learning spaces to reduce crowding, support varied activity, and improve engagement and behavior.
 status: review

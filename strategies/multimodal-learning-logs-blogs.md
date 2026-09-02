@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: multimodal-learning-logs-blogs
 title: Multimodal Learning Logs/Blogs
 description: Learning logs or blogs are used for groups to reflect on their learning, document the content of each session, and share what supported or interfered with their learning.
 status: review

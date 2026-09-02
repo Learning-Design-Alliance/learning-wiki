@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: explicit-systematic-phonics
 title: Explicit Systematic Phonics
 description: Direct, sequenced instruction in grapheme–phoneme correspondences and blending, taught in a planned progression rather than incidentally.
 status: review

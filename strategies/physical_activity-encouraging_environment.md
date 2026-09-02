@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: physical_activity-encouraging_environment
 title: Physical Activity-Encouraging Environment
 description: Design school environments that encourage physical activity by including playground equipment, walking trails, and bike racks.
 status: review

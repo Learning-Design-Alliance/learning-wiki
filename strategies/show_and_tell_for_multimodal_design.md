@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: show_and_tell_for_multimodal_design
 title: Show and Tell for Multimodal Design
 description: Devoting time each week for students to show the effects of different multimodal combinations or tell about their multimodal composition process.
 status: review

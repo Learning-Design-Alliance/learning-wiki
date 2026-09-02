@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: key_word_flash_cards
 title: Key Word Flash Cards
 description: Create flash cards pairing each mathematical operation with the key words that signal it in word problems.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: classroom_routines
 title: Classroom Routines
 description: Repeated, predictable sequences of classroom behavior that automate procedural and managerial aspects of learning so attention and time are freed for content.
 status: review

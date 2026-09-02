@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: teaching_social_awareness_through_current_events_and_fictional_characters
 title: Teaching Social Awareness Through Current Events and Fictional Characters
 description: Model empathy and explain different perspectives using current events and fictional characters as vehicles for social-emotional learning.
 status: review

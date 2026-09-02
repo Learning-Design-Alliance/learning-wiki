@@ -1,5 +1,6 @@
 ---
 type: principle
+id: integrate-self-regulation-with-scientific-reasoning-instruction
 title: Integrate Self-Regulation Instruction with Scientific Reasoning Instruction
 description: Teach monitoring and planning together with scientific-reasoning skills (hypothesis generation, evidence generation, evidence evaluation) rather than as separate modules, because spontaneous self-regulation during inquiry is rare and its absence tracks with lower-quality argumentation.
 status: draft

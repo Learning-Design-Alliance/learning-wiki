@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: smart_goal_setting
 title: SMART Goal Setting
 description: SMART goal setting ensures goals are Specific, Measurable, Attainable, Relevant, and Time-Specific.
 status: review

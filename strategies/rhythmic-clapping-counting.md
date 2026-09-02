@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: rhythmic-clapping-counting
 title: Rhythmic Clapping/Counting
 description: The teacher claps or counts out a rhythm pattern; students listen, then imitate it, building auditory discrimination, timing, and pattern recognition.
 status: review

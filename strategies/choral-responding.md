@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: choral-responding
 title: Choral Responding
 description: The whole class or group answers a teacher prompt aloud in unison, maximizing every learner's opportunity to respond.
 status: review

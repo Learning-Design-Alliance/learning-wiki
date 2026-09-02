@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: journaling
 title: Journaling
 description: Learners regularly write reflective or exploratory entries about their learning, thinking, or progress to consolidate understanding and support metacognition.
 status: review

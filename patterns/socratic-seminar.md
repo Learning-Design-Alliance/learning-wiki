@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: socratic-seminar
 title: Socratic Seminar
 description: Socratic Seminar is a structured, text-centered discussion pattern in which learners explore a complex question through dialogue, evidence, and follow-up questioning rather than through debate aimed at victory.
 status: review

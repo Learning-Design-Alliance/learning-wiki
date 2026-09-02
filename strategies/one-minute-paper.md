@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: one-minute-paper
 title: One Minute Paper
 description: A brief end-of-class writing task in which learners respond to two questions — what was the most important thing learned, and what remains unclear.
 status: review

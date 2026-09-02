@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: praise_effort_and_strategies
 title: Praise Effort and Strategies
 description: When learners succeed, praise their efforts and strategies rather than their intelligence, fostering a growth mindset and persistence.
 status: review

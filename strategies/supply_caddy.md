@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: supply_caddy
 title: Supply Caddy
 description: Consolidate learning supplies into a single portable, organized caddy so learners spend less time searching and more time learning.
 status: review

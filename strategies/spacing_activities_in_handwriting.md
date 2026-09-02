@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: spacing_activities_in_handwriting
 title: Spacing Activities in Handwriting
 description: Activities designed to improve spacing between letters and words, which is crucial for overall legibility.
 status: review

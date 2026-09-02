@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: classroom-climate-routines
 title: Classroom Climate Routines
 description: Recurring, predictable practices that establish a safe, respectful, and productive classroom environment so instructional time is protected and students feel a sense of belonging.
 status: review

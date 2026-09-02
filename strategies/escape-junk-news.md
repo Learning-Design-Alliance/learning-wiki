@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: escape-junk-news
 title: E.S.C.A.P.E. Junk News
 description: A handy acronym to help students remember six key concepts for evaluating information.
 status: review

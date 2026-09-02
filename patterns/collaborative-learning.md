@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: collaborative-learning
 title: Collaborative Learning
 description: Collaborative learning is the short-form canonical pattern for shared work, discussion, and co-construction of understanding.
 status: review

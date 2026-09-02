@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: breathing_techniques_and_mindfulness_strategies
 title: Breathing Techniques and Mindfulness Strategies
 description: Teaching breathing techniques and mindfulness strategies equips students with tools to manage challenging situations.
 status: review

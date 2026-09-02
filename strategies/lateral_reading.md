@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: lateral_reading
 title: Lateral Reading
 description: Lateral reading is a digital literacy strategy that involves evaluating the trustworthiness of online information by leaving the original site and consulting other digital sources to see what they say about it.
 status: review

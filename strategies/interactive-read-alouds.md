@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: interactive-read-alouds
 title: Interactive Read-Alouds
 description: The facilitator reads a text aloud and pauses at planned points to engage learners in prediction, questioning, discussion, and personal connection, deepening comprehension of texts above learners' independent reading level.
 status: review

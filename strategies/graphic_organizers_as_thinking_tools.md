@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: graphic_organizers_as_thinking_tools
 title: Graphic Organizers as Thinking Tools
 description: Students interact with content by organizing chunks of it into graphic organizers in groups, pairs, or individually, then comparing their results.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: calming_tactile_input
 title: Calming Tactile Input
 description: Using tactile input to provide calming sensory experiences involves engaging the sense of touch to reduce anxiety and promote relaxation.
 status: review

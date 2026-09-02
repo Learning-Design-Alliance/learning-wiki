@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: making_connections
 title: Making Connections
 description: Deliberately linking new information to existing knowledge and experiences — text-to-self, text-to-text, or text-to-world — to enhance understanding and retention.
 status: review

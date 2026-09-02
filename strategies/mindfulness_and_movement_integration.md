@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mindfulness_and_movement_integration
 title: Mindfulness and Movement Integration
 description: Integrating mindfulness with movement combines physical activity with practices that promote awareness, focus, and presence.
 status: review

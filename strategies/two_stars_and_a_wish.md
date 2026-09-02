@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: two_stars_and_a_wish
 title: Two Stars and a Wish
 description: A structured peer-feedback format in which reviewers offer two specific strengths ("stars") and one actionable improvement suggestion ("wish").
 status: review

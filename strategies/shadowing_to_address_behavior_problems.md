@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: shadowing_to_address_behavior_problems
 title: Shadowing to Address Behavior Problems
 description: An adult shadow provides close, continuous, low-key supervision of a student exhibiting harmful behavior to prevent incidents and coach replacement behaviors in real time.
 status: review

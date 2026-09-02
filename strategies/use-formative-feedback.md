@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: use-formative-feedback
 title: Use Formative Feedback
 description: Provide learners with ongoing, low-stakes information about their performance that they can act on before final evaluation.
 status: review

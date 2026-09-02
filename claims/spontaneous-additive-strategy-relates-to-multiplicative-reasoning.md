@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Spontaneous break-apart-make-ten strategy use is associated with stronger multiplicative double-counting reasoning
-id: tzur-1
+id: spontaneous-additive-strategy-relates-to-multiplicative-reasoning
 status: draft
 generated:
   by: claude/unspecified

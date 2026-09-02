@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: humanizing-co-design-with-educators
 title: Humanizing Co-Design with Educators
 description: A co-design facilitation structure that deliberately makes space for educators' affective and relational experience — through shared contemplative practice, ritualized check-ins, and reflective field-note protocols — treating emotion as a design resource rather than a distraction.
 status: draft

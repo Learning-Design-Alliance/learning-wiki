@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: proximity-management
 title: Proximity Management
 description: The teacher deliberately moves around the room during learning activities to monitor work, deliver immediate feedback, and prevent off-task behavior through physical presence.
 status: review

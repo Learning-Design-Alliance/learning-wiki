@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: utilizing_mobile_communication_apps_for_parent_engagement
 title: Utilizing Mobile Communication Apps for Parent Engagement
 description: Mobile communication apps (e.g., ClassDojo, Remind, Seesaw) let educators send texts, media summaries, and alerts to parents about school activities and their child's progress, lowering the barriers to sustained family–school communication.
 status: review

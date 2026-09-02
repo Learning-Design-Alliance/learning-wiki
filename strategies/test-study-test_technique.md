@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: test-study-test_technique
 title: Test-Study-Test Technique
 description: A spelling instruction cycle in which students take a pretest, immediately correct their errors under teacher guidance, study the corrected words, and then take a final test.
 status: review

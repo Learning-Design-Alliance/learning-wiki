@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: 3-source_rule
 title: 3-Source Rule
 description: A corroboration strategy requiring students to confirm any claim found online against at least three independent sources before accepting or citing it.
 status: review

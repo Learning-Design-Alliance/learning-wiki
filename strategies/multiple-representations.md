@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: multiple-representations
 title: Multiple Representations
 description: Presenting the same concept in two or more forms (verbal, visual, symbolic, concrete) so learners build richer, more flexible understanding.
 status: review

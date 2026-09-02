@@ -1,5 +1,6 @@
 ---
 type: principle
+id: supporting-students-with-adhd
 title: Supporting Students with ADHD
 description: ADHD is a persistent pattern of inattention and/or hyperactive-impulsive behavior with a documented neurobiological basis, distinct from ordinary high activity — classrooms can inadvertently aggravate it, but structure, predictability, and explicit self-monitoring instruction (not medication decisions, which are outside a teacher's control) are the levers a teacher actually has.
 status: draft

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: leveraging_strengths_to_support_processing_speed
 title: Leveraging Strengths to Support Processing Speed
 description: Identify a learner's cognitive strengths and route instruction through them to reduce the load imposed by slow processing speed.
 status: review

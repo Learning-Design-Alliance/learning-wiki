@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: class-anchor-charts-or-plus-delta-chart
 title: Class Anchor Charts or Plus/Delta Chart
 description: A whole-class reflection routine in which students review a completed assessment, identify which problems caused difficulty, and co-construct a visible record (anchor chart or plus/delta chart) of the processes and takeaways.
 status: review

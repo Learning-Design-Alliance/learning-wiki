@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: spaced-retrieval-improves-retention
+id: spaced-retrieval-practice-improves-retention
 evidence_strength:
 ---
 

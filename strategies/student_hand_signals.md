@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: student_hand_signals
 title: Student Hand Signals
 description: Learners use pre-defined non-verbal hand cues to simultaneously indicate understanding, agreement, or readiness in response to a prompt.
 status: review

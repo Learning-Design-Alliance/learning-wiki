@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: dolch_word_list_-_word_search_puzzles
 title: Dolch Word List - Word Search Puzzles
 description: Word search puzzles built from Dolch sight words, used as low-stakes practice for automatic recognition of high-frequency words.
 status: review

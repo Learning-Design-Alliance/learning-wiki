@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: providing_easy-access_educational_tools
 title: Providing Easy-Access Educational Tools
 description: Making educational tools readily available to learners promotes independence and self-directed learning.
 status: review

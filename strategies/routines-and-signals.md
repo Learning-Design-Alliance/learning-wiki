@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: routines-and-signals
 title: Routines And Signals
 description: Established, predictable procedures and attention cues that automate classroom transitions and reduce cognitive load, freeing attention for learning.
 status: review

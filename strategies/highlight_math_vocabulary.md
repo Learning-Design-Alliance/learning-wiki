@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: highlight_math_vocabulary
 title: Highlight Math Vocabulary
 description: Model how to highlight or circle mathematical words in word problems that prompt multiplication or division.
 status: review

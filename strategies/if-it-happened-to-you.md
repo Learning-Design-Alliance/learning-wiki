@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: if-it-happened-to-you
 title: If It Happened To You...
 description: Students discuss anonymized scenarios from YA fiction as if the events happened to them, then compare their responses with the original character's choices.
 status: review

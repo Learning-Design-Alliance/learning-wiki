@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: prewriting_activities
 title: Prewriting Activities
 description: Engage in structured idea-generation, planning, and vocabulary activation before beginning to draft a composition.
 status: review

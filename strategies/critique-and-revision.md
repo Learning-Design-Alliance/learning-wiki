@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: critique-and-revision
 title: Critique And Revision
 description: Learners evaluate work (their own or others') against criteria, then use that evaluation to produce an improved version.
 status: review

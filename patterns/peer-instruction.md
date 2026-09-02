@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: peer-instruction
 title: Peer Instruction
 description: Peer Instruction is a pattern in which learners first answer a conceptual question individually, then discuss their reasoning with peers, and then answer again before instructor debrief.
 status: review

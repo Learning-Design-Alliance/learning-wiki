@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reflective-journaling
 title: Reflective Journaling
 description: Learners regularly write structured reflections connecting course content to their own thoughts, experiences, and emotions to deepen understanding and develop reflective practice.
 status: review

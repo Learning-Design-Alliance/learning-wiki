@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: include_physical_activity
 title: Include Physical Activity
 description: Brief structured bouts of physical activity embedded in or preceding learning tasks to improve attention, engagement, and on-task behavior.
 status: review

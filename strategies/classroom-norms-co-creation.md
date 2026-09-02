@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: classroom-norms-co-creation
 title: Classroom Norms Co Creation
 description: Students and teacher jointly draft, negotiate, and ratify the behavioral and academic norms that govern the classroom community.
 status: review

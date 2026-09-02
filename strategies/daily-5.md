@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: daily-5
 title: Daily 5
 description: A classroom management and literacy framework in which students rotate through five purposeful independent literacy tasks while the teacher delivers small-group or individual instruction.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: instill_intrinsic_motivation
 title: Instill Intrinsic Motivation
 description: Helping students find satisfaction in learning itself by connecting positive actions to positive self-feelings, rather than relying on external rewards or pressures.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: promote_a_growth_mindset
 title: Promote a Growth Mindset
 description: Promoting a growth mindset involves giving feedback that values effort, strategy, and progress, and framing ability as developable rather than fixed.
 status: review

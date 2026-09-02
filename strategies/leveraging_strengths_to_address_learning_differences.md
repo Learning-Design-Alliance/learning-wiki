@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: leveraging_strengths_to_address_learning_differences
 title: Leveraging Strengths to Address Learning Differences
 description: Identify each learner's assets and challenges, then route learning through strengths while directly scaffolding areas of difficulty.
 status: review

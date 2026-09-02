@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: game-based-mastery-learning
 title: Game-Based Mastery Learning
 description: Game-Based Mastery Learning is the short-form canonical target for mastery designs that combine progression gates, repeated practice, feedback, and game-like incentives or progression signals.
 status: review

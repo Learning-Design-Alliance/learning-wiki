@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: optimizing_school_facilities
 title: Optimizing School Facilities
 description: Improving the learning environment by addressing factors like acoustics/noise, air quality, lighting, temperature, and space.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: standards-mastery-based-grading
 title: Standards-/Mastery-Based Grading
 description: Grades are assigned based on demonstrated mastery of explicitly stated learning objectives rather than accumulated points, averages, or compliance behaviors.
 status: review

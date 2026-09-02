@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: text-to-speech-tts-software
 title: Text-to-Speech (TTS) Software
 description: Text-to-speech (TTS) software converts written text into spoken audio, providing an alternative access route to digital and printed content.
 status: review

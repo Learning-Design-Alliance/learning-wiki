@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: black_genius_profile
 title: Black Genius Profile
 description: A strengths-based profiling tool through which parents, caregivers, and educators document Black learners' interests, racial identity, skills, and growth areas as an advocacy and personalization instrument.
 status: review

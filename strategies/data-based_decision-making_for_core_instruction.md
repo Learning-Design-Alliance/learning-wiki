@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: data-based_decision-making_for_core_instruction
 title: Data-Based Decision-Making for Core Instruction
 description: Teachers systematically collect, analyze, and act on student performance data to adjust Tier 1 (whole-class core) instruction.
 status: review

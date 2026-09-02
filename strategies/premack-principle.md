@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: premack-principle
 title: Premack Principle
 description: Using a high-probability (preferred) activity as a reinforcer for completing a low-probability (less preferred) activity.
 status: review

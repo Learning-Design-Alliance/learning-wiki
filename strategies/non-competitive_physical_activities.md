@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: non-competitive_physical_activities
 title: Non-Competitive Physical Activities
 description: Encourage pre-teens and teenagers who dislike organized sports to explore non-competitive physical activities that build skill, confidence, and sustained participation.
 status: review

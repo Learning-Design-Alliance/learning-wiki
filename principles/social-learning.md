@@ -1,5 +1,6 @@
 ---
 type: principle
+id: social-learning
 title: Social Learning
 description: Social learning is the principle that understanding and performance often develop through interaction with other people, not just individual study.
 status: review

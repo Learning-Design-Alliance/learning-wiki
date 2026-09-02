@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: growth-mindset-interventions
 title: Growth Mindset Interventions
 description: Brief structured activities that teach learners the belief that abilities are malleable, and connect effort and strategy to improvement.
 status: review

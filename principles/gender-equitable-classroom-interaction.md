@@ -1,5 +1,6 @@
 ---
 type: principle
+id: gender-equitable-classroom-interaction
 title: Gender-Equitable Classroom Interaction
 description: Even teachers who intend to interact with boys and girls equally tend, on average and without realizing it, to give boys more attention, more "public" visibility, and more credit for correct knowledge — patterns that are trends with many individual exceptions, and that a teacher who consciously attends to them can change.
 status: draft

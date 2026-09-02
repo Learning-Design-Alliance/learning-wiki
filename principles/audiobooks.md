@@ -1,5 +1,6 @@
 ---
 type: principle
+id: audiobooks
 title: Audiobooks
 description: Audiobooks provide spoken access to written texts, allowing learners to listen to fluent reading while focusing attention on meaning rather than decoding every word independently.
 status: review

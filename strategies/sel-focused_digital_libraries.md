@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: sel-focused_digital_libraries
 title: SEL-Focused Digital Libraries
 description: Curating a digital library with a dedicated, searchable collection of books addressing Social-Emotional Learning (SEL) themes so teachers and students can integrate SEL into literacy instruction.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: leveraging_strengths_for_emotional_regulation
 title: Leveraging Strengths for Emotional Regulation
 description: "Identifying students' existing strengths — cognitive, social, and dispositional — and deliberately recruiting them to support emotional regulation during learning."
 status: review

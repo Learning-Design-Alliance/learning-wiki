@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: critical_lens_development
 title: Critical Lens Development
 description: Learners analyze how different modes of communication (image, text, layout, sound) afford or constrain meaning, building evaluative criteria they apply to their own multimodal compositions.
 status: review

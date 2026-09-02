@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: norm_setting
 title: Norm Setting
 description: Establishing, with learners, an explicit and small set of behavioural agreements for how the group will work together — and then actually using them to name and repair behaviour.
 status: review

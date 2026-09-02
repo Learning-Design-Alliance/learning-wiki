@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: double-entry_journals
 title: Double-Entry Journals
 description: Learners split a page into two columns, recording quotations or text excerpts on one side and their personal responses, questions, or interpretations on the other as they read.
 status: review

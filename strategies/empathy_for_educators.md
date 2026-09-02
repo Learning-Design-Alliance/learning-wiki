@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: empathy_for_educators
 title: Empathy for Educators
 description: Engage in deliberate actions to build an empathic mindset toward students, using perspective-taking, student voice, and reflective practice to inform instruction.
 status: review

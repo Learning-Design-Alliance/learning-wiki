@@ -1,5 +1,6 @@
 ---
 type: principle
+id: activation
 title: Activation
 description: Activation is the principle of prompting learners to surface prior knowledge, experiences, or related schemas before new instruction.
 status: review

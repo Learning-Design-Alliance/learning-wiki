@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: formative-feedback-loops
 title: Formative Feedback Loops
 description: A cyclical process in which learner work is assessed against criteria, feedback is delivered and acted on, and revised performance is re-assessed — closing the gap between current and target performance.
 status: review

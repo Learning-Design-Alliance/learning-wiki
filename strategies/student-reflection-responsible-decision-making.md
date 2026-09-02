@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: student-reflection-responsible-decision-making
 title: Student Reflection (Responsible Decision-Making)
 description: Uses structured student reflection on real and hypothetical decisions to build the CASEL competency of responsible decision-making — evaluating consequences, ethical standards, and social norms before acting.
 status: review

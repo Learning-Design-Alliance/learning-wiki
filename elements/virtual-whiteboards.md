@@ -1,5 +1,6 @@
 ---
 type: element
+id: virtual-whiteboards
 title: Virtual Whiteboards
 description: Virtual whiteboards are the element in which learners sketch, annotate, and collaborate in a shared digital visual workspace.
 status: review

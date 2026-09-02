@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: big_ten_student_motivators
 title: Big Ten Student Motivators
 description: A set of ten classroom strategies that use choice, collaboration, play, and inquiry to raise student motivation while engaging learners in core literacy and thinking work.
 status: review

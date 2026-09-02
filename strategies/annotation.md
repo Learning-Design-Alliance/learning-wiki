@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: annotation
 title: Annotation
 description: Learners add their own marks, notes, highlights, or questions to a text or artifact to process it more deeply.
 status: review

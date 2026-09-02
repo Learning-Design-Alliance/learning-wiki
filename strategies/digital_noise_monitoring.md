@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: digital_noise_monitoring
 title: Digital Noise Monitoring
 description: Digital noise monitoring uses apps or devices to detect and signal excessive classroom noise, giving students real-time feedback to support self-regulation of the sound environment.
 status: review

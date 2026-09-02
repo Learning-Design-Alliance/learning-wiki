@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: interactive_delivery_with_questioning
 title: Interactive Delivery With Questioning
 description: Engage students through interactive discussions driven by questions and answers.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: whats_my_emotion_game_check-in
 title: "'What's My Emotion?' Game Check-In"
 description: Students use the EQ Feeling Chart to identify, act out, and guess feelings, building emotional literacy through a game-based check-in.
 status: review

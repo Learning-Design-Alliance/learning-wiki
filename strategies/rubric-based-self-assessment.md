@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: rubric-based-self-assessment
 title: Rubric Based Self Assessment
 description: Learners evaluate their own work against an explicit rubric, using the criteria as both a quality standard and a guide for revision.
 status: review

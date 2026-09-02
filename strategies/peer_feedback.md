@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: peer_feedback
 title: Peer Feedback
 description: Learners evaluate and comment on each other's work against explicit criteria, both giving and receiving formative feedback.
 status: review

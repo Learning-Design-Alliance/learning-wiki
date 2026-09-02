@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: focus_on_enjoyable_moments
 title: Focus on Enjoyable Moments
 description: "This strategy entails consciously choosing to fill one's mind with positive images and thoughts, making it a habit to bring the mind back every time it goes astray."
 status: review

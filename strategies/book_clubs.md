@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: book_clubs
 title: Book Clubs
 description: Book clubs are small groups of learners who choose, read, and discuss a shared text.
 status: review

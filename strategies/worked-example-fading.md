@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: worked-example-fading
 title: Worked Example Fading
 description: A strategy that progressively transitions learners from studying fully worked examples to completing partial solutions to solving problems independently.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: deliberate-play
 title: Deliberate Play
 description: Structured yet intrinsically motivating play activities designed to develop skills and enjoyment simultaneously, typically in early-stage skill development.
 status: review

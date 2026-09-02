@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: baseline-assessment
 title: Baseline Assessment
 description: Assessing learners' prior knowledge, skills, and misconceptions before instruction to calibrate teaching decisions and starting points.
 status: review

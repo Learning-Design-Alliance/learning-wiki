@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: regular-physical-education-pe-classes
 title: Regular Physical Education (PE) Classes
 description: Schedule consistent, quality physical education classes across the school week to support physical health, attention, and academic learning.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: element
+id: summarization-and-synthesis
 title: Summarization and Synthesis
 description: Learners distill key concepts from a discussion, reading, or experience into their own condensed restatement or integrated account.
 status: review

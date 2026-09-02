@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: creative_analogies_and_comparisons
 title: Creative Analogies and Comparisons
 description: Simplify complex ideas by linking them to familiar situations, making them easier to understand and remember.
 status: review

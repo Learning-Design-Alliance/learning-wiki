@@ -1,5 +1,6 @@
 ---
 type: principle
+id: creating-visual-representations
 title: Creating Visual Representations
 description: Creating visual representations is the instructional principle of having learners organize, explain, or generate knowledge in visual form, such as diagrams, sketches, concept maps, timelines, models, graphs, or annotated layouts.
 status: review

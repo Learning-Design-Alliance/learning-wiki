@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: timers
 title: Timers
 description: Timers, both visual and auditory, are used to help learners gauge how much time remains during an activity, supporting greater attention and task completion.
 status: review

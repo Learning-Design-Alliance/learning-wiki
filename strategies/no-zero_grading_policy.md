@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: no-zero_grading_policy
 title: No-Zero Grading Policy
 description: Setting the lowest possible grade for any assignment or test at 50 percent, even when students turn in no work at all, to give all students a chance to succeed.
 status: review

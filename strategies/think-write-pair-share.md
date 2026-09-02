@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: think-write-pair-share
 title: Think-Write-Pair-Share
 description: A four-stage collaborative strategy — individual thinking, written response, paired discussion, and whole-class sharing — that structures participation before discussion begins.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: diagnostic-assessment
 title: Diagnostic Assessment
 description: Assessment conducted before or at the start of instruction to identify learners' prior knowledge, misconceptions, and skill gaps so teaching can be targeted accordingly.
 status: review

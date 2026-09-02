@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: task_analysis
 title: Task Analysis
 description: Breaking a complex assignment into smaller, sequenced sub-tasks that learners can understand, sequence, and complete one at a time.
 status: review

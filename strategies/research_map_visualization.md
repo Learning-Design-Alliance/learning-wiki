@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: research_map_visualization
 title: Research Map Visualization
 description: A visual, interactive map of peer-reviewed education and learning sciences research, organized by bibliographic coupling into explorable topic clusters.
 status: review

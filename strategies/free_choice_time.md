@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: free_choice_time
 title: Free Choice Time
 description: Provide learners with the autonomy to select their learning activities, mirroring the self-directed learning seen in preschool environments.
 status: review

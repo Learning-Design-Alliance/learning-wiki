@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: inclusive_innovation_process
 title: Inclusive Innovation Process
 description: A student, community, and educator-led research and design framework that produces equity-focused solutions through five structured phases.
 status: review

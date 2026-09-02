@@ -1,5 +1,6 @@
 ---
 type: principle
+id: graphic-organizers
 title: Graphic Organizers
 description: Graphic organizers are visual structures that help learners sort, connect, sequence, compare, or hierarchize information.
 status: review

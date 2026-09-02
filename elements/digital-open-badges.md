@@ -1,5 +1,6 @@
 ---
 type: element
+id: digital-open-badges
 title: Digital Open Badges
 description: Digital Open Badges are portable, metadata-rich micro-credentials that recognize discrete competencies, including informal learning that traditional grades and degrees do not capture or make transparent.
 status: draft

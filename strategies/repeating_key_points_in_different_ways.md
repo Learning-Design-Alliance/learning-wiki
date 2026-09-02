@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: repeating_key_points_in_different_ways
 title: Repeating Key Points in Different Ways
 description: Repeating key points several times and in several different forms — rephrasing, examples, visuals, and varied modalities — reinforces understanding and gives learners additional processing time.
 status: review

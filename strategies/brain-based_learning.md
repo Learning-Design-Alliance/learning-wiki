@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: brain-based_learning
 title: Brain-Based Learning
 description: An approach claiming that instruction should be designed around findings from neuroscience — multisensory input, movement, chunked timing, and rest — to improve engagement and retention.
 status: review

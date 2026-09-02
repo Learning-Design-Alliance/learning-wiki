@@ -1,5 +1,6 @@
 ---
 type: element
+id: direct-instruction
 title: Direct instruction
 description: Presents new content through explicit explanations, lectures, or demonstrations, with structured guidance before independent practice.
 status: review

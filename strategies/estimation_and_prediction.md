@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: estimation_and_prediction
 title: Estimation and Prediction
 description: Asking learners to estimate their performance or task duration in advance, record those estimates, and reflect on their accuracy afterward.
 status: review

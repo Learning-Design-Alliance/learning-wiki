@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: feedback-addresses-task-goals
+id: feedback-improves-learning-when-it-addresses-task-goals
 evidence_strength:
 ---
 

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: integrating_math_with_music_and_dance
 title: Integrating Math with Music and Dance
 description: Integrating math with music and dance is a strategy in which rhythm, pattern, movement, and structure are used to explore mathematical relationships.
 status: review

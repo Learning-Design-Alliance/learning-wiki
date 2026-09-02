@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: feelings_ring_around_the_rosie
 title: Feelings Ring Around the Rosie
 description: "During recess, learners play 'Ring Around the Rosie' while acting out different emotions."
 status: review

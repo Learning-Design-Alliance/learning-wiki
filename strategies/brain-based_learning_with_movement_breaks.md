@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: brain-based_learning_with_movement_breaks
 title: Brain-Based Learning with Movement Breaks
 description: Incorporating movement, social interaction, and distributed learning to enhance attention, engagement, and retention.
 status: review

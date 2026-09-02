@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: morphological-analysis-instruction
 title: Morphological Analysis Instruction
 description: Teaching learners to analyze the meaningful parts of words (roots, prefixes, suffixes) to decode unfamiliar vocabulary and infer word meanings.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reframing_negative_self-talk
 title: Reframing Negative Self-Talk
 description: Reframing involves rephrasing negative thoughts, statements, or situations into more positive, accurate alternatives.
 status: review

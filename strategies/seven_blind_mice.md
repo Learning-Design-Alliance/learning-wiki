@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: seven_blind_mice
 title: Seven Blind Mice
 description: "Learners hear the story 'Seven Blind Mice,' stopping after each mouse's perspective to take notes or engage in jigsaw reading, then synthesize the partial viewpoints into a whole."
 status: review

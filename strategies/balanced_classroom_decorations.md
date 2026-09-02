@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: balanced_classroom_decorations
 title: Balanced Classroom Decorations
 description: Curating the visual environment of a classroom so that displays support attention and belonging without creating distracting clutter.
 status: review

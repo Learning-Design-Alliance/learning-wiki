@@ -1,5 +1,6 @@
 ---
 type: element
+id: inquiry
 title: Inquiry
 description: Learners investigate questions, problems, or phenomena — generating questions, gathering evidence, and drawing conclusions — rather than receiving explanations directly.
 status: review

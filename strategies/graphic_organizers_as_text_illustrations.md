@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: graphic_organizers_as_text_illustrations
 title: Graphic Organizers as Text Illustrations
 description: Students add a graphic organizer to a finished expository or argumentative writing piece to illustrate a key concept or process.
 status: review

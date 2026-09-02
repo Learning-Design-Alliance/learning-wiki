@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mastery-reassessment
 title: Mastery Reassessment
 description: A strategy in which learners who have not yet demonstrated proficiency on an assessment are given targeted reteaching and a new opportunity to show mastery, with the reassessment replacing — not averaging with — the original score.
 status: review

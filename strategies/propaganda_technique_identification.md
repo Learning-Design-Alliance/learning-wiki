@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: propaganda_technique_identification
 title: Propaganda Technique Identification
 description: Learners are taught a taxonomy of propaganda techniques and then asked to identify the use of these techniques in online advertising, reflecting on how the interactive medium shapes each technique's power.
 status: review

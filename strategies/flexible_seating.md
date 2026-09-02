@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: flexible_seating
 title: Flexible Seating
 description: Flexible seating provides learners with a variety of seating options and allows them to choose where and how they sit based on task demands and personal needs.
 status: review

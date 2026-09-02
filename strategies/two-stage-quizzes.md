@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: two-stage-quizzes
 title: Two Stage Quizzes
 description: A quiz taken individually first, then retaken in small groups with discussion, so learners commit to answers before negotiating them with peers.
 status: review

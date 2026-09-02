@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-regulated-learning
 title: Self Regulated Learning
 description: A strategy in which learners actively plan, monitor, and control their own cognition, motivation, and behavior toward learning goals, supported by explicit instruction in these processes.
 status: review

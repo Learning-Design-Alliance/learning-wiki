@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: interviews_to_guide_reflection
 title: Interviews to Guide Reflection
 description: Set aside time at the end of a learning sequence—a lesson, a unit, a school day, or a school year—to question each other about what has been learned.
 status: review

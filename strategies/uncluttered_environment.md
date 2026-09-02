@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: uncluttered_environment
 title: Uncluttered Environment
 description: A learning environment with minimal visual distractions is created by storing supplies and materials off of tables and desks and limiting decorations and other things hanging on the walls.
 status: review

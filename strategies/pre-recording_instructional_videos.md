@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: pre-recording_instructional_videos
 title: Pre-recording Instructional Videos
 description: Recording instructional video in advance so learners can access, pause, and rewatch content asynchronously, freeing synchronous time for interaction.
 status: review

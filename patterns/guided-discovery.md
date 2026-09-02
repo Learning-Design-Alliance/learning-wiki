@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: guided-discovery
 title: Guided Discovery
 description: Guided discovery is the short-form canonical pattern for learner exploration supported by instructor prompts, constraints, and scaffolds.
 status: review

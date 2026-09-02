@@ -1,5 +1,6 @@
 ---
 type: principle
+id: cognitive-apprenticeship
 title: Cognitive Apprenticeship
 description: Cognitive apprenticeship is the principle of making expert thinking visible through modeling, coaching, scaffolding, and gradual participation in authentic tasks.
 status: review

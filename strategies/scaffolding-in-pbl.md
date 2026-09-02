@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: scaffolding-in-pbl
 title: Scaffolding in PBL
 description: Structured, temporary support embedded in problem-based learning to manage cognitive load and guide inquiry without eliminating productive struggle.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: use_multiple_representations
 title: Use Multiple Representations
 description: Present key concepts in more than one representational format (e.g., verbal, visual, symbolic, concrete) so learners build richer, more flexible understanding.
 status: review

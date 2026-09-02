@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: low-floor_high-ceiling_tasks
 title: Low Floor, High Ceiling Tasks
 description: Open-ended tasks that every learner can begin (low floor) but which extend to challenging depths (high ceiling), allowing differentiated engagement from a single prompt.
 status: review

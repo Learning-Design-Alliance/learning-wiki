@@ -1,5 +1,6 @@
 ---
 type: element
+id: information-literacy
 title: Information Literacy
 description: Information literacy is the element in which learners identify information needs, locate sources, evaluate credibility, and use information responsibly.
 status: review

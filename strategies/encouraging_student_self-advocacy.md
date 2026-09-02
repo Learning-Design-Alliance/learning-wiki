@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: encouraging_student_self-advocacy
 title: Encouraging Student Self-Advocacy
 description: Empowering learners to communicate their needs, understand their rights, and actively seek support.
 status: review

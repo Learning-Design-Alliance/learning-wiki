@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: preliminary_data_collection
 title: Preliminary Data Collection
 description: Preliminary data collection involves gathering contextual data to gain a deeper understanding of the local settings where a problem exists.
 status: review

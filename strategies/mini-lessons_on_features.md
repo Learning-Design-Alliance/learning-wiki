@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mini-lessons_on_features
 title: Mini-Lessons on Features
 description: Deliver short, focused lessons on individual writing features (organization, titles, sentence variety, imagery, evidence, introductions) so students can study and emulate one craft move at a time.
 status: review

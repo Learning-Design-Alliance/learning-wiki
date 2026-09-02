@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: equitable_assessment_rubrics
 title: Equitable Assessment Rubrics
 description: Rubrics aligned to learning standards, objectives, and activities that illuminate student learning and mastery, with meaningful comments for formative assessment.
 status: review

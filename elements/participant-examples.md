@@ -1,5 +1,6 @@
 ---
 type: element
+id: participant-examples
 title: Participant Examples
 description: A discourse move in which a learner positions themselves as a character within a case or example under academic study, using the case to reason about their own identity category membership rather than only about the case's distant subject.
 status: draft

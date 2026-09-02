@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: common_language_for_multimodal_composition
 title: Common Language for Multimodal Composition
 description: Creating a shared vocabulary or metalanguage empowers learners to analyze and discuss their multimodal composition process.
 status: review

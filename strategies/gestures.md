@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: gestures
 title: Gestures
 description: Gestures are physical movements, typically of the hands or arms, used to communicate meaning or support learning.
 status: review

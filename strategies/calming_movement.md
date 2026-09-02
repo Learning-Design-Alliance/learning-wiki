@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: calming_movement
 title: Calming Movement
 description: Using calming movement involves engaging in repetitive and rhythmic vestibular input to promote relaxation and self-regulation.
 status: review

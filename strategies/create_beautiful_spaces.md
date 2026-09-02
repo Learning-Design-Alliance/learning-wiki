@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: create_beautiful_spaces
 title: Create Beautiful Spaces
 description: Transforming classrooms and schools into beautiful environments that display high-quality student work, signaling that students' thinking and effort are valued.
 status: review

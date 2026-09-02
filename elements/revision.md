@@ -1,5 +1,6 @@
 ---
 type: element
+id: revision
 title: Revision
 description: Learners improve their work based on feedback and self-reflection.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: interaction_with_natural_environment
 title: Interaction with Natural Environment
 description: Incorporating natural elements (views of nature, plants, outdoor settings) into the learning environment to restore attention, improve well-being, and support academic performance.
 status: review

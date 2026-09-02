@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: elaboration-theory
 title: Elaboration Theory
 description: "Elaboration Theory is the short-form canonical target for Reigeluth's elaboration pattern, which sequences from simple, inclusive ideas toward more complex detail."
 status: review

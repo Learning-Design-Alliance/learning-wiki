@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: number_talks
 title: Number Talks
 description: Number Talks are short, daily classroom routines in which students mentally solve a numerical problem and discuss their strategies as a class.
 status: review

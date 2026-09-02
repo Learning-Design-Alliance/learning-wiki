@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: literacy-rich-environment
 title: Literacy Rich Environment
 description: Surrounding learners with accessible, purposeful print and language materials so that reading and writing are embedded in the physical and social environment rather than taught only as isolated lessons.
 status: review

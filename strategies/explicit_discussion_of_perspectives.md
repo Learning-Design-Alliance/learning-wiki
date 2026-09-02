@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: explicit_discussion_of_perspectives
 title: Explicit Discussion of Perspectives
 description: Explicitly discuss different perspectives, encouraging students to consider viewpoints other than their own.
 status: review

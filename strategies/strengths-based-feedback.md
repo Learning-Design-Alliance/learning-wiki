@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: strengths-based-feedback
 title: Strengths Based Feedback
 description: Feedback that identifies and builds on what learners are already doing well, using those strengths as the entry point for improvement rather than leading with deficits.
 status: review

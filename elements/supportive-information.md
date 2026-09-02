@@ -1,5 +1,6 @@
 ---
 type: element
+id: supportive-information
 title: Supportive information
 description: Supportive information provides the cognitive strategies, mental models, and conceptual frameworks necessary for tackling complex tasks.
 status: review

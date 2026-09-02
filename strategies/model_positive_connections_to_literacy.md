@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: model_positive_connections_to_literacy
 title: Model Positive Connections to Literacy
 description: Teachers share their own positive experiences with reading and writing to foster a positive literacy environment.
 status: review

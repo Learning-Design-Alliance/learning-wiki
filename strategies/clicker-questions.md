@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: clicker-questions
 title: Clicker Questions
 description: Structured in-class questions answered by all students via response systems (clickers or equivalents), typically followed by peer discussion and revoting.
 status: review

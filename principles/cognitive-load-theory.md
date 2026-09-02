@@ -1,5 +1,6 @@
 ---
 type: principle
+id: cognitive-load-theory
 title: Cognitive Load Theory
 description: Cognitive Load Theory, as a design principle, emphasizes managing the demands placed on working memory so learners can devote more capacity to schema construction rather than avoidable confusion.
 status: review

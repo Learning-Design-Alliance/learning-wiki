@@ -1,5 +1,6 @@
 ---
 type: element
+id: role-playing
 title: Role-Playing
 description: Role-playing is the element in which learners adopt roles and act through a scenario, interaction, or decision process from that perspective.
 status: review

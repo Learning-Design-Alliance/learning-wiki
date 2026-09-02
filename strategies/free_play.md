@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: free_play
 title: Free Play
 description: Free play is a child-led activity where learners explore and develop skills through self-directed interactions with their environment and peers.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: whats_below_the_surface_(iceberg_analysis)
 title: What’s Below the Surface? (Iceberg Analysis)
 description: Uses an iceberg graphic to push students from surface-level plot events to deeper analysis of character traits, motivations, and identity.
 status: review

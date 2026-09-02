@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mapping_online_reading_behavior
 title: Mapping Online Reading Behavior
 description: Learners create visual maps to track the links and sites they visit while reading online texts, then reflect on their navigation decisions.
 status: review

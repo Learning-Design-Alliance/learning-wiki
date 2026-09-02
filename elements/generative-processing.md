@@ -1,5 +1,6 @@
 ---
 type: element
+id: generative-processing
 title: Generative Processing
 description: Learners construct their own understanding by actively generating connections, summaries, explanations, or representations rather than passively receiving material.
 status: review

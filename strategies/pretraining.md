@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: pretraining
 title: Pretraining
 description: Teaching learners the names, characteristics, and functions of key concepts before the main instruction, so that working memory is not consumed by unfamiliar terminology during learning.
 status: review

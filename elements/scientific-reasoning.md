@@ -1,5 +1,6 @@
 ---
 type: element
+id: scientific-reasoning
 title: Scientific Reasoning
 description: Scientific reasoning is the element in which learners generate explanations, evaluate evidence, test claims, and revise models using disciplinary norms of inquiry.
 status: review

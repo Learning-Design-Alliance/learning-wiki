@@ -1,5 +1,6 @@
 ---
 type: principle
+id: universal-design-for-learning
 title: Universal Design For Learning
 description: Universal Design for Learning (UDL) proactively designs instruction with multiple means of engagement, representation, and action/expression so that varied learners can access and demonstrate learning without retrofitted accommodations.
 status: review

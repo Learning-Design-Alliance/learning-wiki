@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: physical-activity-breaks
 title: Physical Activity Breaks
 description: Short periods of movement integrated into instruction or work routines to restore attention, reduce fatigue, and support well-being.
 status: review

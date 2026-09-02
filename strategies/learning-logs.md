@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: learning-logs
 title: Learning Logs
 description: Short, prompt-driven reflective writing at the start or end of a lesson in which learners review prior material, define concepts, or make personal connections in a few minutes of writing.
 status: review

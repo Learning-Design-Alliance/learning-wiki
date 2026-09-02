@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: inquiry-based_writing
 title: Inquiry-Based Writing
 description: Engage learners in focused investigation with immediate, concrete data they gather and analyze themselves, using the findings as a springboard for higher-quality writing.
 status: review

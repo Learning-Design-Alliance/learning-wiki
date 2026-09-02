@@ -271,6 +271,79 @@ routinely holds real uncommitted work, and keying on HEAD would call all of it i
 
 ---
 
+## Page identity — `id:` and `aliases:`
+
+The [learning-design-spec](https://github.com/Learning-Design-Alliance/learning-design-spec)
+pipeline resolves design documents against this wiki: a pattern plan names
+`element: <slug>`, a principle names `Realizes: <principle-slug>`, a design section cites
+`research:<claim-slug>`, and `spec/learners.md` requires every learner dimension to be a
+`learner-variables/` slug. Its contract (that repo's `findings/0008`) opens with **every
+page's id is stable and unique within its kind** — because a rename breaks a course that
+has already shipped, silently, outside this repo.
+
+So the six kinds a design document can point at carry `id:` equal to their filename:
+**elements, principles, patterns, claims, learner-variables, strategies**. Theories stay
+out — nothing in the spec addresses one. A page type gains an id when something *outside*
+the wiki depends on pointing at it.
+
+**Strategies were nearly left out, and that would have been wrong.** `findings/0008`'s
+contract names only claim, pattern, element and principle slugs, and the reverse index
+reaches strategies without anyone naming them — so the first cut excluded all 2,557.
+`spec/patterns.md` then makes a phase name one outright:
+
+```yaml
+phases:
+  - phase: Read the case
+    element: case-based-learning
+    strategy: chunked-reading-with-embedded-questions   # a learning-wiki strategy slug
+```
+
+whose `### Instructions` become that phase's authored brief. So a strategy rename breaks a
+shipped course exactly the way an element rename does.
+
+- `python3 scripts/page_identity.py --check` — report; `--apply` — stamp missing ids
+- `python3 scripts/lint.py --type identity` — id present, equal to the slug, and unique
+  across ids **and** aliases within a kind
+
+**The claims `id:` was repurposed, deliberately.** CLAUDE.md used to document it as a short
+programmatic code (`we-4`, `fi-2`). Measured before the change: present on all 422 pages and
+useless as identity — 56 blank, only 183 of the 366 non-empty equal to the slug, and six
+values shared by two pages each. `enrich.py` stamped an empty `id: ` into every new claim,
+which is where the blanks came from. The short code was referenced nowhere in the wiki's
+12,893 citations while the design spec addresses claims by slug throughout, so it was
+vestigial.
+
+**`aliases:` is what makes a rename non-breaking, and it is never stamped empty.** It
+appears when a page is actually renamed: `update_links_for_renames.py` sets `id:` to the new
+slug and records the old one in `aliases:`, so a course document written against the old
+name still resolves. Empty fields on a thousand pages train a reader to skip the block.
+
+Ids and aliases share one namespace per kind. A document saying `element: foo` cannot tell
+whether `foo` is a current slug or a retired one, so two pages answering to it is ambiguous
+however that came about — which is the case lint catches that filename-uniqueness never
+could, filenames being unique by construction.
+
+Both YAML spellings are read (`aliases: [a, b]` and the block form), because both are
+written here — `page_identity.py` edits raw frontmatter text inline, while
+`ingest_extractions.py` builds pages through `okf_lib.dump_frontmatter`, which emits a
+block. A reader understanding only one would see no aliases on half the pages that have
+them: the rename would look recorded and still not resolve.
+
+**The spec reads exactly two things from wiki frontmatter: `id` and `type:`.** Everything
+else it resolves is a *body section* — `### Instructions` for a phase's brief,
+`### Target Learners` and `### Target Learning Goals` for matching personas and goals,
+`#### Requirements`/`#### Constraints` as the applicability filter, `## Claims` with their
+inline markers, `## Examples` on a learner-variable. Those are at 100% and ~99.8% already,
+and `findings/0008` is explicit that they must stay prose: structuring them into YAML would
+lose the qualifications that make them useful. So there is no further frontmatter work for
+the pattern-building process — a `pattern` doc's `pedagogy:` block and a `pack`'s
+`elements:` live in those documents, not here.
+
+**Note:** `verify_citation_edits.py` will trip on an id/alias pass — those are frontmatter
+edits, not citation edits, and it is a guard for citation tool runs only.
+
+---
+
 ## Three core operations
 
 ### 1. Ingest
@@ -357,7 +430,9 @@ Every content page (principle, element, pattern, strategy, theory, learner-varia
 | `generated` | Recommended | `{ by: <actor>, at: <date> }` — who/what last wrote the page and when, replacing the old `last_edited`/`edited_by` pair |
 | `sources` | When applicable | List of `{ id, resource, title, author }` entries parsed from `## Key Sources` (or `## Evidence` for claims) — a structured mirror of the citations already in the body, not a replacement for them |
 | `verified` | Optional | List of `{ by: <actor>, at: <date> }` confirmation events — see Trust tiers below. Absent on every page until someone explicitly reviews it; never set this yourself just because a page looks complete |
-| `id`, `evidence_strength`, `author`, `grain_size` | Type-specific | Extra scalar fields kept as-is per page type (see templates below); OKF tolerates extra frontmatter keys |
+| `id` | On identified kinds | Equal to the filename slug, on elements/principles/patterns/claims/learner-variables — the stable name design documents resolve by (see Page identity below) |
+| `aliases` | After a rename | Every former slug of this page, retained forever, so a document naming the old one still resolves |
+| `evidence_strength`, `author`, `grain_size` | Type-specific | Extra scalar fields kept as-is per page type (see templates below); OKF tolerates extra frontmatter keys |
 
 **Actor convention** for `generated.by` (and any other identity field): `<tool>/unspecified` for an agent/tool (e.g. `claude/unspecified`, `codex/unspecified`), `human:<id>` for a person, `process:<id>` for an unattended batch job (e.g. `process:wiki-ingest`). Never invent a specific model version you're not certain of — `unspecified` is fine.
 
@@ -469,7 +544,7 @@ indexes with `python3 scripts/build_indexes.py`.
 - OKF also permits absolute bundle-relative paths (`/folder/slug.md`) — this wiki uses the relative form instead because it works with plain `mkdocs` (the docs site's builder) with no extra plugin, whereas an absolute path renders as a literal domain-root URL once the site is hosted under a subpath
 - Slugs are lowercase, hyphen-separated: `worked-examples`, `cognitive-load-theory`
 - Always include the folder in a cross-folder link so the target is unambiguous: `[Worked examples reduce novice search](../claims/worked-examples-reduce-novice-search.md)`
-- Claims use semantic slugs: `../claims/worked-examples-reduce-novice-load.md`; the short `id:` in frontmatter is for programmatic reference only
+- Claims use semantic slugs: `../claims/worked-examples-reduce-novice-load.md`, and `id:` in frontmatter equals that slug (see Page identity)
 - A link to a page that doesn't exist yet is tolerated (OKF requires consumers to tolerate broken links) — write the link anyway rather than leaving a bare TODO if you know the target slug, but don't invent slugs you haven't verified exist or are about to create
 
 ---
@@ -500,6 +575,7 @@ ld-wiki/
     log_source_review.py ← appends one entry to sources/manifest.ndjson (see Source Manifest below)
     add_type_banner.py ← inserts/refreshes the page-type banner under each page's H1 (see below)
     update_links_for_renames.py ← after pages are renamed, re-points every inbound cross-link (see below)
+    page_identity.py   ← stable `id:`/`aliases:` for the kinds design docs point at (see below)
     lint.py            ← health-check (see Lint above)
     verify_citation_edits.py ← after a citation tool writes: did it edit only citations? (see above)
 ```
@@ -608,6 +684,7 @@ as you work.
 ```markdown
 ---
 type: principle
+id: [principle-slug]      # equal to the filename
 title: [Principle Name]
 description: [One-sentence summary of the recommendation]
 status: draft
@@ -665,6 +742,7 @@ generated:
 ```markdown
 ---
 type: element
+id: [element-slug]      # equal to the filename
 title: [Element Name]
 description: [One-sentence summary of what this element is]
 status: draft
@@ -718,6 +796,7 @@ generated:
 ```markdown
 ---
 type: pattern
+id: [pattern-slug]      # equal to the filename
 title: [Pattern Name]
 description: [One-sentence summary of what this pattern is]
 status: draft
@@ -798,6 +877,7 @@ grain_size:
 ```markdown
 ---
 type: strategy
+id: [strategy-slug]      # equal to the filename
 title: [Strategy Name]
 description: [One-sentence summary of what this strategy is]
 status: draft
@@ -909,6 +989,7 @@ hand for now when a claim clearly reports a learner-characteristic finding.
 ```markdown
 ---
 type: learner-variable
+id: [variable-slug]   # equal to the filename
 title: [Variable Name]
 description: [One-sentence definition of this learner characteristic]
 status: draft
@@ -959,7 +1040,7 @@ generated:
 ---
 type: claim
 title: [Claim statement — one sentence, present tense]
-id: CL-XXXX          # short programmatic ID (e.g. we-4, fi-2)
+id: [claim-slug]     # equal to the filename — what a design doc cites
 status: draft
 generated:
   by: <actor>

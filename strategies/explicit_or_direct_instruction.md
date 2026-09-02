@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: explicit_or_direct_instruction
 title: Explicit or Direct Instruction
 description: A structured teaching approach in which the instructor makes goals, content, strategies, and success criteria fully visible, models them, and guides practice before releasing learners to independent work.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: tiered_seating_areas
 title: Tiered Seating Areas
 description: A physical classroom arrangement in which seating is stepped or elevated so that every participant in a group can see and hear the speaker, supporting small-group discussion and demonstration.
 status: review

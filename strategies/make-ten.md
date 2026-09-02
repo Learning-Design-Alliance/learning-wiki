@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: make-ten
 title: Make Ten
 description: A mental math strategy in which learners decompose one addend to complete a ten before adding the remainder (e.g., 8 + 5 → 8 + 2 + 3 → 10 + 3 = 13).
 status: review

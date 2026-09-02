@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: analogical-encoding
 title: Analogical Encoding
 description: Learners compare two or more structurally parallel cases to abstract the shared relational schema, rather than studying a single case in isolation.
 status: review

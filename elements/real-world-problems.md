@@ -1,5 +1,6 @@
 ---
 type: element
+id: real-world-problems
 title: Real-World Problems
 description: Real-world problems are tasks framed around authentic issues, needs, or dilemmas outside purely academic abstraction.
 status: review

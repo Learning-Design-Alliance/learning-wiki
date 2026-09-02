@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: inclusive_cultural_response
 title: Inclusive Cultural Response
 description: Inclusive Cultural Response involves addressing gaps in cultural learning and representation by adding and including texts and making changes in units of study.
 status: review

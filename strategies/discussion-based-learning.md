@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: discussion-based-learning
 title: Discussion Based Learning
 description: Learners construct and refine understanding through structured dialogue with peers and instructors, rather than receiving knowledge primarily through presentation.
 status: review

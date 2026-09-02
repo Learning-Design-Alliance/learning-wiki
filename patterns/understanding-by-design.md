@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: understanding-by-design
 title: Understanding by Design
 description: Wiggins and McTighe's backward design process plans a course or unit in three stages — identify desired results, determine acceptable evidence, then plan learning experiences — so that activities and assessments are derived from the learning goals rather than chosen first and justified afterward.
 status: draft

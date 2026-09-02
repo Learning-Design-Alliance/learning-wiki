@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: name_the_negative_voice
 title: Name the Negative Voice
 description: Have students name their negative inner voice (e.g., Adverse Antoine, Ruthless Ralph, Cranky Kirsten) to create psychological distance from negative self-talk.
 status: review

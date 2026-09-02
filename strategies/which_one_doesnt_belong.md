@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: which_one_doesnt_belong
 title: Which One Doesn’t Belong?
 description: Learners compare a small set of cards representing quantities and identify — and justify — which one differs, building number sense through structured comparison.
 status: review

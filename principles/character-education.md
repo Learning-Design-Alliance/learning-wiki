@@ -1,5 +1,6 @@
 ---
 type: principle
+id: character-education
 title: Character Education
 description: Character education integrates ethical understanding, emotional/caring responses, and concrete moral action, typically operating schoolwide through democratic practice, relationship-building, and service rather than through rule recitation alone.
 status: draft

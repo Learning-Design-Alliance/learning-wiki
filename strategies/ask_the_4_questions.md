@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: ask_the_4_questions
 title: Ask the 4 Questions
 description: A structured feedback framework in which the teacher answers four questions about a learner's work — what the learner can do, what they cannot yet do, how their work compares, and how to improve.
 status: review

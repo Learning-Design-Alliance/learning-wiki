@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: color-coded_supplies
 title: Color-Coded Supplies
 description: Assigning consistent colors to subjects, tasks, or paper flows so learners can identify, sort, and manage materials with minimal search and deliberation.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: one-minute-papers
 title: One Minute Papers
 description: A brief end-of-session writing activity in which learners respond to two prompts — the muddiest point and the most important thing learned — providing rapid formative feedback to the instructor.
 status: review

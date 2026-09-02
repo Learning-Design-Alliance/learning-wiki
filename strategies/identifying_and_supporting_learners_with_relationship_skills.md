@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: identifying_and_supporting_learners_with_relationship_skills
 title: Identifying and Supporting Learners with Relationship Skills
 description: Systematically observing, assessing, and scaffolding learners' interpersonal competencies — communication, cooperation, conflict resolution, and help-seeking — so social skill gaps do not become barriers to participation and learning.
 status: review

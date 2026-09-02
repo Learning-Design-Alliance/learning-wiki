@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: offline-learning-packets
 title: Offline Learning Packets
 description: Self-contained printed or downloadable packets that let learners work through structured instruction, practice, and self-assessment without connectivity or live instruction.
 status: review

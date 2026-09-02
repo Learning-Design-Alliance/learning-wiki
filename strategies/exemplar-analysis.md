@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: exemplar-analysis
 title: Exemplar Analysis
 description: Learners study one or more worked examples of expert performance to extract the underlying principles, structure, and decision criteria before producing their own work.
 status: review

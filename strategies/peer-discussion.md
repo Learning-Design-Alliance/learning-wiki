@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: peer-discussion
 title: Peer Discussion
 description: Learners explain, question, and negotiate ideas with one another in structured or semi-structured dialogue to deepen understanding.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: modeling-and-practice-source-evaluation
 title: Modeling and Practice (Source Evaluation)
 description: Explicitly model how to evaluate each dimension of source credibility, then provide repeated practice applying these strategies to real information learners encounter during research.
 status: review

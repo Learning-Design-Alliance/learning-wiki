@@ -1,7 +1,7 @@
 ---
 type: claim
 title: AI-mediated feedback in hands-on exhibits improves learning and engagement
-id: ise-1
+id: ai-mediated-feedback-in-hands-on-exhibits-improves-learning-and-engagement
 status: draft
 generated:
   by: claude/unspecified

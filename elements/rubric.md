@@ -1,5 +1,6 @@
 ---
 type: element
+id: rubric
 title: Rubric
 description: A rubric is a scoring guide that makes evaluation criteria and performance levels explicit before learners attempt a task, supporting both assessment and self-regulation.
 status: review

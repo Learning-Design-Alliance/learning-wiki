@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: strengths-based_teaching
 title: Strengths-Based Teaching
 description: A teaching approach that identifies and leverages learners' existing strengths and talents to build engagement, confidence, and overall achievement rather than remediating deficits.
 status: review

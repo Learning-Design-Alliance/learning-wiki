@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-regulation_-_mindfulness_techniques
 title: Self-Regulation - Mindfulness Techniques
 description: Incorporate mindfulness techniques to help learners manage their initial emotional impulses and reactivity.
 status: review

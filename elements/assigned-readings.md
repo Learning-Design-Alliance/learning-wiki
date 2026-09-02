@@ -1,5 +1,6 @@
 ---
 type: element
+id: assigned-readings
 title: Assigned Readings
 description: Learners engage with pre-selected texts, articles, or book chapters to build foundational knowledge before or during instruction.
 status: review

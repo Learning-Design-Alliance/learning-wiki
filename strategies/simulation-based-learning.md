@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: simulation-based-learning
 title: Simulation Based Learning
 description: Learners practice skills in an interactive, modeled environment that approximates a real task, receiving feedback on their performance without real-world stakes.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: easy-access_educational_tools
 title: Easy-Access Educational Tools
 description: Making educational tools readily available to students supports self-advocacy by fostering independence and choice.
 status: review

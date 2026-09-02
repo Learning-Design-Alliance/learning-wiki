@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: reflective-practice-mixed-evidence
+id: reflective-practice-evidence-mixed-in-professional-education
 evidence_strength: weak
 ---
 

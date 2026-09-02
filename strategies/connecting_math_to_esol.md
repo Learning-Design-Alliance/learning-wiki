@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: connecting_math_to_esol
 title: Connecting Math to ESOL
 description: Integrating authentic mathematical content and numeracy tasks into English for Speakers of Other Languages (ESOL) instruction so learners build language proficiency through meaningful quantitative contexts.
 status: review

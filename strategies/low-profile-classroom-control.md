@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: low-profile-classroom-control
 title: Low-Profile Classroom Control
 description: Low-profile classroom control is a set of techniques — anticipation, deflection, and reaction — for stopping minor "surface" misbehaviors without disrupting the flow of a lesson.
 status: draft

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: modeling_positive_self-talk
 title: Modeling Positive Self-Talk
 description: Demonstrating positive thinking skills aloud when talking about oneself and others.
 status: review

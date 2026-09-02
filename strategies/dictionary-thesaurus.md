@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: dictionary-thesaurus
 title: "Dictionary & Thesaurus"
 description: Incorporating web dictionaries and thesauruses into vocabulary lessons allows learners to quickly search and understand unfamiliar words.
 status: review

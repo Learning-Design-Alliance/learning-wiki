@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: complete_scripts_of_academic_routines
 title: Complete Scripts of Academic Routines
 description: Provide scaffolding, like speech examples, for discourse routines that may not be obvious to learners.
 status: review

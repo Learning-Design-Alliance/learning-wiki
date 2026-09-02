@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: expressive_writing
 title: Expressive Writing
 description: Expressive writing asks learners to write continuously about their thoughts and feelings surrounding emotionally significant experiences, typically in short structured sessions.
 status: review

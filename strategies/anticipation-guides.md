@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: anticipation-guides
 title: Anticipation Guides
 description: A pre-reading strategy in which learners respond to a set of statements about upcoming content before encountering it, then revisit and revise their answers afterward.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: questioning-the-author
 title: Questioning The Author
 description: An instructional approach in which students engage with a text through open, author-directed queries ("What is the author trying to say here?") to build understanding during reading rather than after it.
 status: review

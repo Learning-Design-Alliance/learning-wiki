@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: require_retakes
 title: Require Retakes
 description: Allowing or requiring retakes emphasizes a growth mindset and reinforces perseverance.
 status: review

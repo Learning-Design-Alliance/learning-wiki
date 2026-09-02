@@ -1,5 +1,6 @@
 ---
 type: element
+id: review-and-summarizing
 title: Review And Summarizing
 description: Review and summarizing asks learners to re-engage with previously covered material by condensing it into their own words, consolidating memory and revealing gaps in understanding.
 status: review

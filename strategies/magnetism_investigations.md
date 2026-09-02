@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: magnetism_investigations
 title: Magnetism Investigations
 description: Learners explore how magnets interact with different materials and map how magnetic fields affect compasses, building conceptual understanding of magnetism through prediction, observation, and explanation.
 status: review

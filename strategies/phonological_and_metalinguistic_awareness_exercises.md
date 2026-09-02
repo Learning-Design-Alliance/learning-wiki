@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: phonological_and_metalinguistic_awareness_exercises
 title: Phonological and Metalinguistic Awareness Exercises
 description: Facilitate reading acquisition by having students identify, compare, and manipulate sounds and word forms in English and their home language.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: maximization_of_transfer_and_generalization
 title: Maximization of Transfer and Generalization
 description: Supporting the application of learning to new contexts, tasks, and situations beyond those in which it was originally acquired.
 status: review

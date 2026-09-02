@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: quiet_signals
 title: Quiet Signals
 description: Quiet signals are predetermined, typically non-verbal cues used to quickly regain student attention and reduce classroom noise without raising the teacher's voice.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: classroom-library-curation
 title: Classroom Library Curation
 description: The deliberate selection, organization, and ongoing maintenance of a classroom book collection to match learners' interests, identities, and reading levels.
 status: review

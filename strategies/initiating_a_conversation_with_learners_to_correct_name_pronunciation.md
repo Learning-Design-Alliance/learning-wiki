@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: initiating_a_conversation_with_learners_to_correct_name_pronunciation
 title: Initiating a Conversation with Learners to Correct Name Pronunciation
 description: The instructor proactively opens a respectful conversation with each learner to learn, practice, and correct the pronunciation of their name.
 status: review

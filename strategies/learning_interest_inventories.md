@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: learning_interest_inventories
 title: Learning Interest Inventories
 description: Learning interest inventories are structured surveys or interviews that surface learners' interests, preferences, and motivations so instruction can be personalized around them.
 status: review

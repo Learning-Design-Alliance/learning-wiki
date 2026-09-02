@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: headings-and-highlight-strategy-variant
 title: "\"Headings and Highlight\" Strategy"
 description: A collaborative digital reading routine in which pairs highlight key ideas and distill sections into four-word headings, then compare and justify their choices with text evidence.
 status: review

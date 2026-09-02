@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: pre-teaching_vocabulary
 title: Pre-Teaching Vocabulary
 description: Pre-teaching vocabulary involves introducing new words before encountering them in a text or lesson.
 status: review

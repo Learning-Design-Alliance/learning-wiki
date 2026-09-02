@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: asset-based_teaching
 title: Asset Based Teaching
 description: A pedagogical approach that plans instruction around learners' strengths, backgrounds, and capabilities rather than their deficits, positioning every learner as someone with knowledge to share and contribute.
 status: review

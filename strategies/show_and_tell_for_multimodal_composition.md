@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: show_and_tell_for_multimodal_composition
 title: Show and Tell for Multimodal Composition
 description: Brief, recurring sessions where learners show multimodal design choices or narrate their composition process, functioning as an author's chair for multimodal work.
 status: review

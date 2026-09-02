@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: intensive-instruction-active-engagement
 title: Intensive Instruction/Active Engagement
 description: Intensive instruction maximizes learning by combining high time-on-task with frequent, active learner responding rather than passive reception.
 status: review

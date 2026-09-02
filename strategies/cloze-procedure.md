@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: cloze-procedure
 title: Cloze Procedure
 description: Learners fill in deliberately deleted words within a text, using context and linguistic cues to reconstruct meaning.
 status: review

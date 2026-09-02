@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: growth_mindset_development
 title: Growth Mindset Development
 description: Growth mindset development cultivates learners' belief that abilities are malleable and improvable through effort, effective strategies, and help-seeking.
 status: review

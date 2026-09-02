@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: show_me
 title: Show Me
 description: Use slides or the board to provide a visual, permanent channel for information or directions that are also delivered verbally.
 status: review

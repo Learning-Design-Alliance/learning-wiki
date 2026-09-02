@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: sound-blocking_devices
 title: Sound-blocking Devices
 description: Sound-blocking devices, such as noise-reducing headphones or earmuffs, can help children with auditory sensitivities manage sensory input by reducing background noise.
 status: review

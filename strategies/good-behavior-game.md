@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: good-behavior-game
 title: Good Behavior Game
 description: A classroom management strategy in which teams of students earn rewards by collectively keeping disruptive behavior below a criterion during a defined period.
 status: review

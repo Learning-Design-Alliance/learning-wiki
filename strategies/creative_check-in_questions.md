@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: creative_check-in_questions
 title: Creative Check-In Questions
 description: Instructors open a session with an unexpected, thought-provoking question that invites reflection and emotional awareness before academic work begins.
 status: review

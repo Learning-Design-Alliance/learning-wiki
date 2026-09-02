@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: connect_content_to_student_lives
 title: Connect Content To Student Lives
 description: Linking academic content to students' personal experiences, cultural backgrounds, and communities so that new material feels relevant and meaningful.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: gagnés-9-events-of-instruction
 title: "Gagne's 9 Events of Instruction"
 description: "Gagne's 9 Events of Instruction is a structured lesson pattern that sequences attention, objectives, recall, presentation, guidance, practice, feedback, assessment, and transfer."
 status: review

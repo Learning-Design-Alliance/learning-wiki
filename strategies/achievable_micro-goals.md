@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: achievable_micro-goals
 title: Achievable Micro-goals
 description: Setting achievable micro-goals encourages consistent, incremental progress, leading to a growth mindset and increased confidence.
 status: review

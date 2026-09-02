@@ -1,5 +1,6 @@
 ---
 type: principle
+id: positive-self-talk
 title: Positive Self-talk
 description: Positive self-talk is the deliberate use of supportive, instructional, or regulating internal language to influence how a learner interprets difficulty, effort, and performance.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: strength-based_strategies_for_social_awareness
 title: Strength-Based Strategies for Social Awareness
 description: Educators identify students' existing social-emotional strengths and deliberately leverage them to build social awareness and address interpersonal challenges.
 status: review

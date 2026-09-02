@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: concrete-examples
 title: Concrete Examples
 description: Grounding abstract concepts, principles, or procedures in specific, tangible instances that learners can examine before generalizing.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: annotated-bibliographies
 title: Annotated Bibliographies
 description: Learners compile a list of sources on a topic, each accompanied by a summary, evaluation, and reflection on its relevance and credibility.
 status: review

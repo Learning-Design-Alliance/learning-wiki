@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: picture-word-inductive-model
 title: Picture Word Inductive Model
 description: A strategy in which students build vocabulary, phonics, and sentence knowledge inductively by classifying words generated from a large, engaging picture.
 status: review

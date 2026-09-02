@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: keep_instructions_concise
 title: Keep Instructions Concise
 description: Deliver task instructions in short, sequenced units aligned to task phases, minimizing extraneous language so working memory is spent on the task, not on parsing directions.
 status: review

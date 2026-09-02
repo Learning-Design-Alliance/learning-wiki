@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: drawing_for_emergent_writing
 title: Drawing for Emergent Writing
 description: Drawing activities support emergent writing by giving young learners unstructured drawing time and using their drawings as plans and prompts for early literacy tasks.
 status: review

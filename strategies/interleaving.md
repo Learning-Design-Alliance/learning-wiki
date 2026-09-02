@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: interleaving
 title: Interleaving
 description: Interleaving arranges practice so that different but related problem types or categories are mixed within a session rather than blocked, forcing learners to discriminate between them.
 status: review

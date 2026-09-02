@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: safe_and_healthy_elementary_school_recess
 title: Safe and Healthy Elementary School Recess
 description: Implementing a safe and healthy recess with programs like Playworks TeamUp aims to build a positive school climate by promoting social, emotional, physical, and academic development.
 status: review

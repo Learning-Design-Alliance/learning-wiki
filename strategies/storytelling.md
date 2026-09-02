@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: storytelling
 title: Storytelling
 description: Embedding learning content in a narrative structure — characters, causality, and sequence — to leverage the mind's affinity for stories in encoding, organization, and recall.
 status: review

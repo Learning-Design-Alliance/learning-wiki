@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: support-decoding-of-text-mathematical-notation-and-symbols
 title: Support Decoding of Text, Mathematical Notation, and Symbols
 description: Providing strategies and tools so that written text, mathematical notation, and other symbol systems do not become a barrier to the learning goal.
 status: review

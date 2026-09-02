@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: vocabulary_pre-teaching
 title: Vocabulary Pre-Teaching
 description: Selecting and directly teaching a small set of high-value words before learners encounter them in a text or task, so that unfamiliar vocabulary does not block comprehension.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: mastery-learning
 title: Mastery Learning
 description: Mastery Learning is a pattern in which instruction is organized around clear criteria, formative checks, corrective support, and reassessment before progression.
 status: review

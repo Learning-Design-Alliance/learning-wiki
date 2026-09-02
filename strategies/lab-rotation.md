@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: lab-rotation
 title: Lab Rotation
 description: Students rotate on a fixed schedule between a computer lab for online learning and a classroom for teacher-led instruction.
 status: review

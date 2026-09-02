@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: attention_breaks
 title: Attention Breaks
 description: Practice attentive behavior during non-crucial times during the school day.
 status: review

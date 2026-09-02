@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: fist-tapping-arm-tapping
 title: Fist Tapping & Arm Tapping
 description: Multisensory spelling strategies in which learners physically tap out syllables and sounds of words while saying and spelling them aloud.
 status: review

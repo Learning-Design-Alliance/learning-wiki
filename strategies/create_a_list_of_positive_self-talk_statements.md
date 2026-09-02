@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: create_a_list_of_positive_self-talk_statements
 title: Create a List of Positive Self-Talk Statements
 description: Generating a collection of affirmative statements for learners to read, personalize, and internalize as a resource for managing negative thoughts.
 status: review

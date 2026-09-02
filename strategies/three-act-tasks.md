@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: three-act-tasks
 title: Three Act Tasks
 description: A three-phase lesson structure for mathematics in which learners first experience a compelling phenomenon, then resolve it through problem solving, then compare their solution against the resolution.
 status: review

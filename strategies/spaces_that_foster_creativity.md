@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: spaces_that_foster_creativity
 title: Spaces that Foster Creativity
 description: Deliberately designing the physical (and virtual) learning environment — flexible furniture, varied activity zones, learner work on display, and natural light — to support creative work, collaboration, and engagement.
 status: review

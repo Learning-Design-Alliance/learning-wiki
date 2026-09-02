@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: create_culture_kits
 title: Create Culture Kits
 description: Students assemble collections of personally meaningful objects representing their cultural backgrounds, then share and discuss them to build intercultural understanding and classroom community.
 status: review

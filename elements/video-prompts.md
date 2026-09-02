@@ -1,5 +1,6 @@
 ---
 type: element
+id: video-prompts
 title: Video Prompts
 description: Video prompts are short video clips used to launch attention, curiosity, discussion, or analysis.
 status: review

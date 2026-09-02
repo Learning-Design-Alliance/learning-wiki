@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: emotion_guessing_game
 title: Emotion Guessing Game
 description: An emotion guessing game involves an instructor or student making an emotion face, and the others guess the emotion being expressed.
 status: review

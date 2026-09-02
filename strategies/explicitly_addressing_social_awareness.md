@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: explicitly_addressing_social_awareness
 title: Explicitly Addressing Social Awareness
 description: Deliberately identifying students' social-awareness strengths and challenges, then using aligned modeling, discussion, and perspective-taking strategies to build empathy and social understanding as part of learning.
 status: review

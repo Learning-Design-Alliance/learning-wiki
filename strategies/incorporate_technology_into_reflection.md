@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: incorporate_technology_into_reflection
 title: Incorporate Technology into Reflection
 description: "Leverages students' familiarity with digital tools — microblogging, collaborative documents, multimedia capture, and discussion platforms — to make reflection more frequent, visible, and interactive."
 status: review

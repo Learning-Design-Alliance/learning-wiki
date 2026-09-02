@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-monitoring-of-attention-sma
 title: Self-Monitoring of Attention (SMA)
 description: Learners systematically observe and record their own attention-related behavior, using cues to prompt self-assessment at regular intervals.
 status: review

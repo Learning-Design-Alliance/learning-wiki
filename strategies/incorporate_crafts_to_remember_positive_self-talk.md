@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: incorporate_crafts_to_remember_positive_self-talk
 title: Incorporate Crafts to Remember Positive Self-Talk
 description: Using creative hands-on activities to produce tangible artifacts (affirmation cards, crafts, visual reminders) that reinforce positive self-talk.
 status: review

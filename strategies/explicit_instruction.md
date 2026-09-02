@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: explicit_instruction
 title: Explicit Instruction
 description: Systematic, teacher-directed instruction in which skills are modeled directly, practiced with guidance, and gradually released to independent performance.
 status: review

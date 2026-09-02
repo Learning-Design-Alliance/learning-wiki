@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: cloud_text-to-speech_api
 title: Cloud Text-to-Speech API
 description: Cloud Text-to-Speech allows developers to create natural-sounding, synthetic human speech as playable audio.
 status: review

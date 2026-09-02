@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: practice_time
 title: Practice Time
 description: Give students time to practice what they just learned in a low-stakes environment, without grading or evaluation.
 status: review

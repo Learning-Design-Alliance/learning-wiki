@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: connect_math_to_student_strengths
 title: Connect Math to Student Strengths
 description: Help learners understand how math is used in ways that relate to their personal strengths by relating math to student interests.
 status: review

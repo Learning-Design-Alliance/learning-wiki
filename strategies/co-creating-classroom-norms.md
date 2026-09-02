@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: co-creating-classroom-norms
 title: Co Creating Classroom Norms
 description: Involving learners in generating, discussing, and ratifying the behavioral and interactional norms that govern a classroom community.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: standard-based_regrouping
 title: Standard-Based Regrouping
 description: "Form homogeneous groups based on learners' mastery of specific standards."
 status: review

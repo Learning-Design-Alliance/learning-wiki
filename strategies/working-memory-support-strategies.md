@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: working-memory-support-strategies
 title: Working Memory Support Strategies
 description: A family of design moves that reduce, segment, or externalize the working-memory demands of instruction so limited capacity is spent on learning rather than on holding intermediate information.
 status: review

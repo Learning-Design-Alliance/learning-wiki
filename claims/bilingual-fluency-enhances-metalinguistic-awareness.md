@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Fluent bilingualism enhances metalinguistic awareness
-id: ld-9
+id: bilingual-fluency-enhances-metalinguistic-awareness
 status: draft
 generated:
   by: claude/unspecified

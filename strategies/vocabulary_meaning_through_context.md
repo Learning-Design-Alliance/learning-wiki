@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: vocabulary_meaning_through_context
 title: Vocabulary Meaning Through Context
 description: Instructors present vocabulary embedded in meaningful context so learners infer meaning themselves, aiding understanding and retention.
 status: review

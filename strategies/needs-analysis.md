@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: needs-analysis
 title: Needs Analysis
 description: A systematic process for identifying the gap between current and desired performance and determining whether instruction is the right remedy.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: visual-schedules
 title: Visual Schedules
 description: A visual schedule presents the sequence of activities, steps, or transitions in an image- or symbol-based format so learners can anticipate, navigate, and self-manage their time.
 status: review

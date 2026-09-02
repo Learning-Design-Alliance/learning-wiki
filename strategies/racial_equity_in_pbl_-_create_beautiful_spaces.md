@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: racial_equity_in_pbl_-_create_beautiful_spaces
 title: Racial Equity in PBL - Create Beautiful Spaces
 description: Intentionally designing and displaying project-based learning environments — especially public displays of student work — so that students from underserved communities experience their classroom as a beautiful, dignified space that reflects their accomplishments.
 status: review

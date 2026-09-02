@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: address_speed_of_processing
 title: Address Speed of Processing
 description: "Identify students' strengths and challenges related to processing speed and align instructional pacing, materials, and response formats so that speed of information handling does not mask what students actually know."
 status: review

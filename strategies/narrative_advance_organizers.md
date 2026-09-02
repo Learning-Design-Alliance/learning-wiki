@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: narrative_advance_organizers
 title: Narrative Advance Organizers
 description: Narrative advance organizers involve storytelling at the beginning of a lesson to engage students and relate to important concepts.
 status: review

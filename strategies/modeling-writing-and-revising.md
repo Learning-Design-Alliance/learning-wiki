@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: modeling-writing-and-revising
 title: Modeling Writing And Revising
 description: The instructor composes or revises text in front of learners while verbalizing decisions, making the invisible planning, drafting, and revision processes of expert writing observable and imitable.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: principle
+id: clear-structure-presentation
 title: "Clear Structure & Presentation"
 description: Instruction should make its structure visible.
 status: review

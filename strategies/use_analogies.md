@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: use_analogies
 title: Use Analogies
 description: Introduce new material by mapping it onto a familiar, well-understood domain so learners can reason about the unfamiliar through the familiar.
 status: review

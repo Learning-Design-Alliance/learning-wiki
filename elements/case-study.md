@@ -1,5 +1,6 @@
 ---
 type: element
+id: case-study
 title: Case Study
 description: Learners analyze a real or hypothetical scenario to apply concepts.
 status: review

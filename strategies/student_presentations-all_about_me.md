@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: student_presentations-all_about_me
 title: Student Presentations All About Me
 description: Learners prepare and deliver a short personal presentation ("All About Me") to build oral communication skills, classroom community, and self-knowledge.
 status: review

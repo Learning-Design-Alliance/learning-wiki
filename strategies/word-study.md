@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: word-study
 title: Word Study
 description: An investigative approach to spelling and word knowledge instruction in which students examine, sort, and compare words to discover patterns and generalizations rather than memorize word lists.
 status: review

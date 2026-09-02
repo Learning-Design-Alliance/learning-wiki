@@ -1,5 +1,6 @@
 ---
 type: principle
+id: guided-practice
 title: Guided Practice
 description: Guided practice is the instructional principle of giving learners repeated opportunities to apply a skill or concept while support is still available.
 status: review

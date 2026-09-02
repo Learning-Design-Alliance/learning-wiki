@@ -1,5 +1,6 @@
 ---
 type: element
+id: competency-based-learning
 title: Competency-Based Learning
 description: Competency-based learning is the element in which progression is organized around demonstrated competence rather than seat time.
 status: review

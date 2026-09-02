@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: multiple-display-boards-screens
 title: Multiple Display Boards/Screens
 description: Using multiple physical or digital display surfaces simultaneously so instruction, group work, and student-generated content are visible and shareable across a learning space.
 status: review

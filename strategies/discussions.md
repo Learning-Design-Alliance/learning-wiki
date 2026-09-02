@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: discussions
 title: Discussions
 description: Engage learners in text-based discussions where they discuss what they read with each other, and teachers set expectations and routines for productive discussions.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: graphic_organizers_for_retrieval_practice
 title: Graphic Organizers for Retrieval Practice
 description: Students recall as much as they can about a topic (Brain Dump) and then sort their dumped information into a graphic organizer.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: modeling_a_growth_mindset
 title: Modeling a Growth Mindset
 description: School leaders and experienced educators deliberately demonstrate growth-mindset behaviors — treating challenges, errors, and feedback as learning opportunities — so that teachers and, in turn, their students adopt the same stance.
 status: review

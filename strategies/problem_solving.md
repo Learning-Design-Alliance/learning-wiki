@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: problem_solving
 title: Problem Solving
 description: Designing activities that require learners to generate solutions to authentic, ill-structured problems, with the solution-finding process itself as the site of learning.
 status: review

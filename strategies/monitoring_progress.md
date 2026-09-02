@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: monitoring_progress
 title: Monitoring Progress
 description: Monitoring progress involves regularly assessing advancement towards goals, identifying deviations from the plan, and adjusting effort or strategy accordingly.
 status: review

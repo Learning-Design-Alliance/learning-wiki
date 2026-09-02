@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: balanced_assessment_system
 title: Balanced Assessment System
 description: A coordinated system of formative, interim, and summative assessment designed so that assessment evidence continuously informs core instruction, not just end-of-course reporting.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: multisensory_instruction
 title: Multisensory Instruction
 description: Multisensory instruction combines visual, auditory, and tactile-kinesthetic techniques simultaneously to teach skills — most prominently decoding and spelling — so that learning is reinforced through multiple sensory channels.
 status: review

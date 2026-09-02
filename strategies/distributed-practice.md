@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: distributed-practice
 title: Distributed Practice
 description: Practicing content in short sessions spaced over time rather than massed into one long session, leveraging desirable difficulties to strengthen long-term retention.
 status: review

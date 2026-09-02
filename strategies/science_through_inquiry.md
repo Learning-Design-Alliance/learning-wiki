@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: science_through_inquiry
 title: Science Through Inquiry
 description: Engage learners in hands-on, exploratory science activities that encourage questioning, discovery, and testing to develop new understandings.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: product-testing
 title: Product Testing
 description: Learners try out a product, artifact, or solution they have created with real users or peers, gather structured feedback, and iterate before final release.
 status: review

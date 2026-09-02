@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: math_games
 title: Math Games
 description: Math games are structured activities designed to stimulate enthusiasm for math learning by providing opportunities to explore fundamental number concepts, engage in strategic mathematical thinking, and deepen understanding of numbers.
 status: review

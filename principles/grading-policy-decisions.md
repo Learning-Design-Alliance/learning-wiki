@@ -1,5 +1,6 @@
 ---
 type: principle
+id: grading-policy-decisions
 title: Grading Policy Decisions
 description: Composing a grade requires teachers to make several separable, often-unexamined decisions — how to weight components, whether to fold in social skills or effort, and whether to grade absolutely or relatively — each with real tradeoffs that a single "best" answer doesn't resolve.
 status: draft

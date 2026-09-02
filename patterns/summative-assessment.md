@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: summative-assessment
 title: Summative Assessment
 description: Summative Assessment is the pattern-level target for end-of-sequence judgment of learner performance against defined expectations.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: learner-analysis
 title: Learner Analysis
 description: Systematically gathering information about learners' prior knowledge, skills, motivations, and constraints to inform instructional design decisions.
 status: review

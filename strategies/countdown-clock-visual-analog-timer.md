@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: countdown-clock-visual-analog-timer
 title: Countdown Clock / Visual Analog Timer
 description: A visual timer that represents elapsed and remaining time as a shrinking colored field, making abstract time durations perceptible and chunkable.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: scaffolded_peer_review
 title: Scaffolded Peer Review
 description: Structured supports — exemplars, rubrics, scoped prompts, and modeled critique — that raise the quality of feedback learners give each other.
 status: review

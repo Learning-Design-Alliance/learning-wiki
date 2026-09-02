@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: incorporating_methods_for_self-testing
 title: Incorporating Methods for Self-Testing
 description: Reframing testing as a low-stakes learning activity — teaching students to quiz themselves during study so retrieval practice strengthens memory and reveals gaps.
 status: review

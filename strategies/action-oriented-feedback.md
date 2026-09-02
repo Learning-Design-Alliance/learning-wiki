@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: action-oriented-feedback
 title: Action Oriented Feedback
 description: Feedback that tells learners what specifically to do next, framed as an actionable step rather than a judgment of the work or the person.
 status: review

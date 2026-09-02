@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: metacognitive-prompting
 title: Metacognitive Prompting
 description: Embedding questions or cues that prompt learners to plan, monitor, and evaluate their own thinking during a learning task.
 status: review

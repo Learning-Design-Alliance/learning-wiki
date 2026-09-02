@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: evaluating_online_sources
 title: Evaluating Online Sources
 description: Teaching learners to assess the credibility, accuracy, and purpose of online information through lateral reading and corroboration routines.
 status: review

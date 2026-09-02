@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mentor-text-analysis
 title: Mentor Text Analysis
 description: Learners closely study an exemplary text (the "mentor text") to identify and name the craft moves they will later apply in their own writing or production.
 status: review

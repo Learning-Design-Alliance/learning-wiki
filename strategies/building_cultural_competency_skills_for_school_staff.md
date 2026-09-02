@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: building_cultural_competency_skills_for_school_staff
 title: Building Cultural Competency Skills for School Staff
 description: Training staff in behaviors, attitudes, and policies that enable effective cross-cultural relationships with students and families.
 status: review

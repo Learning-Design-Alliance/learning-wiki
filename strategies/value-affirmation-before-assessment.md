@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: value-affirmation-before-assessment
 title: Value Affirmation Before Assessment
 description: A brief writing activity in which learners identify and elaborate on personally important values before a high-stakes evaluation, buffering threat and protecting performance.
 status: review

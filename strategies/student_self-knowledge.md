@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: student_self-knowledge
 title: Student Self-Knowledge
 description: Student self-knowledge involves helping learners understand their strengths, interests, and areas for growth as learners.
 status: review

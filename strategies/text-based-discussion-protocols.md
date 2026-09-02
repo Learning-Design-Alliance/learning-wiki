@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: text-based-discussion-protocols
 title: Text Based Discussion Protocols
 description: Structured routines that organize whole-class or small-group discussion around a shared text, assigning roles, talk moves, and norms so that conversation builds understanding of the text rather than drifting into unstructured opinion exchange.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: element
+id: whole-class-sharing
 title: Whole-Class Sharing
 description: Learners present their ideas, responses, or conclusions to the entire class, often following small-group or pair work.
 status: review

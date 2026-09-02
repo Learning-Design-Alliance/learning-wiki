@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: affinity_mapping
 title: Affinity Mapping
 description: Learners generate many ideas on individual notes, then collaboratively cluster, label, and relate them to build a shared conceptual structure.
 status: review

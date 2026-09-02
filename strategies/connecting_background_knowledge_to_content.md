@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: connecting_background_knowledge_to_content
 title: Connecting Background Knowledge To Content
 description: A method for making instruction more culturally relevant by connecting content to learners' experiences.
 status: review

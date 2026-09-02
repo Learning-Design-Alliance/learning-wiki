@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: putting_empathy_in_the_curriculum
 title: Putting Empathy in the Curriculum
 description: Explicitly discuss empathy with students and integrate it into existing lessons, rather than treating it as a stand-alone add-on.
 status: review

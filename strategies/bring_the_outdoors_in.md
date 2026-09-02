@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: bring_the_outdoors_in
 title: Bring the Outdoors In
 description: Allowing an indoor/outdoor space that becomes an extension of classroom learning.
 status: review

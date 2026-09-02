@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: search-strategy-scaffolds
 title: Search Strategy Scaffolds
 description: Structured supports that teach learners how to formulate queries, select sources, and evaluate search results rather than leaving them to search by trial and error.
 status: review

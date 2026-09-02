@@ -1,5 +1,6 @@
 ---
 type: principle
+id: physical-activity
 title: Physical Activity
 description: Physical activity in learning contexts means intentionally incorporating movement, exercise, or embodied breaks to support attention, energy, regulation, and readiness to learn.
 status: review

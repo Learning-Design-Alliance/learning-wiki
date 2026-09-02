@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: use-current-events-fictional-characters
 title: Use Current Events & Fictional Characters
 description: Grounding instruction in current events or fictional characters and narratives so learners encounter content through vivid, socially meaningful contexts.
 status: review

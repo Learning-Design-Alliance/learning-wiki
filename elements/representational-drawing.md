@@ -1,5 +1,6 @@
 ---
 type: element
+id: representational-drawing
 title: Representational Drawing
 description: Representational drawing is the element in which learners sketch, diagram, or draw structures and relationships to support understanding.
 status: review

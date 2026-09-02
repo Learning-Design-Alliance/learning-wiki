@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: optimize_classroom_temperature
 title: Optimize Classroom Temperature
 description: Maintaining classroom temperatures in a moderate range (roughly 68–74°F / 20–23°C) protects attention, working memory, and achievement, with air conditioning offsetting most heat-related learning loss.
 status: review

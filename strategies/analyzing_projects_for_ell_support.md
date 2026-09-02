@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: analyzing_projects_for_ell_support
 title: Analyzing Projects for ELL Support
 description: Analyzing project-based learning (PBL) projects through the lens of English Language Learners (ELLs) involves identifying the language skills, vocabulary instruction, speaking and listening scaffolds, and language functions needed for students to succeed.
 status: review

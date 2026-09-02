@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: ten-frames
 title: Ten Frames
 description: A ten-frame is a 2×5 grid on which counters are placed to represent numbers, making the structure of numbers within 10 (and, doubled, within 20) visually explicit for early learners.
 status: review

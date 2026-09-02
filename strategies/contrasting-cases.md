@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: contrasting-cases
 title: Contrasting Cases
 description: Learners compare two or more cases that share surface features but differ on one critical dimension, so the dimension that matters becomes perceptible.
 status: review

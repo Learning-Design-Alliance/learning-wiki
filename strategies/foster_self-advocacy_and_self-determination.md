@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: foster_self-advocacy_and_self-determination
 title: Foster Self-Advocacy and Self-Determination
 description: Teaching students to understand and communicate their needs, set and pursue goals, and act as primary agents in their own learning and lives.
 status: review

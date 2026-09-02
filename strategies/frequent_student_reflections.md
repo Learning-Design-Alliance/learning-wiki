@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: frequent_student_reflections
 title: Frequent Student Reflections
 description: Prompting learners to reflect regularly on their learning so they can monitor their own understanding, identify strengths and weaknesses, and connect ideas across topics.
 status: review

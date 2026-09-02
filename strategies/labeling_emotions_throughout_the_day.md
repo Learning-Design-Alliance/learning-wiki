@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: labeling_emotions_throughout_the_day
 title: Labeling Emotions Throughout The Day
 description: Intentionally naming and describing one's own emotions — and helping others name theirs — at natural moments across the day, building emotional literacy and self-awareness.
 status: review

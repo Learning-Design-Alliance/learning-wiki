@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: empathic-discipline
 title: Empathic Discipline
 description: A brief online intervention that reframes discipline as a relationship-preserving act, reducing suspensions by shifting teachers' mindset from punitive to empathic responses to misbehavior.
 status: review

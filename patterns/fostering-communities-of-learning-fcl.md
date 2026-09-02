@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: fostering-communities-of-learning-fcl
 title: Fostering Communities of Learning (FCL)
 description: Fostering Communities of Learning is a pattern for organizing a class as a knowledge-building community rather than a collection of isolated learners.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: explicit-writing-instruction
 title: Explicit Writing Instruction
 description: Directly teaching writing strategies, text structures, and sentence-level skills through modeling, guided practice, and fading rather than relying on immersion or unguided writing practice.
 status: review

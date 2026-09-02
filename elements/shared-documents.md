@@ -1,5 +1,6 @@
 ---
 type: element
+id: shared-documents
 title: Shared Documents
 description: Shared documents are the element in which multiple learners contribute to a common editable artifact.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: attention_signals
 title: Attention Signals
 description: Attention signals are brief, pre-taught cues that instructors use to regain learner focus and quiet a noisy environment so instruction can resume.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: supported_independent_reading
 title: Supported Independent Reading
 description: Students read self-selected texts at their independent reading level during dedicated class time, with teacher guidance on book selection, conferring, and accountability structures.
 status: review

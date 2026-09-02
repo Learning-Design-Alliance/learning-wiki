@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: debriefing_emotional_experiences
 title: Debriefing Emotional Experiences
 description: A structured end-of-day discussion in which each learner names an emotion they experienced, shares its context, and hears peers do the same.
 status: review

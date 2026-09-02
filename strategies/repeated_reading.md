@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: repeated_reading
 title: Repeated Reading
 description: Learners reread the same text multiple times until they reach a fluency criterion, building automatic word recognition that frees cognitive resources for comprehension.
 status: review

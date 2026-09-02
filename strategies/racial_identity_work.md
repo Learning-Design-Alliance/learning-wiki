@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: racial_identity_work
 title: Racial Identity Work
 description: "Racial identity work involves examining one's own racial identity, confronting personal biases, and understanding how privilege and misinformation can affect work as an educator."
 status: review

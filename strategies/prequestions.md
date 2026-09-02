@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: prequestions
 title: Prequestions
 description: Asking learners questions about material before it has been taught, priming them to learn from the subsequent instruction.
 status: review

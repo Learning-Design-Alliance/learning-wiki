@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: phonemic-awareness-instruction
 title: Phonemic Awareness Instruction
 description: Explicit, oral instruction in identifying, segmenting, blending, and manipulating the individual sounds (phonemes) in spoken words, typically as a foundation for reading and spelling.
 status: review

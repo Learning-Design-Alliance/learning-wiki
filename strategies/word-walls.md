@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: word-walls
 title: Word Walls
 description: A prominently displayed, growing collection of key content vocabulary that learners access, use, and reorganize throughout instruction to move words into long-term memory.
 status: review

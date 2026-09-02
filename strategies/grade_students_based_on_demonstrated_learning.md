@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: grade_students_based_on_demonstrated_learning
 title: Grade Students Based on Demonstrated Learning
 description: Instead of averaging scores over time, grade students on their ultimate level of demonstrated mastery at the end of a unit or course.
 status: review

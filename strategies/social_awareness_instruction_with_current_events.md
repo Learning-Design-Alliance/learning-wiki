@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: social_awareness_instruction_with_current_events
 title: Social Awareness Instruction with Current Events
 description: Using current events and fictional characters to explicitly teach social awareness, perspective-taking, and empathy through structured discussion.
 status: review

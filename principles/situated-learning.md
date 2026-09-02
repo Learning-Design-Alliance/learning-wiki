@@ -1,5 +1,6 @@
 ---
 type: principle
+id: situated-learning
 title: Situated Learning
 description: Situated learning is the principle that learning is shaped by the contexts, practices, and communities in which knowledge is used.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: windows-mirrors-and-sliding-glass-doors
 title: Windows, Mirrors, and Sliding Glass Doors
 description: This strategy involves using stories and materials that act as mirrors, windows, and sliding glass doors to help students identify their place in the world.
 status: review

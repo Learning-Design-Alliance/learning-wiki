@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: rhyming_games
 title: Rhyming Games
 description: Rhyming games are playful, structured activities in which learners identify, match, and generate rhyming words to build phonological awareness as a foundation for reading and spelling.
 status: review

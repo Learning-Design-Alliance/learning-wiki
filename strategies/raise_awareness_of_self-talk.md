@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: raise_awareness_of_self-talk
 title: Raise Awareness of Self-Talk
 description: "Raise awareness by helping students understand the concept of self-talk: what it is, how it affects self-esteem and confidence."
 status: review

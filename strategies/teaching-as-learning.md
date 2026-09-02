@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: teaching-as-learning
 title: Teaching as Learning
 description: Learners study material in order to teach it to someone else, then actually teach it — the preparation and the explaining are the learning activity, not a service to the audience.
 status: review

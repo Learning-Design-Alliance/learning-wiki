@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: goal-based-scenarios
 title: Goal-Based Scenarios
 description: Goal-Based Scenarios organize learning around a mission or role-based objective pursued inside a realistic scenario.
 status: review

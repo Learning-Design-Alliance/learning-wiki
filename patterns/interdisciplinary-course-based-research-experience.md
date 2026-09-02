@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: interdisciplinary-course-based-research-experience
 title: Interdisciplinary Course-Based Research Experience
 description: A course design that engages disciplinarily diverse learners in a shared, authentic research practice — organized around a common boundary object that shifts function over the term — to build both disciplinary writing skill and cross-disciplinary integration.
 status: draft

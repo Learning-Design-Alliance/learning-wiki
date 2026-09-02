@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: repeat-key-points-processing-speed
 title: Repeat Key Points (Processing Speed)
 description: Repeating key points several times and in several different ways to support learners with slower processing speed.
 status: review

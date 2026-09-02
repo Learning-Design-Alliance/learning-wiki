@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: front-loading-vocabulary
 title: Front Loading Vocabulary
 description: Teaching key vocabulary before learners encounter a text, task, or lesson so that word meanings do not compete with comprehension for working memory.
 status: review

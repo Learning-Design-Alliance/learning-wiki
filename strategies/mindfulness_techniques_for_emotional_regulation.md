@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mindfulness_techniques_for_emotional_regulation
 title: Mindfulness Techniques for Emotional Regulation
 description: Incorporating mindfulness techniques helps students manage their initial emotional impulses and reactivity.
 status: review

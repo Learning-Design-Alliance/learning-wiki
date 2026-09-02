@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: stick-it-together-collaborative-problem-solving
 title: Stick-It Together (Collaborative Problem-Solving)
 description: Students solve a problem individually on sticky notes, then merge their ideas into a single group answer, defending and refining each other's thinking.
 status: review

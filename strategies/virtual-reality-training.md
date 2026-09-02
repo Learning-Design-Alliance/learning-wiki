@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: virtual-reality-training
 title: Virtual Reality Training
 description: Immersive, computer-simulated environments in which learners rehearse skills and procedures through embodied interaction rather than observation.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: augmented-reality-ar-in-classroom
 title: Augmented Reality (AR) in Classroom
 description: Overlaying interactive digital content onto the physical classroom environment to make abstract content manipulable, visible, and engaging.
 status: review

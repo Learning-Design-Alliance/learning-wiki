@@ -1,5 +1,6 @@
 ---
 type: element
+id: submission
 title: Submission
 description: Learners submit work for assessment, feedback, or peer review at structured checkpoints.
 status: review

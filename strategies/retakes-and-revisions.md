@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: retakes-and-revisions
 title: Retakes And Revisions
 description: Allowing learners to retake assessments or revise work after feedback, with the revised score replacing or improving the original, so assessment functions as a learning opportunity rather than a one-shot verdict.
 status: review

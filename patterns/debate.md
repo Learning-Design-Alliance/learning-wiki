@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: debate
 title: Debate
 description: Debate is the short-form canonical pattern for structured instructional argumentation around a contested question.
 status: review

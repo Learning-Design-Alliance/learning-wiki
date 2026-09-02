@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: writing-workshop
 title: Writing Workshop
 description: Writing Workshop structures writing instruction as a sustained writing time in which students draft, receive feedback, revise, and publish within a predictable mini-lesson → writing → sharing routine.
 status: review

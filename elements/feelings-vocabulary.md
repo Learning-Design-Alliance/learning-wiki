@@ -1,5 +1,6 @@
 ---
 type: element
+id: feelings-vocabulary
 title: Feelings Vocabulary
 description: A curated set of emotion words and phrases taught explicitly so learners can identify, label, and communicate internal states with precision.
 status: review

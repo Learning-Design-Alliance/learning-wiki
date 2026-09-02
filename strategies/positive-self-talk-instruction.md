@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: positive-self-talk-instruction
 title: Positive Self Talk Instruction
 description: Explicitly teaching learners to use instructional and motivational self-statements to regulate attention, effort, and emotion during learning and performance.
 status: review

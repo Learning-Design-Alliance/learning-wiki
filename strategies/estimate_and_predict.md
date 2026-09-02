@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: estimate_and_predict
 title: Estimate and Predict
 description: Learners generate explicit estimates of their performance or task duration before working, then compare estimates against actual outcomes to calibrate self-assessment.
 status: review

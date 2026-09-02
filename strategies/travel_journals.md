@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: travel_journals
 title: Travel Journals
 description: Students maintain an ongoing journal that charts their learning across a unit, combining writing, drawings, and graphic organizers with reflective entries.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: guided-notes
 title: Guided Notes
 description: Instructor-prepared handouts that structure note-taking by cueing which information to record, leaving blanks or prompts for learners to complete during instruction.
 status: review

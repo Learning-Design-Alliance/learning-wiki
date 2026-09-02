@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: the_role_of_background_knowledge
 title: The Role of Background Knowledge
 description: Learners may hold relevant experiences and knowledge that instruction must surface and connect to — or, where knowledge is missing, instruction must build it before new content can be understood.
 status: review

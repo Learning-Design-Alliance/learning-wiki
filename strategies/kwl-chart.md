@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: kwl-chart
 title: KWL Chart
 description: A graphic organizer that structures a lesson around what students Know (K), Want to know (W), and have Learned (L) about a topic.
 status: review

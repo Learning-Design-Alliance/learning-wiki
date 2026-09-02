@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: multisensory-phonics-instruction
 title: Multisensory Phonics Instruction
 description: Teaching letter–sound correspondences through simultaneous visual, auditory, and kinaesthetic-tactile channels — seeing the grapheme, saying the phoneme, and tracing or building it.
 status: review

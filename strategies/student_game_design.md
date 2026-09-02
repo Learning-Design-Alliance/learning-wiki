@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: student_game_design
 title: Student Game Design
 description: Learners build their own game around a course topic or principle, designing mechanics, rules, and content that teach the material to an intended audience.
 status: review

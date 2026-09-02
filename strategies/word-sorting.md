@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: word-sorting
 title: Word Sorting
 description: Learners categorize words by shared orthographic or phonological features, inducing spelling patterns and sound–symbol relationships through comparison rather than explicit rule memorization.
 status: review

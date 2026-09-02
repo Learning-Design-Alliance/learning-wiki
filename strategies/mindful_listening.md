@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mindful_listening
 title: Mindful Listening
 description: Mindful listening is a practice of focusing attention on sound as a concrete anchor for introducing mindfulness and attentional self-regulation.
 status: review

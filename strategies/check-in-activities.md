@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: check-in-activities
 title: Check In Activities
 description: Brief structured activities at the start of a session or interaction that surface learners' emotional, cognitive, or readiness states and build relational connection.
 status: review

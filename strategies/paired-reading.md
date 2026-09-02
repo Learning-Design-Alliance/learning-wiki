@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: paired-reading
 title: Paired Reading
 description: A learner and a more fluent partner read aloud together in unison, with the partner gradually releasing the learner into independent reading with supportive correction.
 status: review

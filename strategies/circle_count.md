@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: circle_count
 title: Circle Count
 description: A whole-class oral counting routine in which students stand in a circle and count off in sequence, with variations in skip-counting patterns, starting numbers, and direction to build number-sense fluency.
 status: review

@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: handwriting-intervention-types-equivalent-gains
+id: handwriting-intervention-type-equivalence
 evidence_strength: unknown
 ---
 

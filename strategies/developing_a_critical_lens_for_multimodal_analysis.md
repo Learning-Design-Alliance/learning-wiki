@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: developing_a_critical_lens_for_multimodal_analysis
 title: Developing a Critical Lens for Multimodal Analysis
 description: "Increasing students' awareness of effective and ineffective multimodal combinations by analyzing a mode's affordances and constraints."
 status: review

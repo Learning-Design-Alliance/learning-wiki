@@ -1,5 +1,6 @@
 ---
 type: principle
+id: mnemonic-device
 title: Mnemonic Device
 description: Mnemonic devices are deliberate memory supports such as acronyms, imagery, rhyme, chunking, loci, or categorization systems that help learners encode and retrieve information more efficiently.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: prioritizing_self-advocacy_and_self-determination
 title: Prioritizing Self-Advocacy and Self-Determination
 description: Systematically embedding self-advocacy and self-determination into the structures of education — teacher preparation, curriculum goals, assessment, and accountability — rather than treating them as incidental outcomes.
 status: review

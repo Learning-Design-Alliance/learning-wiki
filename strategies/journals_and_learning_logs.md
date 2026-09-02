@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: journals_and_learning_logs
 title: Journals and Learning Logs
 description: Learners regularly write reflective entries about their learning experiences, reasoning, and progress to consolidate understanding and develop self-regulation.
 status: review

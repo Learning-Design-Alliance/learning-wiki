@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: ignoring-and-nonverbal-redirection
 title: Ignoring and Nonverbal Redirection
 description: For misbehavior too minor or infrequent to merit a response, or just serious enough to need one but not serious enough to interrupt a lesson for, simply ignoring it or using a glance, frown, or brief proximity is often more effective — and less disruptive — than speaking to the student.
 status: draft

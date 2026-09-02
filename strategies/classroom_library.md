@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: classroom_library
 title: Classroom Library
 description: A classroom library is a dedicated, curated in-classroom collection of books organized for easy access, designed to increase voluntary reading volume, engagement, and literacy growth.
 status: review

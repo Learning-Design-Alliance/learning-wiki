@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: digital_literacy_instruction
 title: Digital Literacy Instruction
 description: Digital literacy instruction teaches learners to locate, evaluate, use, and create information with digital tools, combining technical skills with critical evaluation of online content.
 status: review

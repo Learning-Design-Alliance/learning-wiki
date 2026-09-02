@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: guided-reading
 title: Guided Reading
 description: Small-group reading instruction in which a teacher supports learners through a text slightly above their independent level, prompting and coaching rather than telling.
 status: review

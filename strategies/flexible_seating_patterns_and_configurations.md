@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: flexible_seating_patterns_and_configurations
 title: Flexible Seating Patterns and Configurations
 description: Providing a variety of furniture and seating arrangements that students can select and reconfigure to match the task, group size, and time of day.
 status: review

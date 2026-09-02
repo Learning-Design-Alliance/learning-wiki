@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: motor_images
 title: Motor Images
 description: Motor images use physical movement, gesture, and enacted action to encode and retrieve information, exploiting the memory advantage of self-performed acts.
 status: review

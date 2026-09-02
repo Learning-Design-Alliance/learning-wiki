@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: errors_as_learning_opportunities
 title: Errors as Learning Opportunities
 description: Creating a classroom culture where errors become learning opportunities shifts the perception of mistakes as failures to opportunities for growth and understanding.
 status: review

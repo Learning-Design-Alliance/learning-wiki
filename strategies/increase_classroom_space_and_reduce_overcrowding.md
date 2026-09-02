@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: increase_classroom_space_and_reduce_overcrowding
 title: Increase Classroom Space and Reduce Overcrowding
 description: Provide ample classroom space to support student engagement and learning.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: merrills-first-principles-of-instruction
 title: "Merrill's First Principles of Instruction"
 description: "Merrill's First Principles of Instruction is a task-centered pattern that organizes learning around five recurring moves: problem-centered work, activation of prior knowledge, demonstration, application, and integration."
 status: review

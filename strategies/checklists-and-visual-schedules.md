@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: checklists-and-visual-schedules
 title: Checklists And Visual Schedules
 description: External written or pictorial supports that make task sequences, steps, and routines visible so learners can track progress and manage work independently.
 status: review

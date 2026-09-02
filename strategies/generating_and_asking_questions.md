@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: generating_and_asking_questions
 title: Generating and Asking Questions
 description: Readers generate and pose their own questions before, during, and after reading to focus attention, integrate information, and monitor comprehension.
 status: review

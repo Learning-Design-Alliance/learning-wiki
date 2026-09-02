@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: teen_exercise_as_stress_management
 title: Teen Exercise as Stress Management
 description: Encourage teens to engage in regular exercise as a way to manage stress, improve focus, and enhance overall well-being.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: principle
+id: spaced-learning
 title: Spaced Learning
 description: Spaced learning distributes study or practice across multiple sessions separated by intervals of time, rather than concentrating the same total effort into a single block.
 status: review

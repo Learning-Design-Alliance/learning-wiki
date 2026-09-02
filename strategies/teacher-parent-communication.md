@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: teacher-parent-communication
 title: Teacher Parent Communication
 description: Structured, two-way communication between teachers and families about student progress, behavior, and learning, used to align home and school support.
 status: review

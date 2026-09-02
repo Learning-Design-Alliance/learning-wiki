@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: retrieval-practice-activities
 title: Retrieval Practice Activities
 description: Activities that require learners to actively recall information from memory rather than re-read or re-hear it, strengthening long-term retention.
 status: review

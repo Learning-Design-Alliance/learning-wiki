@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: the_disciplinary_steps
 title: The Disciplinary Steps
 description: A structured, eight-step conversation for responding to learner misbehavior that separates emotional acknowledgment from consequence, applies policy consistently, and ends with an explicit expectation of future improvement.
 status: review

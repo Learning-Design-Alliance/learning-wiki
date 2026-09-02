@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: spaced-retrieval-practice
 title: Spaced Retrieval Practice
 description: Scheduling recall attempts across increasing intervals of time so that learners must reconstruct knowledge from memory rather than re-expose themselves to it.
 status: review

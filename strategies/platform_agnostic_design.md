@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: platform_agnostic_design
 title: Platform Agnostic Design
 description: Designing learning materials and activities to function equivalently across operating systems, browsers, and devices, so technology choice never becomes a barrier to learning.
 status: review

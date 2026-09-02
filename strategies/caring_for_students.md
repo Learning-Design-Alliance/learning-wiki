@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: caring_for_students
 title: Caring For Students
 description: Building relationships of trust and responsiveness so students feel known, valued, and supported — creating the relational conditions under which instruction becomes effective.
 status: review

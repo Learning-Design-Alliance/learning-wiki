@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: first-then_boards
 title: First Then Boards
 description: A visual support showing a small, concrete sequence — a less-preferred activity followed immediately by a preferred one — to clarify expectations and build tolerance for non-preferred tasks.
 status: review

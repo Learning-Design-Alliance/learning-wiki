@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: workshop-model
 title: Workshop Model
 description: The workshop model structures lessons as a short focused mini-lesson followed by an extended block of independent student work with conferring and small-group support, closing with shared reflection.
 status: review

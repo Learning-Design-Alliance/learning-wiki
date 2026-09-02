@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: express_confidence_in_learners
 title: Express Confidence in Learners
 description: Directly communicating to learners that they have the ability to succeed, so that instructor belief functions as a self-fulfilling expectation.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: pre-training
 title: Pre Training
 description: Teaching names, characteristics, and key concepts of a system or domain before presenting the main instruction, so learners build prior knowledge that reduces load during the core lesson.
 status: review

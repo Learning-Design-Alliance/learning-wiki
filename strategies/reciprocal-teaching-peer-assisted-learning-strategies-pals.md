@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reciprocal-teaching-peer-assisted-learning-strategies-pals
 title: "Reciprocal Teaching: Peer Assisted Learning Strategies (PALS)"
 description: PALS is a structured peer-tutoring strategy in which student pairs alternate Coach and Player roles through scripted reading activities to build fluency and comprehension, primarily in grades 2–6.
 status: review

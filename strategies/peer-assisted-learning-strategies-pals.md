@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: peer-assisted-learning-strategies-pals
 title: Peer-Assisted Learning Strategies (PALS)
 description: PALS is a structured peer tutoring approach that pairs learners to work together on academic activities with reciprocal roles, structured prompts, and instructor monitoring.
 status: review

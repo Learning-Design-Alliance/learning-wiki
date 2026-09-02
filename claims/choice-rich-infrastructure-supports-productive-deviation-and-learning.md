@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Choice-rich infrastructure enables self-sustained, self-extending student projects well beyond a challenge's designed scope
-id: hilppo-1
+id: choice-rich-infrastructure-supports-productive-deviation-and-learning
 status: draft
 generated:
   by: claude/unspecified

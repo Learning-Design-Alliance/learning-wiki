@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: minimally_invasive_hand_gesture
 title: Minimally Invasive Hand Gesture
 description: Using a minimally invasive hand gesture to secure student attention.
 status: review

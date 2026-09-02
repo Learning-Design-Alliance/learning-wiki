@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: recognizing_the_value_of_learning_from_mistakes
 title: Recognizing the Value of Learning from Mistakes
 description: This strategy reframes errors as learning opportunities, using error analysis, revision, and constructive feedback to reduce fear of failure and improve learning.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: principle
+id: debate
 title: Debate
 description: Debate structures learning around the preparation, presentation, and critique of competing arguments.
 status: review

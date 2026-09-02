@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: journal_reflections
 title: Journal Reflections
 description: Students think back on their experiences and outcomes to gain a greater understanding of themselves.
 status: review

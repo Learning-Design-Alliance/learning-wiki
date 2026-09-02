@@ -1,5 +1,6 @@
 ---
 type: element
+id: articulation
 title: Articulation
 description: Learners verbalize their thought processes and reasoning, making their understanding — and misunderstandings — observable and open to refinement.
 status: review

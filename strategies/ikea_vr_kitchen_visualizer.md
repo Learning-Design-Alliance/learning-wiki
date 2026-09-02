@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: ikea_vr_kitchen_visualizer
 title: IKEA VR Kitchen Visualizer
 description: A consumer-facing VR application that lets customers walk through and interact with a virtual version of their planned kitchen, teaching design principles and reducing purchase mistakes through situated, experiential learning.
 status: review

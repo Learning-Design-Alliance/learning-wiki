@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-explanation-prompts
 title: Self Explanation Prompts
 description: Prompts that ask learners to explain to themselves why a step, statement, or solution is correct, integrating new material with prior knowledge.
 status: review

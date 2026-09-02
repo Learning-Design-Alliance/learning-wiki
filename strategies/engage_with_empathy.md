@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: engage_with_empathy
 title: Engage with Empathy
 description: Engaging with empathy means communicating in online communities in ways that demonstrate understanding of others' perspectives — reading carefully, responding thoughtfully, and upholding community norms.
 status: review

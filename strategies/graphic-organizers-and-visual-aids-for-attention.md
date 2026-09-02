@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: graphic-organizers-and-visual-aids-for-attention
 title: Graphic Organizers and Visual Aids (for Attention)
 description: Visual structures such as diagrams, advance organizers, and color-coded notes direct learner attention to key information and relationships.
 status: review

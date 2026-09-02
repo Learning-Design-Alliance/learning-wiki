@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-talk
 title: Self Talk
 description: Self talk is the deliberate use of instructional or motivational statements directed at oneself — aloud or silently — to guide attention, regulate effort, and structure task performance.
 status: review

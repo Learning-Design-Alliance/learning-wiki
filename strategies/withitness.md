@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: withitness
 title: Withitness
 description: The teacher's communicated awareness of everything happening in the classroom at all times, which prevents misbehavior and sustains engagement.
 status: review

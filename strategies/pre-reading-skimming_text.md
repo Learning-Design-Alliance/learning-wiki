@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: pre-reading-skimming_text
 title: Pre Reading Skimming Text
 description: Learners rapidly skim a text before reading it closely, building a structural map and activating prior knowledge to support comprehension.
 status: review

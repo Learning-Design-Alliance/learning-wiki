@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: bolster_credibility
 title: Bolster Credibility
 description: Evaluating and strengthening the credibility of a source or argument by checking whether the writer genuinely engaged with opposing views rather than strawmanning them.
 status: review

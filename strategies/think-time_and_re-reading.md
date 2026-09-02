@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: think-time_and_re-reading
 title: Think-Time and Re-Reading
 description: Sufficient time is allowed for learners to process information and re-read materials if needed.
 status: review

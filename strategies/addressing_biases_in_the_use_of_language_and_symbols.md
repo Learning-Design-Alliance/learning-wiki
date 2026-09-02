@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: addressing_biases_in_the_use_of_language_and_symbols
 title: Addressing Biases in the Use of Language and Symbols
 description: Actively identifying and eliminating bias in the language, examples, imagery, and symbols used in learning materials and interactions to promote inclusivity and belonging.
 status: review

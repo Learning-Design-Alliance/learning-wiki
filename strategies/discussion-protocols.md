@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: discussion-protocols
 title: Discussion Protocols
 description: Structured routines that govern how learners take turns, build on ideas, and reason together in discussion, replacing free-form conversation with explicit norms and sequences.
 status: review

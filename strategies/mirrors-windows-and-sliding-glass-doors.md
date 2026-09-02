@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mirrors-windows-and-sliding-glass-doors
 title: Mirrors, Windows, and Sliding Glass Doors
 description: Curating texts and experiences so learners encounter both reflections of their own identity (mirrors), views into others' lives (windows), and immersive entry into unfamiliar worlds (sliding glass doors).
 status: review

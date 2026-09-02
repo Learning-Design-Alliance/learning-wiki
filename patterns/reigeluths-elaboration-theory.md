@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: reigeluths-elaboration-theory
 title: "Reigeluth's Elaboration Theory"
 description: "Reigeluth's Elaboration Theory is a macro-level sequencing pattern that begins with a simple but meaningful version of the whole and then elaborates progressively toward greater complexity, detail, and specialization."
 status: review

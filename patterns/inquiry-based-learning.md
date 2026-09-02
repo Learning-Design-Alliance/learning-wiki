@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: inquiry-based-learning
 title: Inquiry-Based Learning
 description: Inquiry-based learning is the short-form canonical pattern for organizing learning around investigation, evidence, and guided explanation.
 status: review

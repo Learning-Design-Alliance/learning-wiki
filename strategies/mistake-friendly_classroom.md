@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mistake-friendly_classroom
 title: Mistake-Friendly Classroom
 description: Fostering an environment where mistakes are treated as a fundamental part of learning rather than a source of embarrassment or failure.
 status: review

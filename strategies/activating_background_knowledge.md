@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: activating_background_knowledge
 title: Activating Background Knowledge
 description: Activating background knowledge involves prompting learners to recall and connect prior experiences, information, and understandings before engaging with new content.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: element
+id: prediction
 title: Prediction
 description: A prediction asks learners to commit to an answer or outcome before instruction, activating prior knowledge and creating a gap that subsequent teaching resolves.
 status: review

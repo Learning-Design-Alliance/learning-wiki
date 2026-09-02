@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: amplifying_key_ideas
 title: Amplifying Key Ideas
 description: Amplifying involves drawing attention to important ideas and concepts, both in the course materials and in student comments or other work.
 status: review

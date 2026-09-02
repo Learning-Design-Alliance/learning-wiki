@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: explicit_instruction-decoding
 title: "Explicit Instruction: Decoding"
 description: Direct, systematic teaching of letter–sound relationships and word-recognition strategies so learners can convert print to speech accurately and automatically.
 status: review

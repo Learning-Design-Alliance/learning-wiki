@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: writing-across-the-curriculum
 title: Writing Across The Curriculum
 description: Writing Across The Curriculum (WAC) embeds writing tasks in all subject areas so students use writing to learn content, not just to demonstrate it.
 status: review

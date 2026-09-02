@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: home-visits
 title: Home Visits
 description: Teachers or school staff visit students' homes to build relationships with families, learn about the learner's context, and establish trust that supports engagement and achievement.
 status: review

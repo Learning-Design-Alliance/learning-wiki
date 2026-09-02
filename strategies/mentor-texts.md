@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mentor-texts
 title: Mentor Texts
 description: Using published or exemplary texts as models that learners study, imitate, and adapt to develop their own writing, reading, or disciplinary craft.
 status: review

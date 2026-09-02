@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: scaffolded-difficulty-progression
 title: Scaffolded Difficulty Progression
 description: Sequencing learning tasks from simple to complex, with support that fades as competence grows, so each task stays within the learner's zone of proximal development.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: positive_narration
 title: Positive Narration
 description: Describing students' on-task behavior aloud, in specific and positive terms, to reinforce expectations and redirect the whole class without confrontation.
 status: review

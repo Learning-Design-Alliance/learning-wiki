@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: introduce_summary_frames
 title: Introduce Summary Frames
 description: Learners read a section of text to themselves before verbally summarizing the passage to a partner or completing sentence frames.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: blended_learning
 title: Blended Learning
 description: Blended learning combines face-to-face instruction with online learning through an LMS, offering the advantages of direct interaction and the convenience of eLearning.
 status: review

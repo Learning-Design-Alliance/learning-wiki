@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-talk-logging
 title: Self Talk Logging
 description: Learners record their internal monologue — thoughts, confusions, decisions, and self-instructions — during learning tasks to make metacognitive processes visible and improvable.
 status: review

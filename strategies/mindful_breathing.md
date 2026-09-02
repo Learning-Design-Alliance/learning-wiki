@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mindful_breathing
 title: Mindful Breathing
 description: A brief, structured breathing exercise used to regulate attention and arousal before or during learning tasks.
 status: review

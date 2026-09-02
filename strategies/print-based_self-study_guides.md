@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: print-based_self-study_guides
 title: Print-Based Self-Study Guides
 description: Structured print materials designed to let learners acquire knowledge or skills independently, without a live instructor present.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: arts_integration
 title: Arts Integration
 description: Integrate arts activities like fiction writing, dance, drama, graphic design, music, drawing, painting, or ceramics into all subjects to enhance learning and engagement.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: family-literacy-engagement
 title: Family Literacy Engagement
 description: Structured efforts to involve families in children's literacy development through home reading routines, guided interaction, and school-family partnership.
 status: review

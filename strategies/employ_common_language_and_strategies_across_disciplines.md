@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: employ_common_language_and_strategies_across_disciplines
 title: Employ Common Language and Strategies Across Disciplines
 description: Aligning terminology, instructional routines, and writing expectations across subject areas so students encounter consistent skill language throughout the school day.
 status: review

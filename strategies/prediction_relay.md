@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: prediction_relay
 title: Prediction Relay
 description: A PALS Reading activity in which students alternate reading paragraphs aloud and predicting what will come next, using prediction to drive active comprehension.
 status: review

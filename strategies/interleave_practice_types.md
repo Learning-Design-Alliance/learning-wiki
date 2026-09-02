@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: interleave_practice_types
 title: Interleave Practice Types
 description: Mix different problem or task types within a practice session rather than blocking them by type, forcing learners to discriminate which approach each problem requires.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: yoga-breathing-and-meditation
 title: Yoga, Breathing, And Meditation
 description: 将瑜伽、呼吸和冥想练习融入教育环境，以调节觉醒状态、支持自我调节，并为学习做好身心准备。
 status: review

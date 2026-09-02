@@ -1,5 +1,6 @@
 ---
 type: principle
+id: multimodal-instruction
 title: Multimodal Instruction
 description: Multimodal instruction presents and develops learning through more than one representational mode, such as text, speech, image, gesture, diagram, demonstration, or interactive media.
 status: review

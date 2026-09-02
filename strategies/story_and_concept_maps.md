@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: story_and_concept_maps
 title: Story and Concept Maps
 description: Story and concept maps are visual representations used to organize information and enhance comprehension, particularly of narratives and complex relationships.
 status: review

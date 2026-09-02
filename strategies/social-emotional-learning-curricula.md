@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: social-emotional-learning-curricula
 title: Social Emotional Learning Curricula
 description: Structured, sequenced programs that explicitly teach self-awareness, self-management, social awareness, relationship skills, and responsible decision-making.
 status: review

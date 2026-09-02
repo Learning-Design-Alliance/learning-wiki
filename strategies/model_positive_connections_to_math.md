@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: model_positive_connections_to_math
 title: Model Positive Connections to Math
 description: Model positive connections to math is a strategy in which educators explicitly demonstrate curiosity, usefulness, and positive affect toward mathematical thinking.
 status: review

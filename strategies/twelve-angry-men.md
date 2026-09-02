@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: twelve-angry-men
 title: Twelve Angry Men
 description: Using the film *12 Angry Men* (Lumet, 1957) as a case for analyzing argumentation, persuasion, bias, and group decision-making.
 status: review

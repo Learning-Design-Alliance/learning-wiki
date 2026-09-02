@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: separating-effort-from-achievement
 title: Separating Effort From Achievement
 description: Designing feedback, grading, and classroom discourse so that effort and progress are recognized independently of performance outcomes, protecting motivation while keeping achievement standards intact.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: write_alouds
 title: Write Alouds
 description: Write-aloud lessons, also known as modeled writing, involve an experienced writer (typically the teacher) verbalizing their thought process while writing.
 status: review

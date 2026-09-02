@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: service_learning
 title: Service Learning
 description: A teaching strategy that integrates meaningful community service with academic instruction and structured reflection, so learners apply course content to authentic community-identified needs.
 status: review

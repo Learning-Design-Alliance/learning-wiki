@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: non-intensive-home-numeracy-environment-hne-intervention-program
 title: Non-intensive Home Numeracy Environment (HNE) Intervention Program
 description: Teachers provide families with information, suggestions, and materials to increase the frequency and quality of math exploration and play at home.
 status: review

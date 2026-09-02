@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: teacher_as_writer
 title: Teacher as Writer
 description: To understand the writing process, teachers have to write also.
 status: review

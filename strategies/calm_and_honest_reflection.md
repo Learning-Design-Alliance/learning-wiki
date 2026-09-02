@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: calm_and_honest_reflection
 title: Calm and Honest Reflection
 description: After feeling and expressing emotions related to a mistake, engaging in calm and honest reflection involves asking oneself what happened and what triggered those feelings.
 status: review

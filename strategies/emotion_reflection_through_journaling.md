@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: emotion_reflection_through_journaling
 title: Emotion Reflection Through Journaling
 description: Learners reflect on experiences, tracking patterns in their emotions and behaviors to enhance self-understanding and goal-setting.
 status: review

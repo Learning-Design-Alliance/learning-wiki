@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: providing_multiple_means_of_representation
 title: Providing Multiple Means of Representation
 description: Presenting content in varied formats and modalities so learners with different perceptual, linguistic, and prior-knowledge profiles can access the same material.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: reflective-practice
 title: Reflective Practice
 description: Reflective Practice is a pattern in which learners or practitioners act, examine what happened, identify lessons, and deliberately adjust future performance.
 status: review

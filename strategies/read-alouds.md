@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: read-alouds
 title: Read-Alouds
 description: An educator reads a text aloud to learners, pausing to model effective reading and thinking strategies such as questioning, inferencing, and using context cues.
 status: review

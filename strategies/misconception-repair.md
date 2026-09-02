@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: misconception-repair
 title: Misconception Repair
 description: A strategy that surfaces learners' incorrect intuitions and then confronts and restructures them through targeted contrast, refutation, and conceptual conflict.
 status: review

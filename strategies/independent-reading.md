@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: independent-reading
 title: Independent Reading
 description: Students select and read books on their own, within their reading level and interests, during dedicated time with teacher guidance on book selection and strategy use.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: interactive_read-alouds
 title: Interactive Read-Alouds
 description: Interactive read-alouds involve stopping during the reading process to engage learners in discussions and activities that promote deeper understanding of the text.
 status: review

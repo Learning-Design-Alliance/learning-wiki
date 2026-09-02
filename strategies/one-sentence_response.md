@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: one-sentence_response
 title: One-Sentence Response
 description: When instructors ask a question, rather than having students raise hands, every learner writes a sentence to answer the question.
 status: review

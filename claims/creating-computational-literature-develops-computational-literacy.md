@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Creating computational literature develops computational literacy even when code modification is minor
-id: cew-1
+id: creating-computational-literature-develops-computational-literacy
 status: draft
 generated:
   by: claude/unspecified

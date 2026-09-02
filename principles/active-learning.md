@@ -1,5 +1,6 @@
 ---
 type: principle
+id: active-learning
 title: Active Learning
 description: Active learning is the principle that learners should do meaningful cognitive work with content rather than only receive it.
 status: review

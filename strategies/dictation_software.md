@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: dictation_software
 title: Dictation Software
 description: Dictation software allows learners to speak their ideas and have them transcribed into text, bypassing transcription demands during composition.
 status: review

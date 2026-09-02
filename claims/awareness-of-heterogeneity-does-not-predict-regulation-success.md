@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Awareness of heterogeneous problem perceptions does not by itself predict successful regulation
-id: hpp-2
+id: awareness-of-heterogeneity-does-not-predict-regulation-success
 status: draft
 generated:
   by: claude/unspecified

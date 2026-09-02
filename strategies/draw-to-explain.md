@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: draw-to-explain
 title: Draw To Explain
 description: Learners construct drawings or diagrams to explain a concept, process, or system, using generative visual construction rather than viewing provided images.
 status: review

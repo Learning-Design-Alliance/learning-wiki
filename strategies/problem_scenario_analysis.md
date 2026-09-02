@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: problem_scenario_analysis
 title: Problem Scenario Analysis
 description: Providing students with real-life problem scenarios (e.g., cheating, bullying) and having them analyze the situation, consider possible consequences, share their decisions, and reflect on their reasoning.
 status: review

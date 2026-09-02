@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: block_play
 title: Block Play
 description: Block play involves using blocks to create structures and designs, either independently or collaboratively, supporting spatial, mathematical, and social development.
 status: review

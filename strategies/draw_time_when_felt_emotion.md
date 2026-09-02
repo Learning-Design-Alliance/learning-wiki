@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: draw_time_when_felt_emotion
 title: Draw Time When Felt Emotion
 description: Learners draw pictures of a time when they felt specific emotions and share with classmates.
 status: review

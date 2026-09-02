@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: functional_behavioral_assessment
 title: Functional Behavioral Assessment
 description: A systematic process for identifying the function (purpose) of a student's challenging behavior so interventions address the cause rather than the symptom.
 status: review

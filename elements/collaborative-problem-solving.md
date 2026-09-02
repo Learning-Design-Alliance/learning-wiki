@@ -1,5 +1,6 @@
 ---
 type: element
+id: collaborative-problem-solving
 title: Collaborative Problem-Solving
 description: Learners work together in small groups to analyze an authentic problem, negotiate meaning, and construct a shared solution.
 status: review

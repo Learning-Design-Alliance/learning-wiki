@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: impressions_first
 title: Impressions First
 description: Before analyzing a mentor text, students record and share their initial personal impressions, establishing an interpretive foothold before formal instruction.
 status: review

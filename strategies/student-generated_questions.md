@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: student-generated_questions
 title: Student-Generated Questions
 description: Projects driven by student-generated questions allow learners to investigate topics they are curious about or think are important.
 status: review

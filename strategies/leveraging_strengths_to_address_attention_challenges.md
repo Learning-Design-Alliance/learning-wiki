@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: leveraging_strengths_to_address_attention_challenges
 title: Leveraging Strengths to Address Attention Challenges
 description: Identify specific student strengths and challenges related to attention, then use strategies that leverage strengths — preferential seating, visual supports, and chunked directions — to sustain attention during learning.
 status: review

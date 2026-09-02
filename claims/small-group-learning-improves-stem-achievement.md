@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: sgl-stem
+id: small-group-learning-improves-stem-achievement
 evidence_strength: pending
 ---
 

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: muddiest_point
 title: Muddiest Point
 description: A one-minute classroom assessment in which learners write the single thing they found most confusing, giving the instructor immediate diagnostic feedback.
 status: review

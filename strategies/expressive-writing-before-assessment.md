@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: expressive-writing-before-assessment
 title: Expressive Writing Before Assessment
 description: A brief pre-assessment writing intervention in which students write about their worries and anxieties to offload intrusive thoughts and protect working memory during the test.
 status: review

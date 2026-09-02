@@ -1,5 +1,6 @@
 ---
 type: principle
+id: twelve-characteristics-of-effective-teachers
 title: Twelve Characteristics of Effective Teachers
 description: Walker (2008) asked in-service and preservice teachers to identify what made their own most effective teachers effective; twelve characteristics emerged, spanning preparation, disposition, fairness, and personal connection rather than any single instructional technique.
 status: draft

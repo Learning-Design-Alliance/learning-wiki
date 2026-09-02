@@ -1,5 +1,6 @@
 ---
 type: element
+id: peer-explanation
 title: Peer Explanation
 description: Learners verbalize their thinking to peers, strengthening their own understanding.
 status: review

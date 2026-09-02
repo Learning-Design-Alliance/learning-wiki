@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: embracing_errors_as_learning
 title: Embracing Errors as Learning
 description: A strategy that reframes errors as productive sites of learning by treating mistakes as diagnostic information, analyzing them openly, and building a classroom culture where error-making is safe and expected.
 status: review

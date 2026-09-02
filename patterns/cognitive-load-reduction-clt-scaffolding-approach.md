@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: cognitive-load-reduction-clt-scaffolding-approach
 title: Cognitive Load Reduction (CLT Scaffolding Approach)
 description: This pattern designs instruction to reduce unnecessary load while preserving the mental work that actually contributes to learning.
 status: review

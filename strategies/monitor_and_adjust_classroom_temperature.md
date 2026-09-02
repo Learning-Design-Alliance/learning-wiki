@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: monitor_and_adjust_classroom_temperature
 title: Monitor and Adjust Classroom Temperature
 description: Actively monitoring and adjusting classroom temperature toward a moderate range (roughly 68–74°F / 20–23°C) to protect attention, task performance, and engagement.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: element
+id: moderation
 title: Moderation
 description: An instructor or facilitator guides discussions to ensure productive engagement.
 status: review

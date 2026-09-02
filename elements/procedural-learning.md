@@ -1,5 +1,6 @@
 ---
 type: element
+id: procedural-learning
 title: Procedural Learning
 description: Procedural learning is the element in which learners acquire stepwise routines, methods, or operations through guided performance.
 status: review

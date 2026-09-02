@@ -1,5 +1,6 @@
 ---
 type: principle
+id: self-regulation
 title: Self-Regulation
 description: Self-regulation is the short-form canonical target for instructional designs that help learners plan, monitor, and adjust behavior, effort, and strategy over time.
 status: review

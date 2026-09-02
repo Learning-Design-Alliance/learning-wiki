@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: culturally_responsive_teaching
 title: Culturally Responsive Teaching
 description: Culturally responsive teaching engages students cognitively and emotionally by using their cultural identities, languages, and community experiences as assets in instruction.
 status: review

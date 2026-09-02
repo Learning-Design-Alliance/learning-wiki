@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: praise
 title: Praise
 description: Praise is evaluative positive feedback delivered to learners; its effects on motivation and achievement depend critically on what is praised (person, process, or performance) and how it is delivered.
 status: review

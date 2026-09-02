@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-instruction
 title: Self-Instruction
 description: Learners deliberately talk themselves through a task — overtly at first, then covertly — using self-statements to direct attention, guide strategy use, cope with difficulty, and evaluate progress.
 status: review

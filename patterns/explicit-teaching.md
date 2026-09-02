@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: explicit-teaching
 title: Explicit Teaching
 description: Explicit teaching is the short-form canonical pattern for clearly stating goals, demonstrating performance, and guiding practice.
 status: review

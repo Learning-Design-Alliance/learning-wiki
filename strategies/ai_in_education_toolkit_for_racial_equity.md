@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: ai_in_education_toolkit_for_racial_equity
 title: AI in Education Toolkit for Racial Equity
 description: A structured process for auditing the data, design, and deployment of AI-powered edtech products to identify and mitigate racial bias affecting Black and Brown students.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: calm-down_corner
 title: Calm-Down Corner
 description: Dedicated, positive space where learners practice emotional regulation skills before returning to learning tasks.
 status: review

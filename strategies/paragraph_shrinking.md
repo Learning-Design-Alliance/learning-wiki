@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: paragraph_shrinking
 title: Paragraph Shrinking
 description: A PALS peer-reading activity in which students take turns reading paragraphs aloud and summarizing each one in ten words or fewer, with a partner coach providing structured feedback.
 status: review

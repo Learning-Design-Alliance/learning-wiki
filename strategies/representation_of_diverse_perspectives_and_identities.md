@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: representation_of_diverse_perspectives_and_identities
 title: Representation of Diverse Perspectives and Identities
 description: Incorporating multiple and varying perspectives within learning content to honor and value diverse approaches to learning.
 status: review

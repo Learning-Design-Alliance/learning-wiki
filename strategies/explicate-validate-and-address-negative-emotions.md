@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: explicate-validate-and-address-negative-emotions
 title: Explicate, Validate, and Address Negative Emotions
 description: When learners come into a course with negative emotions and expectations, it can affect not only their learning but also their capacity to learn.
 status: review

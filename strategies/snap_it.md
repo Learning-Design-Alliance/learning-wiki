@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: snap_it
 title: Snap It
 description: A game where children make a train of connecting cubes, snap the train into two parts, hide one part behind their back, and show the remaining cubes.
 status: review

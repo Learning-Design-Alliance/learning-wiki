@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: positive-time-out
 title: Positive Time Out
 description: A self-regulation strategy in which learners take a brief, voluntarily chosen break in a designated calming space to regain emotional control, rather than being punished by exclusion.
 status: review

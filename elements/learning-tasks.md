@@ -1,5 +1,6 @@
 ---
 type: element
+id: learning-tasks
 title: Learning Tasks
 description: A learning task is the integrated, meaningful unit of work — a problem, project, case, or performance — that learners undertake to acquire knowledge and skill in context.
 status: review

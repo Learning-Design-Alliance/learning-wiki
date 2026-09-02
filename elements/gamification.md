@@ -1,5 +1,6 @@
 ---
 type: element
+id: gamification
 title: Gamification
 description: Gamification is the element in which points, progress indicators, challenges, or other game-like structures are used to shape participation and persistence.
 status: review

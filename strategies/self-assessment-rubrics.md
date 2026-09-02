@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-assessment-rubrics
 title: Self Assessment Rubrics
 description: Learners evaluate the quality of their own work against explicit, criterion-based rubrics, building evaluative judgment alongside the target skill.
 status: review

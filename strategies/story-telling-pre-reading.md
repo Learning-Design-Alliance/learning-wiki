@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: story-telling-pre-reading
 title: Story Telling (Pre-Reading)
 description: The instructor prepares and tells a short, personalized narrative related to the reading topic to build interest and activate prior knowledge before reading.
 status: review

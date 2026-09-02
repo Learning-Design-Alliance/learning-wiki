@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: actively_listen_to_what_students_say
 title: Actively Listen To What Students Say
 description: Give students full attention and respond to both the content and the affective signal of what they say, treating their contributions as evidence for instructional decisions.
 status: review

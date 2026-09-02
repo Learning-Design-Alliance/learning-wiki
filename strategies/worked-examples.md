@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: worked-examples
 title: Worked Examples
 description: Presenting fully solved problems with step-by-step reasoning for learners to study before attempting similar problems themselves.
 status: review

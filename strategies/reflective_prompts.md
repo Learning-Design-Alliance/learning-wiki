@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reflective_prompts
 title: Reflective Prompts
 description: Structured questions that prompt learners to examine their learning experiences, processes, and outcomes, converting experience into articulated understanding.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: principle
+id: worked-examples
 title: Worked Examples
 description: Worked examples present a partially or fully solved problem so learners can study task structure, decision points, and reasoning before attempting similar problems independently.
 status: review

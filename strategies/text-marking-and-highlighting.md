@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: text-marking-and-highlighting
 title: Text Marking And Highlighting
 description: Learners selectively mark, underline, or highlight text to isolate key information for later review.
 status: review

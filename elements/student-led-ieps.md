@@ -1,5 +1,6 @@
 ---
 type: element
+id: student-led-ieps
 title: Student-Led IEPs
 description: Student-led IEPs place the student with a disability in the driver's seat of their own Individualized Education Program meeting — preparing, presenting, and negotiating goals with support from educators and family.
 status: review

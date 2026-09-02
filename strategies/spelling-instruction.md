@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: spelling-instruction
 title: Spelling Instruction
 description: Systematic teaching of spelling through explicit pattern instruction, orthographic mapping, and distributed practice rather than rote memorization of word lists.
 status: review

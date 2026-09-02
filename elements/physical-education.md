@@ -1,5 +1,6 @@
 ---
 type: element
+id: physical-education
 title: Physical Education
 description: Physical Education (PE) is a curricular domain in which learning goals — motor skill, tactical understanding, fitness, and dispositions — are achieved primarily through structured physical activity rather than text or discussion.
 status: review

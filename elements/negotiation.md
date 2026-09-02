@@ -1,5 +1,6 @@
 ---
 type: element
+id: negotiation
 title: Negotiation
 description: Negotiation is the element in which learners work through competing interests, priorities, or interpretations in order to reach a decision, compromise, or shared position.
 status: review

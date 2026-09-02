@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: simple-to-difficult_examples
 title: Simple-to-Difficult Examples
 description: Start with simple examples when introducing a concept, then progress to more complex ones later.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: multisensory-letter-formation
 title: Multisensory Letter Formation
 description: Teaching letter shapes by simultaneously engaging visual, auditory, kinesthetic, and tactile channels — seeing, saying, tracing, and writing each letter.
 status: review

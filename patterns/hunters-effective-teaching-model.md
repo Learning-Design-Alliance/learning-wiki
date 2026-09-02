@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: hunters-effective-teaching-model
 title: Hunter's Effective Teaching Model
 description: Madeline Hunter's Effective Teaching Model (also called mastery teaching) combines several direct-instruction techniques into one lesson-length sequence — an anticipatory set, clear presentation in short pieces, whole-class checks for understanding, and brief interspersed independent practice with frequent feedback.
 status: draft

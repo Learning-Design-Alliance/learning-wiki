@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: belonging_interventions
 title: Belonging Interventions
 description: Brief, structured activities that reframe students' doubts about belonging as normal and temporary, sustaining engagement for learners at risk of feeling like outsiders.
 status: review

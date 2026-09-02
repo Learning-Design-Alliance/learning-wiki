@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: rip-toolbox-repetition-imagery-patterns
 title: RIP Toolbox (Repetition, Imagery, Patterns)
 description: "The RIP Toolbox is a memory-enhancing strategy that utilizes three key elements: Repetition, Imagery, and Patterns."
 status: review

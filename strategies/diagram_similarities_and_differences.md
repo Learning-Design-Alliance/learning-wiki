@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: diagram_similarities_and_differences
 title: Diagram Similarities and Differences
 description: Learners generate a list of similarities and differences between words or concepts and complete a Venn diagram or other comparison graphic organizer.
 status: review

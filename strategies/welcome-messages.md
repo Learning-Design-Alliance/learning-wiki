@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: welcome-messages
 title: Welcome Messages
 description: A personal, orientation-focused message from the instructor at the start of a course that establishes social presence, clarifies expectations, and signals belonging.
 status: review

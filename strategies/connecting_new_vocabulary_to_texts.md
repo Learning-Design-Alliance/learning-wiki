@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: connecting_new_vocabulary_to_texts
 title: Connecting New Vocabulary to Texts
 description: Integrating vocabulary instruction directly with texts so new words are learned in the context where they carry meaning.
 status: review

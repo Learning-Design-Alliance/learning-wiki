@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: create_space_for_students_to_reflect
 title: Create Space for Students to Reflect
 description: Providing structured opportunities for students to pause, reflect, and think about themselves, their ideas, and their feelings about projects can transform a classroom culture.
 status: review

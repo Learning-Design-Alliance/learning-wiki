@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: laboratory-reports
 title: Laboratory Reports
 description: Learners conduct an experiment and write a structured report (introduction, methods, results, discussion) that documents procedures, analyzes data, and interprets findings against theory.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: brainstorming_topics_of_interest
 title: Brainstorming Topics of Interest
 description: Brainstorming an ongoing class list of topics learners want to know about and are interested in—a phenomenon, an event, or a law, for example—as a foundation for subsequent inquiry and instruction.
 status: review

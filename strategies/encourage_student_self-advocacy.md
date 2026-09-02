@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: encourage_student_self-advocacy
 title: Encourage Student Self-Advocacy
 description: Empowering students to become self-advocates involves helping them understand their strengths and challenges, and providing them with a voice in their learning.
 status: review

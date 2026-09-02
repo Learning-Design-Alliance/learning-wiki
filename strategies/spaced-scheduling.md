@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: spaced-scheduling
 title: Spaced Scheduling
 description: Distributing learning episodes and reviews over time rather than massing them together, exploiting the spacing effect to improve long-term retention.
 status: review

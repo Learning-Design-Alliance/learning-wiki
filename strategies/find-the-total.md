@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: find-the-total
 title: Find the Total
 description: Learners view two dot cards, find the total, and explain their addition strategy aloud in a number-talk format.
 status: review

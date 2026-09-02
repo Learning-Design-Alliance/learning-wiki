@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: dramatic_play
 title: Dramatic Play
 description: Dramatic play (pretend play) is a learning strategy in which learners take on imagined roles and act out scenarios, experimenting with social, emotional, and linguistic roles through imagination.
 status: review

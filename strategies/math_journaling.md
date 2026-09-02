@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: math_journaling
 title: Math Journaling
 description: "In their math journals, students can write about things they are having trouble with or things that they've figured out."
 status: review

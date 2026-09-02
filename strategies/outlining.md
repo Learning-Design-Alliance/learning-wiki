@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: outlining
 title: Outlining
 description: Learners construct or complete a hierarchical skeleton of main ideas and supporting details before (or while) composing, reading, or studying.
 status: review

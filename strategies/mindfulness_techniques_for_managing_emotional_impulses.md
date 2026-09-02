@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mindfulness_techniques_for_managing_emotional_impulses
 title: Mindfulness Techniques for Managing Emotional Impulses
 description: Incorporating mindfulness techniques helps students manage their initial emotional impulses and reactivity, resulting in improved self-regulation skills.
 status: review

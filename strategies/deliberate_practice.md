@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: deliberate_practice
 title: Deliberate Practice
 description: Deliberate practice involves focused, strategic efforts to improve specific skills or knowledge areas.
 status: review

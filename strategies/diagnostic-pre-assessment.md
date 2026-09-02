@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: diagnostic-pre-assessment
 title: Diagnostic Pre Assessment
 description: Assessing learners' prior knowledge, skills, and misconceptions before instruction to tailor teaching to actual starting points.
 status: review

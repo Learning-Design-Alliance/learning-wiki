@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: micro_flipped_classroom
 title: Micro Flipped Classroom
 description: Short video lectures are distributed as pre-class study material along with short assignments, freeing class time for active application.
 status: review

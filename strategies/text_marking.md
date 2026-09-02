@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: text_marking
 title: Text Marking
 description: Learners actively annotate a text — underlining, circling, labeling, or symbol-coding — to identify structure, key ideas, and relationships while reading.
 status: review

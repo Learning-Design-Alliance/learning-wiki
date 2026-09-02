@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: create_a_word_wall_for_emotions
 title: Create a Word Wall for Emotions
 description: Build students' emotion vocabulary by giving them a persistent, visible reference of feelings words they can use to identify, label, and discuss their emotional states.
 status: review

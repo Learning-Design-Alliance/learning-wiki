@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: pre-reading-understand_the_purpose_of_the_reading
 title: Pre-Reading — Understand the Purpose of the Reading
 description: Learners establish why they are reading a text and what they will do with it before reading, orienting attention and comprehension monitoring toward a concrete goal.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: expressing_interest_in_students_ethnic_backgrounds
 title: "Expressing Interest in Students' Ethnic Backgrounds"
 description: "Teachers actively demonstrate care for students' cultural, emotional, and intellectual needs by inviting students to research and share information about their ethnic backgrounds, including the origins and meanings of their names."
 status: review

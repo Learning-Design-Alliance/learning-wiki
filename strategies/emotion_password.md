@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: emotion_password
 title: Emotion Password
 description: Learners make a prescribed facial expression (the "password") to enter the classroom, prompting brief emotion recognition and self-assessment at the threshold of the lesson.
 status: review

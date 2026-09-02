@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: drawing-to-learn
 title: Drawing To Learn
 description: Learners generate drawings or diagrams to construct and organize understanding of content, rather than only reading or viewing prepared visuals.
 status: review

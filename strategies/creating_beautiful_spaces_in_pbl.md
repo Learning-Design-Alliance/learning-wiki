@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: creating_beautiful_spaces_in_pbl
 title: Creating Beautiful Spaces in PBL
 description: Displaying and celebrating high-quality student work from projects throughout the school building to honor effort, build pride, and transform the environment into an inspiring learning space.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mental-contrasting-with-implementation-intentions
 title: Mental Contrasting With Implementation Intentions
 description: A self-regulation strategy that pairs visualizing a desired goal and its obstacles (mental contrasting) with if-then plans specifying when, where, and how to act (implementation intentions).
 status: review

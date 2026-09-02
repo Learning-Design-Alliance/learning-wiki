@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: comparing-contrasting-cases
 title: Comparing Contrasting Cases
 description: Learners study two or more deliberately varied cases side by side and articulate the differences, making deep structural features visible before instruction.
 status: review

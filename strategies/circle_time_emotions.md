@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: circle_time_emotions
 title: Circle Time Emotions
 description: End each week with a group circle where students discuss different topics and share their feelings.
 status: review

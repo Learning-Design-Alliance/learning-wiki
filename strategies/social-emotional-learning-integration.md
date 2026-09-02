@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: social-emotional-learning-integration
 title: Social Emotional Learning Integration
 description: Embedding social-emotional competencies (self-awareness, self-management, social awareness, relationship skills, responsible decision-making) into academic instruction rather than teaching them as a separate program.
 status: review

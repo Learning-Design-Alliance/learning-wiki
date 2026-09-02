@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: time-boxing
 title: Time Boxing
 description: Allocating a fixed, pre-committed block of time to a learning task and stopping when the block ends, shifting the unit of planning from task completion to time spent.
 status: review

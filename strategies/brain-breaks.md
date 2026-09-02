@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: brain-breaks
 title: Brain Breaks
 description: Short, structured pauses in instruction — often involving movement, social interaction, or a shift of activity — used to restore attention and manage cognitive load during extended learning sessions.
 status: review

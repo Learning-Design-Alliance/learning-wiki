@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: regular_text_referencing
 title: Regular Text Referencing
 description: Regularly referring back to mentor texts in teacher conferences, whole-class lessons, or discussions reinforces learning and helps students internalize new techniques.
 status: review

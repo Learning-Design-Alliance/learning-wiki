@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: schema-based_instruction
 title: Schema-Based Instruction
 description: Schema-based instruction teaches learners to recognize the underlying structure of problems so they can map surface features to an appropriate solution strategy.
 status: review

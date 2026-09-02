@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: unit_planning_with_graphic_organizers
 title: Unit Planning with Graphic Organizers
 description: When introducing a unit, show students how the parts of the unit fit together with a graphic organizer, giving them a map of where they are at any point and why each part matters.
 status: review

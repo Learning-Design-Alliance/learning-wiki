@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: competency-based-learning
 title: Competency-Based Learning
 description: Competency-Based Learning is a pattern that organizes progression around demonstrated competence on defined outcomes rather than uniform pacing.
 status: review

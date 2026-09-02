@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: make-the-invisible-visible-power-dynamics
 title: Make the Invisible Visible (Power Dynamics)
 description: A design strategy that surfaces and names power dynamics among stakeholders, making decision-making authority explicit and redistributing it across the design process.
 status: review

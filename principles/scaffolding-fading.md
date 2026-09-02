@@ -1,5 +1,6 @@
 ---
 type: principle
+id: scaffolding-fading
 title: "Scaffolding & Fading"
 description: "Scaffolding & Fading is the short-form canonical target for designs that provide temporary support and then reduce it as learner independence grows."
 status: review

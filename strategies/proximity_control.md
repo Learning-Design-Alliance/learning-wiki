@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: proximity_control
 title: Proximity Control
 description: The teacher moves physically near students to prevent or redirect off-task behavior nonverbally, maintaining instructional flow without public reprimand.
 status: review

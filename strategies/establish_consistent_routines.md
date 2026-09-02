@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: establish_consistent_routines
 title: Establish Consistent Routines
 description: Use consistent routines and methods of giving instructions to help students know what is expected of them.
 status: review

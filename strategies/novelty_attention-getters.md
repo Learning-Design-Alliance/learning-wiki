@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: novelty_attention-getters
 title: Novelty Attention-Getters
 description: "Novelty attention-getters use unique and unexpected stimuli to capture young students' attention and quiet the classroom."
 status: review

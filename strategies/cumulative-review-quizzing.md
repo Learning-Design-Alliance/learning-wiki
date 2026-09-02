@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: cumulative-review-quizzing
 title: Cumulative Review Quizzing
 description: Structuring quizzes and low-stakes tests so that each one includes items from earlier units, not just recent material, exploiting the testing effect and spacing to combat forgetting.
 status: review

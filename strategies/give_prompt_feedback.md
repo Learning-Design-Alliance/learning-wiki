@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: give_prompt_feedback
 title: Give Prompt Feedback
 description: Providing timely, specific information about performance so learners can identify gaps and adjust while the task is still active.
 status: review

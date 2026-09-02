@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: student-pair_math_games
 title: Student-Pair Math Games
 description: Pair-based games facilitate active learning through friendly competition, requiring students to recall and apply math skills in a dynamic setting.
 status: review

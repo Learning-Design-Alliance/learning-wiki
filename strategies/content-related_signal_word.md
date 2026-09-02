@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: content-related_signal_word
 title: Content-Related Signal Word
 description: "Using a content \"word of the week\" to signal that it's time for silence."
 status: review

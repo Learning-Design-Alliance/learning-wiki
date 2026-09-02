@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: instructional-coaching
 title: Instructional Coaching
 description: A sustained, individualized professional learning strategy in which a coach works one-on-one with a teacher to improve classroom practice through observation, feedback, and cycles of goal-directed refinement.
 status: review

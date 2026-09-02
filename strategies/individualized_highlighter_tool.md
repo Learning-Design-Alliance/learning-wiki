@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: individualized_highlighter_tool
 title: "Individualized \"Highlighter Tool\""
 description: "Students use an individualized \"highlighter tool\" (e.g., a Google Doc add-on) to create custom highlighters in different colors, label the categories, highlight relevant text, and export highlights by color into a summary table."
 status: review

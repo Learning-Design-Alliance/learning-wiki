@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: leveraging_strengths_to_support_attention
 title: Leveraging Strengths to Support Attention
 description: "Identify a learner's existing strengths (visual processing, verbal reasoning, interest areas, self-monitoring) and deliberately route attention support through those strengths rather than remediating weaknesses directly."
 status: review

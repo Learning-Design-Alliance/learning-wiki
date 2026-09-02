@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: dual_color_highlighting
 title: Dual Color Highlighting
 description: Dual color highlighting is a text-to-speech feature that highlights the word being read aloud in one color while highlighting the containing sentence in another, synchronizing auditory and visual input during reading.
 status: review

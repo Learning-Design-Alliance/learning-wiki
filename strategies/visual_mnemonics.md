@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: visual_mnemonics
 title: Visual Mnemonics
 description: Visual mnemonics involve creating visual images to cue a strategy or represent a concept.
 status: review

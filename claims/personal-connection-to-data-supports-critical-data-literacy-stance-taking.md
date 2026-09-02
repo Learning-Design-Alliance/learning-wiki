@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Personal connection to data supports critical data-literacy stance-taking
-id: ddl-1
+id: personal-connection-to-data-supports-critical-data-literacy-stance-taking
 status: draft
 generated:
   by: claude/unspecified

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: collaborative_writing
 title: Collaborative Writing
 description: Structuring learners to co-produce a written text through shared planning, drafting, revising, and editing, typically supported by shared documents or writing platforms.
 status: review

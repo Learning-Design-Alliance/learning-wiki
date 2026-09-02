@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: peergrade
 title: Peergrade
 description: A digital platform for structured, rubric-based anonymous peer feedback in which learners evaluate each other's work, rate the feedback received, and flag disagreements for teacher review.
 status: review

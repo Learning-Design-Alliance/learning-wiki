@@ -1,5 +1,6 @@
 ---
 type: element
+id: practice
 title: Practice
 description: Encourages learners to apply new knowledge or skills through structured activities.
 status: review

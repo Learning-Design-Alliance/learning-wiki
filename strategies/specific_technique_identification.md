@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: specific_technique_identification
 title: Specific Technique Identification
 description: Providing specific guidance on what to look for in a text, naming sentences or words whenever possible, helps students learn from the text.
 status: review

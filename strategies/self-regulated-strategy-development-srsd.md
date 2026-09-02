@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-regulated-strategy-development-srsd
 title: Self-Regulated Strategy Development (SRSD)
 description: "SRSD is an instructional approach designed to enhance students' writing skills by addressing their affective, behavioral, and cognitive characteristics."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: classroom-community-building
 title: Classroom Community Building
 description: Deliberate design of interpersonal structures, norms, and shared activities so learners feel connected to peers and instructor, increasing engagement, persistence, and participation.
 status: review

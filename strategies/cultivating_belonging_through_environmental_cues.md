@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: cultivating_belonging_through_environmental_cues
 title: Cultivating Belonging Through Environmental Cues
 description: Uses cues in the physical and social environment — representation, language, and signaling — to communicate to all learners that they belong in this space.
 status: review

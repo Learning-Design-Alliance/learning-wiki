@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: counting-all
 title: Counting All
 description: A foundational early-arithmetic strategy in which learners solve addition or subtraction problems by counting every object in the combined set from one, rather than computing from a known sum.
 status: review

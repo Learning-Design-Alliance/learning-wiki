@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: sourcing
 title: Sourcing
 description: Sourcing teaches learners to ask who created a document, when, why, and under what circumstances before using its content — treating the origin of information as evidence about its reliability.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: metacognitive_awareness_for_self-regulation
 title: Metacognitive Awareness for Self-Regulation
 description: Structured journaling or recorded reflection helps students develop metacognitive awareness that supports self-regulated learning.
 status: review

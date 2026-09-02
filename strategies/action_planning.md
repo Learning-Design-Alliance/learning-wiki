@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: action_planning
 title: Action Planning
 description: Action planning involves developing explicit plans to consciously modify behaviors and improve future performance based on self-reflection.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: principle
+id: community-of-inquiry
 title: Community of Inquiry
 description: Community of inquiry is the principle that meaningful learning in collaborative settings depends on the interaction of social presence, cognitive presence, and teaching presence.
 status: review

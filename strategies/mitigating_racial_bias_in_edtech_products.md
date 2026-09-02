@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mitigating_racial_bias_in_edtech_products
 title: Mitigating Racial Bias in Edtech Products
 description: A design-and-development strategy that audits and redesigns edtech products — data, algorithms, and assumptions — so they serve Black and Brown students equitably rather than reproducing racialized harm.
 status: review

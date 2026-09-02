@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: case-based-discussion
 title: Case Based Discussion
 description: Learners collaboratively analyze an authentic, open-ended case under facilitation, articulating positions, defending decisions, and revising reasoning in response to peers.
 status: review

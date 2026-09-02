@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: systematic-synthetic-phonics
 title: Systematic Synthetic Phonics
 description: Teaching letter–sound correspondences in a planned sequence, with learners blending graphemes to build and decode words from part to whole.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: discussing_race_with_students
 title: Discussing Race With Students
 description: Structured classroom discussion of race and racism that moves beyond avoidance or colorblind platitudes toward evidence-based, emotionally supported dialogue.
 status: review

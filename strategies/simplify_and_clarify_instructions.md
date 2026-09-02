@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: simplify_and_clarify_instructions
 title: Simplify and Clarify Instructions
 description: Ensure formulations are short, easy to understand, and precise.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: emotional_check-ins
 title: Emotional Check-ins
 description: A brief, structured routine at the start of a session in which learners report their current emotional state, giving the educator early insight into readiness to learn and individual needs.
 status: review

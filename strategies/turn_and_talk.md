@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: turn_and_talk
 title: Turn and Talk
 description: Turn and Talk involves learners engaging in short discussions with a partner to explain what they heard.
 status: review

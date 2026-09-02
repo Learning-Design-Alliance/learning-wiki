@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mirror_faces
 title: Mirror Faces
 description: Learners pair up; one makes an emotional face while the other mirrors it, building recognition of facial expressions and the emotions they signal.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: peer_feedback_protocols
 title: Peer Feedback Protocols
 description: Structured routines that guide learners to give and receive feedback on each other's work using explicit criteria, sentence frames, and staged procedures.
 status: review

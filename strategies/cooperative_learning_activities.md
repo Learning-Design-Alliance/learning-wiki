@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: cooperative_learning_activities
 title: Cooperative Learning Activities
 description: Structured group activities in which learners work interdependently toward a shared goal, with individual accountability and positive interdependence built into the task design.
 status: review

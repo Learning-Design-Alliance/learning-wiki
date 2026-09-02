@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: formative-assessment-routines
 title: Formative Assessment Routines
 description: Recurring, low-stakes checks embedded in instruction that surface learner understanding in time to adjust teaching before summative evaluation.
 status: review

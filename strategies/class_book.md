@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: class_book
 title: Class Book
 description: Students create individual pages that are compiled into a single shared book, giving their work an authentic audience and a durable artifact.
 status: review

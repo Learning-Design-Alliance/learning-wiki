@@ -14,7 +14,7 @@ sources:
     resource: "https://doi.org/10.1007/s11858-017-0834-z"
     title: "Rittle-Johnson, B. (2017). Promoting self-explanation to improve mathematics learning: A meta-analysis and instructional design principles. *ZDM Mathematics Education, 49*(4), 599–611. [https://doi.org/10.1007/s11858-017-0834-z](https://doi.org/10.1007/s11858-017-0834-z)"
     author: Rittle-Johnson, B
-id: se-1
+id: self-explanation-improves-conceptual-understanding
 evidence_strength: strong
 ---
 

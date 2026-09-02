@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: five-e-model
 title: Five "E" Model
 description: The Five "E" Model is a constructivist lesson pattern with five sequential stages — Engage, Explore, Explain, Elaborate, Evaluate — that structures inquiry-based lessons around students' own discovery before formal terminology is introduced.
 status: draft

@@ -1,5 +1,6 @@
 ---
 type: element
+id: self-paced-learning
 title: Self-Paced Learning
 description: Self-paced learning is the element in which learners control the rate or sequence of progress through material within a designed structure.
 status: review

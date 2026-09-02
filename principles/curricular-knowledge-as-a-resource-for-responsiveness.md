@@ -1,5 +1,6 @@
 ---
 type: principle
+id: curricular-knowledge-as-a-resource-for-responsiveness
 title: Curricular Knowledge as a Resource for Responsiveness
 description: Deep knowledge of why a curriculum's activities and question sequences are designed the way they are — not just the content itself — equips teachers to respond flexibly to student thinking within research-based instructional materials, rather than treating the curriculum as a fixed script.
 status: draft

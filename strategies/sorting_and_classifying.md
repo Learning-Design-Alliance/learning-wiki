@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: sorting_and_classifying
 title: Sorting and Classifying
 description: Learners group items into categories based on shared features, either into given categories or ones they construct themselves.
 status: review

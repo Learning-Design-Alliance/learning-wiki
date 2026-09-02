@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: modeling
 title: Modeling
 description: The instructor or a peer demonstrates a skill, process, or way of thinking so learners can observe expert performance before attempting it themselves.
 status: review

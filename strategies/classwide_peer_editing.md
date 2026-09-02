@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: classwide_peer_editing
 title: Classwide Peer Editing
 description: Students review and critique examples of student writing — real or mock — as a whole class, using structured compliment-suggest-correct routines.
 status: review

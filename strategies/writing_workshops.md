@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: writing_workshops
 title: Writing Workshops
 description: Writing workshops create environments with multiple stations focusing on different aspects of writing, such as transitions, topic sentences, or source integration.
 status: review

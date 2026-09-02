@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: accountable_talk
 title: Accountable Talk
 description: Classroom discourse norms that push students to ground their talk in evidence, reason rigorously, and respond thoughtfully to peers' ideas.
 status: review

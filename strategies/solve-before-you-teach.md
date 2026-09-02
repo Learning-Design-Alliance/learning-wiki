@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: solve-before-you-teach
 title: Solve Before You Teach
 description: The instructor works through the task themselves before teaching it, surfacing solution paths, misconceptions, and decision points so instruction anticipates rather than reacts to learner difficulty.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: estimation_activities
 title: Estimation Activities
 description: Learners generate approximate answers to quantitative problems before computing exact solutions, building number sense and calibration.
 status: review

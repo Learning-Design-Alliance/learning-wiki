@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: word-study-developmental-spelling
 title: Word Study Developmental Spelling
 description: Word study organizes spelling instruction around learners' developmental stages of orthographic knowledge, using word sorts and contrastive word sets rather than memorization of arbitrary lists.
 status: review

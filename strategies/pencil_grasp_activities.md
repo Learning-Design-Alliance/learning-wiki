@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: pencil_grasp_activities
 title: Pencil Grasp Activities
 description: Activities aimed at promoting a functional pencil grasp, which is essential for comfortable and efficient handwriting.
 status: review

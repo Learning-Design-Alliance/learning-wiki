@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: peer-tutoring
 title: Peer Tutoring
 description: Learners take structured turns as tutor and tutee, explaining, questioning, and correcting each other to deepen mastery of shared content.
 status: review

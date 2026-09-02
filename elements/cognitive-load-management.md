@@ -1,5 +1,6 @@
 ---
 type: element
+id: cognitive-load-management
 title: Cognitive Load Management
 description: Cognitive load management is the element in which instruction is designed to reduce unnecessary processing and preserve effort for learning-relevant work.
 status: review

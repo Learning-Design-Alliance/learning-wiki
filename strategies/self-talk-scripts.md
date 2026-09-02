@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-talk-scripts
 title: Self Talk Scripts
 description: Pre-scripted verbal prompts learners use to guide their own thinking, monitoring, and emotional regulation during a task.
 status: review

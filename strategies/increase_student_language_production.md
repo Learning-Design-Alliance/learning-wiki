@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: increase_student_language_production
 title: Increase Student Language Production
 description: Increase student-to-student interaction with academic language through structured talk, writing, and problem-generation activities.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: speed-chatting-pre-reading
 title: Speed Chatting (Pre-Reading)
 description: A pre-reading activity in which learners rotate through brief timed pair conversations about a topic, activating prior knowledge and building engagement before reading.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: leveraging_strengths_for_attention
 title: Leveraging Strengths for Attention
 description: "Identifying students' attention-related strengths and using them as entry points to support engagement and develop weaker attention skills."
 status: review

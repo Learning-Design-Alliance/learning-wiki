@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: supporting_self-regulation
 title: Supporting Self-Regulation
 description: Identifying and supporting students who have learning strengths or challenges related to self-regulation.
 status: review

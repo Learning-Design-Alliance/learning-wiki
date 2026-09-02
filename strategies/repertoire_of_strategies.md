@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: repertoire_of_strategies
 title: Repertoire of Strategies
 description: Procedural fluency requires having a repertoire of strategies from which learners can flexibly choose.
 status: review

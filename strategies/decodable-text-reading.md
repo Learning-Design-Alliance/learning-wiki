@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: decodable-text-reading
 title: Decodable Text Reading
 description: Beginning readers practice with texts deliberately restricted to phonics patterns already taught, so decoding—not guessing—is the primary word-reading strategy.
 status: review

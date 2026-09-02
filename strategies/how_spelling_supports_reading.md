@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: how_spelling_supports_reading
 title: How Spelling Supports Reading
 description: Explicit, systematic spelling instruction that teaches phoneme–grapheme relationships and morphology to strengthen reading development.
 status: review

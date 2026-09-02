@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: use_templates_and_tools_that_allow_for_scaffolding
 title: Use Templates and Tools That Allow for Scaffolding
 description: Providing structured supports — planning templates, graphic organizers, and structured tools — that guide learners through complex tasks and are gradually removed as proficiency develops.
 status: review

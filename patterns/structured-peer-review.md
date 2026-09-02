@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: structured-peer-review
 title: Structured Peer Review
 description: "Structured Peer Review is a pattern in which learners review one another's work using explicit criteria, provide feedback, and then use that feedback to revise."
 status: review

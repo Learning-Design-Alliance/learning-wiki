@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: collaborative_group_work
 title: Collaborative Group Work
 description: Structuring learning tasks so small groups of students work interdependently toward shared goals, with individual accountability and defined roles.
 status: review

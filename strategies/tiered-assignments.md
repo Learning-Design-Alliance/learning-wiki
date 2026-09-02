@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: tiered-assignments
 title: Tiered Assignments
 description: The same core learning goal is addressed through tasks at different levels of complexity, support, or abstraction, so all learners work on appropriately challenging versions of the same assignment.
 status: review

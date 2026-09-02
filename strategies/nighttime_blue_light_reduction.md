@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: nighttime_blue_light_reduction
 title: Nighttime Blue Light Reduction
 description: Reducing exposure to blue light from digital screens before bed improves sleep quality and quantity, protecting the memory consolidation processes on which learning depends.
 status: review

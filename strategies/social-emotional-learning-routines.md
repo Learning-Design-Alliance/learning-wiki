@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: social-emotional-learning-routines
 title: Social Emotional Learning Routines
 description: Recurring, structured classroom practices that build students' self-awareness, self-management, social awareness, relationship skills, and responsible decision-making.
 status: review

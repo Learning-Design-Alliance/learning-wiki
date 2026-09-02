@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: cursive_handwriting_activities
 title: Cursive Handwriting Activities
 description: Structured activities for teaching and practicing cursive handwriting, supporting pencil control, letter formation, and writing fluency.
 status: review

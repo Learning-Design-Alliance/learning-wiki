@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: navigator-tourist_peer_learning
 title: Navigator-Tourist Peer Learning
 description: "Pair struggling learners ('tourists') with learners who have mastered the content ('navigators'), with navigators responsible for teaching, clarifying, and keeping tourists on task."
 status: review

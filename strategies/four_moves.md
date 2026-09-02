@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: four_moves
 title: Four Moves
 description: A rapid source-evaluation routine (Stop, Investigate the source, Find better coverage, Trace to the original) adapted from professional fact-checkers' practice of lateral reading.
 status: review

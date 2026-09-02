@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: organization-simulation-for-interdisciplinary-learning
 title: Organization Simulation for Interdisciplinary Learning
 description: A higher-education pattern in which interdisciplinary student teams role-play a consulting organization competing to win a real external client's business, building a shared, evolving proposal as the vehicle for interdisciplinary integration.
 status: draft

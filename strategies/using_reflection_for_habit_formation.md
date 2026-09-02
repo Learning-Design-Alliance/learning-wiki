@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: using_reflection_for_habit_formation
 title: Using Reflection for Habit Formation
 description: Structured reflective routines that turn episodic learning experiences into durable habits of meaning-making, self-monitoring, and transfer.
 status: review

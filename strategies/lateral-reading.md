@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: lateral-reading
 title: Lateral Reading
 description: Evaluating the trustworthiness of online information by leaving the original site and consulting other sources to see what they say about it.
 status: review

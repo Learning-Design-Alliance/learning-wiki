@@ -1,5 +1,6 @@
 ---
 type: element
+id: cognitive-conflict
 title: Cognitive Conflict
 description: Deliberately introduces contradictions or challenges to a learner's existing knowledge to provoke deeper reasoning.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: cooperative_learning_strategies
 title: Cooperative Learning Strategies
 description: Using structured group activities with positive interdependence and individual accountability to enhance learning and social interaction.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: eq_feeling_chart_check-in
 title: EQ Feeling Chart Check-In
 description: Students use a provided EQ Feeling Chart to identify, label, and discuss their current emotions in pairs, then share observations as a class.
 status: review

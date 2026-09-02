@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: syllable-division-instruction
 title: Syllable Division Instruction
 description: Explicitly teaching learners to segment multisyllabic words into syllables using structural cues, so they can decode and spell long words independently.
 status: review

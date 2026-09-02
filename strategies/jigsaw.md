@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: jigsaw
 title: Jigsaw
 description: "Learners first master a segment of material in an 'expert group,' then regroup into mixed teams where each member teaches their segment to peers, making every learner both teacher and learner."
 status: review

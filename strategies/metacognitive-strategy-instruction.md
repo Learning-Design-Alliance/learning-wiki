@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: metacognitive-strategy-instruction
 title: Metacognitive Strategy Instruction
 description: Explicitly teaching learners cognitive and self-regulation strategies — planning, monitoring, and evaluating their own thinking — along with when and why to use them.
 status: review

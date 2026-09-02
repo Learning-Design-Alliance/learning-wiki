@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: structured-academic-controversy-sac
 title: Structured Academic Controversy (SAC)
 description: Structured Academic Controversy is a discussion pattern in which learners examine a controversial issue by first preparing and advocating one side, then switching sides to argue the opposing position, and finally working toward a shared…
 status: review

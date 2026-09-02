@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: authentic_audiences_and_purposes
 title: Authentic Audiences and Purposes
 description: Designing tasks so learners produce real work for real readers, users, or decision-makers beyond the instructor, with a purpose that matters outside the classroom.
 status: review

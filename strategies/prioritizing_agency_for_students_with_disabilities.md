@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: prioritizing_agency_for_students_with_disabilities
 title: Prioritizing Agency for Students With Disabilities
 description: Prioritizing agency for students with disabilities involves fostering self-advocacy and self-determination skills to enable them to engage more effectively in their education.
 status: review

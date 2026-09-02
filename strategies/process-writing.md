@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: process-writing
 title: Process Writing
 description: An instructional approach that treats writing as a recursive cycle of planning, drafting, revising, and editing rather than a single-shot product, with explicit instruction and feedback at each stage.
 status: review

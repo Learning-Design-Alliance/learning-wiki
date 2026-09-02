@@ -1,5 +1,6 @@
 ---
 type: element
+id: knowledge-building
 title: Knowledge-Building
 description: Knowledge-building is the element in which learners collectively construct, refine, and extend ideas rather than only consume or repeat them.
 status: review

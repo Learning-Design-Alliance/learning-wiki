@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: movement_breaks
 title: Movement Breaks
 description: Brief, structured physical activities (1–5 minutes) inserted into instruction to restore attention, support self-regulation, and improve readiness to learn.
 status: review

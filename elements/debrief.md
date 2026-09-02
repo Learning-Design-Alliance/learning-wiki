@@ -1,5 +1,6 @@
 ---
 type: element
+id: debrief
 title: Debrief
 description: A structured reflective conversation after an experience (simulation, discussion, case, or task) in which learners examine what happened, why, and what it means for future performance.
 status: review

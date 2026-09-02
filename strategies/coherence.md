@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: coherence
 title: Coherence
 description: Removing extraneous words, images, sounds, and decorative material from instruction so that working memory is spent on the essential content.
 status: review

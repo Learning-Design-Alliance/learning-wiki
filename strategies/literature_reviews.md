@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: literature_reviews
 title: Literature Reviews
 description: Learners systematically search, evaluate, and synthesize published sources to build an evidence-based account of what is known about a topic.
 status: review

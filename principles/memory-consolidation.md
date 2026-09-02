@@ -1,5 +1,6 @@
 ---
 type: principle
+id: memory-consolidation
 title: Memory Consolidation
 description: Memory consolidation is the principle of designing instruction so that learning is stabilized across time rather than treated as secure after one exposure.
 status: review

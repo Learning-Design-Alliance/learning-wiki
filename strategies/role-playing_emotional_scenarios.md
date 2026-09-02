@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: role-playing_emotional_scenarios
 title: Role-Playing Emotional Scenarios
 description: Learners act out how to manage emotions in structured scenarios, connecting feelings to behaviors through rehearsal and guided reflection.
 status: review

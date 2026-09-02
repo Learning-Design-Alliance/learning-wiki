@@ -1,5 +1,6 @@
 ---
 type: element
+id: comparing-cases
 title: Comparing Cases
 description: Comparing cases is the element in which learners inspect two or more examples, solutions, texts, or scenarios side by side in order to notice meaningful similarities, differences, and governing principles.
 status: review

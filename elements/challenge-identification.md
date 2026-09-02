@@ -1,5 +1,6 @@
 ---
 type: element
+id: challenge-identification
 title: Challenge Identification
 description: Challenge identification is the element in which learners or instructors surface the central obstacle, tension, or problem to be addressed.
 status: review

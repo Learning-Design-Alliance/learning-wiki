@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: picture_writing
 title: Picture Writing
 description: Picture writing has pre-writers and early writers draw illustrations as a planning and idea-generation stage that then anchors their written composition.
 status: review

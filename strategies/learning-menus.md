@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: learning-menus
 title: Learning Menus
 description: A learning menu offers learners a structured set of activity options — often tiered by difficulty or modality — from which they choose how to practice or demonstrate learning.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: morphological-awareness-instruction
 title: Morphological Awareness Instruction
 description: Explicitly teaching learners to analyze, manipulate, and use the meaningful units of words (roots, prefixes, suffixes) to support decoding, spelling, and vocabulary growth.
 status: review

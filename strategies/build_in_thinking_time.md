@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: build_in_thinking_time
 title: Build in Thinking Time
 description: Providing dedicated, silent thinking time before pair talk allows students to generate their own ideas and rehearse explanations before being influenced by their partner.
 status: review

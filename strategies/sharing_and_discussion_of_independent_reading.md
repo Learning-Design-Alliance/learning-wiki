@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: sharing_and_discussion_of_independent_reading
 title: Sharing and Discussion of Independent Reading
 description: After independent reading, gather students to talk about their books through structured activities such as book clubs, peer recommendations, or creating commercials to interest others.
 status: review

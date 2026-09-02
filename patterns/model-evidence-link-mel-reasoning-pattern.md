@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: model-evidence-link-mel-reasoning-pattern
 title: Model-Evidence Link (MEL) Reasoning Pattern
 description: The Model-Evidence Link pattern structures reasoning by having learners compare competing models or explanations against available evidence, judge which links are strong or weak, and revise their conclusions accordingly.
 status: review

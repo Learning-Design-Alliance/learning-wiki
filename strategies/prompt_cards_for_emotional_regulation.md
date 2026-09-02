@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: prompt_cards_for_emotional_regulation
 title: Prompt Cards For Emotional Regulation
 description: Prompt cards — especially emotion prompt cards — give learners at-the-ready reminders of self-regulation strategies to use when emotions escalate.
 status: review

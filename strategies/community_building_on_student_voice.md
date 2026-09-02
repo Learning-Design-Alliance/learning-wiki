@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: community_building_on_student_voice
 title: Community Building on Student Voice
 description: Creating a classroom community where student voices are valued involves providing time and opportunities for students to share and discuss their thoughts.
 status: review

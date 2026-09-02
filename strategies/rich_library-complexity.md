@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: rich_library-complexity
 title: Rich Library Complexity
 description: Designing learning resources as a large, varied, multi-perspective library of cases and representations rather than a single streamlined sequence, so learners can criss-cross the knowledge landscape.
 status: review

@@ -1,7 +1,7 @@
 ---
 type: claim
 title: PAIR-C scaffolding shows mixed evidence for deep understanding and reduced misconceptions in emergent-phenomena instruction
-id: pairc-1
+id: pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction
 status: draft
 generated:
   by: claude/unspecified

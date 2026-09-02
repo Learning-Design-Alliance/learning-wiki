@@ -1,5 +1,6 @@
 ---
 type: element
+id: observation-shadowing
 title: Observation Shadowing
 description: Learners observe a live or recorded performance by an expert or peer, then immediately imitate or "shadow" that performance themselves.
 status: review

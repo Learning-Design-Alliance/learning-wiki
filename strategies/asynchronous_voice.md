@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: asynchronous_voice
 title: Asynchronous Voice
 description: Learners hold spoken discussions through voice-messaging tools (e.g., Voxer, VoiceThread), contributing whenever convenient rather than in real time.
 status: review

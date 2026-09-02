@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: cooperative-learning
 title: Cooperative Learning
 description: Cooperative learning structures small-group work so that members are positively interdependent, individually accountable, and taught explicit collaborative skills.
 status: review

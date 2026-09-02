@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: tiered-vocabulary-instruction
 title: Tiered Vocabulary Instruction
 description: Categorizes words into three tiers by frequency and utility, concentrating explicit instruction on high-utility Tier Two words that mature language users encounter across contexts.
 status: review

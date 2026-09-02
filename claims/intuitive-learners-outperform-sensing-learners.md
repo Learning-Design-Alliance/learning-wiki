@@ -11,7 +11,7 @@ sources:
     resource: "https://files.eric.ed.gov/fulltext/ED476964.pdf"
     title: "Alty, J. L. (2002). Dual Coding Theory and Computer Education: Some Media Experiments To Examine the Effects of Different Media on Learning. *ED-MEDIA 2002 World Conference on Educational Multimedia, Hypermedia & Telecommunications* (14th, Denver, CO). [https://files.eric.ed.gov/fulltext/ED476964.pdf](https://files.eric.ed.gov/fulltext/ED476964.pdf)"
     author: "Alty, James L"
-id: CL-ALTY2002-2
+id: intuitive-learners-outperform-sensing-learners
 ---
 
 # Intuitive learners tend to outperform sensing learners in media-based presentations

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: quiet_space_for_self-regulation
 title: Quiet Space for Self-Regulation
 description: Designating a quiet space in the learning environment where learners can take breaks to regroup and calm themselves.
 status: review

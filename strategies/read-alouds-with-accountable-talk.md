@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: read-alouds-with-accountable-talk
 title: Read Alouds With Accountable Talk
 description: The teacher reads a text aloud while pausing to lead structured, evidence-based discussion in which students must explain, justify, and build on one another's thinking.
 status: review

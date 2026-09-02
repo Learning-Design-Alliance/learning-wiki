@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: word-sort
 title: Word Sort
 description: Students categorize key terms into self-generated groups before formal definitions are provided, then revisit and revise their sorts after instruction.
 status: review

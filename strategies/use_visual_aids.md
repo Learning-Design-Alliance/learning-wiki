@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: use_visual_aids
 title: Use Visual Aids
 description: "Supplement verbal instructions with visual aids to support learners' understanding, especially for low-level students."
 status: review

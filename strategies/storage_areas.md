@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: storage_areas
 title: Storage Areas
 description: Deliberately organized, well-labeled storage of materials and resources in a learning space so that learners can find, access, and return materials with minimal distraction and disruption.
 status: review

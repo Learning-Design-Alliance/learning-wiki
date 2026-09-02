@@ -1,5 +1,6 @@
 ---
 type: principle
+id: performance-technology
 title: Performance Technology
 description: Performance Technology treats instruction as one of several possible interventions for closing a performance gap, and requires analyzing the organizational system around a learner before assuming training is the right solution.
 status: draft

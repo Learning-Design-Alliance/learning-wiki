@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mnemonics
 title: Mnemonics
 description: Mnemonics are structured memory aids — acronyms, acrostics, keyword images, method-of-loci, rhymes, and peg systems — that organize or transform to-be-learned material into more memorable forms.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: think-aloud_modeling
 title: Think Aloud Modeling
 description: The instructor verbalizes their reasoning, monitoring, and decision-making while performing a task, making expert thinking visible for learners.
 status: review

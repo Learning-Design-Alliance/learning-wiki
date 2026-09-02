@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: use_i_statements_to_avoid_blame
 title: Use "I" Statements to Avoid Blame
 description: Avoid using "you" statements, which can make students defensive; instead frame feedback and conflict talk around the speaker's own observations and feelings.
 status: review

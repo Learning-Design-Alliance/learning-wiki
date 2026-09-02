@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: direct_instruction-web-based_reading_strategies
 title: Direct Instruction Web Based Reading Strategies
 description: Explicitly teaching the skills of locating, evaluating, synthesizing, and comprehending information on the web through modeled, guided, and independent practice.
 status: review

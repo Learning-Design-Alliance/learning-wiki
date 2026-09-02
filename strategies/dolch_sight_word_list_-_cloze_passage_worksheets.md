@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: dolch_sight_word_list_-_cloze_passage_worksheets
 title: Dolch Sight Word List - Cloze Passage Worksheets
 description: Grade-level cloze passage worksheets in which students supply missing Dolch sight words, building automatic recognition in meaningful context.
 status: review

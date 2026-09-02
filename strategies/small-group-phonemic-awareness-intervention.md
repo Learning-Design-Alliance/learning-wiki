@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: small-group-phonemic-awareness-intervention
 title: Small Group Phonemic Awareness Intervention
 description: Targeted small-group instruction that develops learners' ability to hear, identify, and manipulate the individual sounds (phonemes) in spoken words.
 status: review

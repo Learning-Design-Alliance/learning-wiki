@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: research-based-learning
 title: Research-Based Learning
 description: Research-Based Learning is a pattern in which learners investigate questions, gather and evaluate evidence, and build explanations or products from that inquiry.
 status: review

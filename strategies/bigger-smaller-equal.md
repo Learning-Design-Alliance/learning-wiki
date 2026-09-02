@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: bigger-smaller-equal
 title: Bigger/Smaller/Equal
 description: A whole-body kinesthetic game in which students physically expand, shrink, or neutralize their posture in response to called-out numbers, sums, and differences relative to 10.
 status: review

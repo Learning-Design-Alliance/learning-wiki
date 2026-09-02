@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-monitoring-strategies
 title: Self Monitoring Strategies
 description: Techniques that prompt learners to track their own comprehension, performance, and progress against criteria during learning.
 status: review

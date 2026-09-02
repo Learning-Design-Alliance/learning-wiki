@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: multimedia-learning
 title: Multimedia Learning
 description: Multimedia Learning is the short-form canonical target for patterns that combine verbal and visual media in intentionally coordinated ways to support understanding.
 status: review

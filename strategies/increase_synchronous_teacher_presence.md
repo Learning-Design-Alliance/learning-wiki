@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: increase_synchronous_teacher_presence
 title: Increase Synchronous Teacher Presence
 description: Deliberate instructor visibility, interaction, and structure in live online sessions to reduce learner isolation and increase engagement.
 status: review

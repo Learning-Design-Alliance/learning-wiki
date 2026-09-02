@@ -1,5 +1,6 @@
 ---
 type: element
+id: pre-reading-activities
 title: Pre-Reading Activities
 description: Pre-reading activities are tasks completed before reading in order to activate prior knowledge, establish purpose, surface key vocabulary, or prepare attention for important ideas.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: low-stakes_writing
 title: Low-Stakes Writing
 description: Frequent, short, ungraded or minimally graded writing tasks that let students explore ideas, build fluency, and develop voice without the pressure of formal evaluation.
 status: review

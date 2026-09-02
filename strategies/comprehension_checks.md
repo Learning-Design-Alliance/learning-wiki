@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: comprehension_checks
 title: Comprehension Checks
 description: During reading activities, instructors periodically check for understanding by asking targeted questions.
 status: review

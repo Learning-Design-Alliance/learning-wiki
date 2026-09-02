@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: always_be_positive
 title: Always Be Positive
 description: Maintaining a consistently positive, constructive stance in all educator–student interactions, treating positivity as a deliberate change agent for classroom and school climate.
 status: review

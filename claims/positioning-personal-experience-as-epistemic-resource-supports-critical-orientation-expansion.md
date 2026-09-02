@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Positioning personal experience as an epistemic resource supports expansion from inward to outward critical orientations
-id: oeh-1
+id: positioning-personal-experience-as-epistemic-resource-supports-critical-orientation-expansion
 status: draft
 generated:
   by: claude/unspecified

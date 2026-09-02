@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: sort-and-classify
 title: Sort And Classify
 description: Learners group items into categories based on shared features, inducing or applying classification rules through active comparison.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: frayer-model
 title: Frayer Model
 description: A graphic organizer that develops conceptual understanding of a term by requiring learners to define it, describe its features, generate examples, and generate non-examples.
 status: review

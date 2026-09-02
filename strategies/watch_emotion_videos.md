@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: watch_emotion_videos
 title: Watch Emotion Videos
 description: Share short, well-chosen videos that explain big emotions to children, then debrief so learners can apply regulation steps to their own experience.
 status: review

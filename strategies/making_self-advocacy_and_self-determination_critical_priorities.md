@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: making_self-advocacy_and_self-determination_critical_priorities
 title: Making Self-Advocacy and Self-Determination Critical Priorities
 description: Systematically embedding self-advocacy and self-determination instruction and practice across schooling so students with disabilities can direct their own learning and lives.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: gamified-practice
 title: Gamified Practice
 description: Applying game design elements (points, levels, challenges, feedback loops) to practice activities to increase engagement, effort, and retention.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: element
+id: class-discussion
 title: Class Discussion
 description: Structured conversations where learners analyze and reflect on content.
 status: review

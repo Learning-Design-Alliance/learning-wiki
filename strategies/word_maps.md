@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: word_maps
 title: Word Maps
 description: A word map is a visual organizer that promotes vocabulary development by having learners elaborate a target word across multiple dimensions — definition, synonyms, antonyms, examples, and imagery.
 status: review

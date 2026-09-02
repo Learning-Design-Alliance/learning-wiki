@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: note-taking
 title: Note Taking
 description: Learners record, reorganize, and condense information during or after instruction to encode it more deeply and create an external memory store.
 status: review

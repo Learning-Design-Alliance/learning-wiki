@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: graphic_notes
 title: Graphic Notes
 description: Use visual cues in note-taking to help learners organize the information you are sharing with them orally.
 status: review

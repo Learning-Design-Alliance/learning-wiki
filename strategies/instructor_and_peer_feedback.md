@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: instructor_and_peer_feedback
 title: Instructor and Peer Feedback
 description: Combining instructor feedback with structured peer feedback so learners receive expert guidance while also evaluating and re-teaching content to one another.
 status: review

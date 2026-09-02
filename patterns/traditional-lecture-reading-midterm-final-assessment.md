@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: traditional-lecture-reading-midterm-final-assessment
 title: Traditional Lecture / Reading / Midterm / Final Assessment
 description: This pattern describes the common lecture-dominant course model in which instructors deliver content primarily through lecture, assign readings for independent study, and evaluate learning mainly through high-stakes midterm and final…
 status: review

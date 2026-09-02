@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: orton-gillingham-approach
 title: Orton Gillingham Approach
 description: A structured, explicit, multisensory approach to literacy instruction that teaches phonemic awareness, phonics, and decoding through simultaneous visual, auditory, and kinesthetic-tactile channels.
 status: review

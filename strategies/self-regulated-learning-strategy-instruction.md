@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-regulated-learning-strategy-instruction
 title: Self Regulated Learning Strategy Instruction
 description: Explicitly teaching learners the cognitive, metacognitive, and motivational strategies they need to plan, monitor, and evaluate their own learning.
 status: review

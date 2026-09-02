@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: dragonbox-algebra-5-app
 title: DragonBox Algebra 5+ App
 description: A game-based app that teaches algebraic reasoning by having learners manipulate cards to isolate a "box," implicitly solving equations before formal notation is introduced.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: brain_breaks
 title: Brain Breaks
 description: Brain breaks are short, structured pauses (1–5 minutes) in which learners shift away from instructional content through movement, play, or creative activity to restore attention and support consolidation.
 status: review

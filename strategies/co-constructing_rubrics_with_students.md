@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: co-constructing_rubrics_with_students
 title: Co Constructing Rubrics With Students
 description: Students and instructor jointly develop the evaluation criteria and performance-level descriptions used to assess their work.
 status: review

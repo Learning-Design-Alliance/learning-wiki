@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: peer-instruction
 title: Peer Instruction
 description: Students answer a conceptually challenging question individually, then discuss their reasoning with peers before revoting, with the instructor facilitating a whole-class debrief.
 status: review

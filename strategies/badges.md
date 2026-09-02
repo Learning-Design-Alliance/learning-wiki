@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: badges
 title: Badges
 description: Badges are digital credentials that acknowledge learner work, awarded for achievement levels or additional contributions such as submitting drafts or sharing notes.
 status: review

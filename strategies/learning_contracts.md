@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: learning_contracts
 title: Learning Contracts
 description: A learning contract is a negotiated written agreement between learner and instructor specifying learning goals, the activities and resources to achieve them, timelines, and evidence for assessing attainment.
 status: review

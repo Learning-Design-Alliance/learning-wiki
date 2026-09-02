@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: measurement_tasks
 title: Measurement Tasks
 description: Measurement tasks involve using measurement tools and techniques to quantify physical properties such as length, volume, and temperature.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: active-listening
 title: Active Listening
 description: A communication practice in which the listener attends fully to a speaker, reflects back meaning, and checks understanding before responding.
 status: review

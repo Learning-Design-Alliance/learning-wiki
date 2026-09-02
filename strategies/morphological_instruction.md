@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: morphological_instruction
 title: Morphological Instruction
 description: Explicitly teaching morphemes — roots, prefixes, suffixes, and inflections — so learners can use word structure to decode, spell, and derive meaning.
 status: review

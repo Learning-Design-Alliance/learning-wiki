@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: positive-self-talk-modeling
 title: Positive Self Talk Modeling
 description: The instructor verbalizes constructive, task-focused inner dialogue aloud to give learners an observable model of adaptive self-regulation.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: element
+id: peer-instruction
 title: Peer Instruction
 description: Peer instruction is the element in which learners explain, compare, and revise answers with one another around conceptual questions.
 status: review

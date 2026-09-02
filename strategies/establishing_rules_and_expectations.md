@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: establishing_rules_and_expectations
 title: Establishing Rules and Expectations
 description: Explicitly setting and teaching behavioral and academic norms at the outset of a course or term so learners know what is expected and how to succeed.
 status: review

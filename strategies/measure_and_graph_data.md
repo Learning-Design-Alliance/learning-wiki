@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: measure_and_graph_data
 title: Measure and Graph Data
 description: Learners collect quantitative measurements and represent them graphically, using the act of measurement and visualization to build understanding of a phenomenon.
 status: review

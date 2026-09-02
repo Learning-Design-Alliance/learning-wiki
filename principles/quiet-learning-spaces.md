@@ -1,5 +1,6 @@
 ---
 type: principle
+id: quiet-learning-spaces
 title: Quiet Learning Spaces
 description: Quiet learning spaces reduce competing demands on attention so learners can focus on reading, listening, problem solving, and reflection.
 status: review

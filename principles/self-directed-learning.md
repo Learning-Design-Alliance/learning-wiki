@@ -1,5 +1,6 @@
 ---
 type: principle
+id: self-directed-learning
 title: Self-Directed Learning
 description: Self-directed learning is the principle of helping learners plan, monitor, and manage important parts of their own learning process.
 status: review

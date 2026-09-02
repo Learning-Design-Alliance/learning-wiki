@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reflective_assessment
 title: Reflective Assessment
 description: Assessment designed so that grades and feedback reflect learning growth over time and prompt learner self-evaluation, rather than serving as terminal judgments of performance.
 status: review

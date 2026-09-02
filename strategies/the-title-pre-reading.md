@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: the-title-pre-reading
 title: The Title (Pre-Reading)
 description: Learners are given the title of a reading and, in small groups, pool their prior knowledge and predictions about the topic before reading.
 status: review

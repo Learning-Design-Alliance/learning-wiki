@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: thinking_tools_with_graphic_organizers
 title: Thinking Tools with Graphic Organizers
 description: When teachers deliver content through lectures, readings, or video, students interact with that content by completing a graphic organizer in groups, pairs, or individually.
 status: review

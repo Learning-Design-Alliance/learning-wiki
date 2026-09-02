@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: repetition
 title: Repetition
 description: Repeat key points multiple times in simple language so all learners get multiple exposures to core content.
 status: review

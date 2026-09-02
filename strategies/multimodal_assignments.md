@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: multimodal_assignments
 title: Multimodal Assignments
 description: Multimodal assignments ask learners to demonstrate understanding through varied output formats — video, audio, essays, visualizations, or quizzes — rather than a single medium.
 status: review

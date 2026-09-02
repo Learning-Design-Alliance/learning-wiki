@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: co-constructing_classroom_norms
 title: Co Constructing Classroom Norms
 description: Students and teacher jointly draft, discuss, and adopt the behavioral and academic norms that govern classroom life, rather than receiving teacher-imposed rules.
 status: review

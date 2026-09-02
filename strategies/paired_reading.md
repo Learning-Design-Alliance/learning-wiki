@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: paired_reading
 title: Paired Reading
 description: A fluency strategy in which a proficient reader and a developing reader read a text aloud together, with the stronger reader modeling fluent reading and gradually releasing the learner to read alone.
 status: review

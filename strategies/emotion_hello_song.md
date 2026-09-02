@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: emotion_hello_song
 title: Emotion Hello Song
 description: Singing a greeting song with varied emotional expressions so learners identify, label, and share emotions at the start of a session.
 status: review

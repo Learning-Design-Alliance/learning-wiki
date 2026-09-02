@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Material choice shapes conceptual learning and who feels invited to learn
-id: sat-1
+id: material-choice-shapes-conceptual-learning-and-participation
 status: draft
 generated:
   by: claude/unspecified

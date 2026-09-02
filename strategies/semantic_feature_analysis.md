@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: semantic_feature_analysis
 title: Semantic Feature Analysis
 description: Learners analyze a set of related concepts against a matrix of features, marking presence or absence of each feature to build relational vocabulary knowledge.
 status: review

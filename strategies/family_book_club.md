@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: family_book_club
 title: Family Book Club
 description: Choose a book that is representative of your students and in their home language if possible; record weekly read-aloud videos and post discussion questions for families.
 status: review

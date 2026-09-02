@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: retrieval-practice-warm-ups
 title: Retrieval Practice Warm Ups
 description: Opening a lesson with short, low-stakes retrieval of previously learned material to strengthen memory and activate prior knowledge.
 status: review

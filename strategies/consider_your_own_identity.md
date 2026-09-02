@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: consider_your_own_identity
 title: Consider Your Own Identity
 description: Educators reflect on their own racial identity, biases, and privileges before and while leading discussions about race, so that self-awareness rather than unexamined assumption guides facilitation.
 status: review

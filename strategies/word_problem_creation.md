@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: word_problem_creation
 title: Word Problem Creation
 description: Learners select math operations and create multistep word problems for peers to solve, integrating math and literacy skills.
 status: review

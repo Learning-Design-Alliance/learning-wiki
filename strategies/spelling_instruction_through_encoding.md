@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: spelling_instruction_through_encoding
 title: Spelling Instruction Through Encoding
 description: Teaching spelling by having learners write words from dictation and construct spellings from sound-letter knowledge, rather than only reading or copying them.
 status: review

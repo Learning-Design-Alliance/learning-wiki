@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: physical_education
 title: Physical Education
 description: Structured physical instruction that develops motor skills, physical literacy, and health-related knowledge through demonstration, practice, feedback, and progressive task design.
 status: review

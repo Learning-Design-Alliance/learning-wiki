@@ -1,5 +1,6 @@
 ---
 type: element
+id: structured-debate
 title: Structured Debate
 description: Structured debate is the element in which learners examine opposing claims using explicit roles, turn structures, evidence requirements, and response rules.
 status: review

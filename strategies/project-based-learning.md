@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: project-based-learning
 title: Project-based Learning
 description: Learners investigate a real-world, complex problem or challenge over an extended period, producing a public product while developing collaboration, communication, critical thinking, and creativity.
 status: review

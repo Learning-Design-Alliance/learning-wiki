@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: group-contingency
 title: Group Contingency
 description: A behavior-management strategy in which reinforcement for the whole group depends on the behavior of one member, a subset, or the group as a whole.
 status: review

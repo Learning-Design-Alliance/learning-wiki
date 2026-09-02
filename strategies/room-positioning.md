@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: room-positioning
 title: Room Positioning
 description: Deliberately arranging where learners and the instructor sit or stand to support attention, interaction, and the intended mode of learning.
 status: review

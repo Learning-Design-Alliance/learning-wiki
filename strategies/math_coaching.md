@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: math_coaching
 title: Math Coaching
 description: Learners take turns solving word problems aloud while peers act as "math coaches" who advise on operations, underline key words, and verify solutions.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: web-based-dictionary-thesaurus
 title: Web-Based Dictionary & Thesaurus
 description: Embedding online dictionaries and thesauruses into vocabulary lessons lets learners quickly look up unfamiliar words and explore word relationships at the moment of need.
 status: review

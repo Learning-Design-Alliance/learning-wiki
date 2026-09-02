@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: calming_sensory_input
 title: Calming Sensory Input
 description: Providing access to calming sensory input—tactile bins, weighted blankets, chewy pendants, white noise—to help learners regulate arousal, anxiety, and attention for learning.
 status: review

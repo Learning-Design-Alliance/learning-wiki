@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: learning-cycles
 title: Learning Cycles
 description: A sequence of instruction that moves learners through phases of exploration, concept introduction, and application so that experience precedes formal explanation.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: use_current_events_and_fictional_characters_to_teach_social_awareness
 title: Use Current Events And Fictional Characters To Teach Social Awareness
 description: Grounding social-emotional learning in real news events and fictional narratives so learners analyze perspectives, emotions, and ethical dilemmas through concrete characters and situations.
 status: review

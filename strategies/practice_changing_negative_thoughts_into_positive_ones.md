@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: practice_changing_negative_thoughts_into_positive_ones
 title: Practice Changing Negative Thoughts into Positive Ones
 description: Challenging learners to reframe negative self-statements into more constructive alternatives, building cognitive reframing skill through guided practice.
 status: review

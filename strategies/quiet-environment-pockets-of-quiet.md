@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: quiet-environment-pockets-of-quiet
 title: Quiet Environment/Pockets of Quiet
 description: Reducing background noise in classrooms supports increased learner attention.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: question-formulation-technique-qft
 title: Question Formulation Technique (QFT)
 description: The Question Formulation Technique (QFT) is a structured method for generating and improving questions to develop critical thinking skills, increase self-efficacy, and encourage participation in civic life.
 status: review

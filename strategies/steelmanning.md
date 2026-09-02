@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: steelmanning
 title: Steelmanning
 description: Learners construct the strongest possible version of a position they disagree with before critiquing it, deepening understanding and improving argument quality.
 status: review

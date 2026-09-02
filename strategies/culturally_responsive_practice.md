@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: culturally_responsive_practice
 title: Culturally Responsive Practice
 description: Engaging learners cognitively and emotionally by understanding how their identity and perspective are shaped by culture and community experiences.
 status: review

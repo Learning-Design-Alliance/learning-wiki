@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: creative_presentations
 title: Creative Presentations
 description: Visual presentation design that uses color, imagery, and layout to direct attention and support comprehension — effective only when decoration serves, rather than competes with, the content.
 status: review

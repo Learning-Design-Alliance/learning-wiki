@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: varying_levels_of_choice_in_assessments
 title: Varying Levels of Choice in Assessments
 description: Give students a choice about the areas of focus in a paper or project.
 status: review

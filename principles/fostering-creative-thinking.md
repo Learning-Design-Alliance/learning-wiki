@@ -1,5 +1,6 @@
 ---
 type: principle
+id: fostering-creative-thinking
 title: Fostering Creative Thinking
 description: Creative thinking — generating ideas that are new, useful, and appropriate — can be deliberately stimulated through divergent-thinking prompts, protecting intrinsic motivation from constant evaluation, and finding room for experimentation alongside necessary assessment.
 status: draft

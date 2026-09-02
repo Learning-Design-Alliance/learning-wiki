@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: effective_feedback
 title: Effective Feedback
 description: Feedback is any response from a teacher regarding a student's performance or behavior, provided with the goal of closing the gap between current and desired performance.
 status: review

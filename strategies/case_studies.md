@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: case_studies
 title: Case Studies
 description: Case studies present learners with real or realistic situations to analyze, discuss, and resolve, building reasoning and problem-solving through authentic complexity.
 status: review

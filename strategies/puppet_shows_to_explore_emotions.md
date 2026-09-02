@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: puppet_shows_to_explore_emotions
 title: Puppet Shows to Explore Emotions
 description: Using puppets to act out emotionally charged situations so young children can name, discuss, and rehearse responses to feelings at one remove from themselves.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: choice-based_quiet_time_activities
 title: Choice-Based Quiet Time Activities
 description: Choice-based activities during quiet time give students the power to select their preferred independent tasks, enhancing engagement and promoting a sense of control.
 status: review

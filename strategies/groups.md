@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: groups
 title: Groups
 description: The teacher calls out a number (e.g., 3), and the students have 10 seconds to get themselves into groups of that size.
 status: review

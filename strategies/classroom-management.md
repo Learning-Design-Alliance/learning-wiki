@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: classroom-management
 title: Classroom Management
 description: The set of routines, relationships, and environmental structures a teacher establishes to maximize instructional time and minimize disruption.
 status: review

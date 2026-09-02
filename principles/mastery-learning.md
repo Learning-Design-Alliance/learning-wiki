@@ -1,5 +1,6 @@
 ---
 type: principle
+id: mastery-learning
 title: Mastery Learning
 description: Mastery learning is the principle that progression should depend on demonstrated competence rather than time spent, first exposure, or one-shot performance.
 status: review

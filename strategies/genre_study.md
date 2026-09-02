@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: genre_study
 title: Genre Study
 description: Genre study organizes reading and writing instruction around the conventions of a literary or textual genre, having learners read widely within it, analyze its defining features, and produce their own genre-conformant pieces.
 status: review

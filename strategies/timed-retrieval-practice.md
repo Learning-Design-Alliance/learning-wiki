@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: timed-retrieval-practice
 title: Timed Retrieval Practice
 description: Retrieval practice performed under a time limit, requiring learners to recall and produce information quickly rather than merely recognize it.
 status: review

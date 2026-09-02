@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: visual_organizers
 title: Visual Organizers
 description: Providing or prompting learners to create spatial-graphic representations (maps, matrices, diagrams) that make the structure of content visible.
 status: review

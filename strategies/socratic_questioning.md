@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: socratic_questioning
 title: Socratic Questioning
 description: A strategy in which the instructor teaches through a disciplined sequence of probing questions, guiding learners to articulate, examine, and revise their own reasoning rather than receiving explanations directly.
 status: review

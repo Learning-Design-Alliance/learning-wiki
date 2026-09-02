@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: skimming-and-scanning
 title: Skimming And Scanning
 description: Rapid reading techniques for locating gist or specific information in a text without reading every word.
 status: review

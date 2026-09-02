@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: adjust_time_frames
 title: Adjust Time Frames
 description: Break content and tasks into shorter, timed intervals with structured check-ins when learners cannot sustain attention across longer blocks.
 status: review

@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Interdisciplinary humanities units improve students' interdisciplinary competences
-id: idl-1
+id: interdisciplinary-humanities-units-improve-interdisciplinary-competences
 status: draft
 generated:
   by: claude/unspecified

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: name_pronunciation
 title: Name Pronunciation
 description: "Pronouncing learners' names correctly can help develop trust and rapport."
 status: review

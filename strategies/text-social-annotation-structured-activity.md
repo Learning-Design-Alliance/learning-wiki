@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: text-social-annotation-structured-activity
 title: Text + Social Annotation + Structured Activity
 description: Students read shared online texts equipped with social annotation tools, discuss passages in the margins with peers, and complete a structured activity that applies what the reading and discussion surfaced.
 status: review

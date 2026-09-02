@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: phonemic-awareness-blending-and-segmenting
 title: Phonemic Awareness Blending And Segmenting
 description: Explicit instruction and practice in blending phonemes into words and segmenting words into phonemes — the two phonemic awareness skills most predictive of reading success.
 status: review

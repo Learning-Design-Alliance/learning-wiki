@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: awareness_of_self-talk
 title: Awareness of Self-Talk
 description: Creating awareness of self-talk involves understanding what self-talk is, how it impacts confidence and self-esteem, and identifying it in real-life situations.
 status: review

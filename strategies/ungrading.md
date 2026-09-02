@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: ungrading
 title: Ungrading
 description: Removing or de-emphasizing letter grades and numeric scores in favor of feedback, self-assessment, and revision-oriented evaluation.
 status: review

@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: srl-improves-academic-outcomes
+id: self-regulated-learning-improves-academic-outcomes
 evidence_strength: moderate
 ---
 

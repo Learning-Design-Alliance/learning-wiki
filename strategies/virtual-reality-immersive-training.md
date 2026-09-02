@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: virtual-reality-immersive-training
 title: Virtual Reality Immersive Training
 description: Learners practice skills inside a computer-generated, head-tracked 3D environment that simulates the target performance context.
 status: review

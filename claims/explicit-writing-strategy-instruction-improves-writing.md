@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: 
+id: explicit-writing-strategy-instruction-improves-writing
 evidence_strength:
 ---
 

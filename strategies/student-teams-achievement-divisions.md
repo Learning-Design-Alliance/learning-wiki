@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: student-teams-achievement-divisions
 title: Student-Teams Achievement Divisions (STAD)
 description: STAD is a cooperative-learning structure in which teams of 4-5 students study material together, then take individual tests, with grades based partly on each student's own improvement and the team's collective improvement rather than absolute performance alone.
 status: draft

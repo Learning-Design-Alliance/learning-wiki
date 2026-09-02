@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: partner_reading_with_retell
 title: Partner Reading with Retell
 description: A PALS activity in which students take turns reading aloud and summarizing text, pairing fluency modeling with comprehension practice.
 status: review

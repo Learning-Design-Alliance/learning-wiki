@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: communicating_positive_expectations
 title: Communicating Positive Expectations
 description: Deliberately conveying high expectations and belief in learners' capabilities to trigger self-fulfilling prophecies that raise performance, motivation, and persistence.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: simulation-based-medical-training
 title: Simulation Based Medical Training
 description: Learners rehearse clinical skills and decisions in realistic but risk-free simulated environments — manikins, task trainers, standardized patients, or virtual scenarios — followed by structured debriefing.
 status: review

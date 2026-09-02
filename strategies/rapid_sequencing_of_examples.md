@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: rapid_sequencing_of_examples
 title: Rapid Sequencing of Examples
 description: Present instances of a concept in rapid sequence or allow all instances to be viewed simultaneously so they are co-active in working memory, supporting generalization.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: logs_and_journals_to_guide_reflection
 title: Logs and Journals to Guide Reflection
 description: Periodically ask students to reread their journals, comparing what they knew at the beginning of a learning sequence with what they know now.
 status: review

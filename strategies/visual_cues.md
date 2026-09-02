@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: visual_cues
 title: Visual Cues
 description: Pairing spoken or written information with graphics, diagrams, or gestures to support comprehension, attention, and retention.
 status: review

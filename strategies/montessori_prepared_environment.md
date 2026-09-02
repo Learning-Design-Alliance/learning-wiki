@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: montessori_prepared_environment
 title: Montessori Prepared Environment
 description: A carefully designed physical and social environment in which materials, freedom of movement, and structure are arranged so children can learn through self-directed, hands-on activity with minimal direct intervention.
 status: review

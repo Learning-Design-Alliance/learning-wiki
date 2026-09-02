@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: developing_cultural_awareness
 title: Developing Cultural Awareness
 description: An ongoing educator practice of building empathy for diverse learners, examining how one's own identity and biases shape instruction, and creating conditions where all learners experience a sense of belonging.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: daily_review
 title: Daily Review
 description: Daily review is a strategy where instructors begin lessons with a short (5-10 minute) review of previously studied material.
 status: review

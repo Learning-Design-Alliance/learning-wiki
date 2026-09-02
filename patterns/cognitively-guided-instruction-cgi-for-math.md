@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: cognitively-guided-instruction-cgi-for-math
 title: Cognitively Guided Instruction (CGI) for Math
 description: "CGI for math is a pattern in which instruction begins with learners' own mathematical thinking and strategies rather than with a fixed demonstration of one correct method."
 status: review

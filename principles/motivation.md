@@ -1,5 +1,6 @@
 ---
 type: principle
+id: motivation
 title: Motivation
 description: Motivation is the principle of designing learning so that learners see value, feel capable of progress, and want to continue engaging with the work.
 status: review

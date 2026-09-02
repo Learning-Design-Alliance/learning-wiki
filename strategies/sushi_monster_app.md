@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: sushi_monster_app
 title: Sushi Monster App
 description: A free math app with a playful interface and characters to help kids expand their math skills and knowledge.
 status: review

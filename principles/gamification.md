@@ -1,5 +1,6 @@
 ---
 type: principle
+id: gamification
 title: Gamification
 description: Gamification applies game design elements (points, badges, levels, narratives, leaderboards) to learning activities to increase engagement and motivation, and works best when mechanics align with learning goals rather than merely rewarding activity.
 status: review

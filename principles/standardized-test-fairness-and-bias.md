@@ -1,5 +1,6 @@
 ---
 type: principle
+id: standardized-test-fairness-and-bias
 title: Standardized Test Fairness and Bias
 description: Standardized tests can distort measured performance for specific groups through three distinct, documented mechanisms — biased item content and format, differential predictive accuracy, and stereotype threat — each requiring a different fix, and none reducible to "the test is simply biased or not."
 status: draft

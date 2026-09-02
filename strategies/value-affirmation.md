@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: value-affirmation
 title: Value Affirmation
 description: A brief writing or reflection activity in which learners identify and elaborate on personally important values, buffering identity threat and protecting learning performance.
 status: review

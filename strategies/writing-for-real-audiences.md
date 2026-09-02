@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: writing-for-real-audiences
 title: Writing For Real Audiences
 description: Having students write for genuine readers beyond the teacher, with authentic purposes, so rhetorical decisions become meaningful and feedback comes from real responses.
 status: review

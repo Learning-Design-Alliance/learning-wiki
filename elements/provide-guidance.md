@@ -1,5 +1,6 @@
 ---
 type: element
+id: provide-guidance
 title: Provide guidance
 description: Offers scaffolding, modeling, or examples to support learning.
 status: review

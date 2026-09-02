@@ -1,5 +1,6 @@
 ---
 type: principle
+id: authentic-audiences-purposes
 title: "Authentic Audiences & Purposes"
 description: Design learning tasks for real or realistically consequential audiences beyond the teacher-as-grader.
 status: review

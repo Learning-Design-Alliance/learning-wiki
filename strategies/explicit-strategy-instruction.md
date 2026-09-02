@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: explicit-strategy-instruction
 title: Explicit Strategy Instruction
 description: Directly teaching learners specific cognitive and metacognitive strategies — what they are, how to execute them, and when and why to use them — through modeling, guided practice, and feedback.
 status: review

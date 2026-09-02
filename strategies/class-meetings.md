@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: class-meetings
 title: Class Meetings
 description: A regularly scheduled whole-group gathering where students and teacher build community, share news, solve problems, and set direction for learning.
 status: review

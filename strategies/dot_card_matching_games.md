@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: dot_card_matching_games
 title: Dot Card Matching Games
 description: Learners match dot cards with equal quantities but different arrangements, or match dot cards to corresponding numeral cards, building subitizing and number-sense foundations.
 status: review

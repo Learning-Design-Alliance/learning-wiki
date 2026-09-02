@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: read_aloud_with_highlighting
 title: Read Aloud with Highlighting
 description: Read aloud features, often combined with word and sentence highlighting, provide auditory support while reading digital text.
 status: review

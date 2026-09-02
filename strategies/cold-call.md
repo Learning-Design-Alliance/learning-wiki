@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: cold-call
 title: Cold Call
 description: The instructor calls on a named student to respond publicly, rather than waiting for volunteers, to increase participation, accountability, and retrieval practice.
 status: review

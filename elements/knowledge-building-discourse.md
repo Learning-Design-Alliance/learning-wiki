@@ -1,5 +1,6 @@
 ---
 type: element
+id: knowledge-building-discourse
 title: Knowledge-Building Discourse
 description: Learners engage in structured discussions to deepen understanding.
 status: review

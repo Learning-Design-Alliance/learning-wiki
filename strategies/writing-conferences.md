@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: writing-conferences
 title: Writing Conferences
 description: One-on-one, conversation-based meetings in which a teacher and student discuss the student's writing in progress, positioning the teacher as coach rather than evaluator.
 status: review

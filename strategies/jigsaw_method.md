@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: jigsaw_method
 title: Jigsaw Method
 description: A cooperative learning structure in which each member of a small group masters a unique piece of content and teaches it to teammates, making every learner both expert and dependent on peers.
 status: review

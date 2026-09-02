@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: drawing_for_early_writing_and_reading_development
 title: Drawing for Early Writing and Reading Development
 description: Drawing is a strategy to foster creativity, planning, and the development of foundational literacy skills in young learners.
 status: review

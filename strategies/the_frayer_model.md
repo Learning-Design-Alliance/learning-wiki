@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: the_frayer_model
 title: The Frayer Model
 description: A graphic organizer that builds conceptual understanding of a single term by requiring a definition, essential characteristics, examples, and non-examples.
 status: review

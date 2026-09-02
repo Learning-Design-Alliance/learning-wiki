@@ -1,5 +1,6 @@
 ---
 type: element
+id: mission-based-learning
 title: Mission-Based Learning
 description: Learners engage in a structured, goal-oriented challenge framed as a mission with a clear objective, constraints, and success criteria.
 status: review

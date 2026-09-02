@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: predictive_emotion_planning
 title: Predictive Emotion Planning
 description: Learners anticipate the emotions an upcoming activity is likely to evoke and pre-plan coping strategies, building proactive self-regulation.
 status: review

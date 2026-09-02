@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: eq_feeling_chart
 title: EQ Feeling Chart
 description: Pair students and check-in with each other using an EQ Feeling Chart.
 status: review

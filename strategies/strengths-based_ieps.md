@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: strengths-based_ieps
 title: Strengths-Based IEPs
 description: A shift in mindset where the Individualized Education Program (IEP) focuses as much on the learner's strengths as it does on their weaknesses, leveraging abilities to help address needs.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: fair_communication_anchor_charts
 title: Fair Communication Anchor Charts
 description: Displaying visual charts that articulate agreed-upon rules for respectful, equitable communication during discussions and collaborative work.
 status: review

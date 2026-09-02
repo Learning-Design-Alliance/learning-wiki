@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mastery-learning
 title: Mastery Learning
 description: Learners must demonstrate a defined level of competence on each unit before progressing, with time varying and achievement held constant.
 status: review

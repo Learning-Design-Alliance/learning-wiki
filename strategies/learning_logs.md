@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: learning_logs
 title: Learning Logs
 description: Learning logs are short, reflective writing activities completed at the beginning or end of a class to review previously learned material or focus on new concepts.
 status: review

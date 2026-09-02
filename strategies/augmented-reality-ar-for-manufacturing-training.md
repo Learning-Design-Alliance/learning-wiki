@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: augmented-reality-ar-for-manufacturing-training
 title: Augmented Reality (AR) for Manufacturing Training
 description: AR overlays step-by-step instructions, diagrams, and media onto the physical work environment via headsets or smartglasses while a trainee performs the task.
 status: review

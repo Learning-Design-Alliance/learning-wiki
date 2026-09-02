@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: sentence_starters
 title: Sentence Starters
 description: Every student writes a sentence in response to a prompt before whole-class sharing, replacing hand-raising with universal written participation.
 status: review

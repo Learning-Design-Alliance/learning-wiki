@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: distributed_practice
 title: Distributed Practice
 description: Distributed practice involves practicing content in short sessions spaced out over time, contrasting with massed practice (cramming) where content is practiced in one long session.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: principle
+id: problem-based-learning
 title: Problem-based Learning
 description: Problem-based learning organizes learning around complex, meaningful problems that do not have a single obvious answer.
 status: review

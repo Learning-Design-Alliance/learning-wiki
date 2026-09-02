@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: individual_spaces
 title: Individual Spaces
 description: Creating designated areas within the classroom to serve specific functions, such as independent work, collaborative projects, or mini-lessons, can promote student engagement.
 status: review

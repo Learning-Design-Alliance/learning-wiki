@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: praise-specific-feedback
 title: Praise Specific Feedback
 description: Praise that names the specific behavior, strategy, or product being reinforced, rather than offering generic approval of the person.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: digital_word_detectives
 title: Digital Word Detectives
 description: Students read e-books and use digital tools (dictionaries and notes) to support their development of vocabulary.
 status: review

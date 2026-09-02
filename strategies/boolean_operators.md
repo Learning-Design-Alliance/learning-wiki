@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: boolean_operators
 title: Boolean Operators
 description: "Explicitly teach Boolean operators (AND, OR, NOT, NEAR, parentheses, truncation) so learners can deliberately narrow, broaden, and refine database and web searches."
 status: review

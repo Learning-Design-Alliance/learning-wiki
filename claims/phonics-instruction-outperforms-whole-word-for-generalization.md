@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: phonics-outperforms-whole-word-generalization
+id: phonics-instruction-outperforms-whole-word-for-generalization
 evidence_strength:
 ---
 

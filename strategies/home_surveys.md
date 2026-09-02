@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: home_surveys
 title: Home Surveys
 description: Sending weekly, biweekly, or monthly surveys home to gather ongoing data and insight into students and their families.
 status: review

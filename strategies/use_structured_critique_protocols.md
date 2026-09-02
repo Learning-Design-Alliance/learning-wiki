@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: use_structured_critique_protocols
 title: Use Structured Critique Protocols
 description: A strategy that replaces vague "give feedback" instructions with explicit, sequenced protocols (e.g., gallery walk, ladder of feedback, TAG, critical friends) that specify what to evaluate, in what order, and how to phrase it.
 status: review

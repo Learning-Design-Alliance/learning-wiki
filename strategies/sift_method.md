@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: sift_method
 title: SIFT Method
 description: A four-move strategy (Stop, Investigate the source, Find better coverage, Trace claims) for efficiently evaluating the credibility of online information.
 status: review

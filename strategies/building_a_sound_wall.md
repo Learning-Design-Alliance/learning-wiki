@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: building_a_sound_wall
 title: Building a Sound Wall
 description: A sound wall is a classroom display organized by phonemes (typically by manner of articulation) that makes the speech-sound-to-letter mapping explicit and serves as an ongoing reference for explicit phonemic awareness and phonics instruction.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: latin-and-greek-roots-for-academic-vocabulary
 title: Latin And Greek Roots For Academic Vocabulary
 description: Teaching the high-frequency Latin and Greek morphemes that compose academic English so learners can decode, infer, and retain unfamiliar discipline vocabulary.
 status: review

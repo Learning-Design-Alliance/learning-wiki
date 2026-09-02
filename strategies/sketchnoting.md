@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: sketchnoting
 title: Sketchnoting
 description: Learners take notes as a mix of hand-drawn images, hand-lettered text, and visual structure, generating a representation of the material rather than transcribing it.
 status: review

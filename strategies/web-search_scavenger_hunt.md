@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: web-search_scavenger_hunt
 title: Web-Search Scavenger Hunt
 description: A structured activity in which students answer questions by locating and evaluating online sources, building search and information-literacy skills through guided practice.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: emotion-focused_pretend_play
 title: Emotion-Focused Pretend Play
 description: An adult joins children's pretend play and introduces emotion talk — naming, modeling, and acting out how the imaginary characters feel — to build emotional understanding and expression.
 status: review

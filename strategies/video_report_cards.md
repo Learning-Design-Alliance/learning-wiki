@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: video_report_cards
 title: Video Report Cards
 description: Sending parents a link to a personalized video that provides context about their child's report card, such as a history of the child's performance in core subjects, areas for growth, and recommendations to further support the child's learning.
 status: review

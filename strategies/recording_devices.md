@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: recording_devices
 title: Recording Devices
 description: Allowing students to record lessons so they can play them back and go over anything that might be confusing.
 status: review

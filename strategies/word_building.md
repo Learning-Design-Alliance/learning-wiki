@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: word_building
 title: Word Building
 description: Word building is a literacy strategy in which learners manipulate letter tiles or squares to construct words, reinforcing phonemic awareness, letter-sound correspondence, spelling, and word recognition.
 status: review

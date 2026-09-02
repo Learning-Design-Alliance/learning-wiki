@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: question-answer_relationships
 title: Question Answer Relationships
 description: A strategy that teaches learners to classify comprehension questions by where the answer must come from — in the text or in their own knowledge — and to match their search strategy accordingly.
 status: review

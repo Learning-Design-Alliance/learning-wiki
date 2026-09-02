@@ -5,7 +5,7 @@ status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30
-id: cft-multiple-cases
+id: cognitive-flexibility-theory-multiple-cases
 evidence_strength: weak
 ---
 

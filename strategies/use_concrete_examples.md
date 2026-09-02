@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: use_concrete_examples
 title: Use Concrete Examples
 description: Ground abstract concepts, rules, and procedures in specific, vivid instances that learners can inspect before generalizing.
 status: review

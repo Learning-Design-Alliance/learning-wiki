@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: summaries_and_recaps
 title: Summaries and Recaps
 description: Periodically restating key content in condensed, reworded, or re-represented form to consolidate understanding and support retention.
 status: review

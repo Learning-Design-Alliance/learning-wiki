@@ -1,5 +1,6 @@
 ---
 type: element
+id: objective
 title: Objective
 description: An objective is an explicit statement of what learners should know or be able to do after instruction, serving as the design anchor for activities, materials, and assessment.
 status: review

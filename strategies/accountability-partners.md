@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: accountability-partners
 title: Accountability Partners
 description: Pairing learners so each regularly reports progress, setbacks, and next steps to the other, using social commitment to sustain effort and self-regulation.
 status: review

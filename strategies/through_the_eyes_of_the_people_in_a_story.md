@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: through_the_eyes_of_the_people_in_a_story
 title: Through the Eyes of the People in a Story
 description: Learners pick a character from a short story or book and relive the main events from that character's point of view.
 status: review

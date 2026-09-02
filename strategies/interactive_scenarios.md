@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: interactive_scenarios
 title: Interactive Scenarios
 description: Simulated environments or branching situations that place learners in realistic decision-making roles mirroring real-world challenges.
 status: review

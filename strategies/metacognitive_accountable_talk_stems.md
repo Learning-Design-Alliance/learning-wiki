@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: metacognitive_accountable_talk_stems
 title: Metacognitive Accountable Talk Stems
 description: Accountable talk stems are sentence starters that structure classroom discussion around evidence, reasoning, and explicit monitoring of one's own thinking.
 status: review

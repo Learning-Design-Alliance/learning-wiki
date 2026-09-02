@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: vocabulary-in-context
 title: Vocabulary In Context
 description: Learners acquire word meanings by inferring them from meaningful reading or listening contexts, supported by multiple varied encounters rather than isolated definition study.
 status: review

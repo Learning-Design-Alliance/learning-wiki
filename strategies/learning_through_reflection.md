@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: learning_through_reflection
 title: Learning Through Reflection
 description: Link and construct meaning from experiences through structured individual and social reflection.
 status: review

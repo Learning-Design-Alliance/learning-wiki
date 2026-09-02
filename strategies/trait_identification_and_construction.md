@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: trait_identification_and_construction
 title: Trait Identification and Construction
 description: Learners identify animal body parts from puzzle pieces and construct real or mythical animals, grounding observation, measurement, and justification in hands-on life science work.
 status: review

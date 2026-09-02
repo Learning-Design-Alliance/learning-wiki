@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: research_reports
 title: Research Reports
 description: Research reports present data and findings in a visually structured, accessible format so that audiences beyond the research team can understand, evaluate, and act on the results.
 status: review

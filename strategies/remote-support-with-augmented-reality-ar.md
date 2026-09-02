@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: remote-support-with-augmented-reality-ar
 title: Remote Support with Augmented Reality (AR)
 description: AR apps allow technicians and users to communicate with experts in real time, with annotations overlaid on the user's field of view.
 status: review

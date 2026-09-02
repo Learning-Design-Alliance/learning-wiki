@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: model_the_assignment_or_skill
 title: Model the Assignment or Skill
 description: Teachers demonstrate how to perform a task or skill by verbalizing their thought processes while completing it.
 status: review

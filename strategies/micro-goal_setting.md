@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: micro-goal_setting
 title: Micro-Goal Setting
 description: Setting achievable micro-goals encourages consistent, incremental learner progress.
 status: review

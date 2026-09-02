@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: waste_reduction_solutions
 title: Waste Reduction Solutions
 description: Learners examine and sort real waste items, categorize and chart them, and propose evidence-based solutions to reduce solid waste.
 status: review

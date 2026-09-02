@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mindful_moment
 title: Mindful Moment
 description: A mindful moment involves pausing, settling the nervous system, and refocusing attention and energy on a new task.
 status: review

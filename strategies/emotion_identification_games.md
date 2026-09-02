@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: emotion_identification_games
 title: Emotion Identification Games
 description: Games and playful exercises in which learners recognize, name, and act out emotions to build emotional literacy and social understanding.
 status: review

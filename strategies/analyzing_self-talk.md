@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: analyzing_self-talk
 title: Analyzing Self-Talk
 description: Students identify patterns or themes in their self-talk — recurring thoughts or feelings tied to specific situations, tasks, or times of day — to understand the triggers and beliefs that drive their inner dialogue.
 status: review

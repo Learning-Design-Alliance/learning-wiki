@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: behavior_contracts
 title: Behavior Contracts
 description: A written agreement between teacher and learner specifying target behaviors, expected outcomes, and agreed rewards or privileges, used to shape conduct and work habits.
 status: review

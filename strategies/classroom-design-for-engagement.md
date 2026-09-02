@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: classroom-design-for-engagement
 title: Classroom Design for Engagement
 description: Arranging the physical classroom — light, air, layout, ownership, and wall display — so the room supports attention and participation instead of quietly competing with them.
 status: review

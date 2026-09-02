@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: videoconferencing_for_collaboration
 title: Videoconferencing for Collaboration
 description: Videoconferencing platforms with built-in collaboration features (Microsoft Teams, Google Meet, Zoom) used to replicate and support teamwork experiences in online and hybrid learning.
 status: review

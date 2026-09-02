@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: conferencing
 title: Conferencing
 description: One-on-one or small-group conversations between instructor and learner used to give individualized feedback, diagnose understanding, and plan next steps.
 status: review

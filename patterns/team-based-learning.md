@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: team-based-learning
 title: Team Based Learning
 description: Team-Based Learning (TBL) is a structured instructional sequence in which stable small teams repeatedly apply course content to significant problems, with individual accountability enforced through readiness assurance testing.
 status: review

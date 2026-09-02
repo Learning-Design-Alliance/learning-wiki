@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: read-aloud-routines
 title: Read Aloud Routines
 description: Structured, repeated teacher or caregiver reading of texts aloud to learners, with deliberate pauses, questioning, and discussion to build language, comprehension, and motivation.
 status: review

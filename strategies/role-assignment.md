@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: role-assignment
 title: Role Assignment
 description: Assigning distinct, interdependent roles (e.g., facilitator, recorder, skeptic) to members of a collaborative group to structure participation and accountability.
 status: review

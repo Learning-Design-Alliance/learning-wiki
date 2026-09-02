@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: relating_math_to_student_strengths
 title: Relating Math to Student Strengths
 description: This strategy leverages learners' existing strengths and interests to make math more relatable, engaging, and confidence-building.
 status: review

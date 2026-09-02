@@ -1,5 +1,6 @@
 ---
 type: element
+id: integration
 title: Integration
 description: Learners reflect on and connect new learning to their own experiences, prior knowledge, and future applications.
 status: review

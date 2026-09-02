@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: publicize_volunteer_opportunities_and_student_involvement
 title: Publicize Volunteer Opportunities and Student Involvement
 description: Schools outline specific ways for parents to help in the classroom and at school, from inviting parents to watch group presentations to asking them to chaperone field trips.
 status: review

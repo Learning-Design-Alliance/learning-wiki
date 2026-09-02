@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: expecting_excellence_in_pbl
 title: Expecting Excellence in PBL
 description: "Setting and communicating high expectations for all students in project-based learning, supported by scaffolding that makes those expectations attainable."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: pre-questioning
 title: Pre Questioning
 description: Asking learners questions about material *before* instruction, priming attention and activating prior knowledge even when the questions cannot yet be answered.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: pattern
+id: structured-academic-controversy
 title: Structured Academic Controversy
 description: Structured Academic Controversy is a discussion pattern in which learners examine opposing positions, advocate for one side, switch roles, and work toward a more integrated conclusion.
 status: review

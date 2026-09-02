@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: sensory_stimulation
 title: Sensory Stimulation
 description: "Sensory stimulation involves providing experiences that engage a person's senses to improve regulation, attention, and focus."
 status: review

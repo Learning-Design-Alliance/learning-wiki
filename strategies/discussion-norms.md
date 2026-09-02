@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: discussion-norms
 title: Discussion Norms
 description: Explicitly established rules and expectations that govern how students participate in classroom discussion — who talks, how ideas are treated, and what counts as a good contribution.
 status: review

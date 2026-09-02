@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: bystander_intervention_training
 title: Bystander Intervention Training
 description: Training that equips community members to recognize problematic situations and intervene safely as third parties, rather than relying on formal authorities or direct victims.
 status: review

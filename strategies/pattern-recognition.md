@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: pattern-recognition
 title: Pattern Recognition
 description: Learners identify recurring structures, features, or relationships across multiple examples so they can classify new cases and transfer knowledge beyond the instances they studied.
 status: review

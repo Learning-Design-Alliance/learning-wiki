@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: talk_moves
 title: Talk Moves
 description: Talk moves are sentence frames and conversational routines supplied to learners that help them express ideas, respond to peers, and interact in respectful, academically productive ways.
 status: review

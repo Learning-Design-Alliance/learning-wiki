@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: before_or_after-school_physical_activity_programs
 title: Before or After-School Physical Activity Programs
 description: Offer structured physical activity programs before or after school, such as morning exercises, intramural sports, or opening school facilities for recreational use.
 status: review

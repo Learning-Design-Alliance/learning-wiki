@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: creative_handwriting_activities
 title: Creative Handwriting Activities
 description: Engaging, multi-sensory writing activities that move away from traditional pencil-and-paper drill to build letter formation, fluency, and positive attitudes toward writing.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: three-phase_lesson
 title: Three-Phase Lesson
 description: A lesson structure that sequences instruction into Before (activate and frame), During (active exploration or work), and After (consolidate and connect) phases.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: teacher-led_physical_math_games
 title: Teacher-Led Physical Math Games
 description: Teacher-led physical activities integrate movement and mathematical practice in an abbreviated time frame, suitable for station breaks and transitions, and are adaptable to different grade levels.
 status: review

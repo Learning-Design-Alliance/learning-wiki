@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: doubles-minus-one
 title: Doubles Minus One
 description: A derived-fact strategy for addition in which learners solve near-double facts (e.g., 6+5) by using a known doubles fact (6+6) and adjusting down by one.
 status: review

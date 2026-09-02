@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: civic-online-reasoning
 title: Civic Online Reasoning
 description: Teaching learners to evaluate the credibility of online information using the fast, fact-checking strategies professional fact-checkers use — most centrally lateral reading.
 status: review

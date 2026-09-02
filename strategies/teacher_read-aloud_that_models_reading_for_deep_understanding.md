@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: teacher_read-aloud_that_models_reading_for_deep_understanding
 title: Teacher Read-Aloud That Models Reading for Deep Understanding
 description: A teacher read-aloud involves a teacher fluently reading a text aloud to learners, intentionally modeling strategies of understanding that can be reinforced in shared, guided, and independent reading.
 status: review

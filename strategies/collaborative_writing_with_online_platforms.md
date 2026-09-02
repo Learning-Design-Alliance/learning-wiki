@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: collaborative_writing_with_online_platforms
 title: Collaborative Writing with Online Platforms
 description: Students jointly compose, revise, and give feedback on texts through digital co-authoring tools such as Google Docs, leveraging real-time editing, commenting, and version history.
 status: review

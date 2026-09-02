@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: matched_examples_and_non-examples
 title: Matched Examples and Non-examples
 description: Present matched examples and non-examples for concepts with closely related attributes, so learners can discriminate the defining features of a concept.
 status: review

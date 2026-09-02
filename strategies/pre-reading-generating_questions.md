@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: pre-reading-generating_questions
 title: Pre-Reading: Generating Questions
 description: Learners generate their own questions about a text before reading it, activating prior knowledge, creating curiosity, and setting a purpose for reading.
 status: review

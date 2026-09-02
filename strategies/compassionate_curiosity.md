@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: compassionate_curiosity
 title: Compassionate Curiosity
 description: Act as a non-judgmental investigator to better understand students and respond with empathy.
 status: review

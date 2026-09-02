@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: sentence-frames
 title: Sentence Frames
 description: Sentence frames provide partially completed sentence starters that structure learners' oral or written responses, supporting academic language production and respectful dialogue.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: choral_reading
 title: Choral Reading
 description: Learners read a text aloud together as a group, guided by a fluent model, to build fluency, word recognition, and confidence.
 status: review

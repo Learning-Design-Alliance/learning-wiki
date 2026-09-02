@@ -1,5 +1,6 @@
 ---
 type: principle
+id: case-studiescase-based-learning
 title: Case Studies/Case-based Learning
 description: Case studies use realistic scenarios, dilemmas, or incidents as the object of analysis so learners must interpret evidence, weigh alternatives, and justify action.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: content-focused_questioning
 title: Content-Focused Questioning
 description: Asking students questions that focus on the main points of a text and how the author supports those points with evidence and examples.
 status: review

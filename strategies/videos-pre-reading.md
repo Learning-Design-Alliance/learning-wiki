@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: videos-pre-reading
 title: Videos (Pre-Reading)
 description: A short video on the topic of an upcoming reading is shown before reading, followed by structured peer discussion, to activate prior knowledge and build context.
 status: review

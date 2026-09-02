@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: student_feedback_on_the_class
 title: Student Feedback on the Class
 description: Systematically soliciting student feedback about instruction and using it to adjust teaching practice, course design, and classroom climate.
 status: review

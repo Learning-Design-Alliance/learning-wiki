@@ -1,5 +1,6 @@
 ---
 type: element
+id: midterm-exam
 title: Midterm Exam
 description: A summative assessment administered at the midpoint of a course to evaluate learning progress and retention of material covered to date.
 status: review

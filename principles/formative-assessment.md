@@ -1,5 +1,6 @@
 ---
 type: principle
+id: formative-assessment
 title: Formative Assessment
 description: Formative assessment is the instructional principle of embedding low-stakes checks for understanding, feedback, and adjustment into the learning process rather than reserving assessment for final judgment.
 status: review

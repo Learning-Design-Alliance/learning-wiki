@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: word-of-the-week
 title: Word Of The Week
 description: A routine in which one high-value word is introduced, deeply explored, and repeatedly revisited across a week to build durable vocabulary knowledge.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: calming_combinations
 title: Calming Combinations
 description: Combining two or more calming sensory strategies to create a more effective and personalized approach to self-regulation.
 status: review

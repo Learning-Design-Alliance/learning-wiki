@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: six_consumer_questions
 title: Six Consumer Questions
 description: A set of six questions designed to help evaluate the trustworthiness of a news story.
 status: review

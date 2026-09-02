@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: distributed-practice-spacing-effect
 title: Distributed Practice (Spacing Effect)
 description: Distributed practice schedules reviews of information or practice of a task across multiple sessions separated in time, rather than massing them together, producing markedly better long-term retention.
 status: review

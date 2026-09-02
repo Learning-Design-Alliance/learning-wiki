@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: establish_guidelines_for_discussing_race
 title: Establish Guidelines for Discussing Race
 description: Establish guidelines or agreements for group members to make when having discussions of race to ensure respectful and productive dialogue.
 status: review

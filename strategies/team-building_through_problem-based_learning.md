@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: team-building_through_problem-based_learning
 title: Team-Building Through Problem-Based Learning
 description: Using problem-based learning in multi-cultural groups helps learners get used to working in a multi-cultural environment.
 status: review

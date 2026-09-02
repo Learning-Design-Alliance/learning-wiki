@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: teach_key_words_for_standardized_test_prompts
 title: Teach Key Words for Standardized Test Prompts
 description: Instructors explicitly teach the high-frequency command and direction terms used in standardized test prompts so learners can decode what each question actually asks.
 status: review

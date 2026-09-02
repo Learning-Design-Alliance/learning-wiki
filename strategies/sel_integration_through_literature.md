@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: sel_integration_through_literature
 title: SEL Integration through Literature
 description: Integrating social and emotional learning (SEL) into language arts curricula by using literature to explore emotions, build community, handle conflict, and counter bias.
 status: review

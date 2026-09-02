@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: spaced_practice
 title: Spaced Practice
 description: Spaced practice distributes learning sessions and reviews over time, contrasting with massed practice (cramming), to improve long-term retention.
 status: review

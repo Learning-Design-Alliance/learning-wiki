@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: simulations
 title: Simulations
 description: Simulations use electronic or software-based activities to simulate a real-world situation to which a learner must react, allowing safe practice and consequence exploration.
 status: review

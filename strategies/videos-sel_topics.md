@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: videos-sel_topics
 title: "Videos: SEL Topics"
 description: "Using short video clips on SEL topics followed by discussions and/or related activities promotes relevance and meaningful connection of these topics to learners' background knowledge and personal lives."
 status: review

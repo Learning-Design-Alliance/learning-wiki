@@ -1,5 +1,6 @@
 ---
 type: principle
+id: social-interdependence
 title: Social Interdependence
 description: Social interdependence is the principle that the structure of relationships among learners shapes the quality of collaboration, motivation, and learning.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: element
+id: team-based-inquiry
 title: Team-Based Inquiry
 description: Students work in structured groups to analyze problems, construct solutions, and reflect together.
 status: review

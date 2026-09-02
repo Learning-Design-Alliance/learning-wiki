@@ -1,5 +1,6 @@
 ---
 type: element
+id: problem-scenario
 title: Problem Scenario
 description: Learners engage with a structured real-world scenario that requires problem-solving.
 status: review

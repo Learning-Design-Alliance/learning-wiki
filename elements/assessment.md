@@ -1,5 +1,6 @@
 ---
 type: element
+id: assessment
 title: Assessment
 description: Assessment is the structured collection of evidence about learner understanding, performance, or progress for the purposes of feedback, decision making, grading, or revision.
 status: review

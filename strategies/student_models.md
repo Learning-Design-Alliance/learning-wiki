@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: student_models
 title: Student Models
 description: Student models are examples of writing (or other work) produced by other students, typically curated and anonymized by instructors, made available for learners to study as reference points.
 status: review

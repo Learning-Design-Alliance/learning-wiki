@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Mixed-disciplinary teacher making supports transdisciplinary epistemic liberation
-id: finch-1
+id: mixed-disciplinary-teacher-making-supports-transdisciplinary-epistemic-liberation
 status: draft
 generated:
   by: claude/unspecified

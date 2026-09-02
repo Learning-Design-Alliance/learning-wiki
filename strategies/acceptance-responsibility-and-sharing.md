@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: acceptance-responsibility-and-sharing
 title: Acceptance, Responsibility, and Sharing
 description: A conflict-resolution strategy in which learners process emotions, take responsibility for their part in a conflict, and share feelings openly with the others involved.
 status: review

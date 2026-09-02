@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: visual_timers
 title: Visual Timers
 description: Visual timers make elapsed and remaining time visible, supporting time concepts, transitions, and on-task behavior for learners who struggle with abstract time.
 status: review
