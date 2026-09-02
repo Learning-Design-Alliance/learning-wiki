@@ -400,6 +400,60 @@
   
   
     <li class="md-nav__item">
+      <a href="../processes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Design Processes
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../methods/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Design Methods
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../theories/" class="md-nav__link">
         
   
@@ -655,6 +709,17 @@
     <span class="md-ellipsis">
       
         The wiki index
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#two-kinds-for-the-designers-side-processes-and-methods" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Two kinds for the designer's side: processes/ and methods/
       
     </span>
   </a>
@@ -1087,6 +1152,17 @@
     <span class="md-ellipsis">
       
         The wiki index
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#two-kinds-for-the-designers-side-processes-and-methods" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Two kinds for the designer's side: processes/ and methods/
       
     </span>
   </a>
@@ -1547,57 +1623,60 @@ fixed by what carries the field: a profile realizes a <strong>pattern</strong>, 
 <tbody>
 <tr>
 <td><code>dschool-design-thinking</code></td>
-<td>pattern</td>
+<td>process</td>
 <td><code>design-thinking</code></td>
 </tr>
 <tr>
 <td><code>gagne-systematic</code></td>
-<td>pattern</td>
+<td>process</td>
 <td><code>systematic-instructional-design</code></td>
 </tr>
 <tr>
 <td><code>sam-agile</code></td>
-<td>pattern</td>
+<td>process</td>
 <td><code>successive-approximation-model</code></td>
 </tr>
 <tr>
 <td><code>continuous-improvement</code></td>
-<td>pattern</td>
+<td>process</td>
 <td><code>continuous-improvement-of-learning-materials</code></td>
 </tr>
 <tr>
 <td><code>lxd-user-centred</code></td>
-<td>pattern</td>
+<td>process</td>
 <td><code>learner-experience-design</code></td>
 </tr>
 <tr>
 <td><code>faculty-course-design</code></td>
-<td>pattern</td>
+<td>process</td>
 <td><code>faculty-course-design</code></td>
 </tr>
 <tr>
 <td><code>goals/standards-crosswalk</code></td>
-<td>strategy</td>
+<td>method</td>
 <td><code>standards-crosswalk</code></td>
 </tr>
 <tr>
 <td><code>goals/cognitive-task-analysis</code></td>
-<td>strategy</td>
+<td>method</td>
 <td><code>cognitive-task-analysis</code></td>
 </tr>
 <tr>
 <td><code>personas/activity-system</code></td>
-<td>strategy</td>
+<td>method</td>
 <td><code>activity-system-personas</code></td>
 </tr>
 </tbody>
 </table>
+<p><strong>The kinds in that table were <code>pattern</code> and <code>strategy</code> for one day.</strong> See <em>Two kinds for
+the designer's side</em> below: design work is not instruction, and it now has its own two
+kinds. A profile resolves in <code>process</code>, a method in <code>method</code>.</p>
 <p><strong>Design thinking was two objects under one name.</strong> <code>strategies/design-thinking.md</code>
-described learners running the cycle; a profile realizing it needs the <em>designer's</em>
-process. The pattern page is the design process at course grain; the strategy page is
-<code>status: deprecated</code>, kept for history, with its two inbound links repointed. A profile
-resolves <code>design-thinking</code> in the pattern namespace and gets the right one — ids are
-unique <em>per kind</em>, which is what makes the same slug in both folders safe.</p>
+describes learners running the cycle; a profile realizing it needs the <em>designer's</em>
+process. That process is now <code>processes/design-thinking.md</code>, and the strategy page is
+restored to <code>review</code> — the deprecation existed only because the process briefly needed
+the <code>pattern</code> namespace, and it no longer does. Ids are unique <em>per kind</em>, which is what
+makes the same slug in two folders safe.</p>
 <p><strong>Two duplicate pattern pairs are collapsed, canonical page keeping the substance:</strong>
 <code>patterns/4cid.md</code> (1.2 KB stub) folded into <code>4cid-four-component-instructional-design</code>
 (73 inbound links), and <code>gagnés-9-events.md</code> into the of-instruction page. Both stubs were
@@ -1982,6 +2061,78 @@ that resolves one slug two ways rather than letting a consumer pick whichever it
 <p>Both halves come out of one pass, so they cannot drift from each other. Theories are
 included even though nothing in the spec addresses one: a consumer filters on <code>type</code> for
 free, and a kind left out is a kind nobody can point at until somebody notices.</p>
+<hr />
+<h2 id="two-kinds-for-the-designers-side-processes-and-methods">Two kinds for the designer's side: <code>processes/</code> and <code>methods/</code><a class="headerlink" href="#two-kinds-for-the-designers-side-processes-and-methods" title="Permanent link">&para;</a></h2>
+<p>Every other kind in this wiki describes <strong>instruction a learner meets</strong>. A pattern is a
+reusable design at lesson or unit level; a strategy is a concrete activity recipe. Design
+work is a different object entirely — what somebody does <em>to produce</em> the instruction —
+and it had been filed among them: ADDIE and design thinking sat in <code>patterns/</code> beside
+cooperative learning, and task analysis sat in <code>strategies/</code> beside think-pair-share,
+which advertises a designer's elicitation method as a teaching activity.</p>
+<ul>
+<li><strong><code>processes/</code></strong> — whole design processes a designer works through: ADDIE and the
+  Dick &amp; Carey systems approach, SAM, design thinking, LXD, Understanding by Design,
+  continuous improvement, faculty course design, Data Wise, humanizing co-design.</li>
+<li><strong><code>methods/</code></strong> — the practices a process is made of: needs analysis, learner and
+  context analysis, task analysis, learning-hierarchy task analysis, cognitive task
+  analysis, learner personas, activity-system personas, backward design, standards
+  crosswalk, family-interview assessment task design, making power dynamics visible.</li>
+</ul>
+<p><strong>The two levels are not cosmetic — they mirror the spec's own split.</strong> In
+learning-design-spec a <strong>profile</strong> realizes a whole process and a <strong>method</strong> realizes a
+practice, and the kind is fixed by what carries the field. One combined folder would have
+resolved both against one namespace, and nothing would catch a profile that named a
+crosswalk. Two kinds keep that error catchable.</p>
+<p><strong><code>realizes:</code> therefore resolves against <code>process</code> and <code>method</code> now, not <code>pattern</code> and
+<code>strategy</code>.</strong> That is a change to the spec repo's <code>decisions/0012</code>, and it is not
+alias-able: aliases live inside one kind, so a retired <em>kind</em> cannot be aliased. Both
+sides have to move together, and <code>wiki-index.json</code> carries the <code>resolve</code> map for both new
+kinds so the spec side can do it in one edit.</p>
+<p><strong>The same slug in two kinds is fine and now happens on purpose.</strong> <code>design-thinking</code> is a
+<code>process</code> (the designer's cycle) and a <code>strategy</code> (students running the cycle on an
+authentic problem) — two genuinely different objects that share a name. Ids are unique
+<em>per kind</em>, so each resolves in its own namespace. The strategy page was briefly
+deprecated when the process needed the <code>pattern</code> namespace; it is restored.</p>
+<p><strong>What stayed put, and why, because these are the judgement calls:</strong></p>
+<ul>
+<li><code>strategies/task_analysis.md</code> (underscore) is <em>learners</em> breaking an assignment into
+  sub-tasks — a different practice from <code>methods/task-analysis.md</code>, not a duplicate of it,
+  despite near-identical titles.</li>
+<li><code>patterns/online-course-design.md</code>, <code>storyline-science-curriculum-design</code> and
+  <code>interdisciplinary-course-based-research-experience</code> describe the <strong>shape of the
+  resulting course</strong>, not the steps to produce one. Patterns.</li>
+<li><code>patterns/professional-development.md</code> is instruction whose learners are teachers.</li>
+<li><code>strategies/exemplar-analysis.md</code> is learners studying worked examples.</li>
+</ul>
+<p><strong>Three are genuinely unresolved — flagged rather than moved:</strong></p>
+<ul>
+<li><code>strategies/formative-evaluation.md</code> is classroom formative assessment, but instructional
+  design uses the same words for <em>testing draft materials with learners</em> (one-to-one, small
+  group, field trial). The process pages needed the second sense and four links were
+  quietly asserting it; they were removed rather than left pointing at a page that says
+  something else. <strong><code>methods/formative-evaluation-of-materials</code> is a real gap.</strong></li>
+<li>The <strong>student-shadowing family</strong> (~10 near-identical pages) is educator-as-investigator
+  work and belongs in <code>methods/</code>, but moving one of ten fragments the set. It is part of
+  the near-duplicate backlog and should move as a group once deduplicated.</li>
+<li><code>cede-power-student-voice</code> and <code>student_feedback_on_the_class</code> sit on the line between a
+  design stance and a teaching practice. Left as strategies.</li>
+</ul>
+<p><strong>Adding a kind touched fourteen lists, which is thirteen too many.</strong> Not a figure of
+speech: the folder list was hard-coded in fourteen places, and <code>lint.py</code>'s own copy had
+never contained <code>learner-variables</code> — so for as long as that folder has existed <strong>no page
+in it was checked for a broken link</strong>, and the "N pages indexed" line was quietly twelve
+short. It reported OK because it never looked. The copies that mean "every content folder"
+now derive from <code>okf_lib.CONTENT_FOLDERS</code>; the ones carrying per-kind data (labels,
+singulars, index config) must stay hand-written, so <code>check_nav_coverage</code> fails when a
+content folder is missing from any of them, naming the specific consequence.</p>
+<p><strong>Page templates:</strong> a <code>process</code> uses the Pattern template (it has a Sequence, Requirements
+and Constraints, a grain size) and a <code>method</code> uses the Strategy template (it has
+Instructions). Those section names are deliberately unchanged — <code>### Instructions</code>,
+<code>### Target Learners</code>, <code>### Target Learning Goals</code>, <code>#### Requirements</code>/<code>#### Constraints</code>
+are what the spec reads out of the body, and renaming them to suit the new folder would
+break the thing the new folder exists to serve. Only <code>## Related Patterns</code> /
+<code>## Related Strategies</code> become <code>## Related Processes</code> / <code>## Related Methods</code>, which
+nothing reads.</p>
 <h2 id="evidence-markers-are-the-evidence-layer">Evidence markers are the evidence layer<a class="headerlink" href="#evidence-markers-are-the-evidence-layer" title="Permanent link">&para;</a></h2>
 <p>The <code>[±~][SMW]</code> marker beside a claim link is the one field the design-spec pipeline reads
 for evidence quality. It beats the frontmatter <code>evidence_strength:</code> in a way worth naming:
@@ -2106,7 +2257,7 @@ does not read it.</p>
 </table>
 <hr />
 <h2 id="frontmatter-fields">Frontmatter fields<a class="headerlink" href="#frontmatter-fields" title="Permanent link">&para;</a></h2>
-<p>Every content page (principle, element, pattern, strategy, theory, learner-variable, claim) carries this OKF-conformant frontmatter:</p>
+<p>Every content page (principle, element, pattern, strategy, process, method, theory, learner-variable, claim) carries this OKF-conformant frontmatter:</p>
 <table>
 <thead>
 <tr>
@@ -2119,7 +2270,7 @@ does not read it.</p>
 <tr>
 <td><code>type</code></td>
 <td>Yes</td>
-<td><code>principle</code> | <code>element</code> | <code>pattern</code> | <code>strategy</code> | <code>theory</code> | <code>learner-variable</code> | <code>claim</code></td>
+<td><code>principle</code> | <code>element</code> | <code>pattern</code> | <code>strategy</code> | <code>process</code> | <code>method</code> | <code>theory</code> | <code>learner-variable</code> | <code>claim</code></td>
 </tr>
 <tr>
 <td><code>title</code></td>
@@ -2293,6 +2444,8 @@ indexes with <code>python3 scripts/build_indexes.py</code>.</p>
   elements/          ← instructional components (building blocks)
   patterns/          ← instructional patterns (reusable designs at lesson/unit level)
   strategies/        ← teaching strategies (concrete activity recipes)
+  processes/         ← design processes: how a course gets made (ADDIE, SAM, design thinking, UbD)
+  methods/           ← design methods: the practices a process is made of (task analysis, personas, crosswalks)
   theories/          ← learning theories (explanatory frameworks)
   learner-variables/ ← canonical learner characteristics (prior knowledge, self-efficacy, ...) claims link into
   claims/            ← empirical claims with evidence
