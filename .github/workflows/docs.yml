@@ -9,6 +9,24 @@ on:
 permissions:
   contents: write
 
+# Two merges close together used to race each other onto gh-pages. Both runs
+# build from their own commit, both push, and the second is rejected with
+# "the remote contains work that you do not have locally" — so the site stays
+# on whichever build won, and the change in the losing merge is simply absent
+# from the published site while `main` says it shipped. That has happened four
+# times (runs 37, 39, 45 and 60); the last one silently withheld the page
+# metadata panel while its PR showed green.
+#
+# cancel-in-progress is deliberately false. Cancelling the earlier run would
+# be right for a preview build, where only the newest state matters, but this
+# is a deploy: the newest run is built from the newest commit and supersedes
+# the older one, so letting the queue drain in order publishes the same final
+# tree either way, without discarding a build that is already most of the way
+# through mkdocs.
+concurrency:
+  group: deploy-docs
+  cancel-in-progress: false
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
