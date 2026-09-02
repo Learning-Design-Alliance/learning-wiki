@@ -310,6 +310,7 @@ def run(args) -> None:
         for label, cmd in (
             ("rebuilding indexes", ["scripts/build_indexes.py"]),
             ("page-type banners", ["scripts/add_type_banner.py", "--apply"]),
+            ("page ids for new pages", ["scripts/page_identity.py", "--apply"]),
             ("filling agreed DOIs", ["scripts/standardize_citations.py", "--apply"]),
             ("resolving against Crossref", ["scripts/resolve_citation_metadata.py", "--apply"]),
             ("applying human authorities", ["scripts/apply_authorities.py", "--apply"]),
@@ -350,6 +351,10 @@ def run(args) -> None:
         if lint_rc != 0:
             print(f"=== lint flagged issues (exit {lint_rc}) — see console log; not "
                   f"treated as a batch failure ===", flush=True)
+
+        print(f"\n=== claim citations with no evidence marker ===", flush=True)
+        _run_chained_step([sys.executable, "-u", "scripts/check_evidence_markers.py"],
+                          SCRAPE_CONSOLE_LOG_PATH)
 
         print(f"\n=== citation conflicts after this batch ===", flush=True)
         _run_chained_step([sys.executable, "-u", "scripts/check_citations.py"],
