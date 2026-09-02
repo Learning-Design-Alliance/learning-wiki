@@ -1,5 +1,5 @@
 ---
-type: strategy
+type: method
 id: family-interview-based-assessment-task-design
 title: Family-Interview-Based Assessment Task Design
 description: A design process for building formative assessment tasks that reveal disciplinary competence (e.g., computational thinking) embedded in a specific community's everyday practices, by interviewing families to surface funds of knowledge before designing the task.
@@ -16,7 +16,7 @@ sources:
 
 # Family-Interview-Based Assessment Task Design
 
-> **Strategy** · [All strategies](index.md)
+> **Design Method** · [All design methods](index.md)
 
 ## Description
 Rather than designing generic "culturally relevant" assessment tasks in advance, this strategy has instructors (ideally the classroom teachers themselves, not only researchers) conduct family interviews to surface [funds of knowledge](../theories/funds-of-knowledge.md) — specific household and community practices — then extract vignettes that connect those practices to target disciplinary concepts, and co-design and iteratively test assessment tasks built around them (e.g., a "bus riding" task embedding sequencing and data reasoning, drawn from a family's actual daily commute practices).
@@ -45,7 +45,7 @@ Rather than designing generic "culturally relevant" assessment tasks in advance,
 4. Pilot-test tasks via clinical interviews with children, iterating on task design for engagement, cultural alignment, and whether it actually reveals the intended disciplinary reasoning.
 5. Have teachers themselves conduct at least some family interviews, and pair this with explicit follow-up support on generalizing an asset-based stance to families they have not personally interviewed.
 
-## Related Strategies
+## Related Methods
 - (none yet linked)
 
 ## Examples

@@ -3,7 +3,7 @@ type: strategy
 id: design-thinking
 title: Design Thinking
 description: A learner-centered innovation process — empathize, define, ideate, prototype, test — used as a learning strategy in which students solve open-ended, human-centered problems through iterative cycles of making and feedback.
-status: deprecated
+status: review
 generated:
   by: "claude/unspecified"
   at: 2026-09-02
@@ -13,11 +13,12 @@ generated:
 
 > **Strategy** · [All strategies](index.md)
 
-<!-- deprecated: superseded by patterns/design-thinking.md -->
-> **Superseded.** Design thinking is a whole-course design process, not a lesson-grain
-> activity recipe, so it now lives at [Design Thinking](../patterns/design-thinking.md)
-> as a `pattern` with `grain_size: course`. This page is kept for history: everything
-> below describes the learner-facing use, in which students run the cycle themselves.
+> **Not the design process.** This page is design thinking as a *learning* strategy —
+> students running the cycle on an authentic problem. The designer's process of the same
+> name is [Design Thinking](../processes/design-thinking.md), a `process`. This page was
+> briefly deprecated in favour of that one; it is restored, because they are two objects
+> and only the shared slug ever made them look like one. Ids are unique per kind, so each
+> resolves in its own namespace.
 
 ## Description
 Design Thinking organizes learning around a structured innovation process: empathizing with users, defining a problem, ideating solutions, prototyping, and testing. Learners work on authentic, open-ended problems where user needs — not textbook answers — drive the solution. The process is carried out in teams through rapid, iterative cycles in which early ideas are externalized as sketches or prototypes and revised based on user feedback.

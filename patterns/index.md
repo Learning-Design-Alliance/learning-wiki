@@ -2,7 +2,7 @@
 
 Reusable instructional designs at the lesson or unit level.
 
-**134 entries** · 0 stable · 95 in review · 39 drafts
+**125 entries** · 0 stable · 88 in review · 37 drafts
 
 ---
 
@@ -36,15 +36,12 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Competency-Based Learning](competency-based-learning.md) - Competency-Based Learning is a pattern that organizes progression around demonstrated competence on defined outcomes rather than uniform pacing.
 * [Concept Attainment](concept-attainment.md) - Learners infer the defining attributes of a concept by comparing labeled positive and negative examples, then test and refine their hypothesis.
 * [Constructive Alignment](constructive-alignment.md) - Constructive alignment coordinates intended learning outcomes, teaching activities, and assessment tasks so that what learners are asked to do, practice, and be graded on all demand the same cognitive work.
-* [Continuous Improvement of Learning Materials](continuous-improvement-of-learning-materials.md) - A post-release design process that treats a shipped course as a hypothesis under test — instrumenting materials so that use and outcome data are collected together, running short build–measure–learn cycles, and using RISE analysis to decide which resource to revise next.
 * [Cooperative Learning](cooperative-learning.md) - Cooperative learning structures small-group work so that members are positively interdependent, individually accountable, and taught explicit collaborative skills.
 
 #### D {: #letter-d }
 
-* [Data Wise Improvement Process](data-wise-improvement-process.md) - The Data Wise Improvement Process is an eight-step, team-based protocol for using student assessment data to drive instructional improvement in schools.
 * [Debate](debate.md) - Debate is the short-form canonical pattern for structured instructional argumentation around a contested question.
 * [Debate Format](debate-format.md) - Debate format is a structured discussion pattern in which learners prepare positions, present arguments, respond to opposing claims, and justify conclusions within a defined sequence.
-* [Design Thinking](design-thinking.md) - A course-grain design process — empathize, define, ideate, prototype, test — in which a learning experience is built from investigated learner need rather than from a content outline, and revised against evidence from learners before it is finalized.
 * [Develop Understanding](develop-understanding.md) - Develop Understanding is a lesson-scale pattern that moves learners from initial exposure to meaningful conceptual grasp by activating prior knowledge, introducing new ideas clearly, giving guided opportunities to use them, and then…
 * [Direct Instruction](direct-instruction.md) - Direct instruction is the short-form canonical pattern for explicit explanation, modeling, guided practice, and feedback.
 * [Discussion Group](discussion-group.md) - Discussion Group is a structured pattern for using small-group or whole-group talk to deepen understanding, surface interpretation, and test ideas in relation to a prompt or problem.
@@ -58,7 +55,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### F {: #letter-f }
 
-* [Faculty Course Design](faculty-course-design.md) - The design process as it actually runs in higher education — an instructor designing their own course, part-time, alongside teaching it, with a teaching centre consulting rather than approving, and revision happening between offerings rather than within a project.
 * [Flipped Classroom](flipped-classroom.md) - Flipped Classroom is a pattern that shifts some direct instruction or initial content acquisition outside class so that class time can be used for application, discussion, problem solving, and feedback.
 * [Flipped Learning](flipped-learning.md) - Flipped Learning is a pattern that moves some initial content exposure outside class so synchronous time can be used for application, discussion, and feedback.
 * [Formative Assessment](formative-assessment.md) - Formative Assessment is a pattern in which instruction repeatedly cycles through eliciting evidence, interpreting it, and adjusting teaching or learning before final evaluation.
@@ -90,7 +86,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### L {: #letter-l }
 
 * [LDA Reflection](lda-reflection.md) - LDA Reflection is a lightweight reflection pattern used to help learners pause after an activity, analyze what happened, and identify what to carry forward.
-* [Learner Experience Design (LXD)](learner-experience-design.md) - A user-centred course design process that treats usability as a pedagogical property rather than presentation polish — investigating learners, prototyping the experience, and testing it with real users, on the argument that effort spent operating the material is effort not spent learning.
 * [Learning-for-Use (LfU) Model](learning-for-use-lfu-model.md) - Learning-for-Use is a pattern for designing inquiry so that knowledge is learned in response to a meaningful need and then refined through application.
 
 #### M {: #letter-m }
@@ -134,9 +129,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Structured Academic Controversy](structured-academic-controversy.md) - Structured Academic Controversy is a discussion pattern in which learners examine opposing positions, advocate for one side, switch roles, and work toward a more integrated conclusion.
 * [Structured Academic Controversy (SAC)](structured-academic-controversy-sac.md) - Structured Academic Controversy is a discussion pattern in which learners examine a controversial issue by first preparing and advocating one side, then switching sides to argue the opposing position, and finally working toward a shared…
 * [Structured Peer Review](structured-peer-review.md) - Structured Peer Review is a pattern in which learners review one another's work using explicit criteria, provide feedback, and then use that feedback to revise.
-* [Successive Approximation Model (SAM)](successive-approximation-model.md) - An iterative, agile course design process that replaces a single analyse-build-evaluate pass with short rounds of design, prototype and review, starting from a collaborative Savvy Start and converging on a design by repeated approximation rather than by up-front specification.
 * [Summative Assessment](summative-assessment.md) - Summative Assessment is the pattern-level target for end-of-sequence judgment of learner performance against defined expectations.
-* [Systematic Instructional Design](systematic-instructional-design.md) - The objective-first design process — ADDIE and the Dick & Carey systems approach — in which instructional goals are analysed into subordinate skills, assessments are written from the objectives, instruction is built to serve them, and formative evaluation feeds revision before the design is released.
 
 #### T {: #letter-t }
 
@@ -176,7 +169,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Guided Equation Appropriation](guided-equation-appropriation.md) - A mentored research-apprenticeship sequence that first builds intuitive, mechanistic reasoning about a phenomenon's quantitative behavior, then introduces a formal equation, then guides the student through progressively deeper levels of reading comprehension of that equation.
 * [Herbart's Formal Steps](herbarts-formal-steps.md) - Johann Herbart's five-step lesson sequence — review, prepare, present, relate, apply — is one of the earliest systematic lesson-design patterns, built on the premise that new material must be deliberately connected to what a learner already knows.
 * [Heterogeneity-Seeking Modeling Curriculum](heterogeneity-seeking-modeling-curriculum.md) - A science modeling unit that deliberately maintains multiple, complementary model types for the same phenomenon — physical, computational, diagrammatic, embodied, observational — without converging students toward one canonical model, using open-ended facilitation prompts that ask what each model reveals rather than which model is correct.
-* [Humanizing Co-Design with Educators](humanizing-co-design-with-educators.md) - A co-design facilitation structure that deliberately makes space for educators' affective and relational experience — through shared contemplative practice, ritualized check-ins, and reflective field-note protocols — treating emotion as a design resource rather than a distraction.
 * [Hunter's Effective Teaching Model](hunters-effective-teaching-model.md) - Madeline Hunter's Effective Teaching Model (also called mastery teaching) combines several direct-instruction techniques into one lesson-length sequence — an anticipatory set, clear presentation in short pieces, whole-class checks for understanding, and brief interspersed independent practice with frequent feedback.
 * [Identity-Centered E-Textile Making](identity-centered-e-textile-making.md) - A maker pattern combining e-textiles (sewable circuits, LEDs, microcontrollers) with explicit invitation for participants to author identity into their design choices, so STEM making and identity expression develop together rather than separately.
 * [Intelligent Mixed-Reality Exhibit](intelligent-mixed-reality-exhibit.md) - A free-choice, hands-on exhibit augmented with computer-vision sensing and an animated character that runs a predict-observe-explain cycle over contrasting physical cases, then fades guidance into open-ended construction.
@@ -197,4 +189,3 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Synthetic Planning for Discovery-Oriented Writing](synthetic-planning-for-discovery-oriented-writing.md) - A writing-task design that deliberately withholds a detailed structural outline — asking writers only to state their overall goal before drafting — so that spontaneous, minimally-planned sentence production can generate new ideas, at the cost of initial text quality that must be repaired through global revision.
 * [Threading, Weaving, Patternmaking](threading-weaving-patternmaking.md) - A three-phase science unit sequence that moves learners from critical annotation of texts exposing embedded bias, through cross-source synthesis, to speculative multimedia redesign of a more just future.
 * [Three Practices for Ontological Alignment in Computational Modeling](three-practices-for-ontological-alignment-in-computational-modeling.md) - Three classroom practices — elevating student ideas that match a tool's representational units, explicitly testing links between conceptual and computational models, and introducing evidence that speaks directly to the tool's representational claims — for introducing a computational modeling tool so its structure aligns with students' existing thinking.
-* [Understanding by Design](understanding-by-design.md) - Wiggins and McTighe's backward design process plans a course or unit in three stages — identify desired results, determine acceptable evidence, then plan learning experiences — so that activities and assessments are derived from the learning goals rather than chosen first and justified afterward.

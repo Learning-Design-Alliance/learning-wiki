@@ -31,7 +31,10 @@ jobs:
       - name: Set up docs directory
         run: |
           mkdir -p docs
-          for dir in principles elements patterns strategies theories learner-variables claims branding; do
+          # The folder list is read from okf_lib rather than repeated here — this
+          # was the fifteenth hard-coded copy of it, and adding two kinds broke
+          # all three workflows at once because none of them knew.
+          for dir in $(python3 -c "import sys; sys.path.insert(0, 'scripts'); import okf_lib; print(' '.join(okf_lib.CONTENT_FOLDERS))") branding; do
             ln -s ../$dir docs/$dir
           done
           ln -s ../index.md docs/index.md

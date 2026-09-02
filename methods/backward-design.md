@@ -1,5 +1,5 @@
 ---
-type: strategy
+type: method
 id: backward-design
 title: Backward Design
 description: A curriculum planning strategy that begins by defining desired learning outcomes and acceptable evidence of achievement, then designs instruction last.
@@ -11,7 +11,7 @@ generated:
 
 # Backward Design
 
-> **Strategy** · [All strategies](index.md)
+> **Design Method** · [All design methods](index.md)
 
 ## Description
 Backward Design is a curriculum planning strategy in which the designer first identifies the desired learning results, then determines what evidence would demonstrate achievement of those results, and only then plans instructional activities. Developed by Wiggins and McTighe as "Understanding by Design," it reverses the common activity-first or content-first planning habit, ensuring that every lesson and assessment serves an explicit outcome.
@@ -53,7 +53,7 @@ Backward Design operationalizes [constructive alignment](../principles/clear-str
 3. **Plan learning experiences.** Sequence instruction (e.g., via [advance organizers](../elements/advance-organizers.md), [application](../elements/application.md) tasks, [coaching](../elements/coaching.md)) only where it produces the evidence defined in step 2.
 4. **Review alignment.** Audit every activity and assessment against the outcomes; revise or cut misaligned elements.
 
-## Related Strategies
+## Related Methods
 - [Understanding-by-Design units](../strategies/understanding-by-design-unit-template.md) — the operational unit template for this strategy *(if not yet present, see Wiggins & McTighe)*
 - Constructive alignment course design — the higher-education parallel developed by Biggs
 

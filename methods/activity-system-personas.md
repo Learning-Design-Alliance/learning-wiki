@@ -1,5 +1,5 @@
 ---
-type: strategy
+type: method
 id: activity-system-personas
 title: Activity-System Personas and Scenarios
 description: Building learner personas and design scenarios around the activity system a learner acts within — object, mediating tools, rules, community and division of labour — so that the design responds to what constrains the learner rather than to who they are demographically.
@@ -11,7 +11,7 @@ generated:
 
 # Activity-System Personas and Scenarios
 
-> **Strategy** · [All strategies](index.md)
+> **Design Method** · [All design methods](index.md)
 
 ## Description
 An ordinary [learner persona](learner-personas.md) describes a person: age, background, prior knowledge, goals, a photograph and a name. It is a real improvement on designing for nobody, and it has a characteristic weakness — it locates every design-relevant fact *inside the learner*. Read back later, it invites explanations of the form "Maria struggles because she is not confident", and confidence is not something a course can be pointed at.
@@ -62,7 +62,7 @@ The design payoff is that this account produces **actionable findings**. "Maria'
 - Scenarios usable as test cases in a usability or walkthrough session, rather than as illustration
 
 ### Instructions
-1. **Interview and observe** real learners, asking about the surrounding activity as much as the learning. [Learner and Context Analysis](learner-and-context-analysis.md), [Student Shadowing](student-shadowing-for-educator-insights.md), and empathy interviews are all suitable sources
+1. **Interview and observe** real learners, asking about the surrounding activity as much as the learning. [Learner and Context Analysis](learner-and-context-analysis.md), [Student Shadowing](../strategies/student-shadowing-for-educator-insights.md), and empathy interviews are all suitable sources
 2. **For each participant, record the six elements**: object, mediating tools, rules, community, division of labour, and the subject's own account of the difficulty. Quote where you can
 3. **Cluster by system, not by demographics.** Two learners with nothing biographical in common but the same object and the same binding rule belong to one persona; two learners of the same age and background with different objects do not
 4. **Write each persona** as a subject-in-a-system, with each element traceable to the sessions behind it. Mark anything inferred rather than heard as inferred
@@ -72,10 +72,10 @@ The design payoff is that this account produces **actionable findings**. "Maria'
 8. **Test with the scenarios.** They are the cases a walkthrough or usability session should run, in preference to invented happy paths
 9. **Revisit after a cohort.** A persona that no learner recognises is a hypothesis that failed, and should be corrected rather than kept for the deck
 
-## Related Strategies
+## Related Methods
 - [Learner Personas](learner-personas.md) — the base practice this extends; use it where context is not the problem
 - [Learner and Context Analysis](learner-and-context-analysis.md) — the analysis step that feeds this
-- [Student Shadowing](student-shadowing-for-educator-insights.md) — the observational source that most reliably surfaces rules and division of labour
+- [Student Shadowing](../strategies/student-shadowing-for-educator-insights.md) — the observational source that most reliably surfaces rules and division of labour
 - [Needs Analysis](needs-analysis.md)
 - [Cognitive Task Analysis](cognitive-task-analysis.md) — the same commitment to eliciting what is not volunteered, aimed at expertise rather than at context
 

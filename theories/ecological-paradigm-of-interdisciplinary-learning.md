@@ -51,7 +51,7 @@ This paradigm organizes design guidance around three recurring dilemmas, each wi
 - [Interdisciplinary Course-Based Research Experience](../patterns/interdisciplinary-course-based-research-experience.md) — a "human capital" content-dilemma response, using students' own disciplinary networks instead of pre-designed disciplinary content
 - [Organization Simulation for Interdisciplinary Learning](../patterns/organization-simulation-for-interdisciplinary-learning.md) — a pedagogy-dilemma response built around a shared simulated task and evolving knowledge objects
 - [Interdisciplinary Societal Dilemma Units](../patterns/interdisciplinary-societal-dilemma-units.md) — a "sandwich"-sequence content-dilemma response for K-12, paired with an organization-dilemma response (moving the program out of school)
-- [Humanizing Co-Design with Educators](../patterns/humanizing-co-design-with-educators.md) — an infrastructuring response that brings researchers and educators together as co-designers across institutional boundaries
+- [Humanizing Co-Design with Educators](../processes/humanizing-co-design-with-educators.md) — an infrastructuring response that brings researchers and educators together as co-designers across institutional boundaries
 - [Interdisciplinary humanities units improve students' interdisciplinary competences](../claims/interdisciplinary-humanities-units-improve-interdisciplinary-competences.md) — a "sandwich"-sequence content-dilemma response at the middle-school humanities level, with the strongest quantitative evidence among the studies this paradigm draws on
 
 ## Key Sources

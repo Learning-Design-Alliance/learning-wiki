@@ -41,7 +41,7 @@ The protocol works because it imposes cognitive discipline on a task — interpr
 
 ### Target Learners
 - Educator teams (PLC members, grade-level or department groups) analyzing common assessment data
-- School leadership teams using the [Data Wise improvement process](../patterns/data-wise-improvement-process.md)
+- School leadership teams using the [Data Wise improvement process](../processes/data-wise-improvement-process.md)
 - Students, in adapted form, reflecting on their own performance data [Assessment for learning improves achievement.](../claims/assessment-for-learning-improves-achievement.md) [+S]
 
 ### Target Learning Goals
@@ -60,7 +60,7 @@ The protocol works because it imposes cognitive discipline on a task — interpr
 - [Check-ins](../principles/check-ins.md) — the follow-up mechanism that closes the loop between dialogue and changed practice
 
 ## Examples
-- **[Data Wise improvement process](../patterns/data-wise-improvement-process.md)** (Harvard Graduate School of Education) — Data Driven Dialogue is a core protocol in the "Examine Student Learning Data" phase; see the [Data Wise Project](https://www.gse.harvard.edu/data-wise).
+- **[Data Wise improvement process](../processes/data-wise-improvement-process.md)** (Harvard Graduate School of Education) — Data Driven Dialogue is a core protocol in the "Examine Student Learning Data" phase; see the [Data Wise Project](https://www.gse.harvard.edu/data-wise).
 - **Lipton & Wellman's [Data-Driven Dialogue](https://miravia.com/data-driven-dialogue/)** workshops and facilitator guides used in PLCs across North America.
 - A grade-3 team predicts which word-problem types students will fail, observes item-level results, discovers their prediction was wrong, and revises their assumption about the source of errors before reteaching.
 

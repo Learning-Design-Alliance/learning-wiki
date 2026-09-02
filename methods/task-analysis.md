@@ -1,5 +1,5 @@
 ---
-type: strategy
+type: method
 id: task-analysis
 title: Task Analysis
 description: A systematic method for breaking down a complex skill or task into its component knowledge, skills, and decision points so instruction can be designed around what learners actually need to master.
@@ -11,7 +11,7 @@ generated:
 
 # Task Analysis
 
-> **Strategy** · [All strategies](index.md)
+> **Design Method** · [All design methods](index.md)
 
 ## Description
 Task analysis is the systematic decomposition of a target task into its constituent steps, subtasks, prerequisite knowledge, and — in its cognitive form — the invisible decisions and strategies experts use. It is carried out before instruction is designed, typically through expert interviews, observation, think-aloud protocols, or document analysis, and produces a structured map of what must be taught, sequenced, and practiced.
@@ -54,12 +54,12 @@ Task analysis is the diagnostic foundation of instructional design: without an a
 3. Elicit expert performance using [Think-Aloud](../elements/think-aloud.md) protocols and structured probes ("What were you noticing at that point?"), and observe real performance where possible.
 4. Decompose the task into steps, decisions, and prerequisite knowledge; chunk constituent skills into learnable units [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S].
 5. Validate the analysis with a second expert and against actual performance data, specifically hunting for omitted automatic steps.
-6. Use the analysis to sequence instruction — simple-to-complex whole tasks or part-task practice for high-load components [Part-task practice reduces load for novices.](../claims/part-task-practice-reduces-load-for-novices.md) [+M] — and to plan [Scaffolding](scaffolding.md) and fading.
+6. Use the analysis to sequence instruction — simple-to-complex whole tasks or part-task practice for high-load components [Part-task practice reduces load for novices.](../claims/part-task-practice-reduces-load-for-novices.md) [+M] — and to plan [Scaffolding](../strategies/scaffolding.md) and fading.
 
-## Related Strategies
+## Related Methods
 - [Learner Analysis](learner-analysis.md) — task analysis identifies what must be taught; learner analysis identifies who is being taught and what they already bring
 - [Sequencing](../principles/sequencing.md) — the analysis output is the primary input for ordering instruction
-- [Worked Examples](worked-examples.md) — the steps surfaced by task analysis become the content of worked demonstrations
+- [Worked Examples](../strategies/worked-examples.md) — the steps surfaced by task analysis become the content of worked demonstrations
 
 ## Examples
 - **[Four-Component Instructional Design](../patterns/4cid-four-component-instructional-design.md)** — the Ten Steps method operationalizes task analysis as its first phase: analyzing constituent skills and cognitive strategies to design whole-task learning tasks.

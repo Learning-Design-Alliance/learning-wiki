@@ -78,6 +78,8 @@ nav:
   - Elements: elements/index.md
   - Patterns: patterns/index.md
   - Strategies: strategies/index.md
+  - Design Processes: processes/index.md
+  - Design Methods: methods/index.md
   - Theories: theories/index.md
   - Learner Variables: learner-variables/index.md
   - Claims: claims/index.md

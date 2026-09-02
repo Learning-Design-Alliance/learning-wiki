@@ -1,5 +1,5 @@
 ---
-type: pattern
+type: process
 id: learner-experience-design
 title: Learner Experience Design (LXD)
 description: A user-centred course design process that treats usability as a pedagogical property rather than presentation polish — investigating learners, prototyping the experience, and testing it with real users, on the argument that effort spent operating the material is effort not spent learning.
@@ -13,7 +13,7 @@ grain_size: course
 
 # Learner Experience Design (LXD)
 
-> **Pattern** · [All patterns](index.md)
+> **Design Process** · [All design processes](index.md)
 
 ## Description
 Learner Experience Design imports the methods of user-centred design — user research, personas and scenarios, prototyping, usability testing, heuristic evaluation — into instructional design, and makes one substantive claim while doing it: **usability is not polish applied after the instruction, it is part of the instruction.**
@@ -75,8 +75,8 @@ LXD inherits the empathize-and-test moves from [Design Thinking](design-thinking
 ## Design
 
 ### Sequence
-1. **User research** — interviews, observation, diary or context inquiry with real learners. [Learner and Context Analysis](../strategies/learner-and-context-analysis.md), [Student Shadowing](../strategies/student-shadowing-for-educator-insights.md)
-2. **Model the learner** — [Learner Personas](../strategies/learner-personas.md), and where the context matters more than the individual, [personas situated in an activity system](../strategies/activity-system-personas.md); write the scenarios the design must serve
+1. **User research** — interviews, observation, diary or context inquiry with real learners. [Learner and Context Analysis](../methods/learner-and-context-analysis.md), [Student Shadowing](../strategies/student-shadowing-for-educator-insights.md)
+2. **Model the learner** — [Learner Personas](../methods/learner-personas.md), and where the context matters more than the individual, [personas situated in an activity system](../methods/activity-system-personas.md); write the scenarios the design must serve
 3. **Set experience criteria alongside learning objectives** — what a learner must be able to find, operate and complete, stated as testably as the objectives are
 4. **Prototype the experience** — a walkthrough of a whole week, with real content, at the fidelity needed to be tried
 5. **Usability-test with real learners** — think-aloud on genuine learning tasks; record where effort goes, not only whether the task completes
@@ -96,11 +96,11 @@ LXD inherits the empathize-and-test moves from [Design Thinking](design-thinking
 - **Where the platform is fixed**, the design work moves to what you control — naming, sequencing, chunking, the first five minutes of each week — which is where most avoidable interaction cost lives anyway
 - **For expert or returning audiences**, test for the opposite failure: scaffolding, hand-holding and mandatory sequencing that a competent learner has to fight through
 
-## Related Patterns
+## Related Processes
 - [Design Thinking](design-thinking.md) — the parent process; LXD is its empathy and testing moves with instruments attached
 - [Successive Approximation Model](successive-approximation-model.md) — supplies the iteration cadence LXD's test-and-revise loop needs
 - [Continuous Improvement of Learning Materials](continuous-improvement-of-learning-materials.md) — the same questions after release, answered with usage data
-- [Online Course Design](online-course-design.md)
+- [Online Course Design](../patterns/online-course-design.md)
 - [Systematic Instructional Design](systematic-instructional-design.md) — the derivation chain LXD assumes someone else has built; the two are complements, not rivals
 
 ## Examples

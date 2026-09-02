@@ -51,6 +51,18 @@ PAGE_TYPES = {
         "status_field": True,
         "list_drafts_in_index": False,
     },
+    "processes": {
+        "label": "Design Processes",
+        "description": "How a course gets designed — whole-process models a designer works through, "
+                       "rather than anything a learner meets.",
+        "status_field": True,
+    },
+    "methods": {
+        "label": "Design Methods",
+        "description": "The practices a design process is made of — analysis, elicitation, mapping "
+                       "and evaluation work done on the design, not in the classroom.",
+        "status_field": True,
+    },
     "theories": {
         "label": "Theories",
         "description": "Explanatory frameworks that ground principles and claims.",
@@ -80,8 +92,9 @@ PAGE_TYPES = {
     },
 }
 
-ROOT_INDEX_TYPES = ["principles", "elements", "patterns", "strategies", "theories",
-                    "learner-variables", "claims"]
+ROOT_INDEX_TYPES = ["principles", "elements", "patterns", "strategies",
+                    "processes", "methods",
+                    "theories", "learner-variables", "claims"]
 
 
 def get_page_meta(path: Path) -> dict:

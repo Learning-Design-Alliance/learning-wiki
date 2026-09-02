@@ -61,7 +61,7 @@ Unit-level graphic organizers function as [Advance Organizers](../elements/advan
 ## Related Strategies
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the organizer anchors new content to what students already know
 - [Chunking Content](../strategies/chunking-content.md) — the organizer defines the chunks; each lesson is one chunk within a visible whole
-- [Backward Design](../strategies/backward-design.md) — planning the organizer is a natural byproduct of designing the unit around its essential questions and assessments
+- [Backward Design](../methods/backward-design.md) — planning the organizer is a natural byproduct of designing the unit around its essential questions and assessments
 
 ## Examples
 - **History unit timeline:** a wall timeline of a World War II unit, with each lesson's events marked; the teacher points to "you are here" at the start of every class.

@@ -59,7 +59,7 @@ Visual schedules externalize temporal structure, reducing the working-memory and
 
 ## Related Strategies
 - [First-Then Boards](first-then_boards.md) — the minimal two-item form used to establish the schedule routine
-- [Task Analysis](task-analysis.md) — the method for decomposing routines into schedulable steps
+- [Task Analysis](../methods/task-analysis.md) — the method for decomposing routines into schedulable steps
 - [Token Economies](token-economies.md) — often paired so schedule completion earns reinforcement
 
 ## Examples

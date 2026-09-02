@@ -1,5 +1,5 @@
 ---
-type: strategy
+type: method
 id: learner-personas
 title: Learner Personas
 description: Learner personas are evidence-based composite profiles of representative learners used to ground design decisions in real audience characteristics.
@@ -11,7 +11,7 @@ generated:
 
 # Learner Personas
 
-> **Strategy** · [All strategies](index.md)
+> **Design Method** · [All design methods](index.md)
 
 ## Description
 A learner persona is a concise, evidence-based profile of a representative learner segment — typically including prior knowledge, goals, motivations, constraints, and access conditions — synthesized from learner data such as interviews, surveys, analytics, or enrollment records. Personas function as design artifacts: they give the design team a shared, concrete referent ("Would Amara, the working parent returning after ten years, be able to use this?") that replaces vague assumptions about "the average student."
@@ -55,9 +55,9 @@ Personas improve design decisions by forcing explicit, testable assumptions abou
 4. Walk each persona through the full learner journey — enrollment, first session, a difficult task, assessment — and log friction points.
 5. Validate: compare persona assumptions against actual learner data each term; retire or revise personas that no longer match.
 
-## Related Strategies
-- [Activating Prior Knowledge](activating-prior-knowledge.md) — personas specify what prior knowledge to activate and for whom
-- [Accommodating Processing Speed Challenges](accommodating_processing_speed_challenges.md) — personas surface learners who need these accommodations
+## Related Methods
+- [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — personas specify what prior knowledge to activate and for whom
+- [Accommodating Processing Speed Challenges](../strategies/accommodating_processing_speed_challenges.md) — personas surface learners who need these accommodations
 - [Check-Ins](../principles/check-ins.md) — ongoing learner data that tests whether personas still hold
 
 ## Examples

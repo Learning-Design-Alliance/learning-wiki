@@ -1,5 +1,5 @@
 ---
-type: strategy
+type: method
 id: cognitive-task-analysis
 title: Cognitive Task Analysis
 description: A family of interview and observation methods for eliciting the cues, judgements and decision rules an expert uses but cannot readily articulate — the tacit content that a procedural task analysis records as a single step.
@@ -11,7 +11,7 @@ generated:
 
 # Cognitive Task Analysis
 
-> **Strategy** · [All strategies](index.md)
+> **Design Method** · [All design methods](index.md)
 
 ## Description
 Ask an expert how they do something and they will describe the procedure. Watch them and you will see the procedure plus a great deal of judgement: which cue they attended to, which they dismissed, when they decided the situation had changed, what they were ready for that did not happen. Cognitive task analysis (CTA) is the set of methods for recovering that second layer.
@@ -65,12 +65,12 @@ The best-known packaging is **ACTA** — applied cognitive task analysis — a p
 7. **Convert it into design.** The demands table maps onto [Case Studies](../elements/case-studies.md) and scenario selection, [Think Aloud](../elements/think-aloud.md) modelling of the expert's reasoning, assessment items that require a judgement rather than a step, and the difficulty ordering for [simple-to-complex sequencing](../elements/simple-to-complex-sequencing.md)
 8. **Validate** the findings with an expert who was not interviewed
 
-## Related Strategies
+## Related Methods
 - [Task Analysis](task-analysis.md) — the procedural decomposition CTA extends; run it first to know where to look
 - [Learning Hierarchy Task Analysis](learning-hierarchy-task-analysis.md) — the prerequisite ordering of skills, the third of the three analyses
 - [Needs Analysis](needs-analysis.md) — establishes that the gap is worth closing before this is worth doing
 - [Learner and Context Analysis](learner-and-context-analysis.md)
-- [Exemplar Analysis](exemplar-analysis.md) — the artifact-side counterpart: what an expert *produced*, rather than how they decided
+- [Exemplar Analysis](../strategies/exemplar-analysis.md) — the artifact-side counterpart: what an expert *produced*, rather than how they decided
 
 ## Examples
 - **Clinical reasoning curricula** — CTA of diagnosis reveals the cue patterns that distinguish an experienced clinician's early hypothesis from a novice's exhaustive checklist, and turns them into case selection

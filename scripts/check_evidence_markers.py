@@ -44,7 +44,7 @@ from pathlib import Path
 
 WIKI_ROOT = Path(__file__).parent.parent
 CITING_KINDS = ("principles", "elements", "patterns", "strategies", "theories",
-                "learner-variables")
+                "learner-variables", "processes", "methods")
 
 CLAIM_LINK_RE = re.compile(r"\]\(<?(?:\.\./)?(?:/)?claims/([^)>#]+?)\.md(?:#[^)>]*)?>?\)")
 # [+S] [~M] [-W] — and [X] for "contradicted / discredited", which CLAUDE.md's

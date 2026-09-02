@@ -26,7 +26,7 @@ RTI replaces a wait-to-fail referral model with proactive, data-based prevention
 - Evidence-based Tier 2 and Tier 3 intervention programs delivered with documented fidelity
 - Regular progress monitoring (e.g., weekly or biweekly curriculum-based measurement) with explicit decision rules for tier movement
 - Time protected in the schedule for intervention blocks that do not displace core instruction
-- A team structure for reviewing data and making tier decisions ([Data-Wise Improvement Process](../patterns/data-wise-improvement-process.md))
+- A team structure for reviewing data and making tier decisions ([Data-Wise Improvement Process](../processes/data-wise-improvement-process.md))
 
 #### Constraints
 - Screening measures with poor predictive validity misidentify students, over-referring some and missing others [-M]

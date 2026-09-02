@@ -48,7 +48,7 @@ Reflection improves learning when it turns a past action or judgment into eviden
 
 ## Examples
 - Post-task reflection that identifies one strong move, one weak move, and one next adjustment.
-- [Humanizing Co-Design with Educators](../patterns/humanizing-co-design-with-educators.md) — uses a structured field-note reflection protocol to turn educators' own classroom experience into design input
+- [Humanizing Co-Design with Educators](../processes/humanizing-co-design-with-educators.md) — uses a structured field-note reflection protocol to turn educators' own classroom experience into design input
 
 ## Key Sources
 - Schon, D. A. (1983). *The reflective practitioner*. Basic Books.

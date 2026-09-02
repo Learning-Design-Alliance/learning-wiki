@@ -1,5 +1,5 @@
 ---
-type: pattern
+type: process
 id: design-thinking
 title: Design Thinking
 description: A course-grain design process — empathize, define, ideate, prototype, test — in which a learning experience is built from investigated learner need rather than from a content outline, and revised against evidence from learners before it is finalized.
@@ -13,7 +13,7 @@ grain_size: course
 
 # Design Thinking
 
-> **Pattern** · [All patterns](index.md)
+> **Design Process** · [All design processes](index.md)
 
 ## Description
 Design Thinking organizes the *design* of a course around five moves: empathize with the people who will learn, define the problem their situation actually poses, ideate broadly before committing, prototype cheaply, and test with real learners. Its defining commitment is that the design problem is discovered rather than assumed — the designer begins by investigating learners and their context, and treats the first course outline as a hypothesis to be falsified rather than a plan to be executed.
@@ -32,7 +32,7 @@ The same five moves are also used *with learners* — students empathizing with 
 - **At least one real test-and-revise cycle** before the design is committed
 
 #### Constraints
-- **Weak where the outcome is externally fixed.** Compliance, licensure and standards-aligned work start from a mandated goal set; the empathize–define moves have little to bite on, and a [standards crosswalk](../strategies/standards-crosswalk.md) is the honest starting point instead
+- **Weak where the outcome is externally fixed.** Compliance, licensure and standards-aligned work start from a mandated goal set; the empathize–define moves have little to bite on, and a [standards crosswalk](../methods/standards-crosswalk.md) is the honest starting point instead
 - **The empathy stage produces shallow insight without interview skill**, and shallow insight is more dangerous than none because it is documented
 - **Ritual risk**: teams pass through five labelled stages without any iteration, producing an engaging workshop and an unchanged design
 - **Costly at small grain.** For one lesson the full cycle rarely pays; the process assumes a design large enough that being wrong about the problem is expensive
@@ -72,11 +72,11 @@ The same five moves are also used *with learners* — students empathizing with 
 ## Design
 
 ### Sequence
-1. **Empathize** — investigate the learners and their situation directly. [Learner and Context Analysis](../strategies/learner-and-context-analysis.md), [Needs Analysis](../strategies/needs-analysis.md), and [Student Shadowing](../strategies/student-shadowing-for-educator-insights.md) are the concrete practices; interview protocols matter more than interview quantity
-2. **Define** — state the design problem as a point of view about a specific learner, and write down what would make it false. [Learner Personas](../strategies/learner-personas.md) and [personas situated in an activity system](../strategies/activity-system-personas.md) hold the finding in a form the rest of the design can be checked against
+1. **Empathize** — investigate the learners and their situation directly. [Learner and Context Analysis](../methods/learner-and-context-analysis.md), [Needs Analysis](../methods/needs-analysis.md), and [Student Shadowing](../strategies/student-shadowing-for-educator-insights.md) are the concrete practices; interview protocols matter more than interview quantity
+2. **Define** — state the design problem as a point of view about a specific learner, and write down what would make it false. [Learner Personas](../methods/learner-personas.md) and [personas situated in an activity system](../methods/activity-system-personas.md) hold the finding in a form the rest of the design can be checked against
 3. **Ideate** — generate several structurally different designs before evaluating any, so the first workable idea does not become the only one considered
 4. **Prototype** — build the cheapest artifact that can be wrong in public: a storyboard, one rough lesson, a walkthrough of the assessment
-5. **Test** — put it in front of real learners and collect task- and process-level evidence, not preference ratings. [Formative Evaluation](../strategies/formative-evaluation.md) is the established form of this move
+5. **Test** — put it in front of real learners and collect task- and process-level evidence, not preference ratings. Testing draft materials with real learners is the established form of this move
 6. **Iterate** — return to whichever earlier move the evidence indicts, including the problem statement
 
 ### Elements Used
@@ -92,12 +92,12 @@ The same five moves are also used *with learners* — students empathizing with 
 - **Where learners are unreachable**, substitute secondary evidence honestly and mark it as such: prior cohort data, support tickets, instructor accounts. Do not let a persona built from those read as one built from interviews
 - **Where the goals are externally fixed**, run the cycle on the *instruction* rather than the goals: the crosswalk fixes what must be learned, and empathy work still decides how
 
-## Related Patterns
+## Related Processes
 - [Systematic Instructional Design](systematic-instructional-design.md) — the objective-first contrast; strongest where design thinking is weakest
 - [Successive Approximation Model](successive-approximation-model.md) — shares the iterate-and-prototype commitment but keeps the problem statement fixed
 - [Learner Experience Design](learner-experience-design.md) — the closest sibling; LXD inherits design thinking's empathy and testing moves and adds usability method
 - [Continuous Improvement of Learning Materials](continuous-improvement-of-learning-materials.md) — what happens after a design ships, where design thinking's test move becomes permanent
-- [Understanding by Design](understanding-by-design.md) — an outcome-first process; see also [Backward Design](../strategies/backward-design.md)
+- [Understanding by Design](understanding-by-design.md) — an outcome-first process; see also [Backward Design](../methods/backward-design.md)
 
 ## Examples
 - **Stanford d.school K12 Lab** (https://dschool.stanford.edu) — publishes design challenge curricula and the compressed "wallet project" sprint

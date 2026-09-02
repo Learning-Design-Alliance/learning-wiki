@@ -44,6 +44,9 @@ import sys
 from collections import defaultdict
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).parent))
+import okf_lib as ok
+
 WIKI_ROOT = Path(__file__).parent.parent
 
 # The kinds a design document can name.
@@ -65,8 +68,10 @@ WIKI_ROOT = Path(__file__).parent.parent
 #
 # Theories stay out: nothing in the spec addresses one. A page type gains an
 # id when something outside the wiki depends on pointing at it.
-IDENTIFIED_TYPES = ("elements", "principles", "patterns", "claims", "learner-variables",
-                    "strategies")
+# Every content kind a design document can name, which is now every kind but
+# theories — nothing in the spec addresses one. processes and methods are here
+# because they are precisely what `realizes:` resolves to.
+IDENTIFIED_TYPES = tuple(f for f in ok.CONTENT_FOLDERS if f != "theories")
 
 ID_RE = re.compile(r"^id:[ \t]*([^\n]*)$", re.M)
 ALIASES_RE = re.compile(r"^aliases:[ \t]*(\[[^\]]*\])[ \t]*$", re.M)

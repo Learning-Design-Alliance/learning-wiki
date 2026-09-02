@@ -46,7 +46,7 @@ from pathlib import Path
 
 WIKI_ROOT = Path(__file__).parent.parent
 PAGE_TYPES = ("principles", "elements", "patterns", "strategies", "theories",
-              "learner-variables", "claims")
+              "learner-variables", "claims", "processes", "methods")
 
 _STOP = {"the", "and", "of", "in", "a", "an", "for", "on", "to", "with", "from",
          "how", "what", "when", "does", "by", "as", "at"}

@@ -58,7 +58,7 @@ Well-structured lessons support learning because they manage the learner's cogni
 6. Note timing and a fallback for each segment; identify in advance which segment can be cut or extended
 
 ## Related Strategies
-- [Backward Design](backward-design.md) — the curriculum-level planning method that lesson plans should serve
+- [Backward Design](../methods/backward-design.md) — the curriculum-level planning method that lesson plans should serve
 - [Formative Assessment](../patterns/formative-assessment.md) — the checks-for-understanding segments that make a plan responsive
 - [Direct Instruction](../patterns/direct-instruction.md) — a highly structured lesson pattern embodying small-step sequencing and guided practice
 - [Flipped Classroom](../patterns/flipped-classroom.md) — relocates first exposure out of the lesson so class time can be planned around practice

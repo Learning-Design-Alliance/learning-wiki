@@ -2,7 +2,7 @@
 
 Concrete teaching activity recipes — specific, implementable approaches.
 
-**2560 entries** · 0 stable · 2526 in review · 33 drafts · 1 deprecated
+**2548 entries** · 0 stable · 2517 in review · 31 drafts
 
 ---
 
@@ -43,7 +43,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Active Transitions](active-transitions.md) - Brief structured activities — physical, cognitive, or social — that fill the gaps between instructional segments, keeping learners engaged rather than idle.
 * [Actively Listen To What Students Say](actively_listen_to_what_students_say.md) - Give students full attention and respond to both the content and the affective signal of what they say, treating their contributions as evidence for instructional decisions.
 * [Activities for Student Self-Reflection](activities_for_student_self-reflection.md) - Structured activities that prompt students to examine their own learning processes, understanding, and progress in order to build metacognition and self-regulation.
-* [Activity-System Personas and Scenarios](activity-system-personas.md) - Building learner personas and design scenarios around the activity system a learner acts within — object, mediating tools, rules, community and division of labour — so that the design responds to what constrains the learner rather than to who they are demographically.
 * [Adaptive Learning](adaptive-learning.md) - A strategy in which instruction, task difficulty, or pacing adjusts dynamically to individual learner performance, typically via algorithmic or rule-based systems.
 * [Address Biases in the Use of Language and Symbols](address_biases_in_the_use_of_language_and_symbols.md) - Auditing and revising the language, examples, and symbols in learning materials and discourse so they are free from bias and stereotypes and respect diverse identities.
 * [Address Digital Literacy](address_digital_literacy.md) - Explicitly teach foundational digital skills and terminology rather than assuming learners already possess them.
@@ -141,7 +140,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [Backchannel Discussions](backchannel_discussions.md) - A backchannel is a secondary, text-based conversation running alongside a primary activity such as a lecture, presentation, or video.
 * [Background Knowledge Activation](background_knowledge_activation.md) - Before engaging in text-based discussions, instructors activate learners' background knowledge related to the text's setting and themes.
-* [Backward Design](backward-design.md) - A curriculum planning strategy that begins by defining desired learning outcomes and acceptable evidence of achievement, then designs instruction last.
 * [Badges](badges.md) - Badges are digital credentials that acknowledge learner work, awarded for achievement levels or additional contributions such as submitting drafts or sharing notes.
 * [Balanced Assessment System](balanced_assessment_system.md) - A coordinated system of formative, interim, and summative assessment designed so that assessment evidence continuously informs core instruction, not just end-of-course reporting.
 * [Balanced Classroom Decorations](balanced_classroom_decorations.md) - Curating the visual environment of a classroom so that displays support attention and belonging without creating distracting clutter.
@@ -340,7 +338,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Co-Teaching and Collaboration](co-teaching_and_collaboration.md) - Content teachers and language specialists jointly plan and deliver lessons that integrate content objectives with explicit academic-language objectives.
 * [Cognitive Apprenticeship](cognitive-apprenticeship.md) - A strategy that makes expert thinking visible through modeling, then supports learners through coached practice, articulation, reflection, and exploration as they move toward independent performance.
 * [Cognitive Strategy Instruction](cognitive-strategy-instruction.md) - Explicitly teaching learners cognitive strategies — such as summarizing, self-questioning, or problem decomposition — so they can independently perform complex cognitive tasks.
-* [Cognitive Task Analysis](cognitive-task-analysis.md) - A family of interview and observation methods for eliciting the cues, judgements and decision rules an expert uses but cannot readily articulate — the tacit content that a procedural task analysis records as a single step.
 * [Cognitively Demanding Tasks](cognitively_demanding_tasks.md) - Tasks that require learners to engage in non-routine reasoning, make connections among concepts, and explain their thinking rather than reproduce memorized procedures.
 * [Cognitively Guided Instruction](cognitively-guided-instruction.md) - A teacher professional development approach in which instruction is planned around detailed knowledge of how children naturally think about and solve mathematics problems.
 * [Coherence](coherence.md) - Removing extraneous words, images, sounds, and decorative material from instruction so that working memory is spent on the essential content.
@@ -564,6 +561,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Descriptive Feature Chart](descriptive_feature_chart.md) - A graphic organizer with horizontal and vertical axes used to build a structured descriptive model of an organism or object from direct observation.
 * [Design at the Margins](design_at_the_margins.md) - Designing learning environments by centering the needs and experiences of students at the edges of a community, on the premise that solutions serving the most marginalized serve everyone.
 * [Design Challenges](design-challenges.md) - Learners create an artifact or solution meeting specified criteria, driving learning through the decisions required to build it.
+* [Design Thinking](design-thinking.md) - A learner-centered innovation process — empathize, define, ideate, prototype, test — used as a learning strategy in which students solve open-ended, human-centered problems through iterative cycles of making and feedback.
 * [Designated Calm-Down Spot](designated_calm-down_spot.md) - Creating a designated calm-down spot is providing a safe and structured space within the classroom where students can go to regain control over their emotions.
 * [Designing Personalized Learning for Engagement](designing_personalized_learning_for_engagement.md) - Designing personalized learning so that choices are flexible and accessible to all learners, pairing personalization with Universal Design for Learning (UDL) to maximize engagement across ability levels.
 * [Desmos Classroom Activities](desmos-classroom-activities.md) - A strategy using Desmos Classroom's interactive, teacher-paced digital activities to make mathematical thinking visible, collect real-time student responses, and structure whole-class discussion.
@@ -1202,10 +1200,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Latin Prefixes, Suffixes, and Roots](latin-prefixes-suffixes-and-roots.md) - Direct teaching about the meaningful parts of words begins with the most common inflections, but then extends to prefixes, suffixes, and roots of Latin origin.
 * [Leaderboards](leaderboards.md) - Leaderboards showcase the distribution of point totals that learners have accumulated through various learning activities, leveraging competition to drive engagement.
 * [Learn About Students' Math Backgrounds](learn_about_students_math_backgrounds.md) - Systematically gathering information about learners' prior math instruction, informal skills, cultural number systems, and interests, then using that knowledge to tailor math instruction.
-* [Learner Analysis](learner-analysis.md) - Systematically gathering information about learners' prior knowledge, skills, motivations, and constraints to inform instructional design decisions.
-* [Learner And Context Analysis](learner-and-context-analysis.md) - Systematic investigation of learners' prior knowledge, characteristics, and the instructional environment before designing instruction, so that design decisions fit who will learn and where.
 * [Learner Choice as a Continuum](learner_choice_as_a_continuum.md) - Learner choice as a continuum positions autonomy on a graduated spectrum, moving from teacher-provided menus of options toward learner-driven purpose discovery, design, and self-regulation.
-* [Learner Personas](learner-personas.md) - Learner personas are evidence-based composite profiles of representative learners used to ground design decisions in real audience characteristics.
 * [Learner-Centric Approach](learner-centric_approach.md) - A learning approach where the problem is presented as an open-ended one, so there are several ways to solve it, with each solution leading to a different set of outcomes.
 * [Learner-Generated Examples](learner-generated_examples.md) - Provide opportunities for learners to generate their own examples of a concept.
 * [Learner-to-Learner (Peer) Feedback](learner-to-learner-peer-feedback.md) - Learners provide structured, constructive feedback on each other's work, acting as both givers and receivers of evaluative information.
@@ -1289,7 +1284,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Maintaining Sensitivity to Language Concerns](maintaining_sensitivity_to_language_concerns.md) - Tailoring instruction, materials, and classroom climate so that English learners are supported in acquiring English without being pressured to abandon their primary language.
 * [Make Learning Relevant](make_learning_relevant.md) - Teachers can boost student engagement and knowledge retention by connecting learning to students' interests, talents, learning styles, and sense of ownership in the education process.
 * [Make Ten](make-ten.md) - A mental math strategy in which learners decompose one addend to complete a ten before adding the remainder (e.g., 8 + 5 → 8 + 2 + 3 → 10 + 3 = 13).
-* [Make the Invisible Visible (Power Dynamics)](make-the-invisible-visible-power-dynamics.md) - A design strategy that surfaces and names power dynamics among stakeholders, making decision-making authority explicit and redistributing it across the design process.
 * [Make-Believe: Problem-Based Learning](make-believe-problem-based_learning.md) - Learners take on real-world roles and grapple with complex, open-ended problems collaboratively, using make-believe scenarios to make authentic challenges tractable in the classroom.
 * [Maker Spaces and Fab Labs](maker_spaces_and_fab_labs.md) - Establish physical spaces where learners can invent, design, and build things using a variety of materials and tools, from wood scraps to technology.
 * [Makerspaces](makerspaces.md) - A shared physical environment with tools and materials where learners design, build, and iterate on tangible projects through hands-on construction.
@@ -1474,7 +1468,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Narrative Advance Organizers](narrative_advance_organizers.md) - Narrative advance organizers involve storytelling at the beginning of a lesson to engage students and relate to important concepts.
 * [Natural Lighting](natural_lighting.md) - Designing learning spaces to maximize daylight exposure, which improves attention, mood, and achievement while reducing off-task behavior.
 * [Navigator-Tourist Peer Learning](navigator-tourist_peer_learning.md) - Pair struggling learners ('tourists') with learners who have mastered the content ('navigators'), with navigators responsible for teaching, clarifying, and keeping tourists on task.
-* [Needs Analysis](needs-analysis.md) - A systematic process for identifying the gap between current and desired performance and determining whether instruction is the right remedy.
 * [Needs and Wants Assessment with Likert Scales](needs_and_wants_assessment_with_likert_scales.md) - Using Likert scales and fill-in questions to gauge student interest and understanding allows educators to inform their planning based on student needs.
 * [Negotiated Grades](negotiated_grades.md) - Grades are negotiated between students and teachers according to agreed-upon learning goals and evidence of learning, converting assessment from a unilateral judgment into a dialogue.
 * [Nighttime Blue Light Reduction](nighttime_blue_light_reduction.md) - Reducing exposure to blue light from digital screens before bed improves sleep quality and quantity, protecting the memory consolidation processes on which learning depends.
@@ -2194,7 +2187,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Stand Up Sit Down](stand-up-sit-down.md) - A whole-body response game in which students stand or sit based on the (often disguised) value of a mentally computed number, turning fact retrieval into fast-paced kinesthetic practice.
 * [Standard Inverted Classroom](standard_inverted_classroom.md) - Learners study lecture videos and other materials before class, freeing class time for practice, application, and individualized support.
 * [Standard-Based Regrouping](standard-based_regrouping.md) - Form homogeneous groups based on learners' mastery of specific standards.
-* [Standards Crosswalk](standards-crosswalk.md) - Deriving a course's goal tree from an external framework — a standards set, competency model or certification blueprint — and carrying the framework's own codes through objectives, activities and assessment items so that coverage and provenance stay traceable in both directions.
 * [Standards-/Mastery-Based Grading](standards-mastery-based-grading.md) - Grades are assigned based on demonstrated mastery of explicitly stated learning objectives rather than accumulated points, averages, or compliance behaviors.
 * [Standards-Based Grading](standards-based-grading.md) - Shift from arbitrary points and percentages to evaluating students on mastery of specific learning standards, making expectations clear and grades meaningful.
 * [Standards-Based Grading](standards-based_grading.md) - Shift from arbitrary points and percentages to evaluating students on mastery of specific learning standards, making expectations clear and grades meaningful.
@@ -2308,7 +2300,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Talking to Young Children About Race and Racism](talking_to_young_children_about_race_and_racism.md) - Parents and caregivers initiate honest, developmentally appropriate conversations with young children about race, racism, and anti-racism, using media, books, and guided discussion.
 * [Targeted and Specific Communication with Families](targeted_and_specific_communication_with_families.md) - Tailoring message content, language, and mode to specific family populations — such as non-native English speakers, families from different cultural backgrounds, and families of students in special education — so that communication is clear, relevant, and actionable.
 * [Targeted Networking](targeted_networking.md) - Focusing relationship-building effort on specific people, groups, and activities aligned with one's goals and interests, prioritizing depth and shared purpose over breadth of contacts.
-* [Task Analysis](task-analysis.md) - A systematic method for breaking down a complex skill or task into its component knowledge, skills, and decision points so instruction can be designed around what learners actually need to master.
 * [Task Analysis](task_analysis.md) - Breaking a complex assignment into smaller, sequenced sub-tasks that learners can understand, sequence, and complete one at a time.
 * [Task Force Teams of Inquiry](task_force_teams_of_inquiry.md) - Small teams form (or are formed) around self-selected topics from a brainstorm list, then research, investigate, and present their findings.
 * [Task Management for Writing](task_management_for_writing.md) - Task management helps students plan, sequence, and monitor the work of a writing assignment — managing time, subtasks, and distractions — rather than treating writing as a single undifferentiated effort.
@@ -2617,8 +2608,4 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 ## Draft
 
-33 draft entries are currently omitted from this section page to keep the index navigable. Browse the folder directly or promote pages to `review` as they are curated.
-
-## Deprecated
-
-* [Design Thinking](design-thinking.md) - A learner-centered innovation process — empathize, define, ideate, prototype, test — used as a learning strategy in which students solve open-ended, human-centered problems through iterative cycles of making and feedback.
+31 draft entries are currently omitted from this section page to keep the index navigable. Browse the folder directly or promote pages to `review` as they are curated.

@@ -1,5 +1,5 @@
 ---
-type: strategy
+type: method
 id: needs-analysis
 title: Needs Analysis
 description: A systematic process for identifying the gap between current and desired performance and determining whether instruction is the right remedy.
@@ -11,7 +11,7 @@ generated:
 
 # Needs Analysis
 
-> **Strategy** · [All strategies](index.md)
+> **Design Method** · [All design methods](index.md)
 
 ## Description
 Needs analysis (often called needs assessment) is the front-end process of determining whether a performance gap exists, what causes it, and whether — and what kind of — instruction will close it. It gathers data from learners, performers, and stakeholders through interviews, surveys, observation, and document review, then maps findings to instructional or non-instructional interventions. It is carried out before design begins, so that subsequent decisions about objectives, [Practice](../elements/practice.md), and assessment are grounded in evidence rather than assumption.
@@ -55,10 +55,9 @@ Needs analysis protects against the most common instructional design failure: bu
 5. Write an instructional goal statement and validate it with stakeholders before moving to design ([Clear Structure](../principles/clear-structure.md) begins here — the goal statement becomes the spine of the design).
 6. Revisit the analysis after pilot testing; treat it as a hypothesis, not a verdict.
 
-## Related Strategies
-- [Learner Personas](../strategies/learner-personas.md) — a synthesis format for the audience data gathered during analysis
+## Related Methods
+- [Learner Personas](learner-personas.md) — a synthesis format for the audience data gathered during analysis
 - [Task Analysis](task-analysis.md) — the follow-on decomposition of the goal into component knowledge and skills
-- [Formative Evaluation](../strategies/formative-evaluation.md) — continues the evidence-gathering stance after design begins
 
 ## Examples
 - **Dick & Carey model** — the first step, "Identify Instructional Goals," is a needs analysis that derives goals from performance discrepancies rather than from content inventories.

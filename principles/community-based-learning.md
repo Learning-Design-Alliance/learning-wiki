@@ -72,7 +72,7 @@ Community-based learning is strongest when learners are not only consuming conte
 
 **Local inquiry with public-facing outcomes** — Learners investigate a neighborhood, organization, or social issue and present findings to a real audience rather than only to the instructor.
 
-**[Humanizing Co-Design with Educators](../patterns/humanizing-co-design-with-educators.md)** — Educators and researchers build shared community and responsibility across an extended co-design partnership.
+**[Humanizing Co-Design with Educators](../processes/humanizing-co-design-with-educators.md)** — Educators and researchers build shared community and responsibility across an extended co-design partnership.
 
 ## Key Sources
 - Eyler, J., & Giles, D. E. (1999). *Where's the learning in service-learning?* Jossey-Bass.

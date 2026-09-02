@@ -49,7 +49,7 @@ Fading operationalizes the [Scaffolding](../principles/scaffolding.md) principle
 - Self-regulated problem solving, when combined with faded [Self-Explanation](../elements/self-explanation.md) prompts
 
 ### Instructions
-1. Analyze the task and identify the steps learners must eventually perform independently ([Task Analysis](task-analysis.md))
+1. Analyze the task and identify the steps learners must eventually perform independently ([Task Analysis](../methods/task-analysis.md))
 2. Present a fully worked example with reasoning made visible ([Demonstration](../elements/demonstration.md), [Worked Examples](../principles/worked-examples.md))
 3. Present a completion problem with some steps omitted; require learners to supply the missing steps ([Practice](../elements/practice.md))
 4. Increase the proportion of omitted steps across successive tasks, choosing forward or backward fading based on which steps are hardest

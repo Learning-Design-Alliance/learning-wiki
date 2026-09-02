@@ -60,6 +60,8 @@ TYPE_LABELS = {
     "patterns": ("Pattern", "pattern"),
     "strategies": ("Strategy", "strategy"),
     "theories": ("Theory", "theory"),
+    "processes": ("Design Process", "process"),
+    "methods": ("Design Method", "method"),
     "learner-variables": ("Learner Variable", "learner-variable"),
     "claims": ("Claim", "claim"),
 }
@@ -72,11 +74,16 @@ TYPE_LABELS = {
 BANNER_RE = re.compile(r"^>\s*\*\*[^*]+\*\*\s*·\s*\[[^\]]*\]\(index\.md\)\s*$")
 
 
+# Where the folder name alone is ambiguous in prose. "All processes" could
+# be anything; "All design processes" says whose processes these are.
+PLURALS = {"processes": "design processes", "methods": "design methods"}
+
+
 def banner_for(folder: str) -> str:
     label, _ = TYPE_LABELS[folder]
     # "All principles", "All learner variables" — lowercase the label for
     # the link text so it reads as prose, not a second heading.
-    plural = folder.replace("-", " ")
+    plural = PLURALS.get(folder, folder.replace("-", " "))
     return f"> **{label}** · [All {plural}](index.md)"
 
 

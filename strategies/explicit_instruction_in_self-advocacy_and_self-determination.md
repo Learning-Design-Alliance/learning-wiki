@@ -22,7 +22,7 @@ Self-advocacy skills respond to the same instructional conditions as academic sk
 
 ### Context
 #### Requirements
-- A structured curriculum or lesson sequence that breaks self-advocacy into teachable components (e.g., [Task Analysis](task-analysis.md))
+- A structured curriculum or lesson sequence that breaks self-advocacy into teachable components (e.g., [Task Analysis](../methods/task-analysis.md))
 - [Modeling](../elements/modeling.md) of target skills, including [Think-Aloud](../elements/think-aloud.md) to expose the reasoning behind self-advocacy decisions
 - Guided [Practice](../elements/practice.md) with feedback, often through [Role-Play](role-play.md) or simulation
 - Authentic application opportunities — real IEP meetings, real accommodation requests, real goal-setting — not only classroom simulations

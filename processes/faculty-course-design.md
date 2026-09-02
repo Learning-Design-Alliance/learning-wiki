@@ -1,5 +1,5 @@
 ---
-type: pattern
+type: process
 id: faculty-course-design
 title: Faculty Course Design
 description: The design process as it actually runs in higher education — an instructor designing their own course, part-time, alongside teaching it, with a teaching centre consulting rather than approving, and revision happening between offerings rather than within a project.
@@ -13,7 +13,7 @@ grain_size: course
 
 # Faculty Course Design
 
-> **Pattern** · [All patterns](index.md)
+> **Design Process** · [All design processes](index.md)
 
 ## Description
 Most courses in higher education are not designed by instructional designers. They are designed by the person who will teach them, in the weeks before term, alongside a full teaching and research load, with no budget, no team and no client. A teaching and learning centre may consult, run a workshop or read a draft syllabus — but it advises, it does not approve, and the instructor holds the decision. This is the most common design process in the sector and it is a distinct pattern, not a degraded version of a professional one.
@@ -73,11 +73,11 @@ Treating it as an inferior [systematic process](systematic-instructional-design.
 
 ### Sequence
 1. **Start from the outcomes the course owes** — the catalogue description, the programme outcome map, the prerequisite it is for someone else's course. Write three to five course-level objectives. [Learning Objectives](../elements/learning-objectives.md)
-2. **Decide how each will be evidenced** before planning any week — [Backward Design](../strategies/backward-design.md), the move this pattern's whole cost-benefit argument rests on
+2. **Decide how each will be evidenced** before planning any week — [Backward Design](../methods/backward-design.md), the move this pattern's whole cost-benefit argument rests on
 3. **Map the course** — a one-page grid of weeks against objectives, assessments and workload, built before any week is written. Gaps and pile-ups are visible here and nowhere else
 4. **Write the syllabus as the design artifact** — sequence, assessment weights, policies and the rationale for them, in the document the institution already requires
 5. **Build one unit properly** and let it set the template, rather than building fourteen weeks at uniform shallow depth
-6. **Collect feedback early enough to use it** — a short mid-term check, not only the end-of-term evaluation. [Formative Evaluation](../strategies/formative-evaluation.md)
+6. **Collect feedback early enough to use it** — a short mid-term check, not only the end-of-term evaluation.
 7. **Consult** — the teaching centre, or a colleague running [peer observation](../strategies/peer-observation.md). One outside reader, once, catches the expert blind spot better than any amount of solitary revision
 8. **Record what to change while teaching it**, not at the end. The next offering is the revision cycle, and the memory does not survive it. [Reflective Practice](../strategies/reflective-practice.md)
 
@@ -95,12 +95,12 @@ Treating it as an inferior [systematic process](systematic-instructional-design.
 - **A team-taught or multi-section course** turns the syllabus into a coordination document, and the course map into the thing colleagues actually negotiate over
 - **Where a teaching centre offers a course design institute**, that is this pattern with the analysis and mapping steps given protected time — the single most effective intervention available, precisely because time, not skill, is the constraint
 
-## Related Patterns
+## Related Processes
 - [Understanding by Design](understanding-by-design.md) — the backward-design method the mapping step uses
 - [Systematic Instructional Design](systematic-instructional-design.md) — the full process this one approximates under a much smaller budget
 - [Continuous Improvement of Learning Materials](continuous-improvement-of-learning-materials.md) — what the one-offering revision cycle becomes when the course is instrumented
-- [Professional Development](professional-development.md) — the institutional route by which this pattern improves
-- [Online Course Design](online-course-design.md)
+- [Professional Development](../patterns/professional-development.md) — the institutional route by which this pattern improves
+- [Online Course Design](../patterns/online-course-design.md)
 
 ## Examples
 - **Teaching-centre course design institutes** — multi-day workshops in which faculty build the objective map and assessment plan with facilitation, then write the course

@@ -35,7 +35,7 @@ Professional development that engages teachers as active learners of the actual 
 
 #### Implementation Variability
 - **Content re-learning:** teachers solve the unit's problems before teaching it, anticipating student routes and errors
-- **Student-work study:** structured analysis of student work samples to surface misconceptions (as in CGI and [Data Wise](../patterns/data-wise-improvement-process.md))
+- **Student-work study:** structured analysis of student work samples to surface misconceptions (as in CGI and [Data Wise](../processes/data-wise-improvement-process.md))
 - **First-person learner experience:** teachers learn something genuinely new (a language, an instrument, coding) and document their own struggle to build empathy and [Self-Regulated Learning](../theories/self-regulated-learning.md) awareness
 - **Rehearsal and coaching:** practicing instructional moves with peers before live delivery, with feedback cycles
 

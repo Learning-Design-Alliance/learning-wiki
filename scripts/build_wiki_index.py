@@ -59,6 +59,8 @@ KINDS = {
     "elements": "element",
     "patterns": "pattern",
     "strategies": "strategy",
+    "processes": "process",
+    "methods": "method",
     "theories": "theory",
     "learner-variables": "learner-variable",
     "claims": "claim",

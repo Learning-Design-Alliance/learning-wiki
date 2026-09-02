@@ -1,5 +1,5 @@
 ---
-type: strategy
+type: method
 id: learner-analysis
 title: Learner Analysis
 description: Systematically gathering information about learners' prior knowledge, skills, motivations, and constraints to inform instructional design decisions.
@@ -11,7 +11,7 @@ generated:
 
 # Learner Analysis
 
-> **Strategy** · [All strategies](index.md)
+> **Design Method** · [All design methods](index.md)
 
 ## Description
 Learner analysis is the systematic collection and interpretation of information about the target audience before and during instruction: their prior knowledge, prerequisite skills, motivations, attitudes, language proficiency, and access constraints. It is carried out through pre-assessments, surveys, interviews, analysis of performance data, and observation, and its findings drive decisions about sequencing, scaffolding, pacing, and examples.
@@ -56,8 +56,8 @@ Learner analysis operationalizes the core finding that learning is a function of
 5. Build in re-assessment checkpoints and adjust scaffolding as learner expertise grows, avoiding the expertise reversal trap.
 6. Document the analysis and the design decisions it drove, so later revisions can test whether the assumptions held.
 
-## Related Strategies
-- [Learner and Context Analysis](../strategies/learner-and-context-analysis.md) — the broader Dick & Carey analysis that pairs audience data with environmental and task context
+## Related Methods
+- [Learner and Context Analysis](learner-and-context-analysis.md) — the broader Dick & Carey analysis that pairs audience data with environmental and task context
 - [Diagnostic Pre-Assessment](../strategies/diagnostic-pre-assessment.md) — the primary data-collection instrument for learner analysis
 - [Differentiated Instruction](../strategies/differentiated-instruction.md) — the instructional response when analysis reveals heterogeneous readiness
 

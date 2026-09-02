@@ -16,7 +16,15 @@ from pathlib import Path
 
 WIKI_ROOT = Path(__file__).parent.parent
 
-CONTENT_FOLDERS = ["principles", "elements", "patterns", "strategies", "theories", "learner-variables", "claims"]
+# The one list of content folders. Thirteen scripts each carried their own
+# copy of this before `processes` and `methods` were added, which is the same
+# shape of defect that left learner-variables out of build_indexes for weeks:
+# a set written down N times drifts at the first addition. The copies that
+# mean "every content folder" now derive from here; the ones that mean a
+# genuine subset derive from here too, minus what they exclude and why.
+CONTENT_FOLDERS = ["principles", "elements", "patterns", "strategies",
+                   "processes", "methods",
+                   "theories", "learner-variables", "claims"]
 
 WIKILINK_RE = re.compile(r"\[\[([^\]|#]+)(?:\|([^\]]*))?\]\]")
 TITLE_RE = re.compile(r"^# (.+)$", re.MULTILINE)
