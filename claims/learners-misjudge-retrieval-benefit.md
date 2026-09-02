@@ -12,6 +12,7 @@ evidence_strength: moderate
 # Learners Misjudge Retrieval Benefit
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Learners systematically underestimate how much they gain from retrieval practice and overestimate the benefit of restudying, so their study choices often diverge from what actually improves retention.
 

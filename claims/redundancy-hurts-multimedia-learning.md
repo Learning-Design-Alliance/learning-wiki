@@ -12,6 +12,7 @@ evidence_strength:
 # Redundancy Hurts Multimedia Learning
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Presenting the same information simultaneously in multiple channels — most commonly, on-screen text that duplicates narrated speech — impairs multimedia learning compared with presenting the information once.
 

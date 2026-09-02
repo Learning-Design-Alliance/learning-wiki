@@ -13,12 +13,14 @@ sources:
     title: "Akkerman, S., & Bruining, T. (2016). Multilevel boundary crossing in a professional development school partnership. *Journal of the Learning Sciences, 25*(2), 240-284. [https://doi.org/10.1080/10508406.2016.1147448](https://doi.org/10.1080/10508406.2016.1147448)"
     author: "Akkerman, S., & Bruining, T"
     q: 3
+    i: 2
     author: "Akkerman, S., & Bruining, T."
 ---
 
 # Boundary-crossing mechanisms unfold sequentially across levels, and broker centrality creates an involvement paradox
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
 
 A five-year case study of a school-university research partnership found that boundary-crossing mechanisms (coordination, identification, reflection, transformation) emerged in sequence rather than in parallel across institutional, interpersonal, and intrapersonal levels, that research topics needed visible connection to school priorities to sustain teacher engagement, and that the brokers who made the partnership work also, through their own centrality, limited broader involvement.
 

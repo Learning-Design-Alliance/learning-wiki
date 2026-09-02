@@ -12,6 +12,7 @@ evidence_strength: weak
 # Peer Assessment Structured Criteria Improve Learning
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Peer assessment produces more reliable judgments and better learning outcomes when reviewers are given explicit, structured criteria (rubrics, checklists, or sentence stems) rather than asked to evaluate open-endedly. The mechanism is attentional: criteria direct reviewers to specific dimensions of quality rather than leaving them to rely on general impressions.
 

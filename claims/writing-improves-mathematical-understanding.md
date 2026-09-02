@@ -12,6 +12,7 @@ evidence_strength: weak
 # Writing Improves Mathematical Understanding
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Writing about mathematical reasoning — explaining solutions, justifying steps, or keeping math journals — deepens conceptual understanding by forcing learners to articulate the *why* behind procedures, not just execute them.
 

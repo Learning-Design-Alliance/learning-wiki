@@ -12,6 +12,7 @@ evidence_strength: strong
 # Learning Styles Matching Yields No Benefit
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Matching instruction to a learner's purported "learning style" (visual, auditory, kinesthetic, etc.) does not improve learning outcomes; the widely used style-matching approach lacks credible experimental support.
 

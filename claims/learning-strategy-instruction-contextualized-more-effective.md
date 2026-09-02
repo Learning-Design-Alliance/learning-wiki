@@ -12,6 +12,7 @@ evidence_strength: weak
 # Strategy instruction is more effective when contextualized in authentic content-area tasks
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Strategy instruction is more effective when strategies are taught within authentic content-area tasks rather than as generic, decontextualized routines.
 

@@ -11,6 +11,8 @@ sources:
     title: "Alty, James L. (2002). Dual Coding Theory and Computer Education: Some Media Experiments To Examine the Effects of Different Media on Learning. ED-MEDIA 2002 World Conference on Educational Multimedia, Hypermedia & Telecommunications. Proceedings (14th, Denver, Colorado, June 24-29, 2002). [https://files.eric.ed.gov/fulltext/ED476964.pdf](https://files.eric.ed.gov/fulltext/ED476964.pdf)"
     author: Alty, James L
     q: 3
+    i: 2
+    n: 37
 id: media-combinations-affect-recall-and-retention
 evidence_strength: moderate
 ---
@@ -18,6 +20,7 @@ evidence_strength: moderate
 # Different media combinations significantly affect the recall and retention of information
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium · n=37
 
 How information is distributed across media channels (e.g., text, images, narration) changes how well learners recall and retain it, in line with the predictions of [Dual Coding Theory](../theories/dual-coding-theory.md).
 

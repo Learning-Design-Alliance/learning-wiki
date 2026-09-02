@@ -12,6 +12,7 @@ evidence_strength: moderate
 # Math Anxiety Degrades Performance
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Math anxiety — feelings of tension, apprehension, or dread when manipulating numbers or solving mathematical problems — impairs mathematical performance, primarily by consuming working memory resources needed for computation and reasoning. The impairment is situational rather than uniform: it emerges most strongly when evaluative pressure or high working memory demands collide with anxiety-generated load [~M].
 

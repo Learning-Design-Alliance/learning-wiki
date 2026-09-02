@@ -12,6 +12,7 @@ evidence_strength: insufficient
 # Explicit Handwriting Instruction Improves Legibility
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Direct, systematic teaching of letter formation — including modeling, guided practice, and feedback — produces more legible handwriting than incidental exposure or unguided practice alone.
 

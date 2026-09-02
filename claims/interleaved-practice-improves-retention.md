@@ -12,6 +12,7 @@ evidence_strength: moderate
 # Interleaved Practice Improves Retention
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Interleaving — mixing different problem types or categories within a practice session rather than blocking them by type — improves long-term retention and discrimination between concepts, even though learners often feel it is less effective during practice.
 

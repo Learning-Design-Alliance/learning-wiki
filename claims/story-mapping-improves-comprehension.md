@@ -12,6 +12,7 @@ evidence_strength:
 # Story Mapping Improves Comprehension
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Story mapping — a graphic organizer that makes a narrative's structure explicit (setting, characters, problem, goal, events, resolution) — supports learners in building a coherent situation model of a text. The claim applies to narrative text; it is not a claim about graphic organizers generally.
 

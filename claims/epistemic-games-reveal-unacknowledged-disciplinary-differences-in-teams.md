@@ -10,13 +10,18 @@ evidence_strength: moderate
 sources:
   - id: arthars-et-al-2024
     resource: "https://doi.org/10.1080/10508406.2024.2341390"
-    title: "Arthars, N., Markauskaite, L., & Goodyear, P. (2024). Constructing shared understanding of complex interdisciplinary problems: Epistemic games in interdisciplinary teamwork. Journal of the Learning Sciences, 33(2), 405-442."
+    title: "Arthars, N., Markauskaite, L., & Goodyear, P. (2024). Constructing shared understanding of complex interdisciplinary problems: Epistemic games in interdisciplinary teamwork. *Journal of the Learning Sciences, 33*(2), 405-442. [https://doi.org/10.1080/10508406.2024.2341390](https://doi.org/10.1080/10508406.2024.2341390)"
+    author: "Arthars, N., Markauskaite, L., & Goodyear, P"
+    q: 2
+    i: 2
+    n: 18 students across 4 graduate teams (3-5 students each), projects lasting 5-13 weeks, two Australian graduate interdisciplinary courses
     author: "Arthars, N., Markauskaite, L., & Goodyear, P."
 ---
 
 # Epistemic games reveal unacknowledged disciplinary differences in interdisciplinary teams
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium · n=18 students across 4 graduate teams (3-5 students each), projects lasting 5-13 weeks, two Australian graduate interdisciplinary courses
 
 Interdisciplinary student teams constructing a shared problem statement used five recurring, profoundly multimodal (not purely verbal) interaction moves — knowledge sharing, perspective-taking, simulation, knowledge validation, and negotiation — and these moves regularly surfaced disciplinary differences in what counts as trustworthy evidence and how quickly a problem framing should be treated as settled, but these differences were rarely explicitly discussed as disciplinary in origin.
 

@@ -15,11 +15,13 @@ sources:
     q: 4
     i: 3
     n: aggregated across ~40 studies
+    n: aggregated across ~40 studies
 ---
 
 # Illusory correlations, like the belief that a full moon affects behavior, persist through confirmation bias despite having no basis in evidence
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i3` large · n=aggregated across ~40 studies
 
 People can perceive a relationship between two variables that does not actually exist — an illusory correlation — and go on believing it even when the underlying rate of the supposedly-related behavior is constant.
 

@@ -25,6 +25,7 @@ sources:
 # Self Assessment Against Criteria Supports Self Regulated Learning
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 When learners evaluate their own work against explicit criteria (rubrics, checklists, exemplars), they develop the monitoring and judgment skills that underpin self-regulated learning. The claim concerns self assessment that is structured by external quality standards — not unguided self-rating, which tends to be inaccurate and self-serving.
 

@@ -13,12 +13,15 @@ sources:
     title: "Calor, S. M., Dekker, R., van Drie, J. P., & Volman, M. L. L. (2022). Scaffolding small groups at the group level: Improving the scaffolding behavior of mathematics teachers during mathematical discussions. *Journal of the Learning Sciences, 31*(3), 369-407. [https://doi.org/10.1080/10508406.2021.2024834](https://doi.org/10.1080/10508406.2021.2024834)"
     author: "Calor, S. M., Dekker, R., van Drie, J. P., & Volman, M. L. L"
     q: 3
+    i: 2
+    n: 4 seventh-grade mathematics teachers (109 students, 14 groups per condition), 5 lessons each on Early Algebra, Amsterdam
     author: "Calor, S. M., Dekker, R., van Drie, J. P., & Volman, M. L. L."
 ---
 
 # Group-level scaffolding training increases teacher process support and student participation
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium · n=4 seventh-grade mathematics teachers (109 students, 14 groups per condition), 5 lessons each on Early Algebra, Amsterdam
 
 Mathematics teachers coached to use the Small-Group Scaffolding Tool diagnosed the group's collective understanding and handed responsibility back to the group significantly more often than untrained teachers, gave content support less often, and drew substantially more students into each small-group interaction — but did not improve the contingency (accuracy of calibration) of the content support they did give.
 

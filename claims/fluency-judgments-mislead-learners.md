@@ -12,6 +12,7 @@ evidence_strength:
 # Fluency Judgments Mislead Learners
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Learners often use how easy material *feels* to process (fluency) as a proxy for how well they have learned it, which systematically distorts self-assessment and study decisions. The claim concerns the *diagnostic invalidity* of fluency as a cue: ease of processing correlates poorly with durable learning, and can even correlate negatively under common study conditions.
 

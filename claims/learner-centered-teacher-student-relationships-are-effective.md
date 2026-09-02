@@ -12,6 +12,7 @@ evidence_strength: weak
 # Learner-centered teacher–student relationships improve student outcomes
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 When teachers adopt learner-centered attitudes and practices — warmth, respect, responsiveness to individual needs, and shared decision-making — students show gains in motivation, engagement, and achievement. The claim concerns relational quality as a classroom condition, not a specific instructional technique.
 

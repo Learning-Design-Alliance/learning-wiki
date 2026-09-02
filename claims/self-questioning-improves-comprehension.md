@@ -12,6 +12,7 @@ evidence_strength: provisional
 # Self-questioning improves comprehension
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 When learners generate and answer their own questions during reading or study, their comprehension of the material improves relative to reading alone. The mechanism is generally understood as generative processing: posing questions forces learners to identify main ideas, connect them to prior knowledge, and monitor their own understanding.
 

@@ -12,6 +12,7 @@ evidence_strength: emerging
 # Segmentation Benefits Shrink With Expertise
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 The learning benefit of segmenting continuous instructional material (e.g., pausing animation or breaking narration into learner-paced segments) is largest for novices and diminishes — or reverses — as learner expertise increases.
 

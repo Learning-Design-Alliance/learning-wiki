@@ -13,12 +13,15 @@ sources:
     title: "Miller, E. A., & Li, T. (2026). Manufacturing authenticity as part of written PBL curriculum: Contrived versus spontaneous events. *Journal of the Learning Sciences, 35*(2), 319-366. [https://doi.org/10.1080/10508406.2025.2557896](https://doi.org/10.1080/10508406.2025.2557896)"
     author: "Miller, E. A., & Li, T"
     q: 2
+    i: 1
+    n: 1 classroom, 20 students, grade 3, bilingual context
     author: "Miller, E. A., & Li, T."
 ---
 
 # Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small · n=1 classroom, 20 students, grade 3, bilingual context
 
 Problem-based learning curricula are typically written to be authentic in advance ("contrived" authenticity — realistic scenarios embedded in the design), but when a teacher instead departs from the written sequence to respond to an unplanned, spontaneous real-world event connected to the unit's driving question, students can show deeper self-directed inquiry and engagement than the designed lessons produced — provided the teacher has both the curricular flexibility and the professional autonomy to make that departure.
 

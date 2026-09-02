@@ -12,6 +12,7 @@ evidence_strength:
 # Comparing contrasting cases improves learning
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Learners who compare two or more cases that differ on key features — rather than studying each case in isolation — more readily notice the deep structure that distinguishes the cases and transfer that structure to new problems. The claim concerns side-by-side or immediate sequential comparison of worked cases; it does not cover studying cases one at a time without comparison.
 

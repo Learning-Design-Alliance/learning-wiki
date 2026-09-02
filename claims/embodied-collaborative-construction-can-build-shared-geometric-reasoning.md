@@ -13,12 +13,15 @@ sources:
     title: "Palatnik, A., & Abrahamson, D. (2026). Building knowledge: The ecological dynamics of co-operative action in collaborative construction of body-scale geometric structures. *Journal of the Learning Sciences*. [https://doi.org/10.1080/10508406.2026.2622059](https://doi.org/10.1080/10508406.2026.2622059)"
     author: "Palatnik, A., & Abrahamson, D"
     q: 1
+    i: 0
+    n: 4 graduate students with embodied-cognition/STEM-education training
     author: "Palatnik, A., & Abrahamson, D."
 ---
 
 # Embodied collaborative construction can build shared geometric reasoning
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case · `i0` negligible · n=4 graduate students with embodied-cognition/STEM-education training
 
 When a group physically constructs a complex geometric structure without instructions, individual members' perceptual insights — communicated through combined gesture, speech, and material action — can sediment into shared, reusable structural concepts that the group later uses for formal geometric reasoning.
 

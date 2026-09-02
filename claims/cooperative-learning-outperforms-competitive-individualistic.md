@@ -12,6 +12,7 @@ evidence_strength: moderate
 # Cooperative learning outperforms competitive and individualistic goal structures
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Structuring learning tasks so that students work toward a shared goal with positive interdependence produces better achievement and relational outcomes than structures based on competition or purely individual work [+M]. The advantage is conditional on genuine interdependence and individual accountability, not on group seating alone [~M].
 

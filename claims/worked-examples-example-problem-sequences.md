@@ -11,6 +11,8 @@ sources:
     title: "Van Gog, T., Kester, L., & Paas, F. (2011). Effects of worked examples, example–problem, and problem–example pairs on novices' learning. *Contemporary Educational Psychology, 36*(3), 212–218. [doi:10.1016/j.cedpsych.2010.10.004](https://doi.org/10.1016/j.cedpsych.2010.10.004)"
     author: "Van Gog, T., Kester, L., & Paas, F"
     q: 3
+    i: 2
+    n: 48
 id: worked-examples-example-problem-sequences
 evidence_strength: moderate
 ---
@@ -18,6 +20,7 @@ evidence_strength: moderate
 # Example–problem sequences reduce cognitive load and improve learning outcomes
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium · n=48
 
 Learners who study worked examples before or interleaved with practice problems show lower cognitive load and higher performance than those who only solve problems.
 

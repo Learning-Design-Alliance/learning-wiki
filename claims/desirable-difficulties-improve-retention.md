@@ -12,6 +12,7 @@ evidence_strength:
 # Desirable Difficulties Improve Retention
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Introducing manageable obstacles during learning — such as generating answers rather than reading them, spacing study sessions, or interleaving problem types — can slow acquisition while improving long-term retention and transfer.
 

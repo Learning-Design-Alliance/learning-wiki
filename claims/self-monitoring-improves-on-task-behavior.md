@@ -12,6 +12,7 @@ evidence_strength: pending
 # Self Monitoring Improves On Task Behavior
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 When learners systematically observe and record their own attention or behavior (e.g., tallying whether they were on task at prompted moments), their on-task behavior increases. The claim concerns behavior change, not achievement: on-task behavior is the outcome, and its link to learning gains is a separate question.
 

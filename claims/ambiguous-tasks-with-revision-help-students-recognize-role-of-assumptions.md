@@ -13,12 +13,15 @@ sources:
     title: "Komatsu, K., Murata, S., Stylianides, A. J., & Stylianides, G. J. (2024). Introducing Students to the Role of Assumptions in Mathematical Activity. *Cognition and Instruction, 42*(2), 327-357. [https://doi.org/10.1080/07370008.2023.2293695](https://doi.org/10.1080/07370008.2023.2293695)"
     author: "Komatsu, K., Murata, S., Stylianides, A. J., & Stylianides, G. J"
     q: 3
+    i: 2
+    n: 2 fully analyzed episodes (38 grade-9 students; 22 grade-5 students), from 5 classes across 3 design cycles over 3 years, Japan
     author: "Komatsu, K., Murata, S., Stylianides, A. J., & Stylianides, G. J."
 ---
 
 # Ambiguous tasks with a revision step help students recognize the role of assumptions in mathematical activity
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium · n=2 fully analyzed episodes (38 grade-9 students; 22 grade-5 students), from 5 classes across 3 design cycles over 3 years, Japan
 
 Both grade 5 and grade 9 students, given a task with a deliberately unspecified local assumption, produced genuinely divergent, individually defensible answers, and through structured discussion and a task-revision sub-task, articulated both that a conclusion's truth depends on unstated assumptions and that reaching a shared answer requires making those assumptions explicit.
 

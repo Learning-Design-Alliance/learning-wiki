@@ -36,11 +36,13 @@ sources:
     q: 3
     i: 1
     n: large (aggregated across studies specifically in educational contexts)
+    n: large (aggregated across studies specifically in educational contexts)
 ---
 
 # Rewarding an already-intrinsically-motivating activity can reduce future engagement with it
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 4 studies · `q3` peer-reviewed experiment · `i1`–`i2`
 
 Known as the **overjustification effect**: when a person already finds a task interesting for its own sake, introducing an extrinsic reward for doing it can lower their later, unrewarded engagement with that same task — the external justification appears to crowd out the internal one. The effect is not universal; several conditions determine whether it appears.
 

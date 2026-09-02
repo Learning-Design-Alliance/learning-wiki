@@ -11,11 +11,15 @@ sources:
     title: "Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23-31. [https://doi.org/10.1207/S15326985EP3801_4](https://doi.org/10.1207/S15326985EP3801_4)"
     author: "Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J"
     q: 3
+    i: 2
+    n: multiple studies
   - id: renkl-atkinson-2003
     resource: "https://doi.org/10.1207/S15326985EP3801_3"
     title: "Renkl, A., & Atkinson, R. K. (2003). Structuring the transition from example study to problem solving in cognitive skill acquisition: A cognitive load perspective. *Educational Psychologist, 38*(1), 15-22. [https://doi.org/10.1207/S15326985EP3801_3](https://doi.org/10.1207/S15326985EP3801_3)"
     author: "Renkl, A., & Atkinson, R. K"
     q: 3
+    i: 2
+    n: multiple studies
 id: worked-examples-expertise-reversal
 evidence_strength: moderate
 ---
@@ -23,6 +27,7 @@ evidence_strength: moderate
 # Worked examples can become redundant or counterproductive for advanced learners.
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2` medium
 
 As learners develop stronger schemas in a domain, studying complete worked examples can shift from being supportive to being unnecessarily repetitive.
 

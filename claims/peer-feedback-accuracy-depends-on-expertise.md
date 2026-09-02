@@ -12,6 +12,7 @@ evidence_strength: weak
 # Peer Feedback Accuracy Depends On Expertise
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 The accuracy and usefulness of feedback that learners give to one another depends on the feedback-giver's domain expertise: novices often misdiagnose problems and endorse flawed work. The claim concerns the *accuracy* of the feedback given, not the *benefit* of receiving or producing it — those can diverge.
 

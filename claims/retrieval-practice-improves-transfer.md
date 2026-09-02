@@ -12,6 +12,7 @@ evidence_strength: provisional
 # Retrieval Practice Improves Transfer
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Practicing retrieval of learned material (rather than rereading or restudying) improves learners' ability to apply that knowledge to new problems and contexts, not just to recall it verbatim.
 

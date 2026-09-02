@@ -13,12 +13,15 @@ sources:
     title: "Sedawi, W., & Calabrese Barton, A. (2024). Toward epistemic justice in socio-scientific decision-making: How youth make sense of lively COVID-19 and vaccines data. *Journal of the Learning Sciences, 33*(4-5), 667-718. [https://doi.org/10.1080/10508406.2024.2381205](https://doi.org/10.1080/10508406.2024.2381205)"
     author: "Sedawi, W., & Calabrese Barton, A"
     q: 2
+    i: 1
+    n: 4 focal case studies (Wael, Rama, Qassem, Dima), drawn from a larger pool of 19 Palestinian-Arab minority youth in Israel within a broader 51-youth/45-adult multi-country project
     author: "Sedawi, W., & Calabrese Barton, A."
 ---
 
 # Agentic engagement with lively data supports epistemically just crisis sensemaking
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small · n=4 focal case studies (Wael, Rama, Qassem, Dima), drawn from a larger pool of 19 Palestinian-Arab minority youth in Israel within a broader 51-youth/45-adult multi-country project
 
 When official/institutional data about a crisis is incomplete, delayed, or inaccessible to a minoritized community, youth who take up active roles with data — researching, analyzing, authoring, and communicating it, rather than only receiving it — can use their own embodied and community experience as a legitimate epistemic resource, and can surface gaps and contradictions in dominant narratives that comparing across local, national, and global scales makes visible.
 

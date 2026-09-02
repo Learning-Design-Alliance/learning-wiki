@@ -12,6 +12,7 @@ evidence_strength: unestablished
 # Generation Effect Improves Retention
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Information that learners actively generate (completing a word, producing an answer, deriving a rule) is remembered better than information they passively read, even when generation takes longer or produces errors.
 

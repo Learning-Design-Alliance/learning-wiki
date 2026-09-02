@@ -12,6 +12,7 @@ evidence_strength: moderate
 # Cooperative Learning Improves Achievement
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Structured cooperative learning — small groups working interdependently toward shared goals with individual accountability — raises achievement relative to individualistic or purely competitive formats.
 

@@ -12,6 +12,7 @@ evidence_strength: moderate
 # Coherence Principle Irrelevant Material Hurts Learning
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Adding interesting-but-irrelevant text, images, sounds, or music to instructional materials typically impairs learning by consuming working-memory resources without supporting the learning goal.
 

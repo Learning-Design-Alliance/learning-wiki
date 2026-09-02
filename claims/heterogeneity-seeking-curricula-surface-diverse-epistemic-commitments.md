@@ -13,12 +13,15 @@ sources:
     title: "Pierson, A. E., Brady, C. E., Clark, D. B., & Sengupta, P. (2023). Students' Epistemic Commitments in a Heterogeneity-Seeking Modeling Curriculum. *Cognition and Instruction, 41*(2), 125-157. [https://doi.org/10.1080/07370008.2022.2111431](https://doi.org/10.1080/07370008.2022.2111431)"
     author: "Pierson, A. E., Brady, C. E., Clark, D. B., & Sengupta, P"
     q: 2
+    i: 2
+    n: 105 sixth graders across 6 implementations (33 focal students interviewed), one US public suburban middle school, 2018-2020
     author: "Pierson, A. E., Brady, C. E., Clark, D. B., & Sengupta, P."
 ---
 
 # Heterogeneity-seeking modeling curricula surface epistemic commitments in most students, including care-based commitments absent from prior frameworks
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium · n=105 sixth graders across 6 implementations (33 focal students interviewed), one US public suburban middle school, 2018-2020
 
 Interviews with 33 focal sixth-graders in a heterogeneity-seeking ecosystems modeling unit found that most students expressed one or more of four epistemic commitments (real-world connection, seeing/showing, controlling variables, caring for), including a "caring for" commitment with no direct analog in prior epistemic-cognition research, and that these commitments shaped model design decisions in ways the curriculum had not anticipated.
 

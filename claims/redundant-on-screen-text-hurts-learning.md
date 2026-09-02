@@ -12,6 +12,7 @@ evidence_strength: moderate
 # Redundant On Screen Text Hurts Learning
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Presenting the same words simultaneously as narration and as on-screen text can impair learning compared with narration alone, because learners waste limited attention switching between channels and re-processing identical information. This is the *redundancy effect*, one of the core effects predicted by [Cognitive Load Theory](../theories/cognitive-load-theory.md).
 

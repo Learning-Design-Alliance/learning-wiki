@@ -12,6 +12,7 @@ evidence_strength: moderate
 # Redundant on-screen text duplicates of narration or graphics impair learning
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Presenting the same information simultaneously as narration and verbatim on-screen text, or adding redundant text to an already comprehensible graphic, overloads working memory and typically lowers learning outcomes relative to narration-plus-graphics alone.
 

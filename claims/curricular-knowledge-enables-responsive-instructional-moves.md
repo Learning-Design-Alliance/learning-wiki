@@ -13,12 +13,15 @@ sources:
     title: "Robertson, A. D., Gray, K. E., Lovegren, C. E., Killough, K. L., & Wenzinger, S. T. (2021). Curricular Knowledge as a Resource for Responsive Instruction: A Case Study. *Cognition and Instruction, 39*(2), 149-180. [https://doi.org/10.1080/07370008.2020.1832096](https://doi.org/10.1080/07370008.2020.1832096)"
     author: "Robertson, A. D., Gray, K. E., Lovegren, C. E., Killough, K. L., & Wenzinger, S. T"
     q: 2
+    i: 2
+    n: 14 undergraduate Learning Assistants, three 10-week academic quarters, one introductory physics course sequence at a US university
     author: "Robertson, A. D., Gray, K. E., Lovegren, C. E., Killough, K. L., & Wenzinger, S. T."
 ---
 
 # Developing curricular design knowledge enables small-scale responsive adaptations within a structured curriculum
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium · n=14 undergraduate Learning Assistants, three 10-week academic quarters, one introductory physics course sequence at a US university
 
 Undergraduate physics Learning Assistants who developed a shared model of why a research-based tutorial curriculum's activities and question sequences were designed as they were subsequently made six distinct, responsive instructional moves — such as choosing when to intervene, referring students to other sections, and inventing on-the-fly activities — that they explicitly attributed to that knowledge.
 

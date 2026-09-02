@@ -12,6 +12,7 @@ evidence_strength: weak
 # Presenting multiple cases from different perspectives supports transfer in ill-structured domains
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Cognitive Flexibility Theory holds that ill-structured domains — where concepts vary unpredictably across situations — require learners to encounter the same content in multiple cases and from multiple conceptual perspectives, so knowledge is assembled flexibly rather than stored as a single oversimplified schema.
 

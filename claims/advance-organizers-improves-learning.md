@@ -12,6 +12,7 @@ evidence_strength:
 # Advance organizers improve learning
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 An [advance organizer](../elements/advance-organizers.md) is introductory material presented at a higher level of abstraction than the learning content itself, intended to bridge what learners already know and the new material (Ausubel, 1960). This page tracks the claim that their use improves learning outcomes.
 

@@ -12,6 +12,7 @@ evidence_strength:
 # Questioning Strategies Improve Learning
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Deliberate use of questions — posed before, during, or after instruction — improves learning by prompting retrieval, focusing attention, and stimulating elaboration. The scope of this claim covers teacher-posed and text-embedded questions across age groups and subject domains.
 

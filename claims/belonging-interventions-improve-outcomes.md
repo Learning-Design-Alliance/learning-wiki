@@ -12,6 +12,7 @@ evidence_strength: weak
 # Belonging Interventions Improve Outcomes
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Brief, targeted interventions that address students' doubts about whether they belong in school can improve academic outcomes, particularly during transitions and for students from groups subject to negative stereotypes about their ability.
 

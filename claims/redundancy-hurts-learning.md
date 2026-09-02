@@ -12,6 +12,7 @@ evidence_strength: moderate
 # Redundancy Hurts Learning
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Presenting the same information simultaneously in multiple formats — such as on-screen text that duplicates spoken narration, or labels that restate what a diagram already shows — imposes extraneous cognitive load and impairs learning relative to a single well-integrated presentation. This is the redundancy principle of [Cognitive Load Theory](../theories/cognitive-load-theory.md).
 

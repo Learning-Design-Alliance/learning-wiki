@@ -13,12 +13,15 @@ sources:
     title: "Lavie, I., & Sfard, A. (2019). How Children Individualize Numerical Routines: Elements of a Discursive Theory in Making. *Journal of the Learning Sciences, 28*(4-5), 419-461. [https://doi.org/10.1080/10508406.2019.1646650](https://doi.org/10.1080/10508406.2019.1646650)"
     author: "Lavie, I., & Sfard, A"
     q: 3
+    i: 2
+    n: 4 children (1 focal case followed in depth, 3 corroborating), ages 2(1)-4(6) across the sample
     author: "Lavie, I., & Sfard, A."
 ---
 
 # Numerical routines individualize through a three-stage sequence of vertical and horizontal bonding
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium · n=4 children (1 focal case followed in depth, 3 corroborating), ages 2(1)-4(6) across the sample
 
 A longitudinal teaching experiment tracing one child's numerical development over 18 months (corroborated by three additional cases) found a consistent three-stage sequence — unbonded precursor routines, then separately vertically-bonded quantitative and numerical routines, then horizontally-bonded coalescence into a discourse of cardinality — with the same qualitative sequence, though not the same pace, across all four children studied.
 

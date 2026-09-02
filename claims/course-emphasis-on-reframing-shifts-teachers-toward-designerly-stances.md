@@ -10,13 +10,18 @@ evidence_strength: moderate
 sources:
   - id: clark-et-al-2024
     resource: "https://doi.org/10.1080/10508406.2024.2397762"
-    title: "Clark, D. B., Scott, D., DiPasquale, J. P., & Becker, S. (2024). Reframing design in education: Proposing a framework to support pre-service teachers in adopting designerly stances. Journal of the Learning Sciences, 33(4-5), 613-666."
+    title: "Clark, D. B., Scott, D., DiPasquale, J. P., & Becker, S. (2024). Reframing design in education: Proposing a framework to support pre-service teachers in adopting designerly stances. *Journal of the Learning Sciences, 33*(4-5), 613-666. [https://doi.org/10.1080/10508406.2024.2397762](https://doi.org/10.1080/10508406.2024.2397762)"
+    author: "Clark, D. B., Scott, D., DiPasquale, J. P., & Becker, S"
+    q: 2
+    i: 2
+    n: 43 pre-service teachers (28 in course version 1, 15 in version 2)
     author: "Clark, D. B., Scott, D., DiPasquale, J. P., & Becker, S."
 ---
 
 # Course-based emphasis on reframing and stakeholder inquiry shifts pre-service teachers toward informed-designer stances
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium · n=43 pre-service teachers (28 in course version 1, 15 in version 2)
 
 Pre-service teachers move toward more "informed designer" stances — treating problems of practice as reframable, systemic, and stakeholder-centered rather than fixed and routine — when a design-focused course explicitly teaches problem reframing and stakeholder inquiry, and this shift is associated with teachers proposing more systemic and equity-oriented classroom interventions.
 

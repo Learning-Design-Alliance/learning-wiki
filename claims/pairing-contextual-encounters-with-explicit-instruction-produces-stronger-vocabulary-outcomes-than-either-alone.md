@@ -12,6 +12,7 @@ evidence_strength: weak
 # Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Vocabulary learning is strongest when learners meet words in meaningful contexts (reading, listening, use) *and* receive deliberate instruction on word meanings — neither incidental exposure nor isolated instruction alone matches the combination.
 

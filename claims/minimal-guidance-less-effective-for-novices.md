@@ -12,6 +12,7 @@ evidence_strength: moderate
 # Minimal guidance is less effective for novices than explicit instruction
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 For learners who lack relevant prior knowledge, discovery- or inquiry-style approaches with minimal instructional support produce weaker learning than approaches that provide explicit structure, modeling, and worked examples.
 

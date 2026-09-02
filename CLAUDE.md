@@ -682,6 +682,7 @@ ld-wiki/
     log_revision.py    ← records a revision card + updates a page's `generated` field + appends to log.md
     log_source_review.py ← appends one entry to sources/manifest.ndjson (see Source Manifest below)
     add_type_banner.py ← inserts/refreshes the page-type banner under each page's H1 (see below)
+    add_evidence_summary.py ← the `> **Evidence** ·` header line on claim pages (see below)
     update_links_for_renames.py ← after pages are renamed, re-points every inbound cross-link (see below)
     page_identity.py   ← stable `id:`/`aliases:` for the kinds design docs point at (see below)
     build_reverse_index.py ← who points at this page, as shippable data (see below)
@@ -1236,6 +1237,37 @@ with nothing next to them saying what the numbers mean. The tables were always h
 this file is in the nav as *Schema & Guide*, so it was a proximity problem, not a missing
 docs one. Not tooltips: the codes sit inside code spans, and neither `abbr` nor Material's
 tooltips reach inside a `<code>` element.
+
+**A claim's header states its weight.** `scripts/add_evidence_summary.py` puts a second
+banner line directly under the type banner, so an agent resolving `research:<claim-slug>`
+and a reader landing on the page both see what the claim rests on without scrolling:
+
+```markdown
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium · n=48
+```
+
+It reads the same `sources[]` codes, so the header cannot disagree with the entries it
+summarises. It **never collapses them into a verdict** — a claim resting on studies coded
+q2 and q4 reports `q2`–`q4`, not "moderate". That is what `evidence_strength:` tried and
+why it produced nineteen spellings; the range is derived, a verdict would be invented. And
+a claim with no coded evidence says `> **Evidence** · none recorded yet` rather than
+carrying no line: 313 of 422 claim pages are stubs, and "no line" cannot be told from "the
+script never ran here".
+
+**The codes line is written two ways, and the parser must read both.**
+
+```markdown
+`q3 · peer-reviewed experiment · i2 · medium effect · n=48`        one span
+`q3 · peer-reviewed experiment` · `i2 · medium effect` · `n=48`    three spans
+```
+
+The three-span form is **dominant — 108 entries against 22** — and the first version of
+`parse_evidence_codes` required a single span, so it captured `q` from both and `i`/`n`
+from only the 22, silently. It had been written from one example page without checking
+which spelling the corpus used. Fixed: it takes every backtick span on the codes line and
+looks for each code independently, recovering `i` and `n` on 121 entries. Coverage went
+from 143/22/22 to 149/149/143.
 
 **Impact magnitude (i):**
 | i | Rough effect size |

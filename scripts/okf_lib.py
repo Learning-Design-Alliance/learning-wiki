@@ -235,42 +235,51 @@ def parse_evidence_sources(evidence_section: str) -> list:
     return sources
 
 
-# `q3 · quasi-experimental study · i2 · large effect · n=large (many sections)`
-# — the codes line under an evidence entry's citation. The descriptions between
-# the codes are for a human and are not captured: they restate the tier in the
-# study's own words, and an agent that wants the tier's meaning should read
-# evidence-scales.json, which says it once rather than 143 times.
-EVIDENCE_CODES_RE = re.compile(
-    r"`\s*q\s*([0-9?])\s*(?:·[^·`]*)?"      # q3 · peer-reviewed experiment
-    r"(?:·\s*i\s*([0-9?])\s*(?:·[^·`]*)?)?"  # · i2 · large effect
-    r"(?:·\s*n\s*=\s*([^`]*))?`",            # · n=large (many sections)
-    re.S)
+# The codes line under an evidence entry's citation. It is written two ways,
+# and only one of them was handled at first:
+#
+#   `q3 · peer-reviewed experiment · i2 · medium effect · n=48`      one span
+#   `q3 · peer-reviewed experiment` · `i2 · medium effect` · `n=48`  three spans
+#
+# The three-span form is the DOMINANT one — 108 entries against 22 — and a
+# pattern requiring a single span captured q from both but i and n from only
+# the 22, silently. It was written from one example page without checking
+# which spelling the corpus actually used. So this now reads the codes line,
+# takes every backtick span on it, and looks for each code independently:
+# whichever way an author split the spans, the same three values come out.
+_CODE_SPAN_RE = re.compile(r"`([^`\n]+)`")
+_Q_RE = re.compile(r"(?:^|·)\s*q\s*([0-9?])(?![0-9A-Za-z])", re.I)
+_I_RE = re.compile(r"(?:^|·)\s*i\s*([0-9?])(?![0-9A-Za-z])", re.I)
+_N_RE = re.compile(r"(?:^|·)\s*n\s*=\s*([^·]*)", re.I)
 
 
 def parse_evidence_codes(block: str) -> dict:
     """{q, i, n} from an evidence entry's codes line, omitting what is absent.
 
-    The shorthand was designed to be read by an agent, and until now an agent
-    had to find it in prose — 143 of the 149 evidence entries carry a codes
-    line, and none of it reached frontmatter. Mirroring it into `sources[]`
-    puts it where the rest of the entry already is.
+    The shorthand was designed to be read by an agent, and until recently an
+    agent had to find it in prose. Mirroring it into `sources[]` puts it where
+    the rest of the entry already is.
 
     A `?` is preserved rather than dropped. `q?` means somebody looked and
     could not establish the tier, which is a different statement from an entry
     with no q at all, and collapsing the two would lose the only record that
     the question was asked — the same distinction as `crossref_reachable:
     false` against a missing field."""
-    m = EVIDENCE_CODES_RE.search(block or "")
-    if not m:
-        return {}
     out = {}
-    q, i, n = m.group(1), m.group(2), (m.group(3) or "").strip()
-    if q:
-        out["q"] = int(q) if q.isdigit() else q
-    if i:
-        out["i"] = int(i) if i.isdigit() else i
-    if n:
-        out["n"] = n
+    for line in (block or "").split("\n"):
+        spans = _CODE_SPAN_RE.findall(line)
+        if not any(_Q_RE.search(sp) for sp in spans):
+            continue          # not the codes line
+        for sp in spans:
+            for key, rx in (("q", _Q_RE), ("i", _I_RE)):
+                m = rx.search(sp)
+                if m and key not in out:
+                    v = m.group(1)
+                    out[key] = int(v) if v.isdigit() else v
+            m = _N_RE.search(sp)
+            if m and "n" not in out and m.group(1).strip():
+                out["n"] = m.group(1).strip()
+        break                 # first codes line wins
     return out
 
 

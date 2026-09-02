@@ -22,11 +22,13 @@ sources:
     q: 2
     i: 1
     n: synthesis across contributing studies
+    n: synthesis across contributing studies
 ---
 
 # Fluent bilingualism enhances metalinguistic awareness
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q2` quasi-experiment · `i1`–`i2`
 
 Students who are genuinely fluent in two languages — able to express the same concept in either — show an advantage in **metalinguistic awareness**: the ability to treat language itself as an object of thought, reflecting on how words and meanings relate rather than only using language to communicate. This is a specific cognitive benefit of *balanced* bilingualism, distinct from the general communicative advantage of simply knowing two languages.
 

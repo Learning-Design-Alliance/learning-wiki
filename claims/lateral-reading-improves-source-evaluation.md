@@ -12,6 +12,7 @@ evidence_strength: moderate
 # Lateral Reading Improves Source Evaluation
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Readers who evaluate an unfamiliar source by leaving it and checking what other sites say about it judge its credibility more accurately than readers who stay on the page itself.
 

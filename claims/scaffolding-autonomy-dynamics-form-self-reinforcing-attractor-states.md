@@ -10,13 +10,17 @@ evidence_strength: moderate
 sources:
   - id: kupers-et-al-2017
     resource: "https://doi.org/10.1080/10508406.2016.1259624"
-    title: "Kupers, E., van Dijk, M., & van Geert, P. (2017). Changing Patterns of Scaffolding and Autonomy During Individual Music Lessons: A Mixed Methods Approach. Journal of the Learning Sciences, 26(1), 131-166."
+    title: "Kupers, E., van Dijk, M., & van Geert, P. (2017). Changing Patterns of Scaffolding and Autonomy During Individual Music Lessons: A Mixed Methods Approach. *Journal of the Learning Sciences, 26*(1), 131-166. [https://doi.org/10.1080/10508406.2016.1259624](https://doi.org/10.1080/10508406.2016.1259624)"
+    author: "Kupers, E., van Dijk, M., & van Geert, P"
+    q: 2
+    i: 1
     author: "Kupers, E., van Dijk, M., & van Geert, P."
 ---
 
 # Teacher-student scaffolding and autonomy support co-evolve into self-reinforcing attractor states over sustained one-on-one instruction
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
 
 Eighteen months of video-coded individual music lessons across three teacher-student dyads showed each pair converging on a distinct, self-reinforcing interaction pattern (a directive/entrenched pattern, an unsettled pattern, or a positive "flow" pattern), with a student's initially low autonomy need predicting a more directive trajectory and a sudden large increase in teacher autonomy support failing to stick when it was too far outside the dyad's established pattern.
 

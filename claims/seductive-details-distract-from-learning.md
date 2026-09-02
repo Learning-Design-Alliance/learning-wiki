@@ -27,11 +27,13 @@ sources:
     q: 3
     i: 1
     n: moderate (college student sample)
+    n: moderate (college student sample)
 ---
 
 # Interesting but irrelevant details added to a lesson can distract from learning the material they were meant to enliven
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 3 studies · `q2`–`q3` · `i1`–`i2`
 
 Known in the literature as the **seductive details effect**: features added to instructional material specifically to arouse interest — jokes, colorful illustrations, vivid but tangential anecdotes — can, when they do not genuinely relate to the material's key content, create misunderstandings or draw attention away from what actually needs to be learned, even though the same features can genuinely help engagement when they are well-integrated.
 

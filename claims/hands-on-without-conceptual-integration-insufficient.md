@@ -12,6 +12,7 @@ evidence_strength: moderate
 # Hands On Without Conceptual Integration Insufficient
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Hands-on activity alone does not produce learning unless the activity is integrated with the concepts it is meant to teach — physical engagement must be connected to conceptual structure through reflection, explanation, or guidance.
 

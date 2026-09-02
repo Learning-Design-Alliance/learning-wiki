@@ -13,12 +13,15 @@ sources:
     title: "Wisittanawat, P., & Lehrer, R. (2024). Teacher Cultivation of Classroom Statistical Modeling Practice: A Case Study. *Cognition and Instruction, 42*(4), 505-547. [https://doi.org/10.1080/07370008.2024.2397969](https://doi.org/10.1080/07370008.2024.2397969)"
     author: "Wisittanawat, P., & Lehrer, R"
     q: 2
+    i: 1
+    n: "28 sixth-grade students (modal age 11, 72% eligible for lunch supplements), one classroom, 4 weeks (15 lessons)"
     author: "Wisittanawat, P., & Lehrer, R."
 ---
 
 # Dialogic teacher support cultivates all four aspects of statistical modeling practice over a multi-week unit
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small · n=28 sixth-grade students (modal age 11, 72% eligible for lunch supplements), one classroom, 4 weeks (15 lessons)
 
 Across a 4-week statistical modeling unit taught by a teacher with no specialized statistics training, nearly all identified classroom episodes involving one of four foundational modeling aspects also included an explicit, identifiable form of dialogic teacher support for that aspect, and students showed qualitative progress on all four aspects by the unit's end.
 

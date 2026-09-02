@@ -12,6 +12,7 @@ evidence_strength:
 # Testing Effect Improves Retention
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Retrieving information from memory (being tested) strengthens long-term retention of that information more than restudying the same material for an equivalent amount of time.
 

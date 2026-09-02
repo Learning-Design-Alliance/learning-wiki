@@ -12,6 +12,7 @@ evidence_strength: unrated
 # Self Assessment Improves Self Regulated Learning
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 When learners appraise the quality of their own work against criteria, they gain the evaluative information needed to plan, monitor, and adjust their studying — the core operations of [self-regulated learning](../theories/self-regulated-learning.md).
 

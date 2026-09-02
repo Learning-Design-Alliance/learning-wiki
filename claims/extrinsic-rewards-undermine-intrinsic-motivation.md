@@ -12,6 +12,7 @@ evidence_strength: weak
 # Extrinsic Rewards Undermine Intrinsic Motivation
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Offering external rewards (prizes, grades, points, payment) for an already-interesting activity can reduce learners' later voluntary engagement with that activity. The claim concerns free-choice persistence and interest after rewards are removed, not task performance while rewards are still available.
 

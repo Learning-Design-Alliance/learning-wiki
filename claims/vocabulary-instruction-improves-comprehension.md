@@ -12,6 +12,7 @@ evidence_strength:
 # Vocabulary Instruction Improves Comprehension
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Direct and indirect vocabulary instruction improves learners' text comprehension, with effects strongest when instruction targets high-utility words and includes multiple encounters in varied contexts. Scope covers both explicit teaching of word meanings and indirect buildup through rich contextual encounters during reading.
 

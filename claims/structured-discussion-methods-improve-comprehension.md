@@ -12,6 +12,7 @@ evidence_strength:
 # Structured Discussion Methods Improve Comprehension
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Structured discussion methods — such as Accountable Talk, reciprocal teaching, and structured academic controversy — organize classroom talk around explicit norms, roles, and prompts, with the aim of deepening learners' comprehension of texts and content. The claim concerns comprehension outcomes specifically, not general engagement or participation.
 

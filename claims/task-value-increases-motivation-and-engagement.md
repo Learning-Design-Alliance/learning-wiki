@@ -11,11 +11,15 @@ sources:
     title: "Eccles, J. S., & Wigfield, A. (2002). Motivational beliefs, values, and goals. *Annual Review of Psychology, 53*, 109–132. [https://doi.org/10.1146/annurev.psych.53.100901.135153](https://doi.org/10.1146/annurev.psych.53.100901.135153)"
     author: "Eccles, J. S., & Wigfield, A"
     q: 4
+    i: 2
+    n: N/A
   - id: wigfield-cambria-2010
     resource: "https://doi.org/10.1016/j.dr.2009.12.001"
     title: "Wigfield, A., & Cambria, J. (2010). Students' achievement values, goal orientations, and interest: Definitions, development, and relations to achievement outcomes. *Developmental Review, 30*(1), 1–35. [https://doi.org/10.1016/j.dr.2009.12.001](https://doi.org/10.1016/j.dr.2009.12.001)"
     author: "Wigfield, A., & Cambria, J"
     q: 3
+    i: 2
+    n: N/A
 id: task-value-increases-motivation-and-engagement
 evidence_strength: strong
 ---
@@ -23,6 +27,7 @@ evidence_strength: strong
 # Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q3`–`q4` · `i2` medium
 
 Task value is the learner's subjective appraisal of why a task is worth doing. Expectancy-value theory identifies four components: intrinsic value (the task is inherently interesting or enjoyable), attainment value (success matters to the learner's identity or self-concept), utility value (the task is useful for future goals), and cost (what must be given up to do it). Perceived value, combined with expectancy of success, predicts choice, persistence, and quality of engagement — not just whether a learner participates, but how much they invest.
 

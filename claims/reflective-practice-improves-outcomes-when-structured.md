@@ -12,6 +12,7 @@ evidence_strength: unrated
 # Reflective Practice Improves Outcomes When Structured
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Reflection improves learning and performance when it is prompted by structure — specific questions, frameworks, or prompts — rather than left as an unguided invitation to "think about your learning."
 

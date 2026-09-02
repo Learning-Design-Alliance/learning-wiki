@@ -12,6 +12,7 @@ evidence_strength: pending
 # Small Group Learning Improves STEM Achievement
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Learners working in small structured groups show higher achievement in science, technology, engineering, and mathematics than learners in whole-class or individual formats. The claim applies to *structured* small group learning — groups organized with positive interdependence, individual accountability, and explicit roles — not to grouping per se.
 

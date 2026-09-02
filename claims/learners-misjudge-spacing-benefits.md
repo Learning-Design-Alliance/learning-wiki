@@ -12,6 +12,7 @@ evidence_strength:
 # Learners Misjudge Spacing Benefits
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Learners systematically predict that massed practice will serve them better than spaced practice, even though spacing reliably produces stronger long-term retention — a metacognitive error that leads them to choose study schedules that undermine their own learning.
 

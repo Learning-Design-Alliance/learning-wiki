@@ -12,6 +12,7 @@ evidence_strength: moderate
 # Incidental Word Learning While Reading Occurs But At Low Rates Per Exposure
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Readers do acquire new word meanings as a byproduct of reading connected text, but the probability of learning a word from a single exposure is small — most estimates fall in the range of 5–15% per encounter, so multiple exposures across contexts are typically required for durable learning.
 

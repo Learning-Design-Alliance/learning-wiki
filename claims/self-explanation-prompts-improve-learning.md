@@ -12,6 +12,7 @@ evidence_strength:
 # Self Explanation Prompts Improve Learning
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Prompting learners to explain to themselves how new material relates to what they already know — and why steps in a solution or text make sense — improves learning outcomes relative to studying the same material without such prompts.
 

@@ -13,12 +13,15 @@ sources:
     title: "Sarfati-Shaulov, K., & Vedder-Weiss, D. (2025). Narrated pedagogical emotions as a resource for teacher professional learning. *Journal of the Learning Sciences, 35*(1), 1-41. [https://doi.org/10.1080/10508406.2025.2539845](https://doi.org/10.1080/10508406.2025.2539845)"
     author: "Sarfati-Shaulov, K., & Vedder-Weiss, D"
     q: 2
+    i: 1
+    n: 66 team meetings (64+ hours), 33 teacher groups, 17 Israeli elementary schools; 128 coded emotion-narrating stories, 492 emotion tokens
     author: "Sarfati-Shaulov, K., & Vedder-Weiss, D."
 ---
 
 # Elaborated discussion of narrated emotions supports teacher professional learning
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small · n=66 team meetings (64+ hours), 33 teacher groups, 17 Israeli elementary schools; 128 coded emotion-narrating stories, 492 emotion tokens
 
 Teachers rarely make their pedagogical emotions explicit in professional-learning conversations compared to how often they narrate thoughts and actions, and implicit "emotional rules" further suppress explicit discussion of negative emotions about students — but when a group does respond to a narrated emotion with elaborated, inquiry-oriented discussion (rather than brief acknowledgment or no response), that discussion can surface and examine beliefs in ways that support professional learning.
 

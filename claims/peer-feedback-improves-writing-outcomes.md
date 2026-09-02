@@ -12,6 +12,7 @@ evidence_strength: moderate
 # Peer Feedback Improves Writing Outcomes
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Structured peer feedback on writing can improve both the quality of revised drafts and students' broader writing competence, while also strengthening evaluative judgment [+M]. The claim concerns *structured* peer review — trained reviewers, criteria, and required revision — not informal peer commenting [~M].
 

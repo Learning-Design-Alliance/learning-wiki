@@ -12,6 +12,7 @@ evidence_strength: moderate
 # Interesting but irrelevant details impair learning
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Interesting but irrelevant text, pictures, or audio added to instructional materials impairs learning by diverting attention and working-memory resources away from the essential content. This is the "seductive details effect" — the general learning-science formulation of what multimedia researchers call the coherence principle.
 

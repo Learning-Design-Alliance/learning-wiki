@@ -12,6 +12,7 @@ evidence_strength:
 # Feedback Answers Three Questions
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Effective feedback answers three questions for the learner: *Where am I going?* (the goal), *How am I going?* (current progress relative to that goal), and *Where to next?* (what actions will close the gap). Feedback that addresses only one of these — or that directs attention to the self rather than the task — is less likely to improve learning.
 

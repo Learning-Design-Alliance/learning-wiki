@@ -12,6 +12,7 @@ evidence_strength: moderate
 # Self Regulation Strategy Instruction Improves Academic Performance
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Explicitly teaching learners self-regulation strategies — goal setting, planning, monitoring, and evaluating their own learning — raises academic performance compared with instruction that omits this training.
 

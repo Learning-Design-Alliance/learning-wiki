@@ -12,6 +12,7 @@ evidence_strength:
 # Learner Generated Organizers Beat Provided Organizers
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 This claim holds that organizers learners construct themselves (e.g., self-generated outlines, concept maps, advance-organizer summaries) produce better learning than equivalent organizers supplied to them, plausibly because generation forces active processing of relationships among ideas.
 

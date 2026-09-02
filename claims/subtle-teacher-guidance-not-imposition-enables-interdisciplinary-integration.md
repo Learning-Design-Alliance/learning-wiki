@@ -13,12 +13,15 @@ sources:
     title: "Schwarz, B., Heyd-Metzuyanim, E., Koichu, B., Tabach, M., & Yarden, A. (2024). Opportunities and hindrances for promoting interdisciplinary learning in schools. *Journal of the Learning Sciences, 33*(2), 242-283. [https://doi.org/10.1080/10508406.2024.2344809](https://doi.org/10.1080/10508406.2024.2344809)"
     author: "Schwarz, B., Heyd-Metzuyanim, E., Koichu, B., Tabach, M., & Yarden, A"
     q: 2
+    i: 2
+    n: "150 Grade 7 students across 4 Israeli schools, five out-of-school \"focus days\" (~30-35 hours total)"
     author: "Schwarz, B., Heyd-Metzuyanim, E., Koichu, B., Tabach, M., & Yarden, A."
 ---
 
 # Subtle teacher guidance, not imposition, enables interdisciplinary integration in small-group deliberation
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium · n=150 Grade 7 students across 4 Israeli schools, five out-of-school "focus days" (~30-35 hours total)
 
 Even after careful content, pedagogy, and organizational design, unguided student small-group discussion of interdisciplinary societal dilemmas stayed animated but "sterile" — students did not spontaneously integrate prior disciplinary learning into their reasoning. When a teacher noticed a student's partial, unprompted reference to disciplinary content and sharpened it with a targeted question, integration followed while dialogic quality was preserved; when a teacher instead interrupted with direct explanation, students resisted and talk shifted away from dialogic collaboration.
 

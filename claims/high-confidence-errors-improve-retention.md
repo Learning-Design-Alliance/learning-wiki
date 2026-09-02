@@ -11,11 +11,15 @@ sources:
     title: "Metcalfe, J. (2017). Learning from errors. *Annual Review of Psychology, 68*, 465–489. [https://doi.org/10.1146/annurev-psych-010416-044022](https://doi.org/10.1146/annurev-psych-010416-044022)"
     author: Metcalfe, J
     q: 4
+    i: 3
+    n: N/A
   - id: fazio-marsh-2009
     resource: "https://doi.org/10.3758/PBR.16.1.88"
     title: "Fazio, L. K., & Marsh, E. J. (2009). Surprising feedback improves later memory. *Psychonomic Bulletin & Review, 16*(1), 88–92. [https://doi.org/10.3758/PBR.16.1.88](https://doi.org/10.3758/PBR.16.1.88)"
     author: "Fazio, L. K., & Marsh, E. J"
     q: 3
+    i: 2
+    n: unspecified
 id: high-confidence-errors-improve-retention
 evidence_strength: strong
 ---
@@ -23,6 +27,7 @@ evidence_strength: strong
 # High-confidence errors lead to better retention after correction than low-confidence errors.
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q3`–`q4` · `i2`–`i3`
 
 The "hypercorrection effect" describes the phenomenon where errors committed with high confidence are more likely to be corrected and remembered accurately later than low-confidence errors, likely due to increased attention triggered by the surprise of being wrong.
 

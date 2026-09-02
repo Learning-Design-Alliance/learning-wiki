@@ -12,6 +12,7 @@ evidence_strength:
 # Elaborative Interrogation Improves Learning
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Elaborative interrogation — prompting learners to answer "why is this true?" or "why does this make sense?" about factual statements — supports learning by connecting new material to prior knowledge.
 

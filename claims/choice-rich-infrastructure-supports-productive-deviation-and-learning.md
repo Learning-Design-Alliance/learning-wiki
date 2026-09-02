@@ -13,12 +13,15 @@ sources:
     title: "Hilppö, J., & Stevens, R. (2024). Learning Inside the School, but Outside the Curriculum: An Extreme Case of Interest-Driven Learning in Alternative STEAM Learning Infrastructure for Schools. *Cognition and Instruction, 42*(4), 482-504. [https://doi.org/10.1080/07370008.2024.2386956](https://doi.org/10.1080/07370008.2024.2386956)"
     author: "Hilppö, J., & Stevens, R"
     q: 2
+    i: 1
+    n: 2 focal sixth-grade students (embedded within a larger ethnography of 7 studio implementations across 3 schools), one school year (2015-2016)
     author: "Hilppö, J., & Stevens, R."
 ---
 
 # Choice-rich infrastructure enables self-sustained, self-extending student projects well beyond a challenge's designed scope
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small · n=2 focal sixth-grade students (embedded within a larger ethnography of 7 studio implementations across 3 schools), one school year (2015-2016)
 
 Two sixth-grade students, given sustained access to a choice-rich, ungraded in-school STEAM infrastructure, extended a single game-design challenge into a year-long, self-directed project involving skills and practices the challenge never taught, encountering and independently resolving 23 discrete technical problems along the way.
 

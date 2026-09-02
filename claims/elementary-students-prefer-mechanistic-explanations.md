@@ -13,12 +13,15 @@ sources:
     title: "Shtechman, Y., Ergazaki, M., & Haskel-Ittah, M. (2025). Mechanistic reasoning in biology among elementary school children: Epistemic criteria for evaluation and construction. *Journal of the Learning Sciences, 34*(1), 35-70. [https://doi.org/10.1080/10508406.2024.2432682](https://doi.org/10.1080/10508406.2024.2432682)"
     author: "Shtechman, Y., Ergazaki, M., & Haskel-Ittah, M"
     q: 2
+    i: 2
+    n: 53 students, grades 2-6
     author: "Shtechman, Y., Ergazaki, M., & Haskel-Ittah, M."
 ---
 
 # Elementary students prefer and can evaluate mechanistic explanations using explanatory power and accuracy criteria
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium · n=53 students, grades 2-6
 
 Elementary-age children, across grades 2-6, accept and prefer [mechanistic explanations](../theories/mechanistic-reasoning.md) of biological phenomena over non-mechanistic (teleological or circular) ones significantly more often, applying an explanatory-power criterion tied to "how" question framing and an information-accuracy criterion grounded in their existing biological knowledge.
 

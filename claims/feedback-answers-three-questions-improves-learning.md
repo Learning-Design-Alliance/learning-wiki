@@ -12,6 +12,7 @@ evidence_strength:
 # Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Feedback is most effective when it tells learners the goal, their current status relative to that goal, and the next actionable step. The three questions — goal, gap, next step — form a loop that connects instruction to learning: without a goal, performance information has no reference point; without gap information, learners cannot calibrate; without a next step, feedback stops at evaluation.
 

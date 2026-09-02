@@ -12,6 +12,7 @@ evidence_strength:
 # Decorative Illustrations Do Not Improve Learning
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 This claim concerns *decorative* illustrations — images included for visual appeal, engagement, or page decoration rather than to carry instructional content. It does not apply to illustrations that explain or structure the material itself.
 

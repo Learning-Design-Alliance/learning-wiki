@@ -13,12 +13,14 @@ sources:
     title: "Nist, S. L., & Hogrebe, M. C. (1985). The Effects of High and Low Relevant Text Underlining on Test Performance. [ERIC ED265520](https://eric.ed.gov/?id=ED265520)"
     author: "Nist, S. L., & Hogrebe, M. C"
     q: 3
+    i: 0
     author: "Nist, S. L., & Hogrebe, M. C"
 ---
 
 # Prior knowledge is not significantly related to test performance in this sample
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
 
 In one study of text underlining, learners' prior knowledge scores did not correlate significantly with the number of test questions answered correctly. This is a narrow, sample-specific null finding — not evidence that prior knowledge is generally unrelated to learning.
 

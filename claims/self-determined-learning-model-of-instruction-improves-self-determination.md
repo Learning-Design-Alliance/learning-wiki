@@ -12,6 +12,7 @@ evidence_strength: pending
 # Self Determined Learning Model Of Instruction Improves Self Determination
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 The Self-Determined Learning Model of Instruction (SDLMI) is a teacher-implemented instructional model in which students set education or transition goals, construct action plans to attain them, and self-evaluate progress — with the intended outcome of enhanced self-determination.
 

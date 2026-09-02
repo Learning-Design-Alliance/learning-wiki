@@ -12,6 +12,7 @@ evidence_strength: weak
 # Self Monitoring Comprehension Improves Learning
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Learners who actively monitor their own comprehension — checking whether they understand, detecting gaps, and repairing them — learn more than learners who read or study passively.
 

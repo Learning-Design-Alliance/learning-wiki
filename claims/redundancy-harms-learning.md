@@ -12,6 +12,7 @@ evidence_strength: moderate
 # Redundancy Harms Learning
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Presenting the same information simultaneously in multiple formats — most commonly narrating on-screen text verbatim — imposes extraneous cognitive load and can impair learning relative to presenting the information once.
 

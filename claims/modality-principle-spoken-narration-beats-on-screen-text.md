@@ -12,6 +12,7 @@ evidence_strength: weak
 # Modality Principle Spoken Narration Beats On Screen Text
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Presenting words as spoken narration rather than as on-screen text improves learning from graphics-based multimedia, because narration and pictures can be processed in parallel by separate channels while text and pictures compete for the same visual channel.
 

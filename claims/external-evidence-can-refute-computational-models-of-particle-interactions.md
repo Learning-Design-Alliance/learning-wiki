@@ -10,13 +10,18 @@ evidence_strength: moderate
 sources:
   - id: wagh-et-al-2025
     resource: "https://doi.org/10.1080/07370008.2024.2427400"
-    title: "Wagh, A., Rosenbaum, L. F., Fuhrmann, T., Eloy, A., Blikstein, P., & Wilkerson, M. (2025). Toward Ontological Alignment: Coordinating Student Ideas with the Representational System of a Computational Modeling Unit for Science Learning. Cognition and Instruction, 43(1-2), 1-32."
+    title: "Wagh, A., Rosenbaum, L. F., Fuhrmann, T., Eloy, A., Blikstein, P., & Wilkerson, M. (2025). Toward Ontological Alignment: Coordinating Student Ideas with the Representational System of a Computational Modeling Unit for Science Learning. *Cognition and Instruction, 43*(1-2), 1-32. [https://doi.org/10.1080/07370008.2024.2427400](https://doi.org/10.1080/07370008.2024.2427400)"
+    author: "Wagh, A., Rosenbaum, L. F., Fuhrmann, T., Eloy, A., Blikstein, P., & Wilkerson, M"
+    q: 1
+    i: 2
+    n: 18 consented students (of 29 in the class), one sixth-grade classroom, one experienced teacher, 6-day unit
     author: "Wagh, A., Rosenbaum, L. F., Fuhrmann, T., Eloy, A., Blikstein, P., & Wilkerson, M."
 ---
 
 # External empirical evidence can refute a computational model of particle interactions when the model's own simulation cannot
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case · `i2` medium · n=18 consented students (of 29 in the class), one sixth-grade classroom, one experienced teacher, 6-day unit
 
 When a sixth-grade class's computational simulation of particle diffusion could not visually distinguish between a correct theory and a plausible but incorrect "infect" theory, a physical evaporation experiment that directly tested the underlying particle-level claim shifted a substantial share of students away from the incorrect theory.
 

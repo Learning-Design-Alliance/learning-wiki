@@ -11,11 +11,15 @@ sources:
     title: "Rittle-Johnson, B. (2017). Promoting self-explanation to improve mathematics learning: A meta-analysis and instructional design principles. *ZDM Mathematics Education, 49*(4), 599–611. [https://doi.org/10.1007/s11858-017-0834-z](https://doi.org/10.1007/s11858-017-0834-z)"
     author: Rittle-Johnson, B
     q: 3
+    i: 2
+    n: N/A
   - id: durkin-rittle-johnson-2012
     resource: "https://doi.org/10.1016/j.learninstruc.2011.11.001"
     title: "Durkin, K., & Rittle-Johnson, B. (2012). The effectiveness of using erroneous examples to support learning of decimal magnitude. *Learning and Instruction, 22*(3), 206–214. [https://doi.org/10.1016/j.learninstruc.2011.11.001](https://doi.org/10.1016/j.learninstruc.2011.11.001)"
     author: "Durkin, K., & Rittle-Johnson, B"
     q: 3
+    i: 2
+    n: 116
 id: erroneous-examples-build-conceptual-knowledge
 evidence_strength: moderate
 ---
@@ -23,6 +27,7 @@ evidence_strength: moderate
 # Erroneous examples improve conceptual understanding by forcing comparison with correct models.
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2` medium
 
 Studying a hypothetical peer's incorrect solution and being prompted to find, explain, and fix the error leads to deeper conceptual understanding, as it requires learners to discriminate between correct and incorrect features of a problem.
 

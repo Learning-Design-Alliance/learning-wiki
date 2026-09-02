@@ -12,6 +12,7 @@ evidence_strength: undetermined
 # Case-based learning improves exam performance
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 This claim concerns [case-based learning](../elements/case-based-learning.md) — instruction organized around the analysis of realistic, contextualized cases — and its effect on performance on course examinations relative to conventional instruction.
 

@@ -13,12 +13,15 @@ sources:
     title: "Kahn, J., & Hall, R. (2026). An oldtimer and newcomers telling stories about models using open large datasets. *Journal of the Learning Sciences*. [https://doi.org/10.1080/10508406.2026.2624531](https://doi.org/10.1080/10508406.2026.2624531)"
     author: "Kahn, J., & Hall, R"
     q: 2
+    i: 1
+    n: 27 prospective secondary teachers across two teacher-education courses (Mathematics Literacies, Human Geography)
     author: "Kahn, J., & Hall, R."
 ---
 
 # Personal connection to data supports critical data-literacy stance-taking
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small · n=27 prospective secondary teachers across two teacher-education courses (Mathematics Literacies, Human Geography)
 
 When learners recognize a personal or moral stake in what a dataset represents — rather than treating it as an abstract external phenomenon — they are more likely to question what the data selects, aggregates, and omits, and to narrate their model-building choices in ways that invite an audience to do the same.
 

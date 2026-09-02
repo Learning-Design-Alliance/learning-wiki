@@ -12,6 +12,7 @@ evidence_strength: strong
 # Systematic Phonics Improves Word Reading
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Systematic phonics instruction — teaching letter–sound correspondences in a planned, sequential progression with explicit practice — produces stronger word-reading outcomes than non-systematic or incidental approaches.
 

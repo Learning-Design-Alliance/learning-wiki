@@ -13,12 +13,15 @@ sources:
     title: "Peppler, K., & Thompson, N. (2024). Tools and materials as non-neutral actors in STEAM education. *Journal of the Learning Sciences, 33*(4-5), 719-756. [https://doi.org/10.1080/10508406.2024.2380694](https://doi.org/10.1080/10508406.2024.2380694)"
     author: "Peppler, K., & Thompson, N"
     q: 3
+    i: 2
+    n: 214 youth (ages 5-15) for the main comparison; n=49 for the sorting task
     author: "Peppler, K., & Thompson, N."
 ---
 
 # Material choice shapes conceptual learning and who feels invited to learn
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium · n=214 youth (ages 5-15) for the main comparison; n=49 for the sorting task
 
 Which physical materials a hands-on STEM task uses is not an interchangeable implementation detail: material affordances (e.g., whether a component only works in one orientation) drive how much conceptual learning happens, and materials culturally coded as "feminine" (e.g., sewing-based e-textiles) can produce equal or stronger conceptual learning than conventionally masculine-coded materials, contrary to common assumptions that arts-integrated or craft-based materials sacrifice rigor.
 

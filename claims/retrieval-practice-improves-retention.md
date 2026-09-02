@@ -12,6 +12,7 @@ evidence_strength: strong
 # Retrieval practice improves long-term retention
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Actively recalling information from memory (rather than rereading or reviewing it) strengthens long-term retention of that information. This is one of the most consistently replicated effects in cognitive psychology of learning, often called the "testing effect."
 

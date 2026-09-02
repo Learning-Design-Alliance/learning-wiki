@@ -12,6 +12,7 @@ evidence_strength: moderate
 # Cognitive Load Reduction Improves Learning
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Reducing extraneous cognitive load — the load imposed by how material is presented rather than its intrinsic difficulty — improves learning outcomes, particularly for novices.
 

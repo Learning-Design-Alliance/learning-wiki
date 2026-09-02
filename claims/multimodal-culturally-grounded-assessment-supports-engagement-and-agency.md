@@ -13,12 +13,14 @@ sources:
     title: "Champion, D., Solomon, F., & Lammey, M. (2025). Embodying physics assessment: Reimagining formative assessment as a creative, multimodal, and culturally sustaining dialogic practice. *Journal of the Learning Sciences, 34*(4), 474-525. [https://doi.org/10.1080/10508406.2025.2569583](https://doi.org/10.1080/10508406.2025.2569583)"
     author: "Champion, D., Solomon, F., & Lammey, M"
     q: 2
+    i: 0
     author: "Champion, D., Solomon, F., & Lammey, M."
 ---
 
 # Multimodal, culturally grounded formative assessment supports engagement and agency
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i0` negligible
 
 When formative assessment centers embodied, creative, and culturally familiar modes of expression (movement, music, vernacular language) and is framed as ongoing dialogue rather than performance evaluation, youth engage more openly with developing ideas and are more willing to share exploratory or incomplete thinking.
 

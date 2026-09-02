@@ -13,16 +13,21 @@ sources:
     title: "German, T. P., & Barrett, H. C. (2005). Functional fixedness in a technologically sparse culture. *Psychological Science, 16*(1), 1-5. [doi:10.1111/j.0956-7976.2005.00775.x](https://doi.org/10.1111/j.0956-7976.2005.00775.x)"
     author: "German, T. P., & Barrett, H. C"
     q: 2
+    i: 1
+    n: unreported in secondary source
   - id: arduini-van-hoose-classroom-example
     title: "Arduini-Van Hoose, N. (2020). Problem-solving. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0."
     author: Arduini-Van Hoose, N
     q: 1
+    i: 1
+    n: 1 classroom example
     author: "German, T. P., & Barrett, H. C."
 ---
 
 # Functional fixedness — treating an object's or idea's function as fixed — blocks solutions that require reinterpreting it.
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q1`–`q2` · `i1` small
 
 Functional fixedness is a tendency to regard the functions of objects and ideas as fixed — over time, people become so used to one particular purpose for an object that they overlook its other possible uses (a dictionary is "for" checking spelling, even though it could equally serve as a doorstop or gift). The same fixedness applies to how a problem itself is framed, not only to physical objects.
 

@@ -12,6 +12,7 @@ evidence_strength: pending
 # Strategy Instruction Needs Conditional Knowledge
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Teaching learners *when* and *why* to use a strategy — not just *how* — is required for strategy use to transfer beyond the training context. Conditional knowledge is what allows learners to select and adapt strategies independently rather than executing a memorized procedure on near tasks only.
 

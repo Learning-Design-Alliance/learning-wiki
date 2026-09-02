@@ -12,6 +12,7 @@ evidence_strength: unrated
 # Morphological Instruction Improves Literacy
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Explicit teaching of morphemes (roots, prefixes, suffixes) and how they combine to form words improves students' word reading, spelling, vocabulary, and comprehension outcomes.
 

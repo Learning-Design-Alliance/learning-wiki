@@ -12,6 +12,7 @@ evidence_strength: moderate
 # Multimedia Words Plus Images Beat Words Alone
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Adding relevant pictures, diagrams, or animations to verbal explanations (text or narration) produces better learning than words alone — the multimedia effect, a foundational prediction of [Cognitive Load Theory](../theories/cognitive-load-theory.md) and [Dual Coding Theory](../theories/dual-coding-theory.md).
 

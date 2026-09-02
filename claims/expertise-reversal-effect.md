@@ -11,6 +11,8 @@ sources:
     title: "Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23-31. [https://doi.org/10.1207/S15326985EP3801_4](https://doi.org/10.1207/S15326985EP3801_4)"
     author: "Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J"
     q: 3
+    i: 2
+    n: multiple studies
 id: expertise-reversal-effect
 evidence_strength: moderate
 ---
@@ -18,6 +20,7 @@ evidence_strength: moderate
 # Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium · n=multiple studies
 
 The expertise reversal effect describes a recurring pattern in instructional research: scaffolds, explanations, and worked examples that reduce cognitive load for novices lose value once learners have already internalized the underlying schema.
 

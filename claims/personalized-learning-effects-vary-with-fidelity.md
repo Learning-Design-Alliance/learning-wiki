@@ -12,6 +12,7 @@ evidence_strength: weak
 # Personalized Learning Effects Vary With Fidelity
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 The measured benefits of personalized learning depend heavily on how faithfully a program is implemented — effects observed in efficacy trials often shrink or disappear when implementation drifts from the intended design.
 

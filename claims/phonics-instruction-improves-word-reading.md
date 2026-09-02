@@ -12,6 +12,7 @@ evidence_strength:
 # Phonics Instruction Improves Word Reading
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Teaching learners to decode words by mapping letters and letter combinations to sounds produces stronger word-reading outcomes than instruction that omits or de-emphasizes these grapheme–phoneme relationships.
 

@@ -13,12 +13,15 @@ sources:
     title: "Dishon, G., Barzilai, S., & Yanai, J. V. (2024). Grasping Psychological Evidence: Integrating Evidentiary Practices in Psychology Instruction. *Cognition and Instruction, 42*(1), 56-91. [https://doi.org/10.1080/07370008.2023.2248641](https://doi.org/10.1080/07370008.2023.2248641)"
     author: "Dishon, G., Barzilai, S., & Yanai, J. V"
     q: 3
+    i: 2
+    n: 120 first-year undergraduates (24 groups of 5), one Introduction to Psychology course, Israeli research university
     author: "Dishon, G., Barzilai, S., & Yanai, J. V."
 ---
 
 # Collaborative critique-and-redesign instruction shifts students from a value-free view of objectivity toward a procedural one
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium · n=120 first-year undergraduates (24 groups of 5), one Introduction to Psychology course, Israeli research university
 
 After a semester of collaboratively critiquing and redesigning flawed psychological studies, introductory psychology students significantly increased their use of disciplinary evidence-evaluation ideals (valid methods, replication, procedural objectivity) and significantly decreased reliance on personal experience and a naive, value-free notion of objectivity — while their evaluation of *lay* evidence sources (source credibility, outlet reliability) did not significantly change.
 

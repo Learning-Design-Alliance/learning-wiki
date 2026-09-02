@@ -12,6 +12,7 @@ evidence_strength: moderate
 # Self Regulated Learning Strategies Improve Performance
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Teaching learners to plan, monitor, and evaluate their own learning — the core cycles of [self-regulated learning](../theories/self-regulated-learning.md) — raises academic performance across domains and age groups.
 

@@ -12,6 +12,7 @@ evidence_strength:
 # Manipulatives Require Connection To Concept
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Physical or visual manipulatives support learning only when learners are explicitly helped to connect the concrete object to the abstract concept it represents; the object alone does not carry the mathematics.
 

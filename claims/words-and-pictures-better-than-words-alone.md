@@ -12,6 +12,7 @@ evidence_strength: strong
 # Words and pictures are better than words alone
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 People learn better from words and pictures than from words alone. This is the multimedia principle: adding relevant visuals (illustrations, animations, diagrams) to verbal explanations improves learning, because visual and verbal channels together support richer mental model construction than words alone.
 

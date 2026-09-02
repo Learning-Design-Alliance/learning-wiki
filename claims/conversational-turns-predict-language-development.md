@@ -11,16 +11,21 @@ sources:
   - id: gabrieli-mit-mcgovern-institute
     title: Gabrieli, MIT McGovern Institute
     q: 2
+    i: 2
+    n: unreported in secondary source
   - id: hart-and-risley-1995
     title: "Hart, B., & Risley, T. R. (1995). *Meaningful differences in the everyday experience of young American children*. Paul H. Brookes."
     author: "Hart, B., & Risley, T. R"
     q: 2
+    i: 2
+    n: 42 families
     author: "Hart, B., & Risley, T. R."
 ---
 
 # Conversational turn-taking predicts language development better than raw word count or socioeconomic status.
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q2` quasi-experiment · `i2` medium
 
 The widely cited "30 million word gap" (Hart & Risley, 1995) framed early language disparities in terms of sheer quantity of words a child overhears. More recent research reframes the mechanism: the responsiveness and reciprocity of interaction — measured as conversational turns, not raw word count — is the stronger predictor of language-relevant brain development.
 

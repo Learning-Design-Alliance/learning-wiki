@@ -12,6 +12,7 @@ evidence_strength:
 # Writing Strategy Instruction Improves Writing Quality
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · none recorded yet
 
 Explicit instruction in planning, revising, and sentence-generation strategies — including self-regulation procedures — raises the quality of students' written compositions.
 

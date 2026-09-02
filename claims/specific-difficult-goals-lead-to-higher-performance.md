@@ -11,6 +11,8 @@ sources:
     title: "Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation: A 35-year odyssey. *American Psychologist, 57*(9), 705–717. [https://doi.org/10.1037/0003-066X.57.9.705](https://doi.org/10.1037/0003-066X.57.9.705)"
     author: "Locke, E. A., & Latham, G. P"
     q: 4
+    i: 3
+    n: N/A
 id: specific-difficult-goals-lead-to-higher-performance
 evidence_strength: strong
 ---
@@ -18,6 +20,7 @@ evidence_strength: strong
 # Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i3` large · n=N/A
 
 Setting clear, measurable, and challenging targets helps focus attention, increase effort and persistence, and encourages the development of effective task strategies.
 
