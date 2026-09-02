@@ -286,6 +286,17 @@ def main():
     print(f"\n  [index.md] root hub updated")
 
     total_pages = sum(c["total"] for c in counts.values())
+    # The reverse index is regenerated here rather than by its own step, so the
+    # committed copy tracks the same disk state the indexes do. Anything that
+    # adds or relinks a page already runs this script; a separate step is a
+    # step somebody forgets, and a stale reverse index is worse than none —
+    # the design-spec side reads it as fact and has no wiki checkout to
+    # check it against.
+    import subprocess, sys as _sys
+    print()
+    subprocess.run([_sys.executable, str(Path(__file__).parent / "build_reverse_index.py")],
+                   cwd=str(WIKI_ROOT))
+
     print(f"\nDone. {total_pages} content pages across {len(PAGE_TYPES)} types.")
 
 
