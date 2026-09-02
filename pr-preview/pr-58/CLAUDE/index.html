@@ -1586,10 +1586,21 @@ pipeline resolves design documents against this wiki: a pattern plan names
 <code>learner-variables/</code> slug. Its contract (that repo's <code>findings/0008</code>) opens with <strong>every
 page's id is stable and unique within its kind</strong> — because a rename breaks a course that
 has already shipped, silently, outside this repo.</p>
-<p>So the five kinds a design document can point at carry <code>id:</code> equal to their filename:
-<strong>elements, principles, patterns, claims, learner-variables</strong>. Strategies are reached
-through the reverse index rather than named, and theories are not addressed by the spec —
-a page type gains an id when something <em>outside</em> the wiki depends on pointing at it.</p>
+<p>So the six kinds a design document can point at carry <code>id:</code> equal to their filename:
+<strong>elements, principles, patterns, claims, learner-variables, strategies</strong>. Theories stay
+out — nothing in the spec addresses one. A page type gains an id when something <em>outside</em>
+the wiki depends on pointing at it.</p>
+<p><strong>Strategies were nearly left out, and that would have been wrong.</strong> <code>findings/0008</code>'s
+contract names only claim, pattern, element and principle slugs, and the reverse index
+reaches strategies without anyone naming them — so the first cut excluded all 2,557.
+<code>spec/patterns.md</code> then makes a phase name one outright:</p>
+<div class="highlight"><pre><span></span><code><span class="nt">phases</span><span class="p">:</span>
+<span class="w">  </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="nt">phase</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">Read the case</span>
+<span class="w">    </span><span class="nt">element</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">case-based-learning</span>
+<span class="w">    </span><span class="nt">strategy</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">chunked-reading-with-embedded-questions</span><span class="w">   </span><span class="c1"># a learning-wiki strategy slug</span>
+</code></pre></div>
+<p>whose <code>### Instructions</code> become that phase's authored brief. So a strategy rename breaks a
+shipped course exactly the way an element rename does.</p>
 <ul>
 <li><code>python3 scripts/page_identity.py --check</code> — report; <code>--apply</code> — stamp missing ids</li>
 <li><code>python3 scripts/lint.py --type identity</code> — id present, equal to the slug, and unique
@@ -1615,6 +1626,15 @@ written here — <code>page_identity.py</code> edits raw frontmatter text inline
 <code>ingest_extractions.py</code> builds pages through <code>okf_lib.dump_frontmatter</code>, which emits a
 block. A reader understanding only one would see no aliases on half the pages that have
 them: the rename would look recorded and still not resolve.</p>
+<p><strong>The spec reads exactly two things from wiki frontmatter: <code>id</code> and <code>type:</code>.</strong> Everything
+else it resolves is a <em>body section</em> — <code>### Instructions</code> for a phase's brief,
+<code>### Target Learners</code> and <code>### Target Learning Goals</code> for matching personas and goals,
+<code>#### Requirements</code>/<code>#### Constraints</code> as the applicability filter, <code>## Claims</code> with their
+inline markers, <code>## Examples</code> on a learner-variable. Those are at 100% and ~99.8% already,
+and <code>findings/0008</code> is explicit that they must stay prose: structuring them into YAML would
+lose the qualifications that make them useful. So there is no further frontmatter work for
+the pattern-building process — a <code>pattern</code> doc's <code>pedagogy:</code> block and a <code>pack</code>'s
+<code>elements:</code> live in those documents, not here.</p>
 <p><strong>Note:</strong> <code>verify_citation_edits.py</code> will trip on an id/alias pass — those are frontmatter
 edits, not citation edits, and it is a guard for citation tool runs only.</p>
 <hr />
@@ -2167,6 +2187,7 @@ author:
 <h3 id="strategy">Strategy<a class="headerlink" href="#strategy" title="Permanent link">&para;</a></h3>
 <div class="highlight"><pre><span></span><code>---
 type: strategy
+id: [strategy-slug]      # equal to the filename
 title: [Strategy Name]
 description: [One-sentence summary of what this strategy is]
 status: draft
