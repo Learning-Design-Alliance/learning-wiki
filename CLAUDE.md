@@ -430,6 +430,23 @@ already accepts for `sources:` mirroring the citations in `## Key Sources`: a st
 and a human-readable rendering of the same fact, kept in sync by a lint check rather than by
 dropping one.
 
+### Seeing the rest of the frontmatter
+
+The banner covers one field. `docs_hooks/page_metadata.py` — a native mkdocs hook, so no
+new dependency — appends a collapsed **Page metadata** panel to every content page with the
+whole block: `type`, `id`, `aliases`, `status`, who generated it and when, the `sources`
+count and ids, and anything else the page carries, including fields added to the schema
+later.
+
+It also renders the **trust tier** that CLAUDE.md derives from `verified` but nothing has
+ever displayed — unverified / machine-confirmed / human-reviewed. That turned out to matter
+immediately: **no page in the wiki carries a `verified:` entry.** The only match in the repo
+is the example in this file. Every one of the 3,721 content pages reads "unverified — no one
+has confirmed this page's content", which is accurate and was previously invisible.
+
+Index pages, `log.md` and this file are skipped, and so is any page without a `type:` —
+those are OKF-reserved or not content.
+
 ---
 
 ## Renaming a page

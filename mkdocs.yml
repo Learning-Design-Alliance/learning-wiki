@@ -51,6 +51,9 @@ extra:
 extra_css:
   - branding/lazuli-theme.css
 
+hooks:
+  - docs_hooks/page_metadata.py
+
 plugins:
   - search:
       lang: en
