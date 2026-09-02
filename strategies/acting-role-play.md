@@ -76,7 +76,7 @@ Role play is a form of [Active Learning](../principles/active-learning.md) groun
 
 ## Patterns That Use This Strategy
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — role play enacts the articulation and exploration phases by requiring learners to perform and defend reasoning in role
-- [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — serves the "eliciting performance" and "providing feedback" events in an embodied form
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — serves the "eliciting performance" and "providing feedback" events in an embodied form
 
 ## Examples
 - **Standardized patient programs** in medical education (e.g., used across US medical schools per AAMC curricula): students practice communication and diagnosis with trained patient-actors, with structured debriefing — see Nestel & Tierney (2005) for facilitation guidelines

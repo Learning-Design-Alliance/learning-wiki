@@ -39,7 +39,7 @@ Learning outcomes are explicit statements of what learners should know, understa
 
 ## Patterns That Use This Element
 - [Competency-Based Learning](../patterns/competency-based-learning.md)
-- [Gagné's 9 Events](../patterns/gagnés-9-events.md)
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md)
 
 ## Examples
 - Course or lesson targets written in performance terms and revisited during assessment.

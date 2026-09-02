@@ -101,7 +101,7 @@ Its practical strength is that it balances authenticity with structured support.
 
 ## Related Patterns
 - [Four-Component Instructional Design](4cid-four-component-instructional-design.md)
-- [Gagne's 9 Events of Instruction](gagnés-9-events-of-instruction.md)
+- [Gagne's 9 Events of Instruction](gagnes-9-events-of-instruction.md)
 
 ## Examples
 - Clinical training where learners analyze a case, study demonstrations, practice decisions, and reflect on use in real settings.

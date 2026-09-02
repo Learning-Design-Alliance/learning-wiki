@@ -67,7 +67,7 @@ Independent practice consolidates what guided instruction established, but its e
 
 ## Patterns That Use This Strategy
 - [Direct Instruction](../patterns/direct-instruction.md) — the "independent practice" step following guided practice in the standard lesson sequence
-- [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — "enhance retention and transfer" event
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "enhance retention and transfer" event
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the exploration phase, where learners work independently after coaching
 
 ## Examples

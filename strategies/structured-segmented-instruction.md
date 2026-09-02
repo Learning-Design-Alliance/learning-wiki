@@ -71,7 +71,7 @@ Structured/segmented instruction works because working memory is severely limite
 ## Patterns That Use This Strategy
 - [Direct Instruction](../patterns/direct-instruction.md) — scripted, sequenced delivery of decomposed content
 - [4C/ID](../patterns/4cid-four-component-instructional-design.md) — part-task practice for recurrent skills embedded in whole-task sequences
-- [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — "present the content" and "provide learning guidance" events operationalize segmentation
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "present the content" and "provide learning guidance" events operationalize segmentation
 
 ## Examples
 - **Decoding instruction**: breaking a decoding strategy into steps (identify vowel patterns, segment sounds, blend), teaching each step individually, then combining them to decode whole words; prefixes and suffixes taught separately before combining them in morphological analysis.

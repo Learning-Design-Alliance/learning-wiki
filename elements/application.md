@@ -61,7 +61,7 @@ Application is where learning consolidates: retrieval and use of knowledge in co
 ## Patterns That Use This Element
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the articulation and exploration phases depend on learners applying methods in varied settings
 - [Four-Component Instructional Design](../patterns/4cid-four-component-instructional-design.md) — learning tasks are the backbone; application is the whole-task practice component
-- [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — "eliciting performance" and "enhancing retention and transfer" events
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "eliciting performance" and "enhancing retention and transfer" events
 
 ## Examples
 

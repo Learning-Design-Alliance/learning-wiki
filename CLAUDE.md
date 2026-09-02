@@ -102,6 +102,75 @@ written, and rescans (~6s) only when they differ. Pull, reload, correct numbers 
 restart. The fingerprint is deliberately **not** a git revision: the droplet's working tree
 routinely holds real uncommitted work, and keying on HEAD would call all of it invisible.
 
+### State as of 2026-09-02 — the design-spec `realizes:` targets exist
+
+learning-design-spec's profiles and methods carry `realizes: <wiki-slug>`, with the kind
+fixed by what carries the field: a profile realizes a **pattern**, a method realizes a
+**strategy**. Eleven of them named nothing. These are the slugs they now resolve to:
+
+| spec object | kind | slug |
+|---|---|---|
+| `dschool-design-thinking` | pattern | `design-thinking` |
+| `gagne-systematic` | pattern | `systematic-instructional-design` |
+| `sam-agile` | pattern | `successive-approximation-model` |
+| `continuous-improvement` | pattern | `continuous-improvement-of-learning-materials` |
+| `lxd-user-centred` | pattern | `learner-experience-design` |
+| `faculty-course-design` | pattern | `faculty-course-design` |
+| `goals/standards-crosswalk` | strategy | `standards-crosswalk` |
+| `goals/cognitive-task-analysis` | strategy | `cognitive-task-analysis` |
+| `personas/activity-system` | strategy | `activity-system-personas` |
+
+**Design thinking was two objects under one name.** `strategies/design-thinking.md`
+described learners running the cycle; a profile realizing it needs the *designer's*
+process. The pattern page is the design process at course grain; the strategy page is
+`status: deprecated`, kept for history, with its two inbound links repointed. A profile
+resolves `design-thinking` in the pattern namespace and gets the right one — ids are
+unique *per kind*, which is what makes the same slug in both folders safe.
+
+**Two duplicate pattern pairs are collapsed, canonical page keeping the substance:**
+`patterns/4cid.md` (1.2 KB stub) folded into `4cid-four-component-instructional-design`
+(73 inbound links), and `gagnés-9-events.md` into the of-instruction page. Both stubs were
+pure subsets — the long pages already carried every claim link, element and source. The
+retired slugs are recorded as `aliases:`, so `realizes: 4cid` — which the spec and two
+pattern plans already write — still resolves.
+
+**Gagné's page is now ASCII: `patterns/gagnes-9-events-of-instruction.md`.** A non-ASCII
+`id:` is an NFC/NFD normalisation trap for a repo that resolves it by string equality, and
+untypeable besides; `é` survives in the title, the H1 and the author field, where it
+belongs. Both former spellings are aliases. 62 inbound links were repointed by
+`update_links_for_renames.py --map`, which also stamped the aliases.
+
+**`deprecated` is now its own index bucket.** It used to fall through to `draft` in
+`build_indexes.py`, and `strategies/` omits drafts from its listing — so the wiki's first
+deprecated page was counted as a draft and then hidden. The two statuses mean opposite
+things (draft: nobody has reviewed this; deprecated: reviewed and superseded), and a
+superseded page has to stay findable, since being findable by an old reference is the
+entire reason for keeping it. Deprecated entries are always listed, never elided.
+
+**Four `realizes:` fields are unset on purpose — do not write pages for them.**
+`lightweight-default`, `elicited-default`, `personas/edge-coverage` and
+`context/author-brief` are that repo's own baselines and named null cases. A wiki page for
+them would be inventing a literature.
+
+**`competency-based` stays unset, and a page for it is warranted but not writable yet.**
+`patterns/competency-based-learning` is a pedagogical pattern; the profile is programme
+governance — unbundling credit from seat time, assessment on demand, a competency
+framework as the transcript. That is a distinct object at `grain_size: programme`, not a
+rename of the existing page. It needs a source before anyone writes it; this sandbox has
+no network for one, and guessing at a literature is the failure mode this whole file is
+about.
+
+**The nine new pages cite only what could be established.** This sandbox's egress proxy
+blocks `edtechbooks.org` and `colorado.edu`, so none of the commissioning brief's sources
+could be read. Their `## Key Sources` therefore carry exactly what the brief stated —
+surnames, chapter number, book, URL — plus primary works already in this corpus, copied
+verbatim. **No initials, chapter titles, years, journals, volumes or pages were inferred**,
+including where inference felt safe: a chapter title read off a URL slug is a guess wearing
+a citation's clothes. Each affected page carries an HTML comment saying which fields are
+absent and why. They are `status: draft` and belong in `citation_worklist.py`'s book
+backlog — a person with the chapters in hand can complete them in minutes, and nothing
+automated ever will.
+
 ### Known open work
 
 - **`scripts/resolve_citation_metadata.py` settles the three citation backlogs against
@@ -405,6 +474,40 @@ that only exists after someone runs a script is an index that side cannot use.
 
 ---
 
+## The wiki index
+
+`wiki-index.json` is the table the [learning-design-spec](https://github.com/Learning-Design-Alliance/learning-design-spec)
+side resolves against: one record per content page — `id`, `type`, `title`,
+`description`, `path`, `status`, `aliases`, and `grain_size` where a page carries one —
+plus a precomputed `resolve` map per kind. `scripts/build_wiki_index.py` writes it and
+`build_indexes.py` regenerates it alongside the reverse index; `--check` fails when the
+committed copy is stale, and CI runs that check on every PR.
+
+It exists because that repo shape-checks `realizes:` and cannot resolve it. A profile
+carries `realizes: <pattern-slug>` and a method `realizes: <strategy-slug>`, with the kind
+fixed by what carries the field; the same repo also resolves `element:`, `research:<claim-slug>`
+and `spec/learners.md`'s learner-variable slugs. Its CI has no wiki checkout — that is a
+deliberate constraint on that side, not an oversight — so **a typo'd slug passes CI, ships,
+and fails in front of a course author.** A committed table is what closes that, the same
+arrangement and the same reason as `reverse-index.json`.
+
+**Aliases are the half a naive dump would omit and the half that matters.** A rename is
+non-breaking only if the retired slug still resolves, and this file is where the spec side
+learns that `4cid` means `4cid-four-component-instructional-design`. Ship an index of
+current slugs only and every rename becomes a silent break one repo over — the exact
+failure `aliases:` exists to prevent, reintroduced at the boundary.
+
+**The `resolve` map is derivable and is emitted anyway.** Ids and aliases share one
+namespace *per kind*, which is a rule a second implementation can get wrong; emitting the
+resolution once means every consumer resolves identically, and a collision is caught at
+build time by the side that can fix it. `build_wiki_index.py` refuses to write a table
+that resolves one slug two ways rather than letting a consumer pick whichever it saw last.
+
+Both halves come out of one pass, so they cannot drift from each other. Theories are
+included even though nothing in the spec addresses one: a consumer filters on `type` for
+free, and a kind left out is a kind nobody can point at until somebody notices.
+
+
 ## Evidence markers are the evidence layer
 
 The `[±~][SMW]` marker beside a claim link is the one field the design-spec pipeline reads
@@ -662,6 +765,7 @@ ld-wiki/
   CLAUDE.md          ← this file (schema + operating guide)
   index.md           ← OKF bundle-root index; carries okf_version in frontmatter
   reverse-index.json ← generated: which pages point AT each page (see The reverse index below)
+  wiki-index.json    ← generated: id + kind + title per page, for the design-spec side (see The wiki index below)
   evidence-scales.json ← what q3 / i2 / n= mean, as data (read by agents and by the docs hook)
   log.md             ← reserved OKF filename: append-only, date-grouped change log
   principles/        ← design principles (what to do and why)
@@ -686,6 +790,7 @@ ld-wiki/
     update_links_for_renames.py ← after pages are renamed, re-points every inbound cross-link (see below)
     page_identity.py   ← stable `id:`/`aliases:` for the kinds design docs point at (see below)
     build_reverse_index.py ← who points at this page, as shippable data (see below)
+    build_wiki_index.py ← the resolution table learning-design-spec reads (see below)
     check_evidence_markers.py ← claim citations carrying no [±~][SMW] marker (see below)
     lint.py            ← health-check (see Lint above)
     verify_citation_edits.py ← after a citation tool writes: did it edit only citations? (see above)

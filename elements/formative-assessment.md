@@ -57,7 +57,7 @@ Formative assessment closes the gap between current and desired performance by m
 - [Fading](fading.md) — formative data tells the instructor when and how fast to withdraw support
 
 ## Patterns That Use This Element
-- [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — "assess performance" and "enhance retention and transfer" events
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "assess performance" and "enhance retention and transfer" events
 - [Mastery Learning](../patterns/mastery-learning.md) — formative checks gate progression through units
 - [Flipped Classroom](../patterns/flipped-classroom.md) — pre-class checks inform what in-class time addresses
 - [Competency-Based Learning](../patterns/competency-based-learning.md) — continuous evidence-gathering replaces periodic grading

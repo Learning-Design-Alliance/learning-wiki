@@ -58,7 +58,7 @@ Guidance reduces the working-memory burden of early learning by narrowing the sp
 - [Coaching](coaching.md) — interactive, performance-contingent guidance during practice
 
 ## Patterns That Use This Element
-- [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — "provide learning guidance" is the fifth event
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "provide learning guidance" is the fifth event
 - [4C/ID](../patterns/4cid-four-component-instructional-design.md) — supportive information and procedural information are the guidance components surrounding learning tasks
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — modeling and coaching phases deliver guidance before fading
 - [Direct Instruction](../patterns/direct-instruction.md) — high-guidance enactment with scripted models and prompted practice

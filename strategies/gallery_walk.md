@@ -75,7 +75,7 @@ Gallery Walk is a structured form of [Active Learning](../principles/active-lear
 ## Patterns That Use This Strategy
 - [Collaborative Learning](../patterns/collaborative-learning.md) — gallery walk is a canonical structured collaborative format
 - [Case-Based Learning](../patterns/case-based-learning.md) — stations can each present a different case or aspect of a case for comparative analysis
-- [Gagné's 9 Events of Instruction](../patterns/gagnés-9-events-of-instruction.md) — supports "eliciting performance" and "providing feedback" events through peer interaction
+- [Gagné's 9 Events of Instruction](../patterns/gagnes-9-events-of-instruction.md) — supports "eliciting performance" and "providing feedback" events through peer interaction
 
 ## Examples
 - **Science poster sessions (secondary):** groups design experiment posters, then rotate to critique peers' methods and conclusions with structured sticky-note feedback before revision

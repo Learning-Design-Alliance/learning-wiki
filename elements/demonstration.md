@@ -70,7 +70,7 @@ Demonstrations reduce the cognitive burden of initial skill acquisition by givin
 ## Patterns That Use This Element
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — modeling phase
 - [Four-Component Instructional Design](../patterns/4cid-four-component-instructional-design.md) — worked examples as the demonstration component of learning tasks
-- [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — "present the content" event
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "present the content" event
 
 ## Examples
 

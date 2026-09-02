@@ -55,7 +55,7 @@ Well-formed objectives improve alignment between instruction and assessment, whi
 
 ## Patterns That Use This Element
 - [Constructive Alignment](../patterns/constructive-alignment.md) — objectives are the anchor from which activities and assessment are derived
-- [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — "inform learners of objectives" is Event 2
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "inform learners of objectives" is Event 2
 - [4C/ID](../patterns/4cid-four-component-instructional-design.md) — objectives decompose into performance standards for learning tasks
 
 ## Examples

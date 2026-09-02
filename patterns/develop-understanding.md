@@ -90,7 +90,7 @@ This is a useful default pattern when the goal is conceptual understanding rathe
 - Instructors can adjust the amount of modeling or guided practice based on learner response.
 
 ## Related Patterns
-- [Gagne's 9 Events of Instruction](gagnés-9-events-of-instruction.md)
+- [Gagne's 9 Events of Instruction](gagnes-9-events-of-instruction.md)
 - [Merrill's First Principles of Instruction](merrills-first-principles-of-instruction.md)
 
 ## Examples

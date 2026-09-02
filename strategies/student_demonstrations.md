@@ -70,7 +70,7 @@ Demonstrating is a form of generative learning: producing a performance forces r
 
 ## Patterns That Use This Strategy
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the articulation and exploration phases, where learners perform and explain their own work after observing expert models
-- [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — "assess performance" and "enhance retention and transfer" events
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "assess performance" and "enhance retention and transfer" events
 - [4CID / Four-Component Instructional Design](../patterns/4cid-four-component-instructional-design.md) — learning tasks culminate in independent learner performance after scaffolding fades
 
 ## Examples

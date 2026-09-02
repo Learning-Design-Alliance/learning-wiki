@@ -58,7 +58,7 @@ Learning improves when learners are prompted to generate content-relevant cognit
 ## Patterns That Use This Element
 - [Cognitive Load Theory](../patterns/cognitive-load-theory.md) — generative processing is one of the three processing demands the theory partitions
 - [4C/ID](../patterns/4cid-four-component-instructional-design.md) — learners generate solutions on increasingly supported learning tasks as scaffolds fade
-- [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — "eliciting performance" and "enhancing retention and transfer" events operationalize generation
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "eliciting performance" and "enhancing retention and transfer" events operationalize generation
 
 ## Examples
 

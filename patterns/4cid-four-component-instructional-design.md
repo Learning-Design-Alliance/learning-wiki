@@ -1,6 +1,7 @@
 ---
 type: pattern
 id: 4cid-four-component-instructional-design
+aliases: [4cid]
 title: 4C/ID (Four-Component Instructional Design)
 description: "4C/ID is a design pattern for teaching complex skills by organizing instruction around four coordinated components: whole learning tasks, supportive information, procedural information, and part-task practice."
 status: review

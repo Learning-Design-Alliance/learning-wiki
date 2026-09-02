@@ -68,7 +68,7 @@ Presenting verbal content in a coordinated visual form exploits the two independ
 - [Direct Instruction](../patterns/direct-instruction.md) — Show Me is the visual-presentation component of a directed explanation
 
 ## Patterns That Use This Strategy
-- [Gagné's 9 Events of Instruction](../patterns/gagnés-9-events-of-instruction.md) — "present the content" and "provide learning guidance" events
+- [Gagné's 9 Events of Instruction](../patterns/gagnes-9-events-of-instruction.md) — "present the content" and "provide learning guidance" events
 - [Direct Instruction](../patterns/direct-instruction.md) — structured explanations depend on clear, coordinated visual presentation
 
 ## Tools

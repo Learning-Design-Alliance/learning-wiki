@@ -69,7 +69,7 @@ KWL works because it forces retrieval of prior knowledge before new material arr
 - [Assessment](../elements/assessment.md) — the completed chart is a formative record of knowledge change
 
 ## Patterns That Use This Element
-- [Gagné's 9 Events of Instruction](../patterns/gagnés-9-events-of-instruction.md) — covers "inform learners of objectives" (W) and "enhance retention and transfer" (L) in one artifact
+- [Gagné's 9 Events of Instruction](../patterns/gagnes-9-events-of-instruction.md) — covers "inform learners of objectives" (W) and "enhance retention and transfer" (L) in one artifact
 
 ## Examples
 - **Expository reading (Ogle's original use)**: before a unit on rainforests, students list known facts and questions in K and W; after reading, they complete L and verify which questions were answered. See [Reading Rockets' KWL overview](https://www.readingrockets.org/classroom/classroom-strategies/k-w-l).

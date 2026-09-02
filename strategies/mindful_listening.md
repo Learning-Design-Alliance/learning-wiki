@@ -51,7 +51,7 @@ Mindful listening operationalizes attention training: the act of noticing distra
 - Prerequisite dispositions for collaboration: listening fully before responding
 
 ### Instructions
-1. **Set the frame** ([Gain Attention](../patterns/gagnés-9-events-of-instruction.md)): briefly explain that the goal is not to stop thinking but to notice where attention goes — this rationale sustains buy-in, especially with skeptical learners.
+1. **Set the frame** ([Gain Attention](../patterns/gagnes-9-events-of-instruction.md)): briefly explain that the goal is not to stop thinking but to notice where attention goes — this rationale sustains buy-in, especially with skeptical learners.
 2. **Establish the anchor**: ring a chime or play a sound; ask learners to listen until the sound completely fades.
 3. **Guide the practice** ([Coaching](../elements/coaching.md)): for 1–5 minutes, prompt learners to notice sounds around them and to silently label distractions ("thinking") and return to listening.
 4. **Debrief** ([Check-ins](../principles/check-ins.md)): invite brief, optional reports of what was noticed; normalize mind-wandering as the moment of practice.

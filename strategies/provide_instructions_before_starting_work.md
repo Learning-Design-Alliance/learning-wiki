@@ -62,7 +62,7 @@ Clear pre-task instructions reduce extraneous cognitive load by eliminating the 
 - [Action-Oriented Feedback](action-oriented-feedback.md) — feedback during work extends the clarity established by pre-task instructions
 
 ## Examples
-- **Gagné's "inform learners of objectives" event** — the first instructional event in [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) is precisely this strategy: state what learners will be able to do before instruction begins
+- **Gagné's "inform learners of objectives" event** — the first instructional event in [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) is precisely this strategy: state what learners will be able to do before instruction begins
 - **[4C/ID](../patterns/4cid-four-component-instructional-design.md)** — learning tasks open with explicit task descriptions and performance standards before learners attempt supportive or procedural information application
 - **Writing rubrics distributed with the prompt** — e.g., [NWP](https://www.nwp.org) practice of sharing scoring rubrics before drafting, so criteria shape composition rather than only grading
 - **Recipe-style lab protocols in [Direct Instruction](../patterns/direct-instruction.md)** — scripted, sequenced instructions ensure learners execute procedures correctly before conceptual consolidation

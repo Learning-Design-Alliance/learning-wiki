@@ -72,7 +72,7 @@ Modeling works because observing an expert perform a task — especially with ve
 ## Patterns That Use This Strategy
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — modeling is the first phase, followed by coaching and fading
 - [Direct Instruction](../patterns/direct-instruction.md) — modeling serves as the "show" phase before guided practice
-- [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — "present the content" and "provide learning guidance" events
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "present the content" and "provide learning guidance" events
 
 ## Examples
 - **Writing workshop (Calkins' Units of Study)** — the minilesson opens with the teacher composing a short text live, naming craft moves, before students write independently ([Units of Study](https://www.unitsofstudy.com))

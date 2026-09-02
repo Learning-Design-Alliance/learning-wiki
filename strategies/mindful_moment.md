@@ -53,7 +53,7 @@ Mindful moments work as an attention-reset mechanism: brief breath-focused pract
 1. **Signal the transition.** Use a consistent cue (chime, dimming lights, a spoken prompt) so learners recognize the shift; predictable structure reduces the load of reorienting [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
 2. **Invite, don't require.** Offer eyes-closed or soft-gaze options and an alternative (quiet resting posture) for learners who opt out.
 3. **Guide the anchor.** Direct attention to the breath or body for 1–3 minutes, with brief spoken guidance that fades as learners gain experience ([Coaching](../elements/coaching.md), [Fading](../elements/fading.md)).
-4. **Close with reorientation.** End with one reflective beat — "notice one thing you want to focus on" — and move immediately into the learning task, consistent with the "gain attention" event in [Gagné's 9 Events of Instruction](../patterns/gagnés-9-events-of-instruction.md).
+4. **Close with reorientation.** End with one reflective beat — "notice one thing you want to focus on" — and move immediately into the learning task, consistent with the "gain attention" event in [Gagné's 9 Events of Instruction](../patterns/gagnes-9-events-of-instruction.md).
 5. **Build routine.** Repeat at predictable moments; consistency, not duration, drives benefit.
 
 ## Related Strategies
@@ -67,7 +67,7 @@ Mindful moments work as an attention-reset mechanism: brief breath-focused pract
 - [Act](../elements/act.md) — the embodied, doing-oriented quality of breath practice enacts learning by doing at micro scale
 
 ## Patterns That Use This Strategy
-- [Gagné's 9 Events of Instruction](../patterns/gagnés-9-events-of-instruction.md) — serves the "gain attention" event at lesson opening
+- [Gagné's 9 Events of Instruction](../patterns/gagnes-9-events-of-instruction.md) — serves the "gain attention" event at lesson opening
 - [Flipped Classroom](../patterns/flipped-classroom.md) — a mindful moment at the start of in-class time helps learners shift from video-consumption mode to active practice mode
 
 ## Tools

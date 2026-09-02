@@ -58,7 +58,7 @@ Sequencing from simple to complex manages intrinsic cognitive load by ensuring t
 ## Patterns That Use This Element
 - [Elaboration Theory](../patterns/elaboration-theory.md) — the pattern's core: epitome-to-elaboration ordering from simple to complex
 - [4C/ID Four-Component Instructional Design](../patterns/4cid-four-component-instructional-design.md) — organizes whole learning tasks along a simple-to-complex task class progression
-- [Gagné's 9 Events of Instruction](../patterns/gagnés-9-events-of-instruction.md) — "recall prerequisite learning" event presumes a prerequisite-based sequence
+- [Gagné's 9 Events of Instruction](../patterns/gagnes-9-events-of-instruction.md) — "recall prerequisite learning" event presumes a prerequisite-based sequence
 - [Cognitive Load Theory](../patterns/cognitive-load-theory.md) — provides the theoretical rationale for sequencing as intrinsic load management
 
 ## Examples

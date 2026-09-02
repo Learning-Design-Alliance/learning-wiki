@@ -57,7 +57,7 @@ Performance assessment is most effective when criteria are transparent and feedb
 - [Feedback](feedback.md) — the element that converts assessment results into learning
 
 ## Patterns That Use This Element
-- [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — "assess performance" is Event 8, following "eliciting performance"
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "assess performance" is Event 8, following "eliciting performance"
 - [Competency-Based Learning](../patterns/competency-based-learning.md) — mastery decisions gate progression
 - [4C/ID](../patterns/4cid-four-component-instructional-design.md) — assessment of whole-task performance determines when task classes are completed
 

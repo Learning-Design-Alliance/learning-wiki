@@ -45,7 +45,7 @@ Think-aloud is the element in which an instructor, peer, or learner verbalizes r
 
 ## Patterns That Use This Element
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md)
-- [Gagné's 9 Events](../patterns/gagnés-9-events.md)
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md)
 
 ## Examples
 - An instructor solves a math problem while narrating why each step is chosen.

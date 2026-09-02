@@ -56,7 +56,7 @@ Activation works because new knowledge is encoded in terms of what is already kn
 - [Concept Mapping](concept-mapping.md) — a generative activation format that externalizes knowledge structure
 
 ## Patterns That Use This Element
-- [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — "stimulate recall of prior learning" event
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "stimulate recall of prior learning" event
 - [Anchored Instruction](../patterns/anchored-instruction.md) — the anchor context activates experiential knowledge before problem solving
 - [Case-Based Learning](../patterns/case-based-learning.md) — cases activate learners' existing frameworks before analysis
 

@@ -124,7 +124,12 @@ def build_folder_index(page_type: str, config: dict) -> str:
     pages = [get_page_meta(p) for p in sorted(folder.glob("*.md")) if p.stem != "index"]
     pages.sort(key=lambda x: x["title"].lower())
 
-    by_status = {"stable": [], "review": [], "draft": []}
+    # `deprecated` gets its own bucket rather than falling through to draft.
+    # The two mean opposite things — draft is "nobody has reviewed this yet",
+    # deprecated is "this was reviewed and superseded" — and folding one into
+    # the other both miscounts the header and, where drafts are omitted from
+    # the listing, makes a superseded page invisible rather than marked.
+    by_status = {"stable": [], "review": [], "draft": [], "deprecated": []}
     for p in pages:
         status = p["status"] if p["status"] in by_status else "draft"
         by_status[status].append(p)
@@ -137,7 +142,9 @@ def build_folder_index(page_type: str, config: dict) -> str:
         f"**{len(pages)} entries** · "
         f"{len(by_status['stable'])} stable · "
         f"{len(by_status['review'])} in review · "
-        f"{len(by_status['draft'])} drafts",
+        f"{len(by_status['draft'])} drafts"
+        + (f" · {len(by_status['deprecated'])} deprecated"
+           if by_status["deprecated"] else ""),
         "",
         "---",
         "",
@@ -174,7 +181,11 @@ def build_folder_index(page_type: str, config: dict) -> str:
         lines.append(guidance)
         lines.append("")
     elif config["status_field"]:
-        for status_key, status_label in [("stable", "Stable"), ("review", "In Review"), ("draft", "Draft")]:
+        # Deprecated entries are always listed, never elided the way drafts are:
+        # there are few of them, and the whole point of keeping a superseded
+        # page is that someone following an old reference can still find it.
+        for status_key, status_label in [("stable", "Stable"), ("review", "In Review"),
+                                         ("draft", "Draft"), ("deprecated", "Deprecated")]:
             if not by_status[status_key]:
                 continue
             if status_key == "draft" and config.get("list_drafts_in_index") is False:
@@ -267,7 +278,10 @@ def main():
         pages = [p for p in folder.glob("*.md") if p.stem != "index"]
         total = len(pages)
 
-        by_status = {"stable": 0, "review": 0, "draft": 0}
+        # Same four buckets as build_folder_index, so the console line agrees
+        # with the file it just wrote — a summary that contradicts its own
+        # output is how a miscount survives being looked at.
+        by_status = {"stable": 0, "review": 0, "draft": 0, "deprecated": 0}
         for p in pages:
             meta = get_page_meta(p)
             s = meta["status"] if meta["status"] in by_status else "draft"
@@ -278,8 +292,11 @@ def main():
         content = build_folder_index(page_type, config)
         index_path = folder / "index.md"
         index_path.write_text(content, encoding="utf-8")
-        print(f"  [{page_type}/index.md] {total} entries "
-              f"({by_status['stable']} stable / {by_status['review']} review / {by_status['draft']} draft)")
+        summary = (f"{by_status['stable']} stable / {by_status['review']} review "
+                   f"/ {by_status['draft']} draft")
+        if by_status["deprecated"]:
+            summary += f" / {by_status['deprecated']} deprecated"
+        print(f"  [{page_type}/index.md] {total} entries ({summary})")
 
     root_content = build_root_index(counts)
     (WIKI_ROOT / "index.md").write_text(root_content, encoding="utf-8")
@@ -292,10 +309,17 @@ def main():
     # step somebody forgets, and a stale reverse index is worse than none —
     # the design-spec side reads it as fact and has no wiki checkout to
     # check it against.
+    #
+    # wiki-index.json rides along for the same reason, one repo further out: it
+    # is what learning-design-spec resolves `realizes:`/`element:`/`research:`
+    # against, and that repo has no wiki checkout either. Regenerating it here
+    # means a page added or renamed is resolvable on the spec side in the same
+    # commit that adds or renames it.
     import subprocess, sys as _sys
     print()
-    subprocess.run([_sys.executable, str(Path(__file__).parent / "build_reverse_index.py")],
-                   cwd=str(WIKI_ROOT))
+    for generated in ("build_reverse_index.py", "build_wiki_index.py"):
+        subprocess.run([_sys.executable, str(Path(__file__).parent / generated)],
+                       cwd=str(WIKI_ROOT))
 
     print(f"\nDone. {total_pages} content pages across {len(PAGE_TYPES)} types.")
 

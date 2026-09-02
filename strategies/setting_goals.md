@@ -64,7 +64,7 @@ Goal-setting theory shows that specific, challenging goals reliably produce high
 - [Assessment](../elements/assessment.md) — goals only function when assessment is visibly aligned to them
 
 ## Patterns That Use This Strategy
-- [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — "inform learners of objectives" is the second event, positioned before content presentation
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "inform learners of objectives" is the second event, positioned before content presentation
 - [Direct Instruction](../patterns/direct-instruction.md) — goals and success criteria are stated explicitly before modeling begins
 - [4C ID](../patterns/4cid-four-component-instructional-design.md) — whole-task learning goals drive the design of task classes and support
 

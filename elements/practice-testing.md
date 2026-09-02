@@ -58,7 +58,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 ## Patterns That Use This Element
 - [Direct Instruction](../patterns/direct-instruction.md) — frequent checks for understanding function as embedded retrieval practice
 - [Mastery Learning](../patterns/mastery-learning.md) — repeated testing with feedback until criterion is met
-- [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — "eliciting performance" and "assessing performance" events
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "eliciting performance" and "assessing performance" events
 
 ## Examples
 

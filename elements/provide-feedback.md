@@ -55,7 +55,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Articulation](articulation.md) — having learners explain their reasoning makes feedback conversations diagnostic rather than one-directional
 
 ## Patterns That Use This Element
-- [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — "provide feedback" event
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "provide feedback" event
 - [Competency-Based Learning](../patterns/competency-based-learning.md) — iterative feedback against explicit criteria until mastery is demonstrated
 - [Formative Assessment](../patterns/formative-assessment.md) — feedback as the instructional response to elicited evidence of learning
 

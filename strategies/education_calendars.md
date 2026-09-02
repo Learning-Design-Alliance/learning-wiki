@@ -53,7 +53,7 @@ Calendars work as external memory aids that offload scheduling information, free
 1. Identify the recurring information the calendar must carry: topics, deadlines, events, assessment dates.
 2. Chunk the display by week or unit, labeling each week's focus with an image or icon [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
 3. Apply a consistent color and symbol system, reserving emphasis for high-stakes items [Relevancy of emphasis directs attention.](../claims/relevancy-of-emphasis-directs-attention.md) [+M].
-4. Preview the calendar with students as an orientation activity, connecting it to the unit's goals (cf. [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — "inform learners of objectives").
+4. Preview the calendar with students as an orientation activity, connecting it to the unit's goals (cf. [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "inform learners of objectives").
 5. Distribute through a fixed channel, update on a fixed schedule, and retire superseded versions promptly.
 6. Periodically collect feedback on clarity and usefulness and revise the design.
 
