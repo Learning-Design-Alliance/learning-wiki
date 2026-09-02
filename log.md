@@ -10,6 +10,11 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-02
 
+* **Correction**: [learner-variables/index](learner-variables/index.md) — the folder was never in `build_indexes.PAGE_TYPES`, so its index was never regenerated and read "1 entries" beside twelve pages; the root hub omitted the type entirely while the sidebar listed it
+* **Edit**: `scripts/lint.py` — new `check_nav_coverage`: every content folder must appear in the mkdocs nav, on the root hub, and in `build_indexes.PAGE_TYPES`. `--type` choices are now derived from the check registry instead of repeated (the copy was already missing `competing`)
+* **Review**: the nine pages from #65 promoted `draft` → `review` — they are complete pages, and `strategies/index.md` omits drafts, so three of them were absent from their own index
+* **Edit**: `docs_hooks/page_metadata.py` — the evidence-codes panel now says what the letters stand for (`q` quality, `i` impact, `n` sample) and what `q?` means, read from `evidence-scales.json` rather than paraphrased beside it
+* **Edit**: `branding/lazuli-theme.css` — dark mode reached the top bar: the header had only ever been styled on `[data-md-color-primary="custom"]`, so the slate scheme inherited a near-white sand bar, a linen hairline, Lapis search chrome and a dark-blue monogram on a dark ground
 * **Ingest**: [patterns/design-thinking](patterns/design-thinking.md) — design thinking as a course-grain design process, so learning-design-spec's `dschool-design-thinking` profile has a pattern to realize
 * **Deprecate**: [strategies/design-thinking](strategies/design-thinking.md) — superseded by the pattern above; kept for history as the learner-facing reading, inbound links repointed
 * **Ingest**: [patterns/systematic-instructional-design](patterns/systematic-instructional-design.md) — ADDIE and the Dick & Carey systems approach, for `gagne-systematic`; explicitly distinguished from the nine events

@@ -3,7 +3,7 @@ type: pattern
 id: systematic-instructional-design
 title: Systematic Instructional Design
 description: The objective-first design process — ADDIE and the Dick & Carey systems approach — in which instructional goals are analysed into subordinate skills, assessments are written from the objectives, instruction is built to serve them, and formative evaluation feeds revision before the design is released.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-02

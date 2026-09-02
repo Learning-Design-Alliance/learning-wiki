@@ -56,6 +56,18 @@ PAGE_TYPES = {
         "description": "Explanatory frameworks that ground principles and claims.",
         "status_field": True,
     },
+    # Added late: the folder existed and had pages for weeks before this entry
+    # did, and because a folder absent from PAGE_TYPES is simply not iterated,
+    # learner-variables/index.md kept whatever it was last written with — one
+    # entry, while twelve pages sat beside it — and the root hub listed no such
+    # knowledge type at all. Nothing failed; the loop just never visited.
+    "learner-variables": {
+        "label": "Learner Variables",
+        "description": "Canonical learner characteristics claims report findings about — "
+                       "one page per variable, so the same concept does not fragment "
+                       "across differently-worded tags.",
+        "status_field": True,
+    },
     "claims": {
         "label": "Claims",
         "description": "Empirical claims with evidence ratings, sources, and competing views.",
@@ -68,7 +80,8 @@ PAGE_TYPES = {
     },
 }
 
-ROOT_INDEX_TYPES = ["principles", "elements", "patterns", "strategies", "theories", "claims"]
+ROOT_INDEX_TYPES = ["principles", "elements", "patterns", "strategies", "theories",
+                    "learner-variables", "claims"]
 
 
 def get_page_meta(path: Path) -> dict:

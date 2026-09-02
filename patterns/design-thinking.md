@@ -3,7 +3,7 @@ type: pattern
 id: design-thinking
 title: Design Thinking
 description: A course-grain design process — empathize, define, ideate, prototype, test — in which a learning experience is built from investigated learner need rather than from a content outline, and revised against evidence from learners before it is finalized.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-02

@@ -3,7 +3,7 @@ type: pattern
 id: learner-experience-design
 title: Learner Experience Design (LXD)
 description: A user-centred course design process that treats usability as a pedagogical property rather than presentation polish — investigating learners, prototyping the experience, and testing it with real users, on the argument that effort spent operating the material is effort not spent learning.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-02

@@ -3,7 +3,7 @@ type: strategy
 id: activity-system-personas
 title: Activity-System Personas and Scenarios
 description: Building learner personas and design scenarios around the activity system a learner acts within — object, mediating tools, rules, community and division of labour — so that the design responds to what constrains the learner rather than to who they are demographically.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-02
