@@ -85,12 +85,66 @@ def _rows(meta: dict) -> list:
     return rows
 
 
+# The q/i scales, reproduced from CLAUDE.md's "Evidence quality tiers" and
+# "Impact magnitude" tables. Kept as data rather than a prose blob so a change
+# to the scale is a one-line edit here.
+QUALITY_TIERS = [
+    ("q4", "Pre-registered RCT or well-powered meta-analysis"),
+    ("q3", "Peer-reviewed experiment (not pre-registered) or systematic review"),
+    ("q2", "Quasi-experiment, observational with controls, or narrative review"),
+    ("q1", "Case study, expert opinion, or theoretical argument"),
+]
+IMPACT_TIERS = [
+    ("i3", "Large — d ≥ 0.8 or equivalent"),
+    ("i2", "Medium — d 0.4–0.79"),
+    ("i1", "Small — d 0.2–0.39"),
+    ("i0", "Negligible or unclear"),
+]
+
+
+def _evidence_legend() -> str:
+    """A collapsed key to `q3 i2`, placed where the bare codes appear.
+
+    An evidence entry spells its own codes out — `q3 · quasi-experimental
+    study · i2 · large effect · n=large` — so it needs no help. A subclaim
+    prefix does not: it is bare, it is the first thing a reader meets under
+    ## Subclaims, and across the claims corpus there are 465 quality codes and
+    443 impact codes with nothing next to them saying what the numbers mean.
+
+    The tables have always existed in CLAUDE.md, which is in the nav as
+    Schema & Guide, so this is a proximity problem rather than a missing-docs
+    one — hence a collapsed panel at the point of use rather than a fifth copy
+    of the schema.
+
+    Not tooltips: the codes sit inside code spans, and neither `abbr` nor
+    Material's tooltips reach inside a `<code>` element."""
+    rows = [f"    | `{code}` | {meaning} |" for code, meaning in QUALITY_TIERS]
+    rows += [f"    | `{code}` | {meaning} |" for code, meaning in IMPACT_TIERS]
+    return "\n".join([
+        "", '??? info "Reading the evidence codes"', "",
+        "    A subclaim is prefixed `q? i?` — how good the study was, and how big the",
+        "    effect. An evidence entry spells both out in words beside the code, and adds",
+        "    `n=` for the sample.", "",
+        "    | Code | Meaning |", "    |---|---|", *rows, "",
+        "    Strength here describes the *research*. Whether anyone has checked that this",
+        "    page reports it faithfully is a separate axis — see `trust` in the page",
+        "    metadata below, and the [Schema & Guide](../CLAUDE.md).", "",
+    ])
+
+
 def on_page_markdown(markdown: str, page, config, files) -> str:
     if page.file.src_path.split("/")[-1] in SKIP_BASENAMES:
         return markdown
     meta = page.meta or {}
     if not meta.get("type"):
         return markdown          # not a content page
+
+    # Claim pages get the q/i key inserted right under ## Subclaims, which is
+    # where the bare codes are read. Appending it at the bottom would put the
+    # explanation after every use of the thing it explains.
+    if meta.get("type") == "claim" and "## Subclaims" in markdown:
+        head, sep, tail = markdown.partition("## Subclaims")
+        markdown = head + sep + "\n" + _evidence_legend() + tail
 
     rows = _rows(meta)
     lines = ["", "", '??? info "Page metadata"', "", "    | Field | Value |",

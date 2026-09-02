@@ -1171,6 +1171,16 @@ Author, A., & Author, B. (Year). Title. *Journal, vol*(issue), pages. [doi:...](
 | 2 | Quasi-experiment, observational with controls, or narrative review |
 | 1 | Case study, expert opinion, or theoretical argument |
 
+These two tables are also rendered *on every claim page*, as a collapsed "Reading the
+evidence codes" panel inserted directly under `## Subclaims` — see
+`docs_hooks/page_metadata.py`. An evidence entry spells its codes out beside them
+(`q3 · quasi-experimental study · i2 · large effect · n=large`), but a subclaim prefix is
+bare `q3 i2`, and across the claims corpus there are 465 quality codes and 443 impact codes
+with nothing next to them saying what the numbers mean. The tables were always here and
+this file is in the nav as *Schema & Guide*, so it was a proximity problem, not a missing
+docs one. Not tooltips: the codes sit inside code spans, and neither `abbr` nor Material's
+tooltips reach inside a `<code>` element.
+
 **Impact magnitude (i):**
 | i | Rough effect size |
 |---|-------------------|
