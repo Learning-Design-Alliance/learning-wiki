@@ -641,14 +641,21 @@
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
 <details class="info">
 <summary>Reading the evidence codes</summary>
-<p>A subclaim is prefixed <code>q? i?</code> — how good the study was, and how big the
-effect. An evidence entry spells both out in words beside the code, and adds
-<code>n=</code> for the sample.</p>
+<p>The letters are abbreviations:</p>
+<ul>
+<li><strong><code>q</code> — quality.</strong> How good the study is.</li>
+<li><strong><code>i</code> — impact.</strong> How big the effect is, in the study's own terms.</li>
+<li><strong><code>n</code> — sample.</strong> Sample size, free text — often a description ('large (multiple course sections)') rather than a number, because a meta-analysis and a classroom study do not count the same thing.</li>
+</ul>
+<p>A subclaim is prefixed with the first two, bare: <code>q3 i2</code> means a q3 study
+with an i2 effect. An evidence entry spells them out in words beside the
+code and adds <code>n=</code>.</p>
+<p><strong><code>q</code> — evidence quality</strong></p>
 <table>
 <thead>
 <tr>
 <th>Code</th>
-<th>Meaning</th>
+<th>Criteria</th>
 </tr>
 </thead>
 <tbody>
@@ -668,6 +675,17 @@ effect. An evidence entry spells both out in words beside the code, and adds
 <td><code>q1</code></td>
 <td>Case study, expert opinion, or theoretical argument</td>
 </tr>
+</tbody>
+</table>
+<p><strong><code>i</code> — impact magnitude</strong></p>
+<table>
+<thead>
+<tr>
+<th>Code</th>
+<th>Rough effect size</th>
+</tr>
+</thead>
+<tbody>
 <tr>
 <td><code>i3</code></td>
 <td>Large — d &gt;= 0.8 or equivalent</td>
@@ -682,10 +700,11 @@ effect. An evidence entry spells both out in words beside the code, and adds
 </tr>
 <tr>
 <td><code>i0</code></td>
-<td>Negligible — Negligible or unclear</td>
+<td>Negligible or unclear</td>
 </tr>
 </tbody>
 </table>
+<p>A <code>?</code> in place of a digit — <code>q?</code>, <code>i?</code> — written but not yet established. <code>q?</code> is not the same as an absent q: it says someone looked and could not say, which is a finding rather than a gap.</p>
 <p>Strength here describes the <em>research</em>. Whether anyone has checked that this
 page reports it faithfully is a separate axis — see <code>trust</code> in the page
 metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>

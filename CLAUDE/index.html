@@ -1615,6 +1615,23 @@ deprecated page was counted as a draft and then hidden. The two statuses mean op
 things (draft: nobody has reviewed this; deprecated: reviewed and superseded), and a
 superseded page has to stay findable, since being findable by an old reference is the
 entire reason for keeping it. Deprecated entries are always listed, never elided.</p>
+<p><strong><code>learner-variables/</code> was invisible for weeks, and nothing could have caught it.</strong>
+<code>build_indexes.py</code>'s <code>PAGE_TYPES</code> never had an entry for the folder, and a folder absent
+from that table is simply not iterated — so its <code>index.md</code> kept whatever it was last
+written with (<strong>"1 entries"</strong>, beside twelve pages) and <code>ROOT_INDEX_TYPES</code> left the type
+off the front page entirely, while the mkdocs sidebar listed it. Every check passed the
+whole time, because every check reads <em>pages</em> and the defect was in which pages a
+generator visited. <code>lint.py</code>'s <code>check_nav_coverage</code> now compares the three lists —
+<code>mkdocs.yml</code>'s nav, the root hub's Knowledge Types, and <code>build_indexes.PAGE_TYPES</code> —
+against the content folders on disk. <code>--type</code>'s choices are also derived from the check
+registry now rather than repeated beside it; the hand-written copy had already fallen
+behind and was missing <code>competing</code>.</p>
+<p><strong>The nine new pages are <code>status: review</code>, not <code>draft</code>.</strong> Draft means "skeleton or stub;
+content not reviewed" and these are complete pages, so <code>draft</code> was simply the wrong value —
+and it had a visible cost: <code>strategies/index.md</code> omits drafts, so all three new strategies
+were absent from their own index. Status describes whether the content is written. Whether
+anyone has checked it is the <code>verified</code> axis, and whether its citations resolve is recorded
+in the manifest and in the per-page comments — not in <code>status</code>.</p>
 <p><strong>Four <code>realizes:</code> fields are unset on purpose — do not write pages for them.</strong>
 <code>lightweight-default</code>, <code>elicited-default</code>, <code>personas/edge-coverage</code> and
 <code>context/author-brief</code> are that repo's own baselines and named null cases. A wiki page for
