@@ -25,6 +25,8 @@ Two things it surfaces that are not simply a reprint of the YAML:
 
 from __future__ import annotations
 
+from pathlib import Path
+
 # index.md and log.md carry no page frontmatter worth showing (index files are
 # OKF-reserved and deliberately bare), and CLAUDE.md is the schema guide
 # itself.
@@ -85,21 +87,20 @@ def _rows(meta: dict) -> list:
     return rows
 
 
-# The q/i scales, reproduced from CLAUDE.md's "Evidence quality tiers" and
-# "Impact magnitude" tables. Kept as data rather than a prose blob so a change
-# to the scale is a one-line edit here.
-QUALITY_TIERS = [
-    ("q4", "Pre-registered RCT or well-powered meta-analysis"),
-    ("q3", "Peer-reviewed experiment (not pre-registered) or systematic review"),
-    ("q2", "Quasi-experiment, observational with controls, or narrative review"),
-    ("q1", "Case study, expert opinion, or theoretical argument"),
-]
-IMPACT_TIERS = [
-    ("i3", "Large — d ≥ 0.8 or equivalent"),
-    ("i2", "Medium — d 0.4–0.79"),
-    ("i1", "Small — d 0.2–0.39"),
-    ("i0", "Negligible or unclear"),
-]
+# The scales are loaded from evidence-scales.json — the same file an agent
+# reads to interpret the `q`/`i` now mirrored into each claim's frontmatter.
+# One definition, two audiences: if the tiers change, the page and the agent
+# change together, which a second copy here could not guarantee.
+def _load_scales():
+    import json
+    path = Path(__file__).resolve().parent.parent / "evidence-scales.json"
+    data = json.loads(path.read_text(encoding="utf-8"))
+    return ([(f"q{t['code']}", t["definition"]) for t in data["quality"]["tiers"]],
+            [(f"i{t['code']}", f"{t['label'].capitalize()} — {t['definition']}")
+             for t in data["impact"]["tiers"]])
+
+
+QUALITY_TIERS, IMPACT_TIERS = _load_scales()
 
 
 def _evidence_legend() -> str:

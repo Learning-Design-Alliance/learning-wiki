@@ -10,7 +10,9 @@ evidence_strength: weak
 sources:
   - id: sharples-et-al-2015
     resource: "https://doi.org/10.1080/10508406.2014.944642"
-    title: "Sharples, M., Scanlon, E., Ainsworth, S., Anastopoulou, S., Collins, T., Crook, C., Jones, A., Kerawalla, L., Littleton, K., Mulholland, P., & O'Malley, C. (2015). Personal Inquiry: Orchestrating Science Investigations Within and Beyond the Classroom. Journal of the Learning Sciences, 24(2), 308-341."
+    title: "Sharples, M., Scanlon, E., Ainsworth, S., Anastopoulou, S., Collins, T., Crook, C., Jones, A., Kerawalla, L., Littleton, K., Mulholland, P., & O'Malley, C. (2015). Personal Inquiry: Orchestrating Science Investigations Within and Beyond the Classroom. *Journal of the Learning Sciences, 24*(2), 308-341. [https://doi.org/10.1080/10508406.2014.944642](https://doi.org/10.1080/10508406.2014.944642)"
+    author: "Sharples, M., Scanlon, E., Ainsworth, S., Anastopoulou, S., Collins, T., Crook, C., Jones, A., Kerawalla, L., Littleton, K., Mulholland, P., & O'Malley, C"
+    q: 2
     author: "Sharples, M., Scanlon, E., Ainsworth, S., Anastopoulou, S., Collins, T., Crook, C., Jones, A., Kerawalla, L., Littleton, K., Mulholland, P., & O'Malley, C."
 ---
 

@@ -8,9 +8,11 @@ generated:
   at: 2026-08-29
 evidence_strength: moderate
 sources:
-  - id: pierroux-steier-ludvigsen-2022
+  - id: pierroux-et-al-2022
     resource: "https://doi.org/10.1080/10508406.2022.2025813"
-    title: "Pierroux, P., Steier, R., & Ludvigsen, S. R. (2022). Group creativity in adolescence: Relational, material and institutional dimensions of creative collaboration. Journal of the Learning Sciences, 31(1), 107-137."
+    title: "Pierroux, P., Steier, R., & Ludvigsen, S. R. (2022). Group creativity in adolescence: Relational, material and institutional dimensions of creative collaboration. *Journal of the Learning Sciences, 31*(1), 107-137. [https://doi.org/10.1080/10508406.2022.2025813](https://doi.org/10.1080/10508406.2022.2025813)"
+    author: "Pierroux, P., Steier, R., & Ludvigsen, S. R"
+    q: 2
     author: "Pierroux, P., Steier, R., & Ludvigsen, S. R."
 ---
 

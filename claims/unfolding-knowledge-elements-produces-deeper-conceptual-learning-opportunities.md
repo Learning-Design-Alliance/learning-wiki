@@ -10,7 +10,9 @@ evidence_strength: moderate
 sources:
   - id: ademmer-prediger-2025
     resource: "https://doi.org/10.1080/07370008.2025.2527688"
-    title: "Ademmer, C., & Prediger, S. (2025). How Can Ideas Be Connected Afterwards? Decomposing Teachers' Facilitation Practices for Conceptual Learning in a Case of Formal Volume Calculation. Cognition and Instruction, 43(4), 355-388."
+    title: "Ademmer, C., & Prediger, S. (2025). How Can Ideas Be Connected Afterwards? Decomposing Teachers' Facilitation Practices for Conceptual Learning in a Case of Formal Volume Calculation. *Cognition and Instruction, 43*(4), 355-388. [https://doi.org/10.1080/07370008.2025.2527688](https://doi.org/10.1080/07370008.2025.2527688)"
+    author: "Ademmer, C., & Prediger, S"
+    q: 2
     author: "Ademmer, C., & Prediger, S."
 ---
 

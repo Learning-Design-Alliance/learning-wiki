@@ -8,9 +8,10 @@ generated:
   at: 2026-08-29
 evidence_strength: weak
 sources:
-  - id: kaplan-dove-1987
-    resource: ""
-    title: "Kaplan, H., & Dove, H. (1987). Infant development among the Ache of eastern Paraguay. Developmental Psychology, 23(2), 190-198."
+  - id: kaplan-and-dove-1987
+    title: "Kaplan, H., & Dove, H. (1987). Infant development among the Ache of eastern Paraguay. *Developmental Psychology, 23*(2), 190-198."
+    author: "Kaplan, H., & Dove, H"
+    q: 2
     author: "Kaplan, H., & Dove, H."
 ---
 

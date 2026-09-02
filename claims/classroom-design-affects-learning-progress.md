@@ -7,18 +7,21 @@ generated:
   by: claude/unspecified
   at: 2026-08-30
 sources:
-  - id: barrett-2015
+  - id: barrett-et-al-2015
     resource: "https://doi.org/10.1016/j.buildenv.2015.02.013"
-    title: "Barrett, P., Davies, F., Zhang, Y., & Barrett, L. (2015). The impact of classroom design on pupils' learning: Final results of a holistic, multi-level analysis. *Building and Environment, 89*, 118–133"
+    title: "Barrett, P., Davies, F., Zhang, Y., & Barrett, L. (2015). The impact of classroom design on pupils' learning: Final results of a holistic, multi-level analysis. *Building and Environment, 89*, 118–133. [doi:10.1016/j.buildenv.2015.02.013](https://doi.org/10.1016/j.buildenv.2015.02.013)"
     author: "Barrett, P., Davies, F., Zhang, Y., & Barrett, L"
-  - id: barrett-2013
+    q: 2
+  - id: barrett-et-al-2013
     resource: "https://doi.org/10.1016/j.buildenv.2012.09.016"
-    title: "Barrett, P., Zhang, Y., Moffat, J., & Kobbacy, K. (2013). A holistic, multi-level analysis identifying the impact of classroom design on pupils' learning. *Building and Environment, 59*, 678–689"
+    title: "Barrett, P., Zhang, Y., Moffat, J., & Kobbacy, K. (2013). A holistic, multi-level analysis identifying the impact of classroom design on pupils' learning. *Building and Environment, 59*, 678–689. [doi:10.1016/j.buildenv.2012.09.016](https://doi.org/10.1016/j.buildenv.2012.09.016)"
     author: "Barrett, P., Zhang, Y., Moffat, J., & Kobbacy, K"
-  - id: cheryan-2014
+    q: 2
+  - id: cheryan-et-al-2014
     resource: "https://doi.org/10.1177/2372732214548677"
-    title: "Cheryan, S., Ziegler, S. A., Plaut, V. C., & Meltzoff, A. N. (2014). Designing classrooms to maximize student achievement. *Policy Insights from the Behavioral and Brain Sciences, 1*(1), 4–12"
+    title: "Cheryan, S., Ziegler, S. A., Plaut, V. C., & Meltzoff, A. N. (2014). Designing classrooms to maximize student achievement. *Policy Insights from the Behavioral and Brain Sciences, 1*(1), 4–12. [doi:10.1177/2372732214548677](https://doi.org/10.1177/2372732214548677)"
     author: "Cheryan, S., Ziegler, S. A., Plaut, V. C., & Meltzoff, A. N"
+    q: 2
 id: classroom-design-affects-learning-progress
 evidence_strength: moderate
 ---

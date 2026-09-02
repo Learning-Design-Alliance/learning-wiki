@@ -10,7 +10,9 @@ evidence_strength: moderate
 sources:
   - id: komatsu-et-al-2024
     resource: "https://doi.org/10.1080/07370008.2023.2293695"
-    title: "Komatsu, K., Murata, S., Stylianides, A. J., & Stylianides, G. J. (2024). Introducing Students to the Role of Assumptions in Mathematical Activity. Cognition and Instruction, 42(2), 327-357."
+    title: "Komatsu, K., Murata, S., Stylianides, A. J., & Stylianides, G. J. (2024). Introducing Students to the Role of Assumptions in Mathematical Activity. *Cognition and Instruction, 42*(2), 327-357. [https://doi.org/10.1080/07370008.2023.2293695](https://doi.org/10.1080/07370008.2023.2293695)"
+    author: "Komatsu, K., Murata, S., Stylianides, A. J., & Stylianides, G. J"
+    q: 3
     author: "Komatsu, K., Murata, S., Stylianides, A. J., & Stylianides, G. J."
 ---
 

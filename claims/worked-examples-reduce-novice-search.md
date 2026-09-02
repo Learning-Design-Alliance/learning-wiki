@@ -7,9 +7,10 @@ generated:
   at: 2026-04-07
 sources:
   - id: sweller-cooper-1985
-    resource: "https://doi.org/10.1037/0022-0663.77.1.59"
-    title: "Sweller, J., & Cooper, G. A. (1985). The use of worked examples as a substitute for problem solving in learning algebra. *Journal of Educational Psychology, 77*(1), 59-89. [https://doi.org/10.1037/0022-0663.77.1.59](https://doi.org/10.1037/0022-0663.77.1.59)"
+    resource: "https://doi.org/10.1207/s1532690xci0201_3"
+    title: "Sweller, J., & Cooper, G. A. (1985). The use of worked examples as a substitute for problem solving in learning algebra. *Cognition and Instruction, 2*(1), 59-89. [https://doi.org/10.1207/s1532690xci0201_3](https://doi.org/10.1207/s1532690xci0201_3)"
     author: "Sweller, J., & Cooper, G. A"
+    q: 3
 id: worked-examples-reduce-novice-search
 evidence_strength: moderate
 ---

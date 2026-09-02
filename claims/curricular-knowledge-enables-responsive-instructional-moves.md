@@ -10,7 +10,9 @@ evidence_strength: moderate
 sources:
   - id: robertson-et-al-2021
     resource: "https://doi.org/10.1080/07370008.2020.1832096"
-    title: "Robertson, A. D., Gray, K. E., Lovegren, C. E., Killough, K. L., & Wenzinger, S. T. (2021). Curricular Knowledge as a Resource for Responsive Instruction: A Case Study. Cognition and Instruction, 39(2), 149-180."
+    title: "Robertson, A. D., Gray, K. E., Lovegren, C. E., Killough, K. L., & Wenzinger, S. T. (2021). Curricular Knowledge as a Resource for Responsive Instruction: A Case Study. *Cognition and Instruction, 39*(2), 149-180. [https://doi.org/10.1080/07370008.2020.1832096](https://doi.org/10.1080/07370008.2020.1832096)"
+    author: "Robertson, A. D., Gray, K. E., Lovegren, C. E., Killough, K. L., & Wenzinger, S. T"
+    q: 2
     author: "Robertson, A. D., Gray, K. E., Lovegren, C. E., Killough, K. L., & Wenzinger, S. T."
 ---
 

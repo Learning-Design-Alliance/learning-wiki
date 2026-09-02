@@ -230,8 +230,48 @@ def parse_evidence_sources(evidence_section: str) -> list:
         _, author = _derive_id_and_author(entry["title"])
         if author:
             entry["author"] = author
+        entry.update(parse_evidence_codes(block))
         sources.append(entry)
     return sources
+
+
+# `q3 · quasi-experimental study · i2 · large effect · n=large (many sections)`
+# — the codes line under an evidence entry's citation. The descriptions between
+# the codes are for a human and are not captured: they restate the tier in the
+# study's own words, and an agent that wants the tier's meaning should read
+# evidence-scales.json, which says it once rather than 143 times.
+EVIDENCE_CODES_RE = re.compile(
+    r"`\s*q\s*([0-9?])\s*(?:·[^·`]*)?"      # q3 · peer-reviewed experiment
+    r"(?:·\s*i\s*([0-9?])\s*(?:·[^·`]*)?)?"  # · i2 · large effect
+    r"(?:·\s*n\s*=\s*([^`]*))?`",            # · n=large (many sections)
+    re.S)
+
+
+def parse_evidence_codes(block: str) -> dict:
+    """{q, i, n} from an evidence entry's codes line, omitting what is absent.
+
+    The shorthand was designed to be read by an agent, and until now an agent
+    had to find it in prose — 143 of the 149 evidence entries carry a codes
+    line, and none of it reached frontmatter. Mirroring it into `sources[]`
+    puts it where the rest of the entry already is.
+
+    A `?` is preserved rather than dropped. `q?` means somebody looked and
+    could not establish the tier, which is a different statement from an entry
+    with no q at all, and collapsing the two would lose the only record that
+    the question was asked — the same distinction as `crossref_reachable:
+    false` against a missing field."""
+    m = EVIDENCE_CODES_RE.search(block or "")
+    if not m:
+        return {}
+    out = {}
+    q, i, n = m.group(1), m.group(2), (m.group(3) or "").strip()
+    if q:
+        out["q"] = int(q) if q.isdigit() else q
+    if i:
+        out["i"] = int(i) if i.isdigit() else i
+    if n:
+        out["n"] = n
+    return out
 
 
 def get_section(body: str, heading: str) -> str | None:
@@ -404,6 +444,16 @@ def dump_frontmatter(fm: dict) -> str:
                 for k in ("resource", "title", "author"):
                     if src.get(k):
                         lines.append(f"    {k}: {yaml_escape(src[k])}")
+                # q/i/n from the entry's codes line — see parse_evidence_codes.
+                # Emitted unquoted when numeric so a consumer gets an int, and
+                # `?` quoted, since bare ? starts a YAML complex-key.
+                for k in ("q", "i"):
+                    if k in src:
+                        v = src[k]
+                        lines.append(f"    {k}: {v}" if isinstance(v, int)
+                                     else f"    {k}: {yaml_escape(str(v))}")
+                if src.get("n"):
+                    lines.append(f"    n: {yaml_escape(str(src['n']))}")
         elif isinstance(val, list):
             if not val:
                 continue

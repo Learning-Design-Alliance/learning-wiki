@@ -10,7 +10,9 @@ evidence_strength: moderate
 sources:
   - id: omarchevska-et-al-2022
     resource: "https://doi.org/10.1080/10508406.2021.1966633"
-    title: "Omarchevska, Y., Lachner, A., Richter, J., & Scheiter, K. (2022). It takes two to tango: How scientific reasoning and self-regulation processes impact argumentation quality. Journal of the Learning Sciences, 31(2), 237-277."
+    title: "Omarchevska, Y., Lachner, A., Richter, J., & Scheiter, K. (2022). It takes two to tango: How scientific reasoning and self-regulation processes impact argumentation quality. *Journal of the Learning Sciences, 31*(2), 237-277. [https://doi.org/10.1080/10508406.2021.1966633](https://doi.org/10.1080/10508406.2021.1966633)"
+    author: "Omarchevska, Y., Lachner, A., Richter, J., & Scheiter, K"
+    q: 2
     author: "Omarchevska, Y., Lachner, A., Richter, J., & Scheiter, K."
 ---
 

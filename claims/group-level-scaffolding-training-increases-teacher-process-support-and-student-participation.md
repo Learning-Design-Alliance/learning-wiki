@@ -10,7 +10,9 @@ evidence_strength: moderate
 sources:
   - id: calor-et-al-2022
     resource: "https://doi.org/10.1080/10508406.2021.2024834"
-    title: "Calor, S. M., Dekker, R., van Drie, J. P., & Volman, M. L. L. (2022). Scaffolding small groups at the group level: Improving the scaffolding behavior of mathematics teachers during mathematical discussions. Journal of the Learning Sciences, 31(3), 369-407."
+    title: "Calor, S. M., Dekker, R., van Drie, J. P., & Volman, M. L. L. (2022). Scaffolding small groups at the group level: Improving the scaffolding behavior of mathematics teachers during mathematical discussions. *Journal of the Learning Sciences, 31*(3), 369-407. [https://doi.org/10.1080/10508406.2021.2024834](https://doi.org/10.1080/10508406.2021.2024834)"
+    author: "Calor, S. M., Dekker, R., van Drie, J. P., & Volman, M. L. L"
+    q: 3
     author: "Calor, S. M., Dekker, R., van Drie, J. P., & Volman, M. L. L."
 ---
 

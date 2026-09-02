@@ -10,10 +10,12 @@ sources:
     resource: "https://doi.org/10.1016/j.cedpsych.2010.10.004"
     title: "Van Gog, T., Kester, L., & Paas, F. (2011). Effects of worked examples, example-problem, and problem-example pairs on novices' learning. *Contemporary Educational Psychology, 36*(3), 212-218. [https://doi.org/10.1016/j.cedpsych.2010.10.004](https://doi.org/10.1016/j.cedpsych.2010.10.004)"
     author: "Van Gog, T., Kester, L., & Paas, F"
+    q: 3
   - id: renkl-atkinson-2003
     resource: "https://doi.org/10.1207/S15326985EP3801_3"
     title: "Renkl, A., & Atkinson, R. K. (2003). Structuring the transition from example study to problem solving in cognitive skill acquisition: A cognitive load perspective. *Educational Psychologist, 38*(1), 15-22. [https://doi.org/10.1207/S15326985EP3801_3](https://doi.org/10.1207/S15326985EP3801_3)"
     author: "Renkl, A., & Atkinson, R. K"
+    q: 3
 id: worked-examples-with-practice-improve-transfer
 evidence_strength: moderate
 ---

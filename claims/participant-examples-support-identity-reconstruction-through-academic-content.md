@@ -8,9 +8,11 @@ generated:
   at: 2026-08-29
 evidence_strength: weak
 sources:
-  - id: cohen-hod-benzvi-2023
+  - id: cohen-et-al-2023
     resource: "https://doi.org/10.1080/10508406.2023.2185147"
-    title: "Cohen, E., Hod, Y., & Ben-Zvi, D. (2023). From \"Carrier\" to \"Creator\": The re-construction of national identity in more inclusive terms. Journal of the Learning Sciences, 32(3), 427-454."
+    title: "Cohen, E., Hod, Y., & Ben-Zvi, D. (2023). From \"Carrier\" to \"Creator\": The re-construction of national identity in more inclusive terms. *Journal of the Learning Sciences, 32*(3), 427-454. [https://doi.org/10.1080/10508406.2023.2185147](https://doi.org/10.1080/10508406.2023.2185147)"
+    author: "Cohen, E., Hod, Y., & Ben-Zvi, D"
+    q: 1
     author: "Cohen, E., Hod, Y., & Ben-Zvi, D."
 ---
 

@@ -8,17 +8,15 @@ generated:
   at: 2026-08-29
 evidence_strength: mixed
 sources:
-  - id: mischel-ebbesen-raskoff-1972
-    resource: ""
-    title: "Mischel, W., Ebbesen, E. B., & Raskoff Zeiss, A. (1972). Cognitive and attentional mechanisms in delay of gratification. Journal of Personality and Social Psychology, 21(2), 204-218."
-    author: "Mischel, W., Ebbesen, E. B., & Raskoff Zeiss, A."
-  - id: mischel-shoda-rodriguez-1989
-    resource: ""
-    title: "Mischel, W., Shoda, Y., & Rodriguez, M. L. (1989). Delay of gratification in children. Science, 244(4907), 933-938."
-    author: "Mischel, W., Shoda, Y., & Rodriguez, M. L."
-  - id: watts-duncan-quan-2018
+  - id: mischel-ebbesen-and-raskoff-zeiss-1972
+    title: "Mischel, W., Ebbesen, E. B., & Raskoff Zeiss, A. (1972). Cognitive and attentional mechanisms in delay of gratification. *Journal of Personality and Social Psychology, 21*(2), 204-218."
+    author: "Mischel, W., Ebbesen, E. B., & Raskoff Zeiss, A"
+    q: 3
+  - id: watts-duncan-and-quan-2018
     resource: "https://doi.org/10.1177/0956797618761661"
-    title: "Watts, T. W., Duncan, G. J., & Quan, H. (2018). Revisiting the marshmallow test: A conceptual replication investigating links between early delay of gratification and later outcomes. Psychological Science, 29(7), 1159-1177."
+    title: "Watts, T. W., Duncan, G. J., & Quan, H. (2018). Revisiting the marshmallow test: A conceptual replication investigating links between early delay of gratification and later outcomes. *Psychological Science, 29*(7), 1159-1177. [doi:10.1177/0956797618761661](https://doi.org/10.1177/0956797618761661)"
+    author: "Watts, T. W., Duncan, G. J., & Quan, H"
+    q: 4
     author: "Watts, T. W., Duncan, G. J., & Quan, H."
 ---
 

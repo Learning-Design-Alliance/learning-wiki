@@ -10,7 +10,9 @@ evidence_strength: moderate
 sources:
   - id: dishon-et-al-2024
     resource: "https://doi.org/10.1080/07370008.2023.2248641"
-    title: "Dishon, G., Barzilai, S., & Yanai, J. V. (2024). Grasping Psychological Evidence: Integrating Evidentiary Practices in Psychology Instruction. Cognition and Instruction, 42(1), 56-91."
+    title: "Dishon, G., Barzilai, S., & Yanai, J. V. (2024). Grasping Psychological Evidence: Integrating Evidentiary Practices in Psychology Instruction. *Cognition and Instruction, 42*(1), 56-91. [https://doi.org/10.1080/07370008.2023.2248641](https://doi.org/10.1080/07370008.2023.2248641)"
+    author: "Dishon, G., Barzilai, S., & Yanai, J. V"
+    q: 3
     author: "Dishon, G., Barzilai, S., & Yanai, J. V."
 ---
 

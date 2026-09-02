@@ -8,9 +8,11 @@ generated:
   at: 2026-08-29
 evidence_strength: weak
 sources:
-  - id: hilppo-stevens-2024
+  - id: hilppö-stevens-2024
     resource: "https://doi.org/10.1080/07370008.2024.2386956"
-    title: "Hilppö, J., & Stevens, R. (2024). Learning Inside the School, but Outside the Curriculum: An Extreme Case of Interest-Driven Learning in Alternative STEAM Learning Infrastructure for Schools. Cognition and Instruction, 42(4), 482-504."
+    title: "Hilppö, J., & Stevens, R. (2024). Learning Inside the School, but Outside the Curriculum: An Extreme Case of Interest-Driven Learning in Alternative STEAM Learning Infrastructure for Schools. *Cognition and Instruction, 42*(4), 482-504. [https://doi.org/10.1080/07370008.2024.2386956](https://doi.org/10.1080/07370008.2024.2386956)"
+    author: "Hilppö, J., & Stevens, R"
+    q: 2
     author: "Hilppö, J., & Stevens, R."
 ---
 

@@ -10,7 +10,9 @@ evidence_strength: moderate
 sources:
   - id: wisittanawat-lehrer-2024
     resource: "https://doi.org/10.1080/07370008.2024.2397969"
-    title: "Wisittanawat, P., & Lehrer, R. (2024). Teacher Cultivation of Classroom Statistical Modeling Practice: A Case Study. Cognition and Instruction, 42(4), 505-547."
+    title: "Wisittanawat, P., & Lehrer, R. (2024). Teacher Cultivation of Classroom Statistical Modeling Practice: A Case Study. *Cognition and Instruction, 42*(4), 505-547. [https://doi.org/10.1080/07370008.2024.2397969](https://doi.org/10.1080/07370008.2024.2397969)"
+    author: "Wisittanawat, P., & Lehrer, R"
+    q: 2
     author: "Wisittanawat, P., & Lehrer, R."
 ---
 

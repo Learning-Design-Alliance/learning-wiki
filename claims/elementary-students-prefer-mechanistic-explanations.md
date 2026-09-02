@@ -10,7 +10,9 @@ evidence_strength: moderate
 sources:
   - id: shtechman-ergazaki-haskel-ittah-2025
     resource: "https://doi.org/10.1080/10508406.2024.2432682"
-    title: "Shtechman, Y., Ergazaki, M., & Haskel-Ittah, M. (2025). Mechanistic reasoning in biology among elementary school children: Epistemic criteria for evaluation and construction. Journal of the Learning Sciences, 34(1), 35-70."
+    title: "Shtechman, Y., Ergazaki, M., & Haskel-Ittah, M. (2025). Mechanistic reasoning in biology among elementary school children: Epistemic criteria for evaluation and construction. *Journal of the Learning Sciences, 34*(1), 35-70. [https://doi.org/10.1080/10508406.2024.2432682](https://doi.org/10.1080/10508406.2024.2432682)"
+    author: "Shtechman, Y., Ergazaki, M., & Haskel-Ittah, M"
+    q: 2
     author: "Shtechman, Y., Ergazaki, M., & Haskel-Ittah, M."
 ---
 

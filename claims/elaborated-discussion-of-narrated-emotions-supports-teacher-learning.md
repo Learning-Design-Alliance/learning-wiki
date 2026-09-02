@@ -10,7 +10,9 @@ evidence_strength: moderate
 sources:
   - id: sarfati-shaulov-vedder-weiss-2025
     resource: "https://doi.org/10.1080/10508406.2025.2539845"
-    title: "Sarfati-Shaulov, K., & Vedder-Weiss, D. (2025). Narrated pedagogical emotions as a resource for teacher professional learning. Journal of the Learning Sciences, 35(1), 1-41."
+    title: "Sarfati-Shaulov, K., & Vedder-Weiss, D. (2025). Narrated pedagogical emotions as a resource for teacher professional learning. *Journal of the Learning Sciences, 35*(1), 1-41. [https://doi.org/10.1080/10508406.2025.2539845](https://doi.org/10.1080/10508406.2025.2539845)"
+    author: "Sarfati-Shaulov, K., & Vedder-Weiss, D"
+    q: 2
     author: "Sarfati-Shaulov, K., & Vedder-Weiss, D."
 ---
 

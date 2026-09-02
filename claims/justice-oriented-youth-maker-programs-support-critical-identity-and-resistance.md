@@ -10,7 +10,9 @@ evidence_strength: moderate
 sources:
   - id: greenberg-et-al-2020
     resource: "https://doi.org/10.1080/10508406.2020.1749633"
-    title: "Greenberg, D., Calabrese Barton, A., Tan, E., & Archer, L. (2020). Redefining entrepreneurialism in the maker movement: A critical youth approach. Journal of the Learning Sciences, 29(4-5), 471-510."
+    title: "Greenberg, D., Calabrese Barton, A., Tan, E., & Archer, L. (2020). Redefining entrepreneurialism in the maker movement: A critical youth approach. *Journal of the Learning Sciences, 29*(4-5), 471-510. [https://doi.org/10.1080/10508406.2020.1749633](https://doi.org/10.1080/10508406.2020.1749633)"
+    author: "Greenberg, D., Calabrese Barton, A., Tan, E., & Archer, L"
+    q: 3
     author: "Greenberg, D., Calabrese Barton, A., Tan, E., & Archer, L."
 ---
 

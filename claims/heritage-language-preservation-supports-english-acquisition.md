@@ -7,6 +7,27 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+sources:
+  - id: hansen-umeda-and-mckinney-2002
+    resource: "https://onlinelibrary.wiley.com/journal/14679922"
+    title: "Hansen, L., Umeda, Y., & McKinney, M. (2002). Savings in the relearning of second language vocabulary: The effects of time and proficiency. *Language Learning, 52*(4), 653-678. [https://onlinelibrary.wiley.com/journal/14679922](https://onlinelibrary.wiley.com/journal/14679922)"
+    author: "Hansen, L., Umeda, Y., & McKinney, M"
+    q: 2
+    i: 2
+    n: moderate
+  - id: kohnert-et-al-2005
+    resource: "https://pubs.asha.org/journal/lshss"
+    title: "Kohnert, K., Yim, D., Nett, K., Kan, P. F., & Duran, L. (2005). Intervention with linguistically diverse preschool children: A focus on developing home language(s). *Language, Speech, and Hearing Services in Schools, 36*(3), 251-263. [https://pubs.asha.org/journal/lshss](https://pubs.asha.org/journal/lshss)"
+    author: "Kohnert, K., Yim, D., Nett, K., Kan, P. F., & Duran, L"
+    q: 2
+    i: 1
+    n: small-to-moderate (clinical caseload study)
+  - id: ebert-2005
+    title: "Ebert, K. (2005). *Parent involvement and student achievement in bilingual family contexts*."
+    author: Ebert, K
+    q: 1
+    i: 1
+    n: not applicable (practitioner synthesis)
 ---
 
 # Preserving a bilingual student's heritage language supports rather than hinders English acquisition

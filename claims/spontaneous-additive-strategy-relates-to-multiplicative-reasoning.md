@@ -10,7 +10,9 @@ evidence_strength: moderate
 sources:
   - id: tzur-et-al-2021
     resource: "https://doi.org/10.1080/07370008.2021.1896521"
-    title: "Tzur, R., Johnson, H. L., Norton, A., Davis, A., Wang, X., Ferrara, M., Harrington, C., & Hodkowski, N. M. (2021). Children's Spontaneous Additive Strategy Relates to Multiplicative Reasoning. Cognition and Instruction, 39(4), 451-476."
+    title: "Tzur, R., Johnson, H. L., Norton, A., Davis, A., Wang, X., Ferrara, M., Harrington, C., & Hodkowski, N. M. (2021). Children's Spontaneous Additive Strategy Relates to Multiplicative Reasoning. *Cognition and Instruction, 39*(4), 451-476. [https://doi.org/10.1080/07370008.2021.1896521](https://doi.org/10.1080/07370008.2021.1896521)"
+    author: "Tzur, R., Johnson, H. L., Norton, A., Davis, A., Wang, X., Ferrara, M., Harrington, C., & Hodkowski, N. M"
+    q: 3
     author: "Tzur, R., Johnson, H. L., Norton, A., Davis, A., Wang, X., Ferrara, M., Harrington, C., & Hodkowski, N. M."
 ---
 

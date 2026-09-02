@@ -8,9 +8,11 @@ generated:
   at: 2026-08-29
 evidence_strength: moderate
 sources:
-  - id: van-de-pol-2019
+  - id: van-de-pol-et-al-2019
     resource: "https://doi.org/10.1080/10508406.2018.1522258"
-    title: "van de Pol, J., Mercer, N., & Volman, M. (2019). Scaffolding student understanding in small-group work: Students' uptake of teacher support in subsequent small-group interaction. Journal of the Learning Sciences, 28(2), 206-239."
+    title: "van de Pol, J., Mercer, N., & Volman, M. (2019). Scaffolding student understanding in small-group work: Students' uptake of teacher support in subsequent small-group interaction. *Journal of the Learning Sciences, 28*(2), 206-239. [https://doi.org/10.1080/10508406.2018.1522258](https://doi.org/10.1080/10508406.2018.1522258)"
+    author: "van de Pol, J., Mercer, N., & Volman, M"
+    q: 3
     author: "van de Pol, J., Mercer, N., & Volman, M."
 ---
 

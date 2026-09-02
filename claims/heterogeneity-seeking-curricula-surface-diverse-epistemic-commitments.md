@@ -10,7 +10,9 @@ evidence_strength: moderate
 sources:
   - id: pierson-et-al-2023
     resource: "https://doi.org/10.1080/07370008.2022.2111431"
-    title: "Pierson, A. E., Brady, C. E., Clark, D. B., & Sengupta, P. (2023). Students' Epistemic Commitments in a Heterogeneity-Seeking Modeling Curriculum. Cognition and Instruction, 41(2), 125-157."
+    title: "Pierson, A. E., Brady, C. E., Clark, D. B., & Sengupta, P. (2023). Students' Epistemic Commitments in a Heterogeneity-Seeking Modeling Curriculum. *Cognition and Instruction, 41*(2), 125-157. [https://doi.org/10.1080/07370008.2022.2111431](https://doi.org/10.1080/07370008.2022.2111431)"
+    author: "Pierson, A. E., Brady, C. E., Clark, D. B., & Sengupta, P"
+    q: 2
     author: "Pierson, A. E., Brady, C. E., Clark, D. B., & Sengupta, P."
 ---
 

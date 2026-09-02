@@ -10,7 +10,9 @@ evidence_strength: moderate
 sources:
   - id: penuel-et-al-2022
     resource: "https://doi.org/10.1080/07370008.2021.2010207"
-    title: "Penuel, W. R., Allen, A.-R., Henson, K., Campanella, M., Patton, R., Rademaker, K., Reed, W., Watkins, D., Wingert, K., Reiser, B., & Zivic, A. (2022). Learning Practical Design Knowledge through Co-Designing Storyline Science Curriculum Units. Cognition and Instruction, 40(1), 148-170."
+    title: "Penuel, W. R., Allen, A.-R., Henson, K., Campanella, M., Patton, R., Rademaker, K., Reed, W., Watkins, D., Wingert, K., Reiser, B., & Zivic, A. (2022). Learning Practical Design Knowledge through Co-Designing Storyline Science Curriculum Units. *Cognition and Instruction, 40*(1), 148-170. [https://doi.org/10.1080/07370008.2021.2010207](https://doi.org/10.1080/07370008.2021.2010207)"
+    author: "Penuel, W. R., Allen, A.-R., Henson, K., Campanella, M., Patton, R., Rademaker, K., Reed, W., Watkins, D., Wingert, K., Reiser, B., & Zivic, A"
+    q: 2
     author: "Penuel, W. R., Allen, A.-R., Henson, K., Campanella, M., Patton, R., Rademaker, K., Reed, W., Watkins, D., Wingert, K., Reiser, B., & Zivic, A."
 ---
 

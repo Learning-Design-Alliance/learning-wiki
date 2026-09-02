@@ -10,10 +10,12 @@ sources:
     resource: "https://doi.org/10.1037/0022-0663.91.2.241"
     title: "Zimmerman, B. J., & Kitsantas, A. (1999). Acquiring writing revision skill: Shifting from process to outcome self-regulatory goals. *Journal of Educational Psychology, 91*(2), 241–252. [https://doi.org/10.1037/0022-0663.91.2.241](https://doi.org/10.1037/0022-0663.91.2.241)"
     author: "Zimmerman, B. J., & Kitsantas, A"
+    q: 3
   - id: zimmerman-2000
     resource: "https://doi.org/10.1016/B978-012109890-2/50031-7"
     title: "Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 13–39). Academic Press. [https://doi.org/10.1016/B978-012109890-2/50031-7](https://doi.org/10.1016/B978-012109890-2/50031-7)"
     author: Zimmerman, B. J
+    q: 3
 id: process-goals-outperform-outcome-goals-for-novices
 evidence_strength: moderate
 ---

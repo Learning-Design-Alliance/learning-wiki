@@ -8,9 +8,11 @@ generated:
   at: 2026-08-29
 evidence_strength: moderate
 sources:
-  - id: melendez-2021
+  - id: meléndez-2021
     resource: "https://doi.org/10.1080/10508406.2020.1807349"
-    title: "Meléndez, J. W. (2021). Latino immigrants in civil society: Addressing the double-bind of participation for expansive learning in participatory budgeting. Journal of the Learning Sciences, 30(1), 76-102."
+    title: "Meléndez, J. W. (2021). Latino immigrants in civil society: Addressing the double-bind of participation for expansive learning in participatory budgeting. *Journal of the Learning Sciences, 30*(1), 76-102. [https://doi.org/10.1080/10508406.2020.1807349](https://doi.org/10.1080/10508406.2020.1807349)"
+    author: Meléndez, J. W
+    q: 2
     author: "Meléndez, J. W."
 ---
 

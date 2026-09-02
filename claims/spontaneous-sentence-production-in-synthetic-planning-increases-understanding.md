@@ -10,7 +10,9 @@ evidence_strength: moderate
 sources:
   - id: baaijen-galbraith-2018
     resource: "https://doi.org/10.1080/07370008.2018.1456431"
-    title: "Baaijen, V. M., & Galbraith, D. (2018). Discovery Through Writing: Relationships with Writing Processes and Text Quality. Cognition and Instruction, 36(3), 199-223."
+    title: "Baaijen, V. M., & Galbraith, D. (2018). Discovery Through Writing: Relationships with Writing Processes and Text Quality. *Cognition and Instruction, 36*(3), 199-223. [https://doi.org/10.1080/07370008.2018.1456431](https://doi.org/10.1080/07370008.2018.1456431)"
+    author: "Baaijen, V. M., & Galbraith, D"
+    q: 3
     author: "Baaijen, V. M., & Galbraith, D."
 ---
 

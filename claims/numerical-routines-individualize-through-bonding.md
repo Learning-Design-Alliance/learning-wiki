@@ -10,7 +10,9 @@ evidence_strength: moderate
 sources:
   - id: lavie-sfard-2019
     resource: "https://doi.org/10.1080/10508406.2019.1646650"
-    title: "Lavie, I., & Sfard, A. (2019). How Children Individualize Numerical Routines: Elements of a Discursive Theory in Making. Journal of the Learning Sciences, 28(4-5), 419-461."
+    title: "Lavie, I., & Sfard, A. (2019). How Children Individualize Numerical Routines: Elements of a Discursive Theory in Making. *Journal of the Learning Sciences, 28*(4-5), 419-461. [https://doi.org/10.1080/10508406.2019.1646650](https://doi.org/10.1080/10508406.2019.1646650)"
+    author: "Lavie, I., & Sfard, A"
+    q: 3
     author: "Lavie, I., & Sfard, A."
 ---
 

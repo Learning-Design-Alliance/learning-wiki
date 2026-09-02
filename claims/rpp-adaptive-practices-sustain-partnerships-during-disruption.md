@@ -10,7 +10,9 @@ evidence_strength: weak
 sources:
   - id: popa-et-al-2023
     resource: "https://doi.org/10.1080/10508406.2023.2253529"
-    title: "Popa, N., Anderson, E. R., Denner, J., McKenney, S., & Peurach, D. J. (2023). Belonging to a research-practice partnership: Lessons from 15 think-pieces about the COVID-19 pandemic and a call for action. Journal of the Learning Sciences, 32(4-5), 682-704."
+    title: "Popa, N., Anderson, E. R., Denner, J., McKenney, S., & Peurach, D. J. (2023). Belonging to a research-practice partnership: Lessons from 15 think-pieces about the COVID-19 pandemic and a call for action. *Journal of the Learning Sciences, 32*(4-5), 682-704. [https://doi.org/10.1080/10508406.2023.2253529](https://doi.org/10.1080/10508406.2023.2253529)"
+    author: "Popa, N., Anderson, E. R., Denner, J., McKenney, S., & Peurach, D. J"
+    q: 1
     author: "Popa, N., Anderson, E. R., Denner, J., McKenney, S., & Peurach, D. J."
 ---
 

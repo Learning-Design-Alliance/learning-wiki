@@ -10,10 +10,12 @@ sources:
     resource: "https://doi.org/10.1207/s15430421tip4102_2"
     title: "Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)"
     author: Zimmerman, B. J
+    q: 3
   - id: butler-winne-1995
     resource: "https://doi.org/10.3102/00346543065003245"
     title: "Butler, D. L., & Winne, P. H. (1995). Feedback and self-regulated learning: A theoretical synthesis. *Review of Educational Research, 65*(3), 245-281. [https://doi.org/10.3102/00346543065003245](https://doi.org/10.3102/00346543065003245)"
     author: "Butler, D. L., & Winne, P. H"
+    q: 3
 id: self-monitoring-improves-self-regulation
 evidence_strength: moderate
 ---

@@ -10,7 +10,9 @@ evidence_strength: weak
 sources:
   - id: tofel-grehl-et-al-2024
     resource: "https://doi.org/10.1080/10508406.2024.2409101"
-    title: "Tofel-Grehl, C., Hawkman, A. M., Feldon, D. F., Suárez, M. I., MacDonald, B. M., & Searle, K. (2024). \"I can be the weird STEM kid who is also gay\": Queer rightful presence in STEM making. Journal of the Learning Sciences, 33(4-5), 799-842."
+    title: "Tofel-Grehl, C., Hawkman, A. M., Feldon, D. F., Suárez, M. I., MacDonald, B. M., & Searle, K. (2024). \"I can be the weird STEM kid who is also gay\": Queer rightful presence in STEM making. *Journal of the Learning Sciences, 33*(4-5), 799-842. [https://doi.org/10.1080/10508406.2024.2409101](https://doi.org/10.1080/10508406.2024.2409101)"
+    author: "Tofel-Grehl, C., Hawkman, A. M., Feldon, D. F., Suárez, M. I., MacDonald, B. M., & Searle, K"
+    q: 2
     author: "Tofel-Grehl, C., Hawkman, A. M., Feldon, D. F., Suárez, M. I., MacDonald, B. M., & Searle, K."
 ---
 

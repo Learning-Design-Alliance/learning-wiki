@@ -10,7 +10,9 @@ evidence_strength: moderate
 sources:
   - id: akkerman-bruining-2016
     resource: "https://doi.org/10.1080/10508406.2016.1147448"
-    title: "Akkerman, S., & Bruining, T. (2016). Multilevel boundary crossing in a professional development school partnership. Journal of the Learning Sciences, 25(2), 240-284."
+    title: "Akkerman, S., & Bruining, T. (2016). Multilevel boundary crossing in a professional development school partnership. *Journal of the Learning Sciences, 25*(2), 240-284. [https://doi.org/10.1080/10508406.2016.1147448](https://doi.org/10.1080/10508406.2016.1147448)"
+    author: "Akkerman, S., & Bruining, T"
+    q: 3
     author: "Akkerman, S., & Bruining, T."
 ---
 
