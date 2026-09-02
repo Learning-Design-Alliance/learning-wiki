@@ -268,6 +268,26 @@ routinely holds real uncommitted work, and keying on HEAD would call all of it i
   the same final tree without throwing away a build most of the way through mkdocs.
   **If something merged and the site does not show it, check the `Deploy Docs` run before
   suspecting the change.**
+- **All twelve learner dimensions now resolve.** `spec/learners.md` requires every dimension
+  slug to be a `learner-variables/` slug, and eleven of the twelve resolved to nothing — an
+  agent writing for a course varying on `belonging` had this repo's own table and no
+  interventions. The eleven are written, at `status: draft`, in the shape
+  `prior-knowledge` established.
+- **The granularity question in `findings/0007` is settled: twelve pages, one per
+  dimension** — not the ~34 LVN factors with the twelve as a grouping layer. A dimension
+  resolves to exactly one page, which is what `spec/learners.md`'s join rule already assumes
+  (`belonging → learner-variables/belonging.md → ## Examples`), and no change is needed in
+  the spec repo. The cost is real and worth knowing: `reading-and-language` bundles five LVN
+  factors whose evidence bases differ, so its `## Claims` mixes them and a decision keyed on
+  vocabulary alone cannot select just that. Splitting later is cheap now that `aliases:`
+  exists — the factor name becomes an alias until it earns its own page.
+- **Every link on those pages was verified to exist before it was written.** 99 candidate
+  slugs checked against disk, 0 missing; all 49 claim citations carry a `[±~][SMW]` marker,
+  so `check_evidence_markers.py` is unchanged at 244. **Their `## Key Sources` deliberately
+  carry no new citations** — the evidence sits on the linked claim pages, which have been
+  through the Crossref pipeline. Adding eleven pages' worth of fresh unverified references
+  to a corpus this session spent days cleaning would have been the wrong trade, and this
+  sandbox cannot reach Crossref to check them.
 - **Third-party Actions are pinned to commit SHAs, with the tag in a trailing comment.**
   A tag is mutable — whoever owns that repo can repoint `@v4` at anything — and `docs.yml`
   runs with `contents: write` on every push to `main`. When bumping one, resolve the new

@@ -10,10 +10,11 @@
   "elements->patterns": 241,
   "elements->principles": 309,
   "elements->theories": 44,
-  "learner-variables->claims": 1,
-  "learner-variables->elements": 1,
-  "learner-variables->patterns": 1,
-  "learner-variables->theories": 1,
+  "learner-variables->claims": 12,
+  "learner-variables->elements": 12,
+  "learner-variables->learner-variables": 3,
+  "learner-variables->patterns": 6,
+  "learner-variables->theories": 6,
   "patterns->claims": 89,
   "patterns->elements": 93,
   "patterns->patterns": 104,
@@ -3265,6 +3266,11 @@
     "learner-variables": [
      {
       "polarity": "+",
+      "slug": "domain-context",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "prior-knowledge",
       "strength": "M"
      }
@@ -5207,6 +5213,13 @@
       "strength": "M"
      }
     ],
+    "learner-variables": [
+     {
+      "polarity": "+",
+      "slug": "domain-context",
+      "strength": "M"
+     }
+    ],
     "patterns": [
      {
       "polarity": "+",
@@ -5443,6 +5456,13 @@
      {
       "polarity": "+",
       "slug": "automaticity",
+      "strength": "S"
+     }
+    ],
+    "learner-variables": [
+     {
+      "polarity": "+",
+      "slug": "reading-and-language",
       "strength": "S"
      }
     ],
@@ -6617,6 +6637,13 @@
       "polarity": "+",
       "slug": "student-led-ieps",
       "strength": "S"
+     }
+    ],
+    "learner-variables": [
+     {
+      "polarity": "+",
+      "slug": "motivation",
+      "strength": "M"
      }
     ],
     "patterns": [
@@ -8741,6 +8768,13 @@
       "strength": "S"
      }
     ],
+    "learner-variables": [
+     {
+      "polarity": "+",
+      "slug": "belonging",
+      "strength": "M"
+     }
+    ],
     "patterns": [
      {
       "polarity": "+",
@@ -9900,6 +9934,13 @@
       "slug": "heritage-language-preservation-supports-english-acquisition"
      }
     ],
+    "learner-variables": [
+     {
+      "polarity": "+",
+      "slug": "reading-and-language",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -10093,6 +10134,13 @@
      },
      {
       "slug": "teacher-student-relationships-improve-engagement"
+     }
+    ],
+    "learner-variables": [
+     {
+      "polarity": "+",
+      "slug": "belonging",
+      "strength": "M"
      }
     ],
     "patterns": [
@@ -10415,6 +10463,13 @@
      {
       "polarity": "+",
       "slug": "feelings-vocabulary",
+      "strength": "M"
+     }
+    ],
+    "learner-variables": [
+     {
+      "polarity": "+",
+      "slug": "belonging",
       "strength": "M"
      }
     ],
@@ -10948,6 +11003,13 @@
       "strength": "M"
      }
     ],
+    "learner-variables": [
+     {
+      "polarity": "+",
+      "slug": "domain-context",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -11166,6 +11228,13 @@
       "strength": "W"
      }
     ],
+    "learner-variables": [
+     {
+      "polarity": "-",
+      "slug": "digital-literacy",
+      "strength": "M"
+     }
+    ],
     "patterns": [
      {
       "polarity": "~",
@@ -11321,6 +11390,13 @@
     ]
    },
    "choice-rich-infrastructure-supports-productive-deviation-and-learning": {
+    "learner-variables": [
+     {
+      "polarity": "+",
+      "slug": "motivation",
+      "strength": "W"
+     }
+    ],
     "patterns": [
      {
       "slug": "alternative-in-school-steam-learning-infrastructure"
@@ -12023,6 +12099,11 @@
       "polarity": "+",
       "slug": "prior-knowledge",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "working-memory",
+      "strength": "S"
      }
     ],
     "patterns": [
@@ -15329,6 +15410,13 @@
       "polarity": "+",
       "slug": "exercise-breaks",
       "strength": "S"
+     }
+    ],
+    "learner-variables": [
+     {
+      "polarity": "+",
+      "slug": "attention",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -22083,6 +22171,13 @@
      {
       "slug": "learning-styles-matching-yields-no-benefit"
      }
+    ],
+    "learner-variables": [
+     {
+      "polarity": "~",
+      "slug": "time-and-continuity",
+      "strength": "M"
+     }
     ]
    },
    "dialogic-reading-improves-expressive-language": {
@@ -22489,6 +22584,13 @@
      },
      {
       "slug": "testing-improves-retention"
+     }
+    ],
+    "learner-variables": [
+     {
+      "polarity": "+",
+      "slug": "time-and-continuity",
+      "strength": "S"
      }
     ],
     "strategies": [
@@ -23532,6 +23634,13 @@
     ]
    },
    "emotion-labeling-improves-regulation": {
+    "learner-variables": [
+     {
+      "polarity": "+",
+      "slug": "affect-regulation",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -28704,6 +28813,13 @@
      {
       "slug": "spacing-improves-long-term-retention"
      }
+    ],
+    "learner-variables": [
+     {
+      "polarity": "-",
+      "slug": "self-regulation",
+      "strength": "M"
+     }
     ]
    },
    "fluency-poor-cue-learning": {
@@ -28833,6 +28949,13 @@
      },
      {
       "slug": "self-regulation-strategy-instruction-improves-achievement"
+     }
+    ],
+    "learner-variables": [
+     {
+      "polarity": "+",
+      "slug": "self-regulation",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -28980,6 +29103,13 @@
     ]
    },
    "growth-mindset-improves-achievement": {
+    "learner-variables": [
+     {
+      "polarity": "+",
+      "slug": "motivation",
+      "strength": "W"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -29003,6 +29133,13 @@
     ]
    },
    "growth-mindset-interventions-small-effects": {
+    "learner-variables": [
+     {
+      "polarity": "~",
+      "slug": "motivation",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "~",
@@ -29484,6 +29621,13 @@
     ]
    },
    "identity-centered-making-supports-stem-engagement-and-identity-affirmation": {
+    "learner-variables": [
+     {
+      "polarity": "+",
+      "slug": "belonging",
+      "strength": "W"
+     }
+    ],
     "patterns": [
      {
       "polarity": "~",
@@ -29514,6 +29658,13 @@
     ]
    },
    "incidental-vocabulary-exposure-limited": {
+    "learner-variables": [
+     {
+      "polarity": "-",
+      "slug": "reading-and-language",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -29597,6 +29748,13 @@
      },
      {
       "slug": "spacing-improves-retention"
+     }
+    ],
+    "learner-variables": [
+     {
+      "polarity": "+",
+      "slug": "time-and-continuity",
+      "strength": "M"
      }
     ]
    },
@@ -29839,6 +29997,13 @@
     ]
    },
    "learners-misjudge-spacing-benefits": {
+    "learner-variables": [
+     {
+      "polarity": "-",
+      "slug": "time-and-continuity",
+      "strength": "M"
+     }
+    ],
     "principles": [
      {
       "polarity": "~",
@@ -30093,6 +30258,13 @@
       "strength": "S"
      }
     ],
+    "learner-variables": [
+     {
+      "polarity": "~",
+      "slug": "motivation",
+      "strength": "M"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -30102,6 +30274,13 @@
     ]
    },
    "math-anxiety-degrades-performance": {
+    "learner-variables": [
+     {
+      "polarity": "-",
+      "slug": "affect-regulation",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "~",
@@ -30589,6 +30768,13 @@
       "slug": "self-regulation-strategy-instruction-improves-achievement"
      }
     ],
+    "learner-variables": [
+     {
+      "polarity": "+",
+      "slug": "self-regulation",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -30707,6 +30893,13 @@
     ]
    },
    "mnemonic-instruction-improves-recall-for-students-with-disabilities": {
+    "learner-variables": [
+     {
+      "polarity": "+",
+      "slug": "access",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -30736,6 +30929,13 @@
     ]
    },
    "modality-effect-narration-over-text": {
+    "learner-variables": [
+     {
+      "polarity": "+",
+      "slug": "working-memory",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -30761,6 +30961,13 @@
     ]
    },
    "morphological-instruction-improves-literacy": {
+    "learner-variables": [
+     {
+      "polarity": "+",
+      "slug": "reading-and-language",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -30805,6 +31012,13 @@
     "claims": [
      {
       "slug": "coherence-principle-irrelevant-material-hurts-learning"
+     }
+    ],
+    "learner-variables": [
+     {
+      "polarity": "+",
+      "slug": "digital-literacy",
+      "strength": "M"
      }
     ]
    },
@@ -33454,6 +33668,13 @@
     ]
    },
    "productive-failure-improves-conceptual-learning": {
+    "learner-variables": [
+     {
+      "polarity": "~",
+      "slug": "affect-regulation",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -33672,6 +33893,13 @@
     ]
    },
    "reciprocal-teaching-improves-reading-comprehension": {
+    "learner-variables": [
+     {
+      "polarity": "+",
+      "slug": "reading-and-language",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -33681,6 +33909,13 @@
     ]
    },
    "redundancy-effect-impairs-learning": {
+    "learner-variables": [
+     {
+      "polarity": "-",
+      "slug": "working-memory",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "-",
@@ -33708,6 +33943,13 @@
     ]
    },
    "redundancy-hurts-multimedia-learning": {
+    "learner-variables": [
+     {
+      "polarity": "-",
+      "slug": "digital-literacy",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "~",
@@ -34151,6 +34393,13 @@
     ]
    },
    "restorying-supports-computing-identity-reconstruction": {
+    "learner-variables": [
+     {
+      "polarity": "+",
+      "slug": "belonging",
+      "strength": "W"
+     }
+    ],
     "strategies": [
      {
       "slug": "humanistic-knowledge-building-community"
@@ -34449,6 +34698,13 @@
     ]
    },
    "seductive-details-distract-from-learning": {
+    "learner-variables": [
+     {
+      "polarity": "-",
+      "slug": "attention",
+      "strength": "M"
+     }
+    ],
     "theories": [
      {
       "polarity": "-",
@@ -34481,6 +34737,13 @@
     ]
    },
    "segmentation-benefits-shrink-with-expertise": {
+    "learner-variables": [
+     {
+      "polarity": "~",
+      "slug": "working-memory",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "~",
@@ -34490,6 +34753,18 @@
     ]
    },
    "segmenting-improves-multimedia-learning": {
+    "learner-variables": [
+     {
+      "polarity": "+",
+      "slug": "attention",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "digital-literacy",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -34630,6 +34905,13 @@
     ]
    },
    "self-assessment-accuracy-is-low-without-training": {
+    "learner-variables": [
+     {
+      "polarity": "-",
+      "slug": "self-regulation",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "-",
@@ -39132,6 +39414,13 @@
       "strength": "M"
      }
     ],
+    "learner-variables": [
+     {
+      "polarity": "+",
+      "slug": "self-regulation",
+      "strength": "M"
+     }
+    ],
     "patterns": [
      {
       "polarity": "~",
@@ -40784,6 +41073,13 @@
       "strength": "M"
      }
     ],
+    "learner-variables": [
+     {
+      "polarity": "+",
+      "slug": "self-regulation",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -40929,6 +41225,13 @@
       "polarity": "+",
       "slug": "attention",
       "strength": "S"
+     }
+    ],
+    "learner-variables": [
+     {
+      "polarity": "+",
+      "slug": "attention",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -41706,6 +42009,13 @@
     ]
    },
    "spacing-improves-long-term-retention": {
+    "learner-variables": [
+     {
+      "polarity": "+",
+      "slug": "time-and-continuity",
+      "strength": "S"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -41740,6 +42050,13 @@
       "polarity": "+",
       "slug": "proximity",
       "strength": "S"
+     }
+    ],
+    "learner-variables": [
+     {
+      "polarity": "+",
+      "slug": "access",
+      "strength": "M"
      }
     ]
    },
@@ -42074,6 +42391,13 @@
       "strength": "S"
      }
     ],
+    "learner-variables": [
+     {
+      "polarity": "-",
+      "slug": "working-memory",
+      "strength": "S"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -42301,6 +42625,13 @@
     ]
    },
    "systematic-phonics-improves-word-reading": {
+    "learner-variables": [
+     {
+      "polarity": "+",
+      "slug": "reading-and-language",
+      "strength": "S"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -43148,6 +43479,13 @@
     ]
    },
    "vocabulary-instruction-improves-comprehension": {
+    "learner-variables": [
+     {
+      "polarity": "+",
+      "slug": "reading-and-language",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -45242,6 +45580,11 @@
       "slug": "student-led-ieps"
      }
     ],
+    "learner-variables": [
+     {
+      "slug": "access"
+     }
+    ],
     "patterns": [
      {
       "slug": "authentic-assessment"
@@ -47185,6 +47528,11 @@
      },
      {
       "slug": "personalized-pacing"
+     }
+    ],
+    "learner-variables": [
+     {
+      "slug": "time-and-continuity"
      }
     ],
     "patterns": [
@@ -49510,6 +49858,11 @@
      },
      {
       "slug": "case-study"
+     }
+    ],
+    "learner-variables": [
+     {
+      "slug": "domain-context"
      }
     ],
     "patterns": [
@@ -54778,6 +55131,11 @@
       "slug": "reinforcement"
      }
     ],
+    "learner-variables": [
+     {
+      "slug": "attention"
+     }
+    ],
     "strategies": [
      {
       "slug": "attention-signals"
@@ -54901,6 +55259,14 @@
      },
      {
       "slug": "joint-book-reading-predicts-literacy-success"
+     }
+    ],
+    "learner-variables": [
+     {
+      "slug": "access"
+     },
+     {
+      "slug": "reading-and-language"
      }
     ],
     "strategies": [
@@ -55115,6 +55481,14 @@
      },
      {
       "slug": "emotion-regulation"
+     }
+    ],
+    "learner-variables": [
+     {
+      "slug": "belonging"
+     },
+     {
+      "slug": "motivation"
      }
     ],
     "patterns": [
@@ -56288,6 +56662,11 @@
      },
      {
       "slug": "supportive-information"
+     }
+    ],
+    "learner-variables": [
+     {
+      "slug": "domain-context"
      }
     ],
     "patterns": [
@@ -63436,6 +63815,11 @@
     ]
    },
    "cognitive-load-management": {
+    "learner-variables": [
+     {
+      "slug": "working-memory"
+     }
+    ],
     "strategies": [
      {
       "slug": "break_tasks_into_pieces"
@@ -63479,6 +63863,11 @@
     "elements": [
      {
       "slug": "procedural-information"
+     }
+    ],
+    "learner-variables": [
+     {
+      "slug": "self-regulation"
      }
     ],
     "strategies": [
@@ -66294,6 +66683,11 @@
     ]
    },
    "emotion-regulation": {
+    "learner-variables": [
+     {
+      "slug": "affect-regulation"
+     }
+    ],
     "strategies": [
      {
       "slug": "emotion-check-ins"
@@ -67946,6 +68340,11 @@
     ]
    },
    "feelings-vocabulary": {
+    "learner-variables": [
+     {
+      "slug": "affect-regulation"
+     }
+    ],
     "strategies": [
      {
       "slug": "have-explicit-conversations-about-emotions-and-social-issues-including-issues-of-social-justice"
@@ -68154,6 +68553,11 @@
      },
      {
       "slug": "task-management"
+     }
+    ],
+    "learner-variables": [
+     {
+      "slug": "self-regulation"
      }
     ],
     "strategies": [
@@ -68536,6 +68940,11 @@
      },
      {
       "slug": "self-paced-learning"
+     }
+    ],
+    "learner-variables": [
+     {
+      "slug": "digital-literacy"
      }
     ],
     "strategies": [
@@ -69219,6 +69628,11 @@
     "elements": [
      {
       "slug": "just-in-time-learning"
+     }
+    ],
+    "learner-variables": [
+     {
+      "slug": "working-memory"
      }
     ],
     "patterns": [
@@ -75057,6 +75471,11 @@
     ]
    },
    "proximity": {
+    "learner-variables": [
+     {
+      "slug": "attention"
+     }
+    ],
     "strategies": [
      {
       "slug": "positive_narration"
@@ -77196,6 +77615,14 @@
       "slug": "multimedia-learning"
      }
     ],
+    "learner-variables": [
+     {
+      "slug": "digital-literacy"
+     },
+     {
+      "slug": "time-and-continuity"
+     }
+    ],
     "patterns": [
      {
       "slug": "programmed-instruction"
@@ -77591,6 +78018,13 @@
      },
      {
       "slug": "word_study"
+     }
+    ]
+   },
+   "specific-learning-disabilities": {
+    "learner-variables": [
+     {
+      "slug": "access"
      }
     ]
    },
@@ -79133,6 +79567,11 @@
       "slug": "whole-task-performance"
      }
     ],
+    "learner-variables": [
+     {
+      "slug": "working-memory"
+     }
+    ],
     "patterns": [
      {
       "slug": "authentic-assessment"
@@ -79194,6 +79633,29 @@
     "claims": [
      {
       "slug": "writing-improves-mathematical-understanding"
+     }
+    ]
+   }
+  },
+  "learner-variables": {
+   "access": {
+    "learner-variables": [
+     {
+      "slug": "digital-literacy"
+     }
+    ]
+   },
+   "digital-literacy": {
+    "learner-variables": [
+     {
+      "slug": "access"
+     }
+    ]
+   },
+   "working-memory": {
+    "learner-variables": [
+     {
+      "slug": "attention"
      }
     ]
    }
@@ -79302,6 +79764,9 @@
     "learner-variables": [
      {
       "slug": "prior-knowledge"
+     },
+     {
+      "slug": "working-memory"
      }
     ],
     "patterns": [
@@ -79616,6 +80081,11 @@
       "slug": "video-prompts"
      }
     ],
+    "learner-variables": [
+     {
+      "slug": "domain-context"
+     }
+    ],
     "patterns": [
      {
       "slug": "5e-learning-cycle"
@@ -79753,6 +80223,11 @@
      },
      {
       "slug": "transfer-tasks"
+     }
+    ],
+    "learner-variables": [
+     {
+      "slug": "domain-context"
      }
     ],
     "patterns": [
@@ -79983,6 +80458,11 @@
      },
      {
       "slug": "transfer-tasks"
+     }
+    ],
+    "learner-variables": [
+     {
+      "slug": "domain-context"
      }
     ],
     "patterns": [
@@ -82272,6 +82752,11 @@
      },
      {
       "slug": "summative-assessment"
+     }
+    ],
+    "learner-variables": [
+     {
+      "slug": "time-and-continuity"
      }
     ],
     "patterns": [
@@ -86542,6 +87027,11 @@
     ]
    },
    "responsive-classroom": {
+    "learner-variables": [
+     {
+      "slug": "affect-regulation"
+     }
+    ],
     "strategies": [
      {
       "slug": "emotion_emojis_check-in"
@@ -86583,9 +87073,19 @@
      {
       "slug": "metacognitive-strategies"
      }
+    ],
+    "learner-variables": [
+     {
+      "slug": "self-regulation"
+     }
     ]
    },
    "social-emotional-learning": {
+    "learner-variables": [
+     {
+      "slug": "affect-regulation"
+     }
+    ],
     "strategies": [
      {
       "slug": "positive-behavioral-interventions-and-supports-pbis"
@@ -104621,6 +105121,14 @@
     ]
    },
    "arcs-model": {
+    "learner-variables": [
+     {
+      "slug": "attention"
+     },
+     {
+      "slug": "motivation"
+     }
+    ],
     "theories": [
      {
       "slug": "expectancy-value-theory"
@@ -104642,6 +105150,11 @@
     ]
    },
    "attribution-theory": {
+    "learner-variables": [
+     {
+      "slug": "motivation"
+     }
+    ],
     "theories": [
      {
       "slug": "expectancy-value-theory"
@@ -105036,6 +105549,11 @@
     "elements": [
      {
       "slug": "knowledge-building-discourse"
+     }
+    ],
+    "learner-variables": [
+     {
+      "slug": "domain-context"
      }
     ],
     "patterns": [
@@ -105623,6 +106141,9 @@
     "learner-variables": [
      {
       "slug": "prior-knowledge"
+     },
+     {
+      "slug": "working-memory"
      }
     ],
     "patterns": [
@@ -106357,6 +106878,11 @@
       "slug": "resolving-participation-double-bind-requires-redesigned-activity-structures"
      }
     ],
+    "learner-variables": [
+     {
+      "slug": "domain-context"
+     }
+    ],
     "patterns": [
      {
       "slug": "differentiated-activity-structures-for-inclusive-participation"
@@ -106805,6 +107331,11 @@
       "slug": "early-delay-of-gratification-predicts-later-outcomes"
      }
     ],
+    "learner-variables": [
+     {
+      "slug": "attention"
+     }
+    ],
     "theories": [
      {
       "slug": "information-processing-theory"
@@ -106818,6 +107349,11 @@
     ]
    },
    "expectancy-value-theory": {
+    "learner-variables": [
+     {
+      "slug": "motivation"
+     }
+    ],
     "theories": [
      {
       "slug": "arcs-model"
@@ -107380,6 +107916,9 @@
     "learner-variables": [
      {
       "slug": "prior-knowledge"
+     },
+     {
+      "slug": "working-memory"
      }
     ],
     "patterns": [
@@ -107563,6 +108102,11 @@
       "slug": "seductive-details-distract-from-learning"
      }
     ],
+    "learner-variables": [
+     {
+      "slug": "motivation"
+     }
+    ],
     "theories": [
      {
       "slug": "arcs-model"
@@ -107675,6 +108219,11 @@
     ]
    },
    "goal-orientation-theory": {
+    "learner-variables": [
+     {
+      "slug": "motivation"
+     }
+    ],
     "principles": [
      {
       "slug": "assessment-for-learning"
@@ -108016,6 +108565,11 @@
     "elements": [
      {
       "slug": "specific-learning-disabilities"
+     }
+    ],
+    "learner-variables": [
+     {
+      "slug": "self-regulation"
      }
     ],
     "principles": [
@@ -108801,6 +109355,11 @@
      },
      {
       "slug": "student-led-ieps"
+     }
+    ],
+    "learner-variables": [
+     {
+      "slug": "self-regulation"
      }
     ],
     "patterns": [
@@ -110332,7 +110891,7 @@
  "totals": {
   "claims": 422,
   "elements": 325,
-  "learner-variables": 1,
+  "learner-variables": 12,
   "patterns": 130,
   "principles": 198,
   "strategies": 2557,
