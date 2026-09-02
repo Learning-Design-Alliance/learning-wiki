@@ -256,6 +256,18 @@ routinely holds real uncommitted work, and keying on HEAD would call all of it i
   every dashboard scrape launched *with* a model completed discover, fetch and generate,
   paid for the generation, and then failed at ingest. Only a slug containing no `/`
   would have worked, and OpenRouter slugs all contain one.
+- **`Deploy Docs` is serialized with a `concurrency` group, because it raced itself four
+  times.** Two merges close together each start a deploy, each builds from its own commit,
+  and both push to `gh-pages`; the loser is rejected with *"the remote contains work that
+  you do not have locally"*. The site then stays on whichever build won, so a merged change
+  is simply **absent from the published site while `main` says it shipped** — and the PR is
+  green, because the failure is in the deploy run, not the PR's checks. Runs 37, 39, 45 and
+  60 all died this way; #60 (the page-metadata panel) merged at 02:57:40, eighteen seconds
+  after #59, and its deploy lost. `cancel-in-progress: false`: the newest run is built from
+  the newest commit and supersedes the older one, so draining the queue in order publishes
+  the same final tree without throwing away a build most of the way through mkdocs.
+  **If something merged and the site does not show it, check the `Deploy Docs` run before
+  suspecting the change.**
 - **Third-party Actions are pinned to commit SHAs, with the tag in a trailing comment.**
   A tag is mutable — whoever owns that repo can repoint `@v4` at anything — and `docs.yml`
   runs with `contents: write` on every push to `main`. When bumping one, resolve the new
