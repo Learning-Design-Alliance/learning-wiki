@@ -1,22 +1,23 @@
 ---
 type: pattern
-id: gagnés-9-events-of-instruction
-title: "Gagne's 9 Events of Instruction"
-description: "Gagne's 9 Events of Instruction is a structured lesson pattern that sequences attention, objectives, recall, presentation, guidance, practice, feedback, assessment, and transfer."
+id: gagnes-9-events-of-instruction
+aliases: [gagnés-9-events, gagnés-9-events-of-instruction]
+title: "Gagné's 9 Events of Instruction"
+description: "Gagné's 9 Events of Instruction is a structured lesson pattern that sequences attention, objectives, recall, presentation, guidance, practice, feedback, assessment, and transfer."
 status: review
 generated:
   by: codex/unspecified
   at: 2026-04-07
-author: Robert Gagne
+author: Robert Gagné
 grain_size: lesson
 ---
 
-# Gagne's 9 Events of Instruction
+# Gagné's 9 Events of Instruction
 
 > **Pattern** · [All patterns](index.md)
 
 ## Description
-Gagne's 9 Events of Instruction is a structured lesson pattern that sequences attention, objectives, recall, presentation, guidance, practice, feedback, assessment, and transfer. It is a classic design for lessons where the instructor wants to move learners through a complete learning cycle with explicit support at each stage. The pattern is especially useful when content needs to be introduced clearly and practiced systematically within a bounded instructional sequence.
+Gagné's 9 Events of Instruction is a structured lesson pattern that sequences attention, objectives, recall, presentation, guidance, practice, feedback, assessment, and transfer. It is a classic design for lessons where the instructor wants to move learners through a complete learning cycle with explicit support at each stage. The pattern is especially useful when content needs to be introduced clearly and practiced systematically within a bounded instructional sequence.
 
 Its strength is coherence: each event sets up the next. Its limitation is rigidity. Not every domain or lesson benefits from a fully linear sequence, especially when inquiry, design, or open-ended exploration are the primary aims.
 

@@ -70,7 +70,7 @@ Checking for understanding operationalizes formative assessment at the moment of
 ## Patterns That Use This Strategy
 - [Direct Instruction](../patterns/direct-instruction.md) — the "check for understanding" step between modeling and guided practice
 - [Formative Assessment](../patterns/formative-assessment.md) — checking for understanding is the micro-level, in-flight form of this pattern
-- [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — "eliciting performance" and "providing feedback" events
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "eliciting performance" and "providing feedback" events
 
 ## Examples
 - A teacher gives three-step lab safety instructions, then asks, "Turn to your partner and tell them what you do first when the alarm sounds" — listening to pairs reveals whether the sequence was retained before anyone touches equipment.

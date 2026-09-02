@@ -75,7 +75,7 @@ Explicit modeling gives novices a complete expert performance to study, reducing
 - [Direct Instruction](../patterns/direct-instruction.md) — modeling is the central "present/demonstrate" phase
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the modeling phase before coaching and fading
 - [4C/ID](../patterns/4cid-four-component-instructional-design.md) — procedural information and worked examples as the modeling component of learning tasks
-- [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — "present the content" and "provide learning guidance"
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "present the content" and "provide learning guidance"
 
 ## Examples
 - A math teacher models solving a two-step equation, thinking aloud about inverse operations and checking the solution by substitution, then works a second problem jointly with the class before independent practice.

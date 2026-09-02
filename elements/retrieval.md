@@ -57,7 +57,7 @@ Retrieval is one of the most robust findings in learning science: testing as a l
 - [Advance Organizers](advance-organizers.md) — initial encoding support that makes later retrieval attempts productive
 
 ## Patterns That Use This Element
-- [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — "eliciting performance" and "assessing performance" events
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "eliciting performance" and "assessing performance" events
 - [Direct Instruction](../patterns/direct-instruction.md) — frequent checks for understanding are embedded retrieval opportunities
 - [Adaptive Mastery Learning](adaptive-mastery-learning.md) — repeated retrieval with feedback until mastery criterion is met
 

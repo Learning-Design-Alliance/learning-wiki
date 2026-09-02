@@ -60,7 +60,7 @@ Product testing operationalizes [Authentic Audiences & Purposes](../principles/a
 
 ## Related Strategies
 - [Peer Review](../elements/peer-review.md) — a feedback mechanism on work-in-progress; product testing adds real users and observed behavior to peer judgment
-- [Design Thinking](design-thinking.md) — product testing is the "test" phase of the cycle, feeding back into empathize and ideate
+- [Design Thinking](../patterns/design-thinking.md) — product testing is the "test" phase of the design cycle, feeding back into empathize and ideate
 - [Exhibition](exhibition.md) — public presentation of finished work; testing differs in that the work is expected to change afterward
 
 ## Examples

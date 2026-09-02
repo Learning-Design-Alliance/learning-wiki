@@ -76,7 +76,7 @@ Advance organizers improve comprehension and retention by giving learners a subs
 
 ## Patterns That Use This Element
 - [Elaboration Theory](../patterns/elaboration-theory.md) — the "epitome" and progressive elaboration sequence begins with the most inclusive organizing ideas
-- [Gagné's 9 Events of Instruction](../patterns/gagnés-9-events-of-instruction.md) — "inform learners of objectives" and "stimulate recall of prior learning"
+- [Gagné's 9 Events of Instruction](../patterns/gagnes-9-events-of-instruction.md) — "inform learners of objectives" and "stimulate recall of prior learning"
 - [Cognitive Load Theory](../patterns/cognitive-load-theory.md) — organizers as schema-provision to reduce germane-load demands on novices
 
 ## Examples

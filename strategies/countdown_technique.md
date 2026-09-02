@@ -18,7 +18,7 @@ The countdown technique involves the teacher counting down from a number — suc
 
 ## Design Implications
 
-The technique works through clear signaling and behavioral momentum: a predictable auditory cue paired with escalating specificity reduces ambiguity about what is expected, which is a core feature of effective classroom management routines [~M]. Its effectiveness depends less on the count itself than on the consistency and calm of its delivery — the same signaling principles that make attention cues effective in [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) ("gain attention") apply here.
+The technique works through clear signaling and behavioral momentum: a predictable auditory cue paired with escalating specificity reduces ambiguity about what is expected, which is a core feature of effective classroom management routines [~M]. Its effectiveness depends less on the count itself than on the consistency and calm of its delivery — the same signaling principles that make attention cues effective in [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) ("gain attention") apply here.
 
 ### Context
 #### Requirements

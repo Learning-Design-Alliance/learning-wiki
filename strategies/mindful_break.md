@@ -68,7 +68,7 @@ Mindful breaks target the attentional and emotional conditions for learning rath
 - [Act](../elements/act.md) — the physical stretch-and-breathe sequence is an embodied action anchoring the routine
 
 ## Patterns That Use This Strategy
-- [Gagné's 9 Events of Instruction](../patterns/gagnés-9-events-of-instruction.md) — serves the "gain attention" event through a student-driven mechanism
+- [Gagné's 9 Events of Instruction](../patterns/gagnes-9-events-of-instruction.md) — serves the "gain attention" event through a student-driven mechanism
 
 ## Examples
 - A middle-school teacher gives one student a bell each day. During the lesson, the student may ring it (maximum twice per 50-minute class) whenever the class seems to need a break. Instruction stops mid-sentence if necessary; everyone stands, stretches in silence, sits for ~30 seconds of mindful breathing, and the bell-ringer prompts a silent gratitude thought before class resumes.

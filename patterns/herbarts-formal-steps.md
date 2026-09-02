@@ -58,7 +58,7 @@ The pattern is historically significant as one of the earliest attempts to syste
 - The review and relate steps can be adapted in depth depending on how much the class's prior learning actually varies learner to learner
 
 ## Related Patterns
-- [Gagné's 9 Events](gagnés-9-events.md) — a later, more granular lesson-sequencing pattern covering similar ground (recall of prior learning, presentation, relating content, application) with additional steps for attention, guidance, and feedback
+- [Gagné's 9 Events](gagnes-9-events-of-instruction.md) — a later, more granular lesson-sequencing pattern covering similar ground (recall of prior learning, presentation, relating content, application) with additional steps for attention, guidance, and feedback
 
 ## Examples
 - A lesson opening with a short review of the prior day's content, an overview of the new topic, direct instruction, an explicit comparison ("this is like what we just did, except..."), and a closing application task

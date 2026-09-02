@@ -56,7 +56,7 @@ Midterms leverage the testing effect — the act of retrieving information stren
 
 ## Patterns That Use This Element
 - [Competency-Based Learning](../patterns/competency-based-learning.md) — periodic proficiency checkpoints
-- [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — "assess performance" event, instantiated at course scale
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "assess performance" event, instantiated at course scale
 
 ## Examples
 - **AP and IB course examinations** — mid-course and mock exams mirror the final external assessment's format, using past papers as practice tests

@@ -69,7 +69,7 @@ Working with real waste items grounds an abstract environmental topic in direct 
 
 ## Patterns That Use This Strategy
 - [Case-Based Learning](../patterns/case-based-learning.md) — the waste bin functions as a small, concrete case of a larger waste-management problem
-- [Gagné's 9 Events of Instruction](../patterns/gagnés-9-events-of-instruction.md) — the audit serves as "present the content" and "elicit performance" events in an applied sequence
+- [Gagné's 9 Events of Instruction](../patterns/gagnes-9-events-of-instruction.md) — the audit serves as "present the content" and "elicit performance" events in an applied sequence
 
 ## Tools
 - Physical sorting mats and tally charts (K–2)

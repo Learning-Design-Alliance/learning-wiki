@@ -69,7 +69,7 @@ Live writing demonstrations are a form of modeling with expert [Articulation](..
 ## Patterns That Use This Strategy
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the modeling and articulation phases applied to writing
 - [Direct Instruction](../patterns/direct-instruction.md) — demonstration as the "I do" phase before guided practice
-- [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — "present the content" enacted through live modeling
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "present the content" enacted through live modeling
 
 ## Examples
 - A history teacher composes an introductory paragraph in front of the class, verbalizing choices about evidence and framing while students nominate a worthy historical question for the teacher to tackle and critique each revision.

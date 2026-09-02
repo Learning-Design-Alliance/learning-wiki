@@ -57,7 +57,7 @@ Attention-gaining events increase readiness to learn by creating an information 
 - [Assess Performance](assess-performance.md) — the terminal event in Gagné's sequence, contrasting with this opening event
 
 ## Patterns That Use This Element
-- [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — the first event ("gain attention"), preceding informing learners of objectives
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — the first event ("gain attention"), preceding informing learners of objectives
 - [Anchored Instruction](../patterns/anchored-instruction.md) — the anchor scenario serves as the attention-gaining device for an entire problem sequence
 - [Case-Based Learning](../patterns/case-based-learning.md) — opens with a compelling case that motivates the analysis to follow
 

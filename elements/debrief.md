@@ -61,7 +61,7 @@ Debriefing is where much of the learning from experience is actually consolidate
 ## Patterns That Use This Element
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the reflection and articulation phases after coached practice
 - [Case-Based Learning](../patterns/case-based-learning.md) — the closing discussion that consolidates lessons from the case
-- [Gagné's 9 Events of Instruction](../patterns/gagnés-9-events-of-instruction.md) — "assess performance" and "enhance retention and transfer"
+- [Gagné's 9 Events of Instruction](../patterns/gagnes-9-events-of-instruction.md) — "assess performance" and "enhance retention and transfer"
 
 ## Examples
 

@@ -58,7 +58,7 @@ Direct instruction reduces unguided search during initial learning, which is whe
 - [Multimedia Instruction](multimedia-instruction.md) — delivery channel for explanations and demonstrations
 
 ## Patterns That Use This Element
-- [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — "present the content" and "provide learning guidance" events enact direct instruction
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "present the content" and "provide learning guidance" events enact direct instruction
 - [4C/ID](../patterns/4cid-four-component-instructional-design.md) — supportive information and procedural information components deliver explicit instruction within whole tasks
 - [Direct Instruction](../patterns/direct-instruction.md) — the full instructional model built on scripted, sequenced explicit teaching
 

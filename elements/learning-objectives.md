@@ -56,7 +56,7 @@ Well-specified objectives improve learning primarily by orienting learners' atte
 - [Rubrics](rubrics.md) — the operational translation of objectives into gradable criteria
 
 ## Patterns That Use This Element
-- [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — "inform learners of objectives" is Event 2
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "inform learners of objectives" is Event 2
 - [Four-Component Instructional Design](../patterns/4cid-four-component-instructional-design.md) — objectives derive from the analysis of learning tasks
 - [Direct Instruction](../patterns/direct-instruction.md) — objectives are stated explicitly and referenced throughout the lesson
 

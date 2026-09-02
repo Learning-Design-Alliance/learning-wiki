@@ -71,7 +71,7 @@ Procedural information reduces the working-memory burden of executing routine ta
 ## Patterns That Use This Element
 - [Four-Component Instructional Design](../patterns/4cid-four-component-instructional-design.md) — procedural information is one of the four components, supporting recurrent task aspects
 - [Cognitive Load Theory](../patterns/cognitive-load-theory.md) — just-in-time guidance manages intrinsic load during task performance
-- [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — "provide learning guidance" and "eliciting performance" events
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "provide learning guidance" and "eliciting performance" events
 
 ## Examples
 

@@ -44,7 +44,7 @@ Conceptual overviews are elements that present the broad structure, central idea
 
 ## Patterns That Use This Element
 - [Elaboration Theory](../patterns/elaboration-theory.md)
-- [Gagné's 9 Events](../patterns/gagnés-9-events.md)
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md)
 
 ## Examples
 - A simple course map that shows how major ideas connect before individual lessons begin.

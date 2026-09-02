@@ -38,7 +38,7 @@ Structured lessons reduce extraneous cognitive load by making the organization o
 - **Direct instruction models** (e.g., [Explicit Teaching](../patterns/explicit-teaching.md), [Direct Instruction](../patterns/direct-instruction.md)) use teacher-led, tightly sequenced structures: review, model, guided practice, independent practice
 - **Inquiry-oriented structures** (e.g., [Case-Based Learning](../patterns/case-based-learning.md)) open with a problem or case, then structure the lesson around investigation and debriefing rather than presentation-first sequencing
 - **Flipped structures** ([Flipped Classroom](../patterns/flipped-classroom.md)) move first exposure outside class so in-class structure can emphasize application and feedback
-- **Event-based templates** such as [Gagné's 9 Events of Instruction](../patterns/gagnés-9-events-of-instruction.md) provide a generic nine-phase skeleton adaptable to any content
+- **Event-based templates** such as [Gagné's 9 Events of Instruction](../patterns/gagnes-9-events-of-instruction.md) provide a generic nine-phase skeleton adaptable to any content
 
 ### Target Learners
 - Novices benefit most from explicit sequencing and small-step presentation, which reduce unguided search and load [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
@@ -64,7 +64,7 @@ Structured lessons reduce extraneous cognitive load by making the organization o
 
 ## Examples
 - **Rosenshine's Principles of Instruction** — a research-derived lesson template (daily review, small-step presentation, guided practice, checks for understanding) widely used in UK and US school improvement programs ([Rosenshine, 2012](https://www.aft.org/sites/default/files/periodicals/Rosenshine.pdf)).
-- **[Gagné's 9 Events of Instruction](../patterns/gagnés-9-events-of-instruction.md)** — a nine-phase lesson template (gain attention → inform objectives → … → enhance retention and transfer) used as the structural backbone of many corporate and higher-education course designs.
+- **[Gagné's 9 Events of Instruction](../patterns/gagnes-9-events-of-instruction.md)** — a nine-phase lesson template (gain attention → inform objectives → … → enhance retention and transfer) used as the structural backbone of many corporate and higher-education course designs.
 - **Success for All** — a whole-school cooperative learning program whose tightly scripted lesson structures produced consistent reading gains in randomized trials (https://www.successforall.org).
 
 ## Key Sources

@@ -60,7 +60,7 @@ Summarizing is effective because it forces generative processing: learners must 
 ## Patterns That Use This Element
 - [Direct Instruction](../patterns/direct-instruction.md) — the review/closure portion of each lesson
 - [5E Learning Cycle](../patterns/5e-learning-cycle.md) — the "Evaluate" phase often takes the form of a summary
-- [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — "enhancing retention and transfer" event
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "enhancing retention and transfer" event
 
 ## Examples
 - **[Reciprocal Teaching](https://www.readingrockets.org/topics/comprehension/articles/reciprocal-teaching-text-structure)** — Palincsar and Brown's routine trains small groups to alternate summarizing, questioning, clarifying, and predicting while reading; summarizing is the anchor strategy.

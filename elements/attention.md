@@ -58,7 +58,7 @@ Because working memory is severely limited and attention is selective, instructi
 ## Patterns That Use This Element
 - [Direct Instruction](../patterns/direct-instruction.md) — scripted, segmented presentation keeps attention on one clear point at a time
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — modeling makes expert attentional moves explicit so novices attend to the right features
-- [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — "gain attention" is the first event, on the recognition that nothing downstream works without it
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "gain attention" is the first event, on the recognition that nothing downstream works without it
 
 ## Examples
 

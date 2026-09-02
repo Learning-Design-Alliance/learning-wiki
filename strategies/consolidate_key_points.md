@@ -61,7 +61,7 @@ Consolidation closes the loop opened by student talk: discussion generates ideas
 
 ## Examples
 - **Rosenshine's Principles of Instruction** — "review and summarize key points" appears as a core practice of teachers whose students made the highest gains, applied at the end of each teaching segment rather than only at lesson's end.
-- **Gagné's 9 Events** — consolidation enacts the "enhance retention and transfer" event ([Gagné's 9 Events of Instruction](../patterns/gagnés-9-events-of-instruction.md)), typically via a summary and a transfer prompt.
+- **Gagné's 9 Events** — consolidation enacts the "enhance retention and transfer" event ([Gagné's 9 Events of Instruction](../patterns/gagnes-9-events-of-instruction.md)), typically via a summary and a transfer prompt.
 - **Discussion-based secondary classrooms** — after small-group analysis of a text, the teacher names the interpretive move the class made ("we supported claims with textual evidence") and records it as an anchor chart.
 
 ## Key Sources

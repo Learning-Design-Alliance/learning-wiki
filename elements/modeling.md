@@ -61,7 +61,7 @@ Modeling provides structured exposure to expert-level reasoning, reducing the un
 ## Patterns That Use This Element
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — modeling is the opening phase of the modeling–coaching–fading sequence
 - [Four-Component Instructional Design](../patterns/4cid-four-component-instructional-design.md) — worked examples serve as the modeling component of learning tasks
-- [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — "present the content" and "provide learning guidance" events
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "present the content" and "provide learning guidance" events
 
 ## Examples
 

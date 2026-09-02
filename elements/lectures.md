@@ -59,7 +59,7 @@ Lectures can efficiently build foundational knowledge when content is well-organ
 
 ## Patterns That Use This Element
 - [Direct Instruction](../patterns/direct-instruction.md) — lecture as the "present the content" phase
-- [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — "present the content" event
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "present the content" event
 - [Flipped Classroom](../patterns/flipped-classroom.md) — relocates the lecture to pre-class video, reserving class time for application
 - [Traditional Lecture-Based Instruction](../patterns/direct-instruction.md) — the lecture as the primary organizing element
 

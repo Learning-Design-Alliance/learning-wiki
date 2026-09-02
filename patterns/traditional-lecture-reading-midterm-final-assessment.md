@@ -95,7 +95,7 @@ The pattern can work reasonably well for broad content coverage and for learners
 
 ## Related Patterns
 - [Flipped Classroom](flipped-classroom.md)
-- [Gagne's 9 Events of Instruction](gagnés-9-events-of-instruction.md)
+- [Gagne's 9 Events of Instruction](gagnes-9-events-of-instruction.md)
 
 ## Examples
 - Large introductory survey courses organized around lectures, textbook reading, and two major exams.

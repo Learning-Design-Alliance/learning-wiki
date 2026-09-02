@@ -38,7 +38,7 @@ Explicit teaching is the element in which instructors directly explain, model, a
 - [Worked Examples](worked-examples.md)
 
 ## Patterns That Use This Element
-- [Gagné's 9 Events](../patterns/gagnés-9-events.md)
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md)
 - [Merrill's First Principles](../patterns/merrills-first-principles.md)
 
 ## Examples

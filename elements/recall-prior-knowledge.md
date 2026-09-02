@@ -56,7 +56,7 @@ Activating prior knowledge improves comprehension and retention because new info
 - [Cognitive Conflict](cognitive-conflict.md) — the follow-on move when activated prior knowledge turns out to be misconceived
 
 ## Patterns That Use This Element
-- [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — "stimulate recall of prior learning" (event 3)
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "stimulate recall of prior learning" (event 3)
 - [Anchored Instruction](../patterns/anchored-instruction.md) — anchors activate relevant experience before problem exploration
 - [4C Instructional Design](../patterns/4cid-four-component-instructional-design.md) — prior knowledge activation supports task classification and sequencing
 

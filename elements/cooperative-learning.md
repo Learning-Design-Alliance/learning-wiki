@@ -57,7 +57,7 @@ Cooperative learning reliably improves achievement when group goals and individu
 
 ## Patterns That Use This Element
 - [Collaborative Learning](../patterns/collaborative-learning.md) — the parent pattern; cooperative learning supplies its structural core
-- [Gagné's 9 Events of Instruction](../patterns/gagnés-9-events-of-instruction.md) — "eliciting performance" and "enhancing retention" through group application
+- [Gagné's 9 Events of Instruction](../patterns/gagnes-9-events-of-instruction.md) — "eliciting performance" and "enhancing retention" through group application
 
 ## Examples
 

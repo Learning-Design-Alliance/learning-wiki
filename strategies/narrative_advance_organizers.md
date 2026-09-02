@@ -63,7 +63,7 @@ Narrative advance organizers work by activating relevant prior knowledge and giv
 - [Analogies](../elements/analogies.md) — the structural mapping mechanism
 
 ## Patterns That Use This Element
-- [Gagné's 9 Events of Instruction](../patterns/gagnés-9-events-of-instruction.md) — "gain attention" and "inform learners of objectives" events
+- [Gagné's 9 Events of Instruction](../patterns/gagnes-9-events-of-instruction.md) — "gain attention" and "inform learners of objectives" events
 - [Anchored Instruction](../patterns/anchored-instruction.md) — a narrative anchor situates subsequent learning, though anchors there are richer and problem-based
 - [Elaboration Theory](../patterns/elaboration-theory.md) — organizing content around an epitome that is then elaborated
 

@@ -72,7 +72,7 @@ Post-reading reflection works because it converts passive reading into [Active L
 ## Patterns That Use This Strategy
 - [Discussion-Based Learning](../patterns/discussion-based-learning.md) — read-and-reflect supplies the preparation that makes discussion substantive
 - [Collaborative Learning](../patterns/collaborative-learning.md) — paired reflection is a minimal collaborative structure
-- [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — reflection serves the "eliciting performance" and "enhancing retention and transfer" events
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — reflection serves the "eliciting performance" and "enhancing retention and transfer" events
 
 ## Examples
 - **Turn-and-talk after independent reading** (elementary classrooms): students pair up to answer "Would you recommend this book to a friend? Why or why not?" — a requiring prompt that forces justification rather than plot recap.

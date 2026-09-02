@@ -18,10 +18,10 @@ Research-backed design commitments: what to do and why.
 ### [Elements](elements/index.md) (325)
 Instructional building blocks — the components you compose into patterns.
 
-### [Patterns](patterns/index.md) (130)
+### [Patterns](patterns/index.md) (134)
 Reusable instructional designs at the lesson or unit level.
 
-### [Strategies](strategies/index.md) (2557)
+### [Strategies](strategies/index.md) (2560)
 Concrete teaching activity recipes — specific, implementable approaches.
 
 ### [Theories](theories/index.md) (89)

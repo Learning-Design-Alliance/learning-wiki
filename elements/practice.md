@@ -59,7 +59,7 @@ Practice is one of the most consistently supported instructional elements: activ
 - [Hands-on Learning](hands-on-learning.md) — physical manipulation as a practice mode in vocational and lab contexts
 
 ## Patterns That Use This Element
-- [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — "eliciting performance" and "providing feedback" events
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "eliciting performance" and "providing feedback" events
 - [Merrill's First Principles](../patterns/merrills-first-principles.md) — the Application principle: learners apply new knowledge with feedback and correction
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the practice phase following modeling and coaching
 

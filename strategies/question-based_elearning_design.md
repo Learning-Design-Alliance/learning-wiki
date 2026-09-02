@@ -71,7 +71,7 @@ Questions function as prequestions and retrieval prompts that direct attention a
 ## Patterns That Use This Strategy
 - [Case-Based Learning](../patterns/case-based-learning.md) — cases pose the driving questions
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — questioning is a core coaching method
-- [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — "gain attention" and "elicit performance" events
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "gain attention" and "elicit performance" events
 
 ## Tools
 - Scenario and branching tools (e.g., [Twine](https://twinery.org), [Articulate Storyline](https://www.articulate.com)) for question-driven scenarios

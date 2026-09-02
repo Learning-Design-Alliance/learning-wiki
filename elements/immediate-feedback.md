@@ -49,7 +49,7 @@ Immediate feedback is the element in which response information is delivered clo
 - [Reassessment](reassessment.md)
 
 ## Patterns That Use This Element
-- [Gagné's 9 Events](../patterns/gagnés-9-events.md)
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md)
 - [Mastery Learning](../patterns/mastery-learning.md)
 
 ## Examples

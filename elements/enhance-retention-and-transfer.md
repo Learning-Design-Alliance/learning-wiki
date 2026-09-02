@@ -59,7 +59,7 @@ Transfer does not happen spontaneously; it must be prompted by tasks that differ
 - [Assessment](assessment.md) — transfer-oriented assessment items signal and measure whether flexible knowledge was achieved
 
 ## Patterns That Use This Element
-- [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — the final "enhance retention and transfer" event
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — the final "enhance retention and transfer" event
 - [4C/ID](../patterns/4cid-four-component-instructional-design.md) — whole-task variation across learning tasks drives induction and transfer
 - Merrill's First Principles (Integration) — learners integrate new knowledge into everyday life through public demonstration and reflection (no wiki page yet)
 

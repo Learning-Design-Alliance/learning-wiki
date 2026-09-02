@@ -69,13 +69,13 @@ Stated objectives improve learning primarily by directing attention and supporti
 - [Assess Performance](assess-performance.md) — objectives only function when assessment is visibly aligned to them
 
 ## Patterns That Use This Element
-- [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — "inform learners of objectives," the second event, immediately after gaining attention
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "inform learners of objectives," the second event, immediately after gaining attention
 - [Competency-Based Learning](../patterns/competency-based-learning.md) — explicit competencies are the organizing unit; objectives are communicated per task and assessed transparently
 - [Direct Instruction](../patterns/direct-instruction.md) — lessons open with a clear statement of what will be learned and the criterion for success
 
 ## Examples
 
-**[Gagné's 9 Events lesson template](../patterns/gagnés-9-events-of-instruction.md)** — Prescribes stating objectives as event 2, after attention is gained and before content presentation, so the objective frames everything that follows.
+**[Gagné's 9 Events lesson template](../patterns/gagnes-9-events-of-instruction.md)** — Prescribes stating objectives as event 2, after attention is gained and before content presentation, so the objective frames everything that follows.
 
 **[Khan Academy](https://www.khanacademy.org)** — Each lesson and exercise page opens with a stated goal ("Multiply two-digit numbers"), and mastery trackers make progress against that goal visible to learners.
 

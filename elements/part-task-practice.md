@@ -56,7 +56,7 @@ Part-task practice reduces the working-memory burden of complex task performance
 - [Chunking](../principles/chunking.md) — automated sub-skills become single chunks, which is the mechanism by which part-task practice reduces load
 
 ## Patterns That Use This Element
-- [Four-Component Instructional Design](../patterns/4cid.md) — part-task practice is the dedicated fourth component, applied only to recurrent constituent skills
+- [Four-Component Instructional Design](../patterns/4cid-four-component-instructional-design.md) — part-task practice is the dedicated fourth component, applied only to recurrent constituent skills
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the coaching phase includes isolated rehearsal of component procedures
 - [Mastery Learning](../patterns/competency-based-learning.md) — fluency criteria gate progression, mirroring mastery-based advancement
 

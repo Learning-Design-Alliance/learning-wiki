@@ -2,7 +2,7 @@
 
 Concrete teaching activity recipes — specific, implementable approaches.
 
-**2557 entries** · 0 stable · 2524 in review · 33 drafts
+**2560 entries** · 0 stable · 2523 in review · 36 drafts · 1 deprecated
 
 ---
 
@@ -562,7 +562,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Descriptive Feature Chart](descriptive_feature_chart.md) - A graphic organizer with horizontal and vertical axes used to build a structured descriptive model of an organism or object from direct observation.
 * [Design at the Margins](design_at_the_margins.md) - Designing learning environments by centering the needs and experiences of students at the edges of a community, on the premise that solutions serving the most marginalized serve everyone.
 * [Design Challenges](design-challenges.md) - Learners create an artifact or solution meeting specified criteria, driving learning through the decisions required to build it.
-* [Design Thinking](design-thinking.md) - A learner-centered innovation process — empathize, define, ideate, prototype, test — used as a learning strategy in which students solve open-ended, human-centered problems through iterative cycles of making and feedback.
 * [Designated Calm-Down Spot](designated_calm-down_spot.md) - Creating a designated calm-down spot is providing a safe and structured space within the classroom where students can go to regain control over their emotions.
 * [Designing Personalized Learning for Engagement](designing_personalized_learning_for_engagement.md) - Designing personalized learning so that choices are flexible and accessible to all learners, pairing personalization with Universal Design for Learning (UDL) to maximize engagement across ability levels.
 * [Desmos Classroom Activities](desmos-classroom-activities.md) - A strategy using Desmos Classroom's interactive, teacher-paced digital activities to make mathematical thinking visible, collect real-time student responses, and structure whole-class discussion.
@@ -2615,4 +2614,8 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 ## Draft
 
-33 draft entries are currently omitted from this section page to keep the index navigable. Browse the folder directly or promote pages to `review` as they are curated.
+36 draft entries are currently omitted from this section page to keep the index navigable. Browse the folder directly or promote pages to `review` as they are curated.
+
+## Deprecated
+
+* [Design Thinking](design-thinking.md) - A learner-centered innovation process — empathize, define, ideate, prototype, test — used as a learning strategy in which students solve open-ended, human-centered problems through iterative cycles of making and feedback.

@@ -18,7 +18,7 @@ Novelty sounds are brief, distinctive auditory or ritualized cues — wind chime
 
 ## Design Implications
 
-Novelty sounds leverage the orienting response and the von Restorff (isolation) effect — distinctive items stand out and capture processing priority [~M]. They are best understood as an attention-gaining event in a larger lesson sequence (cf. "gain attention" in [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) if available in your pattern library): the cue buys a few seconds of attention, but learning gains depend entirely on what follows. Repeated identical cues undergo habituation — the orienting response extinguishes with repetition [~S] — so effectiveness decays unless cues are varied or paired with consistent behavioral routines.
+Novelty sounds leverage the orienting response and the von Restorff (isolation) effect — distinctive items stand out and capture processing priority [~M]. They are best understood as an attention-gaining event in a larger lesson sequence (cf. "gain attention" in [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) if available in your pattern library): the cue buys a few seconds of attention, but learning gains depend entirely on what follows. Repeated identical cues undergo habituation — the orienting response extinguishes with repetition [~S] — so effectiveness decays unless cues are varied or paired with consistent behavioral routines.
 
 ### Context
 #### Requirements

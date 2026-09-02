@@ -70,7 +70,7 @@ Previewing works by orienting attention and reducing uncertainty: learners who k
 - [Clear Structure Presentation](../principles/clear-structure-presentation.md) — the structural clarity a preview depends on
 
 ## Patterns That Use This Element
-- [Gagné's 9 Events](../patterns/gagnés-9-events-of-instruction.md) — "inform learners of objectives" and "gain attention" events
+- [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "inform learners of objectives" and "gain attention" events
 - [Direct Instruction](../patterns/direct-instruction.md) — anticipatory set and stated objectives open each lesson
 - [Flipped Classroom](../patterns/flipped-classroom.md) — pre-class materials function as extended previews of in-class work
 
