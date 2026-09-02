@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reciprocal-questioning
 title: Reciprocal Questioning
 description: Learners generate and pose their own questions about content to peers or the group, reversing the usual direction of questioning to deepen comprehension and self-monitoring.
 status: review

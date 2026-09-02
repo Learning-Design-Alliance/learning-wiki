@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: strategic_desk_arrangement
 title: Strategic Desk Arrangement
 description: Deliberately configuring the physical seating layout to align with the intended learning activity, attention demands, and learner needs.
 status: review

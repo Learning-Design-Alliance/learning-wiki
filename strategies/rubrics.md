@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: rubrics
 title: Rubrics
 description: Rubrics are evaluation tools consisting of a set of criteria, a fixed scale, and descriptors that distinguish the differences in the levels of the scale.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: empowering_teachers_with_equip
 title: Empowering Teachers with EQUIP
 description: EQUIP is a customizable classroom observation tool that quantifies patterns in student participation, empowering teachers to build more equitable classrooms through data-driven reflection.
 status: review

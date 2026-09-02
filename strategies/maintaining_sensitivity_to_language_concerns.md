@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: maintaining_sensitivity_to_language_concerns
 title: Maintaining Sensitivity to Language Concerns
 description: Tailoring instruction, materials, and classroom climate so that English learners are supported in acquiring English without being pressured to abandon their primary language.
 status: review

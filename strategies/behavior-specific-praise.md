@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: behavior-specific-praise
 title: Behavior Specific Praise
 description: Brief, contingent verbal acknowledgment that names the exact behavior being reinforced, delivered immediately after it occurs.
 status: review

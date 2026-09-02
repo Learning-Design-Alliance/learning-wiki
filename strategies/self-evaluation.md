@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-evaluation
 title: Self Evaluation
 description: Learners assess their own work or performance against explicit criteria, building accurate self-monitoring alongside the target skill.
 status: review

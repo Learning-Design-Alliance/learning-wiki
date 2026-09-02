@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: graphic_organizers_for_math
 title: Graphic Organizers for Math
 description: Graphic organizers help learners break down math problems into steps to understand what's being asked or which operation to use.
 status: review

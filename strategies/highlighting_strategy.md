@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: highlighting_strategy
 title: Highlighting Strategy
 description: A digital text-marking approach in which learners apply labeled, color-coded highlights to a document to categorize ideas, then export highlights by color for summarization and synthesis.
 status: review

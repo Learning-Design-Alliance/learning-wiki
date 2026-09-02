@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: leveraging_native_language_in_pbl
 title: Leveraging Native Language in PBL
 description: "Leveraging the native language in project-based learning (PBL) involves using students' multilingual abilities as an asset."
 status: review

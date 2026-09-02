@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: read-alouds_with_deliberate_topics
 title: Read-Alouds with Deliberate Topics
 description: Teachers strategically select and read aloud stories that incorporate social-emotional learning (SEL) themes to foster self-reflection, promote social awareness, and strengthen relationship skills among students.
 status: review

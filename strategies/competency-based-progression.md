@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: competency-based-progression
 title: Competency Based Progression
 description: Learners advance through a curriculum by demonstrating mastery of defined competencies rather than by seat time or course completion.
 status: review

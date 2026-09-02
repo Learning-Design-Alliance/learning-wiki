@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: phonemic-awareness-drills
 title: Phonemic Awareness Drills
 description: Short, structured oral exercises in which learners isolate, blend, segment, and manipulate the individual sounds (phonemes) in spoken words.
 status: review

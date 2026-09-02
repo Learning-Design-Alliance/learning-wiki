@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: interactive-read-aloud
 title: Interactive Read Aloud
 description: The teacher reads a text aloud while pausing to model comprehension strategies, prompt discussion, and engage learners in responsive talk about the book.
 status: review

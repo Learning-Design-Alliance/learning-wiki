@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: digital_word_detectives-building_vocabulary_with_e-book_readers
 title: Digital Word Detectives — Building Vocabulary With E-Book Readers
 description: Learners read digital texts in e-book readers and act as "word detectives," using embedded dictionaries, highlighting, and annotation tools to encounter, investigate, and record unfamiliar words in context.
 status: review

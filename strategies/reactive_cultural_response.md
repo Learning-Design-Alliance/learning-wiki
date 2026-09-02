@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reactive_cultural_response
 title: Reactive Cultural Response
 description: The teacher's ability to adjust classroom structure, activities, and norms within the school year in response to the emerging personality and needs of a specific group of students.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: peer-review-protocols
 title: Peer Review Protocols
 description: Structured procedures through which learners evaluate and give feedback on one another's work using explicit criteria.
 status: review

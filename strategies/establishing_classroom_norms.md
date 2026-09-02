@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: establishing_classroom_norms
 title: Establishing Classroom Norms
 description: Explicitly co-constructing and teaching shared behavioral and academic expectations at the outset of a course or term to create a predictable, productive learning environment.
 status: review

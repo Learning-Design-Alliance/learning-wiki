@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: awareness_of_implicit_biases
 title: Awareness of Implicit Biases
 description: Recognizing and addressing unconscious attitudes, stereotypes, and categories that affect instructor behavior and learner outcomes, particularly in educational settings.
 status: review

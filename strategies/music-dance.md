@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: music-dance
 title: "Music & Dance"
 description: Incorporate music, rhythm, and dance into lessons to engage auditory, visual, and kinesthetic channels for memorization, engagement, and understanding.
 status: review

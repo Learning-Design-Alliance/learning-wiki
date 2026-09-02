@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: develop_cultural_awareness
 title: Develop Cultural Awareness
 description: "Developing cultural awareness as an educator includes building empathy for diverse learners, intentionally recognizing how one's own identity intersects with learners' identities, and creating an awareness of how the environment can…"
 status: review

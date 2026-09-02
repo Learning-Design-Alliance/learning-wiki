@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-regulation_-_scaffolding
 title: Self-Regulation - Scaffolding
 description: Scaffolding self-regulation means providing temporary external structure — prompts, routines, and co-regulation from a facilitator — so learners can practice managing emotional and behavioral responses in an emotionally safe context.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: whats-my-emotion-game-eq-chart
 title: "What's My Emotion? Game"
 description: Using an EQ Feeling Chart, students identify how they are feeling individually, then one student demonstrates an emotion non-verbally while the class guesses what it is.
 status: review

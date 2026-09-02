@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: responsive-rpp-adaptation-during-disruption
 title: Responsive RPP Adaptation During Disruption
 description: When an external disruption hits, a research-practice partnership deliberately pauses or defers its planned research agenda in favor of rapid, responsive work that answers practitioners' most immediate needs, relying on pre-built relational trust to sustain the partnership through the shift.
 status: draft

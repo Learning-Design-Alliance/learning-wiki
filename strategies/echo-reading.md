@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: echo-reading
 title: Echo Reading
 description: The teacher reads a short segment of text aloud with fluent expression, and learners immediately re-read the same segment aloud, imitating the model.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: station-rotation
 title: Station Rotation
 description: Learners move between fixed stations — teacher-led, collaborative, and independent/digital — on a set schedule, so one teacher can differentiate instruction within a single class period.
 status: review

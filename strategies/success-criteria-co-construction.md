@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: success-criteria-co-construction
 title: Success Criteria Co-Construction
 description: Learners and teacher jointly develop the criteria that define quality in a task, before or during the work, so learners internalize what "good" looks like.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: guided-writing
 title: Guided Writing
 description: The teacher supports students through a writing task by modeling, prompting, and gradually releasing responsibility until students compose independently.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: vocabulary-journals
 title: Vocabulary Journals
 description: Learners maintain a personal, ongoing record of target words with definitions, contexts, and self-generated elaborations, revisited over time.
 status: review

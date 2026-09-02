@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: student-shadowing-for-educator-insights
 title: Student Shadowing (For Educator Insights)
 description: Educators spend a full or substantial portion of a school day shadowing an individual student to gather real-time qualitative data about the learner's lived experience.
 status: review

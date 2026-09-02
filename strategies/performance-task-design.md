@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: performance-task-design
 title: Performance Task Design
 description: Designing complex, authentic tasks in which learners demonstrate knowledge and skill by producing work or performing processes approximating real-world demands.
 status: review

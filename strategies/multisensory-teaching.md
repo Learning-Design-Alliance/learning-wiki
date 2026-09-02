@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: multisensory-teaching
 title: Multisensory Teaching
 description: Teaching that deliberately pairs visual, auditory, kinesthetic, and tactile input so learners encode content through multiple modalities simultaneously.
 status: review

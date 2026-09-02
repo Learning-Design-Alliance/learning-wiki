@@ -46,11 +46,27 @@ from pathlib import Path
 
 WIKI_ROOT = Path(__file__).parent.parent
 
-# The kinds a design document can name. Strategies are reached through the
-# reverse index rather than named directly, and theories are not addressed by
-# the spec at all, so neither is stamped — a page type gains an id when
-# something outside the wiki depends on pointing at it.
-IDENTIFIED_TYPES = ("elements", "principles", "patterns", "claims", "learner-variables")
+# The kinds a design document can name.
+#
+# Strategies are in the list, and were nearly left out. findings/0008's
+# contract names only claim, pattern, element and principle slugs, and the
+# reverse index reaches strategies without naming them — so the first cut of
+# this excluded them. spec/patterns.md then adds a phase field that is a
+# strategy slug outright:
+#
+#     phases:
+#       - phase: Read the case
+#         element: case-based-learning
+#         strategy: chunked-reading-with-embedded-questions
+#
+# whose `### Instructions` become the phase's brief. A strategy rename
+# therefore breaks a shipped course exactly the way an element rename does,
+# and 2,557 pages had no id at all.
+#
+# Theories stay out: nothing in the spec addresses one. A page type gains an
+# id when something outside the wiki depends on pointing at it.
+IDENTIFIED_TYPES = ("elements", "principles", "patterns", "claims", "learner-variables",
+                    "strategies")
 
 ID_RE = re.compile(r"^id:[ \t]*([^\n]*)$", re.M)
 ALIASES_RE = re.compile(r"^aliases:[ \t]*(\[[^\]]*\])[ \t]*$", re.M)

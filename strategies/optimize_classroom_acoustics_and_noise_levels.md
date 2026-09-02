@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: optimize_classroom_acoustics_and_noise_levels
 title: Optimize Classroom Acoustics and Noise Levels
 description: Managing classroom acoustics and ambient noise to protect speech intelligibility, attention, and working memory resources for learning.
 status: review

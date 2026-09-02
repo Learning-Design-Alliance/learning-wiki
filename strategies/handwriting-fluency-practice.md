@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: handwriting-fluency-practice
 title: Handwriting Fluency Practice
 description: Timed, repeated writing practice designed to build automatic letter formation and transcription speed, freeing working memory for composing and comprehension.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: independent_practice
 title: Independent Practice
 description: Independent practice is when learners practice skills and concepts on their own, after guided practice, to build fluency and consolidate knowledge in long-term memory.
 status: review

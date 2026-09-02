@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: group-points-system
 title: Group Points System
 description: A group contingency in which teams of learners earn shared points toward a common reward, making each member's performance consequential for the whole group.
 status: review

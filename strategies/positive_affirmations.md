@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: positive_affirmations
 title: Positive Affirmations
 description: Repeating short, positive self-statements intended to build self-esteem, confidence, and a more optimistic outlook.
 status: review

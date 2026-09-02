@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: act_it_out
 title: Act It Out
 description: Role-play how to handle different situations, especially those that students struggle with.
 status: review

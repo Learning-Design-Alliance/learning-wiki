@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: scaffolded-practice-sequences
 title: Scaffolded Practice Sequences
 description: A strategy that organizes practice tasks into a deliberate progression of increasing difficulty and decreasing support, so learners build competence without being overwhelmed or under-challenged.
 status: review

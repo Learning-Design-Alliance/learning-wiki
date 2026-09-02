@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: comfortable_learning_spaces
 title: Comfortable Learning Spaces
 description: Designing physical learning environments that feel welcoming, low-threat, and physically comfortable so learners can settle into sustained engagement.
 status: review

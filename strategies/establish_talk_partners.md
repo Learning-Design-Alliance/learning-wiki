@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: establish_talk_partners
 title: Establish Talk Partners
 description: Establishing pre-arranged talk partners streamlines pair talk activities by removing set-up friction and enabling intentional, equitable pairing.
 status: review

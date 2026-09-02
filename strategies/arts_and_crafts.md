@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: arts_and_crafts
 title: Arts and Crafts
 description: Creative hands-on activities in which learners make physical artifacts, supporting creativity, fine motor development, and emotional expression alongside academic content.
 status: review

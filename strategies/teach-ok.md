@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: teach-ok
 title: Teach-OK
 description: A fast-paced peer teaching routine in which the teacher briefly presents a concept, then pairs take turns re-teaching it to each other using gestures.
 status: review

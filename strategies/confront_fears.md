@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: confront_fears
 title: Confront Fears
 description: A strategy in which learners identify, decompose, and systematically approach feared situations or tasks, reducing avoidance and building self-efficacy through graduated exposure and cognitive reappraisal.
 status: review

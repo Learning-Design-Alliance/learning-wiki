@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: introduce_evaluation_concepts
 title: Introduce Evaluation Concepts
 description: Explicitly teach evaluation concepts such as relevance, accuracy, bias, and reliability, and embed them in regular classroom discourse so learners habitually question sources and author motivations.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: numbers_to_100
 title: Numbers To 100
 description: A strategy for building early number sense by helping children construct, decompose, and flexibly reason about quantities from 1 to 100 using structured materials, counting routines, and magnitude activities.
 status: review

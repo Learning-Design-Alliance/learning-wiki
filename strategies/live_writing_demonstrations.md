@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: live_writing_demonstrations
 title: Live Writing Demonstrations
 description: Instructors demonstrate the writing process in real-time, in front of learners, to make the thinking and decision-making involved in writing visible.
 status: review

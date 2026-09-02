@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: ask_parents_for_their_ideas
 title: Ask Parents for Their Ideas
 description: Schools include parents as partners by regularly soliciting their questions, feedback, and ideas about issues of concern before making decisions or running events.
 status: review

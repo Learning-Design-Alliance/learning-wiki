@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: shadowing_to_adjust_behavior_problems
 title: Shadowing to Adjust Behavior Problems
 description: An adult stays within arm's reach of a child who exhibits harmful behaviors (e.g., biting, hitting) to prevent incidents and coach replacement behaviors in the moment.
 status: review

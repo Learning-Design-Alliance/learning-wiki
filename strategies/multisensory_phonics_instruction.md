@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: multisensory_phonics_instruction
 title: Multisensory Phonics Instruction
 description: Teaching letter–sound relationships through simultaneous visual, auditory, and kinesthetic–tactile channels so that decoding is grounded in multiple sensory traces.
 status: review

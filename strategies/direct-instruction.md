@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: direct-instruction
 title: Direct Instruction
 description: A teacher-led, explicitly structured instructional strategy in which skills are modeled, practiced, and assessed in small steps with high learner response rates and immediate feedback.
 status: review

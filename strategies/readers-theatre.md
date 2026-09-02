@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: readers-theatre
 title: Readers Theatre
 description: Learners rehearse and perform a script (often adapted from prose) through expressive oral reading — no memorization, props, or staging — to build reading fluency and comprehension.
 status: review

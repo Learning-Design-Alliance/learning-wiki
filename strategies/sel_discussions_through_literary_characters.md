@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: sel_discussions_through_literary_characters
 title: SEL Discussions through Literary Characters
 description: Students read and discuss social and emotional learning (SEL) topics through the lens of characters in literature.
 status: review

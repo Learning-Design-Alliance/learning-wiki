@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: activation
 title: Activation
 description: Activation prompts learners to retrieve and surface relevant prior knowledge before encountering new material, so new information can be integrated with what they already know.
 status: review

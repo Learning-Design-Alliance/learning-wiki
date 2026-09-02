@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: culture_responsive_instruction
 title: Culture Responsive Instruction
 description: Teaching that makes standards-based content accessible by connecting it to students' cultural backgrounds, prior knowledge, language, and lived experience.
 status: review

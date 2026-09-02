@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: call-and-response
 title: Call-and-Response
 description: The instructor initiates a phrase or word and students respond with a pre-determined phrase, serving as a rapid, routine-based cue to gain attention and refocus the class.
 status: review

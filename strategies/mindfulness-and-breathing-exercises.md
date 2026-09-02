@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mindfulness-and-breathing-exercises
 title: Mindfulness And Breathing Exercises
 description: Brief structured practices — focused breathing, body scans, and attention anchoring — used to regulate arousal and attention in support of learning.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: model_and_example_feedback
 title: Model and Example Feedback
 description: Communicating assessment expectations to learners by showing annotated models of strong and weak work, so feedback criteria become concrete rather than abstract.
 status: review

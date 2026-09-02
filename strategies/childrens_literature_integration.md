@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: childrens_literature_integration
 title: "Children's Literature Integration"
 description: "Integrating children's literature, especially multicultural literature, into math instruction to enhance engagement and comprehension."
 status: review

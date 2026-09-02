@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: analyzing-errors-with-taboo-game
 title: Analyzing Errors (with Taboo game)
 description: Learners play Taboo to practice choosing keywords, then analyze their own errors as the instructor surfaces effective strategies such as synonym generation and precise description.
 status: review

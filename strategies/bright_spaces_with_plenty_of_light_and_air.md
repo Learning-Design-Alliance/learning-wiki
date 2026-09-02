@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: bright_spaces_with_plenty_of_light_and_air
 title: Bright Spaces with Plenty of Light and Air
 description: "Designing learning environments with abundant natural light, good ventilation, and comfortable air quality to support attention, wellbeing, and achievement."
 status: review

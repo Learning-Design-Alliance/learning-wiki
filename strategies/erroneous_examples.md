@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: erroneous_examples
 title: Erroneous Examples
 description: Presenting deliberately flawed worked solutions for learners to diagnose, explain, and correct.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: cold_calling
 title: Cold Calling
 description: The instructor poses a question and names a specific student to respond, rather than waiting for volunteers, distributing participation across the whole class.
 status: review

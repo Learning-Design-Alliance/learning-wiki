@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: curated_material_selection
 title: Curated Material Selection
 description: Regularly assessing instructional materials for relevance and currency, discarding broken or obsolete items, and selecting new resources against explicit learning criteria.
 status: review

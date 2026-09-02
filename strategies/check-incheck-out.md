@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: check-incheck-out
 title: Check In/Check Out
 description: A structured Tier 2 behavior intervention in which a mentee checks in with an adult at the start of each day to receive goals and points, and checks out at day's end for feedback and reinforcement.
 status: review

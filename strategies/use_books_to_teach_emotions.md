@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: use_books_to_teach_emotions
 title: Use Books to Teach Emotions
 description: Stories are used as examples of handling emotions in a responsible way.
 status: review

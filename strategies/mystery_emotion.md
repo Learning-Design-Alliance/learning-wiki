@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mystery_emotion
 title: Mystery Emotion
 description: Learners are challenged to guess the emotion the instructor is acting out in order to solve the mystery of what it is.
 status: review

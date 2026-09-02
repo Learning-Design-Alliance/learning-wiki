@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: primary_language_support_with_bilingual_texts
 title: Primary Language Support with Bilingual Texts
 description: "Using bilingual picture books and resources in a learner's primary language to support their comprehension and engagement with new content."
 status: review

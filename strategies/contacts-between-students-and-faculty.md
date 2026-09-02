@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: contacts-between-students-and-faculty
 title: Contacts Between Students And Faculty
 description: Frequent, meaningful, and varied interactions between students and instructors that build engagement, belonging, and intellectual mentorship.
 status: review

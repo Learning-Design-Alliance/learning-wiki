@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: finger_speed-sums
 title: Finger Speed-Sums
 description: A paired, movement-based fluency game in which students display fingers on a count and race to state the sum first.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: choice-based_learning
 title: Choice Based Learning
 description: Learners select among meaningful options — task, process, product, or environment — increasing autonomy and ownership of learning.
 status: review

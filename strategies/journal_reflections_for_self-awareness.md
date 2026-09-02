@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: journal_reflections_for_self-awareness
 title: Journal Reflections for Self-Awareness
 description: Students regularly write about their experiences, outcomes, and goals in a journal to build self-awareness, metacognition, and self-regulation.
 status: review

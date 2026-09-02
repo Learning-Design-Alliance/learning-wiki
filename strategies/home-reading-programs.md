@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: home-reading-programs
 title: Home Reading Programs
 description: Structured programs that organize and support children's reading at home, typically through leveled book provision, family guidance, and school-home communication.
 status: review

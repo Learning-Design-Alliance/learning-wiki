@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: feeling_face_snack_time
 title: Feeling Face Snack Time
 description: "Learners pull a 'feeling face' card and eat their snack while showing the matching emotion."
 status: review

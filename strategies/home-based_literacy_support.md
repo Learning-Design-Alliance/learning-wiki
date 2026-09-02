@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: home-based_literacy_support
 title: Home-Based Literacy Support
 description: Schools provide families with structured resources, guidance, and routines to support children's literacy learning at home.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: build_community_through_peer_feedback
 title: Build Community Through Peer Feedback
 description: Offering students frequent opportunities to share feedback and revise their work fosters a supportive classroom culture and builds relationships.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: ethical_responsibility_tools
 title: Ethical Responsibility Tools
 description: Structured tools — graphic organizers, decision trees, and current-events analysis — that help learners identify, weigh, and take responsibility for the ethical dimensions of their decisions.
 status: review

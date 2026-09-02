@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mastery-oriented-feedback
 title: Mastery Oriented Feedback
 description: Feedback framed around progress toward learning goals and strategy improvement rather than evaluation of the person or comparison to others.
 status: review

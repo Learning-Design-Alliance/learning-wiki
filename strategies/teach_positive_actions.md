@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: teach_positive_actions
 title: Teach Positive Actions
 description: A comprehensive social-emotional and character development strategy that explicitly teaches positive behaviors across six domains — physical health, intellectual growth, self-management, social relationships, honesty, and self-improvement.
 status: review

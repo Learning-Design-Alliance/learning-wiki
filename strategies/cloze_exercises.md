@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: cloze_exercises
 title: Cloze Exercises
 description: Learners complete a text with systematically deleted words, reconstructing meaning from context to strengthen reading comprehension and language processing.
 status: review

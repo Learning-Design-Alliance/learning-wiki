@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: stations-interacting_with_multiple_texts
 title: "Stations: Interacting with Multiple Texts"
 description: Small groups rotate through stations, each featuring a different text or media type, to build multi-perspective understanding of a topic.
 status: review

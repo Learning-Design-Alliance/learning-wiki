@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: functional_wall_displays
 title: Functional Wall Displays
 description: Using walls for bulletin boards displaying student work and curricular supports, such as a word wall or math posters, makes resources easily accessible during instruction.
 status: review

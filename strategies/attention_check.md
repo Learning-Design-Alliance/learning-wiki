@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: attention_check
 title: Attention Check
 description: An attention check is a brief, instructor-initiated pause in which students notice where their attention is and practice redirecting it deliberately.
 status: review

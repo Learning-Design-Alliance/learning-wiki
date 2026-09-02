@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: classroom_physical_activity_breaks
 title: Classroom Physical Activity Breaks
 description: Integrating short movement-based activities into classroom instruction to energize learners, redirect attention, and support self-regulation.
 status: review

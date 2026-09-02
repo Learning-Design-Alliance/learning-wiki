@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: affirmation_repetition
 title: Affirmation Repetition
 description: Repeating empowering self-statements during times of stress to build confidence, resilience, and a positive mindset.
 status: review

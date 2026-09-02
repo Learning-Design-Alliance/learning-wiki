@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: working_out_loud
 title: Working Out Loud
 description: Learners make their in-progress work, questions, and reasoning visible to a network or community, inviting feedback and building relationships around learning.
 status: review

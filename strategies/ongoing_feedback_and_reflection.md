@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: ongoing_feedback_and_reflection
 title: Ongoing Feedback and Reflection
 description: Pairing regular feedback with structured learner reflection over an extended period, so learners progressively take over the work of judging and adjusting their own performance.
 status: review

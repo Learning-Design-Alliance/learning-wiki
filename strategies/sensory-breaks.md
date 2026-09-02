@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: sensory-breaks
 title: Sensory Breaks
 description: Short, structured pauses involving movement, sensory input, or mindfulness that restore attention and regulate arousal during extended learning sessions.
 status: review

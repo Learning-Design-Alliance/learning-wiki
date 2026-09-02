@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: micro-credentials-and-badging
 title: Micro Credentials And Badging
 description: Awarding granular, verifiable credentials (digital badges or certificates) for demonstrating specific competencies, rather than only for completing whole courses.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: offer_services_and_events_to_bring_parents_into_the_school
 title: Offer Services and Events to Bring Parents into the School
 description: Offer free classes and workshops that focus on topics of interest to parents, such as family nutrition, child development, or homework help.
 status: review

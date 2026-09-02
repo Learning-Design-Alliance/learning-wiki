@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: metacognitive_reflection_prompts
 title: Metacognitive Reflection Prompts
 description: Structured questions inserted into learning activities that direct learners to plan, monitor, and evaluate their own thinking and learning processes.
 status: review

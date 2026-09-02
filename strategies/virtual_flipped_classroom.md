@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: virtual_flipped_classroom
 title: Virtual Flipped Classroom
 description: A fully online variant of the flipped classroom in which all instruction is delivered asynchronously and synchronous contact is reserved for individualized tutoring and office hours.
 status: review

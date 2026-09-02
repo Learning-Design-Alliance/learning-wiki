@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: just-in-time-teaching
 title: Just In Time Teaching
 description: A strategy where learners complete pre-class web assignments whose responses the instructor reviews just before class, using them to tailor in-class activities to actual student difficulties.
 status: review

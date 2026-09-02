@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: structured_academic_controversy
 title: Structured Academic Controversy
 description: A cooperative learning procedure in which pairs of opposing teams research, advocate, and then reverse perspectives on a contested issue.
 status: review

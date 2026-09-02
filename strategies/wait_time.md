@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: wait_time
 title: Wait Time
 description: Wait time is the period of silence between the time a question is asked and the time when one or more learners respond to that question.
 status: review

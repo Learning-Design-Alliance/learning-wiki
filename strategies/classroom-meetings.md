@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: classroom-meetings
 title: Classroom Meetings
 description: A regularly scheduled whole-class forum in which students and teacher collaboratively address community, academic, and behavioral matters through structured discussion and shared decision-making.
 status: review

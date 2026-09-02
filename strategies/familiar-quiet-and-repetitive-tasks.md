@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: familiar-quiet-and-repetitive-tasks
 title: Familiar, Quiet, and Repetitive Tasks
 description: Using familiar, quiet, and repetitive fine motor and visual tasks can be a calming experience for many children.
 status: review

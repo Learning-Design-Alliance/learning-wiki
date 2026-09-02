@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: kwl_charts
 title: KWL Charts
 description: KWL (Know, Want to know, Learned) charts are advance organizers that help students activate prior knowledge, identify learning goals, and reflect on what they have learned.
 status: review

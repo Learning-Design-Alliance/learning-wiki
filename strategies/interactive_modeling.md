@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: interactive_modeling
 title: Interactive Modeling
 description: A structured seven-step routine in which the educator names a skill, models it, and has students notice, model, and practice it until they can perform it independently.
 status: review

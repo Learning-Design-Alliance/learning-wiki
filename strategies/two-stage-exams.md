@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: two-stage-exams
 title: Two Stage Exams
 description: An assessment format where students first complete an exam individually, then immediately retake the same or similar questions in small groups, with the group score partially counting.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: i-notice-i-wonder
 title: I Notice I Wonder
 description: An open-ended observation and discussion routine in which learners first state what they notice about an artifact, image, or problem, then pose questions about what they wonder — surfacing prior knowledge and curiosity before instruction.
 status: review

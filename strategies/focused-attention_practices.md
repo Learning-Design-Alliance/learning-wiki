@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: focused-attention_practices
 title: Focused-Attention Practices
 description: Brief, structured exercises that train learners to anchor attention on a single stimulus (breath, sound, sensation) to quiet distraction and regulate arousal before or during learning.
 status: review

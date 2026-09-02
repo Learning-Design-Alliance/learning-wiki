@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: strategy-identification-reflection
 title: Strategy Identification & Reflection
 description: Learners name and reflect on the strategies they use to overcome challenges, building a shared, reusable vocabulary of learning processes.
 status: review

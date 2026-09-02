@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: identify_feelings
 title: Identify Feelings
 description: Students identify, label, or match facial expressions and feelings to build emotional literacy.
 status: review

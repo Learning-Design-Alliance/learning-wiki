@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: restorative_practices
 title: Restorative Practices
 description: A relational approach to building classroom community and responding to harm through facilitated dialogue, replacing exclusionary discipline with accountability and repair.
 status: review

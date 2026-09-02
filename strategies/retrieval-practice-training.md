@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: retrieval-practice-training
 title: Retrieval Practice Training
 description: Explicitly training learners to use self-testing and recall-from-memory as a study strategy, rather than rereading or reviewing notes.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: creating_a_digital_library_section_for_sel_topics
 title: Creating a Digital Library Section for SEL Topics
 description: A digital library includes a dedicated section of books focused on social and emotional learning (SEL) topics.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: verbal_repetition
 title: Verbal Repetition
 description: Learners repeat, restate, or rehearse information aloud to strengthen retention and make their understanding observable.
 status: review

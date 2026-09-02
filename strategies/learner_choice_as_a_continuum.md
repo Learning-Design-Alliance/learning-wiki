@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: learner_choice_as_a_continuum
 title: Learner Choice as a Continuum
 description: Learner choice as a continuum positions autonomy on a graduated spectrum, moving from teacher-provided menus of options toward learner-driven purpose discovery, design, and self-regulation.
 status: review

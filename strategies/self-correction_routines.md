@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-correction_routines
 title: Self Correction_Routines
 description: Structured procedures in which learners check, diagnose, and revise their own work against criteria before or instead of receiving external correction.
 status: review

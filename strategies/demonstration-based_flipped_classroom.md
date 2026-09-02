@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: demonstration-based_flipped_classroom
 title: Demonstration-Based Flipped Classroom
 description: Instructional demonstrations (often screencasts) are assigned as pre-class homework, freeing class time for guided practice, feedback, and problem-solving.
 status: review

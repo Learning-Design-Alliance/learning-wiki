@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: guided-math
 title: Guided Math
 description: A small-group instructional structure in which the teacher works with a few students at a time on targeted math skills while the rest of the class engages in independent or collaborative work.
 status: review

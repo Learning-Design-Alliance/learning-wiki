@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: learning-hierarchy-task-analysis
 title: Learning Hierarchy Task Analysis
 description: Task analysis identifies the prerequisite skills a target performance requires by repeatedly asking what a learner must already master, arranging the answers into a sequenced learning hierarchy from foundational to complex.
 status: draft

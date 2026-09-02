@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: close-reading
 title: Close Reading
 description: Close reading is the repeated, text-dependent analysis of a short, complex passage through multiple purposeful readings, each targeting a different layer of meaning.
 status: review

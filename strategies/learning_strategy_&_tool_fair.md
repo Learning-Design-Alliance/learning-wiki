@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: learning_strategy_&_tool_fair
 title: "Learning Strategy & Tool \"Fair\""
 description: "A hands-on exploratory event where learners sample a variety of learning strategies and tools, discovering which fit their needs before committing to them."
 status: review

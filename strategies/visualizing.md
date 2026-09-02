@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: visualizing
 title: Visualizing
 description: Visualizing involves creating a mental image or external representation — a picture, diagram, table, or sketch — of a problem or text to aid understanding and problem solving.
 status: review

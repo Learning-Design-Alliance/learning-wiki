@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: use_estimation_and_prediction
 title: Use Estimation and Prediction
 description: Students predict their performance or task completion before working, then compare predictions against actual outcomes to calibrate self-assessment.
 status: review

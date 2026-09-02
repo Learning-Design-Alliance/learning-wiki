@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: blackout_conversation
 title: Blackout Conversation
 description: "Students transform conversational text selections into poetry by blacking out sections to reveal only key terms and phrases, focusing on the meaning, nuances, and silences of each character's dialogue."
 status: review

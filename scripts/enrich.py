@@ -1586,7 +1586,8 @@ def call_gemini_flex(client, model: str, system_prompt: str, user_prompt: str) -
 # scripts/page_identity.py. A stub written without one is a page the
 # design-spec pipeline cannot resolve until someone remembers to backfill it,
 # and lint's [Identity] check would fail the moment it was created.
-_IDENTIFIED = {"elements", "principles", "patterns", "claims", "learner-variables"}
+_IDENTIFIED = {"elements", "principles", "patterns", "claims", "learner-variables",
+               "strategies"}
 
 
 def _stub(page_type: str, extra: str = "", identified: bool = False) -> str:
@@ -1601,7 +1602,7 @@ STUB_TEMPLATES = {
     "elements":   _stub("element", identified=True),
     "principles": _stub("principle", identified=True),
     "patterns":   _stub("pattern", identified=True),
-    "strategies": _stub("strategy"),
+    "strategies": _stub("strategy", identified=True),
     "theories":   _stub("theory"),
     # `id:` used to be stamped here as an empty line, which is where all 56
     # blank claim ids came from. It now carries the slug like every other

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: shared_reflection
 title: Shared Reflection
 description: A classroom practice in which students publicly share reflections on their academic work—both successes and struggles—so that the class collectively supports each member's ongoing improvement.
 status: review

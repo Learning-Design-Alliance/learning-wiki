@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: video-based-instruction
 title: Video Based Instruction
 description: Using video as the primary medium for delivering instructional content, typically combining narration with visual demonstration.
 status: review

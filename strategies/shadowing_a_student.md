@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: shadowing_a_student
 title: Shadowing a Student
 description: "Shadowing is a direct observation technique where an adult follows a student throughout their school day to gain real-time qualitative evidence of the student's experiences."
 status: review

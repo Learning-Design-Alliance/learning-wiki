@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-awareness_-_identify_feelings
 title: Self-Awareness - Identify Feelings
 description: Learners identify, label, and match facial expressions and feeling words to build the self-awareness component of social-emotional competence.
 status: review

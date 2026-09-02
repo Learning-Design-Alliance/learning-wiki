@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: preferential_seating
 title: Preferential Seating
 description: Place students who have trouble hearing, seeing, focusing on, or paying attention to instruction in seats where they will be best able to focus.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: optimal_student_flow
 title: Optimal Student Flow
 description: Arranging the physical classroom layout, materials, and routines so that movement between activities and spaces is efficient, visible, and low-friction.
 status: review

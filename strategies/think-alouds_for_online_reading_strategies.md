@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: think-alouds_for_online_reading_strategies
 title: Think-Alouds for Online Reading Strategies
 description: Teachers model their online reading strategies through think-alouds.
 status: review

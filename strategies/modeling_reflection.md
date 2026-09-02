@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: modeling_reflection
 title: Modeling Reflection
 description: The instructor makes their own reflective thinking visible — thinking aloud about what worked, what failed, and what to change — so learners internalize reflective habits before practicing them.
 status: review

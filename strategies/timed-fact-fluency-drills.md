@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: timed-fact-fluency-drills
 title: Timed Fact Fluency Drills
 description: Short, timed practice sessions in which learners retrieve basic facts (e.g., arithmetic combinations, sight words) repeatedly until recall becomes fast and automatic.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: exit-ticket
 title: Exit Ticket
 description: A short, structured task completed by learners at the end of a lesson to surface what they understood, what they missed, and what questions remain.
 status: review

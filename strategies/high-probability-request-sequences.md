@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: high-probability-request-sequences
 title: High Probability Request Sequences
 description: Presenting a rapid series of easy, high-compliance requests immediately before a target request, building behavioral momentum that increases the likelihood the learner complies with the harder request.
 status: review

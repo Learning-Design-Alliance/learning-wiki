@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: learning-walks
 title: Learning Walks
 description: Short, structured classroom observations in which educators visit peers' classrooms to observe teaching and learning practices and surface patterns for school-wide improvement.
 status: review

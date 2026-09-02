@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: fidget_contracts
 title: Fidget Contracts
 description: Fidget contracts are agreements between a learner and an educator or caregiver that outline specific rules and guidelines for using fidget tools.
 status: review

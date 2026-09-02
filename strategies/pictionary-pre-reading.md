@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: pictionary-pre-reading
 title: Pictionary (Pre-Reading)
 description: Learners draw and guess key vocabulary from an upcoming text, activating prior knowledge and building visual-verbal links before reading.
 status: review

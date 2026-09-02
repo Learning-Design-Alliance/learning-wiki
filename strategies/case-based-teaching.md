@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: case-based-teaching
 title: Case Based Teaching
 description: Teaching through rich, realistic case narratives that learners analyze and discuss, connecting principles to authentic situations.
 status: review

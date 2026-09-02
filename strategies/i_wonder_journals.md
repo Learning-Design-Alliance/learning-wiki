@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: i_wonder_journals
 title: I Wonder Journals
 description: Students regularly record open-ended "I wonder" questions about their experiences and observations, which teachers use to fuel inquiry and plan instruction.
 status: review

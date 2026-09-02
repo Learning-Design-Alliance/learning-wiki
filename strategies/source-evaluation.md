@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: source-evaluation
 title: Source Evaluation
 description: Teaching learners to judge the credibility, authority, and reliability of information sources before using them.
 status: review

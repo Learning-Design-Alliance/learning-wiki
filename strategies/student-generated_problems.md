@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: student-generated_problems
 title: Student-Generated Problems
 description: Learners create their own problems based on concepts they are learning, share them with peers, and solve each other's problems.
 status: review

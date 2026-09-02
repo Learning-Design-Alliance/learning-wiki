@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: authentic-writing
 title: Authentic Writing
 description: Writing tasks that address real or realistic audiences and purposes beyond the teacher-as-grader, so the rhetorical situation drives composition decisions.
 status: review

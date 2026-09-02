@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: blocks_and_legos-maker_spaces_and_fab_labs
 title: "Blocks and Legos: Maker Spaces and Fab Labs"
 description: Maker spaces and fab labs provide learners with opportunities to invent, design, and build things.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: fossil_analysis
 title: Fossil Analysis
 description: Learners examine, draw, and describe fossil specimens to build a class "Fossil Guide," developing observation, description, and paleontological identification skills.
 status: review

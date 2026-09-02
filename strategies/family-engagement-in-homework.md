@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: family-engagement-in-homework
 title: Family Engagement In Homework
 description: Structuring homework so that family members participate meaningfully — as interactors, monitors, or resources — rather than merely enforcing completion.
 status: review

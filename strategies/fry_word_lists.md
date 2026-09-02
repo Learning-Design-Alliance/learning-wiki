@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: fry_word_lists
 title: Fry Word Lists
 description: The Fry word list contains 1,000 high-frequency words divided into ten levels, further split into groups of twenty-five words based on frequency and difficulty.
 status: review

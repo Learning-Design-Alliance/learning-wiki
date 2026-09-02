@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: apply_student-centered_strategies_to_support_learning_differences
 title: Apply Student-Centered Strategies to Support Learning Differences
 description: "A data-driven, student-centered plan for implementing specific instructional strategies that address an individual student's learning differences, including strengths and challenges."
 status: review

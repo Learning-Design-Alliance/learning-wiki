@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: validate_feelings
 title: Validate Feelings
 description: Explicitly acknowledge that a learner's emotional response is real and legitimate, separating acceptance of the feeling from judgment of the behavior.
 status: review

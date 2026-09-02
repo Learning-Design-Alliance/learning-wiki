@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: tier_two_vocabulary_instruction
 title: Tier Two Vocabulary Instruction
 description: Focuses on teaching high-frequency words used by mature language users that can add significantly to language ability.
 status: review

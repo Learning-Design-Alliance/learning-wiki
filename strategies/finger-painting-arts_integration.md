@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: finger-painting-arts_integration
 title: "Finger-Painting: Arts Integration"
 description: Integrating arts like fiction writing, dance, drama, graphic design, music, drawing, painting, or ceramics into all subjects helps learners learn and find their talents and interests.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: cumulative_review
 title: Cumulative Review
 description: Cumulative review systematically revisits previously learned concepts and skills throughout a course, integrating older material into current activities rather than teaching topics in isolated blocks.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: dynamically_introduce_academic_vocabulary
 title: Dynamically Introduce Academic Vocabulary
 description: Use repeated encounters with a word in varied, authentic contexts — anchored by a memorable first encounter — to help learners internalize definitions and use words flexibly.
 status: review

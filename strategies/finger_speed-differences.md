@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: finger_speed-differences
 title: Finger Speed-Differences
 description: A fast-paced partner game in which two students each show a number of fingers and the first to say the difference aloud wins the round.
 status: review

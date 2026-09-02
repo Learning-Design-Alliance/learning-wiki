@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: daily_class_schedules
 title: Daily Class Schedules
 description: Structuring the school day with specific time allocations for subjects and activities to maximize instructional time and match demands to student energy and attention.
 status: review

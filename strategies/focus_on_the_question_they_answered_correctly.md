@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: focus_on_the_question_they_answered_correctly
 title: Focus on the Question They Answered Correctly
 description: Instead of focusing on a student's mistake, instructors identify the question a student answered correctly, even if it's different from the one asked, and build from that correct understanding.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: summative_assessment_to_measure_learning_over_time
 title: Summative Assessment to Measure Learning Over Time
 description: Interim and summative assessments measure learning over time — interims track individual progress toward standards, while summatives compare performance against standards at the end of an instructional period.
 status: review

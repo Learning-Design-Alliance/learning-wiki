@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reflection_with_others
 title: Reflection with Others
 description: Teachers improve their practice by collaboratively reflecting with peers — through non-evaluative observation, structured feedback conversations, and discussion of shared instructional problems.
 status: review

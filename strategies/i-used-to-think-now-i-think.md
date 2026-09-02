@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: i-used-to-think-now-i-think
 title: I Used To Think Now I Think
 description: A reflection routine in which learners articulate their prior belief about a topic and then state how their thinking has changed, making conceptual change visible.
 status: review

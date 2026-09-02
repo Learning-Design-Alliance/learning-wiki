@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: maintaining_high_expectations
 title: Maintaining High Expectations
 description: In culturally responsive instruction, achievement expectations are determined individually, with praise proportional to accomplishment and supportive guidance toward independent problem-solving.
 status: review

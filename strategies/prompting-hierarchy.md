@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: prompting-hierarchy
 title: Least-to-Most Prompting Hierarchy
 description: A least-to-most prompting hierarchy sequences instructional support from the least intrusive prompt (verbal) through gestural to the most intrusive (physical), fading toward independence as soon as a less intrusive prompt succeeds.
 status: draft

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: guided_inquiry
 title: Guided Inquiry
 description: Guided inquiry blends student-driven exploration with structured instructional support, keeping the challenge of investigation within reach through scaffolds, prompts, and timely direct instruction.
 status: review

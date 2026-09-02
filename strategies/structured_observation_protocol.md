@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: structured_observation_protocol
 title: Structured Observation Protocol
 description: "A structured observation protocol uses a template or guide to record factual details about a student's experiences without interpretation, opinion, or judgment."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: classroom-physical-activity-integration
 title: Classroom Physical Activity Integration
 description: Embedding short bouts of physical movement into academic instruction and classroom routines rather than confining activity to recess or PE.
 status: review

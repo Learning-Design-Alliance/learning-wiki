@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: keyword_strategy
 title: Keyword Strategy
 description: The keyword strategy is a mnemonic technique that enhances memory by linking new information to keywords already encoded in memory.
 status: review

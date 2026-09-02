@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: process-focused_learning
 title: Process-Focused Learning
 description: Emphasizing and valuing the process of learning, rather than solely focusing on grades, promotes a growth mindset and encourages learners to embrace challenges.
 status: review

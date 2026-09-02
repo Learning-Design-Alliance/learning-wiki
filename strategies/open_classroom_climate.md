@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: open_classroom_climate
 title: Open Classroom Climate
 description: A learning environment where students feel safe to discuss controversial social and political issues and express opinions freely without judgment.
 status: review

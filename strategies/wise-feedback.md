@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: wise-feedback
 title: Wise Feedback
 description: Feedback that combines high standards with assured support, framed to signal that the giver believes the learner can improve.
 status: review

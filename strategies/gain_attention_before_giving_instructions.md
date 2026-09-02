@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: gain_attention_before_giving_instructions
 title: Gain Attention Before Giving Instructions
 description: Use a consistent attention signal — auditory, visual, or verbal — to secure learner focus before delivering instructions.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: pairing_with_positive_role_models
 title: Pairing With Positive Role Models
 description: Intentionally matching learners who face social or behavioral challenges with peers who demonstrate strong relationship skills, so the challenged learner can observe and imitate effective communication, empathy, and conflict resolution in authentic interaction.
 status: review

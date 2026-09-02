@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: leveraging_instructor_office_hours
 title: Leveraging Instructor Office Hours
 description: Instructors hold regular, structured weekly office hours that give students direct one-on-one access to expert help, academic advice, and mentoring beyond what class time allows.
 status: review

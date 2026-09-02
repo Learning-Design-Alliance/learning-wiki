@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: think-aloud-modeling
 title: Think-Aloud Modeling
 description: Think-aloud modeling is a strategy in which an instructor performs a task while verbalizing the reasoning, checks, and decisions normally kept internal.
 status: review

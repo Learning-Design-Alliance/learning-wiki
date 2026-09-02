@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: cover-copy-compare
 title: Cover Copy Compare
 description: A self-managed practice procedure in which learners study a model, cover it, reproduce it from memory, and immediately compare their response to the model.
 status: review

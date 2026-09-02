@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: restorative_questions
 title: Restorative Questions
 description: Open-ended questions that shift responsibility for reflection and repair onto the learner after harm or conflict, replacing adult-imposed judgment with structured dialogue.
 status: review

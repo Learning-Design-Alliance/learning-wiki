@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: playful_spaces
 title: Playful Spaces
 description: Designing physical or social environments where learners can explore, experiment, and create with low stakes and high autonomy.
 status: review

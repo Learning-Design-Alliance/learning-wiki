@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: flipped-learning
 title: Flipped Learning
 description: A pedagogical model that moves first exposure to content outside class (typically via video) and reserves class time for active, instructor-guided application.
 status: review

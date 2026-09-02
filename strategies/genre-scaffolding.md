@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: genre-scaffolding
 title: Genre Scaffolding
 description: Teaching learners the predictable structures, language features, and purposes of text types so they can plan and produce writing within a genre.
 status: review

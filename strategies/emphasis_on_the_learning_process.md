@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: emphasis_on_the_learning_process
 title: Emphasis on the Learning Process
 description: Helping learners focus on and value the process of learning, rather than just the grades they receive, promotes a growth mindset.
 status: review

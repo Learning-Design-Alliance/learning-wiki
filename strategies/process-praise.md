@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: process-praise
 title: Process Praise
 description: Praising learners' effort, strategies, and decision-making rather than fixed traits or outcomes, to sustain motivation and encourage productive responses to difficulty.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: goal-setting-conferences
 title: Goal Setting Conferences
 description: One-on-one or small-group conversations in which teacher and learner jointly set, monitor, and revise specific learning goals.
 status: review

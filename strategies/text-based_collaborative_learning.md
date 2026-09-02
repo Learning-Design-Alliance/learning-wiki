@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: text-based_collaborative_learning
 title: Text Based_Collaborative_Learning
 description: Learners construct understanding together through structured interaction around shared texts — discussing, annotating, questioning, and writing about what they read.
 status: review

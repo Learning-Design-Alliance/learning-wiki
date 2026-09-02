@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: consolidate_key_points
 title: Consolidate Key Points
 description: Summarizing and consolidating key points after pair talk helps to solidify understanding and ensure that all students have a clear takeaway.
 status: review

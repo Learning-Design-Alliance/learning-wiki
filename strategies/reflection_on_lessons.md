@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reflection_on_lessons
 title: Reflection on Lessons
 description: Teachers systematically reflect on each lesson before and after teaching, recording what worked and what needs revision to improve future instruction.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: establish_ground_rules_for_peer_critique
 title: Establish Ground Rules for Peer Critique
 description: Establishing ground rules for peer critique ensures that the process is productive, respectful, and beneficial for all learners.
 status: review

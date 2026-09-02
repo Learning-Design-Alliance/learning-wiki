@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: direct_instruction-phonics
 title: Direct Instruction Phonics
 description: Systematic, teacher-directed phonics instruction that explicitly teaches letter–sound correspondences and blending in a planned sequence so learners can decode unfamiliar words independently.
 status: review

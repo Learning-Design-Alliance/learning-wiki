@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: choice_boards
 title: Choice Boards
 description: Choice boards offer learners structured options for how they engage with or demonstrate learning, increasing autonomy, engagement, and ownership.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: phonics-based_spelling_instruction
 title: Phonics-Based Spelling Instruction
 description: Encourages learners to apply their phonics skills to spell new words by segmenting phonemes (sound units) and connecting them with corresponding letters.
 status: review

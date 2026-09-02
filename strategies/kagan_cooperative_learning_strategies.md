@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: kagan_cooperative_learning_strategies
 title: Kagan Cooperative Learning Strategies
 description: A family of structured, role-defined peer interaction routines (e.g., Round Robin, Gallery Walk, Two Stray One Stay) that guarantee equal participation in small groups.
 status: review

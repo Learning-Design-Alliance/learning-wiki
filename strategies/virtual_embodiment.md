@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: virtual_embodiment
 title: Virtual Embodiment
 description: Virtual embodiment uses immersive VR body ownership illusions to let learners temporarily experience the world from another person's body and social position.
 status: review

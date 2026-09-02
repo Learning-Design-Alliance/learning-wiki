@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: five-stage_problem-solving_model
 title: Five-Stage Problem-Solving Model
 description: A five-stage model that guides learners through understanding, framing, and resolving problems via structured self-regulated cycles.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: genius_hour_20_time
 title: Genius Hour / 20% Time
 description: Scheduled class time in which learners pursue self-chosen, inquiry-driven projects, modeled on Google's "20% time" policy.
 status: review

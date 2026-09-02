@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: compare_and_contrast_sources
 title: Compare and Contrast Sources
 description: Present learners with multiple sources on the same topic and have them compare and contrast the information presented.
 status: review

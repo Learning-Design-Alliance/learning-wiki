@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: chunking_directions
 title: Chunking Directions
 description: Breaking down directions into smaller, more manageable sections to support sustained attention.
 status: review

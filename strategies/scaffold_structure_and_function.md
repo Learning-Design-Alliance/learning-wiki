@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: scaffold_structure_and_function
 title: Scaffold Structure and Function
 description: Provide students with the language tools — sentence starters, stems, and frames — needed to succeed in project-based work by analyzing the linguistic demands of the project in advance.
 status: review

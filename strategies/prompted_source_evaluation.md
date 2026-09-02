@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: prompted_source_evaluation
 title: Prompted Source Evaluation
 description: Pair strategy instruction with written prompts that guide students to systematically evaluate the credibility, accuracy, and perspective of sources.
 status: review

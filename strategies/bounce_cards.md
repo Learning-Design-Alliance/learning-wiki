@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: bounce_cards
 title: Bounce Cards
 description: Bounce cards provide a structured way for students to engage in cooperative learning by promoting active listening, turn-taking, and perspective sharing.
 status: review

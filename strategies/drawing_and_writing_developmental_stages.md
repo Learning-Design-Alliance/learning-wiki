@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: drawing_and_writing_developmental_stages
 title: Drawing and Writing Developmental Stages
 description: "Understanding the developmental stages of drawing and writing can help educators tailor activities to match a child's current abilities."
 status: review

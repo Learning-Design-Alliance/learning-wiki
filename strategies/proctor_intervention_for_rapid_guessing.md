@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: proctor_intervention_for_rapid_guessing
 title: Proctor Intervention for Rapid Guessing
 description: When learners are flagged for rapid guessing during assessments, proctors approach them, pause the test, and engage them in a low-pressure conversation before they resume.
 status: review

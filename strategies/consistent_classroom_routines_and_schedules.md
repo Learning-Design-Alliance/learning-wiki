@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: consistent_classroom_routines_and_schedules
 title: Consistent Classroom Routines and Schedules
 description: Maintaining predictable classroom routines and schedules provides students with a sense of security and predictability, which supports emotional regulation and maximizes time on task.
 status: review

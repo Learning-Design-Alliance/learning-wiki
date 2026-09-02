@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: ask_open-ended_questions
 title: Ask Open-Ended Questions
 description: Invite students to describe their thinking, feelings, or experiences in their own words rather than assuming or prompting for a specific answer.
 status: review

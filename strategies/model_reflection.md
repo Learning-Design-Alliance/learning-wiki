@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: model_reflection
 title: Model Reflection
 description: Students need to encounter reflective role models.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: connection_of_prior_knowledge_to_new_learning
 title: Connection of Prior Knowledge to New Learning
 description: Building connections to prior understandings and experiences to facilitate new learning.
 status: review

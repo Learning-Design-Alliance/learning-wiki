@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: hint-design
 title: Hint Design
 description: Sequenced, graduated hints that provide the minimal information needed to keep a learner progressing without giving away the solution.
 status: review

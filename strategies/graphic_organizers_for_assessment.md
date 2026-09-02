@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: graphic_organizers_for_assessment
 title: Graphic Organizers for Assessment
 description: Students complete a graphic organizer showing relationships between concepts as a quiz or quiz component, making their understanding of a content structure visible for evaluation.
 status: review

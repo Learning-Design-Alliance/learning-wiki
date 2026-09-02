@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: peer-tutoring-with-structured-materials
 title: Peer Tutoring With Structured Materials
 description: Learners teach each other in structured dyads or small groups, using provided materials, scripts, or protocols that specify what the tutor does, says, and checks.
 status: review

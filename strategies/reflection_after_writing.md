@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reflection_after_writing
 title: Reflection After Writing
 description: Reflection involves pausing after completing a writing assignment to consider how the assignment went.
 status: review

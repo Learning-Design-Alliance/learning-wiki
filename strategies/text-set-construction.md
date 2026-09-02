@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: text-set-construction
 title: Text Set Construction
 description: Curating a deliberately sequenced collection of texts on a single topic — varied in difficulty, genre, and perspective — so learners build knowledge incrementally through reading.
 status: review

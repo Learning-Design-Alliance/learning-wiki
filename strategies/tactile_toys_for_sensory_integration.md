@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: tactile_toys_for_sensory_integration
 title: Tactile Toys for Sensory Integration
 description: Providing tactile toys (fidgets, textured objects, stress balls) to give learners sensory input that may support self-regulation, attention, and reduced fidgeting.
 status: review

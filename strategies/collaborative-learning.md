@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: collaborative-learning
 title: Collaborative Learning
 description: Learners work in small groups toward shared goals, co-constructing understanding through discussion, negotiation, and joint problem-solving.
 status: review

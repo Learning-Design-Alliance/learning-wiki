@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: discussions_to_guide_reflection
 title: Discussions to Guide Reflection
 description: Structured discussions that prompt learners to articulate, examine, and evaluate their own thinking and learning processes.
 status: review

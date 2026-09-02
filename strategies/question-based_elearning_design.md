@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: question-based_elearning_design
 title: Question-based eLearning Design
 description: An instructional approach that replaces expository presentation with questions learners must answer, driving active information-seeking and knowledge construction.
 status: review

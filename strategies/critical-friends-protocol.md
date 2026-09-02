@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: critical-friends-protocol
 title: Critical Friends Protocol
 description: A structured, facilitated peer-feedback protocol in which colleagues examine each other's work through defined roles, timed steps, and norms that separate warm feedback from judgment.
 status: review

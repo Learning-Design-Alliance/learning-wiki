@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: strength-based_approach_to_self-awareness
 title: Strength-Based Approach to Self-Awareness
 description: Identifies a student's existing strengths in self-awareness (emotion labeling, reflection, prediction) and leverages them to address related challenges.
 status: review

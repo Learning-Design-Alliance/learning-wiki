@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: outdoor_book_walk
 title: Outdoor Book Walk
 description: Find a public park or walkable street where you can post pages of a book to create a walkable reading experience that families can do together.
 status: review

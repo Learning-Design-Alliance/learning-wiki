@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: write_your_own_word_problem
 title: Write Your Own Word Problem
 description: For homework, assign learners the task of writing some of their own word problems containing some of the key words discussed in class.
 status: review

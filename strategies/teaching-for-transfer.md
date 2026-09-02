@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: teaching-for-transfer
 title: Teaching For Transfer
 description: Designing instruction so that knowledge and skills acquired in one context are applied in new, dissimilar contexts.
 status: review

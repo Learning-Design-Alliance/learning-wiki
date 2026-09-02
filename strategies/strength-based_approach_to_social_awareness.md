@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: strength-based_approach_to_social_awareness
 title: Strength-Based Approach to Social Awareness
 description: "This method involves identifying a student's strengths related to social awareness and using those strengths to address their challenges."
 status: review

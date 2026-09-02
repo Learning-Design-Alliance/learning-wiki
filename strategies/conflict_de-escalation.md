@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: conflict_de-escalation
 title: Conflict De Escalation
 description: A set of verbal and behavioral techniques for lowering the intensity of interpersonal conflict so that learning can resume and relationships are preserved.
 status: review

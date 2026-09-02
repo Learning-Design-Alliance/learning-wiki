@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: tiered_assignments
 title: Tiered Assignments
 description: Designing the same core task at multiple levels of complexity, scaffolding, or abstraction so all learners work on the same essential understanding at an appropriate challenge level.
 status: review

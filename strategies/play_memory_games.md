@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: play_memory_games
 title: Play Memory Games
 description: Structured memory games (matching, sequence recall, n-back) give learners repeated practice in holding and manipulating information, with near-transfer to similar tasks but little evidence of far transfer to general academic performance.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: purposeful_scheduling_for_learner_connections
 title: Purposeful Scheduling for Learner Connections
 description: Instructors deliberately allocate class time and informal contact points for relationship-building activities that surface learner interests and make instruction more personally relevant.
 status: review

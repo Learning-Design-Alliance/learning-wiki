@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: addressing_implicit_bias
 title: Addressing Implicit Bias
 description: Recognizing and addressing implicit biases involves moving away from the idea that being biased is inherently negative and acknowledging that everyone possesses biases.
 status: review

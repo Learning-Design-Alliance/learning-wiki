@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: equity-audits
 title: Equity Audits
 description: A systematic review of instructional designs, materials, and outcomes data to identify and remedy patterns that disadvantage particular learner groups.
 status: review

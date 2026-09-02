@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: frequent-low-stakes-testing
 title: Frequent Low Stakes Testing
 description: Frequent, ungraded or minimally graded quizzes that use retrieval as a learning event rather than an evaluation event.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: learning-centers
 title: Learning Centers
 description: Designated classroom stations, each focused on a specific task or skill, that small groups of students rotate through during independent work time.
 status: review

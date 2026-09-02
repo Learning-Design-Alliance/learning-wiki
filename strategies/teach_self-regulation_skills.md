@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: teach_self-regulation_skills
 title: Teach Self-Regulation Skills
 description: Explicitly teach learners strategies for monitoring and managing their own emotional, behavioral, and cognitive responses so they can engage productively in learning activities.
 status: review

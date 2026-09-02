@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: changing_spaces_with_mood_lighting
 title: Changing Spaces with Mood Lighting
 description: Using varied and colored lighting to alter the emotional tone of a learning space, signal activity transitions, and support relaxation or focus.
 status: review

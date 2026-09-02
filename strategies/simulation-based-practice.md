@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: simulation-based-practice
 title: Simulation Based Practice
 description: Learners rehearse a task in a simplified, safe, interactive replica of a real-world environment, receiving feedback on performance without real-world consequences.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: broker-facilitated-cross-domain-integration
 title: Broker-Facilitated Cross-Domain Integration
 description: Assign a facilitator with prior experience in both domains to pre-negotiate constraints and build trust between institutions before learners arrive, and to explicitly help each side's experts translate their practice for the other.
 status: draft

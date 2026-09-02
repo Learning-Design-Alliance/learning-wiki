@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: connecting_concepts_to_procedures
 title: Connecting Concepts to Procedures
 description: Instruction explicitly links conceptual understanding with procedural skill so each reinforces the other, rather than teaching algorithms as rote steps.
 status: review

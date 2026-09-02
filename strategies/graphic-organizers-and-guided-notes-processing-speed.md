@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: graphic-organizers-and-guided-notes-processing-speed
 title: Graphic Organizers and Guided Notes (Processing Speed)
 description: Providing students with graphic organizers or guided notes during lectures to help them pull out the important points.
 status: review

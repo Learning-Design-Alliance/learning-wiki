@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: establishing_norms_co-constructively
 title: Establishing Norms Co-Constructively
 description: Students and teacher jointly generate, negotiate, and ratify the behavioral and intellectual norms that will govern classroom interaction.
 status: review

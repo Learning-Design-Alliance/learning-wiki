@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: math-talks
 title: Math Talks
 description: Structured whole-class or small-group conversations in which learners share, compare, and justify mathematical reasoning and problem-solving strategies.
 status: review

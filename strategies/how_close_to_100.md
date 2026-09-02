@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: how_close_to_100
 title: How Close to 100?
 description: A partner dice game in which children roll two dice to determine the dimensions of an array drawn on a 100 grid, aiming to fill the grid as completely as possible while recording the matching number sentence.
 status: review

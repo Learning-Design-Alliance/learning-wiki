@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: varying_irrelevant_attributes_in_examples
 title: Varying Irrelevant Attributes in Examples
 description: When teaching concepts, use examples in which the irrelevant attributes vary widely.
 status: review

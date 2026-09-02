@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: teacher-student_reading_conferences
 title: Teacher-Student Reading Conferences
 description: Schedule regular one-on-one conferences with students to assess their independent reading, provide individualized instructional support, and document progress.
 status: review

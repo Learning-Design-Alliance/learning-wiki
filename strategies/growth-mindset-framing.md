@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: growth-mindset-framing
 title: Growth Mindset Framing
 description: Framing tasks, feedback, and instruction so learners view ability as malleable and effort, strategy, and help-seeking as the path to improvement.
 status: review

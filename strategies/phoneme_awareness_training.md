@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: phoneme_awareness_training
 title: Phoneme Awareness Training
 description: Direct instruction in phoneme awareness helps children in the early stages of learning to spell and helps remediate the problems of poor spellers at any age.
 status: review

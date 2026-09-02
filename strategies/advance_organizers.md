@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: advance_organizers
 title: Advance Organizers
 description: An introductory statement, question, or overview presented before learning material that provides a higher-level conceptual scaffold for what follows.
 status: review

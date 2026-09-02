@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: incremental-rehearsal
 title: Incremental Rehearsal
 description: A flashcard drill technique that interleaves mostly known items with a small number of new items, maximizing success rate while gradually folding new material into long-term memory.
 status: review

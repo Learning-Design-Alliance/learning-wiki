@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: comprehensive-school-physical-activity-programs
 title: Comprehensive School Physical Activity Programs
 description: A whole-school framework that provides students with multiple opportunities for physical activity before, during, and after school.
 status: review

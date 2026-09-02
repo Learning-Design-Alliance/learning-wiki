@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: story_map
 title: Story Map
 description: Story maps are graphic organizers that help learners visually represent the key elements of a narrative — characters, setting, plot, conflict, and resolution — to support comprehension and recall.
 status: review

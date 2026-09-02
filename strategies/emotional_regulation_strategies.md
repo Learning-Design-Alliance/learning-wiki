@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: emotional_regulation_strategies
 title: Emotional Regulation Strategies
 description: "Educators identify students' strengths and challenges in emotional regulation—the ability to control responses to emotional stimuli—and align supports and instruction to those profiles."
 status: review

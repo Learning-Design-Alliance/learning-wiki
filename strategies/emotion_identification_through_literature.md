@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: emotion_identification_through_literature
 title: Emotion Identification through Literature
 description: "Uses emotion posters during read-alouds to help students infer and name a character's emotions from language and pictures."
 status: review

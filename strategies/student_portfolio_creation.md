@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: student_portfolio_creation
 title: Student Portfolio Creation
 description: Student portfolio creation involves students selecting and organizing their best work samples to demonstrate their progress, reflect on their learning, and set goals.
 status: review

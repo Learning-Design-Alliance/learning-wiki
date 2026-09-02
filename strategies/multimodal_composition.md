@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: multimodal_composition
 title: Multimodal Composition
 description: Multimodal composition involves creating texts using various modes of communication such as images, words, sound, and movement.
 status: review

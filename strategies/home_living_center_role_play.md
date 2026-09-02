@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: home_living_center_role_play
 title: Home Living Center Role Play
 description: Learners visit the home living center to role play different characters and relate these characters to different emotions.
 status: review

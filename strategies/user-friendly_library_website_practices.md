@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: user-friendly_library_website_practices
 title: User-Friendly Library Website Practices
 description: Designing library websites so students can efficiently find and use resources through clear navigation, plain language, accessibility, and usability testing.
 status: review

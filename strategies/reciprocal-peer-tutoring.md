@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reciprocal-peer-tutoring
 title: Reciprocal Peer Tutoring
 description: Students of similar ability are paired and alternate between tutor and tutee roles, taking turns teaching, questioning, and giving each other feedback.
 status: review

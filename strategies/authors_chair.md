@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: authors_chair
 title: Authors' Chair
 description: A structured sharing routine in which students read their writing aloud to the class and respond to peer questions and feedback.
 status: review

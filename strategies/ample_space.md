@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: ample_space
 title: Ample Space
 description: Providing sufficient physical space in learning environments to support movement, collaboration, and attention without crowding-induced distraction or stress.
 status: review

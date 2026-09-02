@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: real-world_math_applications
 title: Real World Math Applications
 description: Connecting math concepts to authentic real-world contexts and applications to enhance understanding, relevance, engagement, and transfer.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: shadowing-behavior-adjustment
 title: Shadowing (Behavior Adjustment)
 description: "An adult follows a child closely, within arm's reach, to provide constant direct supervision and prevent unwanted behaviors (e.g., biting) before they occur."
 status: review

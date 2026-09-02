@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: comparing_multiple_solution_methods
 title: Comparing Multiple Solution Methods
 description: Learners compare and contrast multiple solution methods for the same problem, as opposed to studying one method at a time.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: repairing_harm
 title: Repairing Harm
 description: A restorative practice in which a student who has caused harm identifies the damage and stakeholders, then designs and carries out a plan to repair it, replacing exclusionary punishment with accountability and empathy-building.
 status: review

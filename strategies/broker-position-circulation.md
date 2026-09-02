@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: broker-position-circulation
 title: Broker Position Circulation
 description: Deliberately transfer a boundary-crossing broker's leadership or facilitation role to a successor over time (rather than one person holding it indefinitely), to counter the tendency for a broker's own centrality to crowd out broader involvement.
 status: draft

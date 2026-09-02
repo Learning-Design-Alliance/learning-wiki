@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: separate-product-process-and-progress-criteria
 title: Separate Product, Process, and Progress Criteria
 description: Instead of blending behavior and participation into one grade, differentiate between grades for product (achievement), process (learning behaviors), and progress (growth over time).
 status: review

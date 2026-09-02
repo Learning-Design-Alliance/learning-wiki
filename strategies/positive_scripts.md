@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: positive_scripts
 title: Positive Scripts
 description: Regularly constructing and narrating uplifting first-person stories in which goals are visualized as already achieved, to replace limiting self-narratives and internalize desired outcomes.
 status: review

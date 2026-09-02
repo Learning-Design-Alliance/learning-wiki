@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: non-confrontational_check-ins
 title: Non-Confrontational Check-ins
 description: Brief, positive, low-stakes interactions at the classroom threshold that build rapport and preempt disruptive behavior before instruction begins.
 status: review

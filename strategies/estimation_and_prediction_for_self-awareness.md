@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: estimation_and_prediction_for_self-awareness
 title: Estimation and Prediction for Self-Awareness
 description: Learners estimate outcomes, task difficulty, or completion times before working, then compare estimates against actual results to calibrate their self-knowledge.
 status: review

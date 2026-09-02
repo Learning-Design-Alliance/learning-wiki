@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: question-generation
 title: Question Generation
 description: Learners formulate their own questions about material — before, during, or after instruction — to activate prior knowledge, direct attention, and deepen processing.
 status: review

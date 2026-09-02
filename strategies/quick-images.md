@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: quick-images
 title: Quick Images
 description: A brief flash of a visual quantity or arrangement (e.g., dot cards, ten-frames) that learners reconstruct and discuss, building subitizing, number sense, and structural reasoning.
 status: review

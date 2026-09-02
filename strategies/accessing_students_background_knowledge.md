@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: accessing_students_background_knowledge
 title: Accessing Students’ Background Knowledge
 description: "This strategy involves intentionally activating and building upon learners' existing knowledge and experiences to enhance comprehension and engagement."
 status: review

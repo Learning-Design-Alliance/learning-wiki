@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: creating_collaborative_spaces
 title: Creating Collaborative Spaces
 description: Designing the physical and social environment so that group work, peer interaction, and joint problem-solving are the default mode of learning rather than the exception.
 status: review

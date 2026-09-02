@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: brainstorming_stuff_we_want_to_know_about
 title: "Brainstorming 'Stuff We Want to Know About'"
 description: Learners and instructors co-create an ongoing, publicly posted list of questions and topics of interest related to course content, which then drives inquiry and project selection.
 status: review

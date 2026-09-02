@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: learning-dashboards
 title: Learning Dashboards
 description: Visual displays of learner activity and performance data intended to support self-regulated learning and instructional decision-making.
 status: review

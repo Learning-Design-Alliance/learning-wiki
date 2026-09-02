@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: extension_projects_for_advanced_students
 title: Extension Projects for Advanced Students
 description: Challenge advanced learners with real-world extension projects that apply their knowledge in meaningful ways.
 status: review

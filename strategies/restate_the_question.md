@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: restate_the_question
 title: Restate The Question
 description: Requiring learners to restate a question or problem in their own words before answering, building comprehension, slowing impulsive responding, and exposing misunderstandings early.
 status: review

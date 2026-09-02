@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: provide_manipulatives
 title: Provide Manipulatives
 description: Learners are provided with physical or virtual objects they can manipulate to make abstract concepts concrete and actionable.
 status: review

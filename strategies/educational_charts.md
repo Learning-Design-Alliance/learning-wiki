@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: educational_charts
 title: Educational Charts
 description: Educational charts are visual aids that present data in an accessible format, revealing patterns and stories behind the numbers.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: follow_up_after_discussions_about_race
 title: Follow Up After Discussions About Race
 description: Taking concrete actions that address inequities surfaced during classroom discussions about race, and giving learners structured time and support to act on what the discussion revealed.
 status: review

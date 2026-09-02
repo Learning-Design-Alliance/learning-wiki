@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: how_many_are_hiding
 title: How Many Are Hiding?
 description: A part-part-whole number activity in which children hide some cubes under a cup and peers infer the hidden quantity from the visible remainder and the known total.
 status: review

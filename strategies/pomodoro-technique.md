@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: pomodoro-technique
 title: Pomodoro Technique
 description: A time-management method that alternates focused 25-minute work intervals with short breaks to sustain attention and manage mental fatigue.
 status: review

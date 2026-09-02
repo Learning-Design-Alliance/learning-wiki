@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: questioning-techniques
 title: Questioning Techniques
 description: Deliberate use of instructor- and learner-generated questions to activate prior knowledge, elicit thinking, and deepen processing.
 status: review

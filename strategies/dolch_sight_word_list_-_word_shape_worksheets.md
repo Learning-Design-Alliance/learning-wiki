@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: dolch_sight_word_list_-_word_shape_worksheets
 title: Dolch Sight Word List - Word Shape Worksheets
 description: Printable worksheets in which students identify and complete Dolch sight words using letter-shape (box) cues, building visual word recognition.
 status: review

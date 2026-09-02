@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: establishing_routines_and_procedures
 title: Establishing Routines and Procedures
 description: Explicitly teaching and rehearsing predictable patterns of behavior for recurring classroom activities so that management runs automatically and instructional time is protected.
 status: review

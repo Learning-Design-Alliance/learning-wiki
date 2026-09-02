@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: rich-library-audio-braille
 title: Rich Library Audio & Braille
 description: Providing learners with abundant, well-curated audio and braille versions of texts so that access to content does not depend on print reading.
 status: review

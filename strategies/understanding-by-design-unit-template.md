@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: understanding-by-design-unit-template
 title: Understanding By Design Unit Template
 description: A backward-design planning template that structures a unit around desired learning results, acceptable evidence of understanding, and only then the learning plan.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reframe_negative_self-talk
 title: Reframe Negative Self-Talk
 description: Practice reframing negative thoughts, statements, or situations into more positive alternatives.
 status: review

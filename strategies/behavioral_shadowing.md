@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: behavioral_shadowing
 title: Behavioral Shadowing
 description: "An adult shadows a child closely (within arm's reach) to prevent specific harmful behaviors (e.g., biting, hitting) before they occur."
 status: review

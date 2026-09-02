@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: diversity_of_perspectives_and_identities
 title: Diversity of Perspectives and Identities
 description: Incorporating diverse voices, experiences, and viewpoints into curriculum, materials, and discussion so learners encounter multiple ways of knowing and being.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: shadowing_for_behavior_adjustment
 title: Shadowing for Behavior Adjustment
 description: An adult maintains close, continuous proximity to a child to prevent harmful behaviors before they occur, then coaches replacement behaviors.
 status: review

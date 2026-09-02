@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mindfulness_breaks
 title: Mindfulness Breaks
 description: Short, structured activities that pause instruction to cultivate present-moment attention and emotional regulation, restoring cognitive resources for learning.
 status: review

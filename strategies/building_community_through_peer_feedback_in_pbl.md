@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: building_community_through_peer_feedback_in_pbl
 title: Building Community Through Peer Feedback in PBL
 description: Building community through peer feedback involves giving students frequent, structured opportunities to exchange feedback on project work and revise it, using critique as the vehicle for building classroom relationships and shared ownership.
 status: review

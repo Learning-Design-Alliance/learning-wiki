@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: health_and_dietary_planning
 title: Health and Dietary Planning
 description: Learners study dietary guidance (e.g., the food pyramid), determine daily nutritional requirements, and plan a full day of meals that meets those requirements.
 status: review

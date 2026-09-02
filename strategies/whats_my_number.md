@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: whats_my_number
 title: What’s My Number?
 description: A guessing game where one person thinks of a number and provides clues, and others use logical reasoning and deduction to determine the number.
 status: review

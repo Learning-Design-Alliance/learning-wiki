@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: faded-worked-examples
 title: Faded Worked Examples
 description: A sequence that begins with fully worked examples and progressively removes solution steps, transferring responsibility from the model to the learner.
 status: review

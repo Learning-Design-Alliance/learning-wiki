@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: exercise_contests
 title: Exercise Contests
 description: Organize contests to incentivize students to be more physically active, such as a month-long or year-long challenge.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: modeling-and-think-alouds
 title: Modeling And Think Alouds
 description: The instructor performs a task while verbalizing their reasoning, making expert thinking visible for learners to observe and imitate.
 status: review

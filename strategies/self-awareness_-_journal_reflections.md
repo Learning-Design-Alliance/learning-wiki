@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-awareness_-_journal_reflections
 title: Self-Awareness - Journal Reflections
 description: Learners regularly write reflective entries about their experiences, emotions, and outcomes to build self-awareness and self-regulation.
 status: review

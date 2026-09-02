@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: encourage_reading_diverse_texts
 title: Encourage Reading Diverse Texts
 description: Learners read diverse texts and then think and talk about different genres to acquire academic language.
 status: review

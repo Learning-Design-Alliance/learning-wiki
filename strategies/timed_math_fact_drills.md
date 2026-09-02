@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: timed_math_fact_drills
 title: Timed Math Fact Drills
 description: Brief, timed practice sessions in which learners retrieve basic arithmetic facts (e.g., single-digit addition, multiplication tables) repeatedly until recall becomes fast and automatic.
 status: review

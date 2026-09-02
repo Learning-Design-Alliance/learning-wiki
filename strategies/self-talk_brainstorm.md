@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-talk_brainstorm
 title: Self-Talk Brainstorm
 description: Provide learners with scenarios of challenging situations and have them brainstorm possible neutral or positive self-talk responses.
 status: review

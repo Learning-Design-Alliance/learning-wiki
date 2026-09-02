@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reducing_visual_clutter
 title: Reducing Visual Clutter
 description: Minimizing unnecessary or distracting visual stimuli in the learning environment so that attention is directed to instructional content rather than incidental decoration.
 status: review

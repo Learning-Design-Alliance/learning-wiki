@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: use-analogies
 title: Use Analogies
 description: Introduce new concepts by mapping them onto familiar, well-structured knowledge domains so learners can reason from the known to the unknown.
 status: review

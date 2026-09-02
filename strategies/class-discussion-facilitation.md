@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: class-discussion-facilitation
 title: Class Discussion Facilitation
 description: Structuring and steering whole-class or small-group discussion so that learners articulate, challenge, and build on ideas rather than merely answer teacher questions.
 status: review

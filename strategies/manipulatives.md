@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: manipulatives
 title: Manipulatives
 description: Provide manipulatives to help make complex concepts concrete.
 status: review

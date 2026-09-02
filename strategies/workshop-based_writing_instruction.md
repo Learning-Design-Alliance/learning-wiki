@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: workshop-based_writing_instruction
 title: Workshop-Based Writing Instruction
 description: A structured instructional format in which learners draft, receive peer and teacher feedback, revise, and publish writing within a predictable workshop routine.
 status: review

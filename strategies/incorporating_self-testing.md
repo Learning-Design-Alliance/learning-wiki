@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: incorporating_self-testing
 title: Incorporating Self-Testing
 description: Using frequent, low-stakes self-administered tests as learning events rather than assessments, so learners practice retrieval and diagnose gaps before grades are at stake.
 status: review

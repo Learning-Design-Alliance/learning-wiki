@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: whats-my-emotion-game-charades
 title: What’s My Emotion? Game
 description: One learner demonstrates an emotion through body language and facial expressions while the rest of the class guesses the emotion, building emotional literacy through enactment and feedback.
 status: review

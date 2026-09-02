@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mood-meters
 title: Mood Meters
 description: A color-coded grid for plotting emotional states along energy and pleasantness dimensions, used as a quick check-in and emotion-labeling routine.
 status: review

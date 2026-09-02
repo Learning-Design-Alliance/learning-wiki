@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: creating_a_common_language_for_multimodal_composition
 title: Creating a Common Language for Multimodal Composition
 description: Empowering students with a shared vocabulary to analyze and discuss the multimodal composition process.
 status: review

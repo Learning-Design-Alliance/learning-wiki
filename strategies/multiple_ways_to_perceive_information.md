@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: multiple_ways_to_perceive_information
 title: Multiple Ways to Perceive Information
 description: Presenting information through more than one sensory channel or representational format (visual, auditory, tactile, interactive) to improve comprehension and accessibility.
 status: review

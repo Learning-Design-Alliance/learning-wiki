@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: critical_response_process
 title: Critical Response Process
 description: The Critical Response Process is a structured method for giving feedback that puts the learner in control.
 status: review

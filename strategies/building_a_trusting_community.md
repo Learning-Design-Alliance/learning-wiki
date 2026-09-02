@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: building_a_trusting_community
 title: Building a Trusting Community
 description: The key step is building a trusting community by giving students time to reflect and write about elements of their lives and to share these reflections.
 status: review

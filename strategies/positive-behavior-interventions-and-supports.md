@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: positive-behavior-interventions-and-supports
 title: Positive Behavior Interventions And Supports
 description: A schoolwide framework that teaches and reinforces expected behaviors through explicit instruction, consistent acknowledgment systems, and tiered support rather than reactive punishment.
 status: review

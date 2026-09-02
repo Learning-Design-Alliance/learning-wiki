@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: analyzing_video_replays
 title: Analyzing Video Replays
 description: "Video replay analysis involves reviewing short video clips, replays of key segments, or recordings of one's performance to enhance metacognition, improve long-term memory, and cultivate a learner mindset."
 status: review

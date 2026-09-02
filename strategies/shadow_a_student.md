@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: shadow_a_student
 title: Shadow a Student
 description: Shadowing involves following a student throughout their school day to gain insights into their experiences, challenges, and needs.
 status: review

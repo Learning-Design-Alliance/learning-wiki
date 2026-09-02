@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: socratic_seminars
 title: Socratic Seminars
 description: A text-based, facilitator-guided discussion format in which students question, listen, and build meaning collaboratively through open-ended dialogue.
 status: review

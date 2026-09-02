@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: graphic-organizers-and-visual-aids-attention
 title: Graphic Organizers and Visual Aids (Attention)
 description: Using graphic organizers and visual aids to help students identify the most important information and focus on it.
 status: review

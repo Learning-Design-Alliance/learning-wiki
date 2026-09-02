@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: encourage_cooperation
 title: Encourage Cooperation
 description: Learning is enhanced when it is more like a team effort than a solo race — learners articulate ideas, respond to others' thinking, and share responsibility for outcomes.
 status: review

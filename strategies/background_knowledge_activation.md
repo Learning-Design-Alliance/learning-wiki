@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: background_knowledge_activation
 title: Background Knowledge Activation
 description: "Before engaging in text-based discussions, instructors activate learners' background knowledge related to the text's setting and themes."
 status: review

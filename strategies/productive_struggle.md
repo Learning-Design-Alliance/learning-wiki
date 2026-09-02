@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: productive_struggle
 title: Productive Struggle
 description: Deliberately allowing learners to wrestle with problems beyond their current competence before receiving direct instruction, so that the subsequent explanation lands on prepared minds.
 status: review

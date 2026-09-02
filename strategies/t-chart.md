@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: t-chart
 title: T-Chart
 description: A T-chart is a graphic organizer shaped like the letter T, with a horizontal line at the top to signify a broad category and a vertical line that allows learners to compare attributes of a concept, organism, or phenomenon.
 status: review

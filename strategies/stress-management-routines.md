@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: stress-management-routines
 title: Stress Management Routines
 description: Regularly embedded practices — breathing, mindfulness, physical movement, and cognitive reframing — that help learners regulate stress so it does not consume working memory and attention needed for learning.
 status: review

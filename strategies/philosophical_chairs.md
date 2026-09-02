@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: philosophical_chairs
 title: Philosophical Chairs
 description: A whole-class discussion format in which learners physically move to agree or disagree with a provocative statement, then defend and revise their positions using textual evidence.
 status: review

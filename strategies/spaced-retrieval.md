@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: spaced-retrieval
 title: Spaced Retrieval
 description: Scheduling recall attempts at increasing intervals over time so that effortful retrieval, rather than rereading, drives durable memory.
 status: review

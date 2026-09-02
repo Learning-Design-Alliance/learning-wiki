@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: redundancy-avoidance
 title: Redundancy Avoidance
 description: Removing simultaneous duplicate presentations of the same information (e.g., narrating on-screen text verbatim) to avoid overloading working memory.
 status: review

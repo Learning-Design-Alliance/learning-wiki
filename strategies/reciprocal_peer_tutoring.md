@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reciprocal_peer_tutoring
 title: Reciprocal Peer Tutoring
 description: Reciprocal peer tutoring (RPT) pairs students of similar ability who alternate the roles of tutor and tutee, taking turns teaching, questioning, and giving feedback.
 status: review

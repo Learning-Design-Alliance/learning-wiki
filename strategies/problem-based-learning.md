@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: problem-based-learning
 title: Problem Based Learning
 description: An instructional strategy in which learning is organized around collaboratively solving authentic, ill-structured problems before formal instruction, with the problem serving as both the stimulus and the organizing frame for learning.
 status: review

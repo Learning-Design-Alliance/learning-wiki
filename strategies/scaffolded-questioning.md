@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: scaffolded-questioning
 title: Scaffolded Questioning
 description: A strategy in which the instructor sequences and adapts questions — from simple recall to increasingly complex reasoning — to guide learners through a zone of proximal development.
 status: review

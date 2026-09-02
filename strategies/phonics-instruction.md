@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: phonics-instruction
 title: Phonics Instruction
 description: Systematic, explicit teaching of letter–sound correspondences and blending so learners can decode unfamiliar words independently.
 status: review

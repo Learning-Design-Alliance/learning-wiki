@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: establishing-routines
 title: Establishing Routines
 description: Establishing predictable, rehearsed patterns for recurring classroom or course activities so that procedural overhead is automated and attention is freed for learning.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: model-eliciting-activities-meas
 title: Model-Eliciting Activities (MEAs)
 description: Open-ended, team-based problems that require learners to invent, test, and revise mathematical or conceptual models of complex real-world situations, making their thinking visible through written products.
 status: review

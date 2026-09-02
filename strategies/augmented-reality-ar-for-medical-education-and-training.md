@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: augmented-reality-ar-for-medical-education-and-training
 title: Augmented Reality (AR) for Medical Education and Training
 description: AR overlays interactive 3D anatomical and procedural content onto the real world or the patient, enabling anatomy learning, simulation-based skills practice, and low-stakes surgical rehearsal.
 status: review

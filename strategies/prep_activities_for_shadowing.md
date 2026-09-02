@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: prep_activities_for_shadowing
 title: Prep Activities for Shadowing
 description: Structured pre-observation activities that prepare learners to extract learning from watching an expert at work before they attempt the task themselves.
 status: review

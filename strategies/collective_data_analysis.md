@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: collective_data_analysis
 title: Collective Data Analysis
 description: A collaborative, iterative process in which a group makes sense of shared data together — identifying themes, outliers, and implications — rather than analysis being done by an individual or an authority.
 status: review

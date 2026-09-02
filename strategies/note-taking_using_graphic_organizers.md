@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: note-taking_using_graphic_organizers
 title: Note-Taking Using Graphic Organizers
 description: Learners use graphic organizers to take notes on their reading, research, films, or podcasts, visually structuring information and relationships between concepts to enhance comprehension and retention.
 status: review

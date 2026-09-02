@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reflection
 title: Reflection
 description: A deliberate, structured pause in which learners examine their own thinking, performance, or experience to consolidate learning and inform future action.
 status: review

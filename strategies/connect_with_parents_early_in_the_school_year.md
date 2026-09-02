@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: connect_with_parents_early_in_the_school_year
 title: Connect with Parents Early in the School Year
 description: Connecting with parents as soon as possible in the school year through personalized phone calls, emails, in-person conversations, or letters home.
 status: review

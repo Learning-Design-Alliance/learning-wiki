@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: formative_assessment_to_gauge_student_progress_and_guide_instruction
 title: Formative Assessment to Gauge Student Progress and Guide Instruction
 description: Assessing student work on a regular basis provides both the teacher and the student with a sense of the student's progress, indicates strengths and areas for improvement, and helps the teacher plan appropriately to meet the student's needs.
 status: review

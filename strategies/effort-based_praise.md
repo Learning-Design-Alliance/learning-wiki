@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: effort-based_praise
 title: Effort-Based Praise
 description: "Praising learners' efforts and strategies—as opposed to their intelligence—cultivates a growth mindset and enhances motivation and performance."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: collaborative_peer_review
 title: Collaborative Peer Review
 description: Learners exchange structured feedback on each other's writing to improve drafts and develop evaluative judgment.
 status: review

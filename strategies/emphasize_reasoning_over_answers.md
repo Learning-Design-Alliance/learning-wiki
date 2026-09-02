@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: emphasize_reasoning_over_answers
 title: Emphasize Reasoning over Answers
 description: De-emphasizing correct answers and spending more time on reasoning involves shifting the focus from finding the right solution to understanding the problem-solving process.
 status: review

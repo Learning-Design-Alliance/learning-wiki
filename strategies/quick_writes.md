@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: quick_writes
 title: Quick Writes
 description: Quick Writes are short, focused informational writing tasks completed in under ten minutes, aimed at helping students process, organize, and remember information and ideas.
 status: review

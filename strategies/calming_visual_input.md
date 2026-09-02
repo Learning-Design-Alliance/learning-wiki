@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: calming_visual_input
 title: Calming Visual Input
 description: Altering the visual environment — reducing clutter, dimming light, and limiting distracting displays — to reduce overstimulation and support attention and self-regulation.
 status: review

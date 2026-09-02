@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: text-talk
 title: Text Talk
 description: A dialogic read-aloud strategy in which teachers intersperse open-ended questioning about decontextualized storybook language, with explicit attention to Tier 2 vocabulary, to build young learners' comprehension and word knowledge.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: multisensory-encoding
 title: Multisensory Encoding
 description: Presenting content through multiple sensory channels (e.g., visual plus auditory) so that information is encoded in more than one representational format.
 status: review

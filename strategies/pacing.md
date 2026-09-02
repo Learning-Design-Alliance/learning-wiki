@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: pacing
 title: Pacing
 description: Controlling the rate, sequence, and segmentation at which new content is presented so that processing demands stay within learners' working memory capacity.
 status: review

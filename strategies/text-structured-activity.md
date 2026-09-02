@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: text-structured-activity
 title: Text + Structured Activity
 description: Students engage with text resources (physical or digital) accompanied by a structured activity designed to ensure active learning and engagement with the material.
 status: review

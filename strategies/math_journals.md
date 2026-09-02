@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: math_journals
 title: Math Journals
 description: Math journals are a structured writing practice in which students explain mathematical reasoning, document problem-solving, and reflect on their learning, with periodic teacher feedback.
 status: review

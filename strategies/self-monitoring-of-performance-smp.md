@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-monitoring-of-performance-smp
 title: Self-Monitoring of Performance (SMP)
 description: Self-monitoring of performance is a strategy where learners track an aspect of their own academic performance — such as rate of work completion or accuracy — and record the results to improve it.
 status: review

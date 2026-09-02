@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: relevant_vocabulary_instruction
 title: Relevant Vocabulary Instruction
 description: Instructors should present vocabulary that is useful and/or necessary for learners, based on their learning goals.
 status: review

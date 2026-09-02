@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: dictation-exercises
 title: Dictation Exercises
 description: Learners transcribe spoken language — writing down words, phrases, or sentences they hear — to build phoneme–grapheme mapping, listening accuracy, and automatic word recognition.
 status: review

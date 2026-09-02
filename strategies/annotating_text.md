@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: annotating_text
 title: Annotating Text
 description: Learners actively mark up a text — highlighting, underlining, margin notes, symbols, and questions — to engage generatively with content while reading.
 status: review

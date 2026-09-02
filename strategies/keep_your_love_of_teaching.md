@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: keep_your_love_of_teaching
 title: Keep Your Love of Teaching
 description: Sustain teacher enthusiasm, humor, and authentic enjoyment of students and content as a deliberate instructional practice.
 status: review

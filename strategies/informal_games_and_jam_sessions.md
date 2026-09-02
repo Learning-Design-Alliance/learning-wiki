@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: informal_games_and_jam_sessions
 title: Informal Games and Jam Sessions
 description: Encourage participation in informal games and jam sessions to foster creativity, collaboration, and enjoyment without the pressure of competition.
 status: review

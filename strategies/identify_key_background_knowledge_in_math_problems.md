@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: identify_key_background_knowledge_in_math_problems
 title: Identify Key Background Knowledge in Math Problems
 description: Identify what kinds of background knowledge learners need to understand a math problem before teaching it.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: spaced-practice-scheduling
 title: Spaced Practice Scheduling
 description: Distributing practice sessions over time rather than massing them together, exploiting the spacing effect to improve long-term retention.
 status: review

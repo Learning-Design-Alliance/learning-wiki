@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: chart-based_retrieval_and_spaced_practice
 title: Chart-Based Retrieval and Spaced Practice
 description: A multi-day classroom exercise in which learners reproduce a chart from memory, fill gaps from notes, and repeat across days — demonstrating spaced retrieval practice while learning its content.
 status: review

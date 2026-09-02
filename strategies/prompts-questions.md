@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: prompts-questions
 title: "Prompts & Questions"
 description: Providing guiding prompts and questions for students to use when reading or participating in discussions deepens their understanding of texts and gives them space to question and grapple with issues of power, justice, and equity.
 status: review

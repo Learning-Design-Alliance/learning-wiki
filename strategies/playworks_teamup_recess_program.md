@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: playworks_teamup_recess_program
 title: Playworks TeamUp Recess Program
 description: A low-cost, school-led program that applies instructional-design principles to recess — treating recess plans like lesson plans — to increase physical activity, cooperation, and conflict resolution while reducing bullying and lost class time.
 status: review

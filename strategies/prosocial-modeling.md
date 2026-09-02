@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: prosocial-modeling
 title: Prosocial Modeling
 description: Prosocial modeling deliberately uses live, verbal, or symbolic models to demonstrate socially desirable behaviors, on the premise that observers copy what a model actually does more than what the model says to do.
 status: draft

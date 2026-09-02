@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: vocabulary-instruction-small-groups
 title: Vocabulary Instruction Small Groups
 description: Small-group instruction that teaches high-value vocabulary through explicit explanation, multiple encounters, and collaborative word use.
 status: review

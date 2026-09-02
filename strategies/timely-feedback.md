@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: timely-feedback
 title: Timely Feedback
 description: Providing feedback as soon as possible after a learner demonstrates performance, so the feedback connects directly to the action that prompted it.
 status: review

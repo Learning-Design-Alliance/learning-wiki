@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: tossing_activity
 title: Tossing Activity
 description: A hands-on activity that integrates physical movement — typically tossing or catching objects — with academic content, so that motor action becomes part of the learning task.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: teach_academic_vocabulary
 title: Teach Academic Vocabulary
 description: Provide explicit, planned instruction on the academic vocabulary learners will encounter in a unit or project, before and during that work.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: individual_reflection
 title: Individual Reflection
 description: Learners deliberately review their own experience, work, or thinking to extract lessons, surface assumptions, and consolidate learning.
 status: review

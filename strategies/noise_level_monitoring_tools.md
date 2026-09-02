@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: noise_level_monitoring_tools
 title: Noise Level Monitoring Tools
 description: Using electronic tools to monitor classroom noise levels and provide auditory or visual signals when the noise becomes too loud.
 status: review

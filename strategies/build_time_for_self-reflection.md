@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: build_time_for_self-reflection
 title: Build Time for Self-Reflection
 description: Deliberately scheduling structured time for teachers to reflect on new practices and what they learned from the process, rather than only on whether the attempt succeeded or failed.
 status: review

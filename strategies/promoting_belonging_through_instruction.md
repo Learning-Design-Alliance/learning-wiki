@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: promoting_belonging_through_instruction
 title: Promoting Belonging Through Instruction
 description: Teachers promote belonging through instructional choices and practices that signal all students are capable of success and valued members of the learning community.
 status: review

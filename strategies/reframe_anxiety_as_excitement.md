@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reframe_anxiety_as_excitement
 title: Reframe Anxiety as Excitement
 description: A brief reappraisal technique that prompts learners to relabel anxious arousal as excitement before a high-stakes task, converting a threat mindset into an opportunity mindset.
 status: review

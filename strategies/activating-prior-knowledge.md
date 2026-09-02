@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: activating-prior-knowledge
 title: Activating Prior Knowledge
 description: Deliberately prompting learners to retrieve and surface what they already know before encountering new material, so new information can be integrated with existing mental schemas.
 status: review

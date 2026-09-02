@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: family-literacy-programs
 title: Family Literacy Programs
 description: Structured programs that engage parents and children together in literacy activities, building home literacy environments and parenting practices that support children's reading development.
 status: review

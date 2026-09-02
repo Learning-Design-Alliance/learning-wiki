@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: document_outline_tool
 title: Document Outline Tool
 description: Learners plan and structure a document by drafting an outline — headings, sections, and key points — before writing prose, using a dedicated tool or template.
 status: review

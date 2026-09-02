@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: dolch_sight_word_lists
 title: Dolch Sight Word Lists
 description: The Dolch Sight Word list comprises the 220 most common service words and 95 common nouns in children's texts, taught for instant recognition rather than decoding.
 status: review

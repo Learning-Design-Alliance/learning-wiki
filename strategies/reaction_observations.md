@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reaction_observations
 title: Reaction Observations
 description: Learners observe, describe, and explain the properties of liquids and their mixtures through simple, structured experiments.
 status: review

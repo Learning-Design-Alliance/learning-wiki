@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: peer-observation-and-feedback
 title: Peer Observation And Feedback
 description: Learners observe each other's performance and provide structured, criterion-referenced feedback to improve work and develop evaluative judgment.
 status: review

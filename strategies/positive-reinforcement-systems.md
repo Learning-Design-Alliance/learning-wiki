@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: positive-reinforcement-systems
 title: Positive Reinforcement Systems
 description: A systematic approach to strengthening desired behaviors and learning habits by delivering rewarding consequences immediately after they occur.
 status: review

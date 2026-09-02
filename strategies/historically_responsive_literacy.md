@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: historically_responsive_literacy
 title: Historically Responsive Literacy
 description: A framework that cultivates literacy, intellect, and self-efficacy by grounding instruction in students' identities, histories, and agency for equity.
 status: review

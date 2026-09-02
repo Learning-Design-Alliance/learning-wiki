@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: practice_responsible_decision-making
 title: Practice Responsible Decision-Making
 description: Students analyze realistic problem scenarios in pairs or small groups, decide on a course of action, share and defend their decisions with the class, and reflect on their reasoning.
 status: review

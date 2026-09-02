@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: classroom-rules-and-routines
 title: Classroom Rules And Routines
 description: Explicitly taught, consistently enforced behavioral expectations and procedural habits that structure classroom life and free cognitive resources for learning.
 status: review

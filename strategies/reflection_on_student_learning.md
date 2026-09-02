@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reflection_on_student_learning
 title: Reflection on Student Learning
 description: The teacher systematically assesses and reflects on each student's comprehension and engagement using critical thinking questions, observation, and productive struggle to inform subsequent instruction.
 status: review

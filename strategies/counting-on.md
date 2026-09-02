@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: counting-on
 title: Counting On
 description: A mental arithmetic strategy in which learners start from a given number and count forward by the addend rather than counting both quantities from one.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: game-based-review
 title: Game Based Review
 description: Using game mechanics and game-like activities to review and consolidate previously taught content.
 status: review

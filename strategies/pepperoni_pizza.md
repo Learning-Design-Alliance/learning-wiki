@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: pepperoni_pizza
 title: Pepperoni Pizza
 description: A dice-based drawing game in which children represent multiplication as equal groups of objects and write the matching number sentence.
 status: review

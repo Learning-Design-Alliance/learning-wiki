@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: vocabulary-instruction
 title: Vocabulary Instruction
 description: Explicitly teaching target words and their meanings — with definitions, context, and repeated use — so students can understand and deploy new vocabulary in reading, writing, and discussion.
 status: review

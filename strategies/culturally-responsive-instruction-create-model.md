@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: culturally-responsive-instruction-create-model
 title: Culturally Responsive Instruction (CREATE Model)
 description: This strategy entails providing instruction that empowers students intellectually, socially, emotionally, and politically by using cultural referents to impart knowledge, skills, and attitudes.
 status: review

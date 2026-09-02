@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: part-task_practice
 title: Part-Task Practice
 description: Breaking a complex skill into component subskills, practicing each separately, then integrating them into the whole performance.
 status: review

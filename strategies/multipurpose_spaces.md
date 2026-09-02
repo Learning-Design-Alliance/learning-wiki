@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: multipurpose_spaces
 title: Multipurpose Spaces
 description: Designing physical learning environments that can be readily reconfigured to support multiple activities — presentation, discussion, collaboration, and independent work — rather than a single fixed arrangement.
 status: review

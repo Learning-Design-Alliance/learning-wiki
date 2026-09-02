@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: six_thinking_hats
 title: Six Thinking Hats
 description: "A parallel thinking process that separates thinking into six functions — each symbolized by a colored 'hat' — so groups can focus on one mode of thinking at a time and switch deliberately between them."
 status: review

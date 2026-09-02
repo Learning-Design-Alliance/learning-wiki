@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: goal-setting-with-students
 title: Goal Setting With Students
 description: Collaboratively setting specific, challenging, proximal learning goals with students to direct effort, sustain motivation, and support self-regulated learning.
 status: review

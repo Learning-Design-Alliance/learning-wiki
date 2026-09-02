@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: compound_word_study
 title: Compound Word Study
 description: Begin teaching how to spell multisyllable words by beginning with compounds.
 status: review

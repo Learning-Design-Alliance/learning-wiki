@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: field-journals
 title: Field Journals
 description: Learners record structured observations, questions, and reflections during authentic engagement with phenomena, sites, or experiences, then revisit and refine those records.
 status: review

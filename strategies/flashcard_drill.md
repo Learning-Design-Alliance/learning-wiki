@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: flashcard_drill
 title: Flashcard Drill
 description: Structured self-testing with card-based question–answer pairs, typically scheduled by spaced repetition, to build durable recall of discrete facts and associations.
 status: review

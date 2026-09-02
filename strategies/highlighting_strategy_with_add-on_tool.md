@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: highlighting_strategy_with_add-on_tool
 title: Highlighting Strategy with Add-on Tool
 description: Students use a Google Doc add-on tool to create individualized, color-coded highlighters over a shared text, then export highlights by category into a table for summarization.
 status: review

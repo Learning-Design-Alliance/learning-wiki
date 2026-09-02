@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: playing_with_techniques
 title: Playing With Techniques
 description: Provide low-pressure exercises for students to experiment with the writing techniques they have analyzed.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: concept_discovery_through_examples_and_non-examples
 title: Concept Discovery Through Examples and Non-examples
 description: Expose learners to a wide range of examples and non-examples and allow them to discover the concept through guided comparison and classification.
 status: review

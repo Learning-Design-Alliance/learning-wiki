@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: curriculum-based-measurement
 title: Curriculum Based Measurement
 description: Brief, frequent, standardized probes drawn from the year's curriculum used to monitor student progress and inform instructional decisions.
 status: review

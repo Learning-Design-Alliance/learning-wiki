@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: racial_equity_in_pbl_-_build_community_through_peer_feedback
 title: Racial Equity in PBL - Build Community Through Peer Feedback
 description: Frequent, structured peer feedback and revision cycles during projects build the relationships, belonging, and collective norms that make rigorous project-based learning equitable.
 status: review

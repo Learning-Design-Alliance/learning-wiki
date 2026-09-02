@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: connecting_ells_background_knowledge_to_content
 title: "Connecting ELLs' Background Knowledge to Content"
 description: "This strategy involves making instruction more culturally relevant by connecting content to ELLs' experiences."
 status: review

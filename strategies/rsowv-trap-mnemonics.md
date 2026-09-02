@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: rsowv-trap-mnemonics
 title: RSOWV/TRAP Mnemonics
 description: RSOWV (Relax, Slow down, Organize, Write, Visualize) and TRAP (Translate, Repeat, A Picture, Practice) are packaged mnemonic routines that structure encoding, rehearsal, and self-monitoring of to-be-learned material.
 status: review

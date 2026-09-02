@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: pre-reading-quizzes
 title: Pre Reading Quizzes
 description: Short quizzes administered before learners read a text, using retrieval attempts on not-yet-learned content to activate prior knowledge and prepare the mind for encoding.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: use_mastery_learning
 title: Use Mastery Learning
 description: Organize instruction so learners must demonstrate criterion-level mastery of each unit before advancing, with time varying and achievement held constant.
 status: review

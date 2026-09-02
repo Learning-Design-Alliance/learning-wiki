@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: rubric-feedback
 title: Rubric Feedback
 description: Providing learners with evaluative feedback structured around an explicit rubric that names criteria and quality levels, so feedback is criterion-referenced rather than impressionistic.
 status: review

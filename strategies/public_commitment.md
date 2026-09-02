@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: public_commitment
 title: Public Commitment
 description: Learners announce a specific goal or intended action to others, increasing follow-through through social accountability and self-consistency pressure.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: learning_goal_setting
 title: Learning Goal Setting
 description: Defining specific, challenging learning objectives before engaging in a learning experience so that attention, effort, and reflection are directed toward explicit targets.
 status: review

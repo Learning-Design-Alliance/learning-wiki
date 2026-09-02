@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: brainstorming
 title: Brainstorming
 description: A generative strategy in which learners produce many ideas in a short period, deferring evaluation to increase fluency and divergent thinking before converging on solutions.
 status: review

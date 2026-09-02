@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: formative-evaluation
 title: Formative Evaluation
 description: Gathering and acting on evidence of learner understanding during instruction, before summative judgment, to adapt teaching and learning in real time.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: field_trips
 title: Field Trips
 description: Field trips are educational excursions that take learners outside the classroom to engage with content in authentic, multisensory real-world environments.
 status: review

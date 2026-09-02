@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: pals_peer-assisted-learning-strategies
 title: PALS_Peer Assisted Learning Strategies
 description: A structured peer-tutoring approach in which dyads alternate roles as coach and reader/player, using scripted activities and point-earning routines to practice foundational skills.
 status: review

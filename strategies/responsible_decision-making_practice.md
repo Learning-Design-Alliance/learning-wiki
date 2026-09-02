@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: responsible_decision-making_practice
 title: Responsible Decision-Making Practice
 description: Learners work through realistic social-ethical scenarios in pairs or small groups, analyze situations, generate and weigh decisions, and reflect on consequences and reasoning.
 status: review

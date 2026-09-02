@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: role-reversal-20-flipping-the-teacher
 title: Role-Reversal 2.0 (Flipping the Teacher)
 description: Students create instructional videos demonstrating their understanding, taking the teacher's role as explainer and producer of content.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: strength-based_approach_to_responsible_decision-making
 title: Strength-Based Approach to Responsible Decision-Making
 description: Identifying and leveraging a student's existing strengths to build competence in responsible decision-making.
 status: review

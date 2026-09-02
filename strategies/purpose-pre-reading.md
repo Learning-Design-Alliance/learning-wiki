@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: purpose-pre-reading
 title: Purpose (Pre-Reading)
 description: Learners are given a specific purpose for reading, typically in the form of discussion questions about the content prepared by the teacher.
 status: review

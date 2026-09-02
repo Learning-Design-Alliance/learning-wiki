@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: pre-shadowing_preparation_activities
 title: Pre-Shadowing Preparation Activities
 description: Structured preparation — goal setting, student selection, stakeholder coordination, and assumption questioning — that makes a student shadowing experience focused, ethical, and open-minded.
 status: review

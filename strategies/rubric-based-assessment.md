@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: rubric-based-assessment
 title: Rubric Based Assessment
 description: Assessment structured around explicit scoring criteria that describe performance levels, shared with learners before they attempt the task.
 status: review

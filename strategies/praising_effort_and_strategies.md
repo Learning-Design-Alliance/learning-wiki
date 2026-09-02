@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: praising_effort_and_strategies
 title: Praising Effort and Strategies
 description: Praising effort and strategies focuses on acknowledging the process and hard work learners invest in their tasks, rather than praising innate intelligence.
 status: review

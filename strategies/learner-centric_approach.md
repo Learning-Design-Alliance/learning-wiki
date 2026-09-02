@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: learner-centric_approach
 title: Learner-Centric Approach
 description: A learning approach where the problem is presented as an open-ended one, so there are several ways to solve it, with each solution leading to a different set of outcomes.
 status: review

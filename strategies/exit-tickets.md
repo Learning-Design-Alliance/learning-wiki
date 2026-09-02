@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: exit-tickets
 title: Exit Tickets
 description: Short end-of-lesson prompts for self-assessment and reflection that also yield formative assessment data.
 status: review

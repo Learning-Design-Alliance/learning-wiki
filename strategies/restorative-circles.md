@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: restorative-circles
 title: Restorative Circles
 description: A structured dialogue format in which a community addresses harm, conflict, or misbehavior by giving every participant an equal voice to share perspectives, name impacts, and agree on repair.
 status: review

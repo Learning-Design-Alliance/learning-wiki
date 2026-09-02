@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: planned_physical_activity
 title: Planned Physical Activity
 description: Structured scheduling of physical activity into daily and weekly routines so learners meet activity requirements while balancing competing commitments.
 status: review

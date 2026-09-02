@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: guided_discovery_with_word_sorting
 title: Guided Discovery with Word Sorting
 description: Use guided discovery with word sorting and teacher questioning to help students understand spellings that depend on the position of a sound in a word or established conventions (like –ve).
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: decodable-texts
 title: Decodable Texts
 description: Texts deliberately restricted to grapheme–phoneme correspondences and high-frequency words that students have already been taught, so early readers can decode rather than guess.
 status: review

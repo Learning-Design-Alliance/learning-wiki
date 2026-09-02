@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: individual-rotation
 title: Individual Rotation
 description: A blended learning strategy in which each learner follows a personalized schedule or playlist rotating among modalities — online, small-group, and independent work — set by an algorithm or teacher plan.
 status: review

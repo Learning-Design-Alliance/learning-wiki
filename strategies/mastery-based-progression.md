@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mastery-based-progression
 title: Mastery Based Progression
 description: Learners advance to new content only after demonstrating a defined standard of proficiency on current content, with time varying and mastery held constant.
 status: review

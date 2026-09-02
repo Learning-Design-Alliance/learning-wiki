@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: storybook_emotion_analysis
 title: Storybook Emotion Analysis
 description: Using storybooks to explore and discuss the emotions of characters, building emotional recognition, empathy, and perspective-taking.
 status: review

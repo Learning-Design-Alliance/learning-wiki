@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reciprocal_teaching
 title: Reciprocal Teaching
 description: Learners take turns leading small-group discussions of a text using four strategies — predicting, questioning, clarifying, and summarizing — with the teacher modeling and gradually handing over the "teacher" role.
 status: review

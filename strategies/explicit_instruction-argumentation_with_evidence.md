@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: explicit_instruction-argumentation_with_evidence
 title: "Explicit Instruction: Argumentation with Evidence"
 description: Directly teaching learners how to construct arguments, support claims with evidence, evaluate sources, and address opposing viewpoints.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: essential-questions
 title: Essential Questions
 description: Open, generative questions that frame a unit or course, giving learners a purpose for inquiry and a conceptual throughline that connects individual lessons.
 status: review

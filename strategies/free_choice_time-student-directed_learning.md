@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: free_choice_time-student-directed_learning
 title: Free Choice Time Student Directed Learning
 description: Structured time in which learners select their own activities, materials, or topics, with the instructor acting as curator and facilitator rather than director.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: customizable_display_of_information
 title: Customizable Display of Information
 description: Providing adjustable settings and accessible formats to accommodate individual needs and preferences.
 status: review

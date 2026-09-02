@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: the_pencil_pledge
 title: The Pencil Pledge
 description: A classroom ritual in which students publicly commit to caring for shared materials and acting responsibly toward the learning environment.
 status: review

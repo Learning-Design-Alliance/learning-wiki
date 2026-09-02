@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: traffic-lights-self-assessment
 title: Traffic Lights Self-Assessment
 description: Students color-code their own confidence in a just-completed assignment (red/orange/green), and the resulting groups are used differently — the confident students evaluate each other's work in mixed groups while the teacher works directly with the unsure ones.
 status: draft

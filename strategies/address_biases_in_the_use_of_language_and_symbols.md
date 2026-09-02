@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: address_biases_in_the_use_of_language_and_symbols
 title: Address Biases in the Use of Language and Symbols
 description: Auditing and revising the language, examples, and symbols in learning materials and discourse so they are free from bias and stereotypes and respect diverse identities.
 status: review

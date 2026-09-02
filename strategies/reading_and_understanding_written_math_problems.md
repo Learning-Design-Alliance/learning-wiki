@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reading_and_understanding_written_math_problems
 title: Reading and Understanding Written Math Problems
 description: Explicit instruction in reading, representing, and translating math word problems so learners can extract quantities and relationships from text before computing.
 status: review

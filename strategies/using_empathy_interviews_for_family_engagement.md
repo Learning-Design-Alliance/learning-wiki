@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: using_empathy_interviews_for_family_engagement
 title: Using Empathy Interviews for Family Engagement
 description: Empathy interviews are short, one-on-one, open-ended conversations with families designed to surface their lived experiences, values, and concerns so that school decisions are grounded in authentic community voice.
 status: review

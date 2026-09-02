@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: jigsaw-classroom
 title: Jigsaw Classroom
 description: A cooperative learning structure in which each member of a small group masters a unique piece of material and teaches it to teammates, making every learner both teacher and learner.
 status: review

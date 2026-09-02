@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: feelings_check-in
 title: Feelings Check-In
 description: A brief structured activity at the start of a session in which learners identify and share their current emotional state, building self-awareness and giving the instructor a read on the room.
 status: review

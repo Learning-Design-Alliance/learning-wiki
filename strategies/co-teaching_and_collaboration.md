@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: co-teaching_and_collaboration
 title: Co-Teaching and Collaboration
 description: Content teachers and language specialists jointly plan and deliver lessons that integrate content objectives with explicit academic-language objectives.
 status: review

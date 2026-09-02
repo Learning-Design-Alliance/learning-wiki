@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: learning-communities
 title: Learning Communities
 description: Structuring learners into sustained, interdependent groups with shared goals, norms, and identity so that learning happens through mutual engagement rather than isolated study.
 status: review

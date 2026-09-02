@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: gallery-walk
 title: Gallery Walk
 description: Learners rotate in small groups through stations or posted work around a room, responding to prompts, solving tasks, or critiquing peers' products.
 status: review

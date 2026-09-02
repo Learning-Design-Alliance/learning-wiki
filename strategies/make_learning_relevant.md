@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: make_learning_relevant
 title: Make Learning Relevant
 description: "Teachers can boost student engagement and knowledge retention by connecting learning to students' interests, talents, learning styles, and sense of ownership in the education process."
 status: review

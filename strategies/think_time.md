@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: think_time
 title: Think Time
 description: Deliberately extending the pause after questions, prompts, or reading demands so learners have adequate time to process before responding.
 status: review

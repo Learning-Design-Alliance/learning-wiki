@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: frequent-low-stakes-quizzes
 title: Frequent, Low-Stakes Quizzes
 description: Administering frequent quizzes with minimal impact on grades to reinforce learning and identify gaps in understanding.
 status: review

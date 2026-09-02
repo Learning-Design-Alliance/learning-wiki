@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: progress_monitoring
 title: Progress Monitoring
 description: Progress monitoring is the repeated, systematic measurement of learner performance on target skills over time, used to judge responsiveness to instruction and to adjust teaching accordingly.
 status: review

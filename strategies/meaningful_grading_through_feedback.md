@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: meaningful_grading_through_feedback
 title: Meaningful Grading Through Feedback
 description: Grades should represent multiple opportunities for students to demonstrate learning based on descriptive, concrete, and actionable feedback.
 status: review

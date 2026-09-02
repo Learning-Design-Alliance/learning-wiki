@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: sel_discussions_on_ethical_dilemmas
 title: SEL Discussions on Ethical Dilemmas
 description: This strategy involves using age-appropriate, real-life ethical dilemmas as discussion starters to help students practice responsible decision-making.
 status: review

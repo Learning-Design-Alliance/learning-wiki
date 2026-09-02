@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: text-to-speech-technology
 title: Text To Speech Technology
 description: Text-to-speech (TTS) technology converts written text into synthesized spoken audio, allowing learners to listen to text rather than — or alongside — reading it.
 status: review

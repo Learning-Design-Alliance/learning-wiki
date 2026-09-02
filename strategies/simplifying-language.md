@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: simplifying-language
 title: Simplifying Language
 description: Rewriting instructional text and speech into shorter sentences, plainer vocabulary, and clearer structure to reduce linguistic processing demands.
 status: review

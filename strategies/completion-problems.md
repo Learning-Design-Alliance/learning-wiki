@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: completion-problems
 title: Completion Problems
 description: Learners are given a partially solved problem and must complete the remaining steps, bridging worked examples and independent problem solving.
 status: review

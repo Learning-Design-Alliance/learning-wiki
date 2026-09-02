@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: classroom-physical-activity-breaks
 title: Classroom Physical Activity Breaks
 description: Short (1–5 minute) movement-based activities integrated into class time to energize learners, calm the group, or redirect attention.
 status: review

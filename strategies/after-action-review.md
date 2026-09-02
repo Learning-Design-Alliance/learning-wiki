@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: after-action-review
 title: After Action Review
 description: A structured debrief in which learners compare intended versus actual outcomes of a performance and extract lessons before the next attempt.
 status: review

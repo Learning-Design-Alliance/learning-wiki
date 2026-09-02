@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: childrens_literature_for_math_instruction
 title: "Children's Literature for Math Instruction"
 description: "Children's literature for math instruction is a strategy in which stories, picture books, or narrative texts are used to introduce mathematical ideas, contexts, or discussion."
 status: review

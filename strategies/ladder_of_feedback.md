@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: ladder_of_feedback
 title: Ladder of Feedback
 description: A structured peer-feedback protocol from Project Zero that sequences feedback into clarifying questions, values, concerns, and suggestions, so critique is constructive, specific, and actionable.
 status: review

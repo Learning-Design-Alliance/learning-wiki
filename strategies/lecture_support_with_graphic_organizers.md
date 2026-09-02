@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: lecture_support_with_graphic_organizers
 title: Lecture Support with Graphic Organizers
 description: Instructors present lecture content using graphic organizers rather than standard PowerPoints or outlines, visualizing how concepts are related to each other.
 status: review

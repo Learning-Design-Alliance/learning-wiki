@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: discussion-oriented_flipped_classroom
 title: Discussion-Oriented Flipped Classroom
 description: First exposure to content happens through pre-class video (and other media) study; class time is devoted to facilitated discussion, debate, and collaborative analysis rather than lecture.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: document-outline-tool
 title: "\"Document Outline\" Tool"
 description: "Students use the \"Document outline\" tool in Google Docs to extract evidence supporting the main ideas they've found in a text."
 status: review

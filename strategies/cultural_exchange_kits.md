@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: cultural_exchange_kits
 title: Cultural Exchange Kits
 description: "Students curate and present a personal collection of artifacts that represent their culture, then exchange and discuss kits to build intercultural understanding."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: inquiry-based-learning
 title: Inquiry Based Learning
 description: Learners investigate questions, problems, or phenomena — generating questions, gathering evidence, and forming explanations — rather than receiving conclusions directly.
 status: review

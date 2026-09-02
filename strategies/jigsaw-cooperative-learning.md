@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: jigsaw-cooperative-learning
 title: Jigsaw Cooperative Learning
 description: An interdependent group structure in which each member masters a unique piece of material and teaches it to peers, making every learner both student and teacher.
 status: review

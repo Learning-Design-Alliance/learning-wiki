@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: conditioning-natural-reinforcers
 title: Conditioning Natural Reinforcers
 description: Conditioning a natural reinforcer is the deliberate practice of using extrinsic reinforcers to get a behavior started, then fading them so control transfers to the natural, intrinsic consequences the behavior itself produces.
 status: draft

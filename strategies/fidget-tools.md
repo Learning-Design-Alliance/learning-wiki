@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: fidget-tools
 title: Fidget Tools
 description: Small manipulable objects (stress balls, fidget spinners, putty, foot bands) provided to learners to channel excess motor activity and support attention during seated tasks.
 status: review

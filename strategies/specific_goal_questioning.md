@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: specific_goal_questioning
 title: Specific Goal Questioning
 description: Design questions with a specific goal in mind, such as identifying grabbers or understanding essay structure.
 status: review

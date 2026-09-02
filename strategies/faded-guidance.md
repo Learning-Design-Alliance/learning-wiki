@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: faded-guidance
 title: Faded Guidance
 description: Progressively withdraw instructional support — moving from full worked examples to completion problems to independent problem solving — as learner expertise develops.
 status: review

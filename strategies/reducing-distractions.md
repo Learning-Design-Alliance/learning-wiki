@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reducing-distractions
 title: Reducing Distractions
 description: Minimizing extraneous stimuli, interruptions, and competing demands on attention so learners can allocate working memory to the material to be learned.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: spaced_repetition
 title: Spaced Repetition
 description: Distributing review of material across multiple sessions separated by increasing time intervals, rather than massing it into one session.
 status: review

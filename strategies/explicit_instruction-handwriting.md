@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: explicit_instruction-handwriting
 title: "Explicit Instruction: Handwriting"
 description: Direct teaching approach to handwriting that breaks letter formation, size, and spacing into modeled, sequenced components with multisensory practice.
 status: review

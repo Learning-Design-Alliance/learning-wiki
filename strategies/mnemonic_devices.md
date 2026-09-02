@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mnemonic_devices
 title: Mnemonic Devices
 description: Mnemonic devices are memory aids that use patterns, rhymes, acronyms, imagery, or structured associations to help learners recall information.
 status: review

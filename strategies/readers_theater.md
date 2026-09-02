@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: readers_theater
 title: "Reader's Theater"
 description: "Reader's Theater combines reading practice and performance by having learners read scripts adapted from books or stories aloud, without costumes, props, or memorization."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: 5-minute_writing_conferences
 title: 5-Minute Writing Conferences
 description: Brief, structured one-on-one conferences in which students lead with a self-assessment and the teacher delivers targeted, rubric-anchored feedback on one strength and one growth area.
 status: review

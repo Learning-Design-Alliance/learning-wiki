@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: shared_reading
 title: Shared Reading
 description: An interactive read-aloud in which an adult models fluent reading while learners follow the text, participate in prediction and discussion, and gradually take over parts of the reading.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: body_scan_meditation_check-in
 title: Body Scan Meditation Check-In
 description: Students participate in a guided body scan meditation to bring calmness and awareness into the classroom.
 status: review

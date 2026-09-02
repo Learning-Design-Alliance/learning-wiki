@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: website_evaluation_checklist
 title: Website Evaluation Checklist
 description: Learners examine websites using a structured checklist to assess corroboration, source reliability, currency, documentation, advocacy, and conflicts of interest.
 status: review

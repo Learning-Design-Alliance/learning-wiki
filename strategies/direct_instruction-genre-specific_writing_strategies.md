@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: direct_instruction-genre-specific_writing_strategies
 title: Direct Instruction: Genre-specific Writing Strategies
 description: Explicitly teaching the characteristics, conventions, and strategies of a specific writing genre so students can read and write within it deliberately.
 status: review

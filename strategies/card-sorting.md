@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: card-sorting
 title: Card Sorting
 description: Learners sort a set of cards — each bearing a concept, example, or statement — into categories, either following given criteria or generating their own, to surface and consolidate conceptual structure.
 status: review

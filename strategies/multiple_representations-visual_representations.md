@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: multiple_representations-visual_representations
 title: Multiple Representations Visual Representations
 description: Presenting content in two or more coordinated formats (e.g., verbal and visual) so learners can build richer, better-connected mental models.
 status: review

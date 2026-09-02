@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: prediction-observation-explanation
 title: Prediction Observation Explanation
 description: Learners commit to a prediction about an event, observe the actual outcome, then reconcile any discrepancy between the two.
 status: review

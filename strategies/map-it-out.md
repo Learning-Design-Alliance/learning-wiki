@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: map-it-out
 title: "Map It Out!"
 description: Before a trip, children map the route, calculate mileage, estimate travel time, and track progress along the way.
 status: review

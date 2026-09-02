@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: estimation-activities
 title: Estimation Activities
 description: Learners generate a reasoned estimate of a quantity, answer, or outcome before computing, measuring, or being told the exact value.
 status: review

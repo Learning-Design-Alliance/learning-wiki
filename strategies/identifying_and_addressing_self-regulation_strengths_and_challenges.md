@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: identifying_and_addressing_self-regulation_strengths_and_challenges
 title: Identifying and Addressing Self-Regulation Strengths and Challenges
 description: "Educators identify each student's self-regulation strengths and challenges, then select strategies that leverage strengths to build emotional and behavioral control."
 status: review

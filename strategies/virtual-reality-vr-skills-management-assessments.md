@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: virtual-reality-vr-skills-management-assessments
 title: Virtual Reality (VR) Skills Management Assessments
 description: Immersive VR simulations are used to place employees in high-pressure customer scenarios (e.g., Black Friday crowds, angry shoppers) so their responses can be observed, scored, and used for development and promotion decisions.
 status: review

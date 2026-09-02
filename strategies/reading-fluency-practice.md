@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reading-fluency-practice
 title: Reading Fluency Practice
 description: Structured repeated and timed practice reading connected text aloud to build accuracy, rate, and prosody, freeing cognitive resources for comprehension.
 status: review

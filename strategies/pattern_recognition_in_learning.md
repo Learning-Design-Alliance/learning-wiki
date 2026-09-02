@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: pattern_recognition_in_learning
 title: Pattern Recognition in Learning
 description: Pattern recognition is the cognitive process of identifying recurring structures, relationships, or sequences in material, and a strategy of designing instruction so learners actively detect and abstract those regularities.
 status: review

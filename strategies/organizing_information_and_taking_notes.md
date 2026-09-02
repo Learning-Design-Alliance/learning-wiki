@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: organizing_information_and_taking_notes
 title: Organizing Information and Taking Notes
 description: Learners structure and record information using graphic organizers, sorting tasks, and structured note-taking systems to improve comprehension and retention.
 status: review

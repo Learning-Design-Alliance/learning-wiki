@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: improve_indoor_air_quality
 title: Improve Indoor Air Quality
 description: Improving ventilation and reducing indoor pollutants in learning spaces to protect health, reduce absenteeism, and support cognitive performance.
 status: review

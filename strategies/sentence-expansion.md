@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: sentence-expansion
 title: Sentence Expansion
 description: Learners elaborate a short base sentence into richer, more complex sentences using targeted prompts (who, what, when, where, why, how), building syntactic control and content knowledge simultaneously.
 status: review

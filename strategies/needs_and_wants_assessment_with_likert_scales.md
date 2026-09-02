@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: needs_and_wants_assessment_with_likert_scales
 title: Needs and Wants Assessment with Likert Scales
 description: Using Likert scales and fill-in questions to gauge student interest and understanding allows educators to inform their planning based on student needs.
 status: review

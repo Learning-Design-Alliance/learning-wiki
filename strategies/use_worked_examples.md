@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: use_worked_examples
 title: Use Worked Examples
 description: The instructor presents a fully solved problem — showing each step and explaining the reasoning behind it — and then asks learners to solve a similar problem independently or in pairs.
 status: review

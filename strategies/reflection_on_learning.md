@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reflection_on_learning
 title: Reflection On Learning
 description: Structured prompts and activities that direct learners' attention to what they learned, how they learned it, and how it connects to prior knowledge and future application.
 status: review

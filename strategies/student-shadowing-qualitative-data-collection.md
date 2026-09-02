@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: student-shadowing-qualitative-data-collection
 title: Student Shadowing (Qualitative Data Collection)
 description: A school leader spends a full school day shadowing an individual student to gather qualitative data about their lived experience of school.
 status: review

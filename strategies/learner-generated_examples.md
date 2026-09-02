@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: learner-generated_examples
 title: Learner-Generated Examples
 description: Provide opportunities for learners to generate their own examples of a concept.
 status: review

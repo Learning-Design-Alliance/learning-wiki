@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: using_technology
 title: Using Technology
 description: Integrating digital tools and media into instruction in ways that support — rather than distract from — evidence-based learning processes.
 status: review

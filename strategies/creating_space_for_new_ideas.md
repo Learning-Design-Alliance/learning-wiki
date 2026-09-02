@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: creating_space_for_new_ideas
 title: Creating Space for New Ideas
 description: Schools provide structured opportunities, resources, and psychological safety for teachers to try new approaches, take risks, and learn from failure.
 status: review

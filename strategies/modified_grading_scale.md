@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: modified_grading_scale
 title: Modified Grading Scale
 description: Replacing the 0–100 percentage scale with a compressed scale (e.g., 0–4) so that a single missed or failed assignment cannot mathematically destroy a course grade.
 status: review

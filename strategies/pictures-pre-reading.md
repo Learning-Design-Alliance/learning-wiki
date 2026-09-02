@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: pictures-pre-reading
 title: Pictures (Pre-Reading)
 description: The instructor selects three or four pictures related to the reading topic and provides them to small groups of learners, who connect them and predict the reading's content before reading.
 status: review

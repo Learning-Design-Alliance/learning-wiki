@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reflect_on_learning
 title: Reflect on Learning
 description: Structured reflection on what was learned and how — individually or collaboratively — consolidates content into long-term memory and builds metacognitive awareness of one's own learning processes.
 status: review

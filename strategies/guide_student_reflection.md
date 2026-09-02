@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: guide_student_reflection
 title: Guide Student Reflection
 description: Structured strategies — discussions, prompts, journals, and logs — that direct learners' attention to their own thinking, strategies, and problem-solving processes.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: math_centers
 title: Math Centers
 description: Math centers involve setting up various stations in the classroom where learners can practice and apply mathematical concepts through activities like games, manipulatives, and tablets.
 status: review

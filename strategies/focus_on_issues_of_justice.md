@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: focus_on_issues_of_justice
 title: Focus on Issues of Justice
 description: Authentic projects that engage students in investigating and acting on issues of justice that matter to them, their communities, and the wider world.
 status: review

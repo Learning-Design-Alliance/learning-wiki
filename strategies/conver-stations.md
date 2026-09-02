@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: conver-stations
 title: Conver-Stations
 description: A small-group discussion strategy in which learners rotate between evolving groups, carrying ideas with them to broaden exposure to peers' perspectives.
 status: review

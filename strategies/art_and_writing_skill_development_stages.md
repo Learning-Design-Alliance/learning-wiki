@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: art_and_writing_skill_development_stages
 title: Art and Writing Skill Development Stages
 description: Drawing and writing skills in young children develop through distinct stages, progressing from random scribbling to letter and word practice.
 status: review

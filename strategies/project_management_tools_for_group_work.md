@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: project_management_tools_for_group_work
 title: Project Management Tools for Group Work
 description: Using shared digital project management tools to structure, monitor, and communicate about collaborative student work.
 status: review

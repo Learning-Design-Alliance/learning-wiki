@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: performance-support-job-aids
 title: Performance Support Job Aids
 description: Job aids provide just-in-time procedural guidance at the moment of task performance, shifting the instructional burden from memorization to external reference.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: feedback_sandwich
 title: Feedback Sandwich
 description: "The feedback sandwich technique involves delivering feedback in three parts: compliment, correct, compliment."
 status: review

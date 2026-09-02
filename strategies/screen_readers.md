@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: screen_readers
 title: Screen Readers
 description: Screen readers convert on-screen text into synthesized speech or braille output, giving learners auditory (or tactile) access to written material.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: promoting_self-determination_and_self-advocacy_in_students_with_disabilities
 title: Promoting Self-Determination and Self-Advocacy in Students with Disabilities
 description: Fostering self-determination and self-advocacy involves empowering students with disabilities to understand their needs, rights, and goals, and to actively participate in decisions about their education and lives.
 status: review

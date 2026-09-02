@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: address_digital_literacy
 title: Address Digital Literacy
 description: Explicitly teach foundational digital skills and terminology rather than assuming learners already possess them.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: promoting_a_growth_mindset
 title: Promoting a Growth Mindset
 description: Promoting a growth mindset encourages learners to believe that ability is malleable, and shapes feedback, task framing, and classroom norms so that effort and strategy are treated as the path to improvement.
 status: review

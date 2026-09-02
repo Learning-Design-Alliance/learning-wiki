@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: use_quotations_to_cite_textual_evidence
 title: Use Quotations to Cite Textual Evidence
 description: Teaching students to select, embed, and explain direct quotes from texts so their claims are supported by evidence.
 status: review

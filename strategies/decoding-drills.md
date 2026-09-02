@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: decoding-drills
 title: Decoding Drills
 description: Short, repeated, timed practice exercises in which learners apply letter–sound correspondences and blending routines to read words accurately and automatically.
 status: review

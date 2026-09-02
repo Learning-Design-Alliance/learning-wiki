@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: start-with-yourself-identity-mapping
 title: Start with Yourself (Identity Mapping)
 description: Educators reflect on their own intersectional identities and how those identities shape their perceptions, biases, and relationships with students before attempting empathy- or equity-oriented work.
 status: review

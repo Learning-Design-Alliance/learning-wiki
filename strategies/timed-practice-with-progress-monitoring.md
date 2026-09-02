@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: timed-practice-with-progress-monitoring
 title: Timed Practice With Progress Monitoring
 description: Repeated short timed practice sessions on a target skill, with performance rates tracked over time so learners and instructors can see fluency growth and adjust goals.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: cumulative-review-quizzes
 title: Cumulative Review Quizzes
 description: Low-stakes quizzes that interleave items from current and all prior units, exploiting retrieval practice and distributed spacing to build durable retention.
 status: review

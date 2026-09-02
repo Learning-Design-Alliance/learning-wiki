@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: applied_science_testing
 title: Applied Science Testing
 description: Learners use scientific procedures to evaluate real-world consumer materials and products, connecting classroom science to everyday decision-making.
 status: review

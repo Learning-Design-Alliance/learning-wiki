@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: interest-based_negotiation
 title: Interest Based Negotiation
 description: A collaborative conflict-resolution strategy in which parties identify underlying interests rather than arguing fixed positions, then jointly generate options that satisfy those interests.
 status: review

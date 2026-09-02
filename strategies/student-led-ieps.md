@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: student-led-ieps
 title: Student Led IEPs
 description: Students with disabilities actively lead their Individualized Education Program (IEP) meetings — presenting goals, reporting progress, and advocating for accommodations — rather than passively attending them.
 status: review

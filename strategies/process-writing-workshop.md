@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: process-writing-workshop
 title: Process Writing Workshop
 description: A structured instructional format in which students move through recursive phases of planning, drafting, revising, and editing with peer collaboration and teacher conferencing, treating writing as a process rather than a single-shot product.
 status: review

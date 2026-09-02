@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: individual_deliberate_practice
 title: Individual Deliberate Practice
 description: Deliberate practice is a structured approach to skill development that focuses on intentional, effective, and consistent effort to improve performance.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: productive-failure
 title: Productive Failure
 description: Learners attempt to solve challenging problems before receiving canonical instruction, so that initial failure activates prior knowledge and makes subsequent instruction more meaningful.
 status: review

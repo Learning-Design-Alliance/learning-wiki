@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: multiple_examples
 title: Multiple Examples
 description: Presenting several varied examples of a technique or concept so learners can abstract its underlying structure and apply it in their own work.
 status: review

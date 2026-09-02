@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: have-explicit-conversations-about-emotions-and-social-issues-including-issues-of-social-justice
 title: "Have Explicit Conversations About Emotions and Social Issues, Including Issues of Social Justice"
 description: Making emotions and contested social realities a named, planned subject of classroom talk rather than something handled implicitly or avoided until an incident forces it.
 status: review

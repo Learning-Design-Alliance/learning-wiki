@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: breathing_exercises
 title: Breathing Exercises
 description: Brief structured breathing practices used to settle attention and emotion before or during learning tasks.
 status: review

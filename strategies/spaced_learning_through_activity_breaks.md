@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: spaced_learning_through_activity_breaks
 title: Spaced Learning Through Activity Breaks
 description: "Breaking up learning or work into short chunks of time interspersed with activity breaks leverages the 'spacing effect,' a well-replicated phenomenon in psychology."
 status: review

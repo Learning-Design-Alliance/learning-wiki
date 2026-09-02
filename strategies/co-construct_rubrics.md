@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: co-construct_rubrics
 title: Co-Construct Rubrics
 description: Learners and instructor jointly develop the evaluation criteria and performance-level descriptions used to assess a task, before the task is completed.
 status: review

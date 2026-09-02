@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: electricity_and_circuit_tasks
 title: Electricity and Circuit Tasks
 description: Electricity and circuit tasks involve investigating how electricity flows in simple circuits using tools like electric testers and puzzle boards.
 status: review

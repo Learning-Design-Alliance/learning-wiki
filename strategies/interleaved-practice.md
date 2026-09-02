@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: interleaved-practice
 title: Interleaved Practice
 description: Arranging practice so that different problem types or skills are mixed within a session rather than blocked, forcing learners to discriminate which strategy applies.
 status: review

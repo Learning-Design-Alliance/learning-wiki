@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: model_drawing_strategy
 title: Model Drawing Strategy
 description: Teaching fraction and percentage word problems by explicitly instructing learners to draw schematic diagrams that represent the relations in the problem before formulating a solution.
 status: review

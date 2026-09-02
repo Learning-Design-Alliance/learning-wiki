@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: contextual_vocabulary_introduction
 title: Contextual Vocabulary Introduction
 description: Introducing vocabulary words within the context of a story or reading passage so learners derive meaning from surrounding text rather than from isolated definitions.
 status: review

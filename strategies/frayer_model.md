@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: frayer_model
 title: Frayer Model
 description: A four-quadrant graphic organizer in which learners define a concept, describe its characteristics, generate examples, and generate non-examples.
 status: review

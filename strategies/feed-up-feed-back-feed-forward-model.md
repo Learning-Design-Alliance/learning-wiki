@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: feed-up-feed-back-feed-forward-model
 title: Feed Up, Feed Back, Feed Forward Model
 description: A structured approach to feedback organized around three questions — where am I going, how am I going, and where to next.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: rubric-co-construction
 title: Rubric Co Construction
 description: Learners and instructor collaboratively develop the evaluation criteria and performance-level descriptions used to assess their work.
 status: review

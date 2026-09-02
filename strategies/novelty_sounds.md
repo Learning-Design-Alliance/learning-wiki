@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: novelty_sounds
 title: Novelty Sounds
 description: Using novel sounds such as wind chimes or rain sticks captures young students' attention.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: prepare_the_ground
 title: Prepare the Ground
 description: Deliberately building relational trust, shared norms, and baseline knowledge before facilitating discussions of race and other socially charged topics.
 status: review

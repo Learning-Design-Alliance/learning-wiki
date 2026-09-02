@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: literacy-centers
 title: Literacy Centers
 description: Designated classroom areas where students work independently or collaboratively on meaningful literacy tasks while the teacher delivers targeted small-group instruction.
 status: review

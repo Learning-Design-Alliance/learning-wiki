@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: predicting
 title: Predicting
 description: Predicting involves anticipating what will happen next in a text or problem, engaging interest and surfacing prior knowledge before instruction.
 status: review

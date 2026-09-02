@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: low-stakes-testing
 title: Low Stakes Testing
 description: Frequent, low-consequence quizzes that leverage retrieval practice to strengthen memory and provide feedback, without the anxiety and pressure of high-stakes assessment.
 status: review

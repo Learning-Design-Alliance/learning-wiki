@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: multiple_modalities_for_perceiving_information
 title: Multiple Modalities for Perceiving Information
 description: Sharing information through various modalities beyond text and images, such as audio, video, simulations, or interactive models.
 status: review

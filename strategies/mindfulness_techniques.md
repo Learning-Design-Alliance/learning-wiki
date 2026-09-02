@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mindfulness_techniques
 title: Mindfulness Techniques
 description: Brief, structured practices — focused breathing, body scans, and attention monitoring — that train learners to regulate attention and emotion in support of learning.
 status: review

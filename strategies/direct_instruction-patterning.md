@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: direct_instruction-patterning
 title: Direct Instruction Patterning
 description: Sequencing and structuring instructional examples, rules, and practice so that learners induce the intended generalization with minimal error and maximal clarity.
 status: review

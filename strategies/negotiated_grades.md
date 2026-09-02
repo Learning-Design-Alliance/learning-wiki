@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: negotiated_grades
 title: Negotiated Grades
 description: Grades are negotiated between students and teachers according to agreed-upon learning goals and evidence of learning, converting assessment from a unilateral judgment into a dialogue.
 status: review

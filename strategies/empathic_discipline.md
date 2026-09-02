@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: empathic_discipline
 title: Empathic Discipline
 description: A discipline approach that frames misbehavior as an opportunity to understand the student's perspective and maintain the relationship, rather than to punish.
 status: review

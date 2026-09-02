@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: secret_student
 title: Secret Student
 description: "A classroom management system where a student's name is secretly selected each day, and the teacher observes whether the \"Secret Student\" exhibits good listening and learning behaviors."
 status: review

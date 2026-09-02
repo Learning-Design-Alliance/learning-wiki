@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: revision-and-resubmission
 title: Revision And Resubmission
 description: Learners act on feedback to improve and resubmit their work, treating the first attempt as a draft rather than a final judgment.
 status: review

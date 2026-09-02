@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: counting-based-arithmetic-strategies
 title: Counting Based Arithmetic Strategies
 description: Learners solve arithmetic problems by counting procedures — counting all, counting on, or counting up/down — rather than retrieving facts from memory.
 status: review

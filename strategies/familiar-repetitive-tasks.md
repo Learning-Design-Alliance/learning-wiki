@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: familiar-repetitive-tasks
 title: Familiar, Repetitive Tasks
 description: Providing learners with familiar, quiet, repetitive fine motor and visual tasks at the start of the day or during transitions to promote calmness and focus.
 status: review

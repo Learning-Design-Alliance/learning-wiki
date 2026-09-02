@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: social-norms-marketing
 title: Social Norms Marketing
 description: Correcting learners' misperceptions of peer behavior by publicizing accurate normative data, so that perceived social pressure shifts toward healthier or more productive behavior.
 status: review

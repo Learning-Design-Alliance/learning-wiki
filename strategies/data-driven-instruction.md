@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: data-driven-instruction
 title: Data Driven Instruction
 description: Using ongoing evidence of student learning to select, adjust, and differentiate instruction rather than relying on pacing guides or intuition.
 status: review

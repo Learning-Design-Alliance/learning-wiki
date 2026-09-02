@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: systematic-phonics-instruction
 title: Systematic Phonics Instruction
 description: Teaching letter–sound correspondences in a planned, sequential order with explicit instruction and practice, rather than incidentally or as needed.
 status: review

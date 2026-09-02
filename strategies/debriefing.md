@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: debriefing
 title: Debriefing
 description: A structured reflective conversation after an experience (simulation, case, discussion, or task) that converts doing into durable learning.
 status: review

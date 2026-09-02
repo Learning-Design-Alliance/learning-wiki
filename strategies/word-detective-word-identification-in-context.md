@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: word-detective-word-identification-in-context
 title: Word Detective (Word Identification In Context)
 description: Learners search for and identify target vocabulary words within varied authentic contexts such as song lyrics, sentences, and familiar texts.
 status: review

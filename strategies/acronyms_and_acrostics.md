@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: acronyms_and_acrostics
 title: Acronyms and Acrostics
 description: Verbal mnemonic devices that condense a list of items into a single memorable word (acronym) or sentence (acrostic) to serve as a retrieval cue.
 status: review

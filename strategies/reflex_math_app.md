@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reflex_math_app
 title: Reflex Math App
 description: An adaptive, game-based app (ExploreLearning) that builds math fact fluency through individualized practice, timed retrieval, and progress monitoring for students in grades 2–8.
 status: review

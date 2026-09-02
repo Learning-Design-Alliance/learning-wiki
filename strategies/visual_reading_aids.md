@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: visual_reading_aids
 title: Visual Reading Aids
 description: Physical or digital tools — reading guides, colored overlays, tracking rulers, and finger/pointer tracking — that reduce visual stress and support place-keeping and line tracking during reading.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: hot_seat
 title: Hot Seat
 description: One learner assumes the role of a book character, historical figure, or concept and answers classmates' questions in character while seated before the group.
 status: review

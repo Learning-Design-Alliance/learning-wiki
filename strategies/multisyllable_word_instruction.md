@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: multisyllable_word_instruction
 title: Multisyllable Word Instruction
 description: Multisyllable word instruction teaches learners to break words into syllables using the six syllable types, affixes, and schwa patterns to improve decoding and spelling.
 status: review

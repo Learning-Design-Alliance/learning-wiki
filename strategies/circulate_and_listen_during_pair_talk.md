@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: circulate_and_listen_during_pair_talk
 title: Circulate and Listen During Pair Talk
 description: Actively circulating and listening to pair discussions allows teachers to monitor engagement, reinforce expectations, offer support, and gauge the success of the thinking process.
 status: review

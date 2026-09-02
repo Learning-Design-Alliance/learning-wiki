@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: say_it_once
 title: Say it Once
 description: Deliver instructions a single time, then route follow-up questions to peers before the instructor, to build active listening and learner independence.
 status: review

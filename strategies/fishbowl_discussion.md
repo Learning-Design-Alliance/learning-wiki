@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: fishbowl_discussion
 title: Fishbowl Discussion
 description: A structured discussion format in which a small inner group converses while an outer group observes, with roles rotating so all students practice both contributing and listening.
 status: review

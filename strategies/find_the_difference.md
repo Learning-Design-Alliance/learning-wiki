@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: find_the_difference
 title: Find the Difference
 description: "Learners compare two dot cards and subtract to find how many more dots are on the greater card, building subtraction fluency through concrete visual comparison."
 status: review

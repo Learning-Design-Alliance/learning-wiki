@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: formative-self-assessment
 title: Formative Self Assessment
 description: Learners evaluate their own developing work against explicit criteria to monitor progress and guide revision, before any high-stakes evaluation.
 status: review

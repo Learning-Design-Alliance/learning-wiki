@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: debate_for_the_opposite_team
 title: Debate for the Opposite Team
 description: Learners are assigned to argue a position that is opposite to their own, requiring them to see things from a different perspective.
 status: review

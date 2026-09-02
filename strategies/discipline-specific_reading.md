@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: discipline-specific_reading
 title: Discipline-Specific Reading
 description: Have students read authentic articles from subject-specific publications so they internalize the genres, vocabulary, and reasoning conventions of the discipline.
 status: review

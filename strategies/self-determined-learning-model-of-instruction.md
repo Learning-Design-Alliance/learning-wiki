@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-determined-learning-model-of-instruction
 title: Self-Determined Learning Model of Instruction
 description: A coaching model in which students set, act on, and evaluate their own learning goals through a three-phase, twelve-step teacher-facilitated process.
 status: review

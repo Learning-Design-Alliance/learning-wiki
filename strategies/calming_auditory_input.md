@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: calming_auditory_input
 title: Calming Auditory Input
 description: Using calming auditory input involves managing and altering sounds in the environment to reduce overstimulation and promote relaxation.
 status: review

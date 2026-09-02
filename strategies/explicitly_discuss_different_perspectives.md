@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: explicitly_discuss_different_perspectives
 title: Explicitly Discuss Different Perspectives
 description: Engage learners in structured discussions that surface, compare, and evaluate diverse viewpoints — cultural, disciplinary, and stakeholder — to deepen understanding and build empathy.
 status: review

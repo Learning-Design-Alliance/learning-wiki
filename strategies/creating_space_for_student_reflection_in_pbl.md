@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: creating_space_for_student_reflection_in_pbl
 title: Creating Space for Student Reflection in PBL
 description: Integrating deliberate pauses for students to examine their thinking, feelings, and project progress, converting experience into durable learning.
 status: review

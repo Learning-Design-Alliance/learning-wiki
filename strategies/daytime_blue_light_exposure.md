@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: daytime_blue_light_exposure
 title: Daytime Blue Light Exposure
 description: Exposure to blue-enriched light (sunlight, full-spectrum LEDs, blue-enriched white lamps) during the day increases alertness and supports cognitive performance by entraining the circadian system, particularly for adolescents with delayed sleep-wake cycles.
 status: review

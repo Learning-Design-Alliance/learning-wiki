@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: contract_grading
 title: Contract Grading
 description: An assessment arrangement in which instructor and learner agree in advance on the work, quality criteria, and grade attached to specified levels of completed work.
 status: review

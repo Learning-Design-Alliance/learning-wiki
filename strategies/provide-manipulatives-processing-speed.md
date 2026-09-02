@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: provide-manipulatives-processing-speed
 title: Provide Manipulatives (Processing Speed)
 description: Providing physical or virtual manipulatives to make abstract concepts concrete and reduce the processing demands placed on learners.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: belonging-interventions
 title: Belonging Interventions
 description: Brief, targeted activities that strengthen students' sense of social belonging in an educational setting, buffering against doubt and improving persistence and performance.
 status: review

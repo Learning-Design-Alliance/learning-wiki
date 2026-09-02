@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: optimizing_classroom_space
 title: Optimizing Classroom Space
 description: Deliberately arranging physical space — density, seating configuration, and layout flexibility — to support attention, engagement, and the intended mode of learning.
 status: review

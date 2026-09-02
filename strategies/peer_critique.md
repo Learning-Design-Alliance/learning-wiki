@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: peer_critique
 title: Peer Critique
 description: Learners exchange structured, criteria-based feedback on each other's work to deepen understanding of quality standards and improve revision.
 status: review

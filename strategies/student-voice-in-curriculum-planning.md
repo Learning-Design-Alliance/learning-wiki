@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: student-voice-in-curriculum-planning
 title: Student Voice In Curriculum Planning
 description: Involving learners directly in decisions about what and how the curriculum covers — from topic selection and pacing to assessment design — rather than treating them as passive recipients of a fixed plan.
 status: review

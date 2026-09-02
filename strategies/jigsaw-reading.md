@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: jigsaw-reading
 title: Jigsaw Reading
 description: Learners each read a distinct segment of a text, then teach it to peers in expert groups before returning to home groups to assemble the full picture.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: project-based-learning-pbl-in-math
 title: Project-Based Learning (PBL) in Math
 description: Learners develop mathematical knowledge and skills by working over an extended period on an authentic, complex problem that culminates in a public product.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: peer-teaching
 title: Peer Teaching
 description: Learners take instructional responsibility for one another — explaining, questioning, and tutoring peers — which deepens the tutor's understanding while supporting the tutee's learning.
 status: review

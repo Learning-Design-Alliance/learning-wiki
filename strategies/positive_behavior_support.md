@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: positive_behavior_support
 title: Positive Behavior Support
 description: A schoolwide, function-based approach to preventing problem behavior by teaching and reinforcing expected behaviors rather than punishing unwanted ones.
 status: review

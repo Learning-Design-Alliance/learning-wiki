@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: home_language_reading_demonstrations
 title: Home Language Reading Demonstrations
 description: When new students come to the classroom, ask them to read books in their home language to show you what they know about reading.
 status: review

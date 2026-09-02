@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: facilitating_learning
 title: Facilitating Learning
 description: The teacher shifts from delivering instruction to designing and guiding student-driven activity, reducing the power differential and increasing learner ownership.
 status: review

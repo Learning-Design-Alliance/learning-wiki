@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: active-monitoring
 title: Active Monitoring
 description: Learners deliberately check their own comprehension, progress, and strategy effectiveness during learning, and adjust based on what they find.
 status: review

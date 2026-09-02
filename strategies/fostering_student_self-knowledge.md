@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: fostering_student_self-knowledge
 title: Fostering Student Self-Knowledge
 description: Implementing measures that help students understand themselves as learners — their strengths, needs, and effective strategies — so they can self-advocate and regulate their own learning.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mindfulness-practice
 title: Mindfulness Practice
 description: Brief, structured attention-training exercises (breath focus, body scans, mindful observation) integrated into instruction to improve attention regulation, self-regulation, and stress management.
 status: review

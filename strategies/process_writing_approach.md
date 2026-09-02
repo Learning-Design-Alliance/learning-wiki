@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: process_writing_approach
 title: Process Writing Approach
 description: An extended-cycle approach to writing instruction that treats composing as a recursive process of planning, drafting, revising, and editing, supported by high writing volume, instructor modeling, mini-lessons, and feedback.
 status: review

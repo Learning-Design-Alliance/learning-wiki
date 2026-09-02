@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mindfulness_practices
 title: Mindfulness Practices
 description: Incorporating mindfulness practices such as breathing exercises, meditation, and yoga into the learning environment to calm the nervous system and promote self-regulation.
 status: review

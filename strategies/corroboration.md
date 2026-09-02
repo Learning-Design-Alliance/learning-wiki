@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: corroboration
 title: Corroboration
 description: Learners verify a claim by checking it against multiple independent sources before accepting or sharing it.
 status: review

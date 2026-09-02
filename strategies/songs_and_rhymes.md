@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: songs_and_rhymes
 title: Songs and Rhymes
 description: Setting information to melody, rhythm, or rhyme to leverage prosodic structure as a retrieval scaffold for verbal recall.
 status: review

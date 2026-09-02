@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: optimizing_natural_lighting
 title: Optimizing Natural Lighting
 description: Incorporating natural lighting in classrooms boosts morale, reduces off-task behavior, and improves test scores.
 status: review

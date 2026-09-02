@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: natural_lighting
 title: Natural Lighting
 description: Designing learning spaces to maximize daylight exposure, which improves attention, mood, and achievement while reducing off-task behavior.
 status: review

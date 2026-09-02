@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: speak-the-future-design-the-future-changing-the-discourse
 title: Speak the Future, Design the Future (Changing the Discourse)
 description: A design strategy that treats language as a lever for equity — critiquing deficit-oriented "Discourse I" language and deliberately replacing it with transformative "Discourse II" language during school design work.
 status: review

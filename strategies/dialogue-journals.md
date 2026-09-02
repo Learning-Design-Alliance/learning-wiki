@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: dialogue-journals
 title: Dialogue Journals
 description: An ongoing written exchange between learner and teacher in which both write regularly and respond to each other, creating a sustained, personalized conversation over time.
 status: review

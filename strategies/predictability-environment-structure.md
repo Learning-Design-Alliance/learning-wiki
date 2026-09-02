@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: predictability-environment-structure
 title: "Predictability: Environment & Structure"
 description: Creating consistent interfaces, routines, and repetitive structural frameworks in learning environments so learners can direct cognitive resources to content rather than navigation and interpretation.
 status: review

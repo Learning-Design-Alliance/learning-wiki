@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: involving_students_in_classroom_redesign
 title: Involving Students in Classroom Redesign
 description: Involving learners in designing and transforming their physical learning environment to better meet their needs, preferences, and sense of ownership.
 status: review

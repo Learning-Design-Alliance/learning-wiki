@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: kids_react
 title: Kids React
 description: Students react emotionally to a curated set of online images (e.g., "school lunch" search results), chart their responses, and surface the assumptions and biases driving those reactions.
 status: review

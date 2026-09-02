@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: ten-frame-activities
 title: Ten Frame Activities
 description: Structured activities using a 2×5 grid to build learners' subitizing, number sense, and early arithmetic reasoning through visual quantity representation.
 status: review

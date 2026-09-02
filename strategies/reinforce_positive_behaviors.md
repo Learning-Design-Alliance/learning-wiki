@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reinforce_positive_behaviors
 title: Reinforce Positive Behaviors
 description: Recognizing and positively reinforcing desired actions when they are observed, using contingent praise and rewards to strengthen those behaviors.
 status: review

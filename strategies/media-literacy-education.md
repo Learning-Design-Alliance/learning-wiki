@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: media-literacy-education
 title: Media Literacy Education
 description: Teaching learners to access, analyze, evaluate, and create media messages, with emphasis on evaluating the credibility of online information sources.
 status: review

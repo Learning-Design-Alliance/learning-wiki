@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: strength-based_strategies_for_self-awareness
 title: Strength-Based Strategies for Self-Awareness
 description: Educators identify and support students by recognizing their strengths related to self-awareness and using these strengths to address challenges.
 status: review

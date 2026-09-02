@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: creating_quiet_spaces
 title: Creating Quiet Spaces
 description: Designating areas in the learning environment where learners can retreat for individual reflection, focused work, or relaxation.
 status: review

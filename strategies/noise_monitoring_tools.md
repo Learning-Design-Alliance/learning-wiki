@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: noise_monitoring_tools
 title: Noise Monitoring Tools
 description: Technological aids that visually or audibly signal when classroom noise exceeds an acceptable threshold, supporting self-regulation of the acoustic environment.
 status: review

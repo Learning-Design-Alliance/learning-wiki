@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: instructor-presence-in-discussions
 title: Instructor Presence In Discussions
 description: The instructor actively participates in learner discussions — facilitating, probing, and modeling discourse — rather than merely observing them.
 status: review

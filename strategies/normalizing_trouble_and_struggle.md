@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: normalizing_trouble_and_struggle
 title: Normalizing Trouble and Struggle
 description: Creating a classroom culture where challenges, errors, and productive struggle are treated as expected and valuable parts of learning rather than signs of inadequacy.
 status: review

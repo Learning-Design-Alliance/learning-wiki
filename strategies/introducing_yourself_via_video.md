@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: introducing_yourself_via_video
 title: Introducing Yourself Via Video
 description: Providing a personal video introduction at the start of the course allows students to see you as a human being, mitigating the anonymity of text-based conversation and encouraging human connection.
 status: review

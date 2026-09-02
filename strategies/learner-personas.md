@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: learner-personas
 title: Learner Personas
 description: Learner personas are evidence-based composite profiles of representative learners used to ground design decisions in real audience characteristics.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mastery-based-retesting
 title: Mastery Based Retesting
 description: Learners must demonstrate a defined performance standard on an assessment, then receive instruction and retest opportunities until they reach it — grades reflect final mastery, not first-attempt speed.
 status: review

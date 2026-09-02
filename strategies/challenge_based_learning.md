@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: challenge_based_learning
 title: Challenge Based Learning
 description: Challenge Based Learning (CBL) provides an efficient and effective framework for learning while solving real-world challenges.
 status: review

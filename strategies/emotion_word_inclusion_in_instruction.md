@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: emotion_word_inclusion_in_instruction
 title: Emotion Word Inclusion in Instruction
 description: Educators deliberately name emotions in their own speech — labeling their own feelings, the learner's feelings, and characters' feelings — to build learners' emotional vocabulary and model healthy emotional communication.
 status: review

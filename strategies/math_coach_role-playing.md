@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: math_coach_role-playing
 title: Math Coach Role-Playing
 description: "Organize students into small groups where they take turns acting as \"math coaches.\" One student reads a word problem aloud, and the other students (the math coaches) advise the reader on which mathematical operation to use in solving the…"
 status: review

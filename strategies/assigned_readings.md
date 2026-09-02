@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: assigned_readings
 title: Assigned Readings
 description: Assigning texts for learners to study before class or instruction, so contact time can build on rather than deliver foundational content.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: low-stakes-quizzing
 title: Low Stakes Quizzing
 description: Frequent, low-consequence retrieval tests used during instruction to strengthen memory and provide formative feedback, rather than to certify achievement.
 status: review

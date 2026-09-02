@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: respectful_redirection
 title: Respectful Redirection
 description: Respectful redirection is a quick, in-the-moment strategy to give corrective feedback to students using a calm tone, neutral body language, and clear, concise wording.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: hyperlinked_teaching
 title: Hyperlinked Teaching
 description: Hyperlinked teaching embeds direct avenues for further inquiry into learning materials, letting students choose what to explore more deeply and connect ideas across multiple sources.
 status: review

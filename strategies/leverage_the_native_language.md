@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: leverage_the_native_language
 title: Leverage the Native Language
 description: Integrate students' native languages into project work as assets for research, collaboration, and product creation rather than treating them as barriers.
 status: review

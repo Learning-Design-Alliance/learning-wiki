@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: anchored-instruction
 title: Anchored Instruction
 description: Learning situated around a rich, realistic problem scenario ("anchor") that learners explore to identify and solve embedded problems.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reciprocal-peer-feedback
 title: Reciprocal Peer Feedback
 description: Learners exchange structured feedback on each other's work, acting alternately as reviewer and reviewee.
 status: review

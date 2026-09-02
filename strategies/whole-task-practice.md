@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: whole-task-practice
 title: Whole Task Practice
 description: Learners practice complete, authentic versions of the target task from the start, rather than isolated subskills practiced separately before being combined.
 status: review

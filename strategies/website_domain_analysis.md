@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: website_domain_analysis
 title: Website Domain Analysis
 description: Learners are taught the differences between .com, .gov, .org, and .edu domains to assess the reliability of websites.
 status: review

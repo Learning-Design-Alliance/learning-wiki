@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: ideal-problem-solving-model
 title: IDEAL Problem-Solving Model
 description: IDEAL is a five-stage, teachable problem-solving system — Identify, Define, Explore, Act, Look — usable across curriculum areas, that makes each stage of solving a problem an explicit, checkable step rather than an implicit leap to a solution.
 status: draft

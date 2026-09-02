@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: pinwheel_discussion
 title: Pinwheel Discussion
 description: A structured discussion format in which four groups prepare distinct perspectives, speakers debate in a central square while teammates coach from behind, and roles rotate so all learners eventually speak.
 status: review

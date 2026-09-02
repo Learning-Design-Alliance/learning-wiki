@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: response-to-intervention
 title: Response To Intervention
 description: A multi-tier prevention framework that screens all learners, delivers escalating levels of targeted instruction, and uses continuous progress monitoring to decide when intensity should increase.
 status: review

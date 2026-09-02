@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: creating_a_strengths-based_culture
 title: Creating a Strengths-Based Culture
 description: A method for empowering learners by focusing on their strengths rather than their weaknesses, creating authentic learning experiences that enable them to develop skills and talents.
 status: review

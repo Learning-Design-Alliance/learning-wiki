@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: bookmatch-scaffolding_independent_book_selection
 title: "BOOKMATCH: Scaffolding Independent Book Selection"
 description: A metacognitive framework of eight criteria that scaffolds students' selection of just-right books for independent reading.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: logic_puzzles
 title: Logic Puzzles
 description: Logic puzzles are structured rule-based challenges (e.g., Sudoku, knights-and-knaves, grid deduction problems) used to exercise deductive reasoning, spatial reasoning, and problem-solving persistence.
 status: review

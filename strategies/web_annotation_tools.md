@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: web_annotation_tools
 title: Web Annotation Tools
 description: Learners use free web-based tools to annotate online documents, including slideshows, blog posts, or PDFs.
 status: review

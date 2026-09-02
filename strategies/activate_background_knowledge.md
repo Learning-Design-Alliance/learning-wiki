@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: activate_background_knowledge
 title: Activate Background Knowledge
 description: Before introducing new content, prompt learners to retrieve and reflect on what they already know through questions, discussion, or quick activities.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: making_and_confirming_predictions
 title: Making and confirming predictions
 description: Learners form explicit anticipations about upcoming content in a text, lecture, or audio material, then verify, revise, or reject those predictions as they engage with the material.
 status: review

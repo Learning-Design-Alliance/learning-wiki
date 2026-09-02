@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: writing_workshop
 title: Writing Workshop
 description: A structured instructional format in which students write for sustained periods, receive explicit mini-lessons, and engage in peer conferencing and teacher conferences within a predictable workshop routine.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: descriptive_feature_chart
 title: Descriptive Feature Chart
 description: A graphic organizer with horizontal and vertical axes used to build a structured descriptive model of an organism or object from direct observation.
 status: review

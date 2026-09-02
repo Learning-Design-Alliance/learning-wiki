@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: instructor_as_facilitator
 title: Instructor as Facilitator
 description: Reducing the power differential between instructor and students by acting as a facilitator rather than a transmitter, so that learners take greater ownership of content, discussion, and direction.
 status: review

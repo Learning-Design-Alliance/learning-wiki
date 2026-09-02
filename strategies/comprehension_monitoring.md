@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: comprehension_monitoring
 title: Comprehension Monitoring
 description: This strategy involves the ability of readers to know when they understand what they read and to use strategies to improve their understanding when it is blocked.
 status: review

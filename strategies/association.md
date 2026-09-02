@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: association
 title: Association
 description: Association is a mnemonic device that links new information to something already known to make it easier to remember.
 status: review

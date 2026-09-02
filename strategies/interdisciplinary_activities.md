@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: interdisciplinary_activities
 title: Interdisciplinary Activities
 description: Interdisciplinary activities present issues, themes, and problems that require skills and knowledge from more than one subject to address or answer.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: restorative-practices
 title: Restorative Practices
 description: A whole-community approach that builds relationships and repairs harm through facilitated dialogue rather than exclusionary punishment.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: story-mapping
 title: Story Mapping
 description: Learners construct a visual map of a narrative's key story grammar elements — characters, setting, problem, events, and resolution — to improve comprehension and recall.
 status: review

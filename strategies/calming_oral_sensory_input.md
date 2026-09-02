@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: calming_oral_sensory_input
 title: Calming Oral Sensory Input
 description: Employing oral sensory input as a calming strategy involves engaging the mouth to provide sensory experiences that promote self-regulation.
 status: review

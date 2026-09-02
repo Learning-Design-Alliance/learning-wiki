@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: learning-by-teaching
 title: Learning By Teaching
 description: Learners prepare and deliver instruction to peers or tutees, deepening their own understanding through the generative demands of explaining.
 status: review

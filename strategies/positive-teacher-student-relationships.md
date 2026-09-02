@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: positive-teacher-student-relationships
 title: Positive Teacher Student Relationships
 description: Building warm, trusting teacher–student relationships characterized by mutual respect, emotional support, and high expectations to improve engagement, behavior, and achievement.
 status: review

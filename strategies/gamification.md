@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: gamification
 title: Gamification
 description: Gamification is the integration of game elements like point systems, leaderboards, badges, or other elements related to games into "conventional" learning activities in order to increase engagement and motivation.
 status: review

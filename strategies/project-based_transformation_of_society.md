@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: project-based_transformation_of_society
 title: Project-Based Transformation of Society
 description: Students work in small groups to identify crucial societal problems and propose, justify, and enforce laws addressing them, experiencing the difficulty of democratic compromise firsthand.
 status: review

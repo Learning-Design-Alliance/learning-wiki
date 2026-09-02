@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: prepare_for_parental_reactions
 title: Prepare for Parental Reactions
 description: Anticipating and proactively addressing parent and guardian concerns before teaching controversial or emotionally charged content, so that difficult discussions can proceed with institutional backing.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: sel_questioning
 title: SEL Questioning
 description: Teachers use short, structured social-emotional learning (SEL) questions — focused on kindness, metaphors, challenges, and support — to grow students' emotional intelligence through individual reflection and class discussion.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: tactile-toys-fidgets
 title: Tactile Toys / Fidgets
 description: Tactile toys and fidgets are self-regulation tools that provide movement and tactile input to support attention, focus, and sensory processing.
 status: review

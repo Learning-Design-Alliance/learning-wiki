@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: creating_questions
 title: Creating Questions
 description: Learners generate their own questions about what they are hearing, at structured pauses during listening, to promote active comprehension and metacognitive monitoring.
 status: review

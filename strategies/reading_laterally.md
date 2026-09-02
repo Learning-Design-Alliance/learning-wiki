@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reading_laterally
 title: Reading Laterally
 description: Reading Laterally is the practice of verifying information by consulting multiple external sources to evaluate the credibility of a source before engaging deeply with it.
 status: review

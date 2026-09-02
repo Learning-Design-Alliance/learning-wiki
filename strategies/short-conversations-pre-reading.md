@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: short-conversations-pre-reading
 title: Short Conversations (Pre-Reading)
 description: Learners discuss a single sentence from an upcoming reading in pairs, constrained to a maximum of three words per speaking turn.
 status: review

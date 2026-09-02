@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: token-economy
 title: Token Economy
 description: A token economy awards tangible or symbolic tokens for target behaviors, which learners later exchange for backup reinforcers.
 status: review

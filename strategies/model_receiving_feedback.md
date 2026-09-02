@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: model_receiving_feedback
 title: Model Receiving Feedback
 description: The instructor demonstrates — aloud and visibly — how to interpret, respond to, and act on feedback, treating feedback reception as a learnable skill rather than an assumed one.
 status: review

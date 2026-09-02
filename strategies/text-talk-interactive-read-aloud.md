@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: text-talk-interactive-read-aloud
 title: Text Talk Interactive Read Aloud
 description: A read-aloud protocol in which teachers intersperse open, meaning-focused questions during and after reading to build comprehension and vocabulary from rich texts.
 status: review

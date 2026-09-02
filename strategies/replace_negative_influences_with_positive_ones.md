@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: replace_negative_influences_with_positive_ones
 title: Replace Negative Influences with Positive Ones
 description: A self-management strategy in which learners identify sources of negativity in their social and informational environment and deliberately substitute them with supportive people, models, and content.
 status: review

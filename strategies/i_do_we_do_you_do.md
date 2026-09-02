@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: i_do_we_do_you_do
 title: I Do, We Do, You Do
 description: A gradual release of responsibility sequence in which the instructor models a task, learners attempt it with support, and then perform it independently.
 status: review

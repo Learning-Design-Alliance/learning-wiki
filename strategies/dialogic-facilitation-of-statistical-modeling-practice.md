@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: dialogic-facilitation-of-statistical-modeling-practice
 title: Dialogic Facilitation of Statistical Modeling Practice
 description: A set of specialized teacher discourse moves, organized around four foundational aspects of statistical modeling (mapping situations to models, simulating long-run processes, evaluating model fit, and making model-based inferences), that cultivate statistical modeling as a coordinated classroom practice rather than a sequence of isolated procedures.
 status: draft

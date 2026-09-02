@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: assessing_and_differentiating_language_skills_in_pbl
 title: Assessing and Differentiating Language Skills in PBL
 description: Assessing and differentiating language skills in project-based learning (PBL) involves evaluating not only content knowledge but also language proficiency.
 status: review

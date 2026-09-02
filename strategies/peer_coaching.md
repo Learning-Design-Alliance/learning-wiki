@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: peer_coaching
 title: Peer Coaching
 description: "Peer coaching is a reciprocal helping relationship between equals who support each other's learning through mutual trust, observation, feedback, and open discussion."
 status: review

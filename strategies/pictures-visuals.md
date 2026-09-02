@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: pictures-visuals
 title: "Pictures & Visuals"
 description: The purposeful use of images, diagrams, videos, and other visual representations to support comprehension, attention, and memory.
 status: review

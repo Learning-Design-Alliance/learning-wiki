@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: implicit_instruction-vocabulary
 title: Implicit Instruction Vocabulary
 description: Embedding target vocabulary in meaningful contexts—reading, listening, discussion—so learners acquire word meanings incidentally through repeated exposure rather than direct definition teaching.
 status: review

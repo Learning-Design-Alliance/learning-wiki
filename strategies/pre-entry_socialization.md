@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: pre-entry_socialization
 title: Pre-Entry Socialization
 description: Brief, positive, nonconfrontational interactions at the classroom doorway before entry, used to set a productive tone and prevent disruptions.
 status: review

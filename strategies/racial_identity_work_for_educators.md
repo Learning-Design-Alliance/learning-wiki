@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: racial_identity_work_for_educators
 title: Racial Identity Work for Educators
 description: A sustained professional learning strategy in which educators examine their own racial identity, privilege, and biases as a prerequisite for equitable teaching.
 status: review

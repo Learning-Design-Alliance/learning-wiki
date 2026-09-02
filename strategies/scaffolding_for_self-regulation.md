@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: scaffolding_for_self-regulation
 title: Scaffolding for Self-Regulation
 description: Temporary, structured support that helps learners manage their emotional, motivational, and behavioral responses, gradually withdrawn as independent self-regulation develops.
 status: review

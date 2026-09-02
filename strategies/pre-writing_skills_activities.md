@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: pre-writing_skills_activities
 title: Pre-Writing Skills Activities
 description: Activities that build the foundational motor, perceptual, and organizational skills — line awareness, spatial awareness, pencil grasp, and hand strength — required before formal handwriting instruction.
 status: review

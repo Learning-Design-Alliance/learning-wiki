@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: cramming
 title: Cramming
 description: Massing study into a single session immediately before an assessment, relying on short-term familiarity rather than durable retention.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: barometer-taking_a_stand_on_controversial_issues
 title: Barometer — Taking a Stand on Controversial Issues
 description: Learners physically position themselves along a spectrum to represent and defend their stance on a controversial issue, then reconsider after hearing peers' reasoning.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: know_your_own_perspectives
 title: Know Your Own Perspectives
 description: Reflect deeply on your own attitudes and beliefs and how they may impact your opinions and actions.
 status: review

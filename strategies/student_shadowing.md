@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: student_shadowing
 title: Student Shadowing
 description: An adult (educator, administrator, or school leader) follows a student throughout their school day to observe their experiences, interactions, and environment firsthand.
 status: review

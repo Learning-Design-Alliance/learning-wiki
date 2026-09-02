@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: observations_and_conversations
 title: Observations and Conversations
 description: Monitoring student learning through structured observation and purposeful questioning to gauge understanding and inform instruction in real time.
 status: review

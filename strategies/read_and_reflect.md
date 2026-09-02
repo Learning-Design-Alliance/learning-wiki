@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: read_and_reflect
 title: Read and Reflect
 description: Students read independently, then consolidate understanding through structured reflection, discussion, or summarization activities.
 status: review

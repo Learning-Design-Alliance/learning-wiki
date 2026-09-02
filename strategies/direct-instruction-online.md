@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: direct-instruction-online
 title: Direct Instruction (Online)
 description: Direct instruction in online learning delivers pre-developed, explicitly structured presentations and targeted feedback, with the instructor diagnosing misconceptions, clarifying concepts, and directing learners to further practice.
 status: review

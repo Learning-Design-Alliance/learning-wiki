@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: checklists-rubrics
 title: "Checklists & Rubrics"
 description: Checklists and rubrics provide explicit criteria that learners use to evaluate, monitor, and improve their own and peers' work.
 status: review

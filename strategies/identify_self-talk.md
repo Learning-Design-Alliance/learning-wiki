@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: identify_self-talk
 title: Identify Self-Talk
 description: Have students record messages from their inner voice over a week in a journal or notebook to build awareness of their internal dialogue.
 status: review

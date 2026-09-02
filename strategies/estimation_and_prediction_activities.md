@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: estimation_and_prediction_activities
 title: Estimation and Prediction Activities
 description: Learners commit to explicit estimates or predictions about their performance, task difficulty, or outcomes before working, then compare predictions against results to build self-awareness and calibration.
 status: review

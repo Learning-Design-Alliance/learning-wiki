@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: dolch_sight_word_list_-_flash_cards
 title: Dolch Sight Word List - Flash Cards
 description: Sets of printable flash cards for Dolch sight words, organized by grade level, used for rapid recognition practice of high-frequency words.
 status: review

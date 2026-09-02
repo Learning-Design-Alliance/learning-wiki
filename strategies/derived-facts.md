@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: derived-facts
 title: Derived Facts
 description: Learners generate unknown facts from facts they already know, using reasoning strategies rather than rote recall.
 status: review

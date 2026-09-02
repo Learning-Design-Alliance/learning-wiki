@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: family_engagement-supporting_children_with_disabilities
 title: Family Engagement Supporting Children With Disabilities
 description: Families of children with disabilities act as partners in intervention — extending instruction, reinforcing goals, and informing design at home and across settings.
 status: review

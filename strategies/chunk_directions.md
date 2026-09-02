@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: chunk_directions
 title: Chunk Directions
 description: Breaking multi-step directions and instructions into short, sequential units so working memory is not overloaded and learners can sustain engagement through a task.
 status: review

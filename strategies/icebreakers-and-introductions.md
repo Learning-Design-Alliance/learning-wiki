@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: icebreakers-and-introductions
 title: Icebreakers And Introductions
 description: Short structured activities at the start of a course or session that help learners and instructors learn names, surface commonalities, and establish social norms for interaction.
 status: review

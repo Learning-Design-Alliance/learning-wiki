@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: character_scrapbooking
 title: Character Scrapbooking
 description: "Students select four key events from a novel and create scrapbook entries representing a character's inner thoughts, feelings, and experiences during each event."
 status: review

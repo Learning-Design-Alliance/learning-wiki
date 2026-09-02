@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: headings_and_highlight_strategy
 title: Headings and Highlight Strategy
 description: A collaborative reading routine in which students highlight unknown words and key ideas, then negotiate four-word headings for text sections to force distillation of main ideas.
 status: review

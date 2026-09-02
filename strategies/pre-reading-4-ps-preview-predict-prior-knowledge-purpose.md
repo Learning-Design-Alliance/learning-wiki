@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: pre-reading-4-ps-preview-predict-prior-knowledge-purpose
 title: "Pre-reading: 4 Ps (Preview, Predict, Prior Knowledge, Purpose)"
 description: The 4 Ps of pre-reading include previewing the text, predicting the content, activating prior knowledge, and defining the purpose for reading.
 status: review

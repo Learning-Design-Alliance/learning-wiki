@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: connecting_emotions_to_actions
 title: Connecting Emotions to Actions
 description: Learners reflect on how emotions influence their actions, then discuss and plan alternative behaviors.
 status: review

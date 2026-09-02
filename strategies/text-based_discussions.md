@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: text-based_discussions
 title: Text-Based Discussions
 description: Structured discussions in which learners talk about a shared text, using evidence from the text itself to support their interpretations and responses.
 status: review

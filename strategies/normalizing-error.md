@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: normalizing-error
 title: Normalizing Error
 description: Deliberately framing errors as expected, informative, and safe so learners engage with mistakes rather than avoiding them.
 status: review

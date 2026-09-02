@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: setting_achievable_micro-goals
 title: Setting Achievable Micro-Goals
 description: Breaking larger learning objectives into small, immediately achievable steps so that repeated success builds momentum, self-efficacy, and sustained engagement.
 status: review

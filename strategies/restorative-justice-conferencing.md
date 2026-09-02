@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: restorative-justice-conferencing
 title: Restorative Justice Conferencing
 description: A facilitated face-to-face meeting among those affected by harm — offender, victim, and community members — to acknowledge harm, take responsibility, and agree on repair.
 status: review

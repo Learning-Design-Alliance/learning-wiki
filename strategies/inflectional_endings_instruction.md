@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: inflectional_endings_instruction
 title: Inflectional Endings Instruction
 description: Inflectional endings instruction focuses on teaching the rules for adding suffixes (e.g., -ed, -s, -es, -ing, -er, -est) to base words.
 status: review

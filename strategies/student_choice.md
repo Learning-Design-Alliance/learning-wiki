@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: student_choice
 title: Student Choice
 description: Allowing learners to make meaningful decisions about their learning — what to work on, how to approach it, or how to demonstrate mastery — to build autonomy, motivation, and self-direction.
 status: review

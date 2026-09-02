@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: equitable_calling_on_students
 title: Equitable Calling on Students
 description: Ensure all learners get response opportunities, not just high achievers.
 status: review

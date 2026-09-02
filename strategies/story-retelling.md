@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: story-retelling
 title: Story Retelling
 description: Learners reconstruct a narrative they have read or heard in their own words, demonstrating comprehension of sequence, characters, and causal structure.
 status: review

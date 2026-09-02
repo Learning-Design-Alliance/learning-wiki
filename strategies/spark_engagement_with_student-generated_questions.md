@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: spark_engagement_with_student-generated_questions
 title: Spark Engagement with Student-Generated Questions
 description: Students formulate questions and investigate topics they are curious about or consider important.
 status: review

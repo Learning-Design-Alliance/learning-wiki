@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: student_blogging
 title: Student Blogging
 description: Students regularly publish written posts to an authentic audience, often with peer commenting, to support reflection, writing development, and learner autonomy.
 status: review

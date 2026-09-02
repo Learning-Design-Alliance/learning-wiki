@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: moose_math_app
 title: Moose Math App
 description: A game-based early-mathematics app in which cartoon "Dust Funnies" characters guide children through progressive levels of counting, arithmetic, geometry, and sorting problems.
 status: review

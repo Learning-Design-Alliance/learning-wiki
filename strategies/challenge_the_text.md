@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: challenge_the_text
 title: Challenge the Text
 description: Challenge the Text is a strategy that encourages students to critically examine texts by asking and answering their own text-dependent questions.
 status: review

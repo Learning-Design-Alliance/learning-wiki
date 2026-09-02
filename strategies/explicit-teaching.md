@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: explicit-teaching
 title: Explicit Teaching
 description: The teacher clearly shows students what to do and how to do it, making learning intentions and success criteria transparent, modelling the target performance, checking for understanding, and consolidating at the close of each lesson.
 status: review

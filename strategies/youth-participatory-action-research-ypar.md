@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: youth-participatory-action-research-ypar
 title: Youth Participatory Action Research (YPAR)
 description: Youth Participatory Action Research (YPAR) is an approach where young people collaborate with adults to conduct research and implement actions to address issues in their communities.
 status: review

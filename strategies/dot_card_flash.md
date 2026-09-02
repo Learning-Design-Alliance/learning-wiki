@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: dot_card_flash
 title: Dot Card Flash
 description: One learner flashes a dot card to another for about 3 seconds, then hides it; the second learner recreates the arrangement from memory.
 status: review

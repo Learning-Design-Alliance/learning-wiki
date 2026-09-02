@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: clarify-vocabulary-symbols-and-language-structures
 title: Clarify Vocabulary, Symbols, and Language Structures
 description: Constructing meaning from words, symbols, and numbers using different representations ensures that learners understand the language of the content.
 status: review

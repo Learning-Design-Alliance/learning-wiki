@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: warning_and_consequence
 title: Warning and Consequence
 description: A classroom management technique in which the teacher states a clear behavioral expectation, warns that a specific consequence will follow if it is not met, and then consistently applies the stated consequence.
 status: review

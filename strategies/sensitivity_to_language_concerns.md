@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: sensitivity_to_language_concerns
 title: Sensitivity to Language Concerns
 description: Celebrating linguistic diversity and tailoring instructional materials and discourse to multilingual learners so that language proficiency does not become a barrier to content learning.
 status: review

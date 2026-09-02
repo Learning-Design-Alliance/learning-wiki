@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-regulated-strategy-development
 title: Self Regulated Strategy Development
 description: SRSD is a structured instructional approach in which learners are explicitly taught academic strategies alongside the self-regulation skills—goal setting, self-monitoring, self-instruction, and self-reinforcement—needed to deploy them independently.
 status: review

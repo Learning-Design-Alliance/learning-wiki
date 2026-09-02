@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: structured_questioning_for_pair_talk
 title: Structured Questioning for Pair Talk
 description: Using structured questions with clear goals and timeframes provides focus and scaffolding for pair talk activities.
 status: review

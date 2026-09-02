@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: address_literacy_demands
 title: Address Literacy Demands
 description: Recognize that students may not share the ability to automatically read, interpret, and reply to textual information at the same level as educators, and design instruction accordingly.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: explicit_and_systematic_writing_instruction
 title: Explicit and Systematic Writing Instruction
 description: Explicit and systematic teaching of the strategies, skills, and knowledge needed to be a proficient writer, combining modeled strategy instruction with extended practice.
 status: review

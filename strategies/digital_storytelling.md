@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: digital_storytelling
 title: Digital Storytelling
 description: Digital stories are multimedia narratives that combine photographs, video, animation, sound, music, text, and a narrative voice to help learners construct and communicate knowledge.
 status: review

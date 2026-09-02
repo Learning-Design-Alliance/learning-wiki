@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: guided-play
 title: Guided Play
 description: A pedagogical approach that combines child-directed free play with intentional learning goals through light adult scaffolding.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: planned-ignoring
 title: Planned Ignoring
 description: Deliberately withholding attention from minor, non-disruptive-to-others problem behaviors so they extinguish while appropriate behaviors are reinforced.
 status: review

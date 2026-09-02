@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: anglo-saxon_phoneme-grapheme_mapping
 title: Anglo-Saxon Phoneme-Grapheme Mapping
 description: Spelling by explicit phoneme-grapheme mapping requires the learner to match the letters/letter combinations in a word to the speech sounds they represent using a grid; each box of the grid represents a phoneme.
 status: review

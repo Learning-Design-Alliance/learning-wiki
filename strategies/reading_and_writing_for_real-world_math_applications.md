@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reading_and_writing_for_real-world_math_applications
 title: Reading and Writing for Real-World Math Applications
 description: Learners select and summarize published articles that highlight the ways math is present in different facets of the real world.
 status: review

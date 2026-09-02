@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: learning-journals
 title: Learning Journals
 description: Learners regularly record, reflect on, and analyze their own learning experiences in an ongoing written (or multimedia) log.
 status: review

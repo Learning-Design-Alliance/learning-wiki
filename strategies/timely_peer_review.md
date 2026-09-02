@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: timely_peer_review
 title: Timely Peer Review
 description: Conducting peer reviews at multiple points in the writing process — before the due date, on the due date, and after grading — so feedback drives revision rather than ending the conversation.
 status: review

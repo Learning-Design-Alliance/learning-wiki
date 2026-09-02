@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: building_a_community_on_student_voice
 title: Building a Community on Student Voice
 description: Building a community on student voice involves creating structured opportunities for students to share and discuss their thoughts, ensuring they feel safe to do so.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: memory-game-matching
 title: Memory Game (Matching)
 description: A memory game where learners match pairs of word cards to reinforce vocabulary and memory skills.
 status: review

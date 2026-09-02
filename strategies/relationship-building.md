@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: relationship-building
 title: Relationship Building
 description: Deliberate cultivation of trust, rapport, and mutual knowledge between instructor and learners (and among learners) to create the relational conditions for engagement, risk-taking, and persistence.
 status: review

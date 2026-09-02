@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: accessible_syntax
 title: Accessible Syntax
 description: Adjusting the complexity of sentence structures in instruction and learner tasks to match learners' cognitive capacity and language proficiency.
 status: review

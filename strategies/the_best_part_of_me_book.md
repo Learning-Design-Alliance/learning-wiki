@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: the_best_part_of_me_book
 title: The Best Part of Me Book
 description: Have the class create a book in which each student tells one thing they like about themselves.
 status: review

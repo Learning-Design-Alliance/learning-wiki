@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: create_a_classroom_code_of_conduct
 title: Create a Classroom Code of Conduct
 description: Teachers and students collaborate to establish a classroom code of conduct based on respectful, fair, kind, and empathetic behaviors.
 status: review

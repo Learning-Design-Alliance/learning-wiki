@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: develop_a_reliability_checklist
 title: Develop a Reliability Checklist
 description: Learners collaboratively generate and apply a checklist of questions for evaluating the reliability of online sources.
 status: review

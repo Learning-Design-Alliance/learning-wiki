@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: claim-evidence-reasoning
 title: Claim Evidence Reasoning
 description: A structured framework in which learners state a claim, support it with evidence, and articulate the reasoning that connects the two.
 status: review

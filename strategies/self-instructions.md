@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-instructions
 title: Self-instructions
 description: Teachers model articulating how they solve a problem and prompt students to explain their own thinking.
 status: review

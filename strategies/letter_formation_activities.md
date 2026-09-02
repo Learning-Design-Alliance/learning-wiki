@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: letter_formation_activities
 title: Letter Formation Activities
 description: Activities focused on teaching and practicing correct letter formation, including directionality, sequencing, and motor planning.
 status: review

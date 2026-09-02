@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: warm-demander-pedagogy
 title: Warm Demander Pedagogy
 description: A teaching stance that pairs high expectations and insistence on rigorous work with strong relational support, communicating belief in every learner's capacity to succeed.
 status: review

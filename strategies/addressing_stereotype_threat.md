@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: addressing_stereotype_threat
 title: Addressing Stereotype Threat
 description: Classroom and assessment design strategies that reduce the situational risk of confirming a negative stereotype about one's group, protecting performance and belonging.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: stages_of_drawing_and_writing_development
 title: Stages of Drawing and Writing Development
 description: Children progress through predictable stages of drawing and writing development — from random scribbling to controlled scribbling, lines and patterns, pictures of objects or people, and letter and word practice — as fine motor control and symbolic understanding mature.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: sensory_tools_and_fidgets
 title: Sensory Tools and Fidgets
 description: Small manipulable objects or sensory supports provided to learners to channel restlessness, support self-regulation, and sustain attention during learning tasks.
 status: review

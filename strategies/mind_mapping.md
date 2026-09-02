@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mind_mapping
 title: Mind Mapping
 description: Mind mapping is a visual thinking tool in which learners represent ideas as nodes radiating from a central concept, connected by labeled branches to capture structure, hierarchy, and relationships.
 status: review

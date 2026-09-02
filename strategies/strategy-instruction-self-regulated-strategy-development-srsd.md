@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: strategy-instruction-self-regulated-strategy-development-srsd
 title: Strategy Instruction (Self-Regulated Strategy Development - SRSD)
 description: Explicit teaching of writing strategies, especially self-regulated strategy development (SRSD).
 status: review

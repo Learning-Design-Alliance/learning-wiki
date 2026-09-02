@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: action-research
 title: Action Research
 description: A cyclical inquiry process in which practitioners systematically study their own teaching or learning context, implement changes, and evaluate the results.
 status: review

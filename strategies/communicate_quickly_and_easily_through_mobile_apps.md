@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: communicate_quickly_and_easily_through_mobile_apps
 title: Communicate Quickly and Easily Through Mobile Apps
 description: Mobile apps like Remind provide a quick, low-friction channel for parents, teachers, and students to communicate about progress, assignments, and school activities.
 status: review

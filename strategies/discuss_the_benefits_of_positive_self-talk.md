@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: discuss_the_benefits_of_positive_self-talk
 title: Discuss the Benefits of Positive Self-Talk
 description: Openly communicating with learners what self-talk is, how it works, and how it can improve persistence, performance, and emotional regulation.
 status: review

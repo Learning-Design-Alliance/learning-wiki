@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: word_processing_for_writing_skills
 title: Word Processing for Writing Skills
 description: Using word processing software such as Google Docs allows learners to draft, share, review, and revise their writing, with built-in features supporting feedback, revision, and diverse learner needs.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: checklists
 title: Checklists
 description: A strategy that uses lists of specific criteria or steps to track task completion, document learning progress, and structure assessment and self-assessment.
 status: review

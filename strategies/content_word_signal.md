@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: content_word_signal
 title: Content Word Signal
 description: "Using a content \"word of the week\" to signal that it's time for silence involves selecting a term related to the current curriculum (e.g., integer, renaissance, circuit) and using it as a cue for students to become quiet."
 status: review

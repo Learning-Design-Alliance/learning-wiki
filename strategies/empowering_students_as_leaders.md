@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: empowering_students_as_leaders
 title: Empowering Students as Leaders
 description: Assign students with challenging behaviors structured leadership roles in collaborative groups, channeling their social energy into facilitation and peer support.
 status: review

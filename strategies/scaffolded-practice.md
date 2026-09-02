@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: scaffolded-practice
 title: Scaffolded Practice
 description: Practice arranged as a graded sequence of tasks with temporary supports that are progressively removed as learner competence grows.
 status: review

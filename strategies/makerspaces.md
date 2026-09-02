@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: makerspaces
 title: Makerspaces
 description: A shared physical environment with tools and materials where learners design, build, and iterate on tangible projects through hands-on construction.
 status: review

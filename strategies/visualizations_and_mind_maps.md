@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: visualizations_and_mind_maps
 title: Visualizations and Mind Maps
 description: Use visuals such as infographics, diagrams, and mind maps to transform abstract concepts into clear, structured formats that show how elements connect.
 status: review

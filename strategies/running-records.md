@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: running-records
 title: Running Records
 description: A standardized formative assessment in which a teacher codes a student's oral reading of a text in real time to analyze accuracy, fluency, and cueing behavior.
 status: review

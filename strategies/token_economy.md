@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: token_economy
 title: Token Economy
 description: A system in which learners earn tokens for target behaviors and exchange them for backup reinforcers, applying operant conditioning to shape classroom conduct and effort.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: leverage_strengths_to_address_self-awareness_challenges
 title: Leverage Strengths to Address Self-Awareness Challenges
 description: Educator identifies specific student strengths and/or challenges related to self-awareness, and uses and justifies aligned strategies that leverage student strengths to support learning.
 status: review

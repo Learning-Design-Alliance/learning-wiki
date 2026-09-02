@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: free_graphing_calculator_app
 title: Free Graphing Calculator App
 description: A free mobile app combining graphing, scientific calculation, unit conversion, statistics, and reference tools that serves as an offloading tool for computation, freeing learners to focus on mathematical reasoning.
 status: review

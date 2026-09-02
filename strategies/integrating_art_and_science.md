@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: integrating_art_and_science
 title: Integrating Art and Science
 description: Combines art-making activities with science content so learners explore scientific principles through artistic creation, observation, and expression.
 status: review

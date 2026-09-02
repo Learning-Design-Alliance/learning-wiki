@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: routines
 title: Routines
 description: Repeated, predictable sequences of classroom or learning activity that automate procedural aspects of learning so attention and working memory are freed for content.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: listening_and_reading_for_specific_information
 title: Listening and reading for specific information
 description: Learners selectively attend to targeted details — words, phrases, key facts — within a text or audio input, using purpose-driven tasks to guide attention and support comprehension.
 status: review

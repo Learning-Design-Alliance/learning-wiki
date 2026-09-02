@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: set_aside_your_own_reaction
 title: Set Aside Your Own Reaction
 description: Responding with empathy means letting students' reactions come first.
 status: review

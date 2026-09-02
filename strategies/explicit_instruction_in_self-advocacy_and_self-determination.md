@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: explicit_instruction_in_self-advocacy_and_self-determination
 title: Explicit Instruction in Self-Advocacy and Self-Determination
 description: Directly teaching students to understand their needs and rights, communicate them, set goals, solve problems, and participate in decisions about their own learning and lives.
 status: review

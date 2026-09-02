@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: word_processing_for_composition
 title: Word Processing for Composition
 description: Using word processing software to support drafting, revising, and feedback in writing instruction.
 status: review

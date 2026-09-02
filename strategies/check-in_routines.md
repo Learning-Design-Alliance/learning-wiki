@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: check-in_routines
 title: Check In_Routines
 description: A brief, structured opening ritual in which each learner reports on their state, progress, or readiness, establishing connection and informing instruction.
 status: review

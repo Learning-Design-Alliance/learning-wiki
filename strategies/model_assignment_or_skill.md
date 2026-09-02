@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: model_assignment_or_skill
 title: Model Assignment or Skill
 description: Modeling a skill or assignment by verbalizing thought processes while working through it, so learners can observe expert reasoning before attempting the task themselves.
 status: review

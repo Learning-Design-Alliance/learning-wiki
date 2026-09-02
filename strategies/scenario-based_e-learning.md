@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: scenario-based_e-learning
 title: Scenario-Based E-Learning
 description: Learning tasks embedded in realistic contexts where learners make decisions, experience consequences, and receive feedback within a simulated situation.
 status: review

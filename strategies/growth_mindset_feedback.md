@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: growth_mindset_feedback
 title: Growth Mindset Feedback
 description: Growth mindset feedback focuses praise and critique on effort, strategies, and progress rather than innate ability, cultivating learners' belief that competence is malleable.
 status: review

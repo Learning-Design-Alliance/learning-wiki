@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: take-home-book-bags
 title: Take Home Book Bags
 description: A family literacy strategy in which curated bags of books and supporting materials are sent home with students to structure shared reading between children and caregivers.
 status: review

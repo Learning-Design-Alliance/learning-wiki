@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: peer-review-peer-editing
 title: Peer Review/Peer Editing
 description: Students provide structured, criterion-based feedback on each other's work, acting as both reviewers and reviewees.
 status: review

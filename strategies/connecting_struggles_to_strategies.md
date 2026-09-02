@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: connecting_struggles_to_strategies
 title: Connecting Struggles to Strategies
 description: Explicitly teaching students a repertoire of problem-solving strategies and helping them recognize when, why, and how to deploy each one when they get stuck.
 status: review

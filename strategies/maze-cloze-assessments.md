@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: maze-cloze-assessments
 title: Maze Cloze Assessments
 description: A maze cloze assessment replaces every nth word of a passage with three choices, measuring sentence-level comprehension quickly and objectively.
 status: review

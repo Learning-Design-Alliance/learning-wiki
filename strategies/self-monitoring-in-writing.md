@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-monitoring-in-writing
 title: Self Monitoring In Writing
 description: Learners deliberately observe, evaluate, and adjust their own writing processes and products against explicit criteria during planning, drafting, and revising.
 status: review

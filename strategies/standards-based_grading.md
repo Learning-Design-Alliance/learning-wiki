@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: standards-based_grading
 title: Standards-Based Grading
 description: Shift from arbitrary points and percentages to evaluating students on mastery of specific learning standards, making expectations clear and grades meaningful.
 status: review

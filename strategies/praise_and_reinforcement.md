@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: praise_and_reinforcement
 title: Praise and Reinforcement
 description: Delivering contingent, specific positive feedback and consequences to strengthen desired learning behaviors and sustain motivation.
 status: review

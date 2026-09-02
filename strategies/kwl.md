@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: kwl
 title: KWL
 description: A three-phase metacognitive routine — Know, Want to know, Learned — that activates prior knowledge before reading and consolidates it afterward.
 status: review

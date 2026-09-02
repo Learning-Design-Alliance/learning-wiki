@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reducing-test-anxiety
 title: Reducing Test Anxiety
 description: A set of instructional, assessment-design, and self-regulation practices that lower learners' evaluative anxiety so it does not impair performance or learning.
 status: review

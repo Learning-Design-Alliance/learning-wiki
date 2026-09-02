@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: improved_air_quality
 title: Improved Air Quality
 description: Improving ventilation, filtration, and pollutant control in learning spaces to reduce absenteeism and support cognitive performance.
 status: review

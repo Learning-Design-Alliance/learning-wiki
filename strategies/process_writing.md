@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: process_writing
 title: Process Writing
 description: An approach to writing instruction that treats composing as a recursive cycle of planning, drafting, revising, and editing, with explicit instruction and feedback at each stage.
 status: review

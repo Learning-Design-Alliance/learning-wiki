@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: interactive_storytelling
 title: Interactive Storytelling
 description: "Interactive storytelling places learners inside a branching narrative where their choices shape the story's direction and outcome, making them active participants rather than passive readers."
 status: review

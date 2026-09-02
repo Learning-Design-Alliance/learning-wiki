@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: applicable_reflection
 title: Applicable Reflection
 description: Applicable reflection involves guiding students to consider how their past performance will influence their future work.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: cooperative_classroom_activities
 title: Cooperative Classroom Activities
 description: Design classroom activities that involve cooperative work rather than competitive or individualistic work.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: spelling_retrieval_practice
 title: Spelling Retrieval Practice
 description: Learners practice spelling by actively retrieving and producing word spellings from memory rather than re-reading or copying them.
 status: review

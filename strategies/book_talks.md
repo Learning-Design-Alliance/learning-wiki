@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: book_talks
 title: Book Talks
 description: A structured, brief conversation in which a learner presents and discusses a book they have read to peers, building comprehension, motivation, and oral language.
 status: review

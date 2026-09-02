@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: scaffolded-problem-sequencing
 title: Scaffolded Problem Sequencing
 description: Ordering practice problems from simple to complex with graduated support, so each task is slightly beyond current competence but within reach with available scaffolds.
 status: review

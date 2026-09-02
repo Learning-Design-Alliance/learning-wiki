@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: analogies
 title: Analogies
 description: Analogies compare an unfamiliar concept to something familiar, using the learner's prior knowledge as a bridge to understanding new material.
 status: review

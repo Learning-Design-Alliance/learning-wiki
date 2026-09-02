@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: project-based_learning
 title: Project-based Learning
 description: Project-based learning (PBL) engages learners in sustained inquiry on real-world problems, culminating in an authentic product or presentation.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: play-based-learning
 title: Play Based Learning
 description: Learning structured through self-directed, enjoyable, and intrinsically motivated activity, ranging from free play to adult-guided play.
 status: review

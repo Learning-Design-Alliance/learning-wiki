@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: temperature_regulation
 title: Temperature Regulation
 description: Maintaining classroom temperatures within a moderate, comfortable range (roughly 68–74°F / 20–23°C) to protect attention, working memory, and achievement.
 status: review

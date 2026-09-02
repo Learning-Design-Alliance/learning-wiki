@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: structuring_lessons
 title: Structuring Lessons
 description: A lesson structure maps the teaching and learning that occurs in class.
 status: review

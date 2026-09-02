@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: collaborative-annotation
 title: Collaborative Annotation
 description: Learners collectively annotate a shared text or artifact, adding comments, questions, and highlights that others can read and respond to.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: decodable-text-reading-practice
 title: Decodable Text Reading Practice
 description: Practice reading texts deliberately written so that most words contain only phonics patterns already taught, allowing learners to apply decoding skills rather than guess.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: providing_manipulatives
 title: Providing Manipulatives
 description: Providing physical or virtual objects that learners can manipulate to make abstract concepts concrete, supporting understanding particularly in mathematics and science.
 status: review

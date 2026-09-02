@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: pay-attention-pause-paraphrase
 title: Pay Attention, Pause, Paraphrase
 description: A structured turn-taking conversation protocol in which listeners attend fully, pause before responding, and paraphrase the speaker's point before adding their own.
 status: review

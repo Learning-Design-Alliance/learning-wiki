@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: learning_journals
 title: Learning Journals
 description: Learners regularly record, reflect on, and monitor their own learning in an ongoing written (or multimedia) log, making thinking visible and supporting metacognitive development.
 status: review

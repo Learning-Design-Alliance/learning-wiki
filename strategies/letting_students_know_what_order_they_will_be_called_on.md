@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: letting_students_know_what_order_they_will_be_called_on
 title: Letting students know what order they will be called on
 description: Informing students of the order in which they will be called upon to respond, reducing the inhibition and self-regulation demands of unpredictable questioning.
 status: review

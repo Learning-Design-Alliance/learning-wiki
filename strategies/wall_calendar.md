@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: wall_calendar
 title: Wall Calendar
 description: A large, centrally located calendar that makes family or classroom schedules visible, helping learners see how their commitments fit into a shared timeline and build time-management habits.
 status: review

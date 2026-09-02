@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: optimize_classroom_acoustics
 title: Optimize Classroom Acoustics
 description: Reduce external noise intrusion and internal reverberation in learning spaces to protect speech intelligibility, attention, and teacher vocal health.
 status: review

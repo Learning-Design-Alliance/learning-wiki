@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reasoning-focused_instruction
 title: Reasoning-Focused Instruction
 description: De-emphasizing correct answers and focusing on the reasoning process builds student confidence and provides insight into problem-solving strategies.
 status: review

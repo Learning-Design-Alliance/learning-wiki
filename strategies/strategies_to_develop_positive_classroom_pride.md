@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: strategies_to_develop_positive_classroom_pride
 title: Strategies to Develop Positive Classroom Pride
 description: A cluster of practices — displaying learner work, regular verbal reinforcement, public recognition, and extending recognition to families — that builds collective pride and a positive classroom climate.
 status: review

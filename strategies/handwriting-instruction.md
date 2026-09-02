@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: handwriting-instruction
 title: Handwriting Instruction
 description: Explicit, systematic teaching of letter formation and handwriting fluency to build the automaticity that supports composition.
 status: review

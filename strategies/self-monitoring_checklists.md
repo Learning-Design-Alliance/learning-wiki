@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-monitoring_checklists
 title: Self Monitoring_Checklists
 description: Learners use structured checklists to track their own progress, accuracy, and strategy use against explicit criteria during learning tasks.
 status: review

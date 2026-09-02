@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: augmented-reality-ar-for-military-training
 title: Augmented Reality (AR) for Military Training
 description: AR overlays virtual objects and scenario elements onto real training environments, allowing soldiers to rehearse tasks more frequently, safely, and cheaply than live exercises permit.
 status: review

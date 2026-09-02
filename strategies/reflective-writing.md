@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reflective-writing
 title: Reflective Writing
 description: Structured writing tasks that prompt learners to examine their own thinking, learning processes, and experiences in order to consolidate understanding and improve self-regulation.
 status: review

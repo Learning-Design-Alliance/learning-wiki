@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: multimodal-presentation
 title: Multimodal Presentation
 description: Presenting content through coordinated combinations of modalities — typically words with pictures, audio, or animation — rather than words alone.
 status: review

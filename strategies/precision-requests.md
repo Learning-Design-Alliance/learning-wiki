@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: precision-requests
 title: Precision Requests
 description: A classroom management technique in which the teacher delivers a brief, specific, positively framed request, allows wait time, and follows a planned escalation of consequences if the request is not met.
 status: review

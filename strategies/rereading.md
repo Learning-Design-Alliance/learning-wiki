@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: rereading
 title: Rereading
 description: A literacy strategy in which a reader revisits a sentence, paragraph, or whole text to improve accuracy, fluency, vocabulary, and comprehension.
 status: review

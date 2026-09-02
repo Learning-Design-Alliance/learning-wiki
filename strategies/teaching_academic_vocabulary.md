@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: teaching_academic_vocabulary
 title: Teaching Academic Vocabulary
 description: Explicitly teach discipline-specific academic vocabulary — including terms whose everyday meanings differ from their technical meanings — using visuals, context, and learners' home languages as supports.
 status: review

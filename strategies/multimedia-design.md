@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: multimedia-design
 title: Multimedia Design
 description: Applying evidence-based principles for combining words, images, audio, and video so that multimedia materials support rather than overload learning.
 status: review

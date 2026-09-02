@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: can_you_make_it
 title: Can You Make It?
 description: Learners draw a dot card and recreate the arrangement on a large, blank dot card using counters, building subitizing and number sense.
 status: review

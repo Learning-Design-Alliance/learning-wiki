@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: math-fact-fluency-games
 title: Math Fact Fluency Games
 description: Using structured, timed, and often game-based activities to build automatic recall of basic arithmetic facts.
 status: review

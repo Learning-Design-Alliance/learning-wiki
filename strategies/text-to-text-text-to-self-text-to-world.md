@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: text-to-text-text-to-self-text-to-world
 title: Text-to-Text, Text-to-Self, Text-to-World
 description: A reading comprehension strategy in which learners make three types of connections to a text — to other texts, to their own experiences, and to world events — to deepen engagement and understanding.
 status: review

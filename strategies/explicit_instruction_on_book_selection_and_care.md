@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: explicit_instruction_on_book_selection_and_care
 title: Explicit Instruction on Book Selection and Care
 description: Teach learners how to select appropriate independent reading books, care for them, understand expectations for their reading work, and follow library maintenance procedures.
 status: review

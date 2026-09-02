@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: calming_strategies
 title: Calming Strategies
 description: Calming strategies are techniques learners are taught and rehearse in advance to reduce the intensity of anger and other strong emotions in the moment.
 status: review

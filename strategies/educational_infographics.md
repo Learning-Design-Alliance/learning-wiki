@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: educational_infographics
 title: Educational Infographics
 description: Educational infographics compress complex information into a single visual artifact combining charts, icons, and concise text to support comprehension and recall.
 status: review

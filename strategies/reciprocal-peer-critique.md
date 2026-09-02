@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reciprocal-peer-critique
 title: Reciprocal Peer Critique
 description: Learners exchange structured critical feedback on each other's work, alternating between the roles of reviewer and reviewed.
 status: review

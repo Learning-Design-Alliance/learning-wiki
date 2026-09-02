@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: do_now_bell_work
 title: Do Now / Bell Work
 description: A short, self-directed task students begin immediately upon entering class, before instruction starts, used to activate prior knowledge, retrieve prior learning, or settle the room.
 status: review

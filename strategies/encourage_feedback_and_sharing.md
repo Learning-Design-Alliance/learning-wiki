@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: encourage_feedback_and_sharing
 title: Encourage Feedback and Sharing
 description: Encouraging learners to share their work with peers and online fosters a collaborative writing environment and broadens the audience for their work.
 status: review

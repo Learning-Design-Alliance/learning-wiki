@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reframing-self-talk
 title: Reframing Self Talk
 description: A strategy in which learners are taught to notice negative or unproductive internal dialogue and deliberately replace it with accurate, task-focused, or growth-oriented alternatives.
 status: review

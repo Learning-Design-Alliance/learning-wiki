@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: set_a_high_bar_for_each_student
 title: Set a High Bar for Each Student
 description: Hold high expectations for all students and convince them they can succeed through social-psychological interventions that build self-efficacy and a learner mindset.
 status: review

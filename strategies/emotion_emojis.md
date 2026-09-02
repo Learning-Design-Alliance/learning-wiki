@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: emotion_emojis
 title: Emotion Emojis
 description: Students express how they are feeling by drawing or sharing an emoji, then optionally explain their choice to peers.
 status: review

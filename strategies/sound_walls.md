@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: sound_walls
 title: Sound Walls
 description: A classroom visual reference organized by phonemes (not letters) that supports explicit teaching of letter-sound correspondence, phonemic awareness, and phonics.
 status: review

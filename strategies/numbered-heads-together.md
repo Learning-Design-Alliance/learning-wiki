@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: numbered-heads-together
 title: Numbered Heads Together
 description: A cooperative learning structure in which team members jointly prepare an answer, then one randomly selected member reports, creating shared accountability for every learner's understanding.
 status: review

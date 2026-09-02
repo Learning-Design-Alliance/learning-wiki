@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: line_awareness_activities
 title: Line Awareness Activities
 description: Structured activities that build learners' ability to track, place, and size letters relative to writing lines, improving handwriting legibility.
 status: review

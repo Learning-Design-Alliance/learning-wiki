@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: positive-intention-generosity-in-networking
 title: Positive Intention & Generosity in Networking
 description: A strategy that reframes networking around alignment of interests and giving value to others, reducing the inauthenticity that undermines relationship-building.
 status: review

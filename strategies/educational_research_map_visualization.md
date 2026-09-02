@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: educational_research_map_visualization
 title: Educational Research Map Visualization
 description: Using an interactive bibliometric map to explore, navigate, and make sense of education and learning sciences research.
 status: review

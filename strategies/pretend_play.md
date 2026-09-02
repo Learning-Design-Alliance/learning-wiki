@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: pretend_play
 title: Pretend Play
 description: Learners adopt imagined roles, objects, and scenarios, using symbolic substitution and role negotiation to explore content, practice social skills, and build self-regulation.
 status: review

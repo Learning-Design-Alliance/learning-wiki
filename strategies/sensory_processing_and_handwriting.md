@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: sensory_processing_and_handwriting
 title: Sensory Processing and Handwriting
 description: Activities that incorporate sensory experiences (tactile, proprioceptive, visual) to support handwriting skill development.
 status: review

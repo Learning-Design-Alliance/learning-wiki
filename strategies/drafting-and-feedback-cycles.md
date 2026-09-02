@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: drafting-and-feedback-cycles
 title: Drafting And Feedback Cycles
 description: Learners produce successive versions of a work product, with feedback between drafts used to guide revision rather than to grade the final attempt.
 status: review

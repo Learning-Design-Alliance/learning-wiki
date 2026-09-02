@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: last-lesson-last-week-last-month
 title: Last Lesson, Last Week, Last Month
 description: This activity involves looking back to the most important information presented yesterday, last week, and last month.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: graphic_organizers_for_classroom_management
 title: Graphic Organizers for Classroom Management
 description: Put the most important classroom policies, procedures, and expectations into graphic form to increase the likelihood that students will follow them.
 status: review

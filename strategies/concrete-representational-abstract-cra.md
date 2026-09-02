@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: concrete-representational-abstract-cra
 title: Concrete-Representational-Abstract (CRA)
 description: CRA is an instructional approach that uses concrete materials, visual representations, and abstract symbols to teach math concepts.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: multiple_writing_surfaces
 title: Multiple Writing Surfaces
 description: Multiple writing surfaces involve providing learners with a variety of spaces where they can write and express their ideas, such as walls, tables, or portable whiteboards.
 status: review

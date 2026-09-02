@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: teacher_action_research
 title: Teacher Action Research
 description: Teacher action research is a cyclical strategy for systematically investigating and improving one's own classroom practice — distinct from ordinary reflective good practice in that it captures data, consults the existing literature, and produces output others could scrutinize.
 status: draft

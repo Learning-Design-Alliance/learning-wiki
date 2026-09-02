@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: eliminate_homework_and_extra_credit
 title: Eliminate Homework and Extra Credit
 description: Remove homework completion and extra credit from final grades, treating practice as ungraded learning activity and reserving grades for evidence of mastery.
 status: review

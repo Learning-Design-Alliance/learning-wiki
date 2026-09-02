@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: designing_personalized_learning_for_engagement
 title: Designing Personalized Learning for Engagement
 description: Designing personalized learning so that choices are flexible and accessible to all learners, pairing personalization with Universal Design for Learning (UDL) to maximize engagement across ability levels.
 status: review

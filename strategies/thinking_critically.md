@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: thinking_critically
 title: Thinking Critically
 description: A strategy that develops learners' ability to question, analyze, evaluate, and reason about content through structured questioning, dialogue, and argumentation.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: questioning
 title: Questioning
 description: Questioning is a powerful tool and effective teachers regularly use it for a range of purposes.
 status: review

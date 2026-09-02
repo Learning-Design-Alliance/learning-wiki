@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: illustration_through_multiple_media
 title: Illustration Through Multiple Media
 description: Illustrating concepts through complementary combinations of graphics, narration, video, simulation, and hands-on activity rather than a single medium.
 status: review

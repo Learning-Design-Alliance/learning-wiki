@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: multiplicative_double_counting
 title: Multiplicative Double Counting
 description: Multiplicative double counting involves tracking all three units (groups, unit rate, and total) to solve a multiplication problem.
 status: review

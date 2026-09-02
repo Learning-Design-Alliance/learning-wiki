@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: discussing_potential_emotions_in_advance
 title: Discussing Potential Emotions in Advance
 description: Learners anticipate and discuss the emotions a task, challenge, or transition may evoke before experiencing it, building emotional preparedness and regulation strategies.
 status: review

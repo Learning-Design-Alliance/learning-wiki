@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: multi-tiered-system-of-supports-mtss
 title: Multi-Tiered System of Supports (MTSS)
 description: A tiered prevention framework that delivers universal instruction to all students, escalating to targeted small-group and intensive individualized intervention based on continuous progress monitoring.
 status: review

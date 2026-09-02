@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: untimed_tests
 title: Untimed Tests
 description: Untimed tests remove the pressure of completing assessments within a set time limit, allowing learners to focus on problem-solving without time-related anxiety.
 status: review

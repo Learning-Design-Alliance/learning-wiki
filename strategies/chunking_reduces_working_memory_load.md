@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: chunking_reduces_working_memory_load
 title: Chunking to Reduce Working Memory Load
 description: Grouping instructional material into meaningful units sized to working memory, so learners hold a few chunks rather than many separate elements.
 status: review

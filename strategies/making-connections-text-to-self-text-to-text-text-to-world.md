@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: making-connections-text-to-self-text-to-text-text-to-world
 title: Making Connections (Text-to-Self, Text-to-Text, Text-to-World)
 description: A reading comprehension strategy in which learners relate a text to their own lives (text-to-self), to other texts (text-to-text), or to real-world events (text-to-world), typically through modeled think-alouds, guiding questions, and discussion.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: rich_library-multimodal_resources
 title: "Rich Library: Multimodal Resources"
 description: Providing learners with access to multiple resources, including blogs, videos, audiobooks, and digital books, exposes them to diverse genres and can increase interest and motivation.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: skip_counting_with_movement
 title: Skip Counting with Movement
 description: Make up a movement that comes in 2, 3, or more parts.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: retrieval_practice_with_graphic_organizers
 title: Retrieval Practice With Graphic Organizers
 description: Students first recall everything they can about a topic from memory (a Brain Dump), then organize the retrieved material into a graphic organizer, optionally with a partner, and finally verify against source material.
 status: review

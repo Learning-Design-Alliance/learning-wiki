@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: establishing-classroom-routines
 title: Establishing Classroom Routines
 description: Deliberately teaching and rehearsing predictable procedures for recurring classroom activities so that management overhead drops and instructional time increases.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: setting_goals
 title: Setting Goals
 description: Lessons have clear learning intentions with goals that clarify what success looks like.
 status: review

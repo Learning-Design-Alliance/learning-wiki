@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: hoax_website_analysis
 title: Hoax Website Analysis
 description: Learners examine well-known hoax or fabricated websites to identify the cues that reveal a site is not a credible source.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: domain_check
 title: Domain Check
 description: A quick source-evaluation heuristic in which students check the top-level domain of a website (.edu, .gov, .org, .com) as a first-pass indicator of credibility.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: method-of-loci-memory-palace
 title: Method of Loci (Memory Palace)
 description: "The method of loci involves creating a mental 'memory palace' by associating items to be remembered with specific locations in a familiar place."
 status: review

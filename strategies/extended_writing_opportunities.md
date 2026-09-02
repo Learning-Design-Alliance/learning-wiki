@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: extended_writing_opportunities
 title: Extended Writing Opportunities
 description: Extended writing opportunities involve providing learners with regular, sustained practice in writing — from daily skill-focused exercises to authentic digital communication — to build fluency, genre knowledge, and content learning.
 status: review

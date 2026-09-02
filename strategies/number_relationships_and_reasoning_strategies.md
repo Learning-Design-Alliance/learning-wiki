@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: number_relationships_and_reasoning_strategies
 title: Number Relationships and Reasoning Strategies
 description: Basic facts should be taught using number relationships and reasoning strategies, not memorization.
 status: review

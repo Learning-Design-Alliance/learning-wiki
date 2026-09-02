@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: fostering_self-advocacy_and_self-determination
 title: Fostering Self-Advocacy and Self-Determination
 description: Prioritizing self-advocacy and self-determination skills in education to improve educational and life outcomes, especially for students with disabilities.
 status: review

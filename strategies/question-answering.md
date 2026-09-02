@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: question-answering
 title: Question Answering
 description: Learners respond to questions posed by an instructor, system, or peers, requiring them to retrieve, explain, or apply content rather than passively receive it.
 status: review

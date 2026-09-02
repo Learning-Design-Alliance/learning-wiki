@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: alternative_math_assessments
 title: Alternative Math Assessments
 description: "Alternative math assessments replace or supplement timed fact tests with formats that measure fluency and understanding without triggering the anxiety and working-memory interference timed tests induce."
 status: review

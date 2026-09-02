@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: bridging_individualism_and_collectivism
 title: Bridging Individualism and Collectivism
 description: Adapting classroom practices so that both individualistic and collectivistic value systems are honored, reducing cultural mismatch between home and school.
 status: review

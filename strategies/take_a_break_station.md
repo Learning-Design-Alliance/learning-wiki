@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: take_a_break_station
 title: Take A Break Station
 description: A designated classroom space where students can decompress, reset, and practice self-regulation of emotions and behavior without stigma or consequence.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: teaching-metacognitive-strategies
 title: Teaching Metacognitive Strategies
 description: Explicitly teaching learners to plan, monitor, and evaluate their own thinking and learning processes.
 status: review

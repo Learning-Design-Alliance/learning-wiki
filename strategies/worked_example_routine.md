@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: worked_example_routine
 title: Worked Example Routine
 description: A structured instructional routine — Get ready, Read, Discuss, Explain, You Try — that converts worked examples from passive reading into active engagement with expert solution reasoning.
 status: review

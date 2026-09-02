@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: making_words
 title: Making Words
 description: A hands-on word-study activity in which learners manipulate letter cards to build and sort a sequence of words, ending with a secret word that uses all the letters.
 status: review

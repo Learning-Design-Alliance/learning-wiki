@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: no_hands_up
 title: No Hands Up
 description: The instructor replaces hand-raising with cold calling, random selection, or structured turn-taking so all students, not just volunteers, engage with questions.
 status: review

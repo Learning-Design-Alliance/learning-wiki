@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: explicit-phonics-routines
 title: Explicit Phonics Routines
 description: Systematic, teacher-directed routines that teach letter–sound correspondences and blending in a planned sequence, with modeling, guided practice, and cumulative review.
 status: review

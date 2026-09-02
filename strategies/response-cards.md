@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: response-cards
 title: Response Cards
 description: All learners simultaneously display answers on individual cards or boards, replacing one-at-a-time hand-raising with whole-group active responding.
 status: review

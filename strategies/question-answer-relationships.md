@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: question-answer-relationships
 title: Question Answer Relationships
 description: QAR teaches learners to classify questions by where their answers come from — in the text, across the text, or from prior knowledge — so they can select the right comprehension strategy for each.
 status: review

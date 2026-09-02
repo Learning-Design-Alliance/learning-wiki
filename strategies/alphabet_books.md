@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: alphabet_books
 title: Alphabet Books
 description: Students create an entry for each letter of the alphabet on a target topic, combining definitions, representations, and examples to build domain vocabulary.
 status: review

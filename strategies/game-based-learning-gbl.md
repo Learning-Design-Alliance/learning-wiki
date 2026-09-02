@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: game-based-learning-gbl
 title: Game-Based Learning (GBL)
 description: Designing learning activities so that game characteristics and principles inhere within the learning activities themselves, using games to reach specific learning objectives.
 status: review

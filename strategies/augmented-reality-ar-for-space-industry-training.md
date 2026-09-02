@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: augmented-reality-ar-for-space-industry-training
 title: Augmented Reality (AR) for Space Industry Training
 description: Augmented reality overlays digital work instructions and 3D visualizations onto the physical workspace, supporting astronauts and ground crews in complex maintenance, assembly, and exploration-preparation tasks.
 status: review

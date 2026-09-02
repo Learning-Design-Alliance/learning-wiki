@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: provide_feedback
 title: Provide Feedback
 description: Delivering specific, actionable information to learners about their performance relative to a goal, timed so it can still be used to improve subsequent attempts.
 status: review

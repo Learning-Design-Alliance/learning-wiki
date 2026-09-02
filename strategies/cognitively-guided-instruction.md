@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: cognitively-guided-instruction
 title: Cognitively Guided Instruction
 description: A teacher professional development approach in which instruction is planned around detailed knowledge of how children naturally think about and solve mathematics problems.
 status: review

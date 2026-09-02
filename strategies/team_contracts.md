@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: team_contracts
 title: Team Contracts
 description: A co-created written agreement among team members that specifies roles, norms, communication practices, and accountability procedures for collaborative work.
 status: review

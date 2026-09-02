@@ -281,10 +281,25 @@ pipeline resolves design documents against this wiki: a pattern plan names
 page's id is stable and unique within its kind** — because a rename breaks a course that
 has already shipped, silently, outside this repo.
 
-So the five kinds a design document can point at carry `id:` equal to their filename:
-**elements, principles, patterns, claims, learner-variables**. Strategies are reached
-through the reverse index rather than named, and theories are not addressed by the spec —
-a page type gains an id when something *outside* the wiki depends on pointing at it.
+So the six kinds a design document can point at carry `id:` equal to their filename:
+**elements, principles, patterns, claims, learner-variables, strategies**. Theories stay
+out — nothing in the spec addresses one. A page type gains an id when something *outside*
+the wiki depends on pointing at it.
+
+**Strategies were nearly left out, and that would have been wrong.** `findings/0008`'s
+contract names only claim, pattern, element and principle slugs, and the reverse index
+reaches strategies without anyone naming them — so the first cut excluded all 2,557.
+`spec/patterns.md` then makes a phase name one outright:
+
+```yaml
+phases:
+  - phase: Read the case
+    element: case-based-learning
+    strategy: chunked-reading-with-embedded-questions   # a learning-wiki strategy slug
+```
+
+whose `### Instructions` become that phase's authored brief. So a strategy rename breaks a
+shipped course exactly the way an element rename does.
 
 - `python3 scripts/page_identity.py --check` — report; `--apply` — stamp missing ids
 - `python3 scripts/lint.py --type identity` — id present, equal to the slug, and unique
@@ -313,6 +328,16 @@ written here — `page_identity.py` edits raw frontmatter text inline, while
 `ingest_extractions.py` builds pages through `okf_lib.dump_frontmatter`, which emits a
 block. A reader understanding only one would see no aliases on half the pages that have
 them: the rename would look recorded and still not resolve.
+
+**The spec reads exactly two things from wiki frontmatter: `id` and `type:`.** Everything
+else it resolves is a *body section* — `### Instructions` for a phase's brief,
+`### Target Learners` and `### Target Learning Goals` for matching personas and goals,
+`#### Requirements`/`#### Constraints` as the applicability filter, `## Claims` with their
+inline markers, `## Examples` on a learner-variable. Those are at 100% and ~99.8% already,
+and `findings/0008` is explicit that they must stay prose: structuring them into YAML would
+lose the qualifications that make them useful. So there is no further frontmatter work for
+the pattern-building process — a `pattern` doc's `pedagogy:` block and a `pack`'s
+`elements:` live in those documents, not here.
 
 **Note:** `verify_citation_edits.py` will trip on an id/alias pass — those are frontmatter
 edits, not citation edits, and it is a guard for citation tool runs only.
@@ -852,6 +877,7 @@ grain_size:
 ```markdown
 ---
 type: strategy
+id: [strategy-slug]      # equal to the filename
 title: [Strategy Name]
 description: [One-sentence summary of what this strategy is]
 status: draft

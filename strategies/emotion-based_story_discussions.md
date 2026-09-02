@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: emotion-based_story_discussions
 title: Emotion-Based Story Discussions
 description: "Emotion-based story discussions involve reading stories and having learners identify and discuss the characters' feelings."
 status: review

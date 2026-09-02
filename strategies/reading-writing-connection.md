@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reading-writing-connection
 title: Reading Writing Connection
 description: Integrating reading and writing instruction so each activity reinforces the other, exploiting their shared knowledge and processes.
 status: review

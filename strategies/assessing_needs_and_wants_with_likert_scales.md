@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: assessing_needs_and_wants_with_likert_scales
 title: Assessing Needs and Wants with Likert Scales
 description: Using five-point Likert-scale items to quantitatively measure learner interest, confidence, and perceived understanding for instructional planning.
 status: review

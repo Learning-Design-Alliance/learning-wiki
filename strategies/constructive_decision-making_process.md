@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: constructive_decision-making_process
 title: Constructive Decision-Making Process
 description: Co-constructing and displaying an explicit decision-making process as a visual reference that students use to structure choices, evaluate consequences, and reflect on outcomes.
 status: review

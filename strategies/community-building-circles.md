@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: community-building-circles
 title: Community Building Circles
 description: A structured, round-robin discussion format in which learners take turns responding to a shared prompt to build trust, belonging, and classroom community.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: technology_breaks
 title: Technology Breaks
 description: Taking short, scheduled breaks from technology during study periods reduces the negative effects of media multitasking.
 status: review

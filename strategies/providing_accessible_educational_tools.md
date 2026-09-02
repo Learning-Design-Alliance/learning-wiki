@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: providing_accessible_educational_tools
 title: Providing Accessible Educational Tools
 description: Providing easy access to a variety of educational tools empowers students to take control of their learning.
 status: review

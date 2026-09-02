@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: direct_instruction-spelling
 title: Direct Instruction Spelling
 description: Explicit, systematic teaching of spelling patterns, high-frequency words, and error-correction strategies for commonly misspelled words.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: collaborative_learning_space_design
 title: Collaborative Learning Space Design
 description: Intentionally configuring the physical environment — furniture, seating, sightlines, and reconfigurability — to support group work, interaction, and active participation.
 status: review

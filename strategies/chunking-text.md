@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: chunking-text
 title: Chunking Text
 description: Breaking continuous text into smaller, meaningfully organized units so working memory can process each unit before integrating them.
 status: review

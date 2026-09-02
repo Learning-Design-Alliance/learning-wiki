@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: rubric-based-feedback
 title: Rubric Based Feedback
 description: Using an explicit scoring rubric as the frame for feedback so learners see performance against named criteria rather than receiving unstructured comments.
 status: review

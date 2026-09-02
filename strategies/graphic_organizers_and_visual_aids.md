@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: graphic_organizers_and_visual_aids
 title: Graphic Organizers and Visual Aids
 description: Tools that help students identify and focus on the most important information by presenting it in a structured and visual format.
 status: review

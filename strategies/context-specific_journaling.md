@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: context-specific_journaling
 title: Context-Specific Journaling
 description: Context-specific journaling requires individuals to reflect on specific experiences such as team assignments, internships, or professional practices.
 status: review

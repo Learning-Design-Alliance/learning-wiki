@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: emotion_identification_activities
 title: Emotion Identification Activities
 description: Activities that help learners recognize, label, and express emotions in themselves and others, building emotional literacy and self-awareness.
 status: review

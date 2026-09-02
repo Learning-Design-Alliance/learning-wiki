@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: schwa_instruction
 title: Schwa Instruction
 description: Explicit teaching of schwa (/ə/), the unaccented vowel sound whose identity is reduced, so learners can explain and predict why unstressed syllables are often not spelled the way they sound.
 status: review

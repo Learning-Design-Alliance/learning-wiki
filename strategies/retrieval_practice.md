@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: retrieval_practice
 title: Retrieval Practice
 description: Actively recalling information from memory — rather than re-reading it — to strengthen long-term retention and understanding.
 status: review

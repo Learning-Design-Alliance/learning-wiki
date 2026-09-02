@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: relate_math_to_learner_strengths
 title: Relate Math to Learner Strengths
 description: Help learners understand how math gets used in the world in ways that relate to their personal strengths.
 status: review

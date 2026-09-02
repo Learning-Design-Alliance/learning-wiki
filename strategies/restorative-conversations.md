@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: restorative-conversations
 title: Restorative Conversations
 description: A structured dialogue process in which participants affected by harm or conflict jointly explore what happened, who was affected, and how to repair it, replacing purely punitive responses.
 status: review

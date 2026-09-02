@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: quick_reflection_prompts
 title: Quick Reflection Prompts
 description: Short, focused prompts at the end of a learning experience that prompt learners to articulate their ideas, consolidate understanding, and surface their thinking for the instructor.
 status: review

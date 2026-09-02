@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: virtual-reality-vr-for-empathy-training
 title: Virtual Reality (VR) for Empathy Training
 description: Learners inhabit a first-person virtual scenario (e.g., a customer in financial crisis) to build perspective-taking and empathic response skills through embodied experience, practice, and feedback.
 status: review

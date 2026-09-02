@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: organized_online_resources
 title: Organized Online Resources
 description: Curating and structuring digital learning materials — websites, documents, media, and tools — into a coherent, navigable collection so learners and instructors can locate and use resources efficiently.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: expository_advance_organizers
 title: Expository Advance Organizers
 description: Expository advance organizers give students a broad idea of the lesson's purpose before it begins by clearly stating the goals of the lesson.
 status: review

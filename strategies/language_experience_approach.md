@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: language_experience_approach
 title: Language Experience Approach
 description: "The language experience approach is a whole language method that integrates the development of reading, writing, listening, and speaking skills through the use of learners' own experiences, dictated to and transcribed by the instructor as reading material."
 status: review

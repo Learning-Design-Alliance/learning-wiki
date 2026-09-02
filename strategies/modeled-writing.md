@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: modeled-writing
 title: Modeled Writing
 description: The instructor composes text in front of learners, verbalizing decisions and reasoning, so they can observe the full writing process before producing their own text.
 status: review

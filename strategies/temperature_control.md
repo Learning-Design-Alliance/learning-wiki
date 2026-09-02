@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: temperature_control
 title: Temperature Control
 description: Maintaining classroom temperatures within a moderate comfort range (roughly 68–74°F / 20–23°C) to protect attention, working memory, and engagement.
 status: review

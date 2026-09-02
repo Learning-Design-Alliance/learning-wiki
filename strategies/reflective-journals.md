@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reflective-journals
 title: Reflective Journals
 description: Learners regularly write structured entries connecting their experiences, actions, and learning to goals, theory, and future plans.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: naming_the_negative_voice
 title: Naming the Negative Voice
 description: Students give their negative inner voice a name to externalize it, allowing them to treat it as a separate entity rather than a truth about themselves.
 status: review

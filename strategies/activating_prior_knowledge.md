@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: activating_prior_knowledge
 title: Activating Prior Knowledge
 description: Prompting learners to recall and share what they already know about a topic before introducing new information.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: drawing_and_memory_enhancement
 title: Drawing and Memory Enhancement
 description: Drawing is a powerful technique to enhance memory and recall by engaging learners in multiple cognitive processes.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: science-notebooks
 title: Science Notebooks
 description: Students maintain an ongoing written record of observations, data, drawings, predictions, and explanations as they do science, using the notebook as both a learning tool and an artifact of scientific practice.
 status: review

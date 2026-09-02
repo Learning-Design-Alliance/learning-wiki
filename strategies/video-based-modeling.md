@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: video-based-modeling
 title: Video Based Modeling
 description: Using video recordings of expert performance to show learners how a skill, process, or procedure is executed before they attempt it themselves.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: student_demonstrations
 title: Student Demonstrations
 description: Learners showcase their understanding of a topic or skill through a performance, presentation, or hands-on activity, typically as part of assessment.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: response_devices
 title: Response Devices
 description: Response devices allow learners to anonymously share answers with the whole class, enabling whole-group participation and rapid formative assessment.
 status: review

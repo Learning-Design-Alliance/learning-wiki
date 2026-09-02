@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reflexive-noticing-facilitation
 title: Reflexive Noticing Facilitation
 description: A facilitation approach for teacher professional-development dialogue that slows the group down to sustain a difficulty as an open puzzle, treats surfaced dilemmas as the starting point for change rather than proof of powerlessness, and prompts teachers to notice and question their own institutional assumptions, rather than letting the group rush to closed, defensive talk.
 status: draft

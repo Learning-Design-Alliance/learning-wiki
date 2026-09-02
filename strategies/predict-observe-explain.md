@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: predict-observe-explain
 title: Predict Observe Explain
 description: Learners commit to a prediction about a phenomenon, observe the actual outcome, and explain any discrepancy between prediction and observation.
 status: review

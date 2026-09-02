@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: establishing-discussion-norms
 title: Establishing Discussion Norms
 description: Explicitly co-constructing and teaching behavioral and intellectual expectations that govern how learners talk, listen, and disagree during discussion.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: singing
 title: Singing
 description: Using sung melody and rhythm to encode, rehearse, and retrieve verbal content or to build musical/vocal skill itself.
 status: review

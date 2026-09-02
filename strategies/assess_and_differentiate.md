@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: assess_and_differentiate
 title: Assess and Differentiate
 description: Assess both content knowledge and academic language proficiency, then use the results to differentiate instruction through varied processes, products, and scaffolds.
 status: review

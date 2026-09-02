@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: fidget_utilization_protocol
 title: Fidget Utilization Protocol
 description: A structured protocol establishing rules, contracts, and designated use for fidget tools so they support attention and self-regulation rather than becoming toys.
 status: review

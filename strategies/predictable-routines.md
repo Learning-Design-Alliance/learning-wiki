@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: predictable-routines
 title: Predictable Routines
 description: Establishing consistent, repeated structures for how learning activities begin, proceed, and close, so that procedural overhead is minimized and attention is freed for content.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: sentence_stems_for_reflection
 title: Sentence Stems for Reflection
 description: Teachers can use sentence stems to stimulate reflection and make it more accessible to learners.
 status: review

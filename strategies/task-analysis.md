@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: task-analysis
 title: Task Analysis
 description: A systematic method for breaking down a complex skill or task into its component knowledge, skills, and decision points so instruction can be designed around what learners actually need to master.
 status: review

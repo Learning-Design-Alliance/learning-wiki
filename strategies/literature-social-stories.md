@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: literature-social-stories
 title: Literature/Social Stories
 description: Using literature or social stories to explicitly teach relationship skills by having learners observe and analyze narrative models of social interaction, communication, and conflict resolution.
 status: review

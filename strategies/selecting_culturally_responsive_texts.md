@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: selecting_culturally_responsive_texts
 title: Selecting Culturally Responsive Texts
 description: Selecting and incorporating texts that reflect learners' identities and expose them to authentic perspectives beyond their own experience.
 status: review

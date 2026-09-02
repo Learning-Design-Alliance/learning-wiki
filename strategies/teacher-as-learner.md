@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: teacher-as-learner
 title: Teacher As Learner
 description: Teachers deliberately re-enter the learner role — studying new content, skills, or student thinking — to deepen pedagogical content knowledge and empathy for the learner experience.
 status: review

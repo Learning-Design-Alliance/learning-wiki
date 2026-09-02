@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: set_clear_objectives
 title: Set Clear Objectives
 description: Objectives aligned with standards, activities, and assessments, providing students with a clear understanding of the knowledge and skills they will demonstrate.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: address_stereotypical_beliefs_about_parents_and_poverty
 title: Address Stereotypical Beliefs About Parents and Poverty
 description: Educators examine and challenge deficit-based stereotypes about parents and families living in poverty, replacing them with asset-based beliefs that support genuine family engagement.
 status: review

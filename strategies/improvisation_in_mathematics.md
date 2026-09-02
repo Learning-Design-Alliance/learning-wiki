@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: improvisation_in_mathematics
 title: Improvisation in Mathematics
 description: Uses improvisational acting exercises to deepen mathematical understanding, build creative problem-solving, and normalize productive risk-taking.
 status: review

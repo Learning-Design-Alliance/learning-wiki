@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: differentiated_teaching
 title: Differentiated Teaching
 description: Differentiated teaching extends the knowledge and skills of every student in every class, regardless of their starting point, by adjusting content, process, products, or learning environment to learner readiness, interest, and profile.
 status: review

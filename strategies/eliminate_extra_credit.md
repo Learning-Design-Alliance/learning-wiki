@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: eliminate_extra_credit
 title: Eliminate Extra Credit
 description: Remove extra credit opportunities so that all grades reflect demonstrated mastery of the required curriculum rather than access to supplemental time, money, or resources.
 status: review

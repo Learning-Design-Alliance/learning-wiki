@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: study_of_written_models
 title: Study of Written Models
 description: Learners analyze and imitate well-crafted written models to internalize genre conventions, structures, and stylistic moves before producing their own writing.
 status: review

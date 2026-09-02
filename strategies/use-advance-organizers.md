@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: use-advance-organizers
 title: Use Advance Organizers
 description: Present a brief, higher-level framework (verbal, graphic, or comparative) before new material so learners can anchor incoming information to existing knowledge structures.
 status: review

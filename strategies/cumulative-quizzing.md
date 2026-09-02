@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: cumulative-quizzing
 title: Cumulative Quizzing
 description: Distributing review questions across time so that each quiz includes material from prior units, not just the most recent content, exploiting retrieval practice and spacing to build durable memory.
 status: review

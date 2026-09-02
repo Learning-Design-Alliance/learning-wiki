@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: task_management_for_writing
 title: Task Management for Writing
 description: Task management helps students plan, sequence, and monitor the work of a writing assignment — managing time, subtasks, and distractions — rather than treating writing as a single undifferentiated effort.
 status: review

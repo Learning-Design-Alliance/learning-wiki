@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: structured-segmented-instruction
 title: Structured/Segmented Instruction
 description: Systematically teaching information that has been chunked into manageable pieces and sequenced so parts are mastered before being integrated into the whole.
 status: review

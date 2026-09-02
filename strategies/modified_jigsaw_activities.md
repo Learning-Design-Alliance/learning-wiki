@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: modified_jigsaw_activities
 title: Modified Jigsaw Activities
 description: The jigsaw strategy involves dividing a task into subtopics, assigning one to each group member.
 status: review

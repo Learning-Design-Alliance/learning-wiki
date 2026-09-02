@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mini-lessons
 title: Mini Lessons
 description: A short, focused instructional segment (typically 5–15 minutes) that teaches one discrete concept, skill, or strategy before learners move into guided or independent practice.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: using_manipulatives
 title: Using Manipulatives
 description: Manipulatives are physical objects used as teaching tools to engage students in hands-on learning, especially in mathematics.
 status: review

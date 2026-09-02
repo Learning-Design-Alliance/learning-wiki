@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: exploration_station
 title: Exploration Station
 description: Establishing a dedicated computer as a station for exploration allows learners to discover their preferred composition pathway.
 status: review

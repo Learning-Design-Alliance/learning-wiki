@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: goal_setting
 title: Goal Setting
 description: Learners set or are given specific, challenging, proximal targets for performance, which directs attention, effort, and persistence toward those targets.
 status: review

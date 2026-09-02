@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: leveraging_strengths_in_relationship_skills
 title: Leveraging Strengths in Relationship Skills
 description: Identifying the social capabilities a learner already has and building relationship-skill instruction outward from those, rather than starting from the interactions they handle badly.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: daily_math_facts_practice
 title: Daily Math Facts Practice
 description: Beginning each math lesson with short, spaced practice sessions to build automatic retrieval of arithmetic facts.
 status: review

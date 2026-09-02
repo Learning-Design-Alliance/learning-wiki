@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: simulation_learning
 title: Simulation Learning
 description: Simulation learning engages learners in active, role-based experiences that model simplified versions of reality, allowing them to act, see consequences, and learn from each other without real-world risk.
 status: review

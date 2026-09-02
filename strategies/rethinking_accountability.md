@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: rethinking_accountability
 title: Rethinking Accountability
 description: Adjusting grading, assessment, and expectations so students are not unjustly penalized for circumstances beyond their control, while preserving meaningful standards.
 status: review

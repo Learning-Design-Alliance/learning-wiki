@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: maintain_presence_for_students
 title: Maintain Presence for Students
 description: Teachers make themselves predictably available for brief, informal talks with students and visibly share the work of learning, building the relational foundation for a safe classroom.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: letter_strategy
 title: Letter Strategy
 description: The letter strategy is a mnemonic technique that uses acronyms and acrostics to encode and recall lists or sequences of information.
 status: review

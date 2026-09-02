@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: establish_guidelines_for_discussions
 title: Establish Guidelines for Discussions
 description: Establish clear norms for group discussion — engagement, comfort with discomfort, speaking one's truth, and accepting non-closure — before dialogue begins, especially on sensitive or controversial topics.
 status: review

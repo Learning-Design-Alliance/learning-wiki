@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: pre-reading-skim_a_book_systematically
 title: "Pre-reading: Skim a Book Systematically"
 description: Skimming or pre-reading a book involves a systematic approach to discover whether the book requires a more careful reading.
 status: review

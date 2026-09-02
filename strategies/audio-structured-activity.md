@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: audio-structured-activity
 title: Audio + Structured Activity
 description: Students engage with audio resources (music, podcasts, voice-recorded lectures) accompanied by a structured activity.
 status: review

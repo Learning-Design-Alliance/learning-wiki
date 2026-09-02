@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: define_and_apply_ethical_responsibility
 title: Define and Apply Ethical Responsibility
 description: Making the ethical obligations of a domain explicit, then having learners apply them to concrete, contested cases rather than affirm them in the abstract.
 status: review

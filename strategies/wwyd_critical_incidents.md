@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: wwyd_critical_incidents
 title: WWYD Critical Incidents
 description: Learners analyze short, ambiguous conflict scenarios and answer "What would you do if you were person X/person Y?", forcing perspective-taking and reasoned resolution before discussion.
 status: review

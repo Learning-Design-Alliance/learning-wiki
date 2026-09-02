@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: drawing_for_memory_and_learning
 title: Drawing for Memory and Learning
 description: Learners create drawings of to-be-learned content as an encoding strategy, producing better memory than writing or other study methods.
 status: review

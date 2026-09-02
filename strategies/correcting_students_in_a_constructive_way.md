@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: correcting_students_in_a_constructive_way
 title: Correcting Students In A Constructive Way
 description: Addressing student errors or misbehavior in a manner that preserves dignity, targets the behavior rather than the person, and builds toward self-regulation.
 status: review

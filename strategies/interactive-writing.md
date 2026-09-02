@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: interactive-writing
 title: Interactive Writing
 description: A teacher and students jointly compose a text, sharing the pen so learners practice phonemic analysis, letter formation, and writing conventions with immediate support.
 status: review

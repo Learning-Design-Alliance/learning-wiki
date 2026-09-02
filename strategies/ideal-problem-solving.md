@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: ideal-problem-solving
 title: Ideal Problem Solving
 description: A structured problem-solving strategy based on Bransford and Stein's IDEAL model — Identify, Define, Explore, Act, Look back — that teaches learners a general heuristic for approaching novel problems.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reflection_prompts
 title: Reflection Prompts
 description: Reflection prompts are specific questions or statements used to guide learners in thinking deeply about their learning process, content understanding, and personal growth.
 status: review

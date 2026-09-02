@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: question-answering-relationships
 title: Question Answering Relationships
 description: A strategy that teaches learners to classify questions by where their answers come from — in the text, across the text, in their own knowledge, or a blend — so they can select appropriate comprehension strategies.
 status: review

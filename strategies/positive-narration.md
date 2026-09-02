@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: positive-narration
 title: Positive Narration
 description: The teacher verbally describes desired student behavior as it occurs, drawing attention to on-task actions rather than misbehavior.
 status: review

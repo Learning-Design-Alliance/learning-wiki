@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: wide-reading
 title: Wide Reading
 description: Sustained, high-volume reading of self-selected, accessible texts to build fluency, vocabulary, background knowledge, and motivation.
 status: review

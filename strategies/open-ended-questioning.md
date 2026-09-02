@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: open-ended-questioning
 title: Open Ended Questioning
 description: Posing questions with multiple valid answers or unknown endpoints to elicit reasoning, discussion, and elaboration rather than recall of a single correct response.
 status: review

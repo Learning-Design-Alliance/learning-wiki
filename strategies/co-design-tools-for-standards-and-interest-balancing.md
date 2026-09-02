@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: co-design-tools-for-standards-and-interest-balancing
 title: Co-Design Tools for Standards and Interest Balancing
 description: A sequence of concrete co-design tools — standards unpacking, backward-designed explanations, demographic-disaggregated student interest surveys, and rehearsed unit launches — that a mixed team of teachers, researchers, and district leaders uses to jointly choose an anchoring phenomenon that satisfies both standards alignment and student interest.
 status: draft

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: post-reading_discussions
 title: Post-Reading Discussions
 description: "After reading, instructors facilitate discussions to explore learners' favorite parts of a narrative text or to confirm information learned in an informational text."
 status: review

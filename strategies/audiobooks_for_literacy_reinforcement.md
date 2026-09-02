@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: audiobooks_for_literacy_reinforcement
 title: Audiobooks for Literacy Reinforcement
 description: Audiobooks reinforce literacy skills, comprehension, and reading enjoyment by giving learners access to texts in audio form, with or without accompanying print.
 status: review

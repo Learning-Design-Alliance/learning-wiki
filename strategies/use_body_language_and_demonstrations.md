@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: use_body_language_and_demonstrations
 title: Use Body Language and Demonstrations
 description: Reinforce verbal instructions with body language, gestures, and physical demonstrations so learners can observe the target performance rather than infer it from words alone.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: classroom-norms-co-construction
 title: Classroom Norms Co Construction
 description: Learners and instructor jointly draft, negotiate, and ratify the behavioral and discourse norms that govern classroom interaction, rather than receiving them as imposed rules.
 status: review

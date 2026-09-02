@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: document_outline_strategy
 title: Document Outline Strategy
 description: "Using the “Document outline” tool in Google Docs, students pick out evidence that supports the main ideas they've found."
 status: review

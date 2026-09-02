@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: academic-choice-planning-working-reflecting
 title: Academic Choice (Planning, Working, Reflecting)
 description: "Academic Choice empowers learners by providing them with options in their learning and involves a three-phase process: planning, working, and reflecting."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: social-norms-marketing-campaign
 title: Social Norms Marketing Campaign
 description: A campaign strategy that corrects learners' misperceptions of peer behavior and attitudes by publicizing accurate normative data, reducing pressure to conform to exaggerated norms.
 status: review

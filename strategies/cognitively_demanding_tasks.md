@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: cognitively_demanding_tasks
 title: Cognitively Demanding Tasks
 description: Tasks that require learners to engage in non-routine reasoning, make connections among concepts, and explain their thinking rather than reproduce memorized procedures.
 status: review

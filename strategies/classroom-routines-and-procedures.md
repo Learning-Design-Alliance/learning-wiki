@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: classroom-routines-and-procedures
 title: Classroom Routines And Procedures
 description: Established, rehearsed patterns for recurring classroom activities that automate logistics so attention and time are freed for learning.
 status: review

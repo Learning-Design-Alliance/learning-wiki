@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: retrieval-practice-openers
 title: Retrieval Practice Openers
 description: Opening a lesson or session with a short, low-stakes retrieval task on previously covered material to strengthen memory and set up new learning.
 status: review

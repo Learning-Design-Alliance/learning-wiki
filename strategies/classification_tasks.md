@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: classification_tasks
 title: Classification Tasks
 description: Classification tasks involve sorting objects or concepts into categories based on shared properties.
 status: review

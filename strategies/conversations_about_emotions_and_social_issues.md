@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: conversations_about_emotions_and_social_issues
 title: Conversations about Emotions and Social Issues
 description: Structured, explicit conversations in which learners name, discuss, and reason about emotions and social issues, including issues of social justice.
 status: review

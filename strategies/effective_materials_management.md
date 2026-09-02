@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: effective_materials_management
 title: Effective Materials Management
 description: "Using an 'in' and 'out' basket system for papers, labeling cubbies, bookshelves, bins, and folders, and providing easily accessible supplies cuts down on student time locating materials and supports organization."
 status: review

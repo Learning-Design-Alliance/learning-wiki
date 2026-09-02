@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: pupil-generated_word_problems
 title: Pupil-Generated Word Problems
 description: Learners create their own word problems to deepen awareness of problem structure and sharpen basic math skills, fostering comfort in solving a variety of math problems.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: highlight-and-explore-patterns-critical-features-big-ideas-and-relationships
 title: Highlight and Explore Patterns, Critical Features, Big Ideas, and Relationships
 description: Accentuating important information and how it relates to the learning goal helps learners focus attention on what matters and build connected understanding rather than fragmented detail.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: foster_self-awareness
 title: Foster Self-Awareness
 description: Self-awareness is the ability to correctly identify your own emotions, thoughts, and values and how they impact behavior.
 status: review

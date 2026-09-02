@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: assess_fluency_components
 title: Assess Fluency Components
 description: Assessing fluency by attending to accuracy, efficiency, flexibility, and the learner's experience, rather than accuracy alone or via timed testing.
 status: review

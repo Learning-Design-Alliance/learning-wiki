@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: cultivation_of_understanding_and_respect_across_languages_and_dialects
 title: Cultivation of Understanding and Respect Across Languages and Dialects
 description: Using translations, descriptions, movement, images, and multilingual resources to support comprehension in unfamiliar languages while fostering respect for linguistic diversity.
 status: review

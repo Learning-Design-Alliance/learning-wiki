@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: games
 title: Games
 description: Using structured games—collaborative or competitive, physical or digital—as experiential environments in which learners practice skills and receive feedback through play.
 status: review

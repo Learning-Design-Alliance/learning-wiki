@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: data-driven-inquiry
 title: Data Driven Inquiry
 description: A collaborative cycle in which educators analyze student learning data to identify gaps, hypothesize causes, and adjust instruction.
 status: review

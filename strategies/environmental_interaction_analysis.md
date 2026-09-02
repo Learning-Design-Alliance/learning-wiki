@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: environmental_interaction_analysis
 title: Environmental Interaction Analysis
 description: These activities explore the relationships between people and their environments by examining environments, inhabitants, and the tracks they leave behind.
 status: review

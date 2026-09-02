@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: establishing-clear-expectations
 title: Establishing Clear Expectations
 description: Making goals, criteria, roles, and behavioral norms explicit before and during learning so learners know what success looks like and how to reach it.
 status: review

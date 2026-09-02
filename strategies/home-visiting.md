@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: home-visiting
 title: Home Visiting
 description: A delivery strategy in which educators, nurses, or paraprofessionals visit learners or families in their homes to deliver instruction, model caregiving or teaching practices, and connect families to resources.
 status: review

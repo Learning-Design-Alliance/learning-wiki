@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: instructor-feedback
 title: Instructor Feedback
 description: Instructor-provided information about a learner's performance that closes the gap between current and desired performance.
 status: review

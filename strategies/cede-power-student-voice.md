@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: cede-power-student-voice
 title: Cede Power (Student Voice)
 description: Sharing decision-making power with students and families in the design and governance of learning experiences, positioning students as co-designers rather than passive recipients.
 status: review

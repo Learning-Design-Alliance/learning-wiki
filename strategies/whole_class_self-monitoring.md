@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: whole_class_self-monitoring
 title: Whole Class Self-Monitoring
 description: Whole class self-monitoring involves the entire class participating in self-monitoring techniques, adapted from individual self-monitoring methods.
 status: review

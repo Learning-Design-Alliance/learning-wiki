@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: bridging_cultures
 title: Bridging Cultures
 description: A professional development approach that helps teachers recognize the individualistic assumptions embedded in schooling and bridge them with the collectivistic values many students bring from home.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: emotional_thermometer
 title: Emotional Thermometer
 description: An emotional thermometer is a visual self-assessment tool that helps learners identify and gauge the intensity of their emotions so they can apply coping strategies before escalation.
 status: review

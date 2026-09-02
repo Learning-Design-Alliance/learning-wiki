@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: icebreakers
 title: Icebreakers
 description: Short, structured initial activities designed to reduce social distance, surface learner backgrounds, and establish participation norms at the start of a course or session.
 status: review

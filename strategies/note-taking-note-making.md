@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: note-taking-note-making
 title: Note-Taking/Note-Making
 description: Students record key points from a lesson (taking notes) and then generate their own reflections, reactions, and personal connections to the material (making notes).
 status: review

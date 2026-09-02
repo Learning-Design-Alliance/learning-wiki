@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: brainstorming-pre-reading
 title: Brainstorming (Pre-Reading)
 description: Learners generate and share ideas about a topic in a short, timed session before reading, activating prior knowledge and building anticipation for the text.
 status: review

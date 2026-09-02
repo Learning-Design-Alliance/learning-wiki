@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: training_handouts
 title: Training Handouts
 description: Training handouts are supplementary materials distributed during training sessions to enhance learner engagement, structure interactions, and provide a reference for key content.
 status: review

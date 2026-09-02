@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: make-believe-problem-based_learning
 title: Make-Believe: Problem-Based Learning
 description: Learners take on real-world roles and grapple with complex, open-ended problems collaboratively, using make-believe scenarios to make authentic challenges tractable in the classroom.
 status: review

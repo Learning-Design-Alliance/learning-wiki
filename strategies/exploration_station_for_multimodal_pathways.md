@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: exploration_station_for_multimodal_pathways
 title: Exploration Station for Multimodal Pathways
 description: Creating a designated computer station where students can explore their preferred composition pathway.
 status: review

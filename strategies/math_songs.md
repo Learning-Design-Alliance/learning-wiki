@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: math_songs
 title: Math Songs
 description: Math songs are musical compositions designed to teach and reinforce math concepts and skills through rhyme, rhythm, and repetition.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: utilize_text_messaging_for_parent_engagement
 title: Utilize Text Messaging for Parent Engagement
 description: Text messaging is used as a primary, low-friction channel for educators to communicate regularly with parents, prompting small at-home learning behaviors.
 status: review

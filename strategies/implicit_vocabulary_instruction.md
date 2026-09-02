@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: implicit_vocabulary_instruction
 title: Implicit Vocabulary Instruction
 description: "Implicit vocabulary instruction teaches words 'in the moment' through context, brief definitions, and incidental encounters rather than formal vocabulary lessons."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: family-literacy-nights
 title: Family Literacy Nights
 description: Structured school-hosted events that engage families in modeled literacy activities to build home literacy practices and connect school and home learning.
 status: review

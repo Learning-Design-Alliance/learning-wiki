@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: modeling_empathy
 title: Modeling Empathy
 description: "Teachers' behaviors and actions create the culture in the classroom."
 status: review

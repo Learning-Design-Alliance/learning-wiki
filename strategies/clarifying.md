@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: clarifying
 title: Clarifying
 description: Clarifying involves identifying and resolving areas of uncertainty in a text or problem — unfamiliar vocabulary, complex syntax, and difficult concepts — before or during comprehension work.
 status: review

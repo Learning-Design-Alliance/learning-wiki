@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: incorporate_mindfulness_techniques
 title: Incorporate Mindfulness Techniques
 description: Incorporate mindfulness techniques to help students manage their initial emotional impulses and reactivity.
 status: review

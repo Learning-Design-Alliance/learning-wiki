@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: differentiated-instruction
 title: Differentiated Instruction
 description: Adjusting content, process, product, or learning environment based on assessed learner readiness, interest, and profile so all students can reach shared goals.
 status: review

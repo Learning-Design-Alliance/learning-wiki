@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: maintaining_high_expectations_for_student_performance
 title: Maintaining High Expectations for Student Performance
 description: Setting and sustaining individually calibrated, demanding achievement expectations for every student, paired with the support needed to meet them.
 status: review

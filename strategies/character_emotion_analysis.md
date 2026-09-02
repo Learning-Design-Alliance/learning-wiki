@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: character_emotion_analysis
 title: Character Emotion Analysis
 description: "This strategy involves having students analyze characters' feelings in literature to improve their self-awareness and emotional recognition."
 status: review

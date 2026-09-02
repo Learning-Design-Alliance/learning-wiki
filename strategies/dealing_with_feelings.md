@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: dealing_with_feelings
 title: Dealing with Feelings
 description: A structured self-reflection strategy in which adults learn to recognize, express, and self-soothe the emotions that arise when they make mistakes, compensating for emotional guidance they did not receive earlier in life.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: process_for_constructive_decision-making
 title: Process for Constructive Decision-Making
 description: Co-construct with students an explicit step-by-step decision-making process and display it in the classroom as a persistent visual scaffold for making good choices.
 status: review

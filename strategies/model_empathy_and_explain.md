@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: model_empathy_and_explain
 title: Model Empathy and Explain
 description: Explicitly demonstrate empathic behavior — active listening, perspective-taking, expressing concern — while verbalizing the reasoning behind it, so learners can observe and internalize how empathy works.
 status: review

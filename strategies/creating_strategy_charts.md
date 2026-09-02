@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: creating_strategy_charts
 title: Creating Strategy Charts
 description: Developing visual aids and lists of problem-solving strategies in collaboration with learners.
 status: review

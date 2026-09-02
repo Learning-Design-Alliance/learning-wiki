@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: positive-greetings-at-the-door
 title: Positive Greetings At The Door
 description: Teachers greet each student individually at the classroom door with a positive, personalized interaction before instruction begins.
 status: review

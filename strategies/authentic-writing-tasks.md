@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: authentic-writing-tasks
 title: Authentic Writing Tasks
 description: Writing assignments that mirror real-world purposes, genres, and audiences so that composing serves a genuine communicative goal rather than a display of knowledge for the teacher.
 status: review

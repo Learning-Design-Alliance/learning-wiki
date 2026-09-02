@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: speech-to-text_technology
 title: Speech-to-Text Technology
 description: Speech-to-text (dictation) technology converts spoken language into written text, allowing learners to compose by voice rather than by spelling, handwriting, or typing.
 status: review

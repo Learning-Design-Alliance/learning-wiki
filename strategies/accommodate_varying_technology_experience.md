@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: accommodate_varying_technology_experience
 title: Accommodate Varying Technology Experience
 description: Recognize that adults have diverse levels of technology exposure and experience, and design entry points, scaffolds, and optional supports so tool unfamiliarity never blocks content learning.
 status: review

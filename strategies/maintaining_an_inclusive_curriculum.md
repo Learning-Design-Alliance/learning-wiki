@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: maintaining_an_inclusive_curriculum
 title: Maintaining an Inclusive Curriculum
 description: A culturally responsive curriculum is both inclusive in that it ensures that all students are included within all aspects of the school, and it acknowledges the unique differences students may possess.
 status: review

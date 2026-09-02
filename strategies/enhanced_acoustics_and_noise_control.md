@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: enhanced_acoustics_and_noise_control
 title: Enhanced Acoustics and Noise Control
 description: Designing and retrofitting classrooms to buffer external noise and control reverberation, protecting speech intelligibility and attention.
 status: review

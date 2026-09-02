@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: writing-to-learn
 title: Writing To Learn
 description: Using writing tasks as a thinking tool — short, low-stakes writing that helps learners process, connect, and consolidate content rather than demonstrate polished composition skill.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: graphic-organizers-math
 title: Graphic Organizers (Math)
 description: Graphic organizers break down math problems into steps, which helps students figure out what's being asked in a word problem or which operation to use.
 status: review

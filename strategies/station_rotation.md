@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: station_rotation
 title: Station Rotation
 description: Students rotate through a fixed sequence of learning stations — typically including teacher-led, collaborative, and digital/independent work — within a single lesson or class period.
 status: review

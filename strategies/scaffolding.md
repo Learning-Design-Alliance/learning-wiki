@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: scaffolding
 title: Scaffolding
 description: Temporary, tailored support that helps learners perform tasks beyond their current independent ability, then fades as competence grows.
 status: review

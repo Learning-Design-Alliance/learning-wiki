@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: seductive-details-removal
 title: Seductive Details Removal
 description: Removing interesting but irrelevant text, images, audio, or video from learning materials to protect working memory and improve outcomes.
 status: review

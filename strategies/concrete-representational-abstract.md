@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: concrete-representational-abstract
 title: Concrete Representational Abstract
 description: A graduated instructional sequence that moves learners from hands-on concrete materials to visual representations to abstract symbols.
 status: review

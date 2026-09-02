@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: provide_easy-access_educational_tools
 title: Provide Easy-Access Educational Tools
 description: Making learning tools and resources physically or digitally available to students so they can independently select, use, and manage supports for their own learning.
 status: review

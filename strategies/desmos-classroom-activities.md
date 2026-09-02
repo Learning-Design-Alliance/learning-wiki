@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: desmos-classroom-activities
 title: Desmos Classroom Activities
 description: A strategy using Desmos Classroom's interactive, teacher-paced digital activities to make mathematical thinking visible, collect real-time student responses, and structure whole-class discussion.
 status: review

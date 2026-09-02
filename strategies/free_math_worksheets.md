@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: free_math_worksheets
 title: Free Math Worksheets
 description: Free math worksheets provide accessible, structured practice materials that support fluency building and skill consolidation in mathematics.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: dictation-and-spelling-practice
 title: Dictation And Spelling Practice
 description: Learners write words or sentences from spoken input, then check and correct their spelling, building orthographic representations through retrieval and feedback.
 status: review

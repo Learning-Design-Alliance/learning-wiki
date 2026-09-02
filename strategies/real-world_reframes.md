@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: real-world_reframes
 title: Real-World Reframes
 description: "When a student expresses frustration or negativity (e.g., 'I can't do this stuff!'), reflect their feelings and then prompt them to take action."
 status: review

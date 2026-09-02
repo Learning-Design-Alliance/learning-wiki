@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: quick-look-cards
 title: Quick Look Cards
 description: Brief, at-a-glance reference cards that give learners just-in-time support during a task without interrupting performance.
 status: review

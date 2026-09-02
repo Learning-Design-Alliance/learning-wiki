@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: expressive_outlets
 title: Expressive Outlets
 description: Learners externalize thoughts and emotions through structured writing, drawing, or verbalization to regulate affect and free cognitive resources for learning.
 status: review

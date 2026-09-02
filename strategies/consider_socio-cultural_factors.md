@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: consider_socio-cultural_factors
 title: Consider Socio-Cultural Factors
 description: Acknowledge that access to technology and digital literacy can vary based on socio-economic background, social environment, and cultural factors, and design accordingly.
 status: review

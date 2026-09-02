@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: stand-up-sit-down
 title: Stand Up Sit Down
 description: A whole-body response game in which students stand or sit based on the (often disguised) value of a mentally computed number, turning fact retrieval into fast-paced kinesthetic practice.
 status: review

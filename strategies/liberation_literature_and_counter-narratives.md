@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: liberation_literature_and_counter-narratives
 title: Liberation Literature and Counter-Narratives
 description: Liberation literature places out-group identities at the center of the curriculum through carefully selected texts that counter negative stereotypes and omissions, ensuring all learners see themselves reflected in classroom reading.
 status: review

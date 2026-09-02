@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mindfulness_techniques_for_self-regulation
 title: Mindfulness Techniques for Self-Regulation
 description: Incorporates mindfulness practices (breath focus, body scans, brief meditative pauses) to help students notice and manage emotional impulses and reactivity during learning.
 status: review

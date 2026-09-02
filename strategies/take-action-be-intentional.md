@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: take-action-be-intentional
 title: Take Action, Be Intentional
 description: Deliberately shape classroom climate and teacher behavior so that every student's needs — academic, emotional, and material — are noticed and met.
 status: review

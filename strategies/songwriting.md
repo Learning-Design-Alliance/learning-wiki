@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: songwriting
 title: Songwriting
 description: Students create their own verses or entire songs to build phonemic awareness, vocabulary, and language development through creative, multisensory composition.
 status: review

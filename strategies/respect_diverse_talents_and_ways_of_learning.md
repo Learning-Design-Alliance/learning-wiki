@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: respect_diverse_talents_and_ways_of_learning
 title: Respect Diverse Talents and Ways of Learning
 description: There are many roads to learning.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: modality
 title: Modality
 description: Presenting words as spoken narration rather than on-screen text when accompanying graphics, to balance verbal and visual channels of working memory.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: indoor_air_quality_improvement
 title: Indoor Air Quality Improvement
 description: Improving indoor air quality reduces absenteeism, particularly for students with asthma, and addresses "sick building syndrome." Proper ventilation systems and pollutant reduction create a healthier learning environment.
 status: review

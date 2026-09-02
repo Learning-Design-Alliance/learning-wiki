@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: real-world_math_connections
 title: Real World_Math_Connections
 description: Connecting mathematical content to authentic contexts, situations, and problems so learners see mathematics as a tool for reasoning about the world rather than an abstract symbol game.
 status: review

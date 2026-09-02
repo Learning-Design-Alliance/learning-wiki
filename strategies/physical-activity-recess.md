@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: physical-activity-recess
 title: Physical Activity & Recess
 description: Integrating physical activity — recess, movement breaks, active lessons — into the school day to improve attention, executive function, and learning outcomes.
 status: review

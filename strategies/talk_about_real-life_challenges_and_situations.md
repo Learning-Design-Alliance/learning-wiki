@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: talk_about_real-life_challenges_and_situations
 title: Talk About Real-Life Challenges and Situations
 description: Facilitating discussions about the challenges learners are facing and how they feel about those situations.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: think-alouds
 title: Think-Alouds
 description: Modeling reading and problem-solving by verbalizing one's thinking aloud, then having learners practice the same verbalization with peers.
 status: review

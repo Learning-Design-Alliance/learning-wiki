@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: acting-role-play
 title: Acting/Role Play
 description: Acting and role-playing are active learning strategies in which learners physically enact scenarios to deepen understanding, explore different perspectives, and practice social skills.
 status: review

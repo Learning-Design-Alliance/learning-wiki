@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: student-led-conferences
 title: Student Led Conferences
 description: A conference format in which students prepare and deliver a presentation of their own learning, goals, and work samples to teachers and families, replacing the teacher-dominated report.
 status: review

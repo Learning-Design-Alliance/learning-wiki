@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: strategy_identification_and_application
 title: Strategy Identification and Application
 description: Explicitly teaching a repertoire of problem-solving strategies, then having learners name and reflect on the strategies they use when stuck, so they can reapply them independently.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: dim_or_natural_lighting
 title: Dim or Natural Lighting
 description: Adjusting classroom lighting — dimming, tuning color temperature, or maximizing daylight — to support attention, mood, and sensory regulation.
 status: review

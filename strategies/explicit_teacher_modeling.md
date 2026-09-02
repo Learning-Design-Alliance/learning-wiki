@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: explicit_teacher_modeling
 title: Explicit Teacher Modeling
 description: The teacher describes and demonstrates a skill or concept step by step, making expert thinking visible before students attempt it independently.
 status: review

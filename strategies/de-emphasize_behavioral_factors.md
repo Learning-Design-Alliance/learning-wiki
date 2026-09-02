@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: de-emphasize_behavioral_factors
 title: De-emphasize Behavioral Factors
 description: Remove non-academic criteria such as behavior, effort, and participation from grades so that grades reflect only academic mastery of learning goals.
 status: review

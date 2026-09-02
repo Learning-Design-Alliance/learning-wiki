@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: phonological_awareness_development_through_rhyming
 title: Phonological Awareness Development through Rhyming
 description: Using rhyming activities during read-alouds to develop children's sensitivity to the sound structure of language as a foundation for reading.
 status: review

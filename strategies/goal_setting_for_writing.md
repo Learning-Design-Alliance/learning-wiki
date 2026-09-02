@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: goal_setting_for_writing
 title: Goal Setting for Writing
 description: Setting clear, task-specific goals for writing, supported by self-assessment, peer support, and progress feedback, to improve writing quality and motivation.
 status: review

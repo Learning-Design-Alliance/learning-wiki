@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: graphic_organizers_for_pre-writing
 title: Graphic Organizers for Pre-Writing
 description: Students use graphic organizers to plan and structure their ideas before drafting a written piece, jotting down notes rather than writing complete sentences.
 status: review

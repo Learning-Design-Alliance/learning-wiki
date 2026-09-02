@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: worked-examples-first
 title: Worked Examples First
 description: Presenting fully worked solutions before asking learners to solve problems independently, so novices study expert performance instead of searching for it.
 status: review

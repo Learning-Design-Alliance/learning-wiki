@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: claim-support-question
 title: Claim Support Question
 description: A three-step thinking routine in which learners make a claim about a topic, identify evidence that supports it, and pose a question that remains open.
 status: review

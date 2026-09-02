@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: dictation-and-encoding-practice
 title: Dictation And Encoding Practice
 description: Learners write words or sentences from spoken input, forcing them to map sounds onto letters and retrieve spellings rather than merely recognize them.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: help-seeking
 title: Help Seeking
 description: Help seeking is an adaptive self-regulation strategy in which learners recognize they need assistance, formulate a request, and obtain help from a teacher, peer, or system.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: classroom_pbis
 title: Classroom PBIS
 description: A school-wide positive behavior framework applied at the classroom level — explicitly teaching expectations, reinforcing them consistently, and using data to reduce problem behavior.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: rate-and-change-tasks
 title: Rate (and Change) Tasks
 description: Ask learners to rate the level of challenge in an activity on a scale of 1 to 10, then adjust the task based on the rating.
 status: review

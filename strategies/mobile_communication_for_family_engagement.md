@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mobile_communication_for_family_engagement
 title: Mobile Communication for Family Engagement
 description: Utilizing text messages to inform families about their student's progress, as well as general tips for supporting children's learning.
 status: review

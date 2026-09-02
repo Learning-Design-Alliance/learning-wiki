@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: facilitating-difficult-dialogues
 title: Facilitating Difficult Dialogues
 description: Structured facilitation of conversations about contested, emotionally charged, or identity-relevant topics so that disagreement becomes productive learning rather than threat or withdrawal.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: heat_transfer_investigations
 title: Heat Transfer Investigations
 description: Learners conduct structured, hands-on experiments comparing how different materials and environments affect the transfer of heat, building conceptual understanding of conduction and insulation alongside experimental practices.
 status: review

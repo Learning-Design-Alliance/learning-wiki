@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-_and_peer-editing
 title: Self- and Peer-Editing
 description: Learners systematically evaluate and revise their own writing and provide structured feedback on peers' writing using checklists or rubrics.
 status: review

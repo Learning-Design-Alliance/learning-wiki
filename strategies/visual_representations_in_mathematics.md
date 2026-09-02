@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: visual_representations_in_mathematics
 title: Visual Representations in Mathematics
 description: Using schematic diagrams, number lines, strip diagrams, and other visuals to depict mathematical quantities and relationships so learners can reason about abstract concepts and solve problems.
 status: review

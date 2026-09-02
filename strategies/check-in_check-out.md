@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: check-in_check-out
 title: Check In_Check Out
 description: A Tier 2 behavior intervention in which a mentor briefly checks in with a student at the start of the day and checks out at the end, using a daily point card to structure goals, feedback, and home–school communication.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: syllabication_instruction
 title: Syllabication Instruction
 description: Teach children the six basic syllable types and how they affect spelling and decoding of multisyllable words.
 status: review

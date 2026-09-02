@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: explicit-vocabulary-instruction
 title: Explicit Vocabulary Instruction
 description: Direct, teacher-led teaching of specific target words, including definitions, context, examples, and structured practice, rather than expecting vocabulary to grow from exposure alone.
 status: review

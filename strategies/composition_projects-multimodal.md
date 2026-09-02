@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: composition_projects-multimodal
 title: Composition Projects Multimodal
 description: Learners create original compositions that combine multiple modes — text, image, audio, video, spatial design — to demonstrate understanding and communicate to real audiences.
 status: review

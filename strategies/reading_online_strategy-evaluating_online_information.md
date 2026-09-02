@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reading_online_strategy-evaluating_online_information
 title: Reading Online Strategy — Evaluating Online Information
 description: Teaching learners to actively evaluate the credibility, source, and evidence of online texts rather than reading them uncritically.
 status: review

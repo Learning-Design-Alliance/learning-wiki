@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: positive_behavioral_interventions_and_supports_pbis
 title: Positive Behavioral Interventions and Supports (PBIS)
 description: A school-wide framework that teaches and reinforces expected behaviors proactively rather than reacting to misbehavior with punishment.
 status: review

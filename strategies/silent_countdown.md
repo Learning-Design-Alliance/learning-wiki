@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: silent_countdown
 title: Silent Countdown
 description: A non-verbal attention signal in which the teacher silently counts down (e.g., with raised fingers) to give students a predictable window to transition to quiet attention.
 status: review

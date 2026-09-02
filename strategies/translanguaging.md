@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: translanguaging
 title: Translanguaging
 description: Leverages multilingual learners' full linguistic repertoire as a resource for learning, while explicitly teaching when to perform in the norms of a named language.
 status: review

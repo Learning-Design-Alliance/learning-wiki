@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: dont_jump_into_fix_it_mode
 title: Don’t Jump Into "Fix It" Mode
 description: Resist the urge to immediately find solutions; listen and understand first, then collaborate on what support the learner actually wants.
 status: review

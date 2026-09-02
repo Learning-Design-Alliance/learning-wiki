@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: emotion_songs
 title: Emotion Songs
 description: Emotion songs involve creating or adapting songs to explore, label, and express different emotions.
 status: review

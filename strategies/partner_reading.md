@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: partner_reading
 title: Partner Reading
 description: Partner reading is a cooperative learning strategy in which two learners take turns reading an assigned text aloud and provide each other with immediate corrective feedback to build fluency and monitor comprehension.
 status: review

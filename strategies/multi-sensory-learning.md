@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: multi-sensory-learning
 title: Multi Sensory Learning
 description: Combining multiple sensory modalities (visual, auditory, kinesthetic, tactile) in instruction so that information is encoded through complementary channels.
 status: review

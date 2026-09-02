@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: time-management-in-instruction
 title: Time Management In Instruction
 description: Structuring and pacing instructional time so that available minutes are allocated to activities with the highest learning payoff.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: letter_names_and_letter_sounds_instruction
 title: Letter Names and Letter Sounds Instruction
 description: Explicit, systematic teaching of letter names and letter–sound correspondences as the foundation for decoding, spelling, and word recognition.
 status: review

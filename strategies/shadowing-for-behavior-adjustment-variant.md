@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: shadowing-for-behavior-adjustment-variant
 title: Shadowing (for behavior adjustment)
 description: "An adult follows a child everywhere they go, staying within arm's reach to prevent unwanted behavior before it happens."
 status: review

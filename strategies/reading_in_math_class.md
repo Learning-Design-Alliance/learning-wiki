@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reading_in_math_class
 title: Reading in Math Class
 description: "Have students read articles from sources such as Math Horizons or Martin Gardner's Scientific American columns."
 status: review

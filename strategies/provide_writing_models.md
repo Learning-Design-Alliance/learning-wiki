@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: provide_writing_models
 title: Provide Writing Models
 description: Sharing exemplary pieces of writing with learners so they can observe, analyze, and emulate effective writing techniques and structures before producing their own.
 status: review

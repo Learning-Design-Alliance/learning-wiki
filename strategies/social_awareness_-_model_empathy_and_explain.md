@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: social_awareness_-_model_empathy_and_explain
 title: Social Awareness - Model Empathy and Explain
 description: The facilitator models empathic reasoning aloud and leads explicit discussions of perspectives, emotions, and social issues — including social justice topics — using current events and fictional characters as anchors.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: journaling_for_metacognitive_awareness
 title: Journaling for Metacognitive Awareness
 description: Journaling involves writing or recording thoughts and feelings to develop metacognitive awareness and build self-regulation skills.
 status: review

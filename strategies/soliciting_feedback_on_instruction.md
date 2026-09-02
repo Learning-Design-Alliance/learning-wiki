@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: soliciting_feedback_on_instruction
 title: Soliciting Feedback on Instruction
 description: Instructors systematically gather, interpret, and act on learner feedback about their teaching to improve instructional quality.
 status: review

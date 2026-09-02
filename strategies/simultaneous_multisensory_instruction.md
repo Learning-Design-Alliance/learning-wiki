@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: simultaneous_multisensory_instruction
 title: Simultaneous Multisensory Instruction
 description: Teaching language skills by having learners simultaneously see, say, hear, and write/trace the same content, linking multiple sensory modalities to one linguistic unit.
 status: review

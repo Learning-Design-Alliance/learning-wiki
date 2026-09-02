@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: text-to-speech-tts
 title: Text-to-Speech (TTS)
 description: Text-to-speech (TTS) technology converts written text into spoken words, enhancing accessibility and comprehension for individuals with dyslexia, visual impairments, or other learning differences.
 status: review

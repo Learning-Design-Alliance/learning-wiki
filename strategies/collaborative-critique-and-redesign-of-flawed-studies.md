@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: collaborative-critique-and-redesign-of-flawed-studies
 title: Collaborative Critique and Redesign of Flawed Studies
 description: Small groups evaluate a flawed psychological study reported in a popular source (newspaper, TED talk, podcast), then design a better study to test the same claim — forcing engagement with the epistemic ideals underlying good study design, not just its mechanics.
 status: draft

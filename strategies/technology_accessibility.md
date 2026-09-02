@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: technology_accessibility
 title: Technology Accessibility
 description: Ensuring learners have ready access to a varied set of digital and media tools — and the support to use them — so that learning activities are not limited by equipment, skills, or environment.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: communicating-high-expectations
 title: Communicating High Expectations
 description: Explicitly conveying to learners that they are capable of meeting ambitious standards, and pairing that message with the support needed to reach them.
 status: review

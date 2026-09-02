@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: four_moves_and_a_habit
 title: Four Moves and a Habit
 description: "A framework for fact-checking that includes four key moves: Check for previous work, go upstream to find the source, read laterally, and circle back."
 status: review

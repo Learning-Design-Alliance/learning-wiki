@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: calibrated_peer_review
 title: Calibrated Peer Review
 description: A structured peer assessment process in which learners first evaluate benchmark samples to calibrate their judgment, then review peers' work and receive reviews of their own.
 status: review

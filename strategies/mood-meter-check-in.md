@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mood-meter-check-in
 title: Mood Meter Check In
 description: A brief structured check-in in which learners locate their current emotional state on a two-dimensional mood grid (valence × energy) to build emotion vocabulary and self-awareness.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: word_walls
 title: Word Walls
 description: Word walls are a strategy for supporting vocabulary development and retention by providing learners with constant access to important content vocabulary.
 status: review

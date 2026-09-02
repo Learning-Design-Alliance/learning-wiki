@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: craap_test
 title: CRAAP Test
 description: A checklist-based rubric (Currency, Relevance, Authority, Accuracy, Purpose) that guides learners through evaluating the credibility of a source such as a website.
 status: review

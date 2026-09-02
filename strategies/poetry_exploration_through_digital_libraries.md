@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: poetry_exploration_through_digital_libraries
 title: Poetry Exploration through Digital Libraries
 description: Using digital libraries with audio and visual components to engage learners with a variety of poems.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: family-interview-based-assessment-task-design
 title: Family-Interview-Based Assessment Task Design
 description: A design process for building formative assessment tasks that reveal disciplinary competence (e.g., computational thinking) embedded in a specific community's everyday practices, by interviewing families to surface funds of knowledge before designing the task.
 status: draft

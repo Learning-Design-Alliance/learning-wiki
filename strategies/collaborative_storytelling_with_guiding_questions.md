@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: collaborative_storytelling_with_guiding_questions
 title: Collaborative Storytelling with Guiding Questions
 description: Students work in pairs to co-create a narrative by responding to a sequence of guiding questions, with individual thinking preceding pair negotiation, culminating in a written, illustrated, and orally presented story.
 status: review

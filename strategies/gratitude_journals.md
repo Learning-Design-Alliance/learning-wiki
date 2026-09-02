@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: gratitude_journals
 title: Gratitude Journals
 description: Learners regularly record things they are grateful for, with structured prompts, to improve well-being, motivation, and classroom engagement.
 status: review

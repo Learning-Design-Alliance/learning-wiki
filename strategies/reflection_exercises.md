@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reflection_exercises
 title: Reflection Exercises
 description: Reflection exercises are structured activities that prompt learners to examine their own experiences, feelings, and behaviors in order to build self-awareness, self-regulation, and deeper learning from experience.
 status: review

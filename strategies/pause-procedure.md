@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: pause-procedure
 title: Pause Procedure
 description: Pausing a lecture for about two minutes every 12-18 minutes so students can discuss and rework their notes in pairs significantly increases learning compared to uninterrupted lecture, at essentially no redesign cost.
 status: draft

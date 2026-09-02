@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reading_online_strategy-formulating_effective_search_queries
 title: "Reading Online Strategy: Formulating Effective Search Queries"
 description: This strategy focuses on teaching students how to formulate effective search queries to locate reliable information online.
 status: review

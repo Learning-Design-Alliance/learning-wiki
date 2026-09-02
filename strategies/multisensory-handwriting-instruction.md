@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: multisensory-handwriting-instruction
 title: Multisensory Handwriting Instruction
 description: Teaching letter formation by simultaneously engaging visual, auditory/verbal, and kinesthetic-tactile channels so that motor, perceptual, and phonological representations of letters are built together.
 status: review

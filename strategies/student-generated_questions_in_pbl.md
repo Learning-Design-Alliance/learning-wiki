@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: student-generated_questions_in_pbl
 title: Student-Generated Questions in PBL
 description: Sparking engagement with student-generated questions involves encouraging students to investigate topics they care about and identify questions they want to answer.
 status: review

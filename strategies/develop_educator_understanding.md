@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: develop_educator_understanding
 title: Develop Educator Understanding
 description: Educators build their own knowledge of self-awareness, learner variability, and the research behind them so they can interpret student behavior accurately and choose supports deliberately.
 status: review

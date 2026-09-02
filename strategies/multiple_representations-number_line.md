@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: multiple_representations-number_line
 title: "Multiple Representations: Number Line"
 description: The number line is used as a visual representation of numerical relationships, supporting number sense, magnitude comparison, and place value through spatial-quantitative mapping.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: partner-reading
 title: Partner Reading
 description: Two learners take turns reading an assigned text aloud to each other, providing feedback and monitoring comprehension.
 status: review

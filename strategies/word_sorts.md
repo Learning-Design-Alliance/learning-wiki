@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: word_sorts
 title: Word Sorts
 description: Learners categorize word cards by shared orthographic, phonological, or morphological features, inducing spelling-sound patterns through comparison rather than memorizing rules.
 status: review

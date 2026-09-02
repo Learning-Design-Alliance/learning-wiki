@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: pre-reading_strategies
 title: Pre-Reading Strategies
 description: Activities completed before reading a text that activate prior knowledge, build necessary background, and set a purpose to improve comprehension.
 status: review

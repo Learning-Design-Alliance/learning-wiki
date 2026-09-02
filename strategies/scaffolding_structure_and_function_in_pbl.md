@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: scaffolding_structure_and_function_in_pbl
 title: Scaffolding Structure and Function in PBL
 description: Providing learners in project-based learning with explicit language structures (sentence starters, stems, frames) that scaffold both the form and the communicative function of academic discourse.
 status: review

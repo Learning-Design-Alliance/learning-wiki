@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: emotion_vocabulary_building
 title: Emotion Vocabulary Building
 description: Explicitly teaching learners a differentiated lexicon for emotions so they can identify, label, and communicate internal states with precision.
 status: review

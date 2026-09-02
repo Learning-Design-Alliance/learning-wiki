@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: multiple_texts
 title: Multiple Texts
 description: "Reading multiple texts on the same topic expands learners' understanding, encourages critical thinking, and fosters synthesis skills."
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: collaborative_problem-solving_with_sticky_notes
 title: Collaborative Problem Solving With Sticky Notes
 description: Learners individually solve a problem on sticky notes, then share and discuss their responses in small groups to build a synthesized "best possible answer."
 status: review

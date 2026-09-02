@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: emotional_vocabulary_building
 title: Emotional Vocabulary Building
 description: Learners are provided direct access to emotion words, using a word wall or chart to expand their emotional vocabulary.
 status: review

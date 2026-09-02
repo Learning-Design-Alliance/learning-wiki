@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: cognitive-strategy-instruction
 title: Cognitive Strategy Instruction
 description: Explicitly teaching learners cognitive strategies — such as summarizing, self-questioning, or problem decomposition — so they can independently perform complex cognitive tasks.
 status: review

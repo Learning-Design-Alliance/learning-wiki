@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reading-workshop
 title: Reading Workshop
 description: A structured literacy block in which students read self-selected books at their own level while the teacher delivers brief explicit mini-lessons and confers individually.
 status: review

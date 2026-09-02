@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: character_profile_creation
 title: Character Profile Creation
 description: Students create character profiles to help them form a deeper understanding of a book's characters.
 status: review

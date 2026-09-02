@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: graphic-organizers
 title: Graphic Organizers
 description: Visual-spatial displays (maps, matrices, hierarchies) that externalize the structure of content so learners can see relationships among concepts at a glance.
 status: review

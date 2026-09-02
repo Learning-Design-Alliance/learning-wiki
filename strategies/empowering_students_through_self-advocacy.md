@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: empowering_students_through_self-advocacy
 title: Empowering Students Through Self-Advocacy
 description: Empowering students to advocate for themselves involves teaching them about their rights and needs, and providing them with opportunities to communicate and act on that understanding.
 status: review

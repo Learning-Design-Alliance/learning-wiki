@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: leveled-text-reading
 title: Leveled Text Reading
 description: Matching texts to learners' assessed reading levels so students read material they can decode and comprehend with light support, with levels adjusted as skill grows.
 status: review

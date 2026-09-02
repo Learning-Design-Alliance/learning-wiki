@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: teacher_modeling
 title: Teacher Modeling
 description: Demonstrating writing strategies and techniques by showing students how you use them yourself, including the struggles and revisions along the way.
 status: review

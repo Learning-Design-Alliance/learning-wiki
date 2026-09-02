@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: categorization
 title: Categorization
 description: Learners sort, group, or classify cases, examples, or problems by underlying structure, building category knowledge that supports transfer.
 status: review

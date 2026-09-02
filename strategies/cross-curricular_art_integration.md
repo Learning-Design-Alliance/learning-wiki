@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: cross-curricular_art_integration
 title: Cross-Curricular Art Integration
 description: Integrating art-making with other subjects such as science, history, and mathematics so learners express and consolidate academic content through artistic production.
 status: review

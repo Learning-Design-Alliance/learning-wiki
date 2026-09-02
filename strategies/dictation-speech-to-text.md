@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: dictation-speech-to-text
 title: Dictation/Speech-to-text
 description: Dictation, also known as speech-to-text or voice recognition, involves using technology to convert spoken words into written text.
 status: review

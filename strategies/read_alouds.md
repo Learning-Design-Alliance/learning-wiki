@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: read_alouds
 title: Read-Alouds
 description: The teacher reads a text aloud to learners while modeling fluent reading, thinking, and vocabulary engagement, making complex text accessible beyond learners' independent reading levels.
 status: review

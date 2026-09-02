@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: professional-learning-communities
 title: Professional Learning Communities
 description: Structured, sustained teacher collaboration focused on student learning, in which teams examine evidence, refine instruction, and hold themselves collectively accountable for results.
 status: review

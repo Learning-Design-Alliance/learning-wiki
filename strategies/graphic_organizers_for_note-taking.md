@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: graphic_organizers_for_note-taking
 title: Graphic Organizers for Note-Taking
 description: Learners use graphic organizers to structure notes from readings, research, films, or podcasts.
 status: review

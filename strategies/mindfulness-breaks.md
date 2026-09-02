@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mindfulness-breaks
 title: Mindfulness Breaks
 description: Short, structured activities that direct attention to the present moment, used to restore focus, reduce stress, and support self-regulation during learning.
 status: review

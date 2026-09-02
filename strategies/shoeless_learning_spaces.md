@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: shoeless_learning_spaces
 title: Shoeless Learning Spaces
 description: Learners remove their shoes in the learning space, creating a home-like, relaxed environment intended to lower stress and increase comfort and engagement.
 status: review

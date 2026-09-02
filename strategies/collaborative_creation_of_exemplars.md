@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: collaborative_creation_of_exemplars
 title: Collaborative Creation of Exemplars
 description: After completing collaborative problem-solving tasks, learners examine leveled exemplars of responses and identify the characteristics of each level, then co-construct anchor charts that make quality criteria explicit.
 status: review

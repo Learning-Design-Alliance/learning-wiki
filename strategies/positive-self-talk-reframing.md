@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: positive-self-talk-reframing
 title: Positive Self Talk Reframing
 description: Learners are taught to notice negative internal dialogue and replace it with constructive, instructional, or distanced self-statements that support persistence and performance.
 status: review

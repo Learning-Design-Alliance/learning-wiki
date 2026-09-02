@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: political_education
 title: Political Education
 description: Political education develops learners' understanding of the historical, social, and political contexts that shape a problem, including power dynamics and systemic root causes, before empirical research or action.
 status: review

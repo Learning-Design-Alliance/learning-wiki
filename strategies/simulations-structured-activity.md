@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: simulations-structured-activity
 title: Simulations + Structured Activity
 description: Students engage with simulations designed to provide hands-on experience with real-world scenarios or abstract concepts, paired with a structured activity that directs attention, prompts decisions, and consolidates learning.
 status: review

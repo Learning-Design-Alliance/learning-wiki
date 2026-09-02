@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: silent_game_incentive
 title: Silent Game Incentive
 description: A gamified classroom-management routine in which students earn collective game-board advancement by meeting a timed quietness goal after an activity.
 status: review

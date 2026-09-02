@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: utility-value-connections
 title: Utility Value Connections
 description: A motivational strategy in which learners articulate or receive explicit connections between course content and their own lives, goals, or interests.
 status: review

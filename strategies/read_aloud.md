@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: read_aloud
 title: Read Aloud
 description: Having learners read text, questions, or their own writing aloud to leverage auditory processing, the production effect, and self-monitoring.
 status: review

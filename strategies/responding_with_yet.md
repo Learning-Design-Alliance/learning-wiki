@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: responding_with_yet
 title: "Responding with \"Yet\""
 description: "Adding the word \"yet\" to responses when learners express frustration or inability (e.g., \"I can't do this\") introduces the idea of a growth mindset, fostering the belief that abilities can improve over time."
 status: review

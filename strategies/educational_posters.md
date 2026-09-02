@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: educational_posters
 title: Educational Posters
 description: Educational posters are persistent visual displays in the learning environment that reference key concepts, strategies, or resources.
 status: review

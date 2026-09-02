@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: follow_the_platinum_rule
 title: Follow the Platinum Rule
 description: Treat others the way they want and need to be treated, rather than the way you would want to be treated.
 status: review

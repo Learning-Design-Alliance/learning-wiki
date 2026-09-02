@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: student-shadowing-teacher-coach-observation
 title: Student Shadowing (Teacher/Coach Observation)
 description: A teacher or coach shadows a student to gain insights into their experiences and identify areas for improvement in teaching practices.
 status: review

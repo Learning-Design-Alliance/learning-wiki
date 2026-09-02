@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: encourage_active_learning
 title: Encourage Active Learning
 description: Learning is not a spectator sport — learners must talk, write, apply, and reflect on material rather than passively receive it.
 status: review

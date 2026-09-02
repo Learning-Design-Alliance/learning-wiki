@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: brief_instruction_steps
 title: Brief Instruction Steps
 description: Breaking up instructions into short, concrete steps allows learners to pay attention to and remember one instruction at a time.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: emphasize_time_on_task
 title: Emphasize Time on Task
 description: Learning requires sufficient, well-allocated, and engaged time — there is no substitute for time on task.
 status: review

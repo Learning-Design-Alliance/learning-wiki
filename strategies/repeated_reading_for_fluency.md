@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: repeated_reading_for_fluency
 title: Repeated Reading for Fluency
 description: Learners reread the same passage multiple times until reaching a fluency criterion, building automatic word recognition that frees cognitive resources for comprehension.
 status: review

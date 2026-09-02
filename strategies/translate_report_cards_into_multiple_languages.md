@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: translate_report_cards_into_multiple_languages
 title: Translate Report Cards Into Multiple Languages
 description: Translating report cards and progress communications into families' home languages so that all parents can understand their child's academic progress.
 status: review

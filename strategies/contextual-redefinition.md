@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: contextual-redefinition
 title: Contextual Redefinition
 description: Learners encounter an unfamiliar word in a rich sentence context, hypothesize its meaning, then receive confirmation or correction to refine the definition.
 status: review

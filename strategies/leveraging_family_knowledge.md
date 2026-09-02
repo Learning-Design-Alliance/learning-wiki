@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: leveraging_family_knowledge
 title: Leveraging Family Knowledge
 description: Teachers enhance curriculum and instruction by inviting students to contribute their cultural experience, funds of knowledge, talents, and interests to classroom learning.
 status: review

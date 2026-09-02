@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: share_teachers_written_work
 title: "Share Teacher's Written Work"
 description: Instructors share their own written work with learners, soliciting feedback and criticism to model the value of continuous improvement.
 status: review

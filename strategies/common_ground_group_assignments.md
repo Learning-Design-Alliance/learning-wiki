@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: common_ground_group_assignments
 title: Common Ground Group Assignments
 description: Designing collaborative tasks that surface learners' shared interests, values, or goals to build belonging and productive teamwork.
 status: review

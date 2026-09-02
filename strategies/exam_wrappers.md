@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: exam_wrappers
 title: Exam Wrappers
 description: A short reflective activity completed immediately before or after an exam in which students analyze their preparation strategies and performance to improve future studying.
 status: review

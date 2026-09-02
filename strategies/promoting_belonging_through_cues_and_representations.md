@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: promoting_belonging_through_cues_and_representations
 title: Promoting Belonging Through Cues and Representations
 description: Deliberately shaping the ambient signals of a learning environment — images, examples, objects, language, and who is visibly present — so learners can read the setting as one they belong in.
 status: review

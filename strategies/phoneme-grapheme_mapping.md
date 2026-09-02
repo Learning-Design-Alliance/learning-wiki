@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: phoneme-grapheme_mapping
 title: Phoneme-Grapheme Mapping
 description: Phoneme-grapheme mapping is a strategy used to match the letters or letter combinations (graphemes) in a word to the speech sounds (phonemes) they represent.
 status: review

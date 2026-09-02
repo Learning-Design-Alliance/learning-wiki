@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: producing_counter-texts
 title: Producing Counter-texts
 description: Producing counter-texts involves crafting alternative versions of existing texts to highlight missing perspectives, challenge stereotypes, and address biases.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: complex_instruction
 title: Complex Instruction
 description: "A pedagogy that redefines who is 'smart' by utilizing multi-ability access points, norms and roles that support interdependency between learners, and attention to status and accountability for learning."
 status: review

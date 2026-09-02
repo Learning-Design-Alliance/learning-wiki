@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-monitoring_of_behavior
 title: Self-Monitoring of Behavior
 description: Self-monitoring is a strategy where learners self-assess their behavior and record the results, increasing or decreasing the frequency, intensity, or duration of existing behavior.
 status: review

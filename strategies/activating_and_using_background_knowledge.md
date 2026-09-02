@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: activating_and_using_background_knowledge
 title: Activating And Using Background Knowledge
 description: Readers activate their existing knowledge before, during, and after reading, and use it as a foundation for comprehending new text.
 status: review

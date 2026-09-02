@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: drawing_for_formative_assessment
 title: Drawing for Formative Assessment
 description: Inviting learners to express their understanding through drawings provides insights into their comprehension and any misconceptions.
 status: review

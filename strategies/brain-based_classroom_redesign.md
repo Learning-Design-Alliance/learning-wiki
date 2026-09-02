@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: brain-based_classroom_redesign
 title: Brain-Based Classroom Redesign
 description: Redesigning the physical classroom environment to support attention, movement, choice, and collaboration by reducing environmental distractions and creating a welcoming, learner-shaped space.
 status: review

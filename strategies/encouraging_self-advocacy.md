@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: encouraging_self-advocacy
 title: Encouraging Self Advocacy
 description: Self advocacy involves understanding one's own needs, articulating what supports would help, and communicating those needs to others to build independence and problem-solving capacity.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: assume_support
 title: Assume Support
 description: Approach every family as willing and capable of supporting learning, while recognizing that capacity to engage varies widely — design outreach and expectations accordingly.
 status: review

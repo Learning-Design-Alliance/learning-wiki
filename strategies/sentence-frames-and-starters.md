@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: sentence-frames-and-starters
 title: Sentence Frames And Starters
 description: Partially completed sentence templates that give learners the linguistic structure to express academic ideas, reducing language demands so cognitive effort goes to content.
 status: review

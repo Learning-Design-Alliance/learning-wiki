@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: providing_choices_about_content
 title: Providing Choices About Content
 description: Mature learners decide what to learn when they discover there's something they need to know or something about which they need to know more.
 status: review

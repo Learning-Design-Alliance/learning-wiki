@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: simulation-based-training
 title: Simulation Based Training
 description: Learners practice skills in a replicated or synthetic task environment where errors are safe and performance can be systematically varied, observed, and debriefed.
 status: review

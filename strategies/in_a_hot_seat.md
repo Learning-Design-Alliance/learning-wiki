@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: in_a_hot_seat
 title: In A Hot Seat
 description: Learners create a character different from themselves from a stimulus such as a photo or object, then answer classmates' questions in character from a designated "hot seat."
 status: review

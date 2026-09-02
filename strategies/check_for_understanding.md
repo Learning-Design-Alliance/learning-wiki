@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: check_for_understanding
 title: Check for Understanding
 description: After giving instructions, verify comprehension through targeted questioning and observation before learners begin independent work.
 status: review

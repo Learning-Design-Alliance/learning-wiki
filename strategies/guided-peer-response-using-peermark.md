@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: guided-peer-response-using-peermark
 title: Guided Peer Response using PeerMark™
 description: Instructors pre-set structured questions in Turnitin PeerMark™ that learners answer when reviewing peers' work, scaffolding the quality and focus of peer feedback.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-regulation_scaffolding
 title: Self-Regulation Scaffolding
 description: Scaffolding provides learners with a safe and emotionally supportive context to learn how to manage their responses to challenging or stimulating situations.
 status: review

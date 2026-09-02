@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: body_scan_meditation
 title: Body Scan Meditation
 description: A guided mindfulness practice in which learners systematically attend to physical sensations across the body, used to build attentional control, emotional awareness, and self-regulation.
 status: review

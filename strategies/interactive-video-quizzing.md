@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: interactive-video-quizzing
 title: Interactive Video Quizzing
 description: Embedding questions at intervals within video content to prompt active processing, check understanding, and sustain attention.
 status: review

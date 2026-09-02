@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: self-monitoring-of-behavior
 title: Self-Monitoring of Behavior
 description: Learners observe and record their own behavior (attention, compliance, performance), producing reactive improvements in the monitored behavior and building self-regulation.
 status: review

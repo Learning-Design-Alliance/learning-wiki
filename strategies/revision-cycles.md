@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: revision-cycles
 title: Revision Cycles
 description: Structured cycles in which learners produce work, receive feedback, and revise it before final submission or publication.
 status: review

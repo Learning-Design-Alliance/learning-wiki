@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: publishing-student-work
 title: Publishing Student Work
 description: Students share finished work with a real audience beyond the teacher, giving their writing, projects, or performances authentic purpose and consequence.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: student-created_magazines
 title: Student Created Magazines
 description: Learners research, write, edit, and design a magazine issue for a real audience, combining disciplinary writing with authentic publication.
 status: review

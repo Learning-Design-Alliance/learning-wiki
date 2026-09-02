@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: writing_process_approach
 title: Writing Process Approach
 description: A process-oriented approach to writing instruction that treats writing as recursive planning, drafting, and revising, situated in a collaborative classroom community with authentic audiences and purposes.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: videos
 title: Videos
 description: Videos are dynamic resources for supporting curricula, engaging students through sight and sound.
 status: review

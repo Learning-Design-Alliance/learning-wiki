@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: student_presentation_of_collaborative_work
 title: Student Presentation of Collaborative Work
 description: After completing a collaborative problem-solving task, groups project their work and present their final responses to the class, explaining their reasoning and process.
 status: review

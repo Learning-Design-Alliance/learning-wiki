@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: generative_processing
 title: Generative Processing
 description: Prompting learners to actively construct new knowledge by organizing, integrating, and transforming instructional material rather than passively receiving it.
 status: review

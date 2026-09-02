@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: mathematical_dance
 title: Mathematical Dance
 description: Mathematical dance uses choreographed movement to embody and illustrate mathematical concepts, combining performance with conceptual learning.
 status: review

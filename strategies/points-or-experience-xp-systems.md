@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: points-or-experience-xp-systems
 title: Points or Experience (XP) Systems
 description: Point systems or experience (XP) systems reward learners for completing tasks, assignments, or assessments, accumulating points toward flexible goals.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: soap-specific-observable-appropriate-personal
 title: SOAP (Specific, Observable, Appropriate, Personal)
 description: SOAP is an acronym that guides teachers in selecting behaviors for students to self-monitor, ensuring each target behavior is well-defined and suitable for the individual learner.
 status: review

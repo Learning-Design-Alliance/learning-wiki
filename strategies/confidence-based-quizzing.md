@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: confidence-based-quizzing
 title: Confidence Based Quizzing
 description: Learners answer quiz items and simultaneously rate their confidence, with scoring or feedback adjusted to reward accurate self-assessment as well as correct answers.
 status: review

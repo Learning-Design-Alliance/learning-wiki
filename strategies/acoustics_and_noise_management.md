@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: acoustics_and_noise_management
 title: Acoustics and Noise Management
 description: Managing classroom acoustics and noise levels to protect attention, speech intelligibility, and working memory resources for both learners and teachers.
 status: review

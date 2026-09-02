@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: discussion_web
 title: Discussion Web
 description: A discussion web is a graphic organizer that enables students to examine both sides of an issue before agreeing on a conclusion, promoting deeper processing of texts through meaningful conversational discussion.
 status: review

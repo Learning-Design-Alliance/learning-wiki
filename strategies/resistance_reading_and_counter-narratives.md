@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: resistance_reading_and_counter-narratives
 title: Resistance Reading and Counter-Narratives
 description: "Resistance reading and writing counter-narratives are strategies to develop learners' abilities to critique a text (or an image or other media) and to respond in writing, sharing their concerns and critiques."
 status: review

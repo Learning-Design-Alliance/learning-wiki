@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: empathy-walks
 title: Empathy Walks
 description: Learners physically or imaginatively walk through a situation from another person's perspective, then reflect on the experience to build empathic understanding.
 status: review

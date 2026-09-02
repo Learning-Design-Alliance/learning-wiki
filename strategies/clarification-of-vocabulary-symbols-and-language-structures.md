@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: clarification-of-vocabulary-symbols-and-language-structures
 title: Clarification of Vocabulary, Symbols, and Language Structures
 description: Supporting learners to construct meaning from words, symbols, and numbers using multiple representations, explicit definitions, and clarified language structures.
 status: review

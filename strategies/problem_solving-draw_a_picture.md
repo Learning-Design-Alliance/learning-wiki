@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: problem_solving-draw_a_picture
 title: Problem Solving Draw A Picture
 description: Learners represent a problem's structure in a drawing or diagram before or during solving, converting verbal or numerical information into a visual model.
 status: review

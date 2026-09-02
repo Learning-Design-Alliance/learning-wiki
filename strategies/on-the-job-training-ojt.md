@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: on-the-job-training-ojt
 title: "On-the-Job Training (OJT)"
 description: Training delivered at the workplace during real production work, where an experienced worker guides a learner through actual tasks rather than simulated ones.
 status: review

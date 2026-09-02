@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: connecting
 title: Connecting
 description: Connecting involves relating a current problem or text to prior knowledge and experiences so new material is understood as a meaningful extension of what learners already know.
 status: review

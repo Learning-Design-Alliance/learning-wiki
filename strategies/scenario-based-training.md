@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: scenario-based-training
 title: Scenario Based Training
 description: Learners practice decision-making and skill application inside a realistic, contextualized scenario that simulates the conditions of real performance.
 status: review

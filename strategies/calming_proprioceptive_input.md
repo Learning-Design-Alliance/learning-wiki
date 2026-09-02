@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: calming_proprioceptive_input
 title: Calming Proprioceptive Input
 description: "Using proprioceptive input, also known as \"heavy work,\" involves engaging muscles and joints to provide a calming and organizing sensory experience."
 status: review

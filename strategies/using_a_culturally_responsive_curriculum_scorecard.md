@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: using_a_culturally_responsive_curriculum_scorecard
 title: Using a Culturally Responsive Curriculum Scorecard
 description: A collaborative audit tool in which diverse stakeholder teams systematically score curriculum materials for representation, social justice content, and culturally responsive teaching practices.
 status: review

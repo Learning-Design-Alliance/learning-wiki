@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: modeling_skills_and_interaction
 title: Modeling Skills and Interaction
 description: Modeling involves demonstrating the skills you expect from your students, both in terms of interaction and analysis.
 status: review

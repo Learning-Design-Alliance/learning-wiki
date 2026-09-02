@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: bell-ringer
 title: Bell Ringer
 description: A short, structured opening activity completed by students in the first minutes of class to activate prior knowledge, retrieve prior learning, or set the day's focus.
 status: review

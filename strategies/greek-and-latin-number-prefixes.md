@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: greek-and-latin-number-prefixes
 title: Greek And Latin Number Prefixes
 description: Teaching the small set of Greek and Latin number prefixes (uni-, bi-, tri-, quad-, cent-, mono-, poly-, etc.) as a high-leverage morphological family that unlocks meaning across mathematics, science, and general academic vocabulary.
 status: review

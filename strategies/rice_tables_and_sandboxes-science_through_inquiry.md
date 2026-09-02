@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: rice_tables_and_sandboxes-science_through_inquiry
 title: Rice Tables And Sandboxes Science Through Inquiry
 description: Using sensory tables (rice, sand, water) as open-ended inquiry environments where young children investigate physical science concepts through manipulation, prediction, and observation.
 status: review

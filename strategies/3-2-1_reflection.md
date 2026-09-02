@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: 3-2-1_reflection
 title: 3 2 1_Reflection
 description: A structured closure routine in which learners record 3 things they learned, 2 things they found interesting or want to know more about, and 1 question or lingering confusion.
 status: review

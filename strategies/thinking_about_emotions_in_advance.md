@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: thinking_about_emotions_in_advance
 title: Thinking About Emotions in Advance
 description: Begin instruction by prompting students to surface and name their current emotional states before academic work begins.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: integrating_movement_into_daily_activities
 title: Integrating Movement into Daily Activities
 description: Embedding physical activity into routines and tasks that are typically sedentary, so movement accrues without dedicated exercise sessions.
 status: review

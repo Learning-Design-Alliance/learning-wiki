@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: math_vocabulary_word_walls
 title: Math Vocabulary Word Walls
 description: Create a class word wall displaying mathematical terms and vocabulary to support working memory and develop language skills.
 status: review

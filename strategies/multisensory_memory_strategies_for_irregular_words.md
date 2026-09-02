@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: multisensory_memory_strategies_for_irregular_words
 title: Multisensory Memory Strategies for Irregular Words
 description: Multisensory memory strategies for irregular words involve using multiple senses (visual, auditory, kinesthetic, and tactile) to enhance memory and retention of irregularly spelled words.
 status: review

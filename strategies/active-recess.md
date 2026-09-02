@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: active-recess
 title: Active Recess
 description: Structured or semi-structured physical activity during scheduled breaks from instruction, used to restore attention and support subsequent learning.
 status: review

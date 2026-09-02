@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: structuring-group-work
 title: Structuring Group Work
 description: Designing collaborative tasks with defined roles, individual accountability, and explicit interaction protocols so group activity produces learning rather than mere activity.
 status: review

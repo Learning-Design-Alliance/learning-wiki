@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: curating_resources
 title: Curating Resources
 description: Selecting, organizing, and annotating a deliberately limited set of learning materials so learners spend effort on learning rather than searching, evaluating, and triaging content.
 status: review

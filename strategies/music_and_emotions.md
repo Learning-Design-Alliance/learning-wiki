@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: music_and_emotions
 title: Music and Emotions
 description: Learners listen to different types of music and discuss how it makes them feel, fostering emotional awareness and providing a creative outlet for emotional expression.
 status: review

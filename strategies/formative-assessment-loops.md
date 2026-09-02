@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: formative-assessment-loops
 title: Formative Assessment Loops
 description: A cyclical strategy in which evidence of student understanding is gathered mid-instruction, interpreted against learning goals, and used to adjust both teaching and learning before summative evaluation.
 status: review

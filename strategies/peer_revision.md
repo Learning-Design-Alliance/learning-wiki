@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: peer_revision
 title: Peer Revision
 description: Learners exchange drafts and provide structured feedback on each other's work, then revise based on that feedback.
 status: review

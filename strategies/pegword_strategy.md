@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: pegword_strategy
 title: Pegword Strategy
 description: The pegword strategy is a mnemonic technique that uses rhyming words to represent numbers or order.
 status: review

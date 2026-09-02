@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: parental_modeling_of_reading
 title: Parental Modeling of Reading
 description: Parents demonstrate the value of reading by being reading role models themselves, reading books, magazines, or newspapers regularly at home.
 status: review

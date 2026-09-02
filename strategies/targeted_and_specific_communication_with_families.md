@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: targeted_and_specific_communication_with_families
 title: Targeted and Specific Communication with Families
 description: Tailoring message content, language, and mode to specific family populations — such as non-native English speakers, families from different cultural backgrounds, and families of students in special education — so that communication is clear, relevant, and actionable.
 status: review

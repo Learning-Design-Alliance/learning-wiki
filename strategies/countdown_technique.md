@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: countdown_technique
 title: Countdown Technique
 description: "A classroom management technique in which the teacher counts down from a number (e.g., \"I need two people… you know who you are. I need one person…\") to prompt students to quiet down and refocus."
 status: review

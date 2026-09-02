@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: structured_and_sustained_family_engagement_programs
 title: Structured and Sustained Family Engagement Programs
 description: School-wide programs that embed family participation in students' academic learning, sustained across years and evaluated for effectiveness.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: grading-for-equity
 title: Grading For Equity
 description: A set of grading practices designed to make grades accurate representations of learning and to remove bias, opacity, and non-academic penalties that disproportionately harm marginalized students.
 status: review

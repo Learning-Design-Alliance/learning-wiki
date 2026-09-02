@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: digital_publishing
 title: Digital Publishing
 description: Digital publishing involves using online platforms and tools to share student writing and creations with a wider audience, fostering engagement and providing valuable feedback.
 status: review

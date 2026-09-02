@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: distributed-practice-spaced-learning
 title: Distributed Practice (Spaced Learning)
 description: Distributed practice involves reviewing information or practicing skills across multiple sessions spread out over time, rather than in one continuous session (massed practice).
 status: review

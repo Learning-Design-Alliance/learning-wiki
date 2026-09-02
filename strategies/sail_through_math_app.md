@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: sail_through_math_app
 title: Sail through Math App
 description: A pirate-themed iOS app that builds arithmetic fluency in young learners through story-framed, leveled practice with immediate feedback.
 status: review

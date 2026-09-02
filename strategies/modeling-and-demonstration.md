@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: modeling-and-demonstration
 title: Modeling And Demonstration
 description: The instructor or system performs a skill while making reasoning visible, so learners can observe expert performance before attempting it themselves.
 status: review

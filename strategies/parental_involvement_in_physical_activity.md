@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: parental_involvement_in_physical_activity
 title: Parental Involvement in Physical Activity
 description: Engage parents by providing details about the benefits of physical activity and encouraging their participation at school and at home.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: emotion_cue_cards
 title: Emotion Cue Cards
 description: Portable visual or auditory prompts that remind students of self-selected strategies for managing emotions, such as deep breathing, using a fidget, or taking a mindfulness break.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: parent-workshops
 title: Parent Workshops
 description: Structured sessions that teach parents evidence-based ways to support their children's learning at home.
 status: review

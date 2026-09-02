@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: data-driven-dialogue
 title: Data Driven Dialogue
 description: A structured, facilitator-led conversation protocol in which educator teams move through predictable phases — predicting, observing, and inferring — to explore student data before jumping to conclusions or action.
 status: review

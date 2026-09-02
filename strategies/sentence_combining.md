@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: sentence_combining
 title: Sentence Combining
 description: Practice how to combine two simple sentences into a compound or complex sentence.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reflective_journaling
 title: Reflective Journaling
 description: Reflective journaling is a technique used to encourage reflective learning by highlighting students' thoughts and perceptions about course content.
 status: review

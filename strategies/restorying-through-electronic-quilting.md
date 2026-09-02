@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: restorying-through-electronic-quilting
 title: Restorying Computing Futures Through Electronic Quilting
 description: A three-day workshop protocol in which youth deconstruct a group-named dominant stereotype of computer scientists, then design an interactive paper-circuit quilt patch that reconstructs the story from an underrepresented perspective.
 status: draft

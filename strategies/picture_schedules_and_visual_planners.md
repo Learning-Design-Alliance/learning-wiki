@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: picture_schedules_and_visual_planners
 title: Picture Schedules and Visual Planners
 description: Picture schedules or visual planners use images to lay out the steps of a task or routine so learners can follow it without relying on text or adult prompting.
 status: review

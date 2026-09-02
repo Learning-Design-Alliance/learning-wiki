@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: racial_equity_in_pbl_-_spark_engagement_with_student-generated_questions
 title: Racial Equity in PBL - Spark Engagement with Student-Generated Questions
 description: Projects driven by student-generated questions increase engagement and investment, particularly for students of color who may experience teacher-directed instruction as disempowering.
 status: review

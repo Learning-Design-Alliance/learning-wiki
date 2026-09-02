@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: gradual-release-of-responsibility
 title: Gradual Release Of Responsibility
 description: A instructional sequence that shifts cognitive responsibility from teacher to learner through structured phases — "I do, we do, you do" — so that support fades as competence grows.
 status: review

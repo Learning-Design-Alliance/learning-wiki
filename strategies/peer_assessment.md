@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: peer_assessment
 title: Peer Assessment
 description: Learners evaluate each other's work against explicit criteria, providing feedback and judgments that support both the assessor and the assessed.
 status: review

@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: portfolio-assessment
 title: Portfolio Assessment
 description: Learners curate a purposeful collection of work over time, paired with reflection, to demonstrate growth and competence against defined criteria.
 status: review

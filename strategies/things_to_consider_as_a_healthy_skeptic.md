@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: things_to_consider_as_a_healthy_skeptic
 title: Things to Consider as a Healthy Skeptic
 description: Provide adolescents with opportunities to see the value of a healthy skepticism toward information they encounter in both online and offline contexts.
 status: review

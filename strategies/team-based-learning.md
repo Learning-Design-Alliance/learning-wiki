@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: team-based-learning
 title: Team Based Learning
 description: A structured whole-course strategy that uses permanent small teams and a readiness assurance cycle so most class time is spent on team application of concepts rather than direct instruction.
 status: review

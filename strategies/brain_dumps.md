@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: brain_dumps
 title: Brain Dumps
 description: Learners write down everything they can recall about a topic within a set time, turning retrieval itself into a learning event.
 status: review

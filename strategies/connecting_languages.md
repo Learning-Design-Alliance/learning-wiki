@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: connecting_languages
 title: Connecting Languages
 description: Encourage students to see connections between their languages to better understand how languages are structured and organized.
 status: review

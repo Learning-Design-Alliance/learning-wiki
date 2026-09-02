@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: reading_aloud
 title: Reading Aloud
 description: Encouraging students to read questions, texts, and their own writing aloud to leverage auditory processing and the memory advantage of vocal production.
 status: review

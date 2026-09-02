@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: cognitive-apprenticeship
 title: Cognitive Apprenticeship
 description: A strategy that makes expert thinking visible through modeling, then supports learners through coached practice, articulation, reflection, and exploration as they move toward independent performance.
 status: review

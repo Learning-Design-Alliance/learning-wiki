@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: read-alouds_with_discussion
 title: Read-Alouds with Discussion
 description: Teachers read aloud stories depicting social and emotional challenges and facilitate structured discussion that prompts perspective-taking and self-reflection.
 status: review

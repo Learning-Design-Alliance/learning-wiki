@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: role_play
 title: Role Play
 description: Learners act out assigned roles in a simulated scenario, practicing interpersonal skills and decision-making in a safe environment with structured feedback.
 status: review

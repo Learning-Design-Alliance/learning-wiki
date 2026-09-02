@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: multiple_exposures
 title: Multiple Exposures
 description: Multiple exposures provide students with repeated, varied opportunities to encounter, engage with, and elaborate on new knowledge and skills.
 status: review

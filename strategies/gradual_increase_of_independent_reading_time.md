@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: gradual_increase_of_independent_reading_time
 title: Gradual Increase of Independent Reading Time
 description: Start with short independent reading sessions and gradually increase the amount of time as students build reading stamina.
 status: review

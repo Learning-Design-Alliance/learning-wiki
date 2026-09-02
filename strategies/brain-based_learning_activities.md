@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: brain-based_learning_activities
 title: Brain-Based Learning Activities
 description: Activities that engage multiple senses (visual, auditory, kinesthetic, tactile) to activate different parts of the brain, enhancing learning and retention.
 status: review

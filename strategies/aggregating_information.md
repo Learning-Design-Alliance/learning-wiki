@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: aggregating_information
 title: Aggregating Information
 description: Aggregating involves finding and displaying patterns in discussions and other communications so learners can see connections, common themes, and a shared understanding emerge from many individual contributions.
 status: review

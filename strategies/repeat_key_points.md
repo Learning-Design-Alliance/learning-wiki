@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: repeat_key_points
 title: Repeat Key Points
 description: Repeat the key points for students several times and in several different ways.
 status: review

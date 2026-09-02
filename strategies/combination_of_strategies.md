@@ -1,5 +1,6 @@
 ---
 type: strategy
+id: combination_of_strategies
 title: Combination of Strategies
 description: Combining two or more calming sensory strategies to create a more comprehensive and effective approach to self-regulation.
 status: review
