@@ -73,7 +73,7 @@ Racial identity work functions as a prerequisite for culturally responsive pedag
 - **[Teaching Tolerance / Learning for Justice](https://www.learningforjustice.org)** — publishes the "Critical Practices for Anti-bias Education" framework, which begins with teacher identity reflection before classroom practice.
 - **[National Equity Project](https://www.nationalequityproject.org)** — coaching model that embeds racial identity work in leadership and instructional coaching cycles.
 - **Courageous Conversation (Pacific Educational Group)** — a widely used protocol for sustained, facilitated race dialogue among educators, built around agreements that keep difficult conversations productive.
-- **Teacher data inquiry**: equity teams in districts using disaggregated discipline and referral data (e.g., through the [Data Wise](../patterns/data-wise-improvement-process.md) improvement process) to confront racialized patterns in their own practice.
+- **Teacher data inquiry**: equity teams in districts using disaggregated discipline and referral data (e.g., through the [Data Wise](../processes/data-wise-improvement-process.md) improvement process) to confront racialized patterns in their own practice.
 
 ## Key Sources
 - Sleeter, C. E. (2001). Preparing teachers for culturally diverse schools: Research and the overwhelming presence of whiteness. *Review of Educational Research, 71*(2), 195–242. [doi:10.1177/0022487101052002002](https://doi.org/10.1177/0022487101052002002)

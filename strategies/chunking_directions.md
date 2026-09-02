@@ -58,7 +58,7 @@ Working memory can hold only a few elements at once, and lengthy instruction str
 5. Deliver the next chunk only at the point of need; fade chunk size as learners demonstrate they can hold and sequence steps independently.
 
 ## Related Strategies
-- [Task Analysis](../strategies/task-analysis.md) — the prerequisite for identifying meaningful chunks
+- [Task Analysis](../methods/task-analysis.md) — the prerequisite for identifying meaningful chunks
 - [Modeling Multi-Step Processes](../strategies/modeling-multi-step-processes.md) — demonstrating the chunked sequence before learners attempt it
 
 ## Examples

@@ -48,7 +48,7 @@ Pretraining reduces extraneous cognitive load during the main lesson: when learn
 - Reduced cognitive load as a precondition for deeper processing of causal relationships
 
 ### Instructions
-1. Identify the prerequisite concepts, terms, and components the main lesson assumes ([Task Analysis](task-analysis.md))
+1. Identify the prerequisite concepts, terms, and components the main lesson assumes ([Task Analysis](../methods/task-analysis.md))
 2. Design a short pre-instruction segment teaching names, functions, and key characteristics — not the full model ([Advance Organizers](../elements/advance-organizers.md))
 3. Present the pretraining immediately before the main lesson, using the same labels and visuals the lesson will use ([Chunking](../principles/chunking.md))
 4. Briefly reactivate the pretrained knowledge at the start of the main lesson ([Activation](../principles/activation.md))

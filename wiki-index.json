@@ -3,17 +3,21 @@
   "claim": 422,
   "element": 325,
   "learner-variable": 12,
-  "pattern": 134,
+  "method": 12,
+  "pattern": 125,
   "principle": 198,
-  "strategy": 2560,
+  "process": 9,
+  "strategy": 2548,
   "theory": 89
  },
  "kinds": [
   "claim",
   "element",
   "learner-variable",
+  "method",
   "pattern",
   "principle",
+  "process",
   "strategy",
   "theory"
  ],
@@ -6401,6 +6405,102 @@
    "type": "learner-variable"
   },
   {
+   "description": "Building learner personas and design scenarios around the activity system a learner acts within \u2014 object, mediating tools, rules, community and division of labour \u2014 so that the design responds to what constrains the learner rather than to who they are demographically.",
+   "id": "activity-system-personas",
+   "path": "methods/activity-system-personas.md",
+   "status": "review",
+   "title": "Activity-System Personas and Scenarios",
+   "type": "method"
+  },
+  {
+   "description": "A curriculum planning strategy that begins by defining desired learning outcomes and acceptable evidence of achievement, then designs instruction last.",
+   "id": "backward-design",
+   "path": "methods/backward-design.md",
+   "status": "review",
+   "title": "Backward Design",
+   "type": "method"
+  },
+  {
+   "description": "A family of interview and observation methods for eliciting the cues, judgements and decision rules an expert uses but cannot readily articulate \u2014 the tacit content that a procedural task analysis records as a single step.",
+   "id": "cognitive-task-analysis",
+   "path": "methods/cognitive-task-analysis.md",
+   "status": "review",
+   "title": "Cognitive Task Analysis",
+   "type": "method"
+  },
+  {
+   "description": "A design process for building formative assessment tasks that reveal disciplinary competence (e.g., computational thinking) embedded in a specific community's everyday practices, by interviewing families to surface funds of knowledge before designing the task.",
+   "id": "family-interview-based-assessment-task-design",
+   "path": "methods/family-interview-based-assessment-task-design.md",
+   "status": "draft",
+   "title": "Family-Interview-Based Assessment Task Design",
+   "type": "method"
+  },
+  {
+   "description": "Systematically gathering information about learners' prior knowledge, skills, motivations, and constraints to inform instructional design decisions.",
+   "id": "learner-analysis",
+   "path": "methods/learner-analysis.md",
+   "status": "review",
+   "title": "Learner Analysis",
+   "type": "method"
+  },
+  {
+   "description": "Systematic investigation of learners' prior knowledge, characteristics, and the instructional environment before designing instruction, so that design decisions fit who will learn and where.",
+   "id": "learner-and-context-analysis",
+   "path": "methods/learner-and-context-analysis.md",
+   "status": "review",
+   "title": "Learner And Context Analysis",
+   "type": "method"
+  },
+  {
+   "description": "Learner personas are evidence-based composite profiles of representative learners used to ground design decisions in real audience characteristics.",
+   "id": "learner-personas",
+   "path": "methods/learner-personas.md",
+   "status": "review",
+   "title": "Learner Personas",
+   "type": "method"
+  },
+  {
+   "description": "Task analysis identifies the prerequisite skills a target performance requires by repeatedly asking what a learner must already master, arranging the answers into a sequenced learning hierarchy from foundational to complex.",
+   "id": "learning-hierarchy-task-analysis",
+   "path": "methods/learning-hierarchy-task-analysis.md",
+   "status": "draft",
+   "title": "Learning Hierarchy Task Analysis",
+   "type": "method"
+  },
+  {
+   "description": "A design strategy that surfaces and names power dynamics among stakeholders, making decision-making authority explicit and redistributing it across the design process.",
+   "id": "make-the-invisible-visible-power-dynamics",
+   "path": "methods/make-the-invisible-visible-power-dynamics.md",
+   "status": "review",
+   "title": "Make the Invisible Visible (Power Dynamics)",
+   "type": "method"
+  },
+  {
+   "description": "A systematic process for identifying the gap between current and desired performance and determining whether instruction is the right remedy.",
+   "id": "needs-analysis",
+   "path": "methods/needs-analysis.md",
+   "status": "review",
+   "title": "Needs Analysis",
+   "type": "method"
+  },
+  {
+   "description": "Deriving a course's goal tree from an external framework \u2014 a standards set, competency model or certification blueprint \u2014 and carrying the framework's own codes through objectives, activities and assessment items so that coverage and provenance stay traceable in both directions.",
+   "id": "standards-crosswalk",
+   "path": "methods/standards-crosswalk.md",
+   "status": "review",
+   "title": "Standards Crosswalk",
+   "type": "method"
+  },
+  {
+   "description": "A systematic method for breaking down a complex skill or task into its component knowledge, skills, and decision points so instruction can be designed around what learners actually need to master.",
+   "id": "task-analysis",
+   "path": "methods/task-analysis.md",
+   "status": "review",
+   "title": "Task Analysis",
+   "type": "method"
+  },
+  {
    "aliases": [
     "4cid"
    ],
@@ -6620,15 +6720,6 @@
    "type": "pattern"
   },
   {
-   "description": "A post-release design process that treats a shipped course as a hypothesis under test \u2014 instrumenting materials so that use and outcome data are collected together, running short build\u2013measure\u2013learn cycles, and using RISE analysis to decide which resource to revise next.",
-   "grain_size": "course",
-   "id": "continuous-improvement-of-learning-materials",
-   "path": "patterns/continuous-improvement-of-learning-materials.md",
-   "status": "review",
-   "title": "Continuous Improvement of Learning Materials",
-   "type": "pattern"
-  },
-  {
    "description": "Cooperative learning structures small-group work so that members are positively interdependent, individually accountable, and taught explicit collaborative skills.",
    "grain_size": "lesson, unit",
    "id": "cooperative-learning",
@@ -6656,15 +6747,6 @@
    "type": "pattern"
   },
   {
-   "description": "The Data Wise Improvement Process is an eight-step, team-based protocol for using student assessment data to drive instructional improvement in schools.",
-   "grain_size": "program, school",
-   "id": "data-wise-improvement-process",
-   "path": "patterns/data-wise-improvement-process.md",
-   "status": "review",
-   "title": "Data Wise Improvement Process",
-   "type": "pattern"
-  },
-  {
    "description": "Debate is the short-form canonical pattern for structured instructional argumentation around a contested question.",
    "grain_size": "lesson",
    "id": "debate",
@@ -6680,15 +6762,6 @@
    "path": "patterns/debate-format.md",
    "status": "review",
    "title": "Debate Format",
-   "type": "pattern"
-  },
-  {
-   "description": "A course-grain design process \u2014 empathize, define, ideate, prototype, test \u2014 in which a learning experience is built from investigated learner need rather than from a content outline, and revised against evidence from learners before it is finalized.",
-   "grain_size": "course",
-   "id": "design-thinking",
-   "path": "patterns/design-thinking.md",
-   "status": "review",
-   "title": "Design Thinking",
    "type": "pattern"
   },
   {
@@ -6797,15 +6870,6 @@
    "path": "patterns/explicit-teaching.md",
    "status": "review",
    "title": "Explicit Teaching",
-   "type": "pattern"
-  },
-  {
-   "description": "The design process as it actually runs in higher education \u2014 an instructor designing their own course, part-time, alongside teaching it, with a teaching centre consulting rather than approving, and revision happening between offerings rather than within a project.",
-   "grain_size": "course",
-   "id": "faculty-course-design",
-   "path": "patterns/faculty-course-design.md",
-   "status": "review",
-   "title": "Faculty Course Design",
    "type": "pattern"
   },
   {
@@ -6975,15 +7039,6 @@
    "type": "pattern"
   },
   {
-   "description": "A co-design facilitation structure that deliberately makes space for educators' affective and relational experience \u2014 through shared contemplative practice, ritualized check-ins, and reflective field-note protocols \u2014 treating emotion as a design resource rather than a distraction.",
-   "grain_size": "unit",
-   "id": "humanizing-co-design-with-educators",
-   "path": "patterns/humanizing-co-design-with-educators.md",
-   "status": "draft",
-   "title": "Humanizing Co-Design with Educators",
-   "type": "pattern"
-  },
-  {
    "description": "Madeline Hunter's Effective Teaching Model (also called mastery teaching) combines several direct-instruction techniques into one lesson-length sequence \u2014 an anticipatory set, clear presentation in short pieces, whole-class checks for understanding, and brief interspersed independent practice with frequent feedback.",
    "grain_size": "lesson",
    "id": "hunters-effective-teaching-model",
@@ -7098,15 +7153,6 @@
    "path": "patterns/lda-reflection.md",
    "status": "review",
    "title": "LDA Reflection",
-   "type": "pattern"
-  },
-  {
-   "description": "A user-centred course design process that treats usability as a pedagogical property rather than presentation polish \u2014 investigating learners, prototyping the experience, and testing it with real users, on the argument that effort spent operating the material is effort not spent learning.",
-   "grain_size": "course",
-   "id": "learner-experience-design",
-   "path": "patterns/learner-experience-design.md",
-   "status": "review",
-   "title": "Learner Experience Design (LXD)",
    "type": "pattern"
   },
   {
@@ -7487,15 +7533,6 @@
    "type": "pattern"
   },
   {
-   "description": "An iterative, agile course design process that replaces a single analyse-build-evaluate pass with short rounds of design, prototype and review, starting from a collaborative Savvy Start and converging on a design by repeated approximation rather than by up-front specification.",
-   "grain_size": "course",
-   "id": "successive-approximation-model",
-   "path": "patterns/successive-approximation-model.md",
-   "status": "review",
-   "title": "Successive Approximation Model (SAM)",
-   "type": "pattern"
-  },
-  {
    "description": "Summative Assessment is the pattern-level target for end-of-sequence judgment of learner performance against defined expectations.",
    "grain_size": "unit",
    "id": "summative-assessment",
@@ -7511,15 +7548,6 @@
    "path": "patterns/synthetic-planning-for-discovery-oriented-writing.md",
    "status": "draft",
    "title": "Synthetic Planning for Discovery-Oriented Writing",
-   "type": "pattern"
-  },
-  {
-   "description": "The objective-first design process \u2014 ADDIE and the Dick & Carey systems approach \u2014 in which instructional goals are analysed into subordinate skills, assessments are written from the objectives, instruction is built to serve them, and formative evaluation feeds revision before the design is released.",
-   "grain_size": "course",
-   "id": "systematic-instructional-design",
-   "path": "patterns/systematic-instructional-design.md",
-   "status": "review",
-   "title": "Systematic Instructional Design",
    "type": "pattern"
   },
   {
@@ -7574,15 +7602,6 @@
    "path": "patterns/traditional-lecture-reading-midterm-final-assessment.md",
    "status": "review",
    "title": "Traditional Lecture / Reading / Midterm / Final Assessment",
-   "type": "pattern"
-  },
-  {
-   "description": "Wiggins and McTighe's backward design process plans a course or unit in three stages \u2014 identify desired results, determine acceptable evidence, then plan learning experiences \u2014 so that activities and assessments are derived from the learning goals rather than chosen first and justified afterward.",
-   "grain_size": "unit",
-   "id": "understanding-by-design",
-   "path": "patterns/understanding-by-design.md",
-   "status": "draft",
-   "title": "Understanding by Design",
    "type": "pattern"
   },
   {
@@ -9197,6 +9216,87 @@
    "type": "principle"
   },
   {
+   "description": "A post-release design process that treats a shipped course as a hypothesis under test \u2014 instrumenting materials so that use and outcome data are collected together, running short build\u2013measure\u2013learn cycles, and using RISE analysis to decide which resource to revise next.",
+   "grain_size": "course",
+   "id": "continuous-improvement-of-learning-materials",
+   "path": "processes/continuous-improvement-of-learning-materials.md",
+   "status": "review",
+   "title": "Continuous Improvement of Learning Materials",
+   "type": "process"
+  },
+  {
+   "description": "The Data Wise Improvement Process is an eight-step, team-based protocol for using student assessment data to drive instructional improvement in schools.",
+   "grain_size": "program, school",
+   "id": "data-wise-improvement-process",
+   "path": "processes/data-wise-improvement-process.md",
+   "status": "review",
+   "title": "Data Wise Improvement Process",
+   "type": "process"
+  },
+  {
+   "description": "A course-grain design process \u2014 empathize, define, ideate, prototype, test \u2014 in which a learning experience is built from investigated learner need rather than from a content outline, and revised against evidence from learners before it is finalized.",
+   "grain_size": "course",
+   "id": "design-thinking",
+   "path": "processes/design-thinking.md",
+   "status": "review",
+   "title": "Design Thinking",
+   "type": "process"
+  },
+  {
+   "description": "The design process as it actually runs in higher education \u2014 an instructor designing their own course, part-time, alongside teaching it, with a teaching centre consulting rather than approving, and revision happening between offerings rather than within a project.",
+   "grain_size": "course",
+   "id": "faculty-course-design",
+   "path": "processes/faculty-course-design.md",
+   "status": "review",
+   "title": "Faculty Course Design",
+   "type": "process"
+  },
+  {
+   "description": "A co-design facilitation structure that deliberately makes space for educators' affective and relational experience \u2014 through shared contemplative practice, ritualized check-ins, and reflective field-note protocols \u2014 treating emotion as a design resource rather than a distraction.",
+   "grain_size": "unit",
+   "id": "humanizing-co-design-with-educators",
+   "path": "processes/humanizing-co-design-with-educators.md",
+   "status": "draft",
+   "title": "Humanizing Co-Design with Educators",
+   "type": "process"
+  },
+  {
+   "description": "A user-centred course design process that treats usability as a pedagogical property rather than presentation polish \u2014 investigating learners, prototyping the experience, and testing it with real users, on the argument that effort spent operating the material is effort not spent learning.",
+   "grain_size": "course",
+   "id": "learner-experience-design",
+   "path": "processes/learner-experience-design.md",
+   "status": "review",
+   "title": "Learner Experience Design (LXD)",
+   "type": "process"
+  },
+  {
+   "description": "An iterative, agile course design process that replaces a single analyse-build-evaluate pass with short rounds of design, prototype and review, starting from a collaborative Savvy Start and converging on a design by repeated approximation rather than by up-front specification.",
+   "grain_size": "course",
+   "id": "successive-approximation-model",
+   "path": "processes/successive-approximation-model.md",
+   "status": "review",
+   "title": "Successive Approximation Model (SAM)",
+   "type": "process"
+  },
+  {
+   "description": "The objective-first design process \u2014 ADDIE and the Dick & Carey systems approach \u2014 in which instructional goals are analysed into subordinate skills, assessments are written from the objectives, instruction is built to serve them, and formative evaluation feeds revision before the design is released.",
+   "grain_size": "course",
+   "id": "systematic-instructional-design",
+   "path": "processes/systematic-instructional-design.md",
+   "status": "review",
+   "title": "Systematic Instructional Design",
+   "type": "process"
+  },
+  {
+   "description": "Wiggins and McTighe's backward design process plans a course or unit in three stages \u2014 identify desired results, determine acceptable evidence, then plan learning experiences \u2014 so that activities and assessments are derived from the learning goals rather than chosen first and justified afterward.",
+   "grain_size": "unit",
+   "id": "understanding-by-design",
+   "path": "processes/understanding-by-design.md",
+   "status": "draft",
+   "title": "Understanding by Design",
+   "type": "process"
+  },
+  {
    "description": "A structured closure routine in which learners record 3 things they learned, 2 things they found interesting or want to know more about, and 1 question or lingering confusion.",
    "id": "3-2-1_reflection",
    "path": "strategies/3-2-1_reflection.md",
@@ -9466,14 +9566,6 @@
    "path": "strategies/activities_for_student_self-reflection.md",
    "status": "review",
    "title": "Activities for Student Self-Reflection",
-   "type": "strategy"
-  },
-  {
-   "description": "Building learner personas and design scenarios around the activity system a learner acts within \u2014 object, mediating tools, rules, community and division of labour \u2014 so that the design responds to what constrains the learner rather than to who they are demographically.",
-   "id": "activity-system-personas",
-   "path": "strategies/activity-system-personas.md",
-   "status": "review",
-   "title": "Activity-System Personas and Scenarios",
    "type": "strategy"
   },
   {
@@ -10226,14 +10318,6 @@
    "path": "strategies/background_knowledge_activation.md",
    "status": "review",
    "title": "Background Knowledge Activation",
-   "type": "strategy"
-  },
-  {
-   "description": "A curriculum planning strategy that begins by defining desired learning outcomes and acceptable evidence of achievement, then designs instruction last.",
-   "id": "backward-design",
-   "path": "strategies/backward-design.md",
-   "status": "review",
-   "title": "Backward Design",
    "type": "strategy"
   },
   {
@@ -11826,14 +11910,6 @@
    "path": "strategies/cognitive-strategy-instruction.md",
    "status": "review",
    "title": "Cognitive Strategy Instruction",
-   "type": "strategy"
-  },
-  {
-   "description": "A family of interview and observation methods for eliciting the cues, judgements and decision rules an expert uses but cannot readily articulate \u2014 the tacit content that a procedural task analysis records as a single step.",
-   "id": "cognitive-task-analysis",
-   "path": "strategies/cognitive-task-analysis.md",
-   "status": "review",
-   "title": "Cognitive Task Analysis",
    "type": "strategy"
   },
   {
@@ -13616,7 +13692,7 @@
    "description": "A learner-centered innovation process \u2014 empathize, define, ideate, prototype, test \u2014 used as a learning strategy in which students solve open-ended, human-centered problems through iterative cycles of making and feedback.",
    "id": "design-thinking",
    "path": "strategies/design-thinking.md",
-   "status": "deprecated",
+   "status": "review",
    "title": "Design Thinking",
    "type": "strategy"
   },
@@ -15818,14 +15894,6 @@
    "path": "strategies/family-engagement-in-homework.md",
    "status": "review",
    "title": "Family Engagement In Homework",
-   "type": "strategy"
-  },
-  {
-   "description": "A design process for building formative assessment tasks that reveal disciplinary competence (e.g., computational thinking) embedded in a specific community's everyday practices, by interviewing families to surface funds of knowledge before designing the task.",
-   "id": "family-interview-based-assessment-task-design",
-   "path": "strategies/family-interview-based-assessment-task-design.md",
-   "status": "draft",
-   "title": "Family-Interview-Based Assessment Task Design",
    "type": "strategy"
   },
   {
@@ -18637,22 +18705,6 @@
    "type": "strategy"
   },
   {
-   "description": "Systematically gathering information about learners' prior knowledge, skills, motivations, and constraints to inform instructional design decisions.",
-   "id": "learner-analysis",
-   "path": "strategies/learner-analysis.md",
-   "status": "review",
-   "title": "Learner Analysis",
-   "type": "strategy"
-  },
-  {
-   "description": "Systematic investigation of learners' prior knowledge, characteristics, and the instructional environment before designing instruction, so that design decisions fit who will learn and where.",
-   "id": "learner-and-context-analysis",
-   "path": "strategies/learner-and-context-analysis.md",
-   "status": "review",
-   "title": "Learner And Context Analysis",
-   "type": "strategy"
-  },
-  {
    "description": "A learning approach where the problem is presented as an open-ended one, so there are several ways to solve it, with each solution leading to a different set of outcomes.",
    "id": "learner-centric_approach",
    "path": "strategies/learner-centric_approach.md",
@@ -18666,14 +18718,6 @@
    "path": "strategies/learner-generated_examples.md",
    "status": "review",
    "title": "Learner-Generated Examples",
-   "type": "strategy"
-  },
-  {
-   "description": "Learner personas are evidence-based composite profiles of representative learners used to ground design decisions in real audience characteristics.",
-   "id": "learner-personas",
-   "path": "strategies/learner-personas.md",
-   "status": "review",
-   "title": "Learner Personas",
    "type": "strategy"
   },
   {
@@ -18738,14 +18782,6 @@
    "path": "strategies/learning-games.md",
    "status": "review",
    "title": "Learning Games",
-   "type": "strategy"
-  },
-  {
-   "description": "Task analysis identifies the prerequisite skills a target performance requires by repeatedly asking what a learner must already master, arranging the answers into a sequenced learning hierarchy from foundational to complex.",
-   "id": "learning-hierarchy-task-analysis",
-   "path": "strategies/learning-hierarchy-task-analysis.md",
-   "status": "draft",
-   "title": "Learning Hierarchy Task Analysis",
    "type": "strategy"
   },
   {
@@ -19322,14 +19358,6 @@
    "path": "strategies/make-ten.md",
    "status": "review",
    "title": "Make Ten",
-   "type": "strategy"
-  },
-  {
-   "description": "A design strategy that surfaces and names power dynamics among stakeholders, making decision-making authority explicit and redistributing it across the design process.",
-   "id": "make-the-invisible-visible-power-dynamics",
-   "path": "strategies/make-the-invisible-visible-power-dynamics.md",
-   "status": "review",
-   "title": "Make the Invisible Visible (Power Dynamics)",
    "type": "strategy"
   },
   {
@@ -20786,14 +20814,6 @@
    "path": "strategies/navigator-tourist_peer_learning.md",
    "status": "review",
    "title": "Navigator-Tourist Peer Learning",
-   "type": "strategy"
-  },
-  {
-   "description": "A systematic process for identifying the gap between current and desired performance and determining whether instruction is the right remedy.",
-   "id": "needs-analysis",
-   "path": "strategies/needs-analysis.md",
-   "status": "review",
-   "title": "Needs Analysis",
    "type": "strategy"
   },
   {
@@ -26501,14 +26521,6 @@
    "type": "strategy"
   },
   {
-   "description": "Deriving a course's goal tree from an external framework \u2014 a standards set, competency model or certification blueprint \u2014 and carrying the framework's own codes through objectives, activities and assessment items so that coverage and provenance stay traceable in both directions.",
-   "id": "standards-crosswalk",
-   "path": "strategies/standards-crosswalk.md",
-   "status": "review",
-   "title": "Standards Crosswalk",
-   "type": "strategy"
-  },
-  {
    "description": "Grades are assigned based on demonstrated mastery of explicitly stated learning objectives rather than accumulated points, averages, or compliance behaviors.",
    "id": "standards-mastery-based-grading",
    "path": "strategies/standards-mastery-based-grading.md",
@@ -27378,14 +27390,6 @@
    "path": "strategies/targeted_networking.md",
    "status": "review",
    "title": "Targeted Networking",
-   "type": "strategy"
-  },
-  {
-   "description": "A systematic method for breaking down a complex skill or task into its component knowledge, skills, and decision points so instruction can be designed around what learners actually need to master.",
-   "id": "task-analysis",
-   "path": "strategies/task-analysis.md",
-   "status": "review",
-   "title": "Task Analysis",
    "type": "strategy"
   },
   {
@@ -31155,6 +31159,20 @@
    "time-and-continuity": "time-and-continuity",
    "working-memory": "working-memory"
   },
+  "method": {
+   "activity-system-personas": "activity-system-personas",
+   "backward-design": "backward-design",
+   "cognitive-task-analysis": "cognitive-task-analysis",
+   "family-interview-based-assessment-task-design": "family-interview-based-assessment-task-design",
+   "learner-analysis": "learner-analysis",
+   "learner-and-context-analysis": "learner-and-context-analysis",
+   "learner-personas": "learner-personas",
+   "learning-hierarchy-task-analysis": "learning-hierarchy-task-analysis",
+   "make-the-invisible-visible-power-dynamics": "make-the-invisible-visible-power-dynamics",
+   "needs-analysis": "needs-analysis",
+   "standards-crosswalk": "standards-crosswalk",
+   "task-analysis": "task-analysis"
+  },
   "pattern": {
    "4cid": "4cid-four-component-instructional-design",
    "4cid-four-component-instructional-design": "4cid-four-component-instructional-design",
@@ -31181,14 +31199,11 @@
    "computational-essay-writing": "computational-essay-writing",
    "concept-attainment": "concept-attainment",
    "constructive-alignment": "constructive-alignment",
-   "continuous-improvement-of-learning-materials": "continuous-improvement-of-learning-materials",
    "cooperative-learning": "cooperative-learning",
    "critical-maker-entrepreneurialism-program": "critical-maker-entrepreneurialism-program",
    "data-storytelling-forage-remix-diy": "data-storytelling-forage-remix-diy",
-   "data-wise-improvement-process": "data-wise-improvement-process",
    "debate": "debate",
    "debate-format": "debate-format",
-   "design-thinking": "design-thinking",
    "develop-understanding": "develop-understanding",
    "differentiated-activity-structures-for-inclusive-participation": "differentiated-activity-structures-for-inclusive-participation",
    "direct-instruction": "direct-instruction",
@@ -31201,7 +31216,6 @@
    "experiential-learning-cycle": "experiential-learning-cycle",
    "explicit-instruction-in-historical-contextualization": "explicit-instruction-in-historical-contextualization",
    "explicit-teaching": "explicit-teaching",
-   "faculty-course-design": "faculty-course-design",
    "fiber-crafting-for-proportional-reasoning": "fiber-crafting-for-proportional-reasoning",
    "five-e-model": "five-e-model",
    "flipped-classroom": "flipped-classroom",
@@ -31222,7 +31236,6 @@
    "guided-equation-appropriation": "guided-equation-appropriation",
    "herbarts-formal-steps": "herbarts-formal-steps",
    "heterogeneity-seeking-modeling-curriculum": "heterogeneity-seeking-modeling-curriculum",
-   "humanizing-co-design-with-educators": "humanizing-co-design-with-educators",
    "hunters-effective-teaching-model": "hunters-effective-teaching-model",
    "identity-centered-e-textile-making": "identity-centered-e-textile-making",
    "inquiry-based-learning": "inquiry-based-learning",
@@ -31236,7 +31249,6 @@
    "just-in-time-learning": "just-in-time-learning",
    "just-in-time-teaching": "just-in-time-teaching",
    "lda-reflection": "lda-reflection",
-   "learner-experience-design": "learner-experience-design",
    "learning-for-use-lfu-model": "learning-for-use-lfu-model",
    "luminous-science-transdisciplinary-curriculum": "luminous-science-transdisciplinary-curriculum",
    "massive-open-online-course": "massive-open-online-course",
@@ -31279,17 +31291,14 @@
    "structured-academic-controversy": "structured-academic-controversy",
    "structured-academic-controversy-sac": "structured-academic-controversy-sac",
    "structured-peer-review": "structured-peer-review",
-   "successive-approximation-model": "successive-approximation-model",
    "summative-assessment": "summative-assessment",
    "synthetic-planning-for-discovery-oriented-writing": "synthetic-planning-for-discovery-oriented-writing",
-   "systematic-instructional-design": "systematic-instructional-design",
    "team-based-learning": "team-based-learning",
    "think-pair-share": "think-pair-share",
    "threading-weaving-patternmaking": "threading-weaving-patternmaking",
    "three-practices-for-ontological-alignment-in-computational-modeling": "three-practices-for-ontological-alignment-in-computational-modeling",
    "traditional-lecture-based-instruction": "traditional-lecture-based-instruction",
    "traditional-lecture-reading-midterm-final-assessment": "traditional-lecture-reading-midterm-final-assessment",
-   "understanding-by-design": "understanding-by-design",
    "worked-examples": "worked-examples",
    "workshop-model": "workshop-model",
    "writing-workshop": "writing-workshop"
@@ -31494,6 +31503,17 @@
    "wise-feedback-across-difference": "wise-feedback-across-difference",
    "worked-examples": "worked-examples"
   },
+  "process": {
+   "continuous-improvement-of-learning-materials": "continuous-improvement-of-learning-materials",
+   "data-wise-improvement-process": "data-wise-improvement-process",
+   "design-thinking": "design-thinking",
+   "faculty-course-design": "faculty-course-design",
+   "humanizing-co-design-with-educators": "humanizing-co-design-with-educators",
+   "learner-experience-design": "learner-experience-design",
+   "successive-approximation-model": "successive-approximation-model",
+   "systematic-instructional-design": "systematic-instructional-design",
+   "understanding-by-design": "understanding-by-design"
+  },
   "strategy": {
    "3-2-1_reflection": "3-2-1_reflection",
    "3-source_rule": "3-source_rule",
@@ -31529,7 +31549,6 @@
    "active_listening": "active_listening",
    "actively_listen_to_what_students_say": "actively_listen_to_what_students_say",
    "activities_for_student_self-reflection": "activities_for_student_self-reflection",
-   "activity-system-personas": "activity-system-personas",
    "adaptive-learning": "adaptive-learning",
    "address_biases_in_the_use_of_language_and_symbols": "address_biases_in_the_use_of_language_and_symbols",
    "address_digital_literacy": "address_digital_literacy",
@@ -31624,7 +31643,6 @@
    "awareness_of_self-talk": "awareness_of_self-talk",
    "backchannel_discussions": "backchannel_discussions",
    "background_knowledge_activation": "background_knowledge_activation",
-   "backward-design": "backward-design",
    "badges": "badges",
    "balanced_assessment_system": "balanced_assessment_system",
    "balanced_classroom_decorations": "balanced_classroom_decorations",
@@ -31824,7 +31842,6 @@
    "co-teaching_and_collaboration": "co-teaching_and_collaboration",
    "cognitive-apprenticeship": "cognitive-apprenticeship",
    "cognitive-strategy-instruction": "cognitive-strategy-instruction",
-   "cognitive-task-analysis": "cognitive-task-analysis",
    "cognitively-guided-instruction": "cognitively-guided-instruction",
    "cognitively_demanding_tasks": "cognitively_demanding_tasks",
    "coherence": "coherence",
@@ -32323,7 +32340,6 @@
    "familiar-repetitive-tasks": "familiar-repetitive-tasks",
    "family-engagement": "family-engagement",
    "family-engagement-in-homework": "family-engagement-in-homework",
-   "family-interview-based-assessment-task-design": "family-interview-based-assessment-task-design",
    "family-literacy-engagement": "family-literacy-engagement",
    "family-literacy-nights": "family-literacy-nights",
    "family-literacy-programs": "family-literacy-programs",
@@ -32675,11 +32691,8 @@
    "latin-prefixes-suffixes-and-roots": "latin-prefixes-suffixes-and-roots",
    "leaderboards": "leaderboards",
    "learn_about_students_math_backgrounds": "learn_about_students_math_backgrounds",
-   "learner-analysis": "learner-analysis",
-   "learner-and-context-analysis": "learner-and-context-analysis",
    "learner-centric_approach": "learner-centric_approach",
    "learner-generated_examples": "learner-generated_examples",
-   "learner-personas": "learner-personas",
    "learner-to-learner-peer-feedback": "learner-to-learner-peer-feedback",
    "learner_choice_as_a_continuum": "learner_choice_as_a_continuum",
    "learning-by-teaching": "learning-by-teaching",
@@ -32688,7 +32701,6 @@
    "learning-cycles": "learning-cycles",
    "learning-dashboards": "learning-dashboards",
    "learning-games": "learning-games",
-   "learning-hierarchy-task-analysis": "learning-hierarchy-task-analysis",
    "learning-journals": "learning-journals",
    "learning-logs": "learning-logs",
    "learning-menus": "learning-menus",
@@ -32761,7 +32773,6 @@
    "maintaining_sensitivity_to_language_concerns": "maintaining_sensitivity_to_language_concerns",
    "make-believe-problem-based_learning": "make-believe-problem-based_learning",
    "make-ten": "make-ten",
-   "make-the-invisible-visible-power-dynamics": "make-the-invisible-visible-power-dynamics",
    "make_learning_relevant": "make_learning_relevant",
    "maker_spaces_and_fab_labs": "maker_spaces_and_fab_labs",
    "makerspaces": "makerspaces",
@@ -32944,7 +32955,6 @@
    "narrative_advance_organizers": "narrative_advance_organizers",
    "natural_lighting": "natural_lighting",
    "navigator-tourist_peer_learning": "navigator-tourist_peer_learning",
-   "needs-analysis": "needs-analysis",
    "needs_and_wants_assessment_with_likert_scales": "needs_and_wants_assessment_with_likert_scales",
    "negotiated_grades": "negotiated_grades",
    "nighttime_blue_light_reduction": "nighttime_blue_light_reduction",
@@ -33658,7 +33668,6 @@
    "standard_inverted_classroom": "standard_inverted_classroom",
    "standards-based-grading": "standards-based-grading",
    "standards-based_grading": "standards-based_grading",
-   "standards-crosswalk": "standards-crosswalk",
    "standards-mastery-based-grading": "standards-mastery-based-grading",
    "start-with-yourself-identity-mapping": "start-with-yourself-identity-mapping",
    "station-rotation": "station-rotation",
@@ -33768,7 +33777,6 @@
    "talking_to_young_children_about_race_and_racism": "talking_to_young_children_about_race_and_racism",
    "targeted_and_specific_communication_with_families": "targeted_and_specific_communication_with_families",
    "targeted_networking": "targeted_networking",
-   "task-analysis": "task-analysis",
    "task_analysis": "task_analysis",
    "task_force_teams_of_inquiry": "task_force_teams_of_inquiry",
    "task_management_for_writing": "task_management_for_writing",

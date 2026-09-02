@@ -59,7 +59,7 @@ Stated objectives improve learning primarily by directing attention and supporti
 - [Metacognition](../principles/metacognition.md) — explicit objectives give learners the standard they need to evaluate their own comprehension rather than relying on fluency illusions
 - [Advance Organizers](advance-organizers.md) — an objective statement acts as a minimal advance organizer, providing a structure into which upcoming content can be assimilated
 - [Clear Structure](../principles/clear-structure.md) — objectives are the opening move in making the shape of a lesson or course visible
-- [Understanding by Design](../patterns/understanding-by-design.md) — UbD's Stage One prioritization is a structured way to decide which goals warrant the cognitive approach's enduring understandings versus more specific, behaviourally-stated objectives
+- [Understanding by Design](../processes/understanding-by-design.md) — UbD's Stage One prioritization is a structured way to decide which goals warrant the cognitive approach's enduring understandings versus more specific, behaviourally-stated objectives
 
 ## Related Elements
 - [Learning Outcomes](learning-outcomes.md) — the formal, curriculum-level statements from which episode-level objectives are drawn

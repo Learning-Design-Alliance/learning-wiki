@@ -1,5 +1,5 @@
 ---
-type: pattern
+type: process
 id: understanding-by-design
 title: Understanding by Design
 description: Wiggins and McTighe's backward design process plans a course or unit in three stages — identify desired results, determine acceptable evidence, then plan learning experiences — so that activities and assessments are derived from the learning goals rather than chosen first and justified afterward.
@@ -13,7 +13,7 @@ grain_size: unit
 
 # Understanding by Design
 
-> **Pattern** · [All patterns](index.md)
+> **Design Process** · [All design processes](index.md)
 
 ## Description
 Choosing what to teach starts with choosing *goals*, and goal statements are properly written from the learner's point of view — "learners will acquire the ability to construct a convincing argument," not "the teacher will show students examples of logical arguments." Before any specific framework, Tyler (1974) offered an early, still-influential account of where such goals should come from: subject-matter mastery, societal concerns, and student interests/abilities, refined further against the school/community's educational philosophy and what instructional theory and research say can actually be taught. As the range of things worth learning keeps expanding while instructional time does not, some deliberate basis for choosing among candidate goals becomes necessary rather than optional.
@@ -24,7 +24,7 @@ Choosing what to teach starts with choosing *goals*, and goal statements are pro
 
 **Stage Two: Determine Acceptable Evidence.** Before choosing any activities, decide how you'll know whether students actually achieved the desired results — what evidence of understanding and proficiency you will accept (term papers, short-answer quizzes, free-response questions, lab projects, practice problems, group projects, among many others). Doing this before Stage Three prevents a common failure mode: assessments that don't actually match the stated learning goals, which is frustrating for students and instructors alike once discovered.
 
-**Stage Three: Plan Learning Experiences and Instruction.** Only now do specific instructional strategies and activities get chosen, guided by four questions: What enabling knowledge and skills will students need to perform effectively and achieve the desired results? What activities will equip them with that knowledge and skill? What should be explicitly taught or coached, and how, given the performance goals? What materials and resources best serve these goals? Candidate strategies include large/small-group discussion, interactive lecturing and think-pair-share, [Flipped Learning](flipped-learning.md), cooperative learning (including [Team-Based Learning](team-based-learning.md) and project-based learning), guided note-taking, and guided inquiry for problem-solving — the point of the preceding two stages is that this menu gets filtered by what Stage One and Two actually require, not chosen first.
+**Stage Three: Plan Learning Experiences and Instruction.** Only now do specific instructional strategies and activities get chosen, guided by four questions: What enabling knowledge and skills will students need to perform effectively and achieve the desired results? What activities will equip them with that knowledge and skill? What should be explicitly taught or coached, and how, given the performance goals? What materials and resources best serve these goals? Candidate strategies include large/small-group discussion, interactive lecturing and think-pair-share, [Flipped Learning](../patterns/flipped-learning.md), cooperative learning (including [Team-Based Learning](../patterns/team-based-learning.md) and project-based learning), guided note-taking, and guided inquiry for problem-solving — the point of the preceding two stages is that this menu gets filtered by what Stage One and Two actually require, not chosen first.
 
 A free, structured **UbD Template 2.0** (Wiggins & McTighe) walks designers through all three stages with prompts for each section, and is widely used as a practical planning document rather than just a conceptual model.
 
@@ -61,9 +61,9 @@ A free, structured **UbD Template 2.0** (Wiggins & McTighe) walks designers thro
 ### Personalization
 - The same three-stage sequence applies whether planning a single unit or a full course; only the scope of Stage One's goals changes with grain size
 
-## Related Patterns
-- [Just-In-Time Teaching (JiTT)](just-in-time-teaching.md) — a complementary in-the-moment adaptation layer that can operate within a UbD-designed unit's Stage Three activities
-- [Team-Based Learning](team-based-learning.md) — one of the cooperative-learning strategies UbD's Stage Three might select
+## Related Processes
+- [Just-In-Time Teaching (JiTT)](../patterns/just-in-time-teaching.md) — a complementary in-the-moment adaptation layer that can operate within a UbD-designed unit's Stage Three activities
+- [Team-Based Learning](../patterns/team-based-learning.md) — one of the cooperative-learning strategies UbD's Stage Three might select
 
 ## Examples
 

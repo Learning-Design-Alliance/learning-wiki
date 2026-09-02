@@ -36,7 +36,7 @@ PLCs work when they shift professional learning from transmission (expert delive
 - PLCs cannot compensate for structural problems (curriculum quality, staffing instability) and can mask them by absorbing reform energy
 
 #### Implementation Variability
-- **Data-team model** (e.g., [Data-Wise Improvement Process](../patterns/data-wise-improvement-process.md)): structured cycles of data examination and instructional planning
+- **Data-team model** (e.g., [Data-Wise Improvement Process](../processes/data-wise-improvement-process.md)): structured cycles of data examination and instructional planning
 - **Lesson study** (Japanese-origin): collaborative planning, observation, and revision of a single research lesson
 - **Action research teams**: teachers investigate their own questions using [Action Research](action-research.md) methods
 - **Virtual/async PLCs**: online communities for isolated or rural educators; weaker on accountability, stronger on reach

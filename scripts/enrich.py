@@ -1587,6 +1587,7 @@ def call_gemini_flex(client, model: str, system_prompt: str, user_prompt: str) -
 # design-spec pipeline cannot resolve until someone remembers to backfill it,
 # and lint's [Identity] check would fail the moment it was created.
 _IDENTIFIED = {"elements", "principles", "patterns", "claims", "learner-variables",
+               "processes", "methods",
                "strategies"}
 
 

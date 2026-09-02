@@ -1,5 +1,5 @@
 ---
-type: strategy
+type: method
 id: learner-and-context-analysis
 title: Learner And Context Analysis
 description: Systematic investigation of learners' prior knowledge, characteristics, and the instructional environment before designing instruction, so that design decisions fit who will learn and where.
@@ -11,7 +11,7 @@ generated:
 
 # Learner And Context Analysis
 
-> **Strategy** · [All strategies](index.md)
+> **Design Method** · [All design methods](index.md)
 
 ## Description
 Learner and context analysis is the front-end inquiry phase of instructional design in which designers gather evidence about who the learners are (prior knowledge, skills, motivations, demographics, accessibility needs) and the settings in which learning and performance will occur (orient, instructional, transfer contexts). It converts assumptions about the audience into design requirements, typically producing learner profiles, context inventories, and implications that drive objectives, sequencing, and media choices.
@@ -55,9 +55,9 @@ Analysis prevents the most common design failure: instruction pitched at the wro
 4. Translate each finding into a design implication (e.g., "no reliable internet → offline-capable materials"; "mixed prior knowledge → tiered [Practice](../elements/practice.md) paths").
 5. Validate the profile with stakeholders or representative learners, then revisit it at checkpoints during delivery ([Check-Ins](../elements/check-in.md)).
 
-## Related Strategies
-- [Task Analysis](../strategies/task-analysis.md) — the companion front-end analysis of what must be learned; learner analysis answers "who," task analysis answers "what"
-- [Needs Analysis](../strategies/needs-analysis.md) — the upstream step that establishes whether instruction is warranted at all
+## Related Methods
+- [Task Analysis](task-analysis.md) — the companion front-end analysis of what must be learned; learner analysis answers "who," task analysis answers "what"
+- [Needs Analysis](needs-analysis.md) — the upstream step that establishes whether instruction is warranted at all
 - [Diagnostic Assessment](../strategies/diagnostic-assessment.md) — a measurement instrument for the entry-behavior data this analysis requires
 
 ## Examples

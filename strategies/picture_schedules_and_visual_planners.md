@@ -68,7 +68,7 @@ Visual schedules convert a verbal, memory-dependent sequence into a persistent e
 
 ## Related Strategies
 - [Checklists](checklists.md) — the text-based counterpart; picture schedules serve the same function for pre-readers
-- [Task Analysis](task-analysis.md) — the prerequisite method for breaking routines into schedulable steps
+- [Task Analysis](../methods/task-analysis.md) — the prerequisite method for breaking routines into schedulable steps
 - [Fading](../elements/fading.md) — the process for withdrawing adult prompting and eventually the schedule itself as independence grows
 
 ## Related Elements

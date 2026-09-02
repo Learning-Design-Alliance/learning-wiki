@@ -10,21 +10,25 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-02
 
+* **Correction**: 21 pages moved out of `patterns/` and `strategies/` into two new kinds — `processes/` (9: ADDIE/Dick & Carey, SAM, design thinking, LXD, UbD, continuous improvement, faculty course design, Data Wise, humanizing co-design) and `methods/` (12: needs/learner/context/task/hierarchy/cognitive-task analysis, learner and activity-system personas, backward design, standards crosswalk, family-interview task design, power dynamics). Design work is not instruction; it had been filed beside cooperative learning and think-pair-share
+* **Correction**: `scripts/lint.py` — its own `PAGE_TYPES` never contained `learner-variables`, so no page in that folder had ever been checked for a broken link and the "N pages indexed" line was twelve short. Now derived from `okf_lib.CONTENT_FOLDERS`, along with five other scripts' copies; `check_nav_coverage` extended to the four per-kind tables that must stay hand-written
+* **Review**: [strategies/design-thinking](strategies/design-thinking.md) — restored from `deprecated` to `review`; the collision it was deprecated for is gone now that the designer's process has its own kind
+* **Correction**: 23 same-folder links inside the moved pages repointed — `update_links_for_renames.py` fixes links *to* a moved page, and this is the other half: links *from* one to a sibling that stayed behind
 * **Correction**: [learner-variables/index](learner-variables/index.md) — the folder was never in `build_indexes.PAGE_TYPES`, so its index was never regenerated and read "1 entries" beside twelve pages; the root hub omitted the type entirely while the sidebar listed it
 * **Edit**: `scripts/lint.py` — new `check_nav_coverage`: every content folder must appear in the mkdocs nav, on the root hub, and in `build_indexes.PAGE_TYPES`. `--type` choices are now derived from the check registry instead of repeated (the copy was already missing `competing`)
 * **Review**: the nine pages from #65 promoted `draft` → `review` — they are complete pages, and `strategies/index.md` omits drafts, so three of them were absent from their own index
 * **Edit**: `docs_hooks/page_metadata.py` — the evidence-codes panel now says what the letters stand for (`q` quality, `i` impact, `n` sample) and what `q?` means, read from `evidence-scales.json` rather than paraphrased beside it
 * **Edit**: `branding/lazuli-theme.css` — dark mode reached the top bar: the header had only ever been styled on `[data-md-color-primary="custom"]`, so the slate scheme inherited a near-white sand bar, a linen hairline, Lapis search chrome and a dark-blue monogram on a dark ground
-* **Ingest**: [patterns/design-thinking](patterns/design-thinking.md) — design thinking as a course-grain design process, so learning-design-spec's `dschool-design-thinking` profile has a pattern to realize
+* **Ingest**: [patterns/design-thinking](processes/design-thinking.md) — design thinking as a course-grain design process, so learning-design-spec's `dschool-design-thinking` profile has a pattern to realize
 * **Deprecate**: [strategies/design-thinking](strategies/design-thinking.md) — superseded by the pattern above; kept for history as the learner-facing reading, inbound links repointed
-* **Ingest**: [patterns/systematic-instructional-design](patterns/systematic-instructional-design.md) — ADDIE and the Dick & Carey systems approach, for `gagne-systematic`; explicitly distinguished from the nine events
-* **Ingest**: [patterns/successive-approximation-model](patterns/successive-approximation-model.md) — SAM, for `sam-agile`
-* **Ingest**: [patterns/continuous-improvement-of-learning-materials](patterns/continuous-improvement-of-learning-materials.md) — build–measure–learn and RISE analysis, for `continuous-improvement`
-* **Ingest**: [patterns/learner-experience-design](patterns/learner-experience-design.md) — LXD, usability as a pedagogical property, for `lxd-user-centred`
-* **Ingest**: [patterns/faculty-course-design](patterns/faculty-course-design.md) — the instructor as their own designer, for `faculty-course-design`
-* **Ingest**: [strategies/standards-crosswalk](strategies/standards-crosswalk.md) — deriving a goal tree from an external framework and carrying its codes, for `goals/standards-crosswalk`
-* **Ingest**: [strategies/cognitive-task-analysis](strategies/cognitive-task-analysis.md) — the missing third analysis beside task-analysis and learning-hierarchy-task-analysis, for `goals/cognitive-task-analysis`
-* **Ingest**: [strategies/activity-system-personas](strategies/activity-system-personas.md) — personas and scenarios situated in an activity system, for `personas/activity-system`
+* **Ingest**: [patterns/systematic-instructional-design](processes/systematic-instructional-design.md) — ADDIE and the Dick & Carey systems approach, for `gagne-systematic`; explicitly distinguished from the nine events
+* **Ingest**: [patterns/successive-approximation-model](processes/successive-approximation-model.md) — SAM, for `sam-agile`
+* **Ingest**: [patterns/continuous-improvement-of-learning-materials](processes/continuous-improvement-of-learning-materials.md) — build–measure–learn and RISE analysis, for `continuous-improvement`
+* **Ingest**: [patterns/learner-experience-design](processes/learner-experience-design.md) — LXD, usability as a pedagogical property, for `lxd-user-centred`
+* **Ingest**: [patterns/faculty-course-design](processes/faculty-course-design.md) — the instructor as their own designer, for `faculty-course-design`
+* **Ingest**: [strategies/standards-crosswalk](methods/standards-crosswalk.md) — deriving a goal tree from an external framework and carrying its codes, for `goals/standards-crosswalk`
+* **Ingest**: [strategies/cognitive-task-analysis](methods/cognitive-task-analysis.md) — the missing third analysis beside task-analysis and learning-hierarchy-task-analysis, for `goals/cognitive-task-analysis`
+* **Ingest**: [strategies/activity-system-personas](methods/activity-system-personas.md) — personas and scenarios situated in an activity system, for `personas/activity-system`
 * **Merge**: `patterns/4cid.md` folded into [patterns/4cid-four-component-instructional-design](patterns/4cid-four-component-instructional-design.md) — stub was a pure subset; `4cid` retained as an alias so `realizes: 4cid` resolves
 * **Merge**: `patterns/gagnés-9-events.md` folded into [patterns/gagnes-9-events-of-instruction](patterns/gagnes-9-events-of-instruction.md), which is renamed to ASCII — a non-ASCII id is an NFC/NFD trap for a repo that resolves by string equality; both former spellings kept as aliases, 62 inbound links repointed
 * **Edit**: `scripts/build_wiki_index.py` + `wiki-index.json` — id, kind, title and aliases per page, committed, so learning-design-spec can resolve `realizes:` in CI with no wiki checkout; regenerated by `build_indexes.py`, staleness now checked in `validate.yml`
@@ -8843,7 +8847,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Content**: [principles/community-based-learning](principles/community-based-learning.md) — Added Humanizing Co-Design with Educators example from Potvin et al. (2024)
 * **Content**: [principles/reflection](principles/reflection.md) — Added Humanizing Co-Design with Educators example from Potvin et al. (2024)
 * **Ingest**: [claims/attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer](claims/attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer.md) — Initial ingest from Potvin, Teeters, Penuel & Dimidjian (2024), JLS 33(1)
-* **Ingest**: [patterns/humanizing-co-design-with-educators](patterns/humanizing-co-design-with-educators.md) — Initial ingest from Potvin, Teeters, Penuel & Dimidjian (2024), JLS 33(1)
+* **Ingest**: [patterns/humanizing-co-design-with-educators](processes/humanizing-co-design-with-educators.md) — Initial ingest from Potvin, Teeters, Penuel & Dimidjian (2024), JLS 33(1)
 * **Content**: [theories/cultural-historical-activity-theory](theories/cultural-historical-activity-theory.md) — Added Boundary Crossing Learning related theory link
 * **Content**: [theories/situated-learning](theories/situated-learning.md) — Added Boundary Crossing Learning related theory link
 * **Content**: [elements/hands-on-learning](elements/hands-on-learning.md) — Added Broker-Facilitated Cross-Domain Integration affordance from Liukkonen et al. (2023)
@@ -8881,7 +8885,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Content**: [theories/onto-epistemic-heterogeneity](theories/onto-epistemic-heterogeneity.md) — Added Funds of Knowledge related theory link
 * **Content**: [principles/cultural-life-experiences-connections](principles/cultural-life-experiences-connections.md) — Added Funds of Knowledge theory and linked claim from Randall, Earnest, Thota & Mensing (2025)
 * **Ingest**: [claims/funds-of-knowledge-tasks-reveal-computational-thinking](claims/funds-of-knowledge-tasks-reveal-computational-thinking.md) — Initial ingest from Randall, Earnest, Thota & Mensing (2025), JLS
-* **Ingest**: [strategies/family-interview-based-assessment-task-design](strategies/family-interview-based-assessment-task-design.md) — Initial ingest from Randall, Earnest, Thota & Mensing (2025), JLS
+* **Ingest**: [strategies/family-interview-based-assessment-task-design](methods/family-interview-based-assessment-task-design.md) — Initial ingest from Randall, Earnest, Thota & Mensing (2025), JLS
 * **Ingest**: [theories/funds-of-knowledge](theories/funds-of-knowledge.md) — Initial ingest from Randall, Earnest, Thota & Mensing (2025), JLS
 * **Content**: [elements/video-based-reflection](elements/video-based-reflection.md) — Extended element to cover children's self-interpretation of play video (Vescio 2025) alongside teacher PD use (Ehrenfeld & Stengel 2025)
 * **Content**: [principles/learner-choice](principles/learner-choice.md) — Linked claim from Vescio (2025) on children's video interpretation of unscripted play
@@ -8999,7 +9003,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Ingest**: [elements/addressing-student-misconceptions](elements/addressing-student-misconceptions.md) — New element: addressing student misconceptions (Unit 8 ingest)
 * **Ingest**: [patterns/team-based-learning](patterns/team-based-learning.md) — New pattern: Team-Based Learning (TBL), RAP/4S framework (Unit 8 ingest)
 * **Ingest**: [patterns/just-in-time-teaching](patterns/just-in-time-teaching.md) — New pattern: Just-In-Time Teaching (JiTT) (Unit 8 ingest)
-* **Ingest**: [patterns/understanding-by-design](patterns/understanding-by-design.md) — New pattern: Understanding by Design backward design framework (Unit 8 ingest)
+* **Ingest**: [patterns/understanding-by-design](processes/understanding-by-design.md) — New pattern: Understanding by Design backward design framework (Unit 8 ingest)
 * **Content**: [principles/social-interdependence](principles/social-interdependence.md) — Cross-link culturally responsive classroom norms (Unit 7 enrichment)
 * **Content**: [theories/metacognition](theories/metacognition.md) — Cross-link bilingual metalinguistic awareness claim (Unit 7 enrichment)
 * **Content**: [strategies/multi-tiered_system_of_supports_(mtss)](strategies/multi-tiered-system-of-supports-mtss.md) — Substantially rewrite stub with RTI/MTSS tier structure and history (Unit 7 enrichment)
@@ -9055,7 +9059,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Content**: [principles/transfer-of-learning](principles/transfer-of-learning.md) — Enriched from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
 * **Ingest**: [elements/self-regulation-questionnaire](elements/self-regulation-questionnaire.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
 * **Ingest**: [strategies/prosocial-modeling](strategies/prosocial-modeling.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
-* **Ingest**: [strategies/learning-hierarchy-task-analysis](strategies/learning-hierarchy-task-analysis.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Ingest**: [strategies/learning-hierarchy-task-analysis](methods/learning-hierarchy-task-analysis.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
 * **Ingest**: [strategies/conditioning-natural-reinforcers](strategies/conditioning-natural-reinforcers.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
 * **Ingest**: [strategies/behavioral-feedback-for-responses](strategies/behavioral-feedback-for-responses.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
 * **Ingest**: [strategies/effective-presentation-for-errorless-learning](strategies/effective-presentation-for-errorless-learning.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose

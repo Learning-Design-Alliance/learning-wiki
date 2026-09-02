@@ -2,38 +2,60 @@
  "coverage": {
   "claims->claims": 360,
   "claims->elements": 124,
-  "claims->patterns": 104,
+  "claims->methods": 1,
+  "claims->patterns": 103,
   "claims->principles": 145,
+  "claims->processes": 1,
   "claims->theories": 282,
   "elements->claims": 168,
   "elements->elements": 312,
   "elements->patterns": 241,
   "elements->principles": 309,
+  "elements->processes": 1,
   "elements->theories": 44,
   "learner-variables->claims": 12,
   "learner-variables->elements": 12,
   "learner-variables->learner-variables": 3,
   "learner-variables->patterns": 6,
   "learner-variables->theories": 6,
-  "patterns->claims": 94,
-  "patterns->elements": 98,
-  "patterns->patterns": 108,
-  "patterns->principles": 90,
-  "patterns->theories": 54,
+  "methods->claims": 8,
+  "methods->elements": 9,
+  "methods->methods": 7,
+  "methods->patterns": 3,
+  "methods->principles": 8,
+  "methods->processes": 1,
+  "methods->theories": 3,
+  "patterns->claims": 86,
+  "patterns->elements": 90,
+  "patterns->patterns": 99,
+  "patterns->principles": 82,
+  "patterns->theories": 47,
   "principles->claims": 161,
   "principles->elements": 50,
-  "principles->patterns": 41,
+  "principles->patterns": 39,
   "principles->principles": 192,
+  "principles->processes": 2,
   "principles->theories": 106,
-  "strategies->claims": 2326,
-  "strategies->elements": 2392,
-  "strategies->patterns": 817,
-  "strategies->principles": 1752,
-  "strategies->theories": 413,
+  "processes->claims": 8,
+  "processes->elements": 8,
+  "processes->methods": 4,
+  "processes->patterns": 7,
+  "processes->principles": 8,
+  "processes->processes": 6,
+  "processes->theories": 7,
+  "strategies->claims": 2318,
+  "strategies->elements": 2383,
+  "strategies->methods": 10,
+  "strategies->patterns": 808,
+  "strategies->principles": 1744,
+  "strategies->processes": 9,
+  "strategies->theories": 410,
   "theories->claims": 42,
   "theories->elements": 17,
+  "theories->methods": 1,
   "theories->patterns": 24,
   "theories->principles": 29,
+  "theories->processes": 1,
   "theories->theories": 76
  },
  "edges": {
@@ -360,6 +382,23 @@
       "polarity": "+",
       "slug": "prior-knowledge",
       "strength": "M"
+     }
+    ],
+    "methods": [
+     {
+      "polarity": "+",
+      "slug": "learner-analysis",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "learner-and-context-analysis",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "needs-analysis",
+      "strength": "S"
      }
     ],
     "patterns": [
@@ -780,16 +819,6 @@
      },
      {
       "polarity": "+",
-      "slug": "learner-analysis",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "learner-and-context-analysis",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
       "slug": "leveraging_strengths_in_relationship_skills",
       "strength": "M"
      },
@@ -802,11 +831,6 @@
       "polarity": "+",
       "slug": "literature-circles",
       "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "needs-analysis",
-      "strength": "S"
      },
      {
       "polarity": "+",
@@ -4072,22 +4096,7 @@
      },
      {
       "polarity": "+",
-      "slug": "continuous-improvement-of-learning-materials",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "data-wise-improvement-process",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
       "slug": "experiential-learning-cycle",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "faculty-course-design",
       "strength": "S"
      },
      {
@@ -4098,6 +4107,23 @@
      {
       "polarity": "+",
       "slug": "team-based-learning",
+      "strength": "S"
+     }
+    ],
+    "processes": [
+     {
+      "polarity": "+",
+      "slug": "continuous-improvement-of-learning-materials",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "data-wise-improvement-process",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "faculty-course-design",
       "strength": "S"
      }
     ],
@@ -5170,7 +5196,7 @@
     ]
    },
    "attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer": {
-    "patterns": [
+    "processes": [
      {
       "slug": "humanizing-co-design-with-educators"
      }
@@ -6656,6 +6682,13 @@
       "strength": "M"
      }
     ],
+    "methods": [
+     {
+      "polarity": "+",
+      "slug": "make-the-invisible-visible-power-dynamics",
+      "strength": "S"
+     }
+    ],
     "patterns": [
      {
       "polarity": "+",
@@ -7750,11 +7783,6 @@
       "polarity": "+",
       "slug": "literature_circles",
       "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "make-the-invisible-visible-power-dynamics",
-      "strength": "S"
      },
      {
       "polarity": "+",
@@ -12116,6 +12144,13 @@
       "strength": "S"
      }
     ],
+    "methods": [
+     {
+      "polarity": "+",
+      "slug": "task-analysis",
+      "strength": "S"
+     }
+    ],
     "patterns": [
      {
       "polarity": "~",
@@ -14788,11 +14823,6 @@
      },
      {
       "polarity": "+",
-      "slug": "task-analysis",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
       "slug": "task_analysis",
       "strength": "S"
      },
@@ -16207,7 +16237,7 @@
       "strength": "M"
      }
     ],
-    "patterns": [
+    "processes": [
      {
       "polarity": "+",
       "slug": "design-thinking",
@@ -16670,7 +16700,7 @@
       "slug": "writing-strategy-instruction-improves-writing-quality"
      }
     ],
-    "patterns": [
+    "processes": [
      {
       "polarity": "+",
       "slug": "learner-experience-design",
@@ -17159,6 +17189,13 @@
      {
       "polarity": "~",
       "slug": "writing-prompts",
+      "strength": "M"
+     }
+    ],
+    "methods": [
+     {
+      "polarity": "-",
+      "slug": "standards-crosswalk",
       "strength": "M"
      }
     ],
@@ -18657,11 +18694,6 @@
      },
      {
       "polarity": "-",
-      "slug": "standards-crosswalk",
-      "strength": "M"
-     },
-     {
-      "polarity": "-",
       "slug": "station_rotation",
       "strength": "M"
      },
@@ -19120,7 +19152,7 @@
       "strength": "M"
      }
     ],
-    "patterns": [
+    "processes": [
      {
       "polarity": "+",
       "slug": "learner-experience-design",
@@ -24658,30 +24690,22 @@
       "strength": "M"
      }
     ],
-    "patterns": [
+    "methods": [
      {
-      "polarity": "-",
-      "slug": "design-thinking",
-      "strength": "S"
-     },
-     {
-      "polarity": "-",
-      "slug": "faculty-course-design",
+      "polarity": "~",
+      "slug": "cognitive-task-analysis",
       "strength": "M"
      },
      {
       "polarity": "~",
-      "slug": "learner-experience-design",
+      "slug": "task-analysis",
       "strength": "M"
-     },
+     }
+    ],
+    "patterns": [
      {
       "polarity": "~",
       "slug": "professional-development",
-      "strength": "M"
-     },
-     {
-      "polarity": "-",
-      "slug": "successive-approximation-model",
       "strength": "M"
      },
      {
@@ -24718,6 +24742,28 @@
      },
      {
       "slug": "scaffolding-and-fading"
+     }
+    ],
+    "processes": [
+     {
+      "polarity": "-",
+      "slug": "design-thinking",
+      "strength": "S"
+     },
+     {
+      "polarity": "-",
+      "slug": "faculty-course-design",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "learner-experience-design",
+      "strength": "M"
+     },
+     {
+      "polarity": "-",
+      "slug": "successive-approximation-model",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -24855,11 +24901,6 @@
      {
       "polarity": "~",
       "slug": "cognitive-strategy-instruction",
-      "strength": "M"
-     },
-     {
-      "polarity": "~",
-      "slug": "cognitive-task-analysis",
       "strength": "M"
      },
      {
@@ -25348,11 +25389,6 @@
      {
       "polarity": "~",
       "slug": "support-decoding-of-text-mathematical-notation-and-symbols",
-      "strength": "M"
-     },
-     {
-      "polarity": "~",
-      "slug": "task-analysis",
       "strength": "M"
      },
      {
@@ -26711,26 +26747,18 @@
       "strength": "S"
      }
     ],
-    "patterns": [
+    "methods": [
      {
       "polarity": "+",
-      "slug": "continuous-improvement-of-learning-materials",
+      "slug": "backward-design",
       "strength": "S"
-     },
+     }
+    ],
+    "patterns": [
      {
       "polarity": "+",
       "slug": "cooperative-learning",
       "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "design-thinking",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "faculty-course-design",
-      "strength": "S"
      },
      {
       "polarity": "+",
@@ -26740,16 +26768,6 @@
      {
       "polarity": "+",
       "slug": "social-emotional-learning",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "successive-approximation-model",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "systematic-instructional-design",
       "strength": "S"
      },
      {
@@ -26777,6 +26795,33 @@
      {
       "polarity": "+",
       "slug": "universal-design-for-learning",
+      "strength": "S"
+     }
+    ],
+    "processes": [
+     {
+      "polarity": "+",
+      "slug": "continuous-improvement-of-learning-materials",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "design-thinking",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "faculty-course-design",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "successive-approximation-model",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "systematic-instructional-design",
       "strength": "S"
      }
     ],
@@ -26934,11 +26979,6 @@
      {
       "polarity": "+",
       "slug": "authors_chair",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "backward-design",
       "strength": "S"
      },
      {
@@ -28911,7 +28951,7 @@
     ]
    },
    "fluent-illusions-mislead-self-assessment": {
-    "patterns": [
+    "processes": [
      {
       "polarity": "~",
       "slug": "continuous-improvement-of-learning-materials",
@@ -29056,7 +29096,7 @@
       "strength": "M"
      }
     ],
-    "patterns": [
+    "processes": [
      {
       "polarity": "+",
       "slug": "faculty-course-design",
@@ -30364,7 +30404,7 @@
       "slug": "tutoring-effectiveness-comes-from-scaffolding-and-feedback"
      }
     ],
-    "strategies": [
+    "methods": [
      {
       "polarity": "~",
       "slug": "standards-crosswalk",
@@ -30992,7 +31032,7 @@
     ]
    },
    "mismatched-graphic-organizers-increase-extraneous-load": {
-    "patterns": [
+    "processes": [
      {
       "polarity": "+",
       "slug": "learner-experience-design",
@@ -32193,6 +32233,13 @@
       "strength": "M"
      }
     ],
+    "methods": [
+     {
+      "polarity": "+",
+      "slug": "task-analysis",
+      "strength": "M"
+     }
+    ],
     "patterns": [
      {
       "polarity": "+",
@@ -32421,11 +32468,6 @@
      {
       "polarity": "+",
       "slug": "support-for-decoding-text-mathematical-notation-and-symbols",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "task-analysis",
       "strength": "M"
      },
      {
@@ -33070,7 +33112,7 @@
       "slug": "activation-improves-learning"
      }
     ],
-    "patterns": [
+    "processes": [
      {
       "polarity": "+",
       "slug": "systematic-instructional-design",
@@ -35192,6 +35234,18 @@
       "strength": "M"
      }
     ],
+    "methods": [
+     {
+      "polarity": "+",
+      "slug": "backward-design",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "make-the-invisible-visible-power-dynamics",
+      "strength": "M"
+     }
+    ],
     "principles": [
      {
       "polarity": "+",
@@ -35334,11 +35388,6 @@
      {
       "polarity": "+",
       "slug": "authentic_learning_tasks",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "backward-design",
       "strength": "M"
      },
      {
@@ -36167,11 +36216,6 @@
      {
       "polarity": "+",
       "slug": "make-believe-problem-based_learning",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "make-the-invisible-visible-power-dynamics",
       "strength": "M"
      },
      {
@@ -43871,11 +43915,6 @@
       "polarity": "~",
       "slug": "reigeluths-elaboration-theory",
       "strength": "S"
-     },
-     {
-      "polarity": "-",
-      "slug": "systematic-instructional-design",
-      "strength": "M"
      }
     ],
     "principles": [
@@ -43999,6 +44038,13 @@
      },
      {
       "slug": "transfer-of-learning"
+     }
+    ],
+    "processes": [
+     {
+      "polarity": "-",
+      "slug": "systematic-instructional-design",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -44488,6 +44534,13 @@
       "strength": "M"
      }
     ],
+    "methods": [
+     {
+      "polarity": "~",
+      "slug": "learner-and-context-analysis",
+      "strength": "M"
+     }
+    ],
     "patterns": [
      {
       "polarity": "~",
@@ -44637,11 +44690,6 @@
      {
       "polarity": "~",
       "slug": "interactive_modeling",
-      "strength": "M"
-     },
-     {
-      "polarity": "~",
-      "slug": "learner-and-context-analysis",
       "strength": "M"
      },
      {
@@ -45721,6 +45769,11 @@
       "slug": "access"
      }
     ],
+    "methods": [
+     {
+      "slug": "needs-analysis"
+     }
+    ],
     "patterns": [
      {
       "slug": "authentic-assessment"
@@ -45997,9 +46050,6 @@
      },
      {
       "slug": "multisensory_phonics_instruction"
-     },
-     {
-      "slug": "needs-analysis"
      },
      {
       "slug": "no-zero_grading_policy"
@@ -46861,6 +46911,11 @@
       "slug": "structured-questioning"
      }
     ],
+    "methods": [
+     {
+      "slug": "learner-and-context-analysis"
+     }
+    ],
     "patterns": [
      {
       "slug": "5e-learning-cycle"
@@ -47160,9 +47215,6 @@
      },
      {
       "slug": "learn_about_students_math_backgrounds"
-     },
-     {
-      "slug": "learner-and-context-analysis"
      },
      {
       "slug": "learner-centric_approach"
@@ -47948,6 +48000,20 @@
       "slug": "prior-knowledge"
      }
     ],
+    "methods": [
+     {
+      "slug": "backward-design"
+     },
+     {
+      "slug": "learner-analysis"
+     },
+     {
+      "slug": "learner-personas"
+     },
+     {
+      "slug": "needs-analysis"
+     }
+    ],
     "patterns": [
      {
       "slug": "concept-attainment"
@@ -48068,9 +48134,6 @@
       "polarity": "+",
       "slug": "background_knowledge_activation",
       "strength": "M"
-     },
-     {
-      "slug": "backward-design"
      },
      {
       "slug": "bell-ringer"
@@ -48553,12 +48616,6 @@
       "slug": "latin-prefixes-suffixes-and-roots"
      },
      {
-      "slug": "learner-analysis"
-     },
-     {
-      "slug": "learner-personas"
-     },
-     {
       "slug": "learning-by-teaching"
      },
      {
@@ -48664,9 +48721,6 @@
       "polarity": "+",
       "slug": "narrative_advance_organizers",
       "strength": "W"
-     },
-     {
-      "slug": "needs-analysis"
      },
      {
       "slug": "nighttime_blue_light_reduction"
@@ -50136,6 +50190,11 @@
       "slug": "scenario-based-learning"
      }
     ],
+    "methods": [
+     {
+      "slug": "backward-design"
+     }
+    ],
     "patterns": [
      {
       "slug": "authentic-assessment"
@@ -50192,9 +50251,6 @@
      },
      {
       "slug": "augmented-reality-ar-for-space-industry-training"
-     },
-     {
-      "slug": "backward-design"
      },
      {
       "slug": "block_play"
@@ -52631,6 +52687,11 @@
       "slug": "state-objectives"
      }
     ],
+    "methods": [
+     {
+      "slug": "needs-analysis"
+     }
+    ],
     "patterns": [
      {
       "slug": "constructive-alignment"
@@ -52904,9 +52965,6 @@
      },
      {
       "slug": "multisensory-phonics-instruction"
-     },
-     {
-      "slug": "needs-analysis"
      },
      {
       "slug": "needs_and_wants_assessment_with_likert_scales"
@@ -53302,6 +53360,14 @@
       "slug": "summative-assessment"
      }
     ],
+    "methods": [
+     {
+      "slug": "backward-design"
+     },
+     {
+      "slug": "needs-analysis"
+     }
+    ],
     "patterns": [
      {
       "slug": "4cid-four-component-instructional-design"
@@ -53328,16 +53394,7 @@
       "slug": "concept-attainment"
      },
      {
-      "slug": "continuous-improvement-of-learning-materials"
-     },
-     {
-      "slug": "data-wise-improvement-process"
-     },
-     {
       "slug": "debate-format"
-     },
-     {
-      "slug": "faculty-course-design"
      },
      {
       "slug": "gagnes-9-events-of-instruction"
@@ -53356,9 +53413,6 @@
      },
      {
       "slug": "structured-peer-review"
-     },
-     {
-      "slug": "systematic-instructional-design"
      },
      {
       "slug": "team-based-learning"
@@ -53388,6 +53442,20 @@
      },
      {
       "slug": "universal-design-for-learning"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "continuous-improvement-of-learning-materials"
+     },
+     {
+      "slug": "data-wise-improvement-process"
+     },
+     {
+      "slug": "faculty-course-design"
+     },
+     {
+      "slug": "systematic-instructional-design"
      }
     ],
     "strategies": [
@@ -53468,9 +53536,6 @@
      },
      {
       "slug": "authentic_learning_tasks"
-     },
-     {
-      "slug": "backward-design"
      },
      {
       "slug": "badges"
@@ -54080,9 +54145,6 @@
      },
      {
       "slug": "multiple_exposures"
-     },
-     {
-      "slug": "needs-analysis"
      },
      {
       "slug": "negotiated_grades"
@@ -55382,7 +55444,7 @@
       "slug": "authentic-audiences-improve-student-work"
      }
     ],
-    "patterns": [
+    "processes": [
      {
       "slug": "design-thinking"
      },
@@ -55641,6 +55703,11 @@
       "slug": "motivation"
      }
     ],
+    "methods": [
+     {
+      "slug": "learner-personas"
+     }
+    ],
     "patterns": [
      {
       "slug": "positive-behavioral-interventions-and-supports"
@@ -55687,9 +55754,6 @@
      },
      {
       "slug": "icebreakers-and-introductions"
-     },
-     {
-      "slug": "learner-personas"
      },
      {
       "slug": "math-anxiety-reduction"
@@ -56073,6 +56137,11 @@
       "slug": "transfer-tasks"
      }
     ],
+    "methods": [
+     {
+      "slug": "cognitive-task-analysis"
+     }
+    ],
     "patterns": [
      {
       "slug": "authentic-assessment"
@@ -56180,9 +56249,6 @@
      },
      {
       "slug": "co-construct_rubrics"
-     },
-     {
-      "slug": "cognitive-task-analysis"
      },
      {
       "slug": "cognitively_demanding_tasks"
@@ -57126,10 +57192,12 @@
       "slug": "team-based-inquiry"
      }
     ],
-    "patterns": [
+    "methods": [
      {
-      "slug": "data-wise-improvement-process"
-     },
+      "slug": "learner-and-context-analysis"
+     }
+    ],
+    "patterns": [
      {
       "slug": "positive-behavioral-interventions-and-supports"
      },
@@ -57158,6 +57226,11 @@
      },
      {
       "slug": "universal-design-for-learning"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "data-wise-improvement-process"
      }
     ],
     "strategies": [
@@ -58078,9 +58151,6 @@
      },
      {
       "slug": "ladder_of_feedback"
-     },
-     {
-      "slug": "learner-and-context-analysis"
      },
      {
       "slug": "learning-communities"
@@ -59653,9 +59723,6 @@
       "slug": "cooperative-learning"
      },
      {
-      "slug": "data-wise-improvement-process"
-     },
-     {
       "slug": "debate-format"
      },
      {
@@ -59686,6 +59753,11 @@
      },
      {
       "slug": "social-presence"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "data-wise-improvement-process"
      }
     ],
     "strategies": [
@@ -61862,6 +61934,11 @@
       "slug": "whole-task-performance"
      }
     ],
+    "methods": [
+     {
+      "slug": "backward-design"
+     }
+    ],
     "patterns": [
      {
       "slug": "cognitive-apprenticeship"
@@ -62010,9 +62087,6 @@
      },
      {
       "slug": "awareness_of_self-talk"
-     },
-     {
-      "slug": "backward-design"
      },
      {
       "slug": "balanced_assessment_system"
@@ -65054,14 +65128,14 @@
       "slug": "negotiation"
      }
     ],
+    "methods": [
+     {
+      "slug": "make-the-invisible-visible-power-dynamics"
+     }
+    ],
     "patterns": [
      {
       "slug": "collaborative-evaluation"
-     }
-    ],
-    "strategies": [
-     {
-      "slug": "make-the-invisible-visible-power-dynamics"
      }
     ]
    },
@@ -65172,15 +65246,17 @@
       "slug": "rubrics"
      }
     ],
+    "methods": [
+     {
+      "slug": "make-the-invisible-visible-power-dynamics"
+     }
+    ],
     "strategies": [
      {
       "slug": "formative-feedback"
      },
      {
       "slug": "leveraging_native_language_in_pbl"
-     },
-     {
-      "slug": "make-the-invisible-visible-power-dynamics"
      },
      {
       "slug": "ongoing_feedback_and_reflection"
@@ -68566,13 +68642,7 @@
       "slug": "collaborative-inquiry"
      },
      {
-      "slug": "design-thinking"
-     },
-     {
       "slug": "develop-understanding"
-     },
-     {
-      "slug": "faculty-course-design"
      },
      {
       "slug": "flipped-classroom"
@@ -68591,6 +68661,14 @@
      },
      {
       "slug": "model-evidence-link-mel-reasoning-pattern"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "design-thinking"
+     },
+     {
+      "slug": "faculty-course-design"
      },
      {
       "slug": "successive-approximation-model"
@@ -69744,7 +69822,7 @@
       "slug": "revision"
      }
     ],
-    "patterns": [
+    "processes": [
      {
       "slug": "successive-approximation-model"
      }
@@ -69915,7 +69993,7 @@
     ]
    },
    "learning-analytics-feedback": {
-    "patterns": [
+    "processes": [
      {
       "slug": "continuous-improvement-of-learning-materials"
      },
@@ -69945,7 +70023,12 @@
     ]
    },
    "learning-objectives": {
-    "patterns": [
+    "methods": [
+     {
+      "slug": "standards-crosswalk"
+     }
+    ],
+    "processes": [
      {
       "slug": "design-thinking"
      },
@@ -69962,9 +70045,6 @@
     "strategies": [
      {
       "slug": "spaced-retrieval-practice"
-     },
-     {
-      "slug": "standards-crosswalk"
      }
     ]
    },
@@ -69977,7 +70057,7 @@
       "slug": "state-objectives"
      }
     ],
-    "patterns": [
+    "processes": [
      {
       "slug": "continuous-improvement-of-learning-materials"
      }
@@ -71949,6 +72029,14 @@
       "slug": "writing-prompts"
      }
     ],
+    "methods": [
+     {
+      "slug": "learner-and-context-analysis"
+     },
+     {
+      "slug": "needs-analysis"
+     }
+    ],
     "patterns": [
      {
       "slug": "cognitive-load-reduction-clt-scaffolding-approach"
@@ -73140,9 +73228,6 @@
       "slug": "latin-prefixes-suffixes-and-roots"
      },
      {
-      "slug": "learner-and-context-analysis"
-     },
-     {
       "slug": "learner-generated_examples"
      },
      {
@@ -73469,9 +73554,6 @@
      },
      {
       "slug": "navigator-tourist_peer_learning"
-     },
-     {
-      "slug": "needs-analysis"
      },
      {
       "slug": "non-competitive_physical_activities"
@@ -76646,7 +76728,7 @@
       "slug": "rubrics"
      }
     ],
-    "patterns": [
+    "processes": [
      {
       "slug": "faculty-course-design"
      }
@@ -77883,10 +77965,12 @@
       "slug": "conceptual-scaffolding"
      }
     ],
-    "strategies": [
+    "methods": [
      {
       "slug": "cognitive-task-analysis"
-     },
+     }
+    ],
+    "strategies": [
      {
       "slug": "concrete-representational-abstract-cra"
      }
@@ -78250,16 +78334,16 @@
       "slug": "learning-outcomes"
      }
     ],
-    "patterns": [
+    "principles": [
+     {
+      "slug": "clear-structure-presentation"
+     }
+    ],
+    "processes": [
      {
       "polarity": "+",
       "slug": "understanding-by-design",
       "strength": "M"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "clear-structure-presentation"
      }
     ],
     "strategies": [
@@ -78477,7 +78561,9 @@
     "patterns": [
      {
       "slug": "summative-assessment"
-     },
+     }
+    ],
+    "processes": [
      {
       "slug": "systematic-instructional-design"
      }
@@ -78591,15 +78677,17 @@
       "slug": "writing-prompts"
      }
     ],
+    "methods": [
+     {
+      "slug": "cognitive-task-analysis"
+     },
+     {
+      "slug": "task-analysis"
+     }
+    ],
     "patterns": [
      {
       "slug": "cognitive-apprenticeship"
-     },
-     {
-      "slug": "data-wise-improvement-process"
-     },
-     {
-      "slug": "learner-experience-design"
      },
      {
       "slug": "merrills-first-principles-demonstration"
@@ -78617,6 +78705,14 @@
     "principles": [
      {
       "slug": "scaffolding-and-fading"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "data-wise-improvement-process"
+     },
+     {
+      "slug": "learner-experience-design"
      }
     ],
     "strategies": [
@@ -78694,9 +78790,6 @@
      },
      {
       "slug": "cognitive-strategy-instruction"
-     },
-     {
-      "slug": "cognitive-task-analysis"
      },
      {
       "slug": "cold-call"
@@ -79472,9 +79565,6 @@
       "slug": "take-home_practice_sets"
      },
      {
-      "slug": "task-analysis"
-     },
-     {
       "slug": "teach-metacognitive-strategies"
      },
      {
@@ -79782,6 +79872,11 @@
       "slug": "working-memory"
      }
     ],
+    "methods": [
+     {
+      "slug": "needs-analysis"
+     }
+    ],
     "patterns": [
      {
       "slug": "authentic-assessment"
@@ -79807,9 +79902,6 @@
      },
      {
       "slug": "maximize_transfer_and_generalization"
-     },
-     {
-      "slug": "needs-analysis"
      },
      {
       "slug": "rubric-based_self-assessment"
@@ -79866,6 +79958,216 @@
     "learner-variables": [
      {
       "slug": "attention"
+     }
+    ]
+   }
+  },
+  "methods": {
+   "activity-system-personas": {
+    "processes": [
+     {
+      "slug": "design-thinking"
+     },
+     {
+      "slug": "learner-experience-design"
+     }
+    ]
+   },
+   "backward-design": {
+    "methods": [
+     {
+      "slug": "standards-crosswalk"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "design-thinking"
+     },
+     {
+      "slug": "faculty-course-design"
+     },
+     {
+      "slug": "systematic-instructional-design"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "lesson_plans"
+     },
+     {
+      "slug": "set_clear_objectives"
+     },
+     {
+      "slug": "understanding-by-design-unit-template"
+     },
+     {
+      "slug": "unit_planning_with_graphic_organizers"
+     }
+    ]
+   },
+   "cognitive-task-analysis": {
+    "methods": [
+     {
+      "slug": "activity-system-personas"
+     },
+     {
+      "slug": "standards-crosswalk"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "systematic-instructional-design"
+     }
+    ]
+   },
+   "family-interview-based-assessment-task-design": {
+    "claims": [
+     {
+      "slug": "funds-of-knowledge-tasks-reveal-computational-thinking"
+     }
+    ]
+   },
+   "learner-analysis": {
+    "methods": [
+     {
+      "slug": "task-analysis"
+     }
+    ]
+   },
+   "learner-and-context-analysis": {
+    "methods": [
+     {
+      "slug": "activity-system-personas"
+     },
+     {
+      "slug": "cognitive-task-analysis"
+     },
+     {
+      "slug": "learner-analysis"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "design-thinking"
+     },
+     {
+      "slug": "learner-experience-design"
+     },
+     {
+      "slug": "systematic-instructional-design"
+     }
+    ]
+   },
+   "learner-personas": {
+    "methods": [
+     {
+      "slug": "activity-system-personas"
+     },
+     {
+      "slug": "needs-analysis"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "design-thinking"
+     },
+     {
+      "slug": "learner-experience-design"
+     }
+    ]
+   },
+   "learning-hierarchy-task-analysis": {
+    "methods": [
+     {
+      "slug": "cognitive-task-analysis"
+     },
+     {
+      "slug": "standards-crosswalk"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "systematic-instructional-design"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "behaviorism"
+     }
+    ]
+   },
+   "needs-analysis": {
+    "methods": [
+     {
+      "slug": "activity-system-personas"
+     },
+     {
+      "slug": "cognitive-task-analysis"
+     },
+     {
+      "slug": "learner-and-context-analysis"
+     },
+     {
+      "slug": "standards-crosswalk"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "design-thinking"
+     },
+     {
+      "slug": "systematic-instructional-design"
+     }
+    ]
+   },
+   "standards-crosswalk": {
+    "processes": [
+     {
+      "slug": "design-thinking"
+     },
+     {
+      "slug": "systematic-instructional-design"
+     }
+    ]
+   },
+   "task-analysis": {
+    "methods": [
+     {
+      "slug": "cognitive-task-analysis"
+     },
+     {
+      "slug": "learner-and-context-analysis"
+     },
+     {
+      "slug": "needs-analysis"
+     },
+     {
+      "slug": "standards-crosswalk"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "systematic-instructional-design"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "chunking_directions"
+     },
+     {
+      "slug": "explicit_instruction_in_self-advocacy_and_self-determination"
+     },
+     {
+      "slug": "faded-guidance"
+     },
+     {
+      "slug": "picture_schedules_and_visual_planners"
+     },
+     {
+      "slug": "pretraining"
+     },
+     {
+      "slug": "visual-schedules"
      }
     ]
    }
@@ -79975,6 +80277,14 @@
       "slug": "working-memory"
      }
     ],
+    "methods": [
+     {
+      "slug": "backward-design"
+     },
+     {
+      "slug": "task-analysis"
+     }
+    ],
     "patterns": [
      {
       "slug": "cognitive-apprenticeship"
@@ -79990,7 +80300,9 @@
      },
      {
       "slug": "reigeluths-elaboration-theory"
-     },
+     }
+    ],
+    "processes": [
      {
       "slug": "systematic-instructional-design"
      }
@@ -79998,9 +80310,6 @@
     "strategies": [
      {
       "slug": "authentic_learning_tasks"
-     },
-     {
-      "slug": "backward-design"
      },
      {
       "slug": "chunking-content"
@@ -80085,9 +80394,6 @@
      },
      {
       "slug": "student_demonstrations"
-     },
-     {
-      "slug": "task-analysis"
      },
      {
       "slug": "task_analysis"
@@ -80198,6 +80504,11 @@
       "slug": "mastery-progression"
      }
     ],
+    "methods": [
+     {
+      "slug": "learner-personas"
+     }
+    ],
     "principles": [
      {
       "slug": "adaptive-learning"
@@ -80215,9 +80526,6 @@
      },
      {
       "slug": "formative-feedback-loops"
-     },
-     {
-      "slug": "learner-personas"
      },
      {
       "slug": "mastery-based-progression"
@@ -80436,7 +80744,7 @@
       "slug": "domain-context"
      }
     ],
-    "patterns": [
+    "processes": [
      {
       "slug": "data-wise-improvement-process"
      }
@@ -80682,13 +80990,15 @@
       "slug": "concept-attainment"
      },
      {
-      "slug": "data-wise-improvement-process"
-     },
-     {
       "slug": "social-emotional-learning"
      },
      {
       "slug": "team-based-learning"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "data-wise-improvement-process"
      }
     ],
     "strategies": [
@@ -82544,9 +82854,6 @@
       "slug": "data-storytelling-forage-remix-diy"
      },
      {
-      "slug": "data-wise-improvement-process"
-     },
-     {
       "slug": "discussion-group"
      },
      {
@@ -82571,6 +82878,11 @@
     "principles": [
      {
       "slug": "social-constructivism"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "data-wise-improvement-process"
      }
     ],
     "strategies": [
@@ -82965,6 +83277,11 @@
       "slug": "time-and-continuity"
      }
     ],
+    "methods": [
+     {
+      "slug": "backward-design"
+     }
+    ],
     "patterns": [
      {
       "slug": "authentic-assessment"
@@ -82973,9 +83290,6 @@
     "strategies": [
      {
       "slug": "assess_fluency_components"
-     },
-     {
-      "slug": "backward-design"
      },
      {
       "slug": "balanced_assessment_system"
@@ -83222,13 +83536,15 @@
       "slug": "authentic-assessment"
      },
      {
-      "slug": "data-wise-improvement-process"
-     },
-     {
       "slug": "positive-behavioral-interventions-and-supports"
      },
      {
       "slug": "team-based-learning"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "data-wise-improvement-process"
      }
     ],
     "strategies": [
@@ -83255,22 +83571,6 @@
      },
      {
       "slug": "simulation-based-practice"
-     }
-    ]
-   },
-   "continuous-improvement-of-learning-materials": {
-    "patterns": [
-     {
-      "slug": "design-thinking"
-     },
-     {
-      "slug": "faculty-course-design"
-     },
-     {
-      "slug": "learner-experience-design"
-     },
-     {
-      "slug": "successive-approximation-model"
      }
     ]
    },
@@ -83478,33 +83778,6 @@
     "claims": [
      {
       "slug": "personal-connection-to-data-supports-critical-data-literacy-stance-taking"
-     }
-    ]
-   },
-   "data-wise-improvement-process": {
-    "patterns": [
-     {
-      "slug": "continuous-improvement-of-learning-materials"
-     }
-    ],
-    "strategies": [
-     {
-      "slug": "data-driven-dialogue"
-     },
-     {
-      "slug": "preliminary_data_collection"
-     },
-     {
-      "slug": "professional-learning-communities"
-     },
-     {
-      "slug": "response-to-intervention"
-     },
-     {
-      "slug": "teacher-as-learner"
-     },
-     {
-      "slug": "teacher_racial_identity_work"
      }
     ]
    },
@@ -83717,36 +83990,6 @@
      },
      {
       "slug": "twelve-angry-men"
-     }
-    ]
-   },
-   "design-thinking": {
-    "patterns": [
-     {
-      "slug": "continuous-improvement-of-learning-materials"
-     },
-     {
-      "slug": "learner-experience-design"
-     },
-     {
-      "slug": "successive-approximation-model"
-     },
-     {
-      "slug": "systematic-instructional-design"
-     }
-    ],
-    "strategies": [
-     {
-      "slug": "design-thinking"
-     },
-     {
-      "slug": "product-testing"
-     },
-     {
-      "slug": "standards-crosswalk"
-     },
-     {
-      "slug": "student_shadowing"
      }
     ]
    },
@@ -85561,9 +85804,6 @@
      },
      {
       "slug": "team-based-learning"
-     },
-     {
-      "slug": "understanding-by-design"
      }
     ],
     "principles": [
@@ -85575,6 +85815,11 @@
      },
      {
       "slug": "multimedia-learning"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "understanding-by-design"
      }
     ],
     "strategies": [
@@ -85633,9 +85878,6 @@
     ],
     "patterns": [
      {
-      "slug": "continuous-improvement-of-learning-materials"
-     },
-     {
       "slug": "social-emotional-learning"
      },
      {
@@ -85648,6 +85890,11 @@
     "principles": [
      {
       "slug": "responsive-teaching"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "continuous-improvement-of-learning-materials"
      }
     ],
     "strategies": [
@@ -86093,10 +86340,12 @@
       "slug": "merrills-first-principles-of-instruction"
      },
      {
-      "slug": "systematic-instructional-design"
-     },
-     {
       "slug": "traditional-lecture-reading-midterm-final-assessment"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "systematic-instructional-design"
      }
     ],
     "strategies": [
@@ -86386,26 +86635,6 @@
      }
     ]
    },
-   "humanizing-co-design-with-educators": {
-    "claims": [
-     {
-      "slug": "attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "community-based-learning"
-     },
-     {
-      "slug": "reflection"
-     }
-    ],
-    "theories": [
-     {
-      "slug": "ecological-paradigm-of-interdisciplinary-learning"
-     }
-    ]
-   },
    "identity-centered-e-textile-making": {
     "claims": [
      {
@@ -86456,9 +86685,6 @@
     ],
     "patterns": [
      {
-      "slug": "humanizing-co-design-with-educators"
-     },
-     {
       "slug": "organization-simulation-for-interdisciplinary-learning"
      },
      {
@@ -86471,6 +86697,11 @@
      },
      {
       "slug": "inquiry-based-learning"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "humanizing-co-design-with-educators"
      }
     ],
     "theories": [
@@ -86618,7 +86849,7 @@
       "slug": "addressing-student-misconceptions"
      }
     ],
-    "patterns": [
+    "processes": [
      {
       "slug": "understanding-by-design"
      }
@@ -86641,19 +86872,6 @@
      },
      {
       "slug": "reflective-practice"
-     }
-    ]
-   },
-   "learner-experience-design": {
-    "patterns": [
-     {
-      "slug": "continuous-improvement-of-learning-materials"
-     },
-     {
-      "slug": "design-thinking"
-     },
-     {
-      "slug": "successive-approximation-model"
      }
     ]
    },
@@ -86927,6 +87145,16 @@
    "online-course-design": {
     "patterns": [
      {
+      "slug": "massive-open-online-course"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "community-of-inquiry"
+     }
+    ],
+    "processes": [
+     {
       "slug": "continuous-improvement-of-learning-materials"
      },
      {
@@ -86934,14 +87162,6 @@
      },
      {
       "slug": "learner-experience-design"
-     },
-     {
-      "slug": "massive-open-online-course"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "community-of-inquiry"
      }
     ]
    },
@@ -87210,7 +87430,7 @@
     ]
    },
    "professional-development": {
-    "patterns": [
+    "processes": [
      {
       "slug": "faculty-course-design"
      }
@@ -87545,22 +87765,6 @@
      }
     ]
    },
-   "successive-approximation-model": {
-    "patterns": [
-     {
-      "slug": "continuous-improvement-of-learning-materials"
-     },
-     {
-      "slug": "design-thinking"
-     },
-     {
-      "slug": "learner-experience-design"
-     },
-     {
-      "slug": "systematic-instructional-design"
-     }
-    ]
-   },
    "summative-assessment": {
     "elements": [
      {
@@ -87580,30 +87784,13 @@
      }
     ]
    },
-   "systematic-instructional-design": {
-    "patterns": [
-     {
-      "slug": "continuous-improvement-of-learning-materials"
-     },
-     {
-      "slug": "design-thinking"
-     },
-     {
-      "slug": "faculty-course-design"
-     },
-     {
-      "slug": "learner-experience-design"
-     },
-     {
-      "slug": "successive-approximation-model"
-     }
-    ]
-   },
    "team-based-learning": {
     "patterns": [
      {
       "slug": "just-in-time-teaching"
-     },
+     }
+    ],
+    "processes": [
      {
       "slug": "understanding-by-design"
      }
@@ -88028,24 +88215,6 @@
      }
     ]
    },
-   "understanding-by-design": {
-    "elements": [
-     {
-      "slug": "state-objectives"
-     }
-    ],
-    "patterns": [
-     {
-      "slug": "design-thinking"
-     },
-     {
-      "slug": "faculty-course-design"
-     },
-     {
-      "slug": "systematic-instructional-design"
-     }
-    ]
-   },
    "workshop-model": {
     "strategies": [
      {
@@ -88122,6 +88291,14 @@
      },
      {
       "slug": "structured-questioning"
+     }
+    ],
+    "methods": [
+     {
+      "slug": "learner-analysis"
+     },
+     {
+      "slug": "learner-personas"
      }
     ],
     "principles": [
@@ -88361,12 +88538,6 @@
      },
      {
       "slug": "language_songs"
-     },
-     {
-      "slug": "learner-analysis"
-     },
-     {
-      "slug": "learner-personas"
      },
      {
       "slug": "leveraging_strengths_to_support_processing_speed"
@@ -88715,6 +88886,11 @@
       "slug": "writing-prompts"
      }
     ],
+    "methods": [
+     {
+      "slug": "learner-analysis"
+     }
+    ],
     "patterns": [
      {
       "slug": "5e-learning-cycle"
@@ -88916,9 +89092,6 @@
      },
      {
       "slug": "language_songs"
-     },
-     {
-      "slug": "learner-analysis"
      },
      {
       "slug": "learning-logs"
@@ -90092,6 +90265,14 @@
       "slug": "mastery-progression"
      }
     ],
+    "methods": [
+     {
+      "slug": "learner-analysis"
+     },
+     {
+      "slug": "learner-and-context-analysis"
+     }
+    ],
     "principles": [
      {
       "slug": "gamification"
@@ -90157,12 +90338,6 @@
      },
      {
       "slug": "just-in-time-learning"
-     },
-     {
-      "slug": "learner-analysis"
-     },
-     {
-      "slug": "learner-and-context-analysis"
      },
      {
       "slug": "learning-dashboards"
@@ -91742,9 +91917,6 @@
       "slug": "cooperative-learning"
      },
      {
-      "slug": "data-wise-improvement-process"
-     },
-     {
       "slug": "experiential-learning-cycle"
      },
      {
@@ -91801,6 +91973,11 @@
      },
      {
       "slug": "validity-reliability-and-bias-in-classroom-assessment"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "data-wise-improvement-process"
      }
     ],
     "strategies": [
@@ -93285,6 +93462,14 @@
       "slug": "writing-prompts"
      }
     ],
+    "methods": [
+     {
+      "slug": "learner-and-context-analysis"
+     },
+     {
+      "slug": "learner-personas"
+     }
+    ],
     "patterns": [
      {
       "slug": "positive-behavioral-interventions-and-supports"
@@ -93319,12 +93504,6 @@
      },
      {
       "slug": "goal-setting-with-students"
-     },
-     {
-      "slug": "learner-and-context-analysis"
-     },
-     {
-      "slug": "learner-personas"
      },
      {
       "slug": "makerspaces"
@@ -93498,6 +93677,11 @@
      },
      {
       "slug": "perspective-taking"
+     }
+    ],
+    "methods": [
+     {
+      "slug": "make-the-invisible-visible-power-dynamics"
      }
     ],
     "patterns": [
@@ -93820,9 +94004,6 @@
       "slug": "maintaining_an_inclusive_curriculum"
      },
      {
-      "slug": "make-the-invisible-visible-power-dynamics"
-     },
-     {
       "slug": "mirror_faces"
      },
      {
@@ -94134,6 +94315,14 @@
      },
      {
       "slug": "submission"
+     }
+    ],
+    "methods": [
+     {
+      "slug": "learner-personas"
+     },
+     {
+      "slug": "make-the-invisible-visible-power-dynamics"
      }
     ],
     "patterns": [
@@ -94717,9 +94906,6 @@
       "slug": "learn_about_students_math_backgrounds"
      },
      {
-      "slug": "learner-personas"
-     },
-     {
       "slug": "learning_conferences"
      },
      {
@@ -94769,9 +94955,6 @@
      },
      {
       "slug": "maintaining_sensitivity_to_language_concerns"
-     },
-     {
-      "slug": "make-the-invisible-visible-power-dynamics"
      },
      {
       "slug": "metacognitive_awareness_for_self-regulation"
@@ -96364,6 +96547,16 @@
       "slug": "text-underlining-and-annotating"
      }
     ],
+    "methods": [
+     {
+      "polarity": "+",
+      "slug": "backward-design",
+      "strength": "M"
+     },
+     {
+      "slug": "needs-analysis"
+     }
+    ],
     "patterns": [
      {
       "slug": "5e-learning-cycle"
@@ -96409,11 +96602,6 @@
      },
      {
       "slug": "awareness_of_implicit_biases"
-     },
-     {
-      "polarity": "+",
-      "slug": "backward-design",
-      "strength": "M"
      },
      {
       "slug": "before_or_after-school_physical_activity_programs"
@@ -96595,9 +96783,6 @@
      },
      {
       "slug": "mystery-motivator"
-     },
-     {
-      "slug": "needs-analysis"
      },
      {
       "slug": "optimizing_classroom_space"
@@ -97878,10 +98063,15 @@
       "slug": "writing-prompts"
      }
     ],
-    "patterns": [
+    "methods": [
      {
-      "slug": "learner-experience-design"
+      "slug": "learner-analysis"
      },
+     {
+      "slug": "learner-personas"
+     }
+    ],
+    "patterns": [
      {
       "slug": "multimedia-learning"
      }
@@ -97916,6 +98106,11 @@
      },
      {
       "slug": "universal-design-for-learning"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "learner-experience-design"
      }
     ],
     "strategies": [
@@ -98270,12 +98465,6 @@
      },
      {
       "slug": "interaction_with_natural_environment"
-     },
-     {
-      "slug": "learner-analysis"
-     },
-     {
-      "slug": "learner-personas"
      },
      {
       "polarity": "-",
@@ -99052,9 +99241,6 @@
       "slug": "cooperative-learning"
      },
      {
-      "slug": "data-wise-improvement-process"
-     },
-     {
       "slug": "online-course-design"
      },
      {
@@ -99100,6 +99286,11 @@
      },
      {
       "slug": "social-presence"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "data-wise-improvement-process"
      }
     ],
     "strategies": [
@@ -99733,14 +99924,22 @@
       "slug": "promote-a-sense-of-home"
      }
     ],
-    "patterns": [
+    "methods": [
      {
-      "slug": "humanizing-co-design-with-educators"
+      "slug": "learner-and-context-analysis"
+     },
+     {
+      "slug": "make-the-invisible-visible-power-dynamics"
      }
     ],
     "principles": [
      {
       "slug": "situated-learning"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "humanizing-co-design-with-educators"
      }
     ],
     "strategies": [
@@ -99820,13 +100019,7 @@
       "slug": "home-visiting"
      },
      {
-      "slug": "learner-and-context-analysis"
-     },
-     {
       "slug": "learning-communities"
-     },
-     {
-      "slug": "make-the-invisible-visible-power-dynamics"
      },
      {
       "slug": "make_learning_relevant"
@@ -101568,15 +101761,6 @@
       "slug": "competency-based-learning"
      },
      {
-      "slug": "continuous-improvement-of-learning-materials"
-     },
-     {
-      "slug": "design-thinking"
-     },
-     {
-      "slug": "faculty-course-design"
-     },
-     {
       "slug": "formative-assessment"
      },
      {
@@ -101590,12 +101774,6 @@
      },
      {
       "slug": "structured-peer-review"
-     },
-     {
-      "slug": "successive-approximation-model"
-     },
-     {
-      "slug": "systematic-instructional-design"
      },
      {
       "slug": "think-pair-share"
@@ -101649,6 +101827,23 @@
      },
      {
       "slug": "summative-assessment"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "continuous-improvement-of-learning-materials"
+     },
+     {
+      "slug": "design-thinking"
+     },
+     {
+      "slug": "faculty-course-design"
+     },
+     {
+      "slug": "successive-approximation-model"
+     },
+     {
+      "slug": "systematic-instructional-design"
      }
     ],
     "theories": [
@@ -103520,9 +103715,6 @@
       "slug": "collaborative-inquiry"
      },
      {
-      "slug": "data-wise-improvement-process"
-     },
-     {
       "slug": "discussion-group"
      },
      {
@@ -103597,6 +103789,11 @@
       "slug": "worked-examples"
      }
     ],
+    "processes": [
+     {
+      "slug": "data-wise-improvement-process"
+     }
+    ],
     "theories": [
      {
       "slug": "constructivism"
@@ -103659,9 +103856,6 @@
     ],
     "patterns": [
      {
-      "slug": "humanizing-co-design-with-educators"
-     },
-     {
       "slug": "journaling"
      },
      {
@@ -103674,6 +103868,11 @@
     "principles": [
      {
       "slug": "reflective-practice"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "humanizing-co-design-with-educators"
      }
     ]
    },
@@ -104527,14 +104726,14 @@
     ]
    },
    "sequencing": {
+    "methods": [
+     {
+      "slug": "task-analysis"
+     }
+    ],
     "principles": [
      {
       "slug": "clear-structure"
-     }
-    ],
-    "strategies": [
-     {
-      "slug": "task-analysis"
      }
     ]
    },
@@ -105069,6 +105268,11 @@
     ]
    },
    "transfer-of-learning": {
+    "methods": [
+     {
+      "slug": "learning-hierarchy-task-analysis"
+     }
+    ],
     "patterns": [
      {
       "slug": "merrills-first-principles-integration"
@@ -105085,9 +105289,6 @@
     "strategies": [
      {
       "slug": "hugging-and-bridging-for-transfer"
-     },
-     {
-      "slug": "learning-hierarchy-task-analysis"
      }
     ],
     "theories": [
@@ -105413,6 +105614,169 @@
     ]
    }
   },
+  "processes": {
+   "continuous-improvement-of-learning-materials": {
+    "processes": [
+     {
+      "slug": "design-thinking"
+     },
+     {
+      "slug": "faculty-course-design"
+     },
+     {
+      "slug": "learner-experience-design"
+     },
+     {
+      "slug": "successive-approximation-model"
+     }
+    ]
+   },
+   "data-wise-improvement-process": {
+    "processes": [
+     {
+      "slug": "continuous-improvement-of-learning-materials"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "data-driven-dialogue"
+     },
+     {
+      "slug": "preliminary_data_collection"
+     },
+     {
+      "slug": "professional-learning-communities"
+     },
+     {
+      "slug": "response-to-intervention"
+     },
+     {
+      "slug": "teacher-as-learner"
+     },
+     {
+      "slug": "teacher_racial_identity_work"
+     }
+    ]
+   },
+   "design-thinking": {
+    "methods": [
+     {
+      "slug": "standards-crosswalk"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "continuous-improvement-of-learning-materials"
+     },
+     {
+      "slug": "learner-experience-design"
+     },
+     {
+      "slug": "successive-approximation-model"
+     },
+     {
+      "slug": "systematic-instructional-design"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "design-thinking"
+     },
+     {
+      "slug": "product-testing"
+     },
+     {
+      "slug": "student_shadowing"
+     }
+    ]
+   },
+   "humanizing-co-design-with-educators": {
+    "claims": [
+     {
+      "slug": "attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "community-based-learning"
+     },
+     {
+      "slug": "reflection"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "ecological-paradigm-of-interdisciplinary-learning"
+     }
+    ]
+   },
+   "learner-experience-design": {
+    "processes": [
+     {
+      "slug": "continuous-improvement-of-learning-materials"
+     },
+     {
+      "slug": "design-thinking"
+     },
+     {
+      "slug": "successive-approximation-model"
+     }
+    ]
+   },
+   "successive-approximation-model": {
+    "processes": [
+     {
+      "slug": "continuous-improvement-of-learning-materials"
+     },
+     {
+      "slug": "design-thinking"
+     },
+     {
+      "slug": "learner-experience-design"
+     },
+     {
+      "slug": "systematic-instructional-design"
+     }
+    ]
+   },
+   "systematic-instructional-design": {
+    "processes": [
+     {
+      "slug": "continuous-improvement-of-learning-materials"
+     },
+     {
+      "slug": "design-thinking"
+     },
+     {
+      "slug": "faculty-course-design"
+     },
+     {
+      "slug": "learner-experience-design"
+     },
+     {
+      "slug": "successive-approximation-model"
+     }
+    ]
+   },
+   "understanding-by-design": {
+    "elements": [
+     {
+      "slug": "state-objectives"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "design-thinking"
+     },
+     {
+      "slug": "faculty-course-design"
+     },
+     {
+      "slug": "systematic-instructional-design"
+     }
+    ]
+   }
+  },
   "theories": {
    "adaptive-cycles-framework": {
     "claims": [
@@ -105545,9 +105909,6 @@
       "slug": "constructive-alignment"
      },
      {
-      "slug": "data-wise-improvement-process"
-     },
-     {
       "slug": "positive-behavioral-interventions-and-supports"
      },
      {
@@ -105560,12 +105921,6 @@
      },
      {
       "slug": "social-emotional-learning"
-     },
-     {
-      "slug": "successive-approximation-model"
-     },
-     {
-      "slug": "systematic-instructional-design"
      }
     ],
     "principles": [
@@ -105586,6 +105941,17 @@
      },
      {
       "slug": "rhetorical-skill-development"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "data-wise-improvement-process"
+     },
+     {
+      "slug": "successive-approximation-model"
+     },
+     {
+      "slug": "systematic-instructional-design"
      }
     ],
     "strategies": [
@@ -106508,16 +106874,7 @@
       "slug": "cooperative-learning"
      },
      {
-      "slug": "design-thinking"
-     },
-     {
       "slug": "experiential-learning-cycle"
-     },
-     {
-      "slug": "faculty-course-design"
-     },
-     {
-      "slug": "learner-experience-design"
      },
      {
       "polarity": "+",
@@ -106684,6 +107041,17 @@
      },
      {
       "slug": "worked-examples"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "design-thinking"
+     },
+     {
+      "slug": "faculty-course-design"
+     },
+     {
+      "slug": "learner-experience-design"
      }
     ],
     "strategies": [
@@ -106945,18 +107313,12 @@
       "slug": "cooperative-learning"
      },
      {
-      "slug": "data-wise-improvement-process"
-     },
-     {
       "polarity": "+",
       "slug": "emergent-curriculum",
       "strength": "M"
      },
      {
       "slug": "experiential-learning-cycle"
-     },
-     {
-      "slug": "faculty-course-design"
      },
      {
       "slug": "five-e-model"
@@ -106967,16 +107329,10 @@
       "strength": "M"
      },
      {
-      "slug": "learner-experience-design"
-     },
-     {
       "slug": "pair-c-framework"
      },
      {
       "slug": "responsive-classroom"
-     },
-     {
-      "slug": "systematic-instructional-design"
      },
      {
       "slug": "team-based-learning"
@@ -107086,6 +107442,20 @@
      },
      {
       "slug": "worked-examples"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "data-wise-improvement-process"
+     },
+     {
+      "slug": "faculty-course-design"
+     },
+     {
+      "slug": "learner-experience-design"
+     },
+     {
+      "slug": "systematic-instructional-design"
      }
     ],
     "strategies": [
@@ -107243,15 +107613,14 @@
       "slug": "domain-context"
      }
     ],
+    "methods": [
+     {
+      "slug": "activity-system-personas"
+     }
+    ],
     "patterns": [
      {
-      "slug": "design-thinking"
-     },
-     {
       "slug": "differentiated-activity-structures-for-inclusive-participation"
-     },
-     {
-      "slug": "learner-experience-design"
      }
     ],
     "principles": [
@@ -107259,9 +107628,12 @@
       "slug": "community-based-learning"
      }
     ],
-    "strategies": [
+    "processes": [
      {
-      "slug": "activity-system-personas"
+      "slug": "design-thinking"
+     },
+     {
+      "slug": "learner-experience-design"
      }
     ],
     "theories": [
@@ -107286,7 +107658,7 @@
     ]
    },
    "design-layers-theory": {
-    "patterns": [
+    "processes": [
      {
       "slug": "continuous-improvement-of-learning-materials"
      },
@@ -107303,10 +107675,12 @@
     ],
     "patterns": [
      {
-      "slug": "design-thinking"
-     },
-     {
       "slug": "reflective-practice"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "design-thinking"
      },
      {
       "slug": "successive-approximation-model"
@@ -108308,6 +108682,13 @@
       "slug": "working-memory"
      }
     ],
+    "methods": [
+     {
+      "polarity": "~",
+      "slug": "learner-analysis",
+      "strength": "S"
+     }
+    ],
     "patterns": [
      {
       "slug": "concept-attainment"
@@ -108380,11 +108761,6 @@
      },
      {
       "slug": "interleaved-practice"
-     },
-     {
-      "polarity": "~",
-      "slug": "learner-analysis",
-      "strength": "S"
      },
      {
       "polarity": "~",
@@ -108513,6 +108889,11 @@
       "slug": "embodied-dance-improvisation-supports-physics-engagement-and-sensemaking"
      }
     ],
+    "methods": [
+     {
+      "slug": "family-interview-based-assessment-task-design"
+     }
+    ],
     "patterns": [
      {
       "slug": "critical-maker-entrepreneurialism-program"
@@ -108524,11 +108905,6 @@
     "principles": [
      {
       "slug": "cultural-life-experiences-connections"
-     }
-    ],
-    "strategies": [
-     {
-      "slug": "family-interview-based-assessment-task-design"
      }
     ],
     "theories": [
@@ -108698,13 +109074,7 @@
       "slug": "concept-attainment"
      },
      {
-      "slug": "continuous-improvement-of-learning-materials"
-     },
-     {
       "slug": "formative-assessment"
-     },
-     {
-      "slug": "systematic-instructional-design"
      }
     ],
     "principles": [
@@ -108781,6 +109151,14 @@
      },
      {
       "slug": "worked-examples"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "continuous-improvement-of-learning-materials"
+     },
+     {
+      "slug": "systematic-instructional-design"
      }
     ],
     "strategies": [
@@ -110612,19 +110990,10 @@
       "slug": "cognitive-apprenticeship"
      },
      {
-      "slug": "continuous-improvement-of-learning-materials"
-     },
-     {
       "slug": "cooperative-learning"
      },
      {
       "slug": "data-storytelling-forage-remix-diy"
-     },
-     {
-      "slug": "data-wise-improvement-process"
-     },
-     {
-      "slug": "design-thinking"
      },
      {
       "polarity": "+",
@@ -110635,19 +111004,10 @@
       "slug": "experiential-learning-cycle"
      },
      {
-      "slug": "faculty-course-design"
-     },
-     {
       "slug": "interdisciplinary-course-based-research-experience"
      },
      {
-      "slug": "learner-experience-design"
-     },
-     {
       "slug": "professional-development"
-     },
-     {
-      "slug": "systematic-instructional-design"
      },
      {
       "slug": "writing-workshop"
@@ -110680,6 +111040,26 @@
      },
      {
       "slug": "social-presence"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "continuous-improvement-of-learning-materials"
+     },
+     {
+      "slug": "data-wise-improvement-process"
+     },
+     {
+      "slug": "design-thinking"
+     },
+     {
+      "slug": "faculty-course-design"
+     },
+     {
+      "slug": "learner-experience-design"
+     },
+     {
+      "slug": "systematic-instructional-design"
      }
     ],
     "strategies": [
@@ -110824,9 +111204,6 @@
       "slug": "cooperative-learning"
      },
      {
-      "slug": "data-wise-improvement-process"
-     },
-     {
       "slug": "positive-behavioral-interventions-and-supports"
      },
      {
@@ -110865,6 +111242,11 @@
      },
      {
       "slug": "social-presence"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "data-wise-improvement-process"
      }
     ],
     "strategies": [
@@ -111288,8 +111670,10 @@
   "claims": "claim",
   "elements": "element",
   "learner-variables": "learner-variable",
+  "methods": "method",
   "patterns": "pattern",
   "principles": "principle",
+  "processes": "process",
   "theories": "theory"
  },
  "note": "Reverse edges: for each page, which pages link TO it. Built by scripts/build_reverse_index.py; see its docstring for why this direction rather than ## Examples.",
@@ -111297,9 +111681,11 @@
   "claims": 422,
   "elements": 325,
   "learner-variables": 12,
-  "patterns": 134,
+  "methods": 12,
+  "patterns": 125,
   "principles": 198,
-  "strategies": 2560,
+  "processes": 9,
+  "strategies": 2548,
   "theories": 89
  }
 }

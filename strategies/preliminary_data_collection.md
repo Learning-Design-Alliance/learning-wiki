@@ -24,7 +24,7 @@ Data-informed problem framing improves the fit between interventions and local c
 #### Requirements
 - Access to data sources: records systems, observation protocols, survey instruments, and interviewees
 - Analytic skills for both quantitative (disaggregation, trend analysis) and qualitative (coding, triangulation) data
-- Structured protocols for interpretation, such as [Data-Driven Dialogue](../strategies/data-driven-dialogue.md) or the [Data Wise](../patterns/data-wise-improvement-process.md) cycle
+- Structured protocols for interpretation, such as [Data-Driven Dialogue](../strategies/data-driven-dialogue.md) or the [Data Wise](../processes/data-wise-improvement-process.md) cycle
 - Time and facilitation for collaborative sense-making, not just collection
 
 #### Constraints

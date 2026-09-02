@@ -1,5 +1,5 @@
 ---
-type: pattern
+type: process
 id: data-wise-improvement-process
 title: Data Wise Improvement Process
 description: The Data Wise Improvement Process is an eight-step, team-based protocol for using student assessment data to drive instructional improvement in schools.
@@ -13,7 +13,7 @@ grain_size: program, school
 
 # Data Wise Improvement Process
 
-> **Pattern** · [All patterns](index.md)
+> **Design Process** · [All design processes](index.md)
 
 ## Description
 The Data Wise Improvement Process, developed at the Harvard Graduate School of Education, is a structured cycle through which school teams systematically examine student learning data, connect findings to instructional practice, and act on what they learn. It organizes collaborative data work into three phases — **Prepare**, **Inquire**, and **Act** — comprising eight steps, and is deliberately scaffolded by norms and protocols so that conversations about data stay focused on evidence rather than blame. The problem it solves is common in schools: assessment data are collected extensively but rarely translated into changed instruction, because teams lack a shared process for interpreting evidence and agreeing on next steps.
@@ -102,10 +102,10 @@ The eight steps, grouped in three phases:
 
 **Higher education adaptation:** Use course-level learning analytics and program assessment data in place of K–12 test data; the "examine instruction" step requires curricular rather than pedagogical framing.
 
-## Related Patterns
-- [Collaborative Inquiry](collaborative-inquiry.md) — Data Wise is a highly specified instance of collaborative inquiry; the broader pattern applies when teams lack the full Data Wise infrastructure
-- [Constructive Alignment](constructive-alignment.md) — the "examine instruction" and "plan to assess" steps push teams toward aligning assessments, instruction, and intended learning outcomes
-- [Authentic Assessment](authentic-assessment.md) — data overviews are only as trustworthy as the assessments feeding them; authentic tasks often yield the richest evidence for the Inquire phase
+## Related Processes
+- [Collaborative Inquiry](../patterns/collaborative-inquiry.md) — Data Wise is a highly specified instance of collaborative inquiry; the broader pattern applies when teams lack the full Data Wise infrastructure
+- [Constructive Alignment](../patterns/constructive-alignment.md) — the "examine instruction" and "plan to assess" steps push teams toward aligning assessments, instruction, and intended learning outcomes
+- [Authentic Assessment](../patterns/authentic-assessment.md) — data overviews are only as trustworthy as the assessments feeding them; authentic tasks often yield the richest evidence for the Inquire phase
 
 ## Examples
 
@@ -113,7 +113,7 @@ The eight steps, grouped in three phases:
 
 **School networks — [Data Wise Project, Harvard GSE](https://www.gse.harvard.edu/data-wise):** The project publishes protocols, rubrics, and case studies used by districts and networks internationally; schools typically run the full cycle annually, with team-level mini-cycles each term.
 
-**Teacher education:** Preparation programs use Data Wise as a case-based learning experience, having candidates analyze a school's data overview and draft an action plan before entering the classroom — see [Case-Based Learning](case-based-learning.md).
+**Teacher education:** Preparation programs use Data Wise as a case-based learning experience, having candidates analyze a school's data overview and draft an action plan before entering the classroom — see [Case-Based Learning](../patterns/case-based-learning.md).
 
 **Higher education program assessment:** Departments have adapted the cycle to review capstone assessment results, examine curriculum, and plan revisions, replacing compliance-oriented accreditation reporting with inquiry.
 

@@ -1,5 +1,5 @@
 ---
-type: strategy
+type: method
 id: make-the-invisible-visible-power-dynamics
 title: Make the Invisible Visible (Power Dynamics)
 description: A design strategy that surfaces and names power dynamics among stakeholders, making decision-making authority explicit and redistributing it across the design process.
@@ -11,7 +11,7 @@ generated:
 
 # Make the Invisible Visible (Power Dynamics)
 
-> **Strategy** · [All strategies](index.md)
+> **Design Method** · [All design methods](index.md)
 
 ## Description
 This strategy brings power dynamics to the forefront of learning design by naming them rather than leaving them tacit. It asks designers to make explicit who holds decision-making authority at each stage, and to choose deliberately among design postures along a continuum of shared power: user-centered design (designers consult users), co-design (stakeholders join the design team as partners), and user-created design (learners hold genuine authority over decisions). The strategy also employs structured observation tools to assess how a learning environment affirms or minimizes student identities. The goal is equitable design: challenging unexamined assumptions about who belongs, who decides, and whose expertise counts.
@@ -57,7 +57,7 @@ Surfacing power dynamics converts an implicit political process into an inspecta
 4. **Reach consensus on changes.** Use [Consensus Discussion](../elements/consensus-discussion.md) to decide which decisions will move along the continuum toward co-design or student-created design.
 5. **Close the loop.** Report back to students and stakeholders on what changed and why; repeat observation cycles to check whether the environment actually shifted.
 
-## Related Strategies
+## Related Methods
 - [Community-based Learning](../principles/community-based-learning.md) — situates design and learning in authentic community relationships, requiring negotiated rather than assumed authority
 - [Building Empathy](../principles/building-empathy.md) — supplies the perspective-taking groundwork that makes power discussions productive rather than adversarial
 - [Check-ins](../principles/check-ins.md) — lightweight routines that keep stakeholder voice continuous rather than episodic

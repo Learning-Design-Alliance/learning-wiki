@@ -1,5 +1,5 @@
 ---
-type: pattern
+type: process
 id: continuous-improvement-of-learning-materials
 title: Continuous Improvement of Learning Materials
 description: A post-release design process that treats a shipped course as a hypothesis under test — instrumenting materials so that use and outcome data are collected together, running short build–measure–learn cycles, and using RISE analysis to decide which resource to revise next.
@@ -13,7 +13,7 @@ grain_size: course
 
 # Continuous Improvement of Learning Materials
 
-> **Pattern** · [All patterns](index.md)
+> **Design Process** · [All design processes](index.md)
 
 ## Description
 Most design processes end at release. Continuous improvement begins there: the shipped course is treated as the current best hypothesis, instrumented so that every subsequent cohort produces evidence about which of its parts are working, and revised in small, targeted increments rather than in periodic wholesale rewrites.
@@ -102,12 +102,12 @@ This is a *design* process, not an analytics dashboard. Its precondition is a li
 - **Small cohorts** should aggregate across several runs before analysing, and treat quadrant membership as a prompt to look rather than a finding
 - **Where the licence does not permit revision**, the loop still works as a *selection* process: swap the failing resource for another rather than improving it
 
-## Related Patterns
+## Related Processes
 - [Data Wise Improvement Process](data-wise-improvement-process.md) — the same evidence-to-action discipline run by a school team on its own instruction
 - [Successive Approximation Model](successive-approximation-model.md) — iterative before release; this is iterative after it
-- [Formative Assessment](formative-assessment.md) — the learner-facing counterpart of the same loop
+- [Formative Assessment](../patterns/formative-assessment.md) — the learner-facing counterpart of the same loop
 - [Learner Experience Design](learner-experience-design.md) — supplies the qualitative methods that explain *why* a flagged resource is failing
-- [Online Course Design](online-course-design.md)
+- [Online Course Design](../patterns/online-course-design.md)
 
 ## Examples
 - **Open textbook revision programmes** — usage and outcome data from one term prioritising which chapters are rewritten for the next

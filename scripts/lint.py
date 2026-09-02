@@ -32,7 +32,12 @@ import okf_lib as ok
 
 WIKI_ROOT = Path(__file__).parent.parent
 
-PAGE_TYPES = ["principles", "elements", "patterns", "strategies", "theories", "claims", "sources"]
+# The checker had its own copy of the folder list too, and it was missing
+# learner-variables — so for as long as that folder has existed, no page in
+# it has been checked for a broken link, and the count printed at the top of
+# every run was quietly 12 short. It said OK because it never looked.
+# `sources` is appended because it holds pages but is not a content kind.
+PAGE_TYPES = [*ok.CONTENT_FOLDERS, "sources"]
 
 # OKF cross-links are plain relative markdown links: [Label](slug.md) or
 # [Label](../folder/slug.md). Excludes parens-containing targets (e.g. a slug like
@@ -399,6 +404,8 @@ BANNER_TYPES = {
     "patterns": ("Pattern", "pattern"),
     "strategies": ("Strategy", "strategy"),
     "theories": ("Theory", "theory"),
+    "processes": ("Design Process", "process"),
+    "methods": ("Design Method", "method"),
     "learner-variables": ("Learner Variable", "learner-variable"),
     "claims": ("Claim", "claim"),
 }
@@ -625,18 +632,35 @@ def check_nav_coverage(pages: dict[str, Path]) -> list[dict]:
                            f"but the folder is missing from {' and '.join(missing)}"),
             })
 
-    # A folder that is not in build_indexes' own table never gets its index
-    # regenerated, which is the half of the bug the two lists above cannot see.
+    # The lists the two above cannot see: a folder missing from any of these
+    # fails silently and differently. Adding `processes` and `methods` turned up
+    # a *fourteenth* copy of the folder list — lint.py's own PAGE_TYPES, which
+    # had never contained learner-variables, so no page in that folder had ever
+    # been checked for a broken link and the count at the top of every run was
+    # twelve short. It reported OK because it never looked. The copies that
+    # simply mean "every content folder" now derive from okf_lib; these are the
+    # ones that carry per-kind data and so must stay hand-written.
     sys.path.insert(0, str(Path(__file__).parent))
-    import build_indexes
+    import build_indexes, build_wiki_index, add_type_banner
+    tables = [
+        ("build_indexes.PAGE_TYPES", build_indexes.PAGE_TYPES,
+         "its index is never regenerated from disk"),
+        ("build_wiki_index.KINDS", build_wiki_index.KINDS,
+         "its pages are absent from wiki-index.json, so the design-spec side "
+         "cannot resolve a slug in this kind at all"),
+        ("add_type_banner.TYPE_LABELS", add_type_banner.TYPE_LABELS,
+         "its pages get no page-type banner"),
+        ("lint.BANNER_TYPES", BANNER_TYPES,
+         "check_type_banner skips the folder entirely"),
+    ]
     for folder in folders:
-        if folder not in build_indexes.PAGE_TYPES:
-            issues.append({
-                "type": "content_folder_not_generated",
-                "file": f"{folder}/index.md",
-                "detail": "folder is absent from build_indexes.PAGE_TYPES, so its "
-                          "index is never regenerated from disk",
-            })
+        for name, table, consequence in tables:
+            if folder not in table:
+                issues.append({
+                    "type": "content_folder_not_in_table",
+                    "file": f"{folder}/",
+                    "detail": f"folder is absent from {name}, so {consequence}",
+                })
     return issues
 
 

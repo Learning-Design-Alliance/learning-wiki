@@ -1,5 +1,5 @@
 ---
-type: strategy
+type: method
 id: learning-hierarchy-task-analysis
 title: Learning Hierarchy Task Analysis
 description: Task analysis identifies the prerequisite skills a target performance requires by repeatedly asking what a learner must already master, arranging the answers into a sequenced learning hierarchy from foundational to complex.
@@ -11,7 +11,7 @@ generated:
 
 # Learning Hierarchy Task Analysis
 
-> **Strategy** · [All strategies](index.md)
+> **Design Method** · [All design methods](index.md)
 
 ## Description
 Behavioral science attributes almost all learning failure to either a lack of prerequisite skills or poorly designed instructional sequencing — not to a lack of general ability, aptitude, or intelligence. The idea of breaking a complex behavior into smaller component behaviors originates with Skinner's (1954) shaping research; Gagné (1970) demonstrated its importance for classroom learning specifically.
@@ -43,8 +43,8 @@ Behavioral science attributes almost all learning failure to either a lack of pr
 4. Arrange the resulting skills into a sequenced learning hierarchy, checking that no skill is scheduled before its own prerequisites.
 5. Before teaching the target task, verify learners have mastered the hierarchy's prerequisites — treat an unexpected difficulty with the target task as a cue to check for a missing prerequisite rather than assuming a lack of ability.
 
-## Related Strategies
-- [Task Analysis](task_analysis.md) — a narrower application of task analysis focused specifically on breaking down a writing assignment for struggling writers; this strategy addresses the more general prerequisite-sequencing process behind any complex skill
+## Related Methods
+- [Task Analysis](../strategies/task_analysis.md) — a narrower application of task analysis focused specifically on breaking down a writing assignment for struggling writers; this strategy addresses the more general prerequisite-sequencing process behind any complex skill
 
 ## Examples
 - A teacher whose student cannot master long division asks whether the student has learned to subtract; if not, whether they can regroup; if not, whether they can identify which of two numbers is larger — tracing the difficulty back to its actual prerequisite gap rather than concluding the student lacks mathematical ability.

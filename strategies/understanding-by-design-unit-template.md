@@ -55,7 +55,7 @@ Backward design counters the common "activity-oriented" and "coverage-oriented" 
 4. **Align and review.** Audit the three stages against each other; have a colleague check that every Stage 1 understanding has observable Stage 2 evidence.
 
 ## Related Strategies
-- [Backward Design](backward-design.md) — the underlying planning logic the template operationalizes
+- [Backward Design](../methods/backward-design.md) — the underlying planning logic the template operationalizes
 - [Essential Questions](essential-questions.md) — Stage 1's engine for framing understandings as inquiry
 - [Performance Task Design](performance-task-design.md) — the Stage 2 assessment genre at the template's core
 - [Rubric Design](../elements/rubric-design.md) — the scoring instrument that makes understanding visible

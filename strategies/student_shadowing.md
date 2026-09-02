@@ -61,7 +61,7 @@ Shadowing functions as a form of situated, perspective-taking inquiry: the adult
 ## Related Strategies
 - [Empathy Interviews](../principles/empathy-interviews.md) — complements observation with the student's own account of their experience
 - [Learning Walks](learning-walks.md) — adult-focused observation of instruction; shadowing inverts the vantage point
-- [Design Thinking](../patterns/design-thinking.md) — shadowing typically serves as the empathy phase of a design cycle
+- [Design Thinking](../processes/design-thinking.md) — shadowing typically serves as the empathy phase of a design cycle
 
 ## Examples
 - **[Shadow a Student Challenge](https://www.shadowastudent.org)** — A campaign by IDEO's Teachers Guild and Stanford d.school in which thousands of school leaders nationwide shadow a student for a day and share documented insights; commonly cited findings include the sheer number of transitions, sitting fatigue, and how little voice students have in a typical day.

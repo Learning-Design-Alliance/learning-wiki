@@ -55,7 +55,12 @@ import find_title_duplicates as ftd
 
 WIKI_ROOT = Path(__file__).parent.parent
 HISTORY_PATH = WIKI_ROOT / "eval" / "health" / "history.ndjson"
-PAGE_TYPES = ("principles", "elements", "patterns", "strategies", "theories", "claims", "learner-variables")
+import okf_lib as ok
+
+# Every content folder. Derived rather than repeated: thirteen scripts each
+# kept their own copy of this list, which is how learner-variables ended up
+# missing from one of them for weeks. See okf_lib.CONTENT_FOLDERS.
+PAGE_TYPES = tuple(ok.CONTENT_FOLDERS)
 
 
 def count_incomplete_pages() -> dict:

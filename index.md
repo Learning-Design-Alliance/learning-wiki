@@ -18,11 +18,17 @@ Research-backed design commitments: what to do and why.
 ### [Elements](elements/index.md) (325)
 Instructional building blocks — the components you compose into patterns.
 
-### [Patterns](patterns/index.md) (134)
+### [Patterns](patterns/index.md) (125)
 Reusable instructional designs at the lesson or unit level.
 
-### [Strategies](strategies/index.md) (2560)
+### [Strategies](strategies/index.md) (2548)
 Concrete teaching activity recipes — specific, implementable approaches.
+
+### [Design Processes](processes/index.md) (9)
+How a course gets designed — whole-process models a designer works through, rather than anything a learner meets.
+
+### [Design Methods](methods/index.md) (12)
+The practices a design process is made of — analysis, elicitation, mapping and evaluation work done on the design, not in the classroom.
 
 ### [Theories](theories/index.md) (89)
 Explanatory frameworks that ground principles and claims.

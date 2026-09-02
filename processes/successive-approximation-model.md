@@ -1,5 +1,5 @@
 ---
-type: pattern
+type: process
 id: successive-approximation-model
 title: Successive Approximation Model (SAM)
 description: An iterative, agile course design process that replaces a single analyse-build-evaluate pass with short rounds of design, prototype and review, starting from a collaborative Savvy Start and converging on a design by repeated approximation rather than by up-front specification.
@@ -13,7 +13,7 @@ grain_size: course
 
 # Successive Approximation Model (SAM)
 
-> **Pattern** · [All patterns](index.md)
+> **Design Process** · [All design processes](index.md)
 
 ## Description
 SAM is an iterative design process for courses, formulated by Michael Allen as an explicit alternative to running [ADDIE](systematic-instructional-design.md) as a waterfall. Its argument is empirical rather than philosophical: the phases of a systematic process are all sound, but performing each one *completely* before starting the next means the first real evidence about whether the design works arrives after the budget is spent.
@@ -91,7 +91,7 @@ Where the scope itself is unsettled, SAM is the wrong tool and [Design Thinking]
 - **Where stakeholders cannot convene**, replace the Savvy Start with a sequence of short paired reviews and accept slower convergence; do not replace it with a written specification, which reintroduces the failure the process exists to avoid
 - **Where an audit trail is required**, run SAM for the design and generate the objective-to-assessment map as a release artifact at gold, rather than as the design's starting point
 
-## Related Patterns
+## Related Processes
 - [Systematic Instructional Design](systematic-instructional-design.md) — the process SAM was formulated against; its phases survive, its ordering does not
 - [Design Thinking](design-thinking.md) — iterates the problem statement as well as the solution; SAM keeps the problem fixed
 - [Continuous Improvement of Learning Materials](continuous-improvement-of-learning-materials.md) — the same iterative logic applied after release, driven by usage data
