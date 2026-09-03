@@ -1,6 +1,6 @@
 {
  "coverage": {
-  "claims->claims": 360,
+  "claims->claims": 366,
   "claims->elements": 124,
   "claims->methods": 1,
   "claims->patterns": 103,
@@ -9970,6 +9970,12 @@
     "claims": [
      {
       "slug": "heritage-language-preservation-supports-english-acquisition"
+     },
+     {
+      "slug": "italian-gender-stays-incomplete-for-l2-and-heritage-speakers"
+     },
+     {
+      "slug": "l1-predicts-l2-phoneme-perception-more-than-proficiency"
      }
     ],
     "learner-variables": [
@@ -29025,6 +29031,13 @@
      }
     ]
    },
+   "game-based-practice-outperforms-traditional-l2-vocabulary-instruction": {
+    "claims": [
+     {
+      "slug": "l1-predicts-l2-phoneme-perception-more-than-proficiency"
+     }
+    ]
+   },
    "generation-effect-improves-retention": {
     "claims": [
      {
@@ -29080,6 +29093,9 @@
    },
    "goal-setting-improves-performance": {
     "claims": [
+     {
+      "slug": "italian-l2-motivation-is-ideal-self-not-instrumental"
+     },
      {
       "polarity": "+",
       "slug": "self-determined-learning-model-of-instruction-improves-self-determination",
@@ -29370,6 +29386,14 @@
     "claims": [
      {
       "slug": "bilingual-fluency-enhances-metalinguistic-awareness"
+     },
+     {
+      "polarity": "+",
+      "slug": "italian-gender-stays-incomplete-for-l2-and-heritage-speakers",
+      "strength": "M"
+     },
+     {
+      "slug": "italian-l2-motivation-is-ideal-self-not-instrumental"
      }
     ]
    },
@@ -29813,6 +29837,16 @@
     ]
    },
    "incidental-vocabulary-exposure-limited": {
+    "claims": [
+     {
+      "slug": "game-based-practice-outperforms-traditional-l2-vocabulary-instruction"
+     },
+     {
+      "polarity": "-",
+      "slug": "strategy-use-correlates-with-l2-proficiency-in-adolescents",
+      "strength": "M"
+     }
+    ],
     "learner-variables": [
      {
       "polarity": "-",
@@ -29939,6 +29973,36 @@
      }
     ]
    },
+   "italian-gender-stays-incomplete-for-l2-and-heritage-speakers": {
+    "claims": [
+     {
+      "polarity": "~",
+      "slug": "l1-predicts-l2-phoneme-perception-more-than-proficiency",
+      "strength": "M"
+     }
+    ],
+    "learner-variables": [
+     {
+      "polarity": "~",
+      "slug": "reading-and-language",
+      "strength": "M"
+     }
+    ]
+   },
+   "italian-l2-motivation-is-ideal-self-not-instrumental": {
+    "claims": [
+     {
+      "slug": "strategy-use-correlates-with-l2-proficiency-in-adolescents"
+     }
+    ],
+    "learner-variables": [
+     {
+      "polarity": "~",
+      "slug": "motivation",
+      "strength": "M"
+     }
+    ]
+   },
    "joint-book-reading-predicts-literacy-success": {
     "elements": [
      {
@@ -30000,6 +30064,32 @@
       "polarity": "+",
       "slug": "critical-maker-entrepreneurialism",
       "strength": "M"
+     }
+    ]
+   },
+   "l1-predicts-l2-phoneme-perception-more-than-proficiency": {
+    "claims": [
+     {
+      "polarity": "+",
+      "slug": "game-based-practice-outperforms-traditional-l2-vocabulary-instruction",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "italian-gender-stays-incomplete-for-l2-and-heritage-speakers",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "l2-fluency-gains-persist-weeks-without-practice",
+      "strength": "S"
+     }
+    ],
+    "learner-variables": [
+     {
+      "polarity": "+",
+      "slug": "reading-and-language",
+      "strength": "S"
      }
     ]
    },
@@ -30317,6 +30407,13 @@
     ]
    },
    "learning-strategy-instruction-contextualized-more-effective": {
+    "claims": [
+     {
+      "polarity": "+",
+      "slug": "strategy-use-correlates-with-l2-proficiency-in-adolescents",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -32132,6 +32229,13 @@
     ]
    },
    "pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone": {
+    "claims": [
+     {
+      "polarity": "+",
+      "slug": "game-based-practice-outperforms-traditional-l2-vocabulary-instruction",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -32698,6 +32802,11 @@
     ]
    },
    "phoneme-awareness-stronger-predictor-than-rhyme": {
+    "claims": [
+     {
+      "slug": "l1-predicts-l2-phoneme-perception-more-than-proficiency"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -33110,6 +33219,11 @@
     "claims": [
      {
       "slug": "activation-improves-learning"
+     },
+     {
+      "polarity": "+",
+      "slug": "l1-predicts-l2-phoneme-perception-more-than-proficiency",
+      "strength": "S"
      }
     ],
     "processes": [
@@ -34779,6 +34893,11 @@
     ]
    },
    "retrieval-practice-improves-transfer": {
+    "claims": [
+     {
+      "slug": "l2-fluency-gains-persist-weeks-without-practice"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -42184,6 +42303,13 @@
     ]
    },
    "spacing-improves-long-term-retention": {
+    "claims": [
+     {
+      "polarity": "+",
+      "slug": "l2-fluency-gains-persist-weeks-without-practice",
+      "strength": "S"
+     }
+    ],
     "learner-variables": [
      {
       "polarity": "+",
@@ -42689,6 +42815,20 @@
      {
       "polarity": "+",
       "slug": "explicit-strategy-instruction",
+      "strength": "M"
+     }
+    ]
+   },
+   "strategy-use-correlates-with-l2-proficiency-in-adolescents": {
+    "claims": [
+     {
+      "slug": "italian-l2-motivation-is-ideal-self-not-instrumental"
+     }
+    ],
+    "learner-variables": [
+     {
+      "polarity": "~",
+      "slug": "self-regulation",
       "strength": "M"
      }
     ]
@@ -111678,7 +111818,7 @@
  },
  "note": "Reverse edges: for each page, which pages link TO it. Built by scripts/build_reverse_index.py; see its docstring for why this direction rather than ## Examples.",
  "totals": {
-  "claims": 422,
+  "claims": 428,
   "elements": 325,
   "learner-variables": 12,
   "methods": 12,

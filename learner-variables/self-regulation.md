@@ -38,6 +38,7 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Goal setting improves performance](../claims/goal-setting-improves-performance.md) [+M] — specific and proximal goals rather than exhortation
 - [Fluency judgments mislead learners](../claims/fluency-judgments-mislead-learners.md) [-M] — why unaided self-assessment is not a signal to design around
 - [Self assessment accuracy is low without training](../claims/self-assessment-accuracy-is-low-without-training.md) [-M] — the same finding stated as a design constraint
+- [Adolescents who use more language learning strategies are the more proficient ones, and strategy adoption varies with cultural background](../claims/strategy-use-correlates-with-l2-proficiency-in-adolescents.md) [~M] — correlational, and a caution: the learners using fewest strategies are least likely to seek help placed behind an optional control
 
 ## Related Learner Variables
 - Motivation — starts the effort that self-regulation then has to sustain.

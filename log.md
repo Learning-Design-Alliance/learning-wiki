@@ -8,6 +8,14 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ---
 
+## 2026-09-03
+
+* **Ingest**: six second-language-acquisition claims — [l1-predicts-l2-phoneme-perception-more-than-proficiency](claims/l1-predicts-l2-phoneme-perception-more-than-proficiency.md), [italian-l2-motivation-is-ideal-self-not-instrumental](claims/italian-l2-motivation-is-ideal-self-not-instrumental.md), [strategy-use-correlates-with-l2-proficiency-in-adolescents](claims/strategy-use-correlates-with-l2-proficiency-in-adolescents.md), [italian-gender-stays-incomplete-for-l2-and-heritage-speakers](claims/italian-gender-stays-incomplete-for-l2-and-heritage-speakers.md), [l2-fluency-gains-persist-weeks-without-practice](claims/l2-fluency-gains-persist-weeks-without-practice.md), [game-based-practice-outperforms-traditional-l2-vocabulary-instruction](claims/game-based-practice-outperforms-traditional-l2-vocabulary-instruction.md) — converted from Lazuli Studio drafts into the wiki's claim schema; all seven citations Crossref-verified through `classify_doi` before commit
+* **Correction**: the game-based study was handed over as "Frontiers / PMC10443373"; PMC's ID converter resolves that id to `10.3390/pediatric15030046` — *Pediatric Reports* 15(3), 502–511, 2023 — so the journal and year were wrong at the source and are corrected on the page
+* **Correction**: `scripts/okf_lib.py` — `yaml_escape` now quotes a leading `?`. A bare `?` in value position is YAML's complex-key indicator, so an `i: ?` code raised "mapping keys are not allowed here" and `sync_evidence_codes`' write gate refused the page; `q?`/`i?` are legal codes the schema requires be preserved
+* **Edit**: three learner variables gained a claim link — `reading-and-language` (L1 background, heritage/L2 gender), `self-regulation` (strategy use), `motivation` (ideal-self vs instrumental)
+* **Review**: `sources/manifest.ndjson` — seven sources logged as ingested with their resolved DOIs, and one logged as rejected (an IJSR position paper with no sample size or findings, excluded upstream)
+
 ## 2026-09-02
 
 * **Correction**: 21 pages moved out of `patterns/` and `strategies/` into two new kinds — `processes/` (9: ADDIE/Dick & Carey, SAM, design thinking, LXD, UbD, continuous improvement, faculty course design, Data Wise, humanizing co-design) and `methods/` (12: needs/learner/context/task/hierarchy/cognitive-task analysis, learner and activity-system personas, backward design, standards crosswalk, family-interview task design, power dynamics). Design work is not instruction; it had been filed beside cooperative learning and think-pair-share
