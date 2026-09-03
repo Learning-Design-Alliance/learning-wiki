@@ -48,6 +48,43 @@ if ! git diff --quiet || ! git diff --cached --quiet; then
     exit 1
 fi
 
+# Every ref this fetch writes has to be creatable by the user running it, and
+# on this droplet several were not: a `git pull` as evalrunner fetched 65 MiB
+# of objects successfully and then failed to move a single ref, because
+# something had run git here as root and left root-owned files inside .git.
+#
+# That failure is loud but misleading — thirty "cannot lock ref" lines, one
+# per branch, and the useful sentence ("origin/main -> unable to update local
+# ref") scrolls past in the middle. The tree silently stays where it was,
+# which on that droplet meant fifteen merges behind while the dashboard
+# happily served the old numbers. So check for it up front and say what to do.
+# The failures were on `.git/refs/remotes/origin/<branch>.lock` and on
+# appends to `.git/logs/refs/remotes/origin/main`, so it is those nested
+# directories and files that have to be writable — not `.git/refs` itself,
+# which was fine. Check `.git`'s own top level (packed-refs, HEAD, FETCH_HEAD)
+# and then everything under refs/ and logs/ recursively.
+unwritable="$(
+    { find .git -maxdepth 1 ! -writable -printf '%u %p\n'
+      find .git/refs .git/logs ! -writable -printf '%u %p\n'
+    } 2>/dev/null | head -8)"
+if [ -n "$unwritable" ]; then
+    echo
+    echo "REFUSING: parts of .git are not writable by $(id -un):" >&2
+    # Indent every line, not just the first: printf's format is reused per
+    # argument, and "$unwritable" is one multi-line argument.
+    printf '%s\n' "$unwritable" | sed 's/^/    /' >&2
+    echo >&2
+    echo "A fetch will still download objects and then fail to move any ref, so" >&2
+    echo "the tree would appear to update and would not. Fix the ownership as root:" >&2
+    echo >&2
+    echo "    chown -R evalrunner:evalrunner $REPO" >&2
+    echo >&2
+    echo "then re-run this script. If anything in the tree is deliberately owned" >&2
+    echo "by root — a secrets file, say — check it still reads for evalrunner" >&2
+    echo "afterwards, since every systemd unit here runs as that user." >&2
+    exit 1
+fi
+
 before="$(git rev-parse HEAD)"
 
 git fetch --quiet origin main
