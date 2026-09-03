@@ -1,6 +1,6 @@
 {
  "counts": {
-  "claim": 422,
+  "claim": 428,
   "element": 325,
   "learner-variable": 12,
   "method": 12,
@@ -1112,6 +1112,15 @@
    "type": "claim"
   },
   {
+   "description": "Ukrainian children aged 6\u20137 taught Italian vocabulary by games reached 171.91 words against 139.29 for traditional instruction over four weeks \u2014 a strong result in a population that transfers to almost nothing.",
+   "evidence_strength": "weak",
+   "id": "game-based-practice-outperforms-traditional-l2-vocabulary-instruction",
+   "path": "claims/game-based-practice-outperforms-traditional-l2-vocabulary-instruction.md",
+   "status": "draft",
+   "title": "Game-based vocabulary practice produced larger gains than traditional instruction for newly arrived migrant children.",
+   "type": "claim"
+  },
+  {
    "description": "",
    "evidence_strength": "unestablished",
    "id": "generation-effect-improves-retention",
@@ -1464,6 +1473,24 @@
    "type": "claim"
   },
   {
+   "description": "Spanish\u2013Italian and Swedish\u2013Italian bilinguals, both L2 and heritage, showed incomplete gender knowledge in every configuration; typological proximity helped only for particular cognate and congruency combinations, and in production only.",
+   "evidence_strength": "moderate",
+   "id": "italian-gender-stays-incomplete-for-l2-and-heritage-speakers",
+   "path": "claims/italian-gender-stays-incomplete-for-l2-and-heritage-speakers.md",
+   "status": "draft",
+   "title": "Italian grammatical gender stays incompletely mastered by L2 learners and heritage speakers alike, and a gendered first language helps only conditionally.",
+   "type": "claim"
+  },
+  {
+   "description": "Two independent university studies find learners of Italian motivated by an imagined future self who speaks the language and barely at all by expected usefulness \u2014 with the mismatch running the other way for their teachers.",
+   "evidence_strength": "moderate",
+   "id": "italian-l2-motivation-is-ideal-self-not-instrumental",
+   "path": "claims/italian-l2-motivation-is-ideal-self-not-instrumental.md",
+   "status": "draft",
+   "title": "Learners of Italian report ideal-self motivation rather than instrumental motivation, while their teachers assume the reverse.",
+   "type": "claim"
+  },
+  {
    "description": "",
    "evidence_strength": "moderate",
    "id": "joint-book-reading-predicts-literacy-success",
@@ -1488,6 +1515,24 @@
    "path": "claims/justice-oriented-youth-maker-programs-support-critical-identity-and-resistance.md",
    "status": "draft",
    "title": "Justice-oriented youth maker programs support redefinition of entrepreneurialism and resistance to structural misrecognition",
+   "type": "claim"
+  },
+  {
+   "description": "Which first language a learner brings predicts how accurately they perceive a second-language phonemic contrast better than their proficiency level does \u2014 89.8% for Finnish speakers against 64% for German on the same Italian contrast.",
+   "evidence_strength": "strong",
+   "id": "l1-predicts-l2-phoneme-perception-more-than-proficiency",
+   "path": "claims/l1-predicts-l2-phoneme-perception-more-than-proficiency.md",
+   "status": "draft",
+   "title": "A learner's first language predicts L2 phoneme perception more strongly than their proficiency level does.",
+   "type": "claim"
+  },
+  {
+   "description": "A one-week intensive Italian course raised verbal fluency by 17.17 words, and the gain was still 17.11 words above baseline three weeks later with no practice in between.",
+   "evidence_strength": "moderate",
+   "id": "l2-fluency-gains-persist-weeks-without-practice",
+   "path": "claims/l2-fluency-gains-persist-weeks-without-practice.md",
+   "status": "draft",
+   "title": "Gains from an intensive period of second-language study persist for weeks without rehearsal.",
    "type": "claim"
   },
   {
@@ -3325,6 +3370,15 @@
    "path": "claims/strategy-instruction-needs-conditional-knowledge.md",
    "status": "draft",
    "title": "Strategy Instruction Needs Conditional Knowledge",
+   "type": "claim"
+  },
+  {
+   "description": "Among 157 newly arrived migrant adolescents learning Italian, low strategy use went with weaker proficiency and adoption varied by cultural background rather than being a fixed trait of the learner.",
+   "evidence_strength": "moderate",
+   "id": "strategy-use-correlates-with-l2-proficiency-in-adolescents",
+   "path": "claims/strategy-use-correlates-with-l2-proficiency-in-adolescents.md",
+   "status": "draft",
+   "title": "Adolescents who use more language learning strategies are the more proficient ones, and strategy adoption varies with cultural background.",
    "type": "claim"
   },
   {
@@ -30520,6 +30574,7 @@
    "flynn-effect-rising-iq-scores-over-generations": "flynn-effect-rising-iq-scores-over-generations",
    "functional-fixedness-limits-problem-solving": "functional-fixedness-limits-problem-solving",
    "funds-of-knowledge-tasks-reveal-computational-thinking": "funds-of-knowledge-tasks-reveal-computational-thinking",
+   "game-based-practice-outperforms-traditional-l2-vocabulary-instruction": "game-based-practice-outperforms-traditional-l2-vocabulary-instruction",
    "generation-effect-improves-retention": "generation-effect-improves-retention",
    "generative-learning-improves-comprehension": "generative-learning-improves-comprehension",
    "generative-learning-improves-retention": "generative-learning-improves-retention",
@@ -30560,9 +30615,13 @@
    "interleaving-improves-transfer": "interleaving-improves-transfer",
    "intuitive-learners-outperform-sensing-learners": "intuitive-learners-outperform-sensing-learners",
    "invention-tasks-prepare-future-learning": "invention-tasks-prepare-future-learning",
+   "italian-gender-stays-incomplete-for-l2-and-heritage-speakers": "italian-gender-stays-incomplete-for-l2-and-heritage-speakers",
+   "italian-l2-motivation-is-ideal-self-not-instrumental": "italian-l2-motivation-is-ideal-self-not-instrumental",
    "joint-book-reading-predicts-literacy-success": "joint-book-reading-predicts-literacy-success",
    "judgments-of-learning-inaccurate": "judgments-of-learning-inaccurate",
    "justice-oriented-youth-maker-programs-support-critical-identity-and-resistance": "justice-oriented-youth-maker-programs-support-critical-identity-and-resistance",
+   "l1-predicts-l2-phoneme-perception-more-than-proficiency": "l1-predicts-l2-phoneme-perception-more-than-proficiency",
+   "l2-fluency-gains-persist-weeks-without-practice": "l2-fluency-gains-persist-weeks-without-practice",
    "laptop-notes-verbatim-shallower": "laptop-notes-verbatim-shallower",
    "lateral-reading-improves-source-evaluation": "lateral-reading-improves-source-evaluation",
    "learner-centered-teacher-student-relationships-are-effective": "learner-centered-teacher-student-relationships-are-effective",
@@ -30773,6 +30832,7 @@
    "strategy-instruction-improves-learning": "strategy-instruction-improves-learning",
    "strategy-instruction-improves-writing-quality": "strategy-instruction-improves-writing-quality",
    "strategy-instruction-needs-conditional-knowledge": "strategy-instruction-needs-conditional-knowledge",
+   "strategy-use-correlates-with-l2-proficiency-in-adolescents": "strategy-use-correlates-with-l2-proficiency-in-adolescents",
    "structured-discussion-approaches-improve-comprehension": "structured-discussion-approaches-improve-comprehension",
    "structured-discussion-methods-improve-comprehension": "structured-discussion-methods-improve-comprehension",
    "structured-literacy-interventions-help-struggling-readers": "structured-literacy-interventions-help-struggling-readers",

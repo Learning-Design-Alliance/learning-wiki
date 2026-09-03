@@ -37,6 +37,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Growth mindset interventions produce small positive effects](../claims/growth-mindset-interventions-small-effects.md) [~M] — the meta-analytic correction — real but modest, and subgroup-specific
 - [Material choice shapes conceptual learning and who feels invited to learn](../claims/material-choice-shapes-conceptual-learning-and-participation.md) [~M] — choice is not neutral: what is offered decides who takes it up
 - [Choice-rich infrastructure enables self-sustained student projects](../claims/choice-rich-infrastructure-supports-productive-deviation-and-learning.md) [+W] — qualitative — indicative of what sustained autonomy looks like in place
+- [Learners of Italian report ideal-self motivation rather than instrumental motivation, while their teachers assume the reverse](../claims/italian-l2-motivation-is-ideal-self-not-instrumental.md) [~M] — a worked case of designers assuming the wrong motive, and of motive composition being domain-specific rather than general
 
 ## Related Learner Variables
 - Belonging — related but distinct: belonging is about standing, motivation about wanting.

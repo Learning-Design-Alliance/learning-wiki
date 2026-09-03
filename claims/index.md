@@ -2,7 +2,7 @@
 
 Empirical claims with evidence ratings, sources, and competing views.
 
-**422 entries** · 0 stable · 29 in review · 393 drafts
+**428 entries** · 0 stable · 29 in review · 399 drafts
 
 ---
 
@@ -44,6 +44,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### A {: #letter-a }
 
+* [A learner's first language predicts L2 phoneme perception more strongly than their proficiency level does.](l1-predicts-l2-phoneme-perception-more-than-proficiency.md) - Which first language a learner brings predicts how accurately they perceive a second-language phonemic contrast better than their proficiency level does — 89.8% for Finnish speakers against 64% for German on the same Italian contrast.
 * [A teacher's appropriation of the engineering design process reframed restrictive STEM narratives in her teaching and personal life](teacher-appropriation-of-edp-reframes-restrictive-stem-narratives.md)
 * [Academic historians' epistemic processes extend well beyond source analysis and writing](historians-epistemic-processes-extend-beyond-source-analysis.md)
 * [Activation](activation.md)
@@ -51,6 +52,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md)
 * [Active learning narrows achievement gaps for disadvantaged and underrepresented students](active-learning-narrows-achievement-gaps.md)
 * [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md)
+* [Adolescents who use more language learning strategies are the more proficient ones, and strategy adoption varies with cultural background.](strategy-use-correlates-with-l2-proficiency-in-adolescents.md) - Among 157 newly arrived migrant adolescents learning Italian, low strategy use went with weaker proficiency and adoption varied by cultural background rather than being a fixed trait of the learner.
 * [Advance Organizers Improve Learning](advance-organizers-improve-learning.md)
 * [Advance organizers improve learning](advance-organizers-improves-learning.md)
 * [Agentic engagement with lively data supports epistemically just crisis sensemaking](lively-data-and-agentic-positions-support-epistemically-just-crisis-sensemaking.md)
@@ -179,6 +181,8 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### G {: #letter-g }
 
+* [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) - A one-week intensive Italian course raised verbal fluency by 17.17 words, and the gain was still 17.11 words above baseline three weeks later with no practice in between.
+* [Game-based vocabulary practice produced larger gains than traditional instruction for newly arrived migrant children.](game-based-practice-outperforms-traditional-l2-vocabulary-instruction.md) - Ukrainian children aged 6–7 taught Italian vocabulary by games reached 171.91 words against 139.29 for traditional instruction over four weeks — a strong result in a population that transfers to almost nothing.
 * [Generation Effect Improves Retention](generation-effect-improves-retention.md)
 * [Generative Learning Improves Comprehension](generative-learning-improves-comprehension.md)
 * [Generative Learning Improves Retention](generative-learning-improves-retention.md)
@@ -222,6 +226,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Interleaving Improves Learning](interleaving-improves-learning.md)
 * [Interleaving Improves Transfer](interleaving-improves-transfer.md)
 * [Invention Tasks Prepare Future Learning](invention-tasks-prepare-future-learning.md)
+* [Italian grammatical gender stays incompletely mastered by L2 learners and heritage speakers alike, and a gendered first language helps only conditionally.](italian-gender-stays-incomplete-for-l2-and-heritage-speakers.md) - Spanish–Italian and Swedish–Italian bilinguals, both L2 and heritage, showed incomplete gender knowledge in every configuration; typological proximity helped only for particular cognate and congruency combinations, and in production only.
 
 #### J {: #letter-j }
 
@@ -243,6 +248,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Learners misjudge the benefits of spaced practice](learners-misjudge-spacing.md)
 * [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md)
 * [Learners mistake fluency and familiarity for actual knowledge, producing an illusion of knowing](illusion-of-knowing.md)
+* [Learners of Italian report ideal-self motivation rather than instrumental motivation, while their teachers assume the reverse.](italian-l2-motivation-is-ideal-self-not-instrumental.md) - Two independent university studies find learners of Italian motivated by an imagined future self who speaks the language and barely at all by expected usefulness — with the mismatch running the other way for their teachers.
 * [Learning By Teaching Improves Learning](learning-by-teaching-improves-learning.md)
 * [Learning By Teaching Improves Mastery](learning-by-teaching-improves-mastery.md)
 * [Learning By Teaching Improves Tutor Learning](learning-by-teaching-improves-tutor-learning.md)
