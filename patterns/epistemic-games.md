@@ -77,6 +77,8 @@ The mechanism connects to **serious play** (Rieber, Smith, & Noah, 1998): learne
 - Learners can be given different roles within the same simulated world (e.g., different departments in an urban-planning scenario), personalizing which facet of the practice they inhabit most deeply
 
 ## Related Patterns
+- [Evidence-Centered Design](../methods/evidence-centered-design.md) — the assessment-design method Rupp, Gushta, Mislevy and Shaffer (2010) worked out against epistemic games specifically, which is how a game about professional judgment yields anything scoreable
+- [Assessment Mechanic](../elements/assessment-mechanic.md) — the repeated in-game activity that elicits that evidence, designed so the log discriminates between the constructs the epistemic frame is made of
 - [Game-Based Mastery Learning](game-based-mastery-learning.md) — both use game structures to sustain engagement, but mastery learning targets repeatable skill drills with progression gates, while epistemic games target situated professional judgment through role and narrative stakes
 
 ## Examples

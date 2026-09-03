@@ -11,11 +11,10 @@ sources:
   - id: furberg-silseth-2022
     resource: "https://doi.org/10.1080/10508406.2021.1954521"
     title: "Furberg, A., & Silseth, K. (2022). Invoking student resources in whole-class conversations in science education: A sociocultural perspective. *Journal of the Learning Sciences, 31*(2), 278-316. [https://doi.org/10.1080/10508406.2021.1954521](https://doi.org/10.1080/10508406.2021.1954521)"
-    author: "Furberg, A., & Silseth, K"
+    author: "Furberg, A., & Silseth, K."
     q: 2
     i: 2
     n: 38 lower-secondary students and one teacher, 330 minutes of transcribed whole-class video across 11 lessons
-    author: "Furberg, A., & Silseth, K."
 ---
 
 # Positioning students as sources increases productive participation in science discourse

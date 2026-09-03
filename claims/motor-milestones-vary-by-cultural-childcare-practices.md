@@ -10,11 +10,10 @@ evidence_strength: weak
 sources:
   - id: kaplan-and-dove-1987
     title: "Kaplan, H., & Dove, H. (1987). Infant development among the Ache of eastern Paraguay. *Developmental Psychology, 23*(2), 190-198."
-    author: "Kaplan, H., & Dove, H"
+    author: "Kaplan, H., & Dove, H."
     q: 2
     i: 1
     n: unreported in secondary source
-    author: "Kaplan, H., & Dove, H."
 ---
 
 # Motor development milestone timing varies by cultural childcare practice, but functional motor competence equalizes by middle childhood.

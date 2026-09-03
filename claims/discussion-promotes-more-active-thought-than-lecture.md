@@ -10,23 +10,22 @@ evidence_strength: moderate
 sources:
   - id: dubin-and-taveggia-1968
     title: "Dubin, R., & Taveggia, T. C. (1968). *The teaching-learning paradox: A comparative analysis of college teaching methods*. Center for the Advanced Study of Educational Administration, University of Oregon."
-    author: "Dubin, R., & Taveggia, T. C"
+    author: "Dubin, R., & Taveggia, T. C."
     q: 2
     i: 1
     n: very large (90+ aggregated comparison studies)
   - id: siegel-et-al-1963
     resource: "https://psycnet.apa.org/journals/edu"
     title: "Siegel, L., Siegel, S., Capretta, P. J., Jones, R. A., & Berkowitz, H. (1963). Students' thoughts during class: A criterion for educational research. *Journal of Educational Psychology, 54*(3), 149-155. [https://psycnet.apa.org/journals/edu](https://psycnet.apa.org/journals/edu)"
-    author: "Siegel, L., Siegel, S., Capretta, P. J., Jones, R. A., & Berkowitz, H"
+    author: "Siegel, L., Siegel, S., Capretta, P. J., Jones, R. A., & Berkowitz, H."
     q: 3
     i: 2
     n: moderate (college classroom samples)
   - id: bligh-2000
     title: "Bligh, D. A. (2000). *What's the use of lectures?* Jossey-Bass."
-    author: Bligh, D. A
+    author: Bligh, D. A.
     q: 2
     i: 1
-    n: synthesis across many contributing studies
     n: synthesis across many contributing studies
 ---
 

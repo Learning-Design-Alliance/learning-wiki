@@ -11,11 +11,10 @@ sources:
   - id: vescio-2025
     resource: "https://doi.org/10.1080/10508406.2025.2481844"
     title: "Vescio, J. (2025). \"I love being a kid. I don't want to grow up.\" Young children's video interpretations of their mathematical play. *Journal of the Learning Sciences, 34*(3), 329-367. [https://doi.org/10.1080/10508406.2025.2481844](https://doi.org/10.1080/10508406.2025.2481844)"
-    author: Vescio, J
+    author: Vescio, J.
     q: 1
     i: 0
     n: 4 children (kindergarten/first-grade)
-    author: "Vescio, J."
 ---
 
 # Young children's video interpretation of their own mathematical play reveals both mathematical and social-affective sensemaking

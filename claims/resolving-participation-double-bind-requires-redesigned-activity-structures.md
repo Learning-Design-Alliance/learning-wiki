@@ -11,11 +11,10 @@ sources:
   - id: meléndez-2021
     resource: "https://doi.org/10.1080/10508406.2020.1807349"
     title: "Meléndez, J. W. (2021). Latino immigrants in civil society: Addressing the double-bind of participation for expansive learning in participatory budgeting. *Journal of the Learning Sciences, 30*(1), 76-102. [https://doi.org/10.1080/10508406.2020.1807349](https://doi.org/10.1080/10508406.2020.1807349)"
-    author: Meléndez, J. W
+    author: Meléndez, J. W.
     q: 2
     i: 2
     n: "7 Latino community volunteers (Iteration 1), Chicago's 49th Ward (21% Spanish-speaking at home, 30% foreign-born), fiscal years 2012-2014"
-    author: "Meléndez, J. W."
 ---
 
 # Resolving a participation double-bind requires redesigning activity structures, not just adding outreach

@@ -11,11 +11,10 @@ sources:
   - id: van-de-pol-et-al-2019
     resource: "https://doi.org/10.1080/10508406.2018.1522258"
     title: "van de Pol, J., Mercer, N., & Volman, M. (2019). Scaffolding student understanding in small-group work: Students' uptake of teacher support in subsequent small-group interaction. *Journal of the Learning Sciences, 28*(2), 206-239. [https://doi.org/10.1080/10508406.2018.1522258](https://doi.org/10.1080/10508406.2018.1522258)"
-    author: "van de Pol, J., Mercer, N., & Volman, M"
+    author: "van de Pol, J., Mercer, N., & Volman, M."
     q: 3
     i: 2
     n: 7 seventh-grade Dutch social studies teachers, 28 students (7 groups of 4), 35 lessons, 13,316 coded interaction turns
-    author: "van de Pol, J., Mercer, N., & Volman, M."
 ---
 
 # Students' application of teacher support predicts accurate answers in small-group work

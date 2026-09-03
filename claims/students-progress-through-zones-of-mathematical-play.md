@@ -11,11 +11,10 @@ sources:
   - id: williams-pierce-thevenow-harrison-2021
     resource: "https://doi.org/10.1080/10508406.2021.1913167"
     title: "Williams-Pierce, C., & Thevenow-Harrison, J. T. (2021). Zones of mathematical play. *Journal of the Learning Sciences, 30*(3), 509-527. [https://doi.org/10.1080/10508406.2021.1913167](https://doi.org/10.1080/10508406.2021.1913167)"
-    author: "Williams-Pierce, C., & Thevenow-Harrison, J. T"
+    author: "Williams-Pierce, C., & Thevenow-Harrison, J. T."
     q: 1
     i: 1
     n: 14 middle-school students (10 boys, 4 girls, self-selected volunteers), 14-30 minutes of gameplay each
-    author: "Williams-Pierce, C., & Thevenow-Harrison, J. T."
 ---
 
 # Middle-school students progress through zones of mathematical play in a designed digital game, taking varied conceptual paths to the same goal

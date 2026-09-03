@@ -57,7 +57,15 @@ def frontmatter_parses(text: str) -> bool:
         return False
 
 
-SOURCES_BLOCK_RE = re.compile(r"^sources:\n(?:[ \t]+[^\n]*\n)*", re.M)
+# The final alternation is load-bearing, not defensive. okf_lib.FRONTMATTER_RE
+# captures the block as `(.*?)\n---`, so its group excludes the newline that
+# ends the LAST frontmatter line — and `sources:` is normally the last key on a
+# claim page. Requiring `\n` on every line therefore stopped the match one line
+# short, and `sub` replaced everything up to there while leaving that final line
+# standing: the rendered block plus an orphaned copy of its own last key.
+# `n: 157` twice, valid YAML, last-one-wins, invisible to lint. It reached three
+# pages before anyone looked at a diff.
+SOURCES_BLOCK_RE = re.compile(r"^sources:\n(?:[ \t]+[^\n]*(?:\n|\Z))*", re.M)
 
 
 def render_sources(srcs: list) -> str:

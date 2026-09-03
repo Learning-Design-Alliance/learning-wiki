@@ -12,10 +12,9 @@ sources:
   - id: zingaretti-et-al-2026
     resource: "https://doi.org/10.22599/jesla.152"
     title: "Zingaretti, M., Spelorzi, R., Sohanpaul, T. K., & Sorace, A. (2026). The Linguistic and Cognitive Effects of a One-Week Online Italian Language Course: A Pilot Study. *Journal of the European Second Language Association, 10*(1), 32–47. [doi:10.22599/jesla.152](https://doi.org/10.22599/jesla.152)"
-    author: "Zingaretti, M., Spelorzi, R., Sohanpaul, T. K., & Sorace, A"
+    author: "Zingaretti, M., Spelorzi, R., Sohanpaul, T. K., & Sorace, A."
     q: 2
     i: 3
-    n: 18
     n: 18
 ---
 

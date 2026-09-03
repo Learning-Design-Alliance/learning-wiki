@@ -8,14 +8,14 @@ generated:
 sources:
   - id: bandura-1997
     title: "Bandura, A. (1997). *Self-efficacy: The exercise of control*. W. H. Freeman."
-    author: Bandura, A
+    author: Bandura, A.
     q: 4
     i: 3
     n: N/A
   - id: pajares-1996
     resource: "https://doi.org/10.3102/00346543066004543"
     title: "Pajares, F. (1996). Self-efficacy beliefs in academic settings. *Review of Educational Research, 66*(4), 543–578. [https://doi.org/10.3102/00346543066004543](https://doi.org/10.3102/00346543066004543)"
-    author: Pajares, F
+    author: Pajares, F.
     q: 4
     i: 3
     n: N/A

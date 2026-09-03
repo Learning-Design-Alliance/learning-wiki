@@ -2,7 +2,7 @@
 
 The practices a design process is made of — analysis, elicitation, mapping and evaluation work done on the design, not in the classroom.
 
-**12 entries** · 0 stable · 10 in review · 2 drafts
+**13 entries** · 0 stable · 10 in review · 3 drafts
 
 ---
 
@@ -21,5 +21,6 @@ The practices a design process is made of — analysis, elicitation, mapping and
 
 ## Draft
 
+* [Evidence-Centered Design](evidence-centered-design.md) - A design method for assessment that works backwards from the claim you want to make — name the competency, then the observable behaviour that would be evidence for it, then the task that elicits that behaviour.
 * [Family-Interview-Based Assessment Task Design](family-interview-based-assessment-task-design.md) - A design process for building formative assessment tasks that reveal disciplinary competence (e.g., computational thinking) embedded in a specific community's everyday practices, by interviewing families to surface funds of knowledge before designing the task.
 * [Learning Hierarchy Task Analysis](learning-hierarchy-task-analysis.md) - Task analysis identifies the prerequisite skills a target performance requires by repeatedly asking what a learner must already master, arranging the answers into a sequenced learning hierarchy from foundational to complex.

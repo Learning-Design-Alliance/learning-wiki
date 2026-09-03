@@ -12,10 +12,9 @@ sources:
   - id: frolli-et-al-2023
     resource: "https://doi.org/10.3390/pediatric15030046"
     title: "Frolli, A., Cerciello, F., Esposito, C., Russo, M., & Bisogni, F. (2023). Learning Italian as a second language in a sample of Ukrainian children: A game-based learning approach. *Pediatric Reports, 15*(3), 502–511. [doi:10.3390/pediatric15030046](https://doi.org/10.3390/pediatric15030046)"
-    author: "Frolli, A., Cerciello, F., Esposito, C., Russo, M., & Bisogni, F"
+    author: "Frolli, A., Cerciello, F., Esposito, C., Russo, M., & Bisogni, F."
     q: 2
     i: 3
-    n: 48
     n: 48
 ---
 

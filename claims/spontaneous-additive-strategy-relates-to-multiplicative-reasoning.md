@@ -11,11 +11,10 @@ sources:
   - id: tzur-et-al-2021
     resource: "https://doi.org/10.1080/07370008.2021.1896521"
     title: "Tzur, R., Johnson, H. L., Norton, A., Davis, A., Wang, X., Ferrara, M., Harrington, C., & Hodkowski, N. M. (2021). Children's Spontaneous Additive Strategy Relates to Multiplicative Reasoning. *Cognition and Instruction, 39*(4), 451-476. [https://doi.org/10.1080/07370008.2021.1896521](https://doi.org/10.1080/07370008.2021.1896521)"
-    author: "Tzur, R., Johnson, H. L., Norton, A., Davis, A., Wang, X., Ferrara, M., Harrington, C., & Hodkowski, N. M"
+    author: "Tzur, R., Johnson, H. L., Norton, A., Davis, A., Wang, X., Ferrara, M., Harrington, C., & Hodkowski, N. M."
     q: 3
     i: 2
     n: "31 fourth graders (13 female; 87% students of color; 58% English Language Learners; 16% with an IEP), one urban US school"
-    author: "Tzur, R., Johnson, H. L., Norton, A., Davis, A., Wang, X., Ferrara, M., Harrington, C., & Hodkowski, N. M."
 ---
 
 # Spontaneous break-apart-make-ten strategy use is associated with stronger multiplicative double-counting reasoning

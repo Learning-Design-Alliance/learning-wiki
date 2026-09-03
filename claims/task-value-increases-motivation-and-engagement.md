@@ -9,14 +9,14 @@ sources:
   - id: eccles-wigfield-2002
     resource: "https://doi.org/10.1146/annurev.psych.53.100901.135153"
     title: "Eccles, J. S., & Wigfield, A. (2002). Motivational beliefs, values, and goals. *Annual Review of Psychology, 53*, 109–132. [https://doi.org/10.1146/annurev.psych.53.100901.135153](https://doi.org/10.1146/annurev.psych.53.100901.135153)"
-    author: "Eccles, J. S., & Wigfield, A"
+    author: "Eccles, J. S., & Wigfield, A."
     q: 4
     i: 2
     n: N/A
   - id: wigfield-cambria-2010
     resource: "https://doi.org/10.1016/j.dr.2009.12.001"
     title: "Wigfield, A., & Cambria, J. (2010). Students' achievement values, goal orientations, and interest: Definitions, development, and relations to achievement outcomes. *Developmental Review, 30*(1), 1–35. [https://doi.org/10.1016/j.dr.2009.12.001](https://doi.org/10.1016/j.dr.2009.12.001)"
-    author: "Wigfield, A., & Cambria, J"
+    author: "Wigfield, A., & Cambria, J."
     q: 3
     i: 2
     n: N/A

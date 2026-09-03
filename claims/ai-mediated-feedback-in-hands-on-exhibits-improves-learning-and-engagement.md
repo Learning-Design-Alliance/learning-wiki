@@ -11,11 +11,10 @@ sources:
   - id: yannier-et-al-2022
     resource: "https://doi.org/10.1080/10508406.2022.2032071"
     title: "Yannier, N., Crowley, K., Do, Y., Hudson, S. E., & Koedinger, K. R. (2022). Intelligent science exhibits: Transforming hands-on exhibits into mixed-reality learning experiences. *Journal of the Learning Sciences, 31*(3), 335-368. [https://doi.org/10.1080/10508406.2022.2032071](https://doi.org/10.1080/10508406.2022.2032071)"
-    author: "Yannier, N., Crowley, K., Do, Y., Hudson, S. E., & Koedinger, K. R"
+    author: "Yannier, N., Crowley, K., Do, Y., Hudson, S. E., & Koedinger, K. R."
     q: 3
     i: 3
     n: 32 elementary-school children (median grade 2) for the learning comparison; naturalistic museum-floor logs (~13.5 hours, 104 visits) for the engagement comparison
-    author: "Yannier, N., Crowley, K., Do, Y., Hudson, S. E., & Koedinger, K. R."
 ---
 
 # AI-mediated feedback in hands-on exhibits improves learning and engagement

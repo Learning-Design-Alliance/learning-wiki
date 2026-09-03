@@ -11,11 +11,10 @@ sources:
   - id: watkins-2023
     resource: "https://doi.org/10.1080/07370008.2022.2156512"
     title: "Watkins, J. (2023). \"That is Still STEM\": Appropriating the Engineering Design Process to Challenge Dominant Narratives of Engineering and STEM. *Cognition and Instruction, 41*(4), 405-435. [https://doi.org/10.1080/07370008.2022.2156512](https://doi.org/10.1080/07370008.2022.2156512)"
-    author: Watkins, J
+    author: Watkins, J.
     q: 1
     i: 2
     n: 1 elementary teacher, 18-month online graduate certificate program (Tufts TEEP)
-    author: "Watkins, J."
 ---
 
 # A teacher's appropriation of the engineering design process reframed restrictive STEM narratives in her teaching and personal life

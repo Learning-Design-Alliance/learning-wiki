@@ -11,11 +11,10 @@ sources:
   - id: novis-deutsch-et-al-2024
     resource: "https://doi.org/10.1080/10508406.2024.2346915"
     title: "Novis-Deutsch, N., Cohen, E., Alexander, H., Rahamian, L., Gavish, U., Glick, O., Yehi-Shalom, O., Marcus, G., & Mann, A. (2024). Interdisciplinary learning in the humanities: Knowledge building and identity work. *Journal of the Learning Sciences, 33*(2), 284-322. [https://doi.org/10.1080/10508406.2024.2346915](https://doi.org/10.1080/10508406.2024.2346915)"
-    author: "Novis-Deutsch, N., Cohen, E., Alexander, H., Rahamian, L., Gavish, U., Glick, O., Yehi-Shalom, O., Marcus, G., & Mann, A"
+    author: "Novis-Deutsch, N., Cohen, E., Alexander, H., Rahamian, L., Gavish, U., Glick, O., Yehi-Shalom, O., Marcus, G., & Mann, A."
     q: 2
     i: 2
     n: 586 students (380 intervention, 206 comparison) across 17 classes and 5 schools for the quantitative measure; n=128 students, 4 classes, 2 schools for the qualitative discourse substudy (from a broader project of 142 teachers and 1,109 students across 10 schools)
-    author: "Novis-Deutsch, N., Cohen, E., Alexander, H., Rahamian, L., Gavish, U., Glick, O., Yehi-Shalom, O., Marcus, G., & Mann, A."
 ---
 
 # Interdisciplinary humanities units improve students' interdisciplinary competences

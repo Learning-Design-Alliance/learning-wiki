@@ -15,11 +15,10 @@ sources:
     n: unreported in secondary source
   - id: hart-and-risley-1995
     title: "Hart, B., & Risley, T. R. (1995). *Meaningful differences in the everyday experience of young American children*. Paul H. Brookes."
-    author: "Hart, B., & Risley, T. R"
+    author: "Hart, B., & Risley, T. R."
     q: 2
     i: 2
     n: 42 families
-    author: "Hart, B., & Risley, T. R."
 ---
 
 # Conversational turn-taking predicts language development better than raw word count or socioeconomic status.

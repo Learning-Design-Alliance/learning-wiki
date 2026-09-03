@@ -17,6 +17,7 @@ Usage:
 """
 
 import argparse
+import json
 import sys
 from pathlib import Path
 
@@ -32,7 +33,22 @@ def main():
     parser.add_argument("--status", required=True, choices=["ingested", "rejected"])
     parser.add_argument("--reason", default=None, help="Required if --status rejected")
     parser.add_argument("--pages", nargs="*", default=None, help="Bundle-relative page paths, required if --status ingested")
+    # okf_lib.append_manifest_entry has taken `citations` since Gate 3 landed, but
+    # this wrapper never exposed it — so every manually ingested source wrote a
+    # bare "ingested", which CLAUDE.md is explicit must not be read as "the
+    # citations were checked". The automated path (ingest_extractions.py) calls
+    # the library directly and was unaffected, which is why the gap survived.
+    parser.add_argument("--citations", default=None, metavar="JSON",
+                        help='What the citation gate found, as a JSON object: '
+                             '\'{"checked": 6, "crossref_reachable": true, "removed": [], '
+                             '"flagged": ["..."]}\'. Omit only when no gate was run — '
+                             'and prefer "crossref_reachable": false, which records that '
+                             'the lookup could not run, over saying nothing.')
     args = parser.parse_args()
+
+    citations = json.loads(args.citations) if args.citations else None
+    if citations is not None and args.status != "ingested":
+        parser.error("--citations only applies to --status ingested")
 
     ok.append_manifest_entry(
         source_id=args.id,
@@ -41,6 +57,7 @@ def main():
         doi=args.doi,
         reason=args.reason,
         pages=args.pages,
+        citations=citations,
     )
     print(f"Logged {args.status}: {args.id} -> sources/manifest.ndjson")
 

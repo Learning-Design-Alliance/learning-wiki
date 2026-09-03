@@ -11,17 +11,16 @@ sources:
   - id: haak-et-al-2011
     resource: "https://doi.org/10.1126/science.1204820"
     title: "Haak, D. C., HilleRisLambers, J., Pitre, E., & Freeman, S. (2011). Increased structure and active learning reduce the achievement gap in introductory biology. *Science, 332*(6034), 1213-1216. [doi:10.1126/science.1204820](https://doi.org/10.1126/science.1204820)"
-    author: "Haak, D. C., HilleRisLambers, J., Pitre, E., & Freeman, S"
+    author: "Haak, D. C., HilleRisLambers, J., Pitre, E., & Freeman, S."
     q: 3
     i: 2
     n: large (multiple course sections at a research university)
   - id: lorenzo-crouch-and-mazur-2006
     resource: "https://doi.org/10.1119/1.2162549"
     title: "Lorenzo, M., Crouch, C. H., & Mazur, E. (2006). Reducing the gender gap in the physics classroom. *American Journal of Physics, 74*(2), 118-122. [doi:10.1119/1.2162549](https://doi.org/10.1119/1.2162549)"
-    author: "Lorenzo, M., Crouch, C. H., & Mazur, E"
+    author: "Lorenzo, M., Crouch, C. H., & Mazur, E."
     q: 3
     i: 2
-    n: moderate-to-large (multiple introductory physics course offerings)
     n: moderate-to-large (multiple introductory physics course offerings)
 ---
 

@@ -11,11 +11,10 @@ sources:
   - id: randall-et-al-2025
     resource: "https://doi.org/10.1080/10508406.2025.2574311"
     title: "Randall, J., Earnest, D., Thota, N., & Mensing, S. (2025). Investigating and assessing informal computational thinking in grades K-2: A funds of knowledge approach. *Journal of the Learning Sciences, 34*(4), 526-570. [https://doi.org/10.1080/10508406.2025.2574311](https://doi.org/10.1080/10508406.2025.2574311)"
-    author: "Randall, J., Earnest, D., Thota, N., & Mensing, S"
+    author: "Randall, J., Earnest, D., Thota, N., & Mensing, S."
     q: 2
     i: 2
     n: 13 children across two tasks (9 bus task, 4 healthcare task), from a majority Hispanic and Black, low-income school district
-    author: "Randall, J., Earnest, D., Thota, N., & Mensing, S."
 ---
 
 # Funds-of-knowledge-grounded tasks reveal computational thinking that decontextualized assessment misses

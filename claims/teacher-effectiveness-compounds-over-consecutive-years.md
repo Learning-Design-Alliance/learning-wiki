@@ -11,10 +11,9 @@ sources:
   - id: dallas-study-cited-in-bracey-2004
     resource: "https://www.heinemann.com/products/e00594.aspx"
     title: "Bracey, G. W. (2004). *Setting the record straight: Responses to misconceptions about public education in the U.S.* (2nd ed.). Heinemann. [https://www.heinemann.com/products/e00594.aspx](https://www.heinemann.com/products/e00594.aspx)"
-    author: Bracey, G. W
+    author: Bracey, G. W.
     q: 2
     i: 3
-    n: low-achieving 4th-grade cohort, Dallas Independent School District
     n: low-achieving 4th-grade cohort, Dallas Independent School District
 ---
 

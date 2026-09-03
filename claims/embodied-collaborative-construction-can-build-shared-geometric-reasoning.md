@@ -11,11 +11,10 @@ sources:
   - id: palatnik-abrahamson-2026
     resource: "https://doi.org/10.1080/10508406.2026.2622059"
     title: "Palatnik, A., & Abrahamson, D. (2026). Building knowledge: The ecological dynamics of co-operative action in collaborative construction of body-scale geometric structures. *Journal of the Learning Sciences*. [https://doi.org/10.1080/10508406.2026.2622059](https://doi.org/10.1080/10508406.2026.2622059)"
-    author: "Palatnik, A., & Abrahamson, D"
+    author: "Palatnik, A., & Abrahamson, D."
     q: 1
     i: 0
     n: 4 graduate students with embodied-cognition/STEM-education training
-    author: "Palatnik, A., & Abrahamson, D."
 ---
 
 # Embodied collaborative construction can build shared geometric reasoning

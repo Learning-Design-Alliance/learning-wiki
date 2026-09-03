@@ -11,11 +11,10 @@ sources:
   - id: sedawi-calabrese-barton-2024
     resource: "https://doi.org/10.1080/10508406.2024.2381205"
     title: "Sedawi, W., & Calabrese Barton, A. (2024). Toward epistemic justice in socio-scientific decision-making: How youth make sense of lively COVID-19 and vaccines data. *Journal of the Learning Sciences, 33*(4-5), 667-718. [https://doi.org/10.1080/10508406.2024.2381205](https://doi.org/10.1080/10508406.2024.2381205)"
-    author: "Sedawi, W., & Calabrese Barton, A"
+    author: "Sedawi, W., & Calabrese Barton, A."
     q: 2
     i: 1
     n: 4 focal case studies (Wael, Rama, Qassem, Dima), drawn from a larger pool of 19 Palestinian-Arab minority youth in Israel within a broader 51-youth/45-adult multi-country project
-    author: "Sedawi, W., & Calabrese Barton, A."
 ---
 
 # Agentic engagement with lively data supports epistemically just crisis sensemaking

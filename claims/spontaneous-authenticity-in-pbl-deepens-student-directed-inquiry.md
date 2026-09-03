@@ -11,11 +11,10 @@ sources:
   - id: miller-li-2026
     resource: "https://doi.org/10.1080/10508406.2025.2557896"
     title: "Miller, E. A., & Li, T. (2026). Manufacturing authenticity as part of written PBL curriculum: Contrived versus spontaneous events. *Journal of the Learning Sciences, 35*(2), 319-366. [https://doi.org/10.1080/10508406.2025.2557896](https://doi.org/10.1080/10508406.2025.2557896)"
-    author: "Miller, E. A., & Li, T"
+    author: "Miller, E. A., & Li, T."
     q: 2
     i: 1
     n: 1 classroom, 20 students, grade 3, bilingual context
-    author: "Miller, E. A., & Li, T."
 ---
 
 # Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves

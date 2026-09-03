@@ -11,11 +11,10 @@ sources:
   - id: popa-et-al-2023
     resource: "https://doi.org/10.1080/10508406.2023.2253529"
     title: "Popa, N., Anderson, E. R., Denner, J., McKenney, S., & Peurach, D. J. (2023). Belonging to a research-practice partnership: Lessons from 15 think-pieces about the COVID-19 pandemic and a call for action. *Journal of the Learning Sciences, 32*(4-5), 682-704. [https://doi.org/10.1080/10508406.2023.2253529](https://doi.org/10.1080/10508406.2023.2253529)"
-    author: "Popa, N., Anderson, E. R., Denner, J., McKenney, S., & Peurach, D. J"
+    author: "Popa, N., Anderson, E. R., Denner, J., McKenney, S., & Peurach, D. J."
     q: 1
     i: 1
     n: 21 contributors across 15 think-pieces, drawing on multiple named RPPs (e.g., Boston P-3 RPP, Houston Education Research Consortium)
-    author: "Popa, N., Anderson, E. R., Denner, J., McKenney, S., & Peurach, D. J."
 ---
 
 # Relational trust and rapid-response adaptation help research-practice partnerships survive acute disruption

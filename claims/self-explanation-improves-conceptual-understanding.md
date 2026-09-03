@@ -9,14 +9,14 @@ sources:
   - id: chi-et-al-1989
     resource: "https://doi.org/10.1207/s15516709cog1302_1"
     title: "Chi, M. T. H., Bassok, M., Lewis, M., Reimann, P., & Glaser, R. (1989). Self-explanations: How students study and use examples in learning to solve problems. *Cognitive Science, 13*(2), 145–182. [https://doi.org/10.1207/s15516709cog1302_1](https://doi.org/10.1207/s15516709cog1302_1)"
-    author: "Chi, M. T. H., Bassok, M., Lewis, M., Reimann, P., & Glaser, R"
+    author: "Chi, M. T. H., Bassok, M., Lewis, M., Reimann, P., & Glaser, R."
     q: 4
     i: 3
     n: 10
   - id: rittle-johnson-2017
     resource: "https://doi.org/10.1007/s11858-017-0834-z"
     title: "Rittle-Johnson, B. (2017). Promoting self-explanation to improve mathematics learning: A meta-analysis and instructional design principles. *ZDM Mathematics Education, 49*(4), 599–611. [https://doi.org/10.1007/s11858-017-0834-z](https://doi.org/10.1007/s11858-017-0834-z)"
-    author: Rittle-Johnson, B
+    author: Rittle-Johnson, B.
     q: 3
     i: 2
     n: N/A

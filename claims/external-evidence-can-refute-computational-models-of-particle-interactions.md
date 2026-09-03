@@ -11,11 +11,10 @@ sources:
   - id: wagh-et-al-2025
     resource: "https://doi.org/10.1080/07370008.2024.2427400"
     title: "Wagh, A., Rosenbaum, L. F., Fuhrmann, T., Eloy, A., Blikstein, P., & Wilkerson, M. (2025). Toward Ontological Alignment: Coordinating Student Ideas with the Representational System of a Computational Modeling Unit for Science Learning. *Cognition and Instruction, 43*(1-2), 1-32. [https://doi.org/10.1080/07370008.2024.2427400](https://doi.org/10.1080/07370008.2024.2427400)"
-    author: "Wagh, A., Rosenbaum, L. F., Fuhrmann, T., Eloy, A., Blikstein, P., & Wilkerson, M"
+    author: "Wagh, A., Rosenbaum, L. F., Fuhrmann, T., Eloy, A., Blikstein, P., & Wilkerson, M."
     q: 1
     i: 2
     n: 18 consented students (of 29 in the class), one sixth-grade classroom, one experienced teacher, 6-day unit
-    author: "Wagh, A., Rosenbaum, L. F., Fuhrmann, T., Eloy, A., Blikstein, P., & Wilkerson, M."
 ---
 
 # External empirical evidence can refute a computational model of particle interactions when the model's own simulation cannot

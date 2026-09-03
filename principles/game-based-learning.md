@@ -68,12 +68,15 @@ Game-based learning is strongest when the game mechanics require the same thinki
 - [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+M] — games support transfer best when their decisions and constraints resemble the real target performance
 
 ## Related Principles
+- [Learning Embedded in the Core Mechanic](learning-embedded-in-the-core-mechanic.md) — the design discipline this principle needs to be actionable: the learning has to be the repeated activity, not a gate around it.
 - [Simulations & Immersive Virtual Environments](simulations-immersive-virtual-environments.md) — simulations overlap with game-based learning when the experience models a system learners must navigate.
 - [Immediate Feedback](immediate-feedback.md) — games depend on fast consequence signals to support adaptation and persistence.
 - [Error Analysis](error-analysis.md) — game loops often create repeated opportunities to learn from mistakes.
 - [Guided Practice](guided-practice.md) — many instructional games work best after some initial modeling or guided rehearsal.
 
 ## Examples
+- [Learning Mechanic](../elements/learning-mechanic.md) — the unit a game's teaching is actually built from: the theory-grounded activity repeated throughout play, which a concrete game mechanic instantiates.
+- [Assessment Mechanic](../elements/assessment-mechanic.md) — its measurement counterpart, designed so the game's own log yields interpretable evidence rather than only a score.
 - **Scenario-based digital games**: Learners manage resources, make choices, and see consequences unfold across rounds or levels.
 - **Board or card games for concept practice**: Structured turn-taking and rules create repetition with feedback while keeping attention high.
 - **Quiz-show style review games**: Fast cycles of attempt and feedback can increase practice volume when questions still align to real objectives.

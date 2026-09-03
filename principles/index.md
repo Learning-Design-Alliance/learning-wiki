@@ -2,7 +2,7 @@
 
 Research-backed design commitments: what to do and why.
 
-**198 entries** · 0 stable · 149 in review · 49 drafts
+**199 entries** · 0 stable · 150 in review · 49 drafts
 
 ---
 
@@ -127,6 +127,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### L {: #letter-l }
 
 * [Learner Choice](learner-choice.md) - Learner choice is the principle of giving learners meaningful decisions about aspects of their learning, such as topic, format, sequence, pacing, strategy, or demonstration of understanding.
+* [Learning Embedded in the Core Mechanic](learning-embedded-in-the-core-mechanic.md) - In a game for learning, the learning has to be the essential repeated activity rather than a gate placed around it — and the game mechanic chosen to carry it must not add load, remove effort, or introduce skills the learner is not being taught.
 
 #### M {: #letter-m }
 

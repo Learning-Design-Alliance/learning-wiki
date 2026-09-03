@@ -12,7 +12,7 @@ sources:
   - id: mantovani-2026
     resource: "https://doi.org/10.14746/gl.2026.53.1.10"
     title: "Mantovani, A. (2026). Investigating language learning strategies through the strategy inventory: A study among immigrant adolescents in Italian secondary schools. *Glottodidactica, 53*(1), 221–239. [doi:10.14746/gl.2026.53.1.10](https://doi.org/10.14746/gl.2026.53.1.10)"
-    author: Mantovani, A
+    author: Mantovani, A.
     q: 2
     i: "?"
     n: 157

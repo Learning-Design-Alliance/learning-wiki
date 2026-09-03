@@ -11,11 +11,10 @@ sources:
   - id: lavie-sfard-2019
     resource: "https://doi.org/10.1080/10508406.2019.1646650"
     title: "Lavie, I., & Sfard, A. (2019). How Children Individualize Numerical Routines: Elements of a Discursive Theory in Making. *Journal of the Learning Sciences, 28*(4-5), 419-461. [https://doi.org/10.1080/10508406.2019.1646650](https://doi.org/10.1080/10508406.2019.1646650)"
-    author: "Lavie, I., & Sfard, A"
+    author: "Lavie, I., & Sfard, A."
     q: 3
     i: 2
     n: 4 children (1 focal case followed in depth, 3 corroborating), ages 2(1)-4(6) across the sample
-    author: "Lavie, I., & Sfard, A."
 ---
 
 # Numerical routines individualize through a three-stage sequence of vertical and horizontal bonding

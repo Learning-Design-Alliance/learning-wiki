@@ -11,11 +11,10 @@ sources:
   - id: wisittanawat-lehrer-2024
     resource: "https://doi.org/10.1080/07370008.2024.2397969"
     title: "Wisittanawat, P., & Lehrer, R. (2024). Teacher Cultivation of Classroom Statistical Modeling Practice: A Case Study. *Cognition and Instruction, 42*(4), 505-547. [https://doi.org/10.1080/07370008.2024.2397969](https://doi.org/10.1080/07370008.2024.2397969)"
-    author: "Wisittanawat, P., & Lehrer, R"
+    author: "Wisittanawat, P., & Lehrer, R."
     q: 2
     i: 1
     n: "28 sixth-grade students (modal age 11, 72% eligible for lunch supplements), one classroom, 4 weeks (15 lessons)"
-    author: "Wisittanawat, P., & Lehrer, R."
 ---
 
 # Dialogic teacher support cultivates all four aspects of statistical modeling practice over a multi-week unit

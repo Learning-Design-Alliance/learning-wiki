@@ -11,11 +11,10 @@ sources:
   - id: cohen-et-al-2023
     resource: "https://doi.org/10.1080/10508406.2023.2185147"
     title: "Cohen, E., Hod, Y., & Ben-Zvi, D. (2023). From \"Carrier\" to \"Creator\": The re-construction of national identity in more inclusive terms. *Journal of the Learning Sciences, 32*(3), 427-454. [https://doi.org/10.1080/10508406.2023.2185147](https://doi.org/10.1080/10508406.2023.2185147)"
-    author: "Cohen, E., Hod, Y., & Ben-Zvi, D"
+    author: "Cohen, E., Hod, Y., & Ben-Zvi, D."
     q: 1
     i: 2
     n: 1 focal case (a 9th-grade secular Jewish-Israeli student), drawn from a class of 38 in a design combining collaborative online knowledge-building with humanistic classroom practices
-    author: "Cohen, E., Hod, Y., & Ben-Zvi, D."
 ---
 
 # Participant examples support identity reconstruction through academic content

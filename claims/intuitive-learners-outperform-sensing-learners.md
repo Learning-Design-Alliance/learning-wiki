@@ -10,7 +10,7 @@ sources:
   - id: alty-2002
     resource: "https://files.eric.ed.gov/fulltext/ED476964.pdf"
     title: "Alty, J. L. (2002). Dual Coding Theory and Computer Education: Some Media Experiments To Examine the Effects of Different Media on Learning. *ED-MEDIA 2002 World Conference on Educational Multimedia, Hypermedia & Telecommunications* (14th, Denver, CO). [https://files.eric.ed.gov/fulltext/ED476964.pdf](https://files.eric.ed.gov/fulltext/ED476964.pdf)"
-    author: Alty, J. L
+    author: Alty, J. L.
     q: 3
     i: 1
 id: intuitive-learners-outperform-sensing-learners

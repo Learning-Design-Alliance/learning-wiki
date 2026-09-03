@@ -11,11 +11,10 @@ sources:
   - id: sinha-2022
     resource: "https://doi.org/10.1080/10508406.2021.1964506"
     title: "Sinha, T. (2022). Enriching problem-solving followed by instruction with explanatory accounts of emotions. *Journal of the Learning Sciences, 31*(2), 151-198. [https://doi.org/10.1080/10508406.2021.1964506](https://doi.org/10.1080/10508406.2021.1964506)"
-    author: Sinha, T
+    author: Sinha, T.
     q: 3
     i: 1
     n: "132 university students (59% male), novices to data science, 43-45 per condition"
-    author: "Sinha, T."
 ---
 
 # Emotion dynamics during problem-solving predict learning outcomes in a manner that depends on scaffolding design

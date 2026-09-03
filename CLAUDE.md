@@ -249,6 +249,48 @@ side does not read it — while `q`/`i`/`n` come from what each paper actually d
 reports a composition or a correlation and no effect size, the code is `i?` rather than a number
 invented to fill the slot.
 
+### State as of 2026-09-03 (later) — two frontmatter bugs that masked each other are fixed
+
+Running the ordinary ingest pipeline over a new source turned up a **duplicate-key defect on 86
+claim pages**, and then a second bug that had been hiding it.
+
+`sync_evidence_codes.SOURCES_BLOCK_RE` required a trailing newline on every line of the `sources:`
+block. `okf_lib.FRONTMATTER_RE` captures frontmatter as `(.*?)\n---`, so the block's **last** line
+arrives without one — and on a claim page `sources:` is normally the last key. The match therefore
+stopped one line short, and `sub` replaced everything up to there while leaving that final line
+standing: the rendered block, plus an orphaned copy of its own last key. `n: 157` twice. Valid YAML,
+last-one-wins, `lint.py` reporting zero the whole time. **Visible only in a diff** — the same shape
+as `strip_doi_from_line`, `apply_authorities` and `fix_title` before it, and the fourth time this
+repo has shipped "a tool edited a line it had no business editing".
+
+`okf_lib._derive_id_and_author` did `citation[:year].strip().rstrip(".")`. In APA the period before
+`(2022)` usually belongs to the final initial, so **every author list ending in an initial was
+recorded one character short** — `& Freeman, S` for `& Freeman, S.` It had been that way long enough
+that nobody could see it, because the orphaned duplicate happened to carry the *correct* spelling
+and won the last-key race. The corpus read correctly while both bugs were live.
+
+**That is why they had to be fixed together.** Repairing only the regex removes the orphan and
+promotes the truncated spelling — a silent rewrite of `author` on 70 pages, dressed as a cleanup.
+Both fixed, 115 pages rewritten, and the result verified by parsing each page's frontmatter before
+and after: 0 source entries added or dropped, 0 keys other than `author` changed, 0 lines touched
+outside frontmatter. **Verify a repair pass this way rather than by reading the diff** — 115 files is
+past the point where reading works, and "the parsed value is unchanged except where I intended it to
+change" is checkable.
+
+`scripts/log_source_review.py` also gained `--citations`. `okf_lib.append_manifest_entry` has
+accepted it since Gate 3 landed, but the CLI never exposed it — so **every manually ingested source
+wrote a bare `ingested`**, which this file is explicit must not be read as "the citations were
+checked". The automated path calls the library directly and was never affected, which is exactly why
+the gap survived unnoticed.
+
+**The wiki now covers game mechanics as a design object.** `elements/learning-mechanic`,
+`elements/assessment-mechanic`, `principles/learning-embedded-in-the-core-mechanic` and
+`methods/evidence-centered-design`, from the G4LI white paper (Plass et al., 2011). No claim pages
+were written from it: it is a conceptual argument that borrows its empirical support, and writing
+claims from studies nobody here has read is the failure mode this file is largely about. ECD is
+`status: draft` on purpose — it is described from the white paper's summary of Mislevy, Steinberg &
+Almond (2003), not from the 60-page primary, and its page says so.
+
 ### Known open work
 
 - **`scripts/resolve_citation_metadata.py` settles the three citation backlogs against

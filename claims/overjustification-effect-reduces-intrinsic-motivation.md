@@ -11,31 +11,30 @@ sources:
   - id: deci-1971
     resource: "https://doi.org/10.1037/h0030644"
     title: "Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation. *Journal of Personality and Social Psychology, 18*(1), 105-115. [doi:10.1037/h0030644](https://doi.org/10.1037/h0030644)"
-    author: Deci, E. L
+    author: Deci, E. L.
     q: 3
     i: 2
     n: modest (university sample)
   - id: cameron-and-pierce-1994
     resource: "https://doi.org/10.3102/00346543064003363"
     title: "Cameron, J., & Pierce, W. D. (1994). Reinforcement, reward, and intrinsic motivation: A meta-analysis. *Review of Educational Research, 64*(3), 363-423. [doi:10.3102/00346543064003363](https://doi.org/10.3102/00346543064003363)"
-    author: "Cameron, J., & Pierce, W. D"
+    author: "Cameron, J., & Pierce, W. D."
     q: 3
     i: 1
     n: large (aggregated across many primary studies)
   - id: eisenberger-and-cameron-1996
     resource: "https://doi.org/10.1037/0003-066X.51.11.1153"
     title: "Eisenberger, R., & Cameron, J. (1996). Detrimental effects of reward: Reality or myth? *American Psychologist, 51*(11), 1153-1166. [doi:10.1037/0003-066X.51.11.1153](https://doi.org/10.1037/0003-066X.51.11.1153)"
-    author: "Eisenberger, R., & Cameron, J"
+    author: "Eisenberger, R., & Cameron, J."
     q: 3
     i: 1
     n: large (aggregated)
   - id: deci-koestner-and-ryan-2001
     resource: "https://doi.org/10.3102/00346543071001001"
     title: "Deci, E. L., Koestner, R., & Ryan, R. M. (2001). Extrinsic rewards and intrinsic motivation in education: Reconsidering the \"positive effects\" of rewards. *Review of Educational Research, 71*(1), 1-27. [doi:10.3102/00346543071001001](https://doi.org/10.3102/00346543071001001)"
-    author: "Deci, E. L., Koestner, R., & Ryan, R. M"
+    author: "Deci, E. L., Koestner, R., & Ryan, R. M."
     q: 3
     i: 1
-    n: large (aggregated across studies specifically in educational contexts)
     n: large (aggregated across studies specifically in educational contexts)
 ---
 

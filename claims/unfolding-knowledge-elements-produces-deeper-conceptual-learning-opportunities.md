@@ -11,11 +11,10 @@ sources:
   - id: ademmer-prediger-2025
     resource: "https://doi.org/10.1080/07370008.2025.2527688"
     title: "Ademmer, C., & Prediger, S. (2025). How Can Ideas Be Connected Afterwards? Decomposing Teachers' Facilitation Practices for Conceptual Learning in a Case of Formal Volume Calculation. *Cognition and Instruction, 43*(4), 355-388. [https://doi.org/10.1080/07370008.2025.2527688](https://doi.org/10.1080/07370008.2025.2527688)"
-    author: "Ademmer, C., & Prediger, S"
+    author: "Ademmer, C., & Prediger, S."
     q: 2
     i: 2
     n: 8 experienced mathematics teachers (12+ years), Grades 5-7, 549 minutes of video recorded, 280 minutes fully transcribed
-    author: "Ademmer, C., & Prediger, S."
 ---
 
 # Explicitly unfolding higher-order contributions into lower-order concept elements produces deeper conceptual learning opportunities than jumping directly to procedure

@@ -11,11 +11,10 @@ sources:
   - id: pierroux-et-al-2022
     resource: "https://doi.org/10.1080/10508406.2022.2025813"
     title: "Pierroux, P., Steier, R., & Ludvigsen, S. R. (2022). Group creativity in adolescence: Relational, material and institutional dimensions of creative collaboration. *Journal of the Learning Sciences, 31*(1), 107-137. [https://doi.org/10.1080/10508406.2022.2025813](https://doi.org/10.1080/10508406.2022.2025813)"
-    author: "Pierroux, P., Steier, R., & Ludvigsen, S. R"
+    author: "Pierroux, P., Steier, R., & Ludvigsen, S. R."
     q: 2
     i: 2
     n: 4 students (ages 12-13) analyzed in depth from a workshop of 20 students, ~8 hours of focal-group video from a 35-hour total corpus
-    author: "Pierroux, P., Steier, R., & Ludvigsen, S. R."
 ---
 
 # Well-defined tasks and accessible materials support shared creative influence in group work

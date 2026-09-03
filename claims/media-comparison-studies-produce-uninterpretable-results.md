@@ -11,24 +11,23 @@ sources:
   - id: clark-1983
     resource: "https://doi.org/10.3102/00346543053004445"
     title: "Clark, R. E. (1983). Reconsidering research on learning from media. *Review of Educational Research, 53*(4), 445–459. [https://doi.org/10.3102/00346543053004445](https://doi.org/10.3102/00346543053004445)"
-    author: Clark, R. E
+    author: Clark, R. E.
     q: 3
     i: 1
     n: n/a (literature synthesis)
   - id: levie-and-dickie-1973
     title: "Levie, W. H., & Dickie, K. (1973). The analysis and application of media. In R. Travers (Ed.), *The Second Handbook of Research on Teaching* (pp. 858–882). Rand McNally."
-    author: "Levie, W. H., & Dickie, K"
+    author: "Levie, W. H., & Dickie, K."
     q: 2
     i: 0
     n: n/a
   - id: lockee-moore-and-burton-2001
     resource: "https://edtechbooks.org/lidtfoundations/old_concerns_distance_education"
     title: "Lockee, B. B., Moore, M., & Burton, J. (2001). Old concerns with new distance education research. *Educause Quarterly, 24*(2), 60–62. Republished in R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/old_concerns_distance_education](https://edtechbooks.org/lidtfoundations/old_concerns_distance_education)"
-    author: "Lockee, B. B., Moore, M., & Burton, J"
+    author: "Lockee, B. B., Moore, M., & Burton, J."
     q: 2
     i: 1
     n: n/a
-    q: 2
 ---
 
 # Media comparison studies produce uninterpretable "no significant difference" findings.

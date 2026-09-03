@@ -1,11 +1,11 @@
 {
  "counts": {
   "claim": 428,
-  "element": 325,
+  "element": 327,
   "learner-variable": 12,
-  "method": 12,
+  "method": 13,
   "pattern": 125,
-  "principle": 198,
+  "principle": 199,
   "process": 11,
   "strategy": 2548,
   "theory": 89
@@ -3931,6 +3931,14 @@
    "type": "element"
   },
   {
+   "description": "The repeated in-game activity designed to elicit behaviour a log can capture and an evidence model can interpret \u2014 assessment built as a mechanic rather than bolted on as a test.",
+   "id": "assessment-mechanic",
+   "path": "elements/assessment-mechanic.md",
+   "status": "review",
+   "title": "Assessment Mechanic",
+   "type": "element"
+  },
+  {
    "description": "Learners are assigned a specific stance on an issue and must argue from that perspective.",
    "id": "assigned-positions",
    "path": "elements/assigned-positions.md",
@@ -5040,6 +5048,14 @@
    "path": "elements/learning-management-systems.md",
    "status": "review",
    "title": "Learning Management Systems",
+   "type": "element"
+  },
+  {
+   "description": "The repeated learner-facing activity at the heart of a game for learning \u2014 a design pattern, grounded in learning theory, that a concrete game mechanic instantiates without displacing the learning goal.",
+   "id": "learning-mechanic",
+   "path": "elements/learning-mechanic.md",
+   "status": "review",
+   "title": "Learning Mechanic",
    "type": "element"
   },
   {
@@ -6480,6 +6496,14 @@
    "path": "methods/cognitive-task-analysis.md",
    "status": "review",
    "title": "Cognitive Task Analysis",
+   "type": "method"
+  },
+  {
+   "description": "A design method for assessment that works backwards from the claim you want to make \u2014 name the competency, then the observable behaviour that would be evidence for it, then the task that elicits that behaviour.",
+   "id": "evidence-centered-design",
+   "path": "methods/evidence-centered-design.md",
+   "status": "draft",
+   "title": "Evidence-Centered Design",
    "type": "method"
   },
   {
@@ -8571,6 +8595,14 @@
    "path": "principles/learner-choice.md",
    "status": "review",
    "title": "Learner Choice",
+   "type": "principle"
+  },
+  {
+   "description": "In a game for learning, the learning has to be the essential repeated activity rather than a gate placed around it \u2014 and the game mechanic chosen to carry it must not add load, remove effort, or introduce skills the learner is not being taught.",
+   "id": "learning-embedded-in-the-core-mechanic",
+   "path": "principles/learning-embedded-in-the-core-mechanic.md",
+   "status": "review",
+   "title": "Learning Embedded in the Core Mechanic",
    "type": "principle"
   },
   {
@@ -30918,6 +30950,7 @@
    "articulation": "articulation",
    "assess-performance": "assess-performance",
    "assessment": "assessment",
+   "assessment-mechanic": "assessment-mechanic",
    "assigned-positions": "assigned-positions",
    "assigned-readings": "assigned-readings",
    "attention": "attention",
@@ -31057,6 +31090,7 @@
    "learning-contracts": "learning-contracts",
    "learning-goals": "learning-goals",
    "learning-management-systems": "learning-management-systems",
+   "learning-mechanic": "learning-mechanic",
    "learning-objectives": "learning-objectives",
    "learning-outcomes": "learning-outcomes",
    "learning-tasks": "learning-tasks",
@@ -31241,6 +31275,7 @@
    "activity-system-personas": "activity-system-personas",
    "backward-design": "backward-design",
    "cognitive-task-analysis": "cognitive-task-analysis",
+   "evidence-centered-design": "evidence-centered-design",
    "family-interview-based-assessment-task-design": "family-interview-based-assessment-task-design",
    "learner-analysis": "learner-analysis",
    "learner-and-context-analysis": "learner-and-context-analysis",
@@ -31493,6 +31528,7 @@
    "knowledge-organization": "knowledge-organization",
    "learner-centered-paradigm": "learner-centered-paradigm",
    "learner-choice": "learner-choice",
+   "learning-embedded-in-the-core-mechanic": "learning-embedded-in-the-core-mechanic",
    "least-restrictive-environment": "least-restrictive-environment",
    "mastery-learning": "mastery-learning",
    "memory-consolidation": "memory-consolidation",

@@ -11,11 +11,10 @@ sources:
   - id: engeström-käyhkö-2021
     resource: "https://doi.org/10.1080/10508406.2021.1908296"
     title: "Engeström, R., & Käyhkö, L. (2021). A critical search for the learning object across school and out-of-school contexts: A case of entrepreneurship education. *Journal of the Learning Sciences, 30*(3), 401-432. [https://doi.org/10.1080/10508406.2021.1908296](https://doi.org/10.1080/10508406.2021.1908296)"
-    author: "Engeström, R., & Käyhkö, L"
+    author: "Engeström, R., & Käyhkö, L."
     q: 1
     i: 0
     n: 1 school, 11 students in the focal course year, plus teachers, entrepreneurs, and municipal decision-makers
-    author: "Engeström, R., & Käyhkö, L."
 ---
 
 # Community projects need conceptual framing to avoid narrowing the learning object
