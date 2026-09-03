@@ -55,6 +55,7 @@ Formative assessment closes the gap between current and desired performance by m
 - [Assessment](assessment.md) — the parent element; formative assessment is its low-stakes, instruction-coupled mode
 - [Check-ins](../principles/check-ins.md) — lightweight, high-frequency formative probes embedded in sessions
 - [Fading](fading.md) — formative data tells the instructor when and how fast to withdraw support
+- [Assessment Mechanic](assessment-mechanic.md) — formative assessment run continuously inside an instrumented environment, where the evidence comes from a log of play rather than from a checkpoint
 
 ## Patterns That Use This Element
 - [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "assess performance" and "enhance retention and transfer" events

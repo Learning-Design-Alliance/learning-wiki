@@ -11,11 +11,10 @@ sources:
   - id: calor-et-al-2022
     resource: "https://doi.org/10.1080/10508406.2021.2024834"
     title: "Calor, S. M., Dekker, R., van Drie, J. P., & Volman, M. L. L. (2022). Scaffolding small groups at the group level: Improving the scaffolding behavior of mathematics teachers during mathematical discussions. *Journal of the Learning Sciences, 31*(3), 369-407. [https://doi.org/10.1080/10508406.2021.2024834](https://doi.org/10.1080/10508406.2021.2024834)"
-    author: "Calor, S. M., Dekker, R., van Drie, J. P., & Volman, M. L. L"
+    author: "Calor, S. M., Dekker, R., van Drie, J. P., & Volman, M. L. L."
     q: 3
     i: 2
     n: 4 seventh-grade mathematics teachers (109 students, 14 groups per condition), 5 lessons each on Early Algebra, Amsterdam
-    author: "Calor, S. M., Dekker, R., van Drie, J. P., & Volman, M. L. L."
 ---
 
 # Group-level scaffolding training increases teacher process support and student participation

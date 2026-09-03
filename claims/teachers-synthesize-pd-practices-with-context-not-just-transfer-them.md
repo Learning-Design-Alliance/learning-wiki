@@ -11,11 +11,10 @@ sources:
   - id: marshall-horn-2025
     resource: "https://doi.org/10.1080/10508406.2025.2468230"
     title: "Marshall, S. A., & Horn, I. S. (2025). Teachers as agentic synthesizers: Recontextualizing personally meaningful practices from professional development. *Journal of the Learning Sciences, 34*(3), 246-284. [https://doi.org/10.1080/10508406.2025.2468230](https://doi.org/10.1080/10508406.2025.2468230)"
-    author: "Marshall, S. A., & Horn, I. S"
+    author: "Marshall, S. A., & Horn, I. S."
     q: 2
     i: 1
     n: 2 focal cases (from 12 observed teachers)
-    author: "Marshall, S. A., & Horn, I. S."
 ---
 
 # Teachers actively synthesize professional-development practices with their own context rather than transferring them intact

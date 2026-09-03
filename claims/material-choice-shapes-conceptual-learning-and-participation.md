@@ -11,11 +11,10 @@ sources:
   - id: peppler-thompson-2024
     resource: "https://doi.org/10.1080/10508406.2024.2380694"
     title: "Peppler, K., & Thompson, N. (2024). Tools and materials as non-neutral actors in STEAM education. *Journal of the Learning Sciences, 33*(4-5), 719-756. [https://doi.org/10.1080/10508406.2024.2380694](https://doi.org/10.1080/10508406.2024.2380694)"
-    author: "Peppler, K., & Thompson, N"
+    author: "Peppler, K., & Thompson, N."
     q: 3
     i: 2
     n: 214 youth (ages 5-15) for the main comparison; n=49 for the sorting task
-    author: "Peppler, K., & Thompson, N."
 ---
 
 # Material choice shapes conceptual learning and who feels invited to learn

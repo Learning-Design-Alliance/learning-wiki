@@ -11,17 +11,16 @@ sources:
   - id: german-and-barrett-2005
     resource: "https://doi.org/10.1111/j.0956-7976.2005.00775.x"
     title: "German, T. P., & Barrett, H. C. (2005). Functional fixedness in a technologically sparse culture. *Psychological Science, 16*(1), 1-5. [doi:10.1111/j.0956-7976.2005.00775.x](https://doi.org/10.1111/j.0956-7976.2005.00775.x)"
-    author: "German, T. P., & Barrett, H. C"
+    author: "German, T. P., & Barrett, H. C."
     q: 2
     i: 1
     n: unreported in secondary source
   - id: arduini-van-hoose-classroom-example
     title: "Arduini-Van Hoose, N. (2020). Problem-solving. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0."
-    author: Arduini-Van Hoose, N
+    author: Arduini-Van Hoose, N.
     q: 1
     i: 1
     n: 1 classroom example
-    author: "German, T. P., & Barrett, H. C."
 ---
 
 # Functional fixedness — treating an object's or idea's function as fixed — blocks solutions that require reinterpreting it.

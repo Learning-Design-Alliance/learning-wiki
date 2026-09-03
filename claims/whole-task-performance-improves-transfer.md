@@ -9,7 +9,7 @@ sources:
   - id: van-merriënboer-et-al-2006
     resource: "https://doi.org/10.1002/acp.1250"
     title: "van Merriënboer, J. J. G., Kester, L., & Paas, F. (2006). Teaching complex rather than simple tasks: Balancing intrinsic and germane load to enhance transfer of learning. *Applied Cognitive Psychology, 20*(3), 343–352. [https://doi.org/10.1002/acp.1250](https://doi.org/10.1002/acp.1250)"
-    author: "van Merriënboer, J. J. G., Kester, L., & Paas, F"
+    author: "van Merriënboer, J. J. G., Kester, L., & Paas, F."
     q: 4
     i: 3
     n: unspecified

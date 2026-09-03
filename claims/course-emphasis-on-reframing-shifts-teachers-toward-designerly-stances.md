@@ -11,11 +11,10 @@ sources:
   - id: clark-et-al-2024
     resource: "https://doi.org/10.1080/10508406.2024.2397762"
     title: "Clark, D. B., Scott, D., DiPasquale, J. P., & Becker, S. (2024). Reframing design in education: Proposing a framework to support pre-service teachers in adopting designerly stances. *Journal of the Learning Sciences, 33*(4-5), 613-666. [https://doi.org/10.1080/10508406.2024.2397762](https://doi.org/10.1080/10508406.2024.2397762)"
-    author: "Clark, D. B., Scott, D., DiPasquale, J. P., & Becker, S"
+    author: "Clark, D. B., Scott, D., DiPasquale, J. P., & Becker, S."
     q: 2
     i: 2
     n: 43 pre-service teachers (28 in course version 1, 15 in version 2)
-    author: "Clark, D. B., Scott, D., DiPasquale, J. P., & Becker, S."
 ---
 
 # Course-based emphasis on reframing and stakeholder inquiry shifts pre-service teachers toward informed-designer stances

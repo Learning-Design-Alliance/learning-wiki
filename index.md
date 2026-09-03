@@ -12,10 +12,10 @@ A persistent, LLM-maintained knowledge base for learning design. Read [CLAUDE.md
 
 ## Knowledge Types
 
-### [Principles](principles/index.md) (198)
+### [Principles](principles/index.md) (199)
 Research-backed design commitments: what to do and why.
 
-### [Elements](elements/index.md) (325)
+### [Elements](elements/index.md) (327)
 Instructional building blocks — the components you compose into patterns.
 
 ### [Patterns](patterns/index.md) (125)
@@ -27,7 +27,7 @@ Concrete teaching activity recipes — specific, implementable approaches.
 ### [Design Processes](processes/index.md) (11)
 How a course gets designed — whole-process models a designer works through, rather than anything a learner meets.
 
-### [Design Methods](methods/index.md) (12)
+### [Design Methods](methods/index.md) (13)
 The practices a design process is made of — analysis, elicitation, mapping and evaluation work done on the design, not in the classroom.
 
 ### [Theories](theories/index.md) (89)

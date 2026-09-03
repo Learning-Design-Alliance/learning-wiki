@@ -11,11 +11,10 @@ sources:
   - id: rainio-hofmann-2021
     resource: "https://doi.org/10.1080/10508406.2021.1936532"
     title: "Rainio, A. P., & Hofmann, R. (2021). Teacher professional dialogues during a school intervention: From stabilization to possibility discourse through reflexive noticing. *Journal of the Learning Sciences, 30*(4-5), 707-746. [https://doi.org/10.1080/10508406.2021.1936532](https://doi.org/10.1080/10508406.2021.1936532)"
-    author: "Rainio, A. P., & Hofmann, R"
+    author: "Rainio, A. P., & Hofmann, R."
     q: 3
     i: 2
     n: "27 full-time teachers (21 female, 6 male) at one disadvantaged-area Finnish middle school (~300 students, ~30% recent immigrants/refugees), nine fortnightly 2-hour sessions across the 2000-2001 school year"
-    author: "Rainio, A. P., & Hofmann, R."
 ---
 
 # Reflexive noticing shifts teacher discourse from stabilization to possibility, while surprises alone often re-stabilize it

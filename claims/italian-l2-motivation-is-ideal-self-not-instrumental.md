@@ -12,14 +12,14 @@ sources:
   - id: ferronato-2026
     resource: "https://doi.org/10.52598/jpll/8/2/1"
     title: "Ferronato, M. (2026). Motivation, L2 Selves, and Experience of University Students of Italian in the United States. *Journal for the Psychology of Language Learning, 8*(2), 1–31. [doi:10.52598/jpll/8/2/1](https://doi.org/10.52598/jpll/8/2/1)"
-    author: Ferronato, M
+    author: Ferronato, M.
     q: 2
     i: "?"
     n: 211
   - id: dorazzi-hajek-2022
     resource: "https://doi.org/10.5406/23256672.99.3.04"
     title: "D'Orazzi, G., & Hajek, J. (2022). A Multidimensional Understanding of Italian L2 Learner Motivation among University Students in a Predominantly English-Speaking Environment. *Italica, 99*(3), 350–375. [doi:10.5406/23256672.99.3.04](https://doi.org/10.5406/23256672.99.3.04)"
-    author: "D'Orazzi, G., & Hajek, J"
+    author: "D'Orazzi, G., & Hajek, J."
     q: 2
     i: "?"
     n: not reported here

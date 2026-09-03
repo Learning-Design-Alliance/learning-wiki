@@ -10,18 +10,17 @@ evidence_strength: mixed
 sources:
   - id: mischel-ebbesen-and-raskoff-zeiss-1972
     title: "Mischel, W., Ebbesen, E. B., & Raskoff Zeiss, A. (1972). Cognitive and attentional mechanisms in delay of gratification. *Journal of Personality and Social Psychology, 21*(2), 204-218."
-    author: "Mischel, W., Ebbesen, E. B., & Raskoff Zeiss, A"
+    author: "Mischel, W., Ebbesen, E. B., & Raskoff Zeiss, A."
     q: 3
     i: 2
     n: hundreds of preschoolers in the original series
   - id: watts-duncan-and-quan-2018
     resource: "https://doi.org/10.1177/0956797618761661"
     title: "Watts, T. W., Duncan, G. J., & Quan, H. (2018). Revisiting the marshmallow test: A conceptual replication investigating links between early delay of gratification and later outcomes. *Psychological Science, 29*(7), 1159-1177. [doi:10.1177/0956797618761661](https://doi.org/10.1177/0956797618761661)"
-    author: "Watts, T. W., Duncan, G. J., & Quan, H"
+    author: "Watts, T. W., Duncan, G. J., & Quan, H."
     q: 4
     i: 1
     n: 918 children (approx., nationally representative subsample)
-    author: "Watts, T. W., Duncan, G. J., & Quan, H."
 ---
 
 # Early ability to delay gratification predicts later academic and social outcomes, but the association is weaker and more context-dependent than originally reported.

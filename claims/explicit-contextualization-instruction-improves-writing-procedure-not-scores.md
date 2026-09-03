@@ -11,11 +11,10 @@ sources:
   - id: sendur-et-al-2021
     resource: "https://doi.org/10.1080/10508406.2021.1939029"
     title: "Sendur, K. A., van Drie, J., & van Boxtel, C. (2021). Historical contextualization in students' writing. *Journal of the Learning Sciences, 30*(4-5), 797-836. [https://doi.org/10.1080/10508406.2021.1939029](https://doi.org/10.1080/10508406.2021.1939029)"
-    author: "Sendur, K. A., van Drie, J., & van Boxtel, C"
+    author: "Sendur, K. A., van Drie, J., & van Boxtel, C."
     q: 3
     i: 2
     n: 140 undergraduate L2 English learners (B2 CEFR level) at a university in Istanbul; experimental n=60, control n=80
-    author: "Sendur, K. A., van Drie, J., & van Boxtel, C."
 ---
 
 # Explicit contextualization instruction improves procedural aspects of historical writing without improving contextualization scores themselves

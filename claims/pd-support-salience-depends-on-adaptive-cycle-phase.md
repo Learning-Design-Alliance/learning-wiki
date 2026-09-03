@@ -11,11 +11,10 @@ sources:
   - id: ehrenfeld-stengel-2025
     resource: "https://doi.org/10.1080/10508406.2025.2468205"
     title: "Ehrenfeld, N., & Stengel, B. (2025). The temporal dimension of teacher learning in a video-based professional development program: An ecological perspective. *Journal of the Learning Sciences, 34*(3), 285-328. [https://doi.org/10.1080/10508406.2025.2468205](https://doi.org/10.1080/10508406.2025.2468205)"
-    author: "Ehrenfeld, N., & Stengel, B"
+    author: "Ehrenfeld, N., & Stengel, B."
     q: 2
     i: 1
     n: 2 teacher teams, one over 1 year (3 video-feedback sessions), one over 2+ years (6 sessions plus a Year 3 follow-up)
-    author: "Ehrenfeld, N., & Stengel, B."
 ---
 
 # PD support type and salience depends on a teacher team's current phase in the adaptive learning cycle

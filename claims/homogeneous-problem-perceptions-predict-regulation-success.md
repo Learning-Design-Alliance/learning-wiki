@@ -11,11 +11,10 @@ sources:
   - id: spang-greisel-kollar-2026
     resource: "https://doi.org/10.1080/10508406.2025.2553543"
     title: "Spang, L., Greisel, M., & Kollar, I. (2026). Great minds think alike—how homogeneous problem perceptions are associated with successful regulation in collaborative learning groups. *Journal of the Learning Sciences, 35*(2), 277-318. [https://doi.org/10.1080/10508406.2025.2553543](https://doi.org/10.1080/10508406.2025.2553543)"
-    author: "Spang, L., Greisel, M., & Kollar, I"
+    author: "Spang, L., Greisel, M., & Kollar, I."
     q: 3
     i: 2
     n: 311 pre-service teachers in 112 online groups (subsample n=62 for groups with substantial problems)
-    author: "Spang, L., Greisel, M., & Kollar, I."
 ---
 
 # Homogeneous problem perceptions predict better regulation outcomes in collaborative groups

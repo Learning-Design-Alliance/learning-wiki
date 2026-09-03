@@ -11,11 +11,10 @@ sources:
   - id: peppler-et-al-2025
     resource: "https://doi.org/10.1080/07370008.2025.2485070"
     title: "Peppler, K., Keune, A., Bender, S., & Yankova, N. (2025). Materialized Action: Reformulating the \"Doing of\" Math Through Fiber Crafting. *Cognition and Instruction, 43*(3), 175-200. [https://doi.org/10.1080/07370008.2025.2485070](https://doi.org/10.1080/07370008.2025.2485070)"
-    author: "Peppler, K., Keune, A., Bender, S., & Yankova, N"
+    author: "Peppler, K., Keune, A., Bender, S., & Yankova, N."
     q: 2
     i: 2
     n: 3 focal youth (ages 9-11) selected from a 17-participant, 3-day public-library summer camp
-    author: "Peppler, K., Keune, A., Bender, S., & Yankova, N."
 ---
 
 # Fiber crafting develops proportional reasoning through nested, personally-defined units

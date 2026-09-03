@@ -11,11 +11,10 @@ sources:
   - id: dishon-et-al-2024
     resource: "https://doi.org/10.1080/07370008.2023.2248641"
     title: "Dishon, G., Barzilai, S., & Yanai, J. V. (2024). Grasping Psychological Evidence: Integrating Evidentiary Practices in Psychology Instruction. *Cognition and Instruction, 42*(1), 56-91. [https://doi.org/10.1080/07370008.2023.2248641](https://doi.org/10.1080/07370008.2023.2248641)"
-    author: "Dishon, G., Barzilai, S., & Yanai, J. V"
+    author: "Dishon, G., Barzilai, S., & Yanai, J. V."
     q: 3
     i: 2
     n: 120 first-year undergraduates (24 groups of 5), one Introduction to Psychology course, Israeli research university
-    author: "Dishon, G., Barzilai, S., & Yanai, J. V."
 ---
 
 # Collaborative critique-and-redesign instruction shifts students from a value-free view of objectivity toward a procedural one

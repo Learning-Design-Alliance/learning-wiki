@@ -11,11 +11,10 @@ sources:
   - id: potvin-et-al-2024
     resource: "https://doi.org/10.1080/10508406.2024.2318557"
     title: "Potvin, A. S., Teeters, L. P., Penuel, W. R., & Dimidjian, S. (2024). Humanizing Co-design through attention to educators' affective and relational experiences. *Journal of the Learning Sciences, 33*(1), 41-79. [https://doi.org/10.1080/10508406.2024.2318557](https://doi.org/10.1080/10508406.2024.2318557)"
-    author: "Potvin, A. S., Teeters, L. P., Penuel, W. R., & Dimidjian, S"
+    author: "Potvin, A. S., Teeters, L. P., Penuel, W. R., & Dimidjian, S."
     q: 2
     i: 1
     n: 10 educators (5 teachers, 3 counselors, 1 principal, 1 librarian) across 6 schools in one district; 14 co-design meetings, 58 total hours, over roughly 8 months
-    author: "Potvin, A. S., Teeters, L. P., Penuel, W. R., & Dimidjian, S."
 ---
 
 # Attending to affect in co-design supports community formation and cross-scale transfer

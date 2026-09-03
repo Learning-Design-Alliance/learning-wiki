@@ -11,11 +11,10 @@ sources:
   - id: kainulainen-et-al-2025
     resource: "https://doi.org/10.1080/07370008.2025.2503193"
     title: "Kainulainen, M., Puurtinen, M., & Chinn, C. A. (2025). Regrounding Inquiry-Based Learning in History: A Study of Historians' Epistemic Processes. *Cognition and Instruction, 43*(4), 291-315. [https://doi.org/10.1080/07370008.2025.2503193](https://doi.org/10.1080/07370008.2025.2503193)"
-    author: "Kainulainen, M., Puurtinen, M., & Chinn, C. A"
+    author: "Kainulainen, M., Puurtinen, M., & Chinn, C. A."
     q: 2
     i: 2
     n: "26 Finnish academic historians (~11% of Finnish history professors/lecturers), average interview length 90 minutes"
-    author: "Kainulainen, M., Puurtinen, M., & Chinn, C. A."
 ---
 
 # Academic historians' epistemic processes extend well beyond source analysis and writing

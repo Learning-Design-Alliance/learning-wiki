@@ -11,11 +11,10 @@ sources:
   - id: kapon-schvartzer-2024
     resource: "https://doi.org/10.1080/07370008.2023.2197232"
     title: "Kapon, S., & Schvartzer, M. (2024). Guided Inquiry into a Physics Equation. *Cognition and Instruction, 42*(1), 159-206. [https://doi.org/10.1080/07370008.2023.2197232](https://doi.org/10.1080/07370008.2023.2197232)"
-    author: "Kapon, S., & Schvartzer, M"
+    author: "Kapon, S., & Schvartzer, M."
     q: 1
     i: 1
     n: 1 high-school student and 1 mentor, one academic year (October 2016-September 2017)
-    author: "Kapon, S., & Schvartzer, M."
 ---
 
 # Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning

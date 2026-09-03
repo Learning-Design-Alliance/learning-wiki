@@ -11,11 +11,10 @@ sources:
   - id: schwarz-et-al-2024
     resource: "https://doi.org/10.1080/10508406.2024.2344809"
     title: "Schwarz, B., Heyd-Metzuyanim, E., Koichu, B., Tabach, M., & Yarden, A. (2024). Opportunities and hindrances for promoting interdisciplinary learning in schools. *Journal of the Learning Sciences, 33*(2), 242-283. [https://doi.org/10.1080/10508406.2024.2344809](https://doi.org/10.1080/10508406.2024.2344809)"
-    author: "Schwarz, B., Heyd-Metzuyanim, E., Koichu, B., Tabach, M., & Yarden, A"
+    author: "Schwarz, B., Heyd-Metzuyanim, E., Koichu, B., Tabach, M., & Yarden, A."
     q: 2
     i: 2
     n: "150 Grade 7 students across 4 Israeli schools, five out-of-school \"focus days\" (~30-35 hours total)"
-    author: "Schwarz, B., Heyd-Metzuyanim, E., Koichu, B., Tabach, M., & Yarden, A."
 ---
 
 # Subtle teacher guidance, not imposition, enables interdisciplinary integration in small-group deliberation

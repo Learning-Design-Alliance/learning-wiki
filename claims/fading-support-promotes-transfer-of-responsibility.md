@@ -9,14 +9,14 @@ sources:
   - id: van-de-pol-et-al-2010
     resource: "https://doi.org/10.1007/s10648-010-9127-6"
     title: "van de Pol, J., Volman, M., & Beishuizen, J. (2010). Scaffolding in teacher–student interaction: A decade of research. *Educational Psychology Review, 22*(3), 271–296. [https://doi.org/10.1007/s10648-010-9127-6](https://doi.org/10.1007/s10648-010-9127-6)"
-    author: "van de Pol, J., Volman, M., & Beishuizen, J"
+    author: "van de Pol, J., Volman, M., & Beishuizen, J."
     q: 3
     i: 2
     n: N/A
   - id: renkl-et-al-2002
     resource: "https://doi.org/10.1080/00220970209599510"
     title: "Renkl, A., Atkinson, R. K., Maier, U. H., & Staley, R. (2002). From example study to problem solving: Smooth transitions help learning. *The Journal of Experimental Education, 70*(4), 293-315. [https://doi.org/10.1080/00220970209599510](https://doi.org/10.1080/00220970209599510)"
-    author: "Renkl, A., Atkinson, R. K., Maier, U. H., & Staley, R"
+    author: "Renkl, A., Atkinson, R. K., Maier, U. H., & Staley, R."
     q: 3
     i: 3
     n: 71

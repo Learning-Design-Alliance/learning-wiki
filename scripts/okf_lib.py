@@ -184,7 +184,15 @@ def _derive_id_and_author(citation: str) -> tuple[str, str | None]:
     if not ym:
         return slugify(" ".join(citation.split()[:5])), None
     year = ym.group(1)
-    prefix = citation[: ym.start()].strip().rstrip(".")
+    # Strip the sentence period before "(2022)" — but not when that period
+    # belongs to a final initial, which in APA is the normal case:
+    # "Koedinger, K. R. (2022)" has exactly one period and it is part of the
+    # name. A bare rstrip(".") took it, so every author list ending in an
+    # initial was recorded one character short. That only became visible when
+    # a page carried both spellings at once.
+    prefix = citation[: ym.start()].strip()
+    if not re.search(r"(?:\b[A-Z]|\.)\.$", prefix):
+        prefix = prefix.rstrip(".")
     lead_author = prefix.split(",")[0].strip()
     return slugify(f"{lead_author}-{year}"), prefix or None
 

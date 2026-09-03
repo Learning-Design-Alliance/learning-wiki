@@ -11,11 +11,10 @@ sources:
   - id: sarfati-shaulov-vedder-weiss-2025
     resource: "https://doi.org/10.1080/10508406.2025.2539845"
     title: "Sarfati-Shaulov, K., & Vedder-Weiss, D. (2025). Narrated pedagogical emotions as a resource for teacher professional learning. *Journal of the Learning Sciences, 35*(1), 1-41. [https://doi.org/10.1080/10508406.2025.2539845](https://doi.org/10.1080/10508406.2025.2539845)"
-    author: "Sarfati-Shaulov, K., & Vedder-Weiss, D"
+    author: "Sarfati-Shaulov, K., & Vedder-Weiss, D."
     q: 2
     i: 1
     n: 66 team meetings (64+ hours), 33 teacher groups, 17 Israeli elementary schools; 128 coded emotion-narrating stories, 492 emotion tokens
-    author: "Sarfati-Shaulov, K., & Vedder-Weiss, D."
 ---
 
 # Elaborated discussion of narrated emotions supports teacher professional learning

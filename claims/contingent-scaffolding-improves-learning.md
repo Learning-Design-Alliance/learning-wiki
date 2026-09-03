@@ -9,35 +9,35 @@ sources:
   - id: pratt-and-savoy-levine-1998
     resource: "https://doi.org/10.1016/s0193-3973(99"
     title: "Pratt, M. W., & Savoy-Levine, K. M. (1998). Contingent tutoring of long-division skills in fourth and fifth graders: Experimental tests of some hypotheses about scaffolding. *Journal of Applied Developmental Psychology, 19*(2), 287–304. [doi:10.1016/s0193-3973(99)80041-0](https://doi.org/10.1016/s0193-3973(99)80041-0)"
-    author: "Pratt, M. W., & Savoy-Levine, K. M"
+    author: "Pratt, M. W., & Savoy-Levine, K. M."
     q: 3
     i: 2
     n: 40 (N=8 per condition)
   - id: chi-et-al-2001
     resource: "https://doi.org/10.1207/s15516709cog2504_1"
     title: "Chi, M. T. H., Siler, S. A., Jeong, H., Yamauchi, T., & Hausmann, R. G. (2001). Learning from human tutoring. *Cognitive Science, 25*(4), 471–533. [doi:10.1207/s15516709cog2504_1](https://doi.org/10.1207/s15516709cog2504_1)"
-    author: "Chi, M. T. H., Siler, S. A., Jeong, H., Yamauchi, T., & Hausmann, R. G"
+    author: "Chi, M. T. H., Siler, S. A., Jeong, H., Yamauchi, T., & Hausmann, R. G."
     q: 3
     i: 2
     n: 11 tutor-student pairs
   - id: swanson-and-lussier-2001
     resource: "https://doi.org/10.3102/00346543071002321"
     title: "Swanson, H. L., & Lussier, C. M. (2001). A selective synthesis of the experimental literature on dynamic assessment. *Review of Educational Research, 71*(2), 321–363. [doi:10.3102/00346543071002321](https://doi.org/10.3102/00346543071002321)"
-    author: "Swanson, H. L., & Lussier, C. M"
+    author: "Swanson, H. L., & Lussier, C. M."
     q: 4
     i: 2
     n: 30 studies
   - id: van-de-pol-et-al-2010
     resource: "https://doi.org/10.1007/s10648-010-9127-6"
     title: "van de Pol, J., Volman, M., & Beishuizen, J. (2010). Scaffolding in teacher–student interaction: A decade of research. *Educational Psychology Review, 22*(3), 271–296. [doi:10.1007/s10648-010-9127-6](https://doi.org/10.1007/s10648-010-9127-6)"
-    author: "van de Pol, J., Volman, M., & Beishuizen, J"
+    author: "van de Pol, J., Volman, M., & Beishuizen, J."
     q: 3
     i: 1
     n: 66 articles
   - id: wood-et-al-1976
     resource: "https://doi.org/10.1111/j.1469-7610.1976.tb00381.x"
     title: "Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry, 17*(2), 89–100. [doi:10.1111/j.1469-7610.1976.tb00381.x](https://doi.org/10.1111/j.1469-7610.1976.tb00381.x)"
-    author: "Wood, D., Bruner, J. S., & Ross, G"
+    author: "Wood, D., Bruner, J. S., & Ross, G."
     q: 3
     i: 3
     n: 30

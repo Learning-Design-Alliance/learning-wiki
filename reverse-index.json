@@ -7,35 +7,38 @@
   "claims->principles": 145,
   "claims->processes": 1,
   "claims->theories": 282,
-  "elements->claims": 168,
-  "elements->elements": 312,
+  "elements->claims": 170,
+  "elements->elements": 314,
+  "elements->learner-variables": 1,
+  "elements->methods": 1,
   "elements->patterns": 241,
-  "elements->principles": 309,
+  "elements->principles": 311,
   "elements->processes": 1,
-  "elements->theories": 44,
+  "elements->theories": 45,
   "learner-variables->claims": 12,
   "learner-variables->elements": 12,
   "learner-variables->learner-variables": 3,
   "learner-variables->patterns": 6,
   "learner-variables->theories": 6,
   "methods->claims": 8,
-  "methods->elements": 9,
-  "methods->methods": 7,
-  "methods->patterns": 3,
+  "methods->elements": 10,
+  "methods->methods": 8,
+  "methods->patterns": 4,
   "methods->principles": 8,
   "methods->processes": 1,
   "methods->theories": 3,
   "patterns->claims": 86,
   "patterns->elements": 90,
+  "patterns->methods": 1,
   "patterns->patterns": 99,
   "patterns->principles": 82,
   "patterns->theories": 47,
-  "principles->claims": 161,
-  "principles->elements": 50,
-  "principles->patterns": 39,
-  "principles->principles": 192,
+  "principles->claims": 162,
+  "principles->elements": 52,
+  "principles->patterns": 40,
+  "principles->principles": 193,
   "principles->processes": 2,
-  "principles->theories": 106,
+  "principles->theories": 107,
   "processes->claims": 10,
   "processes->elements": 10,
   "processes->methods": 5,
@@ -16711,6 +16714,20 @@
       "slug": "writing-strategy-instruction-improves-writing-quality"
      }
     ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "assessment-mechanic",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "learning-embedded-in-the-core-mechanic",
+      "strength": "M"
+     }
+    ],
     "processes": [
      {
       "polarity": "+",
@@ -22252,6 +22269,13 @@
      {
       "slug": "retrieval-practice-improves-transfer"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "learning-embedded-in-the-core-mechanic",
+      "strength": "M"
+     }
     ]
    },
    "desirable-difficulties-improve-retention": {
@@ -24762,6 +24786,11 @@
      },
      {
       "polarity": "~",
+      "slug": "learning-embedded-in-the-core-mechanic",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
       "slug": "personalization",
       "strength": "M"
      },
@@ -25794,6 +25823,11 @@
       "polarity": "+",
       "slug": "guided-practice",
       "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "learning-embedded-in-the-core-mechanic",
+      "strength": "M"
      },
      {
       "polarity": "+",
@@ -43954,6 +43988,11 @@
      },
      {
       "polarity": "+",
+      "slug": "learning-mechanic",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "mission-based-learning",
       "strength": "M"
      },
@@ -44164,6 +44203,11 @@
      {
       "polarity": "+",
       "slug": "inquiry-based-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "learning-embedded-in-the-core-mechanic",
       "strength": "M"
      },
      {
@@ -54890,6 +54934,34 @@
      }
     ]
    },
+   "assessment-mechanic": {
+    "elements": [
+     {
+      "slug": "formative-assessment"
+     },
+     {
+      "slug": "learning-mechanic"
+     }
+    ],
+    "methods": [
+     {
+      "slug": "evidence-centered-design"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "epistemic-games"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "game-based-learning"
+     },
+     {
+      "slug": "learning-embedded-in-the-core-mechanic"
+     }
+    ]
+   },
    "assigned-positions": {
     "claims": [
      {
@@ -65332,6 +65404,9 @@
    "constructed-response-assessment-items": {
     "elements": [
      {
+      "slug": "assessment-mechanic"
+     },
+     {
       "slug": "selected-response-assessment-items"
      }
     ],
@@ -67158,6 +67233,11 @@
       "slug": "epistemic-games-reveal-unacknowledged-disciplinary-differences-in-teams"
      }
     ],
+    "elements": [
+     {
+      "slug": "learning-mechanic"
+     }
+    ],
     "theories": [
      {
       "slug": "epistemic-games"
@@ -68804,6 +68884,9 @@
       "slug": "assess-performance"
      },
      {
+      "slug": "assessment-mechanic"
+     },
+     {
       "slug": "assessment"
      },
      {
@@ -68829,6 +68912,11 @@
      },
      {
       "slug": "self-testing"
+     }
+    ],
+    "methods": [
+     {
+      "slug": "evidence-centered-design"
      }
     ],
     "patterns": [
@@ -70193,6 +70281,11 @@
     ]
    },
    "learning-analytics-feedback": {
+    "elements": [
+     {
+      "slug": "assessment-mechanic"
+     }
+    ],
     "processes": [
      {
       "slug": "continuous-improvement-of-learning-materials"
@@ -70219,6 +70312,21 @@
      },
      {
       "slug": "formative-feedback"
+     }
+    ]
+   },
+   "learning-mechanic": {
+    "elements": [
+     {
+      "slug": "assessment-mechanic"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "game-based-learning"
+     },
+     {
+      "slug": "learning-embedded-in-the-core-mechanic"
      }
     ]
    },
@@ -71943,10 +72051,18 @@
    "performance-based-assessment": {
     "elements": [
      {
+      "slug": "assessment-mechanic"
+     },
+     {
       "slug": "competency-based-learning"
      },
      {
       "slug": "summative-assessment"
+     }
+    ],
+    "methods": [
+     {
+      "slug": "evidence-centered-design"
      }
     ],
     "patterns": [
@@ -72157,6 +72273,9 @@
      },
      {
       "slug": "integration"
+     },
+     {
+      "slug": "learning-mechanic"
      },
      {
       "slug": "learning-tasks"
@@ -78196,6 +78315,9 @@
      },
      {
       "slug": "debrief"
+     },
+     {
+      "slug": "learning-mechanic"
      }
     ],
     "patterns": [
@@ -80172,10 +80294,24 @@
      }
     ]
    },
+   "affect-regulation": {
+    "elements": [
+     {
+      "slug": "assessment-mechanic"
+     }
+    ]
+   },
    "digital-literacy": {
     "learner-variables": [
      {
       "slug": "access"
+     }
+    ]
+   },
+   "self-regulation": {
+    "elements": [
+     {
+      "slug": "assessment-mechanic"
      }
     ]
    },
@@ -80200,6 +80336,9 @@
    },
    "backward-design": {
     "methods": [
+     {
+      "slug": "evidence-centered-design"
+     },
      {
       "slug": "standards-crosswalk"
      }
@@ -80236,12 +80375,27 @@
       "slug": "activity-system-personas"
      },
      {
+      "slug": "evidence-centered-design"
+     },
+     {
       "slug": "standards-crosswalk"
      }
     ],
     "processes": [
      {
       "slug": "systematic-instructional-design"
+     }
+    ]
+   },
+   "evidence-centered-design": {
+    "elements": [
+     {
+      "slug": "assessment-mechanic"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "epistemic-games"
      }
     ]
    },
@@ -80346,6 +80500,11 @@
     ]
    },
    "standards-crosswalk": {
+    "methods": [
+     {
+      "slug": "evidence-centered-design"
+     }
+    ],
     "processes": [
      {
       "slug": "design-thinking"
@@ -80362,6 +80521,9 @@
     "methods": [
      {
       "slug": "cognitive-task-analysis"
+     },
+     {
+      "slug": "evidence-centered-design"
      },
      {
       "slug": "learner-and-context-analysis"
@@ -85480,12 +85642,22 @@
     ]
    },
    "epistemic-games": {
+    "methods": [
+     {
+      "slug": "evidence-centered-design"
+     }
+    ],
     "patterns": [
      {
       "slug": "game-based-mastery-learning"
      },
      {
       "slug": "project-and-instructional-space"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "learning-embedded-in-the-core-mechanic"
      }
     ],
     "theories": [
@@ -86696,6 +86868,11 @@
      },
      {
       "slug": "spaced-learning"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "learning-embedded-in-the-core-mechanic"
      }
     ]
    },
@@ -101957,6 +102134,9 @@
    "formative-assessment": {
     "elements": [
      {
+      "slug": "assessment-mechanic"
+     },
+     {
       "slug": "immediate-feedback"
      },
      {
@@ -102031,6 +102211,9 @@
      },
      {
       "slug": "immediate-feedback"
+     },
+     {
+      "slug": "learning-embedded-in-the-core-mechanic"
      },
      {
       "slug": "mastery-learning"
@@ -102141,7 +102324,13 @@
    "game-based-learning": {
     "elements": [
      {
+      "slug": "assessment-mechanic"
+     },
+     {
       "slug": "gamification"
+     },
+     {
+      "slug": "learning-mechanic"
      }
     ],
     "patterns": [
@@ -102158,6 +102347,9 @@
     "principles": [
      {
       "slug": "engagement"
+     },
+     {
+      "slug": "learning-embedded-in-the-core-mechanic"
      },
      {
       "slug": "motivation"
@@ -102425,6 +102617,9 @@
       "slug": "inquiry-based-learning"
      },
      {
+      "slug": "learning-embedded-in-the-core-mechanic"
+     },
+     {
       "slug": "problem-based-learning"
      },
      {
@@ -102519,6 +102714,9 @@
      },
      {
       "slug": "learning-analytics-feedback"
+     },
+     {
+      "slug": "learning-mechanic"
      }
     ],
     "patterns": [
@@ -102583,6 +102781,9 @@
      },
      {
       "slug": "instructor-accessibility"
+     },
+     {
+      "slug": "learning-embedded-in-the-core-mechanic"
      },
      {
       "slug": "mastery-learning"
@@ -102909,6 +103110,21 @@
     "theories": [
      {
       "slug": "self-determination-theory"
+     }
+    ]
+   },
+   "learning-embedded-in-the-core-mechanic": {
+    "elements": [
+     {
+      "slug": "assessment-mechanic"
+     },
+     {
+      "slug": "learning-mechanic"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "game-based-learning"
      }
     ]
    },
@@ -106518,6 +106734,9 @@
     "elements": [
      {
       "slug": "knowledge-building-discourse"
+     },
+     {
+      "slug": "learning-mechanic"
      }
     ],
     "learner-variables": [
@@ -106539,6 +106758,9 @@
     "principles": [
      {
       "slug": "disciplinary-literacy"
+     },
+     {
+      "slug": "learning-embedded-in-the-core-mechanic"
      },
      {
       "slug": "responsive-teaching"
@@ -107248,6 +107470,9 @@
      },
      {
       "slug": "handoutsonline-guidesvisual-reading-aids"
+     },
+     {
+      "slug": "learning-embedded-in-the-core-mechanic"
      },
      {
       "slug": "memory-consolidation"
@@ -111249,6 +111474,9 @@
       "slug": "decision-making"
      },
      {
+      "slug": "learning-mechanic"
+     },
+     {
       "slug": "reflection"
      }
     ],
@@ -111298,6 +111526,9 @@
      },
      {
       "slug": "distributed-cognition"
+     },
+     {
+      "slug": "learning-embedded-in-the-core-mechanic"
      },
      {
       "slug": "responsive-teaching"
@@ -111949,11 +112180,11 @@
  "note": "Reverse edges: for each page, which pages link TO it. Built by scripts/build_reverse_index.py; see its docstring for why this direction rather than ## Examples.",
  "totals": {
   "claims": 428,
-  "elements": 325,
+  "elements": 327,
   "learner-variables": 12,
-  "methods": 12,
+  "methods": 13,
   "patterns": 125,
-  "principles": 198,
+  "principles": 199,
   "processes": 11,
   "strategies": 2548,
   "theories": 89

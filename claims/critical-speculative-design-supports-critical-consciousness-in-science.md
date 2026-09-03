@@ -11,11 +11,10 @@ sources:
   - id: arad-et-al-2023
     resource: "https://doi.org/10.1080/10508406.2022.2154158"
     title: "Arad, K., Sanchez, A., & Bell, P. (2023). Youth as pattern makers for racial justice: How speculative design pedagogy in science can promote restorative futures through radical care practices. *Journal of the Learning Sciences, 32*(1), 76-109. [https://doi.org/10.1080/10508406.2022.2154158](https://doi.org/10.1080/10508406.2022.2154158)"
-    author: "Arad, K., Sanchez, A., & Bell, P"
+    author: "Arad, K., Sanchez, A., & Bell, P."
     q: 2
     i: 2
     n: "158 8th-grade students across two Pacific Northwest middle schools, 65% Black, Brown, or Indigenous"
-    author: "Arad, K., Sanchez, A., & Bell, P."
 ---
 
 # Critical speculative design pedagogy supports critical consciousness and justice-oriented sensemaking in science

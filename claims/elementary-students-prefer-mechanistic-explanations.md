@@ -11,11 +11,10 @@ sources:
   - id: shtechman-ergazaki-haskel-ittah-2025
     resource: "https://doi.org/10.1080/10508406.2024.2432682"
     title: "Shtechman, Y., Ergazaki, M., & Haskel-Ittah, M. (2025). Mechanistic reasoning in biology among elementary school children: Epistemic criteria for evaluation and construction. *Journal of the Learning Sciences, 34*(1), 35-70. [https://doi.org/10.1080/10508406.2024.2432682](https://doi.org/10.1080/10508406.2024.2432682)"
-    author: "Shtechman, Y., Ergazaki, M., & Haskel-Ittah, M"
+    author: "Shtechman, Y., Ergazaki, M., & Haskel-Ittah, M."
     q: 2
     i: 2
     n: 53 students, grades 2-6
-    author: "Shtechman, Y., Ergazaki, M., & Haskel-Ittah, M."
 ---
 
 # Elementary students prefer and can evaluate mechanistic explanations using explanatory power and accuracy criteria

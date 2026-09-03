@@ -12,7 +12,7 @@ sources:
   - id: bäck-romano-et-al-2025
     resource: "https://doi.org/10.54103/2037-3597/30422"
     title: "Bäck Romano, S., Guijarro-Fuentes, P., Calpe-Álvarez, V., & Rivera, J. (2025). Gender in L2 and heritage Italian by Swedish and Spanish dominant speakers. *Italiano LinguaDue, 17*(2), 27–48. [doi:10.54103/2037-3597/30422](https://doi.org/10.54103/2037-3597/30422)"
-    author: "Bäck Romano, S., Guijarro-Fuentes, P., Calpe-Álvarez, V., & Rivera, J"
+    author: "Bäck Romano, S., Guijarro-Fuentes, P., Calpe-Álvarez, V., & Rivera, J."
     q: 2
     i: "?"
     n: not reported here

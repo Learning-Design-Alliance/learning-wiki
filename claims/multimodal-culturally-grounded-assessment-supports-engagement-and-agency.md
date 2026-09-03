@@ -11,10 +11,9 @@ sources:
   - id: champion-solomon-lammey-2025
     resource: "https://doi.org/10.1080/10508406.2025.2569583"
     title: "Champion, D., Solomon, F., & Lammey, M. (2025). Embodying physics assessment: Reimagining formative assessment as a creative, multimodal, and culturally sustaining dialogic practice. *Journal of the Learning Sciences, 34*(4), 474-525. [https://doi.org/10.1080/10508406.2025.2569583](https://doi.org/10.1080/10508406.2025.2569583)"
-    author: "Champion, D., Solomon, F., & Lammey, M"
+    author: "Champion, D., Solomon, F., & Lammey, M."
     q: 2
     i: 0
-    author: "Champion, D., Solomon, F., & Lammey, M."
 ---
 
 # Multimodal, culturally grounded formative assessment supports engagement and agency

@@ -9,7 +9,7 @@ sources:
   - id: locke-latham-2002
     resource: "https://doi.org/10.1037/0003-066X.57.9.705"
     title: "Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation: A 35-year odyssey. *American Psychologist, 57*(9), 705–717. [https://doi.org/10.1037/0003-066X.57.9.705](https://doi.org/10.1037/0003-066X.57.9.705)"
-    author: "Locke, E. A., & Latham, G. P"
+    author: "Locke, E. A., & Latham, G. P."
     q: 4
     i: 3
     n: N/A

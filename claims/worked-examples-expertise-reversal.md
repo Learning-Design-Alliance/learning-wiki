@@ -9,14 +9,14 @@ sources:
   - id: kalyuga-et-al-2003
     resource: "https://doi.org/10.1207/S15326985EP3801_4"
     title: "Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23-31. [https://doi.org/10.1207/S15326985EP3801_4](https://doi.org/10.1207/S15326985EP3801_4)"
-    author: "Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J"
+    author: "Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J."
     q: 3
     i: 2
     n: multiple studies
   - id: renkl-atkinson-2003
     resource: "https://doi.org/10.1207/S15326985EP3801_3"
     title: "Renkl, A., & Atkinson, R. K. (2003). Structuring the transition from example study to problem solving in cognitive skill acquisition: A cognitive load perspective. *Educational Psychologist, 38*(1), 15-22. [https://doi.org/10.1207/S15326985EP3801_3](https://doi.org/10.1207/S15326985EP3801_3)"
-    author: "Renkl, A., & Atkinson, R. K"
+    author: "Renkl, A., & Atkinson, R. K."
     q: 3
     i: 2
     n: multiple studies

@@ -10,23 +10,22 @@ evidence_strength: moderate
 sources:
   - id: garner-et-al-1992
     title: "Garner, R., Gillingham, M. G., & White, C. S. (1992). Effects of \"seductive details\" on macroprocessing and microprocessing in adults and children. *Cognition and Instruction, 9*(4), 359-373."
-    author: "Garner, R., Gillingham, M. G., & White, C. S"
+    author: "Garner, R., Gillingham, M. G., & White, C. S."
     q: 2
     i: 2
     n: moderate (multiple age-group samples)
   - id: harp-and-mayer-1998
     resource: "https://doi.org/10.1037/0022-0663.90.3.414"
     title: "Harp, S. F., & Mayer, R. E. (1998). How seductive details do their damage: A theory of cognitive interest in science learning. *Journal of Educational Psychology, 90*(3), 414-434. [doi:10.1037/0022-0663.90.3.414](https://doi.org/10.1037/0022-0663.90.3.414)"
-    author: "Harp, S. F., & Mayer, R. E"
+    author: "Harp, S. F., & Mayer, R. E."
     q: 3
     i: 2
     n: moderate (college student samples across experiments)
   - id: sanchez-and-wiley-2006
     title: "Sanchez, C. A., & Wiley, J. (2006). An examination of the seductive details effect in terms of working memory capacity. *Memory & Cognition, 34*(2), 344-355."
-    author: "Sanchez, C. A., & Wiley, J"
+    author: "Sanchez, C. A., & Wiley, J."
     q: 3
     i: 1
-    n: moderate (college student sample)
     n: moderate (college student sample)
 ---
 

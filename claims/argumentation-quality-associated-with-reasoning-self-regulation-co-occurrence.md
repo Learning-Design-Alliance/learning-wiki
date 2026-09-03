@@ -11,11 +11,10 @@ sources:
   - id: omarchevska-et-al-2022
     resource: "https://doi.org/10.1080/10508406.2021.1966633"
     title: "Omarchevska, Y., Lachner, A., Richter, J., & Scheiter, K. (2022). It takes two to tango: How scientific reasoning and self-regulation processes impact argumentation quality. *Journal of the Learning Sciences, 31*(2), 237-277. [https://doi.org/10.1080/10508406.2021.1966633](https://doi.org/10.1080/10508406.2021.1966633)"
-    author: "Omarchevska, Y., Lachner, A., Richter, J., & Scheiter, K"
+    author: "Omarchevska, Y., Lachner, A., Richter, J., & Scheiter, K."
     q: 2
     i: 2
     n: 30 undergraduate students (23 female, Mage=23.33), 7 science majors / 23 non-science majors, Southern Germany
-    author: "Omarchevska, Y., Lachner, A., Richter, J., & Scheiter, K."
 ---
 
 # Argumentation quality is associated with denser co-occurrence of scientific reasoning and self-regulation processes

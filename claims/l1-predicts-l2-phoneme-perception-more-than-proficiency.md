@@ -12,10 +12,9 @@ sources:
   - id: pešková-2026
     resource: "https://doi.org/10.3389/flang.2026.1911194"
     title: "Pešková, A. (2026). Identification of consonant length in L2 Italian: the role of cross-linguistic influence. *Frontiers in Language Sciences, 5*. [doi:10.3389/flang.2026.1911194](https://doi.org/10.3389/flang.2026.1911194)"
-    author: Pešková, A
+    author: Pešková, A.
     q: 2
     i: 3
-    n: 104
     n: 104
 ---
 

@@ -2,7 +2,7 @@
 
 Instructional building blocks — the components you compose into patterns.
 
-**325 entries** · 0 stable · 305 in review · 20 drafts
+**327 entries** · 0 stable · 307 in review · 20 drafts
 
 ---
 
@@ -30,6 +30,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Articulation](articulation.md) - Learners verbalize their thought processes and reasoning, making their understanding — and misunderstandings — observable and open to refinement.
 * [Assess performance](assess-performance.md) - Measures learner progress and determines mastery of content.
 * [Assessment](assessment.md) - Assessment is the structured collection of evidence about learner understanding, performance, or progress for the purposes of feedback, decision making, grading, or revision.
+* [Assessment Mechanic](assessment-mechanic.md) - The repeated in-game activity designed to elicit behaviour a log can capture and an evidence model can interpret — assessment built as a mechanic rather than bolted on as a test.
 * [Assigned Positions](assigned-positions.md) - Learners are assigned a specific stance on an issue and must argue from that perspective.
 * [Assigned Readings](assigned-readings.md) - Learners engage with pre-selected texts, articles, or book chapters to build foundational knowledge before or during instruction.
 * [Attention](attention.md) - The design of instruction to capture, direct, and sustain learners' limited attentional resources toward content that matters for learning.
@@ -195,6 +196,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Learning Contracts](learning-contracts.md) - A learning contract is a negotiated written agreement in which a learner commits to specific goals, activities, resources, timelines, and evidence of accomplishment, typically with instructor sign-off.
 * [Learning Goals](learning-goals.md) - Learning goals are explicit statements of what learners should know or be able to do after instruction, serving as the reference point for designing activities and assessments.
 * [Learning Management Systems](learning-management-systems.md) - Learning management systems are the element in which course organization, materials, communication, and tracking are coordinated through an LMS.
+* [Learning Mechanic](learning-mechanic.md) - The repeated learner-facing activity at the heart of a game for learning — a design pattern, grounded in learning theory, that a concrete game mechanic instantiates without displacing the learning goal.
 * [Learning Objectives](learning-objectives.md) - Learning objectives are explicit statements of what learners should know or be able to do after instruction, providing direction for design, instruction, and assessment.
 * [Learning Outcomes](learning-outcomes.md) - Learning outcomes are explicit statements of what learners should know, understand, or be able to do by the end of an instructional experience.
 * [Learning Tasks](learning-tasks.md) - A learning task is the integrated, meaningful unit of work — a problem, project, case, or performance — that learners undertake to acquire knowledge and skill in context.

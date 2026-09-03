@@ -11,10 +11,9 @@ sources:
   - id: rotton-kelly-1985
     resource: "https://doi.org/10.1037/0033-2909.97.2.286"
     title: "Rotton, J., & Kelly, I. W. (1985). Much ado about the full moon: A meta-analysis of lunar-lunacy research. *Psychological Bulletin, 97*(2), 286-306. [https://doi.org/10.1037/0033-2909.97.2.286](https://doi.org/10.1037/0033-2909.97.2.286)"
-    author: "Rotton, J., & Kelly, I. W"
+    author: "Rotton, J., & Kelly, I. W."
     q: 4
     i: 3
-    n: aggregated across ~40 studies
     n: aggregated across ~40 studies
 ---
 

@@ -11,11 +11,10 @@ sources:
   - id: papendieck-clarke-2024
     resource: "https://doi.org/10.1080/10508406.2024.2347597"
     title: "Papendieck, A., & Clarke, J. A. (2024). Curiosity to Question: Tracing productive engagement in an interdisciplinary course-based research experience. *Journal of the Learning Sciences, 33*(2), 323-364. [https://doi.org/10.1080/10508406.2024.2347597](https://doi.org/10.1080/10508406.2024.2347597)"
-    author: "Papendieck, A., & Clarke, J. A"
+    author: "Papendieck, A., & Clarke, J. A."
     q: 2
     i: 2
     n: 96 students (62 undergraduate, 34 graduate) across 6 cohorts; 65 interviewed; 57 survey respondents
-    author: "Papendieck, A., & Clarke, J. A."
 ---
 
 # Course-based research experience boundary objects support disciplinary integration and authentic research networks

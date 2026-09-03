@@ -11,11 +11,10 @@ sources:
   - id: tärning-et-al-2020
     resource: "https://doi.org/10.1080/10508406.2020.1770092"
     title: "Tärning, B., Lee, Y. J., Andersson, R., Månsson, K., Gulz, A., & Haake, M. (2020). Assessing the black box of feedback neglect in a digital educational game for elementary school. *Journal of the Learning Sciences, 29*(4-5), 511-549. [https://doi.org/10.1080/10508406.2020.1770092](https://doi.org/10.1080/10508406.2020.1770092)"
-    author: "Tärning, B., Lee, Y. J., Andersson, R., Månsson, K., Gulz, A., & Haake, M"
+    author: "Tärning, B., Lee, Y. J., Andersson, R., Månsson, K., Gulz, A., & Haake, M."
     q: 3
     i: 2
     n: 46 Swedish fifth-graders (36 with complete eye-tracking data), 424-451 feedback instances
-    author: "Tärning, B., Lee, Y. J., Andersson, R., Månsson, K., Gulz, A., & Haake, M."
 ---
 
 # Critical constructive feedback is neglected at multiple, independently measurable processing stages

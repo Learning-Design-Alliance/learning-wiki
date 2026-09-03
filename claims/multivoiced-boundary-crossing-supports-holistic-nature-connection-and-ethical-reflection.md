@@ -11,11 +11,10 @@ sources:
   - id: liukkonen-et-al-2023
     resource: "https://doi.org/10.1080/10508406.2023.2263845"
     title: "Liukkonen, P., Vartiainen, H., Pöllänen, S., & Kokko, S. (2023). Interacting with nature in and through boundary crossing learning: A case of bioart-making. *Journal of the Learning Sciences, 32*(4-5), 534-572. [https://doi.org/10.1080/10508406.2023.2263845](https://doi.org/10.1080/10508406.2023.2263845)"
-    author: "Liukkonen, P., Vartiainen, H., Pöllänen, S., & Kokko, S"
+    author: "Liukkonen, P., Vartiainen, H., Pöllänen, S., & Kokko, S."
     q: 1
     i: 1
     n: 6 upper-secondary students, 2 teachers, 2 domain experts (a bioartist and a researcher), one intensive week
-    author: "Liukkonen, P., Vartiainen, H., Pöllänen, S., & Kokko, S."
 ---
 
 # Multivoiced boundary crossing supports holistic nature connection and ethical reflection

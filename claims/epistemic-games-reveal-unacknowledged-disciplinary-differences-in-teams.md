@@ -11,11 +11,10 @@ sources:
   - id: arthars-et-al-2024
     resource: "https://doi.org/10.1080/10508406.2024.2341390"
     title: "Arthars, N., Markauskaite, L., & Goodyear, P. (2024). Constructing shared understanding of complex interdisciplinary problems: Epistemic games in interdisciplinary teamwork. *Journal of the Learning Sciences, 33*(2), 405-442. [https://doi.org/10.1080/10508406.2024.2341390](https://doi.org/10.1080/10508406.2024.2341390)"
-    author: "Arthars, N., Markauskaite, L., & Goodyear, P"
+    author: "Arthars, N., Markauskaite, L., & Goodyear, P."
     q: 2
     i: 2
     n: 18 students across 4 graduate teams (3-5 students each), projects lasting 5-13 weeks, two Australian graduate interdisciplinary courses
-    author: "Arthars, N., Markauskaite, L., & Goodyear, P."
 ---
 
 # Epistemic games reveal unacknowledged disciplinary differences in interdisciplinary teams

@@ -9,7 +9,7 @@ sources:
   - id: pollock-et-al-2002
     resource: "https://doi.org/10.1016/S0959-4752(01"
     title: "Pollock, E., Chandler, P., & Sweller, J. (2002). Assimilating complex information. *Learning and Instruction, 12*(1), 61–86. [https://doi.org/10.1016/S0959-4752(01)00016-0](https://doi.org/10.1016/S0959-4752(01)00016-0)"
-    author: "Pollock, E., Chandler, P., & Sweller, J"
+    author: "Pollock, E., Chandler, P., & Sweller, J."
     q: 3
     i: 2
     n: unspecified
