@@ -79,7 +79,7 @@ This is where `RUN_ARGS` lives — exactly what you'd otherwise type after
 `--articles`, `--limit`, `--judges`, `--overwrite`, etc., see
 [eval/README.md](../eval/README.md)). Since it's a normal repo file, the
 usual way to change it going forward is: edit it (or have it edited for you),
-`git commit` + push, then on the droplet `git pull` and
+`git commit` + push, then on the droplet `deploy/update.sh` and
 `sudo systemctl restart eval-harness` — already-completed pairs are cached
 and won't be redone. A quick one-off change works too: edit it directly on
 the droplet and restart, same as any config file — it just won't be in git
@@ -106,7 +106,9 @@ feature existed:** confirm the dashboard web server is installed and running —
 `provision.sh` now sets this up automatically on a fresh droplet, but an
 already-provisioned one needs it added once:
 ```bash
-ssh root@<droplet-ip> 'cd /opt/learning-wiki && sudo -u evalrunner git pull origin claude/research-scraper-test-setup-i4bh9m && cp deploy/eval-harness-web.service /etc/systemd/system/ && systemctl daemon-reload && systemctl enable --now eval-harness-web'
+ssh root@<droplet-ip> 'sudo -u evalrunner bash /opt/learning-wiki/deploy/update.sh \
+  && cp /opt/learning-wiki/deploy/eval-harness-web.service /etc/systemd/system/ \
+  && systemctl daemon-reload && systemctl enable --now eval-harness-web'
 ```
 
 ## 5. Watch it live
@@ -147,7 +149,7 @@ git add deploy/auto-optimize-config.env && git commit -m "..." && git push
 ```
 ```bash
 ssh root@<droplet-ip>
-cd /opt/learning-wiki && sudo -u evalrunner git pull
+sudo -u evalrunner bash /opt/learning-wiki/deploy/update.sh
 sudo systemctl start eval-auto-optimize
 journalctl -u eval-auto-optimize -f
 ```
@@ -174,8 +176,8 @@ plain `http.server` — **if this droplet was provisioned before this
 feature existed**, update it once:
 ```bash
 ssh root@<droplet-ip>
-cd /opt/learning-wiki && sudo -u evalrunner git pull
-sudo cp deploy/eval-harness-web.service /etc/systemd/system/
+sudo -u evalrunner bash /opt/learning-wiki/deploy/update.sh
+sudo cp /opt/learning-wiki/deploy/eval-harness-web.service /etc/systemd/system/
 sudo systemctl daemon-reload && sudo systemctl restart eval-harness-web
 ```
 
