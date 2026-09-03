@@ -36,13 +36,13 @@
   "principles->principles": 192,
   "principles->processes": 2,
   "principles->theories": 106,
-  "processes->claims": 8,
-  "processes->elements": 8,
-  "processes->methods": 4,
-  "processes->patterns": 7,
-  "processes->principles": 8,
-  "processes->processes": 6,
-  "processes->theories": 7,
+  "processes->claims": 10,
+  "processes->elements": 10,
+  "processes->methods": 5,
+  "processes->patterns": 8,
+  "processes->principles": 9,
+  "processes->processes": 8,
+  "processes->theories": 9,
   "strategies->claims": 2318,
   "strategies->elements": 2383,
   "strategies->methods": 10,
@@ -16480,6 +16480,11 @@
      {
       "slug": "writing-to-learn-improves-content-learning"
      }
+    ],
+    "processes": [
+     {
+      "slug": "ten-steps-to-complex-learning"
+     }
     ]
    },
    "cognitive-load-reduction-improves-learning": {
@@ -20869,6 +20874,13 @@
       "strength": "M"
      }
     ],
+    "processes": [
+     {
+      "polarity": "+",
+      "slug": "ten-steps-to-complex-learning",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "~",
@@ -21803,6 +21815,13 @@
     ]
    },
    "critical-constructive-feedback-is-neglected-at-multiple-stages": {
+    "processes": [
+     {
+      "polarity": "-",
+      "slug": "vendor-production",
+      "strength": "M"
+     }
+    ],
     "theories": [
      {
       "polarity": "~",
@@ -25791,6 +25810,13 @@
       "strength": "S"
      }
     ],
+    "processes": [
+     {
+      "polarity": "+",
+      "slug": "ten-steps-to-complex-learning",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -26822,6 +26848,11 @@
      {
       "polarity": "+",
       "slug": "systematic-instructional-design",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "vendor-production",
       "strength": "S"
      }
     ],
@@ -32333,6 +32364,13 @@
      },
      {
       "slug": "situated-learning"
+     }
+    ],
+    "processes": [
+     {
+      "polarity": "+",
+      "slug": "ten-steps-to-complex-learning",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -44045,6 +44083,11 @@
       "polarity": "-",
       "slug": "systematic-instructional-design",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "ten-steps-to-complex-learning",
+      "strength": "S"
      }
     ],
     "strategies": [
@@ -44350,6 +44393,13 @@
      {
       "polarity": "~",
       "slug": "merrills-first-principles-of-instruction",
+      "strength": "M"
+     }
+    ],
+    "processes": [
+     {
+      "polarity": "~",
+      "slug": "ten-steps-to-complex-learning",
       "strength": "M"
      }
     ],
@@ -65183,6 +65233,11 @@
       "slug": "spiral-curriculum"
      }
     ],
+    "processes": [
+     {
+      "slug": "vendor-production"
+     }
+    ],
     "strategies": [
      {
       "slug": "distributed-practice-spaced-learning"
@@ -68048,6 +68103,11 @@
       "slug": "video-replay-analysis"
      }
     ],
+    "processes": [
+     {
+      "slug": "vendor-production"
+     }
+    ],
     "strategies": [
      {
       "slug": "act_it_out"
@@ -70839,6 +70899,11 @@
      },
      {
       "slug": "cognitive-load-reduction-clt-scaffolding-approach"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "ten-steps-to-complex-learning"
      }
     ],
     "strategies": [
@@ -77970,6 +78035,11 @@
       "slug": "cognitive-task-analysis"
      }
     ],
+    "processes": [
+     {
+      "slug": "ten-steps-to-complex-learning"
+     }
+    ],
     "strategies": [
      {
       "slug": "concrete-representational-abstract-cra"
@@ -78570,6 +78640,11 @@
     ]
    },
    "supportive-information": {
+    "processes": [
+     {
+      "slug": "ten-steps-to-complex-learning"
+     }
+    ],
     "strategies": [
      {
       "slug": "blended_learning"
@@ -79655,6 +79730,11 @@
      {
       "slug": "5e-learning-cycle"
      }
+    ],
+    "processes": [
+     {
+      "slug": "ten-steps-to-complex-learning"
+     }
     ]
    },
    "video-based-reflection": {
@@ -79794,6 +79874,11 @@
      },
      {
       "slug": "merrills-first-principles-of-instruction"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "ten-steps-to-complex-learning"
      }
     ],
     "strategies": [
@@ -80127,6 +80212,9 @@
      },
      {
       "slug": "systematic-instructional-design"
+     },
+     {
+      "slug": "ten-steps-to-complex-learning"
      }
     ]
    },
@@ -80305,6 +80393,9 @@
     "processes": [
      {
       "slug": "systematic-instructional-design"
+     },
+     {
+      "slug": "ten-steps-to-complex-learning"
      }
     ],
     "strategies": [
@@ -101844,6 +101935,9 @@
      },
      {
       "slug": "systematic-instructional-design"
+     },
+     {
+      "slug": "vendor-production"
      }
     ],
     "theories": [
@@ -105628,6 +105722,9 @@
      },
      {
       "slug": "successive-approximation-model"
+     },
+     {
+      "slug": "vendor-production"
      }
     ]
    },
@@ -105676,6 +105773,9 @@
      },
      {
       "slug": "systematic-instructional-design"
+     },
+     {
+      "slug": "vendor-production"
      }
     ],
     "strategies": [
@@ -105720,6 +105820,9 @@
      },
      {
       "slug": "successive-approximation-model"
+     },
+     {
+      "slug": "vendor-production"
      }
     ]
    },
@@ -105736,6 +105839,12 @@
      },
      {
       "slug": "systematic-instructional-design"
+     },
+     {
+      "slug": "ten-steps-to-complex-learning"
+     },
+     {
+      "slug": "vendor-production"
      }
     ]
    },
@@ -105755,6 +105864,12 @@
      },
      {
       "slug": "successive-approximation-model"
+     },
+     {
+      "slug": "ten-steps-to-complex-learning"
+     },
+     {
+      "slug": "vendor-production"
      }
     ]
    },
@@ -105773,6 +105888,9 @@
      },
      {
       "slug": "systematic-instructional-design"
+     },
+     {
+      "slug": "ten-steps-to-complex-learning"
      }
     ]
    }
@@ -105952,6 +106070,9 @@
      },
      {
       "slug": "systematic-instructional-design"
+     },
+     {
+      "slug": "ten-steps-to-complex-learning"
      }
     ],
     "strategies": [
@@ -107052,6 +107173,9 @@
      },
      {
       "slug": "learner-experience-design"
+     },
+     {
+      "slug": "ten-steps-to-complex-learning"
      }
     ],
     "strategies": [
@@ -107664,6 +107788,9 @@
      },
      {
       "slug": "successive-approximation-model"
+     },
+     {
+      "slug": "vendor-production"
      }
     ]
    },
@@ -107684,6 +107811,9 @@
      },
      {
       "slug": "successive-approximation-model"
+     },
+     {
+      "slug": "vendor-production"
      }
     ]
    },
@@ -111684,7 +111814,7 @@
   "methods": 12,
   "patterns": 125,
   "principles": 198,
-  "processes": 9,
+  "processes": 11,
   "strategies": 2548,
   "theories": 89
  }

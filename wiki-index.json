@@ -6,7 +6,7 @@
   "method": 12,
   "pattern": 125,
   "principle": 198,
-  "process": 9,
+  "process": 11,
   "strategy": 2548,
   "theory": 89
  },
@@ -9288,12 +9288,30 @@
    "type": "process"
   },
   {
+   "description": "The task-centred design process that produces a 4C/ID blueprint \u2014 specify the professional tasks first, group them into task classes of equal complexity ordered simple to complex, then derive the supporting theory and part-task practice from the tasks rather than the other way round.",
+   "grain_size": "programme",
+   "id": "ten-steps-to-complex-learning",
+   "path": "processes/ten-steps-to-complex-learning.md",
+   "status": "draft",
+   "title": "Ten Steps to Complex Learning",
+   "type": "process"
+  },
+  {
    "description": "Wiggins and McTighe's backward design process plans a course or unit in three stages \u2014 identify desired results, determine acceptable evidence, then plan learning experiences \u2014 so that activities and assessments are derived from the learning goals rather than chosen first and justified afterward.",
    "grain_size": "unit",
    "id": "understanding-by-design",
    "path": "processes/understanding-by-design.md",
    "status": "draft",
    "title": "Understanding by Design",
+   "type": "process"
+  },
+  {
+   "description": "The contract production process used by e-learning studios \u2014 macro design, storyboard, then alpha, beta and gold builds, each ending in a client review, with the final sign-off closing the design to further change.",
+   "grain_size": "course",
+   "id": "vendor-production",
+   "path": "processes/vendor-production.md",
+   "status": "draft",
+   "title": "Vendor Production (Alpha\u2013Beta\u2013Gold)",
    "type": "process"
   },
   {
@@ -31512,7 +31530,9 @@
    "learner-experience-design": "learner-experience-design",
    "successive-approximation-model": "successive-approximation-model",
    "systematic-instructional-design": "systematic-instructional-design",
-   "understanding-by-design": "understanding-by-design"
+   "ten-steps-to-complex-learning": "ten-steps-to-complex-learning",
+   "understanding-by-design": "understanding-by-design",
+   "vendor-production": "vendor-production"
   },
   "strategy": {
    "3-2-1_reflection": "3-2-1_reflection",

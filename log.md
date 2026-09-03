@@ -8,6 +8,11 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ---
 
+## 2026-09-03
+
+* **Content**: [processes/ten-steps-to-complex-learning](processes/ten-steps-to-complex-learning.md) — New page: Ten Steps design process behind the 4C/ID blueprint
+* **Content**: [processes/vendor-production](processes/vendor-production.md) — New page: vendor alpha-beta-gold production process
+
 ## 2026-09-02
 
 * **Correction**: 21 pages moved out of `patterns/` and `strategies/` into two new kinds — `processes/` (9: ADDIE/Dick & Carey, SAM, design thinking, LXD, UbD, continuous improvement, faculty course design, Data Wise, humanizing co-design) and `methods/` (12: needs/learner/context/task/hierarchy/cognitive-task analysis, learner and activity-system personas, backward design, standards crosswalk, family-interview task design, power dynamics). Design work is not instruction; it had been filed beside cooperative learning and think-pair-share
