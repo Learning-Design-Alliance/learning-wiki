@@ -6,13 +6,11 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Epistemic Games immerse learners in the values, identity, and situated decision-making of a professional community of practice, so that facts and skills are acquired as a byproduct of doing the community's work rather than as isolated content.">
+        <meta name="description" content="The repeated learner-facing activity at the heart of a game for learning — a design pattern, grounded in learning theory, that a concrete game mechanic instantiates without displacing the learning goal.">
       
       
-        <meta name="author" content="David Williamson Shaffer">
       
-      
-        <link rel="canonical" href="https://learning-design-alliance.github.io/learning-wiki/patterns/epistemic-games/">
+        <link rel="canonical" href="https://learning-design-alliance.github.io/learning-wiki/elements/learning-mechanic/">
       
       
       
@@ -25,7 +23,7 @@
     
     
       
-        <title>Epistemic Games - Learning Design Wiki</title>
+        <title>Learning Mechanic - Learning Design Wiki</title>
       
     
     
@@ -78,7 +76,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#epistemic-games" class="md-skip">
+        <a href="#learning-mechanic" class="md-skip">
           Skip to content
         </a>
       
@@ -113,7 +111,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Epistemic Games
+              Learning Mechanic
             
           </span>
         </div>
@@ -319,7 +317,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../elements/" class="md-nav__link">
+      <a href="../" class="md-nav__link">
         
   
   
@@ -346,7 +344,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../" class="md-nav__link">
+      <a href="../../patterns/" class="md-nav__link">
         
   
   
@@ -620,15 +618,15 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#implications" class="md-nav__link">
+  <a href="#design-implications" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Implications
+        Design Implications
       
     </span>
   </a>
   
-    <nav class="md-nav" aria-label="Implications">
+    <nav class="md-nav" aria-label="Design Implications">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -665,30 +663,8 @@
   
 </li>
         
-          <li class="md-nav__item">
-  <a href="#grain-size" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Grain Size
-      
-    </span>
-  </a>
-  
-</li>
-        
       </ul>
     </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#target-goals" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Target Goals
-      
-    </span>
-  </a>
   
 </li>
         
@@ -704,77 +680,10 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#theory" class="md-nav__link">
+  <a href="#target-learning-goals" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Theory
-      
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Theory">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#supporting" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Supporting
-      
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#claims" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Claims
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#design" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Design
-      
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Design">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#sequence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Sequence
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#elements-used" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Elements Used
+        Target Learning Goals
       
     </span>
   </a>
@@ -792,27 +701,16 @@
   
 </li>
         
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
       </ul>
     </nav>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#related-patterns" class="md-nav__link">
+  <a href="#related-elements" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Related Patterns
+        Related Elements
       
     </span>
   </a>
@@ -866,95 +764,90 @@
 
 
 
-<h1 id="epistemic-games">Epistemic Games<a class="headerlink" href="#epistemic-games" title="Permanent link">&para;</a></h1>
+<h1 id="learning-mechanic">Learning Mechanic<a class="headerlink" href="#learning-mechanic" title="Permanent link">&para;</a></h1>
 <blockquote>
-<p><strong>Pattern</strong> · <a href="../">All patterns</a></p>
+<p><strong>Element</strong> · <a href="../">All elements</a></p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Most educational games teach isolated facts or drill discrete skills. Epistemic games instead immerse a learner in the <strong>epistemic frame</strong> of a professional community of practice — the situated understandings, effective social practices, powerful identities, and shared values that make someone, for example, an urban planner or a soldier — so that facts arrive as a byproduct of doing the community's actual work rather than as content to memorize (Shaffer, Halverson, Squire, &amp; Gee, 2005). In <em>Madison 2200</em>, players don't study urban ecology facts; they act as city planners given a budget, citizen letters, and a site to redesign, and ecological facts "come for free" because they are needed to make planning decisions. In <em>Full Spectrum Warrior</em>, players don't memorize military doctrine; they must think and act like a professional soldier to keep their squad alive.</p>
-<p>Building an epistemic game requires an <strong>epistemography</strong> of the target practice — detailed study of how practitioners develop their community's characteristic ways of thinking, deciding what is worth knowing, and judging when an answer is good enough — so the game can preserve the linkages between knowing and doing that are central to that frame, while leaving out what is safe to omit. Games can target <strong>initiation</strong> (introducing novices to an unfamiliar epistemic frame, as in <em>Madison 2200</em>) or <strong>transformation</strong> (surfacing "expectation failures" that push already-expert practitioners to reorganize their thinking around atypical, breakdown-inducing cases).</p>
-<p>The mechanism connects to <strong>serious play</strong> (Rieber, Smith, &amp; Noah, 1998): learners voluntarily commit enormous time and effort to activities they find intrinsically engrossing, sometimes losing track of time entirely (Csikszentmihalyi's "flow"), and this state is most reliably produced by challenge calibrated to the learner's skill, personal choice/control, curiosity, and fantasy/identity (Malone, 1981) — exactly the ingredients an epistemic game supplies through role, narrative stakes, and a complex system to master. This distinguishes epistemic games from drill-and-practice game mechanics: the motivation here comes from inhabiting a valued identity and navigating a meaningful, complex system, not from streaks, points, or level-gates (contrast with <a href="../game-based-mastery-learning/">Game-Based Mastery Learning</a>, which uses game mechanics to sustain repetitive skill practice rather than to simulate a professional practice).</p>
-<h2 id="implications">Implications<a class="headerlink" href="#implications" title="Permanent link">&para;</a></h2>
+<p>A <strong>game mechanic</strong> is what a game lets you do — "the various actions, behaviors and control mechanisms afforded to the player within a game context" (Hunicke, LeBlanc, &amp; Zubek, 2004, p. 3), or more narrowly the <em>core</em> mechanic, "the essential play activity players perform again and again and again" (Salen &amp; Zimmerman, 2003, p. 316). A <strong>learning mechanic</strong> is the same idea asked of the learning, and Plass and colleagues define it in deliberate parallel:</p>
+<blockquote>
+<p>Learning mechanics are patterns of behavior or building blocks of learner interactivity, which may be a single action or a set of interrelated actions that form the essential learning activity that is repeated throughout a game.</p>
+</blockquote>
+<p>The distinction this element exists to make is that a learning mechanic is <strong>not itself playable</strong>. It is a <em>design pattern</em> — a meta-mechanic, in Christopher Alexander's sense of a general solution to a recurring problem — that has to be instantiated as a concrete game mechanic before anyone can play it. "Apply rules to solve problems" is a learning mechanic. Flinging objects at targets, dragging them into place, or jetpacking them across a screen are three game mechanics that could each instantiate it. The relationship is one-to-many, and the choice among instantiations is a design decision with consequences for what actually gets learned.</p>
+<p>That separation is what makes the common failure diagnosable. When a learning game bolts a popup quiz onto a racing or shooter mechanic, the game has a game mechanic and a <em>question</em>, not a learning mechanic — the essential repeated activity is still racing, and the learning is an interruption of it. Designers interviewed by Isbister, Flanagan and Hash (2010) made the same point from the practitioner's side: learning has to be embedded in the core mechanic rather than added to an existing one. Game play cannot be a reward for answering questions about facts, and factual quizzes cannot be forced into unrelated game play. See <a href="../../principles/learning-embedded-in-the-core-mechanic/">Learning Embedded in the Core Mechanic</a> for the design principle and the three requirements that follow from it.</p>
+<p>The worked example in the source is <em>Noobs vs. Leets</em>, a middle-school geometry game built at the Games for Learning Institute around the angle rules in the Grades 6–8 common core — complementary, supplementary, opposite, and sum-of-angles-in-a-triangle. Its learning mechanic is <strong>apply rules to solve problems</strong>: the learner selects among rules and indicates which problems each applies to. That mechanic was chosen over the obvious alternative — type the missing angle — precisely because it keeps the repeated activity at the conceptual level of the rules rather than at the level of arithmetic, which is where the learning goal lives.</p>
+<h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>A target community of practice whose values, decisions, and characteristic reasoning can be studied in enough depth (an "epistemography") to be preserved in simplified but authentic form</li>
-<li>A simulated world complex enough to require the same kind of situated decision-making the real practice demands, rather than a thin narrative wrapper around drill questions</li>
-<li>Guided immersion, not unguided exploration — novices left to explore a rich environment with no support tend to form spurious patterns; the game world (non-player characters, embedded knowledge, structured feedback) must supply the guidance an expert mentor would</li>
+<li><strong>Grounded in learning theory.</strong> The source is explicit that this is the first criterion, not a nicety: a learning mechanic is derived from the learning sciences, and the examples given are Cognitive Flexibility Theory (Spiro et al., 1988), <a href="../../theories/cognitive-apprenticeship/">Cognitive Apprenticeship</a> (Collins, 1988), Anchored Instruction (CTGV, 1990–1993), and <a href="../../theories/situated-learning/">Situated Learning</a> (Lave, 1988; Lave &amp; Wenger, 1990). <em>Noobs vs. Leets</em> draws on Schoenfeld's account of mathematical problem solving, Lave's situated learning, and schema theory.</li>
+<li><strong>A theoretical model of the interactivity itself</strong>, not just of the content. The source points at the INTERACT model, which separates behavioral, cognitive and emotional interactivity and relates them through feedback and guidance (Domagk, Schwartz, &amp; Plass, 2010).</li>
+<li><strong>Repetition.</strong> The definition turns on <em>repeated throughout a game</em> — a one-off activity is a level, not a mechanic.</li>
+<li><strong>Learner-generated solutions.</strong> Where the subject matter admits different but equally appropriate answers, the mechanic should let the learner generate their own rather than select from the designer's.</li>
+<li><strong>A game mechanic that preserves the goal.</strong> Instantiation is where learning mechanics are usually lost; see the principle page for the three requirements a candidate game mechanic has to meet.</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>High design cost: building a genuine epistemic game requires ethnographic-depth study of the target profession's practices, far more investment than a typical educational game or gamified quiz</li>
-<li>Best suited to complex, ill-structured domains with real professional stakes and judgment calls; overkill for simple factual or procedural learning better served by more direct practice</li>
-<li>As of the source article's writing, few complete epistemic games existed in wide circulation — this is more a design aspiration/pattern to build toward than an off-the-shelf product category</li>
-</ul>
-<h4 id="grain-size">Grain Size<a class="headerlink" href="#grain-size" title="Permanent link">&para;</a></h4>
-<ul>
-<li>Unit</li>
-<li>Course</li>
-</ul>
-<h3 id="target-goals">Target Goals<a class="headerlink" href="#target-goals" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Deep, transferable understanding of a complex domain via situated decision-making, rather than isolated fact recall</li>
-<li>Development of professional identity, values, and judgment — not just declarative or procedural knowledge</li>
+<li><strong>A learning mechanic does not describe a tool.</strong> It says the learner should be able to apply rules to solve problems; it says nothing about whether that is flinging, dragging, or jetpacking. Designers looking for buildable specifications will find the abstraction frustrating, and that abstraction is the point — it is what allows one mechanic to be reused across games.</li>
+<li><strong>Player agency has to survive.</strong> The tension between the player's agency and the game's rule system is what makes a game worth playing; a learning mechanic that removes choice removes the reason to play.</li>
+<li><strong>Not every instantiation is equally valid.</strong> Each game mechanic that could instantiate a given learning mechanic may only be suitable under specific conditions, and which conditions can often only be settled empirically.</li>
+<li><strong>"Fun and engaging" is not the bar.</strong> When a game is designed with the explicit goal of facilitating learning, the mechanics have to go beyond engagement and engage players in a meaningful learning activity — engagement is necessary and nowhere near sufficient.</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
 <ul>
-<li>Learners for whom the target domain is complex and ill-structured enough that direct instruction on isolated facts would strip out the judgment and context that make the domain meaningful</li>
-<li>Both novices (initiation into an unfamiliar epistemic frame) and experienced practitioners (transformation, via games built around atypical cases that expose gaps in current understanding)</li>
+<li>Learners for whom the target performance is a <em>repeated decision</em> rather than a recalled fact — the definition's insistence on repetition means the mechanic has to be worth doing many times</li>
+<li>Learners whose difficulty is conceptual rather than procedural, where a mechanic that surfaces the reasoning step is worth more than one that collects the answer</li>
+<li>Learners who can be given genuine choice within the rule system without the goal being lost</li>
 </ul>
-<h3 id="theory">Theory<a class="headerlink" href="#theory" title="Permanent link">&para;</a></h3>
-<h4 id="supporting">Supporting<a class="headerlink" href="#supporting" title="Permanent link">&para;</a></h4>
+<h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
 <ul>
-<li><a href="../../theories/situated-learning/">Situated Learning</a> [+S] — the mechanism by which players in <em>Full Spectrum Warrior</em> or <em>Madison 2200</em> transfer understanding to new contexts is explicitly framed as situated learning</li>
-<li>Flow theory (Csikszentmihalyi) — sustained engagement in serious play depends on calibrating challenge to skill, producing the absorbed state epistemic games aim for</li>
-<li><a href="../../theories/self-determination-theory/">Self-Determination Theory</a> [+M] — self-determination (reconciling extrinsic goals with personal choice) affects the quality of learning within serious play</li>
-</ul>
-<h2 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h2>
-<h2 id="design">Design<a class="headerlink" href="#design" title="Permanent link">&para;</a></h2>
-<h3 id="sequence">Sequence<a class="headerlink" href="#sequence" title="Permanent link">&para;</a></h3>
-<ol>
-<li>Conduct an epistemography of the target community of practice: study how practitioners reason, decide what's worth knowing, and judge good answers.</li>
-<li>Design a simulated world and role that requires the same category of decisions the real practice demands, embedding necessary facts/knowledge in non-player characters, tools, or environment rather than as separate exposition.</li>
-<li>Give the learner a concrete goal or directive from within the fiction (e.g., a mayor's request, a mission briefing) that frames the whole unit of play.</li>
-<li>Let the learner act within the world, receiving in-fiction consequences and guidance (not a external quiz) as feedback.</li>
-<li>For transformation-focused games, center the scenario on an atypical case that exposes a gap or "expectation failure" in the learner's current framing of the practice.</li>
-<li>Debrief explicitly on the epistemic frame the learner practiced, connecting it back to the real-world practice and other contexts.</li>
-</ol>
-<h3 id="elements-used">Elements Used<a class="headerlink" href="#elements-used" title="Permanent link">&para;</a></h3>
-<ul>
-<li><a href="../../elements/simulations/">Simulations</a></li>
-<li><a href="../../elements/role-playing/">Role-Playing</a></li>
-<li><a href="../../elements/feedback/">Feedback</a></li>
+<li>Concept and rule application, at the conceptual level rather than the level of computing the answer <a href="../../claims/whole-task-performance-improves-transfer/">Whole-task performance improves transfer of complex skills to real-world settings.</a> [+M]</li>
+<li>Mental models of a system: through the representations and rules of the game, players form understandings of analogous real-world systems, including how the variables in them interact — what Bogost (2008) calls procedural rhetoric, arguments made "through the authorship of rules of behavior, the construction of dynamic models" (p. 125)</li>
+<li>Strategy selection and revision, since games present series of choices and react to them with new challenges</li>
 </ul>
 <h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
 <ul>
-<li><a href="../../principles/situated-learning/">Situated Learning</a></li>
-<li><a href="../../principles/authentic-audiences-purposes/">Authentic Audiences &amp; Purposes</a></li>
+<li><a href="../../principles/game-based-learning/">Game-based Learning</a> — the learning mechanic is the unit that makes a game's mechanics carry the learning rather than surround it</li>
+<li><a href="../../principles/learning-embedded-in-the-core-mechanic/">Learning Embedded in the Core Mechanic</a> — the principle that governs instantiation, with the three requirements a game mechanic has to meet</li>
+<li><a href="../../principles/immediate-feedback/">Immediate Feedback</a> — feedback mechanisms are how a mechanic guides behaviour, and how the designer communicates what actions should and should not be taken</li>
 </ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
+<h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li>The complexity and specific scenario instances can scale to a learner's current expertise (initiation for novices vs. transformation scenarios built around atypical cases for experienced practitioners)</li>
-<li>Learners can be given different roles within the same simulated world (e.g., different departments in an urban-planning scenario), personalizing which facet of the practice they inhabit most deeply</li>
-</ul>
-<h2 id="related-patterns">Related Patterns<a class="headerlink" href="#related-patterns" title="Permanent link">&para;</a></h2>
-<ul>
-<li><a href="../../methods/evidence-centered-design/">Evidence-Centered Design</a> — the assessment-design method Rupp, Gushta, Mislevy and Shaffer (2010) worked out against epistemic games specifically, which is how a game about professional judgment yields anything scoreable</li>
-<li><a href="../../elements/assessment-mechanic/">Assessment Mechanic</a> — the repeated in-game activity that elicits that evidence, designed so the log discriminates between the constructs the epistemic frame is made of</li>
-<li><a href="../game-based-mastery-learning/">Game-Based Mastery Learning</a> — both use game structures to sustain engagement, but mastery learning targets repeatable skill drills with progression gates, while epistemic games target situated professional judgment through role and narrative stakes</li>
+<li><a href="../assessment-mechanic/">Assessment Mechanic</a> — the same construction applied to diagnosis rather than to learning; the two are designed together and constrain each other</li>
+<li><a href="../simulation/">Simulation</a> — a rule-based system the learner acts within, which is the substrate a learning mechanic usually runs on</li>
+<li><a href="../practice/">Practice</a> — the repetition a learning mechanic structures</li>
+<li><a href="../epistemic-games-shared-understanding-moves/">Epistemic Games: Shared Understanding Moves</a> — a mechanic-level account of a different game genre, where the repeated activity is the professional community's own work</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li><em>Madison 2200</em> — players act as urban planners redesigning a downtown pedestrian mall, learning urban ecology as a byproduct of planning decisions</li>
-<li><em>Full Spectrum Warrior</em> — players think and act as a professional soldier, with military doctrine distributed between the player and AI-controlled squad members</li>
-<li>SimCity integrated into a high-school economics unit, where students build and defend a functioning city and encounter economic principles through the consequences of their design choices</li>
+<li><strong>Apply rules to solve problems</strong> (<em>Noobs vs. Leets</em>): the learner selects among the angle rules and indicates which problems each applies to, keeping the repeated activity at the level of the rules rather than at the level of subtraction.</li>
+<li><strong>Candidate instantiations of that one mechanic</strong>, all considered by the G4LI team: the Fling mechanic from <em>Angry Birds</em>, the Drag mechanic from <em>Implode!</em>, and the Bounce mechanic from <em>Doodle Jump</em>. The one-to-many relationship is what a library of mechanics is for.</li>
+<li><strong>A counter-example, named as such by the source</strong>: an established racing or shooter mechanic with a popup question gating the next round. The learning is an addendum to the mechanic, not the mechanic.</li>
+<li><strong>The G4LI library of learning mechanics</strong> — an ongoing catalogue pairing each learning mechanic with the game mechanics that can instantiate it, published for designers to draw on.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Shaffer, D. W., Squire, K. R., Halverson, R., &amp; Gee, J. P. (2005). Video games and the future of learning. In R. West (Ed.), <em>Foundations of Learning and Instructional Design Technology</em>. EdTech Books. <a href="https://edtechbooks.org/lidtfoundations/video_games_and_the_future_of_learning">https://edtechbooks.org/lidtfoundations/video_games_and_the_future_of_learning</a></li>
-<li>Rieber, L. P., Smith, L., &amp; Noah, D. (1998). The value of serious play. <em>Educational Technology, 38</em>(6), 29–37. Republished in R. West (Ed.), <em>Foundations of Learning and Instructional Design Technology</em>. EdTech Books. <a href="https://edtechbooks.org/lidtfoundations/the_value_of_serious_play">https://edtechbooks.org/lidtfoundations/the_value_of_serious_play</a></li>
-<li>Malone, T. (1981). Toward a theory of intrinsically motivating instruction. <em>Cognitive Science, 5</em>(4), 333–369.</li>
+<li>Plass, J. L., Homer, B. D., Kinzer, C., Frye, J., &amp; Perlin, K. (2011). <em>Learning mechanics and assessment mechanics for games for learning</em> (G4LI White Paper #01/2011, Version 0.1). Games for Learning Institute (New York University, CUNY Graduate Center, Teachers College Columbia University). <a href="https://www.researchgate.net/publication/272815253_Learning_Mechanics_and_Assessment_Mechanics_for_Games_for_Learning">researchgate.net/publication/272815253</a></li>
+<li>Isbister, K., Flanagan, M., &amp; Hash, C. (2010). Designing games for learning: Insights from conversations with designers. <em>CHI '10 Extended Abstracts on Human Factors in Computing Systems</em>, 2041–2044. <a href="https://doi.org/10.1145/1753326.1753637">doi:10.1145/1753326.1753637</a></li>
+<li>Domagk, S., Schwartz, R. N., &amp; Plass, J. L. (2010). Interactivity in multimedia learning: An integrated model. <em>Computers in Human Behavior, 26</em>(5), 1024–1033. <a href="https://doi.org/10.1016/j.chb.2010.03.003">doi:10.1016/j.chb.2010.03.003</a></li>
+<li>Kirschner, P. A., Sweller, J., &amp; Clark, R. E. (2006). Why minimal guidance during instruction does not work: An analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching. <em>Educational Psychologist, 41</em>(2), 75–86. <a href="https://doi.org/10.1207/s15326985ep4102_1">doi:10.1207/s15326985ep4102_1</a></li>
+<li>Schnotz, W., Böckler, J., &amp; Grzondziel, H. (1999). Individual and co-operative learning with interactive animated pictures. <em>European Journal of Psychology of Education, 14</em>(2), 245–265. <a href="https://doi.org/10.1007/bf03172968">doi:10.1007/bf03172968</a></li>
+<li>Hunicke, R., LeBlanc, M., &amp; Zubek, R. (2004). MDA: A formal approach to game design and game research. <em>Proceedings of the Challenges in Game AI Workshop, 19th National Conference on Artificial Intelligence (AAAI '04)</em>. AAAI Press.</li>
+<li>Salen, K., &amp; Zimmerman, E. (2003). <em>Rules of play: Game design fundamentals</em>. MIT Press.</li>
+<li>Bogost, I. (2008). The rhetoric of video games. In K. Salen (Ed.), <em>The ecology of games: Connecting youth, games and learning</em> (pp. 117–140). MIT Press.</li>
+<li>Alexander, C. (1977). <em>A pattern language: Towns, buildings, construction</em>. Oxford University Press.</li>
 </ul>
+<!-- Citation provenance: every DOI above was resolved against Crossref on 2026-09-03 and
+     passed scripts/resolve_doi_conflicts.classify_doi as `verified`. Two corrections were
+     applied to the white paper's own reference list rather than reproduced from it: it
+     gives Kirschner, Sweller & Clark as Educational Psychologist 46(2) (the registry says
+     41(2)), and gives the Domagk, Schwartz & Plass title as "Defining interactivity in
+     multimedia learning" against the registry's "Interactivity in multimedia learning: An
+     integrated model" at the same journal, volume and pages. The books and the AAAI
+     workshop paper carry no DOI and none was invented; they are the book backlog
+     scripts/citation_worklist.py ranks separately. The G4LI white paper itself is
+     self-published and has no DOI. -->
+
 <details class="info">
 <summary>Page metadata</summary>
 <table>
@@ -967,39 +860,35 @@
 <tbody>
 <tr>
 <td><code>type</code></td>
-<td><code>pattern</code></td>
+<td><code>element</code></td>
 </tr>
 <tr>
 <td><code>id</code></td>
-<td><code>epistemic-games</code></td>
+<td><code>learning-mechanic</code></td>
 </tr>
 <tr>
 <td><code>title</code></td>
-<td><code>Epistemic Games</code></td>
+<td><code>Learning Mechanic</code></td>
 </tr>
 <tr>
 <td><code>description</code></td>
-<td><code>Epistemic Games immerse learners in the values, identity, and situated decision-making of a professional community of practice, so that facts and skills are acquired as a byproduct of doing the community's work rather than as isolated content.</code></td>
+<td><code>The repeated learner-facing activity at the heart of a game for learning — a design pattern, grounded in learning theory, that a concrete game mechanic instantiates without displacing the learning goal.</code></td>
 </tr>
 <tr>
 <td><code>status</code></td>
-<td><code>draft</code></td>
-</tr>
-<tr>
-<td><code>grain_size</code></td>
-<td><code>unit</code></td>
-</tr>
-<tr>
-<td><code>author</code></td>
-<td><code>David Williamson Shaffer</code></td>
+<td><code>review</code></td>
 </tr>
 <tr>
 <td><code>generated</code></td>
-<td>by <code>claude/unspecified</code> on <code>2026-08-29</code></td>
+<td>by <code>claude/unspecified</code> on <code>2026-09-03</code></td>
 </tr>
 <tr>
 <td><code>trust</code></td>
 <td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>5 — <code>plass-et-al-2011</code>, <code>kirschner-2006</code>, <code>schnotz-1999</code>, <code>domagk-2010</code>, <code>isbister-2010</code></td>
 </tr>
 </tbody>
 </table>

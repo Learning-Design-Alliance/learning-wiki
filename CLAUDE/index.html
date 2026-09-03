@@ -678,6 +678,17 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#state-as-of-2026-09-03-later-two-frontmatter-bugs-that-masked-each-other-are-fixed" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        State as of 2026-09-03 (later) — two frontmatter bugs that masked each other are fixed
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#known-open-work" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1125,6 +1136,17 @@
     <span class="md-ellipsis">
       
         State as of 2026-09-03 — Crossref is reachable from the sandbox, and the wiki has SLA claims
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#state-as-of-2026-09-03-later-two-frontmatter-bugs-that-masked-each-other-are-fixed" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        State as of 2026-09-03 (later) — two frontmatter bugs that masked each other are fixed
       
     </span>
   </a>
@@ -1800,6 +1822,41 @@ handoff's <code>evidence_strength</code> values are kept as it set them — the 
 side does not read it — while <code>q</code>/<code>i</code>/<code>n</code> come from what each paper actually did. Where a study
 reports a composition or a correlation and no effect size, the code is <code>i?</code> rather than a number
 invented to fill the slot.</p>
+<h3 id="state-as-of-2026-09-03-later-two-frontmatter-bugs-that-masked-each-other-are-fixed">State as of 2026-09-03 (later) — two frontmatter bugs that masked each other are fixed<a class="headerlink" href="#state-as-of-2026-09-03-later-two-frontmatter-bugs-that-masked-each-other-are-fixed" title="Permanent link">&para;</a></h3>
+<p>Running the ordinary ingest pipeline over a new source turned up a <strong>duplicate-key defect on 86
+claim pages</strong>, and then a second bug that had been hiding it.</p>
+<p><code>sync_evidence_codes.SOURCES_BLOCK_RE</code> required a trailing newline on every line of the <code>sources:</code>
+block. <code>okf_lib.FRONTMATTER_RE</code> captures frontmatter as <code>(.*?)\n---</code>, so the block's <strong>last</strong> line
+arrives without one — and on a claim page <code>sources:</code> is normally the last key. The match therefore
+stopped one line short, and <code>sub</code> replaced everything up to there while leaving that final line
+standing: the rendered block, plus an orphaned copy of its own last key. <code>n: 157</code> twice. Valid YAML,
+last-one-wins, <code>lint.py</code> reporting zero the whole time. <strong>Visible only in a diff</strong> — the same shape
+as <code>strip_doi_from_line</code>, <code>apply_authorities</code> and <code>fix_title</code> before it, and the fourth time this
+repo has shipped "a tool edited a line it had no business editing".</p>
+<p><code>okf_lib._derive_id_and_author</code> did <code>citation[:year].strip().rstrip(".")</code>. In APA the period before
+<code>(2022)</code> usually belongs to the final initial, so <strong>every author list ending in an initial was
+recorded one character short</strong> — <code>&amp; Freeman, S</code> for <code>&amp; Freeman, S.</code> It had been that way long enough
+that nobody could see it, because the orphaned duplicate happened to carry the <em>correct</em> spelling
+and won the last-key race. The corpus read correctly while both bugs were live.</p>
+<p><strong>That is why they had to be fixed together.</strong> Repairing only the regex removes the orphan and
+promotes the truncated spelling — a silent rewrite of <code>author</code> on 70 pages, dressed as a cleanup.
+Both fixed, 115 pages rewritten, and the result verified by parsing each page's frontmatter before
+and after: 0 source entries added or dropped, 0 keys other than <code>author</code> changed, 0 lines touched
+outside frontmatter. <strong>Verify a repair pass this way rather than by reading the diff</strong> — 115 files is
+past the point where reading works, and "the parsed value is unchanged except where I intended it to
+change" is checkable.</p>
+<p><code>scripts/log_source_review.py</code> also gained <code>--citations</code>. <code>okf_lib.append_manifest_entry</code> has
+accepted it since Gate 3 landed, but the CLI never exposed it — so <strong>every manually ingested source
+wrote a bare <code>ingested</code></strong>, which this file is explicit must not be read as "the citations were
+checked". The automated path calls the library directly and was never affected, which is exactly why
+the gap survived unnoticed.</p>
+<p><strong>The wiki now covers game mechanics as a design object.</strong> <code>elements/learning-mechanic</code>,
+<code>elements/assessment-mechanic</code>, <code>principles/learning-embedded-in-the-core-mechanic</code> and
+<code>methods/evidence-centered-design</code>, from the G4LI white paper (Plass et al., 2011). No claim pages
+were written from it: it is a conceptual argument that borrows its empirical support, and writing
+claims from studies nobody here has read is the failure mode this file is largely about. ECD is
+<code>status: draft</code> on purpose — it is described from the white paper's summary of Mislevy, Steinberg &amp;
+Almond (2003), not from the 60-page primary, and its page says so.</p>
 <h3 id="known-open-work">Known open work<a class="headerlink" href="#known-open-work" title="Permanent link">&para;</a></h3>
 <ul>
 <li><strong><code>scripts/resolve_citation_metadata.py</code> settles the three citation backlogs against
