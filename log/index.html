@@ -597,6 +597,17 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#2026-09-03" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-03
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#2026-09-02" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -757,6 +768,17 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#2026-09-03" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-03
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#2026-09-02" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -885,6 +907,14 @@
 <p>Format: <code>## [YYYY-MM-DD] &lt;operation&gt; | &lt;page or batch&gt; | &lt;notes&gt;</code></p>
 <p>Operations: <code>ingest</code> · <code>edit</code> · <code>review</code> · <code>merge</code> · <code>deprecate</code> · <code>lint</code></p>
 <hr />
+<h2 id="2026-09-03">2026-09-03<a class="headerlink" href="#2026-09-03" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong>Ingest</strong>: six second-language-acquisition claims — <a href="../claims/l1-predicts-l2-phoneme-perception-more-than-proficiency/">l1-predicts-l2-phoneme-perception-more-than-proficiency</a>, <a href="../claims/italian-l2-motivation-is-ideal-self-not-instrumental/">italian-l2-motivation-is-ideal-self-not-instrumental</a>, <a href="../claims/strategy-use-correlates-with-l2-proficiency-in-adolescents/">strategy-use-correlates-with-l2-proficiency-in-adolescents</a>, <a href="../claims/italian-gender-stays-incomplete-for-l2-and-heritage-speakers/">italian-gender-stays-incomplete-for-l2-and-heritage-speakers</a>, <a href="../claims/l2-fluency-gains-persist-weeks-without-practice/">l2-fluency-gains-persist-weeks-without-practice</a>, <a href="../claims/game-based-practice-outperforms-traditional-l2-vocabulary-instruction/">game-based-practice-outperforms-traditional-l2-vocabulary-instruction</a> — converted from Lazuli Studio drafts into the wiki's claim schema; all seven citations Crossref-verified through <code>classify_doi</code> before commit</li>
+<li><strong>Correction</strong>: the game-based study was handed over as "Frontiers / PMC10443373"; PMC's ID converter resolves that id to <code>10.3390/pediatric15030046</code> — <em>Pediatric Reports</em> 15(3), 502–511, 2023 — so the journal and year were wrong at the source and are corrected on the page</li>
+<li><strong>Correction</strong>: <code>scripts/okf_lib.py</code> — <code>yaml_escape</code> now quotes a leading <code>?</code>. A bare <code>?</code> in value position is YAML's complex-key indicator, so an <code>i: ?</code> code raised "mapping keys are not allowed here" and <code>sync_evidence_codes</code>' write gate refused the page; <code>q?</code>/<code>i?</code> are legal codes the schema requires be preserved</li>
+<li><strong>Edit</strong>: three learner variables gained a claim link — <code>reading-and-language</code> (L1 background, heritage/L2 gender), <code>self-regulation</code> (strategy use), <code>motivation</code> (ideal-self vs instrumental)</li>
+<li><strong>Review</strong>: <code>sources/manifest.ndjson</code> — seven sources logged as ingested with their resolved DOIs, and one logged as rejected (an IJSR position paper with no sample size or findings, excluded upstream)</li>
+</ul>
 <h2 id="2026-09-02">2026-09-02<a class="headerlink" href="#2026-09-02" title="Permanent link">&para;</a></h2>
 <ul>
 <li><strong>Correction</strong>: 21 pages moved out of <code>patterns/</code> and <code>strategies/</code> into two new kinds — <code>processes/</code> (9: ADDIE/Dick &amp; Carey, SAM, design thinking, LXD, UbD, continuous improvement, faculty course design, Data Wise, humanizing co-design) and <code>methods/</code> (12: needs/learner/context/task/hierarchy/cognitive-task analysis, learner and activity-system personas, backward design, standards crosswalk, family-interview task design, power dynamics). Design work is not instruction; it had been filed beside cooperative learning and think-pair-share</li>
