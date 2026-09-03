@@ -36,7 +36,7 @@ Explanatory frameworks that ground principles and claims.
 ### [Learner Variables](learner-variables/index.md) (12)
 Canonical learner characteristics claims report findings about — one page per variable, so the same concept does not fragment across differently-worded tags.
 
-### [Claims](claims/index.md) (422)
+### [Claims](claims/index.md) (428)
 Empirical claims with evidence ratings, sources, and competing views.
 
 ---

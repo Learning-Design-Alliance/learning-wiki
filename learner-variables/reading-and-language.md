@@ -39,6 +39,8 @@ What a learner can read without effort, and whether the language of instruction 
 - [Reciprocal teaching improves reading comprehension](../claims/reciprocal-teaching-improves-reading-comprehension.md) [+M] — a strategy-level rather than a code-level intervention
 - [Incidental vocabulary exposure limited](../claims/incidental-vocabulary-exposure-limited.md) [-M] — why 'they will pick it up from reading' is not a plan
 - [Fluent bilingualism enhances metalinguistic awareness](../claims/bilingual-fluency-enhances-metalinguistic-awareness.md) [+W] — a reminder that this dimension is not only a deficit axis
+- [A learner's first language predicts L2 phoneme perception more strongly than their proficiency level does](../claims/l1-predicts-l2-phoneme-perception-more-than-proficiency.md) [+S] — which language a learner brings is a sharper predictor than their level, so this dimension is not one scale
+- [Italian grammatical gender stays incompletely mastered by L2 learners and heritage speakers alike, and a gendered first language helps only conditionally](../claims/italian-gender-stays-incomplete-for-l2-and-heritage-speakers.md) [~M] — heritage and second-language speakers come apart, so one mastery number over both describes neither
 
 ## Related Learner Variables
 - Working memory — effortful decoding consumes it before comprehension begins.

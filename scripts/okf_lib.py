@@ -301,7 +301,16 @@ def get_section(body: str, heading: str) -> str | None:
 
 
 def yaml_escape(s: str) -> str:
-    if re.search(r'[:#\[\]{}"\'|>*&!%@`]', s) or s.strip() != s or s == "":
+    # A leading `?` needs quoting: in value position YAML reads it as the
+    # complex-mapping-key indicator and raises "mapping keys are not allowed
+    # here". That matters because `q?`/`i?` are legal evidence codes — CLAUDE.md
+    # keeps them deliberately, since "somebody looked and could not establish
+    # it" is a different statement from an absent field — so `i: ?` is a value
+    # this schema is *supposed* to produce. dump_frontmatter's comment already
+    # claimed `?` was quoted here; it was not, and the first page to carry one
+    # would have had its codes silently dropped by sync_evidence_codes' YAML
+    # write gate. A `?` anywhere else in a string is harmless and stays bare.
+    if re.search(r'[:#\[\]{}"\'|>*&!%@`]', s) or s.startswith("?") or s.strip() != s or s == "":
         return '"' + s.replace('\\', '\\\\').replace('"', '\\"') + '"'
     return s
 

@@ -194,10 +194,66 @@ absent and why. They are `status: draft` and belong in `citation_worklist.py`'s 
 backlog — a person with the chapters in hand can complete them in minutes, and nothing
 automated ever will.
 
+### State as of 2026-09-03 — Crossref is reachable from the sandbox, and the wiki has SLA claims
+
+**This file said in four places that this sandbox cannot reach Crossref. As of 2026-09-03 it can.**
+`api.crossref.org` answers, and so do `pmc.ncbi.nlm.nih.gov`, its ID converter, and the publisher
+sites. Seven DOIs were resolved and put through `resolve_doi_conflicts.classify_doi` with the
+cluster's own title words — the same call the pipeline makes — and all seven returned `verified`.
+
+That unblocks work this file has been deferring to the droplet for days: the 97/64 citation
+conflicts, the 21 DOI collisions, the 317 metadata disagreements, the 120 invented titles, the 15
+variant families, and `proven_fabrications()`. **Check before assuming, in either direction** — an
+allowlist can change back, and `classify_doi`'s `error` status still means "the lookup failed", not
+"the DOI is wrong". Call it once at the start of a citation task and act on what it says.
+
+**The wiki now has second-language-acquisition claims: six of them**, converted from drafts written
+by a Lazuli Studio session against an Italian A1–B1 course. They are the first pages in this repo
+whose citations were **Crossref-verified at authoring time** rather than written and deferred.
+
+Their slugs are cited already by six course documents in that repo, so **do not rename them**:
+`l1-predicts-l2-phoneme-perception-more-than-proficiency`,
+`italian-l2-motivation-is-ideal-self-not-instrumental`,
+`strategy-use-correlates-with-l2-proficiency-in-adolescents`,
+`italian-gender-stays-incomplete-for-l2-and-heritage-speakers`,
+`l2-fluency-gains-persist-weeks-without-practice`,
+`game-based-practice-outperforms-traditional-l2-vocabulary-instruction`.
+
+**The handoff said "no SLA coverage at all"; that was overstated and worth correcting**, because a
+new page that believes it has no neighbours lands isolated. `heritage-language-preservation-supports-english-acquisition`,
+`bilingual-fluency-enhances-metalinguistic-awareness`, `incidental-vocabulary-exposure-limited`,
+`learning-strategy-instruction-contextualized-more-effective`,
+`conversational-turns-predict-language-development` and
+`phoneme-awareness-stronger-predictor-than-rhyme` were all already here, and the six new pages link
+into them. Three also join a learner variable's `## Claims`: L1 background and heritage/L2 gender to
+`reading-and-language`, strategy use to `self-regulation`, motivation to `motivation`.
+
+**One citation in the handoff named the wrong journal**, and the resolution caught it: the
+game-based study was given as "Frontiers / PMC10443373". PMC's own ID converter maps that id to
+`10.3390/pediatric15030046` — *Pediatric Reports* 15(3), 502–511, **2023**, Frolli et al. Exactly the
+invented-journal shape this file documents at length, stopped before it landed because the DOI was
+resolved rather than the URL copied.
+
+**`yaml_escape` did not quote a leading `?`, so a `q?`/`i?` code could never reach frontmatter.**
+`dump_frontmatter`'s comment claimed it did. In value position YAML reads a bare `?` as the
+complex-mapping-key indicator, so `i: ?` raises *"mapping keys are not allowed here"*, and
+`sync_evidence_codes`' write gate correctly refused three of these six pages rather than shipping
+broken YAML. The corpus had no `?` codes before now, so nothing was ever silently lost — but the
+schema is explicit that `q?` means "somebody looked and could not establish it" and must be
+preserved, which made this a bug waiting for its first page. Fixed in `okf_lib.yaml_escape`; a `?`
+anywhere but the first character still stays bare.
+
+**Evidence codes on the six are readings of the reported design, not of the authors' ratings.** The
+handoff's `evidence_strength` values are kept as it set them — the field is vestigial and the design
+side does not read it — while `q`/`i`/`n` come from what each paper actually did. Where a study
+reports a composition or a correlation and no effect size, the code is `i?` rather than a number
+invented to fill the slot.
+
 ### Known open work
 
 - **`scripts/resolve_citation_metadata.py` settles the three citation backlogs against
-  Crossref.** Run it from a machine with network (the harness droplet):
+  Crossref.** Run it from a machine with network — the harness droplet, and as of 2026-09-03 this
+  sandbox too (see the state note above; verify, do not assume):
   `--check` to report, `--apply` to write. It corrects a journal/volume/issue/page to the
   registry's values and strips a DOI whose registry title matches no citation of it. It
   never invents or searches for a replacement DOI, never touches anything when the lookup
@@ -250,13 +306,14 @@ automated ever will.
   which side of a pair is wrong needs Crossref, and picking blind is how the wrong one
   becomes canonical. Worst live case: `10.1177/001440290707300301` is on Konrad et al.
   (2007) self-determination *and* Bellini & Akullian (2007) video modelling, two unrelated
-  papers. Resolve these from a machine that can reach Crossref.
+  papers. Resolve these from a machine that can reach Crossref — check whether this one does.
 - **The 13 refilled strategy pages assert DOIs written before the Crossref gate existed.**
   `#19` states it corroborated DOIs against existing repo usage rather than against Crossref,
   because that worktree had no network. Re-run `scripts/check_citations.py` over
   `strategies/{classroom-design-for-engagement,contrasting-cases,formative-assessment-cycles,
   formative-feedback,multisensory-phonics-instruction,sketchnoting,teaching-as-learning}.md`
-  and the six underscore-named siblings from a machine that can reach Crossref.
+  and the six underscore-named siblings from a machine that can reach Crossref — check whether
+  this one does before deferring it.
 - **317 citations carry journal metadata that disagrees with their DOI.** The enrichment
   model copies a title and DOI reliably and then invents the journal, volume and pages
   around them — Graham & Perin (2007) accumulated seven different journals under one DOI.
@@ -279,7 +336,8 @@ automated ever will.
   further 105 are mere truncations (one variant is a prefix of another), reported
   separately. **Never repaired automatically** — a subtitle is exactly the kind of
   plausible detail that is worth nothing unless it came from the registry, and the majority
-  spelling is evidence, not proof. Resolve from a machine that can reach Crossref.
+  spelling is evidence, not proof. Resolve from a machine that can reach Crossref — check whether
+  this one does before deferring it.
 - **15 papers are cited with a *family* of near-identical DOIs** — same registrant,
   suffixes a few characters apart: 43 distinct DOIs over 90 citations, so at least 28 of
   them are wrong, since at most one spelling of a suffix can be the article. Worst is
@@ -301,8 +359,8 @@ automated ever will.
   place that upgrades a 404 to a removal, and it requires the near-identical sibling
   specifically: a preprint and its published version legitimately carry two DOIs from two
   registrants, one of which may sit outside Crossref, so "some other DOI for this paper
-  resolves" is *not* sufficient. Run it from the droplet; this sandbox cannot reach
-  Crossref.
+  resolves" is *not* sufficient. Run it wherever Crossref answers — the droplet, and as of
+  2026-09-03 this sandbox as well.
 - **Run `scripts/verify_citation_edits.py` after any citation tool writes, before you
   commit.** Every data-corruption bug this pipeline has had was the same shape — a script
   matching a *DOI* instead of a *citation*, and editing whatever line the DOI happened to
@@ -379,7 +437,8 @@ automated ever will.
   carry no new citations** — the evidence sits on the linked claim pages, which have been
   through the Crossref pipeline. Adding eleven pages' worth of fresh unverified references
   to a corpus this session spent days cleaning would have been the wrong trade, and this
-  sandbox cannot reach Crossref to check them.
+  sandbox could not reach Crossref to check them at the time. It can now, so that trade is
+  reversible: the eleven pages could take citations that verify.
 - **Third-party Actions are pinned to commit SHAs, with the tag in a trailing comment.**
   A tag is mutable — whoever owns that repo can repoint `@v4` at anything — and `docs.yml`
   runs with `contents: write` on every push to `main`. When bumping one, resolve the new
