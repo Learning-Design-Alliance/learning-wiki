@@ -24,7 +24,7 @@ Reusable instructional designs at the lesson or unit level.
 ### [Strategies](strategies/index.md) (2548)
 Concrete teaching activity recipes — specific, implementable approaches.
 
-### [Design Processes](processes/index.md) (9)
+### [Design Processes](processes/index.md) (11)
 How a course gets designed — whole-process models a designer works through, rather than anything a learner meets.
 
 ### [Design Methods](methods/index.md) (12)

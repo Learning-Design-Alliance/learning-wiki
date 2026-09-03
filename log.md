@@ -15,6 +15,8 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Correction**: `scripts/okf_lib.py` — `yaml_escape` now quotes a leading `?`. A bare `?` in value position is YAML's complex-key indicator, so an `i: ?` code raised "mapping keys are not allowed here" and `sync_evidence_codes`' write gate refused the page; `q?`/`i?` are legal codes the schema requires be preserved
 * **Edit**: three learner variables gained a claim link — `reading-and-language` (L1 background, heritage/L2 gender), `self-regulation` (strategy use), `motivation` (ideal-self vs instrumental)
 * **Review**: `sources/manifest.ndjson` — seven sources logged as ingested with their resolved DOIs, and one logged as rejected (an IJSR position paper with no sample size or findings, excluded upstream)
+* **Content**: [processes/ten-steps-to-complex-learning](processes/ten-steps-to-complex-learning.md) — New page: Ten Steps design process behind the 4C/ID blueprint
+* **Content**: [processes/vendor-production](processes/vendor-production.md) — New page: vendor alpha-beta-gold production process
 
 ## 2026-09-02
 
