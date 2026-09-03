@@ -667,6 +667,17 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#state-as-of-2026-09-03-crossref-is-reachable-from-the-sandbox-and-the-wiki-has-sla-claims" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        State as of 2026-09-03 — Crossref is reachable from the sandbox, and the wiki has SLA claims
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#known-open-work" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1103,6 +1114,17 @@
     <span class="md-ellipsis">
       
         State as of 2026-09-02 — the design-spec realizes: targets exist
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#state-as-of-2026-09-03-crossref-is-reachable-from-the-sandbox-and-the-wiki-has-sla-claims" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        State as of 2026-09-03 — Crossref is reachable from the sandbox, and the wiki has SLA claims
       
     </span>
   </a>
@@ -1732,10 +1754,57 @@ a citation's clothes. Each affected page carries an HTML comment saying which fi
 absent and why. They are <code>status: draft</code> and belong in <code>citation_worklist.py</code>'s book
 backlog — a person with the chapters in hand can complete them in minutes, and nothing
 automated ever will.</p>
+<h3 id="state-as-of-2026-09-03-crossref-is-reachable-from-the-sandbox-and-the-wiki-has-sla-claims">State as of 2026-09-03 — Crossref is reachable from the sandbox, and the wiki has SLA claims<a class="headerlink" href="#state-as-of-2026-09-03-crossref-is-reachable-from-the-sandbox-and-the-wiki-has-sla-claims" title="Permanent link">&para;</a></h3>
+<p><strong>This file said in four places that this sandbox cannot reach Crossref. As of 2026-09-03 it can.</strong>
+<code>api.crossref.org</code> answers, and so do <code>pmc.ncbi.nlm.nih.gov</code>, its ID converter, and the publisher
+sites. Seven DOIs were resolved and put through <code>resolve_doi_conflicts.classify_doi</code> with the
+cluster's own title words — the same call the pipeline makes — and all seven returned <code>verified</code>.</p>
+<p>That unblocks work this file has been deferring to the droplet for days: the 97/64 citation
+conflicts, the 21 DOI collisions, the 317 metadata disagreements, the 120 invented titles, the 15
+variant families, and <code>proven_fabrications()</code>. <strong>Check before assuming, in either direction</strong> — an
+allowlist can change back, and <code>classify_doi</code>'s <code>error</code> status still means "the lookup failed", not
+"the DOI is wrong". Call it once at the start of a citation task and act on what it says.</p>
+<p><strong>The wiki now has second-language-acquisition claims: six of them</strong>, converted from drafts written
+by a Lazuli Studio session against an Italian A1–B1 course. They are the first pages in this repo
+whose citations were <strong>Crossref-verified at authoring time</strong> rather than written and deferred.</p>
+<p>Their slugs are cited already by six course documents in that repo, so <strong>do not rename them</strong>:
+<code>l1-predicts-l2-phoneme-perception-more-than-proficiency</code>,
+<code>italian-l2-motivation-is-ideal-self-not-instrumental</code>,
+<code>strategy-use-correlates-with-l2-proficiency-in-adolescents</code>,
+<code>italian-gender-stays-incomplete-for-l2-and-heritage-speakers</code>,
+<code>l2-fluency-gains-persist-weeks-without-practice</code>,
+<code>game-based-practice-outperforms-traditional-l2-vocabulary-instruction</code>.</p>
+<p><strong>The handoff said "no SLA coverage at all"; that was overstated and worth correcting</strong>, because a
+new page that believes it has no neighbours lands isolated. <code>heritage-language-preservation-supports-english-acquisition</code>,
+<code>bilingual-fluency-enhances-metalinguistic-awareness</code>, <code>incidental-vocabulary-exposure-limited</code>,
+<code>learning-strategy-instruction-contextualized-more-effective</code>,
+<code>conversational-turns-predict-language-development</code> and
+<code>phoneme-awareness-stronger-predictor-than-rhyme</code> were all already here, and the six new pages link
+into them. Three also join a learner variable's <code>## Claims</code>: L1 background and heritage/L2 gender to
+<code>reading-and-language</code>, strategy use to <code>self-regulation</code>, motivation to <code>motivation</code>.</p>
+<p><strong>One citation in the handoff named the wrong journal</strong>, and the resolution caught it: the
+game-based study was given as "Frontiers / PMC10443373". PMC's own ID converter maps that id to
+<code>10.3390/pediatric15030046</code> — <em>Pediatric Reports</em> 15(3), 502–511, <strong>2023</strong>, Frolli et al. Exactly the
+invented-journal shape this file documents at length, stopped before it landed because the DOI was
+resolved rather than the URL copied.</p>
+<p><strong><code>yaml_escape</code> did not quote a leading <code>?</code>, so a <code>q?</code>/<code>i?</code> code could never reach frontmatter.</strong>
+<code>dump_frontmatter</code>'s comment claimed it did. In value position YAML reads a bare <code>?</code> as the
+complex-mapping-key indicator, so <code>i: ?</code> raises <em>"mapping keys are not allowed here"</em>, and
+<code>sync_evidence_codes</code>' write gate correctly refused three of these six pages rather than shipping
+broken YAML. The corpus had no <code>?</code> codes before now, so nothing was ever silently lost — but the
+schema is explicit that <code>q?</code> means "somebody looked and could not establish it" and must be
+preserved, which made this a bug waiting for its first page. Fixed in <code>okf_lib.yaml_escape</code>; a <code>?</code>
+anywhere but the first character still stays bare.</p>
+<p><strong>Evidence codes on the six are readings of the reported design, not of the authors' ratings.</strong> The
+handoff's <code>evidence_strength</code> values are kept as it set them — the field is vestigial and the design
+side does not read it — while <code>q</code>/<code>i</code>/<code>n</code> come from what each paper actually did. Where a study
+reports a composition or a correlation and no effect size, the code is <code>i?</code> rather than a number
+invented to fill the slot.</p>
 <h3 id="known-open-work">Known open work<a class="headerlink" href="#known-open-work" title="Permanent link">&para;</a></h3>
 <ul>
 <li><strong><code>scripts/resolve_citation_metadata.py</code> settles the three citation backlogs against
-  Crossref.</strong> Run it from a machine with network (the harness droplet):
+  Crossref.</strong> Run it from a machine with network — the harness droplet, and as of 2026-09-03 this
+  sandbox too (see the state note above; verify, do not assume):
   <code>--check</code> to report, <code>--apply</code> to write. It corrects a journal/volume/issue/page to the
   registry's values and strips a DOI whose registry title matches no citation of it. It
   never invents or searches for a replacement DOI, never touches anything when the lookup
@@ -1788,13 +1857,14 @@ automated ever will.</p>
   which side of a pair is wrong needs Crossref, and picking blind is how the wrong one
   becomes canonical. Worst live case: <code>10.1177/001440290707300301</code> is on Konrad et al.
   (2007) self-determination <em>and</em> Bellini &amp; Akullian (2007) video modelling, two unrelated
-  papers. Resolve these from a machine that can reach Crossref.</li>
+  papers. Resolve these from a machine that can reach Crossref — check whether this one does.</li>
 <li><strong>The 13 refilled strategy pages assert DOIs written before the Crossref gate existed.</strong>
   <code>#19</code> states it corroborated DOIs against existing repo usage rather than against Crossref,
   because that worktree had no network. Re-run <code>scripts/check_citations.py</code> over
   <code>strategies/{classroom-design-for-engagement,contrasting-cases,formative-assessment-cycles,
   formative-feedback,multisensory-phonics-instruction,sketchnoting,teaching-as-learning}.md</code>
-  and the six underscore-named siblings from a machine that can reach Crossref.</li>
+  and the six underscore-named siblings from a machine that can reach Crossref — check whether
+  this one does before deferring it.</li>
 <li><strong>317 citations carry journal metadata that disagrees with their DOI.</strong> The enrichment
   model copies a title and DOI reliably and then invents the journal, volume and pages
   around them — Graham &amp; Perin (2007) accumulated seven different journals under one DOI.
@@ -1817,7 +1887,8 @@ automated ever will.</p>
   further 105 are mere truncations (one variant is a prefix of another), reported
   separately. <strong>Never repaired automatically</strong> — a subtitle is exactly the kind of
   plausible detail that is worth nothing unless it came from the registry, and the majority
-  spelling is evidence, not proof. Resolve from a machine that can reach Crossref.</li>
+  spelling is evidence, not proof. Resolve from a machine that can reach Crossref — check whether
+  this one does before deferring it.</li>
 <li><strong>15 papers are cited with a <em>family</em> of near-identical DOIs</strong> — same registrant,
   suffixes a few characters apart: 43 distinct DOIs over 90 citations, so at least 28 of
   them are wrong, since at most one spelling of a suffix can be the article. Worst is
@@ -1839,8 +1910,8 @@ automated ever will.</p>
   place that upgrades a 404 to a removal, and it requires the near-identical sibling
   specifically: a preprint and its published version legitimately carry two DOIs from two
   registrants, one of which may sit outside Crossref, so "some other DOI for this paper
-  resolves" is <em>not</em> sufficient. Run it from the droplet; this sandbox cannot reach
-  Crossref.</li>
+  resolves" is <em>not</em> sufficient. Run it wherever Crossref answers — the droplet, and as of
+  2026-09-03 this sandbox as well.</li>
 <li><strong>Run <code>scripts/verify_citation_edits.py</code> after any citation tool writes, before you
   commit.</strong> Every data-corruption bug this pipeline has had was the same shape — a script
   matching a <em>DOI</em> instead of a <em>citation</em>, and editing whatever line the DOI happened to
@@ -1917,7 +1988,8 @@ automated ever will.</p>
   carry no new citations</strong> — the evidence sits on the linked claim pages, which have been
   through the Crossref pipeline. Adding eleven pages' worth of fresh unverified references
   to a corpus this session spent days cleaning would have been the wrong trade, and this
-  sandbox cannot reach Crossref to check them.</li>
+  sandbox could not reach Crossref to check them at the time. It can now, so that trade is
+  reversible: the eleven pages could take citations that verify.</li>
 <li><strong>Third-party Actions are pinned to commit SHAs, with the tag in a trailing comment.</strong>
   A tag is mutable — whoever owns that repo can repoint <code>@v4</code> at anything — and <code>docs.yml</code>
   runs with <code>contents: write</code> on every push to <code>main</code>. When bumping one, resolve the new
