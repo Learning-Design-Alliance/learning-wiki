@@ -1,0 +1,406 @@
+# Lexical elaboration and intentional vocabulary acquisition (2026).
+#
+# THE MULTI-ARM STRESS TEST. Three arms, six pairwise contrasts, four outcomes,
+# two reading phases. What this file proves, by needing it:
+#
+#   * `arms` in place of v1's singular `intervention`. There is no one
+#     intervention here: there are two (unenhanced and enhanced elaboration)
+#     plus a baseline, and every result is a contrast between two of them.
+#   * `comparisons` carrying `index_arm` and `reference_arm`. v1's comparison
+#     was free text, so "unenhanced vs baseline" and "enhanced vs baseline"
+#     were indistinguishable to a machine. Here they are two ids over named arms.
+#   * `observations[].sample`. The comprehension ANOVA is F(2,59) — 62 of the
+#     67 randomised. A study-level n would have been wrong for that result.
+#   * Nulls kept as observations. Five of the seven contrasts recorded here are
+#     null, and dropping them would turn "only the unenhanced group beat
+#     baseline" into "elaboration works".
+
+schema_version: 2
+
+study:
+  key: jemr-lexical-elaboration-2026
+  citation: "Lexical Elaboration and Intentional Vocabulary Acquisition: An Eye-Tracking Study. (2026). Journal of Eye Movement Research, 19(3), 61."
+  doi: "10.3390/jemr19030061"
+  design:
+    family: randomized-controlled-trial
+    design_detail: >-
+      Three-arm parallel-group randomised experiment with eye-tracking during
+      two readings of one text, followed by two forewarned vocabulary
+      assessments and a reading comprehension test. Analysed with generalised
+      linear mixed-effects models (ZINB-GLMM for count measures) and a one-way
+      ANOVA for comprehension.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-09-07
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+  provenance_notes: >-
+    The author line was not recoverable from the PMC rendering available here,
+    so the citation is TITLE-FIRST rather than carrying a placeholder name. The
+    DOI was resolved against Crossref and passed classify_doi as `verified`;
+    the author list is an open field on this record, not an invented one.
+
+evidence_base:
+  unit: participants
+  size:
+    value: 67
+    unit: participants
+  population:
+    description: "Korean undergraduate students learning English as a second language."
+    age_or_stage: "Undergraduates"
+    language_background: "L1 Korean; English as L2"
+    prior_knowledge: >-
+      Groups were equivalent at baseline on English reading proficiency
+      (Nelson-Denny Reading Test, F(2,64) = 0.031, p = 0.970) and on age
+      (F(2,64) = 0.076, p = 0.927).
+  context:
+    setting: "Laboratory eye-tracking session"
+    geography: "South Korea"
+    delivery_mode: "Screen-based reading of an English text, read twice, with eye movements recorded"
+  variation: []
+  # Three arms. This is the block v1 did not have, and without it a three-arm
+  # design collapses into "an intervention" and loses which contrast is which.
+  arms:
+    - id: baseline
+      role: baseline
+      description: "Read the experimental text with no lexical elaboration of the six target words."
+      elements:
+        - term: "unelaborated reading of the target text"
+    - id: unenhanced-elaboration
+      role: intervention
+      description: >-
+        Read the same text with lexical elaboration — additional information
+        such as definitions, synonyms or appositions — supplied for the target
+        words, with no visual enhancement.
+      elements:
+        - term: "lexical elaboration (definitions, synonyms, appositions) without input enhancement"
+          anchors:
+            - claims/incidental-vocabulary-exposure-limited
+    - id: enhanced-elaboration
+      role: intervention
+      description: >-
+        Read the same text with the same lexical elaboration PLUS visual input
+        enhancement of the form-meaning relationship.
+      elements:
+        - term: "lexical elaboration with visual input enhancement"
+
+comparisons:
+  - id: unenhanced-vs-baseline
+    kind: between-groups
+    index_arm: unenhanced-elaboration
+    reference_arm: baseline
+    description: "Unenhanced lexical elaboration against no elaboration."
+  - id: enhanced-vs-baseline
+    kind: between-groups
+    index_arm: enhanced-elaboration
+    reference_arm: baseline
+    description: "Enhanced lexical elaboration against no elaboration."
+  - id: enhanced-vs-unenhanced
+    kind: between-groups
+    index_arm: enhanced-elaboration
+    reference_arm: unenhanced-elaboration
+    description: "Whether visual enhancement adds anything to elaboration alone."
+  - id: omnibus-three-groups
+    kind: between-groups
+    index_arm: unenhanced-elaboration
+    reference_arm: baseline
+    description: >-
+      The three-group omnibus test, recorded with the intervention and baseline
+      arms named because a one-way ANOVA over three groups has no single index
+      and reference. Read it as "the three arms in evidence_base.arms".
+  - id: second-vs-first-reading
+    kind: within-subject-baseline
+    description: "Each arm's second reading of the text against its own first reading."
+
+observations:
+
+  # ---- meaning recall: the study's positive finding, and its two nulls
+  - id: meaning-recall-unenhanced-vs-baseline
+    sample:
+      value: 67
+      unit: participants
+    outcome:
+      construct: "Second-language vocabulary knowledge: form-meaning mapping"
+      source_language: "meaning recall"
+      measure: "Meaning recall test — write the meaning of each target word form, in Korean or English"
+      scale: "items correct of 6 target words"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+      anchors:
+        - learner-variables/reading-and-language
+    time:
+      label: post-reading
+      offset:
+        value: 2
+        unit: readings
+        from: start-of-reading
+    comparison_ref: unenhanced-vs-baseline
+    result:
+      measure_type: odds_ratio
+      estimate: 3.31
+      p_value: "0.012"
+      statistic: "GLMM: β = 1.20, SE = 0.48"
+      standard_error: 0.48
+      model: "generalised linear mixed-effects model"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      outcome_timing is `partial`: the assessment follows the second reading
+      immediately, and there is no delayed post-test — so this record bears on
+      acquisition and says nothing about retention.
+    source_quote: "Results from GLMM analysis revealed a significant difference between the baseline and unenhanced elaboration groups (β = 1.20, SE = 0.48, p = 0.012, OR = 3.31)."
+    source_location: "§4.2 Vocabulary test results"
+
+  - id: meaning-recall-enhanced-vs-baseline
+    sample:
+      value: 67
+      unit: participants
+    outcome:
+      construct: "Second-language vocabulary knowledge: form-meaning mapping"
+      source_language: "meaning recall"
+      measure: "Meaning recall test"
+      scale: "items correct of 6 target words"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: post-reading
+    comparison_ref: enhanced-vs-baseline
+    result:
+      measure_type: odds_ratio
+      estimate: 1.54
+      p_value: "0.374"
+      statistic: "GLMM: β = 0.43, SE = 0.49"
+      standard_error: 0.49
+      interpretation: "null — adding visual enhancement to elaboration did not beat no elaboration"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      The observation that makes the study's conclusion legible. Same outcome,
+      same time, same reference arm, different index arm — and the opposite
+      result. Only the arms distinguish these two rows, which is why v1's
+      singular intervention could not hold them.
+    source_quote: "In contrast, the difference between the baseline and enhanced elaboration groups was not statistically significant (β = 0.43, SE = 0.49, p = 0.374, OR = 1.54)."
+    source_location: "§4.2 Vocabulary test results"
+
+  - id: meaning-recall-enhanced-vs-unenhanced
+    sample:
+      value: 67
+      unit: participants
+    outcome:
+      construct: "Second-language vocabulary knowledge: form-meaning mapping"
+      source_language: "meaning recall"
+      measure: "Meaning recall test"
+      scale: "items correct of 6 target words"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: post-reading
+    comparison_ref: enhanced-vs-unenhanced
+    result:
+      measure_type: odds_ratio
+      estimate: 2.15
+      p_value: "0.076"
+      statistic: "GLMM: β = 0.76, SE = 0.43"
+      standard_error: 0.43
+      interpretation: "null at conventional alpha"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    source_quote: "Similarly, the difference between the unenhanced and enhanced elaboration groups did not reach statistical significance (β = 0.76, SE = 0.43, p = 0.076, OR = 2.15)."
+    source_location: "§4.2 Vocabulary test results"
+
+  # ---- form recall: all three contrasts null
+  - id: form-recall-unenhanced-vs-baseline
+    sample:
+      value: 67
+      unit: participants
+    outcome:
+      construct: "Second-language vocabulary knowledge: orthographic form"
+      source_language: "form recall"
+      measure: "Form recall test — write down the forms of any unfamiliar words recalled from the text"
+      scale: "items correct of 6 target words"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: post-reading
+    comparison_ref: unenhanced-vs-baseline
+    result:
+      measure_type: odds_ratio
+      estimate: 1.28
+      p_value: "0.558"
+      statistic: "GLMM: β = 0.25, SE = 0.42"
+      standard_error: 0.42
+      interpretation: "null"
+    moderators:
+      reported: []
+      candidate:
+        - "Form and meaning recall dissociate here — the same contrast is significant on meaning and null on form. The paper reads this as elaboration aiding form-meaning mapping rather than form learning; recorded as candidate because no moderation test was run."
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    source_quote: "GLMM results ( Table 11 ) indicated no statistically significant difference between the baseline and unenhanced elaboration groups (β = 0.25, SE = 0.42, p = 0.558, OR = 1.28)."
+    source_location: "§4.2 Vocabulary test results, Table 11"
+
+  - id: form-recall-enhanced-vs-baseline
+    sample:
+      value: 67
+      unit: participants
+    outcome:
+      construct: "Second-language vocabulary knowledge: orthographic form"
+      source_language: "form recall"
+      measure: "Form recall test"
+      scale: "items correct of 6 target words"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: post-reading
+    comparison_ref: enhanced-vs-baseline
+    result:
+      measure_type: odds_ratio
+      estimate: 2.10
+      p_value: "0.063"
+      statistic: "GLMM: β = 0.74, SE = 0.40"
+      standard_error: 0.40
+      interpretation: "null at conventional alpha"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    source_quote: "Similarly, the comparison between the baseline and enhanced elaboration groups did not reveal a significant difference (β = 0.74, SE = 0.40, p = 0.063, OR = 2.10)."
+    source_location: "§4.2 Vocabulary test results, Table 11"
+
+  # ---- reading comprehension: the omnibus null, on a different analysed n
+  - id: reading-comprehension-omnibus
+    # 62, not 67. The study-level size would have been wrong here, which is
+    # why the analysed sample belongs to the observation.
+    sample:
+      value: 62
+      unit: participants
+    outcome:
+      construct: "Reading comprehension of the experimental text"
+      source_language: "reading comprehension test scores"
+      measure: "Reading comprehension test administered after the second reading"
+      scale: "test score"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: post-reading
+    comparison_ref: omnibus-three-groups
+    result:
+      measure_type: other
+      estimate: null
+      p_value: "0.298"
+      statistic: "one-way ANOVA, F(2,59) = 1.237"
+      descriptives: "enhanced elaboration M = 6.14, SD = 2.03; baseline M = 5.15, SD = 2.64"
+      interpretation: >-
+        Null. The paper frames this as evidence against a trade-off between
+        vocabulary acquisition and comprehension under elaboration.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      `effect_size: unreported` with an F and a p but no eta squared, and
+      `sample` 62 against a randomised 67 — the ANOVA's df of 2,59 imply five
+      participants absent from this analysis and the paper does not say why.
+    source_quote: "A Shapiro–Wilk test confirmed that the data met the assumption of normality ( p > 0.05). Accordingly, a one-way ANOVA was performed, which revealed no significant difference in scores among the three groups ( F 2,59 = 1.237, p = 0.298)."
+    source_location: "§4.3 Reading comprehension test results"
+
+  # ---- the process measure the study's mechanism claim rests on
+  - id: target-word-reading-time-second-vs-first-unenhanced
+    sample:
+      value: 67
+      unit: participants
+    outcome:
+      construct: "Sustained attention to unfamiliar words during reading"
+      source_language: "total reading time on target words"
+      measure: "Eye-tracked total reading time on target-word interest areas"
+      scale: "milliseconds"
+      direction: contextual
+      # Not a capability and not an outcome anyone values: a process measure of
+      # what the learner did, which is what the mechanism argument rests on.
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+      anchors:
+        - learner-variables/attention
+    time:
+      label: second-reading
+      offset:
+        value: 2
+        unit: readings
+        from: start-of-reading
+    comparison_ref: second-vs-first-reading
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.17
+      standard_error: 0.12
+      p_value: "0.149"
+      statistic: "GLMM: exp(β) = 0.84"
+      interpretation: >-
+        Null — the unenhanced elaboration group held reading time steady across
+        the two readings, where the enhanced group dropped significantly
+        (β = -0.34, SE = 0.12, p = 0.005, exp(β) = 0.71). The study's mechanism
+        claim is built on this contrast between a null and a significant decline.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      A null that is load-bearing. The paper's argument is that unenhanced
+      elaboration promotes SUSTAINED attention, and the evidence for it is
+      precisely that this within-group decline did NOT occur while it did in
+      the other two arms. A store keeping only significant results would delete
+      the finding.
+    source_quote: "the unenhanced elaboration group showed no significant differences in either total reading time (β = −0.17, SE = 0.12, p = 0.149, exp(β) = 0.84) or fixation count (β = −0.16, SE = 0.12, p = 0.173, exp(β) = 0.85). For the enhanced elaboration group, significant reductions were observed in total reading time (β = −0.34, SE =0.12, p = 0.005, exp(β) = 0.71)"
+    source_location: "§4.1 Eye-movement results, Table 5"
+
+not_yet_extracted:
+  - "Fixation-count contrasts (reported alongside every reading-time contrast) and the full between-group eye-movement tables 4, 8 and 9."
+  - "The group x reading-phase interaction terms for total reading time and fixation count."
+  - "The author list, which the available rendering did not carry."

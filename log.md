@@ -8,6 +8,17 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ---
 
+## 2026-09-07 (later)
+
+* **Schema**: `observations/` moves to **version 2** — three levels (source / evidence base / observations) in place of v1's two. The change was forced by evidence: encoding one meta-analysis and one three-arm randomised experiment in v1 failed in nine specific places, listed in `observations/SCHEMA.md`
+* **Decision**: the middle layer gains `arms`, and **arms + comparisons is the common abstraction**. A trial's "unenhanced vs baseline" and a synthesis's "spaced online vs massed online" are the same object — a contrast between two named configurations — so a meta-analysis needed no parallel field set, only for the middle layer to stop assuming one group of people. `role: corpus-stratum` is what makes an arm a slice of a literature
+* **Decision**: every count is `{value, unit}` with `unit` required. The corpus had already proved this necessary — its evidence entries carry `n=18`, `n=30 studies`, `n=66 articles`, `n=N/A` and `n=large (aggregated)` in one column
+* **Decision**: `result.k` belongs to the observation, not the study. Martinengo et al. pool 9 studies for knowledge, 3 for behaviour change and 2 for surgical skills, out of 23 — a study-level `k` would be wrong for every observation in it
+* **Decision**: a fourth epistemic state, `study.synthesis.attempted_but_precluded`. Subgroup analyses and publication-bias assessment were *attempted and could not be completed*; `unreported` loses the reason and absent loses the attempt
+* **Decision**: `appears_in` becomes optional. Requiring it made the evidence layer depend on the argument layer — a real study is recordable before any claim argues from it. Listed entries are still validated, and `--summary` counts orphans
+* **Content**: two new fixtures — `martinengo-2024` (JMIR spaced digital education systematic review and meta-analysis, 23 studies / 3371 participants, 3 pooled observations) and `jemr-lexical-elaboration-2026` (three-arm eye-tracking vocabulary experiment, N=67, 7 observations of which 5 are null). Both DOIs Crossref-verified through `classify_doi`
+* **Migration**: the four v1 fixtures were converted to v2 and verified by parsing — `observations`, `study` and `appears_in` byte-identical before and after. **Nothing else was migrated**; 424 claim pages still have no record, which is a legal state
+
 ## 2026-09-07
 
 * **Schema**: `observations/` — structured research observations beside the claims. One file per study, keyed by the author-year citation key, recording intervention + population + context + comparison + measurement + time → outcome, so an effect size stays a measurement of one configuration rather than becoming a weight between two concepts. Field reference in `observations/SCHEMA.md`; rationale in `scripts/observation_lib.py`

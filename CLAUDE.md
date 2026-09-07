@@ -514,6 +514,45 @@ implementations, outcomes or horizons are two records and must stay two records.
 `observations/SCHEMA.md` is the field reference; `scripts/observation_lib.py` carries the
 rationale. What belongs here:
 
+**The schema is at version 2, and the change was forced by evidence rather than foreseen.**
+v1 had two levels — a `study` whose `population`/`context`/`intervention` were assumed
+SINGULAR, and observations under it. That middle assumption is a *primary-study*
+assumption, and it broke in nine places the moment a meta-analysis and a three-arm trial
+were put through it: 23 studies and 3371 participants had one integer slot between them;
+`k` differed per pooled estimate (9 for knowledge, 2 for surgical skills, from a corpus of
+23) so it could not live on the study; three arms had one `intervention:` field; and a
+comprehension ANOVA on 62 of 67 randomised had no home for its own analysed n. So there
+are three levels now — **source**, **evidence base**, **observations** — and the middle
+one carries `arms`.
+
+**Arms + comparisons is the abstraction that makes one schema fit both shapes.** A
+three-arm trial's "unenhanced vs baseline" and a meta-analysis's "spaced online vs massed
+online" are the same object: a contrast between two named configurations. The synthesis
+pools it across studies; the trial measures it once. Nothing about a meta-analysis needed
+a parallel set of fields — it needed the middle layer to stop assuming one group of
+people. An arm's `role` is what varies, and `corpus-stratum` is the value that makes
+"spaced online education, 17 of 23 studies" an arm of a literature rather than a group in
+a room. A single-group study has one arm; a survey has `arms: []`.
+
+**Every count carries its unit, and the corpus proved that necessary before either fixture
+was written.** Its evidence entries already carry `n=18`, `n=30 studies`, `n=66 articles`,
+`n=N/A` and `n=large (aggregated)` — one field doing four jobs, so nothing can read it.
+A count here is `{value, unit}` with `unit` required.
+
+**There are four epistemic states, not two.** Absent (nobody looked); `unreported`
+(somebody read the source and it does not say); **attempted and precluded** (the authors
+tried the analysis and could not finish it, with the reason); and measured-as-null.
+Martinengo et al. attempted subgroup analyses and publication-bias assessment and were
+precluded by the number of studies and their heterogeneity — `unreported` would lose the
+reason and absent would lose the attempt, so `study.synthesis.attempted_but_precluded`
+holds it.
+
+**`appears_in` is optional in v2.** Requiring it made the evidence layer depend on the
+argument layer: a structured record of a real study is valid evidence whether or not
+anyone has yet written a claim that appeals to it. The ratchet stays — a *listed* claim
+and anchor must still resolve — and `check_observations.py --summary` counts records
+nothing cites rather than letting orphans go unnoticed.
+
 **The record is NOT in the claim's frontmatter, and that was decided by reading the code.**
 `sources[]` is *derived*: `sync_evidence_codes.py --apply` rebuilds the whole block from the
 body's `## Evidence` through `dump_frontmatter`, which emits exactly
@@ -558,7 +597,10 @@ a DOI.
 β = 17.17 words into a *d* needs a pooled SD, and inventing one to make records comparable
 is how a store fills with confident untraceable numbers. `compile_observations.py`
 therefore does no pooling, no averaging and no conversion — comparability is a separate
-analytical step run explicitly downstream.
+analytical step run explicitly downstream. **A prediction interval is not a confidence
+interval** and must never be derived from one: the CI is about the mean effect, the PI
+about the next study, so `result.prediction_interval.source` is required and a computed
+one can never be read as a reported one.
 
 ```bash
 python3 scripts/check_observations.py                 # validate; exit 1 on any problem
@@ -573,11 +615,21 @@ compared with what, in what context, measured how, at what time, with what resul
 uncertainty, and what important information was not reported* — answered from the record
 alone, with no narrative prose read.
 
-**Migration is deliberately not a batch job.** Four studies across four claims are enriched
-as fixtures; 424 other claim pages have no record and are not broken by that, because an
-absent record is a legal state and `check_observations` only validates the files that
-exist. It starts and stays **green**, so the property this file leans on — that a count of
-zero means the work is done rather than the check being broken — survives.
+**Migration is deliberately not a batch job, and nothing has been migrated.** Six studies
+are recorded as fixtures — four second-language primary studies, one meta-analysis
+(`martinengo-2024`) and one three-arm randomised experiment
+(`jemr-lexical-elaboration-2026`), 21 observations in all. 424 claim pages have no record
+and are not broken by that, because an absent record is a legal state and
+`check_observations` only validates the files that exist. It starts and stays **green**,
+so the property this file leans on — that a count of zero means the work is done rather
+than the check being broken — survives.
+
+**The four v1 fixtures were converted to v2 and the conversion was verified, not eyeballed:**
+every page's `observations`, `study` and `appears_in` block parses byte-identical before
+and after, and `population`/`context` are preserved with only `n` moved into
+`evidence_base.size`. That is the same discipline the 115-page frontmatter repair used —
+"the parsed value is unchanged except where I intended it to change" is checkable, and
+reading a diff at that size is not.
 
 The route for the rest, when the structure has proved itself:
 

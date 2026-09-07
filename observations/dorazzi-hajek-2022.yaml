@@ -8,7 +8,7 @@
 # two different answers — so who values an outcome is recorded here because the
 # source establishes it, not inferred from the fact that somebody measured it.
 
-schema_version: 1
+schema_version: 2
 
 study:
   key: dorazzi-hajek-2022
@@ -40,35 +40,51 @@ appears_in:
   - claim: italian-l2-motivation-is-ideal-self-not-instrumental
     anchor: dorazzi-hajek-2022
 
-population:
-  n: null
-  description: >-
-    University learners of Italian across four language programmes, and their
-    teachers. Counts are not reported on the claim page.
-  age_or_stage: "University students"
-  language_background: "Learners of Italian in a predominantly English-speaking environment"
-  relevant_characteristics:
-    - "Two respondent groups — learners and teachers — which is what the finding is about"
-
-context:
-  setting: "University language programmes"
-  institution_or_environment: "Four university language programmes"
-  geography: "Australia"
-  delivery_mode: "Not reported here"
-  duration: "Not reported here"
-
-intervention:
-  description: "None. Motivation is elicited and described, not manipulated."
-  elements: []
+evidence_base:
+  unit: participants
+  size:
+    value: 0
+    unit: participants
+  # value 0 because the source reports no participant count, and `unit`
+  # still has to say what would have been counted. The gap itself is
+  # carried on every observation as observability.population_detail:
+  # unreported, which is where a consumer should read it — not here.
+  population:
+    description: University learners of Italian across four language programmes, and their
+      teachers. Counts are not reported on the claim page.
+    age_or_stage: University students
+    language_background: Learners of Italian in a predominantly English-speaking environment
+    relevant_characteristics:
+    - Two respondent groups — learners and teachers — which is what the finding is about
+  context:
+    setting: University language programmes
+    institution_or_environment: Four university language programmes
+    geography: Australia
+    delivery_mode: Not reported here
+    duration: Not reported here
+  variation: []
+  # The two respondent groups are arms in the structural sense — the finding IS a
+  # contrast between them — even though neither received an intervention.
+  # `role: other`, because nothing was administered to either.
+  arms:
+    - id: learners
+      role: other
+      description: "University learners of Italian across four programmes, asked about their own motivation."
+      elements: []
+    - id: teachers
+      role: other
+      description: "Their teachers, asked about what motivates learners."
+      elements: []
 
 comparisons:
   - id: learners-vs-teachers
     kind: between-groups
+    index_arm: learners
+    reference_arm: teachers
     description: >-
       Learners' accounts of their own motivation set against their teachers'
       accounts of what motivates learners. Both groups were asked; the finding
       is that the two do not match.
-    elements: []
 
 observations:
 

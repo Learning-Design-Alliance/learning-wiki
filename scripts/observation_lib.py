@@ -1,55 +1,70 @@
 #!/usr/bin/env python3
 """
-observation_lib.py — the structured record of what a study actually observed.
+observation_lib.py — the structured record of what a study actually did.
 
 A claim page argues something; an observation file records the configuration
 that argument rests on. `d = .78` is not a weight between two concepts, it is
-one measurement of one intervention on one population in one setting against
-one comparison at one point in time. This module is the schema for that tuple,
-and the validator for it.
+one measurement of one configuration on one population against one comparison
+at one point in time.
 
-WHY THIS IS NOT IN THE CLAIM'S FRONTMATTER
-------------------------------------------
-The obvious home is a `sources[]` entry, and it is the wrong one, for two
-reasons that were established by reading the code rather than guessed at:
+THREE LEVELS, NOT TWO (schema_version 2)
+----------------------------------------
+v1 had two: a `study` whose population/context/intervention were assumed
+SINGULAR, and the observations under it. That middle assumption is a
+primary-study assumption, and it broke the moment a meta-analysis and a
+three-arm trial were put through it. So the levels are now:
 
-1. `sources[]` is DERIVED, not authored. `sync_evidence_codes.py --apply`
-   rebuilds the whole block from the body's `## Evidence` section through
-   `okf_lib.dump_frontmatter`, which emits exactly id/resource/title/author/
-   q/i/n. Anything else nested there is silently destroyed on the next run —
-   and that script runs inside `run_scrape_batch.py`'s unattended chain.
-2. `lint.check_source_entry_keys` holds a closed key set at four-space indent,
-   precisely so a rewrite that lands on a YAML key is caught. A new key there
-   is indistinguishable from that damage.
+  study          the SOURCE. What the report is, and by what method it produced
+                 results. `synthesis:` appears iff it pools other people's work.
+  evidence_base  what the results are ABOUT: who or what was counted, in what
+                 population and context, and the ARMS the source contrasts.
+  observations   the individual results, each naming one comparison of arms,
+                 at one time, on one outcome, with its own analysed sample.
 
-And a third reason from the data: a study is cited by many claims (the wiki
-has 12,893 citations over ~1,232 author-year keys). An observation belongs to
-the STUDY, not to any one claim that appeals to it. Copying it per claim is
-the drift shape this repo has lost weeks to on DOIs.
+The generalisation that makes one schema fit both shapes is **arms +
+comparisons**. A three-arm trial's "unenhanced elaboration vs baseline" and a
+meta-analysis's "spaced online education vs massed online education" are the
+same object — a contrast between two named configurations. The synthesis just
+pools that contrast across studies instead of measuring it once. Nothing about
+a meta-analysis needed a parallel set of fields; it needed the middle layer to
+stop assuming there was exactly one group of people.
 
-So: one file per study, keyed by the same author-year key `check_citations.py`
-and `authorities.ndjson` already use, and NOT ONE BYTE of any existing claim
-page changes. `appears_in` carries the join, and the validator checks it
-resolves — so renaming a claim or an evidence heading fails lint rather than
-silently orphaning the record.
+EVERY COUNT CARRIES ITS UNIT
+----------------------------
+The corpus had already proved this necessary before either fixture was
+written. Its evidence entries carry `n=18`, `n=30 studies`, `n=66 articles`,
+`n=N/A` and `n=large (aggregated)` — one field doing four jobs, so nothing can
+read it. Here a count is `{value, unit}` and `unit` is required: 23 studies and
+3371 participants are two different facts about one synthesis, and both are
+recorded.
+
+WHY NOT IN THE CLAIM'S FRONTMATTER
+----------------------------------
+`sources[]` is DERIVED: `sync_evidence_codes.py --apply` rebuilds it from the
+body's `## Evidence` through `okf_lib.dump_frontmatter`, which emits exactly
+id/resource/title/author/q/i/n — so anything nested there dies on the next run
+of a script already in the unattended batch chain. `check_source_entry_keys`
+also holds a closed key set there on purpose. And a study is cited by many
+claims, so a per-claim copy is the drift shape this repo has lost weeks to.
 
 ABSENCE IS NOT A VERDICT
 ------------------------
-The same discipline as `crossref_reachable: false` vs `flagged`, and `"doi":
-null` vs an absent `doi`. An omitted field means "not established". A field
-under `observability` set to `unreported` means "somebody read the paper and
-it does not say". Only the second is evidence about the paper. Nothing here
-may be inferred: `study.design.family` is what the authors call their design,
-not what the description sounds like.
+An omitted field means "not established". `observability.<field>: unreported`
+means "somebody read the source and it does not say". And
+`study.synthesis.attempted_but_precluded` means a third thing again — the
+authors TRIED an analysis and could not complete it, which is a finding about
+the evidence base rather than a silence. Martinengo et al. attempted subgroup
+analyses and publication-bias assessment and were precluded by both the number
+of studies and their heterogeneity; recording that as `unreported` would lose
+the reason and recording it as absent would lose the attempt.
 
 A RESEARCH OBSERVATION IS NOT A DESIGN HYPOTHESIS
 -------------------------------------------------
 There is deliberately NO field saying "this supports design edge X". A design
-logic model says "Goal A is intended to contribute to Outcome B"; a research
-observation says "Study S measured relationship R between configuration A and
-outcome B under population/context C". The second may later be offered as
-evidence for or against the first, by something that weighs it. It does not
-become it here, and this schema gives no way to write that it does.
+logic model says "Goal A is intended to contribute to Outcome B"; a record here
+says "Study S observed relationship R between configuration A and outcome B
+under population/context C". The second may later be offered as evidence for or
+against the first, by something that weighs it. It does not become it here.
 """
 
 from __future__ import annotations
@@ -62,7 +77,7 @@ from pathlib import Path
 
 try:
     import yaml
-except ModuleNotFoundError:  # pragma: no cover - environment problem, not a data problem
+except ModuleNotFoundError:  # pragma: no cover - environment problem, not data
     print("observation_lib needs PyYAML (pip install -r requirements-docs.txt)",
           file=sys.stderr)
     raise
@@ -70,16 +85,16 @@ except ModuleNotFoundError:  # pragma: no cover - environment problem, not a dat
 WIKI_ROOT = Path(__file__).parent.parent
 OBS_DIR = WIKI_ROOT / "observations"
 
-SCHEMA_VERSION = 1
+SCHEMA_VERSION = 2
 
 # ---------------------------------------------------------------- vocabularies
 #
-# Closed where a closed set is defensible and the cost of a wrong value is a
-# silently mis-weighted study; open (free text) everywhere the user's own
-# language carries information a category would throw away. Population,
-# context and intervention are open ON PURPOSE — a closed demographic
-# ontology would force "newly arrived migrant students aged 11-19 in nine
-# north-east Italian secondary schools" into a box that loses the study.
+# Closed where a wrong value silently mis-weights a study; open (free text)
+# wherever the author's own language carries information a category would throw
+# away. Population, context, arm descriptions and all prose stay open ON
+# PURPOSE — a closed demographic ontology would force "newly arrived migrant
+# students aged 11-19 across nine north-east Italian secondary schools" into a
+# box that loses the study.
 
 DESIGN_FAMILIES = {
     "randomized-controlled-trial", "quasi-experimental", "observational",
@@ -87,83 +102,80 @@ DESIGN_FAMILIES = {
     "systematic-review", "simulation", "other",
 }
 
+# Families whose results are ABOUT other studies rather than about people the
+# authors measured. These require `study.synthesis` and an evidence_base
+# counted in studies.
+SYNTHESIS_FAMILIES = {"meta-analysis", "systematic-review"}
+
 MEASURE_TYPES = {
     "cohens_d", "hedges_g", "odds_ratio", "risk_ratio", "correlation",
     "mean_difference", "standardized_mean_difference", "regression_coefficient",
     "probability", "count", "qualitative", "other",
-    # Added beyond the commissioning list: partial eta squared is the effect
-    # size an ANOVA actually prints, and the first fixture that needed it
-    # (Frolli et al. 2023, partial η² = 0.827) would otherwise have been
-    # filed under `other` — which is where a value goes to stop being
+    # Beyond the commissioning list: partial eta squared is the effect size an
+    # ANOVA actually prints, and `other` is where a value stops being
     # comparable with anything.
     "eta_squared", "partial_eta_squared",
 }
 
-DIRECTIONS = {"higher-is-better", "lower-is-better", "contextual"}
-
-# The subset of MEASURE_TYPES that quantify a RELATIONSHIP rather than
-# describe a sample. The distinction matters for exactly one rule below, and
-# the first fixture to need it was a SILL mean of 3.09 sitting beside
-# `effect_size: unreported` — both true at once, because a mean is not an
-# effect. Conflating the two would have forced the author to either delete a
-# real number or claim an effect size the paper never printed.
+# The subset that quantifies a RELATIONSHIP rather than describing a sample.
+# A SILL mean of 3.09 beside `effect_size: unreported` is two true statements;
+# an odds ratio beside it is a contradiction.
 EFFECT_MEASURE_TYPES = {
     "cohens_d", "hedges_g", "odds_ratio", "risk_ratio", "correlation",
     "mean_difference", "standardized_mean_difference", "regression_coefficient",
     "eta_squared", "partial_eta_squared",
 }
 
-# The Learning Design Spec separates a learner capability from a valued
-# outcome and uses a logic model for the hypothesised link between them. A
-# study's dependent variable is not automatically a learner competency —
-# "training completion -> workplace performance" measures neither end as a
-# capability. `other` and `ambiguous` exist so the classification can decline.
-OUTCOME_ROLES = {
-    "capability-evidence",    # performance evidence of a learner competency
-    "proximal-outcome",       # immediate learning outcome
-    "intermediate-outcome",
-    "distal-outcome",
-    "organizational-outcome", # institution, employer, community
-    "learner-characteristic", # a trait/state measured about the learner, not a capability
-    "other",
+# What a count counts. Required on every {value, unit} pair, because the wiki's
+# own `n=` field already proved that a bare number is unreadable.
+COUNT_UNITS = {
+    "participants", "studies", "reports", "classes", "schools", "sites",
+    "effect-sizes", "comparisons", "pairs", "items", "sessions", "other",
 }
 
-# How the role above was arrived at. `inferred` is honest and useful;
-# silently presenting an inference as the source's own framing is not.
+DIRECTIONS = {"higher-is-better", "lower-is-better", "contextual"}
+
+# The Learning Design Spec separates a learner capability from a valued
+# outcome. A dependent variable is not automatically a competency —
+# "training completion -> workplace performance" measures neither end as one.
+OUTCOME_ROLES = {
+    "capability-evidence", "proximal-outcome", "intermediate-outcome",
+    "distal-outcome", "organizational-outcome", "learner-characteristic",
+    "other",
+}
 ROLE_BASIS = {"stated", "inferred", "ambiguous"}
 
-# Who defines, values, measures or is affected by an outcome — recorded ONLY
-# where the source identifies them. A researcher measuring graduation does not
-# establish that a learner, an employer or a government values graduation, and
-# there is no default value for this field for exactly that reason.
+# Recorded ONLY where the source identifies them. A researcher measuring
+# graduation does not establish that anybody values graduation, so this field
+# has no default.
 ACTORS = {"learner", "teacher", "institution", "employer", "community",
           "government", "researcher", "other"}
 
 OBSERVABILITY_STATES = {"observed", "partial", "unreported"}
 
-# Kept separate from `flagged`-style findings: what an extraction was, and
-# whether anybody has checked it, must stay answerable for every record so a
-# published finding is never confusable with runtime learner data, a synthetic
-# learner, or a relationship an LLM proposed.
 SOURCE_TYPES = {"research", "runtime-learner-data", "synthetic-simulation",
                 "llm-proposed", "platform-experiment"}
 VERIFICATION_STATES = {"unverified", "machine-checked", "human-reviewed"}
 
+# What an arm IS within the evidence base. `corpus-stratum` is what makes one
+# mechanism serve a synthesis: "spaced online education (17 of 23 studies)" is
+# an arm of the corpus, not a group of people in a room.
+ARM_ROLES = {"intervention", "comparator", "baseline", "corpus-stratum", "other"}
+
 COMPARISON_KINDS = {
-    "between-groups",          # a separate group of people
+    "between-groups",          # separate people, or separate corpus strata
     "within-subject-baseline", # the same people, earlier
-    "historical",              # a different cohort, earlier
+    "historical",
     "none",                    # explicitly no counterfactual — recorded, never omitted
     "other",
 }
 
-TIME_UNITS = {"minutes", "hours", "days", "weeks", "months", "years", "sessions", "items"}
+TIME_UNITS = {"minutes", "hours", "days", "weeks", "months", "years",
+              "sessions", "items", "readings"}
+
+HETEROGENEITY_STATISTICS = {"I2", "tau2", "Q", "H", "other"}
 
 KEY_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
-
-
-class ObsError(Exception):
-    """A schema violation, with the file and path already in the message."""
 
 
 # ------------------------------------------------------------------- helpers
@@ -172,15 +184,16 @@ def _err(issues: list, where: str, msg: str) -> None:
     issues.append(f"{where}: {msg}")
 
 
-def _check_enum(issues, where, value, allowed, field):
+def _enum(issues, where, value, allowed, field, required=False):
     if value is None:
+        if required:
+            _err(issues, where, f"{field} is required")
         return
     if value not in allowed:
-        _err(issues, where, f"{field} is {value!r}; expected one of "
-                            f"{', '.join(sorted(allowed))}")
+        _err(issues, where, f"{field} is {value!r}; expected one of {', '.join(sorted(allowed))}")
 
 
-def _check_str(issues, where, value, field, required=False):
+def _str(issues, where, value, field, required=False):
     if value is None or value == "":
         if required:
             _err(issues, where, f"{field} is required")
@@ -189,219 +202,335 @@ def _check_str(issues, where, value, field, required=False):
         _err(issues, where, f"{field} must be a string, got {type(value).__name__}")
 
 
-def _anchor_targets(anchors, issues, where):
+def _count(issues, where, value, field, required=False):
+    """A {value, unit} pair. The unit is not optional: the wiki's own `n=`
+    field already demonstrated what a bare number costs — `n=30 studies`,
+    `n=66 articles` and `n=18` sit in one column and nothing can read it."""
+    if value is None:
+        if required:
+            _err(issues, where, f"{field} is required")
+        return
+    if not isinstance(value, dict):
+        _err(issues, where, f"{field} must be a mapping {{value, unit}}")
+        return
+    if not isinstance(value.get("value"), (int, float)):
+        _err(issues, where, f"{field}.value must be a number")
+    _enum(issues, where, value.get("unit"), COUNT_UNITS, f"{field}.unit", required=True)
+
+
+def _anchors(anchors, issues, where):
     """Wiki concept anchors are bundle-relative page paths without the .md.
 
-    Source language is preserved alongside them and is never replaced by
-    them: the point is `human concept anchors + raw source-described
-    variables`, not ontology conformity. An anchor that does not resolve is
-    an error, because an anchor nobody can follow is worse than none."""
+    Source language is preserved alongside them and never replaced by them:
+    the point is `human concept anchors + raw source-described variables`, not
+    ontology conformity. An anchor nobody can follow is worse than none."""
     for a in anchors or []:
         if not isinstance(a, str):
             _err(issues, where, f"anchor {a!r} must be a string like 'principles/game-based-learning'")
-            continue
-        if not (WIKI_ROOT / f"{a}.md").is_file():
+        elif not (WIKI_ROOT / f"{a}.md").is_file():
             _err(issues, where, f"anchor {a!r} does not resolve to a page on disk")
+
+
+def _elements(elements, issues, where):
+    for i, el in enumerate(elements or []):
+        w = f"{where}.elements[{i}]"
+        if not isinstance(el, dict):
+            _err(issues, w, "must be a mapping with at least `term`")
+            continue
+        _str(issues, w, el.get("term"), "term", required=True)
+        _anchors(el.get("anchors"), issues, w)
 
 
 # -------------------------------------------------------------- the validator
 
 def validate_record(rec: dict, key: str, claim_index: dict | None = None) -> list:
-    """Return a list of human-readable problems. Empty list means valid.
-
-    Pure apart from the two filesystem lookups (`_anchor_targets` and the
-    `appears_in` resolution), which is what makes the decision logic testable
-    offline the way `resolve_citation_metadata.decide()` is."""
+    """Return a list of human-readable problems. Empty list means valid."""
     issues: list = []
     if not isinstance(rec, dict):
         return [f"{key}: file does not contain a YAML mapping"]
 
-    version = rec.get("schema_version")
-    if version != SCHEMA_VERSION:
-        _err(issues, key, f"schema_version is {version!r}; this reader understands {SCHEMA_VERSION}")
+    if rec.get("schema_version") != SCHEMA_VERSION:
+        _err(issues, key, f"schema_version is {rec.get('schema_version')!r}; "
+                          f"this reader understands {SCHEMA_VERSION}")
 
-    # ---- study
+    family = _validate_study(rec, key, issues)
+    _validate_provenance(rec, key, issues)
+    _validate_appears_in(rec, key, issues, claim_index)
+    arm_ids = _validate_evidence_base(rec, key, issues, family)
+    comp_ids = _validate_comparisons(rec, key, issues, arm_ids)
+
+    obs = rec.get("observations")
+    if not isinstance(obs, list) or not obs:
+        _err(issues, key, "observations: at least one is required")
+        obs = []
+    seen: set = set()
+    for i, o in enumerate(obs):
+        issues.extend(_validate_observation(o, key, i, comp_ids, seen, family))
+    return issues
+
+
+def _validate_study(rec, key, issues) -> str | None:
     study = rec.get("study")
     if not isinstance(study, dict):
         _err(issues, key, "study: block is required")
-        study = {}
+        return None
+    where = f"{key}.study"
     if study.get("key") != key:
-        _err(issues, f"{key}.study", f"key is {study.get('key')!r} but the filename says {key!r}")
+        _err(issues, where, f"key is {study.get('key')!r} but the filename says {key!r}")
     if study.get("key") and not KEY_RE.match(str(study["key"])):
-        _err(issues, f"{key}.study", "key must be lowercase-hyphenated (the author-year citation key)")
-    _check_str(issues, f"{key}.study", study.get("citation"), "citation", required=True)
-    # doi: absent means not established; an explicit null means a human
-    # established that none is registered. Both are legal; a non-string
-    # non-null is not.
+        _err(issues, where, "key must be lowercase-hyphenated ASCII (the author-year citation key)")
+    _str(issues, where, study.get("citation"), "citation", required=True)
+    # doi: absent means not established; explicit null means a human
+    # established none is registered. Both legal; a non-string non-null is not.
     if "doi" in study and study["doi"] is not None and not isinstance(study["doi"], str):
-        _err(issues, f"{key}.study", "doi must be a string or null (null = established that none exists)")
+        _err(issues, where, "doi must be a string or null (null = established that none exists)")
 
     design = study.get("design") or {}
     if not isinstance(design, dict):
-        _err(issues, f"{key}.study", "design must be a mapping")
+        _err(issues, where, "design must be a mapping")
         design = {}
-    if not design.get("family"):
-        _err(issues, f"{key}.study.design", "family is required — never infer a stronger "
-                                            "design than the source states")
-    _check_enum(issues, f"{key}.study.design", design.get("family"), DESIGN_FAMILIES, "family")
-    _check_str(issues, f"{key}.study.design", design.get("design_detail"), "design_detail")
+    family = design.get("family")
+    _enum(issues, f"{where}.design", family, DESIGN_FAMILIES, "family", required=True)
+    _str(issues, f"{where}.design", design.get("design_detail"), "design_detail")
 
-    # ---- provenance
+    synth = study.get("synthesis")
+    if family in SYNTHESIS_FAMILIES:
+        if not isinstance(synth, dict):
+            _err(issues, where, f"design.family is {family!r} so `synthesis:` is required — "
+                                f"the method by which results were pooled is the design")
+        else:
+            _validate_synthesis(synth, f"{where}.synthesis", issues)
+    elif synth is not None:
+        _err(issues, where, f"`synthesis:` is present but design.family is {family!r}; "
+                            f"it belongs only to {' or '.join(sorted(SYNTHESIS_FAMILIES))}")
+    return family
+
+
+def _validate_synthesis(synth, where, issues):
+    _str(issues, where, synth.get("model"), "model", required=True)
+    _str(issues, where, synth.get("heterogeneity_statistic"), "heterogeneity_statistic")
+    for f in ("quality_tool", "certainty_framework", "reporting_guideline"):
+        _str(issues, where, synth.get(f), f)
+    search = synth.get("search")
+    if search is not None and not isinstance(search, dict):
+        _err(issues, where, "search must be a mapping")
+    # The third epistemic state, alongside absent and `unreported`: the authors
+    # TRIED and could not. Losing the attempt loses a fact about the evidence
+    # base, not about the reporting.
+    for i, a in enumerate(synth.get("attempted_but_precluded") or []):
+        w = f"{where}.attempted_but_precluded[{i}]"
+        if not isinstance(a, dict):
+            _err(issues, w, "must be a mapping with analysis and reason")
+            continue
+        _str(issues, w, a.get("analysis"), "analysis", required=True)
+        _str(issues, w, a.get("reason"), "reason", required=True)
+
+
+def _validate_provenance(rec, key, issues):
     prov = rec.get("provenance")
+    where = f"{key}.provenance"
     if not isinstance(prov, dict):
-        _err(issues, key, "provenance: block is required — a research-derived record must "
-                          "stay distinguishable from runtime, synthetic and LLM-proposed data")
-        prov = {}
-    _check_enum(issues, f"{key}.provenance", prov.get("source_type"), SOURCE_TYPES, "source_type")
-    if not prov.get("source_type"):
-        _err(issues, f"{key}.provenance", "source_type is required")
-    _check_enum(issues, f"{key}.provenance", prov.get("verification"), VERIFICATION_STATES, "verification")
+        _err(issues, key, "provenance: block is required — a research-derived record must stay "
+                          "distinguishable from runtime, synthetic and LLM-proposed data")
+        return
+    _enum(issues, where, prov.get("source_type"), SOURCE_TYPES, "source_type", required=True)
+    _enum(issues, where, prov.get("verification"), VERIFICATION_STATES, "verification")
     for f in ("extracted_by", "extraction_method"):
-        _check_str(issues, f"{key}.provenance", prov.get(f), f, required=True)
-    # YAML resolves an unquoted 2026-09-07 to a datetime.date, and quoting it
-    # is the kind of detail an author gets wrong once per file. Accept both
-    # spellings rather than making the schema depend on a quoting convention.
+        _str(issues, where, prov.get(f), f, required=True)
     at = prov.get("extracted_at")
     if at is None or at == "":
-        _err(issues, f"{key}.provenance", "extracted_at is required")
+        _err(issues, where, "extracted_at is required")
     elif not isinstance(at, (str, date)):
-        _err(issues, f"{key}.provenance", "extracted_at must be a date or an ISO date string")
+        _err(issues, where, "extracted_at must be a date or an ISO date string")
     # Same rule as a page's `verified:` and as authorities.ndjson: a machine
     # may not certify its own extraction.
-    if prov.get("verification") == "human-reviewed":
-        by = str(prov.get("verified_by") or "")
-        if not by.startswith("human:"):
-            _err(issues, f"{key}.provenance",
-                 "verification is 'human-reviewed' but verified_by is not a human:<id> — "
-                 "an agent must never mark its own extraction reviewed")
+    if prov.get("verification") == "human-reviewed" \
+            and not str(prov.get("verified_by") or "").startswith("human:"):
+        _err(issues, where, "verification is 'human-reviewed' but verified_by is not a "
+                            "human:<id> — an agent must never mark its own extraction reviewed")
 
-    # ---- appears_in
-    appears = rec.get("appears_in") or []
-    if not isinstance(appears, list) or not appears:
-        _err(issues, key, "appears_in: at least one {claim, anchor} is required — an "
-                          "observation nothing cites is unreachable")
-        appears = []
+
+def _validate_appears_in(rec, key, issues, claim_index):
+    """Optional, and validated when present.
+
+    v1 required it. That was backwards: the store is keyed by STUDY, and a
+    structured record of a real study is valid evidence whether or not anyone
+    has yet written an argument that appeals to it — requiring a claim first
+    makes the evidence layer depend on the argument layer. The ratchet is
+    kept where it belongs: a listed claim and anchor must still resolve, so a
+    rename fails here rather than silently orphaning the record.
+    `check_observations.py --summary` reports records nothing cites."""
+    appears = rec.get("appears_in")
+    if appears is None:
+        return
+    if not isinstance(appears, list):
+        _err(issues, key, "appears_in must be a list (possibly empty)")
+        return
     for i, ref in enumerate(appears):
         where = f"{key}.appears_in[{i}]"
         if not isinstance(ref, dict):
             _err(issues, where, "must be a mapping with claim and anchor")
             continue
         slug, anchor = ref.get("claim"), ref.get("anchor")
-        _check_str(issues, where, slug, "claim", required=True)
-        _check_str(issues, where, anchor, "anchor", required=True)
+        _str(issues, where, slug, "claim", required=True)
+        _str(issues, where, anchor, "anchor", required=True)
         if claim_index is not None and slug:
             anchors = claim_index.get(slug)
             if anchors is None:
                 _err(issues, where, f"claims/{slug}.md does not exist")
             elif anchor and anchor not in anchors:
-                _err(issues, where,
-                     f"claims/{slug}.md has no '### ' evidence heading with anchor {anchor!r} "
-                     f"(it has: {', '.join(sorted(anchors)) or 'none'})")
+                _err(issues, where, f"claims/{slug}.md has no '### ' evidence heading with "
+                                    f"anchor {anchor!r} (it has: "
+                                    f"{', '.join(sorted(anchors)) or 'none'})")
 
-    # ---- population / context: open-world, so only shape is checked
-    for block in ("population", "context", "intervention"):
-        val = rec.get(block)
-        if val is not None and not isinstance(val, dict):
-            _err(issues, key, f"{block} must be a mapping")
-    pop = rec.get("population") or {}
-    if "n" in pop and pop["n"] is not None and not isinstance(pop["n"], int):
-        _err(issues, f"{key}.population", "n must be an integer or absent")
 
-    inter = rec.get("intervention") or {}
-    for i, el in enumerate(inter.get("elements") or []):
-        where = f"{key}.intervention.elements[{i}]"
-        if not isinstance(el, dict):
-            _err(issues, where, "must be a mapping with at least `term`")
+def _validate_evidence_base(rec, key, issues, family) -> set:
+    """What the results are ABOUT. Returns the set of arm ids."""
+    eb = rec.get("evidence_base")
+    where = f"{key}.evidence_base"
+    if not isinstance(eb, dict):
+        _err(issues, key, "evidence_base: block is required")
+        return set()
+
+    _enum(issues, where, eb.get("unit"), COUNT_UNITS, "unit", required=True)
+    _count(issues, where, eb.get("size"), "size", required=True)
+    # The size and the unit have to agree, or the record says two things.
+    if isinstance(eb.get("size"), dict) and eb.get("unit") \
+            and eb["size"].get("unit") not in (None, eb["unit"]):
+        _err(issues, where, f"unit is {eb['unit']!r} but size.unit is "
+                            f"{eb['size'].get('unit')!r}")
+    # A synthesis is counted in studies (or reports). Counting it in
+    # participants is the v1 mistake: 3371 participants is a real fact about
+    # this synthesis and it is NOT the number of things it pooled.
+    if family in SYNTHESIS_FAMILIES and eb.get("unit") not in ("studies", "reports", "effect-sizes"):
+        _err(issues, where, f"design.family is {family!r} but evidence_base.unit is "
+                            f"{eb.get('unit')!r} — a synthesis is counted in what it pooled; "
+                            f"put the participant total in additional_sizes")
+    for i, s in enumerate(eb.get("additional_sizes") or []):
+        w = f"{where}.additional_sizes[{i}]"
+        _count(issues, w, s, "additional size", required=True)
+        if isinstance(s, dict):
+            _str(issues, w, s.get("note"), "note", required=True)
+
+    for block in ("population", "context"):
+        if eb.get(block) is not None and not isinstance(eb[block], dict):
+            _err(issues, where, f"{block} must be a mapping")
+
+    # How the base VARIES. A single sample has one population; a corpus of 23
+    # studies has a distribution over populations, and flattening that to a
+    # description loses the thing that makes pooling questionable.
+    for i, v in enumerate(eb.get("variation") or []):
+        w = f"{where}.variation[{i}]"
+        if not isinstance(v, dict):
+            _err(issues, w, "must be a mapping with dimension and distribution")
             continue
-        _check_str(issues, where, el.get("term"), "term", required=True)
-        _anchor_targets(el.get("anchors"), issues, where)
+        _str(issues, w, v.get("dimension"), "dimension", required=True)
+        _str(issues, w, v.get("distribution"), "distribution", required=True)
 
-    # ---- comparisons
-    comparisons = rec.get("comparisons") or []
-    comp_ids = set()
+    arm_ids: set = set()
+    arms = eb.get("arms")
+    if arms is None:
+        arms = []
+    if not isinstance(arms, list):
+        _err(issues, where, "arms must be a list (possibly empty)")
+        arms = []
+    for i, arm in enumerate(arms):
+        w = f"{where}.arms[{i}]"
+        if not isinstance(arm, dict):
+            _err(issues, w, "must be a mapping")
+            continue
+        aid = arm.get("id")
+        _str(issues, w, aid, "id", required=True)
+        if aid in arm_ids:
+            _err(issues, w, f"duplicate arm id {aid!r}")
+        arm_ids.add(aid)
+        _enum(issues, w, arm.get("role"), ARM_ROLES, "role", required=True)
+        _str(issues, w, arm.get("description"), "description", required=True)
+        if arm.get("size") is not None:
+            _count(issues, w, arm.get("size"), "size")
+        _elements(arm.get("elements"), issues, w)
+    return arm_ids
+
+
+def _validate_comparisons(rec, key, issues, arm_ids) -> set:
+    comparisons = rec.get("comparisons")
     if not isinstance(comparisons, list):
         _err(issues, key, "comparisons must be a list")
-        comparisons = []
+        return set()
+    comp_ids: set = set()
     for i, comp in enumerate(comparisons):
         where = f"{key}.comparisons[{i}]"
         if not isinstance(comp, dict):
             _err(issues, where, "must be a mapping")
             continue
         cid = comp.get("id")
-        _check_str(issues, where, cid, "id", required=True)
+        _str(issues, where, cid, "id", required=True)
         if cid in comp_ids:
             _err(issues, where, f"duplicate comparison id {cid!r}")
         comp_ids.add(cid)
-        _check_enum(issues, where, comp.get("kind"), COMPARISON_KINDS, "kind")
-        if not comp.get("kind"):
-            _err(issues, where, "kind is required — 'none' is a value, not an omission")
-        _check_str(issues, where, comp.get("description"), "description", required=True)
-        for j, el in enumerate(comp.get("elements") or []):
-            w2 = f"{where}.elements[{j}]"
-            if not isinstance(el, dict):
-                _err(issues, w2, "must be a mapping with at least `term`")
-                continue
-            _check_str(issues, w2, el.get("term"), "term", required=True)
-            _anchor_targets(el.get("anchors"), issues, w2)
-
-    # ---- observations
-    obs = rec.get("observations")
-    if not isinstance(obs, list) or not obs:
-        _err(issues, key, "observations: at least one is required")
-        obs = []
-    seen_ids = set()
-    for i, o in enumerate(obs):
-        issues.extend(_validate_observation(o, key, i, comp_ids, seen_ids))
-    return issues
+        kind = comp.get("kind")
+        _enum(issues, where, kind, COMPARISON_KINDS, "kind", required=True)
+        _str(issues, where, comp.get("description"), "description", required=True)
+        # Arms are what make a multi-arm design representable: three arms give
+        # three pairwise contrasts, and each observation says which one it is.
+        for field in ("index_arm", "reference_arm"):
+            arm = comp.get(field)
+            if arm is None:
+                if kind not in ("none", "within-subject-baseline"):
+                    _err(issues, where, f"{field} is required for kind {kind!r} — name the "
+                                        f"arm in evidence_base.arms this contrast is over")
+            elif arm not in arm_ids:
+                _err(issues, where, f"{field} is {arm!r}, which is not an id in "
+                                    f"evidence_base.arms ({', '.join(sorted(arm_ids)) or 'none'})")
+    return comp_ids
 
 
-def _validate_observation(o: dict, key: str, i: int, comp_ids: set, seen_ids: set) -> list:
+def _validate_observation(o, key, i, comp_ids, seen, family) -> list:
     issues: list = []
     where = f"{key}.observations[{i}]"
     if not isinstance(o, dict):
         return [f"{where}: must be a mapping"]
     oid = o.get("id")
-    _check_str(issues, where, oid, "id", required=True)
+    _str(issues, where, oid, "id", required=True)
     if oid:
         where = f"{key}/{oid}"
-        if oid in seen_ids:
+        if oid in seen:
             _err(issues, where, "duplicate observation id within this study")
-        seen_ids.add(oid)
+        seen.add(oid)
 
-    # ---- outcome
+    # The analysed sample for THIS result, which is routinely not the study's.
+    # Jeon & Lee's comprehension ANOVA is F(2,59) on 62 of the 67 randomised.
+    if o.get("sample") is not None:
+        _count(issues, where, o.get("sample"), "sample")
+
     out = o.get("outcome")
     if not isinstance(out, dict):
         _err(issues, where, "outcome: block is required")
         out = {}
-    _check_str(issues, where, out.get("construct"), "outcome.construct", required=True)
-    # The source's own words survive whatever classification is applied on top.
-    _check_str(issues, where, out.get("source_language"), "outcome.source_language", required=True)
-    _check_str(issues, where, out.get("measure"), "outcome.measure")
-    _check_enum(issues, where, out.get("direction"), DIRECTIONS, "outcome.direction")
-    _check_enum(issues, where, out.get("role"), OUTCOME_ROLES, "outcome.role")
-    _check_enum(issues, where, out.get("role_basis"), ROLE_BASIS, "outcome.role_basis")
+    _str(issues, where, out.get("construct"), "outcome.construct", required=True)
+    _str(issues, where, out.get("source_language"), "outcome.source_language", required=True)
+    _str(issues, where, out.get("measure"), "outcome.measure")
+    _enum(issues, where, out.get("direction"), DIRECTIONS, "outcome.direction")
+    _enum(issues, where, out.get("role"), OUTCOME_ROLES, "outcome.role")
+    _enum(issues, where, out.get("role_basis"), ROLE_BASIS, "outcome.role_basis")
     if out.get("role") and not out.get("role_basis"):
         _err(issues, where, "outcome.role is set but role_basis is not — say whether the "
                             "source stated this classification or you inferred it")
     for j, v in enumerate(out.get("valued_by") or []):
-        w2 = f"{where}.outcome.valued_by[{j}]"
+        w = f"{where}.outcome.valued_by[{j}]"
         if not isinstance(v, dict):
-            _err(issues, w2, "must be a mapping with actor and basis")
+            _err(issues, w, "must be a mapping with actor and basis")
             continue
-        _check_enum(issues, w2, v.get("actor"), ACTORS, "actor")
-        # No inferring a stakeholder's values from the fact that a study
-        # measured something. If the source does not say who values it, the
-        # list stays empty.
-        _check_str(issues, w2, v.get("basis"), "basis", required=True)
-    _anchor_targets(out.get("anchors"), issues, f"{where}.outcome")
+        _enum(issues, w, v.get("actor"), ACTORS, "actor")
+        _str(issues, w, v.get("basis"), "basis", required=True)
+    _anchors(out.get("anchors"), issues, f"{where}.outcome")
 
-    # ---- time
     t = o.get("time")
     if not isinstance(t, dict):
         _err(issues, where, "time: block is required — an immediate effect and a "
                             "three-month effect are different observations")
         t = {}
-    _check_str(issues, where, t.get("label"), "time.label", required=True)
+    _str(issues, where, t.get("label"), "time.label", required=True)
     off = t.get("offset")
     if off is not None:
         if not isinstance(off, dict):
@@ -409,37 +538,11 @@ def _validate_observation(o: dict, key: str, i: int, comp_ids: set, seen_ids: se
         else:
             if not isinstance(off.get("value"), (int, float)):
                 _err(issues, where, "time.offset.value must be a number")
-            _check_enum(issues, where, off.get("unit"), TIME_UNITS, "time.offset.unit")
-            _check_str(issues, where, off.get("from"), "time.offset.from", required=True)
+            _enum(issues, where, off.get("unit"), TIME_UNITS, "time.offset.unit")
+            _str(issues, where, off.get("from"), "time.offset.from", required=True)
 
-    # ---- result
-    r = o.get("result")
-    if not isinstance(r, dict):
-        _err(issues, where, "result: block is required")
-        r = {}
-    mt = r.get("measure_type")
-    _check_enum(issues, where, mt, MEASURE_TYPES, "result.measure_type")
-    if not mt:
-        _err(issues, where, "result.measure_type is required — it is the ONLY required "
-                            "field of a result, so a study reporting no effect size is "
-                            "still representable")
-    if mt == "qualitative":
-        _check_str(issues, where, r.get("finding"), "result.finding", required=True)
-        _check_enum(issues, where, r.get("perspective"),
-                    {"participant", "researcher", "mixed"}, "result.perspective")
-        if r.get("estimate") is not None:
-            _err(issues, where, "a qualitative result must not carry an `estimate` — "
-                                "reducing a qualitative finding to a number invents one")
-    for f in ("estimate", "ci_lower", "ci_upper", "standard_error"):
-        v = r.get(f)
-        if v is not None and not isinstance(v, (int, float)):
-            _err(issues, where, f"result.{f} must be a number or absent (got {v!r}); "
-                                f"a p-value written as '<.001' belongs in p_value, "
-                                f"which is free text")
-    if (r.get("ci_lower") is None) != (r.get("ci_upper") is None):
-        _err(issues, where, "result.ci_lower and result.ci_upper must be given together")
+    issues.extend(_validate_result(o, where, family))
 
-    # ---- comparison
     cref = o.get("comparison_ref")
     if cref is None:
         _err(issues, where, "comparison_ref is required — name a comparison, including "
@@ -448,43 +551,108 @@ def _validate_observation(o: dict, key: str, i: int, comp_ids: set, seen_ids: se
         _err(issues, where, f"comparison_ref {cref!r} names no entry in this study's "
                             f"comparisons ({', '.join(sorted(comp_ids)) or 'none defined'})")
 
-    # ---- moderators
     mods = o.get("moderators") or {}
     if not isinstance(mods, dict):
         _err(issues, where, "moderators must be a mapping with `reported` and/or `candidate`")
         mods = {}
     for j, m in enumerate(mods.get("reported") or []):
-        w2 = f"{where}.moderators.reported[{j}]"
+        w = f"{where}.moderators.reported[{j}]"
         if not isinstance(m, dict):
-            _err(issues, w2, "must be a mapping with variable and relationship")
+            _err(issues, w, "must be a mapping with variable and relationship")
             continue
-        _check_str(issues, w2, m.get("variable"), "variable", required=True)
-        _check_str(issues, w2, m.get("relationship"), "relationship", required=True)
-        # `reported` means the study said it. A plausible explanation belongs
-        # in `candidate`, where nothing downstream will read it as a finding.
-        _check_str(issues, w2, m.get("source_quote"), "source_quote", required=True)
+        _str(issues, w, m.get("variable"), "variable", required=True)
+        _str(issues, w, m.get("relationship"), "relationship", required=True)
+        # `reported` asserts the study said it. A plausible explanation belongs
+        # in `candidate`, where nothing downstream reads it as a finding.
+        _str(issues, w, m.get("source_quote"), "source_quote", required=True)
 
-    # ---- observability
     obsv = o.get("observability")
     if not isinstance(obsv, dict):
-        _err(issues, where, "observability: block is required — absence of a detail must "
-                            "be sayable, so it is not read as absence of an effect")
+        _err(issues, where, "observability: block is required — absence of a detail must be "
+                            "sayable, so it is not read as absence of an effect")
         obsv = {}
     for f in ("population_detail", "implementation_detail", "outcome_timing", "effect_size"):
-        if f not in obsv:
-            _err(issues, where, f"observability.{f} is required")
-        _check_enum(issues, where, obsv.get(f), OBSERVABILITY_STATES, f"observability.{f}")
-    # The one cross-field rule worth enforcing: an effect ESTIMATE and "the
-    # effect size was not reported" cannot both be true. Scoped to
-    # EFFECT_MEASURE_TYPES so a descriptive statistic — a mean, a count, a
-    # proportion — can sit beside an honest `unreported` without a fight.
+        _enum(issues, where, obsv.get(f), OBSERVABILITY_STATES, f"observability.{f}", required=True)
+
+    r = o.get("result") or {}
     if (obsv.get("effect_size") == "unreported"
-            and mt in EFFECT_MEASURE_TYPES
+            and r.get("measure_type") in EFFECT_MEASURE_TYPES
             and r.get("estimate") is not None):
         _err(issues, where, "observability.effect_size says 'unreported' but result.estimate "
-                            "carries a number")
+                            "carries an effect estimate")
 
-    _check_str(issues, where, o.get("source_quote"), "source_quote", required=True)
+    _str(issues, where, o.get("source_quote"), "source_quote", required=True)
+    return issues
+
+
+def _validate_result(o, where, family) -> list:
+    issues: list = []
+    r = o.get("result")
+    if not isinstance(r, dict):
+        _err(issues, where, "result: block is required")
+        return issues
+    mt = r.get("measure_type")
+    _enum(issues, where, mt, MEASURE_TYPES, "result.measure_type", required=True)
+
+    if mt == "qualitative":
+        _str(issues, where, r.get("finding"), "result.finding", required=True)
+        _enum(issues, where, r.get("perspective"),
+              {"participant", "researcher", "mixed"}, "result.perspective")
+        if r.get("estimate") is not None:
+            _err(issues, where, "a qualitative result must not carry an `estimate` — "
+                                "reducing a qualitative finding to a number invents one")
+
+    for f in ("estimate", "ci_lower", "ci_upper", "standard_error"):
+        v = r.get(f)
+        if v is not None and not isinstance(v, (int, float)):
+            _err(issues, where, f"result.{f} must be a number or absent (got {v!r}); a p-value "
+                                f"written as '<.001' belongs in p_value, which is free text")
+    if (r.get("ci_lower") is None) != (r.get("ci_upper") is None):
+        _err(issues, where, "result.ci_lower and result.ci_upper must be given together")
+
+    # --- pooled-estimate fields. Each observation carries its OWN k: the
+    # Martinengo knowledge estimate pools 9 studies and the surgical-skills
+    # estimate pools 2, out of a corpus of 23. k on the study would be wrong
+    # for every observation in it, which is the clearest single reason the
+    # middle layer had to stop being one thing.
+    if r.get("k") is not None:
+        _count(issues, where, r.get("k"), "result.k")
+    if family in SYNTHESIS_FAMILIES and mt in EFFECT_MEASURE_TYPES and r.get("k") is None:
+        _err(issues, where, "a pooled effect from a synthesis must carry result.k — how many "
+                            "studies THIS estimate rests on, which is rarely the whole corpus")
+
+    het = r.get("heterogeneity")
+    if het is not None:
+        if not isinstance(het, dict):
+            _err(issues, where, "result.heterogeneity must be a mapping")
+        else:
+            _enum(issues, where, het.get("statistic"), HETEROGENEITY_STATISTICS,
+                  "result.heterogeneity.statistic", required=True)
+            if not isinstance(het.get("value"), (int, float)):
+                _err(issues, where, "result.heterogeneity.value must be a number")
+
+    pi = r.get("prediction_interval")
+    if pi is not None:
+        if not isinstance(pi, dict):
+            _err(issues, where, "result.prediction_interval must be a mapping {lower, upper}")
+        else:
+            for f in ("lower", "upper"):
+                if not isinstance(pi.get(f), (int, float)):
+                    _err(issues, where, f"result.prediction_interval.{f} must be a number")
+            # A prediction interval is not a confidence interval and must not
+            # be derived from one: the CI is about the mean effect, the PI
+            # about the next study. Recording a computed PI as reported would
+            # be the same act as converting a metric during ingestion.
+            _str(issues, where, pi.get("source"), "result.prediction_interval.source",
+                 required=True)
+
+    cert = r.get("certainty")
+    if cert is not None:
+        if not isinstance(cert, dict):
+            _err(issues, where, "result.certainty must be a mapping {rating, framework}")
+        else:
+            _str(issues, where, cert.get("rating"), "result.certainty.rating", required=True)
+            _str(issues, where, cert.get("framework"), "result.certainty.framework", required=True)
     return issues
 
 
@@ -494,10 +662,7 @@ EVIDENCE_HEADING_RE = re.compile(r"^### (.+)$", re.M)
 
 
 def claim_evidence_anchors() -> dict:
-    """{claim-slug: {anchor-slug, ...}} from every claim page's `## Evidence`.
-
-    The anchor slugs are what `## Subclaims` links to and what `sources[].id`
-    carries, so this is the join `appears_in` has to resolve against."""
+    """{claim-slug: {anchor-slug, ...}} from every claim page's `## Evidence`."""
     sys.path.insert(0, str(Path(__file__).parent))
     import okf_lib as ok
     index = {}
@@ -512,19 +677,15 @@ def claim_evidence_anchors() -> dict:
 
 
 def load_all(directory: Path | None = None) -> tuple[dict, list]:
-    """({study-key: record}, [parse errors]). A file that does not parse is
-    reported rather than raised, so one bad file does not hide the rest."""
     directory = directory or OBS_DIR
     records, errors = {}, []
     if not directory.is_dir():
         return records, errors
     for path in sorted(directory.glob("*.yaml")):
         try:
-            rec = yaml.safe_load(path.read_text(encoding="utf-8"))
+            records[path.stem] = yaml.safe_load(path.read_text(encoding="utf-8"))
         except yaml.YAMLError as e:
             errors.append(f"{path.name}: not valid YAML — {e}")
-            continue
-        records[path.stem] = rec
     return records, errors
 
 
@@ -537,10 +698,7 @@ def validate_all(directory: Path | None = None) -> list:
 
 
 def parse_evidence_for_stub(evidence_section: str) -> list:
-    """[(anchor-slug, citation, doi-or-None), ...] from a claim's `## Evidence`.
-
-    Reuses okf_lib's own parser rather than a second one, so a stub's anchor is
-    by construction the anchor `appears_in` has to match."""
+    """[(anchor, ascii-key, citation, doi-or-None), ...] from a `## Evidence`."""
     sys.path.insert(0, str(Path(__file__).parent))
     import okf_lib as ok
     out = []
@@ -553,14 +711,13 @@ def parse_evidence_for_stub(evidence_section: str) -> list:
 
 
 def ascii_key(anchor: str) -> str:
-    """A study key an author can type, from an evidence anchor that may not be.
+    """A study key an author can type, from an anchor that may not be.
 
-    Evidence headings carry the author's name as printed, so anchors like
-    `peskova-2026` arrive spelled `pe\u0161kov\u00e1-2026`. CLAUDE.md is explicit that a
-    non-ASCII id is an NFC/NFD normalisation trap for a repo that resolves by
-    string equality, and untypeable besides — the same reasoning that moved
-    Gagne's page to an ASCII slug. The diacritics survive in `citation`, where
-    they belong."""
+    Evidence headings carry names as printed, so anchors arrive spelled
+    `pešková-2026`. CLAUDE.md is explicit that a non-ASCII id is an NFC/NFD
+    normalisation trap for a repo resolving by string equality — the same
+    reasoning that moved Gagne's page to an ASCII slug. Diacritics survive in
+    `citation`, where they belong."""
     folded = unicodedata.normalize("NFKD", anchor)
     folded = "".join(c for c in folded if not unicodedata.combining(c))
     folded = re.sub(r"[^a-z0-9]+", "-", folded.lower()).strip("-")
