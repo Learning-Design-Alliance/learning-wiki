@@ -143,6 +143,49 @@ against the *mean of three treatment arms* — the arm lists already carried
 which arms are on which side (the same mechanism the heterogeneous comparator
 uses), and this carries the weighting as printed.
 
+### Networks: an observation may be about ONE arm
+
+A network meta-analysis broke the one rule that had held through every other
+shape: **`comparison_ref` was required on every observation.** A SUCRA is a
+ranking of one model within a whole network, resting on no contrast at all, and
+forcing it into a synthetic "against everything else" comparison would invent a
+comparison the source never made.
+
+```yaml
+observations:
+  - id: sucra-hybrid-tactical-decision-making
+    arm_ref: hybrid-models     # instead of comparison_ref — exactly one
+```
+
+**Exactly one of `comparison_ref` or `arm_ref`.** An observation is about a
+contrast between configurations *or* about one configuration's standing, never
+both and never neither. An arm named only by an `arm_ref` counts as used for the
+every-arm-must-be-named invariant.
+
+Three smaller additions came with it:
+
+- **`result.interval_type`** — required wherever `ci_lower`/`ci_upper` are given.
+  A frequentist 95% CI and a Bayesian 95% credible interval are different
+  objects, and a prediction interval is a third; unlabelled bounds say nothing
+  about which.
+- **`comparisons[].evidence_route`** — `direct` / `indirect` / `mixed`. In a
+  network an estimate for A vs B may rest on **no head-to-head study at all**,
+  inferred through the network under transitivity. That is a different kind of
+  evidence from a measured contrast.
+- **`result.publication_bias`** — `{method, p_value, finding}`, for an
+  assessment that was **run and found something**, as distinct from
+  `synthesis.attempted_but_precluded`, which records one that could not be run.
+  Guo et al. detected bias for skill execution (Egger, p = 0.0077); Martinengo
+  et al. attempted the same assessment and were precluded. Two real states.
+
+And one rule of the schema's own turned out to violate the schema's own
+principle. `result.k` was **required** on every pooled synthesis effect — until
+a network meta-analysis put its per-contrast counts in a figure rather than the
+text, leaving only two ways to comply: invent a `k`, or break the schema. Fixed
+by **`observability.pooled_k`**: a pooled effect must now say *something* about
+k, either the count or an explicit `unreported`. Absent-versus-unreported,
+applied to the rule that had forgotten it.
+
 ### A heterogeneous comparator stays one observation
 
 Either side of a comparison may name **more than one arm**:
@@ -320,7 +363,9 @@ comparisons:
 observations:                # required, non-empty
   - id:                      # required, unique in this file
     sample: {value, unit}    # the analysed n for THIS result
-    comparison_ref:          # required — names a comparison, including kind `none`
+    comparison_ref: | arm_ref:    # EXACTLY ONE. A contrast between
+                             # configurations, or one configuration's standing
+                             # (a network ranking contrasts nothing)
     outcome:
       construct:             # required — your normalised label
       source_language:       # required — the author's own wording, preserved

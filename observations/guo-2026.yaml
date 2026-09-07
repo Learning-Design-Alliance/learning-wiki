@@ -1,0 +1,376 @@
+# Guo, Yu & Malik (2026) — Bayesian network meta-analysis of pedagogical models
+# in physical education.
+#
+# THE NETWORK STRESS TEST, and it found the one break I predicted plus three
+# smaller ones. What v2 could not hold:
+#
+#   1. SUCRA IS AN ARM-LEVEL RESULT. A ranking of one model within the whole
+#      network rests on no comparison at all, and `comparison_ref` was
+#      required on every observation. Forcing it into a synthetic "against
+#      everything else" contrast would invent a comparison the source never
+#      made.  -> `arm_ref`, with exactly one of the two required.
+#   2. A Bayesian credible interval is not a confidence interval, and
+#      ci_lower/ci_upper said nothing about which.  -> `result.interval_type`,
+#      required wherever an interval is given.
+#   3. An estimate in a network may rest on no head-to-head study, inferred
+#      through the network under transitivity. That is a different KIND of
+#      evidence from a measured contrast.  -> `comparisons[].evidence_route`.
+#   4. Publication bias was ASSESSED AND FOUND here (Egger, p = 0.0077 for
+#      skill execution), where Martinengo et al. attempted it and were
+#      precluded. Two real and different states.  -> `result.publication_bias`
+#      beside `synthesis.attempted_but_precluded`.
+#
+# Arms + comparisons again did not move.
+
+schema_version: 2
+
+study:
+  key: guo-2026
+  citation: "Guo, J., Yu, Q., & Malik, Z. bin A. (2026). A network meta-analysis of pedagogical models in physical education: evaluating multidimensional learning outcomes and instructional duration effects. Frontiers in Psychology, 17, 1766890."
+  doi: "10.3389/fpsyg.2026.1766890"
+  design:
+    family: meta-analysis
+    design_detail: >-
+      Bayesian network meta-analysis of 65 quasi-experimental pre/post studies,
+      comparing five pedagogical models against each other and against
+      traditional instruction on four outcome constructs. Estimates are
+      standardized mean differences with 95% credible intervals from a Bayesian
+      random-effects model.
+  synthesis:
+    model: "Bayesian random-effects network meta-analysis, non-informative priors"
+    heterogeneity_statistic: "I2"
+    quality_tool: "MINORS (Methodological Index for Non-Randomized Studies); inter-rater κ = 0.89"
+    reporting_guideline: "Systematic search across seven databases"
+    search:
+      databases:
+        - Web of Science
+        - PubMed
+      date_range: "2000 to 2025"
+      records_screened: 1250
+      records_included: 65
+      note: "seven databases searched; the abstract names two of them"
+    inclusion:
+      - "Quasi-experimental pre- and post-test studies of pedagogical models in physical education"
+      - "Published in English"
+    data_handling:
+      - "Two independent reviewers; disagreements resolved by discussion"
+      - "MCMC with four chains, 50,000 iterations, first 20,000 discarded as burn-in; convergence by PSRF"
+      - "Local inconsistency evaluated by node-splitting, comparing direct against indirect evidence"
+      - >-
+        Indirect comparisons rest on the transitivity assumption, which the
+        authors evaluate against participant characteristics, intervention
+        implementation, outcome constructs and comparator conditions
+    attempted_but_precluded: []
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-09-07
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+evidence_base:
+  unit: studies
+  size:
+    value: 65
+    unit: studies
+  additional_sizes:
+    - value: 8027
+      unit: participants
+      note: "total participants across the 65 included studies, in 16 countries"
+    - value: 1250
+      unit: reports
+      note: "records identified by the search before screening"
+  population:
+    description: >-
+      Physical education students from K-12 through higher education, middle
+      school students the largest subgroup at 47.4%.
+    age_or_stage: "K-12 to higher education"
+  context:
+    setting: "School-based physical education programmes"
+    geography: "16 countries"
+    delivery_mode: "In-person physical education classes"
+    duration: "Interventions varied in length; see the duration moderator below"
+  variation:
+    - dimension: "Geography"
+      distribution: "Europe 63.0% (primarily Spain); Asia 18.5%; North America 10.8%"
+    - dimension: "Educational stage"
+      distribution: "K-12 through higher education, with middle school the largest subgroup at 47.4%"
+    - dimension: "Methodological quality (MINORS)"
+      distribution: >-
+        35 of 65 studies high quality (scores 19-24, 4,203 participants);
+        26 medium (16-18, 3,617 participants); 4 low (13-15, 207 participants)
+    - dimension: "Study design"
+      distribution: "All 65 are quasi-experimental pre/post studies; none randomised"
+  arms:
+    - id: sport-education
+      description: "Sport Education (SE): a season-long model casting students in persistent team roles."
+      elements:
+        - term: "Sport Education (SE)"
+    - id: tgfu
+      description: "Teaching Games for Understanding (TGfU): tactical problems before technical skill work."
+      elements:
+        - term: "Teaching Games for Understanding (TGfU)"
+    - id: cooperative-learning
+      description: "Cooperative Learning (CL) applied to physical education."
+      elements:
+        - term: "Cooperative Learning (CL)"
+          anchors:
+            - principles/cooperative-learning
+    - id: tpsr
+      description: "Teaching Personal and Social Responsibility (TPSR)."
+      elements:
+        - term: "Teaching Personal and Social Responsibility (TPSR)"
+    - id: hybrid-models
+      description: "Hybrid Pedagogical Models (HPMs): combinations of the above."
+      elements:
+        - term: "Hybrid Pedagogical Models (HPMs)"
+    - id: traditional-instruction
+      description: "Traditional physical education instruction, the network's common comparator."
+      elements:
+        - term: "traditional teaching methods"
+          anchors:
+            - elements/direct-instruction
+
+comparisons:
+  # Direct, head-to-head pooled contrasts against the common comparator. The
+  # paper labels §3.7 "Direct meta-analysis comparison" and reports node-split
+  # results separately, so `direct` here is the source's own word, not a
+  # reading of the network.
+  - id: tgfu-vs-traditional-direct
+    kind: between-groups
+    evidence_route: direct
+    index_arm: tgfu
+    reference_arm: traditional-instruction
+    description: "Teaching Games for Understanding against traditional instruction, from head-to-head studies."
+  - id: hybrid-vs-traditional-direct
+    kind: between-groups
+    evidence_route: direct
+    index_arm: hybrid-models
+    reference_arm: traditional-instruction
+    description: "Hybrid Pedagogical Models against traditional instruction, from head-to-head studies."
+  # The whole network, named so the SUCRA observations have somewhere to point
+  # for what they were ranked within. Not itself a contrast anyone measured.
+  - id: full-network
+    kind: other
+    evidence_route: mixed
+    index_arm:
+      - sport-education
+      - tgfu
+      - cooperative-learning
+      - tpsr
+      - hybrid-models
+    reference_arm: traditional-instruction
+    description: >-
+      The complete network of five pedagogical models plus traditional
+      instruction, combining direct and indirect evidence under transitivity.
+      Rankings are estimated over this network; individual model-versus-model
+      estimates within it may rest on no head-to-head study.
+
+observations:
+
+  # ---- the arm-level results that broke v2
+  - id: sucra-hybrid-tactical-decision-making
+    # NO comparison_ref. A rank within a network, not a contrast.
+    arm_ref: hybrid-models
+    sample:
+      value: 65
+      unit: studies
+    outcome:
+      construct: "Tactical decision-making in games"
+      source_language: "tactical decision-making"
+      measure: "Decision-making measures as reported by the included studies"
+      scale: "SUCRA, 0% least effective to 100% most effective"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: postintervention
+    result:
+      measure_type: probability
+      estimate: 80.1
+      unit: "SUCRA percent"
+      model: "Surface Under the Cumulative Ranking curve, Bayesian NMA"
+      interpretation: >-
+        A ranking, not an effect. SUCRA says where this model sits in the
+        network's probability ordering; it says nothing about how much better
+        it is than anything, and the paper is explicit that the pairwise
+        credible intervals overlap.
+    moderators:
+      reported:
+        - variable: "Instructional duration"
+          relationship: >-
+            Interventions approaching or exceeding roughly 720 minutes were
+            associated with more consistent effects and reduced heterogeneity.
+          source_quote: "Subgroup analyses identified instructional duration as an important moderator, with interventions approaching or exceeding approximately 720 min—equivalent to a sustained instructional unit—associated with more consistent effects and reduced heterogeneity."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: partial
+    observability_notes: >-
+      effect_size is `partial` and that is the point of recording a SUCRA at
+      all: it is a rank, and a consumer that reads 80.1 as a magnitude has
+      misread it. The magnitudes are the pairwise estimates below, whose
+      credible intervals the authors say overlap.
+    source_quote: "Probabilistic rankings suggested that Hybrid Pedagogical Models (HPMs) showed comparatively high effectiveness for tactical decision-making (SUCRA = 80.1%) and skill execution (SUCRA = 77.2%)"
+    source_location: "Abstract, Results; §3 Results"
+
+  - id: sucra-tgfu-motivation
+    arm_ref: tgfu
+    sample:
+      value: 65
+      unit: studies
+    outcome:
+      construct: "Student motivation in physical education"
+      source_language: "student motivation"
+      measure: "Motivation measures as reported by the included studies"
+      scale: "SUCRA, 0-100%"
+      direction: higher-is-better
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+      anchors:
+        - learner-variables/motivation
+    time:
+      label: postintervention
+    result:
+      measure_type: probability
+      estimate: 82.1
+      unit: "SUCRA percent"
+      model: "SUCRA, Bayesian NMA"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: partial
+    source_quote: "Teaching Games for Understanding (TGfU) ranked highest for student motivation (SUCRA = 82.1%)"
+    source_location: "Abstract, Results"
+
+  - id: sucra-sport-education-enjoyment
+    arm_ref: sport-education
+    sample:
+      value: 65
+      unit: studies
+    outcome:
+      construct: "Enjoyment of physical education"
+      source_language: "enjoyment"
+      measure: "Enjoyment measures as reported by the included studies"
+      scale: "SUCRA, 0-100%"
+      direction: higher-is-better
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+      anchors:
+        - learner-variables/affect-regulation
+    time:
+      label: postintervention
+    result:
+      measure_type: probability
+      estimate: 74.0
+      unit: "SUCRA percent"
+      model: "SUCRA, Bayesian NMA"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: partial
+    source_quote: "Sport Education (SE) demonstrated favourable effects for enjoyment (SUCRA = 74.0%)"
+    source_location: "Abstract, Results"
+
+  # ---- direct pairwise estimates, with credible intervals
+  - id: decision-making-tgfu-vs-traditional
+    comparison_ref: tgfu-vs-traditional-direct
+    outcome:
+      construct: "Tactical decision-making in games"
+      source_language: "Decision Making"
+      measure: "Decision-making measures as reported by the included studies"
+      scale: "standardized mean difference"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: postintervention
+    result:
+      measure_type: standardized_mean_difference
+      estimate: 0.83
+      ci_lower: 0.36
+      ci_upper: 1.31
+      # A Bayesian credible interval, not a confidence interval. v2 had no way
+      # to say which, and they are not interchangeable.
+      interval_type: credible
+      model: "Bayesian random-effects, direct comparison"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+      pooled_k: unreported
+    observability_notes: >-
+      The only decision-making estimate whose interval excludes zero. The paper
+      reports the other four models on the same outcome — SE 0.52 (-1.45,
+      2.50), CL 0.67 (-1.37, 2.70), HPM 1.41 (-0.07, 2.92), TPSR 0.86 (-1.59,
+      3.30) — as showing no significant difference, which is why the SUCRA
+      ranking above and this estimate must be read together rather than either
+      alone.
+    source_quote: "1) Decision Making: No significant differences were observed for SE [SMD = 0.52, 95%CrI: (−1.45, 2.50)], TGfU [SMD = 0.83, 95%CrI: (0.36, 1.31)], CL [SMD = 0.67, 95%CrI (−1.37, 2.70)], HPM [SMD = 1.41, 95%CrI: (−0.07, 2.92)] and TPSR [SMD = 0.86, 95%CrI (−1.59, 3.30)]"
+    source_location: "§3.7 Direct meta-analysis comparison, Figure 3A"
+
+  - id: skill-execution-tgfu-vs-traditional
+    comparison_ref: tgfu-vs-traditional-direct
+    outcome:
+      construct: "Motor skill execution"
+      source_language: "Skill Execution"
+      measure: "Skill execution measures as reported by the included studies"
+      scale: "standardized mean difference"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: postintervention
+    result:
+      measure_type: standardized_mean_difference
+      estimate: 0.56
+      ci_lower: 0.25
+      ci_upper: 0.87
+      interval_type: credible
+      model: "Bayesian random-effects, direct comparison"
+      # Assessed AND FOUND — as distinct from Martinengo et al., who attempted
+      # the same assessment and were precluded from completing it. Recording
+      # both as `unreported` would erase the difference between a detected
+      # bias and an untestable one.
+      publication_bias:
+        method: "Comparison-adjusted funnel plots (netmeta) with Egger's regression test"
+        p_value: "0.0077"
+        finding: >-
+          Significant publication bias detected for skill execution outcomes.
+          The authors state these effects should be interpreted cautiously.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: partial
+      pooled_k: unreported
+    source_quote: "Skill Execution: TGfU showed a positive estimated effect over controls SE [SMD = 0.61, 95%CrI: (0.07, 1.15)], TGfU [SMD = 0.56, 95%CrI: (0.25, 0.87)] and CL [SMD = 0.95, 95%CI (0.01, 1.88)]."
+    source_location: "§3.7 Direct meta-analysis comparison"
+
+not_yet_extracted:
+  - "The full league table of model-versus-model estimates, including the indirect ones — the case `evidence_route: indirect` exists for."
+  - "Node-splitting results for local inconsistency (Supplementary Table S3) and the posterior median of between-study τ with its credible interval."
+  - "Subgroup analyses by sport type, and the full instructional-duration stratification behind the 720-minute figure."

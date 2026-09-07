@@ -570,6 +570,18 @@ nonsense. `result.power` records reported power with `kind` required, because a 
 weights where contrasts are not pairwise — Helmert H1 sets control against the *mean of
 three arms*, which the arm lists already handled.
 
+**A network meta-analysis broke the one rule that had held through every other shape:
+`comparison_ref` was required on every observation.** A SUCRA ranks one model within a
+network and rests on no contrast, so an observation now names **exactly one** of
+`comparison_ref` or `arm_ref`. With it came `result.interval_type` (a Bayesian credible
+interval is not a confidence interval, and unlabelled bounds say nothing about which),
+`comparisons[].evidence_route` (in a network an estimate may rest on no head-to-head study
+at all), and `result.publication_bias` — an assessment RUN AND FOUND, as distinct from
+`attempted_but_precluded`, which is one that could not be run. And the schema caught itself:
+`result.k` was required on every pooled effect until an NMA put per-contrast counts in a
+figure, leaving only "invent a k" or "break the schema". `observability.pooled_k` restores
+the absent-versus-unreported distinction to the rule that had forgotten it.
+
 **Every count carries its unit, and the corpus proved that necessary before either fixture
 was written.** Its evidence entries already carry `n=18`, `n=30 studies`, `n=66 articles`,
 `n=N/A` and `n=large (aggregated)` — one field doing four jobs, so nothing can read it.

@@ -225,6 +225,18 @@ CLUSTERING_STATISTICS = {"ICC", "design-effect", "other"}
 # claims and conflating them flatters an underpowered study.
 POWER_KINDS = {"a-priori", "post-hoc", "sensitivity"}
 
+# An interval is not just two numbers. A frequentist 95% CI and a Bayesian 95%
+# credible interval are different objects with different interpretations, and
+# a prediction interval is a third thing again. Required wherever ci_lower and
+# ci_upper are given, so nothing downstream has to guess which it holds.
+INTERVAL_TYPES = {"confidence", "credible", "prediction", "other"}
+
+# In a network meta-analysis an estimate for A vs B may rest on no head-to-head
+# study at all — it is inferred through the network under the transitivity
+# assumption. That is a different kind of evidence from a measured contrast and
+# a consumer weighting rows needs to be able to tell.
+EVIDENCE_ROUTES = {"direct", "indirect", "mixed"}
+
 KEY_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 
 
@@ -331,7 +343,7 @@ def validate_record(rec: dict, key: str, claim_index: dict | None = None) -> lis
         obs = []
     seen: set = set()
     for i, o in enumerate(obs):
-        issues.extend(_validate_observation(o, key, i, comp_ids, seen, family))
+        issues.extend(_validate_observation(o, key, i, comp_ids, arm_ids, seen, family))
     return issues
 
 
@@ -573,6 +585,7 @@ def _validate_comparisons(rec, key, issues, arm_ids) -> set:
         # arm lists already carry which arms are on which side, and this
         # carries the weighting, copied from the source. Absent for an
         # ordinary pairwise contrast, where the weights are implied.
+        _enum(issues, where, comp.get("evidence_route"), EVIDENCE_ROUTES, "evidence_route")
         contrast = comp.get("contrast")
         if contrast is not None:
             if not isinstance(contrast, dict):
@@ -613,7 +626,11 @@ def _validate_comparisons(rec, key, issues, arm_ids) -> set:
     # An arm nothing contrasts is dead data, and this is the invariant `role`
     # was standing in for without enforcing. A within-subject comparison may
     # name its index arm — "this configuration against its own earlier state" —
-    # which is how a single-group study's one arm gets used.
+    # which is how a single-group study's one arm gets used. An arm named by an
+    # observation's `arm_ref` counts as used too: a SUCRA is a result about
+    # that arm even though it contrasts nothing.
+    used |= {o.get("arm_ref") for o in (rec.get("observations") or [])
+             if isinstance(o, dict) and o.get("arm_ref")}
     for orphan in sorted(arm_ids - used):
         _err(issues, f"{key}.evidence_base.arms",
              f"arm {orphan!r} is named by no comparison — an arm nothing is "
@@ -621,7 +638,7 @@ def _validate_comparisons(rec, key, issues, arm_ids) -> set:
     return comp_ids
 
 
-def _validate_observation(o, key, i, comp_ids, seen, family) -> list:
+def _validate_observation(o, key, i, comp_ids, arm_ids, seen, family) -> list:
     issues: list = []
     where = f"{key}.observations[{i}]"
     if not isinstance(o, dict):
@@ -682,13 +699,23 @@ def _validate_observation(o, key, i, comp_ids, seen, family) -> list:
 
     issues.extend(_validate_result(o, where, family))
 
-    cref = o.get("comparison_ref")
-    if cref is None:
-        _err(issues, where, "comparison_ref is required — name a comparison, including "
-                            "the one whose kind is 'none'")
-    elif cref not in comp_ids:
+    # An observation is ABOUT either a contrast or a single arm. Nearly always
+    # a contrast — but a network meta-analysis's SUCRA is a ranking of one arm
+    # within the whole network, resting on no comparison at all, and forcing it
+    # into a synthetic "against everything else" contrast would invent a
+    # comparison the source never made. Exactly one of the two.
+    cref, aref = o.get("comparison_ref"), o.get("arm_ref")
+    if (cref is None) == (aref is None):
+        _err(issues, where, "exactly one of comparison_ref or arm_ref is required — an "
+                            "observation is about a contrast between configurations OR "
+                            "about one configuration's standing, never both and never "
+                            "neither")
+    if cref is not None and cref not in comp_ids:
         _err(issues, where, f"comparison_ref {cref!r} names no entry in this study's "
                             f"comparisons ({', '.join(sorted(comp_ids)) or 'none defined'})")
+    if aref is not None and aref not in arm_ids:
+        _err(issues, where, f"arm_ref {aref!r} is not an id in evidence_base.arms "
+                            f"({', '.join(sorted(arm_ids)) or 'none'})")
 
     mods = o.get("moderators") or {}
     if not isinstance(mods, dict):
@@ -712,6 +739,9 @@ def _validate_observation(o, key, i, comp_ids, seen, family) -> list:
         obsv = {}
     for f in ("population_detail", "implementation_detail", "outcome_timing", "effect_size"):
         _enum(issues, where, obsv.get(f), OBSERVABILITY_STATES, f"observability.{f}", required=True)
+    # Optional fifth: only meaningful for a pooled estimate, so not required
+    # on the primary studies that make up most of the store.
+    _enum(issues, where, obsv.get("pooled_k"), OBSERVABILITY_STATES, "observability.pooled_k")
 
     r = o.get("result") or {}
     if (obsv.get("effect_size") == "unreported"
@@ -748,6 +778,22 @@ def _validate_result(o, where, family) -> list:
                                 f"written as '<.001' belongs in p_value, which is free text")
     if (r.get("ci_lower") is None) != (r.get("ci_upper") is None):
         _err(issues, where, "result.ci_lower and result.ci_upper must be given together")
+    if r.get("ci_lower") is not None:
+        _enum(issues, where, r.get("interval_type"), INTERVAL_TYPES,
+              "result.interval_type", required=True)
+
+    pb = r.get("publication_bias")
+    if pb is not None:
+        if not isinstance(pb, dict):
+            _err(issues, where, "result.publication_bias must be a mapping")
+        else:
+            # A completed assessment WITH a finding, as distinct from
+            # synthesis.attempted_but_precluded, which records one that could
+            # not be run at all. Both are real states and they are not the same.
+            _str(issues, where, pb.get("method"), "result.publication_bias.method",
+                 required=True)
+            _str(issues, where, pb.get("finding"), "result.publication_bias.finding",
+                 required=True)
 
     # --- pooled-estimate fields. Each observation carries its OWN k: the
     # Martinengo knowledge estimate pools 9 studies and the surgical-skills
@@ -756,9 +802,22 @@ def _validate_result(o, where, family) -> list:
     # middle layer had to stop being one thing.
     if r.get("k") is not None:
         _count(issues, where, r.get("k"), "result.k")
-    if family in SYNTHESIS_FAMILIES and mt in EFFECT_MEASURE_TYPES and r.get("k") is None:
-        _err(issues, where, "a pooled effect from a synthesis must carry result.k — how many "
-                            "studies THIS estimate rests on, which is rarely the whole corpus")
+    # A pooled effect must SAY something about k — either the count, or an
+    # explicit `observability.pooled_k: unreported`. The rule was
+    # k-or-nothing until a network meta-analysis put its per-contrast counts
+    # in a figure rather than the text, which left only two ways to satisfy
+    # it: invent a k, or violate the schema. That is the absent-vs-unreported
+    # distinction this whole schema is built on, missing from its own rule.
+    obsv_k = (o.get("observability") or {}).get("pooled_k")
+    if family in SYNTHESIS_FAMILIES and mt in EFFECT_MEASURE_TYPES:
+        if r.get("k") is None and obsv_k != "unreported":
+            _err(issues, where, "a pooled effect from a synthesis must carry result.k — how "
+                                "many studies THIS estimate rests on, which is rarely the "
+                                "whole corpus — or observability.pooled_k: unreported when "
+                                "the source does not print it")
+        if r.get("k") is not None and obsv_k == "unreported":
+            _err(issues, where, "observability.pooled_k says 'unreported' but result.k "
+                                "carries a count")
 
     het = r.get("heterogeneity")
     if het is not None:
