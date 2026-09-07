@@ -597,6 +597,17 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#2026-09-07-later" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-07 (later)
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#2026-09-07" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -779,6 +790,17 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#2026-09-07-later" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-07 (later)
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#2026-09-07" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -929,6 +951,21 @@
 <p>Format: <code>## [YYYY-MM-DD] &lt;operation&gt; | &lt;page or batch&gt; | &lt;notes&gt;</code></p>
 <p>Operations: <code>ingest</code> · <code>edit</code> · <code>review</code> · <code>merge</code> · <code>deprecate</code> · <code>lint</code></p>
 <hr />
+<h2 id="2026-09-07-later">2026-09-07 (later)<a class="headerlink" href="#2026-09-07-later" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong>Schema</strong>: <code>observations/</code> moves to <strong>version 2</strong> — three levels (source / evidence base / observations) in place of v1's two. The change was forced by evidence: encoding one meta-analysis and one three-arm randomised experiment in v1 failed in nine specific places, listed in <code>observations/SCHEMA.md</code></li>
+<li><strong>Decision</strong>: the middle layer gains <code>arms</code>, and <strong>arms + comparisons is the common abstraction</strong>. A trial's "unenhanced vs baseline" and a synthesis's "spaced online vs massed online" are the same object — a contrast between two named configurations — so a meta-analysis needed no parallel field set, only for the middle layer to stop assuming one group of people. <code>role: corpus-stratum</code> is what makes an arm a slice of a literature</li>
+<li><strong>Decision</strong>: every count is <code>{value, unit}</code> with <code>unit</code> required. The corpus had already proved this necessary — its evidence entries carry <code>n=18</code>, <code>n=30 studies</code>, <code>n=66 articles</code>, <code>n=N/A</code> and <code>n=large (aggregated)</code> in one column</li>
+<li><strong>Decision</strong>: <code>result.k</code> belongs to the observation, not the study. Martinengo et al. pool 9 studies for knowledge, 3 for behaviour change and 2 for surgical skills, out of 23 — a study-level <code>k</code> would be wrong for every observation in it</li>
+<li><strong>Decision</strong>: a fourth epistemic state, <code>study.synthesis.attempted_but_precluded</code>. Subgroup analyses and publication-bias assessment were <em>attempted and could not be completed</em>; <code>unreported</code> loses the reason and absent loses the attempt</li>
+<li><strong>Decision</strong>: <code>appears_in</code> becomes optional. Requiring it made the evidence layer depend on the argument layer — a real study is recordable before any claim argues from it. Listed entries are still validated, and <code>--summary</code> counts orphans</li>
+<li><strong>Content</strong>: two new fixtures — <code>martinengo-2024</code> (JMIR spaced digital education systematic review and meta-analysis, 23 studies / 3371 participants, 3 pooled observations) and <code>jemr-lexical-elaboration-2026</code> (three-arm eye-tracking vocabulary experiment, N=67, 7 observations of which 5 are null). Both DOIs Crossref-verified through <code>classify_doi</code></li>
+<li><strong>Rule</strong>: the schema now states its governing rule once, in <code>observation_lib.py</code> and <code>SCHEMA.md</code> — <em>put information at the lowest level at which it actually varies, and preserve observations at the grain at which the source actually reports them</em>. It explains every placement, and it is what settled the two corrections below</li>
+<li><strong>Correction</strong>: <code>arms[].role</code> is <strong>removed</strong>, not renamed. Nothing read it, and it is not a property of an arm — <code>unenhanced-elaboration</code> was declared <code>intervention</code> while being the <em>reference</em> side of <code>enhanced-vs-unenhanced</code>, so the role varies by comparison, which is where <code>index_arm</code>/<code>reference_arm</code> already say it. An arm needs no epistemic type to mark a synthesis either: the source says <code>meta-analysis</code> and the arm's own <code>size: {value: 17, unit: studies}</code> says it is studies. Replaced by the invariant it was standing in for — <strong>every arm must be named by at least one comparison</strong>, which caught a real orphan (<code>zingaretti</code>'s single arm was in no comparison at all)</li>
+<li><strong>Correction</strong>: a comparison's <code>index_arm</code>/<code>reference_arm</code> may name <strong>a list</strong>. That is the whole representation of a heterogeneous comparator: Martinengo's behaviour-change estimate pools three studies against two different controls, stays ONE observation because that is the grain the paper reports, and the compiler emits <code>reference_is_heterogeneous: true</code> beside the resolved arms. Per-study contribution counts are not recorded — the source gives them, but no use case needs that grain yet</li>
+<li><strong>Correction</strong>: <code>outcome.role</code> is now <strong>required</strong>, with <code>other</code> + <code>role_basis: ambiguous</code> as the way to decline. A regex intended for arm roles deleted <code>outcome.role</code> from all 21 observations and <code>check_observations</code> passed, because an optional field cannot tell "nobody classified this" from "an edit ate it" — the same shape as every other silent-corruption bug this log records</li>
+<li><strong>Migration</strong>: the four v1 fixtures were converted to v2 and verified by parsing — <code>observations</code>, <code>study</code> and <code>appears_in</code> byte-identical before and after. <strong>Nothing else was migrated</strong>; 424 claim pages still have no record, which is a legal state</li>
+</ul>
 <h2 id="2026-09-07">2026-09-07<a class="headerlink" href="#2026-09-07" title="Permanent link">&para;</a></h2>
 <ul>
 <li><strong>Schema</strong>: <code>observations/</code> — structured research observations beside the claims. One file per study, keyed by the author-year citation key, recording intervention + population + context + comparison + measurement + time → outcome, so an effect size stays a measurement of one configuration rather than becoming a weight between two concepts. Field reference in <code>observations/SCHEMA.md</code>; rationale in <code>scripts/observation_lib.py</code></li>
