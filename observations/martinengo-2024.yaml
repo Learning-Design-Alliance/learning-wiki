@@ -1,0 +1,343 @@
+# Martinengo et al. (2024) — spaced digital education for health professionals.
+#
+# THE META-ANALYSIS STRESS TEST. What this file proves, by needing it:
+#
+#   * `evidence_base.unit: studies` with the participant total in
+#     `additional_sizes`. 23 studies and 3371 participants are two facts and v1
+#     had one integer slot for both.
+#   * `arms` as CORPUS STRATA. "Spaced online education" is not a group of
+#     people in a room; it is 17 of the 23 studies. The same arms/comparisons
+#     mechanism a three-arm trial uses.
+#   * `result.k` PER OBSERVATION. The knowledge estimate pools 9 studies and
+#     the surgical-skills estimate pools 2, from a corpus of 23. A k on the
+#     study would be wrong for every observation in it.
+#   * `variation` — the corpus's distribution over populations and countries,
+#     which a single `population.description` flattens away and which is
+#     exactly what makes pooling arguable.
+#   * `attempted_but_precluded` — subgroup analyses and publication-bias
+#     assessment were TRIED and could not be done. Not absent, not
+#     `unreported`: a third state, and a fact about the evidence base.
+
+schema_version: 2
+
+study:
+  key: martinengo-2024
+  citation: "Martinengo, L., Ng, M. Y., Ng, T. Y., Ang, Y. Y., Jabir, A. I., Kyaw, B. M., & Tudor Car, L. (2024). Spaced Digital Education for Health Professionals: Systematic Review and Meta-Analysis. Journal of Medical Internet Research, 26, e57760."
+  doi: "10.2196/57760"
+  design:
+    family: meta-analysis
+    design_detail: >-
+      Systematic review with random-effects meta-analyses of randomised
+      controlled trials, cluster RCTs and quasi-RCTs. Randomised cross-over
+      trials were excluded for high risk of contamination and carryover.
+  synthesis:
+    model: "Random-effects models"
+    heterogeneity_statistic: "I2"
+    heterogeneity_thresholds: "I2 <25% low, 25-75% moderate, >75% high"
+    quality_tool: "Cochrane Risk of Bias Tool 2 (RoB-2)"
+    certainty_framework: "GRADE"
+    reporting_guideline: "PRISMA; Cochrane methodology"
+    search:
+      databases:
+        - MEDLINE
+        - Embase
+        - Web of Science
+        - ERIC
+        - PsycINFO
+        - CINAHL
+        - CENTRAL
+        - ProQuest Dissertations and Theses
+      date_range: "January 1990 to February 2023"
+      records_screened: 85755
+      records_included: 23
+    inclusion:
+      - "RCTs, cluster RCTs and quasi-RCTs of spaced digital education"
+      - "Pre- or postregistration health care professionals (ISCED-F Health field 091)"
+      - "Comparators: nonspaced education, spaced nondigital education, traditional learning, or no intervention"
+    data_handling:
+      - "Two independent reviewers for selection, extraction, quality and certainty; a third as arbiter"
+      - "Authors contacted for missing data; no data were imputed"
+      - "Analysed on an intention-to-treat basis where possible"
+    # The third epistemic state. `unreported` would say the paper is silent;
+    # absent would say nobody looked. Both would lose that the authors tried.
+    attempted_but_precluded:
+      - analysis: "Subgroup analyses"
+        reason: "the small number of studies in each category and the heterogeneity of data"
+      - analysis: "Publication bias assessment"
+        reason: "the small number of studies in each category and the heterogeneity of data"
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-09-07
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+# Deliberately absent: no claim in this wiki cites this paper yet. v1 required
+# `appears_in`, which made the evidence layer depend on the argument layer;
+# recording a real study before anyone argues from it is the normal case, not
+# an error. `check_observations.py --summary` reports records nothing cites.
+
+evidence_base:
+  # THE field v1 did not have. Counted in studies, because that is what a
+  # synthesis pools.
+  unit: studies
+  size:
+    value: 23
+    unit: studies
+  additional_sizes:
+    - value: 3371
+      unit: participants
+      note: "total participants across the 23 included studies"
+    - value: 22
+      unit: reports
+      note: "the 23 studies were reported in 22 papers"
+  population:
+    description: >-
+      Pre- and postregistration health care professionals — medicine, dentistry,
+      nursing and midwifery, diagnostic and treatment technology, physiotherapy
+      and rehabilitation, and pharmacy.
+    prior_knowledge: "Mixed: qualified professionals and students in training"
+  context:
+    setting: "Health professions education, formal and continuing"
+    delivery_mode: "Digital — spaced online education or spaced digital simulation"
+  # How the corpus VARIES. A single `population.description` cannot hold this,
+  # and it is precisely what a reader needs to judge whether an I2 of 66% is
+  # noise or a real difference between the things pooled.
+  variation:
+    - dimension: "Career stage"
+      distribution: "20 of 23 studies postregistration professionals; 3 of 23 preregistration medical or nursing students"
+    - dimension: "Country income level"
+      distribution: "19 of 23 high-income; 3 of 23 upper middle-income; 1 of 23 lower middle-income"
+    - dimension: "Intervention modality"
+      distribution: "17 of 23 spaced online education; 6 of 23 spaced digital simulation"
+    - dimension: "Study design"
+      distribution: "19 of 23 RCTs; all but one randomised into 2 groups, one into 3"
+    - dimension: "Risk of bias"
+      distribution: "19 of 23 studies at unclear or high risk of bias (RoB-2)"
+  # Arms as CORPUS STRATA — the same mechanism a three-arm trial uses, applied
+  # to slices of a literature rather than to groups of people.
+  arms:
+    - id: spaced-online
+      description: "Spaced online education: digital content delivered in repeated sessions separated by prespecified intervals."
+      size:
+        value: 17
+        unit: studies
+      elements:
+        - term: "spaced digital education — repeated learning sessions separated by prespecified time intervals"
+          anchors:
+            - claims/spacing-improves-long-term-retention
+    - id: spaced-digital-simulation
+      description: "Spaced digital simulation: simulation-based training distributed across repeated sessions."
+      size:
+        value: 6
+        unit: studies
+      elements:
+        - term: "spaced digital simulation"
+          anchors:
+            - elements/simulation
+    - id: massed-online
+      description: "Massed (nonspaced) online education delivering the same content in a single block."
+      elements:
+        - term: "massed online education"
+    - id: massed-simulation
+      description: "Massed (nonspaced) digital simulation."
+      elements:
+        - term: "massed simulation"
+    - id: no-intervention
+      description: "No educational intervention."
+      elements: []
+
+comparisons:
+  - id: spaced-vs-massed-online
+    kind: between-groups
+    index_arm: spaced-online
+    reference_arm: massed-online
+    description: "Spaced online education against massed online education, pooled across the studies making that contrast."
+  - id: spaced-simulation-vs-massed-simulation
+    kind: between-groups
+    index_arm: spaced-digital-simulation
+    reference_arm: massed-simulation
+    description: "Spaced digital simulation against massed simulation."
+  - id: spaced-online-vs-heterogeneous-control
+    kind: between-groups
+    index_arm: spaced-online
+    # TWO reference arms. The three pooled studies do not share a comparator:
+    # two compared with massed online education and one with no intervention at
+    # all. The paper reports ONE estimate, so this stays one observation — but
+    # "the comparator is two configurations" is relational structure, and a
+    # consumer must be able to read it without parsing the prose below.
+    #
+    # Deliberately NOT split into per-comparator effects: the source reports no
+    # such effects, and inventing them would be the metric conversion this
+    # schema forbids. Deliberately not given per-study contribution counts
+    # either — the source does report 2 and 1, but no use case yet needs that
+    # grain, and a field nobody reads is a field that goes stale.
+    reference_arm:
+      - massed-online
+      - no-intervention
+    description: >-
+      Spaced online education against a heterogeneous comparator: of the three
+      studies pooled here, two compared with massed online education and one
+      with no intervention.
+
+observations:
+
+  - id: knowledge-postintervention
+    sample:
+      value: 9
+      unit: studies
+    outcome:
+      construct: "Knowledge acquisition"
+      source_language: "postintervention knowledge"
+      measure: "Knowledge assessments as reported by the primary studies"
+      scale: "standardized mean difference across heterogeneous instruments"
+      direction: higher-is-better
+      role: proximal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: postintervention
+    comparison_ref: spaced-vs-massed-online
+    result:
+      measure_type: standardized_mean_difference
+      estimate: 0.32
+      ci_lower: 0.13
+      ci_upper: 0.51
+      # k belongs HERE, not on the study: this estimate rests on 9 of the 23.
+      k:
+        value: 9
+        unit: studies
+      heterogeneity:
+        statistic: "I2"
+        value: 66
+        unit: percent
+        interpretation: "moderate, by the review's own <25 / 25-75 / >75 thresholds"
+      certainty:
+        rating: moderate
+        framework: GRADE
+      model: "random-effects"
+    moderators:
+      reported: []
+      candidate:
+        - "Career stage, country income level and modality all vary across the corpus (see evidence_base.variation) and none was tested — the review attempted subgroup analyses and could not complete them."
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+    observability_notes: >-
+      outcome_timing is `unreported`, and it matters more here than anywhere
+      else in this file: "postintervention" names no interval, so a synthesis
+      about SPACING cannot say how long after the last session knowledge was
+      measured. No prediction interval is reported either, so this record
+      carries none — a CI is about the mean effect and a PI about the next
+      study, and deriving one from the other would be the metric conversion
+      this schema forbids.
+    source_quote: "Spaced online education was superior to massed online education for postintervention knowledge (n=9, 39%; standardized mean difference [SMD] 0.32, 95% CI 0.13-0.51, I 2 =66%, moderate certainty of evidence)."
+    source_location: "Abstract, Results; and Results section"
+
+  - id: clinical-behaviour-change-postintervention
+    sample:
+      value: 3
+      unit: studies
+    outcome:
+      construct: "Change in clinical behaviour"
+      source_language: "postintervention clinical behavior change"
+      measure: "Clinical behaviour measures as reported by the primary studies"
+      scale: "standardized mean difference"
+      direction: higher-is-better
+      # Not a learner capability and not a proximal learning outcome: a change
+      # in what practitioners DO at work, which is the distal end of the chain.
+      role: distal-outcome
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: postintervention
+    comparison_ref: spaced-online-vs-heterogeneous-control
+    result:
+      measure_type: standardized_mean_difference
+      estimate: 0.67
+      ci_lower: 0.43
+      ci_upper: 0.91
+      k:
+        value: 3
+        unit: studies
+      heterogeneity:
+        statistic: "I2"
+        value: 5
+        unit: percent
+        interpretation: "low"
+      certainty:
+        rating: moderate
+        framework: GRADE
+      model: "random-effects"
+      note: >-
+        A pooled estimate across two different counterfactuals is a different
+        object from one against a single control. The comparison this
+        observation names carries both reference arms, so that is readable
+        structurally; this note says why it matters.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+    source_quote: "Spaced online education (n=3, 13%) was superior to massed online education (n=2, 9%) and no intervention (n=1, 4%; SMD 0.67, 95% CI 0.43-0.91, I 2 =5%, moderate certainty of evidence) for postintervention clinical behavior change."
+    source_location: "Abstract, Results"
+
+  - id: surgical-skills-postintervention
+    sample:
+      value: 2
+      unit: studies
+    outcome:
+      construct: "Surgical skill"
+      source_language: "postintervention surgical skills"
+      measure: "Skill assessments as reported by the primary studies"
+      scale: "standardized mean difference"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: postintervention
+    comparison_ref: spaced-simulation-vs-massed-simulation
+    result:
+      measure_type: standardized_mean_difference
+      estimate: 1.15
+      ci_lower: 0.34
+      ci_upper: 1.96
+      k:
+        value: 2
+        unit: studies
+      heterogeneity:
+        statistic: "I2"
+        value: 74
+        unit: percent
+        interpretation: "moderate, at the top of the review's moderate band"
+      certainty:
+        rating: low
+        framework: GRADE
+      model: "random-effects"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: partial
+      outcome_timing: unreported
+      effect_size: observed
+    observability_notes: >-
+      The largest estimate in the review and the weakest: two studies, a CI
+      spanning 0.34 to 1.96, and low GRADE certainty. A store that kept the
+      point estimate and dropped k, the interval and the certainty would rank
+      this above the knowledge finding, which is the opposite of what the
+      review concluded.
+    source_quote: "Spaced digital simulation was superior to massed simulation for postintervention surgical skills (n=2, 9%; SMD 1.15, 95% CI 0.34-1.96, I 2 =74%, low certainty of evidence)."
+    source_location: "Abstract, Results"
+
+not_yet_extracted:
+  - "Attitudes, satisfaction and confidence outcomes: reported narratively rather than pooled."
+  - "Per-study characteristics in Table 1 and Multimedia Appendix 3 — the individual studies are themselves candidates for their own records."

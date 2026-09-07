@@ -8,7 +8,7 @@
 # looked yet". Those three are different and a store that cannot tell them
 # apart will average them together.
 
-schema_version: 1
+schema_version: 2
 
 study:
   key: mantovani-2026
@@ -36,33 +36,32 @@ appears_in:
   - claim: strategy-use-correlates-with-l2-proficiency-in-adolescents
     anchor: mantovani-2026
 
-population:
-  n: 157
-  description: >-
-    157 immigrant students aged 11–19 from nine secondary schools in Northeast
-    Italy — described on the claim page as newly arrived migrant students.
-  age_or_stage: "11–19 years; secondary school"
-  prior_knowledge: "Not reported in the abstract."
-  language_background: >-
-    Students with a foreign background learning Italian as a second language;
-    the abstract reports cross-cultural differences among them without
-    enumerating the L1s.
-  relevant_characteristics:
-    - "Recruited across nine schools, so school-level variation is present but not analysed in the abstract"
-
-context:
-  setting: "Mainstream secondary schools"
-  institution_or_environment: "Nine secondary schools"
-  geography: "Northeast Italy"
-  delivery_mode: "Not applicable — no intervention was delivered"
-  duration: "Single administration"
-
-# There is no intervention. The block is present and explicitly empty rather
-# than omitted, so a consumer can tell "observational, nothing was done to
-# them" from "an intervention nobody recorded".
-intervention:
-  description: "None. This is an observational survey; no instructional condition was administered."
-  elements: []
+evidence_base:
+  unit: participants
+  size:
+    value: 157
+    unit: participants
+  population:
+    description: 157 immigrant students aged 11–19 from nine secondary schools in Northeast
+      Italy — described on the claim page as newly arrived migrant students.
+    age_or_stage: 11–19 years; secondary school
+    prior_knowledge: Not reported in the abstract.
+    language_background: Students with a foreign background learning Italian as a second language;
+      the abstract reports cross-cultural differences among them without enumerating the L1s.
+    relevant_characteristics:
+    - Recruited across nine schools, so school-level variation is present but not analysed
+      in the abstract
+  context:
+    setting: Mainstream secondary schools
+    institution_or_environment: Nine secondary schools
+    geography: Northeast Italy
+    delivery_mode: Not applicable — no intervention was delivered
+    duration: Single administration
+  variation: []
+  # No arms. This is an observational survey: nothing was administered, so there
+  # is no configuration to contrast. An empty list says that; omitting the field
+  # would leave it ambiguous with "nobody recorded the arms".
+  arms: []
 
 comparisons:
   - id: no-comparison
@@ -70,7 +69,6 @@ comparisons:
     description: >-
       No comparison group and no counterfactual. The reported relationship is a
       correlation across one sample at one time.
-    elements: []
 
 observations:
 

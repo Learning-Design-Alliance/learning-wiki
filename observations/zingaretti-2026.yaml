@@ -6,7 +6,7 @@
 # two of the five are nulls that the claim uses as specificity checks rather
 # than as its subject.
 
-schema_version: 1
+schema_version: 2
 
 study:
   key: zingaretti-2026
@@ -35,60 +35,70 @@ appears_in:
   - claim: l2-fluency-gains-persist-weeks-without-practice
     anchor: zingaretti-et-al-2026
 
-population:
-  n: 18
-  description: >-
-    Eighteen undergraduate students enrolled in Italian language programmes at
-    UK universities — 13 in their second year, five in their third — recruited
-    in April 2021 by a call for a free one-week online intensive Italian course.
-  age_or_stage: "M = 19.28 years, SD = 0.46; second- and third-year undergraduates"
-  prior_knowledge: >-
-    Baseline LexITA vocabulary proficiency ranged 28–78 (M = 47.33, SD = 12.98).
-    The authors describe this variability as considerable and carry proficiency
-    as a covariate in every model because of it.
-  language_background: >-
-    L1 English, with Italian the only actively used L2. Prior formal exposure to
-    other languages was allowed; no participant reported conversational use of a
-    third language.
-  relevant_characteristics:
-    - "A shared study history (one degree programme stage) with a proficiency range of 50 LexITA points across it"
-    - "Participation was voluntary and not a requirement of enrolment in the course"
-
-context:
-  setting: "Free extracurricular intensive language course, run alongside UK undergraduate Italian programmes"
-  institution_or_environment: "UK universities; ethics approval from the University of Edinburgh (ref. 236-2021/3)"
-  geography: "United Kingdom"
-  delivery_mode: "Fully online, live synchronous instruction"
-  duration: "One week, 12–18 April 2021; approximately 21 hours of live engagement"
-  period_notes: >-
-    Run during the COVID-19 pandemic, when UK teaching had moved to remote
-    formats and study-abroad programmes were halted — so the online delivery
-    is a property of the moment as much as a design choice.
-
-intervention:
-  description: >-
-    A one-week intensive online Italian course designed to enhance vocabulary
-    and conversational fluency through interactive and immersive online
-    instruction.
-  elements:
-    - term: "two-hour morning sessions led by L1-Italian language instructors focusing on thematic vocabulary and grammatical structures"
-      anchors:
-        - elements/direct-instruction
-    - term: "one-hour small-group discussions in the afternoon"
-      anchors:
-        - strategies/discussion-based-learning
-        - strategies/small_group_instruction
-  dose:
-    amount: 21
-    unit: hours
-    detail: "approximately 21 hours of live engagement across seven consecutive days"
-  implementation_notes:
-    - "No practice or instruction occurred between the post-course and follow-up measurements; the follow-up interval is deliberately unrehearsed."
-    - "The authors contrast this with Bak et al. (2016), where persistence at nine months held only for participants who kept practising at least five hours a week."
+evidence_base:
+  unit: participants
+  size:
+    value: 18
+    unit: participants
+  variation: []
+  population:
+    description: >-
+      Eighteen undergraduate students enrolled in Italian language programmes at
+      UK universities — 13 in their second year, five in their third — recruited
+      in April 2021 by a call for a free one-week online intensive Italian course.
+    age_or_stage: "M = 19.28 years, SD = 0.46; second- and third-year undergraduates"
+    prior_knowledge: >-
+      Baseline LexITA vocabulary proficiency ranged 28–78 (M = 47.33, SD = 12.98).
+      The authors describe this variability as considerable and carry proficiency
+      as a covariate in every model because of it.
+    language_background: >-
+      L1 English, with Italian the only actively used L2. Prior formal exposure to
+      other languages was allowed; no participant reported conversational use of a
+      third language.
+    relevant_characteristics:
+      - "A shared study history (one degree programme stage) with a proficiency range of 50 LexITA points across it"
+      - "Participation was voluntary and not a requirement of enrolment in the course"
+  context:
+    setting: "Free extracurricular intensive language course, run alongside UK undergraduate Italian programmes"
+    institution_or_environment: "UK universities; ethics approval from the University of Edinburgh (ref. 236-2021/3)"
+    geography: "United Kingdom"
+    delivery_mode: "Fully online, live synchronous instruction"
+    duration: "One week, 12–18 April 2021; approximately 21 hours of live engagement"
+    period_notes: >-
+      Run during the COVID-19 pandemic, when UK teaching had moved to remote
+      formats and study-abroad programmes were halted — so the online delivery
+      is a property of the moment as much as a design choice.
+  # One arm. A single-group study is the degenerate case of the same mechanism
+  # a three-arm trial uses, not a different schema.
+  arms:
+    - id: intensive-online-course
+      description: >-
+        A one-week intensive online Italian course designed to enhance vocabulary
+        and conversational fluency through interactive and immersive online
+        instruction.
+      size:
+        value: 18
+        unit: participants
+      elements:
+        - term: "two-hour morning sessions led by L1-Italian language instructors focusing on thematic vocabulary and grammatical structures"
+          anchors:
+            - elements/direct-instruction
+        - term: "one-hour small-group discussions in the afternoon"
+          anchors:
+            - strategies/discussion-based-learning
+            - strategies/small_group_instruction
+      dose:
+        amount: 21
+        unit: hours
+        detail: "approximately 21 hours of live engagement across seven consecutive days"
+      implementation_notes:
+        - "No practice or instruction occurred between the post-course and follow-up measurements; the follow-up interval is deliberately unrehearsed."
+        - "The authors contrast this with Bak et al. (2016), where persistence at nine months held only for participants who kept practising at least five hours a week."
 
 comparisons:
   - id: within-subject-baseline
     kind: within-subject-baseline
+    index_arm: intensive-online-course
     description: >-
       Each participant's own pre-course score. Every reported effect is a change
       from baseline in a mixed-effects model, not a between-group difference.

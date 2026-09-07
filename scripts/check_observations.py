@@ -181,12 +181,22 @@ def summary() -> None:
                 if v in ("unreported", "partial"):
                     unreported[f"{k}: {v}"] += 1
 
-    for label, counter in (("design family", designs), ("result measure_type", measures),
+    units = Counter((r.get("evidence_base") or {}).get("unit") for r in records.values())
+    for label, counter in (("design family", designs), ("evidence_base unit", units),
+                           ("result measure_type", measures),
                            ("outcome role", roles), ("known gaps", unreported)):
         print(f"  {label}")
         for k, v in counter.most_common():
             print(f"    {v:>4}  {k}")
         print()
+
+    # `appears_in` is optional in v2 — a real study is recordable before any
+    # claim argues from it. That makes orphans possible, so they are counted
+    # here rather than left to be noticed. This is a REPORT, not a lint
+    # failure: an unclaimed record is a normal state, not a defect.
+    orphans = [k for k, r in records.items() if not (r or {}).get("appears_in")]
+    print(f"  {len(orphans)} record(s) cited by no claim page"
+          f"{': ' + ', '.join(sorted(orphans)) if orphans else ''}")
 
 
 def main() -> None:

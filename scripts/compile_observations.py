@@ -47,7 +47,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 import observation_lib as ol
 
 RECORD_KIND = "research_observation"
-COMPILER_VERSION = 1
+COMPILER_VERSION = 2
 
 
 def compile_all(directory: Path | None = None) -> tuple[list, list]:
@@ -65,9 +65,28 @@ def compile_all(directory: Path | None = None) -> tuple[list, list]:
     out = []
     for key, rec in sorted(records.items()):
         study = rec.get("study") or {}
+        eb = rec.get("evidence_base") or {}
+        arms = {a["id"]: a for a in (eb.get("arms") or []) if isinstance(a, dict)}
         comparisons = {c["id"]: c for c in (rec.get("comparisons") or [])}
         for o in rec.get("observations") or []:
-            comp = comparisons.get(o.get("comparison_ref"), {})
+            comp = dict(comparisons.get(o.get("comparison_ref")) or {})
+            # Resolve the contrast into the arms it is over. A consumer must
+            # never have to join two blocks to know WHICH configuration beat
+            # WHICH — that ambiguity is what v1's free-text comparison had.
+            #
+            # ALWAYS LISTS on the way out, whichever way the YAML was authored.
+            # One arm needs no brackets in a hand-written file; a consumer
+            # should never have to test whether it got a mapping or a list.
+            idx_ids = ol.arms_named(comp.get("index_arm"))
+            ref_ids = ol.arms_named(comp.get("reference_arm"))
+            comp["index_arms"] = [arms[a] for a in idx_ids if a in arms]
+            comp["reference_arms"] = [arms[a] for a in ref_ids if a in arms]
+            # Derived and emitted rather than left to be counted, because it
+            # changes what the estimate means: a pooled effect against two
+            # different counterfactuals is a different object from one against
+            # a single control, and a consumer weighting rows needs to see it.
+            comp["reference_is_heterogeneous"] = len(ref_ids) > 1
+            comp["index_is_heterogeneous"] = len(idx_ids) > 1
             out.append({
                 "kind": RECORD_KIND,
                 "compiler_version": COMPILER_VERSION,
@@ -86,15 +105,29 @@ def compile_all(directory: Path | None = None) -> tuple[list, list]:
                 },
 
                 # --- the configuration side of the relation, kept whole.
-                # Not atomised into independent variables: the elements list
-                # is what the authors describe TOGETHER, and separating them
+                # Not atomised into independent variables: an arm's elements
+                # are what the authors delivered TOGETHER, and separating them
                 # would assert an additivity nobody measured.
                 "configuration": {
                     "design": study.get("design") or {},
-                    "intervention": rec.get("intervention") or {},
-                    "population": rec.get("population") or {},
-                    "context": rec.get("context") or {},
+                    "synthesis": study.get("synthesis"),
+                    # What the results are ABOUT, and in what unit it is
+                    # counted. `unit` is the field that stops 23 studies and
+                    # 3371 participants collapsing into one unreadable number.
+                    "evidence_base": {
+                        "unit": eb.get("unit"),
+                        "size": eb.get("size"),
+                        "additional_sizes": eb.get("additional_sizes") or [],
+                        "population": eb.get("population") or {},
+                        "context": eb.get("context") or {},
+                        "variation": eb.get("variation") or [],
+                    },
+                    "arms": list(arms.values()),
                     "comparison": comp,
+                    # The analysed sample for THIS result, which is routinely
+                    # not the study's: a comprehension ANOVA on 62 of 67
+                    # randomised, or a pooled estimate over 9 of 23 studies.
+                    "sample": o.get("sample"),
                 },
 
                 # --- the observed side
@@ -115,9 +148,9 @@ def compile_all(directory: Path | None = None) -> tuple[list, list]:
                 # stays where it is; this is an addition, not a replacement.
                 "concept_anchors": sorted({
                     a
-                    for block in ((rec.get("intervention") or {}).get("elements") or [],
-                                  (comp or {}).get("elements") or [])
-                    for el in block for a in (el.get("anchors") or [])
+                    for arm in arms.values()
+                    for el in (arm.get("elements") or [])
+                    for a in (el.get("anchors") or [])
                 } | set((o.get("outcome") or {}).get("anchors") or [])),
             })
     return out, []
@@ -144,21 +177,45 @@ def explain(records: list, observation_id: str) -> int:
 
     print(f"=== {rec['observation_id']} ===")
     print(f"    {rec['provenance'].get('citation')}")
-    block("WHAT WAS DONE", cfg["intervention"].get("description"))
-    for el in cfg["intervention"].get("elements") or []:
-        anchors = ", ".join(el.get("anchors") or []) or "no wiki anchor"
-        print(f"    - {el['term']}  [{anchors}]")
-    if cfg["intervention"].get("dose"):
-        d = cfg["intervention"]["dose"]
-        print(f"    dose: {d.get('amount')} {d.get('unit')} — {d.get('detail', '')}")
-    block("TO WHOM", cfg["population"].get("description"))
-    print(f"    n = {cfg['population'].get('n')}")
+    idx_arms = cfg["comparison"].get("index_arms") or []
+    block("WHAT WAS DONE", "" if idx_arms else "(no index arm — see the comparison below)")
+    for idx in idx_arms:
+        if len(idx_arms) > 1:
+            print(f"    [{idx.get('id')}] {idx.get('description')}")
+        else:
+            print(f"    {idx.get('description')}")
+        for el in idx.get("elements") or []:
+            anchors = ", ".join(el.get("anchors") or []) or "no wiki anchor"
+            print(f"      - {el['term']}  [{anchors}]")
+        if idx.get("dose"):
+            d = idx["dose"]
+            print(f"      dose: {d.get('amount')} {d.get('unit')} — {d.get('detail', '')}")
+
+    ebase = cfg["evidence_base"]
+    size = ebase.get("size") or {}
+    block("TO WHOM", (ebase.get("population") or {}).get("description"))
+    print(f"    evidence base: {size.get('value')} {size.get('unit')}")
+    for s in ebase.get("additional_sizes") or []:
+        print(f"      also {s.get('value')} {s.get('unit')} — {s.get('note')}")
+    if cfg.get("sample"):
+        print(f"    analysed for THIS result: {cfg['sample'].get('value')} "
+              f"{cfg['sample'].get('unit')}")
     for f in ("age_or_stage", "prior_knowledge", "language_background"):
-        if cfg["population"].get(f):
-            print(f"    {f}: {cfg['population'][f]}")
-    block("COMPARED WITH", f"[{cfg['comparison'].get('kind')}] {cfg['comparison'].get('description')}")
+        if (ebase.get("population") or {}).get(f):
+            print(f"    {f}: {ebase['population'][f]}")
+    for v in ebase.get("variation") or []:
+        print(f"    varies by {v.get('dimension')}: {v.get('distribution')}")
+
+    refs = cfg["comparison"].get("reference_arms") or []
+    block("COMPARED WITH", f"[{cfg['comparison'].get('kind')}] "
+                           f"{cfg['comparison'].get('description')}")
+    if cfg["comparison"].get("reference_is_heterogeneous"):
+        print(f"    ** HETEROGENEOUS COMPARATOR — {len(refs)} different configurations "
+              f"pooled into one estimate **")
+    for ref in refs:
+        print(f"    reference arm [{ref.get('id')}]: {ref.get('description')}")
     block("IN WHAT CONTEXT", "; ".join(
-        f"{k}: {v}" for k, v in cfg["context"].items() if v))
+        f"{k}: {v}" for k, v in (ebase.get("context") or {}).items() if v))
     block("MEASURED HOW", f"{rec['outcome'].get('construct')} "
                           f"— {rec['outcome'].get('measure')} "
                           f"({rec['outcome'].get('scale')}, {rec['outcome'].get('direction')})")
@@ -174,6 +231,22 @@ def explain(records: list, observation_id: str) -> int:
               "model", "finding", "interpretation", "descriptives", "note"):
         if res.get(f) is not None:
             print(f"    {f}: {res[f]}")
+    if res.get("k"):
+        print(f"    pooled over: {res['k'].get('value')} {res['k'].get('unit')}")
+    if res.get("heterogeneity"):
+        h = res["heterogeneity"]
+        unit = {"percent": "%"}.get(h.get("unit"), f" {h['unit']}" if h.get("unit") else "")
+        note = f" — {h['interpretation']}" if h.get("interpretation") else ""
+        print(f"    heterogeneity: {h.get('statistic')} = {h.get('value')}{unit}{note}")
+    if res.get("prediction_interval"):
+        pi = res["prediction_interval"]
+        print(f"    prediction interval: {pi.get('lower')} to {pi.get('upper')}")
+    if res.get("certainty"):
+        c = res["certainty"]
+        print(f"    certainty: {c.get('rating')} ({c.get('framework')})")
+    synth = cfg.get("synthesis") or {}
+    for a in synth.get("attempted_but_precluded") or []:
+        print(f"    ATTEMPTED AND PRECLUDED: {a.get('analysis')} — {a.get('reason')}")
     mods = rec["moderators"].get("reported") or []
     block("REPORTED MODERATORS", "none reported" if not mods else "")
     for m in mods:

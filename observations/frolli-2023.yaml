@@ -6,7 +6,7 @@
 # the first; the second is what stops it being read as "traditional teaching
 # did nothing".
 
-schema_version: 1
+schema_version: 2
 
 study:
   key: frolli-2023
@@ -35,79 +35,100 @@ appears_in:
   - claim: game-based-practice-outperforms-traditional-l2-vocabulary-instruction
     anchor: frolli-et-al-2023
 
-population:
-  n: 48
-  description: >-
-    48 Ukrainian refugee children aged 6–7 (24 female, 24 male), who had arrived
-    in Italy one month before data collection. 24 per group.
-  age_or_stage: "6–7 years; whole sample M = 6.50 (SD 0.50); Gr1 M = 6.35 (0.49), Gr2 M = 6.45 (0.45)"
-  prior_knowledge: >-
-    Near-floor Italian vocabulary at baseline in both groups (Gr1 M = 40.54,
-    SD 4.62; Gr2 M = 40.29, SD 4.19 words), one month after arrival.
-  language_background: "L1 Ukrainian and/or Russian; Italian as L2"
-  relevant_characteristics:
-    - "Inclusion criteria: IQ in the normal range (Raven's Coloured Progressive Matrices)"
-    - "Inclusion criteria: no psychopathological disorder (K-SADS)"
-    - "Inclusion criteria: absence of socio-cultural disadvantage, established with an Economic Social Scale (Gr1 M = 7.35, Gr2 M = 7.15)"
-    - "Refugee children displaced by the war in Ukraine — a population selected on displacement, not on any learning characteristic"
-
-context:
-  setting: "Italian language instruction for Ukrainian refugees, within an 8-week project"
-  institution_or_environment: >-
-    Disability Research Centre (DRC) at Rome University of International Studies
-    (UNINT), in collaboration with the Italian Foundation for Neuroscience and
-    Developmental Disorders (FINDS). Lessons facilitated by MSc students.
-  geography: "Rome, Italy"
-  delivery_mode: "In-person classroom instruction"
-  duration: "Four weeks of data collection; three hours per day, twice a week (six hours per week)"
-
-intervention:
-  description: >-
-    Game-based learning: Italian vocabulary taught through games and activities,
-    including the digital platform Kahoot! and outdoor games, with the final day
-    given over entirely to a purpose-built 'Snakes and Ladders' game called 'The
-    Italian Olympics'.
-  elements:
-    - term: "games and activities (game-based learning) in place of frontal lessons"
-      anchors:
-        - principles/game-based-learning
-        - elements/learning-mechanic
-    - term: "Kahoot! digital quiz platform"
-      anchors:
-        - strategies/game-based-review
-    - term: "a purpose-designed 'Snakes and Ladders' board game, 'The Italian Olympics', on the final day"
-  dose:
-    amount: 24
-    unit: hours
-    detail: "six hours per week for four weeks (three hours per day, twice weekly)"
-  implementation_notes:
-    - >-
-      The language of instruction was Italian throughout, with Russian-speaking
-      teachers present. Russian was used only in cases of extreme necessity, or
-      to present grammatical topics with no counterpart in Russian or Ukrainian
-      grammar — the paper's named example is the explanation of articles.
-    - >-
-      NOTE ON THE CLAIM PAGE. claims/game-based-practice-outperforms-traditional-l2-vocabulary-instruction.md
-      renders this as "Italian articles were disproportionately hard for this
-      group". The paper reports it as an INSTRUCTIONAL accommodation, not as a
-      measured difficulty: articles required occasional use of Russian to aid
-      comprehension. No article-specific outcome was measured. Recorded here as
-      an implementation note and as a `candidate` moderator, never a reported one.
+evidence_base:
+  unit: participants
+  size:
+    value: 48
+    unit: participants
+  population:
+    description: 48 Ukrainian refugee children aged 6–7 (24 female, 24 male), who had arrived
+      in Italy one month before data collection. 24 per group.
+    age_or_stage: 6–7 years; whole sample M = 6.50 (SD 0.50); Gr1 M = 6.35 (0.49), Gr2 M =
+      6.45 (0.45)
+    prior_knowledge: Near-floor Italian vocabulary at baseline in both groups (Gr1 M = 40.54,
+      SD 4.62; Gr2 M = 40.29, SD 4.19 words), one month after arrival.
+    language_background: L1 Ukrainian and/or Russian; Italian as L2
+    relevant_characteristics:
+    - 'Inclusion criteria: IQ in the normal range (Raven''s Coloured Progressive Matrices)'
+    - 'Inclusion criteria: no psychopathological disorder (K-SADS)'
+    - 'Inclusion criteria: absence of socio-cultural disadvantage, established with an Economic
+      Social Scale (Gr1 M = 7.35, Gr2 M = 7.15)'
+    - Refugee children displaced by the war in Ukraine — a population selected on displacement,
+      not on any learning characteristic
+  context:
+    setting: Italian language instruction for Ukrainian refugees, within an 8-week project
+    institution_or_environment: Disability Research Centre (DRC) at Rome University of International
+      Studies (UNINT), in collaboration with the Italian Foundation for Neuroscience and Developmental
+      Disorders (FINDS). Lessons facilitated by MSc students.
+    geography: Rome, Italy
+    delivery_mode: In-person classroom instruction
+    duration: Four weeks of data collection; three hours per day, twice a week (six hours
+      per week)
+  variation: []
+  arms:
+    - id: game-based
+      description: >-
+        Game-based learning: Italian vocabulary taught through games and
+        activities, including Kahoot! and outdoor games, with the final day given
+        over entirely to a purpose-built 'Snakes and Ladders' game, 'The Italian
+        Olympics'.
+      size:
+        value: 24
+        unit: participants
+      elements:
+        - term: "games and activities (game-based learning) in place of frontal lessons"
+          anchors:
+            - principles/game-based-learning
+            - elements/learning-mechanic
+        - term: "Kahoot! digital quiz platform"
+          anchors:
+            - strategies/game-based-review
+        - term: "a purpose-designed 'Snakes and Ladders' board game, 'The Italian Olympics', on the final day"
+      dose:
+        amount: 24
+        unit: hours
+        detail: "six hours per week for four weeks (three hours per day, twice weekly)"
+      implementation_notes:
+        - >-
+          The language of instruction was Italian throughout, with Russian-speaking
+          teachers present. Russian was used only in cases of extreme necessity, or
+          to present grammatical topics with no counterpart in Russian or Ukrainian
+          grammar — the paper's named example is the explanation of articles.
+        - >-
+          NOTE ON THE CLAIM PAGE. The claim page renders this as "Italian articles
+          were disproportionately hard for this group". The paper reports it as an
+          INSTRUCTIONAL accommodation, not a measured difficulty, and measured no
+          article-specific outcome. Recorded as an implementation note and a
+          `candidate` moderator, never a reported one.
+    - id: traditional-frontal
+      description: >-
+        Group 1 learnt Italian through frontal lessons — the traditional approach —
+        over the same four weeks, same dose, same setting.
+      size:
+        value: 24
+        unit: participants
+      elements:
+        - term: "frontal lessons (traditional approach)"
+          anchors:
+            - elements/direct-instruction
 
 comparisons:
   - id: traditional-frontal-lessons
     kind: between-groups
+    index_arm: game-based
+    reference_arm: traditional-frontal
     description: >-
-      Group 1 (n = 24) learnt Italian through frontal lessons — the traditional
-      approach — over the same four weeks, same dose, same setting.
-    elements:
-      - term: "frontal lessons (traditional approach)"
-        anchors:
-          - elements/direct-instruction
+      Game-based learning against traditional frontal lessons: 24 children per
+      arm, same four weeks, same dose, same setting.
   - id: within-subject-baseline
     kind: within-subject-baseline
-    description: "Each group's own T0 vocabulary score, one month after arrival in Italy."
-    elements: []
+    index_arm:
+      - game-based
+      - traditional-frontal
+    description: >-
+      Each group's own T0 vocabulary score, one month after arrival in Italy.
+      Both arms are named: the within-subject time effect is reported across
+      the whole sample, not for one condition.
 
 observations:
 
