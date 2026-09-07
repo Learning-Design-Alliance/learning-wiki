@@ -73,8 +73,20 @@ def compile_all(directory: Path | None = None) -> tuple[list, list]:
             # Resolve the contrast into the arms it is over. A consumer must
             # never have to join two blocks to know WHICH configuration beat
             # WHICH — that ambiguity is what v1's free-text comparison had.
-            comp["index"] = arms.get(comp.get("index_arm"))
-            comp["reference"] = arms.get(comp.get("reference_arm"))
+            #
+            # ALWAYS LISTS on the way out, whichever way the YAML was authored.
+            # One arm needs no brackets in a hand-written file; a consumer
+            # should never have to test whether it got a mapping or a list.
+            idx_ids = ol.arms_named(comp.get("index_arm"))
+            ref_ids = ol.arms_named(comp.get("reference_arm"))
+            comp["index_arms"] = [arms[a] for a in idx_ids if a in arms]
+            comp["reference_arms"] = [arms[a] for a in ref_ids if a in arms]
+            # Derived and emitted rather than left to be counted, because it
+            # changes what the estimate means: a pooled effect against two
+            # different counterfactuals is a different object from one against
+            # a single control, and a consumer weighting rows needs to see it.
+            comp["reference_is_heterogeneous"] = len(ref_ids) > 1
+            comp["index_is_heterogeneous"] = len(idx_ids) > 1
             out.append({
                 "kind": RECORD_KIND,
                 "compiler_version": COMPILER_VERSION,
@@ -165,14 +177,19 @@ def explain(records: list, observation_id: str) -> int:
 
     print(f"=== {rec['observation_id']} ===")
     print(f"    {rec['provenance'].get('citation')}")
-    idx = cfg["comparison"].get("index") or {}
-    block("WHAT WAS DONE", idx.get("description") or "(no index arm — see the comparison below)")
-    for el in idx.get("elements") or []:
-        anchors = ", ".join(el.get("anchors") or []) or "no wiki anchor"
-        print(f"    - {el['term']}  [{anchors}]")
-    if idx.get("dose"):
-        d = idx["dose"]
-        print(f"    dose: {d.get('amount')} {d.get('unit')} — {d.get('detail', '')}")
+    idx_arms = cfg["comparison"].get("index_arms") or []
+    block("WHAT WAS DONE", "" if idx_arms else "(no index arm — see the comparison below)")
+    for idx in idx_arms:
+        if len(idx_arms) > 1:
+            print(f"    [{idx.get('id')}] {idx.get('description')}")
+        else:
+            print(f"    {idx.get('description')}")
+        for el in idx.get("elements") or []:
+            anchors = ", ".join(el.get("anchors") or []) or "no wiki anchor"
+            print(f"      - {el['term']}  [{anchors}]")
+        if idx.get("dose"):
+            d = idx["dose"]
+            print(f"      dose: {d.get('amount')} {d.get('unit')} — {d.get('detail', '')}")
 
     ebase = cfg["evidence_base"]
     size = ebase.get("size") or {}
@@ -189,11 +206,14 @@ def explain(records: list, observation_id: str) -> int:
     for v in ebase.get("variation") or []:
         print(f"    varies by {v.get('dimension')}: {v.get('distribution')}")
 
-    ref = cfg["comparison"].get("reference") or {}
+    refs = cfg["comparison"].get("reference_arms") or []
     block("COMPARED WITH", f"[{cfg['comparison'].get('kind')}] "
                            f"{cfg['comparison'].get('description')}")
-    if ref:
-        print(f"    reference arm: {ref.get('description')}")
+    if cfg["comparison"].get("reference_is_heterogeneous"):
+        print(f"    ** HETEROGENEOUS COMPARATOR — {len(refs)} different configurations "
+              f"pooled into one estimate **")
+    for ref in refs:
+        print(f"    reference arm [{ref.get('id')}]: {ref.get('description')}")
     block("IN WHAT CONTEXT", "; ".join(
         f"{k}: {v}" for k, v in (ebase.get("context") or {}).items() if v))
     block("MEASURED HOW", f"{rec['outcome'].get('construct')} "

@@ -64,12 +64,10 @@ evidence_base:
   # design collapses into "an intervention" and loses which contrast is which.
   arms:
     - id: baseline
-      role: baseline
       description: "Read the experimental text with no lexical elaboration of the six target words."
       elements:
         - term: "unelaborated reading of the target text"
     - id: unenhanced-elaboration
-      role: intervention
       description: >-
         Read the same text with lexical elaboration — additional information
         such as definitions, synonyms or appositions — supplied for the target
@@ -79,7 +77,6 @@ evidence_base:
           anchors:
             - claims/incidental-vocabulary-exposure-limited
     - id: enhanced-elaboration
-      role: intervention
       description: >-
         Read the same text with the same lexical elaboration PLUS visual input
         enhancement of the form-meaning relationship.

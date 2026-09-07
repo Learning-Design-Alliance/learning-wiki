@@ -29,6 +29,27 @@ pools that contrast across studies instead of measuring it once. Nothing about
 a meta-analysis needed a parallel set of fields; it needed the middle layer to
 stop assuming there was exactly one group of people.
 
+THE GOVERNING RULE
+------------------
+Put information at the LOWEST LEVEL AT WHICH IT ACTUALLY VARIES, and preserve
+observations at the GRAIN AT WHICH THE SOURCE ACTUALLY REPORTS THEM.
+
+That one rule explains every placement here, and it is also what settled the
+two questions this schema got wrong first time round:
+
+  * total corpus N varies per study, so it sits on `evidence_base`; analysed N
+    varies per result, so it sits on the observation;
+  * `k` varies per pooled estimate (9 for knowledge, 2 for surgical skills,
+    from one corpus of 23), so it sits on the result;
+  * arms and comparisons vary per contrast rather than per result or per
+    study, so they sit between the two;
+  * an arm has no fixed `role`, because whether it is the intervention or the
+    comparator varies BY COMPARISON — see `comparisons` below;
+  * and a pooled estimate over heterogeneous comparators stays ONE
+    observation, because that is the grain the source reports, with the
+    heterogeneity recorded structurally rather than normalised into effects
+    nobody measured.
+
 EVERY COUNT CARRIES ITS UNIT
 ----------------------------
 The corpus had already proved this necessary before either fixture was
@@ -157,10 +178,19 @@ SOURCE_TYPES = {"research", "runtime-learner-data", "synthetic-simulation",
                 "llm-proposed", "platform-experiment"}
 VERIFICATION_STATES = {"unverified", "machine-checked", "human-reviewed"}
 
-# What an arm IS within the evidence base. `corpus-stratum` is what makes one
-# mechanism serve a synthesis: "spaced online education (17 of 23 studies)" is
-# an arm of the corpus, not a group of people in a room.
-ARM_ROLES = {"intervention", "comparator", "baseline", "corpus-stratum", "other"}
+# An arm carries NO `role`. It was there in the first draft and removed on
+# evidence: nothing read it, and it is not a property of an arm. In the
+# three-arm fixture `unenhanced-elaboration` was declared `role: intervention`
+# and is the REFERENCE side of `enhanced-vs-unenhanced` — so whether an arm is
+# the intervention or the comparator varies by comparison, which is exactly
+# where `index_arm`/`reference_arm` already say it. A type tag on the arm
+# duplicates that and contradicts it.
+#
+# Nor does an arm need an epistemic type to mark a synthesis: the containing
+# source already says `design.family: meta-analysis`, and the arm's own
+# `size: {value: 17, unit: studies}` already says it is 17 studies rather than
+# 17 people. An arm is a named configuration; what it means is read from where
+# it sits.
 
 COMPARISON_KINDS = {
     "between-groups",          # separate people, or separate corpus strata
@@ -216,6 +246,22 @@ def _count(issues, where, value, field, required=False):
     if not isinstance(value.get("value"), (int, float)):
         _err(issues, where, f"{field}.value must be a number")
     _enum(issues, where, value.get("unit"), COUNT_UNITS, f"{field}.unit", required=True)
+
+
+def arms_named(value) -> list:
+    """An arm reference is a string or a list of strings, always read as a list.
+
+    Authored either way for ergonomics — one arm is the overwhelmingly common
+    case and should not need brackets — and normalised here so that every
+    consumer sees one shape. Same call the repo makes about unescaping
+    Crossref's HTML entities once, at the boundary."""
+    if value is None:
+        return []
+    if isinstance(value, str):
+        return [value]
+    if isinstance(value, list):
+        return [v for v in value if isinstance(v, str)]
+    return []
 
 
 def _anchors(anchors, issues, where):
@@ -444,7 +490,9 @@ def _validate_evidence_base(rec, key, issues, family) -> set:
         if aid in arm_ids:
             _err(issues, w, f"duplicate arm id {aid!r}")
         arm_ids.add(aid)
-        _enum(issues, w, arm.get("role"), ARM_ROLES, "role", required=True)
+        if "role" in arm:
+            _err(issues, w, "`role` was removed in schema 2: an arm's role varies by "
+                            "comparison, and index_arm/reference_arm already carry it")
         _str(issues, w, arm.get("description"), "description", required=True)
         if arm.get("size") is not None:
             _count(issues, w, arm.get("size"), "size")
@@ -458,6 +506,7 @@ def _validate_comparisons(rec, key, issues, arm_ids) -> set:
         _err(issues, key, "comparisons must be a list")
         return set()
     comp_ids: set = set()
+    used: set = set()
     for i, comp in enumerate(comparisons):
         where = f"{key}.comparisons[{i}]"
         if not isinstance(comp, dict):
@@ -473,15 +522,35 @@ def _validate_comparisons(rec, key, issues, arm_ids) -> set:
         _str(issues, where, comp.get("description"), "description", required=True)
         # Arms are what make a multi-arm design representable: three arms give
         # three pairwise contrasts, and each observation says which one it is.
+        #
+        # Either side may name MORE THAN ONE arm. That is the smallest
+        # representation of a heterogeneous comparator, and it exists because
+        # Martinengo et al. pool three studies of which two compared against
+        # massed online education and one against no intervention at all. The
+        # paper reports one estimate, so it stays one observation — but "the
+        # comparator is two configurations" is part of the relational
+        # structure and has to be readable without parsing prose.
         for field in ("index_arm", "reference_arm"):
-            arm = comp.get(field)
-            if arm is None:
+            named = arms_named(comp.get(field))
+            if not named:
                 if kind not in ("none", "within-subject-baseline"):
                     _err(issues, where, f"{field} is required for kind {kind!r} — name the "
-                                        f"arm in evidence_base.arms this contrast is over")
-            elif arm not in arm_ids:
-                _err(issues, where, f"{field} is {arm!r}, which is not an id in "
-                                    f"evidence_base.arms ({', '.join(sorted(arm_ids)) or 'none'})")
+                                        f"arm(s) in evidence_base.arms this contrast is over")
+            for arm in named:
+                if arm not in arm_ids:
+                    _err(issues, where, f"{field} names {arm!r}, which is not an id in "
+                                        f"evidence_base.arms "
+                                        f"({', '.join(sorted(arm_ids)) or 'none'})")
+                used.add(arm)
+
+    # An arm nothing contrasts is dead data, and this is the invariant `role`
+    # was standing in for without enforcing. A within-subject comparison may
+    # name its index arm — "this configuration against its own earlier state" —
+    # which is how a single-group study's one arm gets used.
+    for orphan in sorted(arm_ids - used):
+        _err(issues, f"{key}.evidence_base.arms",
+             f"arm {orphan!r} is named by no comparison — an arm nothing is "
+             f"contrasted against or with cannot be reached from any observation")
     return comp_ids
 
 
@@ -511,11 +580,14 @@ def _validate_observation(o, key, i, comp_ids, seen, family) -> list:
     _str(issues, where, out.get("source_language"), "outcome.source_language", required=True)
     _str(issues, where, out.get("measure"), "outcome.measure")
     _enum(issues, where, out.get("direction"), DIRECTIONS, "outcome.direction")
-    _enum(issues, where, out.get("role"), OUTCOME_ROLES, "outcome.role")
-    _enum(issues, where, out.get("role_basis"), ROLE_BASIS, "outcome.role_basis")
-    if out.get("role") and not out.get("role_basis"):
-        _err(issues, where, "outcome.role is set but role_basis is not — say whether the "
-                            "source stated this classification or you inferred it")
+    # Required, with `other` + `role_basis: ambiguous` as the way to DECLINE
+    # rather than to guess — the classification is never forced, but silence
+    # about it is not an option. Made required after an editing pass deleted
+    # `outcome.role` from all 21 observations and the validator passed: an
+    # optional field cannot tell "nobody classified this" from "a regex ate it".
+    _enum(issues, where, out.get("role"), OUTCOME_ROLES, "outcome.role", required=True)
+    _enum(issues, where, out.get("role_basis"), ROLE_BASIS, "outcome.role_basis",
+          required=bool(out.get("role")))
     for j, v in enumerate(out.get("valued_by") or []):
         w = f"{where}.outcome.valued_by[{j}]"
         if not isinstance(v, dict):

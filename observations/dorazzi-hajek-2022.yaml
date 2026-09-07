@@ -68,11 +68,9 @@ evidence_base:
   # `role: other`, because nothing was administered to either.
   arms:
     - id: learners
-      role: other
       description: "University learners of Italian across four programmes, asked about their own motivation."
       elements: []
     - id: teachers
-      role: other
       description: "Their teachers, asked about what motivates learners."
       elements: []
 

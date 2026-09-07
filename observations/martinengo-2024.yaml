@@ -119,7 +119,6 @@ evidence_base:
   # to slices of a literature rather than to groups of people.
   arms:
     - id: spaced-online
-      role: corpus-stratum
       description: "Spaced online education: digital content delivered in repeated sessions separated by prespecified intervals."
       size:
         value: 17
@@ -129,7 +128,6 @@ evidence_base:
           anchors:
             - claims/spacing-improves-long-term-retention
     - id: spaced-digital-simulation
-      role: corpus-stratum
       description: "Spaced digital simulation: simulation-based training distributed across repeated sessions."
       size:
         value: 6
@@ -139,17 +137,14 @@ evidence_base:
           anchors:
             - elements/simulation
     - id: massed-online
-      role: comparator
       description: "Massed (nonspaced) online education delivering the same content in a single block."
       elements:
         - term: "massed online education"
     - id: massed-simulation
-      role: comparator
       description: "Massed (nonspaced) digital simulation."
       elements:
         - term: "massed simulation"
     - id: no-intervention
-      role: comparator
       description: "No educational intervention."
       elements: []
 
@@ -164,15 +159,27 @@ comparisons:
     index_arm: spaced-digital-simulation
     reference_arm: massed-simulation
     description: "Spaced digital simulation against massed simulation."
-  - id: spaced-online-vs-any-control
+  - id: spaced-online-vs-heterogeneous-control
     kind: between-groups
     index_arm: spaced-online
-    reference_arm: no-intervention
+    # TWO reference arms. The three pooled studies do not share a comparator:
+    # two compared with massed online education and one with no intervention at
+    # all. The paper reports ONE estimate, so this stays one observation — but
+    # "the comparator is two configurations" is relational structure, and a
+    # consumer must be able to read it without parsing the prose below.
+    #
+    # Deliberately NOT split into per-comparator effects: the source reports no
+    # such effects, and inventing them would be the metric conversion this
+    # schema forbids. Deliberately not given per-study contribution counts
+    # either — the source does report 2 and 1, but no use case yet needs that
+    # grain, and a field nobody reads is a field that goes stale.
+    reference_arm:
+      - massed-online
+      - no-intervention
     description: >-
-      Spaced online education against a mixed control set — the abstract reports
-      this estimate over studies comparing with massed online education (2) and
-      with no intervention (1). The reference arm is recorded as the weaker of
-      the two, and the mixture is named here rather than hidden.
+      Spaced online education against a heterogeneous comparator: of the three
+      studies pooled here, two compared with massed online education and one
+      with no intervention.
 
 observations:
 
@@ -247,7 +254,7 @@ observations:
       valued_by: []
     time:
       label: postintervention
-    comparison_ref: spaced-online-vs-any-control
+    comparison_ref: spaced-online-vs-heterogeneous-control
     result:
       measure_type: standardized_mean_difference
       estimate: 0.67
@@ -266,10 +273,10 @@ observations:
         framework: GRADE
       model: "random-effects"
       note: >-
-        The three studies do not share a comparator: two compared with massed
-        online education and one with no intervention. Recorded rather than
-        smoothed over — a pooled estimate across two different counterfactuals
-        is a different object from one against a single control.
+        A pooled estimate across two different counterfactuals is a different
+        object from one against a single control. The comparison this
+        observation names carries both reference arms, so that is readable
+        structurally; this note says why it matters.
     moderators:
       reported: []
       candidate: []

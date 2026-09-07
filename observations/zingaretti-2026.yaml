@@ -72,7 +72,6 @@ evidence_base:
   # a three-arm trial uses, not a different schema.
   arms:
     - id: intensive-online-course
-      role: intervention
       description: >-
         A one-week intensive online Italian course designed to enhance vocabulary
         and conversational fluency through interactive and immersive online
@@ -99,6 +98,7 @@ evidence_base:
 comparisons:
   - id: within-subject-baseline
     kind: within-subject-baseline
+    index_arm: intensive-online-course
     description: >-
       Each participant's own pre-course score. Every reported effect is a change
       from baseline in a mixed-effects model, not a between-group difference.

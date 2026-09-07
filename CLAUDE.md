@@ -525,14 +525,37 @@ comprehension ANOVA on 62 of 67 randomised had no home for its own analysed n. S
 are three levels now — **source**, **evidence base**, **observations** — and the middle
 one carries `arms`.
 
+**The governing rule, which explains every placement in the schema:** *put information at
+the lowest level at which it actually varies, and preserve observations at the grain at
+which the source actually reports them.* Total corpus N varies per study; analysed N per
+result; `k` per pooled estimate; arms and comparisons per contrast. And a pooled estimate
+over heterogeneous comparators stays ONE observation, because that is the grain the source
+reports — the heterogeneity is recorded structurally, never normalised into effects nobody
+measured.
+
 **Arms + comparisons is the abstraction that makes one schema fit both shapes.** A
 three-arm trial's "unenhanced vs baseline" and a meta-analysis's "spaced online vs massed
 online" are the same object: a contrast between two named configurations. The synthesis
 pools it across studies; the trial measures it once. Nothing about a meta-analysis needed
 a parallel set of fields — it needed the middle layer to stop assuming one group of
-people. An arm's `role` is what varies, and `corpus-stratum` is the value that makes
-"spaced online education, 17 of 23 studies" an arm of a literature rather than a group in
-a room. A single-group study has one arm; a survey has `arms: []`.
+people. **An arm carries no `role`.** The first draft gave it one and it was removed on evidence:
+nothing read it, and it is not a property of an arm — in the three-arm fixture
+`unenhanced-elaboration` is declared `intervention` and is the *reference* side of
+`enhanced-vs-unenhanced`, so the role varies by comparison, which is where
+`index_arm`/`reference_arm` already say it. Nor does an arm need a type to mark a
+synthesis: the source already says `design.family: meta-analysis` and the arm's own
+`size: {value: 17, unit: studies}` says it is studies rather than people. What replaced
+`role` is the invariant it was standing in for without enforcing — **every arm must be
+named by at least one comparison**, because an arm nothing is contrasted with is
+unreachable from any observation. A single-group study has one arm; a survey has
+`arms: []`.
+
+**Either side of a comparison may name more than one arm**, which is the whole
+representation of a heterogeneous comparator. Martinengo et al. pool three studies against
+two different controls and report one estimate, so it stays one observation; the compiler
+emits `reference_is_heterogeneous: true` beside the resolved arms. Per-study contribution
+counts are deliberately not recorded — the source reports them, but no use case needs that
+grain yet, and a field nobody reads goes stale.
 
 **Every count carries its unit, and the corpus proved that necessary before either fixture
 was written.** Its evidence entries already carry `n=18`, `n=30 studies`, `n=66 articles`,

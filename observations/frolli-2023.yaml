@@ -67,7 +67,6 @@ evidence_base:
   variation: []
   arms:
     - id: game-based
-      role: intervention
       description: >-
         Game-based learning: Italian vocabulary taught through games and
         activities, including Kahoot! and outdoor games, with the final day given
@@ -102,7 +101,6 @@ evidence_base:
           article-specific outcome. Recorded as an implementation note and a
           `candidate` moderator, never a reported one.
     - id: traditional-frontal
-      role: comparator
       description: >-
         Group 1 learnt Italian through frontal lessons — the traditional approach —
         over the same four weeks, same dose, same setting.
@@ -124,7 +122,13 @@ comparisons:
       arm, same four weeks, same dose, same setting.
   - id: within-subject-baseline
     kind: within-subject-baseline
-    description: "Each group's own T0 vocabulary score, one month after arrival in Italy."
+    index_arm:
+      - game-based
+      - traditional-frontal
+    description: >-
+      Each group's own T0 vocabulary score, one month after arrival in Italy.
+      Both arms are named: the within-subject time effect is reported across
+      the whole sample, not for one condition.
 
 observations:
 

@@ -16,6 +16,28 @@ intervention/configuration + population + context + comparison + measurement + t
 
 ---
 
+## The governing rule
+
+> **Put information at the lowest level at which it actually varies, and preserve
+> observations at the grain at which the source actually reports them.**
+
+That one rule explains every placement in this schema, and settles the questions
+it got wrong first time round:
+
+- **total corpus N** varies per study → `evidence_base`; **analysed N** varies per
+  result → the observation;
+- **`k`** varies per pooled estimate (9 for knowledge, 2 for surgical skills, from
+  one corpus of 23) → the result;
+- **arms and comparisons** vary per *contrast* rather than per study or per result
+  → between the two;
+- an arm has **no fixed role**, because whether it is the intervention or the
+  comparator varies *by comparison* — see below;
+- and a pooled estimate over heterogeneous comparators **stays one observation**,
+  because that is the grain the source reports, with the heterogeneity recorded
+  structurally rather than normalised into effects nobody measured.
+
+---
+
 ## Why version 2: source, evidence base, observations
 
 v1 had **two** levels — a `study` whose `population` / `context` / `intervention`
@@ -55,12 +77,52 @@ across studies instead of measuring it once; the trial measures it once. Nothing
 about a meta-analysis needed a parallel set of fields. It needed the middle layer
 to stop assuming there was exactly one group of people.
 
-An arm's `role` is what varies: `intervention` / `comparator` / `baseline` for a
-primary study, **`corpus-stratum`** for a synthesis — "spaced online education,
-17 of 23 studies" is an arm of a literature, not a group in a room.
+**An arm carries no `role`, and no epistemic type.** The first draft gave it one
+(`intervention` / `comparator` / `baseline` / `corpus-stratum`) and it was removed
+on evidence: nothing read it, and it is not a property of an arm. In the three-arm
+fixture, `unenhanced-elaboration` was declared `role: intervention` and is the
+**reference** side of `enhanced-vs-unenhanced` — so whether an arm is the
+intervention or the comparator **varies by comparison**, which is exactly where
+`index_arm` / `reference_arm` already say it. A tag on the arm both duplicates and
+contradicts that.
+
+Nor does an arm need a type to mark a synthesis. The containing source already
+says `design.family: meta-analysis`, and the arm's own `size: {value: 17, unit:
+studies}` already says it is 17 studies rather than 17 people. **An arm is a named
+configuration; what it means is read from where it sits.**
+
+What replaced `role` is the invariant it was standing in for without enforcing:
+**every arm must be named by at least one comparison.** An arm nothing is
+contrasted with cannot be reached from any observation, and is dead data. A
+within-subject comparison may name its index arm — "this configuration against its
+own earlier state" — which is how a single-group study's one arm gets used.
 
 A single-group study has one arm. An observational survey has `arms: []`. Neither
 is a special case; both are the same mechanism with fewer arms.
+
+### A heterogeneous comparator stays one observation
+
+Either side of a comparison may name **more than one arm**:
+
+```yaml
+  - id: spaced-online-vs-heterogeneous-control
+    kind: between-groups
+    index_arm: spaced-online
+    reference_arm:
+      - massed-online
+      - no-intervention
+```
+
+Martinengo et al. pool three studies of which two compared against massed online
+education and one against no intervention. The paper reports **one** estimate, so
+this is **one** observation — splitting it into per-comparator effects would
+invent effects the source never reported. But "the comparator is two
+configurations" is relational structure, so it is readable without parsing prose:
+the compiler emits `reference_is_heterogeneous: true` alongside the resolved arms.
+
+Per-study contribution counts (2 and 1) are deliberately **not** recorded. The
+source does report them, but no use case yet needs that grain, and a field nobody
+reads is a field that goes stale.
 
 ### Every count carries its unit
 
@@ -194,9 +256,9 @@ evidence_base:               # required — what the results are ABOUT
     - {dimension, distribution}   # over populations, not one population
   arms:
     - id:                    # required
-      role:                  # required — intervention | comparator | baseline
-                             # | corpus-stratum | other
-      description:           # required
+      description:           # required. No `role`: an arm's role varies by
+                             # comparison, and index_arm/reference_arm carry it.
+                             # Every arm must be named by some comparison.
       size: {value, unit}
       elements: [{term, anchors: [...]}]   # `term` required; anchors must resolve
       dose: {amount, unit, detail}
@@ -206,8 +268,10 @@ comparisons:
   - id:                      # required
     kind:                    # required — between-groups | within-subject-baseline
                              # | historical | none | other   ("none" is a VALUE)
-    index_arm: | reference_arm:   # arm ids; required except for kind
-                                  # `none` and `within-subject-baseline`
+    index_arm: | reference_arm:   # an arm id, OR a list of them for a
+                                  # heterogeneous side. Required except for kind
+                                  # `none` and `within-subject-baseline`, which
+                                  # may still name an index arm and usually should
     description:             # required
 
 observations:                # required, non-empty
@@ -219,11 +283,13 @@ observations:                # required, non-empty
       source_language:       # required — the author's own wording, preserved
       measure: | scale:
       direction:             # higher-is-better | lower-is-better | contextual
-      role:                  # capability-evidence | proximal-outcome
+      role:                  # REQUIRED — capability-evidence | proximal-outcome
                              # | intermediate-outcome | distal-outcome
                              # | organizational-outcome | learner-characteristic
                              # | other
-      role_basis:            # stated | inferred | ambiguous — required if role set
+      role_basis:            # required — stated | inferred | ambiguous.
+                             # `other` + `ambiguous` is how to DECLINE to
+                             # classify; silence is not an option
       valued_by: [{actor, basis}]      # ONLY where the source identifies them
       anchors: [...]
     time:
@@ -261,7 +327,6 @@ not_yet_extracted: [...]     # findings seen and not encoded. An observation wit
 | `study.design.family` | `randomized-controlled-trial` `quasi-experimental` `observational` `longitudinal` `qualitative` `mixed-methods` `meta-analysis` `systematic-review` `simulation` `other` |
 | `result.measure_type` | `cohens_d` `hedges_g` `odds_ratio` `risk_ratio` `correlation` `mean_difference` `standardized_mean_difference` `regression_coefficient` `probability` `count` `qualitative` `eta_squared` `partial_eta_squared` `other` |
 | count `unit` | `participants` `studies` `reports` `classes` `schools` `sites` `effect-sizes` `comparisons` `pairs` `items` `sessions` `other` |
-| `arms[].role` | `intervention` `comparator` `baseline` `corpus-stratum` `other` |
 | `comparisons[].kind` | `between-groups` `within-subject-baseline` `historical` `none` `other` |
 | `observability.*` | `observed` `partial` `unreported` |
 | `heterogeneity.statistic` | `I2` `tau2` `Q` `H` `other` |
