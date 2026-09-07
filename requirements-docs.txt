@@ -1,1 +1,4 @@
 mkdocs-material>=9.5
+# A lint dependency as well as a docs one: scripts/observation_lib.py reads
+# observations/*.yaml, and lint.py's check_observations runs before mkdocs.
+PyYAML>=6.0

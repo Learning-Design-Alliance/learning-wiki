@@ -1,0 +1,202 @@
+# Frolli et al. (2023) — game-based vs traditional Italian vocabulary teaching
+# for Ukrainian refugee children.
+#
+# Two observations: the between-group effect (which condition won) and the
+# within-subject time effect (both conditions worked). The claim page argues
+# the first; the second is what stops it being read as "traditional teaching
+# did nothing".
+
+schema_version: 1
+
+study:
+  key: frolli-2023
+  citation: "Frolli, A., Cerciello, F., Esposito, C., Russo, M., & Bisogni, F. (2023). Learning Italian as a second language in a sample of Ukrainian children: A game-based learning approach. Pediatric Reports, 15(3), 502–511."
+  doi: "10.3390/pediatric15030046"
+  design:
+    family: quasi-experimental
+    # Two groups, but the paper nowhere states random assignment — it says the
+    # sample was "divided into two groups". The authors themselves call for
+    # "extensive randomized control trials" as future work, which settles it.
+    # Writing `randomized-controlled-trial` here would assert an allocation
+    # procedure the source does not describe.
+    design_detail: >-
+      Two-group pre/post comparison analysed as a 2 × 2 mixed repeated-measures
+      ANOVA — within factor time (T0, T1), between factor group. Allocation
+      procedure not stated; no randomisation reported.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-09-07
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: game-based-practice-outperforms-traditional-l2-vocabulary-instruction
+    anchor: frolli-et-al-2023
+
+population:
+  n: 48
+  description: >-
+    48 Ukrainian refugee children aged 6–7 (24 female, 24 male), who had arrived
+    in Italy one month before data collection. 24 per group.
+  age_or_stage: "6–7 years; whole sample M = 6.50 (SD 0.50); Gr1 M = 6.35 (0.49), Gr2 M = 6.45 (0.45)"
+  prior_knowledge: >-
+    Near-floor Italian vocabulary at baseline in both groups (Gr1 M = 40.54,
+    SD 4.62; Gr2 M = 40.29, SD 4.19 words), one month after arrival.
+  language_background: "L1 Ukrainian and/or Russian; Italian as L2"
+  relevant_characteristics:
+    - "Inclusion criteria: IQ in the normal range (Raven's Coloured Progressive Matrices)"
+    - "Inclusion criteria: no psychopathological disorder (K-SADS)"
+    - "Inclusion criteria: absence of socio-cultural disadvantage, established with an Economic Social Scale (Gr1 M = 7.35, Gr2 M = 7.15)"
+    - "Refugee children displaced by the war in Ukraine — a population selected on displacement, not on any learning characteristic"
+
+context:
+  setting: "Italian language instruction for Ukrainian refugees, within an 8-week project"
+  institution_or_environment: >-
+    Disability Research Centre (DRC) at Rome University of International Studies
+    (UNINT), in collaboration with the Italian Foundation for Neuroscience and
+    Developmental Disorders (FINDS). Lessons facilitated by MSc students.
+  geography: "Rome, Italy"
+  delivery_mode: "In-person classroom instruction"
+  duration: "Four weeks of data collection; three hours per day, twice a week (six hours per week)"
+
+intervention:
+  description: >-
+    Game-based learning: Italian vocabulary taught through games and activities,
+    including the digital platform Kahoot! and outdoor games, with the final day
+    given over entirely to a purpose-built 'Snakes and Ladders' game called 'The
+    Italian Olympics'.
+  elements:
+    - term: "games and activities (game-based learning) in place of frontal lessons"
+      anchors:
+        - principles/game-based-learning
+        - elements/learning-mechanic
+    - term: "Kahoot! digital quiz platform"
+      anchors:
+        - strategies/game-based-review
+    - term: "a purpose-designed 'Snakes and Ladders' board game, 'The Italian Olympics', on the final day"
+  dose:
+    amount: 24
+    unit: hours
+    detail: "six hours per week for four weeks (three hours per day, twice weekly)"
+  implementation_notes:
+    - >-
+      The language of instruction was Italian throughout, with Russian-speaking
+      teachers present. Russian was used only in cases of extreme necessity, or
+      to present grammatical topics with no counterpart in Russian or Ukrainian
+      grammar — the paper's named example is the explanation of articles.
+    - >-
+      NOTE ON THE CLAIM PAGE. claims/game-based-practice-outperforms-traditional-l2-vocabulary-instruction.md
+      renders this as "Italian articles were disproportionately hard for this
+      group". The paper reports it as an INSTRUCTIONAL accommodation, not as a
+      measured difficulty: articles required occasional use of Russian to aid
+      comprehension. No article-specific outcome was measured. Recorded here as
+      an implementation note and as a `candidate` moderator, never a reported one.
+
+comparisons:
+  - id: traditional-frontal-lessons
+    kind: between-groups
+    description: >-
+      Group 1 (n = 24) learnt Italian through frontal lessons — the traditional
+      approach — over the same four weeks, same dose, same setting.
+    elements:
+      - term: "frontal lessons (traditional approach)"
+        anchors:
+          - elements/direct-instruction
+  - id: within-subject-baseline
+    kind: within-subject-baseline
+    description: "Each group's own T0 vocabulary score, one month after arrival in Italy."
+    elements: []
+
+observations:
+
+  - id: vocabulary-between-groups-post
+    outcome:
+      construct: "Second-language receptive/productive vocabulary size"
+      source_language: "number of learned words"
+      measure: "Italian vocabulary inventory (caregiver-indicated production, 680-entry instrument)"
+      scale: "count of words"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+      anchors:
+        - learner-variables/reading-and-language
+    time:
+      label: post
+      offset:
+        value: 4
+        unit: weeks
+        from: start-of-instruction
+    comparison_ref: traditional-frontal-lessons
+    result:
+      measure_type: partial_eta_squared
+      estimate: 0.827
+      statistic: "F(1,46) = 219.215, p < 0.001 (between-subjects group effect)"
+      p_value: "<0.001"
+      descriptives: >-
+        T0: Gr1 (traditional) M = 40.54, SD = 4.62; Gr2 (game-based) M = 40.29,
+        SD = 4.19. T1: Gr1 M = 139.29, SD = 4.80; Gr2 M = 171.91, SD = 5.45.
+      # The two group means at T1 differ by roughly 33 words, but that number
+      # is not printed in the paper and is not written here: deriving one
+      # metric from another is a separate analytical act, not an ingestion one.
+      note: "The paper prints the interaction as 'F (1.46)'; read as F(1,46), matching df = 1 and error df = 46 in its own Table 4."
+    moderators:
+      reported: []
+      candidate:
+        - "L1 typology: articles are absent from Russian and Ukrainian grammar and needed L1 support during teaching. Candidate only — no article-specific outcome was measured."
+        - "Age band: the whole sample is 6–7, so nothing here separates a game-based advantage from one specific to early primary learners."
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      outcome_timing is `partial`: T0 and T1 are located relative to the four
+      weeks of instruction, but the paper states no follow-up and explicitly
+      names one as needed future work — so nothing here bears on retention.
+    source_quote: "Time × group interaction is significant [F (1.46) = 219.215, p < 0.05]. This finding indicates that there is a significant interaction between time and intervention type. More specifically, both trainings showed an effectiveness expressed through a higher number of learned words, but this effectiveness was more significant in Gr2"
+    source_location: "§3 Results, Table 2 and Table 4"
+
+  - id: vocabulary-within-subject-time-effect
+    outcome:
+      construct: "Second-language receptive/productive vocabulary size"
+      source_language: "number of learned words"
+      measure: "Italian vocabulary inventory (caregiver-indicated production, 680-entry instrument)"
+      scale: "count of words"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: post
+      offset:
+        value: 4
+        unit: weeks
+        from: start-of-instruction
+    comparison_ref: within-subject-baseline
+    result:
+      measure_type: partial_eta_squared
+      estimate: 0.891
+      statistic: "within-subjects time effect, F = 376.601, p < 0.001"
+      p_value: "<0.001"
+      descriptives: "Both groups rose from roughly 40 words at T0 — to 139.29 (traditional) and 171.91 (game-based) at T1."
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      Recorded separately because it answers a different question. The
+      between-group observation says game-based beat traditional; this one says
+      both worked, and largely. A store holding only the first would support
+      "traditional instruction failed", which the study contradicts.
+    source_quote: "both trainings showed an effectiveness expressed through a higher number of learned words, but this effectiveness was more significant in Gr2"
+    source_location: "§3 Results, Table 3 (effect size within subjects)"
+
+not_yet_extracted:
+  - "Stated limitations: small sample, limited variables, no measurement of motivation/attitudes/enjoyment, and no follow-up to establish durability."

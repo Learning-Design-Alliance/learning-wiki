@@ -1,0 +1,328 @@
+# Zingaretti et al. (2026) — one-week intensive online Italian course.
+#
+# Five observations from one study. That is the whole reason this file is not
+# a block inside claims/l2-fluency-gains-persist-weeks-without-practice.md:
+# the claim argues one thing (gains persisted), the study measured five, and
+# two of the five are nulls that the claim uses as specificity checks rather
+# than as its subject.
+
+schema_version: 1
+
+study:
+  key: zingaretti-2026
+  citation: "Zingaretti, M., Spelorzi, R., Sohanpaul, T. K., & Sorace, A. (2026). The Linguistic and Cognitive Effects of a One-Week Online Italian Language Course: A Pilot Study. Journal of the European Second Language Association, 10(1), 32–47."
+  doi: "10.22599/jesla.152"
+  open_data: "https://osf.io/6bqpx"
+  design:
+    family: observational
+    # The authors' own words. NOT quasi-experimental: there is no comparison
+    # group of any kind, and calling it one would assert a counterfactual the
+    # study does not have.
+    design_detail: >-
+      Single-group repeated-measures pilot with three timepoints (pre-course,
+      post-course, three-week follow-up). No passive or active control group.
+      Analysed with linear mixed-effects models carrying baseline L2
+      proficiency and age as covariates.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-09-07
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: l2-fluency-gains-persist-weeks-without-practice
+    anchor: zingaretti-et-al-2026
+
+population:
+  n: 18
+  description: >-
+    Eighteen undergraduate students enrolled in Italian language programmes at
+    UK universities — 13 in their second year, five in their third — recruited
+    in April 2021 by a call for a free one-week online intensive Italian course.
+  age_or_stage: "M = 19.28 years, SD = 0.46; second- and third-year undergraduates"
+  prior_knowledge: >-
+    Baseline LexITA vocabulary proficiency ranged 28–78 (M = 47.33, SD = 12.98).
+    The authors describe this variability as considerable and carry proficiency
+    as a covariate in every model because of it.
+  language_background: >-
+    L1 English, with Italian the only actively used L2. Prior formal exposure to
+    other languages was allowed; no participant reported conversational use of a
+    third language.
+  relevant_characteristics:
+    - "A shared study history (one degree programme stage) with a proficiency range of 50 LexITA points across it"
+    - "Participation was voluntary and not a requirement of enrolment in the course"
+
+context:
+  setting: "Free extracurricular intensive language course, run alongside UK undergraduate Italian programmes"
+  institution_or_environment: "UK universities; ethics approval from the University of Edinburgh (ref. 236-2021/3)"
+  geography: "United Kingdom"
+  delivery_mode: "Fully online, live synchronous instruction"
+  duration: "One week, 12–18 April 2021; approximately 21 hours of live engagement"
+  period_notes: >-
+    Run during the COVID-19 pandemic, when UK teaching had moved to remote
+    formats and study-abroad programmes were halted — so the online delivery
+    is a property of the moment as much as a design choice.
+
+intervention:
+  description: >-
+    A one-week intensive online Italian course designed to enhance vocabulary
+    and conversational fluency through interactive and immersive online
+    instruction.
+  elements:
+    - term: "two-hour morning sessions led by L1-Italian language instructors focusing on thematic vocabulary and grammatical structures"
+      anchors:
+        - elements/direct-instruction
+    - term: "one-hour small-group discussions in the afternoon"
+      anchors:
+        - strategies/discussion-based-learning
+        - strategies/small_group_instruction
+  dose:
+    amount: 21
+    unit: hours
+    detail: "approximately 21 hours of live engagement across seven consecutive days"
+  implementation_notes:
+    - "No practice or instruction occurred between the post-course and follow-up measurements; the follow-up interval is deliberately unrehearsed."
+    - "The authors contrast this with Bak et al. (2016), where persistence at nine months held only for participants who kept practising at least five hours a week."
+
+comparisons:
+  - id: within-subject-baseline
+    kind: within-subject-baseline
+    description: >-
+      Each participant's own pre-course score. Every reported effect is a change
+      from baseline in a mixed-effects model, not a between-group difference.
+    elements: []
+  - id: no-control-group
+    kind: none
+    description: >-
+      There is no passive or active control group. The authors state this as a
+      limitation and argue only that the selectivity of the effects (category
+      but not letter fluency; ET-D but not ET-R) argues against simple
+      regression to the mean. Recorded explicitly so that no consumer reads the
+      absence of a comparison arm as an unremarkable omission.
+    elements: []
+
+observations:
+
+  - id: l2-verbal-fluency-post
+    outcome:
+      construct: "Second-language productive vocabulary access"
+      source_language: "L2 Italian verbal fluency task, total word production"
+      measure: "Verbal fluency task in Italian (letter and category), total words produced"
+      scale: "count of words"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+      anchors:
+        - learner-variables/reading-and-language
+    time:
+      label: post
+      offset:
+        value: 0
+        unit: days
+        from: end-of-course
+    comparison_ref: within-subject-baseline
+    result:
+      measure_type: regression_coefficient
+      estimate: 17.17
+      unit: words
+      standard_error: 2.07
+      p_value: "<.001"
+      statistic: "t(34) = 8.31"
+      model: "linear mixed-effects model with timepoint as fixed effect; LexITA proficiency and age as covariates"
+    moderators:
+      reported:
+        - variable: "Baseline L2 proficiency (LexITA)"
+          relationship: "positive predictor of verbal fluency performance"
+          statistic: "β = 0.77, SE = 0.25, t(15) = 3.13, p = .007"
+          source_quote: "LexITA score was a significant positive predictor of verbal fluency ( β = 0.77, SE = 0.25, t (15) = 3.13, p = .007), whereas age was not"
+      candidate:
+        - "Task type: the abstract reports the gain was carried particularly by semantic (category) rather than letter fluency, which the authors read as lexical-semantic rather than executive. Listed as candidate because the interaction is reported as a figure rather than as a moderation test in the text available here."
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: partial
+    observability_notes: >-
+      effect_size is `partial`: an unstandardised coefficient with its standard
+      error is reported, so magnitude is recoverable in the task's own units,
+      but no standardised effect size (d, g, η²) is given anywhere.
+    source_quote: "Relative to the pre-course baseline, total word production increased at both the post-course ( β = 17.17, SE = 2.07, t (34) = 8.31, p < .001) and follow-up ( β = 17.11, SE = 2.07, t (34) = 8.28, p < .001) sessions."
+    source_location: "§3.1.1 L2 Italian VFT"
+
+  - id: l2-verbal-fluency-followup
+    outcome:
+      construct: "Second-language productive vocabulary access"
+      source_language: "L2 Italian verbal fluency task, total word production"
+      measure: "Verbal fluency task in Italian (letter and category), total words produced"
+      scale: "count of words"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+      anchors:
+        - learner-variables/reading-and-language
+    time:
+      label: followup
+      offset:
+        value: 3
+        unit: weeks
+        from: end-of-course
+    comparison_ref: within-subject-baseline
+    result:
+      measure_type: regression_coefficient
+      estimate: 17.11
+      unit: words
+      standard_error: 2.07
+      p_value: "<.001"
+      statistic: "t(34) = 8.28"
+      model: "same mixed-effects model; also tested post vs follow-up directly: β = 0.06, SE = 2.07, t(34) = 0.03, p = .999"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: partial
+    observability_notes: >-
+      This observation and `l2-verbal-fluency-post` differ ONLY in `time`, and
+      that is the point: the near-identical estimates plus the explicit null on
+      the post-vs-follow-up contrast are what license "persisted" rather than
+      "decayed slowly". A representation that collapsed the two timepoints into
+      one weight would destroy exactly the finding.
+    source_quote: "No significant difference was found between post-course and follow-up ( β = 0.06, SE = 2.07, t (34) = 0.03, p = .999)."
+    source_location: "§3.1.1 L2 Italian VFT"
+
+  - id: l1-verbal-fluency-post
+    outcome:
+      construct: "First-language productive vocabulary access"
+      source_language: "L1 English verbal fluency task, total word production"
+      measure: "Verbal fluency task in English, total words produced"
+      scale: "count of words"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: post
+      offset:
+        value: 0
+        unit: days
+        from: end-of-course
+    comparison_ref: within-subject-baseline
+    result:
+      measure_type: regression_coefficient
+      estimate: -0.78
+      unit: words
+      standard_error: 1.66
+      p_value: ".642"
+      statistic: "t(34) = -0.47"
+      interpretation: "null — no significant change"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: partial
+    observability_notes: >-
+      A null, recorded as an observation in its own right. It is what makes the
+      L2 gain specific rather than a test-taking or practice effect, and a
+      store that kept only significant results would drop the control that
+      makes the significant one interpretable.
+    source_quote: "Performance on the English verbal fluency task remained stable across all sessions. No significant differences in total word production were found between pre-course and post-course ( β = –0.78, SE = 1.66, t (34) = –0.47, p = .642)"
+    source_location: "§3.1.2 L1 English VFT"
+
+  - id: selective-attention-post
+    outcome:
+      construct: "Selective attention / inhibition"
+      source_language: "ET-D (selective attention/inhibition), accuracy"
+      measure: "Elevator Counting with Distraction (ET-D) subtest of the Test of Everyday Attention"
+      scale: "accuracy, percent"
+      direction: higher-is-better
+      # Not a competency the course set out to teach — a downstream cognitive
+      # effect of having learned a language. Classified, and marked inferred,
+      # because the paper does not use logic-model language.
+      role: distal-outcome
+      role_basis: inferred
+      valued_by: []
+      anchors:
+        - learner-variables/attention
+    time:
+      label: post
+      offset:
+        value: 0
+        unit: days
+        from: end-of-course
+    comparison_ref: within-subject-baseline
+    result:
+      measure_type: regression_coefficient
+      estimate: 13.33
+      unit: accuracy points
+      standard_error: 3.92
+      p_value: ".005"
+      statistic: "t(34) = 3.40"
+      descriptives: "pre M = 80.56, SD = 21.27; post M = 93.89, SD = 10.37; follow-up M = 92.78, SD = 11.27"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: partial
+    source_quote: "The model showed a significant effect of timepoint, with both post-course ( β = 13.33, SE = 3.92, t (34) = 3.40, p = .005) and follow-up scores ( β = 12.22, SE = 3.92, t (34) = 3.12, p = .010) significantly higher than pre-course."
+    source_location: "§3.2.2 ET-D (selective attention/inhibition)"
+
+  - id: selective-attention-followup
+    outcome:
+      construct: "Selective attention / inhibition"
+      source_language: "ET-D (selective attention/inhibition), accuracy"
+      measure: "Elevator Counting with Distraction (ET-D) subtest of the Test of Everyday Attention"
+      scale: "accuracy, percent"
+      direction: higher-is-better
+      role: distal-outcome
+      role_basis: inferred
+      valued_by: []
+      anchors:
+        - learner-variables/attention
+    time:
+      label: followup
+      offset:
+        value: 3
+        unit: weeks
+        from: end-of-course
+    comparison_ref: within-subject-baseline
+    result:
+      measure_type: regression_coefficient
+      estimate: 12.22
+      unit: accuracy points
+      standard_error: 3.92
+      p_value: ".010"
+      statistic: "t(34) = 3.12"
+      model: "post vs follow-up tested directly: β = 1.11, SE = 3.92, t(34) = 0.28, p = .957"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: partial
+    source_quote: "No difference was observed between post-course and follow-up ( β = 1.11, SE = 3.92, t (34) = 0.28, p = .957)."
+    source_location: "§3.2.2 ET-D (selective attention/inhibition)"
+
+# Measured and reported as showing no change, but not written up as
+# observations here because the text available did not print their
+# coefficients: sustained attention (ET-R) and attentional switching. The
+# switching model is reported as predicted by L2 proficiency and age. Recorded
+# as a note rather than as five empty observations — an observation with no
+# result is not a nullity, it is an unwritten record.
+not_yet_extracted:
+  - "Sustained attention (ET-R): reported as unchanged; coefficients not captured."
+  - "Attentional switching: reported as unchanged over time but predicted by L2 proficiency and age; coefficients not captured."
+  - "Task-type × timepoint interaction in L2 Italian (letter vs category): reported via Figure 3."

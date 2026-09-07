@@ -18,7 +18,16 @@ jobs:
           cache: pip
           cache-dependency-path: requirements-docs.txt
 
-      - name: Lint wiki (schema, cross-links, evidence, trust tiers)
+      # Installed BEFORE lint, not after. lint.py's check_observations needs
+      # PyYAML to read observations/*.yaml, and a lint step that cannot parse
+      # them would report OK because it never looked — the exact failure
+      # CLAUDE.md documents for learner-variables. PyYAML is pinned here
+      # explicitly rather than relied on as a transitive mkdocs dependency,
+      # since it is now a lint dependency too.
+      - name: Install python dependencies
+        run: pip install -r requirements-docs.txt
+
+      - name: Lint wiki (schema, cross-links, evidence, trust tiers, observations)
         run: python3 scripts/lint.py
 
       # Both files are committed because the repos that read them — the
@@ -30,9 +39,6 @@ jobs:
         run: |
           python3 scripts/build_reverse_index.py --check
           python3 scripts/build_wiki_index.py --check
-
-      - name: Install docs dependencies
-        run: pip install -r requirements-docs.txt
 
       - name: Set up docs directory
         run: |

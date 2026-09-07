@@ -494,6 +494,118 @@ Almond (2003), not from the 60-page primary, and its page says so.
   fill the manifest with noise during a blip and make a clean ingest during an outage
   indistinguishable from a dirty one.
 
+
+---
+
+## Research observations — the structured record beside a claim
+
+A claim page argues something. `observations/<study-key>.yaml` records the configuration
+that argument rests on, so a study can eventually be represented as
+
+```
+intervention/configuration + population + context + comparison + measurement + time
+    → observed outcome/effect
+```
+
+and so that `d = .78` stays **one measurement of one configuration** rather than becoming a
+weight between two concepts. Two studies of "retrieval practice" with different learners,
+implementations, outcomes or horizons are two records and must stay two records.
+
+`observations/SCHEMA.md` is the field reference; `scripts/observation_lib.py` carries the
+rationale. What belongs here:
+
+**The record is NOT in the claim's frontmatter, and that was decided by reading the code.**
+`sources[]` is *derived*: `sync_evidence_codes.py --apply` rebuilds the whole block from the
+body's `## Evidence` through `dump_frontmatter`, which emits exactly
+`id/resource/title/author/q/i/n` — so anything else nested there is destroyed on the next
+run of a script that is already in `run_scrape_batch.py`'s unattended chain. And
+`check_source_entry_keys` holds a closed key set at four-space indent precisely so a
+rewrite landing on a YAML key is caught; a new key there is indistinguishable from that
+damage. Third reason, from the data: a study is cited by many claims, so a per-claim copy
+is the drift shape this repo has already lost weeks to on DOIs.
+
+**No existing claim page changed.** The join runs from the record: `appears_in` names the
+claim slug and the `### Author Year` anchor, and `lint.py --type observations` fails if
+either stops resolving. A rename breaks loudly instead of orphaning the record silently.
+
+**Three distinctions the schema exists to hold, and none of them may be collapsed:**
+
+- **Absent ≠ unreported ≠ zero.** An omitted field means "not established";
+  `observability.<field>: unreported` means "somebody read the source and it does not say".
+  A consumer reading a missing effect size as zero drags every pooled estimate toward
+  nothing. Same discipline as `crossref_reachable: false` vs `flagged`, `"doi": null` vs an
+  absent `doi`, and `classify_doi`'s `error` vs `wrong_paper`.
+- **A capability is not a valued outcome.** `outcome.role` records which a dependent
+  variable appears to be and `outcome.role_basis` records whether the source said so or you
+  inferred it; `outcome.source_language` keeps the author's wording regardless.
+  `outcome.valued_by` is populated **only where the source identifies who values an
+  outcome** — a researcher measuring graduation does not establish that anybody values it.
+- **A research observation is not a design hypothesis.** A logic model says "Goal A is
+  intended to contribute to Outcome B"; a record here says "Study S observed relationship R
+  between configuration A and Outcome B under population/context C". There is deliberately
+  no field in which to write that one becomes the other, and every compiled record carries
+  `kind: research_observation` and `provenance.source_type` so a published finding stays
+  distinguishable from runtime learner data, a synthetic simulation, an LLM-proposed
+  relationship, or a later platform experiment.
+
+**Never infer a stronger design than the source states.** `quasi-experimental` is what "the
+sample was divided into two groups" means; an article calling for randomised trials as
+future work has not run one. `moderators.reported` requires its own `source_quote` — a
+plausible explanation goes in `candidate`, and promoting one is the same act as inventing
+a DOI.
+
+**Never convert a metric during ingestion.** A partial η² stays a partial η²; turning
+β = 17.17 words into a *d* needs a pooled SD, and inventing one to make records comparable
+is how a store fills with confident untraceable numbers. `compile_observations.py`
+therefore does no pooling, no averaging and no conversion — comparability is a separate
+analytical step run explicitly downstream.
+
+```bash
+python3 scripts/check_observations.py                 # validate; exit 1 on any problem
+python3 scripts/check_observations.py --summary       # what is in the store, by shape
+python3 scripts/check_observations.py --stub <claim>  # skeleton for a claim, TODOs and all
+python3 scripts/compile_observations.py               # research_observation NDJSON
+python3 scripts/compile_observations.py --explain <study-key>/<obs-id>
+```
+
+`--explain` is the acceptance test run as a command: *what exactly was done, to whom,
+compared with what, in what context, measured how, at what time, with what result and
+uncertainty, and what important information was not reported* — answered from the record
+alone, with no narrative prose read.
+
+**Migration is deliberately not a batch job.** Four studies across four claims are enriched
+as fixtures; 424 other claim pages have no record and are not broken by that, because an
+absent record is a legal state and `check_observations` only validates the files that
+exist. It starts and stays **green**, so the property this file leans on — that a count of
+zero means the work is done rather than the check being broken — survives.
+
+The route for the rest, when the structure has proved itself:
+
+1. `--stub <claim-slug>` fills in what is genuinely mechanical (citation, DOI, the
+   claim/anchor join, an ASCII-folded study key) and marks everything else `TODO`. The
+   validator refuses the file until the TODOs are gone, so the cheap half is automated and
+   the half that needs the article is blocked rather than guessed.
+2. **Rank by reuse, not by slug order.** A study cited by 30 claims repays a record 30
+   times; `citation_worklist.py` already ranks by exactly that and is the right reading end.
+3. **Prefer the source over the page.** Two of the four fixtures were built from publisher
+   full text, one from an abstract, one only from the wiki's own evidence entry — and
+   `provenance.extraction_method` says which, per file, because the three are not equally
+   good. Building a record from a paraphrase of a paraphrase is how the fabrications this
+   file catalogues got in.
+4. **Automated extraction is written and not switched on.** `prompt_versions/v127.txt`
+   carries an `observation` block per evidence entry; `CURRENT` still points at `v99`.
+   Turning it on is a deliberate act after the fixtures have proved useful, not a
+   side effect of this change.
+
+**One fixture corrected the claim page it came from, which is the point of doing this.**
+`claims/game-based-practice-outperforms-traditional-l2-vocabulary-instruction.md` renders
+Frolli et al. as finding Italian articles "disproportionately hard for this group". The
+paper reports articles as an *instructional accommodation* — the one topic that needed
+occasional Russian, because articles are absent from Russian and Ukrainian grammar — and
+measured no article-specific outcome at all. The observation file records it as an
+implementation note and a `candidate` moderator, never a reported one. Structuring a study
+is a re-read of it, and a re-read finds things.
+
 ---
 
 ## Page identity — `id:` and `aliases:`

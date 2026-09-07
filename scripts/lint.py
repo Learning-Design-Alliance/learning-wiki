@@ -705,6 +705,39 @@ def check_page_identity(pages: dict[str, Path]) -> list[dict]:
 # `competing`, so `--type competing` was rejected for a check that runs in
 # every full pass. Two lists of the same set is the defect this file now has
 # a check for; keeping one here is the same discipline applied to itself.
+def check_observations(pages: dict[str, Path]) -> list[dict]:
+    """Structured research observations parse, validate, and still join up.
+
+    `observations/<study-key>.yaml` records what a study actually did — to
+    whom, against what, measured how, at what time, with what result and what
+    was not reported. See scripts/observation_lib.py for why it lives beside
+    the claims rather than inside their frontmatter.
+
+    Two things make this worth a lint check rather than a standalone script.
+    It starts and stays GREEN — it validates only the files that exist, and an
+    empty store is valid — so the "a count of zero means the work is done"
+    property CLAUDE.md leans on survives. And it ratchets the JOIN: every
+    record names the claim page and the `### Author Year` evidence heading it
+    belongs to, so renaming either fails here instead of silently orphaning
+    the record, which is the failure mode a sidecar store otherwise invites."""
+    obs_dir = WIKI_ROOT / "observations"
+    files = sorted(obs_dir.glob("*.yaml")) if obs_dir.is_dir() else []
+    if not files:
+        return []
+    sys.path.insert(0, str(Path(__file__).parent))
+    try:
+        import observation_lib as ol
+    except ModuleNotFoundError as e:
+        # Loud, not silent. CLAUDE.md's own worked example of an undetectable
+        # bug is a check that "reported OK because it never looked"; a store
+        # with files in it and no parser is exactly that, so it is an issue.
+        return [{"type": "observations_unreadable", "file": "observations/",
+                 "detail": f"{len(files)} observation file(s) present but they cannot be "
+                           f"read ({e}). Install PyYAML: pip install -r requirements-docs.txt"}]
+    return [{"type": "observation_schema", "file": "observations/", "detail": issue}
+            for issue in ol.validate_all()]
+
+
 CHECKS = {
     "broken_links":  check_broken_links,
     "dead_anchors":  check_dead_anchors,
@@ -721,6 +754,7 @@ CHECKS = {
     "source_keys":   check_source_entry_keys,
     "identity":      check_page_identity,
     "nav_coverage":  check_nav_coverage,
+    "observations":  check_observations,
 }
 
 
