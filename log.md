@@ -8,7 +8,12 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ---
 
-## 2026-09-07 (later)
+## 2026-09-07* **Structure**: [methods/make-the-invisible-visible-power-dynamics](methods/make-the-invisible-visible-power-dynamics.md) — Cross-link the new sibling method
+* **Structure**: [methods/backward-design](methods/backward-design.md) — Cross-link the new sibling method
+* **Ingest**: [methods/theory-of-change](methods/theory-of-change.md) — New design method page: theory-of-change
+* **Ingest**: [methods/logic-model](methods/logic-model.md) — New design method page: logic-model
+* **Ingest**: [methods/stakeholder-mapping](methods/stakeholder-mapping.md) — New design method page: stakeholder-mapping
+ (later)
 
 * **Schema**: `observations/` moves to **version 2** — three levels (source / evidence base / observations) in place of v1's two. The change was forced by evidence: encoding one meta-analysis and one three-arm randomised experiment in v1 failed in nine specific places, listed in `observations/SCHEMA.md`
 * **Decision**: the middle layer gains `arms`, and **arms + comparisons is the common abstraction**. A trial's "unenhanced vs baseline" and a synthesis's "spaced online vs massed online" are the same object — a contrast between two named configurations — so a meta-analysis needed no parallel field set, only for the middle layer to stop assuming one group of people. `role: corpus-stratum` is what makes an arm a slice of a literature

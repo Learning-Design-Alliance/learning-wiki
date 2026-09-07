@@ -5,8 +5,8 @@ title: Backward Design
 description: A curriculum planning strategy that begins by defining desired learning outcomes and acceptable evidence of achievement, then designs instruction last.
 status: review
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-29
+  by: claude/unspecified
+  at: 2026-09-07
 ---
 
 # Backward Design
@@ -54,6 +54,7 @@ Backward Design operationalizes [constructive alignment](../principles/clear-str
 4. **Review alignment.** Audit every activity and assessment against the outcomes; revise or cut misaligned elements.
 
 ## Related Methods
+- [Logic Model](logic-model.md) — the same backward reasoning one level out, from the desired results to the consequences beyond the course they are meant to produce
 - [Understanding-by-Design units](../strategies/understanding-by-design-unit-template.md) — the operational unit template for this strategy *(if not yet present, see Wiggins & McTighe)*
 - Constructive alignment course design — the higher-education parallel developed by Biggs
 

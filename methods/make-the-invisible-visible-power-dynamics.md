@@ -5,8 +5,8 @@ title: Make the Invisible Visible (Power Dynamics)
 description: A design strategy that surfaces and names power dynamics among stakeholders, making decision-making authority explicit and redistributing it across the design process.
 status: review
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-29
+  by: claude/unspecified
+  at: 2026-09-07
 ---
 
 # Make the Invisible Visible (Power Dynamics)
@@ -58,6 +58,7 @@ Surfacing power dynamics converts an implicit political process into an inspecta
 5. **Close the loop.** Report back to students and stakeholders on what changed and why; repeat observation cycles to check whether the environment actually shifted.
 
 ## Related Methods
+- [Stakeholder Mapping](stakeholder-mapping.md) — the descriptive entry point: names the parties and their relationships without asking whether the authority is rightly held
 - [Community-based Learning](../principles/community-based-learning.md) — situates design and learning in authentic community relationships, requiring negotiated rather than assumed authority
 - [Building Empathy](../principles/building-empathy.md) — supplies the perspective-taking groundwork that makes power discussions productive rather than adversarial
 - [Check-ins](../principles/check-ins.md) — lightweight routines that keep stakeholder voice continuous rather than episodic

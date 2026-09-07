@@ -20,12 +20,12 @@
   "learner-variables->learner-variables": 3,
   "learner-variables->patterns": 6,
   "learner-variables->theories": 6,
-  "methods->claims": 8,
+  "methods->claims": 10,
   "methods->elements": 10,
-  "methods->methods": 8,
+  "methods->methods": 13,
   "methods->patterns": 4,
   "methods->principles": 8,
-  "methods->processes": 1,
+  "methods->processes": 3,
   "methods->theories": 3,
   "patterns->claims": 86,
   "patterns->elements": 90,
@@ -6689,6 +6689,11 @@
      {
       "polarity": "+",
       "slug": "make-the-invisible-visible-power-dynamics",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "stakeholder-mapping",
       "strength": "S"
      }
     ],
@@ -30016,6 +30021,13 @@
     "claims": [
      {
       "slug": "learners-misjudge-effective-learning-strategies"
+     }
+    ],
+    "methods": [
+     {
+      "polarity": "~",
+      "slug": "logic-model",
+      "strength": "M"
      }
     ]
    },
@@ -80340,7 +80352,13 @@
       "slug": "evidence-centered-design"
      },
      {
+      "slug": "logic-model"
+     },
+     {
       "slug": "standards-crosswalk"
+     },
+     {
+      "slug": "theory-of-change"
      }
     ],
     "processes": [
@@ -80423,6 +80441,9 @@
      },
      {
       "slug": "learner-analysis"
+     },
+     {
+      "slug": "stakeholder-mapping"
      }
     ],
     "processes": [
@@ -80475,6 +80496,26 @@
      }
     ]
    },
+   "logic-model": {
+    "methods": [
+     {
+      "slug": "backward-design"
+     },
+     {
+      "slug": "theory-of-change"
+     }
+    ]
+   },
+   "make-the-invisible-visible-power-dynamics": {
+    "methods": [
+     {
+      "slug": "stakeholder-mapping"
+     },
+     {
+      "slug": "theory-of-change"
+     }
+    ]
+   },
    "needs-analysis": {
     "methods": [
      {
@@ -80487,6 +80528,12 @@
       "slug": "learner-and-context-analysis"
      },
      {
+      "slug": "logic-model"
+     },
+     {
+      "slug": "stakeholder-mapping"
+     },
+     {
       "slug": "standards-crosswalk"
      }
     ],
@@ -80496,6 +80543,16 @@
      },
      {
       "slug": "systematic-instructional-design"
+     }
+    ]
+   },
+   "stakeholder-mapping": {
+    "methods": [
+     {
+      "slug": "make-the-invisible-visible-power-dynamics"
+     },
+     {
+      "slug": "theory-of-change"
      }
     ]
    },
@@ -80558,6 +80615,13 @@
      },
      {
       "slug": "visual-schedules"
+     }
+    ]
+   },
+   "theory-of-change": {
+    "methods": [
+     {
+      "slug": "logic-model"
      }
     ]
    }
@@ -106066,6 +106130,14 @@
   },
   "processes": {
    "continuous-improvement-of-learning-materials": {
+    "methods": [
+     {
+      "slug": "logic-model"
+     },
+     {
+      "slug": "theory-of-change"
+     }
+    ],
     "processes": [
      {
       "slug": "design-thinking"
@@ -106085,6 +106157,11 @@
     ]
    },
    "data-wise-improvement-process": {
+    "methods": [
+     {
+      "slug": "logic-model"
+     }
+    ],
     "processes": [
      {
       "slug": "continuous-improvement-of-learning-materials"
@@ -106150,6 +106227,11 @@
     "claims": [
      {
       "slug": "attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer"
+     }
+    ],
+    "methods": [
+     {
+      "slug": "theory-of-change"
      }
     ],
     "principles": [
@@ -106233,6 +106315,14 @@
     "elements": [
      {
       "slug": "state-objectives"
+     }
+    ],
+    "methods": [
+     {
+      "slug": "logic-model"
+     },
+     {
+      "slug": "theory-of-change"
      }
     ],
     "processes": [
@@ -112182,7 +112272,7 @@
   "claims": 428,
   "elements": 327,
   "learner-variables": 12,
-  "methods": 13,
+  "methods": 16,
   "patterns": 125,
   "principles": 199,
   "processes": 11,
