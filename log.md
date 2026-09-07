@@ -8,7 +8,8 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ---
 
-## 2026-09-07* **Structure**: [methods/make-the-invisible-visible-power-dynamics](methods/make-the-invisible-visible-power-dynamics.md) — Cross-link the new sibling method
+## 2026-09-07* **Content**: [methods/logic-model](methods/logic-model.md) — Broaden the warrant step beyond published findings
+* **Structure**: [methods/make-the-invisible-visible-power-dynamics](methods/make-the-invisible-visible-power-dynamics.md) — Cross-link the new sibling method
 * **Structure**: [methods/backward-design](methods/backward-design.md) — Cross-link the new sibling method
 * **Ingest**: [methods/theory-of-change](methods/theory-of-change.md) — New design method page: theory-of-change
 * **Ingest**: [methods/logic-model](methods/logic-model.md) — New design method page: logic-model

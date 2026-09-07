@@ -856,6 +856,15 @@ authentic problem) — two genuinely different objects that share a name. Ids ar
 *per kind*, so each resolves in its own namespace. The strategy page was briefly
 deprecated when the process needed the `pattern` namespace; it is restored.
 
+**The criterion is function inside learning design, not the discipline a method came from.**
+Settled when `stakeholder-mapping`, `logic-model` and `theory-of-change` landed: all three were
+developed outside instructional design — in strategic management and in programme evaluation — and
+all three belong here, because a `method` is defined by the job it does in a design process, and each
+of them produces a named design artifact that a process profile requires. "Was it invented for
+instructional design" is the wrong question and would have excluded backward design's own ancestry.
+Note the asymmetry that keeps this from swallowing everything: the test is what the method *produces
+in a design*, so a general technique that produces nothing a design carries is still out.
+
 **What stayed put, and why, because these are the judgement calls:**
 
 - `strategies/task_analysis.md` (underscore) is *learners* breaking an assignment into
