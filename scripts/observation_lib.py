@@ -141,6 +141,11 @@ MEASURE_TYPES = {
     # ANOVA actually prints, and `other` is where a value stops being
     # comparable with anything.
     "eta_squared", "partial_eta_squared",
+    # Single-case designs use non-overlap statistics, not standardised mean
+    # differences. Tau-U is the one the first SCED fixture reports; its
+    # siblings (PND, NAP, IRD) are deliberately NOT added until a record needs
+    # one, because a vocabulary value nobody uses goes stale.
+    "tau_u",
 }
 
 # The subset that quantifies a RELATIONSHIP rather than describing a sample.
@@ -334,7 +339,7 @@ def validate_record(rec: dict, key: str, claim_index: dict | None = None) -> lis
     family = _validate_study(rec, key, issues)
     _validate_provenance(rec, key, issues)
     _validate_appears_in(rec, key, issues, claim_index)
-    arm_ids = _validate_evidence_base(rec, key, issues, family)
+    arm_ids, subject_ids = _validate_evidence_base(rec, key, issues, family)
     comp_ids = _validate_comparisons(rec, key, issues, arm_ids)
 
     obs = rec.get("observations")
@@ -343,7 +348,8 @@ def validate_record(rec: dict, key: str, claim_index: dict | None = None) -> lis
         obs = []
     seen: set = set()
     for i, o in enumerate(obs):
-        issues.extend(_validate_observation(o, key, i, comp_ids, arm_ids, seen, family))
+        issues.extend(_validate_observation(o, key, i, comp_ids, arm_ids,
+                                            subject_ids, seen, family))
     return issues
 
 
@@ -468,7 +474,7 @@ def _validate_evidence_base(rec, key, issues, family) -> set:
     where = f"{key}.evidence_base"
     if not isinstance(eb, dict):
         _err(issues, key, "evidence_base: block is required")
-        return set()
+        return set(), set()
 
     _enum(issues, where, eb.get("unit"), COUNT_UNITS, "unit", required=True)
     _count(issues, where, eb.get("size"), "size", required=True)
@@ -529,6 +535,26 @@ def _validate_evidence_base(rec, key, issues, family) -> set:
         _str(issues, w, v.get("dimension"), "dimension", required=True)
         _str(issues, w, v.get("distribution"), "distribution", required=True)
 
+    # NAMED INDIVIDUALS. In a group design the people are a sample and only
+    # their count matters. In a single-case design each participant is a
+    # separate replication of the whole experiment, the findings differ by
+    # person, and "three of the four maintained" is only meaningful if you can
+    # say which one did not. So the subjects belong to the evidence base — they
+    # do not vary per observation — and each observation names the one it is
+    # about. Absent for every group design, which is most of the store.
+    subject_ids: set = set()
+    for i, s in enumerate(eb.get("subjects") or []):
+        w = f"{where}.subjects[{i}]"
+        if not isinstance(s, dict):
+            _err(issues, w, "must be a mapping with id and description")
+            continue
+        sid = s.get("id")
+        _str(issues, w, sid, "id", required=True)
+        if sid in subject_ids:
+            _err(issues, w, f"duplicate subject id {sid!r}")
+        subject_ids.add(sid)
+        _str(issues, w, s.get("description"), "description", required=True)
+
     arm_ids: set = set()
     arms = eb.get("arms")
     if arms is None:
@@ -557,7 +583,7 @@ def _validate_evidence_base(rec, key, issues, family) -> set:
         if arm.get("allocation") is not None:
             _count(issues, w, arm.get("allocation"), "allocation")
         _elements(arm.get("elements"), issues, w)
-    return arm_ids
+    return arm_ids, subject_ids
 
 
 def _validate_comparisons(rec, key, issues, arm_ids) -> set:
@@ -638,7 +664,7 @@ def _validate_comparisons(rec, key, issues, arm_ids) -> set:
     return comp_ids
 
 
-def _validate_observation(o, key, i, comp_ids, arm_ids, seen, family) -> list:
+def _validate_observation(o, key, i, comp_ids, arm_ids, subject_ids, seen, family) -> list:
     issues: list = []
     where = f"{key}.observations[{i}]"
     if not isinstance(o, dict):
@@ -713,6 +739,10 @@ def _validate_observation(o, key, i, comp_ids, arm_ids, seen, family) -> list:
     if cref is not None and cref not in comp_ids:
         _err(issues, where, f"comparison_ref {cref!r} names no entry in this study's "
                             f"comparisons ({', '.join(sorted(comp_ids)) or 'none defined'})")
+    sref = o.get("subject_ref")
+    if sref is not None and sref not in subject_ids:
+        _err(issues, where, f"subject_ref {sref!r} is not an id in evidence_base.subjects "
+                            f"({', '.join(sorted(subject_ids)) or 'none declared'})")
     if aref is not None and aref not in arm_ids:
         _err(issues, where, f"arm_ref {aref!r} is not an id in evidence_base.arms "
                             f"({', '.join(sorted(arm_ids)) or 'none'})")
@@ -776,6 +806,26 @@ def _validate_result(o, where, family) -> list:
         if v is not None and not isinstance(v, (int, float)):
             _err(issues, where, f"result.{f} must be a number or absent (got {v!r}); a p-value "
                                 f"written as '<.001' belongs in p_value, which is free text")
+    # A RANGE ACROSS REPLICATIONS is not an interval around an estimate. A
+    # multiple-baseline study reporting "TauU range 0.64-1.06 across four
+    # participants" has no pooled point estimate, and the only alternatives
+    # without this field are to invent a midpoint or to drop the effect.
+    er = r.get("estimate_range")
+    if er is not None:
+        if not isinstance(er, dict):
+            _err(issues, where, "result.estimate_range must be a mapping {lower, upper, over}")
+        else:
+            for f in ("lower", "upper"):
+                if not isinstance(er.get(f), (int, float)):
+                    _err(issues, where, f"result.estimate_range.{f} must be a number")
+            # What the range is ACROSS. A range over participants and a range
+            # over outcomes are different claims.
+            _count(issues, where, er.get("over"), "result.estimate_range.over", required=True)
+        if r.get("estimate") is not None:
+            _err(issues, where, "result carries both estimate and estimate_range — a range "
+                                "across replications is what the source reported INSTEAD of "
+                                "a point estimate; do not compute one from the other")
+
     if (r.get("ci_lower") is None) != (r.get("ci_upper") is None):
         _err(issues, where, "result.ci_lower and result.ci_upper must be given together")
     if r.get("ci_lower") is not None:

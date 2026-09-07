@@ -582,6 +582,25 @@ at all), and `result.publication_bias` — an assessment RUN AND FOUND, as disti
 figure, leaving only "invent a k" or "break the schema". `observability.pooled_k` restores
 the absent-versus-unreported distinction to the rule that had forgotten it.
 
+**A single-case design needed the SUBJECT to have a name.** In a group design the people
+are a sample and only their count matters; in a multiple baseline each participant is a
+separate replication, the findings differ by person, and "three of the four maintained" is
+unreadable without knowing which one did not — it was Serena. `evidence_base.subjects` and
+`observations[].subject_ref`, symmetric with arms, absent for every group design. With it:
+`tau_u` (single-case designs use non-overlap statistics, and its siblings are not added
+until something needs one) and `result.estimate_range` with a required `over` — Spencer &
+Kirby report a Tau-U range of 0.64–1.06 across four participants and no pooled estimate
+anywhere, so the alternatives were to invent a midpoint or drop the effect. **The phases
+are the arms**: baseline, intervention-with-icons and icons-removed are three named
+configurations and a phase change is a within-subject contrast.
+
+**All three predicted-hard shapes now encode, and arms + comparisons never moved.** Nine
+studies, 36 observations: four second-language primary studies, a meta-analysis, a
+three-arm trial, a four-arm cluster-randomised trial, a Bayesian network meta-analysis and
+a multiple-baseline single-case design. Every addition across the three sat at the level
+the thing actually varies at, which is the governing rule doing its job rather than being
+quoted at one.
+
 **Every count carries its unit, and the corpus proved that necessary before either fixture
 was written.** Its evidence entries already carry `n=18`, `n=30 studies`, `n=66 articles`,
 `n=N/A` and `n=large (aggregated)` — one field doing four jobs, so nothing can read it.

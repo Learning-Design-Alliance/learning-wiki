@@ -47,7 +47,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 import observation_lib as ol
 
 RECORD_KIND = "research_observation"
-COMPILER_VERSION = 3
+COMPILER_VERSION = 4
 
 
 def compile_all(directory: Path | None = None) -> tuple[list, list]:
@@ -126,6 +126,7 @@ def compile_all(directory: Path | None = None) -> tuple[list, list]:
                         "population": eb.get("population") or {},
                         "context": eb.get("context") or {},
                         "variation": eb.get("variation") or [],
+                        "subjects": eb.get("subjects") or [],
                     },
                     "arms": list(arms.values()),
                     "comparison": comp,
@@ -133,6 +134,10 @@ def compile_all(directory: Path | None = None) -> tuple[list, list]:
                     # not the study's: a comprehension ANOVA on 62 of 67
                     # randomised, or a pooled estimate over 9 of 23 studies.
                     "sample": o.get("sample"),
+                    # Which named individual, in a design where the findings
+                    # differ by person. Absent for every group design.
+                    "subject": next((s for s in (eb.get("subjects") or [])
+                                     if s.get("id") == o.get("subject_ref")), None),
                 },
 
                 # --- the observed side
@@ -206,6 +211,8 @@ def explain(records: list, observation_id: str) -> int:
               f"{alloc.get('unit')}, not by {size.get('unit')} **")
     for s in ebase.get("additional_sizes") or []:
         print(f"      also {s.get('value')} {s.get('unit')} — {s.get('note')}")
+    if cfg.get("subject"):
+        print(f"    SUBJECT [{cfg['subject'].get('id')}]: {cfg['subject'].get('description')}")
     if cfg.get("sample"):
         print(f"    analysed for THIS result: {cfg['sample'].get('value')} "
               f"{cfg['sample'].get('unit')}")
@@ -238,8 +245,15 @@ def explain(records: list, observation_id: str) -> int:
         print(f"    valued by {v.get('actor')}: {v.get('basis')}")
     block("AT WHAT TIME", f"{rec['time'].get('label')} "
                           f"{rec['time'].get('offset') or ''}")
-    block("WITH WHAT RESULT", f"{res.get('measure_type')} = {res.get('estimate')} "
-                              f"{res.get('unit') or ''}".strip())
+    if res.get("estimate_range"):
+        er = res["estimate_range"]
+        over = er.get("over") or {}
+        block("WITH WHAT RESULT", f"{res.get('measure_type')} ranged {er.get('lower')} to "
+                                  f"{er.get('upper')} across {over.get('value')} "
+                                  f"{over.get('unit')} — no pooled estimate reported")
+    else:
+        block("WITH WHAT RESULT", f"{res.get('measure_type')} = {res.get('estimate')} "
+                                  f"{res.get('unit') or ''}".strip())
     for f in ("standard_error", "ci_lower", "ci_upper", "p_value", "statistic",
               "model", "finding", "interpretation", "descriptives", "note"):
         if res.get(f) is not None:

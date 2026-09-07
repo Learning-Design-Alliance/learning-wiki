@@ -186,6 +186,45 @@ by **`observability.pooled_k`**: a pooled effect must now say *something* about
 k, either the count or an explicit `unreported`. Absent-versus-unreported,
 applied to the rule that had forgotten it.
 
+### Single-case designs: the subject needs a name
+
+In a group design the people are a sample and only their **count** matters. In a
+multiple-baseline single-case design each participant is a separate replication
+of the whole experiment, the findings differ by person, and *"three of the four
+participants performed above baseline"* is only meaningful if you can say which
+one did not. It was Serena.
+
+```yaml
+evidence_base:
+  subjects:
+    - id: serena
+      description: "The one participant whose reading comprehension returned to baseline..."
+observations:
+  - id: reading-maintenance-serena
+    subject_ref: serena
+```
+
+`subjects` sits on the evidence base — the people do not vary per observation —
+and each observation names the one it is about, symmetric with arms. Absent for
+every group design, which is most of the store.
+
+Two more came with it:
+
+- **`tau_u`** in `measure_type`. Single-case designs use non-overlap statistics,
+  not standardised mean differences. Its siblings (PND, NAP, IRD) are
+  deliberately **not** added until a record needs one.
+- **`result.estimate_range`** — `{lower, upper, over}`. Spencer & Kirby report
+  *"TauU ES range = 0.64–1.06"* across four participants with **no pooled point
+  estimate anywhere**. A range across replications is not an interval around an
+  estimate, and without this field the only options were to invent a midpoint or
+  drop the effect. `over` is required and is a `{value, unit}` count, because a
+  range across participants and a range across outcomes are different claims.
+  Carrying both `estimate` and `estimate_range` is an error.
+
+**The phases are the arms.** Baseline, intervention-with-icons and icons-removed
+are three named configurations, and a phase change is a `within-subject-baseline`
+contrast. Arms + comparisons did not move for this shape either.
+
 ### A heterogeneous comparator stays one observation
 
 Either side of a comparison may name **more than one arm**:
@@ -413,7 +452,7 @@ not_yet_extracted: [...]     # findings seen and not encoded. An observation wit
 | field | values |
 |---|---|
 | `study.design.family` | `randomized-controlled-trial` `cluster-randomized-controlled-trial` `quasi-experimental` `observational` `longitudinal` `qualitative` `mixed-methods` `meta-analysis` `systematic-review` `simulation` `other` |
-| `result.measure_type` | `cohens_d` `hedges_g` `odds_ratio` `risk_ratio` `correlation` `mean_difference` `standardized_mean_difference` `regression_coefficient` `probability` `count` `qualitative` `eta_squared` `partial_eta_squared` `other` |
+| `result.measure_type` | `tau_u` `cohens_d` `hedges_g` `odds_ratio` `risk_ratio` `correlation` `mean_difference` `standardized_mean_difference` `regression_coefficient` `probability` `count` `qualitative` `eta_squared` `partial_eta_squared` `other` |
 | count `unit` | `participants` `studies` `reports` `classes` `schools` `sites` `effect-sizes` `comparisons` `pairs` `items` `sessions` `other` |
 | `comparisons[].kind` | `between-groups` `within-subject-baseline` `historical` `none` `other` |
 | `observability.*` | `observed` `partial` `unreported` |
