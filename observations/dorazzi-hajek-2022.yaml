@@ -1,0 +1,173 @@
+# D'Orazzi & Hajek (2022) — Italian L2 motivation among Australian university
+# students, and their teachers.
+#
+# The qualitative fixture, and the actors fixture. The finding is an asymmetry
+# between what learners said and what their teachers said, which is not an
+# effect size and must not be turned into one. It is also the case that makes
+# `valued_by` earn its place: the study asks two groups what matters, and gets
+# two different answers — so who values an outcome is recorded here because the
+# source establishes it, not inferred from the fact that somebody measured it.
+
+schema_version: 1
+
+study:
+  key: dorazzi-hajek-2022
+  citation: "D'Orazzi, G., & Hajek, J. (2022). A Multidimensional Understanding of Italian L2 Learner Motivation among University Students in a Predominantly English-Speaking Environment. Italica, 99(3), 350–375."
+  doi: "10.5406/23256672.99.3.04"
+  design:
+    family: mixed-methods
+    design_detail: >-
+      Qualitative and survey study across four university language programmes,
+      with both learners and their teachers as respondents.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-09-07
+  # The publisher is paywalled from this sandbox. Everything below comes from
+  # the wiki's own evidence entry, which carries one verbatim quotation from
+  # the paper. Recorded as such so nobody later reads this file as if the
+  # article had been opened.
+  extraction_method: manual-from-wiki-claim-page
+  verification: unverified
+  provenance_notes: >-
+    Italica is not open access and did not resolve from this environment. The
+    `source_quote` below is the fragment the claim page quotes directly; the
+    surrounding description is the wiki's paraphrase, not the paper's wording,
+    and `observability` is set accordingly.
+
+appears_in:
+  - claim: italian-l2-motivation-is-ideal-self-not-instrumental
+    anchor: dorazzi-hajek-2022
+
+population:
+  n: null
+  description: >-
+    University learners of Italian across four language programmes, and their
+    teachers. Counts are not reported on the claim page.
+  age_or_stage: "University students"
+  language_background: "Learners of Italian in a predominantly English-speaking environment"
+  relevant_characteristics:
+    - "Two respondent groups — learners and teachers — which is what the finding is about"
+
+context:
+  setting: "University language programmes"
+  institution_or_environment: "Four university language programmes"
+  geography: "Australia"
+  delivery_mode: "Not reported here"
+  duration: "Not reported here"
+
+intervention:
+  description: "None. Motivation is elicited and described, not manipulated."
+  elements: []
+
+comparisons:
+  - id: learners-vs-teachers
+    kind: between-groups
+    description: >-
+      Learners' accounts of their own motivation set against their teachers'
+      accounts of what motivates learners. Both groups were asked; the finding
+      is that the two do not match.
+    elements: []
+
+observations:
+
+  - id: instrumental-motivation-asymmetry
+    outcome:
+      construct: "Attribution of instrumental motivation for studying Italian"
+      source_language: "instrumental motivation factors"
+      measure: "Interview and survey responses on motivation for studying Italian"
+      scale: "Not applicable — qualitative"
+      direction: contextual
+      # Motivation is a state of the learner, not a competency and not a
+      # valued end. `learner-characteristic` keeps it out of the capability
+      # namespace without pretending it is an outcome somebody wanted.
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by:
+        # Recorded because the study asked both groups directly. This is the
+        # whole rule: a researcher measuring graduation does not establish
+        # that anybody values graduation — but a researcher who asks teachers
+        # what matters and records the answer does establish what those
+        # teachers said.
+        - actor: teacher
+          basis: "Teachers volunteered employability rationales, citing industries where Italian is in high demand."
+        - actor: learner
+          basis: "Learners did not make much reference to instrumental factors when accounting for their own motivation."
+      anchors:
+        - learner-variables/motivation
+    time:
+      label: single-administration
+    comparison_ref: learners-vs-teachers
+    result:
+      measure_type: qualitative
+      finding: >-
+        Learners rarely invoked usefulness or employability in accounting for
+        their motivation to study Italian; their teachers invoked it often, and
+        named industries where Italian is in demand. The asymmetry is between
+        two accounts of the same learners' motivation.
+      perspective: mixed
+      collection_method: "Interview and survey responses from learners and from teachers"
+      interpretation: >-
+        Reported by the authors as a mismatch between learner-held and
+        teacher-attributed motivation. No magnitude is given, and none is
+        derivable: "did not make much reference" is a qualitative
+        characterisation of a corpus of responses.
+    moderators:
+      reported: []
+      candidate:
+        - "Programme: four programmes are covered but the claim page does not report whether the asymmetry varied across them."
+    observability:
+      population_detail: unreported
+      implementation_detail: unreported
+      outcome_timing: partial
+      effect_size: unreported
+    observability_notes: >-
+      Four `unreported`/`partial` values on one observation, and they are the
+      honest reading: no n, no instrument detail, no timing beyond a single
+      administration. A consumer weighting this record should weight it by
+      that, which it can only do if the gaps are written down.
+    source_quote: "did not make much reference to instrumental motivation factors, as opposed to their teachers, who mentioned more examples of industries where Italian is in high demand."
+    source_location: "Quoted on claims/italian-l2-motivation-is-ideal-self-not-instrumental.md; original section not established"
+
+  - id: motivation-multilevel-and-changing
+    outcome:
+      construct: "Structure and stability of L2 motivation"
+      source_language: "micro psychological, meso pedagogical, macro social levels"
+      measure: "Authors' multidimensional model of learner motivation"
+      scale: "Not applicable — qualitative"
+      direction: contextual
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+      anchors:
+        - learner-variables/motivation
+    time:
+      label: over-course-of-study
+    comparison_ref: learners-vs-teachers
+    result:
+      measure_type: qualitative
+      finding: >-
+        Motivation operated at three levels — micro psychological, meso
+        pedagogical, macro social — and changed over the course of study rather
+        than being fixed at enrolment.
+      perspective: researcher
+      collection_method: "Analysis of learner and teacher accounts against a multidimensional framework"
+      interpretation: >-
+        A structural claim about how motivation is organised and that it moves,
+        not a measurement of how much it moves. Recorded as qualitative for
+        that reason: there is no quantity here to lose.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: unreported
+      implementation_detail: unreported
+      outcome_timing: partial
+      effect_size: unreported
+    source_quote: "Motivation operated at three levels — micro psychological, meso pedagogical, macro social — and changed over the course of study rather than holding fixed."
+    source_location: "Paraphrase on the claim page; original section not established"
+
+not_yet_extracted:
+  - "Participant counts, instrument, sampling and analysis method — none available without the article."
+  - "Whether the learner/teacher asymmetry was tested statistically or characterised qualitatively only."

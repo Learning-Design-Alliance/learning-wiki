@@ -1,0 +1,160 @@
+# Mantovani (2026) — language learning strategies among newly arrived migrant
+# adolescents in Italian secondary schools.
+#
+# The case this schema exists for as much as any effect size: a correlation is
+# asserted and its magnitude is never printed. `estimate` is therefore absent
+# and `observability.effect_size` is `unreported` — which says "somebody read
+# the paper and it does not say", not "the effect is zero" and not "nobody has
+# looked yet". Those three are different and a store that cannot tell them
+# apart will average them together.
+
+schema_version: 1
+
+study:
+  key: mantovani-2026
+  citation: "Mantovani, A. (2026). Investigating language learning strategies through the strategy inventory: A study among immigrant adolescents in Italian secondary schools. Glottodidactica, 53(1), 221–239."
+  doi: "10.14746/gl.2026.53.1.10"
+  design:
+    family: observational
+    design_detail: >-
+      Cross-sectional self-report survey using an inventory adapted from the
+      Strategy Inventory for Language Learning (SILL, Oxford 1990), with a
+      reported correlation against Italian proficiency. No intervention, no
+      allocation, no repeated measurement.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-09-07
+  # Only the publisher's abstract page was read. Said plainly, because
+  # `manual-from-publisher-fulltext` on the other two files would otherwise
+  # imply the same depth here.
+  extraction_method: manual-from-publisher-abstract
+  verification: unverified
+
+appears_in:
+  - claim: strategy-use-correlates-with-l2-proficiency-in-adolescents
+    anchor: mantovani-2026
+
+population:
+  n: 157
+  description: >-
+    157 immigrant students aged 11–19 from nine secondary schools in Northeast
+    Italy — described on the claim page as newly arrived migrant students.
+  age_or_stage: "11–19 years; secondary school"
+  prior_knowledge: "Not reported in the abstract."
+  language_background: >-
+    Students with a foreign background learning Italian as a second language;
+    the abstract reports cross-cultural differences among them without
+    enumerating the L1s.
+  relevant_characteristics:
+    - "Recruited across nine schools, so school-level variation is present but not analysed in the abstract"
+
+context:
+  setting: "Mainstream secondary schools"
+  institution_or_environment: "Nine secondary schools"
+  geography: "Northeast Italy"
+  delivery_mode: "Not applicable — no intervention was delivered"
+  duration: "Single administration"
+
+# There is no intervention. The block is present and explicitly empty rather
+# than omitted, so a consumer can tell "observational, nothing was done to
+# them" from "an intervention nobody recorded".
+intervention:
+  description: "None. This is an observational survey; no instructional condition was administered."
+  elements: []
+
+comparisons:
+  - id: no-comparison
+    kind: none
+    description: >-
+      No comparison group and no counterfactual. The reported relationship is a
+      correlation across one sample at one time.
+    elements: []
+
+observations:
+
+  - id: strategy-use-level
+    outcome:
+      construct: "Self-reported language learning strategy use"
+      source_language: "medium strategy users (M = 3.09), predominantly employing indirect L2 learning strategies"
+      measure: "Inventory adapted from the Strategy Inventory for Language Learning (SILL, Oxford 1990)"
+      scale: "SILL mean, 1–5"
+      direction: contextual
+      # NOT capability-evidence. Strategy use is something measured ABOUT the
+      # learner, and the Learning Design Spec's split between a capability and
+      # a valued outcome is exactly what stops it being filed as a competency
+      # the instruction produced.
+      role: learner-characteristic
+      role_basis: inferred
+      valued_by: []
+      anchors:
+        - learner-variables/self-regulation
+    time:
+      label: single-administration
+    comparison_ref: no-comparison
+    result:
+      measure_type: other
+      estimate: 3.09
+      unit: "SILL mean (1–5)"
+      interpretation: "medium strategy use, with indirect strategies preferred over direct"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      A composition, not an effect. `estimate` carries the reported mean so the
+      value is not lost, and `effect_size: unreported` records that no
+      comparison and therefore no effect size exists to report.
+    source_quote: "the students with a foreign background are medium strategy users (M = 3.09), predominantly employing indirect L2 learning strategies"
+    source_location: "Abstract"
+
+  - id: strategy-use-proficiency-correlation
+    outcome:
+      construct: "Italian second-language proficiency"
+      source_language: "their proficiency in Italian"
+      measure: "Not stated in the abstract"
+      scale: "Not stated in the abstract"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+      anchors:
+        - learner-variables/reading-and-language
+    time:
+      label: single-administration
+    comparison_ref: no-comparison
+    result:
+      # measure_type is the ONLY required field of a result, which is what
+      # makes this record writable at all: the paper names the relationship
+      # and never quantifies it.
+      measure_type: correlation
+      estimate: null
+      p_value: null
+      interpretation: "A correlation between low strategy use and lower Italian proficiency is asserted; no coefficient, sample-level statistic, or significance test is printed in the abstract."
+    moderators:
+      reported:
+        - variable: "Cross-cultural background"
+          relationship: "strategy adoption is influenced by cross-cultural differences among the adolescents rather than being uniform"
+          source_quote: "Moreover, strategies are influenced by cross-cultural differences among adolescents."
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The single most important field in this file. Read as "no effect
+      reported", this study drags any pooled estimate toward zero; read as
+      "magnitude not established", it contributes direction and nothing else.
+      Only the second is true.
+    source_quote: "demonstrate a correlation between low usage of LLSs and their proficiency in Italian"
+    source_location: "Abstract"
+
+not_yet_extracted:
+  - "The proficiency instrument, the correlation coefficient, and the breakdown by cultural background — all beyond the abstract."
+  - "The authors' recommendation to promote cognitive, social and compensatory strategies through goal-oriented and collaborative tasks. A recommendation is not an observation and would need its own representation, not an observation record."
