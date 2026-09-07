@@ -100,6 +100,49 @@ own earlier state" — which is how a single-group study's one arm gets used.
 A single-group study has one arm. An observational survey has `arms: []`. Neither
 is a special case; both are the same mechanism with fewer arms.
 
+### Cluster designs: the unit randomised is not the unit analysed
+
+Encoding a four-arm cluster-randomised trial added **four fields and no new
+level** — the arms + comparisons abstraction itself did not move.
+
+```yaml
+evidence_base:
+  unit: participants       # what was ANALYSED — 370 students
+  size: {value: 370, unit: participants}
+  allocation:              # what was RANDOMISED — 20 classes
+    value: 20
+    unit: classes
+  arms:
+    - id: srsd
+      allocation: {value: 5, unit: classes}
+```
+
+`design.family: cluster-randomized-controlled-trial` **requires**
+`evidence_base.allocation`, and an `allocation.unit` equal to `unit` is an
+error — if they are the same the design is not clustered. This matters because
+every group contrast in the fixture carries **df = 16** (twenty classes minus
+four conditions) while 370 students were measured: reading `size` as the
+effective sample overstates precision by roughly the design effect.
+
+**`result.clustering`** holds the ICCs and design effects, as a list, each with
+its `level` — a three-level model reports more than one, and an unlabelled 0.11
+beside an unlabelled 0.49 is unreadable. It is deliberately **not** folded into
+`heterogeneity`: I² is between-*study* variation of effects in a synthesis, an
+ICC is within-study correlation among observations sharing a cluster, and
+pooling the two would be pooling nonsense.
+
+**`result.power`** records power where the source reports it, never computed
+here, with `kind` (`a-priori` / `post-hoc` / `sensitivity`) required — the two
+are different claims and conflating them flatters an underpowered study. The
+fixture's growth-rate null was powered at 0.44, which is the difference between
+"no effect" and "no detection".
+
+**`comparisons[].contrast`** carries contrast weights where the contrasts are
+not pairwise. Rosário et al. use Helmert contrasts, where H1 sets control
+against the *mean of three treatment arms* — the arm lists already carried
+which arms are on which side (the same mechanism the heterogeneous comparator
+uses), and this carries the weighting as printed.
+
 ### A heterogeneous comparator stays one observation
 
 Either side of a comparison may name **more than one arm**:
@@ -324,7 +367,7 @@ not_yet_extracted: [...]     # findings seen and not encoded. An observation wit
 
 | field | values |
 |---|---|
-| `study.design.family` | `randomized-controlled-trial` `quasi-experimental` `observational` `longitudinal` `qualitative` `mixed-methods` `meta-analysis` `systematic-review` `simulation` `other` |
+| `study.design.family` | `randomized-controlled-trial` `cluster-randomized-controlled-trial` `quasi-experimental` `observational` `longitudinal` `qualitative` `mixed-methods` `meta-analysis` `systematic-review` `simulation` `other` |
 | `result.measure_type` | `cohens_d` `hedges_g` `odds_ratio` `risk_ratio` `correlation` `mean_difference` `standardized_mean_difference` `regression_coefficient` `probability` `count` `qualitative` `eta_squared` `partial_eta_squared` `other` |
 | count `unit` | `participants` `studies` `reports` `classes` `schools` `sites` `effect-sizes` `comparisons` `pairs` `items` `sessions` `other` |
 | `comparisons[].kind` | `between-groups` `within-subject-baseline` `historical` `none` `other` |

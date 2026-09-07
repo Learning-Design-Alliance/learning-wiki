@@ -47,7 +47,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 import observation_lib as ol
 
 RECORD_KIND = "research_observation"
-COMPILER_VERSION = 2
+COMPILER_VERSION = 3
 
 
 def compile_all(directory: Path | None = None) -> tuple[list, list]:
@@ -117,6 +117,11 @@ def compile_all(directory: Path | None = None) -> tuple[list, list]:
                     "evidence_base": {
                         "unit": eb.get("unit"),
                         "size": eb.get("size"),
+                        # The unit RANDOMISED, when it differs from the unit
+                        # analysed. Emitted beside `size` rather than inside
+                        # additional_sizes so a consumer computing precision
+                        # cannot miss that the design is clustered.
+                        "allocation": eb.get("allocation"),
                         "additional_sizes": eb.get("additional_sizes") or [],
                         "population": eb.get("population") or {},
                         "context": eb.get("context") or {},
@@ -195,6 +200,10 @@ def explain(records: list, observation_id: str) -> int:
     size = ebase.get("size") or {}
     block("TO WHOM", (ebase.get("population") or {}).get("description"))
     print(f"    evidence base: {size.get('value')} {size.get('unit')}")
+    alloc = ebase.get("allocation")
+    if alloc:
+        print(f"    ** CLUSTERED — randomised by {alloc.get('value')} "
+              f"{alloc.get('unit')}, not by {size.get('unit')} **")
     for s in ebase.get("additional_sizes") or []:
         print(f"      also {s.get('value')} {s.get('unit')} — {s.get('note')}")
     if cfg.get("sample"):
@@ -209,6 +218,10 @@ def explain(records: list, observation_id: str) -> int:
     refs = cfg["comparison"].get("reference_arms") or []
     block("COMPARED WITH", f"[{cfg['comparison'].get('kind')}] "
                            f"{cfg['comparison'].get('description')}")
+    if cfg["comparison"].get("contrast"):
+        ct = cfg["comparison"]["contrast"]
+        coeffs = ", ".join(f"{k}={v}" for k, v in (ct.get("coefficients") or {}).items())
+        print(f"    contrast: {ct.get('method')} — {coeffs}")
     if cfg["comparison"].get("reference_is_heterogeneous"):
         print(f"    ** HETEROGENEOUS COMPARATOR — {len(refs)} different configurations "
               f"pooled into one estimate **")
@@ -241,6 +254,13 @@ def explain(records: list, observation_id: str) -> int:
     if res.get("prediction_interval"):
         pi = res["prediction_interval"]
         print(f"    prediction interval: {pi.get('lower')} to {pi.get('upper')}")
+    for c in res.get("clustering") or []:
+        de = f", design effect {c['design_effect']}" if c.get("design_effect") else ""
+        print(f"    clustering: {c.get('statistic')} at {c.get('level')} = "
+              f"{c.get('value')}{de}")
+    if res.get("power"):
+        pw = res["power"]
+        print(f"    power: {pw.get('value')} ({pw.get('kind')}) for {pw.get('test')}")
     if res.get("certainty"):
         c = res["certainty"]
         print(f"    certainty: {c.get('rating')} ({c.get('framework')})")

@@ -118,7 +118,12 @@ SCHEMA_VERSION = 2
 # box that loses the study.
 
 DESIGN_FAMILIES = {
-    "randomized-controlled-trial", "quasi-experimental", "observational",
+    "randomized-controlled-trial",
+    # Named separately because the unit randomised is not the unit analysed,
+    # and that changes what every estimate in the study means. Requires
+    # `evidence_base.allocation` — see CLUSTER_ALLOCATION below.
+    "cluster-randomized-controlled-trial",
+    "quasi-experimental", "observational",
     "longitudinal", "qualitative", "mixed-methods", "meta-analysis",
     "systematic-review", "simulation", "other",
 }
@@ -204,6 +209,21 @@ TIME_UNITS = {"minutes", "hours", "days", "weeks", "months", "years",
               "sessions", "items", "readings"}
 
 HETEROGENEITY_STATISTICS = {"I2", "tau2", "Q", "H", "other"}
+
+# Deliberately NOT folded into `heterogeneity`. Both answer "how much does this
+# vary across the units it pools over", and they are different questions: I2 is
+# between-STUDY heterogeneity of effects in a synthesis; an ICC is the
+# within-study correlation of observations sharing a cluster. Merging them
+# would be exactly the normalise-into-one-shape error this schema exists to
+# avoid, and a consumer pooling an ICC with an I2 would be pooling nonsense.
+CLUSTERING_STATISTICS = {"ICC", "design-effect", "other"}
+
+# Power is recorded where it is reported and never computed here. Rosario et
+# al. report a POST-HOC power of 0.44 for their group-by-time interaction —
+# which is a fact about that one test, not about the study, so it rides on the
+# result. `kind` is required because a-priori and post-hoc power are different
+# claims and conflating them flatters an underpowered study.
+POWER_KINDS = {"a-priori", "post-hoc", "sensitivity"}
 
 KEY_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 
@@ -452,6 +472,30 @@ def _validate_evidence_base(rec, key, issues, family) -> set:
         _err(issues, where, f"design.family is {family!r} but evidence_base.unit is "
                             f"{eb.get('unit')!r} — a synthesis is counted in what it pooled; "
                             f"put the participant total in additional_sizes")
+    # THE CLUSTER CASE. `size` is what was ANALYSED; `allocation` is what was
+    # RANDOMISED. When they differ the study is clustered, every contrast is
+    # estimated at the allocation level, and reading `size` as the effective
+    # sample overstates precision — in the fixture, the group contrasts carry
+    # df = 16 (20 classes minus 4 conditions) while 370 students were measured.
+    alloc = eb.get("allocation")
+    if alloc is not None:
+        _count(issues, where, alloc, "allocation", required=True)
+        if isinstance(alloc, dict) and alloc.get("unit") == eb.get("unit"):
+            _err(issues, where, f"allocation.unit equals evidence_base.unit "
+                                f"({eb.get('unit')!r}) — allocation records the unit "
+                                f"RANDOMISED when it differs from the unit analysed; "
+                                f"omit it when they are the same")
+    if family == "cluster-randomized-controlled-trial" and alloc is None:
+        _err(issues, where, "design.family is 'cluster-randomized-controlled-trial' but "
+                            "evidence_base.allocation is absent — the unit randomised is "
+                            "what makes it a cluster design and what every contrast is "
+                            "estimated at")
+    if alloc is not None and family not in ("cluster-randomized-controlled-trial",
+                                            "quasi-experimental", "observational"):
+        _err(issues, where, f"evidence_base.allocation is present but design.family is "
+                            f"{family!r}; a differing allocation unit means the design is "
+                            f"clustered and the family should say so")
+
     for i, s in enumerate(eb.get("additional_sizes") or []):
         w = f"{where}.additional_sizes[{i}]"
         _count(issues, w, s, "additional size", required=True)
@@ -496,6 +540,10 @@ def _validate_evidence_base(rec, key, issues, family) -> set:
         _str(issues, w, arm.get("description"), "description", required=True)
         if arm.get("size") is not None:
             _count(issues, w, arm.get("size"), "size")
+        # Symmetric with evidence_base: five classes AND ~92 students per arm
+        # are two facts, and one `size` slot could only hold one of them.
+        if arm.get("allocation") is not None:
+            _count(issues, w, arm.get("allocation"), "allocation")
         _elements(arm.get("elements"), issues, w)
     return arm_ids
 
@@ -520,6 +568,25 @@ def _validate_comparisons(rec, key, issues, arm_ids) -> set:
         kind = comp.get("kind")
         _enum(issues, where, kind, COMPARISON_KINDS, "kind", required=True)
         _str(issues, where, comp.get("description"), "description", required=True)
+        # Not every contrast is pairwise. Rosario et al. use Helmert contrasts,
+        # where H1 sets control against the MEAN of three treatment arms — the
+        # arm lists already carry which arms are on which side, and this
+        # carries the weighting, copied from the source. Absent for an
+        # ordinary pairwise contrast, where the weights are implied.
+        contrast = comp.get("contrast")
+        if contrast is not None:
+            if not isinstance(contrast, dict):
+                _err(issues, where, "contrast must be a mapping")
+            else:
+                _str(issues, where, contrast.get("method"), "contrast.method", required=True)
+                coeffs = contrast.get("coefficients")
+                if coeffs is not None and not isinstance(coeffs, dict):
+                    _err(issues, where, "contrast.coefficients must be a mapping of "
+                                        "arm id -> weight, as the source prints it")
+                for arm_id in (coeffs or {}):
+                    if arm_id not in arm_ids:
+                        _err(issues, where, f"contrast.coefficients names {arm_id!r}, "
+                                            f"which is not an arm id")
         # Arms are what make a multi-arm design representable: three arms give
         # three pairwise contrasts, and each observation says which one it is.
         #
@@ -717,6 +784,29 @@ def _validate_result(o, where, family) -> list:
             # be the same act as converting a metric during ingestion.
             _str(issues, where, pi.get("source"), "result.prediction_interval.source",
                  required=True)
+
+    for j, c in enumerate(r.get("clustering") or []):
+        w = f"{where}.result.clustering[{j}]"
+        if not isinstance(c, dict):
+            _err(issues, w, "must be a mapping")
+            continue
+        _enum(issues, w, c.get("statistic"), CLUSTERING_STATISTICS, "statistic", required=True)
+        # `level` is required because a three-level model reports more than one
+        # ICC and an unlabelled 0.49 beside an unlabelled 0.11 is unreadable.
+        _str(issues, w, c.get("level"), "level", required=True)
+        if not isinstance(c.get("value"), (int, float)):
+            _err(issues, w, "value must be a number")
+
+    power = r.get("power")
+    if power is not None:
+        if not isinstance(power, dict):
+            _err(issues, where, "result.power must be a mapping")
+        else:
+            if not isinstance(power.get("value"), (int, float)):
+                _err(issues, where, "result.power.value must be a number")
+            _enum(issues, where, power.get("kind"), POWER_KINDS, "result.power.kind",
+                  required=True)
+            _str(issues, where, power.get("test"), "result.power.test", required=True)
 
     cert = r.get("certainty")
     if cert is not None:

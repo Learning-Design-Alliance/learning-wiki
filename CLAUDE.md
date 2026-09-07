@@ -557,6 +557,19 @@ emits `reference_is_heterogeneous: true` beside the resolved arms. Per-study con
 counts are deliberately not recorded — the source reports them, but no use case needs that
 grain yet, and a field nobody reads goes stale.
 
+**A cluster design needed four fields and no new level, which is the strongest evidence so
+far that the abstraction holds.** `evidence_base.allocation` records the unit RANDOMISED
+where it differs from the unit analysed — 20 classes against 370 students, with every group
+contrast carrying df = 16 rather than 369, so reading `size` as the effective sample
+overstates precision by the design effect. `result.clustering` holds the ICCs and design
+effects, as a list with a required `level`, and deliberately NOT folded into
+`heterogeneity`: I² is between-*study* variation of effects, an ICC is within-study
+correlation among observations sharing a cluster, and pooling the two would be pooling
+nonsense. `result.power` records reported power with `kind` required, because a post-hoc
+0.44 is what separates "no effect" from "no detection". And `comparisons[].contrast` carries
+weights where contrasts are not pairwise — Helmert H1 sets control against the *mean of
+three arms*, which the arm lists already handled.
+
 **Every count carries its unit, and the corpus proved that necessary before either fixture
 was written.** Its evidence entries already carry `n=18`, `n=30 studies`, `n=66 articles`,
 `n=N/A` and `n=large (aggregated)` — one field doing four jobs, so nothing can read it.

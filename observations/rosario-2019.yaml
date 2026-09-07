@@ -1,0 +1,376 @@
+# Rosário et al. (2019) — three writing interventions, cluster-randomised.
+#
+# THE CLUSTER STRESS TEST, and it added four fields rather than a level.
+# What broke in v2 as merged, and what fixed it:
+#
+#   1. The unit RANDOMISED is not the unit ANALYSED. 20 classes were assigned;
+#      370 students were measured. `evidence_base.size` held one of those.
+#      -> `evidence_base.allocation`, and the same on each arm.
+#   2. The ICCs had nowhere to go. They are not `heterogeneity` — that is
+#      between-STUDY variation of effects in a synthesis; an ICC is the
+#      within-study correlation of observations sharing a cluster, and pooling
+#      the two would be pooling nonsense.  -> `result.clustering`.
+#   3. Post-hoc power of 0.44 on the interaction test had nowhere to go, and it
+#      is the single most load-bearing number in the paper's own reading of its
+#      null.  -> `result.power`, with `kind` required.
+#   4. Two of the three contrasts are NOT pairwise: Helmert H1 sets control
+#      against the mean of all three treatment arms. The arm LISTS already
+#      handled that — the same mechanism the heterogeneous comparator uses —
+#      but the weights did not.  -> `comparisons[].contrast`.
+#
+# The arms + comparisons abstraction itself did not need changing.
+
+schema_version: 2
+
+study:
+  key: rosario-2019
+  citation: "Rosário, P., Högemann, J., Núñez, J. C., Vallejo, G., Cunha, J., Rodríguez, C., & Fuentes, S. (2019). The impact of three types of writing intervention on students' writing quality. PLOS ONE, 14(7), e0218099."
+  doi: "10.1371/journal.pone.0218099"
+  design:
+    family: cluster-randomized-controlled-trial
+    design_detail: >-
+      Longitudinal four-arm cluster-randomised design. Twenty classes (their
+      teachers) were randomly assigned in groups of five to a comparison
+      condition and three writing interventions, and analysed with three-level
+      growth-curve models — twelve writing occasions nested within students,
+      students nested within classes — fitted by full ML in SAS PROC MIXED.
+      Group differences were tested with Helmert contrasts at the class level.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-09-07
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+evidence_base:
+  # What was ANALYSED.
+  unit: participants
+  size:
+    value: 370
+    unit: participants
+  # What was RANDOMISED. The whole cluster problem in one field: every group
+  # contrast below carries df = 16 — twenty classes minus four conditions —
+  # not 369. Reading `size` as the effective sample overstates precision by
+  # roughly the design effect.
+  allocation:
+    value: 20
+    unit: classes
+  additional_sizes:
+    - value: 12
+      unit: sessions
+      note: "twelve independent writing occasions per student, the repeated-measures level"
+    - value: 4670
+      unit: comparisons
+      note: >-
+        residual df at the occasion level in the fitted model, printed beside
+        the class-level df of 16 — the two levels at which this study's
+        estimates are tested
+  population:
+    description: >-
+      370 fourth-grade students in twenty classes, taught by the twenty teachers
+      who agreed to participate.
+    age_or_stage: "Fourth grade"
+    prior_knowledge: >-
+      Not reported as a baseline attainment measure; self-efficacy,
+      self-regulation and attitude toward writing were carried as time-varying
+      covariates.
+    relevant_characteristics:
+      - "Lower-middle class schools; 40% of students receiving free or reduced-price lunches, from school office records"
+      - "Teachers were blind to the purpose of the study and all followed the fourth-grade Portuguese curriculum"
+  context:
+    setting: "Mainstream primary classrooms, twelve weeks of writing activity"
+    geography: "Portugal"
+    delivery_mode: "In-class, teacher-delivered"
+    duration: "Twelve weekly writing occasions"
+  variation: []
+  arms:
+    - id: comparison
+      description: >-
+        Comparison condition: the ordinary fourth-grade Portuguese curriculum,
+        with no additional writing programme.
+      allocation:
+        value: 5
+        unit: classes
+      elements: []
+    - id: week-journals
+      description: >-
+        Week-journals: regular free writing activities, the least specialised of
+        the three interventions and the one the authors note is easiest to adopt.
+      allocation:
+        value: 5
+        unit: classes
+      elements:
+        - term: "week-journals and writing activities"
+    - id: srsd
+      description: >-
+        Self-Regulation Strategy Development (SRSD) instruction in writing.
+      allocation:
+        value: 5
+        unit: classes
+      elements:
+        - term: "Self-Regulation Strategy Development (SRSD) instruction"
+          anchors:
+            - learner-variables/self-regulation
+    - id: srsd-plus-srl
+      description: >-
+        SRSD plus a Self-Regulated Learning (SRL) programme delivered through a
+        story-tool — the most specialised condition.
+      allocation:
+        value: 5
+        unit: classes
+      elements:
+        - term: "SRSD plus Self-Regulated Learning (SRL) programme using a story-tool"
+          anchors:
+            - learner-variables/self-regulation
+
+comparisons:
+  # Helmert contrasts, exactly as the paper specifies them. Two of the three
+  # are not pairwise, and the arm LISTS carry that without any new machinery.
+  - id: h1-control-vs-any-treatment
+    kind: between-groups
+    index_arm:
+      - week-journals
+      - srsd
+      - srsd-plus-srl
+    reference_arm: comparison
+    contrast:
+      method: "Helmert"
+      coefficients:
+        comparison: -1
+        week-journals: 0.3333
+        srsd: 0.3333
+        srsd-plus-srl: 0.3333
+      note: "printed as H1 = c(-1, 1/3, 1/3, 1/3)"
+    description: >-
+      Control against some form of treatment — the mean of the three
+      intervention arms, not any one of them.
+  - id: h2-journals-vs-srl-forms
+    kind: between-groups
+    index_arm:
+      - srsd
+      - srsd-plus-srl
+    reference_arm: week-journals
+    contrast:
+      method: "Helmert"
+      coefficients:
+        week-journals: -1
+        srsd: 0.5
+        srsd-plus-srl: 0.5
+      note: "printed as H2 = c(0, -1, 1/2, 1/2)"
+    description: "Week-journals against some form of self-regulated learning instruction."
+  - id: h3-srsd-vs-srsd-plus-srl
+    kind: between-groups
+    index_arm: srsd-plus-srl
+    reference_arm: srsd
+    contrast:
+      method: "Helmert"
+      coefficients:
+        srsd: -1
+        srsd-plus-srl: 1
+      note: "printed as H3 = c(0, 0, -1, 1)"
+    description: "The one genuinely pairwise contrast: SRSD against SRSD plus the SRL story-tool."
+
+observations:
+
+  - id: writing-quality-control-vs-treatment
+    # Tested at the CLASS level. This is the number that makes the cluster
+    # design visible in the result rather than only in the design block.
+    sample:
+      value: 20
+      unit: classes
+    outcome:
+      construct: "Writing quality"
+      source_language: "quality of compositions / composition skills (CS)"
+      measure: >-
+        Holistic rating of each composition against the criteria of the
+        Portuguese-language Educational Progress Test for fourth graders.
+      scale: "holistic rating score"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: across-twelve-occasions
+      offset:
+        value: 12
+        unit: sessions
+        from: start-of-programme
+    comparison_ref: h1-control-vs-any-treatment
+    result:
+      measure_type: regression_coefficient
+      estimate: 5.168
+      standard_error: 0.799
+      p_value: "<.001"
+      statistic: "t(16) = 6.47"
+      model: "three-level growth-curve model, full ML, SAS PROC MIXED; class-level Helmert contrast"
+      # The two ICCs of a three-level model, each labelled with its level —
+      # unlabelled, 0.11 beside 0.49 is unreadable.
+      clustering:
+        - statistic: ICC
+          level: class
+          value: 0.1133
+          standard_error: 0.0226
+          ci_lower: 0.0689
+          ci_upper: 0.1577
+          design_effect: 1.7274
+          note: "correlation among compositions from different students in the same class"
+        - statistic: ICC
+          level: student-within-class
+          value: 0.4907
+          standard_error: 0.0192
+          ci_lower: 0.4529
+          ci_upper: 0.5284
+          design_effect: 2.6246
+          note: "correlation among compositions measured at different occasions for the same student"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: partial
+    observability_notes: >-
+      effect_size is `partial`: an unstandardised coefficient with its standard
+      error, and no standardised effect size anywhere. With a design effect of
+      1.73 at the class level, a reader converting this to a d from the student
+      n would overstate precision — which is exactly why the allocation unit
+      has to be readable.
+    source_quote: "the 20 classes were randomized in groups of five for each of the treatment conditions: control, week-journal ( WJ ), self-regulated strategy development ( SRSD ), or SRSD+SRL condition. In the analysis, these four groups were compared using Helmert contrasts."
+    source_location: "§Results, Table 3"
+
+  - id: writing-quality-journals-vs-srl-forms
+    sample:
+      value: 20
+      unit: classes
+    outcome:
+      construct: "Writing quality"
+      source_language: "quality of compositions / composition skills (CS)"
+      measure: "Holistic rating against the Educational Progress Test criteria"
+      scale: "holistic rating score"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: across-twelve-occasions
+    comparison_ref: h2-journals-vs-srl-forms
+    result:
+      measure_type: regression_coefficient
+      estimate: 1.695
+      standard_error: 0.587
+      p_value: "<.01"
+      statistic: "t(16) = 2.89"
+      model: "three-level growth-curve model; class-level Helmert contrast"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: partial
+    source_quote: "H 2 , γ ^ 002   1.695**   .587   16   2.89"
+    source_location: "Table 3"
+
+  - id: writing-quality-srsd-vs-srsd-plus-srl
+    sample:
+      value: 20
+      unit: classes
+    outcome:
+      construct: "Writing quality"
+      source_language: "quality of compositions / composition skills (CS)"
+      measure: "Holistic rating against the Educational Progress Test criteria"
+      scale: "holistic rating score"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: across-twelve-occasions
+    comparison_ref: h3-srsd-vs-srsd-plus-srl
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.709
+      standard_error: 0.506
+      p_value: ".179"
+      statistic: "t(16) = 1.40"
+      interpretation: >-
+        Null. Adding the SRL story-tool to SRSD did not produce a detectable
+        further gain, which is the finding the paper reports as the limit of the
+        "more specialised is better" pattern.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: partial
+    source_quote: "differences in CS scores among SRSD and SRSD + SRL intervention conditions ( γ ^ 003 = .709; p < .179)."
+    source_location: "§Results"
+
+  - id: writing-quality-growth-rate-control-vs-treatment
+    # Tested at the OCCASION level, not the class level — same study, same
+    # outcome, different unit and a different df. One `sample` per observation
+    # is what lets these two sit beside each other without contradiction.
+    sample:
+      value: 4670
+      unit: comparisons
+    outcome:
+      construct: "Rate of change in writing quality over time"
+      source_language: "group-by-time interaction (H1 × TIME)"
+      measure: "Linear growth rate in composition score across twelve occasions"
+      scale: "rating points per occasion"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: growth-across-twelve-occasions
+      offset:
+        value: 12
+        unit: sessions
+        from: start-of-programme
+    comparison_ref: h1-control-vs-any-treatment
+    result:
+      measure_type: regression_coefficient
+      estimate: 0.272
+      standard_error: 0.150
+      statistic: "t(4670) = 1.81"
+      interpretation: >-
+        Not significant. The treated arms were higher overall (see
+        writing-quality-control-vs-treatment) without a detectably steeper
+        trajectory.
+      # The number that changes how the null should be read, and which had no
+      # home before this fixture.
+      power:
+        value: 0.44
+        kind: post-hoc
+        test: "group-by-time interaction, H1 × TIME"
+        note: >-
+          The authors report this against the conventional 0.80 benchmark and
+          name it as a limitation. A consumer treating this null as evidence of
+          no growth difference, without the power, would be reading an absence
+          of detection as an absence of effect.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: partial
+    observability_notes: >-
+      The clearest case in the store for why `attempted_but_precluded`,
+      `unreported` and a measured null are three different things. This is a
+      measured null, from a test the authors themselves report was powered at
+      0.44.
+    source_quote: "a power below the often-mentioned benchmark of 0.80 was obtained; specifically, the post hoc power was found to be approximately 0.44."
+    source_location: "§Results"
+
+not_yet_extracted:
+  - "Per-condition level-1 residual variances (heterogeneous variance specification): Control 29.994, WJ 14.270, SRSD 27.159, SRSD/SRL 22.714."
+  - "Time-varying covariate effects — writing self-efficacy, self-regulation and attitude — and their interactions with time."
+  - "Per-arm student counts: the paper gives five classes per condition but the analysed n per arm was not captured."
