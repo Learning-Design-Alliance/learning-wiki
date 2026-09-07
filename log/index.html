@@ -597,6 +597,17 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#2026-09-07" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-07
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#2026-09-03" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -768,6 +779,17 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#2026-09-07" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-07
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#2026-09-03" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -907,6 +929,16 @@
 <p>Format: <code>## [YYYY-MM-DD] &lt;operation&gt; | &lt;page or batch&gt; | &lt;notes&gt;</code></p>
 <p>Operations: <code>ingest</code> · <code>edit</code> · <code>review</code> · <code>merge</code> · <code>deprecate</code> · <code>lint</code></p>
 <hr />
+<h2 id="2026-09-07">2026-09-07<a class="headerlink" href="#2026-09-07" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong>Schema</strong>: <code>observations/</code> — structured research observations beside the claims. One file per study, keyed by the author-year citation key, recording intervention + population + context + comparison + measurement + time → outcome, so an effect size stays a measurement of one configuration rather than becoming a weight between two concepts. Field reference in <code>observations/SCHEMA.md</code>; rationale in <code>scripts/observation_lib.py</code></li>
+<li><strong>Decision</strong>: the record is NOT in a claim's <code>sources[]</code> frontmatter. That block is <em>derived</em> — <code>sync_evidence_codes.py --apply</code> rebuilds it from the body through <code>dump_frontmatter</code>, which emits only <code>id/resource/title/author/q/i/n</code>, so anything else nested there is destroyed by a script already in the unattended batch chain; <code>check_source_entry_keys</code> also holds a closed key set there on purpose. And a study is cited by many claims, so a per-claim copy is the drift shape this repo has lost weeks to. <strong>No existing claim page was changed</strong></li>
+<li><strong>Content</strong>: four studies enriched as fixtures across four claims — <code>zingaretti-2026</code> (5 observations, including two nulls and two timepoints of one outcome), <code>frolli-2023</code> (2), <code>mantovani-2026</code> (2, one with the magnitude explicitly <code>unreported</code>), <code>dorazzi-hajek-2022</code> (2 qualitative, with learner/teacher <code>valued_by</code>). 11 observations in total</li>
+<li><strong>Correction</strong>: <a href="../claims/game-based-practice-outperforms-traditional-l2-vocabulary-instruction/">claims/game-based-practice-outperforms-traditional-l2-vocabulary-instruction</a> renders Frolli et al. as finding Italian articles "disproportionately hard for this group". The paper reports articles as an <em>instructional accommodation</em> — the one topic needing occasional Russian, because articles are absent from Russian and Ukrainian grammar — and measured no article-specific outcome. Recorded as an implementation note and a <code>candidate</code> moderator, never a reported one</li>
+<li><strong>Tooling</strong>: <code>scripts/observation_lib.py</code> (schema + pure validator), <code>scripts/check_observations.py</code> (<code>--summary</code>, <code>--stub &lt;claim&gt;</code>), <code>scripts/compile_observations.py</code> (<code>research_observation</code> NDJSON, plus <code>--explain</code> which answers the acceptance question from the record alone). <code>lint.py</code> gained <code>check_observations</code>, which starts and stays green and ratchets the claim/anchor join</li>
+<li><strong>Tooling</strong>: <code>prompt_versions/v127.txt</code> adds an <code>observation</code> block per evidence entry to the extraction schema. <code>CURRENT</code> still points at <code>v99</code> — switching it is a deliberate act after the fixtures prove useful, not a side effect of this change</li>
+<li><strong>CI</strong>: <code>validate.yml</code> installs python dependencies <em>before</em> lint, and <code>requirements-docs.txt</code> pins PyYAML explicitly. A lint step that could not parse the observation files would report OK because it never looked — the same failure this log records for <code>learner-variables</code></li>
+</ul>
 <h2 id="2026-09-03">2026-09-03<a class="headerlink" href="#2026-09-03" title="Permanent link">&para;</a></h2>
 <ul>
 <li><strong>Ingest</strong>: six second-language-acquisition claims — <a href="../claims/l1-predicts-l2-phoneme-perception-more-than-proficiency/">l1-predicts-l2-phoneme-perception-more-than-proficiency</a>, <a href="../claims/italian-l2-motivation-is-ideal-self-not-instrumental/">italian-l2-motivation-is-ideal-self-not-instrumental</a>, <a href="../claims/strategy-use-correlates-with-l2-proficiency-in-adolescents/">strategy-use-correlates-with-l2-proficiency-in-adolescents</a>, <a href="../claims/italian-gender-stays-incomplete-for-l2-and-heritage-speakers/">italian-gender-stays-incomplete-for-l2-and-heritage-speakers</a>, <a href="../claims/l2-fluency-gains-persist-weeks-without-practice/">l2-fluency-gains-persist-weeks-without-practice</a>, <a href="../claims/game-based-practice-outperforms-traditional-l2-vocabulary-instruction/">game-based-practice-outperforms-traditional-l2-vocabulary-instruction</a> — converted from Lazuli Studio drafts into the wiki's claim schema; all seven citations Crossref-verified through <code>classify_doi</code> before commit</li>

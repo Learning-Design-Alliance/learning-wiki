@@ -705,6 +705,17 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#research-observations-the-structured-record-beside-a-claim" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Research observations — the structured record beside a claim
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#page-identity-id-and-aliases" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1166,6 +1177,17 @@
         
       </ul>
     </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#research-observations-the-structured-record-beside-a-claim" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Research observations — the structured record beside a claim
+      
+    </span>
+  </a>
   
 </li>
       
@@ -2060,6 +2082,101 @@ Almond (2003), not from the 60-page primary, and its page says so.</p>
   fill the manifest with noise during a blip and make a clean ingest during an outage
   indistinguishable from a dirty one.</li>
 </ul>
+<hr />
+<h2 id="research-observations-the-structured-record-beside-a-claim">Research observations — the structured record beside a claim<a class="headerlink" href="#research-observations-the-structured-record-beside-a-claim" title="Permanent link">&para;</a></h2>
+<p>A claim page argues something. <code>observations/&lt;study-key&gt;.yaml</code> records the configuration
+that argument rests on, so a study can eventually be represented as</p>
+<div class="highlight"><pre><span></span><code>intervention/configuration + population + context + comparison + measurement + time
+    → observed outcome/effect
+</code></pre></div>
+<p>and so that <code>d = .78</code> stays <strong>one measurement of one configuration</strong> rather than becoming a
+weight between two concepts. Two studies of "retrieval practice" with different learners,
+implementations, outcomes or horizons are two records and must stay two records.</p>
+<p><code>observations/SCHEMA.md</code> is the field reference; <code>scripts/observation_lib.py</code> carries the
+rationale. What belongs here:</p>
+<p><strong>The record is NOT in the claim's frontmatter, and that was decided by reading the code.</strong>
+<code>sources[]</code> is <em>derived</em>: <code>sync_evidence_codes.py --apply</code> rebuilds the whole block from the
+body's <code>## Evidence</code> through <code>dump_frontmatter</code>, which emits exactly
+<code>id/resource/title/author/q/i/n</code> — so anything else nested there is destroyed on the next
+run of a script that is already in <code>run_scrape_batch.py</code>'s unattended chain. And
+<code>check_source_entry_keys</code> holds a closed key set at four-space indent precisely so a
+rewrite landing on a YAML key is caught; a new key there is indistinguishable from that
+damage. Third reason, from the data: a study is cited by many claims, so a per-claim copy
+is the drift shape this repo has already lost weeks to on DOIs.</p>
+<p><strong>No existing claim page changed.</strong> The join runs from the record: <code>appears_in</code> names the
+claim slug and the <code>### Author Year</code> anchor, and <code>lint.py --type observations</code> fails if
+either stops resolving. A rename breaks loudly instead of orphaning the record silently.</p>
+<p><strong>Three distinctions the schema exists to hold, and none of them may be collapsed:</strong></p>
+<ul>
+<li><strong>Absent ≠ unreported ≠ zero.</strong> An omitted field means "not established";
+  <code>observability.&lt;field&gt;: unreported</code> means "somebody read the source and it does not say".
+  A consumer reading a missing effect size as zero drags every pooled estimate toward
+  nothing. Same discipline as <code>crossref_reachable: false</code> vs <code>flagged</code>, <code>"doi": null</code> vs an
+  absent <code>doi</code>, and <code>classify_doi</code>'s <code>error</code> vs <code>wrong_paper</code>.</li>
+<li><strong>A capability is not a valued outcome.</strong> <code>outcome.role</code> records which a dependent
+  variable appears to be and <code>outcome.role_basis</code> records whether the source said so or you
+  inferred it; <code>outcome.source_language</code> keeps the author's wording regardless.
+  <code>outcome.valued_by</code> is populated <strong>only where the source identifies who values an
+  outcome</strong> — a researcher measuring graduation does not establish that anybody values it.</li>
+<li><strong>A research observation is not a design hypothesis.</strong> A logic model says "Goal A is
+  intended to contribute to Outcome B"; a record here says "Study S observed relationship R
+  between configuration A and Outcome B under population/context C". There is deliberately
+  no field in which to write that one becomes the other, and every compiled record carries
+  <code>kind: research_observation</code> and <code>provenance.source_type</code> so a published finding stays
+  distinguishable from runtime learner data, a synthetic simulation, an LLM-proposed
+  relationship, or a later platform experiment.</li>
+</ul>
+<p><strong>Never infer a stronger design than the source states.</strong> <code>quasi-experimental</code> is what "the
+sample was divided into two groups" means; an article calling for randomised trials as
+future work has not run one. <code>moderators.reported</code> requires its own <code>source_quote</code> — a
+plausible explanation goes in <code>candidate</code>, and promoting one is the same act as inventing
+a DOI.</p>
+<p><strong>Never convert a metric during ingestion.</strong> A partial η² stays a partial η²; turning
+β = 17.17 words into a <em>d</em> needs a pooled SD, and inventing one to make records comparable
+is how a store fills with confident untraceable numbers. <code>compile_observations.py</code>
+therefore does no pooling, no averaging and no conversion — comparability is a separate
+analytical step run explicitly downstream.</p>
+<div class="highlight"><pre><span></span><code>python3<span class="w"> </span>scripts/check_observations.py<span class="w">                 </span><span class="c1"># validate; exit 1 on any problem</span>
+python3<span class="w"> </span>scripts/check_observations.py<span class="w"> </span>--summary<span class="w">       </span><span class="c1"># what is in the store, by shape</span>
+python3<span class="w"> </span>scripts/check_observations.py<span class="w"> </span>--stub<span class="w"> </span>&lt;claim&gt;<span class="w">  </span><span class="c1"># skeleton for a claim, TODOs and all</span>
+python3<span class="w"> </span>scripts/compile_observations.py<span class="w">               </span><span class="c1"># research_observation NDJSON</span>
+python3<span class="w"> </span>scripts/compile_observations.py<span class="w"> </span>--explain<span class="w"> </span>&lt;study-key&gt;/&lt;obs-id&gt;
+</code></pre></div>
+<p><code>--explain</code> is the acceptance test run as a command: <em>what exactly was done, to whom,
+compared with what, in what context, measured how, at what time, with what result and
+uncertainty, and what important information was not reported</em> — answered from the record
+alone, with no narrative prose read.</p>
+<p><strong>Migration is deliberately not a batch job.</strong> Four studies across four claims are enriched
+as fixtures; 424 other claim pages have no record and are not broken by that, because an
+absent record is a legal state and <code>check_observations</code> only validates the files that
+exist. It starts and stays <strong>green</strong>, so the property this file leans on — that a count of
+zero means the work is done rather than the check being broken — survives.</p>
+<p>The route for the rest, when the structure has proved itself:</p>
+<ol>
+<li><code>--stub &lt;claim-slug&gt;</code> fills in what is genuinely mechanical (citation, DOI, the
+   claim/anchor join, an ASCII-folded study key) and marks everything else <code>TODO</code>. The
+   validator refuses the file until the TODOs are gone, so the cheap half is automated and
+   the half that needs the article is blocked rather than guessed.</li>
+<li><strong>Rank by reuse, not by slug order.</strong> A study cited by 30 claims repays a record 30
+   times; <code>citation_worklist.py</code> already ranks by exactly that and is the right reading end.</li>
+<li><strong>Prefer the source over the page.</strong> Two of the four fixtures were built from publisher
+   full text, one from an abstract, one only from the wiki's own evidence entry — and
+   <code>provenance.extraction_method</code> says which, per file, because the three are not equally
+   good. Building a record from a paraphrase of a paraphrase is how the fabrications this
+   file catalogues got in.</li>
+<li><strong>Automated extraction is written and not switched on.</strong> <code>prompt_versions/v127.txt</code>
+   carries an <code>observation</code> block per evidence entry; <code>CURRENT</code> still points at <code>v99</code>.
+   Turning it on is a deliberate act after the fixtures have proved useful, not a
+   side effect of this change.</li>
+</ol>
+<p><strong>One fixture corrected the claim page it came from, which is the point of doing this.</strong>
+<code>claims/game-based-practice-outperforms-traditional-l2-vocabulary-instruction.md</code> renders
+Frolli et al. as finding Italian articles "disproportionately hard for this group". The
+paper reports articles as an <em>instructional accommodation</em> — the one topic that needed
+occasional Russian, because articles are absent from Russian and Ukrainian grammar — and
+measured no article-specific outcome at all. The observation file records it as an
+implementation note and a <code>candidate</code> moderator, never a reported one. Structuring a study
+is a re-read of it, and a re-read finds things.</p>
 <hr />
 <h2 id="page-identity-id-and-aliases">Page identity — <code>id:</code> and <code>aliases:</code><a class="headerlink" href="#page-identity-id-and-aliases" title="Permanent link">&para;</a></h2>
 <p>The <a href="https://github.com/Learning-Design-Alliance/learning-design-spec">learning-design-spec</a>
