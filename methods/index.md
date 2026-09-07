@@ -2,7 +2,7 @@
 
 The practices a design process is made of — analysis, elicitation, mapping and evaluation work done on the design, not in the classroom.
 
-**13 entries** · 0 stable · 10 in review · 3 drafts
+**16 entries** · 0 stable · 10 in review · 6 drafts
 
 ---
 
@@ -24,3 +24,6 @@ The practices a design process is made of — analysis, elicitation, mapping and
 * [Evidence-Centered Design](evidence-centered-design.md) - A design method for assessment that works backwards from the claim you want to make — name the competency, then the observable behaviour that would be evidence for it, then the task that elicits that behaviour.
 * [Family-Interview-Based Assessment Task Design](family-interview-based-assessment-task-design.md) - A design process for building formative assessment tasks that reveal disciplinary competence (e.g., computational thinking) embedded in a specific community's everyday practices, by interviewing families to surface funds of knowledge before designing the task.
 * [Learning Hierarchy Task Analysis](learning-hierarchy-task-analysis.md) - Task analysis identifies the prerequisite skills a target performance requires by repeatedly asking what a learner must already master, arranging the answers into a sequenced learning hierarchy from foundational to complex.
+* [Logic Model](logic-model.md) - A design method that lays out the chain from a programme's activities and outputs to the outcomes it is meant to produce, so that each link can be examined, and later tested, on its own.
+* [Stakeholder Mapping](stakeholder-mapping.md) - A design method that enumerates the parties who participate in, govern, fund, or are affected by a learning activity, gives each a stable identity, and records only the relationships that change a design decision.
+* [Theory of Change](theory-of-change.md) - A design method that reasons backward from a desired long-term outcome to the preconditions it requires, making explicit both the links the design controls and the assumptions it depends on but does not.

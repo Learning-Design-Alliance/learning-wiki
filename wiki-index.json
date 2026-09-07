@@ -3,7 +3,7 @@
   "claim": 428,
   "element": 327,
   "learner-variable": 12,
-  "method": 13,
+  "method": 16,
   "pattern": 125,
   "principle": 199,
   "process": 11,
@@ -6547,6 +6547,14 @@
    "type": "method"
   },
   {
+   "description": "A design method that lays out the chain from a programme's activities and outputs to the outcomes it is meant to produce, so that each link can be examined, and later tested, on its own.",
+   "id": "logic-model",
+   "path": "methods/logic-model.md",
+   "status": "draft",
+   "title": "Logic Model",
+   "type": "method"
+  },
+  {
    "description": "A design strategy that surfaces and names power dynamics among stakeholders, making decision-making authority explicit and redistributing it across the design process.",
    "id": "make-the-invisible-visible-power-dynamics",
    "path": "methods/make-the-invisible-visible-power-dynamics.md",
@@ -6563,6 +6571,14 @@
    "type": "method"
   },
   {
+   "description": "A design method that enumerates the parties who participate in, govern, fund, or are affected by a learning activity, gives each a stable identity, and records only the relationships that change a design decision.",
+   "id": "stakeholder-mapping",
+   "path": "methods/stakeholder-mapping.md",
+   "status": "draft",
+   "title": "Stakeholder Mapping",
+   "type": "method"
+  },
+  {
    "description": "Deriving a course's goal tree from an external framework \u2014 a standards set, competency model or certification blueprint \u2014 and carrying the framework's own codes through objectives, activities and assessment items so that coverage and provenance stay traceable in both directions.",
    "id": "standards-crosswalk",
    "path": "methods/standards-crosswalk.md",
@@ -6576,6 +6592,14 @@
    "path": "methods/task-analysis.md",
    "status": "review",
    "title": "Task Analysis",
+   "type": "method"
+  },
+  {
+   "description": "A design method that reasons backward from a desired long-term outcome to the preconditions it requires, making explicit both the links the design controls and the assumptions it depends on but does not.",
+   "id": "theory-of-change",
+   "path": "methods/theory-of-change.md",
+   "status": "draft",
+   "title": "Theory of Change",
    "type": "method"
   },
   {
@@ -31281,10 +31305,13 @@
    "learner-and-context-analysis": "learner-and-context-analysis",
    "learner-personas": "learner-personas",
    "learning-hierarchy-task-analysis": "learning-hierarchy-task-analysis",
+   "logic-model": "logic-model",
    "make-the-invisible-visible-power-dynamics": "make-the-invisible-visible-power-dynamics",
    "needs-analysis": "needs-analysis",
+   "stakeholder-mapping": "stakeholder-mapping",
    "standards-crosswalk": "standards-crosswalk",
-   "task-analysis": "task-analysis"
+   "task-analysis": "task-analysis",
+   "theory-of-change": "theory-of-change"
   },
   "pattern": {
    "4cid": "4cid-four-component-instructional-design",

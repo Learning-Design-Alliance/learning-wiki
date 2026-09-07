@@ -27,7 +27,7 @@ Concrete teaching activity recipes — specific, implementable approaches.
 ### [Design Processes](processes/index.md) (11)
 How a course gets designed — whole-process models a designer works through, rather than anything a learner meets.
 
-### [Design Methods](methods/index.md) (13)
+### [Design Methods](methods/index.md) (16)
 The practices a design process is made of — analysis, elicitation, mapping and evaluation work done on the design, not in the classroom.
 
 ### [Theories](theories/index.md) (89)
