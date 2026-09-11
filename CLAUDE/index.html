@@ -716,6 +716,17 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#the-research-layer-where-knowledge-came-from" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The research layer — where knowledge came from
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#page-identity-id-and-aliases" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1185,6 +1196,17 @@
     <span class="md-ellipsis">
       
         Research observations — the structured record beside a claim
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-research-layer-where-knowledge-came-from" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The research layer — where knowledge came from
       
     </span>
   </a>
@@ -2285,6 +2307,176 @@ measured no article-specific outcome at all. The observation file records it as 
 implementation note and a <code>candidate</code> moderator, never a reported one. Structuring a study
 is a re-read of it, and a re-read finds things.</p>
 <hr />
+<h2 id="the-research-layer-where-knowledge-came-from">The research layer — where knowledge came from<a class="headerlink" href="#the-research-layer-where-knowledge-came-from" title="Permanent link">&para;</a></h2>
+<p><code>research/</code> records <strong>what happened and how it can be interrogated</strong>; the wiki's
+kinds record <strong>what we currently believe</strong>. Full field reference in
+<code>research/SCHEMA.md</code>; rationale in <code>scripts/research_lib.py</code>.</p>
+<div class="highlight"><pre><span></span><code>Protocol ──&gt; Research Release ──&gt; Evidence ──&gt; Claim
+                                     ^
+                            Review ──┴── Issue
+</code></pre></div>
+<p><strong>There is no <code>evidence/</code> folder, and that is the main decision.</strong> <code>observations/</code>
+already <em>is</em> the evidence layer — its <code>study:</code> block is "the SOURCE", its
+observations are the individual results with their arms, comparisons, samples and
+<code>observability</code>. A second Evidence object would hold the same fields about the same
+results, which is the drift shape this repo has lost weeks to on DOIs. So a release
+<strong>names</strong> its findings (<code>evidence: [{ref: &lt;study-key&gt;/&lt;observation-id&gt;}]</code>) and each
+record names the release back (<code>study.release: {ref, version}</code>). <strong>Both halves are
+required to agree</strong>: a half-written edge reads as a working link from whichever side
+you arrive on, and only a reader who checks the other side ever finds out.</p>
+<p><strong>Three additive fields in <code>observations/</code>, and one that became required.</strong>
+<code>study.release</code> (replacing <code>citation</code> when the source is ours — a release already
+carries title, authors, version and date), <code>observations[].analysis_ref</code> (which
+declared analysis produced this result), and <code>appears_in[].bearing</code> —
+<code>supports</code> / <code>contradicts</code> / <code>qualifies</code>, <strong>required and never defaulted</strong>, because
+the direction is a property of the <em>edge</em>: one result supports one claim and
+qualifies another. The four existing records were updated; the schema stays at
+version 2, so an older file fails loudly on the missing <code>bearing</code> rather than being
+read wrongly.</p>
+<p><strong><code>appears_in[].anchor</code> is now optional, and that is the separation between the two
+layers.</strong> A record may name the proposition it bears on before anyone has written it
+into that claim's argument. Promoting evidence into a claim's <code>## Evidence</code> section
+is an editorial act and stays one — <strong>do not automate epistemic promotion.</strong> An
+anchor, when given, is still ratcheted: a rename fails lint rather than orphaning
+the record silently.</p>
+<p><strong>Immutability is structural, not a promise.</strong> A version is a <em>file</em> —
+<code>research/releases/&lt;id&gt;/&lt;version&gt;.yaml</code> — so publishing 1.1.0 writes a new file and
+cannot touch 1.0.0. Which version is current is <strong>derived</strong> (highest semver present)
+and never stated, because stating it would mean editing an older file to say it is
+no longer current. The cost is real: 1.1.0 repeats almost everything from 1.0.0,
+because a version has to stand alone to be citable on its own.</p>
+<p><strong>A protocol is a configuration file, not a checkbox — and it records governance, it
+does not constitute it.</strong> <code>external_review.status</code> is a five-value vocabulary
+(<code>approved</code> / <code>exempt</code> / <code>not-required</code> / <code>not-determined</code> / <code>pending</code>) because
+"an authority determined it exempt" and "we reasoned none applies" are different
+claims by different parties. It is deliberately not spelled yes/no: <strong>YAML 1.1 reads
+a bare <code>yes</code> as the boolean <code>True</code></strong>, which broke the first draft of the fixture.</p>
+<p><strong>Three enforcement checks are implemented, narrowly, to prove the arrow
+<code>machine-readable protocol → automated checking</code> is real:</strong> a dataset may not be
+more identifiable than its protocol permits at its access class; an analysis
+declaring <code>ai_processing: true</code> requires <code>consent.ai_processing_disclosed: true</code>
+(<code>unspecified</code> fails as well as <code>false</code> — silence is not permission); and a
+release requires <code>permitted_uses['research-publication'] == permitted</code> on its
+protocol, because a release IS a publication. All three were verified by mutating
+the fixture until they fired.</p>
+<p><strong><code>consent.permitted_uses</code> is a mapping of closed classes, not a list of
+sentences</strong>, and the first real protocol forced that on day one: platform
+telemetry collected under terms of service, with no research consent step, may
+legitimately validate a pipeline and may <strong>not</strong> be published as research. As
+prose that line is unenforceable; as classes it is a release being refused. An
+absent class means <code>unspecified</code>, so absence is safe and growing the vocabulary
+cannot invalidate a frozen protocol file. <code>secondary_research_use</code> was a separate
+flag and is now <strong>refused by name</strong> — it is
+<code>permitted_uses: {secondary-research-by-others: ...}</code> said twice.</p>
+<p><strong>Review is a structured contribution, not a comment, and never evidence.</strong>
+<code>assertion</code> and <code>rationale</code> are required and the target must resolve, so a bare
+"interesting study" or an insult with no assertion <strong>never becomes an object</strong> —
+which is what makes open review expensive to spam without gating it. No
+institution, rank or degree is required, requested, or able to gate whether a
+contribution exists. What differs between contributions is <code>author.basis</code> — <em>what
+grounds this contribution</em>, a property of the contribution and not of the person.</p>
+<p><strong>The schema refuses <code>positive</code>, <code>approved</code>, <code>helpful_votes</code>, <code>votes</code>, <code>score</code>,
+<code>reputation</code>, <code>credentials</code> and <code>bearing</code> by name</strong>, each with its reason, enforced
+rather than requested. A review carrying <code>bearing:</code> is rejected because
+supports/contradicts/qualifies already exists on the evidence→claim edge; a review
+may <em>introduce</em> evidence, it is not evidence. <code>assessment:</code> records checkable
+properties of <strong>form</strong> (specific, reasoned, evidence supplied, independently
+reproduced, duplicate-of) — form is what automation may judge, and truth is not.</p>
+<p><strong>Moderation is conduct, never correctness.</strong> <code>moderation:</code> is a list (a history
+that can be overwritten is not a record), and the reason codes are a closed set of
+conduct categories with <strong>no code meaning "wrong" or "disagrees with the authors"</strong> —
+so burying a critique on the merits requires inventing a code the schema does not
+have, and fails. <code>withheld</code> changes prominence, never existence.</p>
+<p><strong><code>Issue</code> is the sixth object, and it earns its place.</strong> Without it, eighteen people
+independently noticing one defect produce eighteen unlinked reviews: nothing can
+tell they are one problem, prominence has to be computed from volume, and the first
+person to say it is indistinguishable from the seventeenth. <code>raised_by</code> is ordered by
+first appearance and append-only. A resolved issue keeps every review that raised it
+<em>and</em> every review that disputed it; <code>resolution.decided_by</code> is required because a
+resolution is a position held by somebody, not a verdict issued by a platform.</p>
+<p><strong>A contributor's history must stay derivable and must never be stored.</strong> "Eleven
+concerns later confirmed, two not supported" is a traversal of
+<code>author.id → reviews → issues → resolution</code>. That is why <code>reputation</code> is a refused
+field.</p>
+<p><strong>The first real protocol exists, and its central statement is a refusal.</strong>
+<code>research/protocols/lazuli-platform-telemetry/1.0.0.yaml</code> records the governance
+of Lazuli platform learning telemetry as it stands: learners accepted terms of
+service, nobody asked them to consent to research use, so the data may build and
+validate the observation pipeline and may <strong>not</strong> be published as research —
+<code>permitted_uses: {research-publication: prohibited}</code>. Naming it from a release
+fails validation, verified. Every field was established by reading
+<code>learning-engine-ai-frontend</code> (<code>schema.ts</code>, <code>learning-graph/compile/runtime.py</code>,
+<code>report/gate.py</code>, <code>sdk/capture-consent.ts</code>) and every field nobody has checked
+says <code>unspecified</code> or <code>NOT ESTABLISHED</code> — retention, the storage controls, the
+jurisdiction, the deidentification key holder. <strong>Do not fill those in by
+assumption</strong>; each is a question for a person with access to the hosting
+configuration, and a guess there reads as verified. A protocol permitting
+publication is a separate future protocol needing a consent mechanism that does
+not exist, <strong>not a version bump of this one</strong>.</p>
+<p><strong>Two schema changes were forced by writing it, both the same shape as
+<code>permitted_uses</code>.</strong> <code>data.storage</code>'s three controls are now <strong>tri-state</strong> — a
+bare boolean gave an author who had not checked the hosting config only "claim
+<code>true</code>" or "claim <code>false</code>", and both assert something about an unexamined system.
+And <code>participants.age_assurance.{method, jurisdiction}</code> is now required: an
+inclusion criterion of "18+" does not say whether anyone checked, and
+<code>jurisdiction</code> rides with it because the operative consent age is set per member
+state, so a band without one decides nothing.</p>
+<p><strong>The pipeline reached the same rule independently, at row grain.</strong>
+<code>experiments/learning-graph/report/gate.py</code> in <code>learning-engine-ai-frontend</code>
+refuses publication from the compiled rows; this layer refuses a release from the
+protocol. <strong>Both are needed</strong> — a protocol can permit what the rows cannot
+support, and vice versa.</p>
+<p><strong>The two vocabulary mismatches are settled, and only one of them was a
+collision.</strong> <code>pseudonymised</code> was: one concept, two spellings, a join that breaks
+silently. <strong>This layer moved to the pipeline's spelling</strong> — ~21 occurrences in
+unmerged files here against 16 across six files there including a published JSON
+schema, eight test assertions and compiled Parquet, and GDPR's own term of art is
+"pseudonymisation" (Art 4(5)). Conceding on your own side is not the same act as
+changing the other repo by fiat. <strong>Do not rename it back.</strong></p>
+<p><strong>The two <code>source_type</code> fields were never a collision, and this file said
+otherwise for an hour.</strong> They answer different questions: the pipeline's says what
+produced a <strong>row</strong> (<code>human</code>/<code>synthetic</code>/<code>research</code>/<code>reconstructed</code>), this layer's
+says what <strong>kind of record</strong> it is
+(<code>research</code>/<code>runtime-learner-data</code>/<code>synthetic-simulation</code>/<code>llm-proposed</code>/<code>platform-experiment</code>).
+Only <code>research</code> is shared, and <code>human</code> maps to <em>either</em> <code>runtime-learner-data</code> or
+<code>platform-experiment</code> depending on whether the release assigned conditions —
+which a row cannot know, because that is a property of the investigation.
+<strong>Renaming either side would destroy information.</strong> The identifiability scales
+only partly overlap for the same reason: <code>identifiable</code> (could be) is not
+<code>identified</code> (is), and <code>anonymous</code> is not <code>deidentified</code>.</p>
+<p><strong>So the crosswalk is code.</strong> <code>python3 scripts/check_research.py --crosswalk</code>
+prints it and <strong>exits 1 the moment the other side grows a value nothing maps</strong> —
+a crosswalk in prose rots. Where the scales differ the mapping is deliberately
+conservative, resolving toward the more identifiable reading, because it feeds a
+publication ceiling and the safe error is refusing a release that could have been
+allowed; <code>None</code> means <em>the row does not determine this</em> rather than a guess.</p>
+<p><strong>One synthetic fixture, marked at every level</strong> (<code>source_type:
+synthetic-simulation</code>, <code>SYNTHETIC</code> in every title and header comment): a protocol,
+two release versions, two evidence records, five reviews, one issue —
+and <strong><code>claims/spaced-practice-improves-long-term-retention.md</code> is unchanged</strong>. The
+evidence names it with a <code>bearing</code> and no <code>anchor</code>, so the edge exists and nothing
+fabricated appears in a real claim's <code>## Evidence</code> section.</p>
+<div class="highlight"><pre><span></span><code>python3<span class="w"> </span>scripts/check_research.py<span class="w">                     </span><span class="c1"># validate; exit 1 on a problem</span>
+python3<span class="w"> </span>scripts/check_research.py<span class="w"> </span>--summary<span class="w">           </span><span class="c1"># what is in the layer</span>
+python3<span class="w"> </span>scripts/check_research.py<span class="w"> </span>--issues<span class="w">            </span><span class="c1"># issues, state and provenance</span>
+python3<span class="w"> </span>scripts/check_research.py<span class="w"> </span>--why<span class="w"> </span>&lt;claim-slug&gt;<span class="w">  </span><span class="c1"># the traversal</span>
+python3<span class="w"> </span>scripts/lint.py<span class="w"> </span>--type<span class="w"> </span>research<span class="w">               </span><span class="c1"># the same checks, in CI</span>
+</code></pre></div>
+<p><code>--why</code> is the acceptance test run as a command: <em>why does the wiki believe claim X</em>,
+answered by walking claim ← evidence ← analysis ← dataset ← release ← protocol from
+the records alone, printing what is contested at every level, and naming any record
+whose <code>source_type</code> is not <code>research</code> loudly — so a simulation, runtime telemetry or
+a model's proposal is never mistaken for a published finding.</p>
+<p><strong>These are not wiki pages</strong>, deliberately: no <code>type:</code> frontmatter, no banner, no
+entry in <code>wiki-index.json</code>, the mkdocs nav or <code>okf_lib.CONTENT_FOLDERS</code>. Unattended
+batch tools iterate the content folders and rewrite what they find, and an immutable
+versioned object must not live where a batch job rewrites things. How a release is
+<em>rendered</em> is a separate problem and out of scope.</p>
+<p><code>research/SCHEMA.md</code> ends with the questions left deliberately unresolved — whether
+<code>Analysis</code> and <code>Dataset</code> become first-class objects, where <code>deviations:</code> belongs,
+whether <code>ModerationDecision</code> earns its own file, and the review-type vocabulary.
+<strong>Do not resolve them by guessing; resolve them when there are real releases.</strong></p>
+<hr />
 <h2 id="page-identity-id-and-aliases">Page identity — <code>id:</code> and <code>aliases:</code><a class="headerlink" href="#page-identity-id-and-aliases" title="Permanent link">&para;</a></h2>
 <p>The <a href="https://github.com/Learning-Design-Alliance/learning-design-spec">learning-design-spec</a>
 pipeline resolves design documents against this wiki: a pattern plan names
@@ -2810,6 +3002,12 @@ indexes with <code>python3 scripts/build_indexes.py</code>.</p>
   theories/          ← learning theories (explanatory frameworks)
   learner-variables/ ← canonical learner characteristics (prior knowledge, self-efficacy, ...) claims link into
   claims/            ← empirical claims with evidence
+  observations/      ← structured record of what each study actually did (see above)
+  research/          ← the research layer: where knowledge came from (see above)
+    protocols/&lt;id&gt;/&lt;version&gt;.yaml   ← versioned, immutable governance configuration
+    releases/&lt;id&gt;/&lt;version&gt;.yaml    ← versioned, immutable investigations
+    reviews/&lt;review-id&gt;.yaml        ← structured contributions interrogating any of it
+    issues/&lt;issue-id&gt;.yaml          ← one problem, however many people found it
   sources/           ← bibliographic source pages (optional; most citations live inline in Key Sources / Evidence)
     manifest.ndjson    ← append-only log of every source reviewed, ingested or rejected (see Source Manifest below)
     authorities.ndjson ← append-only log of citations a HUMAN verified against the real source (see Citation Authorities below)
@@ -2827,6 +3025,9 @@ indexes with <code>python3 scripts/build_indexes.py</code>.</p>
     build_reverse_index.py ← who points at this page, as shippable data (see below)
     build_wiki_index.py ← the resolution table learning-design-spec reads (see below)
     check_evidence_markers.py ← claim citations carrying no [±~][SMW] marker (see below)
+    observation_lib.py ← the evidence layer's schema and validator (see above)
+    research_lib.py    ← the research layer's schemas, validators and joins (see above)
+    check_research.py  ← validate the research layer; --why traverses claim -&gt; protocol
     lint.py            ← health-check (see Lint above)
     verify_citation_edits.py ← after a citation tool writes: did it edit only citations? (see above)
 </code></pre></div>
