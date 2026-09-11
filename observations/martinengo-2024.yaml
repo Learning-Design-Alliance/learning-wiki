@@ -204,6 +204,7 @@ observations:
       estimate: 0.32
       ci_lower: 0.13
       ci_upper: 0.51
+      interval_type: confidence
       # k belongs HERE, not on the study: this estimate rests on 9 of the 23.
       k:
         value: 9
@@ -260,6 +261,7 @@ observations:
       estimate: 0.67
       ci_lower: 0.43
       ci_upper: 0.91
+      interval_type: confidence
       k:
         value: 3
         unit: studies
@@ -309,6 +311,7 @@ observations:
       estimate: 1.15
       ci_lower: 0.34
       ci_upper: 1.96
+      interval_type: confidence
       k:
         value: 2
         unit: studies

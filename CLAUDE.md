@@ -557,6 +557,50 @@ emits `reference_is_heterogeneous: true` beside the resolved arms. Per-study con
 counts are deliberately not recorded — the source reports them, but no use case needs that
 grain yet, and a field nobody reads goes stale.
 
+**A cluster design needed four fields and no new level, which is the strongest evidence so
+far that the abstraction holds.** `evidence_base.allocation` records the unit RANDOMISED
+where it differs from the unit analysed — 20 classes against 370 students, with every group
+contrast carrying df = 16 rather than 369, so reading `size` as the effective sample
+overstates precision by the design effect. `result.clustering` holds the ICCs and design
+effects, as a list with a required `level`, and deliberately NOT folded into
+`heterogeneity`: I² is between-*study* variation of effects, an ICC is within-study
+correlation among observations sharing a cluster, and pooling the two would be pooling
+nonsense. `result.power` records reported power with `kind` required, because a post-hoc
+0.44 is what separates "no effect" from "no detection". And `comparisons[].contrast` carries
+weights where contrasts are not pairwise — Helmert H1 sets control against the *mean of
+three arms*, which the arm lists already handled.
+
+**A network meta-analysis broke the one rule that had held through every other shape:
+`comparison_ref` was required on every observation.** A SUCRA ranks one model within a
+network and rests on no contrast, so an observation now names **exactly one** of
+`comparison_ref` or `arm_ref`. With it came `result.interval_type` (a Bayesian credible
+interval is not a confidence interval, and unlabelled bounds say nothing about which),
+`comparisons[].evidence_route` (in a network an estimate may rest on no head-to-head study
+at all), and `result.publication_bias` — an assessment RUN AND FOUND, as distinct from
+`attempted_but_precluded`, which is one that could not be run. And the schema caught itself:
+`result.k` was required on every pooled effect until an NMA put per-contrast counts in a
+figure, leaving only "invent a k" or "break the schema". `observability.pooled_k` restores
+the absent-versus-unreported distinction to the rule that had forgotten it.
+
+**A single-case design needed the SUBJECT to have a name.** In a group design the people
+are a sample and only their count matters; in a multiple baseline each participant is a
+separate replication, the findings differ by person, and "three of the four maintained" is
+unreadable without knowing which one did not — it was Serena. `evidence_base.subjects` and
+`observations[].subject_ref`, symmetric with arms, absent for every group design. With it:
+`tau_u` (single-case designs use non-overlap statistics, and its siblings are not added
+until something needs one) and `result.estimate_range` with a required `over` — Spencer &
+Kirby report a Tau-U range of 0.64–1.06 across four participants and no pooled estimate
+anywhere, so the alternatives were to invent a midpoint or drop the effect. **The phases
+are the arms**: baseline, intervention-with-icons and icons-removed are three named
+configurations and a phase change is a within-subject contrast.
+
+**All three predicted-hard shapes now encode, and arms + comparisons never moved.** Nine
+studies, 36 observations: four second-language primary studies, a meta-analysis, a
+three-arm trial, a four-arm cluster-randomised trial, a Bayesian network meta-analysis and
+a multiple-baseline single-case design. Every addition across the three sat at the level
+the thing actually varies at, which is the governing rule doing its job rather than being
+quoted at one.
+
 **Every count carries its unit, and the corpus proved that necessary before either fixture
 was written.** Its evidence entries already carry `n=18`, `n=30 studies`, `n=66 articles`,
 `n=N/A` and `n=large (aggregated)` — one field doing four jobs, so nothing can read it.
@@ -1054,6 +1098,15 @@ kinds so the spec side can do it in one edit.
 authentic problem) — two genuinely different objects that share a name. Ids are unique
 *per kind*, so each resolves in its own namespace. The strategy page was briefly
 deprecated when the process needed the `pattern` namespace; it is restored.
+
+**The criterion is function inside learning design, not the discipline a method came from.**
+Settled when `stakeholder-mapping`, `logic-model` and `theory-of-change` landed: all three were
+developed outside instructional design — in strategic management and in programme evaluation — and
+all three belong here, because a `method` is defined by the job it does in a design process, and each
+of them produces a named design artifact that a process profile requires. "Was it invented for
+instructional design" is the wrong question and would have excluded backward design's own ancestry.
+Note the asymmetry that keeps this from swallowing everything: the test is what the method *produces
+in a design*, so a general technique that produces nothing a design carries is still out.
 
 **What stayed put, and why, because these are the judgement calls:**
 

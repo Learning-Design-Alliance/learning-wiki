@@ -118,7 +118,12 @@ SCHEMA_VERSION = 2
 # box that loses the study.
 
 DESIGN_FAMILIES = {
-    "randomized-controlled-trial", "quasi-experimental", "observational",
+    "randomized-controlled-trial",
+    # Named separately because the unit randomised is not the unit analysed,
+    # and that changes what every estimate in the study means. Requires
+    # `evidence_base.allocation` — see CLUSTER_ALLOCATION below.
+    "cluster-randomized-controlled-trial",
+    "quasi-experimental", "observational",
     "longitudinal", "qualitative", "mixed-methods", "meta-analysis",
     "systematic-review", "simulation", "other",
 }
@@ -136,6 +141,11 @@ MEASURE_TYPES = {
     # ANOVA actually prints, and `other` is where a value stops being
     # comparable with anything.
     "eta_squared", "partial_eta_squared",
+    # Single-case designs use non-overlap statistics, not standardised mean
+    # differences. Tau-U is the one the first SCED fixture reports; its
+    # siblings (PND, NAP, IRD) are deliberately NOT added until a record needs
+    # one, because a vocabulary value nobody uses goes stale.
+    "tau_u",
 }
 
 # The subset that quantifies a RELATIONSHIP rather than describing a sample.
@@ -204,6 +214,33 @@ TIME_UNITS = {"minutes", "hours", "days", "weeks", "months", "years",
               "sessions", "items", "readings"}
 
 HETEROGENEITY_STATISTICS = {"I2", "tau2", "Q", "H", "other"}
+
+# Deliberately NOT folded into `heterogeneity`. Both answer "how much does this
+# vary across the units it pools over", and they are different questions: I2 is
+# between-STUDY heterogeneity of effects in a synthesis; an ICC is the
+# within-study correlation of observations sharing a cluster. Merging them
+# would be exactly the normalise-into-one-shape error this schema exists to
+# avoid, and a consumer pooling an ICC with an I2 would be pooling nonsense.
+CLUSTERING_STATISTICS = {"ICC", "design-effect", "other"}
+
+# Power is recorded where it is reported and never computed here. Rosario et
+# al. report a POST-HOC power of 0.44 for their group-by-time interaction —
+# which is a fact about that one test, not about the study, so it rides on the
+# result. `kind` is required because a-priori and post-hoc power are different
+# claims and conflating them flatters an underpowered study.
+POWER_KINDS = {"a-priori", "post-hoc", "sensitivity"}
+
+# An interval is not just two numbers. A frequentist 95% CI and a Bayesian 95%
+# credible interval are different objects with different interpretations, and
+# a prediction interval is a third thing again. Required wherever ci_lower and
+# ci_upper are given, so nothing downstream has to guess which it holds.
+INTERVAL_TYPES = {"confidence", "credible", "prediction", "other"}
+
+# In a network meta-analysis an estimate for A vs B may rest on no head-to-head
+# study at all — it is inferred through the network under the transitivity
+# assumption. That is a different kind of evidence from a measured contrast and
+# a consumer weighting rows needs to be able to tell.
+EVIDENCE_ROUTES = {"direct", "indirect", "mixed"}
 
 # What a record SAYS about a claim it is listed against. The direction is a
 # property of the (evidence, claim) EDGE, not of either end: one study's result
@@ -311,7 +348,7 @@ def validate_record(rec: dict, key: str, claim_index: dict | None = None) -> lis
     family = _validate_study(rec, key, issues)
     _validate_provenance(rec, key, issues)
     _validate_appears_in(rec, key, issues, claim_index)
-    arm_ids = _validate_evidence_base(rec, key, issues, family)
+    arm_ids, subject_ids = _validate_evidence_base(rec, key, issues, family)
     comp_ids = _validate_comparisons(rec, key, issues, arm_ids)
 
     obs = rec.get("observations")
@@ -320,7 +357,8 @@ def validate_record(rec: dict, key: str, claim_index: dict | None = None) -> lis
         obs = []
     seen: set = set()
     for i, o in enumerate(obs):
-        issues.extend(_validate_observation(o, key, i, comp_ids, seen, family))
+        issues.extend(_validate_observation(o, key, i, comp_ids, arm_ids,
+                                            subject_ids, seen, family))
     return issues
 
 
@@ -480,7 +518,7 @@ def _validate_evidence_base(rec, key, issues, family) -> set:
     where = f"{key}.evidence_base"
     if not isinstance(eb, dict):
         _err(issues, key, "evidence_base: block is required")
-        return set()
+        return set(), set()
 
     _enum(issues, where, eb.get("unit"), COUNT_UNITS, "unit", required=True)
     _count(issues, where, eb.get("size"), "size", required=True)
@@ -496,6 +534,30 @@ def _validate_evidence_base(rec, key, issues, family) -> set:
         _err(issues, where, f"design.family is {family!r} but evidence_base.unit is "
                             f"{eb.get('unit')!r} — a synthesis is counted in what it pooled; "
                             f"put the participant total in additional_sizes")
+    # THE CLUSTER CASE. `size` is what was ANALYSED; `allocation` is what was
+    # RANDOMISED. When they differ the study is clustered, every contrast is
+    # estimated at the allocation level, and reading `size` as the effective
+    # sample overstates precision — in the fixture, the group contrasts carry
+    # df = 16 (20 classes minus 4 conditions) while 370 students were measured.
+    alloc = eb.get("allocation")
+    if alloc is not None:
+        _count(issues, where, alloc, "allocation", required=True)
+        if isinstance(alloc, dict) and alloc.get("unit") == eb.get("unit"):
+            _err(issues, where, f"allocation.unit equals evidence_base.unit "
+                                f"({eb.get('unit')!r}) — allocation records the unit "
+                                f"RANDOMISED when it differs from the unit analysed; "
+                                f"omit it when they are the same")
+    if family == "cluster-randomized-controlled-trial" and alloc is None:
+        _err(issues, where, "design.family is 'cluster-randomized-controlled-trial' but "
+                            "evidence_base.allocation is absent — the unit randomised is "
+                            "what makes it a cluster design and what every contrast is "
+                            "estimated at")
+    if alloc is not None and family not in ("cluster-randomized-controlled-trial",
+                                            "quasi-experimental", "observational"):
+        _err(issues, where, f"evidence_base.allocation is present but design.family is "
+                            f"{family!r}; a differing allocation unit means the design is "
+                            f"clustered and the family should say so")
+
     for i, s in enumerate(eb.get("additional_sizes") or []):
         w = f"{where}.additional_sizes[{i}]"
         _count(issues, w, s, "additional size", required=True)
@@ -516,6 +578,26 @@ def _validate_evidence_base(rec, key, issues, family) -> set:
             continue
         _str(issues, w, v.get("dimension"), "dimension", required=True)
         _str(issues, w, v.get("distribution"), "distribution", required=True)
+
+    # NAMED INDIVIDUALS. In a group design the people are a sample and only
+    # their count matters. In a single-case design each participant is a
+    # separate replication of the whole experiment, the findings differ by
+    # person, and "three of the four maintained" is only meaningful if you can
+    # say which one did not. So the subjects belong to the evidence base — they
+    # do not vary per observation — and each observation names the one it is
+    # about. Absent for every group design, which is most of the store.
+    subject_ids: set = set()
+    for i, s in enumerate(eb.get("subjects") or []):
+        w = f"{where}.subjects[{i}]"
+        if not isinstance(s, dict):
+            _err(issues, w, "must be a mapping with id and description")
+            continue
+        sid = s.get("id")
+        _str(issues, w, sid, "id", required=True)
+        if sid in subject_ids:
+            _err(issues, w, f"duplicate subject id {sid!r}")
+        subject_ids.add(sid)
+        _str(issues, w, s.get("description"), "description", required=True)
 
     arm_ids: set = set()
     arms = eb.get("arms")
@@ -540,8 +622,12 @@ def _validate_evidence_base(rec, key, issues, family) -> set:
         _str(issues, w, arm.get("description"), "description", required=True)
         if arm.get("size") is not None:
             _count(issues, w, arm.get("size"), "size")
+        # Symmetric with evidence_base: five classes AND ~92 students per arm
+        # are two facts, and one `size` slot could only hold one of them.
+        if arm.get("allocation") is not None:
+            _count(issues, w, arm.get("allocation"), "allocation")
         _elements(arm.get("elements"), issues, w)
-    return arm_ids
+    return arm_ids, subject_ids
 
 
 def _validate_comparisons(rec, key, issues, arm_ids) -> set:
@@ -564,6 +650,26 @@ def _validate_comparisons(rec, key, issues, arm_ids) -> set:
         kind = comp.get("kind")
         _enum(issues, where, kind, COMPARISON_KINDS, "kind", required=True)
         _str(issues, where, comp.get("description"), "description", required=True)
+        # Not every contrast is pairwise. Rosario et al. use Helmert contrasts,
+        # where H1 sets control against the MEAN of three treatment arms — the
+        # arm lists already carry which arms are on which side, and this
+        # carries the weighting, copied from the source. Absent for an
+        # ordinary pairwise contrast, where the weights are implied.
+        _enum(issues, where, comp.get("evidence_route"), EVIDENCE_ROUTES, "evidence_route")
+        contrast = comp.get("contrast")
+        if contrast is not None:
+            if not isinstance(contrast, dict):
+                _err(issues, where, "contrast must be a mapping")
+            else:
+                _str(issues, where, contrast.get("method"), "contrast.method", required=True)
+                coeffs = contrast.get("coefficients")
+                if coeffs is not None and not isinstance(coeffs, dict):
+                    _err(issues, where, "contrast.coefficients must be a mapping of "
+                                        "arm id -> weight, as the source prints it")
+                for arm_id in (coeffs or {}):
+                    if arm_id not in arm_ids:
+                        _err(issues, where, f"contrast.coefficients names {arm_id!r}, "
+                                            f"which is not an arm id")
         # Arms are what make a multi-arm design representable: three arms give
         # three pairwise contrasts, and each observation says which one it is.
         #
@@ -590,7 +696,11 @@ def _validate_comparisons(rec, key, issues, arm_ids) -> set:
     # An arm nothing contrasts is dead data, and this is the invariant `role`
     # was standing in for without enforcing. A within-subject comparison may
     # name its index arm — "this configuration against its own earlier state" —
-    # which is how a single-group study's one arm gets used.
+    # which is how a single-group study's one arm gets used. An arm named by an
+    # observation's `arm_ref` counts as used too: a SUCRA is a result about
+    # that arm even though it contrasts nothing.
+    used |= {o.get("arm_ref") for o in (rec.get("observations") or [])
+             if isinstance(o, dict) and o.get("arm_ref")}
     for orphan in sorted(arm_ids - used):
         _err(issues, f"{key}.evidence_base.arms",
              f"arm {orphan!r} is named by no comparison — an arm nothing is "
@@ -598,7 +708,7 @@ def _validate_comparisons(rec, key, issues, arm_ids) -> set:
     return comp_ids
 
 
-def _validate_observation(o, key, i, comp_ids, seen, family) -> list:
+def _validate_observation(o, key, i, comp_ids, arm_ids, subject_ids, seen, family) -> list:
     issues: list = []
     where = f"{key}.observations[{i}]"
     if not isinstance(o, dict):
@@ -666,13 +776,27 @@ def _validate_observation(o, key, i, comp_ids, seen, family) -> list:
 
     issues.extend(_validate_result(o, where, family))
 
-    cref = o.get("comparison_ref")
-    if cref is None:
-        _err(issues, where, "comparison_ref is required — name a comparison, including "
-                            "the one whose kind is 'none'")
-    elif cref not in comp_ids:
+    # An observation is ABOUT either a contrast or a single arm. Nearly always
+    # a contrast — but a network meta-analysis's SUCRA is a ranking of one arm
+    # within the whole network, resting on no comparison at all, and forcing it
+    # into a synthetic "against everything else" contrast would invent a
+    # comparison the source never made. Exactly one of the two.
+    cref, aref = o.get("comparison_ref"), o.get("arm_ref")
+    if (cref is None) == (aref is None):
+        _err(issues, where, "exactly one of comparison_ref or arm_ref is required — an "
+                            "observation is about a contrast between configurations OR "
+                            "about one configuration's standing, never both and never "
+                            "neither")
+    if cref is not None and cref not in comp_ids:
         _err(issues, where, f"comparison_ref {cref!r} names no entry in this study's "
                             f"comparisons ({', '.join(sorted(comp_ids)) or 'none defined'})")
+    sref = o.get("subject_ref")
+    if sref is not None and sref not in subject_ids:
+        _err(issues, where, f"subject_ref {sref!r} is not an id in evidence_base.subjects "
+                            f"({', '.join(sorted(subject_ids)) or 'none declared'})")
+    if aref is not None and aref not in arm_ids:
+        _err(issues, where, f"arm_ref {aref!r} is not an id in evidence_base.arms "
+                            f"({', '.join(sorted(arm_ids)) or 'none'})")
 
     mods = o.get("moderators") or {}
     if not isinstance(mods, dict):
@@ -696,6 +820,9 @@ def _validate_observation(o, key, i, comp_ids, seen, family) -> list:
         obsv = {}
     for f in ("population_detail", "implementation_detail", "outcome_timing", "effect_size"):
         _enum(issues, where, obsv.get(f), OBSERVABILITY_STATES, f"observability.{f}", required=True)
+    # Optional fifth: only meaningful for a pooled estimate, so not required
+    # on the primary studies that make up most of the store.
+    _enum(issues, where, obsv.get("pooled_k"), OBSERVABILITY_STATES, "observability.pooled_k")
 
     r = o.get("result") or {}
     if (obsv.get("effect_size") == "unreported"
@@ -730,8 +857,44 @@ def _validate_result(o, where, family) -> list:
         if v is not None and not isinstance(v, (int, float)):
             _err(issues, where, f"result.{f} must be a number or absent (got {v!r}); a p-value "
                                 f"written as '<.001' belongs in p_value, which is free text")
+    # A RANGE ACROSS REPLICATIONS is not an interval around an estimate. A
+    # multiple-baseline study reporting "TauU range 0.64-1.06 across four
+    # participants" has no pooled point estimate, and the only alternatives
+    # without this field are to invent a midpoint or to drop the effect.
+    er = r.get("estimate_range")
+    if er is not None:
+        if not isinstance(er, dict):
+            _err(issues, where, "result.estimate_range must be a mapping {lower, upper, over}")
+        else:
+            for f in ("lower", "upper"):
+                if not isinstance(er.get(f), (int, float)):
+                    _err(issues, where, f"result.estimate_range.{f} must be a number")
+            # What the range is ACROSS. A range over participants and a range
+            # over outcomes are different claims.
+            _count(issues, where, er.get("over"), "result.estimate_range.over", required=True)
+        if r.get("estimate") is not None:
+            _err(issues, where, "result carries both estimate and estimate_range — a range "
+                                "across replications is what the source reported INSTEAD of "
+                                "a point estimate; do not compute one from the other")
+
     if (r.get("ci_lower") is None) != (r.get("ci_upper") is None):
         _err(issues, where, "result.ci_lower and result.ci_upper must be given together")
+    if r.get("ci_lower") is not None:
+        _enum(issues, where, r.get("interval_type"), INTERVAL_TYPES,
+              "result.interval_type", required=True)
+
+    pb = r.get("publication_bias")
+    if pb is not None:
+        if not isinstance(pb, dict):
+            _err(issues, where, "result.publication_bias must be a mapping")
+        else:
+            # A completed assessment WITH a finding, as distinct from
+            # synthesis.attempted_but_precluded, which records one that could
+            # not be run at all. Both are real states and they are not the same.
+            _str(issues, where, pb.get("method"), "result.publication_bias.method",
+                 required=True)
+            _str(issues, where, pb.get("finding"), "result.publication_bias.finding",
+                 required=True)
 
     # --- pooled-estimate fields. Each observation carries its OWN k: the
     # Martinengo knowledge estimate pools 9 studies and the surgical-skills
@@ -740,9 +903,22 @@ def _validate_result(o, where, family) -> list:
     # middle layer had to stop being one thing.
     if r.get("k") is not None:
         _count(issues, where, r.get("k"), "result.k")
-    if family in SYNTHESIS_FAMILIES and mt in EFFECT_MEASURE_TYPES and r.get("k") is None:
-        _err(issues, where, "a pooled effect from a synthesis must carry result.k — how many "
-                            "studies THIS estimate rests on, which is rarely the whole corpus")
+    # A pooled effect must SAY something about k — either the count, or an
+    # explicit `observability.pooled_k: unreported`. The rule was
+    # k-or-nothing until a network meta-analysis put its per-contrast counts
+    # in a figure rather than the text, which left only two ways to satisfy
+    # it: invent a k, or violate the schema. That is the absent-vs-unreported
+    # distinction this whole schema is built on, missing from its own rule.
+    obsv_k = (o.get("observability") or {}).get("pooled_k")
+    if family in SYNTHESIS_FAMILIES and mt in EFFECT_MEASURE_TYPES:
+        if r.get("k") is None and obsv_k != "unreported":
+            _err(issues, where, "a pooled effect from a synthesis must carry result.k — how "
+                                "many studies THIS estimate rests on, which is rarely the "
+                                "whole corpus — or observability.pooled_k: unreported when "
+                                "the source does not print it")
+        if r.get("k") is not None and obsv_k == "unreported":
+            _err(issues, where, "observability.pooled_k says 'unreported' but result.k "
+                                "carries a count")
 
     het = r.get("heterogeneity")
     if het is not None:
@@ -768,6 +944,29 @@ def _validate_result(o, where, family) -> list:
             # be the same act as converting a metric during ingestion.
             _str(issues, where, pi.get("source"), "result.prediction_interval.source",
                  required=True)
+
+    for j, c in enumerate(r.get("clustering") or []):
+        w = f"{where}.result.clustering[{j}]"
+        if not isinstance(c, dict):
+            _err(issues, w, "must be a mapping")
+            continue
+        _enum(issues, w, c.get("statistic"), CLUSTERING_STATISTICS, "statistic", required=True)
+        # `level` is required because a three-level model reports more than one
+        # ICC and an unlabelled 0.49 beside an unlabelled 0.11 is unreadable.
+        _str(issues, w, c.get("level"), "level", required=True)
+        if not isinstance(c.get("value"), (int, float)):
+            _err(issues, w, "value must be a number")
+
+    power = r.get("power")
+    if power is not None:
+        if not isinstance(power, dict):
+            _err(issues, where, "result.power must be a mapping")
+        else:
+            if not isinstance(power.get("value"), (int, float)):
+                _err(issues, where, "result.power.value must be a number")
+            _enum(issues, where, power.get("kind"), POWER_KINDS, "result.power.kind",
+                  required=True)
+            _str(issues, where, power.get("test"), "result.power.test", required=True)
 
     cert = r.get("certainty")
     if cert is not None:

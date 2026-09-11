@@ -31,6 +31,24 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 ---
 
 ## 2026-09-07* **Structure**: [methods/make-the-invisible-visible-power-dynamics](methods/make-the-invisible-visible-power-dynamics.md) — Cross-link the new sibling method
+
+---
+
+## 2026-09-07 (later still) — three predicted-hard designs, and the abstraction held
+
+* **Stress test 1 — cluster**: Rosário et al. (2019), four arms, 20 classes, 370 students. Added `evidence_base.allocation` (the unit RANDOMISED, where every contrast carries df = 16 rather than 369), `result.clustering` (ICCs and design effects, `level` required — a three-level model reports two), `result.power` (`kind` required; a post-hoc 0.44 is what separates "no effect" from "no detection"), and `comparisons[].contrast` (Helmert H1 sets control against the *mean* of three arms)
+* **Stress test 2 — network**: Guo et al. (2026), Bayesian NMA, 65 studies. Broke the one rule that had held everywhere else — `comparison_ref` was required on every observation, and a SUCRA ranks one arm within a network and contrasts nothing. An observation now names **exactly one** of `comparison_ref` or `arm_ref`. Also `result.interval_type` (a credible interval is not a confidence interval), `comparisons[].evidence_route` (an estimate may rest on no head-to-head study), and `result.publication_bias` — assessed AND FOUND, as distinct from `attempted_but_precluded`
+* **Correction**: `result.k` was required on every pooled effect until an NMA put per-contrast counts in a figure, leaving only "invent a k" or "break the schema" — the absent-vs-unreported distinction missing from one of the schema's own rules. `observability.pooled_k` restores it
+* **Stress test 3 — single-case**: Spencer & Kirby (2025), multiple baseline across four children. The subject needed a NAME: "three of the four maintained" is unreadable without knowing it was Serena who did not. `evidence_base.subjects` + `observations[].subject_ref`, plus `tau_u` and `result.estimate_range` (a Tau-U range of 0.64–1.06 across four participants, with no pooled estimate anywhere)
+* **Result**: nine studies, 36 observations. **Arms + comparisons never moved across any of the three.** Every addition sat at the level the thing actually varies at
+* **Fix**: `log.md`'s 2026-09-07 heading had been concatenated with its first bullet onto one line, so that date had two sections and the first had no heading. Split back apart
+* **Still nothing migrated.** 424 claim pages have no record and the check stays green
+
+
+## 2026-09-07
+
+* **Content**: [methods/logic-model](methods/logic-model.md) — Broaden the warrant step beyond published findings
+* **Structure**: [methods/make-the-invisible-visible-power-dynamics](methods/make-the-invisible-visible-power-dynamics.md) — Cross-link the new sibling method
 * **Structure**: [methods/backward-design](methods/backward-design.md) — Cross-link the new sibling method
 * **Ingest**: [methods/theory-of-change](methods/theory-of-change.md) — New design method page: theory-of-change
 * **Ingest**: [methods/logic-model](methods/logic-model.md) — New design method page: logic-model
