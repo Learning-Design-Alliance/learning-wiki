@@ -597,10 +597,10 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#2026-09-07-content-methodslogic-model-broaden-the-warrant-step-beyond-published-findings" class="md-nav__link">
+  <a href="#2026-09-07-later-still-three-predicted-hard-designs-and-the-abstraction-held" class="md-nav__link">
     <span class="md-ellipsis">
       
-        2026-09-07 Content*: methods/logic-model — Broaden the warrant step beyond published findings
+        2026-09-07 (later still) — three predicted-hard designs, and the abstraction held
       
     </span>
   </a>
@@ -609,6 +609,17 @@
       
         <li class="md-nav__item">
   <a href="#2026-09-07" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-07
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2026-09-07_1" class="md-nav__link">
     <span class="md-ellipsis">
       
         2026-09-07
@@ -790,10 +801,10 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#2026-09-07-content-methodslogic-model-broaden-the-warrant-step-beyond-published-findings" class="md-nav__link">
+  <a href="#2026-09-07-later-still-three-predicted-hard-designs-and-the-abstraction-held" class="md-nav__link">
     <span class="md-ellipsis">
       
-        2026-09-07 Content*: methods/logic-model — Broaden the warrant step beyond published findings
+        2026-09-07 (later still) — three predicted-hard designs, and the abstraction held
       
     </span>
   </a>
@@ -802,6 +813,17 @@
       
         <li class="md-nav__item">
   <a href="#2026-09-07" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-07
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2026-09-07_1" class="md-nav__link">
     <span class="md-ellipsis">
       
         2026-09-07
@@ -951,8 +973,19 @@
 <p>Format: <code>## [YYYY-MM-DD] &lt;operation&gt; | &lt;page or batch&gt; | &lt;notes&gt;</code></p>
 <p>Operations: <code>ingest</code> · <code>edit</code> · <code>review</code> · <code>merge</code> · <code>deprecate</code> · <code>lint</code></p>
 <hr />
-<h2 id="2026-09-07-content-methodslogic-model-broaden-the-warrant-step-beyond-published-findings">2026-09-07<em> </em><em>Content</em>*: <a href="../methods/logic-model/">methods/logic-model</a> — Broaden the warrant step beyond published findings<a class="headerlink" href="#2026-09-07-content-methodslogic-model-broaden-the-warrant-step-beyond-published-findings" title="Permanent link">&para;</a></h2>
+<h2 id="2026-09-07-later-still-three-predicted-hard-designs-and-the-abstraction-held">2026-09-07 (later still) — three predicted-hard designs, and the abstraction held<a class="headerlink" href="#2026-09-07-later-still-three-predicted-hard-designs-and-the-abstraction-held" title="Permanent link">&para;</a></h2>
 <ul>
+<li><strong>Stress test 1 — cluster</strong>: Rosário et al. (2019), four arms, 20 classes, 370 students. Added <code>evidence_base.allocation</code> (the unit RANDOMISED, where every contrast carries df = 16 rather than 369), <code>result.clustering</code> (ICCs and design effects, <code>level</code> required — a three-level model reports two), <code>result.power</code> (<code>kind</code> required; a post-hoc 0.44 is what separates "no effect" from "no detection"), and <code>comparisons[].contrast</code> (Helmert H1 sets control against the <em>mean</em> of three arms)</li>
+<li><strong>Stress test 2 — network</strong>: Guo et al. (2026), Bayesian NMA, 65 studies. Broke the one rule that had held everywhere else — <code>comparison_ref</code> was required on every observation, and a SUCRA ranks one arm within a network and contrasts nothing. An observation now names <strong>exactly one</strong> of <code>comparison_ref</code> or <code>arm_ref</code>. Also <code>result.interval_type</code> (a credible interval is not a confidence interval), <code>comparisons[].evidence_route</code> (an estimate may rest on no head-to-head study), and <code>result.publication_bias</code> — assessed AND FOUND, as distinct from <code>attempted_but_precluded</code></li>
+<li><strong>Correction</strong>: <code>result.k</code> was required on every pooled effect until an NMA put per-contrast counts in a figure, leaving only "invent a k" or "break the schema" — the absent-vs-unreported distinction missing from one of the schema's own rules. <code>observability.pooled_k</code> restores it</li>
+<li><strong>Stress test 3 — single-case</strong>: Spencer &amp; Kirby (2025), multiple baseline across four children. The subject needed a NAME: "three of the four maintained" is unreadable without knowing it was Serena who did not. <code>evidence_base.subjects</code> + <code>observations[].subject_ref</code>, plus <code>tau_u</code> and <code>result.estimate_range</code> (a Tau-U range of 0.64–1.06 across four participants, with no pooled estimate anywhere)</li>
+<li><strong>Result</strong>: nine studies, 36 observations. <strong>Arms + comparisons never moved across any of the three.</strong> Every addition sat at the level the thing actually varies at</li>
+<li><strong>Fix</strong>: <code>log.md</code>'s 2026-09-07 heading had been concatenated with its first bullet onto one line, so that date had two sections and the first had no heading. Split back apart</li>
+<li><strong>Still nothing migrated.</strong> 424 claim pages have no record and the check stays green</li>
+</ul>
+<h2 id="2026-09-07">2026-09-07<a class="headerlink" href="#2026-09-07" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong>Content</strong>: <a href="../methods/logic-model/">methods/logic-model</a> — Broaden the warrant step beyond published findings</li>
 <li><strong>Structure</strong>: <a href="../methods/make-the-invisible-visible-power-dynamics/">methods/make-the-invisible-visible-power-dynamics</a> — Cross-link the new sibling method</li>
 <li><strong>Structure</strong>: <a href="../methods/backward-design/">methods/backward-design</a> — Cross-link the new sibling method</li>
 <li><strong>Ingest</strong>: <a href="../methods/theory-of-change/">methods/theory-of-change</a> — New design method page: theory-of-change</li>
@@ -976,7 +1009,7 @@
 <li><strong>Correction</strong>: <code>outcome.role</code> is now <strong>required</strong>, with <code>other</code> + <code>role_basis: ambiguous</code> as the way to decline. A regex intended for arm roles deleted <code>outcome.role</code> from all 21 observations and <code>check_observations</code> passed, because an optional field cannot tell "nobody classified this" from "an edit ate it" — the same shape as every other silent-corruption bug this log records</li>
 <li><strong>Migration</strong>: the four v1 fixtures were converted to v2 and verified by parsing — <code>observations</code>, <code>study</code> and <code>appears_in</code> byte-identical before and after. <strong>Nothing else was migrated</strong>; 424 claim pages still have no record, which is a legal state</li>
 </ul>
-<h2 id="2026-09-07">2026-09-07<a class="headerlink" href="#2026-09-07" title="Permanent link">&para;</a></h2>
+<h2 id="2026-09-07_1">2026-09-07<a class="headerlink" href="#2026-09-07_1" title="Permanent link">&para;</a></h2>
 <ul>
 <li><strong>Schema</strong>: <code>observations/</code> — structured research observations beside the claims. One file per study, keyed by the author-year citation key, recording intervention + population + context + comparison + measurement + time → outcome, so an effect size stays a measurement of one configuration rather than becoming a weight between two concepts. Field reference in <code>observations/SCHEMA.md</code>; rationale in <code>scripts/observation_lib.py</code></li>
 <li><strong>Decision</strong>: the record is NOT in a claim's <code>sources[]</code> frontmatter. That block is <em>derived</em> — <code>sync_evidence_codes.py --apply</code> rebuilds it from the body through <code>dump_frontmatter</code>, which emits only <code>id/resource/title/author/q/i/n</code>, so anything else nested there is destroyed by a script already in the unattended batch chain; <code>check_source_entry_keys</code> also holds a closed key set there on purpose. And a study is cited by many claims, so a per-claim copy is the drift shape this repo has lost weeks to. <strong>No existing claim page was changed</strong></li>

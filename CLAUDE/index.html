@@ -2133,6 +2133,46 @@ two different controls and report one estimate, so it stays one observation; the
 emits <code>reference_is_heterogeneous: true</code> beside the resolved arms. Per-study contribution
 counts are deliberately not recorded — the source reports them, but no use case needs that
 grain yet, and a field nobody reads goes stale.</p>
+<p><strong>A cluster design needed four fields and no new level, which is the strongest evidence so
+far that the abstraction holds.</strong> <code>evidence_base.allocation</code> records the unit RANDOMISED
+where it differs from the unit analysed — 20 classes against 370 students, with every group
+contrast carrying df = 16 rather than 369, so reading <code>size</code> as the effective sample
+overstates precision by the design effect. <code>result.clustering</code> holds the ICCs and design
+effects, as a list with a required <code>level</code>, and deliberately NOT folded into
+<code>heterogeneity</code>: I² is between-<em>study</em> variation of effects, an ICC is within-study
+correlation among observations sharing a cluster, and pooling the two would be pooling
+nonsense. <code>result.power</code> records reported power with <code>kind</code> required, because a post-hoc
+0.44 is what separates "no effect" from "no detection". And <code>comparisons[].contrast</code> carries
+weights where contrasts are not pairwise — Helmert H1 sets control against the <em>mean of
+three arms</em>, which the arm lists already handled.</p>
+<p><strong>A network meta-analysis broke the one rule that had held through every other shape:
+<code>comparison_ref</code> was required on every observation.</strong> A SUCRA ranks one model within a
+network and rests on no contrast, so an observation now names <strong>exactly one</strong> of
+<code>comparison_ref</code> or <code>arm_ref</code>. With it came <code>result.interval_type</code> (a Bayesian credible
+interval is not a confidence interval, and unlabelled bounds say nothing about which),
+<code>comparisons[].evidence_route</code> (in a network an estimate may rest on no head-to-head study
+at all), and <code>result.publication_bias</code> — an assessment RUN AND FOUND, as distinct from
+<code>attempted_but_precluded</code>, which is one that could not be run. And the schema caught itself:
+<code>result.k</code> was required on every pooled effect until an NMA put per-contrast counts in a
+figure, leaving only "invent a k" or "break the schema". <code>observability.pooled_k</code> restores
+the absent-versus-unreported distinction to the rule that had forgotten it.</p>
+<p><strong>A single-case design needed the SUBJECT to have a name.</strong> In a group design the people
+are a sample and only their count matters; in a multiple baseline each participant is a
+separate replication, the findings differ by person, and "three of the four maintained" is
+unreadable without knowing which one did not — it was Serena. <code>evidence_base.subjects</code> and
+<code>observations[].subject_ref</code>, symmetric with arms, absent for every group design. With it:
+<code>tau_u</code> (single-case designs use non-overlap statistics, and its siblings are not added
+until something needs one) and <code>result.estimate_range</code> with a required <code>over</code> — Spencer &amp;
+Kirby report a Tau-U range of 0.64–1.06 across four participants and no pooled estimate
+anywhere, so the alternatives were to invent a midpoint or drop the effect. <strong>The phases
+are the arms</strong>: baseline, intervention-with-icons and icons-removed are three named
+configurations and a phase change is a within-subject contrast.</p>
+<p><strong>All three predicted-hard shapes now encode, and arms + comparisons never moved.</strong> Nine
+studies, 36 observations: four second-language primary studies, a meta-analysis, a
+three-arm trial, a four-arm cluster-randomised trial, a Bayesian network meta-analysis and
+a multiple-baseline single-case design. Every addition across the three sat at the level
+the thing actually varies at, which is the governing rule doing its job rather than being
+quoted at one.</p>
 <p><strong>Every count carries its unit, and the corpus proved that necessary before either fixture
 was written.</strong> Its evidence entries already carry <code>n=18</code>, <code>n=30 studies</code>, <code>n=66 articles</code>,
 <code>n=N/A</code> and <code>n=large (aggregated)</code> — one field doing four jobs, so nothing can read it.
