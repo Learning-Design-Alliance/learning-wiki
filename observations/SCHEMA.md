@@ -100,6 +100,131 @@ own earlier state" — which is how a single-group study's one arm gets used.
 A single-group study has one arm. An observational survey has `arms: []`. Neither
 is a special case; both are the same mechanism with fewer arms.
 
+### Cluster designs: the unit randomised is not the unit analysed
+
+Encoding a four-arm cluster-randomised trial added **four fields and no new
+level** — the arms + comparisons abstraction itself did not move.
+
+```yaml
+evidence_base:
+  unit: participants       # what was ANALYSED — 370 students
+  size: {value: 370, unit: participants}
+  allocation:              # what was RANDOMISED — 20 classes
+    value: 20
+    unit: classes
+  arms:
+    - id: srsd
+      allocation: {value: 5, unit: classes}
+```
+
+`design.family: cluster-randomized-controlled-trial` **requires**
+`evidence_base.allocation`, and an `allocation.unit` equal to `unit` is an
+error — if they are the same the design is not clustered. This matters because
+every group contrast in the fixture carries **df = 16** (twenty classes minus
+four conditions) while 370 students were measured: reading `size` as the
+effective sample overstates precision by roughly the design effect.
+
+**`result.clustering`** holds the ICCs and design effects, as a list, each with
+its `level` — a three-level model reports more than one, and an unlabelled 0.11
+beside an unlabelled 0.49 is unreadable. It is deliberately **not** folded into
+`heterogeneity`: I² is between-*study* variation of effects in a synthesis, an
+ICC is within-study correlation among observations sharing a cluster, and
+pooling the two would be pooling nonsense.
+
+**`result.power`** records power where the source reports it, never computed
+here, with `kind` (`a-priori` / `post-hoc` / `sensitivity`) required — the two
+are different claims and conflating them flatters an underpowered study. The
+fixture's growth-rate null was powered at 0.44, which is the difference between
+"no effect" and "no detection".
+
+**`comparisons[].contrast`** carries contrast weights where the contrasts are
+not pairwise. Rosário et al. use Helmert contrasts, where H1 sets control
+against the *mean of three treatment arms* — the arm lists already carried
+which arms are on which side (the same mechanism the heterogeneous comparator
+uses), and this carries the weighting as printed.
+
+### Networks: an observation may be about ONE arm
+
+A network meta-analysis broke the one rule that had held through every other
+shape: **`comparison_ref` was required on every observation.** A SUCRA is a
+ranking of one model within a whole network, resting on no contrast at all, and
+forcing it into a synthetic "against everything else" comparison would invent a
+comparison the source never made.
+
+```yaml
+observations:
+  - id: sucra-hybrid-tactical-decision-making
+    arm_ref: hybrid-models     # instead of comparison_ref — exactly one
+```
+
+**Exactly one of `comparison_ref` or `arm_ref`.** An observation is about a
+contrast between configurations *or* about one configuration's standing, never
+both and never neither. An arm named only by an `arm_ref` counts as used for the
+every-arm-must-be-named invariant.
+
+Three smaller additions came with it:
+
+- **`result.interval_type`** — required wherever `ci_lower`/`ci_upper` are given.
+  A frequentist 95% CI and a Bayesian 95% credible interval are different
+  objects, and a prediction interval is a third; unlabelled bounds say nothing
+  about which.
+- **`comparisons[].evidence_route`** — `direct` / `indirect` / `mixed`. In a
+  network an estimate for A vs B may rest on **no head-to-head study at all**,
+  inferred through the network under transitivity. That is a different kind of
+  evidence from a measured contrast.
+- **`result.publication_bias`** — `{method, p_value, finding}`, for an
+  assessment that was **run and found something**, as distinct from
+  `synthesis.attempted_but_precluded`, which records one that could not be run.
+  Guo et al. detected bias for skill execution (Egger, p = 0.0077); Martinengo
+  et al. attempted the same assessment and were precluded. Two real states.
+
+And one rule of the schema's own turned out to violate the schema's own
+principle. `result.k` was **required** on every pooled synthesis effect — until
+a network meta-analysis put its per-contrast counts in a figure rather than the
+text, leaving only two ways to comply: invent a `k`, or break the schema. Fixed
+by **`observability.pooled_k`**: a pooled effect must now say *something* about
+k, either the count or an explicit `unreported`. Absent-versus-unreported,
+applied to the rule that had forgotten it.
+
+### Single-case designs: the subject needs a name
+
+In a group design the people are a sample and only their **count** matters. In a
+multiple-baseline single-case design each participant is a separate replication
+of the whole experiment, the findings differ by person, and *"three of the four
+participants performed above baseline"* is only meaningful if you can say which
+one did not. It was Serena.
+
+```yaml
+evidence_base:
+  subjects:
+    - id: serena
+      description: "The one participant whose reading comprehension returned to baseline..."
+observations:
+  - id: reading-maintenance-serena
+    subject_ref: serena
+```
+
+`subjects` sits on the evidence base — the people do not vary per observation —
+and each observation names the one it is about, symmetric with arms. Absent for
+every group design, which is most of the store.
+
+Two more came with it:
+
+- **`tau_u`** in `measure_type`. Single-case designs use non-overlap statistics,
+  not standardised mean differences. Its siblings (PND, NAP, IRD) are
+  deliberately **not** added until a record needs one.
+- **`result.estimate_range`** — `{lower, upper, over}`. Spencer & Kirby report
+  *"TauU ES range = 0.64–1.06"* across four participants with **no pooled point
+  estimate anywhere**. A range across replications is not an interval around an
+  estimate, and without this field the only options were to invent a midpoint or
+  drop the effect. `over` is required and is a `{value, unit}` count, because a
+  range across participants and a range across outcomes are different claims.
+  Carrying both `estimate` and `estimate_range` is an error.
+
+**The phases are the arms.** Baseline, intervention-with-icons and icons-removed
+are three named configurations, and a phase change is a `within-subject-baseline`
+contrast. Arms + comparisons did not move for this shape either.
+
 ### A heterogeneous comparator stays one observation
 
 Either side of a comparison may name **more than one arm**:
@@ -277,7 +402,9 @@ comparisons:
 observations:                # required, non-empty
   - id:                      # required, unique in this file
     sample: {value, unit}    # the analysed n for THIS result
-    comparison_ref:          # required — names a comparison, including kind `none`
+    comparison_ref: | arm_ref:    # EXACTLY ONE. A contrast between
+                             # configurations, or one configuration's standing
+                             # (a network ranking contrasts nothing)
     outcome:
       construct:             # required — your normalised label
       source_language:       # required — the author's own wording, preserved
@@ -324,8 +451,8 @@ not_yet_extracted: [...]     # findings seen and not encoded. An observation wit
 
 | field | values |
 |---|---|
-| `study.design.family` | `randomized-controlled-trial` `quasi-experimental` `observational` `longitudinal` `qualitative` `mixed-methods` `meta-analysis` `systematic-review` `simulation` `other` |
-| `result.measure_type` | `cohens_d` `hedges_g` `odds_ratio` `risk_ratio` `correlation` `mean_difference` `standardized_mean_difference` `regression_coefficient` `probability` `count` `qualitative` `eta_squared` `partial_eta_squared` `other` |
+| `study.design.family` | `randomized-controlled-trial` `cluster-randomized-controlled-trial` `quasi-experimental` `observational` `longitudinal` `qualitative` `mixed-methods` `meta-analysis` `systematic-review` `simulation` `other` |
+| `result.measure_type` | `tau_u` `cohens_d` `hedges_g` `odds_ratio` `risk_ratio` `correlation` `mean_difference` `standardized_mean_difference` `regression_coefficient` `probability` `count` `qualitative` `eta_squared` `partial_eta_squared` `other` |
 | count `unit` | `participants` `studies` `reports` `classes` `schools` `sites` `effect-sizes` `comparisons` `pairs` `items` `sessions` `other` |
 | `comparisons[].kind` | `between-groups` `within-subject-baseline` `historical` `none` `other` |
 | `observability.*` | `observed` `partial` `unreported` |

@@ -1,0 +1,364 @@
+# Spencer & Kirby (2025) — narrative intervention with strategy instruction,
+# multiple baseline across four children with autism.
+#
+# THE SINGLE-CASE STRESS TEST. Three additions, and the important one is about
+# IDENTITY rather than structure:
+#
+#   1. THE SUBJECT NEEDS A NAME. In a group design the people are a sample and
+#      only their count matters. Here each participant is a separate
+#      replication of the whole experiment, the findings differ by person, and
+#      "three of the four maintained" is only meaningful if you can say WHICH
+#      one did not — it was Serena.  -> `evidence_base.subjects` and
+#      `observations[].subject_ref`, symmetric with arms.
+#   2. Tau-U is a non-overlap statistic, not a standardised mean difference.
+#      -> added to `measure_type`. Its siblings are NOT added until something
+#      needs one.
+#   3. The effect is reported as a RANGE ACROSS REPLICATIONS with no pooled
+#      point estimate. A range across four participants is not an interval
+#      around an estimate, and the only alternatives were to invent a midpoint
+#      or drop the effect.  -> `result.estimate_range`, with `over` saying what
+#      the range is across.
+#
+# Arms + comparisons held again: the phases ARE the arms, and a phase change
+# is a within-subject contrast.
+
+schema_version: 2
+
+study:
+  key: spencer-2025
+  citation: "Spencer, T. D., & Kirby, M. S. (2025). Effect of Narrative Intervention with Strategy Instruction on the Listening and Reading Comprehension of Children with Autism. Behavioral Sciences, 15(8), 1020."
+  doi: "10.3390/bs15081020"
+  design:
+    family: other
+    design_detail: >-
+      Multiple baseline across participants, single-case experimental design.
+      Four children, each entering intervention at a staggered point decided by
+      an independent analyst from the stability of the data pattern and the
+      number of sessions since the previous participant entered — so the
+      untreated time of the later participants serves as the control for the
+      earlier ones. Phases: baseline, intervention with story grammar icons
+      available, and post-probes with the icons removed. Effects quantified
+      with Tau-U alongside visual analysis.
+
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: 2026-09-07
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+evidence_base:
+  unit: participants
+  size:
+    value: 4
+    unit: participants
+  population:
+    description: >-
+      Four children with autism, aged 7 and 9, receiving the intervention
+      individually within the course of their existing behavioural therapy.
+    age_or_stage: "7 and 9 years old"
+    relevant_characteristics:
+      - "Children with autism who may need additional support to meet academic expectations for comprehension"
+      - "Intervention delivered by behavioural therapists inside existing therapy sessions, not as a separate programme"
+  context:
+    setting: "One-to-one behavioural therapy sessions"
+    delivery_mode: "Individual, therapist-delivered"
+    duration: "Staggered across participants by design; entry decided from data stability"
+  variation: []
+  # NAMED, because the findings differ by person and the study's own headline
+  # count — three of four — cannot be read without them.
+  subjects:
+    - id: queen
+      description: "Participant Queen. Showed complete maintenance of reading-retell gains at post-probe with icons removed."
+    - id: mario
+      description: "Participant Mario. Showed complete maintenance of reading-retell gains at post-probe with icons removed."
+    - id: martin
+      description: >-
+        Participant Martin. Partially maintained his reading-retell gains at
+        post-probe; his score remained substantially above his baseline levels.
+    - id: serena
+      description: >-
+        Participant Serena. The one participant whose reading comprehension
+        returned to baseline once the icons were removed from the assessment.
+  arms:
+    - id: baseline-phase
+      description: "Baseline: retell assessments before the narrative intervention began."
+      elements: []
+    - id: intervention-with-icons
+      description: >-
+        Narrative intervention with explicit strategy instruction, including
+        instruction on the use of story grammar icons, with the icons available
+        during assessment.
+      elements:
+        - term: "narrative intervention with explicit instruction on the use of story grammar icons"
+          anchors:
+            - principles/explicit-instruction
+        - term: "story grammar icons available during assessment"
+    - id: icons-removed
+      description: >-
+        Post-probe phase: the same intervention content, with the story grammar
+        icons completely removed from the assessment.
+      elements:
+        - term: "assessment without the icon strategy available"
+
+comparisons:
+  - id: intervention-vs-baseline
+    kind: within-subject-baseline
+    index_arm: intervention-with-icons
+    reference_arm: baseline-phase
+    description: >-
+      Each participant's intervention-phase retells against their own baseline
+      phase. In a multiple baseline the staggered entry means the untreated
+      time of later participants also functions as a control for the earlier
+      ones, which is the design's replication logic rather than a separate
+      contrast.
+  - id: icons-removed-vs-baseline
+    kind: within-subject-baseline
+    index_arm: icons-removed
+    reference_arm: baseline-phase
+    description: >-
+      Post-probe performance with icons removed, against the participant's own
+      baseline — the test of whether anything was retained without the strategy
+      support in place.
+
+observations:
+
+  # ---- the range across replications, with no pooled point estimate
+  - id: listening-retell-tau-u-range
+    comparison_ref: intervention-vs-baseline
+    sample:
+      value: 4
+      unit: participants
+    outcome:
+      construct: "Listening comprehension, measured by oral retell"
+      source_language: "listening retells"
+      measure: "Retell of a novel story after hearing it, scored from recorded audio"
+      scale: "Tau-U non-overlap effect size"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+      anchors:
+        - learner-variables/reading-and-language
+    time:
+      label: intervention-phase
+    result:
+      measure_type: tau_u
+      # NOT an estimate with an interval: four separate replications, four
+      # separate Tau-U values, and no pooled figure anywhere in the paper.
+      estimate_range:
+        lower: 0.64
+        upper: 1.06
+        over:
+          value: 4
+          unit: participants
+      interpretation: >-
+        All four participants improved. The authors describe the effects as
+        moderate to large and are explicit that the larger gains depended on the
+        icon strategy being available during assessment.
+    moderators:
+      reported:
+        - variable: "Availability of the story grammar icon strategy during assessment"
+          relationship: >-
+            Gains were noticeably larger when participants could use the taught
+            strategy; without the icons the gains were small.
+          source_quote: "narrative intervention led to small gains in listening and reading comprehension without the use of the icons during assessments, but when participants were allowed to use the comprehension strategy we taught them, their gains were noticeably larger."
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    observability_notes: >-
+      Per-participant Tau-U values exist in the paper's tables and are not
+      captured here; the range is what the abstract reports. `estimate_range`
+      with `over: 4 participants` says that honestly, where a midpoint would
+      have invented a pooled effect this design does not produce.
+    source_quote: "Results showed that all participants improved their listening (TauU ES range = 0.64–1.06) and reading (TauU ES range = 0.72–1.15) retells, but they required extended use of the icon strategy to achieve the most benefit."
+    source_location: "Abstract; §3 Results"
+
+  - id: reading-retell-tau-u-range
+    comparison_ref: intervention-vs-baseline
+    sample:
+      value: 4
+      unit: participants
+    outcome:
+      construct: "Reading comprehension, measured by oral retell"
+      source_language: "reading retells"
+      measure: "Retell of a novel story after decoding it, scored from recorded audio"
+      scale: "Tau-U non-overlap effect size"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+      anchors:
+        - learner-variables/reading-and-language
+    time:
+      label: intervention-phase
+    result:
+      measure_type: tau_u
+      estimate_range:
+        lower: 0.72
+        upper: 1.15
+        over:
+          value: 4
+          unit: participants
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: partial
+      effect_size: observed
+    source_quote: "all participants improved their listening (TauU ES range = 0.64–1.06) and reading (TauU ES range = 0.72–1.15) retells"
+    source_location: "Abstract; §3 Results"
+
+  # ---- the per-participant maintenance results. Four observations differing
+  # only in WHO they are about, which is why identity had to be representable.
+  - id: reading-maintenance-queen
+    comparison_ref: icons-removed-vs-baseline
+    subject_ref: queen
+    sample:
+      value: 1
+      unit: participants
+    outcome:
+      construct: "Maintenance of reading comprehension without strategy support"
+      source_language: "NLM Reading Retell post-probe data (collected without use of the icons)"
+      measure: "Reading retell at post-probe, icons removed"
+      scale: "retell score, judged against the participant's own baseline"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: post-probe
+    result:
+      measure_type: qualitative
+      finding: "Complete maintenance of treatment gains with the icons removed."
+      perspective: researcher
+      collection_method: "Visual analysis of post-probe retell scores against baseline"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "NLM Reading Retell post-probe data (collected without use of the icons) indicate complete maintenance of treatment gains for Queen and Mario."
+    source_location: "§3.2.1"
+
+  - id: reading-maintenance-mario
+    comparison_ref: icons-removed-vs-baseline
+    subject_ref: mario
+    sample:
+      value: 1
+      unit: participants
+    outcome:
+      construct: "Maintenance of reading comprehension without strategy support"
+      source_language: "NLM Reading Retell post-probe data (collected without use of the icons)"
+      measure: "Reading retell at post-probe, icons removed"
+      scale: "retell score, judged against the participant's own baseline"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: post-probe
+    result:
+      measure_type: qualitative
+      finding: "Complete maintenance of treatment gains with the icons removed."
+      perspective: researcher
+      collection_method: "Visual analysis of post-probe retell scores against baseline"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "indicate complete maintenance of treatment gains for Queen and Mario."
+    source_location: "§3.2.1"
+
+  - id: reading-maintenance-martin
+    comparison_ref: icons-removed-vs-baseline
+    subject_ref: martin
+    sample:
+      value: 1
+      unit: participants
+    outcome:
+      construct: "Maintenance of reading comprehension without strategy support"
+      source_language: "NLM Reading Retell post-probe data (collected without use of the icons)"
+      measure: "Reading retell at post-probe, icons removed"
+      scale: "retell score, judged against the participant's own baseline"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: post-probe
+    result:
+      measure_type: qualitative
+      finding: >-
+        Partial maintenance: gains were not fully retained, but the post-probe
+        score remained substantially above baseline.
+      perspective: researcher
+      collection_method: "Visual analysis of post-probe retell scores against baseline"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    source_quote: "Martin partially maintained his treatment gains at post-probe. Nonetheless, his post-probe score was substantially above his baseline levels."
+    source_location: "§3.2.1"
+
+  - id: reading-maintenance-serena
+    comparison_ref: icons-removed-vs-baseline
+    subject_ref: serena
+    sample:
+      value: 1
+      unit: participants
+    outcome:
+      construct: "Maintenance of reading comprehension without strategy support"
+      source_language: "NLM Reading Retell post-probe data (collected without use of the icons)"
+      measure: "Reading retell at post-probe, icons removed"
+      scale: "retell score, judged against the participant's own baseline"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      valued_by: []
+    time:
+      label: post-probe
+    result:
+      measure_type: qualitative
+      finding: >-
+        No maintenance: reading comprehension returned to baseline levels once
+        the icons were removed from the assessment.
+      perspective: researcher
+      collection_method: "Visual analysis of post-probe retell scores against baseline"
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: unreported
+    observability_notes: >-
+      The observation that makes identity necessary. "Three of the four
+      participants performed above baseline" is the paper's headline, and
+      without naming Serena it is a statistic nobody can act on — a design
+      question about who the strategy support has to stay available for.
+    source_quote: "Only Serena's reading comprehension performance returned to baseline levels once the icons were removed from the assessment."
+    source_location: "§3.2.1"
+
+not_yet_extracted:
+  - "Per-participant Tau-U values from the results tables, which would replace the ranges above with four observations each."
+  - "Listening-comprehension maintenance per participant; only the reading post-probes were captured here."
+  - "Session counts, baseline lengths and the staggering schedule that define the multiple-baseline logic."
+  - "Fidelity and inter-rater reliability figures for retell scoring."
