@@ -2385,12 +2385,31 @@ state, so a band without one decides nothing.</p>
 <code>experiments/learning-graph/report/gate.py</code> in <code>learning-engine-ai-frontend</code>
 refuses publication from the compiled rows; this layer refuses a release from the
 protocol. <strong>Both are needed</strong> — a protocol can permit what the rows cannot
-support, and vice versa. Their vocabularies <strong>do not agree</strong> (<code>pseudonymised</code> vs
-<code>pseudonymous</code>, <code>synthetic</code> vs <code>synthetic-simulation</code>, <code>consent_basis</code> vs
-<code>permitted_uses</code>, and the pipeline's <code>age_band</code> against this layer's
-<code>age_assurance</code>). The crosswalk and the two live collisions are tabulated in
-<code>research/SCHEMA.md</code> — <strong>recorded rather than fixed by fiat, because changing
-either side unilaterally is how one repo starts lying about the other.</strong></p>
+support, and vice versa.</p>
+<p><strong>The two vocabulary mismatches are settled, and only one of them was a
+collision.</strong> <code>pseudonymised</code> was: one concept, two spellings, a join that breaks
+silently. <strong>This layer moved to the pipeline's spelling</strong> — ~21 occurrences in
+unmerged files here against 16 across six files there including a published JSON
+schema, eight test assertions and compiled Parquet, and GDPR's own term of art is
+"pseudonymisation" (Art 4(5)). Conceding on your own side is not the same act as
+changing the other repo by fiat. <strong>Do not rename it back.</strong></p>
+<p><strong>The two <code>source_type</code> fields were never a collision, and this file said
+otherwise for an hour.</strong> They answer different questions: the pipeline's says what
+produced a <strong>row</strong> (<code>human</code>/<code>synthetic</code>/<code>research</code>/<code>reconstructed</code>), this layer's
+says what <strong>kind of record</strong> it is
+(<code>research</code>/<code>runtime-learner-data</code>/<code>synthetic-simulation</code>/<code>llm-proposed</code>/<code>platform-experiment</code>).
+Only <code>research</code> is shared, and <code>human</code> maps to <em>either</em> <code>runtime-learner-data</code> or
+<code>platform-experiment</code> depending on whether the release assigned conditions —
+which a row cannot know, because that is a property of the investigation.
+<strong>Renaming either side would destroy information.</strong> The identifiability scales
+only partly overlap for the same reason: <code>identifiable</code> (could be) is not
+<code>identified</code> (is), and <code>anonymous</code> is not <code>deidentified</code>.</p>
+<p><strong>So the crosswalk is code.</strong> <code>python3 scripts/check_research.py --crosswalk</code>
+prints it and <strong>exits 1 the moment the other side grows a value nothing maps</strong> —
+a crosswalk in prose rots. Where the scales differ the mapping is deliberately
+conservative, resolving toward the more identifiable reading, because it feeds a
+publication ceiling and the safe error is refusing a release that could have been
+allowed; <code>None</code> means <em>the row does not determine this</em> rather than a guess.</p>
 <p><strong>One synthetic fixture, marked at every level</strong> (<code>source_type:
 synthetic-simulation</code>, <code>SYNTHETIC</code> in every title and header comment): a protocol,
 two release versions, two evidence records, five reviews, one issue —
