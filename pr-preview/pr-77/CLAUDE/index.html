@@ -2358,6 +2358,39 @@ resolution is a position held by somebody, not a verdict issued by a platform.</
 concerns later confirmed, two not supported" is a traversal of
 <code>author.id → reviews → issues → resolution</code>. That is why <code>reputation</code> is a refused
 field.</p>
+<p><strong>The first real protocol exists, and its central statement is a refusal.</strong>
+<code>research/protocols/lazuli-platform-telemetry/1.0.0.yaml</code> records the governance
+of Lazuli platform learning telemetry as it stands: learners accepted terms of
+service, nobody asked them to consent to research use, so the data may build and
+validate the observation pipeline and may <strong>not</strong> be published as research —
+<code>permitted_uses: {research-publication: prohibited}</code>. Naming it from a release
+fails validation, verified. Every field was established by reading
+<code>learning-engine-ai-frontend</code> (<code>schema.ts</code>, <code>learning-graph/compile/runtime.py</code>,
+<code>report/gate.py</code>, <code>sdk/capture-consent.ts</code>) and every field nobody has checked
+says <code>unspecified</code> or <code>NOT ESTABLISHED</code> — retention, the storage controls, the
+jurisdiction, the deidentification key holder. <strong>Do not fill those in by
+assumption</strong>; each is a question for a person with access to the hosting
+configuration, and a guess there reads as verified. A protocol permitting
+publication is a separate future protocol needing a consent mechanism that does
+not exist, <strong>not a version bump of this one</strong>.</p>
+<p><strong>Two schema changes were forced by writing it, both the same shape as
+<code>permitted_uses</code>.</strong> <code>data.storage</code>'s three controls are now <strong>tri-state</strong> — a
+bare boolean gave an author who had not checked the hosting config only "claim
+<code>true</code>" or "claim <code>false</code>", and both assert something about an unexamined system.
+And <code>participants.age_assurance.{method, jurisdiction}</code> is now required: an
+inclusion criterion of "18+" does not say whether anyone checked, and
+<code>jurisdiction</code> rides with it because the operative consent age is set per member
+state, so a band without one decides nothing.</p>
+<p><strong>The pipeline reached the same rule independently, at row grain.</strong>
+<code>experiments/learning-graph/report/gate.py</code> in <code>learning-engine-ai-frontend</code>
+refuses publication from the compiled rows; this layer refuses a release from the
+protocol. <strong>Both are needed</strong> — a protocol can permit what the rows cannot
+support, and vice versa. Their vocabularies <strong>do not agree</strong> (<code>pseudonymised</code> vs
+<code>pseudonymous</code>, <code>synthetic</code> vs <code>synthetic-simulation</code>, <code>consent_basis</code> vs
+<code>permitted_uses</code>, and the pipeline's <code>age_band</code> against this layer's
+<code>age_assurance</code>). The crosswalk and the two live collisions are tabulated in
+<code>research/SCHEMA.md</code> — <strong>recorded rather than fixed by fiat, because changing
+either side unilaterally is how one repo starts lying about the other.</strong></p>
 <p><strong>One synthetic fixture, marked at every level</strong> (<code>source_type:
 synthetic-simulation</code>, <code>SYNTHETIC</code> in every title and header comment): a protocol,
 two release versions, two evidence records, five reviews, one issue —
