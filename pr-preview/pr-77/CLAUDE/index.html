@@ -2311,12 +2311,23 @@ does not constitute it.</strong> <code>external_review.status</code> is a five-v
 "an authority determined it exempt" and "we reasoned none applies" are different
 claims by different parties. It is deliberately not spelled yes/no: <strong>YAML 1.1 reads
 a bare <code>yes</code> as the boolean <code>True</code></strong>, which broke the first draft of the fixture.</p>
-<p><strong>Two enforcement checks are implemented, narrowly, to prove the arrow
+<p><strong>Three enforcement checks are implemented, narrowly, to prove the arrow
 <code>machine-readable protocol → automated checking</code> is real:</strong> a dataset may not be
-more identifiable than its protocol permits at its access class, and an analysis
+more identifiable than its protocol permits at its access class; an analysis
 declaring <code>ai_processing: true</code> requires <code>consent.ai_processing_disclosed: true</code>
-(<code>unspecified</code> fails as well as <code>false</code> — silence is not permission). Both were
-verified by mutating the fixture until they fired.</p>
+(<code>unspecified</code> fails as well as <code>false</code> — silence is not permission); and a
+release requires <code>permitted_uses['research-publication'] == permitted</code> on its
+protocol, because a release IS a publication. All three were verified by mutating
+the fixture until they fired.</p>
+<p><strong><code>consent.permitted_uses</code> is a mapping of closed classes, not a list of
+sentences</strong>, and the first real protocol forced that on day one: platform
+telemetry collected under terms of service, with no research consent step, may
+legitimately validate a pipeline and may <strong>not</strong> be published as research. As
+prose that line is unenforceable; as classes it is a release being refused. An
+absent class means <code>unspecified</code>, so absence is safe and growing the vocabulary
+cannot invalidate a frozen protocol file. <code>secondary_research_use</code> was a separate
+flag and is now <strong>refused by name</strong> — it is
+<code>permitted_uses: {secondary-research-by-others: ...}</code> said twice.</p>
 <p><strong>Review is a structured contribution, not a comment, and never evidence.</strong>
 <code>assertion</code> and <code>rationale</code> are required and the target must resolve, so a bare
 "interesting study" or an insult with no assertion <strong>never becomes an object</strong> —
