@@ -1,0 +1,81 @@
+# SYNTHETIC EXAMPLE. This one carries two properties at once, to keep the
+# fixture small, and they are separate lessons:
+#
+# 1. AN ASSERTION WITH NO EVIDENCE. It disputes the issue on authority. Nothing
+#    in the schema weights that authority, and `assessment.evidence_present:
+#    false` is visible next to the reanalysis that does carry evidence. The
+#    schema does not say who is right; it makes the difference inspectable.
+#
+# 2. A MODERATION RECORD. The submitted rationale also contained a personal
+#    attack on the first reviewer. The moderation block below limits the
+#    review's prominence and says exactly why, under which policy, decided how,
+#    and whether it was appealed — and the scientific assertion stays readable.
+#    Moderation here is about conduct: MODERATION_REASONS contains no code
+#    meaning "wrong", "unfounded" or "disagrees with the authors", so this
+#    mechanism cannot be used to bury the critique it is disputing.
+
+schema_version: 1
+
+review:
+  id: 2026-09-12-scheduling-effects-are-well-established
+  created_at: 2026-09-12
+  review_type: methodological_concern
+
+  target:
+    kind: issue
+    ref: time-on-task-not-held-constant
+
+  assertion: >-
+    The time-on-task difference is a consequence of spacing rather than a
+    confound with it, so adjusting for it would remove part of the effect being
+    measured.
+
+  rationale: >-
+    SYNTHETIC. The argument is that additional re-entry occasions are part of
+    what a distributed schedule IS, so conditioning on total time estimates a
+    quantity nobody wants. No analysis is offered in support, and the claim is
+    not accompanied by a specification of the estimand that would settle it.
+
+  author:
+    id: human:example-reviewer-four
+    basis:
+      - domain-expertise-stated
+      - read-the-release
+    # A stated eminence, stored as a string nothing reads. There is no field in
+    # which a credential can raise this contribution above the reanalysis.
+    identity_state: public_verified_identity
+    stated_affiliation: SYNTHETIC — a widely cited researcher in the area.
+    disclosure: none declared
+
+  issues:
+    - time-on-task-not-held-constant
+
+  assessment:
+    target_specific: true
+    rationale_present: true
+    # The difference that matters between this review and the reanalysis, and
+    # it is recorded as a property of the contribution rather than of anybody.
+    evidence_present: false
+    independently_reproduced: false
+    duplicate_of: null
+    assessed_by: claude/unspecified
+    assessed_at: 2026-09-12
+
+  # A list, and append-only: a moderation history that can be overwritten is
+  # not a record. `limited` reduces prominence and never deletes: the assertion
+  # above is still here, still attributed, still arguable.
+  moderation:
+    - state: limited
+      reason:
+        code: personal_attack
+        policy: SYNTHETIC-EXAMPLE-discourse-policy-3.2
+      decision:
+        mechanism: automated-then-human
+        at: 2026-09-12
+        note: >-
+          SYNTHETIC. The submitted rationale contained a personal attack on the
+          author of an earlier review; it is retained in the record and is not
+          reproduced in this example file. The methodological assertion was not
+          the reason for the action and was not altered.
+      appeal:
+        status: requested

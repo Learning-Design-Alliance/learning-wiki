@@ -1,0 +1,231 @@
+# ============================================================================
+# SYNTHETIC EXAMPLE — not a real protocol, and not governance.
+#
+# This file exists to test whether the research layer's abstraction works. No
+# research was conducted under it; no participant consented to anything; the
+# approval id below is invented and resolves to nothing. Do not copy it into a
+# real study without a real ethics process behind every field.
+#
+# What it IS for: showing what "machine-readable research governance" means
+# concretely — a durable, versioned statement of the rules under which data
+# could be collected and used, in a form a checker can read. See
+# research/SCHEMA.md, and scripts/research_lib.py for why each field is here.
+# ============================================================================
+
+schema_version: 1
+
+protocol:
+  id: example-platform-learning-telemetry
+  version: 1.0.0
+  title: >-
+    SYNTHETIC EXAMPLE — attempt-grain learning telemetry from adult learners on
+    a hosted course platform
+  effective_from: 2026-09-11
+  note: >-
+    Governs collection of interaction telemetry and assessment responses from
+    consenting adult learners on a hosted course, and their use for research
+    into instructional design. A real analogue of this file would be written
+    alongside the ethics submission it describes, not after it.
+
+participants:
+  population: >-
+    Adults (18+) self-enrolling in an openly available online course on a
+    hosted learning platform. No institutional relationship with the
+    researchers, and no course credit attached.
+  recruitment: >-
+    In-product invitation shown once at enrolment. Declining leaves the course
+    fully usable, and the invitation is not shown again.
+  inclusion:
+    - Aged 18 or over, self-attested at enrolment
+    - Enrolled in the course during the collection window
+    - Gave explicit consent to research use of their interaction data
+  exclusion:
+    - Learners enrolled through an employer or institution, whose participation
+      could be read as compelled by that relationship
+    - Learners who declined, or who withdrew consent at any point
+  # An empty list here would be a claim: somebody considered the question and
+  # identified no vulnerable group. This says the opposite — one group was
+  # identified, with what was done about it.
+  vulnerable_populations:
+    - group: >-
+        Learners who may be studying under employer or institutional pressure,
+        for whom consent is less freely given
+      safeguards:
+        - Institutionally enrolled learners are excluded from the research set
+          entirely rather than asked to consent
+        - Consent status is never visible to anyone with a relationship to the
+          learner, and never affects the course
+  # SYNTHETIC. How age was established — not what the criterion says. The
+  # jurisdiction rides with it because the operative consent age is set per
+  # member state, so a band without one decides nothing.
+  age_assurance:
+    method: self-attested
+    jurisdiction: SYNTHETIC-EXAMPLE — a single named jurisdiction would appear here
+    note: >-
+      Self-attestation at enrolment, unchecked. Recorded as `self-attested`
+      rather than as an 18+ criterion, because the criterion does not say what
+      evidence stands behind it.
+  compensation:
+    kind: none
+    detail: >-
+      No payment, discount, credit or unlock is offered for participating, so
+      that consent is not transactional.
+
+consent:
+  required: true
+  mechanism: explicit
+  # What the participant was actually SHOWN. Consent is only meaningful for
+  # what was disclosed, so the disclosure is the record — not the fact that a
+  # box was ticked.
+  information_provided:
+    - That interaction telemetry and assessment responses are collected for
+      research into how people learn
+    - Which specific data are collected, and which are never collected
+    - That the data are pseudonymous at collection and published only in
+      aggregate
+    - That automated and AI/LLM processing may be applied to open-text
+      responses, and what that processing is for
+    - That participation can be withdrawn at any time, and what happens to
+      already-collected data if it is
+    - That declining or withdrawing does not affect access to the course
+  withdrawal:
+    allowed: true
+    mechanism: >-
+      A control in the learner's account settings, effective immediately and
+      without contacting anyone.
+    # "You may withdraw" and "what happens to what you already gave us" are
+    # two different promises, and only the second one is operational.
+    effect_on_collected_data: >-
+      Collection stops immediately and the learner's rows are deleted from the
+      raw store within 30 days. Estimates already published in a release are
+      NOT recomputed: a release is an immutable record of what was analysed at
+      the time, and the release notes that withdrawals occurred.
+  # Checkable, not prose. A release naming this protocol is refused unless
+  # `research-publication` is `permitted` here — which is what makes the line
+  # between "data we may learn the pipeline on" and "data we may publish from"
+  # a guard rather than a sentence.
+  #
+  # An ABSENT class means `unspecified`: nobody established anything, and
+  # nothing may rely on it. `prohibited` is a decision, and a later batch can
+  # be refused on it.
+  permitted_uses:
+    internal-pipeline-validation: permitted
+    product-improvement: permitted
+    research-analysis: permitted
+    research-publication: permitted
+    secondary-research-by-others: permitted
+    model-training: prohibited
+  permitted_uses_note: >-
+    SYNTHETIC. Publication is permitted only in aggregate, which the
+    identifiability ceiling below enforces separately. Model training is
+    prohibited outright and was disclosed as prohibited at consent.
+  ai_processing_disclosed: true
+  ai_processing_detail: >-
+    Open-text responses may be coded by a large language model, with a
+    human-reviewed sample. Responses are not used to train any model, and are
+    not sent to a provider that retains them for training.
+
+data:
+  collected:
+    - item: Attempt events (item id, timestamp, response, correctness, latency)
+      purpose: To measure practice schedule and retention at attempt grain
+      identifiability: pseudonymised
+    - item: Assessment scores on scheduled retention checks
+      purpose: To measure the outcome the research question is about
+      identifiability: pseudonymised
+    - item: Open-text responses to reflection prompts
+      purpose: To characterise strategy use alongside the quantitative outcome
+      identifiability: pseudonymised
+    - item: Self-reported prior experience with the subject, at enrolment
+      purpose: To describe the population and to test prior knowledge as a moderator
+      identifiability: pseudonymised
+  # Not "everything else": the things that were specifically ruled out, so a
+  # later batch that starts collecting one of them can be refused on this line.
+  prohibited:
+    - Name, email address, or any direct identifier, in the research store
+    - IP address or precise geolocation
+    - Any special-category data (health, biometric, political, religious)
+    - Free-text responses to prompts that invite disclosure of the above
+  identifiability:
+    collected: pseudonymised
+    published: aggregate
+  deidentification:
+    method: >-
+      A per-study random participant key replaces the account id at ingestion;
+      the mapping is held in a separate store.
+    applied_at: ingestion
+    # Honest rather than flattering: a reversible pseudonym is not anonymity,
+    # and saying so is what makes the retention and access rules meaningful.
+    reversible: true
+    key_holder: >-
+      SYNTHETIC — the data steward named in a real protocol would appear here,
+      as the only role able to re-link a participant key.
+  retention:
+    raw: 24 months from the end of the collection window, then deleted
+    derived: >-
+      Indefinite for aggregate derivatives published in a release, which are
+      part of the permanent record; 24 months for anything at participant grain
+    basis: >-
+      The retention window is set by the consent text, not by convenience.
+  storage:
+    location: >-
+      SYNTHETIC — object storage in a single region, access-controlled to the
+      research role.
+    encryption_at_rest: true
+    encryption_in_transit: true
+    access_logging: true
+  # Who may touch each class. The three classes are what the checks are about:
+  # `published` is the promise made to the participant.
+  access:
+    raw:
+      - role:data-steward
+      - role:named-researcher
+    derived:
+      - role:data-steward
+      - role:named-researcher
+      - role:collaborating-researcher-under-agreement
+    published:
+      - public
+
+risks:
+  classification: minimal
+  identified:
+    - risk: >-
+        Re-identification of a learner from a combination of course, timing and
+        open-text content
+      mitigation: >-
+        Publication at aggregate grain only; open text is published as codes
+        rather than quotations; small cells are suppressed.
+    - risk: >-
+        A learner feeling that declining would disadvantage them in the course
+      mitigation: >-
+        The invitation is shown once, declining is a single action, and consent
+        status is not visible to anyone with a relationship to the learner.
+    - risk: >-
+        An LLM coding step misrepresenting what a learner wrote
+      mitigation: >-
+        A human-reviewed sample of every coding run, and the codebook published
+        as a release artifact so the coding can be inspected and disputed.
+
+# This layer records governance; it does not constitute it. The block exists so
+# that a release can never imply an approval it does not have.
+external_review:
+  status: approved
+  authority: >-
+    SYNTHETIC — the reviewing body would be named here, in full.
+  approval_id: EXAMPLE-0000-NOT-A-REAL-APPROVAL
+  determination: >-
+    SYNTHETIC EXAMPLE. Nothing was submitted to any body and nothing was
+    approved. A real file carries the determination text as issued.
+  reviewed_at: 2026-09-11
+
+# Appended to a frozen file, which is the one place that is allowed: a
+# deviation is a fact about the version that was in force when it happened, and
+# recording it as a new version would assert that the rules changed.
+deviations: []
+
+provenance:
+  source_type: synthetic-simulation
+  created_at: 2026-09-11
+  authored_by: claude/unspecified
+  verification: unverified

@@ -1,0 +1,259 @@
+# ============================================================================
+# SYNTHETIC EXAMPLE — version 1.1.0.
+#
+# THIS FILE DOES NOT REPLACE 1.0.0. That file is untouched and still says what
+# it said; so is the evidence record it produced. A version is a file, so
+# "never silently rewrite what an earlier release claimed" is a property of the
+# layout rather than a rule somebody has to remember, and the cost is visible
+# too: almost everything below is repeated from 1.0.0, because a version has to
+# stand alone to be citable on its own.
+#
+# What changed: the time-on-task confound raised in
+# research/issues/time-on-task-not-held-constant.yaml was confirmed. 1.1.0 adds
+# the analysis that settles it and reports the adjusted estimate ALONGSIDE the
+# original — as a new evidence record, so that the 1.0.0 estimate remains
+# attached to the release that produced it rather than being overwritten.
+# ============================================================================
+
+schema_version: 1
+
+release:
+  id: example-spaced-review-scheduling
+  version: 1.1.0
+  supersedes: 1.0.0
+  change_note: >-
+    Adds a time-on-task analysis and reports an adjusted retention estimate
+    beside the original. The 1.0.0 estimate is not withdrawn and not restated:
+    it remains the record of what was published on 2026-09-11.
+  addresses:
+    - kind: issue
+      ref: time-on-task-not-held-constant
+  title: >-
+    SYNTHETIC EXAMPLE — Spaced review scheduling versus end-of-unit review in a
+    self-paced online course
+  released_at: 2026-09-18
+  # The QUESTION, not the finding. A release that cannot say what it was asking
+  # is a paper with a conclusion attached.
+  question: >-
+    In a self-paced online course, does distributing review items across
+    sessions produce better four-week retention than presenting the same items
+    massed at the end of each unit?
+
+protocol:
+  ref: example-platform-learning-telemetry
+  version: 1.0.0
+
+research_design:
+  family: randomized-controlled-trial
+  detail: >-
+    Learners randomised 1:1 at enrolment to a spaced or massed review schedule.
+    Item pool, item count and total review time budget held constant across
+    arms; only the scheduling differed.
+  preregistration:
+    registered: false
+    note: >-
+      Not preregistered. Recorded here because the absence is a fact about the
+      evidence, and a reader who has to infer it will infer wrongly.
+
+# Identifiers, metadata and hashes. Never the data: a Parquet table of attempt
+# events does not belong in a git repository of markdown, and a summary of it
+# here would be a second version of the numbers.
+datasets:
+  - id: attempt-events
+    title: Attempt-grain interaction events for the collection window
+    grain: one learner attempt on one assessment item
+    format: parquet
+    rows: 1841260
+    size_bytes: 214958080
+    location:
+      kind: s3
+      ref: "s3://SYNTHETIC-EXAMPLE/learning-observations/attempt-events/v1/"
+    sha256: 9c90b7a58b61fd49075f73e06ae302f93428293f674632616997b57ec2beb184
+    identifiability: pseudonymised
+    access: derived
+    note: >-
+      The grain is the attempt, matching the canonical learning-observation
+      pipeline: design configuration, learner exposure, learner action, outcome.
+
+  - id: retention-scores
+    title: Four-week retention check scores, aggregated by arm and item family
+    grain: one arm x item-family cell
+    format: csv
+    rows: 96
+    size_bytes: 8140
+    location:
+      kind: url
+      ref: "https://SYNTHETIC-EXAMPLE.invalid/releases/spaced-review/retention-scores-v1.csv"
+    sha256: e60248bfd9d332e1ab30a35c7c91cf35210aec897f78575727ed3c020160b63c
+    identifiability: aggregate
+    access: published
+    derived_from:
+      - attempt-events
+
+  - id: retention-scores-adjusted
+    title: >-
+      Four-week retention scores with realised time on task, aggregated by arm
+      — added in 1.1.0
+    grain: one arm x item-family cell
+    format: csv
+    rows: 96
+    size_bytes: 9320
+    location:
+      kind: url
+      ref: "https://SYNTHETIC-EXAMPLE.invalid/releases/spaced-review/retention-scores-adjusted-v1.csv"
+    sha256: 7f9f91796c38545564743734723d521da4b5d94f2356046dc92fbe37aa16d779
+    identifiability: aggregate
+    access: published
+    derived_from:
+      - attempt-events
+
+  - id: reflection-codes
+    title: Codes applied to open-text reflection responses
+    grain: one response x code
+    format: ndjson
+    rows: 3112
+    size_bytes: 412000
+    location:
+      kind: s3
+      ref: "s3://SYNTHETIC-EXAMPLE/learning-observations/reflection-codes/v1/"
+    sha256: 0c31c4059b289cf3ecc7c4721fa1331ec379858f4ec7ac9431a1518b87aac632
+    identifiability: pseudonymised
+    access: derived
+    derived_from:
+      - attempt-events
+
+analyses:
+  - id: retention-model
+    title: Between-arm comparison of four-week retention
+    code:
+      repo: "https://SYNTHETIC-EXAMPLE.invalid/lda/spaced-review-analysis"
+      # A commit, never a branch or a tag: a branch moves, and then the
+      # reference names an analysis nobody ran.
+      commit: deadbeefdeadbeefdeadbeefdeadbeefdeadbeef   # SYNTHETIC
+      path: analysis/retention_model.py
+    environment:
+      kind: container
+      detail: python:3.12-slim, numpy 2.1.0, statsmodels 0.14.4
+      lockfile: analysis/requirements.lock
+    inputs:
+      - attempt-events
+    outputs:
+      - retention-scores
+    ai_processing: false
+
+  - id: reflection-coding
+    title: LLM-assisted coding of open-text reflections, with human-reviewed sample
+    code:
+      repo: "https://SYNTHETIC-EXAMPLE.invalid/lda/spaced-review-analysis"
+      commit: deadbeefdeadbeefdeadbeefdeadbeefdeadbeef   # SYNTHETIC
+      path: analysis/code_reflections.py
+    environment:
+      kind: container
+      detail: python:3.12-slim, coding model called through a hosted API
+      lockfile: analysis/requirements.lock
+    inputs:
+      - attempt-events
+    outputs:
+      - reflection-codes
+    # Read against the protocol's consent block: an analysis that declares AI
+    # processing under a protocol whose consent did not disclose it fails
+    # validation. Here the protocol discloses it, so this passes.
+    ai_processing: true
+
+  - id: time-on-task-model
+    title: >-
+      Retention contrast adjusted for realised time on task — added in 1.1.0 in
+      response to an issue raised against 1.0.0
+    code:
+      repo: "https://SYNTHETIC-EXAMPLE.invalid/lda/spaced-review-analysis"
+      commit: feedfacefeedfacefeedfacefeedfacefeedface   # SYNTHETIC
+      path: analysis/time_on_task_model.py
+    environment:
+      kind: container
+      detail: python:3.12-slim, numpy 2.1.0, statsmodels 0.14.4
+      lockfile: analysis/requirements.lock
+    inputs:
+      - attempt-events
+    outputs:
+      - retention-scores-adjusted
+    ai_processing: false
+
+# The findings are NOT restated here. They are records in observations/, which
+# is already the evidence layer, and each names this release back.
+evidence:
+  # Produced by 1.0.0 and still listed: this version does not disown the
+  # earlier estimate, it adds one beside it. The record itself still names
+  # release 1.0.0, because that is the version that produced it.
+  - ref: example-spaced-review-2026/retention-four-week
+    note: The unadjusted estimate, as published in 1.0.0.
+  - ref: example-spaced-review-2026/completion
+    note: >-
+      The null the headline needs beside it — scheduling did not change whether
+      people finished.
+  - ref: example-spaced-review-2026-adjusted/retention-four-week-adjusted
+    note: >-
+      Added in 1.1.0: the same contrast with realised time on task in the model.
+
+artifacts:
+  - id: practitioner-brief
+    kind: practitioner-brief
+    title: SYNTHETIC EXAMPLE — What spacing did and did not change
+    location:
+      kind: url
+      ref: "https://SYNTHETIC-EXAMPLE.invalid/releases/spaced-review/brief"
+  - id: analysis-notebook
+    kind: notebook
+    title: SYNTHETIC EXAMPLE — retention model, as run
+    location:
+      kind: git
+      ref: "https://SYNTHETIC-EXAMPLE.invalid/lda/spaced-review-analysis/blob/deadbee/notebooks/retention.ipynb"
+
+interpretation: >-
+  Distributing the same review items across sessions produced a small advantage
+  on a four-week retention check, with no detectable difference in whether
+  learners finished the course. Version 1.0.0 read that as an effect of
+  scheduling; it is not, or not only. Learners in the spaced arm also spent
+  about 18 per cent more time on task, because more occasions carry more
+  re-entry, and with that in the model the advantage falls to d = 0.12 with an
+  interval spanning zero. Both estimates are reported: the unadjusted one
+  answers "what happens if you offer this schedule", which is the question a
+  course designer asks, and the adjusted one answers "what does distribution
+  itself do", which is the question the spacing literature asks. They are
+  different questions and 1.0.0 conflated them.
+
+limitations:
+  - >-
+    Self-paced learners chose their own session boundaries, so the realised
+    spacing interval is not the assigned one and is measured, not controlled.
+  - >-
+    Time on task is adjusted for post hoc, in a model chosen after seeing the
+    problem. That is weaker than a design that held it constant, and this
+    release does not claim otherwise.
+  - >-
+    A four-week horizon says nothing about retention at six months, which is
+    the horizon most course decisions actually care about.
+  - >-
+    Learners who consented to research use are not a random sample of learners.
+  - >-
+    A single course in a single subject; nothing here establishes that the
+    scheduling effect transfers to a different item type.
+
+funding: >-
+  SYNTHETIC EXAMPLE — no funding, because no research was conducted.
+
+conflicts: >-
+  SYNTHETIC EXAMPLE — a real release would record here that the platform
+  hosting the course and the group publishing the finding are the same
+  organisation, which is a conflict and is declared rather than mitigated away.
+
+provenance:
+  authors:
+    - id: claude/unspecified
+      role: constructed the example
+  # The field a consumer reads to know this is not evidence. A real release of
+  # this shape would be `platform-experiment`.
+  source_type: synthetic-simulation
+  created_at: 2026-09-18
+  software_versions:
+    pipeline: SYNTHETIC-EXAMPLE
+  verification: unverified

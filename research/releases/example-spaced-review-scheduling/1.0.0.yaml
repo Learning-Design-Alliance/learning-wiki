@@ -1,0 +1,206 @@
+# ============================================================================
+# SYNTHETIC EXAMPLE — no such study was run and every number below is invented.
+#
+# This is the fixture that tests the research layer end to end:
+#
+#   protocol  example-platform-learning-telemetry@1.0.0
+#       v
+#   release   THIS FILE
+#       v
+#   evidence  observations/example-spaced-review-2026.yaml
+#       v
+#   claim     claims/spaced-practice-improves-long-term-retention.md
+#       ^
+#   review    research/reviews/2026-09-11-spacing-confounded-with-total-time.yaml
+#             research/reviews/2026-09-11-effect-untested-outside-self-paced.yaml
+#
+# `provenance.source_type: synthetic-simulation` is what a consumer reads to
+# know this is not evidence of anything. A real platform experiment would
+# carry `platform-experiment` and would be usable.
+# ============================================================================
+
+schema_version: 1
+
+release:
+  id: example-spaced-review-scheduling
+  version: 1.0.0
+  title: >-
+    SYNTHETIC EXAMPLE — Spaced review scheduling versus end-of-unit review in a
+    self-paced online course
+  released_at: 2026-09-11
+  # The QUESTION, not the finding. A release that cannot say what it was asking
+  # is a paper with a conclusion attached.
+  question: >-
+    In a self-paced online course, does distributing review items across
+    sessions produce better four-week retention than presenting the same items
+    massed at the end of each unit?
+
+protocol:
+  ref: example-platform-learning-telemetry
+  version: 1.0.0
+
+research_design:
+  family: randomized-controlled-trial
+  detail: >-
+    Learners randomised 1:1 at enrolment to a spaced or massed review schedule.
+    Item pool, item count and total review time budget held constant across
+    arms; only the scheduling differed.
+  preregistration:
+    registered: false
+    note: >-
+      Not preregistered. Recorded here because the absence is a fact about the
+      evidence, and a reader who has to infer it will infer wrongly.
+
+# Identifiers, metadata and hashes. Never the data: a Parquet table of attempt
+# events does not belong in a git repository of markdown, and a summary of it
+# here would be a second version of the numbers.
+datasets:
+  - id: attempt-events
+    title: Attempt-grain interaction events for the collection window
+    grain: one learner attempt on one assessment item
+    format: parquet
+    rows: 1841260
+    size_bytes: 214958080
+    location:
+      kind: s3
+      ref: "s3://SYNTHETIC-EXAMPLE/learning-observations/attempt-events/v1/"
+    sha256: 9c90b7a58b61fd49075f73e06ae302f93428293f674632616997b57ec2beb184
+    identifiability: pseudonymised
+    access: derived
+    note: >-
+      The grain is the attempt, matching the canonical learning-observation
+      pipeline: design configuration, learner exposure, learner action, outcome.
+
+  - id: retention-scores
+    title: Four-week retention check scores, aggregated by arm and item family
+    grain: one arm x item-family cell
+    format: csv
+    rows: 96
+    size_bytes: 8140
+    location:
+      kind: url
+      ref: "https://SYNTHETIC-EXAMPLE.invalid/releases/spaced-review/retention-scores-v1.csv"
+    sha256: e60248bfd9d332e1ab30a35c7c91cf35210aec897f78575727ed3c020160b63c
+    identifiability: aggregate
+    access: published
+    derived_from:
+      - attempt-events
+
+  - id: reflection-codes
+    title: Codes applied to open-text reflection responses
+    grain: one response x code
+    format: ndjson
+    rows: 3112
+    size_bytes: 412000
+    location:
+      kind: s3
+      ref: "s3://SYNTHETIC-EXAMPLE/learning-observations/reflection-codes/v1/"
+    sha256: 0c31c4059b289cf3ecc7c4721fa1331ec379858f4ec7ac9431a1518b87aac632
+    identifiability: pseudonymised
+    access: derived
+    derived_from:
+      - attempt-events
+
+analyses:
+  - id: retention-model
+    title: Between-arm comparison of four-week retention
+    code:
+      repo: "https://SYNTHETIC-EXAMPLE.invalid/lda/spaced-review-analysis"
+      # A commit, never a branch or a tag: a branch moves, and then the
+      # reference names an analysis nobody ran.
+      commit: deadbeefdeadbeefdeadbeefdeadbeefdeadbeef   # SYNTHETIC
+      path: analysis/retention_model.py
+    environment:
+      kind: container
+      detail: python:3.12-slim, numpy 2.1.0, statsmodels 0.14.4
+      lockfile: analysis/requirements.lock
+    inputs:
+      - attempt-events
+    outputs:
+      - retention-scores
+    ai_processing: false
+
+  - id: reflection-coding
+    title: LLM-assisted coding of open-text reflections, with human-reviewed sample
+    code:
+      repo: "https://SYNTHETIC-EXAMPLE.invalid/lda/spaced-review-analysis"
+      commit: deadbeefdeadbeefdeadbeefdeadbeefdeadbeef   # SYNTHETIC
+      path: analysis/code_reflections.py
+    environment:
+      kind: container
+      detail: python:3.12-slim, coding model called through a hosted API
+      lockfile: analysis/requirements.lock
+    inputs:
+      - attempt-events
+    outputs:
+      - reflection-codes
+    # Read against the protocol's consent block: an analysis that declares AI
+    # processing under a protocol whose consent did not disclose it fails
+    # validation. Here the protocol discloses it, so this passes.
+    ai_processing: true
+
+# The findings are NOT restated here. They are records in observations/, which
+# is already the evidence layer, and each names this release back.
+evidence:
+  - ref: example-spaced-review-2026/retention-four-week
+    note: The headline between-arm comparison.
+  - ref: example-spaced-review-2026/completion
+    note: >-
+      The null the headline needs beside it — scheduling did not change whether
+      people finished.
+
+artifacts:
+  - id: practitioner-brief
+    kind: practitioner-brief
+    title: SYNTHETIC EXAMPLE — What spacing did and did not change
+    location:
+      kind: url
+      ref: "https://SYNTHETIC-EXAMPLE.invalid/releases/spaced-review/brief"
+  - id: analysis-notebook
+    kind: notebook
+    title: SYNTHETIC EXAMPLE — retention model, as run
+    location:
+      kind: git
+      ref: "https://SYNTHETIC-EXAMPLE.invalid/lda/spaced-review-analysis/blob/deadbee/notebooks/retention.ipynb"
+
+interpretation: >-
+  Distributing the same review items across sessions produced a small
+  advantage on a four-week retention check, with no detectable difference in
+  whether learners finished the course. The effect is smaller than the
+  laboratory spacing literature would suggest, which is what a self-paced
+  setting with learner-chosen session boundaries should be expected to produce:
+  the manipulation sets the schedule of what is OFFERED, and the learner sets
+  the schedule of what is DONE.
+
+limitations:
+  - >-
+    Self-paced learners chose their own session boundaries, so the realised
+    spacing interval is not the assigned one and is measured, not controlled.
+  - >-
+    A four-week horizon says nothing about retention at six months, which is
+    the horizon most course decisions actually care about.
+  - >-
+    Learners who consented to research use are not a random sample of learners.
+  - >-
+    A single course in a single subject; nothing here establishes that the
+    scheduling effect transfers to a different item type.
+
+funding: >-
+  SYNTHETIC EXAMPLE — no funding, because no research was conducted.
+
+conflicts: >-
+  SYNTHETIC EXAMPLE — a real release would record here that the platform
+  hosting the course and the group publishing the finding are the same
+  organisation, which is a conflict and is declared rather than mitigated away.
+
+provenance:
+  authors:
+    - id: claude/unspecified
+      role: constructed the example
+  # The field a consumer reads to know this is not evidence. A real release of
+  # this shape would be `platform-experiment`.
+  source_type: synthetic-simulation
+  created_at: 2026-09-11
+  software_versions:
+    pipeline: SYNTHETIC-EXAMPLE
+  verification: unverified

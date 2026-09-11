@@ -101,6 +101,18 @@ def compile_all(directory: Path | None = None) -> tuple[list, list]:
                     "study_key": key,
                     "citation": study.get("citation"),
                     "doi": study.get("doi"),
+                    # Present when the source is a research release of ours
+                    # rather than somebody's paper: {ref, version}, pinned to
+                    # the version that produced this result and never moved to
+                    # a later one. With `analysis_ref` below it closes the
+                    # chain to the code and the data, so a consumer can reach
+                    # the analysis without joining through prose.
+                    "release": study.get("release"),
+                    "analysis_ref": o.get("analysis_ref"),
+                    # Each entry carries the claim AND the direction of the
+                    # edge — supports / contradicts / qualifies — so a consumer
+                    # weighing evidence for a proposition never has to infer a
+                    # direction that the record already states.
                     "wiki_anchors": rec.get("appears_in") or [],
                 },
 
@@ -186,7 +198,18 @@ def explain(records: list, observation_id: str) -> int:
         print(f"\n{label}\n  {text or '—'}")
 
     print(f"=== {rec['observation_id']} ===")
-    print(f"    {rec['provenance'].get('citation')}")
+    # A release of ours carries no hand-written citation — the release IS the
+    # source, and copying its title and authors into the record would be the
+    # second copy this schema exists to avoid. Name it instead.
+    prov = rec["provenance"]
+    release = prov.get("release")
+    if prov.get("citation"):
+        print(f"    {prov['citation']}")
+    elif isinstance(release, dict):
+        print(f"    research release {release.get('ref')}@{release.get('version')}"
+              f"{'  analysis: ' + prov['analysis_ref'] if prov.get('analysis_ref') else ''}")
+    else:
+        print("    source not recorded")
     idx_arms = cfg["comparison"].get("index_arms") or []
     block("WHAT WAS DONE", "" if idx_arms else "(no index arm — see the comparison below)")
     for idx in idx_arms:

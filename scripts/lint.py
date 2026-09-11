@@ -738,6 +738,40 @@ def check_observations(pages: dict[str, Path]) -> list[dict]:
             for issue in ol.validate_all()]
 
 
+def check_research(pages: dict[str, Path]) -> list[dict]:
+    """The research layer parses, validates, and still joins up.
+
+    `research/protocols|releases|reviews|issues` record where knowledge came
+    from: the governance a study was run under, the versioned release that
+    produced it, and the structured contributions that interrogate either. See
+    scripts/research_lib.py for why they sit beside the wiki's pages rather
+    than among them.
+
+    Here for the same two reasons check_observations is. It starts and stays
+    GREEN — an empty layer is valid — so the "a count of zero means the work is
+    done" property survives. And it ratchets every JOIN in the layer: a release
+    whose protocol was deleted, a review pointing at a version that never
+    existed, an evidence ref written from one side only, or a dataset published
+    more identifiably than its protocol permits all fail here rather than
+    sitting in the record looking like links."""
+    root = WIKI_ROOT / "research"
+    files = sorted(root.rglob("*.yaml")) if root.is_dir() else []
+    if not files:
+        return []
+    sys.path.insert(0, str(Path(__file__).parent))
+    try:
+        import research_lib as rl
+    except ModuleNotFoundError as e:
+        # Loud, not silent — the same call check_observations makes. A layer
+        # with files in it and no parser is a check that reports OK because it
+        # never looked.
+        return [{"type": "research_unreadable", "file": "research/",
+                 "detail": f"{len(files)} research file(s) present but they cannot be "
+                           f"read ({e}). Install PyYAML: pip install -r requirements-docs.txt"}]
+    return [{"type": "research_schema", "file": "research/", "detail": issue}
+            for issue in rl.validate_all()]
+
+
 CHECKS = {
     "broken_links":  check_broken_links,
     "dead_anchors":  check_dead_anchors,
@@ -755,6 +789,7 @@ CHECKS = {
     "identity":      check_page_identity,
     "nav_coverage":  check_nav_coverage,
     "observations":  check_observations,
+    "research":      check_research,
 }
 
 

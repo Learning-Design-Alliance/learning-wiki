@@ -242,6 +242,15 @@ INTERVAL_TYPES = {"confidence", "credible", "prediction", "other"}
 # a consumer weighting rows needs to be able to tell.
 EVIDENCE_ROUTES = {"direct", "indirect", "mixed"}
 
+# What a record SAYS about a claim it is listed against. The direction is a
+# property of the (evidence, claim) EDGE, not of either end: one study's result
+# supports one claim and qualifies another, and the same claim is supported by
+# one record and contradicted by the next. That is why it sits here rather than
+# on the claim page — and why it is required, not defaulted. A record silently
+# read as `supports` because nobody said otherwise is the shape of error this
+# repo has spent weeks on elsewhere.
+BEARINGS = {"supports", "contradicts", "qualifies"}
+
 KEY_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 
 
@@ -363,7 +372,33 @@ def _validate_study(rec, key, issues) -> str | None:
         _err(issues, where, f"key is {study.get('key')!r} but the filename says {key!r}")
     if study.get("key") and not KEY_RE.match(str(study["key"])):
         _err(issues, where, "key must be lowercase-hyphenated ASCII (the author-year citation key)")
-    _str(issues, where, study.get("citation"), "citation", required=True)
+    # `release:` names a research release in this repo's research layer, for a
+    # study THIS project produced rather than one it read. A release already
+    # carries title, authors, version and date, so requiring a hand-written
+    # `citation` beside it would be a second copy of facts that live one file
+    # away — the drift shape this repo has lost weeks to on DOIs. So exactly
+    # one of the two is required, and neither may be absent: a record whose
+    # source cannot be named is not evidence of anything.
+    #
+    # The ref is shape-checked here and RESOLVED in research_lib, which also
+    # checks that the release names this record back. Resolving it here would
+    # make the evidence layer import the research layer, and research_lib
+    # already imports this module for its vocabularies.
+    release = study.get("release")
+    if release is not None:
+        if not isinstance(release, dict):
+            _err(issues, where, "release must be a mapping {ref, version}")
+            release = {}
+        else:
+            _str(issues, f"{where}.release", release.get("ref"), "ref", required=True)
+            _str(issues, f"{where}.release", release.get("version"), "version", required=True)
+    if release is None:
+        _str(issues, where, study.get("citation"), "citation", required=True)
+    else:
+        # A citation may still be written out beside a release, and is then
+        # just a string; compile_observations falls back to the release when
+        # it is absent.
+        _str(issues, where, study.get("citation"), "citation")
     # doi: absent means not established; explicit null means a human
     # established none is registered. Both legal; a non-string non-null is not.
     if "doi" in study and study["doi"] is not None and not isinstance(study["doi"], str):
@@ -457,7 +492,16 @@ def _validate_appears_in(rec, key, issues, claim_index):
             continue
         slug, anchor = ref.get("claim"), ref.get("anchor")
         _str(issues, where, slug, "claim", required=True)
-        _str(issues, where, anchor, "anchor", required=True)
+        # The direction of the edge, required. See BEARINGS above.
+        _enum(issues, where, ref.get("bearing"), BEARINGS, "bearing", required=True)
+        # The anchor is OPTIONAL, and that is the separation between the two
+        # layers rather than a relaxation. A record may name the proposition it
+        # bears on before anybody has written it into that claim's argument —
+        # which is the normal state for new evidence, and the state this repo
+        # wants, because promoting evidence into a claim's `## Evidence` is an
+        # editorial act and must stay one. When an anchor IS given it is still
+        # ratcheted: a rename fails here instead of silently orphaning.
+        _str(issues, where, anchor, "anchor")
         if claim_index is not None and slug:
             anchors = claim_index.get(slug)
             if anchors is None:
@@ -676,6 +720,13 @@ def _validate_observation(o, key, i, comp_ids, arm_ids, subject_ids, seen, famil
         if oid in seen:
             _err(issues, where, "duplicate observation id within this study")
         seen.add(oid)
+
+    # Which declared analysis produced this result. Only meaningful when the
+    # study is a release of ours: it closes the chain claim <- evidence <-
+    # analysis <- dataset <- release <- protocol, so "why does the wiki believe
+    # this" reaches the code and the data rather than stopping at a citation.
+    # Resolved in research_lib against the release's `analyses:` ids.
+    _str(issues, where, o.get("analysis_ref"), "analysis_ref")
 
     # The analysed sample for THIS result, which is routinely not the study's.
     # Jeon & Lee's comprehension ANOVA is F(2,59) on 62 of the 67 randomised.

@@ -1,0 +1,325 @@
+# ============================================================================
+# THE FIRST REAL PROTOCOL. Not synthetic, and not a research protocol.
+#
+# This records the governance of Lazuli platform learning telemetry AS IT
+# STANDS on 2026-09-11. Its central statement is a REFUSAL:
+#
+#     permitted_uses:
+#       research-publication: prohibited
+#
+# Learners on the platform have accepted terms of service. Nobody has asked
+# them to consent to research use of their learning data, so that data may be
+# used to build and validate the observation pipeline and may NOT be published
+# as research. Naming this protocol from a research release fails validation —
+# which is the point of writing it down rather than remembering it.
+#
+# A protocol permitting publication is a SEPARATE, FUTURE protocol that needs a
+# consent mechanism that does not exist yet. It is not a version bump of this
+# one: this file is a true record of the current arrangement and stays true.
+#
+# PROVENANCE OF EVERY FIELD BELOW. Established by reading, at
+# learning-engine-ai-frontend@97f69ad (development) and the learning-graph
+# branch @3c34649:
+#   services/lazuli-app/src/lib/schema.ts        goal_evidence, sdk_submissions,
+#                                                sdk_attachments table definitions
+#   experiments/learning-graph/compile/runtime.py  RawAttempt + the production
+#                                                  GOAL_EVIDENCE_QUERY
+#   experiments/learning-graph/report/gate.py      the row-level publication gate
+#   studio-runtime/sdk/capture-consent.ts          the only consent surface shipped
+#
+# WHERE A FIELD SAYS `unspecified` OR "NOT ESTABLISHED", NOBODY HAS CHECKED.
+# Those are not omissions to tidy up — they are the honest state, and each one
+# is a question for a person with access to the hosting configuration. Filling
+# one in by assumption would make this file worse than absent, because it reads
+# as verified.
+# ============================================================================
+
+schema_version: 1
+
+protocol:
+  id: lazuli-platform-telemetry
+  version: 1.0.0
+  title: >-
+    Lazuli platform learning telemetry — collection under terms of service,
+    for pipeline development and product improvement only
+  effective_from: 2026-09-11
+  note: >-
+    Governs the attempt-grain learning telemetry the Lazuli platform records
+    for learners on hosted courses. Written to state, checkably, that this data
+    is not publishable as research — not to authorise research on it.
+
+participants:
+  population: >-
+    Learners on hosted Lazuli courses. The platform does not segment them, and
+    all four routes are in scope and currently indistinguishable in the data:
+    public self-enrolled learners, learners enrolled by an institution or
+    employer, learners on client-commissioned courses where the client holds
+    the relationship, and internal Lazuli/LDA pilot users.
+  recruitment: >-
+    None. No one is recruited: these are people using a product. Enrolment is
+    whatever route the course was distributed through, and the telemetry is a
+    by-product of use rather than of participation in a study.
+  inclusion:
+    - Any learner whose attempts are recorded against a hosted course
+  exclusion:
+    - >-
+      NOT ESTABLISHED. No exclusion is applied today, and no field distinguishes
+      the four enrolment routes, so institution-enrolled and internal-pilot rows
+      cannot currently be separated from public ones. That is a gap, recorded
+      here rather than in a ticket, because it constrains what any future
+      consented protocol can carve out.
+  # Institution- and employer-enrolled learners are a vulnerable group in the
+  # specific sense that matters here — their participation may be required by a
+  # relationship they cannot decline — and the platform currently cannot tell
+  # them apart from anybody else.
+  vulnerable_populations:
+    - group: >-
+        Learners enrolled by an institution or employer, for whom use of the
+        course may be compelled by that relationship
+      safeguards:
+        - >-
+          NOT ESTABLISHED as a technical safeguard: the data carries no
+          enrolment-route field, so these rows cannot be identified or excluded.
+        - >-
+          The operative safeguard today is this protocol's own refusal: no rows
+          from this source may be published as research at all, so the question
+          of freely-given research consent does not arise while that holds.
+    - group: >-
+        Learners who may be minors. Age is not established (see age_assurance),
+        so the possibility cannot be excluded.
+      safeguards:
+        - >-
+          NOT ESTABLISHED. No age gate, no parental-consent route, no
+          minor-specific handling.
+        - >-
+          Again, the refusal is the safeguard: nothing here is publishable, and
+          the downstream row-level gate independently blocks an unknown age band.
+  age_assurance:
+    # The honest value. `goal_evidence` carries no age column, nothing asks, and
+    # `RawAttempt.age_band` defaults to "unknown" — which the pipeline's own
+    # publication gate treats as blocking, on the reasoning that the most
+    # protective reading (a child) has to govern until age is known.
+    method: not-established
+    jurisdiction: >-
+      NOT ESTABLISHED. No jurisdiction is recorded per learner. This matters
+      independently of the band: the operative consent age is set per member
+      state (13-16 across the EU under GDPR Art 8, 13 under COPPA), so an age
+      band without a jurisdiction decides nothing.
+    note: >-
+      This is the single largest governance gap in the current arrangement, and
+      it is a hard blocker on any consented research protocol rather than a
+      nice-to-have. It is likely answerable from enrolment data today rather
+      than by policy.
+  compensation:
+    kind: none
+    detail: >-
+      Nothing is offered for the telemetry, because nothing is asked: it is
+      recorded as a by-product of using the product.
+
+consent:
+  # True as stated: learners accepted terms of service. That is a consent to
+  # use the product, and the field says `required: false` for RESEARCH consent
+  # because none is sought — not because none would be needed to publish.
+  # `permitted_uses` below is where that consequence is made checkable.
+  required: false
+  mechanism: not-applicable
+  permitted_uses:
+    internal-pipeline-validation: permitted
+    product-improvement: permitted
+    # Analysis for research purposes is NOT settled. It is not obviously
+    # prohibited — inspecting one's own product data is ordinary — but nobody
+    # has established the basis, and `unspecified` is what that state is called.
+    research-analysis: unspecified
+    # THE REFUSAL THIS FILE EXISTS FOR.
+    research-publication: prohibited
+    secondary-research-by-others: prohibited
+    model-training: unspecified
+  permitted_uses_note: >-
+    A product privacy policy is a basis for operating the product. It is not a
+    basis for publishing generalisable findings about the people in it, and an
+    ethics review at analysis time cannot cure a collection that was never
+    consented for research. `secondary-research-by-others` is `prohibited`
+    rather than `unspecified` because sharing outside the collecting team is a
+    strictly larger step than analysing internally, and nothing supports it.
+    `model-training` is `unspecified` and should be settled deliberately: it is
+    the use most likely to happen by default without anyone deciding.
+  # No research consent exists, so there is nothing to record as disclosed.
+  # The ONE consent surface shipped in the product is a screen/camera capture
+  # notice (studio-runtime/sdk/capture-consent.ts) shown before getDisplayMedia
+  # or getUserMedia. It is a per-tab sessionStorage acknowledgement, not
+  # persisted server-side and not attached to any row, so it establishes no
+  # basis for anything recorded here. Noted so nobody later mistakes it for one.
+  ai_processing_disclosed: unspecified
+  ai_processing_detail: >-
+    NOT ESTABLISHED whether the terms of service disclose model processing of
+    learner work. It plainly occurs: `sdk_submissions.grade_result` stores the
+    verbatim output of AI grading over `submission_text`. Because this is
+    `unspecified` rather than `true`, any release declaring an analysis with
+    `ai_processing: true` under this protocol fails validation — correctly,
+    since silence is not permission.
+
+data:
+  # Read off the table definitions rather than described. Every item below is a
+  # real column.
+  collected:
+    - item: >-
+        goal_evidence: learner_id, course_id, goal_id, outcome, score, weight,
+        lesson_id, activity_id, attempt, kind, activity_title, created_at
+      purpose: >-
+        Recording what a learner attempted and how it resolved, to drive their
+        own progress display and the course's adaptive scheduling
+      identifiability: pseudonymised
+    - item: >-
+        goal_evidence, added by migration 0099: release_id, episode_id,
+        selection_reason, latency_ms
+      purpose: >-
+        Making an attempt resolvable against the immutable course release, and
+        the design specification inside it, that was in force when it happened
+      identifiability: pseudonymised
+    - item: "sdk_submissions: submission_text — the learner's typed free text"
+      purpose: Grading open responses, and showing the learner their own history
+      identifiability: pseudonymised
+    - item: "sdk_submissions: grade_result — the verbatim AI grading output"
+      purpose: Returning and retaining the grade the learner was given
+      identifiability: pseudonymised
+    - item: >-
+        sdk_attachments: name, mime, kind (document | image | audio | video),
+        bytes, sha256, and the stored object itself
+      purpose: Letting a learner submit work that is not typed text
+      # NOT pseudonymous in the same sense as a score: an uploaded image or
+      # audio file can contain a face or a voice, and nothing constrains what a
+      # learner uploads. Recorded at the highest applicable level rather than
+      # the average one.
+      identifiability: identified
+  prohibited:
+    - >-
+      NOT ESTABLISHED — nothing is currently ruled out by policy, and this is
+      the field whose emptiness matters most. `submission_text` and attachments
+      accept whatever a learner types or uploads, including direct identifiers
+      and special-category content, with no filter and no notice discouraging
+      it. An empty `prohibited` list is a true statement about today and an
+      unacceptable one to leave standing.
+  identifiability:
+    # `learner_id` is a bare `text` column with NO foreign key to any user
+    # table, so nothing inside this schema joins a row to a person: the
+    # linkability lives in whatever the host passes in. Pseudonymous, not
+    # anonymous — the id is opaque but STABLE, which remains personal data
+    # under GDPR Recital 26, and a trajectory of thousands of timestamped
+    # attempts is quasi-identifying on its own even without it.
+    collected: pseudonymised
+    # Nothing is published from this source. Recorded as the ceiling that would
+    # apply if anything ever were, and the access rules below enforce it.
+    published: aggregate
+  deidentification:
+    method: >-
+      None applied at ingestion. `learner_id` arrives already opaque from the
+      caller; the platform neither generates nor further transforms it.
+    applied_at: not-applicable
+    # Honest rather than flattering, and the answer that makes the retention and
+    # access rules mean something: whoever can map the caller's learner ids can
+    # re-identify every row.
+    reversible: true
+    key_holder: >-
+      NOT ESTABLISHED. Whoever operates the host that mints `learner_id` holds
+      the mapping. That is not necessarily Lazuli, and for client-commissioned
+      courses it is probably the client.
+  retention:
+    raw: >-
+      NOT ESTABLISHED. No retention window is expressed in the schema, and none
+      was found in the code read for this protocol. In practice rows persist
+      until the course is deleted — `goal_evidence.course_id` cascades on course
+      deletion, which is a deletion trigger rather than a retention policy.
+    derived: >-
+      NOT ESTABLISHED. The learning-graph pipeline writes Parquet and DuckDB
+      artifacts outside the database with no stated lifetime.
+    basis: >-
+      NOT ESTABLISHED. There is no retention decision to record yet, which is
+      itself the finding.
+  storage:
+    location: >-
+      NOT ESTABLISHED in detail. PostgreSQL for the tables above; attachments in
+      a managed object store. The region, the provider and the backup
+      arrangement were not established from the code read for this protocol.
+    # `unspecified` on all three, deliberately. These are very likely enabled by
+    # the managed host, and "very likely" is not a record. Writing `true` would
+    # assert a configuration nobody checked; writing `false` would be a finding
+    # that is probably wrong. This is the state the schema was changed to be
+    # able to express.
+    encryption_at_rest: unspecified
+    encryption_in_transit: unspecified
+    access_logging: unspecified
+  access:
+    raw:
+      - role:platform-engineering
+      - >-
+        NOT ESTABLISHED — no access-control matrix for the research use of these
+        tables exists; this names who can reach them in practice, not who is
+        authorised to.
+    derived:
+      - role:platform-engineering
+      - role:learning-graph-pipeline
+    published:
+      # Enforced, not aspirational: `research-publication: prohibited` means no
+      # release may name this protocol, so there is no published artifact for
+      # anyone to be granted access to.
+      - nobody
+
+risks:
+  classification: not-determined
+  identified:
+    - risk: >-
+        Re-identification of a learner from a stable pseudonymous id plus a long
+        trajectory of timestamped attempts, or directly from free text or an
+        uploaded image or audio file
+      mitigation: >-
+        Partial. Nothing is published, which removes the external vector. There
+        is no internal mitigation: no minimisation, no free-text filtering, no
+        constraint on attachment content.
+    - risk: >-
+        Minors' data being collected and processed with no age gate, no parental
+        consent route and no jurisdiction recorded
+      mitigation: >-
+        NOT MITIGATED. Recorded as an open risk. The publication refusal limits
+        the consequences but does not address the collection.
+    - risk: >-
+        Learner free text and uploads being processed by a model without a
+        confirmed disclosure that it happens
+      mitigation: >-
+        Partial. `ai_processing_disclosed: unspecified` causes any release
+        declaring AI processing under this protocol to fail validation, so the
+        gap blocks publication rather than being carried into it silently.
+    - risk: >-
+        This data being used for research publication by a future batch or
+        session that does not know the history
+      # The one risk that IS fully mitigated, by construction rather than by
+      # memory — which is the whole argument for writing a protocol as
+      # configuration instead of as prose.
+      mitigation: >-
+        Mitigated structurally. `permitted_uses['research-publication']` is
+        `prohibited`, and `scripts/research_lib.py` refuses any research release
+        that names this protocol. The refusal survives every future session,
+        because it is a check rather than a note.
+
+external_review:
+  # Not `not-required`: that would be a claim by us that none applies, and no
+  # such reasoning has been done. Nobody has established the question either
+  # way, which is what `not-determined` says.
+  status: not-determined
+  determination: >-
+    No external review has been sought, and whether any is required has not been
+    assessed. For the uses this protocol permits — building the pipeline and
+    improving the product — a human-subjects review is probably not the relevant
+    instrument, but a data-protection assessment may well be, and neither has
+    been done. Any future protocol that permits research publication must settle
+    this before it can be written, not after.
+
+deviations: []
+
+provenance:
+  source_type: runtime-learner-data
+  created_at: 2026-09-11
+  authored_by: claude/unspecified
+  # An agent must never certify its own work. Every `unspecified` and every
+  # "NOT ESTABLISHED" above is a question for a person, and this protocol is
+  # unverified until one answers them.
+  verification: unverified

@@ -33,6 +33,7 @@ provenance:
 
 appears_in:
   - claim: l2-fluency-gains-persist-weeks-without-practice
+    bearing: supports
     anchor: zingaretti-et-al-2026
 
 evidence_base:
