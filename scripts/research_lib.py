@@ -148,6 +148,18 @@ ACCESS_CEILING = {"raw": "collected", "derived": "collected",
 CONSENT_MECHANISMS = {"explicit", "broad", "opt-out", "waived",
                       "not-applicable", "unspecified"}
 
+# How age was ESTABLISHED. An inclusion criterion of "18+" is not evidence of
+# age; these say what kind of evidence there is, and `not-established` is a
+# legal value that a downstream gate must treat as blocking rather than as a
+# blank. Ordered strongest first.
+AGE_ASSURANCE_METHODS = {
+    "verified-document",       # an identity document was checked
+    "verified-third-party",    # an external assurance provider attested it
+    "self-attested",           # the learner ticked a box; nothing checked it
+    "inferred",                # derived from enrolment route or similar
+    "not-established",         # nobody knows, and the protocol says so
+}
+
 # WHAT THE DATA MAY BE USED FOR — a closed vocabulary, because the first real
 # protocol immediately needed a use it could refuse.
 #
@@ -546,6 +558,27 @@ def _validate_participants(block, key, issues):
             _str(issues, w, v.get("group"), "group", required=True)
             _list_of_str(issues, w, v.get("safeguards"), "safeguards", required=True)
 
+    # HOW AGE WAS ESTABLISHED, not just what the criterion says. "18+" as an
+    # inclusion criterion means nothing if it is self-attested and unchecked,
+    # and the criterion alone cannot say which it is.
+    #
+    # `jurisdiction` is required alongside it, because a band without one
+    # decides nothing: the operative consent age is set per member state
+    # (13-16 across the EU under GDPR Art 8, 13 under COPPA). That reasoning is
+    # taken from the row-level publication gate in the learning-engine
+    # pipeline, which refuses a human row with an age band and no jurisdiction
+    # — the two layers have to agree or the protocol permits what the gate
+    # blocks.
+    age = block.get("age_assurance")
+    if not isinstance(age, dict):
+        _err(issues, where, "age_assurance: {method, jurisdiction} is required — an age "
+                            "criterion does not say how age was established, and "
+                            "`not-established` is an answer while silence is not")
+    else:
+        aw = f"{where}.age_assurance"
+        _enum(issues, aw, age.get("method"), AGE_ASSURANCE_METHODS, "method", required=True)
+        _str(issues, aw, age.get("jurisdiction"), "jurisdiction", required=True)
+
     comp = block.get("compensation")
     if not isinstance(comp, dict):
         _err(issues, where, "compensation is required — `{kind: none}` is a value and "
@@ -671,8 +704,15 @@ def _validate_data(block, key, issues):
     else:
         sw = f"{where}.storage"
         _str(issues, sw, store.get("location"), "location", required=True)
+        # TRI-STATE, and the first real protocol forced it. These were bare
+        # booleans, so a protocol written by somebody who had not confirmed the
+        # hosting configuration had two options: claim `true`, or claim `false`.
+        # Both are assertions about a system nobody had checked, and `false` is
+        # the more damaging one to invent — it is a finding, not a blank.
+        # `unspecified` is what "nobody established this" looks like, and it is
+        # the same distinction this whole layer is built on.
         for f in ("encryption_at_rest", "encryption_in_transit", "access_logging"):
-            _bool(issues, sw, store.get(f), f, required=True)
+            _bool(issues, sw, store.get(f), f, required=True, allow_tristate=True)
 
     access = block.get("access")
     if not isinstance(access, dict):

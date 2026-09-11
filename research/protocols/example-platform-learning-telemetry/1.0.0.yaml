@@ -55,6 +55,16 @@ participants:
           entirely rather than asked to consent
         - Consent status is never visible to anyone with a relationship to the
           learner, and never affects the course
+  # SYNTHETIC. How age was established — not what the criterion says. The
+  # jurisdiction rides with it because the operative consent age is set per
+  # member state, so a band without one decides nothing.
+  age_assurance:
+    method: self-attested
+    jurisdiction: SYNTHETIC-EXAMPLE — a single named jurisdiction would appear here
+    note: >-
+      Self-attestation at enrolment, unchecked. Recorded as `self-attested`
+      rather than as an 18+ criterion, because the criterion does not say what
+      evidence stands behind it.
   compensation:
     kind: none
     detail: >-

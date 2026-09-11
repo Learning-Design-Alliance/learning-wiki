@@ -790,6 +790,42 @@ concerns later confirmed, two not supported" is a traversal of
 `author.id → reviews → issues → resolution`. That is why `reputation` is a refused
 field.
 
+**The first real protocol exists, and its central statement is a refusal.**
+`research/protocols/lazuli-platform-telemetry/1.0.0.yaml` records the governance
+of Lazuli platform learning telemetry as it stands: learners accepted terms of
+service, nobody asked them to consent to research use, so the data may build and
+validate the observation pipeline and may **not** be published as research —
+`permitted_uses: {research-publication: prohibited}`. Naming it from a release
+fails validation, verified. Every field was established by reading
+`learning-engine-ai-frontend` (`schema.ts`, `learning-graph/compile/runtime.py`,
+`report/gate.py`, `sdk/capture-consent.ts`) and every field nobody has checked
+says `unspecified` or `NOT ESTABLISHED` — retention, the storage controls, the
+jurisdiction, the deidentification key holder. **Do not fill those in by
+assumption**; each is a question for a person with access to the hosting
+configuration, and a guess there reads as verified. A protocol permitting
+publication is a separate future protocol needing a consent mechanism that does
+not exist, **not a version bump of this one**.
+
+**Two schema changes were forced by writing it, both the same shape as
+`permitted_uses`.** `data.storage`'s three controls are now **tri-state** — a
+bare boolean gave an author who had not checked the hosting config only "claim
+`true`" or "claim `false`", and both assert something about an unexamined system.
+And `participants.age_assurance.{method, jurisdiction}` is now required: an
+inclusion criterion of "18+" does not say whether anyone checked, and
+`jurisdiction` rides with it because the operative consent age is set per member
+state, so a band without one decides nothing.
+
+**The pipeline reached the same rule independently, at row grain.**
+`experiments/learning-graph/report/gate.py` in `learning-engine-ai-frontend`
+refuses publication from the compiled rows; this layer refuses a release from the
+protocol. **Both are needed** — a protocol can permit what the rows cannot
+support, and vice versa. Their vocabularies **do not agree** (`pseudonymised` vs
+`pseudonymous`, `synthetic` vs `synthetic-simulation`, `consent_basis` vs
+`permitted_uses`, and the pipeline's `age_band` against this layer's
+`age_assurance`). The crosswalk and the two live collisions are tabulated in
+`research/SCHEMA.md` — **recorded rather than fixed by fiat, because changing
+either side unilaterally is how one repo starts lying about the other.**
+
 **One synthetic fixture, marked at every level** (`source_type:
 synthetic-simulation`, `SYNTHETIC` in every title and header comment): a protocol,
 two release versions, two evidence records, five reviews, one issue —

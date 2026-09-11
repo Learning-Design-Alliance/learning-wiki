@@ -136,6 +136,12 @@ participants:
   exclusion: [...]       # required
   vulnerable_populations:          # required; [] is a CLAIM, absence is not
     - {group, safeguards: [...]}
+  age_assurance:                   # required — HOW age was established, not what the
+    method:                        # criterion says. verified-document | verified-third-party
+                                   # | self-attested | inferred | not-established
+    jurisdiction:                  # REQUIRED with it: the operative consent age is set per
+                                   # member state, so a band without one decides nothing.
+                                   # Reasoning adopted from the pipeline's row-level gate.
   compensation: {kind, detail}     # required; `{kind: none}` is an answer
 
 consent:
@@ -171,7 +177,11 @@ data:
   deidentification:                # required when collected is identified/pseudonymous
     {method, applied_at, reversible, key_holder}
   retention: {raw, derived, basis} # raw and derived required
-  storage: {location, encryption_at_rest, encryption_in_transit, access_logging}
+  storage:                         # the three controls are TRI-STATE: true | false |
+    location:                      # unspecified. The first real protocol forced that — a
+    encryption_at_rest:            # bare boolean gave an author who had not checked the
+    encryption_in_transit:         # hosting config only "claim true" or "claim false", and
+    access_logging:                # both assert something about an unexamined system.
   access:                          # required, keyed by access class
     raw: [...]
     derived: [...]
@@ -319,6 +329,51 @@ All three were tested against the fixture by mutation — publishing a pseudonym
 dataset, running an AI analysis under a protocol that did not disclose it, and
 publishing from data whose protocol does not permit publication — each producing
 exactly one error naming the field that governs it.
+
+---
+
+## Reconciling with the row-level gate in learning-engine-ai-frontend
+
+The Lazuli learning-observation pipeline (`experiments/learning-graph/` in
+`learning-engine-ai-frontend`) independently arrived at the same rule this layer
+enforces, at a different grain. `report/gate.py` reads the compiled rows and
+refuses publication; the check here reads the protocol and refuses a release.
+
+**They are not redundant, and both are needed.** A protocol can permit
+publication while the actual rows carry no recorded basis; the rows can all be
+clean while the protocol never authorised publishing. Two gates at two grains
+catch two different failures.
+
+Its reasoning on `product_terms` is worth quoting, because it is the same
+conclusion reached independently in another repo:
+
+> a product privacy policy is a basis for operating the product, not for
+> publishing findings about its users as research; an ethics review at analysis
+> time cannot cure it
+
+**The vocabularies do not currently agree, and each mismatch would break the
+join silently.** Recorded here rather than fixed by fiat, because changing either
+side unilaterally is how one repo starts lying about the other:
+
+| concept | pipeline (per row) | this layer (per protocol) | status |
+|---|---|---|---|
+| identifiability | `pseudonymised` | `pseudonymous` | **collision** — same meaning, different word. One has to win. |
+| consent basis | `consent_basis`: `product_terms`, `research_consent`, `parental_consent`, `school_dpa`, `legitimate_interest`, `synthetic_no_subject`, `not_recorded` | `consent.mechanism` + `permitted_uses` | **no crosswalk yet.** `product_terms` implies `research-publication: prohibited`; `not_recorded` implies `unspecified`. The rest are unmapped. |
+| age | `age_band` plus a required `jurisdiction` | `participants.age_assurance.{method, jurisdiction}` | **adopted from the pipeline** — its reasoning that a band without a jurisdiction decides nothing is why `jurisdiction` is required here. |
+| synthetic data | `source_type: synthetic` / `consent_basis: synthetic_no_subject` | `provenance.source_type: synthetic-simulation` | **collision** on the value spelling. |
+
+Two further things the pipeline holds that this layer does not, deliberately:
+
+- **Per-row governance.** `RawAttempt` carries `identifiability`, `consent_basis`,
+  `age_band` and `jurisdiction` on *every row*, because a dataset can mix bases
+  and a protocol-level statement cannot express that. A protocol states the
+  rules; the rows state what was actually captured under them. Neither replaces
+  the other, and a release drawing on mixed rows needs both checks to pass.
+- **Publication *kind*.** The gate retitles rather than blocks a fully synthetic
+  dataset — it cannot carry findings about learners because there are no learners
+  in it, but it can be an honest instrument report. This layer has no equivalent
+  and does not need one yet: `provenance.source_type` on the evidence already
+  tells a consumer what it is holding.
 
 ---
 
