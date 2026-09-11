@@ -126,10 +126,21 @@ SHA256_RE = re.compile(r"^[a-f0-9]{64}$")
 # ------------------------------------------------------------- vocabularies
 
 # ORDERED, most identifiable first. The order is the whole point: it is what
-# lets `check_release_against_protocol` say that publishing a pseudonymous
-# dataset under a protocol that promised deidentified publication is a
-# violation, without anybody writing that rule out per release.
-IDENTIFIABILITY = ["identified", "pseudonymous", "deidentified", "aggregate",
+# lets `check_release_against_protocol` say that publishing a pseudonymised
+# dataset under a protocol that promised aggregate publication is a violation,
+# without anybody writing that rule out per release.
+#
+# `pseudonymised`, not `pseudonymous`, and that spelling was SETTLED rather than
+# chosen. The Lazuli pipeline's row-level vocabulary
+# (learning-engine-ai-frontend, experiments/learning-graph) already said
+# `pseudonymised`, and two spellings of one concept across two repos is a join
+# that breaks silently. This side moved because it is the cheaper and more
+# correct side to move: ~21 occurrences in unmerged files here against 16 across
+# six files there including a published JSON schema, eight test assertions and
+# compiled Parquet — and because GDPR's own term of art is "pseudonymisation"
+# (Art 4(5)), so the participle is the closer word. Conceding is not the same as
+# fixing the other repo by fiat.
+IDENTIFIABILITY = ["identified", "pseudonymised", "deidentified", "aggregate",
                    "not-applicable"]
 
 # Three classes, because the interesting rules are about the boundary between
@@ -331,6 +342,122 @@ CONTRIBUTION_BASES = {
     "domain-expertise-stated", "methodological-expertise-stated",
     "automated-check", "other",
 }
+
+# ------------------------------------------------- the pipeline crosswalk
+#
+# THE OTHER SIDE'S VOCABULARY, recorded so that drift is detectable.
+#
+# `experiments/learning-graph` in learning-engine-ai-frontend carries governance
+# on EVERY ROW (`RawAttempt.identifiability` / `.source_type` / `.consent_basis`
+# / `.age_band`) and gates publication from the rows in `report/gate.py`. This
+# layer gates it from the protocol. Both are needed — a protocol can permit what
+# the rows cannot support, and the rows can be clean under a protocol that never
+# authorised publishing — so the two vocabularies have to be relatable.
+#
+# Recorded here rather than in prose because a crosswalk in a document rots, and
+# `check_research.py --crosswalk` fails when a pipeline value has no mapping.
+PIPELINE_IDENTIFIABILITY = ["synthetic", "anonymous", "aggregate",
+                            "pseudonymised", "identifiable"]
+PIPELINE_SOURCE_TYPES = ["human", "synthetic", "research", "reconstructed"]
+
+# Where the two scales differ, the mapping is deliberately CONSERVATIVE — it
+# resolves toward the more identifiable reading, because this value feeds a
+# publication ceiling and the safe error is refusing a release that could have
+# been allowed.
+IDENTIFIABILITY_FROM_PIPELINE = {
+    # No data subject at all, so the question does not apply.
+    "synthetic": "not-applicable",
+    # Mapped DOWN to `deidentified`, not across to some stronger word. The
+    # pipeline's own schema says "anonymised" is a term of art this dataset does
+    # not meet by default, so reading its `anonymous` as true anonymity would
+    # assert exactly what it disclaims.
+    "anonymous": "deidentified",
+    "aggregate": "aggregate",
+    "pseudonymised": "pseudonymised",
+    # `identifiable` (could be identified) is WEAKER than `identified` (is). It
+    # maps onto the stronger value on purpose: for a ceiling, treating a row as
+    # more identifiable than it may be is the harmless direction.
+    "identifiable": "identified",
+}
+
+# `None` means THE ROW DOES NOT DETERMINE THIS, and the crosswalk says so rather
+# than picking. That is the whole reason this is a function and not a dict
+# lookup at the call site.
+SOURCE_TYPE_FROM_PIPELINE = {
+    "research": "research",
+    "synthetic": "synthetic-simulation",
+    # A legacy event reconstructed into an attempt is still runtime learner
+    # data. What is LOST in the mapping is the reconstruction itself, which is a
+    # statement about extraction fidelity rather than about the data's kind —
+    # so it belongs in the observation's `provenance.extraction_method`, and the
+    # resolver says so.
+    "reconstructed": "runtime-learner-data",
+    # AMBIGUOUS, and the ambiguity is real. A person doing the thing is
+    # `runtime-learner-data` under ordinary use and `platform-experiment` when
+    # the release assigned conditions — and a row cannot know which, because
+    # that is a property of the investigation, not of the attempt.
+    "human": None,
+}
+
+
+def identifiability_from_pipeline(value: str) -> tuple[str | None, str]:
+    """Map a pipeline row's identifiability onto this layer's. (value, note)."""
+    # Two distinct failures, and the second is the one that matters: a value the
+    # pipeline HAS but this table does not map is drift, not a typo, and it must
+    # report rather than raise. The first draft indexed the dict after checking
+    # only the list, so exactly that case crashed instead of being caught — found
+    # by appending a value to the list and running --crosswalk.
+    mapped = IDENTIFIABILITY_FROM_PIPELINE.get(value)
+    if mapped is None:
+        known = value in PIPELINE_IDENTIFIABILITY
+        return None, (
+            f"{value!r} is recorded in the pipeline vocabulary but this crosswalk "
+            f"maps no value for it — the vocabularies have drifted"
+            if known else
+            f"{value!r} is not a value this crosswalk knows; the pipeline "
+            f"vocabulary it was written against is "
+            f"{', '.join(PIPELINE_IDENTIFIABILITY)}")
+    if value == "anonymous":
+        return mapped, ("read DOWN to `deidentified`: the pipeline's own schema "
+                        "disclaims `anonymised` as a term of art it does not meet")
+    if value == "identifiable":
+        return mapped, ("read UP to `identified`: for a publication ceiling, "
+                        "over-stating identifiability is the harmless direction")
+    return mapped, "direct"
+
+
+def source_type_from_pipeline(value: str, *, assigned_conditions: bool | None = None
+                              ) -> tuple[str | None, str]:
+    """Map a pipeline row's source_type onto this layer's. (value, note).
+
+    `assigned_conditions` disambiguates `human`, and it is NOT defaulted: the
+    caller has to have read the release's `research_design` to know. Passing
+    nothing gets `None` and an explanation, which is the correct answer to a
+    question the row cannot settle."""
+    if value not in SOURCE_TYPE_FROM_PIPELINE:
+        known = value in PIPELINE_SOURCE_TYPES
+        return None, (
+            f"{value!r} is recorded in the pipeline vocabulary but this crosswalk "
+            f"maps no value for it — the vocabularies have drifted"
+            if known else
+            f"{value!r} is not a value this crosswalk knows; the pipeline "
+            f"vocabulary it was written against is "
+            f"{', '.join(PIPELINE_SOURCE_TYPES)}")
+    if value == "human":
+        if assigned_conditions is True:
+            return "platform-experiment", "the release assigned conditions"
+        if assigned_conditions is False:
+            return "runtime-learner-data", "ordinary use, no conditions assigned"
+        return None, ("a human row is `runtime-learner-data` under ordinary use and "
+                      "`platform-experiment` when the release assigned conditions; "
+                      "the row cannot say which, so read the release's "
+                      "research_design and pass assigned_conditions")
+    if value == "reconstructed":
+        return SOURCE_TYPE_FROM_PIPELINE[value], (
+            "the reconstruction is not carried by this field — record it in the "
+            "observation's provenance.extraction_method")
+    return SOURCE_TYPE_FROM_PIPELINE[value], "direct"
+
 
 # Reviews attach throughout the graph; that is the point of the layer, and
 # nothing is forced to be a child of a release.

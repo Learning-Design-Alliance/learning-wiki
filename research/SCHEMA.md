@@ -174,7 +174,7 @@ data:
   prohibited: [...]                # required — what must NEVER be collected, so a
                                    # later batch can be refused on this line
   identifiability: {collected, published}   # required, both
-  deidentification:                # required when collected is identified/pseudonymous
+  deidentification:                # required when collected is identified/pseudonymised
     {method, applied_at, reversible, key_holder}
   retention: {raw, derived, basis} # raw and derived required
   storage:                         # the three controls are TRI-STATE: true | false |
@@ -312,7 +312,7 @@ policy engine, and a rule that fires on a case nobody has met is a rule nobody
 trusts.
 
 1. **A dataset may not be more identifiable than its protocol permits at its
-   access class.** `identified > pseudonymous > deidentified > aggregate`;
+   access class.** `identified > pseudonymised > deidentified > aggregate`;
    `published` is bounded by `data.identifiability.published` (the promise made
    to the participant), `raw` and `derived` by `.collected`.
 2. **An analysis declaring `ai_processing: true` requires
@@ -325,7 +325,7 @@ trusts.
    to" and "nobody has decided" are different states, and only the second is
    fixed by asking somebody.
 
-All three were tested against the fixture by mutation — publishing a pseudonymous
+All three were tested against the fixture by mutation — publishing a pseudonymised
 dataset, running an AI analysis under a protocol that did not disclose it, and
 publishing from data whose protocol does not permit publication — each producing
 exactly one error naming the field that governs it.
@@ -351,16 +351,59 @@ conclusion reached independently in another repo:
 > publishing findings about its users as research; an ethics review at analysis
 > time cannot cure it
 
-**The vocabularies do not currently agree, and each mismatch would break the
-join silently.** Recorded here rather than fixed by fiat, because changing either
-side unilaterally is how one repo starts lying about the other:
+**Both mismatches are now settled, and only one of them was a collision.**
 
-| concept | pipeline (per row) | this layer (per protocol) | status |
-|---|---|---|---|
-| identifiability | `pseudonymised` | `pseudonymous` | **collision** — same meaning, different word. One has to win. |
-| consent basis | `consent_basis`: `product_terms`, `research_consent`, `parental_consent`, `school_dpa`, `legitimate_interest`, `synthetic_no_subject`, `not_recorded` | `consent.mechanism` + `permitted_uses` | **no crosswalk yet.** `product_terms` implies `research-publication: prohibited`; `not_recorded` implies `unspecified`. The rest are unmapped. |
-| age | `age_band` plus a required `jurisdiction` | `participants.age_assurance.{method, jurisdiction}` | **adopted from the pipeline** — its reasoning that a band without a jurisdiction decides nothing is why `jurisdiction` is required here. |
-| synthetic data | `source_type: synthetic` / `consent_basis: synthetic_no_subject` | `provenance.source_type: synthetic-simulation` | **collision** on the value spelling. |
+**`pseudonymised` was a real collision, and this layer moved.** The pipeline said
+`pseudonymised`, this layer said `pseudonymous`, one concept with two spellings
+across two repos — a join that breaks silently. This side conceded because it is
+the cheaper and the more correct side to move: ~21 occurrences in unmerged files
+here against 16 across six files there, including a published JSON schema, eight
+test assertions and compiled Parquet; and GDPR's own term of art is
+"pseudonymisation" (Art 4(5)), so the participle is the closer word. Conceding on
+your own side is not the same act as changing the other repo by fiat.
+
+**The two `source_type` fields were never a collision, and calling them one was
+wrong.** They answer different questions. The pipeline's says what produced a
+**row** — `human`, `synthetic`, `research`, `reconstructed`. This layer's says
+what **kind of record** it is — `research`, `runtime-learner-data`,
+`synthetic-simulation`, `llm-proposed`, `platform-experiment`. Only `research` is
+the same value in both, and `human` maps to *either* `runtime-learner-data` or
+`platform-experiment` depending on whether the release assigned conditions —
+which a row cannot know, because that is a property of the investigation. So
+renaming either side would destroy information. The answer is a mapping.
+
+The identifiability scales only partly overlap too, for the same reason: the
+pipeline's `identifiable` (could be identified) is not this layer's `identified`
+(is), and its `anonymous` is not `deidentified`.
+
+**So the crosswalk is code, not a table in a document.** A crosswalk in prose
+rots; `scripts/check_research.py --crosswalk` prints it and **exits 1 the moment
+the other side grows a value nothing maps**:
+
+```
+identifiability — pipeline row value -> this layer's protocol value
+  synthetic     -> not-applicable   direct
+  anonymous     -> deidentified     read DOWN: the pipeline's own schema disclaims
+                                    `anonymised` as a term of art it does not meet
+  aggregate     -> aggregate        direct
+  pseudonymised -> pseudonymised    direct
+  identifiable  -> identified       read UP: for a ceiling, over-stating
+                                    identifiability is the harmless direction
+
+source_type — pipeline row value -> this layer's record kind
+  human         -> None             the row cannot say; read the release's
+                                    research_design and pass assigned_conditions
+  synthetic     -> synthetic-simulation
+  research      -> research
+  reconstructed -> runtime-learner-data   the reconstruction belongs in the
+                                          observation's extraction_method
+```
+
+Where the scales differ the mapping is deliberately **conservative** — it
+resolves toward the more identifiable reading, because the value feeds a
+publication ceiling and the safe error is refusing a release that could have been
+allowed. `None` means *the row does not determine this*, which is why these are
+functions rather than dict lookups at the call site.
 
 Two further things the pipeline holds that this layer does not, deliberately:
 

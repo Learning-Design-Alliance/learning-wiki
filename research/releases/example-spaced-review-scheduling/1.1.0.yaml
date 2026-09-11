@@ -69,7 +69,7 @@ datasets:
       kind: s3
       ref: "s3://SYNTHETIC-EXAMPLE/learning-observations/attempt-events/v1/"
     sha256: 9c90b7a58b61fd49075f73e06ae302f93428293f674632616997b57ec2beb184
-    identifiability: pseudonymous
+    identifiability: pseudonymised
     access: derived
     note: >-
       The grain is the attempt, matching the canonical learning-observation
@@ -117,7 +117,7 @@ datasets:
       kind: s3
       ref: "s3://SYNTHETIC-EXAMPLE/learning-observations/reflection-codes/v1/"
     sha256: 0c31c4059b289cf3ecc7c4721fa1331ec379858f4ec7ac9431a1518b87aac632
-    identifiability: pseudonymous
+    identifiability: pseudonymised
     access: derived
     derived_from:
       - attempt-events

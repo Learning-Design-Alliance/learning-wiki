@@ -129,16 +129,16 @@ data:
   collected:
     - item: Attempt events (item id, timestamp, response, correctness, latency)
       purpose: To measure practice schedule and retention at attempt grain
-      identifiability: pseudonymous
+      identifiability: pseudonymised
     - item: Assessment scores on scheduled retention checks
       purpose: To measure the outcome the research question is about
-      identifiability: pseudonymous
+      identifiability: pseudonymised
     - item: Open-text responses to reflection prompts
       purpose: To characterise strategy use alongside the quantitative outcome
-      identifiability: pseudonymous
+      identifiability: pseudonymised
     - item: Self-reported prior experience with the subject, at enrolment
       purpose: To describe the population and to test prior knowledge as a moderator
-      identifiability: pseudonymous
+      identifiability: pseudonymised
   # Not "everything else": the things that were specifically ruled out, so a
   # later batch that starts collecting one of them can be refused on this line.
   prohibited:
@@ -147,7 +147,7 @@ data:
     - Any special-category data (health, biometric, political, religious)
     - Free-text responses to prompts that invite disclosure of the above
   identifiability:
-    collected: pseudonymous
+    collected: pseudonymised
     published: aggregate
   deidentification:
     method: >-

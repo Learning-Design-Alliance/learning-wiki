@@ -819,12 +819,34 @@ state, so a band without one decides nothing.
 `experiments/learning-graph/report/gate.py` in `learning-engine-ai-frontend`
 refuses publication from the compiled rows; this layer refuses a release from the
 protocol. **Both are needed** — a protocol can permit what the rows cannot
-support, and vice versa. Their vocabularies **do not agree** (`pseudonymised` vs
-`pseudonymous`, `synthetic` vs `synthetic-simulation`, `consent_basis` vs
-`permitted_uses`, and the pipeline's `age_band` against this layer's
-`age_assurance`). The crosswalk and the two live collisions are tabulated in
-`research/SCHEMA.md` — **recorded rather than fixed by fiat, because changing
-either side unilaterally is how one repo starts lying about the other.**
+support, and vice versa.
+
+**The two vocabulary mismatches are settled, and only one of them was a
+collision.** `pseudonymised` was: one concept, two spellings, a join that breaks
+silently. **This layer moved to the pipeline's spelling** — ~21 occurrences in
+unmerged files here against 16 across six files there including a published JSON
+schema, eight test assertions and compiled Parquet, and GDPR's own term of art is
+"pseudonymisation" (Art 4(5)). Conceding on your own side is not the same act as
+changing the other repo by fiat. **Do not rename it back.**
+
+**The two `source_type` fields were never a collision, and this file said
+otherwise for an hour.** They answer different questions: the pipeline's says what
+produced a **row** (`human`/`synthetic`/`research`/`reconstructed`), this layer's
+says what **kind of record** it is
+(`research`/`runtime-learner-data`/`synthetic-simulation`/`llm-proposed`/`platform-experiment`).
+Only `research` is shared, and `human` maps to *either* `runtime-learner-data` or
+`platform-experiment` depending on whether the release assigned conditions —
+which a row cannot know, because that is a property of the investigation.
+**Renaming either side would destroy information.** The identifiability scales
+only partly overlap for the same reason: `identifiable` (could be) is not
+`identified` (is), and `anonymous` is not `deidentified`.
+
+**So the crosswalk is code.** `python3 scripts/check_research.py --crosswalk`
+prints it and **exits 1 the moment the other side grows a value nothing maps** —
+a crosswalk in prose rots. Where the scales differ the mapping is deliberately
+conservative, resolving toward the more identifiable reading, because it feeds a
+publication ceiling and the safe error is refusing a release that could have been
+allowed; `None` means *the row does not determine this* rather than a guess.
 
 **One synthetic fixture, marked at every level** (`source_type:
 synthetic-simulation`, `SYNTHETIC` in every title and header comment): a protocol,

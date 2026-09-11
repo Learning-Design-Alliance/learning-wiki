@@ -205,6 +205,50 @@ def issues_report() -> None:
         print()
 
 
+def crosswalk() -> int:
+    """Print the pipeline crosswalk, and fail if any of its values is unmapped.
+
+    The row-level governance vocabulary in learning-engine-ai-frontend
+    (`experiments/learning-graph`) and this layer's protocol-level one have to
+    be relatable, or the two publication gates can disagree without anybody
+    noticing. A crosswalk written in a document rots; this one is executable,
+    and it exits 1 the moment the other side grows a value nothing maps."""
+    gaps = 0
+    print("identifiability — pipeline row value -> this layer's protocol value\n")
+    for v in rl.PIPELINE_IDENTIFIABILITY:
+        mapped, note = rl.identifiability_from_pipeline(v)
+        if mapped is None:
+            gaps += 1
+        print(f"  {v:<16} -> {str(mapped):<16} {note}")
+
+    print("\nsource_type — pipeline row value -> this layer's record kind\n")
+    for v in rl.PIPELINE_SOURCE_TYPES:
+        mapped, note = rl.source_type_from_pipeline(v)
+        if mapped is None and v != "human":
+            gaps += 1
+        print(f"  {v:<16} -> {str(mapped):<16} {note}")
+    # Shown explicitly, because `human` resolving to None is the CORRECT answer
+    # to a question the row cannot settle, not a gap in the table.
+    for flag in (False, True):
+        mapped, note = rl.source_type_from_pipeline("human", assigned_conditions=flag)
+        print(f"  human, assigned_conditions={str(flag):<5} -> {mapped:<22} {note}")
+
+    print("\nNot a collision, and worth being clear about: the two `source_type`")
+    print("fields answer different questions. The pipeline's says what produced a")
+    print("ROW; this layer's says what KIND of record it is. Only `research` is the")
+    print("same value in both. Renaming either would destroy information, which is")
+    print("why this is a mapping rather than an alignment.")
+    print("\n`pseudonymised` IS a settled collision: this layer moved to the")
+    print("pipeline's spelling. See IDENTIFIABILITY in scripts/research_lib.py.")
+
+    if gaps:
+        print(f"\n{gaps} pipeline value(s) have no mapping — the vocabularies have "
+              f"drifted.", file=sys.stderr)
+        return 1
+    print("\nEvery pipeline value maps, or says why it cannot. 0 gaps.")
+    return 0
+
+
 def summary() -> None:
     protocols, _ = rl.load_protocols()
     releases, _ = rl.load_releases()
@@ -273,6 +317,9 @@ def main() -> None:
     ap.add_argument("--summary", action="store_true",
                     help="describe the layer rather than validating it")
     ap.add_argument("--issues", action="store_true", help="list issues and their state")
+    ap.add_argument("--crosswalk", action="store_true",
+                    help="the governance-vocabulary crosswalk to the Lazuli pipeline's "
+                         "row-level fields; exits 1 if a value there is unmapped")
     ap.add_argument("--why", metavar="CLAIM_SLUG",
                     help="traverse claim <- evidence <- analysis <- dataset <- "
                          "release <- protocol")
@@ -280,6 +327,8 @@ def main() -> None:
 
     if args.why:
         sys.exit(why(args.why))
+    if args.crosswalk:
+        sys.exit(crosswalk())
     if args.issues:
         issues_report()
         return

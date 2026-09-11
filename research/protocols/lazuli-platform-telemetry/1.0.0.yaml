@@ -168,20 +168,20 @@ data:
       purpose: >-
         Recording what a learner attempted and how it resolved, to drive their
         own progress display and the course's adaptive scheduling
-      identifiability: pseudonymous
+      identifiability: pseudonymised
     - item: >-
         goal_evidence, added by migration 0099: release_id, episode_id,
         selection_reason, latency_ms
       purpose: >-
         Making an attempt resolvable against the immutable course release, and
         the design specification inside it, that was in force when it happened
-      identifiability: pseudonymous
+      identifiability: pseudonymised
     - item: "sdk_submissions: submission_text — the learner's typed free text"
       purpose: Grading open responses, and showing the learner their own history
-      identifiability: pseudonymous
+      identifiability: pseudonymised
     - item: "sdk_submissions: grade_result — the verbatim AI grading output"
       purpose: Returning and retaining the grade the learner was given
-      identifiability: pseudonymous
+      identifiability: pseudonymised
     - item: >-
         sdk_attachments: name, mime, kind (document | image | audio | video),
         bytes, sha256, and the stored object itself
@@ -206,7 +206,7 @@ data:
     # anonymous — the id is opaque but STABLE, which remains personal data
     # under GDPR Recital 26, and a trajectory of thousands of timestamped
     # attempts is quasi-identifying on its own even without it.
-    collected: pseudonymous
+    collected: pseudonymised
     # Nothing is published from this source. Recorded as the ceiling that would
     # apply if anything ever were, and the access rules below enforce it.
     published: aggregate
