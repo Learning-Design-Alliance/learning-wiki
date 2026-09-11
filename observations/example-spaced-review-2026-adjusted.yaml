@@ -104,6 +104,12 @@ observations:
       estimate: 0.12
       ci_lower: -0.08
       ci_upper: 0.32
+      # Forward-compatibility with the schema additions in learning-wiki#76,
+      # which requires an interval's TYPE wherever bounds are given: a
+      # frequentist CI and a Bayesian credible interval are different
+      # objects. Stated here so this record does not break when that
+      # branch merges — the reader of this module ignores the key today.
+      interval_type: confidence
       model: >-
         Linear model with arm and realised total time on task; the covariate was
         chosen after the confound was raised, not preregistered.

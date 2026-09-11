@@ -128,6 +128,12 @@ observations:
       estimate: 0.31
       ci_lower: 0.11
       ci_upper: 0.51
+      # Forward-compatibility with the schema additions in learning-wiki#76,
+      # which requires an interval's TYPE wherever bounds are given: a
+      # frequentist CI and a Bayesian credible interval are different
+      # objects. Stated here so this record does not break when that
+      # branch merges — the reader of this module ignores the key today.
+      interval_type: confidence
       model: Linear model with arm as the only predictor; no covariates.
       interpretation: >-
         A small advantage for the spaced arm, smaller than the laboratory
@@ -181,6 +187,12 @@ observations:
       estimate: 1.02
       ci_lower: 0.91
       ci_upper: 1.14
+      # Forward-compatibility with the schema additions in learning-wiki#76,
+      # which requires an interval's TYPE wherever bounds are given: a
+      # frequentist CI and a Bayesian credible interval are different
+      # objects. Stated here so this record does not break when that
+      # branch merges — the reader of this module ignores the key today.
+      interval_type: confidence
       interpretation: >-
         A measured null: scheduling did not change whether learners finished.
     moderators:
