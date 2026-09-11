@@ -1,0 +1,72 @@
+# SYNTHETIC EXAMPLE — the object that keeps open review from becoming a
+# hundred repetitive comments.
+#
+# Two people identified this problem independently, one disputed it, the
+# authors answered, and a new release changed the estimate. Without this file
+# that is five unlinked reviews and no way to tell that four of them are about
+# one thing. With it:
+#
+#     1 issue
+#     2 independent identifications, in the order they arrived
+#     1 executable reanalysis supporting it
+#     1 objection, carrying no analysis
+#     1 author response
+#     resolved: confirmed -> release 1.1.0
+#
+# What the file does NOT do: decide who was right. `resolution` is an assertion
+# by a named author, the reviews that raised the issue stay listed after it,
+# the objection stays listed, and a later review may target this issue again.
+
+schema_version: 1
+
+issue:
+  id: time-on-task-not-held-constant
+  created_at: 2026-09-11
+  category: design_confound
+
+  target:
+    kind: release
+    ref: example-spaced-review-scheduling
+    version: 1.0.0
+
+  summary: >-
+    The release reports holding the review time BUDGET constant across arms and
+    interprets the result as an effect of scheduling. In a self-paced course
+    those differ, so the reported contrast may be scheduling plus additional
+    time on task rather than scheduling alone.
+
+  state: resolved
+
+  # ORDERED BY FIRST APPEARANCE, and append-only. The first entry is the first
+  # person to identify the problem, and that attribution is precisely what
+  # collapsing a thread of comments would lose. The second entry reached it
+  # independently, which is why it is here rather than marked a duplicate.
+  raised_by:
+    - 2026-09-11-spacing-confounded-with-total-time
+    - 2026-09-12-reanalysis-confirms-time-on-task-gap
+
+  supporting:
+    - 2026-09-12-reanalysis-confirms-time-on-task-gap
+
+  # Kept, permanently, whatever the resolution says. A record in which the
+  # objections to a confirmed issue disappear is a record of a conclusion, not
+  # of a disagreement.
+  disputing:
+    - 2026-09-12-scheduling-effects-are-well-established
+
+  response:
+    - 2026-09-18-author-response-time-on-task
+  resolution:
+    outcome: confirmed
+    at: 2026-09-18
+    # A position held by somebody, not a verdict issued by a platform.
+    decided_by: claude/unspecified
+    explanation: >-
+      SYNTHETIC. The authors reproduced the reanalysis and agree that time on
+      task was not held constant. Version 1.1.0 reports the adjusted estimate
+      alongside the original rather than in place of it; the 1.0.0 file, and
+      the evidence record produced by it, are unchanged and remain the record
+      of what was said at the time.
+    resulting_release:
+      ref: example-spaced-review-scheduling
+      version: 1.1.0

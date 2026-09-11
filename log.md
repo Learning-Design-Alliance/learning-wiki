@@ -8,6 +8,21 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ---
 
+## 2026-09-11
+
+* **Schema**: new **research layer** at `research/` — `protocols/`, `releases/`, `reviews/`, `issues/`. Records where knowledge came from and how it can be interrogated, beside the wiki's kinds, which record what we currently believe. Field reference in `research/SCHEMA.md`, rationale in `scripts/research_lib.py`
+* **Decision**: **no `evidence/` object.** `observations/` already is the evidence layer; a second object holding the same fields about the same results is the drift shape this repo has lost weeks to. A release names its findings and each record names the release back, and both halves are required to agree
+* **Schema**: `observations/` gains `study.release`, `observations[].analysis_ref` and a **required** `appears_in[].bearing` (supports / contradicts / qualifies); `appears_in[].anchor` becomes **optional**, so evidence can name a proposition without being written into that claim's argument. Schema stays at version 2; the four existing records were updated
+* **Decision**: a version is a **file**, so immutability is structural rather than a promise, and which version is current is derived (highest semver) rather than stated — stating it would require editing the file it is about
+* **Decision**: a protocol records governance and does not constitute it. `external_review.status` has five values because "an authority determined it exempt" and "we reasoned none applies" are different claims by different parties. Not spelled yes/no: YAML 1.1 reads a bare `yes` as boolean `True`, which broke the first draft
+* **Tooling**: two enforcement checks implemented narrowly — a dataset may not exceed its protocol's identifiability ceiling for its access class, and `ai_processing: true` requires `consent.ai_processing_disclosed: true` (`unspecified` fails too). Both verified by mutating the fixture until they fired
+* **Decision**: `Issue` is a first-class object. Eighteen reviews of one defect otherwise cannot be told to be one problem, and the first person to identify it is indistinguishable from the seventeenth. `raised_by` is ordered by first appearance; a resolved issue keeps its disputing reviews; `resolution.decided_by` is required
+* **Decision**: `positive`, `approved`, `helpful_votes`, `votes`, `score`, `reputation`, `credentials` and `bearing` are **refused by name** on a review, each with its reason. Moderation reason codes are a closed set of conduct categories with no code meaning "wrong", so a critique cannot be buried on the merits
+* **Tooling**: `scripts/research_lib.py`, `scripts/check_research.py` (`--summary`, `--issues`, `--why <claim-slug>`), and `lint.py --type research` — green on an empty layer, so the "a count of zero means the work is done" property survives
+* **Fixture**: one synthetic chain — protocol, two release versions, two evidence records, five reviews, one issue. `claims/spaced-practice-improves-long-term-retention.md` is **unchanged**: the evidence names it with a bearing and no anchor, so nothing fabricated appears in a real claim's `## Evidence`
+
+---
+
 ## 2026-09-07* **Structure**: [methods/make-the-invisible-visible-power-dynamics](methods/make-the-invisible-visible-power-dynamics.md) — Cross-link the new sibling method
 * **Structure**: [methods/backward-design](methods/backward-design.md) — Cross-link the new sibling method
 * **Ingest**: [methods/theory-of-change](methods/theory-of-change.md) — New design method page: theory-of-change

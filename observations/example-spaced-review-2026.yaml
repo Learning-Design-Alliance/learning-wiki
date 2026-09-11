@@ -1,0 +1,197 @@
+# SYNTHETIC EXAMPLE — every number here is invented. See the release it names.
+#
+# What this file demonstrates that the other six observation records do not:
+# its SOURCE is a research release of ours rather than somebody else's paper.
+# `study.release` replaces the citation (a release already carries title,
+# authors, version and date — writing them again here would be a second copy),
+# and each observation names the analysis that produced it, so the chain
+#
+#     claim <- evidence <- analysis <- dataset <- release <- protocol
+#
+# is traversable from either end. `scripts/check_research.py --why
+# spaced-practice-improves-long-term-retention` walks it.
+
+schema_version: 2
+
+study:
+  key: example-spaced-review-2026
+  release:
+    ref: example-spaced-review-scheduling
+    version: 1.0.0
+  design:
+    family: randomized-controlled-trial
+    design_detail: >-
+      Learners randomised 1:1 at enrolment to a spaced or massed review
+      schedule, with item pool, item count and total review time budget held
+      constant. Self-paced, so the realised inter-session interval is measured
+      rather than assigned.
+
+provenance:
+  # NOT `research` and NOT `platform-experiment`: the data do not exist. This
+  # is the field a consumer reads before pooling anything.
+  source_type: synthetic-simulation
+  extracted_by: claude/unspecified
+  extracted_at: 2026-09-11
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+# The record names the proposition it bears on. It does NOT write itself into
+# that claim's argument: `anchor` is absent, because no `### ` evidence entry
+# has been added to the claim page, and adding one is an editorial act that
+# stays editorial. The edge exists and is directional; the claim is unchanged.
+appears_in:
+  - claim: spaced-practice-improves-long-term-retention
+    bearing: supports
+    note: >-
+      SYNTHETIC. Recorded to demonstrate the edge, and deliberately carrying no
+      anchor: this fabricated study must never appear in a real claim's
+      evidence section.
+
+evidence_base:
+  unit: participants
+  size:
+    value: 412
+    unit: participants
+  additional_sizes:
+    - value: 1841260
+      unit: items
+      note: Attempt events recorded across both arms during the collection window
+  population:
+    description: >-
+      412 adults self-enrolled in an openly available online course, consenting
+      to research use. Institutionally enrolled learners excluded by protocol.
+    age_or_stage: Adults, 18+
+    prior_knowledge: >-
+      Self-reported prior experience with the subject ranged from none to
+      professional; not balanced across arms by design.
+  context:
+    setting: Self-paced online course on a hosted platform
+    delivery_mode: Asynchronous, learner-scheduled
+    duration: Six-week collection window, four-week delayed retention check
+  arms:
+    - id: spaced-review
+      description: >-
+        Review items distributed across sessions, with the platform surfacing
+        each item on an expanding schedule.
+      size:
+        value: 206
+        unit: participants
+      elements:
+        - term: distributed review scheduling
+          anchors:
+            - elements/spaced-repetition
+    - id: massed-review
+      description: >-
+        The same review items presented together at the end of each unit.
+      size:
+        value: 206
+        unit: participants
+      elements:
+        - term: end-of-unit review block
+
+comparisons:
+  - id: spaced-vs-massed
+    kind: between-groups
+    index_arm: spaced-review
+    reference_arm: massed-review
+    description: >-
+      Randomised contrast of review scheduling, holding item pool, item count
+      and total review time budget constant.
+
+observations:
+  - id: retention-four-week
+    sample:
+      value: 388
+      unit: participants
+    comparison_ref: spaced-vs-massed
+    # Which declared analysis produced this number. Resolved against the
+    # release's `analyses:` ids by research_lib.
+    analysis_ref: retention-model
+    outcome:
+      construct: Delayed retention of course content
+      source_language: four-week retention check score
+      measure: 40-item retention check drawn from the same item families as practice
+      scale: 0-40
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: stated
+      anchors:
+        - claims/spaced-practice-improves-long-term-retention
+    time:
+      label: Four weeks after the final unit
+      offset:
+        value: 4
+        unit: weeks
+        from: completion of the final unit
+    result:
+      measure_type: cohens_d
+      estimate: 0.31
+      ci_lower: 0.11
+      ci_upper: 0.51
+      model: Linear model with arm as the only predictor; no covariates.
+      interpretation: >-
+        A small advantage for the spaced arm, smaller than the laboratory
+        spacing literature reports.
+    moderators:
+      reported: []
+      candidate:
+        - variable: realised inter-session interval
+          relationship: >-
+            The assigned schedule and the schedule learners actually followed
+            diverge in a self-paced setting, which would attenuate the contrast.
+          note: >-
+            CANDIDATE, never promoted: the release does not report an analysis
+            of realised interval, so nothing here says it moderated anything.
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Realised inter-session intervals were collected but not reported per arm,
+      so how far the manipulation took effect is only partly visible.
+    source_quote: >-
+      SYNTHETIC. From the release's own reported result: a small advantage on a
+      four-week retention check, d = 0.31, 95% CI [0.11, 0.51].
+    source_location: release 1.0.0, interpretation
+
+  - id: completion
+    sample:
+      value: 412
+      unit: participants
+    comparison_ref: spaced-vs-massed
+    analysis_ref: retention-model
+    outcome:
+      construct: Course completion
+      source_language: whether the learner finished the course
+      measure: Binary, completed all units
+      direction: higher-is-better
+      # Finishing a course is not evidence of a capability, and the source does
+      # not say who values it — so `valued_by` is absent rather than guessed.
+      role: intermediate-outcome
+      role_basis: inferred
+    time:
+      label: End of the collection window
+      offset:
+        value: 6
+        unit: weeks
+        from: enrolment
+    result:
+      measure_type: risk_ratio
+      estimate: 1.02
+      ci_lower: 0.91
+      ci_upper: 1.14
+      interpretation: >-
+        A measured null: scheduling did not change whether learners finished.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: >-
+      SYNTHETIC. From the release: no detectable difference in whether learners
+      finished the course, RR = 1.02, 95% CI [0.91, 1.14].
+    source_location: release 1.0.0, interpretation

@@ -683,6 +683,135 @@ is a re-read of it, and a re-read finds things.
 
 ---
 
+## The research layer — where knowledge came from
+
+`research/` records **what happened and how it can be interrogated**; the wiki's
+kinds record **what we currently believe**. Full field reference in
+`research/SCHEMA.md`; rationale in `scripts/research_lib.py`.
+
+```
+Protocol ──> Research Release ──> Evidence ──> Claim
+                                     ^
+                            Review ──┴── Issue
+```
+
+**There is no `evidence/` folder, and that is the main decision.** `observations/`
+already *is* the evidence layer — its `study:` block is "the SOURCE", its
+observations are the individual results with their arms, comparisons, samples and
+`observability`. A second Evidence object would hold the same fields about the same
+results, which is the drift shape this repo has lost weeks to on DOIs. So a release
+**names** its findings (`evidence: [{ref: <study-key>/<observation-id>}]`) and each
+record names the release back (`study.release: {ref, version}`). **Both halves are
+required to agree**: a half-written edge reads as a working link from whichever side
+you arrive on, and only a reader who checks the other side ever finds out.
+
+**Three additive fields in `observations/`, and one that became required.**
+`study.release` (replacing `citation` when the source is ours — a release already
+carries title, authors, version and date), `observations[].analysis_ref` (which
+declared analysis produced this result), and `appears_in[].bearing` —
+`supports` / `contradicts` / `qualifies`, **required and never defaulted**, because
+the direction is a property of the *edge*: one result supports one claim and
+qualifies another. The four existing records were updated; the schema stays at
+version 2, so an older file fails loudly on the missing `bearing` rather than being
+read wrongly.
+
+**`appears_in[].anchor` is now optional, and that is the separation between the two
+layers.** A record may name the proposition it bears on before anyone has written it
+into that claim's argument. Promoting evidence into a claim's `## Evidence` section
+is an editorial act and stays one — **do not automate epistemic promotion.** An
+anchor, when given, is still ratcheted: a rename fails lint rather than orphaning
+the record silently.
+
+**Immutability is structural, not a promise.** A version is a *file* —
+`research/releases/<id>/<version>.yaml` — so publishing 1.1.0 writes a new file and
+cannot touch 1.0.0. Which version is current is **derived** (highest semver present)
+and never stated, because stating it would mean editing an older file to say it is
+no longer current. The cost is real: 1.1.0 repeats almost everything from 1.0.0,
+because a version has to stand alone to be citable on its own.
+
+**A protocol is a configuration file, not a checkbox — and it records governance, it
+does not constitute it.** `external_review.status` is a five-value vocabulary
+(`approved` / `exempt` / `not-required` / `not-determined` / `pending`) because
+"an authority determined it exempt" and "we reasoned none applies" are different
+claims by different parties. It is deliberately not spelled yes/no: **YAML 1.1 reads
+a bare `yes` as the boolean `True`**, which broke the first draft of the fixture.
+
+**Two enforcement checks are implemented, narrowly, to prove the arrow
+`machine-readable protocol → automated checking` is real:** a dataset may not be
+more identifiable than its protocol permits at its access class, and an analysis
+declaring `ai_processing: true` requires `consent.ai_processing_disclosed: true`
+(`unspecified` fails as well as `false` — silence is not permission). Both were
+verified by mutating the fixture until they fired.
+
+**Review is a structured contribution, not a comment, and never evidence.**
+`assertion` and `rationale` are required and the target must resolve, so a bare
+"interesting study" or an insult with no assertion **never becomes an object** —
+which is what makes open review expensive to spam without gating it. No
+institution, rank or degree is required, requested, or able to gate whether a
+contribution exists. What differs between contributions is `author.basis` — *what
+grounds this contribution*, a property of the contribution and not of the person.
+
+**The schema refuses `positive`, `approved`, `helpful_votes`, `votes`, `score`,
+`reputation`, `credentials` and `bearing` by name**, each with its reason, enforced
+rather than requested. A review carrying `bearing:` is rejected because
+supports/contradicts/qualifies already exists on the evidence→claim edge; a review
+may *introduce* evidence, it is not evidence. `assessment:` records checkable
+properties of **form** (specific, reasoned, evidence supplied, independently
+reproduced, duplicate-of) — form is what automation may judge, and truth is not.
+
+**Moderation is conduct, never correctness.** `moderation:` is a list (a history
+that can be overwritten is not a record), and the reason codes are a closed set of
+conduct categories with **no code meaning "wrong" or "disagrees with the authors"** —
+so burying a critique on the merits requires inventing a code the schema does not
+have, and fails. `withheld` changes prominence, never existence.
+
+**`Issue` is the sixth object, and it earns its place.** Without it, eighteen people
+independently noticing one defect produce eighteen unlinked reviews: nothing can
+tell they are one problem, prominence has to be computed from volume, and the first
+person to say it is indistinguishable from the seventeenth. `raised_by` is ordered by
+first appearance and append-only. A resolved issue keeps every review that raised it
+*and* every review that disputed it; `resolution.decided_by` is required because a
+resolution is a position held by somebody, not a verdict issued by a platform.
+
+**A contributor's history must stay derivable and must never be stored.** "Eleven
+concerns later confirmed, two not supported" is a traversal of
+`author.id → reviews → issues → resolution`. That is why `reputation` is a refused
+field.
+
+**One synthetic fixture, marked at every level** (`source_type:
+synthetic-simulation`, `SYNTHETIC` in every title and header comment): a protocol,
+two release versions, two evidence records, five reviews, one issue —
+and **`claims/spaced-practice-improves-long-term-retention.md` is unchanged**. The
+evidence names it with a `bearing` and no `anchor`, so the edge exists and nothing
+fabricated appears in a real claim's `## Evidence` section.
+
+```bash
+python3 scripts/check_research.py                     # validate; exit 1 on a problem
+python3 scripts/check_research.py --summary           # what is in the layer
+python3 scripts/check_research.py --issues            # issues, state and provenance
+python3 scripts/check_research.py --why <claim-slug>  # the traversal
+python3 scripts/lint.py --type research               # the same checks, in CI
+```
+
+`--why` is the acceptance test run as a command: *why does the wiki believe claim X*,
+answered by walking claim ← evidence ← analysis ← dataset ← release ← protocol from
+the records alone, printing what is contested at every level, and naming any record
+whose `source_type` is not `research` loudly — so a simulation, runtime telemetry or
+a model's proposal is never mistaken for a published finding.
+
+**These are not wiki pages**, deliberately: no `type:` frontmatter, no banner, no
+entry in `wiki-index.json`, the mkdocs nav or `okf_lib.CONTENT_FOLDERS`. Unattended
+batch tools iterate the content folders and rewrite what they find, and an immutable
+versioned object must not live where a batch job rewrites things. How a release is
+*rendered* is a separate problem and out of scope.
+
+`research/SCHEMA.md` ends with the questions left deliberately unresolved — whether
+`Analysis` and `Dataset` become first-class objects, where `deviations:` belongs,
+whether `ModerationDecision` earns its own file, and the review-type vocabulary.
+**Do not resolve them by guessing; resolve them when there are real releases.**
+
+---
+
 ## Page identity — `id:` and `aliases:`
 
 The [learning-design-spec](https://github.com/Learning-Design-Alliance/learning-design-spec)
@@ -1168,6 +1297,12 @@ ld-wiki/
   theories/          ← learning theories (explanatory frameworks)
   learner-variables/ ← canonical learner characteristics (prior knowledge, self-efficacy, ...) claims link into
   claims/            ← empirical claims with evidence
+  observations/      ← structured record of what each study actually did (see above)
+  research/          ← the research layer: where knowledge came from (see above)
+    protocols/<id>/<version>.yaml   ← versioned, immutable governance configuration
+    releases/<id>/<version>.yaml    ← versioned, immutable investigations
+    reviews/<review-id>.yaml        ← structured contributions interrogating any of it
+    issues/<issue-id>.yaml          ← one problem, however many people found it
   sources/           ← bibliographic source pages (optional; most citations live inline in Key Sources / Evidence)
     manifest.ndjson    ← append-only log of every source reviewed, ingested or rejected (see Source Manifest below)
     authorities.ndjson ← append-only log of citations a HUMAN verified against the real source (see Citation Authorities below)
@@ -1185,6 +1320,9 @@ ld-wiki/
     build_reverse_index.py ← who points at this page, as shippable data (see below)
     build_wiki_index.py ← the resolution table learning-design-spec reads (see below)
     check_evidence_markers.py ← claim citations carrying no [±~][SMW] marker (see below)
+    observation_lib.py ← the evidence layer's schema and validator (see above)
+    research_lib.py    ← the research layer's schemas, validators and joins (see above)
+    check_research.py  ← validate the research layer; --why traverses claim -> protocol
     lint.py            ← health-check (see Lint above)
     verify_citation_edits.py ← after a citation tool writes: did it edit only citations? (see above)
 ```

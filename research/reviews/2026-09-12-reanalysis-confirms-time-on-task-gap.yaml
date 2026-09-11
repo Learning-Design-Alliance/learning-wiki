@@ -1,0 +1,74 @@
+# SYNTHETIC EXAMPLE. The third review, and the one that makes the Issue object
+# earn its place: it raises the same problem as
+# 2026-09-11-spacing-confounded-with-total-time, independently, with executable
+# code. Eighteen of these is the case the aggregation layer exists for.
+#
+# Note what is NOT recorded: that this reviewer is more or less qualified than
+# the first. What differs between the two contributions is visible in
+# `basis` and `assessment` — one taught in the setting, one ran the numbers —
+# and neither is scored.
+
+schema_version: 1
+
+review:
+  id: 2026-09-12-reanalysis-confirms-time-on-task-gap
+  created_at: 2026-09-12
+  review_type: reanalysis
+
+  target:
+    # Addressed at the ANALYSIS, not at the release: the concern is about one
+    # declared analysis, and pushing it up to the release would make it less
+    # specific than the reviewer was able to be.
+    kind: analysis
+    ref: example-spaced-review-scheduling/1.0.0/retention-model
+
+  assertion: >-
+    Recomputed from the release's own published dataset, mean time on task
+    differs between arms by roughly 18 per cent, so the reported contrast is
+    not between two schedules holding time constant.
+
+  rationale: >-
+    The release declares attempt-events with a documented grain and a hash, so
+    the quantity can be recomputed without new collection. Summing attempt
+    latencies per participant and comparing arm means gives a difference large
+    enough that an effect of d = 0.31 is not separable from it by this design.
+    This does not show that spacing has no effect; it shows that this release's
+    number is an estimate of scheduling-plus-time rather than of scheduling.
+
+  supporting_artifacts:
+    - kind: code
+      title: SYNTHETIC — time-on-task recomputation
+      location:
+        kind: git
+        ref: "https://SYNTHETIC-EXAMPLE.invalid/reviewer/spaced-review-check/blob/cafebabe/time_on_task.py"
+      note: >-
+        Runs against the published dataset hash, so the check is executable by
+        anyone rather than assertable only by its author.
+
+  evidence:
+    - kind: dataset
+      ref: example-spaced-review-scheduling/1.0.0/attempt-events
+
+  author:
+    id: human:example-reviewer-three
+    basis:
+      - reanalysed-the-data
+      - read-the-release
+    identity_state: unverified_identity
+    disclosure: none declared
+
+
+  issues:
+    - time-on-task-not-held-constant
+
+  assessment:
+    target_specific: true
+    rationale_present: true
+    evidence_present: true
+    independently_reproduced: true
+    # NOT `true`. This reviewer reached the same problem independently, and
+    # recording them as a duplicate of the earlier review would erase the
+    # independence that makes two identifications worth more than one.
+    duplicate_of: null
+    assessed_by: claude/unspecified
+    assessed_at: 2026-09-12

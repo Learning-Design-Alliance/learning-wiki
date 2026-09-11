@@ -1,0 +1,50 @@
+# SYNTHETIC EXAMPLE. A second review, targeting the EVIDENCE rather than the
+# release, to test that reviews attach throughout the graph rather than only at
+# its root.
+
+schema_version: 1
+
+review:
+  id: 2026-09-11-effect-untested-outside-self-paced
+  created_at: 2026-09-11
+  review_type: boundary_condition
+
+  target:
+    kind: evidence
+    ref: example-spaced-review-2026/retention-four-week
+
+  assertion: >-
+    This estimate bounds what spacing does when the LEARNER controls session
+    boundaries, and should not be read as an estimate of what spacing does when
+    a timetable controls them.
+
+  rationale: >-
+    In the cohort-paced settings where most course design decisions are made,
+    the schedule is imposed and realised spacing is close to assigned spacing.
+    Here it is not, and the release says so in its own limitations. The
+    attenuation that makes this estimate small is a property of the setting,
+    which means the finding is informative about self-paced courses and close
+    to uninformative about timetabled ones. A pooled estimate that mixed the two
+    would be averaging over the moderator.
+
+  evidence:
+    - kind: claim
+      ref: spaced-practice-improves-long-term-retention
+      note: >-
+        The claim this record is listed against is stated without a pacing
+        condition, which is what makes the distinction worth recording.
+
+  author:
+    id: human:example-reviewer-two
+    basis:
+      - read-the-release
+      - methodological-expertise-stated
+    identity_state: verified_pseudonym
+    disclosure: none declared
+
+  assessment:
+    target_specific: true
+    rationale_present: true
+    evidence_present: false
+    independently_reproduced: unassessed
+    duplicate_of: null

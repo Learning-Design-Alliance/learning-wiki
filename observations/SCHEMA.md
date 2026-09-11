@@ -1,5 +1,12 @@
 # Research observations — schema (version 2)
 
+> **Revised 2026-09-11** when the research layer landed (`research/SCHEMA.md`).
+> Three additive fields — `study.release`, `observations[].analysis_ref` and a
+> newly **required** `appears_in[].bearing` — and `appears_in[].anchor` became
+> optional. The version stays 2: nothing about the three levels changed, and a
+> file written before the revision fails loudly on the missing `bearing` rather
+> than being read wrongly.
+
 A claim page argues something. An **observation** records the configuration that
 argument rests on.
 
@@ -188,6 +195,10 @@ field in which to write that it does. Every compiled record carries
 
 `observations/<study-key>.yaml`, one file per study, keyed by the author-year key
 `check_citations.py`, `authorities.ndjson` and `citation_worklist.py` already use.
+A study we produced ourselves is keyed the same way and names its release in
+`study.release`; two versions of one release that report different estimates are
+two files, because an adjusted estimate is a different measurement and
+overwriting the first would destroy what was published at the time.
 
 **Not inside a claim's `sources[]` frontmatter**, for three reasons read out of the
 code: that block is *derived* (`sync_evidence_codes.py --apply` rebuilds it through
@@ -212,7 +223,14 @@ schema_version: 2
 
 study:                       # the SOURCE
   key:                       # required — equals the filename, lowercase ASCII
-  citation:                  # required
+  citation:                  # required UNLESS `release:` is given
+  release: {ref, version}    # the source is a research RELEASE of ours rather than
+                             # a paper we read (research/releases/<ref>/<version>).
+                             # It replaces `citation` — a release already carries
+                             # title, authors, version and date, and a second copy
+                             # here is the drift shape this repo knows well.
+                             # Pinned to the version that produced the result and
+                             # never moved to a later one.
   doi:                       # string, or null (null is a VERDICT: none registered).
                              # Omitting says only "not established".
   design:
@@ -242,7 +260,18 @@ provenance:                  # required
 
 appears_in:                  # OPTIONAL; each entry validated when present
   - claim:                   # a claims/ slug
-    anchor:                  # a `### Author Year` heading slug on that page
+    bearing:                 # REQUIRED — supports | contradicts | qualifies.
+                             # A property of the EDGE: one result supports one
+                             # claim and qualifies another, and the same claim is
+                             # supported by one record and contradicted by the
+                             # next. Never defaulted — a record read as `supports`
+                             # because nobody said otherwise is a fabrication.
+    anchor:                  # OPTIONAL — a `### Author Year` heading slug on that
+                             # page. Absent means the record names the proposition
+                             # WITHOUT having been written into its argument, which
+                             # is the normal state for new evidence: promoting it
+                             # into `## Evidence` is an editorial act. Ratcheted
+                             # when present, so a rename still fails loudly.
 
 evidence_base:               # required — what the results are ABOUT
   unit:                      # required — participants | studies | reports | classes
@@ -278,6 +307,11 @@ observations:                # required, non-empty
   - id:                      # required, unique in this file
     sample: {value, unit}    # the analysed n for THIS result
     comparison_ref:          # required — names a comparison, including kind `none`
+    analysis_ref:            # an analysis id declared by the release in
+                             # `study.release`. Closes the chain claim <- evidence
+                             # <- analysis <- dataset <- release <- protocol, so
+                             # "why does the wiki believe this" reaches the code
+                             # and the data instead of stopping at a citation.
     outcome:
       construct:             # required — your normalised label
       source_language:       # required — the author's own wording, preserved

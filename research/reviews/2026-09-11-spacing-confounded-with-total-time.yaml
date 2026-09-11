@@ -1,0 +1,82 @@
+# SYNTHETIC EXAMPLE — a review of a study that does not exist, by a person who
+# does not exist. It is here to test whether a review is representable as a
+# first-class object attached to a versioned research release.
+#
+# What it demonstrates: a contribution whose value comes from having TAUGHT in
+# the setting, not from a credential. Nothing in this schema scores, weights or
+# ranks that — `author.basis` records what grounds this contribution and stops.
+
+schema_version: 1
+
+review:
+  id: 2026-09-11-spacing-confounded-with-total-time
+  created_at: 2026-09-11
+  review_type: methodological_concern
+
+  target:
+    kind: release
+    ref: example-spaced-review-scheduling
+    # The version is required, and this is why: after 1.1.0 ships, this review
+    # still points at the 1.0.0 its author actually read. A review that silently
+    # re-pointed at later work would be attributing an opinion nobody holds.
+    version: 1.0.0
+    locator: research_design.detail
+
+  assertion: >-
+    The release states that total review time was held constant across arms,
+    but the design section describes holding the review time BUDGET constant,
+    which in a self-paced course is not the same thing.
+
+  rationale: >-
+    A budget is an offer; time on task is a behaviour. Learners in the spaced
+    arm meet the review items on more occasions, and each occasion carries its
+    own re-entry cost — reopening the course, reorienting to the material. If
+    realised time on task differed between arms, the reported advantage is
+    partly an effect of additional time rather than of distribution, and the
+    release does not report the realised figures that would settle it. Those
+    figures are in the attempt-events dataset the release already declares, so
+    this is answerable without new collection.
+
+  evidence:
+    - kind: evidence
+      ref: example-spaced-review-2026/retention-four-week
+      note: >-
+        The record's own observability block says implementation_detail is only
+        partly observed, for the adjacent reason.
+
+  author:
+    id: human:example-reviewer
+    # The whole of "provenance over prestige" in one field: what grounds THIS
+    # contribution. The same person writing a review having only read the
+    # abstract would carry `read-the-release` alone, and that would be visible.
+    basis:
+      - practitioner-in-this-setting
+      - read-the-release
+    # Claimed, not verified: nothing here authenticates anybody, and no
+    # institution, rank or degree is required for this object to exist.
+    identity_state: unverified_identity
+    stated_affiliation: >-
+      SYNTHETIC — a further-education tutor who runs self-paced courses; no
+      research affiliation. Recorded because the reviewer volunteered it, and
+      read by nothing.
+    disclosure: none declared
+
+  # The problem this contribution is an instance of. Written from this end
+  # because the reviewer knew they were raising it; the issue names this review
+  # back, and validation checks both halves agree.
+  issues:
+    - time-on-task-not-held-constant
+
+  # Checkable properties of FORM, which a future prominence calculation may
+  # read. Nothing here records whether anybody agreed.
+  assessment:
+    target_specific: true
+    rationale_present: true
+    evidence_present: true
+    independently_reproduced: true   # see the reanalysis review of 2026-09-12
+    duplicate_of: null
+    assessed_by: claude/unspecified
+    assessed_at: 2026-09-11
+    note: >-
+      Author-entered in this fixture. These are all computable from the object
+      and the graph, and are expected to become computed.

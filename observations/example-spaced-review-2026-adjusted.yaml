@@ -1,0 +1,125 @@
+# SYNTHETIC EXAMPLE — the evidence produced by release 1.1.0.
+#
+# A SEPARATE FILE from example-spaced-review-2026.yaml on purpose. That record
+# is what release 1.0.0 observed, and it stays exactly as it was published; an
+# adjusted estimate is a different measurement of the same contrast, produced
+# by a different analysis, in a later version. Editing the first record to
+# carry the new number would destroy the thing the whole layer is for — the
+# ability to read what was claimed at the time, beside what is claimed now.
+#
+# Both records bear on the same claim, and they do not agree about how large
+# the effect is. That is a normal state and the store represents it directly.
+
+schema_version: 2
+
+study:
+  key: example-spaced-review-2026-adjusted
+  release:
+    ref: example-spaced-review-scheduling
+    version: 1.1.0
+  design:
+    family: randomized-controlled-trial
+    design_detail: >-
+      The same randomised contrast as release 1.0.0, re-estimated with realised
+      time on task in the model. The adjustment is post hoc, chosen after the
+      confound was raised in review, and is weaker than a design that had held
+      time constant.
+
+provenance:
+  source_type: synthetic-simulation
+  extracted_by: claude/unspecified
+  extracted_at: 2026-09-11
+  extraction_method: manual-from-publisher-fulltext
+  verification: unverified
+
+appears_in:
+  - claim: spaced-practice-improves-long-term-retention
+    # `qualifies`, not `supports`: this record says the effect exists but is
+    # smaller than the unadjusted estimate and is not separable from time on
+    # task in this design. The direction is a property of the edge, which is
+    # why two records from one investigation can carry different ones.
+    bearing: qualifies
+    note: >-
+      SYNTHETIC. No anchor: nothing fabricated may appear in a real claim's
+      evidence section.
+
+evidence_base:
+  unit: participants
+  size:
+    value: 412
+    unit: participants
+  population:
+    description: >-
+      The same 412 consenting adult learners as release 1.0.0; no new
+      collection.
+  context:
+    setting: Self-paced online course on a hosted platform
+    delivery_mode: Asynchronous, learner-scheduled
+  arms:
+    - id: spaced-review
+      description: Review items distributed across sessions.
+      size:
+        value: 206
+        unit: participants
+    - id: massed-review
+      description: The same review items presented together at the end of each unit.
+      size:
+        value: 206
+        unit: participants
+
+comparisons:
+  - id: spaced-vs-massed-adjusted
+    kind: between-groups
+    index_arm: spaced-review
+    reference_arm: massed-review
+    description: >-
+      The randomised contrast of review scheduling, with realised time on task
+      as a covariate.
+
+observations:
+  - id: retention-four-week-adjusted
+    sample:
+      value: 388
+      unit: participants
+    comparison_ref: spaced-vs-massed-adjusted
+    analysis_ref: time-on-task-model
+    outcome:
+      construct: Delayed retention of course content
+      source_language: four-week retention check score, adjusted for time on task
+      measure: 40-item retention check drawn from the same item families as practice
+      scale: 0-40
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: stated
+      anchors:
+        - claims/spaced-practice-improves-long-term-retention
+    time:
+      label: Four weeks after the final unit
+      offset:
+        value: 4
+        unit: weeks
+        from: completion of the final unit
+    result:
+      measure_type: cohens_d
+      estimate: 0.12
+      ci_lower: -0.08
+      ci_upper: 0.32
+      model: >-
+        Linear model with arm and realised total time on task; the covariate was
+        chosen after the confound was raised, not preregistered.
+      interpretation: >-
+        With time on task in the model the advantage is small and the interval
+        spans zero. This is not a demonstration that distribution does nothing;
+        it is a demonstration that this design cannot separate the two.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: >-
+      SYNTHETIC. From release 1.1.0: with time on task in the model the
+      advantage falls to d = 0.12 with an interval spanning zero.
+    source_location: release 1.1.0, interpretation

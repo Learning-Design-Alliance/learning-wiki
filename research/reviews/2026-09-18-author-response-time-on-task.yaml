@@ -1,0 +1,44 @@
+# SYNTHETIC EXAMPLE. The authors' reply is a review like any other — same
+# object, same required assertion and rationale, same `basis`. It is not a
+# privileged reply slot, and it does not close the issue by existing.
+
+schema_version: 1
+
+review:
+  id: 2026-09-18-author-response-time-on-task
+  created_at: 2026-09-18
+  review_type: response
+
+  target:
+    kind: issue
+    ref: time-on-task-not-held-constant
+
+  assertion: >-
+    The reanalysis is correct: time on task was not held constant, and the
+    1.0.0 estimate should not be read as an estimate of scheduling alone.
+
+  rationale: >-
+    SYNTHETIC. Rerunning the model with time on task as a covariate reduces the
+    estimate materially. The release's own wording — that the review time
+    BUDGET was held constant — described the manipulation accurately while the
+    interpretation did not, which is the error. A new version reports both the
+    unadjusted and adjusted estimates rather than replacing one with the other,
+    so that what 1.0.0 said remains readable beside what 1.1.0 says.
+
+  author:
+    id: claude/unspecified
+    basis:
+      - reanalysed-the-data
+      - read-the-release
+    identity_state: unverified_identity
+    disclosure: An author of the release under review.
+
+  issues:
+    - time-on-task-not-held-constant
+
+  assessment:
+    target_specific: true
+    rationale_present: true
+    evidence_present: true
+    independently_reproduced: unassessed
+    duplicate_of: null

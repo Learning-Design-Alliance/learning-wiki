@@ -33,6 +33,7 @@ provenance:
 
 appears_in:
   - claim: game-based-practice-outperforms-traditional-l2-vocabulary-instruction
+    bearing: supports
     anchor: frolli-et-al-2023
 
 evidence_base:
