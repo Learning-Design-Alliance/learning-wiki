@@ -30,6 +30,7 @@ What the method does **not** supply is warrant. A logic model is a statement of 
 #### Requirements
 - A stated outcome somebody actually wants, distinct from the activity that is supposed to produce it
 - A willingness to mark the design's own reasoning as reasoning — an unmarked arrow reads to a later reader as a finding
+- Somewhere to record *what kind* of warrant each link has. Published research is one kind; a programme's own outcome data, a consistent account from practitioners, and an organisation's records are others, and flattening them into "cited or not" discards the distinction the chain exists to make visible
 - Named capabilities to anchor the chain to; without them the model floats free of the instruction and becomes a funder document
 
 #### Constraints
@@ -59,7 +60,7 @@ What the method does **not** supply is warrant. A logic model is a statement of 
 2. **Work backward one link at a time.** For each outcome, ask what has to happen immediately before it. Stop when the chain reaches a capability the goal structure already claims.
 3. **Anchor the near end to named capabilities.** The point at which the chain touches [Backward Design](backward-design.md)'s desired results is the join between what is graded and what is believed.
 4. **Write the reason for each arrow** — not the generic claim, which belongs in the literature, but why this link is plausible for *this* design and *these* learners.
-5. **Mark each link's warrant.** Published finding, held position, or the design's own reasoning. Three different things, and only the first is evidence.
+5. **Mark each link's warrant, and mark it by kind.** Published research, the programme's own data, a consistent report from the people doing the work, the organisation's own records, a held position, or the design's own reasoning — these are different kinds of thing and a chain that does not distinguish them cannot be argued with. Only the last is not evidence at all, and saying so is what makes the rest of the chain worth reading.
 6. **Say where each link becomes observable.** A link nobody can ever check is a belief; a link checkable in six weeks is a plan.
 7. **Check the shape.** A chain that loops back on itself is not modelling feedback, it is failing to distinguish two outcomes at two horizons.
 
