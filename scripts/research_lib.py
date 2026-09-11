@@ -53,9 +53,9 @@ value and a loud one.
 
 ABSENCE IS NOT A VERDICT (the same rule as everywhere else in this repo)
 -----------------------------------------------------------------------
-`consent.secondary_research_use: false` says somebody established that
-secondary use is not permitted. Omitting the field says nobody has established
-anything, and nothing may act on it. The two must never collapse, so the
+`consent.permitted_uses: {model-training: prohibited}` says somebody
+established that this use is not allowed. Omitting the class says nobody has
+established anything, and nothing may act on it. The two must never collapse, so the
 fields where the difference has consequences are REQUIRED and carry an
 explicit `unspecified` value rather than being left out. Same discipline as
 `"doi": null` vs an absent `doi`, `crossref_reachable: false` vs `flagged`,
@@ -147,6 +147,35 @@ ACCESS_CEILING = {"raw": "collected", "derived": "collected",
 
 CONSENT_MECHANISMS = {"explicit", "broad", "opt-out", "waived",
                       "not-applicable", "unspecified"}
+
+# WHAT THE DATA MAY BE USED FOR — a closed vocabulary, because the first real
+# protocol immediately needed a use it could refuse.
+#
+# Learning telemetry collected under terms of service, with no research consent
+# step, may legitimately be used to check that a pipeline works and may NOT be
+# published as research. Written as free text that distinction is a sentence
+# nobody reads; written as classes it is `check_release_against_protocol`
+# refusing a release, which is the only form of the rule that holds.
+#
+# `model-training` is here because being able to say `prohibited` about it out
+# loud, permanently, in a file a release is checked against, is worth more than
+# the same sentence in a privacy policy.
+USE_CLASSES = {
+    "internal-pipeline-validation",   # does the pipeline work; never leaves the org
+    "product-improvement",            # making the courses better for the learners in them
+    "research-analysis",              # analysed for research, not necessarily published
+    "research-publication",           # findings published as a research release
+    "secondary-research-by-others",   # investigators outside the collecting team
+    "model-training",
+    "other",
+}
+
+# Three states, never two. `prohibited` says somebody established that this use
+# is not allowed — which a later batch can be refused on. An ABSENT class means
+# `unspecified`: nobody has established anything, and nothing may rely on it.
+# Absence is therefore safe by construction, and adding a class to the
+# vocabulary later cannot invalidate an already-frozen protocol file.
+USE_STATES = {"permitted", "prohibited", "unspecified"}
 
 RISK_CLASSES = {"minimal", "more-than-minimal", "not-determined"}
 
@@ -533,17 +562,36 @@ def _validate_consent(block, key, issues):
     required_flag = block.get("required")
     _bool(issues, where, required_flag, "required", required=True)
     _enum(issues, where, block.get("mechanism"), CONSENT_MECHANISMS, "mechanism", required=True)
-    # Tri-state on purpose: `false` is a decision that secondary use is not
-    # permitted, and a later batch that reuses the data can be refused on it.
-    # `unspecified` refuses nothing and claims nothing.
-    _bool(issues, where, block.get("secondary_research_use"), "secondary_research_use",
-          required=True, allow_tristate=True)
     _bool(issues, where, block.get("ai_processing_disclosed"), "ai_processing_disclosed",
           required=True, allow_tristate=True)
     if block.get("ai_processing_disclosed") is True:
         _str(issues, where, block.get("ai_processing_detail"), "ai_processing_detail",
              required=True)
-    _list_of_str(issues, where, block.get("permitted_uses"), "permitted_uses", required=True)
+
+    # `secondary_research_use` was a separate tri-state flag in the first draft.
+    # It is exactly `permitted_uses: {secondary-research-by-others: ...}` said a
+    # second way, and two places to state one fact is the drift shape this repo
+    # has lost weeks to. Refused by name so it cannot quietly come back.
+    if "secondary_research_use" in block:
+        _err(issues, where, "`secondary_research_use` is not a consent field: it is "
+                            "`permitted_uses: {secondary-research-by-others: permitted "
+                            "| prohibited | unspecified}`, said once")
+
+    uses = block.get("permitted_uses")
+    if not isinstance(uses, dict):
+        _err(issues, where, "permitted_uses must be a mapping of use class to "
+                            f"{' | '.join(sorted(USE_STATES))} — a free-text list cannot be "
+                            f"checked, and the rule that a release may not publish from "
+                            f"data that does not permit it is the whole point of writing "
+                            f"the protocol as configuration. Classes: "
+                            f"{', '.join(sorted(USE_CLASSES))}")
+    else:
+        for cls, state in uses.items():
+            if cls not in USE_CLASSES:
+                _err(issues, f"{where}.permitted_uses", f"{cls!r} is not a use class; "
+                             f"expected one of {', '.join(sorted(USE_CLASSES))}")
+            _enum(issues, f"{where}.permitted_uses", state, USE_STATES, cls, required=True)
+    _str(issues, where, block.get("permitted_uses_note"), "permitted_uses_note")
 
     if required_flag is True:
         # What the participant was actually shown. This is the field that makes
@@ -1231,6 +1279,31 @@ def check_release_against_protocol(rel, rel_key, protocol, issues):
                  f"analysis declares ai_processing: true, but the protocol's consent "
                  f"records ai_processing_disclosed: "
                  f"{consent.get('ai_processing_disclosed')!r}")
+
+    # A RELEASE IS A PUBLICATION. So naming a protocol that does not permit
+    # research publication is not a paperwork problem, it is the release saying
+    # it may not exist.
+    #
+    # This is the check the first real protocol needed on the day it was
+    # scoped: platform telemetry collected under terms of service, with no
+    # research consent step, is legitimately usable to validate a pipeline and
+    # is NOT publishable as research. Without this, a release could draw on it
+    # and every other check would pass.
+    #
+    # `unspecified` and absent both fail, and are reported differently, because
+    # "we decided not to" and "nobody has decided" are different states and the
+    # second is the one that gets fixed by asking somebody.
+    uses = consent.get("permitted_uses")
+    state = uses.get("research-publication") if isinstance(uses, dict) else None
+    if state != "permitted":
+        shown = repr(state) if state else "not stated (so: unspecified)"
+        why = ("Publication is prohibited under this protocol."
+               if state == "prohibited" else
+               "Nobody has established that these data may be published as research; "
+               "that has to be settled in the protocol, not here.")
+        _err(issues, rel_key,
+             f"this release publishes findings, but its protocol's consent records "
+             f"permitted_uses['research-publication'] as {shown}. {why}")
 
 
 def validate_all() -> list:

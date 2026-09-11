@@ -90,13 +90,25 @@ consent:
       raw store within 30 days. Estimates already published in a release are
       NOT recomputed: a release is an immutable record of what was analysed at
       the time, and the release notes that withdrawals occurred.
+  # Checkable, not prose. A release naming this protocol is refused unless
+  # `research-publication` is `permitted` here — which is what makes the line
+  # between "data we may learn the pipeline on" and "data we may publish from"
+  # a guard rather than a sentence.
+  #
+  # An ABSENT class means `unspecified`: nobody established anything, and
+  # nothing may rely on it. `prohibited` is a decision, and a later batch can
+  # be refused on it.
   permitted_uses:
-    - Research into instructional design and learning outcomes
-    - Improvement of the courses on the platform
-    - Publication of aggregate findings as research releases
-  # A verdict, not a default: secondary research use by other investigators
-  # was disclosed and is permitted, under the same identifiability ceiling.
-  secondary_research_use: true
+    internal-pipeline-validation: permitted
+    product-improvement: permitted
+    research-analysis: permitted
+    research-publication: permitted
+    secondary-research-by-others: permitted
+    model-training: prohibited
+  permitted_uses_note: >-
+    SYNTHETIC. Publication is permitted only in aggregate, which the
+    identifiability ceiling below enforces separately. Model training is
+    prohibited outright and was disclosed as prohibited at consent.
   ai_processing_disclosed: true
   ai_processing_detail: >-
     Open-text responses may be coded by a large language model, with a

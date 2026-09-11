@@ -736,12 +736,24 @@ does not constitute it.** `external_review.status` is a five-value vocabulary
 claims by different parties. It is deliberately not spelled yes/no: **YAML 1.1 reads
 a bare `yes` as the boolean `True`**, which broke the first draft of the fixture.
 
-**Two enforcement checks are implemented, narrowly, to prove the arrow
+**Three enforcement checks are implemented, narrowly, to prove the arrow
 `machine-readable protocol → automated checking` is real:** a dataset may not be
-more identifiable than its protocol permits at its access class, and an analysis
+more identifiable than its protocol permits at its access class; an analysis
 declaring `ai_processing: true` requires `consent.ai_processing_disclosed: true`
-(`unspecified` fails as well as `false` — silence is not permission). Both were
-verified by mutating the fixture until they fired.
+(`unspecified` fails as well as `false` — silence is not permission); and a
+release requires `permitted_uses['research-publication'] == permitted` on its
+protocol, because a release IS a publication. All three were verified by mutating
+the fixture until they fired.
+
+**`consent.permitted_uses` is a mapping of closed classes, not a list of
+sentences**, and the first real protocol forced that on day one: platform
+telemetry collected under terms of service, with no research consent step, may
+legitimately validate a pipeline and may **not** be published as research. As
+prose that line is unenforceable; as classes it is a release being refused. An
+absent class means `unspecified`, so absence is safe and growing the vocabulary
+cannot invalidate a frozen protocol file. `secondary_research_use` was a separate
+flag and is now **refused by name** — it is
+`permitted_uses: {secondary-research-by-others: ...}` said twice.
 
 **Review is a structured contribution, not a comment, and never evidence.**
 `assertion` and `rationale` are required and the target must resolve, so a bare

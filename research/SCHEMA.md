@@ -151,8 +151,14 @@ consent:
     effect_on_collected_data:      # required — "you may withdraw" and "what
                                    # happens to what you already gave us" are
                                    # two promises; only the second is operational
-  permitted_uses: [...]            # required
-  secondary_research_use:          # required — true | false | unspecified
+  permitted_uses:                  # required — a MAPPING, not a list. See below.
+    internal-pipeline-validation:  # permitted | prohibited | unspecified
+    product-improvement:
+    research-analysis:
+    research-publication:
+    secondary-research-by-others:
+    model-training:
+  permitted_uses_note:             # prose beside the classes, never instead of them
   ai_processing_disclosed:         # required — true | false | unspecified
   ai_processing_detail:            # required when disclosed is true
 
@@ -194,6 +200,20 @@ says nobody has established either. It is also deliberately not spelled
 `yes`/`no`: YAML 1.1 reads a bare `yes` as the boolean `True`, so `required: yes`
 arrives as `True` and fails a string check for reasons no author can see. That
 happened while writing this fixture.
+
+**`permitted_uses` is a mapping of closed classes, not a list of sentences, and
+the first real protocol is what forced that.** Platform telemetry collected under
+terms of service, with no research consent step, may legitimately be used to
+check that a pipeline works and may **not** be published as research. Written as
+free text that distinction is a sentence nobody reads; written as classes it is a
+release being refused. An **absent** class means `unspecified` — nobody
+established anything — so absence is safe by construction, and adding a class to
+the vocabulary later cannot invalidate an already-frozen protocol file.
+
+`consent.secondary_research_use` was a separate tri-state flag in the first
+draft. It is exactly `permitted_uses: {secondary-research-by-others: ...}` said a
+second way, so it is now **refused by name** — two places to state one fact is the
+drift shape this repo has lost weeks to.
 
 **`deviations:` is appended to a frozen file, which is the one place that is
 allowed.** A deviation is a fact about the version that was in force when it
@@ -288,10 +308,17 @@ trusts.
 2. **An analysis declaring `ai_processing: true` requires
    `consent.ai_processing_disclosed: true`.** `unspecified` fails as well as
    `false` — silence is not permission.
+3. **A release requires `permitted_uses['research-publication'] == permitted` on
+   its protocol.** A release *is* a publication, so naming a protocol that does
+   not permit publication is the release saying it may not exist. `prohibited`
+   and absent both fail and are reported differently, because "we decided not
+   to" and "nobody has decided" are different states, and only the second is
+   fixed by asking somebody.
 
-Both were tested against the fixture by mutation: publishing a pseudonymous
-dataset, and running an AI analysis under a protocol that did not disclose it,
-each produce exactly one error naming the field that governs it.
+All three were tested against the fixture by mutation — publishing a pseudonymous
+dataset, running an AI analysis under a protocol that did not disclose it, and
+publishing from data whose protocol does not permit publication — each producing
+exactly one error naming the field that governs it.
 
 ---
 
