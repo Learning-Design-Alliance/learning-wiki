@@ -10,6 +10,8 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-11
 
+* **Merge**: PRs #75, #76 and #77 merged to `main` in that order; `main` at `41427124` green on every check and all three `Deploy Docs` runs verified to have succeeded
+* **Audit**: every remote ref compared against `main`. The branch table in CLAUDE.md named three branches that no longer exist and missed six that do; `enrich/droplet-batch-0831` turns out to carry committed conflict markers on one claim page, which `lint --type merge_markers` catches
 * **Schema**: new **research layer** at `research/` — `protocols/`, `releases/`, `reviews/`, `issues/`. Records where knowledge came from and how it can be interrogated, beside the wiki's kinds, which record what we currently believe. Field reference in `research/SCHEMA.md`, rationale in `scripts/research_lib.py`
 * **Decision**: **no `evidence/` object.** `observations/` already is the evidence layer; a second object holding the same fields about the same results is the drift shape this repo has lost weeks to. A release names its findings and each record names the release back, and both halves are required to agree
 * **Schema**: `observations/` gains `study.release`, `observations[].analysis_ref` and a **required** `appears_in[].bearing` (supports / contradicts / qualifies); `appears_in[].anchor` becomes **optional**, so evidence can name a proposition without being written into that claim's argument. Schema stays at version 2; the four existing records were updated

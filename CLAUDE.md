@@ -80,7 +80,8 @@ Ten other remote branches are also fully merged into `main` and equally dead:
 `docs/scale-index-pages`, `feature/source-manifest`, `fix/log-md-formatting`,
 `fix/pages-build-colon-filenames`.
 
-Only four branches still hold unmerged commits:
+Only four branches still hold unmerged commits — **this table was wrong when it was
+written and is wronger now; see the 2026-09-11 audit below before acting on it**:
 
 | Branch | Unmerged | Collision risk |
 |---|---|---|
@@ -88,6 +89,44 @@ Only four branches still hold unmerged commits:
 | `ci/detect-orphaned-pages-v2` | 1 commit, 2 files | Low — `docs.yml` + a new script |
 | `ci/pr-preview-deploys` | contains the above | Low |
 | `docs/material-theme-polish` | 1 commit, 6 files | **High and stale** — 3 days old, edits `build_indexes.py` and four `index.md` files that have since been regenerated many times. Re-derive the `mkdocs.yml`/`build_indexes.py` change on a fresh branch rather than merging this one |
+
+### State as of 2026-09-11 — the research layer landed, and the branch table was wrong
+
+`main` carries the research layer, the first real protocol, and #76's three hard observation
+designs. **PRs #75, #76 and #77 are merged**, in that order, and `main` at `41427124` is green:
+`lint.py` 0, `check_observations` 11 studies / 39 observations 0 issues, `check_research` 0,
+`--crosswalk` 0 gaps, both index `--check`s current, `mkdocs build --strict` exit 0.
+
+**All three `Deploy Docs` runs succeeded — checked rather than assumed**, because this file
+documents four occasions where a merged change was simply absent from the published site while
+`main` said it shipped. The `concurrency` group did its job: the three drained in order.
+
+These three branches are **fully merged and dead** — do not resume a session onto them, do not
+push to them, do not reopen a PR from them:
+
+- `fix/logic-model-warrant-and-methods-folder-criterion` (#75)
+- `feat/observations-cluster-network-singlecase` (#76)
+- `claude/epic-hopper-kxb1a5` (#77)
+
+**The "Only four branches" table above is wrong in both directions, and a hand-maintained
+branch table is why.** Three of the four branches it names **no longer exist**
+(`ci/detect-orphaned-pages-v2`, `ci/pr-preview-deploys`, `docs/material-theme-polish`), and it
+misses six that do. Audited 2026-09-11 by comparing every remote ref against `main`:
+
+```bash
+for b in $(git for-each-ref --format='%(refname:short)' refs/remotes/origin); do
+  echo "$(git rev-list --count origin/main..$b) $b"; done | sort -rn
+```
+
+That takes seconds and settles it. **Do not trust a prose branch list — run the command.**
+
+What actually holds unmerged commits, and what each one is:
+
+| Branch | State |
+|---|---|
+| `claude/standards-design-process-homes-q9qky1` | **Genuinely pending.** 4 commits, 54 files, 24,929 insertions and **0 deletions** — all new `goals/` content. No collision risk, as the older table said. |
+| `enrich/droplet-batch-0831` | **Do not merge as-is.** 115 files, and `claims/acute-exercise-timing-memory.md` carries *committed* conflict markers (`<<<<<<< Updated upstream` / `>>>>>>> Stashed changes`) from an unresolved `git stash pop`. It cannot land silently — `lint.py --type merge_markers` catches it, verified on a trial merge — but the markers must be resolved before anyone tries. |
+| `feat/citation-authorities`, `feat/doi-variant-families`, `fix/strip-doi-case-insensitive`, `fix/crossref-strip-and-metadata`, `fix/verify-each-page-before-filling` | **Superseded, almost certainly.** `main` already carries every artifact each one introduces — `authorities.py`, `apply_authorities.py`, `citation_worklist.py`, `log_authority.py`, `authorities.ndjson`, `check_citations.py --variants`, `proven_fabrications()`, case-insensitive DOI stripping. Each still shows a diff because `main`'s implementation differs, and **nobody has confirmed line-by-line equivalence** — so this says "superseded", not "identical". Re-derive on a fresh branch if something turns out to be missing; do not resume onto one. |
 
 ### The health dashboard refreshes itself
 
