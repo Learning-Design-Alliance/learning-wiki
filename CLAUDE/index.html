@@ -645,6 +645,17 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#state-as-of-2026-09-11-the-research-layer-landed-and-the-branch-table-was-wrong" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        State as of 2026-09-11 — the research layer landed, and the branch table was wrong
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#the-health-dashboard-refreshes-itself" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1125,6 +1136,17 @@
     <span class="md-ellipsis">
       
         State as of 2026-08-31 — the stack is collapsed
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#state-as-of-2026-09-11-the-research-layer-landed-and-the-branch-table-was-wrong" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        State as of 2026-09-11 — the research layer landed, and the branch table was wrong
       
     </span>
   </a>
@@ -1654,7 +1676,8 @@ not push to them, do not reopen a PR from them:</p>
 <code>claude/open-source-license-strategy-6q4gjc</code>, <code>content/merge-headings-and-highlight</code>,
 <code>docs/scale-index-pages</code>, <code>feature/source-manifest</code>, <code>fix/log-md-formatting</code>,
 <code>fix/pages-build-colon-filenames</code>.</p>
-<p>Only four branches still hold unmerged commits:</p>
+<p>Only four branches still hold unmerged commits — <strong>this table was wrong when it was
+written and is wronger now; see the 2026-09-11 audit below before acting on it</strong>:</p>
 <table>
 <thead>
 <tr>
@@ -1683,6 +1706,52 @@ not push to them, do not reopen a PR from them:</p>
 <td><code>docs/material-theme-polish</code></td>
 <td>1 commit, 6 files</td>
 <td><strong>High and stale</strong> — 3 days old, edits <code>build_indexes.py</code> and four <code>index.md</code> files that have since been regenerated many times. Re-derive the <code>mkdocs.yml</code>/<code>build_indexes.py</code> change on a fresh branch rather than merging this one</td>
+</tr>
+</tbody>
+</table>
+<h3 id="state-as-of-2026-09-11-the-research-layer-landed-and-the-branch-table-was-wrong">State as of 2026-09-11 — the research layer landed, and the branch table was wrong<a class="headerlink" href="#state-as-of-2026-09-11-the-research-layer-landed-and-the-branch-table-was-wrong" title="Permanent link">&para;</a></h3>
+<p><code>main</code> carries the research layer, the first real protocol, and #76's three hard observation
+designs. <strong>PRs #75, #76 and #77 are merged</strong>, in that order, and <code>main</code> at <code>41427124</code> is green:
+<code>lint.py</code> 0, <code>check_observations</code> 11 studies / 39 observations 0 issues, <code>check_research</code> 0,
+<code>--crosswalk</code> 0 gaps, both index <code>--check</code>s current, <code>mkdocs build --strict</code> exit 0.</p>
+<p><strong>All three <code>Deploy Docs</code> runs succeeded — checked rather than assumed</strong>, because this file
+documents four occasions where a merged change was simply absent from the published site while
+<code>main</code> said it shipped. The <code>concurrency</code> group did its job: the three drained in order.</p>
+<p>These three branches are <strong>fully merged and dead</strong> — do not resume a session onto them, do not
+push to them, do not reopen a PR from them:</p>
+<ul>
+<li><code>fix/logic-model-warrant-and-methods-folder-criterion</code> (#75)</li>
+<li><code>feat/observations-cluster-network-singlecase</code> (#76)</li>
+<li><code>claude/epic-hopper-kxb1a5</code> (#77)</li>
+</ul>
+<p><strong>The "Only four branches" table above is wrong in both directions, and a hand-maintained
+branch table is why.</strong> Three of the four branches it names <strong>no longer exist</strong>
+(<code>ci/detect-orphaned-pages-v2</code>, <code>ci/pr-preview-deploys</code>, <code>docs/material-theme-polish</code>), and it
+misses six that do. Audited 2026-09-11 by comparing every remote ref against <code>main</code>:</p>
+<div class="highlight"><pre><span></span><code><span class="k">for</span><span class="w"> </span>b<span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="k">$(</span>git<span class="w"> </span>for-each-ref<span class="w"> </span>--format<span class="o">=</span><span class="s1">'%(refname:short)'</span><span class="w"> </span>refs/remotes/origin<span class="k">)</span><span class="p">;</span><span class="w"> </span><span class="k">do</span>
+<span class="w">  </span><span class="nb">echo</span><span class="w"> </span><span class="s2">"</span><span class="k">$(</span>git<span class="w"> </span>rev-list<span class="w"> </span>--count<span class="w"> </span>origin/main..<span class="nv">$b</span><span class="k">)</span><span class="s2"> </span><span class="nv">$b</span><span class="s2">"</span><span class="p">;</span><span class="w"> </span><span class="k">done</span><span class="w"> </span><span class="p">|</span><span class="w"> </span>sort<span class="w"> </span>-rn
+</code></pre></div>
+<p>That takes seconds and settles it. <strong>Do not trust a prose branch list — run the command.</strong></p>
+<p>What actually holds unmerged commits, and what each one is:</p>
+<table>
+<thead>
+<tr>
+<th>Branch</th>
+<th>State</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>claude/standards-design-process-homes-q9qky1</code></td>
+<td><strong>Genuinely pending.</strong> 4 commits, 54 files, 24,929 insertions and <strong>0 deletions</strong> — all new <code>goals/</code> content. No collision risk, as the older table said.</td>
+</tr>
+<tr>
+<td><code>enrich/droplet-batch-0831</code></td>
+<td><strong>Do not merge as-is.</strong> 115 files, and <code>claims/acute-exercise-timing-memory.md</code> carries <em>committed</em> conflict markers (<code>&lt;&lt;&lt;&lt;&lt;&lt;&lt; Updated upstream</code> / <code>&gt;&gt;&gt;&gt;&gt;&gt;&gt; Stashed changes</code>) from an unresolved <code>git stash pop</code>. It cannot land silently — <code>lint.py --type merge_markers</code> catches it, verified on a trial merge — but the markers must be resolved before anyone tries.</td>
+</tr>
+<tr>
+<td><code>feat/citation-authorities</code>, <code>feat/doi-variant-families</code>, <code>fix/strip-doi-case-insensitive</code>, <code>fix/crossref-strip-and-metadata</code>, <code>fix/verify-each-page-before-filling</code></td>
+<td><strong>Superseded, almost certainly.</strong> <code>main</code> already carries every artifact each one introduces — <code>authorities.py</code>, <code>apply_authorities.py</code>, <code>citation_worklist.py</code>, <code>log_authority.py</code>, <code>authorities.ndjson</code>, <code>check_citations.py --variants</code>, <code>proven_fabrications()</code>, case-insensitive DOI stripping. Each still shows a diff because <code>main</code>'s implementation differs, and <strong>nobody has confirmed line-by-line equivalence</strong> — so this says "superseded", not "identical". Re-derive on a fresh branch if something turns out to be missing; do not resume onto one.</td>
 </tr>
 </tbody>
 </table>
