@@ -128,6 +128,70 @@ What actually holds unmerged commits, and what each one is:
 | `enrich/droplet-batch-0831` | **Do not merge as-is.** 115 files, and `claims/acute-exercise-timing-memory.md` carries *committed* conflict markers (`<<<<<<< Updated upstream` / `>>>>>>> Stashed changes`) from an unresolved `git stash pop`. It cannot land silently — `lint.py --type merge_markers` catches it, verified on a trial merge — but the markers must be resolved before anyone tries. |
 | `feat/citation-authorities`, `feat/doi-variant-families`, `fix/strip-doi-case-insensitive`, `fix/crossref-strip-and-metadata`, `fix/verify-each-page-before-filling` | **Superseded, almost certainly.** `main` already carries every artifact each one introduces — `authorities.py`, `apply_authorities.py`, `citation_worklist.py`, `log_authority.py`, `authorities.ndjson`, `check_citations.py --variants`, `proven_fabrications()`, case-insensitive DOI stripping. Each still shows a diff because `main`'s implementation differs, and **nobody has confirmed line-by-line equivalence** — so this says "superseded", not "identical". Re-derive on a fresh branch if something turns out to be missing; do not resume onto one. |
 
+### State as of 2026-09-13 — the extraction target changes: depth in one scale, not coverage
+
+Measured from `learning-engine-ai-frontend/experiments/research-evidence/wiki_trajectory.py`, which
+reads `observations/` at any ref and is meant to be re-run rather than believed.
+
+`main` holds **9 real studies, 36 observations, 9 measure types** (the two `example-*` records
+declare themselves synthetic and are not studies — anything counting 11 is counting fixtures).
+
+**The corpus is no longer diverging, and the old reason for pessimism was wrong.** Earlier notes
+reasoned that each new study tends to open a new measure type, so adding studies would never build
+depth. That treats a small-sample regime as a property of the corpus. There are only so many ways to
+report an effect, and the pool can be estimated rather than assumed: a Chao1 estimate from
+singletons and doubletons gives **13.2 against the 9 types already seen**. The measure-type pool is
+bounded and nearly enumerated. New studies will start deepening existing families instead of opening
+new ones.
+
+**A measure type names an ESTIMATOR. A measure family needs a shared SCALE. These came apart here,
+and it inverts the obvious recommendation.** `regression_coefficient` is the deepest label family at
+3 studies and is **not poolable at all**:
+
+- `zingaretti-2026` — β = 17.17 **words**, β = 13.33 **accuracy points**
+- `rosario-2019` — β = 5.168, three-level growth-curve model, class-level Helmert contrast
+- `jemr-lexical-elaboration-2026` — β = −0.17, unitless
+
+Three studies, three incompatible scales. Counting labels overstates the corpus. Counting *scales*
+also **understates** it in the other direction: **5 of the 9 studies already sit on a common
+standardised-mean-difference axis** once the standard conversions are applied (Borenstein et al.,
+ch. 7) — `guo-2026` and `martinengo-2024` are already d, `mantovani-2026` is r → d,
+`jemr-lexical-elaboration-2026` is log OR → d, `frolli-2023` is η² → d.
+
+#### What to extract next
+
+**Prefer studies that report — or permit conversion to — a standardised mean difference.** Concrete
+ordering when choosing what to ingest:
+
+1. `standardized_mean_difference` / `cohens_d` / `hedges_g` — already on the axis. **2 studies now;
+   the target is 30.**
+2. `correlation`, `odds_ratio`, `risk_ratio`, `partial_eta_squared` — convertible. Record the
+   ingredients a conversion needs (group sizes, baseline risk, df) or it cannot be made later.
+3. Everything else — still worth recording as evidence beside a claim, but it does **not** build the
+   family, so do not count it as progress toward depth.
+
+Do not target `regression_coefficient` merely because it is currently deepest. An unstandardised β
+adds a row and no comparability. A study reporting a **standardised** β does belong in tier 1 — note
+which it is, because the schema's `measure_type` alone cannot tell them apart. That ambiguity is
+itself worth fixing in `observations/SCHEMA.md` when someone next touches it.
+
+**Why this axis and not another.** It is the metric every external corpus this programme can reach
+already uses — What Works Clearinghouse (6,631 independent findings), `metadat`'s education subset
+(303), Ma et al. 2014 on intelligent tutoring (107). Depth in standardised mean difference buys
+comparability *outward* to those, not only statistical power *inward*.
+
+**The size of the prize.** Reaching 30 studies in one family at the corpus's current extraction
+habit takes roughly **90 studies** (95% CI 45–270, wide because it rests on a 3-study family — read
+the order of magnitude, not the point estimate). Extracting deliberately at one scale takes **28
+more**. Same target, roughly a third of the work, and the difference is a choice about *what* to
+extract rather than *how much*.
+
+Re-measure rather than trusting this paragraph:
+
+```bash
+python3 experiments/research-evidence/wiki_trajectory.py --wiki /path/to/learning-wiki
+```
+
 ### The health dashboard refreshes itself
 
 `eval/runs/health.html` used to regenerate only on an enrichment batch, a scraper ingest,
