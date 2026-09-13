@@ -656,6 +656,34 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#state-as-of-2026-09-13-the-extraction-target-changes-depth-in-one-scale-not-coverage" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        State as of 2026-09-13 — the extraction target changes: depth in one scale, not coverage
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="State as of 2026-09-13 — the extraction target changes: depth in one scale, not coverage">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#what-to-extract-next" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        What to extract next
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#the-health-dashboard-refreshes-itself" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1150,6 +1178,34 @@
       
     </span>
   </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#state-as-of-2026-09-13-the-extraction-target-changes-depth-in-one-scale-not-coverage" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        State as of 2026-09-13 — the extraction target changes: depth in one scale, not coverage
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="State as of 2026-09-13 — the extraction target changes: depth in one scale, not coverage">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#what-to-extract-next" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        What to extract next
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
         
@@ -1755,6 +1811,58 @@ misses six that do. Audited 2026-09-11 by comparing every remote ref against <co
 </tr>
 </tbody>
 </table>
+<h3 id="state-as-of-2026-09-13-the-extraction-target-changes-depth-in-one-scale-not-coverage">State as of 2026-09-13 — the extraction target changes: depth in one scale, not coverage<a class="headerlink" href="#state-as-of-2026-09-13-the-extraction-target-changes-depth-in-one-scale-not-coverage" title="Permanent link">&para;</a></h3>
+<p>Measured from <code>learning-engine-ai-frontend/experiments/research-evidence/wiki_trajectory.py</code>, which
+reads <code>observations/</code> at any ref and is meant to be re-run rather than believed.</p>
+<p><code>main</code> holds <strong>9 real studies, 36 observations, 9 measure types</strong> (the two <code>example-*</code> records
+declare themselves synthetic and are not studies — anything counting 11 is counting fixtures).</p>
+<p><strong>The corpus is no longer diverging, and the old reason for pessimism was wrong.</strong> Earlier notes
+reasoned that each new study tends to open a new measure type, so adding studies would never build
+depth. That treats a small-sample regime as a property of the corpus. There are only so many ways to
+report an effect, and the pool can be estimated rather than assumed: a Chao1 estimate from
+singletons and doubletons gives <strong>13.2 against the 9 types already seen</strong>. The measure-type pool is
+bounded and nearly enumerated. New studies will start deepening existing families instead of opening
+new ones.</p>
+<p><strong>A measure type names an ESTIMATOR. A measure family needs a shared SCALE. These came apart here,
+and it inverts the obvious recommendation.</strong> <code>regression_coefficient</code> is the deepest label family at
+3 studies and is <strong>not poolable at all</strong>:</p>
+<ul>
+<li><code>zingaretti-2026</code> — β = 17.17 <strong>words</strong>, β = 13.33 <strong>accuracy points</strong></li>
+<li><code>rosario-2019</code> — β = 5.168, three-level growth-curve model, class-level Helmert contrast</li>
+<li><code>jemr-lexical-elaboration-2026</code> — β = −0.17, unitless</li>
+</ul>
+<p>Three studies, three incompatible scales. Counting labels overstates the corpus. Counting <em>scales</em>
+also <strong>understates</strong> it in the other direction: <strong>5 of the 9 studies already sit on a common
+standardised-mean-difference axis</strong> once the standard conversions are applied (Borenstein et al.,
+ch. 7) — <code>guo-2026</code> and <code>martinengo-2024</code> are already d, <code>mantovani-2026</code> is r → d,
+<code>jemr-lexical-elaboration-2026</code> is log OR → d, <code>frolli-2023</code> is η² → d.</p>
+<h4 id="what-to-extract-next">What to extract next<a class="headerlink" href="#what-to-extract-next" title="Permanent link">&para;</a></h4>
+<p><strong>Prefer studies that report — or permit conversion to — a standardised mean difference.</strong> Concrete
+ordering when choosing what to ingest:</p>
+<ol>
+<li><code>standardized_mean_difference</code> / <code>cohens_d</code> / <code>hedges_g</code> — already on the axis. <strong>2 studies now;
+   the target is 30.</strong></li>
+<li><code>correlation</code>, <code>odds_ratio</code>, <code>risk_ratio</code>, <code>partial_eta_squared</code> — convertible. Record the
+   ingredients a conversion needs (group sizes, baseline risk, df) or it cannot be made later.</li>
+<li>Everything else — still worth recording as evidence beside a claim, but it does <strong>not</strong> build the
+   family, so do not count it as progress toward depth.</li>
+</ol>
+<p>Do not target <code>regression_coefficient</code> merely because it is currently deepest. An unstandardised β
+adds a row and no comparability. A study reporting a <strong>standardised</strong> β does belong in tier 1 — note
+which it is, because the schema's <code>measure_type</code> alone cannot tell them apart. That ambiguity is
+itself worth fixing in <code>observations/SCHEMA.md</code> when someone next touches it.</p>
+<p><strong>Why this axis and not another.</strong> It is the metric every external corpus this programme can reach
+already uses — What Works Clearinghouse (6,631 independent findings), <code>metadat</code>'s education subset
+(303), Ma et al. 2014 on intelligent tutoring (107). Depth in standardised mean difference buys
+comparability <em>outward</em> to those, not only statistical power <em>inward</em>.</p>
+<p><strong>The size of the prize.</strong> Reaching 30 studies in one family at the corpus's current extraction
+habit takes roughly <strong>90 studies</strong> (95% CI 45–270, wide because it rests on a 3-study family — read
+the order of magnitude, not the point estimate). Extracting deliberately at one scale takes <strong>28
+more</strong>. Same target, roughly a third of the work, and the difference is a choice about <em>what</em> to
+extract rather than <em>how much</em>.</p>
+<p>Re-measure rather than trusting this paragraph:</p>
+<div class="highlight"><pre><span></span><code>python3<span class="w"> </span>experiments/research-evidence/wiki_trajectory.py<span class="w"> </span>--wiki<span class="w"> </span>/path/to/learning-wiki
+</code></pre></div>
 <h3 id="the-health-dashboard-refreshes-itself">The health dashboard refreshes itself<a class="headerlink" href="#the-health-dashboard-refreshes-itself" title="Permanent link">&para;</a></h3>
 <p><code>eval/runs/health.html</code> used to regenerate only on an enrichment batch, a scraper ingest,
 the nightly timer, or a service restart — and a <code>git pull</code> is none of those. So the board
