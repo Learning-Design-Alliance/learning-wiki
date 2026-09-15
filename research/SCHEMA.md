@@ -337,6 +337,37 @@ verifier that is not `human:<id>`.
 `conforming` stamped over a failing check fails validation, because that summary
 is precisely the claim a reviewer would be relying on.
 
+### A declared endpoint is not a prespecified hypothesis
+
+`measure` says what will be measured and `analysis_plan.tests` says how it will
+be analysed. Neither says **what result would count against the thing being
+tested**, and without that every outcome can be narrated afterwards as a success
+and the plan is a timestamp on a wish.
+
+```yaml
+endpoints:
+  - name: Four-week retention
+    role: primary
+    measure: Proportion correct on the four-week retention check
+    timepoint: Four weeks after the final unit
+    prespecified_prediction:
+      prediction: The spaced arm scores higher, by at least 3 percentage points.
+      disconfirming_result: >-
+        A difference smaller than 3 points, or favouring the massed arm. A
+        confidence interval containing zero disconfirms it regardless of the
+        point estimate.
+```
+
+**Required on a `primary` endpoint**, because a plan's primary endpoint IS its
+hypothesis. Optional on `secondary` and `safety`. **Refused on `exploratory`** —
+an endpoint with a prediction is not exploratory, and carrying both is precisely
+how an exploratory result is reported later as though it had been predicted.
+
+**There is deliberately no `mode: confirmatory | exploratory` field.** `role`
+already draws that distinction, and a second field saying the same thing is the
+drift shape this repo has lost weeks to. Declaring an endpoint exploratory *in
+advance* is the half people forget and the half that protects the work.
+
 ### Enforcement: protocol as ceiling, study as actual
 
 Three checks are implemented, narrowly, the same way the release checks were —
@@ -385,6 +416,58 @@ approached, how they are put at ease, and how the team is entitled to reach any
 source of information about them. Answering it from the storage and access
 fields would answer a different question convincingly, which is worse than not
 answering it.
+
+---
+
+## The plan-to-report edge, and the diff across it
+
+**A release names the study it reports.** The module docstring said so from the
+start and nothing implemented it, so a plan and the report of it were two
+unconnected files and no reader arriving at either could reach the other.
+
+```yaml
+study: {ref: <study-id>, version: <semver>}   # or:
+no_study_reason:                              # ...why there was no plan
+```
+
+Same shape as `protocol:`, and the same reason for the escape hatch: a secondary
+analysis of somebody else's published data genuinely has no plan of ours, and
+"nobody wrote one" is a different answer that has to stay sayable. The plan's
+`effective_from` is checked against the release's `released_at` — a plan written
+after its own findings plans nothing, and only the dates reveal it.
+
+**Every analysis in a release says whether it was prespecified.**
+`analyses[].prespecified` is required and never defaulted: an absent value would
+make "nobody said" indistinguishable from "this was planned". `false` is an
+ordinary, honest value — a reviewer's question answered after the fact is good
+practice. What would not be is that analysis appearing with nothing to say it
+arrived late.
+
+**`analyses[].endpoint_refs` is a list, and the first draft of `--deviations` is
+why it exists at all.** That version inferred the endpoint-to-analysis link from
+word overlap between endpoint names and analysis titles, and immediately
+reported a `Course completion` endpoint as unreported on a release that reports
+it. A fuzzy join that is wrong is worse than no join, because the output looks
+like a finding. It is declared, resolved against the plan, or absent — and where
+no analysis declares one, `--deviations` says endpoint coverage is *not
+checkable* rather than guessing. A **list** because one analysis routinely
+answers several endpoints: `retention-model` produces both the retention
+estimate and the completion null.
+
+```
+$ python3 scripts/check_research.py --deviations example-spaced-review-scheduling
+study example-spaced-review-scheduling 1.0.0 (effective 2026-09-04)
+  endpoint [primary] Four-week retention  (predicted)
+  endpoint [secondary] Course completion  (predicted)
+  endpoint [exploratory] Reflection code frequency  (no prediction)
+  release example-spaced-review-scheduling 1.0.0 (2026-09-11):
+    no deviation from the plan
+  release example-spaced-review-scheduling 1.1.0 (2026-09-18):
+    + time-on-task-model  run but not in the plan
+```
+
+**It reports rather than judges.** That added analysis answers an issue a
+reviewer raised against 1.0.0, which is exactly what should happen.
 
 ---
 
@@ -958,6 +1041,8 @@ python3 scripts/check_research.py                     # validate; exit 1 on any 
 python3 scripts/check_research.py --summary           # what is in the layer
 python3 scripts/check_research.py --issues            # issues, their state and provenance
 python3 scripts/check_research.py --why <claim-slug>  # the traversal
+python3 scripts/check_research.py --deviations <study-id>   # plan vs report
+python3 scripts/check_research.py --stub-study <study-id>   # a plan skeleton
 python3 scripts/lint.py --type research               # the same checks, in CI
 ```
 
@@ -995,6 +1080,30 @@ claims/spaced-practice-improves-long-term-retention.md  (UNCHANGED)
 `bearing` and no `anchor`, so the edge exists and nothing fabricated appears in a
 real claim's `## Evidence` section. That is also the general rule, not a fixture
 workaround: evidence arriving does not promote itself into an argument.
+
+---
+
+## Two rules that hold across every file here
+
+**A `TODO` anywhere fails validation, comments included.** `--stub` had always
+promised this and delivered two-thirds of it: a marker in an enum or a date
+field failed on its own shape, but one in FREE TEXT validated clean — verified
+by injecting one into `outcome.source_language` and watching the whole store
+report zero. Free text is where a stub puts most of its markers, and on a plan
+it is where `disconfirming_result` lives. A skeleton committable with its
+prediction still unwritten is worse than no skeleton, because it looks
+registered. Scanned over raw file text, so a `# TODO: revisit` comment counts —
+that record is unfinished too.
+
+**Dates are validated as dates.** Every date field accepted any string until a
+draft protocol was written with `effective_from: "NOT ESTABLISHED"` and
+validated clean. These dates are load-bearing — `effective_from` decides which
+version governs a window, and orders a plan against the release reporting it —
+so prose in place of a date makes both unanswerable while still reporting zero.
+A field whose date is not yet known is not yet fillable. PyYAML's own timestamp
+constructor also raises a bare `ValueError` on an impossible date, which used to
+crash both checkers with a traceback instead of reporting one file; both loaders
+now catch it.
 
 ---
 

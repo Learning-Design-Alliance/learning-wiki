@@ -35,6 +35,12 @@ release:
     sessions produce better four-week retention than presenting the same items
     massed at the end of each unit?
 
+# The plan this reports. Written 2026-09-04, a week before these findings —
+# the ordering is checked, not asserted.
+study:
+  ref: example-spaced-review-scheduling
+  version: 1.0.0
+
 protocol:
   ref: example-platform-learning-telemetry
   version: 1.0.0
@@ -104,6 +110,13 @@ datasets:
 analyses:
   - id: retention-model
     title: Between-arm comparison of four-week retention
+    # Declared as the primary endpoint in the 1.0.0 plan. Two endpoints,
+    # because this one model produces both the retention estimate and the
+    # completion null.
+    prespecified: true
+    endpoint_refs:
+      - Four-week retention
+      - Course completion
     code:
       repo: "https://SYNTHETIC-EXAMPLE.invalid/lda/spaced-review-analysis"
       # A commit, never a branch or a tag: a branch moves, and then the
@@ -122,6 +135,10 @@ analyses:
 
   - id: reflection-coding
     title: LLM-assisted coding of open-text reflections, with human-reviewed sample
+    # Declared, and declared EXPLORATORY, in the plan.
+    prespecified: true
+    endpoint_refs:
+      - Reflection code frequency
     code:
       repo: "https://SYNTHETIC-EXAMPLE.invalid/lda/spaced-review-analysis"
       commit: deadbeefdeadbeefdeadbeefdeadbeefdeadbeef   # SYNTHETIC

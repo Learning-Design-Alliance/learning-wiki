@@ -1054,6 +1054,69 @@ publishing (exactly the internal pipeline-validation case `lazuli-platform-telem
 describes) or weaken the publication gate. It is also the object an IRB actually
 reviews: they review a plan, not a paper.
 
+**That reasoning was tested, not assumed, and a parallel branch was rebuilt onto it.**
+Another session had put pre-registration on the release as a `stage: preregistration`
+field. Planning an internal validation study under `lazuli-platform-telemetry` fails —
+*"this release publishes findings, but its protocol's consent records
+permitted_uses['research-publication'] as 'prohibited'"* — so the study is unplannable,
+and the message asserts it publishes findings about a file containing none. **Do not
+reintroduce a `stage:` on the release.** The two objects are not interchangeable and the
+publication gate is what the layer exists to enforce.
+
+**A `primary` endpoint requires `prespecified_prediction: {prediction,
+disconfirming_result}`.** `measure` says what is measured and `analysis_plan.tests` says
+how it is analysed; neither says what result would count AGAINST the hypothesis, and
+without that any outcome can be narrated afterwards as a success. Optional on `secondary`
+and `safety`; **refused on `exploratory`** — an endpoint with a prediction is not
+exploratory, and carrying both is how an exploratory result is reported later as though it
+had been predicted. **There is deliberately no `mode: confirmatory | exploratory` field**:
+`role` already draws that line, and a second field saying the same thing is the drift shape
+this repo has lost weeks to on DOIs.
+
+**A release names the study it reports** — `study: {ref, version}`, or
+`no_study_reason:` for a secondary analysis that genuinely had no plan of ours. The
+docstring claimed this edge from the start and nothing implemented it, so a plan and its
+report were two unconnected files. The plan's `effective_from` is checked against the
+release's `released_at`: a plan written after its own findings plans nothing, and only the
+dates reveal it.
+
+**`analyses[].prespecified` is required and never defaulted**, and `false` is an ordinary
+honest value — a reviewer's question answered after the fact is good practice; what would
+not be is that analysis appearing with nothing to say it arrived late.
+
+**`analyses[].endpoint_refs` is declared, never inferred, and is a LIST.** The first draft
+of `--deviations` matched endpoint names against analysis titles by word overlap and
+immediately reported an endpoint as unreported on a release that reports it — a fuzzy join
+that is wrong is worse than none, because the output looks like a finding. Where no
+analysis declares one, `--deviations` says endpoint coverage is *not checkable* rather than
+guessing. A list because one analysis routinely answers several endpoints.
+
+```bash
+python3 scripts/check_research.py --deviations <study-id>   # plan vs report
+python3 scripts/check_research.py --stub-study <study-id>   # a plan skeleton
+```
+
+**`--deviations` reports rather than judges.** The spaced-review fixture's 1.1.0 adds
+`time-on-task-model` to answer a reviewer's issue, and that is what should happen.
+
+**A `TODO` anywhere in an `observations/` or `research/` file now fails validation, comments
+included.** `--stub` promised this and delivered two-thirds: a marker in an enum or a date
+failed on its own shape, but one in **free text validated clean** — verified by injecting one
+into `outcome.source_language` and watching the whole store report zero. On a plan, free text
+is where `disconfirming_result` lives; a skeleton committable with its prediction still
+unwritten looks registered and is not.
+
+**Dates are validated as dates**, after a draft protocol with `effective_from: "NOT
+ESTABLISHED"` validated clean. And PyYAML's timestamp constructor raises a bare `ValueError`
+on an impossible date, which crashed both checkers with a traceback instead of reporting one
+file; both loaders now catch it.
+
+**The study's own `enrolment.special_populations` was never shape-checked** — only the
+protocol's — so a scalar there crashed `check_study_against_protocol` with an
+`AttributeError`. Found by typing `special_populations: none`, which reads as a perfectly
+reasonable thing to write. It is a mapping per class, because the protocol ceiling is checked
+per class and "which ones" is what a scalar cannot answer.
+
 **What lives on the study is what varies per study** — the governing rule `observations/`
 established. A protocol has no single question, no enrolment target and no endpoint,
 because it governs a family. So `question`, `background`, `design`, `setting`,

@@ -335,6 +335,35 @@ def _elements(elements, issues, where):
 
 # -------------------------------------------------------------- the validator
 
+# `--stub` has always promised that "the validator refuses the file until the
+# TODOs are gone", and that was only ever two-thirds true. A TODO landing in an
+# enum (`family: TODO`) or a date field fails on its own shape — but a TODO in a
+# free-text field validated clean, verified by injecting one into
+# `outcome.source_language` and watching the whole store report 0 issues.
+#
+# Free text is where a stub puts most of its TODOs, and on a study plan it is
+# where `disconfirming_result` lives — the one field prespecification rests on.
+# A skeleton that can be committed with its prediction still reading TODO is
+# worse than no skeleton, because it looks registered.
+#
+# Scanned over the raw file text rather than the parsed record: a TODO in a key,
+# a comment or a nested structure nothing else reads is the same unfinished
+# file, and parsing to find it would mean walking every container by hand.
+TODO_RE = re.compile(r"\bTODO\b")
+
+
+def find_todos(text: str, where: str) -> list:
+    """Unfilled stub markers, as (line number, line) — one issue per file."""
+    hits = [(i, ln.strip()) for i, ln in enumerate(text.splitlines(), 1)
+            if TODO_RE.search(ln)]
+    if not hits:
+        return []
+    shown = "; ".join(f"line {i}: {ln[:60]}" for i, ln in hits[:3])
+    more = f" (+{len(hits) - 3} more)" if len(hits) > 3 else ""
+    return [f"{where}: {len(hits)} unfilled TODO marker(s) — {shown}{more}. "
+            f"A stub is not a record until every one is answered from the source"]
+
+
 def validate_record(rec: dict, key: str, claim_index: dict | None = None) -> list:
     """Return a list of human-readable problems. Empty list means valid."""
     issues: list = []
@@ -1004,10 +1033,18 @@ def load_all(directory: Path | None = None) -> tuple[dict, list]:
     if not directory.is_dir():
         return records, errors
     for path in sorted(directory.glob("*.yaml")):
+        text = path.read_text(encoding="utf-8")
         try:
-            records[path.stem] = yaml.safe_load(path.read_text(encoding="utf-8"))
-        except yaml.YAMLError as e:
+            records[path.stem] = yaml.safe_load(text)
+        except (yaml.YAMLError, ValueError) as e:
+            # ValueError as well as YAMLError: PyYAML's own timestamp
+            # constructor raises a bare ValueError on an impossible date
+            # (`2026-13-45` -> "month must be in 1..12"), so one typo crashed
+            # the whole checker with a traceback instead of reporting one
+            # problem in one file.
             errors.append(f"{path.name}: not valid YAML — {e}")
+            continue
+        errors.extend(find_todos(text, path.name))
     return records, errors
 
 

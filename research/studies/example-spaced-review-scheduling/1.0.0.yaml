@@ -1,0 +1,222 @@
+# ============================================================================
+# SYNTHETIC EXAMPLE — the PLAN for a release that already exists here.
+#
+# This is the fixture for prespecification, and it deliberately reuses the
+# spaced-review scenario rather than inventing a second one:
+#
+#   study    THIS FILE                        the plan, 2026-09-04
+#   release  example-spaced-review-scheduling/1.0.0   the findings, 2026-09-11
+#   release  example-spaced-review-scheduling/1.1.0   a revision, 2026-09-18
+#
+# It exists so `--deviations` is exercised in CI rather than by hand:
+#
+#   python3 scripts/check_research.py --deviations example-spaced-review-scheduling
+#
+# reports `time-on-task-model` as an analysis 1.1.0 ran that this plan does not
+# declare. That is NOT misconduct — it answers an issue a reviewer raised
+# against 1.0.0, which is exactly what should happen. What would be a problem is
+# that analysis appearing with nothing to say it arrived late, which is why the
+# release records it as `prespecified: false`.
+#
+# THE MUTATION TESTS THIS FIXTURE SUPPORTS. Each should produce exactly one
+# error naming the rule that governs it:
+#   - drop `prespecified_prediction` from the primary endpoint
+#   - give the `exploratory` endpoint a `prespecified_prediction`
+#   - set `effective_from` later than the release's `released_at`
+#   - point a release's `study.version` at a version that does not exist
+# ============================================================================
+
+schema_version: 1
+
+study:
+  id: example-spaced-review-scheduling
+  version: 1.0.0
+  title: >-
+    SYNTHETIC EXAMPLE — Spaced review scheduling versus end-of-unit review in a
+    self-paced online course: study plan
+  status: planned
+  # BEFORE the release it plans. The ordering is the whole point and it is
+  # checked: `_check_study_join` refuses a plan that takes effect after the
+  # findings it claims to have planned.
+  effective_from: 2026-09-04
+  question: >-
+    In a self-paced online course, does distributing review items across
+    sessions produce better four-week retention than presenting the same items
+    massed at the end of each unit?
+  background: >-
+    SYNTHETIC. The laboratory spacing literature is consistent, and almost all
+    of it holds session boundaries fixed. A self-paced course cannot: the
+    manipulation sets the schedule of what is OFFERED and the learner sets the
+    schedule of what is DONE, so the realised interval is measured rather than
+    controlled. Whether the effect survives that is the open question.
+
+protocol:
+  ref: example-platform-learning-telemetry
+  version: 1.0.0
+
+design:
+  family: randomized-controlled-trial
+  detail: >-
+    SYNTHETIC. Learners randomised 1:1 at enrolment to a spaced or massed review
+    schedule. Item pool, item count and total review time budget held constant
+    across arms; only the scheduling differs.
+  allocation: >-
+    Individually randomised at enrolment. No clustering: learners in a
+    self-paced course share no teaching group.
+  # Whether this plan was ALSO deposited with an external registry. The
+  # guarantee this repo offers is git commit history in a public repo, which is
+  # real and weaker than a third-party timestamp; a study that has to convince a
+  # sceptical outsider should carry a registry identifier as well.
+  preregistration:
+    registered: false
+    note: >-
+      SYNTHETIC. Not externally registered. The record of when this plan existed
+      is the commit that added it, which is self-attested.
+
+setting:
+  conducted_where: >-
+    SYNTHETIC. Entirely within an existing self-paced online course. No learner
+    encounters anything outside the normal course.
+  recruitment_sites: The course itself, at enrolment.
+  resources:
+    staff:
+      - SYNTHETIC — one investigator, part-time across the enrolment window.
+    investigator_time: SYNTHETIC. Roughly one day a week.
+    participant_support: >-
+      None anticipated: the course is taken as normal and nothing asked of a
+      learner touches a sensitive topic.
+
+enrolment:
+  planned: {value: 900, unit: learners}
+  justification: >-
+    SYNTHETIC. 900 completing the retention check gives 80% power to detect a
+    3-percentage-point between-arm difference at the expected variance, which is
+    the smallest difference anyone would act on.
+  # A mapping per class, not a bare `none`: the protocol ceiling is checked
+  # per class, and "which ones" is the question a scalar cannot answer.
+  special_populations:
+    minors: excluded
+    adults-unable-to-consent: excluded
+    pregnant-women: not-addressed
+    prisoners: excluded
+
+timelines:
+  participation_duration: >-
+    Course length plus four weeks to the retention check.
+  enrolment_period: >-
+    Until 900 have completed the retention check, or 12 weeks of enrolment,
+    whichever comes first. Stated here so the stopping rule cannot be chosen
+    after looking at the data.
+  estimated_completion: SYNTHETIC. Primary analysis within one month of closure.
+
+procedures:
+  steps:
+    - Learners are randomised to a schedule at enrolment.
+    - Both arms receive the same items and the same total review budget.
+    - A retention check is administered four weeks after the final unit.
+    - Open-text reflections are coded with model assistance and a reviewed sample.
+  instruments:
+    - The course's existing retention check (24 items).
+    - The end-of-unit reflection prompt.
+  data_quality:
+    procedures:
+      - >-
+        Attempt-grain events validated against the pipeline's own schema before
+        analysis; out-of-range values are quarantined rather than corrected.
+      - >-
+        The realised spacing interval is computed from the events rather than
+        assumed from the assignment, and reported per arm.
+      - >-
+        A human-reviewed sample of every model-assisted coding run, with the
+        codebook published so the coding can be inspected and disputed.
+
+endpoints:
+  - name: Four-week retention
+    role: primary
+    measure: >-
+      Proportion correct on the four-week retention check, per learner, across
+      the full item pool.
+    timepoint: Four weeks after the final unit
+    # THE FIELD THAT MAKES A PLAN WORTH WRITING. `measure` says what will be
+    # measured and `analysis_plan.tests` says how; neither says what result
+    # would count AGAINST the hypothesis, and without that every outcome can be
+    # narrated afterwards as a success.
+    prespecified_prediction:
+      prediction: >-
+        The spaced arm scores higher than the massed arm on the four-week
+        retention check, by at least 3 percentage points.
+      disconfirming_result: >-
+        A between-arm difference smaller than 3 percentage points, or favouring
+        the massed arm, at the target sample size. A confidence interval
+        containing zero disconfirms the prediction regardless of the point
+        estimate.
+
+  - name: Course completion
+    role: secondary
+    measure: Proportion of enrolled learners reaching the final unit.
+    timepoint: At course closure
+    prespecified_prediction:
+      prediction: >-
+        Completion does not differ between arms. Scheduling changes when items
+        are seen, not how much work there is.
+      disconfirming_result: >-
+        A between-arm difference in completion of more than 5 percentage points
+        in either direction.
+
+  - name: Reflection code frequency
+    role: exploratory
+    measure: Frequency of each reflection code across open-text responses, by arm.
+    timepoint: At course closure
+    # No prediction, and the schema REFUSES one here. Declaring this exploratory
+    # in advance is the half people forget: it is what stops a striking code
+    # frequency being written up later as though it had been expected.
+
+analysis_plan:
+  approach: >-
+    SYNTHETIC. Between-arm comparison of retention on the randomised
+    assignment, analysed as randomised. Realised spacing interval is described
+    but is not a covariate in the primary model, because it is measured after
+    randomisation and adjusting on it would condition on a post-treatment
+    variable.
+  tests:
+    - Two-sample comparison of proportion correct, with a 95% confidence interval.
+    - Risk difference in completion between arms, with a 95% confidence interval.
+  missing_data: >-
+    Learners who do not reach the retention check are reported as a count per
+    arm and are not imputed. Differential dropout is itself a finding.
+  multiplicity: >-
+    One primary endpoint, so no adjustment. The secondary and exploratory
+    endpoints are reported without inferential claims.
+
+benefits:
+  to_participants: none-to-participants
+  detail: >-
+    SYNTHETIC. Both arms receive the same quantity of review, so neither is
+    disadvantaged relative to the other.
+
+participant_burden:
+  costs: none
+  detail: No monetary cost and no time beyond the course as normally taken.
+
+results_sharing:
+  policy: aggregate-to-participants
+  detail: >-
+    SYNTHETIC. Aggregate findings are published as a release. No individual
+    result is returned to any learner.
+
+community_involvement:
+  involved: false
+  detail: >-
+    SYNTHETIC. No learner was involved in designing this study, which is a
+    limitation rather than a decision.
+
+determination:
+  status: not-sought
+
+provenance:
+  authors:
+    - id: claude/unspecified
+      role: constructed the example
+  source_type: synthetic-simulation
+  created_at: 2026-09-15
+  verification: unverified
