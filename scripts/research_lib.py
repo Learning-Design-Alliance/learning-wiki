@@ -194,7 +194,7 @@ PROCESSING_BASES = {
 #
 # `basis: licence` is the only value that changes what another check does, so
 # it is the only one that can be abused, and the guard has to be structural
-# rather than advisory. Four conditions, all required together:
+# rather than advisory. FIVE conditions, all required together:
 #
 #   1. `consent.licence: {id, ref, holder}` — the actual instrument, who
 #      granted it, and where to read it. A basis nobody can look up is a claim.
@@ -206,6 +206,13 @@ PROCESSING_BASES = {
 #      the question does not apply here, rather than `unspecified`, which means
 #      nobody looked. The author has to say which of those it is.
 #   4. `data.identifiability.collected` is `deidentified` or `aggregate`.
+#   5. `consent.sources_uniformly_governed: true` — the relaxation is a claim
+#      about EVERY source a release analyses. A protocol governing sources held
+#      under different instruments has made it about one of them, and without
+#      this a single licensed corpus would buy the relaxation for every other
+#      source in the protocol. Added 2026-09-15 from
+#      `learning-graph-structure` 1.0.0, whose three sources are held under a
+#      licence, a bilateral undertaking, and nothing at all.
 #
 # CONDITION 4 IS THE ONE THAT MATTERS. It is what stops this becoming a general
 # escape hatch: a licence can be granted over data a depositor de-identified
@@ -214,6 +221,13 @@ PROCESSING_BASES = {
 # so it structurally cannot reach this path however its consent block is
 # written — which is the property to preserve if this is ever changed again.
 LICENCE_IDENTIFIABILITY = {"deidentified", "aggregate"}
+
+#: `additional_bases` accepts one value the top-level `basis` does not. A
+#: protocol covering simulated participants governs a source with no instrument
+#: at all, and `not-established` would be wrong — nothing is unestablished,
+#: there is nothing to establish. Only legal in the per-source list, because a
+#: protocol whose ONLY source is ungoverned has no consent question to record.
+ADDITIONAL_BASES = PROCESSING_BASES | {"none"}
 
 # How age was ESTABLISHED. An inclusion criterion of "18+" is not evidence of
 # age; these say what kind of evidence there is, and `not-established` is a
@@ -867,6 +881,8 @@ def _validate_consent(block, key, issues):
     # else will do.
     basis = block.get("basis")
     _enum(issues, where, basis, PROCESSING_BASES, "basis")
+    if basis is not None:
+        _validate_governance_uniformity(block, where, issues)
     if basis == "licence":
         _validate_licence_basis(block, where, issues)
     elif "licence" in block:
@@ -961,8 +977,62 @@ def _check_licence_basis_identifiability(rec, key, issues):
              f"pseudonymised, the basis is whatever those people were actually told")
 
 
+def _validate_governance_uniformity(block, where, issues):
+    """`basis` holds ONE value; a protocol may govern sources held under several.
+
+    A protocol covering two corpora — one openly licensed, one used under a
+    bilateral undertaking with its depositor — has one `basis` field and two
+    instruments. Whichever is recorded, the other is invisible, and the failure
+    is silent: the record validates, nothing is wrong on its face, something is
+    merely absent.
+
+    It is not symmetric, which is why this is an error rather than a note. The
+    value an author reaches for is the one governing the corpus doing the most
+    work, and that is usually the PERMISSIVE one; the instrument left out is
+    usually the restrictive one, because restrictive arrangements attach to the
+    data somebody was careful about. A reader who checks `consent.basis` and
+    stops has then read the weakest constraint in the protocol and missed the
+    strongest — the exact inversion of what a consent field is for.
+
+    So an author declaring a basis must say whether it covers everything, and
+    if it does not, name what else governs. Raised by
+    `learning-graph-structure` 1.0.0, whose three sources are held under a
+    licence, a bilateral undertaking, and nothing at all."""
+    uniform = block.get("sources_uniformly_governed")
+    _bool(issues, where, uniform, "sources_uniformly_governed", required=True)
+    extra = block.get("additional_bases")
+
+    if uniform is True:
+        if extra is not None:
+            _err(issues, where, "`additional_bases` is only meaningful when "
+                                "`sources_uniformly_governed` is false — listing one "
+                                "beside a claim that every source is governed alike "
+                                "contradicts the claim")
+        return
+    if uniform is not False:
+        return                      # the _bool above already reported it
+
+    if not isinstance(extra, list) or not extra:
+        _err(issues, where, "`sources_uniformly_governed` is false, so "
+                            "`additional_bases` is required and non-empty: naming the "
+                            "one instrument in `basis` and stopping is how the "
+                            "restrictive arrangement disappears from the record")
+        return
+    for i, e in enumerate(extra):
+        ew = f"{where}.additional_bases[{i}]"
+        if not isinstance(e, dict):
+            _err(issues, ew, "each entry is a mapping of {source, basis, note}")
+            continue
+        _str(issues, ew, e.get("source"), "source", required=True)
+        _enum(issues, ew, e.get("basis"), ADDITIONAL_BASES, "basis", required=True)
+        # Prose is required here and nowhere else in this block, because the
+        # enum is precisely what could not express this arrangement — that is
+        # why the protocol is in this branch at all.
+        _str(issues, ew, e.get("note"), "note", required=True)
+
+
 def _validate_licence_basis(block, where, issues):
-    """The four conditions in LICENCE_BASIS_REQUIREMENTS, checked here so a
+    """The conditions above, checked here so a
     malformed licence basis fails in the protocol that wrote it rather than
     only in whichever release later names it.
 
@@ -1012,6 +1082,14 @@ def _validate_licence_basis(block, where, issues):
         _err(issues, where, "basis is `licence`, so `required` must be false: the basis "
                             "on which WE process is the licence, and a research consent "
                             "we neither sought nor hold cannot also be the basis")
+
+    # NOT AN ERROR HERE, deliberately. A protocol may hold a real licence over one
+    # source and other instruments over the rest; saying so is the honest record and
+    # it still needs the licence block for the source that has one. What it loses is
+    # the relaxation, and that bites in `_licence_basis_holds` — at the release, where
+    # an analysis actually reaches for it. Failing the protocol instead would punish
+    # the declaration rather than the use, and the way authors route around a rule
+    # that punishes honesty is by claiming uniformity they have not got.
 
 
 def _validate_data(block, key, issues):
@@ -1339,6 +1417,23 @@ def _validate_analyses(analyses, key, issues, datasets):
             for dep in inputs:
                 if dep not in dataset_ids:
                     _err(issues, w, f"input {dep!r} names no dataset in this release")
+        # Optional — plenty of analyses read data and emit a number. But an
+        # analysis that DOES declare what it produced has to declare it the way
+        # it declares what it consumed, or the two halves of the data lineage
+        # are written in different languages and nothing can walk it. A file
+        # path is the tempting wrong answer: it names where a result was
+        # written, not what the result is, and the next analysis downstream
+        # cannot cite it.
+        outputs = a.get("outputs")
+        if outputs is not None:
+            if not isinstance(outputs, list):
+                _err(issues, w, "outputs: must be a list of dataset ids this release "
+                                "declares (a file path belongs in artifacts:)")
+            else:
+                for dep in outputs:
+                    if dep not in dataset_ids:
+                        _err(issues, w, f"output {dep!r} names no dataset in this release "
+                                        f"(a file path belongs in artifacts:)")
         # Read by check_release_against_protocol against the protocol's
         # consent disclosure. Tri-state, because "nobody recorded whether a
         # model touched this" is not "no model touched it".
@@ -1676,6 +1771,13 @@ def _licence_basis_holds(protocol) -> bool:
         return False
     if consent.get("required") is not False:
         return False
+    # CONDITION 5. The relaxation is a claim about ALL the data a release
+    # analyses, and a protocol whose sources are governed differently has not
+    # made that claim — it has made it about one of them. Without this, a
+    # single licensed corpus would buy the relaxation for every other source
+    # in the protocol, including ones held under arrangements that forbid it.
+    if consent.get("sources_uniformly_governed") is not True:
+        return False
     data = (protocol or {}).get("data") or {}
     ident = data.get("identifiability") if isinstance(data.get("identifiability"), dict) else {}
     return ident.get("collected") in LICENCE_IDENTIFIABILITY
@@ -1714,11 +1816,26 @@ def check_release_against_protocol(rel, rel_key, protocol, issues):
     # `_licence_basis_holds` is deliberately strict about what counts, and its
     # identifiability condition means a protocol governing identified or
     # pseudonymised records cannot take the second path at all.
+    #
+    # A THIRD CASE, which is neither path: an analysis whose inputs contain no
+    # participants at all. A model summarising authored capability statements,
+    # or run over simulated records, has used AI and engaged no disclosure
+    # question — there is nobody whose disclosure could be at issue. Keyed off
+    # the datasets' own `identifiability`, so claiming it requires having
+    # already claimed the data has no participants, which is checkable and
+    # which a reviewer looking at a learner corpus would catch. Raised by
+    # `learning-graph-budget-2026`, whose generation-stability analysis runs a
+    # model over 18 human-AUTHORED graphs.
     licence_basis = _licence_basis_holds(protocol)
+    by_id = {d.get("id"): d for d in (rel.get("datasets") or []) if isinstance(d, dict)}
     for i, a in enumerate(rel.get("analyses") or []):
         if not isinstance(a, dict) or a.get("ai_processing") is not True:
             continue
         if consent.get("ai_processing_disclosed") is True or licence_basis:
+            continue
+        inputs = [by_id.get(x) for x in (a.get("inputs") or [])]
+        if inputs and all(isinstance(d, dict) and d.get("identifiability") == "not-applicable"
+                          for d in inputs):
             continue
         if consent.get("basis") == "licence":
             # They reached for the licence path and it did not hold. Say which
@@ -1729,8 +1846,8 @@ def check_release_against_protocol(rel, rel_key, protocol, issues):
                  "`consent.basis: licence`, but that basis does not hold — see the "
                  "protocol's own errors for which of the licence conditions is "
                  "unmet (licence block, secondary_use_caveats, "
-                 "ai_processing_disclosed: not-applicable, required: false, or "
-                 "de-identified collected data)")
+                 "ai_processing_disclosed: not-applicable, required: false, "
+                 "de-identified collected data, or sources_uniformly_governed)")
             continue
         _err(issues, f"{rel_key}.analyses[{i}]",
              f"analysis declares ai_processing: true, but the protocol's consent "
@@ -2381,6 +2498,8 @@ def validate_all() -> list:
                  f"research/releases/")
             continue
         _check_analysis_refs(rec, study_key, releases[pair], issues)
+        _check_release_cites_observations(rec, study_key, releases[pair],
+                                          pair[0], pair[1], issues)
 
     for rid, rec in sorted(reviews.items()):
         if isinstance(rec, dict):
@@ -2462,6 +2581,33 @@ def _check_evidence_join(rel, rid, version, obs_records, issues):
                  f"observations/{study_key}.yaml does not name this release back "
                  f"(study.release.ref is {named.get('ref')!r}, expected {rid!r}) — "
                  f"an edge written from one side only reads as working from that side")
+
+
+def _check_release_cites_observations(rec, study_key, release, rid, version, issues):
+    """The mirror of _check_evidence_join, walked from the observation side.
+
+    _check_evidence_join catches a release that cites an observation nobody
+    wrote. This catches the opposite and more common failure: an observation
+    record that names a release which never names it back. That edge reads as
+    working from the observation, and from the release the finding simply is
+    not there — a release whose `evidence:` is short, or missing entirely,
+    looks complete, because absence has no anchor to be absent from.
+
+    Every observation, not just the record: a release citing one finding out of
+    five leaves four that no reader arriving from the release can reach, and
+    the release is the front door."""
+    key = f"releases/{rid}/{version}"
+    cited = {str(e.get("ref")) for e in (release or {}).get("evidence") or []
+             if isinstance(e, dict)}
+    for o in rec.get("observations") or []:
+        if not isinstance(o, dict) or not o.get("id"):
+            continue
+        ref = f"{study_key}/{o['id']}"
+        if ref not in cited:
+            _err(issues, key,
+                 f"observations/{study_key}.yaml names this release but the release "
+                 f"does not cite {ref!r} in `evidence:` — the finding is unreachable "
+                 f"from the release that published it")
 
 
 def _check_analysis_refs(rec, study_key, release, issues):

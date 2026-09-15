@@ -52,18 +52,24 @@ work is done, not that the check is broken.
 - **Links to filenames containing parentheses need the `<...>` form.** A bare destination
   closes at the first `)`. `scripts/fix_links.py --apply` repairs them; lint's
   `link_needs_angle_brackets` catches new ones.
-- **`consent.basis: licence` must keep its four conditions, and condition 4 above
+- **`consent.basis: licence` must keep its five conditions, and condition 4 above
   all.** A licence basis satisfies the research layer's AI-processing check in
   place of a participant disclosure, which is correct for secondary data — but
   it is the only value in that schema that relaxes a check, so it is the only
   one that can be abused. It requires a named licence with its grantor, a
   non-empty `secondary_use_caveats`, `ai_processing_disclosed: not-applicable`,
-  and **`data.identifiability.collected` of `deidentified` or `aggregate`**. That
-  last one is what stops it becoming a one-line escape hatch: it is why
+  **`data.identifiability.collected` of `deidentified` or `aggregate`**, and (added
+  2026-09-15) **`sources_uniformly_governed: true`**. The fourth is what stops it
+  becoming a one-line escape hatch: it is why
   `lazuli-platform-telemetry` cannot reach the path however its consent block is
   written. Simplifying these conditions away would silently re-open the check the
-  layer exists to enforce. Reasoning in `research/SCHEMA.md` ("Secondary data"),
-  mutation list in the fixture header at
+  layer exists to enforce. The fifth stops one licensed corpus buying the
+  relaxation for every other source in a protocol that governs several — declaring
+  `sources_uniformly_governed: false` is honest and costs the relaxation, which is
+  the intended outcome, and the fix for a protocol needing both is to split it.
+  Reasoning in `research/SCHEMA.md` ("Secondary data" and "One value, several
+  instruments"), mutation list — now six, all of which must break the benchmark
+  release — in the fixture header at
   `research/protocols/example-open-corpus-secondary-use/1.0.0.yaml`.
 - **`scripts/find_title_duplicates.py` reports ~943 near-duplicate title pairs.** That is a
   known backlog, mostly hyphen-vs-underscore variants of one page. It is reported, not
@@ -71,6 +77,18 @@ work is done, not that the check is broken.
 
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
+
+### 2026-09-15 — `consent.basis` gained a uniformity condition
+
+`basis` holds one value; a protocol may govern sources held under several. Raised by
+`learning-graph-structure` 1.0.0 in learning-engine-ai-frontend, whose three sources sit
+under a CC-BY-NC licence, a bilateral undertaking that is none of the four enum values,
+and nothing at all. `sources_uniformly_governed` is now **required wherever `basis` is
+set**, `additional_bases` is required and non-empty when it is false, and `true` is the
+fifth condition of the licence relaxation. Nothing was removed — the guard gained a
+condition rather than losing one, and all six fixture mutations were verified to break
+the benchmark release. Two protocols in learning-engine-ai-frontend were migrated in the
+same change.
 
 ### State as of 2026-08-31 — the stack is collapsed
 
