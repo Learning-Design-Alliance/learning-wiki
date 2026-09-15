@@ -102,6 +102,11 @@ consent:
   required: true
   mechanism: explicit
   basis: participant-consent
+  # One classroom study, one instrument: parental permission plus student
+  # assent, covering every source this protocol governs. Added when #83's
+  # condition 5 landed — each tree was correct alone and the merge broke,
+  # because a newly required field cannot exist in a branch cut before it.
+  sources_uniformly_governed: true
   ai_processing_disclosed: true
   ai_processing_detail: >-
     SYNTHETIC. The permission and assent forms both state that written
