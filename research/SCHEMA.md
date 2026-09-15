@@ -14,9 +14,9 @@ Who challenged or reproduced it?
 ```
 
 ```
-Protocol ──> Research Release ──> Evidence ──> Claim
-                                     ^
-                            Review ──┴── Issue
+Protocol ──> Study ──> Research Release ──> Evidence ──> Claim
+                                               ^
+                                      Review ──┴── Issue
 ```
 
 > Field reference below. The rationale, and the reading of the existing code
@@ -94,6 +94,7 @@ orphaning the record.
 research/
   SCHEMA.md
   protocols/<id>/<version>.yaml     versioned, immutable
+  studies/<id>/<version>.yaml       versioned, immutable — the PLAN
   releases/<id>/<version>.yaml      versioned, immutable
   reviews/<review-id>.yaml          not versioned; a changed mind is a new review
   issues/<issue-id>.yaml            one problem, however many people found it
@@ -266,6 +267,124 @@ which is a different and false statement. Whether it should instead be an
 append-only NDJSON log beside the object — the shape `manifest.ndjson` and
 `authorities.ndjson` already use here — is **open**, and left open until a real
 deviation exists.
+
+---
+
+## Study — the plan, which is what a reviewer actually reads
+
+A protocol governs a *family* of investigations. A release reports one that has
+finished. Between them sits the thing an IRB is actually handed: a plan for one
+study, written before it runs.
+
+**Why this is not a release, which is the decision the rest of the object
+follows from.** A release IS a publication — the layer already refuses one whose
+protocol does not carry `permitted_uses['research-publication'] == permitted`.
+A plan is not a publication. Folding the two together forces one of two bad
+outcomes:
+
+- planning becomes impossible wherever publication is prohibited, which is
+  exactly the internal pipeline-validation case `lazuli-platform-telemetry`
+  describes; or
+- the publication gate is weakened to let plans through, which is the check the
+  layer exists to enforce.
+
+Neither is acceptable, so the plan is its own object. It is also the object a
+reviewer reviews: BRANY's SBER template asks for a study plan, not a paper.
+
+**What lives here rather than on the protocol, and why.** The governing rule is
+the one `observations/` already established: *put information at the lowest
+level at which it actually varies.* A protocol has no single question, no
+enrolment target and no endpoint, because it governs many studies. So
+`question`, `background`, `design`, `setting`, `resources`, `enrolment`,
+`timelines`, `procedures`, `endpoints`, `analysis_plan`, `benefits`,
+`participant_burden`, `results_sharing` and `community_involvement` are all
+properties of the study.
+
+**Counts carry their unit.** `enrolment.planned: {value: 480, unit: students}`,
+because in a cluster design the number randomised and the number analysed are
+different numbers of different things, and a bare integer reports them
+interchangeably.
+
+**A declared endpoint is not a measured one, and the schema keeps them apart.**
+`endpoints[]` here says what the study set out to test; `observations/` records
+what was measured. The difference between the two lists is precisely what
+preregistration exists to police, and it is only visible because they are
+separate records. At least one endpoint must carry `role: primary` — a plan with
+only secondary endpoints has not said what it is testing.
+
+**`status` changes over time and the file is immutable, so a transition is a
+version bump.** That is the point rather than a cost: a material change writes a
+new version, which invalidates the conformance result computed against the old
+one, which is the escalation mechanism.
+
+### `conformance` is machine-authored; `determination` is not
+
+These are two blocks, deliberately, and the separation is the same discipline
+`sources/authorities.ndjson` enforces when `append_authority()` refuses any
+verifier that is not `human:<id>`.
+
+- **`conformance`** records what a MACHINE computed: which ruleset, at which
+  version, on what date, with which checks passing or failing. A result that
+  does not name the ruleset it was computed against cannot be re-checked or
+  superseded, so `ruleset: {ref, version}` is required.
+- **`determination`** records what a PERSON or a BODY decided. Anything beyond
+  `not-sought` / `pending` requires an `authority` and a `determined_by`, and
+  `determined_by` must be `human:<id>` or `org:<id>`. **A machine may compute
+  conformance and may never record a determination.** A machine-written
+  determination is an unverified assertion wearing a badge that says otherwise.
+
+`conformance.result` must also agree with the checks it claims to summarise: a
+`conforming` stamped over a failing check fails validation, because that summary
+is precisely the claim a reviewer would be relying on.
+
+### Enforcement: protocol as ceiling, study as actual
+
+Three checks are implemented, narrowly, the same way the release checks were —
+and each was verified by mutating the fixture until it fired:
+
+1. **A study may not enrol a special population its protocol does not permit.**
+   `not-addressed` on the protocol is not permission; it means nobody stated a
+   position, which is the state that needs fixing.
+2. **Consent required by the protocol cannot be documented as `none`** unless a
+   waiver is recorded. A waiver of documentation is a determination, not a
+   default.
+3. **A study enrolling minors requires the protocol's `consent.minors` block** —
+   age of majority and its jurisdiction, whose permission, whose assent, how it
+   is documented, and what happens when a subject attains majority mid-study.
+
+---
+
+## What the protocol gained, and why every addition is optional
+
+A protocol version is an immutable file. A newly *required* field would
+retroactively invalidate every protocol already frozen — so each of these is
+validated only if present:
+
+| field | the question it answers |
+|---|---|
+| `participants.special_populations` | an explicit position on each of the four classes a reviewer requires one for |
+| `consent.process` | where and when consent is obtained, by whom, after what waiting period, in which languages, documented how |
+| `consent.waiver` | which waiver applies, justified against each of the five regulatory criteria as separate checkable fields |
+| `consent.minors` | everything that becomes necessary once a subject is a child |
+| `consent.withdrawal.investigator_initiated` | withdrawal *without* the subject's consent, which is a different promise from withdrawal by them |
+| `data.subject_privacy` | intrusiveness — **not** data confidentiality |
+| `risks.identified[].{probability,magnitude,duration,reversibility}` | the dimensions of a risk, rather than only its name and mitigation |
+| `sites` | multi-site conduct and per-site approvals |
+
+**What optionality buys is expressibility, not enforcement**, and that is worth
+saying plainly. Before these fields, "nobody established this" could not be
+*said* — the question had no home. After them, an absent field reads as
+unestablished rather than as a question the schema cannot pose. Rendering the
+three pre-existing protocols against a reviewer's template shows it directly:
+they went from 13–14 sections the schema could not answer at all to 0–1, without
+a single frozen file being touched.
+
+**`data.subject_privacy` is the one most easily got wrong.** A reviewer's
+template is explicit that it is not about storage: it covers how subjects are
+approached, how they are put at ease, and how the team is entitled to reach any
+source of information about them. Answering it from the storage and access
+fields would answer a different question convincingly, which is worse than not
+answering it.
 
 ---
 

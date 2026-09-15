@@ -104,6 +104,7 @@ WIKI_ROOT = Path(__file__).parent.parent
 RESEARCH_DIR = WIKI_ROOT / "research"
 PROTOCOL_DIR = RESEARCH_DIR / "protocols"
 RELEASE_DIR = RESEARCH_DIR / "releases"
+STUDY_DIR = RESEARCH_DIR / "studies"
 REVIEW_DIR = RESEARCH_DIR / "reviews"
 ISSUE_DIR = RESEARCH_DIR / "issues"
 
@@ -286,6 +287,70 @@ RISK_CLASSES = {"minimal", "more-than-minimal", "not-determined"}
 # is worth more than one that reads a word better.
 EXTERNAL_REVIEW_STATES = {"approved", "exempt", "not-required",
                           "not-determined", "pending"}
+
+
+# ------------------------------------------------- study-plan vocabularies
+#
+# EVERY PROTOCOL FIELD ADDED BELOW IS OPTIONAL, and that is forced rather than
+# chosen: a protocol version is an immutable file, so a newly-required field
+# would retroactively invalidate every protocol already frozen. What the
+# addition buys is not enforcement but EXPRESSIBILITY — before it, "nobody
+# established this" could not be said at all; after it, an absent field reads
+# as unestablished rather than as a question the schema cannot pose.
+
+# BRANY's template requires an explicit include/exclude statement for each of
+# these four, and warns that members may not be enrolled unless named in the
+# inclusion criteria. `not-addressed` is therefore NOT a synonym for excluded:
+# it means nobody stated a position, which is the state that needs fixing.
+SPECIAL_POPULATIONS = {"adults-unable-to-consent", "minors", "pregnant-women",
+                       "prisoners"}
+POPULATION_STANCE = {"included", "excluded", "not-addressed"}
+
+# How consent is recorded. `implied-by-completion` is the anonymous-survey
+# shape; `none` is only legal beside a recorded waiver.
+CONSENT_DOCUMENTATION = {"written-signed", "written-unsigned", "verbal-scripted",
+                         "implied-by-completion", "none"}
+
+WAIVER_KINDS = {"none", "consent", "documentation", "alteration"}
+
+# The five regulatory criteria for a waiver of consent, as fields rather than
+# as a paragraph. A waiver justified in prose cannot be checked; these can.
+WAIVER_CRITERIA = ("minimal_risk", "impracticable_without_waiver",
+                   "identifiable_required", "rights_not_adversely_affected",
+                   "debriefing_where_appropriate")
+
+PARENTAL_PERMISSION = {"one-parent", "both-parents", "guardian-or-other",
+                       "not-applicable"}
+ASSENT_SCOPE = {"all", "some", "none", "not-applicable"}
+ASSENT_DOCUMENTATION = {"signed-assent-form", "documented-on-consent-form",
+                        "verbal-recorded", "not-documented", "not-applicable"}
+
+BENEFIT_STATES = {"none-to-participants", "direct-benefit-possible",
+                  "not-determined"}
+RESULTS_SHARING = {"none", "aggregate-to-participants",
+                   "individual-to-participants", "not-determined"}
+PARTICIPANT_COST = {"none", "time-only", "monetary", "not-determined"}
+
+ENDPOINT_ROLES = {"primary", "secondary", "exploratory", "safety"}
+
+# A study's lifecycle. It changes over time and the file is immutable, so a
+# transition is a VERSION BUMP, not an edit — which is the point: a material
+# change re-triggers the conformance check instead of quietly superseding its
+# result.
+STUDY_STATES = {"planned", "approved", "running", "complete", "abandoned"}
+
+# What a MACHINE computed against a ruleset. Never a determination.
+CONFORMANCE_RESULTS = {"conforming", "nonconforming", "indeterminate"}
+
+# What a PERSON or an IRB decided. `determination` is never machine-authored,
+# for the same reason `append_authority()` refuses a non-`human:` verifier: a
+# machine-written determination is an unverified assertion wearing a badge that
+# says otherwise. The two blocks are separate so that neither can be mistaken
+# for the other, and `not-sought` is the honest default.
+DETERMINATION_STATES = {"not-sought", "pending", "not-human-subjects",
+                        "exempt", "limited-irb-review", "expedited",
+                        "full-board", "refused"}
+
 
 # A tri-state for every consent flag whose absence would otherwise be read as
 # `false`. "Nobody decided" is a state this layer must be able to say out loud.
@@ -620,6 +685,10 @@ def load_releases() -> tuple[dict, list]:
     return _load_versioned(RELEASE_DIR)
 
 
+def load_studies() -> tuple[dict, list]:
+    return _load_versioned(STUDY_DIR)
+
+
 def _load_flat(root: Path) -> tuple[dict, list]:
     records, errors = {}, []
     if not root.is_dir():
@@ -693,8 +762,12 @@ def validate_protocol(rec, pid, version) -> list:
     _date(issues, key, p.get("effective_from"), "protocol.effective_from", required=True)
 
     _validate_participants(rec.get("participants"), key, issues)
+    _validate_sites(rec.get("sites"), key, issues)
     _validate_consent(rec.get("consent"), key, issues)
     _validate_data(rec.get("data"), key, issues)
+    if isinstance(rec.get("data"), dict):
+        _validate_subject_privacy(rec["data"].get("subject_privacy"),
+                                  f"{key}.data", issues)
     _check_licence_basis_identifiability(rec, key, issues)
     _validate_risks(rec.get("risks"), key, issues)
     _validate_external_review(rec.get("external_review"), key, issues)
@@ -754,6 +827,9 @@ def _validate_participants(block, key, issues):
                 continue
             _str(issues, w, v.get("group"), "group", required=True)
             _list_of_str(issues, w, v.get("safeguards"), "safeguards", required=True)
+
+    _validate_special_populations(block.get("special_populations"),
+                                  f"{where}.special_populations", issues)
 
     # HOW AGE WAS ESTABLISHED, not just what the criterion says. "18+" as an
     # inclusion criterion means nothing if it is self-attested and unchecked,
@@ -840,6 +916,11 @@ def _validate_consent(block, key, issues):
             _enum(issues, f"{where}.permitted_uses", state, USE_STATES, cls, required=True)
     _str(issues, where, block.get("permitted_uses_note"), "permitted_uses_note")
 
+    # Optional extensions; see the note beside SPECIAL_POPULATIONS.
+    _validate_consent_process(block.get("process"), where, issues)
+    _validate_consent_waiver(block.get("waiver"), where, issues)
+    _validate_consent_minors(block.get("minors"), where, issues)
+
     if required_flag is True:
         # What the participant was actually shown. This is the field that makes
         # the difference between a protocol and a checkbox: consent is only
@@ -858,6 +939,15 @@ def _validate_consent(block, key, issues):
                 # us" are two promises, and only the second is operational.
                 _str(issues, ww, w.get("effect_on_collected_data"),
                      "effect_on_collected_data", required=True)
+            # Withdrawal WITHOUT the subject's consent is a separate promise
+            # and the template asks for it separately.
+            inv = w.get("investigator_initiated")
+            if isinstance(inv, dict):
+                iw = f"{ww}.investigator_initiated"
+                _bool(issues, iw, inv.get("allowed"), "allowed", required=True)
+                if inv.get("allowed") is True:
+                    _list_of_str(issues, iw, inv.get("circumstances"),
+                                 "circumstances", required=True)
 
 
 def _check_licence_basis_identifiability(rec, key, issues):
@@ -1103,6 +1193,7 @@ def _validate_risks(block, key, issues):
         _str(issues, w, r.get("risk"), "risk", required=True)
         # A risk with no stated mitigation is a risk nobody has decided about.
         _str(issues, w, r.get("mitigation"), "mitigation", required=True)
+        _validate_risk_dimensions(r, w, issues)
 
 
 def _validate_external_review(block, key, issues):
@@ -1793,22 +1884,569 @@ def check_release_against_protocol(rel, rel_key, protocol, issues):
              f"permitted_uses['research-publication'] as {shown}. {why}")
 
 
+
+# ------------------------------------------- optional protocol extensions
+#
+# Each is validated ONLY IF PRESENT. See the note beside SPECIAL_POPULATIONS
+# for why none of them may be required.
+
+
+def _validate_special_populations(block, where, issues):
+    """The four classes BRANY requires an explicit position on."""
+    if block is None:
+        return
+    if not isinstance(block, dict):
+        _err(issues, where, "special_populations must be a mapping of class to "
+                            f"{' | '.join(sorted(POPULATION_STANCE))}; classes: "
+                            f"{', '.join(sorted(SPECIAL_POPULATIONS))}")
+        return
+    for cls, stance in block.items():
+        if cls not in SPECIAL_POPULATIONS:
+            _err(issues, where, f"{cls!r} is not a special population class; expected "
+                                f"one of {', '.join(sorted(SPECIAL_POPULATIONS))}")
+        _enum(issues, where, stance, POPULATION_STANCE, cls, required=True)
+
+
+def _validate_consent_process(block, where, issues):
+    """The mechanics: where, when, by whom, recorded how, in what languages."""
+    if block is None:
+        return
+    w = f"{where}.process"
+    if not isinstance(block, dict):
+        _err(issues, where, "process must be a mapping")
+        return
+    _enum(issues, w, block.get("documentation"), CONSENT_DOCUMENTATION,
+          "documentation", required=True)
+    _str(issues, w, block.get("location"), "location")
+    _str(issues, w, block.get("timing"), "timing")
+    _str(issues, w, block.get("obtained_by"), "obtained_by")
+    _str(issues, w, block.get("waiting_period"), "waiting_period")
+    _list_of_str(issues, w, block.get("languages"), "languages")
+    _list_of_str(issues, w, block.get("comprehension_measures"),
+                 "comprehension_measures")
+    _list_of_str(issues, w, block.get("coercion_safeguards"), "coercion_safeguards")
+
+
+def _validate_consent_waiver(block, where, issues):
+    """A waiver as five checkable criteria rather than a paragraph.
+
+    `identifiable_required` is the one that only applies when the research uses
+    identifiable information, so it is tri-state: `not-applicable` is a real
+    answer here and `unspecified` is not the same as `false`."""
+    if block is None:
+        return
+    w = f"{where}.waiver"
+    if not isinstance(block, dict):
+        _err(issues, where, "waiver must be a mapping")
+        return
+    kind = block.get("kind")
+    _enum(issues, w, kind, WAIVER_KINDS, "kind", required=True)
+    if kind in (None, "none"):
+        return
+    just = block.get("justification")
+    if not isinstance(just, dict):
+        _err(issues, w, "justification is required for any waiver other than `none` — "
+                        "a waiver asserted without its criteria is the regulatory "
+                        f"question skipped. Criteria: {', '.join(WAIVER_CRITERIA)}")
+        return
+    jw = f"{w}.justification"
+    for crit in WAIVER_CRITERIA:
+        entry = just.get(crit)
+        if entry is None:
+            _err(issues, jw, f"{crit} is required: each criterion needs a stated "
+                             f"position, because an unstated one reads as satisfied")
+            continue
+        if not isinstance(entry, dict):
+            _err(issues, jw, f"{crit} must be a mapping {{met, rationale}}")
+            continue
+        _bool(issues, f"{jw}.{crit}", entry.get("met"), "met", required=True,
+              allow_tristate=True)
+        # A criterion asserted without a reason is the paragraph again, one
+        # field at a time.
+        _str(issues, f"{jw}.{crit}", entry.get("rationale"), "rationale", required=True)
+
+
+def _validate_consent_minors(block, where, issues):
+    """Everything the four consent instruments need once a subject is a child.
+
+    This is the largest cluster BRANY's template asks for and the schema had
+    none of it. `reconsent_on_majority` exists because their teen-parent form
+    carries a section for subjects who turn 18 mid-study — a time-dependent
+    transition a filed document cannot notice and a running system can."""
+    if block is None:
+        return
+    w = f"{where}.minors"
+    if not isinstance(block, dict):
+        _err(issues, where, "minors must be a mapping")
+        return
+    # Age alone decides nothing without the jurisdiction that sets it — the
+    # same reasoning as participants.age_assurance.jurisdiction.
+    if block.get("age_of_majority") is not None:
+        v = block.get("age_of_majority")
+        if not isinstance(v, int) or isinstance(v, bool):
+            _err(issues, w, "age_of_majority must be an integer number of years")
+    _str(issues, w, block.get("jurisdiction"), "jurisdiction", required=True)
+    _enum(issues, w, block.get("parental_permission"), PARENTAL_PERMISSION,
+          "parental_permission", required=True)
+    _enum(issues, w, block.get("assent"), ASSENT_SCOPE, "assent", required=True)
+    _enum(issues, w, block.get("assent_documentation"), ASSENT_DOCUMENTATION,
+          "assent_documentation", required=True)
+    _bool(issues, w, block.get("reconsent_on_majority"), "reconsent_on_majority",
+          required=True, allow_tristate=True)
+    if block.get("assent") == "some":
+        _str(issues, w, block.get("assent_scope_detail"), "assent_scope_detail",
+             required=True)
+
+
+def _validate_subject_privacy(block, where, issues):
+    """BRANY section 15, which is NOT data confidentiality.
+
+    Their template is explicit that this covers intrusiveness — how subjects
+    are approached and how the team is permitted to reach information about
+    them. Reusing the storage fields for it would answer a different question."""
+    if block is None:
+        return
+    w = f"{where}.subject_privacy"
+    if not isinstance(block, dict):
+        _err(issues, where, "subject_privacy must be a mapping")
+        return
+    _str(issues, w, block.get("approach"), "approach", required=True)
+    _list_of_str(issues, w, block.get("intrusiveness_measures"),
+                 "intrusiveness_measures")
+    # How the team is entitled to reach each source — a social-media account is
+    # the template's own example, and "it was public" is not an entitlement.
+    _list_of_str(issues, w, block.get("information_sources"), "information_sources")
+
+
+def _validate_sites(block, key, issues):
+    if block is None:
+        return
+    where = f"{key}.sites"
+    if not isinstance(block, list):
+        _err(issues, key, "sites must be a list (empty means single-site)")
+        return
+    for i, site in enumerate(block):
+        w = f"{where}[{i}]"
+        if not isinstance(site, dict):
+            _err(issues, w, "must be a mapping with name and role")
+            continue
+        _str(issues, w, site.get("name"), "name", required=True)
+        _str(issues, w, site.get("role"), "role", required=True)
+        _list_of_str(issues, w, site.get("approvals"), "approvals")
+
+
+def _validate_risk_dimensions(entry, w, issues):
+    """BRANY asks for probability, magnitude, duration and reversibility per
+    risk. Optional, because the existing records predate them."""
+    for field in ("probability", "magnitude", "duration", "reversibility"):
+        if entry.get(field) is not None:
+            _str(issues, w, entry.get(field), field)
+
+
+# --------------------------------------------------------------- the study
+#
+# WHY THIS IS NOT A RELEASE, which is the decision the rest of the object
+# follows from. A release IS a publication — the layer already refuses one
+# whose protocol does not carry `permitted_uses['research-publication'] ==
+# permitted`. A plan is not a publication. Folding the two together would force
+# one of two bad outcomes: planning a study becomes impossible wherever
+# publication is prohibited, which is exactly the internal pipeline-validation
+# case the first real protocol describes; or the publication gate is weakened
+# to let plans through, which is the check the layer exists to enforce. So:
+#
+#     Protocol ──> Study ──> Research Release ──> Evidence ──> Claim
+#
+# A study names its protocol and a release names its study. It is also the
+# object an IRB actually reviews: they review a plan, not a publication.
+
+
+def validate_study(rec, sid, version) -> list:
+    issues: list = []
+    key = f"studies/{sid}/{version}"
+    if not isinstance(rec, dict):
+        return [f"{key}: file does not contain a YAML mapping"]
+    if rec.get("schema_version") != SCHEMA_VERSION:
+        _err(issues, key, f"schema_version is {rec.get('schema_version')!r}; "
+                          f"this reader understands {SCHEMA_VERSION}")
+
+    st = rec.get("study")
+    if not isinstance(st, dict):
+        _err(issues, key, "study: block is required")
+        st = {}
+    _validate_identity(st, key, sid, version, issues, STUDY_DIR)
+    _str(issues, key, st.get("title"), "study.title", required=True)
+    _enum(issues, key, st.get("status"), STUDY_STATES, "study.status", required=True)
+    _date(issues, key, st.get("effective_from"), "study.effective_from", required=True)
+    # Sections 2 and 3 of the template. Required here and absent from the
+    # protocol on purpose: a protocol governs a family of investigations and
+    # has no single question to state.
+    _str(issues, key, st.get("question"), "study.question", required=True)
+    _str(issues, key, st.get("background"), "study.background", required=True)
+
+    proto = rec.get("protocol")
+    if not isinstance(proto, dict) or not proto.get("ref") or not proto.get("version"):
+        _err(issues, key, "protocol: {ref, version} is required — a plan with no "
+                          "governing protocol is the thing this layer exists to "
+                          "prevent")
+
+    _validate_study_design(rec.get("design"), key, issues)
+    _validate_study_setting(rec.get("setting"), key, issues)
+    _validate_study_enrolment(rec.get("enrolment"), key, issues)
+    _validate_study_timelines(rec.get("timelines"), key, issues)
+    _validate_study_procedures(rec.get("procedures"), key, issues)
+    _validate_study_endpoints(rec.get("endpoints"), key, issues)
+    _validate_analysis_plan(rec.get("analysis_plan"), key, issues)
+    _validate_study_participant_facing(rec, key, issues)
+    _validate_conformance(rec.get("conformance"), key, issues)
+    _validate_determination(rec.get("determination"), key, issues)
+    _validate_provenance(rec.get("provenance"), key, issues, authors=True)
+    return issues
+
+
+def _validate_study_design(block, key, issues):
+    where = f"{key}.design"
+    if not isinstance(block, dict):
+        _err(issues, key, "design: block is required")
+        return
+    _enum(issues, where, block.get("family"), DESIGN_FAMILIES, "family", required=True)
+    _str(issues, where, block.get("detail"), "detail", required=True)
+    # Whether people (or classes, or responses) were assigned, and to what.
+    _str(issues, where, block.get("allocation"), "allocation")
+    pre = block.get("preregistration")
+    if not isinstance(pre, dict):
+        _err(issues, where, "preregistration: {registered, ...} is required — "
+                            "'not registered' is an answer and silence is not")
+    else:
+        _bool(issues, f"{where}.preregistration", pre.get("registered"),
+              "registered", required=True)
+        if pre.get("registered") is True:
+            _str(issues, f"{where}.preregistration", pre.get("registry"),
+                 "registry", required=True)
+            _str(issues, f"{where}.preregistration", pre.get("identifier"),
+                 "identifier", required=True)
+
+
+def _validate_study_setting(block, key, issues):
+    where = f"{key}.setting"
+    if not isinstance(block, dict):
+        _err(issues, key, "setting: block is required")
+        return
+    _str(issues, where, block.get("conducted_where"), "conducted_where", required=True)
+    _str(issues, where, block.get("recruitment_sites"), "recruitment_sites",
+         required=True)
+    _list_of_str(issues, where, block.get("site_specific_requirements"),
+                 "site_specific_requirements")
+    # Only a lead investigator coordinating other sites needs this, so it is
+    # optional and the renderer reports its absence against the site count.
+    _list_of_str(issues, where, block.get("multi_site_coordination"),
+                 "multi_site_coordination")
+    res = block.get("resources")
+    if not isinstance(res, dict):
+        _err(issues, where, "resources: block is required — BRANY asks who conducts "
+                            "the research and with what")
+        return
+    rw = f"{where}.resources"
+    _list_of_str(issues, rw, res.get("staff"), "staff", required=True)
+    _str(issues, rw, res.get("investigator_time"), "investigator_time")
+    _str(issues, rw, res.get("participant_support"), "participant_support")
+
+
+def _validate_study_enrolment(block, key, issues):
+    where = f"{key}.enrolment"
+    if not isinstance(block, dict):
+        _err(issues, key, "enrolment: block is required")
+        return
+    # {value, unit} rather than a bare integer, for the reason the observations
+    # layer already established: a count whose unit is implicit is a field
+    # doing several jobs, and nothing can read it.
+    _validate_count(block.get("planned"), f"{where}.planned", issues, required=True)
+    for opt in ("screened", "analysed"):
+        if block.get(opt) is not None:
+            _validate_count(block.get(opt), f"{where}.{opt}", issues)
+    _str(issues, where, block.get("justification"), "justification", required=True)
+
+
+def _validate_count(block, where, issues, required=False):
+    if block is None:
+        if required:
+            _err(issues, where, "is required as {value, unit}")
+        return
+    if not isinstance(block, dict):
+        _err(issues, where, "must be a mapping {value, unit}")
+        return
+    v = block.get("value")
+    if not isinstance(v, int) or isinstance(v, bool):
+        _err(issues, where, "value must be an integer")
+    _str(issues, where, block.get("unit"), "unit", required=True)
+
+
+def _validate_study_timelines(block, key, issues):
+    where = f"{key}.timelines"
+    if not isinstance(block, dict):
+        _err(issues, key, "timelines: block is required")
+        return
+    _str(issues, where, block.get("participation_duration"),
+         "participation_duration", required=True)
+    _str(issues, where, block.get("enrolment_period"), "enrolment_period",
+         required=True)
+    _str(issues, where, block.get("estimated_completion"), "estimated_completion",
+         required=True)
+
+
+def _validate_study_procedures(block, key, issues):
+    where = f"{key}.procedures"
+    if not isinstance(block, dict):
+        _err(issues, key, "procedures: block is required")
+        return
+    _list_of_str(issues, where, block.get("steps"), "steps", required=True)
+    # The surveys, scripts and forms themselves. BRANY asks for them as
+    # attachments; naming them is the least a plan can do.
+    _list_of_str(issues, where, block.get("instruments"), "instruments",
+                 required=True)
+    _list_of_str(issues, where, block.get("recruitment_materials"),
+                 "recruitment_materials")
+    _str(issues, where, block.get("screening"), "screening")
+    qual = block.get("data_quality")
+    if not isinstance(qual, dict):
+        _err(issues, where, "data_quality: block is required")
+    else:
+        _list_of_str(issues, f"{where}.data_quality", qual.get("procedures"),
+                     "procedures", required=True)
+
+
+def _validate_analysis_plan(block, key, issues):
+    """BRANY section 14.1 asks for the analysis plan and the proposed statistical
+    tests. That is a prospective statement, so it belongs on the plan — the
+    release's `analyses` records what was actually run, and the difference
+    between the two is exactly what a reader needs to see."""
+    where = f"{key}.analysis_plan"
+    if not isinstance(block, dict):
+        _err(issues, key, "analysis_plan: block is required — the release's `analyses` "
+                          "records what was run, which is not the same statement as "
+                          "what was planned")
+        return
+    _str(issues, where, block.get("approach"), "approach", required=True)
+    _list_of_str(issues, where, block.get("tests"), "tests", required=True)
+    _str(issues, where, block.get("missing_data"), "missing_data")
+    _str(issues, where, block.get("multiplicity"), "multiplicity")
+
+
+def _validate_study_endpoints(block, key, issues):
+    where = f"{key}.endpoints"
+    if not isinstance(block, list) or not block:
+        _err(issues, key, "endpoints must be a non-empty list — a declared endpoint is "
+                          "what separates a plan from a result, and is the distinction "
+                          "preregistration exists to police")
+        return
+    roles = set()
+    for i, e in enumerate(block):
+        w = f"{where}[{i}]"
+        if not isinstance(e, dict):
+            _err(issues, w, "must be a mapping with name, role and measure")
+            continue
+        _str(issues, w, e.get("name"), "name", required=True)
+        _enum(issues, w, e.get("role"), ENDPOINT_ROLES, "role", required=True)
+        _str(issues, w, e.get("measure"), "measure", required=True)
+        _str(issues, w, e.get("timepoint"), "timepoint", required=True)
+        roles.add(e.get("role"))
+    if "primary" not in roles:
+        _err(issues, where, "no endpoint has role `primary` — a plan with only "
+                            "secondary endpoints has not said what it is testing")
+
+
+def _validate_study_participant_facing(rec, key, issues):
+    """Sections 19, 20, 21 and 24: what the study is for the person in it."""
+    ben = rec.get("benefits")
+    if not isinstance(ben, dict):
+        _err(issues, key, "benefits: block is required — BRANY requires either a "
+                          "stated direct benefit or an explicit statement that there "
+                          "is none")
+    else:
+        _enum(issues, f"{key}.benefits", ben.get("to_participants"), BENEFIT_STATES,
+              "to_participants", required=True)
+        _str(issues, f"{key}.benefits", ben.get("detail"), "detail", required=True)
+
+    burden = rec.get("participant_burden")
+    if not isinstance(burden, dict):
+        _err(issues, key, "participant_burden: block is required — costs the SUBJECT "
+                          "bears. participants.compensation on the protocol is the "
+                          "opposite direction and does not answer it")
+    else:
+        _enum(issues, f"{key}.participant_burden", burden.get("costs"),
+              PARTICIPANT_COST, "costs", required=True)
+        _str(issues, f"{key}.participant_burden", burden.get("detail"), "detail",
+             required=True)
+
+    sharing = rec.get("results_sharing")
+    if not isinstance(sharing, dict):
+        _err(issues, key, "results_sharing: block is required")
+    else:
+        _enum(issues, f"{key}.results_sharing", sharing.get("policy"),
+              RESULTS_SHARING, "policy", required=True)
+        _str(issues, f"{key}.results_sharing", sharing.get("detail"), "detail",
+             required=True)
+
+    # Cannot be defaulted to "not applicable": whether a study was co-designed
+    # with the community it concerns is a fact about the study that nothing
+    # else in the record reveals.
+    community = rec.get("community_involvement")
+    if not isinstance(community, dict):
+        _err(issues, key, "community_involvement: block is required — no default is "
+                          "safe, because nothing else in the record says whether the "
+                          "study was co-designed")
+    else:
+        _bool(issues, f"{key}.community_involvement", community.get("involved"),
+              "involved", required=True)
+        _str(issues, f"{key}.community_involvement", community.get("detail"),
+             "detail", required=True)
+
+
+def _validate_conformance(block, key, issues):
+    """What a MACHINE computed. Optional: a plan exists before it is checked."""
+    if block is None:
+        return
+    where = f"{key}.conformance"
+    if not isinstance(block, dict):
+        _err(issues, key, "conformance must be a mapping")
+        return
+    _enum(issues, where, block.get("result"), CONFORMANCE_RESULTS, "result",
+          required=True)
+    _date(issues, where, block.get("checked_at"), "checked_at", required=True)
+    # WHICH RULESET, at WHICH VERSION. Without it a recorded result says
+    # nothing: rules change, and a pass against a superseded ruleset is not a
+    # pass.
+    ruleset = block.get("ruleset")
+    if not isinstance(ruleset, dict) or not ruleset.get("ref") \
+            or not ruleset.get("version"):
+        _err(issues, where, "ruleset: {ref, version} is required — a conformance "
+                            "result that does not name the rules it was computed "
+                            "against cannot be re-checked or superseded")
+    checks = block.get("checks")
+    if not isinstance(checks, list):
+        _err(issues, where, "checks must be a list of {id, result} entries")
+        return
+    failed = []
+    for i, c in enumerate(checks):
+        w = f"{where}.checks[{i}]"
+        if not isinstance(c, dict):
+            _err(issues, w, "must be a mapping with id and result")
+            continue
+        _str(issues, w, c.get("id"), "id", required=True)
+        _enum(issues, w, c.get("result"), {"pass", "fail", "not-applicable",
+                                           "indeterminate"}, "result", required=True)
+        if c.get("result") == "fail":
+            failed.append(c.get("id"))
+            _str(issues, w, c.get("detail"), "detail", required=True)
+    # The recorded verdict must agree with the checks it claims to summarise.
+    # Nothing else in the record would catch a `conforming` stamped over a
+    # failing check, and that is precisely the claim an IRB would be relying on.
+    if failed and block.get("result") == "conforming":
+        _err(issues, where, f"result is `conforming` but {len(failed)} check(s) "
+                            f"failed ({', '.join(str(f) for f in failed)}) — a summary "
+                            f"that contradicts its own checks is worse than no summary")
+
+
+def _validate_determination(block, key, issues):
+    """What a PERSON or an IRB decided. Never machine-authored."""
+    if block is None:
+        return
+    where = f"{key}.determination"
+    if not isinstance(block, dict):
+        _err(issues, key, "determination must be a mapping")
+        return
+    status = block.get("status")
+    _enum(issues, where, status, DETERMINATION_STATES, "status", required=True)
+    if status in (None, "not-sought", "pending"):
+        return
+    # A determination is a position held by somebody. An automated pathway may
+    # compute conformance; it may not decide that a study is exempt, and the
+    # schema refuses to record one that names nobody.
+    _str(issues, where, block.get("authority"), "authority", required=True)
+    decided_by = block.get("determined_by")
+    _str(issues, where, decided_by, "determined_by", required=True)
+    if isinstance(decided_by, str) and not decided_by.startswith("human:") \
+            and not decided_by.startswith("org:"):
+        _err(issues, where, f"determined_by is {decided_by!r}; a determination is made "
+                            f"by a person (`human:<id>`) or a body (`org:<id>`). A "
+                            f"machine may record conformance and may never record a "
+                            f"determination")
+    _date(issues, where, block.get("determined_at"), "determined_at", required=True)
+    _str(issues, where, block.get("reference"), "reference")
+
+
+def check_study_against_protocol(study, key, protocol, issues) -> None:
+    """The enforcement arrow, narrowly: protocol as ceiling, study as actual.
+
+    Implemented deliberately few and specific, the same way the release checks
+    were. Each one was verified by mutating a fixture until it fired."""
+    consent = protocol.get("consent") or {}
+    participants = protocol.get("participants") or {}
+
+    # 1. A study may not enrol a population its protocol does not permit.
+    permitted = participants.get("special_populations")
+    enrolled = (study.get("enrolment") or {}).get("special_populations") or {}
+    if isinstance(permitted, dict) and isinstance(enrolled, dict):
+        for cls, stance in enrolled.items():
+            if stance != "included":
+                continue
+            allowed = permitted.get(cls)
+            if allowed != "included":
+                _err(issues, key, f"enrols {cls!r} but its protocol records "
+                                  f"{allowed!r} for that class — a protocol is a "
+                                  f"ceiling, and `not-addressed` is not permission")
+
+    # 2. Consent required by the protocol cannot be documented as `none`
+    #    unless a waiver of documentation is recorded on the protocol.
+    process = consent.get("process") or {}
+    waiver = consent.get("waiver") or {}
+    if consent.get("required") is True and process.get("documentation") == "none" \
+            and waiver.get("kind") not in ("documentation", "consent", "alteration"):
+        _err(issues, key, "its protocol requires consent and documents it as `none` "
+                          "with no waiver recorded — a waiver of documentation is a "
+                          "determination, not a default")
+
+    # 3. A study enrolling minors requires the protocol's minors block.
+    if enrolled.get("minors") == "included" and not isinstance(
+            consent.get("minors"), dict):
+        _err(issues, key, "enrols minors but its protocol carries no `consent.minors` "
+                          "block — age of majority, parental permission, assent and "
+                          "its documentation are unanswered, and every one of them is "
+                          "required before a child can be enrolled")
+
+
 def validate_all() -> list:
     """Every object, plus every join between them and into observations/."""
     protocols, issues = load_protocols()
     releases, rel_errors = load_releases()
+    studies, study_errors = load_studies()
     reviews, rev_errors = load_reviews()
     issue_recs, iss_errors = load_issues()
-    issues = list(issues) + rel_errors + rev_errors + iss_errors
+    issues = list(issues) + rel_errors + study_errors + rev_errors + iss_errors
 
     for (pid, version), rec in sorted(protocols.items()):
         issues.extend(validate_protocol(rec, pid, version))
     for (rid, version), rec in sorted(releases.items()):
         issues.extend(validate_release(rec, rid, version))
+    for (sid, version), rec in sorted(studies.items()):
+        issues.extend(validate_study(rec, sid, version))
     for rid, rec in sorted(reviews.items()):
         issues.extend(validate_review(rec, rid))
     for iid, rec in sorted(issue_recs.items()):
         issues.extend(validate_issue(rec, iid))
+
+    for (sid, version), rec in sorted(studies.items()):
+        if not isinstance(rec, dict):
+            continue
+        key = f"studies/{sid}/{version}"
+        proto = rec.get("protocol")
+        if isinstance(proto, dict):
+            pkey = (proto.get("ref"), proto.get("version"))
+            protocol_rec = protocols.get(pkey)
+            if protocol_rec is None:
+                _err(issues, key, f"protocol {pkey[0]!r} version {pkey[1]!r} does not "
+                                  f"exist under research/protocols/")
+            elif isinstance(protocol_rec, dict):
+                check_study_against_protocol(rec, key, protocol_rec, issues)
 
     obs_records, obs_errors = ol.load_all()
     issues.extend(obs_errors)

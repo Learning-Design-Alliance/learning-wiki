@@ -1,0 +1,334 @@
+# ============================================================================
+# SYNTHETIC EXAMPLE — not a real protocol, and not governance.
+#
+# No research was conducted under it, no parent permitted anything, no child
+# assented, and the approval id below is invented and resolves to nothing.
+# Do not copy it into a real study without a real ethics process behind every
+# field.
+#
+# What it IS for: it is the first protocol to exercise the fields added for
+# MINORS, and minors are the population an automated review pathway is least
+# likely to be able to cover. Writing it is how the schema was tested — every
+# field below answers a question BRANY's SBER template asks and the schema
+# previously had nowhere to put:
+#
+#   consent.process     where, when, by whom, recorded how, in which languages
+#   consent.waiver      the five regulatory criteria, as checkable fields
+#   consent.minors      age of majority and its jurisdiction, whose permission,
+#                       whose assent, how documented, and what happens when a
+#                       subject turns 18 mid-study
+#   data.subject_privacy  intrusiveness, which is NOT data confidentiality
+#   participants.special_populations  an explicit position on all four classes
+#
+# Render it with: python3 scripts/render_brany_protocol.py \
+#   example-classroom-consented-study --study example-retrieval-practice-classroom
+# ============================================================================
+
+schema_version: 1
+
+protocol:
+  id: example-classroom-consented-study
+  version: 1.0.0
+  title: >-
+    SYNTHETIC EXAMPLE — consented classroom research with secondary-school
+    students on a hosted course platform
+  effective_from: 2026-09-15
+  note: >-
+    Governs a family of low-risk instructional-design studies run inside
+    ordinary lessons, where the participants are children and the school
+    mediates access to them. A real analogue would be written alongside the
+    ethics submission it describes, not after it.
+
+participants:
+  population: >-
+    SYNTHETIC. Students aged 13-17 in participating secondary schools, taught
+    by their own teachers using a hosted course.
+  recruitment: >-
+    SYNTHETIC. The school invites families; researchers never contact a student
+    directly. A class runs the lesson either way, and only consented students'
+    data is retained for research.
+  inclusion:
+    - Enrolled in a participating class during the collection window
+    - Parental permission recorded AND student assent recorded
+  exclusion:
+    - Any student for whom either permission or assent is absent or withdrawn
+    - Any student the class teacher judges should not take part, for any reason
+      and without recording one
+
+  # BRANY requires an explicit position on each of these four, and warns that
+  # members may not be enrolled unless named in the inclusion criteria. Note
+  # that `excluded` and `not-addressed` are different claims: all four are
+  # stated here, so none of them is the second.
+  special_populations:
+    minors: included
+    adults-unable-to-consent: excluded
+    pregnant-women: excluded
+    prisoners: excluded
+
+  vulnerable_populations:
+    - group: >-
+        Children, who cannot consent for themselves and whose participation is
+        mediated by a school and a teacher they cannot easily refuse.
+      safeguards:
+        - Permission from a parent or guardian AND assent from the student;
+          either one absent means the student's data is not retained.
+        - The lesson runs identically for every student. Declining changes
+          nothing a student experiences, so there is nothing to opt out of
+          except the retention of their data.
+        - No individual result is reported to the school or the teacher.
+    - group: >-
+        Students in a class taught by a teacher participating in the study, for
+        whom declining could be visible to that teacher.
+      safeguards:
+        - Permission and assent are recorded centrally, and the class teacher is
+          never shown who did or did not take part.
+
+  age_assurance:
+    method: verified-third-party
+    jurisdiction: >-
+      SYNTHETIC — New York State, USA. Named because the operative age is set
+      per jurisdiction, and a band without one decides nothing.
+    note: >-
+      Age comes from the school's own enrolment record rather than from
+      self-attestation, which is what makes the 13-17 band checkable.
+
+  compensation:
+    kind: none
+    detail: >-
+      Nothing is offered to students, families or teachers. The lesson is part
+      of ordinary teaching.
+
+consent:
+  required: true
+  mechanism: explicit
+  basis: participant-consent
+  # One classroom study, one instrument: parental permission plus student
+  # assent, covering every source this protocol governs. Added when #83's
+  # condition 5 landed — each tree was correct alone and the merge broke,
+  # because a newly required field cannot exist in a branch cut before it.
+  sources_uniformly_governed: true
+  ai_processing_disclosed: true
+  ai_processing_detail: >-
+    SYNTHETIC. The permission and assent forms both state that written
+    responses are scored by an automated system, that a researcher reviews a
+    sample of that scoring, and that no automated decision affects a student's
+    grade.
+
+  permitted_uses:
+    research-analysis: permitted
+    research-publication: permitted
+    internal-pipeline-validation: permitted
+    product-improvement: prohibited
+    model-training: prohibited
+    secondary-research-by-others: prohibited
+  permitted_uses_note: >-
+    SYNTHETIC. Families were asked to permit research use of their child's
+    work. They were not asked to permit product development or model training,
+    so those are prohibited rather than unspecified — nobody declined them, but
+    nobody was asked either, and a use nobody was asked about is not permitted.
+
+  information_provided:
+    - What the study is trying to find out, in plain language
+    - That the lesson happens either way and only data retention is at stake
+    - "What is recorded: responses to lesson activities, and time on task"
+    - That responses are scored automatically and reviewed by a researcher
+    - That no individual result reaches the school, the teacher or a grade
+    - How to withdraw, and what happens to data already collected
+    - Who to contact, including someone not on the research team
+
+  process:
+    documentation: written-signed
+    location: >-
+      SYNTHETIC. Permission is sought at home, through the school's usual
+      family communication channel. Assent is sought in class, in writing,
+      before the first lesson.
+    timing: >-
+      At least one week before the collection window opens, so that a family
+      has time to ask questions.
+    obtained_by: >-
+      The school's research liaison, who is not a member of the research team
+      and does not teach the participating classes.
+    waiting_period: >-
+      Seven days between the family receiving the information and permission
+      being recorded.
+    languages:
+      - English
+      - Spanish
+    comprehension_measures:
+      - The assent form is read aloud to the class and questions are taken.
+      - Students are told, in those words, that they may say no and that no one
+        will be annoyed with them.
+    coercion_safeguards:
+      - The class teacher does not see who took part.
+      - No credit, grade or classroom privilege depends on participation.
+
+  # `none` here, and the block below carries no justification because none is
+  # claimed: consent IS obtained and IS documented. Recorded explicitly so that
+  # the absence of a waiver is a statement rather than a missing field.
+  waiver:
+    kind: none
+
+  minors:
+    age_of_majority: 18
+    jurisdiction: >-
+      SYNTHETIC — New York State, USA.
+    parental_permission: one-parent
+    assent: all
+    assent_documentation: signed-assent-form
+    # The field that exists because BRANY's teen-parent form carries a section
+    # for subjects who turn 18 during a study. A filed PDF cannot notice the
+    # date passing; a running system can.
+    reconsent_on_majority: true
+
+  withdrawal:
+    allowed: true
+    mechanism: >-
+      SYNTHETIC. A family or a student may withdraw at any time by telling the
+      school's research liaison. No reason is asked for or recorded.
+    effect_on_collected_data: >-
+      SYNTHETIC. Data already collected is deleted on withdrawal, up to the
+      point at which it has been aggregated into a published result — after
+      which the aggregate cannot be disassembled, which the forms say plainly
+      rather than promising a deletion that could not be performed.
+    investigator_initiated:
+      allowed: true
+      circumstances:
+        - The student leaves the participating class or the school.
+        - The school withdraws from the study.
+
+data:
+  collected:
+    - item: Responses to lesson activities
+      identifiability: pseudonymised
+      purpose: The outcome measures the study is about.
+    - item: Time on task per activity
+      identifiability: pseudonymised
+      purpose: To distinguish a wrong answer from an unattempted one.
+    - item: Class identifier
+      identifiability: pseudonymised
+      purpose: >-
+        Lessons are taught to classes, so the class is the unit randomised and
+        the analysis has to account for it.
+  prohibited:
+    - Free-text fields that could carry a student's name or a third party's
+    - Any health, disciplinary or family-circumstance information
+    - Any identifier that would let a response be traced to a student by anyone
+      outside the school
+
+  identifiability:
+    collected: pseudonymised
+    published: aggregate
+
+  deidentification:
+    method: >-
+      SYNTHETIC. The school issues a per-study code per student and holds the
+      only mapping. Researchers never receive a name, a date of birth or a
+      school email address.
+    applied_at: collection
+    reversible: true
+    key_holder: >-
+      SYNTHETIC. The participating school's research liaison. Deliberately not
+      the research team: a key the researchers hold is not a safeguard against
+      the researchers.
+
+  retention:
+    raw: >-
+      SYNTHETIC. Pseudonymised responses for three years from collection, then
+      deleted. The school's mapping is destroyed at the end of the collection
+      window, which makes the retained data unlinkable thereafter.
+    derived: >-
+      Aggregate results retained indefinitely as part of the published record.
+    basis: >-
+      Three years covers the analysis and any challenge to it. Longer would
+      retain children's work for no stated purpose.
+
+  storage:
+    location: >-
+      SYNTHETIC — a single region, named in full in a real file.
+    encryption_at_rest: true
+    encryption_in_transit: true
+    access_logging: true
+
+  access:
+    raw:
+      - role:research
+    derived:
+      - role:research
+    published:
+      - public
+
+  # BRANY section 15, which their template is explicit is NOT data
+  # confidentiality: it is about intrusiveness and about how the team is
+  # entitled to reach information about a person.
+  subject_privacy:
+    approach: >-
+      SYNTHETIC. Students are never approached by a researcher. Everything a
+      student sees is delivered by their own teacher inside a normal lesson,
+      and nothing in the lesson identifies which students are in the study.
+    intrusiveness_measures:
+      - No question asks about home circumstances, health or beliefs.
+      - A student may skip any activity, and skipping is recorded as no data
+        rather than as a wrong answer.
+      - Nothing a student writes is shown to their classmates.
+    information_sources:
+      - >-
+        Lesson activity responses, supplied by the platform under the school's
+        agreement with it.
+      - >-
+        Class membership and age band, supplied by the school from its
+        enrolment record. No other school record is requested, and none is
+        available to the research team.
+
+risks:
+  classification: minimal
+  identified:
+    - risk: >-
+        A student feels obliged to take part because their teacher is involved
+        in the study.
+      mitigation: >-
+        The teacher never learns who took part, and the lesson is identical
+        either way.
+      probability: Low
+      magnitude: Minor discomfort; no effect on grades or standing
+      duration: Confined to the consent decision
+      reversibility: Fully reversible — permission and assent can be withdrawn
+    - risk: >-
+        Re-identification of a student from their responses combined with class
+        membership in a small class.
+      mitigation: >-
+        Results are published only as aggregates over classes, and no cell
+        smaller than ten students is reported.
+      probability: Low
+      magnitude: >-
+        Disclosure of a student's lesson performance, which is not sensitive
+        but is theirs
+      duration: Indefinite once published
+      reversibility: Not reversible, which is why the cell-size floor is a rule
+
+external_review:
+  status: approved
+  authority: >-
+    SYNTHETIC — the reviewing body would be named here, in full.
+  approval_id: EXAMPLE-0000-NOT-A-REAL-APPROVAL
+  determination: >-
+    SYNTHETIC EXAMPLE. Nothing was submitted to any body and nothing was
+    approved. A real file carries the determination text as issued.
+  reviewed_at: 2026-09-15
+
+sites:
+  - name: SYNTHETIC — participating secondary school A
+    role: Recruitment, consent administration, and teaching of the lesson
+    approvals:
+      - District research office, reference SYNTHETIC-NOT-REAL
+  - name: SYNTHETIC — participating secondary school B
+    role: Recruitment, consent administration, and teaching of the lesson
+    approvals:
+      - District research office, reference SYNTHETIC-NOT-REAL
+
+deviations: []
+
+provenance:
+  source_type: synthetic-simulation
+  created_at: 2026-09-15
+  authored_by: claude/unspecified
+  verification: unverified

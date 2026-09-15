@@ -1,0 +1,283 @@
+# ============================================================================
+# SYNTHETIC EXAMPLE — a STUDY PLAN, not a release and not a real study.
+#
+# Nothing was run, no class was randomised, no child assented, and the
+# conformance block below was computed against a ruleset that does not exist.
+#
+# WHY THIS IS NOT A RELEASE. A release IS a publication — the layer refuses one
+# whose protocol does not permit `research-publication`. A plan is not a
+# publication, and folding the two together would either make it impossible to
+# plan a study under a protocol that forbids publishing (exactly the internal
+# pipeline-validation case the first real protocol describes) or weaken the
+# publication gate. So the chain is:
+#
+#     Protocol ──> Study ──> Research Release ──> Evidence ──> Claim
+#
+# It is also the object an IRB actually reviews: they review a plan.
+#
+# EVERY FIELD HERE ANSWERS A QUESTION BRANY'S SBER TEMPLATE ASKS. That is the
+# design criterion, and the acceptance test is a command:
+#
+#   python3 scripts/render_brany_protocol.py example-classroom-consented-study \
+#     --study example-retrieval-practice-classroom --coverage
+# ============================================================================
+
+schema_version: 1
+
+study:
+  id: example-retrieval-practice-classroom
+  version: 1.0.0
+  title: >-
+    SYNTHETIC EXAMPLE — does spacing retrieval practice across lessons improve
+    four-week retention compared with massing it within one lesson?
+  status: planned
+  effective_from: 2026-09-15
+  # Template section 2. On the study rather than the protocol because a
+  # protocol governs a family of investigations and has no single question.
+  question: >-
+    SYNTHETIC. Among secondary students following the same unit, does
+    distributing retrieval practice across four lessons produce better
+    four-week retention than the same total practice massed into one lesson?
+  # Template section 3.
+  background: >-
+    SYNTHETIC. The spacing effect is among the best-replicated findings in
+    learning research, but most demonstrations use word lists over short
+    intervals with university students. Classroom replications at unit scale,
+    with curricular material and a retention interval long enough to matter to
+    a teacher, are far rarer. This study holds total practice constant and
+    varies only its distribution, so that any difference is attributable to
+    schedule rather than to volume.
+
+protocol:
+  ref: example-classroom-consented-study
+  version: 1.0.0
+
+design:
+  family: cluster-randomized-controlled-trial
+  detail: >-
+    SYNTHETIC. Two arms, identical total practice, differing only in schedule.
+    Classes are randomised rather than students, because a schedule is a
+    property of how a class is taught and students within a class cannot be
+    given different ones.
+  allocation: >-
+    Cluster-randomised at class level, stratified by school. The unit
+    randomised is the class; the unit analysed is the student, so the analysis
+    carries the clustering rather than ignoring it.
+  preregistration:
+    registered: true
+    registry: SYNTHETIC — a public registry would be named here
+    identifier: SYNTHETIC-NOT-A-REAL-REGISTRATION
+
+# Template sections 6, 7 and 9.
+setting:
+  conducted_where: >-
+    SYNTHETIC. Ordinary timetabled lessons in two participating secondary
+    schools. No student attends anything that is not a normal lesson.
+  recruitment_sites: >-
+    The two participating schools, through their own family communication
+    channels. Researchers never contact a student or a family directly.
+  site_specific_requirements:
+    - Each district research office approves before any class is randomised.
+    - A school may withdraw at any point, which withdraws its classes with it.
+  # BRANY section 9: only a lead investigator coordinating other sites needs
+  # this, and this study is one.
+  multi_site_coordination:
+    - Both schools hold the same version of the plan, the permission form and the
+      assent form; a change to any of them is distributed before it takes effect.
+    - Randomisation is centralised, so no site allocates its own classes.
+    - A problem at either site is reported to both within one working day, and to
+      the reviewing body if it affects a participant.
+    - Interim results are not shared with either site before the primary analysis,
+      so that teaching is not adjusted mid-study in response to them.
+    - Closure, whether planned or early, is communicated to both sites and to the
+      reviewing body in the same notice.
+  resources:
+    staff:
+      - One principal investigator, 0.2 FTE for the study period
+      - One research assistant, 0.5 FTE, trained in the consent procedure
+      - One research liaison per school, employed by the school, not the study
+    investigator_time: >-
+      SYNTHETIC. Roughly one day per week across a four-month window.
+    participant_support: >-
+      None is anticipated to be needed: the lesson is ordinary teaching and no
+      question touches a sensitive topic. The class teacher remains the first
+      point of contact for a distressed student, as in any lesson.
+
+# Template section 8.
+enrolment:
+  planned:
+    value: 480
+    unit: students
+  screened:
+    value: 20
+    unit: classes
+  justification: >-
+    SYNTHETIC. Twenty classes averaging 24 students gives 80% power to detect
+    d = 0.35 at the class level, assuming an intraclass correlation of 0.05.
+    Powering on the class count rather than the student count is what the
+    cluster design requires; powering on 480 would overstate precision by the
+    design effect.
+  # Checked against the protocol's ceiling: a study may not enrol a class the
+  # protocol does not permit, and `not-addressed` there is not permission.
+  special_populations:
+    minors: included
+    adults-unable-to-consent: excluded
+    pregnant-women: excluded
+    prisoners: excluded
+
+# Template section 11.
+timelines:
+  participation_duration: >-
+    Six weeks per student: four weeks of lessons plus a retention test four
+    weeks after the last.
+  enrolment_period: >-
+    One school term; all classes are randomised before the first lesson.
+  estimated_completion: >-
+    SYNTHETIC. Primary analysis complete within three months of the last
+    retention test.
+
+# Template section 12, plus 10 and 14.3.
+procedures:
+  steps:
+    - Schools obtain parental permission and student assent before randomisation.
+    - Classes are randomised to spaced or massed schedules, stratified by school.
+    - Both arms complete the same unit with the same total retrieval practice.
+    - A retention test is administered four weeks after the final lesson.
+    - Responses are scored automatically; a researcher reviews a 20% sample.
+  instruments:
+    - Unit retrieval-practice activity set (identical across arms)
+    - Four-week retention test, 24 items
+    - Teacher implementation log, one entry per lesson
+  recruitment_materials:
+    - Family information sheet and permission form (English and Spanish)
+    - Student assent form, read aloud in class
+    - Teacher briefing note
+  screening: >-
+    No screening beyond class enrolment. A student without both permission and
+    assent takes part in the lesson and contributes no data.
+  data_quality:
+    procedures:
+      - A 20% human-reviewed sample of every automated scoring run, with the
+        codebook published so the scoring can be inspected and disputed.
+      - Teacher implementation logs checked against the intended schedule, so
+        that a class taught off-protocol is identifiable in the analysis.
+      - Range and completeness checks at ingestion; out-of-range values are
+        quarantined rather than corrected.
+
+# Template section 14.2. Declared here, before anything runs, which is the
+# distinction preregistration exists to police: `observations/` records
+# outcomes as MEASURED, and a plan needs them as DECLARED.
+endpoints:
+  - name: Four-week retention
+    role: primary
+    measure: Proportion correct on the 24-item retention test
+    timepoint: Four weeks after the final lesson
+  - name: End-of-unit performance
+    role: secondary
+    measure: Proportion correct on the standard end-of-unit assessment
+    timepoint: Immediately after the final lesson
+  - name: Time on task
+    role: exploratory
+    measure: Total seconds engaged with practice activities, per student
+    timepoint: Accumulated across the four lessons
+
+# Template section 14.1 — the PLANNED analysis. The release's `analyses` block
+# records what was actually run; keeping them apart is what makes a deviation
+# visible instead of invisible.
+analysis_plan:
+  approach: >-
+    SYNTHETIC. Mixed-effects linear model of retention-test score on arm, with a
+    random intercept per class, so that the clustering the design creates is in
+    the model rather than ignored. School enters as a fixed stratum.
+  tests:
+    - "Primary: arm coefficient in the mixed-effects model, two-sided, alpha 0.05"
+    - "Secondary: the same model applied to the end-of-unit assessment"
+    - "Exploratory: time on task compared between arms, reported without a test"
+  missing_data: >-
+    SYNTHETIC. A student absent for the retention test contributes no outcome and
+    is not imputed; the count of such students is reported per arm, because a
+    difference between arms in who is missing is itself a finding.
+  multiplicity: >-
+    One primary endpoint, so no adjustment. The secondary and exploratory
+    endpoints are reported as such and no claim rests on them.
+
+# Template section 19.
+benefits:
+  to_participants: none-to-participants
+  detail: >-
+    SYNTHETIC. No direct benefit to any student. Both arms receive the same
+    quantity of practice, so neither is disadvantaged relative to the other,
+    and what is learned may inform how the unit is taught in future.
+
+# Template section 24 — costs the SUBJECT bears, which is the opposite
+# direction from the protocol's `participants.compensation`.
+participant_burden:
+  costs: none
+  detail: >-
+    No monetary cost. No additional time beyond the timetabled lesson, except
+    the retention test, which replaces a lesson starter of the same length.
+
+# Template section 21.
+results_sharing:
+  policy: aggregate-to-participants
+  detail: >-
+    SYNTHETIC. Each participating school receives a plain-language summary of
+    the aggregate findings. No individual result is returned to a student, a
+    family, a teacher or a school, which the permission and assent forms state.
+
+# Template section 20. No default is safe here: nothing else in the record
+# says whether a study was co-designed with the people it concerns.
+community_involvement:
+  involved: true
+  detail: >-
+    SYNTHETIC. Participating teachers reviewed the lesson materials and the
+    assent wording before the protocol was finalised, and asked for the
+    implementation log to be shortened. Students were not involved in the
+    design, which is a limitation rather than a decision.
+
+# WHAT A MACHINE COMPUTED. Never a determination — see `determination` below.
+# `result` must agree with the checks it claims to summarise; a `conforming`
+# stamped over a failing check fails validation, because that is precisely the
+# claim a reviewer would be relying on.
+conformance:
+  ruleset:
+    ref: SYNTHETIC-EXAMPLE-RULESET-DOES-NOT-EXIST
+    version: 0.0.0
+  checked_at: 2026-09-15
+  result: conforming
+  checks:
+    - id: special-populations-within-protocol-ceiling
+      result: pass
+      detail: >-
+        Enrols minors; the protocol records `minors: included`. The other three
+        classes are excluded in both.
+    - id: minors-consent-block-complete
+      result: pass
+      detail: >-
+        Protocol carries age_of_majority, jurisdiction, parental_permission,
+        assent, assent_documentation and reconsent_on_majority.
+    - id: consent-documentation-consistent-with-waiver
+      result: pass
+      detail: Consent is required and documented written-signed; no waiver claimed.
+    - id: risk-classification-minimal
+      result: pass
+      detail: Protocol classifies risk as minimal, which this design does not exceed.
+    - id: publication-permitted-by-protocol
+      result: pass
+      detail: >-
+        `permitted_uses['research-publication']` is `permitted`, so a release
+        naming this study would not be refused.
+
+# WHAT A PERSON OR A BODY DECIDED. `not-sought` is the honest state of a plan
+# nobody has submitted, and the schema refuses a determination that names no
+# one: a machine may compute conformance and may never record a determination.
+determination:
+  status: not-sought
+
+provenance:
+  authors:
+    - id: SYNTHETIC-EXAMPLE-NO-AUTHOR
+      name: SYNTHETIC EXAMPLE — nobody authored this; nothing was run
+  source_type: synthetic-simulation
+  created_at: 2026-09-15
+  verification: unverified
