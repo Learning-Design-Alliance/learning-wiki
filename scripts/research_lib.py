@@ -183,9 +183,16 @@ PROCESSING_BASES = {
     "terms-of-service",
     # The data reached us already published under an open licence granted by a
     # depositor. What the participants were told was told to somebody else,
-    # under terms we cannot read. See LICENCE_BASIS_REQUIREMENTS below: this
-    # value is narrowly guarded, because it is the one that relaxes a check.
+    # under terms we cannot read. Narrowly guarded, because it relaxes a check.
     "licence",
+    # The same shape, a different instrument: the data reached us under written
+    # terms of use accepted from a depositor or host — competition rules, a
+    # data-use agreement, an archive's access conditions. NOT `terms-of-service`
+    # above, which is a product's terms accepted by the data subject themselves.
+    # Here, as with `licence`, the instrument is between US and a DEPOSITOR and
+    # says nothing about what the participants were told. Guarded identically,
+    # because the guards were never about copyright: see INSTRUMENT_BASES.
+    "terms-of-use",
     # Nobody has established any basis. Never a pass for anything.
     "not-established",
 }
@@ -227,6 +234,22 @@ LICENCE_IDENTIFIABILITY = {"deidentified", "aggregate"}
 #: at all, and `not-established` would be wrong — nothing is unestablished,
 #: there is nothing to establish. Only legal in the per-source list, because a
 #: protocol whose ONLY source is ungoverned has no consent question to record.
+# The two bases that rest on a DEPOSITOR'S INSTRUMENT rather than on anything a
+# participant was told, mapped to the field naming that instrument. Both relax
+# the AI-processing check, under identical conditions.
+#
+# `licence` came first and its guards were written as if they were about
+# licensing. Re-read, not one of them is: a named instrument with a grantor and
+# a public reference; an explicit record of what it does NOT settle; a positive
+# `not-applicable` so that "nobody looked" cannot pass as "does not apply";
+# consent not required; and the claim covering every source. What they establish
+# is that the data reached us under a published instrument from a depositor and
+# the participants are unreachable — which is as true of a competition's data
+# rules as of CC-BY. Generalising the value while keeping every guard is
+# therefore not a widening; refusing it would only push authors to file
+# instrument-governed corpora under `licence`, which is worse.
+INSTRUMENT_BASES = {"licence": "licence", "terms-of-use": "terms_of_use"}
+
 ADDITIONAL_BASES = PROCESSING_BASES | {"none"}
 
 # How age was ESTABLISHED. An inclusion criterion of "18+" is not evidence of
@@ -910,13 +933,20 @@ def _validate_consent(block, key, issues):
     _enum(issues, where, basis, PROCESSING_BASES, "basis")
     if basis is not None:
         _validate_governance_uniformity(block, where, issues)
-    if basis == "licence":
+    if basis in INSTRUMENT_BASES:
         _validate_licence_basis(block, where, issues)
-    elif "licence" in block:
-        _err(issues, where, "`licence` is only meaningful with `basis: licence` — a "
-                            "licence block under any other basis names an instrument "
-                            "that nothing reads, which is how a record starts looking "
-                            "more governed than it is")
+    # An instrument block under a basis that does not own it names something
+    # nothing reads, which is how a record starts looking more governed than it
+    # is. Checked OUTSIDE the branch above, because the case that matters most
+    # is the one inside it: a `terms_of_use` block sitting under `basis:
+    # licence` is the same mistake wearing the other hat, and it would sail
+    # through a check that only ran when no instrument basis was claimed.
+    for name, owner in (("licence", "licence"), ("terms_of_use", "terms-of-use")):
+        if name in block and basis != owner:
+            _err(issues, where, f"`{name}` is only meaningful with `basis: {owner}` — "
+                                f"an instrument block under any other basis names "
+                                f"something nothing reads, which is how a record "
+                                f"starts looking more governed than it is")
 
     # `secondary_research_use` was a separate tri-state flag in the first draft.
     # It is exactly `permitted_uses: {secondary-research-by-others: ...}` said a
@@ -1059,20 +1089,25 @@ def _validate_governance_uniformity(block, where, issues):
 
 
 def _validate_licence_basis(block, where, issues):
-    """The conditions above, checked here so a
-    malformed licence basis fails in the protocol that wrote it rather than
-    only in whichever release later names it.
+    """The conditions above, checked here so a malformed instrument basis fails
+    in the protocol that wrote it rather than only in whichever release later
+    names it. Applies identically to `licence` and `terms-of-use` — see
+    INSTRUMENT_BASES for why the guards were never licence-specific.
 
     Condition 4 lives in `data`, not `consent`, so it is checked in
     `_validate_protocol_coherence` where both blocks are in hand."""
-    lic = block.get("licence")
+    basis = block.get("basis")
+    field = INSTRUMENT_BASES.get(basis)
+    if field is None:
+        return
+    lic = block.get(field)
     if not isinstance(lic, dict):
-        _err(issues, where, "basis is `licence`, so `licence: {id, ref, holder}` is "
-                            "required — the instrument the basis rests on, where to "
-                            "read it, and who granted it. A basis nobody can look up "
-                            "is a claim rather than a basis")
+        _err(issues, where, f"basis is `{basis}`, so `{field}: {{id, ref, holder}}` is "
+                            f"required — the instrument the basis rests on, where to "
+                            f"read it, and who granted it. A basis nobody can look up "
+                            f"is a claim rather than a basis")
     else:
-        lw = f"{where}.licence"
+        lw = f"{where}.{field}"
         _str(issues, lw, lic.get("id"), "id", required=True)
         _str(issues, lw, lic.get("ref"), "ref", required=True)
         # Who granted it, because it is NOT the participant. A depositor can
@@ -1091,14 +1126,14 @@ def _validate_licence_basis(block, where, issues):
     _list_of_str(issues, where, caveats, "secondary_use_caveats", required=True)
     if isinstance(caveats, list) and not [c for c in caveats
                                           if isinstance(c, str) and c.strip()]:
-        _err(issues, where, "basis is `licence`, so `secondary_use_caveats` must be "
-                            "non-empty. The licence says what we may do; it does not "
-                            "say what the people in the data agreed to, and an empty "
-                            "list here claims those are the same question")
+        _err(issues, where, f"basis is `{basis}`, so `secondary_use_caveats` must be "
+                            f"non-empty. The instrument says what we may do; it does "
+                            f"not say what the people in the data agreed to, and an "
+                            f"empty list here claims those are the same question")
 
     disclosed = block.get("ai_processing_disclosed")
     if disclosed != "not-applicable":
-        _err(issues, where, f"basis is `licence`, so `ai_processing_disclosed` must be "
+        _err(issues, where, f"basis is `{basis}`, so `ai_processing_disclosed` must be "
                             f"`not-applicable` — a positive statement that the question "
                             f"does not apply here — and it is {disclosed!r}. "
                             f"`unspecified` means nobody looked, which is a different "
@@ -1106,9 +1141,10 @@ def _validate_licence_basis(block, where, issues):
                             f"author has to say which of the two this is")
 
     if block.get("required") is not False:
-        _err(issues, where, "basis is `licence`, so `required` must be false: the basis "
-                            "on which WE process is the licence, and a research consent "
-                            "we neither sought nor hold cannot also be the basis")
+        _err(issues, where, f"basis is `{basis}`, so `required` must be false: the "
+                            f"basis on which WE process is the instrument, and a "
+                            f"research consent we neither sought nor hold cannot also "
+                            f"be the basis")
 
     # NOT AN ERROR HERE, deliberately. A protocol may hold a real licence over one
     # source and other instruments over the rest; saying so is the honest record and
@@ -1821,16 +1857,18 @@ def validate_issue(rec, iid) -> list:
 # --------------------------------------------------------- the cross-checks
 
 def _licence_basis_holds(protocol) -> bool:
-    """Whether a protocol carries a COMPLETE licence basis.
+    """Whether a protocol carries a COMPLETE instrument basis — `licence` or
+    `terms-of-use`, which are guarded identically (see INSTRUMENT_BASES).
 
     Every condition is re-checked here rather than trusting that the protocol
     validated, because this runs over a loaded record and a half-written basis
     must never read as a whole one. Silent on failure by design — the protocol
     validator is what explains which condition is unmet."""
     consent = (protocol or {}).get("consent") or {}
-    if consent.get("basis") != "licence":
+    field = INSTRUMENT_BASES.get(consent.get("basis"))
+    if field is None:
         return False
-    lic = consent.get("licence")
+    lic = consent.get(field)
     if not isinstance(lic, dict) or not all(
             isinstance(lic.get(f), str) and lic.get(f).strip() for f in ("id", "ref", "holder")):
         return False
@@ -1907,17 +1945,17 @@ def check_release_against_protocol(rel, rel_key, protocol, issues):
         if inputs and all(isinstance(d, dict) and d.get("identifiability") == "not-applicable"
                           for d in inputs):
             continue
-        if consent.get("basis") == "licence":
+        if consent.get("basis") in INSTRUMENT_BASES:
             # They reached for the licence path and it did not hold. Say which
             # condition failed rather than repeating the generic message: the
             # protocol's own errors name it, and pointing there is the fix.
             _err(issues, f"{rel_key}.analyses[{i}]",
-                 "analysis declares ai_processing: true and the protocol claims "
-                 "`consent.basis: licence`, but that basis does not hold — see the "
-                 "protocol's own errors for which of the licence conditions is "
-                 "unmet (licence block, secondary_use_caveats, "
-                 "ai_processing_disclosed: not-applicable, required: false, "
-                 "de-identified collected data, or sources_uniformly_governed)")
+                 f"analysis declares ai_processing: true and the protocol claims "
+                 f"`consent.basis: {consent.get('basis')}`, but that basis does not "
+                 f"hold — see the protocol's own errors for which of the instrument "
+                 f"conditions is unmet (the instrument block, secondary_use_caveats, "
+                 f"ai_processing_disclosed: not-applicable, required: false, "
+                 f"de-identified collected data, or sources_uniformly_governed)")
             continue
         _err(issues, f"{rel_key}.analyses[{i}]",
              f"analysis declares ai_processing: true, but the protocol's consent "
@@ -1927,6 +1965,34 @@ def check_release_against_protocol(rel, rel_key, protocol, issues):
                 ". If this data was collected by somebody else and published under "
                 "an open licence, the protocol may be able to say so instead: see "
                 "`consent.basis` in research/SCHEMA.md"))
+
+    # AN INSTRUMENT THAT FORBIDS REDISTRIBUTION IS NOT A NOTE. `permitted_uses`
+    # has always carried `secondary-research-by-others`, and nothing read it —
+    # so a protocol could say "we may not pass this data on" while a release
+    # under it declared a dataset at `access: published`, and both validated.
+    #
+    # The distinction the vocabulary already draws is exactly right and worth
+    # keeping visible: the corpora this layer was built on are CC-BY, where
+    # publication and redistribution travel together, and an instrument can
+    # perfectly well permit the first and forbid the second. A competition's
+    # data rules typically do: analyse it, publish what you found, do not pass
+    # on the rows. Under such an instrument `access: published` is a breach
+    # rather than a rudeness, which is why it belongs in CI and not in a note
+    # somebody has to remember to read.
+    #
+    # `raw` and `derived` are untouched. Holding data and republishing it are
+    # different acts, and only the second is what the undertaking forbids.
+    if isinstance(uses_block := consent.get("permitted_uses"), dict) \
+            and uses_block.get("secondary-research-by-others") == "prohibited":
+        for i, d in enumerate(rel.get("datasets") or []):
+            if isinstance(d, dict) and d.get("access") == "published":
+                _err(issues, f"{rel_key}.datasets[{i}]",
+                     f"dataset {d.get('id')!r} is at `access: published`, but the "
+                     f"protocol records `permitted_uses: "
+                     f"{{secondary-research-by-others: prohibited}}` — the instrument "
+                     f"this data reached us under does not allow passing it on. "
+                     f"`derived` describes something held and analysed here; "
+                     f"`published` claims it has been released for others")
 
     # A RELEASE IS A PUBLICATION. So naming a protocol that does not permit
     # research publication is not a paperwork problem, it is the release saying
