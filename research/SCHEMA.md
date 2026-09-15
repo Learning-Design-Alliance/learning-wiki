@@ -148,6 +148,16 @@ consent:
   required:                        # required, boolean
   mechanism:                       # explicit | broad | opt-out | waived
                                    # | not-applicable | unspecified
+  basis:                           # optional — participant-consent | terms-of-service
+                                   # | licence | not-established. ON WHAT BASIS
+                                   # *WE* MAY PROCESS. See "Secondary data" below;
+                                   # `licence` is the one that relaxes a check, and
+                                   # is narrowly guarded.
+  licence:                         # required when basis is `licence`, refused otherwise
+    {id, ref, holder}              # the instrument, where to read it, and WHO GRANTED
+                                   # it — never the participant
+  secondary_use_caveats: [...]     # required and NON-EMPTY when basis is `licence`
+                                   # — what the licence does NOT settle
   information_provided: [...]      # required when consent is required — WHAT THE
                                    # PARTICIPANT WAS SHOWN. Consent is only
                                    # meaningful for what was disclosed.
@@ -166,6 +176,8 @@ consent:
     model-training:
   permitted_uses_note:             # prose beside the classes, never instead of them
   ai_processing_disclosed:         # required — true | false | unspecified
+                                   # | not-applicable (and `not-applicable` is
+                                   # REQUIRED when basis is `licence`)
   ai_processing_detail:            # required when disclosed is true
 
 data:
@@ -315,9 +327,10 @@ trusts.
    access class.** `identified > pseudonymised > deidentified > aggregate`;
    `published` is bounded by `data.identifiability.published` (the promise made
    to the participant), `raw` and `derived` by `.collected`.
-2. **An analysis declaring `ai_processing: true` requires
-   `consent.ai_processing_disclosed: true`.** `unspecified` fails as well as
-   `false` — silence is not permission.
+2. **An analysis declaring `ai_processing: true` requires a basis** — either
+   `consent.ai_processing_disclosed: true`, or a complete licence basis (see
+   "Secondary data" below). `unspecified` fails as well as `false` — silence is
+   not permission.
 3. **A release requires `permitted_uses['research-publication'] == permitted` on
    its protocol.** A release *is* a publication, so naming a protocol that does
    not permit publication is the release saying it may not exist. `prohibited`
@@ -328,7 +341,99 @@ trusts.
 All three were tested against the fixture by mutation — publishing a pseudonymised
 dataset, running an AI analysis under a protocol that did not disclose it, and
 publishing from data whose protocol does not permit publication — each producing
-exactly one error naming the field that governs it.
+exactly one error naming the field that governs it. The licence basis added to
+check 2 was tested the same way: six mutations, each breaking one of its
+conditions, each producing an error naming that condition.
+
+---
+
+## Secondary data, and why check 2 needed a second path
+
+**Check 2 was written for first-party collection and fired on the common case.**
+It assumes a consent step exists and that somebody can be asked what it said.
+That holds for a platform's own telemetry. It does not hold for most of what a
+knowledge base reasons over: published papers, open corpora, data another team
+collected under terms nobody here has read. Secondary use is the **default**
+here, and first-party collection is the exception.
+
+The first real release to hit this was a benchmark scoring an automated grader
+against two CC-BY-4.0 corpora of student work. Every analysis processed that
+text with a model, so every analysis declared `ai_processing: true` — and the
+honest value of `ai_processing_disclosed` was `unspecified`, because the
+participants are unreachable and what they were told was told to somebody else
+years earlier. The release could not validate, and nothing about it was wrong.
+
+**The failure mode that matters is not the red check.** It is that a rule which
+mostly fires on valid work gets routed around, and the way people route around
+this one is by typing `true`. That asserts something about participants nobody
+established, permanently, in a file that reads as verified — the exact failure
+the tri-state exists to prevent.
+
+So `consent.basis` names what **we** process on, and one of its values opens a
+second path:
+
+```yaml
+consent:
+  basis: licence
+  licence:
+    id: CC-BY-4.0
+    ref: "https://creativecommons.org/licenses/by/4.0/"
+    holder: the depositing research group, who collected and released the corpus
+  required: false
+  ai_processing_disclosed: not-applicable
+  secondary_use_caveats:
+    - NOT ESTABLISHED whether participants were told a model might process this
+```
+
+**`holder` is required because it is never the participant.** A depositor can
+grant *us* reuse rights over what they collected. They cannot retroactively tell
+*their* participants what a later team would do. Naming the grantor keeps those
+two apart on the page.
+
+**`secondary_use_caveats` is the only non-empty-required list in this schema.**
+Elsewhere an empty list is a legal value meaning "somebody considered this and
+ruled nothing out". Here there is always something unknown, so an empty list
+would be a false statement rather than a modest one. The licence answers what we
+may do; it does not answer what the people in the data agreed to, and the record
+has to keep those apart rather than let the first stand in for the second.
+
+**`ai_processing_disclosed: not-applicable`, not `unspecified`.** `unspecified`
+means nobody looked, which is a different state and one somebody can still fix by
+asking. Under a licence basis nobody can ask, and the author has to say which of
+the two this is.
+
+### The guard, which is the part to preserve
+
+`basis: licence` is the only value in this schema that relaxes another check, so
+it is the only one that can be abused. Four conditions hold it shut, and the
+fourth is load-bearing:
+
+| | condition | what it stops |
+|---|---|---|
+| 1 | `licence: {id, ref, holder}` | a basis nobody can look up |
+| 2 | `secondary_use_caveats` non-empty | a depositor's permission reading as the participants' |
+| 3 | `ai_processing_disclosed: not-applicable` | "nobody looked" passing as "does not apply" |
+| 4 | **`data.identifiability.collected` is `deidentified` or `aggregate`** | **the whole thing becoming a one-line escape hatch** |
+
+A licence can carry reuse rights over records a depositor de-identified and
+published. No licence conjures a basis for processing records that still
+identify the people in them. So `lazuli-platform-telemetry`, which collects
+`pseudonymised` data, **cannot reach this path however its consent block is
+written** — and check 3 independently refuses any release naming it.
+
+**If you change the licence conditions, that is the property to verify you have
+kept.** The fixture at `research/protocols/example-open-corpus-secondary-use/`
+carries the mutation list in its header, and
+`research/releases/example-open-corpus-benchmark/` exercises the passing path in
+CI so that a change making the basis never hold would be caught. That release
+deliberately carries no `evidence:` — it is a governance fixture, and the
+spaced-review fixture is the one that demonstrates the evidence chain.
+
+**The other three bases change nothing.** `participant-consent`,
+`terms-of-service`, `not-established` and an absent `basis` all behave exactly as
+before: check 2 demands `ai_processing_disclosed: true` and nothing else will do.
+The field is optional for that reason — requiring it would invalidate protocols
+frozen before it existed, and those files are immutable by construction.
 
 ---
 
