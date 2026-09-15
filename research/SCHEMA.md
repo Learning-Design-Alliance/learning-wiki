@@ -158,6 +158,11 @@ consent:
                                    # it — never the participant
   secondary_use_caveats: [...]     # required and NON-EMPTY when basis is `licence`
                                    # — what the licence does NOT settle
+  sources_uniformly_governed:      # REQUIRED with `basis` — boolean. Does that one
+                                   # value cover every source the protocol governs?
+  additional_bases: [...]          # required and non-empty when the above is false
+    - {source, basis, note}        # what else governs, and prose because the enum is
+                                   # exactly what could not express it
   information_provided: [...]      # required when consent is required — WHAT THE
                                    # PARTICIPANT WAS SHOWN. Consent is only
                                    # meaningful for what was disclosed.
@@ -414,12 +419,51 @@ fourth is load-bearing:
 | 2 | `secondary_use_caveats` non-empty | a depositor's permission reading as the participants' |
 | 3 | `ai_processing_disclosed: not-applicable` | "nobody looked" passing as "does not apply" |
 | 4 | **`data.identifiability.collected` is `deidentified` or `aggregate`** | **the whole thing becoming a one-line escape hatch** |
+| 5 | `sources_uniformly_governed: true` | one licensed corpus buying the relaxation for every other source in the protocol |
 
 A licence can carry reuse rights over records a depositor de-identified and
 published. No licence conjures a basis for processing records that still
 identify the people in them. So `lazuli-platform-telemetry`, which collects
 `pseudonymised` data, **cannot reach this path however its consent block is
 written** — and check 3 independently refuses any release naming it.
+
+### One value, several instruments
+
+`basis` holds one value and a protocol may govern sources held under different
+ones. `learning-graph-structure` 1.0.0 raised this: three sources, held under a
+CC-BY-NC licence, a bilateral undertaking with a depositor that is none of the
+four enum values, and — for its simulated learners — nothing at all.
+
+The failure is silent. The record validates; nothing is wrong on its face;
+something is merely absent. And it is **not symmetric**, which is why condition 5
+is an error rather than a note. The value an author reaches for is the one
+governing the corpus doing the most work, and that is usually the *permissive*
+one; the instrument left out is usually the *restrictive* one, because
+restrictive arrangements attach to data somebody was careful about. In the
+protocol that raised this, the licence describes an adult commercial corpus while
+the omitted undertaking governs a **school-age** one and is the tightest
+constraint in the document. A reader who checks `consent.basis` and stops has read
+the weakest constraint and missed the strongest — the inversion of what a consent
+field is for.
+
+```yaml
+consent:
+  basis: licence
+  sources_uniformly_governed: false
+  additional_bases:
+    - source: the second corpus
+      basis: not-established
+      note: >-
+        A bilateral undertaking with the depositor — analysis only, no
+        redistribution. Narrower than any licence and not one of the four values.
+```
+
+Declaring `false` is honest and it **costs the relaxation**: condition 5 fails, so
+an analysis declaring `ai_processing: true` must satisfy the ordinary rule. That is
+the intended outcome rather than a penalty. The relaxation is a claim about every
+source a release analyses, and a protocol governing several arrangements has made
+it about one of them. The fix for a protocol that needs both is to **split it**, so
+each covers one arrangement and each can say something true about all of its data.
 
 **If you change the licence conditions, that is the property to verify you have
 kept.** The fixture at `research/protocols/example-open-corpus-secondary-use/`
@@ -429,9 +473,11 @@ CI so that a change making the basis never hold would be caught. That release
 deliberately carries no `evidence:` — it is a governance fixture, and the
 spaced-review fixture is the one that demonstrates the evidence chain.
 
-**The other three bases change nothing.** `participant-consent`,
-`terms-of-service`, `not-established` and an absent `basis` all behave exactly as
-before: check 2 demands `ai_processing_disclosed: true` and nothing else will do.
+**The other three bases change nothing** *except that they now require
+`sources_uniformly_governed` too* — the question of whether one value covers
+everything is not special to licences, and only the answer's consequence is.
+`participant-consent`, `terms-of-service`, `not-established` and an absent `basis`
+all behave exactly as before: check 2 demands `ai_processing_disclosed: true` and nothing else will do.
 The field is optional for that reason — requiring it would invalidate protocols
 frozen before it existed, and those files are immutable by construction.
 

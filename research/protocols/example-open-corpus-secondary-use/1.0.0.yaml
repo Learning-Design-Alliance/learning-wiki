@@ -16,6 +16,20 @@
 # refusal. That protocol collects `pseudonymised` data, so it cannot reach the
 # licence path however its consent block is written. If you are changing the
 # licence conditions, that is the property to check you have kept.
+#
+# MUTATIONS THAT MUST BREAK THE BENCHMARK RELEASE. Each one alone should make
+# `example-open-corpus-benchmark` fail its ai_processing check, because each
+# removes one condition of the relaxation:
+#
+#   - delete any of `licence.id` / `.ref` / `.holder`
+#   - empty `secondary_use_caveats`
+#   - `ai_processing_disclosed:` anything but `not-applicable`
+#   - `required: true`
+#   - `data.identifiability.collected:` anything but deidentified / aggregate
+#   - `sources_uniformly_governed: false`, or delete it   (added 2026-09-15)
+#
+# If a change to the conditions leaves all six passing, the guard has been
+# widened rather than moved.
 # ============================================================================
 
 schema_version: 1
@@ -86,6 +100,12 @@ consent:
       released it.
   required: false
   mechanism: not-applicable
+  # CONDITION 5, added 2026-09-15. True here and meant: both corpora in this
+  # synthetic example are CC-BY-4.0, so one basis genuinely covers everything
+  # the release analyses. Set it to false — or delete it — and the licence
+  # relaxation stops holding and the benchmark release fails, which is the
+  # mutation that proves the condition is load-bearing.
+  sources_uniformly_governed: true
   permitted_uses:
     internal-pipeline-validation: permitted
     product-improvement: permitted
