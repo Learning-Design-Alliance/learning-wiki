@@ -1248,6 +1248,23 @@ def _validate_analyses(analyses, key, issues, datasets):
             for dep in inputs:
                 if dep not in dataset_ids:
                     _err(issues, w, f"input {dep!r} names no dataset in this release")
+        # Optional — plenty of analyses read data and emit a number. But an
+        # analysis that DOES declare what it produced has to declare it the way
+        # it declares what it consumed, or the two halves of the data lineage
+        # are written in different languages and nothing can walk it. A file
+        # path is the tempting wrong answer: it names where a result was
+        # written, not what the result is, and the next analysis downstream
+        # cannot cite it.
+        outputs = a.get("outputs")
+        if outputs is not None:
+            if not isinstance(outputs, list):
+                _err(issues, w, "outputs: must be a list of dataset ids this release "
+                                "declares (a file path belongs in artifacts:)")
+            else:
+                for dep in outputs:
+                    if dep not in dataset_ids:
+                        _err(issues, w, f"output {dep!r} names no dataset in this release "
+                                        f"(a file path belongs in artifacts:)")
         # Read by check_release_against_protocol against the protocol's
         # consent disclosure. Tri-state, because "nobody recorded whether a
         # model touched this" is not "no model touched it".
@@ -1743,6 +1760,8 @@ def validate_all() -> list:
                  f"research/releases/")
             continue
         _check_analysis_refs(rec, study_key, releases[pair], issues)
+        _check_release_cites_observations(rec, study_key, releases[pair],
+                                          pair[0], pair[1], issues)
 
     for rid, rec in sorted(reviews.items()):
         if isinstance(rec, dict):
@@ -1824,6 +1843,33 @@ def _check_evidence_join(rel, rid, version, obs_records, issues):
                  f"observations/{study_key}.yaml does not name this release back "
                  f"(study.release.ref is {named.get('ref')!r}, expected {rid!r}) — "
                  f"an edge written from one side only reads as working from that side")
+
+
+def _check_release_cites_observations(rec, study_key, release, rid, version, issues):
+    """The mirror of _check_evidence_join, walked from the observation side.
+
+    _check_evidence_join catches a release that cites an observation nobody
+    wrote. This catches the opposite and more common failure: an observation
+    record that names a release which never names it back. That edge reads as
+    working from the observation, and from the release the finding simply is
+    not there — a release whose `evidence:` is short, or missing entirely,
+    looks complete, because absence has no anchor to be absent from.
+
+    Every observation, not just the record: a release citing one finding out of
+    five leaves four that no reader arriving from the release can reach, and
+    the release is the front door."""
+    key = f"releases/{rid}/{version}"
+    cited = {str(e.get("ref")) for e in (release or {}).get("evidence") or []
+             if isinstance(e, dict)}
+    for o in rec.get("observations") or []:
+        if not isinstance(o, dict) or not o.get("id"):
+            continue
+        ref = f"{study_key}/{o['id']}"
+        if ref not in cited:
+            _err(issues, key,
+                 f"observations/{study_key}.yaml names this release but the release "
+                 f"does not cite {ref!r} in `evidence:` — the finding is unreachable "
+                 f"from the release that published it")
 
 
 def _check_analysis_refs(rec, study_key, release, issues):
