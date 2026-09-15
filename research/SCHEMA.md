@@ -167,9 +167,10 @@ consent:
   mechanism:                       # explicit | broad | opt-out | waived
                                    # | not-applicable | unspecified
   basis:                           # optional — participant-consent | terms-of-service
-                                   # | licence | not-established. ON WHAT BASIS
-                                   # *WE* MAY PROCESS. See "Secondary data" below;
-                                   # `licence` is the one that relaxes a check, and
+                                   # | licence | terms-of-use | not-established.
+                                   # ON WHAT BASIS *WE* MAY PROCESS. See "Secondary
+                                   # data" below; `licence` and `terms-of-use` are
+                                   # the two that relax a check, and
                                    # is narrowly guarded.
   licence:                         # required when basis is `licence`, refused otherwise
     {id, ref, holder}              # the instrument, where to read it, and WHO GRANTED
@@ -627,23 +628,54 @@ means nobody looked, which is a different state and one somebody can still fix b
 asking. Under a licence basis nobody can ask, and the author has to say which of
 the two this is.
 
+### Two instruments, one set of guards
+
+`licence` came first and its guards read as though they were about licensing.
+Re-read, **not one of them is.** They ask for a named instrument with a grantor
+and a public reference; an explicit record of what it does not settle; a
+positive `not-applicable` so that "nobody looked" cannot pass as "does not
+apply"; consent not required; and the claim covering every source. What they
+establish is that *the data reached us under a published instrument granted by a
+depositor, and the participants are unreachable*. That is as true of a data
+competition's rules or an archive's access conditions as of CC-BY.
+
+So **`terms-of-use`** is the same basis with a different instrument, carrying a
+`terms_of_use: {id, ref, holder}` block and **every guard below, unchanged**.
+Note what it is not: `terms-of-service`, three rows up, is a product's terms
+accepted by *the data subject*. `terms-of-use` is an instrument between **us and
+a depositor**, and like a licence it says nothing about what the participants
+were told.
+
+The first case was ASAP: a double-scored essay corpus whose competition rules
+say, in as many words, that competitors are *"free to publish summary and
+analysis information"* but agree *"not to share, distribute or otherwise make
+known any source essays"*. Nothing in that is a licence; everything in it is the
+shape the guards were written for. Refusing the value would not have made
+anything safer — it would have pushed the author to file it under `licence`,
+which is worse, or to abandon a protocol object for a corpus that needs one most.
+
 ### The guard, which is the part to preserve
 
-`basis: licence` is the only value in this schema that relaxes another check, so
-it is the only one that can be abused. Four conditions hold it shut, and the
+An instrument basis is the only thing in this schema that relaxes another check,
+so it is the only thing that can be abused. Five conditions hold it shut, and the
 fourth is load-bearing:
 
 | | condition | what it stops |
 |---|---|---|
-| 1 | `licence: {id, ref, holder}` | a basis nobody can look up |
+| 1 | `licence:` / `terms_of_use: {id, ref, holder}` | a basis nobody can look up |
 | 2 | `secondary_use_caveats` non-empty | a depositor's permission reading as the participants' |
 | 3 | `ai_processing_disclosed: not-applicable` | "nobody looked" passing as "does not apply" |
 | 4 | **`data.identifiability.collected` is `deidentified` or `aggregate`** | **the whole thing becoming a one-line escape hatch** |
 | 5 | `sources_uniformly_governed: true` | one licensed corpus buying the relaxation for every other source in the protocol |
 
-A licence can carry reuse rights over records a depositor de-identified and
-published. No licence conjures a basis for processing records that still
-identify the people in them. So `lazuli-platform-telemetry`, which collects
+An instrument can carry reuse rights over records a depositor de-identified and
+published. No instrument conjures a basis for processing records that still
+identify the people in them.
+
+**The block must match the basis, in both directions.** A `terms_of_use` block
+sitting under `basis: licence` is refused exactly as a `licence` block under any
+other basis is — it names an instrument nothing reads, which is how a record
+starts looking more governed than it is. So `lazuli-platform-telemetry`, which collects
 `pseudonymised` data, **cannot reach this path however its consent block is
 written** — and check 3 independently refuses any release naming it.
 
