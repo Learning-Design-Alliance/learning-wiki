@@ -52,6 +52,19 @@ work is done, not that the check is broken.
 - **Links to filenames containing parentheses need the `<...>` form.** A bare destination
   closes at the first `)`. `scripts/fix_links.py --apply` repairs them; lint's
   `link_needs_angle_brackets` catches new ones.
+- **`consent.basis: licence` must keep its four conditions, and condition 4 above
+  all.** A licence basis satisfies the research layer's AI-processing check in
+  place of a participant disclosure, which is correct for secondary data — but
+  it is the only value in that schema that relaxes a check, so it is the only
+  one that can be abused. It requires a named licence with its grantor, a
+  non-empty `secondary_use_caveats`, `ai_processing_disclosed: not-applicable`,
+  and **`data.identifiability.collected` of `deidentified` or `aggregate`**. That
+  last one is what stops it becoming a one-line escape hatch: it is why
+  `lazuli-platform-telemetry` cannot reach the path however its consent block is
+  written. Simplifying these conditions away would silently re-open the check the
+  layer exists to enforce. Reasoning in `research/SCHEMA.md` ("Secondary data"),
+  mutation list in the fixture header at
+  `research/protocols/example-open-corpus-secondary-use/1.0.0.yaml`.
 - **`scripts/find_title_duplicates.py` reports ~943 near-duplicate title pairs.** That is a
   known backlog, mostly hyphen-vs-underscore variants of one page. It is reported, not
   lint-failing, on purpose.
