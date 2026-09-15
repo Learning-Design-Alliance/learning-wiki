@@ -221,6 +221,13 @@ PROCESSING_BASES = {
 # written — which is the property to preserve if this is ever changed again.
 LICENCE_IDENTIFIABILITY = {"deidentified", "aggregate"}
 
+#: `additional_bases` accepts one value the top-level `basis` does not. A
+#: protocol covering simulated participants governs a source with no instrument
+#: at all, and `not-established` would be wrong — nothing is unestablished,
+#: there is nothing to establish. Only legal in the per-source list, because a
+#: protocol whose ONLY source is ungoverned has no consent question to record.
+ADDITIONAL_BASES = PROCESSING_BASES | {"none"}
+
 # How age was ESTABLISHED. An inclusion criterion of "18+" is not evidence of
 # age; these say what kind of evidence there is, and `not-established` is a
 # legal value that a downstream gate must treat as blocking rather than as a
@@ -927,8 +934,7 @@ def _validate_governance_uniformity(block, where, issues):
             _err(issues, ew, "each entry is a mapping of {source, basis, note}")
             continue
         _str(issues, ew, e.get("source"), "source", required=True)
-        _enum(issues, ew, e.get("basis"), PROCESSING_BASES + ("none",), "basis",
-              required=True)
+        _enum(issues, ew, e.get("basis"), ADDITIONAL_BASES, "basis", required=True)
         # Prose is required here and nowhere else in this block, because the
         # enum is precisely what could not express this arrangement — that is
         # why the protocol is in this branch at all.
@@ -987,16 +993,13 @@ def _validate_licence_basis(block, where, issues):
                             "on which WE process is the licence, and a research consent "
                             "we neither sought nor hold cannot also be the basis")
 
-    if block.get("sources_uniformly_governed") is not True:
-        _err(issues, where, "basis is `licence` but `sources_uniformly_governed` is not "
-                            "true, so the licence relaxation does NOT hold. The "
-                            "relaxation is a claim about every source a release "
-                            "analyses; a protocol governing sources held under "
-                            "different instruments has made it about one of them. "
-                            "Either split the protocol so each covers one arrangement, "
-                            "or satisfy the ordinary rule "
-                            "(`ai_processing_disclosed: true`) for the analyses that "
-                            "need it")
+    # NOT AN ERROR HERE, deliberately. A protocol may hold a real licence over one
+    # source and other instruments over the rest; saying so is the honest record and
+    # it still needs the licence block for the source that has one. What it loses is
+    # the relaxation, and that bites in `_licence_basis_holds` — at the release, where
+    # an analysis actually reaches for it. Failing the protocol instead would punish
+    # the declaration rather than the use, and the way authors route around a rule
+    # that punishes honesty is by claiming uniformity they have not got.
 
 
 def _validate_data(block, key, issues):
@@ -1705,11 +1708,26 @@ def check_release_against_protocol(rel, rel_key, protocol, issues):
     # `_licence_basis_holds` is deliberately strict about what counts, and its
     # identifiability condition means a protocol governing identified or
     # pseudonymised records cannot take the second path at all.
+    #
+    # A THIRD CASE, which is neither path: an analysis whose inputs contain no
+    # participants at all. A model summarising authored capability statements,
+    # or run over simulated records, has used AI and engaged no disclosure
+    # question — there is nobody whose disclosure could be at issue. Keyed off
+    # the datasets' own `identifiability`, so claiming it requires having
+    # already claimed the data has no participants, which is checkable and
+    # which a reviewer looking at a learner corpus would catch. Raised by
+    # `learning-graph-budget-2026`, whose generation-stability analysis runs a
+    # model over 18 human-AUTHORED graphs.
     licence_basis = _licence_basis_holds(protocol)
+    by_id = {d.get("id"): d for d in (rel.get("datasets") or []) if isinstance(d, dict)}
     for i, a in enumerate(rel.get("analyses") or []):
         if not isinstance(a, dict) or a.get("ai_processing") is not True:
             continue
         if consent.get("ai_processing_disclosed") is True or licence_basis:
+            continue
+        inputs = [by_id.get(x) for x in (a.get("inputs") or [])]
+        if inputs and all(isinstance(d, dict) and d.get("identifiability") == "not-applicable"
+                          for d in inputs):
             continue
         if consent.get("basis") == "licence":
             # They reached for the licence path and it did not hold. Say which
