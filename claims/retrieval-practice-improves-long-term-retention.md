@@ -7,22 +7,70 @@ generated:
   at: 2026-08-30
 id: retrieval-practice-improves-long-term-retention
 evidence_strength: strong
+sources:
+  - id: roediger-karpicke-2006
+    resource: "https://doi.org/10.1111/j.1467-9280.2006.01693.x"
+    title: "Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)"
+    author: Roediger, H. L., & Karpicke, J. D.
+    q: 3
+    i: 3
+    n: 180
+  - id: rowland-2014
+    resource: "https://doi.org/10.1037/a0037559"
+    title: "Rowland, C. A. (2014). The effect of testing versus restudy on retention: A meta-analytic review of the testing effect. *Psychological Bulletin, 140*(6), 1432–1463. [doi:10.1037/a0037559](https://doi.org/10.1037/a0037559)"
+    author: Rowland, C. A.
+    q: 4
+    i: 2
+  - id: adesope-2017
+    resource: "https://doi.org/10.3102/0034654316689306"
+    title: "Adesope, O. O., Trevisan, D. A., & Sundararajan, N. (2017). Rethinking the use of tests: A meta-analysis of practice testing. *Review of Educational Research, 87*(3), 659–701. [doi:10.3102/0034654316689306](https://doi.org/10.3102/0034654316689306)"
+    author: Adesope, O. O., Trevisan, D. A., & Sundararajan, N.
+    q: 4
+    i: 2
 ---
 
 # Retrieval Practice Improves Long Term Retention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 3 studies · `q4` two meta-analyses · `i3` large · testing over restudy
 
 Actively recalling information from memory (retrieval practice, or the "testing effect") produces stronger long-term retention than restudying the same material. The claim concerns retention over meaningful delays (days or more), not immediate performance, where restudying often looks as good or better.
 
 ## Subclaims
 
-<!-- TODO -->
+`q3 i3` Repeated testing beat repeated study at a one-week delay, 61% against 40% recall, after both groups had spent the same time with the passage. [→ Roediger & Karpicke 2006](#roediger-karpicke-2006)
+
+`q3 i3` The ordering reverses at a short delay: on a test taken five minutes after study, repeated study scored *higher* than repeated testing. The benefit is a property of the retention interval, not of the encoding session. [→ Roediger & Karpicke 2006](#roediger-karpicke-2006)
+
+`q4 i2` Meta-analysis of testing against restudy put the mean effect at g = 0.50, and the advantage grew with the length of the retention interval. [→ Rowland 2014](#rowland-2014)
+
+`q4 i2` An independent meta-analysis of practice testing against rereading and other comparison conditions found g = 0.51, with the effect holding across education levels and item formats. [→ Adesope et al. 2017](#adesope-et-al-2017)
 
 ## Evidence
 
-<!-- TODO -->
+### Roediger & Karpicke 2006
+
+Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)
+
+`q3` · `i3` · `n=180`
+
+Students read prose passages and then either re-read them or took free-recall tests, with total time equated. Retention was measured after 5 minutes, 2 days or 1 week. Repeated study produced the best immediate performance and the worst delayed performance; repeated testing inverted both. The dissociation between the 5-minute and 1-week results is the load-bearing part of this study: it shows that performance during learning is a misleading index of learning.
+
+### Rowland 2014
+
+Rowland, C. A. (2014). The effect of testing versus restudy on retention: A meta-analytic review of the testing effect. *Psychological Bulletin, 140*(6), 1432–1463. [doi:10.1037/a0037559](https://doi.org/10.1037/a0037559)
+
+`q4` · `i2`
+
+Meta-analysis of experiments comparing a testing condition against a restudy control, which is the comparison that matters for instructional decisions — testing against doing nothing overstates the effect. Mean g = 0.50. Moderator analyses found the benefit larger with feedback, with longer retention intervals, and with successful initial retrieval.
+
+### Adesope et al. 2017
+
+Adesope, O. O., Trevisan, D. A., & Sundararajan, N. (2017). Rethinking the use of tests: A meta-analysis of practice testing. *Review of Educational Research, 87*(3), 659–701. [doi:10.3102/0034654316689306](https://doi.org/10.3102/0034654316689306)
+
+`q4` · `i2`
+
+Meta-analysis of practice testing across education levels, comparing it against rereading, filler tasks and no treatment. Mean g = 0.51. The effect appeared for multiple-choice as well as constructed-response practice tests, which matters for a system whose selection items would otherwise be assumed inferior on this dimension.
 
 ## Discussion
 

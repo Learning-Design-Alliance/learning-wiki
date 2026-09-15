@@ -7,22 +7,53 @@ generated:
   at: 2026-08-30
 id: redundancy-hurts-learning
 evidence_strength: moderate
+sources:
+  - id: kalyuga-1999
+    resource: "https://doi.org/10.1002/(SICI)1099-0720(199908)13:4<351::AID-ACP589>3.0.CO;2-6"
+    title: "Kalyuga, S., Chandler, P., & Sweller, J. (1999). Managing split-attention and redundancy in multimedia instruction. *Applied Cognitive Psychology, 13*(4), 351–371. [doi:10.1002/(SICI)1099-0720(199908)13:4<351::AID-ACP589>3.0.CO;2-6](https://doi.org/10.1002/(SICI)1099-0720(199908)13:4<351::AID-ACP589>3.0.CO;2-6)"
+    author: Kalyuga, S., Chandler, P., & Sweller, J.
+    q: 3
+    i: 2
+  - id: adesope-nesbit-2012
+    resource: "https://doi.org/10.1037/a0026147"
+    title: "Adesope, O. O., & Nesbit, J. C. (2012). Verbal redundancy in multimedia learning environments: A meta-analysis. *Journal of Educational Psychology, 104*(1), 250–263. [doi:10.1037/a0026147](https://doi.org/10.1037/a0026147)"
+    author: Adesope, O. O., & Nesbit, J. C.
+    q: 4
+    i: 1
 ---
 
 # Redundancy Hurts Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 2 studies · `q4` meta-analysis and experiments · `i1`–`i2` · strongly conditional
 
 Presenting the same information simultaneously in multiple formats — such as on-screen text that duplicates spoken narration, or labels that restate what a diagram already shows — imposes extraneous cognitive load and impairs learning relative to a single well-integrated presentation. This is the redundancy principle of [Cognitive Load Theory](../theories/cognitive-load-theory.md).
 
 ## Subclaims
 
-<!-- TODO -->
+`q3 i2` Removing text that duplicated narration improved learning from a diagram-based multimedia lesson; the duplicate had to be processed and contributed nothing. [→ Kalyuga et al. 1999](#kalyuga-et-al-1999)
+
+`q4 i1` Meta-analysis found verbal redundancy is conditional rather than uniformly harmful: narration with on-screen text helped in some configurations and hurt in others, with the presence of competing visuals and the pacing of the presentation as moderators. [→ Adesope & Nesbit 2012](#adesope-nesbit-2012)
+
+`q4 i1` The harmful case is specifically the one where a learner must split attention between two sources presenting the same information while a third source competes for the same channel. [→ Adesope & Nesbit 2012](#adesope-nesbit-2012)
 
 ## Evidence
 
-<!-- TODO -->
+### Kalyuga et al. 1999
+
+Kalyuga, S., Chandler, P., & Sweller, J. (1999). Managing split-attention and redundancy in multimedia instruction. *Applied Cognitive Psychology, 13*(4), 351–371. [doi:10.1002/(SICI)1099-0720(199908)13:4<351::AID-ACP589>3.0.CO;2-6](https://doi.org/10.1002/(SICI)1099-0720(199908)13:4<351::AID-ACP589>3.0.CO;2-6)
+
+`q3` · `i2`
+
+Experiments in technical training comparing a diagram with integrated narration against the same material with redundant on-screen text. The redundant version produced worse learning, consistent with a working-memory account in which the duplicate consumes capacity without adding information.
+
+### Adesope & Nesbit 2012
+
+Adesope, O. O., & Nesbit, J. C. (2012). Verbal redundancy in multimedia learning environments: A meta-analysis. *Journal of Educational Psychology, 104*(1), 250–263. [doi:10.1037/a0026147](https://doi.org/10.1037/a0026147)
+
+`q4` · `i1`
+
+A meta-analysis of verbal redundancy that found the effect depends on conditions. Narration plus identical on-screen text was *beneficial* relative to narration alone in several configurations, and harmful where a picture competed for visual attention or where the presentation was system-paced. This is why the claim is rated moderate and should be cited with a contextual tag rather than a supporting one in most design contexts.
 
 ## Discussion
 

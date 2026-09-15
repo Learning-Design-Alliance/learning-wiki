@@ -7,22 +7,67 @@ generated:
   at: 2026-08-30
 id: coherence-principle-irrelevant-material-hurts-learning
 evidence_strength: moderate
+sources:
+  - id: harp-mayer-1998
+    resource: "https://doi.org/10.1037/0022-0663.90.3.414"
+    title: "Harp, S. F., & Mayer, R. E. (1998). How seductive details do their damage: A theory of cognitive interest in science learning. *Journal of Educational Psychology, 90*(3), 414–434. [doi:10.1037/0022-0663.90.3.414](https://doi.org/10.1037/0022-0663.90.3.414)"
+    author: Harp, S. F., & Mayer, R. E.
+    q: 3
+    i: 3
+  - id: mayer-2001
+    resource: "https://doi.org/10.1037/0022-0663.93.1.187"
+    title: "Mayer, R. E., Heiser, J., & Lonn, S. (2001). Cognitive constraints on multimedia learning: When presenting more material results in less understanding. *Journal of Educational Psychology, 93*(1), 187–198. [doi:10.1037/0022-0663.93.1.187](https://doi.org/10.1037/0022-0663.93.1.187)"
+    author: Mayer, R. E., Heiser, J., & Lonn, S.
+    q: 3
+    i: 2
+  - id: rey-2012
+    resource: "https://doi.org/10.1016/j.edurev.2012.05.003"
+    title: "Rey, G. D. (2012). A review and meta-analysis of the seductive detail effect. *Educational Research Review, 7*(3), 216–237. [doi:10.1016/j.edurev.2012.05.003](https://doi.org/10.1016/j.edurev.2012.05.003)"
+    author: Rey, G. D.
+    q: 4
+    i: 1
 ---
 
 # Coherence Principle Irrelevant Material Hurts Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 3 studies · `q4` meta-analysis and experiments · `i1`–`i3` · interesting-but-irrelevant material costs transfer
 
 Adding interesting-but-irrelevant text, images, sounds, or music to instructional materials typically impairs learning by consuming working-memory resources without supporting the learning goal.
 
 ## Subclaims
 
-<!-- TODO -->
+`q3 i3` Adding interesting but irrelevant text and illustrations to a science explanation reduced transfer performance, even though learners rated the embellished version more interesting. [→ Harp & Mayer 1998](#harp-mayer-1998)
+
+`q3 i2` Adding extraneous material to a multimedia explanation reduced understanding across three experiments — presenting more produced less. [→ Mayer et al. 2001](#mayer-et-al-2001)
+
+`q4 i1` Meta-analysis of the seductive-detail effect confirmed a reliable negative effect on retention and transfer, with an average magnitude in the small range rather than the large one the original experiments suggested. [→ Rey 2012](#rey-2012)
 
 ## Evidence
 
-<!-- TODO -->
+### Harp & Mayer 1998
+
+Harp, S. F., & Mayer, R. E. (1998). How seductive details do their damage: A theory of cognitive interest in science learning. *Journal of Educational Psychology, 90*(3), 414–434. [doi:10.1037/0022-0663.90.3.414](https://doi.org/10.1037/0022-0663.90.3.414)
+
+`q3` · `i3`
+
+Experiments adding seductive details — vivid, interesting, topically related but explanatorily irrelevant material — to a lesson on lightning formation. Transfer suffered. The authors' account is that the details prime an inappropriate schema, which makes this a claim about interference rather than about attention alone.
+
+### Mayer et al. 2001
+
+Mayer, R. E., Heiser, J., & Lonn, S. (2001). Cognitive constraints on multimedia learning: When presenting more material results in less understanding. *Journal of Educational Psychology, 93*(1), 187–198. [doi:10.1037/0022-0663.93.1.187](https://doi.org/10.1037/0022-0663.93.1.187)
+
+`q3` · `i2`
+
+Three experiments adding extraneous video, narration or music to a multimedia explanation. Each addition reduced problem-solving transfer. The title states the result directly: presenting more material can result in less understanding.
+
+### Rey 2012
+
+Rey, G. D. (2012). A review and meta-analysis of the seductive detail effect. *Educational Research Review, 7*(3), 216–237. [doi:10.1016/j.edurev.2012.05.003](https://doi.org/10.1016/j.edurev.2012.05.003)
+
+`q4` · `i1`
+
+A review and meta-analysis of the seductive-detail literature. The effect held on retention and transfer measures, and the pooled magnitude was smaller than the headline experiments implied. Recorded here at `i1` for that reason: the direction is well supported, and a designer should not expect a large effect from removing one embellishment.
 
 ## Discussion
 

@@ -7,22 +7,67 @@ generated:
   at: 2026-08-30
 id: rereading-less-effective-than-retrieval-practice
 evidence_strength: strong
+sources:
+  - id: callender-mcdaniel-2009
+    resource: "https://doi.org/10.1016/j.cedpsych.2008.07.001"
+    title: "Callender, A. A., & McDaniel, M. A. (2009). The limited benefits of rereading educational texts. *Contemporary Educational Psychology, 34*(1), 30–41. [doi:10.1016/j.cedpsych.2008.07.001](https://doi.org/10.1016/j.cedpsych.2008.07.001)"
+    author: Callender, A. A., & McDaniel, M. A.
+    q: 3
+    i: 0
+  - id: roediger-karpicke-2006b
+    resource: "https://doi.org/10.1111/j.1745-6916.2006.00012.x"
+    title: "Roediger, H. L., & Karpicke, J. D. (2006). The power of testing memory: Basic research and implications for educational practice. *Perspectives on Psychological Science, 1*(3), 181–210. [doi:10.1111/j.1745-6916.2006.00012.x](https://doi.org/10.1111/j.1745-6916.2006.00012.x)"
+    author: Roediger, H. L., & Karpicke, J. D.
+    q: 2
+    i: 2
+  - id: dunlosky-2013
+    resource: "https://doi.org/10.1177/1529100612453266"
+    title: "Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)"
+    author: Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T.
+    q: 3
+    i: 2
 ---
 
 # Rereading is less effective than retrieval practice
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 3 studies · `q3` experiment and systematic review · `i0`–`i2` · rereading near zero
 
 Actively recalling material from memory produces stronger, more durable learning than restudying the same material by rereading it. This is the core of the testing-effect literature: the act of retrieval itself, not the re-exposure to content, drives durable retention.
 
 ## Subclaims
 
-<!-- TODO -->
+`q3 i0` Across experiments with educational texts, rereading produced no reliable benefit over a single reading on comprehension or memory measures. [→ Callender & McDaniel 2009](#callender-mcdaniel-2009)
+
+`q3 i2` A systematic review of ten study techniques rated practice testing and distributed practice *high utility* and rereading *low utility*, placing rereading among the least effective of the widely used strategies. [→ Dunlosky et al. 2013](#dunlosky-et-al-2013)
+
+`q2 i2` Rereading's appeal is that it raises immediate performance and fluency, which is the same mechanism that makes it a poor predictor of delayed retention. [→ Roediger & Karpicke 2006 (review)](#roediger-karpicke-2006-review)
 
 ## Evidence
 
-<!-- TODO -->
+### Callender & McDaniel 2009
+
+Callender, A. A., & McDaniel, M. A. (2009). The limited benefits of rereading educational texts. *Contemporary Educational Psychology, 34*(1), 30–41. [doi:10.1016/j.cedpsych.2008.07.001](https://doi.org/10.1016/j.cedpsych.2008.07.001)
+
+`q3` · `i0`
+
+A series of experiments with authentic educational texts rather than word lists, testing rereading against a single reading. Benefits were absent or negligible on the measures that matter for instruction. The authors' framing is the useful one for design: rereading is not harmful, it is close to inert for the time it costs.
+
+### Roediger & Karpicke 2006 (review)
+
+Roediger, H. L., & Karpicke, J. D. (2006). The power of testing memory: Basic research and implications for educational practice. *Perspectives on Psychological Science, 1*(3), 181–210. [doi:10.1111/j.1745-6916.2006.00012.x](https://doi.org/10.1111/j.1745-6916.2006.00012.x)
+
+`q2` · `i2`
+
+A narrative review of the testing-effect literature and its educational implications. Relevant here for the mechanism rather than an effect size: rereading increases perceptual fluency and immediate accessibility, both of which learners read as evidence of learning.
+
+### Dunlosky et al. 2013
+
+Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)
+
+`q3` · `i2`
+
+A systematic review evaluating ten learning techniques against generalisability, learner characteristics, materials and criterion tasks. Rereading and highlighting received the lowest utility ratings; practice testing and distributed practice the highest. The review is a synthesis rather than a single experiment, so its weight here is breadth of coverage.
 
 ## Discussion
 
