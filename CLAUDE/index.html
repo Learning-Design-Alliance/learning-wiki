@@ -774,6 +774,34 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="The research layer — where knowledge came from">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#the-study-plan-is-the-fifth-object-and-it-is-what-a-reviewer-reads" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The study plan is the fifth object, and it is what a reviewer reads
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rendering-a-protocol-as-somebody-elses-form" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Rendering a protocol as somebody else's form
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -1310,6 +1338,34 @@
       
     </span>
   </a>
+  
+    <nav class="md-nav" aria-label="The research layer — where knowledge came from">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#the-study-plan-is-the-fifth-object-and-it-is-what-a-reviewer-reads" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The study plan is the fifth object, and it is what a reviewer reads
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rendering-a-protocol-as-somebody-elses-form" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Rendering a protocol as somebody else's form
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -2539,9 +2595,9 @@ is a re-read of it, and a re-read finds things.</p>
 <p><code>research/</code> records <strong>what happened and how it can be interrogated</strong>; the wiki's
 kinds record <strong>what we currently believe</strong>. Full field reference in
 <code>research/SCHEMA.md</code>; rationale in <code>scripts/research_lib.py</code>.</p>
-<div class="highlight"><pre><span></span><code>Protocol ──&gt; Research Release ──&gt; Evidence ──&gt; Claim
-                                     ^
-                            Review ──┴── Issue
+<div class="highlight"><pre><span></span><code>Protocol ──&gt; Study ──&gt; Research Release ──&gt; Evidence ──&gt; Claim
+                                               ^
+                                      Review ──┴── Issue
 </code></pre></div>
 <p><strong>There is no <code>evidence/</code> folder, and that is the main decision.</strong> <code>observations/</code>
 already <em>is</em> the evidence layer — its <code>study:</code> block is "the SOURCE", its
@@ -2690,6 +2746,104 @@ python3<span class="w"> </span>scripts/check_research.py<span class="w"> </span>
 python3<span class="w"> </span>scripts/check_research.py<span class="w"> </span>--why<span class="w"> </span>&lt;claim-slug&gt;<span class="w">  </span><span class="c1"># the traversal</span>
 python3<span class="w"> </span>scripts/lint.py<span class="w"> </span>--type<span class="w"> </span>research<span class="w">               </span><span class="c1"># the same checks, in CI</span>
 </code></pre></div>
+<h3 id="the-study-plan-is-the-fifth-object-and-it-is-what-a-reviewer-reads">The study plan is the fifth object, and it is what a reviewer reads<a class="headerlink" href="#the-study-plan-is-the-fifth-object-and-it-is-what-a-reviewer-reads" title="Permanent link">&para;</a></h3>
+<p><code>research/studies/&lt;id&gt;/&lt;version&gt;.yaml</code> sits between the protocol and the release:
+<strong>Protocol → Study → Release → Evidence → Claim.</strong></p>
+<p><strong>It is not a release, and that was forced rather than chosen.</strong> A release IS a
+publication — the layer refuses one whose protocol lacks
+<code>permitted_uses['research-publication'] == permitted</code>. A plan is not. Folding them
+together would either make it impossible to plan a study under a protocol that forbids
+publishing (exactly the internal pipeline-validation case <code>lazuli-platform-telemetry</code>
+describes) or weaken the publication gate. It is also the object an IRB actually
+reviews: they review a plan, not a paper.</p>
+<p><strong>What lives on the study is what varies per study</strong> — the governing rule <code>observations/</code>
+established. A protocol has no single question, no enrolment target and no endpoint,
+because it governs a family. So <code>question</code>, <code>background</code>, <code>design</code>, <code>setting</code>,
+<code>resources</code>, <code>enrolment</code>, <code>timelines</code>, <code>procedures</code>, <code>endpoints</code>, <code>analysis_plan</code>,
+<code>benefits</code>, <code>participant_burden</code>, <code>results_sharing</code> and <code>community_involvement</code> are the
+study's. Counts are <code>{value, unit}</code>: in a cluster design the number randomised and the
+number analysed are different numbers of different things.</p>
+<p><strong>A declared endpoint is not a measured one.</strong> <code>endpoints[]</code> says what the study set out
+to test; <code>observations/</code> records what was measured. The difference between the two lists
+is what preregistration exists to police, and it is only visible because they are
+separate records. At least one endpoint must be <code>role: primary</code>.</p>
+<p><strong><code>conformance</code> is machine-authored; <code>determination</code> is not, and they are separate
+blocks.</strong> A machine may compute that a plan satisfies a ruleset — naming the ruleset and
+version, or the result cannot be re-checked or superseded. A machine may <strong>never</strong> record
+that an IRB determined anything: <code>determined_by</code> must be <code>human:&lt;id&gt;</code> or <code>org:&lt;id&gt;</code>, the
+same discipline that makes <code>append_authority()</code> refuse a non-human verifier. And
+<code>conformance.result</code> must agree with its own checks — a <code>conforming</code> stamped over a
+failing check fails validation, because that summary is exactly what a reviewer would
+rely on.</p>
+<p><strong><code>status</code> changes are version bumps</strong>, because the file is immutable. That is the
+feature: a material change writes a new version, which invalidates the conformance result
+computed against the old one. That is the escalation mechanism, not a workaround.</p>
+<p><strong>Three enforcement checks, protocol as ceiling and study as actual</strong>, each verified by
+mutating the fixture until it fired: a study may not enrol a special population its
+protocol does not permit (<code>not-addressed</code> is not permission); consent required by the
+protocol cannot be documented as <code>none</code> without a recorded waiver; and a study enrolling
+minors requires the protocol's <code>consent.minors</code> block.</p>
+<p><strong>Everything added to <code>protocol</code> is OPTIONAL, and that is forced by immutability</strong> — a
+newly required field would retroactively invalidate every frozen protocol. New:
+<code>participants.special_populations</code>, <code>consent.process</code>, <code>consent.waiver</code> (the five
+regulatory criteria as separate checkable fields), <code>consent.minors</code>,
+<code>consent.withdrawal.investigator_initiated</code>, <code>data.subject_privacy</code>, per-risk
+<code>probability</code>/<code>magnitude</code>/<code>duration</code>/<code>reversibility</code>, and <code>sites</code>.</p>
+<p><strong>What optionality buys is expressibility, not enforcement.</strong> Before these fields,
+"nobody established this" could not be <em>said</em> — the question had no home. The three
+pre-existing protocols went from 13–14 unanswerable sections to 0–1 <strong>without a single
+frozen file being touched</strong>; their gaps became <code>unspecified</code> rather than <code>no-field</code>.</p>
+<p><strong><code>data.subject_privacy</code> is the one most easily got wrong.</strong> A reviewer's template is
+explicit that it is not storage: it is intrusiveness — how subjects are approached, how
+they are put at ease, and how the team is entitled to reach any source of information
+about them. Answering it from the storage and access fields answers a different question
+convincingly, which is worse than not answering it.</p>
+<p><strong>The synthetic fixture pair exercises the minors cluster on purpose</strong>, because minors are
+the population an automated review pathway is least likely to be able to cover:
+<code>protocols/example-classroom-consented-study/1.0.0.yaml</code> and
+<code>studies/example-retrieval-practice-classroom/1.0.0.yaml</code>, marked <code>synthetic-simulation</code>
+and <code>SYNTHETIC</code> throughout. Together they render every section of a reviewer's template:
+26 filled, 4 not-applicable, <strong>0 gaps</strong>.</p>
+<p><strong>Two YAML traps bit while writing them, both the same shape.</strong> A list item reading
+<code>- Primary: arm coefficient…</code> is a <em>mapping</em>, not a string, because of the <code>:</code>. The
+validator caught both (<code>must be a non-empty string</code>) — but a schema that accepted free
+-form values would have stored a dict where a sentence belonged and nothing would have
+said so.</p>
+<h3 id="rendering-a-protocol-as-somebody-elses-form">Rendering a protocol as somebody else's form<a class="headerlink" href="#rendering-a-protocol-as-somebody-elses-form" title="Permanent link">&para;</a></h3>
+<p><code>scripts/render_brany_protocol.py</code> renders a protocol (optionally with a release) as
+BRANY's SBER protocol template — the 26-section document an independent IRB would expect.
+It exists to answer one question checkably: <strong>which of an IRB's questions can this schema
+already answer, and which can it not?</strong></p>
+<div class="highlight"><pre><span></span><code>python3<span class="w"> </span>scripts/render_brany_protocol.py<span class="w"> </span>&lt;protocol-id&gt;<span class="w"> </span><span class="o">[</span>--release<span class="w"> </span>&lt;id&gt;<span class="o">]</span><span class="w"> </span><span class="c1"># the document</span>
+python3<span class="w"> </span>scripts/render_brany_protocol.py<span class="w"> </span>&lt;protocol-id&gt;<span class="w"> </span>--coverage<span class="w">       </span><span class="c1"># status per section</span>
+python3<span class="w"> </span>scripts/render_brany_protocol.py<span class="w"> </span>&lt;protocol-id&gt;<span class="w"> </span>--gaps<span class="w">           </span><span class="c1"># just what it cannot answer</span>
+</code></pre></div>
+<p><strong>A section the schema cannot answer renders as a loud marker, never as prose</strong>, and that
+is the whole discipline: a governance document filled in by inference reads as verified,
+which is the failure this file catalogues at length on DOIs. Five statuses, and the
+distinctions carry the meaning — <code>unspecified</code> (the schema has the field; this protocol
+has not established it) is not <code>no-field</code> (the schema has nowhere to put it), exactly as
+<code>crossref_reachable: false</code> is not <code>flagged</code>.</p>
+<p><strong>Some "not applicable" determinations are made by the record rather than by the author.</strong>
+BRANY requires a safety-monitoring plan and injury-compensation terms only above minimal
+risk, so <code>risks.classification</code> decides sections 16 and 23 — and <code>not-determined</code> correctly
+yields neither answer, because an undetermined classification decides nothing. That is a
+small worked example of the larger argument: a machine-readable protocol lets a reviewer's
+own rule run against the configuration.</p>
+<p><strong>Those gaps are closed, and the measurement is the record of it.</strong> When this was first
+run, 13 of 30 sections could not be answered at all (14 where risk classification was
+undetermined). The study object and the optional protocol fields above close every one:
+a protocol and a study plan together render <strong>26 filled, 4 not-applicable, 0 gaps</strong>. The
+three frozen protocols, untouched, went from 13–14 unanswerable to 0–1 — their gaps are
+now <code>unspecified</code>, which is a statement, where before there was no field to leave empty.</p>
+<p><strong>Re-measure rather than trusting that paragraph:</strong></p>
+<div class="highlight"><pre><span></span><code>python3<span class="w"> </span>scripts/render_brany_protocol.py<span class="w"> </span>example-classroom-consented-study<span class="w"> </span><span class="se">\</span>
+<span class="w">    </span>--study<span class="w"> </span>example-retrieval-practice-classroom<span class="w"> </span>--coverage
+</code></pre></div>
+<p><strong>The one section that still reports <code>no-field</code> does so correctly</strong>: section 23 on
+<code>lazuli-platform-telemetry</code>, whose <code>risks.classification</code> is <code>not-determined</code>, so the rule
+that would make it inapplicable cannot fire. That is the record refusing to decide, not a
+missing field.</p>
 <p><code>--why</code> is the acceptance test run as a command: <em>why does the wiki believe claim X</em>,
 answered by walking claim ← evidence ← analysis ← dataset ← release ← protocol from
 the records alone, printing what is contested at every level, and naming any record
@@ -3233,6 +3387,7 @@ indexes with <code>python3 scripts/build_indexes.py</code>.</p>
   observations/      ← structured record of what each study actually did (see above)
   research/          ← the research layer: where knowledge came from (see above)
     protocols/&lt;id&gt;/&lt;version&gt;.yaml   ← versioned, immutable governance configuration
+    studies/&lt;id&gt;/&lt;version&gt;.yaml     ← versioned, immutable STUDY PLANS (see below)
     releases/&lt;id&gt;/&lt;version&gt;.yaml    ← versioned, immutable investigations
     reviews/&lt;review-id&gt;.yaml        ← structured contributions interrogating any of it
     issues/&lt;issue-id&gt;.yaml          ← one problem, however many people found it

@@ -626,6 +626,34 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Evidence">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#kalyuga-et-al-1999" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Kalyuga et al. 1999
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#adesope-nesbit-2012" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Adesope &amp; Nesbit 2012
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -678,7 +706,7 @@
 <h1 id="redundancy-hurts-learning">Redundancy Hurts Learning<a class="headerlink" href="#redundancy-hurts-learning" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a>
-<strong>Evidence</strong> · none recorded yet</p>
+<strong>Evidence</strong> · 2 studies · <code>q4</code> meta-analysis and experiments · <code>i1</code>–<code>i2</code> · strongly conditional</p>
 </blockquote>
 <p>Presenting the same information simultaneously in multiple formats — such as on-screen text that duplicates spoken narration, or labels that restate what a diagram already shows — imposes extraneous cognitive load and impairs learning relative to a single well-integrated presentation. This is the redundancy principle of <a href="../../theories/cognitive-load-theory/">Cognitive Load Theory</a>.</p>
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
@@ -752,11 +780,18 @@ code and adds <code>n=</code>.</p>
 page reports it faithfully is a separate axis — see <code>trust</code> in the page
 metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 </details>
-<!-- TODO -->
-
+<p><code>q3 i2</code> Removing text that duplicated narration improved learning from a diagram-based multimedia lesson; the duplicate had to be processed and contributed nothing. <a href="#kalyuga-et-al-1999">→ Kalyuga et al. 1999</a></p>
+<p><code>q4 i1</code> Meta-analysis found verbal redundancy is conditional rather than uniformly harmful: narration with on-screen text helped in some configurations and hurt in others, with the presence of competing visuals and the pacing of the presentation as moderators. <a href="#adesope-nesbit-2012">→ Adesope &amp; Nesbit 2012</a></p>
+<p><code>q4 i1</code> The harmful case is specifically the one where a learner must split attention between two sources presenting the same information while a third source competes for the same channel. <a href="#adesope-nesbit-2012">→ Adesope &amp; Nesbit 2012</a></p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
-<!-- TODO -->
-
+<h3 id="kalyuga-et-al-1999">Kalyuga et al. 1999<a class="headerlink" href="#kalyuga-et-al-1999" title="Permanent link">&para;</a></h3>
+<p>Kalyuga, S., Chandler, P., &amp; Sweller, J. (1999). Managing split-attention and redundancy in multimedia instruction. <em>Applied Cognitive Psychology, 13</em>(4), 351–371. <a href="https://doi.org/10.1002/(SICI)1099-0720(199908)13:4&lt;351::AID-ACP589&gt;3.0.CO;2-6">doi:10.1002/(SICI)1099-0720(199908)13:4&lt;351::AID-ACP589&gt;3.0.CO;2-6</a></p>
+<p><code>q3</code> · <code>i2</code></p>
+<p>Experiments in technical training comparing a diagram with integrated narration against the same material with redundant on-screen text. The redundant version produced worse learning, consistent with a working-memory account in which the duplicate consumes capacity without adding information.</p>
+<h3 id="adesope-nesbit-2012">Adesope &amp; Nesbit 2012<a class="headerlink" href="#adesope-nesbit-2012" title="Permanent link">&para;</a></h3>
+<p>Adesope, O. O., &amp; Nesbit, J. C. (2012). Verbal redundancy in multimedia learning environments: A meta-analysis. <em>Journal of Educational Psychology, 104</em>(1), 250–263. <a href="https://doi.org/10.1037/a0026147">doi:10.1037/a0026147</a></p>
+<p><code>q4</code> · <code>i1</code></p>
+<p>A meta-analysis of verbal redundancy that found the effect depends on conditions. Narration plus identical on-screen text was <em>beneficial</em> relative to narration alone in several configurations, and harmful where a picture competed for visual attention or where the presentation was system-paced. This is why the claim is rated moderate and should be cited with a contextual tag rather than a supporting one in most design contexts.</p>
 <h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
 <p><strong>What counts as harmful redundancy.</strong> The effect is specific: it concerns <em>duplicated</em> information presented in parallel channels. Classic cases include narrated animation with concurrent on-screen text repeating the narration, and graphics where printed text restates information the visual already conveys. Learners must mentally reconcile the two sources, splitting attention and consuming working memory without adding new content — the same overload mechanism described in <a href="../cognitive-overload-degrades-learning/">Cognitive overload degrades learning</a> [+M]. Redundant duplication is thus a constraint on multimedia design: under these conditions, adding a second format <em>reduces</em> rather than supports learning [-S].</p>
 <p><strong>Redundancy is not the same as complementary modalities.</strong> Two presentations that each carry <em>non-overlapping</em> information — a diagram plus a concise verbal explanation of what it does not show — are not redundant and can support learning [+M]. The boundary condition is informational overlap, not the mere presence of two formats. Designers should ask whether each channel could stand alone; if deleting one loses nothing, it is redundant. This distinction parallels the <a href="../coherence-principle-irrelevant-material-hurts-learning/">Coherence principle: irrelevant material hurts learning</a>: both prescribe deleting material that adds load without adding content.</p>
@@ -814,6 +849,10 @@ metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 <tr>
 <td><code>trust</code></td>
 <td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>2 — <code>kalyuga-1999</code>, <code>adesope-nesbit-2012</code></td>
 </tr>
 </tbody>
 </table>
