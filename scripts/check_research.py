@@ -252,6 +252,7 @@ def crosswalk() -> int:
 def summary() -> None:
     protocols, _ = rl.load_protocols()
     releases, _ = rl.load_releases()
+    studies, _ = rl.load_studies()
     reviews, _ = rl.load_reviews()
     issue_recs, _ = rl.load_issues()
     obs_records, _ = ol.load_all()
@@ -259,9 +260,12 @@ def summary() -> None:
     by_obj = defaultdict(list)
     for (oid, v) in protocols:
         by_obj[("protocol", oid)].append(v)
+    for (oid, v) in studies:
+        by_obj[("study", oid)].append(v)
     for (oid, v) in releases:
         by_obj[("release", oid)].append(v)
     print(f"{len({k for k, _ in protocols})} protocol(s), "
+          f"{len({k for k, _ in studies})} study plan(s), "
           f"{len({k for k, _ in releases})} release(s), "
           f"{len(reviews)} review(s), {len(issue_recs)} issue(s).\n")
 
@@ -339,12 +343,13 @@ def main() -> None:
     problems = rl.validate_all()
     if not problems:
         protocols, _ = rl.load_protocols()
+        studies, _ = rl.load_studies()
         releases, _ = rl.load_releases()
         reviews, _ = rl.load_reviews()
         issue_recs, _ = rl.load_issues()
-        print(f"research/: {len(protocols)} protocol version(s), {len(releases)} release "
-              f"version(s), {len(reviews)} review(s), {len(issue_recs)} issue(s), "
-              f"0 issues.")
+        print(f"research/: {len(protocols)} protocol version(s), {len(studies)} study "
+              f"version(s), {len(releases)} release version(s), {len(reviews)} "
+              f"review(s), {len(issue_recs)} issue(s), 0 issues.")
         return
     print(f"{len(problems)} problem(s):", file=sys.stderr)
     for p in problems:

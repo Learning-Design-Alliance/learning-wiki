@@ -41,6 +41,8 @@ import textwrap
 
 import research_lib as rl
 
+SPECIAL_POPULATION_CLASSES = rl.SPECIAL_POPULATIONS
+
 FILLED = "filled"
 PARTIAL = "partial"
 UNSPEC = "unspecified"
@@ -83,7 +85,7 @@ def _scalar(value, absent="not recorded"):
 # decide them; NO_FIELD is structural and says so.
 
 
-def s01_title(p, r):
+def s01_title(p, st, r):
     b = p.get("protocol", {})
     return FILLED, (f"{_para(b.get('title'))}\n\n"
                     f"Protocol identifier: `{b.get('id')}` version `{b.get('version')}`, "
@@ -94,39 +96,61 @@ def s01_title(p, r):
                     f"version that was submitted.)*")
 
 
-def s02_objectives(p, r):
-    if r is None:
-        return UNSPEC, ("*No research release named. The purpose and aims live on the "
-                        "release (`release.question`), not the protocol — a protocol "
-                        "governs a family of investigations.*")
-    rel = r.get("release", {})
-    design = r.get("research_design", {})
-    out = [_para(rel.get("question")) or gap("release.question is empty")]
-    if design.get("detail"):
-        out.append(_para(design["detail"]))
+def s02_objectives(p, st, r):
+    """The purpose lives on the STUDY: a protocol governs a family of
+    investigations and has no single question to state."""
+    if st is None:
+        return UNSPEC, ("*No study plan named. The question lives on the study "
+                        "(`study.question`), not the protocol.*")
+    out = [_para(st.get("study", {}).get("question")) or gap("study.question is empty")]
+    d = st.get("design", {})
+    if d.get("detail"):
+        out.append(_para(d["detail"]))
     return FILLED, "\n\n".join(out)
 
 
-def s03_background(p, r):
-    return NO_FIELD, gap(
-        "neither the protocol nor the release schema carries prior literature, gaps in "
-        "current knowledge, or preliminary data. The wiki's claim pages hold exactly "
-        "this material, but nothing links a protocol to them.")
+def s03_background(p, st, r):
+    if st is None:
+        return UNSPEC, "*No study plan named; the background lives on the study.*"
+    return FILLED, (_para(st.get("study", {}).get("background"))
+                    or gap("study.background is empty"))
 
 
-def s04_inclusion_exclusion(p, r):
+def s04_inclusion_exclusion(p, st, r):
     part = p.get("participants", {})
     body = ["**Inclusion**", _md_list(part.get("inclusion")),
-            "", "**Exclusion**", _md_list(part.get("exclusion")), "",
-            gap("BRANY additionally requires an explicit include/exclude statement for "
-                "each of four special populations — adults unable to consent, minors, "
-                "pregnant women, prisoners — and warns that members of those populations "
-                "may not be enrolled unless named in the inclusion criteria. The schema "
-                "has free-text lists, so it cannot guarantee all four were addressed.")]
-    return PARTIAL, "\n".join(body)
+            "", "**Exclusion**", _md_list(part.get("exclusion")), ""]
+    special = part.get("special_populations")
+    if not isinstance(special, dict):
+        body.append(gap("the four special populations BRANY requires an explicit "
+                        "position on are not addressed: `participants."
+                        "special_populations` is absent from this protocol."))
+        return PARTIAL, "\n".join(body)
+    body.append("**Special populations**, as the template requires — a position on "
+                "each of the four:")
+    unaddressed = []
+    for cls in sorted(SPECIAL_POPULATION_CLASSES):
+        stance = special.get(cls)
+        if stance is None or stance == "not-addressed":
+            unaddressed.append(cls)
+            stance = stance or "ABSENT"
+        body.append(f"- `{cls}`: **{stance}**")
+    if st is not None:
+        enrolled = (st.get("enrolment") or {}).get("special_populations") or {}
+        if enrolled:
+            body += ["", "This study enrols: "
+                     + ", ".join(f"`{k}`" for k, v in sorted(enrolled.items())
+                                 if v == "included") or "*none of the four*"]
+    if unaddressed:
+        body += ["", gap("no position is recorded for " + ", ".join(unaddressed)
+                         + ". BRANY warns that members of these populations may not be "
+                           "enrolled unless named in the inclusion criteria, so silence "
+                           "here is a defect rather than a default.")]
+        return PARTIAL, "\n".join(body)
+    return FILLED, "\n".join(body)
 
 
-def s05_vulnerable(p, r):
+def s05_vulnerable(p, st, r):
     groups = p.get("participants", {}).get("vulnerable_populations") or []
     if not groups:
         return UNSPEC, "*No vulnerable populations recorded for this protocol.*"
@@ -140,33 +164,90 @@ def s05_vulnerable(p, r):
     return FILLED, "\n".join(out).rstrip()
 
 
-def s06_setting(p, r):
-    return NO_FIELD, gap(
-        "there is no field for where the research is conducted, where subjects are "
-        "identified and recruited, or for site-specific regulation. `data.storage.location` "
-        "says where DATA lives, which is a different question and must not be reused for it.")
+
+def s06_setting(p, st, r):
+    if st is None:
+        return UNSPEC, "*No study plan named; the setting lives on the study.*"
+    setting = st.get("setting") or {}
+    lines = [f"**Where the research is conducted.** {_para(setting.get('conducted_where'))}",
+             "",
+             f"**Where subjects are identified and recruited.** "
+             f"{_para(setting.get('recruitment_sites'))}"]
+    reqs = setting.get("site_specific_requirements")
+    if reqs:
+        lines += ["", "**Site-specific requirements**", _md_list(reqs)]
+    sites = p.get("sites")
+    if sites:
+        lines += ["", "**Sites** (from the protocol — the governance applies per site)"]
+        for site in sites:
+            lines.append(f"- **{_para(site.get('name'))}** — {_para(site.get('role'))}")
+            for a in site.get("approvals") or []:
+                lines.append(f"  - approval: {a}")
+    return FILLED, "\n".join(lines)
 
 
-def s07_resources(p, r):
-    return NO_FIELD, gap(
-        "no field for staff, their qualifications, investigator time, feasibility of the "
-        "recruitment target, or available support resources.")
+
+def s07_resources(p, st, r):
+    if st is None:
+        return UNSPEC, "*No study plan named; resources live on the study.*"
+    res = (st.get("setting") or {}).get("resources") or {}
+    lines = ["**Staff**", _md_list(res.get("staff"))]
+    if res.get("investigator_time"):
+        lines += ["", f"**Investigator time.** {_para(res['investigator_time'])}"]
+    if res.get("participant_support"):
+        lines += ["", f"**Support available to participants.** "
+                      f"{_para(res['participant_support'])}"]
+    return FILLED, "\n".join(lines)
 
 
-def s08_number_of_subjects(p, r):
-    return NO_FIELD, gap(
-        "no planned enrolment target. `observations/` records an achieved sample per "
-        "result AFTER a study runs (`evidence_base.size`), which is a different fact "
-        "from the number a protocol proposes to accrue.")
+
+def s08_number_of_subjects(p, st, r):
+    if st is None:
+        return UNSPEC, "*No study plan named; the enrolment target lives on the study.*"
+    enr = st.get("enrolment") or {}
+    lines = []
+    for label, k in (("Planned", "planned"), ("Screened", "screened"),
+                     ("Analysed", "analysed")):
+        c = enr.get(k)
+        if isinstance(c, dict):
+            lines.append(f"- **{label}:** {c.get('value')} {c.get('unit')}")
+    lines += ["", f"**Justification.** {_para(enr.get('justification'))}",
+              "", "*(A count carries its unit, because the same field otherwise reports "
+                  "students, classes and studies interchangeably and nothing can read "
+                  "it. In a cluster design the two differ and the difference is the "
+                  "whole power calculation.)*"]
+    return FILLED, "\n".join(lines)
 
 
-def s09_multisite(p, r):
-    return NO_FIELD, gap(
-        "no field for multi-site conduct, per-site approvals, or how modifications are "
-        "communicated to sites. Relevant as soon as a study spans institutions.")
+
+def s09_multisite(p, st, r):
+    sites = p.get("sites")
+    if not sites:
+        return NA, ("Single-site: the protocol records no `sites`. *(Decided by the "
+                    "record — adding a second site makes this section required.)*")
+    lines = [f"{len(sites)} sites, recorded on the protocol because the governance "
+             f"applies per site:"]
+    for site in sites:
+        lines.append(f"- **{_para(site.get('name'))}** — {_para(site.get('role'))}")
+        for a in site.get("approvals") or []:
+            lines.append(f"  - approval: {a}")
+    setting = (st or {}).get("setting") or {}
+    if setting.get("site_specific_requirements"):
+        lines += ["", "**Per-site requirements**",
+                  _md_list(setting["site_specific_requirements"])]
+    coord = setting.get("multi_site_coordination")
+    if coord:
+        lines += ["", "**How sites are kept in step** (problems, interim results, "
+                      "closure)", _md_list(coord)]
+        return FILLED, "\n".join(lines)
+    lines += ["", gap("`setting.multi_site_coordination` is absent: how problems, "
+                      "interim results and study closure are communicated between "
+                      "sites. BRANY asks it of a lead investigator coordinating "
+                      f"others, and this protocol names {len(sites)} sites.")]
+    return PARTIAL, "\n".join(lines)
 
 
-def s10_recruitment(p, r):
+def s10_recruitment(p, st, r):
     part = p.get("participants", {})
     comp = part.get("compensation") or {}
     body = [_para(part.get("recruitment")) or gap("participants.recruitment is empty"), ""]
@@ -176,56 +257,63 @@ def s10_recruitment(p, r):
     detail = _para(comp.get("detail"))
     body.append(f"**Payments to subjects.** {kind or '*not recorded*'}"
                 + (f" — {detail}" if detail else ""))
-    body.append("")
-    body.append(gap("BRANY also asks for the recruitment MATERIALS themselves "
-                    "(advertisements, scripts, screening procedure). The schema records "
-                    "the method, not the artifacts."))
-    return PARTIAL, "\n".join(body)
+    proc = (st or {}).get("procedures") or {}
+    if proc.get("recruitment_materials"):
+        body += ["", "**Recruitment materials** (BRANY asks for these as attachments)",
+                 _md_list(proc["recruitment_materials"])]
+    if proc.get("screening"):
+        body += ["", f"**Screening.** {_para(proc['screening'])}"]
+    if st is None:
+        body += ["", "*No study plan named; the materials and screening live on the "
+                     "study.*"]
+        return PARTIAL, "\n".join(body)
+    return FILLED, "\n".join(body)
 
 
-def s11_timelines(p, r):
-    return NO_FIELD, gap(
-        "no field for an individual subject's duration of participation, the enrolment "
-        "period, or the estimated completion date. `protocol.effective_from` dates the "
-        "governance, not the study.")
+def s11_timelines(p, st, r):
+    if st is None:
+        return UNSPEC, "*No study plan named; timelines live on the study.*"
+    t = st.get("timelines") or {}
+    return FILLED, "\n".join([
+        f"- **An individual subject's participation:** {_para(t.get('participation_duration'))}",
+        f"- **Enrolment period:** {_para(t.get('enrolment_period'))}",
+        f"- **Estimated completion of the primary analysis:** "
+        f"{_para(t.get('estimated_completion'))}",
+    ])
 
 
-def s12_procedures(p, r):
+def s12_procedures(p, st, r):
     data = p.get("data", {})
     collected = data.get("collected") or []
     parts = []
-    if r is not None:
-        d = r.get("research_design", {})
-        parts.append(f"**Design.** {d.get('family', '*not recorded*')}"
-                     + (f" — {_para(d.get('detail'))}" if d.get("detail") else ""))
+    if st is not None:
+        d = st.get("design", {})
+        parts.append(f"**Design.** `{d.get('family')}` — {_para(d.get('detail'))}")
+        if d.get("allocation"):
+            parts.append(f"**Allocation.** {_para(d['allocation'])}")
         pre = d.get("preregistration") or {}
-        if pre:
-            parts.append(f"**Preregistration.** registered: {pre.get('registered')}"
-                         + (f" — {_para(pre.get('note'))}" if pre.get("note") else ""))
+        parts.append(f"**Preregistration.** registered: {_scalar(pre.get('registered'))}"
+                     + (f", {pre.get('registry')} — `{pre.get('identifier')}`"
+                        if pre.get("registered") else ""))
+        proc = st.get("procedures") or {}
+        parts += ["", "**Procedures, in order**", _md_list(proc.get("steps"))]
+        parts += ["", "**Instruments** (BRANY asks for these as attachments)",
+                  _md_list(proc.get("instruments"))]
     else:
-        parts.append("*No release named; the study design lives on the release.*")
-    parts.append("")
-    parts.append("**Data collected** (BRANY: \"the source records that will be used to "
-                 "collect data about subjects\" and \"what data will be collected\")")
+        parts.append("*No study plan named; the design and procedures live on the study.*")
+    parts += ["", "**Data collected** (BRANY: \"what data will be collected\")"]
     if collected:
-        rows = []
-        for c in collected:
-            rows.append(f"- `{c.get('item')}` — {_para(c.get('purpose')) or 'purpose not recorded'}")
-        parts.append("\n".join(rows))
+        parts.append("\n".join(
+            f"- `{c.get('item')}` — {_para(c.get('purpose')) or 'purpose not recorded'}"
+            for c in collected))
     else:
         parts.append("*none recorded*")
     if data.get("prohibited"):
-        parts.append("")
-        parts.append("**Explicitly not collected**")
-        parts.append(_md_list(data.get("prohibited")))
-    parts.append("")
-    parts.append(gap("the step-by-step procedure a subject undergoes, and the instruments "
-                     "themselves (surveys, scripts, data-collection forms), which BRANY "
-                     "asks to be attached."))
-    return PARTIAL, "\n".join(parts)
+        parts += ["", "**Explicitly not collected**", _md_list(data.get("prohibited"))]
+    return (FILLED if st is not None else PARTIAL), "\n".join(parts)
 
 
-def s13_specimens(p, r):
+def s13_specimens(p, st, r):
     return NA, ("Not applicable. No biospecimens are collected or banked: this protocol "
                 "governs data recorded by a software platform. "
                 "*(Rule: applies whenever the protocol declares no biospecimen items. "
@@ -233,35 +321,53 @@ def s13_specimens(p, r):
                 "assertion — there is no way to express one.)*")
 
 
-def s14_1_analysis(p, r):
-    if r is None:
-        return UNSPEC, "*No release named; the analysis plan lives on the release.*"
-    analyses = r.get("analyses") or []
-    if not analyses:
-        return UNSPEC, "*The release records no analyses.*"
-    out = []
-    for a in analyses:
-        out.append(f"**{_para(a.get('title'))}**")
-        if a.get("code"):
-            out.append(f"Code: `{a['code']}`")
-        if a.get("ai_processing") is not None:
-            out.append(f"AI processing: {a['ai_processing']}")
-        out.append("")
-    return FILLED, "\n".join(out).rstrip()
+def s14_1_analysis(p, st, r):
+    """The PLANNED analysis, from the study; what was actually run, from the
+    release when there is one. Keeping them apart is the point."""
+    if st is None and r is None:
+        return UNSPEC, "*No study plan and no release named.*"
+    lines = []
+    if st is not None:
+        plan = st.get("analysis_plan") or {}
+        lines += [f"**Planned approach.** {_para(plan.get('approach'))}", "",
+                  "**Proposed statistical tests**", _md_list(plan.get("tests"))]
+        for label, k in (("Missing data", "missing_data"),
+                         ("Multiplicity", "multiplicity")):
+            if plan.get(k):
+                lines += ["", f"**{label}.** {_para(plan[k])}"]
+    if r is not None:
+        analyses = r.get("analyses") or []
+        if analyses:
+            lines += ["", "**Analyses actually run** (from the release)"]
+            for a in analyses:
+                lines.append(f"- {_para(a.get('title'))}"
+                             + (f" — code: `{a['code']}`" if a.get("code") else ""))
+    return FILLED, "\n".join(lines)
 
 
-def s14_2_endpoints(p, r):
-    return NO_FIELD, gap(
-        "no pre-declared endpoint or outcome variable. `observations/` records outcomes "
-        "as MEASURED; a protocol needs them as DECLARED, and the difference between the "
-        "two is what preregistration exists to police.")
+def s14_2_endpoints(p, st, r):
+    if st is None:
+        return UNSPEC, "*No study plan named; endpoints live on the study.*"
+    lines = []
+    for e in st.get("endpoints") or []:
+        lines.append(f"- **{_para(e.get('name'))}** (`{e.get('role')}`) — "
+                     f"{_para(e.get('measure'))}, at {_para(e.get('timepoint'))}")
+    lines += ["", "*(Declared before anything runs. `observations/` records outcomes as "
+                  "MEASURED; the difference between the two lists is what "
+                  "preregistration exists to police, and it is only visible because "
+                  "they are separate records.)*"]
+    return FILLED, "\n".join(lines)
 
 
-def s14_3_data_quality(p, r):
-    return NO_FIELD, gap("no field for quality-control procedures on collected data.")
+
+def s14_3_data_quality(p, st, r):
+    if st is None:
+        return UNSPEC, "*No study plan named; quality control lives on the study.*"
+    q = (st.get("procedures") or {}).get("data_quality") or {}
+    return FILLED, _md_list(q.get("procedures"))
 
 
-def s14_4_confidentiality(p, r):
+def s14_4_confidentiality(p, st, r):
     d = p.get("data", {})
     ident = d.get("identifiability") or {}
     deid = d.get("deidentification") or {}
@@ -315,7 +421,7 @@ def s14_4_confidentiality(p, r):
     return status, "\n".join(lines)
 
 
-def s14_5_future_use(p, r):
+def s14_5_future_use(p, st, r):
     c = p.get("consent", {})
     uses = c.get("permitted_uses") or {}
     lines = ["**Permitted uses**, as closed classes:"]
@@ -333,15 +439,25 @@ def s14_5_future_use(p, r):
     return FILLED, "\n".join(lines)
 
 
-def s15_privacy(p, r):
-    return NO_FIELD, gap(
-        "BRANY is explicit that this is NOT data confidentiality — it is intrusiveness: "
-        "how subjects are approached, how they are put at ease, and how the team is "
-        "permitted to reach any source of information about them. The schema covers the "
-        "data half thoroughly and has nothing for the interaction half.")
+
+def s15_privacy(p, st, r):
+    sp = (p.get("data") or {}).get("subject_privacy")
+    if not isinstance(sp, dict):
+        return UNSPEC, ("*`data.subject_privacy` is absent from this protocol.* BRANY "
+                        "is explicit that this section is NOT data confidentiality: it "
+                        "is intrusiveness — how subjects are approached, and how the "
+                        "team is entitled to reach information about them. The field "
+                        "exists; this protocol has not filled it in.")
+    lines = [f"**How subjects are approached.** {_para(sp.get('approach'))}"]
+    if sp.get("intrusiveness_measures"):
+        lines += ["", "**Putting subjects at ease**", _md_list(sp["intrusiveness_measures"])]
+    if sp.get("information_sources"):
+        lines += ["", "**How the team is permitted to reach each source of information**",
+                  _md_list(sp["information_sources"])]
+    return FILLED, "\n".join(lines)
 
 
-def s16_safety(p, r):
+def s16_safety(p, st, r):
     cls = (p.get("risks") or {}).get("classification")
     if cls == "minimal":
         return NA, ("Not applicable — BRANY requires a safety-monitoring plan only where "
@@ -359,17 +475,20 @@ def s16_safety(p, r):
                     f"risk'; an undetermined classification decides nothing.")
 
 
-def s17_withdrawal(p, r):
+def s17_withdrawal(p, st, r):
     c = p.get("consent", {})
-    if c.get("required") is not True:
-        return NA, (f"Consent is not obtained under this protocol "
-                    f"(`consent.required` is {_scalar(c.get('required'))}, mechanism "
-                    f"{_scalar(c.get('mechanism'))}), so there is no withdrawal from "
-                    f"participation to describe.\n\n"
-                    + gap("BRANY also asks about withdrawal WITHOUT the subject's "
-                          "consent — investigator-initiated termination — which the "
-                          "schema does not represent under any consent arrangement."))
     w = c.get("withdrawal") or {}
+    inv = w.get("investigator_initiated") or {}
+    if c.get("required") is not True:
+        body = (f"Consent is not obtained under this protocol (`consent.required` is "
+                f"{_scalar(c.get('required'))}, mechanism {_scalar(c.get('mechanism'))}), "
+                f"so there is no withdrawal from participation to describe.")
+        if not inv:
+            return NA, body + "\n\n" + gap(
+                "investigator-initiated withdrawal — withdrawal WITHOUT the subject's "
+                "consent — is a separate question the template asks, and this protocol "
+                "records no position on it.")
+        return NA, body
     lines = [f"**Withdrawal permitted:** {_scalar(w.get('allowed'))}"]
     if w.get("mechanism"):
         lines += ["", f"**How.** {_para(w['mechanism'])}"]
@@ -378,47 +497,73 @@ def s17_withdrawal(p, r):
                       f"{_para(w['effect_on_collected_data'])}"]
     lines += ["", "*(The schema requires the second of these separately from the first, "
                   "because 'you may withdraw' and 'here is what happens to what you "
-                  "already gave us' are two promises and only the second is operational.)*",
-              "", gap("investigator-initiated withdrawal and orderly-termination "
-                      "procedures have no field.")]
+                  "already gave us' are two promises and only the second is "
+                  "operational.)*"]
+    if inv:
+        lines += ["", f"**Withdrawal by the investigator, without the subject's "
+                      f"consent:** {_scalar(inv.get('allowed'))}"]
+        if inv.get("circumstances"):
+            lines.append(_md_list(inv["circumstances"]))
+        return FILLED, "\n".join(lines)
+    lines += ["", gap("investigator-initiated withdrawal has no position recorded on "
+                      "this protocol.")]
     return PARTIAL, "\n".join(lines)
 
 
-def s18_risks(p, r):
+def s18_risks(p, st, r):
     risks = p.get("risks") or {}
     identified = risks.get("identified") or []
     lines = [f"**Risk classification:** {_scalar(risks.get('classification'))}", ""]
-    if identified:
-        for item in identified:
-            lines.append(f"- **{_para(item.get('risk'))}** — "
-                         f"mitigation: {_para(item.get('mitigation')) or '*none recorded*'}")
-    else:
-        lines.append("*No specific risks recorded.*")
-    lines += ["", gap("BRANY asks for probability, magnitude, duration and reversibility "
-                      "per risk; the schema records the risk and its mitigation as prose.")]
-    return PARTIAL, "\n".join(lines)
+    dims = ("probability", "magnitude", "duration", "reversibility")
+    complete = bool(identified)
+    for item in identified:
+        lines.append(f"**{_para(item.get('risk'))}**")
+        lines.append("")
+        for d in dims:
+            if item.get(d):
+                lines.append(f"- {d}: {_para(item[d])}")
+            else:
+                complete = False
+        lines.append(f"- mitigation: {_para(item.get('mitigation')) or '*none recorded*'}")
+        lines.append("")
+    if not identified:
+        lines.append("*No specific risks recorded (an empty list means somebody looked "
+                     "and found none).*")
+    if not complete and identified:
+        lines.append(gap("BRANY asks for probability, magnitude, duration and "
+                         "reversibility on every risk; at least one is missing above."))
+        return PARTIAL, "\n".join(lines)
+    return FILLED, "\n".join(lines).rstrip()
 
 
-def s19_benefits(p, r):
-    return NO_FIELD, gap(
-        "no field for direct benefit to subjects, or for the statement that there is none. "
-        "BRANY requires one or the other explicitly.")
+def s19_benefits(p, st, r):
+    if st is None:
+        return UNSPEC, "*No study plan named; benefits live on the study.*"
+    b = st.get("benefits") or {}
+    return FILLED, (f"**Direct benefit to participants:** `{b.get('to_participants')}`"
+                    f"\n\n{_para(b.get('detail'))}")
 
 
-def s20_cbpr(p, r):
-    return NO_FIELD, gap(
-        "no field for community involvement in the design and conduct of the research. "
-        "This cannot be auto-answered 'not applicable': a co-designed study would need it, "
-        "and nothing in the record says whether this is one.")
+
+def s20_cbpr(p, st, r):
+    if st is None:
+        return UNSPEC, ("*No study plan named.* This cannot be answered "
+                        "'not applicable' by default: nothing outside the study record "
+                        "says whether it was co-designed.")
+    c = st.get("community_involvement") or {}
+    return FILLED, (f"**Community involved in design or conduct:** "
+                    f"{_scalar(c.get('involved'))}\n\n{_para(c.get('detail'))}")
 
 
-def s21_sharing_results(p, r):
-    return NO_FIELD, gap(
-        "no field for whether study results or individual results are returned to "
-        "subjects, or how.")
+
+def s21_sharing_results(p, st, r):
+    if st is None:
+        return UNSPEC, "*No study plan named; the results-sharing policy lives on the study.*"
+    sh = st.get("results_sharing") or {}
+    return FILLED, f"**Policy:** `{sh.get('policy')}`\n\n{_para(sh.get('detail'))}"
 
 
-def s22_prior_approvals(p, r):
+def s22_prior_approvals(p, st, r):
     er = p.get("external_review") or {}
     lines = [f"**Status:** {_scalar(er.get('status'))}"]
     for label, k in (("Authority", "authority"), ("Approval id", "approval_id"),
@@ -436,7 +581,7 @@ def s22_prior_approvals(p, r):
     return status, "\n".join(lines)
 
 
-def s23_injury_compensation(p, r):
+def s23_injury_compensation(p, st, r):
     cls = (p.get("risks") or {}).get("classification")
     if cls == "minimal":
         return NA, ("Not applicable — BRANY requires this only where the research involves "
@@ -447,16 +592,22 @@ def s23_injury_compensation(p, r):
         f"field for injury-compensation arrangements.")
 
 
-def s24_economic_burden(p, r):
-    comp = (p.get("participants") or {}).get("compensation") or {}
-    return NO_FIELD, gap(
-        "no field for costs a subject bears by participating. "
-        f"`participants.compensation` records the opposite direction — payment TO the "
-        f"subject, here `{comp.get('kind', 'not recorded')}` — and must not be reused for it.")
+
+def s24_economic_burden(p, st, r):
+    if st is None:
+        return UNSPEC, ("*No study plan named; participant burden lives on the study.* "
+                        "The protocol's `participants.compensation` is the opposite "
+                        "direction — payment TO the subject — and does not answer it.")
+    b = st.get("participant_burden") or {}
+    return FILLED, (f"**Costs borne by the subject:** `{b.get('costs')}`"
+                    f"\n\n{_para(b.get('detail'))}")
 
 
-def s25_consent(p, r):
+def s25_consent(p, st, r):
     c = p.get("consent", {})
+    proc = c.get("process") or {}
+    waiver = c.get("waiver") or {}
+    minors = c.get("minors") or {}
     lines = [
         f"**Consent required:** {_scalar(c.get('required'))}  ",
         f"**Mechanism:** {_scalar(c.get('mechanism'))}  ",
@@ -467,38 +618,90 @@ def s25_consent(p, r):
     ]
     if c.get("ai_processing_detail"):
         lines.append(f"\n{_para(c['ai_processing_detail'])}")
-    info = c.get("information_provided")
-    lines += ["", "**What the participant was actually shown**"]
-    lines.append(_md_list(info, empty="not recorded"))
-    lines += [
-        "",
-        gap("the template's consent MECHANICS have no fields: where and when consent is "
-            "obtained; the waiting period; who obtains it and their role; steps to "
-            "minimise coercion; how understanding is ensured; whether consent is "
-            "documented in writing."),
-        "",
-        gap("waiver of consent, and waiver of DOCUMENTATION of consent, each require a "
-            "justification against the regulatory criteria BRANY lists. `mechanism: "
-            "waived` records that a waiver applies and nothing about why it qualifies."),
-        "",
-        gap("non-English-speaking subjects: which languages, and how materials and the "
-            "consent discussion are provided in them."),
-        "",
-        gap("MINORS — the largest cluster. Nothing represents: the age of consent in the "
-            "applicable jurisdiction; whether permission is sought from one parent or "
-            "both; who other than a parent may give permission; whether assent is "
-            "obtained, from which children, and how it is documented; or re-consent when "
-            "a subject turns 18 mid-study, which BRANY's teen-parent form has a section "
-            "for. `participants.age_assurance` records how age is ESTABLISHED, which is "
-            "a prerequisite for these questions and not an answer to any of them."),
-        "",
-        gap("adults unable to consent: the ordered list of legally authorised "
-            "representatives, and the capacity assessment."),
-    ]
-    return PARTIAL, "\n".join(lines)
+    lines += ["", "**What the participant was actually shown**",
+              _md_list(c.get("information_provided"), empty="not recorded")]
+
+    missing = []
+    if proc:
+        lines += ["", "**The consent process**",
+                  f"- documented as: `{proc.get('documentation')}`"]
+        for label, k in (("where", "location"), ("when", "timing"),
+                         ("obtained by", "obtained_by"),
+                         ("waiting period", "waiting_period")):
+            if proc.get(k):
+                lines.append(f"- {label}: {_para(proc[k])}")
+        if proc.get("languages"):
+            lines.append(f"- languages: {', '.join(proc['languages'])}")
+        for label, k in (("Ensuring understanding", "comprehension_measures"),
+                         ("Minimising coercion", "coercion_safeguards")):
+            if proc.get(k):
+                lines += ["", f"**{label}**", _md_list(proc[k])]
+    else:
+        missing.append("`consent.process` — where and when consent is obtained, by "
+                       "whom, after what waiting period, in which languages, and "
+                       "whether it is documented in writing")
+
+    kind = waiver.get("kind")
+    if kind and kind != "none":
+        lines += ["", f"**Waiver:** `{kind}`, justified against each regulatory "
+                      f"criterion:"]
+        for crit, entry in (waiver.get("justification") or {}).items():
+            if isinstance(entry, dict):
+                lines.append(f"- `{crit}`: {_scalar(entry.get('met'))} — "
+                             f"{_para(entry.get('rationale'))}")
+    elif kind == "none":
+        lines += ["", "**Waiver:** none claimed — consent is obtained and documented."]
+    else:
+        missing.append("`consent.waiver` — whether a waiver of consent, of "
+                       "documentation, or an alteration applies, and its justification "
+                       "against each of the five regulatory criteria")
+
+    if minors:
+        lines += ["", "**Subjects who are not yet adults**",
+                  f"- age of majority: {minors.get('age_of_majority')} "
+                  f"({_para(minors.get('jurisdiction'))})",
+                  f"- parental permission: `{minors.get('parental_permission')}`",
+                  f"- assent obtained from: `{minors.get('assent')}`",
+                  f"- assent documented as: `{minors.get('assent_documentation')}`",
+                  f"- re-consent on attaining majority mid-study: "
+                  f"{_scalar(minors.get('reconsent_on_majority'))}"]
+        if minors.get("assent_scope_detail"):
+            lines.append(f"- which children assent: "
+                         f"{_para(minors['assent_scope_detail'])}")
+        lines += ["", "*(BRANY's teen-parent form carries a section for subjects who "
+                      "turn 18 during a study. `reconsent_on_majority` is the field "
+                      "that makes it actionable: a running system knows when that date "
+                      "passes for a given participant, and a filed document does not.)*"]
+    else:
+        enrols_minors = ((st or {}).get("enrolment") or {}).get(
+            "special_populations", {}).get("minors") == "included"
+        note = ("`consent.minors` — age of majority and its jurisdiction, whose "
+                "permission, whose assent, how documented, and re-consent on turning "
+                "18 mid-study")
+        missing.append(note + (" **— and this study enrols minors**"
+                               if enrols_minors else ""))
+
+    # Record-driven, like sections 16 and 23: when the protocol excludes the
+    # population, the template's questions about it are genuinely inapplicable
+    # rather than unanswered.
+    stance = (p.get("participants") or {}).get("special_populations", {}) \
+        .get("adults-unable-to-consent")
+    if stance == "excluded":
+        lines += ["", "*Adults unable to consent are `excluded` by this protocol, so "
+                      "the legally-authorised-representative hierarchy and the capacity "
+                      "assessment do not apply. Including them would make both "
+                      "required, and neither has a field yet.*"]
+    else:
+        missing.append("adults unable to consent: the ordered list of legally "
+                       "authorised representatives, and the capacity assessment — no "
+                       f"field, and this protocol records `{stance}` for that class")
+    if missing:
+        lines += ["", "**Not recorded on this protocol:**"] + [f"- {m}" for m in missing]
+        return PARTIAL, "\n".join(lines)
+    return FILLED, "\n".join(lines)
 
 
-def s26_drugs_devices(p, r):
+def s26_drugs_devices(p, st, r):
     return NA, ("Not applicable. No drug or device is administered. *(As with section 13, "
                 "the schema has no concept of one, which is what makes the answer "
                 "structural rather than an assertion by the author.)*")
@@ -538,17 +741,19 @@ SECTIONS = [
 ]
 
 
-def render(protocol, release=None):
+def render(protocol, study=None, release=None):
     """[(number, title, status, body)] for every template section."""
-    return [(num, title, *fn(protocol, release)) for num, title, fn in SECTIONS]
+    return [(num, title, *fn(protocol, study, release)) for num, title, fn in SECTIONS]
 
 
-def document(protocol, release, rows):
+def document(protocol, study, release, rows):
     p = protocol.get("protocol", {})
     head = [
         f"# BRANY SBER Protocol — {p.get('title', '')}".rstrip(),
         "",
         f"> Rendered from `research/protocols/{p.get('id')}/{p.get('version')}.yaml`"
+        + (f", `research/studies/{study['study']['id']}/"
+           f"{study['study']['version']}.yaml`" if study else "")
         + (f" and `research/releases/{release['release']['id']}/"
            f"{release['release']['version']}.yaml`" if release else "")
         + " by `scripts/render_brany_protocol.py`.",
@@ -596,8 +801,10 @@ def main(argv=None):
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("protocol", nargs="?", help="protocol id under research/protocols/")
     ap.add_argument("--version", help="protocol version (default: highest present)")
+    ap.add_argument("--study", help="study id, optionally id@version — the plan, "
+                                    "which is what an IRB actually reviews")
     ap.add_argument("--release", help="release id, optionally id@version, for the "
-                                      "design and analysis sections")
+                                      "analysis section")
     ap.add_argument("--coverage", action="store_true", help="per-section status table")
     ap.add_argument("--gaps", action="store_true",
                     help="only the sections the schema cannot answer")
@@ -621,6 +828,23 @@ def main(argv=None):
         print(f"error: {args.protocol} has no version {version}", file=sys.stderr)
         return 1
 
+    def _pick(loader, spec, label):
+        recs, errs = loader()
+        for e in errs:
+            print(f"error: {e}", file=sys.stderr)
+        oid, _, over = spec.partition("@")
+        vs = sorted((v for i, v in recs if i == oid), key=rl.semver)
+        if not vs:
+            print(f"error: no {label} {oid!r}", file=sys.stderr)
+            return None, 1
+        return recs[(oid, over or vs[-1])], 0
+
+    study = None
+    if args.study:
+        study, rc = _pick(rl.load_studies, args.study, "study")
+        if rc:
+            return rc
+
     release = None
     if args.release:
         releases, rerrs = rl.load_releases()
@@ -633,11 +857,11 @@ def main(argv=None):
             return 1
         release = releases[(rid, rver or rvs[-1])]
 
-    rows = render(protocol, release)
+    rows = render(protocol, study, release)
     if args.coverage or args.gaps:
         print(coverage(rows, gaps_only=args.gaps))
     else:
-        print(document(protocol, release, rows))
+        print(document(protocol, study, release, rows))
     return 0
 
 

@@ -850,9 +850,9 @@ kinds record **what we currently believe**. Full field reference in
 `research/SCHEMA.md`; rationale in `scripts/research_lib.py`.
 
 ```
-Protocol ──> Research Release ──> Evidence ──> Claim
-                                     ^
-                            Review ──┴── Issue
+Protocol ──> Study ──> Research Release ──> Evidence ──> Claim
+                                               ^
+                                      Review ──┴── Issue
 ```
 
 **There is no `evidence/` folder, and that is the main decision.** `observations/`
@@ -1023,6 +1023,82 @@ python3 scripts/check_research.py --why <claim-slug>  # the traversal
 python3 scripts/lint.py --type research               # the same checks, in CI
 ```
 
+### The study plan is the fifth object, and it is what a reviewer reads
+
+`research/studies/<id>/<version>.yaml` sits between the protocol and the release:
+**Protocol → Study → Release → Evidence → Claim.**
+
+**It is not a release, and that was forced rather than chosen.** A release IS a
+publication — the layer refuses one whose protocol lacks
+`permitted_uses['research-publication'] == permitted`. A plan is not. Folding them
+together would either make it impossible to plan a study under a protocol that forbids
+publishing (exactly the internal pipeline-validation case `lazuli-platform-telemetry`
+describes) or weaken the publication gate. It is also the object an IRB actually
+reviews: they review a plan, not a paper.
+
+**What lives on the study is what varies per study** — the governing rule `observations/`
+established. A protocol has no single question, no enrolment target and no endpoint,
+because it governs a family. So `question`, `background`, `design`, `setting`,
+`resources`, `enrolment`, `timelines`, `procedures`, `endpoints`, `analysis_plan`,
+`benefits`, `participant_burden`, `results_sharing` and `community_involvement` are the
+study's. Counts are `{value, unit}`: in a cluster design the number randomised and the
+number analysed are different numbers of different things.
+
+**A declared endpoint is not a measured one.** `endpoints[]` says what the study set out
+to test; `observations/` records what was measured. The difference between the two lists
+is what preregistration exists to police, and it is only visible because they are
+separate records. At least one endpoint must be `role: primary`.
+
+**`conformance` is machine-authored; `determination` is not, and they are separate
+blocks.** A machine may compute that a plan satisfies a ruleset — naming the ruleset and
+version, or the result cannot be re-checked or superseded. A machine may **never** record
+that an IRB determined anything: `determined_by` must be `human:<id>` or `org:<id>`, the
+same discipline that makes `append_authority()` refuse a non-human verifier. And
+`conformance.result` must agree with its own checks — a `conforming` stamped over a
+failing check fails validation, because that summary is exactly what a reviewer would
+rely on.
+
+**`status` changes are version bumps**, because the file is immutable. That is the
+feature: a material change writes a new version, which invalidates the conformance result
+computed against the old one. That is the escalation mechanism, not a workaround.
+
+**Three enforcement checks, protocol as ceiling and study as actual**, each verified by
+mutating the fixture until it fired: a study may not enrol a special population its
+protocol does not permit (`not-addressed` is not permission); consent required by the
+protocol cannot be documented as `none` without a recorded waiver; and a study enrolling
+minors requires the protocol's `consent.minors` block.
+
+**Everything added to `protocol` is OPTIONAL, and that is forced by immutability** — a
+newly required field would retroactively invalidate every frozen protocol. New:
+`participants.special_populations`, `consent.process`, `consent.waiver` (the five
+regulatory criteria as separate checkable fields), `consent.minors`,
+`consent.withdrawal.investigator_initiated`, `data.subject_privacy`, per-risk
+`probability`/`magnitude`/`duration`/`reversibility`, and `sites`.
+
+**What optionality buys is expressibility, not enforcement.** Before these fields,
+"nobody established this" could not be *said* — the question had no home. The three
+pre-existing protocols went from 13–14 unanswerable sections to 0–1 **without a single
+frozen file being touched**; their gaps became `unspecified` rather than `no-field`.
+
+**`data.subject_privacy` is the one most easily got wrong.** A reviewer's template is
+explicit that it is not storage: it is intrusiveness — how subjects are approached, how
+they are put at ease, and how the team is entitled to reach any source of information
+about them. Answering it from the storage and access fields answers a different question
+convincingly, which is worse than not answering it.
+
+**The synthetic fixture pair exercises the minors cluster on purpose**, because minors are
+the population an automated review pathway is least likely to be able to cover:
+`protocols/example-classroom-consented-study/1.0.0.yaml` and
+`studies/example-retrieval-practice-classroom/1.0.0.yaml`, marked `synthetic-simulation`
+and `SYNTHETIC` throughout. Together they render every section of a reviewer's template:
+26 filled, 4 not-applicable, **0 gaps**.
+
+**Two YAML traps bit while writing them, both the same shape.** A list item reading
+`- Primary: arm coefficient…` is a *mapping*, not a string, because of the `: `. The
+validator caught both (`must be a non-empty string`) — but a schema that accepted free
+-form values would have stored a dict where a sentence belonged and nothing would have
+said so.
+
 ### Rendering a protocol as somebody else's form
 
 `scripts/render_brany_protocol.py` renders a protocol (optionally with a release) as
@@ -1050,18 +1126,24 @@ yields neither answer, because an undetermined classification decides nothing. T
 small worked example of the larger argument: a machine-readable protocol lets a reviewer's
 own rule run against the configuration.
 
-**13 of 30 sections have no field at all** (14 when risk classification is undetermined),
-clustered in three places: study descriptives the protocol layer deliberately does not hold
-(background, setting, resources, planned enrolment, timelines, endpoints, data quality),
-subject privacy *as distinct from* data confidentiality — BRANY is explicit that section 15
-is about intrusiveness, not storage — and the consent MECHANICS, above all everything about
-minors: age of consent in the jurisdiction, one parent or both, assent and its
-documentation, and re-consent when a subject turns 18 mid-study.
-`participants.age_assurance` records how age is *established*, which is a prerequisite for
-those questions and an answer to none of them. **Do not close these gaps by inventing
-fields to fill the form** — several belong on the release or on a study-design object, and
-one (section 20, community-based participatory research) cannot be auto-answered
-"not applicable" because nothing in the record says whether a study was co-designed.
+**Those gaps are closed, and the measurement is the record of it.** When this was first
+run, 13 of 30 sections could not be answered at all (14 where risk classification was
+undetermined). The study object and the optional protocol fields above close every one:
+a protocol and a study plan together render **26 filled, 4 not-applicable, 0 gaps**. The
+three frozen protocols, untouched, went from 13–14 unanswerable to 0–1 — their gaps are
+now `unspecified`, which is a statement, where before there was no field to leave empty.
+
+**Re-measure rather than trusting that paragraph:**
+
+```bash
+python3 scripts/render_brany_protocol.py example-classroom-consented-study \
+    --study example-retrieval-practice-classroom --coverage
+```
+
+**The one section that still reports `no-field` does so correctly**: section 23 on
+`lazuli-platform-telemetry`, whose `risks.classification` is `not-determined`, so the rule
+that would make it inapplicable cannot fire. That is the record refusing to decide, not a
+missing field.
 
 `--why` is the acceptance test run as a command: *why does the wiki believe claim X*,
 answered by walking claim ← evidence ← analysis ← dataset ← release ← protocol from
@@ -1579,6 +1661,7 @@ ld-wiki/
   observations/      ← structured record of what each study actually did (see above)
   research/          ← the research layer: where knowledge came from (see above)
     protocols/<id>/<version>.yaml   ← versioned, immutable governance configuration
+    studies/<id>/<version>.yaml     ← versioned, immutable STUDY PLANS (see below)
     releases/<id>/<version>.yaml    ← versioned, immutable investigations
     reviews/<review-id>.yaml        ← structured contributions interrogating any of it
     issues/<issue-id>.yaml          ← one problem, however many people found it
