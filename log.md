@@ -8,6 +8,23 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ---
 
+## 2026-09-15
+
+* **Merge**: four PRs landed to `main` in size order so each resolved against a settled base rather than four ways at once — #82 (both halves of the evidence edge), #83 (`consent.basis` `sources_uniformly_governed` + the `additional_bases` crash), #84 (**Study as the fifth research object**, plus the BRANY SBER renderer), #79 (sources on nine claims)
+* **Forward-merge break**: #83 made `consent.sources_uniformly_governed` required and #84 was cut before it and adds a protocol fixture — each tree correct alone, the combination failing, and nothing in either branch's own checks could have caught it. Fixed on the branch before merging
+* **Decision**: **pre-registration is a `stage:` on a release — it was, and it is not any more.** A parallel branch had built it that way; #84's Study object is the correct home, and the argument was tested rather than conceded: planning an internal validation study under `lazuli-platform-telemetry` fails the publication gate, so the study is unplannable and the error asserts "this release publishes findings" about a file containing none. The `stage:` work was rebuilt onto `Study` and the release-side version discarded
+* **Schema**: a `primary` endpoint requires `prespecified_prediction: {prediction, disconfirming_result}` — `measure` and `analysis_plan.tests` say what is measured and how, neither says what result would count AGAINST the hypothesis. Refused on an `exploratory` endpoint, and there is deliberately **no `mode:` field**: `role` already draws that line
+* **Schema**: a release names the study it reports (`study: {ref, version}` or `no_study_reason:`) — an edge the module docstring claimed from the start and nothing implemented, so a plan and its report were two unconnected files. Ordering checked on the dates
+* **Schema**: `analyses[].prespecified` required and never defaulted; `analyses[].endpoint_refs` declared rather than inferred, and a **list**
+* **Fix**: the first `--deviations` inferred the endpoint→analysis link from word overlap and immediately reported an endpoint as unreported on a release that reports it. A fuzzy join that is wrong is worse than none, because the output looks like a finding. Replaced with a declared ref; where none is declared the command says coverage is *not checkable*
+* **Fix**: a `TODO` in **free text** validated clean in both layers, so `--stub`'s standing promise was only two-thirds true. Now scanned over raw file text, comments included
+* **Fix**: `_date` accepted any string — a draft protocol with `effective_from: "NOT ESTABLISHED"` validated clean. Now ISO and a real calendar date
+* **Fix**: both layers' loaders caught only `YAMLError`, so PyYAML's bare `ValueError` on an impossible date crashed the checkers instead of reporting one file
+* **Fix**: the study's own `enrolment.special_populations` was never shape-checked — only the protocol's — so a scalar crashed `check_study_against_protocol`. Found by typing `special_populations: none`
+* **Tools**: `--deviations <study-id>` and `--stub-study <study-id>`. 14 mutation tests, each producing the intended error; the stub round-tripped (generated → refused → filled → validates → removed)
+
+---
+
 ## 2026-09-11
 
 * **Merge**: PRs #75, #76 and #77 merged to `main` in that order; `main` at `41427124` green on every check and all three `Deploy Docs` runs verified to have succeeded

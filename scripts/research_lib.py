@@ -624,13 +624,34 @@ def _bool(issues, where, value, field, required=False, allow_tristate=False):
         _err(issues, where, f"{field} is {value!r}; expected one of {shown}")
 
 
+ISO_DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
+
+
 def _date(issues, where, value, field, required=False):
+    """An ISO date, or a real date object — never free text.
+
+    This accepted ANY string until a draft protocol was written with
+    `effective_from: "NOT ESTABLISHED"` and validated clean. Dates here are
+    load-bearing rather than decorative: `effective_from` decides which protocol
+    or study version governs a window, and `released_at` orders a plan against
+    the release that claims to fulfil it. A field that silently accepts prose in
+    place of a date makes both unanswerable while still reporting zero."""
     if value is None or value == "":
         if required:
             _err(issues, where, f"{field} is required")
         return
-    if not isinstance(value, (str, date)):
-        _err(issues, where, f"{field} must be a date or an ISO date string")
+    if isinstance(value, date):
+        return
+    if not isinstance(value, str) or not ISO_DATE_RE.match(value):
+        _err(issues, where, f"{field} is {value!r}; it must be an ISO date "
+                            f"(YYYY-MM-DD). If the date is not yet known, the field is "
+                            f"not yet fillable — prose here reads as a date to every "
+                            f"consumer and orders nothing")
+        return
+    try:
+        date.fromisoformat(value)
+    except ValueError:
+        _err(issues, where, f"{field} is {value!r}, which is not a real date")
 
 
 def _list_of_str(issues, where, value, field, required=False):
@@ -669,10 +690,14 @@ def _load_versioned(root: Path) -> tuple[dict, list]:
         return records, errors
     for obj_dir in sorted(p for p in root.iterdir() if p.is_dir()):
         for path in sorted(obj_dir.glob("*.yaml")):
+            text = path.read_text(encoding="utf-8")
             try:
-                records[(obj_dir.name, path.stem)] = yaml.safe_load(
-                    path.read_text(encoding="utf-8"))
-            except yaml.YAMLError as e:
+                records[(obj_dir.name, path.stem)] = yaml.safe_load(text)
+                errors.extend(ol.find_todos(text, str(path.relative_to(WIKI_ROOT))))
+            except (yaml.YAMLError, ValueError) as e:
+                # ValueError too: PyYAML's timestamp constructor raises a bare
+                # one on an impossible date, which crashed the checker rather
+                # than reporting a single file.
                 errors.append(f"{path.relative_to(WIKI_ROOT)}: not valid YAML — {e}")
     return records, errors
 
@@ -695,8 +720,10 @@ def _load_flat(root: Path) -> tuple[dict, list]:
         return records, errors
     for path in sorted(root.glob("*.yaml")):
         try:
-            records[path.stem] = yaml.safe_load(path.read_text(encoding="utf-8"))
-        except yaml.YAMLError as e:
+            text = path.read_text(encoding="utf-8")
+            records[path.stem] = yaml.safe_load(text)
+            errors.extend(ol.find_todos(text, str(path.relative_to(WIKI_ROOT))))
+        except (yaml.YAMLError, ValueError) as e:   # see _load_versioned
             errors.append(f"{path.relative_to(WIKI_ROOT)}: not valid YAML — {e}")
     return records, errors
 
@@ -1294,6 +1321,23 @@ def validate_release(rec, rid, version) -> list:
         _err(issues, key, "protocol: {ref, version} is required, or `no_protocol_reason:` "
                           "must say why this investigation has no protocol of ours")
 
+    # THE EDGE THE LAYER DESCRIBED AND DID NOT HAVE. The module docstring says
+    # "a release names its study", and nothing implemented it — so a plan and
+    # the report of it were two unconnected files and no reader arriving at
+    # either could reach the other. Same shape as `protocol:`, and the same
+    # reason for the escape hatch: a secondary analysis of somebody else's
+    # published data genuinely has no plan of ours, and "nobody wrote one"
+    # is a different answer that has to stay sayable.
+    st = rec.get("study")
+    if isinstance(st, dict):
+        _str(issues, f"{key}.study", st.get("ref"), "ref", required=True)
+        _str(issues, f"{key}.study", st.get("version"), "version", required=True)
+    elif not rec.get("no_study_reason"):
+        _err(issues, key, "study: {ref, version} is required, naming the plan this "
+                          "release reports — or `no_study_reason:` must say why there "
+                          "was none. Silence makes an unplanned investigation "
+                          "indistinguishable from a planned one nobody linked")
+
     _validate_datasets(rec.get("datasets"), key, issues)
     _validate_analyses(rec.get("analyses"), key, issues, rec.get("datasets"))
     _validate_evidence_refs(rec.get("evidence"), key, issues)
@@ -1439,6 +1483,32 @@ def _validate_analyses(analyses, key, issues, datasets):
         # model touched this" is not "no model touched it".
         _bool(issues, w, a.get("ai_processing"), "ai_processing",
               required=True, allow_tristate=True)
+
+        # DECLARED IN ADVANCE, OR NOT. The single most important bit about an
+        # analysis, and the one a paper conventionally leaves the reader to
+        # infer from the order of its sections. Required, never defaulted: an
+        # absent value would make "nobody said" indistinguishable from "this was
+        # planned", and the whole plan/report split exists to keep those apart.
+        # `false` is an ordinary, honest value — a reviewer's question answered
+        # after the fact is good practice, and what would not be is that
+        # analysis appearing with nothing to say it arrived late.
+        _bool(issues, w, a.get("prespecified"), "prespecified", required=True)
+
+        # Which declared endpoint this analysis reports, when it reports one.
+        # OPTIONAL, and the first draft of `--deviations` is why it exists: that
+        # version matched endpoint names against analysis titles by word overlap
+        # and immediately reported a `Course completion` endpoint as unreported
+        # on a release that reports it through `evidence:`. A fuzzy join that is
+        # wrong is worse than no join, because the output looks like a finding.
+        # Same discipline as an observation's `analysis_ref`: declared, resolved,
+        # or absent — never inferred.
+        #
+        # A LIST, because one analysis routinely answers more than one endpoint:
+        # `retention-model` in the spaced-review fixture produces both the
+        # retention observation and the completion null, which are two declared
+        # endpoints. A singular field would have forced a choice between them and
+        # reported the loser as unreported.
+        _list_of_str(issues, w, a.get("endpoint_refs"), "endpoint_refs")
 
 
 EVIDENCE_REF_RE = re.compile(r"^([a-z0-9][a-z0-9-]*)/([^\s/]+)$")
@@ -2248,10 +2318,58 @@ def _validate_study_endpoints(block, key, issues):
         _enum(issues, w, e.get("role"), ENDPOINT_ROLES, "role", required=True)
         _str(issues, w, e.get("measure"), "measure", required=True)
         _str(issues, w, e.get("timepoint"), "timepoint", required=True)
+        _validate_endpoint_prediction(e, w, issues)
         roles.add(e.get("role"))
     if "primary" not in roles:
         _err(issues, where, "no endpoint has role `primary` — a plan with only "
                             "secondary endpoints has not said what it is testing")
+
+
+def _validate_endpoint_prediction(e, w, issues):
+    """WHAT RESULT WOULD COUNT AGAINST THIS, which nothing else here asks.
+
+    `measure` says what will be measured and `analysis_plan.tests` says how it
+    will be analysed. Neither says what outcome would falsify the thing being
+    tested — and without that, every result can be narrated afterwards as a
+    success and the plan is a timestamp on a wish. It is the difference between
+    declaring an endpoint and prespecifying a hypothesis.
+
+    Required on a `primary` endpoint, because a plan's primary endpoint IS its
+    hypothesis. Optional on `secondary` and `safety`. REFUSED on `exploratory`:
+    an endpoint with a prediction is not exploratory, and carrying both is
+    precisely how an exploratory result becomes a confirmed one after the fact.
+    `role` already carries that distinction, so there is deliberately no second
+    confirmatory/exploratory field to disagree with it."""
+    role = e.get("role")
+    pred = e.get("prespecified_prediction")
+
+    if role == "exploratory":
+        if pred is not None:
+            _err(issues, w, "`prespecified_prediction` on an endpoint whose role is "
+                            "`exploratory`. If there is a prediction the endpoint is not "
+                            "exploratory — change the role, or drop the prediction. "
+                            "Carrying both is how an exploratory result is reported later "
+                            "as though it had been predicted")
+        return
+
+    if role == "primary" and pred is None:
+        _err(issues, w, "a `primary` endpoint requires `prespecified_prediction: "
+                        "{prediction, disconfirming_result}` — the primary endpoint IS "
+                        "the hypothesis, and a hypothesis with no result that would "
+                        "count against it is not one")
+        return
+    if pred is None:
+        return
+    if not isinstance(pred, dict):
+        _err(issues, w, "prespecified_prediction must be a mapping "
+                        "{prediction, disconfirming_result}")
+        return
+    pw = f"{w}.prespecified_prediction"
+    _str(issues, pw, pred.get("prediction"), "prediction", required=True)
+    # The half that does the work. "We expect an improvement" is not falsifiable;
+    # "a difference under 3 points, or an interval containing zero" is.
+    _str(issues, pw, pred.get("disconfirming_result"), "disconfirming_result",
+         required=True)
 
 
 def _validate_study_participant_facing(rec, key, issues):
@@ -2385,6 +2503,18 @@ def check_study_against_protocol(study, key, protocol, issues) -> None:
     # 1. A study may not enrol a population its protocol does not permit.
     permitted = participants.get("special_populations")
     enrolled = (study.get("enrolment") or {}).get("special_populations") or {}
+    if not isinstance(enrolled, dict):
+        # Shape-checked on the PROTOCOL's participants block since it was
+        # written, and never on the study's own enrolment block — so a scalar
+        # here reached check 3 below and crashed the whole checker with an
+        # AttributeError instead of reporting one field in one file. Found by
+        # writing `special_populations: none`, which reads as a perfectly
+        # reasonable thing for an author to type.
+        _err(issues, key, f"enrolment.special_populations is {enrolled!r}; it must be a "
+                          f"mapping of class to included | excluded | not-addressed. A "
+                          f"bare `none` cannot say WHICH classes are excluded, and the "
+                          f"protocol ceiling is checked per class")
+        enrolled = {}
     if isinstance(permitted, dict) and isinstance(enrolled, dict):
         for cls, stance in enrolled.items():
             if stance != "included":
@@ -2467,6 +2597,8 @@ def validate_all() -> list:
             check_release_against_protocol(rec, key, protocol_rec, issues)
 
         _check_evidence_join(rec, rid, version, obs_records, issues)
+        _check_study_join(rec, rid, version, studies, issues)
+        _check_endpoint_refs(rec, rid, version, studies, issues)
 
         # What this version was published to answer. Typed, because a version
         # may address an aggregated issue or a single review, and the two are
@@ -2547,6 +2679,57 @@ def validate_all() -> list:
                 _err(issues, f"issues/{iid}.resolution", f"resulting_release {pair[0]!r} "
                      f"version {pair[1]!r} does not exist")
     return issues
+
+
+def _check_endpoint_refs(rel, rid, version, studies, issues):
+    """An `endpoint_ref` must name an endpoint the plan actually declares.
+
+    Unresolvable is the failure this catches: an analysis claiming to report a
+    planned endpoint that the plan does not contain reads, from the release, as
+    a prespecified result."""
+    st = rel.get("study")
+    if not isinstance(st, dict):
+        return
+    target = studies.get((st.get("ref"), st.get("version")))
+    if not isinstance(target, dict):
+        return                      # _check_study_join already reported it
+    names = {e.get("name") for e in (target.get("endpoints") or [])
+             if isinstance(e, dict)}
+    key = f"releases/{rid}/{version}"
+    for i, a in enumerate(rel.get("analyses") or []):
+        if not isinstance(a, dict):
+            continue
+        for ref in a.get("endpoint_refs") or []:
+            if ref not in names:
+                _err(issues, f"{key}.analyses[{i}]",
+                     f"endpoint_refs names {ref!r}, which is no endpoint in the plan "
+                     f"this release reports ({st.get('ref')} {st.get('version')})")
+
+
+def _check_study_join(rel, rid, version, studies, issues):
+    """A release naming a plan must name one that exists and came FIRST.
+
+    The ordering check is the one with teeth. A plan published after the report
+    it plans is the exact artifact prespecification exists to make impossible,
+    and nothing about the file itself reveals it — only its date does."""
+    st = rel.get("study")
+    if not isinstance(st, dict):
+        return
+    key = f"releases/{rid}/{version}"
+    pair = (st.get("ref"), st.get("version"))
+    target = studies.get(pair)
+    if target is None:
+        _err(issues, key, f"study.ref {pair[0]!r} version {pair[1]!r} does not exist "
+                          f"under research/studies/")
+        return
+    plan_at = (target.get("study") or {}).get("effective_from") \
+        if isinstance(target, dict) else None
+    rep_at = (rel.get("release") or {}).get("released_at")
+    if isinstance(plan_at, (str, date)) and isinstance(rep_at, (str, date)) \
+            and str(plan_at) > str(rep_at):
+        _err(issues, key, f"the plan it names takes effect {plan_at}, after this "
+                          f"release's {rep_at}. A plan written after its own findings "
+                          f"plans nothing")
 
 
 def _check_evidence_join(rel, rid, version, obs_records, issues):

@@ -172,6 +172,19 @@ endpoints:
     role: primary
     measure: Proportion correct on the 24-item retention test
     timepoint: Four weeks after the final lesson
+    # `measure` says what is measured and `analysis_plan.tests` says how it is
+    # analysed; neither says what result would count AGAINST the hypothesis.
+    # The power calculation above already names the effect this study was built
+    # to detect, so stating the disconfirming result costs nothing and is what
+    # stops a null being written up afterwards as "a trend".
+    prespecified_prediction:
+      prediction: >-
+        SYNTHETIC. The spaced arm scores higher on the four-week retention test,
+        by at least the d = 0.35 the study is powered to detect.
+      disconfirming_result: >-
+        SYNTHETIC. A class-level difference smaller than d = 0.35, or favouring
+        the massed arm, at the planned 20 classes. A confidence interval
+        containing zero disconfirms it regardless of the point estimate.
   - name: End-of-unit performance
     role: secondary
     measure: Proportion correct on the standard end-of-unit assessment

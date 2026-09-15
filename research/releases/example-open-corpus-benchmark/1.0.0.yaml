@@ -36,6 +36,16 @@ release:
     SYNTHETIC. How closely does an automated scorer agree with the expert human
     score shipped with a published corpus?
 
+# The legitimate no-plan case, and the reason a missing `study:` could not be
+# allowed to stand for it: this is a secondary analysis of a corpus somebody
+# else collected and published. There was no pre-data moment at which a plan
+# could have been written, which is a different statement from "nobody wrote
+# one".
+no_study_reason: >-
+  SYNTHETIC EXAMPLE — secondary analysis of an already-published corpus. The
+  data existed before the question did, so there was no point at which a plan
+  could have preceded it.
+
 protocol:
   ref: example-open-corpus-secondary-use
   version: 1.0.0
@@ -67,6 +77,8 @@ datasets:
 analyses:
   - id: scoring-run
     title: SYNTHETIC EXAMPLE — score every response and compare with the expert score
+    # No plan preceded the data, so nothing here was prespecified.
+    prespecified: false
     code:
       repo: "https://SYNTHETIC-EXAMPLE.invalid/lda/corpus-benchmark"
       commit: abadcafeabadcafeabadcafeabadcafeabadcafe   # SYNTHETIC
