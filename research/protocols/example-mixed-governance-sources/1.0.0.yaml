@@ -1,0 +1,173 @@
+# ============================================================================
+# SYNTHETIC EXAMPLE. No such corpora exist and no such analysis was run.
+#
+# It is here because the `sources_uniformly_governed: false` branch had NO
+# fixture when it was added, and the first real record to use it hit a crash in
+# the validator that `check_research.py` could not have caught — nothing
+# exercised the path. A condition with no fixture is a condition nobody is
+# testing.
+#
+# THE CASE: a protocol governing sources held under DIFFERENT instruments. One
+# openly licensed, one under a bilateral undertaking with its depositor, one
+# simulated and governed by nothing. That is ordinary for a knowledge base,
+# which reasons over whatever it can lawfully reach, and the arrangements do not
+# match.
+#
+# WHAT IT DEMONSTRATES: declaring `false` is honest and VALID, and it costs the
+# licence relaxation. The protocol itself passes — punishing the declaration
+# would teach authors to claim a uniformity they have not got. The cost lands at
+# the release: any analysis declaring `ai_processing: true` against this protocol
+# gets no second path and must satisfy the ordinary rule.
+#
+# MUTATIONS THAT MUST BREAK SOMETHING:
+#   - `sources_uniformly_governed: true` here -> `additional_bases` is refused
+#   - delete `sources_uniformly_governed` -> required wherever `basis` is set
+#   - delete `additional_bases` -> required-and-non-empty fires
+#   - delete any entry's `note` -> required, because the enum is exactly what
+#     could not express the arrangement
+#   - set an entry's `basis` to something outside the enum + `none`
+#   - a release naming this protocol with `ai_processing: true` on any analysis
+#     -> no licence path, so the ordinary rule applies
+# ============================================================================
+
+schema_version: 1
+
+protocol:
+  id: example-mixed-governance-sources
+  version: 1.0.0
+  title: >-
+    SYNTHETIC EXAMPLE — one protocol over sources held under three different
+    instruments
+  effective_from: 2026-09-15
+  note: >-
+    Written as the fixture for `sources_uniformly_governed: false`. The
+    arrangement it describes is the one that raised the field:
+    `learning-graph-structure` in learning-engine-ai-frontend.
+
+participants:
+  population: >-
+    SYNTHETIC. Three sources: adults using a commercial practice app whose
+    operator released an interaction dump; school students on a research
+    platform whose depositor shares extracts bilaterally; and simulated
+    learners, who do not exist.
+  recruitment: >-
+    None by us. Two depositors recruited their own under arrangements we did not
+    see; the third population is generated.
+  inclusion:
+    - Every record in each deposit that carries the fields the analysis reads.
+  exclusion:
+    - No exclusion on the outcome being analysed.
+  vulnerable_populations:
+    - group: >-
+        SYNTHETIC school-age students on the second source
+      safeguards:
+        - >-
+          NOT ESTABLISHED by us. What matters for this fixture is that this
+          source — the school-age one — is under the RESTRICTIVE instrument,
+          while the permissive `basis` above describes the adult corpus. That
+          coincidence is not incidental: restrictive arrangements attach to the
+          data somebody was careful about.
+  age_assurance:
+    method: not-established
+    jurisdiction: >-
+      NOT ESTABLISHED. Synthetic, and the deposit this stands for would record
+      none.
+  compensation:
+    kind: none
+
+consent:
+  basis: licence
+  licence:
+    id: CC-BY-4.0
+    ref: "https://creativecommons.org/licenses/by/4.0/"
+    holder: >-
+      SYNTHETIC — the operator who released the interaction dump. Not a
+      participant, and does not speak for the participants.
+  required: false
+  mechanism: not-applicable
+  # THE FIELD THIS FIXTURE EXISTS FOR.
+  sources_uniformly_governed: false
+  additional_bases:
+    - source: SYNTHETIC school-platform extract
+      basis: not-established
+      note: >-
+        A bilateral undertaking with the depositor — analysis only, no
+        redistribution including derived extracts. `not-established` is the
+        nearest of the four and not the right one: something IS established, in
+        writing. This note is where the arrangement actually lives.
+    - source: SYNTHETIC simulated learners
+      basis: none
+      note: >-
+        No participants and no instrument. Recorded rather than omitted so a
+        reader counting sources against instruments does not find one missing
+        and assume it was overlooked.
+  permitted_uses:
+    internal-pipeline-validation: permitted
+    product-improvement: unspecified
+    research-analysis: permitted
+    research-publication: permitted
+    secondary-research-by-others: unspecified
+    model-training: prohibited
+  permitted_uses_note: >-
+    Every value above is the licence on the FIRST source only. The second is
+    more tightly constrained and the third is unconstrained. That is exactly
+    what `sources_uniformly_governed: false` is recording.
+  secondary_use_caveats:
+    - >-
+      NOT ESTABLISHED what any population was told. Three sources, three
+      arrangements, and the licence speaks for one of them.
+    - >-
+      THE RESTRICTIVE INSTRUMENT IS NOT THE ONE IN `basis`. A reader who checks
+      that field and stops has read the permissive arrangement over the adult
+      corpus and missed the tighter one over the school-age corpus.
+  ai_processing_disclosed: not-applicable
+  ai_processing_detail: >-
+    Not applicable: the licence path does not hold here, and no analysis in the
+    benchmark declares AI processing.
+
+data:
+  collected:
+    - item: response correctness
+      purpose: the analysis
+      identifiability: deidentified
+    - item: timestamp
+      purpose: ordering a learner's own attempts
+      identifiability: deidentified
+  prohibited:
+    - Any identifier that could link a record across the three sources.
+  identifiability:
+    collected: deidentified
+    published: aggregate
+  retention:
+    raw: For the analysis, in ephemeral storage.
+    derived: Aggregates only.
+    basis: Deposit terms and the bilateral undertaking, whichever is stricter.
+  storage:
+    location: Ephemeral analysis container.
+    encryption_at_rest: unspecified
+    encryption_in_transit: unspecified
+    access_logging: unspecified
+  access:
+    raw: [the analysis session]
+    derived: [the analysis session]
+    published: [anyone]
+
+risks:
+  classification: minimal
+  identified:
+    - risk: >-
+        A reader takes the permissive basis as covering every source.
+      mitigation: >-
+        `sources_uniformly_governed: false` and `additional_bases`, which is
+        what this fixture is demonstrating.
+
+external_review:
+  status: not-required
+  determination: >-
+    Synthetic. No review body has jurisdiction over a fixture.
+
+deviations: []
+
+provenance:
+  source_type: research
+  created_at: 2026-09-15
