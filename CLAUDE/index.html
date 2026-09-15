@@ -2756,6 +2756,58 @@ together would either make it impossible to plan a study under a protocol that f
 publishing (exactly the internal pipeline-validation case <code>lazuli-platform-telemetry</code>
 describes) or weaken the publication gate. It is also the object an IRB actually
 reviews: they review a plan, not a paper.</p>
+<p><strong>That reasoning was tested, not assumed, and a parallel branch was rebuilt onto it.</strong>
+Another session had put pre-registration on the release as a <code>stage: preregistration</code>
+field. Planning an internal validation study under <code>lazuli-platform-telemetry</code> fails —
+<em>"this release publishes findings, but its protocol's consent records
+permitted_uses['research-publication'] as 'prohibited'"</em> — so the study is unplannable,
+and the message asserts it publishes findings about a file containing none. <strong>Do not
+reintroduce a <code>stage:</code> on the release.</strong> The two objects are not interchangeable and the
+publication gate is what the layer exists to enforce.</p>
+<p><strong>A <code>primary</code> endpoint requires <code>prespecified_prediction: {prediction,
+disconfirming_result}</code>.</strong> <code>measure</code> says what is measured and <code>analysis_plan.tests</code> says
+how it is analysed; neither says what result would count AGAINST the hypothesis, and
+without that any outcome can be narrated afterwards as a success. Optional on <code>secondary</code>
+and <code>safety</code>; <strong>refused on <code>exploratory</code></strong> — an endpoint with a prediction is not
+exploratory, and carrying both is how an exploratory result is reported later as though it
+had been predicted. <strong>There is deliberately no <code>mode: confirmatory | exploratory</code> field</strong>:
+<code>role</code> already draws that line, and a second field saying the same thing is the drift shape
+this repo has lost weeks to on DOIs.</p>
+<p><strong>A release names the study it reports</strong> — <code>study: {ref, version}</code>, or
+<code>no_study_reason:</code> for a secondary analysis that genuinely had no plan of ours. The
+docstring claimed this edge from the start and nothing implemented it, so a plan and its
+report were two unconnected files. The plan's <code>effective_from</code> is checked against the
+release's <code>released_at</code>: a plan written after its own findings plans nothing, and only the
+dates reveal it.</p>
+<p><strong><code>analyses[].prespecified</code> is required and never defaulted</strong>, and <code>false</code> is an ordinary
+honest value — a reviewer's question answered after the fact is good practice; what would
+not be is that analysis appearing with nothing to say it arrived late.</p>
+<p><strong><code>analyses[].endpoint_refs</code> is declared, never inferred, and is a LIST.</strong> The first draft
+of <code>--deviations</code> matched endpoint names against analysis titles by word overlap and
+immediately reported an endpoint as unreported on a release that reports it — a fuzzy join
+that is wrong is worse than none, because the output looks like a finding. Where no
+analysis declares one, <code>--deviations</code> says endpoint coverage is <em>not checkable</em> rather than
+guessing. A list because one analysis routinely answers several endpoints.</p>
+<div class="highlight"><pre><span></span><code>python3<span class="w"> </span>scripts/check_research.py<span class="w"> </span>--deviations<span class="w"> </span>&lt;study-id&gt;<span class="w">   </span><span class="c1"># plan vs report</span>
+python3<span class="w"> </span>scripts/check_research.py<span class="w"> </span>--stub-study<span class="w"> </span>&lt;study-id&gt;<span class="w">   </span><span class="c1"># a plan skeleton</span>
+</code></pre></div>
+<p><strong><code>--deviations</code> reports rather than judges.</strong> The spaced-review fixture's 1.1.0 adds
+<code>time-on-task-model</code> to answer a reviewer's issue, and that is what should happen.</p>
+<p><strong>A <code>TODO</code> anywhere in an <code>observations/</code> or <code>research/</code> file now fails validation, comments
+included.</strong> <code>--stub</code> promised this and delivered two-thirds: a marker in an enum or a date
+failed on its own shape, but one in <strong>free text validated clean</strong> — verified by injecting one
+into <code>outcome.source_language</code> and watching the whole store report zero. On a plan, free text
+is where <code>disconfirming_result</code> lives; a skeleton committable with its prediction still
+unwritten looks registered and is not.</p>
+<p><strong>Dates are validated as dates</strong>, after a draft protocol with <code>effective_from: "NOT
+ESTABLISHED"</code> validated clean. And PyYAML's timestamp constructor raises a bare <code>ValueError</code>
+on an impossible date, which crashed both checkers with a traceback instead of reporting one
+file; both loaders now catch it.</p>
+<p><strong>The study's own <code>enrolment.special_populations</code> was never shape-checked</strong> — only the
+protocol's — so a scalar there crashed <code>check_study_against_protocol</code> with an
+<code>AttributeError</code>. Found by typing <code>special_populations: none</code>, which reads as a perfectly
+reasonable thing to write. It is a mapping per class, because the protocol ceiling is checked
+per class and "which ones" is what a scalar cannot answer.</p>
 <p><strong>What lives on the study is what varies per study</strong> — the governing rule <code>observations/</code>
 established. A protocol has no single question, no enrolment target and no endpoint,
 because it governs a family. So <code>question</code>, <code>background</code>, <code>design</code>, <code>setting</code>,

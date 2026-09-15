@@ -597,6 +597,17 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#2026-09-15" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-15
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#2026-09-11" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -823,6 +834,17 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#2026-09-15" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-15
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#2026-09-11" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1016,6 +1038,22 @@
 <p>Append-only chronological record of ingests, edits, and reviews.</p>
 <p>Format: <code>## [YYYY-MM-DD] &lt;operation&gt; | &lt;page or batch&gt; | &lt;notes&gt;</code></p>
 <p>Operations: <code>ingest</code> · <code>edit</code> · <code>review</code> · <code>merge</code> · <code>deprecate</code> · <code>lint</code></p>
+<hr />
+<h2 id="2026-09-15">2026-09-15<a class="headerlink" href="#2026-09-15" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong>Merge</strong>: four PRs landed to <code>main</code> in size order so each resolved against a settled base rather than four ways at once — #82 (both halves of the evidence edge), #83 (<code>consent.basis</code> <code>sources_uniformly_governed</code> + the <code>additional_bases</code> crash), #84 (<strong>Study as the fifth research object</strong>, plus the BRANY SBER renderer), #79 (sources on nine claims)</li>
+<li><strong>Forward-merge break</strong>: #83 made <code>consent.sources_uniformly_governed</code> required and #84 was cut before it and adds a protocol fixture — each tree correct alone, the combination failing, and nothing in either branch's own checks could have caught it. Fixed on the branch before merging</li>
+<li><strong>Decision</strong>: <strong>pre-registration is a <code>stage:</code> on a release — it was, and it is not any more.</strong> A parallel branch had built it that way; #84's Study object is the correct home, and the argument was tested rather than conceded: planning an internal validation study under <code>lazuli-platform-telemetry</code> fails the publication gate, so the study is unplannable and the error asserts "this release publishes findings" about a file containing none. The <code>stage:</code> work was rebuilt onto <code>Study</code> and the release-side version discarded</li>
+<li><strong>Schema</strong>: a <code>primary</code> endpoint requires <code>prespecified_prediction: {prediction, disconfirming_result}</code> — <code>measure</code> and <code>analysis_plan.tests</code> say what is measured and how, neither says what result would count AGAINST the hypothesis. Refused on an <code>exploratory</code> endpoint, and there is deliberately <strong>no <code>mode:</code> field</strong>: <code>role</code> already draws that line</li>
+<li><strong>Schema</strong>: a release names the study it reports (<code>study: {ref, version}</code> or <code>no_study_reason:</code>) — an edge the module docstring claimed from the start and nothing implemented, so a plan and its report were two unconnected files. Ordering checked on the dates</li>
+<li><strong>Schema</strong>: <code>analyses[].prespecified</code> required and never defaulted; <code>analyses[].endpoint_refs</code> declared rather than inferred, and a <strong>list</strong></li>
+<li><strong>Fix</strong>: the first <code>--deviations</code> inferred the endpoint→analysis link from word overlap and immediately reported an endpoint as unreported on a release that reports it. A fuzzy join that is wrong is worse than none, because the output looks like a finding. Replaced with a declared ref; where none is declared the command says coverage is <em>not checkable</em></li>
+<li><strong>Fix</strong>: a <code>TODO</code> in <strong>free text</strong> validated clean in both layers, so <code>--stub</code>'s standing promise was only two-thirds true. Now scanned over raw file text, comments included</li>
+<li><strong>Fix</strong>: <code>_date</code> accepted any string — a draft protocol with <code>effective_from: "NOT ESTABLISHED"</code> validated clean. Now ISO and a real calendar date</li>
+<li><strong>Fix</strong>: both layers' loaders caught only <code>YAMLError</code>, so PyYAML's bare <code>ValueError</code> on an impossible date crashed the checkers instead of reporting one file</li>
+<li><strong>Fix</strong>: the study's own <code>enrolment.special_populations</code> was never shape-checked — only the protocol's — so a scalar crashed <code>check_study_against_protocol</code>. Found by typing <code>special_populations: none</code></li>
+<li><strong>Tools</strong>: <code>--deviations &lt;study-id&gt;</code> and <code>--stub-study &lt;study-id&gt;</code>. 14 mutation tests, each producing the intended error; the stub round-tripped (generated → refused → filled → validates → removed)</li>
+</ul>
 <hr />
 <h2 id="2026-09-11">2026-09-11<a class="headerlink" href="#2026-09-11" title="Permanent link">&para;</a></h2>
 <ul>
