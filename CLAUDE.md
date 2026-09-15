@@ -1023,6 +1023,46 @@ python3 scripts/check_research.py --why <claim-slug>  # the traversal
 python3 scripts/lint.py --type research               # the same checks, in CI
 ```
 
+### Rendering a protocol as somebody else's form
+
+`scripts/render_brany_protocol.py` renders a protocol (optionally with a release) as
+BRANY's SBER protocol template — the 26-section document an independent IRB would expect.
+It exists to answer one question checkably: **which of an IRB's questions can this schema
+already answer, and which can it not?**
+
+```bash
+python3 scripts/render_brany_protocol.py <protocol-id> [--release <id>] # the document
+python3 scripts/render_brany_protocol.py <protocol-id> --coverage       # status per section
+python3 scripts/render_brany_protocol.py <protocol-id> --gaps           # just what it cannot answer
+```
+
+**A section the schema cannot answer renders as a loud marker, never as prose**, and that
+is the whole discipline: a governance document filled in by inference reads as verified,
+which is the failure this file catalogues at length on DOIs. Five statuses, and the
+distinctions carry the meaning — `unspecified` (the schema has the field; this protocol
+has not established it) is not `no-field` (the schema has nowhere to put it), exactly as
+`crossref_reachable: false` is not `flagged`.
+
+**Some "not applicable" determinations are made by the record rather than by the author.**
+BRANY requires a safety-monitoring plan and injury-compensation terms only above minimal
+risk, so `risks.classification` decides sections 16 and 23 — and `not-determined` correctly
+yields neither answer, because an undetermined classification decides nothing. That is a
+small worked example of the larger argument: a machine-readable protocol lets a reviewer's
+own rule run against the configuration.
+
+**13 of 30 sections have no field at all** (14 when risk classification is undetermined),
+clustered in three places: study descriptives the protocol layer deliberately does not hold
+(background, setting, resources, planned enrolment, timelines, endpoints, data quality),
+subject privacy *as distinct from* data confidentiality — BRANY is explicit that section 15
+is about intrusiveness, not storage — and the consent MECHANICS, above all everything about
+minors: age of consent in the jurisdiction, one parent or both, assent and its
+documentation, and re-consent when a subject turns 18 mid-study.
+`participants.age_assurance` records how age is *established*, which is a prerequisite for
+those questions and an answer to none of them. **Do not close these gaps by inventing
+fields to fill the form** — several belong on the release or on a study-design object, and
+one (section 20, community-based participatory research) cannot be auto-answered
+"not applicable" because nothing in the record says whether a study was co-designed.
+
 `--why` is the acceptance test run as a command: *why does the wiki believe claim X*,
 answered by walking claim ← evidence ← analysis ← dataset ← release ← protocol from
 the records alone, printing what is contested at every level, and naming any record
