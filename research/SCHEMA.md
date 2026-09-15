@@ -51,6 +51,23 @@ Both halves are required to agree, because a half-written edge is worse than no
 edge: it reads as a working link from whichever side you arrive on, and only a
 reader who checks the other side ever finds out.
 
+**Enforced in both directions, which it was not at first.** The original check
+walked release → observation only, so a dangling `ref` failed but a *missing*
+one passed — and missing is the direction that actually happens. A release whose
+`evidence:` is short, or absent entirely, looks complete from the release,
+because absence has no anchor to be absent from. The mirror check walks the
+other way: every observation in a record that names a release must be cited back
+by that release. Every observation, not the record — a release citing one
+finding out of five leaves four that no reader arriving from the front door can
+reach. The gap was found by a release with eight findings and no `evidence:`
+key at all, which both checkers called clean.
+
+Tested the same way as the protocol checks below — by mutation against the
+fixture: drop one `evidence` ref, drop the block entirely, give an analysis a
+file path for `outputs`, give it an id no dataset declares. Each produces
+exactly the errors it should, and a correct `outputs` naming a declared dataset
+produces none.
+
 **What changed in `observations/` to make this work** — three fields, and no new
 object:
 
@@ -288,7 +305,8 @@ analyses:
     code: {repo, commit, path}     # a COMMIT, never a branch or tag
     environment: {kind, detail, lockfile}
     inputs: [dataset ids]          # required, non-empty, must resolve
-    outputs: [...]
+    outputs: [dataset ids]         # optional; must resolve if given.
+                                   # a result FILE belongs in artifacts:
     ai_processing:                 # required — true | false | unspecified
 
 evidence:
