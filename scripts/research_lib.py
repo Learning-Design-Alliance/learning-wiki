@@ -159,6 +159,61 @@ ACCESS_CEILING = {"raw": "collected", "derived": "collected",
 CONSENT_MECHANISMS = {"explicit", "broad", "opt-out", "waived",
                       "not-applicable", "unspecified"}
 
+# ON WHAT BASIS MAY THIS DATA BE PROCESSED AT ALL.
+#
+# Added because the AI-processing check below assumed a consent step exists,
+# and for most evidence a knowledge base reasons over, none does. The wiki's
+# observations are overwhelmingly SECONDARY: published papers, open corpora,
+# data somebody else collected under terms nobody here has read. First-party
+# collection is the rare case, and it is the one the original rule was built
+# around — so the rule fired on the common case and passed the uncommon one.
+#
+# A rule that mostly fires on valid work gets routed around, and the way people
+# route around this one is by typing `true` into `ai_processing_disclosed`.
+# That is strictly worse than a red check: it asserts something about
+# participants nobody established, permanently, in a file that reads as
+# verified. Naming the basis is how that is avoided without weakening anything.
+PROCESSING_BASES = {
+    # The data subjects were asked and agreed, for this.
+    "participant-consent",
+    # They accepted product terms. A basis for operating a product; NOT a
+    # research consent, and `permitted_uses` is where that consequence is made
+    # checkable (see `lazuli-platform-telemetry`).
+    "terms-of-service",
+    # The data reached us already published under an open licence granted by a
+    # depositor. What the participants were told was told to somebody else,
+    # under terms we cannot read. See LICENCE_BASIS_REQUIREMENTS below: this
+    # value is narrowly guarded, because it is the one that relaxes a check.
+    "licence",
+    # Nobody has established any basis. Never a pass for anything.
+    "not-established",
+}
+
+# WHAT A LICENCE BASIS MUST CARRY BEFORE IT RELAXES ANYTHING.
+#
+# `basis: licence` is the only value that changes what another check does, so
+# it is the only one that can be abused, and the guard has to be structural
+# rather than advisory. Four conditions, all required together:
+#
+#   1. `consent.licence: {id, ref, holder}` — the actual instrument, who
+#      granted it, and where to read it. A basis nobody can look up is a claim.
+#   2. `consent.secondary_use_caveats` — a non-empty list saying what is NOT
+#      known about what the participants were told. The licence answers what we
+#      may do; it does not answer what they agreed to, and the record has to
+#      keep those apart rather than let the first stand in for the second.
+#   3. `ai_processing_disclosed: not-applicable` — a positive statement that
+#      the question does not apply here, rather than `unspecified`, which means
+#      nobody looked. The author has to say which of those it is.
+#   4. `data.identifiability.collected` is `deidentified` or `aggregate`.
+#
+# CONDITION 4 IS THE ONE THAT MATTERS. It is what stops this becoming a general
+# escape hatch: a licence can be granted over data a depositor de-identified
+# and published, and cannot conjure a basis for processing identified or
+# pseudonymised records. `lazuli-platform-telemetry` collects `pseudonymised`,
+# so it structurally cannot reach this path however its consent block is
+# written — which is the property to preserve if this is ever changed again.
+LICENCE_IDENTIFIABILITY = {"deidentified", "aggregate"}
+
 # How age was ESTABLISHED. An inclusion criterion of "18+" is not evidence of
 # age; these say what kind of evidence there is, and `not-established` is a
 # legal value that a downstream gate must treat as blocking rather than as a
@@ -626,6 +681,7 @@ def validate_protocol(rec, pid, version) -> list:
     _validate_participants(rec.get("participants"), key, issues)
     _validate_consent(rec.get("consent"), key, issues)
     _validate_data(rec.get("data"), key, issues)
+    _check_licence_basis_identifiability(rec, key, issues)
     _validate_risks(rec.get("risks"), key, issues)
     _validate_external_review(rec.get("external_review"), key, issues)
     _validate_deviations(rec.get("deviations"), key, issues)
@@ -728,6 +784,21 @@ def _validate_consent(block, key, issues):
         _str(issues, where, block.get("ai_processing_detail"), "ai_processing_detail",
              required=True)
 
+    # OPTIONAL, and that is not an oversight. Requiring it would invalidate
+    # every protocol frozen before it existed, and those files are immutable by
+    # construction. An absent basis therefore behaves exactly as before: the
+    # AI-processing check demands `ai_processing_disclosed: true` and nothing
+    # else will do.
+    basis = block.get("basis")
+    _enum(issues, where, basis, PROCESSING_BASES, "basis")
+    if basis == "licence":
+        _validate_licence_basis(block, where, issues)
+    elif "licence" in block:
+        _err(issues, where, "`licence` is only meaningful with `basis: licence` — a "
+                            "licence block under any other basis names an instrument "
+                            "that nothing reads, which is how a record starts looking "
+                            "more governed than it is")
+
     # `secondary_research_use` was a separate tri-state flag in the first draft.
     # It is exactly `permitted_uses: {secondary-research-by-others: ...}` said a
     # second way, and two places to state one fact is the drift shape this repo
@@ -771,6 +842,86 @@ def _validate_consent(block, key, issues):
                 # us" are two promises, and only the second is operational.
                 _str(issues, ww, w.get("effect_on_collected_data"),
                      "effect_on_collected_data", required=True)
+
+
+def _check_licence_basis_identifiability(rec, key, issues):
+    """Condition 4, and the load-bearing one: a licence basis may only be
+    claimed over data the depositor de-identified before publishing it.
+
+    Spans `consent` and `data`, so it cannot live in either block's validator.
+    A licence is granted by whoever holds the data; it can carry reuse rights
+    over de-identified records somebody chose to publish, and it cannot conjure
+    a basis for processing records that still identify people. Without this the
+    whole basis field is a one-line escape from the AI-processing check, and
+    the first protocol to reach for it wrongly would be the one governing
+    learner telemetry."""
+    consent = rec.get("consent")
+    if not isinstance(consent, dict) or consent.get("basis") != "licence":
+        return
+    data = rec.get("data") if isinstance(rec.get("data"), dict) else {}
+    ident = data.get("identifiability") if isinstance(data.get("identifiability"), dict) else {}
+    collected = ident.get("collected")
+    if collected not in LICENCE_IDENTIFIABILITY:
+        _err(issues, f"{key}.consent",
+             f"basis is `licence`, but data.identifiability.collected is {collected!r}. "
+             f"A licence basis is only available over {' or '.join(sorted(LICENCE_IDENTIFIABILITY))} "
+             f"data: a depositor may license reuse of records they de-identified and "
+             f"published, and no licence creates a basis for processing records that "
+             f"still identify the people in them. If the data are identified or "
+             f"pseudonymised, the basis is whatever those people were actually told")
+
+
+def _validate_licence_basis(block, where, issues):
+    """The four conditions in LICENCE_BASIS_REQUIREMENTS, checked here so a
+    malformed licence basis fails in the protocol that wrote it rather than
+    only in whichever release later names it.
+
+    Condition 4 lives in `data`, not `consent`, so it is checked in
+    `_validate_protocol_coherence` where both blocks are in hand."""
+    lic = block.get("licence")
+    if not isinstance(lic, dict):
+        _err(issues, where, "basis is `licence`, so `licence: {id, ref, holder}` is "
+                            "required — the instrument the basis rests on, where to "
+                            "read it, and who granted it. A basis nobody can look up "
+                            "is a claim rather than a basis")
+    else:
+        lw = f"{where}.licence"
+        _str(issues, lw, lic.get("id"), "id", required=True)
+        _str(issues, lw, lic.get("ref"), "ref", required=True)
+        # Who granted it, because it is NOT the participant. A depositor can
+        # grant reuse rights over what they collected; they cannot
+        # retroactively tell their participants what a later team would do.
+        # Naming the grantor is what keeps that distinction visible.
+        _str(issues, lw, lic.get("holder"), "holder", required=True)
+
+    # What the licence does NOT settle. NON-EMPTY, unlike almost every other
+    # list in this schema: elsewhere an empty list is a legal value meaning
+    # "somebody considered this and ruled nothing out". Here there is always
+    # something unknown — a licence granted by a depositor never establishes
+    # what the people in the data were told — so an empty list would be a false
+    # statement rather than a modest one.
+    caveats = block.get("secondary_use_caveats")
+    _list_of_str(issues, where, caveats, "secondary_use_caveats", required=True)
+    if isinstance(caveats, list) and not [c for c in caveats
+                                          if isinstance(c, str) and c.strip()]:
+        _err(issues, where, "basis is `licence`, so `secondary_use_caveats` must be "
+                            "non-empty. The licence says what we may do; it does not "
+                            "say what the people in the data agreed to, and an empty "
+                            "list here claims those are the same question")
+
+    disclosed = block.get("ai_processing_disclosed")
+    if disclosed != "not-applicable":
+        _err(issues, where, f"basis is `licence`, so `ai_processing_disclosed` must be "
+                            f"`not-applicable` — a positive statement that the question "
+                            f"does not apply here — and it is {disclosed!r}. "
+                            f"`unspecified` means nobody looked, which is a different "
+                            f"state and one somebody can still fix by asking; the "
+                            f"author has to say which of the two this is")
+
+    if block.get("required") is not False:
+        _err(issues, where, "basis is `licence`, so `required` must be false: the basis "
+                            "on which WE process is the licence, and a research consent "
+                            "we neither sought nor hold cannot also be the basis")
 
 
 def _validate_data(block, key, issues):
@@ -1413,6 +1564,32 @@ def validate_issue(rec, iid) -> list:
 
 # --------------------------------------------------------- the cross-checks
 
+def _licence_basis_holds(protocol) -> bool:
+    """Whether a protocol carries a COMPLETE licence basis.
+
+    Every condition is re-checked here rather than trusting that the protocol
+    validated, because this runs over a loaded record and a half-written basis
+    must never read as a whole one. Silent on failure by design — the protocol
+    validator is what explains which condition is unmet."""
+    consent = (protocol or {}).get("consent") or {}
+    if consent.get("basis") != "licence":
+        return False
+    lic = consent.get("licence")
+    if not isinstance(lic, dict) or not all(
+            isinstance(lic.get(f), str) and lic.get(f).strip() for f in ("id", "ref", "holder")):
+        return False
+    caveats = consent.get("secondary_use_caveats")
+    if not isinstance(caveats, list) or not [c for c in caveats if isinstance(c, str) and c.strip()]:
+        return False
+    if consent.get("ai_processing_disclosed") != "not-applicable":
+        return False
+    if consent.get("required") is not False:
+        return False
+    data = (protocol or {}).get("data") or {}
+    ident = data.get("identifiability") if isinstance(data.get("identifiability"), dict) else {}
+    return ident.get("collected") in LICENCE_IDENTIFIABILITY
+
+
 def check_release_against_protocol(rel, rel_key, protocol, issues):
     """The arrow the whole protocol object exists for.
 
@@ -1438,14 +1615,40 @@ def check_release_against_protocol(rel, rel_key, protocol, issues):
                             f"permits at most {ceiling!r} there "
                             f"(data.identifiability.{ceiling_field})")
 
+    # AI PROCESSING NEEDS A BASIS — either a disclosure to the people in the
+    # data, or a licence that the depositor granted over data they had already
+    # de-identified and published. Two paths, because a knowledge base reasons
+    # mostly over other people's data and only the second path exists there.
+    #
+    # `_licence_basis_holds` is deliberately strict about what counts, and its
+    # identifiability condition means a protocol governing identified or
+    # pseudonymised records cannot take the second path at all.
+    licence_basis = _licence_basis_holds(protocol)
     for i, a in enumerate(rel.get("analyses") or []):
         if not isinstance(a, dict) or a.get("ai_processing") is not True:
             continue
-        if consent.get("ai_processing_disclosed") is not True:
+        if consent.get("ai_processing_disclosed") is True or licence_basis:
+            continue
+        if consent.get("basis") == "licence":
+            # They reached for the licence path and it did not hold. Say which
+            # condition failed rather than repeating the generic message: the
+            # protocol's own errors name it, and pointing there is the fix.
             _err(issues, f"{rel_key}.analyses[{i}]",
-                 f"analysis declares ai_processing: true, but the protocol's consent "
-                 f"records ai_processing_disclosed: "
-                 f"{consent.get('ai_processing_disclosed')!r}")
+                 "analysis declares ai_processing: true and the protocol claims "
+                 "`consent.basis: licence`, but that basis does not hold — see the "
+                 "protocol's own errors for which of the licence conditions is "
+                 "unmet (licence block, secondary_use_caveats, "
+                 "ai_processing_disclosed: not-applicable, required: false, or "
+                 "de-identified collected data)")
+            continue
+        _err(issues, f"{rel_key}.analyses[{i}]",
+             f"analysis declares ai_processing: true, but the protocol's consent "
+             f"records ai_processing_disclosed: "
+             f"{consent.get('ai_processing_disclosed')!r}"
+             + ("" if consent.get("basis") else
+                ". If this data was collected by somebody else and published under "
+                "an open licence, the protocol may be able to say so instead: see "
+                "`consent.basis` in research/SCHEMA.md"))
 
     # A RELEASE IS A PUBLICATION. So naming a protocol that does not permit
     # research publication is not a paperwork problem, it is the release saying

@@ -1,0 +1,226 @@
+# ============================================================================
+# SYNTHETIC EXAMPLE. No such corpus exists and no such analysis was run.
+#
+# It is here because `consent.basis: licence` is the only value in this schema
+# that RELAXES another check, and a relaxation nobody can see the shape of is
+# one people will copy wrongly. This file is that shape.
+#
+# The case it represents is not exotic — it is the ordinary one. Almost all the
+# evidence a knowledge base reasons over is secondary: published papers, open
+# corpora, data somebody else collected under terms nobody here has read. The
+# AI-processing check was written for first-party collection, where a consent
+# step exists and somebody can be asked, and that is the RARE case.
+#
+# Compare with `lazuli-platform-telemetry`, which is the other half of the
+# argument: real first-party telemetry, `basis: terms-of-service`, and a
+# refusal. That protocol collects `pseudonymised` data, so it cannot reach the
+# licence path however its consent block is written. If you are changing the
+# licence conditions, that is the property to check you have kept.
+# ============================================================================
+
+schema_version: 1
+
+protocol:
+  id: example-open-corpus-secondary-use
+  version: 1.0.0
+  title: >-
+    SYNTHETIC EXAMPLE — secondary analysis of an openly-licensed, published
+    corpus of student work
+  effective_from: 2026-09-15
+  note: >-
+    Governs reuse of a corpus another team collected, de-identified and
+    deposited under an open licence. Nothing is collected here. The governing
+    instrument is a LICENCE, not a consent form, and the whole point of this
+    file is to make that difference checkable rather than to smooth it over.
+
+participants:
+  population: >-
+    SYNTHETIC — students whose written work was collected by the original
+    investigators and published as a research corpus. We did not meet them, do
+    not know who they are, and have no route to them.
+  recruitment: >-
+    None by us. Whatever the original investigators did is not restated here,
+    because we have not read it and would be reporting it at second hand.
+  inclusion:
+    - Any record present in the published corpus
+  exclusion:
+    - >-
+      NOT ESTABLISHED. Any exclusion the depositors applied before publishing
+      is not recorded in the deposit.
+  vulnerable_populations:
+    - group: >-
+        Students whose coursework was collected by their own instructors, for
+        whom participation may not have been meaningfully declinable
+      safeguards:
+        - >-
+          NOT ESTABLISHED by us and not establishable: whatever safeguards the
+          original investigators applied are not recorded in the deposit.
+        - >-
+          The operative safeguard is that the records arrive already
+          de-identified and already public. Nothing done here re-exposes anyone
+          who is not already exposed by the deposit, and no new collection
+          occurs.
+  age_assurance:
+    method: not-established
+    jurisdiction: >-
+      NOT ESTABLISHED per participant. The deposit records none. This matters
+      less than it would for first-party collection, because nothing new is
+      collected and nothing re-identifiable is published — and it is still not
+      nothing.
+  compensation:
+    kind: none
+    detail: We did not meet these participants, so nothing was offered by us.
+
+consent:
+  # THE FIELD THIS FIXTURE EXISTS FOR. It says what WE process on, not what the
+  # original investigators obtained.
+  basis: licence
+  licence:
+    id: CC-BY-4.0
+    ref: "https://creativecommons.org/licenses/by/4.0/"
+    # Required, and the reason is the distinction the whole basis turns on: a
+    # depositor can grant US reuse rights over what they collected. They cannot
+    # retroactively tell THEIR participants what a later team would do with it.
+    holder: >-
+      SYNTHETIC — the depositing research group, who collected the corpus and
+      released it.
+  required: false
+  mechanism: not-applicable
+  permitted_uses:
+    internal-pipeline-validation: permitted
+    product-improvement: permitted
+    research-analysis: permitted
+    research-publication: permitted
+    secondary-research-by-others: permitted
+    # The licence would allow it and nobody has decided whether we should.
+    # `unspecified` rather than `permitted` because this is the use most likely
+    # to happen by default without anyone choosing it.
+    model-training: unspecified
+  permitted_uses_note: >-
+    Every `permitted` above rests on the licence, not on a consent form we
+    hold. That is a sound basis for reuse and an incomplete one for the ethics
+    of reuse, which is what `secondary_use_caveats` is for. Recorded so nobody
+    reads five `permitted` values as five decisions somebody made about
+    participants.
+  # REQUIRED under a licence basis, and non-empty. The licence answers what we
+  # may do; it does not answer what the people in the data agreed to, and the
+  # record has to keep those apart rather than let the first stand in for the
+  # second.
+  secondary_use_caveats:
+    - >-
+      NOT ESTABLISHED whether the participants were told their work might be
+      processed by a model, still less by a third-party hosted one. The deposit
+      does not say and the original consent documents are not available to us.
+    - >-
+      NOT ESTABLISHED whether the original consent contemplated commercial
+      reuse. The licence permits it; that is a statement by the depositor about
+      their rights, not a statement about what was explained to anyone.
+    - >-
+      Free-text records can carry incidental identifiers, and the deposit does
+      not claim to have filtered for that. The text is already public, so this
+      is a property of the deposit rather than a risk created here.
+  # `not-applicable` rather than `unspecified`, and the schema requires exactly
+  # this under a licence basis. `unspecified` would mean nobody looked — a
+  # different state, and one somebody could still fix by asking. Nobody can ask
+  # here, and the record has to say which of the two it is.
+  ai_processing_disclosed: not-applicable
+
+data:
+  collected:
+    # Nothing is collected. These are the fields READ from the deposit.
+    - item: "SYNTHETIC — question text, student response text, expert score"
+      purpose: Benchmarking an automated scorer against an expert human score
+      identifiability: deidentified
+  prohibited:
+    - >-
+      First-party learner data. No record from a platform's own telemetry may
+      enter an analysis under this protocol; that data has its own protocol and
+      its own answer.
+    - Any attempt to re-identify a participant, including by linkage
+    - >-
+      Redistribution of corpus records through this repository. The layer holds
+      locations and hashes; the corpus stays where its depositor put it.
+  identifiability:
+    # CONDITION 4 OF THE LICENCE BASIS, and the load-bearing one. A licence
+    # basis is only available over `deidentified` or `aggregate` data: a
+    # depositor may license reuse of records they de-identified and published,
+    # and no licence creates a basis for processing records that still identify
+    # the people in them. Change this to `pseudonymised` and the release that
+    # names this protocol stops validating — which is the guard working.
+    collected: deidentified
+    published: aggregate
+  deidentification:
+    method: None applied by us; the corpus arrives de-identified by its depositors.
+    applied_at: not-applicable
+    # Not reversible BY US: we hold no mapping and sought none. Whether the
+    # original investigators retain one is their arrangement, not ours.
+    reversible: false
+    key_holder: >-
+      NOT ESTABLISHED. If any mapping survives it is held by the original
+      investigators.
+  retention:
+    raw: >-
+      SYNTHETIC — downloaded to an ephemeral workspace per run and not
+      retained. The deposit is the copy; the release records its hash so a
+      rerun can prove it used the same bytes.
+    derived: Aggregate results only, in the release.
+    basis: >-
+      Minimisation by default rather than by policy: nothing needs to persist,
+      because the deposit is permanent.
+  storage:
+    location: SYNTHETIC — ephemeral workspace; the corpus lives at its deposit.
+    encryption_at_rest: unspecified
+    encryption_in_transit: true
+    access_logging: unspecified
+  access:
+    # Anybody at all — the deposit is public and openly licensed. This is the
+    # field that most distinguishes a licence basis from a consent one.
+    raw:
+      - public
+    derived:
+      - role:research
+    published:
+      - public
+
+risks:
+  classification: minimal
+  identified:
+    - risk: >-
+        A permission granted by a depositor being read as a permission granted
+        by the people in the data.
+      mitigation: >-
+        Partial, and structural as far as it goes: `secondary_use_caveats` is
+        required and non-empty under a licence basis, so the record cannot
+        claim the licence settles what it does not settle. It does not make the
+        unknown known.
+    - risk: >-
+        `basis: licence` being reached for over data that is not in fact
+        openly-licensed de-identified secondary data.
+      mitigation: >-
+        Mitigated structurally. The basis requires a named licence with a
+        grantor and a reference, and `data.identifiability.collected` of
+        `deidentified` or `aggregate`. A protocol over identified or
+        pseudonymised records cannot take this path at all.
+    - risk: >-
+        Re-identification from free text carrying incidental identifiers.
+      mitigation: >-
+        Low and not created here: the text is already published. No linkage is
+        attempted, no record is redistributed, nothing record-level published.
+
+external_review:
+  status: not-required
+  determination: >-
+    A claim by us, recorded as one. No new data are collected, no participant
+    is contacted, the corpus is published and openly licensed, and nothing
+    record-level is republished — so this is secondary analysis of public data.
+    That reasoning covers the human-subjects question. It does not cover the
+    licence-versus-consent gap, which is what `secondary_use_caveats` records
+    rather than resolves.
+
+deviations: []
+
+provenance:
+  source_type: synthetic-simulation
+  created_at: 2026-09-15
+  authored_by: claude/unspecified
+  verification: unverified

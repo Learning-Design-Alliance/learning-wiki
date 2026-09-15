@@ -1,0 +1,116 @@
+# ============================================================================
+# SYNTHETIC EXAMPLE — a GOVERNANCE fixture, not an evidence fixture.
+#
+# It exists to exercise one path in CI: an analysis declaring
+# `ai_processing: true` under a protocol whose basis is a LICENCE rather than a
+# participant disclosure. Without it, `_licence_basis_holds` is only ever
+# exercised by hand, and a later change that made it always return False would
+# pass every check in this repo.
+#
+# So it carries NO `evidence:`, deliberately. The spaced-review fixture is the
+# one that demonstrates the evidence chain (claim <- evidence <- analysis <-
+# dataset <- release <- protocol); duplicating that here would be a second copy
+# of a thing already shown, and this release has no findings to name because no
+# analysis was ever run.
+#
+# THE MUTATION TESTS THIS FIXTURE SUPPORTS. Each of these should produce
+# exactly one error naming the condition that governs it:
+#   - protocol `ai_processing_disclosed` -> `unspecified`   (must be not-applicable)
+#   - protocol `data.identifiability.collected` -> `pseudonymised`
+#   - protocol `consent.licence` removed
+#   - protocol `consent.secondary_use_caveats` -> []
+#   - protocol `consent.required` -> true
+#   - protocol `consent.basis` removed entirely  (falls back to the old rule)
+# ============================================================================
+
+schema_version: 1
+
+release:
+  id: example-open-corpus-benchmark
+  version: 1.0.0
+  title: >-
+    SYNTHETIC EXAMPLE — benchmarking an automated scorer against an openly
+    licensed corpus of expert-scored student work
+  released_at: 2026-09-15
+  question: >-
+    SYNTHETIC. How closely does an automated scorer agree with the expert human
+    score shipped with a published corpus?
+
+protocol:
+  ref: example-open-corpus-secondary-use
+  version: 1.0.0
+
+research_design:
+  family: other
+  detail: >-
+    SYNTHETIC. Repeated-measures scoring over archival expert-scored records;
+    no people are assigned to anything, because the units are responses that
+    were written and scored before this existed.
+  preregistration:
+    registered: false
+    note: Synthetic; nothing was run, so nothing could have been registered.
+
+datasets:
+  - id: corpus
+    title: SYNTHETIC EXAMPLE — published corpus of expert-scored student responses
+    grain: one student response to one question, with its expert score
+    format: csv
+    rows: 2000
+    size_bytes: 4000000
+    location:
+      kind: url
+      ref: "https://SYNTHETIC-EXAMPLE.invalid/corpus/v1.csv"
+    sha256: 3f786850e387550fdab836ed7e6dc881de23001b4ab1ae0ea57f2dcb9cbbd8d7   # SYNTHETIC
+    identifiability: deidentified
+    access: raw
+
+analyses:
+  - id: scoring-run
+    title: SYNTHETIC EXAMPLE — score every response and compare with the expert score
+    code:
+      repo: "https://SYNTHETIC-EXAMPLE.invalid/lda/corpus-benchmark"
+      commit: abadcafeabadcafeabadcafeabadcafeabadcafe   # SYNTHETIC
+      path: analysis/score.py
+    environment:
+      kind: container
+      detail: SYNTHETIC — python:3.12-slim, calling a hosted scoring model
+      lockfile: analysis/requirements.lock
+    inputs:
+      - corpus
+    # THE LINE THIS FIXTURE EXISTS FOR. Under the old rule this failed, because
+    # the protocol's `ai_processing_disclosed` is not `true` and cannot be:
+    # nobody can ask these participants anything. It passes now on the licence
+    # basis, and only because every one of that basis's conditions holds.
+    ai_processing: true
+
+interpretation: >-
+  SYNTHETIC EXAMPLE — nothing was measured, so there is nothing to interpret.
+  What this file demonstrates is governance rather than a finding: an analysis
+  that processes somebody else's published data with a model, under a protocol
+  that says on what basis it may, and what that basis does not settle.
+
+limitations:
+  - >-
+    SYNTHETIC. Every number is invented and no analysis was run; this release
+    must never be pooled with, or cited as, a finding.
+  - >-
+    Carries no evidence records on purpose. It is a fixture for the governance
+    checks, and the spaced-review fixture is the one that demonstrates the
+    evidence chain.
+
+funding: SYNTHETIC EXAMPLE — no funding, because no research was conducted.
+
+conflicts: >-
+  SYNTHETIC EXAMPLE — a real release of this shape would declare here that the
+  scorer under test and the team publishing the benchmark are the same, which
+  is a conflict and is declared rather than mitigated away.
+
+provenance:
+  authors:
+    - id: claude/unspecified
+      role: constructed the example
+  source_type: synthetic-simulation
+  created_at: 2026-09-15
+  software_versions:
+    pipeline: SYNTHETIC-EXAMPLE
+  verification: unverified
