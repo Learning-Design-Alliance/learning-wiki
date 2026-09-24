@@ -8,6 +8,10 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ---
 
+## 2026-09-24
+
+* **Correction**: [strategies/paired-reading](strategies/paired-reading.md) — Removed a What Works Clearinghouse citation: the link pointed to WWC's I CAN Learn (maths) report, and WWC has no intervention report on Topping's Paired Reading, so the attached rating was unsupported
+
 ## 2026-09-15
 
 * **Merge**: four PRs landed to `main` in size order so each resolved against a settled base rather than four ways at once — #82 (both halves of the evidence edge), #83 (`consent.basis` `sources_uniformly_governed` + the `additional_bases` crash), #84 (**Study as the fifth research object**, plus the BRANY SBER renderer), #79 (sources on nine claims)

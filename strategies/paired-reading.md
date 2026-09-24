@@ -5,8 +5,8 @@ title: Paired Reading
 description: A learner and a more fluent partner read aloud together in unison, with the partner gradually releasing the learner into independent reading with supportive correction.
 status: review
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-24
 ---
 
 # Paired Reading
@@ -64,7 +64,7 @@ Paired Reading works because unison reading supplies a fluent model at the momen
 - **Choral Reading** — group version of unison reading, useful for building prosody without one-to-one staffing
 
 ## Examples
-- **Topping's Paired Reading programs (UK)** — Keith Topping's parent- and peer-tutoring manuals, implemented at scale in Scottish schools and evaluated by [What Works Clearinghouse](https://ies.ed.gov/ncee/wwc/InterventionReport/676) as showing potentially positive effects on alphabetics and fluency.
+- **Topping's Paired Reading programs (UK)** — Keith Topping's parent- and peer-tutoring manuals, implemented at scale in Scottish schools.
 - **[Reading Rockets](https://www.readingrockets.org)** — publishes practitioner guidance on paired and partner reading routines grounded in the fluency research base.
 - **Cross-age peer tutoring schemes** — older elementary students tutoring younger readers using the unison–release–rejoin protocol, with documented gains for both partners.
 
