@@ -70,7 +70,7 @@ Do Nows serve two functions at once: a classroom-management routine that establi
 - **Elementary morning work**: spiral-review math sheets (e.g., [Every Day Counts](https://www.rigbypub.com) calendar math routines) completed during arrival, reviewed as a whole class.
 
 ## Key Sources
-- Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/medu.12141](https://doi.org/10.1111/medu.12141)
+- Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)
 - Rosenshine, B. (2012). Principles of instruction: Research-based strategies that all teachers should know. *Phi Delta Kappan, 93*(6), 12–26. [doi:10.1177/003172171209500106](https://doi.org/10.1177/003172171209500106)
 - Emmer, E. T., & Evertson, C. M. (2013). *Classroom management for middle and high school teachers* (9th ed.). Pearson.
 - Lemov, D. (2021). *Teach like a champion 3.0*. Jossey-Bass.

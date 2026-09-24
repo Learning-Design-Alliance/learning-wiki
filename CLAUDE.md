@@ -103,6 +103,20 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-09-24 — a loose title match cannot rewrite a journal
+
+`resolve_citation_metadata.py --apply` proposed 101 metadata corrections, and **99 of them were one
+wrong DOI**. `10.1111/medu.12141` (Larsen, Butler & Roediger 2013, *Medical Education*) sat on 99
+citations of Roediger & Karpicke (2006), whose *Psychological Science* 17(3) 249 was correct. The two
+titles share "test-enhanced learning ... long-term retention", which clears `_same_paper`'s 0.35
+overlap, so `decide()` treated the DOI as right and set out to rewrite every page into the other
+paper. **`decide()` now returns `conflict` when the registry contradicts both journal and first page and
+the titles are not the same title** (equal, or one a prefix of the other). A `conflict` is reported,
+never written. It is the mirror of the `fix_title` rule: three coordinates can outvote a title, and a
+word overlap cannot outvote three coordinates. The 99 pages now carry the Crossref-verified
+`10.1111/j.1467-9280.2006.01693.x`. Read what `--check` proposes before running `--apply`: a
+fix that repeats on 99 pages is one decision, not 99.
+
 ### 2026-09-15 — `consent.basis` gained a uniformity condition
 
 `basis` holds one value; a protocol may govern sources held under several. Raised by

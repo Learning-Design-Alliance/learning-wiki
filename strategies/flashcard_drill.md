@@ -70,7 +70,7 @@ Flashcards work because the act of pulling an answer from memory strengthens it 
 - **Leitner box** — the classic low-tech variant: physical cards sorted into boxes reviewed at 1-, 2-, 4-, and 8-day intervals, demonstrating that the strategy requires no software.
 
 ## Key Sources
-- Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/medu.12141](https://doi.org/10.1111/medu.12141)
+- Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)
 - Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin, 132*(3), 354–380. [doi:10.1037/0033-2909.132.3.354](https://doi.org/10.1037/0033-2909.132.3.354)
 - Karpicke, J. D., & Roediger, H. L. (2008). The critical importance of retrieval for learning. *Science, 319*(5865), 966–968. [doi:10.1126/science.1152408](https://doi.org/10.1126/science.1152408)
 - Nakata, T. (2011). Computer-assisted language learning: The effect of spaced repetition on vocabulary learning. *Computer Assisted Language Learning, 24*(3), 209–226. [doi:10.1017/s095834402400020x](https://doi.org/10.1017/s095834402400020x)
