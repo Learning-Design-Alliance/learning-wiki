@@ -634,6 +634,17 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#2026-09-24-a-loose-title-match-cannot-rewrite-a-journal" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-24 — a loose title match cannot rewrite a journal
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#2026-09-15-consentbasis-gained-a-uniformity-condition" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1208,6 +1219,17 @@
   
     <nav class="md-nav" aria-label="Working alongside other sessions — read this before starting">
       <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#2026-09-24-a-loose-title-match-cannot-rewrite-a-journal" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-24 — a loose title match cannot rewrite a journal
+      
+    </span>
+  </a>
+  
+</li>
         
           <li class="md-nav__item">
   <a href="#2026-09-15-consentbasis-gained-a-uniformity-condition" class="md-nav__link">
@@ -1862,6 +1884,18 @@ work is done, not that the check is broken.</p>
 </ul>
 <p><strong>When you finish something wiki-wide, add a line here.</strong> That is how the next session
 finds out.</p>
+<h3 id="2026-09-24-a-loose-title-match-cannot-rewrite-a-journal">2026-09-24 — a loose title match cannot rewrite a journal<a class="headerlink" href="#2026-09-24-a-loose-title-match-cannot-rewrite-a-journal" title="Permanent link">&para;</a></h3>
+<p><code>resolve_citation_metadata.py --apply</code> proposed 101 metadata corrections, and <strong>99 of them were one
+wrong DOI</strong>. <code>10.1111/medu.12141</code> (Larsen, Butler &amp; Roediger 2013, <em>Medical Education</em>) sat on 99
+citations of Roediger &amp; Karpicke (2006), whose <em>Psychological Science</em> 17(3) 249 was correct. The two
+titles share "test-enhanced learning ... long-term retention", which clears <code>_same_paper</code>'s 0.35
+overlap, so <code>decide()</code> treated the DOI as right and set out to rewrite every page into the other
+paper. <strong><code>decide()</code> now returns <code>conflict</code> when the registry contradicts both journal and first page and
+the titles are not the same title</strong> (equal, or one a prefix of the other). A <code>conflict</code> is reported,
+never written. It is the mirror of the <code>fix_title</code> rule: three coordinates can outvote a title, and a
+word overlap cannot outvote three coordinates. The 99 pages now carry the Crossref-verified
+<code>10.1111/j.1467-9280.2006.01693.x</code>. Read what <code>--check</code> proposes before running <code>--apply</code>: a
+fix that repeats on 99 pages is one decision, not 99.</p>
 <h3 id="2026-09-15-consentbasis-gained-a-uniformity-condition">2026-09-15 — <code>consent.basis</code> gained a uniformity condition<a class="headerlink" href="#2026-09-15-consentbasis-gained-a-uniformity-condition" title="Permanent link">&para;</a></h3>
 <p><code>basis</code> holds one value; a protocol may govern sources held under several. Raised by
 <code>learning-graph-structure</code> 1.0.0 in learning-engine-ai-frontend, whose three sources sit
