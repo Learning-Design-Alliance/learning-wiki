@@ -8,16 +8,16 @@ generated:
 id: redundancy-hurts-learning
 evidence_strength: moderate
 sources:
-  - id: kalyuga-1999
+  - id: kalyuga-et-al-1999
     resource: "https://doi.org/10.1002/(SICI)1099-0720(199908)13:4<351::AID-ACP589>3.0.CO;2-6"
     title: "Kalyuga, S., Chandler, P., & Sweller, J. (1999). Managing split-attention and redundancy in multimedia instruction. *Applied Cognitive Psychology, 13*(4), 351–371. [doi:10.1002/(SICI)1099-0720(199908)13:4<351::AID-ACP589>3.0.CO;2-6](https://doi.org/10.1002/(SICI)1099-0720(199908)13:4<351::AID-ACP589>3.0.CO;2-6)"
-    author: Kalyuga, S., Chandler, P., & Sweller, J.
+    author: "Kalyuga, S., Chandler, P., & Sweller, J."
     q: 3
     i: 2
   - id: adesope-nesbit-2012
     resource: "https://doi.org/10.1037/a0026147"
     title: "Adesope, O. O., & Nesbit, J. C. (2012). Verbal redundancy in multimedia learning environments: A meta-analysis. *Journal of Educational Psychology, 104*(1), 250–263. [doi:10.1037/a0026147](https://doi.org/10.1037/a0026147)"
-    author: Adesope, O. O., & Nesbit, J. C.
+    author: "Adesope, O. O., & Nesbit, J. C."
     q: 4
     i: 1
 ---

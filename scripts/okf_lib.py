@@ -171,8 +171,17 @@ def convert_wikilinks(text: str, title_index: dict) -> str:
     return WIKILINK_RE.sub(_sub, text)
 
 
+# A URL inside a markdown link destination. Balanced parentheses are part of
+# it: DOIs like 10.1016/0010-0285(74)90015-2 and the Wiley SICI form carry
+# them, and CommonMark accepts them bare. `[^\s)]+` stopped at the first `)`
+# and recorded `.../0010-0285(74` as the resource, the same parenthesis bug
+# the 2026-08-31 link-repair tools shipped. Balanced `<...>` is kept too: the
+# Wiley SICI form (`13:4<351::AID-ACP589>3.0.CO;2-6`) carries it. A whole
+# destination wrapped in `<...>` is the other legal form.
+LINK_URL = r"<?(https?://(?:[^\s()<>]|\([^\s()]*\)|<[^\s()<>]*>)+)>?"
+
 CITATION_LINE_RE = re.compile(
-    r"^-\s+(?P<citation>.+?)\s*\[(?:doi:)?[^\]]*\]\((?P<url>https?://[^\s)]+)\)\s*$"
+    r"^-\s+(?P<citation>.+?)\s*\[(?:doi:)?[^\]]*\]\(" + LINK_URL.replace("(https", "(?P<url>https", 1) + r"\)\s*$"
 )
 YEAR_RE = re.compile(r"\((\d{4}[a-z]?)\)")
 
@@ -231,7 +240,7 @@ def parse_evidence_sources(evidence_section: str) -> list:
         start = h.end()
         end = headings[i + 1].start() if i + 1 < len(headings) else len(evidence_section)
         block = evidence_section[start:end]
-        url_m = re.search(r"\((https?://[^\s)]+)\)", block)
+        url_m = re.search(r"\(" + LINK_URL + r"\)", block)
         citation_m = re.search(r"^\s*\n?(.+?\(\d{4}[a-z]?\)\..+?)$", block, re.MULTILINE)
         # Anchor-stable id: matches the heading slug so existing `#author-year`
         # same-page anchor links from ## Subclaims keep working.

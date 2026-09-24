@@ -7,7 +7,7 @@ generated:
   at: 2026-04-07
 sources:
   - id: pratt-and-savoy-levine-1998
-    resource: "https://doi.org/10.1016/s0193-3973(99"
+    resource: "https://doi.org/10.1016/s0193-3973(99)80041-0"
     title: "Pratt, M. W., & Savoy-Levine, K. M. (1998). Contingent tutoring of long-division skills in fourth and fifth graders: Experimental tests of some hypotheses about scaffolding. *Journal of Applied Developmental Psychology, 19*(2), 287–304. [doi:10.1016/s0193-3973(99)80041-0](https://doi.org/10.1016/s0193-3973(99)80041-0)"
     author: "Pratt, M. W., & Savoy-Levine, K. M."
     q: 3

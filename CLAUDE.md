@@ -103,6 +103,30 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-09-24 — the evidence sync tools were half right, and a DOI with a `(` in it was half a DOI
+
+`sync_evidence_codes.py --apply` then `add_evidence_summary.py --apply` looked destructive on nine
+claim pages. Parsing the frontmatter before and after showed that **it dropped no entry**. What it did:
+
+- **Renamed 10 hand-written ids** (`adesope-2017`) to the evidence heading's slug
+  (`adesope-et-al-2017`). The tool was right here: `parse_evidence_sources` makes the id the heading
+  slug on purpose, so it equals the `#anchor` the subclaims link to, and none of the old ids matched
+  any anchor.
+- **Re-synced the Rey (2012) title** left stale by #95.
+- **Truncated two DOIs at their first `)`.** `[^\s)]+` read `10.1016/0010-0285(74)90015-2` as
+  `…0285(74`. Two more pages (`contingent-scaffolding`, `part-task-practice`) already carried
+  truncated resources on `main`. `okf_lib.LINK_URL` now accepts balanced `(...)` and `<...>`, which
+  also covers the Wiley SICI form. It is used by `CITATION_LINE_RE`, `parse_evidence_sources` and
+  `ingest_extractions._URL_RE`. No truncated `resource:` remains in the wiki.
+- **Overwrote curated headers.** `add_evidence_summary.py` now replaces only a line in its own
+  grammar (`generated_re()`) and keeps any other line, flagging a kept line whose study count
+  disagrees with the entries. Ten are kept.
+
+Verified by parse: 11 pages, 0 entries dropped or added, 0 other keys, 0 body changes. **A second
+run of both tools changes nothing.** The lesson here is the reverse of the usual one. A line-count
+summary of the first diff read the renamed `- id:` lines as deletions, and the "damage" report
+repeated that. Parse the frontmatter before calling a tool destructive, as well as before trusting it.
+
 ### 2026-09-24 — the extraction priority list is generated, never kept
 
 `scripts/priority_worklist.py` answers "what should the next extraction run read". It prints three

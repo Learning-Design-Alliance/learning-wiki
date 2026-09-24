@@ -8,22 +8,22 @@ generated:
 id: spaced-repetition-improves-retention
 evidence_strength: strong
 sources:
-  - id: cepeda-2006
+  - id: cepeda-et-al-2006
     resource: "https://doi.org/10.1037/0033-2909.132.3.354"
     title: "Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin, 132*(3), 354–380. [doi:10.1037/0033-2909.132.3.354](https://doi.org/10.1037/0033-2909.132.3.354)"
-    author: Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D.
+    author: "Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D."
     q: 4
     i: 2
-  - id: cepeda-2008
+  - id: cepeda-et-al-2008
     resource: "https://doi.org/10.1111/j.1467-9280.2008.02209.x"
     title: "Cepeda, N. J., Vul, E., Rohrer, D., Wixted, J. T., & Pashler, H. (2008). Spacing effects in learning: A temporal ridgeline of optimal retention. *Psychological Science, 19*(11), 1095–1102. [doi:10.1111/j.1467-9280.2008.02209.x](https://doi.org/10.1111/j.1467-9280.2008.02209.x)"
-    author: Cepeda, N. J., Vul, E., Rohrer, D., Wixted, J. T., & Pashler, H.
+    author: "Cepeda, N. J., Vul, E., Rohrer, D., Wixted, J. T., & Pashler, H."
     q: 3
     i: 2
   - id: donovan-radosevich-1999
     resource: "https://doi.org/10.1037/0021-9010.84.5.795"
     title: "Donovan, J. J., & Radosevich, D. J. (1999). A meta-analytic review of the distribution of practice effect: Now you see it, now you don't. *Journal of Applied Psychology, 84*(5), 795–805. [doi:10.1037/0021-9010.84.5.795](https://doi.org/10.1037/0021-9010.84.5.795)"
-    author: Donovan, J. J., & Radosevich, D. J.
+    author: "Donovan, J. J., & Radosevich, D. J."
     q: 4
     i: 2
 ---
