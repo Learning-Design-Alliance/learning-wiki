@@ -402,10 +402,14 @@ def append_log_entries(bullet_lines: list) -> None:
 # parse has said nothing about the source at all, and treating that as final
 # would drop the source for good over a formatting failure. The retryable
 # codes defer to eval/corpus/processed_articles.json's bounded attempt count.
+# The verdict codes map one-to-one onto the exclusions in INCLUSION.md (E1-E4).
+# Domain or setting is never one of them: a narrow population is a scope
+# qualifier on a claim, not a reason to leave the source out.
 REJECTION_CODES = {
-    "out-of-scope": (False, "not about learning design or learning science"),
-    "no-ingestable-content": (False, "in scope, but nothing to extract: an essay, a pointer page, a position paper with no findings"),
-    "already-covered": (False, "its contribution duplicates pages the wiki already has"),
+    "opinion-piece": (False, "E1: asserts positions with neither evidence nor a developed argument"),
+    "out-of-scope": (False, "E2: not about learning or its design (careers, publishing, conferences); never a domain or setting"),
+    "no-ingestable-content": (False, "E3: nothing to extract: a pointer page, a bare bibliography, a stub"),
+    "already-covered": (False, "E4: this source's contribution is already in the wiki from the same source"),
     "parse-error": (True, "the extraction model's output did not parse"),
     "validation-error": (True, "the extraction failed structural validation"),
     "no-contributions-extracted": (True, "the extraction model returned nothing; a model outcome, not a judgment about the source"),

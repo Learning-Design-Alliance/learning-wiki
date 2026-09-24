@@ -103,6 +103,20 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-09-24 — what a source needs to get in: `INCLUSION.md`
+
+**The default is to include.** Every paradigm is eligible, including theoretical, philosophical and
+qualitative small-n work. Evidence may be logical rather than empirical, one argument is enough, and
+studies of the design process are in. **Domain or setting is never a reason to exclude**: a narrow
+population is a scope qualifier on the claim. There are four exclusions, one per verdict code: E1
+`opinion-piece`, E2 `out-of-scope` (not about learning at all), E3 `no-ingestable-content`, E4
+`already-covered`. **An opinion cited by five or more wiki pages is ingested, not rejected**, coded
+`q1` with an evidence entry saying no evidence or argument was offered, so that citing it visibly
+justifies nothing. The `q` scale is unchanged; the maintainer declined a `q0`. Prompt v130 carries
+the extraction side, with a claim floor of one and a rule that a reasoned argument is evidence.
+`CURRENT` stays at v99. Four earlier rejections are listed there for re-review, and the manifest is
+append-only, so each needs a new entry, not an edit.
+
 ### 2026-09-24 — the evidence sync tools were half right, and a DOI with a `(` in it was half a DOI
 
 `sync_evidence_codes.py --apply` then `add_evidence_summary.py --apply` looked destructive on nine
@@ -1909,7 +1923,7 @@ Each folder's `index.md` is itself a reserved OKF filename: no frontmatter (exce
 
 Fields: `id` (source identifier — the ERIC/PMC/arXiv id from the automated pipeline, or `doi:<doi>` / a URL for manually-ingested articles), `title`, `doi` (nullable), `reviewed_at` (ISO date), `status` (`"ingested"` or `"rejected"`), and either `pages` (bundle-relative paths the source contributed to, for `"ingested"`) or `reason` (why it didn't contribute, for `"rejected"`).
 
-`"rejected"` entries also carry `reason_code`, one of a closed set in `okf_lib.REJECTION_CODES`: `out-of-scope`, `no-ingestable-content` and `already-covered` are verdicts about the source; `parse-error`, `validation-error` and `no-contributions-extracted` are failed runs that say nothing about it. The code is what makes rejections countable, and it is what discovery reads: `discover_articles.load_excluded_ids()` now skips every source the manifest has settled, which it did not before. It used to skip only the ten benchmark articles and the ids in `eval/corpus/processed_articles.json`, and that registry is not committed. So a discovery run on any other machine re-surfaced, and paid to re-extract, sources already ingested or rejected. A failed run stays eligible, so the registry's bounded retry still decides it. The 27 rejections written before 2026-09-24 have no code and are **not** being backfilled, because the file is append-only. They are treated as verdicts, except the three exact strings `ingest_extractions.py` wrote for its machine failures, which are recognised by that wording. `log_source_review.py` requires `--reason-code` with `--reason`, and prints any earlier entry for the same id or DOI before writing. A second review is still written, because a re-review is legitimate, but it has to be a choice. `lint.py` fails on a code outside the set.
+`"rejected"` entries also carry `reason_code`, one of a closed set in `okf_lib.REJECTION_CODES`: `opinion-piece`, `out-of-scope`, `no-ingestable-content` and `already-covered` are verdicts about the source, and map one-to-one onto the exclusions E1–E4 in `INCLUSION.md` (approved by the maintainer 2026-09-24). Every research paradigm is eligible there, and domain or setting is never a reason to exclude; `parse-error`, `validation-error` and `no-contributions-extracted` are failed runs that say nothing about it. The code is what makes rejections countable, and it is what discovery reads: `discover_articles.load_excluded_ids()` now skips every source the manifest has settled, which it did not before. It used to skip only the ten benchmark articles and the ids in `eval/corpus/processed_articles.json`, and that registry is not committed. So a discovery run on any other machine re-surfaced, and paid to re-extract, sources already ingested or rejected. A failed run stays eligible, so the registry's bounded retry still decides it. The 27 rejections written before 2026-09-24 have no code and are **not** being backfilled, because the file is append-only. They are treated as verdicts, except the three exact strings `ingest_extractions.py` wrote for its machine failures, which are recognised by that wording. `log_source_review.py` requires `--reason-code` with `--reason`, and prints any earlier entry for the same id or DOI before writing. A second review is still written, because a re-review is legitimate, but it has to be a choice. `lint.py` fails on a code outside the set.
 
 `"ingested"` entries also carry `citations`: `{checked, crossref_reachable, removed, flagged}` — what the citation gate found on the pages that source wrote. `removed` lists DOIs stripped because they resolved to the wrong paper; `flagged` lists findings left for a human (a DOI on two papers, invented journal metadata, an invented title). `crossref_reachable: false` means the network check could not run, so that line is an *unverified* ingest rather than a clean one — never read a bare `"ingested"` as "citations were checked".
 

@@ -10,6 +10,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-24
 
+* **Policy**: `INCLUSION.md` adopted: every paradigm in, logical evidence counts, design-process studies in, domain never excludes; opinion pieces rejected unless cited by five or more wiki pages, in which case ingested as q1 marked unsupported. New `opinion-piece` rejection code; prompt v130 (not live)
 * **Fix**: evidence sync tools — DOIs containing `(`/`)` are no longer truncated (`okf_lib.LINK_URL`), repairing 4 claim `resource:` values; `add_evidence_summary.py` keeps hand-written headers (10 kept); 10 claim source ids re-synced to their evidence anchors, as designed. Re-running both tools is now a no-op
 * **Ingest**: [claims/teaching-games-for-understanding-improves-tactical-decision-making](claims/teaching-games-for-understanding-improves-tactical-decision-making.md) — Guo, Yu & Malik (2026), *Frontiers in Psychology* 17, 1766890 (DOI resolved against Crossref), written from `observations/guo-2026.yaml`; linked from [elements/physical-education](elements/physical-education.md)
 * **Evidence edges**: `martinengo-2024` supports `spaced-practice-improves-retention`, `jemr-lexical-elaboration-2026` qualifies `elaborative-encoding-improves-retention`, `guo-2026` supports the new claim (anchored). Bearings confirmed by human:david. Every observation record is now cited by a claim
