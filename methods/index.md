@@ -2,7 +2,7 @@
 
 The practices a design process is made of — analysis, elicitation, mapping and evaluation work done on the design, not in the classroom.
 
-**16 entries** · 0 stable · 10 in review · 6 drafts
+**17 entries** · 0 stable · 10 in review · 7 drafts
 
 ---
 
@@ -25,5 +25,6 @@ The practices a design process is made of — analysis, elicitation, mapping and
 * [Family-Interview-Based Assessment Task Design](family-interview-based-assessment-task-design.md) - A design process for building formative assessment tasks that reveal disciplinary competence (e.g., computational thinking) embedded in a specific community's everyday practices, by interviewing families to surface funds of knowledge before designing the task.
 * [Learning Hierarchy Task Analysis](learning-hierarchy-task-analysis.md) - Task analysis identifies the prerequisite skills a target performance requires by repeatedly asking what a learner must already master, arranging the answers into a sequenced learning hierarchy from foundational to complex.
 * [Logic Model](logic-model.md) - A design method that lays out the chain from a programme's activities and outputs to the outcomes it is meant to produce, so that each link can be examined, and later tested, on its own.
+* [Selecting an Instructional Design Model](selecting-an-instructional-design-model.md) - Choosing, adapting or combining an instructional design model for a project. ADDIE is treated as the underlying process and each model as a context-specific instance of it, chosen by delivery format and by what the project must produce.
 * [Stakeholder Mapping](stakeholder-mapping.md) - A design method that enumerates the parties who participate in, govern, fund, or are affected by a learning activity, gives each a stable identity, and records only the relationships that change a design decision.
 * [Theory of Change](theory-of-change.md) - A design method that reasons backward from a desired long-term outcome to the preconditions it requires, making explicit both the links the design controls and the assumptions it depends on but does not.

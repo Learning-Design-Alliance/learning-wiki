@@ -18,6 +18,12 @@ produce learning more broadly: design thinking, agile and iterative design, inst
 models, design-based research, design methods, teachers, programme evaluation. This is confirmed by
 the maintainer.
 
+**Research methods papers are in only when they help design.** A paper about how to *study*
+learning is in when it contributes something a designer can use: a design process, a way of
+building or iterating an intervention, or an account of how an intervention was made.
+Design-based research qualifies, because it is a way of designing. A methods paper useful only to
+researchers is out under E2.
+
 **I2. It offers something that can be extracted.** That can be a finding, a reasoned argument, a
 model or framework, a design process or method, a described practice, or a synthesis of other work.
 
@@ -90,7 +96,8 @@ The manifest is append-only, so these stay as written. A re-review appends a new
 `log_source_review.py`, and discovery then treats the source as settled by that later entry.
 From the 27 rejections written before these criteria:
 
-**To re-review and include** (confirmed by the maintainer):
+**Re-reviewed and included on 2026-09-24** (confirmed by the maintainer). Each has a later
+`ingested` entry in the manifest:
 
 - *The Moral Dimensions of Instructional Design*: rejected as a "reflective/philosophical essay".
   Ethics is philosophy, and a claim resting on logical evidence is in (I3).
@@ -100,12 +107,14 @@ From the 27 rejections written before these criteria:
 - *The Development of Design-Based Research*: rejected as research methodology. It is about a
   design process (I1).
 
-**Candidates, still undecided:**
+**Still undecided:**
 - *A Survey of Educational Change Models*: rejected as organisational change. Adopting an
   innovation is learning by the adopters, and designers in organisations use these models.
-- *Visualization as theory and experience* and *Methodological challenges of research on
-  interdisciplinary learning*: borderline. They are methods for studying learning rather than for
-  designing it, and I1 can reasonably be read either way.
+
+**Rejections that stand under the methods-paper rule:** *Visualization as theory and experience*
+(tooling for analysing qualitative data) and *Methodological challenges of research on
+interdisciplinary learning* (standards for studying it). Both are methods for studying learning, and
+neither offers a way to design, build or iterate an intervention.
 
 The career, publishing, conference and networking rejections stand under E2. The IJSR position paper
 with no findings stands under E1.

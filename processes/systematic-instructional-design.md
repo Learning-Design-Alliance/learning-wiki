@@ -106,6 +106,7 @@ Steps 1–3 are ADDIE's *Analysis*; 4–6 its *Design*; 7 its *Development*; the
 - [Understanding by Design](understanding-by-design.md) — shares the objective-and-assessment-first commitment at unit grain; see [Backward Design](../methods/backward-design.md)
 - [4C/ID (Four-Component Instructional Design)](../patterns/4cid-four-component-instructional-design.md) — a systematic process that deliberately keeps the whole task intact
 - [Design Thinking](design-thinking.md) — the contrasting process where the goal is not yet known
+- [Selecting an Instructional Design Model](../methods/selecting-an-instructional-design-model.md) — choosing and adapting one of the many models built on this process
 
 ## Examples
 - **Military and industrial training design** — the setting the systems approach was developed in and where the full ten steps are still routinely run
@@ -115,3 +116,4 @@ Steps 1–3 are ADDIE's *Analysis*; 4–6 its *Design*; 7 its *Development*; the
 - Curry, Johnson, & Peacock. Ch. 23 in *Design for Learning*. EdTech Books. [https://edtechbooks.org/id/robert_gagn_and_systematic_design](https://edtechbooks.org/id/robert_gagn_and_systematic_design)
 - Dick, W., Carey, L., & Carey, J. O. (2015). *The systematic design of instruction* (8th ed.). Pearson.
 - Gagne, R. M. (1985). *The conditions of learning* (4th ed.). Holt, Rinehart and Winston.
+- Dousay, T. A. (2018). Instructional design models. In *Foundations of Learning and Instructional Design Technology* (1st ed., pp. 277–295). EdTech Books. https://edtechbooks.org/lidtfoundations/instructional_design_models

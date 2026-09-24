@@ -2,7 +2,7 @@
 
 How a course gets designed — whole-process models a designer works through, rather than anything a learner meets.
 
-**11 entries** · 0 stable · 7 in review · 4 drafts
+**12 entries** · 0 stable · 7 in review · 5 drafts
 
 ---
 
@@ -18,6 +18,7 @@ How a course gets designed — whole-process models a designer works through, ra
 
 ## Draft
 
+* [Design-Based Research](design-based-research.md) - A design process run as research. An intervention is designed and revised over repeated cycles in a real learning setting, in collaboration with practitioners, so that each cycle both improves the design and builds or tests theory about learning.
 * [Humanizing Co-Design with Educators](humanizing-co-design-with-educators.md) - A co-design facilitation structure that deliberately makes space for educators' affective and relational experience — through shared contemplative practice, ritualized check-ins, and reflective field-note protocols — treating emotion as a design resource rather than a distraction.
 * [Ten Steps to Complex Learning](ten-steps-to-complex-learning.md) - The task-centred design process that produces a 4C/ID blueprint — specify the professional tasks first, group them into task classes of equal complexity ordered simple to complex, then derive the supporting theory and part-task practice from the tasks rather than the other way round.
 * [Understanding by Design](understanding-by-design.md) - Wiggins and McTighe's backward design process plans a course or unit in three stages — identify desired results, determine acceptable evidence, then plan learning experiences — so that activities and assessments are derived from the learning goals rather than chosen first and justified afterward.

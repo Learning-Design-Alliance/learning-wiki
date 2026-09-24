@@ -36,6 +36,9 @@ The same five moves are also used *with learners* — students empathizing with 
 - **The empathy stage produces shallow insight without interview skill**, and shallow insight is more dangerous than none because it is documented
 - **Ritual risk**: teams pass through five labelled stages without any iteration, producing an engaging workshop and an unchanged design
 - **Costly at small grain.** For one lesson the full cycle rarely pays; the process assumes a design large enough that being wrong about the problem is expensive
+- **Early prototyping can lock novices in.** Asking for a tentative solution at once and testing it cheaply may worsen a novice designer's habit of committing to the first idea. [Rapid prototyping methods can amplify novice designers' tendency to commit to a solution too early.](../claims/rapid-prototyping-can-amplify-novice-designers-premature-commitment-to-solutions.md) [-W]
+- **Stakeholders tend to ask for incremental change.** Co-design with learners gives them ownership, but they rarely envision what they have not seen, so the designer has to help them be visionary (Svihla, 2018). A single intensive workshop also limits who can attend, and can end up treating one group's view as everyone's
+- **Power shapes what participants will say.** Learners brought into the design, especially children or people from marginalised communities, may not feel safe to be candid. See [Make the Invisible Visible: Power Dynamics](../methods/make-the-invisible-visible-power-dynamics.md)
 - **Divergent ideation is not a substitute for domain knowledge.** Novice designers generating options without knowing what is instructionally sound reproduce the search cost that [guidance becomes more necessary as task complexity and learner inexperience increase.](../claims/expertise-reversal-effect.md) [-S] describes, one level up
 
 #### Grain Size
@@ -68,6 +71,7 @@ The same five moves are also used *with learners* — students empathizing with 
 
 #### Contradicting
 - [Guidance becomes more necessary as task complexity and learner inexperience increase.](../claims/expertise-reversal-effect.md) [-S] — minimally guided design work overloads inexperienced designers the same way it overloads novice learners
+- [Rapid prototyping methods can amplify novice designers' tendency to commit to a solution too early.](../claims/rapid-prototyping-can-amplify-novice-designers-premature-commitment-to-solutions.md) [-W] — a risk of the prototype move specific to novice designers
 
 ## Design
 
@@ -98,6 +102,7 @@ The same five moves are also used *with learners* — students empathizing with 
 - [Learner Experience Design](learner-experience-design.md) — the closest sibling; LXD inherits design thinking's empathy and testing moves and adds usability method
 - [Continuous Improvement of Learning Materials](continuous-improvement-of-learning-materials.md) — what happens after a design ships, where design thinking's test move becomes permanent
 - [Understanding by Design](understanding-by-design.md) — an outcome-first process; see also [Backward Design](../methods/backward-design.md)
+- [Design-Based Research](design-based-research.md) — the same iterate-with-stakeholders stance, run as research that builds theory
 
 ## Examples
 - **Stanford d.school K12 Lab** (https://dschool.stanford.edu) — publishes design challenge curricula and the compressed "wallet project" sprint
@@ -106,4 +111,5 @@ The same five moves are also used *with learners* — students empathizing with 
 ## Key Sources
 - Dym, C. L., Agogino, A. M., Eris, O., Frey, D. D., & Leifer, L. J. (2005). Engineering design thinking, teaching, and learning. *Journal of Engineering Education, 94*(1), 103–120. [doi:10.1002/j.2168-9830.2005.tb00832.x](https://doi.org/10.1002/j.2168-9830.2005.tb00832.x)
 - Razzouk, R., & Shute, V. (2012). What is design thinking and why is it important? *Review of Educational Research, 82*(3), 330–348. [doi:10.3102/0034654312457429](https://doi.org/10.3102/0034654312457429)
+- Svihla, V. (2018). Design thinking and agile design: New trends or just good designs? In *Foundations of Learning and Instructional Design Technology* (1st ed., pp. 295–309). EdTech Books. https://edtechbooks.org/lidtfoundations/design_thinking_and_agile_design
 - Dorst, K. (2011). The core of 'design thinking' and its application. *Design Studies, 32*(6), 521–532. [doi:10.1016/j.destud.2011.07.006](https://doi.org/10.1016/j.destud.2011.07.006)

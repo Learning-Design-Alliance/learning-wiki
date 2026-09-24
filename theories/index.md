@@ -2,7 +2,7 @@
 
 Explanatory frameworks that ground principles and claims.
 
-**89 entries** · 0 stable · 12 in review · 77 drafts
+**90 entries** · 0 stable · 12 in review · 78 drafts
 
 ---
 
@@ -112,6 +112,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Materialized Action](materialized-action.md) - Learning emerges from the intra-action of a learner's body and a material's own properties (tension, spring-back, thickness) across nested levels of a made artifact — materials are treated as active co-constructors of understanding, not passive tools a learner's mental model is projected onto.
 * [Mechanistic Reasoning](mechanistic-reasoning.md) - Mechanistic reasoning explains a phenomenon by identifying the interacting entities, properties, and activities — organized in space and time — that cause it, in contrast to teleological (purpose-based) or circular (restating-the-effect) explanations.
 * [Metacognition](metacognition.md) - Metacognition is knowledge about one's own thinking and the ability to regulate cognitive strategies accordingly; it develops gradually across childhood, with distinct failure modes describing why a learner does or doesn't benefit from a strategy they could, in principle, use.
+* [Moral Dimensions of Instructional Design](moral-dimensions-of-instructional-design.md) - Osguthorpe and colleagues' argument that designing instruction is a moral endeavour, and their framework of five designer consciences (craft, membership, sacrifice, memory, imagination) developed through reflexive judgment.
 * [Multiple Intelligences Theory](multiple-intelligences-theory.md) - Howard Gardner's theory holds that intelligence is not a single general capacity but at least eight relatively independent abilities, with individuals typically strong in some and weak in others.
 
 #### O {: #letter-o }

@@ -2,7 +2,7 @@
 
 Empirical claims with evidence ratings, sources, and competing views.
 
-**429 entries** · 0 stable · 29 in review · 400 drafts
+**433 entries** · 0 stable · 29 in review · 404 drafts
 
 ---
 
@@ -117,6 +117,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [Decorative Illustrations Do Not Improve Learning](decorative-illustrations-do-not-improve-learning.md)
 * [Deliberate Practice Improves Performance](deliberate-practice-improves-performance.md)
+* [Design-based research asks one person to be researcher, designer, project manager and theorist, and those roles compete.](design-based-research-roles-compete-and-threaten-credible-claims.md) - A review of the design-based research literature finds that the roles a DBR researcher must hold at once pull against each other, putting research quality, theory fidelity and the credibility of findings at risk.
 * [Desirable Difficulties Enhance Learning](desirable-difficulties-enhance-learning.md)
 * [Desirable Difficulties Improve Retention](desirable-difficulties-improve-retention.md)
 * [Developing curricular design knowledge enables small-scale responsive adaptations within a structured curriculum](curricular-knowledge-enables-responsive-instructional-moves.md)
@@ -217,6 +218,8 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Incidental Word Learning While Reading Occurs But At Low Rates Per Exposure](incidental-word-learning-while-reading-occurs-but-at-low-rates-per-exposure.md)
 * [Increasing Wait Time Improves Response Quality](increasing-wait-time-improves-response-quality.md)
 * [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md)
+* [Instruction can harm learners in ways its performance data do not show.](instruction-has-unintended-moral-effects-that-performance-data-miss.md) - Osguthorpe and colleagues argue that design decisions have moral effects on learners, such as shame from a visible ability label, that outlast the instruction and that performance data do not capture, so designers need to reflect on them deliberately.
+* [Instructional design models are rarely tested against outcomes; their credibility comes from practitioners finding them useful.](instructional-design-models-are-validated-by-adoption-not-testing.md) - An account of the instructional design model literature holds that few design models have been rigorously evaluated against predetermined criteria, and that widely adopted models gain credibility from practitioner use and adaptation rather than from evidence of their results.
 * [Interdisciplinary humanities units improve students' interdisciplinary competences](interdisciplinary-humanities-units-improve-interdisciplinary-competences.md)
 * [Interesting but irrelevant details added to a lesson can distract from learning the material they were meant to enliven](seductive-details-distract-from-learning.md)
 * [Interesting but irrelevant details impair learning](seductive-details-effect.md)
@@ -358,6 +361,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### R {: #letter-r }
 
+* [Rapid prototyping methods can amplify novice designers' tendency to commit to a solution too early.](rapid-prototyping-can-amplify-novice-designers-premature-commitment-to-solutions.md) - Svihla argues that agile methods, which ask designers to reach a tentative solution at once and test it as a low-fidelity prototype, may worsen novices' habit of jumping to solutions, and that novices need scaffolds for agile and human-centred work rather than ADDIE alone.
 * [Reading Literary Fiction Improves Theory Of Mind](reading-literary-fiction-improves-theory-of-mind.md)
 * [Reading Strategy Instruction Improves Comprehension](reading-strategy-instruction-improves-comprehension.md)
 * [Reciprocal Teaching Improves Reading Comprehension](reciprocal-teaching-improves-reading-comprehension.md)

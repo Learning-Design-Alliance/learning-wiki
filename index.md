@@ -24,19 +24,19 @@ Reusable instructional designs at the lesson or unit level.
 ### [Strategies](strategies/index.md) (2548)
 Concrete teaching activity recipes — specific, implementable approaches.
 
-### [Design Processes](processes/index.md) (11)
+### [Design Processes](processes/index.md) (12)
 How a course gets designed — whole-process models a designer works through, rather than anything a learner meets.
 
-### [Design Methods](methods/index.md) (16)
+### [Design Methods](methods/index.md) (17)
 The practices a design process is made of — analysis, elicitation, mapping and evaluation work done on the design, not in the classroom.
 
-### [Theories](theories/index.md) (89)
+### [Theories](theories/index.md) (90)
 Explanatory frameworks that ground principles and claims.
 
 ### [Learner Variables](learner-variables/index.md) (12)
 Canonical learner characteristics claims report findings about — one page per variable, so the same concept does not fragment across differently-worded tags.
 
-### [Claims](claims/index.md) (429)
+### [Claims](claims/index.md) (433)
 Empirical claims with evidence ratings, sources, and competing views.
 
 ---
