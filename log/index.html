@@ -1063,6 +1063,7 @@
 <hr />
 <h2 id="2026-09-24">2026-09-24<a class="headerlink" href="#2026-09-24" title="Permanent link">&para;</a></h2>
 <ul>
+<li><strong>Tooling</strong>: <code>scripts/priority_worklist.py</code> — one ranked view of what to extract next (cited articles with no structured record, unread WWC/ESSA pages, and claims with no evidence), derived from committed state at run time so it stays current as people contribute; pushed branches mark rows in-flight</li>
 <li><strong>Citations</strong>: Crossref apply pass (<code>resolve_citation_metadata.py --apply</code>) — Rey (2012) title and Bertsch et al. (2007) issue/pages corrected to the registry. <strong>Roediger &amp; Karpicke (2006) carried the wrong DOI on 99 pages</strong>: <code>10.1111/medu.12141</code> is Larsen, Butler &amp; Roediger (2013), <em>Medical Education</em>. The tool was about to rewrite the correct <em>Psychological Science</em> 17(3) 249 into that paper's coordinates; it now reports this shape as <code>conflict</code> instead. The DOI was replaced with <code>10.1111/j.1467-9280.2006.01693.x</code>, resolved against Crossref (title, both authors, journal, volume, issue and pages match), which 9 pages already carried</li>
 <li><strong>Correction</strong>: <a href="../strategies/paired-reading/">strategies/paired-reading</a> — Removed a What Works Clearinghouse citation: the link pointed to WWC's I CAN Learn (maths) report, and WWC has no intervention report on Topping's Paired Reading, so the attached rating was unsupported</li>
 </ul>
