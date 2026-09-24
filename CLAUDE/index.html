@@ -1848,8 +1848,11 @@ work is done, not that the check is broken.</p>
 </li>
 <li>
 <p><strong>No LDA research is published in this wiki yet, and none may be drafted here.</strong>
-  <code>research/</code> holds synthetic scaffolding plus one real governance file
-  (<code>lazuli-platform-telemetry</code>, which forbids publication). A finding arrives only once
+  <code>research/</code> holds synthetic scaffolding only. The one real governance file,
+  <code>lazuli-platform-telemetry</code> (which forbids publication), <strong>moved on 2026-09-24</strong> to the
+  private repo's transplant tree, <code>Learning-engineering-research:research/wiki/research/
+  protocols/lazuli-platform-telemetry/1.0.0.yaml</code>, byte-for-byte; the mentions of it below
+  still describe it correctly, but it is not in this repo. A finding arrives only once
   it is public, by the route in <code>research/PUBLISHING.md</code>: a protocol permitting
   publication, a plan that predates the release, and a DOI <strong>reserved before the release
   file is frozen</strong> (<code>scripts/mint_release_doi.py --reserve</code>). Only a <code>human:</code> actor
@@ -2747,8 +2750,9 @@ resolution is a position held by somebody, not a verdict issued by a platform.</
 concerns later confirmed, two not supported" is a traversal of
 <code>author.id → reviews → issues → resolution</code>. That is why <code>reputation</code> is a refused
 field.</p>
-<p><strong>The first real protocol exists, and its central statement is a refusal.</strong>
-<code>research/protocols/lazuli-platform-telemetry/1.0.0.yaml</code> records the governance
+<p><strong>The first real protocol exists, and its central statement is a refusal.</strong> (It now lives in
+the private <code>Learning-engineering-research</code> repo, not here; see the settled items above.)
+<code>lazuli-platform-telemetry/1.0.0.yaml</code> records the governance
 of Lazuli platform learning telemetry as it stands: learners accepted terms of
 service, nobody asked them to consent to research use, so the data may build and
 validate the observation pipeline and may <strong>not</strong> be published as research —
@@ -2957,8 +2961,8 @@ now <code>unspecified</code>, which is a statement, where before there was no fi
 <div class="highlight"><pre><span></span><code>python3<span class="w"> </span>scripts/render_brany_protocol.py<span class="w"> </span>example-classroom-consented-study<span class="w"> </span><span class="se">\</span>
 <span class="w">    </span>--study<span class="w"> </span>example-retrieval-practice-classroom<span class="w"> </span>--coverage
 </code></pre></div>
-<p><strong>The one section that still reports <code>no-field</code> does so correctly</strong>: section 23 on
-<code>lazuli-platform-telemetry</code>, whose <code>risks.classification</code> is <code>not-determined</code>, so the rule
+<p><strong>The one section that still reported <code>no-field</code> did so correctly</strong>: section 23 on
+<code>lazuli-platform-telemetry</code> (now in the private repo), whose <code>risks.classification</code> is <code>not-determined</code>, so the rule
 that would make it inapplicable cannot fire. That is the record refusing to decide, not a
 missing field.</p>
 <p><code>--why</code> is the acceptance test run as a command: <em>why does the wiki believe claim X</em>,
