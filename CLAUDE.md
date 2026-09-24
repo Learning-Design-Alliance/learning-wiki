@@ -1797,6 +1797,8 @@ Each folder's `index.md` is itself a reserved OKF filename: no frontmatter (exce
 
 Fields: `id` (source identifier — the ERIC/PMC/arXiv id from the automated pipeline, or `doi:<doi>` / a URL for manually-ingested articles), `title`, `doi` (nullable), `reviewed_at` (ISO date), `status` (`"ingested"` or `"rejected"`), and either `pages` (bundle-relative paths the source contributed to, for `"ingested"`) or `reason` (why it didn't contribute, for `"rejected"`).
 
+`"rejected"` entries also carry `reason_code`, one of a closed set in `okf_lib.REJECTION_CODES`: `out-of-scope`, `no-ingestable-content` and `already-covered` are verdicts about the source; `parse-error`, `validation-error` and `no-contributions-extracted` are failed runs that say nothing about it. The code is what makes rejections countable, and it is what discovery reads: `discover_articles.load_excluded_ids()` now skips every source the manifest has settled, which it did not before. It used to skip only the ten benchmark articles and the ids in `eval/corpus/processed_articles.json`, and that registry is not committed. So a discovery run on any other machine re-surfaced, and paid to re-extract, sources already ingested or rejected. A failed run stays eligible, so the registry's bounded retry still decides it. The 27 rejections written before 2026-09-24 have no code and are **not** being backfilled, because the file is append-only. They are treated as verdicts, except the three exact strings `ingest_extractions.py` wrote for its machine failures, which are recognised by that wording. `log_source_review.py` requires `--reason-code` with `--reason`, and prints any earlier entry for the same id or DOI before writing. A second review is still written, because a re-review is legitimate, but it has to be a choice. `lint.py` fails on a code outside the set.
+
 `"ingested"` entries also carry `citations`: `{checked, crossref_reachable, removed, flagged}` — what the citation gate found on the pages that source wrote. `removed` lists DOIs stripped because they resolved to the wrong paper; `flagged` lists findings left for a human (a DOI on two papers, invented journal metadata, an invented title). `crossref_reachable: false` means the network check could not run, so that line is an *unverified* ingest rather than a clean one — never read a bare `"ingested"` as "citations were checked".
 
 **Always append via the helper, never hand-edit the file:**
@@ -1806,7 +1808,7 @@ python3 scripts/log_source_review.py --id "doi:10.1234/example" --title "Article
   --status ingested --pages claims/foo.md elements/bar.md
 
 python3 scripts/log_source_review.py --id "doi:10.1234/other" --title "Other Article" \
-  --status rejected --reason "not learning-science, out of scope"
+  --status rejected --reason-code out-of-scope --reason "not learning-science, out of scope"
 ```
 
 (`scripts/ingest_extractions.py`, the automated eval-pipeline ingest path, calls `okf_lib.append_manifest_entry()` directly instead of shelling out to this script — same effect.)

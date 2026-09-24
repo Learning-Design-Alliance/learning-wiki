@@ -494,6 +494,15 @@ def check_manifest_integrity(pages: dict[str, Path]) -> list[dict]:
         elif entry["status"] == "rejected" and not entry.get("reason"):
             issues.append({"file": rel, "type": "manifest_rejected_no_reason",
                             "detail": f"line {lineno} ({entry.get('id', '?')}): status=rejected but no reason"})
+        # reason_code is absent on entries written before it existed, and the
+        # manifest is append-only, so absence is legal. A code that IS present
+        # must be one of the closed set, or it counts as nothing and discovery
+        # cannot tell whether the source may be retried.
+        if "reason_code" in entry and entry["reason_code"] not in ok.REJECTION_CODES:
+            issues.append({"file": rel, "type": "manifest_bad_reason_code",
+                            "detail": f"line {lineno} ({entry.get('id', '?')}): "
+                                      f"reason_code={entry['reason_code']!r} is not one of "
+                                      f"{sorted(ok.REJECTION_CODES)}"})
     return issues
 
 
