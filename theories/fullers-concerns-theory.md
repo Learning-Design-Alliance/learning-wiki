@@ -42,6 +42,7 @@ Shulman (1992) identifies four types of knowledge important to this progression:
 - Progression from self- and task-focused concerns toward sustained, high-commitment concern for student impact
 
 ## Related Theories
+- [Ellsworth's Framework of Educational Change](ellsworth-framework-of-educational-change.md) — its Concerns-Based Adoption Model tracks the concerns of people adopting a change
 - [Educational Psychology as Both Art and Science](../principles/educational-psychology-as-art-and-science.md) — the practical/theoretical/empirical knowledge split Shulman describes is one way of cashing out the art-science relationship for teacher preparation specifically
 
 ## Examples

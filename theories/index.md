@@ -2,7 +2,7 @@
 
 Explanatory frameworks that ground principles and claims.
 
-**90 entries** · 0 stable · 12 in review · 78 drafts
+**91 entries** · 0 stable · 12 in review · 79 drafts
 
 ---
 
@@ -62,6 +62,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### E {: #letter-e }
 
 * [Ecological Paradigm of Interdisciplinary Learning](ecological-paradigm-of-interdisciplinary-learning.md) - A framework that studies and designs for interdisciplinary learning as a group-level, socio-material process distributed across learners, artifacts, and institutions, rather than as an individual cognitive-integration outcome.
+* [Ellsworth's Framework of Educational Change](ellsworth-framework-of-educational-change.md) - Ellsworth's organisation of the classic educational change models around a communication model, in which a change agent communicates an innovation to an intended adopter through a change process, across an environment that contains resistance.
 * [Epistemic Commitments](epistemic-commitments.md) - Dynamic, student-originated values (not disciplinary ideals imposed from outside) that shape which models students build, use, and trust — functioning as forward-looking impulses for further inquiry, not just backward-looking criteria for judging a finished model.
 * [Epistemic Games](epistemic-games.md) - A framework describing knowledge construction as playing generative, rule-like "games" — recognizable sets of moves, constraints, and strategies organized around building a particular kind of knowledge — which can be enacted individually or collaboratively.
 * [Epistemic Injustice](epistemic-injustice.md) - Epistemic injustice describes wrongs done to people specifically in their capacity as knowers — through testimonial injustice (unwarranted credibility discounting) or hermeneutical injustice (a gap in shared interpretive resources) — and reframes marginalized people's lived experience as a legitimate epistemic resource rather than a deficit.

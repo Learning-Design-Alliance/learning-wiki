@@ -106,10 +106,9 @@ From the 27 rejections written before these criteria:
   for them.
 - *The Development of Design-Based Research*: rejected as research methodology. It is about a
   design process (I1).
-
-**Still undecided:**
 - *A Survey of Educational Change Models*: rejected as organisational change. Adopting an
-  innovation is learning by the adopters, and designers in organisations use these models.
+  innovation is learning by the adopters, and designers need these models to get a design taken up
+  (I1). Included on the maintainer's decision.
 
 **Rejections that stand under the methods-paper rule:** *Visualization as theory and experience*
 (tooling for analysing qualitative data) and *Methodological challenges of research on
