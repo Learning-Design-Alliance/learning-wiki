@@ -58,7 +58,14 @@ from pathlib import Path
 import requests
 
 from . import compliance, pmc_aws
-from .. import okf_lib
+try:
+    from .. import okf_lib
+except ImportError:
+    # ingest_extractions.py imports this module as `eval.discover_articles`,
+    # with scripts/ itself on sys.path, and from there `..` has nowhere to go.
+    # A bare `from .. import` shipped in #88 and broke ingest on import; both
+    # spellings must keep working, because both are in use.
+    import okf_lib
 
 WIKI_ROOT = Path(__file__).parent.parent.parent
 EVAL_ROOT = WIKI_ROOT / "eval"

@@ -70,6 +70,19 @@ class ValidationReport:
         return not self.parse_error and self.error_count == 0 and self.n_contributions > 0
 
 
+def _impact_ok(value) -> bool:
+    """An impact code is 0-3, or None when the article prints no effect size.
+
+    None is not "missing": the key must still be present, and ingest renders it
+    as `i?` (someone looked and the source does not say). Reading an
+    unreported effect size as 0 would drag every pooled estimate toward
+    nothing, which is why 0 is kept for a printed negligible effect. bool is
+    excluded because isinstance(True, int) is true."""
+    if value is None:
+        return True
+    return isinstance(value, int) and not isinstance(value, bool) and 0 <= value <= 3
+
+
 def _is_placeholder(text) -> bool:
     if not isinstance(text, str) or not text.strip():
         return True
@@ -309,8 +322,9 @@ def _validate_claim(c: _Checker, contrib: dict, known_slugs: set) -> None:
             c.check_consistency(f"evidence[{j}].citation", ev.get("citation"))
             c.check(isinstance(ev.get("quality"), int) and 1 <= ev["quality"] <= 4,
                     f"evidence[{j}].quality", "quality must be an integer 1-4.")
-            c.check(isinstance(ev.get("impact"), int) and 0 <= ev["impact"] <= 3,
-                    f"evidence[{j}].impact", "impact must be an integer 0-3.")
+            c.check("impact" in ev and _impact_ok(ev["impact"]),
+                    f"evidence[{j}].impact",
+                    "impact must be an integer 0-3, or null when the article prints no effect size.")
             c.check(isinstance(ev.get("description"), str) and len(ev["description"]) >= 40,
                     f"evidence[{j}].description", "description should be a substantive 2-4 sentence summary.",
                     severity="warning")
@@ -323,7 +337,8 @@ def _validate_claim(c: _Checker, contrib: dict, known_slugs: set) -> None:
                 c.error(f"subclaims[{j}]", "subclaim is not an object.")
                 continue
             c.check(isinstance(sc.get("q"), int) and 1 <= sc["q"] <= 4, f"subclaims[{j}].q", "q must be an integer 1-4.")
-            c.check(isinstance(sc.get("i"), int) and 0 <= sc["i"] <= 3, f"subclaims[{j}].i", "i must be an integer 0-3.")
+            c.check("i" in sc and _impact_ok(sc["i"]), f"subclaims[{j}].i",
+                    "i must be an integer 0-3, or null when the article prints no effect size.")
             c.check(not _is_placeholder(sc.get("text")), f"subclaims[{j}].text", "subclaim text is missing or a placeholder.")
             ref = sc.get("evidence_ref")
             ok = bool(ref) and (not evidence_anchors or ref in evidence_anchors)

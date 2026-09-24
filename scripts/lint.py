@@ -781,8 +781,24 @@ def check_research(pages: dict[str, Path]) -> list[dict]:
             for issue in rl.validate_all()]
 
 
+def check_embargo(pages: dict[str, Path]) -> list[dict]:
+    """Any tracked file carrying the embargo marker (see check_embargo.py).
+
+    The backstop, not the guard: this repo is public, so by the time CI runs
+    on a push the push is already visible. The guard runs before the push, as
+    a Claude Code PreToolUse hook and an opt-in git pre-push hook. This check
+    exists so a leak that got past both still fails loudly instead of sitting
+    in the tree."""
+    import check_embargo as ce
+    return [{"type": "embargo_marker", "file": rel,
+             "detail": "carries the embargo marker; embargoed research belongs in the private "
+                       "Learning-engineering-research repo until the embargo lifts"}
+            for rel in ce.scan_tracked()]
+
+
 CHECKS = {
     "broken_links":  check_broken_links,
+    "embargo":       check_embargo,
     "dead_anchors":  check_dead_anchors,
     "merge_markers": check_merge_markers,
     "drafts":        check_draft_no_description,
