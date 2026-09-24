@@ -21,6 +21,7 @@ arm() {  # run-id, then eval_harness run args
 mkdir -p eval/runs
 
 arm pxt-glm-v99     --models z-ai/glm-5.3-flash        --prompt-version v99 &
+arm pxt-glm-v124    --models z-ai/glm-5.3-flash        --prompt-version v124 &
 arm pxt-glm-v130    --models z-ai/glm-5.3-flash        --prompt-version v130 --max-tokens 16000 &
 arm pxt-opus55-v130 --models anthropic/claude-opus-5.5 --prompt-version v130 --max-tokens 32000 &
 wait

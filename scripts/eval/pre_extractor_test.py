@@ -5,6 +5,10 @@ extraction move into a Claude Code session?
 Four arms read the same 19 articles (eval/pre-extractor-test/manifest.json):
 
   glm-v99     z-ai/glm-5.3-flash on CURRENT (v99): the droplet as it runs today
+  glm-v124    the same model on v124, the GLM-tuned prompt with the best pass
+              rate on the droplet (8/10 in glm-v124-test.log). Added after v99
+              passed 2 of 17 here, which its own changelog entry predicts; it
+              is the fair "droplet at its best" arm
   glm-v130    the same model on v130: the droplet with the new criteria, untuned
   opus-v130   anthropic/claude-opus-5.5 on v130, headless, one call, no tools
   agent       a Claude Code subagent (Opus 5.5) on v130 with tools
@@ -49,6 +53,7 @@ RUNS_DIR = WIKI_ROOT / "eval" / "runs"
 
 ARMS = [
     ("glm-v99", "pxt-glm-v99", "z-ai/glm-5.3-flash"),
+    ("glm-v124", "pxt-glm-v124", "z-ai/glm-5.3-flash"),
     ("glm-v130", "pxt-glm-v130", "z-ai/glm-5.3-flash"),
     ("opus-v130", "pxt-opus55-v130", "anthropic/claude-opus-5.5"),
     ("agent", "pxt-agent-opus55", "claude-code-agent/opus-5.5"),
@@ -157,6 +162,8 @@ def score_arm(label, run_id, model, articles, texts) -> dict:
                 "has_study_record": bool(p.get("study_record")),
                 "rejected": (p.get("inclusion") or {}).get("verdict") == "reject",
                 "judge": _judge_mean(r),
+                "judge_gpt": ((r.get("judges") or {}).get("gpt") or {}).get("average_score"),
+                "judge_gemini": ((r.get("judges") or {}).get("gemini") or {}).get("average_score"),
                 "judge_fails": _judge_fails(r),
                 "quotes": n_q, "bad_quotes": bad_q,
                 "dois": doi_audit(p, a["title"], texts[a["id"]]) if p else {},
@@ -187,6 +194,8 @@ def summarise(arm: dict, subset: str) -> dict:
         "completeness": statistics.mean(r.get("completeness") or 0 for r in rows),
         "judge": statistics.mean(judged) if judged else None,
         "judged": len(judged),
+        "judge_gpt": statistics.mean(x) if (x := [r["judge_gpt"] for r in rows if r.get("judge_gpt") is not None]) else None,
+        "judge_gemini": statistics.mean(x) if (x := [r["judge_gemini"] for r in rows if r.get("judge_gemini") is not None]) else None,
         "judge_fails": sum(r.get("judge_fails", 0) for r in rows),
         "contrib": statistics.mean(r.get("n_contrib", 0) for r in rows),
         "study_records": sum(1 for r in rows if r.get("has_study_record")),
@@ -254,7 +263,7 @@ def main() -> None:
 
     for subset in ("holdout", "benchmark", "all-included"):
         out += [f"## {subset}", "",
-                "| arm | n | gen err | validator pass | completeness | judge (GPT+Gemini) | judge fails | contribs/article | study_record | quotes not in article | DOIs verified / wrong / 404 / lookup failed | $/article | median s/article |",
+                "| arm | n | gen err | validator pass | completeness | judge mean (GPT / Gemini) | judge fails | contribs/article | study_record | quotes not in article | DOIs verified / wrong / 404 / lookup failed | $/article | median s/article |",
                 "|---|---|---|---|---|---|---|---|---|---|---|---|---|"]
         for arm in arms:
             s = summarise(arm, subset)
@@ -269,7 +278,7 @@ def main() -> None:
                     else f"${s['cost_per_article']:.4f}")
             d = s["doi"]
             out.append(f"| {arm['label']} | {s['n']} | {s['gen_errors']} | {s['pass_rate']:.0%} | {s['completeness']:.2f} | "
-                       f"{_f(s['judge'])} ({s['judged']}) | {s['judge_fails']} | {s['contrib']:.1f} | {s['study_records']}/{s['n']} | "
+                       f"{_f(s['judge'])} ({_f(s['judge_gpt'])} / {_f(s['judge_gemini'])}) | {s['judge_fails']} | {s['contrib']:.1f} | {s['study_records']}/{s['n']} | "
                        f"{s['bad_quotes']}/{s['quotes']} ({s['bad_quote_rate']:.0%}) | "
                        f"{d['verified']} / {d['wrong_paper']} / {d['not_found']} / {d['error']} | {cost} | {_f(s['latency'], '{:.0f}')} |")
         out.append("")

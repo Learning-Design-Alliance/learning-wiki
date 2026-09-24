@@ -59,6 +59,8 @@ sys.path.insert(0, str(Path(__file__).parent.parent))  # for scripts.eval (openr
 # ── Paths ─────────────────────────────────────────────────────────────────────
 
 WIKI_ROOT   = Path(__file__).parent.parent
+# A leading YAML frontmatter block, so a body-only search can skip it.
+FRONTMATTER_BODY_RE = re.compile(r"\A---\n.*?\n---\n", re.DOTALL)
 BRIEFS_ROOT = Path.home() / "research_briefs"
 BATCHES_DIR = Path(__file__).parent / "batches"
 TODAY       = date.today().isoformat()
@@ -437,8 +439,14 @@ def verify_page_citations(path: Path, apply: bool = True) -> list[dict]:
         if not doi:
             continue
         year = entry["key"].rsplit("-", 1)[-1]
+        # Search the BODY only. The frontmatter's `resource:` line carries the
+        # DOI and no title, so matching it first compared the registry title
+        # against an empty string and reported every DOI on the page as
+        # wrong_paper (seen on the first in-session ingest, 2026-09-24: five
+        # correct, article-printed DOIs across ~110 citations).
+        body = FRONTMATTER_BODY_RE.sub("", text, count=1)
         located = None
-        for line in text.split("\n"):
+        for line in body.split("\n"):
             if doi.lower() in line.lower():
                 located = line
                 break

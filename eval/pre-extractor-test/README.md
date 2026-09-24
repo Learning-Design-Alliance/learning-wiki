@@ -9,6 +9,7 @@ Claude Code session, where Opus subagents run in parallel with tools?
 | arm | what | run id |
 |---|---|---|
 | `glm-v99` | GLM 5.3 Flash on CURRENT: the droplet as it runs today | `pxt-glm-v99` |
+| `glm-v124` | the same model on v124, the GLM-tuned prompt with the best pass rate (8/10 on the droplet) | `pxt-glm-v124` |
 | `glm-v130` | the same model on v130: new criteria, not yet tuned | `pxt-glm-v130` |
 | `opus-v130` | Opus 5.5 via OpenRouter, one call, no tools | `pxt-opus55-v130` |
 | `agent` | a Claude Code subagent (Opus 5.5) on v130, with the whole article, Crossref, the wiki and a quote self-check | `pxt-agent-opus55` |
@@ -50,29 +51,36 @@ python3 -m scripts.eval.pre_extractor_test     # -> REPORT.md
 Per-article records land in `eval/runs/pxt-*`, which is gitignored like every other run.
 `REPORT.md` is committed.
 
-## First run, 2026-09-24
+## Result, 2026-09-24
 
-**Only the agent arm ran.** The container's OpenRouter key has no credit, so every GLM and
-headless-Opus call returned HTTP 402, and so did the Gemini judge. Every agent row is
-therefore scored by the GPT judge alone. `run_headless.sh` completes the test once the key
-has credit, and then the report's decision rule can answer the GLM question.
+All five arms ran; the numbers are in `REPORT.md`. On the holdout:
 
-What the agent arm did, in brief (details in `REPORT.md`):
+| arm | validator pass | GPT judge | quotes not in article | study_record | rejected the probes | $/article |
+|---|---|---|---|---|---|---|
+| glm-v99 | 12% | 2.41 | 18% | 0/8 | no | $0.002 |
+| **glm-v124** | **88%** | **4.19** | **3%** | **0/8** | **no (7 contributions each)** | **$0.003** |
+| glm-v130 | 0% | 2.84 | 80% | 0/8 | no | $0.002 |
+| opus-v130 | 62% | 4.41 | 3% | 4/8 | no (12–13 each) | $0.34 |
+| agent | 100% | 4.22 | 0% | 4/8 | **yes** | $0.46–0.98 |
 
-- **17 of 17 included articles passed the validator.** The GPT judge averaged 4.22 on the
-  holdout and 4.17 on the benchmark.
-- **0 of 343 quotes were missing from their article.** A one-word, one-letter or one-digit
-  change to a quote fails this check.
-- **Every DOI verified against Crossref**, and no citation carried a DOI that resolves to
-  another paper.
-- **Both biomedical probes were rejected** as E2. The smoking-cessation one is borderline:
-  `INCLUSION.md` counts clinical settings as in scope, and the agent said so.
-- **Four manifest errors were corrected from the article itself.** Three were wrong years
-  (ej1327865, ej1276025, ed599273) and one was a wrong author list (arxiv-1602.07032).
-- **Cost:** 137k–242k tokens per article, about $0.46–1.03 at API list price. All 19 ran in
-  parallel in about 9 minutes. The slowest article took 8.5 minutes.
+**The rule's answer: glm-v124, opus-v130 and agent tie on quality, and glm-v124 is by far
+the cheapest.** The 10%-pass failures belong to the v99 lineage, not to GLM. v99 is what
+CURRENT points to (the ratchet ranks by judge score), and v130 was built on it through
+v128/v129. So v130's collapse says nothing about whether GLM can follow the new criteria.
 
-**Operational fault to fix before a long run:** parallel agents shared the session
-scratchpad, so their helper scripts (`build.py`, `gen.py`) collided and one agent reran
-another's script. No output was corrupted, because every output was checked afterwards. A
-production run should give each agent its own working folder (`TASK.md` should say so).
+**What v124 lacks is the new contract, not the quality**: no `study_record`, no way to
+reject a source, and the pre-INCLUSION.md claim floor. So "update the droplet" means porting
+v128–v130's three changes (the null `i`, the study record, the inclusion rules) onto v124
+rather than onto v99, then rerunning this test. That is a ~$0.10 experiment.
+
+Caveats: the Gemini judge scored nearly everything 5.0, so it barely separates the arms;
+read the GPT column. The judges see at most 60k characters of each article. Eight holdout
+articles is a small sample.
+
+**Operational notes from the agent arm.** The parallel agents shared one scratchpad, so
+their helper scripts collided; `TASK.md` now gives each agent its own folder. And the
+first ingest of the agents' output found three pipeline bugs, all now fixed:
+`enrich.verify_page_citations` matched the frontmatter `resource:` line (no title) and
+recorded 168 correct DOIs as `wrong_paper`; `ingest_extractions` linked cross-type
+siblings into the wrong folder (105 broken links); and it recorded an extractor's own
+E2 rejection as the failed-run code `no-contributions-extracted`.

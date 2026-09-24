@@ -26,30 +26,33 @@ Written before any result was read.
 
 ## holdout
 
-| arm | n | gen err | validator pass | completeness | judge (GPT+Gemini) | judge fails | contribs/article | study_record | quotes not in article | DOIs verified / wrong / 404 / lookup failed | $/article | median s/article |
+| arm | n | gen err | validator pass | completeness | judge mean (GPT / Gemini) | judge fails | contribs/article | study_record | quotes not in article | DOIs verified / wrong / 404 / lookup failed | $/article | median s/article |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| glm-v99 | 8 | 8 | not run: every generation failed (see the records' generation.error) | | | | | | | | | |
-| glm-v130 | 8 | 8 | not run: every generation failed (see the records' generation.error) | | | | | | | | | |
-| opus-v130 | 8 | 8 | not run: every generation failed (see the records' generation.error) | | | | | | | | | |
-| agent | 8 | 0 | 100% | 1.00 | 4.22 (8) | 1 | 9.9 | 4/8 | 0/94 (0%) | 1 / 0 / 0 / 0 | $0.458–0.982 | 156 |
+| glm-v99 | 8 | 0 | 12% | 0.38 | 3.25 (2.41 / 4.09) | 10 | 4.6 | 0/8 | 2/11 (18%) | 0 / 0 / 0 / 0 | $0.0019 | 42 |
+| glm-v124 | 8 | 0 | 88% | 1.00 | 4.59 (4.19 / 5.00) | 1 | 7.1 | 0/8 | 1/32 (3%) | 1 / 0 / 0 / 0 | $0.0031 | 189 |
+| glm-v130 | 8 | 0 | 0% | 0.30 | 3.78 (2.84 / 4.72) | 9 | 3.4 | 0/8 | 4/5 (80%) | 0 / 0 / 0 / 0 | $0.0019 | 46 |
+| opus-v130 | 8 | 0 | 62% | 0.96 | 4.70 (4.41 / 5.00) | 0 | 9.1 | 4/8 | 2/67 (3%) | 1 / 0 / 0 / 0 | $0.3406 | 103 |
+| agent | 8 | 0 | 100% | 1.00 | 4.61 (4.22 / 5.00) | 1 | 9.9 | 4/8 | 0/94 (0%) | 1 / 0 / 0 / 0 | $0.458–0.982 | 156 |
 
 ## benchmark
 
-| arm | n | gen err | validator pass | completeness | judge (GPT+Gemini) | judge fails | contribs/article | study_record | quotes not in article | DOIs verified / wrong / 404 / lookup failed | $/article | median s/article |
+| arm | n | gen err | validator pass | completeness | judge mean (GPT / Gemini) | judge fails | contribs/article | study_record | quotes not in article | DOIs verified / wrong / 404 / lookup failed | $/article | median s/article |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| glm-v99 | 9 | 9 | not run: every generation failed (see the records' generation.error) | | | | | | | | | |
-| glm-v130 | 9 | 9 | not run: every generation failed (see the records' generation.error) | | | | | | | | | |
-| opus-v130 | 9 | 9 | not run: every generation failed (see the records' generation.error) | | | | | | | | | |
-| agent | 9 | 0 | 100% | 1.00 | 4.17 (9) | 0 | 17.6 | 7/9 | 0/249 (0%) | 6 / 0 / 0 / 0 | $0.468–1.076 | 216 |
+| glm-v99 | 9 | 0 | 11% | 0.25 | 2.65 (2.70 / 2.60) | 7 | 2.6 | 0/9 | 0/11 (0%) | 1 / 0 / 0 / 0 | $0.0041 | 51 |
+| glm-v124 | 9 | 0 | 100% | 1.00 | 4.65 (4.31 / 5.00) | 0 | 8.7 | 0/9 | 1/69 (1%) | 5 / 0 / 0 / 0 | $0.0043 | 203 |
+| glm-v130 | 9 | 0 | 11% | 0.20 | 2.35 (2.38 / 2.33) | 9 | 2.2 | 1/9 | 1/12 (8%) | 1 / 0 / 0 / 0 | $0.0053 | 34 |
+| opus-v130 | 9 | 0 | 89% | 0.99 | 4.60 (4.19 / 5.00) | 1 | 12.7 | 6/9 | 0/135 (0%) | 6 / 0 / 0 / 0 | $0.5145 | 184 |
+| agent | 9 | 0 | 100% | 1.00 | 4.58 (4.17 / 5.00) | 0 | 17.6 | 7/9 | 0/249 (0%) | 6 / 0 / 0 / 0 | $0.468–1.076 | 216 |
 
 ## all-included
 
-| arm | n | gen err | validator pass | completeness | judge (GPT+Gemini) | judge fails | contribs/article | study_record | quotes not in article | DOIs verified / wrong / 404 / lookup failed | $/article | median s/article |
+| arm | n | gen err | validator pass | completeness | judge mean (GPT / Gemini) | judge fails | contribs/article | study_record | quotes not in article | DOIs verified / wrong / 404 / lookup failed | $/article | median s/article |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| glm-v99 | 17 | 17 | not run: every generation failed (see the records' generation.error) | | | | | | | | | |
-| glm-v130 | 17 | 17 | not run: every generation failed (see the records' generation.error) | | | | | | | | | |
-| opus-v130 | 17 | 17 | not run: every generation failed (see the records' generation.error) | | | | | | | | | |
-| agent | 17 | 0 | 100% | 1.00 | 4.19 (17) | 1 | 13.9 | 11/17 | 0/343 (0%) | 7 / 0 / 0 / 0 | $0.463–1.032 | 202 |
+| glm-v99 | 17 | 0 | 12% | 0.31 | 3.02 (2.52 / 3.52) | 17 | 3.5 | 0/17 | 2/22 (9%) | 1 / 0 / 0 / 0 | $0.0031 | 43 |
+| glm-v124 | 17 | 0 | 94% | 1.00 | 4.62 (4.25 / 5.00) | 1 | 7.9 | 0/17 | 2/101 (2%) | 6 / 0 / 0 / 0 | $0.0037 | 203 |
+| glm-v130 | 17 | 0 | 6% | 0.25 | 3.17 (2.64 / 3.70) | 18 | 2.8 | 1/17 | 5/17 (29%) | 1 / 0 / 0 / 0 | $0.0037 | 45 |
+| opus-v130 | 17 | 0 | 76% | 0.98 | 4.65 (4.29 / 5.00) | 1 | 11.0 | 10/17 | 2/202 (1%) | 7 / 0 / 0 / 0 | $0.4327 | 135 |
+| agent | 17 | 0 | 100% | 1.00 | 4.60 (4.19 / 5.00) | 1 | 13.9 | 11/17 | 0/343 (0%) | 7 / 0 / 0 / 0 | $0.463–1.032 | 202 |
 
 ## Reject probes
 
@@ -57,10 +60,12 @@ Written before any result was read.
 |---|---|---|---|
 | glm-v99 | pmc-13600694 | 0 | False |
 | glm-v99 | pmc-13600660 | 0 | False |
+| glm-v124 | pmc-13600694 | 7 | False |
+| glm-v124 | pmc-13600660 | 7 | False |
 | glm-v130 | pmc-13600694 | 0 | False |
 | glm-v130 | pmc-13600660 | 0 | False |
-| opus-v130 | pmc-13600694 | 0 | False |
-| opus-v130 | pmc-13600660 | 0 | False |
+| opus-v130 | pmc-13600694 | 13 | False |
+| opus-v130 | pmc-13600660 | 12 | False |
 | agent | pmc-13600694 | 0 | True |
 | agent | pmc-13600660 | 0 | True |
 
@@ -70,18 +75,35 @@ From the all-included rows. Agent cost is a bracket (all context a cache read, v
 
 | arm | $ per 1,000 | batch wall-clock (this test) |
 |---|---|---|
+| glm-v99 | $3.08 | 8 min |
+| glm-v124 | $3.71 | 18 min |
+| glm-v130 | $3.68 | 16 min |
+| opus-v130 | $432.71 | 14 min |
 | agent | $463–1,032 | 9 min |
 
 ## What the rule says (holdout)
 
-- Highest judge score among clean arms: **agent** (4.22). Tied within 0.25: agent.
-- Cheapest of the tied arms: **agent**.
-- glm-v130 has no scored output, so the rule cannot yet say whether updating the droplet is worth it.
+- **glm-v99** is not clean: 2/11 quotes not in the article, 0 DOI(s) resolving to another paper.
+- **glm-v130** is not clean: 4/5 quotes not in the article, 0 DOI(s) resolving to another paper.
+- Highest judge score among clean arms: **opus-v130** (4.70). Tied within 0.25: glm-v124, opus-v130, agent.
+- Cheapest of the tied arms: **glm-v124**.
+- glm-v130 is **not** in the tied set: updating the droplet means closing a 0.92-point gap by prompt tuning, and it also fails the cleanliness gate.
 
 ## Quotes not found in the article
 
 Every quote the substring check failed, so a reader can see whether it is a fabrication or a PDF-extraction artefact (ligatures, broken hyphenation) before trusting the column.
 
+- **glm-v99** `eric-ed367146`: Specifically, teachers in the Tucson project chose two or three students each at their own discretion. They then conducted three two-hour interviews with each student and [family].
+- **glm-v99** `eric-ed367146`: Yet, in spite of the strain of the tasks, the teachers reported it was a worthwhile process, since they were able to gain insights that might have otherwise [been unavailable].
+- **glm-v124** `arxiv-1602.07032`: We observe that a sharp phase transition indeed occurs as the arrival rate is increased: throughput initially increases linearly with arrival rate, then sharply decreases.
+- **glm-v124** `eric-ed608853`: it is observed that teachers working in high schools have higher beliefs in education philosophy with the Perennialism dimension compared to the teachers working in secondary schools
+- **glm-v130** `arxiv-1602.07032`: We observe that a sharp phase transition indeed occurs as the arrival rate is increased: throughput initially increases linearly with arrival rate, then sharply decreases.
+- **glm-v130** `eric-ed409895`: The ARCS Model of Motivational Design is a well-known and widely applied model of [motivational design]... Simple, yet powerful, the ARCS Model is rooted in a number of motivational theories and concepts, (see Keller, 19
+- **glm-v130** `eric-ed409895`: ARCS provides a useful framework for both the design and improvement of the motivational quality of a range of informational [materials]... that these entities will be used and enjoyed.
+- **glm-v130** `eric-ed409895`: Keller and Keller (1989) developed the Motivational Delivery Checklist, a 47-item [instrument for] classroom delivery... Still in development and testing, WebMAC identifies 60 items that are categorized.
+- **glm-v130** `eric-ed409895`: Keller (1987) breaks each of the four ARCS components down into three strategy [subcategories]... --Motive Matching: match objectives to student needs and motives... --Familiarity: present content in ways that are unders
+- **opus-v130** `eric-ed367146`: As a result of these home visits, teachers begin to view culture as a dynamic process rather than a static end state.
+- **opus-v130** `eric-ed367146`: As a result of these home visits, teachers begin to view culture as a dynamic process rather than a static end state.
 
 ## DOIs that did not verify
 

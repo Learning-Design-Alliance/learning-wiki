@@ -637,6 +637,51 @@ def gate_citations(pages: list) -> dict:
             "removed": removed, "flagged": flagged}
 
 
+_MD_LINK_RE = re.compile(r"\[([^\]]*)\]\(((?:\.\./[\w-]+/)?[^)\s#/]+\.md)(#[^)]*)?\)")
+
+
+def repair_cross_folder_links(paths: list) -> dict:
+    """Re-point links whose target is not where the renderer assumed.
+
+    A contribution's `related` list names sibling slugs without a type, and
+    _render_other links each one into the linking page's own folder. A
+    sibling of another type (a principle naming its theory) then lands as a
+    broken link: 105 of them on the first in-session ingest (2026-09-24).
+    The render step cannot resolve this, because a sibling may be written
+    later in the same run, so this runs once every page exists.
+
+    A slug found in exactly one content folder is re-pointed there. A slug
+    in several is ambiguous, so the link is dropped and its text kept:
+    picking one of several same-named pages is a guess."""
+    where = {}
+    for f in ok.CONTENT_FOLDERS:
+        for q in (WIKI_ROOT / f).glob("*.md"):
+            where.setdefault(q.stem, []).append(f)
+    stats = {"repointed": 0, "unlinked": 0}
+    for path in paths:
+        path = WIKI_ROOT / path
+        folder = path.parent.name
+        text = path.read_text(encoding="utf-8")
+
+        def fix(m):
+            label, dest, frag = m.group(1), m.group(2), m.group(3) or ""
+            if (path.parent / dest).resolve().exists():
+                return m.group(0)
+            slug = Path(dest).stem
+            locs = where.get(slug, [])
+            if len(locs) == 1:
+                stats["repointed"] += 1
+                prefix = "" if locs[0] == folder else f"../{locs[0]}/"
+                return f"[{label}]({prefix}{slug}.md{frag})"
+            stats["unlinked"] += 1
+            return label
+
+        out = _MD_LINK_RE.sub(fix, text)
+        if out != text:
+            path.write_text(out, encoding="utf-8")
+    return stats
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--run-id", required=True, help="eval/runs/<run-id> to ingest from")
@@ -675,8 +720,21 @@ def main() -> None:
                   f"({validation.get('error_count', '?')} error(s)) — not ingesting any of "
                   f"this article's contributions", file=sys.stderr)
             reason = None
+            # An extraction may carry the extractor's own inclusion verdict
+            # (scripts/eval/agent_arm.py's contract). A reject with a verdict
+            # code from INCLUSION.md (E1-E4) is a finding about the SOURCE,
+            # so it is recorded as that code. Recording it as
+            # no-contributions-extracted would mark a settled source as a
+            # failed run, and discovery would keep re-surfacing it.
+            inclusion = (record.get("parsed") or {}).get("inclusion") or {}
+            verdict_code = inclusion.get("reason_code")
+            is_verdict = (inclusion.get("verdict") == "reject" and verdict_code in ok.REJECTION_CODES
+                          and not ok.REJECTION_CODES[verdict_code][0])
             if not args.dry_run:
-                if validation.get("parse_error"):
+                if is_verdict:
+                    reason = inclusion.get("reason") or ok.REJECTION_CODES[verdict_code][1]
+                    reason_code = verdict_code
+                elif validation.get("parse_error"):
                     reason = f"parse error: {validation['parse_error']}"
                     reason_code = "parse-error"
                 elif not validation.get("n_contributions"):
@@ -745,6 +803,9 @@ def main() -> None:
         return
 
     if all_written:
+        stats = repair_cross_folder_links([f"{f}/{s}.md" for f, s, _, _ in all_written])
+        print(f"\nCross-folder links: {stats['repointed']} re-pointed, {stats['unlinked']} ambiguous "
+              "and unlinked.")
         print("\nRegenerating index.md files...")
         subprocess.run([sys.executable, str(WIKI_ROOT / "scripts" / "build_indexes.py")], check=True, cwd=WIKI_ROOT)
 
