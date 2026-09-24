@@ -72,6 +72,19 @@ _YEAR_RE = re.compile(r"\((\d{4}[a-z]?)\)")
 _URL_RE = re.compile(r"(https?://[^\s)]+)")
 
 
+
+def _impact_code(obj: dict, key: str) -> str | None:
+    """`i2` for a coded magnitude, `i?` for an explicit null (the article prints
+    no effect size, so someone looked and could not say), nothing when the key
+    is absent. The `?` is the corpus's existing spelling for that state, and
+    okf_lib.parse_evidence_codes and sync_evidence_codes already carry it."""
+    if key not in obj:
+        return None
+    value = obj[key]
+    if value is None:
+        return "i?"
+    return f"i{value}" if isinstance(value, int) and not isinstance(value, bool) else None
+
 def _one_sentence(text: str, fallback: str) -> str:
     text = (text or "").strip()
     if not text:
@@ -149,10 +162,10 @@ def _render_claim(contrib: dict, actor: str, slug: str) -> tuple[dict, str]:
         anchor_slug[raw_anchor] = heading_slug
         anchor_label[raw_anchor] = label
 
-        quality, impact = ev.get("quality"), ev.get("impact")
+        quality = ev.get("quality")
         codes = " · ".join(x for x in (
             f"q{quality}" if isinstance(quality, int) else None,
-            f"i{impact}" if isinstance(impact, int) else None,
+            _impact_code(ev, "impact"),
         ) if x)
         desc = (ev.get("description") or "").strip()
         quote = (ev.get("source_quote") or "").strip()
@@ -171,13 +184,13 @@ def _render_claim(contrib: dict, actor: str, slug: str) -> tuple[dict, str]:
 
     sc_lines = []
     for sc in subclaims:
-        q, i = sc.get("q"), sc.get("i")
+        q = sc.get("q")
         text = (sc.get("text") or "").strip()
         ref = str(sc.get("evidence_ref") or "")
         heading_slug = anchor_slug.get(ref)
         codes = " ".join(x for x in (
             f"q{q}" if isinstance(q, int) else None,
-            f"i{i}" if isinstance(i, int) else None,
+            _impact_code(sc, "i"),
         ) if x)
         link = f" [→ {anchor_label.get(ref, ref)}](#{heading_slug})" if heading_slug else ""
         sc_lines.append(f"`{codes}` {text}{link}".strip())
