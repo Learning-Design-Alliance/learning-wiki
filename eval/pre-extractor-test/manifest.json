@@ -1,0 +1,218 @@
+{
+  "_comment": "Pre-extractor test corpus (2026-09-24). benchmark = the 9 fetchable articles of eval/corpus/manifest.json, which 130 prompt versions were tuned on, so it flatters the tuned GLM prompt. holdout = 8 ERIC articles discover_articles.py found that no arm has seen. reject-probe = 2 PMC hits that are not about learning at all; INCLUSION.md's E2 says the right output is a rejection, not pages.",
+  "articles": [
+    {
+      "id": "arxiv-1602.07032",
+      "source": "arxiv",
+      "title": "Unbounded Human Learning: Optimal Scheduling for Spaced Repetition",
+      "authors": "Reddy, S., Levine, S., Dragan, A.",
+      "year": 2016,
+      "url": "https://arxiv.org/abs/1602.07032",
+      "fetch_url": "https://arxiv.org/pdf/1602.07032",
+      "topic_hint": "spacing effect / retrieval scheduling",
+      "test_set": "benchmark"
+    },
+    {
+      "id": "arxiv-2105.15106",
+      "source": "arxiv",
+      "title": "A Survey of Knowledge Tracing: Models, Variants, and Applications",
+      "authors": "Liu, Q., et al.",
+      "year": 2021,
+      "url": "https://arxiv.org/abs/2105.15106",
+      "fetch_url": "https://arxiv.org/pdf/2105.15106",
+      "topic_hint": "learner modeling survey (broad/theory test)",
+      "test_set": "benchmark"
+    },
+    {
+      "id": "arxiv-2409.16490",
+      "source": "arxiv",
+      "title": "Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs",
+      "authors": "et al.",
+      "year": 2024,
+      "url": "https://arxiv.org/abs/2409.16490",
+      "fetch_url": "https://arxiv.org/pdf/2409.16490",
+      "topic_hint": "tutoring feedback / formative assessment",
+      "test_set": "benchmark"
+    },
+    {
+      "id": "eric-ed599273",
+      "source": "eric",
+      "title": "Retrieval-Based Learning: A Decade of Progress",
+      "authors": "Karpicke, J. D., et al.",
+      "year": 2020,
+      "url": "https://eric.ed.gov/?id=ED599273",
+      "fetch_url": "https://files.eric.ed.gov/fulltext/ED599273.pdf",
+      "topic_hint": "retrieval practice review",
+      "test_set": "benchmark"
+    },
+    {
+      "id": "eric-ej1327865",
+      "source": "eric",
+      "title": "The Effects of Retrieval Practice Across Levels of Thinking and Knowledge Types",
+      "authors": "et al.",
+      "year": 2022,
+      "url": "https://eric.ed.gov/?id=EJ1327865",
+      "fetch_url": "https://files.eric.ed.gov/fulltext/EJ1327865.pdf",
+      "topic_hint": "retrieval practice / transfer",
+      "test_set": "benchmark"
+    },
+    {
+      "id": "eric-ej1276025",
+      "source": "eric",
+      "title": "Cognitive Load in Solving Mathematics Problems",
+      "authors": "et al.",
+      "year": 2021,
+      "url": "https://eric.ed.gov/?id=EJ1276025",
+      "fetch_url": "https://files.eric.ed.gov/fulltext/EJ1276025.pdf",
+      "topic_hint": "worked examples / cognitive load",
+      "test_set": "benchmark"
+    },
+    {
+      "id": "eric-ed491961",
+      "source": "eric",
+      "title": "The Effectiveness of Worked Examples in a Game-Based Learning Environment",
+      "authors": "et al.",
+      "year": 2005,
+      "url": "https://eric.ed.gov/?id=ED491961",
+      "fetch_url": "https://files.eric.ed.gov/fulltext/ED491961.pdf",
+      "topic_hint": "worked examples",
+      "test_set": "benchmark"
+    },
+    {
+      "id": "pmc-9083074",
+      "source": "pubmed",
+      "pmcid": "PMC9083074",
+      "title": "Fostering Self-Regulated Learning in Online Environments: Positive Effects of a Web-Based Training With Peer Feedback on Learning Behavior",
+      "authors": "et al.",
+      "year": 2022,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9083074",
+      "fetch_url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_json/PMC9083074/unicode",
+      "topic_hint": "self-regulated learning / peer feedback RCT",
+      "test_set": "benchmark"
+    },
+    {
+      "id": "pmc-4237043",
+      "source": "pubmed",
+      "pmcid": "PMC4237043",
+      "title": "Self-Controlled Feedback Is Effective If It Is Based on the Learner's Performance: A Replication and Extension of Chiviacowsky and Wulf (2005)",
+      "authors": "et al.",
+      "year": 2014,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4237043",
+      "fetch_url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_json/PMC4237043/unicode",
+      "topic_hint": "self-controlled feedback",
+      "test_set": "benchmark"
+    },
+    {
+      "id": "eric-ed409895",
+      "source": "eric",
+      "title": "Motivation in Instructional Design. ERIC Digest.",
+      "authors": "Small, Ruth V.",
+      "year": 1997,
+      "url": "https://eric.ed.gov/?id=ED409895",
+      "fetch_url": "https://files.eric.ed.gov/fulltext/ED409895.pdf",
+      "topic_hint": "arcs model",
+      "test_set": "holdout"
+    },
+    {
+      "id": "eric-ed658339",
+      "source": "eric",
+      "title": "Humanizing Mathematics through Boundary Crossing Collaboration",
+      "authors": "Lili Zhou",
+      "year": 2023,
+      "url": "https://eric.ed.gov/?id=ED658339",
+      "fetch_url": "https://files.eric.ed.gov/fulltext/ED658339.pdf",
+      "topic_hint": "boundary crossing learning",
+      "test_set": "holdout"
+    },
+    {
+      "id": "eric-ed294201",
+      "source": "eric",
+      "title": "Social Constructionism and Collaborative Learning: Recommendations for Teaching Writing.",
+      "authors": "DeCiccio, Albert C.",
+      "year": 1988,
+      "url": "https://eric.ed.gov/?id=ED294201",
+      "fetch_url": "https://files.eric.ed.gov/fulltext/ED294201.pdf",
+      "topic_hint": "constructionism",
+      "test_set": "holdout"
+    },
+    {
+      "id": "eric-ed610081",
+      "source": "eric",
+      "title": "Epistemic Injustice and Cultural Processes in Education",
+      "authors": "Gokturk, Duygun",
+      "year": 2021,
+      "url": "https://eric.ed.gov/?id=ED610081",
+      "fetch_url": "https://files.eric.ed.gov/fulltext/ED610081.pdf",
+      "topic_hint": "epistemic injustice",
+      "test_set": "holdout"
+    },
+    {
+      "id": "eric-ed630361",
+      "source": "eric",
+      "title": "Teacher Language and Gesture in an Intervention Focused on Developing Kindergarteners&apos; Understandings of the Equal Sign",
+      "authors": "Sung, Yewon, Stephens, Ana, Veltri Torres, Ranza, Strachota, Susanne, Blanton, Maria, Gardiner, Angela, Stroud, Rena, Knuth, Eric",
+      "year": 2022,
+      "url": "https://eric.ed.gov/?id=ED630361",
+      "fetch_url": "https://files.eric.ed.gov/fulltext/ED630361.pdf",
+      "topic_hint": "equations as language",
+      "test_set": "holdout"
+    },
+    {
+      "id": "eric-ed608853",
+      "source": "eric",
+      "title": "Analysis on Philosophical Beliefs of Physical Education and Sports Teachers towards Education in Terms of Different Variables",
+      "authors": "Isikgoz, Mustafa Enes",
+      "year": 2020,
+      "url": "https://eric.ed.gov/?id=ED608853",
+      "fetch_url": "https://files.eric.ed.gov/fulltext/ED608853.pdf",
+      "topic_hint": "essentialism and perennialism educational philosophy",
+      "test_set": "holdout"
+    },
+    {
+      "id": "eric-ed673212",
+      "source": "eric",
+      "title": "Theoretical Examination of Teachers&apos; Motivations for Using Artificial Intelligence Applications in Education: Expectancy-Value Theory Perspective",
+      "authors": "Ey\u00fcp Yurt",
+      "year": 2024,
+      "url": "https://eric.ed.gov/?id=ED673212",
+      "fetch_url": "https://files.eric.ed.gov/fulltext/ED673212.pdf",
+      "topic_hint": "expectancy value theory",
+      "test_set": "holdout"
+    },
+    {
+      "id": "eric-ed367146",
+      "source": "eric",
+      "title": "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest.",
+      "authors": "et al.",
+      "year": 1994,
+      "url": "https://eric.ed.gov/?id=ED367146",
+      "fetch_url": "https://files.eric.ed.gov/fulltext/ED367146.pdf",
+      "topic_hint": "funds of knowledge",
+      "test_set": "holdout"
+    },
+    {
+      "id": "pmc-13600694",
+      "source": "pubmed",
+      "pmcid": "PMC13600694",
+      "title": "Machine learning of honey bee olfactory behavior identifies repellent odorants in free-flying bees in the field.",
+      "authors": "Kowalewski J, Baer-Imhoof BF, Guda T, Luy M, DePalma P, Baer B, Ray A",
+      "year": 2026,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13600694",
+      "fetch_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC13600694.1.json",
+      "topic_hint": "blooms taxonomy",
+      "test_set": "reject-probe"
+    },
+    {
+      "id": "pmc-13600660",
+      "source": "pubmed",
+      "pmcid": "PMC13600660",
+      "title": "Standardized Manual-Based Smoking Cessation Treatment in Patients With Comorbid Mental Disorders: Qualitative Interview Study.",
+      "authors": "B\u00fcck J, S\u00fcnkel E, Machulska A, Neubert M, Klucken T",
+      "year": 2026,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13600660",
+      "fetch_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC13600660.1.json",
+      "topic_hint": "adaptive cycles framework",
+      "test_set": "reject-probe"
+    }
+  ]
+}
