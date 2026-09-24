@@ -1390,6 +1390,30 @@ included even though nothing in the spec addresses one: a consumer filters on `t
 free, and a kind left out is a kind nobody can point at until somebody notices.
 
 
+## The MCP server — the same data, as tools
+
+`scripts/mcp_server.py` serves the wiki over the Model Context Protocol, so an agent can query it
+without knowing how to read the index files. It has five read-only tools. `search` and `fetch` are
+in the shape deep-research clients expect, and ids are `<kind>/<slug>`. `resolve` handles current
+and retired slugs, and returns every kind a slug lives in. `backlinks` comes from the reverse index
+and carries each claim citation's `[±~][SMW]` marker. `why` is `check_research.why()` with its
+output captured, so the tool and the command cannot disagree.
+
+```bash
+python3 scripts/mcp_server.py                         # stdio
+python3 scripts/mcp_server.py --http 8765             # stateless HTTP, 127.0.0.1:8765/mcp
+python3 scripts/mcp_server.py --call search '{"query": "retrieval practice"}'
+claude mcp add learning-wiki -- python3 /path/to/learning-wiki/scripts/mcp_server.py
+```
+
+It depends on the standard library and PyYAML only. Both transports were tested against the
+official MCP Python SDK's client (2.2.0). **Every page result carries `status` and `trust_tier`,
+and the server's instructions say the wiki is model-written.** No page has a `verified:` entry, so
+an outside agent would otherwise take a fluent page for a checked one. The shape is borrowed from the
+Renaissance AI and Education Resource Hub's worker; no code was copied, because that repo has no
+licence yet. **It is not hosted anywhere.** It runs from a checkout, and nothing in it is newer than
+that checkout. Hosting it is a separate decision: GitHub Pages cannot run it.
+
 ---
 
 ## Two kinds for the designer's side: `processes/` and `methods/`
@@ -1773,6 +1797,7 @@ ld-wiki/
     build_wiki_index.py ← the resolution table learning-design-spec reads (see below)
     check_evidence_markers.py ← claim citations carrying no [±~][SMW] marker (see below)
     smd_worklist.py    ← WWC/ESSA review pages to extract next, for the SMD family (see above)
+    mcp_server.py      ← the wiki as MCP tools: search, fetch, resolve, backlinks, why (see above)
     observation_lib.py ← the evidence layer's schema and validator (see above)
     research_lib.py    ← the research layer's schemas, validators and joins (see above)
     check_research.py  ← validate the research layer; --why traverses claim -> protocol
