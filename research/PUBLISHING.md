@@ -11,9 +11,10 @@ it is published, with the governance that allowed it and a DOI that resolves.
 
 What is in `research/` today is scaffolding, marked `SYNTHETIC` at every level:
 example protocols, study plans, releases, reviews and one issue, which exist to
-exercise the validators. The one real file is
-`protocols/lazuli-platform-telemetry/1.0.0.yaml`, and its central statement is
-that platform telemetry may **not** be published as research.
+exercise the validators. Nothing in it is real. The one real governance file that
+used to sit here, `protocols/lazuli-platform-telemetry/1.0.0.yaml` (which says
+platform telemetry may **not** be published as research), moved to the private
+repo's transplant tree on 2026-09-24.
 
 ## The route from embargoed to published
 

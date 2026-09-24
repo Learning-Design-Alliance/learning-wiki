@@ -89,8 +89,11 @@ work is done, not that the check is broken.
   attached must still treat anything it read there as embargoed unless told otherwise.
 
 - **No LDA research is published in this wiki yet, and none may be drafted here.**
-  `research/` holds synthetic scaffolding plus one real governance file
-  (`lazuli-platform-telemetry`, which forbids publication). A finding arrives only once
+  `research/` holds synthetic scaffolding only. The one real governance file,
+  `lazuli-platform-telemetry` (which forbids publication), **moved on 2026-09-24** to the
+  private repo's transplant tree, `Learning-engineering-research:research/wiki/research/
+  protocols/lazuli-platform-telemetry/1.0.0.yaml`, byte-for-byte; the mentions of it below
+  still describe it correctly, but it is not in this repo. A finding arrives only once
   it is public, by the route in `research/PUBLISHING.md`: a protocol permitting
   publication, a plan that predates the release, and a DOI **reserved before the release
   file is frozen** (`scripts/mint_release_doi.py --reserve`). Only a `human:` actor
@@ -1008,8 +1011,9 @@ concerns later confirmed, two not supported" is a traversal of
 `author.id → reviews → issues → resolution`. That is why `reputation` is a refused
 field.
 
-**The first real protocol exists, and its central statement is a refusal.**
-`research/protocols/lazuli-platform-telemetry/1.0.0.yaml` records the governance
+**The first real protocol exists, and its central statement is a refusal.** (It now lives in
+the private `Learning-engineering-research` repo, not here; see the settled items above.)
+`lazuli-platform-telemetry/1.0.0.yaml` records the governance
 of Lazuli platform learning telemetry as it stands: learners accepted terms of
 service, nobody asked them to consent to research use, so the data may build and
 validate the observation pipeline and may **not** be published as research —
@@ -1261,8 +1265,8 @@ python3 scripts/render_brany_protocol.py example-classroom-consented-study \
     --study example-retrieval-practice-classroom --coverage
 ```
 
-**The one section that still reports `no-field` does so correctly**: section 23 on
-`lazuli-platform-telemetry`, whose `risks.classification` is `not-determined`, so the rule
+**The one section that still reported `no-field` did so correctly**: section 23 on
+`lazuli-platform-telemetry` (now in the private repo), whose `risks.classification` is `not-determined`, so the rule
 that would make it inapplicable cannot fire. That is the record refusing to decide, not a
 missing field.
 
