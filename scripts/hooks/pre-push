@@ -1,0 +1,6 @@
+#!/bin/sh
+# Refuses a push that adds anything carrying the LDA-EMBARGO marker.
+# learning-wiki is public, so this has to run BEFORE the push: CI runs after
+# the branch is already visible. Enable once per clone:
+#     git config core.hooksPath scripts/hooks
+exec python3 "$(git rev-parse --show-toplevel)/scripts/check_embargo.py" --pre-push

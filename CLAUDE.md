@@ -75,6 +75,19 @@ work is done, not that the check is broken.
   known backlog, mostly hyphen-vs-underscore variants of one page. It is reported, not
   lint-failing, on purpose.
 
+- **Embargoed research never enters this repository, on any branch.** learning-wiki is
+  **public**: a pushed branch or an opened PR is visible to anyone, merged or not, so
+  "keep it in an unmerged PR" does not keep anything private. Embargoed work lives in
+  the private `Learning-engineering-research` repo until the embargo lifts, and only then
+  is it written here. The private repo stamps embargoed files with the marker
+  `LDA-EMBARGO`. `scripts/check_embargo.py` refuses to let it out, **before the push**
+  (CI runs too late, since the branch is already public by then): a PreToolUse hook in
+  `.claude/settings.json` blocks `git push` and the GitHub MCP write tools in every
+  Claude Code session here. `git config core.hooksPath scripts/hooks` does the same for
+  a person pushing by hand, and `lint.py --type embargo` is the CI backstop. A marker
+  catches copying, not prose retyped from memory, so an agent with the private repo
+  attached must still treat anything it read there as embargoed unless told otherwise.
+
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
@@ -1803,6 +1816,7 @@ ld-wiki/
     check_research.py  ← validate the research layer; --why traverses claim -> protocol
     lint.py            ← health-check (see Lint above)
     verify_citation_edits.py ← after a citation tool writes: did it edit only citations? (see above)
+    check_embargo.py   ← refuses to push embargoed research into this PUBLIC repo (see settled items)
 ```
 
 Each folder's `index.md` is itself a reserved OKF filename: no frontmatter (except the bundle-root's `okf_version`), and a plain `* [Title](slug.md) - description` bullet listing grouped by status. Regenerate these with `python3 scripts/build_indexes.py` rather than hand-editing them.
@@ -2385,13 +2399,14 @@ which spelling the corpus used. Fixed: it takes every backtick span on the codes
 looks for each code independently, recovering `i` and `n` on 121 entries. Coverage went
 from 143/22/22 to 149/149/143.
 
-**Impact magnitude (i):**
+**Impact magnitude (i):** until 2026-09-24 `i0` meant "negligible *or unclear*", and the extraction prompt wrote `i0` whenever an article printed no effect size. Prompt v128 and the validator now write `null` for that case, rendered `i?`. An older `i0` may still mean either, so read its evidence text; the 11 claim pages coding `i: 0` have not been recoded.
 | i | Rough effect size |
 |---|-------------------|
 | 3 | Large (d ≥ 0.8 or equivalent) |
 | 2 | Medium (d 0.4–0.79) |
 | 1 | Small (d 0.2–0.39) |
-| 0 | Negligible / unclear |
+| 0 | Negligible: an effect size is reported and it is below d 0.2 |
+| ? | No effect size reported: someone looked and the source does not say. Never read as 0 |
 
 ---
 
