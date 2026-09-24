@@ -13,15 +13,22 @@ this the kind of learning we usually cover".
 **I1. It is about learning, or about designing for it.** Any setting: schools, universities,
 workplaces, the health professions, the military, museums and other informal settings, families,
 sport, clinical and therapeutic settings, communities, online. Any age, and any domain being learned.
-Sources about the people and processes that produce learning (designers, teachers, design processes,
-design methods, programme evaluation) count as well.
+Sources about **the design process** are in, and so are sources about the people and processes that
+produce learning more broadly: design thinking, agile and iterative design, instructional design
+models, design-based research, design methods, teachers, programme evaluation. This is confirmed by
+the maintainer.
 
 **I2. It offers something that can be extracted.** That can be a finding, a reasoned argument, a
 model or framework, a design process or method, a described practice, or a synthesis of other work.
 
-**I3. Its basis can be stated.** It can say what its contribution rests on: data, analysis, a
-developed argument, or the sources it synthesises. How strong that basis is does not decide
-inclusion. That is what the `q` code records.
+**I3. It gives evidence for what it proposes, and that evidence can be logical.** A source needs
+evidence, but not necessarily empirical evidence. Data, analysis and synthesis count, and so does a
+reasoned argument that can be followed and disagreed with on its premises. A source that proposes a
+claim on reasoning alone is included, and its claim is coded `q1` (theoretical argument) with no
+effect size. How strong the evidence is does not decide inclusion. That is what the `q` code records.
+
+**One argument is enough.** A source that makes a single argument is complete with a single claim.
+Nothing requires a source to yield several.
 
 ## Every paradigm is in
 
@@ -47,11 +54,32 @@ not decide it for them by leaving the source out.
 
 ## A source is excluded for one of four reasons
 
-**E1. Opinion piece** (`opinion-piece`). The source asserts positions without evidence and without a
-developed argument: editorials, commentary, advocacy, position papers that report no data, reflective
-career essays. What separates this from theoretical or philosophical work (I3, included) is
-*reasoning*. A philosophical paper builds an argument, engages other work and can be disagreed with
-on its reasons. An opinion piece states a view. When in doubt, include it and code it `q1`.
+**E1. Opinion piece** (`opinion-piece`). The source asserts positions with no evidence of either
+kind: no data, and no reasons. Examples are editorials, commentary and advocacy that state a view,
+and reflective career essays. A position paper that argues its position is not E1. What separates
+this from theoretical or philosophical work (I3, included) is *reasoning*. When in doubt, include.
+
+**An opinion is never evidence, and an influential one is recorded as exactly that.** Much of what
+the field cites is expert opinion that nobody has tested, and it gets cited *as if* it were
+evidence, often on the author's reputation. Leaving those sources out would leave that gap
+invisible. So the rule has two halves:
+
+- An obscure opinion piece is rejected under E1.
+- A **widely cited** opinion is ingested on purpose, as a claim page that states the assertion,
+  names who makes it and how widely it is cited, and records that **no evidence was offered for it**.
+  Its `## Discussion` says what evidence, if any, exists elsewhere. A downstream reader or agent then
+  finds that citing it justifies nothing, however respected the author.
+
+*Proposed, awaiting the maintainer's confirmation:*
+- **Mark it with a new quality tier, `q0`: "asserted: no evidence offered".** `q1` would no longer
+  include "expert opinion" (already made in this PR). `q0` sits below it, and the claim header would
+  then read `q0`, which every consumer of the codes already displays.
+- **Define "widely cited".** For example: cited by five or more wiki pages, or a standard reference in
+  the field.
+- **Review two existing `q1` entries** whose own text suggests they may be opinion:
+  `heritage-language-preservation-supports-english-acquisition` ("applied/practitioner-oriented
+  account") and `rpp-adaptive-practices-sustain-partnerships-during-disruption` ("synthesis of 15
+  practitioner/researcher think-pieces").
 
 **E2. Not about learning or its design** (`out-of-scope`). Career advice, academic publishing and
 journal selection, conferences, professional networking, hiring and job-role inventories, business
@@ -72,14 +100,19 @@ They say nothing about the source, and discovery retries them.
 
 The manifest is append-only, so these stay as written. A re-review appends a new entry with
 `log_source_review.py`, and discovery then treats the source as settled by that later entry.
-Candidates, from the 27 rejections written before these criteria:
+From the 27 rejections written before these criteria:
+
+**To re-review and include** (confirmed by the maintainer):
 
 - *The Moral Dimensions of Instructional Design*: rejected as a "reflective/philosophical essay".
-  Under I3 and the paradigm rule, a developed ethical argument is in.
+  Ethics is philosophy, and a claim resting on logical evidence is in (I3).
 - *Design Thinking and Agile Design* and *Instructional Design Models*: rejected as process or
-  project content. The wiki has since gained `processes/` and `methods/` for exactly this.
-- *The Development of Design-Based Research*: rejected as research methodology. Design-based
-  research is a design method in its own right.
+  project content. Studies of the design process are in (I1), and `processes/` and `methods/` exist
+  for them.
+- *The Development of Design-Based Research*: rejected as research methodology. It is about a
+  design process (I1).
+
+**Candidates, still undecided:**
 - *A Survey of Educational Change Models*: rejected as organisational change. Adopting an
   innovation is learning by the adopters, and designers in organisations use these models.
 - *Visualization as theory and experience* and *Methodological challenges of research on
