@@ -634,6 +634,17 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#2026-09-24-the-evidence-sync-tools-were-half-right-and-a-doi-with-a-in-it-was-half-a-doi" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-24 — the evidence sync tools were half right, and a DOI with a ( in it was half a DOI
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#2026-09-24-the-extraction-priority-list-is-generated-never-kept" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1230,6 +1241,17 @@
   
     <nav class="md-nav" aria-label="Working alongside other sessions — read this before starting">
       <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#2026-09-24-the-evidence-sync-tools-were-half-right-and-a-doi-with-a-in-it-was-half-a-doi" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-24 — the evidence sync tools were half right, and a DOI with a ( in it was half a DOI
+      
+    </span>
+  </a>
+  
+</li>
         
           <li class="md-nav__item">
   <a href="#2026-09-24-the-extraction-priority-list-is-generated-never-kept" class="md-nav__link">
@@ -1906,6 +1928,28 @@ work is done, not that the check is broken.</p>
 </ul>
 <p><strong>When you finish something wiki-wide, add a line here.</strong> That is how the next session
 finds out.</p>
+<h3 id="2026-09-24-the-evidence-sync-tools-were-half-right-and-a-doi-with-a-in-it-was-half-a-doi">2026-09-24 — the evidence sync tools were half right, and a DOI with a <code>(</code> in it was half a DOI<a class="headerlink" href="#2026-09-24-the-evidence-sync-tools-were-half-right-and-a-doi-with-a-in-it-was-half-a-doi" title="Permanent link">&para;</a></h3>
+<p><code>sync_evidence_codes.py --apply</code> then <code>add_evidence_summary.py --apply</code> looked destructive on nine
+claim pages. Parsing the frontmatter before and after showed that <strong>it dropped no entry</strong>. What it did:</p>
+<ul>
+<li><strong>Renamed 10 hand-written ids</strong> (<code>adesope-2017</code>) to the evidence heading's slug
+  (<code>adesope-et-al-2017</code>). The tool was right here: <code>parse_evidence_sources</code> makes the id the heading
+  slug on purpose, so it equals the <code>#anchor</code> the subclaims link to, and none of the old ids matched
+  any anchor.</li>
+<li><strong>Re-synced the Rey (2012) title</strong> left stale by #95.</li>
+<li><strong>Truncated two DOIs at their first <code>)</code>.</strong> <code>[^\s)]+</code> read <code>10.1016/0010-0285(74)90015-2</code> as
+  <code>…0285(74</code>. Two more pages (<code>contingent-scaffolding</code>, <code>part-task-practice</code>) already carried
+  truncated resources on <code>main</code>. <code>okf_lib.LINK_URL</code> now accepts balanced <code>(...)</code> and <code>&lt;...&gt;</code>, which
+  also covers the Wiley SICI form. It is used by <code>CITATION_LINE_RE</code>, <code>parse_evidence_sources</code> and
+  <code>ingest_extractions._URL_RE</code>. No truncated <code>resource:</code> remains in the wiki.</li>
+<li><strong>Overwrote curated headers.</strong> <code>add_evidence_summary.py</code> now replaces only a line in its own
+  grammar (<code>generated_re()</code>) and keeps any other line, flagging a kept line whose study count
+  disagrees with the entries. Ten are kept.</li>
+</ul>
+<p>Verified by parse: 11 pages, 0 entries dropped or added, 0 other keys, 0 body changes. <strong>A second
+run of both tools changes nothing.</strong> The lesson here is the reverse of the usual one. A line-count
+summary of the first diff read the renamed <code>- id:</code> lines as deletions, and the "damage" report
+repeated that. Parse the frontmatter before calling a tool destructive, as well as before trusting it.</p>
 <h3 id="2026-09-24-the-extraction-priority-list-is-generated-never-kept">2026-09-24 — the extraction priority list is generated, never kept<a class="headerlink" href="#2026-09-24-the-extraction-priority-list-is-generated-never-kept" title="Permanent link">&para;</a></h3>
 <p><code>scripts/priority_worklist.py</code> answers "what should the next extraction run read". It prints three
 queues. <code>record</code>: articles the wiki cites with no <code>observations/</code> record, SMD-reporting first, then
@@ -4083,7 +4127,7 @@ Author, A., &amp; Author, B. (Year). Title. <span class="ge">*Journal, vol*</spa
 | 4 | Pre-registered RCT or well-powered meta-analysis |
 | 3 | Peer-reviewed experiment (not pre-registered) or systematic review |
 | 2 | Quasi-experiment, observational with controls, or narrative review |
-| 1 | Case study, expert opinion, or theoretical argument |</p>
+| 1 | Case study, or a theoretical argument that gives its reasons (until 2026-09-24 this also read "expert opinion"; an opinion stated without reasons is not evidence at any tier) |</p>
 <p><strong>The codes live in three places, from one source.</strong> <code>evidence-scales.json</code> at the bundle
 root is the definition — as data, said once. <code>docs_hooks/page_metadata.py</code> loads it to
 render the human-facing panel, and each claim's frontmatter <code>sources[]</code> entries carry the
