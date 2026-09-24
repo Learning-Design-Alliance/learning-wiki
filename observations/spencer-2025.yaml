@@ -47,6 +47,15 @@ provenance:
   extraction_method: manual-from-publisher-fulltext
   verification: unverified
 
+# All four participants' listening and reading retells improved over their own baselines
+# (Tau-U 0.64-1.06). Maintenance with the icons removed was complete for two, partial for
+# one and absent for one, which the observations record per child. Four autistic children
+# in a multiple-baseline design: support, at the grain a single-case design can give.
+# No anchor, for the same reason as above.
+appears_in:
+  - claim: reading-strategy-instruction-improves-comprehension
+    bearing: supports
+
 evidence_base:
   unit: participants
   size:

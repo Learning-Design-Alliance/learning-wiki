@@ -43,6 +43,15 @@ provenance:
   extraction_method: manual-from-publisher-fulltext
   verification: unverified
 
+# Treatment arms beat the ordinary curriculum (H1, beta = 5.168) and the two SRSD forms
+# beat free journaling (H2, beta = 1.695); adding the SRL story-tool to SRSD did not add
+# a detectable gain (H3, null). That is support for strategy instruction improving writing
+# quality, with H3 limiting which additions help. No anchor: the claim page has no
+# evidence entries yet, and writing this study into its argument is an editorial act.
+appears_in:
+  - claim: writing-strategy-instruction-improves-writing-quality
+    bearing: supports
+
 evidence_base:
   # What was ANALYSED.
   unit: participants
