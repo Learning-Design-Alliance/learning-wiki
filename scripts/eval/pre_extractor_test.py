@@ -57,6 +57,8 @@ ARMS = [
     ("glm-v130", "pxt-glm-v130", "z-ai/glm-5.3-flash"),
     ("opus-v130", "pxt-opus55-v130", "anthropic/claude-opus-5.5"),
     ("agent", "pxt-agent-opus55", "claude-code-agent/opus-5.5"),
+    ("agent-sonnet", "pxt-agent-sonnet5", "claude-code-agent/sonnet-5"),
+    ("glm-v131", "pxt-glm-v131", "z-ai/glm-5.3-flash"),
 ]
 
 DECISION_RULE = """\
@@ -274,7 +276,7 @@ def main() -> None:
                 out.append(f"| {arm['label']} | {s['n']} | {s['gen_errors']} | not run: every generation failed "
                            "(see the records' generation.error) | | | | | | | | | |")
                 continue
-            cost = (f"${s['cost_low']:.3f}–{s['cost_high']:.3f}" if arm["label"] == "agent"
+            cost = (f"${s['cost_low']:.3f}–{s['cost_high']:.3f}" if arm["label"].startswith("agent")
                     else f"${s['cost_per_article']:.4f}")
             d = s["doi"]
             out.append(f"| {arm['label']} | {s['n']} | {s['gen_errors']} | {s['pass_rate']:.0%} | {s['completeness']:.2f} | "
@@ -301,7 +303,7 @@ def main() -> None:
         s = allinc[arm["label"]]
         if not s or s["gen_errors"] == s["n"]:
             continue
-        c = (f"${s['cost_low'] * 1000:,.0f}–{s['cost_high'] * 1000:,.0f}" if arm["label"] == "agent"
+        c = (f"${s['cost_low'] * 1000:,.0f}–{s['cost_high'] * 1000:,.0f}" if arm["label"].startswith("agent")
              else f"${s['cost_per_article'] * 1000:,.2f}")
         w = walls.get(arm["label"])
         out.append(f"| {arm['label']} | {c} | {f'{float(w) / 60:.0f} min' if w else '—'} |")

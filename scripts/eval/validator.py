@@ -353,7 +353,12 @@ def _check_cross_links(c: _Checker, contrib: dict, known_slugs: set, list_field:
 
 
 def _validate_claim(c: _Checker, contrib: dict, known_slugs: set) -> None:
-    c.check(bool(re.match(r"^CL-", str(contrib.get("id", "")))), "id", "claim id should look like 'CL-<shortcode>'.")
+    # A warning, not an error: ingest_extractions sets every claim's id to its
+    # slug and never reads this field (CLAUDE.md, Page identity), so a malformed
+    # one costs nothing. As an error it failed glm-v124's only failing article
+    # in the pre-extractor test on a value that is thrown away.
+    c.check(bool(re.match(r"^CL-", str(contrib.get("id", "")))), "id", "claim id should look like 'CL-<shortcode>'.",
+            severity="warning")
     c.check(contrib.get("evidence_strength") in CLAIM_STATUS_VALUES, "evidence_strength",
             f"evidence_strength must be one of {sorted(CLAIM_STATUS_VALUES)}.")
 

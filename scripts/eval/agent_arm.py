@@ -42,14 +42,14 @@ from scripts.eval.jsonutil import extract_json, JSONExtractionError
 WIKI_ROOT = Path(__file__).resolve().parents[2]
 
 AGENT_MODEL = "claude-code-agent/opus-5.5"
+# List price per token on OpenRouter as of 2026-09-24: (input, cache read, output).
+# Used only for the cost bracket (see cost_bracket).
+AGENT_PRICES = {
+    "claude-code-agent/opus-5.5": (4.0e-6, 0.4e-6, 20.0e-6),
+    "claude-code-agent/sonnet-5": (2.0e-6, 0.2e-6, 10.0e-6),
+}
 DEFAULT_MANIFEST = WIKI_ROOT / "eval" / "pre-extractor-test" / "manifest.json"
 
-# Opus 5.5 list price on OpenRouter as of 2026-09-24 ($/token). Used only for
-# the cost bracket; the real price of a subagent depends on how much of its
-# context was a cache read, which the Agent tool does not report.
-PRICE_INPUT = 4.0e-6
-PRICE_CACHE_READ = 0.4e-6
-PRICE_OUTPUT = 20.0e-6
 
 TASK_TEMPLATE = """# Extraction task: {article_id}
 
@@ -86,7 +86,7 @@ tools. Your output is scored by the same validator and the same judges.
   Remember the default is to include: domain or setting is never a reason
   to exclude, and a theoretical or qualitative source is eligible.
 
-## Rules
+{benchmark_note}## Rules
 - Do NOT write, edit or create any file outside this folder. Do not touch the
   wiki's content folders, git, or any other task folder.
 - Keep any helper scripts in this folder too, never in a shared scratchpad: parallel agents
@@ -98,6 +98,18 @@ tools. Your output is scored by the same validator and the same judges.
   `cd /home/user/learning-wiki && python3 -m scripts.eval.agent_arm check --run-id {run_id} --article {article_id}`
 - Finish with a two-line reply: the number of contributions, and anything you
   could not establish. Nothing else.
+"""
+
+
+# For re-running an article the wiki already holds, e.g. to compare a second
+# model on the same corpus. Without it an agent correctly rejects the source as
+# E4 already-covered, and the run measures nothing.
+BENCHMARK_NOTE = """## This is a benchmark run
+This article may already be in the wiki: another extractor's output from it
+may have been ingested earlier. Do NOT reject it as E4 already-covered, and do
+not read or copy the existing pages it produced. Extract it as though the wiki
+had never seen it. Every other inclusion rule still applies.
+
 """
 
 
@@ -124,7 +136,8 @@ def cmd_prepare(args) -> None:
         (d / "slugs.json").write_text(json.dumps(slugs), encoding="utf-8")
         (d / "entry.json").write_text(json.dumps(entry, indent=2), encoding="utf-8")
         (d / "TASK.md").write_text(TASK_TEMPLATE.format(
-            article_id=entry["id"], prompt_version=args.prompt_version, run_id=args.run_id), encoding="utf-8")
+            article_id=entry["id"], prompt_version=args.prompt_version, run_id=args.run_id,
+            benchmark_note=BENCHMARK_NOTE if args.benchmark else ""), encoding="utf-8")
         print(f"[prepared] {d.relative_to(WIKI_ROOT)}  ({len(text):,} chars)")
 
 
@@ -151,15 +164,17 @@ def cmd_check(args) -> None:
           f"errors={report.error_count} warnings={report.warning_count}")
 
 
-def cost_bracket(total_tokens: int, output_tokens_guess: int = 20_000) -> dict:
+def cost_bracket(total_tokens: int, output_tokens_guess: int = 20_000,
+                 model: str = AGENT_MODEL) -> dict:
     """Low: everything but the output is a cache read. High: everything but
     the output is fresh input. The truth sits between, nearer the low end
     for a long agent loop, which rereads its context on every turn."""
+    fresh, cache_read, output = AGENT_PRICES[model]
     out = min(output_tokens_guess, total_tokens)
     rest = max(0, total_tokens - out)
     return {
-        "low_usd": round(rest * PRICE_CACHE_READ + out * PRICE_OUTPUT, 4),
-        "high_usd": round(rest * PRICE_INPUT + out * PRICE_OUTPUT, 4),
+        "low_usd": round(rest * cache_read + out * output, 4),
+        "high_usd": round(rest * fresh + out * output, 4),
     }
 
 
@@ -168,11 +183,11 @@ def cmd_record(args) -> None:
     entry = json.loads((d / "entry.json").read_text(encoding="utf-8"))
     slugs = eval_harness.get_existing_slugs()
     raw = (d / "output.json").read_text(encoding="utf-8") if (d / "output.json").exists() else ""
-    bracket = cost_bracket(args.total_tokens)
+    bracket = cost_bracket(args.total_tokens, model=args.agent_model)
     record = {
         "article_id": entry["id"],
         "article_title": entry["title"],
-        "model": AGENT_MODEL,
+        "model": args.agent_model,
         "prompt_version": args.prompt_version,
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "generation": {
@@ -218,7 +233,7 @@ def cmd_record(args) -> None:
         record["judges"] = eval_harness.run_judges(
             text, parsed, args.judges, "gpt-5.6-luna",
             api_key=__import__("os").environ.get("OPENROUTER_API_KEY"))
-    out = eval_harness.result_path(eval_harness.RUNS_DIR / args.run_id, AGENT_MODEL, entry["id"])
+    out = eval_harness.result_path(eval_harness.RUNS_DIR / args.run_id, args.agent_model, entry["id"])
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(json.dumps(record, indent=2), encoding="utf-8")
     j = {k: v.get("average_score") for k, v in record["judges"].items() if isinstance(v, dict)}
@@ -234,6 +249,8 @@ def main() -> None:
     pp.add_argument("--manifest", default=str(DEFAULT_MANIFEST))
     pp.add_argument("--articles", nargs="+", default=None)
     pp.add_argument("--prompt-version", default="v130")
+    pp.add_argument("--benchmark", action="store_true",
+                    help="tell agents the article may already be ingested and E4 does not apply")
     pc = sub.add_parser("check")
     pc.add_argument("--run-id", required=True)
     pc.add_argument("--article", required=True)
@@ -245,6 +262,8 @@ def main() -> None:
     pr.add_argument("--tool-uses", type=int, default=None)
     pr.add_argument("--prompt-version", default="v130")
     pr.add_argument("--judges", nargs="*", default=["gpt", "gemini"])
+    pr.add_argument("--agent-model", default=AGENT_MODEL, choices=sorted(AGENT_PRICES),
+                    help="which subagent model produced this output (sets the record's model and price)")
     args = p.parse_args()
     {"prepare": cmd_prepare, "check": cmd_check, "record": cmd_record}[args.cmd](args)
 

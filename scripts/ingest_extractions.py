@@ -401,6 +401,57 @@ def render_page(contrib: dict, actor: str) -> tuple[str, str, dict, str] | None:
     return folder, slug, fm, body
 
 
+CACHE_DIR = WIKI_ROOT / "eval" / "corpus" / "cache"
+
+
+def _quote_key(text: str) -> str:
+    """Letters and digits only, after NFKC: PDF text breaks words across lines
+    ("mem- ory") and uses ligatures, and a verbatim copy of it must still match.
+    A paraphrase fails, because it changes the letters. Same normalisation as
+    scripts/eval/pre_extractor_test.py's quote audit."""
+    import unicodedata
+    return re.sub(r"[^0-9a-z]+", "", unicodedata.normalize("NFKC", text or "").lower())
+
+
+def drop_unfound_quotes(parsed: dict, article_id: str) -> list:
+    """Remove every evidence entry whose source_quote is not in the article.
+
+    The extraction prompt requires each quote to be copied verbatim, and the
+    validator cannot check that without the article. In the pre-extractor test
+    2% of GLM's quotes and 1% of headless Opus's were not in the article, so
+    this gate is what keeps a fabricated quote off a page. A subclaim pointing
+    at a removed entry goes with it; a claim left with no evidence is dropped
+    whole. Returns one note per removal. With no cached text the gate cannot
+    run, and it says so rather than passing everything silently."""
+    path = CACHE_DIR / f"{article_id}.txt"
+    if not path.exists():
+        return [f"quote check skipped: no cached text at {path.relative_to(WIKI_ROOT)}"]
+    article = _quote_key(path.read_text(encoding="utf-8"))
+    notes = []
+    kept = []
+    for c in parsed.get("contributions") or []:
+        if not isinstance(c, dict) or c.get("type") != "claim":
+            kept.append(c)
+            continue
+        good, gone = [], set()
+        for e in c.get("evidence") or []:
+            q = e.get("source_quote") if isinstance(e, dict) else None
+            if q and _quote_key(q) not in article:
+                gone.add(e.get("anchor"))
+                notes.append(f"{c.get('slug')}: dropped evidence {e.get('anchor')!r}, quote not in article: {q[:80]!r}")
+            else:
+                good.append(e)
+        c["evidence"] = good
+        c["subclaims"] = [sc for sc in c.get("subclaims") or []
+                          if not (isinstance(sc, dict) and sc.get("evidence_ref") in gone)]
+        if good and c["subclaims"]:
+            kept.append(c)
+        else:
+            notes.append(f"{c.get('slug')}: claim dropped, no evidence with a verifiable quote left")
+    parsed["contributions"] = kept
+    return notes
+
+
 def ingest_record(record: dict, actor: str, dry_run: bool) -> list:
     """Returns a list of (folder, slug) pages actually written (or that
     WOULD be written, in dry-run mode)."""
@@ -409,6 +460,8 @@ def ingest_record(record: dict, actor: str, dry_run: bool) -> list:
     if not validation.get("passed"):
         return written
     parsed = record.get("parsed") or {}
+    for note in drop_unfound_quotes(parsed, record["article_id"]):
+        print(f"  [QUOTE] {record['article_id']}: {note}", file=sys.stderr)
     contributions = parsed.get("contributions") or []
 
     for contrib in contributions:
