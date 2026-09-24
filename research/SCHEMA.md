@@ -485,6 +485,11 @@ release:
   title:               # required
   question:            # required — the QUESTION, not the finding
   released_at:         # required
+  doi:                 # OPTIONAL — reserved BEFORE the file is frozen, then published
+                       # (scripts/mint_release_doi.py; research/PUBLISHING.md). Bare
+                       # 10.x/y form. Only on a source_type: research release; one per
+                       # version, never shared.
+  doi_registrar:       # required with doi — zenodo | datacite | crossref
   supersedes:          # an earlier version
   change_note:         # REQUIRED when supersedes is present
   addresses:           # [{kind: issue|review, ref}] — what this version answers

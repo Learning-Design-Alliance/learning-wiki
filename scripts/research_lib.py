@@ -1317,6 +1317,60 @@ def _validate_deviations(block, key, issues):
 
 # ----------------------------------------------------------------- release
 
+DOI_REGISTRARS = {"zenodo", "datacite", "crossref"}
+DOI_RE = re.compile(r"^10\.\d{4,9}/\S+$")
+
+
+def _validate_release_doi(r, rec, key, issues):
+    """`release.doi` is optional, and it is written BEFORE the file is frozen.
+
+    A version is immutable, and a DOI is usually minted after publication,
+    which would mean editing a frozen file to add it. So the DOI is RESERVED
+    first (scripts/mint_release_doi.py --reserve; Zenodo pre-reserves one per
+    version) and written in, and the deposit is published after. The string
+    never changes; only its state at the registrar does, and that is looked
+    up, never stored, for the same reason "which version is current" is
+    derived rather than stated.
+
+    Three refusals. A DOI without its registrar cannot be checked or
+    published. A synthetic release may never carry one, because a DOI is
+    exactly the badge that makes a record read as real, and a simulation
+    wearing one would be the fabricated-citation failure this repo catalogues,
+    committed on purpose. And two versions may not share a DOI (checked across
+    the layer in _check_release_dois): a version is citable on its own."""
+    doi = r.get("doi")
+    if doi is None:
+        if r.get("doi_registrar") is not None:
+            _err(issues, key, "release.doi_registrar is set but release.doi is not")
+        return
+    if not isinstance(doi, str) or not DOI_RE.match(doi.strip()):
+        _err(issues, key, f"release.doi {doi!r} is not a DOI (10.<registrant>/<suffix>, "
+                          f"without the https://doi.org/ prefix)")
+    _enum(issues, key, r.get("doi_registrar"), DOI_REGISTRARS, "release.doi_registrar",
+          required=True)
+    source_type = (rec.get("provenance") or {}).get("source_type")
+    if source_type != "research":
+        _err(issues, key, f"release.doi is set but provenance.source_type is {source_type!r}; "
+                          f"only a research release may carry a DOI. A DOI on a simulation, "
+                          f"telemetry or a model's proposal reads as a published finding")
+
+
+def _check_release_dois(releases: dict) -> list:
+    """No two release versions may carry the same DOI."""
+    seen, issues = {}, []
+    for (rid, version), rec in sorted(releases.items()):
+        doi = ((rec or {}).get("release") or {}).get("doi")
+        if isinstance(doi, str):
+            k = doi.strip().lower()
+            if k in seen:
+                issues.append(f"releases/{rid}/{version}: release.doi {doi!r} is also on "
+                              f"releases/{seen[k]} — every version is citable on its own and "
+                              f"needs its own DOI")
+            else:
+                seen[k] = f"{rid}/{version}"
+    return issues
+
+
 def validate_release(rec, rid, version) -> list:
     issues: list = []
     key = f"releases/{rid}/{version}"
@@ -1336,6 +1390,7 @@ def validate_release(rec, rid, version) -> list:
     # asking is a paper, not an investigation.
     _str(issues, key, r.get("question"), "release.question", required=True)
     _date(issues, key, r.get("released_at"), "release.released_at", required=True)
+    _validate_release_doi(r, rec, key, issues)
 
     design = rec.get("research_design")
     if not isinstance(design, dict):
@@ -2623,6 +2678,7 @@ def validate_all() -> list:
         issues.extend(validate_protocol(rec, pid, version))
     for (rid, version), rec in sorted(releases.items()):
         issues.extend(validate_release(rec, rid, version))
+    issues.extend(_check_release_dois(releases))
     for (sid, version), rec in sorted(studies.items()):
         issues.extend(validate_study(rec, sid, version))
     for rid, rec in sorted(reviews.items()):
