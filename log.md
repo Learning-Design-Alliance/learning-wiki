@@ -10,6 +10,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-24
 
+* **Fix**: evidence sync tools — DOIs containing `(`/`)` are no longer truncated (`okf_lib.LINK_URL`), repairing 4 claim `resource:` values; `add_evidence_summary.py` keeps hand-written headers (10 kept); 10 claim source ids re-synced to their evidence anchors, as designed. Re-running both tools is now a no-op
 * **Ingest**: [claims/teaching-games-for-understanding-improves-tactical-decision-making](claims/teaching-games-for-understanding-improves-tactical-decision-making.md) — Guo, Yu & Malik (2026), *Frontiers in Psychology* 17, 1766890 (DOI resolved against Crossref), written from `observations/guo-2026.yaml`; linked from [elements/physical-education](elements/physical-education.md)
 * **Evidence edges**: `martinengo-2024` supports `spaced-practice-improves-retention`, `jemr-lexical-elaboration-2026` qualifies `elaborative-encoding-improves-retention`, `guo-2026` supports the new claim (anchored). Bearings confirmed by human:david. Every observation record is now cited by a claim
 * **Tooling**: `scripts/priority_worklist.py` — one ranked view of what to extract next (cited articles with no structured record, unread WWC/ESSA pages, and claims with no evidence), derived from committed state at run time so it stays current as people contribute; pushed branches mark rows in-flight

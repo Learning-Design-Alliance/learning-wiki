@@ -37,6 +37,18 @@ empty `## Evidence`, and "no line" cannot be told apart from "the script
 never ran here" — the same distinction this repo keeps between a Crossref
 outage and a Crossref verdict.
 
+## A hand-written line is kept
+
+Some claims carry a curated line, e.g. "3 studies · `q4` two meta-analyses ·
+`i3` large · testing over restudy", which says more than a derived range can.
+The script only replaces a line it could itself have written: the closed
+grammar of `summary_line()`, labels and all (`GENERATED_RE`). Anything else is
+reported as `kept` and left alone. The first version overwrote every
+`> **Evidence** ·` line, and would have flattened nine curated headers in an
+unattended batch with `lint.py` reporting zero. A kept line whose study count
+disagrees with the parsed entries is reported (`kept, count differs`) so a
+person can update it. It is never rewritten.
+
     python3 scripts/add_evidence_summary.py --check
     python3 scripts/add_evidence_summary.py --apply
 """
@@ -53,6 +65,7 @@ import okf_lib
 
 SCALES_PATH = WIKI_ROOT / "evidence-scales.json"
 SUMMARY_RE = re.compile(r"^>\s*\*\*Evidence\*\*\s*·.*$")
+GENERATED = None  # set in main(); needs evidence-scales.json
 BANNER_RE = re.compile(r"^>\s*\*\*[^*]+\*\*\s*·\s*\[[^\]]*\]\(index\.md\)\s*$")
 
 
@@ -60,6 +73,22 @@ def _labels():
     d = json.loads(SCALES_PATH.read_text(encoding="utf-8"))
     return ({t["code"]: t["label"] for t in d["quality"]["tiers"]},
             {t["code"]: t["label"] for t in d["impact"]["tiers"]})
+
+
+def generated_re() -> re.Pattern:
+    """Every line summary_line() can emit, and nothing else."""
+    q_lab, i_lab = _labels()
+
+    def field(f, labels):
+        names = "|".join(re.escape(v) for v in sorted(set(labels.values()), key=len, reverse=True) if v)
+        one = rf"`{f}\d`(?: (?:{names}))?" if names else rf"`{f}\d`"
+        return rf"(?: · (?:{one}|`{f}\d`–`{f}\d`))?"
+
+    return re.compile(r"^> \*\*Evidence\*\* · (?:none recorded yet|\d+ stud(?:y|ies)"
+                      + field("q", q_lab) + field("i", i_lab) + r"(?: · n=[^·]+)?)$")
+
+
+COUNT_RE = re.compile(r"^>\s*\*\*Evidence\*\*\s*·\s*(\d+)\s+(?:stud(?:y|ies)|sources?)\b")
 
 
 def summary_line(sources: list) -> str:
@@ -128,8 +157,17 @@ def process(path: Path, apply: bool):
 
     after = scan + 1
     if after < len(lines) and SUMMARY_RE.match(lines[after].strip()):
-        if lines[after].strip() == want:
+        have = lines[after].strip()
+        if have == want:
             return None
+        if not GENERATED.match(have):
+            # Hand-written: keep it, and flag only a count the parse disagrees with.
+            m = COUNT_RE.match(have)
+            n = sum(1 for s in sources if isinstance(s, dict) and ("q" in s or "i" in s))
+            if m and int(m.group(1)) != n:
+                return {"file": path.name, "action": "kept, count differs",
+                        "detail": f"says {m.group(1)}, entries parse to {n}: {have}"}
+            return {"file": path.name, "action": "kept", "detail": have}
         action = "updated"
         lines[after] = want
     else:
@@ -149,6 +187,8 @@ def main() -> None:
     g.add_argument("--apply", action="store_true")
     args = ap.parse_args()
 
+    global GENERATED
+    GENERATED = generated_re()
     counts, skipped = {}, []
     for path in sorted((WIKI_ROOT / "claims").glob("*.md")):
         if path.stem == "index":
@@ -158,13 +198,13 @@ def main() -> None:
             counts["unchanged"] = counts.get("unchanged", 0) + 1
             continue
         counts[rec["action"]] = counts.get(rec["action"], 0) + 1
-        if rec["action"] == "skipped":
-            skipped.append(f"{rec['file']}: {rec['detail']}")
+        if rec["action"] in ("skipped", "kept, count differs"):
+            skipped.append(f"{rec['action'].upper()} {rec['file']}: {rec['detail']}")
 
     verb = "" if args.apply else " (dry run)"
     print(f"claims/{verb}: " + ", ".join(f"{v} {k}" for k, v in sorted(counts.items())))
     for s in skipped[:10]:
-        print(f"      SKIPPED {s}")
+        print(f"      {s}")
 
 
 if __name__ == "__main__":

@@ -11,18 +11,18 @@ sources:
   - id: harp-mayer-1998
     resource: "https://doi.org/10.1037/0022-0663.90.3.414"
     title: "Harp, S. F., & Mayer, R. E. (1998). How seductive details do their damage: A theory of cognitive interest in science learning. *Journal of Educational Psychology, 90*(3), 414–434. [doi:10.1037/0022-0663.90.3.414](https://doi.org/10.1037/0022-0663.90.3.414)"
-    author: Harp, S. F., & Mayer, R. E.
+    author: "Harp, S. F., & Mayer, R. E."
     q: 3
     i: 3
-  - id: mayer-2001
+  - id: mayer-et-al-2001
     resource: "https://doi.org/10.1037/0022-0663.93.1.187"
     title: "Mayer, R. E., Heiser, J., & Lonn, S. (2001). Cognitive constraints on multimedia learning: When presenting more material results in less understanding. *Journal of Educational Psychology, 93*(1), 187–198. [doi:10.1037/0022-0663.93.1.187](https://doi.org/10.1037/0022-0663.93.1.187)"
-    author: Mayer, R. E., Heiser, J., & Lonn, S.
+    author: "Mayer, R. E., Heiser, J., & Lonn, S."
     q: 3
     i: 2
   - id: rey-2012
     resource: "https://doi.org/10.1016/j.edurev.2012.05.003"
-    title: "Rey, G. D. (2012). A review and meta-analysis of the seductive detail effect. *Educational Research Review, 7*(3), 216–237. [doi:10.1016/j.edurev.2012.05.003](https://doi.org/10.1016/j.edurev.2012.05.003)"
+    title: "Rey, G. D. (2012). A review of research and a meta-analysis of the seductive detail effect. *Educational Research Review, 7*(3), 216–237. [doi:10.1016/j.edurev.2012.05.003](https://doi.org/10.1016/j.edurev.2012.05.003)"
     author: Rey, G. D.
     q: 4
     i: 1
