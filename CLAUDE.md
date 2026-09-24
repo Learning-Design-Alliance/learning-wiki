@@ -88,6 +88,15 @@ work is done, not that the check is broken.
   catches copying, not prose retyped from memory, so an agent with the private repo
   attached must still treat anything it read there as embargoed unless told otherwise.
 
+- **No LDA research is published in this wiki yet, and none may be drafted here.**
+  `research/` holds synthetic scaffolding plus one real governance file
+  (`lazuli-platform-telemetry`, which forbids publication). A finding arrives only once
+  it is public, by the route in `research/PUBLISHING.md`: a protocol permitting
+  publication, a plan that predates the release, and a DOI **reserved before the release
+  file is frozen** (`scripts/mint_release_doi.py --reserve`). Only a `human:` actor
+  may `--publish`, which is irreversible. `release.doi` is refused on any non-`research`
+  release, because a DOI is exactly the badge that makes a simulation read as a finding.
+
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
@@ -1826,6 +1835,7 @@ ld-wiki/
     lint.py            ← health-check (see Lint above)
     verify_citation_edits.py ← after a citation tool writes: did it edit only citations? (see above)
     check_embargo.py   ← refuses to push embargoed research into this PUBLIC repo (see settled items)
+    mint_release_doi.py ← reserve, then publish, a Zenodo DOI for a research release (research/PUBLISHING.md)
 ```
 
 Each folder's `index.md` is itself a reserved OKF filename: no frontmatter (except the bundle-root's `okf_version`), and a plain `* [Title](slug.md) - description` bullet listing grouped by status. Regenerate these with `python3 scripts/build_indexes.py` rather than hand-editing them.
