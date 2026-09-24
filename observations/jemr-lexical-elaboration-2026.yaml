@@ -42,6 +42,10 @@ provenance:
     DOI was resolved against Crossref and passed classify_doi as `verified`;
     the author list is an open field on this record, not an invented one.
 
+appears_in:
+  - claim: elaborative-encoding-improves-retention
+    bearing: qualifies
+
 evidence_base:
   unit: participants
   size:

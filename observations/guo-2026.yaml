@@ -69,6 +69,11 @@ provenance:
   extraction_method: manual-from-publisher-fulltext
   verification: unverified
 
+appears_in:
+  - claim: teaching-games-for-understanding-improves-tactical-decision-making
+    anchor: guo-et-al-2026
+    bearing: supports
+
 evidence_base:
   unit: studies
   size:

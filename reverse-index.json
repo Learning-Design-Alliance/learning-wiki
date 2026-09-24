@@ -1,10 +1,11 @@
 {
  "coverage": {
-  "claims->claims": 366,
-  "claims->elements": 124,
+  "claims->claims": 367,
+  "claims->elements": 125,
+  "claims->learner-variables": 1,
   "claims->methods": 1,
   "claims->patterns": 103,
-  "claims->principles": 145,
+  "claims->principles": 146,
   "claims->processes": 1,
   "claims->theories": 282,
   "elements->claims": 170,
@@ -29105,6 +29106,9 @@
     "claims": [
      {
       "slug": "l1-predicts-l2-phoneme-perception-more-than-proficiency"
+     },
+     {
+      "slug": "teaching-games-for-understanding-improves-tactical-decision-making"
      }
     ]
    },
@@ -43763,6 +43767,15 @@
      {
       "polarity": "+",
       "slug": "situated-learning",
+      "strength": "M"
+     }
+    ]
+   },
+   "teaching-games-for-understanding-improves-tactical-decision-making": {
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "physical-education",
       "strength": "M"
      }
     ]
@@ -66802,6 +66815,11 @@
     ]
    },
    "direct-instruction": {
+    "claims": [
+     {
+      "slug": "teaching-games-for-understanding-improves-tactical-decision-making"
+     }
+    ],
     "elements": [
      {
       "slug": "explicit-teaching"
@@ -80317,6 +80335,13 @@
     "learner-variables": [
      {
       "slug": "access"
+     }
+    ]
+   },
+   "motivation": {
+    "claims": [
+     {
+      "slug": "teaching-games-for-understanding-improves-tactical-decision-making"
      }
     ]
    },
@@ -101161,6 +101186,11 @@
     ]
    },
    "cooperative-learning": {
+    "claims": [
+     {
+      "slug": "teaching-games-for-understanding-improves-tactical-decision-making"
+     }
+    ],
     "elements": [
      {
       "slug": "positive-interdependence"
@@ -112269,7 +112299,7 @@
  },
  "note": "Reverse edges: for each page, which pages link TO it. Built by scripts/build_reverse_index.py; see its docstring for why this direction rather than ## Examples.",
  "totals": {
-  "claims": 428,
+  "claims": 429,
   "elements": 327,
   "learner-variables": 12,
   "methods": 16,

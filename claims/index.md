@@ -2,7 +2,7 @@
 
 Empirical claims with evidence ratings, sources, and competing views.
 
-**428 entries** · 0 stable · 29 in review · 399 drafts
+**429 entries** · 0 stable · 29 in review · 400 drafts
 
 ---
 
@@ -479,6 +479,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Teacher Student Relationships Improve Engagement And Achievement](teacher-student-relationships-improve-engagement-and-achievement.md)
 * [Teacher-student scaffolding and autonomy support co-evolve into self-reinforcing attractor states over sustained one-on-one instruction](scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states.md)
 * [Teachers actively synthesize professional-development practices with their own context rather than transferring them intact](teachers-synthesize-pd-practices-with-context-not-just-transfer-them.md)
+* [Teaching Games for Understanding improves tactical decision-making more than traditional physical education instruction.](teaching-games-for-understanding-improves-tactical-decision-making.md) - Across 65 quasi-experimental physical education studies, Teaching Games for Understanding outperformed traditional technique-led instruction on tactical decision-making (SMD 0.83), the only model in the network whose estimate on that outcome clearly excluded zero.
 * [Teaching Others Generative Strategy](teaching-others-generative-strategy.md)
 * [Testing Effect Improves Learning](testing-effect-improves-learning.md)
 * [Testing Effect Improves Retention](testing-effect-improves-retention.md)
