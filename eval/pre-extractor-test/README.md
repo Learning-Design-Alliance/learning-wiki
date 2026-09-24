@@ -49,3 +49,30 @@ python3 -m scripts.eval.pre_extractor_test     # -> REPORT.md
 
 Per-article records land in `eval/runs/pxt-*`, which is gitignored like every other run.
 `REPORT.md` is committed.
+
+## First run, 2026-09-24
+
+**Only the agent arm ran.** The container's OpenRouter key has no credit, so every GLM and
+headless-Opus call returned HTTP 402, and so did the Gemini judge. Every agent row is
+therefore scored by the GPT judge alone. `run_headless.sh` completes the test once the key
+has credit, and then the report's decision rule can answer the GLM question.
+
+What the agent arm did, in brief (details in `REPORT.md`):
+
+- **17 of 17 included articles passed the validator.** The GPT judge averaged 4.22 on the
+  holdout and 4.17 on the benchmark.
+- **0 of 343 quotes were missing from their article.** A one-word, one-letter or one-digit
+  change to a quote fails this check.
+- **Every DOI verified against Crossref**, and no citation carried a DOI that resolves to
+  another paper.
+- **Both biomedical probes were rejected** as E2. The smoking-cessation one is borderline:
+  `INCLUSION.md` counts clinical settings as in scope, and the agent said so.
+- **Four manifest errors were corrected from the article itself.** Three were wrong years
+  (ej1327865, ej1276025, ed599273) and one was a wrong author list (arxiv-1602.07032).
+- **Cost:** 137k–242k tokens per article, about $0.46–1.03 at API list price. All 19 ran in
+  parallel in about 9 minutes. The slowest article took 8.5 minutes.
+
+**Operational fault to fix before a long run:** parallel agents shared the session
+scratchpad, so their helper scripts (`build.py`, `gen.py`) collided and one agent reran
+another's script. No output was corrupted, because every output was checked afterwards. A
+production run should give each agent its own working folder (`TASK.md` should say so).

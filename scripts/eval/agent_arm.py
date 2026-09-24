@@ -89,7 +89,9 @@ tools. Your output is scored by the same validator and the same judges.
 ## Rules
 - Do NOT write, edit or create any file outside this folder. Do not touch the
   wiki's content folders, git, or any other task folder.
-- Write exactly one file: `output.json` in this folder, a single JSON object
+- Keep any helper scripts in this folder too, never in a shared scratchpad: parallel agents
+  run at the same time and overwrite each other's files.
+- Write exactly one file of output: `output.json` in this folder, a single JSON object
   matching the output contract. Validate it with
   `python3 -c "import json; json.load(open('output.json'))"` before finishing.
 - Then run the structural validator and fix every ERROR it reports:

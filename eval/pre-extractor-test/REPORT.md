@@ -28,28 +28,28 @@ Written before any result was read.
 
 | arm | n | gen err | validator pass | completeness | judge (GPT+Gemini) | judge fails | contribs/article | study_record | quotes not in article | DOIs verified / wrong / 404 / lookup failed | $/article | median s/article |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| glm-v99 | 8 | 8 | 0% | 0.00 | — (0) | 0 | 0.0 | 0/8 | 0/0 (0%) | 0 / 0 / 0 / 0 | $0.0000 | — |
-| glm-v130 | 8 | 8 | 0% | 0.00 | — (0) | 0 | 0.0 | 0/8 | 0/0 (0%) | 0 / 0 / 0 / 0 | $0.0000 | — |
-| opus-v130 | 8 | 8 | 0% | 0.00 | — (0) | 0 | 0.0 | 0/8 | 0/0 (0%) | 0 / 0 / 0 / 0 | $0.0000 | — |
+| glm-v99 | 8 | 8 | not run: every generation failed (see the records' generation.error) | | | | | | | | | |
+| glm-v130 | 8 | 8 | not run: every generation failed (see the records' generation.error) | | | | | | | | | |
+| opus-v130 | 8 | 8 | not run: every generation failed (see the records' generation.error) | | | | | | | | | |
 | agent | 8 | 0 | 100% | 1.00 | 4.22 (8) | 1 | 9.9 | 4/8 | 0/94 (0%) | 1 / 0 / 0 / 0 | $0.458–0.982 | 156 |
 
 ## benchmark
 
 | arm | n | gen err | validator pass | completeness | judge (GPT+Gemini) | judge fails | contribs/article | study_record | quotes not in article | DOIs verified / wrong / 404 / lookup failed | $/article | median s/article |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| glm-v99 | 9 | 9 | 0% | 0.00 | — (0) | 0 | 0.0 | 0/9 | 0/0 (0%) | 0 / 0 / 0 / 0 | $0.0000 | — |
-| glm-v130 | 9 | 9 | 0% | 0.00 | — (0) | 0 | 0.0 | 0/9 | 0/0 (0%) | 0 / 0 / 0 / 0 | $0.0000 | — |
-| opus-v130 | 9 | 9 | 0% | 0.00 | — (0) | 0 | 0.0 | 0/9 | 0/0 (0%) | 0 / 0 / 0 / 0 | $0.0000 | — |
-| agent | 8 | 0 | 100% | 1.00 | 4.16 (8) | 0 | 14.1 | 7/8 | 0/163 (0%) | 5 / 0 / 0 / 0 | $0.465–1.050 | 210 |
+| glm-v99 | 9 | 9 | not run: every generation failed (see the records' generation.error) | | | | | | | | | |
+| glm-v130 | 9 | 9 | not run: every generation failed (see the records' generation.error) | | | | | | | | | |
+| opus-v130 | 9 | 9 | not run: every generation failed (see the records' generation.error) | | | | | | | | | |
+| agent | 9 | 0 | 100% | 1.00 | 4.17 (9) | 0 | 17.6 | 7/9 | 0/249 (0%) | 6 / 0 / 0 / 0 | $0.468–1.076 | 216 |
 
 ## all-included
 
 | arm | n | gen err | validator pass | completeness | judge (GPT+Gemini) | judge fails | contribs/article | study_record | quotes not in article | DOIs verified / wrong / 404 / lookup failed | $/article | median s/article |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| glm-v99 | 17 | 17 | 0% | 0.00 | — (0) | 0 | 0.0 | 0/17 | 0/0 (0%) | 0 / 0 / 0 / 0 | $0.0000 | — |
-| glm-v130 | 17 | 17 | 0% | 0.00 | — (0) | 0 | 0.0 | 0/17 | 0/0 (0%) | 0 / 0 / 0 / 0 | $0.0000 | — |
-| opus-v130 | 17 | 17 | 0% | 0.00 | — (0) | 0 | 0.0 | 0/17 | 0/0 (0%) | 0 / 0 / 0 / 0 | $0.0000 | — |
-| agent | 16 | 0 | 100% | 1.00 | 4.19 (16) | 1 | 12.0 | 11/16 | 0/257 (0%) | 6 / 0 / 0 / 0 | $0.462–1.016 | 194 |
+| glm-v99 | 17 | 17 | not run: every generation failed (see the records' generation.error) | | | | | | | | | |
+| glm-v130 | 17 | 17 | not run: every generation failed (see the records' generation.error) | | | | | | | | | |
+| opus-v130 | 17 | 17 | not run: every generation failed (see the records' generation.error) | | | | | | | | | |
+| agent | 17 | 0 | 100% | 1.00 | 4.19 (17) | 1 | 13.9 | 11/17 | 0/343 (0%) | 7 / 0 / 0 / 0 | $0.463–1.032 | 202 |
 
 ## Reject probes
 
@@ -70,10 +70,7 @@ From the all-included rows. Agent cost is a bracket (all context a cache read, v
 
 | arm | $ per 1,000 | batch wall-clock (this test) |
 |---|---|---|
-| glm-v99 | $0.00 | — |
-| glm-v130 | $0.00 | — |
-| opus-v130 | $0.00 | — |
-| agent | $462–1,016 | — |
+| agent | $463–1,032 | 9 min |
 
 ## What the rule says (holdout)
 

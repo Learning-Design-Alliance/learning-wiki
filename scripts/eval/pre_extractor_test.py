@@ -261,6 +261,10 @@ def main() -> None:
             if not s:
                 out.append(f"| {arm['label']} | 0 | | | | | | | | | | | |")
                 continue
+            if s["gen_errors"] == s["n"]:
+                out.append(f"| {arm['label']} | {s['n']} | {s['gen_errors']} | not run: every generation failed "
+                           "(see the records' generation.error) | | | | | | | | | |")
+                continue
             cost = (f"${s['cost_low']:.3f}–{s['cost_high']:.3f}" if arm["label"] == "agent"
                     else f"${s['cost_per_article']:.4f}")
             d = s["doi"]
@@ -286,7 +290,7 @@ def main() -> None:
             "| arm | $ per 1,000 | batch wall-clock (this test) |", "|---|---|---|"]
     for arm in arms:
         s = allinc[arm["label"]]
-        if not s:
+        if not s or s["gen_errors"] == s["n"]:
             continue
         c = (f"${s['cost_low'] * 1000:,.0f}–{s['cost_high'] * 1000:,.0f}" if arm["label"] == "agent"
              else f"${s['cost_per_article'] * 1000:,.2f}")
