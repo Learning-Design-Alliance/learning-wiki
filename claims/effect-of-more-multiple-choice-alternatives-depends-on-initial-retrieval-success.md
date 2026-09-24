@@ -12,16 +12,21 @@ sources:
   - id: karpicke-2017
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
-    author: Karpicke, J. D
+    author: Karpicke, J. D.
+    q: 2
+    i: "?"
   - id: karpicke-2017-2
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
-    author: Karpicke, J. D
+    author: Karpicke, J. D.
+    q: 2
+    i: "?"
 ---
 
 # Having more multiple-choice alternatives benefits later retention when initial retrieval success is high but hurts learning when it is low
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Butler et al. (2006), that more alternatives benefit subsequent retention when initial retrieval success is high. [→ Karpicke 2017](#karpicke-2017)

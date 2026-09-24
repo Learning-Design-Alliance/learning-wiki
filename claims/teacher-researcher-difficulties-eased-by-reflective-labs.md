@@ -13,19 +13,26 @@ sources:
     resource: "https://eric.ed.gov/?id=ED367146"
     title: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146"
     author: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest"
+    q: 1
+    i: "?"
   - id: funds-of-knowledge-learning-from-language-minority-households-eric-digest-1994-2
     resource: "https://eric.ed.gov/?id=ED367146"
     title: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146"
     author: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest"
+    q: 1
+    i: "?"
   - id: funds-of-knowledge-learning-from-language-minority-households-eric-digest-1994-3
     resource: "https://eric.ed.gov/?id=ED367146"
     title: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146"
     author: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest"
+    q: 1
+    i: "?"
 ---
 
 # Teacher-researchers in funds of knowledge work face difficulties, including helpless pessimism and heavy time demands, which reflective after-school labs helped them overcome; they judged the process worthwhile.
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 3 studies · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Realising the formidable social and structural limitations families face can produce helpless pessimism, which the digest says can be dispelled as teachers know families better and engage in reflective discourse in after-school labs. [→ Funds of Knowledge: Learning from Language Minority Households. ERIC Digest 1994](#funds-of-knowledge-learning-from-language-minority-households-eric-digest-1994)

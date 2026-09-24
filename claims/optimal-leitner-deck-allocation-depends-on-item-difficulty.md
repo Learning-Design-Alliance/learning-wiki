@@ -12,12 +12,15 @@ sources:
   - id: reddy-2016
     resource: "https://doi.org/10.1145/2939672.2939850"
     title: "Reddy, S., Labutov, I., Banerjee, S., & Joachims, T. (2016). Unbounded Human Learning: Optimal Scheduling for Spaced Repetition. KDD ’16, San Francisco, CA, USA. https://doi.org/10.1145/2939672.2939850"
-    author: "Reddy, S., Labutov, I., Banerjee, S., & Joachims, T"
+    author: "Reddy, S., Labutov, I., Banerjee, S., & Joachims, T."
+    q: 1
+    i: "?"
 ---
 
 # Under the Leitner Queue Network optimization, easy items call for roughly uniform time across decks, while more difficult items call for more time on lower decks.
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Comparing optimal schedules for different item difficulties at the same budget (Fig. 12) suggests uniform deck time for easy items and more lower-deck time for harder items. [→ Reddy 2016](#reddy-2016)

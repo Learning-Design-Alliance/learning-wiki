@@ -12,20 +12,27 @@ sources:
   - id: shen-2006
     resource: "https://eric.ed.gov/?id=ED491961"
     title: "Shen, C.-Y., & O’Neil, H. (2006). The Effectiveness of Worked Examples in a Game-Based Learning Environment. Paper presented at the annual meeting of the American Educational Research Association (AERA), San Francisco, CA. https://eric.ed.gov/?id=ED491961"
-    author: "Shen, C.-Y., & O’Neil, H"
+    author: "Shen, C.-Y., & O’Neil, H."
+    q: 2
+    i: "?"
   - id: shen-2006-2
     resource: "https://eric.ed.gov/?id=ED491961"
     title: "Shen, C.-Y., & O’Neil, H. (2006). The Effectiveness of Worked Examples in a Game-Based Learning Environment. Paper presented at the annual meeting of the American Educational Research Association (AERA), San Francisco, CA. https://eric.ed.gov/?id=ED491961"
-    author: "Shen, C.-Y., & O’Neil, H"
+    author: "Shen, C.-Y., & O’Neil, H."
+    q: 2
+    i: "?"
   - id: shen-2006-3
     resource: "https://eric.ed.gov/?id=ED491961"
     title: "Shen, C.-Y., & O’Neil, H. (2006). The Effectiveness of Worked Examples in a Game-Based Learning Environment. Paper presented at the annual meeting of the American Educational Research Association (AERA), San Francisco, CA. https://eric.ed.gov/?id=ED491961"
-    author: "Shen, C.-Y., & O’Neil, H"
+    author: "Shen, C.-Y., & O’Neil, H."
+    q: 2
+    i: "?"
 ---
 
 # In a game-based problem-solving study, trait self-regulation scores related significantly only to knowledge map scores, with higher planning, self-monitoring, effort and self-efficacy going with better knowledge map performance
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 3 studies · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Across the total sample, significant relationships were found only between trait self-regulation questionnaire scores and knowledge map scores. [→ Shen 2006](#shen-2006)

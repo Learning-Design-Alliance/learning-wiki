@@ -12,12 +12,15 @@ sources:
   - id: nero-2021
     resource: "https://doi.org/10.24191/ajue.v17i4.16222"
     title: "Nero, C. A., & Zulkiply, N. (2021). The Effects of Retrieval Practice Across Levels of Thinking and Retention Interval on Reading Comprehension. Asian Journal of University Education (AJUE), 17(4). https://doi.org/10.24191/ajue.v17i4.16222"
-    author: "Nero, C. A., & Zulkiply, N"
+    author: "Nero, C. A., & Zulkiply, N."
+    q: 3
+    i: "?"
 ---
 
 # Short-answer (production) and multiple-choice (recognition) retrieval practice produce no statistically significant difference in undergraduates' reading comprehension on a final MCQ test
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` In one classroom experiment, reading comprehension did not differ significantly between production-test and recognition-test retrieval practice (F(1, 98) = 1.31, p = .255); equivalence was not tested. [→ Nero 2021](#nero-2021)

@@ -12,16 +12,21 @@ sources:
   - id: göktürk-2021
     resource: "https://doi.org/10.24106/kefdergi.732138"
     title: "Göktürk, D. (2021). Epistemic Injustice and Cultural Processes in Education. Kastamonu Education Journal, 29(1), 218-227. https://doi.org/10.24106/kefdergi.732138"
-    author: Göktürk, D
+    author: Göktürk, D.
+    q: 1
+    i: "?"
   - id: göktürk-2021-2
     resource: "https://doi.org/10.24106/kefdergi.732138"
     title: "Göktürk, D. (2021). Epistemic Injustice and Cultural Processes in Education. Kastamonu Education Journal, 29(1), 218-227. https://doi.org/10.24106/kefdergi.732138"
-    author: Göktürk, D
+    author: Göktürk, D.
+    q: 1
+    i: "?"
 ---
 
 # In a pedagogical space, epistemic injustice might be activated when teachers' identity prejudice leads them to give a student less credit, and the curriculum can block or enable students' understanding and expression of their social experiences
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Drawing on Kotzee (2017), the article argues that epistemic injustice might be activated by giving a student less credit because of teachers' identity prejudice, so that the student's testimony is taken less seriously. [→ Göktürk 2021](#gokturk-2021)

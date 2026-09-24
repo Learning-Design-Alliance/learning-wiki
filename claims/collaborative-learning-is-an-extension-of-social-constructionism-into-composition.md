@@ -12,12 +12,15 @@ sources:
   - id: deciccio-1988
     resource: "https://eric.ed.gov/?id=ED294201"
     title: "DeCiccio, Albert C. (1988). Social Constructionism and Collaborative Learning: Recommendations for Teaching Writing. Paper presented at the Annual Meeting of the Conference on College Composition and Communication. https://eric.ed.gov/?id=ED294201"
-    author: DeCiccio, Albert C
+    author: DeCiccio, Albert C.
+    q: 1
+    i: "?"
 ---
 
 # If writing and thinking are forms of conversation, collaborative learning is an extension of social constructionism into the composition classroom
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The paper argues that, if writing and thinking are conversation and conversation is how communities of scholars create knowledge, collaborative learning extends social constructionism into the composition classroom. [→ DeCiccio 1988](#deciccio-1988)

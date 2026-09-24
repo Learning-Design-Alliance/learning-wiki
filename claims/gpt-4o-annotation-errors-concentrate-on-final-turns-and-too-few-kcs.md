@@ -13,15 +13,20 @@ sources:
     resource: "https://arxiv.org/abs/2409.16490"
     title: "Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490"
     author: Alexander Scarlatos, Ryan S. Baker, and Andrew Lan
+    q: 1
+    i: "?"
   - id: alexander-scarlatos-2024-2
     resource: "https://arxiv.org/abs/2409.16490"
     title: "Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490"
     author: Alexander Scarlatos, Ryan S. Baker, and Andrew Lan
+    q: 1
+    i: "?"
 ---
 
 # GPT-4o's correctness-labeling errors concentrate on final turns requiring numerical calculation, and its main KC-labeling error is assigning too few standards to a turn.
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Most GPT-4o correctness errors are on the final turn, especially where numerical calculations are needed to verify correctness. [→ Alexander Scarlatos 2024](#alexander-scarlatos-2024)

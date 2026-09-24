@@ -12,16 +12,21 @@ sources:
   - id: bellhäuser-2022
     resource: "https://doi.org/10.3389/fpsyg.2022.813381"
     title: "Bellhäuser, H., Liborius, P., & Schmitz, B. (2022). Fostering Self-Regulated Learning in Online Environments: Positive Effects of a Web-Based Training With Peer Feedback on Learning Behavior. Frontiers in Psychology, 13, 813381. https://doi.org/10.3389/fpsyg.2022.813381"
-    author: "Bellhäuser, H., Liborius, P., & Schmitz, B"
+    author: "Bellhäuser, H., Liborius, P., & Schmitz, B."
+    q: 3
+    i: "?"
   - id: bellhäuser-2022-2
     resource: "https://doi.org/10.3389/fpsyg.2022.813381"
     title: "Bellhäuser, H., Liborius, P., & Schmitz, B. (2022). Fostering Self-Regulated Learning in Online Environments: Positive Effects of a Web-Based Training With Peer Feedback on Learning Behavior. Frontiers in Psychology, 13, 813381. https://doi.org/10.3389/fpsyg.2022.813381"
-    author: "Bellhäuser, H., Liborius, P., & Schmitz, B"
+    author: "Bellhäuser, H., Liborius, P., & Schmitz, B."
+    q: 3
+    i: "?"
 ---
 
 # Web-based SRL training interventions produced statistically significant group by time interactions on the SRL subscales planning, self-motivation, volition, elaboration and metacognition, but not on goal-setting or reflection
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Univariate ANOVAs showed significant interactions for planning, self-motivation, volition, elaboration and metacognition, with Group TDP outperforming the other two intervention groups. [→ Bellhäuser 2022](#bellhauser-2022)

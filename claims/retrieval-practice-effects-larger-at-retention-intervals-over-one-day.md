@@ -12,16 +12,21 @@ sources:
   - id: karpicke-2017
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
-    author: Karpicke, J. D
+    author: Karpicke, J. D.
+    q: 3
+    i: 2
   - id: karpicke-2017-2
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
-    author: Karpicke, J. D
+    author: Karpicke, J. D.
+    q: 3
+    i: 2
 ---
 
 # Retrieval practice effects are larger at retention intervals greater than 1 day (g = 0.69) than at intervals less than 1 day (g = 0.41) in Rowland's (2014) meta-analysis
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` Rowland's (2014) meta-analysis, as reported in the chapter, found g = 0.69 at retention intervals greater than 1 day. [→ Karpicke 2017](#karpicke-2017)

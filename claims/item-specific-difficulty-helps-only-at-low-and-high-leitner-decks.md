@@ -12,12 +12,15 @@ sources:
   - id: reddy-2016
     resource: "https://doi.org/10.1145/2939672.2939850"
     title: "Reddy, S., Labutov, I., Banerjee, S., & Joachims, T. (2016). Unbounded Human Learning: Optimal Scheduling for Spaced Repetition. KDD ’16, San Francisco, CA, USA. https://doi.org/10.1145/2939672.2939850"
-    author: "Reddy, S., Labutov, I., Banerjee, S., & Joachims, T"
+    author: "Reddy, S., Labutov, I., Banerjee, S., & Joachims, T."
+    q: 2
+    i: "?"
 ---
 
 # In Mnemosyne log data, item-specific difficulty parameters outperform a global difficulty for lower and higher Leitner decks, while global difficulty performs better for intermediate decks.
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Item-specific difficulties outperformed a global item difficulty for decks q ≤ 2 and q > 5, but the global difficulty performed better for intermediate decks; no numeric AUC values are printed. [→ Reddy 2016](#reddy-2016)

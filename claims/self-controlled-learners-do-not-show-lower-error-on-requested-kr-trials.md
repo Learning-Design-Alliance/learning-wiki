@@ -12,20 +12,27 @@ sources:
   - id: carter-2014
     resource: "https://doi.org/10.3389/fpsyg.2014.01325"
     title: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005). Frontiers in Psychology, 5, 1325. https://doi.org/10.3389/fpsyg.2014.01325"
-    author: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M"
+    author: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M."
+    q: 3
+    i: 1
   - id: carter-2014-2
     resource: "https://doi.org/10.3389/fpsyg.2014.01325"
     title: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005). Frontiers in Psychology, 5, 1325. https://doi.org/10.3389/fpsyg.2014.01325"
-    author: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M"
+    author: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M."
+    q: 3
+    i: 3
   - id: carter-2014-3
     resource: "https://doi.org/10.3389/fpsyg.2014.01325"
     title: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005). Frontiers in Psychology, 5, 1325. https://doi.org/10.3389/fpsyg.2014.01325"
-    author: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M"
+    author: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M."
+    q: 2
+    i: "?"
 ---
 
 # In this experiment, self-controlled learners showed no difference in error between trials on which they requested knowledge of results and trials on which they did not, whereas yoked learners had lower error on no-KR trials.
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 3 studies · `q2`–`q3` · `i1`–`i3`
 
 ## Subclaims
 `q3 i1` A Choice × Type interaction (F(1,42) = 5.80, p= 0.021, ηp2 = 0.12): Yoked groups had lower AE on no-KR than KR trials, with no KR versus no-KR differences for the self-controlled groups. [→ Carter 2014](#carter-2014)

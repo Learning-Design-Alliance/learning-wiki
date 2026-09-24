@@ -12,16 +12,21 @@ sources:
   - id: gupta-2020
     resource: "https://doi.org/10.20897/ejsteme/9252"
     title: "Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252"
-    author: "Gupta, U., & Zheng, R. Z"
+    author: "Gupta, U., & Zheng, R. Z."
+    q: 3
+    i: 3
   - id: gupta-2020-2
     resource: "https://doi.org/10.20897/ejsteme/9252"
     title: "Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252"
-    author: "Gupta, U., & Zheng, R. Z"
+    author: "Gupta, U., & Zheng, R. Z."
+    q: 3
+    i: "?"
 ---
 
 # High- and low-prior-knowledge learners differ significantly on an algebra posttest and on intrinsic and germane cognitive load, but not on extraneous load
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` Prior knowledge (high vs low) had significant main effects on the posttest (F1, 107 = 121.64, p < .001, ŋ2 = .53), intrinsic load (ŋ2 = .17) and germane load (ŋ2 = .15). [→ Gupta 2020](#gupta-2020)

@@ -12,16 +12,21 @@ sources:
   - id: bellhäuser-2022
     resource: "https://doi.org/10.3389/fpsyg.2022.813381"
     title: "Bellhäuser, H., Liborius, P., & Schmitz, B. (2022). Fostering Self-Regulated Learning in Online Environments: Positive Effects of a Web-Based Training With Peer Feedback on Learning Behavior. Frontiers in Psychology, 13, 813381. https://doi.org/10.3389/fpsyg.2022.813381"
-    author: "Bellhäuser, H., Liborius, P., & Schmitz, B"
+    author: "Bellhäuser, H., Liborius, P., & Schmitz, B."
+    q: 3
+    i: 2
   - id: bellhäuser-2022-2
     resource: "https://doi.org/10.3389/fpsyg.2022.813381"
     title: "Bellhäuser, H., Liborius, P., & Schmitz, B. (2022). Fostering Self-Regulated Learning in Online Environments: Positive Effects of a Web-Based Training With Peer Feedback on Learning Behavior. Frontiers in Psychology, 13, 813381. https://doi.org/10.3389/fpsyg.2022.813381"
-    author: "Bellhäuser, H., Liborius, P., & Schmitz, B"
+    author: "Bellhäuser, H., Liborius, P., & Schmitz, B."
+    q: 3
+    i: "?"
 ---
 
 # Logged time investment on an online mathematics preparation platform differed significantly across SRL intervention groups, rising from control through diary and training + diary to training + diary + peer feedback groups
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` Mean logged time was 21.03 h (Group C), 28.23 h (Group D), 29.32 h (Group TD) and 33.56 h (Group TDP), a significant difference (F(3, 132) = 3.08; p = 0.030; ηp2 = 0.06). [→ Bellhäuser 2022](#bellhauser-2022)

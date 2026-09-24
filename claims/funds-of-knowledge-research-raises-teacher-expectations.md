@@ -13,19 +13,26 @@ sources:
     resource: "https://eric.ed.gov/?id=ED367146"
     title: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146"
     author: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest"
+    q: 1
+    i: "?"
   - id: funds-of-knowledge-learning-from-language-minority-households-eric-digest-1994-2
     resource: "https://eric.ed.gov/?id=ED367146"
     title: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146"
     author: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest"
+    q: 1
+    i: "?"
   - id: funds-of-knowledge-learning-from-language-minority-households-eric-digest-1994-3
     resource: "https://eric.ed.gov/?id=ED367146"
     title: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146"
     author: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest"
+    q: 1
+    i: "?"
 ---
 
 # Teachers who took part in funds of knowledge household research came to view their minority students as competent and raised their expectations of them.
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 3 studies · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` After the research activities, teachers came to view students as "competent participants in households rich in cognitive resources" and raised their expectations of students' abilities. [→ Funds of Knowledge: Learning from Language Minority Households. ERIC Digest 1994](#funds-of-knowledge-learning-from-language-minority-households-eric-digest-1994)

@@ -12,12 +12,15 @@ sources:
   - id: shen-2006
     resource: "https://eric.ed.gov/?id=ED491961"
     title: "Shen, C.-Y., & O’Neil, H. (2006). The Effectiveness of Worked Examples in a Game-Based Learning Environment. Paper presented at the annual meeting of the American Educational Research Association (AERA), San Francisco, CA. https://eric.ed.gov/?id=ED491961"
-    author: "Shen, C.-Y., & O’Neil, H"
+    author: "Shen, C.-Y., & O’Neil, H."
+    q: 3
+    i: "?"
 ---
 
 # Adult players who studied worked examples scored significantly higher on a game-based problem-solving retention question than a control group
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` The worked example group improved significantly more than the control group on the problem-solving retention question (adjusted posttest means 4.18 vs. 3.54). [→ Shen 2006](#shen-2006)

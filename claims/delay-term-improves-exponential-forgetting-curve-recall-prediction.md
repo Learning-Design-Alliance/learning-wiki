@@ -12,12 +12,15 @@ sources:
   - id: reddy-2016
     resource: "https://doi.org/10.1145/2939672.2939850"
     title: "Reddy, S., Labutov, I., Banerjee, S., & Joachims, T. (2016). Unbounded Human Learning: Optimal Scheduling for Spaced Repetition. KDD ’16, San Francisco, CA, USA. https://doi.org/10.1145/2939672.2939850"
-    author: "Reddy, S., Labutov, I., Banerjee, S., & Joachims, T"
+    author: "Reddy, S., Labutov, I., Banerjee, S., & Joachims, T."
+    q: 2
+    i: "?"
 ---
 
 # In Mnemosyne flashcard log data, adding a delay term improves the recall-prediction performance of exponential forgetting curve memory models.
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Across paired exponential forgetting curve models with and without a delay term, incorporating the delay term improved predictive performance on Mnemosyne log data; no numeric AUC values are printed in the text. [→ Reddy 2016](#reddy-2016)

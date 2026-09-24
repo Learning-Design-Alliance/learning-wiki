@@ -12,16 +12,21 @@ sources:
   - id: carter-2014
     resource: "https://doi.org/10.3389/fpsyg.2014.01325"
     title: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005). Frontiers in Psychology, 5, 1325. https://doi.org/10.3389/fpsyg.2014.01325"
-    author: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M"
+    author: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M."
+    q: 3
+    i: "?"
   - id: carter-2014-2
     resource: "https://doi.org/10.3389/fpsyg.2014.01325"
     title: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005). Frontiers in Psychology, 5, 1325. https://doi.org/10.3389/fpsyg.2014.01325"
-    author: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M"
+    author: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M."
+    q: 2
+    i: "?"
 ---
 
 # Allowing learners to request knowledge of results before a trial and then revise the choice after it (Self-Both) did not produce learning beyond deciding only after the trial (Self-After), which the authors take as no support for an additive motivational-plus-informational effect.
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q2`–`q3`
 
 ## Subclaims
 `q3 i?` Self-After (M = 10.04) and Self-Both (M = 12.45) did not differ significantly in retention absolute error; equivalence was not tested. [→ Carter 2014](#carter-2014)

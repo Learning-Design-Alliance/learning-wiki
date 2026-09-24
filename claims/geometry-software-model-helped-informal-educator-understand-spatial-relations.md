@@ -13,11 +13,14 @@ sources:
     resource: "https://eric.ed.gov/?id=ED658339"
     title: "Lili Zhou. (2023). Humanizing Mathematics through Boundary Crossing Collaboration. Proceedings of the forty-fifth annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education (Vol. 2). https://eric.ed.gov/?id=ED658339"
     author: Lili Zhou
+    q: 1
+    i: "?"
 ---
 
 # A dynamic geometry model of the quilt problem helped an informal educator understand its spatial relations
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` After email explanation failed, a geometry-software model of the fabric and quilt was reported by the informal educator as very helpful for understanding the spatial relations. [→ Lili Zhou 2023](#lili-zhou-2023)

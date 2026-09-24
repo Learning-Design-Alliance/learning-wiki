@@ -12,12 +12,15 @@ sources:
   - id: bellhäuser-2022
     resource: "https://doi.org/10.3389/fpsyg.2022.813381"
     title: "Bellhäuser, H., Liborius, P., & Schmitz, B. (2022). Fostering Self-Regulated Learning in Online Environments: Positive Effects of a Web-Based Training With Peer Feedback on Learning Behavior. Frontiers in Psychology, 13, 813381. https://doi.org/10.3389/fpsyg.2022.813381"
-    author: "Bellhäuser, H., Liborius, P., & Schmitz, B"
+    author: "Bellhäuser, H., Liborius, P., & Schmitz, B."
+    q: 3
+    i: "?"
 ---
 
 # A daily learning diary alone (Group D) did not produce statistically significant pre-post gains on any measured outcome in an online mathematics preparation course
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Groups C and D showed no statistically significant increases in any dependent variable in the planned gain contrasts. [→ Bellhäuser 2022](#bellhauser-2022)

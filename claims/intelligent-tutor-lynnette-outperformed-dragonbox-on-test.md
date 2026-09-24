@@ -13,11 +13,14 @@ sources:
     resource: "https://arxiv.org/abs/2105.15106"
     title: "Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen. (2021). A Survey of Knowledge Tracing: Models, Variants, and Applications. https://arxiv.org/abs/2105.15106"
     author: Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen
+    q: 2
+    i: "?"
 ---
 
 # The survey reports, citing Long and Aleven, that students who used DragonBox enjoyed the experience more, while students who used the Lynnette intelligent tutoring system performed significantly better on the test.
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The review reports a classroom experiment in which DragonBox users enjoyed the experience more but Lynnette users performed significantly better on the test. [→ Shuanghong Shen 2021](#shuanghong-shen-2021)

@@ -248,6 +248,16 @@ def parse_evidence_sources(evidence_section: str) -> list:
         entry = {"id": sid}
         if url_m:
             entry["resource"] = url_m.group(1)
+        elif citation_m:
+            # A bare URL on the citation line, as ingest_extractions writes it
+            # (`... Frontiers in Psychology, 5, 1325. https://doi.org/...`).
+            # Reading only the (link) form made sync_evidence_codes --apply
+            # rebuild 267 entries on 144 pages WITHOUT their resource, i.e.
+            # strip every DOI from them (caught by parsing before and after,
+            # 2026-09-24). A trailing sentence period is not part of a URL.
+            bare_m = re.search(LINK_URL, citation_m.group(1))
+            if bare_m:
+                entry["resource"] = bare_m.group(1).rstrip(".,;")
         if citation_m:
             entry["title"] = citation_m.group(1).strip()
         else:

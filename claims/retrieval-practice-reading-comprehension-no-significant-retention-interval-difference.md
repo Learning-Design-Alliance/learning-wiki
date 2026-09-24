@@ -12,12 +12,15 @@ sources:
   - id: nero-2021
     resource: "https://doi.org/10.24191/ajue.v17i4.16222"
     title: "Nero, C. A., & Zulkiply, N. (2021). The Effects of Retrieval Practice Across Levels of Thinking and Retention Interval on Reading Comprehension. Asian Journal of University Education (AJUE), 17(4). https://doi.org/10.24191/ajue.v17i4.16222"
-    author: "Nero, C. A., & Zulkiply, N"
+    author: "Nero, C. A., & Zulkiply, N."
+    q: 3
+    i: "?"
 ---
 
 # Final-test reading comprehension after retrieval practice does not differ significantly between an immediate test and a test delayed by three weeks
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Students randomly assigned to a short-retention (immediate) or long-retention (three-week delay) final test showed no statistically significant difference in reading comprehension (F(1, 98) = 1.30, p = .257). [→ Nero 2021](#nero-2021)

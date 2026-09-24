@@ -12,12 +12,15 @@ sources:
   - id: small-1997
     resource: "https://eric.ed.gov/?id=ED409895"
     title: "Small, Ruth V. (1997). Motivation in Instructional Design. ERIC Digest. ERIC Clearinghouse on Information and Technology. https://eric.ed.gov/?id=ED409895"
-    author: Small, Ruth V
+    author: Small, Ruth V.
+    q: 1
+    i: "?"
 ---
 
 # Instruction should present the learning task as engaging and meaningful and promote positive expectations of success, because effort requires that learners value the task and believe they can succeed
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The digest argues, from expectancy-value theory, that effort needs two prerequisites (valuing the task and believing one can succeed), so the learning task should be engaging, meaningful and promote positive expectations of success. [→ Small 1997](#small-1997)

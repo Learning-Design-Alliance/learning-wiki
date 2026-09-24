@@ -12,16 +12,21 @@ sources:
   - id: gupta-2020
     resource: "https://doi.org/10.20897/ejsteme/9252"
     title: "Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252"
-    author: "Gupta, U., & Zheng, R. Z"
+    author: "Gupta, U., & Zheng, R. Z."
+    q: 3
+    i: 1
   - id: gupta-2020-2
     resource: "https://doi.org/10.20897/ejsteme/9252"
     title: "Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252"
-    author: "Gupta, U., & Zheng, R. Z"
+    author: "Gupta, U., & Zheng, R. Z."
+    q: 3
+    i: "?"
 ---
 
 # Prior knowledge and worked-example type (full vs completion) interact significantly on self-reported germane cognitive load, but not on intrinsic or extraneous load
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i1` small
 
 ## Subclaims
 `q3 i1` A significant prior knowledge by worked-example interaction was found on germane cognitive load (F1, 107 = 4.72, p < .05, ŋ2 = .04). [→ Gupta 2020](#gupta-2020)

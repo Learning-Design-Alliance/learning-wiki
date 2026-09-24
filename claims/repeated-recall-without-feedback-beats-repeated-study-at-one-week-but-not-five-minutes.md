@@ -12,20 +12,27 @@ sources:
   - id: karpicke-2017
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
-    author: Karpicke, J. D
+    author: Karpicke, J. D.
+    q: 2
+    i: "?"
   - id: karpicke-2017-2
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
-    author: Karpicke, J. D
+    author: Karpicke, J. D.
+    q: 2
+    i: "?"
   - id: karpicke-2017-3
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
-    author: Karpicke, J. D
+    author: Karpicke, J. D.
+    q: 2
+    i: "?"
 ---
 
 # Repeatedly recalling a text without feedback or rereading produces the best one-week retention, while repeated studying leads on a final test at the end of the session
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 3 studies · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Roediger and Karpicke (2006b), that students who recalled a text three times (STTT) remembered the most on a final test 1 week later. [→ Karpicke 2017](#karpicke-2017)

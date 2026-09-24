@@ -12,12 +12,15 @@ sources:
   - id: reddy-2016
     resource: "https://doi.org/10.1145/2939672.2939850"
     title: "Reddy, S., Labutov, I., Banerjee, S., & Joachims, T. (2016). Unbounded Human Learning: Optimal Scheduling for Spaced Repetition. KDD ’16, San Francisco, CA, USA. https://doi.org/10.1145/2939672.2939850"
-    author: "Reddy, S., Labutov, I., Banerjee, S., & Joachims, T"
+    author: "Reddy, S., Labutov, I., Banerjee, S., & Joachims, T."
+    q: 1
+    i: "?"
 ---
 
 # Under the mean-recall approximation, the maximum achievable learning rate is convex in the learner's review frequency budget, suggesting increasing returns at lower budgets.
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The optimized learning rate plotted against review budget U (n = 5, θ = 0.01) is convex for low U, suggesting increasing returns as budget grows. [→ Reddy 2016](#reddy-2016)

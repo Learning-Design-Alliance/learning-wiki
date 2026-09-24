@@ -13,15 +13,20 @@ sources:
     resource: "https://eric.ed.gov/?id=ED608853"
     title: "Isikgoz, Mustafa Enes. (2020). Analysis on Philosophical Beliefs of Physical Education and Sports Teachers towards Education in Terms of Different Variables. TOJET: The Turkish Online Journal of Educational Technology, November 2020, Special issue. https://eric.ed.gov/?id=ED608853"
     author: Isikgoz, Mustafa Enes
+    q: 2
+    i: "?"
   - id: isikgoz-2020-2
     resource: "https://eric.ed.gov/?id=ED608853"
     title: "Isikgoz, Mustafa Enes. (2020). Analysis on Philosophical Beliefs of Physical Education and Sports Teachers towards Education in Terms of Different Variables. TOJET: The Turkish Online Journal of Educational Technology, November 2020, Special issue. https://eric.ed.gov/?id=ED608853"
     author: Isikgoz, Mustafa Enes
+    q: 2
+    i: "?"
 ---
 
 # In a survey of physical education and sports teachers, existentialist education is the most endorsed and essentialism the least endorsed of five educational philosophies
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In a descriptive survey of 789 physical education and sports teachers, existentialist education was the philosophy teachers mostly adopted and essentialism the one adopted least. [→ Isikgoz 2020](#isikgoz-2020)

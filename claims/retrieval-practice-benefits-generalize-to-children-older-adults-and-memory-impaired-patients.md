@@ -12,24 +12,33 @@ sources:
   - id: karpicke-2017
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
-    author: Karpicke, J. D
+    author: Karpicke, J. D.
+    q: 2
+    i: "?"
   - id: karpicke-2017-2
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
-    author: Karpicke, J. D
+    author: Karpicke, J. D.
+    q: 2
+    i: "?"
   - id: karpicke-2017-3
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
-    author: Karpicke, J. D
+    author: Karpicke, J. D.
+    q: 2
+    i: "?"
   - id: karpicke-2017-4
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
-    author: Karpicke, J. D
+    author: Karpicke, J. D.
+    q: 2
+    i: "?"
 ---
 
 # Retrieval practice benefits have been observed in children, healthy older adults, and memory-impaired patient groups, not only college students
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 4 studies · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Karpicke et al. (2016), that children aged 9-11 who practiced retrieval of word pairs without feedback showed benefits on final free recall and recognition tests. [→ Karpicke 2017](#karpicke-2017)

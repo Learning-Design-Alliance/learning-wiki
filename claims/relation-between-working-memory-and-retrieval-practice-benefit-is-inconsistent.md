@@ -12,20 +12,27 @@ sources:
   - id: karpicke-2017
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
-    author: Karpicke, J. D
+    author: Karpicke, J. D.
+    q: 2
+    i: "?"
   - id: karpicke-2017-2
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
-    author: Karpicke, J. D
+    author: Karpicke, J. D.
+    q: 2
+    i: "?"
   - id: karpicke-2017-3
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
-    author: Karpicke, J. D
+    author: Karpicke, J. D.
+    q: 2
+    i: "?"
 ---
 
 # Studies disagree on whether low or high working memory learners benefit more from retrieval practice, and several find no relationship
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 3 studies · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Agarwal et al. (2016), that low working memory subjects benefited more from retrieval practice than high working memory subjects. [→ Karpicke 2017](#karpicke-2017)

@@ -13,19 +13,26 @@ sources:
     resource: "https://eric.ed.gov/?id=ED608853"
     title: "Isikgoz, Mustafa Enes. (2020). Analysis on Philosophical Beliefs of Physical Education and Sports Teachers towards Education in Terms of Different Variables. TOJET: The Turkish Online Journal of Educational Technology, November 2020, Special issue. https://eric.ed.gov/?id=ED608853"
     author: Isikgoz, Mustafa Enes
+    q: 2
+    i: "?"
   - id: isikgoz-2020-2
     resource: "https://eric.ed.gov/?id=ED608853"
     title: "Isikgoz, Mustafa Enes. (2020). Analysis on Philosophical Beliefs of Physical Education and Sports Teachers towards Education in Terms of Different Variables. TOJET: The Turkish Online Journal of Educational Technology, November 2020, Special issue. https://eric.ed.gov/?id=ED608853"
     author: Isikgoz, Mustafa Enes
+    q: 2
+    i: "?"
   - id: isikgoz-2020-3
     resource: "https://eric.ed.gov/?id=ED608853"
     title: "Isikgoz, Mustafa Enes. (2020). Analysis on Philosophical Beliefs of Physical Education and Sports Teachers towards Education in Terms of Different Variables. TOJET: The Turkish Online Journal of Educational Technology, November 2020, Special issue. https://eric.ed.gov/?id=ED608853"
     author: Isikgoz, Mustafa Enes
+    q: 2
+    i: "?"
 ---
 
 # Female physical education teachers endorse progressivism and existentialist education more, and male teachers endorse perennialism and essentialism more, with no significant gender difference for reconstructivism
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 3 studies · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Mann-Whitney U tests found significant gender differences in progressivism, existentialist education, perennialism and essentialism (each p < 0.05). [→ Isikgoz 2020](#isikgoz-2020)

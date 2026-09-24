@@ -12,12 +12,15 @@ sources:
   - id: carter-2014
     resource: "https://doi.org/10.3389/fpsyg.2014.01325"
     title: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005). Frontiers in Psychology, 5, 1325. https://doi.org/10.3389/fpsyg.2014.01325"
-    author: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M"
+    author: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M."
+    q: 2
+    i: "?"
 ---
 
 # Learners allowed to make a knowledge-of-results decision before a trial and revise it after (Self-Both) mostly kept their original choice but sometimes changed it after seeing their own performance.
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Self-Both participants stayed with their original choice 108 times for yes and 293 times for no, and changed from no to yes 30 times and from yes to no 13 times. [→ Carter 2014](#carter-2014)

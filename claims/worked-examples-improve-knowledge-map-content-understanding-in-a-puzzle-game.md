@@ -12,12 +12,15 @@ sources:
   - id: shen-2006
     resource: "https://eric.ed.gov/?id=ED491961"
     title: "Shen, C.-Y., & O’Neil, H. (2006). The Effectiveness of Worked Examples in a Game-Based Learning Environment. Paper presented at the annual meeting of the American Educational Research Association (AERA), San Francisco, CA. https://eric.ed.gov/?id=ED491961"
-    author: "Shen, C.-Y., & O’Neil, H"
+    author: "Shen, C.-Y., & O’Neil, H."
+    q: 3
+    i: "?"
 ---
 
 # Studying worked examples between two rounds of a computer puzzle game produced significantly greater knowledge map improvement than no worked examples for adult players
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Adults randomly assigned to study worked examples improved significantly more on the content-understanding knowledge map than a control group that did not (mean improvement 2.21 vs. 0.62). [→ Shen 2006](#shen-2006)

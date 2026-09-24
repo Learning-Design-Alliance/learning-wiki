@@ -12,16 +12,21 @@ sources:
   - id: sung-2022
     resource: "https://eric.ed.gov/?id=ED630361"
     title: "Sung, Y., Stephens, A., Veltri Torres, R., Strachota, S., Blanton, M., Gardiner, A., Stroud, R., & Knuth, E. (2022). Teacher Language and Gesture in an Intervention Focused on Developing Kindergarteners' Understandings of the Equal Sign. Proceedings of the forty-fourth annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education. https://eric.ed.gov/?id=ED630361"
-    author: "Sung, Y., Stephens, A., Veltri Torres, R., Strachota, S., Blanton, M., Gardiner, A., Stroud, R., & Knuth, E"
+    author: "Sung, Y., Stephens, A., Veltri Torres, R., Strachota, S., Blanton, M., Gardiner, A., Stroud, R., & Knuth, E."
+    q: 1
+    i: "?"
   - id: sung-2022-2
     resource: "https://eric.ed.gov/?id=ED630361"
     title: "Sung, Y., Stephens, A., Veltri Torres, R., Strachota, S., Blanton, M., Gardiner, A., Stroud, R., & Knuth, E. (2022). Teacher Language and Gesture in an Intervention Focused on Developing Kindergarteners' Understandings of the Equal Sign. Proceedings of the forty-fourth annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education. https://eric.ed.gov/?id=ED630361"
-    author: "Sung, Y., Stephens, A., Veltri Torres, R., Strachota, S., Blanton, M., Gardiner, A., Stroud, R., & Knuth, E"
+    author: "Sung, Y., Stephens, A., Veltri Torres, R., Strachota, S., Blanton, M., Gardiner, A., Stroud, R., & Knuth, E."
+    q: 1
+    i: "?"
 ---
 
 # In a kindergarten early algebra intervention, the teacher's equal-sign language shifted with lesson focus, from definitions and "is the same as" early on to "balanced" talk and balance gestures when evaluating and solving equations
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` In Lesson 8, where students wrote equations for balance scales, the teacher's DEF, ISA and GSIDES counts were greatest of the seven lessons. [→ Sung 2022](#sung-2022)

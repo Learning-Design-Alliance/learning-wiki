@@ -12,12 +12,15 @@ sources:
   - id: small-1997
     resource: "https://eric.ed.gov/?id=ED409895"
     title: "Small, Ruth V. (1997). Motivation in Instructional Design. ERIC Digest. ERIC Clearinghouse on Information and Technology. https://eric.ed.gov/?id=ED409895"
-    author: Small, Ruth V
+    author: Small, Ruth V.
+    q: 1
+    i: "?"
 ---
 
 # The ARCS Model is described as an easy-to-apply heuristic approach to increasing the motivational appeal of instruction, asserted without evidence in this digest
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The digest's summary asserts that ARCS is an easy-to-apply, heuristic approach to increasing the motivational appeal of instruction; no study or argument is offered for this. [→ Small 1997](#small-1997)

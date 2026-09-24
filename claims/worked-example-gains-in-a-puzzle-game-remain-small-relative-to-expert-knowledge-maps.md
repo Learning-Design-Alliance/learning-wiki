@@ -12,12 +12,15 @@ sources:
   - id: shen-2006
     resource: "https://eric.ed.gov/?id=ED491961"
     title: "Shen, C.-Y., & O’Neil, H. (2006). The Effectiveness of Worked Examples in a Game-Based Learning Environment. Paper presented at the annual meeting of the American Educational Research Association (AERA), San Francisco, CA. https://eric.ed.gov/?id=ED491961"
-    author: "Shen, C.-Y., & O’Neil, H"
+    author: "Shen, C.-Y., & O’Neil, H."
+    q: 3
+    i: "?"
 ---
 
 # Worked-example gains in a puzzle game remained small relative to expert performance, with the worked example group learning only 2.7% of experts' knowledge-map knowledge
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` After studying worked examples, the treatment group learned only 2.7% of the experts' knowledge reflected in their knowledge maps. [→ Shen 2006](#shen-2006)

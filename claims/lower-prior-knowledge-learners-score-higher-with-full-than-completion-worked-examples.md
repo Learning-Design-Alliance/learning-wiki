@@ -12,16 +12,21 @@ sources:
   - id: gupta-2020
     resource: "https://doi.org/10.20897/ejsteme/9252"
     title: "Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252"
-    author: "Gupta, U., & Zheng, R. Z"
+    author: "Gupta, U., & Zheng, R. Z."
+    q: 3
+    i: "?"
   - id: gupta-2020-2
     resource: "https://doi.org/10.20897/ejsteme/9252"
     title: "Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252"
-    author: "Gupta, U., & Zheng, R. Z"
+    author: "Gupta, U., & Zheng, R. Z."
+    q: 3
+    i: "?"
 ---
 
 # Lower-prior-knowledge learners scored higher on an algebra posttest after full-worked than completion-worked examples, while higher-prior-knowledge learners' non-significant advantage ran the other way
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` In follow-up analysis, lower-prior-knowledge learners performed better on the posttest with full-worked than completion-worked examples (t(1,26) = 1.98, p = .05, 2-tailed). [→ Gupta 2020](#gupta-2020)

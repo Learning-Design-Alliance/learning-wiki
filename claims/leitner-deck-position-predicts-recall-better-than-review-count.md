@@ -12,12 +12,15 @@ sources:
   - id: reddy-2016
     resource: "https://doi.org/10.1145/2939672.2939850"
     title: "Reddy, S., Labutov, I., Banerjee, S., & Joachims, T. (2016). Unbounded Human Learning: Optimal Scheduling for Spaced Repetition. KDD ’16, San Francisco, CA, USA. https://doi.org/10.1145/2939672.2939850"
-    author: "Reddy, S., Labutov, I., Banerjee, S., & Joachims, T"
+    author: "Reddy, S., Labutov, I., Banerjee, S., & Joachims, T."
+    q: 2
+    i: "?"
 ---
 
 # In Mnemosyne log data, setting memory strength equal to an item's Leitner deck position predicts recall better than number of past reviews, which beats constant strength.
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Memory strength set to Leitner deck position outperformed strength proportional to the number of past reviews, which in turn outperformed a constant strength, by validation and test AUC; no AUC values are printed in the text. [→ Reddy 2016](#reddy-2016)

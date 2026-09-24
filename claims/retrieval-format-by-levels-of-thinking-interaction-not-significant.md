@@ -12,12 +12,15 @@ sources:
   - id: nero-2021
     resource: "https://doi.org/10.24191/ajue.v17i4.16222"
     title: "Nero, C. A., & Zulkiply, N. (2021). The Effects of Retrieval Practice Across Levels of Thinking and Retention Interval on Reading Comprehension. Asian Journal of University Education (AJUE), 17(4). https://doi.org/10.24191/ajue.v17i4.16222"
-    author: "Nero, C. A., & Zulkiply, N"
+    author: "Nero, C. A., & Zulkiply, N."
+    q: 3
+    i: "?"
 ---
 
 # The effect of retrieval practice format on reading comprehension does not differ significantly between lower-order and higher-order thinking questions
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` No statistically significant interaction was found between type of retrieval practice and levels of thinking (F(1, 98) = 0.02, p = .877). [→ Nero 2021](#nero-2021)

@@ -13,15 +13,20 @@ sources:
     resource: "https://arxiv.org/abs/2409.16490"
     title: "Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490"
     author: Alexander Scarlatos, Ryan S. Baker, and Andrew Lan
+    q: 1
+    i: "?"
   - id: alexander-scarlatos-2024-2
     resource: "https://arxiv.org/abs/2409.16490"
     title: "Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490"
     author: Alexander Scarlatos, Ryan S. Baker, and Andrew Lan
+    q: 1
+    i: "?"
 ---
 
 # LLMKT's predicted knowledge change curves on CoMTA are mixed across the 15 most frequent KCs, though overall they mostly resemble the power law of practice when dialogues have sufficient turns.
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Of the 15 most frequent KCs, 5 trend towards increasing mastery, 5 towards decreasing mastery, and 5 do not change significantly. [→ Alexander Scarlatos 2024](#alexander-scarlatos-2024)

@@ -13,15 +13,20 @@ sources:
     resource: "https://eric.ed.gov/?id=ED658339"
     title: "Lili Zhou. (2023). Humanizing Mathematics through Boundary Crossing Collaboration. Proceedings of the forty-fifth annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education (Vol. 2). https://eric.ed.gov/?id=ED658339"
     author: Lili Zhou
+    q: 1
+    i: "?"
   - id: lili-zhou-2023-2
     resource: "https://eric.ed.gov/?id=ED658339"
     title: "Lili Zhou. (2023). Humanizing Mathematics through Boundary Crossing Collaboration. Proceedings of the forty-fifth annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education (Vol. 2). https://eric.ed.gov/?id=ED658339"
     author: Lili Zhou
+    q: 1
+    i: "?"
 ---
 
 # Expanding the quilt task into an integrated STEM project was judged by its two designers to give students multiple entry points and to feel fun rather than too school-like
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The author reports that the integrated project, though less focused on mathematics, provides multiple entry points and lets students bring cultural and life experiences. [→ Lili Zhou 2023](#lili-zhou-2023)

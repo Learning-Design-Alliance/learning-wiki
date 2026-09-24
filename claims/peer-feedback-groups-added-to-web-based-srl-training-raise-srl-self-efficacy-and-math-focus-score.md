@@ -12,16 +12,21 @@ sources:
   - id: bellhäuser-2022
     resource: "https://doi.org/10.3389/fpsyg.2022.813381"
     title: "Bellhäuser, H., Liborius, P., & Schmitz, B. (2022). Fostering Self-Regulated Learning in Online Environments: Positive Effects of a Web-Based Training With Peer Feedback on Learning Behavior. Frontiers in Psychology, 13, 813381. https://doi.org/10.3389/fpsyg.2022.813381"
-    author: "Bellhäuser, H., Liborius, P., & Schmitz, B"
+    author: "Bellhäuser, H., Liborius, P., & Schmitz, B."
+    q: 3
+    i: "?"
   - id: bellhäuser-2022-2
     resource: "https://doi.org/10.3389/fpsyg.2022.813381"
     title: "Bellhäuser, H., Liborius, P., & Schmitz, B. (2022). Fostering Self-Regulated Learning in Online Environments: Positive Effects of a Web-Based Training With Peer Feedback on Learning Behavior. Frontiers in Psychology, 13, 813381. https://doi.org/10.3389/fpsyg.2022.813381"
-    author: "Bellhäuser, H., Liborius, P., & Schmitz, B"
+    author: "Bellhäuser, H., Liborius, P., & Schmitz, B."
+    q: 3
+    i: "?"
 ---
 
 # Adding small peer feedback groups to web-based SRL training and a diary (Group TDP) produced statistically significant gains in SRL knowledge, the SRL overall score, self-efficacy and the mathematics focus score, the last of which Group TD did not show
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Group TDP showed statistically significant increases in SRL knowledge (β = 4.61; p < 0.001), the SRL overall score (β = 0.52; p < 0.001) and self-efficacy (β = 0.28; p < 0.01). [→ Bellhäuser 2022](#bellhauser-2022)

@@ -12,12 +12,15 @@ sources:
   - id: gupta-2020
     resource: "https://doi.org/10.20897/ejsteme/9252"
     title: "Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252"
-    author: "Gupta, U., & Zheng, R. Z"
+    author: "Gupta, U., & Zheng, R. Z."
+    q: 3
+    i: "?"
 ---
 
 # No significant interaction between prior knowledge and task difficulty was observed in a worked-example algebra study
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` No significant prior knowledge by task difficulty interaction was observed; equivalence was not tested. [→ Gupta 2020](#gupta-2020)

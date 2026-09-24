@@ -12,16 +12,21 @@ sources:
   - id: deciccio-1988
     resource: "https://eric.ed.gov/?id=ED294201"
     title: "DeCiccio, Albert C. (1988). Social Constructionism and Collaborative Learning: Recommendations for Teaching Writing. Paper presented at the Annual Meeting of the Conference on College Composition and Communication. https://eric.ed.gov/?id=ED294201"
-    author: DeCiccio, Albert C
+    author: DeCiccio, Albert C.
+    q: 1
+    i: "?"
   - id: deciccio-1988-2
     resource: "https://eric.ed.gov/?id=ED294201"
     title: "DeCiccio, Albert C. (1988). Social Constructionism and Collaborative Learning: Recommendations for Teaching Writing. Paper presented at the Annual Meeting of the Conference on College Composition and Communication. https://eric.ed.gov/?id=ED294201"
-    author: DeCiccio, Albert C
+    author: DeCiccio, Albert C.
+    q: 1
+    i: "?"
 ---
 
 # Acting on the collaborative writing recommendations is argued to produce active student writers who attend to what their peers say
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The author submits that acting on the recommendations will yield active student writers who focus attentively on peers' responses to prepared problems. [→ DeCiccio 1988](#deciccio-1988)

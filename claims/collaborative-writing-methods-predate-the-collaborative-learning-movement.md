@@ -12,12 +12,15 @@ sources:
   - id: deciccio-1988
     resource: "https://eric.ed.gov/?id=ED294201"
     title: "DeCiccio, Albert C. (1988). Social Constructionism and Collaborative Learning: Recommendations for Teaching Writing. Paper presented at the Annual Meeting of the Conference on College Composition and Communication. https://eric.ed.gov/?id=ED294201"
-    author: DeCiccio, Albert C
+    author: DeCiccio, Albert C.
+    q: 1
+    i: "?"
 ---
 
 # Collaborative writing methods such as peer criticism and group revision were in use before the collaborative learning movement
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The paper's historical review of composition antecedents argues that teachers were already experimenting with peer criticism, group writing and revision, and teacher-student collaboration before Bruffee. [→ DeCiccio 1988](#deciccio-1988)

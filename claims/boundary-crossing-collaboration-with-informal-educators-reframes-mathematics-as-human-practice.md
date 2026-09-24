@@ -13,15 +13,20 @@ sources:
     resource: "https://eric.ed.gov/?id=ED658339"
     title: "Lili Zhou. (2023). Humanizing Mathematics through Boundary Crossing Collaboration. Proceedings of the forty-fifth annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education (Vol. 2). https://eric.ed.gov/?id=ED658339"
     author: Lili Zhou
+    q: 1
+    i: "?"
   - id: lili-zhou-2023-2
     resource: "https://eric.ed.gov/?id=ED658339"
     title: "Lili Zhou. (2023). Humanizing Mathematics through Boundary Crossing Collaboration. Proceedings of the forty-fifth annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education (Vol. 2). https://eric.ed.gov/?id=ED658339"
     author: Lili Zhou
+    q: 1
+    i: "?"
 ---
 
 # In one narrative inquiry, boundary crossing collaboration between a mathematics education researcher and an informal educator created a space for a new understanding of mathematics as normal human practice
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The author reports that the collaborative practices emerging from crossing between mathematics education and informal education blurred the border of mathematics across contexts, leading to a new understanding of mathematics as normal human practice. [→ Lili Zhou 2023](#lili-zhou-2023)

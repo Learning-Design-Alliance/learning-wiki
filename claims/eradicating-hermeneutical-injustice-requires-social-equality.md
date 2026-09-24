@@ -12,12 +12,15 @@ sources:
   - id: göktürk-2021
     resource: "https://doi.org/10.24106/kefdergi.732138"
     title: "Göktürk, D. (2021). Epistemic Injustice and Cultural Processes in Education. Kastamonu Education Journal, 29(1), 218-227. https://doi.org/10.24106/kefdergi.732138"
-    author: Göktürk, D
+    author: Göktürk, D.
+    q: 1
+    i: "?"
 ---
 
 # Eradicating hermeneutical injustice requires sufficient social equality in general, not only slight interpersonal hermeneutical empowerments
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The article quotes Fricker (2017) arguing that eradicating hermeneutical injustice will require sufficient social equality in general, beyond slight interpersonal hermeneutical empowerments. [→ Göktürk 2021](#gokturk-2021)

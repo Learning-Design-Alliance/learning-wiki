@@ -12,16 +12,21 @@ sources:
   - id: göktürk-2021
     resource: "https://doi.org/10.24106/kefdergi.732138"
     title: "Göktürk, D. (2021). Epistemic Injustice and Cultural Processes in Education. Kastamonu Education Journal, 29(1), 218-227. https://doi.org/10.24106/kefdergi.732138"
-    author: Göktürk, D
+    author: Göktürk, D.
+    q: 1
+    i: "?"
   - id: göktürk-2021-2
     resource: "https://doi.org/10.24106/kefdergi.732138"
     title: "Göktürk, D. (2021). Epistemic Injustice and Cultural Processes in Education. Kastamonu Education Journal, 29(1), 218-227. https://doi.org/10.24106/kefdergi.732138"
-    author: Göktürk, D
+    author: Göktürk, D.
+    q: 1
+    i: "?"
 ---
 
 # Cultural processes and forms of epistemic injustice should be taken into account in understanding how inequalities in education are produced and maintained
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` A conceptual article argues that cultural processes (identification and rationalization) and epistemic injustice forms should be considered in understanding the production and maintenance of inequalities in education. [→ Göktürk 2021](#gokturk-2021)

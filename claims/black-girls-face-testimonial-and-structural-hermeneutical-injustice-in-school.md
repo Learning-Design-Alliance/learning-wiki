@@ -12,20 +12,27 @@ sources:
   - id: göktürk-2021
     resource: "https://doi.org/10.24106/kefdergi.732138"
     title: "Göktürk, D. (2021). Epistemic Injustice and Cultural Processes in Education. Kastamonu Education Journal, 29(1), 218-227. https://doi.org/10.24106/kefdergi.732138"
-    author: Göktürk, D
+    author: Göktürk, D.
+    q: 1
+    i: "?"
   - id: göktürk-2021-2
     resource: "https://doi.org/10.24106/kefdergi.732138"
     title: "Göktürk, D. (2021). Epistemic Injustice and Cultural Processes in Education. Kastamonu Education Journal, 29(1), 218-227. https://doi.org/10.24106/kefdergi.732138"
-    author: Göktürk, D
+    author: Göktürk, D.
+    q: 1
+    i: "?"
   - id: göktürk-2021-3
     resource: "https://doi.org/10.24106/kefdergi.732138"
     title: "Göktürk, D. (2021). Epistemic Injustice and Cultural Processes in Education. Kastamonu Education Journal, 29(1), 218-227. https://doi.org/10.24106/kefdergi.732138"
-    author: Göktürk, D
+    author: Göktürk, D.
+    q: 1
+    i: "?"
 ---
 
 # In the analyzed school setting, black girls experience testimonial injustice as direct discrimination and hermeneutical injustice as indirect, structural discrimination that personal effort cannot erode
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 3 studies · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The article argues that not conforming to the norms of white femininity may result in credibility deficit and tracker prejudice for black girls. [→ Göktürk 2021](#gokturk-2021)

@@ -114,7 +114,7 @@ the first batch written by in-session subagents. `scripts/eval/agent_arm.py` is 
 harness, and the subagent contract is its `TASK.md`. Two ingest bugs it exposed are fixed: the
 citation gate matched the frontmatter `resource:` line and called correct DOIs `wrong_paper`,
 and typeless `related` slugs were linked into the wrong folder. The manifest lines for this
-batch were corrected before commit. Run `fix_dead_anchors.py --apply` after an ingest: an
+batch were corrected before commit. **`run_scrape_batch.py` never ran `sync_evidence_codes`, `add_evidence_summary` or `fix_dead_anchors`**, whatever this file said elsewhere, so every batch landed claims whose codes lived only in the body. They are in the chain now. And `okf_lib.parse_evidence_sources` read a DOI only from a `(link)`, so sync would have stripped the resource from the 267 entries whose citation carries a bare URL; it reads that form too now. `scripts/health_scorecard.py` measures any set of commits with today's checkers, and `eval/scorecard.md` is this session's. Run `fix_dead_anchors.py --apply` after an ingest: an
 accented author name (Göktürk, Bellhäuser) still produces an anchor that does not match its
 heading.
 

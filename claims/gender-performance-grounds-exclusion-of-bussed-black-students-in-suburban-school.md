@@ -12,20 +12,27 @@ sources:
   - id: göktürk-2021
     resource: "https://doi.org/10.24106/kefdergi.732138"
     title: "Göktürk, D. (2021). Epistemic Injustice and Cultural Processes in Education. Kastamonu Education Journal, 29(1), 218-227. https://doi.org/10.24106/kefdergi.732138"
-    author: Göktürk, D
+    author: Göktürk, D.
+    q: 2
+    i: "?"
   - id: göktürk-2021-2
     resource: "https://doi.org/10.24106/kefdergi.732138"
     title: "Göktürk, D. (2021). Epistemic Injustice and Cultural Processes in Education. Kastamonu Education Journal, 29(1), 218-227. https://doi.org/10.24106/kefdergi.732138"
-    author: Göktürk, D
+    author: Göktürk, D.
+    q: 2
+    i: "?"
   - id: göktürk-2021-3
     resource: "https://doi.org/10.24106/kefdergi.732138"
     title: "Göktürk, D. (2021). Epistemic Injustice and Cultural Processes in Education. Kastamonu Education Journal, 29(1), 218-227. https://doi.org/10.24106/kefdergi.732138"
-    author: Göktürk, D
+    author: Göktürk, D.
+    q: 2
+    i: "?"
 ---
 
 # In the ethnography the article analyzes, black girls bussed to an affluent suburban school were unpopular and socially excluded for being seen as loud and ghetto, while black boys were classified as incapable of academic achievement
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 3 studies · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The article reports that Ispa-Landa (2013) used in-depth interviews and ethnographic observations with black adolescents (n=38) to identify when and how a lower-class minority group's gender performance is used as grounds for its exclusion. [→ Göktürk 2021](#gokturk-2021)

@@ -13,11 +13,14 @@ sources:
     resource: "https://arxiv.org/abs/2105.15106"
     title: "Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen. (2021). A Survey of Knowledge Tracing: Models, Variants, and Applications. https://arxiv.org/abs/2105.15106"
     author: Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen
+    q: 2
+    i: "?"
 ---
 
 # The survey reports, citing Pavlik et al., that no single knowledge tracing model was always the best, and that a better model must consider multiple student features and the learning context.
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The review attributes to Pavlik et al. an empirical verification that no single KT model was always best. [→ Shuanghong Shen 2021](#shuanghong-shen-2021)

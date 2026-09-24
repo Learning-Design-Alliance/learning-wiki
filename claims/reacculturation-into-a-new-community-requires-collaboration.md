@@ -12,16 +12,21 @@ sources:
   - id: deciccio-1988
     resource: "https://eric.ed.gov/?id=ED294201"
     title: "DeCiccio, Albert C. (1988). Social Constructionism and Collaborative Learning: Recommendations for Teaching Writing. Paper presented at the Annual Meeting of the Conference on College Composition and Communication. https://eric.ed.gov/?id=ED294201"
-    author: DeCiccio, Albert C
+    author: DeCiccio, Albert C.
+    q: 1
+    i: "?"
   - id: deciccio-1988-2
     resource: "https://eric.ed.gov/?id=ED294201"
     title: "DeCiccio, Albert C. (1988). Social Constructionism and Collaborative Learning: Recommendations for Teaching Writing. Paper presented at the Annual Meeting of the Conference on College Composition and Communication. https://eric.ed.gov/?id=ED294201"
-    author: DeCiccio, Albert C
+    author: DeCiccio, Albert C.
+    q: 1
+    i: "?"
 ---
 
 # Reacculturation into a new community is argued to be virtually impossible alone and to require collaboration
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The paper argues that reacculturation, loosening ties to one community to join another, cannot be accomplished alone and must be accomplished through collaboration. [→ DeCiccio 1988](#deciccio-1988)

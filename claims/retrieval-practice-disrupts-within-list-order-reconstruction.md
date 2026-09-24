@@ -12,12 +12,15 @@ sources:
   - id: karpicke-2017
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
-    author: Karpicke, J. D
+    author: Karpicke, J. D.
+    q: 2
+    i: "?"
 ---
 
 # Retrieval practice disrupted within-list order reconstruction of eight-item word lists, just as generation did
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Karpicke and Zaromb (2010, Experiment 3), that retrieval practice disrupted final order reconstruction performance, as generation did. [→ Karpicke 2017](#karpicke-2017)

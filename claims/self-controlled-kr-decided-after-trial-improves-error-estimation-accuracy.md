@@ -12,16 +12,21 @@ sources:
   - id: carter-2014
     resource: "https://doi.org/10.3389/fpsyg.2014.01325"
     title: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005). Frontiers in Psychology, 5, 1325. https://doi.org/10.3389/fpsyg.2014.01325"
-    author: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M"
+    author: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M."
+    q: 3
+    i: 3
   - id: carter-2014-2
     resource: "https://doi.org/10.3389/fpsyg.2014.01325"
     title: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005). Frontiers in Psychology, 5, 1325. https://doi.org/10.3389/fpsyg.2014.01325"
-    author: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M"
+    author: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M."
+    q: 3
+    i: "?"
 ---
 
 # Learners who could decide after a trial whether to receive knowledge of results estimated their own movement outcomes more accurately in retention than Self-Before learners and their yoked counterparts.
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` A significant Choice × Decision interaction on retention absolute difference between estimated and actual outcome (F(2,42) = 7.19, p= 0.002, ηp2 = 0.26) showed Self-After (M = 10.44) and Self-Both (M = 13.80) more accurate than Self-Before (M = 27.01). [→ Carter 2014](#carter-2014)
