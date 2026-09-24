@@ -19,7 +19,7 @@
       {"code": 3, "label": "large", "definition": "d >= 0.8 or equivalent"},
       {"code": 2, "label": "medium", "definition": "d 0.4-0.79"},
       {"code": 1, "label": "small", "definition": "d 0.2-0.39"},
-      {"code": 0, "label": "negligible", "definition": "Negligible or unclear"}
+      {"code": 0, "label": "negligible", "definition": "Negligible: an effect size is reported and it is below d 0.2 or equivalent", "history": "Until 2026-09-24 this tier read 'negligible or unclear', and the extraction prompt wrote i0 whenever an article printed no effect size. So an i0 written before then may mean either; read the entry's own text. An unreported effect size is now i? (see unknown)."}
     ]
   },
   "sample": {
