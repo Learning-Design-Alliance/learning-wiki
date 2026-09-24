@@ -109,7 +109,7 @@ finds out.
 scorer. **GLM on v124 ties Opus on quality at about 1/150th of the cost.** GLM's ~10% pass rate
 belongs to the v99 lineage, which CURRENT points to and v130 descends from. So do not read v130's
 collapse as "GLM cannot follow the new criteria". The droplet's next step is porting v128–v130
-onto v124. **17 articles were ingested from the Opus-agent arm** (237 pages, 10 study records):
+onto v124, **without the `study_record`**: the ablations (v131–v133, `eval/pre-extractor-test/README.md`) show the small rules are free, the inclusion rule costs a few passes, and asking GLM for a study record in the same call drops it from 16/17 to 7/17. **17 articles were ingested from the Opus-agent arm** (237 pages, 10 study records):
 the first batch written by in-session subagents. `scripts/eval/agent_arm.py` is that path's
 harness, and the subagent contract is its `TASK.md`. Two ingest bugs it exposed are fixed: the
 citation gate matched the frontmatter `resource:` line and called correct DOIs `wrong_paper`,

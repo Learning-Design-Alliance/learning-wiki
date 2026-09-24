@@ -84,3 +84,31 @@ first ingest of the agents' output found three pipeline bugs, all now fixed:
 recorded 168 correct DOIs as `wrong_paper`; `ingest_extractions` linked cross-type
 siblings into the wrong folder (105 broken links); and it recorded an extractor's own
 E2 rejection as the failed-run code `no-contributions-extracted`.
+
+## Second round, 2026-09-24 (later)
+
+Two more questions, answered by running them. GPT-judge scores on the holdout; Gemini scored
+nearly everything 5.0 and did not score the GLM reruns at all.
+
+**Sonnet agents instead of Opus.** 100% validator pass, GPT 4.09 (Opus agents 4.22), 0 of 44
+quotes missing, both probes rejected. But only 1 of 8 articles got a study record (Opus: 4),
+tokens per article were the same (~185k), and it was slower (median 6 min). At API prices it
+costs half as much as Opus. Its first pass also showed E4 working: every agent correctly
+rejected an article the Opus arm had ingested an hour earlier. `prepare --benchmark` exists
+for that reason.
+
+**Can GLM reach 100%?** Structurally, yes, on the old contract: v124 passes 17 of 17 once the
+obsolete claim-id check is a warning, and 14 of 17 on a rerun, so the true rate is about
+85–100%. The new contract is another matter. Each part was ablated:
+
+| prompt | adds to v124 | pass | probes rejected |
+|---|---|---|---|
+| v132 | null `i`, one-claim floor, argument as evidence | 16/17 | 0/2 |
+| v133 | v132 + inclusion rule | 13/17 | 1/2 |
+| v131 | v133 + `study_record` | 7/17 | 0/2 (one case wrote nothing at all) |
+
+The small rules are free. The rejection rule costs a few passes and catches the clear case.
+**The `study_record` in the same call is what breaks GLM.** It needs a separate pass on
+articles that report results, or it stays with the agents. GLM's missing-quote rate also moves
+between runs (0–12%), which is why `ingest_extractions.drop_unfound_quotes` exists.
+

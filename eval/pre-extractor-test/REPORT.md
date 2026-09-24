@@ -29,10 +29,15 @@ Written before any result was read.
 | arm | n | gen err | validator pass | completeness | judge mean (GPT / Gemini) | judge fails | contribs/article | study_record | quotes not in article | DOIs verified / wrong / 404 / lookup failed | $/article | median s/article |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | glm-v99 | 8 | 0 | 12% | 0.38 | 3.25 (2.41 / 4.09) | 10 | 4.6 | 0/8 | 2/11 (18%) | 0 / 0 / 0 / 0 | $0.0019 | 42 |
-| glm-v124 | 8 | 0 | 88% | 1.00 | 4.59 (4.19 / 5.00) | 1 | 7.1 | 0/8 | 1/32 (3%) | 1 / 0 / 0 / 0 | $0.0031 | 189 |
+| glm-v124 | 8 | 0 | 100% | 1.00 | 4.59 (4.19 / 5.00) | 1 | 7.1 | 0/8 | 1/32 (3%) | 1 / 0 / 0 / 0 | $0.0031 | 189 |
 | glm-v130 | 8 | 0 | 0% | 0.30 | 3.78 (2.84 / 4.72) | 9 | 3.4 | 0/8 | 4/5 (80%) | 0 / 0 / 0 / 0 | $0.0019 | 46 |
 | opus-v130 | 8 | 0 | 62% | 0.96 | 4.70 (4.41 / 5.00) | 0 | 9.1 | 4/8 | 2/67 (3%) | 1 / 0 / 0 / 0 | $0.3406 | 103 |
 | agent | 8 | 0 | 100% | 1.00 | 4.61 (4.22 / 5.00) | 1 | 9.9 | 4/8 | 0/94 (0%) | 1 / 0 / 0 / 0 | $0.458–0.982 | 156 |
+| agent-sonnet | 8 | 0 | 100% | 1.00 | 4.55 (4.09 / 5.00) | 1 | 8.8 | 1/8 | 0/44 (0%) | 1 / 0 / 0 / 0 | $0.234–0.541 | 360 |
+| glm-v124-rerun | 8 | 0 | 88% | 0.88 | 4.14 (4.14 / —) | 1 | 6.4 | 0/8 | 0/23 (0%) | 1 / 0 / 0 / 0 | $0.0032 | 81 |
+| glm-v132 | 8 | 0 | 100% | 1.00 | 4.34 (4.34 / —) | 1 | 7.2 | 0/8 | 3/26 (12%) | 1 / 0 / 0 / 0 | $0.0030 | 169 |
+| glm-v133 | 8 | 0 | 88% | 0.99 | 4.00 (4.00 / —) | 3 | 7.8 | 0/8 | 1/31 (3%) | 1 / 0 / 0 / 0 | $0.0033 | 34 |
+| glm-v131 | 8 | 0 | 0% | 0.35 | 4.14 (3.31 / 4.97) | 5 | 2.4 | 0/8 | 1/9 (11%) | 0 / 0 / 0 / 0 | $0.0019 | 43 |
 
 ## benchmark
 
@@ -43,16 +48,26 @@ Written before any result was read.
 | glm-v130 | 9 | 0 | 11% | 0.20 | 2.35 (2.38 / 2.33) | 9 | 2.2 | 1/9 | 1/12 (8%) | 1 / 0 / 0 / 0 | $0.0053 | 34 |
 | opus-v130 | 9 | 0 | 89% | 0.99 | 4.60 (4.19 / 5.00) | 1 | 12.7 | 6/9 | 0/135 (0%) | 6 / 0 / 0 / 0 | $0.5145 | 184 |
 | agent | 9 | 0 | 100% | 1.00 | 4.58 (4.17 / 5.00) | 0 | 17.6 | 7/9 | 0/249 (0%) | 6 / 0 / 0 / 0 | $0.468–1.076 | 216 |
+| agent-sonnet | 0 | | | | | | | | | | | |
+| glm-v124-rerun | 9 | 0 | 78% | 0.78 | 4.29 (4.29 / —) | 0 | 6.8 | 0/9 | 2/49 (4%) | 4 / 0 / 0 / 0 | $0.0047 | 92 |
+| glm-v132 | 9 | 0 | 89% | 1.00 | 3.81 (3.81 / —) | 2 | 8.7 | 0/9 | 3/76 (4%) | 6 / 0 / 0 / 0 | $0.0048 | 308 |
+| glm-v133 | 9 | 0 | 67% | 0.88 | 4.09 (4.09 / —) | 0 | 8.0 | 0/9 | 2/59 (3%) | 5 / 0 / 0 / 0 | $0.0052 | 52 |
+| glm-v131 | 9 | 0 | 78% | 0.84 | 4.33 (3.69 / 4.97) | 3 | 7.1 | 5/9 | 1/62 (2%) | 5 / 0 / 0 / 0 | $0.0046 | 193 |
 
 ## all-included
 
 | arm | n | gen err | validator pass | completeness | judge mean (GPT / Gemini) | judge fails | contribs/article | study_record | quotes not in article | DOIs verified / wrong / 404 / lookup failed | $/article | median s/article |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | glm-v99 | 17 | 0 | 12% | 0.31 | 3.02 (2.52 / 3.52) | 17 | 3.5 | 0/17 | 2/22 (9%) | 1 / 0 / 0 / 0 | $0.0031 | 43 |
-| glm-v124 | 17 | 0 | 94% | 1.00 | 4.62 (4.25 / 5.00) | 1 | 7.9 | 0/17 | 2/101 (2%) | 6 / 0 / 0 / 0 | $0.0037 | 203 |
+| glm-v124 | 17 | 0 | 100% | 1.00 | 4.62 (4.25 / 5.00) | 1 | 7.9 | 0/17 | 2/101 (2%) | 6 / 0 / 0 / 0 | $0.0037 | 203 |
 | glm-v130 | 17 | 0 | 6% | 0.25 | 3.17 (2.64 / 3.70) | 18 | 2.8 | 1/17 | 5/17 (29%) | 1 / 0 / 0 / 0 | $0.0037 | 45 |
 | opus-v130 | 17 | 0 | 76% | 0.98 | 4.65 (4.29 / 5.00) | 1 | 11.0 | 10/17 | 2/202 (1%) | 7 / 0 / 0 / 0 | $0.4327 | 135 |
 | agent | 17 | 0 | 100% | 1.00 | 4.60 (4.19 / 5.00) | 1 | 13.9 | 11/17 | 0/343 (0%) | 7 / 0 / 0 / 0 | $0.463–1.032 | 202 |
+| agent-sonnet | 8 | 0 | 100% | 1.00 | 4.55 (4.09 / 5.00) | 1 | 8.8 | 1/8 | 0/44 (0%) | 1 / 0 / 0 / 0 | $0.234–0.541 | 360 |
+| glm-v124-rerun | 17 | 0 | 82% | 0.82 | 4.21 (4.21 / —) | 1 | 6.6 | 0/17 | 2/72 (3%) | 5 / 0 / 0 / 0 | $0.0040 | 92 |
+| glm-v132 | 17 | 0 | 94% | 1.00 | 4.06 (4.06 / —) | 3 | 8.0 | 0/17 | 6/102 (6%) | 7 / 0 / 0 / 0 | $0.0039 | 203 |
+| glm-v133 | 17 | 0 | 76% | 0.93 | 4.05 (4.05 / —) | 3 | 7.9 | 0/17 | 3/90 (3%) | 6 / 0 / 0 / 0 | $0.0043 | 40 |
+| glm-v131 | 17 | 0 | 41% | 0.61 | 4.24 (3.51 / 4.97) | 8 | 4.9 | 5/17 | 2/71 (3%) | 5 / 0 / 0 / 0 | $0.0033 | 50 |
 
 ## Reject probes
 
@@ -68,6 +83,16 @@ Written before any result was read.
 | opus-v130 | pmc-13600660 | 12 | False |
 | agent | pmc-13600694 | 0 | True |
 | agent | pmc-13600660 | 0 | True |
+| agent-sonnet | pmc-13600694 | 0 | True |
+| agent-sonnet | pmc-13600660 | 0 | True |
+| glm-v124-rerun | pmc-13600694 | 7 | False |
+| glm-v124-rerun | pmc-13600660 | 9 | False |
+| glm-v132 | pmc-13600694 | 8 | False |
+| glm-v132 | pmc-13600660 | 8 | False |
+| glm-v133 | pmc-13600694 | 0 | True |
+| glm-v133 | pmc-13600660 | 8 | False |
+| glm-v131 | pmc-13600694 | 0 | False |
+| glm-v131 | pmc-13600660 | 6 | False |
 
 ## Cost and time per 1,000 articles
 
@@ -80,12 +105,19 @@ From the all-included rows. Agent cost is a bracket (all context a cache read, v
 | glm-v130 | $3.68 | 16 min |
 | opus-v130 | $432.71 | 14 min |
 | agent | $463–1,032 | 9 min |
+| agent-sonnet | $234–541 | 10 min |
+| glm-v124-rerun | $3.97 | 9 min |
+| glm-v132 | $3.91 | 23 min |
+| glm-v133 | $4.27 | 6 min |
+| glm-v131 | $3.35 | 11 min |
 
 ## What the rule says (holdout)
 
 - **glm-v99** is not clean: 2/11 quotes not in the article, 0 DOI(s) resolving to another paper.
 - **glm-v130** is not clean: 4/5 quotes not in the article, 0 DOI(s) resolving to another paper.
-- Highest judge score among clean arms: **opus-v130** (4.70). Tied within 0.25: glm-v124, opus-v130, agent.
+- **glm-v132** is not clean: 3/26 quotes not in the article, 0 DOI(s) resolving to another paper.
+- **glm-v131** is not clean: 1/9 quotes not in the article, 0 DOI(s) resolving to another paper.
+- Highest judge score among clean arms: **opus-v130** (4.70). Tied within 0.25: glm-v124, opus-v130, agent, agent-sonnet.
 - Cheapest of the tied arms: **glm-v124**.
 - glm-v130 is **not** in the tied set: updating the droplet means closing a 0.92-point gap by prompt tuning, and it also fails the cleanliness gate.
 
@@ -104,6 +136,20 @@ Every quote the substring check failed, so a reader can see whether it is a fabr
 - **glm-v130** `eric-ed409895`: Keller (1987) breaks each of the four ARCS components down into three strategy [subcategories]... --Motive Matching: match objectives to student needs and motives... --Familiarity: present content in ways that are unders
 - **opus-v130** `eric-ed367146`: As a result of these home visits, teachers begin to view culture as a dynamic process rather than a static end state.
 - **opus-v130** `eric-ed367146`: As a result of these home visits, teachers begin to view culture as a dynamic process rather than a static end state.
+- **glm-v124-rerun** `arxiv-1602.07032`: We observe that a sharp phase transition indeed occurs as the arrival rate is increased: throughput initially increases linearly with arrival rate, then sharply decreases.
+- **glm-v124-rerun** `eric-ej1327865`: although the levels of thinking are usually hierarchical, superior performance on lower -level thinking tasks does not necessary enhance performance in higher -level thinking tasks (McDaniel et al., 2013; Dobson et al., 
+- **glm-v124-rerun** `pmc-13600694`: Each of the seven compounds showed repellency to honey bees, with three of them showing aversion up until the end of the assay. ... Kruskal-Wallis tests revealed significantly lower numbers of bees on treated wax foundat
+- **glm-v132** `arxiv-1602.07032`: We observe that a sharp phase transition indeed occurs as the arrival rate is in- creased: throughput initially increases linearly with arrival rate, then sharply decreases.
+- **glm-v132** `eric-ed491961`: significant relationships were found only between the scores of trait self regulation questionnaire and knowledge map scores for the total sample. For the total sample, the participants with higher planning performed bet
+- **glm-v132** `pmc-4237043`: both the Self-After (M = 10.04, SE = 1.89) and Self-Both (M = 12.45, SE = 3.58) groups did not differ significantly, they were both significantly more accurate in retention than the Self-Before group (M = 29.18, SE = 4.0
+- **glm-v132** `eric-ed630361`: we found a particular language-gesture combination—ISA + GSIDES—occurred rather frequently in Lessons 8 and 10. This combination occurred when the teacher “talked through” an equation by pointing to and speaking of the e
+- **glm-v132** `eric-ed673212`: For example, using AI applications can make lessons more interactive, dynamic, and fun, increasing teachers' intrinsic motivation to use these technologies. Additionally, AI technologies can provide teachers with new and
+- **glm-v132** `eric-ed367146`: As a result of these home visits, teachers begin to view culture as a dynamic process rather than a static end state.
+- **glm-v133** `arxiv-1602.07032`: In Fig. 5, we simulate a review session with 500 reviews and 50 unique items for diﬀerent values of λext. We observe that a sharp phase transition indeed occurs as the arrival rate is increased: throughput initially incr
+- **glm-v133** `eric-ed599273`: All test formats produced robust effects relative to study-only control condition, but there were no discernable differences among the formats. Across four experiments, Smith and Karpicke reported an overall effect size 
+- **glm-v133** `eric-ed367146`: As a result of these home visits, teachers begin to view culture as a dynamic process rather than a static end state.
+- **glm-v131** `arxiv-1602.07032`: We observe that a sharp phase transition indeed occurs as the arrival rate is increased: throughput initially increases linearly with arrival rate, then sharply decreases.
+- **glm-v131** `eric-ed367146`: As a result of these home visits, teachers begin to view culture as a dynamic process rather than a static end state.
 
 ## DOIs that did not verify
 

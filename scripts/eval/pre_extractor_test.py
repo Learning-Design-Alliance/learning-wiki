@@ -58,6 +58,9 @@ ARMS = [
     ("opus-v130", "pxt-opus55-v130", "anthropic/claude-opus-5.5"),
     ("agent", "pxt-agent-opus55", "claude-code-agent/opus-5.5"),
     ("agent-sonnet", "pxt-agent-sonnet5", "claude-code-agent/sonnet-5"),
+    ("glm-v124-rerun", "pxt-glm-v124b", "z-ai/glm-5.3-flash"),
+    ("glm-v132", "pxt-glm-v132", "z-ai/glm-5.3-flash"),
+    ("glm-v133", "pxt-glm-v133", "z-ai/glm-5.3-flash"),
     ("glm-v131", "pxt-glm-v131", "z-ai/glm-5.3-flash"),
 ]
 
@@ -97,11 +100,16 @@ def _norm(s: str) -> str:
 
 def quote_audit(parsed: dict, article_norm: str) -> tuple:
     quotes = []
+    # Malformed replies are data here, not errors: a GLM reply has put a bare
+    # string where a contribution object belongs, so skip what is not a dict.
     for c in parsed.get("contributions") or []:
+        if not isinstance(c, dict):
+            continue
         for e in c.get("evidence") or []:
             if isinstance(e, dict) and e.get("source_quote"):
                 quotes.append(e["source_quote"])
-    for o in (parsed.get("study_record") or {}).get("observations") or []:
+    sr = parsed.get("study_record")
+    for o in (sr.get("observations") or [] if isinstance(sr, dict) else []):
         if isinstance(o, dict) and o.get("source_quote"):
             quotes.append(o["source_quote"])
     bad = [q for q in quotes if _norm(q) not in article_norm]
@@ -160,9 +168,9 @@ def score_arm(label, run_id, model, articles, texts) -> dict:
                 "gen_error": "error" in gen,
                 "passed": (r.get("validation") or {}).get("passed"),
                 "completeness": (r.get("validation") or {}).get("completeness_score"),
-                "n_contrib": len(p.get("contributions") or []),
+                "n_contrib": len([c for c in p.get("contributions") or [] if isinstance(c, dict)]),
                 "has_study_record": bool(p.get("study_record")),
-                "rejected": (p.get("inclusion") or {}).get("verdict") == "reject",
+                "rejected": isinstance(p.get("inclusion"), dict) and p["inclusion"].get("verdict") == "reject",
                 "judge": _judge_mean(r),
                 "judge_gpt": ((r.get("judges") or {}).get("gpt") or {}).get("average_score"),
                 "judge_gemini": ((r.get("judges") or {}).get("gemini") or {}).get("average_score"),
