@@ -2623,10 +2623,19 @@ reading a diff at that size is not.</p>
    <code>provenance.extraction_method</code> says which, per file, because the three are not equally
    good. Building a record from a paraphrase of a paraphrase is how the fabrications this
    file catalogues got in.</li>
-<li><strong>Automated extraction is written and not switched on.</strong> <code>prompt_versions/v127.txt</code>
-   carries an <code>observation</code> block per evidence entry; <code>CURRENT</code> still points at <code>v99</code>.
-   Turning it on is a deliberate act after the fixtures have proved useful, not a
-   side effect of this change.</li>
+<li><strong>Automated extraction is built end to end, and not switched on.</strong>
+   <code>prompt_versions/v129.txt</code> asks for one v2-shaped <code>study_record</code> per article (arms,
+   comparisons, observations, each observation linked to its claim's evidence entry with
+   a <code>bearing</code>), plus <code>arms[].delivery</code> and <code>design.preregistration</code>.
+   <code>ingest_extractions.build_study_record</code> turns it into <code>observations/&lt;key&gt;.yaml</code> only
+   if <code>observation_lib.validate_record</code> passes against the live claim index. It never
+   overwrites an existing record and never defaults a <code>bearing</code>, and it sets an anchor
+   only on a claim page the same run wrote. The extraction validator reports a bad
+   record as <strong>warnings</strong>, so a flawed record never costs an article its claims but does
+   show in the tuning signal. <code>v127</code> (a v1-shaped block that nothing ingested) is
+   superseded. <strong><code>CURRENT</code> still points at <code>v99</code>.</strong> Moving it is the eval ratchet's call,
+   not a side effect: tune from <code>v128</code> (the null-impact rule only) or <code>v129</code> (plus the
+   record), and let <code>optimize</code> decide.</li>
 </ol>
 <p><strong>One fixture corrected the claim page it came from, which is the point of doing this.</strong>
 <code>claims/game-based-practice-outperforms-traditional-l2-vocabulary-instruction.md</code> renders
