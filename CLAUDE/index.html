@@ -1962,6 +1962,14 @@ itself worth fixing in <code>observations/SCHEMA.md</code> when someone next tou
 already uses — What Works Clearinghouse (6,631 independent findings), <code>metadat</code>'s education subset
 (303), Ma et al. 2014 on intelligent tutoring (107). Depth in standardised mean difference buys
 comparability <em>outward</em> to those, not only statistical power <em>inward</em>.</p>
+<p><strong>Where to find candidates: <code>scripts/smd_worklist.py</code>.</strong> It ranks the WWC intervention reports and
+Evidence for ESSA program pages that the Renaissance AI and Education Resource Hub catalogues (347
+SMD-format pages and 30 practice guides as of 2026-09-24). It ranks by URLs the wiki already cites,
+then by whether both publishers reviewed the programme, then by name mentions. It reads the hub's
+published <code>data.json</code> at run time and <strong>commits nothing from it</strong>: that repo has no licence yet, so
+its data stays out of this one until the maintainer says otherwise. It also copies no hub
+description, and some of those quote effect sizes from model-written summaries. Take the numbers
+from the WWC or ESSA page itself.</p>
 <p><strong>The size of the prize.</strong> Reaching 30 studies in one family at the corpus's current extraction
 habit takes roughly <strong>90 studies</strong> (95% CI 45–270, wide because it rests on a 3-study family — read
 the order of magnitude, not the point estimate). Extracting deliberately at one scale takes <strong>28
@@ -3460,6 +3468,7 @@ indexes with <code>python3 scripts/build_indexes.py</code>.</p>
     build_reverse_index.py ← who points at this page, as shippable data (see below)
     build_wiki_index.py ← the resolution table learning-design-spec reads (see below)
     check_evidence_markers.py ← claim citations carrying no [±~][SMW] marker (see below)
+    smd_worklist.py    ← WWC/ESSA review pages to extract next, for the SMD family (see above)
     observation_lib.py ← the evidence layer's schema and validator (see above)
     research_lib.py    ← the research layer's schemas, validators and joins (see above)
     check_research.py  ← validate the research layer; --why traverses claim -&gt; protocol
