@@ -838,6 +838,17 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#the-mcp-server-the-same-data-as-tools" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The MCP server — the same data, as tools
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#two-kinds-for-the-designers-side-processes-and-methods" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1396,6 +1407,17 @@
     <span class="md-ellipsis">
       
         The wiki index
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-mcp-server-the-same-data-as-tools" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The MCP server — the same data, as tools
       
     </span>
   </a>
@@ -3048,6 +3070,25 @@ that resolves one slug two ways rather than letting a consumer pick whichever it
 <p>Both halves come out of one pass, so they cannot drift from each other. Theories are
 included even though nothing in the spec addresses one: a consumer filters on <code>type</code> for
 free, and a kind left out is a kind nobody can point at until somebody notices.</p>
+<h2 id="the-mcp-server-the-same-data-as-tools">The MCP server — the same data, as tools<a class="headerlink" href="#the-mcp-server-the-same-data-as-tools" title="Permanent link">&para;</a></h2>
+<p><code>scripts/mcp_server.py</code> serves the wiki over the Model Context Protocol, so an agent can query it
+without knowing how to read the index files. It has five read-only tools. <code>search</code> and <code>fetch</code> are
+in the shape deep-research clients expect, and ids are <code>&lt;kind&gt;/&lt;slug&gt;</code>. <code>resolve</code> handles current
+and retired slugs, and returns every kind a slug lives in. <code>backlinks</code> comes from the reverse index
+and carries each claim citation's <code>[±~][SMW]</code> marker. <code>why</code> is <code>check_research.why()</code> with its
+output captured, so the tool and the command cannot disagree.</p>
+<div class="highlight"><pre><span></span><code>python3<span class="w"> </span>scripts/mcp_server.py<span class="w">                         </span><span class="c1"># stdio</span>
+python3<span class="w"> </span>scripts/mcp_server.py<span class="w"> </span>--http<span class="w"> </span><span class="m">8765</span><span class="w">             </span><span class="c1"># stateless HTTP, 127.0.0.1:8765/mcp</span>
+python3<span class="w"> </span>scripts/mcp_server.py<span class="w"> </span>--call<span class="w"> </span>search<span class="w"> </span><span class="s1">'{"query": "retrieval practice"}'</span>
+claude<span class="w"> </span>mcp<span class="w"> </span>add<span class="w"> </span>learning-wiki<span class="w"> </span>--<span class="w"> </span>python3<span class="w"> </span>/path/to/learning-wiki/scripts/mcp_server.py
+</code></pre></div>
+<p>It depends on the standard library and PyYAML only. Both transports were tested against the
+official MCP Python SDK's client (2.2.0). <strong>Every page result carries <code>status</code> and <code>trust_tier</code>,
+and the server's instructions say the wiki is model-written.</strong> No page has a <code>verified:</code> entry, so
+an outside agent would otherwise take a fluent page for a checked one. The shape is borrowed from the
+Renaissance AI and Education Resource Hub's worker; no code was copied, because that repo has no
+licence yet. <strong>It is not hosted anywhere.</strong> It runs from a checkout, and nothing in it is newer than
+that checkout. Hosting it is a separate decision: GitHub Pages cannot run it.</p>
 <hr />
 <h2 id="two-kinds-for-the-designers-side-processes-and-methods">Two kinds for the designer's side: <code>processes/</code> and <code>methods/</code><a class="headerlink" href="#two-kinds-for-the-designers-side-processes-and-methods" title="Permanent link">&para;</a></h2>
 <p>Every other kind in this wiki describes <strong>instruction a learner meets</strong>. A pattern is a
@@ -3469,6 +3510,7 @@ indexes with <code>python3 scripts/build_indexes.py</code>.</p>
     build_wiki_index.py ← the resolution table learning-design-spec reads (see below)
     check_evidence_markers.py ← claim citations carrying no [±~][SMW] marker (see below)
     smd_worklist.py    ← WWC/ESSA review pages to extract next, for the SMD family (see above)
+    mcp_server.py      ← the wiki as MCP tools: search, fetch, resolve, backlinks, why (see above)
     observation_lib.py ← the evidence layer's schema and validator (see above)
     research_lib.py    ← the research layer's schemas, validators and joins (see above)
     check_research.py  ← validate the research layer; --why traverses claim -&gt; protocol
