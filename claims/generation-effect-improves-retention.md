@@ -11,13 +11,13 @@ sources:
   - id: slamecka-graf-1978
     resource: "https://doi.org/10.1037/0278-7393.4.6.592"
     title: "Slamecka, N. J., & Graf, P. (1978). The generation effect: Delineation of a phenomenon. *Journal of Experimental Psychology: Human Learning and Memory, 4*(6), 592–604. [doi:10.1037/0278-7393.4.6.592](https://doi.org/10.1037/0278-7393.4.6.592)"
-    author: Slamecka, N. J., & Graf, P.
+    author: "Slamecka, N. J., & Graf, P."
     q: 3
     i: 2
-  - id: bertsch-2007
+  - id: bertsch-et-al-2007
     resource: "https://doi.org/10.3758/BF03193441"
     title: "Bertsch, S., Pesta, B. J., Wiscott, R., & McDaniel, M. A. (2007). The generation effect: A meta-analytic review. *Memory & Cognition, 35*(2), 201–210. [doi:10.3758/BF03193441](https://doi.org/10.3758/BF03193441)"
-    author: Bertsch, S., Pesta, B. J., Wiscott, R., & McDaniel, M. A.
+    author: "Bertsch, S., Pesta, B. J., Wiscott, R., & McDaniel, M. A."
     q: 4
     i: 2
 ---

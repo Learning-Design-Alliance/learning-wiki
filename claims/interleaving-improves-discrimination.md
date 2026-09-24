@@ -11,19 +11,19 @@ sources:
   - id: kornell-bjork-2008
     resource: "https://doi.org/10.1111/j.1467-9280.2008.02127.x"
     title: "Kornell, N., & Bjork, R. A. (2008). Learning concepts and categories: Is spacing the enemy of induction? *Psychological Science, 19*(6), 585–592. [doi:10.1111/j.1467-9280.2008.02127.x](https://doi.org/10.1111/j.1467-9280.2008.02127.x)"
-    author: Kornell, N., & Bjork, R. A.
+    author: "Kornell, N., & Bjork, R. A."
     q: 3
     i: 2
   - id: rohrer-taylor-2007
     resource: "https://doi.org/10.1007/s11251-007-9015-8"
     title: "Rohrer, D., & Taylor, K. (2007). The shuffling of mathematics problems improves learning. *Instructional Science, 35*(6), 481–498. [doi:10.1007/s11251-007-9015-8](https://doi.org/10.1007/s11251-007-9015-8)"
-    author: Rohrer, D., & Taylor, K.
+    author: "Rohrer, D., & Taylor, K."
     q: 3
     i: 3
   - id: brunmair-richter-2019
     resource: "https://doi.org/10.1037/bul0000209"
     title: "Brunmair, M., & Richter, T. (2019). Similarity matters: A meta-analysis of interleaved learning and its moderators. *Psychological Bulletin, 145*(11), 1029–1052. [doi:10.1037/bul0000209](https://doi.org/10.1037/bul0000209)"
-    author: Brunmair, M., & Richter, T.
+    author: "Brunmair, M., & Richter, T."
     q: 4
     i: 2
 ---

@@ -8,17 +8,17 @@ generated:
 id: learners-misjudge-retrieval-benefit
 evidence_strength: moderate
 sources:
-  - id: karpicke-2009
+  - id: karpicke-et-al-2009
     resource: "https://doi.org/10.1080/09658210802647009"
     title: "Karpicke, J. D., Butler, A. C., & Roediger, H. L. (2009). Metacognitive strategies in student learning: Do students practise retrieval when they study on their own? *Memory, 17*(4), 471–479. [doi:10.1080/09658210802647009](https://doi.org/10.1080/09658210802647009)"
-    author: Karpicke, J. D., Butler, A. C., & Roediger, H. L.
+    author: "Karpicke, J. D., Butler, A. C., & Roediger, H. L."
     q: 2
     i: 2
     n: 177
-  - id: bjork-2013
+  - id: bjork-et-al-2013
     resource: "https://doi.org/10.1146/annurev-psych-113011-143823"
     title: "Bjork, R. A., Dunlosky, J., & Kornell, N. (2013). Self-regulated learning: Beliefs, techniques, and illusions. *Annual Review of Psychology, 64*, 417–444. [doi:10.1146/annurev-psych-113011-143823](https://doi.org/10.1146/annurev-psych-113011-143823)"
-    author: Bjork, R. A., Dunlosky, J., & Kornell, N.
+    author: "Bjork, R. A., Dunlosky, J., & Kornell, N."
     q: 2
     i: 2
 ---

@@ -11,7 +11,7 @@ sources:
   - id: laberge-samuels-1974
     resource: "https://doi.org/10.1016/0010-0285(74)90015-2"
     title: "LaBerge, D., & Samuels, S. J. (1974). Toward a theory of automatic information processing in reading. *Cognitive Psychology, 6*(2), 293–323. [doi:10.1016/0010-0285(74)90015-2](https://doi.org/10.1016/0010-0285(74)90015-2)"
-    author: LaBerge, D., & Samuels, S. J.
+    author: "LaBerge, D., & Samuels, S. J."
     q: 1
     i: 2
   - id: perfetti-2007

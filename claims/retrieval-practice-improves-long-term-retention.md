@@ -11,7 +11,7 @@ sources:
   - id: roediger-karpicke-2006
     resource: "https://doi.org/10.1111/j.1467-9280.2006.01693.x"
     title: "Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)"
-    author: Roediger, H. L., & Karpicke, J. D.
+    author: "Roediger, H. L., & Karpicke, J. D."
     q: 3
     i: 3
     n: 180
@@ -21,10 +21,10 @@ sources:
     author: Rowland, C. A.
     q: 4
     i: 2
-  - id: adesope-2017
+  - id: adesope-et-al-2017
     resource: "https://doi.org/10.3102/0034654316689306"
     title: "Adesope, O. O., Trevisan, D. A., & Sundararajan, N. (2017). Rethinking the use of tests: A meta-analysis of practice testing. *Review of Educational Research, 87*(3), 659–701. [doi:10.3102/0034654316689306](https://doi.org/10.3102/0034654316689306)"
-    author: Adesope, O. O., Trevisan, D. A., & Sundararajan, N.
+    author: "Adesope, O. O., Trevisan, D. A., & Sundararajan, N."
     q: 4
     i: 2
 ---

@@ -11,19 +11,19 @@ sources:
   - id: callender-mcdaniel-2009
     resource: "https://doi.org/10.1016/j.cedpsych.2008.07.001"
     title: "Callender, A. A., & McDaniel, M. A. (2009). The limited benefits of rereading educational texts. *Contemporary Educational Psychology, 34*(1), 30–41. [doi:10.1016/j.cedpsych.2008.07.001](https://doi.org/10.1016/j.cedpsych.2008.07.001)"
-    author: Callender, A. A., & McDaniel, M. A.
+    author: "Callender, A. A., & McDaniel, M. A."
     q: 3
     i: 0
-  - id: roediger-karpicke-2006b
+  - id: roediger-karpicke-2006-review
     resource: "https://doi.org/10.1111/j.1745-6916.2006.00012.x"
     title: "Roediger, H. L., & Karpicke, J. D. (2006). The power of testing memory: Basic research and implications for educational practice. *Perspectives on Psychological Science, 1*(3), 181–210. [doi:10.1111/j.1745-6916.2006.00012.x](https://doi.org/10.1111/j.1745-6916.2006.00012.x)"
-    author: Roediger, H. L., & Karpicke, J. D.
+    author: "Roediger, H. L., & Karpicke, J. D."
     q: 2
     i: 2
-  - id: dunlosky-2013
+  - id: dunlosky-et-al-2013
     resource: "https://doi.org/10.1177/1529100612453266"
     title: "Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)"
-    author: Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T.
+    author: "Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T."
     q: 3
     i: 2
 ---

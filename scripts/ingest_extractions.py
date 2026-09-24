@@ -69,7 +69,7 @@ TYPE_TO_FOLDER = {
 
 # Matches okf_lib's own citation-year convention: "(2020)" or "(2020a)".
 _YEAR_RE = re.compile(r"\((\d{4}[a-z]?)\)")
-_URL_RE = re.compile(r"(https?://[^\s)]+)")
+_URL_RE = re.compile(r"(https?://(?:[^\s()<>]|\([^\s()]*\)|<[^\s()<>]*>)+)")  # balanced parens are part of a DOI; see okf_lib.LINK_URL
 
 
 
