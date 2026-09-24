@@ -129,17 +129,18 @@ def _bullets(items, formatter=lambda x: str(x)) -> str:
     return "\n".join(f"- {formatter(i)}" for i in items)
 
 
-def _render_claim(contrib: dict, actor: str, slug: str) -> tuple[dict, str]:
-    title = (contrib.get("title") or "").strip()
-    evidence = [e for e in (contrib.get("evidence") or []) if isinstance(e, dict)]
-    subclaims = [s for s in (contrib.get("subclaims") or []) if isinstance(s, dict)]
+def _evidence_headings(evidence: list) -> list[dict]:
+    """The `### Author Year` heading each evidence entry renders under, in order.
 
-    anchor_slug = {}   # raw JSON anchor -> heading slug used in the rendered page
-    anchor_label = {}  # raw JSON anchor -> human-readable heading label
+    One function, used by the claim renderer AND by the observation record, so
+    the anchor a record names is by construction the heading the page carries.
+    A study reporting more than one finding is common (e.g. two ANOVA results
+    cited as two separate evidence entries). Without the suffixing below, both
+    entries collapse onto the SAME heading and the SAME frontmatter sources[]
+    id, which is wrong twice over: the subclaim -> evidence anchor links become
+    ambiguous, and OKF's sources[] entries are supposed to be unique per id."""
     used_headings = {}  # base heading slug -> how many evidence entries have used it so far
-    ev_blocks = []
-    sources = []
-
+    out = []
     for ev in evidence:
         raw_anchor = str(ev.get("anchor") or "")
         citation = (ev.get("citation") or "").strip()
@@ -147,18 +148,30 @@ def _render_claim(contrib: dict, actor: str, slug: str) -> tuple[dict, str]:
         base_label = f"{author.split(',')[0]} {year}".strip() if author and year else (raw_anchor or sid)
         base_label = base_label or sid
         base_slug = ok.slugify(base_label) or sid
-        # A study reporting more than one finding is common (e.g. two ANOVA
-        # results cited as two separate evidence entries) — without this,
-        # both entries collapse onto the SAME "### Author Year" heading and
-        # the SAME frontmatter sources[] id, which is wrong twice over: the
-        # subclaim -> evidence anchor links become ambiguous, and OKF's
-        # sources[] entries are supposed to be unique per id.
         seen = used_headings.get(base_slug, 0)
         used_headings[base_slug] = seen + 1
         if seen:
             heading_slug, label = f"{base_slug}-{seen + 1}", f"{base_label} ({seen + 1})"
         else:
             heading_slug, label = base_slug, base_label
+        out.append({"ev": ev, "raw_anchor": raw_anchor, "citation": citation, "author": author,
+                    "sid": sid, "heading_slug": heading_slug, "label": label})
+    return out
+
+
+def _render_claim(contrib: dict, actor: str, slug: str) -> tuple[dict, str]:
+    title = (contrib.get("title") or "").strip()
+    evidence = [e for e in (contrib.get("evidence") or []) if isinstance(e, dict)]
+    subclaims = [s for s in (contrib.get("subclaims") or []) if isinstance(s, dict)]
+
+    anchor_slug = {}   # raw JSON anchor -> heading slug used in the rendered page
+    anchor_label = {}  # raw JSON anchor -> human-readable heading label
+    ev_blocks = []
+    sources = []
+
+    for h in _evidence_headings(evidence):
+        ev, raw_anchor, citation, author = h["ev"], h["raw_anchor"], h["citation"], h["author"]
+        heading_slug, label = h["heading_slug"], h["label"]
         anchor_slug[raw_anchor] = heading_slug
         anchor_label[raw_anchor] = label
 
@@ -425,6 +438,146 @@ def ingest_record(record: dict, actor: str, dry_run: bool) -> list:
     return written
 
 
+def build_study_record(record: dict, written: list, actor: str,
+                       removed_dois: list | None = None) -> tuple[str | None, dict | None, list]:
+    """(key, observation record, problems) from an extraction's `study_record`.
+
+    The record is built from the extraction and then held to exactly the same
+    validator as a hand-written one (observation_lib.validate_record, with the
+    live claim/anchor index), so the pipeline cannot write a record the store
+    would refuse. Nothing here fills a field the extraction left empty:
+    `study.doi` is never set (absent = not established), provenance says an
+    unverified pipeline wrote it, and an observation's claim edge is kept only
+    when it names a `bearing` — never defaulted, because a record read as
+    `supports` because nobody said otherwise is a fabrication.
+
+    The anchor is set only when the claim page was written by THIS run, so it
+    points at the evidence entry this same extraction produced. For a claim
+    page that already existed, the edge is kept without an anchor: the record
+    names the proposition, and writing it into that page's argument stays an
+    editorial act (CLAUDE.md: do not automate epistemic promotion)."""
+    import observation_lib as ol
+
+    parsed = record.get("parsed") or {}
+    sr = parsed.get("study_record")
+    if not isinstance(sr, dict):
+        return None, None, []
+    problems = []
+    contributions = [c for c in (parsed.get("contributions") or []) if isinstance(c, dict)]
+    claims = {c.get("slug"): c for c in contributions if c.get("type") == "claim" and c.get("slug")}
+    written_claims = {slug for folder, slug, *_ in written if folder == "claims"}
+
+    # The source: the one L0b citation string every evidence entry carries.
+    citation = next((ev.get("citation") for c in claims.values()
+                     for ev in (c.get("evidence") or []) if isinstance(ev, dict) and ev.get("citation")),
+                    None)
+    if not citation:
+        return None, None, ["no evidence citation to name the source by"]
+    # gate_citations reports each removal as "<page>: <doi> (<status>)".
+    dois = {m.group(1) for r in (removed_dois or [])
+            for m in [re.search(r"(10\.\d{4,9}/[^\s()]+)", str(r))] if m}
+    for doi in dois:
+        # The citation gate stripped this DOI from the pages because it
+        # resolved to the wrong paper; the record must not carry it back in.
+        citation = re.sub(rf"\s*\[?(?:doi:)?\s*(?:https?://(?:dx\.)?doi\.org/)?{re.escape(doi)}\]?(?:\([^)]*\))?",
+                          "", citation, flags=re.I).strip()
+    sid, _, _ = _citation_id_author_year(citation)
+    key = ol.ascii_key(sid)
+
+    appears, observations = [], []
+    for o in sr.get("observations") or []:
+        if not isinstance(o, dict):
+            continue
+        o = dict(o)
+        claim, ref, bearing = o.pop("claim", None), o.pop("evidence_ref", None), o.pop("bearing", None)
+        observations.append(o)
+        if not claim:
+            continue
+        if bearing not in ol.BEARINGS:
+            problems.append(f"observation {o.get('id')!r}: claim edge to {claim!r} dropped — "
+                            f"bearing {bearing!r} is not one of {sorted(ol.BEARINGS)}")
+            continue
+        edge = {"claim": claim, "bearing": bearing}
+        if claim in written_claims and claim in claims:
+            heads = {h["raw_anchor"]: h["heading_slug"]
+                     for h in _evidence_headings([e for e in (claims[claim].get("evidence") or [])
+                                                  if isinstance(e, dict)])}
+            if ref in heads:
+                edge["anchor"] = heads[ref]
+        elif not (WIKI_ROOT / "claims" / f"{claim}.md").exists():
+            problems.append(f"observation {o.get('id')!r}: claim edge dropped — claims/{claim}.md "
+                            f"was not written and does not exist")
+            continue
+        if edge not in appears:
+            appears.append(edge)
+
+    rec = {
+        "schema_version": ol.SCHEMA_VERSION,
+        "study": {"key": key, "citation": citation, "design": sr.get("design")},
+        "provenance": {
+            "source_type": "research",
+            "extracted_by": actor,
+            "extracted_at": date.today().isoformat(),
+            "extraction_method": f"ingest-pipeline-{record.get('prompt_version') or 'unknown'}"
+                                 f" ({record.get('model') or 'unknown model'})",
+            "verification": "unverified",
+        },
+    }
+    if sr.get("synthesis") is not None:
+        rec["study"]["synthesis"] = sr["synthesis"]
+    if appears:
+        rec["appears_in"] = appears
+    rec["evidence_base"] = sr.get("evidence_base")
+    rec["comparisons"] = sr.get("comparisons") or []
+    rec["observations"] = observations
+
+    issues = ol.validate_record(rec, key, ol.claim_evidence_anchors())
+    return key, rec, problems + list(issues)
+
+
+def ingest_study_record(record: dict, written: list, actor: str, dry_run: bool,
+                        removed_dois: list | None = None) -> str | None:
+    """Write observations/<key>.yaml when the extraction's study_record is
+    valid. Returns the bundle-relative path written (or that would be), else
+    None. Never overwrites: a study key that already has a record is either the
+    same study, recorded more carefully by hand, or a namesake — and a pipeline
+    cannot tell which, so it reports and stops."""
+    import yaml
+
+    key, rec, problems = build_study_record(record, written, actor, removed_dois)
+    aid = record.get("article_id")
+    if rec is None:
+        if problems:
+            print(f"  [observations] {aid}: no record — {problems[0]}", file=sys.stderr)
+        return None
+    blocking = [p for p in problems if "claim edge" not in p]
+    for p in problems:
+        if p not in blocking:
+            print(f"  [observations] {aid}: {p}", file=sys.stderr)
+    if blocking:
+        print(f"  [observations] {aid}: record for {key!r} NOT written, "
+              f"{len(blocking)} validation issue(s):", file=sys.stderr)
+        for p in blocking[:8]:
+            print(f"      {p}", file=sys.stderr)
+        return None
+    rel = f"observations/{key}.yaml"
+    path = WIKI_ROOT / rel
+    if path.exists():
+        print(f"  [observations] {aid}: {rel} already exists — not overwriting; "
+              f"merge by hand if this is the same study", file=sys.stderr)
+        return None
+    header = (f"# {key} — written by the ingest pipeline from {aid}, and UNVERIFIED.\n"
+              f"# Extraction method is in provenance. Every field was validated against\n"
+              f"# observations/SCHEMA.md; none was checked against the article by a person.\n\n")
+    text = header + yaml.safe_dump(rec, sort_keys=False, allow_unicode=True, width=100)
+    if dry_run:
+        print(f"  [DRY-RUN] would write {rel}")
+    else:
+        path.write_text(text, encoding="utf-8")
+        print(f"  [OK] wrote {rel}")
+    return rel
+
+
 def gate_citations(pages: list) -> dict:
     """Run the citation gate over the pages a source just wrote.
 
@@ -568,6 +721,10 @@ def main() -> None:
             if not citations["checked"]:
                 print(f"  [citations] gate could not run — manifest records this ingest "
                       f"as unverified", file=sys.stderr)
+            obs_rel = ingest_study_record(record, written, args.by, args.dry_run,
+                                          removed_dois=citations.get("removed"))
+            if obs_rel:
+                page_paths.append(obs_rel)
             ok.append_manifest_entry(
                 source_id=article_id,
                 title=record.get("article_title", ""),

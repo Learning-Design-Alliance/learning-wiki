@@ -867,10 +867,19 @@ The route for the rest, when the structure has proved itself:
    `provenance.extraction_method` says which, per file, because the three are not equally
    good. Building a record from a paraphrase of a paraphrase is how the fabrications this
    file catalogues got in.
-4. **Automated extraction is written and not switched on.** `prompt_versions/v127.txt`
-   carries an `observation` block per evidence entry; `CURRENT` still points at `v99`.
-   Turning it on is a deliberate act after the fixtures have proved useful, not a
-   side effect of this change.
+4. **Automated extraction is built end to end, and not switched on.**
+   `prompt_versions/v129.txt` asks for one v2-shaped `study_record` per article (arms,
+   comparisons, observations, each observation linked to its claim's evidence entry with
+   a `bearing`), plus `arms[].delivery` and `design.preregistration`.
+   `ingest_extractions.build_study_record` turns it into `observations/<key>.yaml` only
+   if `observation_lib.validate_record` passes against the live claim index. It never
+   overwrites an existing record and never defaults a `bearing`, and it sets an anchor
+   only on a claim page the same run wrote. The extraction validator reports a bad
+   record as **warnings**, so a flawed record never costs an article its claims but does
+   show in the tuning signal. `v127` (a v1-shaped block that nothing ingested) is
+   superseded. **`CURRENT` still points at `v99`.** Moving it is the eval ratchet's call,
+   not a side effect: tune from `v128` (the null-impact rule only) or `v129` (plus the
+   record), and let `optimize` decide.
 
 **One fixture corrected the claim page it came from, which is the point of doing this.**
 `claims/game-based-practice-outperforms-traditional-l2-vocabulary-instruction.md` renders

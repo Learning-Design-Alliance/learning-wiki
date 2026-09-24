@@ -361,6 +361,11 @@ study:                       # the SOURCE
   design:
     family:                  # required — closed vocabulary below
     design_detail:           # never infer a stronger design than stated
+    preregistration:         # OPTIONAL — {status, registry, id, source_quote}
+                             # status: preregistered | not-preregistered | unreported
+                             # (unreported = looked, the source does not say;
+                             # absent = nobody looked). preregistered requires a
+                             # registry or an id: saying where is the claim.
   synthesis:                 # REQUIRED iff family is meta-analysis/systematic-review,
                              # and forbidden otherwise
     model:                   # required — e.g. "Random-effects models"
@@ -378,7 +383,7 @@ provenance:                  # required
   extracted_by: | extracted_at: | extraction_method:    # all required.
                              # extraction_method SAYS WHAT WAS READ:
                              # manual-from-publisher-fulltext / -abstract /
-                             # manual-from-wiki-claim-page / ingest-pipeline-v127
+                             # manual-from-wiki-claim-page / ingest-pipeline-vNNN (model)
   verification:              # unverified | machine-checked | human-reviewed
   verified_by:               # must be human:<id> if human-reviewed — an agent
                              # must never mark its own extraction reviewed
@@ -416,6 +421,11 @@ evidence_base:               # required — what the results are ABOUT
       size: {value, unit}
       elements: [{term, anchors: [...]}]   # `term` required; anchors must resolve
       dose: {amount, unit, detail}
+      delivery: {grouping, role, basis}   # OPTIONAL. grouping: individual | pair
+                             # | small-group | whole-class | whole-school | self-paced
+                             # | mixed | other. role: core-curriculum | supplement
+                             # | replacement | add-on | other. basis (REQUIRED):
+                             # stated | inferred | ambiguous, as for outcome.role
       implementation_notes: [...]
 
 comparisons:
