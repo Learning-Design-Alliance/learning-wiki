@@ -40,7 +40,7 @@ Effective PE instruction sequences observation, guided practice, and application
 
 ### Target Learning Goals
 - Motor skill acquisition (locomotor, manipulative, sport-specific skills)
-- Tactical/strategic understanding of games
+- Tactical/strategic understanding of games — [Teaching Games for Understanding improves tactical decision-making more than traditional physical education instruction.](../claims/teaching-games-for-understanding-improves-tactical-decision-making.md) [+M]
 - Health-related fitness knowledge and habits
 - Social dispositions: teamwork, fair play, leadership roles
 

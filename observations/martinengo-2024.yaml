@@ -78,6 +78,10 @@ provenance:
 # recording a real study before anyone argues from it is the normal case, not
 # an error. `check_observations.py --summary` reports records nothing cites.
 
+appears_in:
+  - claim: spaced-practice-improves-retention
+    bearing: supports
+
 evidence_base:
   # THE field v1 did not have. Counted in studies, because that is what a
   # synthesis pools.

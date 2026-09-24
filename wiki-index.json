@@ -1,6 +1,6 @@
 {
  "counts": {
-  "claim": 428,
+  "claim": 429,
   "element": 327,
   "learner-variable": 12,
   "method": 16,
@@ -3544,6 +3544,15 @@
    "path": "claims/teachers-synthesize-pd-practices-with-context-not-just-transfer-them.md",
    "status": "draft",
    "title": "Teachers actively synthesize professional-development practices with their own context rather than transferring them intact",
+   "type": "claim"
+  },
+  {
+   "description": "Across 65 quasi-experimental physical education studies, Teaching Games for Understanding outperformed traditional technique-led instruction on tactical decision-making (SMD 0.83), the only model in the network whose estimate on that outcome clearly excluded zero.",
+   "evidence_strength": "moderate",
+   "id": "teaching-games-for-understanding-improves-tactical-decision-making",
+   "path": "claims/teaching-games-for-understanding-improves-tactical-decision-making.md",
+   "status": "draft",
+   "title": "Teaching Games for Understanding improves tactical decision-making more than traditional physical education instruction.",
    "type": "claim"
   },
   {
@@ -30926,6 +30935,7 @@
    "teacher-student-relationships-improve-engagement": "teacher-student-relationships-improve-engagement",
    "teacher-student-relationships-improve-engagement-and-achievement": "teacher-student-relationships-improve-engagement-and-achievement",
    "teachers-synthesize-pd-practices-with-context-not-just-transfer-them": "teachers-synthesize-pd-practices-with-context-not-just-transfer-them",
+   "teaching-games-for-understanding-improves-tactical-decision-making": "teaching-games-for-understanding-improves-tactical-decision-making",
    "teaching-others-generative-strategy": "teaching-others-generative-strategy",
    "testing-effect-improves-learning": "testing-effect-improves-learning",
    "testing-effect-improves-retention": "testing-effect-improves-retention",
