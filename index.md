@@ -30,13 +30,13 @@ How a course gets designed — whole-process models a designer works through, ra
 ### [Design Methods](methods/index.md) (17)
 The practices a design process is made of — analysis, elicitation, mapping and evaluation work done on the design, not in the classroom.
 
-### [Theories](theories/index.md) (90)
+### [Theories](theories/index.md) (91)
 Explanatory frameworks that ground principles and claims.
 
 ### [Learner Variables](learner-variables/index.md) (12)
 Canonical learner characteristics claims report findings about — one page per variable, so the same concept does not fragment across differently-worded tags.
 
-### [Claims](claims/index.md) (433)
+### [Claims](claims/index.md) (434)
 Empirical claims with evidence ratings, sources, and competing views.
 
 ---

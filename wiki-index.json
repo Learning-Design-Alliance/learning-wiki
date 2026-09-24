@@ -1,6 +1,6 @@
 {
  "counts": {
-  "claim": 433,
+  "claim": 434,
   "element": 327,
   "learner-variable": 12,
   "method": 17,
@@ -8,7 +8,7 @@
   "principle": 199,
   "process": 12,
   "strategy": 2548,
-  "theory": 90
+  "theory": 91
  },
  "kinds": [
   "claim",
@@ -1497,6 +1497,15 @@
    "path": "claims/invention-tasks-prepare-future-learning.md",
    "status": "draft",
    "title": "Invention Tasks Prepare Future Learning",
+   "type": "claim"
+  },
+  {
+   "description": "Ellsworth's survey of educational change models concludes that a single innovation incompatible with the system it enters may be rejected, and that success depends on a coordinated bundle of innovations, usually affecting several stakeholder groups, that leaves a coherent system.",
+   "evidence_strength": "weak",
+   "id": "isolated-innovations-are-rejected-by-the-system-they-enter",
+   "path": "claims/isolated-innovations-are-rejected-by-the-system-they-enter.md",
+   "status": "draft",
+   "title": "An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.",
    "type": "claim"
   },
   {
@@ -30095,6 +30104,14 @@
    "type": "theory"
   },
   {
+   "description": "Ellsworth's organisation of the classic educational change models around a communication model, in which a change agent communicates an innovation to an intended adopter through a change process, across an environment that contains resistance.",
+   "id": "ellsworth-framework-of-educational-change",
+   "path": "theories/ellsworth-framework-of-educational-change.md",
+   "status": "draft",
+   "title": "Ellsworth's Framework of Educational Change",
+   "type": "theory"
+  },
+  {
    "description": "Dynamic, student-originated values (not disciplinary ideals imposed from outside) that shape which models students build, use, and trust \u2014 functioning as forward-looking impulses for further inquiry, not just backward-looking criteria for judging a finished model.",
    "id": "epistemic-commitments",
    "path": "theories/epistemic-commitments.md",
@@ -30762,6 +30779,7 @@
    "interleaving-improves-transfer": "interleaving-improves-transfer",
    "intuitive-learners-outperform-sensing-learners": "intuitive-learners-outperform-sensing-learners",
    "invention-tasks-prepare-future-learning": "invention-tasks-prepare-future-learning",
+   "isolated-innovations-are-rejected-by-the-system-they-enter": "isolated-innovations-are-rejected-by-the-system-they-enter",
    "italian-gender-stays-incomplete-for-l2-and-heritage-speakers": "italian-gender-stays-incomplete-for-l2-and-heritage-speakers",
    "italian-l2-motivation-is-ideal-self-not-instrumental": "italian-l2-motivation-is-ideal-self-not-instrumental",
    "joint-book-reading-predicts-literacy-success": "joint-book-reading-predicts-literacy-success",
@@ -34313,6 +34331,7 @@
    "dual-coding-theory": "dual-coding-theory",
    "dual-process-account-of-discovery-in-writing": "dual-process-account-of-discovery-in-writing",
    "ecological-paradigm-of-interdisciplinary-learning": "ecological-paradigm-of-interdisciplinary-learning",
+   "ellsworth-framework-of-educational-change": "ellsworth-framework-of-educational-change",
    "epistemic-commitments": "epistemic-commitments",
    "epistemic-games": "epistemic-games",
    "epistemic-injustice": "epistemic-injustice",

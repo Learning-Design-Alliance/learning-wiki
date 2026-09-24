@@ -3,11 +3,11 @@
   "claims->claims": 370,
   "claims->elements": 125,
   "claims->learner-variables": 1,
-  "claims->methods": 2,
+  "claims->methods": 3,
   "claims->patterns": 103,
   "claims->principles": 146,
   "claims->processes": 3,
-  "claims->theories": 283,
+  "claims->theories": 284,
   "elements->claims": 170,
   "elements->elements": 314,
   "elements->learner-variables": 1,
@@ -54,13 +54,13 @@
   "strategies->principles": 1744,
   "strategies->processes": 9,
   "strategies->theories": 410,
-  "theories->claims": 43,
+  "theories->claims": 44,
   "theories->elements": 17,
-  "theories->methods": 1,
+  "theories->methods": 2,
   "theories->patterns": 24,
   "theories->principles": 30,
-  "theories->processes": 2,
-  "theories->theories": 77
+  "theories->processes": 3,
+  "theories->theories": 79
  },
  "edges": {
   "claims": {
@@ -30089,6 +30089,15 @@
       "polarity": "+",
       "slug": "invention",
       "strength": "S"
+     }
+    ]
+   },
+   "isolated-innovations-are-rejected-by-the-system-they-enter": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "ellsworth-framework-of-educational-change",
+      "strength": "W"
      }
     ]
    },
@@ -80645,6 +80654,11 @@
     ]
    },
    "stakeholder-mapping": {
+    "claims": [
+     {
+      "slug": "isolated-innovations-are-rejected-by-the-system-they-enter"
+     }
+    ],
     "methods": [
      {
       "slug": "make-the-invisible-visible-power-dynamics"
@@ -80656,6 +80670,11 @@
     "processes": [
      {
       "slug": "design-based-research"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "ellsworth-framework-of-educational-change"
      }
     ]
    },
@@ -80722,9 +80741,19 @@
     ]
    },
    "theory-of-change": {
+    "claims": [
+     {
+      "slug": "isolated-innovations-are-rejected-by-the-system-they-enter"
+     }
+    ],
     "methods": [
      {
       "slug": "logic-model"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "ellsworth-framework-of-educational-change"
      }
     ]
    }
@@ -106273,6 +106302,11 @@
      {
       "slug": "vendor-production"
      }
+    ],
+    "theories": [
+     {
+      "slug": "ellsworth-framework-of-educational-change"
+     }
     ]
    },
    "data-wise-improvement-process": {
@@ -108406,6 +108440,9 @@
       "slug": "ecological-paradigm-of-interdisciplinary-learning"
      },
      {
+      "slug": "ellsworth-framework-of-educational-change"
+     },
+     {
       "slug": "epistemic-injustice"
      },
      {
@@ -108777,6 +108814,18 @@
      },
      {
       "slug": "knowledge-objects-and-knowledge-practices"
+     }
+    ]
+   },
+   "ellsworth-framework-of-educational-change": {
+    "claims": [
+     {
+      "slug": "isolated-innovations-are-rejected-by-the-system-they-enter"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "fullers-concerns-theory"
      }
     ]
    },
@@ -109653,6 +109702,11 @@
     "principles": [
      {
       "slug": "nbpts-five-core-propositions"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "ellsworth-framework-of-educational-change"
      }
     ]
    },
@@ -112470,7 +112524,7 @@
  },
  "note": "Reverse edges: for each page, which pages link TO it. Built by scripts/build_reverse_index.py; see its docstring for why this direction rather than ## Examples.",
  "totals": {
-  "claims": 433,
+  "claims": 434,
   "elements": 327,
   "learner-variables": 12,
   "methods": 17,
@@ -112478,6 +112532,6 @@
   "principles": 199,
   "processes": 12,
   "strategies": 2548,
-  "theories": 90
+  "theories": 91
  }
 }

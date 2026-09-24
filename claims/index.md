@@ -2,7 +2,7 @@
 
 Empirical claims with evidence ratings, sources, and competing views.
 
-**433 entries** · 0 stable · 29 in review · 404 drafts
+**434 entries** · 0 stable · 29 in review · 405 drafts
 
 ---
 
@@ -58,6 +58,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Agentic engagement with lively data supports epistemically just crisis sensemaking](lively-data-and-agentic-positions-support-epistemically-just-crisis-sensemaking.md)
 * [AI-mediated feedback in hands-on exhibits improves learning and engagement](ai-mediated-feedback-in-hands-on-exhibits-improves-learning-and-engagement.md)
 * [Ambiguous tasks with a revision step help students recognize the role of assumptions in mathematical activity](ambiguous-tasks-with-revision-help-students-recognize-role-of-assumptions.md)
+* [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) - Ellsworth's survey of educational change models concludes that a single innovation incompatible with the system it enters may be rejected, and that success depends on a coordinated bundle of innovations, usually affecting several stakeholder groups, that leaves a coherent system.
 * [Analogical Reasoning Improves Transfer](analogical-reasoning-improves-transfer.md)
 * [Annotating improves learning](annotating-improves-learning.md)
 * [Argumentation Improves Reasoning](argumentation-improves-reasoning.md)
