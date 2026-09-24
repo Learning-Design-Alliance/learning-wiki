@@ -1827,9 +1827,25 @@ work is done, not that the check is broken.</p>
   instruments"), mutation list — now six, all of which must break the benchmark
   release — in the fixture header at
   <code>research/protocols/example-open-corpus-secondary-use/1.0.0.yaml</code>.</li>
-<li><strong><code>scripts/find_title_duplicates.py</code> reports ~943 near-duplicate title pairs.</strong> That is a
+<li>
+<p><strong><code>scripts/find_title_duplicates.py</code> reports ~943 near-duplicate title pairs.</strong> That is a
   known backlog, mostly hyphen-vs-underscore variants of one page. It is reported, not
-  lint-failing, on purpose.</li>
+  lint-failing, on purpose.</p>
+</li>
+<li>
+<p><strong>Embargoed research never enters this repository, on any branch.</strong> learning-wiki is
+  <strong>public</strong>: a pushed branch or an opened PR is visible to anyone, merged or not, so
+  "keep it in an unmerged PR" does not keep anything private. Embargoed work lives in
+  the private <code>Learning-engineering-research</code> repo until the embargo lifts, and only then
+  is it written here. The private repo stamps embargoed files with the marker
+  <code>LDA-EMBARGO</code>. <code>scripts/check_embargo.py</code> refuses to let it out, <strong>before the push</strong>
+  (CI runs too late, since the branch is already public by then): a PreToolUse hook in
+  <code>.claude/settings.json</code> blocks <code>git push</code> and the GitHub MCP write tools in every
+  Claude Code session here. <code>git config core.hooksPath scripts/hooks</code> does the same for
+  a person pushing by hand, and <code>lint.py --type embargo</code> is the CI backstop. A marker
+  catches copying, not prose retyped from memory, so an agent with the private repo
+  attached must still treat anything it read there as embargoed unless told otherwise.</p>
+</li>
 </ul>
 <p><strong>When you finish something wiki-wide, add a line here.</strong> That is how the next session
 finds out.</p>
@@ -3516,6 +3532,7 @@ indexes with <code>python3 scripts/build_indexes.py</code>.</p>
     check_research.py  ← validate the research layer; --why traverses claim -&gt; protocol
     lint.py            ← health-check (see Lint above)
     verify_citation_edits.py ← after a citation tool writes: did it edit only citations? (see above)
+    check_embargo.py   ← refuses to push embargoed research into this PUBLIC repo (see settled items)
 </code></pre></div>
 <p>Each folder's <code>index.md</code> is itself a reserved OKF filename: no frontmatter (except the bundle-root's <code>okf_version</code>), and a plain <code>* [Title](slug.md) - description</code> bullet listing grouped by status. Regenerate these with <code>python3 scripts/build_indexes.py</code> rather than hand-editing them.</p>
 <hr />
@@ -4028,13 +4045,14 @@ from only the 22, silently. It had been written from one example page without ch
 which spelling the corpus used. Fixed: it takes every backtick span on the codes line and
 looks for each code independently, recovering <code>i</code> and <code>n</code> on 121 entries. Coverage went
 from 143/22/22 to 149/149/143.</p>
-<p><strong>Impact magnitude (i):</strong>
+<p><strong>Impact magnitude (i):</strong> until 2026-09-24 <code>i0</code> meant "negligible <em>or unclear</em>", and the extraction prompt wrote <code>i0</code> whenever an article printed no effect size. Prompt v128 and the validator now write <code>null</code> for that case, rendered <code>i?</code>. An older <code>i0</code> may still mean either, so read its evidence text; the 11 claim pages coding <code>i: 0</code> have not been recoded.
 | i | Rough effect size |
 |---|-------------------|
 | 3 | Large (d ≥ 0.8 or equivalent) |
 | 2 | Medium (d 0.4–0.79) |
 | 1 | Small (d 0.2–0.39) |
-| 0 | Negligible / unclear |</p>
+| 0 | Negligible: an effect size is reported and it is below d 0.2 |
+| ? | No effect size reported: someone looked and the source does not say. Never read as 0 |</p>
 <hr />
 <h2 id="ingest-notes-for-agents">Ingest notes for agents<a class="headerlink" href="#ingest-notes-for-agents" title="Permanent link">&para;</a></h2>
 <ul>
