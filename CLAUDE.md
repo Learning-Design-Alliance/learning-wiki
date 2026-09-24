@@ -211,6 +211,15 @@ already uses — What Works Clearinghouse (6,631 independent findings), `metadat
 (303), Ma et al. 2014 on intelligent tutoring (107). Depth in standardised mean difference buys
 comparability *outward* to those, not only statistical power *inward*.
 
+**Where to find candidates: `scripts/smd_worklist.py`.** It ranks the WWC intervention reports and
+Evidence for ESSA program pages that the Renaissance AI and Education Resource Hub catalogues (347
+SMD-format pages and 30 practice guides as of 2026-09-24). It ranks by URLs the wiki already cites,
+then by whether both publishers reviewed the programme, then by name mentions. It reads the hub's
+published `data.json` at run time and **commits nothing from it**: that repo has no licence yet, so
+its data stays out of this one until the maintainer says otherwise. It also copies no hub
+description, and some of those quote effect sizes from model-written summaries. Take the numbers
+from the WWC or ESSA page itself.
+
 **The size of the prize.** Reaching 30 studies in one family at the corpus's current extraction
 habit takes roughly **90 studies** (95% CI 45–270, wide because it rests on a 3-study family — read
 the order of magnitude, not the point estimate). Extracting deliberately at one scale takes **28
@@ -1763,6 +1772,7 @@ ld-wiki/
     build_reverse_index.py ← who points at this page, as shippable data (see below)
     build_wiki_index.py ← the resolution table learning-design-spec reads (see below)
     check_evidence_markers.py ← claim citations carrying no [±~][SMW] marker (see below)
+    smd_worklist.py    ← WWC/ESSA review pages to extract next, for the SMD family (see above)
     observation_lib.py ← the evidence layer's schema and validator (see above)
     research_lib.py    ← the research layer's schemas, validators and joins (see above)
     check_research.py  ← validate the research layer; --why traverses claim -> protocol
