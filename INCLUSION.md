@@ -64,13 +64,10 @@ expert opinion that nobody has tested, and it gets cited *as if* it were evidenc
 author's reputation. Leaving those sources out would leave that gap invisible. So:
 
 - An obscure opinion piece is rejected under E1.
-- A **widely cited** opinion is ingested on purpose. Its claim is coded `q1` (expert opinion is
+- A **widely cited** opinion, meaning one **cited by five or more wiki pages**, is ingested on purpose. Its claim is coded `q1` (expert opinion is
   already part of that tier), and its evidence entry says plainly that **no evidence or argument was
   offered**. The claim's `## Discussion` says what evidence, if any, exists elsewhere. A downstream
   reader or agent then finds that citing it justifies nothing, however respected the author.
-
-*Still open:* what counts as "widely cited". For example, cited by five or more wiki pages, or a
-standard reference in the field.
 
 **E2. Not about learning or its design** (`out-of-scope`). Career advice, academic publishing and
 journal selection, conferences, professional networking, hiring and job-role inventories, business
