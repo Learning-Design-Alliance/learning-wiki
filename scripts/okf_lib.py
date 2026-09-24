@@ -386,6 +386,63 @@ def append_log_entries(bullet_lines: list) -> None:
     log_path.write_text(text, encoding="utf-8")
 
 
+# Why a reviewed source contributed nothing, as a closed set, so rejections
+# can be counted and so discovery can tell a verdict from a failure. The flag
+# is whether the source may be tried again: a person (or a model) judging a
+# source out of scope has settled it, but a run whose model output did not
+# parse has said nothing about the source at all, and treating that as final
+# would drop the source for good over a formatting failure. The retryable
+# codes defer to eval/corpus/processed_articles.json's bounded attempt count.
+REJECTION_CODES = {
+    "out-of-scope": (False, "not about learning design or learning science"),
+    "no-ingestable-content": (False, "in scope, but nothing to extract: an essay, a pointer page, a position paper with no findings"),
+    "already-covered": (False, "its contribution duplicates pages the wiki already has"),
+    "parse-error": (True, "the extraction model's output did not parse"),
+    "validation-error": (True, "the extraction failed structural validation"),
+    "no-contributions-extracted": (True, "the extraction model returned nothing; a model outcome, not a judgment about the source"),
+}
+
+# Entries written before reason_code existed carry only free text. These are
+# the exact strings ingest_extractions.py wrote for its three machine failures,
+# so they are recognised by the tool's own wording, not inferred from prose.
+LEGACY_RETRYABLE_REASON_PREFIXES = (
+    "parse error:",
+    "no extractable contributions",
+)
+LEGACY_RETRYABLE_REASON_SUFFIX = "structural validation error(s)"
+
+
+def manifest_rejection_is_final(entry: dict) -> bool:
+    """True when a manifest line settles its source for good: an ingest, or a
+    rejection that is a verdict rather than a failed run."""
+    if entry.get("status") == "ingested":
+        return True
+    code = entry.get("reason_code")
+    if code is not None:
+        return not REJECTION_CODES.get(code, (True,))[0]
+    reason = (entry.get("reason") or "").strip().lower()
+    if reason.startswith(LEGACY_RETRYABLE_REASON_PREFIXES) or reason.endswith(LEGACY_RETRYABLE_REASON_SUFFIX):
+        return False
+    return True
+
+
+def load_manifest() -> list[dict]:
+    """Every parseable line of sources/manifest.ndjson, in order."""
+    import json
+
+    path = WIKI_ROOT / "sources" / "manifest.ndjson"
+    if not path.exists():
+        return []
+    rows = []
+    for line in path.read_text(encoding="utf-8").splitlines():
+        if line.strip():
+            try:
+                rows.append(json.loads(line))
+            except json.JSONDecodeError:
+                continue  # lint's check_manifest_integrity reports it
+    return rows
+
+
 def append_manifest_entry(
     source_id: str,
     title: str,
@@ -394,6 +451,7 @@ def append_manifest_entry(
     reason: str | None = None,
     pages: list | None = None,
     citations: dict | None = None,
+    reason_code: str | None = None,
 ) -> None:
     """Append one line to sources/manifest.ndjson — the append-only record of every
     source article the ingest pipeline has reviewed, ingested or rejected, so
@@ -405,7 +463,9 @@ def append_manifest_entry(
     bundle-relative page paths (e.g. "claims/foo.md") the source contributed
     to — required (non-empty) for "ingested", omitted for "rejected". `reason`
     is required for "rejected" (why it didn't contribute), omitted for
-    "ingested".
+    "ingested", and so is `reason_code`, one of REJECTION_CODES: the free text
+    says why in words, the code makes the rejection countable and tells
+    discovery whether the source may be tried again.
 
     `citations` records what the citation gate found on the pages this source
     wrote — {"checked": bool, "removed": [...], "flagged": [...]}. Without it
@@ -425,6 +485,11 @@ def append_manifest_entry(
         raise ValueError("'pages' is required and must be non-empty when status='ingested'")
     if status == "rejected" and not reason:
         raise ValueError("'reason' is required when status='rejected'")
+    if status == "rejected" and reason_code not in REJECTION_CODES:
+        raise ValueError(f"'reason_code' must be one of {sorted(REJECTION_CODES)} when "
+                         f"status='rejected', got {reason_code!r}")
+    if status == "ingested" and reason_code is not None:
+        raise ValueError("'reason_code' only applies to status='rejected'")
 
     entry = {
         "id": source_id,
@@ -435,6 +500,7 @@ def append_manifest_entry(
     }
     if status == "rejected":
         entry["reason"] = reason
+        entry["reason_code"] = reason_code
     else:
         entry["pages"] = pages
         if citations is not None:

@@ -58,6 +58,7 @@ from pathlib import Path
 import requests
 
 from . import compliance, pmc_aws
+from .. import okf_lib
 
 WIKI_ROOT = Path(__file__).parent.parent.parent
 EVAL_ROOT = WIKI_ROOT / "eval"
@@ -152,6 +153,15 @@ def load_excluded_ids() -> set:
             existing = {}
         existing_entries = existing if isinstance(existing, list) else existing.get("articles", [])
         ids |= {e["id"] for e in existing_entries}
+    # sources/manifest.ndjson is the committed record of every source reviewed.
+    # The registry above lives only on the machine that ran the batches, so
+    # without this a discovery pass anywhere else skipped nothing but the ten
+    # benchmark articles — and re-surfaced, and paid to re-extract, sources
+    # already ingested or already rejected as out of scope. A rejection that
+    # is a failed run rather than a verdict stays eligible, so the registry's
+    # bounded retry still decides it.
+    ids |= {str(e["id"]).strip().lower() for e in okf_lib.load_manifest()
+            if e.get("id") and okf_lib.manifest_rejection_is_final(e)}
     return ids
 
 # See the module docstring — ERIC is the majority share (purpose-built

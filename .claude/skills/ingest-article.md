@@ -58,8 +58,10 @@ Most papers will primarily contribute **claims** and may also reinforce existing
 ```bash
 python3 scripts/log_source_review.py \
   --id "doi:<doi-or-url>" --title "<Article Title>" \
-  --status rejected --reason "<why it doesn't belong, one sentence>"
+  --status rejected --reason-code <code> --reason "<why it doesn't belong, one sentence>"
 ```
+
+`<code>` is `out-of-scope` (not learning design or learning science), `no-ingestable-content` (in scope, but an essay, a pointer page or a position paper with nothing to extract) or `already-covered` (the wiki already has what it would contribute). The three failure codes (`parse-error`, `validation-error`, `no-contributions-extracted`) are for the automated pipeline, not for a judgment you made. If the script prints `note: already reviewed`, read the earlier entry before deciding to log a second one.
 
 ---
 

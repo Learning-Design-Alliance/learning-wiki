@@ -512,15 +512,19 @@ def main() -> None:
             if not args.dry_run:
                 if validation.get("parse_error"):
                     reason = f"parse error: {validation['parse_error']}"
+                    reason_code = "parse-error"
                 elif not validation.get("n_contributions"):
                     reason = "no extractable contributions (out of scope or no learning-design content found)"
+                    reason_code = "no-contributions-extracted"
                 else:
                     reason = f"{validation.get('error_count', '?')} structural validation error(s)"
+                    reason_code = "validation-error"
                 ok.append_manifest_entry(
                     source_id=article_id,
                     title=record.get("article_title", ""),
                     status="rejected",
                     reason=reason,
+                    reason_code=reason_code,
                 )
             # article_registry_entries feeds discover_articles.record_processed_articles()
             # below (eval/corpus/processed_articles.json) — a separate, scraper-specific
