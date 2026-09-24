@@ -115,10 +115,11 @@ population is a scope qualifier on the claim. There are four exclusions, one per
 justifies nothing. The `q` scale is unchanged; the maintainer declined a `q0`. Prompt v130 carries
 the extraction side, with a claim floor of one and a rule that a reasoned argument is evidence.
 `CURRENT` stays at v99. **A research-methods paper is in only when it helps design** (a design
-process, a way of building or iterating an intervention, or how one was made). The four earlier
+process, a way of building or iterating an intervention, or how one was made). The five earlier
 rejections the criteria overturned were re-reviewed and ingested the same day, each with a later
 `ingested` manifest line rather than an edit: Osguthorpe et al. (moral dimensions), Christensen &
-West (design-based research), Dousay (ID models) and Svihla (design thinking and agile). The
+West (design-based research), Dousay (ID models), Svihla (design thinking and agile) and Ellsworth
+(educational change models). The
 chapters are JavaScript-rendered, so a plain fetch returns an empty shell; render them with the
 preinstalled Chromium (`--headless=new --dump-dom`, through `$HTTPS_PROXY`), not by guessing at
 their content.
