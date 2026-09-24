@@ -1,0 +1,195 @@
+/* Brand colors for the docs theme, sourced from the Lazuli design system
+ * (colors_and_type.css) rather than mkdocs-material's built-in named
+ * palette, which doesn't have exact hex matches for the brand.
+ *
+ * mkdocs.yml sets theme.palette primary/accent to "custom" for both the
+ * light and slate schemes, which makes Material add the
+ * [data-md-color-primary="custom"] / [data-md-color-accent="custom"]
+ * attributes these selectors target. See:
+ * https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#custom-colors
+ *
+ * Per learningdesignalliance.org and lazuli.design: the brand never fills
+ * chrome (headers, nav bars) with a solid block of Lapis. The header stays
+ * a neutral/pale background and Lapis is the *text and logo* color drawn on
+ * top of it — so --md-primary-fg-color (the header's background) is a
+ * neutral sand tone, and --md-primary-bg-color (Material's name for the
+ * foreground/text drawn on that background, confusingly) is Lapis.
+ */
+
+[data-md-color-primary="custom"] {
+  --md-primary-fg-color: #FAF7F5;        /* lazuli-sand-100 — header/tabs bar background */
+  --md-primary-fg-color--light: #F7F2ED; /* lazuli-sand-200 */
+  --md-primary-fg-color--dark: #F0E8E1;  /* lazuli-sand-300 */
+  --md-primary-bg-color: #122FB2;        /* lazuli-lapis — title, logo, nav link text */
+  --md-primary-bg-color--light: color-mix(in srgb, #122FB2 70%, transparent);
+}
+
+/* Accent governs inline link color, hover/focus states, and the code-block
+ * "highlight" tint — checked the design system's own button/badge previews
+ * (preview/buttons.html, preview/colors-semantic.html) and Golden Hour
+ * orange never actually appears in any interactive element; the only
+ * saturated interactive color in their real UI kit is Lapis itself (plus a
+ * red reserved for destructive actions). Their token literally named
+ * "accent" (#E1DBFF, Dawn) is a pale background chip color, not something
+ * with enough contrast to use as link/hover text. So accent = primary here,
+ * matching how the brand actually uses color rather than the token name. */
+[data-md-color-accent="custom"] {
+  --md-accent-fg-color: #122FB2;         /* lazuli-lapis */
+  --md-accent-fg-color--transparent: color-mix(in srgb, #122FB2 10%, transparent);
+  --md-accent-bg-color: #FFFBF5;
+  --md-accent-bg-color--light: color-mix(in srgb, #FFFBF5 70%, transparent);
+}
+
+/* Body link (resting-state) color comes from --md-typeset-a-color, which
+ * Material defaults to var(--md-primary-fg-color) — fine for a stock
+ * palette where primary is a normal saturated color, but primary-fg here is
+ * pale sand (the header background). Without this override, every inline
+ * link in page content rendered as near-white text on a white background:
+ * ~1:1 contrast, confirmed via computed-style + WCAG contrast math, not
+ * just a screenshot. !important because palette.css defines this per
+ * named primary color (indigo, teal, etc.) and "custom" isn't one of
+ * them, so it falls through to the :root default either way — but every
+ * other footer/primary override in this file needed !important to
+ * reliably win in this Material version, so staying consistent. */
+[data-md-color-accent="custom"] {
+  --md-typeset-a-color: #122FB2 !important; /* lazuli-lapis */
+}
+
+/* Full-strength Lapis passes WCAG AA easily on the light scheme's white
+ * background (10.1:1, computed) but fails badly against the dark scheme's
+ * body background (1.6:1) — Lapis is itself a fairly dark, low-luminance
+ * blue. Lighten it for dark mode specifically; verified this exact value
+ * against the real rendered slate background at 5.7:1. */
+[data-md-color-scheme="slate"][data-md-color-accent="custom"] {
+  --md-typeset-a-color: #8897D8 !important;
+  --md-accent-fg-color: #8897D8 !important;
+}
+
+/* A thin rule under the header, matching the hairline separating nav from
+ * hero content on learningdesignalliance.org / lazuli.design. */
+[data-md-color-primary="custom"] .md-header {
+  border-bottom: 1px solid #E1D4C9; /* lazuli-linen */
+  box-shadow: none;
+}
+
+/* Logo only in the header, no adjacent site-name text — matches
+ * learningdesignalliance.org / lazuli.design, where the header carries just
+ * the mark. Otherwise the header shows "Learning Design Wiki" in text right
+ * next to a Lazuli-branded icon, and the landing page repeats both names
+ * again below it — same redundancy fixed on the page itself in index.md. */
+.md-header__title {
+  display: none;
+}
+
+/* One clean header row: search leads a tight right-side cluster, with the
+ * palette toggle and GitHub link as two small icon buttons right after it —
+ * not the toggle floating alone in the middle and a wide repo-name link
+ * competing with search for attention. DOM order is toggle, search, source;
+ * flex `order` reshuffles the visual order without touching markup. */
+.md-search {
+  order: 1;
+  margin-left: auto;
+  flex: 0 1 420px;
+}
+.md-header__option {
+  order: 2;
+  margin-left: 0.4rem;
+}
+.md-header__source {
+  order: 3;
+  margin-left: 0.2rem;
+  width: auto; /* Material reserves wide fixed width here for the repo name */
+}
+
+/* Icon-only GitHub link — the repo name text was as wide as the search box
+ * itself and didn't need to be, next to a search bar that should be the
+ * thing people actually notice. */
+.md-source__repository {
+  display: none;
+}
+
+/* Search: a visible brand-blue border/tint instead of a gray box that
+ * blends into the header. */
+.md-search__form {
+  background-color: color-mix(in srgb, #122FB2 6%, transparent);
+  border: 1px solid #122FB2;
+}
+.md-search__form:hover {
+  background-color: color-mix(in srgb, #122FB2 12%, transparent);
+}
+.md-search__input + .md-search__icon {
+  color: #122FB2;
+}
+.md-search__input::placeholder {
+  color: color-mix(in srgb, #122FB2 55%, transparent);
+}
+
+/* ---------- Footer ---------- */
+/* Dropped entirely: with navigation.footer off there's no prev/next (it was
+ * only ever useful on the very first page anyway, since the wiki has no
+ * real page-to-page sequence), and the remaining copyright bar isn't worth
+ * a whole extra section for one license line — that's already in LICENSE
+ * and README.md. */
+.md-footer {
+  display: none;
+}
+
+/* ---------- Dark mode: the header ---------- */
+/* Everything above sets the header once, on [data-md-color-primary="custom"]
+ * with no scheme qualifier, so the slate scheme inherited it verbatim: a
+ * near-white sand bar (#FAF7F5) stapled across the top of a dark page, with
+ * a Lapis hairline-linen border under it. Only the body-link color had ever
+ * been given a dark-mode value.
+ *
+ * The brand rule is not "the header is sand" — it is "the header is a
+ * neutral surface and Lapis is the text drawn on it". Translated to dark
+ * mode that means a neutral DARK surface with the lightened Lapis on top,
+ * not the light palette shown on a dark page.
+ *
+ * The surface is the slate scheme's own body background rather than a step
+ * lighter, and the reason is contrast, not taste: #8897D8 (the dark-mode
+ * Lapis this file already established and verified for links) reaches
+ * 4.64:1 on the slate body but only 4.24:1 one step up, which fails AA for
+ * the nav text the header carries. So the header sits flush with the page
+ * and the hairline below it does the separating — which is what the hairline
+ * does in light mode too. */
+[data-md-color-scheme="slate"][data-md-color-primary="custom"] {
+  --md-primary-fg-color: var(--md-default-bg-color, #2E303E);
+  --md-primary-fg-color--light: var(--md-default-bg-color, #2E303E);
+  --md-primary-fg-color--dark: var(--md-default-bg-color, #2E303E);
+  --md-primary-bg-color: #8897D8;        /* lapis, lightened for dark — 4.64:1 */
+  --md-primary-bg-color--light: color-mix(in srgb, #8897D8 70%, transparent);
+}
+
+[data-md-color-scheme="slate"][data-md-color-primary="custom"] .md-header {
+  border-bottom: 1px solid hsla(232, 15%, 34%, 1);
+}
+
+/* The search box's brand-blue border, tint, icon and placeholder are all
+ * full-strength Lapis, which is a dark blue on what is now a dark bar. Same
+ * substitution as the links. */
+[data-md-color-scheme="slate"] .md-search__form {
+  background-color: color-mix(in srgb, #8897D8 10%, transparent);
+  border-color: #8897D8;
+}
+[data-md-color-scheme="slate"] .md-search__form:hover {
+  background-color: color-mix(in srgb, #8897D8 18%, transparent);
+}
+[data-md-color-scheme="slate"] .md-search__input + .md-search__icon,
+[data-md-color-scheme="slate"] .md-search__input::placeholder {
+  color: color-mix(in srgb, #8897D8 75%, transparent);
+}
+
+/* The marks are single-colour #122FB2 fills, so on a dark surface they are a
+ * dark blue shape on a dark ground — the header monogram and the wordmark on
+ * the landing page both effectively disappear. `-dawn` variants are the same
+ * paths at #8897D8; `content: url()` swaps the rendered image without
+ * touching the markup mkdocs generates (and without a second <img> that a
+ * screen reader would read twice). Paths are relative to this stylesheet. */
+[data-md-color-scheme="slate"] .md-logo img,
+[data-md-color-scheme="slate"] .md-nav__button.md-logo img {
+  content: url("lazuli-monogram-dawn.svg");
+}
+[data-md-color-scheme="slate"] .md-typeset img[src$="lazuli-wordmark-lapis.svg"] {
+  content: url("lazuli-wordmark-dawn.svg");
+}
