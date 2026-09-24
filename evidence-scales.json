@@ -8,7 +8,7 @@
       {"code": 4, "label": "pre-registered or meta-analytic", "definition": "Pre-registered RCT or well-powered meta-analysis"},
       {"code": 3, "label": "peer-reviewed experiment", "definition": "Peer-reviewed experiment (not pre-registered) or systematic review"},
       {"code": 2, "label": "quasi-experiment", "definition": "Quasi-experiment, observational with controls, or narrative review"},
-      {"code": 1, "label": "argument or single case", "definition": "Case study, or a theoretical argument that gives its reasons", "history": "Until 2026-09-24 this tier also read 'expert opinion'. A view stated without evidence or reasons is not evidence at any tier (INCLUSION.md, E1), so a q1 written before then may rest on opinion alone; read the entry's own text."}
+      {"code": 1, "label": "argument or single case", "definition": "Case study, expert opinion, or theoretical argument"}
     ]
   },
   "impact": {

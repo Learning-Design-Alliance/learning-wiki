@@ -2406,7 +2406,7 @@ Author, A., & Author, B. (Year). Title. *Journal, vol*(issue), pages. [doi:...](
 | 4 | Pre-registered RCT or well-powered meta-analysis |
 | 3 | Peer-reviewed experiment (not pre-registered) or systematic review |
 | 2 | Quasi-experiment, observational with controls, or narrative review |
-| 1 | Case study, or a theoretical argument that gives its reasons (until 2026-09-24 this also read "expert opinion"; an opinion stated without reasons is not evidence at any tier) |
+| 1 | Case study, expert opinion, or theoretical argument |
 
 **The codes live in three places, from one source.** `evidence-scales.json` at the bundle
 root is the definition — as data, said once. `docs_hooks/page_metadata.py` loads it to

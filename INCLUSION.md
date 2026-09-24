@@ -59,27 +59,18 @@ kind: no data, and no reasons. Examples are editorials, commentary and advocacy 
 and reflective career essays. A position paper that argues its position is not E1. What separates
 this from theoretical or philosophical work (I3, included) is *reasoning*. When in doubt, include.
 
-**An opinion is never evidence, and an influential one is recorded as exactly that.** Much of what
-the field cites is expert opinion that nobody has tested, and it gets cited *as if* it were
-evidence, often on the author's reputation. Leaving those sources out would leave that gap
-invisible. So the rule has two halves:
+**A widely cited opinion is ingested, as exactly what it is.** Much of what the field cites is
+expert opinion that nobody has tested, and it gets cited *as if* it were evidence, often on the
+author's reputation. Leaving those sources out would leave that gap invisible. So:
 
 - An obscure opinion piece is rejected under E1.
-- A **widely cited** opinion is ingested on purpose, as a claim page that states the assertion,
-  names who makes it and how widely it is cited, and records that **no evidence was offered for it**.
-  Its `## Discussion` says what evidence, if any, exists elsewhere. A downstream reader or agent then
-  finds that citing it justifies nothing, however respected the author.
+- A **widely cited** opinion is ingested on purpose. Its claim is coded `q1` (expert opinion is
+  already part of that tier), and its evidence entry says plainly that **no evidence or argument was
+  offered**. The claim's `## Discussion` says what evidence, if any, exists elsewhere. A downstream
+  reader or agent then finds that citing it justifies nothing, however respected the author.
 
-*Proposed, awaiting the maintainer's confirmation:*
-- **Mark it with a new quality tier, `q0`: "asserted: no evidence offered".** `q1` would no longer
-  include "expert opinion" (already made in this PR). `q0` sits below it, and the claim header would
-  then read `q0`, which every consumer of the codes already displays.
-- **Define "widely cited".** For example: cited by five or more wiki pages, or a standard reference in
-  the field.
-- **Review two existing `q1` entries** whose own text suggests they may be opinion:
-  `heritage-language-preservation-supports-english-acquisition` ("applied/practitioner-oriented
-  account") and `rpp-adaptive-practices-sustain-partnerships-during-disruption` ("synthesis of 15
-  practitioner/researcher think-pieces").
+*Still open:* what counts as "widely cited". For example, cited by five or more wiki pages, or a
+standard reference in the field.
 
 **E2. Not about learning or its design** (`out-of-scope`). Career advice, academic publishing and
 journal selection, conferences, professional networking, hiring and job-role inventories, business
