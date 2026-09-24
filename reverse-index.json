@@ -1,13 +1,13 @@
 {
  "coverage": {
-  "claims->claims": 367,
+  "claims->claims": 370,
   "claims->elements": 125,
   "claims->learner-variables": 1,
-  "claims->methods": 1,
+  "claims->methods": 2,
   "claims->patterns": 103,
   "claims->principles": 146,
-  "claims->processes": 1,
-  "claims->theories": 282,
+  "claims->processes": 3,
+  "claims->theories": 283,
   "elements->claims": 170,
   "elements->elements": 314,
   "elements->learner-variables": 1,
@@ -21,12 +21,12 @@
   "learner-variables->learner-variables": 3,
   "learner-variables->patterns": 6,
   "learner-variables->theories": 6,
-  "methods->claims": 10,
+  "methods->claims": 11,
   "methods->elements": 10,
-  "methods->methods": 13,
+  "methods->methods": 14,
   "methods->patterns": 4,
   "methods->principles": 8,
-  "methods->processes": 3,
+  "methods->processes": 4,
   "methods->theories": 3,
   "patterns->claims": 86,
   "patterns->elements": 90,
@@ -40,13 +40,13 @@
   "principles->principles": 193,
   "principles->processes": 2,
   "principles->theories": 107,
-  "processes->claims": 10,
+  "processes->claims": 11,
   "processes->elements": 10,
-  "processes->methods": 5,
+  "processes->methods": 6,
   "processes->patterns": 8,
-  "processes->principles": 9,
-  "processes->processes": 8,
-  "processes->theories": 9,
+  "processes->principles": 10,
+  "processes->processes": 9,
+  "processes->theories": 10,
   "strategies->claims": 2318,
   "strategies->elements": 2383,
   "strategies->methods": 10,
@@ -54,13 +54,13 @@
   "strategies->principles": 1744,
   "strategies->processes": 9,
   "strategies->theories": 410,
-  "theories->claims": 42,
+  "theories->claims": 43,
   "theories->elements": 17,
   "theories->methods": 1,
   "theories->patterns": 24,
-  "theories->principles": 29,
-  "theories->processes": 1,
-  "theories->theories": 76
+  "theories->principles": 30,
+  "theories->processes": 2,
+  "theories->theories": 77
  },
  "edges": {
   "claims": {
@@ -8733,6 +8733,9 @@
      },
      {
       "slug": "growth-mindset-interventions-small-effects"
+     },
+     {
+      "slug": "instruction-has-unintended-moral-effects-that-performance-data-miss"
      },
      {
       "slug": "learner-centered-teacher-student-relationships-are-effective"
@@ -22270,6 +22273,20 @@
      }
     ]
    },
+   "design-based-research-roles-compete-and-threaten-credible-claims": {
+    "claims": [
+     {
+      "slug": "instructional-design-models-are-validated-by-adoption-not-testing"
+     }
+    ],
+    "processes": [
+     {
+      "polarity": "~",
+      "slug": "design-based-research",
+      "strength": "W"
+     }
+    ]
+   },
    "desirable-difficulties-enhance-learning": {
     "claims": [
      {
@@ -24622,6 +24639,9 @@
      },
      {
       "slug": "fading-support-promotes-transfer-of-responsibility"
+     },
+     {
+      "slug": "rapid-prototyping-can-amplify-novice-designers-premature-commitment-to-solutions"
      },
      {
       "slug": "self-explanation-improves-conceptual-understanding"
@@ -29963,6 +29983,24 @@
      }
     ]
    },
+   "instruction-has-unintended-moral-effects-that-performance-data-miss": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "moral-dimensions-of-instructional-design",
+      "strength": "W"
+     }
+    ]
+   },
+   "instructional-design-models-are-validated-by-adoption-not-testing": {
+    "methods": [
+     {
+      "polarity": "~",
+      "slug": "selecting-an-instructional-design-model",
+      "strength": "W"
+     }
+    ]
+   },
    "interdisciplinary-humanities-units-improve-interdisciplinary-competences": {
     "theories": [
      {
@@ -34251,6 +34289,15 @@
     "claims": [
      {
       "slug": "discussion-quality-drives-comprehension"
+     }
+    ]
+   },
+   "rapid-prototyping-can-amplify-novice-designers-premature-commitment-to-solutions": {
+    "processes": [
+     {
+      "polarity": "-",
+      "slug": "design-thinking",
+      "strength": "W"
      }
     ]
    },
@@ -80380,6 +80427,9 @@
       "slug": "logic-model"
      },
      {
+      "slug": "selecting-an-instructional-design-model"
+     },
+     {
       "slug": "standards-crosswalk"
      },
      {
@@ -80539,6 +80589,11 @@
      {
       "slug": "theory-of-change"
      }
+    ],
+    "processes": [
+     {
+      "slug": "design-thinking"
+     }
     ]
    },
    "needs-analysis": {
@@ -80556,6 +80611,9 @@
       "slug": "logic-model"
      },
      {
+      "slug": "selecting-an-instructional-design-model"
+     },
+     {
       "slug": "stakeholder-mapping"
      },
      {
@@ -80564,8 +80622,23 @@
     ],
     "processes": [
      {
+      "slug": "design-based-research"
+     },
+     {
       "slug": "design-thinking"
      },
+     {
+      "slug": "systematic-instructional-design"
+     }
+    ]
+   },
+   "selecting-an-instructional-design-model": {
+    "claims": [
+     {
+      "slug": "instructional-design-models-are-validated-by-adoption-not-testing"
+     }
+    ],
+    "processes": [
      {
       "slug": "systematic-instructional-design"
      }
@@ -80578,6 +80651,11 @@
      },
      {
       "slug": "theory-of-change"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "design-based-research"
      }
     ]
    },
@@ -102342,6 +102420,9 @@
       "slug": "continuous-improvement-of-learning-materials"
      },
      {
+      "slug": "design-based-research"
+     },
+     {
       "slug": "design-thinking"
      },
      {
@@ -104425,6 +104506,11 @@
      {
       "slug": "educational-psychology-as-art-and-science"
      }
+    ],
+    "theories": [
+     {
+      "slug": "moral-dimensions-of-instructional-design"
+     }
     ]
    },
    "reinforcement-theory": {
@@ -106170,6 +106256,9 @@
     ],
     "processes": [
      {
+      "slug": "design-based-research"
+     },
+     {
       "slug": "design-thinking"
      },
      {
@@ -106218,8 +106307,28 @@
      }
     ]
    },
+   "design-based-research": {
+    "claims": [
+     {
+      "slug": "design-based-research-roles-compete-and-threaten-credible-claims"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "design-thinking"
+     }
+    ]
+   },
    "design-thinking": {
+    "claims": [
+     {
+      "slug": "rapid-prototyping-can-amplify-novice-designers-premature-commitment-to-solutions"
+     }
+    ],
     "methods": [
+     {
+      "slug": "selecting-an-instructional-design-model"
+     },
      {
       "slug": "standards-crosswalk"
      }
@@ -106227,6 +106336,9 @@
     "processes": [
      {
       "slug": "continuous-improvement-of-learning-materials"
+     },
+     {
+      "slug": "design-based-research"
      },
      {
       "slug": "learner-experience-design"
@@ -106251,6 +106363,11 @@
      {
       "slug": "student_shadowing"
      }
+    ],
+    "theories": [
+     {
+      "slug": "moral-dimensions-of-instructional-design"
+     }
     ]
    },
    "humanizing-co-design-with-educators": {
@@ -106270,6 +106387,11 @@
      },
      {
       "slug": "reflection"
+     }
+    ],
+    "processes": [
+     {
+      "slug": "design-based-research"
      }
     ],
     "theories": [
@@ -106295,6 +106417,11 @@
     ]
    },
    "successive-approximation-model": {
+    "methods": [
+     {
+      "slug": "selecting-an-instructional-design-model"
+     }
+    ],
     "processes": [
      {
       "slug": "continuous-improvement-of-learning-materials"
@@ -106317,9 +106444,17 @@
     ]
    },
    "systematic-instructional-design": {
+    "methods": [
+     {
+      "slug": "selecting-an-instructional-design-model"
+     }
+    ],
     "processes": [
      {
       "slug": "continuous-improvement-of-learning-materials"
+     },
+     {
+      "slug": "design-based-research"
      },
      {
       "slug": "design-thinking"
@@ -106339,6 +106474,18 @@
      {
       "slug": "vendor-production"
      }
+    ],
+    "theories": [
+     {
+      "slug": "moral-dimensions-of-instructional-design"
+     }
+    ]
+   },
+   "ten-steps-to-complex-learning": {
+    "methods": [
+     {
+      "slug": "selecting-an-instructional-design-model"
+     }
     ]
    },
    "understanding-by-design": {
@@ -106350,6 +106497,9 @@
     "methods": [
      {
       "slug": "logic-model"
+     },
+     {
+      "slug": "selecting-an-instructional-design-model"
      },
      {
       "slug": "theory-of-change"
@@ -108292,6 +108442,9 @@
     ],
     "processes": [
      {
+      "slug": "design-based-research"
+     },
+     {
       "slug": "design-thinking"
      },
      {
@@ -108299,6 +108452,11 @@
      },
      {
       "slug": "vendor-production"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "moral-dimensions-of-instructional-design"
      }
     ]
    },
@@ -109551,6 +109709,9 @@
       "slug": "kohlberg-moral-development"
      },
      {
+      "slug": "moral-dimensions-of-instructional-design"
+     },
+     {
       "slug": "turiels-social-domain-theory"
      }
     ]
@@ -109971,6 +110132,13 @@
      },
      {
       "slug": "information-processing-theory"
+     }
+    ]
+   },
+   "moral-dimensions-of-instructional-design": {
+    "claims": [
+     {
+      "slug": "instruction-has-unintended-moral-effects-that-performance-data-miss"
      }
     ]
    },
@@ -111671,6 +111839,9 @@
       "slug": "data-wise-improvement-process"
      },
      {
+      "slug": "design-based-research"
+     },
+     {
       "slug": "design-thinking"
      },
      {
@@ -112299,14 +112470,14 @@
  },
  "note": "Reverse edges: for each page, which pages link TO it. Built by scripts/build_reverse_index.py; see its docstring for why this direction rather than ## Examples.",
  "totals": {
-  "claims": 429,
+  "claims": 433,
   "elements": 327,
   "learner-variables": 12,
-  "methods": 16,
+  "methods": 17,
   "patterns": 125,
   "principles": 199,
-  "processes": 11,
+  "processes": 12,
   "strategies": 2548,
-  "theories": 89
+  "theories": 90
  }
 }

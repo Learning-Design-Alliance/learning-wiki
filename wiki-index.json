@@ -1,14 +1,14 @@
 {
  "counts": {
-  "claim": 429,
+  "claim": 433,
   "element": 327,
   "learner-variable": 12,
-  "method": 16,
+  "method": 17,
   "pattern": 125,
   "principle": 199,
-  "process": 11,
+  "process": 12,
   "strategy": 2548,
-  "theory": 89
+  "theory": 90
  },
  "kinds": [
   "claim",
@@ -616,6 +616,15 @@
    "path": "claims/deliberate-practice-improves-performance.md",
    "status": "draft",
    "title": "Deliberate Practice Improves Performance",
+   "type": "claim"
+  },
+  {
+   "description": "A review of the design-based research literature finds that the roles a DBR researcher must hold at once pull against each other, putting research quality, theory fidelity and the credibility of findings at risk.",
+   "evidence_strength": "weak",
+   "id": "design-based-research-roles-compete-and-threaten-credible-claims",
+   "path": "claims/design-based-research-roles-compete-and-threaten-credible-claims.md",
+   "status": "draft",
+   "title": "Design-based research asks one person to be researcher, designer, project manager and theorist, and those roles compete.",
    "type": "claim"
   },
   {
@@ -1399,6 +1408,24 @@
    "path": "claims/inquiry-based-teaching-improves-science-achievement.md",
    "status": "draft",
    "title": "Inquiry Based Teaching Improves Science Achievement",
+   "type": "claim"
+  },
+  {
+   "description": "Osguthorpe and colleagues argue that design decisions have moral effects on learners, such as shame from a visible ability label, that outlast the instruction and that performance data do not capture, so designers need to reflect on them deliberately.",
+   "evidence_strength": "weak",
+   "id": "instruction-has-unintended-moral-effects-that-performance-data-miss",
+   "path": "claims/instruction-has-unintended-moral-effects-that-performance-data-miss.md",
+   "status": "draft",
+   "title": "Instruction can harm learners in ways its performance data do not show.",
+   "type": "claim"
+  },
+  {
+   "description": "An account of the instructional design model literature holds that few design models have been rigorously evaluated against predetermined criteria, and that widely adopted models gain credibility from practitioner use and adaptation rather than from evidence of their results.",
+   "evidence_strength": "weak",
+   "id": "instructional-design-models-are-validated-by-adoption-not-testing",
+   "path": "claims/instructional-design-models-are-validated-by-adoption-not-testing.md",
+   "status": "draft",
+   "title": "Instructional design models are rarely tested against outcomes; their credibility comes from practitioners finding them useful.",
    "type": "claim"
   },
   {
@@ -2470,6 +2497,15 @@
    "path": "claims/questioning-strategies-improve-learning.md",
    "status": "draft",
    "title": "Questioning Strategies Improve Learning",
+   "type": "claim"
+  },
+  {
+   "description": "Svihla argues that agile methods, which ask designers to reach a tentative solution at once and test it as a low-fidelity prototype, may worsen novices' habit of jumping to solutions, and that novices need scaffolds for agile and human-centred work rather than ADDIE alone.",
+   "evidence_strength": "weak",
+   "id": "rapid-prototyping-can-amplify-novice-designers-premature-commitment-to-solutions",
+   "path": "claims/rapid-prototyping-can-amplify-novice-designers-premature-commitment-to-solutions.md",
+   "status": "draft",
+   "title": "Rapid prototyping methods can amplify novice designers' tendency to commit to a solution too early.",
    "type": "claim"
   },
   {
@@ -6580,6 +6616,14 @@
    "type": "method"
   },
   {
+   "description": "Choosing, adapting or combining an instructional design model for a project. ADDIE is treated as the underlying process and each model as a context-specific instance of it, chosen by delivery format and by what the project must produce.",
+   "id": "selecting-an-instructional-design-model",
+   "path": "methods/selecting-an-instructional-design-model.md",
+   "status": "draft",
+   "title": "Selecting an Instructional Design Model",
+   "type": "method"
+  },
+  {
    "description": "A design method that enumerates the parties who participate in, govern, fund, or are affected by a learning activity, gives each a stable identity, and records only the relationships that change a design decision.",
    "id": "stakeholder-mapping",
    "path": "methods/stakeholder-mapping.md",
@@ -9350,6 +9394,15 @@
    "path": "processes/data-wise-improvement-process.md",
    "status": "review",
    "title": "Data Wise Improvement Process",
+   "type": "process"
+  },
+  {
+   "description": "A design process run as research. An intervention is designed and revised over repeated cycles in a real learning setting, in collaboration with practitioners, so that each cycle both improves the design and builds or tests theory about learning.",
+   "grain_size": "course",
+   "id": "design-based-research",
+   "path": "processes/design-based-research.md",
+   "status": "draft",
+   "title": "Design-Based Research",
    "type": "process"
   },
   {
@@ -30290,6 +30343,14 @@
    "type": "theory"
   },
   {
+   "description": "Osguthorpe and colleagues' argument that designing instruction is a moral endeavour, and their framework of five designer consciences (craft, membership, sacrifice, memory, imagination) developed through reflexive judgment.",
+   "id": "moral-dimensions-of-instructional-design",
+   "path": "theories/moral-dimensions-of-instructional-design.md",
+   "status": "draft",
+   "title": "Moral Dimensions of Instructional Design",
+   "type": "theory"
+  },
+  {
    "description": "Howard Gardner's theory holds that intelligence is not a single general capacity but at least eight relatively independent abilities, with individuals typically strong in some and weak in others.",
    "id": "multiple-intelligences-theory",
    "path": "theories/multiple-intelligences-theory.md",
@@ -30600,6 +30661,7 @@
    "curricular-knowledge-enables-responsive-instructional-moves": "curricular-knowledge-enables-responsive-instructional-moves",
    "decorative-illustrations-do-not-improve-learning": "decorative-illustrations-do-not-improve-learning",
    "deliberate-practice-improves-performance": "deliberate-practice-improves-performance",
+   "design-based-research-roles-compete-and-threaten-credible-claims": "design-based-research-roles-compete-and-threaten-credible-claims",
    "desirable-difficulties-enhance-learning": "desirable-difficulties-enhance-learning",
    "desirable-difficulties-improve-retention": "desirable-difficulties-improve-retention",
    "dialogic-reading-improves-expressive-language": "dialogic-reading-improves-expressive-language",
@@ -30690,6 +30752,8 @@
    "incidental-word-learning-while-reading-occurs-but-at-low-rates-per-exposure": "incidental-word-learning-while-reading-occurs-but-at-low-rates-per-exposure",
    "increasing-wait-time-improves-response-quality": "increasing-wait-time-improves-response-quality",
    "inquiry-based-teaching-improves-science-achievement": "inquiry-based-teaching-improves-science-achievement",
+   "instruction-has-unintended-moral-effects-that-performance-data-miss": "instruction-has-unintended-moral-effects-that-performance-data-miss",
+   "instructional-design-models-are-validated-by-adoption-not-testing": "instructional-design-models-are-validated-by-adoption-not-testing",
    "interdisciplinary-humanities-units-improve-interdisciplinary-competences": "interdisciplinary-humanities-units-improve-interdisciplinary-competences",
    "interleaved-practice-improves-retention": "interleaved-practice-improves-retention",
    "interleaving-improves-discrimination": "interleaving-improves-discrimination",
@@ -30812,6 +30876,7 @@
    "project-based-learning-improves-achievement": "project-based-learning-improves-achievement",
    "question-prompts-improve-learning": "question-prompts-improve-learning",
    "questioning-strategies-improve-learning": "questioning-strategies-improve-learning",
+   "rapid-prototyping-can-amplify-novice-designers-premature-commitment-to-solutions": "rapid-prototyping-can-amplify-novice-designers-premature-commitment-to-solutions",
    "reading-literary-fiction-improves-theory-of-mind": "reading-literary-fiction-improves-theory-of-mind",
    "reading-strategy-instruction-improves-comprehension": "reading-strategy-instruction-improves-comprehension",
    "reciprocal-teaching-improves-reading-comprehension": "reciprocal-teaching-improves-reading-comprehension",
@@ -31318,6 +31383,7 @@
    "logic-model": "logic-model",
    "make-the-invisible-visible-power-dynamics": "make-the-invisible-visible-power-dynamics",
    "needs-analysis": "needs-analysis",
+   "selecting-an-instructional-design-model": "selecting-an-instructional-design-model",
    "stakeholder-mapping": "stakeholder-mapping",
    "standards-crosswalk": "standards-crosswalk",
    "task-analysis": "task-analysis",
@@ -31657,6 +31723,7 @@
   "process": {
    "continuous-improvement-of-learning-materials": "continuous-improvement-of-learning-materials",
    "data-wise-improvement-process": "data-wise-improvement-process",
+   "design-based-research": "design-based-research",
    "design-thinking": "design-thinking",
    "faculty-course-design": "faculty-course-design",
    "humanizing-co-design-with-educators": "humanizing-co-design-with-educators",
@@ -34277,6 +34344,7 @@
    "materialized-action": "materialized-action",
    "mechanistic-reasoning": "mechanistic-reasoning",
    "metacognition": "metacognition",
+   "moral-dimensions-of-instructional-design": "moral-dimensions-of-instructional-design",
    "multiple-intelligences-theory": "multiple-intelligences-theory",
    "onto-epistemic-heterogeneity": "onto-epistemic-heterogeneity",
    "ontological-alignment": "ontological-alignment",
