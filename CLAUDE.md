@@ -103,6 +103,17 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-09-24 — the extraction priority list is generated, never kept
+
+`scripts/priority_worklist.py` answers "what should the next extraction run read". It prints three
+queues. `record`: articles the wiki cites with no `observations/` record, SMD-reporting first, then
+by reuse. `hub`: WWC/ESSA pages from `smd_worklist.py`. `gap`: claims with no coded evidence, by how
+many pages cite them. **Do not replace it with a hand-maintained list.** Every row is derived at run
+time from `observations/`, `sources/manifest.ndjson` and the claim pages, so a row drops out on the
+next run once its work lands. Work in progress shows up by being pushed: a branch ahead of main that
+adds an evidence heading to a claim, or a DOI to `observations/`, marks that row `in-flight`. Nothing
+it prints is committed, because the hub queue carries data from a repo with no licence.
+
 ### 2026-09-24 — a loose title match cannot rewrite a journal
 
 `resolve_citation_metadata.py --apply` proposed 101 metadata corrections, and **99 of them were one
@@ -1846,6 +1857,7 @@ ld-wiki/
     build_wiki_index.py ← the resolution table learning-design-spec reads (see below)
     check_evidence_markers.py ← claim citations carrying no [±~][SMW] marker (see below)
     smd_worklist.py    ← WWC/ESSA review pages to extract next, for the SMD family (see above)
+    priority_worklist.py ← what to extract next: cited-but-unrecorded, hub, and evidence-less claims (see above)
     mcp_server.py      ← the wiki as MCP tools: search, fetch, resolve, backlinks, why (see above)
     observation_lib.py ← the evidence layer's schema and validator (see above)
     research_lib.py    ← the research layer's schemas, validators and joins (see above)
