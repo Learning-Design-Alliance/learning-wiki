@@ -1,0 +1,41 @@
+---
+type: claim
+title: Eradicating hermeneutical injustice requires sufficient social equality in general, not only slight interpersonal hermeneutical empowerments
+description: Eradicating hermeneutical injustice requires sufficient social equality in general, not only slight interpersonal hermeneutical empowerments
+id: eradicating-hermeneutical-injustice-requires-social-equality
+status: draft
+generated:
+  by: claude/unspecified
+  at: 2026-09-24
+evidence_strength: weak
+sources:
+  - id: göktürk-2021
+    resource: "https://doi.org/10.24106/kefdergi.732138"
+    title: "Göktürk, D. (2021). Epistemic Injustice and Cultural Processes in Education. Kastamonu Education Journal, 29(1), 218-227. https://doi.org/10.24106/kefdergi.732138"
+    author: Göktürk, D
+---
+
+# Eradicating hermeneutical injustice requires sufficient social equality in general, not only slight interpersonal hermeneutical empowerments
+
+> **Claim** · [All claims](index.md)
+
+## Subclaims
+`q1 i?` The article quotes Fricker (2017) arguing that eradicating hermeneutical injustice will require sufficient social equality in general, beyond slight interpersonal hermeneutical empowerments. [→ Göktürk 2021](#gokturk-2021)
+
+## Evidence
+
+### Göktürk 2021
+
+Göktürk, D. (2021). Epistemic Injustice and Cultural Processes in Education. Kastamonu Education Journal, 29(1), 218-227. https://doi.org/10.24106/kefdergi.732138
+
+`q1 · i?`
+
+Theoretical argument the article quotes from Fricker (2017): eradication "will require sufficient social equality in general", because hermeneutical marginalisation is a product of social powerlessness. The article offers it as conceptual grounding, with no empirical evidence.
+
+> "the actual eradication of this kind of injustice will require significantly more than such slight interpersonal hermeneutical empowerments; it will require sufficient social equality in general, to ensure that new areas of hermeneutical marginalisation do not keep re-emerging with new patterns of unequal power."
+
+## Discussion
+
+
+## Related Claims
+- [Black Girls Face Testimonial And Structural Hermeneutical Injustice In School](black-girls-face-testimonial-and-structural-hermeneutical-injustice-in-school.md)

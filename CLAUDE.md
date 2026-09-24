@@ -103,6 +103,21 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-09-24 — in-session extraction, and what the pre-extractor test found
+
+`eval/pre-extractor-test/` runs one article set through five extractors and scores them with one
+scorer. **GLM on v124 ties Opus on quality at about 1/150th of the cost.** GLM's ~10% pass rate
+belongs to the v99 lineage, which CURRENT points to and v130 descends from. So do not read v130's
+collapse as "GLM cannot follow the new criteria". The droplet's next step is porting v128–v130
+onto v124. **17 articles were ingested from the Opus-agent arm** (237 pages, 10 study records):
+the first batch written by in-session subagents. `scripts/eval/agent_arm.py` is that path's
+harness, and the subagent contract is its `TASK.md`. Two ingest bugs it exposed are fixed: the
+citation gate matched the frontmatter `resource:` line and called correct DOIs `wrong_paper`,
+and typeless `related` slugs were linked into the wrong folder. The manifest lines for this
+batch were corrected before commit. Run `fix_dead_anchors.py --apply` after an ingest: an
+accented author name (Göktürk, Bellhäuser) still produces an anchor that does not match its
+heading.
+
 ### 2026-09-24 — what a source needs to get in: `INCLUSION.md`
 
 **The default is to include.** Every paradigm is eligible, including theoretical, philosophical and
@@ -530,6 +545,15 @@ claims from studies nobody here has read is the failure mode this file is largel
 Almond (2003), not from the 60-page primary, and its page says so.
 
 ### Known open work
+
+- **Sweep existing pages onto the current conventions and schemas.** Most of the ~3,900
+  content pages predate some of: `INCLUSION.md`'s q1 coding for argument and opinion, `i: null`
+  (not `i0`) for "no effect size reported", the evidence header line, per-citation `[±~][SMW]`
+  markers, `observations/` records for the studies they cite, the processes/methods split, and
+  `id:`/`aliases:`. Start from `priority_worklist.py` and `check_evidence_markers.py`, which
+  already rank most of it. Batch by page type, one PR each, merged the same day. Verify each
+  batch by parsing frontmatter before and after, not by reading the diff. Queued 2026-09-24,
+  not started.
 
 - **`scripts/resolve_citation_metadata.py` settles the three citation backlogs against
   Crossref.** Run it from a machine with network — the harness droplet, and as of 2026-09-03 this

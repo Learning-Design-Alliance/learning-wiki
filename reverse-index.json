@@ -1,6 +1,6 @@
 {
  "coverage": {
-  "claims->claims": 370,
+  "claims->claims": 455,
   "claims->elements": 125,
   "claims->learner-variables": 1,
   "claims->methods": 3,
@@ -8,14 +8,14 @@
   "claims->principles": 146,
   "claims->processes": 3,
   "claims->theories": 284,
-  "elements->claims": 170,
-  "elements->elements": 314,
+  "elements->claims": 171,
+  "elements->elements": 321,
   "elements->learner-variables": 1,
   "elements->methods": 1,
-  "elements->patterns": 241,
-  "elements->principles": 311,
+  "elements->patterns": 243,
+  "elements->principles": 313,
   "elements->processes": 1,
-  "elements->theories": 45,
+  "elements->theories": 62,
   "learner-variables->claims": 12,
   "learner-variables->elements": 12,
   "learner-variables->learner-variables": 3,
@@ -28,18 +28,18 @@
   "methods->principles": 8,
   "methods->processes": 4,
   "methods->theories": 3,
-  "patterns->claims": 86,
-  "patterns->elements": 90,
+  "patterns->claims": 92,
+  "patterns->elements": 94,
   "patterns->methods": 1,
-  "patterns->patterns": 99,
-  "patterns->principles": 82,
+  "patterns->patterns": 101,
+  "patterns->principles": 83,
   "patterns->theories": 47,
-  "principles->claims": 162,
-  "principles->elements": 52,
-  "principles->patterns": 40,
-  "principles->principles": 193,
+  "principles->claims": 175,
+  "principles->elements": 55,
+  "principles->patterns": 41,
+  "principles->principles": 205,
   "principles->processes": 2,
-  "principles->theories": 107,
+  "principles->theories": 112,
   "processes->claims": 11,
   "processes->elements": 10,
   "processes->methods": 6,
@@ -47,20 +47,20 @@
   "processes->principles": 10,
   "processes->processes": 9,
   "processes->theories": 10,
-  "strategies->claims": 2318,
-  "strategies->elements": 2383,
+  "strategies->claims": 2319,
+  "strategies->elements": 2391,
   "strategies->methods": 10,
-  "strategies->patterns": 808,
-  "strategies->principles": 1744,
+  "strategies->patterns": 812,
+  "strategies->principles": 1746,
   "strategies->processes": 9,
-  "strategies->theories": 410,
-  "theories->claims": 44,
-  "theories->elements": 17,
+  "strategies->theories": 427,
+  "theories->claims": 71,
+  "theories->elements": 21,
   "theories->methods": 2,
   "theories->patterns": 24,
-  "theories->principles": 30,
+  "theories->principles": 33,
   "theories->processes": 3,
-  "theories->theories": 79
+  "theories->theories": 97
  },
  "edges": {
   "claims": {
@@ -3566,6 +3566,15 @@
      }
     ]
    },
+   "arcs-model-increases-motivational-appeal-assertion": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "arcs-strategy-subcomponent-taxonomy",
+      "strength": "W"
+     }
+    ]
+   },
    "argumentation-improves-reasoning": {
     "claims": [
      {
@@ -5203,6 +5212,15 @@
     "processes": [
      {
       "slug": "humanizing-co-design-with-educators"
+     }
+    ]
+   },
+   "attentive-knowledge-tracing-benefits-from-repeated-interactions": {
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "deep-learning-knowledge-tracing-models",
+      "strength": "W"
      }
     ]
    },
@@ -10005,6 +10023,39 @@
      }
     ]
    },
+   "bkt-overestimates-accuracy-after-a-day-elapses": {
+    "theories": [
+     {
+      "polarity": "-",
+      "slug": "bayesian-knowledge-tracing-two-state-model",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "knowledge-tracing-variants-learning-phases",
+      "strength": "W"
+     }
+    ]
+   },
+   "black-girls-face-testimonial-and-structural-hermeneutical-injustice-in-school": {
+    "claims": [
+     {
+      "slug": "eradicating-hermeneutical-injustice-requires-social-equality"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "hermeneutical-injustice-incidental-and-systematic",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "varieties-of-testimonial-injustice-wanderer-hookway",
+      "strength": "W"
+     }
+    ]
+   },
    "blended-learning-improves-outcomes": {
     "claims": [
      {
@@ -10141,7 +10192,28 @@
      }
     ]
    },
+   "boundary-crossing-collaboration-with-informal-educators-reframes-mathematics-as-human-practice": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "build-connections-between-mathematics-and-other-practices",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "humanizing-mathematics-as-boundary-blurring",
+      "strength": "W"
+     }
+    ]
+   },
    "boundary-crossing-mechanisms-unfold-sequentially-and-brokers-face-an-involvement-paradox": {
+    "claims": [
+     {
+      "slug": "boundary-crossing-collaboration-with-informal-educators-reframes-mathematics-as-human-practice"
+     }
+    ],
     "patterns": [
      {
       "polarity": "-",
@@ -16551,6 +16623,9 @@
       "slug": "example-problem-sequences-reduce-cognitive-load-and-improve-learning-outcomes"
      },
      {
+      "slug": "extraneous-cognitive-load-correlates-negatively-with-germane-load-and-probability-of-success"
+     },
+     {
       "slug": "feedback-improves-learning-outcomes"
      },
      {
@@ -19374,7 +19449,13 @@
       "slug": "case-based-learning-improves-exam-performance"
      },
      {
+      "slug": "collaborative-learning-is-an-extension-of-social-constructionism-into-composition"
+     },
+     {
       "slug": "collaborative-writing-improves-text-quality"
+     },
+     {
+      "slug": "collaborative-writing-recommendations-argued-to-produce-active-student-writers"
      },
      {
       "polarity": "~",
@@ -19484,6 +19565,34 @@
      },
      {
       "slug": "tutoring-benefits-tutors-and-tutees"
+     }
+    ]
+   },
+   "collaborative-learning-is-an-extension-of-social-constructionism-into-composition": {
+    "claims": [
+     {
+      "slug": "reacculturation-into-a-new-community-requires-collaboration"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "social-constructionist-collaborative-writing-classroom",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "writing-teacher-as-facilitator-not-lecturer",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "social-constructionism-in-composition",
+      "strength": "W"
      }
     ]
    },
@@ -20179,6 +20288,11 @@
     ]
    },
    "concept-mapping-improves-learning": {
+    "claims": [
+     {
+      "slug": "retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration"
+     }
+    ],
     "elements": [
      {
       "polarity": "+",
@@ -20262,6 +20376,11 @@
     ]
    },
    "concept-maps-improve-learning": {
+    "claims": [
+     {
+      "slug": "closed-book-versions-of-quizzes-and-concept-maps-outperform-open-book-versions"
+     }
+    ],
     "elements": [
      {
       "polarity": "+",
@@ -20310,6 +20429,13 @@
     "claims": [
      {
       "slug": "concept-mapping-improves-learning"
+     }
+    ]
+   },
+   "contextualized-real-life-task-reverted-to-pure-mathematics-and-felt-too-school": {
+    "claims": [
+     {
+      "slug": "integrated-stem-quilt-project-judged-to-offer-multiple-entry-points"
      }
     ]
    },
@@ -21372,6 +21498,11 @@
     ]
    },
    "conversational-turns-predict-language-development": {
+    "claims": [
+     {
+      "slug": "student-writing-only-as-good-as-conversation-about-writing"
+     }
+    ],
     "principles": [
      {
       "polarity": "+",
@@ -21876,6 +22007,22 @@
      }
     ]
    },
+   "cultural-processes-and-epistemic-injustice-explain-educational-inequality": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "interrogate-voice-credibility-and-testimony-in-educational-inequality-research",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "cultural-processes-identification-and-rationalization",
+      "strength": "W"
+     }
+    ]
+   },
    "curricular-knowledge-enables-responsive-instructional-moves": {
     "principles": [
      {
@@ -22256,6 +22403,50 @@
      }
     ]
    },
+   "deep-learning-knowledge-tracing-outperforms-but-lacks-interpretability": {
+    "claims": [
+     {
+      "slug": "attentive-knowledge-tracing-benefits-from-repeated-interactions"
+     },
+     {
+      "slug": "no-single-knowledge-tracing-model-is-always-best"
+     },
+     {
+      "slug": "xai-interpretation-of-dkt-enhances-trust"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "deep-learning-knowledge-tracing-models",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "knowledge-tracing-model-taxonomy",
+      "strength": "W"
+     }
+    ]
+   },
+   "deficit-view-of-minority-households-lowers-academic-expectations": {
+    "claims": [
+     {
+      "slug": "funds-of-knowledge-research-raises-teacher-expectations"
+     },
+     {
+      "slug": "home-visits-reveal-abundant-diverse-household-funds-of-knowledge"
+     }
+    ]
+   },
+   "delay-term-improves-exponential-forgetting-curve-recall-prediction": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "exponential-forgetting-curve-with-item-difficulty",
+      "strength": "M"
+     }
+    ]
+   },
    "deliberate-practice-improves-performance": {
     "claims": [
      {
@@ -22290,14 +22481,25 @@
    "desirable-difficulties-enhance-learning": {
     "claims": [
      {
+      "slug": "production-vs-recognition-retrieval-practice-no-significant-difference-reading-comprehension"
+     },
+     {
       "slug": "retrieval-practice-improves-transfer"
      }
     ],
     "principles": [
      {
+      "slug": "balance-retrieval-success-and-retrieval-effort"
+     },
+     {
       "polarity": "+",
       "slug": "learning-embedded-in-the-core-mechanic",
       "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "strength-and-retrieval-effort-account-of-retrieval-practice"
      }
     ]
    },
@@ -22312,6 +22514,11 @@
       "polarity": "~",
       "slug": "time-and-continuity",
       "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "strength-and-retrieval-effort-account-of-retrieval-practice"
      }
     ]
    },
@@ -22566,6 +22773,20 @@
     "strategies": [
      {
       "slug": "dialogic-facilitation-of-statistical-modeling-practice"
+     }
+    ]
+   },
+   "dialogue-kt-performance-is-relatively-low-compared-to-standard-kt": {
+    "claims": [
+     {
+      "slug": "llmkt-outperforms-existing-kt-methods-on-tutoring-dialogues"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "dialogue-knowledge-tracing-framework",
+      "strength": "W"
      }
     ]
    },
@@ -23080,6 +23301,13 @@
      }
     ]
    },
+   "dkt-sem-outperforms-existing-kt-methods-most-with-little-training-data": {
+    "claims": [
+     {
+      "slug": "llmkt-outperforms-existing-kt-methods-on-tutoring-dialogues"
+     }
+    ]
+   },
    "drawing-improves-learning": {
     "strategies": [
      {
@@ -23566,6 +23794,24 @@
      }
     ]
    },
+   "effect-of-more-multiple-choice-alternatives-depends-on-initial-retrieval-success": {
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "balance-retrieval-success-and-retrieval-effort",
+      "strength": "W"
+     }
+    ]
+   },
+   "effort-requires-task-value-and-expectation-of-success-arcs-rationale": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "arcs-strategy-subcomponent-taxonomy",
+      "strength": "W"
+     }
+    ]
+   },
    "elaborated-discussion-of-narrated-emotions-supports-teacher-learning": {
     "patterns": [
      {
@@ -23588,6 +23834,11 @@
       "polarity": "+",
       "slug": "word_maps",
       "strength": "S"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "elaborative-retrieval-account"
      }
     ]
    },
@@ -23784,12 +24035,30 @@
      }
     ]
    },
+   "engagement-covariates-improve-deep-knowledge-tracing": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "knowledge-tracing-variants-learning-phases",
+      "strength": "W"
+     }
+    ]
+   },
    "epistemic-games-reveal-unacknowledged-disciplinary-differences-in-teams": {
     "theories": [
      {
       "polarity": "~",
       "slug": "epistemic-games",
       "strength": "M"
+     }
+    ]
+   },
+   "eradicating-hermeneutical-injustice-requires-social-equality": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "hermeneutical-injustice-incidental-and-systematic",
+      "strength": "W"
      }
     ]
    },
@@ -24562,12 +24831,30 @@
      }
     ]
    },
+   "excess-new-item-rate-leaves-items-stuck-in-first-leitner-deck": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "maximize-learning-rate-when-calibrating-leitner-schedules",
+      "strength": "M"
+     }
+    ]
+   },
    "exercise-increases-hippocampal-volume": {
     "strategies": [
      {
       "polarity": "+",
       "slug": "exercise_for_cognitive_enhancement",
       "strength": "S"
+     }
+    ]
+   },
+   "expanding-retrieval-schedules-are-not-superior-to-equal-or-contracting-schedules": {
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "future-directions-for-retrieval-based-learning-research",
+      "strength": "W"
      }
     ]
    },
@@ -24632,6 +24919,16 @@
      }
     ]
    },
+   "expert-teachers-rate-gpt-4o-dialogue-annotations-as-largely-accurate": {
+    "claims": [
+     {
+      "slug": "gpt-4o-annotation-errors-concentrate-on-final-turns-and-too-few-kcs"
+     },
+     {
+      "slug": "gpt-4o-final-turn-correctness-labeling-is-close-to-human-level"
+     }
+    ]
+   },
    "expertise-reversal-effect": {
     "claims": [
      {
@@ -24639,6 +24936,15 @@
      },
      {
       "slug": "fading-support-promotes-transfer-of-responsibility"
+     },
+     {
+      "slug": "high-and-low-prior-knowledge-learners-differ-in-posttest-intrinsic-and-germane-load"
+     },
+     {
+      "slug": "lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples"
+     },
+     {
+      "slug": "prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest"
      },
      {
       "slug": "rapid-prototyping-can-amplify-novice-designers-premature-commitment-to-solutions"
@@ -25549,6 +25855,11 @@
     ]
    },
    "expertise-reversal-guidance-hurts-experts": {
+    "claims": [
+     {
+      "slug": "lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples"
+     }
+    ],
     "strategies": [
      {
       "polarity": "~",
@@ -25588,6 +25899,15 @@
       "polarity": "+",
       "slug": "genre-scaffolding",
       "strength": "S"
+     }
+    ]
+   },
+   "exponential-forgetting-models-with-delay-perform-comparably-to-1pl-irt": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "exponential-forgetting-curve-with-item-difficulty",
+      "strength": "M"
      }
     ]
    },
@@ -25639,6 +25959,15 @@
      {
       "polarity": "+",
       "slug": "ontological-alignment",
+      "strength": "M"
+     }
+    ]
+   },
+   "extraneous-cognitive-load-correlates-negatively-with-germane-load-and-probability-of-success": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "lower-extraneous-load-to-increase-germane-effort-in-stem",
       "strength": "M"
      }
     ]
@@ -26623,6 +26952,14 @@
     ]
    },
    "feedback-enhances-retrieval-practice": {
+    "claims": [
+     {
+      "slug": "feedback-after-multiple-choice-tests-halves-lure-intrusions"
+     },
+     {
+      "slug": "feedback-determines-whether-short-answer-retrieval-outperforms-multiple-choice"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -26630,9 +26967,17 @@
       "strength": "M"
      },
      {
+      "slug": "multiple-choice-quizzing-with-plausible-alternatives-and-feedback"
+     },
+     {
       "polarity": "+",
       "slug": "retrieval-practice-activities",
       "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "direct-and-mediated-effects-of-retrieval-practice"
      }
     ]
    },
@@ -29101,6 +29446,27 @@
      }
     ]
    },
+   "funds-of-knowledge-research-raises-teacher-expectations": {
+    "claims": [
+     {
+      "slug": "deficit-view-of-minority-households-lowers-academic-expectations"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "funds-of-knowledge-teacher-research-model",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "funds-of-knowledge-project-minimal-conditions",
+      "strength": "W"
+     }
+    ]
+   },
    "funds-of-knowledge-tasks-reveal-computational-thinking": {
     "claims": [
      {
@@ -29129,6 +29495,20 @@
      },
      {
       "slug": "teaching-games-for-understanding-improves-tactical-decision-making"
+     }
+    ]
+   },
+   "gender-performance-grounds-exclusion-of-bussed-black-students-in-suburban-school": {
+    "claims": [
+     {
+      "slug": "stereotyping-operates-as-rationalization-producing-inequality-in-school"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "cultural-processes-identification-and-rationalization",
+      "strength": "W"
      }
     ]
    },
@@ -29185,6 +29565,15 @@
      }
     ]
    },
+   "germane-cognitive-load-correlates-positively-with-interest": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "lower-extraneous-load-to-increase-germane-effort-in-stem",
+      "strength": "M"
+     }
+    ]
+   },
    "goal-setting-improves-performance": {
     "claims": [
      {
@@ -29233,6 +29622,20 @@
       "polarity": "+",
       "slug": "student_led_math_conferences",
       "strength": "S"
+     }
+    ]
+   },
+   "gpt-4o-final-turn-correctness-labeling-is-close-to-human-level": {
+    "claims": [
+     {
+      "slug": "expert-teachers-rate-gpt-4o-dialogue-annotations-as-largely-accurate"
+     }
+    ]
+   },
+   "graduate-educated-pe-teachers-endorse-progressivism-perennialism-and-essentialism-more": {
+    "claims": [
+     {
+      "slug": "pe-teacher-essentialism-rises-and-progressivism-falls-with-seniority"
      }
     ]
    },
@@ -29410,6 +29813,16 @@
       "polarity": "~",
       "slug": "creating_a_culture_of_error",
       "strength": "M"
+     }
+    ]
+   },
+   "gsides-gesture-most-frequent-teacher-code-in-kindergarten-equal-sign-lessons": {
+    "claims": [
+     {
+      "slug": "is-the-same-as-with-sides-gesture-combination-in-kindergarten-equation-talk"
+     },
+     {
+      "slug": "teacher-shifts-equal-sign-language-with-kindergarten-lesson-focus"
      }
     ]
    },
@@ -29879,6 +30292,15 @@
      }
     ]
    },
+   "home-visits-reveal-abundant-diverse-household-funds-of-knowledge": {
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "funds-of-knowledge-teacher-research-model",
+      "strength": "W"
+     }
+    ]
+   },
    "homogeneous-problem-perceptions-predict-regulation-success": {
     "claims": [
      {
@@ -29974,6 +30396,20 @@
      }
     ]
    },
+   "individualized-bkt-reduces-questions-needed-for-mastery": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "bayesian-knowledge-tracing-two-state-model",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "knowledge-tracing-variants-learning-phases",
+      "strength": "W"
+     }
+    ]
+   },
    "inquiry-based-teaching-improves-science-achievement": {
     "patterns": [
      {
@@ -29997,6 +30433,24 @@
      {
       "polarity": "~",
       "slug": "selecting-an-instructional-design-model",
+      "strength": "W"
+     }
+    ]
+   },
+   "integrated-stem-quilt-project-judged-to-offer-multiple-entry-points": {
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "quilt-project-six-session-integrated-stem-unit",
+      "strength": "W"
+     }
+    ]
+   },
+   "intelligent-tutor-lynnette-outperformed-dragonbox-on-test": {
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "knowledge-tracing-broader-applications",
       "strength": "W"
      }
     ]
@@ -30092,6 +30546,13 @@
      }
     ]
    },
+   "is-the-same-as-with-sides-gesture-combination-in-kindergarten-equation-talk": {
+    "claims": [
+     {
+      "slug": "gsides-gesture-most-frequent-teacher-code-in-kindergarten-equal-sign-lessons"
+     }
+    ]
+   },
    "isolated-innovations-are-rejected-by-the-system-they-enter": {
     "theories": [
      {
@@ -30127,6 +30588,15 @@
      {
       "polarity": "~",
       "slug": "motivation",
+      "strength": "M"
+     }
+    ]
+   },
+   "item-specific-difficulty-helps-only-at-low-and-high-leitner-decks": {
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "exponential-forgetting-curve-with-item-difficulty",
       "strength": "M"
      }
     ]
@@ -30195,6 +30665,15 @@
      }
     ]
    },
+   "kindergarten-early-algebra-intervention-shifts-equal-sign-understanding": {
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "kindergarten-balance-scale-equal-sign-lesson-sequence",
+      "strength": "W"
+     }
+    ]
+   },
    "l1-predicts-l2-phoneme-perception-more-than-proficiency": {
     "claims": [
      {
@@ -30218,6 +30697,15 @@
       "polarity": "+",
       "slug": "reading-and-language",
       "strength": "S"
+     }
+    ]
+   },
+   "language-proficiency-side-information-improves-kt-models": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "knowledge-tracing-variants-learning-phases",
+      "strength": "W"
      }
     ]
    },
@@ -30578,6 +31066,52 @@
      }
     ]
    },
+   "leitner-deck-position-predicts-recall-better-than-review-count": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "exponential-forgetting-curve-with-item-difficulty",
+      "strength": "M"
+     }
+    ]
+   },
+   "leitner-queue-network-phase-transition-in-learning-rate": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "maximize-learning-rate-when-calibrating-leitner-schedules",
+      "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "leitner-queue-network",
+      "strength": "M"
+     }
+    ]
+   },
+   "less-initial-retrieval-support-produces-better-retention": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "balance-retrieval-success-and-retrieval-effort",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "elaborative-retrieval-account",
+      "strength": "W"
+     },
+     {
+      "polarity": "-",
+      "slug": "transfer-appropriate-processing-account-of-retrieval-practice",
+      "strength": "W"
+     }
+    ]
+   },
    "lively-data-and-agentic-positions-support-epistemically-just-crisis-sensemaking": {
     "claims": [
      {
@@ -30604,6 +31138,45 @@
       "polarity": "+",
       "slug": "epistemic-injustice",
       "strength": "W"
+     }
+    ]
+   },
+   "llmkt-outperforms-existing-kt-methods-on-tutoring-dialogues": {
+    "claims": [
+     {
+      "slug": "dialogue-kt-performance-is-relatively-low-compared-to-standard-kt"
+     },
+     {
+      "slug": "dkt-sem-outperforms-existing-kt-methods-most-with-little-training-data"
+     },
+     {
+      "slug": "existing-kt-methods-fail-on-small-comta-but-improve-with-more-data-on-mathdial"
+     },
+     {
+      "slug": "llmkt-uses-dialogue-text-to-adjust-kc-mastery-estimates"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "analyze-student-dialogue-turns-as-formative-assessment",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "dialogue-knowledge-tracing-framework",
+      "strength": "M"
+     }
+    ]
+   },
+   "lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples": {
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "match-worked-example-type-to-learner-prior-knowledge",
+      "strength": "M"
      }
     ]
    },
@@ -30673,6 +31246,20 @@
       "polarity": "~",
       "slug": "timed_math_fact_drills",
       "strength": "S"
+     }
+    ]
+   },
+   "mean-recall-approximation-matches-clocked-delay-simulation-at-low-arrival-rates": {
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "leitner-queue-network",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "mean-recall-approximation",
+      "strength": "W"
      }
     ]
    },
@@ -31132,6 +31719,15 @@
      }
     ]
    },
+   "mediator-cued-final-test-effects-of-retrieval-practice-may-be-small": {
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "elaborative-retrieval-account",
+      "strength": "W"
+     }
+    ]
+   },
    "mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning": {
     "patterns": [
      {
@@ -31257,6 +31853,11 @@
     ]
    },
    "mismatched-graphic-organizers-increase-extraneous-load": {
+    "claims": [
+     {
+      "slug": "task-difficulty-raises-intrinsic-and-extraneous-but-not-germane-load-in-algebra"
+     }
+    ],
     "processes": [
      {
       "polarity": "+",
@@ -32274,6 +32875,20 @@
      }
     ]
    },
+   "no-single-knowledge-tracing-model-is-always-best": {
+    "claims": [
+     {
+      "slug": "deep-learning-knowledge-tracing-outperforms-but-lacks-interpretability"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "knowledge-tracing-model-taxonomy",
+      "strength": "W"
+     }
+    ]
+   },
    "number-board-games-improve-numerical-knowledge": {
     "strategies": [
      {
@@ -32296,6 +32911,31 @@
       "polarity": "+",
       "slug": "commognition",
       "strength": "M"
+     }
+    ]
+   },
+   "optimal-leitner-schedule-expands-intervals-between-reviews": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "mean-recall-approximation",
+      "strength": "W"
+     }
+    ]
+   },
+   "optimal-leitner-schedule-reviews-lower-decks-more-often": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "maximize-learning-rate-when-calibrating-leitner-schedules",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "mean-recall-approximation",
+      "strength": "W"
      }
     ]
    },
@@ -32758,6 +33398,54 @@
      }
     ]
    },
+   "pe-teacher-educational-philosophy-beliefs-differ-by-gender": {
+    "claims": [
+     {
+      "slug": "pe-teachers-endorse-existentialist-education-most-and-essentialism-least"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "five-basic-educational-philosophies-traditional-vs-contemporary",
+      "strength": "M"
+     }
+    ]
+   },
+   "pe-teacher-essentialism-rises-and-progressivism-falls-with-seniority": {
+    "claims": [
+     {
+      "slug": "graduate-educated-pe-teachers-endorse-progressivism-perennialism-and-essentialism-more"
+     },
+     {
+      "slug": "pe-teachers-endorse-existentialist-education-most-and-essentialism-least"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "five-basic-educational-philosophies-traditional-vs-contemporary",
+      "strength": "M"
+     }
+    ]
+   },
+   "pe-teachers-endorse-existentialist-education-most-and-essentialism-least": {
+    "claims": [
+     {
+      "slug": "high-school-pe-teachers-endorse-perennialism-more-than-secondary-school-teachers"
+     },
+     {
+      "slug": "pe-teacher-educational-philosophy-beliefs-differ-by-gender"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "five-basic-educational-philosophies-traditional-vs-contemporary",
+      "strength": "M"
+     }
+    ]
+   },
    "peer-assessment-benefits-assessor": {
     "strategies": [
      {
@@ -32853,8 +33541,25 @@
      }
     ]
    },
+   "peer-feedback-groups-added-to-web-based-srl-training-raise-srl-self-efficacy-and-math-focus-score": {
+    "claims": [
+     {
+      "slug": "srl-interventions-math-overall-score-marginal-focus-score-significant-online-prep-course"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "scale-srl-support-with-web-based-training-and-peer-feedback-groups",
+      "strength": "M"
+     }
+    ]
+   },
    "peer-feedback-improves-work-quality": {
     "claims": [
+     {
+      "slug": "peer-feedback-groups-added-to-web-based-srl-training-raise-srl-self-efficacy-and-math-focus-score"
+     },
      {
       "slug": "rubrics-improve-peer-feedback-quality"
      }
@@ -33271,6 +33976,9 @@
      },
      {
       "slug": "personal-connection-to-data-supports-critical-data-literacy-stance-taking"
+     },
+     {
+      "slug": "teacher-identity-prejudice-and-curriculum-can-enact-epistemic-injustice-toward-students"
      }
     ],
     "principles": [
@@ -33350,10 +34058,22 @@
      }
     ]
    },
+   "prior-knowledge-by-worked-example-type-interaction-on-germane-load": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "match-worked-example-type-to-learner-prior-knowledge",
+      "strength": "M"
+     }
+    ]
+   },
    "prior-knowledge-determines-new-learning": {
     "claims": [
      {
       "slug": "activation-improves-learning"
+     },
+     {
+      "slug": "high-and-low-prior-knowledge-learners-differ-in-posttest-intrinsic-and-germane-load"
      },
      {
       "polarity": "+",
@@ -33487,6 +34207,15 @@
      {
       "polarity": "~",
       "slug": "the-title-pre-reading",
+      "strength": "M"
+     }
+    ]
+   },
+   "prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest": {
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "match-worked-example-type-to-learner-prior-knowledge",
       "strength": "M"
      }
     ]
@@ -34094,6 +34823,15 @@
      }
     ]
    },
+   "production-vs-recognition-retrieval-practice-no-significant-difference-reading-comprehension": {
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "five-phase-retrieval-practice-session-format-by-level-of-thinking",
+      "strength": "M"
+     }
+    ]
+   },
    "productive-failure-improves-conceptual-learning": {
     "learner-variables": [
      {
@@ -34310,6 +35048,15 @@
      }
     ]
    },
+   "reacculturation-into-a-new-community-requires-collaboration": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "social-constructionism-in-composition",
+      "strength": "W"
+     }
+    ]
+   },
    "reading-literary-fiction-improves-theory-of-mind": {
     "strategies": [
      {
@@ -34341,6 +35088,15 @@
       "polarity": "+",
       "slug": "reciprocal-questioning",
       "strength": "S"
+     }
+    ]
+   },
+   "recollecting-the-prior-study-episode-during-retrieval-enhances-retention": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "episodic-context-account-of-retrieval-based-learning",
+      "strength": "W"
      }
     ]
    },
@@ -34798,6 +35554,24 @@
      }
     ]
    },
+   "repeated-recall-without-feedback-beats-repeated-study-at-one-week-but-not-five-minutes": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "direct-and-mediated-effects-of-retrieval-practice",
+      "strength": "W"
+     }
+    ]
+   },
+   "repeated-retrieval-alters-the-rate-of-forgetting": {
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "strength-and-retrieval-effort-account-of-retrieval-practice",
+      "strength": "W"
+     }
+    ]
+   },
    "rereading-is-a-low-utility-study-strategy": {
     "strategies": [
      {
@@ -34811,6 +35585,12 @@
     "claims": [
      {
       "slug": "fluency-judgments-mislead-learners"
+     },
+     {
+      "slug": "repeated-recall-without-feedback-beats-repeated-study-at-one-week-but-not-five-minutes"
+     },
+     {
+      "slug": "retrieval-practice-outperforms-repeated-study-rowland-meta-analysis"
      }
     ]
    },
@@ -34862,6 +35642,11 @@
     ]
    },
    "retrieval-failure-reduces-benefit": {
+    "claims": [
+     {
+      "slug": "retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent"
+     }
+    ],
     "strategies": [
      {
       "polarity": "-",
@@ -34870,7 +35655,73 @@
      }
     ]
    },
+   "retrieval-practice-benefits-do-not-require-matching-initial-and-final-test-formats": {
+    "theories": [
+     {
+      "polarity": "-",
+      "slug": "transfer-appropriate-processing-account-of-retrieval-practice",
+      "strength": "W"
+     }
+    ]
+   },
+   "retrieval-practice-benefits-extend-to-nonverbal-spatial-and-differently-structured-text-materials": {
+    "theories": [
+     {
+      "polarity": "-",
+      "slug": "elaborative-retrieval-account",
+      "strength": "W"
+     }
+    ]
+   },
+   "retrieval-practice-disrupts-within-list-order-reconstruction": {
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "episodic-context-account-of-retrieval-based-learning",
+      "strength": "W"
+     }
+    ]
+   },
+   "retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "balance-retrieval-success-and-retrieval-effort",
+      "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "strength-and-retrieval-effort-account-of-retrieval-practice",
+      "strength": "M"
+     }
+    ]
+   },
+   "retrieval-practice-enhances-final-context-memory-and-memory-search-efficiency": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "episodic-context-account-of-retrieval-based-learning",
+      "strength": "W"
+     }
+    ]
+   },
    "retrieval-practice-enhances-long-term-retention": {
+    "claims": [
+     {
+      "slug": "repeated-recall-without-feedback-beats-repeated-study-at-one-week-but-not-five-minutes"
+     },
+     {
+      "slug": "retrieval-practice-benefits-persist-six-to-nine-months"
+     },
+     {
+      "slug": "retrieval-practice-effects-larger-at-retention-intervals-over-one-day"
+     },
+     {
+      "slug": "retrieval-practice-reading-comprehension-no-significant-retention-interval-difference"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -34887,11 +35738,27 @@
    "retrieval-practice-improves-learning": {
     "claims": [
      {
+      "slug": "production-vs-recognition-retrieval-practice-no-significant-difference-reading-comprehension"
+     },
+     {
+      "slug": "retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration"
+     },
+     {
       "slug": "simulation-based-education-with-deliberate-practice-improves-clinical-outcomes"
+     }
+    ],
+    "elements": [
+     {
+      "slug": "multiple-choice-retrieval-questions-with-competitive-alternatives"
      }
     ]
    },
    "retrieval-practice-improves-long-term-retention": {
+    "claims": [
+     {
+      "slug": "retrieval-practice-effects-larger-at-retention-intervals-over-one-day"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -34944,6 +35811,12 @@
      },
      {
       "slug": "retrieval-fails-without-encoding"
+     },
+     {
+      "slug": "retrieval-practice-effects-occur-at-short-delays-when-final-tests-avoid-ceiling"
+     },
+     {
+      "slug": "retrieval-practice-outperforms-repeated-study-rowland-meta-analysis"
      },
      {
       "slug": "self-monitoring-comprehension-improves-learning"
@@ -35040,6 +35913,15 @@
     "claims": [
      {
       "slug": "l2-fluency-gains-persist-weeks-without-practice"
+     },
+     {
+      "slug": "retrieval-practice-benefits-do-not-require-matching-initial-and-final-test-formats"
+     },
+     {
+      "slug": "retrieval-practice-improves-final-inference-and-transfer-questions"
+     },
+     {
+      "slug": "retrieval-practice-lower-order-questions-outscore-higher-order-questions"
      }
     ],
     "strategies": [
@@ -35052,6 +35934,42 @@
       "polarity": "+",
       "slug": "teaching-as-learning",
       "strength": "S"
+     }
+    ]
+   },
+   "retrieval-practice-lower-order-questions-outscore-higher-order-questions": {
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "five-phase-retrieval-practice-session-format-by-level-of-thinking",
+      "strength": "M"
+     }
+    ]
+   },
+   "retrieval-practice-outperforms-repeated-study-rowland-meta-analysis": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "retrieval-practice-research-factors-framework",
+      "strength": "S"
+     }
+    ]
+   },
+   "retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration": {
+    "theories": [
+     {
+      "polarity": "-",
+      "slug": "elaborative-retrieval-account",
+      "strength": "W"
+     }
+    ]
+   },
+   "retrieval-practice-reading-comprehension-no-significant-retention-interval-difference": {
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "five-phase-retrieval-practice-session-format-by-level-of-thinking",
+      "strength": "M"
      }
     ]
    },
@@ -35410,6 +36328,131 @@
      {
       "polarity": "+",
       "slug": "ongoing_feedback_and_reflection",
+      "strength": "M"
+     }
+    ]
+   },
+   "self-both-kr-decision-shows-no-additive-motivational-informational-benefit": {
+    "claims": [
+     {
+      "slug": "learners-given-two-kr-decisions-mostly-keep-their-first-choice"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "informational-account-of-self-controlled-feedback-benefits",
+      "strength": "M"
+     }
+    ]
+   },
+   "self-controlled-kr-decided-after-trial-improves-error-estimation-accuracy": {
+    "claims": [
+     {
+      "slug": "self-controlled-kr-groups-estimate-transfer-outcomes-more-accurately-than-yoked"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "let-learners-request-feedback-after-performing",
+      "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "informational-account-of-self-controlled-feedback-benefits",
+      "strength": "M"
+     }
+    ]
+   },
+   "self-controlled-kr-decided-after-trial-improves-motor-retention": {
+    "claims": [
+     {
+      "slug": "motor-practice-accuracy-improves-across-blocks-and-favors-after-decision-groups"
+     },
+     {
+      "slug": "self-both-kr-decision-shows-no-additive-motivational-informational-benefit"
+     },
+     {
+      "slug": "self-controlled-kr-decided-after-trial-improves-error-estimation-accuracy"
+     },
+     {
+      "slug": "self-controlled-kr-decided-after-trial-improves-motor-transfer"
+     },
+     {
+      "slug": "self-controlled-kr-decided-before-trial-shows-no-benefit-over-yoked"
+     },
+     {
+      "slug": "self-controlled-learners-do-not-show-lower-error-on-requested-kr-trials"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "let-learners-request-feedback-after-performing",
+      "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "informational-account-of-self-controlled-feedback-benefits",
+      "strength": "M"
+     }
+    ]
+   },
+   "self-controlled-kr-decided-after-trial-improves-motor-transfer": {
+    "claims": [
+     {
+      "slug": "self-both-kr-decision-shows-no-additive-motivational-informational-benefit"
+     },
+     {
+      "slug": "self-controlled-kr-decided-before-trial-shows-no-benefit-over-yoked"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "let-learners-request-feedback-after-performing",
+      "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "informational-account-of-self-controlled-feedback-benefits",
+      "strength": "M"
+     }
+    ]
+   },
+   "self-controlled-kr-decided-before-trial-shows-no-benefit-over-yoked": {
+    "principles": [
+     {
+      "polarity": "-",
+      "slug": "let-learners-request-feedback-after-performing",
+      "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "informational-account-of-self-controlled-feedback-benefits",
+      "strength": "M"
+     }
+    ]
+   },
+   "self-controlled-learners-do-not-show-lower-error-on-requested-kr-trials": {
+    "claims": [
+     {
+      "slug": "self-controlled-learners-request-kr-early-in-practice-blocks"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "informational-account-of-self-controlled-feedback-benefits",
       "strength": "M"
      }
     ]
@@ -39749,6 +40792,9 @@
       "slug": "homogeneous-problem-perceptions-predict-regulation-success"
      },
      {
+      "slug": "learning-diary-alone-no-significant-srl-gains-online-math-prep-course"
+     },
+     {
       "slug": "process-goals-outperform-outcome-goals-for-novices"
      },
      {
@@ -41612,6 +42658,14 @@
     ]
    },
    "self-regulated-learning-strategy-instruction-improves-achievement": {
+    "claims": [
+     {
+      "slug": "srl-web-training-peer-feedback-group-by-time-interaction-online-math-prep"
+     },
+     {
+      "slug": "web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -41621,6 +42675,11 @@
     ]
    },
    "self-regulation-strategy-instruction-improves-academic-performance": {
+    "claims": [
+     {
+      "slug": "web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -41649,6 +42708,15 @@
       "polarity": "+",
       "slug": "raise_awareness_of_self-talk",
       "strength": "M"
+     }
+    ]
+   },
+   "short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed": {
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "future-directions-for-retrieval-based-learning-research",
+      "strength": "W"
      }
     ]
    },
@@ -41759,6 +42827,9 @@
     "claims": [
      {
       "slug": "deliberate-practice-improves-performance"
+     },
+     {
+      "slug": "optimal-leitner-schedule-expands-intervals-between-reviews"
      }
     ],
     "principles": [
@@ -41828,7 +42899,16 @@
    "spaced-repetition-improves-retention": {
     "claims": [
      {
+      "slug": "delay-term-improves-exponential-forgetting-curve-recall-prediction"
+     },
+     {
+      "slug": "expanding-retrieval-schedules-are-not-superior-to-equal-or-contracting-schedules"
+     },
+     {
       "slug": "incidental-vocabulary-exposure-limited"
+     },
+     {
+      "slug": "leitner-queue-network-phase-transition-in-learning-rate"
      }
     ],
     "elements": [
@@ -42415,11 +43495,25 @@
     ]
    },
    "spaced-retrieval-improves-retention": {
+    "claims": [
+     {
+      "slug": "spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
       "slug": "retrieval-practice-warm-ups",
       "strength": "S"
+     }
+    ]
+   },
+   "spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "balance-retrieval-success-and-retrieval-effort",
+      "strength": "W"
      }
     ]
    },
@@ -42438,6 +43532,11 @@
     ]
    },
    "spaced-retrieval-practice-improves-retention": {
+    "claims": [
+     {
+      "slug": "spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -42908,6 +44007,34 @@
      }
     ]
    },
+   "srl-interventions-math-overall-score-marginal-focus-score-significant-online-prep-course": {
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "scale-srl-support-with-web-based-training-and-peer-feedback-groups",
+      "strength": "M"
+     }
+    ]
+   },
+   "srl-web-training-peer-feedback-group-by-time-interaction-online-math-prep": {
+    "claims": [
+     {
+      "slug": "peer-feedback-groups-added-to-web-based-srl-training-raise-srl-self-efficacy-and-math-focus-score"
+     },
+     {
+      "slug": "web-based-srl-training-subscale-interactions-planning-metacognition-volition"
+     }
+    ]
+   },
+   "stereotyping-operates-as-rationalization-producing-inequality-in-school": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "cultural-processes-identification-and-rationalization",
+      "strength": "W"
+     }
+    ]
+   },
    "story-mapping-improves-comprehension": {
     "strategies": [
      {
@@ -43049,6 +44176,15 @@
      }
     ]
    },
+   "student-writing-only-as-good-as-conversation-about-writing": {
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "social-constructionist-collaborative-writing-classroom",
+      "strength": "W"
+     }
+    ]
+   },
    "students-progress-through-zones-of-mathematical-play": {
     "theories": [
      {
@@ -43113,6 +44249,9 @@
     "claims": [
      {
       "slug": "autonomy-supports-intrinsic-motivation"
+     },
+     {
+      "slug": "effort-requires-task-value-and-expectation-of-success-arcs-rationale"
      },
      {
       "slug": "self-efficacy-predicts-academic-persistence"
@@ -43750,6 +44889,27 @@
      }
     ]
    },
+   "teacher-attainment-value-increases-motivation-to-use-ai": {
+    "claims": [
+     {
+      "slug": "teacher-utility-value-increases-motivation-to-use-ai"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "target-expectancy-value-components-in-teacher-ai-training",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "expectancy-value-framework-for-teacher-ai-use-motivation",
+      "strength": "W"
+     }
+    ]
+   },
    "teacher-effectiveness-compounds-over-consecutive-years": {
     "claims": [
      {
@@ -43762,6 +44922,22 @@
      }
     ]
    },
+   "teacher-expectancy-beliefs-shape-motivation-to-use-ai": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "target-expectancy-value-components-in-teacher-ai-training",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "expectancy-value-framework-for-teacher-ai-use-motivation",
+      "strength": "W"
+     }
+    ]
+   },
    "teacher-expectancy-effects-influence-student-achievement": {
     "strategies": [
      {
@@ -43771,12 +44947,100 @@
      }
     ]
    },
+   "teacher-expectation-effects-on-achievement": {
+    "claims": [
+     {
+      "slug": "deficit-view-of-minority-households-lowers-academic-expectations"
+     },
+     {
+      "slug": "funds-of-knowledge-research-raises-teacher-expectations"
+     }
+    ]
+   },
    "teacher-guided-inquiry-outperforms-student-led": {
     "strategies": [
      {
       "polarity": "+",
       "slug": "science_through_inquiry",
       "strength": "S"
+     }
+    ]
+   },
+   "teacher-identity-prejudice-and-curriculum-can-enact-epistemic-injustice-toward-students": {
+    "claims": [
+     {
+      "slug": "black-girls-face-testimonial-and-structural-hermeneutical-injustice-in-school"
+     }
+    ]
+   },
+   "teacher-intrinsic-interest-value-increases-motivation-to-use-ai": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "target-expectancy-value-components-in-teacher-ai-training",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "expectancy-value-framework-for-teacher-ai-use-motivation",
+      "strength": "W"
+     }
+    ]
+   },
+   "teacher-perceived-cost-reduces-motivation-to-use-ai": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "target-expectancy-value-components-in-teacher-ai-training",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "expectancy-value-framework-for-teacher-ai-use-motivation",
+      "strength": "W"
+     }
+    ]
+   },
+   "teacher-researcher-difficulties-eased-by-reflective-labs": {
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "funds-of-knowledge-teacher-research-model",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "funds-of-knowledge-project-minimal-conditions",
+      "strength": "W"
+     }
+    ]
+   },
+   "teacher-shifts-equal-sign-language-with-kindergarten-lesson-focus": {
+    "claims": [
+     {
+      "slug": "gsides-gesture-most-frequent-teacher-code-in-kindergarten-equal-sign-lessons"
+     },
+     {
+      "slug": "is-the-same-as-with-sides-gesture-combination-in-kindergarten-equation-talk"
+     },
+     {
+      "slug": "kindergarten-early-algebra-intervention-shifts-equal-sign-understanding"
+     },
+     {
+      "slug": "teacher-explicitly-discusses-equation-forms-to-widen-kindergarten-acceptance"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "kindergarten-balance-scale-equal-sign-lesson-sequence",
+      "strength": "W"
      }
     ]
    },
@@ -43815,6 +45079,34 @@
       "polarity": "+",
       "slug": "positive-greetings-at-the-door",
       "strength": "S"
+     }
+    ]
+   },
+   "teacher-utility-value-increases-motivation-to-use-ai": {
+    "claims": [
+     {
+      "slug": "teacher-attainment-value-increases-motivation-to-use-ai"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "target-expectancy-value-components-in-teacher-ai-training",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "expectancy-value-framework-for-teacher-ai-use-motivation",
+      "strength": "W"
+     }
+    ]
+   },
+   "teachers-have-readier-household-entree-than-anthropologists": {
+    "claims": [
+     {
+      "slug": "teacher-researcher-difficulties-eased-by-reflective-labs"
      }
     ]
    },
@@ -43861,6 +45153,12 @@
       "slug": "retrieval-practice-improves-transfer"
      },
      {
+      "slug": "retrieval-practice-outperforms-repeated-study-rowland-meta-analysis"
+     },
+     {
+      "slug": "retrieval-practice-reading-comprehension-no-significant-retention-interval-difference"
+     },
+     {
       "polarity": "+",
       "slug": "writing-to-learn-improves-understanding",
       "strength": "S"
@@ -43900,6 +45198,15 @@
       "polarity": "+",
       "slug": "spaced-retrieval-practice",
       "strength": "S"
+     }
+    ]
+   },
+   "trait-self-regulation-relates-only-to-knowledge-map-scores-in-a-puzzle-game": {
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "cresst-problem-solving-model",
+      "strength": "W"
      }
     ]
    },
@@ -43988,6 +45295,29 @@
       "polarity": "+",
       "slug": "vocabulary-in-context",
       "strength": "S"
+     }
+    ]
+   },
+   "web-based-srl-training-subscale-interactions-planning-metacognition-volition": {
+    "claims": [
+     {
+      "slug": "peer-feedback-groups-add-self-motivation-volition-reflection-gains-to-web-based-srl-training"
+     }
+    ]
+   },
+   "web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "scale-srl-support-with-web-based-training-and-peer-feedback-groups",
+      "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "process-model-of-self-regulated-learning-schmitz-wiese",
+      "strength": "M"
      }
     ]
    },
@@ -44444,6 +45774,20 @@
      }
     ]
    },
+   "worked-example-gains-in-a-puzzle-game-remain-small-relative-to-expert-knowledge-maps": {
+    "claims": [
+     {
+      "slug": "worked-examples-improve-knowledge-map-content-understanding-in-a-puzzle-game"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "worked-examples-for-game-based-puzzle-problem-solving",
+      "strength": "M"
+     }
+    ]
+   },
    "worked-example-problem-sequences": {
     "claims": [
      {
@@ -44586,6 +45930,9 @@
       "slug": "learner-paced-beats-system-paced-complex-material"
      },
      {
+      "slug": "lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples"
+     },
+     {
       "slug": "manipulatives-require-connection-to-concept"
      },
      {
@@ -44601,7 +45948,13 @@
       "slug": "peer-assisted-learning-improves-achievement"
      },
      {
+      "slug": "prior-knowledge-by-worked-example-type-interaction-on-germane-load"
+     },
+     {
       "slug": "prior-knowledge-not-related-to-performance"
+     },
+     {
+      "slug": "prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest"
      },
      {
       "slug": "redundancy-effect-impairs-learning"
@@ -44661,6 +46014,11 @@
       "strength": "M"
      }
     ],
+    "principles": [
+     {
+      "slug": "match-worked-example-type-to-learner-prior-knowledge"
+     }
+    ],
     "processes": [
      {
       "polarity": "~",
@@ -44672,6 +46030,27 @@
      {
       "polarity": "~",
       "slug": "applying_student-centered_strategies_to_support_learning_differences",
+      "strength": "M"
+     }
+    ]
+   },
+   "worked-examples-improve-knowledge-map-content-understanding-in-a-puzzle-game": {
+    "claims": [
+     {
+      "slug": "worked-example-gains-in-a-puzzle-game-remain-small-relative-to-expert-knowledge-maps"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "worked-examples-for-game-based-puzzle-problem-solving",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "add-worked-examples-to-commercial-off-the-shelf-games-for-training",
       "strength": "M"
      }
     ]
@@ -44710,8 +46089,46 @@
      }
     ]
    },
+   "worked-examples-improve-problem-solving-strategy-retention-in-a-puzzle-game": {
+    "claims": [
+     {
+      "slug": "worked-examples-improve-problem-solving-strategy-transfer-in-a-puzzle-game"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "worked-examples-for-game-based-puzzle-problem-solving",
+      "strength": "M"
+     }
+    ]
+   },
+   "worked-examples-improve-problem-solving-strategy-transfer-in-a-puzzle-game": {
+    "claims": [
+     {
+      "slug": "worked-examples-improve-problem-solving-strategy-retention-in-a-puzzle-game"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "worked-examples-for-game-based-puzzle-problem-solving",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "add-worked-examples-to-commercial-off-the-shelf-games-for-training",
+      "strength": "M"
+     }
+    ]
+   },
    "worked-examples-less-effective-with-expertise": {
     "claims": [
+     {
+      "slug": "lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples"
+     },
      {
       "slug": "worked-examples-expertise-reversal"
      },
@@ -45259,6 +46676,9 @@
       "slug": "worked-examples-example-problem-sequences"
      },
      {
+      "slug": "worked-examples-improve-knowledge-map-content-understanding-in-a-puzzle-game"
+     },
+     {
       "slug": "worked-examples-improve-math-performance"
      },
      {
@@ -45697,6 +47117,9 @@
       "slug": "worked-examples-improve-math-performance"
      },
      {
+      "slug": "worked-examples-improve-problem-solving-strategy-transfer-in-a-puzzle-game"
+     },
+     {
       "slug": "worked-examples-reduce-novice-search"
      }
     ],
@@ -46022,6 +47445,15 @@
       "polarity": "+",
       "slug": "science-notebooks",
       "strength": "M"
+     }
+    ]
+   },
+   "xai-interpretation-of-dkt-enhances-trust": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "deep-learning-knowledge-tracing-models",
+      "strength": "W"
      }
     ]
    }
@@ -47830,6 +49262,9 @@
      },
      {
       "slug": "gamification"
+     },
+     {
+      "slug": "solution-step-task-difficulty-levels-for-simultaneous-equations"
      }
     ],
     "patterns": [
@@ -47843,6 +49278,9 @@
      },
      {
       "slug": "gamification"
+     },
+     {
+      "slug": "multi-objective-exercise-recommendation-objectives"
      },
      {
       "slug": "personalization"
@@ -47917,6 +49355,9 @@
      },
      {
       "slug": "instructor-feedback-loops"
+     },
+     {
+      "slug": "knowledge-tracing-driven-exercise-recommendation"
      },
      {
       "slug": "learning-centers"
@@ -48025,6 +49466,9 @@
     "elements": [
      {
       "slug": "adaptive-mastery-learning"
+     },
+     {
+      "slug": "llmkt-llm-based-knowledge-tracing"
      },
      {
       "slug": "personalized-pacing"
@@ -49659,6 +51103,18 @@
      },
      {
       "slug": "von-restorff-effect-text-marking"
+     }
+    ]
+   },
+   "after-school-teacher-research-labs": {
+    "patterns": [
+     {
+      "slug": "funds-of-knowledge-teacher-research-model"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "funds-of-knowledge-project-minimal-conditions"
      }
     ]
    },
@@ -65450,6 +66906,13 @@
      }
     ]
    },
+   "concrete-modeling": {
+    "patterns": [
+     {
+      "slug": "kindergarten-balance-scale-equal-sign-lesson-sequence"
+     }
+    ]
+   },
    "consensus-building": {
     "elements": [
      {
@@ -67194,6 +68657,13 @@
      }
     ]
    },
+   "educational-belief-scale-five-philosophy-dimensions": {
+    "strategies": [
+     {
+      "slug": "extending-research-on-pe-teacher-educational-philosophy-beliefs"
+     }
+    ]
+   },
    "elaboration": {
     "claims": [
      {
@@ -67458,6 +68928,9 @@
      }
     ],
     "strategies": [
+     {
+      "slug": "arcs-confidence-strategies"
+     },
      {
       "slug": "specific_feedback"
      }
@@ -68403,6 +69876,9 @@
       "slug": "growth-mindset"
      },
      {
+      "slug": "let-learners-request-feedback-after-performing"
+     },
+     {
       "slug": "phonics"
      },
      {
@@ -68438,6 +69914,9 @@
      },
      {
       "slug": "analyzing_video_replays"
+     },
+     {
+      "slug": "arcs-satisfaction-strategies"
      },
      {
       "slug": "assigned_readings"
@@ -69080,6 +70559,9 @@
     ],
     "strategies": [
      {
+      "slug": "arcs-attention-strategies"
+     },
+     {
       "slug": "awareness_of_self-talk"
      },
      {
@@ -69156,6 +70638,9 @@
      }
     ],
     "elements": [
+     {
+      "slug": "daily-before-and-after-srl-learning-diary"
+     },
      {
       "slug": "learning-outcomes"
      },
@@ -69507,6 +70992,9 @@
      },
      {
       "slug": "embodied-physics-inquiry-through-dance"
+     },
+     {
+      "slug": "quilt-project-six-session-integrated-stem-unit"
      }
     ],
     "theories": [
@@ -70438,6 +71926,9 @@
     ],
     "strategies": [
      {
+      "slug": "arcs-relevance-strategies"
+     },
+     {
       "slug": "spaced-retrieval-practice"
      }
     ]
@@ -70509,6 +72000,13 @@
     "elements": [
      {
       "slug": "research"
+     }
+    ]
+   },
+   "llmkt-llm-based-knowledge-tracing": {
+    "strategies": [
+     {
+      "slug": "future-directions-for-dialogue-knowledge-tracing"
      }
     ]
    },
@@ -70860,6 +72358,13 @@
     "principles": [
      {
       "slug": "multimedia-learning"
+     }
+    ]
+   },
+   "multiple-choice-retrieval-questions-with-competitive-alternatives": {
+    "patterns": [
+     {
+      "slug": "five-phase-retrieval-practice-session-format-by-level-of-thinking"
      }
     ]
    },
@@ -71827,6 +73332,9 @@
     "elements": [
      {
       "slug": "argumentation"
+     },
+     {
+      "slug": "descriptive-evaluative-substantive-peer-criticism"
      }
     ],
     "strategies": [
@@ -71969,6 +73477,9 @@
    },
    "peer-review": {
     "elements": [
+     {
+      "slug": "descriptive-evaluative-substantive-peer-criticism"
+     },
      {
       "slug": "formative-assessment"
      },
@@ -75325,6 +76836,11 @@
      {
       "slug": "big_10_student_motivators"
      }
+    ],
+    "theories": [
+     {
+      "slug": "cresst-problem-solving-model"
+     }
     ]
    },
    "problem-solving-tasks": {
@@ -75458,6 +76974,9 @@
      },
      {
       "slug": "anglo-saxon_phoneme-grapheme_mapping"
+     },
+     {
+      "slug": "arcs-confidence-strategies"
      },
      {
       "slug": "ask_the_4_questions"
@@ -76833,6 +78352,9 @@
    "reinforcement": {
     "strategies": [
      {
+      "slug": "arcs-satisfaction-strategies"
+     },
+     {
       "slug": "digital_noise_monitoring"
      },
      {
@@ -76972,6 +78494,9 @@
      },
      {
       "slug": "individual-response"
+     },
+     {
+      "slug": "multiple-choice-retrieval-questions-with-competitive-alternatives"
      },
      {
       "slug": "quizzes"
@@ -78609,6 +80134,9 @@
       "slug": "mastery-progression"
      },
      {
+      "slug": "mnemosyne-flashcard-review-logs"
+     },
+     {
       "slug": "practice-testing"
      },
      {
@@ -78722,6 +80250,14 @@
      {
       "slug": "word_study"
      }
+    ],
+    "theories": [
+     {
+      "slug": "exponential-forgetting-curve-with-item-difficulty"
+     },
+     {
+      "slug": "leitner-queue-network"
+     }
     ]
    },
    "specific-learning-disabilities": {
@@ -78767,6 +80303,9 @@
     "strategies": [
      {
       "slug": "achievable_micro-goals"
+     },
+     {
+      "slug": "arcs-relevance-strategies"
      },
      {
       "slug": "awareness_of_self-talk"
@@ -79042,6 +80581,18 @@
     "strategies": [
      {
       "slug": "cooperative_learning_activities"
+     }
+    ]
+   },
+   "technology-integration": {
+    "strategies": [
+     {
+      "slug": "supports-to-raise-teacher-expectancy-and-value-for-ai-use"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "expectancy-value-framework-for-teacher-ai-use-motivation"
      }
     ]
    },
@@ -80277,6 +81828,9 @@
      },
      {
       "slug": "fading"
+     },
+     {
+      "slug": "full-and-completion-worked-examples-for-simultaneous-equations"
      },
      {
       "slug": "hints"
@@ -83594,6 +85148,9 @@
       "slug": "cooperative-learning"
      },
      {
+      "slug": "social-constructionist-collaborative-writing-classroom"
+     },
+     {
       "slug": "team-based-learning"
      },
      {
@@ -86823,6 +88380,26 @@
      }
     ]
    },
+   "funds-of-knowledge-teacher-research-model": {
+    "elements": [
+     {
+      "slug": "after-school-teacher-research-labs"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "funds-of-knowledge-project-minimal-conditions"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "funds-of-knowledge-household-interviews"
+     },
+     {
+      "slug": "household-knowledge-interdisciplinary-thematic-unit"
+     }
+    ]
+   },
    "gagnes-9-events-of-instruction": {
     "elements": [
      {
@@ -88042,6 +89619,9 @@
     "strategies": [
      {
       "slug": "build_time_for_self-reflection"
+     },
+     {
+      "slug": "supports-to-raise-teacher-expectancy-and-value-for-ai-use"
      }
     ]
    },
@@ -88350,6 +89930,9 @@
    },
    "structured-peer-review": {
     "elements": [
+     {
+      "slug": "descriptive-evaluative-substantive-peer-criticism"
+     },
      {
       "slug": "peer-assessment"
      },
@@ -88819,6 +90402,20 @@
      }
     ]
    },
+   "worked-examples": {
+    "patterns": [
+     {
+      "slug": "worked-examples-for-game-based-puzzle-problem-solving"
+     }
+    ]
+   },
+   "worked-examples-for-game-based-puzzle-problem-solving": {
+    "strategies": [
+     {
+      "slug": "extending-game-based-worked-examples-for-greater-improvement"
+     }
+    ]
+   },
    "workshop-model": {
     "strategies": [
      {
@@ -88827,6 +90424,11 @@
     ]
    },
    "writing-workshop": {
+    "patterns": [
+     {
+      "slug": "social-constructionist-collaborative-writing-classroom"
+     }
+    ],
     "strategies": [
      {
       "slug": "5-minute_writing_conferences"
@@ -90879,6 +92481,9 @@
     ],
     "principles": [
      {
+      "slug": "adaptive-learning-consistent-with-cognitive-structure"
+     },
+     {
       "slug": "gamification"
      },
      {
@@ -91164,6 +92769,9 @@
      },
      {
       "slug": "generative-processing"
+     },
+     {
+      "slug": "gpt-4o-dialogue-annotation-correctness-and-common-core-kcs"
      },
      {
       "slug": "review-and-summarizing"
@@ -94082,6 +95690,9 @@
     "principles": [
      {
       "slug": "gamification"
+     },
+     {
+      "slug": "let-learners-request-feedback-after-performing"
      }
     ],
     "strategies": [
@@ -98700,6 +100311,9 @@
       "slug": "knowledge-organization"
      },
      {
+      "slug": "lower-extraneous-load-to-increase-germane-effort-in-stem"
+     },
+     {
       "slug": "personalization"
      },
      {
@@ -99573,6 +101187,11 @@
       "slug": "summarization-and-synthesis"
      }
     ],
+    "principles": [
+     {
+      "slug": "lower-extraneous-load-to-increase-germane-effort-in-stem"
+     }
+    ],
     "strategies": [
      {
       "slug": "checklists"
@@ -99652,6 +101271,9 @@
      },
      {
       "slug": "explicit-instruction"
+     },
+     {
+      "slug": "lower-extraneous-load-to-increase-germane-effort-in-stem"
      },
      {
       "slug": "multimedia-learning"
@@ -101786,7 +103408,15 @@
       "slug": "motivation"
      },
      {
+      "slug": "multi-objective-exercise-recommendation-objectives"
+     },
+     {
       "slug": "self-determination-theory"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "knowledge-tracing-variants-learning-phases"
      }
     ]
    },
@@ -102396,6 +104026,9 @@
     ],
     "principles": [
      {
+      "slug": "analyze-student-dialogue-turns-as-formative-assessment"
+     },
+     {
       "slug": "assessment-for-learning"
      },
      {
@@ -102546,9 +104179,15 @@
      },
      {
       "slug": "game-based-mastery-learning"
+     },
+     {
+      "slug": "worked-examples-for-game-based-puzzle-problem-solving"
      }
     ],
     "principles": [
+     {
+      "slug": "add-worked-examples-to-commercial-off-the-shelf-games-for-training"
+     },
      {
       "slug": "engagement"
      },
@@ -103017,9 +104656,22 @@
    "informal-learning": {
     "principles": [
      {
+      "slug": "build-connections-between-mathematics-and-other-practices"
+     },
+     {
       "polarity": "+",
       "slug": "free-choice-learning-environment-design",
       "strength": "S"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "unlabelled-activities-with-later-subject-reflection"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "humanizing-mathematics-as-boundary-blurring"
      }
     ]
    },
@@ -103293,6 +104945,9 @@
       "slug": "goal-setting-monitoring"
      },
      {
+      "slug": "let-learners-request-feedback-after-performing"
+     },
+     {
       "slug": "motivation"
      },
      {
@@ -103392,6 +105047,9 @@
      }
     ],
     "principles": [
+     {
+      "slug": "adaptive-learning-consistent-with-cognitive-structure"
+     },
      {
       "slug": "behaviorism"
      },
@@ -103651,6 +105309,9 @@
      },
      {
       "slug": "self-determination-theory"
+     },
+     {
+      "slug": "target-expectancy-value-components-in-teacher-ai-training"
      }
     ]
    },
@@ -103691,6 +105352,9 @@
      },
      {
       "slug": "multimedia-projects"
+     },
+     {
+      "slug": "teacher-language-and-gesture-codes-for-mathematical-equivalence"
      },
      {
       "slug": "technology-integration"
@@ -103987,6 +105651,9 @@
       "slug": "process-based-writing"
      },
      {
+      "slug": "scale-srl-support-with-web-based-training-and-peer-feedback-groups"
+     },
+     {
       "slug": "skills-sprint"
      }
     ]
@@ -104029,6 +105696,9 @@
     "strategies": [
      {
       "slug": "audiobooks"
+     },
+     {
+      "slug": "future-directions-for-dialogue-knowledge-tracing"
      }
     ]
    },
@@ -104638,6 +106308,9 @@
      }
     ],
     "principles": [
+     {
+      "slug": "balance-retrieval-success-and-retrieval-effort"
+     },
      {
       "slug": "memory-consolidation"
      },
@@ -105330,6 +107003,9 @@
       "slug": "reflective-practice"
      },
      {
+      "slug": "scale-srl-support-with-web-based-training-and-peer-feedback-groups"
+     },
+     {
       "slug": "self-directed-learning"
      },
      {
@@ -105468,6 +107144,11 @@
      },
      {
       "slug": "peer-learning"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "social-constructionism-in-composition"
      }
     ]
    },
@@ -105618,6 +107299,9 @@
      }
     ],
     "principles": [
+     {
+      "slug": "maximize-learning-rate-when-calibrating-leitner-schedules"
+     },
      {
       "slug": "memory-consolidation"
      },
@@ -106150,6 +107834,9 @@
     ],
     "principles": [
      {
+      "slug": "add-worked-examples-to-commercial-off-the-shelf-games-for-training"
+     },
+     {
       "slug": "chunking"
      },
      {
@@ -106169,6 +107856,9 @@
      },
      {
       "slug": "guided-practice"
+     },
+     {
+      "slug": "match-worked-example-type-to-learner-prior-knowledge"
      },
      {
       "slug": "modeling"
@@ -106599,6 +108289,17 @@
     ]
    },
    "arcs-model": {
+    "elements": [
+     {
+      "slug": "instructional-materials-motivation-survey-imms"
+     },
+     {
+      "slug": "motivational-delivery-checklist"
+     },
+     {
+      "slug": "website-motivational-analysis-checklist-webmac"
+     }
+    ],
     "learner-variables": [
      {
       "slug": "attention"
@@ -106607,7 +108308,24 @@
       "slug": "motivation"
      }
     ],
+    "strategies": [
+     {
+      "slug": "arcs-attention-strategies"
+     },
+     {
+      "slug": "arcs-confidence-strategies"
+     },
+     {
+      "slug": "arcs-relevance-strategies"
+     },
+     {
+      "slug": "arcs-satisfaction-strategies"
+     }
+    ],
     "theories": [
+     {
+      "slug": "arcs-strategy-subcomponent-taxonomy"
+     },
      {
       "slug": "expectancy-value-theory"
      },
@@ -106624,6 +108342,33 @@
      },
      {
       "slug": "self-efficacy-theory"
+     }
+    ]
+   },
+   "arcs-strategy-subcomponent-taxonomy": {
+    "elements": [
+     {
+      "slug": "instructional-materials-motivation-survey-imms"
+     },
+     {
+      "slug": "motivational-delivery-checklist"
+     },
+     {
+      "slug": "website-motivational-analysis-checklist-webmac"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "arcs-attention-strategies"
+     },
+     {
+      "slug": "arcs-confidence-strategies"
+     },
+     {
+      "slug": "arcs-relevance-strategies"
+     },
+     {
+      "slug": "arcs-satisfaction-strategies"
      }
     ]
    },
@@ -106650,6 +108395,13 @@
       "polarity": "+",
       "slug": "student-orientation-toward-achievement",
       "strength": "S"
+     }
+    ]
+   },
+   "bayesian-knowledge-tracing-two-state-model": {
+    "theories": [
+     {
+      "slug": "knowledge-tracing-model-taxonomy"
      }
     ]
    },
@@ -106933,6 +108685,11 @@
     ]
    },
    "blooms-taxonomy": {
+    "elements": [
+     {
+      "slug": "multiple-choice-retrieval-questions-with-competitive-alternatives"
+     }
+    ],
     "patterns": [
      {
       "slug": "five-e-model"
@@ -106970,6 +108727,9 @@
     "strategies": [
      {
       "slug": "broker-position-circulation"
+     },
+     {
+      "slug": "co-developing-mathematics-tasks-from-informal-educators-everyday-problems"
      }
     ],
     "theories": [
@@ -106981,6 +108741,9 @@
      },
      {
       "slug": "epistemic-games"
+     },
+     {
+      "slug": "humanizing-mathematics-as-boundary-blurring"
      },
      {
       "slug": "knowledge-objects-and-knowledge-practices"
@@ -107625,7 +109388,13 @@
       "slug": "direct-instruction"
      },
      {
+      "slug": "full-and-completion-worked-examples-for-simultaneous-equations"
+     },
+     {
       "slug": "part-task-practice"
+     },
+     {
+      "slug": "solution-step-task-difficulty-levels-for-simultaneous-equations"
      },
      {
       "polarity": "+",
@@ -108319,6 +110088,9 @@
       "slug": "situated-learning"
      },
      {
+      "slug": "social-constructionism-in-composition"
+     },
+     {
       "slug": "social-learning-theory"
      },
      {
@@ -108329,6 +110101,13 @@
      },
      {
       "slug": "stages-of-cognitive-development"
+     }
+    ]
+   },
+   "cresst-problem-solving-model": {
+    "elements": [
+     {
+      "slug": "knowledge-map-content-understanding-assessment"
      }
     ]
    },
@@ -108453,6 +110232,20 @@
      }
     ]
    },
+   "cultural-processes-identification-and-rationalization": {
+    "theories": [
+     {
+      "slug": "macro-micro-meso-levels-of-inequality-production"
+     }
+    ]
+   },
+   "deep-learning-knowledge-tracing-models": {
+    "strategies": [
+     {
+      "slug": "knowledge-tracing-future-research-directions"
+     }
+    ]
+   },
    "design-layers-theory": {
     "processes": [
      {
@@ -108501,6 +110294,29 @@
     "theories": [
      {
       "slug": "research-design-taxonomy"
+     }
+    ]
+   },
+   "dialogue-knowledge-tracing-framework": {
+    "elements": [
+     {
+      "slug": "dkt-sem-semantic-embedding-knowledge-tracing"
+     },
+     {
+      "slug": "gpt-4o-dialogue-annotation-correctness-and-common-core-kcs"
+     },
+     {
+      "slug": "llmkt-llm-based-knowledge-tracing"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "analyze-student-dialogue-turns-as-formative-assessment"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "future-directions-for-dialogue-knowledge-tracing"
      }
     ]
    },
@@ -108872,6 +110688,9 @@
     "principles": [
      {
       "slug": "cultural-life-experiences-connections"
+     },
+     {
+      "slug": "interrogate-voice-credibility-and-testimony-in-educational-inequality-research"
      }
     ],
     "theories": [
@@ -108879,7 +110698,16 @@
       "slug": "critical-maker-entrepreneurialism"
      },
      {
+      "slug": "cultural-processes-identification-and-rationalization"
+     },
+     {
+      "slug": "hermeneutical-injustice-incidental-and-systematic"
+     },
+     {
       "slug": "onto-epistemic-heterogeneity"
+     },
+     {
+      "slug": "varieties-of-testimonial-injustice-wanderer-hookway"
      },
      {
       "slug": "womanist-restorying"
@@ -108900,6 +110728,9 @@
    },
    "essentialism-and-perennialism-educational-philosophy": {
     "theories": [
+     {
+      "slug": "five-basic-educational-philosophies-traditional-vs-contemporary"
+     },
      {
       "slug": "pragmatism-and-progressivism-educational-philosophy"
      },
@@ -108931,6 +110762,20 @@
      }
     ]
    },
+   "existentialism-educational-philosophy": {
+    "theories": [
+     {
+      "slug": "five-basic-educational-philosophies-traditional-vs-contemporary"
+     }
+    ]
+   },
+   "expectancy-value-framework-for-teacher-ai-use-motivation": {
+    "strategies": [
+     {
+      "slug": "supports-to-raise-teacher-expectancy-and-value-for-ai-use"
+     }
+    ]
+   },
    "expectancy-value-theory": {
     "learner-variables": [
      {
@@ -108942,7 +110787,13 @@
       "slug": "arcs-model"
      },
      {
+      "slug": "arcs-strategy-subcomponent-taxonomy"
+     },
+     {
       "slug": "attribution-theory"
+     },
+     {
+      "slug": "expectancy-value-framework-for-teacher-ai-use-motivation"
      },
      {
       "slug": "four-phase-interest-development"
@@ -109494,6 +111345,9 @@
      },
      {
       "slug": "example-problem-pairs"
+     },
+     {
+      "slug": "full-and-completion-worked-examples-for-simultaneous-equations"
      }
     ],
     "learner-variables": [
@@ -109681,6 +111535,18 @@
      }
     ]
    },
+   "five-basic-educational-philosophies-traditional-vs-contemporary": {
+    "elements": [
+     {
+      "slug": "educational-belief-scale-five-philosophy-dimensions"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "extending-research-on-pe-teacher-educational-philosophy-beliefs"
+     }
+    ]
+   },
    "four-phase-interest-development": {
     "claims": [
      {
@@ -109716,6 +111582,11 @@
       "slug": "embodied-dance-improvisation-supports-physics-engagement-and-sensemaking"
      }
     ],
+    "elements": [
+     {
+      "slug": "after-school-teacher-research-labs"
+     }
+    ],
     "methods": [
      {
       "slug": "family-interview-based-assessment-task-design"
@@ -109732,6 +111603,14 @@
     "principles": [
      {
       "slug": "cultural-life-experiences-connections"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "funds-of-knowledge-household-interviews"
+     },
+     {
+      "slug": "household-knowledge-interdisciplinary-thematic-unit"
      }
     ],
     "theories": [
@@ -109833,6 +111712,13 @@
      }
     ]
    },
+   "hermeneutical-injustice-incidental-and-systematic": {
+    "theories": [
+     {
+      "slug": "varieties-of-testimonial-injustice-wanderer-hookway"
+     }
+    ]
+   },
    "historical-reasoning-framework": {
     "claims": [
      {
@@ -109848,6 +111734,13 @@
      }
     ]
    },
+   "humanizing-mathematics-as-boundary-blurring": {
+    "principles": [
+     {
+      "slug": "build-connections-between-mathematics-and-other-practices"
+     }
+    ]
+   },
    "idealism-educational-philosophy": {
     "theories": [
      {
@@ -109855,6 +111748,9 @@
      },
      {
       "slug": "existentialism-educational-philosophy"
+     },
+     {
+      "slug": "five-basic-educational-philosophies-traditional-vs-contemporary"
      },
      {
       "slug": "pragmatism-and-progressivism-educational-philosophy"
@@ -110047,6 +111943,57 @@
      }
     ]
    },
+   "knowledge-tracing-learner-modeling-task": {
+    "elements": [
+     {
+      "slug": "edudata-and-eduktm-libraries"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "adaptive-learning-consistent-with-cognitive-structure"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "knowledge-tracing-driven-exercise-recommendation"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "knowledge-tracing-broader-applications"
+     },
+     {
+      "slug": "knowledge-tracing-model-taxonomy"
+     }
+    ]
+   },
+   "knowledge-tracing-model-taxonomy": {
+    "elements": [
+     {
+      "slug": "edudata-and-eduktm-libraries"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "knowledge-tracing-future-research-directions"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "bayesian-knowledge-tracing-two-state-model"
+     },
+     {
+      "slug": "deep-learning-knowledge-tracing-models"
+     },
+     {
+      "slug": "knowledge-tracing-variants-learning-phases"
+     },
+     {
+      "slug": "logistic-knowledge-tracing-models"
+     }
+    ]
+   },
    "kohlberg-moral-development": {
     "principles": [
      {
@@ -110115,6 +112062,23 @@
      }
     ]
    },
+   "leitner-queue-network": {
+    "elements": [
+     {
+      "slug": "leitnerq-mturk-data-and-code-release"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "maximize-learning-rate-when-calibrating-leitner-schedules"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "mean-recall-approximation"
+     }
+    ]
+   },
    "locus-of-control": {
     "theories": [
      {
@@ -110122,6 +112086,13 @@
      },
      {
       "slug": "social-learning-theory"
+     }
+    ]
+   },
+   "logistic-knowledge-tracing-models": {
+    "theories": [
+     {
+      "slug": "knowledge-tracing-model-taxonomy"
      }
     ]
    },
@@ -110314,6 +112285,9 @@
       "slug": "essentialism-and-perennialism-educational-philosophy"
      },
      {
+      "slug": "five-basic-educational-philosophies-traditional-vs-contemporary"
+     },
+     {
       "slug": "idealism-educational-philosophy"
      }
     ]
@@ -110327,6 +112301,21 @@
     "strategies": [
      {
       "slug": "failure-driven-scaffolding"
+     }
+    ]
+   },
+   "process-model-of-self-regulated-learning-schmitz-wiese": {
+    "elements": [
+     {
+      "slug": "daily-before-and-after-srl-learning-diary"
+     },
+     {
+      "slug": "three-lesson-web-based-srl-training"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "online-srl-peer-feedback-groups-after-each-training-lesson"
      }
     ]
    },
@@ -110344,6 +112333,9 @@
      },
      {
       "slug": "existentialism-educational-philosophy"
+     },
+     {
+      "slug": "five-basic-educational-philosophies-traditional-vs-contemporary"
      },
      {
       "slug": "idealism-educational-philosophy"
@@ -110672,6 +112664,9 @@
       "slug": "goal-orientation-theory"
      },
      {
+      "slug": "informational-account-of-self-controlled-feedback-benefits"
+     },
+     {
       "slug": "instinct-drive-and-arousal-theories"
      },
      {
@@ -110712,6 +112707,9 @@
      },
      {
       "slug": "attribution-theory"
+     },
+     {
+      "slug": "expectancy-value-framework-for-teacher-ai-use-motivation"
      },
      {
       "slug": "expectancy-value-theory"
@@ -111786,6 +113784,9 @@
       "slug": "problem-solving-followed-by-instruction"
      },
      {
+      "slug": "process-model-of-self-regulated-learning-schmitz-wiese"
+     },
+     {
       "slug": "self-determination-theory"
      },
      {
@@ -111998,6 +113999,27 @@
      },
      {
       "slug": "sociocultural-theory"
+     }
+    ]
+   },
+   "social-constructionism-in-composition": {
+    "elements": [
+     {
+      "slug": "descriptive-evaluative-substantive-peer-criticism"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "alternatives-to-think-write-pedagogy"
+     },
+     {
+      "slug": "classroom-ethnography-of-collaborative-writing"
+     },
+     {
+      "slug": "evaluating-drafts-peer-critiques-and-collaborative-exercises"
+     },
+     {
+      "slug": "talk-write-read-writing-assignments"
      }
     ]
    },
@@ -112315,6 +114337,9 @@
       "slug": "constructivism"
      },
      {
+      "slug": "cultural-processes-identification-and-rationalization"
+     },
+     {
       "slug": "executive-function-development"
      },
      {
@@ -112328,6 +114353,9 @@
      },
      {
       "slug": "situated-learning"
+     },
+     {
+      "slug": "social-constructionism-in-composition"
      },
      {
       "slug": "social-learning-theory"
@@ -112449,6 +114477,13 @@
      }
     ]
    },
+   "varieties-of-testimonial-injustice-wanderer-hookway": {
+    "theories": [
+     {
+      "slug": "hermeneutical-injustice-incidental-and-systematic"
+     }
+    ]
+   },
    "von-restorff-effect-text-marking": {
     "claims": [
      {
@@ -112524,14 +114559,14 @@
  },
  "note": "Reverse edges: for each page, which pages link TO it. Built by scripts/build_reverse_index.py; see its docstring for why this direction rather than ## Examples.",
  "totals": {
-  "claims": 434,
-  "elements": 327,
+  "claims": 578,
+  "elements": 347,
   "learner-variables": 12,
   "methods": 17,
-  "patterns": 125,
-  "principles": 199,
+  "patterns": 131,
+  "principles": 214,
   "processes": 12,
-  "strategies": 2548,
-  "theories": 91
+  "strategies": 2570,
+  "theories": 121
  }
 }

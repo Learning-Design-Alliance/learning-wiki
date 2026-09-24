@@ -1,0 +1,171 @@
+# lili-zhou-2023 — written by the ingest pipeline from eric-ed658339, and UNVERIFIED.
+# Extraction method is in provenance. Every field was validated against
+# observations/SCHEMA.md; none was checked against the article by a person.
+
+schema_version: 2
+study:
+  key: lili-zhou-2023
+  citation: Lili Zhou. (2023). Humanizing Mathematics through Boundary Crossing Collaboration. Proceedings
+    of the forty-fifth annual meeting of the North American Chapter of the International Group for the
+    Psychology of Mathematics Education (Vol. 2). https://eric.ed.gov/?id=ED658339
+  design:
+    family: qualitative
+    design_detail: narrative inquiry; analysis of narrative and narrative analysis (Polkinghorne, 1995)
+    preregistration:
+      status: unreported
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: '2026-09-24'
+  extraction_method: ingest-pipeline-v130 (claude-code-agent/opus-5.5)
+  verification: unverified
+appears_in:
+- claim: informal-stem-club-mathematics-tension-between-interest-and-not-like-school
+  bearing: supports
+  anchor: lili-zhou-2023
+- claim: contextualized-real-life-task-reverted-to-pure-mathematics-and-felt-too-school
+  bearing: supports
+  anchor: lili-zhou-2023-2
+- claim: integrated-stem-quilt-project-judged-to-offer-multiple-entry-points
+  bearing: supports
+  anchor: lili-zhou-2023-2
+- claim: boundary-crossing-collaboration-with-informal-educators-reframes-mathematics-as-human-practice
+  bearing: supports
+  anchor: lili-zhou-2023-2
+evidence_base:
+  unit: participants
+  size:
+    value: 2
+    unit: participants
+  population:
+    description: A mathematics education researcher and the founder of the Girls Excelling in Math and
+      Science (GEMS) club, an informal educator
+    age_or_stage: adult educators
+  context:
+    setting: informal learning settings; the GEMS afterschool club
+    geography: unreported
+    delivery_mode: email, virtual meeting, interviews and field texts
+  arms:
+  - id: boundary-crossing-collaboration
+    description: The researcher works alongside the GEMS founder to further develop the GEMS program,
+      including co-developing the Quilt Problem and Quilt Project.
+    elements:
+    - term: boundary crossing collaboration
+    - term: Quilt Problem
+    - term: Quilt Project
+comparisons:
+- id: no-comparison
+  kind: none
+  index_arm: boundary-crossing-collaboration
+  reference_arm: boundary-crossing-collaboration
+  description: Single collaboration studied by narrative inquiry; no control or comparison group.
+observations:
+- id: gems-dilemma
+  arm_ref: boundary-crossing-collaboration
+  source_quote: Laura recognizes that mathematics in GEMS presents a dilemma; on the one hand, the goal
+    of GEMS is to increase girls’ interest in mathematics; on the other hand, Laura has discovered that
+    engaging girls in mathematics can create tension with another goal, presenting GEMS as different from
+    school.
+  outcome:
+    construct: perceived tension around mathematics in GEMS
+    source_language: engaging girls in mathematics can create tension with another goal, presenting GEMS
+      as different from school
+    measure: 'narrative data: field texts and interviews'
+    direction: contextual
+    role: other
+    role_basis: ambiguous
+  time:
+    label: Interview, August 2019
+  result:
+    measure_type: qualitative
+    finding: engaging girls in mathematics can create tension with another goal, presenting GEMS as different
+      from school
+    perspective: mixed
+    collection_method: 'narrative inquiry: field texts and interviews'
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: partial
+    outcome_timing: partial
+    effect_size: unreported
+- id: task-reflection
+  arm_ref: boundary-crossing-collaboration
+  source_quote: Laura and I were not very satisfied with the problem in the reflection. Laura thought
+    it was too school, and I believed it reflects the idea of optimization, which is a goal of mathematics
+    but not all I wanted to communicate.
+  outcome:
+    construct: designers' judgement of the quilt task
+    source_language: Laura and I were not very satisfied with the problem in the reflection
+    measure: 'narrative data: field texts and interviews'
+    direction: contextual
+    role: other
+    role_basis: ambiguous
+  time:
+    label: Reflection
+  result:
+    measure_type: qualitative
+    finding: Laura and I were not very satisfied with the problem in the reflection
+    perspective: mixed
+    collection_method: 'narrative inquiry: field texts and interviews'
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: partial
+    outcome_timing: partial
+    effect_size: unreported
+- id: project-judgement
+  arm_ref: boundary-crossing-collaboration
+  source_quote: Laura and I both like the project and see this project as not “too school” but fun, which
+    aligns with the mission of GEMS.
+  outcome:
+    construct: designers' judgement of the quilt project
+    source_language: see this project as not “too school” but fun
+    measure: 'narrative data: field texts and interviews'
+    direction: contextual
+    role: other
+    role_basis: ambiguous
+  time:
+    label: Transformation
+  result:
+    measure_type: qualitative
+    finding: see this project as not “too school” but fun
+    perspective: mixed
+    collection_method: 'narrative inquiry: field texts and interviews'
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: partial
+    outcome_timing: partial
+    effect_size: unreported
+- id: new-understanding
+  arm_ref: boundary-crossing-collaboration
+  source_quote: Through this boundary crossing collaboration, Laura and I both have been involved in developing
+    non-traditional mathematics curriculum and have developed a new understanding of mathematics.
+  outcome:
+    construct: collaborators' understanding of mathematics
+    source_language: have developed a new understanding of mathematics
+    measure: 'narrative data: field texts and interviews'
+    direction: contextual
+    role: other
+    role_basis: ambiguous
+  time:
+    label: Discussion and Conclusion
+  result:
+    measure_type: qualitative
+    finding: have developed a new understanding of mathematics
+    perspective: mixed
+    collection_method: 'narrative inquiry: field texts and interviews'
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: partial
+    outcome_timing: partial
+    effect_size: unreported

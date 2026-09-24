@@ -1,0 +1,121 @@
+# reddy-2016 — written by the ingest pipeline from arxiv-1602.07032, and UNVERIFIED.
+# Extraction method is in provenance. Every field was validated against
+# observations/SCHEMA.md; none was checked against the article by a person.
+
+schema_version: 2
+study:
+  key: reddy-2016
+  citation: 'Reddy, S., Labutov, I., Banerjee, S., & Joachims, T. (2016). Unbounded Human Learning: Optimal
+    Scheduling for Spaced Repetition. KDD ’16, San Francisco, CA, USA.'
+  design:
+    family: quasi-experimental
+    design_detail: Mechanical Turk vocabulary-learning task; each turker was assigned to one of the arrival-rate
+      conditions for new items; empirical learning rates compared descriptively against a simulated Leitner
+      Queue Network curve
+    preregistration:
+      status: unreported
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: '2026-09-24'
+  extraction_method: ingest-pipeline-v130 (claude-code-agent/opus-5.5)
+  verification: unverified
+appears_in:
+- claim: leitner-queue-network-phase-transition-in-learning-rate
+  bearing: supports
+  anchor: reddy-2016-2
+- claim: excess-new-item-rate-leaves-items-stuck-in-first-leitner-deck
+  bearing: supports
+  anchor: reddy-2016-2
+evidence_base:
+  unit: participants
+  size:
+    value: 331
+    unit: participants
+  population:
+    description: Users ('turkers') on the Amazon Mechanical Turk platform solicited for a vocabulary learning
+      task
+    age_or_stage: unreported
+  context:
+    setting: Online 15-minute flashcard task on Mechanical Turk, compensated $1.00
+    geography: unreported
+    delivery_mode: online
+  arms:
+  - id: arrival-rate-conditions
+    description: Turkers memorized Japanese words or American Sign Language gestures with a Leitner flashcard
+      scheduler, each assigned to one arrival rate of new items; deck review rates were set proportional
+      to 1 over the square root of k.
+    size:
+      value: 331
+      unit: participants
+    elements:
+    - term: ﬂashcard
+    - term: self-assess their correctness
+    - term: arrival rate (λext) of new items
+    delivery:
+      grouping: individual
+      role: other
+      basis: inferred
+comparisons:
+- id: across-arrival-rates
+  kind: none
+  index_arm: arrival-rate-conditions
+  reference_arm: arrival-rate-conditions
+  description: No control group; outcomes are compared descriptively across arrival-rate conditions and
+    against the simulated Leitner Queue Network curve.
+observations:
+- id: phase-transition-learning-rate
+  arm_ref: arrival-rate-conditions
+  source_quote: The simulated and empirical curves are in close agreement; in particular, the MTurk data
+    shows the phase transition in learning rate predicted by our theoretical model.
+  outcome:
+    construct: learning rate (throughput of mastered items)
+    source_language: learning rate
+    measure: average number of items mastered in a session divided by session duration
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+  time:
+    label: post
+  result:
+    measure_type: qualitative
+    finding: Empirical and simulated learning-rate curves are in close agreement and show the predicted
+      phase transition.
+    perspective: researcher
+    collection_method: flashcard interaction logs
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+- id: deck1-accumulation
+  arm_ref: arrival-rate-conditions
+  source_quote: However, as the arrival rate increases past the optimum, relatively fewer items are mastered
+    and relatively more items get ‘stuck’ in deck 1.
+  outcome:
+    construct: distribution of items across decks at session end
+    source_language: relatively fewer items are mastered and relatively more items get ‘stuck’ in deck
+      1
+    measure: average distribution of items across the five decks and the mastered pile at session end
+    direction: contextual
+    role: capability-evidence
+    role_basis: inferred
+  time:
+    label: end of session
+  result:
+    measure_type: qualitative
+    finding: Past the optimum arrival rate, fewer items are mastered and more remain in deck 1.
+    perspective: researcher
+    collection_method: flashcard interaction logs
+  moderators:
+    reported: []
+    candidate:
+    - The authors suggest the user gets overwhelmed by incoming items.
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported

@@ -1,0 +1,146 @@
+# shen-2006 — written by the ingest pipeline from eric-ed491961, and UNVERIFIED.
+# Extraction method is in provenance. Every field was validated against
+# observations/SCHEMA.md; none was checked against the article by a person.
+
+schema_version: 2
+study:
+  key: shen-2006
+  citation: Shen, C.-Y., & O’Neil, H. (2006). The Effectiveness of Worked Examples in a Game-Based Learning
+    Environment. Paper presented at the annual meeting of the American Educational Research Association
+    (AERA), San Francisco, CA. https://eric.ed.gov/?id=ED491961
+  design:
+    family: randomized-controlled-trial
+    design_detail: 72 undergraduate or graduate students randomly assigned to a worked example group or
+      a control group; pretests after a first game session, worked examples studied by the treatment group
+      only, posttests after a second game session; preceded by a pilot study
+    preregistration:
+      status: unreported
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: '2026-09-24'
+  extraction_method: ingest-pipeline-v130 (claude-code-agent/opus-5.5)
+  verification: unverified
+appears_in:
+- claim: worked-examples-improve-knowledge-map-content-understanding-in-a-puzzle-game
+  bearing: supports
+  anchor: shen-2006
+- claim: worked-examples-improve-problem-solving-strategy-retention-in-a-puzzle-game
+  bearing: supports
+  anchor: shen-2006
+- claim: worked-examples-improve-problem-solving-strategy-transfer-in-a-puzzle-game
+  bearing: supports
+  anchor: shen-2006
+evidence_base:
+  unit: participants
+  size:
+    value: 72
+    unit: participants
+  population:
+    description: undergraduate or graduate students (adults)
+    age_or_stage: adult; undergraduate or graduate students
+  context:
+    setting: laboratory-style session playing the computer puzzle game SafeCracker
+    geography: not stated beyond University of Southern California authorship
+    delivery_mode: computer game
+  arms:
+  - id: worked-example
+    description: Played SafeCracker, completed pretests, studied worked examples, played again and completed
+      posttests
+    elements:
+    - term: worked examples
+    - term: computer puzzle game
+    delivery:
+      grouping: individual
+      role: add-on
+      basis: inferred
+  - id: control
+    description: Played SafeCracker twice with the same pretests and posttests but did not study worked
+      examples
+    elements:
+    - term: computer puzzle game
+comparisons:
+- id: worked-example-vs-control
+  kind: between-groups
+  index_arm: worked-example
+  reference_arm: control
+  description: Worked example group vs. control group that did not receive worked examples
+observations:
+- id: knowledge-map-improvement
+  comparison_ref: worked-example-vs-control
+  source_quote: First, the participants who received worked examples improved significantly more than
+    those who did not receive worked examples on the knowledge map. The average improvement in knowledge
+    map score of the worked example group was more than that of the control group, i.e., 2.21 (SD = 2.56)
+    vs. 0.62 (SD = 2.45).
+  outcome:
+    construct: content understanding gain
+    source_language: improvement in knowledge map score
+    measure: knowledge map
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+  time:
+    label: pre-to-post improvement
+  result:
+    measure_type: other
+    descriptives: worked example M = 2.21, SD = 2.56; control M = 0.62, SD = 2.45 (average improvement)
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: partial
+    outcome_timing: partial
+    effect_size: unreported
+- id: retention-post
+  comparison_ref: worked-example-vs-control
+  source_quote: Second, the participants who received worked examples improved significantly more than
+    those who did not on the problem solving retention question. The adjusted mean of the posttest of
+    retention score of the worked example group was more than that of the control group, i.e., 4.18 (SD
+    = .15) vs.3.54 (SD = .15).
+  outcome:
+    construct: problem-solving strategy retention
+    source_language: adjusted mean of the posttest of retention score
+    measure: problem solving retention question
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+  time:
+    label: post
+  result:
+    measure_type: other
+    descriptives: worked example adjusted M = 4.18, SD = .15; control adjusted M = 3.54, SD = .15
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: partial
+    outcome_timing: partial
+    effect_size: unreported
+- id: transfer-post
+  comparison_ref: worked-example-vs-control
+  source_quote: Third, the worked example group improved significantly more than the control group on
+    the problem solving transfer question. The adjusted mean of the posttest of transfer score of the
+    worked example group was more than that of the control group, i.e., 2.37 (SD = .14) vs. 1.97 (SD =
+    .14).
+  outcome:
+    construct: problem-solving strategy transfer
+    source_language: adjusted mean of the posttest of transfer score
+    measure: problem solving transfer question
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+  time:
+    label: post
+  result:
+    measure_type: other
+    descriptives: worked example adjusted M = 2.37, SD = .14; control adjusted M = 1.97, SD = .14
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: partial
+    outcome_timing: partial
+    effect_size: unreported

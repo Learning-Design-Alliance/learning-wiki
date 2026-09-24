@@ -1,0 +1,680 @@
+# carter-2014 — written by the ingest pipeline from pmc-4237043, and UNVERIFIED.
+# Extraction method is in provenance. Every field was validated against
+# observations/SCHEMA.md; none was checked against the article by a person.
+
+schema_version: 2
+study:
+  key: carter-2014
+  citation: 'Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective
+    if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf
+    (2005). Frontiers in Psychology, 5, 1325.'
+  design:
+    family: quasi-experimental
+    design_detail: '2 (Choice: Self, Yoked) × 3 (Decision: Before, After, Both) between-subjects design;
+      the first 24 participants were randomly assigned to one of the self-controlled groups and the last
+      24 to one of the yoked groups; practice on Day 1, retention and transfer tests on Day 2.'
+    preregistration:
+      status: unreported
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: '2026-09-24'
+  extraction_method: ingest-pipeline-v130 (claude-code-agent/opus-5.5)
+  verification: unverified
+appears_in:
+- claim: self-controlled-kr-decided-after-trial-improves-motor-retention
+  bearing: supports
+  anchor: carter-2014
+- claim: self-controlled-kr-decided-after-trial-improves-motor-retention
+  bearing: supports
+  anchor: carter-2014-2
+- claim: self-both-kr-decision-shows-no-additive-motivational-informational-benefit
+  bearing: supports
+  anchor: carter-2014
+- claim: self-controlled-kr-decided-after-trial-improves-motor-retention
+  bearing: supports
+  anchor: carter-2014-3
+- claim: self-controlled-kr-decided-before-trial-shows-no-benefit-over-yoked
+  bearing: supports
+  anchor: carter-2014
+- claim: self-controlled-kr-decided-after-trial-improves-motor-transfer
+  bearing: supports
+  anchor: carter-2014
+- claim: self-controlled-kr-decided-after-trial-improves-motor-transfer
+  bearing: supports
+  anchor: carter-2014-2
+- claim: self-controlled-kr-decided-before-trial-shows-no-benefit-over-yoked
+  bearing: supports
+  anchor: carter-2014-2
+- claim: self-controlled-kr-decided-after-trial-improves-error-estimation-accuracy
+  bearing: supports
+  anchor: carter-2014
+- claim: self-controlled-kr-decided-after-trial-improves-error-estimation-accuracy
+  bearing: supports
+  anchor: carter-2014-2
+- claim: self-controlled-kr-groups-estimate-transfer-outcomes-more-accurately-than-yoked
+  bearing: supports
+  anchor: carter-2014
+evidence_base:
+  unit: participants
+  size:
+    value: 48
+    unit: participants
+  population:
+    description: Forty-eight volunteers (30 female, 18 male) with no self-reported sensory or motor dysfunctions
+    age_or_stage: Mage = 21.35, SD = 1.12 years
+  context:
+    setting: 'Laboratory slider task: propel a low-friction slider along a horizontal rail to a 133 cm
+      target (165 cm in transfer), with opaque goggles; 60 practice trials with 30% relative KR frequency'
+    geography: University of Ottawa, Canada
+    delivery_mode: in-person laboratory
+  arms:
+  - id: self-before
+    description: Self-controlled group that completed the KR decision before each trial
+    size:
+      value: 8
+      unit: participants
+    elements:
+    - term: self-controlled
+    - term: knowledge of results
+    delivery:
+      grouping: individual
+      role: other
+      basis: inferred
+  - id: self-after
+    description: Self-controlled group that made the KR decision after each trial
+    size:
+      value: 8
+      unit: participants
+    elements:
+    - term: self-controlled
+    - term: knowledge of results
+    delivery:
+      grouping: individual
+      role: other
+      basis: inferred
+  - id: self-both
+    description: Self-controlled group that could request KR before a trial and then change or stay with
+      their original decision after the trial
+    size:
+      value: 8
+      unit: participants
+    elements:
+    - term: self-controlled
+    - term: knowledge of results
+    delivery:
+      grouping: individual
+      role: other
+      basis: inferred
+  - id: yoked-before
+    description: Yoked group receiving the identical KR schedule of a Self-Before counterpart, told before
+      the trial whether KR would be provided
+    size:
+      value: 8
+      unit: participants
+    elements:
+    - term: yoked
+    - term: knowledge of results
+    delivery:
+      grouping: individual
+      role: other
+      basis: inferred
+  - id: yoked-after
+    description: Yoked group receiving the identical KR schedule of a Self-After counterpart, told after
+      the trial whether KR would be provided
+    size:
+      value: 8
+      unit: participants
+    elements:
+    - term: yoked
+    - term: knowledge of results
+    delivery:
+      grouping: individual
+      role: other
+      basis: inferred
+  - id: yoked-both
+    description: Yoked group receiving the identical KR schedule of a Self-Both counterpart, told both
+      before and after the trial
+    size:
+      value: 8
+      unit: participants
+    elements:
+    - term: yoked
+    - term: knowledge of results
+    delivery:
+      grouping: individual
+      role: other
+      basis: inferred
+comparisons:
+- id: choice-x-decision
+  kind: other
+  index_arm:
+  - self-before
+  - self-after
+  - self-both
+  reference_arm:
+  - yoked-before
+  - yoked-after
+  - yoked-both
+  description: '2 (Choice: Self, Yoked) × 3 (Decision: Before, After, Both) interaction in a two-way ANOVA'
+- id: self-after-vs-self-before
+  kind: between-groups
+  index_arm: self-after
+  reference_arm: self-before
+  description: Self-After versus Self-Before
+- id: self-both-vs-self-before
+  kind: between-groups
+  index_arm: self-both
+  reference_arm: self-before
+  description: Self-Both versus Self-Before
+- id: self-both-vs-self-after
+  kind: between-groups
+  index_arm: self-both
+  reference_arm: self-after
+  description: Self-Both versus Self-After
+- id: self-after-vs-yoked-after
+  kind: between-groups
+  index_arm: self-after
+  reference_arm: yoked-after
+  description: Self-After versus its yoked counterpart
+- id: self-both-vs-yoked-both
+  kind: between-groups
+  index_arm: self-both
+  reference_arm: yoked-both
+  description: Self-Both versus its yoked counterpart
+- id: self-before-vs-yoked-before
+  kind: between-groups
+  index_arm: self-before
+  reference_arm: yoked-before
+  description: Self-Before versus its yoked counterpart
+- id: self-vs-yoked
+  kind: between-groups
+  index_arm:
+  - self-before
+  - self-after
+  - self-both
+  reference_arm:
+  - yoked-before
+  - yoked-after
+  - yoked-both
+  description: 'Main effect of Choice: self-controlled groups pooled versus yoked groups pooled'
+observations:
+- id: ret-ae-interaction
+  comparison_ref: choice-x-decision
+  source_quote: In retention, the main effects for Choice and Decision were superseded by a significant
+    Choice × Decision interaction, F(2,42) = 7.13, p = 0.002, ηp2 = 0.25.
+  sample:
+    value: 48
+    unit: participants
+  outcome:
+    construct: motor accuracy
+    source_language: Absolute error
+    measure: absolute error (cm) from the target distance over 10 no-KR trials
+    direction: lower-is-better
+    role: capability-evidence
+    role_basis: inferred
+  time:
+    label: 24-h retention test
+    offset:
+      value: 1
+      unit: days
+      from: practice phase
+  result:
+    measure_type: partial_eta_squared
+    estimate: 0.25
+    p_value: '0.002'
+    note: Choice × Decision interaction, F(2,42) = 7.13
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: observed
+- id: ret-ae-after-vs-before
+  comparison_ref: self-after-vs-self-before
+  source_quote: Post hoc comparisons revealed that although the Self-After (M = 10.04, SE = 1.89) and
+    Self-Both (M = 12.45, SE = 3.58) groups did not differ significantly, they were both significantly
+    more accurate in retention than the Self-Before group (M = 29.18, SE = 4.08).
+  sample:
+    value: 16
+    unit: participants
+  outcome:
+    construct: motor accuracy
+    source_language: Absolute error
+    measure: absolute error (cm) from the target distance over 10 no-KR trials
+    direction: lower-is-better
+    role: capability-evidence
+    role_basis: inferred
+  time:
+    label: 24-h retention test
+    offset:
+      value: 1
+      unit: days
+      from: practice phase
+  result:
+    measure_type: mean_difference
+    descriptives:
+      self-after:
+        mean: 10.04
+        se: 1.89
+      self-before:
+        mean: 29.18
+        se: 4.08
+    note: Post hoc test significant; no statistic or pairwise effect size printed; means are as printed,
+      no difference computed.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+- id: ret-ae-both-vs-before
+  comparison_ref: self-both-vs-self-before
+  source_quote: Post hoc comparisons revealed that although the Self-After (M = 10.04, SE = 1.89) and
+    Self-Both (M = 12.45, SE = 3.58) groups did not differ significantly, they were both significantly
+    more accurate in retention than the Self-Before group (M = 29.18, SE = 4.08).
+  sample:
+    value: 16
+    unit: participants
+  outcome:
+    construct: motor accuracy
+    source_language: Absolute error
+    measure: absolute error (cm) from the target distance over 10 no-KR trials
+    direction: lower-is-better
+    role: capability-evidence
+    role_basis: inferred
+  time:
+    label: 24-h retention test
+    offset:
+      value: 1
+      unit: days
+      from: practice phase
+  result:
+    measure_type: mean_difference
+    descriptives:
+      self-both:
+        mean: 12.45
+        se: 3.58
+      self-before:
+        mean: 29.18
+        se: 4.08
+    note: Post hoc test significant; no statistic printed.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+- id: ret-ae-both-vs-after
+  comparison_ref: self-both-vs-self-after
+  source_quote: Post hoc comparisons revealed that although the Self-After (M = 10.04, SE = 1.89) and
+    Self-Both (M = 12.45, SE = 3.58) groups did not differ significantly, they were both significantly
+    more accurate in retention than the Self-Before group (M = 29.18, SE = 4.08).
+  sample:
+    value: 16
+    unit: participants
+  outcome:
+    construct: motor accuracy
+    source_language: Absolute error
+    measure: absolute error (cm) from the target distance over 10 no-KR trials
+    direction: lower-is-better
+    role: capability-evidence
+    role_basis: inferred
+  time:
+    label: 24-h retention test
+    offset:
+      value: 1
+      unit: days
+      from: practice phase
+  result:
+    measure_type: mean_difference
+    descriptives:
+      self-both:
+        mean: 12.45
+        se: 3.58
+      self-after:
+        mean: 10.04
+        se: 1.89
+    note: Did not differ significantly; equivalence not tested.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+- id: ret-ae-after-vs-yoked
+  comparison_ref: self-after-vs-yoked-after
+  source_quote: '(1) both the Self-After and Self-Both groups had significantly less AE than their Yoked
+    counterparts (Yoked-After: M = 24.87, SE = 3.04; Yoked-Both: M = 35.66, SE = 3.55); and (2) the Self-Before
+    and the Yoked-Before (M = 27.35, SE = 3.66) groups did not differ significantly.'
+  sample:
+    value: 16
+    unit: participants
+  outcome:
+    construct: motor accuracy
+    source_language: Absolute error
+    measure: absolute error (cm) from the target distance over 10 no-KR trials
+    direction: lower-is-better
+    role: capability-evidence
+    role_basis: inferred
+  time:
+    label: 24-h retention test
+    offset:
+      value: 1
+      unit: days
+      from: practice phase
+  result:
+    measure_type: mean_difference
+    descriptives:
+      yoked-after:
+        mean: 24.87
+        se: 3.04
+    note: Self-After had significantly less AE than Yoked-After; Self-After mean printed in a separate
+      sentence (M = 10.04).
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+- id: ret-ae-both-vs-yoked
+  comparison_ref: self-both-vs-yoked-both
+  source_quote: '(1) both the Self-After and Self-Both groups had significantly less AE than their Yoked
+    counterparts (Yoked-After: M = 24.87, SE = 3.04; Yoked-Both: M = 35.66, SE = 3.55); and (2) the Self-Before
+    and the Yoked-Before (M = 27.35, SE = 3.66) groups did not differ significantly.'
+  sample:
+    value: 16
+    unit: participants
+  outcome:
+    construct: motor accuracy
+    source_language: Absolute error
+    measure: absolute error (cm) from the target distance over 10 no-KR trials
+    direction: lower-is-better
+    role: capability-evidence
+    role_basis: inferred
+  time:
+    label: 24-h retention test
+    offset:
+      value: 1
+      unit: days
+      from: practice phase
+  result:
+    measure_type: mean_difference
+    descriptives:
+      yoked-both:
+        mean: 35.66
+        se: 3.55
+    note: Self-Both had significantly less AE than Yoked-Both.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+- id: ret-ae-before-vs-yoked
+  comparison_ref: self-before-vs-yoked-before
+  source_quote: '(1) both the Self-After and Self-Both groups had significantly less AE than their Yoked
+    counterparts (Yoked-After: M = 24.87, SE = 3.04; Yoked-Both: M = 35.66, SE = 3.55); and (2) the Self-Before
+    and the Yoked-Before (M = 27.35, SE = 3.66) groups did not differ significantly.'
+  sample:
+    value: 16
+    unit: participants
+  outcome:
+    construct: motor accuracy
+    source_language: Absolute error
+    measure: absolute error (cm) from the target distance over 10 no-KR trials
+    direction: lower-is-better
+    role: capability-evidence
+    role_basis: inferred
+  time:
+    label: 24-h retention test
+    offset:
+      value: 1
+      unit: days
+      from: practice phase
+  result:
+    measure_type: mean_difference
+    descriptives:
+      yoked-before:
+        mean: 27.35
+        se: 3.66
+    note: Did not differ significantly; equivalence not tested.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+- id: tr-ae-interaction
+  comparison_ref: choice-x-decision
+  source_quote: Similar to retention, the main effects for Choice and Decision during the transfer test
+    were superseded by a significant Choice × Decision interaction, F(2,42) = 3.46, p= 0.041, ηp2 = 0.14.
+  sample:
+    value: 48
+    unit: participants
+  outcome:
+    construct: motor accuracy
+    source_language: Absolute error
+    measure: absolute error (cm) from the target distance over 10 no-KR trials
+    direction: lower-is-better
+    role: capability-evidence
+    role_basis: inferred
+  time:
+    label: 24-h transfer test
+    offset:
+      value: 1
+      unit: days
+      from: practice phase
+  result:
+    measure_type: partial_eta_squared
+    estimate: 0.14
+    p_value: '0.041'
+    note: Choice × Decision interaction, F(2,42) = 3.46
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: observed
+- id: tr-ae-after-vs-before
+  comparison_ref: self-after-vs-self-before
+  source_quote: '(1) the Self-After (M = 13.31, SE = 0.98) and Self-Both (M = 13.96, SE = 2.38) groups
+    performed with significantly less AE than the Self-Before group (M = 23.77, SE = 1.85) and their respective
+    Yoked groups (Yoked-After: M = 23.06, SE = 1.47; Yoked-Both: M = 27.80, SE = 2.87); and (2) the Self-Before
+    and the Yoked-Before (M = 26.18, SE = 2.92) groups were not significantly different.'
+  sample:
+    value: 16
+    unit: participants
+  outcome:
+    construct: motor accuracy
+    source_language: Absolute error
+    measure: absolute error (cm) from the target distance over 10 no-KR trials
+    direction: lower-is-better
+    role: capability-evidence
+    role_basis: inferred
+  time:
+    label: 24-h transfer test
+    offset:
+      value: 1
+      unit: days
+      from: practice phase
+  result:
+    measure_type: mean_difference
+    descriptives:
+      self-after:
+        mean: 13.31
+        se: 0.98
+      self-before:
+        mean: 23.77
+        se: 1.85
+    note: Post hoc significant; no statistic printed.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+- id: tr-ae-before-vs-yoked
+  comparison_ref: self-before-vs-yoked-before
+  source_quote: '(1) the Self-After (M = 13.31, SE = 0.98) and Self-Both (M = 13.96, SE = 2.38) groups
+    performed with significantly less AE than the Self-Before group (M = 23.77, SE = 1.85) and their respective
+    Yoked groups (Yoked-After: M = 23.06, SE = 1.47; Yoked-Both: M = 27.80, SE = 2.87); and (2) the Self-Before
+    and the Yoked-Before (M = 26.18, SE = 2.92) groups were not significantly different.'
+  sample:
+    value: 16
+    unit: participants
+  outcome:
+    construct: motor accuracy
+    source_language: Absolute error
+    measure: absolute error (cm) from the target distance over 10 no-KR trials
+    direction: lower-is-better
+    role: capability-evidence
+    role_basis: inferred
+  time:
+    label: 24-h transfer test
+    offset:
+      value: 1
+      unit: days
+      from: practice phase
+  result:
+    measure_type: mean_difference
+    descriptives:
+      self-before:
+        mean: 23.77
+        se: 1.85
+      yoked-before:
+        mean: 26.18
+        se: 2.92
+    note: Not significantly different; equivalence not tested.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+- id: ret-ad-interaction
+  comparison_ref: choice-x-decision
+  source_quote: The main effects for Choice and Decision in retention were superseded by a significant
+    interaction, F(2,42) = 7.19, p= 0.002, ηp2 = 0.26, which revealed that both the Self-After (M = 10.44,
+    SE = 1.40) and the Self-Both (M = 13.80, SE = 2.59) groups were significantly more accurate in their
+    subjective performance evaluations than the Self-Before group (M = 27.01, SE = 3.52).
+  sample:
+    value: 48
+    unit: participants
+  outcome:
+    construct: error estimation accuracy
+    source_language: Absolute difference
+    measure: absolute difference (cm) between estimated and actual outcome over 10 no-KR trials
+    direction: lower-is-better
+    role: capability-evidence
+    role_basis: inferred
+  time:
+    label: 24-h retention test
+    offset:
+      value: 1
+      unit: days
+      from: practice phase
+  result:
+    measure_type: partial_eta_squared
+    estimate: 0.26
+    p_value: '0.002'
+    note: Choice × Decision interaction, F(2,42) = 7.19
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: observed
+- id: ret-ad-before-vs-yoked
+  comparison_ref: self-before-vs-yoked-before
+  source_quote: 'Moreover, the Self-After and the Self-Both groups did not differ significantly but both
+    were significantly more accurate than their respective yoked counterparts (Yoked-After: M = 22.51,
+    SE = 4.16; Yoked-Both: M = 29.02, SE = 4.32) whereas the Self-Before group was not statistically different
+    than the Yoked-Before group (M = 19.37, SE = 2.67).'
+  sample:
+    value: 16
+    unit: participants
+  outcome:
+    construct: error estimation accuracy
+    source_language: Absolute difference
+    measure: absolute difference (cm) between estimated and actual outcome over 10 no-KR trials
+    direction: lower-is-better
+    role: capability-evidence
+    role_basis: inferred
+  time:
+    label: 24-h retention test
+    offset:
+      value: 1
+      unit: days
+      from: practice phase
+  result:
+    measure_type: mean_difference
+    descriptives:
+      yoked-before:
+        mean: 19.37
+        se: 2.67
+    note: Self-Before (M = 27.01, printed in a separate sentence) not statistically different from Yoked-Before.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+- id: tr-ad-choice
+  comparison_ref: self-vs-yoked
+  source_quote: In transfer, only the main effect for Choice was significant, F(1,42) = 19.29, p< 0.001,
+    ηp2 = 0.31, with post hoc analysis indicating the self-controlled groups (M = 14.68, SE = 1.14) were
+    significantly more accurate than the Yoked groups (M = 23.67, SE = 1.76).
+  sample:
+    value: 48
+    unit: participants
+  outcome:
+    construct: error estimation accuracy
+    source_language: Absolute difference
+    measure: absolute difference (cm) between estimated and actual outcome over 10 no-KR trials
+    direction: lower-is-better
+    role: capability-evidence
+    role_basis: inferred
+  time:
+    label: 24-h transfer test
+    offset:
+      value: 1
+      unit: days
+      from: practice phase
+  result:
+    measure_type: partial_eta_squared
+    estimate: 0.31
+    p_value: < 0.001
+    note: Main effect of Choice, F(1,42) = 19.29; self-controlled M = 14.68, Yoked M = 23.67
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: observed
