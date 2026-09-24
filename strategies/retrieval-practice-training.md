@@ -70,7 +70,7 @@ Retrieval practice produces large, durable gains in retention and transfer relat
 - **Intro psychology "exam wrapper" routines** — courses that return exam results alongside a comparison of students' reported study strategies, making the retrieval–performance link visible at the individual level.
 
 ## Key Sources
-- Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/medu.12141](https://doi.org/10.1111/medu.12141)
+- Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)
 - Karpicke, J. D., Butler, A. C., & Roediger, H. L. (2009). Metacognitive strategies in student learning: Do students practise retrieval when they study on their own? *Memory, 17*(4), 471–479. [doi:10.1080/09658210802647009](https://doi.org/10.1080/09658210802647009)
 - Agarwal, P. K., & Bain, P. M. (2019). *Powerful teaching: Unleash the science of learning.* Jossey-Bass.
 - Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)

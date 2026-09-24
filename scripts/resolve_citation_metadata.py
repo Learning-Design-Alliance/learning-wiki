@@ -90,6 +90,9 @@ def decide(cited: tuple, record: dict, cited_title: str = "") -> dict:
       "strip_doi"   the registry's title matches nothing this page claims AND
                     the other coordinates do not corroborate it either, so the
                     DOI belongs to a different paper
+      "conflict"    the title only loosely matches AND the registry disagrees
+                    on both journal and first page — the coordinates contradict
+                    the DOI, so either side may be wrong; reported, never acted on
       "not_found"   Crossref has no record of the DOI — reported, never acted
                     on, since Crossref does not index every registrar
       "skip"        the lookup failed; an outage tells us nothing
@@ -189,6 +192,26 @@ def decide(cited: tuple, record: dict, cited_title: str = "") -> dict:
         if a != b:
             fields[name] = theirs
             why.append(f"{name}: {mine!r} -> {theirs!r}")
+    if "journal" in fields and "first_page" in fields and reg_title and cited_title:
+        # The mirror image of fix_title's rule. There, the coordinates
+        # corroborate the DOI and outvote the title; here they CONTRADICT it,
+        # and all that says "same paper" is a word overlap. 10.1111/medu.12141
+        # is Larsen, Butler & Roediger (2013) in Medical Education, and 98
+        # pages hang it on Roediger & Karpicke (2006), Psychological Science
+        # 17(3) 249. The titles share "test-enhanced learning ... long-term
+        # retention", clear the 0.35 overlap, and without this the run
+        # rewrote the correct journal on 99 pages into the wrong paper's.
+        # A different journal AND a different first page is a different
+        # article unless the titles are the same title — equal, or one a
+        # prefix of the other. The model does invent journals under a real
+        # DOI (Graham & Perin 2007, seven of them), but it copies the title
+        # faithfully when it does, so a loose title is what separates the two.
+        c_norm, r_norm = cc._norm_title(cited_title), cc._norm_title(reg_title)
+        if not (c_norm and r_norm and (c_norm.startswith(r_norm) or r_norm.startswith(c_norm))):
+            return {"action": "conflict", "fields": {},
+                    "why": f"journal and first page both contradict the DOI and the title "
+                           f"only loosely matches — DOI resolves to \"{reg_title[:60]}\" "
+                           f"in {record.get('journal')!r}; a person decides which is wrong"}
     if fields:
         return {"action": "fix_meta", "fields": fields, "why": "; ".join(why)}
     return {"action": "none", "fields": {}, "why": "registry agrees"}
@@ -206,6 +229,8 @@ def rewrite_line(line: str, fields: dict, pages_text: str | None) -> str | None:
     vol = fields.get("volume", vol)
     issue = fields.get("issue", issue)
     pages = pages_text or fields.get("first_page", page)
+    # Crossref writes ranges with a hyphen; APA and this wiki use an en dash.
+    pages = re.sub(r"(?<=\d)-(?=\d)", "\u2013", str(pages))
     return line[:start] + f"*{journal}, {vol}*({issue}), {pages}" + line[end:]
 
 
@@ -321,6 +346,7 @@ def main() -> None:
     # that registrant's other DOIs resolve at all.
     prefix_ok: dict[str, int] = {}
     not_found: list[tuple[str, str]] = []
+    conflicts: list[tuple[str, str, str]] = []
     # DOIs Crossref resolved to the paper the page actually cites.
     verified: set = set()
     # not-found DOIs kept with their citation entries, for the sibling pass.
@@ -361,6 +387,9 @@ def main() -> None:
                 continue
             if d["action"] == "skip":
                 skipped += 1
+                continue
+            if d["action"] == "conflict":
+                conflicts.append((doi, entry["source"], d["why"]))
                 continue
             path = WIKI_ROOT / entry["source"]
             edits.setdefault(path, []).append((doi, d, _unescape_record(record)))
@@ -446,7 +475,14 @@ def main() -> None:
                                 break
                         old_t = cc._extract_title_text(line, year) if year else ""
                         if old_t and old_t in line:
-                            line = line.replace(old_t, d["fields"]["title"], 1)
+                            # The extracted span carries the title's closing
+                            # period and a registry title does not, so keep
+                            # it — or the title runs into "*Journal".
+                            new_t = d["fields"]["title"]
+                            end = old_t.rstrip()[-1:]
+                            if end in ".?!" and new_t[-1:] not in ".?!":
+                                new_t += "."
+                            line = line.replace(old_t, new_t, 1)
                     elif d["action"] == "strip_doi":
                         line = strip_doi_from_line(line, doi)
                     if line != before:
@@ -481,6 +517,15 @@ def main() -> None:
         print(f"{variant_stripped} of the removal(s) were near-identical DOI variants "
               f"({len(proven)} DOI(s)) that Crossref has no record of while a sibling "
               f"spelling resolves to the cited paper.")
+    if conflicts:
+        by = {}
+        for doi, src, why in conflicts:
+            by.setdefault((doi, why), []).append(src)
+        print(f"\n{len(conflicts)} citation(s) on {len(by)} DOI(s) left untouched: the "
+              f"registry contradicts both journal and first page, and the title does not "
+              f"settle which side is wrong.")
+        for (doi, why), srcs in sorted(by.items(), key=lambda kv: -len(kv[1])):
+            print(f"      {doi}   {len(srcs)} page(s), e.g. {srcs[0]}\n        {why}")
     if not_found:
         # A 404 on a prefix whose other DOIs resolve fine is the strong case:
         # that registrant IS in Crossref, so the record's absence is about this

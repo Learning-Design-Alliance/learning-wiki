@@ -63,7 +63,7 @@ Three experiments adding extraneous video, narration or music to a multimedia ex
 
 ### Rey 2012
 
-Rey, G. D. (2012). A review and meta-analysis of the seductive detail effect. *Educational Research Review, 7*(3), 216–237. [doi:10.1016/j.edurev.2012.05.003](https://doi.org/10.1016/j.edurev.2012.05.003)
+Rey, G. D. (2012). A review of research and a meta-analysis of the seductive detail effect. *Educational Research Review, 7*(3), 216–237. [doi:10.1016/j.edurev.2012.05.003](https://doi.org/10.1016/j.edurev.2012.05.003)
 
 `q4` · `i1`
 

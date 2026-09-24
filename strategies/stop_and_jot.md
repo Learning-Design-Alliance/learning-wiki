@@ -68,7 +68,7 @@ Stop and Jot enacts [Active Learning](../principles/active-learning.md) by inser
 - **Lucy Calkins' Units of Study** — mid-lesson "jot" moments where students record a teaching point in their notebooks before independent writing.
 
 ## Key Sources
-- Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/medu.12141](https://doi.org/10.1111/medu.12141)
+- Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)
 - Chi, M. T. H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219–243. [doi:10.1080/00461520.2014.965823](https://doi.org/10.1080/00461520.2014.965823)
 - Freeman, S., et al. (2014). Active learning increases student performance in science, engineering, and mathematics. *PNAS, 111*(23), 8410–8415. [doi:10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)
 - Pashler, H., Bain, P., Bottge, B., et al. (2007). *Organizing instruction and study to improve student learning* (NCER 2007-2004). National Center for Education Research. [https://ies.ed.gov/ncee/wwc/PracticeGuide/1](https://ies.ed.gov/ncee/wwc/PracticeGuide/1)

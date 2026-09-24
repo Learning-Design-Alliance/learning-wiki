@@ -71,5 +71,5 @@ Cold calling after pair work converts discussion from optional participation int
 - Dallimore, E. J., Hertenstein, J. H., & Platt, M. B. (2013). Impact of cold-calling on student voluntary participation. *Journal of Management Education, 37*(3), 305–341. [doi:10.1177/1052562912446067](https://doi.org/10.1177/1052562912446067)
 - Dallimore, E. J., Hertenstein, J. H., & Platt, M. B. (2008). Using discussion pedagogy to enhance general education and student learning. *Journal of General Education, 57*(3), 134–163.
 - Rowe, M. B. (1986). Wait time: Slowing down may be a way of speeding up! *Journal of Teacher Education, 37*(1), 43–50. [doi:10.1177/002248718603700110](https://doi.org/10.1177/002248718603700110)
-- Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/medu.12141](https://doi.org/10.1111/medu.12141)
+- Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)
 - Lemov, D. (2021). *Teach Like a Champion 3.0*. Jossey-Bass.

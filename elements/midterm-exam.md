@@ -64,7 +64,7 @@ Midterms leverage the testing effect — the act of retrieving information stren
 - **[Khan Academy](https://www.khanacademy.org) unit tests** — a low-stakes digital analogue: unit-level mastery checks that gate progress, embodying the midterm's diagnostic function without the stakes
 
 ## Key Sources
-- Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/medu.12141](https://doi.org/10.1111/medu.12141)
+- Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)
 - Bangert-Drowns, R. L., Kulik, J. A., & Kulik, C.-L. C. (1991). Effects of frequent classroom testing. *Journal of Educational Research, 85*(2), 89–99. [doi:10.1080/00220671.1991.10702818](https://doi.org/10.1080/00220671.1991.10702818)
 - Kulik, J. A., Kulik, C.-L. C., & Bangert-Drowns, R. L. (1984). Effects of testing on students' learning. *Journal of Educational Psychology, 76*(2), 300–309. [doi:10.1037/0022-0663.76.2.300](https://doi.org/10.1037/0022-0663.76.2.300)
