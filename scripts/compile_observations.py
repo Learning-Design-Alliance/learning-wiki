@@ -223,6 +223,16 @@ def explain(records: list, observation_id: str) -> int:
         if idx.get("dose"):
             d = idx["dose"]
             print(f"      dose: {d.get('amount')} {d.get('unit')} — {d.get('detail', '')}")
+        if idx.get("delivery"):
+            dv = idx["delivery"]
+            print(f"      delivered: {dv.get('grouping') or '?'} grouping, "
+                  f"{dv.get('role') or '?'} role ({dv.get('basis')})")
+
+    prereg = (cfg.get("design") or {}).get("preregistration")
+    if prereg:
+        print(f"    pre-registration: {prereg.get('status')}"
+              + (f" — {prereg.get('registry') or ''} {prereg.get('id') or ''}".rstrip()
+                 if prereg.get("registry") or prereg.get("id") else ""))
 
     ebase = cfg["evidence_base"]
     size = ebase.get("size") or {}

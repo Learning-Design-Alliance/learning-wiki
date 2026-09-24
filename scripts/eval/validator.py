@@ -70,6 +70,60 @@ class ValidationReport:
         return not self.parse_error and self.error_count == 0 and self.n_contributions > 0
 
 
+def _check_study_record(report, sr, contributions) -> None:
+    """Hold an optional `study_record` to the observations/ schema, as WARNINGS.
+
+    Warnings, not errors, on purpose: a flawed record must never cost an
+    article its claims, and ingest refuses an invalid record on its own. The
+    point is signal for prompt tuning: without this, a study_record the store
+    would refuse looks exactly like one it would accept until ingest time.
+    Only the extraction's own fields are checked here. The study key, citation
+    and provenance are ingest's to supply, so placeholders stand in for them,
+    and the claim/anchor join is checked against this output's own claims."""
+    if sr is None:
+        return
+    if not isinstance(sr, dict):
+        report.issues.append(Issue(-1, "study_record", "warning", "study_record",
+                                   "study_record must be an object."))
+        return
+    import sys
+    from pathlib import Path
+    sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+    import observation_lib as ol
+
+    claims = {c.get("slug"): {str(e.get("anchor")) for e in (c.get("evidence") or []) if isinstance(e, dict)}
+              for c in contributions if isinstance(c, dict) and c.get("type") == "claim"}
+    observations = []
+    for j, o in enumerate(sr.get("observations") or []):
+        if not isinstance(o, dict):
+            continue
+        o = dict(o)
+        claim, ref, bearing = o.pop("claim", None), o.pop("evidence_ref", None), o.pop("bearing", None)
+        if claim is not None:
+            where = f"study_record.observations[{j}]"
+            if claim not in claims:
+                report.issues.append(Issue(-1, "study_record", "warning", where,
+                                           f"claim {claim!r} is not a claim slug in this output."))
+            elif ref not in claims[claim]:
+                report.issues.append(Issue(-1, "study_record", "warning", where,
+                                           f"evidence_ref {ref!r} is not an anchor of claim {claim!r}."))
+            if bearing not in ol.BEARINGS:
+                report.issues.append(Issue(-1, "study_record", "warning", where,
+                                           f"bearing {bearing!r} is not one of {sorted(ol.BEARINGS)}; "
+                                           f"the claim edge will be dropped at ingest."))
+        observations.append(o)
+    rec = {"schema_version": ol.SCHEMA_VERSION,
+           "study": {"key": "study-record", "citation": "supplied at ingest", "design": sr.get("design")},
+           "provenance": {"source_type": "research", "extracted_by": "x", "extracted_at": "2000-01-01",
+                          "extraction_method": "x"},
+           "evidence_base": sr.get("evidence_base"), "comparisons": sr.get("comparisons") or [],
+           "observations": observations}
+    if sr.get("synthesis") is not None:
+        rec["study"]["synthesis"] = sr["synthesis"]
+    for issue in ol.validate_record(rec, "study-record", None):
+        report.issues.append(Issue(-1, "study_record", "warning", "study_record", str(issue)))
+
+
 def _impact_ok(value) -> bool:
     """An impact code is 0-3, or None when the article prints no effect size.
 
@@ -246,6 +300,8 @@ def validate_output(parsed: dict, existing_slugs: dict, ground_truth_enabled: bo
     real_slugs = _existing_slug_set(existing_slugs)
     sibling_slugs = {c.get("slug") for c in contributions if isinstance(c, dict) and c.get("slug")}
     known_slugs = real_slugs | sibling_slugs
+
+    _check_study_record(report, parsed.get("study_record"), contributions)
 
     for i, contrib in enumerate(contributions):
         if not isinstance(contrib, dict):

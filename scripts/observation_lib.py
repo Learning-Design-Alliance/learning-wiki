@@ -176,6 +176,26 @@ OUTCOME_ROLES = {
 }
 ROLE_BASIS = {"stated", "inferred", "ambiguous"}
 
+# HOW an arm was delivered, which "Four Gaps in the Learning Graph" found
+# explains about 2% of the variation in effect across 1,389 randomised studies:
+# real, small, and only measurable if somebody records it. Two separate axes,
+# because "small group" and "supplement" answer different questions — who is
+# taught together, and what the arm replaces or adds to. `basis` is required
+# for the same reason outcome.role_basis is: an extractor can usually infer a
+# grouping, and an inferred one must never read as a stated one.
+DELIVERY_GROUPING = {"individual", "pair", "small-group", "whole-class", "whole-school",
+                     "self-paced", "mixed", "other"}
+DELIVERY_ROLE = {"core-curriculum", "supplement", "replacement", "add-on", "other"}
+
+# Whether the study was pre-registered. Selection-free trial corpora put
+# effects several times smaller than published single studies, and
+# pre-registration is the one design fact that lets a later reader correct for
+# that — so it is recorded where the source states it. `unreported` means
+# someone looked and the source does not say; absent means nobody looked. A
+# `preregistered` status must name where, or it is an assertion with nothing
+# behind it.
+PREREGISTRATION_STATUS = {"preregistered", "not-preregistered", "unreported"}
+
 # Recorded ONLY where the source identifies them. A researcher measuring
 # graduation does not establish that anybody values graduation, so this field
 # has no default.
@@ -440,6 +460,20 @@ def _validate_study(rec, key, issues) -> str | None:
     family = design.get("family")
     _enum(issues, f"{where}.design", family, DESIGN_FAMILIES, "family", required=True)
     _str(issues, f"{where}.design", design.get("design_detail"), "design_detail")
+    prereg = design.get("preregistration")
+    if prereg is not None:
+        wp = f"{where}.design.preregistration"
+        if not isinstance(prereg, dict):
+            _err(issues, wp, "must be a mapping {status, registry, id, source_quote}")
+        else:
+            _enum(issues, wp, prereg.get("status"), PREREGISTRATION_STATUS, "status",
+                  required=True)
+            for f in ("registry", "id", "source_quote"):
+                _str(issues, wp, prereg.get(f), f)
+            if prereg.get("status") == "preregistered" and not (prereg.get("registry")
+                                                                or prereg.get("id")):
+                _err(issues, wp, "status is 'preregistered' but neither registry nor id is "
+                                 "given; say where, or it is an assertion with nothing behind it")
 
     synth = study.get("synthesis")
     if family in SYNTHESIS_FAMILIES:
@@ -656,6 +690,18 @@ def _validate_evidence_base(rec, key, issues, family) -> set:
         if arm.get("allocation") is not None:
             _count(issues, w, arm.get("allocation"), "allocation")
         _elements(arm.get("elements"), issues, w)
+        delivery = arm.get("delivery")
+        if delivery is not None:
+            if not isinstance(delivery, dict):
+                _err(issues, w, "delivery must be a mapping {grouping, role, basis}")
+            else:
+                wd = f"{w}.delivery"
+                _enum(issues, wd, delivery.get("grouping"), DELIVERY_GROUPING, "grouping")
+                _enum(issues, wd, delivery.get("role"), DELIVERY_ROLE, "role")
+                if delivery.get("grouping") is None and delivery.get("role") is None:
+                    _err(issues, wd, "delivery needs a grouping or a role; omit the block "
+                                     "rather than leave both empty")
+                _enum(issues, wd, delivery.get("basis"), ROLE_BASIS, "basis", required=True)
     return arm_ids, subject_ids
 
 
