@@ -10,6 +10,9 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/question-prompts-improve-learning](claims/question-prompts-improve-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/scaffolded-close-reading-improves-comprehension-for-struggling-readers](claims/scaffolded-close-reading-improves-comprehension-for-struggling-readers.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/self-determined-learning-model-of-instruction-improves-self-determination](claims/self-determined-learning-model-of-instruction-improves-self-determination.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/increasing-wait-time-improves-response-quality](claims/increasing-wait-time-improves-response-quality.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/self-monitoring-comprehension-improves-learning](claims/self-monitoring-comprehension-improves-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/questioning-strategies-improve-learning](claims/questioning-strategies-improve-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
