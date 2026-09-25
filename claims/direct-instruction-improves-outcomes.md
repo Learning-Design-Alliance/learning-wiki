@@ -3,26 +3,40 @@ type: claim
 title: Direct instruction improves learning outcomes
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: direct-instruction-improves-outcomes
 evidence_strength:
+sources:
+  - id: stockard-et-al-2018
+    resource: "https://doi.org/10.3102/0034654317751919"
+    title: "Stockard, J., Wood, T. W., Coughlin, C., & Rasplica Khoury, C. (2018). The Effectiveness of Direct Instruction Curricula: A Meta-Analysis of a Half Century of Research. *Review of Educational Research, 88*(4), 479-507. [doi:10.3102/0034654317751919](https://doi.org/10.3102/0034654317751919)"
+    author: "Stockard, J., Wood, T. W., Coughlin, C., & Rasplica Khoury, C."
+    q: 4
+    i: "?"
+    n: 328 studies / ~4,000 effects
 ---
 
 # Direct instruction improves learning outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · n=328 studies / ~4,000 effects
 
 Explicit, teacher-led instruction — clear objectives, modeling, guided practice with feedback, and independent practice — produces stronger learning outcomes than discovery-only approaches, particularly for novices and structured domains.
 
 ## Subclaims
 
-<!-- TODO -->
+`q4 i?` A meta-analysis of half a century of research on Direct Instruction curricula finds consistently positive, statistically significant effects on academic, ability and affective outcomes across reading, math, language and spelling. [→ Stockard et al. 2018](#stockard-et-al-2018)
 
 ## Evidence
 
-<!-- TODO -->
+### Stockard et al. 2018
+
+Stockard, J., Wood, T. W., Coughlin, C., & Rasplica Khoury, C. (2018). The Effectiveness of Direct Instruction Curricula: A Meta-Analysis of a Half Century of Research. *Review of Educational Research, 88*(4), 479-507. [doi:10.3102/0034654317751919](https://doi.org/10.3102/0034654317751919)
+
+`q4 · meta-analysis (328 studies, 413 study designs)` · `i? · described as moderate to large; no pooled effect size in the abstract` · `n=328 studies / ~4,000 effects`
+
+Quantitative mixed models pooled literature from 1966–2016 on curricula built on Engelmann's Direct Instruction model (explicit, scripted, teacher-led sequences with modeling, guided and independent practice), covering reading, math, language, spelling and other academic subjects as well as ability measures, affective outcomes, and teacher/parent views. Every estimated effect was positive and statistically significant except affective-outcome metaregressions; effects were "educationally significant, moderate to large when using the traditional psychological benchmarks," held up during maintenance, and grew larger with more program exposure.
 
 ## Discussion
 
@@ -36,7 +50,7 @@ Explicit, teacher-led instruction — clear objectives, modeling, guided practic
 
 **Dosage and pacing.** The model assumes sufficient time for the full cycle — modeling, guided practice, independent practice — and frequent checks for understanding that allow the teacher to reteach before misconceptions consolidate. Compressed implementations that skip guided practice or rush to independent work undermine the mechanism the claim depends on [-M].
 
-**Open questions.** The evidence base for this claim page has not yet been populated with specific studies. Key moderators to document when evidence is added: learner expertise, domain structure, dosage and pacing, and the quality of checks for understanding during guided practice. Until then, this page should be read as a well-established but under-documented claim rather than an evidenced one.
+**Open questions.** The one meta-analysis recorded above covers Engelmann's Direct Instruction curricula specifically, not explicit instruction in general, and was read as an abstract. Key moderators still to document: learner expertise, domain structure, dosage and pacing, and the quality of checks for understanding during guided practice. 
 
 ## Related Claims
 

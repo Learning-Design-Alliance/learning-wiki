@@ -10,6 +10,17 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/expressive-writing-improves-exam-performance](claims/expressive-writing-improves-exam-performance.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/constructive-learning-beats-active-passive](claims/constructive-learning-beats-active-passive.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/self-affirmation-improves-outcomes](claims/self-affirmation-improves-outcomes.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/extrinsic-rewards-undermine-intrinsic-motivation](claims/extrinsic-rewards-undermine-intrinsic-motivation.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/teacher-expectation-effects-on-achievement](claims/teacher-expectation-effects-on-achievement.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/highlighting-alone-low-utility](claims/highlighting-alone-low-utility.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/highlighting-alone-is-ineffective](claims/highlighting-alone-is-ineffective.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/highlighting-low-utility](claims/highlighting-low-utility.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/guided-play-improves-academic-outcomes](claims/guided-play-improves-academic-outcomes.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/direct-instruction-improves-outcomes](claims/direct-instruction-improves-outcomes.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/retrieval-failure-reduces-benefit](claims/retrieval-failure-reduces-benefit.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/explicit-handwriting-instruction-improves-legibility](claims/explicit-handwriting-instruction-improves-legibility.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/explicit-writing-strategy-instruction-improves-writing](claims/explicit-writing-strategy-instruction-improves-writing.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/teacher-student-relationships-improve-engagement-and-achievement](claims/teacher-student-relationships-improve-engagement-and-achievement.md) — Evidence filled from Crossref-verified sources (gap-fill)

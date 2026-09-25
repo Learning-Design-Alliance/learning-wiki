@@ -3,26 +3,40 @@ type: claim
 title: Retrieval Failure Reduces Benefit
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: retrieval-failure-reduces-benefit
 evidence_strength:
+sources:
+  - id: rowland-2014
+    resource: "https://doi.org/10.1037/a0037559"
+    title: "Rowland, C. A. (2014). The effect of testing versus restudy on retention: A meta-analytic review of the testing effect. *Psychological Bulletin, 140*(6), 1432–1463. [doi:10.1037/a0037559](https://doi.org/10.1037/a0037559)"
+    author: Rowland, C. A.
+    q: 4
+    i: "?"
+    n: 159 effect sizes (61 studies)
 ---
 
 # Retrieval Failure Reduces Benefit
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · n=159 effect sizes (61 studies)
 
 When learners attempt retrieval practice but fail to successfully retrieve the target information, the learning benefit of the retrieval attempt is reduced compared with successful retrieval. The claim concerns the *quality* of the retrieval attempt, not the presence of failure per se — see Discussion for boundary conditions.
 
 ## Subclaims
 
-<!-- TODO -->
+`q4 i?` Across the testing-effect literature, the memory benefit of a retrieval attempt scales with how often retrieval succeeds: without corrective feedback, initial recall performance at or below 50% produced no reliable testing effect, while effects grew significantly larger as retrieval success rose toward and beyond 75%. [→ Rowland 2014](#rowland-2014)
 
 ## Evidence
 
-<!-- TODO -->
+### Rowland 2014
+
+Rowland, C. A. (2014). The effect of testing versus restudy on retention: A meta-analytic review of the testing effect. *Psychological Bulletin, 140*(6), 1432–1463. [doi:10.1037/a0037559](https://doi.org/10.1037/a0037559)
+
+`q4 · meta-analytic review (random-effects model, 159 effect sizes from 61 studies)` · `i? · effect differs by subgroup: g=0.03 at ≤50% initial recall, g=0.56 at >75%` · `n=159 effect sizes (61 studies)`
+
+This meta-analysis pooled 159 effect sizes from 61 published and unpublished studies comparing final retention of tested vs. restudied material (Hedges's g, random-effects model). A dedicated "retrievability and reexposure" moderator analysis split the no-feedback studies by how often the initial retrieval attempt succeeded. Where more than half of initial retrieval attempts failed (≤50% correct) and no feedback followed, the testing effect was statistically indistinguishable from zero; as the proportion of successful retrievals rose (51–75%, then >75%), the size of the benefit rose with it, and studies that provided feedback after retrieval (regardless of initial success) showed the largest effects of all. The pattern directly supports [practice](../elements/practice.md) calibrated to a learner's likely success and pairing failed attempts with feedback, as this claim's Discussion recommends.
 
 ## Discussion
 
@@ -34,7 +48,7 @@ When learners attempt retrieval practice but fail to successfully retrieve the t
 
 **Open questions.** The precise threshold at which retrieval difficulty stops helping and starts hurting is unresolved, as is the role of learner motivation: repeated retrieval failure may also carry affective costs that erode engagement and [belonging](../elements/belonging.md), independent of any direct cognitive effect. Whether partial retrieval (gist or fragments) yields benefits proportional to its completeness, and how feedback timing interacts with retrieval success, remain open empirical questions.
 
-**Evidence status.** Both the subclaims and the evidence base for this claim are not yet populated; studies comparing successful versus unsuccessful retrieval attempts (and pretesting/errorful-learning paradigms) still need to be added before the strength of this claim can be rated.
+**Evidence status.** The meta-analysis recorded above supports the claim through a moderator analysis, not a direct manipulation of retrieval success, so the pattern is correlational across groups of studies. Pretesting and errorful-learning studies, where failed retrieval followed by feedback helps, are a counterpoint recorded on the [pretesting claim page](pretesting-enhances-learning.md).
 
 ## Related Claims
 
