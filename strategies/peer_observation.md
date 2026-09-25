@@ -70,7 +70,7 @@ Peer observation works because observation of others' performance builds the obs
 - **Video clubs for teachers** — Groups of mathematics teachers (e.g., in the work of the QUASAR project) meet to analyze video clips of one another's lessons, developing shared professional vision of student thinking.
 
 ## Key Sources
-- Gosling, D. (2002). Models of peer observation of teaching. *Innovations in Education and Teaching International, 39*(1), 3–10. [doi:10.1080/135580002116040](https://doi.org/10.1080/135580002116040)
+- Gosling, D. (2002). Models of peer observation of teaching. *Innovations in Education and Teaching International, 39*(1), 3–10.
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)
 - Bandura, A. (1977). *Social learning theory.* Prentice Hall.

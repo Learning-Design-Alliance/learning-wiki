@@ -80,6 +80,6 @@ Multiple texts push learners beyond single-document comprehension toward the dis
 ## Key Sources
 - Wineburg, S. S. (1991). Historical problem solving: A study of the cognitive processes used in the evaluation of documentary and pictorial evidence. *Journal of Educational Psychology, 83*(1), 73–87. [doi:10.1037/0022-0663.83.1.73](https://doi.org/10.1037/0022-0663.83.1.73)
 - Bråten, I., Britt, M. A., Strømsø, H. I., & Rouet, J.-F. (2011). The role of epistemic beliefs in the comprehension of multiple expository texts: Toward an integrated model. *Educational Psychologist, 46*(1), 48–70. [doi:10.1080/00461520.2011.538647](https://doi.org/10.1080/00461520.2011.538647)
-- Goldman, S. R. (2011). Reading and learning from multiple texts. *Educational Psychologist, 46*(1), 1–4. [doi:10.1080/00461520.2010.545799](https://doi.org/10.1080/00461520.2010.545799)
-- Perfetti, C. A., Rouet, J.-F., & Britt, M. A. (1999). Toward a theory of documents representation for text comprehension. *Cognition and Instruction, 17*(2), 215–233. [doi:10.1207/S1532690XCI1702_3](https://doi.org/10.1207/S1532690XCI1702_3)
+- Goldman, S. R. (2011). Reading and learning from multiple texts. *Educational Psychologist, 46*(1), 1–4.
+- Perfetti, C. A., Rouet, J.-F., & Britt, M. A. (1999). Toward a theory of documents representation for text comprehension. *Cognition and Instruction, 17*(2), 215–233.
 

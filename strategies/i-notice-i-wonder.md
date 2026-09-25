@@ -73,4 +73,4 @@ The routine works by having learners explore a problem space before receiving ex
 - Ritchhart, R., Church, M., & Morrison, K. (2011). *Making thinking visible: How to promote engagement, understanding, and independence for all learners.* Jossey-Bass.
 - Schwartz, D. L., & Bransford, J. D. (1998). A time for telling. *Cognition and Instruction, 16*(4), 475–522. [doi:10.1207/s1532690xci1604_4](https://doi.org/10.1207/s1532690xci1604_4)
 - Housen, A. (2002). Aesthetic thought, critical thinking and transfer. *Arts and Learning Research, 18*(1), 99–132.
-- Yenawine, P., & Miller, A. (2019). Using Visual Thinking Strategies with students who are deaf or hard of hearing. *Journal of Museum Education, 44*(2), 152–161. [doi:10.1080/10598650.2019.1586642](https://doi.org/10.1080/10598650.2019.1586642)
+- Yenawine, P., & Miller, A. (2019). Using Visual Thinking Strategies with students who are deaf or hard of hearing. *Journal of Museum Education, 44*(2), 152–161.

@@ -3,6 +3,7 @@ openrouter_client.py — Single generation call against an OpenRouter model,
 with latency, token usage, and cost capture.
 """
 
+import os
 import time
 from dataclasses import dataclass
 from typing import Optional
@@ -14,6 +15,16 @@ from . import pricing
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 MAX_RETRIES = 4
 RETRY_BASE_DELAY = 5  # seconds; doubles each retry, for 429/5xx
+
+# Upstream providers OpenRouter must not route to. OpenInference served 51
+# of batch 4's 78 GLM calls on 2026-09-25 and every one failed validation:
+# 22 answered "no article text was supplied" to a ~28k-token prompt that
+# carried the article, and the rest returned skeletons with empty titles and
+# no evidence. The other providers passed 26 of 27 on the same articles.
+# Override with OPENROUTER_IGNORE_PROVIDERS (comma-separated; empty = none).
+IGNORED_PROVIDERS = [p.strip() for p in
+                     os.environ.get("OPENROUTER_IGNORE_PROVIDERS", "OpenInference").split(",")
+                     if p.strip()]
 
 
 class GenerationError(RuntimeError):
@@ -30,6 +41,7 @@ class GenerationResult:
     cost_usd: Optional[float]
     cost_source: str  # "generation_stats" | "list_pricing" | "unknown"
     generation_id: Optional[str]
+    provider: Optional[str] = None  # the upstream provider OpenRouter routed to
 
 
 def generate(
@@ -84,6 +96,8 @@ def generate(
         "temperature": temperature,
         "usage": {"include": True},
     }
+    if IGNORED_PROVIDERS:
+        payload["provider"] = {"ignore": IGNORED_PROVIDERS}
     if json_mode:
         payload["response_format"] = {"type": "json_object"}
     if disable_reasoning:
@@ -188,6 +202,7 @@ def generate(
             cost_usd=cost_usd,
             cost_source=cost_source,
             generation_id=generation_id,
+            provider=body.get("provider"),
         )
 
     raise last_error or GenerationError(f"Failed to generate from {model} after {MAX_RETRIES} attempts.")

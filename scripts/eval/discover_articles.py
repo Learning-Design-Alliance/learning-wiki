@@ -47,6 +47,7 @@ generation money.
 """
 
 import argparse
+import html
 import json
 import re
 import sys
@@ -409,24 +410,22 @@ ERIC_SEARCH_URL = "https://api.ies.ed.gov/eric/"
 
 
 def search_eric(query: str, rows: int) -> list:
-    """Returns manifest-shaped entries, restricted client-side to ED-prefixed
-    ERIC ids. ERIC uses two id prefixes: EJ ("ERIC Journal" — bibliographic
-    metadata only; the actual text stays with the original journal
-    publisher, ERIC has no redistribution rights) and ED ("ERIC Document" —
-    reports, conference papers, theses, and other grey literature ERIC does
-    have the rights to host full-text on files.eric.ed.gov). There is no
-    documented API field or query filter for this distinction (checked the
-    raw response schema directly — no such field is present); this was
-    confirmed empirically instead: every EJ-prefixed hit in an early test
-    batch 404'd against fulltext/<id>.pdf, while ED-prefixed ids match what
-    fetch_article.py can actually fetch. The filter is client-side, so this
-    over-fetches (asks the API for more than `rows`) to still hit the target
-    after EJ hits are discarded."""
+    """Returns manifest-shaped entries for records whose full text ERIC hosts.
+
+    The API's `e_fulltextauth` field is 1 exactly when ERIC holds the rights
+    to serve the document's full text on files.eric.ed.gov, so the query
+    filters on it server-side. That replaces an older client-side rule that
+    kept only ED-prefixed ids, which was wrong both ways: many ED records
+    have no hosted PDF (batch 3 fetched 32 of 125 candidates, most of the
+    rest 404ing), and some EJ records do (author manuscripts ERIC was given
+    permission to host). Checked 2026-09-25: ED636486 (flag 0) 404s, while
+    ED599268, ED572372, ED521113, EJ973379, EJ1516463 and EJ1383279 (flag 1)
+    all return 200."""
     params = {
-        "search": query,
+        "search": f"({query}) AND e_fulltextauth:1",
         "format": "json",
-        "rows": str(min(rows * 4, 200)),
-        "fields": "id,title,author,publicationdateyear,peerreviewed",
+        "rows": str(min(rows * 2, 200)),
+        "fields": "id,title,author,publicationdateyear,peerreviewed,e_fulltextauth",
     }
     try:
         resp = _get(ERIC_SEARCH_URL, params=params)
@@ -438,9 +437,9 @@ def search_eric(query: str, rows: int) -> list:
     entries = []
     for doc in docs:
         eric_id = doc.get("id", "").strip()
-        if not eric_id.upper().startswith("ED"):
+        if doc.get("e_fulltextauth") != 1:
             continue
-        title = doc.get("title", "").strip()
+        title = html.unescape(doc.get("title", "")).strip()   # ERIC sends &apos; and &amp;
         if not eric_id or not title:
             continue
         authors = ", ".join(doc.get("author", [])) if isinstance(doc.get("author"), list) else (doc.get("author") or "et al.")
@@ -472,6 +471,10 @@ SEARCH_FNS = {"pmc": search_pmc, "arxiv": search_arxiv, "eric": search_eric}
 # wasteful for them and slow for us. A cache hit skips the live call
 # entirely; --refresh-cache (or use_cache=False) bypasses it.
 DISCOVERY_CACHE_PATH = EVAL_ROOT / "corpus" / ".discovery_cache.json"
+
+# Bumped when a source's search changes what it returns, so results cached
+# under the old query are not reused. ERIC's "ft" is the e_fulltextauth filter.
+SEARCH_VERSIONS = {"eric": "ft"}
 
 
 def _load_discovery_cache() -> dict:
@@ -512,7 +515,7 @@ def build_manifest(targets: dict, topics: list, existing_ids: set, verbose: bool
         for topic, count in zip(topics, per_topic_counts):
             if collected >= target:
                 break
-            cache_key = f"{source}::{topic}::{count}"
+            cache_key = f"{source}{SEARCH_VERSIONS.get(source, '')}::{topic}::{count}"
             if use_cache and cache_key in cache:
                 if verbose:
                     print(f"[{source}] {topic!r} (cached, have {collected}/{target})...")

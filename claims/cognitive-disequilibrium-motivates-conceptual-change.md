@@ -3,26 +3,74 @@ type: claim
 title: Cognitive disequilibrium motivates conceptual change
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: cognitive-disequilibrium-motivates-conceptual-change
 evidence_strength: weak
+sources:
+  - id: pacaci-et-al-2024
+    resource: "https://doi.org/10.1002/tea.21887"
+    title: "Pacaci, C., Ustun, U., & Ozdemir, O. F. (2024). Effectiveness of conceptual change strategies in science education: A meta-analysis. *Journal of Research in Science Teaching, 61*(6), 1263–1325. [doi:10.1002/tea.21887](https://doi.org/10.1002/tea.21887)"
+    author: "Pacaci, C., Ustun, U., & Ozdemir, O. F."
+    q: 4
+    i: 3
+    n: 218 studies, 18,051 students
+  - id: guzzetti-et-al-1993
+    resource: "https://doi.org/10.2307/747886"
+    title: "Guzzetti, B. J., Snyder, T. E., Glass, G. V., & Gamas, W. S. (1993). Promoting Conceptual Change in Science: A Comparative Meta-Analysis of Instructional Interventions from Reading Education and Science Education. *Reading Research Quarterly, 28*(2), 116. [doi:10.2307/747886](https://doi.org/10.2307/747886)"
+    author: "Guzzetti, B. J., Snyder, T. E., Glass, G. V., & Gamas, W. S."
+    q: 3
+    i: "?"
+    n: "? (not stated in the abstract read)"
+  - id: lehman-et-al-2013
+    resource: "https://doi.org/10.3233/JAI-130025"
+    title: "Lehman, B., D'Mello, S., Strain, A., Mills, C., Gross, M., Dobbins, A., Wallace, P., Millis, K., & Graesser, A. (2013). Inducing and Tracking Confusion with Contradictions during Complex Learning. *International Journal of Artificial Intelligence in Education, 22*(1–2), 85–105. [doi:10.3233/JAI-130025](https://doi.org/10.3233/JAI-130025)"
+    author: "Lehman, B., D'Mello, S., Strain, A., Mills, C., Gross, M., Dobbins, A., Wallace, P., Millis, K., & Graesser, A."
+    q: 3
+    i: "?"
+    n: 32
 ---
 
 # Cognitive disequilibrium motivates conceptual change
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 3 studies · `q3`–`q4` · `i3` large
 
 When learners encounter evidence or ideas that conflict with their existing conceptions, the resulting cognitive disequilibrium can motivate them to reorganize their knowledge — the mechanism by which conceptual change occurs.
 
 ## Subclaims
 
-<!-- TODO -->
+`q4 i3` Across 218 science-education studies (18,051 students), conceptual change strategies produced a large improvement in learning; strategies built on cognitive conflict did as well as the whole set (g = 1.10, k = 150). Heterogeneity was high, and the studies measure learning outcomes, not the disequilibrium itself. [→ Pacaci et al. 2024](#pacaci-et-al-2024)
+
+`q3 i?` An earlier meta-analysis of reading- and science-education interventions on misconceptions found that the strategies that worked had one thing in common: they produced conceptual conflict. [→ Guzzetti et al. 1993](#guzzetti-et-al-1993)
+
+`q3 i?` Contradictions staged between tutoring agents did not raise learning on their own; learners gained only when the contradiction actually made them confused. This is a heavy qualification: conflict alone is not enough. [→ Lehman et al. 2013](#lehman-et-al-2013)
 
 ## Evidence
 
-<!-- TODO -->
+### Pacaci et al. 2024
+
+Pacaci, C., Ustun, U., & Ozdemir, O. F. (2024). Effectiveness of conceptual change strategies in science education: A meta-analysis. *Journal of Research in Science Teaching, 61*(6), 1263–1325. [doi:10.1002/tea.21887](https://doi.org/10.1002/tea.21887)
+
+`q4 · random-effects meta-analysis with robust Bayesian bias adjustment` · `i3 · large effect, g=1.10 (adjusted g=0.93)` · `n=218 studies, 18,051 students`
+
+A random-effects meta-analysis of 218 primary studies testing three families of conceptual change strategy in science learning: cognitive conflict, cognitive bridging and ontological category shift. The overall effect was large (g = 1.10), and still large after a robust Bayesian adjustment (g = 0.93). Cognitive-conflict strategies, the family that most directly works through [cognitive disequilibrium](../principles/cognitive-disequilibrium.md), showed the same effect (g = 1.10, k = 150). Effect sizes varied widely, with a prediction interval of 0.19 to 2.38. The studies measure learning outcomes, not whether disequilibrium was felt, so they support conflict-based *instruction* rather than isolating disequilibrium as the mechanism. The meta-analysis was read as an abstract only.
+
+### Guzzetti et al. 1993
+
+Guzzetti, B. J., Snyder, T. E., Glass, G. V., & Gamas, W. S. (1993). Promoting Conceptual Change in Science: A Comparative Meta-Analysis of Instructional Interventions from Reading Education and Science Education. *Reading Research Quarterly, 28*(2), 116. [doi:10.2307/747886](https://doi.org/10.2307/747886)
+
+`q3 · meta-analysis of experimental and quasi-experimental studies` · `i? · no effect size in the abstract read` · `n=? (not stated in the abstract read)`
+
+This meta-analysis combined experimental and quasi-experimental studies from reading education and science education that tested instructional interventions aimed at students' misconceptions. It identified which strategies produced conceptual change and reported that the effective ones shared an element of producing conceptual conflict. Only the brief ERIC abstract was read, so its effect sizes and study counts are not recorded here.
+
+### Lehman et al. 2013
+
+Lehman, B., D'Mello, S., Strain, A., Mills, C., Gross, M., Dobbins, A., Wallace, P., Millis, K., & Graesser, A. (2013). Inducing and Tracking Confusion with Contradictions during Complex Learning. *International Journal of Artificial Intelligence in Education, 22*(1–2), 85–105. [doi:10.3233/JAI-130025](https://doi.org/10.3233/JAI-130025)
+
+`q3 · peer-reviewed within-subjects laboratory experiment` · `i? · no standardized effect size reported; interaction F(3, 240) = 2.56, p = .028` · `n=32`
+
+Thirty-two undergraduates took part in eight computer-based "trialogues" about research-methods case studies with an animated tutor agent and an animated student agent. The researchers induced disequilibrium by having the agents disagree or state false information, then asking the learner to decide between them. The contradictions increased self-reported confusion, but on their own they did not improve posttest scores (p = 1.00). In a follow-up analysis that split cases by how confused learners reported being (a median split), learners scored higher after contradictions only in the high-confusion cases. Disequilibrium helped only when it was actually experienced, and the study gave no scaffolding to help learners resolve it.
 
 ## Discussion
 

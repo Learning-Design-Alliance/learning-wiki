@@ -68,7 +68,7 @@ Automatic recognition of high-frequency words reduces the working-memory burden 
 
 ## Key Sources
 - Ehri, L. C. (2005). Learning to read words: Theory, findings, and issues. *Scientific Studies of Reading, 9*(2), 167–188. [doi:10.1207/s1532799xssr0902_4](https://doi.org/10.1207/s1532799xssr0902_4)
-- Fry, E. (2004). The most common words in English. *The Reading Teacher, 58*(4), 337–340. [doi:10.1598/RT.58.4.4](https://doi.org/10.1598/RT.58.4.4)
+- Fry, E. (2004). The most common words in English. *The Reading Teacher, 58*(4), 337–340.
 - Dolch, E. W. (1948). *Problems in reading*. Garrard Press.
 - Share, D. L. (1995). Phonological recoding and self-teaching: sine qua non of reading acquisition. *Cognition, 55*(2), 151–218. [doi:10.1016/0010-0277(94)00645-2](https://doi.org/10.1016/0010-0277(94)00645-2)
 - Ehri, L. C., Nunes, S. R., Stahl, S. A., & Willows, D. M. (2001). Systematic phonics instruction helps students learn to read: Evidence from the National Reading Panel's meta-analysis. *Review of Educational Research, 71*(3), 393–447. [doi:10.3102/00346543071003393](https://doi.org/10.3102/00346543071003393)

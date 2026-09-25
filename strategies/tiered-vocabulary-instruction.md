@@ -68,4 +68,4 @@ The strategy operationalizes a core insight from vocabulary research: instructio
 - Beck, I. L., McKeown, M. G., & Kucan, L. (2013). *Bringing words to life: Robust vocabulary instruction* (2nd ed.). Guilford Press.
 - National Reading Panel (2000). *Teaching children to read: An evidence-based assessment of the scientific research literature on reading and its implications for reading instruction.* National Institute of Child Health and Human Development.
 - Nagy, W., & Townsend, D. (2012). Words as tools: Learning academic vocabulary as language acquisition. *Reading Research Quarterly, 47*(1), 91–108. [doi:10.1002/RRQ.011](https://doi.org/10.1002/RRQ.011)
-- Graves, M. F., & Sales, G. C. (2018). Choosing and using vocabulary programs. In *Essentials of teaching and integrating vocabulary*. [doi:10.4324/9781315110124](https://doi.org/10.4324/9781315110124)
+- Graves, M. F., & Sales, G. C. (2018). Choosing and using vocabulary programs. In *Essentials of teaching and integrating vocabulary*.

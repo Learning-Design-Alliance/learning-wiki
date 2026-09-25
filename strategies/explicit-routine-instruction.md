@@ -70,7 +70,7 @@ Routines reduce the working-memory demands of recurring tasks by making the sequ
 ## Key Sources
 - Engelmann, S., & Carnine, D. (1982). *Theory of instruction: Principles and applications*. Irvington Publishers.
 - Archer, A. L., & Hughes, C. A. (2011). *Explicit instruction: Effective and efficient teaching*. Guilford Press.
-- Rosenshine, B. (2012). Principles of instruction: Research-based strategies that all teachers should know. *The Clearing House, 85*(6), 225–233. [doi:10.1080/00098655.2012.663437](https://doi.org/10.1080/00098655.2012.663437)
+- Rosenshine, B. (2012). Principles of instruction: Research-based strategies that all teachers should know. *The Clearing House, 85*(6), 225–233.
 - Sweller, J., van Merriënboer, J. J. G., & Paas, F. (2019). Cognitive architecture and instructional design: 20 years later. *Educational Psychology Review, 31*(2), 261–292. [doi:10.1007/s10648-019-09465-5](https://doi.org/10.1007/s10648-019-09465-5)
 - National Reading Panel. (2000). *Teaching children to read: An evidence-based assessment of the scientific research literature on reading and its implications for reading instruction*. National Institute of Child Health and Human Development.
 

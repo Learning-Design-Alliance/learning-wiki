@@ -72,6 +72,6 @@ Double-entry journals are a writing-to-learn technique: the act of composing a r
 
 ## Key Sources
 - Bangert-Drowns, R. L., Hurley, M. M., & Wilkinson, B. (2004). The effects of school-based writing-to-learn interventions on academic achievement: A meta-analysis. *Review of Educational Research, 74*(1), 29–58. [doi:10.3102/00346543074001029](https://doi.org/10.3102/00346543074001029)
-- Boscolo, P., Arfé, B., & Quarisa, M. (2007). Improving reading comprehension through writing: A classroom study. *Instructional Science, 35*(6), 469–490. [doi:10.1007/s11251-007-9019-1](https://doi.org/10.1007/s11251-007-9019-1)
+- Boscolo, P., Arfé, B., & Quarisa, M. (2007). Improving reading comprehension through writing: A classroom study. *Instructional Science, 35*(6), 469–490.
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
 - Chi, M. T. H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219–263. [doi:10.1080/00461520.2014.965823](https://doi.org/10.1080/00461520.2014.965823)

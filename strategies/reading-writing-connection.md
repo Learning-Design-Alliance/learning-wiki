@@ -67,7 +67,7 @@ Reading and writing instruction produce stronger outcomes when integrated than w
 - **Writing-about-reading journals** — students write weekly analytic responses to independent reading, a format shown to improve comprehension more than answering questions [Graham & Hebert, 2010] [+M].
 
 ## Key Sources
-- Graham, S., & Perin, D. (2007). Writing next: Effective strategies to improve writing of adolescents in middle and high schools. *A report to the Carnegie Corporation of New York*. [doi:10.17763/haer.77.1.951705466374h377](https://doi.org/10.17763/haer.77.1.951705466374h377)
+- Graham, S., & Perin, D. (2007). Writing next: Effective strategies to improve writing of adolescents in middle and high schools. *A report to the Carnegie Corporation of New York*.
 - Graham, S., & Hebert, M. (2010). *Writing to read: Evidence for how writing can improve reading*. Carnegie Corporation of New York.
 - Fitzgerald, J., & Shanahan, T. (2000). Reading and writing relations and their development. *Educational Psychologist, 35*(1), 39-50. [doi:10.1207/s15326985ep3501_5](https://doi.org/10.1207/s15326985ep3501_5)
 - Shanahan, T. (2006). Relations among oral language, reading, and writing development. In C. A. MacArthur, S. Graham, & J. Fitzgerald (Eds.), *Handbook of writing research* (pp. 171–183). Guilford Press.

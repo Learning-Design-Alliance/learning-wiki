@@ -69,4 +69,4 @@ Grading on final demonstrated mastery aligns evaluation with the goal of learnin
 - Bloom, B. S. (1968). Learning for mastery. *Evaluation Comment, 1*(2), 1–12. UCLA CSEIP.
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)
 - Guskey, T. R. (2010). Lessons of mastery learning. *Educational Leadership, 68*(2), 52–57.
-- Guskey, T. R. (2019). How can we use student test scores to help teachers improve? A response to Wiliam. *Educational Measurement: Issues and Practice, 38*(2), 24–27. [doi:10.1111/emip.12255](https://doi.org/10.1111/emip.12255)
+- Guskey, T. R. (2019). How can we use student test scores to help teachers improve? A response to Wiliam. *Educational Measurement: Issues and Practice, 38*(2), 24–27.

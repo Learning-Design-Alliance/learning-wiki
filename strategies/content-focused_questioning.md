@@ -67,7 +67,7 @@ Questioning is one of the most consistently supported teacher moves in reading i
 - Reading-check questions embedded in platforms such as [Newsela](https://newsela.com) and [Actively Learn](https://www.activelylearn.com) deliver content-focused questions at points within the text, with analytics showing the teacher where comprehension breaks down.
 
 ## Key Sources
-- Andre, T. (1979). Does answering questions really promote reading comprehension? *Review of Educational Research, 49*(2), 323–369. [doi:10.3102/00346543049002323](https://doi.org/10.3102/00346543049002323)
+- Andre, T. (1979). Does answering questions really promote reading comprehension? *Review of Educational Research, 49*(2), 323–369.
 - Redfield, D. L., & Rousseau, E. W. (1981). A meta-analysis of experimental research on teacher questioning behavior. *Review of Educational Research, 51*(2), 237–245. [doi:10.3102/00346543051002237](https://doi.org/10.3102/00346543051002237)
 - King, A. (1994). Guiding knowledge construction in the classroom: Effects of teaching children how to question and how to explain. *American Educational Research Journal, 31*(2), 338–368. [doi:10.3102/00028312031002338](https://doi.org/10.3102/00028312031002338)
 - Rosenshine, B., Meister, C., & Chapman, S. (1996). Teaching students to generate questions: A review of the intervention studies. *Review of Educational Research, 66*(2), 181–221. [doi:10.3102/00346543066002181](https://doi.org/10.3102/00346543066002181)

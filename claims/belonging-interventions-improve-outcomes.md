@@ -3,26 +3,57 @@ type: claim
 title: Belonging Interventions Improve Outcomes
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: belonging-interventions-improve-outcomes
 evidence_strength: weak
+sources:
+  - id: walton-cohen-2011
+    resource: "https://doi.org/10.1126/science.1198364"
+    title: "Walton, G. M., & Cohen, G. L. (2011). A brief social-belonging intervention improves academic and health outcomes of minority students. *Science, 331*(6023), 1447–1451. [doi:10.1126/science.1198364](https://doi.org/10.1126/science.1198364)"
+    author: "Walton, G. M., & Cohen, G. L."
+    q: 3
+    i: "?"
+    n: 92 students (49 African American, 43 European American)
+  - id: walton-et-al-2023
+    resource: "https://doi.org/10.1126/science.ade4420"
+    title: "Walton, G. M., Murphy, M. C., Logel, C., Yeager, D. S., Goyer, J. P., Brady, S. T., Emerson, K. T. U., Paunesku, D., Fotuhi, O., Blodorn, A., Boucher, K. L., Carter, E. R., Gopalan, M., Henderson, A., Kroeper, K. M., Murdock-Perriera, L. A., Reeves, S. L., Ablorh, T. T., Ansari, S., … Krol, N. (2023). Where and with whom does a brief social-belonging intervention promote progress in college? *Science, 380*(6644), 499–505. [doi:10.1126/science.ade4420](https://doi.org/10.1126/science.ade4420)"
+    author: Walton, G. M., Murphy, M. C., Logel, C., Yeager, D. S., Goyer, J. P., Brady, S. T., Emerson, K. T. U., Paunesku, D., Fotuhi, O., Blodorn, A., Boucher, K. L., Carter, E. R., Gopalan, M., Henderson, A., Kroeper, K. M., Murdock-Perriera, L. A., Reeves, S. L., Ablorh, T. T., Ansari, S., … Krol, N.
+    q: 3
+    i: "?"
+    n: 26,911 students at 22 institutions
 ---
 
 # Belonging Interventions Improve Outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 2 studies · `q3` peer-reviewed experiment
 
 Brief, targeted interventions that address students' doubts about whether they belong in school can improve academic outcomes, particularly during transitions and for students from groups subject to negative stereotypes about their ability.
 
 ## Subclaims
 
-<!-- TODO -->
+`q3 i?` In a randomized trial with first-year college students, a brief social-belonging intervention raised African American students' GPA over three years and halved the minority achievement gap, and it also improved their self-reported health; European American students were expected to benefit less. [→ Walton & Cohen 2011](#walton-cohen-2011)
+
+`q3 i?` In a randomized experiment with 26,911 students at 22 institutions, a belonging intervention delivered online before college in under 30 minutes raised the rate of completing the first year as a full-time student. The effect was concentrated among groups that had historically progressed at lower rates, and it appeared only where the college gave those groups opportunities to belong. [→ Walton et al. 2023](#walton-et-al-2023)
 
 ## Evidence
 
-<!-- TODO -->
+### Walton & Cohen 2011
+
+Walton, G. M., & Cohen, G. L. (2011). A brief social-belonging intervention improves academic and health outcomes of minority students. *Science, 331*(6023), 1447–1451. [doi:10.1126/science.1198364](https://doi.org/10.1126/science.1198364)
+
+`q3 · peer-reviewed randomized controlled trial` · `i? · no effect size in the abstract read` · `n=92 students (49 African American, 43 European American)`
+
+A randomized controlled trial with 92 first-year college students, followed for three years. The intervention presented social adversity on campus as common and transient, and participants generated the message themselves. Compared with multiple control groups, it raised African American students' GPA and halved the minority achievement gap. The GPA gain was mediated by students no longer reading adversity as a sign that they did not belong. African American students also reported better health and well-being and fewer doctor visits three years later. Only the abstract was read, so no effect size is recorded here.
+
+### Walton et al. 2023
+
+Walton, G. M., Murphy, M. C., Logel, C., Yeager, D. S., Goyer, J. P., Brady, S. T., Emerson, K. T. U., Paunesku, D., Fotuhi, O., Blodorn, A., Boucher, K. L., Carter, E. R., Gopalan, M., Henderson, A., Kroeper, K. M., Murdock-Perriera, L. A., Reeves, S. L., Ablorh, T. T., Ansari, S., … Krol, N. (2023). Where and with whom does a brief social-belonging intervention promote progress in college? *Science, 380*(6644), 499–505. [doi:10.1126/science.ade4420](https://doi.org/10.1126/science.ade4420)
+
+`q3 · peer-reviewed multi-site randomized controlled experiment` · `i? · no effect size in the abstract read` · `n=26,911 students at 22 institutions`
+
+A team-science randomized experiment with 26,911 incoming students at 22 diverse institutions. The belonging intervention was delivered online before college and took under 30 minutes. It raised the rate at which students completed the first year as full-time students, especially students from groups that had historically progressed at lower rates. The context acted as a boundary condition: the intervention worked only where students' groups were afforded opportunities to belong. This qualifies the claim, because a belonging message does not help on its own in an environment that does not support belonging. An erratum was published in 2024 (doi:10.1126/science.ads9718). Only the abstract was read, so no effect size is recorded here.
 
 ## Discussion
 

@@ -70,5 +70,5 @@ Portfolios support learning primarily by requiring learners to review, evaluate,
 ## Key Sources
 - Paulson, F. L., Paulson, P. R., & Meyer, C. A. (1991). What makes a portfolio a portfolio? *Educational Leadership, 48*(5), 60–63.
 - Butler, D. L., & Winne, P. H. (1995). Feedback and self-regulated learning: A theoretical synthesis. *Review of Educational Research, 65*(3), 245–281. [doi:10.3102/00346543065003245](https://doi.org/10.3102/00346543065003245)
-- Moss, P. A., Schutz, A. M., Collins, K. M., & Jacquet, E. G. (2007). Assessment, accountability, and the impossibility of fairness: Questioning the measurement assumptions of portfolio-based teacher assessment. *Educational Assessment, 12*(3–4), 283–307. [doi:10.1080/10627190701643305](https://doi.org/10.1080/10627190701643305)
+- Moss, P. A., Schutz, A. M., Collins, K. M., & Jacquet, E. G. (2007). Assessment, accountability, and the impossibility of fairness: Questioning the measurement assumptions of portfolio-based teacher assessment. *Educational Assessment, 12*(3–4), 283–307.
 - Birenbaum, M. (1996). Assessment 2000: Towards a pluralistic approach to assessment. In M. Birenbaum & F. J. R. C. Dochy (Eds.), *Alternatives in assessment of achievements, learning processes and prior knowledge* (pp. 3–29). Kluwer. [doi:10.1007/978-94-011-0657-3_1](https://doi.org/10.1007/978-94-011-0657-3_1)

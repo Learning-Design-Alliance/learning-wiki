@@ -171,75 +171,81 @@ def run(args) -> None:
     }
     _save_state(state)
 
-    print(f"=== scrape batch {args.label!r} starting: pmc={args.pmc} eric={args.eric} "
-          f"arxiv={args.arxiv} out={args.out} ===", flush=True)
+    if args.resume:
+        # Discovery and fetch already ran for this label: reuse its manifest
+        # (fetch_article caches each text), and generate only what has no
+        # record yet. Delete a record to have it regenerated.
+        print(f"=== scrape batch {args.label!r} resuming from {args.out} ===", flush=True)
+    else:
+        print(f"=== scrape batch {args.label!r} starting: pmc={args.pmc} eric={args.eric} "
+              f"arxiv={args.arxiv} out={args.out} ===", flush=True)
 
-    existing_ids = discover_articles.load_excluded_ids()
-    print(f"Excluding {len(existing_ids)} already-known article id(s) "
-          f"(benchmark manifest + processed-articles registry).", flush=True)
+        existing_ids = discover_articles.load_excluded_ids()
+        print(f"Excluding {len(existing_ids)} already-known article id(s) "
+              f"(benchmark manifest + processed-articles registry).", flush=True)
 
-    topics = discover_articles.topics_from_wiki()
-    state["discover"]["topics_seeded"] = len(topics)
-    _save_state(state)
-
-    targets = {}
-    if args.pmc > 0:
-        targets["pmc"] = args.pmc
-    if args.eric > 0:
-        targets["eric"] = args.eric
-
-    manifest = []
-    if targets:
-        manifest = discover_articles.build_manifest(targets, topics, existing_ids,
-                                                      use_cache=not args.refresh_cache)
-        for source, target in targets.items():
-            entry_source = _SOURCE_KEY_TO_ENTRY_SOURCE[source]
-            found = sum(1 for e in manifest if e["source"] == entry_source)
-            state["discover"]["by_source"][source] = {"found": found, "target": target}
+        topics = discover_articles.topics_from_wiki()
+        state["discover"]["topics_seeded"] = len(topics)
         _save_state(state)
 
-    if args.arxiv > 0:
-        # Always resolved to a local snapshot file — either the explicit
-        # --arxiv-snapshot path, or an on-demand kagglehub download/cache
-        # hit — never the live API; see discover_articles.resolve_arxiv_snapshot().
-        print(f"Resolving arXiv snapshot (explicit path: {args.arxiv_snapshot or '(none — using kagglehub)'})...",
-              flush=True)
-        snapshot_path = discover_articles.resolve_arxiv_snapshot(args.arxiv_snapshot)
-        print(f"Using arXiv snapshot: {snapshot_path}", flush=True)
-        arxiv_entries = discover_articles.build_arxiv_manifest_from_snapshot(
-            snapshot_path, topics, args.arxiv,
-            existing_ids | {e["id"] for e in manifest},
-        )
-        manifest.extend(arxiv_entries)
-        state["discover"]["by_source"]["arxiv"] = {"found": len(arxiv_entries), "target": args.arxiv}
+        targets = {}
+        if args.pmc > 0:
+            targets["pmc"] = args.pmc
+        if args.eric > 0:
+            targets["eric"] = args.eric
+
+        manifest = []
+        if targets:
+            manifest = discover_articles.build_manifest(targets, topics, existing_ids,
+                                                          use_cache=not args.refresh_cache)
+            for source, target in targets.items():
+                entry_source = _SOURCE_KEY_TO_ENTRY_SOURCE[source]
+                found = sum(1 for e in manifest if e["source"] == entry_source)
+                state["discover"]["by_source"][source] = {"found": found, "target": target}
+            _save_state(state)
+
+        if args.arxiv > 0:
+            # Always resolved to a local snapshot file — either the explicit
+            # --arxiv-snapshot path, or an on-demand kagglehub download/cache
+            # hit — never the live API; see discover_articles.resolve_arxiv_snapshot().
+            print(f"Resolving arXiv snapshot (explicit path: {args.arxiv_snapshot or '(none — using kagglehub)'})...",
+                  flush=True)
+            snapshot_path = discover_articles.resolve_arxiv_snapshot(args.arxiv_snapshot)
+            print(f"Using arXiv snapshot: {snapshot_path}", flush=True)
+            arxiv_entries = discover_articles.build_arxiv_manifest_from_snapshot(
+                snapshot_path, topics, args.arxiv,
+                existing_ids | {e["id"] for e in manifest},
+            )
+            manifest.extend(arxiv_entries)
+            state["discover"]["by_source"]["arxiv"] = {"found": len(arxiv_entries), "target": args.arxiv}
+            _save_state(state)
+
+        state["discover"]["done"] = True
+        out_path = Path(args.out)
+        out_path.parent.mkdir(parents=True, exist_ok=True)
+        out_path.write_text(json.dumps({"articles": manifest}, indent=2), encoding="utf-8")
+        print(f"Wrote {len(manifest)} candidate(s) to {out_path}.", flush=True)
+
+        state["status"] = "fetching"
+        state["fetch"]["total"] = len(manifest)
         _save_state(state)
 
-    state["discover"]["done"] = True
-    out_path = Path(args.out)
-    out_path.parent.mkdir(parents=True, exist_ok=True)
-    out_path.write_text(json.dumps({"articles": manifest}, indent=2), encoding="utf-8")
-    print(f"Wrote {len(manifest)} candidate(s) to {out_path}.", flush=True)
+        for entry in manifest:
+            try:
+                text = fetch_article.fetch_article_text(entry)
+                state["fetch"]["ok"] += 1
+                state["fetch"]["results"].append({"id": entry["id"], "ok": True,
+                                                   "chars_or_detail": f"{len(text):,} chars"})
+                print(f"[OK]   {entry['id']:20s} {len(text):>8,} chars — {entry['title'][:60]}", flush=True)
+            except Exception as e:  # noqa: BLE001 - one bad article must not abort the whole batch
+                state["fetch"]["fail"] += 1
+                state["fetch"]["results"].append({"id": entry["id"], "ok": False, "chars_or_detail": str(e)})
+                print(f"[FAIL] {entry['id']:20s} {e}", flush=True)
+            _save_state(state)
 
-    state["status"] = "fetching"
-    state["fetch"]["total"] = len(manifest)
-    _save_state(state)
-
-    for entry in manifest:
-        try:
-            text = fetch_article.fetch_article_text(entry)
-            state["fetch"]["ok"] += 1
-            state["fetch"]["results"].append({"id": entry["id"], "ok": True,
-                                               "chars_or_detail": f"{len(text):,} chars"})
-            print(f"[OK]   {entry['id']:20s} {len(text):>8,} chars — {entry['title'][:60]}", flush=True)
-        except Exception as e:  # noqa: BLE001 - one bad article must not abort the whole batch
-            state["fetch"]["fail"] += 1
-            state["fetch"]["results"].append({"id": entry["id"], "ok": False, "chars_or_detail": str(e)})
-            print(f"[FAIL] {entry['id']:20s} {e}", flush=True)
-        _save_state(state)
-
-    state["fetch"]["done"] = True
-    print(f"=== scrape batch {args.label!r} done: {state['fetch']['ok']}/{state['fetch']['total']} "
-          f"fetched successfully ===", flush=True)
+        state["fetch"]["done"] = True
+        print(f"=== scrape batch {args.label!r} done: {state['fetch']['ok']}/{state['fetch']['total']} "
+              f"fetched successfully ===", flush=True)
 
     if args.model:
         state["status"] = "generating"
@@ -249,8 +255,10 @@ def run(args) -> None:
         gen_cmd = [sys.executable, "-u", "scripts/eval_harness.py", "run",
                    "--models", args.model, "--run-id", args.label,
                    "--manifest", args.out, "--max-tokens", "24000",
-                   "--judges", "--overwrite",
+                   "--judges", "--concurrency", str(args.concurrency),
                    "--max-correction-attempts", str(args.max_correction_attempts)]
+        if not args.resume:
+            gen_cmd.append("--overwrite")
         if args.prompt_version:
             gen_cmd += ["--prompt-version", args.prompt_version]
         gen_rc = _run_chained_step(gen_cmd, SCRAPE_CONSOLE_LOG_PATH)
@@ -412,7 +420,18 @@ def main() -> None:
                               "and re-query live instead — needed to actually exercise a change to "
                               "search_pmc()/search_eric() (e.g. a new filter), since a cache hit skips "
                               "calling them at all. Off by default so repeat batches stay fast/cheap.")
+    parser.add_argument("--concurrency", type=int, default=6,
+                         help="Articles generated in parallel. The harness default is 1, and with GLM's "
+                              "providers taking 4-8 minutes per article a 78-article batch then takes "
+                              "most of a day.")
+    parser.add_argument("--resume", action="store_true",
+                         help="Skip discover and fetch, reuse the manifest at --out, and generate only "
+                              "articles with no record under this --label; then ingest and validate as "
+                              "usual. For a batch stopped after fetch, or one whose bad records were "
+                              "deleted to be regenerated.")
     args = parser.parse_args()
+    if args.resume and not (args.label and args.model):
+        parser.error("--resume needs the --label and --model of the batch being resumed")
     if not args.label:
         args.label = f"scrape-{int(time.time())}"
 

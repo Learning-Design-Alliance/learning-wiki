@@ -73,7 +73,7 @@ The strategy works by pairing a conditioned stimulus (the word) with a consisten
 - A variant used in a bilingual classroom pairs the English word with its Spanish equivalent, and students respond to either form.
 
 ## Key Sources
-- Lemov, D. (2021). *Teach Like a Champion 3.0*. Jossey-Bass. [doi:10.1002/9781119715491](https://doi.org/10.1002/9781119715491)
+- Lemov, D. (2021). *Teach Like a Champion 3.0*. Jossey-Bass.
 - Beck, I. L., McKeown, M. G., & Kucan, L. (2013). *Bringing Words to Life: Robust Vocabulary Instruction* (2nd ed.). Guilford Press.
 - Pavlov, I. P. (1927). *Conditioned Reflexes*. Oxford University Press.
 - Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)

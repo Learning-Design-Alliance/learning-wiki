@@ -3,16 +3,31 @@ type: claim
 title: Block Play Predicts Math Achievement
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: block-play-predicts-math-achievement
 evidence_strength: weak
+sources:
+  - id: verdine-et-al-2014
+    resource: "https://doi.org/10.1111/cdev.12165"
+    title: "Verdine, B. N., Golinkoff, R. M., Hirsh-Pasek, K., Newcombe, N. S., Filipowicz, A. T., & Chang, A. (2014). Deconstructing building blocks: Preschoolers' spatial assembly performance relates to early mathematical skills. *Child Development, 85*(3), 1062–1076. [doi:10.1111/cdev.12165](https://doi.org/10.1111/cdev.12165)"
+    author: "Verdine, B. N., Golinkoff, R. M., Hirsh-Pasek, K., Newcombe, N. S., Filipowicz, A. T., & Chang, A."
+    q: 2
+    i: 2
+    n: 102 children
+  - id: wolfgang-et-al-2001
+    resource: "https://doi.org/10.1080/02568540109594958"
+    title: "Wolfgang, C. H., Stannard, L. L., & Jones, I. (2001). Block play performance among preschoolers as a predictor of later school achievement in mathematics. *Journal of Research in Childhood Education, 15*(2), 173–180. [doi:10.1080/02568540109594958](https://doi.org/10.1080/02568540109594958)"
+    author: "Wolfgang, C. H., Stannard, L. L., & Jones, I."
+    q: 2
+    i: "?"
+    n: 37 children
 ---
 
 # Block Play Predicts Math Achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 2 studies · `q2` quasi-experiment · `i2` medium
 
 Children's spatial construction skill with blocks and other building materials is associated with later mathematics achievement, and structured block play may support spatial and mathematical development.
 
@@ -20,11 +35,27 @@ The claim is deliberately predictive rather than causal: the evidentiary base is
 
 ## Subclaims
 
-<!-- TODO -->
+`q2 i2` Among 3-year-olds, accuracy at copying interlocking-block models correlates with concurrent early mathematics scores, and the relation survives controlling for vocabulary (partial r = .30), but the design is cross-sectional and cannot show direction. [→ Verdine et al. 2014](#verdine-et-al-2014)
+
+`q2 i?` In a small longitudinal cohort, preschool block-play complexity at age 4 predicted 7th-grade standardized math scores and high-school math outcomes after controlling for IQ and gender, but showed no relation to math at 3rd or 5th grade, so the prediction is intermittent rather than consistent. [→ Wolfgang et al. 2001](#wolfgang-et-al-2001)
 
 ## Evidence
 
-<!-- TODO -->
+### Verdine et al. 2014
+
+Verdine, B. N., Golinkoff, R. M., Hirsh-Pasek, K., Newcombe, N. S., Filipowicz, A. T., & Chang, A. (2014). Deconstructing building blocks: Preschoolers' spatial assembly performance relates to early mathematical skills. *Child Development, 85*(3), 1062–1076. [doi:10.1111/cdev.12165](https://doi.org/10.1111/cdev.12165)
+
+`q2 · cross-sectional correlational study with statistical controls` · `i2 · moderate association, partial r = .30 (r = .40) with total math score` · `n=102 children`
+
+102 three-year-olds from lower- and higher-SES families copied interlocking-block models (the Test of Spatial Assembly, TOSA) and took the Early Mathematics Assessment System. Block-copying accuracy correlated r = .40 with the total math score and still correlated at partial r = .30 after vocabulary (PPVT) was controlled; in a regression, block-copying scores accounted for about 15% of the variability in math scores. Differences between SES groups in block construction were already visible at age 3. Both measures were taken at the same time, so the study shows an association, not that block play causes math gains.
+
+### Wolfgang et al. 2001
+
+Wolfgang, C. H., Stannard, L. L., & Jones, I. (2001). Block play performance among preschoolers as a predictor of later school achievement in mathematics. *Journal of Research in Childhood Education, 15*(2), 173–180. [doi:10.1080/02568540109594958](https://doi.org/10.1080/02568540109594958)
+
+`q2 · longitudinal observational study with controls` · `i? · no effect size reported in the abstract` · `n=37 children`
+
+An intact group of 37 four-year-olds at a play-oriented preschool was rated on block-play complexity (Lunzer Five Point Play Scale) in 1982, and their school records were retrieved in 1998. Controlling for IQ and gender, block performance was not related to report-card grades or standardized math scores in 3rd or 5th grade; it was related to standardized math scores (not grades) in 7th grade and to all high-school math outcomes (courses, honors and advanced math courses, grades). The sample is small and from a single preschool, and the null elementary-grade results qualify the claim that block play consistently predicts later math.
 
 ## Discussion
 

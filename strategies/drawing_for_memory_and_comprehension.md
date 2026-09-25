@@ -67,7 +67,7 @@ Drawing works because it combines multiple memory pathways: it engages [Dual Cod
 - **Vocabulary learning**: Wammes and colleagues' experiments had participants draw word definitions rather than write them, producing substantially better free recall [+S].
 
 ## Key Sources
-- Wammes, J. D., Meade, M. E., & Fernandes, M. A. (2016). Learning concepts by drawing pictures. *Quarterly Journal of Experimental Psychology, 69*(9), 1759–1771. [doi:10.1080/17470218.2015.1094605](https://doi.org/10.1080/17470218.2015.1094605)
+- Wammes, J. D., Meade, M. E., & Fernandes, M. A. (2016). Learning concepts by drawing pictures. *Quarterly Journal of Experimental Psychology, 69*(9), 1759–1771.
 - Fiorella, L., & Mayer, R. E. (2016). Eight ways to promote generative learning in multimedia learning: Applying the SOI model. *Educational Psychology Review, 28*(4), 717–741. [doi:10.1007/s10648-015-9348-9](https://doi.org/10.1007/s10648-015-9348-9)
 - Scheiter, K., Schubert, C., & Schüler, A. (2017). Self-generated drawing: A help or hindrance to learning from text? *Journal of Educational Psychology, 109*(5), 669–687.
 - Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press.

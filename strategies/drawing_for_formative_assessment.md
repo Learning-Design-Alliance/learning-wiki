@@ -79,5 +79,5 @@ Drawing is a generative activity: constructing an external visual representation
 ## Key Sources
 - Van Meter, P., & Garner, J. (2005). The promise and practice of learner-generated drawing: Literature review and directions for future research. *Educational Psychology Review, 17*(4), 285–325. [doi:10.1007/s10648-005-8128-3](https://doi.org/10.1007/s10648-005-8128-3)
 - Ainsworth, S., Prain, V., & Tytler, R. (2011). Drawing to learn in science. *Science, 333*(6046), 1096–1097. [doi:10.1126/science.1204153](https://doi.org/10.1126/science.1204153)
-- Quillin, K., & Thomas, S. (2015). Drawing-to-learn: A framework for scholars across disciplines. *CBE—Life Sciences Education, 14*(3), es2. [doi:10.1187/cbe.14-03-0047](https://doi.org/10.1187/cbe.14-03-0047)
+- Quillin, K., & Thomas, S. (2015). Drawing-to-learn: A framework for scholars across disciplines. *CBE—Life Sciences Education, 14*(3), es2.
 - Fiorella, L., & Mayer, R. E. (2016). *Learning as a generative activity: Eight learning strategies that promote understanding.* Cambridge University Press.

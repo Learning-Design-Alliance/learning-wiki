@@ -3,26 +3,57 @@ type: claim
 title: Collaborative Writing Improves Text Quality
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: collaborative-writing-improves-text-quality
 evidence_strength: weak
+sources:
+  - id: graham-and-perin-2007
+    resource: "https://doi.org/10.1037/0022-0663.99.3.445"
+    title: "Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)"
+    author: "Graham, S., & Perin, D."
+    q: 3
+    i: 2
+    n: 7 effect sizes
+  - id: yarrow-and-topping-2001
+    resource: "https://doi.org/10.1348/000709901158514"
+    title: "Yarrow, F., & Topping, K. J. (2001). Collaborative writing: The effects of metacognitive prompting and structured peer interaction. *British Journal of Educational Psychology, 71*(2), 261–282. [doi:10.1348/000709901158514](https://doi.org/10.1348/000709901158514)"
+    author: "Yarrow, F., & Topping, K. J."
+    q: 3
+    i: "?"
+    n: 28 students
 ---
 
 # Collaborative Writing Improves Text Quality
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2` medium
 
 Students who compose texts collaboratively — co-planning, co-drafting, and co-revising with peers — produce written products of higher quality than students writing alone. The claim concerns the quality of the written product, not (yet) gains in individual writing ability.
 
 ## Subclaims
 
-<!-- TODO -->
+`q3 i2` Across seven experimental and quasi-experimental comparisons in Grades 4–12, students who worked together to plan, draft and/or revise their compositions wrote higher-quality texts than students writing alone (weighted mean ES = 0.75, 95% CI 0.54–0.97); all seven effects were positive, but the pool is small. [→ Graham and Perin 2007](#graham-and-perin-2007)
+
+`q3 i?` In one small randomised study of 10–11-year-olds, children who wrote collaboratively in structured pairs made significantly larger pre-post gains in the quality of their *individual* writing than children who wrote alone after the same training; no effect size is given in the abstract. [→ Yarrow and Topping 2001](#yarrow-and-topping-2001)
 
 ## Evidence
 
-<!-- TODO -->
+### Graham and Perin 2007
+
+Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
+
+`q3 · meta-analysis of experimental and quasi-experimental studies` · `i2 · medium effect, weighted mean ES = 0.75 (95% CI 0.54–0.97)` · `n=7 effect sizes`
+
+A meta-analysis of writing-intervention studies with students in Grades 4–12, drawing on 123 documents that yielded 154 effect sizes for writing quality across eleven kinds of instruction. For "peer assistance when writing" — students working together to plan, draft and/or revise their compositions — the authors computed seven effect sizes, every one of which compared the collaborative condition with students writing alone. All seven were positive, the average weighted effect was 0.75, and the variability among effects was attributable to sampling error alone. The authors call the effect large; on this wiki's scale it falls just below the d ≥ 0.8 threshold, and it rests on only seven comparisons, so it is best read as a consistent but thinly sampled result.
+
+### Yarrow and Topping 2001
+
+Yarrow, F., & Topping, K. J. (2001). Collaborative writing: The effects of metacognitive prompting and structured peer interaction. *British Journal of Educational Psychology, 71*(2), 261–282. [doi:10.1348/000709901158514](https://doi.org/10.1348/000709901158514)
+
+`q3 · randomised experiment (matched pairs)` · `i? · no effect size reported in the abstract` · `n=28 students`
+
+Twenty-eight 10- and 11-year-olds in one mixed-ability class were all trained in the Paired Writing system and its metacognitive prompts, then matched by gender and pre-test writing score and randomly assigned to write with a partner (the more able writer tutoring the less able) or alone. Over six weeks, pairs produced five pieces of personal writing collaboratively while the other children wrote the same pieces on their own. Every group improved in the quality of its individual writing, but the children who had written interactively gained significantly more than the lone writers, and there was some evidence of more positive self-esteem as writers. Unlike the main claim, the outcome here is the quality of later individual writing, so it bears on transfer from collaborative to independent writing; the sample is one class, and the abstract gives no effect size.
 
 ## Discussion
 

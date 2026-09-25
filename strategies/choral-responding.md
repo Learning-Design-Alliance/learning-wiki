@@ -71,5 +71,5 @@ Choral responding multiplies active engagement during teacher-led instruction, c
 ## Key Sources
 - Haydon, T., Mancil, G. R., & Van Loan, C. (2009). Using opportunities to respond in a general education classroom: A case study. *Education and Treatment of Children, 32*(2), 267–278.
 - Heward, W. L. (1994). Three "low-tech" strategies for increasing the frequency of active student response during group instruction. In R. Gardner et al. (Eds.), *Behavior analysis in education: Focus on measurably superior instruction* (pp. 283–320). Brooks/Cole.
-- Rosenshine, B. (2012). Principles of instruction: Research-based strategies that all teachers should know. *The Clearing House, 85*(3), 133–144. [doi:10.1080/00098655.2012.658548](https://doi.org/10.1080/00098655.2012.658548)
+- Rosenshine, B. (2012). Principles of instruction: Research-based strategies that all teachers should know. *The Clearing House, 85*(3), 133–144.
 - Kamps, D., Abbott, M., Greenwood, C., Arreaga-Mayer, C., Wills, H., Longstaff, J., Culpepper, M., & Walton, C. (2007). Use of evidence-based, small-group reading instruction for English language learners in elementary grades: Secondary-tier intervention. *Learning Disability Quarterly, 30*(3), 153–168. [doi:10.2307/30035561](https://doi.org/10.2307/30035561)

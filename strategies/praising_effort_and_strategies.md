@@ -67,6 +67,6 @@ Process praise shifts learners' implicit theories of ability toward an increment
 ## Key Sources
 - Mueller, C. M., & Dweck, C. S. (1998). Praise for intelligence can undermine children's motivation and performance. *Journal of Personality and Social Psychology, 75*(1), 33–52. [doi:10.1037/0022-3514.75.1.33](https://doi.org/10.1037/0022-3514.75.1.33)
 - Kamins, M. L., & Dweck, C. S. (1999). Person versus process praise and criticism: Implications for contingent self-worth and coping. *Developmental Psychology, 35*(3), 835–847. [doi:10.1037/0012-1649.35.3.835](https://doi.org/10.1037/0012-1649.35.3.835)
-- Cimpian, A., Arce, H.-M. C., Markman, E. M., & Dweck, C. S. (2007). Generic language in the developmental construction of prejudice and social categories. *Developmental Science, 10*(4), 411–422. [doi:10.1111/j.1467-7687.2007.00598.x](https://doi.org/10.1111/j.1467-7687.2007.00598.x)
+- Cimpian, A., Arce, H.-M. C., Markman, E. M., & Dweck, C. S. (2007). Generic language in the developmental construction of prejudice and social categories. *Developmental Science, 10*(4), 411–422.
 - Pomerantz, E. M., & Kempner, S. G. (2013). Mothers' daily person and process praise: Its implications for children's theory of intelligence and motivation. *Developmental Psychology, 49*(11), 2040–2046. [doi:10.1037/a0031840](https://doi.org/10.1037/a0031840)
 - Dweck, C. S. (2006). *Mindset: The new psychology of success.* Random House.

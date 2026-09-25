@@ -68,4 +68,4 @@ Prediction-then-feedback cycles are a form of self-monitoring practice: the act 
 ## Key Sources
 - Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology, 77*(6), 1121–1134. [doi:10.1037/0022-3514.77.6.1121](https://doi.org/10.1037/0022-3514.77.6.1121)
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
-- Bol, L., & Hacker, D. J. (2012). Calibration of self-assessments in college courses: Accuracy and self-regulation. *Metacognition and Learning, 7*(1), 15–36. [doi:10.1007/s11409-012-9086-4](https://doi.org/10.1007/s11409-012-9086-4)
+- Bol, L., & Hacker, D. J. (2012). Calibration of self-assessments in college courses: Accuracy and self-regulation. *Metacognition and Learning, 7*(1), 15–36.

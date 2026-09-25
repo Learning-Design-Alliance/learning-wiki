@@ -67,7 +67,7 @@ Skimming and scanning depend on efficient eye-movement control and on text featu
 - **SQ3R study method** — the "Survey" step is a structured skim before reading, questioning, and reciting.
 
 ## Key Sources
-- Carver, R. P. (1990). *Reading rate: A review of research and theory*. Academic Press. [doi:10.1016/C2009-0-21674-6](https://doi.org/10.1016/C2009-0-21674-6)
+- Carver, R. P. (1990). *Reading rate: A review of research and theory*. Academic Press.
 - Shanahan, T., & Shanahan, C. (2008). Teaching disciplinary literacy to adolescents: Rethinking content-area literacy. *Harvard Educational Review, 78*(1), 40–59. [doi:10.17763/haer.78.1.v62444321p602101](https://doi.org/10.17763/haer.78.1.v62444321p602101)
 - Rayner, K. (1998). Eye movements in reading and information processing: 20 years of research. *Psychological Bulletin, 124*(3), 372–422. [doi:10.1037/0033-2909.124.3.372](https://doi.org/10.1037/0033-2909.124.3.372)
 - Robinson, F. P. (1970). *Effective study* (4th ed.). Harper & Row.

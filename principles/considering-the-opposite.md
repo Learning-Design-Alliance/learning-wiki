@@ -82,5 +82,5 @@ Because people naturally test hypotheses by seeking confirming evidence, simply 
 - Lord, C. G., Lepper, M. R., & Preston, E. (1984). Considering the opposite: A corrective strategy for social judgment. *Journal of Personality and Social Psychology, 47*(6), 1231–1243. [doi:10.1037/0022-3514.47.6.1231](https://doi.org/10.1037/0022-3514.47.6.1231)
 - Koriat, A., Lichtenstein, S., & Fischhoff, B. (1980). Reasons for confidence. *Journal of Experimental Psychology: Human Learning and Memory, 6*(2), 107–118. [doi:10.1037/0278-7393.6.2.107](https://doi.org/10.1037/0278-7393.6.2.107)
 - Mussweiler, T., Strack, F., & Pfeiffer, T. (2000). Overcoming the inevitable anchoring effect: Considering the opposite compensates for selective accessibility. *Personality and Social Psychology Bulletin, 26*(9), 1142–1150. [doi:10.1177/01461672002611010](https://doi.org/10.1177/01461672002611010)
-- Hergovich, A. (2011). Considering the opposite and the confirmation bias. *Psychology, 2*(6), 577–582. [doi:10.4236/psych.2011.26089](https://doi.org/10.4236/psych.2011.26089)
+- Hergovich, A. (2011). Considering the opposite and the confirmation bias. *Psychology, 2*(6), 577–582.
 - Larrick, R. P. (2004). Debiasing. In D. J. Koehler & N. Harvey (Eds.), *Blackwell Handbook of Judgment and Decision Making* (pp. 316–337). Blackwell.

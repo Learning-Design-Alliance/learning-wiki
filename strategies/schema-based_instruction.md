@@ -68,7 +68,7 @@ Schema-based instruction works because expert problem solving is schema-driven: 
 
 ## Key Sources
 - Xin, Y. P., & Jitendra, A. K. (1999). The effects of instruction in solving mathematical word problems for students with learning problems: A meta-analysis. *The Journal of Special Education, 32*(4), 207-225. [doi:10.1177/002246699903200402](https://doi.org/10.1177/002246699903200402)
-- Jitendra, A. K., George, M. P., Sood, S., & Price, K. (2010). Schema-based instruction: Facilitating students' understanding of linear equations. *Learning Disabilities Quarterly, 33*(3), 179–195. [doi:10.1177/073194871003300304](https://doi.org/10.1177/073194871003300304)
+- Jitendra, A. K., George, M. P., Sood, S., & Price, K. (2010). Schema-based instruction: Facilitating students' understanding of linear equations. *Learning Disabilities Quarterly, 33*(3), 179–195.
 - Jitendra, A. K., et al. (2007). Mathematics instruction for students with learning disabilities: A meta-analysis of instructional components. *Learning Disabilities Research & Practice, 22*(3), 145–157. [doi:10.1007/978-3-642-27702-3_44](https://doi.org/10.1007/978-3-642-27702-3_44)
 - Marshall, S. P. (1995). *Schemas in problem solving*. Cambridge University Press. [doi:10.1017/CBO9780511527890](https://doi.org/10.1017/CBO9780511527890)
 - Cooper, G., & Sweller, J. (1987). Effects of schema acquisition and rule automation on mathematical problem-solving transfer. *Journal of Educational Psychology, 79*(4), 347–362. [doi:10.1037/0022-0663.79.4.347](https://doi.org/10.1037/0022-0663.79.4.347)

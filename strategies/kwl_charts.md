@@ -69,6 +69,6 @@ KWL charts work primarily as [advance organizers](../elements/advance-organizers
 ## Key Sources
 - Ogle, D. M. (1986). K-W-L: A teaching model that develops active reading of expository text. *The Reading Teacher, 39*(6), 564–570. [doi:10.1598/RT.39.6.11](https://doi.org/10.1598/RT.39.6.11)
 - Ogle, D., & Blachowicz, C. L. Z. (2002). Beyond literature circles: Helping students comprehend informational texts. In C. C. Block & M. Pressley (Eds.), *Comprehension instruction: Research-based best practices* (pp. 259–274). Guilford Press.
-- Hapgood, S., & Magnusson, S. J. (2007). Where does goal-directed behavior come from? How children's scientific minds are constructed. *Science Education, 91*(1), 102–116. [doi:10.1002/sce.20172](https://doi.org/10.1002/sce.20172)
+- Hapgood, S., & Magnusson, S. J. (2007). Where does goal-directed behavior come from? How children's scientific minds are constructed. *Science Education, 91*(1), 102–116.
 - Ausubel, D. P. (1968). *Educational psychology: A cognitive view*. Holt, Rinehart & Winston.
 - Carr, E., & Ogle, D. (1987). KWL Plus: A strategy for comprehension and summarization. *Journal of Reading, 30*(7), 626–631.

@@ -66,5 +66,5 @@ The framework works because it replaces exhaustive, page-internal evaluation wit
 ## Key Sources
 - Caulfield, M. (2017). *Web literacy for student fact-checkers... and other people who care about facts.* Pressbooks. [https://webliteracy.pressbooks.com/](https://webliteracy.pressbooks.com/)
 - Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading college and professional fact-checkers. *The Reading Teacher, 72*(5), 585–595.
-- Breakstone, J., Smith, M., Wineburg, S., Lester, A., Ortega, T., & Dreier, S. (2021). Civic online reasoning: Curriculum evaluation with large-scale field trials. *Teachers College Record, 123*(5), 1–48. [doi:10.1177/01614681211018744](https://doi.org/10.1177/01614681211018744)
+- Breakstone, J., Smith, M., Wineburg, S., Lester, A., Ortega, T., & Dreier, S. (2021). Civic online reasoning: Curriculum evaluation with large-scale field trials. *Teachers College Record, 123*(5), 1–48.
 - McGrew, S., Ortega, T., Breakstone, J., & Wineburg, S. (2017). The challenge that's bigger than fake news: Civic reasoning in a social-media environment. *American Educator, 41*(3), 4–9.

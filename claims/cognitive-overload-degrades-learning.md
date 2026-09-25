@@ -3,26 +3,57 @@ type: claim
 title: Cognitive Overload Degrades Learning
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: cognitive-overload-degrades-learning
 evidence_strength:
+sources:
+  - id: noetel-et-al-2022
+    resource: "https://doi.org/10.3102/00346543211052329"
+    title: "Noetel, M., Griffith, S., Delaney, O., Harris, N. R., Sanders, T., Parker, P., del Pozo Cruz, B., & Lonsdale, C. (2022). Multimedia design for learning: An overview of reviews with meta-meta-analysis. *Review of Educational Research, 92*(3), 413–454. [doi:10.3102/00346543211052329](https://doi.org/10.3102/00346543211052329)"
+    author: "Noetel, M., Griffith, S., Delaney, O., Harris, N. R., Sanders, T., Parker, P., del Pozo Cruz, B., & Lonsdale, C."
+    q: 4
+    i: 1
+    n: 29 reviews (1,189 studies, 78,177 participants)
+  - id: sweller-1988
+    resource: "https://doi.org/10.1207/s15516709cog1202_4"
+    title: "Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257–285. [doi:10.1207/s15516709cog1202_4](https://doi.org/10.1207/s15516709cog1202_4)"
+    author: Sweller, J.
+    q: 3
+    i: "?"
+    n: unreported (abstract only)
 ---
 
 # Cognitive Overload Degrades Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 2 studies · `q3`–`q4` · `i1` small
 
 When the demands of a learning task exceed the capacity of working memory, learning suffers. This claim covers the general mechanism; specific load-reduction techniques are treated in their own pages.
 
 ## Subclaims
 
-<!-- TODO -->
+`q4 i1` Across 29 systematic reviews (1,189 studies, 78,177 participants), multimedia designs that cut extraneous load improved learning on average (g = 0.38), and the benefit was far larger for complex, high-element-interactivity materials (g = 0.70) than simple ones (g = 0.20), consistent with overload hurting learning mainly when total demand is high. [→ Noetel et al. 2022](#noetel-et-al-2022)
+
+`q3 i?` Conventional means–ends problem solving uses so much processing capacity that little is left for schema acquisition, which the author supports with a computational model and experimental evidence; the abstract reports no effect size. [→ Sweller 1988](#sweller-1988)
 
 ## Evidence
 
-<!-- TODO -->
+### Noetel et al. 2022
+
+Noetel, M., Griffith, S., Delaney, O., Harris, N. R., Sanders, T., Parker, P., del Pozo Cruz, B., & Lonsdale, C. (2022). Multimedia design for learning: An overview of reviews with meta-meta-analysis. *Review of Educational Research, 92*(3), 413–454. [doi:10.3102/00346543211052329](https://doi.org/10.3102/00346543211052329)
+
+`q4 · overview of systematic reviews with meta-meta-analysis` · `i1 · small-to-moderate average effect, g=0.38 (g=0.70 for complex materials)` · `n=29 reviews (1,189 studies, 78,177 participants)`
+
+An overview of 29 systematic reviews testing how multimedia design affects learning or cognitive load. Pooling the 11 largest reviews (808 effect sizes), load-reducing design principles such as contiguity, signaling, segmenting and removing seductive details improved learning (g = 0.38, 95% CI [0.27, 0.49]). The complexity of the material (element interactivity) moderated these effects: design mattered much more for complex media (g = 0.70) than for simple media (g = 0.20), which the authors read as support for the idea that complex materials are the ones likely to cause cognitive overload without good design. Learner prior knowledge did not significantly moderate effects, so this review offers only weak support for the expertise-reversal part of the account. This is indirect evidence: it tests *reducing* load, not inducing overload.
+
+### Sweller 1988
+
+Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257–285. [doi:10.1207/s15516709cog1202_4](https://doi.org/10.1207/s15516709cog1202_4)
+
+`q3 · peer-reviewed experiments with a computational model` · `i? · no effect size in the abstract` · `n=unreported (abstract only)`
+
+The founding cognitive load paper. It argues that conventional problem solving by means–ends analysis takes up a relatively large amount of cognitive processing capacity, leaving that capacity unavailable for schema acquisition, and so it is an ineffective way to learn. A computational model and experimental evidence are offered in support. Only the abstract was read here, so the experiments' samples and effect sizes are not recorded.
 
 ## Discussion
 

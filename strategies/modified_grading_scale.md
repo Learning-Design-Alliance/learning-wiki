@@ -70,6 +70,6 @@ Grades function best as communication about achievement, not as rewards and puni
 ## Key Sources
 - Feldman, J. (2019). *Grading for equity: What it is, why it matters, and how it can transform schools and classrooms.* Corwin.
 - Guskey, T. R., & Jung, L. A. (2013). *Answers to essential questions about standards, assessments, grading, and reporting.* Corwin.
-- Brookhart, S. M. (2013). How to create and use rubrics for formative assessment and grading. *Theory Into Practice, 52*(3), 162–170. [doi:10.1080/00405841.2013.795956](https://doi.org/10.1080/00405841.2013.795956)
+- Brookhart, S. M. (2013). How to create and use rubrics for formative assessment and grading. *Theory Into Practice, 52*(3), 162–170.
 - Reeves, D. B. (2008). Effective grading practices. *Educational Leadership, 65*(5), 85–87.
 - Wiliam, D. (2011). *Embedded formative assessment.* Solution Tree Press.

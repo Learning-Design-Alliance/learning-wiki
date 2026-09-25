@@ -73,5 +73,5 @@ Synthesis tasks push learners beyond comprehension toward higher-order organizat
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)
 - Bransford, J. D., Brown, A. L., & Cocking, R. R. (Eds.). (2000). *How People Learn: Brain, Mind, Experience, and School* (Expanded ed.). National Academy Press.
-- Wiley, J., Goldman, S. R., Graesser, A. C., Sanchez, C. A., Ash, I. K., & Hemmerich, J. A. (2014). Source evaluation and comprehension in the information age. *Educational Psychology Review, 26*(2), 169–180. [doi:10.1007/s10648-014-9256-3](https://doi.org/10.1007/s10648-014-9256-3)
+- Wiley, J., Goldman, S. R., Graesser, A. C., Sanchez, C. A., Ash, I. K., & Hemmerich, J. A. (2014). Source evaluation and comprehension in the information age. *Educational Psychology Review, 26*(2), 169–180.
 - Chi, M. T. H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219–243. [doi:10.1080/00461520.2014.965823](https://doi.org/10.1080/00461520.2014.965823)

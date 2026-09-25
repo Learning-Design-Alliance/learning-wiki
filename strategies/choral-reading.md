@@ -71,6 +71,6 @@ Choral reading works by pairing a strong oral model with low-stakes group practi
 
 ## Key Sources
 - National Reading Panel (2000). *Teaching children to read: An evidence-based assessment of the scientific research literature on reading and its implications for reading instruction.* National Institute of Child Health and Human Development. [https://www.nichd.nih.gov/research/supported/nrp](https://www.nichd.nih.gov/research/supported/nrp)
-- Koskinen, P. S., & Blum, I. H. (1984). Repeated oral reading and the development of automatic word recognition skills. *Learning Disability Quarterly, 7*(2), 165–170. [doi:10.2307/1510282](https://doi.org/10.2307/1510282)
+- Koskinen, P. S., & Blum, I. H. (1984). Repeated oral reading and the development of automatic word recognition skills. *Learning Disability Quarterly, 7*(2), 165–170.
 - Rasinski, T. V. (2010). *The Fluent Reader: Oral & Silent Reading Strategies for Building Fluency, Word Recognition & Comprehension* (2nd ed.). Scholastic.
 - Paige, D. D., Rasinski, T. C., & Magpuri-Lavell, T. (2012). Is fluent, expressive reading important for high school readers? *Journal of Adolescent & Adult Literacy, 56*(1), 67–76. [doi:10.1002/JAAL.00103](https://doi.org/10.1002/JAAL.00103)

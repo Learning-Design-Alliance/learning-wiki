@@ -65,6 +65,6 @@ Classroom physical characteristics account for a meaningful portion of variance 
 
 ## Key Sources
 - Barrett, P., Zhang, Y., Davies, F., & Barrett, L. (2013). A holistic, multi-level analysis identifying the impact of classroom design on pupils' learning. *Building and Environment, 59*, 678–689. [doi:10.1016/j.buildenv.2012.09.016](https://doi.org/10.1016/j.buildenv.2012.09.016)
-- Wannarka, R., & Ruhl, K. (2008). Seating arrangements as an academically effective classroom management technique. *Support for Learning, 23*(2), 89–93. [doi:10.1111/j.1467-9604.2008.00389.x](https://doi.org/10.1111/j.1467-9604.2008.00389.x)
+- Wannarka, R., & Ruhl, K. (2008). Seating arrangements as an academically effective classroom management technique. *Support for Learning, 23*(2), 89–93.
 - Marx, A., Fuhrer, U., & Hartig, T. (1999). Effects of classroom seating arrangements on children's question-asking. *Learning Environments Research, 2*(3), 249–263. [doi:10.1023/a:1009901922191](https://doi.org/10.1023/a:1009901922191)
 - Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268. [doi:10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)

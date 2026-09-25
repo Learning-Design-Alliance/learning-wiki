@@ -67,7 +67,7 @@ Routines function as classroom-level [chunking](../principles/chunking.md): bund
 
 ## Key Sources
 - Leinhardt, G., Weidman, C., & Hammond, K. M. (1987). Introduction and integration of classroom routines by expert teachers. *Curriculum Inquiry, 17*(2), 135–176. [doi:10.1080/03626784.1987.11075284](https://doi.org/10.1080/03626784.1987.11075284)
-- Rosenshine, B. (2012). Principles of instruction: Research-based strategies that all teachers should know. *American Educator, 36*(1), 12–19. [doi:10.1177/003172171209500106](https://doi.org/10.1177/003172171209500106)
+- Rosenshine, B. (2012). Principles of instruction: Research-based strategies that all teachers should know. *American Educator, 36*(1), 12–19.
 - Emmer, E. T., & Stough, L. M. (2001). Classroom management: A critical part of educational psychology, with implications for teacher education. *Educational Psychologist, 36*(2), 103–112. [doi:10.1207/S15326985EP3602_5](https://doi.org/10.1207/S15326985EP3602_5)
 - Marzano, R. J. (2003). *Classroom management that works: Research-based strategies for every teacher.* ASCD.
 - Kostons, D., van Gog, T., & Paas, F. (2012). Training self-assessment and task-selection skills: A cognitive approach to improving self-regulated learning. *Learning and Instruction, 22*(2), 121–132. [doi:10.1016/j.learninstruc.2011.08.004](https://doi.org/10.1016/j.learninstruc.2011.08.004)

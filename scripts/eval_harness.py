@@ -237,6 +237,7 @@ def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
             "cost_usd": round(total_cost, 6),
             "cost_source": gen.cost_source,
             "generation_id": gen.generation_id,
+            "provider": gen.provider,
         }
         record["raw_text"] = gen.raw_text
 

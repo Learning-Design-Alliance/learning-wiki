@@ -3,26 +3,57 @@ type: claim
 title: Multiple Contrasting Cases Support Abstraction
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: multiple-contrasting-cases-support-abstraction
 evidence_strength: unverified
+sources:
+  - id: alfieri-et-al-2013
+    resource: "https://doi.org/10.1080/00461520.2013.775712"
+    title: "Alfieri, L., Nokes-Malach, T. J., & Schunn, C. D. (2013). Learning through case comparisons: A meta-analytic review. *Educational Psychologist, 48*(2), 87–113. [doi:10.1080/00461520.2013.775712](https://doi.org/10.1080/00461520.2013.775712)"
+    author: "Alfieri, L., Nokes-Malach, T. J., & Schunn, C. D."
+    q: 4
+    i: 2
+    n: 57 experiments (336 tests)
+  - id: gentner-et-al-2003
+    resource: "https://doi.org/10.1037/0022-0663.95.2.393"
+    title: "Gentner, D., Loewenstein, J., & Thompson, L. (2003). Learning and transfer: A general role for analogical encoding. *Journal of Educational Psychology, 95*(2), 393–408. [doi:10.1037/0022-0663.95.2.393](https://doi.org/10.1037/0022-0663.95.2.393)"
+    author: "Gentner, D., Loewenstein, J., & Thompson, L."
+    q: 3
+    i: "?"
+    n: 128 undergraduates (Experiment 2)
 ---
 
 # Multiple Contrasting Cases Support Abstraction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 2 studies · `q3`–`q4` · `i2` medium
 
 Comparing multiple cases that differ on key dimensions helps learners abstract the underlying principles, rather than learning each case as an isolated instance. The claim concerns comparison of *minimally contrasting* cases — cases aligned enough to compare, differing on the dimension to be abstracted.
 
 ## Subclaims
 
-<!-- TODO -->
+`q4 i2` Across 57 experiments (336 tests), case-comparison activities produced greater learning than sequential, single-case or nonanalogous case study, traditional instruction and controls (d = .50); benefits were larger when learners were asked to find similarities, when the principle was given after the comparison, for perceptual content, and on immediate tests. [→ Alfieri et al. 2013](#alfieri-et-al-2013)
+
+`q3 i?` Undergraduates who compared two negotiation cases side by side were more than twice as likely to transfer the underlying principle to a new negotiation as those who studied the same two cases separately (48% vs 19%), showing that comparison, not exposure to multiple cases, drives schema abstraction. [→ Gentner et al. 2003](#gentner-et-al-2003)
 
 ## Evidence
 
-<!-- TODO -->
+### Alfieri et al. 2013
+
+Alfieri, L., Nokes-Malach, T. J., & Schunn, C. D. (2013). Learning through case comparisons: A meta-analytic review. *Educational Psychologist, 48*(2), 87–113. [doi:10.1080/00461520.2013.775712](https://doi.org/10.1080/00461520.2013.775712)
+
+`q4 · meta-analysis (random effects)` · `i2 · medium effect, d=0.50, 95% CI [.44, .56]` · `n=57 experiments (336 tests)`
+
+A random-effects meta-analysis of 57 experiments, in laboratory and classroom settings, comparing case-comparison activities against other ways of studying cases (sequential, single case, nonanalogous) and against traditional instruction and controls. Comparison led to greater learning overall (d = .50). Of 15 candidate moderators, four reliably moderated the effect: asking learners to find similarities, presenting the principle after the comparison, using perceptual content, and testing immediately were each associated with larger gains. The review pools comparison of cases in general; it does not isolate *minimally contrasting* cases, so the page's narrower framing is a subset of what it tests.
+
+### Gentner et al. 2003
+
+Gentner, D., Loewenstein, J., & Thompson, L. (2003). Learning and transfer: A general role for analogical encoding. *Journal of Educational Psychology, 95*(2), 393–408. [doi:10.1037/0022-0663.95.2.393](https://doi.org/10.1037/0022-0663.95.2.393)
+
+`q3 · peer-reviewed randomised experiments (3 studies)` · `i? · no standardised effect size reported; 48% vs 19% transfer, χ²(1, N=128)=11.85, p<.01` · `n=128 undergraduates (Experiment 2)`
+
+Three experiments taught novices negotiation strategies (trade-offs, contingent contracts) from short cases. In Experiment 2, 128 undergraduates were randomly assigned to read two cases on one page and describe their similarities, or to read and describe each case separately; they then negotiated a new lease case. Comparers were more than twice as likely to use the principle in the new negotiation (48% vs 19%), and the benefit held for both strategy types. Experiment 1 found a benefit of comparison over no case study, and Experiment 3 found that more comparison support raised transfer in a face-to-face negotiation. The compared cases were analogous, sharing a principle across different surface stories, rather than contrasting on one dimension.
 
 ## Discussion
 

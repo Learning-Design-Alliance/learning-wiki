@@ -68,7 +68,7 @@ Assigned readings only pay off when learners actually complete them and when cla
 - **Perusall** — a social annotation platform where assigned readings carry embedded questions and peer comments, with analytics on who read and where confusion clustered ([https://www.perusall.com](https://www.perusall.com))
 
 ## Key Sources
-- Daniel, D. B., & Woody, W. D. (2013). Three ways to improve pre-reading: Exploring text alerts with 3M's Fast Break program. *Teaching of Psychology, 40*(4), 309–313. [doi:10.1177/0098628313487467](https://doi.org/10.1177/0098628313487467)
+- Daniel, D. B., & Woody, W. D. (2013). Three ways to improve pre-reading: Exploring text alerts with 3M's Fast Break program. *Teaching of Psychology, 40*(4), 309–313.
 - Halverson, L. R., & Graham, C. R. (2019). Learner engagement in blended learning environments: A conceptual framework. *Online Learning, 23*(2), 249–276. [doi:10.24059/olj.v23i2.1481](https://doi.org/10.24059/olj.v23i2.1481)
 - Novak, G. M., Patterson, E. T., Gavrin, A. D., & Christian, W. (1999). *Just-in-Time Teaching: Blending Active Learning with Web Instruction.* Prentice Hall.
 - Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the Science of Instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)

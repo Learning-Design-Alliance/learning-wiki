@@ -71,5 +71,5 @@ Story mapping works because it externalizes the *schema* of narrative text, givi
 ## Key Sources
 - Boulineau, T., Fore, C., Hagan-Burke, S., & Burke, M. D. (2004). Use of story-mapping to increase the story-grammar text comprehension of elementary students with learning disabilities. *Learning Disability Quarterly, 27*(2), 105–121. [doi:10.2307/1593645](https://doi.org/10.2307/1593645)
 - Stetter, M. E., & Hughes, M. T. (2010). Using story grammar to assist students with learning disabilities and reading difficulties improve their comprehension. *Education and Treatment of Children, 33*(1), 115–151. [doi:10.1353/etc.0.0087](https://doi.org/10.1353/etc.0.0087)
-- Idol, L. (1987). Group story mapping: A comprehension strategy for both skilled and unskilled readers. *Journal of Learning Disabilities, 20*(4), 196–205. [doi:10.1177/002221948702000402](https://doi.org/10.1177/002221948702000402)
+- Idol, L. (1987). Group story mapping: A comprehension strategy for both skilled and unskilled readers. *Journal of Learning Disabilities, 20*(4), 196–205.
 - National Reading Panel (2000). *Teaching children to read: An evidence-based assessment of the scientific research literature on reading and its implications for reading instruction.* National Institute of Child Health and Human Development.

@@ -64,6 +64,6 @@ The strategy works by pairing structured self-affirmation with an authentic audi
 
 ## Key Sources
 - Ewald, W. (2002). *The best part of me: Children talk about their bodies in pictures and words*. Little, Brown and Company.
-- O'Dea, J. A., & Abraham, S. (2000). Improving the body image, eating attitudes, and behaviors of young male and female adolescents: A new educational approach that focuses on self-esteem. *International Journal of Eating Disorders, 28*(1), 43–57. [doi:10.1002/(SICI)1098-108X(200001)28:1<43::AID-EAT6>3.0.CO;2-D](https://doi.org/10.1002/(SICI)1098-108X(200001)28:1<43::AID-EAT6>3.0.CO;2-D)
+- O'Dea, J. A., & Abraham, S. (2000). Improving the body image, eating attitudes, and behaviors of young male and female adolescents: A new educational approach that focuses on self-esteem. *International Journal of Eating Disorders, 28*(1), 43–57.
 - Cohen, G. L., & Sherman, D. K. (2014). The psychology of change: Self-affirmation and social psychological intervention. *Annual Review of Psychology, 65*, 333–371. [doi:10.1146/annurev-psych-010213-115137](https://doi.org/10.1146/annurev-psych-010213-115137)
 - Smolak, L. (2004). Body image in children and adolescents: Where do we go from here? *Body Image, 1*(1), 15–28. [doi:10.1016/S1740-1445(03)00008-1](https://doi.org/10.1016/S1740-1445(03)00008-1)

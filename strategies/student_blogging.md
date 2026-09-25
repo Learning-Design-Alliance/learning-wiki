@@ -75,4 +75,4 @@ Blogging works because it combines generative writing, spaced practice, and auth
 - Yang, S.-H. (2009). Using blogs to enhance critical reflection and community of practice. *Educational Technology & Society, 12*(4), 11–21.
 - Deng, L., & Yuen, A. H. K. (2011). Towards a framework for educational affordances of blogs. *Computers & Education, 56*(2), 441–451. [doi:10.1016/j.compedu.2010.09.005](https://doi.org/10.1016/j.compedu.2010.09.005)
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
-- Churcher, K. M., Downey, E., & Lott, J. (2014). Student engagement and blogging: A case study. *Journal of the Scholarship of Teaching and Learning, 14*(4), 44–57. [doi:10.14434/josotl.v14i4.5305](https://doi.org/10.14434/josotl.v14i4.5305)
+- Churcher, K. M., Downey, E., & Lott, J. (2014). Student engagement and blogging: A case study. *Journal of the Scholarship of Teaching and Learning, 14*(4), 44–57.

@@ -74,5 +74,5 @@ Process-focused praise and feedback produce more persistent, mastery-oriented be
 ## Key Sources
 - Mueller, C. M., & Dweck, C. S. (1998). Praise for intelligence can undermine children's motivation and performance. *Journal of Personality and Social Psychology, 75*(1), 33–52. [doi:10.1037/0022-3514.75.1.33](https://doi.org/10.1037/0022-3514.75.1.33)
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)
-- Cimpian, A., Arce, H.-M. C., Markman, E. M., & Dweck, C. S. (2007). Generic language with "some" signals a category-wide pattern of ability. *Psychological Science, 18*(4), 314–319. [doi:10.1111/j.1467-9280.2007.01900.x](https://doi.org/10.1111/j.1467-9280.2007.01900.x)
+- Cimpian, A., Arce, H.-M. C., Markman, E. M., & Dweck, C. S. (2007). Generic language with "some" signals a category-wide pattern of ability. *Psychological Science, 18*(4), 314–319.
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

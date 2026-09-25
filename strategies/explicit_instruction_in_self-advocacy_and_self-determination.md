@@ -79,6 +79,6 @@ Self-advocacy skills respond to the same instructional conditions as academic sk
 - Shogren, K. A., Wehmeyer, M. L., Palmer, S. B., Rifenbark, G. G., & Little, T. D. (2015). Relationships between self-determination and postschool outcomes for youth with disabilities. *The Journal of Special Education, 48*(4), 256–269. [doi:10.1177/0022466913489733](https://doi.org/10.1177/0022466913489733)
 - Test, D. W., Fowler, C. H., Richter, S. M., White, J., Mazzotti, V., Walker, A. R., Kohler, A., & Kortering, L. (2009). Evidence-based practices in secondary transition. *Career Development for Exceptional Individuals, 32*(2), 115–128.
 - Wehmeyer, M. L., Agran, M., & Hughes, C. (2000). A national survey of teachers' promotion of self-determination and student-directed learning. *The Journal of Special Education, 34*(2), 99–109. [doi:10.1177/002246690003400201](https://doi.org/10.1177/002246690003400201)
-- Wood, W. M., Fowler, C. H., & Test, D. W. (2005). Self-determination instruction: A review of the literature. *Career Development for Exceptional Individuals, 28*(2), 89–113. [doi:10.1177/08857288050280020201](https://doi.org/10.1177/08857288050280020201)
+- Wood, W. M., Fowler, C. H., & Test, D. W. (2005). Self-determination instruction: A review of the literature. *Career Development for Exceptional Individuals, 28*(2), 89–113.
 
 ---

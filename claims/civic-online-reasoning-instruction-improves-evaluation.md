@@ -3,26 +3,74 @@ type: claim
 title: Civic Online Reasoning Instruction Improves Evaluation
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: civic-online-reasoning-instruction-improves-evaluation
 evidence_strength: weak
+sources:
+  - id: wineburg-et-al-2022
+    resource: "https://doi.org/10.1037/edu0000740"
+    title: "Wineburg, S., Breakstone, J., McGrew, S., Smith, M. D., & Ortega, T. (2022). Lateral reading on the open Internet: A district-wide field study in high school government classes. *Journal of Educational Psychology, 114*(5), 893–909. [doi:10.1037/edu0000740](https://doi.org/10.1037/edu0000740)"
+    author: "Wineburg, S., Breakstone, J., McGrew, S., Smith, M. D., & Ortega, T."
+    q: 2
+    i: "?"
+    n: 499 students (271 treatment, 228 control)
+  - id: mcgrew-et-al-2019
+    resource: "https://doi.org/10.1111/bjep.12279"
+    title: "McGrew, S., Smith, M., Breakstone, J., Ortega, T., & Wineburg, S. (2019). Improving university students' web savvy: An intervention study. *British Journal of Educational Psychology, 89*(3), 485–500. [doi:10.1111/bjep.12279](https://doi.org/10.1111/bjep.12279)"
+    author: "McGrew, S., Smith, M., Breakstone, J., Ortega, T., & Wineburg, S."
+    q: 3
+    i: "?"
+    n: 67 students (29 treatment, 38 control)
+  - id: mcgrew-2020
+    resource: "https://doi.org/10.1016/j.compedu.2019.103711"
+    title: "McGrew, S. (2020). Learning to evaluate: An intervention in civic online reasoning. *Computers & Education, 145*, 103711. [doi:10.1016/j.compedu.2019.103711](https://doi.org/10.1016/j.compedu.2019.103711)"
+    author: McGrew, S.
+    q: 2
+    i: "?"
+    n: 68 students
 ---
 
 # Civic Online Reasoning Instruction Improves Evaluation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 3 studies · `q2`–`q3`
 
 Explicit instruction in evaluating online information — including lateral reading, source checking, and attention to evidence — improves learners' ability to judge the credibility of web content.
 
 ## Subclaims
 
-<!-- TODO -->
+`q2 i?` In a district-wide field study, high school government students taught lateral reading in six 50-minute lessons grew significantly more than matched-control peers in judging the credibility of digital content. The abstract reports no effect size. [→ Wineburg et al. 2022](#wineburg-et-al-2022)
+
+`q3 i?` In a small pilot in which four university course sections were randomly assigned, two 75-minute lessons on fact-checker heuristics made treatment students significantly more likely than controls to gain from pretest to a posttest given five weeks later. [→ McGrew et al. 2019](#mcgrew-et-al-2019)
+
+`q2 i?` Eleventh graders given eight lessons on fact-checking strategies improved significantly on three of four constructed-response evaluation tasks, but the design had no control group. [→ McGrew 2020](#mcgrew-2020)
 
 ## Evidence
 
-<!-- TODO -->
+### Wineburg et al. 2022
+
+Wineburg, S., Breakstone, J., McGrew, S., Smith, M. D., & Ortega, T. (2022). Lateral reading on the open Internet: A district-wide field study in high school government classes. *Journal of Educational Psychology, 114*(5), 893–909. [doi:10.1037/edu0000740](https://doi.org/10.1037/edu0000740)
+
+`q2 · quasi-experiment, matched control design` · `i? · no effect size in abstract` · `n=499 students (271 treatment, 228 control)`
+
+The researchers gave teachers professional development, and the teachers then taught six 50-minute lessons on [lateral reading](../strategies/lateral-reading.md) inside a required high school government course in an urban district. Lateral reading means leaving an unfamiliar website to search the open web before trusting the site. Students in treatment classrooms (n = 271) were compared with matched peers in regular classrooms (n = 228), using a multilevel linear mixed model. Treatment students grew significantly more in their ability to judge the credibility of digital content. The ERIC abstract calls the design a matched control design, while the authors' project page calls it cluster-randomized; it is coded here by the abstract, the more conservative reading.
+
+### McGrew et al. 2019
+
+McGrew, S., Smith, M., Breakstone, J., Ortega, T., & Wineburg, S. (2019). Improving university students' web savvy: An intervention study. *British Journal of Educational Psychology, 89*(3), 485–500. [doi:10.1111/bjep.12279](https://doi.org/10.1111/bjep.12279)
+
+`q3 · randomised pilot experiment, four course sections assigned` · `i? · no effect size in abstract` · `n=67 students (29 treatment, 38 control)`
+
+Four sections of a university critical-thinking-and-writing course were randomly assigned to treatment or control. Treatment students received two 75-minute lessons on evaluating the credibility of online content. The online-reasoning assessment was given six weeks before the lessons and again five weeks after. Treatment students were significantly more likely than controls to show gains from pretest to posttest. With only four sections randomised, this is a pilot, and the class-level evidence is thin.
+
+### McGrew 2020
+
+McGrew, S. (2020). Learning to evaluate: An intervention in civic online reasoning. *Computers & Education, 145*, 103711. [doi:10.1016/j.compedu.2019.103711](https://doi.org/10.1016/j.compedu.2019.103711)
+
+`q2 · single-group pre/post design, no control` · `i? · no effect size in abstract` · `n=68 students`
+
+Sixty-eight 11th-grade students took eight lessons on strategies for evaluating digital content, based on how professional fact checkers work. They completed pre- and posttests of four brief constructed-response items. Scores improved significantly on three of the four tasks: investigating a website's source, critiquing evidence, and finding reliable sources in an open internet search. With no comparison group, the gains cannot be separated from practice or maturation. The one task that did not improve is a limit on how general the effect is.
 
 ## Discussion
 

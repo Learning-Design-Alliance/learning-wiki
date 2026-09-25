@@ -73,7 +73,23 @@ def _unescape_record(record: dict) -> dict:
     import html
     if not isinstance(record, dict):
         return record
-    return {k: (html.unescape(v) if isinstance(v, str) else v) for k, v in record.items()}
+    out = {k: (html.unescape(v) if isinstance(v, str) else v) for k, v in record.items()}
+    # Crossref titles carry JATS markup and hard line breaks ("<i>Responsive
+    # Classroom</i>\nApproach", "<scp>D</scp>"). Written as-is they split a
+    # citation line in two, which verify_citation_edits caught on 2026-09-25.
+    for k in ("title", "journal"):
+        if isinstance(out.get(k), str):
+            out[k] = " ".join(re.sub(r"</?[a-zA-Z][^>]*>", "", out[k]).split())
+    return out
+
+
+def _line_overlap(line: str, reg_title: str) -> float:
+    """Share of the registry title's words (4+ letters) found anywhere on the
+    citation line. Pure. Independent of _extract_title_text on purpose."""
+    words = set(re.findall(r"[a-z]{4,}", reg_title.lower()))
+    if not words:
+        return 1.0          # nothing to compare: never evidence of a mismatch
+    return len(words & set(re.findall(r"[a-z]{4,}", line.lower()))) / len(words)
 
 
 def decide(cited: tuple, record: dict, cited_title: str = "") -> dict:
@@ -295,6 +311,9 @@ def main() -> None:
     g.add_argument("--apply", action="store_true", help="write the corrections")
     ap.add_argument("--titles", action="store_true",
                     help="also correct titles, not just journal/volume/pages")
+    ap.add_argument("--all", action="store_true",
+                    help="check every DOI in the wiki, not only those a divergence check flagged; "
+                         "reaches a wrong DOI asserted on a single page, which no other check sees")
     ap.add_argument("--limit", type=int, default=None,
                     help="stop after this many DOIs (each is one Crossref call, cached)")
     args = ap.parse_args()
@@ -336,6 +355,17 @@ def main() -> None:
             if e["doi"]:
                 flagged.add(e["doi"])
 
+    # --all widens the net to DOIs no divergence check flagged. On those,
+    # only a removal or a fully corroborated title fix is acted on; a journal /
+    # volume / page correction is reported instead. With one citation there is
+    # nothing to compare, and the registry record may be a different KIND of
+    # object carrying the same title (a PsycTESTS instrument, a book chapter),
+    # which fix_meta would write in as the journal.
+    lone = set()
+    if args.all:
+        lone = set(by_doi) - flagged
+        flagged |= lone
+    lone_meta_reported = []
     todo = sorted(flagged)[: args.limit] if args.limit else sorted(flagged)
     print(f"{len(flagged)} flagged DOI(s); resolving {len(todo)}.\n", file=sys.stderr)
 
@@ -371,11 +401,23 @@ def main() -> None:
                 continue
 
         for entry in by_doi[doi]:
-            if not entry.get("meta"):
-                continue
             year = entry["key"].rsplit("-", 1)[-1]
-            cited_title = cc._extract_title_text(entry["line"], year)
-            d = decide(entry["meta"], record, cited_title)
+            cited_title = cc._extract_title_text(entry.get("full_line", entry["line"]), year)
+            if not entry.get("meta"):
+                # No journal coordinates on this citation (a book, a report, a
+                # bare title + DOI). Only a missing record is acted on here, and
+                # only once doi.org confirms nobody registered the DOI (below).
+                # A title mismatch is NOT: the title comes from
+                # _extract_title_text, which misreads long author lists, and on
+                # 2026-09-25 that stripped correct DOIs from 49 citations
+                # (Hattie's Visible Learning on 16 pages among them).
+                if not args.all:
+                    continue
+                d = decide((None, None, None, None), _unescape_record(record), cited_title)
+                if d["action"] != "not_found":
+                    continue
+            else:
+                d = decide(entry["meta"], record, cited_title)
             if d["action"] == "none":
                 agreed += 1
                 verified.add(doi)
@@ -390,6 +432,16 @@ def main() -> None:
                 continue
             if d["action"] == "conflict":
                 conflicts.append((doi, entry["source"], d["why"]))
+                continue
+            if doi in lone and d["action"] in ("fix_meta", "fix_title"):
+                lone_meta_reported.append((doi, entry["source"], d["why"]))
+                continue
+            if d["action"] == "strip_doi" and \
+                    _line_overlap(entry.get("full_line", entry["line"]), record.get("title") or "") >= (0.3 if doi in lone else 0.8):
+                # A second test that does not depend on title extraction: how
+                # much of the registry's title appears anywhere on the line.
+                lone_meta_reported.append((doi, entry["source"], "title extraction disagrees "
+                                           "with the line; " + d["why"]))
                 continue
             path = WIKI_ROOT / entry["source"]
             edits.setdefault(path, []).append((doi, d, _unescape_record(record)))
@@ -423,6 +475,34 @@ def main() -> None:
             stripped += 1
     if proven:
         not_found = [(d, s_) for d, s_ in not_found if d not in proven]
+
+    # The handle system settles every other 404. Crossref's absence proves
+    # nothing on its own, but doi.org resolves all registration agencies, so a
+    # DOI it has no handle for does not exist anywhere: nobody registered it.
+    # A lookup that failed (None) changes nothing, as with Crossref.
+    unregistered = set()
+    for doi in sorted({d_ for d_, _ in not_found}):
+        # Ask about the DOI as the page spells it. The shared DOI pattern stops
+        # at "[", so a SICI DOI like 10.1662/0002-7685(2007)69[561:oob]2.0.co;2
+        # arrives truncated, and a truncated DOI is unregistered by definition.
+        spelled = set()
+        for e in nf_entries.get(doi, []):
+            m = re.search(re.escape(doi) + r"[^\s)\"<>]*", e.get("full_line", e["line"]), re.I)
+            if m:
+                spelled.add(m.group(0).rstrip(".,;"))
+        if any(s.lower() != doi.lower() for s in spelled):
+            continue
+        if dr.handle_registered(doi) is False:
+            unregistered.add(doi)
+            for entry in nf_entries[doi]:
+                path = WIKI_ROOT / entry["source"]
+                d = {"action": "strip_doi", "fields": {},
+                     "why": "not registered with any DOI agency (doi.org has no handle for it)"}
+                edits.setdefault(path, []).append((doi, d, {}))
+                print(f"  [unregistered] {entry['source']}: strip_doi — {doi}")
+                stripped += 1
+    if unregistered:
+        not_found = [(d_, s_) for d_, s_ in not_found if d_ not in unregistered]
 
     # Every intended edit that no rewrite actually landed. Tracked because the
     # counters above are *intentions* formed during the decision loop, and a
@@ -513,6 +593,12 @@ def main() -> None:
             print(f"      {action:10} {doi}   {rel}")
     print(f"{agreed} citation(s) already matched the registry.")
     print(f"{skipped} skipped because the lookup failed — an outage is not a verdict.")
+    if lone_meta_reported:
+        print(f"{len(lone_meta_reported)} metadata or title disagreement(s) on DOIs no divergence "
+              f"check flagged: reported, not written (see --all).")
+    if unregistered:
+        print(f"{len(unregistered)} DOI(s) removed because doi.org has no handle for them: "
+              f"not registered with Crossref, DataCite or any other agency.")
     if variant_stripped:
         print(f"{variant_stripped} of the removal(s) were near-identical DOI variants "
               f"({len(proven)} DOI(s)) that Crossref has no record of while a sibling "
@@ -532,7 +618,8 @@ def main() -> None:
         # DOI rather than about coverage.
         strong = [(d, s) for d, s in not_found if prefix_ok.get(d.partition("/")[0], 0) >= 3]
         weak = [(d, s) for d, s in not_found if (d, s) not in strong]
-        print(f"\n{len(not_found)} DOI(s) have no Crossref record. Not stripped — Crossref "
+        print(f"\n{len(not_found)} DOI(s) have no Crossref record but are registered "
+              f"elsewhere (or doi.org could not be reached). Not stripped — Crossref "
               f"does not index DataCite, mEDRA or JaLC registrations.")
         if strong:
             print(f"  {len(strong)} are on a prefix whose other DOIs resolve fine, so that "

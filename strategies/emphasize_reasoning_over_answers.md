@@ -70,7 +70,7 @@ Attending to reasoning converts answer-checking into [Self-Explanation](../eleme
 - **[Case-Based Learning](../patterns/case-based-learning.md)** — in professional education, discussion of reasoning and diagnosis is the point; the "answer" is often deliberately withheld or contested.
 
 ## Key Sources
-- Chi, M. T. H., Roy, M., & Hausmann, R. G. M. (2008). Learning from observing and self-explaining alone: Are both as effective as learning from tutoring? *Applied Cognitive Psychology, 22*(6), 795–822. [doi:10.1002/acp.1412](https://doi.org/10.1002/acp.1412)
+- Chi, M. T. H., Roy, M., & Hausmann, R. G. M. (2008). Learning from observing and self-explaining alone: Are both as effective as learning from tutoring? *Applied Cognitive Psychology, 22*(6), 795–822.
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
 - Durkin, K., & Rittle-Johnson, B. (2012). The effectiveness of using incorrect examples to support learning about decimal magnitude. *Learning and Instruction, 22*(3), 206-214. [doi:10.1016/j.learninstruc.2011.11.001](https://doi.org/10.1016/j.learninstruc.2011.11.001)
 - Boaler, J., & Brodie, K. (2004). The importance, nature, and impact of teacher questions. *Proceedings of the 26th Annual Meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education.*

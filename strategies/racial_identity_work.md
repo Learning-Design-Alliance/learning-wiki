@@ -80,7 +80,7 @@ Racial identity work functions as a form of [Scaffolding](../principles/scaffold
 
 ## Key Sources
 - Helms, J. E. (1995). An update of Helms's White and people of color racial identity models. In J. G. Ponterotto et al. (Eds.), *Handbook of multicultural counseling* (pp. 181–198). Sage.
-- Okonofua, J. A., Walton, G. M., & Eberhardt, J. L. (2016). A vicious cycle: A social–psychological account of extreme racial disparities in school discipline. *Perspectives on Psychological Science, 11*(3), 381–398. [doi:10.1177/1745691615621645](https://doi.org/10.1177/1745691615621645)
+- Okonofua, J. A., Walton, G. M., & Eberhardt, J. L. (2016). A vicious cycle: A social–psychological account of extreme racial disparities in school discipline. *Perspectives on Psychological Science, 11*(3), 381–398.
 - Okonofua, J. A., Paunesku, D., & Walton, G. M. (2016). Brief intervention to encourage empathic discipline cuts suspension rates in half among adolescents. *Proceedings of the National Academy of Sciences, 113*(19), 5221–5226. [doi:10.1073/pnas.1523698113](https://doi.org/10.1073/pnas.1523698113)
 - Gay, G. (2018). *Culturally responsive teaching: Theory, research, and practice* (3rd ed.). Teachers College Press.
 - Beaumont, M. (2011). Identity development and the pursuit of safety: Examining the impact of racial identity work. *Journal of Diversity in Higher Education* — see also Beaumont, M. W. (2010). *The practice of engaging in racial identity work* (Doctoral dissertation, University of Michigan).

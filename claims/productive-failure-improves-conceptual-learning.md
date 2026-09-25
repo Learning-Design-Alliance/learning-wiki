@@ -3,16 +3,31 @@ type: claim
 title: Productive Failure Improves Conceptual Learning
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: productive-failure-improves-conceptual-learning
 evidence_strength: unrated
+sources:
+  - id: sinha-kapur-2021
+    resource: "https://doi.org/10.3102/00346543211019105"
+    title: "Sinha, T., & Kapur, M. (2021). When problem solving followed by instruction works: Evidence for productive failure. *Review of Educational Research, 91*(5), 761–798. [doi:10.3102/00346543211019105](https://doi.org/10.3102/00346543211019105)"
+    author: "Sinha, T., & Kapur, M."
+    q: 4
+    i: 1
+    n: 53 studies (166 comparisons)
+  - id: kapur-2014
+    resource: "https://doi.org/10.1111/cogs.12107"
+    title: "Kapur, M. (2014). Productive failure in learning math. *Cognitive Science, 38*(5), 1008–1022. [doi:10.1111/cogs.12107](https://doi.org/10.1111/cogs.12107)"
+    author: Kapur, M.
+    q: 3
+    i: "?"
+    n: 2 studies (participant count not established from the abstract)
 ---
 
 # Productive Failure Improves Conceptual Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 2 studies · `q3`–`q4` · `i1` small
 
 When learners attempt to solve novel problems *before* receiving canonical instruction, they often perform worse on those attempts but learn more from the subsequent instruction than learners who receive instruction first.
 
@@ -20,11 +35,27 @@ The claim is scoped to *conceptual* outcomes (understanding of underlying princi
 
 ## Subclaims
 
-<!-- TODO -->
+`q4 i1` Across 53 studies and 166 comparisons, problem solving followed by instruction beat instruction followed by problem solving on conceptual knowledge and transfer (g = 0.36), with no difference on procedural knowledge (g = −0.03). The advantage was larger when designs followed productive-failure principles, and it reversed for second to fifth graders and for domain-general skills. [→ Sinha & Kapur 2021](#sinha-kapur-2021)
+
+`q3 i?` In two randomized studies of a new math concept, both sequences produced high procedural knowledge, but students who solved problems before instruction showed greater conceptual understanding and transfer. The number of solutions students generated predicted what they learned. [→ Kapur 2014](#kapur-2014)
 
 ## Evidence
 
-<!-- TODO -->
+### Sinha & Kapur 2021
+
+Sinha, T., & Kapur, M. (2021). When problem solving followed by instruction works: Evidence for productive failure. *Review of Educational Research, 91*(5), 761–798. [doi:10.3102/00346543211019105](https://doi.org/10.3102/00346543211019105)
+
+`q4 · three-level meta-analysis of experimental and quasi-experimental comparisons` · `i1 · small effect, g=0.36` · `n=53 studies (166 comparisons)`
+
+This meta-analysis pooled 166 comparisons from 53 studies. Each set a problem-solving-first design (PS-I) against the same instruction taught first (I-PS). On conceptual knowledge and transfer, the pooled effect favored PS-I (Hedges' g = 0.36, 95% CI [0.20, 0.51]). On the 51 comparisons that measured procedural knowledge, the two orders came out the same (g = −0.03, 95% CI [−0.20, 0.15]). Effects grew when the problem-solving phase followed [productive failure](../elements/invention.md) design criteria: students generated multiple solutions, worked in groups, and received instruction that built on their own solutions (subgroup g between 0.47 and 0.56). Effects reversed and favored instruction first for second to fifth graders and for domain-general skills. That boundary matters for applying the claim to younger learners. The authors' publication-bias-adjusted estimate is g = 0.87, a model-based estimate rather than an observed effect.
+
+### Kapur 2014
+
+Kapur, M. (2014). Productive failure in learning math. *Cognitive Science, 38*(5), 1008–1022. [doi:10.1111/cogs.12107](https://doi.org/10.1111/cogs.12107)
+
+`q3 · two randomized controlled experiments` · `i? · no effect size in the abstract` · `n=2 studies (participant count not established from the abstract)`
+
+Two randomized controlled studies compared teaching a new math concept first with having students solve problems first, even if they failed, and then teaching it. Both orders produced high procedural knowledge. The problem-solving-first students showed significantly greater conceptual understanding and transfer to novel problems. In the second study, students who studied their peers' failed attempts before instruction beat the instruction-first group, but not the students who had solved the problems themselves. How many solutions students generated predicted their learning outcomes. Only the abstract was read, so this entry gives no effect sizes or sample sizes.
 
 ## Discussion
 

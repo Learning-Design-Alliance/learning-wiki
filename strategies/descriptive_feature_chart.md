@@ -69,5 +69,5 @@ The chart works by imposing a category structure on observation, which reduces t
 
 ## Key Sources
 - Nesbit, J. C., & Adesope, O. O. (2006). Learning with concept and knowledge maps: A meta-analysis. *Review of Educational Research, 76*(3), 413–448. [doi:10.3102/00346543076003413](https://doi.org/10.3102/00346543076003413)
-- Stull, A. T., & Mayer, R. E. (2007). Learning by doing versus learning by viewing: Student-generated pictures as a generative activity. *Educational Psychology Review, 19*(3), 359–373. [doi:10.1007/s10648-007-9062-9](https://doi.org/10.1007/s10648-007-9062-9)
+- Stull, A. T., & Mayer, R. E. (2007). Learning by doing versus learning by viewing: Student-generated pictures as a generative activity. *Educational Psychology Review, 19*(3), 359–373.
 - Van Meter, P., & Garner, J. (2005). The promise and practice of learner-generated drawing: Literature review and directions for future research. *Cognitive Science, 29*(4), 649–666. [doi:10.1207/s15516709cog2904_1](https://doi.org/10.1207/s15516709cog2904_1)
