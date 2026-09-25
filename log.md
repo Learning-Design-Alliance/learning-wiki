@@ -10,6 +10,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/multimedia-principle-improves-learning](claims/multimedia-principle-improves-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/learning-strategy-instruction-contextualized-more-effective](claims/learning-strategy-instruction-contextualized-more-effective.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/laptop-notes-verbatim-shallower](claims/laptop-notes-verbatim-shallower.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/peer-discussion-improves-conceptual-understanding](claims/peer-discussion-improves-conceptual-understanding.md) — Evidence filled from Crossref-verified sources (gap-fill)
