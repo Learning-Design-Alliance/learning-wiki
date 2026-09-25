@@ -10,6 +10,14 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/distributed-practice-improves-retention](claims/distributed-practice-improves-retention.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/cooperative-learning-group-rewards-and-individual-accountability](claims/cooperative-learning-group-rewards-and-individual-accountability.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/advance-organizers-improve-learning](claims/advance-organizers-improve-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/dual-coding-improves-recall](claims/dual-coding-improves-recall.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/cognitive-disequilibrium-motivates-conceptual-change](claims/cognitive-disequilibrium-motivates-conceptual-change.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/building-empathy-improves-intergroup-attitudes](claims/building-empathy-improves-intergroup-attitudes.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/multiple-contrasting-cases-support-abstraction](claims/multiple-contrasting-cases-support-abstraction.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/activation-improves-learning](claims/activation-improves-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/feedback-most-effective-at-task-and-process-levels](claims/feedback-most-effective-at-task-and-process-levels.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/cognitive-overload-degrades-learning](claims/cognitive-overload-degrades-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/belonging-interventions-improve-outcomes](claims/belonging-interventions-improve-outcomes.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)

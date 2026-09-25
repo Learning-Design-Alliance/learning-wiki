@@ -1,13 +1,13 @@
 {
  "coverage": {
   "claims->claims": 455,
-  "claims->elements": 125,
+  "claims->elements": 126,
   "claims->learner-variables": 1,
   "claims->methods": 3,
   "claims->patterns": 103,
   "claims->principles": 146,
   "claims->processes": 3,
-  "claims->theories": 284,
+  "claims->theories": 283,
   "elements->claims": 171,
   "elements->elements": 322,
   "elements->learner-variables": 1,
@@ -51550,6 +51550,9 @@
    },
    "advance-organizers": {
     "claims": [
+     {
+      "slug": "activation-improves-learning"
+     },
      {
       "slug": "activation"
      },
@@ -113277,9 +113280,6 @@
      },
      {
       "slug": "adaptive-learning-improves-outcomes"
-     },
-     {
-      "slug": "advance-organizers-improve-learning"
      },
      {
       "slug": "analogical-reasoning-improves-transfer"
