@@ -103,6 +103,18 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-09-25 (evening) — 81 evidence-less claims filled by in-session agents
+
+The gap queue (`priority_worklist.py --queue gap`) went from 304 to 223. Each claim was
+filled by one agent working from `scripts/eval/gapfill/TASK.md`, and the process, with its
+lessons, is in that folder's README. **Read each agent's report before applying its
+draft:** agents coded `i` from an abstract's adjectives, converted eta-squared to d, used
+Crossref's truncated titles and gave one meta-analysis different `q` codes on different
+pages, and each was fixed before commit. Most entries rest on abstracts, which they say.
+**Several filled pages now contradict their own titles** (learner-built graphic organizers
+among them): that is flagged in each Discussion, and renaming is the maintainer's call.
+Near-duplicate pages were filled from their siblings' verified drafts, not merged.
+
 ### 2026-09-25 (later) — batch 4, a bad provider, and a DOI sweep that nearly deleted good DOIs
 
 - **OpenRouter routed 51 of batch 4's 78 GLM calls to OpenInference, and all 51 failed** (22 said "no
