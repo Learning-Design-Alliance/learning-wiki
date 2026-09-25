@@ -3,26 +3,57 @@ type: claim
 title: Case-based learning improves exam performance
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: case-based-learning-improves-exam-performance
 evidence_strength: undetermined
+sources:
+  - id: bonney-2015
+    resource: "https://doi.org/10.1128/jmbe.v16i1.846"
+    title: "Bonney, K. M. (2015). Case Study Teaching Method Improves Student Performance and Perceptions of Learning Gains. *Journal of Microbiology & Biology Education, 16*(1), 21–28. [doi:10.1128/jmbe.v16i1.846](https://doi.org/10.1128/jmbe.v16i1.846)"
+    author: Bonney, K. M.
+    q: 2
+    i: "?"
+    n: 56 students
+  - id: thistlethwaite-et-al-2012
+    resource: "https://doi.org/10.3109/0142159X.2012.680939"
+    title: "Thistlethwaite, J. E., Davies, D., Ekeocha, S., Kidd, J. M., MacDougall, C., Matthews, P., Purkis, J., & Clay, D. (2012). The effectiveness of case-based learning in health professional education. A BEME systematic review: BEME Guide No. 23. *Medical Teacher, 34*(6), e421–e444. [doi:10.3109/0142159X.2012.680939](https://doi.org/10.3109/0142159X.2012.680939)"
+    author: "Thistlethwaite, J. E., Davies, D., Ekeocha, S., Kidd, J. M., MacDougall, C., Matthews, P., Purkis, J., & Clay, D."
+    q: 3
+    i: "?"
+    n: 104 papers
 ---
 
 # Case-based learning improves exam performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 2 studies · `q2`–`q3`
 
 This claim concerns [case-based learning](../elements/case-based-learning.md) — instruction organized around the analysis of realistic, contextualized cases — and its effect on performance on course examinations relative to conventional instruction.
 
 ## Subclaims
 
-<!-- TODO -->
+`q2 i?` In one introductory biology cohort at a community college, exam questions on topics taught through case studies scored higher than matched control questions on topics taught by discussion and textbook reading (an average difference of 18 percentage points; no standardized effect size reported). [→ Bonney 2015](#bonney-2015)
+
+`q3 i?` A systematic review of 104 papers on case-based learning in health professional education found that students enjoy it and believe it helps, but the empirical data as a whole are inconclusive about its effect on learning compared with other activities. This heavily qualifies the claim. [→ Thistlethwaite et al. 2012](#thistlethwaite-et-al-2012)
 
 ## Evidence
 
-<!-- TODO -->
+### Bonney 2015
+
+Bonney, K. M. (2015). Case Study Teaching Method Improves Student Performance and Perceptions of Learning Gains. *Journal of Microbiology & Biology Education, 16*(1), 21–28. [doi:10.1128/jmbe.v16i1.846](https://doi.org/10.1128/jmbe.v16i1.846)
+
+`q2 · quasi-experiment, within-cohort comparison of matched topics, not randomized` · `i? · no standardized effect size reported; mean case-topic scores 70–79% vs control 52–60%` · `n=56 students`
+
+Fifty-six consenting students in a first-semester general biology course at Kingsborough Community College (CUNY) were taught four topics (chemical bonds, osmosis and diffusion, mitosis and meiosis, DNA structure and replication) through [case studies](../elements/case-based-learning.md) and four other topics through short lectures, textbook reading, worksheets and discussion, with equal class time for each. On the same regular course exams, case-taught topics scored higher than control topics matched for format, difficulty and point value, a statistically significant difference for each of the four cases. Case studies written by the course's instructor did no better than published ones by other instructors. The comparison is between different topics rather than randomized groups, so topic difficulty could still differ despite the matching, and the study comes from one instructor.
+
+### Thistlethwaite et al. 2012
+
+Thistlethwaite, J. E., Davies, D., Ekeocha, S., Kidd, J. M., MacDougall, C., Matthews, P., Purkis, J., & Clay, D. (2012). The effectiveness of case-based learning in health professional education. A BEME systematic review: BEME Guide No. 23. *Medical Teacher, 34*(6), e421–e444. [doi:10.3109/0142159X.2012.680939](https://doi.org/10.3109/0142159X.2012.680939)
+
+`q3 · systematic review, narrative synthesis` · `i? · no pooled effect size; the data were judged not amenable to meta-analysis` · `n=104 papers`
+
+A Best Evidence Medical Education review of case-based learning in prequalification programmes in medicine, dentistry, veterinary science, nursing, social care and the allied health professions, searching six databases from 1965 to September 2010. Of 104 coded papers, 23 were rated higher quality. Most studies used a single cohort (61%) and evaluated outcomes only after the intervention (75%), and the variety of interventions ruled out meta-analysis. The authors conclude that students enjoy case-based learning and think it helps them, but that the evidence is inconclusive on whether it improves learning more than other activities, and that any benefit of small-group case work may come from the group learning rather than from the cases.
 
 ## Discussion
 

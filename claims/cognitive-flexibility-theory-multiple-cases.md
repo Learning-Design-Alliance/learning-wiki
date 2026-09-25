@@ -3,26 +3,57 @@ type: claim
 title: Presenting multiple cases from different perspectives supports transfer in ill-structured domains
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: cognitive-flexibility-theory-multiple-cases
 evidence_strength: weak
+sources:
+  - id: jacobson-spiro-1995
+    resource: "https://doi.org/10.2190/4T1B-HBP0-3F7E-J4PN"
+    title: "Jacobson, M. J., & Spiro, R. J. (1995). Hypertext learning environments, cognitive flexibility, and the transfer of complex knowledge: An empirical investigation. *Journal of Educational Computing Research, 12*(4), 301–333. [doi:10.2190/4T1B-HBP0-3F7E-J4PN](https://doi.org/10.2190/4T1B-HBP0-3F7E-J4PN)"
+    author: "Jacobson, M. J., & Spiro, R. J."
+    q: 3
+    i: "?"
+    n: 34
+  - id: alfieri-et-al-2013
+    resource: "https://doi.org/10.1080/00461520.2013.775712"
+    title: "Alfieri, L., Nokes-Malach, T. J., & Schunn, C. D. (2013). Learning through case comparisons: A meta-analytic review. *Educational Psychologist, 48*(2), 87–113. [doi:10.1080/00461520.2013.775712](https://doi.org/10.1080/00461520.2013.775712)"
+    author: "Alfieri, L., Nokes-Malach, T. J., & Schunn, C. D."
+    q: 4
+    i: 2
+    n: 57 experiments (336 tests)
 ---
 
 # Presenting multiple cases from different perspectives supports transfer in ill-structured domains
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 2 studies · `q3`–`q4` · `i2` medium
 
 Cognitive Flexibility Theory holds that ill-structured domains — where concepts vary unpredictably across situations — require learners to encounter the same content in multiple cases and from multiple conceptual perspectives, so knowledge is assembled flexibly rather than stored as a single oversimplified schema.
 
 ## Subclaims
 
-<!-- TODO -->
+`q3 i?` In a small randomised experiment in an ill-structured domain (the social impact of technology), undergraduates who revisited the same cases under several conceptual themes wrote better transfer essays than a drill control, though the drill group scored higher on factual recall. [→ Jacobson & Spiro 1995](#jacobson-spiro-1995)
+
+`q4 i2` Across 57 experiments, having learners compare cases produced more learning than studying single or sequential cases or conventional instruction (d = .50). The analysis did not isolate ill-structured domains or multiple perspectives, and the benefit was larger at immediate testing than after a delay. [→ Alfieri et al. 2013](#alfieri-et-al-2013)
 
 ## Evidence
 
-<!-- TODO -->
+### Jacobson & Spiro 1995
+
+Jacobson, M. J., & Spiro, R. J. (1995). Hypertext learning environments, cognitive flexibility, and the transfer of complex knowledge: An empirical investigation. *Journal of Educational Computing Research, 12*(4), 301–333. [doi:10.2190/4T1B-HBP0-3F7E-J4PN](https://doi.org/10.2190/4T1B-HBP0-3F7E-J4PN)
+
+`q3 · peer-reviewed randomised experiment` · `i? · no standardised effect size reported; Session 4 essays F(1,32) = 7.03, p < .01` · `n=34`
+
+First- and second-year university students were randomly assigned to a treatment based on Cognitive Flexibility Theory or to one of two computer drill controls. The CFT treatment, "Thematic Criss-Crossing Hypertext", had students reread short cases under different combinations of themes. The two drill groups did not differ and were pooled, leaving 17 per group. The drill group scored higher on short-answer factual questions. By the fourth session, however, the criss-crossing group scored higher on problem-solving transfer essays (mean 9.47 vs 7.24 on a 15-point scale), and the difference held after adjusting for verbal ability and the extra study time. The sample is small, all participants were paid volunteers, and the treatment bundled several CFT features, so the study cannot show which feature produced the effect. The numbers here come from the 1993 technical report (ERIC ED355508), which is the version read. The published 1995 article reports the same study, but its text was not read.
+
+### Alfieri et al. 2013
+
+Alfieri, L., Nokes-Malach, T. J., & Schunn, C. D. (2013). Learning through case comparisons: A meta-analytic review. *Educational Psychologist, 48*(2), 87–113. [doi:10.1080/00461520.2013.775712](https://doi.org/10.1080/00461520.2013.775712)
+
+`q4 · meta-analysis (random effects)` · `i2 · medium effect, d = .50, 95% CI [.44, .56]` · `n=57 experiments (336 tests)`
+
+This random-effects meta-analysis covers 57 laboratory and classroom experiments. It compared case-comparison activities with sequential, single-case and non-analogous case study, and with traditional instruction. Comparison produced greater learning overall. Four of 15 candidate moderators held up: the objective of the comparison, the presentation of a principle, the content, and the lag before testing. Benefits were larger when learners looked for similarities, when a principle was given after the comparison, with perceptual content, and with immediate testing. The review supports the multiple-case half of the claim but does not test ill-structured domains or multiple conceptual perspectives specifically. Its finding that benefits are larger at immediate testing cuts against CFT's prediction that the advantage should be largest on delayed transfer. Only the abstract was read.
 
 ## Discussion
 

@@ -10,6 +10,14 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/collaborative-writing-improves-text-quality](claims/collaborative-writing-improves-text-quality.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/cognitive-flexibility-theory-multiple-cases](claims/cognitive-flexibility-theory-multiple-cases.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/analogical-reasoning-improves-transfer](claims/analogical-reasoning-improves-transfer.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/case-based-learning-improves-exam-performance](claims/case-based-learning-improves-exam-performance.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/brief-intervention-empathic-discipline-cuts-suspensions](claims/brief-intervention-empathic-discipline-cuts-suspensions.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/decorative-illustrations-do-not-improve-learning](claims/decorative-illustrations-do-not-improve-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/comparing-contrasting-cases-improves-learning](claims/comparing-contrasting-cases-improves-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/cognitive-load-reduction-improves-learning](claims/cognitive-load-reduction-improves-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/distributed-practice-improves-retention](claims/distributed-practice-improves-retention.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/cooperative-learning-group-rewards-and-individual-accountability](claims/cooperative-learning-group-rewards-and-individual-accountability.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/advance-organizers-improve-learning](claims/advance-organizers-improve-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
