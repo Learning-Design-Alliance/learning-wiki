@@ -10,6 +10,9 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/sel-programs-improve-academic-achievement](claims/sel-programs-improve-academic-achievement.md) — Evidence copied from the verified entry on its near-duplicate sibling page
+* **Ingest**: [claims/spacing-improves-retention](claims/spacing-improves-retention.md) — Evidence copied from the verified entry on its near-duplicate sibling page
+* **Ingest**: [claims/retrieval-practice-improves-learning](claims/retrieval-practice-improves-learning.md) — Evidence copied from the verified entry on its near-duplicate sibling page
 * **Ingest**: [claims/incidental-vocabulary-exposure-limited](claims/incidental-vocabulary-exposure-limited.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/signaling-improves-learning](claims/signaling-improves-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/sel-programs-improve-social-emotional-skills](claims/sel-programs-improve-social-emotional-skills.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
