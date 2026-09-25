@@ -73,7 +73,23 @@ def _unescape_record(record: dict) -> dict:
     import html
     if not isinstance(record, dict):
         return record
-    return {k: (html.unescape(v) if isinstance(v, str) else v) for k, v in record.items()}
+    out = {k: (html.unescape(v) if isinstance(v, str) else v) for k, v in record.items()}
+    # Crossref titles carry JATS markup and hard line breaks ("<i>Responsive
+    # Classroom</i>\nApproach", "<scp>D</scp>"). Written as-is they split a
+    # citation line in two, which verify_citation_edits caught on 2026-09-25.
+    for k in ("title", "journal"):
+        if isinstance(out.get(k), str):
+            out[k] = " ".join(re.sub(r"</?[a-zA-Z][^>]*>", "", out[k]).split())
+    return out
+
+
+def _line_overlap(line: str, reg_title: str) -> float:
+    """Share of the registry title's words (4+ letters) found anywhere on the
+    citation line. Pure. Independent of _extract_title_text on purpose."""
+    words = set(re.findall(r"[a-z]{4,}", reg_title.lower()))
+    if not words:
+        return 1.0          # nothing to compare: never evidence of a mismatch
+    return len(words & set(re.findall(r"[a-z]{4,}", line.lower()))) / len(words)
 
 
 def decide(cited: tuple, record: dict, cited_title: str = "") -> dict:
@@ -386,17 +402,19 @@ def main() -> None:
 
         for entry in by_doi[doi]:
             year = entry["key"].rsplit("-", 1)[-1]
-            cited_title = cc._extract_title_text(entry["line"], year)
+            cited_title = cc._extract_title_text(entry.get("full_line", entry["line"]), year)
             if not entry.get("meta"):
                 # No journal coordinates on this citation (a book, a report, a
-                # bare title + DOI). Nothing can corroborate the DOI against a
-                # title mismatch, and nothing gives fix_meta a field to correct,
-                # so only two outcomes are acted on: the registry's title is a
-                # different paper (strip), or there is no record at all.
+                # bare title + DOI). Only a missing record is acted on here, and
+                # only once doi.org confirms nobody registered the DOI (below).
+                # A title mismatch is NOT: the title comes from
+                # _extract_title_text, which misreads long author lists, and on
+                # 2026-09-25 that stripped correct DOIs from 49 citations
+                # (Hattie's Visible Learning on 16 pages among them).
                 if not args.all:
                     continue
                 d = decide((None, None, None, None), _unescape_record(record), cited_title)
-                if d["action"] not in ("strip_doi", "not_found"):
+                if d["action"] != "not_found":
                     continue
             else:
                 d = decide(entry["meta"], record, cited_title)
@@ -415,8 +433,15 @@ def main() -> None:
             if d["action"] == "conflict":
                 conflicts.append((doi, entry["source"], d["why"]))
                 continue
-            if doi in lone and d["action"] == "fix_meta":
+            if doi in lone and d["action"] in ("fix_meta", "fix_title"):
                 lone_meta_reported.append((doi, entry["source"], d["why"]))
+                continue
+            if d["action"] == "strip_doi" and \
+                    _line_overlap(entry.get("full_line", entry["line"]), record.get("title") or "") >= (0.3 if doi in lone else 0.8):
+                # A second test that does not depend on title extraction: how
+                # much of the registry's title appears anywhere on the line.
+                lone_meta_reported.append((doi, entry["source"], "title extraction disagrees "
+                                           "with the line; " + d["why"]))
                 continue
             path = WIKI_ROOT / entry["source"]
             edits.setdefault(path, []).append((doi, d, _unescape_record(record)))
@@ -457,6 +482,16 @@ def main() -> None:
     # A lookup that failed (None) changes nothing, as with Crossref.
     unregistered = set()
     for doi in sorted({d_ for d_, _ in not_found}):
+        # Ask about the DOI as the page spells it. The shared DOI pattern stops
+        # at "[", so a SICI DOI like 10.1662/0002-7685(2007)69[561:oob]2.0.co;2
+        # arrives truncated, and a truncated DOI is unregistered by definition.
+        spelled = set()
+        for e in nf_entries.get(doi, []):
+            m = re.search(re.escape(doi) + r"[^\s)\"<>]*", e.get("full_line", e["line"]), re.I)
+            if m:
+                spelled.add(m.group(0).rstrip(".,;"))
+        if any(s.lower() != doi.lower() for s in spelled):
+            continue
         if dr.handle_registered(doi) is False:
             unregistered.add(doi)
             for entry in nf_entries[doi]:
@@ -559,8 +594,8 @@ def main() -> None:
     print(f"{agreed} citation(s) already matched the registry.")
     print(f"{skipped} skipped because the lookup failed — an outage is not a verdict.")
     if lone_meta_reported:
-        print(f"{len(lone_meta_reported)} journal/volume/page disagreement(s) on DOIs cited "
-              f"only in agreement with themselves: reported, not written (see --all).")
+        print(f"{len(lone_meta_reported)} metadata or title disagreement(s) on DOIs no divergence "
+              f"check flagged: reported, not written (see --all).")
     if unregistered:
         print(f"{len(unregistered)} DOI(s) removed because doi.org has no handle for them: "
               f"not registered with Crossref, DataCite or any other agency.")

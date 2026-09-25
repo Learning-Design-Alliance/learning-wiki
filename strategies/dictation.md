@@ -73,5 +73,5 @@ Dictation is a form of retrieval practice for orthographic knowledge: producing 
 ## Key Sources
 - Ehri, L. C., Nunes, S. R., Stahl, S. A., & Willows, D. M. (2001). Systematic phonics instruction helps students learn to read: Evidence from the National Reading Panel's meta-analysis. *Review of Educational Research, 71*(3), 393–447. [doi:10.3102/00346543071003393](https://doi.org/10.3102/00346543071003393)
 - Graham, S., & Santangelo, T. (2014). Does spelling instruction make students better spellers, readers, and writers? A meta-analytic review. *Reading and Writing, 27*(9), 1703–1743. [doi:10.1007/s11145-014-9517-0](https://doi.org/10.1007/s11145-014-9517-0)
-- Graham, S., Harris, K. R., & Fink, B. (2000). Extra handwriting instruction made a difference: Handwriting and spelling performance of first graders. *Journal of Educational Research, 94*(1), 55–62. [doi:10.1080/00220670009598744](https://doi.org/10.1080/00220670009598744)
+- Graham, S., Harris, K. R., & Fink, B. (2000). Extra handwriting instruction made a difference: Handwriting and spelling performance of first graders. *Journal of Educational Research, 94*(1), 55–62.
 - Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the Science of Instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)

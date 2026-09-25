@@ -70,5 +70,5 @@ Attribution retraining targets the motivational antecedents of persistence rathe
 ## Key Sources
 - Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review, 92*(4), 548–573. [doi:10.1037/0033-295X.92.4.548](https://doi.org/10.1037/0033-295X.92.4.548)
 - Forsterling, F. (1985). Attributional retraining: A review. *Psychological Bulletin, 98*(3), 495–512. [doi:10.1037/0033-2909.98.3.495](https://doi.org/10.1037/0033-2909.98.3.495)
-- Perry, N. E., & Winne, P. H. (2006). Learning from traces of self-regulation: Preservice teachers' attributions and strategy use. *Learning and Instruction, 16*(3), 223–236. [doi:10.1016/j.learninstruc.2006.04.006](https://doi.org/10.1016/j.learninstruc.2006.04.006)
+- Perry, N. E., & Winne, P. H. (2006). Learning from traces of self-regulation: Preservice teachers' attributions and strategy use. *Learning and Instruction, 16*(3), 223–236.
 - Dweck, C. S. (1975). The role of expectations and attributions in the alleviation of learned helplessness. *Journal of Personality and Social Psychology, 31*(4), 674–685. [doi:10.1037/h0077149](https://doi.org/10.1037/h0077149)

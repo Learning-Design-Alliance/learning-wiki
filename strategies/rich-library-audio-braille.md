@@ -78,4 +78,4 @@ Access to the same content through a preferred sensory modality removes the deco
 - National Reading Panel. (2000). *Teaching children to read: An evidence-based assessment of the scientific research literature on reading and its implications for reading instruction.* National Institute of Child Health and Human Development.
 - Sipe, L. R. (2008). *Storytime: Young children's literary understanding in the classroom.* Teachers College Press.
 - Koenig, A. J., & Holbrook, M. C. (2000). Ensuring high-quality instruction for students in braille literacy programs. *Journal of Visual Impairment & Blindness, 94*(10), 677–694.
-- Woodall, B. (2010). Simultaneous listening and reading: Exploring the multimodal construction of meaning. *Journal of Adolescent & Adult Literacy, 53*(8), 645–656. [doi:10.1598/JAAL.53.8.4](https://doi.org/10.1598/JAAL.53.8.4)
+- Woodall, B. (2010). Simultaneous listening and reading: Exploring the multimodal construction of meaning. *Journal of Adolescent & Adult Literacy, 53*(8), 645–656.

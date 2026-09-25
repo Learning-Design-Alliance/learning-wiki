@@ -70,5 +70,5 @@ Hot seating works by forcing situated perspective-taking: constructing and susta
 ## Key Sources
 - Heathcote, D., & Bolton, G. (1995). *Drama for Learning: Dorothy Heathcote's Mantle of the Expert Approach to Education.* Heinemann.
 - Batson, C. D., Polycarpou, M. P., Harmon-Jones, E., Imhoff, H. J., Mitchener, E. C., Bednar, L. L., Klein, T. R., & Highberger, L. (1997). Empathy and attitudes: Can feeling for a member of a stigmatized group improve feelings toward the group? *Journal of Personality and Social Psychology, 72*(1), 105–126. [doi:10.1037/0022-3514.72.1.105](https://doi.org/10.1037/0022-3514.72.1.105)
-- Ku, G., Wang, C. S., & Galinsky, A. D. (2010). Perception through perspectives: Situated perspective-taking and stereotype reduction. *Journal of Experimental Social Psychology, 46*(6), 1054–1057. [doi:10.1016/j.jesp.2010.06.008](https://doi.org/10.1016/j.jesp.2010.06.008)
+- Ku, G., Wang, C. S., & Galinsky, A. D. (2010). Perception through perspectives: Situated perspective-taking and stereotype reduction. *Journal of Experimental Social Psychology, 46*(6), 1054–1057.
 - Freeman, S., et al. (2014). Active learning increases student performance in science, engineering, and mathematics. *PNAS, 111*(23), 8410–8415. [doi:10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)

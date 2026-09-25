@@ -72,6 +72,6 @@ Interactive read-alouds convert passive listening into [Active Learning](../prin
 
 ## Key Sources
 - Whitehurst, G. J., et al. (1988). Accelerating language development through picture book reading. *Developmental Psychology, 24*(4), 552–559. [doi:10.1037/0012-1649.24.4.552](https://doi.org/10.1037/0012-1649.24.4.552)
-- Swanson, E., et al. (2011). A synthesis of read-aloud interventions in early childhood K–4 settings. *Remedial and Special Education, 32*(4), 311–322. [doi:10.1177/0741932510381651](https://doi.org/10.1177/0741932510381651)
+- Swanson, E., et al. (2011). A synthesis of read-aloud interventions in early childhood K–4 settings. *Remedial and Special Education, 32*(4), 311–322.
 - Fisher, D., Flood, J., Lapp, D., & Frey, N. (2004). Interactive read-alouds: Is there a common set of implementation practices? *The Reading Teacher, 58*(1), 8–17. [doi:10.1598/RT.58.1.1](https://doi.org/10.1598/RT.58.1.1)
 - Beck, I. L., & McKeown, M. G. (2001). Text talk: Capturing the benefits of read-aloud experiences for young children. *The Reading Teacher, 55*(1), 10–20.

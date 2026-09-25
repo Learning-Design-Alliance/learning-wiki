@@ -73,6 +73,6 @@ This strategy aligns with research showing that instruction that builds on stude
 ## Key Sources
 - Lucas, T., Villegas, A. M., & Freedson-Gonzalez, E. (2008). Linguistically responsive teacher education: Preparing classroom teachers to teach English language learners. *Journal of Teacher Education, 59*(4), 361–373. [doi:10.1177/0022487108322110](https://doi.org/10.1177/0022487108322110)
 - García, O., & Wei, L. (2014). *Translanguaging: Language, Bilingualism and Education*. Palgrave Macmillan.
-- Cummins, J. (2007). Rethinking monolingual instructional strategies in multilingual classrooms. *Canadian Modern Language Review, 64*(2), 221–240. [doi:10.3138/cmlr.64.2.221](https://doi.org/10.3138/cmlr.64.2.221)
+- Cummins, J. (2007). Rethinking monolingual instructional strategies in multilingual classrooms. *Canadian Modern Language Review, 64*(2), 221–240.
 - Thomas, W. P., & Collier, V. P. (2002). *A national study of school effectiveness for language minority students' long-term academic achievement*. Center for Research on Education, Diversity & Excellence, University of California, Santa Cruz.
 - Ladson-Billings, G. (1995). Toward a theory of culturally relevant pedagogy. *American Educational Research Journal, 32*(3), 465–491. [doi:10.3102/00028312032003465](https://doi.org/10.3102/00028312032003465)

@@ -69,5 +69,5 @@ Self-talk interventions show reliable small-to-moderate benefits for motor perfo
 ## Key Sources
 - Hatzigeorgiadis, A., Zourbanos, N., Galanis, E., & Theodorakis, Y. (2011). Self-talk and sports performance: A meta-analysis. *Perspectives on Psychological Science, 6*(4), 348–356. [doi:10.1177/1745691611413136](https://doi.org/10.1177/1745691611413136)
 - Kross, E., Bruehlman-Senecal, E., Park, J., et al. (2014). Self-talk as a regulatory mechanism: How you do it matters. *Journal of Personality and Social Psychology, 106*(2), 304–324. [doi:10.1037/a0035173](https://doi.org/10.1037/a0035173)
-- Flueckiger, L., Lieb, R., Meyer, A. H., & Mata, J. (2014). How health behaviors and mood mediate the relationship between self-talk and university students' stress. *Motivation and Emotion, 38*, 576–585. [doi:10.1007/s11031-014-9435-x](https://doi.org/10.1007/s11031-014-9435-x)
+- Flueckiger, L., Lieb, R., Meyer, A. H., & Mata, J. (2014). How health behaviors and mood mediate the relationship between self-talk and university students' stress. *Motivation and Emotion, 38*, 576–585.
 - Wood, J. V., Perunovic, W. Q. E., & Lee, J. W. (2009). Positive self-statements: Power for some, peril for others. *Psychological Science, 20*(7), 860–866. [doi:10.1111/j.1467-9280.2009.02370.x](https://doi.org/10.1111/j.1467-9280.2009.02370.x)

@@ -90,5 +90,5 @@ Curating texts and materials across all three functions supports identity develo
 ## Key Sources
 - Bishop, R. S. (1990). Mirrors, windows, and sliding glass doors. *Perspectives: Choosing and Using Books for the Classroom, 6*(3), ix–xi.
 - Gay, G. (2018). *Culturally Responsive Teaching: Theory, Research, and Practice* (3rd ed.). Teachers College Press.
-- Tschida, C. M., Yingling, E. A., & Buchwald, M. L. (2014). Building on windows and mirrors: Encouraging the disruption of 'single stories' through children's literature. *The Journal of Educational Research, 107*(6), 424–436. [doi:10.1080/00220671.2013.833585](https://doi.org/10.1080/00220671.2013.833585)
+- Tschida, C. M., Yingling, E. A., & Buchwald, M. L. (2014). Building on windows and mirrors: Encouraging the disruption of 'single stories' through children's literature. *The Journal of Educational Research, 107*(6), 424–436.
 - Adichie, C. N. (2009). *The danger of a single story* [TED Talk]. TED Conferences. https://www.ted.com/talks/chimamanda_ngozi_adichie_the_danger_of_a_single_story

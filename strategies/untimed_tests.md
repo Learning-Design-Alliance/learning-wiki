@@ -70,5 +70,5 @@ Time pressure consumes working memory resources through worry and monitoring rat
 - Cassady, J. C., & Johnson, R. E. (2002). Cognitive test anxiety and academic performance. *Contemporary Educational Psychology, 27*(2), 270–295. [doi:10.1006/ceps.2001.1094](https://doi.org/10.1006/ceps.2001.1094)
 - Pekrun, R. (2006). The control-value theory of achievement emotions: Assumptions, corollaries, and implications for educational research and practice. *Educational Psychology Review, 18*(4), 315–341. [doi:10.1007/s10648-006-9029-9](https://doi.org/10.1007/s10648-006-9029-9)
 - Zeidner, M. (1998). *Test anxiety: The state of the art*. Plenum Press.
-- Lindstrom, J. H. (2019). Predictors of extended time accommodation use and performance on standardized assessments. *Psychology in the Schools, 56*(8), 1299–1311. [doi:10.1002/pits.22259](https://doi.org/10.1002/pits.22259)
+- Lindstrom, J. H. (2019). Predictors of extended time accommodation use and performance on standardized assessments. *Psychology in the Schools, 56*(8), 1299–1311.
 

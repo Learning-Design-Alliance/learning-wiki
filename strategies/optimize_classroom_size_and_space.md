@@ -69,6 +69,6 @@ Physical conditions operate as a background layer that enables or undermines oth
 ## Key Sources
 - Glass, G. V., & Smith, M. L. (1978). *Meta-analysis of research on class size and its relationship to attitudes and instruction.* Laboratory of Educational Research, University of Colorado.
 - Finn, J. D., & Achilles, C. M. (1999). Tennessee's class size study: Findings, implications, misconceptions. *Educational Evaluation and Policy Analysis, 21*(2), 97–109. [doi:10.3102/01623737021002097](https://doi.org/10.3102/01623737021002097)
-- Tanner, K. D. (2009). Talking to learn: Why students need to discuss during class... and how to make it happen. See also Tanner, K. D. (2009). Student-centered active learning classroom redesign. *CBE—Life Sciences Education, 8*(3), 189–195. [doi:10.1187/cbe.08-12-0119](https://doi.org/10.1187/cbe.08-12-0119)
+- Tanner, K. D. (2009). Talking to learn: Why students need to discuss during class... and how to make it happen. See also Tanner, K. D. (2009). Student-centered active learning classroom redesign. *CBE—Life Sciences Education, 8*(3), 189–195.
 - Wannarka, R., & Ruhl, K. (2008). Seating arrangements that promote positive academic and behavioural outcomes: A review of empirical research. *Support for Learning, 23*(2), 89–93. [doi:10.1111/j.1467-9604.2008.00375.x](https://doi.org/10.1111/j.1467-9604.2008.00375.x)
 - Hattie, J. (2009). *Visible learning: A synthesis of over 800 meta-analyses relating to achievement.* Routledge. [doi:10.4324/9780203887332](https://doi.org/10.4324/9780203887332)

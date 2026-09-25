@@ -9,8 +9,7 @@ generated:
 evidence_strength: weak
 sources:
   - id: german-and-barrett-2005
-    resource: "https://doi.org/10.1111/j.0956-7976.2005.00775.x"
-    title: "German, T. P., & Barrett, H. C. (2005). Functional fixedness in a technologically sparse culture. *Psychological Science, 16*(1), 1-5. [doi:10.1111/j.0956-7976.2005.00775.x](https://doi.org/10.1111/j.0956-7976.2005.00775.x)"
+    title: "German, T. P., & Barrett, H. C. (2005). Functional fixedness in a technologically sparse culture. *Psychological Science, 16*(1), 1-5."
     author: "German, T. P., & Barrett, H. C."
     q: 2
     i: 1
@@ -41,7 +40,7 @@ Functional fixedness is a tendency to regard the functions of objects and ideas 
 
 ### German and Barrett 2005
 
-German, T. P., & Barrett, H. C. (2005). Functional fixedness in a technologically sparse culture. *Psychological Science, 16*(1), 1-5. [doi:10.1111/j.0956-7976.2005.00775.x](https://doi.org/10.1111/j.0956-7976.2005.00775.x)
+German, T. P., & Barrett, H. C. (2005). Functional fixedness in a technologically sparse culture. *Psychological Science, 16*(1), 1-5.
 
 `q2 · experimental study` · `i1 · demonstrates the effect exists cross-culturally, not a specific effect-size claim from the secondary source` · `n=unreported in secondary source`
 

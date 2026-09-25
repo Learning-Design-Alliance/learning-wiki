@@ -66,6 +66,6 @@ Line awareness is a component of handwriting legibility, and explicit, structure
 
 ## Key Sources
 - Berninger, V. W., Vaughan, K. B., Abbott, R. D., Begay, K., Coleman, K. B., Curtin, G., Hawkins, J. M., & Graham, S. (1997). Treatment of handwriting problems in beginning writers: Transfer from handwriting to composition. *Journal of Educational Psychology, 89*(4), 652–666. [doi:10.1037/0022-0663.89.4.652](https://doi.org/10.1037/0022-0663.89.4.652)
-- Denton, P. L., Cope, S., & Moser, C. (2006). The effects of sensorimotor-based versus perceptual-motor-based interventions on handwriting performance in first-grade students. *American Journal of Occupational Therapy, 60*(4), 372–378. [doi:10.5014/ajot.60.4.372](https://doi.org/10.5014/ajot.60.4.372)
+- Denton, P. L., Cope, S., & Moser, C. (2006). The effects of sensorimotor-based versus perceptual-motor-based interventions on handwriting performance in first-grade students. *American Journal of Occupational Therapy, 60*(4), 372–378.
 - Graham, S. (2010). Want to improve children's writing? Don't neglect their handwriting. *American Educator, 33*(4), 20–40.
 - Graham, S., Harris, K. R., Mason, L., Fink-Chorzempa, B., Moran, S., & Saddler, B. (2008). How do primary grade teachers teach handwriting? A national survey. *Reading and Writing, 21*(1–2), 49–69. [doi:10.1007/s11145-007-9064-z](https://doi.org/10.1007/s11145-007-9064-z)

@@ -69,6 +69,6 @@ Leveled reading is an application of [Cognitive Load Management](../principles/c
 ## Key Sources
 - Fountas, I. C., & Pinnell, G. S. (1996). *Guided Reading: Good First Teaching for All Children*. Heinemann.
 - Ehri, L. C. (2005). Learning to read words: Theory, findings, and issues. *Scientific Studies of Reading, 9*(2), 167–188. [doi:10.1207/s1532799xssr0902_4](https://doi.org/10.1207/s1532799xssr0902_4)
-- O'Connor, R. E., Harty, K. R., & Fulmer, D. (2005). Tiers of intervention in kindergarten through third grade. *Journal of Learning Disabilities, 38*(6), 532–538. [doi:10.1177/00222194050380040301](https://doi.org/10.1177/00222194050380040301)
+- O'Connor, R. E., Harty, K. R., & Fulmer, D. (2005). Tiers of intervention in kindergarten through third grade. *Journal of Learning Disabilities, 38*(6), 532–538.
 - Shanahan, T. (2013). Letting the text take center stage: How the Common Core State Standards will transform English language instruction. *American Educator, 37*(3), 12–17.
 - Hiebert, E. H. (2017). *Teaching Words and How They Work: Small Changes in Teaching Vocabulary Can Create Big Gains in Reading Achievement*. Teachers College Press.

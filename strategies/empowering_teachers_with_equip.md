@@ -83,6 +83,6 @@ EQUIP works by making the invisible visible: teachers' implicit calling patterns
 ## Key Sources
 - Reinholz, D. L., & Shah, N. (2018). Equity analytics: A methodological approach for quantifying participation patterns in mathematics classroom discourse. *Journal for Research in Mathematics Education, 49*(2), 140–177. [doi:10.5951/jresematheduc.49.2.0140](https://doi.org/10.5951/jresematheduc.49.2.0140)
 - Reinholz, D. L., Stone-Johnstone, A., & Shah, N. (2020). A developmental approach to dismantling anti-Black racism in undergraduate science classrooms. *Journal of College Science Teaching, 49*(6), 20–25.
-- Shah, N., & Lewis, C. M. (2019). Tracing an approach to teaching and learning equity: A historical case study of EQUIP. *International Journal of STEM Education, 6*, 32. [doi:10.1186/s40594-019-0182-4](https://doi.org/10.1186/s40594-019-0182-4)
-- Reinholz, D. L., & Andrews, T. C. (2020). Change theory: A theoretical approach to guide organizational change efforts in higher education. *Journal of Educational Change, 21*, 335–359. [doi:10.1007/s10833-019-09364-z](https://doi.org/10.1007/s10833-019-09364-z)
+- Shah, N., & Lewis, C. M. (2019). Tracing an approach to teaching and learning equity: A historical case study of EQUIP. *International Journal of STEM Education, 6*, 32.
+- Reinholz, D. L., & Andrews, T. C. (2020). Change theory: A theoretical approach to guide organizational change efforts in higher education. *Journal of Educational Change, 21*, 335–359.
 - Brinkmann, S., & Kvale, S. (2015). *InterViews: Learning the craft of qualitative research interviewing* (3rd ed.). Sage.

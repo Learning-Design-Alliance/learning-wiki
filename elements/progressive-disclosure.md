@@ -71,7 +71,7 @@ Progressive disclosure manages intrinsic load by preventing the simultaneous pre
 **[Codecademy](https://www.codecademy.com)** — early lessons expose only a minimal API surface; additional language features and tooling appear in later modules as prerequisite fluency is established.
 
 ## Key Sources
-- Mayer, R. E., & Chandler, P. (2001). When learning is harder than it has to be: Simultaneous, successive, and segmented multimedia presentations. *Journal of Educational Psychology, 93*(3), 638–650. [doi:10.1037/0022-0663.93.3.638](https://doi.org/10.1037/0022-0663.93.3.638)
+- Mayer, R. E., & Chandler, P. (2001). When learning is harder than it has to be: Simultaneous, successive, and segmented multimedia presentations. *Journal of Educational Psychology, 93*(3), 638–650.
 - Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the Science of Instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)
 - Sweller, J., van Merriënboer, J. J. G., & Paas, F. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251–296. [doi:10.1023/A:1022193728205](https://doi.org/10.1023/A:1022193728205)
 - Reigeluth, C. M., & Stein, F. S. (1983). The elaboration theory of instruction. In C. M. Reigeluth (Ed.), *Instructional-Design Theories and Models*. Lawrence Erlbaum Associates.

@@ -69,7 +69,7 @@ Error normalization works by reducing the threat response that otherwise causes 
 - **Resubmission policies in writing courses:** drafts are graded on revision quality, making the first draft's errors the expected raw material of the writing process.
 
 ## Key Sources
-- Moser, J. S., Schroder, H. S., Heeter, C., Moran, T. P., & Lee, Y. H. (2011). Mind your errors: Investigating an adaptive mechanism for growth mindset–related psychological responses to errors. *Psychological Science, 22*(12), 1484–1489. [doi:10.1177/0956797611419521](https://doi.org/10.1177/0956797611419521)
+- Moser, J. S., Schroder, H. S., Heeter, C., Moran, T. P., & Lee, Y. H. (2011). Mind your errors: Investigating an adaptive mechanism for growth mindset–related psychological responses to errors. *Psychological Science, 22*(12), 1484–1489.
 - Edmondson, A. (1999). Psychological safety and learning behavior in work teams. *Administrative Science Quarterly, 44*(2), 350–383. [doi:10.2307/2666999](https://doi.org/10.2307/2666999)
 - Kapur, M. (2016). Examining productive failure, productive success, unproductive failure, and unproductive success in learning. *Educational Psychologist, 51*(2), 289–299. [doi:10.1080/00461520.2016.1155457](https://doi.org/10.1080/00461520.2016.1155457)
 - Dweck, C. S. (2006). *Mindset: The new psychology of success.* Random House.

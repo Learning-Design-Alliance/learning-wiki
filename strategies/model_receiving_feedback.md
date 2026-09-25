@@ -74,6 +74,6 @@ Feedback only improves learning when recipients actively process and use it, yet
 
 ## Key Sources
 - Carless, D., & Boud, D. (2018). The development of student feedback literacy: Enabling uptake of feedback. *Assessment & Evaluation in Higher Education, 43*(8), 1315–1325. [doi:10.1080/02602938.2018.1463354](https://doi.org/10.1080/02602938.2018.1463354)
-- Winstone, N. E., Nash, R. A., Parker, M., & Rowntree, J. (2017). Supporting learners to engage with feedback: The development of a feedback recipient self-efficacy scale. *Studies in Higher Education, 42*(2), 372–391. [doi:10.1080/03075079.2015.1045055](https://doi.org/10.1080/03075079.2015.1045055)
+- Winstone, N. E., Nash, R. A., Parker, M., & Rowntree, J. (2017). Supporting learners to engage with feedback: The development of a feedback recipient self-efficacy scale. *Studies in Higher Education, 42*(2), 372–391.
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
 - Bandura, A. (1977). Social learning theory. *Englewood Cliffs, NJ: Prentice Hall.*

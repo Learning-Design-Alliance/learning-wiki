@@ -68,6 +68,6 @@ Combining strategies is a form of personalization: it treats self-regulation as 
 
 ## Key Sources
 - Case-Smith, J., Weaver, L. L., & Fristad, M. A. (2015). A systematic review of sensory processing interventions for children with autism spectrum disorders. *Autism, 19*(2), 133–148. [doi:10.1177/1362361313517762](https://doi.org/10.1177/1362361313517762)
-- Pfeiffer, B., Kinnealey, M., Reed, C., & Herzberg, G. (2005). Sensory modulation and effective coping: Examining the effect of a sensory-based approach for adults with sensory modulation dysfunction. *Occupational Therapy International, 12*(1), 42–60. [doi:10.1002/oti.16](https://doi.org/10.1002/oti.16)
+- Pfeiffer, B., Kinnealey, M., Reed, C., & Herzberg, G. (2005). Sensory modulation and effective coping: Examining the effect of a sensory-based approach for adults with sensory modulation dysfunction. *Occupational Therapy International, 12*(1), 42–60.
 - Diamond, A., & Lee, K. (2011). Interventions shown to aid executive function development in children 4 to 12 years old. *Science, 333*(6045), 959–964. [doi:10.1126/science.1204529](https://doi.org/10.1126/science.1204529)
 - Ayres, A. J. (1972). *Sensory integration and learning disorders.* Western Psychological Services.

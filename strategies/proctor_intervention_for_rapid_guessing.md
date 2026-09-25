@@ -75,5 +75,5 @@ Rapid guessing is better treated as a motivational signal than as misconduct: di
 ## Key Sources
 - Wise, S. L., & Kong, X. J. (2005). Response time effort: A new measure of examinee motivation in computer-based tests. *Applied Measurement in Education, 18*(2), 163–183. [doi:10.1207/s15324818ame1802_2](https://doi.org/10.1207/s15324818ame1802_2)
 - Meade, A. W., & Craig, S. B. (2012). Identifying careless responses in survey data. *Psychological Methods, 17*(3), 437–455. [doi:10.1037/a0028085](https://doi.org/10.1037/a0028085)
-- Rios, J. A., Guo, H., Mao, L., & Liu, O. L. (2017). Sociodemographic differences in test-taking behavior: An investigation of the rapid-guessing behavior in low-stakes tests. *Educational Measurement: Issues and Practice, 36*(3), 6–18. [doi:10.1111/emip.12161](https://doi.org/10.1111/emip.12161)
+- Rios, J. A., Guo, H., Mao, L., & Liu, O. L. (2017). Sociodemographic differences in test-taking behavior: An investigation of the rapid-guessing behavior in low-stakes tests. *Educational Measurement: Issues and Practice, 36*(3), 6–18.
 - Wise, S. L. (2017). Rapid-guessing behavior: Its identification, interpretation, and implications. *Educational Measurement: Issues and Practice, 36*(4), 52–61. [doi:10.1111/emip.12165](https://doi.org/10.1111/emip.12165)

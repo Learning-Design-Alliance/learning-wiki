@@ -69,5 +69,5 @@ Shadowing is a form of immersive, first-person inquiry that surfaces the gap bet
 - Donaldson, G. (2006). Cultivating leadership in schools: Connecting people, purpose, and practice (2nd ed.). *Teachers College Press.*
 - Kelley, T., & Kelley, D. (2013). *Creative confidence: Unleashing the creative potential within us all.* Crown Business. (Basis for the empathy-focused design methods behind the Shadow a Student Challenge)
 - Lortie, D. C. (1975). *Schoolteacher: A sociological study.* University of Chicago Press. (Documents how educators' apprenticeship of observation shapes assumptions about schooling)
-- Goodwin, L. D., & Goodwin, W. L. (1985). Statistical tricks in advertising. *Journal of Advertising, 14*(2), 43–52. [doi:10.1080/00913367.1985.10672946](https://doi.org/10.1080/00913367.1985.10672946) — see instead: qualitative observation methodology in classroom research (observer effects) is treated in Evertson & Green's chapter on observation in *Handbook of Research on Teaching* (Macmillan).
+- Goodwin, L. D., & Goodwin, W. L. (1985). Statistical tricks in advertising. *Journal of Advertising, 14*(2), 43–52. — see instead: qualitative observation methodology in classroom research (observer effects) is treated in Evertson & Green's chapter on observation in *Handbook of Research on Teaching* (Macmillan).
 

@@ -70,7 +70,7 @@ Systematic, explicit phonics produces stronger word-reading and generalization o
 ## Key Sources
 - Ehri, L. C., Nunes, S. R., Willows, D. M., & Schuster, B. V. (2001). Phonemic awareness instruction helps children learn to read: Evidence from the National Reading Panel's meta-analysis. *Reading Research Quarterly, 36*(3), 250–287.
 - Ehri, L. C. (2005). Learning to read words: Theory, findings, and issues. *Scientific Studies of Reading, 9*(2), 167–188. [doi:10.1207/s1532799xssr0902_4](https://doi.org/10.1207/s1532799xssr0902_4)
-- Archer, A. L., & Hughes, C. A. (2011). *Explicit instruction: Effective and efficient teaching*. Guilford Press. [doi:10.4324/9780203866271](https://doi.org/10.4324/9780203866271)
+- Archer, A. L., & Hughes, C. A. (2011). *Explicit instruction: Effective and efficient teaching*. Guilford Press.
 - Dehaene, S. (2009). *Reading in the brain: The new science of how we read*. Viking.
 - National Reading Panel. (2000). *Teaching children to read: An evidence-based assessment of the scientific research literature on reading and its implications for reading instruction*. National Institute of Child Health and Human Development.
 }

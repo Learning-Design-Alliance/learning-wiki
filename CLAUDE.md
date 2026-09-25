@@ -103,6 +103,33 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-09-25 (later) — batch 4, a bad provider, and a DOI sweep that nearly deleted good DOIs
+
+- **OpenRouter routed 51 of batch 4's 78 GLM calls to OpenInference, and all 51 failed** (22 said "no
+  article text was supplied" to a 28k-token prompt carrying the article). `openrouter_client` now sends
+  `provider.ignore` (`OPENROUTER_IGNORE_PROVIDERS`, default `OpenInference`) and every record stores
+  `generation.provider`. Check pass rate by provider before blaming a prompt. After the fix: 73/78 pass.
+- **ERIC discovery filters on `e_fulltextauth:1`**, ERIC's own "we host the full text" flag: 58/60 fetched,
+  against 32/125 under the old ED-prefix rule. **arXiv works without Kaggle credentials**:
+  `kagglehub.dataset_download('Cornell-University/arxiv')` downloads anonymously (5.5 GB, cached).
+- `run_scrape_batch.py` gained `--resume` (skip discover/fetch, regenerate only missing records) and
+  `--concurrency` (default 6; sequential GLM took ~5 min per article).
+- **A DOI with no doi.org handle does not exist anywhere**, and `resolve_citation_metadata.py` now removes
+  it (`doi_resolver.handle_registered`; a failed lookup is `None` and changes nothing). `--all` extends
+  the run to DOIs no divergence check flagged. **Its first version removed correct DOIs from 49
+  citations** (Hattie's *Visible Learning* on 16 pages), because `check_citations` stores each citation
+  line cut to 160 characters, so a long author list pushes the title past the cut and the title test
+  compares against a fragment. Records now carry `full_line`, title reads use it, a title-based removal
+  needs the registry title to be mostly absent from the whole line, and title-mismatch removal is never
+  done without journal coordinates. On DOIs no other check flagged, metadata and title changes are
+  reported, not written. **Audit a removal pass by checking each removed DOI's registry title against the
+  full line**, as the second pass did: 161 removals, 0 of them wrong. `check_citations`'s own title-
+  divergence check still reads the 160-character excerpt.
+- **Evidence-less claims can be filled by in-session agents** from Crossref-verified sources they read;
+  five of the most-cited stubs were (active learning, feedback levels, assessment for learning, belonging,
+  cognitive overload). Most sources were abstract-only, which the entries say, and three of the five
+  qualify rather than simply support their claim.
+
 ### 2026-09-25 — the first two in-session GLM batches, and what they changed for the droplet
 
 Two batches through `run_scrape_batch.py` with GLM on **v133 and 2 correction attempts**: 96 articles

@@ -79,7 +79,7 @@ Teacher enthusiasm is measurably linked to student engagement and achievement: o
 - A secondary science teacher who opens each unit with the question or phenomenon that first hooked *them* into the field, narrating their own curiosity aloud before introducing the curriculum standard.
 
 ## Key Sources
-- Kunter, M., Klusmann, U., Baumert, J., Richter, D., Voss, T., & Hachfeld, A. (2013). Professional competence of teachers, formerly constructivist instruction, and student achievement. *Journal of Educational Psychology, 105*(3), 805–820. [doi:10.1037/a0031289](https://doi.org/10.1037/a0031289)
+- Kunter, M., Klusmann, U., Baumert, J., Richter, D., Voss, T., & Hachfeld, A. (2013). Professional competence of teachers, formerly constructivist instruction, and student achievement. *Journal of Educational Psychology, 105*(3), 805–820.
 - Keller, M. M., Hoy, A. W., Goetz, T., & Frenzel, A. C. (2016). Teacher enthusiasm: Reviewing and redefining a complex construct. *Educational Psychology Review, 28*(4), 743–769. [doi:10.1007/s10648-015-9354-y](https://doi.org/10.1007/s10648-015-9354-y)
 - Maslach, C., & Leiter, M. P. (2016). Understanding the burnout experience: Recent research and its implications for psychiatry. *World Psychiatry, 15*(2), 103–111. [doi:10.1002/wps.20311](https://doi.org/10.1002/wps.20311)
 - Fredricks, J. A., Blumenfeld, P. C., & Paris, A. H. (2004). School engagement: Potential of the concept, state of the evidence. *Review of Educational Research, 74*(1), 59–109. [doi:10.3102/00346543074001059](https://doi.org/10.3102/00346543074001059)

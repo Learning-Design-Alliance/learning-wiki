@@ -68,5 +68,5 @@ Analogies improve comprehension and transfer when the source and target share de
 ## Key Sources
 - Gentner, D. (1983). Structure-mapping: A theoretical framework for analogy. *Cognitive Science, 7*(2), 155–170. [doi:10.1207/s15516709cog0702_3](https://doi.org/10.1207/s15516709cog0702_3)
 - Glynn, S. M. (1991). Explaining science concepts: A teaching-with-analogies model. In S. M. Glynn, R. H. Yeany, & B. K. Britton (Eds.), *The psychology of learning science* (pp. 219–239). Erlbaum.
-- Donnelly, J. F., & McDaniel, M. A. (1993). Analogy with generic knowledge: Use of analogies in learning. *Journal of Educational Psychology, 85*(2), 333–343. [doi:10.1037/0022-0663.85.2.333](https://doi.org/10.1037/0022-0663.85.2.333)
+- Donnelly, J. F., & McDaniel, M. A. (1993). Analogy with generic knowledge: Use of analogies in learning. *Journal of Educational Psychology, 85*(2), 333–343.
 - Aubusson, P. J., Harrison, A. G., & Ritchie, S. M. (Eds.). (2006). *Metaphor and analogy in science education*. Springer. [doi:10.1007/1-4020-3830-5](https://doi.org/10.1007/1-4020-3830-5)

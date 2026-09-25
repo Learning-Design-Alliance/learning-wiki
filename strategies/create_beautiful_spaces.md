@@ -71,5 +71,5 @@ The environment functions as a persistent, passive message about what the commun
 - Berger, R. (2003). *An ethic of excellence: Building a culture of craftsmanship with students*. Heinemann.
 - Edwards, C., Gandini, L., & Forman, G. (Eds.). (2012). *The hundred languages of children: The Reggio Emilia experience in transformation* (3rd ed.). Praeger.
 - Bandura, A. (1997). *Self-efficacy: The exercise of control*. W. H. Freeman.
-- Fisher, K. (2002). Building better outcomes: The impact of school infrastructure on student performance and attendance. *Facilities, 20*(7/8), 257–263. [doi:10.1108/02632770210439158](https://doi.org/10.1108/02632770210439158)
+- Fisher, K. (2002). Building better outcomes: The impact of school infrastructure on student performance and attendance. *Facilities, 20*(7/8), 257–263.
 

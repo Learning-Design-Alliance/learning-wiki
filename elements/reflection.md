@@ -91,6 +91,6 @@ Reflection deepens learning by engaging learners in self-explanation and self-mo
 
 ## Key Sources
 - Schön, D. A. (1983). *The Reflective Practitioner: How Professionals Think in Action*. Basic Books. [doi:10.2307/1186923](https://doi.org/10.2307/1186923)
-- Boud, D., Keogh, R., & Walker, D. (1985). *Reflection: Turning Experience into Learning*. Kogan Page. [doi:10.1080/0307507851233137826](https://doi.org/10.1080/0307507851233137826)
+- Boud, D., Keogh, R., & Walker, D. (1985). *Reflection: Turning Experience into Learning*. Kogan Page.
 - Moon, J. A. (2004). *A Handbook of Reflective and Experiential Learning*. RoutledgeFalmer. [doi:10.4324/9780203416150](https://doi.org/10.4324/9780203416150)
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)

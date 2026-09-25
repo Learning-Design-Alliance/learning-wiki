@@ -72,7 +72,7 @@ Literature integration works because narrative provides a meaningful context tha
 
 ## Key Sources
 - Jennings, C. M., & Jennings, J. E. (1993). Children's stories as the foundation for mathematics lessons: A natural approach? *Focus on Learning Problems in Mathematics, 15*(2), 3–12.
-- Hong, H. (1999). Using storybooks to help young children make sense of mathematics. *Early Childhood Education Journal, 27*(2), 65–69. [doi:10.1023/A:1024590107379](https://doi.org/10.1023/A:1024590107379)
+- Hong, H. (1999). Using storybooks to help young children make sense of mathematics. *Early Childhood Education Journal, 27*(2), 65–69.
 - Young-Loveridge, J. (2004). Effects on early numeracy of a program using number books and games. *Early Childhood Research Quarterly, 19*(1), 82–98. [doi:10.1016/j.ecresq.2004.01.001](https://doi.org/10.1016/j.ecresq.2004.01.001)
 - Schiro, M. (1997). *Integrating children's literature and mathematics in the classroom: Children as meaning makers*. Teachers College Press.
 - Whitin, D. J., & Wilde, S. (1992). *Read any good math lately? Children's books for mathematical learning, K–6*. Heinemann.

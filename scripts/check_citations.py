@@ -236,6 +236,9 @@ def extract_citations(text: str, source_label: str) -> list[dict]:
                 "key": key,
                 "doi": _normalize_doi(doi_m.group(0)) if doi_m else None,
                 "line": line[:160],
+                # The whole line, for callers that must read the title: with a
+                # long author list the title starts past character 160.
+                "full_line": line,
                 # Parsed from the FULL line, not from the truncated "line"
                 # above: the journal/volume/page string sits at roughly
                 # characters 100-180 of a typical APA citation, so reading it

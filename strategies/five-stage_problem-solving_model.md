@@ -70,6 +70,6 @@ The model's value lies in converting problem solving from an unstructured search
 
 ## Key Sources
 - Polya, G. (1945). *How to solve it: A new aspect of mathematical method.* Princeton University Press.
-- D'Zurilla, T. J., & Goldfried, M. R. (1971). Problem solving and behavior modification. *Journal of Abnormal Psychology, 78*(1), 107–126. [doi:10.1037/h0031452](https://doi.org/10.1037/h0031452)
+- D'Zurilla, T. J., & Goldfried, M. R. (1971). Problem solving and behavior modification. *Journal of Abnormal Psychology, 78*(1), 107–126.
 - Bransford, J. D., & Stein, B. S. (1984). *The IDEAL problem solver: A guide for improving thinking, learning, and creativity.* W. H. Freeman.
 - Mayer, R. E., & Wittrock, M. C. (2006). Problem solving. In P. A. Alexander & P. H. Winne (Eds.), *Handbook of Educational Psychology* (2nd ed., pp. 287–303). Lawrence Erlbaum.

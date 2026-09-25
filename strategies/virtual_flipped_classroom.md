@@ -81,6 +81,6 @@ The flipped model's advantage comes from spending scarce synchronous time on act
 ## Key Sources
 - Strelan, P., Osborn, A., & Palmer, E. (2020). The flipped classroom: A meta-analysis of effects on student performance across disciplines and education levels. *Educational Research Review, 30*, 100314. [doi:10.1016/j.edurev.2020.100314](https://doi.org/10.1016/j.edurev.2020.100314)
 - van Alten, D. C. D., Phielix, C., Janssen, J., & Kester, L. (2019). Effects of flipping the classroom on learning outcomes and satisfaction: A meta-analysis. *Educational Research Review, 28*, 100303. [doi:10.1016/j.edurev.2019.100303](https://doi.org/10.1016/j.edurev.2019.100303)
-- Bergmann, J., & Sams, A. (2012). *Flip your classroom: Reach every student in every class every day*. ISTE/ASCD. [doi:10.4135/9781544318497](https://doi.org/10.4135/9781544318497)
+- Bergmann, J., & Sams, A. (2012). *Flip your classroom: Reach every student in every class every day*. ISTE/ASCD.
 - Freeman, S., et al. (2014). Active learning increases student performance in science, engineering, and mathematics. *PNAS, 111*(23), 8410–8415. [doi:10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)
 

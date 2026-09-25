@@ -70,5 +70,5 @@ Jigsaw converts reading comprehension into a social obligation: because each mem
 ## Key Sources
 - Aronson, E., Blaney, N., Stephan, C., Sikes, J., & Snapp, M. (1978). *The jigsaw classroom*. Sage.
 - Slavin, R. E. (1995). *Cooperative learning: Theory, research, and practice* (2nd ed.). Allyn & Bacon.
-- Souvignier, E., & Kronenberger, J. (2007). Cooperative learning about nature of science with a case based biology lesson. *Learning and Instruction, 17*(3), 349–361. [doi:10.1016/j.learninstruc.2007.02.003](https://doi.org/10.1016/j.learninstruc.2007.02.003)
+- Souvignier, E., & Kronenberger, J. (2007). Cooperative learning about nature of science with a case based biology lesson. *Learning and Instruction, 17*(3), 349–361.
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)

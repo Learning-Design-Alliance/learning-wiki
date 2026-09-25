@@ -81,6 +81,6 @@ Student shadowing is a form of practitioner inquiry grounded in the observation 
 ## Key Sources
 - Wiggins, G. (2014). Shadowing a student. *ASCD Education Update, 56*(10). Association for Supervision and Curriculum Development. [https://www.ascd.org/el/articles/shadowing-a-student](https://www.ascd.org/el/articles/shadowing-a-student)
 - Cook-Sather, A. (2009). *Learning from the student's perspective: A sourcebook for effective teaching*. Paradigm Publishers.
-- Cook-Sather, A. (2006). Newly biliterate and multilingual learners' perspectives. *Harvard Educational Review, 76*(1), 1–27. [doi:10.17763/haer.76.1.u7185271p6418121](https://doi.org/10.17763/haer.76.1.u7185271p6418121)
+- Cook-Sather, A. (2006). Newly biliterate and multilingual learners' perspectives. *Harvard Educational Review, 76*(1), 1–27.
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
 - Freeman, S., et al. (2014). Active learning increases student performance in science, engineering, and mathematics. *Proceedings of the National Academy of Sciences, 111*(23), 8410–8415. [doi:10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)

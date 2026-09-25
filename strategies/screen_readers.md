@@ -66,7 +66,7 @@ Screen readers remove the decoding bottleneck for learners who can comprehend sp
 - **VoiceOver (Apple)** — built into macOS/iOS, giving learners screen access on consumer devices without additional purchase.
 
 ## Key Sources
-- Lazar, J., Goldstein, D. F., & Taylor, A. (2015). *Ensuring digital accessibility through process and policy*. Morgan Kaufmann. [doi:10.1016/B978-0-12-800646-4.00001-5](https://doi.org/10.1016/B978-0-12-800646-4.00001-5)
+- Lazar, J., Goldstein, D. F., & Taylor, A. (2015). *Ensuring digital accessibility through process and policy*. Morgan Kaufmann.
 - Rose, D. H., & Meyer, A. (2002). *Teaching every student in the digital age: Universal Design for Learning*. ASCD.
 - Wood, S. G., Moxley, J. H., Donnelly, E. E., Miller, A. C., & Lovett, M. W. (2018). Does use of text-to-speech and related read-aloud tools improve reading comprehension for students with reading disabilities? A meta-analysis. *Journal of Learning Disabilities, 51*(1), 73–84. [doi:10.1177/0022219416688170](https://doi.org/10.1177/0022219416688170)
 - WCAG 2.1 (2018). *Web Content Accessibility Guidelines*. W3C. https://www.w3.org/TR/WCAG21/

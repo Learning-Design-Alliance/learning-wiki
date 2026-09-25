@@ -68,7 +68,7 @@ Embedded questions work primarily as retrieval practice: answering a question ab
 - **Szpunar et al.'s interpolated-testing paradigm** — MOOC-style lecture videos with tests inserted at segment boundaries reduced mind-wandering and improved final-test performance relative to no-test or restudy conditions.
 
 ## Key Sources
-- Szpunar, K. K., Khan, N. Y., & Schacter, D. L. (2013). Interpolated tests as a means of reengaging students in video lecture learning. *Journal of Experimental Psychology: Applied, 19*(4), 321–327. [doi:10.1037/a0034557](https://doi.org/10.1037/a0034557)
+- Szpunar, K. K., Khan, N. Y., & Schacter, D. L. (2013). Interpolated tests as a means of reengaging students in video lecture learning. *Journal of Experimental Psychology: Applied, 19*(4), 321–327.
 - Rowland, C. A. (2014). The effect of testing versus restudy on retention: A meta-analytic review of the testing effect. *Psychological Bulletin, 140*(6), 1432–1463. [doi:10.1037/a0037559](https://doi.org/10.1037/a0037559)
 - Brame, C. J. (2016). Effective educational videos: Principles and guidelines for maximizing student learning from video content. *CBE—Life Sciences Education, 15*(4), es6. [doi:10.1187/cbe.16-03-0125](https://doi.org/10.1187/cbe.16-03-0125)
 - Guo, P. J., Kim, J., & Rubin, R. (2014). How video production affects student engagement: An empirical study of MOOC videos. *Proceedings of the First ACM Conference on Learning @ Scale*, 41–50. [doi:10.1145/2556325.2566239](https://doi.org/10.1145/2556325.2566239)

@@ -68,7 +68,7 @@ High-p sequences apply the behavioral principle of response momentum: reinforcem
 - **Math fluency warm-up**: three rapid single-digit fact probes immediately before introducing multi-step word problems, so the student begins the harder work already in a compliant, successful rhythm.
 
 ## Key Sources
-- Davis, C. A., Brady, M. P., Hamilton, R., McEvoy, M. A., & Williams, R. E. (1994). Effects of high-probability requests on student latency to and accuracy of responses to academic tasks. *Journal of Behavioral Education, 4*(1), 57–74. [doi:10.1007/BF01560509](https://doi.org/10.1007/BF01560509)
+- Davis, C. A., Brady, M. P., Hamilton, R., McEvoy, M. A., & Williams, R. E. (1994). Effects of high-probability requests on student latency to and accuracy of responses to academic tasks. *Journal of Behavioral Education, 4*(1), 57–74.
 - Nevin, J. A., Mandell, C., & Atak, J. R. (1983). The analysis of behavioral momentum. *Journal of the Experimental Analysis of Behavior, 39*(1), 49–59. [doi:10.1901/jeab.1983.39-49](https://doi.org/10.1901/jeab.1983.39-49)
-- Belfiore, P. J., Lee, D. L., Vargas, A. U., & Skinner, C. H. (2007). Effects of high-probability request schedules on the performance of young children with severe developmental delays. *Journal of Applied Behavior Analysis, 40*(3), 503–507. [doi:10.1901/jaba.2007.40-503](https://doi.org/10.1901/jaba.2007.40-503)
+- Belfiore, P. J., Lee, D. L., Vargas, A. U., & Skinner, C. H. (2007). Effects of high-probability request schedules on the performance of young children with severe developmental delays. *Journal of Applied Behavior Analysis, 40*(3), 503–507.
 - Cooper, J. O., Heron, T. E., & Heward, W. L. (2020). *Applied behavior analysis* (3rd ed.). Pearson.

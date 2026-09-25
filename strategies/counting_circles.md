@@ -74,7 +74,7 @@ Counting circles convert procedural fluency practice into a public, communal act
 - **Counting circles as test prep warm-up:** high school algebra classes counting by −2.5 from 30 to build fluency with negative rational numbers before instruction on linear functions.
 
 ## Key Sources
-- Estrella, S. (2013). Counting circles. *Mathematics Teaching in the Middle School, 19*(4), 202–205. [doi:10.5951/mtms.19.4.0202](https://doi.org/10.5951/mtms.19.4.0202)
+- Estrella, S. (2013). Counting circles. *Mathematics Teaching in the Middle School, 19*(4), 202–205.
 - National Council of Teachers of Mathematics. (2014). *Principles to actions: Ensuring mathematical success for all.* NCTM.
 - Boaler, J. (2016). *Mathematical mindsets: Unleashing students' potential through creative math, inspiring messages and innovative teaching.* Jossey-Bass.
 - Parrish, S. D. (2011). Number talks build numerical reasoning. *Teaching Children Mathematics, 18*(3), 198–206. [doi:10.5951/teacchilmath.18.3.0198](https://doi.org/10.5951/teacchilmath.18.3.0198)
