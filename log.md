@@ -10,6 +10,9 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/self-talk-improves-learning-and-performance](claims/self-talk-improves-learning-and-performance.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes](claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/spatial-training-improves-math-performance](claims/spatial-training-improves-math-performance.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Correction**: [strategies/close-reading](strategies/close-reading.md) — Fisher & Frey (2014) title and pages corrected from Crossref
 * **Ingest**: [claims/rubrics-improve-peer-feedback-quality](claims/rubrics-improve-peer-feedback-quality.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/rereading-is-a-low-utility-study-strategy](claims/rereading-is-a-low-utility-study-strategy.md) — Evidence filled from Crossref-verified sources (gap-fill)

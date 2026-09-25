@@ -3,26 +3,40 @@ type: claim
 title: Simulation Based Education With Deliberate Practice Improves Clinical Outcomes
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: simulation-based-education-with-deliberate-practice-improves-clinical-outcomes
 evidence_strength: moderate
+sources:
+  - id: mcgaghie-et-al-2011
+    resource: "https://doi.org/10.1097/acm.0b013e318217e119"
+    title: "McGaghie, W. C., Issenberg, S. B., Cohen, E. R., Barsuk, J. H., & Wayne, D. B. (2011). Does Simulation-Based Medical Education With Deliberate Practice Yield Better Results Than Traditional Clinical Education? A Meta-Analytic Comparative Review of the Evidence. *Academic Medicine, 86*(6), 706–711. [doi:10.1097/acm.0b013e318217e119](https://doi.org/10.1097/acm.0b013e318217e119)"
+    author: "McGaghie, W. C., Issenberg, S. B., Cohen, E. R., Barsuk, J. H., & Wayne, D. B."
+    q: 3
+    i: 2
+    n: 14 studies
 ---
 
 # Simulation Based Education With Deliberate Practice Improves Clinical Outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium · n=14 studies
 
 Simulation-based education that incorporates deliberate practice — repeated, goal-directed rehearsal with immediate feedback and increasing difficulty — improves clinical skill performance and, in some domains, patient-level outcomes.
 
 ## Subclaims
 
-<!-- TODO -->
+`q3 i2` A meta-analysis of 14 studies (1990–2010) found simulation-based medical education with deliberate practice (SBME+DP) produced a medium-sized advantage in clinical skill acquisition over traditional clinical education. [→ McGaghie et al. 2011](#mcgaghie-et-al-2011)
 
 ## Evidence
 
-<!-- TODO -->
+### McGaghie et al. 2011
+
+McGaghie, W. C., Issenberg, S. B., Cohen, E. R., Barsuk, J. H., & Wayne, D. B. (2011). Does Simulation-Based Medical Education With Deliberate Practice Yield Better Results Than Traditional Clinical Education? A Meta-Analytic Comparative Review of the Evidence. *Academic Medicine, 86*(6), 706–711. [doi:10.1097/acm.0b013e318217e119](https://doi.org/10.1097/acm.0b013e318217e119)
+
+`q3 · meta-analysis (14 studies, comparative-effectiveness design, not pre-registered)` · `i2 · medium effect, d=0.71` · `n=14 studies`
+
+Systematic review and meta-analysis of 3,742 identified articles, of which 14 met inclusion criteria comparing traditional clinical medical education against simulation-based medical education (SBME) that incorporated deliberate practice (DP) — repeated, goal-directed rehearsal with mastery standards and immediate feedback. Across the 14 studies (mostly randomized trials and pre/post comparisons of procedural and psychomotor clinical skills such as ACLS, laparoscopic and central-line procedures), the pooled effect size favoring SBME with DP was d = 0.71 (95% CI 0.65–0.76, P < .001). The authors describe the result as consistent and "without exception" across the included studies, supporting skill-acquisition outcomes; they note the number of studies is still small and call for further research to extend the finding to broader clinical and patient-level outcomes.
 
 ## Discussion
 
