@@ -10,6 +10,14 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/incidental-vocabulary-exposure-limited](claims/incidental-vocabulary-exposure-limited.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/signaling-improves-learning](claims/signaling-improves-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/sel-programs-improve-social-emotional-skills](claims/sel-programs-improve-social-emotional-skills.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/sel-programs-improve-behavior-and-achievement](claims/sel-programs-improve-behavior-and-achievement.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/minimal-guidance-less-effective-for-novices](claims/minimal-guidance-less-effective-for-novices.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/expressive-writing-improves-health-outcomes](claims/expressive-writing-improves-health-outcomes.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/desirable-difficulties-enhance-learning](claims/desirable-difficulties-enhance-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/vocabulary-instruction-improves-comprehension](claims/vocabulary-instruction-improves-comprehension.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/concept-maps-improve-learning](claims/concept-maps-improve-learning.md) — Evidence copied from the verified entry on its near-duplicate sibling page
 * **Ingest**: [claims/retrieval-practice-improves-transfer](claims/retrieval-practice-improves-transfer.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/mnemonic-instruction-improves-recall-for-students-with-disabilities](claims/mnemonic-instruction-improves-recall-for-students-with-disabilities.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)

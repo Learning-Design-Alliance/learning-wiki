@@ -3,26 +3,57 @@ type: claim
 title: SEL programs improve social emotional skills
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: sel-programs-improve-social-emotional-skills
 evidence_strength: moderate
+sources:
+  - id: durlak-et-al-2011
+    resource: "https://doi.org/10.1111/j.1467-8624.2010.01564.x"
+    title: "Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development, 82*(1), 405–432. [doi:10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x)"
+    author: "Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B."
+    q: 4
+    i: 2
+    n: 213 studies (270,034 students)
+  - id: blewitt-et-al-2018
+    resource: "https://doi.org/10.1001/jamanetworkopen.2018.5727"
+    title: "Blewitt, C., Fuller-Tyszkiewicz, M., Nolan, A., Bergmeier, H., Vicary, D., Huang, T., McCabe, P., McKay, T., & Skouteris, H. (2018). Social and emotional learning associated with universal curriculum-based interventions in early childhood education and care centers. *JAMA Network Open, 1*(8), e185727. [doi:10.1001/jamanetworkopen.2018.5727](https://doi.org/10.1001/jamanetworkopen.2018.5727)"
+    author: "Blewitt, C., Fuller-Tyszkiewicz, M., Nolan, A., Bergmeier, H., Vicary, D., Huang, T., McCabe, P., McKay, T., & Skouteris, H."
+    q: 4
+    i: 2
+    n: 63 studies meta-analysed (79 reviewed, 18,292 participants)
 ---
 
 # SEL programs improve social emotional skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 2 studies · `q4` pre-registered or meta-analytic · `i2` medium
 
 Structured social-emotional learning (SEL) programs — sequenced curricula that explicitly teach self-awareness, self-management, social awareness, relationship skills, and responsible decision-making — improve students' social-emotional competencies.
 
 ## Subclaims
 
-<!-- TODO -->
+`q4 i2` Across 213 universal school-based SEL programmes for K–12 students, social-emotional skills were the outcome that improved most at post-test (mean ES = 0.57 over 68 interventions), larger than the gains in attitudes, behaviour or achievement. [→ Durlak et al. 2011](#durlak-et-al-2011)
+
+`q4 i2` In centre-based early childhood settings (ages 2–6), universal curriculum-based SEL programmes improved social competence (d = 0.30) and emotional competence (d = 0.54), with the effect varying by who delivered it, the assessment type, the informant, child age and study quality. [→ Blewitt et al. 2018](#blewitt-et-al-2018)
 
 ## Evidence
 
-<!-- TODO -->
+### Durlak et al. 2011
+
+Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development, 82*(1), 405–432. [doi:10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x)
+
+`q4 · meta-analysis` · `i2 · medium effect, ES=0.57 on SEL skills` · `n=213 studies (270,034 students)`
+
+A meta-analysis of 213 universal SEL programmes delivered in schools to students from kindergarten through high school. Almost half (47%) of the studies were randomised. Compared with controls, students in SEL programmes gained on all six outcome categories at post-test. The largest gain was in SEL skills: mean ES 0.57 (95% CI 0.48 to 0.67, 68 interventions), against 0.22–0.27 for attitudes, positive social behaviour, conduct problems, emotional distress and academic performance. Skill effects were significant for classroom programmes run by teachers (0.62) but not for multicomponent programmes. Whether a programme used all four SAFE practices (sequenced, active, focused, explicit), and whether it had implementation problems, moderated outcomes. Heterogeneity across studies was high (I² = 91% on the study-level mean).
+
+### Blewitt et al. 2018
+
+Blewitt, C., Fuller-Tyszkiewicz, M., Nolan, A., Bergmeier, H., Vicary, D., Huang, T., McCabe, P., McKay, T., & Skouteris, H. (2018). Social and emotional learning associated with universal curriculum-based interventions in early childhood education and care centers. *JAMA Network Open, 1*(8), e185727. [doi:10.1001/jamanetworkopen.2018.5727](https://doi.org/10.1001/jamanetworkopen.2018.5727)
+
+`q4 · systematic review and multilevel meta-analysis` · `i2 · social competence d=0.30, emotional competence d=0.54` · `n=63 studies meta-analysed (79 reviewed, 18,292 participants)`
+
+A systematic review of experimental and quasi-experimental studies of universal SEL curricula delivered to children aged 2 to 6 in centre-based early childhood education and care. Sixty-three studies went into multilevel random-effects meta-analyses. Compared with controls, children in the programmes improved in social competence (d = 0.30, 95% CI 0.18–0.42), emotional competence (d = 0.54, 95% CI 0.22–0.86) and behavioural self-regulation (d = 0.28). Their early learning skills improved by less (d = 0.18). The size of the effect depended on who led the intervention, the type of assessment, the informant, the child's age and study quality.
 
 ## Discussion
 

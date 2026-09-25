@@ -1,7 +1,7 @@
 {
  "coverage": {
   "claims->claims": 455,
-  "claims->elements": 132,
+  "claims->elements": 133,
   "claims->learner-variables": 1,
   "claims->methods": 3,
   "claims->patterns": 103,
@@ -71693,6 +71693,9 @@
       "slug": "feedback-enhances-retrieval-practice"
      },
      {
+      "slug": "minimal-guidance-less-effective-for-novices"
+     },
+     {
       "slug": "parent-coaching-outperforms-information-only"
      },
      {
@@ -80507,6 +80510,11 @@
     ]
    },
    "retrieval-practice": {
+    "claims": [
+     {
+      "slug": "desirable-difficulties-enhance-learning"
+     }
+    ],
     "elements": [
      {
       "slug": "continuous-review"
@@ -111363,9 +111371,7 @@
       "slug": "minimal-guidance-instruction-less-effective"
      },
      {
-      "polarity": "+",
-      "slug": "minimal-guidance-less-effective-for-novices",
-      "strength": "M"
+      "slug": "minimal-guidance-less-effective-for-novices"
      },
      {
       "slug": "minimally-guided-instruction-less-effective-for-novices"

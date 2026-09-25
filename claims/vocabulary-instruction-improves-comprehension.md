@@ -4,25 +4,56 @@ title: Vocabulary Instruction Improves Comprehension
 id: vocabulary-instruction-improves-comprehension
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 evidence_strength:
+sources:
+  - id: elleman-et-al-2009
+    resource: "https://doi.org/10.1080/19345740802539200"
+    title: "Elleman, A. M., Lindo, E. J., Morphy, P., & Compton, D. L. (2009). The Impact of Vocabulary Instruction on Passage-Level Comprehension of School-Age Children: A Meta-Analysis. *Journal of Research on Educational Effectiveness, 2*(1), 1–44. [doi:10.1080/19345740802539200](https://doi.org/10.1080/19345740802539200)"
+    author: "Elleman, A. M., Lindo, E. J., Morphy, P., & Compton, D. L."
+    q: 4
+    i: 2
+    n: 37 studies
+  - id: wright-and-cervetti-2017
+    resource: "https://doi.org/10.1002/rrq.163"
+    title: "Wright, T. S., & Cervetti, G. N. (2017). A Systematic Review of the Research on Vocabulary Instruction That Impacts Text Comprehension. *Reading Research Quarterly, 52*(2), 203–226. [doi:10.1002/rrq.163](https://doi.org/10.1002/rrq.163)"
+    author: "Wright, T. S., & Cervetti, G. N."
+    q: 3
+    i: "?"
+    n: 36 studies
 ---
 
 # Vocabulary Instruction Improves Comprehension
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 2 studies · `q3`–`q4` · `i2` medium
 
 Direct and indirect vocabulary instruction improves learners' text comprehension, with effects strongest when instruction targets high-utility words and includes multiple encounters in varied contexts. Scope covers both explicit teaching of word meanings and indirect buildup through rich contextual encounters during reading.
 
 ## Subclaims
 
-<!-- TODO -->
+`q4 i2` Across 37 pre-K–12 vocabulary interventions, instruction improved comprehension of passages measured with researcher-built tests (d = 0.50) but barely moved standardized comprehension (d = 0.10), and students with reading difficulties gained most on custom measures. [→ Elleman et al. 2009](#elleman-et-al-2009)
+
+`q3 i?` A systematic review of 36 intervention studies found that teaching word meanings almost always improved comprehension of texts containing the taught words, but found very limited evidence of gains in generalized comprehension, and no evidence that teaching one or two word-solving strategies does so. [→ Wright and Cervetti 2017](#wright-and-cervetti-2017)
 
 ## Evidence
 
-<!-- TODO -->
+### Elleman et al. 2009
+
+Elleman, A. M., Lindo, E. J., Morphy, P., & Compton, D. L. (2009). The Impact of Vocabulary Instruction on Passage-Level Comprehension of School-Age Children: A Meta-Analysis. *Journal of Research on Educational Effectiveness, 2*(1), 1–44. [doi:10.1080/19345740802539200](https://doi.org/10.1080/19345740802539200)
+
+`q4 · meta-analysis` · `i2 · medium effect on custom measures, d=0.50 (d=0.10 on standardized measures)` · `n=37 studies`
+
+A meta-analysis of vocabulary interventions for children from pre-kindergarten to grade 12, pooling 37 studies that reported a passage-level comprehension outcome. Vocabulary instruction raised comprehension on researcher-designed measures (d = 0.50) but had only a small effect on standardized comprehension tests (d = 0.10). On custom measures, and controlling for method variables, students with reading difficulties benefited more than three times as much (d = 1.23) as students without reading problems (d = 0.39). In studies reporting both, vocabulary and comprehension effects were only modestly correlated (r = 0.43).
+
+### Wright and Cervetti 2017
+
+Wright, T. S., & Cervetti, G. N. (2017). A Systematic Review of the Research on Vocabulary Instruction That Impacts Text Comprehension. *Reading Research Quarterly, 52*(2), 203–226. [doi:10.1002/rrq.163](https://doi.org/10.1002/rrq.163)
+
+`q3 · systematic review` · `i? · no pooled effect size reported` · `n=36 studies`
+
+A systematic review of 36 vocabulary interventions with comprehension outcomes, sorted by whether the comprehension test used passages containing the taught words or was a generalized measure, and by whether the intervention taught word meanings directly or taught word-learning strategies. Teaching word meanings supported comprehension of text containing those words in almost all cases, and instruction involving active processing typically did more than giving a definition or using a dictionary. There was very limited evidence that direct teaching of word meanings, even in long-term programmes covering many words, improves generalized comprehension, and no evidence that teaching one or two word-solving strategies does. This substantially qualifies the claim: the reliable benefit is to comprehension of text that uses the taught words.
 
 ## Discussion
 
