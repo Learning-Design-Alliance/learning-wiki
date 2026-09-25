@@ -10,6 +10,11 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/growth-mindset-interventions-small-effects](claims/growth-mindset-interventions-small-effects.md) — Evidence copied from a verified near-duplicate (gap-fill)
+* **Ingest**: [claims/learning-by-teaching-improves-mastery](claims/learning-by-teaching-improves-mastery.md) — Evidence copied from a verified near-duplicate (gap-fill)
+* **Ingest**: [claims/learning-by-teaching-improves-learning](claims/learning-by-teaching-improves-learning.md) — Evidence copied from a verified near-duplicate (gap-fill)
+* **Ingest**: [claims/interleaving-improves-transfer](claims/interleaving-improves-transfer.md) — Evidence copied from a verified near-duplicate (gap-fill)
+* **Ingest**: [claims/interleaved-practice-improves-retention](claims/interleaved-practice-improves-retention.md) — Evidence copied from a verified near-duplicate (gap-fill)
 * **Ingest**: [claims/drawing-improves-learning](claims/drawing-improves-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/emotion-labeling-improves-regulation](claims/emotion-labeling-improves-regulation.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/growth-mindset-improves-achievement](claims/growth-mindset-improves-achievement.md) — Evidence filled from Crossref-verified sources (gap-fill)

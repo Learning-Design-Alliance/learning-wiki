@@ -13,6 +13,8 @@ Read /home/user/learning-wiki/CLAUDE.md sections "Claim" template, "Evidence qua
    `curl -s https://api.crossref.org/works/<DOI>` — title, authors, journal, volume, issue,
    pages and year in your citation MUST come from that record. Never write a DOI you have
    not resolved this way. No DOI? Use a stable URL and say so.
+   The title is Crossref's `title` plus its `subtitle` after a colon, word for word. If
+   Crossref has no subtitle, write none: a subtitle from memory is an invented title.
 3. READ the article itself: open-access full text (PMC, publisher OA page, ERIC PDF,
    author manuscript) or, failing that, at minimum the publisher abstract. Outbound HTTPS
    goes through $HTTPS_PROXY; `curl` works. JS-rendered pages: `/opt/pw-browsers/chromium-1194/chrome-linux/chrome --headless=new --no-sandbox --proxy-server="$HTTPS_PROXY" --ignore-certificate-errors-spki-list="<SPKI hashes of the session proxy CA keys; see README.md>" --dump-dom <url>`. The SPKI list trusts ONLY the session proxy's CA keys (it re-terminates TLS); every other certificate is still verified. Never use --ignore-certificate-errors or any flag that disables verification wholesale. Record which you read (full text / abstract only).
