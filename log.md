@@ -10,6 +10,12 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/self-regulated-learning-improves-achievement](claims/self-regulated-learning-improves-achievement.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/joint-book-reading-predicts-literacy-success](claims/joint-book-reading-predicts-literacy-success.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/physical-experience-enhances-science-learning](claims/physical-experience-enhances-science-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/learner-constructed-graphic-organizers-outperform-provided](claims/learner-constructed-graphic-organizers-outperform-provided.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/goal-setting-improves-performance](claims/goal-setting-improves-performance.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/spaced-practice-improves-retention](claims/spaced-practice-improves-retention.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/comparing-contrasting-cases-improve-learning](claims/comparing-contrasting-cases-improve-learning.md) — Evidence copied from the verified entry on its near-duplicate sibling page
 * **Ingest**: [claims/activation](claims/activation.md) — Evidence copied from the verified entry on its near-duplicate sibling page
 * **Ingest**: [claims/acute-exercise-timing-memory](claims/acute-exercise-timing-memory.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)

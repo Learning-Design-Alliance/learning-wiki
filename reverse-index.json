@@ -1,7 +1,7 @@
 {
  "coverage": {
   "claims->claims": 455,
-  "claims->elements": 128,
+  "claims->elements": 129,
   "claims->learner-variables": 1,
   "claims->methods": 3,
   "claims->patterns": 103,
@@ -20619,6 +20619,9 @@
    "concept-mapping-improves-learning": {
     "claims": [
      {
+      "slug": "learner-constructed-graphic-organizers-outperform-provided"
+     },
+     {
       "slug": "retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration"
      }
     ],
@@ -30355,6 +30358,11 @@
     ]
    },
    "graphic-organizers-support-novice-comprehension": {
+    "claims": [
+     {
+      "slug": "learner-constructed-graphic-organizers-outperform-provided"
+     }
+    ],
     "elements": [
      {
       "polarity": "+",
@@ -70209,6 +70217,11 @@
     ]
    },
    "dialogic-reading": {
+    "claims": [
+     {
+      "slug": "joint-book-reading-predicts-literacy-success"
+     }
+    ],
     "strategies": [
      {
       "slug": "contextual_vocabulary_introduction"
@@ -75775,6 +75788,9 @@
      },
      {
       "slug": "peer-assisted-learning-improves-achievement"
+     },
+     {
+      "slug": "physical-experience-enhances-science-learning"
      },
      {
       "slug": "retrieval-fails-without-encoding"
