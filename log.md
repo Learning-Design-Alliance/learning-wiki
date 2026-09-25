@@ -10,6 +10,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Correction**: [claims/self-determination-instruction-improves-outcomes](claims/self-determination-instruction-improves-outcomes.md) — Reframed to special-education self-determination skills instruction, matching its inbound link; evidence added (Burke et al. 2018; Wehmeyer et al. 2013)
 * **Ingest**: [claims/worked-example-problem-sequences](claims/worked-example-problem-sequences.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/tutoring-effectiveness-comes-from-scaffolding-and-feedback](claims/tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/self-monitoring-improves-on-task-behavior](claims/self-monitoring-improves-on-task-behavior.md) — Evidence filled from Crossref-verified sources (gap-fill)

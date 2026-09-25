@@ -37969,6 +37969,11 @@
     ]
    },
    "self-determined-learning-model-of-instruction-improves-self-determination": {
+    "claims": [
+     {
+      "slug": "self-determination-instruction-improves-outcomes"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -37978,6 +37983,11 @@
     ]
    },
    "self-directed-iep-increases-student-participation": {
+    "claims": [
+     {
+      "slug": "self-determination-instruction-improves-outcomes"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
