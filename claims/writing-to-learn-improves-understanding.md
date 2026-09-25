@@ -15,7 +15,7 @@ sources:
     q: 4
     i: "?"
     n: 48 studies
-  - id: kayaalp-meral-başcı-namlı-2022
+  - id: kayaalp-et-al-2022
     resource: "https://doi.org/10.17275/per.22.18.9.1"
     title: "Kayaalp, F., Meral, E., & Başcı Namlı, Z. (2022). An analysis of the effect of writing-to-learn activities regarding students' academic achievement and self-regulation skills in writing. *Participatory Educational Research, 9*(1), 324–348. [doi:10.17275/per.22.18.9.1](https://doi.org/10.17275/per.22.18.9.1)"
     author: "Kayaalp, F., Meral, E., & Başcı Namlı, Z."
@@ -35,7 +35,7 @@ Writing about to-be-learned material — rather than only reading or listening �
 
 `q4 i?` Across 48 school-based writing-to-learn programs, writing interventions produced a small, statistically significant positive effect on conventional measures of academic achievement, though the meta-analysis's own summary text reports the direction and magnitude qualitatively rather than as a single point estimate. [→ Bangert-Drowns Hurley Wilkinson 2004](#bangert-drowns-hurley-wilkinson-2004)
 
-`q2 i2` In a quasi-experimental classroom trial, eighth-graders taught an 8th-grade social studies unit (Turkish Republic, History of Revolution and Atatürk's Principles) with writing-to-learn activities scored higher on a post-test academic achievement test than a control group taught conventionally, a medium-sized effect. [→ Kayaalp Meral Başcı Namlı 2022](#kayaalp-meral-basci-namli-2022)
+`q2 i2` In a quasi-experimental classroom trial, eighth-graders taught an 8th-grade social studies unit (Turkish Republic, History of Revolution and Atatürk's Principles) with writing-to-learn activities scored higher on a post-test academic achievement test than a control group taught conventionally, a medium-sized effect. [→ Kayaalp et al. 2022](#kayaalp-et-al-2022)
 
 ## Evidence
 
@@ -47,7 +47,7 @@ Bangert-Drowns, R. L., Hurley, M. M., & Wilkinson, B. (2004). The effects of sch
 
 This meta-analysis pooled 48 school-based writing-to-learn intervention studies spanning elementary school through college, each comparing a group receiving writing-emphasizing instruction against a control group given conventional instruction. It concludes that writing produces "a small, positive impact on conventional measures of academic achievement," and further finds that effects were enhanced by metacognitive prompts and longer treatment duration, but reduced when implemented in grades 6–8 or when writing assignments themselves were longer. Only the article's abstract was accessible to this reviewer; the full text (which reports a per-study and pooled quantitative effect size) could not be read, so no numeric effect size is asserted here.
 
-### Kayaalp Meral Başcı Namlı 2022
+### Kayaalp et al. 2022
 
 Kayaalp, F., Meral, E., & Başcı Namlı, Z. (2022). An analysis of the effect of writing-to-learn activities regarding students' academic achievement and self-regulation skills in writing. *Participatory Educational Research, 9*(1), 324–348. [doi:10.17275/per.22.18.9.1](https://doi.org/10.17275/per.22.18.9.1)
 
