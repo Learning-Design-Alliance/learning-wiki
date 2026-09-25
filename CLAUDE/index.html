@@ -634,6 +634,17 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#2026-09-24-in-session-extraction-and-what-the-pre-extractor-test-found" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-24 — in-session extraction, and what the pre-extractor test found
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#2026-09-24-what-a-source-needs-to-get-in-inclusionmd" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1252,6 +1263,17 @@
   
     <nav class="md-nav" aria-label="Working alongside other sessions — read this before starting">
       <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#2026-09-24-in-session-extraction-and-what-the-pre-extractor-test-found" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-24 — in-session extraction, and what the pre-extractor test found
+      
+    </span>
+  </a>
+  
+</li>
         
           <li class="md-nav__item">
   <a href="#2026-09-24-what-a-source-needs-to-get-in-inclusionmd" class="md-nav__link">
@@ -1950,6 +1972,19 @@ work is done, not that the check is broken.</p>
 </ul>
 <p><strong>When you finish something wiki-wide, add a line here.</strong> That is how the next session
 finds out.</p>
+<h3 id="2026-09-24-in-session-extraction-and-what-the-pre-extractor-test-found">2026-09-24 — in-session extraction, and what the pre-extractor test found<a class="headerlink" href="#2026-09-24-in-session-extraction-and-what-the-pre-extractor-test-found" title="Permanent link">&para;</a></h3>
+<p><code>eval/pre-extractor-test/</code> runs one article set through five extractors and scores them with one
+scorer. <strong>GLM on v124 ties Opus on quality at about 1/150th of the cost.</strong> GLM's ~10% pass rate
+belongs to the v99 lineage, which CURRENT points to and v130 descends from. So do not read v130's
+collapse as "GLM cannot follow the new criteria". The droplet's next step is porting v128–v130
+onto v124, <strong>without the <code>study_record</code></strong>: the ablations (v131–v133, <code>eval/pre-extractor-test/README.md</code>) show the small rules are free, the inclusion rule costs a few passes, and asking GLM for a study record in the same call drops it from 16/17 to 7/17. <strong>17 articles were ingested from the Opus-agent arm</strong> (237 pages, 10 study records):
+the first batch written by in-session subagents. <code>scripts/eval/agent_arm.py</code> is that path's
+harness, and the subagent contract is its <code>TASK.md</code>. Two ingest bugs it exposed are fixed: the
+citation gate matched the frontmatter <code>resource:</code> line and called correct DOIs <code>wrong_paper</code>,
+and typeless <code>related</code> slugs were linked into the wrong folder. The manifest lines for this
+batch were corrected before commit. <strong><code>run_scrape_batch.py</code> never ran <code>sync_evidence_codes</code>, <code>add_evidence_summary</code> or <code>fix_dead_anchors</code></strong>, whatever this file said elsewhere, so every batch landed claims whose codes lived only in the body. They are in the chain now. And <code>okf_lib.parse_evidence_sources</code> read a DOI only from a <code>(link)</code>, so sync would have stripped the resource from the 267 entries whose citation carries a bare URL; it reads that form too now. <code>scripts/health_scorecard.py</code> measures any set of commits with today's checkers, and <code>eval/scorecard.md</code> is this session's. Run <code>fix_dead_anchors.py --apply</code> after an ingest: an
+accented author name (Göktürk, Bellhäuser) still produces an anchor that does not match its
+heading.</p>
 <h3 id="2026-09-24-what-a-source-needs-to-get-in-inclusionmd">2026-09-24 — what a source needs to get in: <code>INCLUSION.md</code><a class="headerlink" href="#2026-09-24-what-a-source-needs-to-get-in-inclusionmd" title="Permanent link">&para;</a></h3>
 <p><strong>The default is to include.</strong> Every paradigm is eligible, including theoretical, philosophical and
 qualitative small-n work. Evidence may be logical rather than empirical, one argument is enough, and
@@ -2396,7 +2431,18 @@ claims from studies nobody here has read is the failure mode this file is largel
 Almond (2003), not from the 60-page primary, and its page says so.</p>
 <h3 id="known-open-work">Known open work<a class="headerlink" href="#known-open-work" title="Permanent link">&para;</a></h3>
 <ul>
-<li><strong><code>scripts/resolve_citation_metadata.py</code> settles the three citation backlogs against
+<li>
+<p><strong>Sweep existing pages onto the current conventions and schemas.</strong> Most of the ~3,900
+  content pages predate some of: <code>INCLUSION.md</code>'s q1 coding for argument and opinion, <code>i: null</code>
+  (not <code>i0</code>) for "no effect size reported", the evidence header line, per-citation <code>[±~][SMW]</code>
+  markers, <code>observations/</code> records for the studies they cite, the processes/methods split, and
+  <code>id:</code>/<code>aliases:</code>. Start from <code>priority_worklist.py</code> and <code>check_evidence_markers.py</code>, which
+  already rank most of it. Batch by page type, one PR each, merged the same day. Verify each
+  batch by parsing frontmatter before and after, not by reading the diff. Queued 2026-09-24,
+  not started.</p>
+</li>
+<li>
+<p><strong><code>scripts/resolve_citation_metadata.py</code> settles the three citation backlogs against
   Crossref.</strong> Run it from a machine with network — the harness droplet, and as of 2026-09-03 this
   sandbox too (see the state note above; verify, do not assume):
   <code>--check</code> to report, <code>--apply</code> to write. It corrects a journal/volume/issue/page to the
@@ -2405,7 +2451,8 @@ Almond (2003), not from the 60-page primary, and its page says so.</p>
   fails (an outage is not a verdict), and never fills a field Crossref left empty — absent
   means "the registry did not say", not "the wiki is wrong". The decision function
   <code>decide()</code> is pure and unit-tested offline, including the containment trap that put a
-  Springer chapter's DOI on 69 pages.</li>
+  Springer chapter's DOI on 69 pages.</p>
+</li>
 <li><strong>64 of the 97 citation conflicts are one agreed DOI plus pages that omit it</strong> — 211
   citations to fill in. <code>scripts/standardize_citations.py</code> writes the DOI onto the pages
   missing it, <strong>but only where Crossref confirms it resolves to the paper being cited</strong>.
