@@ -10,6 +10,10 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/productive-failure-improves-learning](claims/productive-failure-improves-learning.md) — Evidence copied from the verified entry on its near-duplicate sibling page
+* **Ingest**: [claims/minimally-guided-instruction-less-effective-for-novices](claims/minimally-guided-instruction-less-effective-for-novices.md) — Evidence copied from the verified entry on its near-duplicate sibling page
+* **Ingest**: [claims/eliciting-self-explanations-improves-understanding](claims/eliciting-self-explanations-improves-understanding.md) — Evidence copied from the verified entry on its near-duplicate sibling page
+* **Ingest**: [claims/dual-coding-improves-learning](claims/dual-coding-improves-learning.md) — Evidence copied from the verified entry on its near-duplicate sibling page
 * **Ingest**: [claims/discussion-quality-drives-comprehension](claims/discussion-quality-drives-comprehension.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/deliberate-practice-improves-performance](claims/deliberate-practice-improves-performance.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/cooperative-learning-improves-achievement](claims/cooperative-learning-improves-achievement.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)

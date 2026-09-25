@@ -1,7 +1,7 @@
 {
  "coverage": {
   "claims->claims": 455,
-  "claims->elements": 134,
+  "claims->elements": 135,
   "claims->learner-variables": 1,
   "claims->methods": 3,
   "claims->patterns": 103,
@@ -71699,6 +71699,9 @@
       "slug": "minimal-guidance-less-effective-for-novices"
      },
      {
+      "slug": "minimally-guided-instruction-less-effective-for-novices"
+     },
+     {
       "slug": "parent-coaching-outperforms-information-only"
      },
      {
@@ -73693,6 +73696,9 @@
     "claims": [
      {
       "slug": "productive-failure-improves-conceptual-learning"
+     },
+     {
+      "slug": "productive-failure-improves-learning"
      }
     ]
    },
@@ -88277,6 +88283,9 @@
      },
      {
       "slug": "minimal-guidance-less-effective-for-novices"
+     },
+     {
+      "slug": "minimally-guided-instruction-less-effective-for-novices"
      },
      {
       "slug": "phonics-instruction-improves-word-reading"
