@@ -10,6 +10,12 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/summarization-effective-with-training](claims/summarization-effective-with-training.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/summarization-improves-learning](claims/summarization-improves-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/rubrics-improve-student-work](claims/rubrics-improve-student-work.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/rubrics-improve-student-work-quality](claims/rubrics-improve-student-work-quality.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/hands-on-without-conceptual-integration-insufficient](claims/hands-on-without-conceptual-integration-insufficient.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/manipulatives-require-connection-to-concept](claims/manipulatives-require-connection-to-concept.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/scaffolding-improves-learning-outcomes](claims/scaffolding-improves-learning-outcomes.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/scaffolding-improves-learning](claims/scaffolding-improves-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/writing-to-learn-improves-understanding](claims/writing-to-learn-improves-understanding.md) — Evidence filled from Crossref-verified sources (gap-fill)

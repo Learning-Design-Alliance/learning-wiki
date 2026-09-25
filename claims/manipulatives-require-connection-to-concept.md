@@ -3,26 +3,40 @@ type: claim
 title: Manipulatives Require Connection To Concept
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: manipulatives-require-connection-to-concept
 evidence_strength:
+sources:
+  - id: fyfe-et-al-2014
+    resource: "https://doi.org/10.1007/s10648-014-9249-3"
+    title: "Fyfe, E. R., McNeil, N. M., Son, J. Y., & Goldstone, R. L. (2014). Concreteness fading in mathematics and science instruction: A systematic review. *Educational Psychology Review, 26*(1), 9–25. [doi:10.1007/s10648-014-9249-3](https://doi.org/10.1007/s10648-014-9249-3)"
+    author: "Fyfe, E. R., McNeil, N. M., Son, J. Y., & Goldstone, R. L."
+    q: 3
+    i: "?"
+    n: N/A (review)
 ---
 
 # Manipulatives Require Connection To Concept
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · n=N/A (review)
 
 Physical or visual manipulatives support learning only when learners are explicitly helped to connect the concrete object to the abstract concept it represents; the object alone does not carry the mathematics.
 
 ## Subclaims
 
-<!-- TODO -->
+`q3 i?` A systematic review argues that concrete materials aid learning only when explicitly and gradually connected to the abstract symbols they represent ("concreteness fading"), rather than left as unconnected concrete or unconnected abstract instruction. [→ Fyfe et al. 2014](#fyfe-et-al-2014)
 
 ## Evidence
 
-<!-- TODO -->
+### Fyfe et al. 2014
+
+Fyfe, E. R., McNeil, N. M., Son, J. Y., & Goldstone, R. L. (2014). Concreteness fading in mathematics and science instruction: A systematic review. *Educational Psychology Review, 26*(1), 9–25. [doi:10.1007/s10648-014-9249-3](https://doi.org/10.1007/s10648-014-9249-3)
+
+`q3 · systematic review` · `i? · no effect size reported` · `n=N/A (review)`
+
+A systematic review of the "concreteness fading" literature in mathematics and science instruction. The authors reject the simple dichotomy of "concrete vs. abstract materials" and instead argue that instruction should begin with concrete materials and then be **explicitly and gradually faded** toward abstract symbols. They identify the mechanism as connection-building: concrete materials let learners interpret otherwise-opaque symbols, but only if learners are guided to strip away the concrete surface features and see the generalizable structure the symbols encode — i.e., the concrete material itself is not what teaches the concept.
 
 ## Discussion
 
