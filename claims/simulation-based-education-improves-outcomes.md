@@ -3,26 +3,40 @@ type: claim
 title: Simulation Based Education Improves Outcomes
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: simulation-based-education-improves-outcomes
 evidence_strength: none
+sources:
+  - id: cook-et-al-2011
+    resource: "https://doi.org/10.1001/jama.2011.1234"
+    title: "Cook, D. A., Hatala, R., Brydges, R., Zendejas, B., Szostek, J. H., Wang, A. T., Erwin, P. J., & Hamstra, S. J. (2011). Technology-Enhanced Simulation for Health Professions Education: A Systematic Review and Meta-analysis. *JAMA, 306*(9), 978–988. [doi:10.1001/jama.2011.1234](https://doi.org/10.1001/jama.2011.1234)"
+    author: "Cook, D. A., Hatala, R., Brydges, R., Zendejas, B., Szostek, J. H., Wang, A. T., Erwin, P. J., & Hamstra, S. J."
+    q: 4
+    i: 3
+    n: 609 studies (35,226 trainees)
 ---
 
 # Simulation Based Education Improves Outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i3` large · n=609 studies (35,226 trainees)
 
 Simulation-based education — structured practice in interactive representations of real tasks (mannequins, virtual patients, flight simulators, role-play) — improves learning and performance outcomes relative to instruction without deliberate practice in the simulated environment.
 
 ## Subclaims
 
-<!-- TODO -->
+`q4 i3` Technology-enhanced simulation training for health professions learners produces large pooled effects on knowledge, skill and behavior outcomes, and a moderate effect on direct patient outcomes, relative to no intervention. [→ Cook et al. 2011](#cook-et-al-2011)
 
 ## Evidence
 
-<!-- TODO -->
+### Cook et al. 2011
+
+Cook, D. A., Hatala, R., Brydges, R., Zendejas, B., Szostek, J. H., Wang, A. T., Erwin, P. J., & Hamstra, S. J. (2011). Technology-Enhanced Simulation for Health Professions Education: A Systematic Review and Meta-analysis. *JAMA, 306*(9), 978–988. [doi:10.1001/jama.2011.1234](https://doi.org/10.1001/jama.2011.1234)
+
+`q4 · systematic review and meta-analysis` · `i3 · large effect, pooled effect sizes ~1.09–1.20 for knowledge/skills/behaviors` · `n=609 studies (35,226 trainees)`
+
+A systematic review and meta-analysis (search through May 2011 across MEDLINE, EMBASE, CINAHL, ERIC, PsycINFO, Scopus and other sources) identified 609 eligible studies of technology-enhanced simulation training (mannequins, virtual reality, part-task trainers, etc.) for physicians, nurses, dentists and other health professionals, compared against no intervention. Study designs included 137 randomized trials, 67 nonrandomized multi-group studies, and 405 single-group pretest-posttest studies. Pooled random-effects sizes versus no intervention were large for knowledge (g=1.20, 95% CI 1.04–1.35, k=118), time skills (g=1.14, k=210), process skills (g=1.09, k=426) and product skills (g=1.18, k=54), and moderate-to-large for behaviors (g≈0.79–0.81) and for direct effects on patients (g=0.50, 95% CI 0.34–0.66, k=32). Subgroup analyses found no consistent statistically significant interactions between simulation training and instructional-design features (curricular integration, distributed practice, feedback, mastery learning, repetitive practice) or study quality — heterogeneity was large (I²>50%) throughout, so this is a comparison against no intervention rather than against an equally-dosed non-simulation alternative, and it does not by itself establish which design features drive the effect.
 
 ## Discussion
 
@@ -34,7 +48,7 @@ Simulation-based education — structured practice in interactive representation
 
 **Open questions.** Whether simulation outperforms well-designed non-simulated practice of equal duration, how durable the gains are over time, and how effects vary across domains (procedural vs. conceptual outcomes) all need citation-backed treatment before the claim can be rated. A further open question is cost-effectiveness: even where simulation improves outcomes, low-fidelity or paper-based alternatives may achieve comparable results at a fraction of the cost. Evidence entries should also distinguish learner-level outcomes (knowledge, skill) from patient- or system-level outcomes (e.g., safety events), since the strongest claims in the health professions literature concern the former. Comparisons with adjacent structured-practice formats — [case-based learning](case-based-learning-improves-exam-performance.md) and role-play — should record the comparison condition, since much of the apparent advantage of simulation may reduce to more practice time or more feedback rather than to the simulation per se.
 
-**Rating withheld.** No evidence entries are yet attached to this claim, so no evidence strength is asserted. Candidate syntheses to review when populating Evidence include the health-professions simulation meta-analytic literature (e.g., on simulation-based training versus non-simulation instruction) and aviation/military training-effectiveness research; each entry should record design conditions (feedback, repetition, fidelity, integration) so the moderators above can be tested rather than assumed.
+**Rating withheld.** The meta-analysis recorded above compares simulation with no intervention, not with equally long non-simulation practice, so it cannot say whether simulation beats matched practice; its subgroup analyses found no significant interaction with feedback, repetition or fidelity. Further syntheses worth recording include the health-professions simulation meta-analytic literature (e.g., on simulation-based training versus non-simulation instruction) and aviation/military training-effectiveness research; each entry should record design conditions (feedback, repetition, fidelity, integration) so the moderators above can be tested rather than assumed.
 
 ## Related Claims
 

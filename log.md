@@ -10,6 +10,11 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/positive-greetings-at-the-door-improve-engagement](claims/positive-greetings-at-the-door-improve-engagement.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/positive-greetings-at-the-door-improve-engagement-and-behavior](claims/positive-greetings-at-the-door-improve-engagement-and-behavior.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/simulation-based-education-improves-outcomes](claims/simulation-based-education-improves-outcomes.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/process-writing-improves-writing-quality](claims/process-writing-improves-writing-quality.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/process-writing-instruction-improves-writing-quality](claims/process-writing-instruction-improves-writing-quality.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/self-regulated-learning-strategies-improve-writing](claims/self-regulated-learning-strategies-improve-writing.md) — Evidence copied from a verified near-duplicate (gap-fill)
 * **Ingest**: [claims/strategy-instruction-improves-learning](claims/strategy-instruction-improves-learning.md) — Evidence copied from a verified near-duplicate (gap-fill)
 * **Ingest**: [claims/strategy-instruction-improves-academic-performance](claims/strategy-instruction-improves-academic-performance.md) — Evidence copied from a verified near-duplicate (gap-fill)
