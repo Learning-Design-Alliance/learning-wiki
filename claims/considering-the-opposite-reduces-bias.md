@@ -3,26 +3,40 @@ type: claim
 title: Considering The Opposite Reduces Bias
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: considering-the-opposite-reduces-bias
 evidence_strength:
+sources:
+  - id: korteling-et-al-2021
+    resource: "https://doi.org/10.3389/fpsyg.2021.629354"
+    title: "Korteling, J. E. (Hans), Gerritsma, J. Y. J., & Toet, A. (2021). Retention and transfer of cognitive bias mitigation interventions: A systematic literature study. *Frontiers in Psychology, 12*, Article 629354. [doi:10.3389/fpsyg.2021.629354](https://doi.org/10.3389/fpsyg.2021.629354)"
+    author: "Korteling, J. E. (Hans), Gerritsma, J. Y. J., & Toet, A."
+    q: 3
+    i: "?"
+    n: 12 studies (17 experiments) reviewed overall
 ---
 
 # Considering The Opposite Reduces Bias
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · n=12 studies (17 experiments) reviewed overall
 
 Deliberately reasoning about hypotheses and evidence that contradict one's initial belief reduces confirmation bias in judgment and evaluation. The strategy operates at the moment of judgment: learners are prompted to ask how the evidence might support the rival view rather than whether it supports their own.
 
 ## Subclaims
 
-<!-- TODO -->
+`q3 i?` A systematic review of cognitive-bias-mitigation research identifies "consider the opposite" as an established strategy shown to reduce judgment biases, citing prior experimental work on hindsight bias and anchoring, though the review's own quantitative synthesis addresses retention of bias-mitigation training generally rather than this strategy specifically. [→ Korteling et al. 2021](#korteling-et-al-2021)
 
 ## Evidence
 
-<!-- TODO -->
+### Korteling et al. 2021
+
+Korteling, J. E. (Hans), Gerritsma, J. Y. J., & Toet, A. (2021). Retention and transfer of cognitive bias mitigation interventions: A systematic literature study. *Frontiers in Psychology, 12*, Article 629354. [doi:10.3389/fpsyg.2021.629354](https://doi.org/10.3389/fpsyg.2021.629354)
+
+`q3 · systematic review (PRISMA-based)` · `i? · no effect size reported for this specific strategy` · `n=12 studies (17 experiments) reviewed overall`
+
+This PRISMA-based systematic review screened 86 articles down to 12 studies (17 experiments) on the retention and transfer of cognitive-bias-mitigation interventions, most of them serious-game-based training programs targeting biases such as confirmation bias, anchoring, and bias blind spot. In its background section the authors name "consider the opposite" — prompting people to ask why their initial judgment could be wrong — as a distinct, previously validated debiasing method, citing Arkes, Faust, Guilmette, and Hart (1988) on hindsight bias and Mussweiler, Strack, and Pfeiffer (2000) on anchoring as the supporting primary studies. The review's own 17-experiment dataset does not isolate "consider the opposite" as a manipulation — it evaluates whether other training formats (mainly games) retain their debiasing effects over time — so this entry supports the claim's basic premise (the strategy has documented bias-reducing effects) rather than quantifying its magnitude. Note for the reviewing editor: the two primary studies this review cites for the effect — Lord, Lepper, & Preston (1984), *J. Personality and Social Psychology, 47*(6), 1231–1243, doi:10.1037/0022-3514.47.6.1231 (the paper that coined the strategy), and Mussweiler, Strack, & Pfeiffer (2000), *Pers. Soc. Psychol. Bull., 26*(9), 1142–1150, doi:10.1177/01461672002611010 — were confirmed against Crossref for identity, but neither had a readable full text or abstract available (APA/SAGE blocked all access attempts; no open-access copy on OpenAlex or Semantic Scholar; Unpaywall was not used since it requires an email address). They are named here only as leads for a future pass with full-text access, not asserted as evidence entries.
 
 ## Discussion
 

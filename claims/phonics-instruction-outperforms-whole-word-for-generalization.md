@@ -12,7 +12,7 @@ sources:
     resource: "https://doi.org/10.3102/00346543071003393"
     title: "Ehri, L. C., Nunes, S. R., Stahl, S. A., & Willows, D. M. (2001). Systematic phonics instruction helps students learn to read: Evidence from the National Reading Panel's meta-analysis. *Review of Educational Research, 71*(3), 393–447. [doi:10.3102/00346543071003393](https://doi.org/10.3102/00346543071003393)"
     author: "Ehri, L. C., Nunes, S. R., Stahl, S. A., & Willows, D. M."
-    q: 3
+    q: 4
     i: 2
     n: 66 comparisons from 38 experiments
   - id: taylor-et-al-2017
@@ -34,13 +34,13 @@ sources:
 # Phonics Instruction Outperforms Whole Word For Generalization
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q3` peer-reviewed experiment · `i1`–`i2`
+> **Evidence** · 3 studies · `q3`–`q4` · `i1`–`i2`
 
 Systematic phonics instruction — teaching letter–sound correspondences explicitly — produces stronger transfer to novel words than whole-word (look-and-say) approaches, because it equips learners with a generative decoding strategy rather than a finite store of memorized word forms.
 
 ## Subclaims
 
-`q3 i2` Across 66 treatment-control comparisons from 38 experiments, systematic phonics beat unsystematic or no-phonics instruction on reading overall (d = 0.41), with benefits for decoding and word reading and an advantage over every control type including whole language; the abstract does not report a separate effect for reading untrained words. [→ Ehri et al. 2001](#ehri-et-al-2001)
+`q4 i2` Across 66 treatment-control comparisons from 38 experiments, systematic phonics beat unsystematic or no-phonics instruction on reading overall (d = 0.41), with benefits for decoding and word reading and an advantage over every control type including whole language; the abstract does not report a separate effect for reading untrained words. [→ Ehri et al. 2001](#ehri-et-al-2001)
 
 `q3 i?` In a controlled artificial-orthography experiment with 24 adults, print-to-sound training made reading untrained words faster than print-to-meaning training, but not more accurate: both reached about 80% correct, so the generalization advantage was one of speed. [→ Taylor et al. 2017](#taylor-et-al-2017)
 
@@ -52,7 +52,7 @@ Systematic phonics instruction — teaching letter–sound correspondences expli
 
 Ehri, L. C., Nunes, S. R., Stahl, S. A., & Willows, D. M. (2001). Systematic phonics instruction helps students learn to read: Evidence from the National Reading Panel's meta-analysis. *Review of Educational Research, 71*(3), 393–447. [doi:10.3102/00346543071003393](https://doi.org/10.3102/00346543071003393)
 
-`q3 · meta-analysis (not pre-registered)` · `i2 · medium effect, d=0.41` · `n=66 comparisons from 38 experiments`
+`q4 · meta-analysis (not pre-registered)` · `i2 · medium effect, d=0.41` · `n=66 comparisons from 38 experiments`
 
 The National Reading Panel's meta-analysis compared systematic phonics instruction with unsystematic or no-phonics instruction in 66 treatment-control comparisons drawn from 38 experiments. The overall effect on reading was moderate (d = 0.41) and lasted after instruction ended. It was larger when phonics began early (d = 0.55) than after first grade (d = 0.27). Phonics helped decoding, word reading, comprehension and spelling, and beat every form of control instruction, whole language included. It did not help low-achieving readers with cognitive limitations. Only the abstract was read, and it gives no separate effect for reading novel words, which is the outcome this claim is about.
 

@@ -10,6 +10,12 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/discussion-quality-drives-comprehension](claims/discussion-quality-drives-comprehension.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/deliberate-practice-improves-performance](claims/deliberate-practice-improves-performance.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/cooperative-learning-improves-achievement](claims/cooperative-learning-improves-achievement.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/considering-the-opposite-reduces-bias](claims/considering-the-opposite-reduces-bias.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/systematic-phonics-improves-word-reading](claims/systematic-phonics-improves-word-reading.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/small-group-learning-improves-stem-achievement](claims/small-group-learning-improves-stem-achievement.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/desirable-difficulties-improve-retention](claims/desirable-difficulties-improve-retention.md) — Evidence copied from the verified entry on its near-duplicate sibling page
 * **Ingest**: [claims/teacher-student-relationships-improve-engagement](claims/teacher-student-relationships-improve-engagement.md) — Evidence copied from the verified entry on its near-duplicate sibling page
 * **Ingest**: [claims/self-assessment-improves-self-regulated-learning](claims/self-assessment-improves-self-regulated-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
