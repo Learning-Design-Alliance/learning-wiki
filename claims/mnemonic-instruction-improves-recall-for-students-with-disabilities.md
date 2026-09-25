@@ -3,26 +3,57 @@ type: claim
 title: Mnemonic Instruction Improves Recall For Students With Disabilities
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: mnemonic-instruction-improves-recall-for-students-with-disabilities
 evidence_strength: moderate
+sources:
+  - id: scruggs-and-mastropieri-2000
+    resource: "https://doi.org/10.1023/A:1016640214368"
+    title: "Scruggs, T. E., & Mastropieri, M. A. (2000). The effectiveness of mnemonic instruction for students with learning and behavior problems: An update and research synthesis. *Journal of Behavioral Education, 10*(2–3), 163–173. [doi:10.1023/A:1016640214368](https://doi.org/10.1023/A:1016640214368)"
+    author: "Scruggs, T. E., & Mastropieri, M. A."
+    q: 3
+    i: 3
+    n: "? (number of studies not given in the abstract)"
+  - id: wolgemuth-et-al-2008
+    resource: "https://doi.org/10.1111/j.1540-5826.2007.00258.x"
+    title: "Wolgemuth, J. R., Cobb, R. B., & Alwell, M. (2008). The effects of mnemonic interventions on academic outcomes for youth with disabilities: A systematic review. *Learning Disabilities Research & Practice, 23*(1), 1–10. [doi:10.1111/j.1540-5826.2007.00258.x](https://doi.org/10.1111/j.1540-5826.2007.00258.x)"
+    author: "Wolgemuth, J. R., Cobb, R. B., & Alwell, M."
+    q: 3
+    i: "?"
+    n: 20 studies (669 youth)
 ---
 
 # Mnemonic Instruction Improves Recall For Students With Disabilities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i3` large
 
 Mnemonic instruction — keyword, acrostic, and letter-strategy techniques that link new content to familiar, easily retrieved cues — improves recall of factual material for students with mild disabilities and other struggling learners.
 
 ## Subclaims
 
-<!-- TODO -->
+`q3 i3` A research synthesis of mnemonic-strategy studies with students with learning and behavior problems found an overall mean standardized effect size of 1.62, with laboratory and classroom-curriculum studies giving similar results. [→ Scruggs and Mastropieri 2000](#scruggs-and-mastropieri-2000)
+
+`q3 i?` A systematic review of 20 studies with 669 secondary-age youth with learning disabilities, emotional and behavioral disorders or mild developmental disabilities found that mnemonic interventions improved academic performance, typically recall of word meanings or facts, across methods, settings, ages and disability types. [→ Wolgemuth et al. 2008](#wolgemuth-et-al-2008)
 
 ## Evidence
 
-<!-- TODO -->
+### Scruggs and Mastropieri 2000
+
+Scruggs, T. E., & Mastropieri, M. A. (2000). The effectiveness of mnemonic instruction for students with learning and behavior problems: An update and research synthesis. *Journal of Behavioral Education, 10*(2–3), 163–173. [doi:10.1023/A:1016640214368](https://doi.org/10.1023/A:1016640214368)
+
+`q3 · quantitative research synthesis` · `i3 · large effect, mean ES=1.62` · `n=? (number of studies not given in the abstract)`
+
+This synthesis pooled studies of specific mnemonic (memory-enhancing) strategies taught to students with learning and behavioral difficulties, for whom remembering academic content is a common problem. The overall mean standardized effect size was 1.62, which the authors describe as unusually large, and it closely replicates a synthesis they reported in the 1980s. Laboratory studies and field studies using regular school curricula produced similar results. Unpublished descriptions of teachers using mnemonic instruction also supported its usefulness in real classrooms. Only the abstract was read; the number of studies and the outcome measures are not recorded here.
+
+### Wolgemuth et al. 2008
+
+Wolgemuth, J. R., Cobb, R. B., & Alwell, M. (2008). The effects of mnemonic interventions on academic outcomes for youth with disabilities: A systematic review. *Learning Disabilities Research & Practice, 23*(1), 1–10. [doi:10.1111/j.1540-5826.2007.00258.x](https://doi.org/10.1111/j.1540-5826.2007.00258.x)
+
+`q3 · systematic review` · `i? · no effect size reported in the abstract` · `n=20 studies (669 youth)`
+
+This systematic review looked at 20 studies of mnemonic interventions with 669 secondary-school-age youth who had learning disabilities, emotional and behavioral disorders or mild developmental disabilities. The authors report that the studies strongly support mnemonic interventions for improving academic performance, which was usually measured as recall of word meanings or factual information. The benefit held across study methods, educational settings, student ages and disability types. Only the abstract was read, and it gives no pooled effect size. Its focus on recall outcomes fits the page's point that the evidence is strongest for factual and vocabulary content.
 
 ## Discussion
 

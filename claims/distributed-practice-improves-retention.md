@@ -12,7 +12,7 @@ sources:
     resource: "https://doi.org/10.1037/0033-2909.132.3.354"
     title: "Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin, 132*(3), 354–380. [doi:10.1037/0033-2909.132.3.354](https://doi.org/10.1037/0033-2909.132.3.354)"
     author: "Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D."
-    q: 3
+    q: 4
     i: "?"
     n: 839 assessments in 317 experiments from 184 articles
   - id: cepeda-et-al-2008
@@ -27,13 +27,13 @@ sources:
 # Distributed Practice Improves Retention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 2 studies · `q3`–`q4`
 
 Spacing the same learning episodes over time (distributed practice) produces stronger long-term retention than massing them together in a single session. The benefit is best established for delayed tests of verbal and declarative material, and the optimal gap between episodes scales with how long retention is measured.
 
 ## Subclaims
 
-`q3 i?` Across 271 massed-versus-spaced comparisons in verbal recall tasks, spaced presentation raised final-test recall from 36.7% to 47.3% correct with study time held equal, and only 12 comparisons showed no or a negative spacing effect; the benefit appeared at short as well as long retention intervals. [→ Cepeda et al. 2006](#cepeda-et-al-2006)
+`q4 i?` Across 271 massed-versus-spaced comparisons in verbal recall tasks, spaced presentation raised final-test recall from 36.7% to 47.3% correct with study time held equal, and only 12 comparisons showed no or a negative spacing effect; the benefit appeared at short as well as long retention intervals. [→ Cepeda et al. 2006](#cepeda-et-al-2006)
 
 `q3 i?` In a single study of more than 1,350 people learning facts, the review gap that maximised final-test performance grew as the test delay grew, but shrank as a proportion of it: from about 20–40% of a 1-week delay to about 5–10% of a 1-year delay. [→ Cepeda et al. 2008](#cepeda-et-al-2008)
 
@@ -43,7 +43,7 @@ Spacing the same learning episodes over time (distributed practice) produces str
 
 Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin, 132*(3), 354–380. [doi:10.1037/0033-2909.132.3.354](https://doi.org/10.1037/0033-2909.132.3.354)
 
-`q3 · meta-analysis (quantitative synthesis of accuracy differences)` · `i? · no standardised effect size for spaced vs massed; 36.7% vs 47.3% correct` · `n=839 assessments in 317 experiments from 184 articles`
+`q4 · meta-analysis (quantitative synthesis of accuracy differences)` · `i? · no standardised effect size for spaced vs massed; 36.7% vs 47.3% correct` · `n=839 assessments in 317 experiments from 184 articles`
 
 A meta-analysis of verbal recall experiments (paired associates, list learning and similar tasks). For the spaced-versus-massed question it pooled 271 comparisons from 254 studies with 14,811 participants in total, and compared percentage correct, because too few studies reported effect sizes. With study time equal, spaced presentation beat massed presentation overall (47.3% vs 36.7% correct) and at every retention-interval band, including tests under a minute later (50.1% vs 41.2%); several individual bands between 10 minutes and 7 days were not statistically significant on their own because few studies fell into them. Separate lag analyses found that the interstudy interval giving the best retention increased as the retention interval increased.
 

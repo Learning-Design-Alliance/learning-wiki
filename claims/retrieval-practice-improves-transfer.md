@@ -3,26 +3,57 @@ type: claim
 title: Retrieval Practice Improves Transfer
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: retrieval-practice-improves-transfer
 evidence_strength: provisional
+sources:
+  - id: pan-rickard-2018
+    resource: "https://doi.org/10.1037/bul0000151"
+    title: "Pan, S. C., & Rickard, T. C. (2018). Transfer of test-enhanced learning: Meta-analytic review and synthesis. *Psychological Bulletin, 144*(7), 710–756. [doi:10.1037/bul0000151](https://doi.org/10.1037/bul0000151)"
+    author: "Pan, S. C., & Rickard, T. C."
+    q: 4
+    i: 2
+    n: 122 experiments (192 effect sizes, N=10,382)
+  - id: butler-2010
+    resource: "https://doi.org/10.1037/a0019902"
+    title: "Butler, A. C. (2010). Repeated testing produces superior transfer of learning relative to repeated studying. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 36*(5), 1118–1133. [doi:10.1037/a0019902](https://doi.org/10.1037/a0019902)"
+    author: Butler, A. C.
+    q: 3
+    i: "?"
+    n: 4 experiments
 ---
 
 # Retrieval Practice Improves Transfer
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 2 studies · `q3`–`q4` · `i2` medium
 
 Practicing retrieval of learned material (rather than rereading or restudying) improves learners' ability to apply that knowledge to new problems and contexts, not just to recall it verbatim.
 
 ## Subclaims
 
-<!-- TODO -->
+`q4 i2` Across 192 transfer effect sizes, practice testing produced transfer relative to non-testing re-exposure (d = 0.40), but the benefit is greatest for application/inference questions and changed test formats, weakest for rearranged items and untested material, and bias-corrected estimates often show no positive transfer when favourable moderators are absent. [→ Pan & Rickard 2018](#pan-rickard-2018)
+
+`q3 i?` In four experiments with prose passages, repeated testing produced better one-week performance than repeated restudying on new inferential questions, both within the same knowledge domain and across different domains. [→ Butler 2010](#butler-2010)
 
 ## Evidence
 
-<!-- TODO -->
+### Pan & Rickard 2018
+
+Pan, S. C., & Rickard, T. C. (2018). Transfer of test-enhanced learning: Meta-analytic review and synthesis. *Psychological Bulletin, 144*(7), 710–756. [doi:10.1037/bul0000151](https://doi.org/10.1037/bul0000151)
+
+`q4 · meta-analysis` · `i2 · medium effect, d=0.40` · `n=122 experiments (192 effect sizes, N=10,382)`
+
+A random-effects meta-analysis of 67 published and unpublished articles spanning more than 40 years, comparing practice testing with a non-testing re-exposure control on transfer tests. Testing yielded transferable learning overall (d = 0.40, 95% CI [0.31, 0.50]), strongest across test formats, to application and inference questions, and to medical-diagnosis problems, and weakest to rearranged stimulus-response items, to untested material seen during study, and to worked-example problems. Response congruency, elaborated retrieval practice and initial test performance strongly moderated transfer. Publication-bias corrections (PET-PEESE and selection methods) left moderator effects largely intact but substantially reduced the intercept, often indicating no positive transfer when none of those moderators is present — a significant qualification of the unconditional claim.
+
+### Butler 2010
+
+Butler, A. C. (2010). Repeated testing produces superior transfer of learning relative to repeated studying. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 36*(5), 1118–1133. [doi:10.1037/a0019902](https://doi.org/10.1037/a0019902)
+
+`q3 · peer-reviewed experiment` · `i? · no effect size in the abstract read` · `n=4 experiments`
+
+Participants studied prose passages and then either repeatedly restudied them or took repeated tests on them. A week later the final test used the same questions (Experiment 1a), new inferential questions from the same knowledge domain (Experiments 1b and 2), or new inferential questions from different knowledge domains (Experiment 3). Repeated testing produced better retention and transfer than repeated studying in every case, indicating the benefit is not limited to the specific response practised.
 
 ## Discussion
 

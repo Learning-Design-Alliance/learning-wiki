@@ -3,26 +3,57 @@ type: claim
 title: Disciplinary Literacy Instruction Improves Comprehension
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: disciplinary-literacy-instruction-improves-comprehension
 evidence_strength: unrated
+sources:
+  - id: goldman-et-al-2019
+    resource: "https://doi.org/10.3102/0002831219831041"
+    title: "Goldman, S. R., Greenleaf, C., Yukhymenko-Lescroart, M., Brown, W., Ko, M.-L. M., Emig, J. M., George, M., Wallace, P., Blaum, D., & Britt, M. A. (2019). Explanatory modeling in science through text-based investigation: Testing the efficacy of the Project READI intervention approach. *American Educational Research Journal, 56*(4), 1148–1216. [doi:10.3102/0002831219831041](https://doi.org/10.3102/0002831219831041)"
+    author: "Goldman, S. R., Greenleaf, C., Yukhymenko-Lescroart, M., Brown, W., Ko, M.-L. M., Emig, J. M., George, M., Wallace, P., Blaum, D., & Britt, M. A."
+    q: 3
+    i: 1
+    n: 964 students, 24 schools
+  - id: reisman-2012
+    resource: "https://doi.org/10.1080/07370008.2011.634081"
+    title: "Reisman, A. (2012). Reading like a historian: A document-based history curriculum intervention in urban high schools. *Cognition and Instruction, 30*(1), 86–112. [doi:10.1080/07370008.2011.634081](https://doi.org/10.1080/07370008.2011.634081)"
+    author: Reisman, A.
+    q: 2
+    i: "?"
+    n: 236 students
 ---
 
 # Disciplinary Literacy Instruction Improves Comprehension
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 2 studies · `q2`–`q3` · `i1` small
 
 Teaching students the specialized ways of reading, writing, and thinking within a discipline — rather than generic comprehension strategies alone — improves their ability to comprehend discipline-specific texts.
 
 ## Subclaims
 
-<!-- TODO -->
+`q3 i1` In a cluster-randomised trial across 24 high schools, a semester of disciplinary-literacy science instruction (text-based investigation to build explanatory models) produced small gains in ninth graders' comprehension of new multiple science texts, but no gain in the explanatory essays students wrote. [→ Goldman et al. 2019](#goldman-et-al-2019)
+
+`q2 i?` In a quasi-experiment in five urban high schools, a six-month document-based history curriculum improved 11th graders' historical thinking, factual knowledge and general reading comprehension compared with textbook instruction (no effect sizes in the abstract). [→ Reisman 2012](#reisman-2012)
 
 ## Evidence
 
-<!-- TODO -->
+### Goldman et al. 2019
+
+Goldman, S. R., Greenleaf, C., Yukhymenko-Lescroart, M., Brown, W., Ko, M.-L. M., Emig, J. M., George, M., Wallace, P., Blaum, D., & Britt, M. A. (2019). Explanatory modeling in science through text-based investigation: Testing the efficacy of the Project READI intervention approach. *American Educational Research Journal, 56*(4), 1148–1216. [doi:10.3102/0002831219831041](https://doi.org/10.3102/0002831219831041)
+
+`q3 · cluster-randomised controlled trial (not pre-registered)` · `i1 · small effect, d=0.26 (multiple-choice) and 0.32 (multiple-text comprehension)` · `n=964 students, 24 schools`
+
+Schools were randomly assigned, within strata, to deliver the Project READI ninth-grade biology intervention for a semester or to continue business as usual (48 teachers, 12 schools per condition). Intervention students read, discussed and reasoned from sets of science texts to build explanatory models, with teachers making the discipline's reading practices explicit. On texts about topics neither group had studied, intervention students scored higher on a multiple-choice comprehension task (effect size 0.26) and on a multiple-text comprehension assessment (GISA, effect size 0.32), controlling for prior performance. They did not include more concepts or connections in their written explanatory essays, which the authors attribute to too little support for moving from oral argument to independent writing — so the benefit is to comprehension, not yet to disciplinary writing.
+
+### Reisman 2012
+
+Reisman, A. (2012). Reading like a historian: A document-based history curriculum intervention in urban high schools. *Cognition and Instruction, 30*(1), 86–112. [doi:10.1080/07370008.2011.634081](https://doi.org/10.1080/07370008.2011.634081)
+
+`q2 · quasi-experiment with a control group` · `i? · no effect size reported in the abstract` · `n=236 students`
+
+Eleventh-grade students in five San Francisco high schools took part in a six-month Reading Like a Historian curriculum, in which a "Document-Based Lesson" had them use background knowledge to question and reconcile historical accounts from several primary sources, instead of textbook-driven lessons. A MANCOVA comparing treatment and control classes found significant effects of the treatment on all four outcomes: historical thinking, transfer of historical thinking to contemporary issues, factual knowledge, and general reading comprehension. Only the abstract was read, so the size of these effects is not recorded here.
 
 ## Discussion
 

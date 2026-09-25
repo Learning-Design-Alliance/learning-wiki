@@ -3,26 +3,40 @@ type: claim
 title: Learning Space Redesign Alone Insufficient
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: learning-space-redesign-alone-insufficient
 evidence_strength: weak
+sources:
+  - id: imms-and-byers-2016
+    resource: "https://doi.org/10.1007/s10984-016-9210-0"
+    title: "Imms, W., & Byers, T. (2017). Impact of classroom design on teacher pedagogy and student engagement and performance in mathematics. *Learning Environments Research, 20*(1), 139–152. [doi:10.1007/s10984-016-9210-0](https://doi.org/10.1007/s10984-016-9210-0)"
+    author: "Imms, W., & Byers, T."
+    q: 2
+    i: 2
+    n: 52 students (3 participating classes vs. 3 matched non-participating comparison classes)
 ---
 
 # Learning Space Redesign Alone Insufficient
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium · n=52 students (3 participating classes vs. 3 matched non-participating comparison classes)
 
 Redesigning physical learning spaces (flexible seating, furniture, layout, decor) does not by itself improve learning outcomes; physical changes must be paired with corresponding changes in pedagogy to affect achievement.
 
 ## Subclaims
 
-<!-- TODO -->
+`q2 i2` A single-subject study of three redesigned classroom modes found that student mathematics performance improved (often substantially) only for the two classes whose teachers visibly changed their pedagogical approach in the new space, while a third class taught in the identical redesigned rooms by a teacher whose practice did not adapt underperformed its matched comparison class — evidence that the space change alone did not drive the outcome. [→ Imms and Byers 2016](#imms-and-byers-2016)
 
 ## Evidence
 
-<!-- TODO -->
+### Imms and Byers 2016
+
+Imms, W., & Byers, T. (2017). Impact of classroom design on teacher pedagogy and student engagement and performance in mathematics. *Learning Environments Research, 20*(1), 139–152. [doi:10.1007/s10984-016-9210-0](https://doi.org/10.1007/s10984-016-9210-0)
+
+`q2 · quasi-experimental single-subject research design with matched comparison classes` · `i2 · medium-to-very-large positive effects for two classes, small negative effects for a third (d range -0.46 to +1.98)` · `n=52 students (3 participating classes vs. 3 matched non-participating comparison classes)`
+
+At an Australian secondary school, three grade-7 mathematics classes (C1, C2, C3; n=52) rotated through three physically identical sequences of redesigned classrooms (traditional/mode 1, student-centred/mode 2, and a dynamic technology-infused/mode 3 space), each taught by its own regular teacher, and were compared against matched non-participating comparison classes (N1, N2, N3) that stayed in traditional rooms all year. Using single-sample t-tests and Cohen's d, two of the three classes (C1, C2) significantly and often very largely outperformed their matched peers across all three room modes (d = +0.76 to +1.98), and the authors attribute this to teachers who visibly altered [active learning](../principles/active-learning.md) practices and technology use in the redesigned spaces — "this clear and consistent outperformance ... suggests that the difference in teacher, and therefore approach, relationships and pedagogical approach, was an influencing factor," and later "reinforces the significant effect of the teacher." The third class (C3), taught in the identical redesigned rooms, instead underperformed its matched comparison class in every mode (d = -0.08 to -0.46), and this "underperformance was fairly consistent" despite the same physical redesign. The authors conclude the findings "remain largely conjecture until further studies can better isolate the impact of specific pedagogies."
 
 ## Discussion
 

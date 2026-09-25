@@ -3,26 +3,74 @@ type: claim
 title: Elaborative Interrogation Improves Learning
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: elaborative-interrogation-improves-learning
 evidence_strength:
+sources:
+  - id: dunlosky-et-al-2013
+    resource: "https://doi.org/10.1177/1529100612453266"
+    title: "Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving Students' Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)"
+    author: "Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T."
+    q: 3
+    i: "?"
+    n: 10 learning techniques reviewed
+  - id: seifert-1993
+    resource: "https://doi.org/10.1037/0022-0663.85.4.642"
+    title: "Seifert, T. L. (1993). Effects of elaborative interrogation with prose passages. *Journal of Educational Psychology, 85*(4), 642–651. [doi:10.1037/0022-0663.85.4.642](https://doi.org/10.1037/0022-0663.85.4.642)"
+    author: Seifert, T. L.
+    q: 3
+    i: "?"
+    n: 114 students
+  - id: kühl-and-bertrams-2019
+    resource: "https://doi.org/10.3389/fpsyg.2019.00707"
+    title: "Kühl, T., & Bertrams, A. (2019). Is Learning With Elaborative Interrogation Less Desirable When Learners Are Depleted? *Frontiers in Psychology, 10*, 707. [doi:10.3389/fpsyg.2019.00707](https://doi.org/10.3389/fpsyg.2019.00707)"
+    author: "Kühl, T., & Bertrams, A."
+    q: 3
+    i: "?"
+    n: 97 participants
 ---
 
 # Elaborative Interrogation Improves Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 3 studies · `q3` peer-reviewed experiment
 
 Elaborative interrogation — prompting learners to answer "why is this true?" or "why does this make sense?" about factual statements — supports learning by connecting new material to prior knowledge.
 
 ## Subclaims
 
-<!-- TODO -->
+`q3 i?` A narrative review of the learning-techniques literature rates elaborative interrogation as moderate utility: its benefits generalise across some learners, materials and tasks, but it has not been adequately evaluated in educational contexts. [→ Dunlosky et al. 2013](#dunlosky-et-al-2013)
+
+`q3 i?` In a randomised experiment with 6th and 7th graders reading prose, generating "why" elaborations produced better memory for main ideas than underlining alone. [→ Seifert 1993](#seifert-1993)
+
+`q3 i?` In an experiment with 97 adults, a prompt-based elaborative interrogation variant (learners generate removed text segments in answer to prompts) produced no retention or transfer advantage over reading the complete text, while more than doubling study time. [→ Kühl and Bertrams 2019](#kuhl-and-bertrams-2019)
 
 ## Evidence
 
-<!-- TODO -->
+### Dunlosky et al. 2013
+
+Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving Students' Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)
+
+`q3 · systematic narrative review` · `i? · no pooled effect size reported in the abstract` · `n=10 learning techniques reviewed`
+
+A monograph reviewing ten learning techniques and judging how far each one's benefits generalise across learning conditions, student characteristics, materials and criterion tasks. Elaborative interrogation received a moderate utility rating, alongside self-explanation and interleaved practice. The authors held it back from a high rating because the evidence for its efficacy is limited, and in particular because it had not been adequately evaluated in educational contexts. Only the abstract was read, so the review's per-study findings and moderators are not reported here.
+
+### Seifert 1993
+
+Seifert, T. L. (1993). Effects of elaborative interrogation with prose passages. *Journal of Educational Psychology, 85*(4), 642–651. [doi:10.1037/0022-0663.85.4.642](https://doi.org/10.1037/0022-0663.85.4.642)
+
+`q3 · peer-reviewed randomised experiment` · `i? · no effect size in the abstract` · `n=114 students`
+
+114 students in grades 6 and 7 were randomly assigned to one of four conditions: underline only, underline with elaboration, generate elaboration, and elaboration with a study sheet. Generating an elaboration led to better memory for main ideas than underlining alone, and the underline-with-elaboration group did better on an inference problem. The characteristics of students' elaborations did not predict whether they learned the target fact. Only the abstract was read.
+
+### Kühl and Bertrams 2019
+
+Kühl, T., & Bertrams, A. (2019). Is Learning With Elaborative Interrogation Less Desirable When Learners Are Depleted? *Frontiers in Psychology, 10*, 707. [doi:10.3389/fpsyg.2019.00707](https://doi.org/10.3389/fpsyg.2019.00707)
+
+`q3 · peer-reviewed randomised experiment, 2 × 2 between-subjects` · `i? · null result, no effect size reported for learning condition: no effect on retention, F(1, 91) = 0.44, p = 0.51, or on transfer, F(1, 91) = 0.20, p = 0.66` · `n=97 participants`
+
+97 participants were randomly assigned by ego depletion (yes or no) and learning condition. In the elaborative interrogation condition some segments of a text about how planes fly were removed and replaced with prompts asking for that information. The control group read the complete text with no prompts. ANCOVAs found no effect of learning condition on retention or transfer. Learners given prompts reported more mental effort and spent far longer with the material (about 360–390 s against 118–130 s). This operationalisation (generating missing text) differs from the classic "why is this true?" prompt, so it qualifies the claim rather than refuting it. The full text was read.
 
 ## Discussion
 

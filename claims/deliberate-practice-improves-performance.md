@@ -3,26 +3,40 @@ type: claim
 title: Deliberate Practice Improves Performance
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: deliberate-practice-improves-performance
 evidence_strength:
+sources:
+  - id: macnamara-et-al-2014
+    resource: "https://doi.org/10.1177/0956797614535810"
+    title: "Macnamara, B. N., Hambrick, D. Z., & Oswald, F. L. (2014). Deliberate practice and performance in music, games, sports, education, and professions: A meta-analysis. *Psychological Science, 25*(8), 1608–1618. [doi:10.1177/0956797614535810](https://doi.org/10.1177/0956797614535810)"
+    author: "Macnamara, B. N., Hambrick, D. Z., & Oswald, F. L."
+    q: 4
+    i: 2
+    n: not established from abstract
 ---
 
 # Deliberate Practice Improves Performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i2` medium · n=not established from abstract
 
 Structured, effortful practice on well-defined subskills at the edge of current ability — with immediate feedback and opportunities for repetition and refinement — produces larger performance gains than mere repetition or experience.
 
 ## Subclaims
 
-<!-- TODO -->
+`q4 i2` A meta-analysis across seven domains finds deliberate practice explains a moderate-to-large share of performance variance in well-defined domains with rapid feedback (26% in games, 21% in music, 18% in sports) but only a small share in education (4%) and less than 1% in professions. [→ Macnamara et al. 2014](#macnamara-et-al-2014)
 
 ## Evidence
 
-<!-- TODO -->
+### Macnamara et al. 2014
+
+Macnamara, B. N., Hambrick, D. Z., & Oswald, F. L. (2014). Deliberate practice and performance in music, games, sports, education, and professions: A meta-analysis. *Psychological Science, 25*(8), 1608–1618. [doi:10.1177/0956797614535810](https://doi.org/10.1177/0956797614535810)
+
+`q4 · meta-analysis` · `i2 · domain-dependent, R²=.01–.26 (medium-large in games/music/sports, small in education, negligible in professions)` · `n=not established from abstract`
+
+A meta-analysis covering all major domains in which deliberate practice has been investigated (music, games, sports, education, and professions), testing whether individual differences in deliberate-practice accumulation account for individual differences in performance. Deliberate practice explained the largest share of variance in domains with well-defined tasks and immediate feedback — games (26%), music (21%), and sports (18%) — and a much smaller share in education (4%) and professions (under 1%). The authors conclude that deliberate practice is an important predictor of performance but explains far less of it than originally proposed, and that its explanatory power is strongly domain-dependent — directly supporting this page's own "Domain dependence" discussion rather than the stronger, domain-general version of the claim.
 
 ## Discussion
 

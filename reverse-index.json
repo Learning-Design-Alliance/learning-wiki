@@ -1,7 +1,7 @@
 {
  "coverage": {
   "claims->claims": 455,
-  "claims->elements": 128,
+  "claims->elements": 135,
   "claims->learner-variables": 1,
   "claims->methods": 3,
   "claims->patterns": 103,
@@ -20619,6 +20619,9 @@
    "concept-mapping-improves-learning": {
     "claims": [
      {
+      "slug": "learner-constructed-graphic-organizers-outperform-provided"
+     },
+     {
       "slug": "retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration"
      }
     ],
@@ -30355,6 +30358,11 @@
     ]
    },
    "graphic-organizers-support-novice-comprehension": {
+    "claims": [
+     {
+      "slug": "learner-constructed-graphic-organizers-outperform-provided"
+     }
+    ],
     "elements": [
      {
       "polarity": "+",
@@ -37799,6 +37807,9 @@
       "polarity": "+",
       "slug": "peer-assessment-improves-achievement",
       "strength": "W"
+     },
+     {
+      "slug": "prior-knowledge-needed-for-accurate-self-assessment"
      }
     ],
     "strategies": [
@@ -70209,6 +70220,11 @@
     ]
    },
    "dialogic-reading": {
+    "claims": [
+     {
+      "slug": "joint-book-reading-predicts-literacy-success"
+     }
+    ],
     "strategies": [
      {
       "slug": "contextual_vocabulary_introduction"
@@ -71677,10 +71693,28 @@
       "slug": "explicit-handwriting-instruction-improves-legibility"
      },
      {
+      "slug": "feedback-enhances-retrieval-practice"
+     },
+     {
+      "slug": "minimal-guidance-less-effective-for-novices"
+     },
+     {
+      "slug": "minimally-guided-instruction-less-effective-for-novices"
+     },
+     {
       "slug": "parent-coaching-outperforms-information-only"
      },
      {
+      "slug": "retrieval-practice-enhances-long-term-retention"
+     },
+     {
+      "slug": "retrieval-practice-improves-learning"
+     },
+     {
       "slug": "retrieval-practice-improves-retention"
+     },
+     {
+      "slug": "testing-effect-improves-retention"
      }
     ],
     "elements": [
@@ -73662,6 +73696,9 @@
     "claims": [
      {
       "slug": "productive-failure-improves-conceptual-learning"
+     },
+     {
+      "slug": "productive-failure-improves-learning"
      }
     ]
    },
@@ -75775,6 +75812,9 @@
      },
      {
       "slug": "peer-assisted-learning-improves-achievement"
+     },
+     {
+      "slug": "physical-experience-enhances-science-learning"
      },
      {
       "slug": "retrieval-fails-without-encoding"
@@ -80482,6 +80522,14 @@
     ]
    },
    "retrieval-practice": {
+    "claims": [
+     {
+      "slug": "desirable-difficulties-enhance-learning"
+     },
+     {
+      "slug": "desirable-difficulties-improve-retention"
+     }
+    ],
     "elements": [
      {
       "slug": "continuous-review"
@@ -88235,6 +88283,9 @@
      },
      {
       "slug": "minimal-guidance-less-effective-for-novices"
+     },
+     {
+      "slug": "minimally-guided-instruction-less-effective-for-novices"
      },
      {
       "slug": "phonics-instruction-improves-word-reading"
@@ -111338,9 +111389,7 @@
       "slug": "minimal-guidance-instruction-less-effective"
      },
      {
-      "polarity": "+",
-      "slug": "minimal-guidance-less-effective-for-novices",
-      "strength": "M"
+      "slug": "minimal-guidance-less-effective-for-novices"
      },
      {
       "slug": "minimally-guided-instruction-less-effective-for-novices"

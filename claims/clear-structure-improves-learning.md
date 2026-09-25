@@ -12,7 +12,7 @@ sources:
     resource: "https://doi.org/10.1007/s11423-020-09748-7"
     title: "Alpizar, D., Adesope, O. O., & Wong, R. M. (2020). A meta-analysis of signaling principle in multimedia learning environments. *Educational Technology Research and Development, 68*(5), 2095–2119. [doi:10.1007/s11423-020-09748-7](https://doi.org/10.1007/s11423-020-09748-7)"
     author: "Alpizar, D., Adesope, O. O., & Wong, R. M."
-    q: 3
+    q: 4
     i: 1
     n: 29 studies (44 effect sizes, 2726 participants)
   - id: lorch-lorch-1996
@@ -27,13 +27,13 @@ sources:
 # Clear Structure Improves Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 2 studies · `q3`–`q4` · `i1` small
 
 Presenting learning content with an explicit, predictable organization — clear goals, logical sequencing, signposting, and consistent formatting — reduces extraneous processing and helps learners build coherent mental models.
 
 ## Subclaims
 
-`q3 i1` Across 29 experiments (2,726 participants), adding signals that make the organization and key elements of multimedia material explicit improved learning outcomes by a small-to-moderate amount, with effects moderated by study quality, pacing and prior-knowledge controls. [→ Alpizar et al. 2020](#alpizar-et-al-2020)
+`q4 i1` Across 29 experiments (2,726 participants), adding signals that make the organization and key elements of multimedia material explicit improved learning outcomes by a small-to-moderate amount, with effects moderated by study quality, pacing and prior-knowledge controls. [→ Alpizar et al. 2020](#alpizar-et-al-2020)
 
 `q3 i?` In expository text, organizational signals (headings, previews, summaries) often did not change how much college readers recalled, but did change what they recalled, consistent with signals helping readers build a representation of the text's topic structure — a qualification on "structure improves learning" as a general amount-learned claim. [→ Lorch & Lorch 1996](#lorch-lorch-1996)
 
@@ -43,7 +43,7 @@ Presenting learning content with an explicit, predictable organization — clear
 
 Alpizar, D., Adesope, O. O., & Wong, R. M. (2020). A meta-analysis of signaling principle in multimedia learning environments. *Educational Technology Research and Development, 68*(5), 2095–2119. [doi:10.1007/s11423-020-09748-7](https://doi.org/10.1007/s11423-020-09748-7)
 
-`q3 · meta-analysis` · `i1 · small effect, d=0.38` · `n=29 studies (44 effect sizes, 2726 participants)`
+`q4 · meta-analysis` · `i1 · small effect, d=0.38` · `n=29 studies (44 effect sizes, 2726 participants)`
 
 A meta-analysis of experimental studies comparing multimedia materials with and without signals (cues that direct attention to the critical elements and organization of the material). Pooling 44 independent effect sizes from 29 studies with 2,726 participants, signaling was associated with better learning outcomes (d = 0.38), with individual effects ranging from small to large. The effect was moderated by participant, presentation (e.g., pacing) and methodological features; benefits were clearer in higher-quality studies that used a pretest and controlled for prior knowledge. Read from the ERIC abstract only.
 

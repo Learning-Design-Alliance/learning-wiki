@@ -3,26 +3,40 @@ type: claim
 title: Self Assessment Improves Self Regulated Learning
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: self-assessment-improves-self-regulated-learning
 evidence_strength: unrated
+sources:
+  - id: panadero-et-al-2017
+    resource: "https://doi.org/10.1016/j.edurev.2017.08.004"
+    title: "Panadero, E., Jonsson, A., & Botella, J. (2017). Effects of self-assessment on self-regulated learning and self-efficacy: Four meta-analyses. *Educational Research Review, 22*, 74–98. [doi:10.1016/j.edurev.2017.08.004](https://doi.org/10.1016/j.edurev.2017.08.004)"
+    author: "Panadero, E., Jonsson, A., & Botella, J."
+    q: 4
+    i: 1
+    n: 2,305 students across 19 studies
 ---
 
 # Self Assessment Improves Self Regulated Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i1` small · n=2,305 students across 19 studies
 
 When learners appraise the quality of their own work against criteria, they gain the evaluative information needed to plan, monitor, and adjust their studying — the core operations of [self-regulated learning](../theories/self-regulated-learning.md).
 
 ## Subclaims
 
-<!-- TODO -->
+`q4 i1` A meta-analysis of self-assessment interventions found a small but statistically significant positive effect on students' use of self-regulated-learning strategies (d=0.23, 12 effect sizes, 369 participants), with converging support from a reduction in maladaptive self-regulatory behaviors and a large effect on self-efficacy. [→ Panadero et al. 2017](#panadero-et-al-2017)
 
 ## Evidence
 
-<!-- TODO -->
+### Panadero et al. 2017
+
+Panadero, E., Jonsson, A., & Botella, J. (2017). Effects of self-assessment on self-regulated learning and self-efficacy: Four meta-analyses. *Educational Research Review, 22*, 74–98. [doi:10.1016/j.edurev.2017.08.004](https://doi.org/10.1016/j.edurev.2017.08.004)
+
+`q4 · random-effects meta-analysis (four sub-analyses)` · `i1 · small effect on Learning SRL, d=0.23; medium/non-significant on the other two SRL measures; large on self-efficacy, d=0.73` · `n=2,305 students across 19 studies`
+
+Four random-effects meta-analyses (Hedges & Olkin method) pooled 19 experimental and quasi-experimental studies of self-assessment interventions in K-12 and higher-education classrooms. For the "Learning SRL" outcome — measures of strategy use such as planning, monitoring and self-regulatory strategy deployment — 12 effect sizes from 369 students produced a combined effect of d=0.23, 95% CI [0.08, 0.39], a small but statistically significant positive effect. A second meta-analysis on "Negative SRL" (self-regulatory behaviors detrimental to learning, e.g. procrastination) found d=−0.65 (k=6, n=347; CI crossed zero), meaning self-assessment reduced these behaviors; a third on SRL measured qualitatively found d=0.43 (k=3, n=338; CI crossed zero, underpowered). A separate meta-analysis of 27 effect sizes on self-efficacy found a larger effect, d=0.73, 95% CI [0.39, 1.08], moderated by gender (larger for girls) and by whether the self-assessment intervention included a monitoring component.
 
 ## Discussion
 
