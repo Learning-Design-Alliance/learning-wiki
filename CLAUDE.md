@@ -109,17 +109,32 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
-### 2026-09-25 (evening) — 81 evidence-less claims filled by in-session agents
+### 2026-09-25 (night) — the gap queue is empty: every claim page carries evidence
 
-The gap queue (`priority_worklist.py --queue gap`) went from 304 to 223. Each claim was
-filled by one agent working from `scripts/eval/gapfill/TASK.md`, and the process, with its
-lessons, is in that folder's README. **Read each agent's report before applying its
-draft:** agents coded `i` from an abstract's adjectives, converted eta-squared to d, used
-Crossref's truncated titles and gave one meta-analysis different `q` codes on different
-pages, and each was fixed before commit. Most entries rest on abstracts, which they say.
-**Several filled pages now contradict their own titles** (learner-built graphic organizers
-among them): that is flagged in each Discussion, and renaming is the maintainer's call.
-Near-duplicate pages were filled from their siblings' verified drafts, not merged.
+The gap queue (`priority_worklist.py --queue gap`) went from 304 to 0 across #105–#108. Each
+claim was filled by one agent working from `scripts/eval/gapfill/TASK.md`, or, for a
+near-duplicate, from a sibling's verified draft after checking the sibling's evidence tests the
+duplicate's claim. The process and its lessons are in that folder's README. **Do not re-run
+the gap-fill over these pages;** further work is deepening them (full text for abstract-only
+entries, more studies), not filling them.
+
+- **Read each agent's report before applying its draft.** The corrections reviewers made
+  most often (invented subtitles, rounded or computed numbers, numbers taken from another
+  paper's summary, overlap statistics coded as d, one study coded differently on two pages)
+  are now rules in `TASK.md`.
+- **About a dozen pages now contradict their own titles** (laptop notes, structured peer
+  assessment, self-affirmation, learner-built organizers, handwriting-intervention
+  equivalence and others): each says so in its Discussion, and renaming is the maintainer's
+  call.
+- **Abstract-only evidence is admitted as weak evidence with a conditional note** (maintainer
+  decision): `(abstract only)` in the codes line and a sentence saying what the abstract could
+  not establish. Most entries from this pass rest on abstracts. See
+  `eval/abstract-only/PLAN.md`, where the status-cap question is still open.
+- **Two pages had bodies about the wrong subject** (peer-assisted learning carried the
+  worked-examples claim; self-determination instruction was framed as SDT needs theory). They
+  were corrected to match their slug and inbound links, with the old text kept in a
+  `<!-- deprecated -->` block. When a page's text and its inbound links disagree, the links say
+  what the page is cited for.
 
 ### 2026-09-25 (later) — batch 4, a bad provider, and a DOI sweep that nearly deleted good DOIs
 

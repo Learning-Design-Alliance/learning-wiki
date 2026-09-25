@@ -42,7 +42,7 @@ chrome --headless=new --no-sandbox --proxy-server="$HTTPS_PROXY" \
 
 Every other certificate is still verified. Never use `--ignore-certificate-errors`.
 
-## What 81 claims taught
+## What the first 81 claims taught
 
 - **Most sources could be read only as abstracts.** Publisher sites block automated
   access. Every entry says which it was, and an abstract without an effect size is `i?`.
@@ -53,3 +53,29 @@ Every other certificate is still verified. Never use `--ignore-certificate-error
 - **An agent sent a personal email address to Unpaywall once.** The contract now allows
   Unpaywall only with the organisation's address, contact@learningdesignalliance.org (the
   maintainer's choice), and forbids sending any other identifier to an outside service.
+
+## What the full queue taught (304 claims, 2026-09-25)
+
+The queue went from 304 evidence-less claims to 0. Roughly half were filled by an agent
+draft and half were near-duplicates filled from a sibling's verified draft, after checking
+that the sibling's evidence tests the duplicate's claim (several did not, and got their own
+agent). What reviewers still had to correct, now written into `TASK.md`:
+
+- **Invented or rounded numbers**: a subtitle written from memory, 0.198 rounded to 0.20 and
+  coded up a band, a midpoint of two effects, a gap computed between two subgroups.
+- **Numbers from the wrong document**: effect sizes taken from another paper's summary of the
+  study, or from the authors' companion chapter rather than the cited article.
+- **Codes from the wrong scale**: GPA points, Phi and log response ratios coded as if they
+  were d.
+- **The same study coded differently on different pages**, or cited under two DOIs.
+- **Links to pages that do not exist**, which lint catches.
+
+Two structural lessons:
+
+- **Check the page before trusting its title.** Two pages had bodies about a different
+  subject from their slug and inbound links (one described worked examples under a
+  peer-assisted-learning slug). The inbound links say what a page is cited for; follow them.
+- **The evidence often cuts against the title.** About a dozen pages now say so in their
+  Discussion. They are flagged, not renamed, because renaming breaks links and is the
+  maintainer's call.
+
