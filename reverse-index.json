@@ -1,7 +1,7 @@
 {
  "coverage": {
   "claims->claims": 455,
-  "claims->elements": 133,
+  "claims->elements": 134,
   "claims->learner-variables": 1,
   "claims->methods": 3,
   "claims->patterns": 103,
@@ -80519,6 +80519,9 @@
     "claims": [
      {
       "slug": "desirable-difficulties-enhance-learning"
+     },
+     {
+      "slug": "desirable-difficulties-improve-retention"
      }
     ],
     "elements": [

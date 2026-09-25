@@ -10,6 +10,8 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/desirable-difficulties-improve-retention](claims/desirable-difficulties-improve-retention.md) — Evidence copied from the verified entry on its near-duplicate sibling page
+* **Ingest**: [claims/teacher-student-relationships-improve-engagement](claims/teacher-student-relationships-improve-engagement.md) — Evidence copied from the verified entry on its near-duplicate sibling page
 * **Ingest**: [claims/self-assessment-improves-self-regulated-learning](claims/self-assessment-improves-self-regulated-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/self-assessment-accuracy-is-low-without-training](claims/self-assessment-accuracy-is-low-without-training.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/sel-benefits-persist-follow-up](claims/sel-benefits-persist-follow-up.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
