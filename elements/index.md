@@ -2,7 +2,7 @@
 
 Instructional building blocks — the components you compose into patterns.
 
-**347 entries** · 0 stable · 307 in review · 40 drafts
+**372 entries** · 0 stable · 307 in review · 65 drafts
 
 ---
 
@@ -386,43 +386,118 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 ## Draft
 
+Jump to: [A](#letter-a) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) · [F](#letter-f) · [G](#letter-g) · [I](#letter-i) · [K](#letter-k) · [L](#letter-l) · [M](#letter-m) · [O](#letter-o) · [P](#letter-p) · [R](#letter-r) · [S](#letter-s) · [T](#letter-t) · [W](#letter-w)
+
+#### A {: #letter-a }
+
+* [A conceptual structure and procedure for message design incorporated in a performance support system](message-design-performance-support-system.md) - The article describes a message design theory developed by Seels and colleagues that provides \"a conceptual structure and procedure which relates message design to types of learning, media, and learning paradigms\".
 * [Addressing Student Misconceptions](addressing-student-misconceptions.md) - Students of all ages carry misleading or outright wrong prior beliefs into a lesson, some well-documented and predictable, others idiosyncratic — anticipating them in advance and treating them with respect even while correcting them is more effective than assuming a blank slate.
 * [After-School Teacher Research Labs](after-school-teacher-research-labs.md) - Study groups in which teacher-researchers and university-based researchers \"discuss research findings, and to plan, develop, and support innovations in instruction\".
 * [Agentic Data-Engagement Positions](agentic-data-engagement-positions.md) - A set of four proactive roles — active researcher/consumer, analyst, author, and socio-scientific communicator — that learners can take up when engaging with real-world data, rather than being positioned as passive recipients of official data.
+* [Annotated bibliography of K-8 cultural and global awareness materials organized in 11 categories](arizona-project-global-awareness-bibliography.md) - The article is a guide that provides, in one integrated document, a listing and brief description of materials located in the Project Resource Center at Arizona State University.
+* [Annotated resource list of books, videos and websites on cognitive learning styles for ELT](cognitive-learning-styles-resource-list.md) - The article's appendices compile suggested materials for ELT instructors: coursebooks and vocabulary references for intermediate to advanced levels, and online videos on cognitive learning.
 * [Antecedent-Behavior-Consequence (ABC) Model](antecedent-behavior-consequence-model.md) - The ABC model analyzes behavior as an environmental trigger (antecedent) producing an observable action (behavior) followed by an outcome that strengthens or weakens its recurrence (consequence) — the applied-behavior-analysis framework for identifying what is actually maintaining a classroom behavior before intervening.
+* [Application programming interfaces as shared infrastructure for automated assessment tools](assessment-tool-apis-shared-infrastructure.md) - The report identifies two classes of software needed for computer-based automated assessment tools: individual tool applications and application programming interfaces.
+
+#### C {: #letter-c }
+
 * [Child-Directed Speech](child-directed-speech.md) - Child-directed speech — exaggerated pitch, careful articulation, and simplified structure used when speaking with infants and toddlers — increases infant attention and supports early phoneme discrimination.
+* [Classroom Organization and Management Program (COMP)](classroom-organization-and-management-program.md) - The Classroom Organization and Management Program (COMP) is a manualized classroom management program that appeared in 7 of the 12 included studies (58%), making it the most frequently used intervention in the review.
+* [Cognitive tools: technologies that enhance the cognitive powers of human beings](cognitive-tools-computer-as-tool.md) - The paper adopts Jonassen and Reeves' definition: \"Cognitive tools refer to technologies, tangible or intangible, that enhance the cognitive powers of human beings during thinking, problem solving, and learning.\" Writ...
 * [CoMTA and MathDial Math Tutoring Dialogue Datasets](comta-and-mathdial-tutoring-dialogue-datasets.md) - The article evaluates dialogueKT on two existing math tutoring dialogue datasets.
 * [Constructed-Response Assessment Items](constructed-response-assessment-items.md) - Completion, short-answer, and extended-response (essay) items ask students to recall and produce an answer rather than recognize one, reducing guessing but introducing a genuine scoring-reliability problem that model answers, sample-reading, and rubrics are all meant to address.
+* [CRESST Integrated Assessment System: a computer-based suite of performance assessment tasks](cresst-integrated-assessment-system.md) - The Integrated Assessment System is CRESST's collective name for a suite of software products measuring various types of learning.
+* [Culture universals as conceptual tools for studying cultures](culture-universals-conceptual-tools.md) - The bibliography annotates Alice Ann Cleaveland's UNIVERSALS OF CULTURE (Global Perspectives in Education, 1979) as \"A handbook for studying cultures using conceptual tools called 'culture universals' i.e.
+
+#### D {: #letter-d }
+
 * [Daily Before-and-After SRL Learning Diary](daily-before-and-after-srl-learning-diary.md) - A daily online learning diary with two sections per learning day.
 * [Descriptive, evaluative and substantive peer criticism progression](descriptive-evaluative-substantive-peer-criticism.md) - The paper describes Bruffee's sequence of written peer criticism: descriptive (saying something about a text without judging it), evaluative (what is good and what could improve it), and substantive (a judgment about...
+* [Developmental checklists for one-to-one correspondence, classification, and seriation as teacher assessment and curriculum-planning tools](preschool-math-development-checklists.md) - Three appended checklists (Appendices I–III) trace staged development of matching and one-to-one correspondence, sets and classification, and order and seriation, with dated observation columns (Sept.–Oct., Dec.–Jan.,...
 * [Digital Open Badges](digital-open-badges.md) - Digital Open Badges are portable, metadata-rich micro-credentials that recognize discrete competencies, including informal learning that traditional grades and degrees do not capture or make transparent.
 * [DKT-Sem: Deep Knowledge Tracing with Semantic Embeddings](dkt-sem-semantic-embedding-knowledge-tracing.md) - DKT-Sem is the article's simpler alternative KT method for dialogues, described as a strong baseline.
+
+#### E {: #letter-e }
+
 * [Educational Belief Scale (40 items, five philosophy sub-dimensions)](educational-belief-scale-five-philosophy-dimensions.md) - A self-report instrument the article uses to measure teachers' educational philosophy beliefs: \"there are 40 items composed of five sub-dimensions that are scored as five-point Likert-type\".
 * [EduData and EduKTM Open-Source Knowledge Tracing Libraries](edudata-and-eduktm-libraries.md) - The survey's authors released two open-source algorithm libraries: \"EduData that enables the download and preprocessing of KT-related datasets, and EduKTM that provides an extensible and unified implementation of exis...
+* [Eight proposed CRESST assessment tools with specifications and scalability outlooks](cresst-proposed-assessment-tools.md) - The report specifies eight proposed tools: Collaborative Concept Mapper, Flowcharter, Idea Generator and Evaluator, Model Simulator, Networked Team Simulator, Multimedia Concept Mapper, Outliner, and Problem Solver.
 * [Embodied Choreographic Assessment](embodied-choreographic-assessment.md) - An iterative formative-assessment task in which learners collaboratively choreograph movement to represent a concept, then revise it across cycles of peer feedback and reflection.
 * [Epistemic Games: Shared-Understanding Moves](epistemic-games-shared-understanding-moves.md) - Five recurring, teachable interaction moves — knowledge sharing, perspective-taking, simulation, knowledge validation, and negotiation — that interdisciplinary teams use to construct a shared problem understanding.
 * [Evaluating and Justifying Mechanistic Explanations](evaluating-and-justifying-mechanistic-explanations.md) - A task in which learners judge competing explanations for a phenomenon (mechanistic, circular, teleological), decide whether each actually answers a "how" question, and justify their evaluation.
+
+#### F {: #letter-f }
+
 * [Full and completion worked examples for simultaneous-equation algebra](full-and-completion-worked-examples-for-simultaneous-equations.md) - Two versions of the same worked algebra problems used in the study.
+
+#### G {: #letter-g }
+
 * [GPT-4o Automated Dialogue Annotation with Recursive Common Core Tagging](gpt-4o-dialogue-annotation-correctness-and-common-core-kcs.md) - The article annotates each student turn with correctness and KC labels using GPT-4o via simple, zero-shot chain-of-thought prompting, instructing it to summarize turns before labeling.
+
+#### I {: #letter-i }
+
 * [Instructional Materials Motivation Survey (IMMS)](instructional-materials-motivation-survey-imms.md) - The IMMS is one of several instruments the digest says were developed for assessing the motivational quality of instructional situations.
+* [Iteration-coefficient sequences as the controllable design element of stochastic approximation](iteration-coefficient-sequence.md) - In the procedure analyzed by the article, the iteration coefficients are the designable component: they scale each update of the estimate, and their properties determine whether the sequence converges.
+
+#### K {: #letter-k }
+
 * [Knowledge map assessment of content understanding](knowledge-map-content-understanding-assessment.md) - A knowledge mapping task in which participants build a map of the game's content, scored to measure the content-understanding component of problem solving.
+* [Knowledge Practices Environment (KPE): a platform for object-centred collaborative knowledge creation](knowledge-practices-environment-kpe.md) - KP-Lab technology provided a basic platform, the Knowledge Practices Environment (KPE), to support knowledge creation processes and to offer tools and functionalities for innovative, reflective and object-centered kno...
+* [KP-Lab toolset supporting four types of mediation, including the Visual Model Editor and analytic mirroring tools](kp-lab-mediation-tools.md) - The project developed and tested tools for four types of mediation: epistemic mediation for creating and working with knowledge artefacts, pragmatic mediation for organising and coordinating knowledge-creation process...
+
+#### L {: #letter-l }
+
 * [Learning Analytics-Driven Feedback](learning-analytics-feedback.md) - Learning Analytics-Driven Feedback uses models built from learner interaction data to predict at-risk learners and surface targeted feedback to learners or instructors, compensating for the reduced visibility distance and online instructors have into struggling learners.
 * [LeitnerQ Mechanical Turk Data and Code Release](leitnerq-mturk-data-and-code-release.md) - The authors release their model, evaluation and user-study code plus their experiment data: \"we release (1) all model and evaluation code, (2) framework code for carrying out user studies, and (3) the data collected i...
 * [Listening Palette](listening-palette.md) - A multimodal reflection protocol in which learners individually record noticings in whatever mode feels natural (words, sketches, gesture, movement), then build a collaborative representation with peers before sharing with the whole group.
+* [LKT R package and LearnSphere component for creating and comparing logistic regression learner models](lkt-r-package-learnsphere-component.md) - The LearnSphere LKT component implements the LKT framework as a unified system permitting easier creation and comparison of logistic regression models of correctness, and the authors released LKT as an easy-to-use R p...
 * [LLMKT: LLM-Based Knowledge Tracing for Dialogues](llmkt-llm-based-knowledge-tracing.md) - LLMKT is the article's knowledge tracing method: \"a novel LLM-based KT method, LLMKT, that leverages the textual content in dialogues, by fine-tuning the open-source Llama 3 LLM\" on the KT objective.
+
+#### M {: #letter-m }
+
 * [Makerspace](makerspace.md) - A Makerspace is a physical or mobile space, formal or informal, where learners use digital and physical tools to design, build, and iterate on self-directed projects.
 * [Mnemosyne Flashcard Review Log Data](mnemosyne-flashcard-review-logs.md) - Large-scale log data from the Mnemosyne flashcard software, used by the article to compare memory models.
 * [Motivational Delivery Checklist](motivational-delivery-checklist.md) - The digest describes the Motivational Delivery Checklist, developed by Keller and Keller (1989), as \"a 47-item ARCS-based instrument for evaluating the motivational characteristics of an instructor's classroom delivery\".
 * [Multiple-choice retrieval practice questions with competitive alternatives](multiple-choice-retrieval-questions-with-competitive-alternatives.md) - A recognition-format retrieval practice item: a multiple-choice question whose incorrect options are competitive alternatives, intended to make recognition practice demand retrieval comparable to short-answer production.
+* [MyDigitalHand (MDH) office-hours ticketing system](mydigitalhand-office-hours-ticketing-system.md) - MyDigitalHand (MDH) is \"a ticketing system for help requests\" used in the studied CS2 course to manage office hours.
+
+#### O {: #letter-o }
+
 * [Open Educational Resources (The 5Rs)](open-educational-resources.md) - Open Educational Resources are teaching materials licensed to grant free, perpetual permission to retain, reuse, revise, remix, and redistribute them — the "5Rs" test that distinguishes genuine open licensing from merely free-to-enroll access.
+* [Open-source PyTorch DKT implementation supporting online knowledge tracing with DataShop-format data](pytorch-dkt-online-implementation.md) - The authors created their own DKT implementation using PyTorch's LSTM module to support online mastery learning.
+
+#### P {: #letter-p }
+
 * [Participant Examples](participant-examples.md) - A discourse move in which a learner positions themselves as a character within a case or example under academic study, using the case to reason about their own identity category membership rather than only about the case's distant subject.
 * [Pedagogical Agent Signaling for Feedback Salience](pedagogical-agent-signaling.md) - An embodied on-screen agent that points and gazes directly at feedback text when it appears, using social cueing rather than a generic arrow to pull elementary students' attention to feedback they would otherwise skip.
+* [Please Go and Bring for Me (PGBM) game for promoting reflection on units in multiplicative reasoning](pgbm-towers-game-multiplicative-units.md) - PGBM is a paired game in which a Sender asks a Bringer to build and bring back several same-size towers of cubes, one tower at a time, then answer four questions about towers, cubes per tower, total cubes, and how the...
 * [Provocative Objects](provocative-objects.md) - A digital-environment design construct specifying five characteristics — consistent feedback, frequent failure tightly coupled to that feedback, non-standard representations, late or absent formal notation, and legitimate alternative solution paths — that together support productive mathematical play rather than frustration or rote procedure.
+
+#### R {: #letter-r }
+
+* [Registered scoping review protocol on evidence synthesis education for pharmacy students](evidence-synthesis-education-scoping-review-protocol.md) - A protocol for a scoping review registered in the Open Science Framework (registration DOI:10.17605/OSF.IO/ZQVGY), designed per PRISMA-P and to be reported per PRISMA-ScR.
 * [Research Data Collection Methods](research-data-collection-methods.md) - Observation, surveys, and archival/content analysis are the main methods researchers use to gather data, each with a distinct tradeoff between ecological validity, depth, and cost that mirrors — but is methodologically distinct from — their use as classroom-assessment techniques.
+* [Rightful Presence Implementation Guide (swiftschools.org)](rightful-presence-implementation-guide.md) - The brief points readers to the \"Rightful Presence Implementation Guide (swiftschools.org)\" for \"ideas about how to get started on the journey in your community.\" It is a companion resource released alongside this iss...
+
+#### S {: #letter-s }
+
 * [Selected-Response Assessment Items](selected-response-assessment-items.md) - Multiple-choice, true-false, and matching items ask students to select rather than construct a response — easy to score objectively, but hard to write well, and appropriate mainly for recognition-level rather than complex learning goals.
 * [Self-Regulation Questionnaire (SRQ)](self-regulation-questionnaire.md) - The Self-Regulation Questionnaire is a 63-item self-report instrument, built on the Miller and Brown seven-step model of self-regulation, that scores a person's overall self-regulation capacity as high, moderate, or low.
+* [Six skill-tagged response datasets from ASSISTments and Mindspark used for model comparison](assistments-mindspark-skill-datasets.md) - The study used \"6 datasets across 2 different ITS\" — ASSISTments (G6_207, G7_233, G6_217) and Mindspark (PER015, WNO021_57, WNO021_48) — consisting of student correct/incorrect responses to problems tagged by skill.
+* [Skill tag integration scheme: concatenating matrix-factorization question embeddings with one-hot skill tag embeddings, with l1-regularized tag-based initialization](dynemb-skill-tag-concatenation-integration.md) - When manually labeled skill tags are available, DynEmb incorporates them by concatenating the latent question embedding learned via matrix factorization with a one-hot encoding of the question's skill tag, initializin...
 * [Solution-step difficulty levels for simultaneous-equation problems](solution-step-task-difficulty-levels-for-simultaneous-equations.md) - A five-level scheme for grading simultaneous-equation problems by the number of variables and solution steps, following Sweller's production/solution step method, in which \"the difficulty of the content, which is ofte...
 * [Specific Learning Disabilities](specific-learning-disabilities.md) - A learning disability is a significant, specific gap between a student's ability and one narrow area of academic achievement (reading, writing, or math) that persists despite ordinary teaching effort and isn't explained by broader intellectual, sensory, or language-acquisition factors — with dyslexia, dysgraphia, and dyscalculia as the three most commonly diagnosed forms.
+
+#### T {: #letter-t }
+
+* [Talent Development Framework Excel-based data tool](tdf-excel-data-tool.md) - The GTL Center offers an accompanying Excel-based TDF data tool for state and district human capital analysis.
 * [Teacher Language and Gesture Coding Scheme for Mathematical Equivalence](teacher-language-and-gesture-codes-for-mathematical-equivalence.md) - A coding scheme with four language codes (ISA, \"is the same as\"; DEF, definition; BAL, balance; FORM, equation form) and two gesture codes (GBAL, balance gesture; GSIDES, equation sides gesture) for a teacher's talk a...
+* [The Pippi Longstocking book series as a case artifact for analyzing educational philosophies](pippi-longstocking-series-case-artifact.md) - The three classic Pippi Longstocking books by Astrid Lindgren (written in Swedish in 1945, translated into many languages and countries) serve as the data source for the study's document analysis.
 * [Three-Lesson Web-Based SRL Training](three-lesson-web-based-srl-training.md) - A web-based training on self-regulated learning that \"can be attended by virtually unlimited numbers of participants\" choosing their own time and place.
+* [Type 1 model competency test: a largely traditional paper-and-pencil assessment with scoring guide and teacher notes](type1-traditional-competency-test.md) - The Type 1 instrument is a paper-and-pencil test of the grade's critical objectives; the first-grade version states \"This model competency test has a largely traditional design.\" It contains 16 items, most worth one p...
+* [Type 2 checklist assessment: tasks coded to each first-grade critical objective for teacher judgment of progress](type2-checklist-competency-assessment.md) - The Type 2 instrument is a checklist-format assessment going beyond multiple choice, in which each critical objective is paired with a performance task teachers can use to judge student understanding and proficiency.
+
+#### W {: #letter-w }
+
 * [Website Motivational Analysis Checklist (WebMAC)](website-motivational-analysis-checklist-webmac.md) - WebMAC is described as \"an instrument used for designing and assessing the motivational quality of World Wide Web sites\".
+

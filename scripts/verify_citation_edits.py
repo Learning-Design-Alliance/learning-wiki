@@ -39,6 +39,11 @@ sys.path.insert(0, str(Path(__file__).parent))
 import check_citations as cc
 
 CONTENT = re.compile(r"^(" + "|".join(cc.PAGE_TYPES) + r")/")
+# A folder's index.md is regenerated from scratch by build_indexes.py, never
+# edited by a citation tool, and every batch that adds pages rewrites it. Checked,
+# it made this gate stop every such batch (389 lines on the first in-session GLM
+# batch, 2026-09-25, all listings), so lint and the health check never ran.
+GENERATED = re.compile(r"^(" + "|".join(cc.PAGE_TYPES) + r")/index\.md$")
 
 
 def changed_pairs(diff: str):
@@ -82,8 +87,11 @@ def main() -> None:
         print("No changes to check.")
         return
 
-    ok, bad = 0, []
+    ok, bad, generated = 0, [], 0
     for path, old, new in changed_pairs(diff):
+        if GENERATED.match(path):
+            generated += 1
+            continue
         # An edit is safe when it lands on a citation and leaves it one. A
         # rewrite that turns a citation into something that no longer parses
         # as one has destroyed it just as surely as one that hit prose.
@@ -93,6 +101,8 @@ def main() -> None:
             bad.append((path, old, new))
 
     print(f"{ok} edit(s) landed on a citation line.")
+    if generated:
+        print(f"{generated} line(s) in generated folder index.md files skipped (build_indexes.py writes them).")
     if not bad:
         print("Nothing landed anywhere else.")
         return
