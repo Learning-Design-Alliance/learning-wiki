@@ -10,6 +10,8 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/worked-example-problem-sequences](claims/worked-example-problem-sequences.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/tutoring-effectiveness-comes-from-scaffolding-and-feedback](claims/tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/self-monitoring-improves-on-task-behavior](claims/self-monitoring-improves-on-task-behavior.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/story-mapping-improves-comprehension](claims/story-mapping-improves-comprehension.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/self-questioning-improves-comprehension](claims/self-questioning-improves-comprehension.md) — Evidence filled from Crossref-verified sources (gap-fill)
