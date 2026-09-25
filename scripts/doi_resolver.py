@@ -144,6 +144,26 @@ def resolve_doi(doi: str) -> dict:
     }
 
 
+def handle_registered(doi: str):
+    """Ask the DOI handle system itself whether `doi` exists at all, with any
+    registration agency. Returns True, False, or None when the lookup failed.
+
+    This is what settles a Crossref 404. Crossref indexes only its own
+    registrations, so a DataCite, mEDRA or JaLC DOI is legitimately absent
+    there; doi.org resolves every agency's. responseCode 1 means the handle
+    exists, 100 means no such handle. Anything else, or a transport error, is
+    None, which callers must treat as "not established", never as False."""
+    import urllib.parse
+    url = "https://doi.org/api/handles/" + urllib.parse.quote(doi, safe="/")
+    try:
+        compliance.guard(url)
+        resp = _get_with_retry(url, {})
+        code = resp.json().get("responseCode") if resp.status_code in (200, 404) else None
+    except Exception:
+        return None
+    return True if code == 1 else False if code == 100 else None
+
+
 def search_crossref(title_text: str, author_surname: str = None) -> list:
     """Live Crossref bibliographic search (query.bibliographic + optional
     query.author) — NOT a direct DOI lookup, and not cached the way
