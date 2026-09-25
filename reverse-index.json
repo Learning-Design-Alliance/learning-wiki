@@ -4,7 +4,7 @@
   "claims->elements": 137,
   "claims->learner-variables": 1,
   "claims->methods": 3,
-  "claims->patterns": 103,
+  "claims->patterns": 104,
   "claims->principles": 146,
   "claims->processes": 3,
   "claims->theories": 283,
@@ -20622,6 +20622,9 @@
       "slug": "learner-constructed-graphic-organizers-outperform-provided"
      },
      {
+      "slug": "learner-generated-organizers-beat-provided-organizers"
+     },
+     {
       "slug": "retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration"
      }
     ],
@@ -30361,6 +30364,9 @@
     "claims": [
      {
       "slug": "learner-constructed-graphic-organizers-outperform-provided"
+     },
+     {
+      "slug": "learner-generated-organizers-beat-provided-organizers"
      }
     ],
     "elements": [
@@ -69226,6 +69232,9 @@
       "slug": "media-combinations-affect-recall-and-retention"
      },
      {
+      "slug": "minimal-guidance-ineffective-for-novices"
+     },
+     {
       "slug": "minimal-guidance-instruction-less-effective"
      },
      {
@@ -71709,6 +71718,12 @@
      },
      {
       "slug": "guided-inquiry-outperforms-pure-discovery"
+     },
+     {
+      "slug": "minimal-guidance-ineffective-for-novices"
+     },
+     {
+      "slug": "minimal-guidance-instruction-less-effective"
      },
      {
       "slug": "minimal-guidance-less-effective-for-novices"
@@ -88316,6 +88331,9 @@
      },
      {
       "slug": "phonics-instruction-improves-word-reading"
+     },
+     {
+      "slug": "play-based-learning-improves-outcomes"
      },
      {
       "slug": "project-based-learning-improves-achievement"

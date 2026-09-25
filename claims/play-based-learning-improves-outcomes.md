@@ -3,26 +3,40 @@ type: claim
 title: Play Based Learning Improves Outcomes
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: play-based-learning-improves-outcomes
 evidence_strength: weak-to-moderate
+sources:
+  - id: skene-et-al-2022
+    resource: "https://doi.org/10.1111/cdev.13730"
+    title: "Skene, K., O'Farrelly, C. M., Byrne, E. M., Kirby, N., Stevens, E. C., & Ramchandani, P. G. (2022). Can guidance during play enhance children's learning and development in educational contexts? A systematic review and meta-analysis. *Child Development, 93*(4), 1162–1180. [doi:10.1111/cdev.13730](https://doi.org/10.1111/cdev.13730)"
+    author: "Skene, K., O'Farrelly, C. M., Byrne, E. M., Kirby, N., Stevens, E. C., & Ramchandani, P. G."
+    q: 3
+    i: 1
+    n: 39 studies (17 pooled, N=3893)
 ---
 
 # Play Based Learning Improves Outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small · n=39 studies (17 pooled, N=3893)
 
 Guided play and structured play-based approaches can improve academic, social, and self-regulation outcomes relative to didactic instruction, though the strength of the effect depends heavily on how much adult scaffolding is built into the play.
 
 ## Subclaims
 
-<!-- TODO -->
+`q3 i1` A systematic review and meta-analysis of 39 early-childhood intervention studies (17 pooled, N=3893) found guided play produced small-to-medium advantages over direct instruction on early maths skills, shape knowledge and task switching, and over free play on spatial vocabulary, with no reliable differences on most other outcomes measured. [→ Skene et al. 2022](#skene-et-al-2022)
 
 ## Evidence
 
-<!-- TODO -->
+### Skene et al. 2022
+
+Skene, K., O'Farrelly, C. M., Byrne, E. M., Kirby, N., Stevens, E. C., & Ramchandani, P. G. (2022). Can guidance during play enhance children's learning and development in educational contexts? A systematic review and meta-analysis. *Child Development, 93*(4), 1162–1180. [doi:10.1111/cdev.13730](https://doi.org/10.1111/cdev.13730)
+
+`q3 · systematic review and meta-analysis of quasi-experimental and randomized studies` · `i1 · small-to-medium effect, g=0.24–0.93 across outcomes` · `n=39 studies (17 pooled, N=3893)`
+
+This systematic review searched for studies (1977–2020) comparing guided play to free play or direct instruction on children's academic and developmental outcomes. Thirty-nine studies (from 38 papers) met inclusion criteria and were reviewed; 17 were pooled into 12 meta-analyses across four outcome domains (literacy, numeracy, executive function, socioemotional), with a combined meta-analytic sample of 3,893 children aged roughly 1–8 years. Guided play showed a greater positive effect than [direct instruction](../patterns/direct-instruction.md) on early maths skills (Hedges' g=0.24, 95% CI [0.12, 0.35]), shape knowledge (g=0.63, CI [0.17, 1.09]) and task switching (g=0.40, CI [0.05, 0.74]), and a greater effect than free play on spatial vocabulary (g=0.93, CI [0.10, 1.75], but with high heterogeneity, I²=80.70%). No reliable differences were found for most other outcomes compared, and the authors caution that many effects, especially the free-play comparison, rest on very small samples and substantial heterogeneity in how guided play was conceptualized and implemented across studies.
 
 ## Discussion
 
