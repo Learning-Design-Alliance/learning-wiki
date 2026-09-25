@@ -9,13 +9,13 @@
   "claims->processes": 3,
   "claims->theories": 284,
   "elements->claims": 171,
-  "elements->elements": 321,
+  "elements->elements": 322,
   "elements->learner-variables": 1,
   "elements->methods": 1,
-  "elements->patterns": 243,
-  "elements->principles": 313,
+  "elements->patterns": 245,
+  "elements->principles": 315,
   "elements->processes": 1,
-  "elements->theories": 72,
+  "elements->theories": 77,
   "learner-variables->claims": 12,
   "learner-variables->elements": 12,
   "learner-variables->learner-variables": 3,
@@ -28,13 +28,13 @@
   "methods->principles": 8,
   "methods->processes": 4,
   "methods->theories": 3,
-  "patterns->claims": 93,
+  "patterns->claims": 96,
   "patterns->elements": 94,
   "patterns->methods": 1,
   "patterns->patterns": 102,
-  "patterns->principles": 84,
-  "patterns->theories": 47,
-  "principles->claims": 193,
+  "patterns->principles": 85,
+  "patterns->theories": 48,
+  "principles->claims": 198,
   "principles->elements": 55,
   "principles->patterns": 42,
   "principles->principles": 205,
@@ -48,19 +48,19 @@
   "processes->processes": 9,
   "processes->theories": 10,
   "strategies->claims": 2319,
-  "strategies->elements": 2391,
+  "strategies->elements": 2392,
   "strategies->methods": 10,
-  "strategies->patterns": 813,
-  "strategies->principles": 1746,
+  "strategies->patterns": 814,
+  "strategies->principles": 1748,
   "strategies->processes": 9,
-  "strategies->theories": 442,
-  "theories->claims": 100,
+  "strategies->theories": 453,
+  "theories->claims": 112,
   "theories->elements": 21,
   "theories->methods": 2,
-  "theories->patterns": 25,
-  "theories->principles": 33,
+  "theories->patterns": 26,
+  "theories->principles": 35,
   "theories->processes": 3,
-  "theories->theories": 103
+  "theories->theories": 107
  },
  "edges": {
   "claims": {
@@ -3563,6 +3563,15 @@
      },
      {
       "slug": "writing-to-learn-improves-understanding"
+     }
+    ]
+   },
+   "application-synthesis-link-stronger-than-analysis-synthesis": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "vector-hypothesis-partial-element-integration",
+      "strength": "M"
      }
     ]
    },
@@ -10023,6 +10032,15 @@
      }
     ]
    },
+   "bilingual-evaluations-ignore-interactions": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "bilingual-education-interaction-model",
+      "strength": "M"
+     }
+    ]
+   },
    "bilingual-fluency-enhances-metalinguistic-awareness": {
     "claims": [
      {
@@ -10216,6 +10234,20 @@
       "polarity": "+",
       "slug": "using_manipulatives",
       "strength": "W"
+     }
+    ]
+   },
+   "boston-controlled-choice-most-students-get-first-or-second-choice": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "improve-least-chosen-schools-via-choice-data",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "simultaneous-desegregation-choice-improvement",
+      "strength": "M"
      }
     ]
    },
@@ -19920,6 +19952,15 @@
      }
     ]
    },
+   "committee-structure-sustains-change-despite-turnover": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "multi-year-sequenced-conversion-plan",
+      "strength": "M"
+     }
+    ]
+   },
    "community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object": {
     "claims": [
      {
@@ -22110,6 +22151,15 @@
      }
     ]
    },
+   "criterion-referenced-tests-measure-mastery-not-relative-standing": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "criterion-referenced-testing-mastery-framework",
+      "strength": "M"
+     }
+    ]
+   },
    "criterion-referenced-tests-need-construct-validation": {
     "principles": [
      {
@@ -24037,6 +24087,15 @@
       "polarity": "+",
       "slug": "arcs-strategy-subcomponent-taxonomy",
       "strength": "W"
+     }
+    ]
+   },
+   "egalitarian-program-design-supports-culturally-responsive-leadership": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "dewey-democratic-education",
+      "strength": "M"
      }
     ]
    },
@@ -27160,6 +27219,15 @@
      }
     ]
    },
+   "family-muac-uptake-barriers": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "tdf-framework-for-engagement-determinants",
+      "strength": "M"
+     }
+    ]
+   },
    "feedback-addressing-task-improves-learning": {
     "strategies": [
      {
@@ -29829,6 +29897,15 @@
      }
     ]
    },
+   "germane-load-gains-limited-to-identical-and-near-transfer-problems": {
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "reversi-training-conditions-varying-intrinsic-and-extraneous-load",
+      "strength": "M"
+     }
+    ]
+   },
    "global-versus-local-errors-correction": {
     "principles": [
      {
@@ -30193,6 +30270,15 @@
      }
     ]
    },
+   "hierarchical-organization-improves-complex-task-performance": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "hierarchical-task-adapted-knowledge-organization-model",
+      "strength": "M"
+     }
+    ]
+   },
    "high-confidence-errors-improve-retention": {
     "claims": [
      {
@@ -30525,6 +30611,24 @@
      {
       "polarity": "-",
       "slug": "vocabulary-instruction",
+      "strength": "M"
+     }
+    ]
+   },
+   "high-l2-achievers-show-iq-gains-in-immersion": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "threshold-hypothesis-bilingual-competence",
+      "strength": "M"
+     }
+    ]
+   },
+   "higher-hierarchy-levels-recalled-better": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "hierarchical-task-adapted-knowledge-organization-model",
       "strength": "M"
      }
     ]
@@ -30988,6 +31092,15 @@
      {
       "polarity": "~",
       "slug": "erikson-marcia-identity-status-framework",
+      "strength": "M"
+     }
+    ]
+   },
+   "l1-maintenance-supports-l2-without-cost": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "developmental-interdependence-hypothesis",
       "strength": "M"
      }
     ]
@@ -31525,6 +31638,15 @@
      }
     ]
    },
+   "lvn-generator-feedback-loop-case": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "prefer-feedback-loops-over-feedback-systems",
+      "strength": "M"
+     }
+    ]
+   },
    "manipulatives-improve-math-learning": {
     "claims": [
      {
@@ -31537,6 +31659,15 @@
      {
       "polarity": "+",
       "slug": "concrete-representational-abstract_cra_sequence",
+      "strength": "M"
+     }
+    ]
+   },
+   "mastery-learning-higher-earned-credit-rates": {
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "mastery-learning-formative-corrective-cycle",
       "strength": "M"
      }
     ]
@@ -32360,6 +32491,15 @@
      {
       "polarity": "+",
       "slug": "latin-and-greek-roots-for-academic-vocabulary",
+      "strength": "M"
+     }
+    ]
+   },
+   "mother-tongue-preservation-predicts-l2-achievement": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "developmental-interdependence-hypothesis",
       "strength": "M"
      }
     ]
@@ -33279,6 +33419,24 @@
      }
     ]
    },
+   "negative-transfer-regression-intercepts": {
+    "theories": [
+     {
+      "polarity": "-",
+      "slug": "flammer-transfer-correlation-model",
+      "strength": "M"
+     }
+    ]
+   },
+   "no-incongruence-to-congruence-transition-across-therapy-sessions": {
+    "theories": [
+     {
+      "polarity": "-",
+      "slug": "interactional-theory-relational-congruence",
+      "strength": "M"
+     }
+    ]
+   },
    "no-single-knowledge-tracing-model-is-always-best": {
     "claims": [
      {
@@ -33336,6 +33494,15 @@
      }
     ]
    },
+   "only-20-percent-teachers-prepared-integrate-technology": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "sustained-follow-up-technology-pd",
+      "strength": "M"
+     }
+    ]
+   },
    "optimal-leitner-schedule-expands-intervals-between-reviews": {
     "theories": [
      {
@@ -33371,6 +33538,15 @@
      {
       "polarity": "+",
       "slug": "knowledge-objects-and-knowledge-practices",
+      "strength": "M"
+     }
+    ]
+   },
+   "organization-task-match-determines-benefit": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "hierarchical-task-adapted-knowledge-organization-model",
       "strength": "M"
      }
     ]
@@ -33943,6 +34119,15 @@
       "polarity": "+",
       "slug": "reciprocal_peer_tutoring",
       "strength": "S"
+     }
+    ]
+   },
+   "peer-assisted-learning-improves-learning-outcomes": {
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "online-peer-assisted-learning-community",
+      "strength": "W"
      }
     ]
    },
@@ -43264,6 +43449,15 @@
      }
     ]
    },
+   "semilingualism-associated-with-negative-cognitive-effects": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "threshold-hypothesis-bilingual-competence",
+      "strength": "M"
+     }
+    ]
+   },
    "serial-indirect-association-sensible-scene-to-behavioral-intention": {
     "theories": [
      {
@@ -45803,6 +45997,15 @@
      }
     ]
    },
+   "technology-training-spending-inadequate": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "sustained-follow-up-technology-pd",
+      "strength": "M"
+     }
+    ]
+   },
    "testing-effect-improves-learning": {
     "claims": [
      {
@@ -45885,6 +46088,15 @@
      }
     ]
    },
+   "transfer-linear-in-corrected-correlation": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "flammer-transfer-correlation-model",
+      "strength": "M"
+     }
+    ]
+   },
    "tutoring-benefits-tutors-and-tutees": {
     "strategies": [
      {
@@ -45899,6 +46111,15 @@
      {
       "polarity": "~",
       "slug": "socratic_questioning",
+      "strength": "M"
+     }
+    ]
+   },
+   "two-types-of-germane-load-related-to-intrinsic-load": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "germane-load-as-learning-gain-measure",
       "strength": "M"
      }
     ]
@@ -45937,6 +46158,24 @@
      }
     ]
    },
+   "unintelligible-beats-no-message-control": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "self-originated-elaboration-account",
+      "strength": "M"
+     }
+    ]
+   },
+   "unintelligible-messages-increase-idiosyncratic-elaboration": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "self-originated-elaboration-account",
+      "strength": "M"
+     }
+    ]
+   },
    "universal-classroom-management-reduces-problem-behavior": {
     "principles": [
      {
@@ -45949,6 +46188,15 @@
      {
       "polarity": "+",
       "slug": "five-categories-classroom-management-practices",
+      "strength": "M"
+     }
+    ]
+   },
+   "unsquared-beats-squared-predictor": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "flammer-transfer-correlation-model",
       "strength": "M"
      }
     ]
@@ -72729,6 +72977,13 @@
      }
     ]
    },
+   "mastery-criterion-remediation": {
+    "strategies": [
+     {
+      "slug": "negotiate-contracts-allow-retakes"
+     }
+    ]
+   },
    "mastery-learning": {
     "elements": [
      {
@@ -80565,6 +80820,13 @@
     "theories": [
      {
       "slug": "self-regulated-learning"
+     }
+    ]
+   },
+   "self-talk-mediating-construct": {
+    "elements": [
+     {
+      "slug": "significant-others-statements-inventory"
      }
     ]
    },
@@ -89465,6 +89727,18 @@
      }
     ]
    },
+   "grading-by-contract-fricke": {
+    "elements": [
+     {
+      "slug": "mastery-criterion-remediation"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "negotiate-contracts-allow-retakes"
+     }
+    ]
+   },
    "grounding-and-unfolding-facilitation-moves": {
     "claims": [
      {
@@ -89520,6 +89794,18 @@
     "theories": [
      {
       "slug": "equations-as-language"
+     }
+    ]
+   },
+   "guided-practice-four-purposes": {
+    "elements": [
+     {
+      "slug": "frazer-eight-guiding-moves"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "guided-practice-framework-five-elements"
      }
     ]
    },
@@ -93181,6 +93467,11 @@
      },
      {
       "slug": "writing_workshop"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "icap-four-mode-engagement-taxonomy"
      }
     ]
    },
@@ -106412,6 +106703,18 @@
      }
     ]
    },
+   "performance-based-teacher-certification-assessment": {
+    "elements": [
+     {
+      "slug": "standards-based-certification-framework"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "portfolio-with-written-commentary-assessment"
+     }
+    ]
+   },
    "performance-technology": {
     "principles": [
      {
@@ -107802,6 +108105,26 @@
      }
     ]
    },
+   "semantic-mapping-principle": {
+    "elements": [
+     {
+      "slug": "concept-semantic-map-element"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "student-generated-mapping-strategy"
+     },
+     {
+      "slug": "teacher-provided-advance-graphic-map"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "semantic-network-theory"
+     }
+    ]
+   },
    "sequencing": {
     "methods": [
      {
@@ -108988,6 +109311,13 @@
    }
   },
   "theories": {
+   "activity-system-model-l2-writing": {
+    "strategies": [
+     {
+      "slug": "contradiction-discovery-tools-for-learning-activity"
+     }
+    ]
+   },
    "activity-theory-mediated-activity-system": {
     "elements": [
      {
@@ -109623,6 +109953,9 @@
      },
      {
       "slug": "sociocultural-theory"
+     },
+     {
+      "slug": "zpd-gap-independent-versus-assisted-problem-solving"
      }
     ]
    },
@@ -111014,6 +111347,9 @@
     ],
     "theories": [
      {
+      "slug": "activity-system-model-l2-writing"
+     },
+     {
       "slug": "adaptive-cycles-framework"
      },
      {
@@ -111054,6 +111390,21 @@
     "strategies": [
      {
       "slug": "knowledge-tracing-future-research-directions"
+     }
+    ]
+   },
+   "descriptive-simulation-modeling-framework-es-office": {
+    "elements": [
+     {
+      "slug": "es-office-simulation-nine-reports"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "match-input-estimation-method-to-required-accuracy"
+     },
+     {
+      "slug": "simulation-as-non-threatening-experimentation-alternative"
      }
     ]
    },
@@ -111098,6 +111449,15 @@
     "theories": [
      {
       "slug": "moral-dimensions-of-instructional-design"
+     }
+    ]
+   },
+   "developmental-interdependence-hypothesis": {
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "three-language-knowledge-aspects-for-reading",
+      "strength": "M"
      }
     ]
    },
@@ -112336,6 +112696,20 @@
      }
     ]
    },
+   "feedback-loop-structures-taxonomy": {
+    "strategies": [
+     {
+      "slug": "identify-feedback-loops-process"
+     }
+    ]
+   },
+   "feedback-loops-definition": {
+    "strategies": [
+     {
+      "slug": "identify-feedback-loops-process"
+     }
+    ]
+   },
    "first-principles-of-instruction": {
     "patterns": [
      {
@@ -112544,6 +112918,13 @@
      }
     ]
    },
+   "hierarchical-task-adapted-knowledge-organization-model": {
+    "strategies": [
+     {
+      "slug": "teach-explicit-hierarchical-organization"
+     }
+    ]
+   },
    "historical-reasoning-framework": {
     "claims": [
      {
@@ -112563,6 +112944,13 @@
     "principles": [
      {
       "slug": "build-connections-between-mathematics-and-other-practices"
+     }
+    ]
+   },
+   "icap-four-mode-engagement-taxonomy": {
+    "strategies": [
+     {
+      "slug": "upgrade-activities-to-higher-icap-mode"
      }
     ]
    },
@@ -112750,6 +113138,27 @@
      }
     ]
    },
+   "interactional-theory-relational-congruence": {
+    "elements": [
+     {
+      "slug": "response-redundancy-congruence-index"
+     }
+    ]
+   },
+   "internal-mediation-model-teacher-statements": {
+    "elements": [
+     {
+      "slug": "self-talk-mediating-construct"
+     }
+    ]
+   },
+   "joyce-showers-technical-coaching": {
+    "theories": [
+     {
+      "slug": "schon-reflective-coaching-dialogue"
+     }
+    ]
+   },
    "knowledge-creation-metaphor-of-learning": {
     "theories": [
      {
@@ -112891,6 +113300,13 @@
       "polarity": "+",
       "slug": "supporting-early-language-development",
       "strength": "M"
+     }
+    ]
+   },
+   "languaging-in-content-areas-lica-thesis": {
+    "strategies": [
+     {
+      "slug": "embedded-aids-to-readers"
      }
     ]
    },
@@ -113248,6 +113664,13 @@
     "strategies": [
      {
       "slug": "coefficient-selection-strategy"
+     }
+    ]
+   },
+   "schon-reflective-coaching-dialogue": {
+    "theories": [
+     {
+      "slug": "joyce-showers-technical-coaching"
      }
     ]
    },
@@ -114674,6 +115097,13 @@
      }
     ]
    },
+   "semantic-network-theory": {
+    "elements": [
+     {
+      "slug": "concept-semantic-map-element"
+     }
+    ]
+   },
    "seven-science-education-goals-taxonomy": {
     "principles": [
      {
@@ -115330,6 +115760,13 @@
      }
     ]
    },
+   "teacher-technology-adoption-stages": {
+    "strategies": [
+     {
+      "slug": "ceoforum-teacher-tech-integration-recommendations"
+     }
+    ]
+   },
    "teaching-styles-warmth-and-control": {
     "principles": [
      {
@@ -115459,6 +115896,19 @@
      }
     ]
    },
+   "wiles-bondi-curriculum-management-plan": {
+    "strategies": [
+     {
+      "slug": "curriculum-mapping-by-grading-periods"
+     },
+     {
+      "slug": "needs-assessment-baseline-and-projective-data"
+     },
+     {
+      "slug": "percentage-consensus-opinionnaires"
+     }
+    ]
+   },
    "womanist-restorying": {
     "claims": [
      {
@@ -115485,6 +115935,13 @@
       "slug": "provocative-objects"
      }
     ]
+   },
+   "zpd-gap-independent-versus-assisted-problem-solving": {
+    "elements": [
+     {
+      "slug": "scaffolding-adjusted-support-within-zpd"
+     }
+    ]
    }
   }
  },
@@ -115500,14 +115957,14 @@
  },
  "note": "Reverse edges: for each page, which pages link TO it. Built by scripts/build_reverse_index.py; see its docstring for why this direction rather than ## Examples.",
  "totals": {
-  "claims": 772,
-  "elements": 372,
+  "claims": 901,
+  "elements": 400,
   "learner-variables": 12,
   "methods": 17,
-  "patterns": 143,
-  "principles": 245,
+  "patterns": 157,
+  "principles": 263,
   "processes": 12,
-  "strategies": 2615,
-  "theories": 183
+  "strategies": 2654,
+  "theories": 226
  }
 }

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: oliver-2011
-    resource: "https://www.sree.org"
-    title: "Oliver, R. M., Wehby, J. H., & Reschly, D. J. (2011). Teacher Classroom Management Practices: Effects on Disruptive or Aggressive Student Behavior. 2011 SREE Conference. https://www.sree.org"
+    resource: "https://doi.org/10.4073/csr.2011.4"
+    title: "Oliver, R. M., Wehby, J. H., & Reschly, D. J. (2011). Teacher Classroom Management Practices: Effects on Disruptive or Aggressive Student Behavior. 2011 SREE Conference. https://www.sree.org. [doi:10.4073/csr.2011.4](https://doi.org/10.4073/csr.2011.4)"
     author: "Oliver, R. M., Wehby, J. H., & Reschly, D. J."
     q: 3
     i: 2
