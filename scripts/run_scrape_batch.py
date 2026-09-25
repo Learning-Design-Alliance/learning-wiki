@@ -255,7 +255,7 @@ def run(args) -> None:
         gen_cmd = [sys.executable, "-u", "scripts/eval_harness.py", "run",
                    "--models", args.model, "--run-id", args.label,
                    "--manifest", args.out, "--max-tokens", "24000",
-                   "--judges",
+                   "--judges", "--concurrency", str(args.concurrency),
                    "--max-correction-attempts", str(args.max_correction_attempts)]
         if not args.resume:
             gen_cmd.append("--overwrite")
@@ -420,6 +420,10 @@ def main() -> None:
                               "and re-query live instead — needed to actually exercise a change to "
                               "search_pmc()/search_eric() (e.g. a new filter), since a cache hit skips "
                               "calling them at all. Off by default so repeat batches stay fast/cheap.")
+    parser.add_argument("--concurrency", type=int, default=6,
+                         help="Articles generated in parallel. The harness default is 1, and with GLM's "
+                              "providers taking 4-8 minutes per article a 78-article batch then takes "
+                              "most of a day.")
     parser.add_argument("--resume", action="store_true",
                          help="Skip discover and fetch, reuse the manifest at --out, and generate only "
                               "articles with no record under this --label; then ingest and validate as "
