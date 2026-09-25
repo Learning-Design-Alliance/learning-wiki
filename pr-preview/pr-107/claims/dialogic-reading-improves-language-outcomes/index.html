@@ -626,6 +626,34 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Evidence">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#mol-et-al-2008" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Mol et al. 2008
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mol-et-al-2009" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Mol et al. 2009
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -678,7 +706,7 @@
 <h1 id="dialogic-reading-improves-language-outcomes">Dialogic Reading Improves Language Outcomes<a class="headerlink" href="#dialogic-reading-improves-language-outcomes" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a>
-<strong>Evidence</strong> · none recorded yet</p>
+<strong>Evidence</strong> · 2 studies · <code>q3</code> peer-reviewed experiment · <code>i2</code> medium</p>
 </blockquote>
 <p>Dialogic reading — an adult reading interactively with a child using prompts, questions, feedback, and expansion of the child's utterances — produces larger gains in expressive vocabulary and oral language than simple read-alouds.</p>
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
@@ -752,16 +780,22 @@ code and adds <code>n=</code>.</p>
 page reports it faithfully is a separate axis — see <code>trust</code> in the page
 metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 </details>
-<!-- TODO -->
-
+<p><code>q3 i2</code> Compared with typical shared reading, dialogic parent–child reading produces a moderate gain in expressive vocabulary (d=0.59), but the effect shrinks substantially for 4- to 5-year-olds and for children at risk for language and literacy impairments. <a href="#mol-et-al-2008">→ Mol et al. 2008</a></p>
+<p><code>q3 i2</code> Across 31 (quasi-)experiments in which educators were trained in interactive book reading, the effect on oral language is moderate, and effects obtained by experimenters did not replicate when children's own teachers delivered the reading in natural classrooms. <a href="#mol-et-al-2009">→ Mol et al. 2009</a></p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
-<!-- TODO -->
-
+<h3 id="mol-et-al-2008">Mol et al. 2008<a class="headerlink" href="#mol-et-al-2008" title="Permanent link">&para;</a></h3>
+<p>Mol, S. E., Bus, A. G., de Jong, M. T., &amp; Smeets, D. J. H. (2008). Added value of dialogic parent–child book readings: A meta-analysis. <em>Early Education and Development, 19</em>(1), 7–26. <a href="https://doi.org/10.1080/10409280701838603">doi:10.1080/10409280701838603</a></p>
+<p><code>q3 · meta-analysis of experimental comparisons</code> · <code>i2 · medium effect, d=0.59 (95% CI 0.44–0.75) on expressive vocabulary</code> · <code>n=16 studies (expressive-vocabulary subset: k=9, n=322 children)</code></p>
+<p>A meta-analysis of 16 studies that compared a dialogic reading group against a reading-as-usual control and reported vocabulary outcomes. For expressive vocabulary specifically (9 studies, 322 children), dialogic reading outperformed typical shared reading by a moderate margin. The effect was substantially smaller when children were older (4 to 5 years) or at risk for language and literacy impairments, and families of children at greatest risk for school failure did not change their home reading practices. That is a direct qualification of the claim's scope.</p>
+<h3 id="mol-et-al-2009">Mol et al. 2009<a class="headerlink" href="#mol-et-al-2009" title="Permanent link">&para;</a></h3>
+<p>Mol, S. E., Bus, A. G., &amp; de Jong, M. T. (2009). Interactive book reading in early education: A tool to stimulate print knowledge as well as oral language. <em>Review of Educational Research, 79</em>(2), 979–1007. <a href="https://doi.org/10.3102/0034654309332561">doi:10.3102/0034654309332561</a></p>
+<p><code>q3 · meta-analysis of experiments and quasi-experiments</code> · <code>i2 · moderate effect on oral language (abstract gives no d)</code> · <code>n=31 studies (2,049 children)</code></p>
+<p>A meta-analysis of 31 experiments and quasi-experiments (2,049 children) in which educators were trained to get children actively involved before, during and after shared book reading in early-education settings. The abstract reports a moderate effect on oral language skills, and attributes 7% of the variance in kindergartners' alphabetic knowledge to the intervention. Effects found when experimenters did the reading did not replicate in natural classrooms with the children's own teachers, which bears on the page's point that implementation fidelity matters. The abstract does not split oral language into expressive and receptive measures.</p>
 <h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
 <p><strong>Mechanism.</strong> Dialogic reading converts a passive read-aloud into an active, scaffolded conversation. The adult's wh- and completion prompts elicit child utterances, which the adult then expands and recasts; this feedback loop is thought to drive vocabulary growth and expressive language gains beyond what listening alone provides. The technique is closely related to scaffolding within a <a href="../../theories/cognitive-apprenticeship/">cognitive apprenticeship</a> frame: the adult models language slightly above the child's current level and gradually shifts responsibility to the child. In this sense it is an activation-plus-feedback routine — see <a href="../activation-improves-learning/">Activation improves learning.</a></p>
 <p><strong>Scope and moderators.</strong> Effects are expected to be strongest for expressive (production) measures rather than receptive ones, and for younger children and children with smaller starting vocabularies, since the intervention targets the child's own utterances. Dosage matters: benefits are typically tied to repeated sessions over weeks, not single readings. Implementation fidelity — adults actually prompting and expanding rather than simply reading — is a common failure mode in scaled deployments.</p>
 <p><strong>Boundary conditions.</strong> The approach presumes a one-to-one or small-group adult–child setting; whole-class read-alouds dilute the turn-taking that defines the technique. It also presupposes an adult trained in the prompting sequence; untrained readers tend to revert to straight reading. Non-interactive formats such as <a href="../../elements/audiobooks/">audiobooks</a> provide exposure to rich language but lack the elicited-production and expansion cycle that distinguishes dialogic reading.</p>
-<p><strong>Open questions.</strong> This page currently has no Evidence entries; meta-analytic and experimental support still needs to be added before the claim can be graded. The durability of gains (whether vocabulary growth persists after the intervention ends) and transfer to later reading comprehension remain open questions, as does the relative contribution of prompting versus expansion/recasting within the routine.</p>
+<p><strong>Open questions.</strong> The meta-analyses recorded above find a moderate effect on expressive vocabulary (d = 0.59) that shrinks for 4- to 5-year-olds and for children at risk for language impairments, and effects obtained by experimenters that did not replicate when children's own teachers delivered the reading. The "larger gains" in this page's title hold for younger, typically developing children, not across the board. The durability of gains (whether vocabulary growth persists after the intervention ends) and transfer to later reading comprehension remain open questions, as does the relative contribution of prompting versus expansion/recasting within the routine.</p>
 <h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
 <ul>
 <li><a href="../activation-improves-learning/">Activation improves learning.</a> — dialogic prompts activate what the child already knows before extending it</li>
@@ -797,11 +831,15 @@ metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 </tr>
 <tr>
 <td><code>generated</code></td>
-<td>by <code>claude/unspecified</code> on <code>2026-08-30</code></td>
+<td>by <code>claude/unspecified</code> on <code>2026-09-25</code></td>
 </tr>
 <tr>
 <td><code>trust</code></td>
 <td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>2 — <code>mol-et-al-2008</code>, <code>mol-et-al-2009</code></td>
 </tr>
 </tbody>
 </table>
