@@ -50,5 +50,6 @@ Every other certificate is still verified. Never use `--ignore-certificate-error
   several cases contradicted the page: advance organizers, exercise timing, learner-built
   graphic organizers, dialogic reading, checklist evaluation of online sources.
 - **Opus and Sonnet agents produce drafts of similar quality**; use Sonnet in the long tail.
-- **An agent sent a personal email address to Unpaywall once.** The contract now forbids
-  sending any personal identifier to an outside service.
+- **An agent sent a personal email address to Unpaywall once.** The contract now allows
+  Unpaywall only with the organisation's address, contact@learningdesignalliance.org (the
+  maintainer's choice), and forbids sending any other identifier to an outside service.

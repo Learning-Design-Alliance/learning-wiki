@@ -44,5 +44,5 @@ then, after a line `---PROVENANCE---`, one line per study:
 
 Heading anchors: `### Freeman et al. 2014` -> anchor `#freeman-et-al-2014`. Codes follow
 CLAUDE.md: q 1–4; i 0–3 or `i?` when no effect size is reported (never i0 for "unreported").
-Never send any email address or personal identifier to an external service (Unpaywall, OpenAlex mailto, etc.); use services that need none. Start every shell command with `cd <your folder> &&` so relative writes (curl -o, python open()) never land in the repo. Keep helper scripts in your own folder. Report back in 3 lines: studies used, what you read,
+To find an open-access copy, use the Unpaywall API with the organisation's contact address and no other: `curl -s "https://api.unpaywall.org/v2/<DOI>?email=contact@learningdesignalliance.org"` (read `best_oa_location.url_for_pdf` / `url`). Never send any other email address or personal identifier to any external service. Start every shell command with `cd <your folder> &&` so relative writes (curl -o, python open()) never land in the repo. Keep helper scripts in your own folder. Report back in 3 lines: studies used, what you read,
 anything you could not verify.
