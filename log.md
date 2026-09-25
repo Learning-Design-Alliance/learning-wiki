@@ -10,6 +10,11 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/structured-peer-tutoring-outperforms-unstructured](claims/structured-peer-tutoring-outperforms-unstructured.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/redundancy-principle-on-screen-text-hurts-learning](claims/redundancy-principle-on-screen-text-hurts-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/redundancy-principle-hurts-learning](claims/redundancy-principle-hurts-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/redundancy-effect-impairs-learning](claims/redundancy-effect-impairs-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/redundancy-hurts-multimedia-learning](claims/redundancy-hurts-multimedia-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/pretesting-enhances-learning](claims/pretesting-enhances-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/peer-feedback-improves-writing](claims/peer-feedback-improves-writing.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/reciprocal-teaching-improves-reading-comprehension](claims/reciprocal-teaching-improves-reading-comprehension.md) — Evidence filled from Crossref-verified sources (gap-fill)
