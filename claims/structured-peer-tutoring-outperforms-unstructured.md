@@ -45,7 +45,7 @@ Cohen, P. A., Kulik, J. A., & Kulik, C.-L. C. (1982). Educational outcomes of tu
 
 `q3 · meta-analysis of 65 school-tutoring evaluations` · `i? · significant moderator, magnitude not numerically reported` · `n=52 studies (tutee achievement)`
 
-A meta-analysis of 65 evaluations of school tutoring programs (52 reporting tutee achievement) found an overall achievement effect of tutoring of d = .40. Six study features were significantly related to the size of this effect, and whether the program was structured or nonstructured was one of them: tutoring effects were larger in the more structured programs. The authors state this held even though the less-structured programs still produced a real benefit — the difference was one of degree, not of whether unstructured tutoring worked at all.
+A meta-analysis of 65 evaluations of school tutoring programs (52 reporting tutee achievement) found an overall achievement effect of tutoring of d = .40. Six study features were significantly related to the size of this effect, and whether the program was structured or nonstructured was one of them: tutoring effects were larger in the more structured programs. The authors state this held even though the less-structured programs still produced a real benefit — the difference was one of degree, not of whether unstructured tutoring worked at all. (Read in full as the 1981 AERA conference version of this synthesis, ERIC ED204416, which reports the same 65 studies; the journal version was not reachable.)
 
 ### Ginsburg-Block et al. 2006
 
