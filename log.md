@@ -10,6 +10,8 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/pretesting-enhances-learning](claims/pretesting-enhances-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/peer-feedback-improves-writing](claims/peer-feedback-improves-writing.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/reciprocal-teaching-improves-reading-comprehension](claims/reciprocal-teaching-improves-reading-comprehension.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/phoneme-awareness-stronger-predictor-than-rhyme](claims/phoneme-awareness-stronger-predictor-than-rhyme.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/peer-tutoring-improves-achievement](claims/peer-tutoring-improves-achievement.md) — Evidence filled from Crossref-verified sources (gap-fill)
