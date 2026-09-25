@@ -187,9 +187,14 @@ def search_crossref(title_text: str, author_surname: str = None) -> list:
     return results
 
 
-def check_all(page_types=None, force: bool = False) -> list:
+def check_all(page_types=None, force: bool = False, errors: list = None) -> list:
     """Returns flagged issues: [{"doi", "file", "line", "issue": "not_found"
-    or "title_mismatch", "resolved_title"}]. Uses/updates the on-disk cache."""
+    or "title_mismatch", "resolved_title"}]. Uses/updates the on-disk cache.
+
+    A lookup that raised (Crossref unreachable) is not an issue and is not
+    returned; pass `errors` to have each one appended as {"doi", "error"},
+    so a caller can tell "0 problems" from "0 problems among the DOIs that
+    could be checked"."""
     page_types = page_types or cc.PAGE_TYPES
     by_key = cc.load_all_citations(page_types)
 
@@ -215,6 +220,8 @@ def check_all(page_types=None, force: bool = False) -> list:
                 result = resolve_doi(doi)
             except Exception as e:
                 print(f"  [ERROR] {doi}: {e}", file=sys.stderr)
+                if errors is not None:
+                    errors.append({"doi": doi, "error": str(e)[:200]})
                 continue
             cache[doi] = result
             checked += 1

@@ -18,8 +18,15 @@ What it counts is what the repo's own tools already count, gathered in one
 place: wiki_health_check.run() for lint, citations, duplicates and drafts;
 check_evidence_markers.scan(); observation_lib for study records; the source
 manifest; and, per claim page, whether it has any coded evidence and whether
-it carries the evidence header line. Nothing here makes a network call, so
-DOI resolution is not in the table (wiki_health_check --skip-doi's rule).
+it carries the evidence header line. These are the droplet dashboard's
+tiles (eval/health_report.py) plus the claim and evidence counts it lacks.
+
+DOI resolution needs Crossref, so it is opt-in: `--doi` resolves every
+distinct DOI through doi_resolver.check_all(), sharing the working tree's
+30-day cache (eval/corpus/doi_resolution_cache.json) across refs, so only
+the first ref pays for the lookups. Without it those rows read "skipped",
+never 0. A lookup that failed is counted on its own row: an outage is not
+a finding (classify_doi's error-vs-wrong_paper rule).
 
 Every row says which direction is better. The table never adds rows into one
 score: a batch that adds 200 good pages and 30 broken links is two facts, and
@@ -57,15 +64,21 @@ ROWS = [
     ("doi_collisions", "DOI collisions (one DOI, 2+ papers)", "down"),
     ("metadata_conflicts", "Invented journal metadata", "down"),
     ("title_conflicts", "Invented titles", "down"),
+    ("contradicted_leaders", "DOIs whose majority citation contradicts the DOI", "down"),
+    ("doi_checked", "Distinct DOIs resolved against Crossref", ""),
+    ("doi_not_found", "  DOIs Crossref has no record of", "down"),
+    ("doi_title_mismatch", "  DOIs resolving to a different title", "down"),
+    ("doi_lookup_errors", "  DOI lookups that failed (not a verdict)", "down"),
     ("title_duplicates", "Near-duplicate titles (same folder)", "down"),
     ("cross_folder_needs_judgment", "Cross-folder slug collisions needing judgment", "down"),
     ("drafts", "Pages at status: draft", ""),
     ("draft_pct", "Pages at status: draft, %", "down"),
     ("todo_pages", "Pages with unfilled TODOs", "down"),
+    ("incomplete_pages", "Incomplete pages (draft or TODO; the dashboard tile)", "down"),
 ]
 
 
-def collect() -> dict:
+def collect(doi: bool = False) -> dict:
     """Measure the tree this script sits in. Run inside a worktree."""
     sys.path.insert(0, str(SCRIPTS))
     sys.path.insert(0, str(SCRIPTS / "eval"))
@@ -77,7 +90,8 @@ def collect() -> dict:
 
     r = whc.run(skip_doi=True)
     out = {k: r[k] for k in ("citation_conflicts", "doi_collisions", "metadata_conflicts",
-                             "title_conflicts", "title_duplicates", "cross_folder_needs_judgment")}
+                             "title_conflicts", "contradicted_leaders", "title_duplicates",
+                             "cross_folder_needs_judgment")}
     out["lint_total"] = sum(r["lint"].values())
     out["broken_links"] = r["lint"].get("broken_links", 0)
     out["dead_anchors"] = r["lint"].get("dead_anchors", 0)
@@ -86,6 +100,21 @@ def collect() -> dict:
     out["drafts"] = sum(v["draft"] for v in inc.values())
     out["draft_pct"] = round(100 * out["drafts"] / max(1, out["pages"]), 1)
     out["todo_pages"] = sum(v.get("todo", 0) for v in inc.values())
+    out["incomplete_pages"] = sum(v.get("incomplete", min(v["total"], v["draft"] + v["todo"]))
+                                  for v in inc.values())
+
+    for k in ("doi_checked", "doi_not_found", "doi_title_mismatch", "doi_lookup_errors"):
+        out[k] = "skipped"
+    if doi:
+        import doi_resolver
+        import check_citations as cc
+        errors = []
+        issues = doi_resolver.check_all(errors=errors)
+        out["doi_checked"] = len({e["doi"] for es in cc.load_all_citations(cc.PAGE_TYPES).values()
+                                  for e in es if e["doi"]})
+        out["doi_not_found"] = sum(i["issue"] == "not_found" for i in issues)
+        out["doi_title_mismatch"] = sum(i["issue"] == "title_mismatch" for i in issues)
+        out["doi_lookup_errors"] = len(errors)
 
     with_ev = without_ev = no_header = 0
     for p in sorted((WIKI_ROOT / "claims").glob("*.md")):
@@ -124,9 +153,13 @@ def collect() -> dict:
     return out
 
 
-def measure_ref(ref: str) -> dict:
+DOI_CACHE = Path("eval") / "corpus" / "doi_resolution_cache.json"
+
+
+def measure_ref(ref: str, doi: bool = False) -> dict:
     """Check `ref` out into a temporary worktree, put today's scripts in it,
-    and run collect() there."""
+    and run collect() there. With `doi`, the working tree's DOI cache is
+    lent to the worktree and taken back, so lookups are shared across refs."""
     tmp = Path(tempfile.mkdtemp(prefix="scorecard-"))
     wt = tmp / "tree"
     subprocess.run(["git", "-C", str(WIKI_ROOT), "worktree", "add", "--detach", "-q", str(wt), ref],
@@ -134,8 +167,12 @@ def measure_ref(ref: str) -> dict:
     try:
         shutil.rmtree(wt / "scripts")
         shutil.copytree(SCRIPTS, wt / "scripts", ignore=shutil.ignore_patterns("__pycache__"))
+        if doi and (WIKI_ROOT / DOI_CACHE).exists():
+            shutil.copy2(WIKI_ROOT / DOI_CACHE, wt / DOI_CACHE)
         res = subprocess.run([sys.executable, "-W", "ignore", str(wt / "scripts" / "health_scorecard.py"),
-                              "--collect"], capture_output=True, text=True, cwd=wt)
+                              "--collect"] + (["--doi"] if doi else []), capture_output=True, text=True, cwd=wt)
+        if doi and (wt / DOI_CACHE).exists():
+            shutil.copy2(wt / DOI_CACHE, WIKI_ROOT / DOI_CACHE)
         if res.returncode != 0:
             raise RuntimeError(f"measuring {ref} failed:\n{res.stderr[-2000:]}")
         return json.loads(res.stdout.strip().splitlines()[-1])
@@ -149,6 +186,8 @@ def _fmt(v) -> str:
 
 
 def _delta(a, b, better: str) -> str:
+    if not all(isinstance(x, (int, float)) for x in (a, b)):
+        return ""
     d = b - a
     if not d:
         return "·"
@@ -183,10 +222,11 @@ def main() -> None:
     ap.add_argument("--labels", nargs="*", default=None, help="column labels, one per ref (and one for --worktree)")
     ap.add_argument("--worktree", action="store_true", help="also measure the uncommitted working tree, last")
     ap.add_argument("--out", default=None, help="write the table here as well as to stdout")
+    ap.add_argument("--doi", action="store_true", help="also resolve every DOI against Crossref (network; cached)")
     args = ap.parse_args()
 
     if args.collect:
-        print(json.dumps(collect()))
+        print(json.dumps(collect(doi=args.doi)))
         return
 
     columns = []
@@ -194,7 +234,7 @@ def main() -> None:
     labels = args.labels or names
     for ref, lab in zip(names, labels):
         print(f"[measuring] {lab} ({ref})", file=sys.stderr)
-        columns.append((lab, collect() if ref == "working tree" else measure_ref(ref)))
+        columns.append((lab, collect(doi=args.doi) if ref == "working tree" else measure_ref(ref, doi=args.doi)))
 
     shas = []
     for ref in args.refs:
