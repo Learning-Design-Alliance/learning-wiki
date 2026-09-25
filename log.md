@@ -10,6 +10,9 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/self-regulated-learning-strategies-improve-writing](claims/self-regulated-learning-strategies-improve-writing.md) — Evidence copied from a verified near-duplicate (gap-fill)
+* **Ingest**: [claims/strategy-instruction-improves-learning](claims/strategy-instruction-improves-learning.md) — Evidence copied from a verified near-duplicate (gap-fill)
+* **Ingest**: [claims/strategy-instruction-improves-academic-performance](claims/strategy-instruction-improves-academic-performance.md) — Evidence copied from a verified near-duplicate (gap-fill)
 * **Ingest**: [claims/multimedia-principles-benefit-novices](claims/multimedia-principles-benefit-novices.md) — Evidence copied from a verified near-duplicate (gap-fill)
 * **Ingest**: [claims/writing-strategy-instruction-improves-writing-quality](claims/writing-strategy-instruction-improves-writing-quality.md) — Evidence copied from a verified near-duplicate (gap-fill)
 * **Ingest**: [claims/words-and-pictures-better-than-words-alone](claims/words-and-pictures-better-than-words-alone.md) — Evidence copied from a verified near-duplicate (gap-fill)
