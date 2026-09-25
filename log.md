@@ -10,6 +10,12 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/strategy-instruction-improves-writing-quality](claims/strategy-instruction-improves-writing-quality.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/split-attention-effect-degrades-learning](claims/split-attention-effect-degrades-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/spatial-skills-improve-through-block-building](claims/spatial-skills-improve-through-block-building.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/segmenting-improves-multimedia-learning](claims/segmenting-improves-multimedia-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/reflective-practice-improves-outcomes-when-structured](claims/reflective-practice-improves-outcomes-when-structured.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/reflective-practice-evidence-mixed-in-professional-education](claims/reflective-practice-evidence-mixed-in-professional-education.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/structured-discussion-approaches-improve-comprehension](claims/structured-discussion-approaches-improve-comprehension.md) — Evidence copied from the verified entry on its near-duplicate sibling page
 * **Ingest**: [claims/spacing-improves-long-term-retention](claims/spacing-improves-long-term-retention.md) — Evidence copied from the verified entry on its near-duplicate sibling page
 * **Ingest**: [claims/spaced-practice-improves-long-term-retention](claims/spaced-practice-improves-long-term-retention.md) — Evidence copied from the verified entry on its near-duplicate sibling page

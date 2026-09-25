@@ -3,28 +3,44 @@ type: claim
 title: Reflective practice shows mixed evidence of effectiveness in professional education
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: reflective-practice-evidence-mixed-in-professional-education
 evidence_strength: weak
+sources:
+  - id: guo-2022
+    resource: "https://doi.org/10.1080/14623943.2021.1995856"
+    title: "Guo, L. (2022). How should reflection be supported in higher education? — A meta-analysis of reflection interventions. *Reflective Practice, 23*(1), 118–146. [doi:10.1080/14623943.2021.1995856](https://doi.org/10.1080/14623943.2021.1995856)"
+    author: Guo, L.
+    q: 4
+    i: 2
+    n: 2010 (23 studies, 23 effect sizes)
 ---
 
 # Reflective practice shows mixed evidence of effectiveness in professional education
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i2` medium · n=2010 (23 studies, 23 effect sizes)
 
 Structured reflection on one's own professional practice is widely embedded in professional education (teaching, nursing, medicine, social work), but the evidence that it improves learning or practice outcomes is mixed rather than consistently positive. [~W]
 
 ## Subclaims
 
-<!-- TODO -->
+`q4 i2` A meta-analysis of 23 controlled studies (n=2,010) finds reflective interventions produce a significant medium-sized average effect on learning outcomes, but the effect size varies substantially by intervention duration, whether peer interaction is included, and the specific reflective activity used — supporting the claim that overall effectiveness is real on average but inconsistent across implementations. [→ Guo 2022](#guo-2022)
 
 ## Evidence
 
-<!-- TODO -->
+### Guo 2022
+
+Guo, L. (2022). How should reflection be supported in higher education? — A meta-analysis of reflection interventions. *Reflective Practice, 23*(1), 118–146. [doi:10.1080/14623943.2021.1995856](https://doi.org/10.1080/14623943.2021.1995856)
+
+`q4 · well-powered random-effects meta-analysis of controlled experimental designs` · `i2 · medium effect, g=0.56 (SE=0.06)` · `n=2010 (23 studies, 23 effect sizes)`
+
+A meta-analysis of controlled experiments testing reflective interventions intended to promote learning outcomes in higher education, drawing on 23 studies with 2,010 participants total. Under a random-effects model the pooled effect was positive and medium-sized (g = 0.56), but moderator analyses showed the effect size depended on intervention duration, whether the reflection included peer interaction, and which specific reflective activity was used — i.e., the average effect masks considerable heterogeneity driven by how reflection is implemented, consistent with this claim page's point that operationalization varies widely and drives the mixed picture in the wider literature.
 
 ## Discussion
+
+**The one quantitative synthesis below does not show mixed evidence.** Guo (2022) pooled 23 reflection-intervention studies in higher education and found a medium positive effect (g = 0.56). "Mixed" may still describe the qualitative health-professions literature (Mann, Gordon & MacLeod 2009 is the usual source), which could not be read here; until it is, read the title as unconfirmed.
 
 **Operationalization varies widely.** "Reflective practice" spans unstructured journaling, guided reflection prompts, supervised debriefing, and portfolio-based reflection. Much of the inconsistency in the literature plausibly reflects this heterogeneity [~W]: unstructured or vague prompts ("think about your experience") tend to produce superficial recounting, while structured prompts that direct attention to specific decisions, alternatives, and evidence are more likely to generate productive analysis [~M]. Any assessment of the evidence base should therefore distinguish formats rather than treat reflection as a single intervention. Lightweight structured routines such as [3-2-1 reflection](../strategies/3-2-1_reflection.md) illustrate the low end of the structure spectrum; formalized practitioner inquiry such as [action research](../strategies/action-research.md) sits at the high end.
 

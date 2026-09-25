@@ -3,26 +3,57 @@ type: claim
 title: Reflective Practice Improves Outcomes When Structured
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: reflective-practice-improves-outcomes-when-structured
 evidence_strength: unrated
+sources:
+  - id: bangert-drowns-et-al-2004
+    resource: "https://doi.org/10.3102/00346543074001029"
+    title: "Bangert-Drowns, R. L., Hurley, M. M., & Wilkinson, B. (2004). The effects of school-based writing-to-learn interventions on academic achievement: A meta-analysis. *Review of Educational Research, 74*(1), 29–58. [doi:10.3102/00346543074001029](https://doi.org/10.3102/00346543074001029)"
+    author: "Bangert-Drowns, R. L., Hurley, M. M., & Wilkinson, B."
+    q: 4
+    i: 2
+    n: 48 studies
+  - id: menekse-et-al-2022
+    resource: "https://doi.org/10.1080/00220973.2020.1786346"
+    title: "Menekse, M., Anwar, S., & Akdemir, Z. G. (2022). How do different reflection prompts affect engineering students' academic performance and engagement? *The Journal of Experimental Education, 90*(2), 261–279. [doi:10.1080/00220973.2020.1786346](https://doi.org/10.1080/00220973.2020.1786346)"
+    author: "Menekse, M., Anwar, S., & Akdemir, Z. G."
+    q: 2
+    i: "?"
+    n: 208
 ---
 
 # Reflective Practice Improves Outcomes When Structured
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 2 studies · `q2`–`q4` · `i2` medium
 
 Reflection improves learning and performance when it is prompted by structure — specific questions, frameworks, or prompts — rather than left as an unguided invitation to "think about your learning."
 
 ## Subclaims
 
-<!-- TODO -->
+`q4 i2` A meta-analysis of 48 school-based writing-to-learn interventions found metacognitive-reflection prompts were the single strongest predictor of enhanced effects on academic achievement, controlling for other writing content types. [→ Bangert-Drowns et al. 2004](#bangert-drowns-et-al-2004)
+
+`q2 i?` In a quasi-experimental classroom study, engineering students given specific (structured) reflection prompts scored significantly higher on exams, project work and problem sets than students given generic (unstructured) prompts, despite both groups submitting the same number of reflections. [→ Menekse et al. 2022](#menekse-et-al-2022)
 
 ## Evidence
 
-<!-- TODO -->
+### Bangert-Drowns et al. 2004
+
+Bangert-Drowns, R. L., Hurley, M. M., & Wilkinson, B. (2004). The effects of school-based writing-to-learn interventions on academic achievement: A meta-analysis. *Review of Educational Research, 74*(1), 29–58. [doi:10.3102/00346543074001029](https://doi.org/10.3102/00346543074001029)
+
+`q4 · well-powered meta-analysis (48 studies)` · `i2 · medium effect, b=0.48 for metacognitive-reflection prompts` · `n=48 studies`
+
+This meta-analysis pooled 48 school-based writing-to-learn intervention studies (experimental vs. control academic-achievement outcomes) and found writing overall produced only a small average gain (random-effects d = 0.22, 95% CI [0.13, 0.31]). Moderator analysis of writing content types (informational, personal, imaginative, metacognitive) found that assignments containing prompts for metacognitive reflection were associated with a substantially larger effect than assignments without them (b = 0.48, p = .004) — the only content-type moderator that reached significance — alongside longer treatment length. Writing tasks with no reflective/metacognitive component performed near the small overall average; those requiring students to reflect on their own thinking process did substantially better, directly supporting the claim that unguided writing/reflection is weaker than reflection structured around metacognitive prompts.
+
+### Menekse et al. 2022
+
+Menekse, M., Anwar, S., & Akdemir, Z. G. (2022). How do different reflection prompts affect engineering students' academic performance and engagement? *The Journal of Experimental Education, 90*(2), 261–279. [doi:10.1080/00220973.2020.1786346](https://doi.org/10.1080/00220973.2020.1786346)
+
+`q2 · quasi-experimental classroom study` · `i? · no effect size reported, described only as "significantly better"` · `n=208`
+
+Using a quasi-experimental design across two sections of a required first-year engineering course (N = 208), students were assigned to receive either generic or specific (i.e., more structured, content-targeted) reflection prompts and submitted 52 reflections apiece over a semester. Students in the specific-prompts condition performed significantly better than the generic-prompts condition on exams, total project score, and two of the problem sets, even though the sheer quantity of reflection was held constant between groups. This isolates prompt structure/specificity, rather than amount of reflection, as the active ingredient — directly supporting the claim's conditional framing (structure matters, not just the presence of reflection).
 
 ## Discussion
 
