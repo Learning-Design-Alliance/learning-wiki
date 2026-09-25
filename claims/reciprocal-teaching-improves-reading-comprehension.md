@@ -3,26 +3,40 @@ type: claim
 title: Reciprocal Teaching Improves Reading Comprehension
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: reciprocal-teaching-improves-reading-comprehension
 evidence_strength:
+sources:
+  - id: rosenshine-and-meister-1994
+    resource: "https://doi.org/10.3102/00346543064004479"
+    title: "Rosenshine, B., & Meister, C. (1994). Reciprocal Teaching: A Review of the Research. *Review of Educational Research, 64*(4), 479–530. [doi:10.3102/00346543064004479](https://doi.org/10.3102/00346543064004479)"
+    author: "Rosenshine, B., & Meister, C."
+    q: 3
+    i: 1
+    n: 16 studies
 ---
 
 # Reciprocal Teaching Improves Reading Comprehension
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small · n=16 studies
 
 Reciprocal teaching is a structured dialogue routine in which learners take turns leading discussions of a text using four strategies — predicting, questioning, clarifying, and summarizing — with the teacher modeling and gradually handing over responsibility.
 
 ## Subclaims
 
-<!-- TODO -->
+`q3 i1` A review of sixteen quantitative studies finds reciprocal teaching improves reading comprehension, with a median effect size of .32 on standardized comprehension tests and .88 on experimenter-developed tests. [→ Rosenshine and Meister 1994](#rosenshine-and-meister-1994)
 
 ## Evidence
 
-<!-- TODO -->
+### Rosenshine and Meister 1994
+
+Rosenshine, B., & Meister, C. (1994). Reciprocal Teaching: A Review of the Research. *Review of Educational Research, 64*(4), 479–530. [doi:10.3102/00346543064004479](https://doi.org/10.3102/00346543064004479)
+
+`q3 · systematic review of quasi-/experimental studies` · `i1 · small effect, median d=.32 on standardized tests (d=.88 on experimenter-developed tests)` · `n=16 studies`
+
+This review synthesizes sixteen quantitative studies of reciprocal teaching — a dialogue-based routine teaching students to summarize, question, clarify, and predict as they read — drawn from published journal articles and unpublished dissertations. Effects favored reciprocal teaching overall, but the size of the effect depended heavily on the outcome measure: a median effect size of .32 when comprehension was assessed with standardized, norm-referenced tests, versus a much larger .88 when assessed with tests the experimenters themselves developed (which tend to align more closely with the taught strategies). The review also discusses which of the four strategies were most helpful and how instructional quality moderated outcomes.
 
 ## Discussion
 
@@ -32,7 +46,7 @@ Boundary conditions to watch: the routine requires sustained practice over multi
 
 Open questions include how much teacher modeling is optimal before handover, how well effects transfer to unfamiliar text types, and whether the four-strategy package is necessary or whether individual strategies (particularly summarizing and questioning) carry most of the benefit.
 
-**Single-source limitation.** This page currently has no Evidence entries; the claim is widely reported in the reading-comprehension literature, but specific studies and effect sizes still need to be added before an evidence-strength rating can be assigned.
+**Single-source limitation.** The one review recorded above was read as an abstract. Its effect on standardized comprehension tests (median .32) is much smaller than on tests the researchers wrote themselves (.88), so the size of the benefit depends heavily on how comprehension is measured.
 
 ## Related Claims
 

@@ -10,6 +10,14 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/reciprocal-teaching-improves-reading-comprehension](claims/reciprocal-teaching-improves-reading-comprehension.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/phoneme-awareness-stronger-predictor-than-rhyme](claims/phoneme-awareness-stronger-predictor-than-rhyme.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/peer-tutoring-improves-achievement](claims/peer-tutoring-improves-achievement.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/phonological-awareness-training-improves-reading](claims/phonological-awareness-training-improves-reading.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/phonemic-awareness-training-improves-reading](claims/phonemic-awareness-training-improves-reading.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/spaced-retrieval-practice-improves-retention](claims/spaced-retrieval-practice-improves-retention.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/spaced-retrieval-improves-retention](claims/spaced-retrieval-improves-retention.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/spaced-retrieval-outperforms-restudy](claims/spaced-retrieval-outperforms-restudy.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/self-regulation-strategy-instruction-improves-achievement](claims/self-regulation-strategy-instruction-improves-achievement.md) — Evidence copied from a verified near-duplicate (gap-fill)
 * **Ingest**: [claims/self-regulation-strategy-instruction-improves-academic-performance](claims/self-regulation-strategy-instruction-improves-academic-performance.md) — Evidence copied from a verified near-duplicate (gap-fill)
 * **Ingest**: [claims/self-regulated-learning-improves-academic-outcomes](claims/self-regulated-learning-improves-academic-outcomes.md) — Evidence copied from a verified near-duplicate (gap-fill)

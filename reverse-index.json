@@ -1,7 +1,7 @@
 {
  "coverage": {
   "claims->claims": 455,
-  "claims->elements": 135,
+  "claims->elements": 136,
   "claims->learner-variables": 1,
   "claims->methods": 3,
   "claims->patterns": 103,
@@ -59313,6 +59313,9 @@
      },
      {
       "slug": "phonics-instruction-improves-word-reading"
+     },
+     {
+      "slug": "phonological-awareness-training-improves-reading"
      }
     ],
     "elements": [
