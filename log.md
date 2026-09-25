@@ -10,6 +10,9 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/cooperative-learning-free-rider-without-accountability](claims/cooperative-learning-free-rider-without-accountability.md) — Evidence copied from the verified entry on its near-duplicate sibling page
+* **Ingest**: [claims/fluency-judgments-mislead-learners](claims/fluency-judgments-mislead-learners.md) — Evidence copied from the verified entry on its near-duplicate sibling page
+* **Ingest**: [claims/feedback-improves-learning-outcomes](claims/feedback-improves-learning-outcomes.md) — Evidence copied from the verified entry on its near-duplicate sibling page
 * **Ingest**: [claims/strategy-instruction-improves-writing-quality](claims/strategy-instruction-improves-writing-quality.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/split-attention-effect-degrades-learning](claims/split-attention-effect-degrades-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/spatial-skills-improve-through-block-building](claims/spatial-skills-improve-through-block-building.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
