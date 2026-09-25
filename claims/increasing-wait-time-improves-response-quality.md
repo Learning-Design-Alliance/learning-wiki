@@ -9,8 +9,8 @@ id: increasing-wait-time-improves-response-quality
 evidence_strength: weak
 sources:
   - id: tobin-1987
-    resource: "https://doi.org/10.2307/1170357"
-    title: "Tobin, K. (1987). The Role of Wait Time in Higher Cognitive Level Learning. *Review of Educational Research, 57*(1), 69. [doi:10.2307/1170357](https://doi.org/10.2307/1170357)"
+    resource: "https://doi.org/10.3102/00346543057001069"
+    title: "Tobin, K. (1987). The Role of Wait Time in Higher Cognitive Level Learning. *Review of Educational Research, 57*(1), 69–95. [doi:10.3102/00346543057001069](https://doi.org/10.3102/00346543057001069)"
     author: Tobin, K.
     q: 3
     i: "?"
@@ -41,7 +41,7 @@ Extending the pause a teacher leaves after asking a question — and after a stu
 
 ### Tobin 1987
 
-Tobin, K. (1987). The Role of Wait Time in Higher Cognitive Level Learning. *Review of Educational Research, 57*(1), 69. [doi:10.2307/1170357](https://doi.org/10.2307/1170357)
+Tobin, K. (1987). The Role of Wait Time in Higher Cognitive Level Learning. *Review of Educational Research, 57*(1), 69–95. [doi:10.3102/00346543057001069](https://doi.org/10.3102/00346543057001069)
 
 `q3 · systematic review of classroom-questioning studies` · `i? · no effect size reported` · `n=N/A (narrative synthesis of multiple studies)`
 

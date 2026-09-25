@@ -10,6 +10,10 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/increasing-wait-time-improves-response-quality](claims/increasing-wait-time-improves-response-quality.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/self-monitoring-comprehension-improves-learning](claims/self-monitoring-comprehension-improves-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/questioning-strategies-improve-learning](claims/questioning-strategies-improve-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/retrieval-fails-without-encoding](claims/retrieval-fails-without-encoding.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/self-directed-iep-increases-student-participation](claims/self-directed-iep-increases-student-participation.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/project-based-learning-improves-achievement](claims/project-based-learning-improves-achievement.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/pretraining-improves-transfer](claims/pretraining-improves-transfer.md) — Evidence filled from Crossref-verified sources (gap-fill)
