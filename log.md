@@ -10,6 +10,10 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/scaffolding-improves-learning-outcomes](claims/scaffolding-improves-learning-outcomes.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/scaffolding-improves-learning](claims/scaffolding-improves-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/writing-to-learn-improves-understanding](claims/writing-to-learn-improves-understanding.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/writing-to-learn-improves-content-learning](claims/writing-to-learn-improves-content-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/learners-misjudge-effective-study-strategies](claims/learners-misjudge-effective-study-strategies.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/learners-misjudge-effective-learning-strategies](claims/learners-misjudge-effective-learning-strategies.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/positive-greetings-at-the-door-improve-engagement](claims/positive-greetings-at-the-door-improve-engagement.md) — Evidence filled from Crossref-verified sources (gap-fill)
