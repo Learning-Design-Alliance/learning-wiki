@@ -626,6 +626,34 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Evidence">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#rey-et-al-2019" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Rey et al. 2019
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#barbieri-et-al-2023" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Barbieri et al. 2023
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -678,7 +706,7 @@
 <h1 id="cognitive-load-management">Cognitive Load Management<a class="headerlink" href="#cognitive-load-management" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a>
-<strong>Evidence</strong> · none recorded yet</p>
+<strong>Evidence</strong> · 2 studies · <code>q4</code> pre-registered or meta-analytic · <code>i2</code> medium</p>
 </blockquote>
 <p>Managing intrinsic, extraneous, and germane cognitive load — by controlling element interactivity, removing unnecessary processing demands, and scaffolding complex content — protects limited working-memory capacity and improves learning outcomes.</p>
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
@@ -752,11 +780,17 @@ code and adds <code>n=</code>.</p>
 page reports it faithfully is a separate axis — see <code>trust</code> in the page
 metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 </details>
-<!-- TODO -->
-
+<p><code>q4 i?</code> Breaking multimedia instruction into learner-paced or system-paced segments, a way of managing intrinsic load, improves retention and transfer by small to medium amounts and lowers overall rated cognitive load. It also lengthens learning time, and learners with high prior knowledge gained more on retention than learners with low prior knowledge. <a href="#rey-et-al-2019">→ Rey et al. 2019</a></p>
+<p><code>q4 i2</code> Worked examples, the standard technique for cutting unnecessary problem-solving search, give a medium average benefit on mathematics performance from elementary school through postsecondary. The benefit is smaller when the examples come with self-explanation prompts, so the germane-load add-on did not help here. <a href="#barbieri-et-al-2023">→ Barbieri et al. 2023</a></p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
-<!-- TODO -->
-
+<h3 id="rey-et-al-2019">Rey et al. 2019<a class="headerlink" href="#rey-et-al-2019" title="Permanent link">&para;</a></h3>
+<p>Rey, G. D., Beege, M., Nebel, S., Wirzberger, M., Schmitt, T. H., &amp; Schneider, S. (2019). A meta-analysis of the segmenting effect. <em>Educational Psychology Review, 31</em>(2), 389–419. <a href="https://doi.org/10.1007/s10648-018-9456-4">doi:10.1007/s10648-018-9456-4</a></p>
+<p><code>q4 · meta-analysis</code> · <code>i? · described as small to medium; the abstract gives no pooled d</code> · <code>n=56 investigations (88 pairwise comparisons)</code></p>
+<p>This meta-analysis pooled 56 investigations (88 pairwise comparisons) that compared multimedia instruction split into meaningful segments with the same material presented as one continuous unit. Segmenting had small to medium positive effects on retention and transfer. It also reduced overall cognitive load and increased learning time, and the same four effects held when the system, not the learner, set the pace. Contrary to what the expertise reversal effect would predict, learners with high prior knowledge benefited more on retention than learners with little or none. That finding qualifies the idea that load-reducing support always matters most for novices.</p>
+<h3 id="barbieri-et-al-2023">Barbieri et al. 2023<a class="headerlink" href="#barbieri-et-al-2023" title="Permanent link">&para;</a></h3>
+<p>Barbieri, C. A., Miller-Cotto, D., Clerjuste, S. N., &amp; Chawla, K. (2023). A meta-analysis of the worked examples effect on mathematics performance. <em>Educational Psychology Review, 35</em>(1), 11. <a href="https://doi.org/10.1007/s10648-023-09745-1">doi:10.1007/s10648-023-09745-1</a></p>
+<p><code>q4 · meta-analysis (robust variance estimation)</code> · <code>i2 · medium effect, g=0.48</code> · <code>n=55 studies (43 articles, 181 effect sizes)</code></p>
+<p>The authors screened 8,033 abstracts and kept 55 experimental and quasi-experimental studies (181 effect sizes) of <a href="../worked-examples-reduce-novice-search/">worked examples</a> in mathematics, from elementary grades to postsecondary. The average effect on mathematics performance was medium (g = 0.48). It held whether the examples were used for initial skill acquisition or for practice, and correct examples alone worked better than incorrect examples or a mix of the two. Adding self-explanation prompts produced a negative effect compared with worked examples without them. This cuts against the assumption that layering a germane-load activity onto a load-reducing scaffold always adds value.</p>
 <h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
 <p>Cognitive load management is the practical application of <a href="../../theories/cognitive-load-theory/">Cognitive Load Theory</a>: because working memory can hold only a small number of interacting elements, instruction that exceeds this capacity degrades learning — see <a href="../cognitive-overload-degrades-learning/">Cognitive overload degrades learning</a>. Designers manage load in three ways: reducing <strong>intrinsic</strong> load by sequencing and segmenting complex material (chunking, part-whole progression), reducing <strong>extraneous</strong> load by eliminating redundant or poorly integrated presentation (see <a href="../../principles/cognitive-load-reduction/">Cognitive Load Reduction</a> and <a href="../cognitive-load-reduction-improves-learning/">Cognitive Load Reduction Improves Learning</a>), and optimizing <strong>germane</strong> load by directing freed capacity toward schema-building activities such as self-explanation and practice.</p>
 <p>Key moderators shape when load management helps. The <a href="../../theories/expertise-reversal-effect/">expertise reversal effect</a> means scaffolds that reduce load for novices (worked examples, high guidance) can become redundant and even harmful for advanced learners, so support must fade as competence grows — see <a href="../worked-examples-expertise-reversal/">Worked examples can become redundant or counterproductive for advanced learners.</a>. Prior knowledge activation reduces intrinsic load by providing schemas to which new elements can be attached — see <a href="../activation/">Activation</a>. Offloading sub-skills to automaticity frees capacity for higher-order processing, as with <a href="../automatic-word-recognition-frees-resources-for-comprehension/">Automatic word recognition frees resources for comprehension</a>.</p>
@@ -800,11 +834,15 @@ metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 </tr>
 <tr>
 <td><code>generated</code></td>
-<td>by <code>claude/unspecified</code> on <code>2026-08-30</code></td>
+<td>by <code>claude/unspecified</code> on <code>2026-09-25</code></td>
 </tr>
 <tr>
 <td><code>trust</code></td>
 <td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>2 — <code>rey-et-al-2019</code>, <code>barbieri-et-al-2023</code></td>
 </tr>
 </tbody>
 </table>
