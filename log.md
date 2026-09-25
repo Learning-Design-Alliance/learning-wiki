@@ -10,6 +10,10 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Correction**: [strategies/close-reading](strategies/close-reading.md) — Fisher & Frey (2014) title and pages corrected from Crossref
+* **Ingest**: [claims/rubrics-improve-peer-feedback-quality](claims/rubrics-improve-peer-feedback-quality.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/rereading-is-a-low-utility-study-strategy](claims/rereading-is-a-low-utility-study-strategy.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/reading-strategy-instruction-improves-comprehension](claims/reading-strategy-instruction-improves-comprehension.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/question-prompts-improve-learning](claims/question-prompts-improve-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/scaffolded-close-reading-improves-comprehension-for-struggling-readers](claims/scaffolded-close-reading-improves-comprehension-for-struggling-readers.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/self-determined-learning-model-of-instruction-improves-self-determination](claims/self-determined-learning-model-of-instruction-improves-self-determination.md) — Evidence filled from Crossref-verified sources (gap-fill)

@@ -5,8 +5,8 @@ title: Close Reading
 description: Close reading is the repeated, text-dependent analysis of a short, complex passage through multiple purposeful readings, each targeting a different layer of meaning.
 status: review
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-29
+  by: claude/unspecified
+  at: 2026-09-25
 ---
 
 # Close Reading
@@ -71,7 +71,7 @@ Close reading concentrates effort on a small amount of high-quality text, allowi
 - **[Perusall](https://www.perusall.com)** — social annotation platform where students' second readings happen visibly in shared margins.
 
 ## Key Sources
-- Fisher, D., & Frey, N. (2014). Close reading as an intervention for struggling middle school students. *Journal of Adolescent & Adult Literacy, 57*(5), 377–386. [doi:10.1002/jaal.266](https://doi.org/10.1002/jaal.266)
+- Fisher, D., & Frey, N. (2014). Close reading as an intervention for struggling middle school readers. *Journal of Adolescent & Adult Literacy, 57*(5), 367–376. [doi:10.1002/jaal.266](https://doi.org/10.1002/jaal.266)
 - Shanahan, T., & Shanahan, C. (2008). Teaching disciplinary literacy to adolescents: Rethinking content-area literacy. *Harvard Educational Review, 78*(1), 40–59. [doi:10.17763/haer.78.1.v62444321p602101](https://doi.org/10.17763/haer.78.1.v62444321p602101)
 - Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)
 - Kintsch, W. (1998). *Comprehension: A paradigm for cognition*. Cambridge University Press.
