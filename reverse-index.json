@@ -1,7 +1,7 @@
 {
  "coverage": {
   "claims->claims": 455,
-  "claims->elements": 126,
+  "claims->elements": 127,
   "claims->learner-variables": 1,
   "claims->methods": 3,
   "claims->patterns": 103,
@@ -70545,6 +70545,11 @@
     ]
    },
    "discussion": {
+    "claims": [
+     {
+      "slug": "argumentation-improves-reasoning"
+     }
+    ],
     "strategies": [
      {
       "slug": "case-based-learning"
@@ -82590,6 +82595,11 @@
     ]
    },
    "text-underlining-and-annotating": {
+    "claims": [
+     {
+      "slug": "annotating-improves-learning"
+     }
+    ],
     "patterns": [
      {
       "slug": "threading-weaving-patternmaking"

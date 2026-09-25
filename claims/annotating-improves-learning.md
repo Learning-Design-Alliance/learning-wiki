@@ -3,26 +3,57 @@ type: claim
 title: Annotating improves learning
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: annotating-improves-learning
 evidence_strength:
+sources:
+  - id: ponce-et-al-2022
+    resource: "https://doi.org/10.1007/s10648-021-09654-1"
+    title: "Ponce, H. R., Mayer, R. E., & Méndez, E. E. (2022). Effects of learner-generated highlighting and instructor-provided highlighting on learning from text: A meta-analysis. *Educational Psychology Review, 34*(2), 989–1024. [doi:10.1007/s10648-021-09654-1](https://doi.org/10.1007/s10648-021-09654-1)"
+    author: "Ponce, H. R., Mayer, R. E., & Méndez, E. E."
+    q: 4
+    i: 1
+    n: 36 articles (85 effect sizes)
+  - id: dunlosky-et-al-2013
+    resource: "https://doi.org/10.1177/1529100612453266"
+    title: "Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)"
+    author: "Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T."
+    q: 3
+    i: "?"
+    n: 10 techniques reviewed
 ---
 
 # Annotating improves learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 2 studies · `q3`–`q4` · `i1` small
 
 Learners who actively mark up texts — highlighting, underlining, margin notes, and other generative annotations — tend to process material more deeply than passive readers. The scope of this claim covers learner-generated annotations on text and multimedia, not instructor-supplied annotations.
 
 ## Subclaims
 
-<!-- TODO -->
+`q4 i1` Asking learners to highlight or underline important material while reading improves memory for the text (average effect size 0.36) but not comprehension (0.20), and helps college students but not school students; this covers highlighting only, not elaborative margin notes. [→ Ponce et al. 2022](#ponce-et-al-2022)
+
+`q3 i?` A review of ten common study techniques rated highlighting and underlining as low utility, which qualifies any general claim that unguided marking of text improves learning. [→ Dunlosky et al. 2013](#dunlosky-et-al-2013)
 
 ## Evidence
 
-<!-- TODO -->
+### Ponce et al. 2022
+
+Ponce, H. R., Mayer, R. E., & Méndez, E. E. (2022). Effects of learner-generated highlighting and instructor-provided highlighting on learning from text: A meta-analysis. *Educational Psychology Review, 34*(2), 989–1024. [doi:10.1007/s10648-021-09654-1](https://doi.org/10.1007/s10648-021-09654-1)
+
+`q4 · meta-analysis` · `i1 · small effect, 0.36 on memory; 0.20 on comprehension` · `n=36 articles (85 effect sizes)`
+
+A meta-analysis of experiments, published between 1938 and 2019, in which college or K-12 students read an academic text either with or without being asked to highlight important material (or with or without the important material already highlighted by the instructor), and then took memory or comprehension tests. When learners did the [highlighting](../elements/text-underlining-and-annotating.md) themselves, memory improved (average effect size 0.36) but comprehension did not (0.20). The benefit held for college students (0.39) but not for school students (0.24). Highlighting supplied by the instructor did better, improving both memory and comprehension (0.44 each). Read from the abstract only. The study covers highlighting and underlining, not other kinds of annotation such as written margin notes.
+
+### Dunlosky et al. 2013
+
+Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)
+
+`q3 · narrative review of experimental literature` · `i? · no pooled effect size reported` · `n=10 techniques reviewed`
+
+A long review that asks, for each of ten study techniques, whether its benefits hold up across different learning conditions, types of student, materials and tests. Highlighting (or underlining) was one of five techniques rated low utility, along with summarization, the keyword mnemonic, imagery use for text learning and rereading. Practice testing and distributed practice were rated high utility. This counts against the claim for unguided highlighting in particular. It does not test more elaborative annotation. Read from the Crossref-deposited abstract only.
 
 ## Discussion
 
