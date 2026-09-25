@@ -2035,6 +2035,13 @@ work is done, not that the check is broken.</p>
   may <code>--publish</code>, which is irreversible. <code>release.doi</code> is refused on any non-<code>research</code>
   release, because a DOI is exactly the badge that makes a simulation read as a finding.</p>
 </li>
+<li>
+<p><strong>The repo root is public-facing: nothing but the wiki's own files lives there.</strong> On
+  2026-09-25 it carried 22 run logs and one-off reports (<code>glm-*.log</code>, <code>doi-report-*.md</code>,
+  <code>health-final.md</code>, <code>health-truly-final.md</code>), the first thing a visitor saw on GitHub.
+  They were removed (git history keeps them) and <code>.gitignore</code> now refuses them. Write run
+  output to <code>eval/runs/</code>, which is ignored; never commit a log or a scratch report at the root.</p>
+</li>
 </ul>
 <p><strong>When you finish something wiki-wide, add a line here.</strong> That is how the next session
 finds out.</p>
