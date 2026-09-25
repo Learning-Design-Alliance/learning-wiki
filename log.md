@@ -10,6 +10,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/pretesting-can-harm-motivation](claims/pretesting-can-harm-motivation.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/personalized-learning-effects-vary-with-fidelity](claims/personalized-learning-effects-vary-with-fidelity.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/peer-assessment-structured-criteria-improve-learning](claims/peer-assessment-structured-criteria-improve-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/multiple-representations-improve-learning](claims/multiple-representations-improve-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
