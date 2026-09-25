@@ -10,6 +10,9 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/learner-paced-beats-system-paced-complex-material](claims/learner-paced-beats-system-paced-complex-material.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/parental-involvement-improves-achievement](claims/parental-involvement-improves-achievement.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/parent-involvement-improves-achievement](claims/parent-involvement-improves-achievement.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/guided-notes-improve-note-accuracy](claims/guided-notes-improve-note-accuracy.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/invention-tasks-prepare-future-learning](claims/invention-tasks-prepare-future-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/exercise-increases-hippocampal-volume](claims/exercise-increases-hippocampal-volume.md) — Evidence filled from Crossref-verified sources (gap-fill)
