@@ -1,7 +1,7 @@
 {
  "coverage": {
   "claims->claims": 455,
-  "claims->elements": 129,
+  "claims->elements": 131,
   "claims->learner-variables": 1,
   "claims->methods": 3,
   "claims->patterns": 103,
@@ -71693,7 +71693,13 @@
       "slug": "parent-coaching-outperforms-information-only"
      },
      {
+      "slug": "retrieval-practice-enhances-long-term-retention"
+     },
+     {
       "slug": "retrieval-practice-improves-retention"
+     },
+     {
+      "slug": "testing-effect-improves-retention"
      }
     ],
     "elements": [
