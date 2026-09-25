@@ -10,6 +10,14 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/personalized-learning-effects-vary-with-fidelity](claims/personalized-learning-effects-vary-with-fidelity.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/peer-assessment-structured-criteria-improve-learning](claims/peer-assessment-structured-criteria-improve-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/multiple-representations-improve-learning](claims/multiple-representations-improve-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/parent-involvement-improves-early-reading](claims/parent-involvement-improves-early-reading.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/personalized-normative-feedback-corrects-misperceived-norms](claims/personalized-normative-feedback-corrects-misperceived-norms.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/parent-coaching-outperforms-information-only](claims/parent-coaching-outperforms-information-only.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/number-board-games-improve-numerical-knowledge](claims/number-board-games-improve-numerical-knowledge.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/misconceptions-interfere-with-new-learning](claims/misconceptions-interfere-with-new-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/parent-implemented-intervention-improves-outcomes](claims/parent-implemented-intervention-improves-outcomes.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/summarization-effective-with-training](claims/summarization-effective-with-training.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/summarization-improves-learning](claims/summarization-improves-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)

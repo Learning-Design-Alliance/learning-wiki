@@ -1,7 +1,7 @@
 {
  "coverage": {
   "claims->claims": 455,
-  "claims->elements": 140,
+  "claims->elements": 141,
   "claims->learner-variables": 1,
   "claims->methods": 3,
   "claims->patterns": 104,
@@ -75854,6 +75854,9 @@
      },
      {
       "slug": "minimal-guidance-less-effective-for-novices"
+     },
+     {
+      "slug": "number-board-games-improve-numerical-knowledge"
      },
      {
       "slug": "parent-coaching-outperforms-information-only"
