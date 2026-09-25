@@ -3,28 +3,61 @@ type: claim
 title: Peer Feedback Accuracy Depends On Expertise
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: peer-feedback-accuracy-depends-on-expertise
 evidence_strength: weak
+sources:
+  - id: wu-schunn-2023
+    resource: "https://doi.org/10.1037/edu0000768"
+    title: "Wu, Y., & Schunn, C. D. (2023). Assessor writing performance on peer feedback: Exploring the relation between assessor writing performance, problem identification accuracy, and helpfulness of peer feedback. *Journal of Educational Psychology, 115*(1), 118–142. [doi:10.1037/edu0000768](https://doi.org/10.1037/edu0000768)"
+    author: "Wu, Y., & Schunn, C. D."
+    q: 2
+    i: "?"
+    n: 234 assessors (1,921 individual comments), 234 secondary/high-school students in a U.S. writing course
+  - id: schunn-et-al-2016
+    resource: "https://doi.org/10.1002/jaal.525"
+    title: "Schunn, C., Godley, A., & DeMartino, S. (2016). The reliability and validity of peer review of writing in high school AP English classes. *Journal of Adolescent & Adult Literacy, 60*(1), 13–23. [doi:10.1002/jaal.525](https://doi.org/10.1002/jaal.525)"
+    author: "Schunn, C., Godley, A., & DeMartino, S."
+    q: 2
+    i: "?"
+    n: 1,215 students across 26 U.S. schools (12 states); 489 essays independently rated by teachers and trained AP scorers
 ---
 
 # Peer Feedback Accuracy Depends On Expertise
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 2 studies · `q2` quasi-experiment
 
 The accuracy and usefulness of feedback that learners give to one another depends on the feedback-giver's domain expertise: novices often misdiagnose problems and endorse flawed work. The claim concerns the *accuracy* of the feedback given, not the *benefit* of receiving or producing it — those can diverge.
 
 ## Subclaims
 
-<!-- TODO -->
+`q2 i?` Among secondary-school peer assessors, writer/assessor performance level was unrelated to whether they correctly identified a genuine problem in a peer's draft, but it strongly predicted whether their comments were rated helpful — so "expertise" tracks the usefulness of feedback more reliably than its diagnostic accuracy. [→ Wu & Schunn 2023](#wu-schunn-2023)
+
+`q2 i?` Among AP English students using a structured, well-specified rubric, agreement between peer ratings and teacher/expert AP scores did not differ significantly between higher- and lower-performing schools, qualifying a simple novice-vs-expert accuracy story when reviewers are given strong scaffolding. [→ Schunn et al. 2016](#schunn-et-al-2016)
 
 ## Evidence
 
-<!-- TODO -->
+### Wu & Schunn 2023
+
+Wu, Y., & Schunn, C. D. (2023). Assessor writing performance on peer feedback: Exploring the relation between assessor writing performance, problem identification accuracy, and helpfulness of peer feedback. *Journal of Educational Psychology, 115*(1), 118–142. [doi:10.1037/edu0000768](https://doi.org/10.1037/edu0000768)
+
+`q2 · observational/correlational study with regression controls (not an experimental manipulation of expertise)` · `i? · no d/r-scale effect size reported; findings expressed as odds ratios and null regression coefficients` · `n=234 assessors (1,921 individual comments), 234 secondary/high-school students in a U.S. writing course`
+
+234 high-school assessors' own writing performance was measured at three grain sizes (genre, rubric dimension, specific problem topic) and related to (a) whether they correctly flagged real problems in a peer's essay and (b) whether their comments were rated helpful. Multiple regression showed assessor writing performance was **not** related to problem-identification accuracy at any grain size — lower-performing assessors even flagged *more* problems (not fewer) on several topics, with directionally higher false-alarm rates that were not statistically significant. By contrast, assessor performance on specific topics and dimensions consistently and substantially predicted [feedback helpfulness](../elements/rubrics.md) (topic-level performance more than doubled the odds of helpful feedback; dimensional performance raised it by ~25%), even though lower-performing assessors rarely gave outright incorrect advice.
+
+### Schunn et al. 2016
+
+Schunn, C., Godley, A., & DeMartino, S. (2016). The reliability and validity of peer review of writing in high school AP English classes. *Journal of Adolescent & Adult Literacy, 60*(1), 13–23. [doi:10.1002/jaal.525](https://doi.org/10.1002/jaal.525)
+
+`q2 · observational/correlational classroom study, no experimental manipulation of reviewer ability` · `i? · reported as correlations (r ≈ .4–.7) and a non-significant moderation test, not a d-scale effect for the expertise comparison` · `n=1,215 students across 26 U.S. schools (12 states); 489 essays independently rated by teachers and trained AP scorers`
+
+1,215 AP English students anonymously rated five classmates' rhetorical-analysis essays each with a task-specific [rubric](../elements/rubrics.md); their mean ratings were compared to their teachers' and to trained AP expert scorers' ratings of the same 489 essays. Correlations between mean student ratings and both teacher and expert scores were moderate-to-high (roughly .4–.7, approaching .7 for the overall essay score) and, notably, students' averaged ratings correlated with expert scores slightly *more* strongly than individual teachers' ratings did. Critically for this claim, reliability and validity did **not** differ significantly between higher- and lower-performing schools on any rubric criterion, suggesting that — at least when reviewers use a carefully designed, well-specified rubric — peer-assessment accuracy does not simply track the reviewers' own academic performance level.
 
 ## Discussion
+
+**The evidence below does not support the claim as stated.** Wu & Schunn (2023) found assessor expertise predicted how *helpful* feedback was but was unrelated to how *accurately* it identified problems, and Schunn et al. (2016) found peer ratings about as reliable in lower- as in higher-performing schools once a well-designed rubric was used. Read the title as a hypothesis the current evidence does not bear out, at least where assessment is structured.
 
 **Why expertise matters.** Accurate peer feedback requires the same knowledge that accurate self-assessment requires: a mental model of what quality looks like and the ability to detect deviations from it. Novices lack this model, so their comments tend to be generic ("good introduction") or wrong (praising fluent but incorrect reasoning). This is closely tied to the [expertise reversal effect](../theories/expertise-reversal-effect.md) — the same knowledge gap that makes [worked examples](../theories/cognitive-load-theory.md) valuable for novices makes them unreliable evaluators of others' work. Under [cognitive load theory](../theories/cognitive-load-theory.md), evaluating a peer's work demands comparing it against internal standards for quality; without those schemas, novices default to surface features.
 

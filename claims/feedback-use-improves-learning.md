@@ -3,26 +3,40 @@ type: claim
 title: Feedback Use Improves Learning
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: feedback-use-improves-learning
 evidence_strength:
+sources:
+  - id: wisniewski-zierer-hattie-2020
+    resource: "https://doi.org/10.3389/fpsyg.2019.03087"
+    title: "Wisniewski, B., Zierer, K., & Hattie, J. (2020). The Power of Feedback Revisited: A Meta-Analysis of Educational Feedback Research. *Frontiers in Psychology, 10*, 3087. [doi:10.3389/fpsyg.2019.03087](https://doi.org/10.3389/fpsyg.2019.03087)"
+    author: "Wisniewski, B., Zierer, K., & Hattie, J."
+    q: 4
+    i: 2
+    n: "994 effect sizes, N>61,000"
 ---
 
 # Feedback Use Improves Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i2` medium · n=994 effect sizes, N>61,000
 
 Learners benefit when they receive feedback on their performance and actively use it to revise their understanding or work. The claim centers on feedback **use** — revision, re-attempt, strategy adjustment — not merely feedback delivery.
 
 ## Subclaims
 
-<!-- TODO -->
+`q4 i2` A meta-analysis of 435 studies (k=994 effect sizes, N>61,000) finds a medium overall effect of feedback on student learning (d=0.48), but the pooled effect masks large heterogeneity by feedback type and outcome domain — feedback is not a single consistent treatment. [→ Wisniewski Zierer Hattie 2020](#wisniewski-zierer-hattie-2020)
 
 ## Evidence
 
-<!-- TODO -->
+### Wisniewski Zierer Hattie 2020
+
+Wisniewski, B., Zierer, K., & Hattie, J. (2020). The Power of Feedback Revisited: A Meta-Analysis of Educational Feedback Research. *Frontiers in Psychology, 10*, 3087. [doi:10.3389/fpsyg.2019.03087](https://doi.org/10.3389/fpsyg.2019.03087)
+
+`q4 · meta-analysis (random-effects model, 435 primary studies)` · `i2 · medium effect, d=0.48` · `n=994 effect sizes, N>61,000`
+
+A random-effects meta-analysis synthesizing 435 studies and 994 effect sizes (over 61,000 participants) on feedback and student learning, conducted to replicate and expand Hattie's Visible Learning synthesis. The pooled effect was medium (d=0.48), but heterogeneity was significant, meaning feedback cannot be treated as one uniform intervention. Moderator analysis found the type and information content of the feedback drove the effect: praise, punishment, and reward carried low or low-to-medium effects, while corrective feedback aimed at new-skill acquisition was highly effective, and feedback had a larger impact on cognitive/motor outcomes than on motivational/behavioral ones. Video/audio and computer-assisted feedback channels showed medium-high to high effects, and specific written comments outperformed generic ones. Note: this study's unit of analysis is feedback *delivered*, not verified feedback *use* (revision/re-attempt) — the sharper claim this page centers on; a second candidate source for that distinction, Kluger & DeNisi (1996, doi:10.1037/0033-2909.119.2.254), could not be read (APA PsycNET paywalled it and no open-access copy was found), so it is not cited here.
 
 ## Discussion
 

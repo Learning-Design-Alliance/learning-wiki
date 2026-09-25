@@ -3,26 +3,40 @@ type: claim
 title: Interleaving Improves Learning
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: interleaving-improves-learning
 evidence_strength: moderate
+sources:
+  - id: brunmair-richter-2019
+    resource: "https://doi.org/10.1037/bul0000209"
+    title: "Brunmair, M., & Richter, T. (2019). Similarity matters: A meta-analysis of interleaved learning and its moderators. *Psychological Bulletin, 145*(11), 1029–1052. [doi:10.1037/bul0000209](https://doi.org/10.1037/bul0000209)"
+    author: "Brunmair, M., & Richter, T."
+    q: 4
+    i: 2
+    n: 59 studies (238 effect sizes, 158 samples)
 ---
 
 # Interleaving Improves Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i2` medium · n=59 studies (238 effect sizes, 158 samples)
 
 Mixing different problem types or categories within a study sequence (interleaving) produces better learning and transfer than studying each category in a blocked sequence [+S], largely by forcing learners to discriminate which strategy or concept applies.
 
 ## Subclaims
 
-<!-- TODO -->
+`q4 i2` A multilevel meta-analysis of 59 studies (238 effect sizes) finds a moderate overall benefit of interleaved over blocked inductive-learning presentation (Hedges' g = 0.42), but the effect is strongly moderated by material type — strongest for visual/perceptual category learning (paintings, photographs), smaller for mathematical tasks, and reversed (favoring blocking) for word-based category learning. [→ Brunmair & Richter 2019](#brunmair-richter-2019)
 
 ## Evidence
 
-<!-- TODO -->
+### Brunmair & Richter 2019
+
+Brunmair, M., & Richter, T. (2019). Similarity matters: A meta-analysis of interleaved learning and its moderators. *Psychological Bulletin, 145*(11), 1029–1052. [doi:10.1037/bul0000209](https://doi.org/10.1037/bul0000209)
+
+`q4 · multilevel meta-analysis` · `i2 · medium effect, Hedges' g=0.42, 95% CI [0.34, 0.50]` · `n=59 studies (238 effect sizes, 158 samples)`
+
+A multilevel meta-analysis of 59 studies comparing interleaved to blocked presentation of category exemplars (paintings, photographs, mathematical procedures, expository texts, words) on a subsequent classification/discrimination test. Interleaving produced a moderate overall benefit (g = 0.42), robust to a sensitivity analysis using only independent effects (g = 0.43). The benefit was not uniform: it was largest for paintings (g = 0.67) and naturalistic photographs (g = 0.35), smaller for mathematical tasks (g = 0.34), nonsignificant for expository texts, and *reversed* for word-based categories (g = −0.39, favoring blocking). A meta-regression found stronger interleaving effects when between-category similarity was higher and within-category similarity was lower — consistent with the attentional-bias/discriminative-contrast account that interleaving works by forcing discrimination between confusable categories.
 
 ## Discussion
 

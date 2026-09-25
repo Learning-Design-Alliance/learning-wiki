@@ -10,6 +10,14 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/peer-feedback-accuracy-depends-on-expertise](claims/peer-feedback-accuracy-depends-on-expertise.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/peer-assessment-benefits-assessor](claims/peer-assessment-benefits-assessor.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/morphological-instruction-improves-literacy](claims/morphological-instruction-improves-literacy.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/learning-styles-matching-does-not-improve-learning](claims/learning-styles-matching-does-not-improve-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/interleaving-improves-learning](claims/interleaving-improves-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/feedback-use-improves-learning](claims/feedback-use-improves-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/feedback-praise-reduces-learning](claims/feedback-praise-reduces-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/feedback-answers-three-questions-improves-learning](claims/feedback-answers-three-questions-improves-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/productive-failure-improves-learning](claims/productive-failure-improves-learning.md) — Evidence copied from the verified entry on its near-duplicate sibling page
 * **Ingest**: [claims/minimally-guided-instruction-less-effective-for-novices](claims/minimally-guided-instruction-less-effective-for-novices.md) — Evidence copied from the verified entry on its near-duplicate sibling page
 * **Ingest**: [claims/eliciting-self-explanations-improves-understanding](claims/eliciting-self-explanations-improves-understanding.md) — Evidence copied from the verified entry on its near-duplicate sibling page
