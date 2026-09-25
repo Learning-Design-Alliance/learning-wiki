@@ -10,6 +10,12 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/structured-discussion-approaches-improve-comprehension](claims/structured-discussion-approaches-improve-comprehension.md) — Evidence copied from the verified entry on its near-duplicate sibling page
+* **Ingest**: [claims/spacing-improves-long-term-retention](claims/spacing-improves-long-term-retention.md) — Evidence copied from the verified entry on its near-duplicate sibling page
+* **Ingest**: [claims/spaced-practice-improves-long-term-retention](claims/spaced-practice-improves-long-term-retention.md) — Evidence copied from the verified entry on its near-duplicate sibling page
+* **Ingest**: [claims/social-emotional-learning-improves-achievement](claims/social-emotional-learning-improves-achievement.md) — Evidence copied from the verified entry on its near-duplicate sibling page
+* **Ingest**: [claims/self-regulated-learning-strategy-instruction-improves-achievement](claims/self-regulated-learning-strategy-instruction-improves-achievement.md) — Evidence copied from the verified entry on its near-duplicate sibling page
+* **Ingest**: [claims/self-assessment-against-criteria-supports-self-regulated-learning](claims/self-assessment-against-criteria-supports-self-regulated-learning.md) — Evidence copied from the verified entry on its near-duplicate sibling page
 * **Ingest**: [claims/peer-feedback-accuracy-depends-on-expertise](claims/peer-feedback-accuracy-depends-on-expertise.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/peer-assessment-benefits-assessor](claims/peer-assessment-benefits-assessor.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/morphological-instruction-improves-literacy](claims/morphological-instruction-improves-literacy.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
