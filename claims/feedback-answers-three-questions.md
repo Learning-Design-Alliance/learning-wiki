@@ -3,26 +3,40 @@ type: claim
 title: Feedback Answers Three Questions
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: feedback-answers-three-questions
 evidence_strength:
+sources:
+  - id: hattie-timperley-2007
+    resource: "https://doi.org/10.3102/003465430298487"
+    title: "Hattie, J., & Timperley, H. (2007). The Power of Feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)"
+    author: "Hattie, J., & Timperley, H."
+    q: 2
+    i: "?"
+    n: N/A (a synthesis, not a study of individual participants)
 ---
 
 # Feedback Answers Three Questions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q2` quasi-experiment · n=N/A (a synthesis, not a study of individual participants)
 
 Effective feedback answers three questions for the learner: *Where am I going?* (the goal), *How am I going?* (current progress relative to that goal), and *Where to next?* (what actions will close the gap). Feedback that addresses only one of these — or that directs attention to the self rather than the task — is less likely to improve learning.
 
 ## Subclaims
 
-<!-- TODO -->
+`q2 i?` Feedback is most effective when it helps close the gap between current and desired performance, which is the conceptual basis for organizing feedback around a goal, a status-relative-to-goal judgment, and a next step, though no single effect size attaches to the three-question framing itself. [→ Hattie Timperley 2007](#hattie-timperley-2007)
 
 ## Evidence
 
-<!-- TODO -->
+### Hattie Timperley 2007
+
+Hattie, J., & Timperley, H. (2007). The Power of Feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
+
+`q2 · conceptual analysis and narrative review of the feedback literature (not a meta-analysis with a pooled effect size)` · `i? · no single effect size reported for the three-question framework itself` · `n=N/A (a synthesis, not a study of individual participants)`
+
+This is the paper's origin: Hattie and Timperley propose a model in which effective feedback answers three questions — "Where am I going?", "How am I doing?", and "Where to next?" — operating across four levels (task, process, self-regulation, self), and argue this reduces the discrepancy between current understanding and a learning goal. They synthesize prior empirical and theoretical work on feedback's effect on learning and achievement to build the model rather than reporting a new primary study or a pooled quantitative estimate specific to the three-question structure. I could not obtain the full text (publisher page, ResearchGate mirror, and the University of Auckland repository's PDF were all inaccessible from this environment — the repository lists only a restricted-access full-text bitstream); this entry is built from the Crossref-verified abstract and the matching repository citation record only, so no numeric effect size, sample size, or study count could be verified from the source text and none is asserted here.
 
 ## Discussion
 

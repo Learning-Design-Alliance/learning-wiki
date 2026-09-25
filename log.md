@@ -10,6 +10,25 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Content**: [claims/advance-organizers-improve-learning](claims/advance-organizers-improve-learning.md) — Discussion no longer says the evidence is missing
+* **Content**: [claims/dialogic-reading-improves-expressive-language](claims/dialogic-reading-improves-expressive-language.md) — Discussion no longer says the evidence is missing
+* **Ingest**: [claims/testing-improves-retention](claims/testing-improves-retention.md) — Evidence copied from a verified near-duplicate (gap-fill)
+* **Ingest**: [claims/testing-effect-retrieval-practice-improves-retention](claims/testing-effect-retrieval-practice-improves-retention.md) — Evidence copied from a verified near-duplicate (gap-fill)
+* **Ingest**: [claims/interleaving-improves-inductive-learning](claims/interleaving-improves-inductive-learning.md) — Evidence copied from a verified near-duplicate (gap-fill)
+* **Ingest**: [claims/generative-learning-improves-retention](claims/generative-learning-improves-retention.md) — Evidence copied from a verified near-duplicate (gap-fill)
+* **Ingest**: [claims/advance-organizers-improves-learning](claims/advance-organizers-improves-learning.md) — Evidence copied from a verified near-duplicate (gap-fill)
+* **Ingest**: [claims/dialogic-reading-improves-language-outcomes](claims/dialogic-reading-improves-language-outcomes.md) — Evidence copied from a verified near-duplicate (gap-fill)
+* **Ingest**: [claims/unguided-discovery-less-effective-than-guided-instruction](claims/unguided-discovery-less-effective-than-guided-instruction.md) — Evidence copied from a verified near-duplicate (gap-fill)
+* **Ingest**: [claims/guided-inquiry-outperforms-pure-discovery](claims/guided-inquiry-outperforms-pure-discovery.md) — Evidence copied from a verified near-duplicate (gap-fill)
+* **Ingest**: [claims/guided-discovery-outperforms-pure-discovery](claims/guided-discovery-outperforms-pure-discovery.md) — Evidence copied from a verified near-duplicate (gap-fill)
+* **Ingest**: [claims/illusion-of-knowing](claims/illusion-of-knowing.md) — Evidence copied from a verified near-duplicate (gap-fill)
+* **Ingest**: [claims/fluency-poor-cue-learning](claims/fluency-poor-cue-learning.md) — Evidence copied from a verified near-duplicate (gap-fill)
+* **Ingest**: [claims/feedback-improves-learning-when-it-addresses-task-goals](claims/feedback-improves-learning-when-it-addresses-task-goals.md) — Evidence copied from a verified near-duplicate (gap-fill)
+* **Ingest**: [claims/feedback-addressing-task-improves-learning](claims/feedback-addressing-task-improves-learning.md) — Evidence copied from a verified near-duplicate (gap-fill)
+* **Ingest**: [claims/feedback-answers-three-questions](claims/feedback-answers-three-questions.md) — Evidence copied from a verified near-duplicate (gap-fill)
+* **Ingest**: [claims/cooperative-learning-outperforms-competitive-individualistic](claims/cooperative-learning-outperforms-competitive-individualistic.md) — Evidence copied from a verified near-duplicate (gap-fill)
+* **Ingest**: [claims/contiguity-principle-improves-learning](claims/contiguity-principle-improves-learning.md) — Evidence copied from a verified near-duplicate (gap-fill)
+* **Ingest**: [claims/spatial-contiguity-improves-learning](claims/spatial-contiguity-improves-learning.md) — Evidence copied from a verified near-duplicate (gap-fill)
 * **Ingest**: [claims/structured-peer-tutoring-outperforms-unstructured](claims/structured-peer-tutoring-outperforms-unstructured.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/redundancy-principle-on-screen-text-hurts-learning](claims/redundancy-principle-on-screen-text-hurts-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/redundancy-principle-hurts-learning](claims/redundancy-principle-hurts-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)

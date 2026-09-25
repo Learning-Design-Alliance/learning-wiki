@@ -3,28 +3,44 @@ type: claim
 title: Contiguity Principle Improves Learning
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: contiguity-principle-improves-learning
 evidence_strength: moderate
+sources:
+  - id: schroeder-cenkci-2018
+    resource: "https://doi.org/10.1007/s10648-018-9435-9"
+    title: "Schroeder, N. L., & Cenkci, A. T. (2018). Spatial contiguity and spatial split-attention effects in multimedia learning environments: A meta-analysis. *Educational Psychology Review, 30*(3), 679–701. [doi:10.1007/s10648-018-9435-9](https://doi.org/10.1007/s10648-018-9435-9)"
+    author: "Schroeder, N. L., & Cenkci, A. T."
+    q: 4
+    i: 2
+    n: 2426 (58 independent comparisons)
 ---
 
 # Contiguity Principle Improves Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i2` medium · n=2426 (58 independent comparisons)
 
 Presenting corresponding words and pictures near each other in space (spatial contiguity) and in time (temporal contiguity) improves learning compared with separated presentation.
 
 ## Subclaims
 
-<!-- TODO -->
+`q4 i2` A meta-analysis of 58 independent comparisons (n=2426) found that spatially integrating mutually referring text and diagrams produced a medium-to-large learning benefit over spatially separated presentation, g=0.63. [→ Schroeder Cenkci 2018](#schroeder-cenkci-2018)
 
 ## Evidence
 
-<!-- TODO -->
+### Schroeder Cenkci 2018
+
+Schroeder, N. L., & Cenkci, A. T. (2018). Spatial contiguity and spatial split-attention effects in multimedia learning environments: A meta-analysis. *Educational Psychology Review, 30*(3), 679–701. [doi:10.1007/s10648-018-9435-9](https://doi.org/10.1007/s10648-018-9435-9)
+
+`q4 · random-effects meta-analysis` · `i2 · medium-to-large effect, g=0.63` · `n=2426 (58 independent comparisons)`
+
+A random-effects meta-analysis pooled 58 independent comparisons (total n=2426) drawn from the multimedia-learning literature contrasting spatially integrated designs (text and diagrams placed together) against spatially separated designs requiring learners to search back and forth between sources. Integrated designs produced an overall effect size of g=0.63 (p<0.001), a medium-to-large advantage consistent with the split-attention/spatial-contiguity account: physically co-locating mutually referring information removes the search-and-match burden that separated presentation imposes on working memory. The authors also examined numerous intervention- and context-related moderators and found the benefit held broadly across them, though (per the abstract) more remained to be understood about exactly which conditions maximize the effect.
 
 ## Discussion
+
+**What the recorded evidence covers.** The meta-analysis above tests spatial contiguity only (integrated against separated text and graphics). Temporal contiguity, narration presented at the same time as the animation it describes, is not tested by anything recorded here.
 
 The contiguity principle is one of the core principles of [Cognitive Load Theory](../theories/cognitive-load-theory.md) and Mayer's multimedia learning research. The proposed mechanism is that when corresponding words and images are separated — a caption on a different page from its diagram, or narration delivered long before or after the animation it describes — learners must hold one representation in working memory while searching for its partner, imposing extraneous load that displaces [schema construction](../principles/cognitive-load-management.md). Integrating them reduces that load, consistent with the broader claim that [cognitive load reduction improves learning](../claims/cognitive-load-reduction-improves-learning.md) [+S].
 

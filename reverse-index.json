@@ -1,7 +1,7 @@
 {
  "coverage": {
   "claims->claims": 455,
-  "claims->elements": 136,
+  "claims->elements": 137,
   "claims->learner-variables": 1,
   "claims->methods": 3,
   "claims->patterns": 103,
@@ -69285,6 +69285,9 @@
       "slug": "tutoring-effectiveness-comes-from-scaffolding-and-feedback"
      },
      {
+      "slug": "unguided-discovery-less-effective-than-guided-instruction"
+     },
+     {
       "slug": "worked-example-problem-sequences"
      },
      {
@@ -71699,6 +71702,12 @@
       "slug": "feedback-enhances-retrieval-practice"
      },
      {
+      "slug": "guided-discovery-outperforms-pure-discovery"
+     },
+     {
+      "slug": "guided-inquiry-outperforms-pure-discovery"
+     },
+     {
       "slug": "minimal-guidance-less-effective-for-novices"
      },
      {
@@ -71718,6 +71727,15 @@
      },
      {
       "slug": "testing-effect-improves-retention"
+     },
+     {
+      "slug": "testing-effect-retrieval-practice-improves-retention"
+     },
+     {
+      "slug": "testing-improves-retention"
+     },
+     {
+      "slug": "unguided-discovery-less-effective-than-guided-instruction"
      }
     ],
     "elements": [
@@ -88271,6 +88289,9 @@
      },
      {
       "slug": "guided-discovery-outperforms-pure-discovery"
+     },
+     {
+      "slug": "guided-inquiry-outperforms-pure-discovery"
      },
      {
       "slug": "guided-play-improves-academic-outcomes"
