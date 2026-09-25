@@ -3,26 +3,57 @@ type: claim
 title: Phonics Instruction Improves Word Reading
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: phonics-instruction-improves-word-reading
 evidence_strength:
+sources:
+  - id: ehri-et-al-2001
+    resource: "https://doi.org/10.3102/00346543071003393"
+    title: "Ehri, L. C., Nunes, S. R., Stahl, S. A., & Willows, D. M. (2001). Systematic Phonics Instruction Helps Students Learn to Read: Evidence from the National Reading Panel's Meta-Analysis. *Review of Educational Research, 71*(3), 393–447. [doi:10.3102/00346543071003393](https://doi.org/10.3102/00346543071003393)"
+    author: "Ehri, L. C., Nunes, S. R., Stahl, S. A., & Willows, D. M."
+    q: 4
+    i: 2
+    n: 38 studies (66 treatment-control comparisons)
+  - id: bowers-2020
+    resource: "https://doi.org/10.1007/s10648-019-09515-y"
+    title: "Bowers, J. S. (2020). Reconsidering the evidence that systematic phonics is more effective than alternative methods of reading instruction. *Educational Psychology Review, 32*(3), 681–705. [doi:10.1007/s10648-019-09515-y](https://doi.org/10.1007/s10648-019-09515-y)"
+    author: Bowers, J. S.
+    q: 3
+    i: 1
+    n: 12 meta-analyses
 ---
 
 # Phonics Instruction Improves Word Reading
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 2 studies · `q3`–`q4` · `i1`–`i2`
 
 Teaching learners to decode words by mapping letters and letter combinations to sounds produces stronger word-reading outcomes than instruction that omits or de-emphasizes these grapheme–phoneme relationships.
 
 ## Subclaims
 
-<!-- TODO -->
+`q4 i2` A meta-analysis of 38 experiments (66 treatment-control comparisons) found that systematic phonics instruction produced a moderate advantage over unsystematic/no-phonics instruction on reading and spelling outcomes, with the largest effects on decoding regularly spelled words and pseudowords. [→ Ehri et al. 2001](#ehri-et-al-2001)
+
+`q3 i1` A systematic review of 12 meta-analyses argues the evidence does not show systematic phonics outperforming whole language: the relevant NRP subanalysis rested on 12 non-randomised studies with a smaller effect (d = 0.31), largest for decoding (d = 0.55). [→ Bowers 2020](#bowers-2020)
 
 ## Evidence
 
-<!-- TODO -->
+### Ehri et al. 2001
+
+Ehri, L. C., Nunes, S. R., Stahl, S. A., & Willows, D. M. (2001). Systematic Phonics Instruction Helps Students Learn to Read: Evidence from the National Reading Panel's Meta-Analysis. *Review of Educational Research, 71*(3), 393–447. [doi:10.3102/00346543071003393](https://doi.org/10.3102/00346543071003393)
+
+`q4 · meta-analysis (part of the National Reading Panel review)` · `i2 · moderate effect, d=0.41` · `n=38 studies (66 treatment-control comparisons)`
+
+This National Reading Panel meta-analysis pooled 38 experimental/quasi-experimental studies (66 treatment-control comparisons) comparing systematic phonics instruction against unsystematic or no-phonics control instruction, from kindergarten through 6th grade. The overall weighted mean effect size across six outcome measures (decoding regular words, decoding pseudowords, reading irregular/miscellaneous words, text comprehension, oral reading, and spelling) was d = +0.41, a moderate effect favoring systematic phonics, and effects held whether measured at the end of instruction or the end of the first year. Effects were largest on measures of decoding regularly spelled words and pseudowords, and were stronger for younger and at-risk readers (kindergarten d = +0.46, 1st grade d = +0.54, 2nd grade d = +0.43) than for older readers with reading difficulties, among whom decoding effects remained but reading-comprehension and spelling effects were not reliably greater than zero. (Read as a companion ERIC paper by the meta-analysis's lead author reporting the same study; the peer-reviewed journal version's identical d = 0.41 headline figure is corroborated by its Crossref-listed abstract.)
+
+### Bowers 2020
+
+Bowers, J. S. (2020). Reconsidering the evidence that systematic phonics is more effective than alternative methods of reading instruction. *Educational Psychology Review, 32*(3), 681–705. [doi:10.1007/s10648-019-09515-y](https://doi.org/10.1007/s10648-019-09515-y)
+
+`q3 · systematic review of meta-analyses` · `i1 · small effect, d=0.31 (NRP phonics vs whole-language subanalysis)` · `n=12 meta-analyses`
+
+This systematic review re-examines 12 meta-analyses of systematic phonics and the results of England's national phonics mandate. It notes that the NRP's direct comparison of systematic phonics with whole language used 12 rather than 38 studies, none of them randomised controlled trials. That comparison gave d = 0.31, largest for decoding (d = 0.55) and smallest for comprehension (d = 0.19). Bowers also argues that several meta-analyses compared phonics with no extra training, or treated whole-word and whole-language controls as the same thing. He concludes there is little or no evidence that systematic phonics beats common alternatives, while stressing that this is not an argument for whole language. This review contradicts the claim more than it supports it.
 
 ## Discussion
 

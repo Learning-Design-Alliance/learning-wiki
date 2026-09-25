@@ -10,6 +10,11 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/self-regulation-strategy-instruction-improves-achievement](claims/self-regulation-strategy-instruction-improves-achievement.md) — Evidence copied from a verified near-duplicate (gap-fill)
+* **Ingest**: [claims/self-regulation-strategy-instruction-improves-academic-performance](claims/self-regulation-strategy-instruction-improves-academic-performance.md) — Evidence copied from a verified near-duplicate (gap-fill)
+* **Ingest**: [claims/self-regulated-learning-improves-academic-outcomes](claims/self-regulated-learning-improves-academic-outcomes.md) — Evidence copied from a verified near-duplicate (gap-fill)
+* **Ingest**: [claims/self-regulated-learning-improves-outcomes](claims/self-regulated-learning-improves-outcomes.md) — Evidence copied from a verified near-duplicate (gap-fill)
+* **Ingest**: [claims/phonics-instruction-improves-word-reading](claims/phonics-instruction-improves-word-reading.md) — Evidence copied from a verified near-duplicate (gap-fill)
 * **Ingest**: [claims/multimedia-principle-improves-learning](claims/multimedia-principle-improves-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/learning-strategy-instruction-contextualized-more-effective](claims/learning-strategy-instruction-contextualized-more-effective.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/laptop-notes-verbatim-shallower](claims/laptop-notes-verbatim-shallower.md) — Evidence filled from Crossref-verified sources (gap-fill)
