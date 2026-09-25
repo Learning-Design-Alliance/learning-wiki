@@ -10,6 +10,14 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/self-assessment-improves-self-regulated-learning](claims/self-assessment-improves-self-regulated-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/self-assessment-accuracy-is-low-without-training](claims/self-assessment-accuracy-is-low-without-training.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/sel-benefits-persist-follow-up](claims/sel-benefits-persist-follow-up.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/prior-knowledge-needed-for-accurate-self-assessment](claims/prior-knowledge-needed-for-accurate-self-assessment.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/prior-knowledge-determines-new-learning](claims/prior-knowledge-determines-new-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/mismatched-graphic-organizers-increase-extraneous-load](claims/mismatched-graphic-organizers-increase-extraneous-load.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/metacognitive-prompts-improve-learning](claims/metacognitive-prompts-improve-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/learning-space-redesign-alone-insufficient](claims/learning-space-redesign-alone-insufficient.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/sel-programs-improve-academic-achievement](claims/sel-programs-improve-academic-achievement.md) — Evidence copied from the verified entry on its near-duplicate sibling page
 * **Ingest**: [claims/spacing-improves-retention](claims/spacing-improves-retention.md) — Evidence copied from the verified entry on its near-duplicate sibling page
 * **Ingest**: [claims/retrieval-practice-improves-learning](claims/retrieval-practice-improves-learning.md) — Evidence copied from the verified entry on its near-duplicate sibling page

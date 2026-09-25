@@ -3,26 +3,40 @@ type: claim
 title: Mismatched Graphic Organizers Increase Extraneous Load
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: mismatched-graphic-organizers-increase-extraneous-load
 evidence_strength: low
+sources:
+  - id: schnotz-baadte-2015
+    resource: "https://doi.org/10.3758/s13421-014-0490-2"
+    title: "Schnotz, W., & Baadte, C. (2015). Surface and deep structures in graphics comprehension. *Memory & Cognition, 43*(4), 605–618. [doi:10.3758/s13421-014-0490-2](https://doi.org/10.3758/s13421-014-0490-2)"
+    author: "Schnotz, W., & Baadte, C."
+    q: 3
+    i: 2
+    n: 157 (Experiment 1) and n≈134 (Experiment 2), German university students
 ---
 
 # Mismatched Graphic Organizers Increase Extraneous Load
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium · n=157 (Experiment 1) and n≈134 (Experiment 2), German university students
 
 A graphic organizer helps learning only when its structure matches the structure of the content and the task; a mismatched organizer forces learners to reconcile two incompatible representations, consuming working-memory resources that do not contribute to schema construction.
 
 ## Subclaims
 
-<!-- TODO -->
+`q3 i2` When the surface structure of a graphic (its visual format) mismatches the structure a task or later recall demands, comprehension/recall accuracy drops relative to a matched format — but this mismatch penalty is modest and can be outweighed by which content is thematically central to the material. [→ Schnotz & Baadte 2015](#schnotz-baadte-2015)
 
 ## Evidence
 
-<!-- TODO -->
+### Schnotz & Baadte 2015
+
+Schnotz, W., & Baadte, C. (2015). Surface and deep structures in graphics comprehension. *Memory & Cognition, 43*(4), 605–618. [doi:10.3758/s13421-014-0490-2](https://doi.org/10.3758/s13421-014-0490-2)
+
+`q3 · peer-reviewed lab experiments (two studies)` · `i2 · medium effect on schema-interference contrasts, d=0.51–0.54; smaller format-match interaction, η²=.03–.04` · `n=157 (Experiment 1) and n≈134 (Experiment 2), German university students`
+
+Two between-subjects experiments had students study bar graphs of (fictional-data) US election results presented in one of two informationally-equivalent visual formats ("party" graphs vs. "religion" graphs), then recall the content by filling in blank graphs of either the studied or a differently-formatted item. In both experiments a significant graph-format × recall-item-format interaction showed recall was more accurate when the recall format matched the studied format (F(1,151)=6.52, p=.006, η²=.04 in Exp. 1; F(1,128)=4.22, p=.021, η²=.03 in Exp. 2), and cueing an unfamiliar, incongruent processing perspective by instruction significantly *degraded* recall of the previously-studied content (t(151)=2.03, p=.022, d=0.54, and t(151)=1.99, p=.025, d=0.52) — consistent with the authors' framing that an incongruent schema "impose[s] a higher cognitive load on working memory," producing interference. The important qualifier: participants also recalled content more accurately from whichever perspective was *thematically* dominant in the material regardless of which graphic format they had studied — in Experiment 2 they recalled the non-studied format's items *better* than the studied one (t(66)=3.83, p<.001, d=0.51). So format (surface-structure) mismatch imposes a real but modest processing cost, which the content's underlying task-relevance can override.
 
 ## Discussion
 
