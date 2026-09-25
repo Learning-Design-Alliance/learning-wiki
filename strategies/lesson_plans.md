@@ -69,7 +69,7 @@ Well-structured lessons support learning because they manage the learner's cogni
 - **Gagné's Nine Events** — a classic lesson-plan template: gain attention, inform objectives, stimulate recall, present content, provide guidance, elicit practice, provide feedback, assess, enhance transfer [Gagné's 9 Events of Instruction](../patterns/gagnes-9-events-of-instruction.md)
 
 ## Key Sources
-- Rosenshine, B. (2012). Principles of instruction: Research-based strategies that all teachers should know. *Educational Psychology Review, 24*(3), 365–384. [doi:10.1007/s10648-011-9171-0](https://doi.org/10.1007/s10648-011-9171-0)
+- Rosenshine, B. (2012). Principles of instruction: Research-based strategies that all teachers should know. *Educational Psychology Review, 24*(3), 365–384.
 - Tyler, R. W. (1949). *Basic principles of curriculum and instruction*. University of Chicago Press.
 - Wiggins, G., & McTighe, J. (2005). *Understanding by design* (2nd ed.). ASCD.
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)

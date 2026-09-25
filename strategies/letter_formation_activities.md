@@ -65,7 +65,7 @@ Handwriting is a complex perceptual-motor skill; explicit modeling plus distribu
 - **Letter-formation apps with stroke-order feedback** (e.g., LetterSchool) — provide immediate feedback on sequence and directionality, functioning as automated practice with fading guides
 
 ## Key Sources
-- James, K. H., & Engelhardt, L. (2012). The effects of handwriting experience on literacy learning. *Psychological Science, 23*(10), 1153–1156. [doi:10.1177/0956797612454538](https://doi.org/10.1177/0956797612454538)
+- James, K. H., & Engelhardt, L. (2012). The effects of handwriting experience on literacy learning. *Psychological Science, 23*(10), 1153–1156.
 - Berninger, V. W., Vaughan, K. B., Abbott, R. D., Begay, K., Coleman, K. B., Curtin, G., Hawkins, J. M., & Graham, S. (2002). Teaching spelling and composition alone and together: Implications for the simple view of writing. *Journal of Educational Psychology, 94*(2), 291–304. [doi:10.1037/0022-0663.94.2.291](https://doi.org/10.1037/0022-0663.94.2.291)
 - Graham, S., Harris, K. R., & Fink, B. (2000). Is handwriting causally related to learning to write? Treatment of handwriting problems in beginning writers. *Journal of Educational Psychology, 92*(4), 620–633. [doi:10.1037/0022-0663.92.4.620](https://doi.org/10.1037/0022-0663.92.4.620)
 - Longcamp, M., Zerbato-Poudou, M.-T., & Velay, J.-L. (2005). The influence of writing practice on letter recognition in preschool children: A comparison between learning handwriting and learning keyboard skills. *Acta Psychologica, 119*(1), 67–79. [doi:10.1016/j.actpsy.2004.10.019](https://doi.org/10.1016/j.actpsy.2004.10.019)

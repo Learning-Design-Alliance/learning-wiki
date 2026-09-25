@@ -67,7 +67,7 @@ Decodable texts operationalize the principle that reading practice should be don
 
 ## Key Sources
 - Ehri, L. C., Nunes, S. R., Stahl, S. A., & Willows, D. M. (2001). Systematic phonics instruction helps students learn to read: Evidence from the National Reading Panel's meta-analysis. *Review of Educational Research, 71*(3), 393–447. [doi:10.3102/00346543071003393](https://doi.org/10.3102/00346543071003393)
-- Cheatham, J. P., & Allor, J. H. (2012). The influence of decodability in early reading text on reading acquisition: A design-based argument against decodable texts. *Reading and Writing, 25*(8), 1935–1955. [doi:10.1007/s11145-011-9342-0](https://doi.org/10.1007/s11145-011-9342-0)
+- Cheatham, J. P., & Allor, J. H. (2012). The influence of decodability in early reading text on reading acquisition: A design-based argument against decodable texts. *Reading and Writing, 25*(8), 1935–1955.
 - Adams, M. J. (1990). *Beginning to read: Thinking and learning about print.* MIT Press.
 - National Institute of Child Health and Human Development. (2000). *Report of the National Reading Panel: Teaching children to read.* NICHD.
 - Ehri, L. C. (2005). Learning to read words: Theory, findings, and issues. *Scientific Studies of Reading, 9*(2), 167–188. [doi:10.1207/s1532799xssr0902_4](https://doi.org/10.1207/s1532799xssr0902_4)

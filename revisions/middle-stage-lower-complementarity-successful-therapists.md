@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/middle-stage-lower-complementarity-successful-therapists.md
+---
+
+# Revision history: [claims/middle-stage-lower-complementarity-successful-therapists](../claims/middle-stage-lower-complementarity-successful-therapists.md)
+
+### 2026-09-25 · ingest · process:wiki-ingest
+Ingested from eric-ed091646 (Client-Therapist Complementarity and Therapeutic Outcome.) via eval_harness.py + ingest_extractions.py

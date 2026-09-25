@@ -75,6 +75,6 @@ Reading aloud converts reading from a purely visual task into a multimodal one; 
 
 ## Key Sources
 - MacLeod, C. M., Gopie, N., Hourihan, K. L., Neary, K. R., & Ozubko, J. D. (2010). The production effect: Delineation of a phenomenon. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 36*(3), 671–685. [doi:10.1037/a0018785](https://doi.org/10.1037/a0018785)
-- Forrin, N. D., & MacLeod, C. M. (2018). Reading aloud improves memory: A literature review. *Memory, 26*(6), 769–782. [doi:10.1080/09658211.2017.1390440](https://doi.org/10.1080/09658211.2017.1390440)
+- Forrin, N. D., & MacLeod, C. M. (2018). Reading aloud improves memory: A literature review. *Memory, 26*(6), 769–782.
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
 - LaBerge, D., & Samuels, S. J. (1974). Toward a theory of automatic information processing in reading. *Cognitive Psychology, 6*(2), 293–323. [doi:10.1016/0010-0285(74)90015-2](https://doi.org/10.1016/0010-0285(74)90015-2)

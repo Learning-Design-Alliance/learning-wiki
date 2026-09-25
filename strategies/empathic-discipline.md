@@ -67,6 +67,6 @@ The intervention targets teachers' implicit theories of misbehavior: when teache
 
 ## Key Sources
 - Okonofua, J. A., Paunesku, D., & Walton, G. M. (2016). Brief intervention to encourage empathic discipline cuts suspension rates in half among adolescents. *Proceedings of the National Academy of Sciences, 113*(19), 5221–5226. [doi:10.1073/pnas.1523698113](https://doi.org/10.1073/pnas.1523698113)
-- Okonofua, J. A., Walton, G. M., & Eberhardt, J. L. (2016). A vicious cycle: A social–psychological account of extreme racial disparities in school discipline. *Perspectives on Psychological Science, 11*(3), 381–398. [doi:10.1177/1745691615627467](https://doi.org/10.1177/1745691615627467)
+- Okonofua, J. A., Walton, G. M., & Eberhardt, J. L. (2016). A vicious cycle: A social–psychological account of extreme racial disparities in school discipline. *Perspectives on Psychological Science, 11*(3), 381–398.
 - Okonofua, J. A., Harris, L. T., & Walton, G. M. (2022). Sustaining teachers' efforts to improve relations with students through a brief intervention on empathic discipline. *Social Psychological and Personality Science, 13*(2), 421–431. [doi:10.1177/19485506211035960](https://doi.org/10.1177/19485506211035960)
 - Yeager, D. S., & Dweck, C. S. (2012). Mindsets that promote resilience: When students believe that personal characteristics can be developed. *Educational Psychologist, 47*(4), 302–314. [doi:10.1080/00461520.2012.722805](https://doi.org/10.1080/00461520.2012.722805)

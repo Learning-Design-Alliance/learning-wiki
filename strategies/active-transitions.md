@@ -66,6 +66,6 @@ Transitions are a recurring source of lost instructional time and off-task behav
 
 ## Key Sources
 - Mahar, M. T., Murphy, S. K., Rowe, D. A., Golden, J., Shields, A. T., & Raedeke, T. D. (2006). Effects of a classroom-based program on physical activity and on-task behavior. *Medicine & Science in Sports & Exercise, 38*(12), 2086–2094. [doi:10.1249/tjx.0000000000000099](https://doi.org/10.1249/tjx.0000000000000099)
-- Rosenshine, B. (2012). Principles of instruction: Research-based strategies that all teachers should know. *The Clearing House, 85*(6), 225–233. [doi:10.1080/00098655.2012.663548](https://doi.org/10.1080/00098655.2012.663548)
+- Rosenshine, B. (2012). Principles of instruction: Research-based strategies that all teachers should know. *The Clearing House, 85*(6), 225–233.
 - Donnelly, J. E., Hillman, C. H., Castelli, D., Etnier, J. L., Lee, S., Tomporowski, P., Lambourne, K., & Szabo-Reed, A. N. (2016). Physical activity, fitness, cognitive function, and academic achievement in children: A systematic review. *Medicine & Science in Sports & Exercise, 48*(6), 1197–1222. [doi:10.1249/MSS.0000000000000901](https://doi.org/10.1249/MSS.0000000000000901)
 - Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)

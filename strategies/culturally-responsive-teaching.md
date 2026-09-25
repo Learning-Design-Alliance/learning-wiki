@@ -74,4 +74,4 @@ CRT treats students' cultural knowledge as an instructional asset rather than a 
 - Hammond, Z. (2015). *Culturally Responsive Teaching and the Brain*. Corwin.
 - Moll, L. C., Amanti, C., Neff, D., & Gonzalez, N. (1992). Funds of knowledge for teaching: Using a qualitative approach to connect homes and classrooms. *Theory Into Practice, 31*(2), 132–141. [doi:10.1080/00405849209543534](https://doi.org/10.1080/00405849209543534)
 - Ladson-Billings, G. (1995). Toward a theory of culturally relevant pedagogy. *American Educational Research Journal, 32*(3), 465–491. [doi:10.3102/00028312032003465](https://doi.org/10.3102/00028312032003465)
-- Okonofua, J. A., Walton, G. M., & Eberhardt, J. L. (2016). A vicious cycle: A social–psychological account of extreme racial disparities in school discipline. *Perspectives on Psychological Science, 11*(3), 381–398. [doi:10.1177/1745691615621640](https://doi.org/10.1177/1745691615621640)
+- Okonofua, J. A., Walton, G. M., & Eberhardt, J. L. (2016). A vicious cycle: A social–psychological account of extreme racial disparities in school discipline. *Perspectives on Psychological Science, 11*(3), 381–398.

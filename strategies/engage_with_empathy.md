@@ -67,7 +67,7 @@ Empathic engagement builds the social presence that online discussion depends on
 - Instructors in online courses post weekly "presence" messages that acknowledge students' circumstances and model warm, specific responses to student posts.
 
 ## Key Sources
-- Gunawardena, C. N. (1995). Social presence theory and implications for interaction and collaborative learning in computer conferences. *International Journal of Educational Telecommunications, 1*(2), 147–166. [doi:10.1111/j.1083-6101.1995.tb00068.x](https://doi.org/10.1111/j.1083-6101.1995.tb00068.x)
+- Gunawardena, C. N. (1995). Social presence theory and implications for interaction and collaborative learning in computer conferences. *International Journal of Educational Telecommunications, 1*(2), 147–166.
 - Okonofua, J. A., Paunesku, D., & Walton, G. M. (2016). Brief intervention to encourage empathic discipline cuts suspension rates in half among adolescents. *Proceedings of the National Academy of Sciences, 113*(19), 5221–5226. [doi:10.1073/pnas.1523698113](https://doi.org/10.1073/pnas.1523698113)
 - Davis, M. H. (1983). Measuring individual differences in empathy: Evidence for a multidimensional approach. *Journal of Personality and Social Psychology, 44*(1), 113–126. [doi:10.1037/0022-3514.44.1.113](https://doi.org/10.1037/0022-3514.44.1.113)
 - Garrison, D. R., Anderson, T., & Archer, W. (2000). Critical inquiry in a text-based environment: Computer conferencing in higher education. *The Internet and Higher Education, 2*(2–3), 87–105. [doi:10.1016/S1096-7516(00)00016-6](https://doi.org/10.1016/S1096-7516(00)00016-6)
