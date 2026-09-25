@@ -3,26 +3,40 @@ type: claim
 title: Generative processing improves learning
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: generative-processing-improves-learning
 evidence_strength:
+sources:
+  - id: bisra-et-al-2018
+    resource: "https://doi.org/10.1007/s10648-018-9434-x"
+    title: "Bisra, K., Liu, Q., Nesbit, J. C., Salimi, F., & Winne, P. H. (2018). Inducing Self-Explanation: a Meta-Analysis. *Educational Psychology Review, 30*(3), 703–725. [doi:10.1007/s10648-018-9434-x](https://doi.org/10.1007/s10648-018-9434-x)"
+    author: "Bisra, K., Liu, Q., Nesbit, J. C., Salimi, F., & Winne, P. H."
+    q: 4
+    i: 2
+    n: 69 effect sizes (64 research reports)
 ---
 
 # Generative processing improves learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i2` medium · n=69 effect sizes (64 research reports)
 
 Learners who actively construct connections between new material and their prior knowledge — by summarizing, self-explaining, mapping, or generating answers — learn more than learners who passively receive the same material. The claim concerns the *act of generation itself*; comparisons must control for study time, since generative activities typically take longer than passive study.
 
 ## Subclaims
 
-<!-- TODO -->
+`q4 i2` Prompting learners to self-explain — a canonical generative strategy that forces selecting, organizing, and integrating information — produces a moderate learning benefit over passive study or problem-solving without such prompts, across a wide range of instructional conditions. [→ Bisra et al. 2018](#bisra-et-al-2018)
 
 ## Evidence
 
-<!-- TODO -->
+### Bisra et al. 2018
+
+Bisra, K., Liu, Q., Nesbit, J. C., Salimi, F., & Winne, P. H. (2018). Inducing Self-Explanation: a Meta-Analysis. *Educational Psychology Review, 30*(3), 703–725. [doi:10.1007/s10648-018-9434-x](https://doi.org/10.1007/s10648-018-9434-x)
+
+`q4 · meta-analysis (random-effects model)` · `i2 · medium effect, g=0.55` · `n=69 effect sizes (64 research reports)`
+
+A meta-analysis of studies that induced self-explanation — a generative strategy in which learners produce inferences about causal connections or conceptual relationships in to-be-learned material — while studying text, worked examples, or solving problems, compared with matched conditions without self-explanation prompts. Pooling 69 effect sizes from 64 research reports with a random-effects model, the authors found an overall weighted mean effect of Hedges' *g* = 0.55 favoring self-explanation. The benefit held across 20 coded moderators (task type, subject area, level of education, type of inducement, treatment duration), leading the authors to describe self-explanation prompts as "a potentially powerful intervention across a range of instructional conditions."
 
 ## Discussion
 

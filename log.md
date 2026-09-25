@@ -10,6 +10,15 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/drawing-improves-learning](claims/drawing-improves-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/emotion-labeling-improves-regulation](claims/emotion-labeling-improves-regulation.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/growth-mindset-improves-achievement](claims/growth-mindset-improves-achievement.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/generative-processing-improves-learning](claims/generative-processing-improves-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/expertise-reversal-guidance-hurts-experts](claims/expertise-reversal-guidance-hurts-experts.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/growth-mindset-interventions-improve-achievement](claims/growth-mindset-interventions-improve-achievement.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/generative-learning-improves-comprehension](claims/generative-learning-improves-comprehension.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/elaborative-encoding-improves-retention](claims/elaborative-encoding-improves-retention.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/blended-learning-improves-outcomes](claims/blended-learning-improves-outcomes.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/cooperative-learning-free-rider-without-accountability](claims/cooperative-learning-free-rider-without-accountability.md) — Evidence copied from the verified entry on its near-duplicate sibling page
 * **Ingest**: [claims/fluency-judgments-mislead-learners](claims/fluency-judgments-mislead-learners.md) — Evidence copied from the verified entry on its near-duplicate sibling page
 * **Ingest**: [claims/feedback-improves-learning-outcomes](claims/feedback-improves-learning-outcomes.md) — Evidence copied from the verified entry on its near-duplicate sibling page
