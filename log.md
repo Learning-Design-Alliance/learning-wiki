@@ -10,6 +10,9 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/self-directed-iep-increases-student-participation](claims/self-directed-iep-increases-student-participation.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/project-based-learning-improves-achievement](claims/project-based-learning-improves-achievement.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/pretraining-improves-transfer](claims/pretraining-improves-transfer.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/pretesting-can-harm-motivation](claims/pretesting-can-harm-motivation.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/personalized-learning-effects-vary-with-fidelity](claims/personalized-learning-effects-vary-with-fidelity.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/peer-assessment-structured-criteria-improve-learning](claims/peer-assessment-structured-criteria-improve-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)

@@ -3,26 +3,57 @@ type: claim
 title: Self Directed IEP Increases Student Participation
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: self-directed-iep-increases-student-participation
 evidence_strength:
+sources:
+  - id: martin-et-al-2006
+    resource: "https://doi.org/10.1177/001440290607200303"
+    title: "Martin, J. E., Van Dycke, J. L., Christensen, W. R., Greene, B. A., Gardner, J. E., & Lovett, D. L. (2006). Increasing Student Participation in IEP Meetings: Establishing the Self-Directed IEP as an Evidenced-Based Practice. *Exceptional Children, 72*(3), 299–316. [doi:10.1177/001440290607200303](https://doi.org/10.1177/001440290607200303)"
+    author: "Martin, J. E., Van Dycke, J. L., Christensen, W. R., Greene, B. A., Gardner, J. E., & Lovett, D. L."
+    q: 3
+    i: "?"
+    n: 130 students (764 IEP team members, 130 meetings observed)
+  - id: allen-et-al-2001
+    resource: "https://doi.org/10.1177/088572880102400202"
+    title: "Allen, S. K., Smith, A. C., Test, D. W., Flowers, C., & Wood, W. M. (2001). The Effects of Self-Directed IEP on Student Participation in IEP Meetings. *Career Development for Exceptional Individuals, 24*(2), 107–120. [doi:10.1177/088572880102400202](https://doi.org/10.1177/088572880102400202)"
+    author: "Allen, S. K., Smith, A. C., Test, D. W., Flowers, C., & Wood, W. M."
+    q: 1
+    i: "?"
+    n: 4 students
 ---
 
 # Self Directed IEP Increases Student Participation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 2 studies · `q1`–`q3`
 
 When students with disabilities lead their own Individualized Education Program (IEP) meetings — preparing materials, setting goals, and presenting to the team — they participate more actively in special education planning than students whose IEPs are run entirely by adults.
 
 ## Subclaims
 
-<!-- TODO -->
+`q3 i?` Randomly assigning secondary students to the Self-Directed IEP curriculum versus a control condition produced a strong increase in the percentage of time students talked, started, and led their own IEP meetings, corroborated by post-meeting surveys. [→ Martin et al. 2006](#martin-et-al-2006)
+
+`q1 i?` A multiple-baseline single-case study teaching four high school students with moderate intellectual disability the Self-Directed IEP skills found a functional relationship between the instruction and increased student participation in their actual annual IEP meetings. [→ Allen et al. 2001](#allen-et-al-2001)
 
 ## Evidence
 
-<!-- TODO -->
+### Martin et al. 2006
+
+Martin, J. E., Van Dycke, J. L., Christensen, W. R., Greene, B. A., Gardner, J. E., & Lovett, D. L. (2006). Increasing Student Participation in IEP Meetings: Establishing the Self-Directed IEP as an Evidenced-Based Practice. *Exceptional Children, 72*(3), 299–316. [doi:10.1177/001440290607200303](https://doi.org/10.1177/001440290607200303)
+
+`q3 · peer-reviewed randomized experiment (not stated as pre-registered)` · `i? · no standardized effect size reported` · `n=130 students (764 IEP team members, 130 meetings observed)`
+
+One hundred and thirty secondary students were randomly assigned to a treatment group taught the Self-Directed IEP curriculum or to a control group. Observers used 10-second momentary time sampling across 130 IEP meetings (764 team members) to record the percentage of intervals each participant talked and the percentage of time spent discussing transition; teachers also completed a pre/post self-determination skill-and-opportunity assessment and participants completed post-meeting surveys. The curriculum "had a strong effect on increasing the percentage of time students talked, started, and led the meetings," a result the authors say was corroborated by the survey data — but the abstract available reports this as a qualitative strong effect rather than a numeric standardized statistic.
+
+### Allen et al. 2001
+
+Allen, S. K., Smith, A. C., Test, D. W., Flowers, C., & Wood, W. M. (2001). The Effects of Self-Directed IEP on Student Participation in IEP Meetings. *Career Development for Exceptional Individuals, 24*(2), 107–120. [doi:10.1177/088572880102400202](https://doi.org/10.1177/088572880102400202)
+
+`q1 · single-case multiple-baseline design` · `i? · no standardized effect size reported (functional relationship only)` · `n=4 students`
+
+Four high school students with moderate intellectual disability were taught a modified version of the multi-media Self-Directed IEP package across a multiple-baseline design. The study reports "a functional relationship between the information taught and an increase in student participation in their annual IEP meeting" — i.e., participation rose after instruction was introduced for each student in turn, the standard single-case evidentiary pattern, though no group-comparable effect size is given.
 
 ## Discussion
 
@@ -32,7 +63,7 @@ When students with disabilities lead their own Individualized Education Program 
 
 **Measurement caution.** "Participation" is operationalized differently across studies — counts of student utterances, ratings of leadership steps performed, or self-report self-advocacy scales — so effect sizes are not directly comparable across operationalizations. Studies using observer ratings of scripted leadership steps tend to show the clearest gains, but these may partly reflect rehearsal of the checklist rather than generalized self-advocacy.
 
-**Open questions.** Whether self-directed IEP participation produces durable post-school self-determination outcomes (employment, independent living) is a separate, longer-term question that the current evidence base does not settle. Studies still need to be added to this page before the claim can be rated.
+**Open questions.** Whether self-directed IEP participation produces durable post-school self-determination outcomes (employment, independent living) is a separate, longer-term question that the current evidence base does not settle. Both studies recorded above were read as abstracts and report no standardized effect size.
 
 ## Related Claims
 

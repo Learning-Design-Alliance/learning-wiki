@@ -3,32 +3,46 @@ type: claim
 title: Project-based learning improves achievement
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: project-based-learning-improves-achievement
 evidence_strength: undetermined
+sources:
+  - id: chen-yang-2019
+    resource: "https://doi.org/10.1016/j.edurev.2018.11.001"
+    title: "Chen, C.-H., & Yang, Y.-C. (2019). Revisiting the effects of project-based learning on students' academic achievement: A meta-analysis investigating moderators. *Educational Research Review, 26*, 71-81. [doi:10.1016/j.edurev.2018.11.001](https://doi.org/10.1016/j.edurev.2018.11.001)"
+    author: "Chen, C.-H., & Yang, Y.-C."
+    q: 4
+    i: 2
+    n: 12,585 students (189 schools, 9 countries; 46 effect sizes)
 ---
 
 # Project-based learning improves achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i2` medium · n=12,585 students (189 schools, 9 countries; 46 effect sizes)
 
 Scope: sustained, inquiry-driven work organized around a driving question or authentic problem, culminating in a product or performance — distinct from short end-of-unit activities labeled "projects." The claim concerns *measured achievement*, not engagement or motivation alone.
 
 ## Subclaims
 
-<!-- TODO -->
+`q4 i2` A meta-analysis of 30 journal articles (46 effect sizes, 12,585 students, 189 schools, nine countries) finds project-based learning produces a medium-to-large positive effect on academic achievement relative to traditional instruction, moderated by subject area, school location, instructional hours and IT support. [→ Chen Yang 2019](#chen-yang-2019)
 
 ## Evidence
 
-<!-- TODO -->
+### Chen Yang 2019
+
+Chen, C.-H., & Yang, Y.-C. (2019). Revisiting the effects of project-based learning on students' academic achievement: A meta-analysis investigating moderators. *Educational Research Review, 26*, 71-81. [doi:10.1016/j.edurev.2018.11.001](https://doi.org/10.1016/j.edurev.2018.11.001)
+
+`q4 · meta-analysis (30 eligible journal articles, 1998–2017)` · `i2 · medium effect, d+=0.71` · `n=12,585 students (189 schools, 9 countries; 46 effect sizes)`
+
+Meta-analysis comparing project-based learning against traditional, teacher-led instruction on measured academic achievement, synthesizing 46 effect-size comparisons drawn from 30 journal articles published 1998–2017. The overall weighted mean effect size was d+ = 0.71 favoring project-based learning. The effect was moderated by subject area, school location, hours of instruction, and information-technology support, but not by educational stage or small-group size.
 
 ## Discussion
 
-**No evidence entries yet.** This claim currently has no studies in its Evidence section, so its strength is undetermined. Well-known syntheses of project-based learning exist in the literature and should be added in a future enrichment pass before this page is treated as actionable.
+**What the recorded evidence shows.** The one meta-analysis above (30 studies, read as an abstract) finds a medium positive effect on achievement (d+ = 0.71), moderated by subject area, school location, instructional hours and IT support.
 
-**Likely moderators (to be verified against evidence once added).** General reasoning about scope suggests the effect probably depends on:
+**Likely moderators (not yet tested against the recorded evidence).** General reasoning about scope suggests the effect probably depends on:
 
 - **Scaffolding and structure.** Open-ended inquiry without guidance can overwhelm working memory, particularly for novices — the core concern of [Cognitive Load Theory](../theories/cognitive-load-theory.md). Unstructured discovery conditions are associated with [cognitive overload that degrades learning](../claims/cognitive-overload-degrades-learning.md), so well-designed projects likely need milestones, templates, and instructor checkpoints rather than full autonomy from the start.
 - **Expertise level.** As with other inquiry formats, the benefit may reverse for learners who lack domain knowledge — consistent with the [expertise reversal effect](../theories/expertise-reversal-effect.md). Novices may need more [direct instruction](../patterns/direct-instruction.md) embedded within projects; advanced learners may thrive with less structure.
