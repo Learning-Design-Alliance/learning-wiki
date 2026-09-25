@@ -10,6 +10,14 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/acute-exercise-timing-memory](claims/acute-exercise-timing-memory.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/fiction-reading-improves-empathy](claims/fiction-reading-improves-empathy.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/self-explanation-improves-learning](claims/self-explanation-improves-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/elaborative-interrogation-improves-learning](claims/elaborative-interrogation-improves-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/concept-mapping-improves-learning](claims/concept-mapping-improves-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/disciplinary-literacy-instruction-improves-comprehension](claims/disciplinary-literacy-instruction-improves-comprehension.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/learning-by-teaching-improves-tutor-learning](claims/learning-by-teaching-improves-tutor-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/cognitive-load-management](claims/cognitive-load-management.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/feedback-improves-learning](claims/feedback-improves-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/graphic-organizers-support-novice-comprehension](claims/graphic-organizers-support-novice-comprehension.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/clear-structure-improves-learning](claims/clear-structure-improves-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
