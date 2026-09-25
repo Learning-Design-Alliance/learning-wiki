@@ -10,6 +10,11 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/retrieval-practice-improves-transfer](claims/retrieval-practice-improves-transfer.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/mnemonic-instruction-improves-recall-for-students-with-disabilities](claims/mnemonic-instruction-improves-recall-for-students-with-disabilities.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/learner-centered-teacher-student-relationships-are-effective](claims/learner-centered-teacher-student-relationships-are-effective.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/fluent-illusions-mislead-self-assessment](claims/fluent-illusions-mislead-self-assessment.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/feedback-enhances-retrieval-practice](claims/feedback-enhances-retrieval-practice.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/self-regulated-learning-strategies-improve-achievement](claims/self-regulated-learning-strategies-improve-achievement.md) — Evidence copied from the verified entry on its near-duplicate sibling page
 * **Ingest**: [claims/retrieval-practice-enhances-long-term-retention](claims/retrieval-practice-enhances-long-term-retention.md) — Evidence copied from the verified entry on its near-duplicate sibling page
 * **Ingest**: [claims/testing-effect-improves-retention](claims/testing-effect-improves-retention.md) — Evidence copied from the verified entry on its near-duplicate sibling page

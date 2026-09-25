@@ -1,7 +1,7 @@
 {
  "coverage": {
   "claims->claims": 455,
-  "claims->elements": 131,
+  "claims->elements": 132,
   "claims->learner-variables": 1,
   "claims->methods": 3,
   "claims->patterns": 103,
@@ -71688,6 +71688,9 @@
      },
      {
       "slug": "explicit-handwriting-instruction-improves-legibility"
+     },
+     {
+      "slug": "feedback-enhances-retrieval-practice"
      },
      {
       "slug": "parent-coaching-outperforms-information-only"
