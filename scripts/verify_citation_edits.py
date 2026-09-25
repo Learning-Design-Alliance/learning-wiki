@@ -39,6 +39,11 @@ sys.path.insert(0, str(Path(__file__).parent))
 import check_citations as cc
 
 CONTENT = re.compile(r"^(" + "|".join(cc.PAGE_TYPES) + r")/")
+# A folder's index.md is regenerated from scratch by build_indexes.py, never
+# edited by a citation tool, and every batch that adds pages rewrites it. Checked,
+# it made this gate stop every such batch (389 lines on the first in-session GLM
+# batch, 2026-09-25, all listings), so lint and the health check never ran.
+GENERATED = re.compile(r"^(" + "|".join(cc.PAGE_TYPES) + r")/index\.md$")
 
 
 def changed_pairs(diff: str):
@@ -63,8 +68,22 @@ def changed_pairs(diff: str):
                        new[i] if i < len(new) else None)
 
 
+# The frontmatter `sources:` block mirrors each body citation (CLAUDE.md, Frontmatter fields),
+# and a DOI fill rewrites both: the body line and, in frontmatter, the entry's `resource:` URL
+# and its `title:` string. Those two mirror shapes are recognised here and nothing else in
+# frontmatter is: batch 3 (2026-09-25) stopped on 14 such lines from one Crossref-verified fill.
+_FM_RESOURCE = re.compile(r'^\s+resource:\s*"?https?://\S+?"?\s*$')
+_FM_TITLE = re.compile(r'^\s+title:\s*"?(.*?)"?\s*$')
+
+
 def is_citation(line) -> bool:
-    return bool(line) and bool(cc.CITATION_KEY_RE.search(line.strip()))
+    if not line:
+        return False
+    if _FM_RESOURCE.match(line):
+        return True
+    m = _FM_TITLE.match(line)
+    text = m.group(1) if m else line.strip()
+    return bool(cc.CITATION_KEY_RE.search(text))
 
 
 def main() -> None:
@@ -82,8 +101,11 @@ def main() -> None:
         print("No changes to check.")
         return
 
-    ok, bad = 0, []
+    ok, bad, generated = 0, [], 0
     for path, old, new in changed_pairs(diff):
+        if GENERATED.match(path):
+            generated += 1
+            continue
         # An edit is safe when it lands on a citation and leaves it one. A
         # rewrite that turns a citation into something that no longer parses
         # as one has destroyed it just as surely as one that hit prose.
@@ -93,6 +115,8 @@ def main() -> None:
             bad.append((path, old, new))
 
     print(f"{ok} edit(s) landed on a citation line.")
+    if generated:
+        print(f"{generated} line(s) in generated folder index.md files skipped (build_indexes.py writes them).")
     if not bad:
         print("Nothing landed anywhere else.")
         return

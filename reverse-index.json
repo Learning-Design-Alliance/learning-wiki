@@ -9,13 +9,13 @@
   "claims->processes": 3,
   "claims->theories": 284,
   "elements->claims": 171,
-  "elements->elements": 321,
+  "elements->elements": 322,
   "elements->learner-variables": 1,
   "elements->methods": 1,
-  "elements->patterns": 243,
-  "elements->principles": 313,
+  "elements->patterns": 245,
+  "elements->principles": 315,
   "elements->processes": 1,
-  "elements->theories": 62,
+  "elements->theories": 82,
   "learner-variables->claims": 12,
   "learner-variables->elements": 12,
   "learner-variables->learner-variables": 3,
@@ -28,18 +28,18 @@
   "methods->principles": 8,
   "methods->processes": 4,
   "methods->theories": 3,
-  "patterns->claims": 92,
+  "patterns->claims": 96,
   "patterns->elements": 94,
   "patterns->methods": 1,
-  "patterns->patterns": 101,
-  "patterns->principles": 83,
-  "patterns->theories": 47,
-  "principles->claims": 175,
+  "patterns->patterns": 102,
+  "patterns->principles": 85,
+  "patterns->theories": 48,
+  "principles->claims": 203,
   "principles->elements": 55,
-  "principles->patterns": 41,
+  "principles->patterns": 42,
   "principles->principles": 205,
   "principles->processes": 2,
-  "principles->theories": 112,
+  "principles->theories": 120,
   "processes->claims": 11,
   "processes->elements": 10,
   "processes->methods": 6,
@@ -48,19 +48,19 @@
   "processes->processes": 9,
   "processes->theories": 10,
   "strategies->claims": 2319,
-  "strategies->elements": 2391,
+  "strategies->elements": 2392,
   "strategies->methods": 10,
-  "strategies->patterns": 812,
-  "strategies->principles": 1746,
+  "strategies->patterns": 814,
+  "strategies->principles": 1748,
   "strategies->processes": 9,
-  "strategies->theories": 427,
-  "theories->claims": 71,
+  "strategies->theories": 460,
+  "theories->claims": 125,
   "theories->elements": 21,
   "theories->methods": 2,
-  "theories->patterns": 24,
-  "theories->principles": 33,
+  "theories->patterns": 26,
+  "theories->principles": 35,
   "theories->processes": 3,
-  "theories->theories": 97
+  "theories->theories": 107
  },
  "edges": {
   "claims": {
@@ -2653,6 +2653,15 @@
      }
     ]
    },
+   "adaptive-g-ukt-competitive-performance-sparse-regimes": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "uncertainty-aware-knowledge-states-for-adaptive-decisions",
+      "strength": "M"
+     }
+    ]
+   },
    "adaptive-learning-improves-outcomes": {
     "claims": [
      {
@@ -3160,6 +3169,15 @@
      }
     ]
    },
+   "ai-increases-invisible-labor-of-associate-deans": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "onto-epistemological-stewardship-ai-leadership",
+      "strength": "M"
+     }
+    ]
+   },
    "ai-mediated-feedback-in-hands-on-exhibits-improves-learning-and-engagement": {
     "patterns": [
      {
@@ -3566,6 +3584,15 @@
      }
     ]
    },
+   "application-synthesis-link-stronger-than-analysis-synthesis": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "vector-hypothesis-partial-element-integration",
+      "strength": "M"
+     }
+    ]
+   },
    "arcs-model-increases-motivational-appeal-assertion": {
     "theories": [
      {
@@ -3790,6 +3817,15 @@
       "polarity": "~",
       "slug": "self-regulated-learning",
       "strength": "M"
+     }
+    ]
+   },
+   "asd-teens-vulnerable-compulsive-internet-use": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "frequent-conversations-clear-limits-internet-safety",
+      "strength": "W"
      }
     ]
    },
@@ -6490,6 +6526,15 @@
      }
     ]
    },
+   "autonomy-at-one-level-may-inhibit-another": {
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "autonomy-goal-and-route-early-literacy",
+      "strength": "M"
+     }
+    ]
+   },
    "autonomy-supports-intrinsic-motivation": {
     "claims": [
      {
@@ -8706,6 +8751,15 @@
      }
     ]
    },
+   "auxiliary-hint-task-improves-knowledge-tracing": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "colearn-multi-task-hint-knowledge-model",
+      "strength": "M"
+     }
+    ]
+   },
    "awareness-of-heterogeneity-does-not-predict-regulation-success": {
     "claims": [
      {
@@ -8716,6 +8770,15 @@
      {
       "polarity": "~",
       "slug": "collaborative-learning",
+      "strength": "W"
+     }
+    ]
+   },
+   "balance-whole-language-and-phonics": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "harmonize-opposites-in-educational-change",
       "strength": "W"
      }
     ]
@@ -9996,6 +10059,15 @@
      }
     ]
    },
+   "bilingual-evaluations-ignore-interactions": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "bilingual-education-interaction-model",
+      "strength": "M"
+     }
+    ]
+   },
    "bilingual-fluency-enhances-metalinguistic-awareness": {
     "claims": [
      {
@@ -10189,6 +10261,20 @@
       "polarity": "+",
       "slug": "using_manipulatives",
       "strength": "W"
+     }
+    ]
+   },
+   "boston-controlled-choice-most-students-get-first-or-second-choice": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "improve-least-chosen-schools-via-choice-data",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "simultaneous-desegregation-choice-improvement",
+      "strength": "M"
      }
     ]
    },
@@ -11528,6 +11614,15 @@
     "patterns": [
      {
       "slug": "alternative-in-school-steam-learning-infrastructure"
+     }
+    ]
+   },
+   "chunking-method-high-retention": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "chunking-method-teaching-studying",
+      "strength": "M"
      }
     ]
    },
@@ -15450,6 +15545,15 @@
      }
     ]
    },
+   "clarity-concept-structure-interaction": {
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "tennyson-cocchiarella-concept-instruction-model",
+      "strength": "M"
+     }
+    ]
+   },
    "classroom-design-affects-learning-progress": {
     "claims": [
      {
@@ -15819,6 +15923,15 @@
      }
     ]
    },
+   "clear-variable-coordinate-beats-unclear": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "tennyson-cocchiarella-concept-instruction-model",
+      "strength": "M"
+     }
+    ]
+   },
    "co-design-tools-support-balancing-standards-and-student-interests": {
     "patterns": [
      {
@@ -15830,6 +15943,24 @@
     "strategies": [
      {
       "slug": "co-design-tools-for-standards-and-interest-balancing"
+     }
+    ]
+   },
+   "cognitive-art-stage-alignment-predicts-chapter-book-reading": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "lowenfeld-art-stages-parallel-piaget-stages",
+      "strength": "M"
+     }
+    ]
+   },
+   "cognitive-associations-as-generalized-reinforcers": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "reinforcement-theory-of-cognitive-learning-framework",
+      "strength": "M"
      }
     ]
    },
@@ -16262,6 +16393,15 @@
      {
       "polarity": "+",
       "slug": "zoom-in",
+      "strength": "M"
+     }
+    ]
+   },
+   "cognitive-flexibility-correlates-with-early-literacy": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "cognitive-flexibility-theory-early-literacy",
       "strength": "M"
      }
     ]
@@ -16823,6 +16963,15 @@
      {
       "polarity": "+",
       "slug": "concrete-representational-abstract_cra_sequence",
+      "strength": "M"
+     }
+    ]
+   },
+   "cognitive-model-omits-social-aspect-of-writing": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "cognitive-model-l2-writing",
       "strength": "M"
      }
     ]
@@ -19848,6 +19997,15 @@
      }
     ]
    },
+   "committee-structure-sustains-change-despite-turnover": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "multi-year-sequenced-conversion-plan",
+      "strength": "M"
+     }
+    ]
+   },
    "community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object": {
     "claims": [
      {
@@ -19869,6 +20027,15 @@
       "polarity": "~",
       "slug": "cultural-historical-activity-theory",
       "strength": "W"
+     }
+    ]
+   },
+   "comp-no-different-from-other-classroom-management": {
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "use-universal-classroom-management-approaches",
+      "strength": "M"
      }
     ]
    },
@@ -20402,6 +20569,31 @@
      {
       "polarity": "+",
       "slug": "rip-toolbox-repetition-imagery-patterns",
+      "strength": "M"
+     }
+    ]
+   },
+   "concrete-reward-increases-mean-ideational-fluency": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "capacity-versus-motivation-accounts-of-creativity",
+      "strength": "M"
+     }
+    ]
+   },
+   "congruence-varies-with-situation-importance-and-relationship": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "flexible-congruence-context-appropriateness",
+      "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "congruence-incongruence-situational-taxonomy",
       "strength": "M"
      }
     ]
@@ -21497,6 +21689,15 @@
      }
     ]
    },
+   "contrastive-rhetoric-overgeneralizes-culture": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "contrastive-rhetoric-model-l2-writing",
+      "strength": "M"
+     }
+    ]
+   },
    "conversational-turns-predict-language-development": {
     "claims": [
      {
@@ -21507,6 +21708,15 @@
      {
       "polarity": "+",
       "slug": "supporting-early-language-development",
+      "strength": "M"
+     }
+    ]
+   },
+   "cooperative-learning-achievement-synthesis-slavin": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "four-basic-elements-cooperative-learning",
       "strength": "M"
      }
     ]
@@ -21938,6 +22148,15 @@
      }
     ]
    },
+   "cooperative-learning-versus-individual-endeavors": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "harmonize-opposites-in-educational-change",
+      "strength": "W"
+     }
+    ]
+   },
    "course-based-research-experience-boundary-objects-support-disciplinary-integration-and-authentic-research-networks": {
     "patterns": [
      {
@@ -21968,12 +22187,39 @@
      }
     ]
    },
+   "cpc-correlation-nonsignificant-chunking": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "chunking-method-teaching-studying",
+      "strength": "M"
+     }
+    ]
+   },
    "creating-computational-literature-develops-computational-literacy": {
     "patterns": [
      {
       "polarity": "~",
       "slug": "computational-essay-writing",
       "strength": "W"
+     }
+    ]
+   },
+   "criterion-referenced-tests-measure-mastery-not-relative-standing": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "criterion-referenced-testing-mastery-framework",
+      "strength": "M"
+     }
+    ]
+   },
+   "criterion-referenced-tests-need-construct-validation": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "integrate-measurement-with-instructional-psychology",
+      "strength": "M"
      }
     ]
    },
@@ -22020,6 +22266,15 @@
       "polarity": "+",
       "slug": "cultural-processes-identification-and-rationalization",
       "strength": "W"
+     }
+    ]
+   },
+   "culturally-relevant-visual-design-lcs-materials": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "cultural-appropriateness-framework-four-domains",
+      "strength": "M"
      }
     ]
    },
@@ -22464,6 +22719,38 @@
      }
     ]
    },
+   "deliberate-practice-increases-student-satisfaction": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "structured-deliberate-practice-for-licensing-review",
+      "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "deliberate-practice-framework-ericsson-pool",
+      "strength": "M"
+     }
+    ]
+   },
+   "deliberate-practice-raises-licensing-pass-rate": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "structured-deliberate-practice-for-licensing-review",
+      "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "deliberate-practice-framework-ericsson-pool",
+      "strength": "M"
+     }
+    ]
+   },
    "design-based-research-roles-compete-and-threaten-credible-claims": {
     "claims": [
      {
@@ -22519,6 +22806,15 @@
     "theories": [
      {
       "slug": "strength-and-retrieval-effort-account-of-retrieval-practice"
+     }
+    ]
+   },
+   "diagrams-help-posttest-only-read-twice-condition": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "visual-representations-benefit-only-with-adequate-processing-resources",
+      "strength": "M"
      }
     ]
    },
@@ -22888,6 +23184,15 @@
       "polarity": "+",
       "slug": "skimming-and-scanning",
       "strength": "M"
+     }
+    ]
+   },
+   "discrepant-training-facilitates-map-drawing-advance": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "dual-disequilibrium-framework-with-bias",
+      "strength": "S"
      }
     ]
    },
@@ -23298,6 +23603,15 @@
       "polarity": "+",
       "slug": "sift_method",
       "strength": "S"
+     }
+    ]
+   },
+   "dkt-limitation-multi-step-mastery-learning": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "simulated-student-evaluation-approach",
+      "strength": "M"
      }
     ]
    },
@@ -23780,6 +24094,38 @@
      }
     ]
    },
+   "dynemb-outperforms-dkt-and-bmf-baselines": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "dynemb-framework",
+      "strength": "M"
+     }
+    ]
+   },
+   "dynemb-tracks-knowledge-without-skill-tags": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "dynemb-framework",
+      "strength": "M"
+     }
+    ]
+   },
+   "early-concerns-maintained-alongside-later-concerns": {
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "cbam-stages-of-concern-model",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "emergent-growth-adoption-model",
+      "strength": "M"
+     }
+    ]
+   },
    "early-delay-of-gratification-predicts-later-outcomes": {
     "claims": [
      {
@@ -23803,12 +24149,30 @@
      }
     ]
    },
+   "effects-with-versus-effects-of-computer": {
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "computer-roles-expert-partner-servant",
+      "strength": "M"
+     }
+    ]
+   },
    "effort-requires-task-value-and-expectation-of-success-arcs-rationale": {
     "theories": [
      {
       "polarity": "+",
       "slug": "arcs-strategy-subcomponent-taxonomy",
       "strength": "W"
+     }
+    ]
+   },
+   "egalitarian-program-design-supports-culturally-responsive-leadership": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "dewey-democratic-education",
+      "strength": "M"
      }
     ]
    },
@@ -23839,6 +24203,15 @@
     "theories": [
      {
       "slug": "elaborative-retrieval-account"
+     }
+    ]
+   },
+   "elaborative-interrogation-answer-quality-poor-correlates-with-posttest": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "model-and-monitor-elaborative-interrogation-answer-quality",
+      "strength": "M"
      }
     ]
    },
@@ -24462,6 +24835,15 @@
       "polarity": "+",
       "slug": "write_your_own_word_problem",
       "strength": "S"
+     }
+    ]
+   },
+   "errors-as-feedback-fossilization-risk": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "flexible-error-treatment-strategies",
+      "strength": "M"
      }
     ]
    },
@@ -26910,6 +27292,15 @@
      {
       "polarity": "~",
       "slug": "writing_process_approach",
+      "strength": "M"
+     }
+    ]
+   },
+   "family-muac-uptake-barriers": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "tdf-framework-for-engagement-determinants",
       "strength": "M"
      }
     ]
@@ -29437,6 +29828,15 @@
      }
     ]
    },
+   "free-play-reveals-behavioral-math-knowledge": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "zpd-mediated-early-math-framework",
+      "strength": "M"
+     }
+    ]
+   },
    "functional-fixedness-limits-problem-solving": {
     "principles": [
      {
@@ -29574,6 +29974,33 @@
      }
     ]
    },
+   "germane-load-gains-limited-to-identical-and-near-transfer-problems": {
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "reversi-training-conditions-varying-intrinsic-and-extraneous-load",
+      "strength": "M"
+     }
+    ]
+   },
+   "gifted-underrepresentation-diverse-students": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "multiple-criteria-gifted-identification",
+      "strength": "M"
+     }
+    ]
+   },
+   "global-versus-local-errors-correction": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "flexible-error-treatment-strategies",
+      "strength": "M"
+     }
+    ]
+   },
    "goal-setting-improves-performance": {
     "claims": [
      {
@@ -29629,6 +30056,15 @@
     "claims": [
      {
       "slug": "expert-teachers-rate-gpt-4o-dialogue-annotations-as-largely-accurate"
+     }
+    ]
+   },
+   "grade-cutoffs-arbitrary-adjacent-scores": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "criterion-referenced-mastery-testing-gentile",
+      "strength": "M"
      }
     ]
    },
@@ -29770,6 +30206,15 @@
      }
     ]
    },
+   "group-membership-alone-does-not-produce-cooperation": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "five-basic-elements-cooperative-learning-adults",
+      "strength": "M"
+     }
+    ]
+   },
    "growth-mindset-improves-achievement": {
     "learner-variables": [
      {
@@ -29841,6 +30286,15 @@
       "polarity": "+",
       "slug": "rice_tables_and_sandboxes-science_through_inquiry",
       "strength": "S"
+     }
+    ]
+   },
+   "guided-matching-and-peer-scaffolding-build-correspondence": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "zpd-mediated-early-math-framework",
+      "strength": "M"
      }
     ]
    },
@@ -29916,6 +30370,15 @@
      {
       "polarity": "+",
       "slug": "epistemic-commitments",
+      "strength": "M"
+     }
+    ]
+   },
+   "hierarchical-organization-improves-complex-task-performance": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "hierarchical-task-adapted-knowledge-organization-model",
       "strength": "M"
      }
     ]
@@ -30256,6 +30719,24 @@
      }
     ]
    },
+   "high-l2-achievers-show-iq-gains-in-immersion": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "threshold-hypothesis-bilingual-competence",
+      "strength": "M"
+     }
+    ]
+   },
+   "higher-hierarchy-levels-recalled-better": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "hierarchical-task-adapted-knowledge-organization-model",
+      "strength": "M"
+     }
+    ]
+   },
    "highlighting-alone-is-ineffective": {
     "strategies": [
      {
@@ -30279,6 +30760,15 @@
      {
       "polarity": "-",
       "slug": "von-restorff-effect-text-marking",
+      "strength": "M"
+     }
+    ]
+   },
+   "hispanic-adults-prefer-clear-friendly-sdm-communication": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "cultural-appropriateness-framework-four-domains",
       "strength": "M"
      }
     ]
@@ -30352,6 +30842,15 @@
      }
     ]
    },
+   "imagery-characteristics-associated-with-aesthetic-responses": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "technology-imagery-perception-model",
+      "strength": "M"
+     }
+    ]
+   },
    "incidental-vocabulary-exposure-limited": {
     "claims": [
      {
@@ -30383,6 +30882,24 @@
      {
       "polarity": "+",
       "slug": "vocabulary-in-context",
+      "strength": "M"
+     }
+    ]
+   },
+   "incorporating-home-culture-improves-academic-performance": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "home-culture-inclusion-framework",
+      "strength": "M"
+     }
+    ]
+   },
+   "increasing-collegial-interaction-across-concern-stages": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "emergent-growth-adoption-model",
       "strength": "M"
      }
     ]
@@ -30428,6 +30945,15 @@
      }
     ]
    },
+   "instructional-clarity-main-effect-concept-achievement": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "positive-clarity-moves-design-principle",
+      "strength": "M"
+     }
+    ]
+   },
    "instructional-design-models-are-validated-by-adoption-not-testing": {
     "methods": [
      {
@@ -30446,12 +30972,39 @@
      }
     ]
    },
+   "integrity-equity-concerns-span-all-units": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "onto-epistemological-stewardship-ai-leadership",
+      "strength": "M"
+     }
+    ]
+   },
    "intelligent-tutor-lynnette-outperformed-dragonbox-on-test": {
     "theories": [
      {
       "polarity": "~",
       "slug": "knowledge-tracing-broader-applications",
       "strength": "W"
+     }
+    ]
+   },
+   "interactive-semantic-mapping-outperforms-teacher-initiated-and-student-mediated": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "three-semantic-mapping-strategy-variants",
+      "strength": "M"
+     }
+    ]
+   },
+   "interdependence-modes-weakly-negatively-correlated": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "four-mode-interdependence-framework",
+      "strength": "M"
      }
     ]
    },
@@ -30644,6 +31197,15 @@
      }
     ]
    },
+   "judges-perceive-ceda-ndt-work-exceeds-parliamentary-work": {
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "debate-as-argumentation-laboratory",
+      "strength": "M"
+     }
+    ]
+   },
    "judgments-of-learning-inaccurate": {
     "claims": [
      {
@@ -30671,6 +31233,33 @@
       "polarity": "+",
       "slug": "kindergarten-balance-scale-equal-sign-lesson-sequence",
       "strength": "W"
+     }
+    ]
+   },
+   "korean-immigrants-lower-resolution-than-norm-group": {
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "erikson-marcia-identity-status-framework",
+      "strength": "M"
+     }
+    ]
+   },
+   "kt-encoders-entity-isolated-deterministic-limits": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "uncertainty-aware-knowledge-states-for-adaptive-decisions",
+      "strength": "M"
+     }
+    ]
+   },
+   "l1-maintenance-supports-l2-without-cost": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "developmental-interdependence-hypothesis",
+      "strength": "M"
      }
     ]
    },
@@ -31112,6 +31701,24 @@
      }
     ]
    },
+   "level-mixture-predicts-modal-level-advance": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "dual-disequilibrium-framework-with-bias",
+      "strength": "S"
+     }
+    ]
+   },
+   "literacy-development-parallels-cognitive-stage-in-first-graders": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "lowenfeld-art-stages-parallel-piaget-stages",
+      "strength": "M"
+     }
+    ]
+   },
    "lively-data-and-agentic-positions-support-epistemically-just-crisis-sensemaking": {
     "claims": [
      {
@@ -31171,11 +31778,29 @@
      }
     ]
    },
+   "locus-of-control-fails-to-discriminate-delinquents": {
+    "theories": [
+     {
+      "polarity": "-",
+      "slug": "locus-of-control-bipolar-expectancy-construct",
+      "strength": "M"
+     }
+    ]
+   },
    "lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples": {
     "principles": [
      {
       "polarity": "~",
       "slug": "match-worked-example-type-to-learner-prior-knowledge",
+      "strength": "M"
+     }
+    ]
+   },
+   "lvn-generator-feedback-loop-case": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "prefer-feedback-loops-over-feedback-systems",
       "strength": "M"
      }
     ]
@@ -31192,6 +31817,15 @@
      {
       "polarity": "+",
       "slug": "concrete-representational-abstract_cra_sequence",
+      "strength": "M"
+     }
+    ]
+   },
+   "mastery-learning-higher-earned-credit-rates": {
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "mastery-learning-formative-corrective-cycle",
       "strength": "M"
      }
     ]
@@ -31246,6 +31880,22 @@
       "polarity": "~",
       "slug": "timed_math_fact_drills",
       "strength": "S"
+     }
+    ]
+   },
+   "mdc-stop-anticipation-remains-prompt-dependent": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "number-difficulty-impacts-mdc-construction",
+      "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "dual-anticipation-start-stop-mdc-intermediate-stage",
+      "strength": "M"
      }
     ]
    },
@@ -31728,6 +32378,15 @@
      }
     ]
    },
+   "memory-augmented-model-improves-hint-prediction": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "colearn-multi-task-hint-knowledge-model",
+      "strength": "M"
+     }
+    ]
+   },
    "mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning": {
     "patterns": [
      {
@@ -31887,6 +32546,15 @@
      }
     ]
    },
+   "mixed-homogeneous-heterogeneous-grouping": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "harmonize-opposites-in-educational-change",
+      "strength": "W"
+     }
+    ]
+   },
    "mnemonic-instruction-improves-recall-for-students-with-disabilities": {
     "learner-variables": [
      {
@@ -31981,6 +32649,40 @@
      {
       "polarity": "+",
       "slug": "latin-and-greek-roots-for-academic-vocabulary",
+      "strength": "M"
+     }
+    ]
+   },
+   "mother-tongue-preservation-predicts-l2-achievement": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "developmental-interdependence-hypothesis",
+      "strength": "M"
+     }
+    ]
+   },
+   "ms-bkt-estimates-fluctuate-less-than-bkt": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "recency-adjustment-over-static-learning-rate",
+      "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "ms-bkt-multistate-recency-weight-model",
+      "strength": "M"
+     }
+    ]
+   },
+   "ms-bkt-performs-similarly-to-classic-bkt-on-holdout-data": {
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "recency-adjustment-over-static-learning-rate",
       "strength": "M"
      }
     ]
@@ -32875,6 +33577,24 @@
      }
     ]
    },
+   "negative-transfer-regression-intercepts": {
+    "theories": [
+     {
+      "polarity": "-",
+      "slug": "flammer-transfer-correlation-model",
+      "strength": "M"
+     }
+    ]
+   },
+   "no-incongruence-to-congruence-transition-across-therapy-sessions": {
+    "theories": [
+     {
+      "polarity": "-",
+      "slug": "interactional-theory-relational-congruence",
+      "strength": "M"
+     }
+    ]
+   },
    "no-single-knowledge-tracing-model-is-always-best": {
     "claims": [
      {
@@ -32886,6 +33606,24 @@
       "polarity": "~",
       "slug": "knowledge-tracing-model-taxonomy",
       "strength": "W"
+     }
+    ]
+   },
+   "no-single-learner-model-best-across-datasets": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "lkt-logistic-knowledge-tracing-framework",
+      "strength": "M"
+     }
+    ]
+   },
+   "nsf-strategy-increases-helped-students-busy-normal-queues": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "office-hours-queue-simulation-framework",
+      "strength": "M"
      }
     ]
    },
@@ -32910,6 +33648,15 @@
      {
       "polarity": "+",
       "slug": "commognition",
+      "strength": "M"
+     }
+    ]
+   },
+   "only-20-percent-teachers-prepared-integrate-technology": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "sustained-follow-up-technology-pd",
       "strength": "M"
      }
     ]
@@ -32949,6 +33696,15 @@
      {
       "polarity": "+",
       "slug": "knowledge-objects-and-knowledge-practices",
+      "strength": "M"
+     }
+    ]
+   },
+   "organization-task-match-determines-benefit": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "hierarchical-task-adapted-knowledge-organization-model",
       "strength": "M"
      }
     ]
@@ -33375,6 +34131,40 @@
      }
     ]
    },
+   "paths-basic-to-complex-hierarchical-spiral-sequencing": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "affective-sequencing-requires-own-principles",
+      "strength": "M"
+     }
+    ]
+   },
+   "paths-topical-sequencing-four-guidelines": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "affective-sequencing-requires-own-principles",
+      "strength": "M"
+     }
+    ]
+   },
+   "pd-integration-training-doubles-reliance": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "pd-integration-not-just-technical",
+      "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "ceo-forum-digital-learning-definition",
+      "strength": "M"
+     }
+    ]
+   },
    "pd-support-salience-depends-on-adaptive-cycle-phase": {
     "elements": [
      {
@@ -33508,6 +34298,15 @@
      }
     ]
    },
+   "peer-assisted-learning-improves-learning-outcomes": {
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "online-peer-assisted-learning-community",
+      "strength": "W"
+     }
+    ]
+   },
    "peer-discussion-improves-conceptual-understanding": {
     "strategies": [
      {
@@ -33599,6 +34398,15 @@
       "polarity": "+",
       "slug": "teaching-as-learning",
       "strength": "S"
+     }
+    ]
+   },
+   "perceived-digital-affordances-associated-with-lacquer-imagery-characteristics": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "technology-imagery-perception-model",
+      "strength": "M"
      }
     ]
    },
@@ -33959,6 +34767,24 @@
      }
     ]
    },
+   "piecemeal-educator-policymaking-drains-talent": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "talent-development-framework-three-sections",
+      "strength": "M"
+     }
+    ]
+   },
+   "pippi-versus-society-educational-philosophy-clash": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "educational-philosophies-taxonomy-wiles-bondi",
+      "strength": "M"
+     }
+    ]
+   },
    "play-based-learning-improves-outcomes": {
     "claims": [
      {
@@ -34000,6 +34826,24 @@
     "strategies": [
      {
       "slug": "dialogic-facilitation-of-student-resources"
+     }
+    ]
+   },
+   "positive-bias-predicts-modal-level-advance": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "dual-disequilibrium-framework-with-bias",
+      "strength": "S"
+     }
+    ]
+   },
+   "positive-clarity-moves-correlate-achievement": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "positive-clarity-moves-design-principle",
+      "strength": "M"
      }
     ]
    },
@@ -35023,6 +35867,15 @@
      }
     ]
    },
+   "propdec-colinear-with-student-intercept": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "avoid-student-intercepts-for-transfer",
+      "strength": "M"
+     }
+    ]
+   },
    "question-prompts-improve-learning": {
     "elements": [
      {
@@ -35072,6 +35925,22 @@
       "polarity": "+",
       "slug": "question-answering-relationships",
       "strength": "S"
+     }
+    ]
+   },
+   "recency-weights-capture-learning-and-forgetting-from-data": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "recency-adjustment-over-static-learning-rate",
+      "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "ms-bkt-multistate-recency-weight-model",
+      "strength": "M"
      }
     ]
    },
@@ -35973,6 +36842,15 @@
      }
     ]
    },
+   "reward-leaves-creativity-individual-differences-unchanged": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "capacity-versus-motivation-accounts-of-creativity",
+      "strength": "M"
+     }
+    ]
+   },
    "rewards-undermine-intrinsic-motivation": {
     "strategies": [
      {
@@ -36039,6 +36917,24 @@
     "claims": [
      {
       "slug": "self-regulated-learning-strategies-improve-writing"
+     }
+    ]
+   },
+   "scheduling-strategy-no-effect-resolved-requests-wait-time": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "office-hours-queue-simulation-framework",
+      "strength": "M"
+     }
+    ]
+   },
+   "school-home-culture-mismatch-assimilation-disadvantage": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "home-culture-inclusion-framework",
+      "strength": "M"
      }
     ]
    },
@@ -36481,6 +37377,24 @@
       "polarity": "+",
       "slug": "strengths-based_ieps",
       "strength": "M"
+     }
+    ]
+   },
+   "self-efficacy-for-learning-distinct-from-performance": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "self-efficacy-theory-schunk-1996",
+      "strength": "M"
+     }
+    ]
+   },
+   "self-efficacy-for-srl-predicts-achievement-beyond-traits": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "srl-motivational-goal-setting-monitoring-control-framework",
+      "strength": "S"
      }
     ]
    },
@@ -42711,12 +43625,64 @@
      }
     ]
    },
+   "semilingualism-associated-with-negative-cognitive-effects": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "threshold-hypothesis-bilingual-competence",
+      "strength": "M"
+     }
+    ]
+   },
+   "serial-indirect-association-sensible-scene-to-behavioral-intention": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "technology-imagery-perception-model",
+      "strength": "M"
+     }
+    ]
+   },
+   "sharing-experiences-modifies-attitudes": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "culturally-responsive-adult-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
    "short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed": {
     "theories": [
      {
       "polarity": "~",
       "slug": "future-directions-for-retrieval-based-learning-research",
       "strength": "W"
+     }
+    ]
+   },
+   "short-cso-improves-test-performance": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "keep-chunking-study-outlines-short",
+      "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "chunking-method-teaching-studying",
+      "strength": "M"
+     }
+    ]
+   },
+   "short-term-training-challenges-long-term-skill-retention": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "skill-based-programmes-should-target-retention-and-sustainability",
+      "strength": "M"
      }
     ]
    },
@@ -42753,6 +43719,24 @@
      }
     ]
    },
+   "simulated-data-initializes-bkt-parameters": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "simulated-student-evaluation-approach",
+      "strength": "M"
+     }
+    ]
+   },
+   "simulated-students-evaluate-online-knowledge-tracing": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "simulated-student-evaluation-approach",
+      "strength": "M"
+     }
+    ]
+   },
    "simulation-based-education-improves-outcomes": {
     "elements": [
      {
@@ -42768,6 +43752,22 @@
       "polarity": "+",
       "slug": "role_play",
       "strength": "S"
+     }
+    ]
+   },
+   "sld-anticipates-start-but-not-stop-in-mdc-hard-numbers": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "number-difficulty-impacts-mdc-construction",
+      "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "dual-anticipation-start-stop-mdc-intermediate-stage",
+      "strength": "M"
      }
     ]
    },
@@ -42820,6 +43820,15 @@
       "polarity": "+",
       "slug": "circle_time_emotions",
       "strength": "S"
+     }
+    ]
+   },
+   "sociocultural-model-limited-by-class-size": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "sociocultural-model-l2-writing",
+      "strength": "M"
      }
     ]
    },
@@ -44016,6 +45025,15 @@
      }
     ]
    },
+   "srl-strategies-account-up-to-51-percent-variance-academic-performance": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "srl-motivational-goal-setting-monitoring-control-framework",
+      "strength": "S"
+     }
+    ]
+   },
    "srl-web-training-peer-feedback-group-by-time-interaction-online-math-prep": {
     "claims": [
      {
@@ -44100,6 +45118,24 @@
      {
       "polarity": "~",
       "slug": "self-regulation",
+      "strength": "M"
+     }
+    ]
+   },
+   "structured-cai-maintains-memory-recall-to-retention": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "incorporate-spacing-effects-in-cai-design",
+      "strength": "M"
+     }
+    ]
+   },
+   "structured-cai-spacing-improves-recall-and-retention": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "incorporate-spacing-effects-in-cai-design",
       "strength": "M"
      }
     ]
@@ -44215,6 +45251,15 @@
      {
       "polarity": "+",
       "slug": "annotated-bibliographies",
+      "strength": "M"
+     }
+    ]
+   },
+   "survey-identifies-perceived-strengths-weaknesses-of-parliamentary-debate": {
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "debate-as-argumentation-laboratory",
       "strength": "M"
      }
     ]
@@ -44880,6 +45925,33 @@
      }
     ]
    },
+   "tc-effect-both-groups-masked-priming": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "tc-effect-character-position-flexibility",
+      "strength": "M"
+     }
+    ]
+   },
+   "tc-effect-exp1-chinese-only": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "tc-effect-character-position-flexibility",
+      "strength": "M"
+     }
+    ]
+   },
+   "tc-effect-larger-for-chinese-supplementary": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "tc-effect-character-position-flexibility",
+      "strength": "M"
+     }
+    ]
+   },
    "teacher-appropriation-of-edp-reframes-restrictive-stem-narratives": {
     "principles": [
      {
@@ -45082,6 +46154,15 @@
      }
     ]
    },
+   "teacher-underreferral-diverse-gifted": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "multiple-criteria-gifted-identification",
+      "strength": "M"
+     }
+    ]
+   },
    "teacher-utility-value-increases-motivation-to-use-ai": {
     "claims": [
      {
@@ -45133,6 +46214,33 @@
      {
       "polarity": "+",
       "slug": "peer-teaching",
+      "strength": "M"
+     }
+    ]
+   },
+   "team-teaching-pros-and-cons": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "harmonize-opposites-in-educational-change",
+      "strength": "W"
+     }
+    ]
+   },
+   "technology-acceptance-moderates-vr-imagination-behavioral-intention": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "technology-imagery-perception-model",
+      "strength": "M"
+     }
+    ]
+   },
+   "technology-training-spending-inadequate": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "sustained-follow-up-technology-pd",
       "strength": "M"
      }
     ]
@@ -45201,12 +46309,30 @@
      }
     ]
    },
+   "tool-effectiveness-depends-on-context-configuration": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "analyze-computer-use-as-activity-system",
+      "strength": "M"
+     }
+    ]
+   },
    "trait-self-regulation-relates-only-to-knowledge-map-scores-in-a-puzzle-game": {
     "theories": [
      {
       "polarity": "~",
       "slug": "cresst-problem-solving-model",
       "strength": "W"
+     }
+    ]
+   },
+   "transfer-linear-in-corrected-correlation": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "flammer-transfer-correlation-model",
+      "strength": "M"
      }
     ]
    },
@@ -45224,6 +46350,15 @@
      {
       "polarity": "~",
       "slug": "socratic_questioning",
+      "strength": "M"
+     }
+    ]
+   },
+   "two-types-of-germane-load-related-to-intrinsic-load": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "germane-load-as-learning-gain-measure",
       "strength": "M"
      }
     ]
@@ -45250,6 +46385,58 @@
       "polarity": "+",
       "slug": "learning-through-play",
       "strength": "S"
+     }
+    ]
+   },
+   "unified-talent-data-system-generates-prioritization-insights": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "talent-development-framework-three-sections",
+      "strength": "M"
+     }
+    ]
+   },
+   "unintelligible-beats-no-message-control": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "self-originated-elaboration-account",
+      "strength": "M"
+     }
+    ]
+   },
+   "unintelligible-messages-increase-idiosyncratic-elaboration": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "self-originated-elaboration-account",
+      "strength": "M"
+     }
+    ]
+   },
+   "universal-classroom-management-reduces-problem-behavior": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "use-universal-classroom-management-approaches",
+      "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "five-categories-classroom-management-practices",
+      "strength": "M"
+     }
+    ]
+   },
+   "unsquared-beats-squared-predictor": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "flammer-transfer-correlation-model",
+      "strength": "M"
      }
     ]
    },
@@ -47454,6 +48641,15 @@
       "polarity": "+",
       "slug": "deep-learning-knowledge-tracing-models",
       "strength": "W"
+     }
+    ]
+   },
+   "young-readers-rely-on-semantic-syntactic-context-for-word-analysis": {
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "interactive-model-of-reading-schwantes",
+      "strength": "M"
      }
     ]
    }
@@ -72020,6 +73216,13 @@
      }
     ]
    },
+   "mastery-criterion-remediation": {
+    "strategies": [
+     {
+      "slug": "negotiate-contracts-allow-retakes"
+     }
+    ]
+   },
    "mastery-learning": {
     "elements": [
      {
@@ -79859,6 +81062,13 @@
      }
     ]
    },
+   "self-talk-mediating-construct": {
+    "elements": [
+     {
+      "slug": "significant-others-statements-inventory"
+     }
+    ]
+   },
    "self-testing": {
     "elements": [
      {
@@ -84526,6 +85736,11 @@
       "slug": "transfer-tasks"
      }
     ],
+    "patterns": [
+     {
+      "slug": "cf-informed-literacy-instruction-design"
+     }
+    ],
     "principles": [
      {
       "slug": "cognitive-flexibility"
@@ -84564,6 +85779,11 @@
      },
      {
       "slug": "use_multiple_representations"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "cognitive-flexibility-theory-early-literacy"
      }
     ]
    },
@@ -88746,6 +89966,18 @@
      }
     ]
    },
+   "grading-by-contract-fricke": {
+    "elements": [
+     {
+      "slug": "mastery-criterion-remediation"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "negotiate-contracts-allow-retakes"
+     }
+    ]
+   },
    "grounding-and-unfolding-facilitation-moves": {
     "claims": [
      {
@@ -88801,6 +90033,18 @@
     "theories": [
      {
       "slug": "equations-as-language"
+     }
+    ]
+   },
+   "guided-practice-four-purposes": {
+    "elements": [
+     {
+      "slug": "frazer-eight-guiding-moves"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "guided-practice-framework-five-elements"
      }
     ]
    },
@@ -90399,6 +91643,20 @@
      },
      {
       "slug": "traditional-lecture-based-instruction"
+     }
+    ]
+   },
+   "trialogical-learning-design-characteristics": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "delegate-knowledge-creation-responsibility-to-learners",
+      "strength": "M"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "trialogical-pedagogical-scenarios"
      }
     ]
    },
@@ -92448,6 +93706,11 @@
      },
      {
       "slug": "writing_workshop"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "icap-four-mode-engagement-taxonomy"
      }
     ]
    },
@@ -103366,6 +104629,15 @@
      }
     ]
    },
+   "embed-assessment-in-ongoing-instruction": {
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "field-day-embedded-assessment-unit",
+      "strength": "M"
+     }
+    ]
+   },
    "empathy-interviews": {
     "strategies": [
      {
@@ -105670,6 +106942,18 @@
      }
     ]
    },
+   "performance-based-teacher-certification-assessment": {
+    "elements": [
+     {
+      "slug": "standards-based-certification-framework"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "portfolio-with-written-commentary-assessment"
+     }
+    ]
+   },
    "performance-technology": {
     "principles": [
      {
@@ -107060,6 +108344,26 @@
      }
     ]
    },
+   "semantic-mapping-principle": {
+    "elements": [
+     {
+      "slug": "concept-semantic-map-element"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "student-generated-mapping-strategy"
+     },
+     {
+      "slug": "teacher-provided-advance-graphic-map"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "semantic-network-theory"
+     }
+    ]
+   },
    "sequencing": {
     "methods": [
      {
@@ -108246,6 +109550,35 @@
    }
   },
   "theories": {
+   "abcd-model-paths-foundation": {
+    "elements": [
+     {
+      "slug": "paths-emotional-literacy-curriculum"
+     }
+    ]
+   },
+   "activity-system-model-l2-writing": {
+    "strategies": [
+     {
+      "slug": "contradiction-discovery-tools-for-learning-activity"
+     }
+    ]
+   },
+   "activity-theory-mediated-activity-system": {
+    "elements": [
+     {
+      "slug": "cognitive-tools-computer-as-tool"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "activity-action-operation-hierarchy"
+     },
+     {
+      "slug": "distributed-cognition-system-unit-of-analysis"
+     }
+    ]
+   },
    "adaptive-cycles-framework": {
     "claims": [
      {
@@ -108285,6 +109618,13 @@
     "theories": [
      {
       "slug": "psychosocial-theory-of-identity-development"
+     }
+    ]
+   },
+   "anatomy-of-autonomy-in-early-literacy": {
+    "strategies": [
+     {
+      "slug": "children-as-primary-knowers-dictation-co-construction"
      }
     ]
    },
@@ -108395,6 +109735,13 @@
       "polarity": "+",
       "slug": "student-orientation-toward-achievement",
       "strength": "S"
+     }
+    ]
+   },
+   "bandura-four-requirements-learn-model-behavior": {
+    "elements": [
+     {
+      "slug": "esylvan-online-tutoring-environment"
      }
     ]
    },
@@ -108753,6 +110100,25 @@
      }
     ]
    },
+   "cbam-stages-of-concern-model": {
+    "elements": [
+     {
+      "slug": "stages-of-concern-questionnaire-socq"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "non-coercive-facilitative-adoption-strategy"
+     }
+    ]
+   },
+   "co-regulation-framework-adolescents": {
+    "strategies": [
+     {
+      "slug": "tiered-self-regulation-intervention-support"
+     }
+    ]
+   },
    "cognitive-apprenticeship": {
     "claims": [
      {
@@ -108849,6 +110215,9 @@
       "slug": "first-principles-of-instruction"
      },
      {
+      "slug": "self-efficacy-theory-schunk-1996"
+     },
+     {
       "slug": "situated-learning"
      },
      {
@@ -108856,6 +110225,26 @@
      },
      {
       "slug": "sociocultural-theory"
+     },
+     {
+      "slug": "zpd-gap-independent-versus-assisted-problem-solving"
+     }
+    ]
+   },
+   "cognitive-flexibility-theory-early-literacy": {
+    "strategies": [
+     {
+      "slug": "game-like-divergent-thinking-cf-training"
+     }
+    ]
+   },
+   "cognitive-learning-theory-active-constructive": {
+    "strategies": [
+     {
+      "slug": "interdependence-chains-activity"
+     },
+     {
+      "slug": "word-chart-vocabulary-activity"
      }
     ]
    },
@@ -109759,6 +111148,13 @@
      }
     ]
    },
+   "colearn-multi-task-hint-knowledge-model": {
+    "strategies": [
+     {
+      "slug": "adaptive-hint-withholding-from-hint-prediction"
+     }
+    ]
+   },
    "commognition": {
     "claims": [
      {
@@ -110085,6 +111481,9 @@
       "slug": "onto-epistemic-heterogeneity"
      },
      {
+      "slug": "pragmatic-progressive-philosophy-adult-education"
+     },
+     {
       "slug": "situated-learning"
      },
      {
@@ -110101,6 +111500,16 @@
      },
      {
       "slug": "stages-of-cognitive-development"
+     }
+    ]
+   },
+   "cresst-model-of-learning-five-families": {
+    "elements": [
+     {
+      "slug": "cresst-integrated-assessment-system"
+     },
+     {
+      "slug": "cresst-proposed-assessment-tools"
      }
     ]
    },
@@ -110142,6 +111551,40 @@
      }
     ]
    },
+   "critical-pedagogy-as-rhetorical-education": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "teach-canonicity-not-canon",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "teach-civic-responsibility-not-proficiency",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "teach-persuasive-standards-not-just-persuasive-skill",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "teach-popular-culture-not-speech-making",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "teach-rhetorical-choices-not-tools",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "teach-rhetorics-not-rhetoric",
+      "strength": "M"
+     }
+    ]
+   },
    "critical-speculative-design-pedagogy": {
     "claims": [
      {
@@ -110168,6 +111611,13 @@
     "theories": [
      {
       "slug": "metacognition"
+     }
+    ]
+   },
+   "cultural-appropriateness-framework-four-domains": {
+    "strategies": [
+     {
+      "slug": "culturally-adapt-sdm-beyond-translation"
      }
     ]
    },
@@ -110210,6 +111660,9 @@
     ],
     "theories": [
      {
+      "slug": "activity-system-model-l2-writing"
+     },
+     {
       "slug": "adaptive-cycles-framework"
      },
      {
@@ -110239,10 +111692,32 @@
      }
     ]
    },
+   "debate-as-argumentation-laboratory": {
+    "strategies": [
+     {
+      "slug": "parliamentary-debate-reform-recommendations"
+     }
+    ]
+   },
    "deep-learning-knowledge-tracing-models": {
     "strategies": [
      {
       "slug": "knowledge-tracing-future-research-directions"
+     }
+    ]
+   },
+   "descriptive-simulation-modeling-framework-es-office": {
+    "elements": [
+     {
+      "slug": "es-office-simulation-nine-reports"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "match-input-estimation-method-to-required-accuracy"
+     },
+     {
+      "slug": "simulation-as-non-threatening-experimentation-alternative"
      }
     ]
    },
@@ -110290,6 +111765,15 @@
      }
     ]
    },
+   "developmental-interdependence-hypothesis": {
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "three-language-knowledge-aspects-for-reading",
+      "strength": "M"
+     }
+    ]
+   },
    "developmental-research-designs": {
     "theories": [
      {
@@ -110317,6 +111801,13 @@
     "strategies": [
      {
       "slug": "future-directions-for-dialogue-knowledge-tracing"
+     }
+    ]
+   },
+   "dual-anticipation-start-stop-mdc-intermediate-stage": {
+    "elements": [
+     {
+      "slug": "pgbm-towers-game-multiplicative-units"
      }
     ]
    },
@@ -111518,6 +113009,20 @@
      }
     ]
    },
+   "feedback-loop-structures-taxonomy": {
+    "strategies": [
+     {
+      "slug": "identify-feedback-loops-process"
+     }
+    ]
+   },
+   "feedback-loops-definition": {
+    "strategies": [
+     {
+      "slug": "identify-feedback-loops-process"
+     }
+    ]
+   },
    "first-principles-of-instruction": {
     "patterns": [
      {
@@ -111712,10 +113217,24 @@
      }
     ]
    },
+   "goals-methods-facilities-planning-model": {
+    "strategies": [
+     {
+      "slug": "flexible-activity-based-specifications"
+     }
+    ]
+   },
    "hermeneutical-injustice-incidental-and-systematic": {
     "theories": [
      {
       "slug": "varieties-of-testimonial-injustice-wanderer-hookway"
+     }
+    ]
+   },
+   "hierarchical-task-adapted-knowledge-organization-model": {
+    "strategies": [
+     {
+      "slug": "teach-explicit-hierarchical-organization"
      }
     ]
    },
@@ -111738,6 +113257,20 @@
     "principles": [
      {
       "slug": "build-connections-between-mathematics-and-other-practices"
+     }
+    ]
+   },
+   "icap-bloom-coding-scheme-discussion-posts": {
+    "elements": [
+     {
+      "slug": "cognitive-engagement-post-corpus-4217"
+     }
+    ]
+   },
+   "icap-four-mode-engagement-taxonomy": {
+    "strategies": [
+     {
+      "slug": "upgrade-activities-to-higher-icap-mode"
      }
     ]
    },
@@ -111925,6 +113458,34 @@
      }
     ]
    },
+   "interactional-theory-relational-congruence": {
+    "elements": [
+     {
+      "slug": "response-redundancy-congruence-index"
+     }
+    ]
+   },
+   "internal-mediation-model-teacher-statements": {
+    "elements": [
+     {
+      "slug": "self-talk-mediating-construct"
+     }
+    ]
+   },
+   "joyce-showers-technical-coaching": {
+    "theories": [
+     {
+      "slug": "schon-reflective-coaching-dialogue"
+     }
+    ]
+   },
+   "knowledge-creation-metaphor-of-learning": {
+    "theories": [
+     {
+      "slug": "trialogical-learning-framework"
+     }
+    ]
+   },
    "knowledge-objects-and-knowledge-practices": {
     "patterns": [
      {
@@ -112062,6 +113623,13 @@
      }
     ]
    },
+   "languaging-in-content-areas-lica-thesis": {
+    "strategies": [
+     {
+      "slug": "embedded-aids-to-readers"
+     }
+    ]
+   },
    "leitner-queue-network": {
     "elements": [
      {
@@ -112079,6 +113647,25 @@
      }
     ]
    },
+   "levels-of-discourse-l0-l1-l2": {
+    "strategies": [
+     {
+      "slug": "delivery-software-needs-l1-survey-learning-tactics"
+     }
+    ]
+   },
+   "lkt-logistic-knowledge-tracing-framework": {
+    "elements": [
+     {
+      "slug": "lkt-r-package-learnsphere-component"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "lkt-model-composition-strategy"
+     }
+    ]
+   },
    "locus-of-control": {
     "theories": [
      {
@@ -112093,6 +113680,13 @@
     "theories": [
      {
       "slug": "knowledge-tracing-model-taxonomy"
+     }
+    ]
+   },
+   "lowenfeld-art-stages-parallel-piaget-stages": {
+    "strategies": [
+     {
+      "slug": "varied-materials-and-environmental-awareness-encourage-literacy"
      }
     ]
    },
@@ -112211,6 +113805,13 @@
      },
      {
       "slug": "funds-of-knowledge"
+     }
+    ]
+   },
+   "onto-epistemological-stewardship-ai-leadership": {
+    "strategies": [
+     {
+      "slug": "communities-of-practice-for-ai-governance"
      }
     ]
    },
@@ -112378,6 +113979,32 @@
     "theories": [
      {
       "slug": "self-determination-theory"
+     }
+    ]
+   },
+   "rightful-presence-in-education-systems": {
+    "elements": [
+     {
+      "slug": "rightful-presence-implementation-guide"
+     }
+    ]
+   },
+   "robbins-monro-stochastic-approximation": {
+    "elements": [
+     {
+      "slug": "iteration-coefficient-sequence"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "coefficient-selection-strategy"
+     }
+    ]
+   },
+   "schon-reflective-coaching-dialogue": {
+    "theories": [
+     {
+      "slug": "joyce-showers-technical-coaching"
      }
     ]
    },
@@ -112728,6 +114355,13 @@
      },
      {
       "slug": "student-orientation-toward-achievement"
+     }
+    ]
+   },
+   "self-efficacy-theory-schunk-1996": {
+    "strategies": [
+     {
+      "slug": "ordered-domain-specific-efficacy-assessment"
      }
     ]
    },
@@ -113797,6 +115431,22 @@
      }
     ]
    },
+   "semantic-network-theory": {
+    "elements": [
+     {
+      "slug": "concept-semantic-map-element"
+     }
+    ]
+   },
+   "seven-science-education-goals-taxonomy": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "select-few-goals-for-facility-design",
+      "strength": "M"
+     }
+    ]
+   },
    "situated-learning": {
     "claims": [
      {
@@ -113999,6 +115649,13 @@
      },
      {
       "slug": "sociocultural-theory"
+     }
+    ]
+   },
+   "six-component-evidence-synthesis-skills-taxonomy": {
+    "strategies": [
+     {
+      "slug": "chart-approaches-by-skill-component-delivery-and-outcome-type"
      }
     ]
    },
@@ -114302,6 +115959,13 @@
      }
     ]
    },
+   "sociocultural-model-l2-writing": {
+    "strategies": [
+     {
+      "slug": "facilitator-role-sociocultural-l2-writing"
+     }
+    ]
+   },
    "sociocultural-theory": {
     "patterns": [
      {
@@ -114425,6 +116089,25 @@
      }
     ]
    },
+   "talent-development-framework-three-sections": {
+    "elements": [
+     {
+      "slug": "tdf-excel-data-tool"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "tdf-state-policy-actions-career-continuum"
+     }
+    ]
+   },
+   "teacher-technology-adoption-stages": {
+    "strategies": [
+     {
+      "slug": "ceoforum-teacher-tech-integration-recommendations"
+     }
+    ]
+   },
    "teaching-styles-warmth-and-control": {
     "principles": [
      {
@@ -114442,6 +116125,54 @@
      },
      {
       "slug": "kounins-classroom-management-research"
+     }
+    ]
+   },
+   "technology-imagery-perception-model": {
+    "strategies": [
+     {
+      "slug": "audience-informed-design-priorities-digital-heritage"
+     }
+    ]
+   },
+   "three-semantic-mapping-strategy-variants": {
+    "elements": [
+     {
+      "slug": "semantic-mapping-reading-technique"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "teacher-student-interactive-map-construction"
+     }
+    ]
+   },
+   "three-type-competency-assessment-taxonomy": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "embed-assessment-in-ongoing-instruction",
+      "strength": "M"
+     }
+    ]
+   },
+   "trialogical-learning-framework": {
+    "elements": [
+     {
+      "slug": "knowledge-practices-environment-kpe"
+     },
+     {
+      "slug": "kp-lab-mediation-tools"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "trialogical-pedagogical-scenarios"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "knowledge-creation-metaphor-of-learning"
      }
     ]
    },
@@ -114518,6 +116249,19 @@
      }
     ]
    },
+   "wiles-bondi-curriculum-management-plan": {
+    "strategies": [
+     {
+      "slug": "curriculum-mapping-by-grading-periods"
+     },
+     {
+      "slug": "needs-assessment-baseline-and-projective-data"
+     },
+     {
+      "slug": "percentage-consensus-opinionnaires"
+     }
+    ]
+   },
    "womanist-restorying": {
     "claims": [
      {
@@ -114544,6 +116288,13 @@
       "slug": "provocative-objects"
      }
     ]
+   },
+   "zpd-gap-independent-versus-assisted-problem-solving": {
+    "elements": [
+     {
+      "slug": "scaffolding-adjusted-support-within-zpd"
+     }
+    ]
    }
   }
  },
@@ -114559,14 +116310,14 @@
  },
  "note": "Reverse edges: for each page, which pages link TO it. Built by scripts/build_reverse_index.py; see its docstring for why this direction rather than ## Examples.",
  "totals": {
-  "claims": 578,
-  "elements": 347,
+  "claims": 1004,
+  "elements": 418,
   "learner-variables": 12,
   "methods": 17,
-  "patterns": 131,
-  "principles": 214,
+  "patterns": 167,
+  "principles": 281,
   "processes": 12,
-  "strategies": 2570,
-  "theories": 121
+  "strategies": 2680,
+  "theories": 253
  }
 }

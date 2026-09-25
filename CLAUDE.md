@@ -103,6 +103,32 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-09-25 — the first two in-session GLM batches, and what they changed for the droplet
+
+Two batches through `run_scrape_batch.py` with GLM on **v133 and 2 correction attempts**: 96 articles
+ingested, 12 rejected as E2, 3 failed, about $0.45 in generation. Claims with coded evidence 274 → 597
+(47% → 66%), lint 0. Four things the droplet needs before it runs another batch:
+
+- **A correction retry used to carry no article.** GLM, asked to fix quotes it could not see, answered
+  "no article text was supplied" and rejected the source: 22 of batch 2's 51. It did so even once the
+  article was included. `eval_harness` now puts the article back in the retry **and accepts a rejection
+  only from the first attempt**; a retry that rejects is discarded. A re-check of batch 1's eight
+  rejections confirmed seven and overturned one (`pmc-13600062`, which now has a later `ingested` line).
+- **`verify_citation_edits.py` skips folder `index.md` files.** It stopped every batch that added pages,
+  so lint, `check_citations` and the health check never ran after one.
+- **The quote gate is doing real work.** It dropped 15 evidence entries in batch 1 and 80 in batch 2
+  (76 claims with them). Most fail within their first quarter, so they are paraphrases, not OCR noise;
+  the rest start verbatim and stitch on text the article does not contain. The decimal statistics on
+  the surviving claims check out against the article text, apart from OCR readings of scanned reports
+  (`F454=5:17` read as 5.17).
+- **Batch 3 (v133, retry fix in place)**: 32 of 125 discovered articles fetched (ERIC PDF 404s), 30 passed
+  (23 first attempt), 2 retry rejections discarded by the new guard, 1 correct E2 reject, 1 failure, $0.12.
+  The quote gate dropped 8 entries (6 claims), against batch 2's 80; all 91 decimal statistics on the new
+  claims appear in their articles. `verify_citation_edits.py` now also accepts the frontmatter
+  `resource:`/`title:` mirror lines, so a Crossref-verified DOI fill no longer stops the batch.
+- **PMC discovery is mostly off-topic**: 8 of batch 1's 10 PMC hits, and rejected correctly. Keep its
+  share small.
+
 ### 2026-09-24 — in-session extraction, and what the pre-extractor test found
 
 `eval/pre-extractor-test/` runs one article set through five extractors and scores them with one

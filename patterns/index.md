@@ -2,7 +2,7 @@
 
 Reusable instructional designs at the lesson or unit level.
 
-**131 entries** · 0 stable · 88 in review · 43 drafts
+**167 entries** · 0 stable · 88 in review · 79 drafts
 
 ---
 
@@ -152,46 +152,141 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 ## Draft
 
+Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) · [F](#letter-f) · [G](#letter-g) · [H](#letter-h) · [I](#letter-i) · [J](#letter-j) · [L](#letter-l) · [M](#letter-m) · [N](#letter-n) · [O](#letter-o) · [P](#letter-p) · [Q](#letter-q) · [R](#letter-r) · [S](#letter-s) · [T](#letter-t)
+
+#### A {: #letter-a }
+
+* [A multi-step reading lesson pattern: skimming and scanning, structured comprehension exercises, and teacher-read-aloud vocabulary clarification](multi-step-reading-lesson-pattern.md) - The article describes a lesson pattern used with an upper-intermediate reading passage on legendary places.
 * [Alternative In-School STEAM Learning Infrastructure](alternative-in-school-steam-learning-infrastructure.md) - A dedicated, ungraded, choice-rich block of school time built around a library of leveled STEAM challenges, peer expertise, and observing (not directing) facilitators — designed to make genuine interest-driven learning possible within, not just outside, the school day.
+* [Authentic project unit (Field Day) with embedded assessment tasks mapped to critical objectives](field-day-embedded-assessment-unit.md) - The Type 3 assessment is organized as a project unit (a class Field Day, including a cookie-selling sub-project) whose everyday activities double as assessment occasions.
+
+#### B {: #letter-b }
+
 * [Before-the-problem complete worked examples for a game-based puzzle task](worked-examples-for-game-based-puzzle-problem-solving.md) - A worked example intervention inserted between two rounds of a commercial computer puzzle game.
+* [Begin inclusive design work with teacher self-reflection on intersecting identities](identity-reflection-before-empathy-interviews.md) - Steps 0 and 1 of the exercise turn the teacher's gaze inward before any student contact.
 * [Bioart Boundary-Crossing Making](bioart-boundary-crossing-making.md) - A progressive, multi-institution making project design that uses living-organism art materials and low-threshold, self-buildable tools to move learners across art, science, and nature-facing institutional boundaries.
 * [Body-Scale Collaborative Geometric Construction](body-scale-collaborative-construction.md) - A group activity in which learners physically build a large geometric structure from manipulatives using only a target image and a list of properties (no assembly instructions), forcing iterative discovery and naming of structural constraints.
+
+#### C {: #letter-c }
+
+* [Cognitive-flexibility-informed early literacy instruction combines multiple knowledge linkages, multiple application cases, participatory learning, and scaffolding](cf-informed-literacy-instruction-design.md) - The article enumerates the design characteristics of an early literacy approach informed by cognitive flexibility theory: it \"includes emphasis on multiple alternative systems of linkage among knowledge elements (e.g.
+* [Collaborative approaches are participatory and characterized by active teacher and learner roles, community building, created rather than transferred knowledge, and knowledge located in the community](collaborative-approach-characteristics-adult-learning.md) - The handbook defines collaborative approaches to adult learning as participatory in nature, premised on the belief that learning is social, and characterized by six features attributed to Whipple (1987).
 * [Computational Essay Writing](computational-essay-writing.md) - Students investigate a disciplinary question by extending a provided code simulation and writing a computational essay — a document mixing prose, executable code, and visualization — to explain their question, method, and findings to peers.
+* [Computer roles as division of labor: expert, partner, and servant, each with goals, concerns, and contradictions](computer-roles-expert-partner-servant.md) - The paper's Table 1 organizes the division of labor between computers and single users in terms of the role the computer plays: expert, intellectual partner, or servant.
 * [Critical Maker-Entrepreneurialism Program](critical-maker-entrepreneurialism-program.md) - A multi-month, community-based STEM making program in which youth identify locally-rooted problems through ethnography, prototype solutions with iterative community feedback, and present at a public entrepreneurial platform while reframing "entrepreneurship" toward community benefit rather than profit or competition.
+
+#### D {: #letter-d }
+
 * [Data Storytelling — Forage, Remix, DIY](data-storytelling-forage-remix-diy.md) - A three-stage pattern that builds learners' data-storytelling and critical-data-literacy skills by moving from analyzing existing data stories, to remixing an exemplary one, to authoring and performing an original one with open data.
+* [Debate as a laboratory for argumentation theory, contingent on keeping debate practices accountable to argumentation principles](debate-laboratory-for-argumentation.md) - This pattern holds that academic debate can serve as a laboratory for studying argumentation theory — for example, testing standards for assessing arguments and decision-making — but only if debate practices remain ac...
 * [Differentiated Activity Structures for Inclusive Participation](differentiated-activity-structures-for-inclusive-participation.md) - When a participatory or deliberative process fails to sustain an underrepresented group's engagement despite outreach and translation, redesign the activity's own tools, norms, and division of labor — a dedicated deliberative space, native-language deliberation instead of sequential interpretation, and flexible agendas — rather than adding more interpretation or outreach to the existing structure.
+* [Digital learning environments characterized by problem- and project-centered, student-centered, collaborative, communicative, customized, productive and lifelong learning](digital-learning-environment-characteristics.md) - The report enumerates the characteristics learning takes on once digital content is integrated into curriculum: problem and project centered, student-centered, collaborative, communicative, customized, productive, and...
+* [Dynamic characteristics of digital content: randomly accessed, authentic, multi-level, interactive, manipulatable, instantaneous and creative](digital-content-dynamic-characteristics.md) - The report enumerates the dynamic characteristics that make digital content essential to digital learning: randomly accessed; relevant, up-to-date and authentic; explored on many levels; interactive and engaging; mani...
+
+#### E {: #letter-e }
+
 * [Embodied Physics Inquiry Through Dance Improvisation](embodied-physics-inquiry-through-dance.md) - A session structure that pairs a short physics concept demonstration with dance improvisation exploring that concept, validating culturally specific movement styles as legitimate scientific expression.
 * [Emergent Curriculum](emergent-curriculum.md) - Emergent curriculum builds instruction from students' own expressed interests as they arise, rather than from goals set in advance by curriculum writers or teachers, requiring continuous observation and flexible responsiveness in place of predetermined planning.
 * [Epistemic Games](epistemic-games.md) - Epistemic Games immerse learners in the values, identity, and situated decision-making of a professional community of practice, so that facts and skills are acquired as a byproduct of doing the community's work rather than as isolated content.
 * [Explicit Instruction in Historical Contextualization](explicit-instruction-in-historical-contextualization.md) - A two-part unit design that first gives students a reason to engage with historical background knowledge through discussion-based case studies and source-sorting, then supports the procedural writing skill of placing and connecting that background to evidence through modeled text analysis and targeted language practice.
+
+#### F {: #letter-f }
+
 * [Fiber Crafting for Proportional Reasoning](fiber-crafting-for-proportional-reasoning.md) - A multi-day craft camp (knitting, crochet, and fabric pleating) in which learners define their own stitch or fold units through personal tension and material choice, then discover multiplicative proportional relationships (e.g., stitch width-to-height ratios, row-to-row growth, unfolded-to-folded fabric ratios) as an emergent property of the material rather than a taught formula.
 * [Five "E" Model](five-e-model.md) - The Five "E" Model is a constructivist lesson pattern with five sequential stages — Engage, Explore, Explain, Elaborate, Evaluate — that structures inquiry-based lessons around students' own discovery before formal terminology is introduced.
+* [Five characteristics distinguish effective LRE programs](effective-lre-program-characteristics.md) - The digest lists five characteristics of effective LRE programs: extensive interaction among students, realistic content with balanced treatment of issues, use of outside resource persons, strong administrator support...
 * [Five-phase retrieval practice session crossing question format and level of thinking](five-phase-retrieval-practice-session-format-by-level-of-thinking.md) - The study's session design: read a passage, do a distractor task, answer mixed-format retrieval questions, do a second distractor, then take a final test.
+* [Four characteristics inherent in criterion-referenced tests](four-characteristics-criterion-referenced-tests.md) - The paper enumerates four design characteristics of criterion-referenced tests: \"the classes of behaviors that define different achievement levels are specified as clearly as is possible before the test is constructed...
+* [Functional Approach progression from oral dialogue (BICS) to written discourse (CALP)](functional-approach-bics-to-calp-progression.md) - Larsen-Pusey's Functional Approach is a teaching model that bridges the gap between oral skills and academic language: \"This model focuses on taking the students from BICS(oral dialogue) to *6ALP (written discourse)\".
 * [Funds of Knowledge Teacher-Research Model (Tucson Project)](funds-of-knowledge-teacher-research-model.md) - A research model, described in the digest, in which teachers and university researchers in education and anthropology \"enter minority households and discover knowledge and other resources therein\" and then build class...
+
+#### G {: #letter-g }
+
+* [Grading by contract: students propose specific work and criteria within teacher-presented options](grading-by-contract-fricke.md) - Contract grading is a course-level arrangement in which the teacher presents a number of options (such as a specified number of correct responses or quality of performance), and within these limits each student may th...
 * [Grounding and Unfolding Facilitation Moves](grounding-and-unfolding-facilitation-moves.md) - When a student's contribution jumps to a higher-order procedure or informal calculation during whole-class discussion, the teacher grounds it by explicitly unfolding it into the lower-order concept elements it depends on, then leverages back upward — rather than either accepting the jump uncritically or replacing it with the teacher's own procedure.
 * [Guided Equation Appropriation](guided-equation-appropriation.md) - A mentored research-apprenticeship sequence that first builds intuitive, mechanistic reasoning about a phenomenon's quantitative behavior, then introduces a formal equation, then guides the student through progressively deeper levels of reading comprehension of that equation.
+* [Guided participation: five components of adult-child learning activity](guided-participation-five-components.md) - Drawing on Rogoff (1990), the paper describes guided participation as \"a process during which the adult and child determine and carry out the learning activity\" in real world activities.
+* [Guided practice serves four broad, overlapping purposes for teacher learning](guided-practice-four-purposes.md) - In their reading of the literature, the authors found that guided practice may serve four broad and overlapping purposes: \"They include helping teachers (1) realize visions of teaching in their daily practice; (2) imp...
+
+#### H {: #letter-h }
+
 * [Herbart's Formal Steps](herbarts-formal-steps.md) - Johann Herbart's five-step lesson sequence — review, prepare, present, relate, apply — is one of the earliest systematic lesson-design patterns, built on the premise that new material must be deliberately connected to what a learner already knows.
 * [Heterogeneity-Seeking Modeling Curriculum](heterogeneity-seeking-modeling-curriculum.md) - A science modeling unit that deliberately maintains multiple, complementary model types for the same phenomenon — physical, computational, diagrammatic, embodied, observational — without converging students toward one canonical model, using open-ended facilitation prompts that ask what each model reveals rather than which model is correct.
+* [High-mediating teachers share an 'Explicitness' talk pattern across teacher talk categories](teacher-explicitness-talk-pattern.md) - Analysis of variance over the six teacher talk categories revealed a characteristic talk pattern of high-mediating teachers, which the author names \"Explicitness\".
 * [Hunter's Effective Teaching Model](hunters-effective-teaching-model.md) - Madeline Hunter's Effective Teaching Model (also called mastery teaching) combines several direct-instruction techniques into one lesson-length sequence — an anticipatory set, clear presentation in short pieces, whole-class checks for understanding, and brief interspersed independent practice with frequent feedback.
+
+#### I {: #letter-i }
+
 * [Identity-Centered E-Textile Making](identity-centered-e-textile-making.md) - A maker pattern combining e-textiles (sewable circuits, LEDs, microcontrollers) with explicit invitation for participants to author identity into their design choices, so STEM making and identity expression develop together rather than separately.
+* [Integrated simulation performance assessment design characteristics](integrated-simulation-assessment-design-characteristics.md) - The report enumerates four design characteristics of its integrated simulation performance assessment: \"(a) relevant, project-based scenarios that include meaningful, real-world tasks; (b) individual and team processe...
 * [Intelligent Mixed-Reality Exhibit](intelligent-mixed-reality-exhibit.md) - A free-choice, hands-on exhibit augmented with computer-vision sensing and an animated character that runs a predict-observe-explain cycle over contrasting physical cases, then fades guidance into open-ended construction.
 * [Interdisciplinary Course-Based Research Experience](interdisciplinary-course-based-research-experience.md) - A course design that engages disciplinarily diverse learners in a shared, authentic research practice — organized around a common boundary object that shifts function over the term — to build both disciplinary writing skill and cross-disciplinary integration.
 * [Interdisciplinary Societal Dilemma Units](interdisciplinary-societal-dilemma-units.md) - A school-based pattern that organizes interdisciplinary units around authentic societal dilemmas with no single correct answer, alternating disciplinary preparation with dialogic small-group deliberation, run out-of-school to escape institutional scheduling constraints.
+* [Interdisciplinary teacher teams with a block of time and common planning as the middle school organizational core](interdisciplinary-teaming-block-schedule.md) - The proposed organization standards specify that \"Teachers are organized into interdisciplinary teams to provide instruction in the core subjects of reading, language arts, science, mathematics, and social studies,\" s...
+
+#### J {: #letter-j }
+
+* [Jigsaw structures (within-team and expert jigsaw) create positively interdependent teams with individually accountable members](jigsaw-structures-adult-learners.md) - The manual's activities are built on two jigsaw variants.
+* [Jointly varying intrinsic and extraneous load in a Reversi game to isolate germane load effects](reversi-training-conditions-varying-intrinsic-and-extraneous-load.md) - This design pattern uses a computer-based Reversi game with three conditions crossing a display factor affecting extraneous load (Black and White vs.
 * [Just-In-Time Teaching (JiTT)](just-in-time-teaching.md) - Just-In-Time Teaching has students submit short web-based responses hours before class, letting the instructor adapt that day's activities to exactly where students are struggling, so class time shifts from content transfer to active, cooperative problem-solving.
+
+#### L {: #letter-l }
+
+* [Learning by Producing (multimedia production as learning)](learning-by-producing-pattern.md) - Position pupils as multimedia producers: they appreciate exemplar products, investigate content, plan a scenario and design blueprint, produce parts, assemble, and present/perform/appreciate, thereby acquiring multime...
 * [Luminous Science Transdisciplinary Curriculum](luminous-science-transdisciplinary-curriculum.md) - A project genre that anchors art, science, and computing instruction in students' construction of computationally-rich, aesthetic representations (e.g., programmable sculptural lanterns) of a shared living phenomenon, forcing teachers and students to negotiate epistemic criteria across disciplines rather than treat one discipline's standards as primary.
+
+#### M {: #letter-m }
+
+* [Mapping an online tutoring environment onto Bandura's four requirements](esylvan-mapping-to-bandura-requirements.md) - The paper enumerates how eSylvan instantiated each of Bandura's four requirements in its design.
 * [Massive Open Online Course (MOOC)](massive-open-online-course.md) - A course-grain pattern combining open enrollment, video-based instruction, and light-touch automated or peer assessment at scale — whose original connectivist, networked-learning design was largely abandoned once commercial "xMOOC" platforms adopted a broadcast, video-lecture-plus-quiz model instead.
+* [Mastery learning cycle of formative tests, correctives, and relearning](mastery-learning-formative-corrective-cycle.md) - A lesson-level instructional pattern in which \"Students take frequent \\\"formative tests\\\" to measure their learning progress\" and these are \"followed by correc-\"tions and opportunities to relearn material not yet unde...
+* [Mild-disturbance classrooms approach conventional classrooms with minimal enclosed space](mild-disturbance-conventional-classroom-minimal-enclosure.md) - At the mildest level the booklet reduces special provisions: \"In classrooms for mildly disturbed children there is less need for enclosed spaces such as quiet rooms and study carrels.\" Drawing 7 is fully open with no...
+* [Moderate-disturbance classrooms merge consultation into the quiet room and add group-project space](moderate-disturbance-shared-quiet-consultation-room.md) - For moderately disturbed children the booklet relaxes the severe-disorder scheme: \"Classrooms for moderately disturbed children differ from those for severely disturbed children in the elimination of separate consulta...
 * [Multilevel Professional Development School Partnership](multilevel-professional-development-school-partnership.md) - A three-tier meeting structure — a strategic policy group, a middle-management "broad knowledge community," and within-school "small knowledge communities" — for building a durable research-practice partnership between a teacher-education institution and multiple schools.
+
+#### N {: #letter-n }
+
+* [Nine principles of community-based education grounded in democratic participation](principles-of-community-based-education.md) - The paper enumerates nine principles of community-based education drawn from various writers: self-determination, self-help, leadership development, localization, integrated delivery of services, reduced duplication o...
+
+#### O {: #letter-o }
+
 * [Online Course Design (Community of Inquiry)](online-course-design.md) - A course-level pattern for designing online courses around Moore's three types of interaction and the Community of Inquiry's cognitive, social, and teaching presences, to counteract the transactional distance learners feel online.
+* [Online Peer Assisted Learning Community](online-peer-assisted-learning-community.md) - A reusable lesson- and course-level design in which an online learning community is built on peer assisted learning, blended learning, and knowledge management.
+* [Open-ended scenario: collaboratively planned, acted-out, and debriefed role play for language learners](open-ended-scenario-three-phase-structure.md) - The open-ended scenario is a pedagogical device designed by DiPietro (1981) that \"resembles a role play in that it grows from a set of circumstances\" but differs in that \"the dialogues are planned collaboratively by t...
 * [Organization Simulation for Interdisciplinary Learning](organization-simulation-for-interdisciplinary-learning.md) - A higher-education pattern in which interdisciplinary student teams role-play a consulting organization competing to win a real external client's business, building a shared, evolving proposal as the vehicle for interdisciplinary integration.
+
+#### P {: #letter-p }
+
 * [PAIR-C Framework (Pattern, Agents, Interactions, Relations, Causality)](pair-c-framework.md) - A five-dimension instructional scaffold for teaching emergent phenomena (e.g., natural selection, collective behavior) by explicitly contrasting decentralized, collective causal structure with sequential, individualistic causal structure.
+* [Portfolio entries with written commentary for assessing teaching practice](portfolio-with-written-commentary-assessment.md) - The digest describes a uniform assessment structure in which \"a school-site portfolio that contained six entries - four classroom-based entries and two Documented Accomplishments Entries\" and notes that \"All six entri...
 * [Productive Ambiguity Task Design for Assumptions](productive-ambiguity-task-design-for-assumptions.md) - A mathematics task design that deliberately leaves a local assumption (a task condition or the meaning of a lay term) unspecified, so that students generate genuinely contradictory yet individually legitimate answers, then are guided to recognize why an explicit assumption is needed and to revise the task's wording themselves.
 * [Programmed Instruction](programmed-instruction.md) - Programmed Instruction breaks content into small self-contained steps, each requiring an active response with immediate confirmation, so learners advance individually rather than at a group's pace.
 * [Project Space and Instructional Space](project-and-instructional-space.md) - Reigeluth's response to problem-based instruction's weaknesses — learners work on an authentic project and "freeze" it whenever they hit a learning gap, moving into an individualized instructional space for targeted mastery practice before returning to apply the new skill.
+
+#### Q {: #letter-q }
+
 * [Quilt Project: Six-Session Integrated STEM Unit](quilt-project-six-session-integrated-stem-unit.md) - A six-session project developed for the GEMS afterschool club by expanding a quilt mathematics task.
+
+#### R {: #letter-r }
+
+* [Rigid zoning with clearly separated noisy and quiet areas for severely disturbed children](severe-disturbance-rigid-noisy-quiet-zoning.md) - For severely disturbed children the booklet prescribes the most structured arrangement: \"The schemes for teaching areas for severely disturbed children are fairly rigid in their design.
+
+#### S {: #letter-s }
+
 * [Scripted Personally Meaningful Inquiry](scripted-personally-meaningful-inquiry.md) - A six-step classroom-to-field-to-classroom inquiry sequence, supported by a persistent visual inquiry-cycle diagram, in which students collectively frame a personally meaningful question, collect data individually outside the classroom, and return to jointly analyze shared results — including explaining unexpected or inconclusive findings.
+* [Seven basic characteristics of trialogical learning processes](trialogical-learning-design-characteristics.md) - The paper enumerates seven features that any learning or knowledge creation process following the trialogical approach shows: activities organised around developing shared objects aimed at re-usable artefacts or pract...
 * [Seven-Lesson Kindergarten Equal Sign Sequence](kindergarten-balance-scale-equal-sign-lesson-sequence.md) - Seven lessons within an 18-lesson kindergarten early algebra intervention that \"focused specifically on developing students’ understandings of mathematical equivalence and fluency with equations\".
+* [Shared power: previously excluded students, families, and communities co-create and shape educational systems, policies, and practices](shared-power-co-creation-of-educational-systems.md) - The brief characterizes rightful presence by \"a fundamental shift in power\" in which students, families, and communities who most frequently experience systemic inequities become integral in the shaping and design of...
 * [Social-constructionist collaborative writing classroom](social-constructionist-collaborative-writing-classroom.md) - In the collaborative classroom the paper describes, \"the teacher is a facilitator, setting up an environment for students to work together on all stages of the writing process\", from getting ideas through several drafts.
+* [Spacing effects are best manipulated within the drill-and-practice category of CAI](spacing-effects-in-drill-and-practice-cai.md) - The dissertation reviews five categories of computer assisted instruction — tutorials, drill-and-practice, simulation, instructional games, and problem-solving — and argues that while spaced practice and spaced review...
 * [Storyline Science Curriculum Design](storyline-science-curriculum-design.md) - A science unit design in which lessons are organized around a sequence of questions students themselves generate in response to an anchoring phenomenon, written from the student's own perspective, rather than around a sequence of disciplinary topics.
+* [Student-Authored Texts for Conceptual Change](student-authored-texts-for-conceptual-change.md) - A literacy-instruction pattern in which students research a concept in voluntary groups, write individual interpretations, exchange and compare them with peers' texts and their prior knowledge, build collective concep...
+* [Successful districts pursue LRE through four coordinated courses of action: explicit policy decisions, new less restrictive alternatives, improved placement decisions, and attitude change](lea-four-course-lre-strategy.md) - The report identifies a reusable district-level design pattern for achieving LRE.
 * [Synthetic Planning for Discovery-Oriented Writing](synthetic-planning-for-discovery-oriented-writing.md) - A writing-task design that deliberately withholds a detailed structural outline — asking writers only to state their overall goal before drafting — so that spontaneous, minimally-planned sentence production can generate new ideas, at the cost of initial text quality that must be repaired through global revision.
+
+#### T {: #letter-t }
+
 * [Threading, Weaving, Patternmaking](threading-weaving-patternmaking.md) - A three-phase science unit sequence that moves learners from critical annotation of texts exposing embedded bias, through cross-source synthesis, to speculative multimedia redesign of a more just future.
+* [Three aspects of children's language knowledge hypothesized to support fluent reading acquisition](three-language-knowledge-aspects-for-reading.md) - In analyzing how home-school language switching affects reading development, the paper distinguishes three general aspects of children's knowledge of language hypothesized as important for acquiring fluent reading ski...
 * [Three Practices for Ontological Alignment in Computational Modeling](three-practices-for-ontological-alignment-in-computational-modeling.md) - Three classroom practices — elevating student ideas that match a tool's representational units, explicitly testing links between conceptual and computational models, and introducing evidence that speaks directly to the tool's representational claims — for introducing a computational modeling tool so its structure aligns with students' existing thinking.
+

@@ -12,16 +12,16 @@ A persistent, LLM-maintained knowledge base for learning design. Read [CLAUDE.md
 
 ## Knowledge Types
 
-### [Principles](principles/index.md) (214)
+### [Principles](principles/index.md) (281)
 Research-backed design commitments: what to do and why.
 
-### [Elements](elements/index.md) (347)
+### [Elements](elements/index.md) (418)
 Instructional building blocks — the components you compose into patterns.
 
-### [Patterns](patterns/index.md) (131)
+### [Patterns](patterns/index.md) (167)
 Reusable instructional designs at the lesson or unit level.
 
-### [Strategies](strategies/index.md) (2570)
+### [Strategies](strategies/index.md) (2680)
 Concrete teaching activity recipes — specific, implementable approaches.
 
 ### [Design Processes](processes/index.md) (12)
@@ -30,13 +30,13 @@ How a course gets designed — whole-process models a designer works through, ra
 ### [Design Methods](methods/index.md) (17)
 The practices a design process is made of — analysis, elicitation, mapping and evaluation work done on the design, not in the classroom.
 
-### [Theories](theories/index.md) (121)
+### [Theories](theories/index.md) (253)
 Explanatory frameworks that ground principles and claims.
 
 ### [Learner Variables](learner-variables/index.md) (12)
 Canonical learner characteristics claims report findings about — one page per variable, so the same concept does not fragment across differently-worded tags.
 
-### [Claims](claims/index.md) (578)
+### [Claims](claims/index.md) (1004)
 Empirical claims with evidence ratings, sources, and competing views.
 
 ---

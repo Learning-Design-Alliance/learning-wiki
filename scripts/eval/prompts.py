@@ -165,7 +165,9 @@ guess. If you cannot be confident of the real identifier, omit doi_or_url from t
 rather than replacing one fabrication with another — an omitted identifier passes structural validation, \
 a fabricated one does not."""
 
-    return f"""Your previous JSON output failed structural validation with these issues:
+    return f"""The article is above; everything below is about your previous answer to it.
+
+Your previous JSON output failed structural validation with these issues:
 
 {issue_lines}
 

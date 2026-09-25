@@ -248,6 +248,20 @@ def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
         except JSONExtractionError as e:
             record["parse_error"] = str(e)
 
+        # A rejection is a judgment about the source, so it is accepted only from the
+        # first attempt, which is the only one asked to read the article. On a correction
+        # attempt GLM answered "no article text was supplied" and rejected good sources
+        # (22 of batch-2's 51 articles, 2026-09-25), with the article in the prompt or not.
+        # Such a reply is discarded: the previous answer stands and retrying stops, so the
+        # article is recorded as a validation failure and stays eligible for a later batch.
+        inc = parsed.get("inclusion") if isinstance(parsed, dict) else None
+        if attempt > 0 and isinstance(inc, dict) and inc.get("verdict") == "reject":
+            record["raw_text"], record["parsed"], record["parse_error"] = prev_attempt
+            record["correction_rejected_discarded"] = True
+            parsed = record["parsed"]
+            break
+        prev_attempt = (record["raw_text"], record["parsed"], record["parse_error"])
+
         try:
             report = validator.validate_output(parsed or {}, existing_slugs, ground_truth_enabled=ground_truth,
                                                 require_source_quotes=require_source_quotes,
@@ -283,7 +297,15 @@ def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
         if record["validation"]["passed"] or attempt == max_correction_attempts:
             break
 
-        current_prompt = prompts.build_correction_prompt(gen.raw_text, record["validation"]["issues"])
+        # The correction request goes AFTER the original prompt, never in place of it.
+        # Sent alone it carried no article: the model was asked to fix quotes and
+        # citations it could no longer see, and under v133's inclusion rule it
+        # answered "no article text was supplied" and rejected the source. 22 of
+        # batch-2's 51 articles (2026-09-25) were rejected that way, including
+        # elaborative interrogation and ICAP. A rejection written without the
+        # article is not a judgment about it.
+        current_prompt = (original_user_prompt + "\n\n---\n\n"
+                          + prompts.build_correction_prompt(gen.raw_text, record["validation"]["issues"]))
 
     if parsed:
         try:
