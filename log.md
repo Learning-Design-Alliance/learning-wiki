@@ -10,6 +10,8 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/comparing-contrasting-cases-improve-learning](claims/comparing-contrasting-cases-improve-learning.md) — Evidence copied from the verified entry on its near-duplicate sibling page
+* **Ingest**: [claims/activation](claims/activation.md) — Evidence copied from the verified entry on its near-duplicate sibling page
 * **Ingest**: [claims/acute-exercise-timing-memory](claims/acute-exercise-timing-memory.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/fiction-reading-improves-empathy](claims/fiction-reading-improves-empathy.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/self-explanation-improves-learning](claims/self-explanation-improves-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
