@@ -96,6 +96,17 @@ def classify_doi(doi: str, cluster_title_words: set, cited_title_text: str = Non
         if cited_title_text and not cc.titles_align(cited_title_text, resolved_title):
             return {"status": "wrong_paper", "title": resolved_title}
         return {"status": "verified", "title": resolved_title}
+    # A truncated registry record. Crossref gives Roediger & Karpicke (2006) as
+    # just "Test-Enhanced Learning", and two words can never reach the overlap
+    # threshold against the nine-word published title, so the correct DOI read
+    # as a different paper. A registry title that the cited title BEGINS with
+    # is the same title cut short (CLAUDE.md: "a registry title that is merely
+    # a prefix of the page's is a truncated record"). Two words minimum, so a
+    # one-word record cannot vouch for anything.
+    if cited_title_text:
+        c_norm, r_norm = cc._norm_title(cited_title_text), cc._norm_title(resolved_title)
+        if len(r_norm.split()) >= 2 and (c_norm == r_norm or c_norm.startswith(r_norm + " ")):
+            return {"status": "verified", "title": resolved_title}
     return {"status": "wrong_paper", "title": resolved_title}
 
 

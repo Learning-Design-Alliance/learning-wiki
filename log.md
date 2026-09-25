@@ -10,6 +10,14 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/feedback-improves-learning](claims/feedback-improves-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/graphic-organizers-support-novice-comprehension](claims/graphic-organizers-support-novice-comprehension.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/clear-structure-improves-learning](claims/clear-structure-improves-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/block-play-predicts-math-achievement](claims/block-play-predicts-math-achievement.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/civic-online-reasoning-instruction-improves-evaluation](claims/civic-online-reasoning-instruction-improves-evaluation.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/productive-failure-improves-conceptual-learning](claims/productive-failure-improves-conceptual-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/retrieval-practice-improves-retention](claims/retrieval-practice-improves-retention.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/adaptive-learning-improves-outcomes](claims/adaptive-learning-improves-outcomes.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/collaborative-learning-improves-outcomes](claims/collaborative-learning-improves-outcomes.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/checklist-evaluation-ineffective-online](claims/checklist-evaluation-ineffective-online.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/authentic-audiences-improve-student-work](claims/authentic-audiences-improve-student-work.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
