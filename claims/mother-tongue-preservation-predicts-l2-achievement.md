@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: cummins-1979
-    resource: "https://eric.ed.gov/?id=ED257312"
-    title: "Cummins, James. (1979). Linguistic Interdependence and the Educational Development of Bilingual Children. Bilingual Education Paper Series, Vol. 3 No. 2. https://eric.ed.gov/?id=ED257312"
+    resource: "https://doi.org/10.3102/00346543049002222"
+    title: "Cummins, James. (1979). Linguistic Interdependence and the Educational Development of Bilingual Children. Bilingual Education Paper Series, Vol. 3 No. 2. https://eric.ed.gov/?id=ED257312. [doi:10.3102/00346543049002222](https://doi.org/10.3102/00346543049002222)"
     author: Cummins, James
     q: 2
     i: "?"

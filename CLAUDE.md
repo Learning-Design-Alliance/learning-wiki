@@ -121,6 +121,11 @@ ingested, 12 rejected as E2, 3 failed, about $0.45 in generation. Claims with co
   the rest start verbatim and stitch on text the article does not contain. The decimal statistics on
   the surviving claims check out against the article text, apart from OCR readings of scanned reports
   (`F454=5:17` read as 5.17).
+- **Batch 3 (v133, retry fix in place)**: 32 of 125 discovered articles fetched (ERIC PDF 404s), 30 passed
+  (23 first attempt), 2 retry rejections discarded by the new guard, 1 correct E2 reject, 1 failure, $0.12.
+  The quote gate dropped 8 entries (6 claims), against batch 2's 80; all 91 decimal statistics on the new
+  claims appear in their articles. `verify_citation_edits.py` now also accepts the frontmatter
+  `resource:`/`title:` mirror lines, so a Crossref-verified DOI fill no longer stops the batch.
 - **PMC discovery is mostly off-topic**: 8 of batch 1's 10 PMC hits, and rejected correctly. Keep its
   share small.
 

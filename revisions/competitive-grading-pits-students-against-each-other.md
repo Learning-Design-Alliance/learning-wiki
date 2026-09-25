@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/competitive-grading-pits-students-against-each-other.md
+---
+
+# Revision history: [claims/competitive-grading-pits-students-against-each-other](../claims/competitive-grading-pits-students-against-each-other.md)
+
+### 2026-09-25 · ingest · process:wiki-ingest
+Ingested from eric-ed061264 (Toward Excellence in Teaching: Grading Practices.) via eval_harness.py + ingest_extractions.py

@@ -68,8 +68,22 @@ def changed_pairs(diff: str):
                        new[i] if i < len(new) else None)
 
 
+# The frontmatter `sources:` block mirrors each body citation (CLAUDE.md, Frontmatter fields),
+# and a DOI fill rewrites both: the body line and, in frontmatter, the entry's `resource:` URL
+# and its `title:` string. Those two mirror shapes are recognised here and nothing else in
+# frontmatter is: batch 3 (2026-09-25) stopped on 14 such lines from one Crossref-verified fill.
+_FM_RESOURCE = re.compile(r'^\s+resource:\s*"?https?://\S+?"?\s*$')
+_FM_TITLE = re.compile(r'^\s+title:\s*"?(.*?)"?\s*$')
+
+
 def is_citation(line) -> bool:
-    return bool(line) and bool(cc.CITATION_KEY_RE.search(line.strip()))
+    if not line:
+        return False
+    if _FM_RESOURCE.match(line):
+        return True
+    m = _FM_TITLE.match(line)
+    text = m.group(1) if m else line.strip()
+    return bool(cc.CITATION_KEY_RE.search(text))
 
 
 def main() -> None:

@@ -2,7 +2,7 @@
 
 Reusable instructional designs at the lesson or unit level.
 
-**157 entries** · 0 stable · 88 in review · 69 drafts
+**167 entries** · 0 stable · 88 in review · 79 drafts
 
 ---
 
@@ -152,7 +152,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 ## Draft
 
-Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) · [F](#letter-f) · [G](#letter-g) · [H](#letter-h) · [I](#letter-i) · [J](#letter-j) · [L](#letter-l) · [M](#letter-m) · [N](#letter-n) · [O](#letter-o) · [P](#letter-p) · [Q](#letter-q) · [S](#letter-s) · [T](#letter-t)
+Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) · [F](#letter-f) · [G](#letter-g) · [H](#letter-h) · [I](#letter-i) · [J](#letter-j) · [L](#letter-l) · [M](#letter-m) · [N](#letter-n) · [O](#letter-o) · [P](#letter-p) · [Q](#letter-q) · [R](#letter-r) · [S](#letter-s) · [T](#letter-t)
 
 #### A {: #letter-a }
 
@@ -170,6 +170,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### C {: #letter-c }
 
 * [Cognitive-flexibility-informed early literacy instruction combines multiple knowledge linkages, multiple application cases, participatory learning, and scaffolding](cf-informed-literacy-instruction-design.md) - The article enumerates the design characteristics of an early literacy approach informed by cognitive flexibility theory: it \"includes emphasis on multiple alternative systems of linkage among knowledge elements (e.g.
+* [Collaborative approaches are participatory and characterized by active teacher and learner roles, community building, created rather than transferred knowledge, and knowledge located in the community](collaborative-approach-characteristics-adult-learning.md) - The handbook defines collaborative approaches to adult learning as participatory in nature, premised on the belief that learning is social, and characterized by six features attributed to Whipple (1987).
 * [Computational Essay Writing](computational-essay-writing.md) - Students investigate a disciplinary question by extending a provided code simulation and writing a computational essay — a document mixing prose, executable code, and visualization — to explain their question, method, and findings to peers.
 * [Computer roles as division of labor: expert, partner, and servant, each with goals, concerns, and contradictions](computer-roles-expert-partner-servant.md) - The paper's Table 1 organizes the division of labor between computers and single users in terms of the role the computer plays: expert, intellectual partner, or servant.
 * [Critical Maker-Entrepreneurialism Program](critical-maker-entrepreneurialism-program.md) - A multi-month, community-based STEM making program in which youth identify locally-rooted problems through ethnography, prototype solutions with iterative community feedback, and present at a public entrepreneurial platform while reframing "entrepreneurship" toward community benefit rather than profit or competition.
@@ -193,8 +194,10 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [Fiber Crafting for Proportional Reasoning](fiber-crafting-for-proportional-reasoning.md) - A multi-day craft camp (knitting, crochet, and fabric pleating) in which learners define their own stitch or fold units through personal tension and material choice, then discover multiplicative proportional relationships (e.g., stitch width-to-height ratios, row-to-row growth, unfolded-to-folded fabric ratios) as an emergent property of the material rather than a taught formula.
 * [Five "E" Model](five-e-model.md) - The Five "E" Model is a constructivist lesson pattern with five sequential stages — Engage, Explore, Explain, Elaborate, Evaluate — that structures inquiry-based lessons around students' own discovery before formal terminology is introduced.
+* [Five characteristics distinguish effective LRE programs](effective-lre-program-characteristics.md) - The digest lists five characteristics of effective LRE programs: extensive interaction among students, realistic content with balanced treatment of issues, use of outside resource persons, strong administrator support...
 * [Five-phase retrieval practice session crossing question format and level of thinking](five-phase-retrieval-practice-session-format-by-level-of-thinking.md) - The study's session design: read a passage, do a distractor task, answer mixed-format retrieval questions, do a second distractor, then take a final test.
 * [Four characteristics inherent in criterion-referenced tests](four-characteristics-criterion-referenced-tests.md) - The paper enumerates four design characteristics of criterion-referenced tests: \"the classes of behaviors that define different achievement levels are specified as clearly as is possible before the test is constructed...
+* [Functional Approach progression from oral dialogue (BICS) to written discourse (CALP)](functional-approach-bics-to-calp-progression.md) - Larsen-Pusey's Functional Approach is a teaching model that bridges the gap between oral skills and academic language: \"This model focuses on taking the students from BICS(oral dialogue) to *6ALP (written discourse)\".
 * [Funds of Knowledge Teacher-Research Model (Tucson Project)](funds-of-knowledge-teacher-research-model.md) - A research model, described in the digest, in which teachers and university researchers in education and anthropology \"enter minority households and discover knowledge and other resources therein\" and then build class...
 
 #### G {: #letter-g }
@@ -209,6 +212,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [Herbart's Formal Steps](herbarts-formal-steps.md) - Johann Herbart's five-step lesson sequence — review, prepare, present, relate, apply — is one of the earliest systematic lesson-design patterns, built on the premise that new material must be deliberately connected to what a learner already knows.
 * [Heterogeneity-Seeking Modeling Curriculum](heterogeneity-seeking-modeling-curriculum.md) - A science modeling unit that deliberately maintains multiple, complementary model types for the same phenomenon — physical, computational, diagrammatic, embodied, observational — without converging students toward one canonical model, using open-ended facilitation prompts that ask what each model reveals rather than which model is correct.
+* [High-mediating teachers share an 'Explicitness' talk pattern across teacher talk categories](teacher-explicitness-talk-pattern.md) - Analysis of variance over the six teacher talk categories revealed a characteristic talk pattern of high-mediating teachers, which the author names \"Explicitness\".
 * [Hunter's Effective Teaching Model](hunters-effective-teaching-model.md) - Madeline Hunter's Effective Teaching Model (also called mastery teaching) combines several direct-instruction techniques into one lesson-length sequence — an anticipatory set, clear presentation in short pieces, whole-class checks for understanding, and brief interspersed independent practice with frequent feedback.
 
 #### I {: #letter-i }
@@ -233,8 +237,11 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### M {: #letter-m }
 
+* [Mapping an online tutoring environment onto Bandura's four requirements](esylvan-mapping-to-bandura-requirements.md) - The paper enumerates how eSylvan instantiated each of Bandura's four requirements in its design.
 * [Massive Open Online Course (MOOC)](massive-open-online-course.md) - A course-grain pattern combining open enrollment, video-based instruction, and light-touch automated or peer assessment at scale — whose original connectivist, networked-learning design was largely abandoned once commercial "xMOOC" platforms adopted a broadcast, video-lecture-plus-quiz model instead.
 * [Mastery learning cycle of formative tests, correctives, and relearning](mastery-learning-formative-corrective-cycle.md) - A lesson-level instructional pattern in which \"Students take frequent \\\"formative tests\\\" to measure their learning progress\" and these are \"followed by correc-\"tions and opportunities to relearn material not yet unde...
+* [Mild-disturbance classrooms approach conventional classrooms with minimal enclosed space](mild-disturbance-conventional-classroom-minimal-enclosure.md) - At the mildest level the booklet reduces special provisions: \"In classrooms for mildly disturbed children there is less need for enclosed spaces such as quiet rooms and study carrels.\" Drawing 7 is fully open with no...
+* [Moderate-disturbance classrooms merge consultation into the quiet room and add group-project space](moderate-disturbance-shared-quiet-consultation-room.md) - For moderately disturbed children the booklet relaxes the severe-disorder scheme: \"Classrooms for moderately disturbed children differ from those for severely disturbed children in the elimination of separate consulta...
 * [Multilevel Professional Development School Partnership](multilevel-professional-development-school-partnership.md) - A three-tier meeting structure — a strategic policy group, a middle-management "broad knowledge community," and within-school "small knowledge communities" — for building a durable research-practice partnership between a teacher-education institution and multiple schools.
 
 #### N {: #letter-n }
@@ -245,6 +252,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [Online Course Design (Community of Inquiry)](online-course-design.md) - A course-level pattern for designing online courses around Moore's three types of interaction and the Community of Inquiry's cognitive, social, and teaching presences, to counteract the transactional distance learners feel online.
 * [Online Peer Assisted Learning Community](online-peer-assisted-learning-community.md) - A reusable lesson- and course-level design in which an online learning community is built on peer assisted learning, blended learning, and knowledge management.
+* [Open-ended scenario: collaboratively planned, acted-out, and debriefed role play for language learners](open-ended-scenario-three-phase-structure.md) - The open-ended scenario is a pedagogical device designed by DiPietro (1981) that \"resembles a role play in that it grows from a set of circumstances\" but differs in that \"the dialogues are planned collaboratively by t...
 * [Organization Simulation for Interdisciplinary Learning](organization-simulation-for-interdisciplinary-learning.md) - A higher-education pattern in which interdisciplinary student teams role-play a consulting organization competing to win a real external client's business, building a shared, evolving proposal as the vehicle for interdisciplinary integration.
 
 #### P {: #letter-p }
@@ -259,6 +267,10 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [Quilt Project: Six-Session Integrated STEM Unit](quilt-project-six-session-integrated-stem-unit.md) - A six-session project developed for the GEMS afterschool club by expanding a quilt mathematics task.
 
+#### R {: #letter-r }
+
+* [Rigid zoning with clearly separated noisy and quiet areas for severely disturbed children](severe-disturbance-rigid-noisy-quiet-zoning.md) - For severely disturbed children the booklet prescribes the most structured arrangement: \"The schemes for teaching areas for severely disturbed children are fairly rigid in their design.
+
 #### S {: #letter-s }
 
 * [Scripted Personally Meaningful Inquiry](scripted-personally-meaningful-inquiry.md) - A six-step classroom-to-field-to-classroom inquiry sequence, supported by a persistent visual inquiry-cycle diagram, in which students collectively frame a personally meaningful question, collect data individually outside the classroom, and return to jointly analyze shared results — including explaining unexpected or inconclusive findings.
@@ -266,6 +278,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Seven-Lesson Kindergarten Equal Sign Sequence](kindergarten-balance-scale-equal-sign-lesson-sequence.md) - Seven lessons within an 18-lesson kindergarten early algebra intervention that \"focused specifically on developing students’ understandings of mathematical equivalence and fluency with equations\".
 * [Shared power: previously excluded students, families, and communities co-create and shape educational systems, policies, and practices](shared-power-co-creation-of-educational-systems.md) - The brief characterizes rightful presence by \"a fundamental shift in power\" in which students, families, and communities who most frequently experience systemic inequities become integral in the shaping and design of...
 * [Social-constructionist collaborative writing classroom](social-constructionist-collaborative-writing-classroom.md) - In the collaborative classroom the paper describes, \"the teacher is a facilitator, setting up an environment for students to work together on all stages of the writing process\", from getting ideas through several drafts.
+* [Spacing effects are best manipulated within the drill-and-practice category of CAI](spacing-effects-in-drill-and-practice-cai.md) - The dissertation reviews five categories of computer assisted instruction — tutorials, drill-and-practice, simulation, instructional games, and problem-solving — and argues that while spaced practice and spaced review...
 * [Storyline Science Curriculum Design](storyline-science-curriculum-design.md) - A science unit design in which lessons are organized around a sequence of questions students themselves generate in response to an anchoring phenomenon, written from the student's own perspective, rather than around a sequence of disciplinary topics.
 * [Student-Authored Texts for Conceptual Change](student-authored-texts-for-conceptual-change.md) - A literacy-instruction pattern in which students research a concept in voluntary groups, write individual interpretations, exchange and compare them with peers' texts and their prior knowledge, build collective concep...
 * [Successful districts pursue LRE through four coordinated courses of action: explicit policy decisions, new less restrictive alternatives, improved placement decisions, and attitude change](lea-four-course-lre-strategy.md) - The report identifies a reusable district-level design pattern for achieving LRE.
