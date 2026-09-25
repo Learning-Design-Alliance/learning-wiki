@@ -10,14 +10,19 @@ A persistent, LLM-maintained knowledge base for learning design — research-bac
 
 ## What's inside
 
+Page counts as of September 2026.
+
 | Type | Count | Description |
 |------|-------|-------------|
-| [Principles](principles/) | 133 | Research-backed design commitments — what to do and why |
-| [Elements](elements/) | 239 | Instructional building blocks you compose into designs |
-| [Patterns](patterns/) | 77 | Reusable designs at lesson or unit level |
-| [Strategies](strategies/) | 1604 | Concrete teaching activity recipes |
-| [Theories](theories/) | 9 | Explanatory frameworks that ground principles and claims |
-| [Claims](claims/) | 19 | Empirical claims with evidence ratings and sources |
+| [Principles](principles/) | 320 | Research-backed design commitments — what to do and why |
+| [Elements](elements/) | 450 | Instructional building blocks you compose into designs |
+| [Patterns](patterns/) | 181 | Reusable designs at lesson or unit level |
+| [Strategies](strategies/) | 2,740 | Concrete teaching activity recipes |
+| [Processes](processes/) | 12 | Whole design processes a designer works through (ADDIE, SAM, design thinking) |
+| [Methods](methods/) | 17 | The practices a design process is made of (task analysis, personas, backward design) |
+| [Theories](theories/) | 343 | Explanatory frameworks that ground principles and claims |
+| [Learner variables](learner-variables/) | 12 | Learner characteristics that moderate what works |
+| [Claims](claims/) | 1,323 | Empirical claims with evidence ratings and sources |
 
 ---
 

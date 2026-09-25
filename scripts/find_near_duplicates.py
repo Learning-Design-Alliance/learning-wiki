@@ -34,7 +34,7 @@ Usage:
     python3 scripts/find_near_duplicates.py --type principles --out report.md
     python3 scripts/find_near_duplicates.py --type strategies --stage1-only  # just see candidate groups
     python3 scripts/find_near_duplicates.py --type strategies --provider openrouter  # cheaper (GLM)
-    python3 scripts/find_near_duplicates.py --cross-folder --out cross-folder-report.md
+    python3 scripts/find_near_duplicates.py --cross-folder --out eval/runs/cross-folder-report.md
 """
 
 import argparse

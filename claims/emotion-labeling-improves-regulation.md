@@ -3,26 +3,40 @@ type: claim
 title: Emotion Labeling Improves Regulation
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: emotion-labeling-improves-regulation
 evidence_strength: weak
+sources:
+  - id: kircanski-et-al-2012
+    resource: "https://doi.org/10.1177/0956797612443830"
+    title: "Kircanski, K., Lieberman, M. D., & Craske, M. G. (2012). Feelings into words: Contributions of language to exposure therapy. *Psychological Science, 23*(10), 1086–1091. [doi:10.1177/0956797612443830](https://doi.org/10.1177/0956797612443830)"
+    author: "Kircanski, K., Lieberman, M. D., & Craske, M. G."
+    q: 3
+    i: 2
+    n: 88 (22 per group)
 ---
 
 # Emotion Labeling Improves Regulation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium · n=88 (22 per group)
 
 Putting feelings into words — naming an emotional state with a specific label — helps learners understand and manage that state, supporting self-regulation during learning.
 
 ## Subclaims
 
-<!-- TODO -->
+`q3 i2` In a randomized controlled experiment with fearful adults undergoing brief exposure to a live spider, labeling the feared stimulus with anxiety/fear words produced significantly greater physiological (skin-conductance) fear reduction one week later than reappraisal, distraction, or exposure alone — but did not reduce self-reported fear more than the other conditions. [→ Kircanski et al. 2012](#kircanski-et-al-2012)
 
 ## Evidence
 
-<!-- TODO -->
+### Kircanski et al. 2012
+
+Kircanski, K., Lieberman, M. D., & Craske, M. G. (2012). Feelings into words: Contributions of language to exposure therapy. *Psychological Science, 23*(10), 1086–1091. [doi:10.1177/0956797612443830](https://doi.org/10.1177/0956797612443830)
+
+`q3 · randomized between-subjects experiment (not pre-registered)` · `i2 · medium-to-large effect, d=0.64–0.85 at 1-week follow-up` · `n=88 (22 per group)`
+
+88 spider-fearful adults (undergraduates and community members, 82% female) were randomly assigned to one of four groups (22 each) during repeated live-exposure trials to a tarantula: affect labeling (describing the feared stimulus and one's reactions using negative-emotion words), reappraisal, distraction, or exposure alone. At a one-week follow-up, the affect-labeling group showed a significantly larger drop in skin conductance response (a physiological arousal measure) than the reappraisal group (*d* = 0.85, *p* = .005), the distraction group (*d* = 0.74, *p* = .017), and the exposure-alone group (*d* = 0.64, *p* = .044); a contrast comparing labeling against all other groups combined was significant (*p* = .004). Labeling also showed marginally greater behavioral approach toward the spider than distraction (*d* = 0.59, *p* = .054) at the same follow-up. However, the affect-labeling group did **not** differ from the other groups in self-reported fear at any test occasion — the benefit showed up only in the physiological and (marginally) behavioral measures, not in what participants said they felt. Greater spontaneous use of anxiety/fear words during exposure independently predicted greater physiological fear reduction (*r* = −.288, *p* = .019).
 
 ## Discussion
 
@@ -30,9 +44,9 @@ Putting feelings into words — naming an emotional state with a specific label 
 
 **Boundary conditions to establish.** Several moderators are plausible but currently unverified on this page: (a) labeling may help most when emotions are moderately intense — very low-intensity states may not warrant labeling, and very high-intensity states may overwhelm the labeling process itself; (b) the specificity of the label likely matters — a differentiated vocabulary for emotions (e.g., distinguishing frustration from boredom from anxiety) should support more targeted regulation than a coarse good/bad distinction, which connects to the role of [Accessible vocabulary & syntax](../principles/accessible-vocabulary-syntax.md) in making labels usable for all learners; (c) cultural and individual display norms may affect willingness to label emotions publicly versus privately, which matters for whether labeling is designed as a shared classroom routine or a private reflection.
 
-**Design implications pending evidence.** Until controlled studies are available, designers should treat labeling as a low-cost, low-risk component of broader self-regulation scaffolds rather than a standalone intervention with established effect sizes. Pairing labeling with an explicit regulation step (e.g., "name it, then choose a strategy") hedges against the possibility that labeling alone is insufficient without a subsequent action. This pairing logic mirrors the structure of other monitoring-plus-control claims in this wiki, such as [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md), where the benefit comes from acting on monitoring information rather than from monitoring alone.
+**How far the evidence reaches.** The one study recorded above is a clinical exposure experiment with spider-fearful adults, not a classroom study, and labeling reduced physiological arousal a week later without reducing self-reported fear. So it supports labeling as a regulation mechanism, and does not yet show that labeling helps learners regulate emotions in school. Until classroom studies are recorded here, designers should treat labeling as a low-cost, low-risk component of broader self-regulation scaffolds rather than a standalone intervention with established effect sizes. Pairing labeling with an explicit regulation step (e.g., "name it, then choose a strategy") hedges against the possibility that labeling alone is insufficient without a subsequent action. This pairing logic mirrors the structure of other monitoring-plus-control claims in this wiki, such as [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md), where the benefit comes from acting on monitoring information rather than from monitoring alone.
 
-**Open questions.** It remains open whether the benefit accrues from the act of labeling itself or from the regulation strategies that labeling makes available, and whether effects hold across age groups — younger learners may need scaffolds such as emotion word banks or visual mood meters to label accurately. Well-controlled studies are needed before this claim can be treated as established; the Evidence section is pending.
+**Open questions.** It remains open whether the benefit accrues from the act of labeling itself or from the regulation strategies that labeling makes available, and whether effects hold across age groups — younger learners may need scaffolds such as emotion word banks or visual mood meters to label accurately. Controlled studies with learners in educational settings are needed before this claim can be treated as established for them.
 
 ## Related Claims
 

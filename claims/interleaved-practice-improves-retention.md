@@ -3,26 +3,40 @@ type: claim
 title: Interleaved Practice Improves Retention
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: interleaved-practice-improves-retention
 evidence_strength: moderate
+sources:
+  - id: brunmair-richter-2019
+    resource: "https://doi.org/10.1037/bul0000209"
+    title: "Brunmair, M., & Richter, T. (2019). Similarity matters: A meta-analysis of interleaved learning and its moderators. *Psychological Bulletin, 145*(11), 1029–1052. [doi:10.1037/bul0000209](https://doi.org/10.1037/bul0000209)"
+    author: "Brunmair, M., & Richter, T."
+    q: 4
+    i: 2
+    n: 59 studies (238 effect sizes, 158 samples)
 ---
 
 # Interleaved Practice Improves Retention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i2` medium · n=59 studies (238 effect sizes, 158 samples)
 
 Interleaving — mixing different problem types or categories within a practice session rather than blocking them by type — improves long-term retention and discrimination between concepts, even though learners often feel it is less effective during practice.
 
 ## Subclaims
 
-<!-- TODO -->
+`q4 i2` A multilevel meta-analysis of 59 studies (238 effect sizes) finds a moderate overall benefit of interleaved over blocked inductive-learning presentation (Hedges' g = 0.42), but the effect is strongly moderated by material type — strongest for visual/perceptual category learning (paintings, photographs), smaller for mathematical tasks, and reversed (favoring blocking) for word-based category learning. [→ Brunmair & Richter 2019](#brunmair-richter-2019)
 
 ## Evidence
 
-<!-- TODO -->
+### Brunmair & Richter 2019
+
+Brunmair, M., & Richter, T. (2019). Similarity matters: A meta-analysis of interleaved learning and its moderators. *Psychological Bulletin, 145*(11), 1029–1052. [doi:10.1037/bul0000209](https://doi.org/10.1037/bul0000209)
+
+`q4 · multilevel meta-analysis` · `i2 · medium effect, Hedges' g=0.42, 95% CI [0.34, 0.50]` · `n=59 studies (238 effect sizes, 158 samples)`
+
+A multilevel meta-analysis of 59 studies comparing interleaved to blocked presentation of category exemplars (paintings, photographs, mathematical procedures, expository texts, words) on a subsequent classification/discrimination test. Interleaving produced a moderate overall benefit (g = 0.42), robust to a sensitivity analysis using only independent effects (g = 0.43). The benefit was not uniform: it was largest for paintings (g = 0.67) and naturalistic photographs (g = 0.35), smaller for mathematical tasks (g = 0.34), nonsignificant for expository texts, and *reversed* for word-based categories (g = −0.39, favoring blocking). A meta-regression found stronger interleaving effects when between-category similarity was higher and within-category similarity was lower — consistent with the attentional-bias/discriminative-contrast account that interleaving works by forcing discrimination between confusable categories.
 
 ## Discussion
 
@@ -36,7 +50,7 @@ Interleaving — mixing different problem types or categories within a practice 
 
 **Open questions.** Optimal interleaving schedules (how many categories, how many items per category, how much spacing) are not settled, and most published work uses short, well-structured category-learning tasks; generalization to complex, open-ended skill domains is less established [+W].
 
-**Evidence status.** The subclaims and evidence entries for this page have not yet been populated from source studies; the discussion above reflects the general literature but specific citations still need to be added.
+**Evidence status.** The one meta-analysis recorded above measured inductive category learning, not retention of practised problems, and it found the benefit depends on material: largest for visual categories, smaller for mathematics, and reversed for word-based categories. Studies of interleaved problem practice and delayed retention still need to be recorded here.
 
 ## Related Claims
 

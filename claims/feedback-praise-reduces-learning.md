@@ -3,26 +3,57 @@ type: claim
 title: Feedback Praise Reduces Learning
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: feedback-praise-reduces-learning
 evidence_strength: weak
+sources:
+  - id: mueller-dweck-1998
+    resource: "https://doi.org/10.1037/0022-3514.75.1.33"
+    title: "Mueller, C. M., & Dweck, C. S. (1998). Praise for intelligence can undermine children's motivation and performance. *Journal of Personality and Social Psychology, 75*(1), 33–52. [doi:10.1037/0022-3514.75.1.33](https://doi.org/10.1037/0022-3514.75.1.33)"
+    author: "Mueller, C. M., & Dweck, C. S."
+    q: 3
+    i: "?"
+    n: 128 (Study 1)
+  - id: henderlong-lepper-2002
+    resource: "https://doi.org/10.1037/0033-2909.128.5.774"
+    title: "Henderlong, J., & Lepper, M. R. (2002). The effects of praise on children's intrinsic motivation: A review and synthesis. *Psychological Bulletin, 128*(5), 774–795. [doi:10.1037/0033-2909.128.5.774](https://doi.org/10.1037/0033-2909.128.5.774)"
+    author: "Henderlong, J., & Lepper, M. R."
+    q: 3
+    i: "?"
+    n: N/A (review)
 ---
 
 # Feedback Praise Reduces Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 2 studies · `q3` peer-reviewed experiment
 
 Praise embedded in instructional feedback — especially person-directed praise ("you're so smart") and praise unrelated to the task — can undermine learning by diverting attention from the work, reinforcing fixed self-perceptions, and diluting the informational content of feedback. The claim is scoped to praise as a component of feedback on academic work; it does not assert that praise harms motivation or relationships in all contexts.
 
 ## Subclaims
 
-<!-- TODO -->
+`q3 i?` Praise for intelligence after success leads children to prefer performance over learning goals, and to show less task persistence, less task enjoyment, more low-ability attributions, and worse task performance after a later failure than children praised for effort. [→ Mueller & Dweck 1998](#mueller-dweck-1998)
+
+`q3 i?` Person- or ability-oriented praise ("you're a good boy," "you must be really good at puzzles") can increase vulnerability to helplessness after failure and dampen intrinsic motivation relative to process praise or neutral feedback, but the effect is moderated by the child's age and gender and depends on having a no-praise control condition. [→ Henderlong & Lepper 2002](#henderlong-lepper-2002)
 
 ## Evidence
 
-<!-- TODO -->
+### Mueller & Dweck 1998
+
+Mueller, C. M., & Dweck, C. S. (1998). Praise for intelligence can undermine children's motivation and performance. *Journal of Personality and Social Psychology, 75*(1), 33–52. [doi:10.1037/0022-3514.75.1.33](https://doi.org/10.1037/0022-3514.75.1.33)
+
+`q3 · peer-reviewed experiment (six studies)` · `i? · no standardized effect size reported` · `n=128 (Study 1)`
+
+Six experiments with fifth graders (Study 1: N = 128) manipulated the type of praise given after success on a nonverbal problem set (Raven's Standard Progressive Matrices): praise for intelligence ("You must be smart at these problems"), praise for effort, or a neutral control. Children then attempted a harder problem set and failed. Children praised for intelligence subsequently preferred performance goals over learning goals far more than those praised for effort (69% vs. 12%), and after failure their problem-solving scores *dropped* relative to their pre-failure baseline while effort-praised children's scores *rose*, F(2, 120) = 17.62, p < .001 — alongside lower task persistence and enjoyment and more ability (rather than effort) attributions for the failure.
+
+### Henderlong & Lepper 2002
+
+Henderlong, J., & Lepper, M. R. (2002). The effects of praise on children's intrinsic motivation: A review and synthesis. *Psychological Bulletin, 128*(5), 774–795. [doi:10.1037/0033-2909.128.5.774](https://doi.org/10.1037/0033-2909.128.5.774)
+
+`q3 · narrative/systematic review of the experimental praise literature` · `i? · no pooled effect size (narrative synthesis)` · `n=N/A (review)`
+
+A narrative review and synthesis of the experimental literature on praise and children's intrinsic motivation and perseverance. The authors conclude that person- or ability-oriented praise can undermine motivation and increase helplessness after later failure relative to process-oriented praise (citing Kamins & Dweck, 1999, and Mueller & Dweck, 1998), and that in upper-elementary children person praise dampened intrinsic motivation relative to a neutral-feedback control — but only for girls, not boys — showing the negative effect is real but moderated rather than universal. Provided praise is sincere and process/effort-focused, the review finds it can instead enhance motivation; the harm is specific to person/ability-focused praise and to postfailure conditions.
 
 ## Discussion
 

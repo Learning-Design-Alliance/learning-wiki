@@ -6,7 +6,7 @@ Four arms read the same 19 articles (eval/pre-extractor-test/manifest.json):
 
   glm-v99     z-ai/glm-5.3-flash on CURRENT (v99): the droplet as it runs today
   glm-v124    the same model on v124, the GLM-tuned prompt with the best pass
-              rate on the droplet (8/10 in glm-v124-test.log). Added after v99
+              rate on the droplet (8/10 in glm-v124-test.log, a root log since removed; see git history). Added after v99
               passed 2 of 17 here, which its own changelog entry predicts; it
               is the fair "droplet at its best" arm
   glm-v130    the same model on v130: the droplet with the new criteria, untuned

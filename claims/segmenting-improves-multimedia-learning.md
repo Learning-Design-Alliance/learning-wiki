@@ -3,26 +3,40 @@ type: claim
 title: Segmenting Improves Multimedia Learning
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: segmenting-improves-multimedia-learning
 evidence_strength:
+sources:
+  - id: rey-et-al-2019
+    resource: "https://doi.org/10.1007/s10648-018-9456-4"
+    title: "Rey, G. D., Beege, M., Nebel, S., Wirzberger, M., Schmitt, T. H., & Schneider, S. (2019). A Meta-analysis of the Segmenting Effect. *Educational Psychology Review, 31*(2), 389–419. [doi:10.1007/s10648-018-9456-4](https://doi.org/10.1007/s10648-018-9456-4)"
+    author: "Rey, G. D., Beege, M., Nebel, S., Wirzberger, M., Schmitt, T. H., & Schneider, S."
+    q: 4
+    i: "?"
+    n: 56 studies / 88 pairwise comparisons
 ---
 
 # Segmenting Improves Multimedia Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · n=56 studies / 88 pairwise comparisons
 
 Presenting continuous multimedia material (e.g., a narrated animation) in learner-paced segments rather than as a continuous unit reduces cognitive overload and improves learning.
 
 ## Subclaims
 
-<!-- TODO -->
+`q4 i?` A meta-analysis of 56 studies (88 pairwise comparisons) finds a significant segmenting effect — learner- or system-paced segmentation of multimedia instruction improves retention and transfer versus continuous presentation, with reported effects described as small to medium. [→ Rey et al. 2019](#rey-et-al-2019)
 
 ## Evidence
 
-<!-- TODO -->
+### Rey et al. 2019
+
+Rey, G. D., Beege, M., Nebel, S., Wirzberger, M., Schmitt, T. H., & Schneider, S. (2019). A Meta-analysis of the Segmenting Effect. *Educational Psychology Review, 31*(2), 389–419. [doi:10.1007/s10648-018-9456-4](https://doi.org/10.1007/s10648-018-9456-4)
+
+`q4 · well-powered meta-analysis (56 studies, 88 comparisons)` · `i? · effect size not stated in what was read (abstract describes "small to medium" without a pooled value)` · `n=56 studies / 88 pairwise comparisons`
+
+A meta-analysis of 56 investigations (88 pairwise comparisons) testing whether presenting multimedia instruction in learner-paced segments, rather than as a continuous unit, improves learning. It finds a significant segmenting effect with small-to-medium effects on both retention and transfer performance, and reports that segmentation also reduces overall cognitive load and increases learning time; these four effects held specifically for system-paced segmentation. Moderator analyses indicated learners with high prior knowledge benefited more from segmenting than learners with no or low prior knowledge, on retention performance.
 
 ## Discussion
 

@@ -5,15 +5,16 @@
 #
 # Enriches all status:draft pages in the given folder using gemini.
 # Skips pages already at status:review or status:stable.
-# Continues on failure; logs results to batch-enrich.log.
+# Continues on failure; logs results to eval/runs/batch-enrich.log.
 
 set -euo pipefail
 
 FOLDER="${1:-principles}"
 WIKI_DIR="$(cd "$(dirname "$0")/.." && pwd)"
-LOG_FILE="$WIKI_DIR/batch-enrich.log"
+LOG_FILE="$WIKI_DIR/eval/runs/batch-enrich.log"
 
 cd "$WIKI_DIR"
+mkdir -p "$(dirname "$LOG_FILE")"
 
 echo "" >> "$LOG_FILE"
 echo "=== $(date): Starting batch enrich for $FOLDER ===" | tee -a "$LOG_FILE"

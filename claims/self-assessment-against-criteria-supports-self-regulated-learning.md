@@ -3,39 +3,40 @@ type: claim
 title: Self Assessment Against Criteria Supports Self Regulated Learning
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: self-assessment-against-criteria-supports-self-regulated-learning
 evidence_strength: moderate
 sources:
-  - id: zimmerman-2002
-    resource: "https://doi.org/10.1207/s15430421tip4102_2"
-    title: "Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70."
-    author: "Zimmerman, B. J."
-  - id: andrade-valtcheva-2009
-    resource: "https://doi.org/10.1080/00405840802577544"
-    title: "Andrade, H., & Valtcheva, A. (2009). Promoting learning and achievement through self-assessment. *Theory Into Practice, 48*(1), 12–19."
-    author: "Andrade, H., & Valtcheva, A."
-  - id: panadero-alonso-tapia-2013
-    resource: "https://doi.org/10.25115/ejrep.30.12200"
-    title: "Panadero, E., & Alonso-Tapia, J. (2013). Self-assessment: Theoretical and practical connotations. *Electronic Journal of Research in Educational Psychology, 11*(2), 551–576."
-    author: "Panadero, E., & Alonso-Tapia, J."
+  - id: panadero-et-al-2017
+    resource: "https://doi.org/10.1016/j.edurev.2017.08.004"
+    title: "Panadero, E., Jonsson, A., & Botella, J. (2017). Effects of self-assessment on self-regulated learning and self-efficacy: Four meta-analyses. *Educational Research Review, 22*, 74–98. [doi:10.1016/j.edurev.2017.08.004](https://doi.org/10.1016/j.edurev.2017.08.004)"
+    author: "Panadero, E., Jonsson, A., & Botella, J."
+    q: 4
+    i: 1
+    n: 2,305 students across 19 studies
 ---
 
 # Self Assessment Against Criteria Supports Self Regulated Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i1` small · n=2,305 students across 19 studies
 
 When learners evaluate their own work against explicit criteria (rubrics, checklists, exemplars), they develop the monitoring and judgment skills that underpin self-regulated learning. The claim concerns self assessment that is structured by external quality standards — not unguided self-rating, which tends to be inaccurate and self-serving.
 
 ## Subclaims
 
-<!-- TODO -->
+`q4 i1` A meta-analysis of self-assessment interventions found a small but statistically significant positive effect on students' use of self-regulated-learning strategies (d=0.23, 12 effect sizes, 369 participants), with converging support from a reduction in maladaptive self-regulatory behaviors and a large effect on self-efficacy. [→ Panadero et al. 2017](#panadero-et-al-2017)
 
 ## Evidence
 
-<!-- TODO -->
+### Panadero et al. 2017
+
+Panadero, E., Jonsson, A., & Botella, J. (2017). Effects of self-assessment on self-regulated learning and self-efficacy: Four meta-analyses. *Educational Research Review, 22*, 74–98. [doi:10.1016/j.edurev.2017.08.004](https://doi.org/10.1016/j.edurev.2017.08.004)
+
+`q4 · random-effects meta-analysis (four sub-analyses)` · `i1 · small effect on Learning SRL, d=0.23; medium/non-significant on the other two SRL measures; large on self-efficacy, d=0.73` · `n=2,305 students across 19 studies`
+
+Four random-effects meta-analyses (Hedges & Olkin method) pooled 19 experimental and quasi-experimental studies of self-assessment interventions in K-12 and higher-education classrooms. For the "Learning SRL" outcome — measures of strategy use such as planning, monitoring and self-regulatory strategy deployment — 12 effect sizes from 369 students produced a combined effect of d=0.23, 95% CI [0.08, 0.39], a small but statistically significant positive effect. A second meta-analysis on "Negative SRL" (self-regulatory behaviors detrimental to learning, e.g. procrastination) found d=−0.65 (k=6, n=347; CI crossed zero), meaning self-assessment reduced these behaviors; a third on SRL measured qualitatively found d=0.43 (k=3, n=338; CI crossed zero, underpowered). A separate meta-analysis of 27 effect sizes on self-efficacy found a larger effect, d=0.73, 95% CI [0.39, 1.08], moderated by gender (larger for girls) and by whether the self-assessment intervention included a monitoring component.
 
 ## Discussion
 

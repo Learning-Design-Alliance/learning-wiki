@@ -3,26 +3,40 @@ type: claim
 title: Elaborative Encoding Improves Retention
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: elaborative-encoding-improves-retention
 evidence_strength: pending
+sources:
+  - id: bisra-et-al-2018
+    resource: "https://doi.org/10.1007/s10648-018-9434-x"
+    title: "Bisra, K., Liu, Q., Nesbit, J. C., Salimi, F., & Winne, P. H. (2018). Inducing self-explanation: A meta-analysis. *Educational Psychology Review, 30*(3), 703–725. [doi:10.1007/s10648-018-9434-x](https://doi.org/10.1007/s10648-018-9434-x)"
+    author: "Bisra, K., Liu, Q., Nesbit, J. C., Salimi, F., & Winne, P. H."
+    q: 4
+    i: 2
+    n: 69 effect sizes (64 research reports)
 ---
 
 # Elaborative Encoding Improves Retention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i2` medium · n=69 effect sizes (64 research reports)
 
 Elaborative encoding — connecting new material to prior knowledge through self-explanation, examples, analogies, and "why" and "how" questions — produces more durable memory traces than rote rehearsal.
 
 ## Subclaims
 
-<!-- TODO -->
+`q4 i2` Prompting learners to self-explain — a core elaborative-encoding operationalization — produces a medium-sized average improvement in learning outcomes across a wide range of instructional conditions, tasks, and educational levels. [→ Bisra et al. 2018](#bisra-et-al-2018)
 
 ## Evidence
 
-<!-- TODO -->
+### Bisra et al. 2018
+
+Bisra, K., Liu, Q., Nesbit, J. C., Salimi, F., & Winne, P. H. (2018). Inducing self-explanation: A meta-analysis. *Educational Psychology Review, 30*(3), 703–725. [doi:10.1007/s10648-018-9434-x](https://doi.org/10.1007/s10648-018-9434-x)
+
+`q4 · well-powered meta-analysis` · `i2 · medium effect, g=0.55` · `n=69 effect sizes (64 research reports)`
+
+A systematic search of bibliographic databases identified 69 effect sizes from 64 research reports comparing learning outcomes for participants who received self-explanation prompts against comparison conditions while studying or solving problems. A random-effects model gave an overall weighted mean effect size of Hedges' g = 0.55, and the authors coded 20 moderator variables (task type — solving problems, studying worked examples, studying text — subject area, education level, type of inducement, and treatment duration), concluding self-explanation prompts are a potentially powerful intervention across a range of instructional conditions.
 
 ## Discussion
 

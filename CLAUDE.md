@@ -100,6 +100,12 @@ work is done, not that the check is broken.
   may `--publish`, which is irreversible. `release.doi` is refused on any non-`research`
   release, because a DOI is exactly the badge that makes a simulation read as a finding.
 
+- **The repo root is public-facing: nothing but the wiki's own files lives there.** On
+  2026-09-25 it carried 22 run logs and one-off reports (`glm-*.log`, `doi-report-*.md`,
+  `health-final.md`, `health-truly-final.md`), the first thing a visitor saw on GitHub.
+  They were removed (git history keeps them) and `.gitignore` now refuses them. Write run
+  output to `eval/runs/`, which is ignored; never commit a log or a scratch report at the root.
+
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
