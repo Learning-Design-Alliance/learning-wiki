@@ -10,6 +10,15 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/learning-strategy-instruction-contextualized-more-effective](claims/learning-strategy-instruction-contextualized-more-effective.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/laptop-notes-verbatim-shallower](claims/laptop-notes-verbatim-shallower.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/peer-discussion-improves-conceptual-understanding](claims/peer-discussion-improves-conceptual-understanding.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/peer-feedback-improves-work-quality](claims/peer-feedback-improves-work-quality.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/mastery-learning-improves-outcomes](claims/mastery-learning-improves-outcomes.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/math-anxiety-degrades-performance](claims/math-anxiety-degrades-performance.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/learners-misjudge-spacing-benefits](claims/learners-misjudge-spacing-benefits.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone](claims/pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/modality-effect-narration-over-text](claims/modality-effect-narration-over-text.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/growth-mindset-interventions-small-effects](claims/growth-mindset-interventions-small-effects.md) — Evidence copied from a verified near-duplicate (gap-fill)
 * **Ingest**: [claims/learning-by-teaching-improves-mastery](claims/learning-by-teaching-improves-mastery.md) — Evidence copied from a verified near-duplicate (gap-fill)
 * **Ingest**: [claims/learning-by-teaching-improves-learning](claims/learning-by-teaching-improves-learning.md) — Evidence copied from a verified near-duplicate (gap-fill)

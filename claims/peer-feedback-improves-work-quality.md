@@ -3,26 +3,40 @@ type: claim
 title: Peer Feedback Improves Work Quality
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: peer-feedback-improves-work-quality
 evidence_strength: weak
+sources:
+  - id: double-et-al-2020
+    resource: "https://doi.org/10.1007/s10648-019-09510-3"
+    title: "Double, K. S., McGrane, J. A., & Hopfenbeck, T. N. (2020). The impact of peer assessment on academic performance: A meta-analysis of control group studies. *Educational Psychology Review, 32*(2), 481–509. [doi:10.1007/s10648-019-09510-3](https://doi.org/10.1007/s10648-019-09510-3)"
+    author: "Double, K. S., McGrane, J. A., & Hopfenbeck, T. N."
+    q: 4
+    i: 1
+    n: 54 studies (k=141 effect sizes)
 ---
 
 # Peer Feedback Improves Work Quality
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i1` small · n=54 studies (k=141 effect sizes)
 
 Feedback provided by peers on drafts or work-in-progress can improve the quality of the work produced, both for receivers (who act on the feedback) and often for givers (who learn by evaluating others' work against criteria). [+W]
 
 ## Subclaims
 
-<!-- TODO -->
+`q4 i1` A meta-analysis of 54 experimental/quasi-experimental control-group studies (k = 141) finds peer assessment produces a small-to-medium improvement in students' academic performance (essay writing, tests, and practical skills) relative to no assessment, and a comparable improvement relative to teacher assessment. [→ Double et al. 2020](#double-et-al-2020)
 
 ## Evidence
 
-<!-- TODO -->
+### Double et al. 2020
+
+Double, K. S., McGrane, J. A., & Hopfenbeck, T. N. (2020). The impact of peer assessment on academic performance: A meta-analysis of control group studies. *Educational Psychology Review, 32*(2), 481–509. [doi:10.1007/s10648-019-09510-3](https://doi.org/10.1007/s10648-019-09510-3)
+
+`q4 · meta-analysis of experimental/quasi-experimental control-group studies` · `i1 · small-to-medium effect, g=0.31` · `n=54 studies (k=141 effect sizes)`
+
+A meta-analysis of 54 control-group studies (141 effect sizes) spanning primary, secondary and tertiary students across subjects, comparing peer-assessment interventions (grading, peer dialogue, written feedback) against no-assessment and teacher-assessment control conditions on academic performance (test scores, essay/writing quality, practical skills). Peer assessment improved performance relative to no assessment (g = 0.31, p = .004) and relative to teacher assessment (g = 0.28, p = .007), and its effect did not differ significantly from self-assessment (g = 0.23, p = .209). Meta-regressions found the effect was robust across moderators such as online/offline delivery, assessment frequency and education level, i.e., no single implementation detail was required for the effect to hold.
 
 ## Discussion
 
@@ -34,7 +48,7 @@ Feedback provided by peers on drafts or work-in-progress can improve the quality
 
 **Relation to collaboration.** Peer feedback is a structured, role-differentiated form of the interactions studied under [Collaborative learning improves outcomes.](collaborative-learning-improves-outcomes.md); its distinctive feature is that the product being critiqued belongs to an individual, so accountability and revision pathways are clearer than in group work.
 
-**Open questions.** How much training is needed before peer feedback reaches useful quality, how receiver uptake should be assessed, and how peer feedback compares to instructor feedback across domains remain under-specified in this page's current evidence base. Studies are needed before this claim can be graded for strength.
+**Open questions.** How much training is needed before peer feedback reaches useful quality, how receiver uptake should be assessed, and how peer feedback compares to instructor feedback across domains remain open. The one meta-analysis recorded above measured academic performance (tests, writing, practical skills) rather than the quality of the revised work itself, and found no moderator it tested, including delivery mode, frequency and education level, changed the effect. The scaffolding moderators described above are not among those it tested.
 
 ## Related Claims
 
