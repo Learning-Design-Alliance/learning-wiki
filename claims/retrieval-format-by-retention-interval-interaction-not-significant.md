@@ -1,0 +1,44 @@
+---
+type: claim
+title: The effect of retrieval practice format on reading comprehension does not differ significantly between an immediate and a three-week-delayed final test
+description: The effect of retrieval practice format on reading comprehension does not differ significantly between an immediate and a three-week-delayed final test
+id: retrieval-format-by-retention-interval-interaction-not-significant
+status: draft
+generated:
+  by: claude/unspecified
+  at: 2026-09-24
+evidence_strength: moderate
+sources:
+  - id: nero-2021
+    resource: "https://doi.org/10.24191/ajue.v17i4.16222"
+    title: "Nero, C. A., & Zulkiply, N. (2021). The Effects of Retrieval Practice Across Levels of Thinking and Retention Interval on Reading Comprehension. Asian Journal of University Education (AJUE), 17(4). https://doi.org/10.24191/ajue.v17i4.16222"
+    author: "Nero, C. A., & Zulkiply, N."
+    q: 3
+    i: "?"
+---
+
+# The effect of retrieval practice format on reading comprehension does not differ significantly between an immediate and a three-week-delayed final test
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
+
+## Subclaims
+`q3 i?` No statistically significant interaction was found between type of retrieval practice and retention interval (F(1, 98) = 0.06, p = .804). [→ Nero 2021](#nero-2021)
+
+## Evidence
+
+### Nero 2021
+
+Nero, C. A., & Zulkiply, N. (2021). The Effects of Retrieval Practice Across Levels of Thinking and Retention Interval on Reading Comprehension. Asian Journal of University Education (AJUE), 17(4). https://doi.org/10.24191/ajue.v17i4.16222
+
+`q3 · i?`
+
+Classroom experiment with 100 first-year Cognitive Psychology undergraduates in a 2 x 2 x 2 mixed-subjects design, analysed with a three-way mixed ANOVA on final multiple-choice test scores. The article reports "no significant interaction between types of retrieval practice and retention interval", F(1, 98) = 0.06, p = .804.
+
+> "The results also revealed that there was no significant interaction between types of retrieval practice and retention interval, F(1, 98) = 0.06, p = .804, indicating that the effect of different types of retrieval practice on reading comprehension was almost similar for both short - and long -retention intervals."
+
+## Discussion
+
+
+## Related Claims
+-

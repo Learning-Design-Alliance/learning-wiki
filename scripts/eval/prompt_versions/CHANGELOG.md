@@ -652,3 +652,15 @@ Manual, based on v128. Adds Step 2b, a top-level `study_record` per article that
 ## v130
 
 Manual, based on v129, following the maintainer's inclusion criteria (INCLUSION.md). Two changes. The review checklist's claim floor drops from two claims to one, because a source that makes one argument is complete with one claim. A new rule says a reasoned argument is evidence: a theoretical, philosophical or ethical source that argues for a proposition gets a claim, coded q1 with a null i and quoting the conclusion with its premise. A view stated with no evidence and no reasons is also recorded as a q1 claim, with the evidence description saying that nothing supports it. Nothing else changed. CURRENT stays at v99 until the ratchet moves it.
+
+## v131
+
+Manual, based on v124, not on v99. The pre-extractor test (`eval/pre-extractor-test/`, 2026-09-24) found GLM passing 94% on v124 against 12% on v99, and v130 inherits v99's failures through v128 and v129. So v128–v130's three changes are re-applied here, by intent rather than by patch, since v124 rewords the same passages: the null `i` rule (v128), Step 2b's `study_record` with its output-contract block and self-check 11 (v129, verbatim), and the one-claim floor and "a reasoned argument is evidence" (v130). Two changes are new. R0 gives every source an `inclusion` object and, for a source not about learning at all, a reject shape with empty `contributions`, the only case where that is allowed. Headless GLM on v124 wrote 7 contributions from each of the test's two biomedical papers. R1's envelope now allows `inclusion` and `study_record` beside `article` and `contributions`. Nothing else in v124 changed. CURRENT stays at v99 until the ratchet moves it.
+
+## v132
+
+Ablation of v131, manual. v124 plus only v128–v130's small rules: the null `i`, the one-claim floor, and "a reasoned argument is evidence". No `study_record`, no inclusion object; v124's envelope unchanged. GLM passes 16 of 17 on the pre-extractor test, inside v124's own run-to-run range (17 and 14). So these rules cost nothing.
+
+## v133
+
+Ablation of v131, manual. v132 plus v131's R0 inclusion rule and envelope. GLM passes 13 of 17 and rejects one of the two out-of-scope probes (the honey-bee paper); the other is the borderline clinical one. Against v131's 7 of 17, this isolates the cause of v131's collapse: **asking GLM for the `study_record` in the same call.** Study records need a separate pass, or a different extractor.

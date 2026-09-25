@@ -16,6 +16,7 @@ sources:
     i: 1
     n: unreported in secondary source
   - id: arduini-van-hoose-classroom-example
+    resource: "https://edpsych.pressbooks.sunycreate.cloud"
     title: "Arduini-Van Hoose, N. (2020). Problem-solving. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0."
     author: Arduini-Van Hoose, N.
     q: 1

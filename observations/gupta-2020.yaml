@@ -1,0 +1,573 @@
+# gupta-2020 — written by the ingest pipeline from eric-ej1276025, and UNVERIFIED.
+# Extraction method is in provenance. Every field was validated against
+# observations/SCHEMA.md; none was checked against the article by a person.
+
+schema_version: 2
+study:
+  key: gupta-2020
+  citation: 'Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating
+    the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty.
+    European Journal of STEM Education, 5(1), 05.'
+  design:
+    family: other
+    design_detail: 2 x 2 x 2 factorial design; prior knowledge measured by pretest (tri-split, middle
+      third eliminated), participants randomly assigned to one of eight learning conditions
+    preregistration:
+      status: unreported
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: '2026-09-24'
+  extraction_method: ingest-pipeline-v130 (claude-code-agent/opus-5.5)
+  verification: unverified
+appears_in:
+- claim: prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest
+  bearing: supports
+  anchor: gupta-2020
+- claim: lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples
+  bearing: supports
+  anchor: gupta-2020
+- claim: lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples
+  bearing: qualifies
+  anchor: gupta-2020-2
+- claim: prior-knowledge-by-worked-example-type-interaction-on-germane-load
+  bearing: supports
+  anchor: gupta-2020
+- claim: high-and-low-prior-knowledge-learners-differ-in-posttest-intrinsic-and-germane-load
+  bearing: supports
+  anchor: gupta-2020
+- claim: high-and-low-prior-knowledge-learners-differ-in-posttest-intrinsic-and-germane-load
+  bearing: supports
+  anchor: gupta-2020-2
+- claim: task-difficulty-raises-intrinsic-and-extraneous-but-not-germane-load-in-algebra
+  bearing: supports
+  anchor: gupta-2020
+- claim: task-difficulty-raises-intrinsic-and-extraneous-but-not-germane-load-in-algebra
+  bearing: supports
+  anchor: gupta-2020-2
+- claim: no-prior-knowledge-by-task-difficulty-interaction-in-algebra-worked-examples
+  bearing: supports
+  anchor: gupta-2020
+- claim: germane-cognitive-load-correlates-positively-with-interest
+  bearing: supports
+  anchor: gupta-2020
+- claim: intrinsic-cognitive-load-correlates-with-anxiety-challenge-and-lower-probability-of-success
+  bearing: supports
+  anchor: gupta-2020
+- claim: extraneous-cognitive-load-correlates-negatively-with-germane-load-and-probability-of-success
+  bearing: supports
+  anchor: gupta-2020
+- claim: extraneous-cognitive-load-correlates-negatively-with-germane-load-and-probability-of-success
+  bearing: supports
+  anchor: gupta-2020-2
+evidence_base:
+  unit: participants
+  size:
+    value: 160
+    unit: participants
+  population:
+    description: Non-science major college students at a Research I university in the western United States;
+      55 high- and 60 low-prior-knowledge learners retained for analysis
+    age_or_stage: college students, mean age 23.25
+  context:
+    setting: Laboratory-style study; self-paced computer-based learning phase of up to one hour followed
+      by a practice booklet
+    geography: western United States
+    delivery_mode: computer
+  arms:
+  - id: lowpk-easy-full
+    description: Lower prior knowledge learners studying easy simultaneous-equation problems with full
+      worked examples (Table 3).
+    elements:
+    - term: full-worked examples
+    delivery:
+      grouping: self-paced
+      role: other
+      basis: stated
+  - id: lowpk-easy-completion
+    description: Lower prior knowledge learners studying easy simultaneous-equation problems with completion
+      worked examples (Table 3).
+    elements:
+    - term: completion-worked examples
+    delivery:
+      grouping: self-paced
+      role: other
+      basis: stated
+  - id: lowpk-difficult-full
+    description: Lower prior knowledge learners studying difficult simultaneous-equation problems with
+      full worked examples (Table 3).
+    elements:
+    - term: full-worked examples
+    delivery:
+      grouping: self-paced
+      role: other
+      basis: stated
+  - id: lowpk-difficult-completion
+    description: Lower prior knowledge learners studying difficult simultaneous-equation problems with
+      completion worked examples (Table 3).
+    elements:
+    - term: completion-worked examples
+    delivery:
+      grouping: self-paced
+      role: other
+      basis: stated
+  - id: highpk-easy-full
+    description: Higher prior knowledge learners studying easy simultaneous-equation problems with full
+      worked examples (Table 3).
+    elements:
+    - term: full-worked examples
+    delivery:
+      grouping: self-paced
+      role: other
+      basis: stated
+  - id: highpk-easy-completion
+    description: Higher prior knowledge learners studying easy simultaneous-equation problems with completion
+      worked examples (Table 3).
+    elements:
+    - term: completion-worked examples
+    delivery:
+      grouping: self-paced
+      role: other
+      basis: stated
+  - id: highpk-difficult-full
+    description: Higher prior knowledge learners studying difficult simultaneous-equation problems with
+      full worked examples (Table 3).
+    elements:
+    - term: full-worked examples
+    delivery:
+      grouping: self-paced
+      role: other
+      basis: stated
+  - id: highpk-difficult-completion
+    description: Higher prior knowledge learners studying difficult simultaneous-equation problems with
+      completion worked examples (Table 3).
+    elements:
+    - term: completion-worked examples
+    delivery:
+      grouping: self-paced
+      role: other
+      basis: stated
+comparisons:
+- id: three-way-interaction
+  kind: other
+  index_arm:
+  - lowpk-easy-completion
+  - lowpk-difficult-completion
+  - highpk-easy-completion
+  - highpk-difficult-completion
+  reference_arm:
+  - lowpk-easy-full
+  - lowpk-difficult-full
+  - highpk-easy-full
+  - highpk-difficult-full
+  description: 2 x 2 x 2 interaction of worked example, prior knowledge and task difficulty.
+- id: pk-by-we-interaction
+  kind: other
+  index_arm:
+  - lowpk-easy-completion
+  - lowpk-difficult-completion
+  - highpk-easy-completion
+  - highpk-difficult-completion
+  reference_arm:
+  - lowpk-easy-full
+  - lowpk-difficult-full
+  - highpk-easy-full
+  - highpk-difficult-full
+  description: Prior knowledge by worked example interaction.
+- id: lowpk-full-vs-completion
+  kind: between-groups
+  index_arm:
+  - lowpk-easy-full
+  - lowpk-difficult-full
+  reference_arm:
+  - lowpk-easy-completion
+  - lowpk-difficult-completion
+  description: Within lower-prior-knowledge learners, full vs completion worked examples.
+- id: highpk-completion-vs-full
+  kind: between-groups
+  index_arm:
+  - highpk-easy-completion
+  - highpk-difficult-completion
+  reference_arm:
+  - highpk-easy-full
+  - highpk-difficult-full
+  description: Within higher-prior-knowledge learners, completion vs full worked examples.
+- id: highpk-vs-lowpk
+  kind: between-groups
+  index_arm:
+  - highpk-easy-full
+  - highpk-easy-completion
+  - highpk-difficult-full
+  - highpk-difficult-completion
+  reference_arm:
+  - lowpk-easy-full
+  - lowpk-easy-completion
+  - lowpk-difficult-full
+  - lowpk-difficult-completion
+  description: Main effect of prior knowledge (measured, not assigned).
+- id: difficult-vs-easy
+  kind: between-groups
+  index_arm:
+  - lowpk-difficult-full
+  - lowpk-difficult-completion
+  - highpk-difficult-full
+  - highpk-difficult-completion
+  reference_arm:
+  - lowpk-easy-full
+  - lowpk-easy-completion
+  - highpk-easy-full
+  - highpk-easy-completion
+  description: Main effect of task difficulty.
+- id: pk-by-td-interaction
+  kind: other
+  index_arm:
+  - lowpk-difficult-full
+  - lowpk-difficult-completion
+  - highpk-difficult-full
+  - highpk-difficult-completion
+  reference_arm:
+  - lowpk-easy-full
+  - lowpk-easy-completion
+  - highpk-easy-full
+  - highpk-easy-completion
+  description: Prior knowledge by task difficulty interaction.
+- id: correlational
+  kind: none
+  description: Correlations between CLM and QCM subscales across participants; no contrast between arms.
+observations:
+- id: three-way-posttest
+  comparison_ref: three-way-interaction
+  source_quote: There was a significant three-way between-subjects effects by posttest (F1, 107 = 4.61,
+    p < .05, ŋ2 = .04) (Figure 2), but no significant three-way interaction for types of cognitive load
+    was detected.
+  outcome:
+    construct: algebra achievement
+    source_language: posttest
+    measure: 10-problem simultaneous equation posttest (25 points)
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+  time:
+    label: post
+  result:
+    measure_type: partial_eta_squared
+    estimate: 0.04
+    p_value: < .05
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: observed
+- id: lowpk-full-vs-completion-posttest
+  comparison_ref: lowpk-full-vs-completion
+  source_quote: Lower -prior knowledge learners performed better on the posttest with full-worked examples
+    than completion-worked examples (t(1,26) = 1.98, p = .05, 2-tailed).
+  outcome:
+    construct: algebra achievement
+    source_language: posttest
+    measure: 10-problem simultaneous equation posttest (25 points)
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+  time:
+    label: post
+  result:
+    measure_type: other
+    p_value: = .05
+    note: t(1,26) = 1.98, 2-tailed, as printed
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: unreported
+- id: highpk-completion-vs-full-posttest
+  comparison_ref: highpk-completion-vs-full
+  source_quote: In contrast, higher-prior knowledge learners demonstrated higher performance mean in completion-worked
+    examples (M = 11.19, SD = 2.06) than full-worked examples (M = 10.00, SD = 2.78). However, the difference
+    did not reach significant level (p = .22, ns.).
+  outcome:
+    construct: algebra achievement
+    source_language: posttest
+    measure: 10-problem simultaneous equation posttest (25 points)
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+  time:
+    label: post
+  result:
+    measure_type: other
+    p_value: = .22
+    note: 'Descriptive means only: completion M = 11.19, SD = 2.06; full M = 10.00, SD = 2.78; not significant'
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: unreported
+- id: pk-by-we-germane
+  comparison_ref: pk-by-we-interaction
+  source_quote: However, a significant interaction by germane cognitive load (F1, 107 = 4.72, p < .05,
+    ŋ2 = .04) was found between prior knowledge and worked example, suggesting germane cognitive load
+    may serve as a valid indicator for the cognitive process of high - and low-prior knowledge learners
+    when studying with worked examples.
+  outcome:
+    construct: germane cognitive load
+    source_language: germane cognitive load
+    measure: CLM germane subscale (Leppink et al., 2013)
+    direction: contextual
+    role: intermediate-outcome
+    role_basis: inferred
+  time:
+    label: post-learning
+  result:
+    measure_type: partial_eta_squared
+    estimate: 0.04
+    p_value: < .05
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: observed
+- id: pk-main-posttest
+  comparison_ref: highpk-vs-lowpk
+  source_quote: The follow-up analysis revealed significant main effects for high - and low-prior knowledge
+    learners by posttest (F1, 107 = 121.64, p < .001, ŋ2 = .53), intrinsic cognitive load (F1, 107 = 21.40,
+    p < .001, ŋ2 = .17), and germane cognitive load (F1, 107 = 18.12, p < .001, ŋ2 = .15).
+  outcome:
+    construct: algebra achievement
+    source_language: posttest
+    measure: 10-problem simultaneous equation posttest (25 points)
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+  time:
+    label: post
+  result:
+    measure_type: partial_eta_squared
+    estimate: 0.53
+    p_value: < .001
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: observed
+- id: pk-main-extraneous
+  comparison_ref: highpk-vs-lowpk
+  source_quote: but no significance was found between high- and low-prior knowledge learners for extraneous
+    cognitive load (F = .018, p = .895)
+  outcome:
+    construct: extraneous cognitive load
+    source_language: extraneous cognitive load
+    measure: CLM extraneous subscale (Leppink et al., 2013)
+    direction: lower-is-better
+    role: intermediate-outcome
+    role_basis: inferred
+  time:
+    label: post-learning
+  result:
+    measure_type: other
+    p_value: = .895
+    note: F = .018, as printed
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: unreported
+- id: td-main-intrinsic-extraneous
+  comparison_ref: difficult-vs-easy
+  source_quote: The analysis on the main effect of task difficulty was significant (Wilks’ Lambda λ =
+    .86, p < .05, ŋ2 = .14) as measured by intrinsic (F1, 107 = 8.60, p < .01, ŋ2 = .07) and extraneous
+    cognitive load (F1, 107 = 9.92, p < .01, ŋ2 = .09)
+  outcome:
+    construct: intrinsic cognitive load
+    source_language: intrinsic cognitive load
+    measure: CLM intrinsic subscale (Leppink et al., 2013)
+    direction: contextual
+    role: intermediate-outcome
+    role_basis: inferred
+  time:
+    label: post-learning
+  result:
+    measure_type: partial_eta_squared
+    estimate: 0.14
+    p_value: < .05
+    note: Multivariate main effect (Wilks' Lambda = .86); univariate intrinsic F1, 107 = 8.60, extraneous
+      F1, 107 = 9.92
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: observed
+- id: td-germane
+  comparison_ref: difficult-vs-easy
+  source_quote: but no significance was found for germane cognitive load ( F = .204, p < .653). The results
+    indicate high intrinsic or extraneous cognitive load due to task difficulty may render germane cognitive
+    load unavailable for learning.
+  outcome:
+    construct: germane cognitive load
+    source_language: germane cognitive load
+    measure: CLM germane subscale (Leppink et al., 2013)
+    direction: contextual
+    role: intermediate-outcome
+    role_basis: inferred
+  time:
+    label: post-learning
+  result:
+    measure_type: other
+    p_value: < .653
+    note: F = .204, as printed
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: unreported
+- id: pk-by-td-posttest
+  comparison_ref: pk-by-td-interaction
+  source_quote: Prior knowledge and task difficulty . No significant interaction was observed between
+    prior knowledge and task difficulty.
+  outcome:
+    construct: posttest and cognitive load
+    source_language: posttest and three types of cognitive load
+    measure: posttest and CLM subscales
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+  time:
+    label: post
+  result:
+    measure_type: other
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: unreported
+- id: germane-interest
+  comparison_ref: correlational
+  source_quote: The results showed that germane cognitive load was significantly positively correlated
+    with interest (r = .264, p < .01) suggesting the connection between germane cognitive load and learners’
+    interest in learning.
+  outcome:
+    construct: germane cognitive load
+    source_language: germane cognitive load
+    measure: CLM germane subscale (Leppink et al., 2013)
+    direction: contextual
+    role: intermediate-outcome
+    role_basis: inferred
+  time:
+    label: post-learning
+  result:
+    measure_type: correlation
+    estimate: 0.264
+    p_value: < .01
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: observed
+- id: intrinsic-anxiety
+  comparison_ref: correlational
+  source_quote: It was found intrinsic cognitive load was positively correlated with anxiety (r = .324,
+    p < .01) and challenge (r = .221, p < .01), but negatively correlated with probability of success
+    (r = -.299, p < .01)
+  outcome:
+    construct: intrinsic cognitive load
+    source_language: intrinsic cognitive load
+    measure: CLM intrinsic subscale (Leppink et al., 2013)
+    direction: contextual
+    role: intermediate-outcome
+    role_basis: inferred
+  time:
+    label: post-learning
+  result:
+    measure_type: correlation
+    estimate: 0.324
+    p_value: < .01
+    note: Correlation with QCM anxiety; challenge r = .221, probability of success r = -.299
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: observed
+- id: extraneous-germane
+  comparison_ref: correlational
+  source_quote: A negative correlation between extraneous cognitive load and germane cognitive load (r
+    = -.264, p < .01) was detected which confirms Sweller et al.’s (1998) hypothesis about the negative
+    relationship between extraneous and germane cognitive load.
+  outcome:
+    construct: extraneous cognitive load
+    source_language: extraneous cognitive load
+    measure: CLM extraneous subscale (Leppink et al., 2013)
+    direction: lower-is-better
+    role: intermediate-outcome
+    role_basis: inferred
+  time:
+    label: post-learning
+  result:
+    measure_type: correlation
+    estimate: -0.264
+    p_value: < .01
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: observed
+- id: extraneous-success
+  comparison_ref: correlational
+  source_quote: Finally, extraneous cognitive load was found to correlate negatively with the probability
+    of success (r = -.191, p < .05) in QCM.
+  outcome:
+    construct: extraneous cognitive load
+    source_language: extraneous cognitive load
+    measure: CLM extraneous subscale (Leppink et al., 2013)
+    direction: lower-is-better
+    role: intermediate-outcome
+    role_basis: inferred
+  time:
+    label: post-learning
+  result:
+    measure_type: correlation
+    estimate: -0.191
+    p_value: < .05
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: partial
+    effect_size: observed

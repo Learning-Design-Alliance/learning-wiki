@@ -1,0 +1,199 @@
+# alexander-scarlatos-2024 — written by the ingest pipeline from arxiv-2409.16490, and UNVERIFIED.
+# Extraction method is in provenance. Every field was validated against
+# observations/SCHEMA.md; none was checked against the article by a person.
+
+schema_version: 2
+study:
+  key: alexander-scarlatos-2024
+  citation: 'Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in
+    Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics
+    and Knowledge Conference. https://arxiv.org/abs/2409.16490'
+  design:
+    family: other
+    design_detail: Computational benchmark comparing knowledge tracing methods on two existing math tutoring
+      dialogue datasets (5-fold cross-validation on CoMTA, original train/test split on MathDial), plus
+      an IRB-approved human evaluation of GPT-4o annotations by 3 former math teachers.
+    preregistration:
+      status: unreported
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: '2026-09-24'
+  extraction_method: ingest-pipeline-v130 (claude-code-agent/opus-5.5)
+  verification: unverified
+appears_in:
+- claim: llmkt-outperforms-existing-kt-methods-on-tutoring-dialogues
+  bearing: supports
+  anchor: alexander-scarlatos-2024
+- claim: dkt-sem-outperforms-existing-kt-methods-most-with-little-training-data
+  bearing: supports
+  anchor: alexander-scarlatos-2024
+- claim: existing-kt-methods-fail-on-small-comta-but-improve-with-more-data-on-mathdial
+  bearing: supports
+  anchor: alexander-scarlatos-2024
+- claim: expert-teachers-rate-gpt-4o-dialogue-annotations-as-largely-accurate
+  bearing: supports
+  anchor: alexander-scarlatos-2024
+evidence_base:
+  unit: other
+  size:
+    value: 153
+    unit: other
+  population:
+    description: 'CoMTA: 153 dialogues between human students and Khanmigo after removing Calculus dialogues;
+      MathDial: dialogues between GPT-3.5-simulated students and crowd workers role-playing as tutors'
+    age_or_stage: unreported
+  context:
+    setting: One-on-one math tutoring dialogues
+    geography: unreported
+    delivery_mode: text dialogue with an AI or crowd-worker tutor
+  additional_sizes:
+  - value: 2823
+    unit: other
+    note: MathDial dialogues used, after removing 25 where GPT-4o annotation failed
+  - value: 3
+    unit: participants
+    note: former math teachers in the human evaluation
+  - value: 166
+    unit: pairs
+    note: turn pairs rated in the human evaluation
+  arms:
+  - id: llmkt
+    description: 'LLMKT: fine-tuned Llama-3.1-8B-Instruct estimating KC mastery from dialogue text'
+  - id: dkt-sem
+    description: 'DKT-Sem: DKT modified to use S-BERT semantic embeddings of dialogue text'
+  - id: existing-kt
+    description: Existing KT methods BKT, DKT, DKVMN, AKT, SAINT and simpleKT, run on single-KC pseudo-turns
+  - id: majority-baseline
+    description: Simple baseline of predicting the majority class label
+  - id: gpt-4o-annotation
+    description: GPT-4o zero-shot chain-of-thought annotation of correctness and Common Core KCs, rated
+      by expert annotators
+comparisons:
+- id: llmkt-vs-existing
+  kind: other
+  index_arm: llmkt
+  reference_arm:
+  - existing-kt
+  - dkt-sem
+  description: Model comparison of LLMKT against existing KT methods and DKT-Sem on turn correctness prediction
+- id: dktsem-vs-existing
+  kind: other
+  index_arm: dkt-sem
+  reference_arm: existing-kt
+  description: Model comparison of DKT-Sem against existing KT methods
+- id: existing-vs-majority
+  kind: other
+  index_arm: existing-kt
+  reference_arm: majority-baseline
+  description: Existing KT methods against the majority-class baseline on CoMTA
+- id: annotation-rating
+  kind: none
+  index_arm: gpt-4o-annotation
+  reference_arm: gpt-4o-annotation
+  description: 'No control group: expert human ratings of GPT-4o''s labels'
+observations:
+- id: llmkt-both-datasets
+  comparison_ref: llmkt-vs-existing
+  source_quote: We see that LLMKT significantly outperforms all existing KT methods and generally outperforms
+    DKT-Sem on both datasets, confirming its effectiveness in the dialogue setting.
+  outcome:
+    construct: student turn correctness prediction
+    source_language: Student dialogue turn correctness prediction performance
+    measure: Accuracy, AUC and F1
+    direction: higher-is-better
+    role: other
+    role_basis: ambiguous
+  time:
+    label: test
+  result:
+    measure_type: other
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: unreported
+    effect_size: unreported
+- id: dktsem-both-datasets
+  comparison_ref: dktsem-vs-existing
+  source_quote: We also see that DKT-Sem performs better than all existing KT methods, even though it
+    largely uses the same model architecture as DKT.
+  outcome:
+    construct: student turn correctness prediction
+    source_language: Student dialogue turn correctness prediction performance
+    measure: Accuracy, AUC and F1
+    direction: higher-is-better
+    role: other
+    role_basis: ambiguous
+  time:
+    label: test
+  result:
+    measure_type: other
+  moderators:
+    reported:
+    - variable: amount of training data
+      relationship: DKT-Sem's margin over existing methods is smaller on the larger MathDial dataset
+      source_quote: While DKT-Sem still outperforms existing KT methods, it does so by a smaller margin
+        than on CoMTA, indicating DKT-Sem has its greatest advantage when little training data is given.
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: unreported
+    effect_size: unreported
+- id: existing-comta
+  comparison_ref: existing-vs-majority
+  source_quote: On CoMTA, we see that all existing KT methods almost completely fail, unable to outperform
+    the simple baseline of predicting the majority class label (which corresponds to an Acc. of 57.83±5.08,
+    AUC of 50.0±0.00, and F1 of 58.87±29.70).
+  outcome:
+    construct: student turn correctness prediction
+    source_language: Student dialogue turn correctness prediction performance
+    measure: Accuracy, AUC and F1 on CoMTA
+    direction: higher-is-better
+    role: other
+    role_basis: ambiguous
+  time:
+    label: test
+  result:
+    measure_type: other
+  moderators:
+    reported: []
+    candidate:
+    - dataset size
+  observability:
+    population_detail: partial
+    implementation_detail: observed
+    outcome_timing: unreported
+    effect_size: unreported
+- id: human-rating-scores
+  comparison_ref: annotation-rating
+  source_quote: We see that our annotators give GPT-4o very high scores for correctness and moderate-to-high
+    scores for KCs, indicating that GPT-4o is able to competently perform these tasks.
+  sample:
+    value: 166
+    unit: pairs
+  outcome:
+    construct: annotation accuracy
+    source_language: very high scores for correctness and moderate-to-high scores for KCs
+    measure: Expert rating of GPT-4o labels (correctness 1 or 0; standards on a 1-to-4 scale)
+    direction: higher-is-better
+    role: other
+    role_basis: ambiguous
+  time:
+    label: post
+  result:
+    measure_type: qualitative
+    finding: Annotators gave GPT-4o very high scores for correctness and moderate-to-high scores for KCs.
+    perspective: participant
+    collection_method: expert rating
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: unreported
+    effect_size: unreported

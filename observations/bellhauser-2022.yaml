@@ -1,0 +1,579 @@
+# bellhauser-2022 — written by the ingest pipeline from pmc-9083074, and UNVERIFIED.
+# Extraction method is in provenance. Every field was validated against
+# observations/SCHEMA.md; none was checked against the article by a person.
+
+schema_version: 2
+study:
+  key: bellhauser-2022
+  citation: 'Bellhäuser, H., Liborius, P., & Schmitz, B. (2022). Fostering Self-Regulated Learning in
+    Online Environments: Positive Effects of a Web-Based Training With Peer Feedback on Learning Behavior.
+    Frontiers in Psychology, 13, 813381. https://doi.org/10.3389/fpsyg.2022.813381'
+  design:
+    family: randomized-controlled-trial
+    design_detail: Four-group randomized trial with pre- and post-tests; randomization stratified within
+      eight gender by field-of-study subpopulations; nested design of intervention combinations
+    preregistration:
+      status: unreported
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: '2026-09-24'
+  extraction_method: ingest-pipeline-v130 (claude-code-agent/opus-5.5)
+  verification: unverified
+appears_in:
+- claim: srl-web-training-peer-feedback-group-by-time-interaction-online-math-prep
+  bearing: supports
+  anchor: bellhäuser-2022-2
+- claim: srl-interventions-math-overall-score-marginal-focus-score-significant-online-prep-course
+  bearing: supports
+  anchor: bellhäuser-2022
+- claim: srl-interventions-math-overall-score-marginal-focus-score-significant-online-prep-course
+  bearing: supports
+  anchor: bellhäuser-2022-2
+- claim: web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math
+  bearing: supports
+  anchor: bellhäuser-2022
+- claim: peer-feedback-groups-added-to-web-based-srl-training-raise-srl-self-efficacy-and-math-focus-score
+  bearing: supports
+  anchor: bellhäuser-2022
+- claim: peer-feedback-groups-added-to-web-based-srl-training-raise-srl-self-efficacy-and-math-focus-score
+  bearing: supports
+  anchor: bellhäuser-2022-2
+- claim: peer-feedback-groups-add-self-motivation-volition-reflection-gains-to-web-based-srl-training
+  bearing: supports
+  anchor: bellhäuser-2022
+- claim: learning-diary-alone-no-significant-srl-gains-online-math-prep-course
+  bearing: supports
+  anchor: bellhäuser-2022
+- claim: srl-interventions-increase-logged-time-investment-online-math-prep-course
+  bearing: supports
+  anchor: bellhäuser-2022
+- claim: srl-interventions-increase-logged-time-investment-online-math-prep-course
+  bearing: supports
+  anchor: bellhäuser-2022-2
+evidence_base:
+  unit: participants
+  size:
+    value: 136
+    unit: participants
+  additional_sizes:
+  - value: 289
+    unit: participants
+    note: recruited
+  - value: 170
+    unit: participants
+    note: complete data before screening out low-effort post-tests
+  population:
+    description: Prospective university students in mathematically oriented fields (computer science,
+      civil engineering, mechanical engineering, mathematics), predominantly male
+    age_or_stage: mean age 19.8 years (SD = 1.48); entering first university term
+  context:
+    setting: Voluntary four-week online mathematics preparation course in Moodle before the first university
+      term, no classroom instruction
+    geography: technical university in Germany
+    delivery_mode: online
+  arms:
+  - id: c
+    description: 'Control Group C: no access to the training or the diary, not placed into peer feedback
+      groups'
+    size:
+      value: 34
+      unit: participants
+  - id: d
+    description: Group D (Diary) kept a learning diary throughout the preparation course
+    size:
+      value: 28
+      unit: participants
+    elements:
+    - term: learning diary
+    delivery:
+      grouping: individual
+      role: add-on
+      basis: inferred
+  - id: td
+    description: Group TD (Training + Diary) had access to web-based SRL training and kept a learning
+      diary
+    size:
+      value: 40
+      unit: participants
+    elements:
+    - term: learning diary
+    - term: web-based SRL training
+    delivery:
+      grouping: individual
+      role: add-on
+      basis: inferred
+  - id: tdp
+    description: Group TDP kept a diary, attended the web-based SRL training, and worked in groups of
+      five on additional SRL tasks that included peer feedback
+    size:
+      value: 34
+      unit: participants
+    elements:
+    - term: learning diary
+    - term: web-based SRL training
+    - term: peer feedback groups
+    delivery:
+      grouping: mixed
+      role: add-on
+      basis: inferred
+comparisons:
+- id: four-group-interaction
+  kind: between-groups
+  index_arm: tdp
+  reference_arm:
+  - c
+  - d
+  - td
+  description: Omnibus group effect (group by time interaction for pre-post measures; one-way ANOVA for
+    time investment) across the four conditions
+- id: d-vs-c
+  kind: between-groups
+  index_arm: d
+  reference_arm: c
+  description: Diary versus control
+- id: td-vs-d
+  kind: between-groups
+  index_arm: td
+  reference_arm: d
+  description: Training + diary versus diary
+- id: tdp-vs-td
+  kind: between-groups
+  index_arm: tdp
+  reference_arm: td
+  description: Training + diary + peer feedback versus training + diary
+observations:
+- id: srl-knowledge-interaction
+  comparison_ref: four-group-interaction
+  source_quote: "SRL knowledge test\t3, 132\t38.20\t<0.001\t0.46\t1, 132\t206.34\t<0.001\t0.40\t3, 132\t\
+    59.23\t<0.001\t0.34"
+  sample:
+    value: 136
+    unit: participants
+  outcome:
+    construct: Declarative SRL knowledge
+    source_language: SRL knowledge test
+    measure: 20-item multiple-choice test (0 to 20 points)
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+  time:
+    label: pre-to-post gain
+  result:
+    measure_type: partial_eta_squared
+    estimate: 0.34
+    p_value: <0.001
+    note: Group x time interaction, F = 59.23, df 3, 132
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: observed
+  moderators:
+    reported: []
+    candidate: []
+- id: self-efficacy-interaction
+  comparison_ref: four-group-interaction
+  source_quote: "Self-efficacy\t3, 132\t0.06\t0.978\t0.00\t1, 132\t9.44\t0.003\t0.06\t3, 132\t5.914\t\
+    <0.001\t0.11"
+  sample:
+    value: 136
+    unit: participants
+  outcome:
+    construct: General self-efficacy
+    source_language: self-efficacy
+    measure: Generalized Self-Efficacy Scale, ten items
+    direction: higher-is-better
+    role: learner-characteristic
+    role_basis: inferred
+  time:
+    label: pre-to-post gain
+  result:
+    measure_type: partial_eta_squared
+    estimate: 0.11
+    p_value: <0.001
+    note: Group x time interaction, F = 5.914, df 3, 132
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: observed
+  moderators:
+    reported: []
+    candidate: []
+- id: srl-overall-interaction
+  comparison_ref: four-group-interaction
+  source_quote: "SRL overall score\t3, 132\t2.49\t0.063\t0.05\t1, 132\t29.40\t<0.001\t0.15\t3, 132\t12.55\t\
+    <0.001\t0.19"
+  sample:
+    value: 136
+    unit: participants
+  outcome:
+    construct: Self-reported SRL behavior
+    source_language: SRL overall score
+    measure: 26-item SRL questionnaire with seven subscales
+    direction: higher-is-better
+    role: proximal-outcome
+    role_basis: inferred
+  time:
+    label: pre-to-post gain
+  result:
+    measure_type: partial_eta_squared
+    estimate: 0.19
+    p_value: <0.001
+    note: Group x time interaction, F = 12.55, df 3, 132
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: observed
+  moderators:
+    reported: []
+    candidate: []
+- id: math-overall-interaction
+  comparison_ref: four-group-interaction
+  source_quote: "Mathematics overall score\t3, 132\t0.44\t0.727\t0.01\t1, 132\t11.50\t<0.001\t0.08\t3,\
+    \ 132\t2.50\t0.062\t0.05"
+  sample:
+    value: 136
+    unit: participants
+  outcome:
+    construct: Mathematics performance, all chapters
+    source_language: Mathematics overall score
+    measure: 52-problem mathematics test
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+  time:
+    label: pre-to-post gain
+  result:
+    measure_type: partial_eta_squared
+    estimate: 0.05
+    p_value: '0.062'
+    note: Group x time interaction, F = 2.50, df 3, 132; marginally non-significant
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: observed
+  moderators:
+    reported: []
+    candidate: []
+- id: math-focus-interaction
+  comparison_ref: four-group-interaction
+  source_quote: "Mathematics focus score\t3, 132\t0.06\t0.978\t0.00\t1, 132\t17.31\t<0.001\t0.11\t3, 132\t\
+    2.69\t0.049\t0.05"
+  sample:
+    value: 136
+    unit: participants
+  outcome:
+    construct: Mathematics performance on self-chosen chapters
+    source_language: Mathematics focus score
+    measure: ten problems from the ten chapters each participant chose (0 to 10)
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+  time:
+    label: pre-to-post gain
+  result:
+    measure_type: partial_eta_squared
+    estimate: 0.05
+    p_value: '0.049'
+    note: Group x time interaction, F = 2.69, df 3, 132
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: observed
+  moderators:
+    reported: []
+    candidate: []
+- id: td-srl-knowledge-gain
+  arm_ref: td
+  source_quote: As seen in Table 3, Group TD showed statistically significant increases in SRL knowledge
+    (β = 3.95; p < 0.001), in the SRL overall score (β = 0.31; p < 0.001) and in self-efficacy (β = 0.20;
+    p = 0.04) but not in mathematics scores.
+  sample:
+    value: 40
+    unit: participants
+  outcome:
+    construct: Declarative SRL knowledge
+    source_language: SRL knowledge
+    measure: SRL knowledge test
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+  time:
+    label: pre-to-post gain
+  result:
+    measure_type: regression_coefficient
+    estimate: 3.95
+    p_value: < 0.001
+    note: Planned contrast of the pre-to-post gain; the article does not say whether the coefficient is
+      standardised
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: observed
+  moderators:
+    reported: []
+    candidate: []
+- id: td-self-efficacy-gain
+  arm_ref: td
+  source_quote: As seen in Table 3, Group TD showed statistically significant increases in SRL knowledge
+    (β = 3.95; p < 0.001), in the SRL overall score (β = 0.31; p < 0.001) and in self-efficacy (β = 0.20;
+    p = 0.04) but not in mathematics scores.
+  sample:
+    value: 40
+    unit: participants
+  outcome:
+    construct: General self-efficacy
+    source_language: self-efficacy
+    measure: Generalized Self-Efficacy Scale
+    direction: higher-is-better
+    role: learner-characteristic
+    role_basis: inferred
+  time:
+    label: pre-to-post gain
+  result:
+    measure_type: regression_coefficient
+    estimate: 0.2
+    p_value: = 0.04
+    note: Planned contrast of the pre-to-post gain; the article does not say whether the coefficient is
+      standardised
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: observed
+  moderators:
+    reported: []
+    candidate: []
+- id: tdp-srl-knowledge-gain
+  arm_ref: tdp
+  source_quote: Similarly, for Group TDP, the increases in SRL knowledge (β = 4.61; p < 0.001), in the
+    SRL overall score (β = 0.52; p < 0.001) and in self-efficacy (β = 0.28; p < 0.01) were determined
+    to be statistically significant.
+  sample:
+    value: 34
+    unit: participants
+  outcome:
+    construct: Declarative SRL knowledge
+    source_language: SRL knowledge
+    measure: SRL knowledge test
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+  time:
+    label: pre-to-post gain
+  result:
+    measure_type: regression_coefficient
+    estimate: 4.61
+    p_value: < 0.001
+    note: Planned contrast of the pre-to-post gain as printed in the text; Table 3 prints 4.62; standardisation
+      not stated
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: observed
+  moderators:
+    reported: []
+    candidate: []
+- id: tdp-math-focus-gain
+  arm_ref: tdp
+  source_quote: By contrast to Group TD, Group TDP showed statistically significant increases in the mathematics
+    focus score (β = 1.23; p < 0.001).
+  sample:
+    value: 34
+    unit: participants
+  outcome:
+    construct: Mathematics performance on self-chosen chapters
+    source_language: mathematics focus score
+    measure: ten self-chosen problems of the mathematics test
+    direction: higher-is-better
+    role: capability-evidence
+    role_basis: inferred
+  time:
+    label: pre-to-post gain
+  result:
+    measure_type: regression_coefficient
+    estimate: 1.23
+    p_value: < 0.001
+    note: Planned contrast of the pre-to-post gain; standardisation not stated
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: observed
+  moderators:
+    reported: []
+    candidate: []
+- id: tdp-self-motivation-gain
+  arm_ref: tdp
+  source_quote: Group TDP also showed statistically significant increases in planning (β = 0.80; p < 0.001)
+    and in metacognition (β = 0.88; p < 0.001); in addition, Group TDP showed statistically significant
+    increases in self-motivation (β = 0.50; p < 0.01), volition (β = 0.48; p = 0.01), and reflection (β
+    = 0.52; p = 0.02).
+  sample:
+    value: 34
+    unit: participants
+  outcome:
+    construct: Self-reported self-motivation
+    source_language: self-motivation
+    measure: three-item SRL questionnaire subscale
+    direction: higher-is-better
+    role: proximal-outcome
+    role_basis: inferred
+  time:
+    label: pre-to-post gain
+  result:
+    measure_type: regression_coefficient
+    estimate: 0.5
+    p_value: < 0.01
+    note: Planned contrast of the pre-to-post gain; standardisation not stated
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: observed
+  moderators:
+    reported: []
+    candidate: []
+- id: diary-no-gains
+  arm_ref: d
+  source_quote: Groups C and D showed no statistically significant increases in any dependent variable.
+  sample:
+    value: 28
+    unit: participants
+  outcome:
+    construct: All dependent variables
+    source_language: any dependent variable
+    measure: SRL knowledge, SRL questionnaire, self-efficacy and mathematics focus score
+    direction: higher-is-better
+    role: proximal-outcome
+    role_basis: inferred
+  time:
+    label: pre-to-post gain
+  result:
+    measure_type: other
+    note: No statistically significant pre-to-post increase in any dependent variable
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  moderators:
+    reported: []
+    candidate: []
+- id: time-investment-anova
+  comparison_ref: four-group-interaction
+  source_quote: 'The differences between group means (Group C: M = 21.03 h, SD = 17.56; Group D: M = 28.23
+    h, SD = 14.13; Group TD: M = 29.32 h, SD = 17.79; Group TDP: M = 33.56 h, SD = 18.87) were determined
+    to be significant (F(3, 132) = 3.08; p = 0.030; ηp2 = 0.06).'
+  sample:
+    value: 136
+    unit: participants
+  outcome:
+    construct: Time investment in the mathematics course
+    source_language: time investment
+    measure: summed duration of Moodle log-file learning sessions (hours)
+    direction: higher-is-better
+    role: intermediate-outcome
+    role_basis: inferred
+  time:
+    label: post
+  result:
+    measure_type: partial_eta_squared
+    estimate: 0.06
+    p_value: = 0.030
+    note: One-way ANOVA on post-only log data, F(3, 132) = 3.08
+    descriptives:
+      c: M = 21.03 h, SD = 17.56
+      d: M = 28.23 h, SD = 14.13
+      td: M = 29.32 h, SD = 17.79
+      tdp: M = 33.56 h, SD = 18.87
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: observed
+  moderators:
+    reported: []
+    candidate: []
+- id: time-d-vs-c
+  comparison_ref: d-vs-c
+  source_quote: Contrast analyses revealed that differences between adjacent Groups C and D (p < 0.01),
+    D and TD (p = 0.02), and TDP and TD (p = 0.03) all were significant.
+  outcome:
+    construct: Time investment in the mathematics course
+    source_language: time investment
+    measure: Moodle log files
+    direction: higher-is-better
+    role: intermediate-outcome
+    role_basis: inferred
+  time:
+    label: post
+  result:
+    measure_type: other
+    p_value: < 0.01
+    note: Contrast between adjacent groups; no effect size printed
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  moderators:
+    reported: []
+    candidate: []
+- id: time-td-vs-d
+  comparison_ref: td-vs-d
+  source_quote: Contrast analyses revealed that differences between adjacent Groups C and D (p < 0.01),
+    D and TD (p = 0.02), and TDP and TD (p = 0.03) all were significant.
+  outcome:
+    construct: Time investment in the mathematics course
+    source_language: time investment
+    measure: Moodle log files
+    direction: higher-is-better
+    role: intermediate-outcome
+    role_basis: inferred
+  time:
+    label: post
+  result:
+    measure_type: other
+    p_value: = 0.02
+    note: Contrast between adjacent groups; no effect size printed
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  moderators:
+    reported: []
+    candidate: []
+- id: time-tdp-vs-td
+  comparison_ref: tdp-vs-td
+  source_quote: Contrast analyses revealed that differences between adjacent Groups C and D (p < 0.01),
+    D and TD (p = 0.02), and TDP and TD (p = 0.03) all were significant.
+  outcome:
+    construct: Time investment in the mathematics course
+    source_language: time investment
+    measure: Moodle log files
+    direction: higher-is-better
+    role: intermediate-outcome
+    role_basis: inferred
+  time:
+    label: post
+  result:
+    measure_type: other
+    p_value: = 0.03
+    note: Contrast between adjacent groups; no effect size printed
+  observability:
+    population_detail: observed
+    implementation_detail: observed
+    outcome_timing: observed
+    effect_size: unreported
+  moderators:
+    reported: []
+    candidate: []

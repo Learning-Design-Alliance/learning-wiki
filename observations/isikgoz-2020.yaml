@@ -1,0 +1,312 @@
+# isikgoz-2020 — written by the ingest pipeline from eric-ed608853, and UNVERIFIED.
+# Extraction method is in provenance. Every field was validated against
+# observations/SCHEMA.md; none was checked against the article by a person.
+
+schema_version: 2
+study:
+  key: isikgoz-2020
+  citation: 'Isikgoz, Mustafa Enes. (2020). Analysis on Philosophical Beliefs of Physical Education and
+    Sports Teachers towards Education in Terms of Different Variables. TOJET: The Turkish Online Journal
+    of Educational Technology, November 2020, Special issue. https://eric.ed.gov/?id=ED608853'
+  design:
+    family: observational
+    design_detail: descriptive survey model; online questionnaire filled on a voluntary basis; non-parametric
+      Mann-Whitney U and Kruskall-Wallis H tests, with Bonferroni correction on follow-up Mann-Whitney
+      U tests
+    preregistration:
+      status: unreported
+provenance:
+  source_type: research
+  extracted_by: claude/unspecified
+  extracted_at: '2026-09-24'
+  extraction_method: ingest-pipeline-v130 (claude-code-agent/opus-5.5)
+  verification: unverified
+appears_in:
+- claim: pe-teacher-educational-philosophy-beliefs-differ-by-gender
+  bearing: supports
+  anchor: isikgoz-2020
+- claim: pe-teacher-educational-philosophy-beliefs-differ-by-gender
+  bearing: supports
+  anchor: isikgoz-2020-2
+- claim: high-school-pe-teachers-endorse-perennialism-more-than-secondary-school-teachers
+  bearing: supports
+  anchor: isikgoz-2020
+- claim: graduate-educated-pe-teachers-endorse-progressivism-perennialism-and-essentialism-more
+  bearing: supports
+  anchor: isikgoz-2020
+- claim: pe-teacher-essentialism-rises-and-progressivism-falls-with-seniority
+  bearing: supports
+  anchor: isikgoz-2020
+- claim: pe-teacher-essentialism-rises-and-progressivism-falls-with-seniority
+  bearing: supports
+  anchor: isikgoz-2020-2
+evidence_base:
+  unit: participants
+  size:
+    value: 789
+    unit: participants
+  population:
+    description: physical education teachers working in official secondary and high schools
+    age_or_stage: in-service teachers with 1-25 years of professional seniority
+  context:
+    setting: official secondary and high schools
+    geography: Turkey
+    delivery_mode: online questionnaire form created by using google docs infrastructure
+  arms:
+  - id: male
+    description: Male physical education and sports teachers
+    size:
+      value: 513
+      unit: participants
+  - id: female
+    description: Female physical education and sports teachers
+    size:
+      value: 276
+      unit: participants
+  - id: middle-school
+    description: Teachers who work in middle school (labelled secondary school in Table 4)
+    size:
+      value: 450
+      unit: participants
+  - id: high-school
+    description: Teachers who work in high school
+    size:
+      value: 339
+      unit: participants
+  - id: undergraduate
+    description: Teachers with an undergraduate degree
+    size:
+      value: 660
+      unit: participants
+  - id: graduate
+    description: Teachers with a graduate degree
+    size:
+      value: 129
+      unit: participants
+  - id: seniority-1-5
+    description: 1-5 years of professional seniority
+    size:
+      value: 260
+      unit: participants
+  - id: seniority-6-10
+    description: 6-10 years of professional seniority
+    size:
+      value: 148
+      unit: participants
+  - id: seniority-11-15
+    description: 11-15 years of professional seniority
+    size:
+      value: 165
+      unit: participants
+  - id: seniority-16-20
+    description: 16-20 years of professional seniority
+    size:
+      value: 103
+      unit: participants
+  - id: seniority-21-25
+    description: 21-25 years of professional seniority
+    size:
+      value: 113
+      unit: participants
+comparisons:
+- id: female-vs-male
+  kind: between-groups
+  index_arm: female
+  reference_arm: male
+  description: Gender comparison of sub-dimension scores by Mann-Whitney U; naturally occurring groups,
+    no intervention.
+- id: high-vs-middle-school
+  kind: between-groups
+  index_arm: high-school
+  reference_arm: middle-school
+  description: Type of school comparison by Mann-Whitney U.
+- id: graduate-vs-undergraduate
+  kind: between-groups
+  index_arm: graduate
+  reference_arm: undergraduate
+  description: Educational background comparison by Mann-Whitney U.
+- id: seniority-bands
+  kind: other
+  index_arm: seniority-21-25
+  reference_arm:
+  - seniority-1-5
+  - seniority-6-10
+  - seniority-11-15
+  - seniority-16-20
+  description: Omnibus Kruskall-Wallis H test across the five seniority bands, followed by Bonferroni-corrected
+    Mann-Whitney U tests between bands.
+observations:
+- id: gender-significant-dimensions
+  comparison_ref: female-vs-male
+  source_quote: educational philosophy beliefs of physical education and sports teachers significantly
+    differ by gender in the sub-dimensions of Progressivism (U = 61740.00; p <0.05), Existentialist Education
+    (U = 59697.00; p <0.05), Perennialism (U = 41683.50; p <0.05) and Essentialism (U = 45013.50; p <0.05)
+  sample:
+    value: 789
+    unit: participants
+  outcome:
+    construct: Progressivism, existentialist education, perennialism and essentialism beliefs
+    source_language: philosophical beliefs of physical education and sports teachers towards education
+    measure: Educational Belief Scale sub-dimension scores (five-point Likert-type)
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+  time:
+    label: single survey administration
+  result:
+    measure_type: other
+    p_value: <0.05
+    note: Mann-Whitney U statistics as printed; no effect size.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: partial
+    outcome_timing: unreported
+    effect_size: unreported
+- id: gender-reconstructivism
+  comparison_ref: female-vs-male
+  source_quote: educational philosophy beliefs do not differ significantly by gender in the sub-dimension
+    of Reconstructivism (U = 68575.50; p> 0.05).
+  sample:
+    value: 789
+    unit: participants
+  outcome:
+    construct: Reconstructivism belief
+    source_language: philosophical beliefs of physical education and sports teachers towards education
+    measure: Educational Belief Scale sub-dimension scores (five-point Likert-type)
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+  time:
+    label: single survey administration
+  result:
+    measure_type: other
+    p_value: '> 0.05'
+    note: Mann-Whitney U = 68575.50, non-significant.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: partial
+    outcome_timing: unreported
+    effect_size: unreported
+- id: school-type-perennialism
+  comparison_ref: high-vs-middle-school
+  source_quote: educational philosophy beliefs of physical education and sports teachers significantly
+    differ by the type of school they work only in the sub-dimension of Perennialism (U=45945.00; p<0.05)
+    while educational philosophy beliefs do not differ significantly by the type of school they work in
+    the other sub- dimensions (p>0.05).
+  sample:
+    value: 789
+    unit: participants
+  outcome:
+    construct: Perennialism belief (the only significant school-type dimension)
+    source_language: philosophical beliefs of physical education and sports teachers towards education
+    measure: Educational Belief Scale sub-dimension scores (five-point Likert-type)
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+  time:
+    label: single survey administration
+  result:
+    measure_type: other
+    p_value: <0.05
+    note: Mann-Whitney U=45945.00; other dimensions p>0.05.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: partial
+    outcome_timing: unreported
+    effect_size: unreported
+- id: education-dimensions
+  comparison_ref: graduate-vs-undergraduate
+  source_quote: significantly differ by education in the sub-dimensions of Progressivism (U=33282.00;
+    p<0.05), Perennialism (U=34749.00; p<0.05) and Essentialism (U=24160.50; p<0.05) while educational
+    philosophy beliefs do not differ significantly by education in the sub-dimensions of Existentialist
+    Education (U=41953.50; p>0.05) and Reconstructivism (U=42237.00; p>0.05).
+  sample:
+    value: 789
+    unit: participants
+  outcome:
+    construct: Progressivism, perennialism and essentialism beliefs
+    source_language: philosophical beliefs of physical education and sports teachers towards education
+    measure: Educational Belief Scale sub-dimension scores (five-point Likert-type)
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+  time:
+    label: single survey administration
+  result:
+    measure_type: other
+    p_value: <0.05
+    note: Mann-Whitney U statistics as printed; existentialist education and reconstructivism non-significant.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: partial
+    outcome_timing: unreported
+    effect_size: unreported
+- id: seniority-dimensions
+  comparison_ref: seniority-bands
+  source_quote: significantly differ by professional seniority in the sub-dimensions of Progressivism
+    (KWH(4-789)=54.119; p<0.05), Existentialist Education (KWH (4-789)=52.218; p<0.05), Reconstructivism
+    (KWH (4-789)=40.619; p<0.05) and Essentialism (KWH (4-789)=55.846; p<0.05)
+  sample:
+    value: 789
+    unit: participants
+  outcome:
+    construct: Progressivism, existentialist education, reconstructivism and essentialism beliefs
+    source_language: philosophical beliefs of physical education and sports teachers towards education
+    measure: Educational Belief Scale sub-dimension scores (five-point Likert-type)
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+  time:
+    label: single survey administration
+  result:
+    measure_type: other
+    p_value: <0.05
+    note: Kruskall-Wallis H values with 4 df as printed; no effect size.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: partial
+    outcome_timing: unreported
+    effect_size: unreported
+- id: seniority-perennialism
+  comparison_ref: seniority-bands
+  source_quote: educational philosophy beliefs do not differ significantly by professional seniority in
+    the sub-dimension of Perennialism (KWH(4-789)=8.005; p>0.05).
+  sample:
+    value: 789
+    unit: participants
+  outcome:
+    construct: Perennialism belief
+    source_language: philosophical beliefs of physical education and sports teachers towards education
+    measure: Educational Belief Scale sub-dimension scores (five-point Likert-type)
+    direction: contextual
+    role: learner-characteristic
+    role_basis: inferred
+  time:
+    label: single survey administration
+  result:
+    measure_type: other
+    p_value: '>0.05'
+    note: KWH(4-789)=8.005, non-significant.
+  moderators:
+    reported: []
+    candidate: []
+  observability:
+    population_detail: partial
+    implementation_detail: partial
+    outcome_timing: unreported
+    effect_size: unreported

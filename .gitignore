@@ -14,6 +14,9 @@ eval/corpus/cache/
 eval/corpus/.discovery_cache.json
 eval/corpus/manifest_*.json
 eval/corpus/doi_resolution_cache.json
+# discover_articles.py's per-machine retry registry; sources/manifest.ndjson is the
+# committed record of what was reviewed (see CLAUDE.md, Source Manifest)
+eval/corpus/processed_articles.json
 eval/runs/
 
 # wiki_health_check.py's dated reports (regenerable) and its run-history

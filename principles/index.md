@@ -2,7 +2,7 @@
 
 Research-backed design commitments: what to do and why.
 
-**199 entries** · 0 stable · 150 in review · 49 drafts
+**214 entries** · 0 stable · 150 in review · 64 drafts
 
 ---
 
@@ -232,9 +232,24 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 ## Draft
 
+Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) · [F](#letter-f) · [G](#letter-g) · [H](#letter-h) · [I](#letter-i) · [L](#letter-l) · [M](#letter-m) · [N](#letter-n) · [P](#letter-p) · [R](#letter-r) · [S](#letter-s) · [T](#letter-t) · [U](#letter-u) · [V](#letter-v) · [W](#letter-w)
+
+#### A {: #letter-a }
+
 * [Access-Use-Effectiveness Framework](access-use-effectiveness-framework.md) - A three-stage framework for evaluating school or district technology integration — having devices (access) does not imply using them for instruction (use), and using them does not imply doing so in pedagogically sound, student-centered ways (effectiveness).
+* [Adaptive Learning Consistent with Knowledge Level and Knowledge Structure](adaptive-learning-consistent-with-cognitive-structure.md) - The survey argues that because students' cognitive structures include both their knowledge level and the knowledge structure of learning items (e.g., prerequisites), \"adaptive learning should maintain consistency with...
+* [Add instructional strategies such as worked examples to commercial off-the-shelf games used for training](add-worked-examples-to-commercial-off-the-shelf-games-for-training.md) - The authors conclude that game play alone can be supplemented with instruction: providing worked examples \"could enhance the training effectiveness with commercial off-the-shelf computer games.\" They present the study...
+* [Analyze Student Dialogue Turns as Formative Assessment](analyze-student-dialogue-turns-as-formative-assessment.md) - The article argues that student turns in tutoring dialogues, not only tutor turns, should be analyzed, because open-ended student discourse may reveal flaws in knowledge and specific misconceptions.
 * [Appropriating Disciplinary Tools to Challenge Restrictive Narratives](appropriating-disciplinary-tools-to-challenge-restrictive-narratives.md) - A teacher's authentic, hands-on experience of a disciplinary tool (e.g., the engineering design process) as genuinely nonlinear and heterogeneous can be used to actively reframe restrictive, exclusionary narratives about who belongs in a discipline and what counts as doing it.
+
+#### B {: #letter-b }
+
+* [Balance Retrieval Success and Retrieval Effort](balance-retrieval-success-and-retrieval-effort.md) - The chapter's common theme across manipulations of initial retrieval practice: \"Conditions that provide less retrieval support and require more effort from the learner tend to produce greater gains in learning, as lon...
+* [Build Connections Between Mathematics and Other Practices](build-connections-between-mathematics-and-other-practices.md) - The author's recommendation that \"mathematics education researchers need to build connections between mathematics and other practices\" in order to humanize mathematics and make it normal and ordinary.
 * [Bullying Prevention and Intervention](bullying-prevention-and-intervention.md) - Effective bullying response requires recognizing the full set of participant roles (not just bully and victim), addressing the power imbalance and repetition that define bullying, and treating cyberbullying as a distinct problem requiring its own detection and response strategies.
+
+#### C {: #letter-c }
+
 * [Character Education](character-education.md) - Character education integrates ethical understanding, emotional/caring responses, and concrete moral action, typically operating schoolwide through democratic practice, relationship-building, and service rather than through rule recitation alone.
 * [Classroom Space and Procedural Design](classroom-space-and-procedural-design.md) - Preventing management problems before they start depends on how classroom space is arranged, whether procedures (conventional, efficiency-focused) are distinguished from rules (moral, responsibility-focused), how difficulty is sequenced, how much structure is given, and how transitions are handled.
 * [Cognitive Styles](cognitive-styles.md) - Cognitive styles are relatively stable individual differences in how people typically perceive, remember, and solve problems — distinct from the broader, less reliable notion of "learning styles" — and knowledge of a student's style can be used either to play to their existing strengths or to deliberately build the balance they lack.
@@ -244,40 +259,99 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) - Criterion-referenced tests report what a student can and cannot do against a fixed standard; norm-referenced tests report how a student compares to others who took the same test — genuinely different information, suited to different decisions, and not interchangeable.
 * [Culturally Responsive Classroom Norms](culturally-responsive-classroom-norms.md) - Many taken-for-granted classroom norms — eye contact, wait time, the purpose of a question, competition versus cooperation, punctuality — reflect specific cultural assumptions (often an independent, individualist view of the self) that can mismatch a student's own cultural norms and produce misunderstanding on both sides, independent of the student's actual ability or motivation.
 * [Curricular Knowledge as a Resource for Responsiveness](curricular-knowledge-as-a-resource-for-responsiveness.md) - Deep knowledge of why a curriculum's activities and question sequences are designed the way they are — not just the content itself — equips teachers to respond flexibly to student thinking within research-based instructional materials, rather than treating the curriculum as a fixed script.
+
+#### D {: #letter-d }
+
 * [Designing a Valid Experiment](designing-a-valid-experiment.md) - A scientific experiment isolates one manipulated variable between an experimental and control group, guards against experimenter and participant-expectancy bias through blinding, and uses random sampling for generalizability and random assignment for causal inference — two distinct uses of randomness that are often conflated.
+
+#### E {: #letter-e }
+
 * [Educational Psychology as Both Art and Science](educational-psychology-as-art-and-science.md) - Educational psychology bridges the scientific study of learning with the art of teaching practice — research findings inform practice, and practice raises new questions for systematic study, in a continuing loop.
 * [Educational Readiness](educational-readiness.md) - Educational readiness has two complementary meanings — a student's preparedness for the activities and expectations of school, and a teacher's or school's responsibility to adjust instruction to meet students where they actually are.
 * [Effective Classroom Management Plan Criteria](effective-classroom-management-plan.md) - A comprehensive classroom management plan establishes positive relationships, prevents attention-seeking and work-avoidance behavior, redirects misbehavior quickly and unobtrusively, stops chronic misbehavior with consistent simple strategies, teaches self-control, and respects cultural differences — a synthesis of the humanist, applied-behavior-analysis, and prevention-oriented traditions.
 * [Evidence-Based Teaching and Scientific Reasoning](evidence-based-teaching-and-scientific-reasoning.md) - Teaching should be grounded in evidence rather than personal impression or ideology, because personal inquiry is systematically vulnerable to confirmation bias; the scientific method guards against this through systematic empiricism, empirically answerable questions, and public, self-correcting knowledge.
+
+#### F {: #letter-f }
+
 * [Fostering Creative Thinking](fostering-creative-thinking.md) - Creative thinking — generating ideas that are new, useful, and appropriate — can be deliberately stimulated through divergent-thinking prompts, protecting intrinsic motivation from constant evaluation, and finding room for experimentation alongside necessary assessment.
 * [Four Boundaries of Learning Community (Access, Relationships, Vision, Function)](four-boundaries-of-learning-community.md) - Because "learning community" is used inconsistently across research and practice, West and Williams propose defining any community by which of four boundaries actually bind it — access, relationships, vision, and function — so designers can diagnose what a given design will and won't produce.
 * [Free-Choice Learning Environment Design](free-choice-learning-environment-design.md) - Free-choice learning environments (museums, hobbies, self-directed exploration) give visitors real control over what and how deeply they engage, with no externally imposed curriculum or sequence, so the design must be intrinsically compelling on its own terms rather than backed by grades or tests.
 * [Functional Behavior Assessment](functional-behavior-assessment.md) - Disruptive behavior is more effectively addressed by identifying the specific triggering circumstance — physiological, environmental, or instructional — than by focusing on a student's personality, and fair, well-documented responses build the collaborative trust that makes long-term support possible.
+
+#### G {: #letter-g }
+
 * [Gender-Equitable Classroom Interaction](gender-equitable-classroom-interaction.md) - Even teachers who intend to interact with boys and girls equally tend, on average and without realizing it, to give boys more attention, more "public" visibility, and more credit for correct knowledge — patterns that are trends with many individual exceptions, and that a teacher who consciously attends to them can change.
 * [Grading Policy Decisions](grading-policy-decisions.md) - Composing a grade requires teachers to make several separable, often-unexamined decisions — how to weight components, whether to fold in social skills or effort, and whether to grade absolutely or relatively — each with real tradeoffs that a single "best" answer doesn't resolve.
+
+#### H {: #letter-h }
+
 * [High-Stakes Testing and Accountability Effects](high-stakes-testing-accountability-effects.md) - Accountability systems like NCLB depend on content standards being neither too broad nor too narrow, on tests actually aligning with those standards, and on measuring growth as well as absolute proficiency — and when any of these break down, the predictable results are curriculum narrowing, teaching to the test, and unreliable comparisons across schools and states.
+
+#### I {: #letter-i }
+
 * [Informal Learning](informal-learning.md) - Informal learning is self-directed, unofficial learning "pulled" by the learner's own perceived need rather than "pushed" by a predetermined curriculum, and accounts for the large majority of adult and workplace learning even though organizations still spend most training budgets on formal instruction.
 * [Integrate Self-Regulation Instruction with Scientific Reasoning Instruction](integrate-self-regulation-with-scientific-reasoning-instruction.md) - Teach monitoring and planning together with scientific-reasoning skills (hypothesis generation, evidence generation, evidence evaluation) rather than as separate modules, because spontaneous self-regulation during inquiry is rare and its absence tracks with lower-quality argumentation.
 * [Intelligence Testing: Uses and Limits](intelligence-testing-uses-and-limits.md) - Standardized intelligence tests are among the most reliable instruments in psychology and predict a range of academic and occupational outcomes, but they must be periodically re-normed against the population, and they have long been criticized as culturally biased and blind to non-academic forms of ability.
+* [Interrogate Voice, Credibility and Testimony When Studying Inequality in Education](interrogate-voice-credibility-and-testimony-in-educational-inequality-research.md) - The article's four suggestions for further research.
+
+#### L {: #letter-l }
+
 * [Learner-Centered Paradigm of Education](learner-centered-paradigm.md) - The learner-centered paradigm replaces a time-fixed, group-based, sorting-oriented school system with one that holds attainment constant and lets pace and path vary to fit each learner.
 * [Least Restrictive Environment](least-restrictive-environment.md) - Students with disabilities should be educated alongside non-disabled peers in regular classrooms and school programs as much as the specific student and setting allow, with the precise combination of settings determined case by case rather than fixed by disability category alone.
+* [Let learners decide on feedback after performing, not before](let-learners-request-feedback-after-performing.md) - When learners control their knowledge-of-results (KR) schedule, the article finds the benefit depends on when they decide: \"the critical factor for increased learning appears to be the opportunity to decide after moto...
+* [Lower extraneous load in STEM materials to leave room for germane effort](lower-extraneous-load-to-increase-germane-effort-in-stem.md) - Drawing on the negative extraneous-germane correlation, the authors state that \"in order to increase learners’ efforts to learn (germane cognitive load), the educators must improve the design of instructional material...
+
+#### M {: #letter-m }
+
+* [Match worked-example type (full vs completion) to the learner's prior knowledge](match-worked-example-type-to-learner-prior-knowledge.md) - The authors recommend assigning worked-example type by prior knowledge: \"by applying the type of worked examples to individual learners based on their prior knowledge, learners are more likely to exert t heir efforts...
+* [Maximize Learning Rate When Calibrating Leitner Review Schedules](maximize-learning-rate-when-calibrating-leitner-schedules.md) - The article proposes the maximum speed of learning as the design target for spaced repetition software: its formalization \"suggests the maximum speed of learning as a natural design metric for spaced rep- etition soft...
+* [Minimal Conditions for Funds of Knowledge Research Projects](funds-of-knowledge-project-minimal-conditions.md) - The digest's recommendation set for teachers who plan similar projects: \"the following minimal conditions are suggested\" — theoretical teacher preparation, believing households contain abundant social and intellectual...
+* [Multi-Objective Exercise Recommendation: Review and Explore, Smooth Difficulty, Engagement](multi-objective-exercise-recommendation-objectives.md) - The survey reports three objectives proposed by Huang et al.
+
+#### N {: #letter-n }
+
 * [Natural and Logical Consequences](natural-and-logical-consequences.md) - Natural consequences arise on their own from an action, and logical consequences are imposed by others but have an obvious connection to it; both work better than punishment at reducing misbehavior because they focus on repairing the future rather than blaming the past, though they fail when the misbehavior is too serious, or when the student's motive is power rather than attention.
 * [NBPTS Five Core Propositions for Accomplished Teaching](nbpts-five-core-propositions.md) - The National Board for Professional Teaching Standards defines accomplished teaching across five propositions — commitment to students, subject and pedagogical mastery, managing and monitoring learning, systematic reflection, and membership in learning communities.
+
+#### P {: #letter-p }
+
 * [Performance Technology](performance-technology.md) - Performance Technology treats instruction as one of several possible interventions for closing a performance gap, and requires analyzing the organizational system around a learner before assuming training is the right solution.
 * [Persistent Autonomy Support During Resistance](persistent-autonomy-support-during-resistance.md) - In sustained one-on-one instruction, maintain an autonomy-supportive teaching style even when a student initially resists it, rather than reverting to directive control at the first sign of pushback — consistency over many sessions, not immediate compliance, is what shifts the interaction toward a more productive pattern.
 * [Preserve Heritage Language While Acquiring an Additional Language](heritage-language-maintenance.md) - Maintaining and developing a bilingual student's heritage language supports, rather than competes with, the acquisition of a new majority or school language, while heritage-language loss is associated with slower additional-language development.
+
+#### R {: #letter-r }
+
 * [Relationships as Foundation for Argumentation](relationships-as-foundation-for-argumentation.md) - Trust, emotional safety, and strong teacher-student and student-student relationships are a necessary foundational layer beneath productive scientific argumentation and equitable classroom discourse — without them, students are less willing to share, revise, or challenge ideas in front of peers.
+
+#### S {: #letter-s }
+
+* [Scale SRL Support With Web-Based Training Supplemented by Peer Feedback Groups](scale-srl-support-with-web-based-training-and-peer-feedback-groups.md) - The authors recommend web-based SRL training where many students need support: \"we advocate its application in educational settings in which large groups of students require support in their self-regulated learning, p...
 * [Standardized Test Fairness and Bias](standardized-test-fairness-and-bias.md) - Standardized tests can distort measured performance for specific groups through three distinct, documented mechanisms — biased item content and format, differential predictive accuracy, and stereotype threat — each requiring a different fix, and none reducible to "the test is simply biased or not."
 * [Support Early Language Development](supporting-early-language-development.md) - Early language development is fastest in environments with responsive, reciprocal adult-child interaction — conversational turn-taking, varied input, and immediate feedback — rather than passive exposure to language alone.
 * [Supporting Gifted and Talented Students](supporting-gifted-and-talented-students.md) - Students with unusually high IQ or exceptional talent (traditionally an IQ of 130 or higher) are not the socially maladjusted stereotype often assumed, but they do languish without accommodation, and support usually means blending acceleration with enrichment rather than choosing one.
 * [Supporting Students with ADHD](supporting-students-with-adhd.md) - ADHD is a persistent pattern of inattention and/or hyperactive-impulsive behavior with a documented neurobiological basis, distinct from ordinary high activity — classrooms can inadvertently aggravate it, but structure, predictability, and explicit self-monitoring instruction (not medication decisions, which are outside a teacher's control) are the levers a teacher actually has.
 * [Supporting Students with Autism Spectrum Disorder](supporting-students-with-autism-spectrum-disorder.md) - Autism spectrum disorder is defined by disturbances in social interaction, communication, and repetitive behavior or interests that vary widely in severity across the "spectrum" — distinct from intellectual disability — and is not caused by vaccination despite persistent popular belief.
 * [Supporting Students with Intellectual Disabilities](supporting-students-with-intellectual-disabilities.md) - Intellectual disability is defined by both cognitive capacity and adaptive functioning, and effective classroom support boils down to three general strategies — extra time and practice, embedding activities in daily-life context, and full inclusion in both social and academic activities.
+
+#### T {: #letter-t }
+
+* [Target Each Expectancy-Value Component in Policy and Teacher Training for AI](target-expectancy-value-components-in-teacher-ai-training.md) - The paper's concluding recommendation: educational policies and teacher training programs for AI integration should address every component of Expectancy-Value Theory.
 * [Technology Integration Levels (SAMR / RAT / PIC-RAT)](technology-integration-levels.md) - A family of frameworks (RAT, SAMR, PIC-RAT) for judging whether a specific use of technology in instruction merely replaces a prior practice or meaningfully improves or transforms it.
 * [TPACK (Technological Pedagogical Content Knowledge)](tpack.md) - TPACK holds that effective teaching with technology requires an integrated understanding of content, pedagogy, and technology together, not mastery of the three in isolation.
 * [Twelve Characteristics of Effective Teachers](twelve-characteristics-of-effective-teachers.md) - Walker (2008) asked in-service and preservice teachers to identify what made their own most effective teachers effective; twelve characteristics emerged, spanning preparation, disposition, fairness, and personal connection rather than any single instructional technique.
+
+#### U {: #letter-u }
+
 * [User-Centered Design for Learning](user-centered-design-for-learning.md) - User-centered design applies human-computer-interaction methods — personas, prototyping, and usability evaluation — to reduce the extraneous cognitive load a learning interface imposes, alongside pedagogical design.
+
+#### V {: #letter-v }
+
 * [Validity, Reliability, and Bias in Classroom Assessment](validity-reliability-and-bias-in-classroom-assessment.md) - A high-quality classroom assessment needs validity (the interpretations and uses made of its results are justified), reliability (its results are consistent across occasions, raters, and items), and freedom from bias (it doesn't distort performance based on a student's group membership) — three genuinely distinct properties, each with its own failure modes.
 * [Vertical and Horizontal Bonding in Numerical Routines](vertical-and-horizontal-bonding-in-numerical-routines.md) - Support young children's shift from rote, imitative numerical routines to flexible, outcome-sensitive ones by making explicit the connection between a procedure's steps and its outcome, and by exposing children to multiple procedures that solve the same comparison task.
+
+#### W {: #letter-w }
+
 * [Well-Structured vs. Ill-Structured Problems](well-structured-vs-ill-structured-problems.md) - Problems vary in how much information and how clear a solution procedure they provide; well-structured problems support algorithms with guaranteed correct solutions, while ill-structured problems require heuristics that work often but not always.
 * [Wise Feedback Across Racial and Ethnic Difference](wise-feedback-across-difference.md) - When a teacher and student are from different racial or ethnic backgrounds, critical feedback needs a third component beyond ordinary praise-plus-criticism — an explicit assurance that the teacher believes the student can reach a higher standard — because students of color have historically-grounded reasons to distrust negative feedback from a white teacher.
+* [Writing teacher as facilitator rather than lecturer](writing-teacher-as-facilitator-not-lecturer.md) - The third recommendation asks writing teachers to redefine their roles: rather than lecturers whose job is to impart information, \"we might think of ourselves as facilitators, co-workers, enablers, resources, and even...
+
