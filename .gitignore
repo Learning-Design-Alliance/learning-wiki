@@ -22,3 +22,10 @@ eval/runs/
 # wiki_health_check.py's dated reports (regenerable) and its run-history
 # log (local trend data, not wiki content) — see scripts/wiki_health_check.py
 eval/health/
+
+# Run logs and one-off reports belong in eval/runs/ (ignored), never the public repo root.
+/*.log
+/doi-report*.md
+/cross-folder-report*.md
+/health-*.md
+/spot-check-report*.md
