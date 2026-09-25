@@ -3,26 +3,40 @@ type: claim
 title: Mastery Learning Improves Outcomes
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: mastery-learning-improves-outcomes
 evidence_strength: pending
+sources:
+  - id: kulik-et-al-1990
+    resource: "https://doi.org/10.2307/1170612"
+    title: "Kulik, C.-L. C., Kulik, J. A., & Bangert-Drowns, R. L. (1990). Effectiveness of Mastery Learning Programs: A Meta-Analysis. *Review of Educational Research, 60*(2), 265. [doi:10.2307/1170612](https://doi.org/10.2307/1170612)"
+    author: "Kulik, C.-L. C., Kulik, J. A., & Bangert-Drowns, R. L."
+    q: 4
+    i: "?"
+    n: 108 studies
 ---
 
 # Mastery Learning Improves Outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · n=108 studies
 
 When learners must demonstrate mastery of each unit before advancing, achievement improves relative to time-fixed, group-paced instruction. The mechanism is holding learning constant and varying time, rather than holding time constant and varying learning.
 
 ## Subclaims
 
-<!-- TODO -->
+`q4 i?` A meta-analysis of 108 controlled evaluations found mastery learning programs improved examination performance relative to conventional, time-fixed instruction across college, high-school and upper-elementary settings, though the synthesis's own abstract reports the direction of effect without a pooled effect-size statistic. [→ Kulik et al. 1990](#kulik-et-al-1990)
 
 ## Evidence
 
-<!-- TODO -->
+### Kulik et al. 1990
+
+Kulik, C.-L. C., Kulik, J. A., & Bangert-Drowns, R. L. (1990). Effectiveness of Mastery Learning Programs: A Meta-Analysis. *Review of Educational Research, 60*(2), 265. [doi:10.2307/1170612](https://doi.org/10.2307/1170612)
+
+`q4 · meta-analysis (108 controlled evaluations)` · `i? · no pooled effect size reported in what was read` · `n=108 studies`
+
+This meta-analysis pooled 108 controlled evaluations comparing mastery learning programs (both individually paced, e.g. Keller's Personalized System of Instruction, and group-based, e.g. Bloom's Learning for Mastery) against conventional group-paced instruction at the college, high-school and upper-elementary levels. It reports that mastery programs produced positive effects on examination performance, and separately discusses effects on student attitudes, the added instructional time mastery approaches require, and college completion rates. Only the abstract was available for this entry; the full JSTOR text could not be retrieved (returned a bot-challenge page), so no pooled *d* or confidence interval is asserted here — see Discussion's existing note that a numeric effect size is still needed.
 
 ## Discussion
 

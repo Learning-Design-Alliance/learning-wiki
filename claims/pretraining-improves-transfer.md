@@ -3,26 +3,40 @@ type: claim
 title: Pretraining Improves Transfer
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: pretraining-improves-transfer
 evidence_strength:
+sources:
+  - id: delgado-and-mayer-2024
+    resource: "https://doi.org/10.1111/jcal.13099"
+    title: "Delgado, C. Y., & Mayer, R. E. (2024). Implementing Pretraining to Optimise Learning in Immersive Virtual Reality. *Journal of Computer Assisted Learning, 41*(1). [doi:10.1111/jcal.13099](https://doi.org/10.1111/jcal.13099)"
+    author: "Delgado, C. Y., & Mayer, R. E."
+    q: 3
+    i: "?"
+    n: 93
 ---
 
 # Pretraining Improves Transfer
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · n=93
 
 Learners who receive instruction on key concepts, terms, or characteristics of a system *before* the main instruction show better transfer than learners who receive the same content integrated into or after the main instruction.
 
 ## Subclaims
 
-<!-- TODO -->
+`q3 i?` A randomized experiment giving learners a pretraining video naming the parts and functions of an unfamiliar tool before an immersive-VR procedural lesson produced better knowledge-test scores and fewer errors on a subsequent real-world transfer task than the same lesson with no pretraining. [→ Delgado and Mayer 2024](#delgado-and-mayer-2024)
 
 ## Evidence
 
-<!-- TODO -->
+### Delgado and Mayer 2024
+
+Delgado, C. Y., & Mayer, R. E. (2024). Implementing Pretraining to Optimise Learning in Immersive Virtual Reality. *Journal of Computer Assisted Learning, 41*(1). [doi:10.1111/jcal.13099](https://doi.org/10.1111/jcal.13099)
+
+`q3 · peer-reviewed randomized experiment` · `i? · no standardized effect size reported` · `n=93`
+
+Ninety-three participants were randomly assigned to a pretraining group (who watched a video naming the parts and characteristics of a micropipette before an immersive virtual-reality lesson) or a no-pretraining group (who went straight into the same VR lesson). After the VR training phase and an in-VR test, all participants performed a modified version of the task in a real-life setting, plus a knowledge test and cognitive-load, presence, and self-efficacy measures. The pretraining group scored significantly higher on the knowledge test and made fewer errors on the real-life transfer task than the no-pretraining group, with lower reported cognitive load and no group differences in presence, self-efficacy, or errors during the in-VR test itself — i.e., pretraining's benefit showed up specifically on transfer to the real-world task, not on performance inside the VR lesson.
 
 ## Discussion
 
@@ -32,7 +46,7 @@ Learners who receive instruction on key concepts, terms, or characteristics of a
 
 **Design implications.** In practice, pretraining means a short, focused primer — names of components, key terms, or the main characteristics of a system — delivered before a simulation, animation, or complex explanation, not a lengthy preliminary unit. The primer should be minimal: content that merely duplicates the main instruction adds time without reducing load. Where the main instruction is already simple or the audience is expert, the pretraining segment can be cut or folded into the lesson itself.
 
-**Open questions.** The evidence base for this page has not yet been populated; the specific effect sizes, populations, and domains in which pretraining has been tested still need to be documented before the strength of this claim can be rated. Until then, this page should be treated as a theoretically motivated hypothesis rather than an empirically rated claim. Key open questions include whether pretraining benefits persist to delayed transfer tests, whether the effect holds in classroom settings (as opposed to controlled multimedia experiments), and how long the pretraining segment can be before it stops paying for itself in reduced load during the main instruction.
+**Open questions.** The one study recorded above is a single VR experiment read as an abstract, with no standardized effect size; the original multimedia pretraining experiments, and how widely the effect holds across domains, are not yet recorded here. Until then, this page should be treated as a theoretically motivated hypothesis rather than an empirically rated claim. Key open questions include whether pretraining benefits persist to delayed transfer tests, whether the effect holds in classroom settings (as opposed to controlled multimedia experiments), and how long the pretraining segment can be before it stops paying for itself in reduced load during the main instruction.
 
 ## Related Claims
 

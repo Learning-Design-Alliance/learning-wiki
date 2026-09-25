@@ -3,26 +3,57 @@ type: claim
 title: Learners Misjudge Spacing Benefits
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: learners-misjudge-spacing-benefits
 evidence_strength: 
+sources:
+  - id: kornell-bjork-2008
+    resource: "https://doi.org/10.1111/j.1467-9280.2008.02127.x"
+    title: "Kornell, N., & Bjork, R. A. (2008). Learning Concepts and Categories: Is Spacing the “Enemy of Induction”? *Psychological Science, 19*(6), 585–592. [doi:10.1111/j.1467-9280.2008.02127.x](https://doi.org/10.1111/j.1467-9280.2008.02127.x)"
+    author: "Kornell, N., & Bjork, R. A."
+    q: 3
+    i: "?"
+    n: 3 experiments (participant counts not given in the abstract)
+  - id: kornell-2009
+    resource: "https://doi.org/10.1002/acp.1537"
+    title: "Kornell, N. (2009). Optimising learning using flashcards: Spacing is more effective than cramming. *Applied Cognitive Psychology, 23*(9), 1297–1317. [doi:10.1002/acp.1537](https://doi.org/10.1002/acp.1537)"
+    author: Kornell, N.
+    q: 3
+    i: "?"
+    n: 3 experiments (participant counts not given in the abstract)
 ---
 
 # Learners Misjudge Spacing Benefits
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 2 studies · `q3` peer-reviewed experiment
 
 Learners systematically predict that massed practice will serve them better than spaced practice, even though spacing reliably produces stronger long-term retention — a metacognitive error that leads them to choose study schedules that undermine their own learning.
 
 ## Subclaims
 
-<!-- TODO -->
+`q3 i?` Learners consistently rate massed study as more effective than spaced study even when their own subsequent test performance shows spacing produced better learning. [→ Kornell & Bjork 2008](#kornell-bjork-2008)
+
+`q3 i?` The large majority of learners benefit from spacing over massing on an objective learning task, yet the majority also believe massing worked better for them. [→ Kornell 2009](#kornell-2009)
 
 ## Evidence
 
-<!-- TODO -->
+### Kornell & Bjork 2008
+
+Kornell, N., & Bjork, R. A. (2008). Learning Concepts and Categories: Is Spacing the “Enemy of Induction”? *Psychological Science, 19*(6), 585–592. [doi:10.1111/j.1467-9280.2008.02127.x](https://doi.org/10.1111/j.1467-9280.2008.02127.x)
+
+`q3 · peer-reviewed experiment (3 experiments, not pre-registered)` · `i? · no effect size reported (directional self-report comparison only)` · `n=3 experiments (participant counts not given in the abstract)`
+
+Participants studied paintings by different artists, either massed (one artist's works presented consecutively) or spaced/interleaved (different artists' works mixed together), then were tested on their ability to classify new, unseen paintings by the same artists — an inductive-learning task. Spacing produced better induction performance than massing, even though massing felt more fluent while studying. After completing the test, and thus after their own performance had already shown the opposite, participants still rated massed study as the more effective condition than spaced study.
+
+### Kornell 2009
+
+Kornell, N. (2009). Optimising learning using flashcards: Spacing is more effective than cramming. *Applied Cognitive Psychology, 23*(9), 1297–1317. [doi:10.1002/acp.1537](https://doi.org/10.1002/acp.1537)
+
+`q3 · peer-reviewed experiment (3 experiments)` · `i? · no standardized effect size reported; reports proportions of participants` · `n=3 experiments (participant counts not given in the abstract)`
+
+Participants used a web-based programme to learn GRE-type vocabulary word pairs, comparing spacing (one large flashcard stack) against massing (four smaller stacks studied separately) and against cramming (massed study on the last day before test) across three experiments. Spacing outperformed massing for 90% of participants and also outperformed cramming, yet after their first study session 72% of participants judged that massing had been the more effective way to study — a direct mismatch between the condition that actually worked and the one learners believed had worked.
 
 ## Discussion
 
@@ -32,7 +63,7 @@ Learners systematically predict that massed practice will serve them better than
 
 **Boundary conditions.** The misjudgment is strongest for verbal and skill-based material where massed practice feels smooth, and weakest where feedback makes forgetting vivid. Very long spacing gaps can genuinely impair learning, so the claim applies to learners' *relative* misjudgment of moderate spacing versus massing, not to the claim that any spacing is always better. The claim is also about metacognitive judgment and scheduling choice; it does not by itself establish the size of the spacing effect on retention, which must be documented separately in [Spaced practice improves long-term retention](spaced-practice-improves-retention.md).
 
-**Open questions.** The evidence base for this page is not yet populated; the classic demonstrations (e.g., inductive learning of painting styles, vocabulary learning, and judgments-of-learning studies comparing massed versus spaced predictions) still need to be added as Evidence entries before the strength of this claim can be coded. Until then, no evidence_strength can be assigned.
+**Open questions.** Both recorded studies (painting-style induction and flashcard vocabulary) were read as abstracts, which report no effect sizes. Judgments-of-learning studies comparing massed and spaced predictions, and whether the misjudgment persists after learners see their own results, remain to be recorded.
 
 ## Related Claims
 

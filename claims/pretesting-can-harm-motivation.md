@@ -3,26 +3,40 @@ type: claim
 title: Pretesting Can Harm Motivation
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: pretesting-can-harm-motivation
 evidence_strength: weak
+sources:
+  - id: janelli-lipnevich-2021
+    resource: "https://doi.org/10.1016/j.compedu.2020.104076"
+    title: "Janelli, M., & Lipnevich, A. A. (2021). Effects of pre-tests and feedback on performance outcomes and persistence in Massive Open Online Courses. *Computers & Education, 161*, 104076. [doi:10.1016/j.compedu.2020.104076](https://doi.org/10.1016/j.compedu.2020.104076)"
+    author: "Janelli, M., & Lipnevich, A. A."
+    q: 3
+    i: "?"
+    n: 399
 ---
 
 # Pretesting Can Harm Motivation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · n=399
 
 Pretesting — attempting to answer questions about not-yet-learned material before instruction — can reduce learners' motivation and engagement when failure on the pretest is experienced as discouraging rather than as a productive challenge. [-W]
 
 ## Subclaims
 
-<!-- TODO -->
+`q3 i?` In a randomized experiment in a real massive open online course, exposure to pre-tests significantly reduced learners' persistence and course completion relative to a no-pretest control, even though pre-tests improved post-test scores among the learners who did persist. [→ Janelli & Lipnevich 2021](#janelli-lipnevich-2021)
 
 ## Evidence
 
-<!-- TODO -->
+### Janelli & Lipnevich 2021
+
+Janelli, M., & Lipnevich, A. A. (2021). Effects of pre-tests and feedback on performance outcomes and persistence in Massive Open Online Courses. *Computers & Education, 161*, 104076. [doi:10.1016/j.compedu.2020.104076](https://doi.org/10.1016/j.compedu.2020.104076)
+
+`q3 · randomized experiment (not pre-registered)` · `i? · no standardized effect size reported` · `n=399`
+
+399 adults who enrolled in the American Museum of Natural History's climate-change MOOC were randomly assigned to pre-tests without feedback, pre-tests with basic (correct/incorrect) feedback, pre-tests with elaborate feedback, or a no-pretest control. Pre-tests reduced persistence in the course. Across all students, pre-tests and feedback did not affect post-test learning; among those who completed the course, pre-tests improved it. Read as the article's abstract; completion rates by condition are reported in the authors' companion book chapter and are not recorded here.
 
 ## Discussion
 

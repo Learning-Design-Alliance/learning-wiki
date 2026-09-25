@@ -3,26 +3,40 @@ type: claim
 title: Peer Assessment Improves Performance
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: peer-assessment-improves-performance
 evidence_strength: unverified
+sources:
+  - id: double-et-al-2020
+    resource: "https://doi.org/10.1007/s10648-019-09510-3"
+    title: "Double, K. S., McGrane, J. A., & Hopfenbeck, T. N. (2020). The impact of peer assessment on academic performance: A meta-analysis of control group studies. *Educational Psychology Review, 32*(2), 481–509. [doi:10.1007/s10648-019-09510-3](https://doi.org/10.1007/s10648-019-09510-3)"
+    author: "Double, K. S., McGrane, J. A., & Hopfenbeck, T. N."
+    q: 4
+    i: 1
+    n: 54 studies (k=141 effect sizes)
 ---
 
 # Peer Assessment Improves Performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i1` small · n=54 studies (k=141 effect sizes)
 
 When learners evaluate one another's work against explicit criteria, the act of judging quality deepens their own understanding and can improve subsequent performance. The claim covers both directions of the exchange — gains from assessing peers and gains from being assessed by peers — and is currently unverified pending Evidence entries.
 
 ## Subclaims
 
-<!-- TODO -->
+`q4 i1` A meta-analysis of 54 experimental/quasi-experimental control-group studies (k = 141) finds peer assessment produces a small-to-medium improvement in students' academic performance (essay writing, tests, and practical skills) relative to no assessment, and a comparable improvement relative to teacher assessment. [→ Double et al. 2020](#double-et-al-2020)
 
 ## Evidence
 
-<!-- TODO -->
+### Double et al. 2020
+
+Double, K. S., McGrane, J. A., & Hopfenbeck, T. N. (2020). The impact of peer assessment on academic performance: A meta-analysis of control group studies. *Educational Psychology Review, 32*(2), 481–509. [doi:10.1007/s10648-019-09510-3](https://doi.org/10.1007/s10648-019-09510-3)
+
+`q4 · meta-analysis of experimental/quasi-experimental control-group studies` · `i1 · small-to-medium effect, g=0.31` · `n=54 studies (k=141 effect sizes)`
+
+A meta-analysis of 54 control-group studies (141 effect sizes) spanning primary, secondary and tertiary students across subjects, comparing peer-assessment interventions (grading, peer dialogue, written feedback) against no-assessment and teacher-assessment control conditions on academic performance (test scores, essay/writing quality, practical skills). Peer assessment improved performance relative to no assessment (g = 0.31, p = .004) and relative to teacher assessment (g = 0.28, p = .007), and its effect did not differ significantly from self-assessment (g = 0.23, p = .209). Meta-regressions found the effect was robust across moderators such as online/offline delivery, assessment frequency and education level, i.e., no single implementation detail was required for the effect to hold.
 
 ## Discussion
 
@@ -30,7 +44,7 @@ When learners evaluate one another's work against explicit criteria, the act of 
 
 **Moderators to establish.** The literature suggests the effect depends heavily on conditions: rubric quality and criterion specificity, whether assessors are trained, the domain (peer judgment is more reliable for structured products than for open-ended creative work), and learner expertise — novices may lack the standards knowledge to judge accurately, echoing the expertise-reversal concerns in [cognitive load theory](../theories/cognitive-load-theory.md). Anonymity and formative (vs. summative) use also moderate both accuracy and acceptance of peer judgments. Rubric scaffolding is likely a precondition rather than an optional enhancement — see [Rubrics improve student work quality.](rubrics-improve-student-work.md).
 
-**Open questions.** Whether the benefit comes primarily from *giving* assessment (judging peers) or *receiving* it (being judged) remains contested; several studies suggest the assessor role produces larger learning gains, consistent with the generative-processing rationale behind [annotating improves learning](annotating-improves-learning.md). A second open question is whether peer grades are reliable enough for summative use, or whether the claim should be restricted to formative deployments as in [assessment for learning improves achievement.](assessment-for-learning-improves-achievement.md). Confidence in this claim is currently limited because no Evidence entries have been verified yet — see the TODO above.
+**Open questions.** Whether the benefit comes primarily from *giving* assessment (judging peers) or *receiving* it (being judged) remains contested; several studies suggest the assessor role produces larger learning gains, consistent with the generative-processing rationale behind [annotating improves learning](annotating-improves-learning.md). A second open question is whether peer grades are reliable enough for summative use, or whether the claim should be restricted to formative deployments as in [assessment for learning improves achievement.](assessment-for-learning-improves-achievement.md).
 
 ## Related Claims
 

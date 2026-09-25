@@ -1,10 +1,10 @@
 {
  "coverage": {
   "claims->claims": 455,
-  "claims->elements": 135,
+  "claims->elements": 141,
   "claims->learner-variables": 1,
   "claims->methods": 3,
-  "claims->patterns": 103,
+  "claims->patterns": 104,
   "claims->principles": 146,
   "claims->processes": 3,
   "claims->theories": 283,
@@ -20622,6 +20622,9 @@
       "slug": "learner-constructed-graphic-organizers-outperform-provided"
      },
      {
+      "slug": "learner-generated-organizers-beat-provided-organizers"
+     },
+     {
       "slug": "retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration"
      }
     ],
@@ -30361,6 +30364,9 @@
     "claims": [
      {
       "slug": "learner-constructed-graphic-organizers-outperform-provided"
+     },
+     {
+      "slug": "learner-generated-organizers-beat-provided-organizers"
      }
     ],
     "elements": [
@@ -35423,6 +35429,9 @@
      },
      {
       "slug": "feedback-enhances-retrieval-practice"
+     },
+     {
+      "slug": "retrieval-failure-reduces-benefit"
      }
     ]
    },
@@ -59313,6 +59322,9 @@
      },
      {
       "slug": "phonics-instruction-improves-word-reading"
+     },
+     {
+      "slug": "phonological-awareness-training-improves-reading"
      }
     ],
     "elements": [
@@ -69217,7 +69229,13 @@
       "slug": "interleaved-practice-improves-retention"
      },
      {
+      "slug": "invention-tasks-prepare-future-learning"
+     },
+     {
       "slug": "media-combinations-affect-recall-and-retention"
+     },
+     {
+      "slug": "minimal-guidance-ineffective-for-novices"
      },
      {
       "slug": "minimal-guidance-instruction-less-effective"
@@ -69253,6 +69271,12 @@
       "slug": "retrieval-practice-improves-transfer"
      },
      {
+      "slug": "seductive-details-effect"
+     },
+     {
+      "slug": "seductive-details-harm-learning"
+     },
+     {
       "slug": "segmentation-benefits-shrink-with-expertise"
      },
      {
@@ -69280,6 +69304,9 @@
      },
      {
       "slug": "tutoring-effectiveness-comes-from-scaffolding-and-feedback"
+     },
+     {
+      "slug": "unguided-discovery-less-effective-than-guided-instruction"
      },
      {
       "slug": "worked-example-problem-sequences"
@@ -71696,6 +71723,18 @@
       "slug": "feedback-enhances-retrieval-practice"
      },
      {
+      "slug": "guided-discovery-outperforms-pure-discovery"
+     },
+     {
+      "slug": "guided-inquiry-outperforms-pure-discovery"
+     },
+     {
+      "slug": "minimal-guidance-ineffective-for-novices"
+     },
+     {
+      "slug": "minimal-guidance-instruction-less-effective"
+     },
+     {
       "slug": "minimal-guidance-less-effective-for-novices"
      },
      {
@@ -71714,7 +71753,19 @@
       "slug": "retrieval-practice-improves-retention"
      },
      {
+      "slug": "testing-effect-improves-learning"
+     },
+     {
       "slug": "testing-effect-improves-retention"
+     },
+     {
+      "slug": "testing-effect-retrieval-practice-improves-retention"
+     },
+     {
+      "slug": "testing-improves-retention"
+     },
+     {
+      "slug": "unguided-discovery-less-effective-than-guided-instruction"
      }
     ],
     "elements": [
@@ -75805,6 +75856,9 @@
       "slug": "minimal-guidance-less-effective-for-novices"
      },
      {
+      "slug": "number-board-games-improve-numerical-knowledge"
+     },
+     {
       "slug": "parent-coaching-outperforms-information-only"
      },
      {
@@ -75815,6 +75869,12 @@
      },
      {
       "slug": "physical-experience-enhances-science-learning"
+     },
+     {
+      "slug": "positive-greetings-at-the-door-improve-engagement-and-behavior"
+     },
+     {
+      "slug": "positive-greetings-at-the-door-improve-engagement"
      },
      {
       "slug": "retrieval-fails-without-encoding"
@@ -88270,6 +88330,9 @@
       "slug": "guided-discovery-outperforms-pure-discovery"
      },
      {
+      "slug": "guided-inquiry-outperforms-pure-discovery"
+     },
+     {
       "slug": "guided-play-improves-academic-outcomes"
      },
      {
@@ -88289,6 +88352,9 @@
      },
      {
       "slug": "phonics-instruction-improves-word-reading"
+     },
+     {
+      "slug": "play-based-learning-improves-outcomes"
      },
      {
       "slug": "project-based-learning-improves-achievement"

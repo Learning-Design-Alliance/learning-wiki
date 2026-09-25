@@ -3,16 +3,24 @@ type: claim
 title: Segmentation Benefits Shrink With Expertise
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: segmentation-benefits-shrink-with-expertise
 evidence_strength: emerging
+sources:
+  - id: spanjers-et-al-2011
+    resource: "https://doi.org/10.1016/j.chb.2010.05.011"
+    title: "Spanjers, I. A. E., Wouters, P., van Gog, T., & van Merriënboer, J. J. G. (2011). An expertise reversal effect of segmentation in learning from animated worked-out examples. *Computers in Human Behavior, 27*(1), 46–52. [doi:10.1016/j.chb.2010.05.011](https://doi.org/10.1016/j.chb.2010.05.011)"
+    author: "Spanjers, I. A. E., Wouters, P., van Gog, T., & van Merriënboer, J. J. G."
+    q: 3
+    i: "?"
+    n: 75 (37 segmented, 38 continuous)
 ---
 
 # Segmentation Benefits Shrink With Expertise
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · n=75 (37 segmented, 38 continuous)
 
 The learning benefit of segmenting continuous instructional material (e.g., pausing animation or breaking narration into learner-paced segments) is largest for novices and diminishes — or reverses — as learner expertise increases.
 
@@ -20,13 +28,21 @@ The claim concerns dynamic, transient media (animation, video, narrated slides) 
 
 ## Subclaims
 
-<!-- TODO -->
+`q3 i?` Segmenting animated worked-out examples on probability calculation was more efficient (equal transfer performance, lower mental effort) than continuous animation for lower-prior-knowledge students, but this efficiency advantage disappeared at higher prior-knowledge levels. [→ Spanjers et al. 2011](#spanjers-et-al-2011)
 
 ## Evidence
 
-<!-- TODO -->
+### Spanjers et al. 2011
+
+Spanjers, I. A. E., Wouters, P., van Gog, T., & van Merriënboer, J. J. G. (2011). An expertise reversal effect of segmentation in learning from animated worked-out examples. *Computers in Human Behavior, 27*(1), 46–52. [doi:10.1016/j.chb.2010.05.011](https://doi.org/10.1016/j.chb.2010.05.011)
+
+`q3 · peer-reviewed experiment (not pre-registered)` · `i? · effect size not reported (regression β/t/p only)` · `n=75 (37 segmented, 38 continuous)`
+
+76 Dutch secondary-education students (one excluded for missing data) were randomly assigned to study eight animated, narrated worked-out examples on probability calculation, presented either as one continuous stream per example or divided into 5–7 segments with 2-second pauses. Regression models with prior knowledge (centered), condition, and their interaction predicted near- and far-transfer efficiency (performance combined with invested mental effort). The prior-knowledge × condition interaction was significant for both near (β = −0.35, p = .04) and far transfer efficiency (β = −0.34, p = .05): at one SD below the mean (lower prior knowledge), segmented examples were significantly more efficient than continuous ones (near β = 0.39, p = .01; far β = 0.33, p = .03), but at one SD above the mean (higher prior knowledge) this difference had disappeared (near β = −0.05, p = .72; far β = −0.10, p = .51), driven mainly by continuous-condition mental effort dropping sharply with rising prior knowledge while segmented-condition effort stayed flat. No significant interaction was found on raw transfer performance alone, only on mental effort and the composite efficiency measure.
 
 ## Discussion
+
+**What the recorded study shows.** Spanjers et al. (2011) found the benefit of segmentation on instructional efficiency (performance relative to mental effort), not on test performance alone, and found it disappearing at high prior knowledge rather than reversing. A full reversal, continuous animation beating segmented animation for more expert learners, is left by the authors as an open question.
 
 **Expertise reversal as the underlying mechanism.** Segmentation reduces extraneous cognitive load by giving novices control over the pace of information delivery and preventing overload from transient, continuous presentations. As expertise grows, learners no longer need external pacing support; segmenting can then add unnecessary processing — re-integration overhead across segment boundaries — or simply waste time, consistent with the broader [expertise reversal effect](../theories/expertise-reversal-effect.md). The same pattern appears for other load-reducing scaffolds such as [worked examples](../elements/demonstration.md), which also lose and eventually reverse their advantage with expertise.
 

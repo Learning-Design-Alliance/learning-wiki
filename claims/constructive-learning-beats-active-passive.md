@@ -3,26 +3,57 @@ type: claim
 title: Constructive learning beats active and passive learning
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: constructive-learning-beats-active-passive
 evidence_strength: low
+sources:
+  - id: chi-and-wylie-2014
+    resource: "https://doi.org/10.1080/00461520.2014.965823"
+    title: "Chi, M. T. H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219–243. [doi:10.1080/00461520.2014.965823](https://doi.org/10.1080/00461520.2014.965823)"
+    author: "Chi, M. T. H., & Wylie, R."
+    q: 2
+    i: "?"
+    n: "multiple studies reviewed, incl. one original 4-condition lab study (materials science, Menekse et al. 2013) and one 3-condition study (plate tectonics, Gobert & Clement, 1999)"
+  - id: wekerle-et-al-2024
+    resource: "https://doi.org/10.1038/s41598-024-66069-y"
+    title: "Wekerle, C., Daumiller, M., Janke, S., Dickhäuser, O., Dresel, M., & Kollar, I. (2024). Putting ICAP to the test: How technology-enhanced learning activities are related to cognitive and affective-motivational learning outcomes in higher education. *Scientific Reports, 14*, Article 16295. [doi:10.1038/s41598-024-66069-y](https://doi.org/10.1038/s41598-024-66069-y)"
+    author: "Wekerle, C., Daumiller, M., Janke, S., Dickhäuser, O., Dresel, M., & Kollar, I."
+    q: 2
+    i: "?"
+    n: 3,820 student assessments across 170 course sessions in 42 courses at one university
 ---
 
 # Constructive learning beats active and passive learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 2 studies · `q2` quasi-experiment
 
 Learning outcomes improve as learners move from passive to active to constructive engagement — generating ideas and outputs beyond what was presented — with constructive modes generally outperforming merely active ones.
 
 ## Subclaims
 
-<!-- TODO -->
+`q2 i?` The ICAP framework's own four-condition lab manipulation and its reinterpretation of paired-mode classroom and lab studies find learning outcomes rising from passive to active to constructive to interactive engagement, with constructive activities outperforming merely active ones. [→ Chi and Wylie 2014](#chi-and-wylie-2014)
+
+`q2 i?` In authentic, technology-enhanced university classrooms, a large multilevel field study found empirical support only for the passive-vs-interactive endpoints of the ICAP hierarchy; the specific prediction that constructive activities outperform active and passive ones was not confirmed for either cognitive or affective-motivational outcomes. [→ Wekerle et al. 2024](#wekerle-et-al-2024)
 
 ## Evidence
 
-<!-- TODO -->
+### Chi and Wylie 2014
+
+Chi, M. T. H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219–243. [doi:10.1080/00461520.2014.965823](https://doi.org/10.1080/00461520.2014.965823)
+
+`q2 · narrative review with an embedded four-condition lab experiment and reinterpreted pairwise/three-mode studies` · `i? · no standardized effect size reported (only percentage-gain and rank-order comparisons)` · `n=multiple studies reviewed, incl. one original 4-condition lab study (materials science, Menekse et al. 2013) and one 3-condition study (plate tectonics, Gobert & Clement, 1999)`
+
+Chi and Wylie's target article defines four modes of cognitive engagement — passive, active, constructive, and interactive (ICAP) — and predicts learning increases monotonically across them. In their own lab study manipulating all four modes in a materials-science lesson (reading only = passive; reading + highlighting = active; interpreting a graph = constructive; interpreting it jointly = interactive), learning gains rose in the predicted order across every mode step. In a separately reinterpreted plate-tectonics study, students who drew diagrams from text (constructive) outperformed those who wrote summaries (active), who in turn outperformed those who only read the text (passive), on both spatial and causal knowledge measures — directly supporting the constructive-beats-active-beats-passive ordering this claim states. The paper is a narrative/theoretical review rather than a meta-analysis, so effect sizes for the overall hypothesis are not pooled; the one quantified result reported for the four-mode study is a percentage learning gain per mode step, not a Cohen's d.
+
+### Wekerle et al. 2024
+
+Wekerle, C., Daumiller, M., Janke, S., Dickhäuser, O., Dresel, M., & Kollar, I. (2024). Putting ICAP to the test: How technology-enhanced learning activities are related to cognitive and affective-motivational learning outcomes in higher education. *Scientific Reports, 14*, Article 16295. [doi:10.1038/s41598-024-66069-y](https://doi.org/10.1038/s41598-024-66069-y)
+
+`q2 · field study with multilevel structural equation modelling and statistical controls (not a manipulated experiment)` · `i? · no standardized effect size reported; findings are reported as significant/non-significant regression-weight comparisons` · `n=3,820 student assessments across 170 course sessions in 42 courses at one university`
+
+87 university teachers reported which of the four ICAP-mode learning activities (passive, active, constructive, interactive) their students engaged in during a session, and students in those same sessions rated their perceived learning, situational interest, and joy; the two were linked through multilevel modelling. Only the interactive mode was associated with significantly better perceived learning than the other modes, and only the passive mode was associated with significantly lower joy — the constructive mode was not shown to outperform the active or passive modes on any outcome. The authors conclude that their data support the "end points" of the ICAP continuum (passive lowest, interactive highest) but do not confirm the specific constructive-over-active-over-passive ordering in authentic, technology-enhanced classroom settings, which qualifies the generality of this claim.
 
 ## Discussion
 

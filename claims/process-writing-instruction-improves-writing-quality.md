@@ -3,28 +3,44 @@ type: claim
 title: Process Writing Instruction Improves Writing Quality
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: process-writing-instruction-improves-writing-quality
 evidence_strength: moderate
+sources:
+  - id: graham-and-sandmel-2011
+    resource: "https://doi.org/10.1080/00220671.2010.488703"
+    title: "Graham, S., & Sandmel, K. (2011). The Process Writing Approach: A Meta-analysis. *The Journal of Educational Research, 104*(6), 396–407. [doi:10.1080/00220671.2010.488703](https://doi.org/10.1080/00220671.2010.488703)"
+    author: "Graham, S., & Sandmel, K."
+    q: 4
+    i: 1
+    n: 29 studies (grades 1-12)
 ---
 
 # Process Writing Instruction Improves Writing Quality
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i1` small · n=29 studies (grades 1-12)
 
 Process writing instruction — teaching writing as a cycle of planning, drafting, revising, and editing, often with peer collaboration and teacher conferencing — improves the quality of students' written compositions compared with traditional, product-focused writing instruction.
 
 ## Subclaims
 
-<!-- TODO -->
+`q4 i1` A meta-analysis of 29 experimental/quasi-experimental studies (grades 1–12) finds process writing instruction produces a statistically significant but modest improvement in overall writing quality for general-education students (weighted ES = 0.34), with no significant gain for struggling writers or for writing motivation. [→ Graham & Sandmel 2011](#graham-and-sandmel-2011)
 
 ## Evidence
 
-<!-- TODO -->
+### Graham and Sandmel 2011
+
+Graham, S., & Sandmel, K. (2011). The Process Writing Approach: A Meta-analysis. *The Journal of Educational Research, 104*(6), 396–407. [doi:10.1080/00220671.2010.488703](https://doi.org/10.1080/00220671.2010.488703)
+
+`q4 · meta-analysis of 29 experimental/quasi-experimental studies` · `i1 · small-to-modest effect, ES=0.34` · `n=29 studies (grades 1-12)`
+
+The authors meta-analyzed 29 experimental and quasi-experimental studies of students in grades 1–12 to test whether process writing instruction improves writing quality and motivation to write. For students in general education classes, process instruction produced a statistically significant but relatively modest gain in overall writing quality (average weighted effect size = 0.34), unrelated to grade, measure reliability, professional development, genre assessed, or study quality. It did **not** significantly improve students' motivation to write, nor did it enhance the quality of struggling writers' compositions — a boundary condition directly relevant to this claim's scope.
 
 ## Discussion
+
+**What the recorded meta-analysis qualifies.** Graham & Sandmel (2011) found a small overall effect on writing quality (ES = 0.34) and no significant improvement in writing motivation or in the composition quality of struggling writers, so the claim holds for typical writers more than for those who most need help.
 
 **Scope and mechanism.** The claim concerns the full process approach — explicit strategy instruction for planning and revising, extended time for drafting and redrafting, and feedback loops (teacher conferences, peer response) — rather than merely assigning multiple drafts. The hypothesized mechanism is that novice writers tend to treat composing as knowledge-telling: they plan minimally and revise superficially. Process instruction externalizes and scaffolds the recursive stages skilled writers use, shifting attention from transcription to content generation and rhetorical problem-solving.
 

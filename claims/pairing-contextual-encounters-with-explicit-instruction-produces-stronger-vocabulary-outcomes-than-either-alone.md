@@ -3,26 +3,40 @@ type: claim
 title: Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone
 evidence_strength: weak
+sources:
+  - id: stahl-fairbanks-1986
+    resource: "https://doi.org/10.3102/00346543056001072"
+    title: "Stahl, S. A., & Fairbanks, M. M. (1986). The Effects of Vocabulary Instruction: A Model-Based Meta-Analysis. *Review of Educational Research, 56*(1), 72–110. [doi:10.3102/00346543056001072](https://doi.org/10.3102/00346543056001072)"
+    author: "Stahl, S. A., & Fairbanks, M. M."
+    q: 3
+    i: "?"
+    n: "? (meta-analysis; component-study count not stated in the abstract read)"
 ---
 
 # Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · n=? (meta-analysis; component-study count not stated in the abstract read)
 
 Vocabulary learning is strongest when learners meet words in meaningful contexts (reading, listening, use) *and* receive deliberate instruction on word meanings — neither incidental exposure nor isolated instruction alone matches the combination.
 
 ## Subclaims
 
-<!-- TODO -->
+`q3 i?` A model-based meta-analysis of vocabulary-instruction studies found that the most effective teaching methods combined definitional (explicit) and contextual information, gave learners more than one or two exposures to target words, and involved deeper processing — outperforming methods relying on either component alone. [→ Stahl Fairbanks 1986](#stahl-fairbanks-1986)
 
 ## Evidence
 
-<!-- TODO -->
+### Stahl Fairbanks 1986
+
+Stahl, S. A., & Fairbanks, M. M. (1986). The Effects of Vocabulary Instruction: A Model-Based Meta-Analysis. *Review of Educational Research, 56*(1), 72–110. [doi:10.3102/00346543056001072](https://doi.org/10.3102/00346543056001072)
+
+`q3 · meta-analysis of vocabulary-instruction studies (not pre-registered)` · `i? · no effect size for combined versus single methods in the abstract; overall d=0.97 (taught-word passages) and d=0.30 (global comprehension)` · `n=? (meta-analysis; component-study count not stated in the abstract read)`
+
+This meta-analysis synthesized studies on the effects of vocabulary instruction on word-meaning learning and text comprehension. It found a mean effect size of .97 for comprehension of passages containing the taught words and .30 for global comprehension measures, both reliably different from zero. Comparing instructional approaches, the authors concluded that the most effective methods combined definitional and contextual information rather than relying on either alone, involved learners in deeper processing of word meanings, and provided more than one or two exposures to the words being taught This supports the claim, but as the authors' conclusion from comparing methods; the abstract reports no effect size for combined against single methods.
 
 ## Discussion
 
@@ -38,7 +52,7 @@ Vocabulary learning is strongest when learners meet words in meaningful contexts
 
 **Practical form.** In classrooms, the pairing typically appears as pre-teaching a small set of target words before a text, followed by rich encounters during reading and discussion, with [annotating](../claims/annotating-improves-learning.md) or glossing used to bind the explicit definition to each contextual occurrence. Published curricula built on this logic include robust vocabulary instruction programs (e.g., Beck, McKeown, & Kucan's *Bringing Words to Life* / Text Talk approach) that combine taught word meanings with wide reading and structured word talk. The key design constant is that neither component is optional: instruction without encounters yields fragile knowledge, and encounters without instruction yield slow, error-prone acquisition.
 
-**Single-source limitation.** This claim currently has no ingested evidence entries; it should be treated as a well-motivated synthesis pending studies. Replication across age groups, second-language vs. first-language learners, and supportive vs. unsupportive text contexts would substantially strengthen confidence.
+**Single-source limitation.** The one entry above is a 1986 meta-analysis read as an abstract, whose conclusion that combined methods were most effective comes from comparing methods, with no effect size reported for that comparison. No study recorded here tests context-only, explicit-only and combined instruction against each other. Replication across age groups, second-language vs. first-language learners, and supportive vs. unsupportive text contexts would substantially strengthen confidence.
 
 ## Related Claims
 

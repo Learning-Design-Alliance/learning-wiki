@@ -3,26 +3,40 @@ type: claim
 title: Self-regulated learning strategy instruction improves writing outcomes
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: self-regulated-learning-strategies-improve-writing
 evidence_strength:
+sources:
+  - id: graham-perin-2007
+    resource: "https://doi.org/10.1037/0022-0663.99.3.445"
+    title: "Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)"
+    author: "Graham, S., & Perin, D."
+    q: 4
+    i: 3
+    n: 20 studies (154 total effect sizes across the review; Grades 4–10)
 ---
 
 # Self-regulated learning strategy instruction improves writing outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i3` large · n=20 studies (154 total effect sizes across the review; Grades 4–10)
 
 Explicitly teaching writers to plan, monitor, and revise their own composing process improves writing quality beyond instruction focused only on writing mechanics or content.
 
 ## Subclaims
 
-<!-- TODO -->
+`q4 i3` A meta-analysis of 20 experimental/quasi-experimental studies (Grades 4–10) finds explicit strategy instruction for planning, revising, and/or editing produces a large average weighted effect on writing quality, with the self-regulated strategy development (SRSD) variant outperforming other strategy-instruction approaches and struggling writers benefiting more than typically achieving peers. [→ Graham & Perin 2007](#graham-perin-2007)
 
 ## Evidence
 
-<!-- TODO -->
+### Graham & Perin 2007
+
+Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
+
+`q4 · meta-analysis of experimental/quasi-experimental studies` · `i3 · large effect, weighted mean d=0.82 (95% CI 0.69–0.95)` · `n=20 studies (154 total effect sizes across the review; Grades 4–10)`
+
+This meta-analysis of the adolescent (Grades 4–12) writing-intervention literature located 123 documents yielding 154 effect sizes across 11 treatment categories. Twenty of those effect sizes came from studies that taught students strategies for planning, revising, and/or editing text, all with explicit modeling, at least three days of instruction, and progression toward independent use. The weighted mean effect on writing quality was large (0.82) and every one of the 20 effect sizes was positive. The self-regulated strategy development (SRSD) model — which adds explicit self-regulation components (goal setting, self-monitoring, self-instruction, self-reinforcement) to the strategy teaching — produced a larger effect (1.14) than non-SRSD strategy instruction (0.62), and struggling writers showed larger gains (1.02) than the full range of classroom writers (0.70). Effects held across genres, grade bands, and several different control conditions (process writing, text-structure instruction, traditional instruction, unspecified controls), though the authors caution that no studies in this treatment involved students above 10th grade.
 
 ## Discussion
 
@@ -30,7 +44,7 @@ Explicitly teaching writers to plan, monitor, and revise their own composing pro
 
 **Moderators and boundary conditions.** Effects are generally strongest for younger and lower-achieving writers, who lack fluent process strategies; skilled writers may already deploy these strategies spontaneously, so added instruction can yield diminishing returns — an expertise-reversal pattern analogous to [Worked examples can become redundant or counterproductive for advanced learners](worked-examples-expertise-reversal.md) and the [expertise reversal effect](../theories/expertise-reversal-effect.md). Benefits depend on sustained, explicit modeling and guided practice — brief or purely declarative strategy instruction ("tell students the steps") without supported enactment tends to underperform. Transfer beyond the trained genre is limited unless instruction includes multiple text types and fading.
 
-**Open questions.** Most evidence comes from K–12 settings and structured genres (narrative, persuasive, expository); less is known about effects in higher education and open-ended or digital composing contexts. Studies still need to be added to the Evidence section before an evidence-strength rating can be assigned.
+**Open questions.** Most evidence comes from K–12 settings and structured genres (narrative, persuasive, expository); less is known about effects in higher education and open-ended or digital composing contexts. The meta-analysis recorded above covers explicit strategy instruction for planning, revising and editing in grades 4–10.
 
 ## Related Claims
 

@@ -3,26 +3,40 @@ type: claim
 title: Personalized Learning Effects Vary With Fidelity
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: personalized-learning-effects-vary-with-fidelity
 evidence_strength: weak
+sources:
+  - id: pane-et-al-2017
+    resource: "https://doi.org/10.7249/rr2042"
+    title: "Pane, J. F., Steiner, E. D., Baird, M. D., Hamilton, L. S., & Pane, J. D. (2017). *Informing progress: Insights on personalized learning implementation and effects*. RAND Corporation. [doi:10.7249/rr2042](https://doi.org/10.7249/rr2042)"
+    author: "Pane, J. F., Steiner, E. D., Baird, M. D., Hamilton, L. S., & Pane, J. D."
+    q: 2
+    i: 0
+    n: ~40 Next Generation Learning Challenges (NGLC) schools; 5,539 students (math) / 5,474 students (reading), 2014–15
 ---
 
 # Personalized Learning Effects Vary With Fidelity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q2` quasi-experiment · `i0` negligible · n=~40 Next Generation Learning Challenges (NGLC) schools; 5,539 students (math) / 5,474 students (reading), 2014–15
 
 The measured benefits of personalized learning depend heavily on how faithfully a program is implemented — effects observed in efficacy trials often shrink or disappear when implementation drifts from the intended design.
 
 ## Subclaims
 
-<!-- TODO -->
+`q2 i0` Across a national sample of schools implementing personalized-learning (PL) practices, achievement effects were small overall and appeared to track how fully and how long PL was implemented: schools with more-extensive, longer-running implementation (charter schools, and schools in their second year) showed larger gains than schools with lower reported implementation (district schools, first-year schools), though the authors call this pattern suggestive rather than confirmed. [→ Pane et al. 2017](#pane-et-al-2017)
 
 ## Evidence
 
-<!-- TODO -->
+### Pane et al. 2017
+
+Pane, J. F., Steiner, E. D., Baird, M. D., Hamilton, L. S., & Pane, J. D. (2017). *Informing progress: Insights on personalized learning implementation and effects*. RAND Corporation. [doi:10.7249/rr2042](https://doi.org/10.7249/rr2042)
+
+`q2 · quasi-experiment with matched virtual comparison groups` · `i0 · negligible-to-small, overall effect size 0.09 SD (math, sig.) / 0.07 SD (reading, n.s.)` · `n=~40 Next Generation Learning Challenges (NGLC) schools; 5,539 students (math) / 5,474 students (reading), 2014–15`
+
+RAND matched students in NGLC schools implementing PL practices (adaptive software, data-driven grouping, flexible pacing, competency-based progression) to virtual comparison groups built from national norm-referenced test data, and also surveyed teachers/students on the extent to which PL practices were actually delivered. Overall one-year effects were small (+0.09 SD math, statistically significant; +0.07 SD reading, not significant). Effects differed by how much PL was implemented: charter schools, which reported implementing PL practices more fully, showed effects near +0.10 SD in both subjects, while district schools — which implemented PL to a lesser reported extent — showed about half that effect in math and a near-zero effect in reading. Schools with two years of exposure showed larger cumulative gains than schools in their first year, which the authors read as PL systems "requir[ing] some experience before operating at their fullest potential." The report is explicit that the implementation-effect link rests on self-reported survey data, a small district-school subsample (9 of 40 schools), and cannot rule out confounds, so it frames the relationship as suggestive, not confirmed.
 
 ## Discussion
 

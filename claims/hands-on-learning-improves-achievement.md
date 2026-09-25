@@ -3,28 +3,44 @@ type: claim
 title: Hands-on learning improves achievement
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: hands-on-learning-improves-achievement
 evidence_strength: weak
+sources:
+  - id: carbonneau-et-al-2013
+    resource: "https://doi.org/10.1037/a0031084"
+    title: "Carbonneau, K. J., Marley, S. C., & Selig, J. P. (2013). A meta-analysis of the efficacy of teaching mathematics with concrete manipulatives. *Journal of Educational Psychology, 105*(2), 380–400. [doi:10.1037/a0031084](https://doi.org/10.1037/a0031084)"
+    author: "Carbonneau, K. J., Marley, S. C., & Selig, J. P."
+    q: 4
+    i: "?"
+    n: 7,237 (students, kindergarten through college)
 ---
 
 # Hands-on learning improves achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · n=7,237 (students, kindergarten through college)
 
 Physically manipulating materials or enacting concepts during instruction can improve achievement relative to passive reception, but the effect depends heavily on how the activity is structured and what learners already know.
 
 ## Subclaims
 
-<!-- TODO -->
+`q4 i?` A meta-analysis of 55 studies (N=7,237) finds small-to-moderate effects favoring concrete-manipulative (hands-on) mathematics instruction over abstract-symbol-only instruction, strongest for retention. [→ Carbonneau et al. 2013](#carbonneau-et-al-2013)
 
 ## Evidence
 
-<!-- TODO -->
+### Carbonneau et al. 2013
+
+Carbonneau, K. J., Marley, S. C., & Selig, J. P. (2013). A meta-analysis of the efficacy of teaching mathematics with concrete manipulatives. *Journal of Educational Psychology, 105*(2), 380–400. [doi:10.1037/a0031084](https://doi.org/10.1037/a0031084)
+
+`q4 · well-powered meta-analysis (55 studies)` · `i? · magnitude described only qualitatively in what was read; no numeric d located` · `n=7,237 (students, kindergarten through college)`
+
+A systematic search identified 55 studies comparing mathematics instruction using concrete manipulatives against instruction using only abstract math symbols, across students from kindergarten to college level. Statistically significant effects in Cohen's *d* favored manipulatives overall, and separate outcome-specific analyses found moderate-to-large effects on retention (k=53, N=7,140) and small effects on problem solving (k=9, N=477), transfer (k=13, N=3,453), and justification (k=2, N=109). The authors also report that the benefit was moderated by both instructional and methodological characteristics of the studies, so the effect is not uniform across implementations.
 
 ## Discussion
+
+**What the recorded evidence covers.** The one meta-analysis above concerns concrete manipulatives in mathematics, read as an abstract that gives no numeric effect sizes. It does not cover hands-on learning in other subjects.
 
 **Mechanism.** Plausible routes from hands-on activity to achievement include grounding abstract concepts in perceptual-motor experience, generating [cognitive disequilibrium](cognitive-disequilibrium-motivates-conceptual-change.md) that motivates conceptual change, and increasing engagement — see [Active learning improves exam performance](active-learning-improves-exam-performance.md) [+M]. However, physical activity alone does not guarantee cognitive engagement; the benefit depends on the activity prompting learners to process the target concept, not merely manipulate materials. This is consistent with the broader finding that [active learning improves exam performance](active-learning-improves-exam-performance.md) only when activities require meaningful cognitive processing [~M].
 

@@ -3,26 +3,40 @@ type: claim
 title: Phonemic Awareness Training Improves Reading
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: phonemic-awareness-training-improves-reading
 evidence_strength: undetermined
+sources:
+  - id: ehri-et-al-2001
+    resource: "https://doi.org/10.1598/rrq.36.3.2"
+    title: "Ehri, L. C., Nunes, S. R., Willows, D. M., Schuster, B. V., Yaghoub‐Zadeh, Z., & Shanahan, T. (2001). Phonemic Awareness Instruction Helps Children Learn to Read: Evidence From the National Reading Panel's Meta‐Analysis. *Reading Research Quarterly, 36*(3), 250–287. [doi:10.1598/rrq.36.3.2](https://doi.org/10.1598/rrq.36.3.2)"
+    author: "Ehri, L. C., Nunes, S. R., Willows, D. M., Schuster, B. V., Yaghoub‐Zadeh, Z., & Shanahan, T."
+    q: 4
+    i: 2
+    n: 52 studies, 96 treatment-control comparisons
 ---
 
 # Phonemic Awareness Training Improves Reading
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i2` medium · n=52 studies, 96 treatment-control comparisons
 
 Explicit instruction in identifying, segmenting, and blending the individual sounds (phonemes) in spoken words improves later reading achievement, primarily by supporting the development of decoding and word-recognition skill.
 
 ## Subclaims
 
-<!-- TODO -->
+`q4 i2` A meta-analysis of 52 controlled studies found phonemic awareness training produces a moderate, statistically significant improvement in reading (d=0.53), and the effect was larger when letters were incorporated into training, when one or two skills rather than many were taught, and when instruction was delivered in small groups. [→ Ehri et al. 2001](#ehri-et-al-2001)
 
 ## Evidence
 
-<!-- TODO -->
+### Ehri et al. 2001
+
+Ehri, L. C., Nunes, S. R., Willows, D. M., Schuster, B. V., Yaghoub‐Zadeh, Z., & Shanahan, T. (2001). Phonemic Awareness Instruction Helps Children Learn to Read: Evidence From the National Reading Panel's Meta‐Analysis. *Reading Research Quarterly, 36*(3), 250–287. [doi:10.1598/rrq.36.3.2](https://doi.org/10.1598/rrq.36.3.2)
+
+`q4 · meta-analysis (National Reading Panel)` · `i2 · medium effect, d=0.53` · `n=52 studies, 96 treatment-control comparisons`
+
+This National Reading Panel meta-analysis pooled 52 peer-reviewed studies (96 treatment-vs-control comparisons) of phonemic awareness (PA) training with children from preschool through first grade, including normally developing, at-risk and disabled readers across SES levels. PA training produced a large effect on PA itself (d=0.86) and a moderate, statistically significant effect on reading (d=0.53), with word reading and reading comprehension both benefiting; a similar moderate effect appeared for spelling (d=0.59), except that spelling did not improve for disabled readers. Effect sizes on reading were larger when training incorporated [letters](../elements/automaticity.md) alongside phoneme manipulation than when it stayed oral-only, when one or two PA skills were taught rather than several, when children were trained in small groups rather than individually or as a whole class, and when instruction lasted 5–18 hours rather than longer; classroom teachers were as effective as researchers at delivering it.
 
 ## Discussion
 

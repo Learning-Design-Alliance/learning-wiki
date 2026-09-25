@@ -3,26 +3,40 @@ type: claim
 title: Number Board Games Improve Numerical Knowledge
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: number-board-games-improve-numerical-knowledge
 evidence_strength:
+sources:
+  - id: ramani-siegler-2008
+    resource: "https://doi.org/10.1111/j.1467-8624.2007.01131.x"
+    title: "Ramani, G. B., & Siegler, R. S. (2008). Promoting Broad and Stable Improvements in Low-Income Children's Numerical Knowledge Through Playing Number Board Games. *Child Development, 79*(2), 375–394. [doi:10.1111/j.1467-8624.2007.01131.x](https://doi.org/10.1111/j.1467-8624.2007.01131.x)"
+    author: "Ramani, G. B., & Siegler, R. S."
+    q: 3
+    i: 2
+    n: 124
 ---
 
 # Number Board Games Improve Numerical Knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium · n=124
 
 Linear number board games — in which players move counters along a numbered track — improve young children's numerical knowledge, including counting, number identification, and numerical magnitude comparison.
 
 ## Subclaims
 
-<!-- TODO -->
+`q3 i2` A single ~1-hour dose of a linear, numbered board game (four 15–20 min sessions over two weeks) raised low-income preschoolers' scores on numeral identification, counting, magnitude comparison, and number-line estimation relative to a matched color-only board game, with gains still present nine weeks later. [→ Ramani Siegler 2008](#ramani-siegler-2008)
 
 ## Evidence
 
-<!-- TODO -->
+### Ramani Siegler 2008
+
+Ramani, G. B., & Siegler, R. S. (2008). Promoting Broad and Stable Improvements in Low-Income Children's Numerical Knowledge Through Playing Number Board Games. *Child Development, 79*(2), 375–394. [doi:10.1111/j.1467-8624.2007.01131.x](https://doi.org/10.1111/j.1467-8624.2007.01131.x)
+
+`q3 · peer-reviewed randomized experiment` · `i2 · medium to large effects, d=0.65–1.08 across tasks` · `n=124`
+
+124 Head Start preschoolers (mean age 4 years 9 months) were randomly assigned within centers to play one of two "Great Race" board games with an experimenter for four 15–20 min sessions over two weeks: one board had linearly arranged squares numbered 1–10, the other was identical except squares varied only in color. Children who played the [number board game](../elements/practice.md) improved from pretest to immediate posttest and to a 9-week follow-up on numeral identification (d=0.69 posttest, d=0.80 follow-up), counting without error (d=0.65, d=0.69), magnitude comparison accuracy (d=0.99 posttest, d=0.77 follow-up) and linearity of number-line estimates (d=1.08 posttest, d=0.55 follow-up); children who played the color-only version showed minimal or no change on any measure. The two groups did not differ at pretest on any task.
 
 ## Discussion
 
@@ -32,7 +46,7 @@ Games with linear, ascending number layouts are hypothesized to be more effectiv
 
 Boundary conditions and open questions remain. Gains are expected to be largest for children whose initial number knowledge is weak, since the games teach foundational magnitude and counting skills rather than advanced content; as with other instructional approaches, a fixed activity may lose value as competence grows, in line with the [expertise reversal effect](../theories/expertise-reversal-effect.md). Whether benefits persist over months, transfer to formal arithmetic beyond magnitude comparison, and how game dosage (session length, number of sessions) relates to outcomes are not yet established on this page. Designers should also note that the adult or peer facilitating the game — naming numbers, asking comparison questions — may be a critical ingredient rather than the board itself, echoing the facilitation effects documented in [Collaborative learning improves outcomes.](collaborative-learning-improves-outcomes.md)
 
-**Evidence gap.** No studies are currently catalogued in the Evidence section for this claim. The subclaims above — particularly the linear-layout advantage and the durability of gains — should be treated as hypotheses until experimental and meta-analytic evidence is added. Experimental and meta-analytic studies of linear number board game interventions (particularly in early-childhood samples) still need to be added before any evidence strength can be assigned.
+**Evidence gap.** One randomized study is recorded above; replications and meta-analyses are not yet recorded here. The subclaims above — particularly the linear-layout advantage and the durability of gains — should be treated as hypotheses until experimental and meta-analytic evidence is added.
 
 ## Related Claims
 

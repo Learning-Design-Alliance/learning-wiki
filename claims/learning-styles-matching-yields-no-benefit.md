@@ -3,26 +3,57 @@ type: claim
 title: Learning Styles Matching Yields No Benefit
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: learning-styles-matching-yields-no-benefit
 evidence_strength: strong
+sources:
+  - id: pashler-et-al-2008
+    resource: "https://doi.org/10.1111/j.1539-6053.2009.01038.x"
+    title: "Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2008). Learning Styles: Concepts and Evidence. *Psychological Science in the Public Interest, 9*(3), 105–119. [doi:10.1111/j.1539-6053.2009.01038.x](https://doi.org/10.1111/j.1539-6053.2009.01038.x)"
+    author: "Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R."
+    q: 3
+    i: "?"
+    n: N/A (narrative synthesis of the field)
+  - id: rogowsky-et-al-2020
+    resource: "https://doi.org/10.3389/fpsyg.2020.00164"
+    title: "Rogowsky, B. A., Calhoun, B. M., & Tallal, P. (2020). Providing Instruction Based on Students' Learning Style Preferences Does Not Improve Learning. *Frontiers in Psychology, 11*, 164. [doi:10.3389/fpsyg.2020.00164](https://doi.org/10.3389/fpsyg.2020.00164)"
+    author: "Rogowsky, B. A., Calhoun, B. M., & Tallal, P."
+    q: 3
+    i: "?"
+    n: 125 fifth-grade students (34 analyzed in the learning-style-group ANOVA)
 ---
 
 # Learning Styles Matching Yields No Benefit
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 2 studies · `q3` peer-reviewed experiment
 
 Matching instruction to a learner's purported "learning style" (visual, auditory, kinesthetic, etc.) does not improve learning outcomes; the widely used style-matching approach lacks credible experimental support.
 
 ## Subclaims
 
-<!-- TODO -->
+`q3 i?` A systematic review of the learning-styles literature found only one study even potentially using the crossover-interaction design needed to validate the meshing hypothesis, and judged that study's evidence unconvincing, concluding the literature does not support matching instruction to learning style. [→ Pashler et al. 2008](#pashler-et-al-2008)
+
+`q3 i?` A randomized experiment with 5th-grade students found no learning-style × instructional-modality interaction: visual learners outperformed auditory learners on *both* listening and reading comprehension, the opposite of the crossover pattern the meshing hypothesis predicts. [→ Rogowsky et al. 2020](#rogowsky-et-al-2020)
 
 ## Evidence
 
-<!-- TODO -->
+### Pashler et al. 2008
+
+Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2008). Learning Styles: Concepts and Evidence. *Psychological Science in the Public Interest, 9*(3), 105–119. [doi:10.1111/j.1539-6053.2009.01038.x](https://doi.org/10.1111/j.1539-6053.2009.01038.x)
+
+`q3 · systematic review of the learning-styles literature` · `i? · no aggregate effect size reported` · `n=N/A (narrative synthesis of the field)`
+
+The authors specify that validating learning-style-based instruction requires a "crossover interaction" — style A learners must do best under method 1 while style B learners do best under method 2, using a design where learners are classified by style, randomly assigned to matched or mismatched instruction, and given a common assessment. Searching the literature for studies meeting this design, they found only one that even potentially qualified, and its evidence was weak; several well-designed studies instead found evidence *contradicting* the hypothesis. They conclude that instruction should follow the content's demands (e.g., visual material for geometry, verbal for writing), not a learner's self-reported style.
+
+### Rogowsky et al. 2020
+
+Rogowsky, B. A., Calhoun, B. M., & Tallal, P. (2020). Providing Instruction Based on Students' Learning Style Preferences Does Not Improve Learning. *Frontiers in Psychology, 11*, 164. [doi:10.3389/fpsyg.2020.00164](https://doi.org/10.3389/fpsyg.2020.00164)
+
+`q3 · randomized experiment (crossover-interaction design following Pashler et al.'s own criteria)` · `i? · no standardised effect size reported; interaction F(1,38)=1.16, p=0.29` · `n=125 fifth-grade students (34 analyzed in the learning-style-group ANOVA)`
+
+125 fifth graders (ages 10–11) in a Pennsylvania public school were classified as auditory or visual learners via a standardized learning-style inventory, then given listening- and reading-comprehension tests. A mixed-design ANOVA testing whether learning style predicted which modality a student comprehended better found no learning-style-by-modality interaction (F(1,38)=1.16, p=0.29) — visual learners scored significantly higher on *both* listening and reading comprehension (main effect of style, F(1,32)=12.92, p=0.001, η²=0.29) rather than showing the crossover the [meshing hypothesis](../theories/dual-coding-theory.md) predicts. This replicates the earlier adult study (Rogowsky, Calhoun & Tallal, 2015) with a school-age population.
 
 ## Discussion
 

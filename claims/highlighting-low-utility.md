@@ -3,26 +3,40 @@ type: claim
 title: Highlighting shows low utility for improving learning outcomes
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: highlighting-low-utility
 evidence_strength: moderate
+sources:
+  - id: dunlosky-et-al-2013
+    resource: "https://doi.org/10.1177/1529100612453266"
+    title: "Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)"
+    author: "Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T."
+    q: 3
+    i: "?"
+    n: multiple primary studies (narrative synthesis; individual samples span Air Force trainees, children and undergraduates)
 ---
 
 # Highlighting shows low utility for improving learning outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · n=multiple primary studies (narrative synthesis; individual samples span Air Force trainees, children and undergraduates)
 
 Highlighting and underlining text is one of the most widely used study strategies, yet it shows little benefit for learning outcomes relative to simply reading.
 
 ## Subclaims
 
-<!-- TODO -->
+`q3 i?` A narrative review of highlighting/underlining research across children, undergraduates and Air Force trainees rates the technique as having low utility for learning, with little benefit over simply reading and a possible cost to inference-making. [→ Dunlosky et al. 2013](#dunlosky-et-al-2013)
 
 ## Evidence
 
-<!-- TODO -->
+### Dunlosky et al. 2013
+
+Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)
+
+`q3 · narrative review of primary experiments` · `i? · no pooled effect size reported` · `n=multiple primary studies (narrative synthesis; individual samples span Air Force trainees, children and undergraduates)`
+
+A monograph by five cognitive/educational psychologists reviewing the empirical literature on ten study techniques, evaluated for generality across learning conditions, student characteristics, materials and criterion tasks. For highlighting/underlining specifically, the review synthesizes primary experiments (e.g., Fowler & Barker, 1974; Peterson, 1992) spanning Air Force basic trainees, children, remedial and typical undergraduates, using texts on topics from aerodynamics to enzymes, with immediate and delayed (up to two months) tests. Most studies found no benefit of highlighting over simply reading; one study (Peterson, 1992) found underlining actively hurt performance on inference questions requiring connections across the text, while leaving factual recall unaffected. The authors conclude the technique's benefit depends heavily on highlighting quality and prior knowledge, and that as typically practiced it provides little gain.
 
 ## Discussion
 

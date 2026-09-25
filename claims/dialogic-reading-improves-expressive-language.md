@@ -63,7 +63,7 @@ A meta-analysis of 31 experiments and quasi-experiments (2,049 children) in whic
 
 **Prompt design as scaffold.** The prompting hierarchy (completion → recall → open-ended → wh- → distancing) works because each prompt type keeps the child's language production within a manageable demand — the same principle that makes [chunking reduce working memory load](chunking-reduces-working-memory-load.md) effective for older learners. Prompts pitched too far above the child's current level produce silence rather than talk.
 
-**Open questions.** The evidence base for this page has not yet been populated — see the TODO above. Dosage (sessions per week, duration), optimal age range, and durability of gains after intervention ends all need to be grounded in the specific studies before strength ratings can be assigned. Until then, no evidence strength can be claimed for this page.
+**Open questions.** Dosage (sessions per week, duration), optimal age range, and durability of gains after intervention ends all need to be grounded in the specific studies before strength ratings can be assigned. The meta-analyses recorded above do not settle these.
 
 ## Related Claims
 
