@@ -10,6 +10,12 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/self-monitoring-improves-on-task-behavior](claims/self-monitoring-improves-on-task-behavior.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/story-mapping-improves-comprehension](claims/story-mapping-improves-comprehension.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/self-questioning-improves-comprehension](claims/self-questioning-improves-comprehension.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/strategy-instruction-needs-conditional-knowledge](claims/strategy-instruction-needs-conditional-knowledge.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/structured-literacy-interventions-help-struggling-readers](claims/structured-literacy-interventions-help-struggling-readers.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/writing-improves-mathematical-understanding](claims/writing-improves-mathematical-understanding.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/self-talk-improves-learning-and-performance](claims/self-talk-improves-learning-and-performance.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes](claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/spatial-training-improves-math-performance](claims/spatial-training-improves-math-performance.md) — Evidence filled from Crossref-verified sources (gap-fill)

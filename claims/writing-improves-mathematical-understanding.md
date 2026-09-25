@@ -3,26 +3,40 @@ type: claim
 title: Writing Improves Mathematical Understanding
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: writing-improves-mathematical-understanding
 evidence_strength: weak
+sources:
+  - id: graham-et-al-2020
+    resource: "https://doi.org/10.3102/0034654320914744"
+    title: "Graham, S., Kiuhara, S. A., & MacKay, M. (2020). The Effects of Writing on Learning in Science, Social Studies, and Mathematics: A Meta-Analysis. *Review of Educational Research, 90*(2), 179–226. [doi:10.3102/0034654320914744](https://doi.org/10.3102/0034654320914744)"
+    author: "Graham, S., Kiuhara, S. A., & MacKay, M."
+    q: 3
+    i: 1
+    n: 56 experiments
 ---
 
 # Writing Improves Mathematical Understanding
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small · n=56 experiments
 
 Writing about mathematical reasoning — explaining solutions, justifying steps, or keeping math journals — deepens conceptual understanding by forcing learners to articulate the *why* behind procedures, not just execute them.
 
 ## Subclaims
 
-<!-- TODO -->
+`q3 i1` A meta-analysis of 56 true/quasi-experiments in Grades 1–12 finds that writing-to-learn activities reliably improve content learning, with effects equally strong in mathematics as in science and social studies. [→ Graham et al. 2020](#graham-et-al-2020)
 
 ## Evidence
 
-<!-- TODO -->
+### Graham et al. 2020
+
+Graham, S., Kiuhara, S. A., & MacKay, M. (2020). The Effects of Writing on Learning in Science, Social Studies, and Mathematics: A Meta-Analysis. *Review of Educational Research, 90*(2), 179–226. [doi:10.3102/0034654320914744](https://doi.org/10.3102/0034654320914744)
+
+`q3 · meta-analysis of true/quasi-experiments (not pre-registered)` · `i1 · small effect, effect size = 0.30` · `n=56 experiments`
+
+This meta-analysis pooled 56 true or quasi-experimental studies (with pretests), conducted with students in Grades 1–12, comparing content-area instruction that included a writing-to-learn activity against otherwise-matched non-writing control conditions. Writing about content material reliably enhanced learning (effect size = 0.30), and the effect was statistically indistinguishable across science, social studies, and mathematics, and across elementary, middle, and high school. Effects were not moderated by the specific features of the writing activity, the instruction, or the assessment, nor by study-quality features. Only the publisher's abstract was available (the journal is not open access and no repository or preprint copy was found), so this entry cannot report the mathematics-specific effect size, k for the mathematics subset, or study-quality/moderator statistics beyond what the abstract states — those are readable in the full article but not verified here.
 
 ## Discussion
 
@@ -32,7 +46,7 @@ Writing also imposes extraneous load; if the writing task itself (format, length
 
 Open questions include how much structure (sentence starters, rubrics) is optimal, whether benefits hold under standardized assessment conditions, and how effects differ for multilingual learners whose writing fluency may lag their mathematical reasoning.
 
-**Evidence status.** No studies are currently catalogued for this claim. The writing-to-learn literature in mathematics is sizable but heterogeneous — effects vary widely with prompt type, grade level, and outcome measure — so this page should be populated only with studies that directly test mathematical writing interventions against matched non-writing controls, with conceptual and procedural outcomes measured separately.
+**Evidence status.** No studies are currently catalogued for this claim. The writing-to-learn literature in mathematics is sizable but heterogeneous — effects vary widely with prompt type, grade level, and outcome measure — so further evidence on this page should come from studies that directly test mathematical writing interventions against matched non-writing controls, with conceptual and procedural outcomes measured separately.
 
 ## Related Claims
 
