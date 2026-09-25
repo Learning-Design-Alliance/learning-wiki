@@ -10,6 +10,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/explicit-handwriting-instruction-improves-legibility](claims/explicit-handwriting-instruction-improves-legibility.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/explicit-writing-strategy-instruction-improves-writing](claims/explicit-writing-strategy-instruction-improves-writing.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/teacher-student-relationships-improve-engagement-and-achievement](claims/teacher-student-relationships-improve-engagement-and-achievement.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/segmentation-benefits-shrink-with-expertise](claims/segmentation-benefits-shrink-with-expertise.md) — Evidence filled from Crossref-verified sources (gap-fill)
