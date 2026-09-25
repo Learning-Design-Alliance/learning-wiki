@@ -846,6 +846,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Peer Feedback Improves Writing](peer-feedback-improves-writing.md)
 * [Peer Feedback Improves Writing Outcomes](peer-feedback-improves-writing-outcomes.md)
 * [Peer Tutoring Improves Achievement](peer-tutoring-improves-achievement.md)
+* [Peer-assisted learning interventions improve achievement for elementary students](peer-assisted-learning-improves-achievement.md)
 * [People learn better from words and pictures than from words alone](multimedia-principle.md)
 * [Perceived immersive, interactive, and distributed affordances are each positively associated with a distinct lacquer-painting imagery characteristic in cross-sectional survey data](perceived-digital-affordances-associated-with-lacquer-imagery-characteristics.md) - Perceived immersive, interactive, and distributed affordances are each positively associated with a distinct lacquer-painting imagery characteristic in cross-sectional survey data
 * [Personal connection to data supports critical data-literacy stance-taking](personal-connection-to-data-supports-critical-data-literacy-stance-taking.md)
@@ -1395,7 +1396,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Word-frequency changes in reflections suggest a shift away from given-information-based strategies](word-frequency-shifts-in-reflections.md) - Word-frequency changes in reflections suggest a shift away from given-information-based strategies
 * [Words and pictures are better than words alone](words-and-pictures-better-than-words-alone.md)
 * [Words higher in contextual diversity and semantic richness are processed more accurately and efficiently in lexical tasks](cd-semantic-richness-improves-lexical-processing.md) - Words higher in contextual diversity and semantic richness are processed more accurately and efficiently in lexical tasks
-* [Worked examples reduce unnecessary search for novices](peer-assisted-learning-improves-achievement.md)
 * [Worked-example gains in a puzzle game remained small relative to expert performance, with the worked example group learning only 2.7% of experts' knowledge-map knowledge](worked-example-gains-in-a-puzzle-game-remain-small-relative-to-expert-knowledge-maps.md) - Worked-example gains in a puzzle game remained small relative to expert performance, with the worked example group learning only 2.7% of experts' knowledge-map knowledge
 * [Working conditions shape educator retention and also influence recruitment decisions and the effectiveness of collaborative evaluation and induction](working-conditions-shape-retention-and-recruitment.md) - Working conditions shape educator retention and also influence recruitment decisions and the effectiveness of collaborative evaluation and induction
 * [Writing Improves Mathematical Understanding](writing-improves-mathematical-understanding.md)

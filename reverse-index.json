@@ -22305,6 +22305,11 @@
     ]
    },
    "cooperative-learning-improves-achievement": {
+    "claims": [
+     {
+      "slug": "peer-assisted-learning-improves-achievement"
+     }
+    ],
     "principles": [
      {
       "polarity": "+",
@@ -34884,6 +34889,11 @@
     ]
    },
    "peer-tutoring-improves-achievement": {
+    "claims": [
+     {
+      "slug": "peer-assisted-learning-improves-achievement"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -45846,6 +45856,11 @@
     ]
    },
    "structured-peer-tutoring-outperforms-unstructured": {
+    "claims": [
+     {
+      "slug": "peer-assisted-learning-improves-achievement"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -47138,6 +47153,11 @@
     ]
    },
    "tutoring-benefits-tutors-and-tutees": {
+    "claims": [
+     {
+      "slug": "peer-assisted-learning-improves-achievement"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
