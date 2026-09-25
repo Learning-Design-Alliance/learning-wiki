@@ -634,6 +634,17 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#2026-09-25-later-batch-4-a-bad-provider-and-a-doi-sweep-that-nearly-deleted-good-dois" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-25 (later) — batch 4, a bad provider, and a DOI sweep that nearly deleted good DOIs
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#2026-09-25-the-first-two-in-session-glm-batches-and-what-they-changed-for-the-droplet" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1274,6 +1285,17 @@
   
     <nav class="md-nav" aria-label="Working alongside other sessions — read this before starting">
       <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#2026-09-25-later-batch-4-a-bad-provider-and-a-doi-sweep-that-nearly-deleted-good-dois" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-25 (later) — batch 4, a bad provider, and a DOI sweep that nearly deleted good DOIs
+      
+    </span>
+  </a>
+  
+</li>
         
           <li class="md-nav__item">
   <a href="#2026-09-25-the-first-two-in-session-glm-batches-and-what-they-changed-for-the-droplet" class="md-nav__link">
@@ -1994,6 +2016,33 @@ work is done, not that the check is broken.</p>
 </ul>
 <p><strong>When you finish something wiki-wide, add a line here.</strong> That is how the next session
 finds out.</p>
+<h3 id="2026-09-25-later-batch-4-a-bad-provider-and-a-doi-sweep-that-nearly-deleted-good-dois">2026-09-25 (later) — batch 4, a bad provider, and a DOI sweep that nearly deleted good DOIs<a class="headerlink" href="#2026-09-25-later-batch-4-a-bad-provider-and-a-doi-sweep-that-nearly-deleted-good-dois" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>OpenRouter routed 51 of batch 4's 78 GLM calls to OpenInference, and all 51 failed</strong> (22 said "no
+  article text was supplied" to a 28k-token prompt carrying the article). <code>openrouter_client</code> now sends
+  <code>provider.ignore</code> (<code>OPENROUTER_IGNORE_PROVIDERS</code>, default <code>OpenInference</code>) and every record stores
+  <code>generation.provider</code>. Check pass rate by provider before blaming a prompt. After the fix: 73/78 pass.</li>
+<li><strong>ERIC discovery filters on <code>e_fulltextauth:1</code></strong>, ERIC's own "we host the full text" flag: 58/60 fetched,
+  against 32/125 under the old ED-prefix rule. <strong>arXiv works without Kaggle credentials</strong>:
+  <code>kagglehub.dataset_download('Cornell-University/arxiv')</code> downloads anonymously (5.5 GB, cached).</li>
+<li><code>run_scrape_batch.py</code> gained <code>--resume</code> (skip discover/fetch, regenerate only missing records) and
+  <code>--concurrency</code> (default 6; sequential GLM took ~5 min per article).</li>
+<li><strong>A DOI with no doi.org handle does not exist anywhere</strong>, and <code>resolve_citation_metadata.py</code> now removes
+  it (<code>doi_resolver.handle_registered</code>; a failed lookup is <code>None</code> and changes nothing). <code>--all</code> extends
+  the run to DOIs no divergence check flagged. <strong>Its first version removed correct DOIs from 49
+  citations</strong> (Hattie's <em>Visible Learning</em> on 16 pages), because <code>check_citations</code> stores each citation
+  line cut to 160 characters, so a long author list pushes the title past the cut and the title test
+  compares against a fragment. Records now carry <code>full_line</code>, title reads use it, a title-based removal
+  needs the registry title to be mostly absent from the whole line, and title-mismatch removal is never
+  done without journal coordinates. On DOIs no other check flagged, metadata and title changes are
+  reported, not written. <strong>Audit a removal pass by checking each removed DOI's registry title against the
+  full line</strong>, as the second pass did: 161 removals, 0 of them wrong. <code>check_citations</code>'s own title-
+  divergence check still reads the 160-character excerpt.</li>
+<li><strong>Evidence-less claims can be filled by in-session agents</strong> from Crossref-verified sources they read;
+  five of the most-cited stubs were (active learning, feedback levels, assessment for learning, belonging,
+  cognitive overload). Most sources were abstract-only, which the entries say, and three of the five
+  qualify rather than simply support their claim.</li>
+</ul>
 <h3 id="2026-09-25-the-first-two-in-session-glm-batches-and-what-they-changed-for-the-droplet">2026-09-25 — the first two in-session GLM batches, and what they changed for the droplet<a class="headerlink" href="#2026-09-25-the-first-two-in-session-glm-batches-and-what-they-changed-for-the-droplet" title="Permanent link">&para;</a></h3>
 <p>Two batches through <code>run_scrape_batch.py</code> with GLM on <strong>v133 and 2 correction attempts</strong>: 96 articles
 ingested, 12 rejected as E2, 3 failed, about $0.45 in generation. Claims with coded evidence 274 → 597
