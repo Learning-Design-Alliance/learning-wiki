@@ -626,6 +626,23 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Evidence">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#latimier-et-al-2021" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Latimier et al. 2021
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -678,7 +695,7 @@
 <h1 id="spaced-retrieval-outperforms-restudy">Spaced Retrieval Outperforms Restudy<a class="headerlink" href="#spaced-retrieval-outperforms-restudy" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a>
-<strong>Evidence</strong> · none recorded yet</p>
+<strong>Evidence</strong> · 1 study · <code>q4</code> pre-registered or meta-analytic · <code>i2</code> medium · n=39 effect sizes (subset 1)</p>
 </blockquote>
 <p>Retrieving information from memory at spaced intervals produces stronger, longer-lasting retention than re-reading or restudying the same material. The claim concerns the <em>interaction</em> of spacing and retrieval — not either effect alone.</p>
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
@@ -752,16 +769,17 @@ code and adds <code>n=</code>.</p>
 page reports it faithfully is a separate axis — see <code>trust</code> in the page
 metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 </details>
-<!-- TODO -->
-
+<p><code>q4 i2</code> A meta-analysis of 29 studies finds that spacing out retrieval-practice episodes produces meaningfully better long-term retention than massing them, but the underlying studies compare spaced vs. massed retrieval practice rather than retrieval practice vs. restudy, so this evidence supports the spacing half of the claim more directly than the retrieval-vs-restudy half. <a href="#latimier-et-al-2021">→ Latimier et al. 2021</a></p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
-<!-- TODO -->
-
+<h3 id="latimier-et-al-2021">Latimier et al. 2021<a class="headerlink" href="#latimier-et-al-2021" title="Permanent link">&para;</a></h3>
+<p>Latimier, A., Peyre, H., &amp; Ramus, F. (2021). A Meta-Analytic Review of the Benefit of Spacing out Retrieval Practice Episodes on Retention. <em>Educational Psychology Review, 33</em>(3), 959–987. <a href="https://doi.org/10.1007/s10648-020-09572-8">doi:10.1007/s10648-020-09572-8</a></p>
+<p><code>q4 · meta-analysis (robust variance estimation over 29 studies)</code> · <code>i2 · medium effect, g=0.74</code> · <code>n=39 effect sizes (subset 1)</code></p>
+<p>Meta-analysis of 29 studies on spaced retrieval practice, split into two subsets to answer two questions. Subset 1 (39 aggregated effect sizes) tested whether spaced retrieval practice produces better final-retention memory than massed retrieval practice, and found a benefit for spacing (Hedges' g = 0.74). Subset 2 (54 effect sizes) tested whether an expanding spacing schedule beats a uniform one during retrieval practice and found no reliable difference (g = 0.034); the number of retrieval exposures per item moderated this null result. Note the comparator in subset 1 is <em>massed</em> retrieval practice, not passive restudy/re-reading — the meta-analysis establishes that spacing matters within retrieval practice, and does not itself contrast retrieval practice against restudy.</p>
 <h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
 <p><strong>Why the combination matters.</strong> Spacing and retrieval are each powerful individually, but the claim here concerns their interaction: retrieval attempts spaced over time force effortful reconstruction of memory at successive points, which is theorized to strengthen retrieval routes more than passive restudy at either spaced or massed intervals. The mechanism is usually framed in terms of <a href="../../theories/information-processing-theory/">information processing theory</a> — successful retrieval modifies the memory trace in ways restudy does not — and relates to working-memory constraints described in <a href="../chunking-reduces-working-memory-load/">chunking reduces working memory load</a>.</p>
 <p><strong>Boundary conditions to expect.</strong> The literature on this claim generally indicates the advantage depends on successful or near-successful retrieval: if learners cannot retrieve anything, a retrieval attempt may add little or even entrench errors [-M], and very long spacing intervals can make retrieval so difficult that it fails [-M]. Feedback after retrieval attempts is typically treated as a moderator — see <a href="../feedback-improves-learning/">feedback improves learning</a> for the general case. These conditions should be documented here once evidence entries are added.</p>
 <p><strong>Open questions.</strong> Optimal spacing intervals relative to the retention interval, durability of the effect beyond laboratory materials, and how the effect interacts with learner expertise all remain to be specified with cited evidence on this page. The expertise question parallels the <a href="../../theories/expertise-reversal-effect/">expertise reversal effect</a>: retrieval demands that benefit novices may impose unnecessary load on advanced learners [~M], and the <a href="../cognitive-overload-degrades-learning/">cognitive overload degrades learning</a> page describes the general failure mode when task difficulty exceeds available capacity.</p>
-<p><strong>Design implication pending evidence.</strong> Until evidence entries are added, practitioners should treat this claim as a synthesis-level expectation from the broader spacing and testing literatures rather than a verified standalone effect, and should pair spaced retrieval with feedback and success rates high enough that retrieval attempts are effortful but achievable. In practice this means scheduling retrieval attempts at expanding or fixed intervals across sessions rather than within one sitting, keeping initial retrieval success rates moderate (learners should sometimes struggle but usually succeed), and correcting errors immediately after each attempt.</p>
+<p><strong>Design implication.</strong> The one meta-analysis recorded above compares spaced with massed retrieval, not retrieval with restudy, so the "outperforms restudy" half of this claim still rests on the separate testing-effect literature. Practitioners should pair spaced retrieval with feedback and success rates high enough that retrieval attempts are effortful but achievable. In practice this means scheduling retrieval attempts at expanding or fixed intervals across sessions rather than within one sitting, keeping initial retrieval success rates moderate (learners should sometimes struggle but usually succeed), and correcting errors immediately after each attempt.</p>
 <h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
 <ul>
 <li><a href="../chunking-reduces-working-memory-load/">Chunking reduces working memory load</a> — working-memory constraints shape how much can be successfully retrieved in one attempt</li>
@@ -802,11 +820,15 @@ metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 </tr>
 <tr>
 <td><code>generated</code></td>
-<td>by <code>claude/unspecified</code> on <code>2026-08-30</code></td>
+<td>by <code>claude/unspecified</code> on <code>2026-09-25</code></td>
 </tr>
 <tr>
 <td><code>trust</code></td>
 <td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>latimier-et-al-2021</code></td>
 </tr>
 </tbody>
 </table>

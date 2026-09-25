@@ -626,6 +626,23 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Evidence">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#rowland-2014" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Rowland 2014
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -678,7 +695,7 @@
 <h1 id="retrieval-failure-reduces-benefit">Retrieval Failure Reduces Benefit<a class="headerlink" href="#retrieval-failure-reduces-benefit" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a>
-<strong>Evidence</strong> · none recorded yet</p>
+<strong>Evidence</strong> · 1 study · <code>q4</code> pre-registered or meta-analytic · n=159 effect sizes (61 studies)</p>
 </blockquote>
 <p>When learners attempt retrieval practice but fail to successfully retrieve the target information, the learning benefit of the retrieval attempt is reduced compared with successful retrieval. The claim concerns the <em>quality</em> of the retrieval attempt, not the presence of failure per se — see Discussion for boundary conditions.</p>
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
@@ -752,17 +769,18 @@ code and adds <code>n=</code>.</p>
 page reports it faithfully is a separate axis — see <code>trust</code> in the page
 metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 </details>
-<!-- TODO -->
-
+<p><code>q4 i?</code> Across the testing-effect literature, the memory benefit of a retrieval attempt scales with how often retrieval succeeds: without corrective feedback, initial recall performance at or below 50% produced no reliable testing effect, while effects grew significantly larger as retrieval success rose toward and beyond 75%. <a href="#rowland-2014">→ Rowland 2014</a></p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
-<!-- TODO -->
-
+<h3 id="rowland-2014">Rowland 2014<a class="headerlink" href="#rowland-2014" title="Permanent link">&para;</a></h3>
+<p>Rowland, C. A. (2014). The effect of testing versus restudy on retention: A meta-analytic review of the testing effect. <em>Psychological Bulletin, 140</em>(6), 1432–1463. <a href="https://doi.org/10.1037/a0037559">doi:10.1037/a0037559</a></p>
+<p><code>q4 · meta-analytic review (random-effects model, 159 effect sizes from 61 studies)</code> · <code>i? · effect differs by subgroup: g=0.03 at ≤50% initial recall, g=0.56 at &gt;75%</code> · <code>n=159 effect sizes (61 studies)</code></p>
+<p>This meta-analysis pooled 159 effect sizes from 61 published and unpublished studies comparing final retention of tested vs. restudied material (Hedges's g, random-effects model). A dedicated "retrievability and reexposure" moderator analysis split the no-feedback studies by how often the initial retrieval attempt succeeded. Where more than half of initial retrieval attempts failed (≤50% correct) and no feedback followed, the testing effect was statistically indistinguishable from zero; as the proportion of successful retrievals rose (51–75%, then &gt;75%), the size of the benefit rose with it, and studies that provided feedback after retrieval (regardless of initial success) showed the largest effects of all. The pattern directly supports <a href="../../elements/practice/">practice</a> calibrated to a learner's likely success and pairing failed attempts with feedback, as this claim's Discussion recommends.</p>
 <h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
 <p><strong>Why failure matters.</strong> Retrieval practice is among the most robust learning strategies, but its benefit is not automatic. A retrieval attempt appears to produce learning primarily when it succeeds — the act of reconstructing an answer strengthens the memory trace. When learners cannot retrieve the answer at all, the attempt may contribute little, and if learners then immediately see the answer, the failed attempt can function as passive re-exposure rather than active reconstruction. This connects to the broader principle that <a href="../../principles/cognitive-load-management/">cognitive load management</a> matters: a retrieval task pitched far beyond what the learner can access may consume effort without producing consolidation.</p>
 <p><strong>Moderators and boundary conditions.</strong> The claim should not be read as "failure is always bad." Partial retrieval — recalling fragments, related cues, or the gist — may still confer benefit, and some literature on pretesting and errorful learning suggests that unsuccessful attempts followed by feedback can outperform study alone under certain conditions. The critical variables appear to be (a) whether the learner makes a genuine retrieval attempt rather than giving up immediately, (b) whether feedback follows the attempt, and (c) whether task difficulty is calibrated so that retrieval is challenging but achievable. Designers using <a href="../../elements/practice/">retrieval practice</a> should therefore ensure learners possess enough prior knowledge to have a realistic chance of success — for example by <a href="../activation-improves-learning/">activating prior knowledge</a> before quizzing — and should pair difficult retrieval attempts with timely corrective feedback.</p>
 <p><strong>Design implications.</strong> Calibrate question difficulty so most learners can retrieve with effort; scaffold with cues or <a href="../chunking-reduces-working-memory-load/">chunking</a> when material exceeds what learners can access; and always follow failed attempts with feedback that allows successful restudy. Repeated outright failure should trigger adaptation of difficulty rather than more of the same practice — a principle consistent with <a href="../../patterns/adaptive-learning/">adaptive learning</a> approaches that adjust item difficulty to learner performance.</p>
 <p><strong>Open questions.</strong> The precise threshold at which retrieval difficulty stops helping and starts hurting is unresolved, as is the role of learner motivation: repeated retrieval failure may also carry affective costs that erode engagement and <a href="../../elements/belonging/">belonging</a>, independent of any direct cognitive effect. Whether partial retrieval (gist or fragments) yields benefits proportional to its completeness, and how feedback timing interacts with retrieval success, remain open empirical questions.</p>
-<p><strong>Evidence status.</strong> Both the subclaims and the evidence base for this claim are not yet populated; studies comparing successful versus unsuccessful retrieval attempts (and pretesting/errorful-learning paradigms) still need to be added before the strength of this claim can be rated.</p>
+<p><strong>Evidence status.</strong> The meta-analysis recorded above supports the claim through a moderator analysis, not a direct manipulation of retrieval success, so the pattern is correlational across groups of studies. Pretesting and errorful-learning studies, where failed retrieval followed by feedback helps, are a counterpoint recorded on the <a href="../pretesting-enhances-learning/">pretesting claim page</a>.</p>
 <h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
 <ul>
 <li><a href="../chunking-reduces-working-memory-load/">Chunking reduces working memory load.</a> — organizing material into chunks raises the chance that retrieval attempts succeed</li>
@@ -798,11 +816,15 @@ metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 </tr>
 <tr>
 <td><code>generated</code></td>
-<td>by <code>claude/unspecified</code> on <code>2026-08-30</code></td>
+<td>by <code>claude/unspecified</code> on <code>2026-09-25</code></td>
 </tr>
 <tr>
 <td><code>trust</code></td>
 <td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>rowland-2014</code></td>
 </tr>
 </tbody>
 </table>
