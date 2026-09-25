@@ -10,6 +10,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/parent-implemented-intervention-improves-outcomes](claims/parent-implemented-intervention-improves-outcomes.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/summarization-effective-with-training](claims/summarization-effective-with-training.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/summarization-improves-learning](claims/summarization-improves-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/rubrics-improve-student-work](claims/rubrics-improve-student-work.md) — Evidence filled from Crossref-verified sources (gap-fill)
