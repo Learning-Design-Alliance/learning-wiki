@@ -3,26 +3,57 @@ type: claim
 title: Teaching Others Generative Strategy
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: teaching-others-generative-strategy
 evidence_strength: weak
+sources:
+  - id: kobayashi-2019
+    resource: "https://doi.org/10.1111/jpr.12221"
+    title: "Kobayashi, K. (2019). Learning by preparing-to-teach and teaching: A meta-analysis. *Japanese Psychological Research, 61*(3), 192–203. [doi:10.1111/jpr.12221](https://doi.org/10.1111/jpr.12221)"
+    author: Kobayashi, K.
+    q: 3
+    i: 2
+    n: 28 studies
+  - id: cohen-et-al-1982
+    resource: "https://doi.org/10.3102/00028312019002237"
+    title: "Cohen, P. A., Kulik, J. A., & Kulik, C.-L. C. (1982). Educational outcomes of tutoring: A meta-analysis of findings. *American Educational Research Journal, 19*(2), 237–248. [doi:10.3102/00028312019002237](https://doi.org/10.3102/00028312019002237)"
+    author: "Cohen, P. A., Kulik, J. A., & Kulik, C.-L. C."
+    q: 3
+    i: "?"
+    n: 65 studies
 ---
 
 # Teaching Others Generative Strategy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2` medium
 
 Preparing to teach material to others is a generative learning strategy: it prompts learners to organize, elaborate, and restructure content, which can produce deeper processing than studying for a test alone.
 
 ## Subclaims
 
-<!-- TODO -->
+`q3 i2` Across 28 studies, teaching after preparing to teach improved the tutor's domain knowledge relative to studying without a teaching expectancy (g = 0.56), with preparing-to-teach alone giving a smaller benefit (g = 0.35) and interactive teaching outperforming non-interactive teaching. [→ Kobayashi 2019](#kobayashi-2019)
+
+`q3 i?` In a meta-analysis of 65 evaluations of school tutoring programmes, the children who served as tutors gained a better understanding of the tutored subject matter, alongside the gains of the tutees; the abstract reports no effect size for tutors. [→ Cohen et al. 1982](#cohen-et-al-1982)
 
 ## Evidence
 
-<!-- TODO -->
+### Kobayashi 2019
+
+Kobayashi, K. (2019). Learning by preparing-to-teach and teaching: A meta-analysis. *Japanese Psychological Research, 61*(3), 192–203. [doi:10.1111/jpr.12221](https://doi.org/10.1111/jpr.12221)
+
+`q3 · meta-analysis` · `i2 · medium effect, g=0.56 (teaching with preparing-to-teach); g=0.35 (preparing-to-teach alone)` · `n=28 studies`
+
+This meta-analysis pooled 28 studies comparing learners who prepared to teach, or prepared and then actually taught, against learners who simply studied the same material with no expectation of teaching. Preparing to teach produced a small-to-medium gain in domain knowledge, and preparing and then teaching produced a larger, medium gain; both helped deep as well as surface learning and persisted after a delay. The benefit was larger when the teaching was interactive (responding to a learner) than when it was non-interactive, and even the mere expectation of interactive teaching helped more than expecting to teach non-interactively. This supports the page's distinction between "prepare to teach" as a weaker intervention and "teach and respond to questions" as a stronger one. Read from the abstract only.
+
+### Cohen et al. 1982
+
+Cohen, P. A., Kulik, J. A., & Kulik, C.-L. C. (1982). Educational outcomes of tutoring: A meta-analysis of findings. *American Educational Research Journal, 19*(2), 237–248. [doi:10.3102/00028312019002237](https://doi.org/10.3102/00028312019002237)
+
+`q3 · meta-analysis of programme evaluations` · `i? · no effect size reported in the abstract` · `n=65 studies`
+
+This meta-analysis synthesised 65 independent evaluations of school tutoring programmes. Besides benefiting the students who were tutored, the programmes had positive effects on the children who served as tutors: tutors came to understand the tutored subject matter better and developed more positive attitudes toward it. Tutoring had little or no effect on the self-esteem of either tutors or tutees. The abstract does not compare the size of tutor gains with tutee gains, so it does not bear on the page's statement that tutors often learn more than tutees. Read from the abstract only.
 
 ## Discussion
 
@@ -34,7 +65,7 @@ Preparing to teach material to others is a generative learning strategy: it prom
 
 **Comparison with related strategies.** Teaching others is the interpersonal analogue of [Self-explanation improves learning](self-explanation-improves-learning.md), but adds social accountability and the possibility of tutee questions that expose gaps. Whether the social component adds benefit beyond explaining aloud to oneself is an open empirical question that this page's evidence base has not yet resolved. Peer teaching is frequently embedded in [Collaborative learning improves outcomes](collaborative-learning-improves-outcomes.md) structures, which makes isolating the specific contribution of the teaching role difficult.
 
-**Open questions.** The evidence base for this page has not yet been populated with specific studies; effect sizes, moderating conditions, and comparisons with other generative strategies (e.g., self-explanation, summarizing) remain to be documented. Until controlled studies are added, this claim should be treated as a plausible, theory-grounded hypothesis rather than an established effect.
+**Open questions.** Comparisons of teaching with other generative strategies (e.g., self-explanation, summarizing) are not made by the evidence recorded above.
 
 ## Related Claims
 

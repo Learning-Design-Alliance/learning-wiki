@@ -1,7 +1,7 @@
 {
  "coverage": {
   "claims->claims": 455,
-  "claims->elements": 138,
+  "claims->elements": 140,
   "claims->learner-variables": 1,
   "claims->methods": 3,
   "claims->patterns": 104,
@@ -69271,6 +69271,12 @@
       "slug": "retrieval-practice-improves-transfer"
      },
      {
+      "slug": "seductive-details-effect"
+     },
+     {
+      "slug": "seductive-details-harm-learning"
+     },
+     {
       "slug": "segmentation-benefits-shrink-with-expertise"
      },
      {
@@ -71745,6 +71751,9 @@
      },
      {
       "slug": "retrieval-practice-improves-retention"
+     },
+     {
+      "slug": "testing-effect-improves-learning"
      },
      {
       "slug": "testing-effect-improves-retention"

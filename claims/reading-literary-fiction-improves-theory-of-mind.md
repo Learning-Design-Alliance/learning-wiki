@@ -3,26 +3,74 @@ type: claim
 title: Reading Literary Fiction Improves Theory Of Mind
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: reading-literary-fiction-improves-theory-of-mind
 evidence_strength: weak
+sources:
+  - id: dodell-feder-tamir-2018
+    resource: "https://doi.org/10.1037/xge0000395"
+    title: "Dodell-Feder, D., & Tamir, D. I. (2018). Fiction reading has a small positive impact on social cognition: A meta-analysis. *Journal of Experimental Psychology: General, 147*(11), 1713–1727. [doi:10.1037/xge0000395](https://doi.org/10.1037/xge0000395)"
+    author: "Dodell-Feder, D., & Tamir, D. I."
+    q: 3
+    i: 0
+    n: 14 studies (53 effect sizes)
+  - id: panero-et-al-2016
+    resource: "https://doi.org/10.1037/pspa0000064"
+    title: "Panero, M. E., Weisberg, D. S., Black, J., Goldstein, T. R., Barnes, J. L., Brownell, H., & Winner, E. (2016). Does reading a single passage of literary fiction really improve theory of mind? An attempt at replication. *Journal of Personality and Social Psychology, 111*(5), e46–e54. [doi:10.1037/pspa0000064](https://doi.org/10.1037/pspa0000064)"
+    author: "Panero, M. E., Weisberg, D. S., Black, J., Goldstein, T. R., Barnes, J. L., Brownell, H., & Winner, E."
+    q: 3
+    i: "?"
+    n: 792 participants
+  - id: kidd-castano-2013
+    resource: "https://doi.org/10.1126/science.1239918"
+    title: "Kidd, D. C., & Castano, E. (2013). Reading literary fiction improves theory of mind. *Science, 342*(6156), 377–380. [doi:10.1126/science.1239918](https://doi.org/10.1126/science.1239918)"
+    author: "Kidd, D. C., & Castano, E."
+    q: 3
+    i: "?"
+    n: 5 experiments (participant n not given in the abstract)
 ---
 
 # Reading Literary Fiction Improves Theory Of Mind
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 3 studies · `q3` peer-reviewed experiment · `i0` negligible
 
 Reading literary fiction — as distinct from popular fiction or non-fiction — temporarily improves readers' performance on theory of mind (ToM) tasks, the ability to infer others' mental states.
 
 ## Subclaims
 
-<!-- TODO -->
+`q3 i0` Across 53 effect sizes from 14 experiments, reading fiction produced a small improvement in social-cognitive performance compared with reading nonfiction or not reading (g = .15–.16). The effect held up in sensitivity analyses and showed no sign of publication bias, but it falls below the d 0.2 threshold for a small effect. [→ Dodell-Feder & Tamir 2018](#dodell-feder-tamir-2018)
+
+`q3 i?` A replication by three independent labs with 792 randomly assigned adults found no advantage on the Reading the Mind in the Eyes Test for reading a single literary passage over popular fiction, nonfiction or no reading. Lifetime exposure to fiction did predict scores in every condition. [→ Panero et al. 2016](#panero-et-al-2016)
+
+`q3 i?` The original five experiments reported that a short literary-fiction passage temporarily improved affective and cognitive theory-of-mind scores compared with nonfiction, popular fiction or no reading. [→ Kidd & Castano 2013](#kidd-castano-2013)
 
 ## Evidence
 
-<!-- TODO -->
+### Dodell-Feder & Tamir 2018
+
+Dodell-Feder, D., & Tamir, D. I. (2018). Fiction reading has a small positive impact on social cognition: A meta-analysis. *Journal of Experimental Psychology: General, 147*(11), 1713–1727. [doi:10.1037/xge0000395](https://doi.org/10.1037/xge0000395)
+
+`q3 · meta-analysis of experiments` · `i0 · negligible effect, g=.15–.16` · `n=14 studies (53 effect sizes)`
+
+A multilevel random-effects meta-analysis of published and unpublished experiments in which people were assigned to read fiction, to read nonfiction, or to read nothing, and then completed social-cognition tasks. Fiction reading produced a small but statistically significant improvement over both comparisons. The authors report that the effect survives sensitivity analyses and does not appear to come from publication bias. They call for stronger reading manipulations and for tests of whether the gain carries over into real-world social functioning, which no study had yet shown. (Read from the abstract only.)
+
+### Panero et al. 2016
+
+Panero, M. E., Weisberg, D. S., Black, J., Goldstein, T. R., Barnes, J. L., Brownell, H., & Winner, E. (2016). Does reading a single passage of literary fiction really improve theory of mind? An attempt at replication. *Journal of Personality and Social Psychology, 111*(5), e46–e54. [doi:10.1037/pspa0000064](https://doi.org/10.1037/pspa0000064)
+
+`q3 · multi-site randomised replication` · `i? · null result; no effect size for the condition contrast given in the abstract` · `n=792 participants`
+
+Three independent research groups randomly assigned 792 participants to one of four conditions: literary fiction, popular fiction, nonfiction, or no reading. Participants then took the Reading the Mind in the Eyes Test, the main outcome of Kidd and Castano (2013). Literary fiction gave no significant advantage over any other condition. Scores on the Author Recognition Test, which measures lifetime exposure to fiction, predicted scores on the eyes test in every condition. The authors conclude that the link between fiction and theory of mind probably reflects self-selection or gradual lifetime exposure rather than the effect of a single passage, and that verbal ability may play a part. (Read from the abstract only.)
+
+### Kidd & Castano 2013
+
+Kidd, D. C., & Castano, E. (2013). Reading literary fiction improves theory of mind. *Science, 342*(6156), 377–380. [doi:10.1126/science.1239918](https://doi.org/10.1126/science.1239918)
+
+`q3 · five peer-reviewed experiments` · `i? · effect sizes not given in the abstract` · `n=5 experiments (participant n not given in the abstract)`
+
+In five experiments, adults read a short passage and then took tests of affective theory of mind (all five experiments) and cognitive theory of mind (experiments 4 and 5). Each passage was literary fiction, nonfiction, popular fiction, or nothing at all, depending on the experiment. Reading literary fiction led to better theory-of-mind performance than the comparison conditions, and the authors interpret the effect as temporary. This is the canonical study behind the claim. The replication by Panero et al. (2016) above did not reproduce its central eyes-test result. (Read from the abstract only.)
 
 ## Discussion
 
