@@ -1,7 +1,7 @@
 {
  "coverage": {
   "claims->claims": 455,
-  "claims->elements": 137,
+  "claims->elements": 138,
   "claims->learner-variables": 1,
   "claims->methods": 3,
   "claims->patterns": 104,
@@ -69227,6 +69227,9 @@
      },
      {
       "slug": "interleaved-practice-improves-retention"
+     },
+     {
+      "slug": "invention-tasks-prepare-future-learning"
      },
      {
       "slug": "media-combinations-affect-recall-and-retention"

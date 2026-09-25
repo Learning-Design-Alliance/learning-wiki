@@ -10,6 +10,13 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Ingest**: [claims/guided-notes-improve-note-accuracy](claims/guided-notes-improve-note-accuracy.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/invention-tasks-prepare-future-learning](claims/invention-tasks-prepare-future-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/exercise-increases-hippocampal-volume](claims/exercise-increases-hippocampal-volume.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/manipulatives-improve-math-learning](claims/manipulatives-improve-math-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/handwriting-intervention-type-equivalence](claims/handwriting-intervention-type-equivalence.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/hands-on-learning-improves-achievement](claims/hands-on-learning-improves-achievement.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/inquiry-based-teaching-improves-science-achievement](claims/inquiry-based-teaching-improves-science-achievement.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/play-based-learning-improves-outcomes](claims/play-based-learning-improves-outcomes.md) — Evidence copied from a verified near-duplicate (gap-fill)
 * **Ingest**: [claims/lateral-reading-improves-source-evaluation](claims/lateral-reading-improves-source-evaluation.md) — Evidence copied from a verified near-duplicate (gap-fill)
 * **Ingest**: [claims/incidental-word-learning-while-reading-occurs-but-at-low-rates-per-exposure](claims/incidental-word-learning-while-reading-occurs-but-at-low-rates-per-exposure.md) — Evidence copied from a verified near-duplicate (gap-fill)

@@ -3,28 +3,61 @@ type: claim
 title: Different types of handwriting interventions produce equivalent gains in handwriting legibility and fluency
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: handwriting-intervention-type-equivalence
 evidence_strength: unknown
+sources:
+  - id: santangelo-graham-2016
+    resource: "https://doi.org/10.1007/s10648-015-9335-1"
+    title: "Santangelo, T., & Graham, S. (2016). A Comprehensive Meta-analysis of Handwriting Instruction. *Educational Psychology Review, 28*(2), 225–265. [doi:10.1007/s10648-015-9335-1](https://doi.org/10.1007/s10648-015-9335-1)"
+    author: "Santangelo, T., & Graham, S."
+    q: 4
+    i: "?"
+    n: K-12 students, exact k not stated in abstract
+  - id: denton-et-al-2006
+    resource: "https://doi.org/10.5014/ajot.60.1.16"
+    title: "Denton, P. L., Cope, S., & Moser, C. (2006). The Effects of Sensorimotor-Based Intervention Versus Therapeutic Practice on Improving Handwriting Performance in 6- to 11-Year-Old Children. *American Journal of Occupational Therapy, 60*(1), 16–27. [doi:10.5014/ajot.60.1.16](https://doi.org/10.5014/ajot.60.1.16)"
+    author: "Denton, P. L., Cope, S., & Moser, C."
+    q: 3
+    i: "?"
+    n: 38
 ---
 
 # Different types of handwriting interventions produce equivalent gains in handwriting legibility and fluency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 2 studies · `q3`–`q4`
 
 This is an equivalence (null-difference) claim: it asserts that no intervention type is reliably superior, not that any type is effective. If it holds, program selection can rest on cost, feasibility, and learner fit rather than on efficacy differences between methods.
 
 ## Subclaims
 
-<!-- TODO -->
+`q4 i?` A meta-analysis of K-12 handwriting-instruction studies found instructional type is not equivalent: motor-only instruction produced negligible gains in legibility and fluency while individualized instruction and technology-assisted instruction produced significant gains — the opposite of this claim. [→ Santangelo & Graham 2016](#santangelo-graham-2016)
+
+`q3 i?` A randomized trial comparing sensorimotor-based intervention against therapeutic (repetition-based) practice found the two were not equivalent: therapeutic practice moderately improved handwriting while sensorimotor intervention was associated with a decline in handwriting performance. [→ Denton et al. 2006](#denton-et-al-2006)
 
 ## Evidence
 
-<!-- TODO -->
+### Santangelo & Graham 2016
+
+Santangelo, T., & Graham, S. (2016). A Comprehensive Meta-analysis of Handwriting Instruction. *Educational Psychology Review, 28*(2), 225–265. [doi:10.1007/s10648-015-9335-1](https://doi.org/10.1007/s10648-015-9335-1)
+
+`q4 · meta-analysis of true- and quasi-experimental studies` · `i? · multiple reported effect sizes, not a single overall figure (see below)` · `n=K-12 students, exact k not stated in abstract`
+
+This meta-analysis of experimental and quasi-experimental handwriting-instruction studies with K-12 students compared several instructional types against no-instruction/non-handwriting control conditions. Handwriting instruction overall improved legibility (ES = 0.59) and fluency (ES = 0.63), but the type of instruction mattered: motor instruction did not produce reliably better handwriting (ES = 0.10 for legibility, −0.07 for fluency), whereas individualizing instruction (ES = 0.69) and teaching handwriting via technology (ES = 0.85) produced statistically significant legibility gains. This is direct evidence against blanket equivalence across intervention types — the effect sizes for motor-only instruction versus individualized/technology-based instruction differ by a wide margin on the same outcome (legibility).
+
+### Denton et al. 2006
+
+Denton, P. L., Cope, S., & Moser, C. (2006). The Effects of Sensorimotor-Based Intervention Versus Therapeutic Practice on Improving Handwriting Performance in 6- to 11-Year-Old Children. *American Journal of Occupational Therapy, 60*(1), 16–27. [doi:10.5014/ajot.60.1.16](https://doi.org/10.5014/ajot.60.1.16)
+
+`q3 · randomized controlled trial (single study)` · `i? · no standardized effect size reported in the abstract` · `n=38`
+
+Thirty-eight children aged 6–11 with handwriting dysfunction were randomly assigned to sensorimotor intervention, therapeutic (repeated) practice, or a control group, meeting four times weekly for five weeks, with handwriting measured pre/post on the Test of Handwriting Skills. Children receiving therapeutic practice moderately improved their handwriting, while children receiving sensorimotor intervention actually declined in handwriting performance; the control group did not change significantly. The authors concluded therapeutic practice was more effective than sensorimotor-based intervention — a head-to-head test that found a clear, non-equivalent difference between intervention types, with one type producing a clinically meaningful decline.
 
 ## Discussion
+
+**The recorded evidence runs against the title.** Neither study recorded above finds intervention types equivalent: in the meta-analysis, motor-only instruction gave negligible gains while individualized and technology-assisted instruction gave significant ones, and in the randomized trial therapeutic practice improved handwriting while sensorimotor intervention was followed by a decline. Read this page's title as a hypothesis the evidence does not support; renaming is the maintainer's call.
 
 **Equivalence claims are hard to establish.** A null difference between intervention types is only meaningful when the comparison is adequately powered, dosage-matched, and pre-registered with explicit equivalence margins. Underpowered head-to-head trials that "find no difference" cannot distinguish true equivalence from a Type II error, so the absence of published superiority findings is weak support for this claim. Any evidence tag attached to this claim should therefore be read as [~W] at best until a properly designed equivalence trial exists.
 
