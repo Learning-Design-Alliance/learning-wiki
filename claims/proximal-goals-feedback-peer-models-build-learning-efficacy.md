@@ -14,19 +14,19 @@ sources:
     title: "Schunk, D. H. (1996). Self-Efficacy for Learning and Performance. https://eric.ed.gov/?id=ED394663"
     author: Schunk, D. H.
     q: 3
-    i: 1
+    i: "?"
   - id: schunk-1996-2
     resource: "https://eric.ed.gov/?id=ED394663"
     title: "Schunk, D. H. (1996). Self-Efficacy for Learning and Performance. https://eric.ed.gov/?id=ED394663"
     author: Schunk, D. H.
     q: 3
-    i: 1
+    i: "?"
 ---
 
 # Proximal goals, ability attributional feedback, and peer models raise self-efficacy for learning more than distant goals, effort feedback, and teacher models
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 2 studies · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Close-at-hand proximal goals led to higher self-efficacy, motivation, and skillful performance compared with temporally distant goals. [→ Schunk 1996](#schunk-1996)
@@ -38,7 +38,7 @@ sources:
 
 Schunk, D. H. (1996). Self-Efficacy for Learning and Performance. https://eric.ed.gov/?id=ED394663
 
-`q3 · i1`
+`q3 · i? · the article prints no effect size for this finding`
 
 Empirical evidence section on task factors, citing the Bandura and Schunk (1981) fractions study. Proximal goals are hypothesized to convey clearer information to students concerning their learning progress.
 
@@ -48,7 +48,7 @@ Empirical evidence section on task factors, citing the Bandura and Schunk (1981)
 
 Schunk, D. H. (1996). Self-Efficacy for Learning and Performance. https://eric.ed.gov/?id=ED394663
 
-`q3 · i1`
+`q3 · i? · the article prints no effect size for this finding`
 
 Empirical evidence section reporting Schunk (1984) on attributional feedback. The perception of lower initial effort required to learn can lead students to believe they are capable of further learning; for difficult tasks high initial effort is facilitative.
 

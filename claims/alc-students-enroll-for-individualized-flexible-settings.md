@@ -14,13 +14,13 @@ sources:
     title: "Boyd, William Lowe; Hare, Debra; Nathan, Joe. (2002). What Really Happened? Minnesota's Experience with Statewide Public School Choice Programs. Center for School Change, University of Minnesota. https://eric.ed.gov/?id=ED480198"
     author: Boyd, William Lowe; Hare, Debra; Nathan, Joe
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Area Learning Center students most often cite individualized education, smaller schools, less restrictive environments, and flexible schedules as enrollment reasons
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Students surveyed in 2001 at five representative Area Learning Centers most often cited wanting a more individualized education, a school with fewer students, a less restrictive learning environment, and a more flexible schedule. [→ Boyd 2002](#boyd-2002)
@@ -31,7 +31,7 @@ sources:
 
 Boyd, William Lowe; Hare, Debra; Nathan, Joe. (2002). What Really Happened? Minnesota's Experience with Statewide Public School Choice Programs. Center for School Change, University of Minnesota. https://eric.ed.gov/?id=ED480198
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Center for School Change 2001 survey of Area Learning Center students at five representative sites. A 1998 University of Minnesota study (Ysseldyke & Lange) found similar reasons, plus student/teacher relationships and school climate.
 

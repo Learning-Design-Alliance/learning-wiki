@@ -14,13 +14,13 @@ sources:
     title: "Hale, Judy A. (1996). Determining Relationships between Young Children's Cognitive Stage of Development and Art Stage of Development as They Relate to Literacy. https://eric.ed.gov/?id=ED394938"
     author: Hale, Judy A.
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Reading scores ranged 90-100 for chapter book readers and 75-90 for non-chapter-book readers, based on informal teacher assessment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Chapter book readers had reading scores from 90 to 100; non-chapter-book readers scored from 75 to 90; nonreaders had no score range. [→ Hale 1996](#hale-1996)
@@ -31,7 +31,7 @@ sources:
 
 Hale, Judy A. (1996). Determining Relationships between Young Children's Cognitive Stage of Development and Art Stage of Development as They Relate to Literacy. https://eric.ed.gov/?id=ED394938
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Descriptive reading scores from the classroom teacher's informal assessment devices, such as observations during individual reading. The article reports chapter book readers scored "from 90 to 100" and non-chapter readers from 75 to 90; no statistical test is reported.
 

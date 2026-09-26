@@ -14,13 +14,13 @@ sources:
     title: "Schunk, D. H. (1996). Self-Efficacy for Learning and Performance. https://eric.ed.gov/?id=ED394663"
     author: Schunk, D. H.
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Self-efficacy for learning is a meaningful index in academic settings where self-efficacy for performing is near zero
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In academic settings students often possess little or no skill, so self-efficacy for performing behaviors is at or near zero, whereas students differ in self-efficacy for learning. [→ Schunk 1996](#schunk-1996)
@@ -31,7 +31,7 @@ sources:
 
 Schunk, D. H. (1996). Self-Efficacy for Learning and Performance. https://eric.ed.gov/?id=ED394663
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Theoretical/analytical section of the paper arguing that Bandura's original construct, which referred only to performance of behaviors, needs a learning counterpart. The article states students often possess "little or no skill" so performance self-efficacy is meaningless, while self-efficacy for learning varies with perceived progress.
 

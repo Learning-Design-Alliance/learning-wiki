@@ -14,19 +14,19 @@ sources:
     title: "Bergen, Doris. (2002). The Role of Pretend Play in Children's Cognitive Development. Early Childhood Research & Practice, v4 n1. http://ecrp.uiuc.edu/v4n1/bergen.htm"
     author: Bergen, Doris
     q: 3
-    i: 2
+    i: "?"
   - id: bergen-2002-2
     resource: "http://ecrp.uiuc.edu/v4n1/bergen.htm"
     title: "Bergen, Doris. (2002). The Role of Pretend Play in Children's Cognitive Development. Early Childhood Research & Practice, v4 n1. http://ecrp.uiuc.edu/v4n1/bergen.htm"
     author: Bergen, Doris
     q: 3
-    i: 2
+    i: "?"
 ---
 
 # Embedding literacy materials in play settings increases children's literacy engagement and environmental print reading
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 2 studies · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Studies embedding literacy materials in play settings typically show increases in literacy material use and literacy acts, including increased reading of environmental print. [→ Bergen 2002](#bergen-2002)
@@ -38,7 +38,7 @@ sources:
 
 Bergen, Doris. (2002). The Role of Pretend Play in Children's Cognitive Development. Early Childhood Research & Practice, v4 n1. http://ecrp.uiuc.edu/v4n1/bergen.htm
 
-`q3 · i2`
+`q3 · i? · the article prints no effect size for this finding`
 
 The review's synthesis of literacy-embedding intervention studies (Christie & Enz; Neuman & Roskos; others), reporting typical increases in use of literacy materials and engagement in literacy acts; Vukelich found increased reading of print embedded in the environment.
 
@@ -48,7 +48,7 @@ The review's synthesis of literacy-embedding intervention studies (Christie & En
 
 Bergen, Doris. (2002). The Role of Pretend Play in Children's Cognitive Development. Early Childhood Research & Practice, v4 n1. http://ecrp.uiuc.edu/v4n1/bergen.htm
 
-`q3 · i2`
+`q3 · i? · the article prints no effect size for this finding`
 
 The review reports, citing Bergen and Mauer, a longitudinal study linking high preschool play with literacy materials to spontaneous reading of place signs and greater pretend verbalizations in a town-building activity at age 5.
 

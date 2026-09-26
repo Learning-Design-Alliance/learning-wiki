@@ -80,7 +80,8 @@ def _norm(t: str) -> str:
 # The quote has to name the statistic it is: a bare ".166" beside "variance explained"
 # in a path model was labelled η² by the model and would have been binned large.
 KIND_WORDS = {
-    "d": r"\bd\b|cohen|effect size", "g": r"\bg\b|hedges|effect size", "smd": r"smd|standardi[sz]ed mean|effect size",
+    "d": r"\bd\b|cohen|effect[- ]size|dbar|d̄", "g": r"\bg\b|hedges|effect[- ]size|ḡ|gbar",
+    "smd": r"smd|standardi[sz]ed mean|effect[- ]size|standard deviation",
     "r": r"\br\b|correlat", "eta2": r"η|eta", "partial_eta2": r"η|eta", "or": r"\bor\b|odds",
     "beta_std": r"β|beta",
 }
@@ -183,13 +184,26 @@ def _value_in(quote: str, value) -> bool:
 
 
 CODES_LINE = re.compile(r"^`q[^\n]*`\s*$", re.M)
-I_SPAN = re.compile(r"\bi[0-3](?:\s*·\s*[^`·]*?)?(?=\s*·\s*n=|\s*`)")
+I_SPAN = re.compile(r"\bi[0-3](?:-i[0-3?])?(?:\s*·\s*[^`·]*?)?(?=\s*·\s*n=|\s*`)")
 
 
 def new_i_text(dec: dict) -> str:
     if dec["i"] is None:
         return "i? · " + dec["why"]
     return f"i{dec['i']} · {LABEL[dec['i']]}, {KIND_SHOWN[dec['kind']]} = {dec['value']}"
+
+
+def set_subclaims(text: str, anchor: str, dec: dict) -> str:
+    """Give the subclaims resting on `anchor` the entry's i. They may link the heading's
+    slug with its accents folded (#hilppo-stevens-2024 for "Hilppö & Stevens 2024"),
+    since fix_dead_anchors.py repairs links that way."""
+    import unicodedata
+    folded = unicodedata.normalize("NFKD", anchor).encode("ascii", "ignore").decode()
+    code = "?" if dec["i"] is None else str(dec["i"])
+    for a in {anchor, folded}:
+        text = re.sub(rf"^(`q\S*) i[0-3?](`[^\n]*\(#{re.escape(a)}\))",
+                      lambda mm: f"{mm.group(1)} i{code}{mm.group(2)}", text, flags=re.M)
+    return text
 
 
 def apply_one(claim: str, anchor: str, dec: dict) -> bool:
@@ -209,9 +223,7 @@ def apply_one(claim: str, anchor: str, dec: dict) -> bool:
     new_block = block.replace(codes, new_codes, 1)
     text = text.replace(block, new_block, 1)
     # Subclaims resting on this entry carry the same i.
-    code = "?" if dec["i"] is None else str(dec["i"])
-    text = re.sub(rf"^(`q\S*) i[0-3?](`[^\n]*\(#{re.escape(anchor)}\))",
-                  lambda mm: f"{mm.group(1)} i{code}{mm.group(2)}", text, flags=re.M)
+    text = set_subclaims(text, anchor, dec)
     path.write_text(text, encoding="utf-8")
     return True
 
@@ -224,12 +236,22 @@ def main() -> None:
     ap.add_argument("--model", default="openai/gpt-5.6-luna")
     ap.add_argument("--concurrency", type=int, default=8)
     ap.add_argument("--out", type=Path, default=OUT)
+    ap.add_argument("--redecide", action="store_true", help="with --from, re-apply the rules to the stored answers")
     ap.add_argument("--limit", type=int, help="only the first N entries (a sample to read first)")
     ap.add_argument("--seed", type=int, default=0, help="with --limit, which sample")
     args = ap.parse_args()
 
     if args.from_file:
         decisions = [json.loads(l) for l in Path(args.from_file).read_text(encoding="utf-8").splitlines() if l.strip()]
+        if args.redecide:
+            # Re-run decide() on the stored answers, e.g. after a rule changed; no model call.
+            by = {(t["claim"], t["entry"]): t for t in targets()}
+            for d in decisions:
+                t = by.get((d["claim"], d["entry"]))
+                if t and "error" not in d:
+                    for k in ("i", "why", "kind", "value", "quote", "rejected"):
+                        d.pop(k, None)
+                    d.update(decide(t, d.get("answer")))
     else:
         key = os.environ.get("OPENROUTER_API_KEY")
         if not key:

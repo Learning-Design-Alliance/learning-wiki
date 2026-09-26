@@ -14,13 +14,13 @@ sources:
     title: "Online peer assisted learning community model and its application in ZJNU. (2008). https://eric.ed.gov"
     author: Online peer assisted learning community model and its application in ZJNU
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Peer assisted learning is an effective learning approach that promotes knowledge construction, collaboration ability, and interpersonal interaction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Acquiring knowledge and skills through peers' assistance and support, including peer tutoring, peer modeling, peer education, peer counseling, peer monitoring, and peer assessment, promotes knowledge construction, collaboration ability, and interpersonal interaction. [→ Online peer assisted learning community model and its application in ZJNU 2008](#online-peer-assisted-learning-community-model-and-its-application-in-zjnu-2008)
@@ -31,7 +31,7 @@ sources:
 
 Online peer assisted learning community model and its application in ZJNU. (2008). https://eric.ed.gov
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 The article's review section defines peer assisted learning as "acquiring knowledge and skills via peers' assistance and support" and enumerates its forms, citing Topping and Ehly. The effectiveness assertion is the article's own framing rather than a tested result.
 

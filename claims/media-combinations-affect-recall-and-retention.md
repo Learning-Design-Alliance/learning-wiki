@@ -11,7 +11,7 @@ sources:
     title: "Alty, James L. (2002). Dual Coding Theory and Computer Education: Some Media Experiments To Examine the Effects of Different Media on Learning. ED-MEDIA 2002 World Conference on Educational Multimedia, Hypermedia & Telecommunications. Proceedings (14th, Denver, Colorado, June 24-29, 2002). [https://files.eric.ed.gov/fulltext/ED476964.pdf](https://files.eric.ed.gov/fulltext/ED476964.pdf)"
     author: Alty, James L.
     q: 3
-    i: 2
+    i: "?"
     n: 37
 id: media-combinations-affect-recall-and-retention
 evidence_strength: moderate
@@ -20,13 +20,13 @@ evidence_strength: moderate
 # Different media combinations significantly affect the recall and retention of information
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium · n=37
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · n=37
 
 How information is distributed across media channels (e.g., text, images, narration) changes how well learners recall and retain it, in line with the predictions of [Dual Coding Theory](../theories/dual-coding-theory.md).
 
 ## Subclaims
 
-`q3 i2` Recall and retention outcomes differ across media combinations in the direction predicted by Dual Coding Theory. [→ Alty 2002](#alty-2002)
+`q3 i?` Recall and retention outcomes differ across media combinations in the direction predicted by Dual Coding Theory. [→ Alty 2002](#alty-2002)
 
 ## Evidence
 
@@ -36,7 +36,7 @@ Primary evidence link: https://files.eric.ed.gov/fulltext/ED476964.pdf
 
 Alty, James L. (2002). Dual Coding Theory and Computer Education: Some Media Experiments To Examine the Effects of Different Media on Learning. ED-MEDIA 2002 World Conference on Educational Multimedia, Hypermedia & Telecommunications. Proceedings (14th, Denver, Colorado, June 24-29, 2002). [https://files.eric.ed.gov/fulltext/ED476964.pdf](https://files.eric.ed.gov/fulltext/ED476964.pdf)
 
-`q3 · peer-reviewed conference experiment, not pre-registered` · `i2 · medium effect` · `n=37`
+`q3 · peer-reviewed conference experiment, not pre-registered` · `i? · no source text available to check; the entry prints no effect size` · `n=37`
 
 In an extended in-class experiment, 37 students studied the same content presented in different media combinations (varying text and image presentations in a computer-based environment). Recall and retention measures showed that outcomes differed across media combinations, and — in the author's words — "in all cases the predictions of Dual Coding theory are borne out": combinations that supported both verbal and imagistic coding produced better recall than those that did not.
 

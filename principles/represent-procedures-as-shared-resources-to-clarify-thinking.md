@@ -17,7 +17,7 @@ sources:
 # Represent two correct mathematical procedures in terms of shared resources to clarify student thinking and address failures to connect ideas
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The authors recommend modeling multiple valid solution procedures as pathways over shared conceptual and procedural resources, so instruction can target the connections between them. By representing the +C and limits methods "in terms of shared resources", they "help clarify the types of thinking in which students engage when learning to apply mathematical reasoning to physics" and illustrate how a "failure to connect" two ideas often hinders students' successful problem solving.

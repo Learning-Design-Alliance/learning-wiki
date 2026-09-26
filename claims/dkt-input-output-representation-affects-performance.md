@@ -14,19 +14,19 @@ sources:
     title: "Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell (2020). When is Deep Learning the Best Approach to Knowledge Tracing? Journal of Educational Data Mining, Volume 12, No 3. https://github.com/theophilee/learner-performance-prediction"
     author: Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell
     q: 2
-    i: 2
+    i: "?"
   - id: theophile-gervet-2020-2
     resource: "https://github.com/theophilee/learner-performance-prediction"
     title: "Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell (2020). When is Deep Learning the Best Approach to Knowledge Tracing? Journal of Educational Data Mining, Volume 12, No 3. https://github.com/theophilee/learner-performance-prediction"
     author: Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # DKT's input/output representation significantly affects performance, with KC inputs and item outputs working best on most datasets
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i1`–`i2`
+> **Evidence** · 2 studies · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The choice of items versus KCs as DKT inputs and outputs considerably impacts performance, and KC inputs with item outputs work best on most datasets. [→ Theophile Gervet 2020](#theophile-gervet-2020)
@@ -38,7 +38,7 @@ sources:
 
 Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell (2020). When is Deep Learning the Best Approach to Knowledge Tracing? Journal of Educational Data Mining, Volume 12, No 3. https://github.com/theophilee/learner-performance-prediction
 
-`q2 · i2`
+`q2 · i? · the article prints no effect size for this finding`
 
 DKT ablation (Table 14) across nine datasets comparing KC/item inputs and outputs; hyperparameter results were sensitive to dropout probability and input/output representation but not embedding dimension or layer count.
 
@@ -48,7 +48,7 @@ DKT ablation (Table 14) across nine datasets comparing KC/item inputs and output
 
 Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell (2020). When is Deep Learning the Best Approach to Knowledge Tracing? Journal of Educational Data Mining, Volume 12, No 3. https://github.com/theophilee/learner-performance-prediction
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Authors' interpretation of the Table 14 ablation: KC inputs reduce available information but help generalization because datasets contain many more learners per KC than per item.
 

@@ -14,7 +14,7 @@ sources:
     title: "Stelzer, Gladding, Mestre, and Brookes. (2008). Comparing the efficacy of multimedia modules with traditional textbooks for learning introductory physics content. https://arxiv.org/abs/0806.0405"
     author: Stelzer, Gladding, Mestre, and Brookes
     q: 2
-    i: 1
+    i: "?"
   - id: stelzer-2008-2
     resource: "https://arxiv.org/abs/0806.0405"
     title: "Stelzer, Gladding, Mestre, and Brookes. (2008). Comparing the efficacy of multimedia modules with traditional textbooks for learning introductory physics content. https://arxiv.org/abs/0806.0405"
@@ -38,7 +38,7 @@ sources:
 
 Stelzer, Gladding, Mestre, and Brookes. (2008). Comparing the efficacy of multimedia modules with traditional textbooks for learning introductory physics content. https://arxiv.org/abs/0806.0405
 
-`q2 · i1`
+`q2 · i? · no effect size could be confirmed in the full text`
 
 Comparison of the three randomized groups on the Post-Lesson Assessments and Retention Test, shown in Table II and Fig. 2. The article states "Our findings were in accord with these predictions" from multimedia learning theory.
 

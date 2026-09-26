@@ -14,13 +14,13 @@ sources:
     title: "Winer, L. R., Vázquez-Abad, J. A., & Tessmer, M. (1994). Enriching the Layers of Necessity Model. Paper presented at the Annual Meeting of AERA. https://eric.ed.gov/?id=ED371037"
     author: "Winer, L. R., Vázquez-Abad, J. A., & Tessmer, M."
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Follow-up evaluation, needs assessment and task analysis are performed least often and considered least necessary
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Follow-up evaluation, needs assessment and task analysis rank lowest both in how often they are performed and in perceived necessity. [→ Winer 1994](#winer-1994)
@@ -31,7 +31,7 @@ sources:
 
 Winer, L. R., Vázquez-Abad, J. A., & Tessmer, M. (1994). Enriching the Layers of Necessity Model. Paper presented at the Annual Meeting of AERA. https://eric.ed.gov/?id=ED371037
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Ranking analysis of the Montreal survey compared how often steps are performed with how often they are perceived unnecessary; "follow-up evaluation, needs assessment and task analysis are not only performed least often but are considered least necessary by respondents."
 

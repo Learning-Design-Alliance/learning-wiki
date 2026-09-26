@@ -14,7 +14,7 @@ sources:
     title: "Bergen, Doris. (2002). The Role of Pretend Play in Children's Cognitive Development. Early Childhood Research & Practice, v4 n1. http://ecrp.uiuc.edu/v4n1/bergen.htm"
     author: Bergen, Doris
     q: 3
-    i: 2
+    i: "?"
   - id: bergen-2002-2
     resource: "http://ecrp.uiuc.edu/v4n1/bergen.htm"
     title: "Bergen, Doris. (2002). The Role of Pretend Play in Children's Cognitive Development. Early Childhood Research & Practice, v4 n1. http://ecrp.uiuc.edu/v4n1/bergen.htm"
@@ -26,7 +26,7 @@ sources:
 # Pretend play enactment of stories facilitates narrative recall and expression over shorter time periods but not later unprompted recall
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i0`–`i2`
+> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i0` negligible
 
 ## Subclaims
 `q3 i?` Children in pretend play story-enactment conditions used more elaborative narratives with higher narrative structure and better recall at the first two time periods, but showed no recall advantage later without prompts. [→ Bergen 2002](#bergen-2002)
@@ -37,7 +37,7 @@ sources:
 
 Bergen, Doris. (2002). The Role of Pretend Play in Children's Cognitive Development. Early Childhood Research & Practice, v4 n1. http://ecrp.uiuc.edu/v4n1/bergen.htm
 
-`q3 · i2`
+`q3 · i? · the article prints no effect size for this finding`
 
 The review reports, citing Kim, an experiment comparing pretend play enactment to storytelling-only conditions in 4- and 5-year-olds; children also "had better narrative recall immediately after the pretend enactment and at a later time period when prompted."
 

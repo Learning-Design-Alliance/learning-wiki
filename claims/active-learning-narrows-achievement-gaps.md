@@ -20,7 +20,7 @@ sources:
     title: "Lorenzo, M., Crouch, C. H., & Mazur, E. (2006). Reducing the gender gap in the physics classroom. *American Journal of Physics, 74*(2), 118-122. [doi:10.1119/1.2162549](https://doi.org/10.1119/1.2162549)"
     author: "Lorenzo, M., Crouch, C. H., & Mazur, E."
     q: 3
-    i: 2
+    i: "?"
     n: moderate-to-large (multiple introductory physics course offerings)
 ---
 
@@ -35,7 +35,7 @@ Active learning approaches benefit students broadly, but two independent studies
 
 `q3 i2` In an introductory biology course, students in a program serving educationally/economically disadvantaged and underrepresented-minority students had a substantially higher baseline failure rate (~22%) than other students (~10%); introducing multiple highly structured active-learning approaches benefited all students, but disadvantaged students benefited disproportionately, cutting the achievement gap to roughly half its starting size. [→ Haak et al 2011](#haak-et-al-2011)
 
-`q3 i2` In introductory physics courses, active-engagement techniques benefited all students but had the largest impact on female students' performance specifically; a "high dose" of active learning eliminated the gender gap in performance entirely. [→ Lorenzo, Crouch, and Mazur 2006](#lorenzo-crouch-and-mazur-2006)
+`q3 i?` In introductory physics courses, active-engagement techniques benefited all students but had the largest impact on female students' performance specifically; a "high dose" of active learning eliminated the gender gap in performance entirely. [→ Lorenzo, Crouch, and Mazur 2006](#lorenzo-crouch-and-mazur-2006)
 
 ## Evidence
 
@@ -51,7 +51,7 @@ Studying the University of Washington's Educational Opportunity Program (EOP, se
 
 Lorenzo, M., Crouch, C. H., & Mazur, E. (2006). Reducing the gender gap in the physics classroom. *American Journal of Physics, 74*(2), 118-122. [doi:10.1119/1.2162549](https://doi.org/10.1119/1.2162549)
 
-`q3 · quasi-experimental study across multiple course implementations · i2 · gender-gap elimination at the highest level of active-learning implementation · n=moderate-to-large (multiple introductory physics course offerings)`
+`q3 · quasi-experimental study across multiple course implementations · i? · the abstract prints no effect size; the full text may · n=moderate-to-large (multiple introductory physics course offerings)`
 
 Comparing introductory physics courses with varying levels of active-engagement instruction, this study found active learning benefited all students but had the largest effect on female students specifically; at the highest ("high dose") level of active-learning implementation studied, the gender performance gap was eliminated entirely — consistent with earlier work suggesting women particularly benefit from active-learning approaches (Laws et al., 1999; Schneider, 2001).
 

@@ -14,13 +14,13 @@ sources:
     title: "Small, Ruth V.; Katzer, Jeffrey; Eisenberg, Michael B.; McClure, Charles R. (1994). Connecting Libraries and Schools Project (CLASP) Evaluation. Report #7. Final Report. Information Management Consultant Services, Inc. https://eric.ed.gov/?id=ED382199"
     author: Small, Ruth V.; Katzer, Jeffrey; Eisenberg, Michael B.; McClure, Charles R.
     q: 3
-    i: 2
+    i: "?"
 ---
 
 # Communication, cooperation, and coordination were the most critical factors in successful CLASP programming
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Micro-case evaluations revealed that communication, cooperation, and coordination were the most critical factors in successful CLASP programming, with resources second in importance. [→ Small 1994](#small-1994)
@@ -31,7 +31,7 @@ sources:
 
 Small, Ruth V.; Katzer, Jeffrey; Eisenberg, Michael B.; McClure, Charles R. (1994). Connecting Libraries and Schools Project (CLASP) Evaluation. Report #7. Final Report. Information Management Consultant Services, Inc. https://eric.ed.gov/?id=ED382199
 
-`q3 · i2`
+`q3 · i? · the article prints no effect size for this finding`
 
 In-depth micro-case evaluations of individual CLASP programs identified communication, cooperation, and coordination as the most critical success factors. Resources such as refreshments and craft supplies were second in importance. Inexpensive resources were often critical to successful implementation of activities.
 

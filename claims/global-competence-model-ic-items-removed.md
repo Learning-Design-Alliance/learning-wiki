@@ -14,19 +14,19 @@ sources:
     title: "Nguyen, M. T. (2021). Validating a Scale for Measuring Students' Perspectives toward Global Citizenship: A Case at a Private University in Vietnam. Education Quarterly Reviews, 4(3), 575-587. https://doi.org/10.31014/aior.1993.04.03.362"
     author: Nguyen, M. T.
     q: 2
-    i: 1
+    i: "?"
   - id: nguyen-2021-2
     resource: "https://doi.org/10.31014/aior.1993.04.03.362"
     title: "Nguyen, M. T. (2021). Validating a Scale for Measuring Students' Perspectives toward Global Citizenship: A Case at a Private University in Vietnam. Education Quarterly Reviews, 4(3), 575-587. https://doi.org/10.31014/aior.1993.04.03.362"
     author: Nguyen, M. T.
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Only two intercultural communication items (IC1, IC2) were removed from the global competence model, attributed to limited intercultural exposure
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i1` small
+> **Evidence** · 2 studies · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In the global competence model, only IC1 and IC2 fell below the 0.7 loading threshold and were removed; remaining constructs met CR > 0.7 and AVE > 0.5 standards. [→ Nguyen 2021](#nguyen-2021)
@@ -38,7 +38,7 @@ sources:
 
 Nguyen, M. T. (2021). Validating a Scale for Measuring Students' Perspectives toward Global Citizenship: A Case at a Private University in Vietnam. Education Quarterly Reviews, 4(3), 575-587. https://doi.org/10.31014/aior.1993.04.03.362
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 PLS-SEM assessment of the global competence model. After removal, SA (CR 0.840, AVE 0.568), IC (CR 0.824, AVE 0.547), and GK (CR 0.813, AVE 0.592) met requirements, and HTMT figures were below 0.85.
 
@@ -48,7 +48,7 @@ PLS-SEM assessment of the global competence model. After removal, SA (CR 0.840, 
 
 Nguyen, M. T. (2021). Validating a Scale for Measuring Students' Perspectives toward Global Citizenship: A Case at a Private University in Vietnam. Education Quarterly Reviews, 4(3), 575-587. https://doi.org/10.31014/aior.1993.04.03.362
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Author's interpretation (type e) of why the intercultural adaptation items underperformed; the article notes this result shared similarity with Morais and Ogden (2011) and Roberts and Wilson (2016).
 

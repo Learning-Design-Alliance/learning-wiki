@@ -12,13 +12,13 @@ sources:
   - id: oer-case
     title: oer-case
     q: 1
-    i: 1
+    i: "?"
 ---
 
 # Some initiatives fit no single generalized structure: the OER for Racial Justice project required a novel generator-plus-catalyzer combination
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case · `i1` small
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The Center for Inclusive Innovation's OER for Racial Justice initiative did not align with any generalized structure and was best represented as a combination of catalyzer and generator structures, identified through validation with the parties and several rounds of iteration. [→ oer-case](#oer-case)
@@ -29,7 +29,7 @@ sources:
 
 Baker, A., Weisgrau, J., & Bristal Philyaw, K. (2022, May). Feedback loops: Mapping transformative interactions in education innovation. Digital Promise. https://doi.org/10.51388/20.500.12265/155
 
-`q1 · i1`
+`q1 · i? · the article prints no effect size for this finding`
 
 Case study of a design process engaging 13 districts, with one core district co-designing through the five-stage Inclusive Innovation process and 12 pilot districts in a community of practice. The authors report the novel structure emerged from participant validation, not from applying a preset template.
 

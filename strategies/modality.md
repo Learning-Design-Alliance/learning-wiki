@@ -12,7 +12,7 @@ generated:
 # Modality
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 11 studies, `q3`–`q4` · 6 of 11 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 11 studies, `q3`–`q4` · 1 of 11 report an effect size · 2 claims rest on one study
 
 ## Description
 The modality strategy presents verbal information as spoken audio (narration) rather than written on-screen text when the same screen also displays graphics, animation, or video. It is grounded in the assumption that working memory has partially separate visual and auditory channels; distributing words and pictures across these channels increases effective capacity [Cognitive overload degrades learning when channels are overloaded.](../claims/cognitive-overload-degrades-learning.md) [+S].

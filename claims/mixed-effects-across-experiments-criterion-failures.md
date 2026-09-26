@@ -20,17 +20,17 @@ sources:
     title: "Ariel, R., & Karpicke, J. D. (2018). Improving Self-Regulated Learning With a Retrieval Practice Intervention. Journal of Experimental Psychology: Applied. https://doi.org/10.1037/xap0000133"
     author: "Ariel, R., & Karpicke, J. D."
     q: 3
-    i: 2
+    i: "?"
 ---
 
 # Effects of instructions on some measures were inconsistent across experiments, and instructed students did not recall all items to criterion
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 2 studies · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Cumulative attempted recall did not differ between groups in either Experiment 2 session, unlike Experiment 1. [→ Ariel 2018](#ariel-2018)
-`q3 i2` Instructed students failed to recall every translation three times in both experiments. [→ Ariel 2018 (2)](#ariel-2018-2)
+`q3 i?` Instructed students failed to recall every translation three times in both experiments. [→ Ariel 2018 (2)](#ariel-2018-2)
 
 ## Evidence
 
@@ -48,7 +48,7 @@ Experiment 2 cumulative learning analysis (Table 2): both groups attempted retri
 
 Ariel, R., & Karpicke, J. D. (2018). Improving Self-Regulated Learning With a Retrieval Practice Intervention. Journal of Experimental Psychology: Applied. https://doi.org/10.1037/xap0000133
 
-`q3 · i2`
+`q3 · i? · no effect size could be confirmed in the full text`
 
 In both experiments, instructed students did not apply the three-recall criterion uniformly across items; the authors state the reason is unclear and defer discussion to the General Discussion.
 

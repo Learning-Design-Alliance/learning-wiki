@@ -16,7 +16,7 @@ sources:
 # Kolb's Learning Style Inventory and experiential learning theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies, `q2` · 2 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies, `q2` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Kolb's Learning Style Inventory, derived from experiential learning theory, measures an individual's relative emphasis on four learning abilities: Concrete Experience, Abstract Conceptualization, Active Experimentation, and Reflective Observation. Two combination scores (AC-CE and AE-RO) place individuals into one of four learning mode types: Converger, Diverger, Assimilator, or Accommodator.

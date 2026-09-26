@@ -14,13 +14,13 @@ sources:
     title: "Abdul Gafoor. K., & Kurukkan, A. (2016). Self-Regulated Learning: A Motivational Approach for Learning Mathematics. International Journal of Education and Psychological Research, 5(3). https://ijepr.org/"
     author: "Abdul Gafoor. K., & Kurukkan, A."
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Mastery-approach goals predict metacognitive strategies while fear of failure is negatively associated with metacognitive self-regulation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Mastery-approach goals significantly predicted metacognitive strategies. [→ Abdul Gafoor. K. 2016](#abdul-gafoor-k-2016)
@@ -32,7 +32,7 @@ sources:
 
 Abdul Gafoor. K., & Kurukkan, A. (2016). Self-Regulated Learning: A Motivational Approach for Learning Mathematics. International Journal of Education and Psychological Research, 5(3). https://ijepr.org/
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Narrative review's synthesis of motivational-factor studies; it reports that "Mastery-approach goals significantly predicted metacognitive strategies" and that fear of failure was negatively associated with metacognitive self-regulation, citing Bartels and Magun-Jackson (2009). No effect sizes are printed.
 

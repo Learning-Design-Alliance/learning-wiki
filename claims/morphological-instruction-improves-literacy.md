@@ -13,7 +13,7 @@ sources:
     title: "Goodwin, A. P., & Ahn, S. (2013). A Meta-Analysis of Morphological Interventions in English: Effects on Literacy Outcomes for School-Age Children. *Scientific Studies of Reading, 17*(4), 257–285. [doi:10.1080/10888438.2012.689791](https://doi.org/10.1080/10888438.2012.689791)"
     author: "Goodwin, A. P., & Ahn, S."
     q: 3
-    i: 2
+    i: 1
     n: 30 studies (92 effect sizes)
   - id: bowers-kirby-deacon-2010
     resource: "https://doi.org/10.3102/0034654309359353"
@@ -27,13 +27,13 @@ sources:
 # Morphological Instruction Improves Literacy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i1` small
 
 Explicit teaching of morphemes (roots, prefixes, suffixes) and how they combine to form words improves students' word reading, spelling, vocabulary, and comprehension outcomes.
 
 ## Subclaims
 
-`q3 i2` A meta-analysis of 30 studies (92 effect sizes) finds a moderate overall benefit of morphological instruction on literacy outcomes, with the largest gains for decoding and morphological knowledge but no reliable effect on reading comprehension or fluency. [→ Goodwin Ahn 2013](#goodwin-ahn-2013)
+`q3 i1` A meta-analysis of 30 studies (92 effect sizes) finds a moderate overall benefit of morphological instruction on literacy outcomes, with the largest gains for decoding and morphological knowledge but no reliable effect on reading comprehension or fluency. [→ Goodwin Ahn 2013](#goodwin-ahn-2013)
 
 `q3 i?` A meta-analysis of 22 studies (preschool–grade 8) concludes morphological instruction benefits learners overall, with particular benefit for less-able readers, no less effect for younger than for older students, and larger effects when combined with other literacy instruction. [→ Bowers Kirby Deacon 2010](#bowers-kirby-deacon-2010)
 
@@ -43,7 +43,7 @@ Explicit teaching of morphemes (roots, prefixes, suffixes) and how they combine 
 
 Goodwin, A. P., & Ahn, S. (2013). A Meta-Analysis of Morphological Interventions in English: Effects on Literacy Outcomes for School-Age Children. *Scientific Studies of Reading, 17*(4), 257–285. [doi:10.1080/10888438.2012.689791](https://doi.org/10.1080/10888438.2012.689791)
 
-`q3 · meta-analysis (not stated as pre-registered)` · `i2 · medium effect, d̄=0.32` · `n=30 studies (92 effect sizes)`
+`q3 · meta-analysis (not stated as pre-registered)` · `i1 · small by this wiki's scale, d̄ = 0.32; the authors call it moderate` · `n=30 studies (92 effect sizes)`
 
 Meta-analysis synthesizing 92 standardized mean differences from 30 independent studies of morphological intervention in school-age children. The overall effect of morphological instruction on literacy achievement was moderate and significant (d̄ = 0.32). Effects varied by outcome: significant moderate effects were found for morphological knowledge (d̄ = 0.44), phonological awareness (d̄ = 0.48), vocabulary (d̄ = 0.34), decoding (d̄ = 0.59), and spelling (d̄ = 0.30), but not for reading comprehension or fluency. Effectiveness also varied by age/school level and research design, but not by unit of intervention, scope, length, or learner type.
 

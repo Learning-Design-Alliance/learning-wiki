@@ -14,25 +14,25 @@ sources:
     title: "Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell (2020). When is Deep Learning the Best Approach to Knowledge Tracing? Journal of Educational Data Mining, Volume 12, No 3. https://github.com/theophilee/learner-performance-prediction"
     author: Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell
     q: 2
-    i: 2
+    i: "?"
   - id: theophile-gervet-2020-2
     resource: "https://github.com/theophilee/learner-performance-prediction"
     title: "Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell (2020). When is Deep Learning the Best Approach to Knowledge Tracing? Journal of Educational Data Mining, Volume 12, No 3. https://github.com/theophilee/learner-performance-prediction"
     author: Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell
     q: 2
-    i: 1
+    i: "?"
   - id: theophile-gervet-2020-3
     resource: "https://github.com/theophilee/learner-performance-prediction"
     title: "Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell (2020). When is Deep Learning the Best Approach to Knowledge Tracing? Journal of Educational Data Mining, Volume 12, No 3. https://github.com/theophilee/learner-performance-prediction"
     author: Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell
     q: 2
-    i: 2
+    i: "?"
 ---
 
 # Ablation of feature-vector models: time-window features add no predictive power to logistic regression but boost a feedforward network, and total count features substantially boost performance on all datasets
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2` quasi-experiment · `i1`–`i2`
+> **Evidence** · 3 studies · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` DAS3H time-window features add no predictive power to the best logistic regression model, suggesting DAS3H's boost over PFA comes from an IRT-inspired item difficulty parameter. [→ Theophile Gervet 2020](#theophile-gervet-2020)
@@ -45,7 +45,7 @@ sources:
 
 Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell (2020). When is Deep Learning the Best Approach to Knowledge Tracing? Journal of Educational Data Mining, Volume 12, No 3. https://github.com/theophilee/learner-performance-prediction
 
-`q2 · i2`
+`q2 · i? · the article prints no effect size for this finding`
 
 Ablation study (Table 13) of logistic regression and two-layer feedforward networks with different feature sets across the nine datasets. "do not add any predictive power to our best logistic regression model".
 
@@ -55,7 +55,7 @@ Ablation study (Table 13) of logistic regression and two-layer feedforward netwo
 
 Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell (2020). When is Deep Learning the Best Approach to Knowledge Tracing? Journal of Educational Data Mining, Volume 12, No 3. https://github.com/theophilee/learner-performance-prediction
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Same Table 13 ablation, comparing NoTW-FFW with Best-FFW: time-window features help only the nonlinear model on two datasets, consistent with DKT's advantage there.
 
@@ -65,7 +65,7 @@ Same Table 13 ablation, comparing NoTW-FFW with Best-FFW: time-window features h
 
 Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell (2020). When is Deep Learning the Best Approach to Knowledge Tracing? Journal of Educational Data Mining, Volume 12, No 3. https://github.com/theophilee/learner-performance-prediction
 
-`q2 · i2`
+`q2 · i? · the article prints no effect size for this finding`
 
 Table 13 ablation introducing total count features; the authors report these "substantially boost performance on all datasets", underpinning new state-of-the-art results on 5 of 8 datasets.
 

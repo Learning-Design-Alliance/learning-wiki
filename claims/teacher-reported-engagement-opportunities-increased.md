@@ -14,19 +14,19 @@ sources:
     title: "Smith, T. M., Walters, K., Griffin, M., Jones, W., Lennon, V., & Sanders, Z. (2021). The Better Math Teaching Network: Lessons Learned From a 5-Year Instructionally Focused NIC. American Institutes for Research & WestEd. https://www.bettermathteachingnetwork.org/"
     author: "Smith, T. M., Walters, K., Griffin, M., Jones, W., Lennon, V., & Sanders, Z."
     q: 2
-    i: 1
+    i: "?"
   - id: smith-2021-2
     resource: "https://www.bettermathteachingnetwork.org/"
     title: "Smith, T. M., Walters, K., Griffin, M., Jones, W., Lennon, V., & Sanders, Z. (2021). The Better Math Teaching Network: Lessons Learned From a 5-Year Instructionally Focused NIC. American Institutes for Research & WestEd. https://www.bettermathteachingnetwork.org/"
     author: "Smith, T. M., Walters, K., Griffin, M., Jones, W., Lennon, V., & Sanders, Z."
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Teachers reported providing deep-engagement opportunities at levels similar to or greater than student reports, and about 8 in 10 attributed instruction changes to the network
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i1` small
+> **Evidence** · 2 studies · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Teachers reported providing frequent opportunities for deep student engagement at levels similar to or greater than student-reported levels. [→ Smith 2021](#smith-2021)
@@ -38,7 +38,7 @@ sources:
 
 Smith, T. M., Walters, K., Griffin, M., Jones, W., Lennon, V., & Sanders, Z. (2021). The Better Math Teaching Network: Lessons Learned From a 5-Year Instructionally Focused NIC. American Institutes for Research & WestEd. https://www.bettermathteachingnetwork.org/
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Teacher self-report survey (Year 3 lessons learned report) paralleling the student survey items; teacher-reported levels were "similar to or greater than the levels reported by students" for each DEA and overall.
 
@@ -48,7 +48,7 @@ Teacher self-report survey (Year 3 lessons learned report) paralleling the stude
 
 Smith, T. M., Walters, K., Griffin, M., Jones, W., Lennon, V., & Sanders, Z. (2021). The Better Math Teaching Network: Lessons Learned From a 5-Year Instructionally Focused NIC. American Institutes for Research & WestEd. https://www.bettermathteachingnetwork.org/
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Independent developmental evaluator analyses of network activities across Years 2–4 found "about 8 in 10 teachers" attributed instructional changes to the BMTN to a great extent.
 

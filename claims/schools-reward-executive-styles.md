@@ -14,13 +14,13 @@ sources:
     title: "Presseisen, Barbara Z.; Sternberg, Robert J.; Fischer, Kurt W.; Knight, Catharine C.; Feuerstein, Reuven. (1990). Learning and Thinking Styles: Classroom Interaction. National Education Association. https://eric.ed.gov/?id=ED327322"
     author: Presseisen, Barbara Z.; Sternberg, Robert J.; Fischer, Kurt W.; Knight, Catharine C.; Feuerstein, Reuven
     q: 1
-    i: 1
+    i: "?"
 ---
 
 # Schools overwhelmingly reward executive styles and confuse style with level of intellect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case · `i1` small
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Schools favor certain intellectual styles over others and often mistake style for ability level, rewarding children who work within existing rule systems. [→ Presseisen 1990](#presseisen-1990)
@@ -31,7 +31,7 @@ sources:
 
 Presseisen, Barbara Z.; Sternberg, Robert J.; Fischer, Kurt W.; Knight, Catharine C.; Feuerstein, Reuven. (1990). Learning and Thinking Styles: Classroom Interaction. National Education Association. https://eric.ed.gov/?id=ED327322
 
-`q1 · i1`
+`q1 · i? · no source text available to check; the entry prints no effect size`
 
 The author's interpretive analysis in the classroom implications section of Sternberg's chapter; no empirical data are reported for this assertion. It states that "schools most reward executive types children who work within existing rule systems."
 

@@ -14,13 +14,13 @@ sources:
     title: "Pennings, Johannes M. (1974). Differentiation, Interdependence, and Performance in Formal Organizations. https://eric.ed.gov/?id=ED099988"
     author: Pennings, Johannes M.
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Integration–performance link fails in specialized offices, contradicting the differentiation–integration paradigm
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Relationships between performance criteria and role and social interdependence are virtually absent in specialized offices but strong in offices with little specialization. [→ Pennings 1974](#pennings-1974)
@@ -31,7 +31,7 @@ sources:
 
 Pennings, Johannes M. (1974). Differentiation, Interdependence, and Performance in Formal Organizations. https://eric.ed.gov/?id=ED099988
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Test of the Lawrence–Lorsch differentiation–integration paradigm: relationships between interdependence and performance were examined separately for heterogeneous versus homogeneous offices. Virtually no relationship appeared among specialized offices, while relationships were strong to extremely strong among offices with little specialization.
 

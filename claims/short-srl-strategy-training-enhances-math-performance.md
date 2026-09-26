@@ -14,19 +14,19 @@ sources:
     title: "Abdul Gafoor. K., & Kurukkan, A. (2016). Self-Regulated Learning: A Motivational Approach for Learning Mathematics. International Journal of Education and Psychological Research, 5(3). https://ijepr.org/"
     author: "Abdul Gafoor. K., & Kurukkan, A."
     q: 2
-    i: 2
+    i: "?"
   - id: abdul-gafoor-k-2016-2
     resource: "https://ijepr.org/"
     title: "Abdul Gafoor. K., & Kurukkan, A. (2016). Self-Regulated Learning: A Motivational Approach for Learning Mathematics. International Journal of Education and Psychological Research, 5(3). https://ijepr.org/"
     author: "Abdul Gafoor. K., & Kurukkan, A."
     q: 2
-    i: 2
+    i: "?"
 ---
 
 # Short-term self-regulatory strategy training, including within regular mathematics lessons, enhances students' self-regulatory judgments and mathematics performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 2 studies · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Self-regulatory strategy training greatly enhanced students' self-regulatory judgments and math performance among fifth and sixth graders. [→ Abdul Gafoor. K. 2016](#abdul-gafoor-k-2016)
@@ -38,7 +38,7 @@ sources:
 
 Abdul Gafoor. K., & Kurukkan, A. (2016). Self-Regulated Learning: A Motivational Approach for Learning Mathematics. International Journal of Education and Psychological Research, 5(3). https://ijepr.org/
 
-`q2 · i2`
+`q2 · i? · the article prints no effect size for this finding`
 
 The review reports, citing Ramdass and Zimmerman (2008), that "It is possible to enhance students' self-regulatory judgments and math performance greatly through self-regulatory strategy training"; the reviewed experiment's design details were not read directly.
 
@@ -48,7 +48,7 @@ The review reports, citing Ramdass and Zimmerman (2008), that "It is possible to
 
 Abdul Gafoor. K., & Kurukkan, A. (2016). Self-Regulated Learning: A Motivational Approach for Learning Mathematics. International Journal of Education and Psychological Research, 5(3). https://ijepr.org/
 
-`q2 · i2`
+`q2 · i? · the article prints no effect size for this finding`
 
 The review attributes to Perels, Dignath and Schmitz (2009) the finding that self-regulation intervention within regular mathematics lessons of 6th-grade students supported self-regulation competencies and mathematical achievement; similar results are reported for eighth graders (Perels, Gurtler and Schmitz, 2005).
 

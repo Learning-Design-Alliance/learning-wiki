@@ -14,13 +14,13 @@ sources:
     title: "Do, P. D. (2024). Deliberate practice: An effective way to raise the real estate licensing passing rate. Bradley University. https://scholar.google.com/scholar?q=Deliberate+Practice+Real+Estate+Licensing+Passing+Rate"
     author: Do, P. D.
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Students in the deliberate practice group reported increased satisfaction with the learning process
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Experimental-group students reported higher satisfaction with the deliberate practice learning process than traditional-method students. [→ Do 2024](#do-2024)
@@ -31,7 +31,7 @@ sources:
 
 Do, P. D. (2024). Deliberate practice: An effective way to raise the real estate licensing passing rate. Bradley University. https://scholar.google.com/scholar?q=Deliberate+Practice+Real+Estate+Licensing+Passing+Rate
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Post-training survey of the experimental group measured satisfaction with the deliberate practice approach; the study reports students "reported increased satisfaction with the learning process" alongside the pass-rate finding. Satisfaction was measured by self-reported survey data, which the author flags as a limitation.
 

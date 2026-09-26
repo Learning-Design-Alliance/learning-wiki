@@ -14,13 +14,13 @@ sources:
     title: "Presseisen, Barbara Z.; Sternberg, Robert J.; Fischer, Kurt W.; Knight, Catharine C.; Feuerstein, Reuven. (1990). Learning and Thinking Styles: Classroom Interaction. National Education Association. https://eric.ed.gov/?id=ED327322"
     author: Presseisen, Barbara Z.; Sternberg, Robert J.; Fischer, Kurt W.; Knight, Catharine C.; Feuerstein, Reuven
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Intellectual style is a way of directing intelligence, not a level of it
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Two individuals of equal measured intelligence may differ intellectually in how they organize and direct that intelligence. [→ Presseisen 1990](#presseisen-1990)
@@ -31,7 +31,7 @@ sources:
 
 Presseisen, Barbara Z.; Sternberg, Robert J.; Fischer, Kurt W.; Knight, Catharine C.; Feuerstein, Reuven. (1990). Learning and Thinking Styles: Classroom Interaction. National Education Association. https://eric.ed.gov/?id=ED327322
 
-`q2 · i1`
+`q2 · i? · no source text available to check; the entry prints no effect size`
 
 Theoretical argument in Sternberg's chapter contrasting standard ability theories with the governmental model; the article offers this as conceptual analysis, not a tested comparison. The model assesses "notof how much intelligence the individual has but rather of how thatintelligence is directed."
 

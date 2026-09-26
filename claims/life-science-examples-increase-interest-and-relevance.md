@@ -14,13 +14,13 @@ sources:
     title: "O'Shea, B., Terry, L., & Benenson, W. (2013). From F=ma to Flying Squirrels: Curricular Change in an Introductory Physics Course. CBE-Life Science Education (accepted). https://www.lifescied.org"
     author: "O'Shea, B., Terry, L., & Benenson, W."
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # A substantial fraction of students reported increased interest in physics and ability to connect physics to their life science majors and careers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` 9 of 15 interviewed students could provide specific and physically correct examples connecting physics to their interests. [→ O'Shea 2013](#oshea-2013)
@@ -31,7 +31,7 @@ sources:
 
 O'Shea, B., Terry, L., & Benenson, W. (2013). From F=ma to Flying Squirrels: Curricular Change in an Introductory Physics Course. CBE-Life Science Education (accepted). https://www.lifescied.org
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Post-semester interviews conducted by a co-author with no course association; interviewees demonstrated examples such as suspensory ligaments and spring stretching, and 4 of 15 reported discussing course examples with people outside the course.
 

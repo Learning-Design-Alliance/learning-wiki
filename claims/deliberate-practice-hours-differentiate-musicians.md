@@ -14,16 +14,16 @@ sources:
     title: "Ericsson, K. A., Nandagopal, K., & Roring, R. W. (2005). Giftedness viewed from the expert-performance perspective. Journal for the Education of the Gifted, 28(3/4). https://eric.ed.gov/?q=Giftedness+Viewed+From+the+Expert-Performance+Perspective"
     author: "Ericsson, K. A., Nandagopal, K., & Roring, R. W."
     q: 2
-    i: 2
+    i: "?"
 ---
 
 # Amount of accumulated deliberate practice distinguishes more from less accomplished musicians
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
-`q2 i2` By age 20 the best musicians had accumulated over 10,000 hours of deliberate practice, exceeding two less accomplished expert groups and amateur pianists. [→ Ericsson 2005](#ericsson-2005)
+`q2 i?` By age 20 the best musicians had accumulated over 10,000 hours of deliberate practice, exceeding two less accomplished expert groups and amateur pianists. [→ Ericsson 2005](#ericsson-2005)
 
 ## Evidence
 
@@ -31,7 +31,7 @@ sources:
 
 Ericsson, K. A., Nandagopal, K., & Roring, R. W. (2005). Giftedness viewed from the expert-performance perspective. Journal for the Education of the Gifted, 28(3/4). https://eric.ed.gov/?q=Giftedness+Viewed+From+the+Expert-Performance+Perspective
 
-`q2 · i2`
+`q2 · i? · the article prints no effect size for this finding`
 
 Retrospective-interview and diary study of musicians at the Berlin music academy (Ericsson, Krampe, & Tesch-Römer, 1993, as reported here). Differences in "deliberate practice" time were "reliably observable before their admittance to the academy at around age 18."
 

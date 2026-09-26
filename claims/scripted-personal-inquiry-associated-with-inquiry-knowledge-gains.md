@@ -13,25 +13,25 @@ sources:
     title: "Sharples, M., Scanlon, E., Ainsworth, S., Anastopoulou, S., Collins, T., Crook, C., Jones, A., Kerawalla, L., Littleton, K., Mulholland, P., & O'Malley, C. (2015). Personal Inquiry: Orchestrating Science Investigations Within and Beyond the Classroom. *Journal of the Learning Sciences, 24*(2), 308-341. [https://doi.org/10.1080/10508406.2014.944642](https://doi.org/10.1080/10508406.2014.944642)"
     author: "Sharples, M., Scanlon, E., Ainsworth, S., Anastopoulou, S., Collins, T., Crook, C., Jones, A., Kerawalla, L., Littleton, K., Mulholland, P., & O'Malley, C."
     q: 2
-    i: 1
+    i: "?"
     n: 28 (intervention) and n=15 (control) Year 8 students for the quantitative comparison; separate after-school club sample (max 30, min 8 attendees) for the sustainability-attitude findings
 ---
 
 # Scripted personally meaningful inquiry is associated with gains in inquiry-decision accuracy, with mixed evidence on attitude and behavior change
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small · n=28 (intervention) and n=15 (control) Year 8 students for the quantitative comparison; separate after-school club sample (max 30, min 8 attendees) for the sustainability-attitude findings
+> **Evidence** · 1 study · `q2` quasi-experiment · n=28 (intervention) and n=15 (control) Year 8 students for the quantitative comparison; separate after-school club sample (max 30, min 8 attendees) for the sustainability-attitude findings
 
 Across two design-based-research implementations of a personal-inquiry toolkit, students showed pre-to-post gains on a comic-format test of inquiry-decision accuracy relative to a non-equivalent control class, successfully carried out investigations across classroom, home, and field settings with only minor technical friction, and some students reported (via interview, not measurement) carrying sustainability-related purchasing changes home — though the authors themselves caution against strong causal or attitude-change conclusions.
 
 ## Subclaims
-`q2 i1` In a Year 8 noise-pollution unit, the intervention class improved significantly on a 12-point inquiry-decision accuracy test (pretest M=8.11 to posttest M=9.25, t(27)=2.31, p<.05) while a non-equivalent control class did not (M=6.00 to M=6.53, ns) — but the two classes differed significantly at pretest (t=2.52, p<.02), so the authors explicitly state they cannot conclude the gain was due to the intervention alone. [→ Sharples et al. 2015](#sharples-et-al-2015)
+`q2 i?` In a Year 8 noise-pollution unit, the intervention class improved significantly on a 12-point inquiry-decision accuracy test (pretest M=8.11 to posttest M=9.25, t(27)=2.31, p<.05) while a non-equivalent control class did not (M=6.00 to M=6.53, ns) — but the two classes differed significantly at pretest (t=2.52, p<.02), so the authors explicitly state they cannot conclude the gain was due to the intervention alone. [→ Sharples et al. 2015](#sharples-et-al-2015)
 
-`q2 i1` Students successfully collected data across classroom, home, playground, and field settings using take-home devices, with only minor technical friction (51 critical incidents logged across the noise-pollution study, most classified as "minor technical problem," none blocking the investigation). [→ Sharples et al. 2015](#sharples-et-al-2015)
+`q2 i?` Students successfully collected data across classroom, home, playground, and field settings using take-home devices, with only minor technical friction (51 critical incidents logged across the noise-pollution study, most classified as "minor technical problem," none blocking the investigation). [→ Sharples et al. 2015](#sharples-et-al-2015)
 
-`q2 i1` When collected data contradicted students' initial hypothesis (e.g., a noisier schoolyard location showing more bird-feeder visits than a quiet one), most students generated plausible explanations for the discrepancy rather than dismissing the result, though this was not evaluated against a criterion for scientific validity. [→ Sharples et al. 2015](#sharples-et-al-2015)
+`q2 i?` When collected data contradicted students' initial hypothesis (e.g., a noisier schoolyard location showing more bird-feeder visits than a quiet one), most students generated plausible explanations for the discrepancy rather than dismissing the result, though this was not evaluated against a criterion for scientific validity. [→ Sharples et al. 2015](#sharples-et-al-2015)
 
-`q1 i1` In an after-school sustainability-focused inquiry club, some students and parents reported in interviews that the investigation (into food packaging and decay) coincided with the student adopting or requesting more sustainable purchasing habits (e.g., declining shopping bags) — anecdotal, unmeasured, and explicitly flagged by the authors as not supporting a claim of durable attitude or behavior change. [→ Sharples et al. 2015](#sharples-et-al-2015)
+`q1 i?` In an after-school sustainability-focused inquiry club, some students and parents reported in interviews that the investigation (into food packaging and decay) coincided with the student adopting or requesting more sustainable purchasing habits (e.g., declining shopping bags) — anecdotal, unmeasured, and explicitly flagged by the authors as not supporting a claim of durable attitude or behavior change. [→ Sharples et al. 2015](#sharples-et-al-2015)
 
 ## Evidence
 
@@ -39,7 +39,7 @@ Across two design-based-research implementations of a personal-inquiry toolkit, 
 
 Sharples, M., Scanlon, E., Ainsworth, S., Anastopoulou, S., Collins, T., Crook, C., Jones, A., Kerawalla, L., Littleton, K., Mulholland, P., & O'Malley, C. (2015). Personal Inquiry: Orchestrating Science Investigations Within and Beyond the Classroom. *Journal of the Learning Sciences, 24*(2), 308-341. [https://doi.org/10.1080/10508406.2014.944642](https://doi.org/10.1080/10508406.2014.944642)
 
-`q2 · design-based research across two implementations (a Year 8 classroom noise-pollution unit and an after-school sustainability club), with one non-equivalent-control-group pre/post comparison plus descriptive/qualitative implementation data (video, interviews, computer logs); confounded baseline in the one quantitative comparison, small samples, no randomization` · `i1 · a modest, confounded quantitative gain plus consistently descriptive (not causal) qualitative and implementation findings` · `n=28 (intervention) and n=15 (control) Year 8 students for the quantitative comparison; separate after-school club sample (max 30, min 8 attendees) for the sustainability-attitude findings`
+`q2 · design-based research across two implementations (a Year 8 classroom noise-pollution unit and an after-school sustainability club), with one non-equivalent-control-group pre/post comparison plus descriptive/qualitative implementation data (video, interviews, computer logs); confounded baseline in the one quantitative comparison, small samples, no randomization` · `i? · the abstract prints no effect size; the full text may` · `n=28 (intervention) and n=15 (control) Year 8 students for the quantitative comparison; separate after-school club sample (max 30, min 8 attendees) for the sustainability-attitude findings`
 
 The [Scripted Personally Meaningful Inquiry](../patterns/scripted-personally-meaningful-inquiry.md) pattern, implemented via the nQuire software toolkit, was deployed in a 10-lesson Year 8 ecology unit (noise pollution) and a separate after-school "Sustainability Squad" club (food packaging/decay), instantiating [Personal Inquiry](../theories/personal-inquiry.md)'s 8-phase cycle and scripted orchestration. Inquiry-decision accuracy was measured with a comic-format assessment (parallel to Concept Cartoons) scored by two independent blind raters; implementation feasibility was assessed via critical-incident analysis of video and computer logs; attitude/behavior claims come from student and parent interviews only.
 

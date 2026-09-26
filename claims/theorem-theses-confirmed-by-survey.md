@@ -14,13 +14,13 @@ sources:
     title: "Miyazoe, T., & Anderson, T. (2010). Empirical Research on Learners' Perceptions: Interaction Equivalency Theorem in Blended Learning. European Journal of Open, Distance and E-Learning. http://www.eurodl.org/?article=397"
     author: "Miyazoe, T., & Anderson, T."
     q: 2
-    i: 2
+    i: "?"
 ---
 
 # The study's results confirm both theses of the Interaction Equivalency Theorem in blended learning contexts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Students could name and rank their most preferred interaction pair without hesitation, and the ranking changed with learning mode and subject, which the authors take to confirm Thesis 1 and Thesis 2. [→ Miyazoe 2010](#miyazoe-2010)
@@ -31,7 +31,7 @@ sources:
 
 Miyazoe, T., & Anderson, T. (2010). Empirical Research on Learners' Perceptions: Interaction Equivalency Theorem in Blended Learning. European Journal of Open, Distance and E-Learning. http://www.eurodl.org/?article=397
 
-`q2 · i2`
+`q2 · i? · the article prints no effect size for this finding`
 
 Authors' conclusion drawn from the full survey of 236 students, in which students produced complete rankings of teacher, student, and content interaction. The article states the results "seem to confirm Thesis 1" and confirmed Thesis 2; no inferential statistic is printed.
 

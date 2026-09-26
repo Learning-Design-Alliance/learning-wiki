@@ -14,13 +14,13 @@ sources:
     title: "Gordon, Don E. (1972). Survey of Speech Articulation Disorders Among Military Dependent Children. Fitchburg State College. https://eric.ed.gov/?id=ED066855"
     author: Gordon, Don E.
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # In two of three integrated schools, MDC articulation disorder incidence was about three times that of civilian dependent children in grades 2 through 4, but lower in grades 5 and 6
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In two of the three schools where MDC attended alongside civilian dependent children, the MDC articulation disorder incidence rate was about three times greater than the CDC rate in grades two through four, but lower in grades five and six. [→ Gordon 1972](#gordon-1972)
@@ -31,7 +31,7 @@ sources:
 
 Gordon, Don E. (1972). Survey of Speech Articulation Disorders Among Military Dependent Children. Fitchburg State College. https://eric.ed.gov/?id=ED066855
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 School-level comparison from the 1971 survey contrasting MDC and CDC incidence rates within the same integrated schools. The comparison is qualified to two of three schools and to grades 2 through 4; the ratio is reported descriptively with no test statistic.
 

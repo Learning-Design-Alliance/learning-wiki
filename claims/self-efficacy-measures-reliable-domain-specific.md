@@ -20,7 +20,7 @@ sources:
     title: "Schunk, D. H. (1996). Self-Efficacy for Learning and Performance. https://eric.ed.gov/?id=ED394663"
     author: Schunk, D. H.
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Self-efficacy measures show high reliability and domain-specific validity
@@ -48,7 +48,7 @@ Measurement issues section reviewing internal consistency coefficients across st
 
 Schunk, D. H. (1996). Self-Efficacy for Learning and Performance. https://eric.ed.gov/?id=ED394663
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Validity discussion of construct validity: self-efficacy for long division correlated positively with attitudes toward division and observers' ratings of persistence and effort, but nonsignificantly with locus of control and standardized mathematical competence measures. Pajares and Kranzler (1995) found mathematics self-efficacy correlated more strongly with mathematics performance than general mental ability.
 

@@ -14,13 +14,13 @@ sources:
     title: "Bergen, Doris. (2002). The Role of Pretend Play in Children's Cognitive Development. Early Childhood Research & Practice, v4 n1. http://ecrp.uiuc.edu/v4n1/bergen.htm"
     author: Bergen, Doris
     q: 3
-    i: 1
+    i: "?"
 ---
 
 # Title I preschool classrooms showed no typical increase in social pretense and verbal interaction over time, most evident in lowest-SES classrooms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Observations across two time periods in 22 Title I preschool classrooms found no increase in social pretense or total verbal interaction, with associative play decreasing and parallel play increasing. [→ Bergen 2002](#bergen-2002)
@@ -31,7 +31,7 @@ sources:
 
 Bergen, Doris. (2002). The Role of Pretend Play in Children's Cognitive Development. Early Childhood Research & Practice, v4 n1. http://ecrp.uiuc.edu/v4n1/bergen.htm
 
-`q3 · i1`
+`q3 · i? · the article prints no effect size for this finding`
 
 The review reports, citing Farran and Son-Yarbrough, observational data from 22 Title I preschool classrooms at two time periods; associative play decreased while parallel play increased, a trend most evident in classrooms enrolling the largest proportion of children from low socioeconomic backgrounds.
 

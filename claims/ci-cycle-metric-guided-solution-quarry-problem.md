@@ -20,13 +20,13 @@ sources:
     title: "Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H. (2013). Technology-Enabled Nurturing of Creativity and Innovation: A Specific Illustration from an Undergraduate Engineering Physics Course. https://arxiv.org/abs/1308.2434"
     author: Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H.
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # A six-step C/I cycle administered in a sophomore engineering physics class and a graduate physics class guided a group to select a conveyor-belt power-calibration method via a co-constructed decision metric
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i1` small
+> **Evidence** · 2 studies · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The process was administered separately to a sophomore class of 23 engineering physics students and a class of 7 graduate physics students. [→ Kowalski 2013](#kowalski-2013)
@@ -48,7 +48,7 @@ Case report of the process used in two classes meeting one hour a week in an int
 
 Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H. (2013). Technology-Enabled Nurturing of Creativity and Innovation: A Specific Illustration from an Undergraduate Engineering Physics Course. https://arxiv.org/abs/1308.2434
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 In the quarry problem, the group's metric (simultaneity, use of existing infrastructure, repeated measurement, non-intrusiveness, speed, transferability) was applied to two candidate methods; the article reports the metric "guided the class to choose calibrating the power consumed by a conveyer belt" while the volumetric method fell short.
 

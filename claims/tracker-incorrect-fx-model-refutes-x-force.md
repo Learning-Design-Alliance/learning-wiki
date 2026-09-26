@@ -14,13 +14,13 @@ sources:
     title: "Wee, L. K., & Lee, T. L. (2011). Video Analysis and Modeling Tool for Physics Education. Paper presented at the 4th Redesigning Pedagogy International Conference, Singapore. http://weelookang.blogspot.com/2011/05/video-analysis-and-modeling-tool-for.html"
     author: "Wee, L. K., & Lee, T. L."
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Comparing an incorrect applied-force model (fx = 10 N) with real data shows students why projectile motion has no x-direction acceleration
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` By keying in fx ≠ 0 N (e.g. fx = 10 N with m = 1 kg), students observe the model path is not the vertically projected downward shadow of the real data, showing the incorrect model does not represent the real motion. [→ Wee 2011](#wee-2011)
@@ -31,7 +31,7 @@ sources:
 
 Wee, L. K., & Lee, T. L. (2011). Video Analysis and Modeling Tool for Physics Education. Paper presented at the 4th Redesigning Pedagogy International Conference, Singapore. http://weelookang.blogspot.com/2011/05/video-analysis-and-modeling-tool-for.html
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Workshop activity addressing the misconception that projectiles experience x-direction force: an incorrect fx = 10 N model (teal) visibly diverges from the real data (red) in Figure 3, so the incorrect model is not representative of the real motion.
 

@@ -14,13 +14,13 @@ sources:
     title: "Walker, K. (2000). Classroom Management for New Teachers. Education Partnerships, Inc. http://www.educationpartnerships.org/"
     author: Walker, K.
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Teachers feel more in control and more competent when they have a formal plan for discipline and procedures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Having a formal plan for discipline and procedures makes teachers feel more in control and more competent. [→ Walker 2000](#walker-2000)
@@ -31,7 +31,7 @@ sources:
 
 Walker, K. (2000). Classroom Management for New Teachers. Education Partnerships, Inc. http://www.educationpartnerships.org/
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 The brief reports, citing Charles (1992), that research on classroom management found teachers "feel more in control and more competent when they have a formal plan for discipline and procedures". No effect size or sample details are printed.
 

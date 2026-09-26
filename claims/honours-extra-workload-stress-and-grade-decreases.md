@@ -14,13 +14,13 @@ sources:
     title: "Wabike, P. (2021). Enhancing Learning through Community Membership: Honours Students' Perceptions of Community Membership and Its Impact on Learning. Journal of Educational Issues, 7(2). https://doi.org/10.5296/jei.v7i2.18814"
     author: Wabike, P.
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Extra honours workload causes stress, less free time and reported grade decreases in the main phase
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Respondents reported stress from an extra workload that leaves little room for social activities, with some mentioning decreasing grades in the main phase. [→ Wabike 2021](#wabike-2021)
@@ -31,7 +31,7 @@ sources:
 
 Wabike, P. (2021). Enhancing Learning through Community Membership: Honours Students' Perceptions of Community Membership and Its Impact on Learning. Journal of Educational Issues, 7(2). https://doi.org/10.5296/jei.v7i2.18814
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Open-ended survey responses on disadvantages of membership; honours activities carry educational credits rather than being extra-curricular, adding pressure to perform. Listed frustrations include "Less time for other friends and free time activities" and "Decreasing grades in the main phase".
 

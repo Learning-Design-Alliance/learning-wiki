@@ -16,7 +16,7 @@ sources:
 # Taxonomy of educational philosophies: Perennialism, Essentialism, Pragmatism, Reconstructionism, and Existentialism
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 3 studies, `q2` · 1 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 3 studies, `q2` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 The article organizes its analysis with a taxonomy of educational philosophies drawn from Wiles and Bondi (2015) and other proponents. It states that "While traditionally, educational philosophies may be classified as Perennialism, Essentialism, and Reconstructionism, Wiles and Bondi (2015) also recognizes Existentialism" (as printed, listing Pragmatism among the traditional set). Table 1 details each philosophy's goal, core content, teacher focus, materials, and practices, e.g., Essentialism trains in the three Rs via explicit teaching, while Pragmatism promotes democratic life via active learning and project-based learning. The author uses these philosophies as deductive coding themes for the book analysis.

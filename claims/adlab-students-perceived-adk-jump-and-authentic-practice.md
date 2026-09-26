@@ -14,13 +14,13 @@ sources:
     title: "Irving, P. W., & Sayre, E. C. (2013). Conditions for building a community of practice in an advanced physics laboratory. https://arxiv.org/abs/1312.1953"
     author: "Irving, P. W., & Sayre, E. C."
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Students perceived a jump in accountable disciplinary knowledge in the advanced laboratory, describing more authentic, less prescribed work than in previous labs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Student interviewees described AdLab as having less hand-holding, more freedom, and work resembling a professional setting compared with previous laboratory courses. [→ Irving 2013](#irving-2013)
@@ -31,7 +31,7 @@ sources:
 
 Irving, P. W., & Sayre, E. C. (2013). Conditions for building a community of practice in an advanced physics laboratory. https://arxiv.org/abs/1312.1953
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Semi-structured interview data from AdLab students at the 10-week point. Tom's quote is one of several (Matt, Laura, Toby) in which students "clearly perceived a jump in the level of the material and what was expected of them".
 

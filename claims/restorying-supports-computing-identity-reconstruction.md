@@ -13,23 +13,23 @@ sources:
     title: "Shaw, M. S., Coleman, J. J., Thomas, E. E., & Kafai, Y. B. (2023). Restorying a Black girl's future: Using womanist storytelling methodologies to reimagine dominant narratives in computing education. *Journal of the Learning Sciences, 32*(1), 52-75. [https://doi.org/10.1080/10508406.2023.2179847](https://doi.org/10.1080/10508406.2023.2179847)"
     author: "Shaw, M. S., Coleman, J. J., Thomas, E. E., & Kafai, Y. B."
     q: 1
-    i: 2
+    i: "?"
     n: 1 focal case (a 15-year-old Black girl) from a workshop of 15 youth (14 consenting), 11 of whom were interviewed
 ---
 
 # Restorying supports Black girls' identification of and resistance to dominant narratives in computing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case · `i2` medium · n=1 focal case (a 15-year-old Black girl) from a workshop of 15 youth (14 consenting), 11 of whom were interviewed
+> **Evidence** · 1 study · `q1` argument or single case · n=1 focal case (a 15-year-old Black girl) from a workshop of 15 youth (14 consenting), 11 of whom were interviewed
 
 In a museum computing workshop using electronic quilting to enact womanist restorying, one Black girl explicitly deconstructed her group's dominant stereotype of computer scientists, designed a counter-narrative quilt patch centering a Black woman, and reported increased self-reported belonging and aspiration toward computing.
 
 ## Subclaims
-`q1 i2` A focal 15-year-old participant identified and named her group's dominant narrative of computer scientists ("old white men" who "code" and "know all technology"), and in a post-interview explicitly connected this pattern to a broader "danger of a single story," including her own experience never reading a children's book featuring a Black child until high school. [→ Shaw et al. 2023](#shaw-et-al-2023)
+`q1 i?` A focal 15-year-old participant identified and named her group's dominant narrative of computer scientists ("old white men" who "code" and "know all technology"), and in a post-interview explicitly connected this pattern to a broader "danger of a single story," including her own experience never reading a children's book featuring a Black child until high school. [→ Shaw et al. 2023](#shaw-et-al-2023)
 
-`q1 i2` The same participant's group designed an interactive quilt patch depicting a Black woman computer scientist asserting competence against a skeptical supervisor, and she articulated aspirational, mentorship-oriented statements about teaching other students to "reverse the stereotypes" through computer science. [→ Shaw et al. 2023](#shaw-et-al-2023)
+`q1 i?` The same participant's group designed an interactive quilt patch depicting a Black woman computer scientist asserting competence against a skeptical supervisor, and she articulated aspirational, mentorship-oriented statements about teaching other students to "reverse the stereotypes" through computer science. [→ Shaw et al. 2023](#shaw-et-al-2023)
 
-`q1 i1` On an exit-ticket comparison, the focal participant reported positive affect ("fun," "interested," "conquerer") while two peers in the same workshop reported negative affect ("stressed," "overwhelmed"), and she stated in interview that the workshop "drew me closer to the field." [→ Shaw et al. 2023](#shaw-et-al-2023)
+`q1 i?` On an exit-ticket comparison, the focal participant reported positive affect ("fun," "interested," "conquerer") while two peers in the same workshop reported negative affect ("stressed," "overwhelmed"), and she stated in interview that the workshop "drew me closer to the field." [→ Shaw et al. 2023](#shaw-et-al-2023)
 
 ## Evidence
 
@@ -37,7 +37,7 @@ In a museum computing workshop using electronic quilting to enact womanist resto
 
 Shaw, M. S., Coleman, J. J., Thomas, E. E., & Kafai, Y. B. (2023). Restorying a Black girl's future: Using womanist storytelling methodologies to reimagine dominant narratives in computing education. *Journal of the Learning Sciences, 32*(1), 52-75. [https://doi.org/10.1080/10508406.2023.2179847](https://doi.org/10.1080/10508406.2023.2179847)
 
-`q1 · revelatory single-case study (Yin, 2009), with two-coder constant comparative analysis (one insider, one outsider), drawn from a 15-youth after-school museum workshop; no comparison group or quantified measure` · `i2 · rich, well-documented qualitative pattern of narrative deconstruction and identity work in the focal case, but limited to one participant analyzed in depth` · `n=1 focal case (a 15-year-old Black girl) from a workshop of 15 youth (14 consenting), 11 of whom were interviewed`
+`q1 · revelatory single-case study (Yin, 2009), with two-coder constant comparative analysis (one insider, one outsider), drawn from a 15-youth after-school museum workshop; no comparison group or quantified measure` · `i? · the abstract prints no effect size; the full text may` · `n=1 focal case (a 15-year-old Black girl) from a workshop of 15 youth (14 consenting), 11 of whom were interviewed`
 
 Fifteen youth from marginalized groups participated in a 4-week, 8-hour after-school museum workshop using [Restorying Computing Futures Through Electronic Quilting](../strategies/restorying-through-electronic-quilting.md). The authors trace one focal participant's narrative work in depth: her explicit naming of the group's dominant "who is a computer scientist" stereotype, her group's design of a counter-narrative interactive quilt patch, and her self-reported shifts in affect and aspiration toward computing, drawing on [Womanist Restorying](../theories/womanist-restorying.md) as the theoretical frame.
 

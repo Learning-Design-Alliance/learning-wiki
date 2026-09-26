@@ -14,13 +14,13 @@ sources:
     title: "Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J. (2013). Development and results from a survey on students views of experiments in lab classes and research. https://arxiv.org/abs/1307.5760"
     author: "Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J."
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Distinguishing classroom and research contexts in survey questions was a key outcome of student validation interviews
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Without specification, the term experiment evoked varied contexts for students, so paired questions clarifying classroom versus research contexts were added. [→ Zwickl 2013](#zwickl-2013)
@@ -31,7 +31,7 @@ sources:
 
 Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J. (2013). Development and results from a survey on students views of experiments in lab classes and research. https://arxiv.org/abs/1307.5760
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Finding from the 42 student validation interviews described in the design and validation section. Interviews also led to wording revisions minimizing technical jargon, such as simplifying "doing error analysis" to "calculating uncertainties."
 

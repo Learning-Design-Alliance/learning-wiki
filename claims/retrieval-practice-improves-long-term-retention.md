@@ -13,7 +13,7 @@ sources:
     title: "Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)"
     author: "Roediger, H. L., & Karpicke, J. D."
     q: 3
-    i: 3
+    i: "?"
     n: 180
   - id: rowland-2014
     resource: "https://doi.org/10.1037/a0037559"
@@ -38,9 +38,9 @@ Actively recalling information from memory (retrieval practice, or the "testing 
 
 ## Subclaims
 
-`q3 i3` Repeated testing beat repeated study at a one-week delay, 61% against 40% recall, after both groups had spent the same time with the passage. [→ Roediger & Karpicke 2006](#roediger-karpicke-2006)
+`q3 i?` Repeated testing beat repeated study at a one-week delay, 61% against 40% recall, after both groups had spent the same time with the passage. [→ Roediger & Karpicke 2006](#roediger-karpicke-2006)
 
-`q3 i3` The ordering reverses at a short delay: on a test taken five minutes after study, repeated study scored *higher* than repeated testing. The benefit is a property of the retention interval, not of the encoding session. [→ Roediger & Karpicke 2006](#roediger-karpicke-2006)
+`q3 i?` The ordering reverses at a short delay: on a test taken five minutes after study, repeated study scored *higher* than repeated testing. The benefit is a property of the retention interval, not of the encoding session. [→ Roediger & Karpicke 2006](#roediger-karpicke-2006)
 
 `q4 i2` Meta-analysis of testing against restudy put the mean effect at g = 0.50, and the advantage grew with the length of the retention interval. [→ Rowland 2014](#rowland-2014)
 
@@ -52,7 +52,7 @@ Actively recalling information from memory (retrieval practice, or the "testing 
 
 Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)
 
-`q3` · `i3` · `n=180`
+`q3` · `i? · the abstract prints no effect size; the full text may` · `n=180`
 
 Students read prose passages and then either re-read them or took free-recall tests, with total time equated. Retention was measured after 5 minutes, 2 days or 1 week. Repeated study produced the best immediate performance and the worst delayed performance; repeated testing inverted both. The dissociation between the 5-minute and 1-week results is the load-bearing part of this study: it shows that performance during learning is a misleading index of learning.
 

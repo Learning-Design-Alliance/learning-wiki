@@ -14,13 +14,13 @@ sources:
     title: "Smith, T. M., Walters, K., Griffin, M., Jones, W., Lennon, V., & Sanders, Z. (2021). The Better Math Teaching Network: Lessons Learned From a 5-Year Instructionally Focused NIC. American Institutes for Research & WestEd. https://www.bettermathteachingnetwork.org/"
     author: "Smith, T. M., Walters, K., Griffin, M., Jones, W., Lennon, V., & Sanders, Z."
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # PDSA testing of instructional routines provided a durable structure for teachers to reflect on and improve instruction over time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Teachers reported that focusing on routines and using PDSA cycles contributed to instructional improvement. [→ Smith 2021](#smith-2021)
@@ -31,7 +31,7 @@ sources:
 
 Smith, T. M., Walters, K., Griffin, M., Jones, W., Lennon, V., & Sanders, Z. (2021). The Better Math Teaching Network: Lessons Learned From a 5-Year Instructionally Focused NIC. American Institutes for Research & WestEd. https://www.bettermathteachingnetwork.org/
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Interview analysis of 24 network teachers in the Key Learnings section. All 24 "noted that the focus on routines" contributed to instructional improvement, and 11 specifically credited PDSA cycles; teachers also reported learning to use data differently to improve instruction.
 

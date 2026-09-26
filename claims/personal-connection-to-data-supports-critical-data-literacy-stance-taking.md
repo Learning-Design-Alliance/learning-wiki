@@ -13,21 +13,21 @@ sources:
     title: "Kahn, J., & Hall, R. (2026). An oldtimer and newcomers telling stories about models using open large datasets. *Journal of the Learning Sciences*. [https://doi.org/10.1080/10508406.2026.2624531](https://doi.org/10.1080/10508406.2026.2624531)"
     author: "Kahn, J., & Hall, R."
     q: 2
-    i: 1
+    i: "?"
     n: 27 prospective secondary teachers across two teacher-education courses (Mathematics Literacies, Human Geography)
 ---
 
 # Personal connection to data supports critical data-literacy stance-taking
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small · n=27 prospective secondary teachers across two teacher-education courses (Mathematics Literacies, Human Geography)
+> **Evidence** · 1 study · `q2` quasi-experiment · n=27 prospective secondary teachers across two teacher-education courses (Mathematics Literacies, Human Geography)
 
 When learners recognize a personal or moral stake in what a dataset represents — rather than treating it as an abstract external phenomenon — they are more likely to question what the data selects, aggregates, and omits, and to narrate their model-building choices in ways that invite an audience to do the same.
 
 ## Subclaims
-`q2 i1` When learners position themselves as participants in the phenomenon a dataset describes (e.g., recognizing themselves as consumers implicated in emissions data), they shift from reporting the model to taking a critical epistemic and moral stance on it. [→ Kahn & Hall 2026](#kahn-hall-2026)
+`q2 i?` When learners position themselves as participants in the phenomenon a dataset describes (e.g., recognizing themselves as consumers implicated in emissions data), they shift from reporting the model to taking a critical epistemic and moral stance on it. [→ Kahn & Hall 2026](#kahn-hall-2026)
 
-`q2 i0` Learners who explicitly narrate their model-building choices and invite peers to consider what the model means (rather than presenting it as settled fact) receive more substantive peer questions, prompting deeper exploration of the data's assumptions. [→ Kahn & Hall 2026](#kahn-hall-2026)
+`q2 i?` Learners who explicitly narrate their model-building choices and invite peers to consider what the model means (rather than presenting it as settled fact) receive more substantive peer questions, prompting deeper exploration of the data's assumptions. [→ Kahn & Hall 2026](#kahn-hall-2026)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ When learners recognize a personal or moral stake in what a dataset represents �
 
 Kahn, J., & Hall, R. (2026). An oldtimer and newcomers telling stories about models using open large datasets. *Journal of the Learning Sciences*. [https://doi.org/10.1080/10508406.2026.2624531](https://doi.org/10.1080/10508406.2026.2624531)
 
-`q2 · design study using interaction analysis of video-recorded performances across two classroom iterations, no comparison group` · `i1 · qualitative observations of emerging critical practice, not a quantified learning gain` · `n=27 prospective secondary teachers across two teacher-education courses (Mathematics Literacies, Human Geography)`
+`q2 · design study using interaction analysis of video-recorded performances across two classroom iterations, no comparison group` · `i? · the abstract prints no effect size; the full text may` · `n=27 prospective secondary teachers across two teacher-education courses (Mathematics Literacies, Human Geography)`
 
 Prospective teachers used the Gapminder open dataset and visualization tool to build and perform data stories about global health and wealth, following a [forage-remix-DIY pattern](../patterns/data-storytelling-forage-remix-diy.md). Interaction analysis of the performances found moments where learners "got personal" with the data — for example, questioning whether national-level CO2 measures adequately assigned responsibility to consumers like themselves — and in doing so shifted from presenting the model as a neutral display of facts to inviting peers into a critical, sometimes moral, discussion of what it meant. This pattern appeared in all groups in the Human Geography course but only 1 of 6 groups in Mathematics Literacies, tracking differences in how explicitly each course's instructor foregrounded social-justice framing.
 

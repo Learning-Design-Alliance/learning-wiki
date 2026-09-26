@@ -13,7 +13,7 @@ sources:
     title: "Clark, R. E. (1983). Reconsidering research on learning from media. *Review of Educational Research, 53*(4), 445–459. [https://doi.org/10.3102/00346543053004445](https://doi.org/10.3102/00346543053004445)"
     author: Clark, R. E.
     q: 3
-    i: 1
+    i: "?"
     n: n/a (literature synthesis)
   - id: levie-and-dickie-1973
     title: "Levie, W. H., & Dickie, K. (1973). The analysis and application of media. In R. Travers (Ed.), *The Second Handbook of Research on Teaching* (pp. 858–882). Rand McNally."
@@ -26,24 +26,24 @@ sources:
     title: "Lockee, B. B., Moore, M., & Burton, J. (2001). Old concerns with new distance education research. *Educause Quarterly, 24*(2), 60–62. Republished in R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/old_concerns_distance_education](https://edtechbooks.org/lidtfoundations/old_concerns_distance_education)"
     author: "Lockee, B. B., Moore, M., & Burton, J."
     q: 2
-    i: 1
+    i: "?"
     n: n/a
 ---
 
 # Media comparison studies produce uninterpretable "no significant difference" findings.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2`–`q3` · `i0`–`i1`
+> **Evidence** · 3 studies · `q2`–`q3` · `i0` negligible
 
 A "media comparison study" treats an entire delivery medium (e.g., distance vs. face-to-face instruction) as the independent variable and student achievement as the dependent variable. This design confounds learner characteristics, specific media attributes, instructional strategy, and underlying learning theory into a single undifferentiated "treatment," which makes the near-universal "no significant difference" result these studies produce uninterpretable rather than reassuring.
 
 ## Subclaims
 
-`q3 i1` Media comparison studies are fundamentally confounded because they fail to isolate specific media attributes (type of information representation, sensory modality, level of realism, feedback timing) as separate variables, instead treating the whole delivery medium as one functional unit. [→ Clark 1983](#clark-1983)
+`q3 i?` Media comparison studies are fundamentally confounded because they fail to isolate specific media attributes (type of information representation, sensory modality, level of realism, feedback timing) as separate variables, instead treating the whole delivery medium as one functional unit. [→ Clark 1983](#clark-1983)
 
 `q2 i1` Media attributes — not whole media categories — are the level at which a taxonomy of instructionally relevant properties can be meaningfully defined and tested. [→ Levie and Dickie 1973](#levie-and-dickie-1973)
 
-`q1 i0` A "no significant difference" result is an inconclusive null finding, not evidence of equivalence — much as a "not guilty" verdict does not mean "innocent" — yet researchers and administrators have repeatedly misinterpreted decades of such findings (collected in Russell's widely cited "No Significant Difference" compilation) as proof that delivery medium does not matter for learning. [→ Lockee, Moore, and Burton 2001](#lockee-moore-and-burton-2001)
+`q1 i?` A "no significant difference" result is an inconclusive null finding, not evidence of equivalence — much as a "not guilty" verdict does not mean "innocent" — yet researchers and administrators have repeatedly misinterpreted decades of such findings (collected in Russell's widely cited "No Significant Difference" compilation) as proof that delivery medium does not matter for learning. [→ Lockee, Moore, and Burton 2001](#lockee-moore-and-burton-2001)
 
 ## Evidence
 
@@ -51,7 +51,7 @@ A "media comparison study" treats an entire delivery medium (e.g., distance vs. 
 
 Clark, R. E. (1983). Reconsidering research on learning from media. *Review of Educational Research, 53*(4), 445–459. [https://doi.org/10.3102/00346543053004445](https://doi.org/10.3102/00346543053004445)
 
-`q3 · influential peer-reviewed narrative synthesis of decades of media-comparison research` · `i1 · not an effect-size claim — a methodological argument, not an experimental finding` · `n=n/a (literature synthesis)`
+`q3 · influential peer-reviewed narrative synthesis of decades of media-comparison research` · `i? · the abstract prints no effect size; the full text may` · `n=n/a (literature synthesis)`
 
 Clark's widely-cited synthesis argues that media do not directly cause learning gains; any apparent effect is confounded with the instructional method delivered through the medium, novelty effects from a new technology, and uncontrolled differences in the populations being compared. He concludes that comparing whole delivery media ("Web-based" vs. "face-to-face") tells researchers nothing about *why* an outcome occurred, because the actual instructional strategy used within each medium is left unmeasured and uncontrolled.
 
@@ -67,7 +67,7 @@ Levie and Dickie define media attributes as "the properties of stimulus material
 
 Lockee, B. B., Moore, M., & Burton, J. (2001). Old concerns with new distance education research. *Educause Quarterly, 24*(2), 60–62. Republished in R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/old_concerns_distance_education](https://edtechbooks.org/lidtfoundations/old_concerns_distance_education)
 
-`q2 · peer-reviewed methodological critique applying Clark (1983) and Levie & Dickie (1973) to distance-education research` · `i1 · not an effect-size claim` · `n=n/a`
+`q2 · peer-reviewed methodological critique applying Clark (1983) and Levie & Dickie (1973) to distance-education research` · `i? · no source text available to check; the entry prints no effect size` · `n=n/a`
 
 The authors apply Clark's and Levie & Dickie's critiques directly to early-2000s distance-education comparison research, arguing that the same confounds (learner characteristics, media attributes, instructional strategy, absence of any tested learning theory) that discredited earlier media-comparison studies were being repeated under a new name. They highlight the specific fallacy of treating "no significant difference" as proof of equivalence, and recommend that researchers either isolate specific media attributes/strategies as variables, or — when no generalizable theoretical question is actually at stake — conduct local program evaluation rather than claim generalizable research findings.
 

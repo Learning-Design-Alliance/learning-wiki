@@ -14,13 +14,13 @@ sources:
     title: "Falkenstein Kim, Pauley Claire, Kühn Simone. (2026). Investigating effects of day-to-day variations in environmental exposure on the human brain: study protocol for the Day2Day Environment project. BMC Neuroscience. https://doi.org/10.1186/s12868-026-01052-z"
     author: Falkenstein Kim, Pauley Claire, Kühn Simone
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Urban living is associated with higher activity in stress-related brain regions and reduced grey matter in dorsolateral prefrontal and pregenual anterior cingulate cortex after urban exposure during upbringing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Individuals living in urban environments show higher brain activity in stress-related regions, and reduced grey matter volume in dorsolateral prefrontal cortex and pregenual anterior cingulate cortex is associated with urban exposure during the first 15 years of life. [→ Falkenstein Kim 2026](#falkenstein-kim-2026)
@@ -31,7 +31,7 @@ sources:
 
 Falkenstein Kim, Pauley Claire, Kühn Simone. (2026). Investigating effects of day-to-day variations in environmental exposure on the human brain: study protocol for the Day2Day Environment project. BMC Neuroscience. https://doi.org/10.1186/s12868-026-01052-z
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 The protocol summarizes prior long-term living-environment studies, stating "individuals living in urban environments show higher brain activity in stress-related brain regions" and reduced grey matter volume tied to urban exposure during upbringing. No effect sizes are printed.
 

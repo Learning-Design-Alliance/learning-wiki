@@ -13,34 +13,34 @@ sources:
     title: "Flynn, J. R. (1999). Searching for justice: The discovery of IQ gains. *American Psychologist, 54*(1), 5-20. [doi:10.1037/0003-066X.54.1.5](https://doi.org/10.1037/0003-066X.54.1.5)"
     author: Flynn, J. R.
     q: 3
-    i: 2
+    i: "?"
     n: very large (aggregated national standardization samples)
   - id: neisser-1998
     title: "Neisser, U. (Ed.). (1998). *The rising curve: Long-term gains in IQ and related measures*. American Psychological Association."
     author: Neisser, U. (Ed.)
     q: 2
-    i: 1
+    i: "?"
     n: large (aggregated across contributing studies)
   - id: neisser-1997
     title: "Neisser, U. (1997). Rising scores on intelligence tests. *American Scientist, 85*(5), 440-447."
     author: Neisser, U.
     q: 2
-    i: 1
+    i: "?"
     n: not applicable (synthesis piece)
 ---
 
 # Average scores on intelligence tests have risen substantially across generations worldwide
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2`–`q3` · `i1`–`i2`
+> **Evidence** · 3 studies · `q2`–`q3`
 
 Known as the **Flynn effect**: raw scores on standardized intelligence tests have increased across successive generations in most countries where they have been tracked, at an average rate of roughly 3 IQ points per decade — a rate large enough that intelligence tests must be periodically re-standardized against a new population sample, or older norms will systematically overstate a test-taker's relative intelligence.
 
 ## Subclaims
 
-`q3 i2` Average raw scores on intelligence tests rose substantially across the 20th century in every country with adequate data, at an average rate of about 3 points per decade, though the size of the increase varies by country. [→ Flynn 1999](#flynn-1999)
+`q3 i?` Average raw scores on intelligence tests rose substantially across the 20th century in every country with adequate data, at an average rate of about 3 points per decade, though the size of the increase varies by country. [→ Flynn 1999](#flynn-1999)
 
-`q2 i1` Plausible contributors to the rise include better childhood nutrition, greater access to information and formal schooling, and increased familiarity with the standardized multiple-choice test format itself — but whether the rise reflects a genuine increase in underlying intelligence, rather than better test-taking skill or environmental advantage, remains an open, debated question. [→ Neisser 1998](#neisser-1998)
+`q2 i?` Plausible contributors to the rise include better childhood nutrition, greater access to information and formal schooling, and increased familiarity with the standardized multiple-choice test format itself — but whether the rise reflects a genuine increase in underlying intelligence, rather than better test-taking skill or environmental advantage, remains an open, debated question. [→ Neisser 1998](#neisser-1998)
 
 ## Evidence
 
@@ -48,7 +48,7 @@ Known as the **Flynn effect**: raw scores on standardized intelligence tests hav
 
 Flynn, J. R. (1999). Searching for justice: The discovery of IQ gains. *American Psychologist, 54*(1), 5-20. [doi:10.1037/0003-066X.54.1.5](https://doi.org/10.1037/0003-066X.54.1.5)
 
-`q3 · synthesis of standardization data across many countries · i2 · large, consistent cross-national effect (~3 IQ points/decade) · n=very large (aggregated national standardization samples)`
+`q3 · synthesis of standardization data across many countries · i? · the abstract prints no effect size; the full text may · n=very large (aggregated national standardization samples)`
 
 Flynn's synthesis of intelligence-test standardization data from numerous countries found a consistent pattern: each successive generation's raw scores outperform the previous generation's on the same test items, at a remarkably stable average rate across very different populations and testing traditions, forcing test publishers to periodically renorm tests against a new representative sample to keep IQ=100 meaningful as "average for this population, now."
 
@@ -56,7 +56,7 @@ Flynn's synthesis of intelligence-test standardization data from numerous countr
 
 Neisser, U. (Ed.). (1998). *The rising curve: Long-term gains in IQ and related measures*. American Psychological Association.
 
-`q2 · edited volume synthesizing multiple research programs · i1 · effect real but underlying cause and interpretation contested · n=large (aggregated across contributing studies)`
+`q2 · edited volume synthesizing multiple research programs · i? · no source text available to check; the entry prints no effect size · n=large (aggregated across contributing studies)`
 
 This edited volume brings together researchers proposing and evaluating competing explanations for the Flynn effect — improved nutrition, expanded schooling, greater exposure to abstract visual reasoning tasks in everyday life (television, video games), and growing test-taking sophistication — without settling on a single confirmed mechanism.
 
@@ -64,7 +64,7 @@ This edited volume brings together researchers proposing and evaluating competin
 
 Neisser, U. (1997). Rising scores on intelligence tests. *American Scientist, 85*(5), 440-447.
 
-`q2 · review/commentary · i1 · raises interpretive doubt rather than reporting a new effect size · n=not applicable (synthesis piece)`
+`q2 · review/commentary · i? · no source text available to check; the entry prints no effect size · n=not applicable (synthesis piece)`
 
 Neisser argues explicitly that a rising test score is not proof of rising underlying intelligence: the gains are concentrated on certain test subtypes (particularly abstract, non-verbal reasoning items) rather than uniformly across all measured abilities, which is more consistent with a shift in test-relevant skills and exposure than with a genuine, general increase in cognitive capacity.
 

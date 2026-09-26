@@ -14,19 +14,19 @@ sources:
     title: "Abdul Gafoor. K., & Kurukkan, A. (2016). Self-Regulated Learning: A Motivational Approach for Learning Mathematics. International Journal of Education and Psychological Research, 5(3). https://ijepr.org/"
     author: "Abdul Gafoor. K., & Kurukkan, A."
     q: 2
-    i: 1
+    i: "?"
   - id: abdul-gafoor-k-2016-2
     resource: "https://ijepr.org/"
     title: "Abdul Gafoor. K., & Kurukkan, A. (2016). Self-Regulated Learning: A Motivational Approach for Learning Mathematics. International Journal of Education and Psychological Research, 5(3). https://ijepr.org/"
     author: "Abdul Gafoor. K., & Kurukkan, A."
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Gender effects on self-regulated learning are mediated by culture, discipline, and age, with mixed direction across samples
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i1` small
+> **Evidence** · 2 studies · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In an Asian (Korean) sample, girls showed significantly lower academic self-efficacy, interest and self-regulation in mathematics than boys. [→ Abdul Gafoor. K. 2016](#abdul-gafoor-k-2016)
@@ -38,7 +38,7 @@ sources:
 
 Abdul Gafoor. K., & Kurukkan, A. (2016). Self-Regulated Learning: A Motivational Approach for Learning Mathematics. International Journal of Education and Psychological Research, 5(3). https://ijepr.org/
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 The review's conclusion on gender reports that in Asian cultures "the females tend to manifest less regulatory behaviours especially in mathematics", citing Lee, Lee and Bong (2014), a pattern not found in European and American samples.
 
@@ -48,7 +48,7 @@ The review's conclusion on gender reports that in Asian cultures "the females te
 
 Abdul Gafoor. K., & Kurukkan, A. (2016). Self-Regulated Learning: A Motivational Approach for Learning Mathematics. International Journal of Education and Psychological Research, 5(3). https://ijepr.org/
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 The review reports the opposite-direction findings from other studies: "Female students scored moderately higher than male students on help-seeking strategies, utility value and on performance anxiety", and girls reported more frequent self-regulation strategy use in maths (Cleary and Chen, 2009).
 

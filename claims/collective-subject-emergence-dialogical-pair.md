@@ -14,13 +14,13 @@ sources:
     title: "Park, Y. (2015). Understanding Synchronous Computer-Mediated Classroom Discussion through Cultural-Historical Activity Theory. The Turkish Online Journal of Educational Technology, 14(2). https://www.tojet.net/"
     author: Park, Y.
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # A collective unit of subjects emerges when two utterances form a dialogical pair in SCMD
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In a topical pair, initiator and responder share needs, object, tools, and context, functioning as one collective agency. [→ Park 2015](#park-2015)
@@ -31,7 +31,7 @@ sources:
 
 Park, Y. (2015). Understanding Synchronous Computer-Mediated Classroom Discussion through Cultural-Historical Activity Theory. The Turkish Online Journal of Educational Technology, 14(2). https://www.tojet.net/
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Discourse analysis of SCMD transcript excerpts (e.g., Henry and Amy's proofreading exchange, Session 13) shows the pair shares topic, needs, SCMC technology and language, and situational context, satisfying "the conditions for the formation of an activity system."
 

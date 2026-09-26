@@ -12,7 +12,7 @@ sources:
     title: "German, T. P., & Barrett, H. C. (2005). Functional fixedness in a technologically sparse culture. *Psychological Science, 16*(1), 1-5."
     author: "German, T. P., & Barrett, H. C."
     q: 2
-    i: 1
+    i: "?"
     n: unreported in secondary source
   - id: arduini-van-hoose-classroom-example
     resource: "https://edpsych.pressbooks.sunycreate.cloud"
@@ -32,7 +32,7 @@ Functional fixedness is a tendency to regard the functions of objects and ideas 
 
 ## Subclaims
 
-`q2 i1` Functional fixedness reduces problem-solving success on tasks that require using a familiar object or concept in an atypical way, and the effect has been documented even in a technologically sparse culture, suggesting it is not simply an artifact of exposure to a single kind of object use. [→ German and Barrett 2005](#german-and-barrett-2005)
+`q2 i?` Functional fixedness reduces problem-solving success on tasks that require using a familiar object or concept in an atypical way, and the effect has been documented even in a technologically sparse culture, suggesting it is not simply an artifact of exposure to a single kind of object use. [→ German and Barrett 2005](#german-and-barrett-2005)
 
 `q1 i1` A related obstacle, response set (or mental set), is the tendency to keep framing each problem in a series the same way a previous problem was framed, even when that framing no longer fits — illustrated by a classroom nine-dot puzzle where students kept assuming lines could not extend beyond the dot matrix, though the instructions never actually said so. [→ Arduini-Van Hoose classroom example](#arduini-van-hoose-classroom-example)
 
@@ -42,7 +42,7 @@ Functional fixedness is a tendency to regard the functions of objects and ideas 
 
 German, T. P., & Barrett, H. C. (2005). Functional fixedness in a technologically sparse culture. *Psychological Science, 16*(1), 1-5.
 
-`q2 · experimental study` · `i1 · demonstrates the effect exists cross-culturally, not a specific effect-size claim from the secondary source` · `n=unreported in secondary source`
+`q2 · experimental study` · `i? · no source text available to check; the entry prints no effect size` · `n=unreported in secondary source`
 
 Cited via Arduini-Van Hoose, N. (2020), *Educational Psychology*, Problem-Solving chapter, https://edpsych.pressbooks.sunycreate.cloud, as the source for functional fixedness as a documented obstacle to problem-solving; the primary study's full method and sample size were not available in that secondary source and should be verified against the original publication before treating the cross-cultural claim as fully established from this citation alone.
 

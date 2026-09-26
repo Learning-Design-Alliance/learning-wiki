@@ -38,7 +38,7 @@ sources:
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q3 · i2`
+`q3 · i2 · medium effect, g = 0.69`
 
 The chapter reports Rowland's (2014) meta-analysis of 159 effect sizes: effects "were larger at retention intervals greater than 1 day ( g ¼ 0.69)" than at shorter intervals.
 
@@ -48,7 +48,7 @@ The chapter reports Rowland's (2014) meta-analysis of 159 effect sizes: effects 
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q3 · i2`
+`q3 · i2 · medium effect, g = 0.41`
 
 In the same meta-analysis reported by the chapter, the effect at "tion intervals less than 1 day ( g ¼ 0.41)" was smaller than at intervals greater than 1 day.
 

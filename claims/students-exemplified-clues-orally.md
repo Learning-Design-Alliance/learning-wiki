@@ -14,13 +14,13 @@ sources:
     title: "Sözen, G., & Özen-Yavuz, A. (2024). Proposing a course schedule for architectural basic design studio guided by Bloom's Revised Taxonomy. Turkish Journal of Education, 13(4), 379-409. https://doi.org/10.19128/turje.1495965"
     author: "Sözen, G., & Özen-Yavuz, A."
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Students exemplified discovered clues when explaining their designs orally
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` During the studio process, students were observed to exemplify the clues they discovered while explaining their designs orally, indicating the clues played an active role in perception and comprehension. [→ Sözen 2024](#sozen-2024)
@@ -31,7 +31,7 @@ sources:
 
 Sözen, G., & Özen-Yavuz, A. (2024). Proposing a course schedule for architectural basic design studio guided by Bloom's Revised Taxonomy. Turkish Journal of Education, 13(4), 379-409. https://doi.org/10.19128/turje.1495965
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Observational finding from the 14-week studio trial with 113 students. The article reports that "it was observed that students exemplified the clues they discovered while explaining their designs orally," indicating clues supported perception and comprehension of design concepts.
 

@@ -14,13 +14,13 @@ sources:
     title: "Gray, C. M., & Howard, C. D. (2014). Designerly talk in non-pedagogical social spaces. Journal of Learning Design, 7(1), 40-58. https://doi.org/10.5204/jld.v7i1.153"
     author: "Gray, C. M., & Howard, C. D."
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Four types of designerly talk manifest in student-managed social network spaces: tool selection, professional identity, skill-sharing coordination, and ethical design discussion
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Designerly talk manifested in four distinct ways across exemplar threads: quasi-professional tool selection advice, professional domain identity formation, coordination of peer skill-sharing, and extended ethical debate about designed artefacts. [→ Gray 2014](#gray-2014)
@@ -31,7 +31,7 @@ sources:
 
 Gray, C. M., & Howard, C. D. (2014). Designerly talk in non-pedagogical social spaces. Journal of Learning Design, 7(1), 40-58. https://doi.org/10.5204/jld.v7i1.153
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Qualitative case analysis of four exemplar threads selected from 50 coded threads. Cases included selecting professional tools (DSLR camera advice), selecting a professional domain name, Mad Skillz Club coordination, and being an ethical designer (anti-smoking artefact discussion at 27 comments).
 

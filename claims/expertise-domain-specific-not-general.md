@@ -14,13 +14,13 @@ sources:
     title: "Williams, A. M., Fawver, B., & Hodges, N. J. (2017). Using the 'expert performance approach' as a framework for examining and enhancing skill learning: Improving understanding of how experts learn. *Frontline Learning Research, 5*(3), 139–154. https://doi.org/10.14786/flr.v5i3.267"
     author: "Williams, A. M., Fawver, B., & Hodges, N. J."
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Evidence that domain-general perceptual-cognitive skills distinguish athletes is mixed; expertise appears domain-specific
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Evidence for individual differences in domain-generic basic visual and cognitive functions distinguishing experts is relatively weak or mixed, suggesting expertise arises through adaptations specific to the target domain. [→ Williams 2017](#williams-2017)
@@ -31,7 +31,7 @@ sources:
 
 Williams, A. M., Fawver, B., & Hodges, N. J. (2017). Using the 'expert performance approach' as a framework for examining and enhancing skill learning: Improving understanding of how experts learn. *Frontline Learning Research, 5*(3), 139–154. https://doi.org/10.14786/flr.v5i3.267
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 The review reports, citing Voss et al. (2010), that evidence for domain-generic skill differences is "relatively weak or at best mixed", whereas experts are consistently differentiated from novices on domain-specific perceptual-cognitive skills such as picking up biological motion, pattern recognition, and knowledge of situational probabilities. It attributes domain specificity to Ericsson and Kintsch (1995).
 

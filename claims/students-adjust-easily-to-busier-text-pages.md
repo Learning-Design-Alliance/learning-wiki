@@ -14,13 +14,13 @@ sources:
     title: "Manzo, Anthony V. (1977). 'Imbedded Aids' to Readers: Alternatives to Traditional Textual Material. https://eric.ed.gov/?id=ED136196"
     author: Manzo, Anthony V.
     q: 1
-    i: 1
+    i: "?"
 ---
 
 # Students do not appear to have great difficulty adjusting to a more 'busy' page when assistance and enrichment units are woven into textual material.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case · `i1` small
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Students do not appear to have great difficulty in adjusting to a more 'busy' page. [→ Manzo 1977](#manzo-1977)
@@ -31,7 +31,7 @@ sources:
 
 Manzo, Anthony V. (1977). 'Imbedded Aids' to Readers: Alternatives to Traditional Textual Material. https://eric.ed.gov/?id=ED136196
 
-`q1 · i1`
+`q1 · i? · the article prints no effect size for this finding`
 
 The article offers this as an author observation from the study rather than a tested comparison; no statistic or effect size is printed for it, and it is reported here with that hedging intact.
 

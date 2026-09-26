@@ -13,20 +13,20 @@ sources:
     title: "Rotton, J., & Kelly, I. W. (1985). Much ado about the full moon: A meta-analysis of lunar-lunacy research. *Psychological Bulletin, 97*(2), 286-306. [https://doi.org/10.1037/0033-2909.97.2.286](https://doi.org/10.1037/0033-2909.97.2.286)"
     author: "Rotton, J., & Kelly, I. W."
     q: 4
-    i: 3
+    i: "?"
     n: aggregated across ~40 studies
 ---
 
 # Illusory correlations, like the belief that a full moon affects behavior, persist through confirmation bias despite having no basis in evidence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i3` large · n=aggregated across ~40 studies
+> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · n=aggregated across ~40 studies
 
 People can perceive a relationship between two variables that does not actually exist — an illusory correlation — and go on believing it even when the underlying rate of the supposedly-related behavior is constant.
 
 ## Subclaims
 
-`q4 i3` A meta-analysis of nearly 40 studies found no relationship between lunar phase and human behavior, contradicting the widespread popular belief that behavior becomes stranger during a full moon. [→ Rotton & Kelly 1985](#rotton-kelly-1985)
+`q4 i?` A meta-analysis of nearly 40 studies found no relationship between lunar phase and human behavior, contradicting the widespread popular belief that behavior becomes stranger during a full moon. [→ Rotton & Kelly 1985](#rotton-kelly-1985)
 
 ## Evidence
 
@@ -34,7 +34,7 @@ People can perceive a relationship between two variables that does not actually 
 
 Rotton, J., & Kelly, I. W. (1985). Much ado about the full moon: A meta-analysis of lunar-lunacy research. *Psychological Bulletin, 97*(2), 286-306. [https://doi.org/10.1037/0033-2909.97.2.286](https://doi.org/10.1037/0033-2909.97.2.286)
 
-`q4 · meta-analysis of nearly 40 prior studies · i3 · consistent null result across the pooled studies · n=aggregated across ~40 studies`
+`q4 · meta-analysis of nearly 40 prior studies · i? · no source text available to check; the entry prints no effect size · n=aggregated across ~40 studies`
 
 Rotton and Kelly pooled the results of nearly 40 published studies that had tested whether measures of human behavior (crime rates, psychiatric admissions, calls to crisis lines, and similar records) varied with the phase of the moon. The pooled result found no reliable relationship between lunar phase and any of these behavioral measures. The popular belief persists anyway: people notice unusual behavior that happens to occur during a full moon and remember it, while failing to notice that unusual behavior occurs at essentially the same rate during every other phase of the lunar cycle — the noticing itself is not random, even though the underlying behavior is.
 

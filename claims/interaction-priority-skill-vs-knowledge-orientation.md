@@ -14,13 +14,13 @@ sources:
     title: "Miyazoe, T., & Anderson, T. (2010). Empirical Research on Learners' Perceptions: Interaction Equivalency Theorem in Blended Learning. European Journal of Open, Distance and E-Learning. http://www.eurodl.org/?article=397"
     author: "Miyazoe, T., & Anderson, T."
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Students prioritize teacher interaction in skill-oriented language courses but show no unified preference in knowledge-oriented general education courses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Language (skill-oriented) course students ranked the instructor as the key to their learning, while general education (knowledge-oriented) course expectations showed no unified tendency. [→ Miyazoe 2010](#miyazoe-2010)
@@ -31,7 +31,7 @@ sources:
 
 Miyazoe, T., & Anderson, T. (2010). Empirical Research on Learners' Perceptions: Interaction Equivalency Theorem in Blended Learning. European Journal of Open, Distance and E-Learning. http://www.eurodl.org/?article=397
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 Survey-based comparison of priority rankings between skill-oriented and knowledge-oriented course perceptions (Figure 4), coded into six patterns. The article reports the instructor-first pattern for language classes and no unified tendency for general education classes; no effect size or test statistic is printed.
 

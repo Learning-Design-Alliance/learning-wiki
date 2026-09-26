@@ -14,13 +14,13 @@ sources:
     title: "Miyazoe, T., & Anderson, T. (2010). Empirical Research on Learners' Perceptions: Interaction Equivalency Theorem in Blended Learning. European Journal of Open, Distance and E-Learning. http://www.eurodl.org/?article=397"
     author: "Miyazoe, T., & Anderson, T."
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # Students' general expectations of interaction for learning quality show no single priority order common to all
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` General expectations regarding learning quality were diverse with no recognizable pattern, supporting the hypothesis that no priority order suits all students in all situations. [→ Miyazoe 2010](#miyazoe-2010)
@@ -31,7 +31,7 @@ sources:
 
 Miyazoe, T., & Anderson, T. (2010). Empirical Research on Learners' Perceptions: Interaction Equivalency Theorem in Blended Learning. European Journal of Open, Distance and E-Learning. http://www.eurodl.org/?article=397
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 General-perception item of the ranking inventory administered to 236 students across four universities, coded into six priority patterns. The article reports diverse expectations with no recognizable pattern; no test statistic is printed.
 

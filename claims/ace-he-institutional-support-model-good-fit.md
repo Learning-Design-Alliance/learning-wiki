@@ -14,13 +14,13 @@ sources:
     title: "Graham, C., Borup, J., Tuiloma, S., Martínez Arias, A., Parra Caicedo, D., Larson, R. (2023). Institutional support for Academic Engagement in online and blended learning environments: Exploring affective, behavioral, and cognitive dimensions. Online Learning, 27(3), 4-40. https://doi.org/10.24059/olj.v27i3.4001"
     author: Graham, C., Borup, J., Tuiloma, S., Martínez Arias, A., Parra Caicedo, D., Larson, R.
     q: 3
-    i: 1
+    i: "?"
 ---
 
 # The ACE-HE measurement model of institutional support for ABC engagement also fits the data well
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` A confirmatory factor analysis of the institutional support model (three affective, three behavioral, two cognitive support elements) met all fit cutoffs (CFI 0.963, TLI 0.957, RMSEA 0.048, SRMR 0.027). [→ Graham 2023](#graham-2023)
@@ -31,7 +31,7 @@ sources:
 
 Graham, C., Borup, J., Tuiloma, S., Martínez Arias, A., Parra Caicedo, D., Larson, R. (2023). Institutional support for Academic Engagement in online and blended learning environments: Exploring affective, behavioral, and cognitive dimensions. Online Learning, 27(3), 4-40. https://doi.org/10.24059/olj.v27i3.4001
 
-`q3 · i1`
+`q3 · i? · the article prints no effect size for this finding`
 
 CFA on the same survey (n = 1253) tested the institutional support measurement model built from the ACE framework's support elements. Table 7 reports CFI 0.963, TLI 0.957, RMSEA 0.048, SRMR 0.027; all standardized loadings were significant and greater than .9.
 

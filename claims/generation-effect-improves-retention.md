@@ -13,13 +13,13 @@ sources:
     title: "Slamecka, N. J., & Graf, P. (1978). The generation effect: Delineation of a phenomenon. *Journal of Experimental Psychology: Human Learning and Memory, 4*(6), 592–604. [doi:10.1037/0278-7393.4.6.592](https://doi.org/10.1037/0278-7393.4.6.592)"
     author: "Slamecka, N. J., & Graf, P."
     q: 3
-    i: 2
+    i: "?"
   - id: bertsch-et-al-2007
     resource: "https://doi.org/10.3758/BF03193441"
     title: "Bertsch, S., Pesta, B. J., Wiscott, R., & McDaniel, M. A. (2007). The generation effect: A meta-analytic review. *Memory & Cognition, 35*(2), 201–210. [doi:10.3758/BF03193441](https://doi.org/10.3758/BF03193441)"
     author: "Bertsch, S., Pesta, B. J., Wiscott, R., & McDaniel, M. A."
     q: 4
-    i: 2
+    i: "?"
 ---
 
 # Generation Effect Improves Retention
@@ -31,11 +31,11 @@ Information that learners actively generate (completing a word, producing an ans
 
 ## Subclaims
 
-`q3 i2` Across five experiments, words the learner generated from a cue and a rule were recognised and recalled better than words simply read, with study time and materials otherwise matched. [→ Slamecka & Graf 1978](#slamecka-graf-1978)
+`q3 i?` Across five experiments, words the learner generated from a cue and a rule were recognised and recalled better than words simply read, with study time and materials otherwise matched. [→ Slamecka & Graf 1978](#slamecka-graf-1978)
 
-`q4 i2` Meta-analysis confirmed a positive overall generation effect and found it strongly moderated — by the type of material, the generation task, and whether the test was recall or recognition. [→ Bertsch et al. 2007](#bertsch-et-al-2007)
+`q4 i?` Meta-analysis confirmed a positive overall generation effect and found it strongly moderated — by the type of material, the generation task, and whether the test was recall or recognition. [→ Bertsch et al. 2007](#bertsch-et-al-2007)
 
-`q4 i2` The effect is best attested for simple verbal materials generated from a rule. Evidence for complex or novel material, where the learner may not be able to generate anything correct, is much weaker. [→ Bertsch et al. 2007](#bertsch-et-al-2007)
+`q4 i?` The effect is best attested for simple verbal materials generated from a rule. Evidence for complex or novel material, where the learner may not be able to generate anything correct, is much weaker. [→ Bertsch et al. 2007](#bertsch-et-al-2007)
 
 ## Evidence
 
@@ -43,7 +43,7 @@ Information that learners actively generate (completing a word, producing an ans
 
 Slamecka, N. J., & Graf, P. (1978). The generation effect: Delineation of a phenomenon. *Journal of Experimental Psychology: Human Learning and Memory, 4*(6), 592–604. [doi:10.1037/0278-7393.4.6.592](https://doi.org/10.1037/0278-7393.4.6.592)
 
-`q3` · `i2`
+`q3` · `i? · the abstract prints no effect size; the full text may`
 
 The originating demonstration: participants either read word pairs or generated the second word from the first plus a rule (a rhyme, a synonym, a category member). Generated words were better retained across five experiments and several test formats. The paper names the phenomenon and establishes its boundary conditions in the same place.
 
@@ -51,7 +51,7 @@ The originating demonstration: participants either read word pairs or generated 
 
 Bertsch, S., Pesta, B. J., Wiscott, R., & McDaniel, M. A. (2007). The generation effect: A meta-analytic review. *Memory & Cognition, 35*(2), 201–210. [doi:10.3758/BF03193441](https://doi.org/10.3758/BF03193441)
 
-`q4` · `i2`
+`q4` · `i? · no source text available to check; the entry prints no effect size`
 
 A meta-analytic review of the generation-effect literature. The pooled effect was positive and reliable, and the moderator analysis is the more useful result for design: effects varied substantially with material type and generation task, and the conditions producing the largest effects were not the ones most like authentic instruction.
 

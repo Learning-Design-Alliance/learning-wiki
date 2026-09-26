@@ -14,13 +14,13 @@ sources:
     title: "Doctor, R. M., & Marziani, A. W. (1971). Locus of Control of Reinforcement and Responsiveness to Social Influence. San Fernando Valley State College. https://eric.ed.gov/?id=ED055283"
     author: "Doctor, R. M., & Marziani, A. W."
     q: 3
-    i: 1
+    i: "?"
 ---
 
 # The study found no evidence that learning without awareness is a demonstrable phenomenon in verbal conditioning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Unaware subjects evidenced no conditioning, performing the same as randomly reinforced controls, supporting the conclusion that learning without awareness was not demonstrated. [→ Doctor 1971](#doctor-1971)
@@ -31,7 +31,7 @@ sources:
 
 Doctor, R. M., & Marziani, A. W. (1971). Locus of Control of Reinforcement and Responsiveness to Social Influence. San Fernando Valley State College. https://eric.ed.gov/?id=ED055283
 
-`q3 · i1`
+`q3 · i? · the article prints no effect size for this finding`
 
 Aware subjects evidenced significant performance gains while unaware subjects and controls showed essentially no change in emission of reinforced responses over trials; the article qualifies the conclusion because post-experimental reports imperfectly index cognitive states.
 

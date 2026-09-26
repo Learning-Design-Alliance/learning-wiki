@@ -17,7 +17,7 @@ sources:
 # 14-week interdisciplinary studio schedule progressing from 2D to 3D
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The course schedule structures a 14-week studio progressing from simple to complex across dimensional modes. The article states: "the gradual structure of the studio was described by devoting seven weeks to 2-dimensional works, 1-2 weeks to relief and folding works that define the transition from 2-dimensional to 3-dimensional, and six weeks to 3-dimensional works." The schedule was constantly updated based on instructors' observations of student learning speed and level.

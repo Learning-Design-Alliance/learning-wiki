@@ -14,19 +14,19 @@ sources:
     title: "Bergen, Doris. (2002). The Role of Pretend Play in Children's Cognitive Development. Early Childhood Research & Practice, v4 n1. http://ecrp.uiuc.edu/v4n1/bergen.htm"
     author: Bergen, Doris
     q: 2
-    i: 2
+    i: "?"
   - id: bergen-2002-2
     resource: "http://ecrp.uiuc.edu/v4n1/bergen.htm"
     title: "Bergen, Doris. (2002). The Role of Pretend Play in Children's Cognitive Development. Early Childhood Research & Practice, v4 n1. http://ecrp.uiuc.edu/v4n1/bergen.htm"
     author: Bergen, Doris
     q: 2
-    i: 1
+    i: "?"
 ---
 
 # High-quality pretend play is an important facilitator of perspective taking and later abstract thought
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment · `i1`–`i2`
+> **Evidence** · 2 studies · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The research on pretense and theory of mind suggests that high-quality pretend play facilitates perspective taking and later abstract thought. [→ Bergen 2002](#bergen-2002)
@@ -37,7 +37,7 @@ sources:
 
 Bergen, Doris. (2002). The Role of Pretend Play in Children's Cognitive Development. Early Childhood Research & Practice, v4 n1. http://ecrp.uiuc.edu/v4n1/bergen.htm
 
-`q2 · i2`
+`q2 · i? · the article prints no effect size for this finding`
 
 The review's synthesis of theory-of-mind and pretense research (false-belief studies, Lillard's analyses, longitudinal work by Jenkins and Astington) concludes that "high-quality pretend play is an important facilitator of perspective taking and later abstract thought."
 
@@ -47,7 +47,7 @@ The review's synthesis of theory-of-mind and pretense research (false-belief stu
 
 Bergen, Doris. (2002). The Role of Pretend Play in Children's Cognitive Development. Early Childhood Research & Practice, v4 n1. http://ecrp.uiuc.edu/v4n1/bergen.htm
 
-`q2 · i1`
+`q2 · i? · the article prints no effect size for this finding`
 
 The review reports, citing Jenkins and Astington, a longitudinal study in which children's theory of mind "predicted the extensiveness" of joint planning and role assignments during social pretense; theory of mind is described as a gradual acquisition from ages 2 to 6.
 

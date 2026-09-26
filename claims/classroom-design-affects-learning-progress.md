@@ -19,14 +19,14 @@ sources:
     title: "Barrett, P., Zhang, Y., Moffat, J., & Kobbacy, K. (2013). A holistic, multi-level analysis identifying the impact of classroom design on pupils' learning. *Building and Environment, 59*, 678–689. [doi:10.1016/j.buildenv.2012.09.016](https://doi.org/10.1016/j.buildenv.2012.09.016)"
     author: "Barrett, P., Zhang, Y., Moffat, J., & Kobbacy, K."
     q: 2
-    i: 2
+    i: "?"
     n: 751 pupils, 34 classrooms, 7 schools
   - id: cheryan-et-al-2014
     resource: "https://doi.org/10.1177/2372732214548677"
     title: "Cheryan, S., Ziegler, S. A., Plaut, V. C., & Meltzoff, A. N. (2014). Designing classrooms to maximize student achievement. *Policy Insights from the Behavioral and Brain Sciences, 1*(1), 4–12. [doi:10.1177/2372732214548677](https://doi.org/10.1177/2372732214548677)"
     author: "Cheryan, S., Ziegler, S. A., Plaut, V. C., & Meltzoff, A. N."
     q: 2
-    i: 1
+    i: "?"
     n: N/A (review)
 id: classroom-design-affects-learning-progress
 evidence_strength: moderate
@@ -35,7 +35,7 @@ evidence_strength: moderate
 # Classroom Design Affects Learning Progress
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2` quasi-experiment · `i1`–`i2`
+> **Evidence** · 3 studies · `q2` quasi-experiment · `i2` medium
 
 The physical characteristics of a classroom — daylight, air quality, temperature, acoustics, layout flexibility, learner ownership of the space, and the amount of visual stimulation on its walls — account for a measurable share of the variation in how much pupils learn over a school year. The claim is about *progress attributable to the room*, holding teacher and intake constant; it is not a claim that design substitutes for instruction.
 
@@ -45,11 +45,11 @@ The physical characteristics of a classroom — daylight, air quality, temperatu
 
 `q2 i2` Naturalness factors — daylight, air quality, and temperature — carry about half the total design effect, making them the highest-leverage targets in a retrofit. [→ Barrett et al. 2015](#barrett-et-al-2015)
 
-`q2 i2` An earlier pilot across 34 classrooms established the same multi-level structure and identified the six design parameters the later study confirmed. [→ Barrett et al. 2013](#barrett-et-al-2013)
+`q2 i?` An earlier pilot across 34 classrooms established the same multi-level structure and identified the six design parameters the later study confirmed. [→ Barrett et al. 2013](#barrett-et-al-2013)
 
 `q2 i1` Visual stimulation is curvilinear rather than monotonic: sparsely decorated and heavily decorated classrooms both underperform moderately decorated ones. [→ Barrett et al. 2015](#barrett-et-al-2015)
 
-`q2 i1` Both structural features (light, noise, temperature) and symbolic features (what the decoration signals about who belongs) affect achievement, and the symbolic channel operates independently of the physical one. [→ Cheryan et al. 2014](#cheryan-et-al-2014)
+`q2 i?` Both structural features (light, noise, temperature) and symbolic features (what the decoration signals about who belongs) affect achievement, and the symbolic channel operates independently of the physical one. [→ Cheryan et al. 2014](#cheryan-et-al-2014)
 
 ## Evidence
 
@@ -65,7 +65,7 @@ The HEAD (Holistic Evidence and Design) study surveyed 153 classrooms across 27 
 
 Barrett, P., Zhang, Y., Moffat, J., & Kobbacy, K. (2013). A holistic, multi-level analysis identifying the impact of classroom design on pupils' learning. *Building and Environment, 59*, 678–689. [doi:10.1016/j.buildenv.2012.09.016](https://doi.org/10.1016/j.buildenv.2012.09.016)
 
-`q2 · observational multi-level pilot study` · `i2 · substantial classroom-level variance attributed to design` · `n=751 pupils, 34 classrooms, 7 schools`
+`q2 · observational multi-level pilot study` · `i? · no source text available to check; the entry prints no effect size` · `n=751 pupils, 34 classrooms, 7 schools`
 
 The pilot that established the HEAD method. Classrooms in seven Blackpool schools were assessed against a holistic set of environmental parameters, and pupil progress data were modelled at classroom level. The study's contribution was methodological as much as substantive: it showed that design effects are detectable at the level of the individual *classroom* rather than the school, which is why school-level building-quality studies had produced weak and inconsistent results, and it isolated the six parameters — light, temperature, air quality, ownership, flexibility, and complexity/colour — that the 2015 study went on to test at scale.
 
@@ -73,7 +73,7 @@ The pilot that established the HEAD method. Classrooms in seven Blackpool school
 
 Cheryan, S., Ziegler, S. A., Plaut, V. C., & Meltzoff, A. N. (2014). Designing classrooms to maximize student achievement. *Policy Insights from the Behavioral and Brain Sciences, 1*(1), 4–12. [doi:10.1177/2372732214548677](https://doi.org/10.1177/2372732214548677)
 
-`q2 · narrative review of experimental and observational studies` · `i1 · effects reported qualitatively; no pooled estimate` · `n=N/A (review)`
+`q2 · narrative review of experimental and observational studies` · `i? · the abstract prints no effect size; the full text may` · `n=N/A (review)`
 
 A review synthesising the classroom-environment literature into two channels. **Structural features** — inadequate [natural light](../strategies/natural_lighting.md), poor air quality, uncomfortable temperature, and ambient noise — impair achievement, with the largest effects observed where conditions are worst rather than where they are being optimised further. **Symbolic features** — what is displayed on the walls, and the identity cues it carries — affect students' sense of belonging and, through it, their engagement and performance, with effects that differ by student group. The review's practical contribution is the separation of the two: a room can be structurally adequate and still signal to some students that the subject is not for them.
 
