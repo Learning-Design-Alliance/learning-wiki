@@ -10,7 +10,7 @@ generated:
 sources:
   - id: flavell-1979
     resource: "https://doi.org/10.1037/0003-066X.34.10.906"
-    title: "Flavell, J. H. (1979). Metacognition and cognitive monitoring. *American Psychologist, 34*(10), 906-911"
+    title: "Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive–developmental inquiry. *American Psychologist, 34*(10), 906-911"
     author: Flavell, J. H
 ---
 
@@ -60,5 +60,5 @@ Metacognition improves learning when learners can compare their current understa
 - Students annotate where they are confused and choose the next support to use.
 
 ## Key Sources
-- Flavell, J. H. (1979). Metacognition and cognitive monitoring. *American Psychologist, 34*(10), 906-911. [https://doi.org/10.1037/0003-066X.34.10.906](https://doi.org/10.1037/0003-066X.34.10.906)
+- Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive–developmental inquiry. *American Psychologist, 34*(10), 906-911. [https://doi.org/10.1037/0003-066X.34.10.906](https://doi.org/10.1037/0003-066X.34.10.906)
 - Dunlosky, J., & Metcalfe, J. (2008). *Metacognition*. Sage.

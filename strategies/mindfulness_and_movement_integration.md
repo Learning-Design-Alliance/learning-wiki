@@ -67,5 +67,5 @@ Mindfulness training reliably improves attention and reduces mind-wandering, and
 ## Key Sources
 - Mrazek, M. D., Franklin, M. S., Phillips, D. T., Baird, B., & Schooler, J. W. (2013). Mindfulness training improves working memory capacity and GRE performance while reducing mind wandering. *Psychological Science, 24*(5), 776–781. [doi:10.1177/0956797612459659](https://doi.org/10.1177/0956797612459659)
 - Zenner, C., Herrnleben-Kurz, S., & Walach, H. (2014). Mindfulness-based interventions in schools — a systematic review and meta-analysis. *Frontiers in Psychology, 5*, 6060–6099. [doi:10.3389/fpsyg.2014.00603](https://doi.org/10.3389/fpsyg.2014.00603)
-- Diamond, A. (2015). Effects of physical exercise on executive functions: Going beyond simply moving to moving with thought. *Frontiers in Psychology, 5*, 761. [doi:10.3389/fpsyg.2015.00761](https://doi.org/10.3389/fpsyg.2015.00761)
+- Diamond, A. (2015). Effects of physical exercise on executive functions: Going beyond simply moving to moving with thought. *Frontiers in Psychology, 5*, 761.
 - Kabat-Zinn, J. (1994). *Wherever you go, there you are: Mindfulness meditation in everyday life.* Hyperion.

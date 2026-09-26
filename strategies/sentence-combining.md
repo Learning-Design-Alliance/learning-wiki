@@ -66,5 +66,5 @@ Sentence combining is one of the best-supported writing interventions: meta-anal
 ## Key Sources
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
 - Saddler, B., & Graham, S. (2005). The effects of peer-assisted sentence-combining instruction on the writing of more and less skilled young writers. *Journal of Educational Psychology, 97*(1), 43–54.
-- Andrews, R., Torgerson, C., Beverton, S., Freeman, A., Locke, T., Low, G., Robinson, A., & Zhu, D. (2006). The effects of grammar teaching on writing development. *British Educational Research Journal, 32*(1), 39–55. [doi:10.1080/01411920500401997](https://doi.org/10.1080/01411920500401997)
+- Andrews, R., Torgerson, C., Beverton, S., Freeman, A., Locke, T., Low, G., Robinson, A., & Zhu, D. (2006). The effect of grammar teaching on writing development. *British Educational Research Journal, 32*(1), 39–55. [doi:10.1080/01411920500401997](https://doi.org/10.1080/01411920500401997)
 - Hunt, K. W. (1965). *Grammatical structures written at three grade levels.* NCTE.

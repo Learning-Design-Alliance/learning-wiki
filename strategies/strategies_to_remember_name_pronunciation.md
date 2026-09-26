@@ -69,6 +69,6 @@ Learning names is a low-cost relational practice with outsized effects on classr
 - **K–12 practice**: teachers asking students "Can you say it for me once so I get it right?" on day one, then correcting themselves publicly when they err — modeling that getting it right matters more than appearing competent.
 
 ## Key Sources
-- Kohli, R., & Solórzano, D. G. (2012). Teachers, please learn our names!: Racial microaggressions and the K-12 classroom. *Race Ethnicity and Education, 15*(4), 441–462. [doi:10.1080/13613324.2012.674026](https://doi.org/10.1080/13613324.2012.674026)
+- Kohli, R., & Solórzano, D. G. (2012). Teachers, please learn our names!: Racial microagressions and the K-12 classroom. *Race Ethnicity and Education, 15*(4), 441–462. [doi:10.1080/13613324.2012.674026](https://doi.org/10.1080/13613324.2012.674026)
 - Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)
 - Walton, G. M., & Cohen, G. L. (2011). A brief social-belonging intervention improves academic and health outcomes of minority students. *Science, 331*(6023), 1447–1451. [doi:10.1126/science.1198364](https://doi.org/10.1126/science.1198364)

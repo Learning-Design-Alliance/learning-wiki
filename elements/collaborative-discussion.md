@@ -10,7 +10,7 @@ generated:
 sources:
   - id: mercer-2012
     resource: "https://doi.org/10.1016/j.lcsi.2012.03.001"
-    title: "Mercer, N., & Howe, C. (2012). Explaining the dialogic processes of teaching and learning. *Learning, Culture and Social Interaction, 1*(1), 12-21"
+    title: "Mercer, N., & Howe, C. (2012). Explaining the dialogic processes of teaching and learning: The value and potential of sociocultural theory. *Learning, Culture and Social Interaction, 1*(1), 12-21"
     author: "Mercer, N., & Howe, C"
 ---
 
@@ -51,4 +51,4 @@ Collaborative discussion is the element in which learners build understanding to
 - Small-group discussion where learners must build a shared interpretation from different evidence.
 
 ## Key Sources
-- Mercer, N., & Howe, C. (2012). Explaining the dialogic processes of teaching and learning. *Learning, Culture and Social Interaction, 1*(1), 12-21. [https://doi.org/10.1016/j.lcsi.2012.03.001](https://doi.org/10.1016/j.lcsi.2012.03.001)
+- Mercer, N., & Howe, C. (2012). Explaining the dialogic processes of teaching and learning: The value and potential of sociocultural theory. *Learning, Culture and Social Interaction, 1*(1), 12-21. [https://doi.org/10.1016/j.lcsi.2012.03.001](https://doi.org/10.1016/j.lcsi.2012.03.001)

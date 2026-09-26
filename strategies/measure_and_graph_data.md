@@ -70,6 +70,6 @@ Measurement grounds abstract concepts in observable quantities, and graphing ext
 
 ## Key Sources
 - Kosslyn, S. M. (2006). *Graph design for the eye and mind*. Oxford University Press.
-- Shah, P., & Hoeffner, J. (2002). Review of research on the comprehension of data graphs. *Educational Psychology Review, 14*(1), 47–69. [doi:10.1023/A:1013180410169](https://doi.org/10.1023/A:1013180410169)
+- Shah, P., & Hoeffner, J. (2002). Review of graph comprehension research: Implications for instruction. *Educational Psychology Review, 14*(1), 47–69. [doi:10.1023/A:1013180410169](https://doi.org/10.1023/A:1013180410169)
 - Friel, S. N., Curcio, F. R., & Bright, G. W. (2001). Making sense of graphs: Critical factors influencing comprehension and instructional implications. *Journal for Research in Mathematics Education, 32*(2), 124–158. [doi:10.2307/749671](https://doi.org/10.2307/749671)
 - National Research Council. (2012). *A framework for K–12 science education: Practices, crosscutting concepts, and core ideas*. The National Academies Press. [doi:10.17226/13165](https://doi.org/10.17226/13165)

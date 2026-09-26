@@ -68,5 +68,5 @@ Publishing for real readers changes both motivation and revision behavior: when 
 ## Key Sources
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
 - Black, R. W. (2005). Access and affiliation: The literacy and composition practices of English-language learners in an online fanfiction community. *Journal of Adolescent & Adult Literacy, 49*(2), 118–128. [doi:10.1598/JAAL.49.2.4](https://doi.org/10.1598/JAAL.49.2.4)
-- Magnifico, A. M. (2010). Writing for whom? Cognition and motivation in an English writing classroom. *Written Communication, 27*(4), 367–402.
+- Magnifico, A. M. (2010). Writing for whom? Cognition and motivation in an English writing classroom. *Written Communication, 27*(4), 367–402. [doi:10.1080/00461520.2010.493470](https://doi.org/10.1080/00461520.2010.493470)
 - Hidi, S., & Renninger, K. A. (2006). The four-phase model of interest development. *Educational Psychologist, 41*(2), 111–127. [doi:10.1207/s15326985ep4102_4](https://doi.org/10.1207/s15326985ep4102_4)

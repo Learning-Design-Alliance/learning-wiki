@@ -75,5 +75,5 @@ Differentiation is fundamentally an assessment-driven practice: it works only wh
 - Tomlinson, C. A. (2001). *How to Differentiate Instruction in Mixed-Ability Classrooms* (2nd ed.). ASCD.
 - Deunk, M. I., Smale-Jacobse, A. E., de Boer, H., Doolard, S., & Bosker, R. J. (2018). Effective differentiation practices: A systematic review and meta-analysis of studies on the cognitive effects of differentiation practices in primary education. *Educational Research Review, 24*, 31–54. [doi:10.1016/j.edurev.2018.02.002](https://doi.org/10.1016/j.edurev.2018.02.002)
 - Connor, C. M., Morrison, F. J., Fishman, B. J., Schatschneider, C., & Underwood, P. (2007). Algorithm-guided individualized reading instruction. *Science, 315*(5811), 464–465. [doi:10.1126/science.1134513](https://doi.org/10.1126/science.1134513)
-- Hattie, J. A. C. (2009). *Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement*. Routledge.
+- Hattie, J. A. C. (2009). *Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement*. Routledge. [doi:10.4324/9780203887332](https://doi.org/10.4324/9780203887332)
 - Vygotsky, L. S. (1978). *Mind in Society: The Development of Higher Psychological Processes*. Harvard University Press.

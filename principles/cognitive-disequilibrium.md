@@ -10,7 +10,7 @@ generated:
 sources:
   - id: posner-1982
     resource: "https://doi.org/10.1002/sce.3730660207"
-    title: "Posner, G. J., Strike, K. A., Hewson, P. W., & Gertzog, W. A. (1982). Accommodation of a scientific conception. *Science Education, 66*(2), 211-227"
+    title: "Posner, G. J., Strike, K. A., Hewson, P. W., & Gertzog, W. A. (1982). Accommodation of a scientific conception: Toward a theory of conceptual change. *Science Education, 66*(2), 211-227"
     author: "Posner, G. J., Strike, K. A., Hewson, P. W., & Gertzog, W. A"
 ---
 
@@ -74,5 +74,5 @@ Cognitive disequilibrium is most useful when learners hold a stable but inaccura
 **Historical or scientific misconception challenges** — Students compare a common but flawed explanation against a stronger one using concrete evidence that the initial account cannot explain.
 
 ## Key Sources
-- Posner, G. J., Strike, K. A., Hewson, P. W., & Gertzog, W. A. (1982). Accommodation of a scientific conception. *Science Education, 66*(2), 211-227. [https://doi.org/10.1002/sce.3730660207](https://doi.org/10.1002/sce.3730660207)
+- Posner, G. J., Strike, K. A., Hewson, P. W., & Gertzog, W. A. (1982). Accommodation of a scientific conception: Toward a theory of conceptual change. *Science Education, 66*(2), 211-227. [https://doi.org/10.1002/sce.3730660207](https://doi.org/10.1002/sce.3730660207)
 - Limon, M. (2001). On the cognitive conflict as an instructional strategy for conceptual change. *Learning and Instruction, 11*(4-5), 357-380. [https://doi.org/10.1016/S0959-4752(00)00037-2](https://doi.org/10.1016/S0959-4752(00)00037-2)

@@ -73,7 +73,7 @@ Pre-class video works only when paired with accountability and application: stud
 **Flipped STEM courses (e.g., University of Washington's flipped introductory chemistry)** — Published implementations pairing short pre-class videos with in-class problem solving; studies report moderate learning gains over lecture-only formats [Investigating the effects of a flipped classroom on student learning.](https://doi.org/10.1187/cbe.14-08-0129) [+M]
 
 ## Key Sources
-- Guo, P. J., Kim, J., & Rubin, R. (2014). How video production affects student engagement in MOOCs. *Proceedings of the First ACM Conference on Learning @ Scale*, 41–50. [doi:10.1145/2556325.2566239](https://doi.org/10.1145/2556325.2566239)
+- Guo, P. J., Kim, J., & Rubin, R. (2014). How video production affects student engagement: An empirical study of MOOC videos. *Proceedings of the First ACM Conference on Learning @ Scale*, 41–50. [doi:10.1145/2556325.2566239](https://doi.org/10.1145/2556325.2566239)
 - Brame, C. J. (2016). Effective educational videos: Principles and guidelines for maximizing student learning from video content. *CBE—Life Sciences Education, 15*(4), es6. [doi:10.1187/cbe.16-03-0125](https://doi.org/10.1187/cbe.16-03-0125)
 - Jensen, J. L., Kummer, T. A., & Godoy, P. D. d. M. (2015). Improvements from a flipped classroom may simply be the fruits of active learning. *CBE—Life Sciences Education, 14*(1), ar5. [doi:10.1187/cbe.14-08-0129](https://doi.org/10.1187/cbe.14-08-0129)
 - Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/CBO9780511811678](https://doi.org/10.1017/CBO9780511811678)

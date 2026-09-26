@@ -77,5 +77,5 @@ Community of inquiry is most useful when learning depends on sustained discourse
 **Problem-centered cohort discussions** — Groups investigate a shared case or challenge over time, with instructor prompts that sustain both participation and conceptual depth.
 
 ## Key Sources
-- Garrison, D. R., Anderson, T., & Archer, W. (2000). Critical inquiry in a text-based environment. *The Internet and Higher Education, 2*(2-3), 87-105. [https://doi.org/10.1016/S1096-7516(00)00016-6](https://doi.org/10.1016/S1096-7516(00)00016-6)
+- Garrison, D. R., Anderson, T., & Archer, W. (2000). Critical inquiry in a text-based environment: Computer conferencing in higher education. *The Internet and Higher Education, 2*(2-3), 87-105. [https://doi.org/10.1016/S1096-7516(00)00016-6](https://doi.org/10.1016/S1096-7516(00)00016-6)
 - Garrison, D. R., & Arbaugh, J. B. (2007). Researching the community of inquiry framework. *The Internet and Higher Education, 10*(3), 157-172. [https://doi.org/10.1016/j.iheduc.2007.04.001](https://doi.org/10.1016/j.iheduc.2007.04.001)

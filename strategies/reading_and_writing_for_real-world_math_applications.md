@@ -72,4 +72,4 @@ Reading authentic quantitative texts builds the connection between abstract math
 - Pugalee, D. K. (2004). A comparison of verbal and written descriptions of students' problem solving processes. *Educational Studies in Mathematics, 55*(1–3), 27–47.
 - Kenney, J. M., Hancewicz, E., Heuer, L., Metsisto, D., & Tuttle, C. L. (2005). *Literacy strategies for improving mathematics instruction.* ASCD.
 - Boaler, J. (1993). Encouraging the transfer of 'school' mathematics to the 'real world' through the integration of process and content, context and culture. *Educational Studies in Mathematics, 25*(4), 341–373. [doi:10.1007/BF01273906](https://doi.org/10.1007/BF01273906)
-- Lave, J. (1988). *Cognition in practice: Mind, mathematics and culture in everyday life.* Cambridge University Press. [doi:10.2307/2073537](https://doi.org/10.2307/2073537)
+- Lave, J. (1988). *Cognition in practice: Mind, mathematics and culture in everyday life.* Cambridge University Press.

@@ -69,7 +69,7 @@ Extending wait-time beyond the typical sub-second classroom pause changes both t
 - **Recorded micro-lectures**: Instructors posting short captioned videos (e.g., via Panopto or YouTube) let students pause, rewind, and re-read captions — a scalable form of re-reading support.
 
 ## Key Sources
-- Rowe, M. B. (1974). Wait-time and rewards as instructional variables: Their influence on language, logic, and fate control. *Journal of Research in Science Teaching, 11*(2), 81–94. [doi:10.1002/tea.3660110202](https://doi.org/10.1002/tea.3660110202)
+- Rowe, M. B. (1974). Wait-time and rewards as instructional variables: Their influence on language, logic, and fate control. Part one — Wait time. *Journal of Research in Science Teaching, 11*(2), 81–94. [doi:10.1002/tea.3660110202](https://doi.org/10.1002/tea.3660110202)
 - Tobin, K. (1987). The role of wait time in higher cognitive level learning. *Review of Educational Research, 57*(1), 69–95. [doi:10.3102/00346543057001069](https://doi.org/10.3102/00346543057001069)
 - Callender, A. A., & McDaniel, M. A. (2009). The limited benefits of rereading educational texts. *Contemporary Educational Psychology, 34*(1), 30–41. [doi:10.1016/j.cedpsych.2008.07.001](https://doi.org/10.1016/j.cedpsych.2008.07.001)
 - Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)

@@ -70,6 +70,6 @@ The strategy works because committing to a decision before instruction creates t
 
 ## Key Sources
 - Flanagan, J. C. (1954). The critical incident technique. *Psychological Bulletin, 51*(4), 327–358. [doi:10.1037/h0061470](https://doi.org/10.1037/h0061470)
-- Thistlethwaite, J. E., Davies, D., Ekeocha, S., Kidd, J. M., MacDougall, C., Matthews, P., Purkis, J., & Clay, D. (2012). The effectiveness of case-based learning in health professional education: A BEME systematic review. *Medical Teacher, 34*(6), e421–e444. [doi:10.3109/0142159x.2012.680939](https://doi.org/10.3109/0142159x.2012.680939)
+- Thistlethwaite, J. E., Davies, D., Ekeocha, S., Kidd, J. M., MacDougall, C., Matthews, P., Purkis, J., & Clay, D. (2012). The effectiveness of case-based learning in health professional education. A BEME systematic review: BEME Guide No. 23. *Medical Teacher, 34*(6), e421–e444. [doi:10.3109/0142159x.2012.680939](https://doi.org/10.3109/0142159x.2012.680939)
 - Kapur, M. (2016). Examining productive failure, productive success, unproductive failure, and unproductive success in learning. *Educational Psychologist, 51*(2), 289–299. [doi:10.1080/00461520.2016.1155457](https://doi.org/10.1080/00461520.2016.1155457)
 - Kolodner, J. L. (1997). Educational implications of analogy: A view from case-based reasoning. *American Psychologist, 52*(1), 57–66. [doi:10.1037/0003-066X.52.1.57](https://doi.org/10.1037/0003-066X.52.1.57)

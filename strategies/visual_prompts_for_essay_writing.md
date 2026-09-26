@@ -74,4 +74,4 @@ The strategy works because concrete visual referents reduce the blank-page probl
 - Clark, J. M., & Paivio, A. (1991). Dual coding theory and education. *Educational Psychology Review, 3*(3), 149–210. [doi:10.1007/BF01320076](https://doi.org/10.1007/BF01320076)
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
 - Mayer, R. E. (2009). *Multimedia Learning* (2nd ed.). Cambridge University Press. [doi:10.1017/CBO9780511811678](https://doi.org/10.1017/CBO9780511811678)
-- Kellogg, R. T. (2008). Training writing skill: A cognitive developmental perspective. *Journal of Writing Research, 1*(1), 1–26. [doi:10.17239/jowr-2008.01.01.1](https://doi.org/10.17239/jowr-2008.01.01.1)
+- Kellogg, R. T. (2008). Training writing skills: A cognitive developmental perspective. *Journal of Writing Research, 1*(1), 1–26. [doi:10.17239/jowr-2008.01.01.1](https://doi.org/10.17239/jowr-2008.01.01.1)

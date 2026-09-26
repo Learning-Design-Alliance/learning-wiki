@@ -10,7 +10,7 @@ generated:
 sources:
   - id: locke-2002
     resource: "https://doi.org/10.1037/0003-066X.57.9.705"
-    title: "Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation. *American Psychologist, 57*(9), 705-717"
+    title: "Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation: A 35-year odyssey. *American Psychologist, 57*(9), 705-717"
     author: "Locke, E. A., & Latham, G. P"
 ---
 
@@ -50,4 +50,4 @@ Goal setting is the element in which learners or instructors establish clear tar
 - Learners set a process goal before practice and review it after feedback.
 
 ## Key Sources
-- Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation. *American Psychologist, 57*(9), 705-717. [https://doi.org/10.1037/0003-066X.57.9.705](https://doi.org/10.1037/0003-066X.57.9.705)
+- Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation: A 35-year odyssey. *American Psychologist, 57*(9), 705-717. [https://doi.org/10.1037/0003-066X.57.9.705](https://doi.org/10.1037/0003-066X.57.9.705)

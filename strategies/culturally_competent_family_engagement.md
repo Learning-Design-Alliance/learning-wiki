@@ -71,4 +71,4 @@ Family engagement interventions show consistent but modest academic benefits ove
 - Jeynes, W. H. (2007). The relationship between parental involvement and urban secondary school student academic achievement: A meta-analysis. *Urban Education, 42*(1), 82–110. [doi:10.1177/0042085906293818](https://doi.org/10.1177/0042085906293818)
 - Henderson, A. T., & Mapp, K. L. (2002). *A new wave of evidence: The impact of school, family, and community connections on student achievement.* National Center for Family & Community Connections with Schools, SEDL.
 - Ishimaru, A. M. (2014). When new relationships meet old narratives: The journey towards improved parent-school relations. *Teachers College Record, 116*(2), 1–46.
-- Christenson, S. L., & Sheridan, S. M. (2016). *Families and schools together: Building relationships for student success* (2nd ed.). APA. [doi:10.1037/14705-000](https://doi.org/10.1037/14705-000)
+- Christenson, S. L., & Sheridan, S. M. (2016). *Families and schools together: Building relationships for student success* (2nd ed.). APA.

@@ -14,7 +14,7 @@ sources:
     author: Dudai, Y
   - id: cepeda-2006
     resource: "https://doi.org/10.1037/0033-2909.132.3.354"
-    title: "Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks. *Psychological Bulletin, 132*(3), 354-380"
+    title: "Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin, 132*(3), 354-380"
     author: "Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D"
 ---
 
@@ -79,4 +79,4 @@ Memory consolidation matters because initial understanding is not the same as du
 
 ## Key Sources
 - Dudai, Y. (2004). The neurobiology of consolidations. *Neuron, 44*(1), 93-112. [https://doi.org/10.1146/annurev.psych.55.090902.142050](https://doi.org/10.1146/annurev.psych.55.090902.142050)
-- Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks. *Psychological Bulletin, 132*(3), 354-380. [https://doi.org/10.1037/0033-2909.132.3.354](https://doi.org/10.1037/0033-2909.132.3.354)
+- Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin, 132*(3), 354-380. [https://doi.org/10.1037/0033-2909.132.3.354](https://doi.org/10.1037/0033-2909.132.3.354)

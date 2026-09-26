@@ -10,7 +10,7 @@ generated:
 sources:
   - id: andrade-2005
     resource: "https://doi.org/10.3200/CTCH.53.1.27-31"
-    title: "Andrade, H. G. (2005). Teaching with rubrics. *College Teaching, 53*(1), 27-31"
+    title: "Andrade, H. G. (2005). Teaching with rubrics: The good, the bad, and the ugly. *College Teaching, 53*(1), 27-31"
     author: Andrade, H. G
 ---
 
@@ -50,4 +50,4 @@ Rubric design is the element in which criteria and performance levels are made e
 - Learners co-design rubric descriptors before assessing exemplars or peer work.
 
 ## Key Sources
-- Andrade, H. G. (2005). Teaching with rubrics. *College Teaching, 53*(1), 27-31. [https://doi.org/10.3200/CTCH.53.1.27-31](https://doi.org/10.3200/CTCH.53.1.27-31)
+- Andrade, H. G. (2005). Teaching with rubrics: The good, the bad, and the ugly. *College Teaching, 53*(1), 27-31. [https://doi.org/10.3200/CTCH.53.1.27-31](https://doi.org/10.3200/CTCH.53.1.27-31)

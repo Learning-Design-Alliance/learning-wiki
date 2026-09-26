@@ -78,7 +78,7 @@ Social annotation converts passive reading into elaborative, generative activity
 - **Annotated syllabus co-construction** — students annotate the course syllabus in week one, asking questions and surfacing norms, as a low-stakes introduction to the practice.
 
 ## Key Sources
-- Zhu, X., Pöyry, E., Peltonen, J., & Nissinen, K. (2020). Peer comments enhance student engagement and interaction in course-related social annotation. *Computers & Education, 159*, 103849. [doi:10.1016/j.compedu.2020.103849](https://doi.org/10.1016/j.compedu.2020.103849)
+- Zhu, X., Pöyry, E., Peltonen, J., & Nissinen, K. (2020). Peer comments enhance student engagement and interaction in course-related social annotation. *Computers & Education, 159*, 103849.
 - Novak, E., Razzouk, R., & Johnson, T. E. (2012). The educational use of social annotation tools in higher education: A literature review. *The Internet and Higher Education, 15*(1), 39–49. [doi:10.1016/j.iheduc.2011.09.002](https://doi.org/10.1016/j.iheduc.2011.09.002)
 - Kalir, J. H., & Garcia, A. (2019). *Annotation*. MIT Press.
 - Chi, M. T. H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219–243. [doi:10.1080/00461520.2014.965823](https://doi.org/10.1080/00461520.2014.965823)

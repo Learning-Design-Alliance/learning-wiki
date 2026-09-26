@@ -73,7 +73,7 @@ Goal setting is one of the most robustly supported motivational interventions in
 
 ## Key Sources
 - Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation: A 35-year odyssey. *American Psychologist, 57*(9), 705–717. [doi:10.1037/0003-066x.57.9.705](https://doi.org/10.1037/0003-066x.57.9.705)
-- Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation. *Psychological Bulletin, 126*(5), 626–634.
+- Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation: A 35-year odyssey. *American Psychologist, 57*(9), 705–717. [doi:10.1037/0003-066x.57.9.705](https://doi.org/10.1037/0003-066x.57.9.705)
 - Morisano, D., Hirsh, J. B., Peterson, J. B., Pihl, R. O., & Shore, B. M. (2010). Setting, elaborating, and reflecting on personal goals improves academic performance. *Journal of Applied Psychology, 95*(2), 255–264. [doi:10.1037/a0018478](https://doi.org/10.1037/a0018478)
 - Schunk, D. H. (1990). Goal setting and self-efficacy during self-regulated learning. *Educational Psychologist, 25*(1), 71–86. [doi:10.1207/s15326985ep2501_6](https://doi.org/10.1207/s15326985ep2501_6)
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

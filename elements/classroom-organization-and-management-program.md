@@ -10,7 +10,7 @@ generated:
 sources:
   - id: oliver-2011
     resource: "https://www.sree.org"
-    title: "Oliver, R. M., Wehby, J. H., & Reschly, D. J. (2011). Teacher Classroom Management Practices: Effects on Disruptive or Aggressive Student Behavior. 2011 SREE Conference. https://www.sree.org"
+    title: "Oliver, R. M., Wehby, J. H., & Reschly, D. J. (2011). Teacher classroom management practices: Effects on disruptive or aggressive student behavior. https://www.sree.org"
     author: "Oliver, R. M., Wehby, J. H., & Reschly, D. J"
 ---
 
@@ -42,4 +42,4 @@ The Classroom Organization and Management Program (COMP) is a manualized classro
 -
 
 ## Key Sources
-- Oliver, R. M., Wehby, J. H., & Reschly, D. J. (2011). Teacher Classroom Management Practices: Effects on Disruptive or Aggressive Student Behavior. 2011 SREE Conference. https://www.sree.org. [doi:10.4073/csr.2011.4](https://doi.org/10.4073/csr.2011.4)
+- Oliver, R. M., Wehby, J. H., & Reschly, D. J. (2011). Teacher classroom management practices: Effects on disruptive or aggressive student behavior. https://www.sree.org. [doi:10.4073/csr.2011.4](https://doi.org/10.4073/csr.2011.4)

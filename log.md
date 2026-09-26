@@ -8,6 +8,10 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ---
 
+## 2026-09-26
+
+* **Correction**: citation pass across 476 pages — each DOI-bearing citation checked against its full Crossref record (first author, year, title, journal, volume, first page). Removed 67 DOIs that belong to other works (including five journal reviews cited as the reviewed book); rewrote 289 invented or shortened titles to the registry title where author, year and journal coordinates agree, or where the registry title equals the reading most pages already give; added 175 Crossref-verified DOIs to citations that omitted an agreed one; applied 39 registry corrections to journal, volume, issue or page. Citation conflicts 48 → 21, invented-title DOIs 105 → 32.
+
 ## 2026-09-25
 
 * **Correction**: [claims/peer-assisted-learning-improves-achievement](claims/peer-assisted-learning-improves-achievement.md) — Title and body rewritten to peer-assisted learning, matching the slug and inbound link; evidence added (Rohrbeck et al. 2003)

@@ -31,7 +31,7 @@ sources:
     n: large (aggregated)
   - id: deci-koestner-and-ryan-2001
     resource: "https://doi.org/10.3102/00346543071001001"
-    title: "Deci, E. L., Koestner, R., & Ryan, R. M. (2001). Extrinsic rewards and intrinsic motivation in education: Reconsidering the \"positive effects\" of rewards. *Review of Educational Research, 71*(1), 1-27. [doi:10.3102/00346543071001001](https://doi.org/10.3102/00346543071001001)"
+    title: "Deci, E. L., Koestner, R., & Ryan, R. M. (2001). Extrinsic Rewards and Intrinsic Motivation in Education: Reconsidered Once Again. *Review of Educational Research, 71*(1), 1-27. [doi:10.3102/00346543071001001](https://doi.org/10.3102/00346543071001001)"
     author: "Deci, E. L., Koestner, R., & Ryan, R. M."
     q: 3
     i: 1
@@ -81,7 +81,7 @@ Reaching a similar conclusion to Cameron and Pierce (1994) from a partly overlap
 
 ### Deci Koestner and Ryan 2001
 
-Deci, E. L., Koestner, R., & Ryan, R. M. (2001). Extrinsic rewards and intrinsic motivation in education: Reconsidering the "positive effects" of rewards. *Review of Educational Research, 71*(1), 1-27. [doi:10.3102/00346543071001001](https://doi.org/10.3102/00346543071001001)
+Deci, E. L., Koestner, R., & Ryan, R. M. (2001). Extrinsic Rewards and Intrinsic Motivation in Education: Reconsidered Once Again. *Review of Educational Research, 71*(1), 1-27. [doi:10.3102/00346543071001001](https://doi.org/10.3102/00346543071001001)
 
 `q3 · meta-analytic reconsideration/synthesis · i1 · modest, condition-dependent effect confirmed on education-relevant tasks · n=large (aggregated across studies specifically in educational contexts)`
 

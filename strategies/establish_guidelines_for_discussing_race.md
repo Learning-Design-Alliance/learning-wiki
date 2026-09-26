@@ -67,6 +67,6 @@ Race talk triggers identity threat and emotional arousal that can shut down prod
 ## Key Sources
 - Arao, B., & Clemens, K. (2013). From safe spaces to brave spaces: A new way to frame dialogue around diversity and social justice. In L. Landreman (Ed.), *The Art of Effective Facilitation* (pp. 135–150). Stylus Publishing.
 - Singleton, G. E. (2014). *Courageous Conversations About Race: A Field Guide for Achieving Equity in Schools* (2nd ed.). Corwin.
-- Sue, D. W., Capodilupo, C. M., Torino, G. C., Bucceri, J. M., Holder, A. M. B., Nadal, K. L., & Esquilin, M. (2007). Racial microaggressions in everyday life. *American Psychologist, 62*(4), 271–286. [doi:10.1037/0003-066X.62.4.271](https://doi.org/10.1037/0003-066X.62.4.271)
+- Sue, D. W., Capodilupo, C. M., Torino, G. C., Bucceri, J. M., Holder, A. M. B., Nadal, K. L., & Esquilin, M. (2007). Racial microaggressions in everyday life: Implications for clinical practice. *American Psychologist, 62*(4), 271–286. [doi:10.1037/0003-066X.62.4.271](https://doi.org/10.1037/0003-066X.62.4.271)
 - Edmondson, A. (1999). Psychological safety and learning behavior in work teams. *Administrative Science Quarterly, 44*(2), 350–383. [doi:10.2307/2666999](https://doi.org/10.2307/2666999)
 - Gurin, P., Nagda, B. A., & Zúñiga, X. (2013). *Dialogue Across Difference: Practice, Theory, and Research on Intergroup Dialogue*. Russell Sage Foundation.

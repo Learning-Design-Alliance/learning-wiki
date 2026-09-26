@@ -68,7 +68,7 @@ Visual clutter and decorative displays measurably draw young learners' attention
 - **Sensory bottles and calm-down corners in responsive classroom settings** — a portable, repetitive visual anchor paired with a defined re-entry routine.
 
 ## Key Sources
-- Fisher, A. V., Godwin, K. E., & Seltman, H. (2014). Visual environment, attention allocation, and learning in young children: When too much of a good thing is bad. *Psychological Science, 25*(7), 1362–1370. [doi:10.1177/0956797614533801](https://doi.org/10.1177/0956797614533801)
+- Fisher, A. V., Godwin, K. E., & Seltman, H. (2014). Visual environment, attention allocation, and learning in young children: When too much of a good thing may be bad. *Psychological Science, 25*(7), 1362–1370. [doi:10.1177/0956797614533801](https://doi.org/10.1177/0956797614533801)
 - Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the Science of Instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)
 - Dunn, W. (1997). The impact of sensory processing abilities on the daily lives of young children and their families: A conceptual model. *American Journal of Occupational Therapy, 51*(6), 394–404. [doi:10.1097/00001163-199704000-00005](https://doi.org/10.1097/00001163-199704000-00005)
 - Mesibov, G. B., Shea, V., & Schopler, E. (2004). *The TEACCH Approach to Autism Spectrum Disorders*. Springer. [doi:10.1007/978-0-306-48647-0](https://doi.org/10.1007/978-0-306-48647-0)

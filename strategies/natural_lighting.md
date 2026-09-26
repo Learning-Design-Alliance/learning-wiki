@@ -67,6 +67,6 @@ Daylighting is a physical-design strategy that operates on attention, circadian 
 
 ## Key Sources
 - Heschong Mahone Group. (1999). *Daylighting in schools: An investigation into the relationship between daylighting and human performance.* Pacific Gas and Electric Company.
-- Barrett, P., Zhang, Y., Moffat, J., & Kobbacy, K. (2015). A holistic, multi-level analysis identifying the impact of classroom design on pupils' learning. *Building and Environment, 89*, 118–133. [doi:10.1016/j.buildenv.2015.02.013](https://doi.org/10.1016/j.buildenv.2015.02.013)
+- Barrett, P., Zhang, Y., Moffat, J., & Kobbacy, K. (2015). The impact of classroom design on pupils' learning: Final results of a holistic, multi-level analysis. *Building and Environment, 89*, 118–133. [doi:10.1016/j.buildenv.2015.02.013](https://doi.org/10.1016/j.buildenv.2015.02.013)
 - Mott, M. S., Robinson, D. H., Walden, A., Burnette, J., & Rutherford, A. S. (2012). Illuminating the effects of dynamic lighting on student learning. *SAGE Open, 2*(2). [doi:10.1177/2158244012445585](https://doi.org/10.1177/2158244012445585)
 - Wargocki, P., & Wyon, D. P. (2017). Ten questions concerning thermal and indoor air quality effects on the performance of office work and schoolwork. *Building and Environment, 112*, 359–366. [doi:10.1016/j.buildenv.2016.11.020](https://doi.org/10.1016/j.buildenv.2016.11.020)

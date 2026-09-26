@@ -10,7 +10,7 @@ generated:
 sources:
   - id: cummins-1979
     resource: "https://eric.ed.gov/?id=ED257312"
-    title: "Cummins, James. (1979). Linguistic Interdependence and the Educational Development of Bilingual Children. Bilingual Education Paper Series, Vol. 3 No. 2. https://eric.ed.gov/?id=ED257312"
+    title: "Cummins, James. (1979). Linguistic interdependence and the educational development of bilingual children. https://eric.ed.gov/?id=ED257312"
     author: Cummins, James
 ---
 
@@ -46,4 +46,4 @@ In analyzing how home-school language switching affects reading development, the
 -
 
 ## Key Sources
-- Cummins, James. (1979). Linguistic Interdependence and the Educational Development of Bilingual Children. Bilingual Education Paper Series, Vol. 3 No. 2. https://eric.ed.gov/?id=ED257312. [doi:10.3102/00346543049002222](https://doi.org/10.3102/00346543049002222)
+- Cummins, James. (1979). Linguistic interdependence and the educational development of bilingual children. https://eric.ed.gov/?id=ED257312. [doi:10.3102/00346543049002222](https://doi.org/10.3102/00346543049002222)

@@ -65,7 +65,7 @@ Expressed confidence works primarily through self-efficacy and expectation effec
 - Writing-conference practice (e.g., in **Units of Study** workshop classrooms) where teachers open feedback by naming what the writer can already do before extending the challenge.
 
 ## Key Sources
-- Rosenthal, R., & Jacobson, L. (1968). Pygmalion in the classroom: Teacher expectation and pupils' intellectual development. *Holt, Rinehart & Winston.* [doi:10.2307/2092211](https://doi.org/10.2307/2092211)
+- Rosenthal, R., & Jacobson, L. (1968). Pygmalion in the classroom: Teacher expectation and pupils' intellectual development. *Holt, Rinehart & Winston.*
 - Bandura, A. (1997). *Self-efficacy: The exercise of control.* W. H. Freeman.
 - Jussim, L., & Harber, K. D. (2005). Teacher expectations and self-fulfilling prophecies: Knowns and unknowns, resolved and unresolved controversies. *Personality and Social Psychology Review, 9*(2), 131–155. [doi:10.1207/s15327957pspr0902_3](https://doi.org/10.1207/s15327957pspr0902_3)
 - Dweck, C. S. (2006). *Mindset: The new psychology of success.* Random House.

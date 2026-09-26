@@ -10,7 +10,7 @@ generated:
 sources:
   - id: kirschner-2006
     resource: "https://doi.org/10.1207/s15326985ep4102_1"
-    title: "Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during instruction does not work. *Educational Psychologist, 41*(2), 75-86"
+    title: "Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during instruction does not work: An analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching. *Educational Psychologist, 41*(2), 75-86"
     author: "Kirschner, P. A., Sweller, J., & Clark, R. E"
 ---
 
@@ -80,4 +80,4 @@ Direct instruction is strongest when learners need a clear model of what success
 
 ## Key Sources
 - Rosenshine, B. (2012). Principles of instruction. *American Educator, 36*(1), 12-19.
-- Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during instruction does not work. *Educational Psychologist, 41*(2), 75-86. [https://doi.org/10.1207/s15326985ep4102_1](https://doi.org/10.1207/s15326985ep4102_1)
+- Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during instruction does not work: An analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching. *Educational Psychologist, 41*(2), 75-86. [https://doi.org/10.1207/s15326985ep4102_1](https://doi.org/10.1207/s15326985ep4102_1)

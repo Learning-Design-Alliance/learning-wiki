@@ -69,7 +69,7 @@ Scenario analysis works because it situates abstract principles (honesty, fairne
 - **Teacher preparation**: Video-based dilemma scenarios (e.g., from the [Teaching Works](https://www.teachingworks.org) practice-based teacher education materials) ask novice teachers to analyze a classroom management moment, decide on a response, and defend it against alternatives.
 
 ## Key Sources
-- Thistlethwaite, J. E., Davies, D., Ekeocha, S., Kidd, J. M., MacDougall, C., Matthews, P., Purkis, J., & Clay, D. (2012). The effectiveness of case-based learning in health professional education. A BEME systematic review. *Medical Teacher, 34*(6), e421–e444. [doi:10.3109/0142159X.2012.680939](https://doi.org/10.3109/0142159X.2012.680939)
+- Thistlethwaite, J. E., Davies, D., Ekeocha, S., Kidd, J. M., MacDougall, C., Matthews, P., Purkis, J., & Clay, D. (2012). The effectiveness of case-based learning in health professional education. A BEME systematic review: BEME Guide No. 23. *Medical Teacher, 34*(6), e421–e444. [doi:10.3109/0142159X.2012.680939](https://doi.org/10.3109/0142159X.2012.680939)
 - Kolodner, J. L. (1997). Educational implications of analogy: A view from case-based reasoning. *American Psychologist, 52*(1), 57–66. [doi:10.1037/0003-066X.52.1.57](https://doi.org/10.1037/0003-066X.52.1.57)
 - Schank, R. C., Berman, T. R., & Macpherson, K. A. (1999). Learning by doing. In C. M. Reigeluth (Ed.), *Instructional-design theories and models: Vol. II* (pp. 161–181). Lawrence Erlbaum.
 - Berkowitz, M. W., & Gibbs, J. C. (1983). Measuring the developmental features of moral discussion. *Merrill-Palmer Quarterly, 29*(4), 399–410.

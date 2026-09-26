@@ -74,4 +74,4 @@ Contextual anchoring supports transfer and meaning-making, but only when the con
 - Carraher, T. N., Carraher, D. W., & Schliemann, A. D. (1985). Mathematics in the streets and in schools. *British Journal of Developmental Psychology, 3*(1), 21–29. [doi:10.1111/j.2044-835x.1985.tb00951.x](https://doi.org/10.1111/j.2044-835x.1985.tb00951.x)
 - Boaler, J. (1993). Encouraging the transfer of 'school' mathematics to the 'real world' through the integration of process and content, context and culture. *Educational Studies in Mathematics, 25*(4), 341–373. [doi:10.1007/BF01273906](https://doi.org/10.1007/BF01273906)
 - Brown, J. S., Collins, A., & Duguid, P. (1989). Situated cognition and the culture of learning. *Educational Researcher, 18*(1), 32–42. [doi:10.3102/0013189X018001032](https://doi.org/10.3102/0013189X018001032)
-- Lave, J. (1988). *Cognition in practice: Mind, mathematics and culture in everyday life.* Cambridge University Press. [doi:10.2307/2073537](https://doi.org/10.2307/2073537)
+- Lave, J. (1988). *Cognition in practice: Mind, mathematics and culture in everyday life.* Cambridge University Press.

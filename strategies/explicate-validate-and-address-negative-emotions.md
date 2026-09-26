@@ -71,6 +71,6 @@ Emotions are not noise around cognition; they are part of it. Control-value theo
 ## Key Sources
 - Pekrun, R. (2006). The control-value theory of achievement emotions: Assumptions, corollaries, and implications for educational research and practice. *Educational Psychology Review, 18*(4), 315–341. [doi:10.1007/s10648-006-9029-9](https://doi.org/10.1007/s10648-006-9029-9)
 - Hulleman, C. S., & Harackiewicz, J. M. (2009). Promoting interest and performance in high school science classes. *Science, 326*(5958), 1410–1412. [doi:10.1126/science.1177067](https://doi.org/10.1126/science.1177067)
-- Wilson, T. D., & Linville, P. W. (1982). Improving the performance of college freshmen with attributional techniques. *Journal of Personality and Social Psychology, 42*(2), 367–376. [doi:10.1037/0022-3514.42.2.367](https://doi.org/10.1037/0022-3514.42.2.367)
+- Wilson, T. D., & Linville, P. W. (1982). Improving the academic performance of college freshmen: Attribution therapy revisited. *Journal of Personality and Social Psychology, 42*(2), 367–376. [doi:10.1037/0022-3514.42.2.367](https://doi.org/10.1037/0022-3514.42.2.367)
 - Yeager, D. S., & Walton, G. M. (2011). Social-psychological interventions in education: They're not magic. *Review of Educational Research, 81*(2), 267–301. [doi:10.3102/0034654311405999](https://doi.org/10.3102/0034654311405999)
 - Zeidner, M. (1998). *Test anxiety: The state of the art*. Plenum Press.

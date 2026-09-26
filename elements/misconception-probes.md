@@ -75,4 +75,4 @@ Probes work because learners cannot revise a belief they do not realize they hol
 - Hestenes, D., Wells, M., & Swackhamer, G. (1992). Force Concept Inventory. *The Physics Teacher, 30*(3), 141–158. [doi:10.1119/1.2343497](https://doi.org/10.1119/1.2343497)
 - Mazur, E. (1997). *Peer Instruction: A User's Manual*. Prentice Hall.
 - Vosniadou, S., & Brewer, W. F. (1992). Mental models of the earth: A study of conceptual change in childhood. *Cognitive Psychology, 24*(4), 535–585. [doi:10.1016/0010-0285(92)90018-W](https://doi.org/10.1016/0010-0285(92)90018-W)
-- Chi, M. T. H. (2005). Common-sense conceptions of emergent processes: Why some misconceptions are robust. *Journal of the Learning Sciences, 14*(2), 161–199. [doi:10.1207/s15327809jls1402_1](https://doi.org/10.1207/s15327809jls1402_1)
+- Chi, M. T. H. (2005). Commonsense conceptions of emergent processes: Why some misconceptions are robust. *Journal of the Learning Sciences, 14*(2), 161–199. [doi:10.1207/s15327809jls1402_1](https://doi.org/10.1207/s15327809jls1402_1)

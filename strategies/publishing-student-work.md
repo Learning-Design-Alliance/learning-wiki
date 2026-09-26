@@ -66,7 +66,7 @@ Authentic audiences change how students approach their work: knowing that real r
 - **Citizen science** — projects like [Zooniverse](https://www.zooniverse.org) classrooms where student-contributed classifications feed real research datasets, publishing student effort into scientific work.
 
 ## Key Sources
-- Cohen, J. (2012). Writing between the lines: Composition in the social sciences. In J. Cohen, *The effects of audience awareness on writing* (see also: Cohen, J. (2019). Evaluating the effects of audience on student writing quality. *Journal of Educational Research*). [doi:10.1080/00220671.2018.1514356](https://doi.org/10.1080/00220671.2018.1514356)
+- Cohen, J. (2012). Writing between the lines: Composition in the social sciences. In J. Cohen, *The effects of audience awareness on writing* (see also: Cohen, J. (2019). Evaluating the effects of audience on student writing quality. *Journal of Educational Research*).
 - Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268. [doi:10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
 - Wiggins, G. (1998). *Educative assessment: Designing assessments to inform and improve student performance*. Jossey-Bass.

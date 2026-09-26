@@ -68,7 +68,7 @@ The physical environment functions as a channel of [instruction](../principles/c
 - **University of Melbourne Learning Environments research program** — evaluations of "next generation" learning spaces showing that space change alone does not change teaching without professional development.
 
 ## Key Sources
-- Fisher, A. V., Godwin, K. E., & Seltman, H. (2014). Visual environment, attention allocation, and learning in young children: When too much of a good thing is bad. *Psychological Science, 25*(7), 1362–1370. [doi:10.1177/0956797614533801](https://doi.org/10.1177/0956797614533801)
+- Fisher, A. V., Godwin, K. E., & Seltman, H. (2014). Visual environment, attention allocation, and learning in young children: When too much of a good thing may be bad. *Psychological Science, 25*(7), 1362–1370. [doi:10.1177/0956797614533801](https://doi.org/10.1177/0956797614533801)
 - Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., Jordt, H., & Wenderoth, M. P. (2014). Active learning increases student performance in science, engineering, and mathematics. *Proceedings of the National Academy of Sciences, 111*(23), 8410–8415. [doi:10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)
 - Brooks, D. C. (2012). Space and consequences: The impact of different formal learning spaces on instructor and student behavior. *Journal of Learning Spaces, 1*(2).
 - Tanner, C. K. (2008). Effects of school design on student outcomes. *Journal of Educational Administration, 46*(3), 381–399. [doi:10.1108/09578230910955809](https://doi.org/10.1108/09578230910955809)

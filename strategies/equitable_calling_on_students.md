@@ -69,7 +69,7 @@ Equitable response distribution converts questioning from a volunteer-driven act
 - **Random name pickers in large lectures** — tools such as the "Random Student Generator" in learning-management systems or wheel apps let instructors of 100+ student courses maintain equitable distribution without manual tracking.
 
 ## Key Sources
-- Rowe, M. B. (1974). Wait-time and rewards as instructional variables: Their influence on language, logic, and fate control. *Journal of Research in Science Teaching, 11*(2), 81–94. [doi:10.1002/tea.3660110202](https://doi.org/10.1002/tea.3660110202)
+- Rowe, M. B. (1974). Wait-time and rewards as instructional variables: Their influence on language, logic, and fate control. Part one — Wait time. *Journal of Research in Science Teaching, 11*(2), 81–94. [doi:10.1002/tea.3660110202](https://doi.org/10.1002/tea.3660110202)
 - Dallimore, E. J., Hertenstein, J. H., & Platt, M. B. (2013). Impact of cold-calling on student voluntary participation. *Journal of Management Education, 37*(3), 305–341. [doi:10.1177/1052562912446067](https://doi.org/10.1177/1052562912446067)
 - Brophy, J. E., & Good, T. L. (1986). Teacher behavior and student achievement. In M. C. Wittrock (Ed.), *Handbook of research on teaching* (3rd ed., pp. 328–375). Macmillan. [doi:10.1037/0003-066x.41.10.1069](https://doi.org/10.1037/0003-066x.41.10.1069)
 - Lemov, D. (2010). *Teach like a champion: 49 techniques that put students on the path to college*. Jossey-Bass.

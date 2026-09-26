@@ -67,7 +67,7 @@ Secret Student leverages positive reinforcement and peer-level accountability: t
 - Schools using [PBIS](https://www.pbis.org) frameworks often implement Secret Student as a Tier 1 universal reinforcement routine alongside explicit expectation teaching.
 
 ## Key Sources
-- Litow, L., & Pumroy, D. K. (1975). A brief review of classroom group-oriented and individualized contingencies. *Journal of Applied Behavior Analysis, 8*(3), 341–347. [doi:10.1901/jaba.1975.8-341](https://doi.org/10.1901/jaba.1975.8-341)
+- Litow, L., & Pumroy, D. K. (1975). A brief review of classroom group-oriented contingencies. *Journal of Applied Behavior Analysis, 8*(3), 341–347. [doi:10.1901/jaba.1975.8-341](https://doi.org/10.1901/jaba.1975.8-341)
 - Kelshaw-Levering, K., Sterling-Turner, H. E., Henry, J. R., & Skinner, C. H. (2000). Randomized interdependent group contingencies: Group reinforcement with a twist. *Psychology in the Schools, 37*(6), 523–533.
 - Stage, S. A., & Quiroz, D. R. (1997). A meta-analysis of interventions to decrease disruptive classroom behavior in public education settings. *School Psychology Review, 26*(3), 333–368.
 - Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 125*(6), 627–668. [doi:10.1037/0033-2909.125.6.627](https://doi.org/10.1037/0033-2909.125.6.627)

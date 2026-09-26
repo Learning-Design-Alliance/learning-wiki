@@ -82,6 +82,6 @@ Multisensory encoding supports retention by giving learners redundant retrieval 
 ## Key Sources
 - Ehri, L. C. (2014). Orthographic mapping in the acquisition of sight word reading, spelling memory, and vocabulary learning. *Scientific Studies of Reading, 18*(1), 5–21. [doi:10.1080/10888438.2013.819356](https://doi.org/10.1080/10888438.2013.819356)
 - Birsh, J. R. (2011). *Multisensory teaching of basic language skills* (3rd ed.). Paul H. Brookes Publishing.
-- Ritchey, K. D., & Goeke, J. L. (2006). Orton–Gillingham and Orton–Gillingham–based reading interventions: A review of the literature. *The Journal of Special Education, 40*(3), 171–183. [doi:10.1177/00224669060400030501](https://doi.org/10.1177/00224669060400030501)
+- Ritchey, K. D., & Goeke, J. L. (2006). Orton-Gillingham and Orton-Gillingham–based reading instruction: A review of the literature. *The Journal of Special Education, 40*(3), 171–183. [doi:10.1177/00224669060400030501](https://doi.org/10.1177/00224669060400030501)
 - Kilpatrick, D. A. (2015). *Essentials of assessing, preventing, and overcoming reading difficulties*. Wiley.
 - National Reading Panel. (2000). *Teaching children to read: An evidence-based assessment of the scientific research literature on reading and its implications for reading instruction*. National Institute of Child Health and Human Development.
