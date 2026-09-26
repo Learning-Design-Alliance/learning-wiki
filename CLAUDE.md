@@ -110,6 +110,19 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-09-26 (night) — batch 7, the first under the judge gate
+
+77 of 80 fetched; 71 ingested (532 pages), 6 rejected as E2, $0.55 all in. 53 passed validation
+first time, 71 after correction; the GPT judge failed 14 of the 71, one revision fixed 6. **Five of
+the remaining 8 failures were the judge's mistake**: it saw the ERIC URL `source_citation.repair()`
+adds, found it nowhere in the article, and called it fabricated. `run_judges(..., source_url=)` now
+tells the judge where that link comes from; re-run as `batch-7b`, all 8 passed (4 after a revision)
+and were ingested, each with a later `ingested` manifest line after its `judge-failed` one. Strict
+audit: 380/380 quotes verbatim, 714/714 decimal statistics present (a Swedish "7, 5" and an OCR
+".4e3" read as .463 aside), 16/17 DOIs right paper; the 17th, PME-NA 2020's proceedings-volume DOI
+`10.51272/pmena.42.2020`, was stripped by the gate from 6 pages. **Read a judge's failures before
+trusting them**: the judge is a model and can be wrong about the pipeline it sits in.
+
 ### 2026-09-26 (evening) — the extractor benchmark is 10/10, and a judge now gates the batch
 
 GLM on v133 through the full new chain (`bench-gate`): **10/10 pass validation, 10/10 pass the GPT

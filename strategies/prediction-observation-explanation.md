@@ -68,4 +68,4 @@ POE works because committing to a prediction activates prior knowledge — inclu
 - White, R., & Gunstone, R. (1992). Probing understanding. *London: Falmer Press.* (Chapter on Prediction–Observation–Explanation)
 - Crouch, C. H., & Mazur, E. (2001). Peer Instruction: Ten years of experience and results. *American Journal of Physics, 69*(9), 970–977. [doi:10.1119/1.1374249](https://doi.org/10.1119/1.1374249)
 - Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., Jordt, H., & Wenderoth, M. P. (2014). Active learning increases student performance in science, engineering, and mathematics. *PNAS, 111*(23), 8410–8415. [doi:10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)
-- Vosniadou, S. (2013). Conceptual change in learning and instruction: From framework frameworks to productive conceptual change. *International Journal of Educational Research, 61*, 1–4.
+- Vosniadou, S. (2013). Conceptual change in learning and instruction. In *International Handbook of Research on Conceptual Change*. Routledge. [doi:10.4324/9780203154472.ch1](https://doi.org/10.4324/9780203154472.ch1)

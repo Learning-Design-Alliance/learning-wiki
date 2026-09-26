@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/ace-providers-delivering-recognised-vet-outcomes.md
+---
+
+# Revision history: [claims/ace-providers-delivering-recognised-vet-outcomes](../claims/ace-providers-delivering-recognised-vet-outcomes.md)
+
+### 2026-09-26 · ingest · process:wiki-ingest
+Ingested from eric-ed420782 (Think Local and Compete. An Analysis of the Role of Adult and Community Education in the Implementation of a National System for Vocational Education and Training. A Report to the MCEETYA ACE Taskforce.) via eval_harness.py + ingest_extractions.py

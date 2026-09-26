@@ -76,4 +76,4 @@ Instruction is more durable when it helps learners construct a coherent causal m
 - Norman, D. A. (1983). Some observations on mental models. In D. Gentner & A. L. Stevens (Eds.), *Mental models* (pp. 7–14). Lawrence Erlbaum.
 - Mayer, R. E. (1989). Models for understanding. *Review of Educational Research, 59*(1), 43–64. [doi:10.3102/00346543059001043](https://doi.org/10.3102/00346543059001043)
 - Gentner, D., & Stevens, A. L. (Eds.). (1983). *Mental models.* Lawrence Erlbaum.
-- Vosniadou, S. (2013). Conceptual change in learning and instruction: From framework frameworks to framework theory. In S. Vosniadou (Ed.), *International handbook of research on conceptual change* (2nd ed., pp. 11–30). Routledge. [doi:10.4324/9780203154472.ch1](https://doi.org/10.4324/9780203154472.ch1)
+- Vosniadou, S. (2013). Conceptual change in learning and instruction. In *International Handbook of Research on Conceptual Change*. Routledge. [doi:10.4324/9780203154472.ch1](https://doi.org/10.4324/9780203154472.ch1)
