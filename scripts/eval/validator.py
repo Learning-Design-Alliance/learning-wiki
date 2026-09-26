@@ -127,14 +127,16 @@ def _check_study_record(report, sr, contributions) -> None:
 # A printed standardised effect size with its value: what a non-zero impact code must
 # name. Deliberately narrower than health_evidence.STAT_RE, which also accepts test
 # statistics and percentages; those do not license an i1-i3 (prompt v134).
+# "=", or the words printed in its place: "η2-values of .059", "an r of .31".
+_SEP = r"\s*(?:[=≈]|-?values?\s+(?:of|was|were|=)|of|was|is)\s*"
 EFFECT_SIZE_RE = re.compile(
-    r"(?:\b(?:d|g|r|ρ|β|OR|SMD|ES)\s*[=≈]\s*[-−]?\s*\d*\.?\d)|(?:(?<![A-Za-z])[dḡ]̄\s*=\s*[-−]?\d*\.?\d)|"
-    r"(?:η\s*[²2p]{0,2}\s*[=≈]\s*0?\.?\d)|(?:eta[- ]squared[^.]{0,15}\d)|(?:odds ratio[^.]{0,15}\d)|"
+    rf"(?:\b(?:d|g|r|ρ|β|OR|SMD|ES){_SEP}[-−]?\s*\d*\.?\d)|(?:(?<![A-Za-z])[dḡ]̄{_SEP}[-−]?\d*\.?\d)|"
+    rf"(?:η\s*[²2p]{{0,2}}{_SEP}0?\.?\d)|(?:eta[- ]squared[^.]{{0,15}}\d)|(?:odds ratio[^.]{{0,15}}\d)|"
     r"(?:(?:Cohen'?s d|Hedges'?\s*g|effect[- ]size)[^.]{0,25}?[-−]?\d*\.\d)", re.I)
 
 
 _ES_VALUE = re.compile(
-    r"(?:(?P<k1>(?<![A-Za-z])(?:d|g|r|β)|ḡ|d̄|η\s*[²2p]{0,2}|ηp²)\s*[=≈]\s*(?P<v1>[-−]?\s*\d*\.?\d+))", re.I)
+    r"(?:(?P<k1>(?<![A-Za-z])(?:d|g|r|β)|ḡ|d̄|η\s*[²2p]{0,2}|ηp²)" + _SEP + r"(?P<v1>[-−]?\s*\d*\.?\d+))", re.I)
 
 
 def expected_impact(text: str):
