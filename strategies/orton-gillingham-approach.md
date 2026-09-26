@@ -66,7 +66,7 @@ OG operationalizes several well-supported principles: systematic [explicit instr
 - **[Nessy](https://www.nessy.com)** — game-based digital adaptation of structured literacy principles for independent practice between OG lessons.
 
 ## Key Sources
-- Ritchey, K. D., & Goeke, J. L. (2006). Orton-Gillingham and Orton-Gillingham-based reading interventions: A review of the literature. *The Journal of Special Education, 40*(3), 171–183. [doi:10.1177/00224669060400030501](https://doi.org/10.1177/00224669060400030501)
+- Ritchey, K. D., & Goeke, J. L. (2006). Orton-Gillingham and Orton-Gillingham–based reading instruction: A review of the literature. *The Journal of Special Education, 40*(3), 171–183. [doi:10.1177/00224669060400030501](https://doi.org/10.1177/00224669060400030501)
 - Ehri, L. C., Nunes, S. R., Stahl, S. A., & Willows, D. M. (2001). Systematic phonics instruction helps students learn to read: Evidence from the National Reading Panel's meta-analysis. *Review of Educational Research, 71*(3), 393–447. [doi:10.3102/00346543071003393](https://doi.org/10.3102/00346543071003393)
 - Galuschka, K., Ise, E., Krick, K., & Schulte-Körne, G. (2014). Effectiveness of treatment approaches for children and adolescents with reading disabilities: A meta-analysis of randomized controlled trials. *PLoS ONE, 9*(2), e89900. [doi:10.1371/journal.pone.0089900](https://doi.org/10.1371/journal.pone.0089900)
 - Rose, J. (2009). *Identifying and teaching children and young children with literacy difficulties* (The Rose Review). DCSF Publications.

@@ -72,7 +72,7 @@ Sushi Monster is an example of game-based fluency practice: it embeds repeated a
 - A parent uses the multiplication levels at home to maintain fact fluency over summer break, with the child explaining each choice aloud.
 
 ## Key Sources
-- Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital games for learning: A systematic review and meta-analysis. *Review of Educational Research, 86*(1), 79–122. [doi:10.3102/0034654315582065](https://doi.org/10.3102/0034654315582065)
+- Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital games, design, and learning: A systematic review and meta-analysis. *Review of Educational Research, 86*(1), 79–122. [doi:10.3102/0034654315582065](https://doi.org/10.3102/0034654315582065)
 - Riconscente, M. M. (2013). Results from a controlled study of the iPad fractions game Motion Math. *Games and Culture, 8*(3), 186–214. [doi:10.1177/1555412013496894](https://doi.org/10.1177/1555412013496894)
 - Gee, J. P. (2003). What video games have to teach us about learning and literacy. *Computers in Entertainment, 1*(1), 20. [doi:10.1145/950566.950595](https://doi.org/10.1145/950566.950595)
 - Sweller, J., van Merriënboer, J. J. G., & Paas, F. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251–296. [doi:10.1023/A:1022193728205](https://doi.org/10.1023/A:1022193728205)

@@ -69,4 +69,4 @@ Token economies reliably increase the frequency of explicitly targeted behaviors
 - Kazdin, A. E., & Bootzin, R. R. (1972). The token economy: An evaluative review. *Journal of Applied Behavior Analysis, 5*(3), 343–372. [doi:10.1901/jaba.1972.5-343](https://doi.org/10.1901/jaba.1972.5-343)
 - Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 125*(6), 627–668. [doi:10.1037/0033-2909.125.6.627](https://doi.org/10.1037/0033-2909.125.6.627)
 - Skinner, B. F. (1953). *Science and human behavior.* Macmillan.
-- Filcheck, H. A., McNeil, C. B., Greco, L. A., & Bernard, R. S. (2004). Using a whole-class token economy to coach student behavior. *Psychology in the Schools, 41*(3), 351–361. [doi:10.1002/pits.10168](https://doi.org/10.1002/pits.10168)
+- Filcheck, H. A., McNeil, C. B., Greco, L. A., & Bernard, R. S. (2004). Using a whole-class token economy and coaching of teacher skills in a preschool classroom to manage disruptive behavior. *Psychology in the Schools, 41*(3), 351–361. [doi:10.1002/pits.10168](https://doi.org/10.1002/pits.10168)

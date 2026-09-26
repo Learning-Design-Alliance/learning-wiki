@@ -73,7 +73,7 @@ Extending post-question pauses reliably increases the length and quality of lear
 - **Extended-time testing** — disability services offices commonly grant 1.5× testing time for learners with documented processing-speed or ADHD diagnoses; the Friday Institute at NC State's Speed of Processing micro-credential offers practitioner guidance on identifying learners who need this support.
 
 ## Key Sources
-- Rowe, M. B. (1974). Wait-time and rewards as instructional variables: Their influence on language, logic, and fate control. *Journal of Research in Science Teaching, 11*(2), 81–94. [doi:10.1002/tea.3660110202](https://doi.org/10.1002/tea.3660110202)
+- Rowe, M. B. (1974). Wait-time and rewards as instructional variables: Their influence on language, logic, and fate control. Part one — Wait time. *Journal of Research in Science Teaching, 11*(2), 81–94. [doi:10.1002/tea.3660110202](https://doi.org/10.1002/tea.3660110202)
 - Tobin, K. (1987). The role of wait time in higher cognitive level learning. *Review of Educational Research, 57*(1), 69–95. [doi:10.3102/00346543057001069](https://doi.org/10.3102/00346543057001069)
 - Stahl, R. J. (1990). *Using "think-time" behaviors to promote instruction and understanding in the classroom.* ERIC Clearinghouse. [https://eric.ed.gov/?id=ED335773](https://eric.ed.gov/?id=ED335773)
 - Sweller, J., Ayres, P., & Kalyuga, S. (2011). *Cognitive load theory.* Springer. [doi:10.1007/978-1-4419-8126-4](https://doi.org/10.1007/978-1-4419-8126-4)

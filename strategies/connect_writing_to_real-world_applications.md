@@ -68,6 +68,6 @@ Relevance connections work best when they are made by learners themselves or tie
 
 ## Key Sources
 - Hulleman, C. S., & Harackiewicz, J. M. (2009). Promoting interest and performance in high school science classes. *Science, 326*(5958), 1410–1412. [doi:10.1126/science.1177067](https://doi.org/10.1126/science.1177067)
-- Graham, S., & Perin, D. (2007). *Writing Next: Effective strategies to improve writing of adolescents in middle and high schools*. Alliance for Excellent Education. [doi:10.1037/e539412011-001](https://doi.org/10.1037/e539412011-001)
+- Graham, S., & Perin, D. (2007). *Writing Next: Effective strategies to improve writing of adolescents in middle and high schools*. Alliance for Excellent Education.
 - Hulleman, C. S., Godes, O., Hendricks, B. L., & Harackiewicz, J. M. (2010). Enhancing interest and performance with a utility value intervention. *Journal of Educational Psychology, 102*(4), 880–895.
 - Harackiewicz, J. M., Rozek, C. S., Hulleman, C. S., & Hyde, J. S. (2012). Helping parents to motivate adolescents in mathematics and science: An experimental test of a utility-value intervention. *Psychological Science, 23*(8), 899–906. [doi:10.1177/0956797611435530](https://doi.org/10.1177/0956797611435530)

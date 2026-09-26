@@ -66,7 +66,7 @@ Strengths-based framing increases task value and self-efficacy, both of which pr
 - [Understood.org](https://www.understood.org) publishes teacher-facing strengths-based profiles and attention strategy guides for learners with ADHD and learning differences.
 
 ## Key Sources
-- Rueda, M. R., Rothbart, M. K., McCandliss, B. D., Saccomanno, L., & Posner, M. I. (2005). Training, maturation, and developmental interplay in the exercise of cognitive control. *Proceedings of the National Academy of Sciences, 102*(41), 14931–14936. [doi:10.1073/pnas.0506897102](https://doi.org/10.1073/pnas.0506897102)
+- Rueda, M. R., Rothbart, M. K., McCandliss, B. D., Saccomanno, L., & Posner, M. I. (2005). Training, maturation, and genetic influences on the development of executive attention. *Proceedings of the National Academy of Sciences, 102*(41), 14931–14936. [doi:10.1073/pnas.0506897102](https://doi.org/10.1073/pnas.0506897102)
 - Diamond, A., & Lee, K. (2011). Interventions shown to aid executive function development in children 4 to 12 years old. *Science, 333*(6045), 959–964. [doi:10.1126/science.1204529](https://doi.org/10.1126/science.1204529)
 - Lopez, S. J., & Louis, M. C. (2009). The principles of strengths-based education. *Journal of College and Character, 10*(4). [doi:10.2202/1940-1639.1041](https://doi.org/10.2202/1940-1639.1041)
 - Govindji, V., & Linley, P. A. (2007). Strengths use, self-concordance and well-being: Implications for strengths coaching and coaching psychologists. *International Coaching Psychology Review, 2*(2), 143–153.

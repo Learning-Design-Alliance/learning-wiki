@@ -75,5 +75,5 @@ Enactment leverages the self-performed, embodied encoding of content: motor enga
 - Piaget, J. (1952). *The origins of intelligence in children*. International Universities Press.
 - Asher, J. J. (1969). The Total Physical Response approach to second language learning. *The Modern Language Journal, 53*(1), 3–17. [doi:10.1111/j.1540-4781.1969.tb04552.x](https://doi.org/10.1111/j.1540-4781.1969.tb04552.x)
 - Freeman, S., et al. (2014). Active learning increases student performance in science, engineering, and mathematics. *PNAS, 111*(23), 8410–8415. [doi:10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)
-- Engle, R. A. (2006). Framing interactions to foster generative learning: A situative explanation of transfer in a tutoring session. *Journal of the Learning Sciences, 15*(4), 451–498. [doi:10.1207/s15327809jls1504_2](https://doi.org/10.1207/s15327809jls1504_2)
+- Engle, R. A. (2006). Framing Interactions to Foster Generative Learning: A Situative Explanation of Transfer in a Community of Learners Classroom. *Journal of the Learning Sciences, 15*(4), 451–498. [doi:10.1207/s15327809jls1504_2](https://doi.org/10.1207/s15327809jls1504_2)
 - Boal, A. (1979). *Theatre of the Oppressed*. Theatre Communications Group.

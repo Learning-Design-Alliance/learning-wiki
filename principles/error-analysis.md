@@ -14,7 +14,7 @@ sources:
     author: Metcalfe, J
   - id: durkin-2012
     resource: "https://doi.org/10.1016/j.learninstruc.2011.11.001"
-    title: "Durkin, K., & Rittle-Johnson, B. (2012). The effectiveness of using erroneous examples to support learning of decimal magnitude. *Learning and Instruction, 22*(3), 206–214"
+    title: "Durkin, K., & Rittle-Johnson, B. (2012). The effectiveness of using incorrect examples to support learning about decimal magnitude. *Learning and Instruction, 22*(3), 206–214"
     author: "Durkin, K., & Rittle-Johnson, B"
   - id: fazio-2009
     resource: "https://doi.org/10.3758/PBR.16.1.88"
@@ -75,5 +75,5 @@ Error analysis works when mistakes are treated as information rather than only a
 
 ## Key Sources
 - Metcalfe, J. (2017). Learning from errors. *Annual Review of Psychology, 68*, 465–489. [https://doi.org/10.1146/annurev-psych-010416-044022](https://doi.org/10.1146/annurev-psych-010416-044022)
-- Durkin, K., & Rittle-Johnson, B. (2012). The effectiveness of using erroneous examples to support learning of decimal magnitude. *Learning and Instruction, 22*(3), 206–214. [https://doi.org/10.1016/j.learninstruc.2011.11.001](https://doi.org/10.1016/j.learninstruc.2011.11.001)
+- Durkin, K., & Rittle-Johnson, B. (2012). The effectiveness of using incorrect examples to support learning about decimal magnitude. *Learning and Instruction, 22*(3), 206–214. [https://doi.org/10.1016/j.learninstruc.2011.11.001](https://doi.org/10.1016/j.learninstruc.2011.11.001)
 - Fazio, L. K., & Marsh, E. J. (2009). Surprising feedback improves later memory. *Psychonomic Bulletin & Review, 16*(1), 88–92. [https://doi.org/10.3758/PBR.16.1.88](https://doi.org/10.3758/PBR.16.1.88)

@@ -79,7 +79,7 @@ Strengths-based goal framing aligns with self-determination research: when learn
 
 ## Key Sources
 - Shogren, K. A., Wehmeyer, M. L., Palmer, S. B., Rifenbark, G. G., & Little, T. D. (2015). Relationships between self-determination and postschool outcomes for youth with disabilities. *The Journal of Special Education, 48*(4), 256–267. [doi:10.1177/0022466913489733](https://doi.org/10.1177/0022466913489733)
-- Martin, J. E., Van Dycke, J. L., Christensen, W. R., Greene, B. A., Gardner, J. E., & Lovett, D. L. (2006). Increasing student participation in IEP meetings: Establishing the Self-Directed IEP as an evidence-based practice. *Exceptional Children, 72*(3), 299–316. [doi:10.1177/001440290607200303](https://doi.org/10.1177/001440290607200303)
+- Martin, J. E., Van Dycke, J. L., Christensen, W. R., Greene, B. A., Gardner, J. E., & Lovett, D. L. (2006). Increasing Student Participation in IEP Meetings: Establishing the Self-Directed IEP as an Evidenced-Based Practice. *Exceptional Children, 72*(3), 299–316. [doi:10.1177/001440290607200303](https://doi.org/10.1177/001440290607200303)
 - Wehmeyer, M. L. (2005). Self-determination and individuals with severe disabilities: Re-examining meanings and misinterpretations. *Research and Practice for Persons with Severe Disabilities, 30*(3), 113–120. [doi:10.2511/rpsd.30.3.113](https://doi.org/10.2511/rpsd.30.3.113)
 - Seligman, M. E. P., & Csikszentmihalyi, M. (2000). Positive psychology: An introduction. *American Psychologist, 55*(1), 5–14. [doi:10.1037/0003-066X.55.1.5](https://doi.org/10.1037/0003-066X.55.1.5)
 - Understood.org. Strengths-based IEPs: What you need to know. [understood.org](https://www.understood.org)

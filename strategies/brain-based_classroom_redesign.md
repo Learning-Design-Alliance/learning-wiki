@@ -68,7 +68,7 @@ The physical environment competes directly with instruction for limited attentio
 - **Biophilic classroom pilots (US Green Building Council, Center for Green Schools)** — redesigned classrooms with daylighting, natural materials, and plants reported improved engagement and attendance ([centerforgreenschools.org](https://www.centerforgreenschools.org)).
 
 ## Key Sources
-- Fisher, A. V., Godwin, K. E., & Seltman, H. (2014). Visual environment, attention allocation, and learning in young children: When too much of a good thing is bad. *Psychological Science, 25*(7), 1362–1370. [doi:10.1177/0956797614533801](https://doi.org/10.1177/0956797614533801)
+- Fisher, A. V., Godwin, K. E., & Seltman, H. (2014). Visual environment, attention allocation, and learning in young children: When too much of a good thing may be bad. *Psychological Science, 25*(7), 1362–1370. [doi:10.1177/0956797614533801](https://doi.org/10.1177/0956797614533801)
 - Barrett, P., Zhang, Y., Davies, F., & Johnson, C. (2015). *Clever Classrooms: Summary report of the HEAD project*. University of Salford.
 - Determan, J., Akers, M., Albao, T., Niu, X., & Su, S. (2019). *The impact of biophilic learning spaces on student success*. American Society of Interior Designers / Cornell University.
 - Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268. [doi:10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)

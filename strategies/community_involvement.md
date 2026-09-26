@@ -69,5 +69,5 @@ Community involvement works primarily through motivation and belonging rather th
 - Epstein, J. L. (2001). *School, family, and community partnerships: Preparing educators and improving schools.* Westview Press.
 - Sheldon, S. B. (2003). Linking school–family–community partnerships in urban elementary schools to student achievement on state tests. *The Urban Review, 35*(4), 355–372.
 - Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development, 82*(1), 405–432. [doi:10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x)
-- Lave, J., & Wenger, E. (1991). *Situated learning: Legitimate peripheral participation.* Cambridge University Press. [doi:10.2307/2804509](https://doi.org/10.2307/2804509)
+- Lave, J., & Wenger, E. (1991). *Situated learning: Legitimate peripheral participation.* Cambridge University Press. [doi:10.1017/cbo9780511815355](https://doi.org/10.1017/cbo9780511815355)
 - Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes.* Harvard University Press.

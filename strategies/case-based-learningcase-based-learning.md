@@ -71,7 +71,7 @@ Cases situate abstract principles in concrete, messy contexts, forcing learners 
 
 ## Key Sources
 - Kolodner, J. L. (1997). Educational implications of analogy: A view from case-based reasoning. *American Psychologist, 52*(1), 57–66. [doi:10.1037/0003-066X.52.1.57](https://doi.org/10.1037/0003-066X.52.1.57)
-- Thistlethwaite, J. E., Davies, D., Ekeocha, S., Kidd, J. M., MacDougall, C., Matthews, P., Purkis, J., & Clay, D. (2012). The effectiveness of case-based learning in health professional education: A BEME systematic review. *Medical Teacher, 34*(6), e421–e444. [doi:10.3109/0142159X.2012.680939](https://doi.org/10.3109/0142159X.2012.680939)
+- Thistlethwaite, J. E., Davies, D., Ekeocha, S., Kidd, J. M., MacDougall, C., Matthews, P., Purkis, J., & Clay, D. (2012). The effectiveness of case-based learning in health professional education. A BEME systematic review: BEME Guide No. 23. *Medical Teacher, 34*(6), e421–e444. [doi:10.3109/0142159X.2012.680939](https://doi.org/10.3109/0142159X.2012.680939)
 - Schwartz, D. L., Bransford, J. D., & Sears, D. (2005). Efficiency and innovation in transfer. In J. P. Mestre (Ed.), *Transfer of learning from a modern multidisciplinary perspective* (pp. 1–51). Information Age Publishing.
 - Williams, B. (2005). Case based learning — A review of the research literature: Implications for teaching in the health professions. *Journal of Allied Health, 34*(4), 225–229.
 - Christensen, C. R., & Hansen, A. J. (1987). *Teaching and the case method*. Harvard Business School Press.

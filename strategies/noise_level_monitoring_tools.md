@@ -68,7 +68,7 @@ The tools work primarily as an antecedent stimulus and feedback mechanism: a vis
 
 ## Key Sources
 - Emmer, E. T., & Sabornie, E. J. (2015). *Handbook of classroom management* (2nd ed.). Routledge. [doi:10.4324/9780203074114](https://doi.org/10.4324/9780203074114)
-- Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-evaluation of behavior. *Psychological Inquiry, 11*(4), 227–268. [doi:10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)
+- Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268. [doi:10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)
 - Skinner, C. H., Skinner, C. F., & Burton, B. (2009). Tootling: A positive intervention. In A. Akin-Little et al. (Eds.), *Behavioral interventions in schools: Evidence-based positive strategies* (pp. 187–200). APA.
 - Shield, B. M., & Dockrell, J. E. (2004). External and internal noise surveys of London primary schools. *Journal of the Acoustical Society of America, 115*(2), 730–738. [doi:10.1121/1.1635837](https://doi.org/10.1121/1.1635837)
 

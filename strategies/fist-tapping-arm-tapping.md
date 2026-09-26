@@ -66,7 +66,7 @@ Tapping converts an abstract orthographic task into a coordinated motor-verbal s
 - **Tier 2 small-group intervention** — a reading specialist has students fist-tap each syllable of multisyllabic words (e.g., "con-stant") before spelling them on whiteboards.
 
 ## Key Sources
-- Ritchey, K. D., & Goeke, J. L. (2006). Orton-Gillingham and Orton-Gillingham-based reading interventions: A review of the literature. *The Journal of Special Education, 40*(3), 171–183. [doi:10.1177/00224669060400030501](https://doi.org/10.1177/00224669060400030501)
+- Ritchey, K. D., & Goeke, J. L. (2006). Orton-Gillingham and Orton-Gillingham–based reading instruction: A review of the literature. *The Journal of Special Education, 40*(3), 171–183. [doi:10.1177/00224669060400030501](https://doi.org/10.1177/00224669060400030501)
 - Ehri, L. C., Nunes, S. R., Stahl, S. A., & Willows, D. M. (2001). Systematic phonics instruction helps students learn to read: Evidence from the National Reading Panel's meta-analysis. *Review of Educational Research, 71*(3), 393–447. [doi:10.3102/00346543071003393](https://doi.org/10.3102/00346543071003393)
 - Birsh, J. R. (2011). *Multisensory teaching of basic language skills* (3rd ed.). Paul H. Brookes.
 - Joshi, R. M., Dahlgren, M., & Boulware-Gooden, R. (2002). Teaching reading in a reactive teaching environment: A multisensory structured language approach. *Annals of Dyslexia, 52*, 229–250.

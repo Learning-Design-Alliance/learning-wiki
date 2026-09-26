@@ -15,7 +15,7 @@ sources:
     n: N/A
   - id: durkin-rittle-johnson-2012
     resource: "https://doi.org/10.1016/j.learninstruc.2011.11.001"
-    title: "Durkin, K., & Rittle-Johnson, B. (2012). The effectiveness of using erroneous examples to support learning of decimal magnitude. *Learning and Instruction, 22*(3), 206–214. [https://doi.org/10.1016/j.learninstruc.2011.11.001](https://doi.org/10.1016/j.learninstruc.2011.11.001)"
+    title: "Durkin, K., & Rittle-Johnson, B. (2012). The effectiveness of using incorrect examples to support learning about decimal magnitude. *Learning and Instruction, 22*(3), 206–214. [https://doi.org/10.1016/j.learninstruc.2011.11.001](https://doi.org/10.1016/j.learninstruc.2011.11.001)"
     author: "Durkin, K., & Rittle-Johnson, B."
     q: 3
     i: 2
@@ -49,7 +49,7 @@ The meta-analysis highlights erroneous examples as a key instructional tool for 
 
 ### Durkin & Rittle-Johnson 2012
 
-Durkin, K., & Rittle-Johnson, B. (2012). The effectiveness of using erroneous examples to support learning of decimal magnitude. *Learning and Instruction, 22*(3), 206–214. [https://doi.org/10.1016/j.learninstruc.2011.11.001](https://doi.org/10.1016/j.learninstruc.2011.11.001)
+Durkin, K., & Rittle-Johnson, B. (2012). The effectiveness of using incorrect examples to support learning about decimal magnitude. *Learning and Instruction, 22*(3), 206–214. [https://doi.org/10.1016/j.learninstruc.2011.11.001](https://doi.org/10.1016/j.learninstruc.2011.11.001)
 
 `q3 · peer-reviewed experimental study` · `i2 · medium impact` · `n=116`
 

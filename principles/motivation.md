@@ -10,7 +10,7 @@ generated:
 sources:
   - id: ryan-2020
     resource: "https://doi.org/10.1016/j.cedpsych.2020.101860"
-    title: "Ryan, R. M., & Deci, E. L. (2020). *Intrinsic and extrinsic motivation from a self-determination theory perspective*. Contemporary Educational Psychology, 61, 101860"
+    title: "Ryan, R. M., & Deci, E. L. (2020). *Intrinsic and extrinsic motivation from a self-determination theory perspective: Definitions, theory, practices, and future directions*. Contemporary Educational Psychology, 61, 101860"
     author: "Ryan, R. M., & Deci, E. L"
   - id: eccles-2002
     resource: "https://doi.org/10.1146/annurev.psych.53.100901.135153"
@@ -81,5 +81,5 @@ Motivation matters because learners do not invest effort purely because instruct
 **Visible progress routines** — Learners are more likely to continue when they can see improvement, checkpoint completion, or movement toward a meaningful target.
 
 ## Key Sources
-- Ryan, R. M., & Deci, E. L. (2020). *Intrinsic and extrinsic motivation from a self-determination theory perspective*. Contemporary Educational Psychology, 61, 101860. [https://doi.org/10.1016/j.cedpsych.2020.101860](https://doi.org/10.1016/j.cedpsych.2020.101860)
+- Ryan, R. M., & Deci, E. L. (2020). *Intrinsic and extrinsic motivation from a self-determination theory perspective: Definitions, theory, practices, and future directions*. Contemporary Educational Psychology, 61, 101860. [https://doi.org/10.1016/j.cedpsych.2020.101860](https://doi.org/10.1016/j.cedpsych.2020.101860)
 - Eccles, J. S., & Wigfield, A. (2002). Motivational beliefs, values, and goals. *Annual Review of Psychology, 53*, 109-132. [https://doi.org/10.1146/annurev.psych.53.100901.135153](https://doi.org/10.1146/annurev.psych.53.100901.135153)

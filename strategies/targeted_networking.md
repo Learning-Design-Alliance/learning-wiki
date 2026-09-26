@@ -71,4 +71,4 @@ Network research shows that valuable resources — information, referrals, spons
 - Granovetter, M. S. (1973). The strength of weak ties. *American Journal of Sociology, 78*(6), 1360–1380. [doi:10.1086/225469](https://doi.org/10.1086/225469)
 - Burt, R. S. (1992). *Structural holes: The social structure of competition.* Harvard University Press.
 - Uzzi, B., & Spiro, J. (2005). Collaboration and creativity: The small-world problem. *American Journal of Sociology, 111*(2), 447–504. [doi:10.1086/432782](https://doi.org/10.1086/432782)
-- Lave, J., & Wenger, E. (1991). *Situated learning: Legitimate peripheral participation.* Cambridge University Press. [doi:10.2307/2804509](https://doi.org/10.2307/2804509)
+- Lave, J., & Wenger, E. (1991). *Situated learning: Legitimate peripheral participation.* Cambridge University Press. [doi:10.1017/cbo9780511815355](https://doi.org/10.1017/cbo9780511815355)

@@ -10,7 +10,7 @@ generated:
 sources:
   - id: durkin-2012
     resource: "https://doi.org/10.1016/j.learninstruc.2011.11.001"
-    title: "Durkin, K., & Rittle-Johnson, B. (2012). The effectiveness of using erroneous examples to support learning of decimal magnitude. *Learning and Instruction, 22*(3), 206-214"
+    title: "Durkin, K., & Rittle-Johnson, B. (2012). The effectiveness of using incorrect examples to support learning about decimal magnitude. *Learning and Instruction, 22*(3), 206-214"
     author: "Durkin, K., & Rittle-Johnson, B"
 ---
 
@@ -54,4 +54,4 @@ Non-examples are intentionally chosen instances that do not meet the target conc
 - Contrasting valid and invalid examples of a mathematical concept.
 
 ## Key Sources
-- Durkin, K., & Rittle-Johnson, B. (2012). The effectiveness of using erroneous examples to support learning of decimal magnitude. *Learning and Instruction, 22*(3), 206-214. [https://doi.org/10.1016/j.learninstruc.2011.11.001](https://doi.org/10.1016/j.learninstruc.2011.11.001)
+- Durkin, K., & Rittle-Johnson, B. (2012). The effectiveness of using incorrect examples to support learning about decimal magnitude. *Learning and Instruction, 22*(3), 206-214. [https://doi.org/10.1016/j.learninstruc.2011.11.001](https://doi.org/10.1016/j.learninstruc.2011.11.001)

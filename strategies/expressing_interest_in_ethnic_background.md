@@ -70,7 +70,7 @@ This strategy enacts culturally responsive teaching by making students' identiti
 ## Key Sources
 - Ladson-Billings, G. (1995). Toward a theory of culturally relevant pedagogy. *American Educational Research Journal, 32*(3), 465–491. [doi:10.3102/00028312032003465](https://doi.org/10.3102/00028312032003465)
 - Gay, G. (2010). *Culturally Responsive Teaching: Theory, Research, and Practice* (2nd ed.). Teachers College Press.
-- Kohli, R., & Solórzano, D. G. (2012). Teachers, please learn our names!: Racial microaggressions and the K-12 classroom. *Race Ethnicity and Education, 15*(4), 441–462. [doi:10.1080/13613324.2012.674026](https://doi.org/10.1080/13613324.2012.674026)
+- Kohli, R., & Solórzano, D. G. (2012). Teachers, please learn our names!: Racial microagressions and the K-12 classroom. *Race Ethnicity and Education, 15*(4), 441–462. [doi:10.1080/13613324.2012.674026](https://doi.org/10.1080/13613324.2012.674026)
 - Hammond, Z. (2015). *Culturally Responsive Teaching and the Brain*. Corwin.
 - Noddings, N. (2005). *The Challenge to Care in Schools* (2nd ed.). Teachers College Press.
 

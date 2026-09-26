@@ -71,6 +71,6 @@ Names are core to identity; repeated mispronunciation signals exclusion and depr
 - **First-day name tents with phonetic respelling** — a common practice in discussion-based seminars; the instructor updates the tent until pronunciation is stable, making the effort visible to the learner.
 
 ## Key Sources
-- Kohli, R., & Solórzano, D. G. (2012). Teachers, please learn our names!: Racial microaggressions and the K-12 classroom. *Race Ethnicity and Education, 15*(4), 441–462. [doi:10.1080/13613324.2012.674026](https://doi.org/10.1080/13613324.2012.674026)
+- Kohli, R., & Solórzano, D. G. (2012). Teachers, please learn our names!: Racial microagressions and the K-12 classroom. *Race Ethnicity and Education, 15*(4), 441–462. [doi:10.1080/13613324.2012.674026](https://doi.org/10.1080/13613324.2012.674026)
 - Walton, G. M., & Cohen, G. L. (2011). A brief social-belonging intervention improves academic and health outcomes of minority students. *Science, 331*(6023), 1447–1451. [doi:10.1126/science.1198364](https://doi.org/10.1126/science.1198364)
 - Yeager, D. S., & Walton, G. M. (2011). Social-psychological interventions in education: They're not magic. *Review of Educational Research, 81*(2), 267–301. [doi:10.3102/0034654311405999](https://doi.org/10.3102/0034654311405999)

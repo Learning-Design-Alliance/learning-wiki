@@ -110,6 +110,27 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-09-26 (later) — a citation pass checked against author and year
+
+Every DOI-bearing citation was compared with its full Crossref record, **first author and year
+included**. The existing tools compare title and journal coordinates only, and that is not enough:
+a similar title passed `classify_doi` for Pronovost (2006) on a 2008 AJIC paper, and a first-author
+match alone produced hybrids (Mayer & Fiorella cited under Mayer's single-author chapter). The pass
+removed 67 DOIs of other works, rewrote about 290 invented or shortened titles, and moved conflicts
+33 → 22 and invented-title DOIs 109 → 31. What it could not settle (reprint and edition DOIs,
+partial titles with no coordinates) was reported, not written.
+
+- **Do not run `resolve_doi_conflicts.py --apply`.** Its Crossref-search fallback proposed the
+  Springer chapter `10.1007/978-1-4684-7562-3_3` for Bandura (1977) on ~70 pages again.
+- **The ingest gate cannot strip a bare-URL DOI.** `verify_page_citations` removes only the
+  `[doi:X](https://doi.org/X)` and `[https://doi.org/X](...)` forms, so batch 5's manifest records
+  removals of `…mjcsloa.3239521.0026.203` and `10.26077/936a-72f7` that never happened. The first
+  was wrong (the Harkins article is `…0026.202`, now fixed); the second was right all along.
+- **A DOI can be right while the record type is wrong for the citation**: PsycEXTRA conference
+  records and journal reviews of a book carry exactly the cited title. Check the type.
+- **Prose DOI links are unchecked by every tool.** `10.1056/NEJMoa054115` (no handle anywhere) sat in
+  two prose links for Pronovost (2006).
+
 ### 2026-09-26 — a Crossref 404 now asks DataCite before a DOI is stripped
 
 Batch 5's ingest gate stripped `10.26077/936a-72f7` from eight pages as `not_found`. DataCite

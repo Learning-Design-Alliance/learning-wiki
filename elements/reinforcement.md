@@ -72,7 +72,7 @@ Reinforcement reliably increases the frequency and persistence of the behaviors 
 
 ## Key Sources
 - Skinner, B. F. (1968). *The technology of teaching*. Appleton-Century-Crofts.
-- Ferster, C. B., & Skinner, B. F. (1957). *Schedules of reinforcement*. Appleton-Century-Crofts. [doi:10.1037/h0042893](https://doi.org/10.1037/h0042893)
+- Ferster, C. B., & Skinner, B. F. (1957). *Schedules of reinforcement*. Appleton-Century-Crofts.
 - Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 125*(6), 627–668. [doi:10.1037/0033-2909.125.6.627](https://doi.org/10.1037/0033-2909.125.6.627)
 - Cameron, J., & Pierce, W. D. (1994). Reinforcement, reward, and intrinsic motivation: A meta-analysis. *Review of Educational Research, 64*(3), 363–423. [doi:10.3102/00346543064003363](https://doi.org/10.3102/00346543064003363)
 - Bandura, A. (1977). *Social learning theory*. Prentice Hall.

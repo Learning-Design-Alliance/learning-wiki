@@ -67,7 +67,7 @@ Personal relevance raises situational interest and engagement, which supports pe
 - **[Youcubed](https://www.youcubed.org)** (Stanford) — publishes open math tasks anchored in art, data science, and real-world contexts designed to connect diverse strengths to deep mathematical ideas.
 
 ## Key Sources
-- Walkington, C. (2013). Using adaptive learning technologies to personalize instruction to student interests: The impact of relevant contexts on performance and learning. *Journal of Educational Psychology, 105*(4), 932–945. [doi:10.1037/a0031882](https://doi.org/10.1037/a0031882)
+- Walkington, C. (2013). Using adaptive learning technologies to personalize instruction to student interests: The impact of relevant contexts on performance and learning outcomes. *Journal of Educational Psychology, 105*(4), 932–945. [doi:10.1037/a0031882](https://doi.org/10.1037/a0031882)
 - Hidi, S., & Renninger, K. A. (2006). The four-phase model of interest development. *Educational Psychologist, 41*(2), 111–127. [doi:10.1207/s15326985ep4102_4](https://doi.org/10.1207/s15326985ep4102_4)
 - Boaler, J. (2016). *Mathematical mindsets: Unleashing students' potential through creative math, inspiring messages, and innovative teaching.* Jossey-Bass.
 - Mayer, R. E., Fiorella, L., & Stull, A. (2020). Five ways to increase the effectiveness of instructional video. *Educational Technology Research and Development, 68*(3), 837–852. [doi:10.1007/s11423-020-09749-6](https://doi.org/10.1007/s11423-020-09749-6)

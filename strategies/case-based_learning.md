@@ -72,5 +72,5 @@ Cases work because they situate abstract principles in concrete, storied context
 ## Key Sources
 - Kolodner, J. L. (1997). Educational implications of analogy: A view from case-based reasoning. *American Psychologist, 52*(1), 57–66. [doi:10.1037/0003-066X.52.1.57](https://doi.org/10.1037/0003-066X.52.1.57)
 - Cognition and Technology Group at Vanderbilt (1992). The Jasper experiment: An exploration of issues in learning and instructional design. *Educational Technology Research and Development, 40*(1), 65–80. [doi:10.1007/BF02296707](https://doi.org/10.1007/BF02296707)
-- Thistlethwaite, J. E., et al. (2012). The effectiveness of case-based learning in health professional education: A BEME systematic review. *Medical Teacher, 34*(6), e421–e444. [doi:10.3109/0142159X.2012.680939](https://doi.org/10.3109/0142159X.2012.680939)
+- Thistlethwaite, J. E., et al. (2012). The effectiveness of case-based learning in health professional education. A BEME systematic review: BEME Guide No. 23. *Medical Teacher, 34*(6), e421–e444. [doi:10.3109/0142159X.2012.680939](https://doi.org/10.3109/0142159X.2012.680939)
 - Hmelo-Silver, C. E. (2004). Problem-based learning: What and how do students learn? *Educational Psychology Review, 16*(3), 235–266. [doi:10.1023/B:EDPR.0000034022.16470.f3](https://doi.org/10.1023/B:EDPR.0000034022.16470.f3)

@@ -68,6 +68,6 @@ Authentic, purposeful tasks improve engagement and help learners see the value o
 
 ## Key Sources
 - Cognition and Technology Group at Vanderbilt. (1992). The Jasper experiment: An exploration of issues in learning and instructional design. *Educational Technology Research and Development, 40*(1), 65–80. [doi:10.1007/BF02299593](https://doi.org/10.1007/BF02299593)
-- Lave, J. (1988). *Cognition in practice: Mind, mathematics and culture in everyday life.* Cambridge University Press. [doi:10.2307/2073537](https://doi.org/10.2307/2073537)
+- Lave, J. (1988). *Cognition in practice: Mind, mathematics and culture in everyday life.* Cambridge University Press.
 - Ramani, G. B., & Siegler, R. S. (2008). Promoting broad and stable improvements in low-income children's numerical knowledge through playing number board games. *Child Development, 79*(2), 375–394. [doi:10.1111/j.1467-8624.2007.01131.x](https://doi.org/10.1111/j.1467-8624.2007.01131.x)
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)

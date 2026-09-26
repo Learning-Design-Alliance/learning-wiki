@@ -73,6 +73,6 @@ The workshop format concentrates writing practice into large uninterrupted block
 
 ## Key Sources
 - Calkins, L. (1994). *The art of teaching writing* (2nd ed.). Heinemann.
-- Graham, S., & Perin, D. (2007). Writing next: Effective strategies to improve writing of adolescents in middle and high schools. *Alliance for Excellent Education.* [https://doi.org/10.1037/e539772010-001](https://doi.org/10.1037/e539772010-001)
+- Graham, S., & Perin, D. (2007). Writing next: Effective strategies to improve writing of adolescents in middle and high schools. *Alliance for Excellent Education.*
 - Graham, S., Harris, K. R., & Santangelo, T. (2015). Research-based writing practices and the common core: Meta-analysis and meta-synthesis. *The Elementary School Journal, 115*(4), 498–522. [https://doi.org/10.1086/681964](https://doi.org/10.1086/681964)
 - Atwell, N. (1998). *In the middle: New understandings about writing, reading, and learning* (2nd ed.). Boynton/Cook.

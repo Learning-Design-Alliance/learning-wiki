@@ -69,6 +69,6 @@ Cases situate abstract principles in concrete, memorable contexts, which support
 
 ## Key Sources
 - Kolodner, J. L. (1997). Educational implications of analogy: A view from case-based reasoning. *American Psychologist, 52*(1), 57–66. [doi:10.1037/0003-066X.52.1.57](https://doi.org/10.1037/0003-066X.52.1.57)
-- Thistlethwaite, J. E., et al. (2012). The effectiveness of case-based learning in health professional education: A BEME systematic review. *Medical Teacher, 34*(6), e421–e444. [doi:10.3109/0142159X.2012.680939](https://doi.org/10.3109/0142159X.2012.680939)
+- Thistlethwaite, J. E., et al. (2012). The effectiveness of case-based learning in health professional education. A BEME systematic review: BEME Guide No. 23. *Medical Teacher, 34*(6), e421–e444. [doi:10.3109/0142159X.2012.680939](https://doi.org/10.3109/0142159X.2012.680939)
 - Schwartz, D. L., Chase, C. C., Oppezzo, M. A., & Chin, D. B. (2011). Practicing versus inventing with contrasting cases: The effects of telling first on learning and transfer. *Journal of Educational Psychology, 103*(4), 759–775. [doi:10.1037/a0025140](https://doi.org/10.1037/a0025140)
 - Spiro, R. J., Feltovich, P. J., Jacobson, M. J., & Coulson, R. L. (1992). Cognitive flexibility, constructivism, and hypertext: Random access instruction for advanced knowledge acquisition in ill-structured domains. In T. M. Duffy & D. H. Jonassen (Eds.), *Constructivism and the technology of instruction* (pp. 57–75). Lawrence Erlbaum.

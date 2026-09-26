@@ -87,4 +87,4 @@ Studies of Reader's Theater report gains in oral reading fluency, prosody, and c
 - Millin, S. K., & Rinehart, S. D. (1999). Some of the benefits of readers theater participation for second-grade Title I students. *Reading Research and Instruction, 39*(1), 71–88.
 - Keehn, S. (2003). The effect of Readers' Theatre on fluency and comprehension: A study with second-grade readers. *The Journal of Educational Research, 96*(4), 229–233.
 - National Institute of Child Health and Human Development. (2000). *Report of the National Reading Panel: Teaching children to read*. U.S. Government Printing Office.
-- Young, C., & Rasinski, T. (2009). Implementing Reader's Theatre as an approach to classroom fluency instruction. *The Reading Teacher, 63*(1), 4–13. [doi:10.1598/RT.63.1.1](https://doi.org/10.1598/RT.63.1.1)
+- Young, C., & Rasinski, T. (2009). Implementing Readers Theatre as an approach to classroom fluency instruction. *The Reading Teacher, 63*(1), 4–13. [doi:10.1598/RT.63.1.1](https://doi.org/10.1598/RT.63.1.1)

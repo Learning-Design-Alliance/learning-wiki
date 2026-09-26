@@ -9,7 +9,6 @@ generated:
   at: 2026-04-07
 sources:
   - id: longmuss-2017
-    resource: "https://doi.org/10.1016/j.promfg.2017.04.039"
     title: "Longmuss, J., & Hohne, B. P. (2017). Agile learning for vocationally trained expert workers: Expanding workplace-based learning one sprint at a time. *Procedia Manufacturing, 9*, 262-268"
     author: "Longmuss, J., & Hohne, B. P"
   - id: mcburney-2020
@@ -83,5 +82,5 @@ Skills sprints are effective when a short, tightly bounded cycle focuses attenti
 ## Key Sources
 - Banfield, R., Lombardo, C. T., & Wax, T. (2015). *Design sprint: A practical guidebook for building great digital products*. O'Reilly Media.
 - Knapp, J., Zeratsky, J., & Kowitz, B. (2016). *Sprint: How to solve big problems and test new ideas in just five days*. Simon & Schuster.
-- Longmuss, J., & Hohne, B. P. (2017). Agile learning for vocationally trained expert workers: Expanding workplace-based learning one sprint at a time. *Procedia Manufacturing, 9*, 262-268. [https://doi.org/10.1016/j.promfg.2017.04.039](https://doi.org/10.1016/j.promfg.2017.04.039)
+- Longmuss, J., & Hohne, B. P. (2017). Agile learning for vocationally trained expert workers: Expanding workplace-based learning one sprint at a time. *Procedia Manufacturing, 9*, 262-268.
 - McBurney, J., Hunt, S. L., Gyendina, M., & Brown, S. J. (2020). Library research sprints as a tool to engage faculty and promote collaboration. *portal: Libraries and the Academy, 20*(2), 373-396. [https://doi.org/10.1353/pla.2020.0016](https://doi.org/10.1353/pla.2020.0016)

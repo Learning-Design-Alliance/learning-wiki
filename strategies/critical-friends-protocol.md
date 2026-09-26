@@ -75,5 +75,5 @@ CFP works because structure and role separation reduce the social costs of criti
 - Bambino, D. (2002). Unpacking a practice: The Critical Friends Protocol. *Horace, 18*(4).
 - McDonald, J. P., Mohr, N., Dichter, A., & McDonald, E. C. (2003). *The power of protocols: An educator's guide to better practice*. Teachers College Press.
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
-- Lave, J., & Wenger, E. (1991). *Situated learning: Legitimate peripheral participation*. Cambridge University Press. [doi:10.2307/2804509](https://doi.org/10.2307/2804509)
+- Lave, J., & Wenger, E. (1991). *Situated learning: Legitimate peripheral participation*. Cambridge University Press. [doi:10.1017/cbo9780511815355](https://doi.org/10.1017/cbo9780511815355)
 - Dunne, F., Nave, B., & Lewis, A. (2000). Critical friends groups: Teachers as architects of professional learning. *Research Bulletin, 11*(1), Phi Delta Kappa International Center for Evaluation, Development, and Research.

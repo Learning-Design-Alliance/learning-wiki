@@ -69,7 +69,7 @@ The toolkit treats bias mitigation as a design discipline rather than a complian
 - **District procurement rubrics** — some districts now require vendors to disclose training data provenance and subgroup performance before adoption, operationalizing the toolkit's audit steps at purchase time
 
 ## Key Sources
-- Buolamwini, J., & Gebru, T. (2018). Gender shades: Intersectional accuracy disparities in commercial gender classification. *Proceedings of the 1st Conference on Fairness, Accountability and Transparency, PMLR 81*, 77–91. [doi:10.1145/3278721.3278730](https://doi.org/10.1145/3278721.3278730)
+- Buolamwini, J., & Gebru, T. (2018). Gender shades: Intersectional accuracy disparities in commercial gender classification. *Proceedings of the 1st Conference on Fairness, Accountability and Transparency, PMLR 81*, 77–91.
 - Baker, R. S., & Hawn, A. (2022). Algorithmic bias in education. *International Journal of Artificial Intelligence in Education, 32*(4), 1052–1092. [doi:10.1007/s40593-021-00285-9](https://doi.org/10.1007/s40593-021-00285-9)
 - Gay, G. (2018). *Culturally responsive teaching: Theory, research, and practice* (3rd ed.). Teachers College Press.
 - Noble, S. U. (2018). *Algorithms of oppression: How search engines reinforce racism*. NYU Press.

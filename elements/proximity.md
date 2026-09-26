@@ -72,7 +72,7 @@ Integrating text with corresponding graphics reduces extraneous cognitive load i
 
 ## Key Sources
 - Mayer, R. E. (2021). *Multimedia learning* (3rd ed.). Cambridge University Press. [doi:10.1017/9781316941355](https://doi.org/10.1017/9781316941355)
-- Mayer, R. E., & Fiorella, L. (2014). Twelve principles of multimedia learning based on cognitive load theory. In R. Brunken, F. Paas, & J. L. Plass (Eds.), *Cognitive load theory* (pp. 229–250). Cambridge University Press. [doi:10.1017/cbo9781139547369.005](https://doi.org/10.1017/cbo9781139547369.005)
+- Mayer, R. E., & Fiorella, L. (2014). Twelve principles of multimedia learning based on cognitive load theory. In R. Brunken, F. Paas, & J. L. Plass (Eds.), *Cognitive load theory* (pp. 229–250). Cambridge University Press.
 - Sweller, J., Ayres, P., & Kalyuga, S. (2011). *Cognitive load theory*. Springer. [doi:10.1007/978-1-4419-8126-4](https://doi.org/10.1007/978-1-4419-8126-4)
 - Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the science of instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)
 - Ginns, P. (2006). Integrating information: A meta-analysis of the spatial contiguity and temporal contiguity effects. *Learning and Instruction, 16*(6), 511–525. [doi:10.1016/j.learninstruc.2006.10.001](https://doi.org/10.1016/j.learninstruc.2006.10.001)

@@ -69,7 +69,7 @@ Video is a multimedia channel: combining narration with relevant visuals can imp
 - **LMS-hosted weekly video messages** (Canvas, Moodle) — low-effort instructor presence videos that sustain connection in online courses.
 
 ## Key Sources
-- Guo, P. J., Kim, J., & Rubin, R. (2014). How video production affects student engagement in MOOCs. *Proceedings of the First ACM Conference on Learning @ Scale*, 41–50. [doi:10.1145/2556325.2566239](https://doi.org/10.1145/2556325.2566239)
+- Guo, P. J., Kim, J., & Rubin, R. (2014). How video production affects student engagement: An empirical study of MOOC videos. *Proceedings of the First ACM Conference on Learning @ Scale*, 41–50. [doi:10.1145/2556325.2566239](https://doi.org/10.1145/2556325.2566239)
 - Noetel, M., Griffith, S., Delaney, O., Sanders, N. R., Mazarakis, N., Poumpouridis, C., & Lomas, T. (2021). Video Improves Learning in Higher Education: A Systematic Review *Review of Educational Research, 91*(2), 204–236. [doi:10.3102/0034654321990713](https://doi.org/10.3102/0034654321990713)
 - Brame, C. J. (2016). Effective educational videos: Principles and guidelines for maximizing student learning from video content. *CBE—Life Sciences Education, 15*(4), es6. [doi:10.1187/cbe.16-03-0125](https://doi.org/10.1187/cbe.16-03-0125)
 - Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the Science of Instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)

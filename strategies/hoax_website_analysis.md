@@ -70,6 +70,6 @@ Hoax websites function as [erroneous examples](../claims/erroneous-examples-buil
 
 ## Key Sources
 - Breakstone, J., Smith, M., Ortega, D., Kerr, D., & Wineburg, S. (2021). Lateral reading and the nature of expertise: Training college students to evaluate online sources. *Proceedings of the National Academy of Sciences, 118*(11).
-- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(11), 1–40.
+- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(11), 1–40. [doi:10.1177/016146811912101102](https://doi.org/10.1177/016146811912101102)
 - McGrew, S., Breakstone, J., Ortega, T., Smith, M., & Wineburg, S. (2018). Can students evaluate online sources? Learning from assessments of civic online reasoning. *Theory &amp; Research in Social Education, 46*(2), 165-193. [doi:10.1080/00933104.2017.1416320](https://doi.org/10.1080/00933104.2017.1416320)
 - Fogg, B. J. (2003). Prominence-interpretation theory: Explaining how people assess credibility online. *Proceedings of CHI 2003*. [doi:10.1145/765891.765951](https://doi.org/10.1145/765891.765951)

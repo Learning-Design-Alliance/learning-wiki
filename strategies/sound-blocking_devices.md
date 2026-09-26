@@ -67,6 +67,6 @@ Background noise measurably degrades children's speech comprehension, attention,
 
 ## Key Sources
 - Shield, B. M., & Dockrell, J. E. (2003). The effects of noise on children at school: A review. *Building Acoustics, 10*(2), 97–116. [doi:10.1260/135101003768965960](https://doi.org/10.1260/135101003768965960)
-- Clark, C., & Sörqvist, P. (2012). A narrative review of research on the effects of noise on cognitive performance. *Noise & Health, 14*(61), 279–286. [doi:10.4103/1463-1741.104896](https://doi.org/10.4103/1463-1741.104896)
+- Clark, C., & Sörqvist, P. (2012). A 3 year update on the influence of noise on performance and behavior. *Noise & Health, 14*(61), 279–286. [doi:10.4103/1463-1741.104896](https://doi.org/10.4103/1463-1741.104896)
 - Case-Smith, J., Weaver, L. L., & Fristad, M. A. (2015). A systematic review of sensory processing interventions for children with autism spectrum disorders. *Autism, 19*(2), 133–148. [doi:10.1177/1362361313517762](https://doi.org/10.1177/1362361313517762)
 - Söderlund, G. B. W., Sikström, S., & Smart, A. (2007). Listen to the noise: Noise is beneficial for cognitive performance in ADHD. *Journal of Child Psychology and Psychiatry, 48*(8), 840–847. [doi:10.1111/j.1469-7610.2007.01749.x](https://doi.org/10.1111/j.1469-7610.2007.01749.x)

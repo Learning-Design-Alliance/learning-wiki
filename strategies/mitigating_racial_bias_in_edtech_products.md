@@ -69,7 +69,7 @@ Bias in educational AI is well documented: automated systems can encode racial d
 - **Proctoring software reviews** — remote proctoring tools have faced documented complaints that face-detection and gaze-tracking fail more often for students with darker skin tones, prompting districts to require vendor subgroup performance data before procurement.
 
 ## Key Sources
-- Buolamwini, J., & Gebru, T. (2018). Gender shades: Intersectional accuracy disparities in commercial gender classification. *Proceedings of the 1st Conference on Fairness, Accountability and Transparency, PMLR 81*, 77–91. [doi:10.1145/3278721.3278733](https://doi.org/10.1145/3278721.3278733)
+- Buolamwini, J., & Gebru, T. (2018). Gender shades: Intersectional accuracy disparities in commercial gender classification. *Proceedings of the 1st Conference on Fairness, Accountability and Transparency, PMLR 81*, 77–91.
 - Baker, R. S., & Hawn, A. (2022). Algorithmic bias in education. *International Journal of Artificial Intelligence in Education, 32*(4), 1052–1092. [doi:10.1007/s40593-021-00285-9](https://doi.org/10.1007/s40593-021-00285-9)
 - Holmes, W., Porayska-Pomsta, K., Holstein, K., et al. (2022). Ethics of AI in education: Towards a community-wide framework. *International Journal of Artificial Intelligence in Education, 32*(3), 504–526. [doi:10.1007/s40593-021-00239-1](https://doi.org/10.1007/s40593-021-00239-1)
 - Kizilcec, R. F., & Lee, H. (2022). Algorithmic fairness in education. In W. Holmes & K. Porayska-Pomsta (Eds.), *The Ethics of Artificial Intelligence in Education*. Routledge.

@@ -71,5 +71,5 @@ Writing conferences enact [formative feedback](../patterns/formative-assessment.
 - Atwell, N. (1987). *In the middle: Writing, reading, and learning with adolescents*. Boynton/Cook.
 - Calkins, L. M. (1994). *The art of teaching writing* (New ed.). Heinemann.
 - Freedman, S. W., & Sperling, M. (Eds.). (1985). *Learning to write: The development of written language*. Ablex.
-- Graham, S., & Sandmel, D. (2011). The process writing approach: A meta-analysis. *Journal of Educational Psychology, 103*(4), 879–896.
+- Graham, S., & Sandmel, D. (2011). The process writing approach: A meta-analysis. *The Journal of Educational Research, 104*(6), 396–407. [doi:10.1080/00220671.2010.488703](https://doi.org/10.1080/00220671.2010.488703)
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)

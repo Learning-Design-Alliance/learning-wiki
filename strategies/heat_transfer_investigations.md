@@ -14,7 +14,7 @@ sources:
     author: "Furtak, E. M., Seidel, T., Iverson, H., & Briggs, D. C"
   - id: alfieri-2011
     resource: "https://doi.org/10.1037/a0021017"
-    title: "Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does discovery-based instruction enhance learning? A meta-analysis. *Journal of Educational Psychology, 103*(1), 1–18"
+    title: "Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does discovery-based instruction enhance learning?. *Journal of Educational Psychology, 103*(1), 1–18"
     author: "Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R"
   - id: hattie-2009
     resource: "https://doi.org/10.4324/9780203887332"
@@ -81,5 +81,5 @@ Inquiry-based science teaching produces moderate positive effects on conceptual 
 
 ## Key Sources
 - Furtak, E. M., Seidel, T., Iverson, H., & Briggs, D. C. (2012). Experimental and quasi-experimental studies of inquiry-based science teaching: A meta-analysis. *Review of Educational Research, 82*(3), 300–329. [doi:10.3102/0034654312457206](https://doi.org/10.3102/0034654312457206)
-- Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does discovery-based instruction enhance learning? A meta-analysis. *Journal of Educational Psychology, 103*(1), 1–18. [doi:10.1037/a0021017](https://doi.org/10.1037/a0021017)
+- Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does discovery-based instruction enhance learning? *Journal of Educational Psychology, 103*(1), 1–18. [doi:10.1037/a0021017](https://doi.org/10.1037/a0021017)
 - Hattie, J. (2009). *Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement*. Routledge. [doi:10.4324/9780203887332](https://doi.org/10.4324/9780203887332)

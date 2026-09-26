@@ -10,7 +10,7 @@ generated:
 sources:
   - id: zimmerman-2002
     resource: "https://doi.org/10.1207/s15430421tip4102_2"
-    title: "Zimmerman, B. J. (2002). Becoming a self-regulated learner. *Theory Into Practice, 41*(2), 64-70"
+    title: "Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70"
     author: Zimmerman, B. J
 ---
 
@@ -43,4 +43,4 @@ Progress tracking is the element in which learners or instructors monitor advanc
 - [Self-Assessment](self-assessment.md)
 
 ## Key Sources
-- Zimmerman, B. J. (2002). Becoming a self-regulated learner. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
+- Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

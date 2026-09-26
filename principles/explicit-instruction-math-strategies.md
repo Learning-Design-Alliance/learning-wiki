@@ -14,11 +14,11 @@ sources:
     author: "Durkin, K., Star, J. R., & Rittle-Johnson, B"
   - id: rittle-johnson-2007
     resource: "https://doi.org/10.1037/0022-0663.99.3.561"
-    title: "Rittle-Johnson, B., & Star, J. R. (2007). Does comparing solution methods facilitate conceptual and procedural knowledge? *Journal of Educational Psychology, 99*(3), 561-574"
+    title: "Rittle-Johnson, B., & Star, J. R. (2007). Does comparing solution methods facilitate conceptual and procedural knowledge? An experimental study on learning to solve equations *Journal of Educational Psychology, 99*(3), 561-574"
     author: "Rittle-Johnson, B., & Star, J. R"
   - id: kirschner-2006
     resource: "https://doi.org/10.1207/s15326985ep4102_1"
-    title: "Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during instruction does not work. *Educational Psychologist, 41*(2), 75-86"
+    title: "Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during instruction does not work: An analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching. *Educational Psychologist, 41*(2), 75-86"
     author: "Kirschner, P. A., Sweller, J., & Clark, R. E"
 ---
 
@@ -90,6 +90,6 @@ Explicit instruction in math strategies works best when learners are shown not o
 
 ## Key Sources
 - Durkin, K., Star, J. R., & Rittle-Johnson, B. (2017). Using comparison of multiple strategies in the mathematics classroom. *ZDM, 49*(4), 585-597. [doi:10.1007/s11858-017-0853-9](https://doi.org/10.1007/s11858-017-0853-9)
-- Rittle-Johnson, B., & Star, J. R. (2007). Does comparing solution methods facilitate conceptual and procedural knowledge? *Journal of Educational Psychology, 99*(3), 561-574. [doi:10.1037/0022-0663.99.3.561](https://doi.org/10.1037/0022-0663.99.3.561)
-- Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during instruction does not work. *Educational Psychologist, 41*(2), 75-86. [doi:10.1207/s15326985ep4102_1](https://doi.org/10.1207/s15326985ep4102_1)
+- Rittle-Johnson, B., & Star, J. R. (2007). Does comparing solution methods facilitate conceptual and procedural knowledge? An experimental study on learning to solve equations. *Journal of Educational Psychology, 99*(3), 561-574. [doi:10.1037/0022-0663.99.3.561](https://doi.org/10.1037/0022-0663.99.3.561)
+- Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during instruction does not work: An analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching. *Educational Psychologist, 41*(2), 75-86. [doi:10.1207/s15326985ep4102_1](https://doi.org/10.1207/s15326985ep4102_1)
 - U.S. Department of Education, Office of Career, Technical, and Adult Education. (2014). *TEAL Math Works! Guide*.

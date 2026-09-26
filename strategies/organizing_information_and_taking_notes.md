@@ -71,5 +71,5 @@ Organizing information reduces extraneous cognitive load by offloading working m
 ## Key Sources
 - Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)
 - Nesbit, J. C., & Adesope, O. O. (2006). Learning with concept and knowledge maps: A meta-analysis. *Review of Educational Research, 76*(3), 413–448. [doi:10.3102/00346543076003413](https://doi.org/10.3102/00346543076003413)
-- Kiewra, K. A. (1989). A review of note-taking: The encoding-storage perspective and beyond. *Educational Psychology Review, 1*(2), 147–172. [doi:10.1007/BF01326640](https://doi.org/10.1007/BF01326640)
+- Kiewra, K. A. (1989). A review of note-taking: The encoding-storage paradigm and beyond. *Educational Psychology Review, 1*(2), 147–172. [doi:10.1007/BF01326640](https://doi.org/10.1007/BF01326640)
 - Pauk, W., & Owens, R. J. Q. (2011). *How to Study in College* (10th ed.). Wadsworth.

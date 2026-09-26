@@ -70,4 +70,4 @@ Interviews make learning situated and purposeful: learners must activate prior k
 - Herrington, J., & Oliver, R. (2000). An instructional design framework for authentic learning environments. *Educational Technology Research and Development, 48*(3), 23–48. [doi:10.1007/BF02319856](https://doi.org/10.1007/BF02319856)
 - Collins, A., & Kapur, M. (2014). Cognitive apprenticeship. In R. K. Sawyer (Ed.), *The Cambridge Handbook of the Learning Sciences* (2nd ed., pp. 109–127). Cambridge University Press.
 - Rubin, H. J., & Rubin, I. S. (2012). *Qualitative Interviewing: The Art of Hearing Data* (3rd ed.). SAGE.
-- Lave, J., & Wenger, E. (1991). *Situated Learning: Legitimate Peripheral Participation*. Cambridge University Press. [doi:10.2307/2804509](https://doi.org/10.2307/2804509)
+- Lave, J., & Wenger, E. (1991). *Situated Learning: Legitimate Peripheral Participation*. Cambridge University Press. [doi:10.1017/cbo9780511815355](https://doi.org/10.1017/cbo9780511815355)

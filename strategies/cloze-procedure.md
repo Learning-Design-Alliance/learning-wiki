@@ -71,4 +71,4 @@ Cloze tasks work because generation requires deeper processing than recognition:
 - Taylor, W. L. (1953). Cloze procedure: A new tool for measuring readability. *Journalism Quarterly, 30*(4), 415–433. [doi:10.1177/107769905303000401](https://doi.org/10.1177/107769905303000401)
 - Oller, J. W. (1979). *Language tests at school: A pragmatic approach.* Longman.
 - Nation, I. S. P. (2001). *Learning vocabulary in another language.* Cambridge University Press. [doi:10.1017/CBO9781139524759](https://doi.org/10.1017/CBO9781139524759)
-- Shanahan, T., Callison, K., & Carriere, C. (2010). *Improving reading comprehension in kindergarten through 3rd grade: An IES practice guide.* National Center for Education Evaluation and Regional Assistance, IES, U.S. Department of Education. [doi:10.1037/e597192011-001](https://doi.org/10.1037/e597192011-001)
+- Shanahan, T., Callison, K., & Carriere, C. (2010). *Improving reading comprehension in kindergarten through 3rd grade: An IES practice guide.* National Center for Education Evaluation and Regional Assistance, IES, U.S. Department of Education.

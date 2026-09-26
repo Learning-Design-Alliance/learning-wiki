@@ -17,7 +17,7 @@ sources:
     title: "Schwamborn, A., Mayer, R. E., Thillmann, H., Leopold, C., & Leutner, D. (2010). Drawing as a generative activity and drawing as a prognostic activity. *Journal of Educational Psychology, 102*(4), 872–883"
     author: "Schwamborn, A., Mayer, R. E., Thillmann, H., Leopold, C., & Leutner, D"
   - id: fiorella-mayer-2016
-    resource: "https://doi.org/10.1017/CBO9781139547369"
+    resource: "https://doi.org/10.1017/cbo9781107707085"
     title: "Fiorella, L., & Mayer, R. E. (2016). *Learning as a generative activity: Eight learning strategies that promote understanding*. Cambridge University Press"
     author: "Fiorella, L., & Mayer, R. E"
   - id: stull-mayer-2007
@@ -106,6 +106,6 @@ The important caveat is that the evidence base is for *drawing to learn*, not fo
 - Ainsworth, S., Prain, V., & Tytler, R. (2011). Drawing to learn in science. *Science, 333*(6046), 1096–1097. [doi:10.1126/science.1204153](https://doi.org/10.1126/science.1204153)
 - Schwamborn, A., Mayer, R. E., Thillmann, H., Leopold, C., & Leutner, D. (2010). Drawing as a generative activity and drawing as a prognostic activity. *Journal of Educational Psychology, 102*(4), 872–883. [doi:10.1037/a0019640](https://doi.org/10.1037/a0019640)
 - Stull, A. T., & Mayer, R. E. (2007). Learning by doing versus learning by viewing: Three experimental comparisons of learner-generated versus author-provided graphic organizers. *Journal of Educational Psychology, 99*(4), 808–820. [doi:10.1037/0022-0663.99.4.808](https://doi.org/10.1037/0022-0663.99.4.808)
-- Fiorella, L., & Mayer, R. E. (2016). *Learning as a generative activity: Eight learning strategies that promote understanding*. Cambridge University Press. [doi:10.1017/CBO9781139547369](https://doi.org/10.1017/CBO9781139547369)
+- Fiorella, L., & Mayer, R. E. (2016). *Learning as a generative activity: Eight learning strategies that promote understanding*. Cambridge University Press. [doi:10.1017/cbo9781107707085](https://doi.org/10.1017/cbo9781107707085)
 - Van Meter, P., & Garner, J. (2005). The promise and challenge of advancing generative drawing as a model-building activity for learning. *Educational Psychology Review, 17*(4), 285–325.
 - Wammes, J. D., Meade, M. E., & Fernandes, M. A. (2016). Learning concepts by drawing pictures. *Quarterly Journal of Experimental Psychology, 69*(9), 1759–1771.

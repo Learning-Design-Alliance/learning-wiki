@@ -71,5 +71,5 @@ Signaling improves learning outcomes across media, with meta-analytic evidence o
 - Mautone, P. D., & Mayer, R. E. (2001). Signaling as a cognitive guide in multimedia learning. *Journal of Educational Psychology, 93*(2), 377–389. [doi:10.1037/0022-0663.93.2.377](https://doi.org/10.1037/0022-0663.93.2.377)
 - Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/CBO9780511811678](https://doi.org/10.1017/CBO9780511811678)
 - de Koning, B. B., Tabbers, H. K., Rikers, R. M. J. P., & Paas, F. (2009). Towards a framework for attention cueing in instructional animations. *Educational Psychology Review, 21*(2), 113–140. [doi:10.1007/s10648-009-9098-7](https://doi.org/10.1007/s10648-009-9098-7)
-- Fiorella, L., & Mayer, R. E. (2016). Eight ways to promote generative learning in multimedia learning settings. *Educational Psychology Review, 28*(4), 717–741. [doi:10.1007/s10648-015-9348-9](https://doi.org/10.1007/s10648-015-9348-9)
+- Fiorella, L., & Mayer, R. E. (2016). Eight ways to promote generative learning. *Educational Psychology Review, 28*(4), 717–741. [doi:10.1007/s10648-015-9348-9](https://doi.org/10.1007/s10648-015-9348-9)
 - Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the science of instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)

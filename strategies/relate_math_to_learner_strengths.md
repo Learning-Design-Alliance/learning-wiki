@@ -77,7 +77,7 @@ Connecting content to personal interest raises situational interest, which suppo
 - **[The Adventures of Jasper Woodbury](https://peabody.vanderbilt.edu/depts/learning-teaching/learning-teaching-research/jasper-project.php)** (Vanderbilt) — anchored video adventures requiring authentic mathematical problem solving in realistic contexts.
 
 ## Key Sources
-- Walkington, C. (2013). Using adaptive learning technologies to personalize instruction to student interests: The impact of relevant contexts on performance and learning. *Journal of Educational Psychology, 105*(4), 932–945. [doi:10.1037/a0031882](https://doi.org/10.1037/a0031882)
+- Walkington, C. (2013). Using adaptive learning technologies to personalize instruction to student interests: The impact of relevant contexts on performance and learning outcomes. *Journal of Educational Psychology, 105*(4), 932–945. [doi:10.1037/a0031882](https://doi.org/10.1037/a0031882)
 - Hidi, S., & Renninger, K. A. (2006). The four-phase model of interest development. *Educational Psychologist, 41*(2), 111–127. [doi:10.1207/s15326985ep4102_4](https://doi.org/10.1207/s15326985ep4102_4)
 - Cognition and Technology Group at Vanderbilt (1992). The Jasper experiment: An exploration of issues in learning and instructional design. *Educational Technology Research and Development, 40*(1), 65–80. [doi:10.1007/BF02296707](https://doi.org/10.1007/BF02296707)
 - Boaler, J. (2016). *Mathematical Mindsets: Unleashing Students' Potential through Creative Math, Inspiring Messages and Innovative Teaching.* Jossey-Bass.

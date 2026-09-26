@@ -83,7 +83,7 @@ Simulation alone is an experience; learning comes from the structure wrapped aro
 - **iCivics "Argument Wars"** (https://www.icivics.org) — simulated Supreme Court arguments with structured role goals and post-game reflection questions
 
 ## Key Sources
-- Sitzmann, T. (2011). A meta-analytic examination of the instructional effectiveness of computer-based simulation environments. *Personnel Psychology, 64*(2), 489–528. [doi:10.1111/j.1744-6570.2011.01190.x](https://doi.org/10.1111/j.1744-6570.2011.01190.x)
+- Sitzmann, T. (2011). A meta-analytic examination of the instructional effectiveness of computer-based simulation games. *Personnel Psychology, 64*(2), 489–528. [doi:10.1111/j.1744-6570.2011.01190.x](https://doi.org/10.1111/j.1744-6570.2011.01190.x)
 - Chernikova, O., Heitzmann, N., Stadler, M., Holzberger, D., Seidel, T., & Fischer, F. (2020). Simulation-based learning in higher education: A meta-analysis. *Educational Psychology Review, 32*, 489–521. [doi:10.3102/0034654320933544](https://doi.org/10.3102/0034654320933544)
 - Garris, R., Ahlers, R., & Driskell, J. E. (2002). Games, motivation, and learning: A research and practice model. *Simulation & Gaming, 33*(4), 441–467. [doi:10.1177/1046878102238607](https://doi.org/10.1177/1046878102238607)
 - Kolb, D. A. (1984). *Experiential learning: Experience as the source of learning and development*. Prentice Hall.

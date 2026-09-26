@@ -74,6 +74,6 @@ Authentic audiences shift learners from performance-for-evaluation toward commun
 - Cohen, M., & Riel, M. (1989). The effect of distant audiences on students' writing. *American Educational Research Journal, 26*(2), 143–159. [doi:10.3102/00028312026002143](https://doi.org/10.3102/00028312026002143)
 - Herrington, J., & Oliver, R. (2000). An instructional design framework for authentic learning environments. *Educational Technology Research and Development, 48*(3), 23–48. [doi:10.1007/BF02319856](https://doi.org/10.1007/BF02319856)
 - Gulikers, J. T. M., Bastiaens, T. J., & Kirschner, P. A. (2004). A five-dimensional framework for authentic assessment. *Educational Technology Research and Development, 52*(3), 67–86. [doi:10.1007/BF02504676](https://doi.org/10.1007/BF02504676)
-- Lave, J., & Wenger, E. (1991). *Situated learning: Legitimate peripheral participation.* Cambridge University Press. [doi:10.2307/2804509](https://doi.org/10.2307/2804509)
+- Lave, J., & Wenger, E. (1991). *Situated learning: Legitimate peripheral participation.* Cambridge University Press. [doi:10.1017/cbo9780511815355](https://doi.org/10.1017/cbo9780511815355)
 - Rule, A. C. (2006). Editorial: The components of authentic learning. *Journal of Authentic Learning, 3*(1), 1–10.
 

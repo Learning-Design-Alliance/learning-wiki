@@ -63,6 +63,6 @@ Teaching learners to ask structured provenance questions converts an amorphous d
 - **Stanford History Education Group civic online reasoning curriculum** ([sheg.stanford.edu](https://sheg.stanford.edu)) — classroom tasks in which students evaluate real tweets, images, and websites; the evaluation questions embed the same provenance logic.
 
 ## Key Sources
-- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record: The Voice of Scholarship in Education, 121*(11), 1–40. [doi:10.1177/016146811912101102](https://doi.org/10.1177/016146811912101102)
+- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(11), 1–40. [doi:10.1177/016146811912101102](https://doi.org/10.1177/016146811912101102)
 - Breakstone, J., Smith, M., Orland, M., Barr, D., & Wineburg, S. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8), 505–515. [doi:10.3102/0013189X211017495](https://doi.org/10.3102/0013189X211017495)
 - McGrew, S., Ortega, T., Breakstone, J., & Wineburg, S. (2017). The challenge that's bigger than fake news: Civic reasoning in a social media environment. *American Educator, 41*(3), 4–9.

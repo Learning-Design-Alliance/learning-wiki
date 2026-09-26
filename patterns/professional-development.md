@@ -117,7 +117,7 @@ Program — effective PD unfolds over months to years, embedded in teachers' ong
 
 ## Key Sources
 - Darling-Hammond, L., Hyler, M. E., & Gardner, M. (2017). Effective teacher professional development. *Learning Policy Institute*. [doi:10.54300/122.311](https://doi.org/10.54300/122.311)
-- Kraft, M. A., Blazar, D., & Hogan, D. (2018). The effect of teacher coaching on instruction and achievement: A meta-analysis of 60 causal studies. *Review of Educational Research, 88*(4), 547–588. [doi:10.3102/0034654318759268](https://doi.org/10.3102/0034654318759268)
+- Kraft, M. A., Blazar, D., & Hogan, D. (2018). The effect of teacher coaching on instruction and achievement: A meta-analysis of the causal evidence. *Review of Educational Research, 88*(4), 547–588. [doi:10.3102/0034654318759268](https://doi.org/10.3102/0034654318759268)
 - Guskey, T. R. (2000). *Evaluating professional development*. Corwin Press.
 - Darling-Hammond, L., Wei, R. C., Andree, A., Richardson, N., & Orphanos, S. (2009). Professional learning in the learning profession: A status report on teacher development in the United States and abroad. *National Staff Development Council*.
 - Timperley, H., Wilson, A., Barrar, H., & Fung, I. (2007). *Teacher professional learning and development: Best evidence synthesis iteration*. New Zealand Ministry of Education.

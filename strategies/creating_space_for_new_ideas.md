@@ -13,7 +13,6 @@ sources:
     title: "Edmondson, A. (1999). Psychological safety and learning behavior in work teams. *Administrative Science Quarterly, 44*(2), 350–383"
     author: "Edmondson, A."
   - id: bryk-2015
-    resource: "https://doi.org/10.1080/00405841.2015.1044372"
     title: "Bryk, A. S., Gomez, L. M., Grunow, A., & LeMahieu, P. G. (2015). *Learning to Improve: How America's Schools Can Get Better at Getting Better*. Harvard Education Press"
     author: "Bryk, A. S., et al."
   - id: dweck-2006
@@ -31,7 +30,7 @@ Creating space for new ideas means deliberately structuring the conditions under
 
 ## Design Implications
 
-Innovation in schools is fundamentally a team learning problem, and team learning depends on members believing that interpersonal risk-taking — asking questions, admitting uncertainty, proposing untested ideas — will not be punished [Psychological safety enables learning behaviors such as asking for help and experimenting.](https://doi.org/10.1287/orsc.2.1.40) [+S]. Edmondson's research shows that teams with high psychological safety report *more* errors and discuss them more openly, not because they make more mistakes but because they surface and learn from them [+S]. Improvement-science approaches operationalize this by treating each classroom trial as a small, fast test within a larger improvement cycle rather than a high-stakes adoption decision [Rapid-cycle improvement makes failure cheap and informative.](https://doi.org/10.1080/00405841.2015.1044372) [+M].
+Innovation in schools is fundamentally a team learning problem, and team learning depends on members believing that interpersonal risk-taking — asking questions, admitting uncertainty, proposing untested ideas — will not be punished [Psychological safety enables learning behaviors such as asking for help and experimenting.](https://doi.org/10.1287/orsc.2.1.40) [+S]. Edmondson's research shows that teams with high psychological safety report *more* errors and discuss them more openly, not because they make more mistakes but because they surface and learn from them [+S]. Improvement-science approaches operationalize this by treating each classroom trial as a small, fast test within a larger improvement cycle rather than a high-stakes adoption decision Rapid-cycle improvement makes failure cheap and informative. [+M].
 
 ### Context
 #### Requirements
@@ -65,7 +64,7 @@ Innovation in schools is fundamentally a team learning problem, and team learnin
 ### Instructions
 1. Establish explicit norms that experimentation is expected and that honest reporting of failure is valued — leaders go first by sharing their own missteps [+S]
 2. Schedule protected time for pilots and debriefs; treat it as non-negotiable as instructional time
-3. Frame each trial as a small test with a clear measure, following improvement-science routines [Rapid-cycle improvement makes failure cheap and informative.](https://doi.org/10.1080/00405841.2015.1044372) [+M]
+3. Frame each trial as a small test with a clear measure, following improvement-science routines Rapid-cycle improvement makes failure cheap and informative. [+M]
 4. Pair experimenting teachers with [Coaching](../elements/coaching.md) support so risk-taking is scaffolded, not solitary
 5. Use structured [Check-In](../elements/check-in.md) routines and team meetings to surface obstacles early, before they harden into disengagement
 6. Debrief at the task and process level — what did the change do to student learning? — rather than evaluating the teacher [Feedback most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
@@ -82,6 +81,6 @@ Innovation in schools is fundamentally a team learning problem, and team learnin
 
 ## Key Sources
 - Edmondson, A. (1999). Psychological safety and learning behavior in work teams. *Administrative Science Quarterly, 44*(2), 350–383. [doi:10.2307/2666999](https://doi.org/10.2307/2666999)
-- Bryk, A. S., Gomez, L. M., Grunow, A., & LeMahieu, P. G. (2015). *Learning to Improve: How America's Schools Can Get Better at Getting Better*. Harvard Education Press. [doi:10.1080/00405841.2015.1044372](https://doi.org/10.1080/00405841.2015.1044372)
+- Bryk, A. S., Gomez, L. M., Grunow, A., & LeMahieu, P. G. (2015). *Learning to Improve: How America's Schools Can Get Better at Getting Better*. Harvard Education Press.
 - Dweck, C. S. (2006). *Mindset: The New Psychology of Success*. Random House.
 - Edmondson, A. C., & Lei, Z. (2014). Psychological safety: The history, renaissance, and future of an interpersonal construct. *Annual Review of Organizational Psychology and Organizational Behavior, 1*(1), 23–43. [doi:10.1146/annurev-orgpsych-031413-091305](https://doi.org/10.1146/annurev-orgpsych-031413-091305)

@@ -10,7 +10,7 @@ generated:
 sources:
   - id: cepeda-2006
     resource: "https://doi.org/10.1037/0033-2909.132.3.354"
-    title: "Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks. *Psychological Bulletin, 132*(3), 354-380"
+    title: "Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin, 132*(3), 354-380"
     author: "Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D"
 ---
 
@@ -50,4 +50,4 @@ Spaced repetition is the element in which key material is revisited at strategic
 - Recurrent low-stakes review of vocabulary or formulas at increasing intervals.
 
 ## Key Sources
-- Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks. *Psychological Bulletin, 132*(3), 354-380. [https://doi.org/10.1037/0033-2909.132.3.354](https://doi.org/10.1037/0033-2909.132.3.354)
+- Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin, 132*(3), 354-380. [https://doi.org/10.1037/0033-2909.132.3.354](https://doi.org/10.1037/0033-2909.132.3.354)

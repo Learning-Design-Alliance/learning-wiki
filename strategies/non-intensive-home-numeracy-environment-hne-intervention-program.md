@@ -18,7 +18,7 @@ A non-intensive HNE intervention is a low-burden, teacher-initiated program in w
 
 ## Design Implications
 
-The home numeracy environment — especially the frequency of parent–child activities involving number and calculation — predicts children's arithmetic and number knowledge over and above family income and parental education [Home numeracy activities predict children's early number and arithmetic skills.](https://doi.org/10.1016/j.jecp.2013.12.003) [+M]. Non-intensive interventions work by nudging this environment rather than replacing classroom instruction: they are additive, low-cost, and leverage the personalization that only families can provide. Effects are strongest when materials are concrete and the activities are genuinely playful rather than disguised worksheets [-W].
+The home numeracy environment — especially the frequency of parent–child activities involving number and calculation — predicts children's arithmetic and number knowledge over and above family income and parental education Home numeracy activities predict children's early number and arithmetic skills. [+M]. Non-intensive interventions work by nudging this environment rather than replacing classroom instruction: they are additive, low-cost, and leverage the personalization that only families can provide. Effects are strongest when materials are concrete and the activities are genuinely playful rather than disguised worksheets [-W].
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ The home numeracy environment — especially the frequency of parent–child act
 - **Embedded curricula**: programs like *Bedtime Math* (Carnegie Mellon's [Bedtime Math app](https://bedtimemath.org)) deliver a daily story with a math question, requiring almost no parent preparation
 
 ### Target Learners
-- Preschool and early-elementary children (ages ~3–8), for whom informal number play most strongly predicts later arithmetic [Home numeracy activities predict children's early number and arithmetic skills.](https://doi.org/10.1016/j.jecp.2013.12.003) [+M]
+- Preschool and early-elementary children (ages ~3–8), for whom informal number play most strongly predicts later arithmetic Home numeracy activities predict children's early number and arithmetic skills. [+M]
 - Families with limited confidence in math, who benefit most from scripted, low-preparation activities
 - Children with limited access to math materials at home, when kits and lending libraries remove cost barriers
 
@@ -69,7 +69,7 @@ The home numeracy environment — especially the frequency of parent–child act
 - **Family Math (Lawrence Hall of Science, UC Berkeley)** — A published activity curriculum ([https://lawrencehallofscience.org](https://www.lawrencehallofscience.org/do-science/family-math)) providing household-math activities designed for home use.
 
 ## Key Sources
-- Skwarchuk, S.-L., Sowinski, C., & LeFevre, J.-A. (2014). The home numeracy environment: What parents do and what I need to know. *Journal of Experimental Child Psychology, 122*, 59–77. [doi:10.1016/j.jecp.2013.12.003](https://doi.org/10.1016/j.jecp.2013.12.003)
+- Skwarchuk, S.-L., Sowinski, C., & LeFevre, J.-A. (2014). The home numeracy environment: What parents do and what I need to know. *Journal of Experimental Child Psychology, 122*, 59–77.
 - LeFevre, J.-A., Skwarchuk, S.-L., Smith-Chant, B. L., Fast, L., Kamawar, D., & Bisanz, J. (2009). Home numeracy experiences and children's math performance in the early school years. *Canadian Journal of Behavioural Science, 41*(2), 55–66. [doi:10.1037/a0014532](https://doi.org/10.1037/a0014532)
 - Berkowitz, T., Schaeffer, M. W., Maloney, E. A., Peterson, L., Gregor, C., Levine, S. C., & Beilock, S. L. (2015). Math at home adds up to achievement in school. *Science, 350*(6257), 196–198. [doi:10.1126/science.aac7427](https://doi.org/10.1126/science.aac7427)
 - Napoli, A. R., & Purpura, D. J. (2018). The home literacy and numeracy environment in preschool: Their relations to young children's early literacy and mathematics skills. *Early Childhood Research Quarterly, 44*, 63–76.

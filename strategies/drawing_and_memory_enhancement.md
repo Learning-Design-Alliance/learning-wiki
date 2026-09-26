@@ -68,5 +68,5 @@ Drawing works because it is generative: learners must select critical informatio
 ## Key Sources
 - Wammes, J. D., Meade, M. E., & Fernandes, M. A. (2016). The drawing effect: Evidence for reliable and robust memory benefits in free recall. *Quarterly Journal of Experimental Psychology, 69*(9), 1752–1776. [doi:10.1080/17470218.2015.1094494](https://doi.org/10.1080/17470218.2015.1094494)
 - Fiorella, L., & Mayer, R. E. (2016). Eight ways to promote generative learning. *Educational Psychology Review, 28*(4), 717–741. [doi:10.1007/s10648-015-9348-9](https://doi.org/10.1007/s10648-015-9348-9)
-- Scheiter, K., Schubert, C., & Schüler, A. (2017). Self-generated drawing: A help or hindrance to learning from animation? *Learning and Instruction, 47*, 13–24. [doi:10.1016/j.learninstruc.2016.08.004](https://doi.org/10.1016/j.learninstruc.2016.08.004)
+- Scheiter, K., Schubert, C., & Schüler, A. (2017). Self-generated drawing: A help or hindrance to learning from animation? *Learning and Instruction, 47*, 13–24.
 - Paivio, A. (1986). *Mental representations: A dual coding approach.* Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)

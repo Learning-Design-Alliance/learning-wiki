@@ -10,7 +10,7 @@ generated:
 sources:
   - id: hmelo-silver-2007
     resource: "https://doi.org/10.1080/00461520701263368"
-    title: "Hmelo-Silver, C. E., Duncan, R. G., & Chinn, C. A. (2007). Scaffolding and achievement in problem-based and inquiry learning. *Educational Psychologist, 42*(2), 99-107"
+    title: "Hmelo-Silver, C. E., Duncan, R. G., & Chinn, C. A. (2007). Scaffolding and achievement in problem-based and inquiry learning: A response to Kirschner, Sweller, and Clark (2006). *Educational Psychologist, 42*(2), 99-107"
     author: "Hmelo-Silver, C. E., Duncan, R. G., & Chinn, C. A"
 author: Scardamalia and Bereiter
 grain_size: unit
@@ -110,4 +110,4 @@ The pattern is most useful when the instructional goal is not just finding infor
 
 ## Key Sources
 - Scardamalia, M., & Bereiter, C. (2006). Knowledge building: Theory, pedagogy, and technology. In R. K. Sawyer (Ed.), *The Cambridge handbook of the learning sciences* (pp. 97-115). Cambridge University Press. [doi:10.1017/cbo9780511816833.008](https://doi.org/10.1017/cbo9780511816833.008)
-- Hmelo-Silver, C. E., Duncan, R. G., & Chinn, C. A. (2007). Scaffolding and achievement in problem-based and inquiry learning. *Educational Psychologist, 42*(2), 99-107. [https://doi.org/10.1080/00461520701263368](https://doi.org/10.1080/00461520701263368)
+- Hmelo-Silver, C. E., Duncan, R. G., & Chinn, C. A. (2007). Scaffolding and achievement in problem-based and inquiry learning: A response to Kirschner, Sweller, and Clark (2006). *Educational Psychologist, 42*(2), 99-107. [https://doi.org/10.1080/00461520701263368](https://doi.org/10.1080/00461520701263368)

@@ -72,4 +72,4 @@ Learning cycles embody the "experience before formalization" principle: concepts
 - Bybee, R. W., Taylor, J. A., Gardner, A., Van Scotter, P., Powell, J. C., Westbrook, A., & Landes, N. (2006). *The BSCS 5E instructional model: Origins and effectiveness*. BSCS.
 - Kolb, D. A. (1984). *Experiential learning: Experience as the source of learning and development*. Prentice Hall.
 - Kapur, M. (2008). Productive failure. *Cognition and Instruction, 26*(3), 379–424. [doi:10.1080/07370000802212669](https://doi.org/10.1080/07370000802212669)
-- Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during instruction does not work. *Educational Psychologist, 41*(2), 75–86. [doi:10.1207/s15326985ep4102_1](https://doi.org/10.1207/s15326985ep4102_1)
+- Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during instruction does not work: An analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching. *Educational Psychologist, 41*(2), 75–86. [doi:10.1207/s15326985ep4102_1](https://doi.org/10.1207/s15326985ep4102_1)

@@ -81,7 +81,7 @@ Audiobooks leverage the auditory channel to deliver rich language input while by
 - A middle school "listen-and-follow" routine uses synchronized audio-plus-text e-books from [Learning Ally](https://www.learningally.org), with students tracking print as they listen to build sound–print connections.
 
 ## Key Sources
-- Rogowsky, B. A., Calhoun, B. M., & Tallal, P. (2016). Does modality matter? The effects of reading, listening, and dual modality on comprehension and vocabulary. *SAGE Open, 6*(4). [doi:10.1177/2158244016669550](https://doi.org/10.1177/2158244016669550)
+- Rogowsky, B. A., Calhoun, B. M., & Tallal, P. (2016). Does modality matter? The effects of reading, listening, and dual modality on comprehension. *SAGE Open, 6*(4). [doi:10.1177/2158244016669550](https://doi.org/10.1177/2158244016669550)
 - Wolfson, G. (2008). Using audiobooks in EFL/ESL instruction. *TESL-EJ, 12*(4).
 - National Reading Panel (2000). *Teaching children to read: An evidence-based assessment of the scientific research literature on reading and its implications for reading instruction.* National Institute of Child Health and Human Development.
 - Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the Science of Instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)

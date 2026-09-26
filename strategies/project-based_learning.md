@@ -75,7 +75,7 @@ PBL connects learning to authentic contexts, which supports engagement and trans
 
 ## Key Sources
 - Kokotsaki, D., Menzies, V., & Wiggins, A. (2016). Project-based learning: A review of the literature. *Improving Schools, 19*(3), 267–277. [doi:10.1177/1365480216659733](https://doi.org/10.1177/1365480216659733)
-- Chen, C.-H., & Yang, Y.-C. (2019). Revisiting the effects of project-based learning on students' academic achievement: A meta-analysis. *Educational Research Review, 26*, 71–83. [doi:10.1016/j.edurev.2018.11.001](https://doi.org/10.1016/j.edurev.2018.11.001)
+- Chen, C.-H., & Yang, Y.-C. (2019). Revisiting the effects of project-based learning on students' academic achievement: A meta-analysis investigating moderators. *Educational Research Review, 26*, 71–83. [doi:10.1016/j.edurev.2018.11.001](https://doi.org/10.1016/j.edurev.2018.11.001)
 - Krajcik, J. S., & Shin, N. (2014). Project-based learning. In R. K. Sawyer (Ed.), *The Cambridge Handbook of the Learning Sciences* (2nd ed., pp. 275–297). Cambridge University Press.
 - Condliffe, B., Quint, J., Visher, M. G., Bangser, M. R., Drohojowska, S., Saco, L., & Nelson, E. (2017). *Project-based learning: A literature review*. MDRC. https://www.mdrc.org/publication/project-based-learning
 - Hmelo-Silver, C. E., Duncan, R. G., & Chinn, C. A. (2007). Scaffolding and achievement in problem-based and inquiry learning: A response to Kirschner, Sweller, and Clark (2006). *Educational Psychologist, 42*(2), 99–107. [doi:10.1080/00461520701263368](https://doi.org/10.1080/00461520701263368)

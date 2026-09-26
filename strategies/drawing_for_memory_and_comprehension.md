@@ -68,7 +68,7 @@ Drawing works because it combines multiple memory pathways: it engages [Dual Cod
 
 ## Key Sources
 - Wammes, J. D., Meade, M. E., & Fernandes, M. A. (2016). Learning concepts by drawing pictures. *Quarterly Journal of Experimental Psychology, 69*(9), 1759–1771.
-- Fiorella, L., & Mayer, R. E. (2016). Eight ways to promote generative learning in multimedia learning: Applying the SOI model. *Educational Psychology Review, 28*(4), 717–741. [doi:10.1007/s10648-015-9348-9](https://doi.org/10.1007/s10648-015-9348-9)
+- Fiorella, L., & Mayer, R. E. (2016). Eight ways to promote generative learning. *Educational Psychology Review, 28*(4), 717–741. [doi:10.1007/s10648-015-9348-9](https://doi.org/10.1007/s10648-015-9348-9)
 - Scheiter, K., Schubert, C., & Schüler, A. (2017). Self-generated drawing: A help or hindrance to learning from text? *Journal of Educational Psychology, 109*(5), 669–687.
 - Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)
 - Van Meter, P., & Garner, J. (2005). The promise and challenge of advancing generative drawing as a strategy for learning from text. *Educational Psychology Review, 17*(4), 285–311. [doi:10.1007/s10648-005-8124-6](https://doi.org/10.1007/s10648-005-8124-6)

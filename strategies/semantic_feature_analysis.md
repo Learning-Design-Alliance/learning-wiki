@@ -71,4 +71,4 @@ SFA works because it requires learners to compare and contrast related concepts 
 - Schwartz, R. M., & Raphael, T. E. (1985). Concept of definition: A key to improving students' vocabulary. *The Reading Teacher, 39*(2), 198–205.
 - Bos, C. S., & Anders, P. L. (1990). Effects of interactive vocabulary instruction on the vocabulary learning and reading comprehension of junior-high learning-disabled students. *Learning Disability Quarterly, 13*(1), 31–42. [doi:10.2307/1510390](https://doi.org/10.2307/1510390)
 - Anders, P. L., & Bos, C. S. (1986). Semantic feature analysis: An interactive strategy for vocabulary development and text comprehension. *Journal of Reading, 29*(7), 610–616.
-- Nagy, W. E. (1988). *Teaching vocabulary to improve reading comprehension.* International Reading Association. [doi:10.2307/747665](https://doi.org/10.2307/747665)
+- Nagy, W. E. (1988). *Teaching vocabulary to improve reading comprehension.* International Reading Association.

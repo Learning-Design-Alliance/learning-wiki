@@ -69,7 +69,7 @@ Fluency games work because they embed high-frequency retrieval practice in a mot
 - **"Multiplication War"** — card game where players flip cards and race to state the product; near-zero setup cost and very high retrieval density per session.
 
 ## Key Sources
-- Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital games for learning: A systematic review and meta-analysis. *Review of Educational Research, 86*(1), 79–122. [doi:10.3102/0034654315582065](https://doi.org/10.3102/0034654315582065)
-- Baroody, A. J., Bajwa, N. P., & Eiland, M. (2009). Why can't I remember the multiplication facts? *Developmental Disabilities Research Reviews, 15*(1), 69-79. [doi:10.1002/ddrr.45](https://doi.org/10.1002/ddrr.45)
+- Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital games, design, and learning: A systematic review and meta-analysis. *Review of Educational Research, 86*(1), 79–122. [doi:10.3102/0034654315582065](https://doi.org/10.3102/0034654315582065)
+- Baroody, A. J., Bajwa, N. P., & Eiland, M. (2009). Why can't Johnny remember the basic facts? *Developmental Disabilities Research Reviews, 15*(1), 69-79. [doi:10.1002/ddrr.45](https://doi.org/10.1002/ddrr.45)
 - Plass, J. L., Homer, B. D., & Kinzer, C. K. (2015). Foundations of game-based learning. *Educational Psychologist, 50*(4), 258–283. [doi:10.1080/00461520.2015.1122533](https://doi.org/10.1080/00461520.2015.1122533)
 - Rittle-Johnson, B., Siegler, R. S., & Alibali, M. W. (2001). Developing conceptual understanding and procedural skill in mathematics: An iterative process. *Journal of Educational Psychology, 93*(2), 346–362. [doi:10.1037/0022-0663.93.2.346](https://doi.org/10.1037/0022-0663.93.2.346)

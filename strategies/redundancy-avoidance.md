@@ -65,7 +65,7 @@ Redundant channels compete for limited working memory: when identical content ar
 - **Duolingo** introduces new words in a single modality first (audio with image), rather than simultaneously presenting audio, written word, and translation.
 
 ## Key Sources
-- Sweller, J., & Chandler, P. (1994). Why some material is hard to learn. *Cognition and Instruction, 12*(3), 185–233. [doi:10.1207/s1532690xci1203_1](https://doi.org/10.1207/s1532690xci1203_1)
+- Sweller, J., & Chandler, P. (1994). Why Some Material Is Difficult to Learn. *Cognition and Instruction, 12*(3), 185–233. [doi:10.1207/s1532690xci1203_1](https://doi.org/10.1207/s1532690xci1203_1)
 - Mayer, R. E. (2009). *Multimedia Learning* (2nd ed.). Cambridge University Press. [doi:10.1017/CBO9780511811678](https://doi.org/10.1017/CBO9780511811678)
 - Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23–31. [doi:10.1207/S15326985EP3801_4](https://doi.org/10.1207/S15326985EP3801_4)
 - Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the Science of Instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)

@@ -10,7 +10,7 @@ generated:
 sources:
   - id: durkin-2012
     resource: "https://doi.org/10.1016/j.learninstruc.2011.11.001"
-    title: "Durkin, K., & Rittle-Johnson, B. (2012). The effectiveness of using erroneous examples to support learning of decimal magnitude. *Learning and Instruction, 22*(3), 206-214"
+    title: "Durkin, K., & Rittle-Johnson, B. (2012). The effectiveness of using incorrect examples to support learning about decimal magnitude. *Learning and Instruction, 22*(3), 206-214"
     author: "Durkin, K., & Rittle-Johnson, B"
 ---
 
@@ -57,5 +57,5 @@ Erroneous examples are worked examples that intentionally contain a mistake for 
 - Learners review a paragraph with a weak claim-evidence link and revise it to meet the rubric.
 
 ## Key Sources
-- Durkin, K., & Rittle-Johnson, B. (2012). The effectiveness of using erroneous examples to support learning of decimal magnitude. *Learning and Instruction, 22*(3), 206-214. [https://doi.org/10.1016/j.learninstruc.2011.11.001](https://doi.org/10.1016/j.learninstruc.2011.11.001)
+- Durkin, K., & Rittle-Johnson, B. (2012). The effectiveness of using incorrect examples to support learning about decimal magnitude. *Learning and Instruction, 22*(3), 206-214. [https://doi.org/10.1016/j.learninstruc.2011.11.001](https://doi.org/10.1016/j.learninstruc.2011.11.001)
 - Siegler, R. S. (2002). Microgenetic studies of self-explanation. In N. Granott & J. Parziale (Eds.), *Microdevelopment: Transition processes in development and learning*. Cambridge University Press.

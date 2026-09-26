@@ -69,5 +69,5 @@ The strategy rests on social learning theory: learners acquire attitudes, expect
 ## Key Sources
 - Bandura, A. (1977). *Social learning theory*. Prentice Hall.
 - Bandura, A. (1997). *Self-efficacy: The exercise of control*. W. H. Freeman.
-- Lave, J., & Wenger, E. (1991). *Situated learning: Legitimate peripheral participation*. Cambridge University Press. [doi:10.2307/2804509](https://doi.org/10.2307/2804509)
+- Lave, J., & Wenger, E. (1991). *Situated learning: Legitimate peripheral participation*. Cambridge University Press. [doi:10.1017/cbo9780511815355](https://doi.org/10.1017/cbo9780511815355)
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

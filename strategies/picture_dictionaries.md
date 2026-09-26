@@ -71,4 +71,4 @@ Pairing words with relevant images supports recall better than words alone, cons
 - Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)
 - Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/CBO9780511811678](https://doi.org/10.1017/CBO9780511811678)
 - Nation, I. S. P. (2001). *Learning vocabulary in another language*. Cambridge University Press. [doi:10.1017/CBO9781139524759](https://doi.org/10.1017/CBO9781139524759)
-- Harp, S. F., & Mayer, R. E. (1998). How seductive details do their damage: A theory of cognitive interest in scientific learning. *Journal of Educational Psychology, 90*(3), 414–434. [doi:10.1037/0022-0663.90.3.414](https://doi.org/10.1037/0022-0663.90.3.414)
+- Harp, S. F., & Mayer, R. E. (1998). How seductive details do their damage: A theory of cognitive interest in science learning. *Journal of Educational Psychology, 90*(3), 414–434. [doi:10.1037/0022-0663.90.3.414](https://doi.org/10.1037/0022-0663.90.3.414)
