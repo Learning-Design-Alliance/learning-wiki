@@ -100,6 +100,12 @@ def save_cache(cache: dict) -> None:
 
 
 def _is_stale(entry: dict) -> bool:
+    # An unresolved entry with no "registry" key was written before
+    # resolve_doi() asked DataCite, so its "not found" covers Crossref only.
+    # Re-resolve it rather than let a cached Crossref 404 keep stripping a
+    # DataCite DOI for another 30 days.
+    if not entry.get("resolved") and "registry" not in entry:
+        return True
     return date.today() - date.fromisoformat(entry["checked_at"]) > timedelta(days=CACHE_TTL_DAYS)
 
 
@@ -115,7 +121,16 @@ def resolve_doi(doi: str) -> dict:
     resp = _get_with_retry(url, params)
     today = date.today().isoformat()
     if resp.status_code == 404:
-        return {"doi": doi, "resolved": False, "title": None, "checked_at": today}
+        # Crossref indexes only its own registrations, so a 404 here is not
+        # proof the DOI is wrong: a DataCite DOI (repositories, institutional
+        # journals such as Utah State's digitalcommons, Zenodo) is simply
+        # absent. The ingest gate used to strip those as not_found. Ask
+        # DataCite before concluding anything.
+        datacite = resolve_datacite(doi)
+        if datacite is not None:
+            return datacite
+        return {"doi": doi, "resolved": False, "title": None,
+                "registry": None, "checked_at": today}
     resp.raise_for_status()
     msg = resp.json().get("message", {})
     # Crossref returns these HTML-escaped — "Youth &amp; Society", "Children
@@ -129,6 +144,7 @@ def resolve_doi(doi: str) -> dict:
     return {
         "doi": doi,
         "resolved": True,
+        "registry": "crossref",
         "title": titles[0] if titles else None,
         # Bibliographic fields, so a caller can check the journal/volume/pages
         # a page asserts rather than only its title. Crossref omits any of
@@ -141,6 +157,47 @@ def resolve_doi(doi: str) -> dict:
         "first_page": pages.split("-")[0].strip() or None if pages else None,
         "pages": pages or None,
         "checked_at": today,
+    }
+
+
+DATACITE_BASE = "https://api.datacite.org/dois/"
+
+
+def resolve_datacite(doi: str):
+    """Look `doi` up in DataCite. Returns a resolve_doi()-shaped record with
+    "registry": "datacite" when DataCite has it, or None when it does not (a
+    404) or the lookup failed. None never means "the DOI is wrong"; the
+    caller falls back to its Crossref-only answer.
+
+    Only the title is taken. journal, volume, issue and first page are always
+    None, which every consumer already reads as "the registry did not say".
+    DataCite's container metadata is supplied by each repository and is far
+    less uniform than Crossref's, so it is not allowed to rewrite a page's
+    journal coordinates. A DataCite DOI can therefore be verified by title,
+    and nothing else about the citation changes."""
+    import urllib.parse
+    url = DATACITE_BASE + urllib.parse.quote(doi, safe="/")
+    try:
+        compliance.guard(url)
+        resp = _get_with_retry(url, {})
+        if resp.status_code != 200:
+            return None
+        attrs = (resp.json().get("data") or {}).get("attributes") or {}
+    except Exception:
+        return None
+    entries = [t for t in (attrs.get("titles") or [])
+               if isinstance(t, dict) and isinstance(t.get("title"), str)]
+    # The main title carries no titleType; Subtitle and TranslatedTitle do.
+    entries.sort(key=lambda t: bool(t.get("titleType")))
+    titles = [html.unescape(t["title"]) for t in entries]
+    return {
+        "doi": doi,
+        "resolved": True,
+        "registry": "datacite",
+        "title": titles[0] if titles else None,
+        "journal": None, "volume": None, "issue": None,
+        "first_page": None, "pages": None,
+        "checked_at": date.today().isoformat(),
     }
 
 
