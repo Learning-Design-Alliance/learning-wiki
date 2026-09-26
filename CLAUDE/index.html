@@ -661,6 +661,17 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#2026-09-27-later-every-kind-is-linked-the-judge-is-spent-where-the-wiki-leans" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-27 (later) — every kind is linked; the judge is spent where the wiki leans
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#2026-09-27-claims-are-linked-and-merged-search-runs-on-an-index" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1400,6 +1411,17 @@
   
     <nav class="md-nav" aria-label="Working alongside other sessions — read this before starting">
       <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#2026-09-27-later-every-kind-is-linked-the-judge-is-spent-where-the-wiki-leans" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-27 (later) — every kind is linked; the judge is spent where the wiki leans
+      
+    </span>
+  </a>
+  
+</li>
         
           <li class="md-nav__item">
   <a href="#2026-09-27-claims-are-linked-and-merged-search-runs-on-an-index" class="md-nav__link">
@@ -2227,6 +2249,38 @@ work is done, not that the check is broken.</p>
 </ul>
 <p><strong>When you finish something wiki-wide, add a line here.</strong> That is how the next session
 finds out.</p>
+<h3 id="2026-09-27-later-every-kind-is-linked-the-judge-is-spent-where-the-wiki-leans">2026-09-27 (later) — every kind is linked; the judge is spent where the wiki leans<a class="headerlink" href="#2026-09-27-later-every-kind-is-linked-the-judge-is-spent-where-the-wiki-leans" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong><code>scripts/link_pages.py</code></strong> does for theories, principles, patterns, elements and strategies what
+  <code>link_claims.py</code> did for claims: each page outside the main component gets its source's other pages
+  (from the manifest) and its BM25 neighbours of any kind, and GLM says <code>related</code> (same kind, both
+  <code>## Related &lt;Kind&gt;</code>), <code>applies</code> / <code>applied_by</code> (the more abstract page's <code>## Examples</code>) or
+  <code>evidence</code> (a claim, into <code>### Claims</code> with a marker). A marker is never stronger than the
+  claim's recorded evidence: S needs two studies and a q3, M one study at q2 (<code>strength_cap</code>). No
+  claim link goes onto a strategy or element, whose claims sit in prose sections. 1,256 pages,
+  $0.12: <strong>isolated pages 718 → 90, main component 82% → 96%.</strong> 267 pages got no link because no
+  candidate fitted, and were left alone. The batch runs it after <code>link_claims.py</code>.</li>
+<li><strong>The batch runs with no gating judge; <code>scripts/check_load_bearing.py</code> is where the judge goes
+  instead.</strong> It ranks claims by the design pages citing them and judges each evidence entry against
+  its study's text: the cached article when the claim came from a batch, otherwise the OpenAlex
+  abstract for its DOI. On an abstract, absence is <code>unverifiable</code>, never a failure. It writes nothing
+  to any page. <strong>The claims the wiki leans on are not the GLM batches' claims</strong>: of the 137 claims
+  three or more design pages cite, 3 came from a batch, so the extractor's ~13% misstatement rate
+  sits mostly on pages little rests on. First run, top 200 claims plus their re-ranked neighbours, $0.54:
+  366 entries, 168 pass, 178 unverifiable, 19 fail. Ten of the failures were real and are corrected
+  (Trypke et al. 2023 and Lively et al. 2023 each read as the opposite of their abstracts' findings;
+  Stefanou et al. 2004 is a framework paper cited as an evidence review; van Merriënboer et al. 2006
+  is a design argument coded as a q4 experiment with a large effect; Sinha &amp; Kapur's productive-failure
+  range; Deci et al. 2001's "modest"; Bowers et al.'s "particular benefit for younger students";
+  Sweller &amp; Cooper's same-structure limit; Stokamer's r; Orr's own table). <strong>Read the judge's failures before acting</strong>:
+  three were its mistakes (a nine-author list OpenAlex truncates; two online-first years), and
+  <code>claims/loa-pilot-self-reported-increase-all-20-technologies</code> now contradicts its own title, which
+  is the maintainer's call to rename.</li>
+<li><strong>OpenAlex attaches the wrong abstract to some classics</strong>, under the right DOI and title: a Spanish
+  thesis's for Wood, Bruner &amp; Ross (1976) and Deci (1971), an English action-research study's for
+  Alfieri et al. (2011). <code>abstract_usable()</code> refuses a non-English abstract; <code>--report</code> lists a
+  <code>not-this-study</code> on an abstract as a registry problem, not a page problem.</li>
+</ul>
 <h3 id="2026-09-27-claims-are-linked-and-merged-search-runs-on-an-index">2026-09-27 — claims are linked and merged; search runs on an index<a class="headerlink" href="#2026-09-27-claims-are-linked-and-merged-search-runs-on-an-index" title="Permanent link">&para;</a></h3>
 <ul>
 <li><strong><code>scripts/search_index.py</code></strong>: SQLite FTS5 over every content page, in <code>.cache/</code> (ignored), rebuilt
@@ -4245,6 +4299,8 @@ indexes with <code>python3 scripts/build_indexes.py</code>.</p>
     search_index.py    ← SQLite FTS5 index of the wiki in .cache/, used by search and linking
     link_claims.py     ← labels and writes Related Claims links between claims
     merge_claims.py    ← folds a duplicate claim into its canonical page, keeping an alias
+    link_pages.py      ← links theories, principles, patterns, elements, strategies into the graph
+    check_load_bearing.py ← judges the most-cited claims' evidence against their sources; writes nothing
     smd_worklist.py    ← WWC/ESSA review pages to extract next, for the SMD family (see above)
     priority_worklist.py ← what to extract next: cited-but-unrecorded, hub, and evidence-less claims (see above)
     mcp_server.py      ← the wiki as MCP tools: search, fetch, resolve, backlinks, why (see above)

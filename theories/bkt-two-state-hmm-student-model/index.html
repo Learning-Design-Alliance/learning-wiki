@@ -794,7 +794,7 @@
 <h1 id="bayesian-knowledge-tracing-a-two-state-hidden-markov-model-inferring-skill-mastery-from-response-histories">Bayesian Knowledge Tracing: a two-state Hidden Markov Model inferring skill mastery from response histories<a class="headerlink" href="#bayesian-knowledge-tracing-a-two-state-hidden-markov-model-inferring-skill-mastery-from-response-histories" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Theory</strong> · <a href="../">All theories</a>
-<strong>Evidence</strong> · no claims cited</p>
+<strong>Evidence</strong> · 2 claims (1 for, 1 against) · 2 studies, <code>q1</code> · 0 of 2 report an effect size · 2 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>Bayesian Knowledge Tracing (BKT) is a student model used to infer a student's knowledge from their history of responses to skill-tagged problems and to predict future performance. It is "a two state Hidden Markov Model", with states for knowing and not knowing a skill, and an absorbent knowledge state implying no forgetting. It requires four probabilities: L0 (prior knowledge), T (transition/learning probability per practice opportunity), G (guess rate), and S (slip rate). Knowledge affects performance mediated by guess and slip rates, and knowledge at one time step affects knowledge at the next. Usually a separate BKT model is fit per skill using only first attempts.</p>
@@ -822,14 +822,21 @@
 </ul>
 <h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
 <ul>
-<li></li>
+<li><a href="../../claims/ms-bkt-estimates-fluctuate-less-than-bkt/">MS-BKT mastery estimates fluctuate less than classic BKT and avoid over-high estimates after long incorrect runs, in fictitious-student comparisons</a> [+W]</li>
+<li><a href="../../claims/bkt-hmm-exponential-form-questions-fitting-practice/">The exponential functional form of the BKT HMM calls into question the popular practice of fitting that model form to student data</a> [-W]</li>
 </ul>
 <h2 id="related-theories">Related Theories<a class="headerlink" href="#related-theories" title="Permanent link">&para;</a></h2>
 <ul>
-<li></li>
+<li><a href="../bkt-four-parameter-two-form-model/">Bayesian Knowledge Tracing: a four-parameter student-learning model in two forms (HMM and Knowledge Tracing Algorithm)</a></li>
+<li><a href="../bayesian-knowledge-tracing-two-state-model/">Bayesian Knowledge Tracing (Two-State Hidden Markov Model)</a></li>
+<li><a href="../bkt-brute-force-grid-search-estimation/">BKT Brute Force (BKT-BF): grid-search parameter estimation minimizing Residual Sum of Squares</a></li>
+<li><a href="../spectral-bkt-model/">Spectral BKT: a BKT variant combining feature compensation (3-gram observations) with model compensation (four latent states)</a></li>
+<li><a href="../bktransformer-temporal-bkt-parameters/">BKTransformer: transformer-based generation of temporally-evolving BKT parameters</a></li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
-<p>-</p>
+<ul>
+<li><a href="../../strategies/fit-a-fix-one-parameter-alternative-to-dirichlet-priors/">Fit the combined parameter A and fix P(G) or P(L0) externally as an alternative to Dirichlet priors when fitting the BKT HMM</a></li>
+</ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
 <li>Martori, F., Cuadros, J., &amp; González-Sabaté, L. (2015). Direct estimation of the minimum RSS value for training Bayesian Knowledge Tracing parameters. Proceedings of the 8th International Conference on Educational Data Mining. https://www.educationaldatamining.org/EDM2015/proceedings/short364-367.pdf</li>

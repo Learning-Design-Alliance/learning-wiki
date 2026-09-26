@@ -794,7 +794,7 @@
 <h1 id="bayesian-knowledge-tracing-a-four-parameter-student-learning-model-in-two-forms-hmm-and-knowledge-tracing-algorithm">Bayesian Knowledge Tracing: a four-parameter student-learning model in two forms (HMM and Knowledge Tracing Algorithm)<a class="headerlink" href="#bayesian-knowledge-tracing-a-four-parameter-student-learning-model-in-two-forms-hmm-and-knowledge-tracing-algorithm" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Theory</strong> · <a href="../">All theories</a>
-<strong>Evidence</strong> · no claims cited</p>
+<strong>Evidence</strong> · 7 claims (5 for, 1 mixed, 1 against) · 3 studies, <code>q1</code>–<code>q2</code> · 1 of 3 report an effect size · 7 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>Bayesian Knowledge Tracing models student learning of a skill with four parameters: P(L0) the initial probability the student knows the skill, P(G) the guessing probability, P(S) the slipping probability, and P(T) the per-opportunity learning probability, with P(T) assumed constant over time. The article treats two forms: the hidden Markov model form that predicts the probability of correct application as a function of prior opportunities, and the Knowledge Tracing Algorithm form that updates the conditional probability of knowing in real time from each correct or incorrect response. The article states the model 'has four parameters which must be supplied externally' for the algorithm form.</p>
@@ -818,14 +818,23 @@
 </ul>
 <h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
 <ul>
-<li></li>
+<li><a href="../../claims/bkt-hmm-exponential-form-questions-fitting-practice/">The exponential functional form of the BKT HMM calls into question the popular practice of fitting that model form to student data</a> [-W]</li>
+<li><a href="../../claims/bkt-hmm-form-is-three-parameter-exponential/">The HMM form of BKT, solved analytically, is a three-parameter exponential in opportunity number</a> [+W]</li>
+<li><a href="../../claims/bkt-identifiability-explained-by-parameter-a/">The identifiability problem of the BKT HMM arises because combinations of P(G) and P(L0) with the same product A give identical functional forms</a> [+W]</li>
+<li><a href="../../claims/kt-algorithm-fixed-point-parameter-constraints/">Fixed point analysis of the Knowledge Tracing Algorithm yields parameter constraints P(G)+P(S)&lt;1 and 0&lt;P(T)&lt;(1−P(S))/(1−P(G)) for sensible behavior</a> [+W]</li>
+<li><a href="../../claims/kt-algorithm-no-identifiability-problem/">The Knowledge Tracing Algorithm does not suffer the identifiability problem: all four parameters affect its behavior separately</a> [+W]</li>
+<li><a href="../../claims/bkt-mastery-floor-above-learn-rate/">Under standard BKT with non-degenerate parameters, the mastery probability stays above the learn rate even after unboundedly many incorrect responses</a> [+W]</li>
+<li><a href="../../claims/bkt-bf-cost-identifiability-em-local-minima/">BKT-BF suffers high computational cost and does not resolve BKT's identifiability problem, while EM is cheaper but suffers local minima</a> [~W]</li>
 </ul>
 <h2 id="related-theories">Related Theories<a class="headerlink" href="#related-theories" title="Permanent link">&para;</a></h2>
 <ul>
-<li></li>
+<li><a href="../bkt-two-state-hmm-student-model/">Bayesian Knowledge Tracing: a two-state Hidden Markov Model inferring skill mastery from response histories</a></li>
+<li><a href="../bayesian-knowledge-tracing-two-state-model/">Bayesian Knowledge Tracing (Two-State Hidden Markov Model)</a></li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
-<p>-</p>
+<ul>
+<li><a href="../../strategies/fit-a-fix-one-parameter-alternative-to-dirichlet-priors/">Fit the combined parameter A and fix P(G) or P(L0) externally as an alternative to Dirichlet priors when fitting the BKT HMM</a></li>
+</ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
 <li>Brett Van de Sande. (2013). Properties of the Bayesian Knowledge Tracing Model. Journal of Educational Data Mining, Volume 5, No 2. https://jedm.educationaldatamining.org</li>

@@ -794,7 +794,7 @@
 <h1 id="bkt-brute-force-bkt-bf-grid-search-parameter-estimation-minimizing-residual-sum-of-squares">BKT Brute Force (BKT-BF): grid-search parameter estimation minimizing Residual Sum of Squares<a class="headerlink" href="#bkt-brute-force-bkt-bf-grid-search-parameter-estimation-minimizing-residual-sum-of-squares" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Theory</strong> · <a href="../">All theories</a>
-<strong>Evidence</strong> · no claims cited</p>
+<strong>Evidence</strong> · 4 claims (2 for, 2 mixed) · 1 study, <code>q2</code> · 0 of 1 report an effect size · 4 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>BKT-BF is an algorithm to estimate BKT parameter values by brute force: a grid of possible parameter values is set, and for each combination a Residual Sum of Squares (RSS) value is obtained; "the combination of values resulting in the lowest Residual Sum of Squares (RSS) value for a skill is the one that will be used in BKT." The RSS is computed from observed answers Oi,t and the BKT-derived likelihood of a correct answer Ci,j, normalized by students and dim. In this study, grids used values 0.05–0.95 (step 0.15) for L0 and T, and bounded 0.05–0.30 (step 0.05) for G and S to avoid model degeneracy, yielding 1764 RSS values per skill.</p>
@@ -822,14 +822,19 @@
 </ul>
 <h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
 <ul>
-<li></li>
+<li><a href="../../claims/bkt-bf-cost-identifiability-em-local-minima/">BKT-BF suffers high computational cost and does not resolve BKT's identifiability problem, while EM is cheaper but suffers local minima</a> [+W]</li>
+<li><a href="../../claims/high-pc-bkt-little-room-t-g/">The very high adjusted R² of the RSS-estimation model may indicate BKT works better when percent correct is very high, leaving little room for T and G</a> [~W]</li>
+<li><a href="../../claims/linear-regression-predicts-minimum-rss-bkt-bf/">A linear regression on skill variables (n, dim, pc) predicts the minimum RSS value for BKT-BF training with high predictive ability</a> [+W]</li>
+<li><a href="../../claims/pca-rmse-correlates-slip-orthogonal-t-g/">In a preliminary PCA, RMSE is highly correlated with the slip parameter S, while T and G appear orthogonal to RMSE</a> [~W]</li>
 </ul>
 <h2 id="related-theories">Related Theories<a class="headerlink" href="#related-theories" title="Permanent link">&para;</a></h2>
 <ul>
-<li></li>
+<li><a href="../bkt-two-state-hmm-student-model/">Bayesian Knowledge Tracing: a two-state Hidden Markov Model inferring skill mastery from response histories</a></li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
-<p>-</p>
+<ul>
+<li><a href="../../strategies/estimate-minimum-rss-from-skill-variables/">Estimate a skill's minimum BKT-BF RSS a priori from dim, n, and percent_correct before running the full grid search</a></li>
+</ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
 <li>Martori, F., Cuadros, J., &amp; González-Sabaté, L. (2015). Direct estimation of the minimum RSS value for training Bayesian Knowledge Tracing parameters. Proceedings of the 8th International Conference on Educational Data Mining. https://www.educationaldatamining.org/EDM2015/proceedings/short364-367.pdf</li>
