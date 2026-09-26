@@ -197,7 +197,7 @@ def _judge_gate(record, entry, parsed, gate, model, system_prompt, original_user
     Returns the judge result for the version kept; record["judge_gate"] says
     what happened."""
     first = run_judges(article_text, parsed, [gate], gpt_judge_model, api_key=api_key,
-                       gemini_judge_model=gemini_judge_model).get(gate) or {}
+                       gemini_judge_model=gemini_judge_model, source_url=entry.get("url")).get(gate) or {}
     gate_rec = {"judge": gate, "first_verdict": first.get("verdict"), "first_score": first.get("average_score"),
                 "revised": False}
     record["judge_gate"] = gate_rec
@@ -223,7 +223,7 @@ def _judge_gate(record, entry, parsed, gate, model, system_prompt, original_user
                 gate_rec["revision_validated"] = report.passed
                 if report.passed:
                     second = run_judges(article_text, revised, [gate], gpt_judge_model, api_key=api_key,
-                                        gemini_judge_model=gemini_judge_model).get(gate) or {}
+                                        gemini_judge_model=gemini_judge_model, source_url=entry.get("url")).get(gate) or {}
                     gate_rec["revision_verdict"] = second.get("verdict")
                     gate_rec["revision_score"] = second.get("average_score")
                     if second.get("verdict") in ("pass", "partial") or (
@@ -421,7 +421,8 @@ def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
         try:
             others = [j for j in judges if not (gate_result and j == judge_gate)]
             record["judges"] = run_judges(article_text, parsed, others, gpt_judge_model,
-                                           api_key=api_key, gemini_judge_model=gemini_judge_model)
+                                           api_key=api_key, gemini_judge_model=gemini_judge_model,
+                                           source_url=entry.get("url"))
             if gate_result:
                 record["judges"][judge_gate] = gate_result
         except Exception as e:
@@ -499,13 +500,22 @@ def _run_one_judge(name: str, article_text: str, extraction_text: str, gpt_judge
 
 
 def run_judges(article_text: str, parsed: dict, judges: list, gpt_judge_model: str,
-                api_key: str = None, gemini_judge_model: str = "google/gemini-3.7-flash") -> dict:
+                api_key: str = None, gemini_judge_model: str = "google/gemini-3.7-flash",
+                source_url: str = None) -> dict:
     """Each judge is an independent API call with no shared state, so they run
     concurrently rather than one after another — with --subclaim-judging and
     --consistency-samples also active, a single (model, article) pair's own
     sequential work was becoming the real bottleneck even with pair-level
     --concurrency already parallelizing across articles."""
     extraction_text = json.dumps(parsed, indent=2)
+    if source_url:
+        # source_citation.repair() adds the catalogue URL to the article's own
+        # citation, so the judge meets a link the article text never prints.
+        # Unexplained, it failed 5 of batch 7's 77 extractions for "fabricating"
+        # it (2026-09-26).
+        extraction_text += (f"\n\nPipeline note: {source_url} is the catalogue record this article was "
+                            f"fetched from. The pipeline, not the extractor, adds it to citations of the article "
+                            f"itself when the article prints no link. It is not an unsupported detail.")
     out = {}
     with concurrent.futures.ThreadPoolExecutor(max_workers=max(1, len(judges))) as executor:
         future_to_name = {
