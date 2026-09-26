@@ -1,0 +1,49 @@
+---
+type: principle
+id: minimize-student-frustration-in-feedback
+title: Minimize student frustration by making feedback clear, legible, focused, and transparent
+description: "Teachers should avoid responding in ways that cause frustration: unclear or cryptic comments such as confusing symbols, abbreviations, single-word questions, vague remarks, and grammar jargon; illegible handwriting; a..."
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-09-26
+sources:
+  - id: shvidko-2020
+    resource: "https://doi.org/10.26077/936a-72f7"
+    title: "Shvidko, Elena. (2020). Taking into Account Interpersonal Aspects of Teacher Feedback: Principles of Responding to Student Writing. Journal on Empowering Teaching Excellence, Vol. 4, Iss. 2, Article 7. https://doi.org/10.26077/936a-72f7"
+    author: Shvidko, Elena
+---
+
+# Minimize student frustration by making feedback clear, legible, focused, and transparent
+
+> **Principle** · [All principles](index.md)
+
+## Description
+Teachers should avoid responding in ways that cause frustration: unclear or cryptic comments such as confusing symbols, abbreviations, single-word questions, vague remarks, and grammar jargon; illegible handwriting; and overwhelming commentary on every weakness. Feedback is most useful when understood, so teachers should comment in complete sentences or detailed phrases that are clear, specific, and concrete, prioritize a few features of the text, and articulate their feedback philosophies and expectations to learners.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Feedback must be legible and understood by students; teachers should articulate their feedback approaches and expectations clearly to learners
+#### Constraints
+- The article notes students may not be familiar with a teacher's particular feedback method, so an information sheet explaining it should be provided
+
+### Target Learners
+- student writers, including language learners unfamiliar with feedback jargon
+
+### Target Learning Objectives
+- understanding and use of teacher feedback
+- sustained motivation and interest in writing
+
+### Claims
+- 
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Shvidko, Elena. (2020). Taking into Account Interpersonal Aspects of Teacher Feedback: Principles of Responding to Student Writing. Journal on Empowering Teaching Excellence, Vol. 4, Iss. 2, Article 7. https://doi.org/10.26077/936a-72f7

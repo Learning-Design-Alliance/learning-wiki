@@ -66,6 +66,7 @@ DEFAULT_MIN_DELAY = {
     "pmc-oa-opendata.s3.amazonaws.com": 0.1,
     "api.crossref.org": 0.25,
     "doi.org": 0.5,         # handle-system lookups (doi_resolver.handle_registered)
+    "api.datacite.org": 0.5,  # DataCite lookups after a Crossref 404 (doi_resolver.resolve_datacite)
 }
 FALLBACK_MIN_DELAY = 3.0  # any domain not listed above
 
