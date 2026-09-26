@@ -12,7 +12,7 @@ generated:
 # Visualizing
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q4` · 4 of 5 report an effect size
 
 ## Description
 Visualizing asks learners to construct a mental image or external representation of a problem, text, or system — a diagram, sketch, table, concept map, or mental picture — and to use that representation as a working tool for reasoning. It converts verbal or symbolic material into spatial-visual form, engaging [Dual Coding Theory](../theories/dual-coding-theory.md): information encoded both verbally and visually is better remembered and better understood than information encoded in a single channel.

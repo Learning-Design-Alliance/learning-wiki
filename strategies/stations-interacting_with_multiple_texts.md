@@ -12,7 +12,7 @@ generated:
 # Stations: Interacting with Multiple Texts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 10 studies, `q3`–`q4` · 9 of 10 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 10 studies, `q2`–`q4` · 8 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Small groups rotate through a sequence of stations, each presenting a different resource — informational text, poetry, art, photography, maps, video, or audio — related to a single event, theme, or anchor question. At each station, learners engage the material and complete a short task before rotating. A whole-group debrief follows, where learners synthesize across stations. The strategy works well to launch a new unit or to deepen study of an already-introduced topic.

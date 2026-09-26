@@ -12,7 +12,7 @@ generated:
 # Goal Setting In Writing
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 mixed, 1 against) · 6 studies, `q1`–`q4` · 5 of 6 report an effect size
+> **Evidence** · 2 claims (1 mixed, 1 against) · 6 studies, `q1`–`q4` · 4 of 6 report an effect size
 
 ## Description
 Goal setting in writing asks learners to establish a specific, attainable target before and during composing — for example, "include three counterarguments," "write a clear topic sentence for each paragraph," or "cut my draft by 20%." Goals can target the product (features of the final text), the process (planning, revising behaviors), or self-regulation (sustained effort, monitoring). The strategy is typically paired with [Assessment](../elements/assessment.md) against the goal and teacher or peer feedback.

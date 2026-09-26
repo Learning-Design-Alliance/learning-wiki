@@ -12,7 +12,7 @@ generated:
 # Illustration Through Multiple Media
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies, `q3`–`q4` · 5 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 6 studies, `q2`–`q4` · 4 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Illustration through multiple media presents a concept in more than one representational format — for example, an animated diagram with narrated explanation, a physical demonstration, and an interactive simulation of the same phenomenon. The goal is not variety for its own sake but complementary representations: each medium carries the part of the explanation it handles best, and together they support the construction of a richer mental model.

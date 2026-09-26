@@ -1,7 +1,7 @@
 ---
 type: claim
-title: A six-step C/I cycle administered in two engineering physics classes guided a group to select a conveyor-belt power-calibration method via a co-constructed decision metric
-description: A six-step C/I cycle administered in two engineering physics classes guided a group to select a conveyor-belt power-calibration method via a co-constructed decision metric
+title: A six-step C/I cycle administered in a sophomore engineering physics class and a graduate physics class guided a group to select a conveyor-belt power-calibration method via a co-constructed decision metric
+description: A six-step C/I cycle administered in a sophomore engineering physics class and a graduate physics class guided a group to select a conveyor-belt power-calibration method via a co-constructed decision metric
 id: ci-cycle-metric-guided-solution-quarry-problem
 status: draft
 generated:
@@ -14,7 +14,7 @@ sources:
     title: "Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H. (2013). Technology-Enabled Nurturing of Creativity and Innovation: A Specific Illustration from an Undergraduate Engineering Physics Course. https://arxiv.org/abs/1308.2434"
     author: Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H.
     q: 2
-    i: 1
+    i: "?"
   - id: kowalski-2013-2
     resource: "https://arxiv.org/abs/1308.2434"
     title: "Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H. (2013). Technology-Enabled Nurturing of Creativity and Innovation: A Specific Illustration from an Undergraduate Engineering Physics Course. https://arxiv.org/abs/1308.2434"
@@ -23,7 +23,7 @@ sources:
     i: 1
 ---
 
-# A six-step C/I cycle administered in two engineering physics classes guided a group to select a conveyor-belt power-calibration method via a co-constructed decision metric
+# A six-step C/I cycle administered in a sophomore engineering physics class and a graduate physics class guided a group to select a conveyor-belt power-calibration method via a co-constructed decision metric
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · `q2` quasi-experiment · `i1` small
@@ -38,7 +38,7 @@ sources:
 
 Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H. (2013). Technology-Enabled Nurturing of Creativity and Innovation: A Specific Illustration from an Undergraduate Engineering Physics Course. https://arxiv.org/abs/1308.2434
 
-`q2 · i1`
+`q2 · case report` · `i? · no effect size`
 
 Case report of the process used in two classes meeting one hour a week in an interactive lecture format, each student using a tablet computer to submit open-format responses via InkSurvey. The article states it was "administered separately to two classes" of 23 sophomores and 7 graduate students; results from both classes are combined.
 

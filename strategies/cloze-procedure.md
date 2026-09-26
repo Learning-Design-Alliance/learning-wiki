@@ -12,7 +12,7 @@ generated:
 # Cloze Procedure
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 10 studies, `q1`–`q4` · 9 of 10 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 10 studies, `q1`–`q4` · 8 of 10 report an effect size
 
 ## Description
 The cloze procedure removes selected words from a text — systematically (every nth word) or strategically (key vocabulary, connectives, grammatical structures) — and asks learners to supply the missing items. Because learners must use sentence context, syntax, and semantic cues to generate plausible replacements, the procedure converts passive reading into active construction of meaning.

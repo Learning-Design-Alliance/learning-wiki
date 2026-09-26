@@ -12,7 +12,7 @@ generated:
 # Address Technology-Related Fears
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies, `q2`–`q4` · 6 of 7 report an effect size
 
 ## Description
 Technology-related fear — anxiety about breaking equipment, losing data, exposing personal information, or appearing incompetent — is a documented barrier to adult participation in technology-mediated learning [Computer anxiety in e-learning is reduced primarily through computer self-efficacy, not through reassurance or access alone.](https://doi.org/10.28945/66) [+M]. This strategy makes those fears explicit and legitimate, then systematically reduces them through low-stakes orientation, [Demonstration](../elements/demonstration.md) of safe procedures and error recovery, redundant plain-language instructions, and accessible human support. The goal is to lower the affective barrier before the cognitive demands of the content are added.

@@ -12,7 +12,7 @@ generated:
 # Sentence Frames And Starters
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 4 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q4` · 3 of 5 report an effect size
 
 ## Description
 Sentence frames are partially completed templates ("The evidence suggests that ___ because ___") that learners complete with their own ideas; sentence starters are opening phrases ("One way to interpret this data is…") that launch a response. Both externalize the syntactic and discourse structure of academic language so learners can focus on reasoning rather than constructing grammar from scratch.

@@ -12,7 +12,7 @@ generated:
 # Routines And Signals
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 4 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies, `q2`–`q4` · 3 of 7 report an effect size
 
 ## Description
 Routines are rehearsed, repeatable procedures for recurring classroom activities (entering, distributing materials, transitioning between tasks, submitting work); signals are brief cues — verbal, visual, or auditory — that trigger a specific learned response (attention, silence, movement). Together they automate the operational layer of a learning environment so that instruction, not management, consumes instructional time.

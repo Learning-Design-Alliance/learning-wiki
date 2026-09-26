@@ -110,6 +110,28 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-09-27 (evening) — the load-bearing check has a runbook and runs in every batch
+
+- **`eval/load-bearing/README.md` is the procedure**: when to run `check_load_bearing.py`, how to
+  read each verdict, the judge's known errors, how to fix an entry and what regenerates after, and
+  how to dismiss. **Read it before acting on a failure.** `run_scrape_batch.py` runs the check
+  (top 200, $0.25 cap) after linking, so a batch reports on the claims it made load-bearing; only
+  changed or newly ranked entries are judged, so a routine run costs cents.
+- **Every open failure is settled: 0 open.** Across both runs, 30 entries failed or named another
+  work; 25 were real and are corrected, 2 were judge errors and 3 were wrong OpenAlex abstracts.
+  **`--dismiss` records a checked failure** in `eval/load-bearing/reviewed.ndjson` (committed),
+  tied to the entry's text, so any later edit re-opens it. `--claims <slug>` re-judges a fixed page.
+- **Five batch-claim titles overstated their source and were corrected in text only; the slugs
+  are unchanged**, so every link and design reference still resolves: the LoA "all 20
+  technologies", the LVN and STRP cases, the C/I-cycle classes and the BRT course-schedule
+  proposal. One `link_claims.py` link joined that proposal to Behavioral Relaxation Training on the
+  acronym "BRT" alone and was removed. Acronym collisions are a known risk of BM25 candidates.
+- **An open problem, found by this check and not fixed: 250 evidence entries code `i1`–`i3` with
+  no statistic anywhere in the entry**, and 621 carry a bare `q2 · i1` codes line. Most come from
+  batches. The extraction prompt contradicts itself: v133 says `null` when no effect size is
+  printed, and its code table two sections later still reads "0 = negligible/unclear/null/marginal".
+  Recoding needs each source read, not a regex, and the prompt fix needs a benchmark run.
+
 ### 2026-09-27 (later) — every kind is linked; the judge is spent where the wiki leans
 
 - **`scripts/link_pages.py`** does for theories, principles, patterns, elements and strategies what

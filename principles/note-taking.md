@@ -25,7 +25,7 @@ sources:
 # Note-taking
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q2`–`q4` · 6 of 7 report an effect size
 
 ## Description
 Note-taking is the instructional principle of helping learners externalize important information, structure, and interpretation while reading, listening, observing, or solving problems. Good notes do more than record facts: they direct attention, support later review, and help learners decide what matters, how ideas connect, and what they still do not understand. Because poor notes can also reinforce confusion, note-taking usually needs explicit teaching, modeling, and adaptation to the type of task.

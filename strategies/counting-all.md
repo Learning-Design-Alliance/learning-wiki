@@ -12,7 +12,7 @@ generated:
 # Counting All
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies, `q1`–`q4` · 6 of 8 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies, `q1`–`q4` · 5 of 8 report an effect size
 
 ## Description
 Counting All is the earliest arithmetic strategy children use to solve additive word problems: given 4 + 3, the learner counts out a set of 4 objects, counts out 3 more, then counts the entire combined set from 1 to 7. It is typically enacted with physical objects, fingers, or drawings, and is developmentally prior to [counting on](counting-on.md) and derived-fact strategies. In instruction, it is treated not as an error to eliminate but as a legitimate, meaningful first strategy that grounds the concept of addition as combining sets.

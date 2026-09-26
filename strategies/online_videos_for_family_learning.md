@@ -12,7 +12,7 @@ generated:
 # Online Videos for Family Learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 11 studies, `q1`–`q4` · 10 of 11 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (5 for) · 11 studies, `q1`–`q4` · 9 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy uses short, freely accessible online videos as shared learning objects that family members — adults and children together, often across generations and language backgrounds — can watch, discuss, and act on jointly. Videos serve as a common reference point that does not privilege any family member's literacy or fluency in the dominant language, allowing learning conversations to start from a shared observation rather than from text.

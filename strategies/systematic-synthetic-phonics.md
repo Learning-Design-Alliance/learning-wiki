@@ -12,7 +12,7 @@ generated:
 # Systematic Synthetic Phonics
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 5 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 4 of 5 report an effect size
 
 ## Description
 Systematic synthetic phonics (SSP) teaches grapheme–phoneme correspondences (GPCs) in a deliberate, sequenced order — typically from high-frequency, simple correspondences to more complex ones — and teaches learners to *synthesize* (blend) phonemes into words for reading and segment words into phonemes for spelling. "Systematic" contrasts with incidental or embedded phonics: the sequence of instruction is planned, not left to emerge from texts. "Synthetic" contrasts with analytic approaches: learners build words from parts rather than analyzing whole words into parts.

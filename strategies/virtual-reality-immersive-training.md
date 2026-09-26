@@ -12,7 +12,7 @@ generated:
 # Virtual Reality Immersive Training
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies, `q2`–`q4` · 3 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 Virtual reality (VR) immersive training places learners inside a simulated, interactive 3D environment — typically via a head-mounted display — where they can rehearse procedures, explore environments, or respond to scenarios that are dangerous, expensive, or logistically difficult to stage in reality. The strategy combines [Simulation](../elements/simulation.md) with embodied interaction: learners act in the environment rather than merely viewing it, and the system can capture performance data for [Feedback](../elements/feedback.md) and debriefing.

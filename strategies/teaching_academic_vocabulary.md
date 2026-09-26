@@ -12,7 +12,7 @@ generated:
 # Teaching Academic Vocabulary
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies, `q2`–`q4` · 5 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies, `q2`–`q4` · 4 of 8 report an effect size
 
 ## Description
 Explicitly teach academic vocabulary — the specialized terms and language structures learners need to access disciplinary content — rather than expecting it to be absorbed incidentally from reading and listening. Effective instruction introduces terms in meaningful context, contrasts technical definitions with everyday meanings (e.g., "product," "table," "similar"), and scaffolds understanding with visuals, real objects, graphic organizers, and anchor charts. It also treats learners' home languages as a resource, using cognates, translated glossaries, and multilingual group work.

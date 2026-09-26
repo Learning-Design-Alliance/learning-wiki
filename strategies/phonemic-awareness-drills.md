@@ -12,7 +12,7 @@ generated:
 # Phonemic Awareness Drills
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies, `q1`–`q4` · 7 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies, `q1`–`q4` · 6 of 8 report an effect size
 
 ## Description
 Phonemic awareness drills are brief, teacher-led oral routines in which learners identify, isolate, blend, segment, and manipulate the phonemes of spoken words — without print. A typical drill cycles through a small set of item types (e.g., "What sound starts *mop*?" → "Blend /m/ /o/ /p/" → "Change /m/ to /s/: what word?") delivered at a brisk pace with immediate feedback. Because the work is purely auditory, it targets the phonological processing system that written alphabets encode.

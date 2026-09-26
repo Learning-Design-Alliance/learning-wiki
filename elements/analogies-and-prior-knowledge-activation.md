@@ -12,7 +12,7 @@ generated:
 # Analogies and prior knowledge activation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies, `q2`–`q4` · 4 of 5 report an effect size
 
 ## Description
 This element uses comparisons to familiar concepts to support understanding of new, often abstract material, and deliberately activates relevant prior knowledge before new content is introduced. The analogy supplies a source structure the learner already possesses; activation ensures that structure is actually retrieved and available for mapping onto the target concept.

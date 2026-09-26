@@ -12,7 +12,7 @@ generated:
 # Greek And Latin Number Prefixes
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 13 studies, `q2`–`q4` · 6 of 13 report an effect size
+> **Evidence** · 5 claims (5 for) · 13 studies, `q2`–`q4` · 5 of 13 report an effect size
 
 ## Description
 Greek and Latin number prefixes are a closed, finite set of morphemes — *uni-* (one), *bi-/di-* (two), *tri-* (three), *quad-* (four), *cent-* (hundred), *mono-* (one), *poly-* (many), *kilo-* (thousand) — that recur across academic disciplines. The strategy teaches these prefixes explicitly as a system: learners learn the prefix meanings, then apply them to analyze unfamiliar words (triangle, bicameral, monorail, centimeter, polygon) rather than memorizing each word as a whole.

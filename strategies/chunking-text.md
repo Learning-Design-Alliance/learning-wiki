@@ -12,7 +12,7 @@ generated:
 # Chunking Text
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q4` · 2 of 3 report an effect size
 
 ## Description
 Chunking text means dividing continuous prose into smaller, coherent units — short paragraphs, headed sections, bulleted sequences, or step-by-step segments — so that each unit can be held and processed in working memory before being integrated into a larger understanding. Effective chunking is not arbitrary truncation: units are organized around meaning (one idea per segment), often signaled with headings, whitespace, or numbering, so learners can reconstruct the whole from the parts.

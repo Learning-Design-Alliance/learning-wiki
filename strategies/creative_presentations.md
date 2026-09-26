@@ -25,7 +25,7 @@ sources:
 # Creative Presentations
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 5 studies, `q2`–`q4` · 4 of 5 report an effect size · 2 claims rest on one study
 
 ## Description
 Creative presentations apply visual design principles — color, imagery, layout, typography, and animation — to instructional materials so that attention is directed to what matters and comprehension is supported rather than undermined. The core discipline is coherence: every visual choice either reduces extraneous load or adds nothing, and decoration that competes with content measurably hurts learning.

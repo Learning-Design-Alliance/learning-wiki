@@ -12,7 +12,7 @@ generated:
 # Distributed Cognition
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 mixed) · 10 studies, `q3`–`q4` · 10 of 10 report an effect size
+> **Evidence** · 3 claims (3 mixed) · 10 studies, `q2`–`q4` · 9 of 10 report an effect size
 
 ## Description
 Distributed cognition is the principle that thinking and problem solving are often spread across people, tools, representations, and environments rather than residing entirely inside one learner. It is useful when instruction relies on collaboration, external representations, or shared expertise.

@@ -12,7 +12,7 @@ generated:
 # Text To Speech Technology
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies, `q1`–`q4` · 8 of 8 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies, `q1`–`q4` · 7 of 8 report an effect size
 
 ## Description
 Text-to-speech (TTS) technology converts written text into synthesized spoken audio, allowing learners to listen to text rather than — or alongside — reading it. Modern implementations range from built-in screen readers and browser extensions (e.g., Microsoft Immersive Reader, Read&Write, NaturalReader) to embedded TTS in learning platforms and e-books. TTS is typically used as an [accommodation](../elements/accommodations.md) for learners with reading difficulties, as a universal design for learning (UDL) option for all learners, or as a fluency support when paired with highlighted text.

@@ -12,7 +12,7 @@ generated:
 # Graphic Organizers for Math
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 against) · 12 studies, `q2`–`q4` · 6 of 12 report an effect size
+> **Evidence** · 4 claims (3 for, 1 against) · 12 studies, `q2`–`q4` · 5 of 12 report an effect size
 
 ## Description
 Graphic organizers for math are structured visual templates — problem-solving frames, Frayer models, step-by-step charts, operation-selection diagrams — that help learners decompose problems, identify relevant information, and select appropriate operations. They externalize the problem-solving sequence so working memory is spent on reasoning rather than holding intermediate states. Common forms include the Frayer model (concept + examples/non-examples), "Break it down" problem frames, "Line it up" computation organizers, and graphing templates.

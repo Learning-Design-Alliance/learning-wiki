@@ -12,7 +12,7 @@ generated:
 # Storytelling in Explainer Animations and Videos
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 2 against) · 13 studies, `q3`–`q4` · 8 of 13 report an effect size
+> **Evidence** · 5 claims (3 for, 2 against) · 13 studies, `q2`–`q4` · 7 of 13 report an effect size
 
 ## Description
 This strategy embeds instructional content within a narrative structure — a character, problem, and resolution — delivered through animation or video. The video typically opens with a realistic situation the audience recognizes, introduces the concept as a means of resolving the situation, and closes with the outcome. Narrative context gives discrete facts a causal structure, which supports encoding and retrieval far better than isolated assertions.

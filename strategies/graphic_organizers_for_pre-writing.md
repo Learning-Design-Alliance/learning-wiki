@@ -12,7 +12,7 @@ generated:
 # Graphic Organizers for Pre-Writing
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies, `q2`–`q4` · 5 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies, `q2`–`q4` · 4 of 8 report an effect size
 
 ## Description
 Students use a visual planning tool — a mind map, outline, story map, T-chart, or argument diagram — to generate and arrange ideas before drafting. Notes are brief phrases rather than full sentences, so working memory is spent on *what to say* and *in what order*, not on sentence construction. The organizer externalizes the planning stage of the writing process, making text structure visible before prose begins.

@@ -12,7 +12,7 @@ generated:
 # Keep Instructions Concise
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q4` · 2 of 3 report an effect size
 
 ## Description
 Keep Instructions Concise means delivering directions in the fewest words needed for accurate execution, sequenced in small phases that match the stages of the task rather than delivered as one long block. Each instruction names one action, uses plain syntax, and is issued close to the moment it is needed. The strategy treats instructional language as a load on working memory: every unnecessary clause competes with the task itself for processing resources.

@@ -12,7 +12,7 @@ generated:
 # Sequencing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 unmarked) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 unmarked) · 4 studies, `q2`–`q4` · 3 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 Sequencing is the principle of arranging instructional content, tasks, or supports in an order that helps learners build understanding progressively. It is useful when learning depends on the order in which complexity, support, and ideas are introduced.

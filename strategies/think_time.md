@@ -12,7 +12,7 @@ generated:
 # Think Time
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q4` · 2 of 3 report an effect size
 
 ## Description
 Think time (often called "wait time" in classroom research) is the deliberate extension of silence after a question, prompt, or task before any response is expected or solicited. It is carried out by the instructor pausing — typically 3–5 seconds or longer — after asking a question, after a learner responds, and before giving feedback, and by allowing re-reading time for text-based tasks rather than rewarding speed of response.

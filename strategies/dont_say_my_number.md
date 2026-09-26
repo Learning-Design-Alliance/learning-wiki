@@ -12,7 +12,7 @@ generated:
 # Don’t Say My Number
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 against) · 4 studies, `q2`–`q4` · 3 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 A group counting game in which learners count aloud in sequence, but one (or more) designated "forbidden" number(s) must be silently skipped — often replaced with a clap, a gesture, or simply silence. Learners must hold the rule in working memory, monitor their own position in the sequence, and inhibit the prepotent response of saying the forbidden number, combining counting fluency practice with attention and inhibition demands.

@@ -12,7 +12,7 @@ generated:
 # Activating And Using Background Knowledge
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 7 studies, `q2`–`q4` · 6 of 7 report an effect size · 2 claims rest on one study
 
 ## Description
 Activating and using background knowledge is a strategy in which learners deliberately retrieve what they already know about a topic before encountering new material, then connect that knowledge to the new content during and after the encounter. It is carried out through pre-reading prompts, discussion, prediction, [Advance Organizers](../elements/advance-organizers.md), [Analogies](../elements/analogies.md), and ongoing activities such as [Annotating](../principles/annotating.md) that force learners to relate new information to what they already hold in memory.

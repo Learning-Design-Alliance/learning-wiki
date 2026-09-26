@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Self-reported levels of adoption increased for all 20 surveyed educational technologies across three administrations of the LoA survey
-description: Self-reported levels of adoption increased for all 20 surveyed educational technologies across three administrations of the LoA survey
+title: Self-reported average level of technology use rose across three administrations of the LoA survey, though not for every technology
+description: Self-reported average level of technology use rose across three administrations of the LoA survey, though not for every technology
 id: loa-pilot-self-reported-increase-all-20-technologies
 status: draft
 generated:
@@ -17,7 +17,7 @@ sources:
     i: "?"
 ---
 
-# Self-reported levels of adoption increased for all 20 surveyed educational technologies across three administrations of the LoA survey
+# Self-reported average level of technology use rose across three administrations of the LoA survey, though not for every technology
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment

@@ -12,7 +12,7 @@ generated:
 # Sentence Combining
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies, `q3`–`q4` · 5 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies, `q2`–`q4` · 4 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Sentence combining gives learners two or more simple "kernel" sentences and asks them to merge them into a single, more sophisticated sentence using coordination, subordination, relative clauses, appositives, or participial phrases. It is typically taught through modeling (the instructor combines an example while explaining choices), guided practice, and independent application, often within the context of students' own writing rather than isolated exercises.

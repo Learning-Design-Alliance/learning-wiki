@@ -12,7 +12,7 @@ generated:
 # Establish Consistent Routines
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 against) · 10 studies, `q1`–`q4` · 9 of 10 report an effect size
+> **Evidence** · 4 claims (3 for, 1 against) · 10 studies, `q1`–`q4` · 8 of 10 report an effect size
 
 ## Description
 Establishing consistent routines means creating predictable, rehearsed patterns for recurring classroom activities — entering and settling, transitions, distributing materials, asking for help, and giving instructions. The teacher models each routine explicitly, practices it until it is automatic, and then applies it consistently so that procedural expectations no longer need to be re-taught or re-negotiated.

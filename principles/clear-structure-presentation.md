@@ -17,7 +17,7 @@ sources:
 # Clear Structure & Presentation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (4 for) · 11 studies, `q3`–`q4` · 11 of 11 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (4 for) · 11 studies, `q2`–`q4` · 10 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 Instruction should make its structure visible. Learners need to know what they are learning, why it matters, how the content is organized, and what successful performance looks like. Clear structure and presentation reduce avoidable confusion, support attention, and let learners spend effort on the idea or task itself rather than on guessing the lesson's logic.

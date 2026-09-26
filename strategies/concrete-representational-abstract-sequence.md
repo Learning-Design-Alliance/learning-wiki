@@ -12,7 +12,7 @@ generated:
 # Concrete Representational Abstract Sequence
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies, `q3`–`q4` · 5 of 8 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies, `q2`–`q4` · 4 of 8 report an effect size
 
 ## Description
 The Concrete Representational Abstract (CRA) sequence teaches a concept first with physical manipulatives (concrete), then with pictures or diagrams (representational), and finally with abstract symbols such as numerals and operators (abstract). Each phase is explicitly linked to the previous one so that symbolic notation inherits meaning from the earlier embodiments. The sequence descends from Bruner's enactive–iconic–symbolic stages and is a staple of mathematics special education and elementary instruction.

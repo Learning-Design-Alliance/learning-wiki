@@ -12,7 +12,7 @@ generated:
 # Student-Pair Math Games
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 8 studies, `q3`–`q4` · 7 of 8 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (4 for) · 8 studies, `q2`–`q4` · 6 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 Pair-based games facilitate active learning through friendly competition, requiring students to recall and apply math skills in a dynamic setting. Because each turn demands a rapid computation, the game format embeds high-frequency [practice](../elements/practice.md) and retrieval inside a social, low-stakes structure. Examples include:

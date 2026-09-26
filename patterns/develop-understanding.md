@@ -14,7 +14,7 @@ grain_size: lesson
 # Develop Understanding
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (1 for, 3 mixed) · 11 studies, `q2`–`q4` · 10 of 11 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (1 for, 3 mixed) · 11 studies, `q2`–`q4` · 9 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 Develop Understanding is a lesson-scale pattern that moves learners from initial exposure to meaningful conceptual grasp by activating prior knowledge, introducing new ideas clearly, giving guided opportunities to use them, and then connecting them to broader contexts or prior learning. The pattern is intentionally transitional: it does not stop at presentation, but it also does not assume that understanding will emerge from exploration alone.

@@ -35,7 +35,7 @@ The act of assessing peers' work can produce learning gains for the assessor, no
 
 `q4 i1` Across 58 studies, students who participate in peer assessment (in either the assessor or assessee role) show a small-to-moderate performance gain (d = 0.291) relative to non-participants, and the benefit is larger when raters receive training. [→ Li et al. 2020](#li-et-al-2020)
 
-`q2 i?` When the same students both give and receive peer feedback on a project, the quality of the feedback they *give* to peers predicts improvement in their own final work (controlling for initial quality), while the quality of feedback they *receive* does not — evidence that the act of assessing, specifically, is what benefits the assessor. [→ Li et al. 2010](#li-et-al-2010)
+`q2 i?` When the same students both give and receive peer feedback on a project, the quality of the feedback they *give* to peers predicts improvement in their own final work (controlling for initial quality), while the quality of feedback they *receive* does not. The authors read this as support for the claim that reviewing peers' work may facilitate learning; the design is correlational, so it cannot show that assessing causes the gain. [→ Li et al. 2010](#li-et-al-2010)
 
 ## Evidence
 
@@ -53,7 +53,7 @@ Li, L., Liu, X., & Steckelberg, A. L. (2010). Assessor or assessee: How student 
 
 `q2 · observational, controlling for initial quality` · `i? · no effect size reported` · `n=43 (undergraduate teacher-education students)`
 
-Forty-three undergraduate teacher-education students completed a technology-application project, anonymously rated and commented on two randomly assigned peers' projects, then revised their own project based on the feedback they received; two independent raters blindly scored initial and final projects. Controlling for initial project quality, the quality of feedback a student *gave* to peers significantly predicted the quality of that student's own final project, while the quality of feedback a student *received* did not significantly predict it. The authors interpret this as support for the idea that active engagement in reviewing peers' work — the assessor role itself — drives learning, independent of what a student receives back.
+Forty-three undergraduate teacher-education students completed a technology-application project, anonymously rated and commented on two randomly assigned peers' projects, then revised their own project based on the feedback they received; two independent raters blindly scored initial and final projects. Controlling for initial project quality, the quality of feedback a student *gave* to peers significantly predicted the quality of that student's own final project, while the quality of feedback a student *received* did not significantly predict it. The authors interpret this as support for a prior claim that active engagement in reviewing peers' projects may facilitate learning. Because the relationship is correlational, students who write better feedback may also be students who revise better, so the finding does not show that the assessor role itself causes the improvement.
 
 ## Discussion
 

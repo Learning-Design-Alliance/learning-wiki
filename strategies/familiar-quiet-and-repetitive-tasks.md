@@ -12,7 +12,7 @@ generated:
 # Familiar, Quiet, and Repetitive Tasks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 5 studies, `q3`–`q4` · 4 of 5 report an effect size
+> **Evidence** · 2 claims (1 for, 1 against) · 5 studies, `q2`–`q4` · 3 of 5 report an effect size
 
 ## Description
 This strategy uses familiar, quiet, repetitive fine motor and visual tasks — stringing beads, put-in tasks, sorting, file folder activities — as a structured low-stimulation entry point to the day or as a regulation break. The goal is not new learning but emotional and attentional regulation: predictable, well-practiced motor routines reduce environmental and cognitive demands, allowing children who are easily overwhelmed to settle before more demanding instruction. It is most common in early childhood and special education settings, particularly for autistic learners and children with sensory or anxiety-related regulation needs.

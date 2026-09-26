@@ -45,7 +45,7 @@ Okonofua, J. A., Paunesku, D., & Walton, G. M. (2016). Brief intervention to enc
 
 `q3 · randomized field experiment (not preregistered)` · `i? · no standardized effect size in the abstract; suspension rate 9.6% vs 4.8%` · `n=1682 students (31 teachers)`
 
-The paper reports laboratory experiments followed by a randomized field experiment. In the field study, 31 math teachers at five middle schools in three districts completed either a brief online exercise encouraging an empathic mindset about discipline or a control exercise. Over the school year, suspension rates among the 1,682 students of treated teachers were half those of control students (4.8% vs 9.6%). The most at-risk students, those previously suspended, also reported more respect from their teachers. Only the abstract was read, so the analysis details and uncertainty intervals were not checked.
+The paper reports laboratory experiments followed by a randomized field experiment. In the field study, 31 math teachers at five middle schools in three districts completed either a brief online exercise encouraging an empathic mindset about discipline or a control exercise. Across the 1,682 students of these teachers, year-long suspension rates were half as high among students of treated teachers as among students of control teachers (4.8% vs 9.6%). The most at-risk students, those previously suspended, also reported more respect from their teachers. Only the abstract was read, so the analysis details and uncertainty intervals were not checked.
 
 ### Okonofua et al. 2022
 

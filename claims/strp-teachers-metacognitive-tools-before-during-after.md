@@ -1,7 +1,7 @@
 ---
 type: claim
-title: STRP-trained teachers were observed providing metacognitive tools before, during, and after lessons
-description: STRP-trained teachers were observed providing metacognitive tools before, during, and after lessons
+title: The authors conclude that the Strategic Teaching and Reading Project gives teachers metacognitive tools for before, during and after lessons
+description: The authors conclude that the Strategic Teaching and Reading Project gives teachers metacognitive tools for before, during and after lessons
 id: strp-teachers-metacognitive-tools-before-during-after
 status: draft
 generated:
@@ -17,13 +17,13 @@ sources:
     i: "?"
 ---
 
-# STRP-trained teachers were observed providing metacognitive tools before, during, and after lessons
+# The authors conclude that the Strategic Teaching and Reading Project gives teachers metacognitive tools for before, during and after lessons
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
-`q2 i?` Classroom observations of six STRP-trained teachers using a before/during/after checklist indicated the project provides teachers with metacognitive tools across all three lesson phases. [→ Gil-Garcia 2001](#gil-garcia-2001)
+`q2 i?` The authors observed six STRP-trained teachers with a before/during/after metacognition checklist and conclude that the project provides teachers with metacognitive tools across all three lesson phases, but they report students' interview answers, not what the observations found. [→ Gil-Garcia 2001](#gil-garcia-2001)
 
 ## Evidence
 
@@ -33,7 +33,7 @@ Gil-Garcia, A. & Canizales, R. (2001). Commanding Strategies by Hispanic Student
 
 `q2 · i?`
 
-Observational study: three months after STRP training, researchers observed 6 teachers for 40 minutes each with a metacognition checklist covering before, during, and after the lesson. The article concludes "The Strategic Teaching and Reading Project provides teachers with metacognitive tools before, during, and after lesson."
+Observational study: three months after STRP training, researchers observed 6 teachers for 40 minutes each with a metacognition checklist covering before, during, and after the lesson. The results section reports students' answers to the Metacognitive Interview Form, not the checklist observations, and the article concludes "The Strategic Teaching and Reading Project provides teachers with metacognitive tools before, during, and after lesson." The conclusion is the authors' description of the project rather than a reported observation finding.
 
 > "Three months after receiving the STRP training and carrying out the pre data collection using the Metacognitive Interview Form, the researchers observed 6 teachers in their classrooms for 40 mins. using a checklist which contained questions pertaining to metacognition before, during, and after the lesson took place."
 

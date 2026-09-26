@@ -17,7 +17,7 @@ sources:
 # Cognitive Activation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
+> **Evidence** · 3 claims (1 for, 2 mixed) · 7 studies, `q2`–`q4` · 6 of 7 report an effect size
 
 ## Description
 Cognitive activation is the principle of prompting learners to think deeply, make connections, explain reasoning, and grapple with ideas rather than merely recall or comply. It is useful when the goal is conceptual understanding and transfer rather than superficial completion.

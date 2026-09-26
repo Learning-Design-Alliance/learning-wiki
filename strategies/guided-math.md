@@ -12,7 +12,7 @@ generated:
 # Guided Math
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 10 studies, `q3`–`q4` · 9 of 10 report an effect size
+> **Evidence** · 3 claims (3 for) · 10 studies, `q2`–`q4` · 8 of 10 report an effect size
 
 ## Description
 Guided Math organizes mathematics instruction around short, focused [small-group](../elements/small-group-instruction.md) lessons in which the teacher works directly with 4–6 students while the remainder of the class rotates through independent stations, games, and practice tasks. Groups are formed and re-formed based on ongoing assessment data, so instruction targets each student's current level of understanding rather than a single whole-class pace.

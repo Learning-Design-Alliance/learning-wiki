@@ -12,7 +12,7 @@ generated:
 # Calming Visual Input
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies, `q3`–`q4` · 5 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies, `q2`–`q4` · 4 of 8 report an effect size
 
 ## Description
 Calming visual input is the deliberate management of the visual environment to reduce overstimulation and support attention and emotional regulation. Techniques include dimming or softening lighting, decluttering workspaces and walls, using visual dividers or study carrels, providing repetitive visual anchors (fish tanks, sensory bottles), and posting a clear visual picture schedule so the day's structure is predictable. The strategy treats the environment itself as an instructional variable: what learners see competes for the same attentional resources they need for learning.

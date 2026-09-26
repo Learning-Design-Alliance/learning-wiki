@@ -12,7 +12,7 @@ generated:
 # Employ Common Language and Strategies Across Disciplines
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 unmarked) · 7 studies, `q3`–`q4` · 6 of 7 report an effect size
+> **Evidence** · 3 claims (2 for, 1 unmarked) · 7 studies, `q2`–`q4` · 5 of 7 report an effect size
 
 ## Description
 Employing common language and strategies across disciplines means that teachers in different subject areas deliberately adopt shared terminology, shared instructional routines, and shared expectations for transferable skills such as writing, argumentation, and reading. Instead of each discipline using its own idiosyncratic vocabulary for the same moves (e.g., "claim–evidence–reasoning" in science but "thesis–support–conclusion" in English), the school or program standardizes the language and the strategy sequence, so students rehearse the same skill under multiple content conditions.

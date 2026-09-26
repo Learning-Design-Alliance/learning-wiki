@@ -12,7 +12,7 @@ generated:
 # Provide Manipulatives
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q4` · 4 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q4` · 3 of 5 report an effect size
 
 ## Description
 Learners are given tangible objects — counters, base-ten blocks, fraction tiles, balance scales, or their virtual equivalents — that they physically arrange, combine, and transform to model abstract concepts. The manipulative serves as an external, manipulable representation of an idea that would otherwise exist only symbolically, allowing learners to act on the concept before representing it symbolically.

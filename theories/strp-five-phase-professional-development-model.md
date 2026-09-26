@@ -39,7 +39,7 @@ STRP is grounded in a five-phase professional development model whose phases the
 
 - [The authors conclude that bilingual students can benefit from instruction in metacognitive strategy use](../claims/bilingual-students-benefit-metacognitive-strategy-instruction.md) [+W]
 - [The authors report that an area of positive change in their study was students' use of self-generated questions](../claims/self-generated-questions-positive-change-metacognitive-training.md) [+W]
-- [STRP-trained teachers were observed providing metacognitive tools before, during, and after lessons](../claims/strp-teachers-metacognitive-tools-before-during-after.md) [+W]
+- [The authors conclude that the Strategic Teaching and Reading Project gives teachers metacognitive tools for before, during and after lessons](../claims/strp-teachers-metacognitive-tools-before-during-after.md) [+W]
 
 ## Related Theories
 

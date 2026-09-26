@@ -12,7 +12,7 @@ generated:
 # Clear Structure
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 6 studies, `q2`–`q4` · 5 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Clear structure is the short-form canonical target for designs that make the organization, sequence, and expectations of learning visible and easy to follow.

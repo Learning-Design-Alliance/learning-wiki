@@ -27,14 +27,17 @@ pages rest on, so this spends the judge there and only there:
    answer `unverifiable` for detail an abstract would not carry, which is not a
    failure and not a pass.
 
-Nothing is written to any page. A failure names what the judge found, for a person
-to read (the judge is a model and has been wrong about this pipeline before: read
+Nothing is written to any page. The procedure for acting on what this finds, and for
+running it regularly, is `eval/load-bearing/README.md`. A failure names what the judge
+found, for a person to read (the judge is a model and has been wrong about this pipeline before: read
 its failures before trusting them, CLAUDE.md batch 7). Results go to `--out`, and a
 claim already judged against the same page text and article is not paid for again.
 
     python3 scripts/check_load_bearing.py --rank --top 40          # the ranking, free
     python3 scripts/check_load_bearing.py --top 100 --budget 1.00  # judge the top 100
     python3 scripts/check_load_bearing.py --report                 # what earlier runs found
+    python3 scripts/check_load_bearing.py --claims <slug>          # re-judge after a fix
+    python3 scripts/check_load_bearing.py --dismiss "<slug>#<entry>" --because judge-wrong --reason "..."
 """
 import argparse
 import collections
@@ -55,6 +58,10 @@ import page_identity as pid  # noqa: E402
 
 CACHE = WIKI_ROOT / "eval" / "corpus" / "cache"
 OUT = WIKI_ROOT / "eval" / "runs" / "load-bearing" / "judged.ndjson"
+# Committed, append-only: a person's (or a session's) triage of a failure the
+# judge got wrong. Keyed on the entry's text, so an edit to the entry re-opens it.
+REVIEWED = WIKI_ROOT / "eval" / "load-bearing" / "reviewed.ndjson"
+DISMISS_REASONS = ("judge-wrong", "registry-wrong")
 MAX_ARTICLE = 60_000
 
 SYSTEM = """\
@@ -267,6 +274,47 @@ def judge(claim: str, title: str, block: str, subs: list, source: str, basis: st
             "cost_usd": gen.cost_usd, "provider": gen.provider, "latency_s": round(time.monotonic() - t0, 1)}
 
 
+def page_digest(claim: str, title: str, block: str, subs: list) -> str:
+    """The entry as the page states it, without the source text, which is cached
+    per machine and may differ between two checkouts."""
+    return digest(claim, title, block, "\n".join(subs))
+
+
+def load_reviewed() -> dict:
+    """page digest -> the latest review of that exact entry text."""
+    out = {}
+    if REVIEWED.exists():
+        for line in REVIEWED.read_text(encoding="utf-8").splitlines():
+            try:
+                r = json.loads(line)
+            except ValueError:
+                continue
+            out[r["page_digest"]] = r
+    return out
+
+
+def dismiss(target: str, because: str, reason: str, by: str, pages: dict) -> str:
+    """Record that a failure was read and the page is right. Refuses an entry that
+    does not exist, and records the text it vouches for, so any later edit to the
+    entry re-opens it."""
+    claim, _, anchor = target.partition("#")
+    claim = claim.removeprefix("claims/").removesuffix(".md")
+    if claim not in pages:
+        raise SystemExit(f"no claim page {claim}")
+    title, entries = units(pages[claim])
+    match = [(b, s) for a, b, s in entries if a == anchor]
+    if not match:
+        raise SystemExit(f"claims/{claim}.md has no evidence entry #{anchor}")
+    if not reason.strip():
+        raise SystemExit("--reason is required: say what you checked and what it showed")
+    rec = {"claim": claim, "entry": anchor, "page_digest": page_digest(claim, title, *match[0]),
+           "decision": because, "reason": reason.strip(), "by": by, "at": time.strftime("%Y-%m-%d")}
+    REVIEWED.parent.mkdir(parents=True, exist_ok=True)
+    with REVIEWED.open("a", encoding="utf-8") as fh:
+        fh.write(json.dumps(rec, ensure_ascii=False) + "\n")
+    return f"dismissed claims/{claim}.md#{anchor} as {because}"
+
+
 def entry_jobs(rows: list, pages: dict) -> tuple:
     """[(row, anchor, title, block, subs, source, basis, text, digest)] for every
     evidence entry with a text to judge it against, and a count of those without."""
@@ -285,7 +333,8 @@ def entry_jobs(rows: list, pages: dict) -> tuple:
                     continue
                 source, basis = "doi:" + m.group(0).rstrip(".,;"), "abstract"
             jobs.append((r, anchor, title, block, subs, source, basis, text,
-                         digest(r["claim"], title, block, "\n".join(subs), text)))
+                         digest(r["claim"], title, block, "\n".join(subs), text),
+                         page_digest(r["claim"], title, block, subs)))
     return jobs, skipped
 
 
@@ -293,15 +342,37 @@ def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--top", type=int, default=100, help="how many of the most-cited claims")
     ap.add_argument("--rank", action="store_true", help="print the ranking and stop; costs nothing")
+    ap.add_argument("--claims", nargs="+", metavar="SLUG",
+                    help="judge these claims instead of the top of the ranking (e.g. after fixing them)")
     ap.add_argument("--report", action="store_true", help="summarise what earlier runs found")
     ap.add_argument("--budget", type=float, default=1.0, help="stop starting judge calls past this many USD")
     ap.add_argument("--model", default="openai/gpt-5.6-luna")
     ap.add_argument("--concurrency", type=int, default=6)
     ap.add_argument("--out", type=Path, default=OUT)
+    ap.add_argument("--dismiss", metavar="CLAIM#ENTRY",
+                    help="record that this failure was checked and the page is right")
+    ap.add_argument("--because", choices=DISMISS_REASONS,
+                    help="judge-wrong: the source supports the page; registry-wrong: the text the judge "
+                         "was given (an OpenAlex abstract, say) is not the cited work")
+    ap.add_argument("--reason", default="", help="what you checked, and what it showed")
+    ap.add_argument("--by", default="claude/unspecified", help="who checked: human:<id> or <tool>/unspecified")
     args = ap.parse_args()
 
     pages = claim_pages()
-    rows = ranking(pages)[:args.top]
+    if args.dismiss:
+        if not args.because:
+            raise SystemExit("--dismiss needs --because and --reason")
+        print(dismiss(args.dismiss, args.because, args.reason, args.by, pages))
+        return
+    rows = ranking(pages)
+    if args.claims:
+        want = {c.removeprefix("claims/").removesuffix(".md") for c in args.claims}
+        missing = want - set(pages)
+        if missing:
+            raise SystemExit(f"no claim page: {', '.join(sorted(missing))}")
+        rows = [r for r in rows if r["claim"] in want]
+    else:
+        rows = rows[:args.top]
     if args.rank:
         print(f"{'designs':>7} {'claims':>6} {'merged':>6} {'studies':>7}  claim")
         for r in rows:
@@ -314,18 +385,27 @@ def main() -> None:
         # once a page is corrected, its old failure is stale, not open.
         judged = done_before(args.out)
         wanted = {r["claim"] for r in judged.values()}
-        current = {j[-1] for j in entry_jobs([r for r in ranking(pages) if r["claim"] in wanted], pages)[0]}
-        latest = {}
+        current = {j[-2]: j[-1] for j in entry_jobs([r for r in ranking(pages) if r["claim"] in wanted], pages)[0]}
+        reviewed = load_reviewed()
+        latest, dismissed, live = {}, collections.Counter(), set()
         for r in judged.values():
             if r["digest"] in current:
+                live.add((r["claim"], r["entry"]))
+                if r["verdict"] in ("fail", "not-this-study") and current[r["digest"]] in reviewed:
+                    dismissed[reviewed[current[r["digest"]]]["decision"]] += 1
+                    continue
                 latest[(r["claim"], r["entry"])] = r
-        stale = len({(r["claim"], r["entry"]) for r in judged.values()} - set(latest))
+        stale = len({(r["claim"], r["entry"]) for r in judged.values()} - live)
         if stale:
             print(f"{stale} earlier verdict(s) are stale: the entry has changed since, so re-run to judge it again")
         c = collections.Counter(r["verdict"] for r in latest.values())
         b = collections.Counter(r["basis"] for r in latest.values())
         print(f"{len(latest)} evidence entries judged on {len({k[0] for k in latest})} claims: "
-              f"{dict(c)}; basis {dict(b)}\n")
+              f"{dict(c)}; basis {dict(b)}")
+        if dismissed:
+            print(f"{sum(dismissed.values())} failure(s) read and dismissed ({dict(dismissed)}); "
+                  f"see {REVIEWED.relative_to(WIKI_ROOT)}")
+        print()
         for r in sorted(latest.values(), key=lambda r: (-r["designs"], r["claim"])):
             if r["verdict"] in ("fail", "not-this-study"):
                 label = r["verdict"].upper()
@@ -344,8 +424,12 @@ def main() -> None:
         raise SystemExit("OPENROUTER_API_KEY is not set")
     seen = done_before(args.out)
     jobs, skipped = entry_jobs(rows, pages)
-    reused = sum(1 for j in jobs if j[-1] in seen)
-    jobs = [j for j in jobs if j[-1] not in seen]
+    reviewed = load_reviewed()
+    reused = sum(1 for j in jobs if j[-2] in seen)
+    settled = sum(1 for j in jobs if j[-2] not in seen and j[-1] in reviewed)
+    jobs = [j[:-1] for j in jobs if j[-2] not in seen and j[-1] not in reviewed]
+    if settled:
+        print(f"{settled} entr{'y' if settled == 1 else 'ies'} skipped: already reviewed at this text")
     print(f"{len(rows)} claims; {len(jobs)} evidence entries to judge, {reused} already judged; "
           f"not checkable: {dict(skipped) or 0}", flush=True)
 

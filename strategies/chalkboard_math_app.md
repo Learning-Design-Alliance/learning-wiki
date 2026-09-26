@@ -12,7 +12,7 @@ generated:
 # Chalkboard Math App
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q4` · 4 of 5 report an effect size
 
 ## Description
 Chalkboard Math is a mobile app for practicing basic math facts in addition, subtraction, multiplication, and division. It generates practice in two modes: **answer mode**, in which learners enter answers and receive immediate feedback, and **flashcard mode**, in which learners respond verbally. The chalkboard interface lets learners write answers by hand rather than selecting from options.

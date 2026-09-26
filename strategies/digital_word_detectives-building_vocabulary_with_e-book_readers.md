@@ -12,7 +12,7 @@ generated:
 # Digital Word Detectives — Building Vocabulary With E-Book Readers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 15 studies, `q1`–`q4` · 11 of 15 report an effect size
+> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 15 studies, `q1`–`q4` · 10 of 15 report an effect size
 
 ## Description
 Digital Word Detectives positions learners as investigators of unfamiliar vocabulary while reading in an e-book reader (e.g., Kindle, Apple Books, Epic!, Unite for Literacy). Learners flag unknown words, use the reader's built-in dictionary, text-to-speech, and highlighting tools to look up meanings, and record findings in a personal "word detective notebook" (digital or paper). The strategy converts incidental word encounters into deliberate vocabulary learning by pairing wide reading with explicit word-investigation routines.

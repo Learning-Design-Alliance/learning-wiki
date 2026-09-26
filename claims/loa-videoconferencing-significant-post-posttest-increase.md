@@ -42,7 +42,7 @@ Descriptive analysis of the 15 respondents completing all three surveys showed v
 
 ## Related Claims
 - [Reported use of bridging/conferencing software showed a significant increase (p<0.001), with mean level rising from 1.00 to 2.60](loa-bridging-conferencing-significant-increase.md) — related
-- [Self-reported levels of adoption increased for all 20 surveyed educational technologies across three administrations of the LoA survey](loa-pilot-self-reported-increase-all-20-technologies.md) — a broader claim this one bears on
+- [Self-reported average level of technology use rose across three administrations of the LoA survey, though not for every technology](loa-pilot-self-reported-increase-all-20-technologies.md) — a broader claim this one bears on
 - [Presentation software adoption rose even though it was modeled by instructors rather than directly taught](loa-presentation-software-modeled-not-taught-gain.md) — related
 - [Learning management system adoption rose from mostly non-use/orientation to routine-through-integration levels by December](loa-lms-adoption-growth.md) — related
 - [Interactive whiteboard results showed shifts between orientation/preparation after returning to schools, raising questions about perceived versus actual use](loa-whiteboard-perceived-versus-actual-use.md) — related
