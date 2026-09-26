@@ -1,30 +1,52 @@
 ---
 type: claim
-title: Worked examples reduce unnecessary search for novices
+title: Peer-assisted learning interventions improve achievement for elementary students
 status: draft
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-09-25
 id: peer-assisted-learning-improves-achievement
 evidence_strength: low
+sources:
+  - id: rohrbeck-et-al-2003
+    resource: "https://doi.org/10.1037/0022-0663.95.2.240"
+    title: "Rohrbeck, C. A., Ginsburg-Block, M. D., Fantuzzo, J. W., & Miller, T. R. (2003). Peer-assisted learning interventions with elementary school students: A meta-analytic review. *Journal of Educational Psychology, 95*(2), 240–257. [doi:10.1037/0022-0663.95.2.240](https://doi.org/10.1037/0022-0663.95.2.240)"
+    author: "Rohrbeck, C. A., Ginsburg-Block, M. D., Fantuzzo, J. W., & Miller, T. R."
+    q: 3
+    i: "?"
+    n: not stated in abstract (k unreported)
 ---
 
-# Worked examples reduce unnecessary search for novices
+# Peer-assisted learning interventions improve achievement for elementary students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · none recorded yet
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · n=not stated in abstract (k unreported)
 
-For learners who lack domain experience, studying step-by-step worked solutions imposes less extraneous cognitive load than solving equivalent problems unaided, because it removes the need to search for solution steps. The claim is scoped to novices; the benefit shrinks and can reverse as expertise grows (see [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-expertise-reversal.md)).
+Peer-assisted learning (PAL) — structured interventions in which students teach, tutor or work interdependently with one another — raises elementary students' academic achievement relative to comparison instruction. The claim is scoped to elementary grades, where the meta-analytic evidence is concentrated.
 
 ## Subclaims
 
-<!-- TODO -->
+`q3 i?` A meta-analytic review of group-comparison studies finds peer-assisted learning interventions produce positive effect sizes for achievement among elementary school students, with larger gains for younger, urban, low-income and minority students. [→ Rohrbeck et al. 2003](#rohrbeck-et-al-2003)
 
 ## Evidence
 
-<!-- TODO -->
+### Rohrbeck et al. 2003
+
+Rohrbeck, C. A., Ginsburg-Block, M. D., Fantuzzo, J. W., & Miller, T. R. (2003). Peer-assisted learning interventions with elementary school students: A meta-analytic review. *Journal of Educational Psychology, 95*(2), 240–257. [doi:10.1037/0022-0663.95.2.240](https://doi.org/10.1037/0022-0663.95.2.240)
+
+`q3 · meta-analytic review (abstract only)` · `i? · no effect size reported (abstract does not state a pooled d/g)` · `n=not stated in abstract (k unreported)`
+
+A meta-analytic review of group-comparison-design studies evaluating peer-assisted learning (PAL) interventions with elementary school students. The review reports positive effect sizes on achievement outcomes overall, and finds PAL was most effective with younger, urban, low-income, and minority students. Interventions using interdependent reward contingencies, ipsative (self-referenced) evaluation procedures, and greater student autonomy showed higher effect sizes.
 
 ## Discussion
+
+**What the recorded evidence shows.** The meta-analysis recorded above, read as an abstract, reports positive effects on achievement and larger ones for younger, urban, low-income and minority students. Interventions with interdependent group rewards, self-referenced (ipsative) evaluation and more student autonomy showed larger effects. The abstract gives no pooled effect size.
+
+**How it relates to neighbouring claims.** Tutoring programmes in general are covered by [peer tutoring improves achievement](peer-tutoring-improves-achievement.md), the value of structure by [structured peer tutoring outperforms unstructured](structured-peer-tutoring-outperforms-unstructured.md), and gains for the tutor by [tutoring benefits tutors and tutees](tutoring-benefits-tutors-and-tutees.md).
+
+**Open questions.** Whether the effects hold beyond elementary grades, how durable they are, and how much depends on the reward and evaluation structure rather than on peer interaction itself.
+
+<!-- deprecated: until 2026-09-25 this page carried the title "Worked examples reduce unnecessary search for novices" and a body about worked examples, although its slug and its only inbound link (strategies/reciprocal_peer_tutoring.md, "Peer-assisted learning interventions improve achievement for elementary students") are about peer-assisted learning. The worked-examples claim has its own page, claims/worked-examples-reduce-novice-search.md. The earlier text follows.
 
 **Mechanism.** Novices solving problems unaided tend to engage in means–ends search — repeatedly comparing the current problem state to the goal and hunting for operators that reduce the difference. This search consumes working-memory resources without contributing to schema construction. A worked example removes the search entirely, freeing capacity to attend to the solution steps and the conditions under which they apply. This is a direct application of [cognitive load theory](../theories/cognitive-load-theory.md): the example acts as a form of [cognitive load reduction](../principles/cognitive-load-reduction.md) that channels effort toward learning-relevant processing.
 
@@ -36,9 +58,16 @@ For learners who lack domain experience, studying step-by-step worked solutions 
 
 **Open questions.** How "novice" should be operationalized (years of study, prior-knowledge measures, task-specific experience) varies across studies, and the point at which examples stop helping is domain- and task-dependent. Evidence entries are still needed before this claim can be graded.
 
-## Related Claims
-
+Earlier Related Claims:
 - [Example–problem sequences reduce cognitive load and improve learning outcomes.](example-problem-sequences-reduce-cognitive-load.md) — the sequencing claim this mechanism claim underpins
 - [Pairing worked examples with practice or fading supports transfer better than examples alone.](worked-examples-with-practice-improve-transfer.md) — examples alone are not sufficient for transfer
 - [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-expertise-reversal.md) — the expertise-reversal boundary of this claim
 - [Worked examples improve mathematics performance, especially for novices.](worked-examples-improve-math-performance.md) — domain-specific meta-analytic support
+-->
+
+## Related Claims
+
+- [Peer tutoring improves achievement.](peer-tutoring-improves-achievement.md) — tutoring programmes across ages and subjects
+- [Structured peer tutoring outperforms unstructured.](structured-peer-tutoring-outperforms-unstructured.md) — the role of structure, which the recorded moderators also point to
+- [Tutoring benefits tutors and tutees.](tutoring-benefits-tutors-and-tutees.md) — gains on both sides of the interaction
+- [Cooperative learning improves achievement.](cooperative-learning-improves-achievement.md) — interdependent group work, a close relative of PAL

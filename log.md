@@ -10,6 +10,8 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-09-25
 
+* **Correction**: [claims/peer-assisted-learning-improves-achievement](claims/peer-assisted-learning-improves-achievement.md) — Title and body rewritten to peer-assisted learning, matching the slug and inbound link; evidence added (Rohrbeck et al. 2003)
+* **Correction**: [claims/self-determination-instruction-improves-outcomes](claims/self-determination-instruction-improves-outcomes.md) — Reframed to special-education self-determination skills instruction, matching its inbound link; evidence added (Burke et al. 2018; Wehmeyer et al. 2013)
 * **Ingest**: [claims/worked-example-problem-sequences](claims/worked-example-problem-sequences.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/tutoring-effectiveness-comes-from-scaffolding-and-feedback](claims/tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/self-monitoring-improves-on-task-behavior](claims/self-monitoring-improves-on-task-behavior.md) — Evidence filled from Crossref-verified sources (gap-fill)

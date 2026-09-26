@@ -22305,6 +22305,11 @@
     ]
    },
    "cooperative-learning-improves-achievement": {
+    "claims": [
+     {
+      "slug": "peer-assisted-learning-improves-achievement"
+     }
+    ],
     "principles": [
      {
       "polarity": "+",
@@ -34884,6 +34889,11 @@
     ]
    },
    "peer-tutoring-improves-achievement": {
+    "claims": [
+     {
+      "slug": "peer-assisted-learning-improves-achievement"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -37969,6 +37979,11 @@
     ]
    },
    "self-determined-learning-model-of-instruction-improves-self-determination": {
+    "claims": [
+     {
+      "slug": "self-determination-instruction-improves-outcomes"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -37978,6 +37993,11 @@
     ]
    },
    "self-directed-iep-increases-student-participation": {
+    "claims": [
+     {
+      "slug": "self-determination-instruction-improves-outcomes"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -45836,6 +45856,11 @@
     ]
    },
    "structured-peer-tutoring-outperforms-unstructured": {
+    "claims": [
+     {
+      "slug": "peer-assisted-learning-improves-achievement"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -47128,6 +47153,11 @@
     ]
    },
    "tutoring-benefits-tutors-and-tutees": {
+    "claims": [
+     {
+      "slug": "peer-assisted-learning-improves-achievement"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
