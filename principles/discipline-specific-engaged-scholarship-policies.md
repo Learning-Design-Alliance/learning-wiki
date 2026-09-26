@@ -17,6 +17,7 @@ sources:
 # Replace one-size-fits-all engagement policies with discipline-specific RPT policies, professional development, and institutional support
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Because publicly engaged scholarship manifests differently across disciplinary groups, institutions should move beyond universal, institution-wide policies. The article recommends reconsidering RPT policies so they do not unintentionally disadvantage hard disciplines whose commercialized activities go unreported, familiarizing decision-makers with the variety of engaged collaboration, diversifying professional development portfolios by disciplinary interest, and extending awards, seed grants, and conference support equitably so they do not concentrate in applied and life fields.

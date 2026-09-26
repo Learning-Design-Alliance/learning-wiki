@@ -16,6 +16,7 @@ sources:
 # Five-stage developmental theory of pedagogical expertise: novice, advanced beginner, competent, proficient, expert
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article presents a stage theory of skill acquisition in teaching, following the Dreyfus brothers' general model. Novices learn context-free rules and are 'rational, relatively inflexible'; advanced beginners meld experience with verbal knowledge; competent performers make conscious choices and set priorities; proficient performers gain intuition and holistic similarity recognition; experts act in fluid, nonanalytic ways. Berliner offers it as tentative, with heuristic value for teacher education.

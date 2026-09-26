@@ -14,6 +14,7 @@ grain_size: lesson
 # Jigsaw Method
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 4 claims (4 mixed) · 12 studies, `q3`–`q4` · 12 of 12 report an effect size
 
 ## Description
 The Jigsaw Method is a cooperative learning pattern in which learners become responsible for one part of a larger topic, develop expertise in that part, and then teach it to peers who depend on them for the whole picture. The pattern is designed to create positive interdependence: no learner can complete the full task alone without contributions from others.

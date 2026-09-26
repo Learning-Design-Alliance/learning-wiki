@@ -17,6 +17,7 @@ sources:
 # Easy Java Simulation one-dimensional collision carts virtual laboratory model
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 An Easy Java Simulation (EJS) computer model of idealized one-dimensional collision carts, built on Open Source Physics community code and released as a virtual laboratory with a world view and bottom control panel for student-directed inquiry activities. As the author writes, "the two-body collision carts model is simulated by both continuous dynamics and discrete transition, where the system dynamics change discretely and the state values jump when the two carts collide". Collision outcomes are set by a coefficient of restitution, and the model lets students see that total momentum is conserved while kinetic energy loss is zero only for perfectly elastic collisions. The equations are stated to be applicable to other modeling tools such as VPython or Modellus.

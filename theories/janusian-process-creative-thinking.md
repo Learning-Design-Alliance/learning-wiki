@@ -16,6 +16,7 @@ sources:
 # The Janusian process: actively conceiving multiple opposites simultaneously as a mechanism of creativity
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The Janusian process is defined in the article as "actively conceiving multiple opposites or antitheses simultaneously", named for the Roman god Janus whose faces looked in multiple opposite directions. The article describes four phases: motivation to create, deviation or separation, simultaneous opposition, and construction. Its aim is to develop opposite ideas for a given concept and construct new ideas by putting previous and new concepts together simultaneously; CREACT operationalizes this process for classroom use.

@@ -12,6 +12,7 @@ generated:
 # Small-Group Instruction
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Small-group instruction is the element in which learners work with an instructor or facilitator in a reduced-size group for targeted teaching, discussion, or support. It is useful when instruction benefits from more responsiveness than whole-class delivery allows.

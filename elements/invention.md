@@ -12,6 +12,7 @@ generated:
 # Invention
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 2 claims (2 for) · 3 studies, `q3`–`q4` · 1 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 An invention task presents learners with a novel problem and asks them to create their own solution procedure, formula, or representation — typically before any direct instruction on the canonical method. The goal is not to produce the correct answer but to surface gaps in prior knowledge and build readiness for the instruction that follows. This is the core move of "inventing to prepare for future learning" [Invention tasks before instruction improve later learning from that instruction.](../claims/invention-tasks-prepare-future-learning.md) [+S].

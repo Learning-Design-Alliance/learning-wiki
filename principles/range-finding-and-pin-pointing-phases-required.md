@@ -17,6 +17,7 @@ sources:
 # Include both range-finding and pin-pointing phases when applying the body of work method
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report stresses that the standard application of the body of work method involves two distinct phases: range-finding, where work samples cover the entire range sparsely, and pin-pointing, which uses only samples near the proposed cut scores. Omitting pin-pointing left judges unsure whether a single portfolio's classification defined a cut score and left large gaps between adjacent portfolios that did not define the cut score well.

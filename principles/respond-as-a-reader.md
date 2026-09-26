@@ -17,6 +17,7 @@ sources:
 # Respond to student writing as an interested reader rather than only as an evaluator
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Teachers can encourage and support student writers by responding to their texts as an interested reader rather than as an evaluator or expert, which allows them to relinquish some authority and adopt a less threatening voice. The key is showing genuine interest in students' ideas, thoughts, feelings, and experiences, for example by sharing one's own experiences and including affective comments expressing surprise, empathy, or disappointment.

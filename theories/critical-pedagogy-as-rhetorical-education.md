@@ -16,6 +16,7 @@ sources:
 # Giroux's critical pedagogy is a program of rhetorical education in which pedagogy is a form of cultural production
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper interprets Henry Giroux's critical pedagogy as explicitly rhetorical education. Giroux defines pedagogy as "a configuration of textual, verbal, and visual practices that seek to engage the processes through which people understand themselves and the ways in which they engage others and their environment." The paper concludes that "critical pedagogy, as defined by Henry Giroux, is a program of rhetorical education": students must learn how a culture establishes and enforces its norms and how individuals negotiate their role in cultural production. The paper uses this framework to derive six operationalizations for the basic speech course.

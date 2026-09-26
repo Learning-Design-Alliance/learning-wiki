@@ -12,6 +12,7 @@ generated:
 # Last Lesson, Last Week, Last Month
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 8 studies, `q3`–`q4` · 8 of 8 report an effect size
 
 ## Description
 This activity involves looking back to the most important information presented yesterday, last week, and last month. The instructor selects three questions from each time period and asks students to answer them with no assistance, enacting spaced retrieval practice. It signals that learning a topic does not end with the summative assessment and that knowledge builds on knowledge.

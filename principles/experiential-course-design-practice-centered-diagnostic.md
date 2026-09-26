@@ -17,6 +17,7 @@ sources:
 # Design experiential training courses with practice at the centre, beginning diagnostically rather than with theory
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper closes with concrete guidance for trainers designing their own experiential courses: they "should decide that practice will be the focus of the training, begin with a diagnostic approach, avoid beginning courses with theory, use analysis of practice as the basis of the group training session, encourage peer support". It further advises spending time with trainees in their practice situation, being sensitive to cultural and traditional practices, developing materials and activities, and reviewing assessment methods. The rationale is that theory should illuminate practice rather than precede it.

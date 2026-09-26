@@ -12,6 +12,7 @@ generated:
 # Notice And Wonder
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q3` · 1 of 3 report an effect size
 
 ## Description
 Notice and Wonder presents learners with a stimulus — a graph, image, data display, or problem stem — stripped of its question, and asks two open prompts: "What do you notice?" and "What do you wonder?" Learners generate observations and questions before the target task is revealed. The routine originated in mathematics education (popularized by Annie Fetter and NCTM) and is now used across disciplines to slow down sense-making and surface prior knowledge before formal problem solving.

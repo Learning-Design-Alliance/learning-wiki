@@ -17,6 +17,7 @@ sources:
 # Website Motivational Analysis Checklist (WebMAC)
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 WebMAC is described as "an instrument used for designing and assessing the motivational quality of World Wide Web sites". The digest says it builds on Keller's ARCS work, Taylor's Value-Added Model and research on relevance and information retrieval, and that it identifies 60 items categorized under four general characteristics: Engaging, Meaningful, Organized, and Enjoyable.

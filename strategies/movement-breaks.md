@@ -12,6 +12,7 @@ generated:
 # Movement Breaks
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3` · 1 of 2 report an effect size
 
 ## Description
 Movement breaks are brief, structured physical activities — stretching, dancing, simple exercises, or movement-based games — inserted into classroom or training sessions to energize learners and restore focus. They typically last 1–5 minutes and are deployed after periods of sedentary work, at natural transition points, or before demanding tasks. Beyond physical activation, they give learners a structured opportunity to release energy and manage stress, supporting self-regulation.

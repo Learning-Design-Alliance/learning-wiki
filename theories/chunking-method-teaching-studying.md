@@ -16,6 +16,7 @@ sources:
 # The chunking method of teaching and studying
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The chunking method requires students to use their cognitive processing capacity (CPC) to determine how much information to process at one time and to progressively chunk discrete units into a meaningful whole. A chunking study outline (CSO) provided by the teacher structures this process: each line is treated as a discrete unit early in learning, and in review students shift focus from parts to whole, with higher-order words serving as nexuses tying together lower-order words. The article evaluates refinements of the method, including CSO length and retention outcomes.

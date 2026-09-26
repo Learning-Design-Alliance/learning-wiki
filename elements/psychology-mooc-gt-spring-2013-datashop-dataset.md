@@ -17,6 +17,7 @@ sources:
 # Psychology MOOC GT Spring 2013 dataset (OLI, via PSLC DataShop)
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A dataset from the 'Psychology MOOC GT - Spring 2013' course, accessed via DataShop (pslcdatashop.org). The course was designed by the Open Learning Initiative (OLI), known for data-driven design, which the authors say ensures skills were properly tagged. It contains data from 5615 students who issued around 2 million first attempt answers, with 226 different skills identified. Skills tagged in fewer than 4 different questions were discarded, leaving 103 skills for training and evaluating the RSS-estimation model.

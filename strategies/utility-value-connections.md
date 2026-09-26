@@ -12,6 +12,7 @@ generated:
 # Utility Value Connections
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
 
 ## Description
 Utility value connections make the personal relevance of academic content explicit: learners are prompted to explain how material relates to their own lives, future careers, or interests, or instructors embed that relevance directly in tasks and examples. The strategy derives from expectancy-value theory, in which task value — particularly utility value, the perceived usefulness of a task for future goals — is a direct determinant of motivation and engagement (Eccles & Wigfield, 2002). It is carried out through brief writing assignments, relevance-infused course materials, or discussion prompts.

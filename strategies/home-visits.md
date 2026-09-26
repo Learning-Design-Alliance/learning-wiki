@@ -12,6 +12,7 @@ generated:
 # Home Visits
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3` · 0 of 2 report an effect size
 
 ## Description
 Home visits are structured, voluntary meetings in which educators visit a student's family at home — typically early in the year or at a transition point — with the explicit goal of relationship-building rather than problem-reporting. The visit centers family voice: educators ask about the family's hopes for the child, share their own commitments, and listen. Programs such as the Parent Teacher Home Visits (PTHV) model train educators to conduct visits as peer-to-peer conversations, not inspections.

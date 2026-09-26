@@ -12,6 +12,7 @@ generated:
 # Reasonable Feedback
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q4` · 4 of 4 report an effect size
 
 ## Description
 Reasonable feedback involves providing feedback that is manageable and actionable rather than exhaustive. The teacher deliberately selects a limited focus for each feedback cycle — such as transitions, evidence use, or thesis clarity — and often pairs one strength ("Glow") with one improvement ("Grow"). Students then carry these focused comments forward as goals for their next attempt, converting feedback from a verdict into a work plan.

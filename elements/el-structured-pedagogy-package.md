@@ -17,6 +17,7 @@ sources:
 # Structured pedagogy package: student books, teachers' guides, and teacher professional development
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The brief describes structured pedagogy as "a coordinated approach to improving classroom instruction that involves provision of student materials and lesson plans, training, and continuous support." Its components include student books and textbooks, structured teachers' guides varying from scripts specifying "what teachers are expected to say" to suggested activities, and both pre- and in-service teacher professional development, which the brief calls essential. Programs "introduce skills gradually, building incrementally on the skills and knowledge students already have."

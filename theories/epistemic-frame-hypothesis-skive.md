@@ -16,6 +16,7 @@ sources:
 # Epistemic frame hypothesis: communities of practice have SKIVE-based epistemic frames internalized through training and induction
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The epistemic frame hypothesis holds that any community of practice has a culture whose base structure comprises skills, knowledge, identity, values, and epistemology. The article states that "This collection of skills, knowledge, identity, values, and epistemology (SKIVE) forms the epistemic frame of the community." The hypothesis claims a frame binds these elements together, is internalized through training and induction into a community, and is then used when an individual approaches a situation in the role of a community member. Epistemic games are designed so learners develop and demonstrate such frames.

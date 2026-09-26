@@ -17,6 +17,7 @@ sources:
 # Support teachers with ongoing job-embedded science-of-reading training through school-based literacy coaches
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The toolkit positions literacy coaches as "an important support mechanism for teachers in the classroom": site-based coaches "facilitate teacher training on evidence-based reading instruction and data-based decision making; demonstrate lessons; co-teach and/or observe teaching and provide immediate feedback." Coaches serve as a stable professional-development resource intended to build master teachers of reading schoolwide and improve student reading achievement.

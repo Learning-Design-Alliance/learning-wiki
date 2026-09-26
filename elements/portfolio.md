@@ -12,6 +12,7 @@ generated:
 # Portfolio
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 1 claim (1 mixed) · 2 studies, `q4` · 2 of 2 report an effect size
 
 ## Description
 A portfolio is a purposeful collection of learner work — artifacts, drafts, and reflections — assembled over time to document progress, demonstrate competence, and support self-evaluation. Unlike point-in-time [assessment](assessment.md), it captures process as well as product, and the learner typically participates in selecting and annotating what is included.

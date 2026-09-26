@@ -17,6 +17,7 @@ sources:
 # Seven-Lesson Kindergarten Equal Sign Sequence
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Seven lessons within an 18-lesson kindergarten early algebra intervention that "focused specifically on developing students’ understandings of mathematical equivalence and fluency with equations". The sequence moves from comparing quantities on a pan balance and writing a = a, through number balances, decomposing numbers with Unifix cubes and writing c = a + b, to true/false and missing value equations and the Additive Identity.

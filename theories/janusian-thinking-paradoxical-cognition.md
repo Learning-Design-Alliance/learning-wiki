@@ -16,6 +16,7 @@ sources:
 # Janusian thinking: holding contradictory thoughts simultaneously underlies creative breakthroughs and cognitive flexibility
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Drawing on Rothenburg (1979), the chapter defines Janusian thinking as the simultaneous conception of opposites or antitheses as equally valid, named for the two-faced Roman god Janus. It is presented as the common thread in creative breakthroughs in the sciences and arts, studied in figures such as Einstein, Mozart, Picasso, and O'Neill. The chapter contrasts it with linear cognitive styles organized on two dimensions (novelty versus stability; internal versus external cues), arguing that focusing on opposites simultaneously produces "tolerance and flexibility of thought". The article attributes this account to Rothenburg's research.

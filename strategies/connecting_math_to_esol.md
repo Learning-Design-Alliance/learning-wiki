@@ -12,6 +12,7 @@ generated:
 # Connecting Math to ESOL
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (5 for) · 10 studies, `q3`–`q4` · 10 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Connecting Math to ESOL embeds numeracy — money, time, measurement, data interpretation, comparison shopping, schedules — into English language instruction, so that mathematical reasoning supplies the *purpose* for language use. Rather than teaching math as a separate subject in English, the instructor treats quantitative tasks as authentic communicative contexts: learners must read, discuss, negotiate, and explain in English in order to complete them. The approach draws on the distinction between conversational fluency and academic language proficiency — learners need structured opportunities to develop the specialized vocabulary and discourse of quantitative reasoning, which does not emerge from everyday conversation alone [Cummins, J. (1979)](https://doi.org/10.3102/00346543049002222) [+M].

@@ -17,6 +17,7 @@ sources:
 # Curated set of measurement instruments for humanlikeness, anthropomorphism, and related constructs
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article curates existing measurement instruments (Table 2) organized by what they capture: design-level humanlikeness (the ABOT database with "Feature-presence scores for 16 humanlike appearance features, and 2 mechanical locomotion features"), trait anthropomorphism (IDAQ, IDAQ-CF, ATS), state anthropomorphism (Godspeed, HRIES, AR measure), machinelikeness, and technomorphism. Full item lists and scoring procedures are provided in supplementary materials to support principled study design and evaluation.

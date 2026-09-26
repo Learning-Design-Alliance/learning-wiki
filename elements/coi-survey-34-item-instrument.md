@@ -17,6 +17,7 @@ sources:
 # 34-item Community of Inquiry Survey instrument
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A validated 34-item survey instrument developed to assess the three CoI presences (teaching, social, and cognitive). Swan et al. (2008) collaboratively developed it and "tested its efficacy on a multi-institutional, multi-disciplinary sample of students taking CoI-designed courses," validating the three-dimension framework. In the present study it was administered electronically to MBA students, with additional items added to capture prior online experience and course delivery method.

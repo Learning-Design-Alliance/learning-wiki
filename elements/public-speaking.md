@@ -12,6 +12,7 @@ generated:
 # Public Speaking
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Public speaking is the element in which learners present ideas aloud to an audience with attention to clarity, organization, evidence, and delivery. It is useful when learning includes oral communication and rhetorical performance.

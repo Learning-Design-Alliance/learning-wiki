@@ -16,6 +16,7 @@ sources:
 # Rightful Presence
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Rightful presence (Calabrese Barton & Tan) describes legitimate membership in a learning community grounded in who a person is, not who they are expected to become — and crucially, membership that carries the power to reshape the community's own norms, rather than requiring the newcomer to conform to norms set by others. It is distinct from mere access or inclusion: a learner can be present in a STEM space without being able to shift what counts as belonging there. Originally developed around racialized and other collective identities, the framework has been extended to learners whose identities are fluid or intersecting rather than anchored in a single, stable community category (e.g., queer youth navigating both STEM identity and sexual/gender identity at once) — for these learners, rightful presence additionally requires spaces that permit self-authorship of identity labels and resist forcing binary categorization.

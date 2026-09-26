@@ -17,6 +17,7 @@ sources:
 # Five-stage MLE lesson pattern: curiosity arousal, explicit goals, meaning mediation, critical questioning, and transfer task
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article's Table 1 presents a five-stage English lesson enacting MLE: (1) arousing excitement and curiosity with materials, (2) announcing explicit learning goals, (3) mediating meaning through explanation and responsibility questions, (4) vocabulary work with videos and critical "why" and "how" questions, and (5) group poster work transferring learning beyond the class. Table 2 maps each stage to MLE parameters such as "IR (Intentionality and Reciprocity)", "ME (Mediation of Meaning)", "RP (Reflective Practice)", "T (Transcendence)" and "FC (Feeling of Competence)". The pattern operationalizes the three universal MLE criteria in a foreign language lesson.

@@ -12,6 +12,7 @@ generated:
 # Creating a Culture of Error
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (4 for, 1 mixed) · 10 studies, `q3`–`q4` · 6 of 10 report an effect size
 
 ## Description
 Creating a culture of error means deliberately establishing norms — through instructor modeling, feedback practices, and task design — in which errors are expected, surfaced, and analyzed rather than hidden or punished. Learners are asked to attempt work publicly, share incorrect reasoning, and examine why errors occur. The strategy draws on research showing that errors, when engaged with productively, deepen conceptual understanding and that fear of failure suppresses the very behaviors (questioning, risk-taking, help-seeking) that drive learning.

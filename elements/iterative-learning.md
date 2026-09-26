@@ -12,6 +12,7 @@ generated:
 # Iterative Learning
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Iterative learning is the element in which learners improve through repeated cycles of attempt, feedback, revision, and retry. It is useful when quality emerges through refinement rather than one-shot performance.

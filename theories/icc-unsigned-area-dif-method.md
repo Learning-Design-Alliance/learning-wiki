@@ -16,6 +16,7 @@ sources:
 # Item characteristic curve (unsigned area) method for DIF detection under item response theory
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The ICC method compares item characteristic curves estimated separately for reference and focal groups, computing the unsigned area between the male and female curves as a DIF index, using a probability index developed by Linn. Item parameters come from Samejima's graded-response model with random MML estimation, with a linear transformation placing groups on a common scale. A randomly split reference-group baseline estimates DIF attributable to sampling variation. The article notes this procedure yields one index per pair of rating categories rather than a simultaneous estimate.

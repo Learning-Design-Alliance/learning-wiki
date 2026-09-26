@@ -17,6 +17,7 @@ sources:
 # Use choice data as a referendum to identify and improve least-chosen schools rather than magnetizing only the best
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Controlled Choice treats annual parental choices as "a referendum on the attractiveness of schools" and obligates authorities "to use their limited resources to upgrade and make more attractive least chosen schools." Instead of magnetizing the best schools, "limited community resources should be used to make bad schools good and better," pushing up the bottom so the whole system gains a broader range of acceptable schools.

@@ -17,6 +17,7 @@ sources:
 # Institutions seeking to support online engagement should prioritize affective engagement support and address personal environmental barriers
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Because support for affective engagement predicted all three engagement dimensions, the authors conclude that "This finding underlines the importance of support for affective engagement" and recommend institutions attend to it. They also list institutional roles beyond the course level: mitigating "barriers in the personal environment" such as transportation, computer and internet access, and technical support; providing institutional community supports like writing labs and counseling not attached to specific courses; and supporting learner characteristics such as self-regulation, social-emotional skills, and academic competency.

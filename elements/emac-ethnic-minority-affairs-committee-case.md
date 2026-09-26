@@ -17,6 +17,7 @@ sources:
 # EMAC: a standing faculty/student committee promoting empowerment in an academic program
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The Ethnic Minority Affairs Committee (EMAC) of an educational psychology department is offered as a concrete case of the five Cs in action. Formed in the early 1970s, its biweekly meetings draw 20-25 students and faculty, over 50% American ethnic minority or international students and 20% faculty, led by two faculty co-chairs, two student co-leaders, and a student secretary. Activities include recruitment and file review for ethnic minority applicants, an "EMAC buddy" support system, consciousness-raising discussions and workshops, and advocacy.

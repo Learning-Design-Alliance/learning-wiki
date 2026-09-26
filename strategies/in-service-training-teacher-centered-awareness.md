@@ -17,6 +17,7 @@ sources:
 # Use in-service training to raise teacher awareness of lingering teacher-centered styles
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Based on the finding that about 21% of teachers still hold teacher-centered expert or formal authority styles eleven years after the constructivist reform, the author recommends that professional development address this. The article states "In-service trainings can focus on the awareness of this issue," so that teachers recognize and reflect on philosophies and styles that conflict with the student-centered curriculum.

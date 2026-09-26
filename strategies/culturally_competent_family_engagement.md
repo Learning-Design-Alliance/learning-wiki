@@ -12,6 +12,7 @@ generated:
 # Culturally Competent Family Engagement
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 2 of 7 report an effect size
 
 ## Description
 Culturally competent family engagement involves training school staff in behaviors, attitudes, and policies that enable effective cross-cultural relationships. Staff shift from deficit thinking to strengths thinking, viewing families as having significant expertise and resources that can inform and improve student learning. This includes getting to know families and local community resources, and creating a welcoming school culture that emphasizes equality, acceptance, and shared values and goals.

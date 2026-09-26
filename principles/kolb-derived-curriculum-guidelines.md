@@ -17,6 +17,7 @@ sources:
 # Guide experiential curriculum design with Kolb-derived principles: connect to existing knowledge, honour each learner's experiential base, cycle through experience and reflection, and shift power to the learner
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article enumerates four guidelines, based on Kolb (1984) and Lee and Caffarella (1994), that determined curriculum development. Experiential learning "allow s learners to connect with 'the existing knowledge, beliefs and affective characteristics'"; "Each learne r brings a unique experiential base to the instructional situation"; learning is multi-dimensional, moving from concrete experience through observation, reflection and abstract conceptualisation to application; and "The power b ase shifts from the teacher to the learner", with teachers acting as facilitators. These principles underpin the University Model's case-based activities.

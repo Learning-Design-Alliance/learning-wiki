@@ -17,6 +17,7 @@ sources:
 # Use elaborative interrogation (answering why a fact is true) as a low-resource strategy for science content that conflicts with student misconceptions
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Elaborative interrogation asks learners to answer aloud the question "Why is that fact true?" for each to-be-learned statement, drawing on class, reading, and everyday knowledge. The authors position it as an alternative to resource-intensive misconception remedies, writing that "elaborative interrogation is an effective learning adjunct that requires minimal resources from instructors." In both experiments students needed only brief instruction and practice with the prompt before studying cue-card facts.

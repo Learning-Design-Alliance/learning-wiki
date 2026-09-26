@@ -12,6 +12,7 @@ generated:
 # Gradual Release of Responsibility in Multimodal Composition
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 against) · 9 studies, `q3`–`q4` · 7 of 9 report an effect size
 
 ## Description
 This strategy applies the [Gradual Release of Responsibility](gradual-release-of-responsibility.md) model ("I do, we do, you do") to multimodal composition — the design of texts that combine image, sound, video, and layout (e.g., book trailers, blogs, infographics, websites). The teacher first directly models how to select and analyze multimodal resources, then facilitates paired or small-group analysis, and finally releases students to analyze exemplars and compose their own multimodal texts independently. The goal is to build both critical analysis of multimodal artifacts and recursive design skills (drafting, evaluating, revising across modes).

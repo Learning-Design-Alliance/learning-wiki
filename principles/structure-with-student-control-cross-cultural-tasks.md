@@ -17,6 +17,7 @@ sources:
 # Balance teacher support with student control when designing constructivist language activities
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that teachers create structures offering support while leaving learners a degree of control, so activities remain guided but personalizable. The authors state: "The challenge for the teacher is to create a structure that offers the students the support they need while enabling them to exercise a degree of control over their work and learning." This principle operationalizes reactive autonomy in concrete task design, from preliminary e-mail tasks to the staged video project.

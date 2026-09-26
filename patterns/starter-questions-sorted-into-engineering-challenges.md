@@ -17,6 +17,7 @@ sources:
 # Engineering inquiry pattern: student-generated starter questions sorted into engineering design-goal challenges
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 In this inquiry pattern, learners first explore phenomena during Starters and write observations and questions on sentence strips, as in science inquiry. Facilitators then sort those questions into engineering challenge categories that serve as design goals, and student teams choose one challenge to pursue in a focused investigation. The authors present this as an adaptation of the Light and Shadows inquiry format, arguing that "our modification of the use of questions generated during the starters is an authentic adjustment for an engineering inquiry." In this implementation the questions were sorted into four challenges (balanced bridge, linear regime, thermometer, unknown resistance).

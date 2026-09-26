@@ -12,6 +12,7 @@ generated:
 # Shared Reflection
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 6 studies, `q3`–`q4` · 5 of 6 report an effect size
 
 ## Description
 Shared reflection is a structured classroom practice in which students publicly articulate what they learned, how they approached a task, where they struggled, and what they will do differently next time. Unlike private journaling, the reflection is voiced to peers, making individual thinking visible to the group and inviting collective response. It is typically carried out through brief whole-class or small-group rounds, structured protocols (e.g., "one success, one struggle, one next step"), or regular [Check-In](../elements/check-in.md) routines embedded in project work.

@@ -17,6 +17,7 @@ sources:
 # Case-based instruction sequencing individual case analysis before collaborative discussion to support self- and co-regulation
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article describes CBI as an instructional strategy with two components: "narratives covering real-world situations for individual knowledge construction (self-regulation) and collaborative discussions offering students to work together to solve the problem (co-regulation)." In the studied course, students first completed individual case analyses responding to prompts about stakeholders, challenges, and solutions, then participated in two-week instructor-facilitated and student-led case discussions, first identifying the problem and then providing solutions. This sequencing moves learners from individual understanding to shared collaborative knowledge construction.

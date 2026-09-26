@@ -12,6 +12,7 @@ generated:
 # Value Affirmation
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3` · 0 of 2 report an effect size
 
 ## Description
 Value affirmation asks learners to select their most important values from a list (e.g., relationships, creativity, community) and write for 10–15 minutes about why those values matter to them. The technique comes from self-affirmation theory: affirming a source of self-worth unrelated to the threatened domain reduces defensive responses to stress and stereotype threat, freeing cognitive resources for learning. It is typically delivered as a short in-class or online writing activity at the start of a course or before high-stakes assessment.

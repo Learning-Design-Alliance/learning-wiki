@@ -17,6 +17,7 @@ sources:
 # Tabletop Michelson interferometer demonstration for teaching wave interference and detector sensitivity
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A tabletop Michelson interferometer used as a demonstration supplementing a modified lesson on wave physics. After reviewing transverse waves and working with a wave-superposition applet, students observed how constructive and destructive interference pertain to the interferometer design; by "applying very slight pressure to a mirror of the device, students developed an appreciation for the extreme sensitivity of the instrument." The authors emphasized that during a gravitational-wave event it is the mirror-splitter distance that changes, not the mirrors themselves.

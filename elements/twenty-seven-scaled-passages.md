@@ -17,6 +17,7 @@ sources:
 # Twenty-seven one-paragraph passages scaled for linkage, imagery, interest, reading ease, and word frequency
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A normed corpus of 27 one-paragraph passages (nine narrative, nine factual, nine conceptual) with scores on five dimensions: familiarity (linkage), imagery, interest, reading ease, and word frequency. Linkage values "ranged from 5.14 to 29.95 with an average of 16.70", with sets matched on syntax so the scaled variables can be varied while holding syntax constant. The scaled values for all variables except interest are at an interval level of measurement, making the materials useful for studies testing quantitative hypotheses.

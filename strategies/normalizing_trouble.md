@@ -12,6 +12,7 @@ generated:
 # Normalizing Trouble
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 8 studies, `q3`–`q4` · 7 of 8 report an effect size
 
 ## Description
 Normalizing trouble is the deliberate practice of naming and reframing difficulty, confusion, and error as normal, expected features of learning rather than as signs of low ability. It is carried out through instructor language ("this problem is designed to be hard"), public treatment of errors as objects of study, sharing of instructor or expert failure narratives, and assessment practices that reward revision and iteration. The goal is to change learners' *interpretation* of struggle so they persist through it instead of disengaging.

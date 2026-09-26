@@ -16,6 +16,7 @@ sources:
 # Fuzzy set model of human fault diagnosis as partitioning and testing with graded membership
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article models fault diagnosis as two phases: partitioning components into a feasible and infeasible set given symptoms, then choosing a feasible member to test, repartitioning after each test result. Because humans have "difficulty in making simple.yes/no decisionsaboutthefeasibility ofeach component", the model uses fuzzy sets with "membership grades between 0.0 and1.0", logical operations for partitioning, and free parameters in membership functions matched to human performance. It was compared to Experiments One, Two, and Four.

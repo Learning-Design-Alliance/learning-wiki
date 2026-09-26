@@ -12,6 +12,7 @@ generated:
 # Implicit Instruction Vocabulary
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 2 of 4 report an effect size
 
 ## Description
 Implicit vocabulary instruction builds word knowledge through incidental exposure: learners encounter target words repeatedly in comprehensible, meaningful contexts—texts, read-alouds, conversation, multimedia—and infer meanings from context, morphology, and discourse cues. The instructor's role is to engineer rich encounters (selecting texts, seeding discussion, arranging multiple exposures) rather than to pre-teach definitions. It contrasts with [explicit vocabulary teaching](../patterns/explicit-teaching.md), where word meanings are directly defined and practiced.

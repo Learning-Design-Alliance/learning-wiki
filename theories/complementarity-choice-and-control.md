@@ -16,6 +16,7 @@ sources:
 # Complementarity: choice and control as mutually enhancing opposites in student assignment
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The guide's organizing framework is complementarity, "wherein opposites are attracted and completed by each other and thereby serve as mutual enhancements." Applied to assignment policy, "control and choice enhance each other in a student assignment plan": individual freedom to choose schools is constrained by group-derived fairness guidelines, and constraint in turn makes choice fair. The authors argue opposites "inform and correct each other when held together in creative tension," so a monistic reform such as choice alone is too limited.

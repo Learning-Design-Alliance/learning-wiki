@@ -12,6 +12,7 @@ generated:
 # Poetry Exploration through Digital Libraries
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 3 studies, `q3`–`q4` · 2 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy uses curated digital poetry libraries — collections that pair text with audio performances, author readings, and visual design — as the primary environment for exploring poems. Learners browse, select, listen to, and annotate poems matched to their interests and reading levels, then discuss and write about what they encounter. The library functions as an inquiry space rather than a fixed anthology: choice and multimodal presentation drive engagement.

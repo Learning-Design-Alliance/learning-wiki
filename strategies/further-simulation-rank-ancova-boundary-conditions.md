@@ -17,6 +17,7 @@ sources:
 # Conduct further simulation studies to map boundary conditions of the rank ANCOVA power advantage
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The authors recommend extending the simulation program to identify when the rank transform approach's power advantage holds. They write it "maybe fruitful to conduct further simulation studies to determinethe boundary conditions" on combinations of skewness, heteroscedasticity, strength of relationship and sample size. They also suggest including unequal group frequencies and several degrees of group differences so empirical power curves can be constructed.

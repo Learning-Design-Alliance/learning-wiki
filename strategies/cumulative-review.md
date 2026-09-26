@@ -12,6 +12,7 @@ generated:
 # Cumulative Review
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q3` · 1 of 3 report an effect size
 
 ## Description
 Cumulative review is the deliberate scheduling of opportunities to retrieve and reuse previously taught material throughout a course, rather than treating each topic as complete once tested. Review is woven into ongoing instruction — through opening-of-class questions, quizzes that mix old and new items, and tasks that require integrating prior and current content — so that learners must continually reactivate earlier knowledge instead of letting it decay.

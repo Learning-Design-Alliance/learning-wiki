@@ -16,6 +16,7 @@ sources:
 # Learning study with a theory of variation as an approach for alignment and distributed leadership between teacher education and practice
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Learning study is described as "an approach for developing lessons, using a theory of variation", in which teachers formulate a learning object, construct pre/post tests, plan and video-record lessons, analyze them, and improve successive lessons. The article uses it both to develop pupils' learning of a specific object and to develop teachers' systematic scientific knowledge, and positions it as an instrument for distributing power and leadership democratically between university and school, with similarities to action research.

@@ -12,6 +12,7 @@ generated:
 # Math Coach Role-Playing
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 7 studies, `q3`–`q4` · 6 of 7 report an effect size
 
 ## Description
 Organize students into small groups where they take turns acting as "math coaches." One student reads a word problem aloud, and the other students (the math coaches) advise the reader on which mathematical operation to use in solving the problem. Math coaches listen closely, underline key words in the problem, and use flash cards to "flash" the mathematical operation they decide to use. The role-play structure converts problem-solving from a solitary act into a social one: the reader must articulate the problem situation, and coaches must justify their operational choice before the group commits to it.

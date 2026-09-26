@@ -12,6 +12,7 @@ generated:
 # Frequent Low Stakes Testing
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q4` · 2 of 5 report an effect size
 
 ## Description
 Frequent low stakes testing embeds short, frequent quizzes or retrieval prompts throughout instruction, with little or no grade consequence. The purpose is not measurement but learning: each act of retrieving information from memory strengthens that memory and reveals gaps while there is still time to close them. Formats range from two-minute openers and clicker questions to weekly online quizzes with immediate feedback.

@@ -17,6 +17,7 @@ sources:
 # Culture universals as conceptual tools for studying cultures
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The bibliography annotates Alice Ann Cleaveland's UNIVERSALS OF CULTURE (Global Perspectives in Education, 1979) as "A handbook for studying cultures using conceptual tools called 'culture universals' i.e. Material culture, the arts, play and recreation, language and non-verbal communication, social organization, social control, conflict and warfare,economic organization, education and world view." These universals provide a common analytic lens that lets students compare any culture against the same set of dimensions, supporting cross-cultural study in elementary classrooms.

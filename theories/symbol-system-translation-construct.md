@@ -16,6 +16,7 @@ sources:
 # Symbol system translation as a problem-solving construct
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review proposes translation among symbol systems as a construct: the process of mapping information contained in one or more symbolic forms into one or more other symbolic forms. It states two prerequisites, "adequate domain knowledge (declarative and procedural), and (b) experience", and assumes mappings are not one-to-one and that individual differences allow different symbolic paths to a solution. The construct is meant to explain why solvers with adequate knowledge fail novel problems whose given symbolic form does not admit a ready solution.

@@ -17,6 +17,7 @@ sources:
 # Mastery criterion with remediation and retesting
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A mastery criterion is a single criterion — such as a specified number of correct responses or a quality of performance — that defines when learning is complete. If a student fails to meet the required level, the article describes directing the student to remediation such as the 'textbook', the tutor, or other support before retesting. It functions as the decision rule underlying contract grading and mastery-learning program formats.

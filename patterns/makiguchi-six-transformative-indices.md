@@ -17,6 +17,7 @@ sources:
 # Six transformative indices for evaluating value-creating education, from self-centeredness toward well-being in the greater social good
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Makiguchi delineates six transformative indices whereby the results of value-creating education can be evaluated. They demarcate human progress "from self-centered to a social and altruistic mode of living" and include movement from unconscious emotional living to self-mastery, from less to greater value creation, from dependent to independent principle-based judgment, from external influence to autonomy, and from desire-dominated living to self-reflective purposeful living.

@@ -12,6 +12,7 @@ generated:
 # Performance Support Job Aids
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (1 for, 2 against) · 8 studies, `q3`–`q4` · 7 of 8 report an effect size
 
 ## Description
 Performance support job aids are external resources — checklists, quick-reference cards, decision trees, embedded tooltips, wizards — that deliver task-relevant information at the moment of need, in the workflow itself. Rather than training learners to memorize infrequently used procedures, the strategy externalizes those procedures so working memory is spent on execution, not recall. Job aids are typically organized around lookup (find the answer fast) rather than instruction (build understanding).

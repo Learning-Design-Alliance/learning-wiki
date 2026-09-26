@@ -17,6 +17,7 @@ sources:
 # Four-element in-class scaffolding session preparing students to author high-quality questions
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study, `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Before the first assessed authoring task, the courses ran a 90-minute session of four elements: a content-neutral quiz teaching MCQ language, a self-diagnosis quiz guiding students toward learning orientation, a question template aligned with operating just beyond current understanding, and a high-quality example question. The article states these sessions were "deliberately designed to help scaﬀold the process of writing questions of high quality". A final group activity had students collectively author a question to seed the repository.

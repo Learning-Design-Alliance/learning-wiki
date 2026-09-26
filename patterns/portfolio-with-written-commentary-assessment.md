@@ -17,6 +17,7 @@ sources:
 # Portfolio entries with written commentary for assessing teaching practice
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The digest describes a uniform assessment structure in which "a school-site portfolio that contained six entries - four classroom-based entries and two Documented Accomplishments Entries" and notes that "All six entries in the portfolio centered on a Written Commentary in which the teachers would describe, analyze and reflect on how their teaching practice, as reflected in the evidence they presented, met" the standards. In this pattern, candidates assemble authentic evidence of practice (videotaped classroom interactions, student work samples, documentation of work with professional communities and families) and accompany each entry with analytic written commentary connecting the evidence to professional standards.

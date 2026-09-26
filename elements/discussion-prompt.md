@@ -12,6 +12,7 @@ generated:
 # Discussion Prompt
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size
 
 ## Description
 A discussion prompt is a deliberately structured question, scenario, or statement designed to initiate substantive conversation among learners. Unlike generic invitations to "discuss," a well-designed prompt specifies a genuine problem or tension, is answerable from multiple defensible positions, and requires learners to articulate, defend, and revise their thinking in response to peers.

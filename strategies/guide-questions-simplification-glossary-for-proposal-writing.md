@@ -17,6 +17,7 @@ sources:
 # Pair team-based discovery learning with detailed guiding questions, simplified texts, and glossaries of unfamiliar terms
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends that team-based discovery learning "operates more optimally if it is followed by relevant sets of deta il guiding questions reflecting the detailed content of each reputable journal articles for each group." It further recommends simplifying difficult article texts and providing glossaries of unfamiliar terms so teams spend less time comprehending content, plus learning-innovation activities through intensive writing practice and consultation to foster discovery steps in group discussion.

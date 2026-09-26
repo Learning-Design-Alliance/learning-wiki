@@ -16,6 +16,7 @@ sources:
 # Body of work approach to standard setting for alternate assessments
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The body of work approach is a standard setting methodology in which "Reviewers examine all of the data for a student and use this information to place the student in one of the overall performance levels." Standard setters receive papers demonstrating the complete range of possible scores from low to high. This report applies it as the primary methodology for setting cut scores on an alternate portfolio assessment, adapted from components of several standard setting processes including contrasting groups and bookmarking.

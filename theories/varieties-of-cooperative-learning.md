@@ -16,6 +16,7 @@ sources:
 # Taxonomy of cooperative learning varieties and Kagan's content-free structures
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The bulletin organizes the main cooperative learning methods: Circles of Learning/Learning Together (an 18-step implementation), Jigsaw and its Jigsaw II and III variants, STAD, Teams-Games-Tournaments, and Group Investigation with its six stages. It also presents Kagan's structural approach, in which "structures" are "content-free ways of organizing social interaction in classrooms" classified by instructional focus (team building, class building, communication building, mastery, concept development, multifunctional). Kagan argues structures are easier for teachers to master one at a time and can be combined into multistructural lessons.

@@ -12,6 +12,7 @@ generated:
 # Cross-Age Peer Tutoring
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size
 
 ## Description
 Cross-age peer tutoring organizes learners into asymmetric pairs or small groups in which an older student tutors a younger one on curriculum content. Unlike same-age [cooperative learning](../principles/collaborative-learning.md), the fixed age gap creates a stable role asymmetry: the tutor explains, questions, and gives [feedback](../elements/feedback.md), while the tutee practices and asks for clarification. The strategy is distinctive in that the largest documented gains often accrue to the *tutor*, who must reorganize and articulate knowledge to teach it.

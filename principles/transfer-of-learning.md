@@ -12,6 +12,7 @@ generated:
 # Transfer of Learning
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 unmarked) · 1 study, `q4` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Transfer of learning is the principle of helping learners apply what they have learned in one context to new tasks, situations, or problems. It is useful when instruction aims beyond immediate performance toward later use and adaptation.

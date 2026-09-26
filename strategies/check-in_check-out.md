@@ -12,6 +12,7 @@ generated:
 # Check In_Check Out
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3` · 1 of 4 report an effect size
 
 ## Description
 Check In/Check Out (CICO) is a targeted, small-group behavior support in which a student meets briefly with a consistent adult mentor at the start of each day to review goals and collect a point card, then again at the end of the day to review points earned and take the card home. Teachers award points throughout the day against 2–3 positively stated behavioral expectations, giving frequent, low-stakes [feedback](../elements/feedback.md) tied to clear criteria.

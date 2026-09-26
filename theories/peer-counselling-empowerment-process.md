@@ -16,6 +16,7 @@ sources:
 # Peer counselling empowerment as a process by which people, organizations and communities gain mastery over their lives
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper defines peer counselling empowerment as "a process that relates the mechanism by which people, organizations and the community gain mastery over their lives". Drawing on Schwiebert and Giordano's account, the author argues that empowerment fosters realistic and positive beliefs in both peer counsellors and professional counsellors, builds trust in peer counsellors' competency and efficacy, and offers an intervention to establish life satisfaction, self-esteem and dignity across the life span. The networking relationship with the environment provides peer counsellors support, niches and opportunities for personal development.

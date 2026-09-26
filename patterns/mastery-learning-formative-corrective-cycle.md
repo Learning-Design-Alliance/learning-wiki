@@ -17,6 +17,7 @@ sources:
 # Mastery learning cycle of formative tests, correctives, and relearning
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A lesson-level instructional pattern in which "Students take frequent \"formative tests\" to measure their learning progress" and these are "followed by correc-"tions and opportunities to relearn material not yet understood before new content is introduced. The City Colleges of Chicago implemented this pattern system-wide for over a decade: "What began as an experimental project on one campus developed into an" institution-wide approach. The pattern pairs assessment with corrective action rather than using tests only for grading.

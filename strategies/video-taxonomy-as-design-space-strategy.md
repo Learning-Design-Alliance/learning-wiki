@@ -17,6 +17,7 @@ sources:
 # Use the taxonomy as a design space to select or invent novel video formats, especially combining artificial characters with digital or physical media
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends using the two-dimensional taxonomy not only to choose a familiar format but to navigate toward novel production styles. It observes that most current efforts replicate the traditional classroom and that "there is a vastly underexplored space that regards the employment of artificial representations for humans, such as robots and animated characters." It suggests exploring artificial characters manipulating digital media (third quadrant, possibly via video-game development toolkits) and augmented-reality studio technologies that let digital characters interact with physical objects (fourth quadrant).

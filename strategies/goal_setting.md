@@ -12,6 +12,7 @@ generated:
 # Goal Setting
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 3 of 5 report an effect size
 
 ## Description
 Goal setting establishes specific performance or learning targets that learners pursue over a defined period. It is carried out by having learners (or instructors with learners) articulate concrete, measurable objectives — ideally proximal subgoals en route to distal aims — and then monitor progress against them. The mechanism is motivational and attentional: specific goals focus effort and persistence in ways that vague intentions ("do your best") do not.

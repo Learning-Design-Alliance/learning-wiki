@@ -12,6 +12,7 @@ generated:
 # Studio Critique
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 10 studies, `q2`–`q4` · 5 of 10 report an effect size
 
 ## Description
 Studio critique (crit) is a structured feedback protocol originating in art and design education in which learners publicly present work-in-progress and peers and the instructor analyze its strengths, weaknesses, and possibilities for revision. The presenter typically describes intent, the group responds with observations and questions, and the presenter leaves with concrete directions for revision. The format makes evaluation criteria explicit and positions feedback as a normal, ongoing part of creative work rather than a terminal judgment.

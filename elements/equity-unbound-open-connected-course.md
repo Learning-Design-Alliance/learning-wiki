@@ -17,6 +17,7 @@ sources:
 # Equity Unbound: an open connected course explicitly designed with social justice principles
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Equity Unbound is described as "an emergent, collaborative curriculum which aims to create equity-focused, open, connected, intercultural learning experiences across classes, countries and contexts". It uses a critical digital pedagogical approach focused on learner empowerment and critical consciousness, with syndicated blogs, Twitter chats, Hypothes.is annotation and synchronous video conversations, and an always-open invitation to share and adapt materials.

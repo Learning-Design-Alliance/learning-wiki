@@ -12,6 +12,7 @@ generated:
 # Collaborative Peer Review
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Learners produce their own thinking and writing first, then exchange drafts with peers to provide and receive structured feedback for revision. Unlike cooperative writing — where group members each complete a segment and assemble the parts — peer review keeps authorship individual while making the *evaluation* collaborative. The reviewer role is as important as the receiving role: critiquing another's work builds the criteria knowledge learners then apply to their own drafts.

@@ -12,6 +12,7 @@ generated:
 # Sharing and Discussion of Independent Reading
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
 
 ## Description
 After independent reading, students gather to talk about their books through structured activities such as book clubs, peer recommendations, book commercials, or whole-class sharing. The sharing phase converts private reading into a social experience: students articulate interpretations, hear alternative perspectives, and build reputations as readers. When possible, students take books home to extend reading beyond class.

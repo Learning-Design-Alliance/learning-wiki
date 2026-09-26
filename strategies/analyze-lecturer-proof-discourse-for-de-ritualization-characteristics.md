@@ -17,6 +17,7 @@ sources:
 # Analyze lecturers' proof discourse for flexibility, bondedness, applicability, agentivity, objectification, and substantiability to study de-ritualization opportunities
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper proposes a methodological approach: researchers study proof teaching in lectures by identifying in the lecturer's discourse the characteristics that mirror desirable routine changes — the lecturer may "perform a proof with more than one ways (i.e., flexibility), make connections between the different steps of the proof (i.e., bondedness)" and further demonstrate applicability, agentivity, objectification, and substantiability. Such characteristics may motivate students to de-ritualize their proving routines and support explorative participation. Discussion with lecturers about these characteristics is also proposed to support reflection on and redesigning of their practices.

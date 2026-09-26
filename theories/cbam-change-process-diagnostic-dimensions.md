@@ -16,6 +16,7 @@ sources:
 # Concerns-Based Adoption Model: change is a process with diagnosable dimensions
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The Concerns-Based Adoption Model (CBAM) is the article's conceptual framework for understanding innovation adoption in education. Its key assumption is that "change is a process, rather than an event", and that change facilitators should work diagnostically, "constantly assessing the present state of the individual users" and adapting interventions accordingly. The PAEI project verified three diagnostic dimensions: Stages of Concern, Levels of Use, and Innovation Configurations.

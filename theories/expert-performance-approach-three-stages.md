@@ -16,6 +16,7 @@ sources:
 # The expert performance approach as a three-stage framework for studying expertise
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The expert performance approach, first presented by Ericsson and Smith in 1991, is a systematic framework for studying expertise in three stages. Stage 1 develops a representative task to capture performance reliably; Stage 2 identifies mechanisms underpinning superior performance using process-tracing measures; Stage 3 examines how adaptations occur during acquisition and develops training interventions. The authors review it as a framework that 'does offer a framework to study how skills are learned as well as performed', and argue it can be applied to expert learning, not just expert performance.

@@ -16,6 +16,7 @@ sources:
 # Concerns Based Adoption Model (CBAM) stages of concern
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The CBAM, developed by the Research and Development Center for Teacher Education in Austin, Texas, is a developmental model of innovation adoption proposing that adopters progress through a predictable sequence of seven concerns: from self-oriented Awareness, Informational, and Personal concerns, to task-related Management concerns, to impact-related Consequence, Collaboration, and Refocusing concerns. The article uses it as the organizing framework for interpreting teachers' adoption of networked CAI and multimedia, measuring concerns with the SoCQ. It also proposes that change interventions will be more effective if they address the concerns predominant at the time.

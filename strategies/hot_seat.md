@@ -12,6 +12,7 @@ generated:
 # Hot Seat
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 3 of 5 report an effect size
 
 ## Description
 One learner assumes the role of a book character, significant figure in history, or concept (such as a tornado, an animal, or the Titanic). Sitting in front of the rest of the class, the learner responds to classmates' questions while staying in character. Variations include small-group hot seats (one "character" per group of four or five), and panel formats in which several learners play different characters and interact like guests on a talk show.

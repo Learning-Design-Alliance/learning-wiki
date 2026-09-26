@@ -16,6 +16,7 @@ sources:
 # Compensatory multidimensional item response theory as a framework for composite score creation
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article presents compensatory multidimensional IRT (MIRT), estimated via the BMIRT program with MCMC (Metropolis-Hastings), as an explanatory framework for combining subtests measuring distinct but overlapping abilities into a composite. Under this framework "having a higher ability on one dimension can potentially compensate for lower ability on a second dimension." The study applied an exploratory two-dimensional compensatory model, with items free to load on either dimension, to Speaking and Listening items scored with 2PPC and 3PL formulations, and used the resulting EAP estimates as multidimensional composite scores.

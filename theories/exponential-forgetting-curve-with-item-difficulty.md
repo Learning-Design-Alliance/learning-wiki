@@ -16,6 +16,7 @@ sources:
 # Exponential Forgetting Curve with Item Difficulty
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article adopts a variant of the exponential forgetting curve, in which recall is binary and recall probability decays exponentially with time since last review at a rate reduced by memory strength. It adds that "there is a constant, item-speciﬁc component of the memory decay rate" through a difficulty parameter, and its final form uses Leitner deck position as strength with a global difficulty.

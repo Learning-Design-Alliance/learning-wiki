@@ -12,6 +12,7 @@ generated:
 # Clear Online Communication
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q4` · 4 of 4 report an effect size
 
 ## Description
 Clear online communication means publishing, at the start of a course, which channels learners should use for which purposes (announcements, questions, private concerns), what response times they can expect, and how synchronous and asynchronous contact will be used. It is carried out through a structured LMS presence, a stated communication policy, and consistent instructor behavior that matches the stated norms. Timely, predictable instructor responses are a core component of [Teaching Presence](../principles/community-of-inquiry.md) and social presence in online environments [+S].

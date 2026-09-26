@@ -17,6 +17,7 @@ sources:
 # Recommended scope and sequence with per-cluster course time allocations
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The guide's recommended scope and sequence specifies content emphasis and instructional approach at each level, with concrete scheduling for junior high cluster exploration courses. For example, the Manufacturing cluster offers an "Enriched program: 1 period daily for 36 weeks" and a "Minimum program: 1 period daily for 18 weeks," while Graphic Communications and Energy and Power clusters offer 18-week enriched and 12-week minimum programs; a period is considered the equivalent of 50-55 minutes. At the senior high level, at least three courses should be available in each cluster, with no prerequisites for the first course in a sequence.

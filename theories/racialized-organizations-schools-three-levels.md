@@ -16,6 +16,7 @@ sources:
 # Racialized organizations theory applied to schools across macro, meso, and micro levels
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Drawing on Ray (2019), the article treats schools as racialized organizations in which "racialization is the 'the background in which organizations operate.'" Structures, practices, and attitudes produce unequal distributions of resources, and racial attitudes and ideologies circulate through actions that either reproduce inequality or disrupt it. The article organizes its analysis into institutional (racial state), organizational (schools and districts), and individual (prejudice, stereotypes, deficit thinking) levels, applied to how SSWs perceive and act within these contexts.

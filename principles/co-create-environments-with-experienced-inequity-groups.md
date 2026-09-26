@@ -16,6 +16,7 @@ sources:
 # Co-create learning environments with and for students from identity groups that most frequently experience inequities
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Among its guiding assumptions, the brief states that "Environments are more conducive to learning and personal growth when co-created with and for students from identity groups that most frequently experience inequities in the current system." This assumption grounds the framework's shared-power feature and its call for collective action to change culture, policies, systems, and practices.

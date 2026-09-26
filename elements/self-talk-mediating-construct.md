@@ -17,6 +17,7 @@ sources:
 # Self-talk as the mediating internal verbalization of teacher feedback
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Self-talk is the internal verbalization by which students perceive, interpret, and integrate teacher statements and feedback, serving as the mediating step between external feedback and academic self-concept. In this study it was measured with Burnett's Self-Talk Inventory, which assessed positive self-talk and negative self-talk. The SEM showed "positive self-talk mediated between perceived teacher praise and reading self-concept", and negative self-talk predicted math self-concept but was unrelated to teacher statements.

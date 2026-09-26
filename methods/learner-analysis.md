@@ -12,6 +12,7 @@ generated:
 # Learner Analysis
 
 > **Design Method** · [All design methods](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q3` · 1 of 3 report an effect size
 
 ## Description
 Learner analysis is the systematic collection and interpretation of information about the target audience before and during instruction: their prior knowledge, prerequisite skills, motivations, attitudes, language proficiency, and access constraints. It is carried out through pre-assessments, surveys, interviews, analysis of performance data, and observation, and its findings drive decisions about sequencing, scaffolding, pacing, and examples.

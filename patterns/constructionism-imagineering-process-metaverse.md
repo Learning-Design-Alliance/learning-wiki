@@ -17,6 +17,7 @@ sources:
 # Eight-step constructionism imagineering learning process delivered through metaverse rooms within a three-stage lesson structure
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article synthesizes an eight-step learning process from imagineering and constructionism principles: "Imagine; start with an idea; research/explore/learn; design and write the script; create innovation; summarise the knowledge; present and evaluate the feedback and improve." The process is embedded in a three-stage lesson structure: a pre-learning stage (orientation, system introduction, grouping learners, pre-test), the constructionism imagineering learning via metaverse stage, and a summarise and post-test stage. Each step is enacted through metaverse rooms such as brainstorming spaces, conference rooms, a 3D design tool (Tinkercad), stage rooms for presenting innovations, sticky-note evaluation, and an auditorium room for revised presentations.

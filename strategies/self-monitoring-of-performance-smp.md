@@ -12,6 +12,7 @@ generated:
 # Self-Monitoring of Performance (SMP)
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q3` · 2 of 3 report an effect size
 
 ## Description
 Self-monitoring of performance is a strategy in which learners observe, record, and evaluate an aspect of their own academic performance — for example, the number of math problems completed correctly per minute, pages read, or accuracy on written work. The learner typically uses a simple recording tool (tally sheet, graph, checklist) against a clear performance standard. Unlike self-monitoring of *attention* or *behavior*, SMP targets the academic product itself, making it a core component of [Self-Regulated Learning](../theories/self-regulated-learning.md) [Self-monitoring is one of the most consistently effective self-regulation subprocesses for academic outcomes.](../claims/assessment-for-learning-improves-achievement.md) [+M].

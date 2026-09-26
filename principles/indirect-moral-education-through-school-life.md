@@ -17,6 +17,7 @@ sources:
 # Cultivate character indirectly through all the agencies, instrumentalities, and materials of school life rather than through separate moral education courses
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Following Dewey, the article argues character education should not be confined to special moral education courses. Moral education requires "the development of character through all the agencies, instrumentalities, and materials of school life," so teachers should reflect the moral significance of all knowledge relevant to the common good and focus on the subject itself rather than teaching a specific moral lesson through it. The moral environment of community, family, and museums is also part of this indirect approach.

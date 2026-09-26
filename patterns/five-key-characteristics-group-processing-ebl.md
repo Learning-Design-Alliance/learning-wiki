@@ -17,6 +17,7 @@ sources:
 # Five key characteristics of rigorous regular group processing in enquiry-based learning seminars
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article specifies five key characteristics that defined group processing in the studied seminars: non-hierarchical group dynamics with equal voice, ongoing per-session feedback to every member, a consistent duration of about one third of each session, public in-person verbal feedback for mutual accountability, and novel contributions to guarantee feedback relevancy. The article states that "group processing consistently lasted about one third of each session (i.e. 30 minutes of a 80 minute session)". This pattern operated within closed-loop reiterative enquiry-based learning seminars of roughly 18 students divided into groups of 9-10.

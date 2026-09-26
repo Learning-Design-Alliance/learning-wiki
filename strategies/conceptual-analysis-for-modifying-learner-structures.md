@@ -17,6 +17,7 @@ sources:
 # Use conceptual-analysis methods to develop or modify the conceptual structures learners seem to have in their heads
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The book offers the method of conceptual analysis used in its model of units, plurality and number as a tool for educators. The author states that "the method of analysis could be useful to teachers, educators, and,more generally, anyone who is interested in developing or modifying the conceptualstructures that others seem to havein their heads." Chapter 10 translates this into teaching moves such as teaching rather than training, inferring students' thinking, helping rather than instructing, and fostering reflection.

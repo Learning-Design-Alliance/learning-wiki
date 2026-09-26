@@ -17,6 +17,7 @@ sources:
 # Assess youth learning through journals, observation, discussion, and applied reflection products
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The guide recommends multiple formative assessment and reflection channels rather than tests. "The Zone Notes questions and Zone Notebooks can be used as tools for assessing youth performance. Observing youth as they work and listening to youth responses in discussion serve as additional assessment opportunities." Learners may also demonstrate learning through posters, videos or skits, speeches to community groups, newspaper articles, project reports, or presentations, optionally in interdisciplinary collaboration with art, English, computer, and math teachers.

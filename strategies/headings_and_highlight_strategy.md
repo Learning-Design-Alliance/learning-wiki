@@ -12,6 +12,7 @@ generated:
 # Headings and Highlight Strategy
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (4 for, 1 against) · 9 studies, `q1`–`q4` · 7 of 9 report an effect size · 2 claims rest on one study
 
 ## Description
 Students read an excerpt of a difficult article in Google Docs. First, they highlight words they don't know. Then, in pairs, they read a paragraph together and highlight key ideas, discussing why those parts are important. Next, each student individually devises a four-word heading for that portion of the text based on the highlighted main ideas, and pairs compare headings — if they differ, each must justify why theirs is better. The teacher then regroups pairs so four students must reach consensus on the single best heading, optionally culminating in group presentations or a class vote. Students finish with an individual reflection on how the heading helped them understand the reading and answer the unit's driving question.

@@ -17,6 +17,7 @@ sources:
 # Two-step fuzzy forecasting pattern: fuzzylise the universe, then interpret the fuzzy output
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article organizes fuzzy forecasting as a reusable two-step procedure. Step one is modeling: "according to the historical data orexperience knowledge setting up the fuzzy logical model", which includes fuzzylising the universe of the historical data. Step two is interpreting the output, which "are actually all fuzzysets" and may need translation into regular numbers. The pattern embeds human subjective experience at both stages.

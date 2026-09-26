@@ -17,6 +17,7 @@ sources:
 # Build productive instructor-learner relationships so adults feel connected and take an active role in learning
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article argues that relationship-building is among the most important building blocks of education: a facilitator must relate to different personalities and backgrounds. A productive working relationship "helps the instructor convey expectations and feedback, facilitates effective communication," lets adults express needs, and, when adults believe they have an active role, can "build a sense of community" (Johnson, 2010).

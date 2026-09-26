@@ -17,6 +17,7 @@ sources:
 # Use accelerated, contextualized basic-skills instruction with cohort support to re-engage adults with low skill levels
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article presents accelerated contextualized learning as the mechanism that lets low-skilled adults achieve success quickly and see a purpose for core skills. Turkheimer states, "What makes the program so special is the accelerated contextualized nature of the curriculum. Students can achieve something quickly, and the link to construction allows students to see a purpose for core skills, such as math." A cohort approach places students who have had little success with education inside a support system that builds friendships and self-esteem.

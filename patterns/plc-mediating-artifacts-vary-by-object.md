@@ -17,6 +17,7 @@ sources:
 # Mediating artifacts in mathematics PLC are selected according to the PLC's object
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Across the reviewed studies, PLC used infrastructural frameworks (most commonly lesson studies and video clubs) plus operative-level artifacts such as video clips, classroom data, and mathematical problems. The review found "the artifacts used were selected depending on the object": artifacts for collaboration norms create safety, trust and participation; artifacts for understanding highlight mathematical concepts and strategies; artifacts for repertoire highlight aspects of mathematics teaching such as lesson plans, observations and student data. The same artifact type, e.g. video clips, can serve different objects depending on its content.

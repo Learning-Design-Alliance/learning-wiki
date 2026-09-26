@@ -17,6 +17,7 @@ sources:
 # Flexibly Vary Grouping Arrangements in Science Based on Objectives, Learners, and Activity
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The digest argues that teaching is far too complex for any one grouping type to be universally correct in science. Teachers should match grouping format to the learning purpose, drawing on experiments, audiovisual viewing, committees, discussion groups, interest groups, cross-grade groups, and learning centers. The digest states that 'teaching is far too complex' for one grouping type to fit every situation.

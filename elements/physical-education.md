@@ -12,6 +12,7 @@ generated:
 # Physical Education
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 5 claims (4 for, 1 mixed) · 9 studies, `q3`–`q4` · 9 of 9 report an effect size · 2 claims rest on one study
 
 ## Description
 Physical Education is a curricular domain in which the primary content is movement itself: motor skills, game tactics, physical fitness, and health-related dispositions. Because performance is embodied and immediate, PE relies on instructional elements — demonstration, practice, feedback, and game play — that operate in real time and in shared physical space, making it a distinctive context for applying learning design principles.

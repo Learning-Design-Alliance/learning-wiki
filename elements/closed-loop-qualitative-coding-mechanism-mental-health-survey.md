@@ -17,6 +17,7 @@ sources:
 # Closed-loop qualitative coding mechanism for student mental health interviews
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A qualitative analysis mechanism built on three thematic questions following the sequence "current situation perception (focus point) → obstacle identification (pain points) → solution pathways (best practices)." It uses keyword extraction, frequency statistics with quantitative conversion, one-to-many sub-item splitting of composite responses, and anchoring with typical examples to validate coding. The 671 interview records were split into 1,292 valid coded responses, and cross-group validation compared student and teacher perspectives.

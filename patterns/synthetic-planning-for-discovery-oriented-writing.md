@@ -19,6 +19,7 @@ sources:
 # Synthetic Planning for Discovery-Oriented Writing
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 unmarked) · 1 study, `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Most writing instruction encourages detailed outline planning before drafting, on the assumption that a clear structure improves both the writing process and the final product. This pattern inverts that assumption for a specific goal — deepening the writer's own understanding of an unresolved topic — by deliberately limiting pre-writing planning to a single overall goal statement, without a structural outline. This constraint forces sentence-by-sentence production to draw on the writer's implicit, not-yet-organized knowledge, generating genuinely new ideas during drafting rather than simply transcribing a pre-planned argument. The resulting draft is typically less coherent and lower quality than an outline-planned one, so the pattern pairs this drafting phase with a dedicated revision phase focused on discovering and imposing global structure on what was produced.

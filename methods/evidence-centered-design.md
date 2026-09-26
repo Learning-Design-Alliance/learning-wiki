@@ -21,6 +21,7 @@ sources:
 # Evidence-Centered Design
 
 > **Design Method** · [All design methods](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Most assessments are built forwards: someone writes tasks that feel like the subject, learners do them, and the scores are then interpreted as evidence of something. Evidence-centered design (ECD) inverts that order. It is a formal method for assessment design that begins with the claim you intend to make about a learner and works back to the task that would license it, so that the interpretation is designed in rather than argued for afterwards.

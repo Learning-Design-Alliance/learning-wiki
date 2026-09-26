@@ -17,6 +17,7 @@ sources:
 # Build L1 commands for survey and learning tactics into delivery system software, with an L2 advisor when strategy is involved
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The report recommends that delivery system software contain functions at the L0 level of discourse at minimum, but argues that interaction is highly restrictive unless L1 commands are available, at least for survey tactics and learning tactics. When L1 commands are available, or when strategy is involved as in a game or simulation, an L2 advisor is described as extremely desirable. These functions must be built into the delivery system software and can be activated by either author or student.

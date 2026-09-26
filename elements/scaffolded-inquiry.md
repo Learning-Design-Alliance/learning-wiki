@@ -12,6 +12,7 @@ generated:
 # Scaffolded Inquiry
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 9 studies, `q3`–`q4` · 9 of 9 report an effect size · 2 claims rest on one study
 
 ## Description
 Scaffolded inquiry sequences learning tasks so that learners begin with heavily structured investigation — embedded prompts, worked models, and instructor-framed questions — and progressively take over the questioning, reasoning, and design decisions themselves. The instructor's role shifts from directing the inquiry to coaching and eventually observing as learners independently formulate questions, gather evidence, and draw conclusions.

@@ -12,6 +12,7 @@ generated:
 # Stakeholder Mapping
 
 > **Design Method** · [All design methods](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
 
 ## Description
 Stakeholder Mapping enumerates the parties with a stake in a learning activity — learners, instructors, the institution, an employer, a funder, a regulator, a community — and gives each one a durable identity the rest of the design can refer to. It then records the relationships that matter: who mandates the activity, who funds it, who evaluates it, who is affected by it without holding any say over it. Its output is a short registry rather than an organisation chart, and the discipline is in what it leaves out.

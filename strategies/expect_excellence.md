@@ -12,6 +12,7 @@ generated:
 # Expect Excellence
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 6 claims (6 for) · 13 studies, `q3`–`q4` · 13 of 13 report an effect size · 1 claim rests on one study
 
 ## Description
 Expect Excellence means communicating — through goals, feedback, task design, and daily interactions — that all students are capable of high-quality work, then providing the scaffolding to make that work achievable. In project-based learning (PBL) contexts, it counters the misconception that open-ended projects are unsuitable for struggling or marginalized learners by pairing ambitious goals with structured support.

@@ -12,6 +12,7 @@ generated:
 # Performance Task Design
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 against) · 11 studies, `q2`–`q4` · 3 of 11 report an effect size
 
 ## Description
 Performance task design is the deliberate construction of tasks that require learners to *do* something with their knowledge — produce an artifact, solve an ill-structured problem, conduct an investigation, or execute a procedure — under conditions that resemble how the knowledge is used outside school. Assessment is built into the task rather than appended to it: the criteria for quality are typically made explicit in a rubric, and the task itself yields evidence of both learning and transfer.

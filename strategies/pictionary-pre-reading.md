@@ -12,6 +12,7 @@ generated:
 # Pictionary (Pre-Reading)
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Key words from an upcoming text are selected, and the class is divided into two or three teams. A learner from each team comes to the whiteboard and draws a word without using letters or numbers while teammates race to guess it. The activity primes vocabulary, activates prior knowledge, and builds visual-verbal associations before learners encounter the words in context.

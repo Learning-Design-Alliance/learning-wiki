@@ -12,6 +12,7 @@ generated:
 # Sentence Stems for Reflection
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 14 studies, `q2`–`q4` · 13 of 14 report an effect size
 
 ## Description
 Sentence stems are partially completed first-person sentences ("I selected this piece because…", "What really surprised me was…") that learners complete to structure a reflective response. They function as a scaffold for [metacognition](../theories/self-regulated-learning.md): the stem names the reflective move (evaluating, comparing, goal-setting) while the learner supplies the content. Stems can be used in teacher–student conferences, written reflection journals, portfolio defenses, or exit tickets.

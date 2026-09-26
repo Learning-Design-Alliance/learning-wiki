@@ -12,6 +12,7 @@ generated:
 # Interleaving
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 unmarked) · 3 studies, `q3`–`q4` · 1 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Interleaving sequences practice so that problems from different categories or skills alternate within a session (A, B, C, A, B, C) instead of appearing in blocks (AAA, BBB, CCC). The mixing forces learners to select an appropriate strategy for each problem, not just execute one they have already primed. It is typically combined with [spaced repetition](../claims/distributed-practice-improves-retention.md), since interleaved schedules naturally distribute practice over time.

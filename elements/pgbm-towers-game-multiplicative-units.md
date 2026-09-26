@@ -17,6 +17,7 @@ sources:
 # Please Go and Bring for Me (PGBM) game for promoting reflection on units in multiplicative reasoning
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 PGBM is a paired game in which a Sender asks a Bringer to build and bring back several same-size towers of cubes, one tower at a time, then answer four questions about towers, cubes per tower, total cubes, and how the total was figured out. The article says "The PGBM game was designed to promote children's reflection on the units used in multiplicative reasoning, by asking them to build towers from a given number of single cubes." In this study the teacher constrained the numbers of cubes per tower and towers, and used a poster with questions and answer-starters to promote full sentences and explicit mention of units.

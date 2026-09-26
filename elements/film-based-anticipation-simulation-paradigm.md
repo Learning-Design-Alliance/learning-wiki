@@ -17,6 +17,7 @@ sources:
 # Film-based simulation paradigm for training and testing anticipation and decision making
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A laboratory paradigm in which an action sequence (e.g., tennis serves) is filmed from the player's perspective and replayed, occluded at various time intervals before, at or after ball-racket contact. Participants anticipate where and what type of shot the opponent will play and decide on a return shot; verbal or motor responses (speed and accuracy) are recorded. The paradigm enables anticipation and decision making to be isolated under controlled conditions, increasing opportunity for repetition and deliberate practice, and is used for pre-, post- and transfer tests.

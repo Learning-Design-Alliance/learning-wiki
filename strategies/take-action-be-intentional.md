@@ -12,6 +12,7 @@ generated:
 # Take Action, Be Intentional
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 1 of 4 report an effect size
 
 ## Description
 Take Action, Be Intentional is a strategy in which the teacher deliberately designs their own behavior — greetings, questioning, feedback, discipline responses, and material arrangements — to actively notice and respond to student needs rather than reacting by default or habit. It treats teacher intentionality as an instructional variable: warm, purposeful teacher actions are planned and enacted consistently, not left to disposition or mood.

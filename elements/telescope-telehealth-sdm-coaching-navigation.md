@@ -17,6 +17,7 @@ sources:
 # TELESCOPE: telehealth shared decision-making coaching and patient navigation for lung cancer screening in primary care
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The TELESCOPE intervention (TELEhealth Shared decision-making COaching and navigation for lung cancer screening in Primary carE) "was developed to deliver telehealth-based decision coaching and patient navigation to patients recruited from primary care clinics." It was built on prior work showing decision coaching can improve patient knowledge and decision quality regarding lung cancer screening, and uses trained patient navigators, which the authors describe as potentially scalable and efficient for supporting shared decision-making among underserved populations. This study's focus groups were conducted to inform its cultural adaptation for Hispanic adults.

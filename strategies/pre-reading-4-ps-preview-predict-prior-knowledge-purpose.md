@@ -12,6 +12,7 @@ generated:
 # Pre-reading: 4 Ps (Preview, Predict, Prior Knowledge, Purpose)
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The 4 Ps are a structured pre-reading routine: learners **Preview** the text (headings, images, structure), **Predict** what it will say, activate **Prior Knowledge** of the topic, and set a **Purpose** for reading. Together these moves build a schema before reading begins, so that incoming text can be integrated with what the learner already knows rather than processed as disconnected words.

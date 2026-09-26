@@ -17,6 +17,7 @@ sources:
 # Use Heterogeneous Groups for Projects and Homogeneous Groups for Skill Achievement
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The digest advises teachers to use homogeneous groups to help pupils achieve on their own level in specific skills, such as reading science current events, and to use heterogeneous groups for projects. Heterogeneous project groups 'foster respect among pupils for each other regardless of ability', according to the digest.

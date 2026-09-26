@@ -17,6 +17,7 @@ sources:
 # Metaphor anchors for supporting newly admitted youths
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Metaphor anchors are objects and tasks workers use to anchor experiences for recently admitted youths, adapted from Peterson (1988) into the article's admissions context. The article states: "During residential admission, metaphor anchors help youths accomplish the following: to make the transition from their previous placement to the new program; to form relationships with Workers and other children; to accentuate them, and to consider continued development." Types include transition, power, buffer, ritual, koan, task, grail, resource state, and achievement anchor objects.

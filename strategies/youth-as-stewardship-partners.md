@@ -17,6 +17,7 @@ sources:
 # Engage youth as partners in stewardship rather than as subjects to be taught
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The guide promotes a partnership approach in which young people lead their own learning and stewardship projects. "The curriculum engages youth as partners in riparian stewardship, rather than as subjects who need to be taught what to think or do." Recommended strategies include encouraging youth to set activity goals, arranging reflection opportunities, building on skills youth already have, involving youth as leaders who have never led before, and defining accountability. The guide states that when youth lead the project, they gain a sense of ownership of the results.

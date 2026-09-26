@@ -12,6 +12,7 @@ generated:
 # Clicker Questions
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q2`–`q4` · 5 of 7 report an effect size
 
 ## Description
 Clicker questions are multiple-choice or conceptual questions posed to an entire class, with every student answering simultaneously through a personal response system (dedicated clickers, phone apps, or flashcards). The canonical cycle — question, individual vote, peer discussion, revote, instructor explanation — is [Peer Instruction](../patterns/peer-instruction.md), developed by Eric Mazur at Harvard. The simultaneous public commitment of an answer makes every student's thinking active and visible, rather than leaving participation to volunteers.

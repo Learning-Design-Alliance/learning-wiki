@@ -24,6 +24,7 @@ sources:
 # Multisensory Phonics Instruction
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 7 claims (5 for, 2 against) · 10 studies, `q1`–`q4` · 6 of 10 report an effect size · 2 claims rest on one study
 
 ## Description
 Multisensory phonics instruction teaches grapheme–phoneme correspondences by engaging several channels at once: the learner looks at the letter, says its sound, and simultaneously traces it in sand, forms it with tiles, taps the phonemes on their fingers, or writes it in the air. The approach is most associated with the Orton-Gillingham tradition and its derivatives, where "simultaneous multisensory" is one component of a package that is also explicit, systematic, cumulative, and diagnostic.

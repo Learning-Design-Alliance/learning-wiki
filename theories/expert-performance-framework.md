@@ -16,6 +16,7 @@ sources:
 # Expert-performance framework: reproducible superior performance on representative tasks as the object of explanation
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The expert-performance approach studies objectively measurable, reproducibly superior achievement in a domain rather than informal impressions of talent. Its first step is to "specify how we can reliably measure the superior performance in a given domain of expertise"; performance that is not "measurable and reproducible" does not qualify as scientific evidence of expertise. Researchers capture expertise with representative tasks—such as unfamiliar chess positions whose best-move selection correlates with tournament ratings—under controlled laboratory conditions, then analyze the acquired mechanisms mediating performance.

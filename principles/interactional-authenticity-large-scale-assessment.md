@@ -17,6 +17,7 @@ sources:
 # Design large-scale speaking assessments for interactional authenticity so tasks stimulate engagement and promote learning
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The forum reports Hamp-Lyons's (2014) proposal to reconfigure the interlocutor's role in a Cambridge English speaking exam. A study of the current format found it "does not elicit language naturally or supply sufficient scaffolding to promote maximal performance and learning." If the interactional dimension of the assessment imitated real conversation scenarios, the task would stimulate engagement, improve performance, and promote learning; large-scale tests must align with classroom practices.

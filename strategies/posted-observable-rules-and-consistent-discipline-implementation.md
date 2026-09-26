@@ -17,6 +17,7 @@ sources:
 # Implement clear, consistently enforced rules and routines, including a uniform schoolwide discipline plan
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The brief's implementation section advises that "Rules should be posted so all students can see them and be reminded of what is expected", that rules be brief and stated in terms of observable behavior, and that teachers stay on a routine and implement the discipline plan consistently so students see procedures enacted fairly. It also recommends reorganizing desks and materials to reduce distractions, monitoring lesson planning to minimize inactivity and assure smooth transitions, involving parents, and adopting a uniform schoolwide discipline plan for consistency and fairness.

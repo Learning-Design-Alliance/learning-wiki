@@ -17,6 +17,7 @@ sources:
 # Give more importance to science teaching courses and actively involve pre-service teachers in determining method-technique and strategy
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The authors recommend that primary school teaching departments "increase the number of practice courses especially about science teaching, in which primary school teachers perceive themselves as insufficient", and that qualified theoretical and practical teaching courses may raise self-efficacy. Within these courses, faculty members should "actively involve pre-service teachers in the teaching process, especially while determining method-technique and strategy". The recommendation rests on seniors' superior taxonomy and method-technique scores and the weak self-efficacy–planning correlation.

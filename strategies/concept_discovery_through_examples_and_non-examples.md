@@ -12,6 +12,7 @@ generated:
 # Concept Discovery Through Examples and Non-examples
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 11 studies, `q2`–`q4` · 6 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 Learners are presented with a carefully sequenced set of examples and non-examples of a target concept and asked to identify shared characteristics, classify new instances, and articulate the concept's defining attributes. The instructor or system supports exploration with questions and context-sensitive feedback that corrects misconceptions as they emerge. The strategy treats concept acquisition as pattern discrimination built from varied instances rather than transmission of a definition.

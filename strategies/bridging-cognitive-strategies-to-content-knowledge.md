@@ -17,6 +17,7 @@ sources:
 # Develop bridging techniques linking cognitive strategies to content knowledge areas
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends developing bridging techniques within the Instrumental Enrichment program so that cognitive strategies are linked to content knowledge areas such as physics, biology, or mathematics, a direction the authors say may produce a synthesis between Vygotsky's notion of scientific concepts and Feuerstein's emphasis on cognitive strategies. This responds to findings that cognitive strategy effectiveness is limited when learners' content knowledge is organized around non-scientific, everyday experience, and that extensive bridging between the innovative program and traditional classroom instruction did not generally occur in the Philadelphia study.

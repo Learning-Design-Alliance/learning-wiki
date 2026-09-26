@@ -12,6 +12,7 @@ generated:
 # Reciprocal Peer Feedback
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 against) · 11 studies, `q2`–`q3` · 3 of 11 report an effect size
 
 ## Description
 Reciprocal peer feedback arranges learners into pairs or small groups who review one another's work against shared criteria, then revise in light of what they receive. Each learner plays both roles — producing feedback and receiving it — which distinguishes reciprocity from one-way peer review. The exchange is typically structured with [rubrics](../elements/rubrics.md), sentence stems, or protocols so that comments are specific and actionable rather than evaluative.

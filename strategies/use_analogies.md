@@ -12,6 +12,7 @@ generated:
 # Use Analogies
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 against) · 7 studies, `q3`–`q4` · 3 of 7 report an effect size
 
 ## Description
 An analogy explains a new or abstract concept by relating it to something learners already know, making the structural correspondence explicit ("the heart is like a pump; the valves are like one-way doors"). The strategy is carried out by (a) activating the familiar source domain, (b) mapping its relations onto the target concept, and (c) marking where the mapping breaks down. Analogies function as a bridge between prior knowledge and new content, converting an unfamiliar situation into a familiar one with known gaps.

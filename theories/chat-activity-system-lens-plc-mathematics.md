@@ -16,6 +16,7 @@ sources:
 # Cultural-historical Activity Theory and activity-system analysis as a lens for examining PLC in mathematics
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The review uses CHAT, in which "activity systems are taken as the smallest unit of analysis", to conceptualise PLC as practices where people with different roles interact to develop their practice. Each activity system comprises six nodes — object, subjects, mediating artifacts, rules, community, division of labor — plus an outcome, illustrated as a triangle. The object is the underlying motive and determines what counts as an activity system; if the object changes, a new activity system is created. The authors operationalised the nodes using Mwanza's (2002) eight-step model of guiding questions to categorise the 32 studies.

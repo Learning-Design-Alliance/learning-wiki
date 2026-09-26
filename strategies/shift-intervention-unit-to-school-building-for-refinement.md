@@ -17,6 +17,7 @@ sources:
 # For refinement-level use, shift the unit of intervention from the individual to the school building
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article proposes that interventions facilitating movement from nonuse to routine use differ from those needed for higher Levels of Use (IVB-VI). Based on limited research, "it appears that the 'unit of intervention' needs to shift from the individual to the school building", because occurrence of higher levels appears related to building norms and the role of the unit manager. Across-school workshops can support the move from nonuse to use.

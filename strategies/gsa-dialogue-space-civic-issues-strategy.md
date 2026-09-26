@@ -17,6 +17,7 @@ sources:
 # Use equity-oriented extracurricular clubs as spaces for sustained peer dialogue on urgent civic issues
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends that groups addressing equity and justice, such as GSAs, host peer dialogue on polarizing civic topics like immigration. Its practitioner points state that "Gender and Sexuality Alliances (GSAs) can serve as a place for dialogue to support youth to engage with one another on urgent civic issues and promote their feelings of empowerment," and that when members discuss immigration more often, members generally feel more peer-validated and immigrant-origin members feel more hopeful. The strategy rests on the study's individual-level findings.

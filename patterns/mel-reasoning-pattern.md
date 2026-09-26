@@ -19,6 +19,7 @@ grain_size: lesson
 # MEL Reasoning Pattern
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 MEL Reasoning Pattern is the short-form canonical target for the Model-Evidence-Link reasoning pattern, which asks learners to evaluate how evidence supports, challenges, or revises a model or explanation.

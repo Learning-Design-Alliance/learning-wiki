@@ -17,6 +17,7 @@ sources:
 # Adopting a communicative approach requires teachers to take a dual role facilitating both natural acquisition and learning
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The packet argues that a communicative-competence framework has serious implications for teacher training: "teachers now have a dual role:to facilitate "natural acquisition" as well as "learning."" It further states that teachers need command of teaching strategies that develop not only students' grammatical competence but also their sociolinguistic and strategic competencies. In the S-I classroom this means teachers shift from authoritarian roles to coach or trainer while students move from passive roles to players, with individuals moving freely in and out of roles such as evaluator, judge, or instructor.

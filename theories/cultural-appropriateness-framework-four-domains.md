@@ -16,6 +16,7 @@ sources:
 # Cultural Appropriateness Framework: peripheral, evidential, linguistic, and sociocultural domains for adapting health interventions
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The Cultural Appropriateness Framework "examines how cultural values, beliefs, and preferences can inform the adaptation or development of health interventions" across four domains: Peripheral (appealing design elements such as images), Evidential (sharing health information to convey importance), Linguistic (delivering programs in the group's primary language), and Sociocultural (infusing cultural needs, beliefs, and preferences into design and materials). This study structured its focus group guide around the four domains and mapped its themes onto them, finding that themes did not map exclusively onto individual domains — communication preferences intersected the Linguistic, Evidential, and Sociocultural domains.

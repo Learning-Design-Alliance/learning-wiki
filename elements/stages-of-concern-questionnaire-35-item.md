@@ -17,6 +17,7 @@ sources:
 # Stages of Concern Questionnaire (SoCQ): a 35-item diagnostic instrument
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The SoC Questionnaire is a 35-item self-report instrument for assessing individuals' concerns about any educational innovation. The paper notes "This 35-item questionnaire can be used with any educational innovation and requires only 10-15 minutes to complete." It can be scored by hand or computer to produce a graphic concerns profile for individuals or groups, showing which stages are most and least intense. The authors state it is "the most appropriate procedure for assessing concerns in research and evaluation studies."

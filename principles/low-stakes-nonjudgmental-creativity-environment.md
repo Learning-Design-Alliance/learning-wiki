@@ -17,6 +17,7 @@ sources:
 # Run creativity activities in a non-threatening, low-stakes environment free of right-or-wrong evaluation
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article argues that nurturing creativity in STEM requires "creating a non-threatening, low-stakes learning environment" in which "the instructor move away f rom the traditional “right or wrong” evaluation techniques." Students are made "aware of and become com fortable with the notion that they are free to make errors without any consequences, and that it is active participatio n that increases their learning and adds to their skills." The authors report this helped both students and instructors evaluate their existing heuristics/models and rewarded them with new insights.

@@ -12,6 +12,7 @@ generated:
 # Learning Students Names
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 2 of 4 report an effect size
 
 ## Description
 Learning students' names is a foundational relational practice in which the instructor commits to knowing and using every learner's name — typically within the first weeks of a course. It is carried out through deliberate techniques (name tents, photos with rosters, name-learning games, repeated use during discussion) and signals that each student is seen as an individual rather than an anonymous attendee.

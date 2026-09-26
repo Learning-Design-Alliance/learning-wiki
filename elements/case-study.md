@@ -12,6 +12,7 @@ generated:
 # Case Study
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 6 claims (4 for, 2 mixed) · 9 studies, `q2`–`q4` · 6 of 9 report an effect size · 3 claims rest on one study
 
 ## Description
 A case study presents learners with a rich, realistic scenario — a business decision, a patient presentation, a legal dispute — that they must analyze, discuss, and resolve using concepts from the domain. The case functions as an authentic problem context: learners bridge theory and practice by deciding what matters, what principles apply, and what to recommend, rather than receiving those judgments pre-packaged.

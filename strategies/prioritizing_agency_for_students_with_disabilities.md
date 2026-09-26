@@ -12,6 +12,7 @@ generated:
 # Prioritizing Agency for Students With Disabilities
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 against) · 7 studies, `q3`–`q4` · 4 of 7 report an effect size
 
 ## Description
 Prioritizing agency for students with disabilities means deliberately building students' capacity to understand their own rights and needs, communicate them, set goals, solve problems, and make consequential decisions about their learning. It is carried out through explicit instruction in self-determination skills, authentic decision-making opportunities (such as leading their own IEP meetings), and hands-on learning contexts where choices have real consequences. The approach treats students as primary agents in their education rather than recipients of services designed for them.

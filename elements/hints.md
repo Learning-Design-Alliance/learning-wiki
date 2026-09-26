@@ -21,6 +21,7 @@ sources:
 # Hints
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Hints are partial prompts or cues that help learners continue a task without fully giving away the answer. They are useful when the design goal is to preserve productive struggle while reducing the chance of stuckness, confusion, or abandonment.

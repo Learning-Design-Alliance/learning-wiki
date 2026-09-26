@@ -17,6 +17,7 @@ sources:
 # Eight critical opportunities for the ACE sector to explore within the national VET system
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The report identifies eight opportunities which the ACE sector should explore further: positioning ACE providers in the Modern Australian Apprenticeship and Traineeship System (MAATS); increasing emphasis on the value-adding role; improving communication with the State Training Profile process; cooperating with selected state and national ITABs on market niches; increasing the proportion of Stream 2000-4000 courses that are nationally recognised; ensuring women's participation in ACE VET programs is not less than in ACE provision generally; increasing participation of people from non-English speaking backgrounds across a broader range of VET programs; and strengthening ACE's position in small business training. The report recommends "a tightly targeted approach" rather than a blanket approach to ACE-ITAB cooperation.

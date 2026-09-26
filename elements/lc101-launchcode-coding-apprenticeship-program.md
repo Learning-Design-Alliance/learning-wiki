@@ -17,6 +17,7 @@ sources:
 # LC101: LaunchCode's free coding course and paid apprenticeship program
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 LC101 is LaunchCode's flagship alternative STEM pathway: a part-time, evening program combining "a free 20-week coding course" and "a paid apprenticeship at a local employer that can last 12-52 weeks," with a portfolio-building lift-off phase between them. Courses cover a JavaScript unit on foundational programming and a Java or C# unit on web applications. Apprenticeship pay subsidizes the program, making it free for all students.

@@ -12,6 +12,7 @@ generated:
 # Generative Processing
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 5 claims (4 for, 1 mixed) · 10 studies, `q3`–`q4` · 8 of 10 report an effect size · 2 claims rest on one study
 
 ## Description
 Generative processing is the cognitive work learners do to actively construct meaning from instructional material — summarizing, self-explaining, drawing, mapping, questioning, or teaching — rather than passively receiving it. It originates in generative learning theory (Wittrock), which holds that learning occurs when learners generate relations between new content and their prior knowledge and between different parts of the material. In Mayer's cognitive theory of multimedia learning, generative processing is one of three demands on working memory, alongside extraneous processing and essential processing; instruction must manage the first two to leave capacity for the third.

@@ -12,6 +12,7 @@ generated:
 # Four Boundaries of Learning Community (Access, Relationships, Vision, Function)
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 West and Williams (2018) argue that "learning community" is used so inconsistently in research and practice that it undermines both research synthesis and design guidance. Rather than proposing one universal definition, they resolve the ambiguity by identifying four possible boundaries that define a community, any subset of which may be present in a given case:

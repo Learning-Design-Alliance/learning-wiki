@@ -17,6 +17,7 @@ sources:
 # Learner log capturing learner-game and learner-teacher interaction data
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The learner log is a proposed component of the FTS implementation that should contain information related to Learner-game and Learner-teacher interaction. From learner-game interaction, "individual data such as the time -spent on game -play, number of attempts and progress report should be captured by an e -learning system". From learner-teacher interaction, the e-learning system should capture information enabling the teacher to monitor individual player-learners' progress and respond appropriately, including determining an appropriate fading rate and when peer collaboration becomes expedient.

@@ -16,6 +16,7 @@ sources:
 # Three metaphors of time in knowledge organization systems: architectonic, ouroboric, and lachesic
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper names and substantively describes three metaphors governing views of time and change in knowledge organization systems. The architectonic metaphor treats meaning as systematic and edition-based; the ouroboric treats meaning as constantly renewed from the old, like 'the serpent eating its own tail'; the lachesic treats time as an allotted amount that is additive, allowing new subjects to be added without revising old ones. The paper states: 'Each of these metaphors, the architectonic, ouroboric, and lachesic, govern our views on time and change knowledge organization system.' These metaphors serve as lenses for evaluating extant or newly designed systems.

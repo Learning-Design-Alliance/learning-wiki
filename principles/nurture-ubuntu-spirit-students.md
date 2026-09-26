@@ -17,6 +17,7 @@ sources:
 # Nurture the ubuntu spirit in students because it aligns with global citizenship and embodies a humanistic ethos
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article states that Ikeda advocates for societies to nurture in students the ubuntu spirit, which aligns with his understanding of global citizenship. African philosophies like ubuntu are said to embody a humanistic ethos enabling individuals to manifest happiness and self-fulfillment in daily lives. In the conclusions, the humanity of unity in diversity is named as ubuntu, grounding regional unity in educational practice.

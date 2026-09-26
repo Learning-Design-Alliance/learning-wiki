@@ -16,6 +16,7 @@ sources:
 # ECD framework as a conceptual and rhetorical structure for designing simulation studies in games-based assessment
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article extends the evidence-centered design (ECD) framework beyond assessment design to the design of simulation studies investigating statistical methods for games-based assessment. Its conceptual assessment framework components—student model (SKIVE variables), task model (evidentiary boundaries), evidence model (evidence identification and accumulation), and assembly model (design matrices)—organized the simulation's learner, task, and game conditions. The authors report that ECD provided "a much -needed conceptual and rhetorical structure that team members could use to effectively communicate with one another" across methodological traditions.

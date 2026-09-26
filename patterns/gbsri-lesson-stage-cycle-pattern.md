@@ -17,6 +17,7 @@ sources:
 # Genre-based writing lesson pattern cycling Presenting, Collaborative Practicing, Independent Writing, and Post-Writing Task stages
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A reusable lesson-level pattern in which each writing task cycles through the GBSRI stages: students first explore real-world sample texts (recipes, cookbooks, YouTube clips) to understand context and genre features; then analyze model texts and set personal writing goals and plans with teacher and peer collaboration; then compose independent drafts with teacher-learner conference feedback; and finally evaluate and reflect on strategies in a learning diary. The article states "These teaching stages of the GBSRI can be circulated for each writing task to encourage and scaffold the writing ability and self-regulation of EFL student writers."

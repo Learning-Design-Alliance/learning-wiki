@@ -16,6 +16,7 @@ sources:
 # Framework of three types of object-oriented interaction: coordination, cooperation, and communication
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The framework distinguishes three qualitatively different types of epistemological subject-object-subject relations in collaborative learning. Coordination is the "default" mode in which each participant performs a scripted role with a partial object; cooperation is initiated by a disturbance that cannot be fixed by returning to the script, with participants focusing on a shared problem; communication occurs when participants question and examine their own patterns of interaction, reconceptualizing both object and script. Pseudo-cooperation is a variant that resembles cooperation but focuses on a substitute object discussed without resolution. The framework calls attention to transitions between types, typically triggered by disturbances.

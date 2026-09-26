@@ -17,6 +17,7 @@ sources:
 # Social-constructionist collaborative writing classroom
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 In the collaborative classroom the paper describes, "the teacher is a facilitator, setting up an environment for students to work together on all stages of the writing process", from getting ideas through several drafts. The line between teacher and learner is abolished, talk is encouraged because writing is viewed as internalized talk, and the classroom becomes a community of peers. It is contrasted with the traditionalist classroom of lectures and isolated assignments.

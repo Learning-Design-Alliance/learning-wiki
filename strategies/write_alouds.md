@@ -12,6 +12,7 @@ generated:
 # Write Alouds
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 4 studies, `q3` · 4 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 Write-aloud lessons, also known as modeled writing, involve an experienced writer (typically the teacher) verbalizing their thought process while writing in front of learners. The instructor makes the normally invisible decisions of composition — choosing words, structuring sentences, monitoring clarity, revising — explicit by narrating the internal dialogue of writing in real time. Sessions are brief (10–15 minutes) and focused on a specific aspect of writing such as openings, transitions, or dialogue.

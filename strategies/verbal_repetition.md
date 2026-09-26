@@ -12,6 +12,7 @@ generated:
 # Verbal Repetition
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 8 studies, `q3`–`q4` · 8 of 8 report an effect size
 
 ## Description
 Verbal repetition is a strategy in which learners repeat, restate, or rehearse information aloud — repeating a definition, explaining a procedure to a partner, or restating a peer's idea in their own words. It functions as both a rehearsal mechanism for memory and a check for understanding, since the verbalization exposes the learner's current mental model to the instructor and to the learner.

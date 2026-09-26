@@ -17,6 +17,7 @@ sources:
 # Five-unit arc building classroom skills toward a community field trip and public sharing
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The curriculum is organized as five sequential units of roughly two to six hours each: Get a Clear Picture, Solve the Puzzle (four science stations), Get into the Zone (a field trip), Putting the Pieces Together, and Tell the News. "A field trip is a featured component of the curriculum (Unit 3). Units 1 and 2 prepare youth for the field trip by building skills and curiosity." The sequence ends with learners presenting findings to natural resource professionals and community members, moving from introduction to investigation to synthesis to communication.

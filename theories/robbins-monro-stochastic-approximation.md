@@ -16,6 +16,7 @@ sources:
 # The Robbins-Monro stochastic approximation procedure as a model for sequential estimation in learning and measurement
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article treats the Robbins-Monro stochastic approximation procedure as an iterative method for finding the root of a regression equation when observations are contaminated by random error. Each step adjusts an estimate in the direction suggested by the latest noisy observation, scaled by a sequence of iteration coefficients. The article analyzes the conditions under which this sequence converges, framing the procedure as relevant to sequential problems in psychological measurement and learning.

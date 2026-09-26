@@ -17,6 +17,7 @@ sources:
 # Encourage cognition and literacy by providing varied reading, writing, and drawing materials and building environmental awareness
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends that parents and teachers support cognition and literacy by supplying children with a wide variety of materials and by building environmental awareness. It states: "Parents and teachers can encourage the development of cognition and literacy by providing children with a wide variety or reading, writing, and drawing materials." It adds that awareness of one's relationship to the environment is reflected in children's drawing, and that artwork can unite cognition and literacy.

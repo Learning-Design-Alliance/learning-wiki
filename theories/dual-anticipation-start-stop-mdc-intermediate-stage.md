@@ -16,6 +16,7 @@ sources:
 # Dual anticipation of start and stop as an intermediate stage in constructing the multiplicative Double Counting scheme
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article postulates that constructing the first multiplicative scheme, multiplicative Double Counting (mDC), requires a dual anticipation: anticipating where to shift each count of a composite unit (unit rate, first anticipation) and where to stop the count for the compilation of composite units (second anticipation). The authors state that "It is this dual anticipation that makes operating on harder numbers, for example, when CUs and/or 1s exceed the number of fingers on one hand, a challenging feat to overcome." They present Devin's case as illustrating a possible intermediate stage in SLDs' development of mDC, analogous to start/stop anticipation in additive counting on.

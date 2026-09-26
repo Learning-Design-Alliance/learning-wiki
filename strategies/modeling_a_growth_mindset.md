@@ -12,6 +12,7 @@ generated:
 # Modeling a Growth Mindset
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size
 
 ## Description
 Modeling a growth mindset means that leaders and teachers make their own learning processes visible: they voice uncertainty, attempt difficult tasks, respond to errors with analysis rather than judgment, and frame ability as developable. Teachers, like the students they teach, can learn to develop a growth mindset, but this requires careful planning by school management. The key principle is encouraging teachers to see themselves as learners who are capable of learning and improving — the stance is caught through observation before it is taught through instruction.

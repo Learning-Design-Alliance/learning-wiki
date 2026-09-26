@@ -17,6 +17,7 @@ sources:
 # Reconstruct Kohlberg-style moral education to integrate reason and feeling, self and relationship, and concept and context, using real problem situations instead of hypothetical dilemmas
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article's reconstruction of Kohlberg's moral education specifies four integrations drawn from Dewey: moral judgment "involves reason and feeling, self and relationship, concept and context." Justice as a sole fixed standard is rejected in favor of discovering the suitable principle through continual inquiry, and hypothetical dilemma stories are replaced by real problem situations, since deliberation prepares learners for future problematic situations. Moral thinking should always take into account the present situation and social environment.

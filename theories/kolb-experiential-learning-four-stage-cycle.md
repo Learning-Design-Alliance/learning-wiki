@@ -16,6 +16,7 @@ sources:
 # Kolb's experiential learning theory: knowledge created through transformation of experience via a four-stage cycle
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper adopts Kolb's (1984) definition of experiential learning as "the process whereby knowledge is created through the transformation of the experience of the /earner who is at the centre of the learning process". Kolb's theory frames learning as a four-stage cycle of adaptive modes — concrete experience, reflective observation, abstract conceptualisation, active experimentation — which combine into different learning processes, kinds of knowledge, and individual learning styles with no hierarchical ranking among styles. The paper uses this framework as the theoretical backbone for its argument that training should be experiential and participatory.

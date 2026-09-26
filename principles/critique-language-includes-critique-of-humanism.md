@@ -17,6 +17,7 @@ sources:
 # Critique of language in CCP must include critique of humanism and humanist historicization
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article argues that an ecologically concerned CCP "must not only localize the complex problems of the Anthropocene by thinking through its spatial scales, it must also implicate the role of humanist epistemologies in the planet's deep temporal unfolding." Drawing on Chakrabarty's four theses on climate change and humanist history, the principle holds that contextualizing terms like Anthropocene carry politics: the root anthropos frames the whole species as the primary agent of crisis, neutralizing more nuanced politics. Students therefore study competing neologisms and the rhetoricity of epochal historicization itself.

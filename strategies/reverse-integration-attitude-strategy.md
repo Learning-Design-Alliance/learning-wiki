@@ -17,6 +17,7 @@ sources:
 # Reverse integration: bring non-handicapped children into handicapped children's classrooms to build acceptance for LRE placement
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The report describes reverse integration as an implementable technique for addressing attitudes so handicapped children are accepted in their least restrictive environment. It states: "A technique developed for this purpose is "reverse integration," a practice by which non-handicapped children are brought into handicapped children's Classrooms." In Santa Barbara, non-handicapped elementary children served as teacher aides and companions, which the report says changed attitudes of children, parents, and the public and forged ties between special and regular education.

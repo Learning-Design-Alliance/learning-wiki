@@ -17,6 +17,7 @@ sources:
 # Multimedia literacy is developed through producing multimedia
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 This principle holds that students acquire multimedia literacy by engaging in multimedia production rather than only by consuming instruction. Literacy here spans understanding media characteristics, selecting and collecting information across media, operating peripherals, presenting, conveying products, and creating integrated multimedia works. The article maps ten literacy items onto production activities, so that producing requires exercising each literacy item in context.

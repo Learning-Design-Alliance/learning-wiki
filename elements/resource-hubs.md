@@ -12,6 +12,7 @@ generated:
 # Resource Hubs
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Resource hubs are centralized collections of materials, links, tools, or references that learners can return to during a course or project. They are useful when learners need organized access to shared resources.

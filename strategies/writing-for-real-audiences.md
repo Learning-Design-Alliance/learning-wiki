@@ -12,6 +12,7 @@ generated:
 # Writing For Real Audiences
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies, `q2`–`q4` · 1 of 5 report an effect size
 
 ## Description
 Writing for real audiences positions students as authors addressing actual readers — peers, younger students, community members, online communities, or publication venues — rather than writing solely for the teacher-as-grader. The audience and purpose are specified and consequential: the text will actually be read, used, or responded to, which changes how students plan, draft, and revise.

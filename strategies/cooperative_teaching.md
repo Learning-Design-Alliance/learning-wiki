@@ -12,6 +12,7 @@ generated:
 # Cooperative Teaching
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q4` · 4 of 5 report an effect size
 
 ## Description
 Cooperative teaching structures learning so that students take instructional roles toward one another — verbally or visually explaining problems, sharing knowledge, and assisting peers. The core mechanism is *learning by teaching*: preparing to explain, and explaining itself, forces reorganization of knowledge that benefits the student-teacher as much as the student-learner. It is carried out through structured pair, small-group, or whole-class activities in which students articulate content to peers under instructor guidance.

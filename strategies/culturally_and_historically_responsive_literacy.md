@@ -12,6 +12,7 @@ generated:
 # Culturally and Historically Responsive Literacy
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Culturally and Historically Responsive Literacy (CHRL), developed by Gholdy Muhammad, is an equity framework that structures literacy instruction around four interdependent learning goals: **identity** (making sense of who one is), **skills** (proficiencies in reading, writing, and speaking), **intellect** (knowledge built through literacy practices), and **criticality** (the ability to read power, equity, and oppression in the world). Lessons and texts are selected and designed to be responsive to students' racial, cultural, and historical communities rather than treating those communities as peripheral. The framework draws on the literacy practices of 19th-century Black literary societies, which pursued all four goals simultaneously [Muhammad, 2020].

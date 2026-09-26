@@ -12,6 +12,7 @@ generated:
 # Word Building
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 5 of 5 report an effect size
 
 ## Description
 Word building (also called "making words" or letter-tile construction) asks learners to physically manipulate letters — tiles, cards, or magnetic squares — to assemble words, typically by changing one letter at a time (cat → hat → hop) or building a target word from a set of given letters. The manipulation forces learners to segment words into phonemes and map each phoneme to a letter, making the alphabetic principle concrete and manipulable rather than abstract.

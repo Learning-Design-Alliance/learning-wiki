@@ -17,6 +17,7 @@ sources:
 # Adaptive Learning
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Adaptive learning tailors content, pacing, support, or task sequence in response to evidence about a learner's current performance, needs, or prior knowledge.

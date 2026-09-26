@@ -16,6 +16,7 @@ sources:
 # Talent Development Framework: a three-section model of state educator talent policy
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The Talent Development Framework is a comprehensive model of the state policy and practice areas found in a strong educator talent development system. As the document states, "the framework groups state policy and practice into three key interdependent policy and practice sections": attracting talent into the profession, preparing future teachers and leaders, and developing, supporting, and retaining educators in the field. It is intended as a roadmap for state- and district-level policymakers to systemically address and improve educator quality across the career continuum.

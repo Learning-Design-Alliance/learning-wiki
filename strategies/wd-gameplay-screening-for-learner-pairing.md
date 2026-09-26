@@ -17,6 +17,7 @@ sources:
 # Use the WD statistic during gameplay as a quick screening tool for pairing learners with likely different profiles
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Based on simulation evidence that distinct learner trajectories yield reasonably distinct WD value ranges, the authors recommend computing the WD statistic during gameplay as "a quick screening tool to suggest pairings of learners who have likely different profiles for subsequent activities of the game", for example by pairing learners with lower and higher WD values. They caution that subtler developmental nuances escape the statistic.

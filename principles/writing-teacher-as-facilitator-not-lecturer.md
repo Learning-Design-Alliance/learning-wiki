@@ -17,6 +17,7 @@ sources:
 # Writing teacher as facilitator rather than lecturer
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The third recommendation asks writing teachers to redefine their roles: rather than lecturers whose job is to impart information, "we might think of ourselves as facilitators, co-workers, enablers, resources, and even referees". The paper argues this distributes authority in the educational process more equitably than the traditional teacher-lecturer model.

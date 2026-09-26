@@ -12,6 +12,7 @@ generated:
 # Confidence Based Quizzing
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q4` · 2 of 2 report an effect size
 
 ## Description
 Confidence Based Quizzing (CBQ) asks learners to answer each quiz item and also indicate how confident they are in that answer (e.g., a 1–3 scale). Scoring schemes such as confidence-weighted marking award more points for correct answers marked high-confidence and penalize high-confidence errors, so learners are assessed on calibration — the match between confidence and accuracy — as well as on content knowledge.

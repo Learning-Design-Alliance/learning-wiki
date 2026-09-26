@@ -17,6 +17,7 @@ sources:
 # Model learner knowledge states as distributions with explicit uncertainty so downstream systems can perform confidence-aware inference and adaptive decision-making
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article argues that representing latent learner states probabilistically, rather than as deterministic point vectors, lets adaptive systems act on both the state estimate and its reliability: modeling latent state updates over concept graphs means "downstream systems can perform confidence-aware inference and adaptive decision-making". In Adaptive G-UKT this is realized through Gaussian embeddings whose diagonal covariance encodes epistemic uncertainty and gates augmentation during contrastive training.

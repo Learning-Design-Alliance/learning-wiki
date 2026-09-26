@@ -12,6 +12,7 @@ generated:
 # Sentence Frames
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
 
 ## Description
 Sentence frames are partially completed sentence templates ("I agree with ______ because ______.") that learners complete with their own content when speaking or writing. They scaffold the *language* of a task so learners can devote working memory to the *ideas*, and they model the discourse conventions of a discipline or community — including how to agree, disagree, and ask for elaboration respectfully.

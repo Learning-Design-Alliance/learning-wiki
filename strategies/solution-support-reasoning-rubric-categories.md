@@ -17,6 +17,7 @@ sources:
 # Adapt science-inquiry rubric categories from claim-evidence-reasoning to solution-support-reasoning for engineering activities
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The authors recommend modifying the evaluation rubric when moving from science inquiry to engineering inquiry. The science rubric evaluated how students answered their question with the categories claim, evidence, and reasoning; for engineering, "the categories became proposed solution, support (including tradeoffs and optimization), and reasoning or justification of how the solution worked." Support was assessed via a schematic diagram or the output-voltage equation, and reasoning via explanation of how output voltage depends on the resistor values.

@@ -17,6 +17,7 @@ sources:
 # Four architectonic guiding principles for integrating teaching, learning, and technology
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article enumerates four principles, attributed to Dennis (2020a), that serve as a paradigm for the interrelationship of teaching, learning, and technology: language and dialogue create unity out of differences; all words, texts, genres, and disciplines integrate through semiotic or dialogic processes; Peircean semiotics is a continuum on which intertextuality, hypertextuality, and interdisciplinarity are nodes; and exigence, context, intertext, and hypertext determine the proper application of interdisciplinarity. As printed: "the first guiding principle is that language and dialogue create unity and simultaneity out of differences. The second principle is that all words, texts, genres, and disciplines integrate through semiotic or dialogic processes."

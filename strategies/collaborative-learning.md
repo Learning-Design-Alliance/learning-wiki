@@ -12,6 +12,7 @@ generated:
 # Collaborative Learning
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 3 of 4 report an effect size
 
 ## Description
 Collaborative learning organizes instruction so that small groups of learners work interdependently toward a shared goal, constructing knowledge through explanation, negotiation, and mutual critique rather than receiving it individually. It differs from mere group seating: the task must require genuine joint work, and individual accountability must be preserved.

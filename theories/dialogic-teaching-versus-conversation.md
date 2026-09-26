@@ -16,6 +16,7 @@ sources:
 # Dialogic teaching as distinct from ordinary classroom conversation
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The forum reports Leung's (2014) distinction between the dialogic and conversational nature of classroom interaction and feedback, drawing on Alexander's (2008) term dialogic teaching. Dialogic teaching "encompasses not just any conversation, but an interaction that necessitates attention, engagement, and meaningful communication over time." Unlike an unchained conversation, a dialogue incorporates contextual values, long-term learning goals, targeted pedagogical questioning, critical thinking, argumentation, and an ongoing teacher-student relationship.

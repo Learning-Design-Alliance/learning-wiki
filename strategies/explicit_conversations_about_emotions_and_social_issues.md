@@ -12,6 +12,7 @@ generated:
 # Explicit Conversations about Emotions and Social Issues
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q3` · 1 of 5 report an effect size
 
 ## Description
 This strategy engages learners in deliberately structured conversations about emotions — their own and others' — and about social issues such as fairness, identity, and justice. Rather than treating social-emotional learning as implicit or incidental, the instructor makes norms, vocabulary, and perspectives explicit: learners learn to label emotional states, articulate why situations feel unjust, and hear how peers experience the same events differently. Conversations are typically facilitated through protocols such as [Class Discussion](../elements/class-discussion.md), structured [Perspective-Taking](../elements/perspective-taking.md) prompts, and reflective [Check-Ins](../principles/check-ins.md).

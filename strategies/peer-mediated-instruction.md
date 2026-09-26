@@ -12,6 +12,7 @@ generated:
 # Peer Mediated Instruction
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 3 studies, `q2`–`q4` · 2 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Peer mediated instruction arranges for students to carry instructional functions — explaining, questioning, tutoring, giving feedback — to one another, while the teacher designs the roles, pairings, routines, and materials that structure the interaction. It spans reciprocal teaching, peer tutoring, cooperative goal structures, and structured peer feedback. The teacher's role shifts from delivering content to engineering the conditions under which peer explanation produces learning.

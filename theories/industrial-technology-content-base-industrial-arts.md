@@ -16,6 +16,7 @@ sources:
 # Industrial technology as the content base for industrial arts
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The guide argues that industrial arts should draw its content from industrial technology rather than industry as a whole. It defines industry as "a societal institution that develops and uses technology" and industrial technology as "the systematized knowledge derived from the nature, the principles and practices, the products, the services, and energies employed by industry." The premise responds to 1960s curriculum innovations seeking a more suitable content base, citing arguments that technology is emerging as a distinct discipline while industry is not.

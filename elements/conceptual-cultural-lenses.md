@@ -17,6 +17,7 @@ sources:
 # Conceptual lenses for examining cultural perspectives
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Conceptual lenses are a curricular element the article recommends for graduate leadership coursework. According to the authors, "The use of conceptual lenses highlights vari ous cultural perspectives and helps graduate" students move beyond the universality mindset of any single ethnocentric cultural bias toward a comprehension of multiple viewpoints. The element works by structuring course content so that several cultural perspectives are examined side by side rather than through one default lens.

@@ -17,6 +17,7 @@ sources:
 # Teacher-provided graphic map as review
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The instructor supplies a completed graphic map of key concepts and interrelationships as a review of content, conveying the expert's knowledge structure directly to learners. The article found this instructional strategy produced no significant differences in total structural-knowledge scores compared with student-generated mapping, though it declined on incidental-learning measures between exams.

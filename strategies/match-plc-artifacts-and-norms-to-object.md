@@ -17,6 +17,7 @@ sources:
 # Match PLC artifacts and norms to the intended object, and treat collaboration norms as a prerequisite object where collaboration is unfamiliar
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The review's findings assist designers and organisers in making informed decisions about PLC in mathematics. Because "the artifacts used were selected depending on the object", designers should choose artifacts — video clips, rich mathematical problems, lesson plans, student data, structured questions — that fit the intended object, and establish norms of trust, open communication and attention-direction before critical inquiry. Where teachers are unaccustomed to collaborating, as in the Iranian and Chinese studies reviewed, developing norms for collaboration should be treated as a major object preceding others.

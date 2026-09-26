@@ -16,6 +16,7 @@ sources:
 # Cognitive theory of multimedia learning with the attention-guiding principle as a framework for e-book design
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article applies the cognitive theory of multimedia learning (Mayer & Moreno) together with Betrancourt's attention-guiding principle to explain how e-book features shape young bilingual readers' attention. Multimodal inputs "can provide important connections between the visual and auditory channels," while cueing such as finger-tracking animation guides attention to relevant details and reduces extraneous cognitive load. The framework predicts that matched dual-channel inputs plus attention-guiding cues direct children's attention to target-language print, which the two studies support.

@@ -12,6 +12,7 @@ generated:
 # Representation of Diverse Perspectives and Identities
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 3 of 4 report an effect size
 
 ## Description
 Incorporating multiple and varying perspectives within learning content to honor and value diverse approaches to learning. This involves presenting content that reflects different cultures, identities, and ways of knowing — through examples, case protagonists, authorship, imagery, and framing — rather than defaulting to a single dominant cultural lens. The approach supports learners in making connections between concepts and their own experiences, and signals who belongs in the discipline.

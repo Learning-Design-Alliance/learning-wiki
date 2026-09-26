@@ -17,6 +17,7 @@ sources:
 # Progressive home-based digital exercise pattern with eCoach guidance, reminders and self-paced progression
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A lesson/programme-level design in which learners follow a progressive strength-and-balance curriculum at home at their own pace and convenience, guided by animated eCoaches providing "instructions, guidance, safety information, automated reminders and in-app progress tracking". The structure was considered simple to follow, with clear and accessible audio and visual guidance, and some participants came to engage daily by the end of the programme. The pattern embeds behaviour change techniques within a self-directed digital setting.

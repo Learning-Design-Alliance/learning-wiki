@@ -12,6 +12,7 @@ generated:
 # Reflection on Student Learning
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q3` · 2 of 3 report an effect size
 
 ## Description
 This strategy positions the teacher as an active diagnostician of student understanding. Rather than teaching to completion and moving on, the teacher poses critical thinking questions, observes student responses, and reflects on what those responses reveal about each learner's comprehension and engagement. In mathematics contexts, this means looking for clarity of explanation, ability to apply concepts to real-world scenarios, and evidence of flexible, critical problem-solving — then using those observations to adjust instruction.

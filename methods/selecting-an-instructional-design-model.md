@@ -12,6 +12,7 @@ generated:
 # Selecting an Instructional Design Model
 
 > **Design Method** · [All design methods](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Dousay separates a **process** from a **model**. A process is the series of steps needed to reach an end result. A model is a specific instance of a process that can be imitated, personalising the generic steps for a particular context. In this framing ADDIE (analyse, design, develop, implement, evaluate) is the underlying process, present whichever model is used. A model's prescribed steps can be mapped back onto ADDIE's phases: PIE (plan, implement, evaluate) folds analysis, design and development into planning, and Diamond's model has two phases that split ADDIE differently.

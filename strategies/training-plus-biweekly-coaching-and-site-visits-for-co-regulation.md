@@ -17,6 +17,7 @@ sources:
 # Support facilitator uptake of co-regulation through in-person training plus biweekly coaching calls and classroom site visits
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The study's support model paired initial and refresher in-person trainings for facilitators and program administrators with ongoing coaching: "The study team also held biweekly coaching calls to provide ongoing support and troubleshooting and visited programs to observe facilitators using the strategies over the two semesters". Coaches helped sites plan where to use strategies in lessons, tailor them to context, and reflect on successes and challenges. Facilitators reported that planning, practicing, and time to think through implementation were the most helpful parts of the training.

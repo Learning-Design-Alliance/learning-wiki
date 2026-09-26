@@ -17,6 +17,7 @@ sources:
 # Teaching-research nexus with cross-disciplinary, cross-cultural team teaching
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Woolyungah's academics span several disciplines and use a team-teaching approach so students encounter a range of approaches to disciplinary and cross-disciplinary research. Staff research — on teacher education, Aboriginal Studies curricula, community arts, life writing, intercultural performance, cultural studies and Indigenous environmental management — is included in teaching to demonstrate the viability and integrity of Indigenous knowledges alongside Western knowledges, linking theory with real-world outcomes in an environment where competitiveness is not the primary focus.

@@ -16,6 +16,7 @@ sources:
 # Trial constructivism as the root of constructivism (Piaget's personal constructivism)
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article presents trial constructivism, attributed to von Glasersfeld's account of Piaget, as the origin of constructivism, also called personal constructivism. Its core is that the learner actively constructs knowledge rather than passively receiving it, contradicting transmission models. The authors note it leaves open how prior knowledge connects to the environment, calling these "the shortcomings of this rudimental of view."

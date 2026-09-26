@@ -16,6 +16,7 @@ sources:
 # Response likelihood as a measure of the reliability of the response actually given, computed from the 2PL IRT model
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article defines response likelihood L = π(θ)^s · (1−π(θ))^(1−s), where π is the 2PL IRT probability that an examinee of ability θ answers correctly and s is 1 for correct or 0 for incorrect. Unlike response accuracy, which ignores the actual response, "The response likelihood is a measure of reliability test taker's response for a given response model": low-likelihood responses are unlikely and may reflect low effort or aberrant behavior such as guessing. The framework rests on the assumption that all test takers use the same responding strategy for an item.

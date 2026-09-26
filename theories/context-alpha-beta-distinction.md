@@ -16,6 +16,7 @@ sources:
 # Wickens' Context Alpha and Context Beta distinction
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The chapter reviews Wickens' (1987) taxonomy distinguishing two types of context. Context Alpha refers to environmental surroundings that do not meaningfully relate to the event, such as the classroom in which students learn; Context Beta is "the situation in which one stimulus event combines with another stimulus event to define the correct response or meaning of the event." The chapter uses this distinction to probe what counts as a context for contextual diversity, but notes it confounds the unit of context with the content of context, and that distributional models treat incidental context as becoming meaningful context through accumulated cooccurrences.

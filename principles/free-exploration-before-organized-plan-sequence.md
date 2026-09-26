@@ -17,6 +17,7 @@ sources:
 # Sequence free exploration of problem situations before organized plan-based analysis, especially for female learners
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article concludes that "females benefited from free exploration of problem situations followed by an organized exploration": learners should first attempt word problems on their own, then work them again within an explicit step-by-step problem-solving plan. The authors suggest this ordering "could be used to as a guide to conducting instruction that could help to mediate gender-related differences in problem solving ability." It derives from the disordinal interaction in which females gained with the plan second and lost when the plan was withheld.

@@ -17,6 +17,7 @@ sources:
 # Include courses on critical thinking and philosophy of education in teacher training programs
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Based on the finding that critical thinking dispositions associate with contemporary educational philosophy preference, the authors recommend that teacher education programs offer courses on critical thinking and educational philosophy. They state that "The availability of courses related to critical thinking and educational philosophies will have a positive effect on prospective teachers' critical thinking dispositions" and that philosophy of education courses will help prospective teachers adopt contemporary philosophies, supporting constructivist curriculum implementation.

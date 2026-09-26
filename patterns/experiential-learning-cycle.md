@@ -28,6 +28,7 @@ grain_size: unit, course
 # Experiential Learning Cycle
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 8 claims (6 for, 1 mixed, 1 against) · 19 studies, `q2`–`q4` · 10 of 19 report an effect size · 1 claim rests on one study
 
 ## Description
 The experiential learning cycle organizes instruction as a repeating four-stage loop: a **concrete experience**, **reflective observation** on what happened, **abstract conceptualization** that names the principle behind it, and **active experimentation** that puts the principle back to work in a new situation. Kolb's formulation frames learning as "the process whereby knowledge is created through the transformation of experience" — experience alone is the raw material, and the remaining three stages are what convert it into knowledge that transfers. The pattern exists because doing something does not reliably teach anything: without a structured route from event to principle, learners generalize from surface features, keep tacit hunches tacit, or draw the wrong lesson entirely.

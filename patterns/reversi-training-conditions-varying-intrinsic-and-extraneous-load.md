@@ -17,6 +17,7 @@ sources:
 # Jointly varying intrinsic and extraneous load in a Reversi game to isolate germane load effects
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 This design pattern uses a computer-based Reversi game with three conditions crossing a display factor affecting extraneous load (Black and White vs. L and rL disc arrangements) with a hint factor affecting intrinsic load. Participants were "divided into three groups: 21 for the no hint and Black and White condition; 19 for the hint presentation and" the other conditions, totalling 61. Learning gains from pre- to post-test across identical, near-transfer, and far-transfer problem categories index germane load assigned during training games.

@@ -16,6 +16,7 @@ sources:
 # MacIntyre et al.'s willingness-to-communicate (WTC) model as a framework linking pronunciation and affective variables
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article uses the WTC model (MacIntyre et al., 1998) as its organizing framework, which takes into account the many variables present when initiating a communicative exchange in the L2. The model distinguishes situational and enduring variables, with L2 self-confidence comprising a cognitive evaluation of L2 abilities and anxiety; sufficient motivation and positive self-confidence produce state communicative self-confidence, leading to L2 use. Accessing pronunciation is treated as a resulting behavior of WTC and the decision to engage in communication with another speaker. The study's self-assessment categories (perceived performance, confidence, anxiety, desire to improve) map onto WTC model variables.

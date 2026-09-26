@@ -17,6 +17,7 @@ sources:
 # After-School Teacher Research Labs
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Study groups in which teacher-researchers and university-based researchers "discuss research findings, and to plan, develop, and support innovations in instruction". In the Tucson project they met every two weeks to analyze ethnographic field methods, share household observations, and mentor each other; classroom applications emerged from these sessions as ways to weave family knowledge into academic content.

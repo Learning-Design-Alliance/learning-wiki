@@ -16,6 +16,7 @@ sources:
 # Two hypotheses for the meaning of Spectral BKT's intermediate states: a stages-of-mastery account and a mastery-by-metacognition interaction account
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The authors state that "The interpretation of a new conceptualization of the process of learning remains an open question" and offer two hypotheses for the two unlabeled middle states. The first is a linear stages view: an early "too-specific" state where students guess and fail after few problems, followed by a "too-general" state where over-generalization still produces occasional slips. The second, drawing on Aleven et al.'s metacognitive tutoring work, treats the four states as the cross of binary skill mastery and binary effective use of metacognitive strategies (2 x 2 = 4 states).

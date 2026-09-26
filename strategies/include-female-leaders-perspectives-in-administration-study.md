@@ -17,6 +17,7 @@ sources:
 # Include female principals' care-based perspectives in the study and preparation of educational administrators
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article argues that as women increasingly enter administrative preparation programs and positions, their perspectives and practices must be included in the study of educational administration. It states that "Research with female principals and ethics can offer new perspectives on school leadership" enabling students, instructors, and practitioners a more comprehensive understanding of the field, and that attention should be given to non-traditional as well as traditional ethical stances when defining personal and professional ethical codes.

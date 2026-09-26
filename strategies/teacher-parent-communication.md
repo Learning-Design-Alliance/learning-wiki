@@ -12,6 +12,7 @@ generated:
 # Teacher Parent Communication
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Teacher parent communication encompasses the deliberate practices teachers use to exchange information with families — positive phone calls and texts, progress updates, conferences, newsletters, and digital messaging platforms. Effective communication is two-way and asset-based: teachers share specific evidence of learning and solicit family knowledge, rather than contacting parents only when problems arise.

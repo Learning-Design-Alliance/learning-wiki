@@ -12,6 +12,7 @@ generated:
 # Use Rubrics And Exemplars
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 against) · 9 studies, `q2`–`q4` · 3 of 9 report an effect size
 
 ## Description
 This strategy pairs an explicit rubric — a breakdown of the criteria and performance levels used to judge a task — with one or more exemplars: annotated samples of work at defined quality levels. Learners study the exemplars against the rubric before (and often during) their own production, so evaluation criteria are transparent rather than implicit. The combination works because each component supplies what the other lacks: the rubric gives the abstract criteria, the exemplars give the concrete instantiation.

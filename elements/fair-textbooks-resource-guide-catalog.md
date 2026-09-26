@@ -17,6 +17,7 @@ sources:
 # Fair Textbooks: A Resource Guide, a centralized catalog of bias-free education resources
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Fair Textbooks: A Resource Guide is a U.S. Commission on Civil Rights clearinghouse publication that catalogs resources designed to promote fairness in public school education. It is organized into four parts: Material Resources (research, special issues, textbook evaluation instruments, nonprint materials, resource lists, bibliographies), Procedural Resources (textbook, curriculum, and administrative guidelines and state statutes), Directories (publishers and state education departments), and Organizational Resources (organizations and conferences). The guide was compiled because "Lack of access to in- formation about these available reSources creates.a barrier to their full utilization"; it lists resources without evaluating or endorsing them.

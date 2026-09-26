@@ -17,6 +17,7 @@ sources:
 # Evaluating drafts, peer critiques and collaborative exercises alongside finished writing
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The final recommendation is to consider alternate ways of evaluating student writing. Besides grading finished texts, and not on a quantifiable scale, teachers "might evaluate all of the drafts for those texts", the peer critiques students prepare for one another, readings of early and final versions, and the preparatory collaborative exercises.

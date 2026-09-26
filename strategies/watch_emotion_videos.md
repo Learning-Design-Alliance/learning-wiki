@@ -12,6 +12,7 @@ generated:
 # Watch Emotion Videos
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 against) · 2 studies, `q3`–`q4` · 1 of 2 report an effect size
 
 ## Description
 The teacher shares a short video that names and explains "big emotions" (anger, anxiety, frustration, excitement) and models simple regulation strategies. Video serves as a [Demonstration](../elements/demonstration.md) of emotional vocabulary and coping steps, followed by a structured debrief in which students connect the content to their own emotional experiences and rehearse the regulation steps.

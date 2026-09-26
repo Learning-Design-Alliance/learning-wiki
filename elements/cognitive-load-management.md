@@ -12,6 +12,7 @@ generated:
 # Cognitive Load Management
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Cognitive load management is the element in which instruction is designed to reduce unnecessary processing and preserve effort for learning-relevant work.

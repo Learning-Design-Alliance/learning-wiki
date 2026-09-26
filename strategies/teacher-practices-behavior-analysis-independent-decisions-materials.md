@@ -17,6 +17,7 @@ sources:
 # Teacher practices of behavior analysis, encouraging independent decisions, and providing easy-to-use EF materials
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The guidelines direct teachers to plan learning activities by analyzing children's assessment results and context, to encourage children to think and make decisions independently and to encourage them when mistakes occur, and to provide easy-to-use, adaptable teaching materials with clear steps that promote EF development. Teachers rated these approaches suitable and feasible, though creating new environments is limited by teachers' heavy workload.

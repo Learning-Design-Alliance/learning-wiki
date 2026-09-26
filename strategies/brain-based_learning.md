@@ -12,6 +12,7 @@ generated:
 # Brain-Based Learning
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 10 studies, `q3`–`q4` · 10 of 10 report an effect size
 
 ## Description
 Brain-based learning (BBL) proposes that instruction should be organized around how "the brain learns": presenting content in small chunks, engaging multiple senses, embedding movement and social activity, and building in processing time. It originated with Caine and Caine's (1991) principles for "brain-compatible" teaching. In practice it overlaps heavily with well-established instructional techniques — chunking, multisensory presentation, active learning — but its distinctive claims about neuroscience are frequently unsupported. Critics argue BBL as a distinct framework is largely a bridge from brain science to classrooms that has not yet been built [Bruer's "bridge too far" argument](https://doi.org/10.3102/0013189X026008004) [-M].

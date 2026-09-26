@@ -12,6 +12,7 @@ generated:
 # Maintain Presence for Students
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size
 
 ## Description
 Teachers make themselves available for short, informal conversations with students before school, after school, and between classes, and they visibly participate in the hard work of the classroom rather than standing apart from it. Presence here is both physical (being reachable) and relational (students believe the teacher will respond with respect when approached). The strategy converts availability into trust, which in turn makes it possible to address difficult moments — including harmful language — without escalating them.

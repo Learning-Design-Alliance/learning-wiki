@@ -16,6 +16,7 @@ sources:
 # Kolb's four-stage experiential learning model and its four learning style categories
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The review describes Kolb's experiential learning model, in which "learning theoretically is undertaken on the basis of a four-stage cycle": Concrete Experience, Reflective Observation, Abstract Conceptualization and Active Experimentation. Crossing two dimensions (concrete experience versus abstract conceptualization; active experimentation versus reflective observation) yields four learning style categories — Convergence, Divergence, Assimilation and Accommodation — each with two dominant abilities. Kolb's Learning Styles Inventory contained nine items of four words each, ranked by the subject.

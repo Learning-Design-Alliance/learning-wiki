@@ -12,6 +12,7 @@ generated:
 # Leveraging Strengths for Emotional Regulation
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
 
 ## Description
 This strategy identifies what a student already does well — persistence, humor, social connection, focused interests, physical activity preferences — and uses those strengths as entry points for building emotional regulation. Rather than remediating deficits directly, the educator frames regulation challenges through the student's competencies: a socially strong student co-regulates with a partner, a routine-loving student gets predictable structures, a kinesthetically inclined student gets movement-based calming options. The approach draws on positive psychology's strengths-use research and on emotion regulation theory, in which regulation success depends on matching strategies to the person and situation [Gross's process model shows strategy fit matters more than strategy type.](https://doi.org/10.1080/1047840X.2014.940781) [+M].

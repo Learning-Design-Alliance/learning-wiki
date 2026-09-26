@@ -17,6 +17,7 @@ sources:
 # CLASP (Connecting Libraries and Schools Project)
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 CLASP was a three-year, $3.6 million pilot program initiated in 1991 by the DeWitt Wallace-Reader's Digest Fund to promote collaborative programs among the New York Public Library, New York City public schools, and neighborhood organizations. A total of 107 schools from three NYC school districts and 23 branch libraries were involved. Typical activities included parent workshops, class visits, craft programs, and summer reading clubs. CLASP also purchased 60,928 items to supplement branch collections and issued mini-grants to teachers for special projects.

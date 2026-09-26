@@ -16,6 +16,7 @@ sources:
 # Video-based lesson-debrief cycles with teacher teams in schools
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Within a research-practice partnership with a professional development organization for secondary mathematics teachers, the team designed "a system for video-based feedback on teachers' instruction," facilitating and filming 33 cycles of classroom observation followed by lesson-debrief conversations with teacher teams in their schools, organized around videos of teachers' classrooms. The stated primary goal was to use classroom video to elicit, engage, and develop secondary math teachers' pedagogical judgment.

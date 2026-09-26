@@ -12,6 +12,7 @@ generated:
 # Ball Toss Game
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 against) · 10 studies, `q3`–`q4` · 10 of 10 report an effect size
 
 ## Description
 The Ball Toss Game is an embodied-learning activity in which learners throw or catch a ball while simultaneously performing a cognitive task — counting tosses, naming items in a category, retrieving math facts, or spelling words. The motor act of tossing serves as a rhythmic, attention-capturing scaffold for verbal or numerical content, and the game format converts drill into social play. It is typically used in early-childhood and elementary settings, in physical education integration, and in intervention contexts for learners who benefit from movement-based instruction.

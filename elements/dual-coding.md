@@ -12,6 +12,7 @@ generated:
 # Dual Coding
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Dual coding is the element in which verbal and visual representations are used together to support understanding and memory.

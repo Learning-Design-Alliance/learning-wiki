@@ -17,6 +17,7 @@ sources:
 # Use open-ended reflection questions as self-assessment in place of end-of-unit tests
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper recommends reflection as a powerful self-assessment tool usable for formal summative purposes. "Instead of having students take a test at the end of a unit, a teacher could have the students spend time on open-ended reflection questions that provide the teacher insight on both the conceptual and procedural objectives of the project." Reflections should always include questions about thought process and group interaction, and students should explain how they used the engineering design process.

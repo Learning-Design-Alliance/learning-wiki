@@ -12,6 +12,7 @@ generated:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (1 for, 2 mixed) · 9 studies, `q3`–`q4` · 9 of 9 report an effect size
 
 ## Description
 Flipped learning is the principle of shifting initial content exposure outside class so that live time can be used for application, coaching, and discussion.

@@ -12,6 +12,7 @@ generated:
 # Shoeless Learning Spaces
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3` · 0 of 2 report an effect size
 
 ## Description
 A shoeless learning space asks learners to remove outdoor shoes at the entrance, often paired with soft flooring, rugs, cushions, and flexible seating. The practice borrows norms from homes and some cultures (e.g., Scandinavian and Japanese settings) to signal that the classroom is a comfortable, communal place rather than an institutional one. It is typically championed as part of a broader redesign of learning environments toward informality and learner ownership.

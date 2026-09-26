@@ -17,6 +17,7 @@ sources:
 # Invest in successful PLCs and apply teacher-metacognition findings to pre-service and in-service teacher education
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article concludes that because the opportunity to learn how to be metacognitive is influenced by learning environments, the PLC may encourage the development of higher order thinking and metacognition as well as professional development. It argues that policy-makers and educational leaders should "invest the time and dollars necessary to make successful PLCs an experience for all teachers", and that findings on teacher metacognition should be applied to teacher education with increased emphasis on thinking over memorization.

@@ -12,6 +12,7 @@ generated:
 # Collaborative Margin Comments
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies, `q3`–`q4` · 3 of 4 report an effect size
 
 ## Description
 Collaborative margin comments involve using collaborative document platforms (Google Docs, Microsoft Word Online, Hypothesis) to provide feedback anchored to specific passages of a document. Instructors and peers add comments, suggestions, and questions in the margin, tying each piece of feedback to the exact text it concerns and enabling iterative revision and dialogue in place.

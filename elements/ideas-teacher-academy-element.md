@@ -17,6 +17,7 @@ sources:
 # IDEAS teacher academy: a 4-day NASA web-resource integration academy with multi-year follow-up support
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The Initiative to Develop Education through Astronomy and Space Science (IDEAS) project aimed to help K-12 educators develop computer technology integration skills and integrate NASA space science and astronomy web resources into classrooms. The article reports that "a teacher academy was developed to (1) immerse educators in astronomy topics, (2) expose teachers to NASA space science and astronomy web resources, (3) train teachers in computer technology integration techniques, (4) help teachers develop strategies to reduce barriers for computer use, and (5) provide teachers with time to create lessons." The 4-day academy was followed by two years of observation and follow-up support for the first cohort and one year for the second.

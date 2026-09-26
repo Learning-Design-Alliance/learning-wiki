@@ -17,6 +17,7 @@ sources:
 # Use a Letter to the Reviewer reflective memo submitted with each draft
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A Letter to the Reviewer is a short reflective note or memo submitted with each draft in which students pinpoint both the strengths and weaknesses of their paper and request specific feedback that, from their perspective, would improve the draft. The author reports that students participate more actively and agentively in collaborative revision, become more reflective readers, and better recognize the relationship between classroom instruction and their own writing.

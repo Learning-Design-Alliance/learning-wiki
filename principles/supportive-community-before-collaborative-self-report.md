@@ -17,6 +17,7 @@ sources:
 # Establish a supportive, anonymous, non-evaluative professional community before using collaborative self-report adoption data
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that before asking participants to use a self-reporting, self-reflective tool like the LoA, facilitators should create a supportive, collaborative, intellectually and emotionally secure professional community, ensure anonymity, and stress that the tool informs programs rather than evaluates people. Stems and responses should be "clear, well‐articulated, appropriate, non‐judgmental, and non‐evaluative", and no status should attach to high reported levels.

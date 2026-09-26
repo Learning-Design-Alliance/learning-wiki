@@ -343,7 +343,8 @@ def main():
     # commit that adds or renames it.
     import subprocess, sys as _sys
     print()
-    for generated in ("build_reverse_index.py", "build_wiki_index.py"):
+    # evidence.md is the third: its tables count the claims and their citations.
+    for generated in ("build_reverse_index.py", "build_wiki_index.py", "build_evidence_report.py"):
         subprocess.run([_sys.executable, str(Path(__file__).parent / generated)],
                        cwd=str(WIKI_ROOT))
 

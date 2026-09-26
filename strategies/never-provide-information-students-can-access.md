@@ -17,6 +17,7 @@ sources:
 # Implement connectivism in K-12 classrooms by never providing information students can access themselves
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The survey reports Rice's (2018) five strategies for implementing connectivism in traditional K-12 classrooms, including "never providing information that students can access themselves". The author notes this strategy pushes connectivism toward the model of discovery learning rather than network learning. The strategy treats the teacher's role as curating connections rather than transmitting content, consistent with connectivist principles of autonomy and interactivity.

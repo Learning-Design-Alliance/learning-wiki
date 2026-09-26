@@ -17,6 +17,7 @@ sources:
 # ARCS attention strategies: perceptual arousal, inquiry arousal and variability
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Attention is the first ARCS component, described as strategies "for arousing and sustaining curiosity and interest". The digest lists three sub-components: perceptual arousal (provide novelty, surprise, incongruity or uncertainty), inquiry arousal (stimulate curiosity by posing questions or problems to solve), and variability (a range of methods and media to meet students' varying needs), each with a teacher example.

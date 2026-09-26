@@ -12,6 +12,7 @@ generated:
 # One-Sentence Response
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size
 
 ## Description
 When instructors ask a question, rather than having students raise hands, every learner writes a one-sentence answer. The constraint of a single sentence forces learners to distill their understanding to its essence, while the universal-response format replaces voluntary hand-raising with all-student engagement. Responses can be collected on paper, whiteboards, or digital platforms and used to surface misconceptions before whole-class discussion.

@@ -17,6 +17,7 @@ sources:
 # Outside specialists should train tribal personnel on the job by working alongside them on real projects rather than delivering one-time reports
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The evaluation recommends replacing the traditional model in which an outside specialist studies a problem, writes a report, and leaves. Instead, it states, "EDA should provide a program of training and technical assist- ance under which outside specialists work along with tribal development personnel on projects and, in effect, train them on the job." The report treats this work-based pairing as the way technical assistance can build lasting local capability.

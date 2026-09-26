@@ -17,6 +17,7 @@ sources:
 # Type 1 model competency test: a largely traditional paper-and-pencil assessment with scoring guide and teacher notes
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The Type 1 instrument is a paper-and-pencil test of the grade's critical objectives; the first-grade version states "This model competency test has a largely traditional design." It contains 16 items, most worth one point, with multi-part items worth more. It is untimed, read aloud item by item, and accompanied by a scoring guide, teacher notes per item, an answer-information sheet mapping items to objectives, and suggestions for interpreting error patterns.

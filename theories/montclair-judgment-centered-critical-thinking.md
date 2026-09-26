@@ -16,6 +16,7 @@ sources:
 # Montclair conception of critical thinking as judgment supported by disciplinary canons
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The Institute for Critical Thinking at Montclair State College defines critical thinking through its concern with judgment: students should see course content within a nexus of justification and application, learning content in relation to the methodological and substantive principles that make it justifiable. The editors state that 'critical thinking constitutes the ability and willingness to identify and apply the set of principles that support judgment through the best available reasons,' with those reasons typically found in the canons of the disciplines. The account builds on the editors' attribution to Matthew Lipman of an analysis in which critical thinking rests on criteria for judgment applied with sensitivity to context and a commitment to self-correction.

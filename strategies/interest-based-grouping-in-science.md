@@ -17,6 +17,7 @@ sources:
 # Form Interest Groups and Strengths-Based Groups in Science
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Interest groups can work well in science teaching 'if learners perceive value in participating in a given activity', wish to use individual talents, and persevere in making a success of collaborative endeavors. The digest also states that groups should not be formed based on needs only: highly talented or gifted science pupils should be grouped and given a challenging science curriculum.

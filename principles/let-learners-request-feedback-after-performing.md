@@ -17,6 +17,7 @@ sources:
 # Let learners decide on feedback after performing, not before
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (3 for, 1 against) · 1 study, `q3` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 When learners control their knowledge-of-results (KR) schedule, the article finds the benefit depends on when they decide: "the critical factor for increased learning appears to be the opportunity to decide after motor execution whether they want KR." The authors suggest a post-trial decision lets the learner request KR when comparing perceived and actual error would maximize its informational value.

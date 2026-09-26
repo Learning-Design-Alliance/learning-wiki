@@ -17,6 +17,7 @@ sources:
 # CAPS: a LISP-based collaborative activation-based production system for concurrent processing of hypotheses at multiple levels
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 CAPS (Collaborative Activation-based Production System) is the LISP interpreter Thibadeau built to implement the READER model of reading. Its fundamental processing units are productions, independent condition-action rules; its data objects are node-relation-node propositions with activation levels representing confidence. Productions fire on every cycle while their conditions hold, transmitting activation as a proportion of an evoking proposition's activation, and actions like <REWEIGHT> let the system modify activation flow rates and acceptance thresholds. The paper presents it as "a very general 'processinglanguageforimplementing a large Class of models based on a tommon theoretical'framework."

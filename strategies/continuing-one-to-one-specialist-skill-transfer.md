@@ -17,6 +17,7 @@ sources:
 # Establish continuing one-to-one specialist relationships so expert skills transfer to the tribe
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A specific implementable recipe for skill transfer: the report recommends that "Sound and capable individuals should be employed under technical assistance contracts to develop a continuing one-to-one rela- tionship with tribal development personnel as they work together on viable projects, and the skills and experience of the expert are transferred to the tribe." Continuity of the same specialist with the same reservation over a substantial period is presented as essential to the transfer.

@@ -12,6 +12,7 @@ generated:
 # Multiple Modalities for Perceiving Information
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (1 for, 2 against) · 8 studies, `q2`–`q4` · 3 of 8 report an effect size
 
 ## Description
 Presenting information in more than one sensory format — text, audio, video, diagrams, animations, simulations, or interactive models — so learners can access content through the channel best suited to the material, the task, and their abilities. The goal is not decoration or preference-matching but complementary representation: each modality should carry part of the meaning or make the same meaning accessible in a different way.

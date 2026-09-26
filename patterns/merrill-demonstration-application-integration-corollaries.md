@@ -17,6 +17,7 @@ sources:
 # Demonstration, application, and integration corollaries of Merrill's framework
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The digest enumerates the supporting generalizations for Merrill's remaining phases. Demonstration requires showing rather than merely telling, with demonstrations consistent with the learning goal, appropriate learner guidance, and relevant media that do not compete for attention. Application requires practice consistent with objectives, coaching that is gradually withdrawn, and a sequence of varied problems. Integration holds that "Learning is promoted when learners are encouraged to integrate (transfer) the new knowledge or skill into their everyday life", with corollaries of public demonstration, reflection, and creation.

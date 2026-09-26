@@ -17,6 +17,7 @@ sources:
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 7 claims (3 for, 4 mixed) · 12 studies, `q1`–`q4` · 12 of 12 report an effect size · 4 claims rest on one study
 
 ## Description
 Collaborative learning is the principle of designing tasks so learners build understanding through shared work, dialogue, and interdependence rather than isolated effort alone.

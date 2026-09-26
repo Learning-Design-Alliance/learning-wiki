@@ -17,6 +17,7 @@ sources:
 # Imbedded Aids: textbook redesign placing teacher-like assistance in the text
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A proposed major modification summarized as "to put a teacher in every textbook who is willing and able to provide assistance as the need arises", achieved through textbook redesign containing "'Imbedded Aids' (Manzo, 1974) to readers". The article reports research is still underway and that "current prototypes and early data suggest that 'Imbedded Aids' are feasible and practicable", with fuller description deferred to a tandem article in preparation.

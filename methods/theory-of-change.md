@@ -12,6 +12,7 @@ generated:
 # Theory of Change
 
 > **Design Method** · [All design methods](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A Theory of Change works backward from a long-term outcome, asking at each step what else would have to be true for the next step to follow. The answers divide into two kinds: **preconditions the design can produce**, which become its own chain of intended effects, and **assumptions it depends on and does not control** — a supportive manager, a policy that permits the new practice, a labour market that rewards the credential. Both are written down, and the second kind is what distinguishes the method from a [Logic Model](logic-model.md).

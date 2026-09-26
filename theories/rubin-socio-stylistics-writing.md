@@ -16,6 +16,7 @@ sources:
 # Rubin's socio-stylistics of writing: style as both a function of individual identity and the social matrix
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Socio-stylistics of writing is Donald Rubin's concept, introduced in Composing Social Identity in Written Language, holding that "style is at once a function of the writer's idiosyncratic identity, and at the same time a function of the social matrix in which the writing and the writer are embedded." Pace uses it as a theory for treating style not as a reductive, mechanistic tool but as a component of critical pedagogy, inviting students to see individual writing as part of a larger social community. It connects to Berthoff's account of composing as forming understanding through language.

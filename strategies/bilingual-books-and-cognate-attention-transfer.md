@@ -17,6 +17,7 @@ sources:
 # Use bilingual literacy projects and cross-language comparison (bilingual books, cognates) to foster transfer between languages
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 To work for transfer of conceptual knowledge and language awareness across a student's two languages, Cummins recommends concrete activities: have grade 1 and 2 students write, illustrate, and publish bilingual books, and draw students' attention to cognates and examples of powerful language use in both oral and written modes. The premise is that the languages enrich each other if taught appropriately, consistent with the common underlying proficiency.

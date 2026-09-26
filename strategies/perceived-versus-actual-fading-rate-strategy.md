@@ -17,6 +17,7 @@ sources:
 # Regulate fading rate per learner, distinguishing perceived fading rate (teacher-set) from actual fading rate (child-set)
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper recommends that learning support be regulated by the teacher from a centralized point using the scaffolding regulator, gradually fading support as learners complete tasks. It cites that "The rate of fading depends upon the child’s level of development and competence" and that a teacher fades when the level and/or amount of support decreases over time. Fading rates are categorized into distinct groups, with slower-fading learners classed as non-expert peers and faster-fading learners as the expert group. The fading decision can be made by the teacher (Perceived Fading Rate) or the child (Actual Fading Rate), from which a child's learning rate can be extrapolated.

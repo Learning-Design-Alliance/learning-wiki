@@ -12,6 +12,7 @@ generated:
 # Perspective-Taking
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 3 of 4 report an effect size
 
 ## Description
 Perspective-taking asks learners to adopt, articulate, and reason from viewpoints other than their own — historical actors, stakeholders in a policy dispute, or holders of opposing positions on a controversy. It functions both as a social-affective goal (empathy, reduced stereotyping) and a cognitive one (flexible, multi-angle understanding of contested content).

@@ -17,6 +17,7 @@ sources:
 # JavaScript with the d3.js library as a web-native module-development technology
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 JavaScript is an interpreted scripting language whose functionality "will be familiar to users of other scripting languages popular among graduate student researchers, such as Python." The d3.js library ("Data Driven Documents") supports display of scientific data in formats from line plots and bar charts to network graph browsers and map projections. Scores of example pages with full source code and data files serve as templates for student module development.

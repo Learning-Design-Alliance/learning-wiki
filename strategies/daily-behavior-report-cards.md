@@ -12,6 +12,7 @@ generated:
 # Daily Behavior Report Cards
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q3` · 2 of 3 report an effect size
 
 ## Description
 A Daily Behavior Report Card (DBRC) is a lightweight, individualized rating form on which a teacher records a student's performance on 2–4 specific behavior targets each day (e.g., "kept hands to feet to self," "completed 80% of work"). The card is shared with the student, typically tied to reinforcement or goal-setting, and sent home so parents can review and reinforce it. DBRCs function simultaneously as progress monitoring, feedback, and a home–school communication bridge.

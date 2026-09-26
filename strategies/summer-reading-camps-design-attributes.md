@@ -17,6 +17,7 @@ sources:
 # Run summer reading camps with the attributes of high-gain summer learning programs
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The toolkit recommends providing summer reading camps or approved innovative summer programs to all rising 1st–4th graders struggling in reading or facing retention. It lists the attributes of programs producing "the greatest gains": regular attendance, individualized instruction, smaller class sizes, parent involvement, highly effective instructors, aligned school-year and summer curricula, and tracking of effectiveness.

@@ -17,6 +17,7 @@ sources:
 # Maximize Learning Rate When Calibrating Leitner Review Schedules
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article proposes the maximum speed of learning as the design target for spaced repetition software: its formalization "suggests the maximum speed of learning as a natural design metric for spaced rep- etition software". Deck review rates and the new-item rate are calibrated with a queueing-theory program rather than heuristics, and the new-item rate should stay below the phase-transition threshold.

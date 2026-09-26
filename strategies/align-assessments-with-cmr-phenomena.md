@@ -17,6 +17,7 @@ sources:
 # Incorporate assessment questions that elicit causal mechanistic reasoning through phenomena, scaffolded but not over-probed
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends aligning assessments with instruction by including free-response exam questions that ask for molecular-level explanations of observed phenomena, similar to the study's prompts, since assessments signal importance to students. It states "we also recommend incorporating questions that elicit causal mechanistic reasoning through phenomena on assessments, similar to the prompts used in this study." Scaffolding questions can diminish cognitive load, but instructors should avoid too much scaffolding so students can think causal mechanistically without excessive probing.

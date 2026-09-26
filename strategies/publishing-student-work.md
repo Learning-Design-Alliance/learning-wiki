@@ -12,6 +12,7 @@ generated:
 # Publishing Student Work
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 8 studies, `q2`–`q4` · 4 of 8 report an effect size
 
 ## Description
 Publishing student work means arranging for learners' finished products to reach an audience beyond the grading relationship — classmates, other classes, families, school communities, or the public. It converts assignments from private performances evaluated by an authority into communications with genuine purpose, which raises the stakes for quality and gives students a reason to revise.

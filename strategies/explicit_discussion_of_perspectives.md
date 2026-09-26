@@ -12,6 +12,7 @@ generated:
 # Explicit Discussion of Perspectives
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 3 of 4 report an effect size
 
 ## Description
 The instructor deliberately surfaces, names, and compares multiple perspectives on a contested or multi-faceted topic — including perspectives students do not hold — and structures discussion so learners must articulate, evaluate, and respond to viewpoints other than their own. The strategy goes beyond open discussion: the instructor makes the existence of alternative framings explicit and models how to characterize a position fairly before critiquing it.

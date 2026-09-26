@@ -12,6 +12,7 @@ generated:
 # Use Formative Feedback
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q3` · 2 of 3 report an effect size
 
 ## Description
 Formative feedback is information delivered to learners about the quality of their current understanding or performance, intended to be *used* to close the gap between present and desired performance. It is carried out through low-stakes tasks, quick checks, drafts, and targeted comments — with explicit opportunities for learners to revise or act on the information before summative assessment.

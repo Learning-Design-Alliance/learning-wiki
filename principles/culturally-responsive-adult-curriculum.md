@@ -17,6 +17,7 @@ sources:
 # Incorporate adult learners' cultural knowledge into curriculum to foster an inclusive, democratic learning environment
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that adult education curriculum be flexible and reflect the class description, allowing "growth, individuality, creativity and critical thinking." Because adult classrooms are situated within systems of power such as class, race, and gender, curriculum developers should "incorporate the cultural knowledge of adult learners so as not to marginalize them from the subject matter," fostering inclusion and democracy.

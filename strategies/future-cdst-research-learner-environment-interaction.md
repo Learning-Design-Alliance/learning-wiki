@@ -17,6 +17,7 @@ sources:
 # Future CDST research should examine learner-environment interactions and define systems on a principled basis
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends that future research address the gaps it identifies: exploring how internal and external resources interact as "the learner changes, the environment changes, and so does their interaction", and grounding system definitions in "principled reasoning and an organic basis" rather than researchers' varying conceptions. It suggests moving beyond narrow focus on learner language measures toward a complete picture of learner, time, and environment.

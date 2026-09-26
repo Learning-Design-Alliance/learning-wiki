@@ -12,6 +12,7 @@ generated:
 # Rhetorical Skill Development
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (3 unmarked) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size
 
 ## Description
 Rhetorical skill development is the principle of helping learners craft arguments, communicate persuasively, respond to audiences, and use language strategically for effect. It is useful when learning goals include persuasion, rebuttal, explanation, or public argument.

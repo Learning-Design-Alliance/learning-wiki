@@ -12,6 +12,7 @@ generated:
 # Self-Determined Learning Model of Instruction
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
 
 ## Description
 The Self-Determined Learning Model of Instruction (SDLMI) is a teaching model in which the student, not the teacher, sets the learning goal. The teacher acts as coach, guiding the student through three phases — set a goal, take action, adjust goal or plan — each containing a student question, teacher supports, and an educational action. The model operationalizes [Self-Determination Theory](../theories/self-determination-theory.md) and self-regulated learning research into a repeatable instructional cycle [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S].

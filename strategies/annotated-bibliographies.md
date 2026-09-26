@@ -12,6 +12,7 @@ generated:
 # Annotated Bibliographies
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 11 studies, `q2`–`q4` · 3 of 11 report an effect size
 
 ## Description
 An annotated bibliography asks learners to gather sources on a topic and, for each one, produce a short written annotation — typically a summary of the source's argument, an evaluation of its credibility and method, and a statement of how it fits the learner's project. The annotation transforms a passive reference list into an act of generative processing: learners must comprehend, condense, and judge each source rather than merely locate it.

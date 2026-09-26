@@ -17,6 +17,7 @@ sources:
 # Add instructional strategies such as worked examples to commercial off-the-shelf games used for training
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The authors conclude that game play alone can be supplemented with instruction: providing worked examples "could enhance the training effectiveness with commercial off-the-shelf computer games." They present the study as providing design principles to promote learning from such games, while noting that the validity of this approach still needs evaluation in future studies.

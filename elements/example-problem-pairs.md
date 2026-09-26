@@ -12,6 +12,7 @@ generated:
 # Example Problem Pairs
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies, `q3` · 3 of 3 report an effect size · 2 claims rest on one study
 
 ## Description
 An example problem pair pairs a fully worked example with a structurally identical (isomorphic) problem that the learner must solve immediately afterward. The learner studies the expert solution, then applies the same procedure to a near-transfer task, alternating example study and problem solving across a sequence.

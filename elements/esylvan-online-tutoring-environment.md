@@ -17,6 +17,7 @@ sources:
 # eSylvan: an early online tutoring environment deliberately incorporating Bandura's four steps
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 eSylvan was a 2001 online learning environment that transformed the Sylvan Learning Center tutoring curriculum for reading, writing and math into an Internet offering. Groups of three or more students joined a teacher-led session using voice-over-IP headsets, digital pencils and writing pads, and a shared online whiteboard with voice conferencing. The paper describes it as "an early effort to create an online learning environment that deliberately incorporated Bandura's four steps."

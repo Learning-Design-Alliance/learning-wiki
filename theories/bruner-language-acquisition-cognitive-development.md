@@ -16,6 +16,7 @@ sources:
 # Bruner's account: language acquisition as necessity for thinking and the highest levels of cognitive development
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article presents Jerome Bruner's (1983) cognitive-developmental account, in which first language acquisition is primed by knowledge of the world and a push to communicate, not acquired abstractly. Bruner concludes that "the need to use language fully as an instrument for participating in a complex culture .... is what provides the engine for language acquisition." The article adds that for Bruner, language acquisition is a necessity for thinking, empowerment, and achieving the ultimate stage of cognitive development.

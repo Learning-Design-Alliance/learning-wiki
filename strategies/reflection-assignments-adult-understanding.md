@@ -17,6 +17,7 @@ sources:
 # Use reflection assignments to check adult learners' understanding and participation change
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends that the educator ensure students display understanding during and at the end of a class session, and proposes reflection assignments as the mechanism: "Reflection assignments are a good way to determine if a student has learned anything in the class in addition to the change in behavior toward class participation." It pairs this with the learner's responsibility to participate and listen open-mindedly.

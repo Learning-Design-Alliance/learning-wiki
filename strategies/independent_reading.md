@@ -12,6 +12,7 @@ generated:
 # Independent Reading
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 9 studies, `q1`–`q4` · 9 of 9 report an effect size
 
 ## Description
 Independent reading involves students selecting and reading books on their own, within their reading level and interests. It provides opportunities to practice reading strategies, develop reading interests, and improve fluency, comprehension, and vocabulary. Effective implementation includes a classroom library with a diverse collection, explicit instruction on selecting and caring for books, regular dedicated reading time, and individual conferences.

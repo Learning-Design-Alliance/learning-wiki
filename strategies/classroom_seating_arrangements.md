@@ -12,6 +12,7 @@ generated:
 # Classroom Seating Arrangements
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q3` · 2 of 3 report an effect size
 
 ## Description
 Classroom seating arrangement is the deliberate configuration of desks, tables, chairs, or virtual layout (gallery view, breakout rooms) to shape communication patterns, attention, and on-task behavior. Common configurations include rows, horseshoes/U-shapes, cluster pods, and flexible seating. The core principle is alignment: rows support teacher-focused instruction and independent work, while clusters and horseshoes support discussion and collaboration. Because arrangement changes who can see, hear, and interact with whom, it functions as a low-cost, high-leverage environmental lever on engagement.

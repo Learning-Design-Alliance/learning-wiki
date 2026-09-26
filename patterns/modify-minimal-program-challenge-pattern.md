@@ -17,6 +17,7 @@ sources:
 # Challenge-by-modification pattern: learners modify a minimal working program to test their own model
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The QRC's instructional pattern is a minimal, transparent computer realization of an experiment that learners modify to embody their own favored model. The article states "Any directly real model whatever needs modification of only three lines of the code", covering hidden-variable construction and the measurement parts, while the random angle choice stays unaltered. Because any directly real model can in principle be realized on classical computers, modification is trivial, so the difficulty lies in the physics, not the programming.

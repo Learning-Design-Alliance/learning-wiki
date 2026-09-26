@@ -12,6 +12,7 @@ generated:
 # Feeling Face Snack Time
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Learners draw a "feeling face" card depicting an emotion (happy, frustrated, surprised, worried) and, while eating a shared snack, show the matching facial expression and body posture. The facilitator names each emotion, invites brief imitation, and prompts short conversations about when learners have felt that way. Embedding the activity in a familiar, low-stakes routine connects emotional vocabulary to physical experience and peer interaction.

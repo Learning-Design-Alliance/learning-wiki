@@ -17,6 +17,7 @@ sources:
 # Combine resources across guide sections for the most fruitful results
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The guide's concluding comments urge users to employ both a critical and a creative approach and to combine resources from different sections. For example, "The textbook guidekv jrom Section 7) can be apPIied tcrthe-resources (from Sec- tiansand 6) by all persons who wish'to determine the exte'nt of sex, race/ethnict and social fairness in their childrens' books." Other suggested combinations include comparing state statutes across all 50 states for a national perspective, comparing a state's procedures with administrative guidelines, applying research content analyses to curriculum guidelines and publisher catalogs, and contacting publishers and state departments via the directories.

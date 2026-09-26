@@ -17,6 +17,7 @@ sources:
 # Design guidance lessons that give adolescents practice in planning, anticipating consequences, and regulating behavior, and avoid scare tactics and lecturing
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Because maturing prefrontal abilities such as planning, weighing risk and reward, and controlling impulses strengthen with practice, the review recommends guidance lessons that "provide teens with opportunities to practice skills such as planning, anticipating consequences, and regulating their own behavior." It explicitly discourages "scare tactics, lecturing, and other traditional tactics" as disregarding brain-based strategies. Counselors deliver this through collaborative classroom guidance infused into the regular curriculum.

@@ -17,6 +17,7 @@ sources:
 # Use jigsaw-style sharing so every student is responsible for all the material
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 After teams reproduce another team's image, decoded drawings are returned and each team splits up, sending one member to each facilitator to share results with one-third of the class. The article states this sharing format "ensured that each student was responsible for all the material." Students make posters stating their science goal, describing their encoding tradeoffs, displaying the resulting drawing, and reflecting on the investigation.

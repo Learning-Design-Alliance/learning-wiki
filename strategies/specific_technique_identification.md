@@ -12,6 +12,7 @@ generated:
 # Specific Technique Identification
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (1 for, 2 mixed) · 8 studies, `q3`–`q4` · 7 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 Specific Technique Identification directs learners' attention to particular features of a text — naming the exact word, sentence, or line where a technique appears — and explains its significance, rather than leaving learners to discover techniques unaided. Questions that quote the text or cite line numbers make the task concrete and accessible. The strategy converts an open-ended "analyze this passage" prompt into a guided search with a known target.

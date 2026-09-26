@@ -12,6 +12,7 @@ generated:
 # Preliminary Data Collection
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q2`–`q3` · 0 of 2 report an effect size
 
 ## Description
 Preliminary data collection involves gathering contextual data to gain a deeper understanding of the local settings where a problem exists. It combines quantitative sources (achievement records, attendance, discipline referrals disaggregated by subgroup) with qualitative sources (interviews, observations, walkthroughs, student voice) to build a comprehensive picture before designing interventions. The strategy treats data as evidence for problem definition rather than as a record-keeping exercise.

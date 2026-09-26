@@ -16,6 +16,7 @@ sources:
 # Flexible-Individualistic PjBL: students design their own projects with separate final presentations
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Quadrant 3 (Flexible-Individualistic) PjBL, exemplified by Course E, lets each student design an individual project using emerging technologies in a shared campus production space. "In this highly Flexible and Individual course, students designed their own individual projects, including goals, timetables, and deliverables." Students were not required to attend at the same time as long as they made weekly progress; a common presentation template was a rare Fixed attribute, and each student ended with a separate final project and presentation. The authors note this combination was unique both in their sample and in PjBL scholarship.

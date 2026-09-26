@@ -12,6 +12,7 @@ generated:
 # Annotation
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (1 for, 2 mixed) · 6 studies, `q2`–`q4` · 4 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Annotation asks learners to actively mark up a source — highlighting, underlining, margin notes, questions, summaries, or links to prior knowledge — rather than reading or viewing it passively. It can be learner-generated (students create the annotations) or instructor-provided (expert annotations scaffold the reading), and applies to text, images, code, and video.

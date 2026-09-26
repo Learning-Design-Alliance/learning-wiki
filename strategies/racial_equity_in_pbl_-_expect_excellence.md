@@ -12,6 +12,7 @@ generated:
 # Racial Equity in PBL - Expect Excellence
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3` · 0 of 2 report an effect size
 
 ## Description
 A belief in excellence, demonstrated by setting high expectations, is the fuel that runs a successful PBL culture. Dispel the myth that PBL does not work for "those kids." The challenge lives in ensuring the proper scaffolding, knowing students' current realities, to move them toward the excellence they are capable of without lowering expectations. The strategy pairs an unwavering belief in every student's capacity for rigorous work with the instructional support needed to reach it — high expectations without scaffolding become unrealistic demands, and scaffolding without high expectations becomes lowered standards.

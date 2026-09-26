@@ -16,6 +16,7 @@ sources:
 # Market-competition theory of voucher systemic effects, modified by financial hold-harmless design
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article describes the theory behind voucher programs: parental choice should improve student learning both for users and for students remaining in traditional public schools, because losing students and their revenue gives public schools an incentive to improve to retain or attract students. It then argues that the DC program's hold-harmless design severs the financial mechanism: "The theoretical benefit of school choice policies on public schools comes directly from the increased financial incentive that potentially losing enrollment funds provides." The article also lists non-financial channels (political embarrassment, anticipated future revenue loss, rising per-pupil resources, staff demoralization, peer-effect loss) whose direction is theoretically unclear.

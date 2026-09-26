@@ -12,6 +12,7 @@ generated:
 # Grading For Equity
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q3` · 2 of 5 report an effect size
 
 ## Description
 Grading for equity is an approach to classroom assessment that treats grades as accurate, bias-resistant, and motivational communication of student learning. It replaces traditional practices — averaging, zero grades for missing work, behavior penalties, single-attempt deadlines — with practices such as standards- or mastery-based scoring, minimum-grade floors, late-work acceptance, reassessment opportunities, and rubrics that describe performance rather than compliance. The core claim is that conventional grading conflates achievement with behavior, timing, and circumstance, distorting both the information grades carry and the incentives they create.

@@ -17,6 +17,7 @@ sources:
 # Combine monetary inducements with group-based competition for cash rewards to motivate lower-class adolescents
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper proposes dividing students into groups of three, four, or five, constituted by teacher assignment or student preference, competing for cash rewards against one another or against a uniform standard, with payments disbursed by each group's average attainment. It argues this arrangement "would identify the interests of the peer group [with those] of the individual student", so peer pressure encourages attainment and mutual assistance. Internal allocation of winnings could be left partly to the group's discretion.

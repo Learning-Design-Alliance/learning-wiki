@@ -12,6 +12,7 @@ generated:
 # Promote a Growth Mindset
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q3` · 2 of 5 report an effect size
 
 ## Description
 Promoting a growth mindset means structuring feedback, tasks, and classroom language so learners come to see ability as malleable — built through effort, effective strategies, and help-seeking — rather than as a fixed trait. In practice this goes beyond praising effort: teachers attribute success and failure to controllable factors (strategy use, persistence, practice), normalize errors as information, and provide concrete routes for improvement. In mathematics especially, students often believe intelligence is fixed; reframing difficulty as a signal of learning rather than of low ability changes how they respond to challenge.

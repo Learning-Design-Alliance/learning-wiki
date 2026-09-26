@@ -12,6 +12,7 @@ generated:
 # Learner Choice
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Learner choice is the element in which learners are given meaningful options about task, process, product, or pathway.

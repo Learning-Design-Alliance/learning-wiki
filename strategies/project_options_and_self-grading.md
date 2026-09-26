@@ -12,6 +12,7 @@ generated:
 # Project Options and Self-Grading
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 6 studies, `q2`–`q4` · 5 of 6 report an effect size
 
 ## Description
 This strategy combines two moves: offering learners a genuine choice among project formats (e.g., paper, presentation, website, exhibit) and involving them in building a criteria chart — a co-constructed rubric — for each project. Learners complete the project, grade their own work against the criteria, and write a short reflection justifying the grade they assigned. The combination converts assessment from something done *to* students into something done *with* them.

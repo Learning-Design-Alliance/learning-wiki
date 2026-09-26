@@ -16,6 +16,7 @@ sources:
 # Nkrumah's consciencism: the African personality defined by a cluster of humanist principles underlying traditional African society
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article presents Nkrumah's philosophy of consciencism as the intellectual map enabling African society to digest Western, Islamic, and Euro-Christian elements so they fit the African personality. In Consciencism he writes that "The African personality is itself defined by a cluster of humanist principles which underlie the traditional African society". Nkrumah envisioned a United States of Africa based on African humanism and Pan-African socialism, recasting Marxist humanism so that the revolution exists for humanity.

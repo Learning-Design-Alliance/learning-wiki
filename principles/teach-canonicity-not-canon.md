@@ -17,6 +17,7 @@ sources:
 # The basic course should teach canonicity — how communities standardize and enforce discourse — rather than the canon itself
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The third operationalization shifts from studying canonical exemplars to studying how a culture accepts and exemplifies particular discourse. The paper states: "The aim is to teach the process by which any community decides how to standardize, judge, and enforce its own discourse." Rather than using Burke, Lincoln, or King as exemplars, the course would address how and why King is held up as excellent while Bob Dole is not, and could highlight the boundaries of the canon when students practice non-dominant rhetorical styles.

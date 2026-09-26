@@ -17,6 +17,7 @@ sources:
 # Research agenda for extending puppetry as an ecology teaching tool
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 In its recommendations, the article directs future work at two gaps: persistence and teacher preparation. It states that "Further research should investigate the sustained impact of Puppetry as a teaching tool on learners' engagement and applied conceptual understanding over an extended period to determine if the benefits persist over time", and calls for exploring teacher training, including developing instructional strategies for integrating puppetry into the senior phase curriculum. It also recommends larger and more diverse participant groups to improve representativeness and validity.

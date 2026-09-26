@@ -16,6 +16,7 @@ sources:
 # Two-level measurement-based dynamic model of learning with α, β, and γ transition processes
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article models a student's measured knowledge as a two-level system in which the measured-correct level holds the score and the measured-wrong level holds its complement. Learning incidents cause transitions between levels, with three processes: α-type changes driven by instruction acting on wrong knowledge, β-type changes acting on correct knowledge, and γ-type associative changes from internal interactions between correct and incorrect knowledge. The dynamics are expressed as differential equations, e.g. the overall form ds_k/dt = α_k s_k(1−s_k) + β_k s_k + γ_k s_k(1−s_k). The article states it is a measurement-based probabilistic model that 'doesn't model any cognitive processes of how the learning occurs'.

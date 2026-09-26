@@ -17,6 +17,7 @@ sources:
 # Teach in students' home language in primary, assess learning levels and differentiate instruction, and align teacher training with language-of-instruction policy
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The brief recommends that systems "use students' home language in primary, building up their literacy in their home language before potentially switching to a second language (L2) as the language of instruction." It further recommends that teachers "integrate ongoing assessment and differentiated instruction into their teaching," grouping children by learning level with adaptable materials like letter charts or word cards, and that teacher training align with the LoI policy and school curriculum, including "capacity building at pre-service training institutions."

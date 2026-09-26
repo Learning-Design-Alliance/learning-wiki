@@ -17,6 +17,7 @@ sources:
 # Performance-based assessment should anchor advanced teacher certification
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The digest states that "From the beginning, the National Board has been committed to developing an assessment that is performance-based that also serves as a professional development" experience, contrasting with state licensure that merely indicates a licensee has satisfied minimum entry-level requirements. Certification of advanced teaching expertise should therefore rest on demonstrated performance of teaching practice, including classroom artifacts, videotaped instruction, and student work, rather than on tests of knowledge alone, so that what is certified is what teachers can actually do with students.

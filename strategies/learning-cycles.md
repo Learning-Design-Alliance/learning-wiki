@@ -12,6 +12,7 @@ generated:
 # Learning Cycles
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 7 studies, `q3`–`q4` · 4 of 7 report an effect size · 2 claims rest on one study
 
 ## Description
 A learning cycle is an instructional sequence that deliberately orders experience before explanation: learners first explore a phenomenon or problem, then receive formal instruction that names and structures what they observed, then apply the concept in a new context. The best-known variants are the Karplus learning cycle from science education (exploration → invention of the concept → discovery of applications) and the [5E model](https://bscs.org/bscs-5e-instructional-model/) (Engage, Explore, Explain, Elaborate, Evaluate), both developed at BSCS. Kolb's experiential learning cycle (concrete experience → reflective observation → abstract conceptualization → active experimentation) applies the same logic to adult and workplace learning.

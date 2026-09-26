@@ -12,6 +12,7 @@ generated:
 # Data Driven Inquiry
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q3` · 2 of 3 report an effect size
 
 ## Description
 Data driven inquiry is a structured, collaborative cycle in which educators examine evidence of student learning — assessment results, work samples, attendance, engagement data — to identify learning gaps, generate hypotheses about their causes, and design and test instructional responses. It is typically carried out in teams (data teams, professional learning communities) using a repeated protocol: collect data, analyze for patterns, infer causes, act, and re-examine. The strategy treats instructional decisions as hypotheses to be tested rather than assumptions to be defended.

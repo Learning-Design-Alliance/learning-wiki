@@ -12,6 +12,7 @@ generated:
 # Collaborative Storytelling
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (5 for) · 12 studies, `q2`–`q4` · 9 of 12 report an effect size
 
 ## Description
 Learners work in pairs to create a story by responding to a series of guiding questions. For each question, individuals first think silently about their response, then share answers with their partner and negotiate which one to write down. After working through the questions, pairs write a simple version of their story with illustrations, practice telling it, and present it to another small group.

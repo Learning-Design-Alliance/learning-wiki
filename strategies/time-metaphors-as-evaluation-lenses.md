@@ -17,6 +17,7 @@ sources:
 # Use the three time metaphors as lenses to analyse extant or newly designed knowledge organization systems
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper recommends adopting an explicit time metaphor — architectonic, ouroboric, or lachesic — as a lens to analyse knowledge organization systems, because each metaphor implies different validation practices. It states these three metaphors 'can be used as lenses to analyse extant or newly designed knowledge organization systems.' Choosing a metaphor determines when to consult the domain, when to revise, and whether old concepts may be revised at all.

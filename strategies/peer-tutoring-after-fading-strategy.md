@@ -17,6 +17,7 @@ sources:
 # Use peer tutoring as the recommended collaborative learning style after fading distinguishes expert and non-expert peers
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper recommends peer tutoring as the collaborative learning style for the FTS: "Peer-tutoring is an approach in which one child instructs another child in material on which the first is an expert and the second is a novice". Once fading distinguishes expert from non-expert peers, the expert peer acts as tutor and the non-expert peer as tutee. Stated advantages include the tutor acquiring teaching skills and improving their own academic performance, and the tutee's potential self-disclosure of ignorance and misconception to a peer holding no position of authority, enabling diagnosis and correction.

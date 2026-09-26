@@ -17,6 +17,7 @@ sources:
 # Pair AAC introduction with structured parent training, follow-up, and practical guidance for everyday routines
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends that AAC implementation extend beyond introducing the communication system itself. It states implementation "should also include structured parent training, follow-up, and practical guidance on how to use AAC during everyday routines at home, in educational settings, and in community contexts." It further recommends family education about the range of AAC options and counseling that addresses the misconception that AAC replaces or prevents speech.

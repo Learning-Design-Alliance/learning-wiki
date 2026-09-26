@@ -12,6 +12,7 @@ generated:
 # Source Evaluation
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 11 studies, `q2`–`q4` · 2 of 11 report an effect size
 
 ## Description
 Source evaluation is the practice of deliberately assessing where information comes from, who produced it, and whether it can be trusted — before relying on it in research, argument, or decision-making. As a strategy, it means teaching learners explicit evaluative moves (checking provenance, corroboration, and evidence quality) rather than assuming these judgments develop incidentally.

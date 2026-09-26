@@ -12,6 +12,7 @@ generated:
 # Low-Stakes Quizzes
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (4 for, 1 unmarked) · 11 studies, `q3`–`q4` · 11 of 11 report an effect size
 
 ## Description
 Low-stakes quizzes are brief assessments whose contribution to grades is minimal or zero, so the primary function is retrieval practice and formative feedback rather than evaluation. The act of recalling information strengthens memory more than restudying it — the "testing effect" — and low stakes keep anxiety from undermining that benefit. Quizzes are typically given shortly after initial instruction and revisited across the term, often with immediate feedback.

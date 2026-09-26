@@ -12,6 +12,7 @@ generated:
 # Acting/Role Play
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 2 of 2 report an effect size
 
 ## Description
 Acting and role-playing are active learning strategies in which learners physically enact scenarios to deepen understanding, explore different perspectives, and practice social skills. Learners are assigned roles within a simulated situation — a historical negotiation, a clinical patient interaction, a character in a story — and must perform the reasoning, language, and decisions that the role demands. The strategy converts abstract or secondhand knowledge into embodied, situated performance, followed by debriefing that consolidates what the enactment revealed.

@@ -12,6 +12,7 @@ generated:
 # Braille Texts for Literacy Development
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 9 studies, `q1`–`q4` · 9 of 9 report an effect size
 
 ## Description
 Braille texts are tactile reading materials — raised-dot representations of letters, contractions, numbers, and symbols — used to build literacy skills such as decoding, fluency, and syntax in learners who are blind or have low vision. The strategy centers on sustained, structured engagement with real braille books and materials, moving from letter and contraction recognition to connected-text reading and writing.

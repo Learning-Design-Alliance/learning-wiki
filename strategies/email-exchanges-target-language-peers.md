@@ -17,6 +17,7 @@ sources:
 # Use structured e-mail exchanges with target-language peers to build cross-cultural interest and motivation
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The activity has students correspond by e-mail with peers in the target language, chosen via a penpal website where they can select partner country, age, and sex. It proceeds through preliminary tasks (e-mailing classmates and the instructor), partner selection, letter writing, and Internet research on the partner's country shared in presentations. The authors state that "we encourage students to dialogue through e-mail with their target language peers" to foster cultural awareness and motivate communication in English.

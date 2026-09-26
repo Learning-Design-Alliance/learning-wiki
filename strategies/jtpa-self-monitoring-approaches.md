@@ -17,6 +17,7 @@ sources:
 # Three adaptable self-monitoring approaches: administrative, peer observation, and eclectic
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The guide presents three models districts may adapt: an administrative approach in which the coordinator and administrators monitor using the instrument; a peer observation approach using "a team trained by the JTPA coordinator" of staff of equal rank from the same or different districts; and an eclectic combination tailored to local needs. "There are many ways to conduct self-monitoring.The models which follow were used by some school districts during past years and may be adapted to the needs and skills of your staff."

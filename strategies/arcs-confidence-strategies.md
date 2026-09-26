@@ -17,6 +17,7 @@ sources:
 # ARCS confidence strategies: learning requirements, success opportunities and personal responsibility
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Confidence is the third ARCS component, described as strategies "that help students develop a positive expectation for successful achievement". The digest lists three sub-components: learning requirements (inform students of performance requirements and assessment criteria), success opportunities (challenging and meaningful opportunities for successful learning), and personal responsibility (link success to personal effort and ability), each with a teacher example.

@@ -16,6 +16,7 @@ sources:
 # Complex Dynamic Systems Theory frames learner language as hierarchical, interdependent subsystems in dynamic relations over time
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article presents Complex Dynamic Systems Theory (CDST) as an explanatory framework for second language development in which "a system is composed of hierarchical, interdependent subcomponents (learner, learner language, and environment) in dynamic relations". Growth is conceptualized through van Geert's cognitive growth model, an ecological metaphor in which language components are growers dependent on limited internal and external resources. Because resources are limited and learners cannot prioritize all aspects of performance equally, growth in one subsystem can affect others, producing variability that is inherent to a complex dynamic system.

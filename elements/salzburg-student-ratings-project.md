@@ -17,6 +17,7 @@ sources:
 # Student Ratings of Teaching project at the University of Salzburg
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The concrete evaluation context used in the article is the project "Student Ratings of Teaching" at the University of Salzburg, partly based on the project "Evaluation in Education", grant No. P13594-SOZ by the Austrian Science Fund (FWF). The article states the quality assessment context "used to discuss these issues is the project 'Student Ratings of Teaching' at the University of Salzburg", with information available from the Task Force "Evaluation von Lehrveranstaltungen an der Universität Salzburg", 2002.

@@ -12,6 +12,7 @@ generated:
 # Simulation Based Practice
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 against) · 2 studies, `q3`–`q4` · 1 of 2 report an effect size
 
 ## Description
 Simulation based practice places learners in an interactive model of a real task environment — a flight simulator, patient manikin, business game, or virtual lab — where they perform the target skill under conditions that approximate the real thing but remove risk, cost, and time pressure. Performance is typically followed by structured [feedback](../elements/practice.md) or debriefing, which is where much of the learning actually occurs.

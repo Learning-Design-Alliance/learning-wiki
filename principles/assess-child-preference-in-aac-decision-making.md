@@ -17,6 +17,7 @@ sources:
 # Assess children's AAC system preferences as part of the AAC decision-making process
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that practitioners build preference assessment into AAC selection. It reports that "Giving children the opportunity to select their most preferred AAC system positively influences progress in learning to communicate and maintain the acquired skills," and that acquisition of requesting skills was faster when learning a preferred system for some children. Because preference varies by individual, assessment should be conducted at the level of the individual child rather than assumed from system type.

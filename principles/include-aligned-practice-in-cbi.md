@@ -17,6 +17,7 @@ sources:
 # Include practice aligned with the assessment in computer-based instruction
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study, `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article's central design recommendation is that practice should be built into computer-based instruction because it was the one consistently effective event for achievement and attitudes. The authors write that practice "should be included in computer -based instruction especially when students are tested using items aligned with the objectives and practice items." Practice lets learners confirm correct understanding and elicits overt responses the other events do not.

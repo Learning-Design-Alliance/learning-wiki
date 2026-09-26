@@ -17,6 +17,7 @@ sources:
 # Encourage children to model and discuss multiple solution strategies for number problems instead of hunting for clue words
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Across items and tasks, the guide urges that children be encouraged to model problems of joining, separating, and comparing rather than looking for clue words like 'more than' or 'difference'. It notes that either a subtraction sentence (5 - 3 = 2) or an additive sentence (3 + how many more = 5) can be an equally valid representation, and that children should use many different solution strategies and share them with the class. Modeling with manipulatives and acting out strategies helps develop the concepts needed to understand algorithms learned later.

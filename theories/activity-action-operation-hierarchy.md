@@ -16,6 +16,7 @@ sources:
 # The activity/action/operation hierarchy of activity theory
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Drawing on Kuutti (1996) and Kaptelinin (1996a), the paper sketches a three-level hierarchy within an activity. At the highest level, "An activity is a form of doing directed to an object, and activities are distinguished from one another according to their objects." Actions are shorter-term processes that accomplish goals related to the activity, while operations are "well-defined habitual routines used as answers to conditions faced during the performance of an action." The paper stresses that the boundaries are fluid: actions can be folded into operations as they become familiar, and operations can return to the level of actions when conditions demand greater attention.

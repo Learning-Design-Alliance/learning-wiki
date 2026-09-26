@@ -23,6 +23,7 @@ grain_size: lesson
 # Structured Peer Review
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 4 claims (1 for, 3 mixed) · 10 studies, `q3`–`q4` · 10 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Structured Peer Review is a pattern in which learners review one another's work using explicit criteria, provide feedback, and then use that feedback to revise. The pattern supports learning in two directions: reviewers deepen their understanding of quality by judging another's work, and authors improve by receiving feedback before final submission.

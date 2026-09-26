@@ -17,6 +17,7 @@ sources:
 # Collect early objective and subjective program feedback
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 This strategy calls for gathering both objective and subjective feedback early in a program's implementation, including internal and external graduate program reviews. The article argues that "Early feedback provides critical information that can be utilized to keep minimal problems from becoming more" serious, and that providing early feedback opportunities increases stakeholder input and helps identify professional development needs.

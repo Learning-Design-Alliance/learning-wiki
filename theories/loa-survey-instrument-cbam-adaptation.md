@@ -16,6 +16,7 @@ sources:
 # Level of Adoption (LoA) survey: an online self-report adaptation of the CBAM Level of Use index
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The Level of Adoption (LoA) survey is a collaborative self-assessment instrument adapted from the Level of Use (LoU) and Stages of Concern indices of the Concerns-Based Adoption Model. It replaces the traditional focused-interview format with "a specifically structured self‐reporting scale of “level of adoption”" administered online, asking participants to self-identify their adoption of specific technologies across the eight LoU levels from non-use to renewal. The authors use it repeatedly over time within a professional community as a self-reflective mirror to inform collaborative discussion and professional development decisions.

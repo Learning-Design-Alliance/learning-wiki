@@ -16,6 +16,7 @@ sources:
 # The 'Languaging in the Content Areas' (LICA) thesis as a formulating theory of post-elementary reading
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A still formulating theory of post-elementary reading, called the 'Languaging in the Content Areas', or LICA, thesis (Manzo and Sherk, submitted manuscript). The article states that the embedded aids are "guided by the concerns and precepts of a still formulating theory of post-elementary reading," and that the thesis addresses dialectical thinking, language abilities, inquiry skills, values processing, aesthetics, and reading comprehension. Embedded aids are presented as an application of this thesis to content-area textual material.

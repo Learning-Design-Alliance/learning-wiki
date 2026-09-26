@@ -12,6 +12,7 @@ generated:
 # E.S.C.A.P.E. Junk News
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 9 studies, `q2`–`q4` · 4 of 9 report an effect size
 
 ## Description
 E.S.C.A.P.E. is a six-part heuristic developed by the Newseum (NewseumEd) for evaluating the credibility of news and online information. Each letter names a lens: **E**vidence, **S**ource, **C**ontext, **A**udience, **P**urpose, **E**xecution. Considering even one of the six concepts can help determine whether information is reliable; together they form a reusable checklist students can apply to any story.

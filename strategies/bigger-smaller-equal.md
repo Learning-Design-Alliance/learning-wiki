@@ -12,6 +12,7 @@ generated:
 # Bigger/Smaller/Equal
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 unmarked) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size
 
 ## Description
 The teacher calls out a number. If it is greater than 10, students expand their bodies to take up as much space as possible (feet planted, no running); if less than 10, they shrink to occupy minimal space; if exactly 10, they hold neutral and form an equals sign with their arms. Once students master the rules, the teacher advances to sums and differences ("12 − 5"), requiring students to compute before responding with their bodies.

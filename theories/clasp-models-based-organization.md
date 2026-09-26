@@ -16,6 +16,7 @@ sources:
 # Models-based curriculum organization: introductory physics structured around a set of 27 models rather than a serial sequence of topics
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 CLASP organizes its one-year curriculum around a set of 27 models — collections of ideas and relationships among them that prove useful for making sense of, explaining, and predicting phenomena — rather than the traditional serial topic-by-topic sequence. About a half dozen models are described as the most important overarching ones, beginning with conservation of energy and thermodynamics, then momentum and angular momentum, waves and optics, and finally fields and quantum mechanics. Concepts such as velocity are introduced only at the complexity each model requires, deferring the vector nature of velocity until conservation of momentum models. The article states the course keeps "the students' main focus on concepts rather than calculations, on genuine understanding and sense-making rather than rote memorization."

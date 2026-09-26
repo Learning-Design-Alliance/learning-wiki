@@ -16,6 +16,7 @@ sources:
 # ICAP-Bloom adapted coding scheme for cognitive engagement in online discussion posts
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The authors adapted the ICAP framework by merging it with Bloom's revised taxonomy to label cognitive engagement in discussion posts. Four hierarchical categories were used: social, active, constructive, and interactive, with passive engagement excluded because it cannot be observed in produced posts. Active engagement corresponds to remembering and understanding (paraphrasing, mapping resources), constructive to applying and analyzing (compare, contrast, illustrate, argue), and interactive to evaluating and creating. As they state, "Interactive engagement relates to the levels of evaluating and creating in the taxonomy because these discussion posts make judgments and evaluations about the topics covered." Two coders reached .91 inter-rater agreement.

@@ -12,6 +12,7 @@ generated:
 # Orton Gillingham Approach
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q1`–`q4` · 6 of 7 report an effect size
 
 ## Description
 The Orton Gillingham (OG) Approach is an explicit, sequential, and multisensory method for teaching reading and spelling, developed in the 1930s by neurologist Samuel Orton and educator Anna Gillingham. Instruction systematically introduces phoneme–grapheme correspondences, with learners seeing, saying, hearing, and writing each element (e.g., tracing a letter in sand while voicing its sound). Lessons follow a predictable diagnostic-prescriptive cycle: review, new concept introduction, blending, dictation, and connected text reading.

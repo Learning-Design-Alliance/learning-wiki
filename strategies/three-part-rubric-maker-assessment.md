@@ -17,6 +17,7 @@ sources:
 # Use a three-part process-understanding-product rubric for formative and summative maker assessment
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 After a well-crafted prompt, the paper recommends a rubric or checklist as the second component of effective assessment. Rubrics clarify what students should know and be able to do, structure the iterative design process, and can serve "as powerful learning tools when used for both peer and self-assessment," acting as formative checkpoints or summative self or peer assessments. Yokana's three-part structure of process, understanding, and product lets teachers present different objective types clearly.

@@ -16,6 +16,7 @@ sources:
 # Four-phase local curriculum development model for industrial arts
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The guide presents a Local Curriculum Development Model (Figure 1) with four coordinated phases: establishing the basis for industrial arts in the K-12 system, establishing the basis at each operational level, outlining the local program, and preparing teaching plans. As the guide states, "Four phases of coordinated planning and decision making are essential." Phases I and II are supported by rationales and goals in the guide, Phase III is developed by local teachers or committees, and Phase IV is developed by individual teachers, followed by continuous evaluation and refinement.

@@ -12,6 +12,7 @@ generated:
 # Two Stars and a Wish
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q3` · 2 of 3 report an effect size
 
 ## Description
 Two Stars and a Wish is a peer-feedback protocol in which each reviewer identifies two specific strengths of a peer's work and one suggestion for improvement, phrased as a wish ("I wish you would…"). The fixed structure lowers the social and cognitive barriers to giving feedback, ensures every review contains both affirmation and a next step, and is commonly used in writing workshops, design critiques, and primary classrooms.

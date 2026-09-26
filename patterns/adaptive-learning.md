@@ -13,6 +13,7 @@ grain_size: course
 # Adaptive Learning
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Adaptive learning is the short-form canonical pattern for adjusting pacing, difficulty, or support based on learner performance.

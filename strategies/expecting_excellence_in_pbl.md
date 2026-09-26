@@ -12,6 +12,7 @@ generated:
 # Expecting Excellence in PBL
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (5 for) · 12 studies, `q3`–`q4` · 12 of 12 report an effect size · 1 claim rests on one study
 
 ## Description
 Expecting excellence in PBL means setting ambitious, public standards for project quality and communicating — through task design, feedback, and revision structures — that every student can meet them. It actively counters the deficit belief that project-based learning only works for already-privileged or high-achieving students, pairing high expectations with the scaffolding and knowledge of students' current realities needed to reach them.

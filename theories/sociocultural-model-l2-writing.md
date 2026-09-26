@@ -16,6 +16,7 @@ sources:
 # Sociocultural Model of L2 writing
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The Sociocultural Model emphasizes the social and contextual situatedness of writing as an activity, stressing language as a social, cultural and interactional phenomenon rather than a property of the individual writer. Inspired by Vygotsky's Sociocultural theory, it holds that "learning to write is viewed as collaborative and socially constructed", with students and teachers co-creating meaning through interaction and reciprocal teaching. It also allows L2 writers to express social identity beyond linguistic fluency and mechanics.

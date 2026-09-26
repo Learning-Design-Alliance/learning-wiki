@@ -17,6 +17,7 @@ sources:
 # Canfield's Learning Styles Inventory and Instructional Styles Inventory
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The review describes Canfield's multi-dimensional instruments, designed because Kolb's inventory could assess only overall learning styles. "Canfield designed multi-dimensional inventories to assess both students' learning styles and teachers' instructional styles", making direct comparison of the two possible. Each assessment contains sixteen scales of learning and instructional styles, assisting detailed information on congruence between learning and instructional styles, and the learning style inventory provided individualized information usable for instructional counselling.

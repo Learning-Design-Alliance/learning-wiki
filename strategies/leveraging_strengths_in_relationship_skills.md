@@ -25,6 +25,7 @@ sources:
 # Leveraging Strengths in Relationship Skills
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 8 claims (6 for, 2 against) · 16 studies, `q2`–`q4` · 7 of 16 report an effect size
 
 ## Description
 Leveraging strengths in relationship skills means starting social-skill instruction from what a learner already does well socially and extending it, instead of starting from the situations they handle badly and remediating. A learner who is patient one-to-one but overwhelmed in a group is taught to bring the one-to-one behaviour into a structured group role; a learner whose humour builds rapport is given a part where that is an asset rather than a disruption. The identified strength is a foothold and a piece of evidence — proof to the learner that the capability exists in them somewhere — not a compliment.

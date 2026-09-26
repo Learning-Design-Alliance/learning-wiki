@@ -17,6 +17,7 @@ sources:
 # Question students about why a correct answer was chosen, rather than why an error was made
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 In self-instructional kit work, the teacher asks "Why did you choose c for number two?" of a CORRECT answer rather than an incorrect one. This lets the teacher "help him to review his first choice and to discover and reinforce the effective... pattern of deliberations which led him to the correct choice". The student comes to view the teacher as a resource person rather than a wandering critic, and conversation with the teacher is not tantamount to public exposure of ignorance.

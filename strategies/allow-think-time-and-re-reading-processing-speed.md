@@ -12,6 +12,7 @@ generated:
 # Allow Think-Time and Re-reading (Processing Speed)
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 2 of 2 report an effect size
 
 ## Description
 This strategy builds deliberate pauses ("think-time") and structured re-reading opportunities into instruction so that learners with slower processing speed can encode, retrieve, and consolidate information without the confound of time pressure. It is carried out by extending wait-time after questions, offering extended-time or untapped assessment options, and designing materials that invite a second pass (annotated texts, recorded lectures, self-paced modules).

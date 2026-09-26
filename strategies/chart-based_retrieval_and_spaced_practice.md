@@ -12,6 +12,7 @@ generated:
 # Chart-Based Retrieval and Spaced Practice
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study, `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A simple classroom exercise that doubles as a demonstration of the effectiveness of spaced practice. Learners copy a content chart from memory, highlight what they recalled, then complete the chart using notes or the textbook, highlighting the additions in a second color. The cycle repeats over several days, making learners' growing recall visible. A closing discussion compares this routine to cramming and prompts students to transfer the procedure to other subjects.

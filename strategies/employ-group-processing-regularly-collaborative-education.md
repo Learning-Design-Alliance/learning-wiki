@@ -17,6 +17,7 @@ sources:
 # Employ group processing regularly in collaborative and team-based education without subordinating it to content-based learning
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends extending group processing beyond enquiry-based learning into other collaborative and team-based educational contexts. The authors conclude that "If implemented regularly and not subordinated in time and priority to content-based learning, group processing can have a salutary effect on both academic achievement and the personal qualities of listening, receiving feedback, and collaborating". Implementation requires careful facilitation so that public feedback does not suppress constructive comments or promote tension, and facilitators must continue modelling feedback delivery and reception.

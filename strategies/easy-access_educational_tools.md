@@ -12,6 +12,7 @@ generated:
 # Easy-Access Educational Tools
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 8 studies, `q3`–`q4` · 7 of 8 report an effect size
 
 ## Description
 Easy-access educational tools are learning supports — manipulatives, graphic organizers, audio recordings, highlighters, timers, calculators, reference charts — that are physically or digitally positioned so students can retrieve and use them without asking permission or waiting for help. The strategy treats tool availability as a design decision: when supports are visible, organized, and taught explicitly, students learn to recognize their own needs and select tools independently, building self-advocacy alongside content knowledge.

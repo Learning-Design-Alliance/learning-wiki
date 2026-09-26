@@ -16,6 +16,7 @@ sources:
 # Three dimensions of lifelong education: vertical integration, horizontal integration, and learning to learn
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper organizes lifelong education along three dimensions. Vertical integration holds that learning is continuous from birth to death and that the strongest educational influences come from outside formal schooling; horizontal integration links education with life-wide social components; and learning to learn equips people to identify needs, locate resources, and evaluate outcomes. The paper states that "Cropley and Dave (1978) suggest that lifelong education has two dimensions: vertical integration and horizontal integration" and that Galbraith (1992a) adds learning to learn as a third dimension.

@@ -16,6 +16,7 @@ sources:
 # Seven-stage CHAT-based research model for technology integration studies (context exploration through interpretation and reporting)
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article proposes a research model generated from the CHAT case study, moving through seven stages: research context exploration, literature review, defining research questions, establishing a research conceptual framework, data collection, data analysis, and data interpretation and reporting. It states that "A research model based on CHAT paradigm and this research demonstrates how to explore the research context and review the literature to focus on the interaction of human activity and the whole of the individual's mentality as they interact with a relevant environmental context." Stage 5 prescribes repeated measures collecting both quantitative and qualitative data at time intervals to show change and interactions over time.

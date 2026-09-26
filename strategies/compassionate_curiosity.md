@@ -12,6 +12,7 @@ generated:
 # Compassionate Curiosity
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 6 studies, `q3`–`q4` · 2 of 6 report an effect size
 
 ## Description
 Compassionate curiosity is a stance and practice in which the educator approaches student behavior — especially puzzling, resistant, or disruptive behavior — as a non-judgmental investigator rather than a judge. The teacher acknowledges how much they do not know about the student's situation, asks caring questions, listens and observes before responding, imagines the student's experience, and assumes that every student wants to be known and to do well. It converts the default interpretive frame from "this student is defying me" to "what is going on here that I cannot yet see?"

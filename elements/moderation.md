@@ -12,6 +12,7 @@ generated:
 # Moderation
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 2 of 2 report an effect size
 
 ## Description
 Moderation is the active facilitation of discussion by an instructor or trained facilitator who shapes participation, keeps dialogue on task, and pushes learners toward deeper reasoning. The moderator does not lecture or supply answers but structures turn-taking, probes claims, surfaces disagreement, and ensures that conversational norms support knowledge building rather than social drift.

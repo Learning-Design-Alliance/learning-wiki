@@ -17,6 +17,7 @@ sources:
 # Reserve "social learning" for platforms grounded in social learning theory; describe social-media-enabled platforms as "STIL" (Social Technology in Learning)
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper recommends that until a holistic online learning platform based on the fundamental principles of social learning theory exists, the term "social learning" should not describe platforms that merely include social media capabilities. It proposes "a more precise descriptor for that movement would be something such as 'STIL', Social Technology in Learning." Building such a platform would require collaboration among technology experts, educators, social learning theorists, psychologists, sociologists and students.

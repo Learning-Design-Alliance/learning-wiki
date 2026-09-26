@@ -29,6 +29,7 @@ sources:
 # Peer Discussion
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 2 of 2 report an effect size
 
 ## Description
 Peer discussion places learners in structured conversation with classmates to articulate, defend, and revise their understanding of ideas. It converts passive reception into generative processing: learners must externalize reasoning, encounter alternative interpretations, and resolve discrepancies between their thinking and others'.

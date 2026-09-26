@@ -12,6 +12,7 @@ generated:
 # Uncluttered Learning Environment
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q3` · 1 of 3 report an effect size
 
 ## Description
 An uncluttered learning environment removes non-essential visual, auditory, and digital stimuli so that learner attention is directed at the instructional core — the task, the text, the demonstration, or the discussion. It applies the coherence principle at the level of the physical and digital space: everything present should serve the learning goal, and everything else should be removed or minimized.

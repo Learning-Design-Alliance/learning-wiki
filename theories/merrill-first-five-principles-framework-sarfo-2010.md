@@ -16,6 +16,7 @@ sources:
 # Merrill's first five principles of instruction as the framework for quality teaching and learning
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article adopts Merrill's first principles of instruction as its organizing framework: "1) task centeredness, 2) demonstration, 3) activation, 4) application, and 5) integration". Each principle is elaborated: task centeredness engages learners in real-life problems; demonstration provides specific examples; activation stimulates relevant prior knowledge; application requires learners to use new knowledge to solve problems; integration encourages learners to incorporate new knowledge into everyday life. The authors use these principles to construct their 15-item perception scale and argue any quality instruction should meet all five.

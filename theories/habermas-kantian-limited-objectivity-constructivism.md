@@ -16,6 +16,7 @@ sources:
 # Habermas's communicative theory and Kantian limited objectivity as grounding for objective standards in Constructivism
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper argues that Habermas's communicative theory of meaning, in which claims of validity and truth are decided by resolving normative rightness through discursive argumentation, supports Constructivism threefold: it bridges theory and practice, connects rationality and morality, and connects the individual and the collective. Combined with Kant's notion of objectivity grounded in shared rational nature rather than objective knowledge of the external world, this yields a limited brand of objectivity that allows objective standards to be pursued as an essential part of Constructivist instruction without externally imposed standards controlling learning.

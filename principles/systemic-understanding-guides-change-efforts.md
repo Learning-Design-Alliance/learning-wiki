@@ -17,6 +17,7 @@ sources:
 # Guide change efforts with systemic understanding, focusing interventions on one framework component at a time as needed
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The digest's central recommendation is that practitioners "must strive to guide all our change efforts with a systemic understanding of the context" in which they undertake them. Nevertheless, depending on the circumstance or as implementation progresses, it may be most effective to focus interventions on a particular component of the framework at a time. The sequence of models is explicitly not fixed.

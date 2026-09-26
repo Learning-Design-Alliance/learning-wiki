@@ -12,6 +12,7 @@ generated:
 # Nighttime Blue Light Reduction
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 6 studies, `q3`–`q4` · 3 of 6 report an effect size
 
 ## Description
 Nighttime blue light reduction limits learners' exposure to short-wavelength (~460–480 nm) light from screens and LED lighting in the hours before sleep. Blue light suppresses melatonin secretion and delays circadian phase, so mitigation strategies — screen curfews, night-mode filters, blue-blocking glasses, warm ambient lighting — protect sleep onset and duration. Because sleep is when newly encoded material is consolidated into long-term memory, protecting sleep is a learning strategy, not merely a wellness measure.

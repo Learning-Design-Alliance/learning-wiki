@@ -12,6 +12,7 @@ generated:
 # Metacognitive Reflection Prompts
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 8 studies, `q3`–`q4` · 8 of 8 report an effect size
 
 ## Description
 Metacognitive reflection prompts are short, targeted questions embedded before, during, or after a learning task that ask learners to plan an approach ("What strategy will you use?"), monitor understanding ("Where are you confused?"), or evaluate outcomes ("What would you do differently?"). They externalize the self-regulatory cycle — planning, monitoring, evaluation — that skilled learners perform spontaneously, making it available to those who do not yet do so on their own.

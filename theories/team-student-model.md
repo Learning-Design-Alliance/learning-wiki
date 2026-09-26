@@ -16,6 +16,7 @@ sources:
 # TEAM Student model: a whole-school philosophy centering students and families in every school decision
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 TEAM Student is a whole-school philosophy in which staff put students and families first in every decision, meeting students where they are academically, socially, and emotionally. The article states it means "meeting students where they are academically, socially, and emotionally, and supporting them at their individual pace," with students taking ownership while teachers act as guides and mentors, and families treated as essential partners through regular communication and needs-based support.

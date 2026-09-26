@@ -12,6 +12,7 @@ generated:
 # Shared Documents
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Shared documents are the element in which multiple learners contribute to a common editable artifact.

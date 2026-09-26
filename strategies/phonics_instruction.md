@@ -12,6 +12,7 @@ generated:
 # Phonics Instruction
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q1`–`q2` · 2 of 2 report an effect size
 
 ## Description
 Phonics instruction teaches learners the correspondences between letters (graphemes) and sounds (phonemes) and how to apply them systematically to decode unfamiliar words when reading and encode them when spelling. Effective programs are *systematic* — letter–sound relationships are taught in a planned sequence from simple to complex — and *explicit*, with the instructor directly modeling how to blend sounds into words rather than expecting learners to infer the patterns from exposure to text.

@@ -16,6 +16,7 @@ sources:
 # Mead's social conception of education recognizing both the child and society
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The course description of Mead's Course 50, quoted in the article, frames two inadequate one-sided theories of education: a psychological theory justified by the development of the child, and a sociological theory suggested by the demands of the society the child enters. Mead's stated aim is a replacement: "the necessity of replacing them by a social concep- tion of education which can recognize both the child and society at once". The article presents this social conception as the pedagogical translation of Mead's intersubjectivity, in which education is viewed not only as giving a body of facts but also as considering the effect the process of handing down has had on the material itself.

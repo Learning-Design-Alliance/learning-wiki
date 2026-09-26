@@ -17,6 +17,7 @@ sources:
 # Multiple-Choice Quizzing with Plausible Alternatives and Feedback
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 unmarked) · 2 studies, `q3`–`q4` · 1 of 2 report an effect size
 
 ## Description
 The chapter concludes that "For practical purposes, multiple-choice questions produce positive effects on learning", and that the risk of picking up erroneous lure knowledge is dramatically reduced when students receive feedback. Constructing competitive, plausible incorrect alternatives may add benefits when questions lead learners to reason about why alternatives are incorrect.

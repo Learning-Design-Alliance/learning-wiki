@@ -17,6 +17,7 @@ sources:
 # Analyze Student Dialogue Turns as Formative Assessment
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article argues that student turns in tutoring dialogues, not only tutor turns, should be analyzed, because open-ended student discourse may reveal flaws in knowledge and specific misconceptions. "Therefore, analyzing student dialogue turns can be a form of formative assessment to help tutors and AI-powered chatbots understand student progress and provide more targeted feedback." The dialogueKT framework operationalizes this by viewing dialogues "as sequences of (formative) assessments".

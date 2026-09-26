@@ -17,6 +17,7 @@ sources:
 # Spup: a spoon taped to a cup used as a fading utensil
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The spup is a modified drinking utensil consisting of a large Maroon spoon taped to a blue cut-out cup, used to bridge spoon drinking and cup drinking. The article describes that "Fading consisted of altering the spup by retaping the bowl of the spoon 0.6 cm closer to the edge of the cup (Figure 1)," with extinction in place throughout fading and cup probes. It was the central material of the treatment for one child with intestinal failure.

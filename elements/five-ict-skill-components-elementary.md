@@ -17,6 +17,7 @@ sources:
 # Five ICT skill components for elementary students
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article identifies five ICT skills the model targets for elementary students: "1) information access 2) data collection 3) information presentation 4) usage of application software and 5) product creation". These are described as the key competency of the learner and express the importance of implementing the teaching and learning approach to enhance ICT skills for elementary students in Thailand.

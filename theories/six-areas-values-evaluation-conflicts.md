@@ -16,6 +16,7 @@ sources:
 # Six areas of values in evaluation conflicts
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A second organizing axis of the taxonomy is the set of value areas in which evaluation conflicts arise. The abstract states: "Six areas of values are discussed: the ethical, methodical, social and interactive, legal, economic, and personal values." Conflicts between values from these areas form the cells of the taxonomy that is then applied to concrete evaluation situations.

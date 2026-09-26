@@ -17,6 +17,7 @@ sources:
 # Learning-theory-based evaluation checklist of instructional strategies and techniques for textbook analysis
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The study devised an evaluation framework in which instructional techniques and strategies associated with behaviourism, cognitivism, and constructivism served as the checklist for analyzing textbooks. Strategies were "constructed based on the works in the related literature": behaviourist techniques from Richards and Rodgers (2001), cognitivist strategies from Oxford (1990) and Williams and Burden (1997), and constructivist strategies from Doolittle (1998), Jonassen (1991), and Matusevich (1995). Frequencies were counted once per technique per lesson section rather than per repetition.

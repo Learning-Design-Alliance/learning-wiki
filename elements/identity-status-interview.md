@@ -17,6 +17,7 @@ sources:
 # Modified identity status interview
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A modified version of Marcia's identity status interview, used in this study to classify participants into the achievement, moratorium, foreclosure, and diffusion statuses based on crisis and commitment criteria. The instrument is administered as an interview and scored against the status paradigm's two dimensions. In this study, inter-rater agreement was 75%.

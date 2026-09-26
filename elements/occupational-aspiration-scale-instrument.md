@@ -17,6 +17,7 @@ sources:
 # The Occupational Aspiration Scale (OAS) instrument
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The OAS is a self-report instrument measuring secondary students' level of occupational aspiration, designed from the authors' LOA framework and the NORC occupational prestige rankings. The abstract describes it as "AN EASILY ADMINISTERED INSTRUMENT WHICH FOCUSES ON IDEALISTIC AND REALISTIC EXPRESSION LEVELS AS WELL AS ON SHORT RANGE AND LONG RANGE TIME GOAL PERIODS." Each stimulus question specifies both its expression level and its time-dimension period, and scoring uses NORC prestige scores.

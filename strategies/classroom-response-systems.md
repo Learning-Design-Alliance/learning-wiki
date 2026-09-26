@@ -12,6 +12,7 @@ generated:
 # Classroom Response Systems
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q4` · 4 of 5 report an effect size
 
 ## Description
 Classroom response systems (CRS, or "clickers") let every learner submit an answer to an in-class question — via handheld devices, smartphones, or web apps — with aggregated results displayed to the instructor and often the class. The instructor poses a question (typically multiple-choice or true/false), learners commit to an answer individually, results are revealed, and the distribution drives what happens next: peer discussion, instructor explanation, or a revote. Common platforms include [Poll Everywhere](https://www.polleverywhere.com), [Mentimeter](https://www.mentimeter.com), [Kahoot!](https://kahoot.com), [Top Hat](https://tophat.com), and [iClicker](https://www.iclicker.com).

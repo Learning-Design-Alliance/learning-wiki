@@ -12,6 +12,7 @@ generated:
 # Finger Speed-Sums
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 5 of 5 report an effect size
 
 ## Description
 Students meet in pairs with one hand behind their back. On the count of three, each puts forward some number of fingers; whoever says the sum first wins. Pairs then rotate so each student finds a new partner. Advanced players use two hands, extending the range of sums. The game converts basic-fact practice into a fast, embodied, social activity.

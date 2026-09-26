@@ -12,6 +12,7 @@ generated:
 # PQP (Praise-Question-Polish)
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 6 studies, `q2`–`q4` · 3 of 6 report an effect size · 2 claims rest on one study
 
 ## Description
 PQP is a structured peer-feedback protocol in which responders react to a peer's draft through three prompts: **Praise** (identify specific praiseworthy elements with examples), **Question** (raise genuine questions the draft leaves unanswered), and **Polish** (offer concrete suggestions for improvement). Typically, group members read drafts aloud while peers follow along with copies, then write comments on a PQP form. The form gives structure, objectivity, and positivity to peer review, converting the vague instruction "give feedback" into three specific, teachable moves.

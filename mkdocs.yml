@@ -83,5 +83,6 @@ nav:
   - Theories: theories/index.md
   - Learner Variables: learner-variables/index.md
   - Claims: claims/index.md
+  - State of the Evidence: evidence.md
   - Log: log.md
   - Schema & Guide: CLAUDE.md

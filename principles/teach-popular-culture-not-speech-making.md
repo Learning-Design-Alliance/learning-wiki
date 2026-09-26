@@ -17,6 +17,7 @@ sources:
 # The basic course should use popular culture, not speech making, as the text through which students discern a community's rhetorical rules
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The sixth operationalization treats the discourse of popular media as students' actual public sphere. The paper argues that "critical pedagogy would view the discourse of popular culture as more salient and, thus, a more appropriate text through which to discern the rhetorical rules of a community." The instructor might look more like a teacher of media criticism while retaining oral discourse training, since electronic media are ushering in an age of secondary orality in which oral communication forms are gaining importance.

@@ -12,6 +12,7 @@ generated:
 # Word Processing and Technology Tools
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q4` · 2 of 2 report an effect size
 
 ## Description
 This strategy uses word processors and related digital tools (text editors, collaborative documents, speech-to-text, grammar checkers) as the medium for writing instruction and production. Because digital text is easy to add, delete, reorder, and share, the tool shifts writing from a linear transcription task toward an iterative compose–review–revise cycle, and reduces the motor and formatting burden that can consume working memory during composition.

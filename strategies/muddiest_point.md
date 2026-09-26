@@ -12,6 +12,7 @@ generated:
 # Muddiest Point
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q3` · 2 of 3 report an effect size
 
 ## Description
 The muddiest point is a classroom assessment technique in which learners answer one question in writing — "What was the muddiest (least clear) point in today's lecture/session?" — typically on an index card or digital form at the end of class. The instructor reviews responses before the next session and opens the following class by addressing the most common confusions, closing the feedback loop.

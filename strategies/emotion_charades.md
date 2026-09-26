@@ -12,6 +12,7 @@ generated:
 # Emotion Charades
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 3 of 4 report an effect size
 
 ## Description
 Emotion Charades is a drama-based activity in which one student acts out a scenario or emotion nonverbally while peers guess the emotion being portrayed. The guessing phase is followed by discussion of the cues (facial expression, posture, tone of gesture) that revealed the emotion, building emotional vocabulary, emotion recognition, and awareness of emotional triggers.

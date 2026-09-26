@@ -12,6 +12,7 @@ generated:
 # Logic Model
 
 > **Design Method** · [All design methods](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study, `q4` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A Logic Model states, in one directed diagram, how a programme is supposed to work: the resources it consumes, the activities it runs, the outputs those produce, and the chain of short-, medium- and long-term outcomes it expects to follow. Developed in programme evaluation and made routine by funders' reporting requirements, it exists to make an implicit causal story explicit and inspectable *before* anybody tries to evaluate whether it happened.

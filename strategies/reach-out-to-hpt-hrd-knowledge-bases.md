@@ -17,6 +17,7 @@ sources:
 # Reach out to other disciplines, particularly Human Performance Technology and Human Resource Development, as involvement with educational change grows
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The digest recommends that practitioners include other knowledge bases, particularly the business-inspired domains of Human Performance Technology (HPT) and Human Resource Development (HRD), as their involvement with educational change grows. It urges readers to "Reach out to other disciplines to share experiences and to benefit from theirs" and to reach across to other stakeholders to build community and shared purpose.

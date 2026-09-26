@@ -17,6 +17,7 @@ sources:
 # Guide mentees through a problem-solving approach to classroom management using open-ended questions, think time, and pre-emptive thinking about what works
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 In this case, the mentor guided the mentee through a problem-solving approach to classroom management before each lesson: she asked "pertinent questions", gave the mentee "think time", and provided opportunities to implement solutions. Drawing on her own "pre-emptive thoughts" about what generally works or does not work in the classroom, she encouraged the mentee to anticipate problems by asking open-ended questions and thinking through possible solutions before teaching. This strategy is implementable within pre-lesson planning dialogues during practicum.

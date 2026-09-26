@@ -12,6 +12,7 @@ generated:
 # Use Structured Critique Protocols
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 against) · 8 studies, `q2`–`q3` · 3 of 8 report an effect size
 
 ## Description
 Structured critique protocols are explicit routines for peer or instructor critique of work-in-progress. Rather than asking learners to "give feedback," the protocol specifies a sequence — e.g., clarify, then value, then raise concerns and suggest ("ladder of feedback"); or T-A-G (Tell something you liked, Ask a question, Give a suggestion) — so critique is specific, actionable, and socially safe. Protocols are typically paired with criteria or rubrics and a revision opportunity, making critique a formative loop rather than a verdict.

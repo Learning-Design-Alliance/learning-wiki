@@ -12,6 +12,7 @@ generated:
 # Relationship Building
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 1 of 7 report an effect size
 
 ## Description
 Relationship building is the intentional work of establishing trust, rapport, and mutual knowledge between instructors and learners, and among learners themselves. It is carried out through everyday practices — learning names, [check-ins](../elements/check-in.md), personal disclosure, responsive feedback, and consistent follow-through — rather than through a single intervention. It functions as a precondition that raises the yield of nearly every other instructional strategy.

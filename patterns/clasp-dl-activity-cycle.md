@@ -17,6 +17,7 @@ sources:
 # CLASP discussion/laboratory activity cycle: small-group work on model-based activities, whole-class discussion, and homework integrated into the next DL meeting
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The CLASP discussion/laboratory (DL) is the core instructional setting: students in five-member groups at tables with a wall-mounted blackboard work through three activity cycles of 30 to 60 minutes each, twice weekly. A typical cycle consists of small-group work on activities that ask students to discuss physical situations in their own words, use the model's technical vocabulary, diagram the situation, and sometimes translate to mathematics, punctuated by short and closing whole-class discussions carried out in the students' voice. Homework builds directly on DL activities and is checked for effort, not correctness, then followed up in the next meeting. The article states "The DLs are where the students do much of their thinking and get much of their practice with the material, so they are the most important part of the course."

@@ -12,6 +12,7 @@ generated:
 # Case Based Teaching
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 6 studies, `q2`–`q4` · 1 of 6 report an effect size
 
 ## Description
 Case based teaching organizes instruction around detailed narratives of real or realistic situations — a business decision, a patient presentation, an engineering failure — that learners must analyze, discuss, and resolve. Rather than presenting principles first and examples second, the case comes first: learners confront a messy, ill-structured situation and extract the relevant concepts through guided analysis. It is typically carried out through preparation of the case before class, followed by facilitated whole-class or small-group discussion.

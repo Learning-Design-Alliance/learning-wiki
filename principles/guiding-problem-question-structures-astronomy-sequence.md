@@ -17,6 +17,7 @@ sources:
 # Organizar la enseñanza de la astronomía en torno a una pregunta problemática que guía toda la secuencia favorece un aprendizaje significativo
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 El artículo propone la enseñanza-aprendizaje por investigación, en la que los alumnos se enfrentan a preguntas o situaciones problemáticas. La secuencia completa está estructurada por una pregunta conductora: "¿cómo utilizar las sombras para construir un reloj que marque las horas?", que da sentido a las actividades progresivas y secuenciadas que parten de los conocimientos previos de los alumnos y los contrastan con ellos.

@@ -17,6 +17,7 @@ sources:
 # Evaluating Sources
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (4 for) · 10 studies, `q3`–`q4` · 10 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Teaching adult learners how to systematically evaluate sources prepares them to navigate information in an increasingly complex, digital world. It is important to help adult learners understand why they need to evaluate the trustworthiness of a source, equip them with strategies to do so, and give them ample opportunities to practice these essential information and Digital Literacy skills. As learners develop skills and strategies for evaluating sources for authenticity and relevance, they are further developing their Reasoning and Metacognitive skills.

@@ -17,6 +17,7 @@ sources:
 # Grading by contract: students propose specific work and criteria within teacher-presented options
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Contract grading is a course-level arrangement in which the teacher presents a number of options (such as a specified number of correct responses or quality of performance), and within these limits each student may then propose a specific set of work at the beginning of the term. The work is completed when the agreed criteria are met, and the plan can incorporate mastery-learning features allowing students to repeat a given test. The memo reports that about one-third of Michigan graduate TAs used some variation of a contract plan.

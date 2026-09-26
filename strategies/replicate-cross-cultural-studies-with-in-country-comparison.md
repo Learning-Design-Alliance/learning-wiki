@@ -17,6 +17,7 @@ sources:
 # Replicate cross-cultural psychosocial studies with additional samples and in-country comparison groups
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The authors recommend that cross-cultural findings warrant replication with additional sample groups of first-generation Asian immigrants, and that administering "the same test on Koreans in Korea would be helpful to determine the effect of immigration", which could also produce a Korean norm for the MPD. They further recommend comparing groups transferred between extremely different sociocultural environments and studying second-generation immigrants living in a dual culture.

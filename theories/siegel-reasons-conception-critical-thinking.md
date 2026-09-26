@@ -16,6 +16,7 @@ sources:
 # Siegel's reasons conception: critical thinking as being appropriately moved by reasons
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Harvey Siegel's plenary paper presents a conception in which critical thinking is closely linked to reasons and rationality: 'a critical thinker is one who is appropriately moved by reasons.' The account has two essential components: skills and abilities of reason assessment, and the critical spirit, a set of dispositions, habits of mind and character traits that dispose a person to demand reasons and to conform belief, judgment and action to the results of fair-minded evaluation of reasons. Siegel argues both components are necessary and only jointly sufficient, making critical thinking an ideal of a certain sort of person as much as a certain sort of thinking.

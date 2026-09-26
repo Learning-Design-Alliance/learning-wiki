@@ -12,6 +12,7 @@ generated:
 # Show Me
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size · 2 claims rest on one study
 
 ## Description
 Show Me means presenting key information, directions, and task structures visually — on slides, the board, or a shared document — at the same time they are delivered verbally. The visual channel provides reinforcement, a permanent reference learners can return to, and a second route into the content for anyone who missed or misprocessed the spoken version.

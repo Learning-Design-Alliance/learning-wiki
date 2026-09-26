@@ -17,6 +17,7 @@ sources:
 # Manage the three load types: reduce extraneous load, optimize intrinsic load, and increase germane load
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article states that instructional material is most effective when no load type overburdens working memory capacity, and that educators must manage the three loads differentially. It attributes to Van Merrienboer and Sweller the directive that "Educators must seek to reduce extraneous load, optimize intrinsic load, and increase germane load". Reducing extraneous load frees working-memory capacity that can then be allocated to germane processing, supporting schema construction in long-term memory.

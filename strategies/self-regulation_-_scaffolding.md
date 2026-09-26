@@ -12,6 +12,7 @@ generated:
 # Self-Regulation - Scaffolding
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 10 studies, `q3`–`q4` · 9 of 10 report an effect size
 
 ## Description
 Self-regulation is the ability to monitor and alter one's emotional, attentional, and behavioral responses in service of goals. Scaffolding self-regulation means supplying temporary external supports — explicit routines, cueing prompts, modeled coping strategies, and a calm adult who co-regulates — so learners can practice managing responses they could not yet manage alone. As with all scaffolding, supports are gradually faded as the learner internalizes the strategies. The emotionally safe context is not incidental: chronic stress and threat impair the executive function that self-regulation depends on, so felt safety is a precondition for practice [~S].

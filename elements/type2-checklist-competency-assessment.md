@@ -17,6 +17,7 @@ sources:
 # Type 2 checklist assessment: tasks coded to each first-grade critical objective for teacher judgment of progress
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The Type 2 instrument is a checklist-format assessment going beyond multiple choice, in which each critical objective is paired with a performance task teachers can use to judge student understanding and proficiency. The guide states "The checklist provided contains only the first grade critical objectives from the Model Competency-Based Mathematics Program." Thirteen tasks cover sorting, story-problem generation, arranging acorns in equal rows, shape identification, coin counting, probability, measurement, number sentences, decomposition, counting on, and Wigiwump leg-combination tasks, with a satisfactory-progress checklist for recording.

@@ -16,6 +16,7 @@ sources:
 # Third Space framework for everyday and academic language interaction in classrooms
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Third Space, drawn from Vygotsky and Gutierrez et al., treats students' community as Space 1, where familiar registers are used, and the school classroom as Space 2, favoring technical vocabulary. The framework posits an emergent classroom space where formal and everyday ways of knowing interact bi-directionally, letting students test formal practices with everyday language and generalize everyday language into formal uses. The authors use it to interpret how ELLs' invented and familiar terms entered and shaped a physics discussion.

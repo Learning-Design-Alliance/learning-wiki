@@ -12,6 +12,7 @@ generated:
 # Jigsaw
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Jigsaw is the element in which parts of a topic are distributed across learners who then teach one another to assemble the whole.

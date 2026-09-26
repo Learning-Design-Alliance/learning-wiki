@@ -12,6 +12,7 @@ generated:
 # Shadowing (for behavior adjustment)
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 10 studies, `q3`–`q4` · 10 of 10 report an effect size
 
 ## Description
 Shadowing assigns a dedicated adult to stay within arm's reach of a child throughout the day, intervening early to prevent unsafe or disruptive behavior before it occurs. The adult uses the close proximity to coach replacement behaviors in the moment, teach coping strategies, and gather detailed observation data on the behavior's antecedents. Shadowing continues until the child is roughly two weeks incident-free, then fades.

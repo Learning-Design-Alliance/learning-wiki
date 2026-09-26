@@ -17,6 +17,7 @@ sources:
 # Apply the same educator standards across evaluation, recruitment and hiring, and preparation program selection
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 This principle holds that a single set of teacher and leader standards should govern effectiveness evaluation, recruitment and hiring, and preparation program entry and graduation decisions. The document argues that "The same teacher and leader standards that are used to assess teacher and principal effectiveness should be applied during recruitment and hiring," citing Milanowski, Prince, and Koppich (2007) that this consistency can aid selection decisions and signal mismatched candidates to self-select out. It is one of the framework's illustrations of how consistent expectations make policy sections mutually reinforcing.

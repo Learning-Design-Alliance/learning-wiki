@@ -12,6 +12,7 @@ generated:
 # Bridging Individualism and Collectivism
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q3` · 1 of 5 report an effect size
 
 ## Description
 This strategy addresses the value-system mismatch that occurs when learners from collectivistic backgrounds — where interdependence, helpfulness, and group success are primary — encounter classrooms organized around individualistic norms of independence, individual achievement, and public self-display. Teachers bridge the two systems by deliberately pairing individual and collective structures: collaborative work alongside individual accountability, group celebrations of individual accomplishment, and validation of the social contexts in which learning happens at home. The approach originated in the Bridging Cultures Project, a teacher-research collaboration in California classrooms [Greenfield, Trumbull, & Rothstein-Fisch, 2003].

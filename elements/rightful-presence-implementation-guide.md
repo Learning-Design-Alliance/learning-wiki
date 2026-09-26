@@ -16,6 +16,7 @@ sources:
 # Rightful Presence Implementation Guide (swiftschools.org)
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The brief points readers to the "Rightful Presence Implementation Guide (swiftschools.org)" for "ideas about how to get started on the journey in your community." It is a companion resource released alongside this issue brief to support communities beginning rightful presence work.

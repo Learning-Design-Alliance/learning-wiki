@@ -17,6 +17,7 @@ sources:
 # Design asynchronous online activities so that external outputs receive formative feedback, enabling higher ICAP modes
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends explicitly designing task-based formative feedback into asynchronous online learning activities so that student-produced external outputs are used to move thinking to higher engagement modes. The audit found "Limited opportunities for feedback on external outputs was also identified as an area requiring attention to produce higher modes of activity and feedback." Simulations and multimedia assets producing reviewable external outputs used in assessments exemplify this design.

@@ -17,6 +17,7 @@ sources:
 # Annotated oral English corpus of 4,374 recordings from 486 Chinese university students across five diagnostic dimensions
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The study constructed a purpose-built oral English corpus for training and evaluating the diagnostic model. Recordings were made in acoustically treated rooms with professional condenser microphones, and three trained evaluators scored each recording on 1–9 scales aligned with IELTS speaking band descriptors, with "inter-rater reliability, measured through intraclass correlation coefficients, exceeded 0.85 for every dimension." The corpus spans elementary to advanced proficiency levels and picture description, opinion expression, and simulated conversation tasks.

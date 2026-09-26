@@ -14,6 +14,7 @@ grain_size: unit, course
 # Team Based Learning
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 4 claims (4 for) · 10 studies, `q2`–`q4` · 7 of 10 report an effect size
 
 ## Description
 Team-Based Learning is a complete instructional strategy, not an occasional group activity. It resembles a [flipped classroom](flipped-learning.md) in that students first meet the fundamental material outside class (Demetry, 2010), but differs in two ways: in-class application runs through structured team interaction around specific problems, and every unit opens with a formal assessment of how well the pre-class material landed before any application work begins. Students are assigned to permanent, instructor-formed teams of 5–7 that stay together for the entire term. Each instructional unit follows a fixed cycle: individual pre-reading, an individual readiness test (iRAT), the same test taken as a team (tRAT), written appeals, and then the majority of class time spent on team application exercises in which all teams work simultaneously on the same significant problem and report their choices publicly. The design solves the chronic failure modes of group work — free-riding, unequal preparation, and shallow discussion — by making individual accountability and team accountability mutually reinforcing.

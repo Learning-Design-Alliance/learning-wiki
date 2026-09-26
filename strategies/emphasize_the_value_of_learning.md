@@ -12,6 +12,7 @@ generated:
 # Emphasize the Value of Learning
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
 
 ## Description
 This strategy shifts learners' attention from performance outcomes (grades, rankings) toward the intrinsic value and purpose of what they are learning. It is carried out by explicitly connecting tasks to learners' lives and goals, giving feedback framed around growth rather than judgment, and designing activities whose value is self-evident. Without this emphasis, learners tend to base self-perceptions of intelligence and worth on grades received, promoting a fixed mindset.

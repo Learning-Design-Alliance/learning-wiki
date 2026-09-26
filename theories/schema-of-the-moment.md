@@ -16,6 +16,7 @@ sources:
 # The schema-of-the-moment: cognition as a transient functional organization of simultaneously active neuronal elements
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper's central construct is the schema-of-the-moment, a momentary functional pattern created by the simultaneous activity of distributed neuronal elements, replacing the structural view of stored mental templates. The authors state that "it is in/terms of this 'functioning mass of the 'moment,'asBartlett(1932)andHead '(1920)'. 'calledit,thatallcognitiveactivity(including perception, affection, learning, etc.) takes place". It is assumed to be the only structural cognitive pattern existing in an individual at a given time; everything else is neuroanatomic.

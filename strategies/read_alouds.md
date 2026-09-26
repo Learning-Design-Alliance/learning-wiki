@@ -12,6 +12,7 @@ generated:
 # Read-Alouds
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 against) · 8 studies, `q1`–`q4` · 6 of 8 report an effect size
 
 ## Description
 A read-aloud is an instructional strategy in which the teacher reads a text aloud to learners — typically above their independent reading level — while pausing to model comprehension strategies, discuss vocabulary, and think critically about the text. In its interactive form, learners are active participants: predicting, questioning, and responding rather than passively listening.

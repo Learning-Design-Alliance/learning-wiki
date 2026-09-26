@@ -12,6 +12,7 @@ generated:
 # GoNoodle Activities
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies, `q3` · 2 of 4 report an effect size
 
 ## Description
 GoNoodle ([gonoodle.com](https://www.gonoodle.com)) is a free digital platform of short interactive videos — dance breaks, mindfulness and breathing exercises, yoga, and movement-based academic content — designed for classroom use with children. Teachers deploy 2–10 minute activities as energizers, transitions, or calming routines, embedding physical activity and self-regulation practice into the school day rather than relegating it to recess.

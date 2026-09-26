@@ -12,6 +12,7 @@ generated:
 # I Do, We Do, You Do
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 4 studies, `q3` · 4 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 I Do, We Do, You Do (gradual release of responsibility) is a three-phase instructional sequence: the instructor models the task with explicit reasoning ("I do"), learners attempt it collaboratively or with instructor guidance ("we do"), and finally learners perform it independently ("you do"). It operationalizes the principle that control of a task should shift from expert to learner as competence develops, rather than being released all at once or never at all.

@@ -17,6 +17,7 @@ sources:
 # Balloons: A Concepts About Print Assessment, a criterion-referenced 17-item measure from the Kindergarten Assessment Portfolio
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The Balloons test, locally constructed in 1991, is "a criterion-referenced measure from the Kindergarten Assessment Portfolio" used to assess kindergarten pupils' concepts about print. Its 17 scored objectives include knowing the front of the book, that print rather than pictures carries the message, left-to-right movement, one-to-one word match, and concepts of letter, word, and capital letter. Program teachers administered it the week of March 29, 1993; successful completion of at least 12 of 17 items was considered appropriate for promotion to grade 1.

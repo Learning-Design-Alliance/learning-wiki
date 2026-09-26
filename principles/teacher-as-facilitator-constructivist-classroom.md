@@ -17,6 +17,7 @@ sources:
 # In constructivist classrooms the teacher acts as a facilitator while learners construct, question, and integrate meaning
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article states that in constructivist classrooms learners do not passively repeat teacher-delivered information; learning involves "constructing, creating, inventing, and developing one's own knowledge and meaning." The teacher's role is a facilitator who provides information and organizes activities for learners to discover their own learning, with learners demonstrating understanding through critical questions and summarizing in their own words.

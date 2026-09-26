@@ -12,6 +12,7 @@ generated:
 # Social Learning
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size
 
 ## Description
 Social learning is the principle that understanding and performance often develop through interaction with other people, not just individual study. Discussion, observation, explanation, critique, and shared activity can all help learners test ideas, appropriate expert practices, and refine judgment.

@@ -12,6 +12,7 @@ generated:
 # Effective Feedback
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 mixed, 1 against) · 5 studies, `q2`–`q4` · 3 of 5 report an effect size
 
 ## Description
 Feedback is any response from a teacher, peer, or system regarding a student's performance or behavior — verbal, written, or gestural. Effective feedback does more than evaluate: it tells the learner *where they are* relative to a goal, *how* to close the gap, and prompts them to monitor and adjust their own learning strategies. Its power depends less on how much is given than on whether the learner can act on it.

@@ -17,6 +17,7 @@ sources:
 # Young innovator attribute framework: five synthesized aspects
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article synthesizes desired characteristics of young innovators from seven prior sources (Jeffrey et al., 2009; Wongtienlai et al., 2019; Tonghom et al., 2017; National Innovation Agency, 2022; Phatrawat, 2020; Tsou et al., 2014; Yams, 2017) into five aspects. As printed in Table 1, "young innovators consist of five aspects as follows. Linking problems by learners using problems as a catalyst for problem-solving; questioning or defining a hypothesis by allowing learners to ask a series of questions systematically; observing details or collecting insights data on new methods to predict the possibility of innovation; experiment, daring to make decisions, daring trial and error; and create networking, expanding innovation to social media." This framework serves as the output element of the developed model.

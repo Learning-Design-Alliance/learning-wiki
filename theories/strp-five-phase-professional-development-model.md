@@ -16,6 +16,7 @@ sources:
 # STRP five-phase professional development model
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 STRP is grounded in a five-phase professional development model whose phases the article enumerates as "building a knowledge base, observing models and examples, reflecting on your own practice, changing your practice, and gaining expertise." The model offers teachers and administrators a repertoire of collaborative experiences, including participation in Summer institutes, action research, peer coaching, instructional conversations, audioconferences, and computer networking. It underpins the staff development initiative the studied schools adopted to raise Hispanic students' reading comprehension.

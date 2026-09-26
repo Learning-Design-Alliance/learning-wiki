@@ -17,6 +17,7 @@ sources:
 # Sequence virtual simulation before authentic video across skill-development stages in teacher observation training
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends that teacher training programs exploit the complementary roles of different media across skill stages: begin with virtual simulation to reduce extraneous cognitive load and stimulate focused reflection, then progress to authentic video to hone detail capture, theoretical analysis, and support planning. The study implemented this as four sequential workshops with observation prompts and group discussion followed by written observation-analysis-support texts.

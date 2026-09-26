@@ -12,6 +12,7 @@ generated:
 # Effective Materials Management
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies, `q2`–`q4` · 5 of 8 report an effect size
 
 ## Description
 Effective materials management is the deliberate design of the physical and digital environment so that papers, supplies, and resources have predictable, labeled, easily accessible locations. Typical mechanisms include in/out baskets for paper flow, labeled cubbies and bins, standardized folder systems, and supply stations positioned to minimize movement and wait time. The goal is to reduce transition losses and off-task behavior so that instructional time is spent on learning rather than searching.

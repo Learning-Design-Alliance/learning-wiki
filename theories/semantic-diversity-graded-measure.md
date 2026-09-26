@@ -16,6 +16,7 @@ sources:
 # Semantic diversity as a graded measure of contextual diversity based on document content overlap
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Semantic diversity, introduced by Jones et al. (2012) and independently by Hoffman et al. (2013), is a graded operationalization of contextual diversity that accounts for the semantic overlap among the documents in which a word occurs, rather than simply counting distinct documents. The chapter explains that "Semantic diversity considers the information overlap in documents when computing a word's CD as a metric of word overlap," so that multiple encounters of a word in the same or highly similar documents do not substantially increase its likely need. It addresses the limitation of document-count measures that ignore the content of contexts.

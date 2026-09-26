@@ -12,6 +12,7 @@ generated:
 # Feedback Sandwich
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q4` · 4 of 4 report an effect size
 
 ## Description
 The feedback sandwich delivers feedback in three parts: a positive comment, the corrective feedback, then a second positive comment. The intent is to soften the impact of criticism, reduce defensiveness, and maintain rapport. It is a *delivery* structure rather than a feedback-content model — it says nothing about what information the learner actually needs.

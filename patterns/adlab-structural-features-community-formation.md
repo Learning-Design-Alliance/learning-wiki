@@ -17,6 +17,7 @@ sources:
 # Four structural features plus one instructional choice that foster a classroom community of practice in an advanced laboratory
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article identifies four structural features of AdLab: "Paucity of instructor time", "All in the room together", "Experiments long and hard", and "Same experiments at diﬀerent times". These are supported by one primary instructional choice: the instructor "deliberately encourages the sharing and developing of knowledge and understanding between lab groups". The authors argue all four structural features are necessary for the enculturation elements to develop, reasoning counterfactually about what would fail if each were absent.

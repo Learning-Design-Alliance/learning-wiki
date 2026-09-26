@@ -12,6 +12,7 @@ generated:
 # Continuous Review
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
 
 ## Description
 Continuous review is the systematic revisiting of previously taught material at expanding intervals throughout a course, rather than treating each topic as "covered" once and moving on. It functions as a structural commitment: earlier content is deliberately woven into later tasks, assessments, and warm-ups so that retention is maintained by design rather than left to chance.

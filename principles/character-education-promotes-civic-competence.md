@@ -17,6 +17,7 @@ sources:
 # Promote civic competence at the formal level through a character education approach grounded in virtue development
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends character education, "rooted in the Aristotelian philosophical tradition", which "seeks to promote the development of virtues or stable character traits", including moral, civic, intellectual, and performative dispositions. It rests on two suppositions: good character is related to flourishing and to the development of society. University initiatives under this approach promote civic competence including leadership, teamwork, prosocial behavior, and critical thinking, either through curricular subjects, extracurricular programs, or research-focused initiatives.

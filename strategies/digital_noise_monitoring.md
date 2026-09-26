@@ -12,6 +12,7 @@ generated:
 # Digital Noise Monitoring
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 3 of 4 report an effect size
 
 ## Description
 Digital noise monitoring involves using apps or devices (e.g., Too Noisy, Bouncy Balls, ClassDojo's noise meter) to detect ambient sound levels and signal when they exceed a predetermined threshold, typically via visual displays (a meter, changing colors, an animated face) or auditory cues. The tool externalizes an otherwise implicit classroom norm — "quiet enough" — into a continuously visible signal, shifting some regulation of the sound environment from teacher intervention to student self-monitoring.

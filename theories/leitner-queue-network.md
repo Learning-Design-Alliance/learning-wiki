@@ -16,6 +16,7 @@ sources:
 # Leitner Queue Network
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The Leitner Queue Network is the article's stochastic model of a spaced repetition system, embedding an exponential forgetting curve in a network of queues, one per Leitner deck; it is "based on ideas from queueing theory and job scheduling". New items enter deck 1, recalled items move up, forgotten items move down, and a static schedule chooses an arrival rate and per-deck review rates to maximize the rate of mastered items.

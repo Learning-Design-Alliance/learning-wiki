@@ -17,6 +17,7 @@ sources:
 # Pursue new theory directions to close the media-ISD gap: specialized models, new testing methods, combined design-development-evaluation models, and message design theory
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article proposes four directions for closing the theoretical gap between media selection and other ISD steps: "more specialized models", "new ways to test models", "models which combine design, development, and evaluation", and "message design theory which relates types of learning and other variables". The author supports these with examples including Willis' R2D2 model, Seels and Glasgow's ISD Model 2, rapid prototyping, and a message design conceptual structure incorporated into a performance support system.

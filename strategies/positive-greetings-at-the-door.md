@@ -12,6 +12,7 @@ generated:
 # Positive Greetings At The Door
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 8 studies, `q1`–`q4` · 1 of 8 report an effect size
 
 ## Description
 Positive Greetings at the Door (PGD) is a brief classroom-management routine in which the teacher stands at the doorway during transitions and greets each entering student by name with a positive, respectful interaction — a welcome, a handshake, a check-in question, or a brief personalized comment. The routine takes seconds per student and replaces passive or adversarial entry with a structured relational moment before instruction begins.

@@ -17,6 +17,7 @@ sources:
 # Apply a recency adjustment to Bayesian knowledge-estimation updates instead of a static learning rate
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study, `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The paper's concluding recommendation is that student-model designers consider replacing a static learning rate with a recency adjustment to Bayesian updates, because this "can lead to better properties of knowledge estimation, compared to using a static learning rate". It also proposes treating latent knowledge as a multistate variable rather than 2 states, leading to smoother updates in the learning level estimate. The recommendation rests on the model's demonstrated estimation properties rather than prediction gains.

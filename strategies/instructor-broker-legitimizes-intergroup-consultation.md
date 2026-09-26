@@ -17,6 +17,7 @@ sources:
 # Instructor acts as a broker between classroom and professional communities, deliberately legitimizing inter-group consultation
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article describes the teacher taking on "the role of a broker, acting as a go-between the two communities and guiding the classroom community closer to that of the practicing physics community". In AdLab this was enacted when the instructor, unaware which atomizer worked best, invited a member of the previous group to share his expertise, thereby "negotiating the norm that it is okay to consult with other groups". This deliberate instructional choice supports the development and sharing of knowledge and resources between lab groups.

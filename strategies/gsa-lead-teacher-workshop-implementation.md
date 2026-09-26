@@ -17,6 +17,7 @@ sources:
 # Implement GSA through a lead-teacher who runs introductory and regular inservice workshops with scheduled taping
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The document prescribes a step-by-step implementation procedure for inservice settings: an experienced supervisor is designated as lead-teacher, trained in the procedures and materials, and holds an introductory workshop in which teachers analyze videotaped samples of teaching using the manuals. The lead-teacher then works out a schedule for taping and coding, gives each participant access to playback equipment, and conducts regular inservice workshops where teachers review insights, discuss curriculum materials, resolve common problems, and share creative ideas. The design is described as clear, concise and manageable, fitting existing school organizational routines.

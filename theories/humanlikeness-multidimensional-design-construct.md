@@ -16,6 +16,7 @@ sources:
 # Humanlikeness as a multidimensional design construct extending beyond physical appearance
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article argues humanlikeness should be defined broadly, extending beyond outward physical appearance: "Humanlikeness may vary along multiple dimensions, including the number, salience, and specificity of features; designed behaviors and interaction conventions; interface characteristics; and even the inspiration underlying processes of autonomy." For example, reinforcement learning represents a humanlike way for robots to learn. The construct is also inherently relational and perception-dependent, operationalized via consensus in human judgment on a spectrum from less to more humanlike.

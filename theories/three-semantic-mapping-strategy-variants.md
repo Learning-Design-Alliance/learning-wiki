@@ -16,6 +16,7 @@ sources:
 # Three variants of semantic mapping instruction: teacher-initiated, student-mediated, and teacher-student interactive
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article distinguishes three ways of organizing semantic mapping instruction. In the teacher-initiated condition the teacher draws the map and students copy and extend it; in the student-mediated condition students generate their own prereading maps and revise them after reading; in the interactive condition "the teacher elicited students' background knowledge about the title of the assigned passage by asking students to respond to questions pertaining to it," with new information added through teacher-student interaction. The author argues the interactive strategy "capitalizes on the strengths of both teacher-initiated and student-mediated strategies and thereby shares the weaknesses of neither."

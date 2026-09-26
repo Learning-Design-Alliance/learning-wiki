@@ -12,6 +12,7 @@ generated:
 # Before or After-School Physical Activity Programs
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size
 
 ## Description
 Before- or after-school physical activity programs provide structured opportunities for movement outside instructional hours — morning exercise or "wake-up" sessions, intramural sports, walking clubs, or open recreational use of school facilities. They are typically delivered by teachers, coaches, or trained staff, and range from free-play supervision to sequenced skill instruction. The strategy positions physical activity as a complement to, rather than a replacement for, classroom learning time.

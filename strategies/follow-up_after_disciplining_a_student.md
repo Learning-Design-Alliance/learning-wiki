@@ -12,6 +12,7 @@ generated:
 # Follow-Up After Disciplining a Student
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 mixed) · 2 studies, `q3`–`q4` · 0 of 2 report an effect size
 
 ## Description
 After disciplining a learner, the instructor deliberately re-engages rather than letting the incident define the relationship. The follow-up has three components: a private check-in to repair the relationship, explicit acknowledgment of the learner's post-disciplinary successes, and sustained effort over time — because learners accustomed to negative attention do not recalibrate after a single positive interaction.

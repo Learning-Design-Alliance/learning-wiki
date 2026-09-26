@@ -12,6 +12,7 @@ generated:
 # Descriptive Feature Chart
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 6 of 7 report an effect size
 
 ## Description
 A descriptive feature chart is a graphic organizer with horizontal and vertical axes used to develop a descriptive model of an organism. Rows typically represent feature categories (e.g., Body Parts, Number, Color and Shape, Position, Appearance) and columns represent organisms, specimens, or observation sessions. Students record observations in each cell, producing a structured data table that can then support comparison, classification, and written description. It is common in elementary science instruction, where it converts open-ended looking into systematic observation.

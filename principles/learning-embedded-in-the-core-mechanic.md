@@ -29,6 +29,7 @@ sources:
 # Learning Embedded in the Core Mechanic
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 5 claims (4 for, 1 mixed) · 10 studies, `q3`–`q4` · 8 of 10 report an effect size · 2 claims rest on one study
 
 ## Description
 The most common way a learning game fails is structural rather than aesthetic: the learning and the play are two activities, and the play is the reward for surviving the learning. A racing game with a popup question before each lap, a shooter that pauses for a vocabulary item — in both, the essential repeated activity is still racing or shooting, and the learning is an interruption of it. Plass and colleagues put the prescription plainly, reporting the same conclusion from the designers Isbister, Flanagan and Hash (2010) interviewed: **learning needs to be embedded in the core mechanics of a game rather than added on to existing mechanics.** Game play cannot be used as a reward for answering questions about facts, and factual quizzes cannot be forced into unrelated game play.

@@ -17,6 +17,7 @@ sources:
 # Design with students rather than for them by interviewing the actual users of the curriculum
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article argues that designers "tend to unconsciously default to imagined users whose experiences are similar to their own", producing what Costanza-Chock calls "a spiral of exclusion". Empathy interviews counter this by having teachers hear the stories of the students who will actually use what they design. The guide invokes the disability rights mantra "Nothing about us without us" as the rationale for designing with rather than designing for marginalized learners.

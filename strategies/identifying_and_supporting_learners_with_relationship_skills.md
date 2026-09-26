@@ -12,6 +12,7 @@ generated:
 # Identifying and Supporting Learners with Relationship Skills
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 8 studies, `q3`–`q4` · 8 of 8 report an effect size
 
 ## Description
 Relationship skills — one of the five CASEL social-emotional learning competencies — encompass establishing and maintaining healthy relationships, communicating clearly, listening, cooperating, negotiating conflict, and seeking or offering help. Identifying learners who struggle in this domain means using structured observation, self-report, and peer- or teacher-rating tools to locate specific skill gaps rather than labeling a learner as simply "not social." Supporting them means deliberately engineering practice opportunities, modeling, and feedback within ordinary academic activities, since social competence develops through guided, repeated interaction rather than exhortation.

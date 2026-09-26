@@ -17,6 +17,7 @@ sources:
 # WorldWide Telescope as a module-development technology requiring the least technical experience
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 WorldWide Telescope (WWT) is described as "an interactive scientiﬁc data visualization and aggregation package developed by Microsoft Research," offering all-sky and high-resolution astronomical imagery and a 3D Universe visualization. Its key authoring feature is interactive narrated tours built from slides, which users can pause and manipulate during playback. The article identifies it as requiring "the least technical/programming experience of any of the technologies described here."

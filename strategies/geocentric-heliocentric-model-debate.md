@@ -17,6 +17,7 @@ sources:
 # Debate entre grupos asignados a los modelos geocéntrico y heliocéntrico para explorar explicaciones alternativas de los mismos fenómenos
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Tras leer textos que presentan las diferentes cosmovisiones sostenidas a lo largo de la historia, cada grupo de alumnos recibe uno de los dos modelos teóricos y confecciona una lista con los argumentos, explicaciones y evidencias que sostienen su postura, anticipando y refutando los argumentos contrarios. Los alumnos recrean los modelos con la esfera de telgopor, su eje de 16 cm y una lámpara incandescente.

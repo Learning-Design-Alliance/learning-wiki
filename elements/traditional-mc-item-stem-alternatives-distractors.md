@@ -17,6 +17,7 @@ sources:
 # Traditional multiple-choice test item structure: stem, alternatives, and plausible distractors
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article defines the traditional multiple-choice test item as consisting 'of two basic parts: (1) a problem (stem ), and (2) a list of suggested solutions (alternatives/options )', with one correct or best alternative and a number of incorrect alternatives (distractors). Distractors should appear plausible to students who have not achieved the objective and implausible to those who have. The article cites the prescription that distractors are best constructed when comparable in length, complexity, and grammatical form to the answer.

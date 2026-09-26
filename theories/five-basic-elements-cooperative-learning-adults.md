@@ -16,6 +16,7 @@ sources:
 # Five basic elements must be structured into a cooperative learning activity: positive goal interdependence, face-to-face interaction, individual accountability, social skills, and group processing
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The handbook sets out five basic elements, attributed to cooperative learning research, that teachers must deliberately build into a cooperative activity for adult learners. Positive goal interdependence means "The success of each teammate depends on the success of each member", supported by devices such as poker-chip participation tokens and assigned lesson parts. Face-to-face interaction structures dialogue and critical thinking; individual accountability holds each person responsible for participation and performance, for example through the Jigsaw structure; social skills such as communication, adaptability, flexibility, and influencing skills must be identified, modeled, and practiced; and group processing has the team evaluate how it worked together.

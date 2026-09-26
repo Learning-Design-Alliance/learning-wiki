@@ -16,6 +16,7 @@ sources:
 # Theory of Mental Self-government as a five-dimension taxonomy of thinking styles
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article organizes thinking styles measurement around Sternberg's Theory of Mental Self-government, which it calls a popular theory that "includes the most elements of thinking styles and structures that correspond with both Western and Eastern contexts." The theory "divides multidimensional styles of thinking into 5 dimensions": functions (legislative, executive, judicial), forms (monarchic, hierarchic, oligarchic, anarchic), levels (global, local), scope (internal, external), and leanings (liberal, conservative), producing a profile of styles rather than a single style.

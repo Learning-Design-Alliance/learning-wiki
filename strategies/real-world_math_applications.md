@@ -12,6 +12,7 @@ generated:
 # Real World Math Applications
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 mixed, 1 unmarked) · 4 studies, `q3`–`q4` · 2 of 4 report an effect size
 
 ## Description
 Real-world math applications anchor mathematical concepts in authentic contexts — budgeting, design, sports statistics, engineering, commerce — so learners see how the mathematics functions outside the classroom. The strategy is carried out by selecting or constructing tasks whose context genuinely requires the target mathematics, then having learners model, compute, and interpret results within that context rather than practicing decontextualized procedures alone.

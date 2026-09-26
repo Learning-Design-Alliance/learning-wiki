@@ -17,6 +17,7 @@ sources:
 # Zone Notebooks: learner journals for processing, assessment, and sharing
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Zone Notebooks are learner-maintained journals built into the curriculum. "Scattered throughout the curriculum are questions that help youth think about their experiences," which youth answer in their notebooks along with data sheets and other materials produced during the riparian adventure. Learners provide their own notebooks and are encouraged to personalize them with artwork, articles, photos, collages, and poems. The notebooks serve three functions: helping participants process experiences as they go, helping leaders evaluate whether the group understands the material, and helping youth tell others what their group learned and accomplished.

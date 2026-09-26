@@ -12,6 +12,7 @@ generated:
 # Collaborative Writing with Online Platforms
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies, `q2`–`q4` · 6 of 9 report an effect size
 
 ## Description
 Collaborative writing with online platforms involves students jointly composing texts through digital tools such as Google Docs, Microsoft 365, or wikis. The platforms' affordances — simultaneous co-authoring, suggestion mode, inline commenting, and version history — make the writing process visible and revisable in ways paper cannot. Students draft segments, comment on each other's contributions, negotiate revisions, and often publish the result to an authentic audience such as a class blog.

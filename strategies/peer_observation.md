@@ -12,6 +12,7 @@ generated:
 # Peer Observation
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q4` · 2 of 2 report an effect size
 
 ## Description
 Peer observation is a reciprocal, non-evaluative process in which colleagues (or peers in a classroom) observe one another's practice using a shared protocol, then meet to discuss what was observed. It converts teaching — or any performable skill — into an object of shared scrutiny, making tacit decisions visible and open to formative feedback rather than summative judgment.

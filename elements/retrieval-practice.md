@@ -12,6 +12,7 @@ generated:
 # Retrieval Practice
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Retrieval practice is the element in which learners recall information from memory rather than only re-exposing themselves to it.

@@ -12,6 +12,7 @@ generated:
 # I Used To Think Now I Think
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q3`–`q4` · 3 of 7 report an effect size · 1 claim rests on one study
 
 ## Description
 "I Used to Think… Now I Think…" is a structured reflection routine developed by Project Zero at Harvard's Graduate School of Education. Learners first record their prior understanding or belief about a topic, then articulate their current understanding after instruction, making the *shift* between the two explicit. The routine is typically used at the end of a lesson, unit, or reading, and works best when learners have earlier documented their initial ideas (e.g., via a [See-Think-Wonder](../strategies/see_think_wonder.md)-style prompt or a quick write) so the comparison is concrete rather than reconstructed from memory.

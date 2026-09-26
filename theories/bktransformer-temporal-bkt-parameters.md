@@ -16,6 +16,7 @@ sources:
 # BKTransformer: transformer-based generation of temporally-evolving BKT parameters
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 BKTransformer extends OptimNN by generating BKT parameters that vary over time within a student's problem sequence. A base parameter network f generates per-skill parameters, and a transformer decoder g (GPT-2-style, resembling SAKT) additively adjusts them conditioned on the student's sequence; the key architectural difference from SAKT is that the final layer "outputs BKT parameters as opposed to the correctness prediction". Predicting BKT parameters rather than correctness directly lets correctness predictions be "probabilistically justified by the produced slip, guess, forget, and learn parameters", retaining a layer of interpretability over deep KT methods while allowing non-Markovian learning and parameter sharing across skills.

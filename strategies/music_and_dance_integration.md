@@ -12,6 +12,7 @@ generated:
 # Music and Dance Integration
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy integrates music, rhythm, and structured movement into academic lessons — most commonly mathematics — so that abstract concepts are experienced bodily as well as verbally and visually. Activities range from clapping and stepping to counting patterns and fractions, to full choreographies encoding concepts such as triangular or square numbers. Learners may perform movements to build their own understanding, or design and perform dances to teach a concept to an audience.

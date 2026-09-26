@@ -12,6 +12,7 @@ generated:
 # Genius Hour / 20% Time
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 10 studies, `q2`–`q4` · 7 of 10 report an effect size
 
 ## Description
 Genius Hour (also called 20% Time) allocates a recurring block of instructional time — typically one hour per week — for learners to investigate a question or build a product of their own choosing. The strategy borrows from corporate innovation practices (notably Google's former 20% policy) and combines student autonomy with structured inquiry cycles: pitch, research, create, and share. It is carried out through teacher-facilitated but learner-directed project work, usually culminating in a public presentation or exhibition.

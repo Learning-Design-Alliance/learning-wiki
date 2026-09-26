@@ -12,6 +12,7 @@ generated:
 # Teach Self-Regulation Skills
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (4 for, 1 mixed) · 12 studies, `q3`–`q4` · 12 of 12 report an effect size
 
 ## Description
 This strategy makes the processes of self-regulation — goal setting, strategy use, self-monitoring, and self-evaluation — an explicit object of instruction rather than an assumed prerequisite. Learners are taught concrete tactics (planning before working, checking comprehension while reading, revising after feedback) and given structured opportunities to apply and reflect on them. Instruction typically follows a cycle of modeling, guided practice, and independent application with fading support.

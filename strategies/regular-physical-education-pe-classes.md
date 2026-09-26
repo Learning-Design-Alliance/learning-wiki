@@ -12,6 +12,7 @@ generated:
 # Regular Physical Education (PE) Classes
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies, `q3` · 2 of 4 report an effect size
 
 ## Description
 Regular PE classes provide scheduled, structured periods of physical activity and movement-skill instruction several times per week, taught by qualified instructors rather than left to recess or incidental activity. Quality PE combines moderate-to-vigorous physical activity (MVPA) with instruction in motor skills, fitness knowledge, and cooperative behavior, making it a curricular commitment rather than a discretionary break.

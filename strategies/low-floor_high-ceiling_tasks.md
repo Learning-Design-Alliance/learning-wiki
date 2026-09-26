@@ -12,6 +12,7 @@ generated:
 # Low Floor, High Ceiling Tasks
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 unmarked) · 9 studies, `q3`–`q4` · 8 of 9 report an effect size
 
 ## Description
 A low floor, high ceiling task is an open-ended problem that can be accessed with minimal prior knowledge — anyone can make a start — while containing extensions that challenge advanced learners. Rather than differentiating by assigning different problems to different students, the single task itself accommodates a wide range of entry points and depths of engagement. The approach originated in mathematics education reform (Sullivan, Clarke, & Wallbridge, 2011) and is central to problem-based curricula such as [Youcubed](https://www.youcubed.org) and [NRICH](https://nrich.maths.org).

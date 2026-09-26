@@ -12,6 +12,7 @@ generated:
 # Emotion Check Ins
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 4 of 7 report an effect size
 
 ## Description
 An emotion check in is a short, low-stakes routine — a mood scale, emoji selection, one-word share, or quick written prompt — through which learners report how they are feeling at the start of a lesson, after a transition, or before a high-stakes task. Naming emotions (affect labeling) reduces their intensity and supports regulation, while the aggregated signal tells the instructor whether to adjust pacing, revisit content, or address climate before instruction begins.

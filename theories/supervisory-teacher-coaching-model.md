@@ -16,6 +16,7 @@ sources:
 # Supervisory teacher coaching as a reform professional-development activity
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Supervisory teacher coaching is a form of coaching in which "an outside expert or supervisor who gives specific, positive, and corrective coaching when needed provides supervisory teacher coaching," offered after an observed lesson to move the teacher toward a desired level of performance. The review positions it as a reform PD activity extending professional development through in-depth study of theory, observation of demonstrations, and continuous practice with timely feedback. It is used as a stand-alone intervention in some studies and paired with PD in most reviewed studies.

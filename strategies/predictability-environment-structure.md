@@ -12,6 +12,7 @@ generated:
 # Predictability: Environment & Structure
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
 
 ## Description
 This strategy establishes stable, repeated patterns in how a learning environment looks, is organized, and operates — consistent navigation, recurring activity formats, predictable assignment structures, and regular routines. The goal is to make the *container* of learning automatic so that working memory and attention are spent on the *content*. Predictability is carried out through consistent page layouts, repeated lesson or module structures, visible schedules and rubrics, and ritualized openings and closings to sessions.

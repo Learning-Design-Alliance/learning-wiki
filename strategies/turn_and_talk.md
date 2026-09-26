@@ -12,6 +12,7 @@ generated:
 # Turn and Talk
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 2 of 2 report an effect size
 
 ## Description
 Turn and Talk involves learners engaging in short discussions with a partner to explain what they heard. The instructor describes a process, pauses at intervals, and directs learners to turn to a partner to explain what they understood. Learners alternate turns speaking, while the instructor observes conversations to check for understanding. This strategy reinforces learning through active discussion.

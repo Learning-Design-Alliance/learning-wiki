@@ -17,6 +17,7 @@ sources:
 # When using elaborative interrogation, model appropriate answers and monitor answer quality
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article proposes that elaborative interrogation benefits learning only when students answer the questions as intended, generating connections among ideas. Because answer quality in this study was poor, the authors recommend that "teachers may find it useful to model appropriate answers and monitor answer quality when using elaborative interrogation with their students". This principle is conditional on future work replicating the study's findings.

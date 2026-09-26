@@ -16,6 +16,7 @@ sources:
 # Hierarchy of four educator styles: information provider, facilitator, demonstrator, and doer
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The how dimension of educator activity is captured by four styles derived primarily from field data and ranked by educator initiative. "Three of the four styles are considered educational styles.They ere the information provider, the facilitator, and the demonstrator," placed on a hierarchy from least to most educator initiative; the doer is the non-educational analogue of the demonstrator, focused on getting the job done rather than developing educational opportunities. An educational style allows opportunity for planned learning; a non-educational style hinders it.

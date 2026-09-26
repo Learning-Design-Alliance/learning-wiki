@@ -12,6 +12,7 @@ generated:
 # Visual Organizers
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 13 studies, `q2`–`q4` · 9 of 13 report an effect size · 1 claim rests on one study
 
 ## Description
 Visual organizers are spatial-graphic representations — concept maps, advance organizers, matrices, flowcharts, timelines, Venn diagrams — that externalize the relationships among ideas in a body of content. The strategy is carried out either by providing a completed organizer before or during instruction, or by prompting learners to construct one themselves as they process the material.

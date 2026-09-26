@@ -16,6 +16,7 @@ sources:
 # Imagination as a neglected cognitive tool essential to Constructivist instruction (Egan)
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper presents imagination, following Egan (1992), as a cognitive tool representing Constructivist instruction as higher-order learning. Imagination enables transcendence of conventional representations, which is necessary to constructing one's sense of any area of knowledge; accepting conventional representations keeps knowledge inert rather than incorporated into one's life. Egan distinguishes human learning from computer operation, warning against thinking of learning as recording symbols for later retrieval, and holds that flexible thinking yields richer and more effective meaning, with memory supplying the material imagination draws on to construct.

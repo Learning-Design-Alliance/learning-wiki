@@ -12,6 +12,7 @@ generated:
 # Expressive Outlets
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 2 of 2 report an effect size
 
 ## Description
 Expressive outlets invite learners to externalize their thoughts and emotions — through journaling, drawing, or talking aloud — before, during, or after demanding learning activities. The mechanism is twofold: emotional disclosure helps learners process worry and gain perspective, and offloading intrusive thoughts onto paper or speech reduces the working-memory burden those thoughts otherwise impose.

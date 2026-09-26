@@ -12,6 +12,7 @@ generated:
 # Creating Visual Representations
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Creating visual representations is the element in which learners externalize understanding through diagrams, sketches, models, or other visuals.

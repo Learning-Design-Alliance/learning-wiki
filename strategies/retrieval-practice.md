@@ -12,6 +12,7 @@ generated:
 # Retrieval Practice
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (1 for, 2 mixed) · 6 studies, `q3`–`q4` · 5 of 6 report an effect size
 
 ## Description
 Retrieval practice asks learners to actively recall information from memory without the material in front of them — through quizzes, brain dumps, flashcards, or discussion prompts. The act of successful retrieval strengthens the memory trace more than restudying the same material, and failed retrievals followed by feedback can be even more instructive. Effective implementations combine retrieval with spacing (practice at intervals), feedback (corrective information when learners struggle), and alignment between practice formats and eventual assessment formats.

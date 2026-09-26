@@ -12,6 +12,7 @@ generated:
 # Explicit Instruction on Book Selection and Care
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
 
 ## Description
 This strategy teaches the procedural and self-regulatory skills of independent reading directly: how to select an appropriate book, how to handle and store materials, how to document reading, and how to participate in sharing routines. The teacher models each procedure, provides guided practice, gives feedback, and schedules periodic revisits so routines remain durable across the year.

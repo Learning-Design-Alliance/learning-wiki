@@ -17,6 +17,7 @@ sources:
 # Increase the use of feedback and correctives through mastery learning procedures
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 An implementable teaching activity: structure instruction so that frequent formative tests give students evidence about their learning, and follow each test with correctives and relearning opportunities before moving on. The authors argue that "mastery learning is a convenient and practical means of increasing the use of feedback and correctives in the average classroom," and that the "feedback/corrective cycle provides students with evidence about their learning and an opportunity to relearn the ideas" they have not understood. They identify this cycle, not rote procedures, as mastery learning's active ingredient.

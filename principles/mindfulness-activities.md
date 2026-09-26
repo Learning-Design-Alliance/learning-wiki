@@ -25,6 +25,7 @@ sources:
 # Mindfulness Activities
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 mixed) · 2 studies, `q3` · 2 of 2 report an effect size
 
 ## Description
 Mindfulness activities are short structured practices that help learners attend to the present moment, notice internal state, and regulate reaction before acting. In learning settings, these activities are often used to support focus, emotional regulation, transition into challenging work, or recovery from stress. Their instructional value is usually indirect: they do not teach content by themselves, but they can improve the conditions under which learners are ready to engage, persist, and monitor themselves.

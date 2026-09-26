@@ -16,6 +16,7 @@ sources:
 # Zone of Proximal Development: the gap between independent and assisted problem solving
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper presents Vygotsky's zone of proximal development as the construct at the centre of his sociocultural account of development. It quotes the canonical definition: the zone is "the difference between a child's 'actual developmental level as determined by independent problem solving' and the 'potential development as determined through problem solving under adult guidance or in collaboration with more capable peers'". The paper frames the ZPD as a connecting concept linking the social origins of mental functioning to assessment and instruction, noting it implies an alternative to static intelligence assessment and an account of how development occurs through interaction with more sophisticated partners.

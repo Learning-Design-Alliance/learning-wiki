@@ -12,6 +12,7 @@ generated:
 # Group Points System
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A group points system is a group-oriented contingency: teams of learners accumulate points based on individual or collective performance, and the points convert into a shared reward or recognition. Because the outcome is pooled, each learner's contribution affects peers, creating positive interdependence and peer accountability that individual point systems cannot generate.

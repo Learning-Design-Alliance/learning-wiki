@@ -12,6 +12,7 @@ generated:
 # Rubric Co Construction
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3` · 2 of 2 report an effect size
 
 ## Description
 Rubric co construction engages learners in developing the scoring criteria and quality definitions for an assessment task, typically by analyzing exemplars, proposing criteria, negotiating language, and refining performance-level descriptors. The instructor facilitates rather than dictates, ensuring the final rubric is both rigorous and owned by learners. The process converts assessment criteria from an external mystery into shared, internalized standards.

@@ -16,6 +16,7 @@ sources:
 # Item position effects as an interaction between item location and test-taker performance
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Item position effects (IP effects) are defined as "the interaction between the position of a test item in a test booklet and the performance a test taker displays on the same item" (Qian, 2014, as cited). Under this account, item parameters such as difficulty or discrimination can vary according to an item's position in the booklet; classically, items near the end may be easier owing to practice or learning effects or harder owing to fatigue effects. Because IP effects are not the same for every test-taker, ignoring them may limit fair comparison and bias ability parameter estimates, threatening the validity of test score interpretations.

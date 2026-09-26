@@ -17,6 +17,7 @@ sources:
 # Design educators should recognize and study learning in student-generated social media spaces rather than only the formal curriculum
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The authors recommend that design educators and researchers re-assess how much learning communities can accomplish on their own, and consider social media among pedagogical tools. They argue educators "cannot expect to understand the full experience of learning without understanding the learning that takes place, and does not take place, on social media." They caution that instructional designs must legitimate this communication without destroying its autonomy and freedom.

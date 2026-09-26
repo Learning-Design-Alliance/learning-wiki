@@ -17,6 +17,7 @@ sources:
 # Fading
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Fading is the element in which instructional support is deliberately reduced as learner competence grows. It is useful when the design goal is to transition from supported performance to independence without either over-supporting or abandoning learners too early.

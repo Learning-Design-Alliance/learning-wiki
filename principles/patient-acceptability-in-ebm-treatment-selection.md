@@ -17,6 +17,7 @@ sources:
 # Incorporate patient acceptability preferences into evidence-based treatment selection for older adults
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article frames treatment acceptability within evidence-based medicine, which combines research evidence, clinical skills, and patient values. Because both younger and older adults rated the behavioral treatment as more acceptable than medication, the authors recommend that "primary care physi cians and neurologists are educated as to patient preferences and treatment choices available and that such information be used in the practice of EBM."

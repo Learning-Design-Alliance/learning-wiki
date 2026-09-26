@@ -16,6 +16,7 @@ sources:
 # Cognitive Load Theory: working-memory limits, human cognitive architecture, and three load types
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article presents Cognitive Load Theory as a psychological theory from cognitive science, originated by John Sweller in the late 1980s, explaining how the design of learning materials affects learning given limited working memory. It rests on three suppositions: working memory is limited in capacity and duration, long-term memory is effectively unlimited and stores knowledge as "schemas", and the load imposed during instruction can be adjusted. Instructions impose three kinds of load: intrinsic (inherent difficulty and element interactivity), extraneous (load from poor design or irrelevant material), and germane (beneficial load devoted to learning).

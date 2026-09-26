@@ -12,6 +12,7 @@ generated:
 # Free Play
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q2`–`q4` · 5 of 7 report an effect size
 
 ## Description
 Free play is a child-led activity in which learners explore and develop skills through self-directed interactions with their environment, materials, and peers. The learner chooses the activity, its goals, and its course; the adult's role is to provide a safe, resource-rich setting and to observe, support, and occasionally extend the play without taking over its direction. Free play differs from [Guided Play](guided-play.md) and direct instruction in that learning goals emerge from the child's activity rather than being imposed in advance.

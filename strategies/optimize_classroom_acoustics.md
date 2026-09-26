@@ -12,6 +12,7 @@ generated:
 # Optimize Classroom Acoustics
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 mixed) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
 
 ## Description
 Optimizing classroom acoustics means engineering the physical learning environment so that instructional speech reaches learners clearly: blocking or distancing external noise sources, absorbing internal reverberation with acoustic treatments, and managing learner-generated noise. Typical measures include acoustic ceiling tiles and wall panels, carpeting, door and window sealing, equipment relocation, and establishing norms for background noise during independent work.

@@ -17,6 +17,7 @@ sources:
 # The basic course should teach students to make strategic rhetorical choices rather than use a fixed set of rhetorical tools
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The second operationalization situates students within their rhetorical location and teaches discourse as an instrument of influence. The paper proposes that "in a basic course in rhetoric, students could learn and practice discourse as a means of challenging the institution of the university," examining their own options for critical debate in the academic environment. It rejects the artificial topic-selection process, noting that outside the classroom the speech topic is determined by occasion, audience, and speaker qualifications, so discourse cannot be considered rhetorically apart from audience, situation, and culture.

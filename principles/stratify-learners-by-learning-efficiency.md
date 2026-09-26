@@ -17,6 +17,7 @@ sources:
 # Classify learners by learning efficiency and effectiveness (e.g., ratio of acquisition rate to retention) rather than current performance level
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends identifying expert learners by classifying performers on the amount of learning that has occurred, using absolute retention, pre-to-retention change, or "the relationship or ratio between rate of acquisition and retention". Those with the best ratio would be classified as more expert learners. With a sufficiently large sample, groups can be formed via quartile- or median-splits or regression analyses linking performance change to process measures. This reverses the typical approach of selecting participants by current performance level.

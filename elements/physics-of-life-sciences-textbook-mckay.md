@@ -17,6 +17,7 @@ sources:
 # Physics of the Life Sciences draft textbook (McKay)
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A draft calculus-based textbook by Prof. Timothy McKay used as the core of the reformed course. It takes "a novel approach to teaching physics to life science majors, by explicitly focusing on how physical principles dictate the shape, size, and structure of organisms," emphasizing physical scaling laws such as mass versus surface area. It spends substantially more time on thermodynamics, statistical mechanics, and fluid statics and dynamics, and less on kinematics and dynamics, than standard introductory texts.

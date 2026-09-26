@@ -12,6 +12,7 @@ generated:
 # Redirecting Language
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 unmarked) · 5 studies, `q3`–`q4` · 3 of 5 report an effect size
 
 ## Description
 Redirecting language is a classroom management tool that uses clear, non-negotiable instructions to redirect student behavior. It involves firm words in the form of statements or commands that are clear and respectful. The strategy emphasizes what students *should* do rather than what they shouldn't, using "do" statements instead of "don't" statements. Redirecting language is direct and specific, names the desired behavior, is kept brief, and uses statements rather than questions to maintain a firm, non-negotiable tone.

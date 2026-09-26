@@ -17,6 +17,7 @@ sources:
 # Goldman-Fristoe Test of Articulation as the survey's measurement instrument
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The Goldman-Fristoe Test of Articulation, published by American Guidance Service, Inc., is the standardized instrument the study used to measure articulation disorders in the 412 tested children. The article describes it as "a systematic method for locating and recording errors in articulation" that makes it "possible to obtain a profile of consonant sound articulation for a wide range of subjects starting with the very young." It was chosen over the Templin-Darley, Arizona, and Photo Articulation Tests because it could be administered by several therapists of unknown testing qualifications, and the study distinguishes gross test errors from true test errors in scoring.

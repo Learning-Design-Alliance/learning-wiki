@@ -12,6 +12,7 @@ generated:
 # Curating Resources
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
 
 ## Description
 Curating resources is the practice of selecting a small, high-quality set of learning materials, organizing them into a coherent sequence or structure, and annotating them so learners know what each resource is for and when to use it. Unlike aggregating (collecting everything available), curation applies editorial judgment: inclusion criteria, sequencing, and framing notes that connect each resource to the learning goals.

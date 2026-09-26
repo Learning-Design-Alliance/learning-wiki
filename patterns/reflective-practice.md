@@ -14,6 +14,7 @@ grain_size: unit
 # Reflective Practice
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 3 claims (3 for) · 4 studies, `q2`–`q3` · 4 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 Reflective Practice is a pattern in which learners or practitioners act, examine what happened, identify lessons, and deliberately adjust future performance. It is useful when improvement depends on learning from experience rather than only receiving external correction.

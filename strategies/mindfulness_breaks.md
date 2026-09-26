@@ -12,6 +12,7 @@ generated:
 # Mindfulness Breaks
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size
 
 ## Description
 Mindfulness breaks are brief (1–10 minute), structured pauses in which learners practice intentional attention to the present moment — typically through guided breathing, body scans, or sensory focus exercises. They are inserted into instruction to reset attention, downregulate stress, and strengthen self-regulation capacity that supports subsequent learning.

@@ -12,6 +12,7 @@ generated:
 # Free Choice Time Student Directed Learning
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
 
 ## Description
 Free choice time designates a scheduled block in which learners choose what to work on from a curated (or open) set of activities, materials, or inquiry topics. The instructor's role shifts from directing activity to designing the choice environment, conferring with individuals, and helping learners plan and reflect on their self-directed work. It is carried out through routines such as [Choice Boards](../elements/choice-boards.md), interest-based project time, and structured planning–working–reflecting cycles such as [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md).

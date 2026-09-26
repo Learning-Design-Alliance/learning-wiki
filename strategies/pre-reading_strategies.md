@@ -12,6 +12,7 @@ generated:
 # Pre-Reading Strategies
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (3 for, 2 against) · 12 studies, `q2`–`q4` · 7 of 12 report an effect size
 
 ## Description
 Pre-reading strategies are structured activities completed before learners engage with a text: activating relevant prior knowledge, previewing text structure, pre-teaching critical vocabulary, and establishing a purpose for reading. They prepare the reader's knowledge structures so that incoming text can be integrated rather than processed word-by-word.

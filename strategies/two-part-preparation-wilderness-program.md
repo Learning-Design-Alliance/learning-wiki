@@ -17,6 +17,7 @@ sources:
 # Structure adventure programs in two parts: preparation and training phase followed by the wilderness project
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper recommends that programs using the empowerment method have two parts: preparation and training for the wilderness project, then the actual undertaking of the project. Training teaches a wide range of life skills and meets participants' special needs, while the wilderness task provides motivation to learn and an opportunity to use newly learnt skills. Participants spend approximately the same amount of time in preparation as doing the project.

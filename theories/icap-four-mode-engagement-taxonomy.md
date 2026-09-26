@@ -16,6 +16,7 @@ sources:
 # ICAP theory: a taxonomy of four cognitive engagement modes with a hierarchical learning prediction
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 ICAP defines four modes of cognitive engagement — Interactive, Constructive, Active, and Passive — operationally differentiated by students' overt behaviors and products. The article states that "ICAP encompasses three components: a taxonomy of four engagement modes and the operational definition of each mode, a metric that can define the degree of engagement based on the cognitive processes corresponding to the four behavioral modes, and a hypothesis that can predict the hierarchical levels of student learning as a function of the mode of engagement." Each mode is mapped to underlying knowledge-change processes (storing, activating, linking, inferring), and the modes are hierarchically ordered so that Interactive subsumes Constructive, which subsumes Active, which subsumes Passive.

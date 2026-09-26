@@ -17,6 +17,7 @@ sources:
 # Investigate technology's role in community-based lifelong learning delivery as a research priority
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper identifies the use of technology as a major focus for advancing community-based lifelong learning, arguing that applications of new technologies to improve program effectiveness and learning are imperative for a futuristic perspective. It raises open questions about program delivery, how learning is facilitated through diverse technologies, how adults learn through technology, and how to reduce the phobias attached to technology use.

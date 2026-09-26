@@ -16,6 +16,7 @@ sources:
 # Metaphor as the linking mechanism between presentational and propositional knowing
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Drawing on Mezirow's two dimensions of awareness and Lakoff and Johnson's conceptual metaphor theory, the article treats metaphor as the bridge between imagistic and rational construal. As printed: "Metaphor windsup being a linking mechanism on this continuum", with propositional knowing based in metaphor relating abstractions to basic physicalities, and presentational knowing using imagery as iconic placeholders. Chormmunity workshops deliberately traverse this continuum.

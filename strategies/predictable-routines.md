@@ -12,6 +12,7 @@ generated:
 # Predictable Routines
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 10 studies, `q3`–`q4` · 7 of 10 report an effect size
 
 ## Description
 Predictable routines are stable, repeated structures for recurring classroom or course activities — how sessions open, how transitions occur, how group work is launched, how work is submitted and reviewed. Because the *procedure* is invariant, learners do not need to decode new instructions each time; the routine becomes automatic and cognitive resources shift to the content itself.

@@ -12,6 +12,7 @@ generated:
 # Repeated Reading for Fluency
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q1`–`q2` · 2 of 2 report an effect size
 
 ## Description
 Repeated reading asks learners to read the same text aloud several times, typically with feedback and a performance criterion (e.g., words correct per minute, or until reading feels smooth). The strategy was introduced by Samuels (1979) as a way to move word recognition from effortful decoding to automaticity, based on the LaBerge–Samuels automatic information processing model.

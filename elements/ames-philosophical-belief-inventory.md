@@ -17,6 +17,7 @@ sources:
 # Ames Philosophical Belief Inventory
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The Ames Philosophical Belief Inventory is a forced-choice questionnaire measuring five philosophical beliefs: Realism, Idealism, Pragmatism, Existentialism, and Phenomenology. The article describes it as "a forced choice instrument with the possibility ofa range from 0100 in any one philosophical Lelief but witha total score of 250." It was administered to education students at Northern Illinois University to profile their philosophical beliefs and compare groups.

@@ -12,6 +12,7 @@ generated:
 # Coherence
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 4 of 5 report an effect size
 
 ## Description
 Coherence is the design strategy of excluding material that is interesting but irrelevant to the learning goal — decorative images, background music, seductive details, tangential anecdotes, and verbose text. It is carried out by auditing instructional materials and cutting anything that does not support the stated objective, then structuring what remains around the core content.

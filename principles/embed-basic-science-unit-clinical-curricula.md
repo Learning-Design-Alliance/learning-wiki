@@ -17,6 +17,7 @@ sources:
 # Embed basic science and mechanisms of disease as a distinct unit in clinical curricula
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The principle holds that clinical training curricula should embed basic science and mechanisms of disease as their own unit, integrated with practicing clinical skills and society guidelines, so that learners can recognize cases as instances of underlying mechanisms and defend against scientifically invalid causal claims. The article uses the CREOG Educational Objectives, which embed "Basic Science/Mechanisms of Disease" as its own unit within the obstetrics curriculum, as its model, and argues training programs should enhance basic science education, especially given increasing reliance on care algorithms and AI-derived decision making.

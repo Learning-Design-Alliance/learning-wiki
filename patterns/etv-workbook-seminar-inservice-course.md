@@ -17,6 +17,7 @@ sources:
 # Blended inservice course combining televised programs, programmed workbook sessions, and drive-in seminars
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The course design distributes instruction across three mutually reinforcing components: television programs broadcast on the statewide ETV network, programmed workbook work sessions completed and mailed in by learners, and periodic drive-in seminars where corrected assignments are returned and discussed. The workbook states that "Neither the television programs, the accountable work sessions or the drive-in seminars will stand alone.They are each designed to reinforce and supplement the other parts." Each work session corresponds to a particular ETV program and includes an assignment the learner completes and submits by mail.

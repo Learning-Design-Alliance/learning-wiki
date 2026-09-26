@@ -12,6 +12,7 @@ generated:
 # Explicit Systematic Phonics Instruction
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q1`–`q2` · 2 of 2 report an effect size
 
 ## Description
 Explicit systematic phonics instruction teaches grapheme–phoneme correspondences directly and in a planned sequence — typically from high-utility, simple correspondences to more complex ones — with teacher modeling of blending and segmenting, immediate application to decodable text, and cumulative review. "Explicit" means the correspondences and the blending procedure are taught directly rather than inferred from exposure to text; "systematic" means the sequence is pre-planned by instructional design rather than driven opportunistically by the texts children happen to encounter.

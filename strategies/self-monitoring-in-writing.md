@@ -12,6 +12,7 @@ generated:
 # Self Monitoring In Writing
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 against) · 3 studies, `q2` · 0 of 3 report an effect size
 
 ## Description
 Self monitoring in writing is the metacognitive practice of having writers track their own composing process — checking whether their text matches their goals, whether their strategies are working, and where their understanding of the task breaks down. It is typically operationalized through checklists, rubrics, goal-setting prompts, think-aloud protocols, and structured revision passes. It is a core component of [Self-Regulated Learning](../theories/self-regulated-learning.md) applied to the writing domain, and is most systematically implemented in Self-Regulated Strategy Development (SRSD).

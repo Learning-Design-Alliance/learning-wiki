@@ -12,6 +12,7 @@ generated:
 # Multi Sensory Learning
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (1 for, 2 against) · 8 studies, `q2`–`q4` · 3 of 8 report an effect size
 
 ## Description
 Multi-sensory learning presents content through more than one sensory channel — pairing visuals with narration, text with gesture, or concepts with physical manipulation — so that information is encoded redundantly across modalities. It is carried out by deliberately coordinating complementary inputs (e.g., a diagram with spoken explanation, a manipulative with a verbal rule) rather than stacking redundant or decorative inputs.

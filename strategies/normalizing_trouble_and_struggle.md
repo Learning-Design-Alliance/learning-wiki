@@ -12,6 +12,7 @@ generated:
 # Normalizing Trouble and Struggle
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 6 claims (5 for, 1 mixed) · 11 studies, `q3`–`q4` · 10 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 Normalizing trouble and struggle means deliberately establishing norms, language, and routines that frame difficulty, confusion, and error as ordinary and informative components of learning. It is carried out through explicit teacher framing ("this problem is supposed to be hard"), public discussion of mistakes and their causes, praise and feedback directed at process rather than ability, and instructional designs that give learners legitimate opportunities to struggle before receiving support. The goal is to sustain persistence and engagement when tasks are genuinely challenging, so that difficulty triggers effort and strategy adjustment rather than withdrawal.

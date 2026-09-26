@@ -16,6 +16,7 @@ sources:
 # The Fine-Tuning System (FTS): a scaffolding regulator that generates and fades learning support in serious games
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The Fine-Tuning System (FTS) is the paper's proposed mechanism for calibrating scaffolding in serious games to learners' changing needs. "The FTS works with a scaffolding regulator which facilitates the generation and fading of support", and the adjustment "can be made by the player -learner, teacher or an internal decision process". The system couples fading with game progress and knowledge gained, distinguishing expert from non-expert peers and triggering peer-tutoring collaboration. It is grounded in the ZPD and the fading concept, and is intended for classroom serious-game use with children.

@@ -12,6 +12,7 @@ generated:
 # RIP Toolbox (Repetition, Imagery, Patterns)
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 8 studies, `q3`–`q4` · 5 of 8 report an effect size
 
 ## Description
 The RIP Toolbox is a memory-enhancing strategy that utilizes three key elements: Repetition, Imagery, and Patterns. It helps learners organize and rehearse information in a memorable format, supporting transfer from short-term to long-term memory. Pediatrician Dr. Mel Levine suggests that before a test, learners submit a *memory plan* detailing how they will apply the toolbox — making the strategy itself an object of metacognitive planning rather than a technique imposed by the teacher.

@@ -17,6 +17,7 @@ sources:
 # Implement simultaneously opposite strategies when institutions face decline: external entrepreneurship paired with internal stability
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The chapter offers tentative guidelines from the author's research on institutions under conditions of decline. The most effective responses combine aggressive, entrepreneurial, externally oriented strategies aimed at enacting and manipulating the environment with a focus on building and reinforcing strong institutional roots and internal stability. Successful institutions also implemented both deviation-amplifying and deviation-reducing actions, and both adaptive strategies and symbolic strategies, addressing and altering constituency interests simultaneously.

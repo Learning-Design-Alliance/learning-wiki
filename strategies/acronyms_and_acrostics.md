@@ -12,6 +12,7 @@ generated:
 # Acronyms and Acrostics
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size
 
 ## Description
 Acronyms and acrostics are verbal mnemonic devices that restructure arbitrary lists into a single retrievable unit. An acronym compresses the first letters of items into a pronounceable word (e.g., HOMES for the Great Lakes); an acrostic embeds them in a sentence whose first letters map to the target items (e.g., "Every Good Boy Does Fine" for the musical notes E-G-B-D-F). Both work by converting an unordered set into a single, well-practiced retrieval cue that is unpacked at recall.

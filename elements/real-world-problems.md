@@ -17,6 +17,7 @@ sources:
 # Real-World Problems
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Real-world problems are tasks framed around authentic issues, needs, or dilemmas outside purely academic abstraction. They are useful when learners need to see relevance and apply knowledge in contexts that resemble actual use.

@@ -17,6 +17,7 @@ sources:
 # Community-building through celebratory traditions: quarterly awards, bridging ceremonies, and staff-family-student recognition
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 This pattern uses recurring celebratory events to build school community and reinforce culture. The article describes Quarterly Awards honoring "academic achievements and exemplary citizenship," Bridging Ceremonies marking grade-level transitions with community-wide participation, and the MVP Button initiative recognizing staff, students, and families as Most Valuable Players for their contributions to student success.

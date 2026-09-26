@@ -17,6 +17,7 @@ sources:
 # Structured problem cases built on Kim et al.'s four conceptual elements (content, structure, attributes, process)
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The instructional tool of the model is the well-constructed problem case, built using the conceptual structure of Kim, Phillips, Pinsky, Brock, Phillips and Keary (2006). The article states "The cases use the following conceptual elements to structure the information", listing content (learner level, goals, case narrative setting, distractors, authenticity, multiple perspectives, rich case content, difficulty), structure (gradual disclosure, branching, multiple cases), attributes (relevant, realistic, engaging, challenging) and process (instructional, assessments, feedback). Cases span mental health, child and family services, disability, family violence and aged care.

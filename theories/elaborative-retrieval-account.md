@@ -16,6 +16,7 @@ sources:
 # Elaborative Retrieval Account
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 5 claims (1 for, 1 mixed, 2 against, 1 unmarked) · 2 studies, `q2`–`q4` · 2 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 Proposed by Carpenter (2009), this account holds that "semantic elaboration occurs during the process of retrieval and enhances subsequent recall". When given a cue, learners generate several semantically related items that are incorporated with the target into an elaborated, more recallable trace. The chapter credits it with a plausible mechanism and testable predictions.

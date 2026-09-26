@@ -12,6 +12,7 @@ generated:
 # Bullying Prevention and Intervention
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Bullying is defined by two features together, not either alone: a **power imbalance** between the parties (physical, social, or otherwise) and **repetition** over time — a single conflict between peers of roughly equal standing is not bullying in this technical sense, even if it is a serious behavior problem in its own right. Bullying takes several forms: verbal (name-calling, threats), social/relational (exclusion, rumor-spreading, damaging relationships), and physical.

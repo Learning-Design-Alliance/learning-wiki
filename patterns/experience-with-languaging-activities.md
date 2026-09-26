@@ -17,6 +17,7 @@ sources:
 # Experience with Languaging Activities (ELAs) guided by a sequence of experience-based questions
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 ELAs are "the most fundamental class of instructional activities spawned from the LICA design". Their core feature is a set of guiding questions: "What have you experienced/read/heard?What do you feel/think about it?What have you learned?What more might be learned?" and further questions about what more needs to be known. Not all questions need be explicit, but below an (undefinable) point the activity lapses into a traditional language arts/reading activity.

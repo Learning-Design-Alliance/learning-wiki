@@ -16,6 +16,7 @@ sources:
 # Opportunity-centered teaching framework adapted as four opposing equity mindset dimensions
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article draws on Milner's opportunity-centered teaching framework, rooted in critical race theory and culturally responsive and sustaining teaching, which posits that schools fail diverse students because of systemic barriers rather than lack of ability or effort. For the simulation design and analysis, the authors used Filback and Green's adaptation that "describes equity as contrast between two opposing viewpoints": Equality vs. Equity, Deficit vs. Asset, Avoidant vs. Aware, and Context-Neutral vs. Context-Centered. Each of the four simulations was designed to elicit responses related to one specific mindset dimension.

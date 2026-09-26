@@ -17,6 +17,7 @@ sources:
 # Avoid appropriating student writing; distinguish appropriation from helpful intervention
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Teachers may inadvertently take over a student's voice and creativity by imposing too much control and authority, to the point that a paper looks like it belongs to the teacher. The article distinguishes appropriation from helpful intervention using Goldstein's three-feature contrast (purpose, point of view, intended meaning) and argues that giving students power over their texts is crucial for writing development, self-confidence, and motivation.

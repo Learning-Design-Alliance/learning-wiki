@@ -17,6 +17,7 @@ sources:
 # Teach a scientific model of the spherical earth before introducing the cause of the day and night cycle
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends sequencing: "early childhood teachers should begin introducing the concept of a spherical earth to children and ensure that all children develop a scientific model of the earth prior to implementing activities on the cause of the day and night cycle." This rests on cited evidence that children who believe the earth is flat or disc-shaped cannot understand how rotation produces day and night. Teachers should not rely solely on verbal utterances but have children build play dough models of the earth, kept and reused in subsequent day-and-night activities.

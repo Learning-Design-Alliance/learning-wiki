@@ -12,6 +12,7 @@ generated:
 # Brain Dumps
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (2 for, 2 mixed) · 8 studies, `q3`–`q4` · 8 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 A brain dump asks learners to write down everything they can recall about a topic within a set time (typically 2–10 minutes), without notes or resources. The act of retrieval is the mechanism: pulling content out of memory strengthens it more than re-reading it [Retrieval practice produces durable retention gains over restudying.](../claims/spaced-repetition-improves-retention.md) [+S]. The resulting artifact also serves diagnostic purposes — it surfaces gaps and misconceptions for both learner and instructor, and can seed follow-up activities such as comparison, [Self-Explanation](../elements/self-explanation.md), or collaborative gap-filling.

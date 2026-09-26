@@ -12,6 +12,7 @@ generated:
 # Numbers To 100
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Numbers to 100 instruction develops children's ability to count, read, write, compare, and decompose whole numbers up to 100. It is carried out through structured counting routines, work with concrete and visual models (hundred charts, base-ten blocks, number paths/lines), and activities that emphasize the base-ten structure of two-digit numbers rather than rote recitation alone.

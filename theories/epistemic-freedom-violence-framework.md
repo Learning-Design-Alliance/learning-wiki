@@ -16,6 +16,7 @@ sources:
 # Epistemic freedom and epistemic violence as opposing education-related epistemic constructs
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article organizes its inquiry around two opposing epistemic constructs operating in education and communication. Epistemic violence is defined via Galván-Álvarez as "a kind of violence practiced via knowledge and as a fundamental component of the process to build hegemony", related to epistemic oppression and dependence on authority. Epistemic freedom is "referred to as freedom of expressing clashing propositions without the risk/fear of being wrong/incorrect", enabling learners to take epistemic risk. The study operationalizes both into four measurable dimensions for adults.

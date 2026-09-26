@@ -17,6 +17,7 @@ sources:
 # Extend empathy interviews to students' caregivers for an additional perspective
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Step 2.1 of the exercise invites teachers to "take the opportunity to also interview a caregiver of one of your students". The caregiver may be the interviewed student's caretaker or a caregiver the teacher knows well; if it is not the same student's caregiver, the article suggests trying "to get a different perspective than you received from the student". The same conduct practices apply: comfortable environment, embracing silence, and noting observations as well as answers.

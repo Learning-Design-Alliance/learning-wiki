@@ -12,6 +12,7 @@ generated:
 # Graphic Notes
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (2 for, 2 mixed) · 8 studies, `q3`–`q4` · 7 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 Graphic notes combine verbal lecture content with visual structures — diagrams, mind maps, timelines, charts, sketches, and spatial layout — so that learners record and organize spoken information graphically rather than as linear text. The instructor models or provides the visual scaffolding during presentation, and learners revisit the notes afterward as a study artifact.

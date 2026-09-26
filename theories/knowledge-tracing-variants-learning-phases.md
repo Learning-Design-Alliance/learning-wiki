@@ -16,6 +16,7 @@ sources:
 # Four-Phase Taxonomy of Knowledge Tracing Variants
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The survey's second organizing axis groups extensions of the fundamental models by the learning phase they add: "we classify and review current variants of fundamental KT models into four categories" — individualization before learning, engagement during learning, forgetting after learning, and side information across learning. Examples include student-node BKT and DKT-DSC clustering, KAT and EEG-BKT, BKT-Forget and DKT-forget, and FAST and EKT.

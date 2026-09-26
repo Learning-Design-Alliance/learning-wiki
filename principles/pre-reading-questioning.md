@@ -21,6 +21,7 @@ sources:
 # Pre-reading Questioning
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 mixed) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
 
 ## Description
 Pre-reading questioning is the instructional principle of using questions before a text, source, or reading task to activate prior knowledge, orient attention, and establish a purpose for reading. The value lies less in predicting the "right" answer than in helping learners notice what they already know, what they wonder, and what they should look for. When used well, pre-reading questions can improve comprehension by reducing aimless reading and by surfacing misconceptions early enough to address them.

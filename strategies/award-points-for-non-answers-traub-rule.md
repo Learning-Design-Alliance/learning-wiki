@@ -17,6 +17,7 @@ sources:
 # Award points for non-answers (modified Traub's rule) to discourage rapid responding on low-stakes tests
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article instructs test takers to consider non-answering because it can be worth more than a wrong answer, implementing a modified Traub's rule in which "Students were awarded with 0.25 points for all non-answered items" regardless of item type. The authors used this scoring schema for student feedback only, while research scoring used IRT analysis, and report that rapid responding was far rarer than previously reported for low-stakes tests.

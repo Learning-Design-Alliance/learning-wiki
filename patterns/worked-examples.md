@@ -13,6 +13,7 @@ grain_size: lesson
 # Worked Examples
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Worked examples is the short-form canonical pattern for studying solved models before independent problem solving.

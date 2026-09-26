@@ -17,6 +17,7 @@ sources:
 # Learning by Producing (multimedia production as learning)
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Position pupils as multimedia producers: they appreciate exemplar products, investigate content, plan a scenario and design blueprint, produce parts, assemble, and present/perform/appreciate, thereby acquiring multimedia literacy and subject content across the curriculum. The article uses this pattern when goals include media literacy, cross-curricular integration, self-actualization, and talent development in an information-rich society.

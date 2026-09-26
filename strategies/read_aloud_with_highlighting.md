@@ -12,6 +12,7 @@ generated:
 # Read Aloud with Highlighting
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 against) · 5 studies, `q1`–`q3` · 3 of 5 report an effect size
 
 ## Description
 Read aloud (text-to-speech) features present digital text aurally while synchronized highlighting marks the word or sentence currently being spoken. The learner simultaneously sees and hears the text, receiving decoding support, attention guidance, and multisensory input. This is a common accessibility feature in digital reading environments and a [UDL](../principles/universal-design-for-learning.md) means of providing multiple representations of content.

@@ -17,6 +17,7 @@ sources:
 # Instrumental Enrichment program
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Instrumental Enrichment is Feuerstein's major intervention program for creating teachable situations in which mediated learning can produce cognitive modification. The introductory chapter describes it as the practical application of structural cognitive modifiability, with attention to culture and socialization in making the program operational. The article states "Feuerstein has developed a major program, Instrumental Enrichment,forcreatingsuchteachablesituations."

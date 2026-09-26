@@ -23,6 +23,7 @@ grain_size: unit
 # Problem-Based Learning (PBL)
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 5 claims (3 for, 2 mixed) · 10 studies, `q2`–`q4` · 10 of 10 report an effect size · 3 claims rest on one study
 
 ## Description
 Problem-Based Learning is a pattern that organizes a course, unit, or module around a complex problem that learners must investigate and respond to. Instead of teaching all required content first, the pattern uses the problem to generate the need for inquiry, evidence gathering, collaboration, and explanation. Learners identify what they need to know, research relevant information, test ideas, and refine proposed responses.

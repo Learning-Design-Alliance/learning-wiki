@@ -14,6 +14,7 @@ grain_size: lesson
 # Game-Based Mastery Learning (e.g., Duolingo Pattern)
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 4 claims (1 for, 3 mixed) · 10 studies, `q3`–`q4` · 10 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Game-Based Mastery Learning combines mastery progression with game-like mechanics such as levels, streaks, rewards, adaptive challenge, and immediate feedback. The pattern works by requiring learners to demonstrate competence before moving forward while using feedback and progression signals to sustain engagement. Its value is not the game layer alone; it is the pairing of repeated practice, visible progress, and retry loops.

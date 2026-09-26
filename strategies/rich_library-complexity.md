@@ -12,6 +12,7 @@ generated:
 # Rich Library Complexity
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (1 for, 1 mixed, 2 against) · 8 studies, `q3`–`q4` · 4 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 Rich Library Complexity is a design strategy from [Cognitive Flexibility Theory](../patterns/cognitive-flexibility-theory.md) in which the learning environment provides a large, non-linear library of cases, examples, and representations of the domain rather than a single canonical treatment. Learners revisit the same concepts from multiple cases and perspectives — "criss-crossing the landscape" — so that knowledge is assembled as flexible, context-sensitive schemas rather than one oversimplified schema.

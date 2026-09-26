@@ -12,6 +12,7 @@ generated:
 # Text + Social Annotation + Structured Activity
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size
 
 ## Description
 Students read a shared digital text in a social annotation platform (e.g., Perusall, Hypothesis), posting margin comments, questions, and replies that are visible to classmates. A structured activity — a writing task, problem set, or discussion deliverable — then requires learners to apply or extend ideas surfaced in the reading and annotation exchange. The three components are deliberately sequenced: annotation makes reading interactive and social, and the activity converts that engagement into durable learning.

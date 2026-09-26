@@ -16,6 +16,7 @@ sources:
 # Process Model of Self-Regulated Learning (Schmitz and Wiese)
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The study is built on the process model of self-regulated learning by Schmitz and Wiese, an adaptation of Zimmerman's conception. "According to this model, learning is a process that can be divided into three phases: pre-action, action, and post-action." Phases recur cyclically across learning episodes through a feedback loop, and each phase needs different strategies; the web-based training devotes one lesson to each phase.

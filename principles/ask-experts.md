@@ -29,6 +29,7 @@ sources:
 # Ask Experts
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 10 studies, `q3`–`q4` · 10 of 10 report an effect size
 
 ## Description
 Give learners structured access to people with deeper domain expertise so they can ask questions, hear expert reasoning, receive targeted feedback, and compare their own thinking to more mature practice. Expert access is most valuable when it is interactive rather than performative: learners bring a real task, problem, or uncertainty, and the expert responds with explanation, modeling, questioning, and calibrated support.

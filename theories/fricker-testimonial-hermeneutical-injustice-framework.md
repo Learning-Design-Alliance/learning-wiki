@@ -16,6 +16,7 @@ sources:
 # Fricker's two-subset framework of epistemic injustice: testimonial and hermeneutical
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 3 claims (3 for) · 1 study, `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article adopts Miranda Fricker's account of epistemic injustice, which focuses on representation and participation in knowledge production and how unjust epistemic practices silence people and deprive society of epistemic resources. It specifies two subsets: testimonial injustice, where an individual is treated unjustly in their capacity as a knower, and hermeneutical injustice, where a significant area of social experience is obscured from collective understanding owing to hermeneutical marginalization. The author uses this framework to analyze how datafication can challenge or exacerbate each type. The article stresses that hermeneutical injustice is connected to social power and privilege, not merely a gap in language.

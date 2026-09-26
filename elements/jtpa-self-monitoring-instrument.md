@@ -17,6 +17,7 @@ sources:
 # JTPA self-monitoring instrument with 28 rated compliance indicators
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A rating instrument accompanying the guide on which each compliance item is scored 2 (meets program standards), 1 (does not meet), or 0 (not applicable). "The instrument lists the references, reviewlevels, procedures and indicators to be used in collectinginformation to determine compliance." Items span program administration, eligibility, pre-employment skills training, work experience, school-to-work transition, and tryout employment provisions.

@@ -12,6 +12,7 @@ generated:
 # Low-Stakes Writing
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size
 
 ## Description
 Low-stakes writing consists of frequent, short, informal writing tasks — journals, freewrites, quick responses, exit notes — that are ungraded or graded only for completion. Because evaluation pressure is removed, students use writing to think rather than to perform: exploring ideas, making connections, and developing voice. The strategy was used school-wide at University Park Campus School in every subject to build student confidence and critical thinking.

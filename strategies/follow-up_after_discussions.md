@@ -12,6 +12,7 @@ generated:
 # Follow-up After Discussions
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 2 of 2 report an effect size
 
 ## Description
 After a discussion that surfaces inequity or injustice, the teacher guides students to take follow-up actions — writing letters to the editor, meeting with the principal, organizing a fundraiser — that address the issues raised. The teacher also supports students experiencing shame or guilt, framing these emotions as a catalyst for action rather than a terminal state.

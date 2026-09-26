@@ -17,6 +17,7 @@ sources:
 # Cap the background lecture for a complex research-based lab at about an hour and expect students to ask questions while working
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 For labs whose background differs greatly from other experiments, the authors recommend aiming for concision in the lab lecture. They report that in some years they were too thorough, students were overwhelmed by the avalanche of information, and progress suffered; they now cap the background lecture at about an hour and tell students to expect to ask many questions while working. The instructor even worries about lab groups that do not ask questions.

@@ -12,6 +12,7 @@ generated:
 # Strategy Instruction (Self-Regulated Strategy Development - SRSD)
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Strategy instruction explicitly teaches learners cognitive and metacognitive strategies — planning, drafting, revising, self-monitoring — rather than leaving them to infer how skilled writers work. Self-Regulated Strategy Development (SRSD), developed by Graham and Harris, is the most validated form: instructors model a strategy, guide its use, and gradually release responsibility while learners develop self-regulation supports such as goal setting, self-monitoring, self-instruction, and self-reinforcement. Strategies replace negative self-talk with positive self-statements, helping learners overcome frustration and past failure. In adult education, strategy instruction has been introduced through the National Institute for Literacy's professional development programs *Bridges to Practice* and *Learning to Achieve*, designed for students with learning disabilities.

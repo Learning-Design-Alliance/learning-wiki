@@ -12,6 +12,7 @@ generated:
 # Recognizing the Value of Learning from Mistakes
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 8 studies, `q2`–`q4` · 3 of 8 report an effect size
 
 ## Description
 This strategy changes perceptions about mistakes, treating them as diagnostic information and learning opportunities rather than failures to be penalized. Core moves include explaining *why* an answer is wrong rather than only marking it incorrect, giving learners structured opportunities to correct errors, weighting improvement in evaluation, and responding constructively to errors raised in discussion. The aim is a classroom norm in which risk-taking is safe and errors are actively mined for what they reveal about understanding.

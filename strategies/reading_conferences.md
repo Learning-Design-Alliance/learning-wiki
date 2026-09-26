@@ -12,6 +12,7 @@ generated:
 # Reading Conferences
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 10 studies, `q3`–`q4` · 9 of 10 report an effect size
 
 ## Description
 A reading conference is a short (typically 3–7 minute) one-on-one conversation between teacher and student, usually during independent reading time, in which the student talks about what they are reading and how they are reading it. The teacher researches the reader — asking about comprehension, strategy use, and engagement — then offers one piece of instruction or coaching and records a goal to follow up on in a later conference. The structure is commonly described as *research–decide–teach* (Calkins) or *listen–assess–teach*.

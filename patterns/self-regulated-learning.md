@@ -19,6 +19,7 @@ grain_size: unit
 # Self-Regulated Learning
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3` · 2 of 2 report an effect size
 
 ## Description
 Self-Regulated Learning is the pattern-level target for designs that explicitly cycle planning, monitoring, feedback, and revision so learners can manage their own learning more effectively.

@@ -17,6 +17,7 @@ sources:
 # Establish evaluative criteria as a creative project evolves through student-faculty feedback conferences
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 For courses where students pursue individual creative projects that cannot have strict behavioral objectives stated in advance, the author recommends that instructor and student "establish evaluative criteria as the project evolves." In practice this means student-faculty conferences in which the instructor gives feedback at various points, making assessment an integral part of the learning-creative process while keeping it goal-directed rather than competitive.

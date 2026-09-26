@@ -17,6 +17,7 @@ sources:
 # Assign adult learners to heterogeneous cooperative learning groups mixing ability, ethnicity, gender, perspective, and language
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The report describes how program participants are placed into cooperative learning groups: "Program participants are placed in cooperative learning groups heterogeneously by the instructors." Groups are made up of students of different abilities, ethnic backgrounds, gender, perspectives, and language. The report states that students have different strengths and weaknesses and that along with their diversity these heterogeneous groups are powerful learning teams. Instructors carry out this placement as part of structuring cooperative learning sessions.

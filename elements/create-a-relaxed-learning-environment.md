@@ -12,6 +12,7 @@ generated:
 # Create a Relaxed Learning Environment
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Create a relaxed learning environment is the element of arranging social and physical conditions that support safety, calm, and participation.

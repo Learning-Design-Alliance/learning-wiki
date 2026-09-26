@@ -17,6 +17,7 @@ sources:
 # Cooperative Learning Activities for Adult Learners manual with instructor-contributed scripts and handouts
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A cooperative learning manual developed through the project, containing activities scripted by the Adult Learners' Training and Assistance Program instructors, with structures and techniques based on the cooperative learning structures of Spencer Kagan. Each activity includes some or all of: structure, directions for structure, basic elements employed, lesson title with content area, category, and time, directions for activity, additional ideas, handout recommendations, text suggestions, and handouts. A description of the structure or technique is placed before the directions for the activity to encourage manual users to create additional activities appropriate to the needs of their adult learners. The manual was distributed to program staff and submitted to the Bureau of Adult Basic and Literacy Education.

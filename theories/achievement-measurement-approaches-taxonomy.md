@@ -16,6 +16,7 @@ sources:
 # Taxonomy of approaches to achievement/performance evaluation: norm-referenced, criterion-referenced, time-referenced, and stage-referenced
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The project's literature review organized achievement measurement into approaches displayed in Figure 1: population- or norm-referenced measurement (individual's relative position to others based on traditional psychometric theory, with results differing across norming groups), content- or criterion-referenced measurement (reflecting proportion of correct responses, with an underdeveloped psychometric rationale), time-referenced measurement (reflecting performance as a function of time in training, requiring longitudinal measurement), and stage-referenced measurement (assignment to stage according to a superimposed stage theory, a special case of time-referenced). The report states "Figure 1summarizeS the several approaches to the-measurement, of achieve-nt4 or perforthance that were identified in the review of the 1iteratt4re" and that achievement measurement "was determined to be considerably more complex thantthe related problem of ability measurement." This taxonomy motivated redefining project objectives toward adaptive strategies for achievement's unique problems.

@@ -17,6 +17,7 @@ sources:
 # Analyze the types of errors students make on assessment items, not just correct/incorrect scores
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The guide's teacher notes treat scoring as a starting point for diagnosis: although each part is scored correct or incorrect, "looking at the type of errors made can be informative." Specific error patterns are interpreted, for example a child choosing the hexagon in a 'not' question may not understand the effect of the word 'not', and patterns of choices can indicate a child recalls only the first or last attribute or does not understand the vocabulary 'less than' or 'more than'.

@@ -17,6 +17,7 @@ sources:
 # Provide self-regulation interventions at varying levels and intensity matched to youth context and needs
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 This strategy from the brief's implementation guidelines tailors support intensity to need. It recommends programs "Provide interventions at varying levels and intensity depending on the youth's context and needs": universal approaches for all youth to build self-regulation and promote positive climate; decreasing environmental stressors for youth in adverse environments; more intensive skills support for at-risk youth through mentoring, leadership, or youth employment programs; and co-regulation supports from a trained self-regulation coach for youth showing difficulties. It arises from the review of theoretical and empirical literature.

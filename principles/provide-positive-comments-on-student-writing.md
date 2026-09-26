@@ -17,6 +17,7 @@ sources:
 # Provide positive comments alongside constructive criticism when responding to student writing
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Because instructional feedback is inherently evaluative and can pose identity threats, teachers should acknowledge positive aspects of student work and highlight the strengths of their writing. The article reports that even simple positive remarks such as "Well said" or "Good point" can build student motivation and confidence, and that a blend of encouragement and constructive criticism validates student effort and keeps students open to further feedback.

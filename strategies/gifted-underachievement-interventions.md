@@ -17,6 +17,7 @@ sources:
 # Deploy prevention and intervention supports for underachieving gifted students
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The brief enumerates practices found successful in preventing or reversing gifted underachievement: early screening and identification (as early as kindergarten), meaningful extracurricular activities, counseling, mentoring, targeted tutoring, home-school partnerships, school-based consultants, and dual-diagnosis screening for twice-exceptional students. Each addresses needs the literature links to underachievement, such as low motivation, poor teacher relationships, and unmet affective needs.

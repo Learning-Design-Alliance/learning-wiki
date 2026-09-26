@@ -25,6 +25,7 @@ sources:
 # Assessment Mechanic
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 1 claim (1 mixed) · 3 studies, `q3`–`q4` · 1 of 3 report an effect size
 
 ## Description
 Games instrument themselves. Every action a player takes can be written to a log, which means a game is already collecting far more evidence about how a learner is thinking than a test administered afterwards ever could — *provided the actions it records are the ones worth interpreting*. An **assessment mechanic** is the design construct that makes that proviso hold. Plass and colleagues define it in the same parallel to Salen and Zimmerman that gives us the [Learning Mechanic](learning-mechanic.md):

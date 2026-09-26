@@ -12,6 +12,7 @@ generated:
 # Predicting
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies, `q3`–`q4` · 3 of 5 report an effect size
 
 ## Description
 Predicting asks learners to anticipate what will happen next in a text, demonstration, or problem before the answer is revealed. In reading, learners forecast plot, argument, or content; in mathematics, they identify what type of question is being asked, which operations might apply, and what a reasonable answer would look like. The act of committing to a prediction engages interest, exposes gaps in knowledge, and prepares learners to evaluate incoming information against their expectations.

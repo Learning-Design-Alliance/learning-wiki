@@ -17,6 +17,7 @@ sources:
 # Keep chunking study outlines short, limited to headings and key words
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The chunking study outline (CSO) is a teacher-provided study aid consisting of chapter, section, and subsection headings plus key words that students process in quantities matching their cognitive processing capacity. The article's evidence shows longer outlines with added definitions and descriptions lower test performance, so outlines "should be limited to headings of. chapters, sections and subsections" and key words. This principle operationalizes the CSO as a "critical element" of the chunking method.

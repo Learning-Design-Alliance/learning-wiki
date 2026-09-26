@@ -17,6 +17,7 @@ sources:
 # Instructor recommendations for running a module-development course project
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The authors distill their AY201b experience into implementable steps: "we recommend beginning the module development project by providing students with brief in-class tutorials of the software technologies"; hold regular consultations with an initial proposal and early in-class presentations for feedback and peer-teaching; require written explanatory material; and make a narrated video tour available. For computationally inexperienced classes they recommend lower-barrier technologies (WWT and Wolfram CDF).

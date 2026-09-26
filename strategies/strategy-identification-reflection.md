@@ -12,6 +12,7 @@ generated:
 # Strategy Identification & Reflection
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (4 for, 1 mixed) · 12 studies, `q3`–`q4` · 10 of 12 report an effect size · 1 claim rests on one study
 
 ## Description
 Strategy identification & reflection asks learners to explicitly name the cognitive and metacognitive strategies they use when working through a challenge — "I reread the problem," "I drew a diagram," "I broke it into parts" — and then reflect on which strategies helped, which did not, and when each applies. The instructor collects, labels, and shares these strategies so the class builds a common vocabulary of learning processes that can be reused across tasks. It is typically carried out through brief debrief prompts after problem-solving, strategy walls or anchor charts, and structured reflection journals.

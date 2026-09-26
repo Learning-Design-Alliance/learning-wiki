@@ -12,6 +12,7 @@ generated:
 # Debriefing
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q4` · 2 of 2 report an effect size
 
 ## Description
 Debriefing is a facilitated, structured reflection conducted after a learning experience — most prominently simulation, but also case discussions, role-plays, games, and complex tasks. Learners and facilitator jointly examine what happened, why it happened, and what should change next time, converting raw experience into articulated principles. It is typically conversational and learner-led, with the facilitator probing rather than lecturing.

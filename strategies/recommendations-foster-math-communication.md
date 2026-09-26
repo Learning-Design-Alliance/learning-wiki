@@ -17,6 +17,7 @@ sources:
 # Recommendations for teachers to foster mathematical communication in mathematics lessons
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article's closing recommendations for teachers who need materials to teach mathematical communication skills. Teachers should "strengthen listening comprehension, reading activities (texts, models, diagrams, drawings), and take notes" in mathematical language; instruct students to create speaking or writing mathematical tasks for concepts, theorems, rules, and methods; help students construct and assemble varied communication activities for mathematical situations; and use "interactive learning activities (in a group, in pairs, or in-class discussion)" with diverse solutions and practical elements.

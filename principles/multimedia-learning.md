@@ -17,6 +17,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (1 for, 2 mixed) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Multimedia learning is the principle of combining words, visuals, and other media in ways that support understanding without overloading attention.

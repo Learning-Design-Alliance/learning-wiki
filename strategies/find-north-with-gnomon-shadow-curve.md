@@ -17,6 +17,7 @@ sources:
 # Ubicar el norte marcando la sombra de la punta de un gnomon sobre una circunferencia, en lugar de usar una brújula
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 El recuadro del artículo propone un método de orientación sin brújula: se dibuja una circunferencia con un gnomon vertical en su centro y se marcan los puntos que recorre la sombra de la punta, obteniéndose una curva que corta la circunferencia en dos puntos equidistantes del mediodía solar; la recta que los une da la dirección este-oeste y su perpendicular, la norte-sur.

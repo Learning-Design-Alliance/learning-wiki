@@ -12,6 +12,7 @@ generated:
 # Public Product
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Public product is the element in which learners create work intended for real audiences beyond the teacher alone.

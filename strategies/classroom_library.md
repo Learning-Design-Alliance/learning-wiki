@@ -12,6 +12,7 @@ generated:
 # Classroom Library
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q1`–`q3` · 5 of 7 report an effect size
 
 ## Description
 A classroom library is a dedicated space within the classroom stocked with a diverse, well-organized collection of books spanning multiple reading levels, genres, languages, and cultural backgrounds. Unlike a school-wide media center, it puts books within arm's reach of daily instruction, enabling immediate self-selection, quick book exchanges, and teacher modeling of reading behaviors. Effective libraries pair the physical collection with routines — browsing, book talks, independent reading time — that convert access into actual reading.

@@ -17,6 +17,7 @@ sources:
 # Place LRE in the curriculum through special events, separate units or courses, or infusion
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The digest describes three approaches to including LRE in the curriculum (Naylor 1984): special events about the law such as Law Day, mock trial competitions, and courtroom field trips; a separate unit or course, typically in government and civics or as electives; and infusion of LRE into standard courses such as American history, world history, and government. Over the short term a semester course makes a positive difference in knowledge, skills, and attitudes, but some educators contend systematic infusion throughout the curriculum will yield the best results.

@@ -17,6 +17,7 @@ sources:
 # Use person-first, strength-based labels such as 'sex trafficking survivor' rather than 'prostitute' when conceptualizing and counseling clients
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The principle holds that the language counselors use to describe clients shapes their own attitudes, empathy, and rape myth acceptance, consistent with linguistic relativity. The article reports that "Using a more strength-based term, such as sex trafficking survivor, may be more appropriate" and that avoiding stigmatizing labels such as 'ugly' matters in the counseling setting. It grounds this in the finding that label exposure produced significantly different attitude scores across randomly assigned groups.

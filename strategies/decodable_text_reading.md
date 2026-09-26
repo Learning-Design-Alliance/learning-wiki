@@ -12,6 +12,7 @@ generated:
 # Decodable Text Reading
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies, `q1`–`q4` · 4 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Decodable text reading places beginning readers in connected text deliberately restricted to grapheme–phoneme correspondences and high-frequency irregular words that have already been explicitly taught. Learners apply newly taught phonics patterns in context — e.g., after instruction on CVC short vowels, a passage composed largely of words like *mat*, *pin*, and *hop*. The strategy is carried out by sequencing texts to match a phonics scope and sequence, having students sound out words rather than predict from pictures or context, and gradually widening the permissible patterns as instruction advances.

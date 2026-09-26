@@ -12,6 +12,7 @@ generated:
 # Use Current Events And Fictional Characters To Teach Social Awareness
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q3` · 3 of 5 report an effect size
 
 ## Description
 This strategy teaches social awareness — perspective-taking, empathy, and recognition of social norms and inequities — by anchoring discussion and analysis in two kinds of concrete material: current events drawn from news and community life, and fictional characters from literature, film, or media. Learners examine what characters or real people experienced, felt, and chose, then connect those cases to their own lives. It is typically carried out through structured discussion, role-play, and reflective writing rather than direct instruction about social skills.

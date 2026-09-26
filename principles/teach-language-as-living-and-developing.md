@@ -17,6 +17,7 @@ sources:
 # Teach language as living and developing, not as a set of dogmatic precepts
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The report closes by endorsing the attitude Jespersen expressed in his 1909 grammar: representing English grammar not as a set of stiff dogmatic precepts marking some things correct and others absolutely wrong, but as something living and developing under continual fluctuations, founded on the past and preparing the way for the future. The author suggests a short list of complementary publications that could stimulate progress toward this ideal attitude and contribute to a teacher's personal philosophy about language.

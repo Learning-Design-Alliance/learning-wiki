@@ -12,6 +12,7 @@ generated:
 # Untimed Tests
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Untimed tests remove or substantially extend the time limit on an assessment so that learners can complete it at their own pace. The strategy shifts what is being measured from speed of retrieval to depth of understanding, and is commonly implemented as extended-time [Accommodations](../elements/accommodations.md), take-home assessments, or open-scheduling in online testing platforms.

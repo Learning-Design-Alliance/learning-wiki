@@ -16,6 +16,7 @@ sources:
 # Capacity versus motivation as competing explanations of individual differences in children's divergent ideational production
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article frames two competing explanations for why children differ on divergent-thinking tasks. Under a capacity account, children who produce more ideas differ in their associative repertoire, so that "increased motivation should not help the child who lacks relevant associations to draw closer to one with a larger repertoire". Under a motivational account, productive children are more intrigued by unusual problems or more desirous of pleasing the examiner, so uniformly raising task motivation should reduce individual differences. The study tests these by rewarding idea production and examining whether regression slopes flatten.

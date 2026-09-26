@@ -17,6 +17,7 @@ sources:
 # Structure the curriculum around the language of reasons in each discipline
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Siegel recommends that in all curriculum areas, education fostering critical thinking should emphasize the nature and role of reasons, the active consideration of alternative theoretical and critical perspectives, and the philosophical issues studied by the philosophy of the relevant discipline that inform the evaluation of reasons. He writes that 'the focus on reasons in history is central to critical history education; the focus on reasons in literature is central to critical literature education,' and hopes his science-education remarks can be generalized to other curriculum areas.

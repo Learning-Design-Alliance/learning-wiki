@@ -16,6 +16,7 @@ sources:
 # Five basic elements make cooperative learning work: positive interdependence, face-to-face interaction, individual accountability, interpersonal and small group skills, and group processing
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The report presents five essential basic elements that must be "precisely structured into every learning group" for cooperative learning to work. Positive interdependence means students feel they "sink or swim" together, created through mutual goals, joint rewards, shared materials, and assigned roles. Face-to-face interaction holds that beneficial outcomes come from interaction patterns and verbal exchanges such as oral summarizing and elaborating. Individual accountability requires frequently stressing and assessing individual learning. Interpersonal and small group skills must be taught by teachers, and group processing gives students time and procedures to analyze how well their groups are functioning. These elements were woven throughout the staff development sessions and listed in each manual activity.

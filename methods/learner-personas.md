@@ -12,6 +12,7 @@ generated:
 # Learner Personas
 
 > **Design Method** · [All design methods](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A learner persona is a concise, evidence-based profile of a representative learner segment — typically including prior knowledge, goals, motivations, constraints, and access conditions — synthesized from learner data such as interviews, surveys, analytics, or enrollment records. Personas function as design artifacts: they give the design team a shared, concrete referent ("Would Amara, the working parent returning after ten years, be able to use this?") that replaces vague assumptions about "the average student."

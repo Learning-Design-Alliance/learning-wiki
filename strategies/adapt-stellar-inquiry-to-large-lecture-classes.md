@@ -17,6 +17,7 @@ sources:
 # Adapt the paper-based stellar populations inquiry to large Astronomy 101 classes and test learning with and without the inquiry
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Because all materials are printed on paper, the authors propose scaling the inquiry up and evaluating it. They write: "This inquiry could be easily modified to work in a large Astronomy 101 class, especially in a classroom that uses active teaching methods." They recommend testing students with and without the inquiry, testing long-term retention of information, and, since the main goal is process skills, testing development and retention of those skills as well.

@@ -16,6 +16,7 @@ sources:
 # Three-tiered hierarchical coding scheme for levels of causal mechanistic reasoning
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article presents a three-tiered hierarchical coding scheme distinguishing noncausal mechanistic, causal, and causal mechanistic levels of explanation, used to analyze student responses to phenomenon-based tasks, instructional dialogue, and exam questions. The team "created a three-tiered coding scheme to identify the levels of causal mechanistic reasoning elicited through in-class dialogue (instructional time) and student responses to phenomenon-based tasks." Fully causal mechanistic responses require entities at least one scalar level below the phenomenon, their behaviors and interactions, and a connection back to the phenomenon (Table 2).

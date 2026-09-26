@@ -17,6 +17,7 @@ sources:
 # Set Up Learning Centers with More Tasks Than Any One Pupil Can Complete
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The digest recommends setting up learning centers in the classroom with more tasks available than what any one pupil can complete, so each learner chooses what to work on. With this choice available, homogeneous or heterogeneous composition becomes less critical, and the science teacher acts as a guide and stimulator rather than a lecturer.

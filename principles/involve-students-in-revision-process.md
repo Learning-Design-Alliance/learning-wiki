@@ -17,6 +17,7 @@ sources:
 # Involve students in the revision process as a collaborative endeavor rather than a giver-receiver relationship
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Revision should not be just a giver-receiver relationship with the teacher giving information and the student receiving it; instead it should be a collaborative endeavor. The article argues that involving students in revision stimulates engagement, helps them grow into independent learners who can reflect on their development, and may promote revision skills, motivation, and long-term improvement and cognitive change.

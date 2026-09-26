@@ -16,6 +16,7 @@ sources:
 # Agency/communion as figure/ground rather than polarity
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper's central organizing framework reconceives Bakan's agency/communion polarity. Rather than treating agency (self-directed, agentic action) and communion (other-directed, communal mutuality) as opposite and opposing forces in the personality, the authors synthesize attachment theory and women's psychology to argue they form "a complex figure/ground, or an oscillation" in which each defines and contains the other, serving development best when operating together.

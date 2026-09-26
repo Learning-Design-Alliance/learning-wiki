@@ -17,6 +17,7 @@ sources:
 # Gator Mentoring: school-wide bi-weekly adult mentorship for at-risk middle school students
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Gator Mentoring is a school-wide initiative pairing students identified as at risk — over-age for grade or with many disciplinary incidents — with a staff member for the full school year. The article states it "provides bi-weekly mentorship for at-risk students, offering them consistent support and guidance," and that every adult in the building, including custodians and cafeteria staff, served as a mentor from August through May.

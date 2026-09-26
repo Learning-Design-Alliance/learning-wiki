@@ -17,6 +17,7 @@ sources:
 # Free Recall Writing as Retrieval Practice
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 After reading an educational text, students write down as much as they can remember without viewing it, with no feedback required. The chapter states "Free recall is an effective retrieval practice strategy for promoting long-term transfer to inference and problem-solving questions". The same logic applies to building concept maps from memory rather than while viewing texts.

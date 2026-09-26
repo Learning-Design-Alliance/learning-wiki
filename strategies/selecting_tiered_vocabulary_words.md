@@ -25,6 +25,7 @@ sources:
 # Selecting Tiered Vocabulary Words
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies, `q1`–`q4` · 2 of 4 report an effect size
 
 ## Description
 This strategy categorizes candidate vocabulary words into three tiers to prioritize instruction: Tier 1 (everyday words like *run* or *happy* that rarely require instruction), Tier 2 (high-frequency academic words like *analyze*, *reluctant*, or *significant* that appear across contexts and are crucial for mature language), and Tier 3 (low-frequency, content-specific words like *photosynthesis* or *tariff* tied to a topic or text). Instruction concentrates on Tier 2 words for broadest academic benefit, supplemented by Tier 3 words needed to access current content. Learners may rate their own word knowledge and propose candidate words, giving the instructor formative data for selection.

@@ -16,6 +16,7 @@ sources:
 # Two foundational conceptualizations of global awareness: earth as one interdependent system and humankind as one family
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The Project is built on two foundational conceptualizations that define what global awareness means at the K-8 level. The first is "An increasing awareness of the earth as a single system with interrelated physical and biological subsystems of which humankind is an interdependent part." The second is awareness of all humankind as one family with the same basic needs, where varieties of human culture are differences of response to these common needs rather than basic differences in human beings. The bibliography invites educators to share materials supporting these two ideas.

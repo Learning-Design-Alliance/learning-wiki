@@ -17,6 +17,7 @@ sources:
 # Task Management
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Task management is the element in which learners organize, track, assign, or sequence work across a project or collaborative activity. It is useful when success depends on planning and coordination, not just content knowledge.

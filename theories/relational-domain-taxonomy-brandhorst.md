@@ -16,6 +16,7 @@ sources:
 # Taxonomy of Educational Objectives: Relational Domain
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article proposes a taxonomy conceptualizing interpersonal skills as observable behaviors amenable to measurement, supplementing Bloom's cognitive and affective taxonomies. It comprises six capability categories — conceptualization (cognitive), evaluation (cognitive-affective), and leadership, followership, role-exchange yielding, and role-exchange asserting (cognitive-affective-behavioral). Each category is broken down by three bases of order in a task-oriented group: "control of sanctions, control through persuasion, and control through the exercise of expert knowledge." The full taxonomy is appended, defining each category and subcategory.

@@ -12,6 +12,7 @@ generated:
 # Mastery Based Retesting
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies, `q2`–`q4` · 2 of 5 report an effect size
 
 ## Description
 Mastery based retesting structures assessment so that a test is not a terminal verdict but a checkpoint: learners who fall short of a defined standard receive targeted reteaching, then retest on the unmastered material. The recorded score reflects eventual mastery rather than the first attempt, and retests are typically capped, staggered, and paired with a required remediation activity so that retaking is earned through further learning, not repetition alone.

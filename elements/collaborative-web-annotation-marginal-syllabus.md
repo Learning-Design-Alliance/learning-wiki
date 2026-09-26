@@ -17,6 +17,7 @@ sources:
 # Collaborative web annotation (Marginal Syllabus): low-bandwidth asynchronous discussion with social justice intent
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Collaborative annotation with the open-source Hypothes.is tool engages learners in co-construction and critique of knowledge. The article notes "the technology is open-source, free and low-bandwidth, and Marginal Syllabus organizers ensure that all articles included are available open access". Marginal Syllabus explicitly centers social justice focused texts, giving the practice a cultural social justice purpose.

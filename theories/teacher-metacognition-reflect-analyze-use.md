@@ -16,6 +16,7 @@ sources:
 # Teacher metacognition as knowing how to reflect on, analyze, and put thought to use — including regulating problem solving for others
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article defines metacognition for its study as "knowing how to reflect on thought, how to analyze that thought, and how to put thought and analysis to use in the future". Key to this description is that the learner not only knows about their own thought processes and others', but can also regulate and direct problem solving to effect changes in thinking, potentially for others as well. The article distinguishes metacognitive knowledge (knowing about what you know) from metacognitive processes (knowing how to regulate what you know).

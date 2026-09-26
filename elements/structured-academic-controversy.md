@@ -12,6 +12,7 @@ generated:
 # Structured Academic Controversy
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Structured academic controversy is the element in which learners argue multiple sides of an issue before synthesizing a shared conclusion.

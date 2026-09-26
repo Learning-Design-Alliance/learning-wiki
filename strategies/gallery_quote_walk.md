@@ -12,6 +12,7 @@ generated:
 # Gallery Quote Walk
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
 
 ## Description
 A Gallery Quote Walk is a social-emotional check-in routine. Quotes — about learning, effort, identity, or the day's topic — are posted around the room (or on a shared digital board). Students circulate, read the quotes, stand beside the one that best matches their current state of mind, and briefly explain or discuss their choice with others who gathered there. The physical act of choosing and the public placement of the body make internal states visible without requiring extended disclosure.

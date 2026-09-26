@@ -12,6 +12,7 @@ generated:
 # Vocabulary Pre-Teaching
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 3 of 7 report an effect size
 
 ## Description
 Vocabulary pre-teaching identifies a small number of words that are critical to understanding an upcoming text or task and teaches them directly before reading — through student-friendly definitions, examples, contexts, and quick checks. The goal is not exhaustive word study but removing comprehension bottlenecks so that working memory during reading is spent on meaning-making rather than decoding unknown words.

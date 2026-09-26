@@ -17,6 +17,7 @@ sources:
 # Three-task interview protocol with a 3D sun-earth model for eliciting young children's causal explanations
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The study's data-gathering instrument is a semi-structured interview protocol combining verbal explanation prompts with a 3D model of the sun (a yellow plastic ball) and earth (a plastic globe). Children arrange the model so a figure on the earth experiences day or night, and label researcher-arranged models, with cotton representing clouds offered when explanations involve blocked sunlight. Interviews were individual, audio-taped, and took approximately 10 minutes; responses were coded by two researchers with κ=0.85 agreement.

@@ -16,6 +16,7 @@ sources:
 # Multimedia learning theory: dual channels, limited capacity, and active selection, organization and integration
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article draws on multimedia learning research (Mayer, Sweller) to explain why multimedia presentations can outperform text. Its core conclusions are that "people have separate audio and visual channels", that "these channels have limited capacity", and that "learning involves the active selection, organization and integration of the information presented". Design principles derived from this framework include presenting words and pictures simultaneously, excluding extraneous material (the coherence principle), and using narration with animation rather than on-screen text. The authors use it to predict and explain the ordering MLM > MLM-script > Textbook in their study.

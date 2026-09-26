@@ -17,6 +17,7 @@ sources:
 # In-process comprehension checks embedded within the text
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Comprehension checks embedded within the text at the point of reading, listed in the article's enumeration of aid types as "(4) vocabulary assistance, (5) inprocess comprehension checks, (6) independentstudy suggestions." They allow readers to monitor understanding while reading rather than after finishing, as one component of the embedded-aids format evaluated in the study.

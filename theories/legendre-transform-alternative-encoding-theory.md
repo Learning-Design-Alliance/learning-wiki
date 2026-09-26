@@ -16,6 +16,7 @@ sources:
 # The Legendre transform as an alternative encoding of the information in a function, forming a self-inverse conjugate pair
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article frames a function as an encoding {F, x} relating a control parameter to a dependent value, and the Legendre transform as a second encoding {G, s} of the same information, where s is the derivative dF/dx. It works only when the function is strictly convex and smooth and when the derivative is easier to measure or control than x itself. The authors write that the transform is its own inverse, displayed symmetrically as G(s) + F(x) = sx for a conjugate pair. This framework organizes their algebraic, geometric, and physical treatments.

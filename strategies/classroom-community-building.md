@@ -12,6 +12,7 @@ generated:
 # Classroom Community Building
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3` · 0 of 2 report an effect size
 
 ## Description
 Classroom community building is the deliberate design of interpersonal structures — norms, shared activities, peer interaction routines, and instructor presence — so that learners experience membership in a learning group rather than isolated enrollment. It is carried out through early socialization activities, sustained collaborative structures, and instructor behaviors that signal belonging and psychological safety.

@@ -12,6 +12,7 @@ generated:
 # Discuss the Benefits of Positive Self-Talk
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size
 
 ## Description
 This strategy involves explicitly teaching learners about self-talk — the internal dialogue that accompanies task performance — and the evidence that its content and tone affect motivation, anxiety, and persistence. Rather than simply modeling positive self-talk, the instructor names it, explains the mechanism (self-efficacy beliefs and appraisal of difficulty), and discusses with learners where and why it helps. The discussion itself is the intervention: making the technique visible and credible so learners adopt it deliberately rather than incidentally.

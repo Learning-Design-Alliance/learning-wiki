@@ -12,6 +12,7 @@ generated:
 # Brain-Based Learning Activities
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (2 for, 1 mixed, 2 against) · 11 studies, `q2`–`q4` · 5 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 Activities that engage multiple senses (visual, auditory, kinesthetic, tactile) to activate different parts of the brain, enhancing learning and retention. In practice this means getting learners talking and teaching each other, pairing verbal content with visual representation, building in movement, and providing breaks for processing. The label "brain-based" is loose — the durable design principle underneath it is that learning improves when information is encoded through multiple coordinated channels and when attention is actively managed, not when activities "stimulate more of the brain" in a generic sense.

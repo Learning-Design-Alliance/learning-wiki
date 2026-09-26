@@ -16,6 +16,7 @@ sources:
 # Martin and Reigeluth's six dimensions of affective development
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article adopts Martin and Reigeluth's (1999) framework dividing the affective domain of learning into six dimensions. As the article states, "Martin & Reigeluth (1999) divide it into six dimensions: emotional development, moral development, social development, spiritual development, aesthetic development, and motivational development." Each dimension is associated with its own unique components of instructional value, such as knowledge, skills, and attitudes, which the article tabulates in its figures. This framework explains why designing instructional strategies for affective learning is difficult, since each dimension poses its own sequencing criteria.

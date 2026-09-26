@@ -17,6 +17,7 @@ sources:
 # Use mathematical language during play interactions and everyday routines to move children from behavioral to representational understanding
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends that teachers embed mathematical language in everyday interactions — daily discussions of opposites and order, open-ended questions like "What else?" and "I wonder what would happen if," and concept-specific questions during play. "When teachers use the language of mathematics in such interactions, children are helped to progress from one level of behavioral knowledge to the next, or from behavioral to representational understanding of the concept." Vocabulary such as first, second, third, too many, and not enough marks higher-level understanding.

@@ -12,6 +12,7 @@ generated:
 # Repeated Reading
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q1`–`q2` · 2 of 2 report an effect size
 
 ## Description
 Repeated reading asks learners to read the same short passage aloud several times, typically until they reach a performance criterion (e.g., 100+ words correct per minute or a fixed number of successful readings). It is usually paired with feedback and some form of modeling, such as listening to a fluent rendition before rereading. The goal is to move word recognition from effortful decoding toward automaticity, freeing cognitive resources for comprehension.

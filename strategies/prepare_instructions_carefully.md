@@ -12,6 +12,7 @@ generated:
 # Prepare Instructions Carefully
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 8 studies, `q2`–`q4` · 5 of 8 report an effect size
 
 ## Description
 Preparing instructions carefully means drafting, sequencing, and simplifying directions *before* instruction begins: grouping similar tasks so directions are given once, breaking multi-step procedures into short chunks, and writing instructions in plain, accessible language. The strategy treats instructions as a designed artifact — drafted, checked against the task, and often rehearsed or piloted — rather than improvised at the moment of delivery.

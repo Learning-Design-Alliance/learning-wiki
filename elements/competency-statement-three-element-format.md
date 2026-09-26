@@ -17,6 +17,7 @@ sources:
 # Competency statement format: behavior, conditions, and minimal performance level
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A competency statement is the outcome objective for staff development: it specifies what educational personnel must know, do, or value to implement the educational improvement program. The workbook teaches two ways of defining competency statements — adopting existing statements from published lists, or writing original ones — and specifies that "Each competency statement should have the minimal following element": a statement of what is to occur, a statement of the conditions under which it is to occur, and a statement of minimal performance level. Competencies are educational-personnel-centered, in contrast to student-centered objectives.

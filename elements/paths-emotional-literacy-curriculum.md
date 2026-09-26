@@ -17,6 +17,7 @@ sources:
 # PATHS (Promoting Alternative THinking Strategies) emotional literacy curriculum
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 PATHS is an experimental-based emotional literacy curriculum initially designed for deaf children, developed by Greenberg, Kusché, and associates, and designed for kindergarten through grade 6. The article quotes its purpose: "to enhance social and emotional competence and understanding in children, as well as to develop a caring, prosocial context that facilitates educational processes in the classroom." It serves as both an intervention program for children with problems and a prevention program for regular children, employing methods such as dialoguing, role-playing, story-telling, simulation, modeling, and verbal mediation.

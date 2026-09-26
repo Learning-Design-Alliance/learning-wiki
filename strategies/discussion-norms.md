@@ -12,6 +12,7 @@ generated:
 # Discussion Norms
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies, `q2`–`q4` · 4 of 9 report an effect size
 
 ## Description
 Discussion norms are explicit, co-developed or teacher-established agreements about how classroom discussion operates: how students respond to one another, how disagreement is expressed, how evidence is used, and how airtime is shared. They function as the procedural infrastructure that makes [Discussion-Based Learning](../patterns/discussion-based-learning.md) productive rather than chaotic or dominated by a few voices.

@@ -17,6 +17,7 @@ sources:
 # Assessment
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Assessment is the structured collection of evidence about learner understanding, performance, or progress for the purposes of feedback, decision making, grading, or revision.

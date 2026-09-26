@@ -12,6 +12,7 @@ generated:
 # Cross-Grade-Level Tutoring
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (5 for) · 11 studies, `q3`–`q4` · 10 of 11 report an effect size
 
 ## Description
 Cross-grade-level tutoring pairs older learners with younger learners so the older student acts as tutor, reviewing previously mastered material and delving deeper into content. The younger learner receives individualized, responsive help; the older learner deepens mastery through the act of teaching, articulation, and explanation. Spiraled curriculum standards create natural opportunities for mutually beneficial partnerships across grade levels.

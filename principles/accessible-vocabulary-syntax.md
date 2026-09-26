@@ -17,6 +17,7 @@ sources:
 # Accessible Vocabulary & Syntax
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies, `q3`–`q4` · 11 of 11 report an effect size
 
 ## Description
 Use language that preserves disciplinary rigor while reducing unnecessary linguistic difficulty. Accessible vocabulary and syntax do not mean "watering down" content; they mean introducing essential terms intentionally, explaining them clearly, modeling sentence structures that learners will encounter in authentic texts, and removing avoidable wording barriers that would otherwise block participation and comprehension.

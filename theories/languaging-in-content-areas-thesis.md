@@ -16,6 +16,7 @@ sources:
 # Languaging in the Content Areas (LICA) as a unifying thesis for post-elementary reading instruction
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 LICA is proposed as "a working title for a potentially unifying thesis" for post-elementary school reading, meant to unify terms like "secondary school reading", "contentreading", and "comprehension/study skills". It combines three central notions: "language learning, dialectical thinking and the creative process", plus ancillary factors including the "valuing" process, inquiry training, content mastery, and self-discovery. The thesis extends rather than replaces traditional reading objectives.

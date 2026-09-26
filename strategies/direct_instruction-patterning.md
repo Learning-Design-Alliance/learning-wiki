@@ -12,6 +12,7 @@ generated:
 # Direct Instruction Patterning
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 4 studies, `q3`–`q4` · 3 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 Direct Instruction Patterning is the deliberate design of example sequences, wording, and practice items so that learners can only induce the intended concept or rule from what is presented. Rooted in Engelmann and Carnine's Theory of Instruction, it treats instruction as an engineering problem: the "pattern" of examples (positives, negatives, minimally different cases) is arranged so the learner's generalization lands on the targeted feature and not on irrelevant surface details. It is typically carried out within a [Direct Instruction](../patterns/direct-instruction.md) lesson through scripted example sets, unison or rapid-fire responding, and tightly sequenced [Practice](../elements/practice.md).

@@ -12,6 +12,7 @@ generated:
 # Cursive Handwriting Activities
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (5 for) · 11 studies, `q1`–`q4` · 11 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 Cursive handwriting activities are structured instructional sequences for teaching connected script: pencil-grip and fine-motor warm-ups, stroke-level practice, letter-family formation drills, join practice, and eventually fluent composition. They are typically carried out through short, frequent sessions combining [demonstration](../elements/demonstration.md) of letter formation with immediate, repeated [practice](../elements/practice.md) and corrective feedback.

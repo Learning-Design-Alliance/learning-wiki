@@ -17,6 +17,7 @@ sources:
 # Educators should act as mediators and facilitators of learning rather than content disseminators
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Drawing on MLE theory, the article recommends that teachers reconceive their role: the mediator guides rather than dominates the learning process, engaging students in expressing and internalizing their understanding. The article states that "educators are expected to leave their role of 'a content disseminator' and take the responsibility to act as a facilitator who brings forth meaningful learning, self -competence, intentional behaviours and familiarity with novelty". In the study's lesson, the teacher offered objectives, asked critical questions, and fostered creativity and independent action.

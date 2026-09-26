@@ -17,6 +17,7 @@ sources:
 # Resist policies that reduce time for social pretend play in preschool and primary grades
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends that educators protect time for social pretend play, which "requires extended uninterrupted time periods to develop complexity," and articulate to policy makers that the cognitive skills demonstrated in pretense are as important for academic readiness as memorizing targeted information. It urges educators to "resist policies that reduce time for social pretend play experiences in preschool and primary grades and work to increase funding for research on play/cognition relationships."

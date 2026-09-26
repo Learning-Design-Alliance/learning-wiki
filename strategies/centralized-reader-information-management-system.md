@@ -17,6 +17,7 @@ sources:
 # Install a centralized computer-based information management system with unique reader identifiers
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The study finds that DBPH maintains minimal reader contact and has "no single list of the readers it serves," with mailing lists maintained by multiple contractors and non-standard application forms across regions. It recommends an "on-line information management system, including product malfunction, inventory, reader eligibility, and financial and selection statistics," in which each reader is assigned a unique identifier code so a data record can be created and maintained, eliminating re-registration when readers move between regions.

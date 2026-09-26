@@ -29,6 +29,7 @@ sources:
 # Contrasting Cases
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 12 claims (9 for, 2 mixed, 1 against) · 19 studies, `q2`–`q4` · 9 of 19 report an effect size · 3 claims rest on one study
 
 ## Description
 Contrasting cases are two or more examples deliberately built to be alike in most respects and different in exactly the respect the learner is supposed to notice. Placed side by side, the difference becomes perceptible in a way it never is when cases are met one at a time — a single case gives the learner nothing to measure it against, so its critical features and its incidental ones look alike. The strategy's defining move is the design of the contrast set, not the act of comparing: what varies across the cases is what learners will end up attending to, so the variation has to be built to point at the target feature and hold everything else still.

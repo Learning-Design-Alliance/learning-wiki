@@ -16,6 +16,7 @@ sources:
 # Five basic educational philosophies: traditional-conservative versus contemporary
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 3 claims (3 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article frames teachers' educational beliefs with five basic approaches: "perennialism, essentialism, progressivism, existentialist education and reconstructivism". It groups perennialism and essentialism as "traditional-conservative educational philosophies" and the other three as contemporary, tracing perennialism and essentialism to idealism and realism, and reconstructivism and progressivism to pragmatism. It uses this axis to interpret its survey findings on physical education teachers.

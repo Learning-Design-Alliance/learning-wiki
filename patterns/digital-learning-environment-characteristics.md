@@ -17,6 +17,7 @@ sources:
 # Digital learning environments characterized by problem- and project-centered, student-centered, collaborative, communicative, customized, productive and lifelong learning
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The report enumerates the characteristics learning takes on once digital content is integrated into curriculum: problem and project centered, student-centered, collaborative, communicative, customized, productive, and lifelong at anytime from anywhere. It states that "the learning process becomes" these things when digital content is integrated, with teachers acting as facilitators within a learning team that includes students, parents, peers and outside experts. The pattern describes how a school-level learning environment is reorganized around these characteristics.

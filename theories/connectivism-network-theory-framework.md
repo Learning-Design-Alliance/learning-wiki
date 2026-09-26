@@ -16,6 +16,7 @@ sources:
 # Connectivism as a network theory of knowledge and learning with principles of autonomy, diversity, interactivity and openness
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (1 for, 1 against) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Connectivism, introduced by Siemens in 2004, is characterized in the survey as "a network theory of knowledge and learning with an emphasis on the use of digital technology to enhance and extend interaction online". It treats learning as what "learners can reach in the external network", with knowledge having a structure that is "complex and chaotic" yet structured, and emerging from interaction within networks. The survey reports researchers edge toward its principles for successful networks: autonomy, diversity, interactivity and openness. It is applied both as pedagogy (MOOCs, classrooms, microlearning) and as a theory of learning positioned alongside behaviourism, cognitivism and constructivism.

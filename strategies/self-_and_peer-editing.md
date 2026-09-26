@@ -12,6 +12,7 @@ generated:
 # Self- and Peer-Editing
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 5 studies, `q2`–`q3` · 3 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Self- and peer-editing are structured processes in which learners evaluate their own writing against explicit criteria and provide feedback to peers. Self-editing builds awareness of writing conventions and self-monitoring; peer-editing exposes writers to varied perspectives and requires editors to apply criteria analytically. Both depend on a shared rubric or checklist and on the teacher modeling the evaluation process with sample texts before students work independently.

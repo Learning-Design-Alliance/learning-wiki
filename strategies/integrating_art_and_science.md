@@ -29,6 +29,7 @@ sources:
 # Integrating Art and Science
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 unmarked) · 2 studies, `q3`–`q4` · 1 of 2 report an effect size
 
 ## Description
 Arts integration pairs art-making — drawing, sculpture, dance, music, visual design — with science content so that learners encounter scientific principles through creative production rather than only through text and lecture. The art activity is not decoration or reward; it is the vehicle through which learners observe, represent, and reason about the science. Effective designs require the artistic task to demand engagement with the target concepts, not merely accompany them.

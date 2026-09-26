@@ -15,6 +15,7 @@ sources:
 # Feedback loops: purposeful, bidirectional, iterative interactions that transform knowledge, actions, or goals
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The report defines a feedback loop as an interaction between two or more parties that is purposeful, bidirectional, and iterative and transforms the knowledge, actions, or goals of the engaged parties. Unlike simple feedback systems such as surveys, which send information in one direction, feedback loops move information both ways, change over time through their participants' interactions, and produce direct benefits for all participants, not only improved outputs. The authors state that feedback systems may contain one or more of these characteristics, while feedback loops feature all four.

@@ -16,6 +16,7 @@ sources:
 # Messick's seven facets of validity as an organizing framework for validation research on epistemic games
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper adopts Messick's taxonomy of validity facets to structure validation investigations in epistemic game contexts. It lists "the following seven facets of validity or validation processes": content, substantive, structural, predictive, external, generalizability, and consequential validity, each with a guiding question about what the assessment content represents, which processes respondents engage in, and so on. The authors use this framework to organize the third section of the paper on structuring additional validation research.

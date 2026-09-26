@@ -16,6 +16,7 @@ sources:
 # Dewey's pedagogical principles: school as life itself, no subject with educational value on its own, and education for all citizens
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article presents a set of Deweyan pedagogical principles against which it evaluates the Turkish education project. According to these principles, "school should not be a preparation for life but life itself"; no lesson or subject can attribute educational value on its own; education has intrinsic rather than instrumental value; and the education system should be democratically localized with autonomous schools. The article uses this framework as the reference point for its balance-sheet assessment of Turkish modernization.

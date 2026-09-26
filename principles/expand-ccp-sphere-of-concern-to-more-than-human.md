@@ -17,6 +17,7 @@ sources:
 # Expand critical communication pedagogy's sphere of concern to include more-than-human existents because anthropocentrism and speciesism maintain social hierarchy
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 This principle holds that critical communication pedagogy, alongside emancipating human life from colonial, imperial, and capitalist domination, "must also expand its sphere of concern to include more-than-human existents." Anthropocentrism is described as hegemonic human-centeredness woven into a colonial nature-culture binary, and the article argues that examining communication practices reproducing anthropocentrism enables ecoculturally valanced languages of critique and possibility in the classroom. The principle also asks educators to complicate anthropocentric models of dialogue, since the anthropocentrism implicit in dialogue may be insufficient for ecological inquiry.

@@ -14,6 +14,7 @@ grain_size: course
 # Competency-Based Learning
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
 
 ## Description
 Competency-Based Learning is a pattern that organizes progression around demonstrated competence on defined outcomes rather than uniform pacing. It typically combines explicit competencies, flexible progress, reassessment, and evidence of performance across time.

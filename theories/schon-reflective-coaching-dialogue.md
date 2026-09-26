@@ -16,6 +16,7 @@ sources:
 # Schon's reflective coaching: learning design-like practice through a dialogue of words and actions
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper analyzes Schon's account of how master practitioners induct novices into design-like practices. Professional knowing-in-action cannot be taught directly but can be learned through guided practice in a practicum—a "virtual world" allowing low-risk experimentation. The coach and novice form an asymmetrical relationship, and coaching proceeds as an "experiment in communication" with a three-fold task: communicate about substantive problems, particularize demonstrations to the student's confusions, and foster a relationship open to inquiry. Schon identifies three idealized approaches—"joint experimentation," "Follow me!" and "hall of mirrors"—each suiting different circumstances.

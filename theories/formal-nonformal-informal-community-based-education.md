@@ -16,6 +16,7 @@ sources:
 # Typology of community-based education as formal, nonformal, and informal processes
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper differentiates community-based education into three categories. Formal providers are bureaucratic organizations delivering credential-bearing education with professional educators and little learner control; nonformal providers such as libraries, museums, and YMCAs offer education as a secondary function with voluntary participation and some learner control; informal education is independent of institutional providership, with the community itself as educator and the learner in complete control. The paper states that "Lifelong educational opportunities exist in each community in three distinct educational forms: formal, nonformal, and informal."

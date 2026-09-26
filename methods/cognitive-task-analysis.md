@@ -12,6 +12,7 @@ generated:
 # Cognitive Task Analysis
 
 > **Design Method** · [All design methods](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study, `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Ask an expert how they do something and they will describe the procedure. Watch them and you will see the procedure plus a great deal of judgement: which cue they attended to, which they dismissed, when they decided the situation had changed, what they were ready for that did not happen. Cognitive task analysis (CTA) is the set of methods for recovering that second layer.

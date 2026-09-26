@@ -12,6 +12,7 @@ generated:
 # Explicit Instruction: Handwriting
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 6 claims (4 for, 2 mixed) · 15 studies, `q1`–`q4` · 14 of 15 report an effect size
 
 ## Description
 Explicit handwriting instruction directly teaches letter formation, size, spacing, and alignment by modeling each stroke, naming it, and guiding learners through structured practice until formation is automatic. Instruction is typically sequenced by motor similarity (e.g., teaching letters that share strokes together) and often incorporates multisensory inputs — tracing in sand or on textured surfaces, air writing, verbal stroke descriptions — before paper-and-pencil practice.

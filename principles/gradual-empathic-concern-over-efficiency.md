@@ -17,6 +17,7 @@ sources:
 # Favor gradual, empathic concern for individuals over quick, cost-effective efficiency in transition therapies
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article advances a paradigm shift in how transition-support therapies are valued. As stated, "a paradigm-shift from therapies emphasizing quick cost-effective efficiency to therapies emphasizing a gradual, empathic concern for individuals was pursued." The principle holds that easing youths into residential treatment should prioritize empathic, relationship-based gradualness over procedural speed and cost efficiency, because admissions experienced as sudden procedural events are the documented problem.

@@ -12,6 +12,7 @@ generated:
 # Virtual Reality Simulations
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 against) · 2 studies, `q3`–`q4` · 1 of 2 report an effect size
 
 ## Description
 Virtual reality (VR) simulations place learners inside an interactive, computer-generated environment where they can perform procedures, manipulate objects, and experience scenarios that would be dangerous, expensive, or impractical in the real world. Learning is carried out through embodied action — the learner *does* the task (or a scaled version of it) rather than reading or watching about it, typically with system feedback on performance.

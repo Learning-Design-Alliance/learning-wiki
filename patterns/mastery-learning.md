@@ -19,6 +19,7 @@ grain_size: unit
 # Mastery Learning
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 2 claims (2 for) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
 
 ## Description
 Mastery Learning is a pattern in which instruction is organized around clear criteria, formative checks, corrective support, and reassessment before progression. Unlike one-pass instruction, the pattern assumes some learners will need additional explanation, feedback, or time before moving on.

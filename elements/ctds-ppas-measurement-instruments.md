@@ -17,6 +17,7 @@ sources:
 # Critical Thinking Disposition Scale and Philosophy Preference Assessment Scale as paired measurement instruments
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The study deploys two Likert-type instruments: the Critical Thinking Disposition Scale (Ricketts & Rudd, Turkish adaptation by Demircioglu) with Cognitive Maturity, Innovation and Engagement subscales, and the Philosophy Preference Assessment Scale (Cetin, Ilhan and Arslan) measuring traditional versus contemporary philosophy preference. In this sample, "Cronbach's alpha coefficients of the Critical Thinking Disposition Scale and Philosophy Preference Assessment Scale were determined to be .87 and .80, respectively." The CTDS ranges from 25 to 125 and the PPAS from 39 to 195.

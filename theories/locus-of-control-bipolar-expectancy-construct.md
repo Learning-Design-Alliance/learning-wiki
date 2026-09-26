@@ -16,6 +16,7 @@ sources:
 # Locus of control as a bipolar internal-external expectancy construct from Rotter's social learning theory
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 against) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article describes locus of control, following Rotter (1966), as "a generalized belief that certain factors control the events of one's life", conceptualized as "a bipolar continuum ranging from a belief in an external locus of control to a belief in an internal locus of control". Internals see themselves as masters of their own fate while externals hold a cynical view of their power to influence their destinies. The study measures this construct with the Nowicki-Strickland Locus of Control Scale for Children, scored in the external direction.

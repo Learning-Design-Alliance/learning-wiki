@@ -16,6 +16,7 @@ sources:
 # DiSalvo et al. taxonomy of four anthropomorphic design forms
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The review presents the DiSalvo et al. (2005, 2004) taxonomy of anthropomorphic design forms, which articulates ways designed artifacts incorporate humanlike elements: structural form imitating human bodily structure or functioning, gestural form imitating human communicative movements, character form imitating human traits or social roles, and aware form imitating "human capacities for thought, intentionality, or inquiry." Structural form most closely aligns with the review's humanlikeness construct; aware form sits near the boundary between design features and attribution processes.

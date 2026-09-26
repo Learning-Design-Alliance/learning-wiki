@@ -16,6 +16,7 @@ sources:
 # Community of Inquiry framework: three overlapping presences for understanding collaborative online learning
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The Community of Inquiry (CoI) framework is used in this article as the theoretical lens for understanding how metacognition is manifested in a shared online learning environment. It "consists of three overlapping presences: cognitive presence, social presence, and teaching presence," which provide theoretical and methodological tools for exploring metacognition in collaborative learning. Cognitive presence guides meaning construction through reflection and discourse, social presence is the ability to project oneself socially and emotionally online, and teaching presence is the design, facilitation, and direction of cognitive and social processes. The framework was chosen because it emphasizes both the personal (reflective) and shared (collaborative) worlds of a learning experience.

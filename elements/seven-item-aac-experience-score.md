@@ -17,6 +17,7 @@ sources:
 # Seven-item parent-reported AAC implementation experience score
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A parent-reported questionnaire score measuring experiences during AAC implementation, covering professional support, follow-up, confidence using AAC, perceived individual fit, team cooperation, and consideration of emotional and psychological needs. Items are rated on four ordered options (never, sometimes, mostly, always) scored 0–3, giving a total range of 0–21. The article reports that "The final AAC experience score was calculated from seven positively worded experience items and showed good internal consistency (Cronbach’s α = 0.841)"; the observed median was 16.0 (IQR 12.75–19.0).

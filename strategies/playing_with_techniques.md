@@ -12,6 +12,7 @@ generated:
 # Playing With Techniques
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 9 studies, `q3`–`q4` · 8 of 9 report an effect size
 
 ## Description
 Playing with techniques is a strategy in which learners experiment with a specific authoring technique — sentence combining, imagery, dialogue, structural moves — in short, low-stakes exercises before or alongside composing full texts. The technique is typically first studied in mentor texts, then rehearsed in isolation or in small chunks, so that learners can manipulate it without the simultaneous demands of planning, drafting, and editing a whole piece.

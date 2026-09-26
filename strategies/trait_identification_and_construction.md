@@ -12,6 +12,7 @@ generated:
 # Trait Identification and Construction
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 3 of 4 report an effect size
 
 ## Description
 These tasks involve the study of traits: learners identify animal body parts from puzzle pieces, then construct either real or mythical animals from those parts. Learners measure, observe, and justify the design of their constructions, connecting each physical feature to a function or classification. The strategy converts abstract life-science vocabulary (fur, scales, wings, webbed feet) into manipulable objects that can be compared, sorted, and recombined.

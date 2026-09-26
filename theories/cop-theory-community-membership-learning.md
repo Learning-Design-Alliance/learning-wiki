@@ -16,6 +16,7 @@ sources:
 # Communities-of-Practice theory as a framework for understanding community membership and learning
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Communities-of-Practice theory (Lave & Wenger) holds that learning is a collective, social undertaking embedded in practice rather than a fixed, individual activity with a beginning and end. Wenger defines a CoP as "a group of people who generate knowledge in the process of sharing their knowledge, experience, or insight on a common interest". The article uses CoP as the theoretical background for interpreting honours students' perceptions, with three dimensions: joint enterprise, mutual engagement, and shared repertoire.

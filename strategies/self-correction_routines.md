@@ -12,6 +12,7 @@ generated:
 # Self Correction_Routines
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies, `q2`–`q4` · 3 of 5 report an effect size
 
 ## Description
 Self correction routines are repeatable procedures that prompt learners to evaluate their own performance against explicit criteria, locate errors, and revise before external feedback arrives. Typical moves include checking work against a rubric or answer key, error analysis ("find and classify your mistake"), and structured revision passes. The routine shifts the act of correction from the teacher or system to the learner, making error detection itself a practiced skill.

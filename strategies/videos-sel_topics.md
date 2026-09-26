@@ -12,6 +12,7 @@ generated:
 # Videos: SEL Topics
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy uses short video clips depicting social-emotional learning (SEL) topics — empathy, self-regulation, conflict resolution, growth mindset — as a stimulus for discussion and follow-up activities. Video's narrative and visual format simplifies abstract or emotionally complex topics through storytelling, making them accessible and personally applicable. The video is a prompt, not the lesson: learning happens in the structured discussion and application that follow.

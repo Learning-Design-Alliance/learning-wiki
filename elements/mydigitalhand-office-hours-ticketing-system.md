@@ -17,6 +17,7 @@ sources:
 # MyDigitalHand (MDH) office-hours ticketing system
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 MyDigitalHand (MDH) is "a ticketing system for help requests" used in the studied CS2 course to manage office hours. Students fill out a form that places a request in the queue when a session is active; teaching staff select a student from the queue, invite them into the Zoom meeting, and close the ticket after resolving the interaction. The system supplied the request time, start time, cancel time, and resolved time data used to define wait time and interaction time in this study.

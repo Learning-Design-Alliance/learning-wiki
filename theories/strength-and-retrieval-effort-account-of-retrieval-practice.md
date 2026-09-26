@@ -16,6 +16,7 @@ sources:
 # Strength and Retrieval Effort Account (New Theory of Disuse and Bifurcation)
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 4 claims (2 mixed, 2 unmarked) · 4 studies, `q2`–`q4` · 3 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 This account holds that effortful retrieval strengthens knowledge and that "The degree to which knowledge is strengthened is assumed to be proportional to the amount of effort involved in retrieval". Bjork and Bjork's new theory of disuse distinguishes storage and retrieval strength; the bifurcation account of Kornell et al. (2011) adds that only retrieved items are strengthened, explaining delay-dependent effects.

@@ -16,6 +16,7 @@ sources:
 # Rotter's internal-external locus of control of reinforcement construct
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study, `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article organizes its predictions around Rotter's (1966) "control of reinforcement" construct, described as "a dimension of belief or expectancy about the locus of reinforcing consequences for behavior." It represents "a generalized or transsituational disposition to ascribe behavior-reinforcement contingencies to either 'external', and hence uncontrollable, factors" such as chance, fate, or powerful others, or to "internal" sources where the individual perceives himself as the effective determinant of reinforcing events. The I-E Scale (Rotter, 1966) is named as the most widely used criterion measure for assessing this expectancy.

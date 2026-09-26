@@ -17,6 +17,7 @@ sources:
 # Compare courses for transfer by analyzing implicit outcomes in summative assessments rather than calendar descriptions
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Because explicit learning outcomes are often sector-specific, non-standardized, and not aligned with course content or assessments, the article recommends comparing programs through analysis of significant summative assessments such as final exams. Program chairs commonly compare calendar descriptions and course outlines, but these "generally do not spell out the task complexity that students must meet in order to pass the course"; the framework is intended to allow that comparison.

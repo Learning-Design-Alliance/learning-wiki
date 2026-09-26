@@ -16,6 +16,7 @@ sources:
 # Tzur et al.'s three teachers' perspectives: traditional, perception-based and conception-based
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article adopts Tzur et al.'s (2001) characterization of teachers' practice as three perspectives: "tradit ional, perception-based and conception -based". A traditional perspective couples a passive stance toward learning with mathematics existing outside the learner, transmitted by the teacher. A perception-based perspective has the teacher orchestrate conditions for students to see ideas through their own experience. A conception-based perspective engages learners in realistic tasks with reflection reorganizing prior schemes. The article uses this taxonomy to interpret norms in pre-service teachers' discourse.

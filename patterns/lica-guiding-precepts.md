@@ -17,6 +17,7 @@ sources:
 # Ten guiding precepts for school-wide languaging-oriented reading programs
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The LICA thesis embraces instruction, learning, school-wide programming and social/community concerns, and the authors state "Ten of the most fundamental" recurring themes or guiding precepts. These include that experiences must "be worked through in language" to transfer, that students fail from too little information rather than too much, that the teacher's most important role is "competent model of language, thinking and inquiry behaviors", and that only a total school-wide concentration on reading can yield positive outcomes.

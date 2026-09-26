@@ -12,6 +12,7 @@ generated:
 # Structured Discussion Techniques
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 8 studies, `q2`–`q4` · 4 of 8 report an effect size
 
 ## Description
 Structured discussion techniques are routines and supports — talk protocols, discussion roles, sentence starters, and norms — that organize peer conversation around academic content. Rather than relying on learners to spontaneously produce productive dialogue, the instructor makes the *moves* of good discussion explicit and routinized, so that [Class Discussion](../elements/class-discussion.md) can run productively even without direct instructor supervision.

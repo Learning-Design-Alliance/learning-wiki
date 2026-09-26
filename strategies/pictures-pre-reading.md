@@ -12,6 +12,7 @@ generated:
 # Pictures (Pre-Reading)
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 9 studies, `q2`–`q4` · 3 of 9 report an effect size
 
 ## Description
 The instructor selects three or four pictures related to the reading topic and provides them to small groups of learners. The groups work together to connect the pictures and guess what the reading will be about, then present their predictions to the class. This visual-based activity stimulates curiosity and encourages predictive thinking before reading, functioning as a concrete [Activation](../principles/activation.md) task that surfaces prior knowledge and builds anticipation for the text.

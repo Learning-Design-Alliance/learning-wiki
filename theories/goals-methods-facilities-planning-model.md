@@ -16,6 +16,7 @@ sources:
 # A procedural goals-methods-facilities model for planning science facilities
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper presents a procedural model in which educational specifications are drafted by first defining goals, then determining instructional methods, then specifying facilities and services. The author states: "This paper will present a procedural model to be used in planning science facilities for grades nine through twelve." The model is represented as goals, methods, and facilities linked in sequence, and the paper also attempts a reverse check by predicting space-design consequences from methods and goals. It is intended to let educators participate effectively with architects in shaping educational space.

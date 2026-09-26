@@ -17,6 +17,7 @@ sources:
 # Use a seven-perspective reflective heuristic (locus, process, politics, metaphor, history, existence, systems) to respond to professional conflict
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The author offers a set of simple questioning perspectives as starting points for re-reading conflict and making space for responses other than somatic ones: locus (where the conflict resides), process (its narrative, causes, effects), politics (forces, power, beneficiaries), metaphor (Elbow-based metaphor creation), history, existence (alternative explanations), and systems (how the system supports or perpetuates the conflict and where leverage points lie). Each perspective is a set of guiding questions applied to a live conflict.

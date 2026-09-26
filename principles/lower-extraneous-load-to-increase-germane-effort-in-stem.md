@@ -17,6 +17,7 @@ sources:
 # Lower extraneous load in STEM materials to leave room for germane effort
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Drawing on the negative extraneous-germane correlation, the authors state that "in order to increase learners’ efforts to learn (germane cognitive load), the educators must improve the design of instructional materials to lower the extraneous cognitive load", for example by removing redundancy or split-attention content. They also suggest interest may be used as a proxy for germane load.

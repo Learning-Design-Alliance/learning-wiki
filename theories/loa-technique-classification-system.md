@@ -16,6 +16,7 @@ sources:
 # A six-concept bipolar classification system for LOA measurement techniques
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Chapter III presents a classification of LOA measurement techniques built from bipolar concepts: direct vs. indirect, continuous vs. categorical item selection, multiple- vs. single-item, free vs. structured response, complete vs. incomplete, and balanced vs. unbalanced. The authors state that "All techniques known to the writersmay be described in terms of onlya few of the 64 possible combinations which result from the classification", with all existing techniques except the OAS falling into three types. The system is used to evaluate commercial and non-commercial LOA instruments.

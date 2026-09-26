@@ -12,6 +12,7 @@ generated:
 # Restorative Conversations
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 3 of 7 report an effect size
 
 ## Description
 A restorative conversation is a facilitated dialogue — often between a teacher and student, or among affected peers — structured around restorative questions: *What happened? Who was affected and how? What do you need to make things right?* It shifts the adult role from judge to facilitator, aiming to repair relationships and rebuild norms rather than simply assign consequences. It is the smallest unit of restorative practice, sitting between informal everyday check-ins and formal restorative conferences or circles.

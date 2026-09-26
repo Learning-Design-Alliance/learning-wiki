@@ -12,6 +12,7 @@ generated:
 # Reframe Negative Self-Talk
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3` · 0 of 2 report an effect size
 
 ## Description
 Reframing negative self-talk is a strategy in which learners identify self-defeating internal statements ("Everyone knows I can't win this challenge") and deliberately restate them as constructive alternatives ("Even if I don't win, I will learn something from this challenge"). It is typically carried out through a self-talk journal or structured reflection: the teacher models examples of negative self-talk, learners name their "negative voice" (e.g., "Ruthless Ralph"), and then practice converting fixed-mindset phrases into growth-oriented messages. The technique draws on cognitive-behavioral methods for identifying and restructuring automatic thoughts and on instructional self-talk research showing that structured self-statements improve performance and persistence.

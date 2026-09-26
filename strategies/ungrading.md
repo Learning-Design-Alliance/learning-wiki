@@ -12,6 +12,7 @@ generated:
 # Ungrading
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
 
 ## Description
 Ungrading is the practice of removing letter grades or point scores from student work — or delaying them until the end of a course — and replacing them with substantive feedback, self-evaluation, and revision. Instructors still assess; what changes is that evaluative judgment is communicated as descriptive commentary rather than a summative symbol, and students are often given a central role in determining their final grade through self-assessment and conferencing.

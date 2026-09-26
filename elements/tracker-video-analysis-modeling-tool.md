@@ -17,6 +17,7 @@ sources:
 # Tracker: free video analysis and modeling tool built on the Open Source Physics Java framework
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Tracker is a "free video analysis and modeling tool built on the Open Source Physics (OSP) Java framework", downloadable from the OSP website or runnable via Webstart. It fits equations (e.g. parabola fits) to video data, displays world views comparing real data with dynamic particle models, and lets students build dynamic models by keying values such as vx and forces. The authors use it for falling-ball and projectile-motion activities and release all workshop materials on a blog for mass adoption.

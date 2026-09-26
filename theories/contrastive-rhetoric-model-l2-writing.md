@@ -16,6 +16,7 @@ sources:
 # Contrastive Rhetoric Model of L2 writing
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The Contrastive Rhetoric Model explains L2 writing through the influence of a writer's first language and culture. The article states that it "focuses on the influence of the L1 and one's own culture on the process of writing in a second language", building on Kaplan's claim that linguistic communities share collective thought patterns reflected in their writing. It has focused primarily on international student L2 writers in ESL contexts in American higher education.

@@ -12,6 +12,7 @@ generated:
 # Outdoor Book Walk
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3` · 3 of 4 report an effect size
 
 ## Description
 An Outdoor Book Walk turns a public park path or walkable street into a sequential reading experience by laminating and posting the pages of a picture book at intervals along the route. Families walk the path together, reading page by page, combining shared book reading with physical activity and community visibility of literacy. Book selection should reflect students' identities and, where possible, include texts in students' home languages.

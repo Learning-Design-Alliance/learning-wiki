@@ -12,6 +12,7 @@ generated:
 # Circle Count
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 8 studies, `q3`–`q4` · 8 of 8 report an effect size
 
 ## Description
 Circle Count is a brief, routine whole-class activity in which students stand or sit in a circle and count aloud in turn — by ones, by skip-counting patterns (2s, 5s, 10s), forward or backward, or from non-standard starting points. The teacher varies the pattern mid-count ("switch to counting back by 10s from 93"), requiring each student to maintain the count and apply the rule on their turn. Sessions typically last 3–7 minutes and function as a daily warm-up rather than a full lesson.

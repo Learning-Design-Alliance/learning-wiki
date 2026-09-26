@@ -12,6 +12,7 @@ generated:
 # Home Living Center Role Play
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q3` · 1 of 3 report an effect size
 
 ## Description
 Learners visit a home living center — a play area provisioned with domestic props (kitchen set, dolls, furniture, dress-up clothing) — and take on family or household characters, explicitly assigning emotions to those characters and acting them out. The facilitator frames scenarios, prompts emotional vocabulary ("How does the baby feel when…?"), and debriefs afterward so that enacted feelings become named, discussable constructs.

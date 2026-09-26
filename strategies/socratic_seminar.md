@@ -12,6 +12,7 @@ generated:
 # Socratic Seminar
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 3 of 5 report an effect size
 
 ## Description
 A Socratic Seminar is a formalized discussion format in which a group of learners examines a shared text, artifact, or problem through open-ended questioning, with the teacher acting as facilitator rather than authority. Participants respond to one another's claims, cite evidence from the text, and build collective understanding through sustained dialogue. The format typically uses an inner/outer circle arrangement in which one group discusses while the other observes and gives feedback, then roles rotate.

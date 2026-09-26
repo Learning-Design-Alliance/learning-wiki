@@ -17,6 +17,7 @@ sources:
 # Problem Scenarios
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Problem scenarios are concrete situations presented to learners as the context for inquiry, analysis, or solution development. They are useful when learners need a realistic frame that makes a problem meaningful and actionable.

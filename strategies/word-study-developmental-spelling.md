@@ -12,6 +12,7 @@ generated:
 # Word Study Developmental Spelling
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 3 of 5 report an effect size
 
 ## Description
 Word study is a developmental approach to spelling instruction grounded in the research tradition of Henderson, Templeton, and colleagues. Learners are assessed to determine their stage of orthographic knowledge — typically emergent, letter-name, within-word pattern, syllables and affixes, or derivational relations — and instruction targets the features at the edge of that stage. The core activity is the [word sort](word-sort.md): learners categorize contrastive word sets (e.g., short vs. long vowel patterns) by visual pattern, sound, and meaning, comparing and contrasting rather than memorizing.

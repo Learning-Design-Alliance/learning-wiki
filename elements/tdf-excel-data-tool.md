@@ -17,6 +17,7 @@ sources:
 # Talent Development Framework Excel-based data tool
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The GTL Center offers an accompanying Excel-based TDF data tool for state and district human capital analysis. According to the document, "Users can insert their own human capital data and the tool generates user-friendly charts that visualize shortages and gaps across the entire educator career continuum." The tool is described as a way to ensure examination of data across each TDF policy area and to help create a concrete path for redrawing the educator shortages picture in a given context.

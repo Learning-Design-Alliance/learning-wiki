@@ -16,6 +16,7 @@ sources:
 # Interpersonal complementarity principle (Leary Circumplex / Carson)
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article organizes its hypotheses around the complementarity principle from the Leary Interpersonal Circumplex: high-probability elicitation-response sequences (dominance followed by submissiveness, submissiveness followed by dominance, friendliness followed by friendliness, hostility followed by hostility) are labeled complementary. Carson "purposes that their frequency is related to the fact that such complementary interactions are reinforcing to both participants, contribute to the maintenance of existing behavior patterns, reduce C'' ety, and promote increased relatedness." Conversely, anti-complementary exchanges purportedly generate anxiety and are behaviorally disconfirming. The study tests competing predictions: Carson's view that therapists should avoid complementarity to the client's maladjusted elicitations versus Swensen's view that highly complementary relationships are most successful.

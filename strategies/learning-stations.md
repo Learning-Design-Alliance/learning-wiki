@@ -12,6 +12,7 @@ generated:
 # Learning Stations
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 2 of 2 report an effect size
 
 ## Description
 Learning stations (also called centers or rotation stations) divide a learning space — physical or digital — into several small activity zones, each with a focused task, its own materials, and clear instructions. Learners move through the stations individually or in small groups, typically on a fixed or self-paced rotation, so that a single session exposes them to varied task types, feedback structures, or levels of [Practice](../elements/practice.md) intensity.

@@ -12,6 +12,7 @@ generated:
 # Racial Identity Work for Educators
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Racial identity work is a professional learning strategy in which educators systematically examine their own racial identity, socialization, privilege, and implicit biases, and connect that self-knowledge to their instructional decisions and relationships with students. It is carried out through structured reflection, facilitated dialogue, identity development frameworks (e.g., Helms's racial identity models, Cross's nigrescence theory), and analysis of how race shapes classroom practice. The premise is that unexamined racial identity produces unexamined instructional choices; making identity explicit is a precondition for culturally responsive teaching.

@@ -15,6 +15,7 @@ sources:
 # Five structural forms for systems of feedback loops: generator, amplifier, activator, aggregator, catalyzer
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The report proposes a taxonomy of structures, described as the overarching forms that systems of multiple feedback loops take toward a larger goal. In a generator, one party sits at the center of multiple concurrent feedback loops coordinating outputs; amplifiers elevate one community's knowledge to a broader field with loops on only one side; aggregators bridge a small set of parties and a larger set with loops on both sides; activators have no central party and no single agreed output; catalyzers similarly lack a central party but aim to influence the field at large.

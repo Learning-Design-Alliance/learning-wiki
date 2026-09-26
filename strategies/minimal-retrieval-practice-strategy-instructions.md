@@ -17,6 +17,7 @@ sources:
 # Give students minimal direct instruction that retrieval practice beats restudying and that items should be recalled correctly three times before being dropped
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends a minimal instructional intervention in which educators tell students that repeated retrieval practice is more beneficial for learning than repeated studying, show evidence of the benefit, and give a concrete implementation rule: recall each item correctly at least three times before dropping it from study. The authors suggest teachers "might embed retrieval practice strategy instructions into homework or study guides" rather than devoting lecture time.

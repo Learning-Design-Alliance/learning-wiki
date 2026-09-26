@@ -12,6 +12,7 @@ generated:
 # Modeling And Demonstration
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 4 studies, `q3` · 4 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 Modeling and demonstration involve an expert performing a task — solving a problem, executing a procedure, applying a strategy — while learners observe. Its power comes from making thinking visible: the modeler narrates decisions, monitors their own understanding, and shows how errors are detected and corrected, rather than merely displaying the finished product.

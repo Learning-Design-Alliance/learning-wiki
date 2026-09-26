@@ -16,6 +16,7 @@ sources:
 # Linguistic Threshold Hypothesis versus Linguistic Interdependence Hypothesis for ELL reading comprehension
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The review presents two dueling hypotheses about English Language Learners' reading, discussed by Bernhardt and Kamil (1995). Under the Linguistic Threshold Hypothesis, misinterpretation of English reading questions would be remedied "with direct instruction in metalinguistics and English grammar and language". Under the Linguistic Interdependence Hypothesis, L2 reading performance is viewed as greatly shared, transferable and intertwined with L1 reading ability, with both thought to emanate from the same core. Interpretation of ELL performance differences depends on one's stance in this debate.

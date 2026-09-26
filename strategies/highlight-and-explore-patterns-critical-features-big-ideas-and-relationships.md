@@ -12,6 +12,7 @@ generated:
 # Highlight and Explore Patterns, Critical Features, Big Ideas, and Relationships
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 7 studies, `q3`–`q4` · 6 of 7 report an effect size · 3 claims rest on one study
 
 ## Description
 This strategy directs learner attention to the features, patterns, and organizing ideas that matter most for the learning goal, and makes relationships between concepts explicit. It combines *signaling* (visual or verbal cues that mark critical information) with *guided exploration* (activities in which learners compare cases, trace patterns, and articulate how ideas connect). The aim is coherent schema construction rather than accumulation of isolated facts.

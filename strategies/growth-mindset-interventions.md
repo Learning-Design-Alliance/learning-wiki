@@ -12,6 +12,7 @@ generated:
 # Growth Mindset Interventions
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 unmarked) · 2 studies, `q3` · 0 of 2 report an effect size
 
 ## Description
 Growth mindset interventions teach learners that intellectual abilities are not fixed but can be developed through effort, effective strategies, and help from others. They are typically delivered as brief (30–60 minute), structured sessions using neuroscience evidence, stories of people who improved, and writing exercises in which learners advocate the malleability view to a struggling peer. Critically, effective versions pair the belief message with concrete strategy guidance and reduce environmental cues (e.g., harsh public ranking) that signal ability is fixed.

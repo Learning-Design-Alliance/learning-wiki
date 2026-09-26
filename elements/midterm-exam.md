@@ -12,6 +12,7 @@ generated:
 # Midterm Exam
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size
 
 ## Description
 A midterm exam is a formal, summative assessment administered at the midpoint of a course to measure student understanding and retention of material covered so far. Beyond certification of progress, it functions as a high-stakes retrieval event: preparing for and taking the exam forces learners to reconstruct and consolidate course content.

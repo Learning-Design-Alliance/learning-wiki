@@ -17,6 +17,7 @@ sources:
 # Integrate caregiver-led child nutrition monitoring with other health services to increase sustainability
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends embedding Family MUAC with two-way SMS into existing health service touchpoints so caregivers already visiting facilities can be enrolled and followed up efficiently. Healthcare workers "suggested that integrating Family MUAC supported by two-way SMS with other health services would lead to greater sustainability," for example enrolling women attending PMTCT services. This positions the intervention within routine care rather than as a standalone program.

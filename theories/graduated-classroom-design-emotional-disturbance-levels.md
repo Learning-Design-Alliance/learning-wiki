@@ -16,6 +16,7 @@ sources:
 # Graduated classroom-design framework matching environmental control to three levels of emotional disturbance
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The booklet organizes all its design schemes around a single axis: the degree of emotional disturbance of the children served. It states, "In this publication, there are designs for three levels of emotional disordersevere, moderate, and mild", and holds that "The flexibility of such spaces depends on how disturbed the children are." As disturbance decreases, enclosed quiet space, separate consultation rooms, and rigid zoning are progressively reduced. Planners are told to choose the design matching their school's population.

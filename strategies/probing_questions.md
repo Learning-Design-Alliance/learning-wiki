@@ -12,6 +12,7 @@ generated:
 # Probing Questions
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 11 studies, `q2`–`q4` · 7 of 11 report an effect size
 
 ## Description
 Probing questions are follow-up questions that press learners to justify, elaborate, and examine their reasoning rather than settle for a first answer. R.W. Paul's taxonomy of Socratic questioning distinguishes six types: questions for clarification, questions that probe assumptions, questions that probe reasons and evidence, questions about viewpoints and perspectives, questions that probe implications and consequences, and questions about the question itself. Used well, they convert a correct answer into an articulated line of reasoning, making thinking visible and open to revision.

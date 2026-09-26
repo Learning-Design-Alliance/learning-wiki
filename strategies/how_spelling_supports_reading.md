@@ -12,6 +12,7 @@ generated:
 # How Spelling Supports Reading
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 8 studies, `q1`–`q4` · 7 of 8 report an effect size
 
 ## Description
 Spelling instruction that explicitly teaches phoneme–grapheme correspondences, orthographic patterns, and morphology strengthens reading by building the same word-knowledge network used for word recognition. Rather than treating spelling as a memorization subject, this strategy treats encoding (spelling) as the reciprocal of decoding (reading): analyzing *why* a word is spelled the way it is — sound-by-sound, syllable by syllable, morpheme by morpheme — creates durable orthographic representations that support fluent reading [Ehri's phases show word reading and spelling draw on shared orthographic knowledge.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S].

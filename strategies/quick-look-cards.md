@@ -12,6 +12,7 @@ generated:
 # Quick Look Cards
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 against) · 5 studies, `q3`–`q4` · 4 of 5 report an effect size
 
 ## Description
 Quick Look Cards are compact reference aids — a single card or small set of cards containing key steps, rules, definitions, or decision prompts — that learners can consult *during* task performance. Unlike full instructional materials, they are designed for seconds-long glances, not study: the learner is working, hits a point of uncertainty, and retrieves exactly the support needed before continuing.

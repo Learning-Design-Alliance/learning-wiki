@@ -12,6 +12,7 @@ generated:
 # Racial Equity in PBL - Build Community Through Peer Feedback
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 8 studies, `q2`–`q3` · 3 of 8 report an effect size
 
 ## Description
 When students are given the opportunity during projects to frequently share feedback and revise their work, it creates moments to witness growth and progress — their own and their peers'. Providing meaningful feedback to each other allows students to contribute to a strong, supportive classroom culture, building the relationships and connection they need. In racially diverse classrooms, this strategy deliberately positions every student as both a contributor and a critic, distributing intellectual authority rather than concentrating it in the teacher or in historically high-status students.

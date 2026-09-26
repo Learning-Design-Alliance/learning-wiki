@@ -16,6 +16,7 @@ sources:
 # Three-axis typology of open educational practices
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article offers a typology of OEP that goes beyond OER use, situating each practice along three axes: "From content-centric to process-centric; From teacher-centric to learner-centric; From primarily pedagogical to primarily social justice focused". The social justice axis subdivides into economic, cultural and political injustice. The typology enables analysis and comparison of different OEP by considering the three axes simultaneously, illustrated with examples such as open textbooks, Wikipedia editing and connectivist MOOCs.

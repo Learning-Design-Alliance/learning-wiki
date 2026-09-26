@@ -17,6 +17,7 @@ sources:
 # Administer short weekly conceptual quizzes to rotating section subgroups to track understanding across a term
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A concrete implementation of the between-student method: different sections complete the same short conceptual quiz in different weeks, with quiz order randomly assigned and quizzes administered at the beginning of class, once per week, in paper format with five-ten minutes to complete. This captures understanding on a weekly time scale without test-retest effects.

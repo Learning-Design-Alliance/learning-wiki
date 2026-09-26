@@ -12,6 +12,7 @@ generated:
 # Children's Literature for Math Instruction
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Children's literature for math instruction is a strategy in which stories, picture books, or narrative texts are used to introduce mathematical ideas, contexts, or discussion.

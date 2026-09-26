@@ -12,6 +12,7 @@ generated:
 # Word Sort
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 6 studies, `q3`–`q4` · 4 of 6 report an effect size
 
 ## Description
 Students work in small groups, each given an envelope containing key terms on separate slips of paper. Before reading or lecture, they discuss what the terms might mean and organize them into categories based on perceived relationships. After encountering the terms in text or lecture, groups re-sort the words and compare their new arrangements with their initial ones, making conceptual revision visible.

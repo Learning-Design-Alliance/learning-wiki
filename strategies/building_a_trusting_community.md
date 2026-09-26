@@ -12,6 +12,7 @@ generated:
 # Building a Trusting Community
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size
 
 ## Description
 Building a trusting community means deliberately establishing relational safety before — and alongside — academic work: learners are given structured time to reflect and write about elements of their lives, share those reflections with peers, and see their identities and voices treated as intellectually relevant. Highlighting student voices is essential in making the connections that lay the ground for fruitful discussions, particularly on emotionally or politically charged content such as race and equity.

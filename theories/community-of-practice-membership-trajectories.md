@@ -16,6 +16,7 @@ sources:
 # Community of practice with Wenger's five membership trajectories
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A community of practice is a group of people, formally or informally bound, who engage in and identify themselves with a common practice, joining practice with analysis and reflection to create shared knowledge. The article presents Wenger's five membership trajectories: peripheral, inbound, insider, boundary, and outbound. It grounds the principle in distributed cognition, which argues cognition is distributed among individuals, tools, artifacts, and communities rather than found only within the head. Cognitive apprenticeships often naturally occur within a community of practice.

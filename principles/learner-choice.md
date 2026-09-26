@@ -21,6 +21,7 @@ sources:
 # Learner Choice
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (1 for, 3 mixed) · 6 studies, `q1`–`q4` · 6 of 6 report an effect size · 2 claims rest on one study
 
 ## Description
 Learner choice is the principle of giving learners meaningful decisions about aspects of their learning, such as topic, format, sequence, pacing, strategy, or demonstration of understanding. The instructional value of choice comes from agency with purpose: when learners can make decisions that matter, they are more likely to experience ownership, motivation, and relevance. Effective choice is not unlimited freedom. It is bounded in ways that preserve learning goals, quality standards, and sufficient support.

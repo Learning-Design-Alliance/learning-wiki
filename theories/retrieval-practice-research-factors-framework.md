@@ -16,6 +16,7 @@ sources:
 # Retrieval Practice Experiment Architecture and Factors
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The chapter's organizing framework: learners study materials, a retrieval practice condition completes initial retrieval activities while a control does not, and all take a final criterial assessment. The factors explored include "aspects of the initial retrieval practice conditions, the conditions of the ﬁnal criterial assessment, characteristics of the learners, the nature of the materials, and the setting of the study", which structure the chapter's sections.

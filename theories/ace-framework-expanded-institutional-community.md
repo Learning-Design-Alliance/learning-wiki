@@ -16,6 +16,7 @@ sources:
 # Academic Communities of Engagement (ACE) framework, expanded to include an institutional/school community of support
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (1 for, 1 against) · 1 study, `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The ACE framework explains how supports help online learners engage affectively, behaviorally, and cognitively. It groups support actors into a course community and a personal community, hypothesizing that independent engagement "is limited and likely insufficient for academic success and requires support from their personal and course communities." This study expands it with a school/institutional community of support, arguing the distinction "provides a broader and more nuanced understanding of both the communities of support." It also aligns specific support elements (e.g., instructing and collaborating with cognitive engagement; facilitating communication and developing relationships with affective engagement) to engagement dimensions.

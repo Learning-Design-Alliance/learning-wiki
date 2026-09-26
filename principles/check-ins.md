@@ -12,6 +12,7 @@ generated:
 # Check-ins
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (1 for, 2 mixed) · 9 studies, `q3`–`q4` · 9 of 9 report an effect size
 
 ## Description
 Check-ins are brief, recurring opportunities for learners to signal how they are doing, what they understand, and what kind of support they need. They can be social, emotional, or task-focused, but their instructional value comes from turning invisible learner state into something that can guide the next move. Used well, check-ins help establish belonging, normalize support-seeking, and give instructors a low-cost way to detect confusion, overload, or disengagement early.

@@ -12,6 +12,7 @@ generated:
 # User-Friendly Library Website Practices
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 4 of 5 report an effect size
 
 ## Description
 This strategy applies usability and accessibility principles to academic library websites so that students can locate and use library resources with minimal friction. Core practices include a clear vision for the site, prominent search access, simplified navigation, a homepage that functions as a gateway, elimination of library jargon, conformance with accessibility standards, and iterative usability testing with real users.

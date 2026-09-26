@@ -17,6 +17,7 @@ sources:
 # Extending research on physical education teachers' educational philosophy beliefs
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The authors' forward-looking recommendations. Because results from studies on physical education and sports teachers are limited, they state that "educational beliefs of physical education and sports teachers can be analyzed on a wider sample group and in terms of different variables". They also propose examining teachers' philosophical beliefs quantitatively and qualitatively in a comparative manner, within the context of sports philosophy and educational philosophy.

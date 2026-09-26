@@ -17,6 +17,7 @@ sources:
 # Cognitive theories should be constrained by the biological hardware, not merely by abstract machine-independent specification
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper argues that cognitive psychology, unlike artificial intelligence, must account for constraints imposed by the biological hardware that give cognition its human quality. The authors write that theories in cognitive psychology "need to take-ointoaccountnotonlythe constraintsimposedbypeople'pbehavior, but-also the sort of'constraints w likely -to be imposed by the hiologicalo,hardware". They recommend that the goal of cognitive psychology be specification of the functional properties of the nervous system that make cognition possible.

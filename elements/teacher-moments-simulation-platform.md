@@ -17,6 +17,7 @@ sources:
 # Teacher Moments digital teaching simulation platform
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Teacher Moments is "a free openly licensed teaching simulation platform developed by the MIT Teaching Systems Lab" used to deliver the four fully digital equity teaching simulations in this study. Unlike computer-based simulations where participants select from a predetermined list of responses, participants are immersed in a teaching situation represented with text, images, and video, and encounter decision points where they respond with natural oral language or text, providing a more authentic experience than multiple-choice scenarios. Fully digital simulations are inexpensive to produce, flexibly deployable, and accessible remotely at the time and location of the learner's choice.

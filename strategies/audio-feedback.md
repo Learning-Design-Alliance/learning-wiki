@@ -12,6 +12,7 @@ generated:
 # Audio Feedback
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q4` · 2 of 2 report an effect size
 
 ## Description
 Audio feedback delivers formative comments on learner work as spoken recordings — typically 1–5 minutes of instructor voice attached to an assignment — instead of, or alongside, written margin notes. Because speech is faster to produce than text, instructors typically deliver substantially more commentary per assignment, and the paralinguistic channel (tone, hesitation, emphasis) carries additional evaluative and motivational information that flat text strips out.

@@ -17,6 +17,7 @@ sources:
 # Match the input-parameter estimation method (managerial estimates vs. time study) to the accuracy the simulation purpose requires
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The report advises choosing how to determine simulation input parameters according to the purpose of the run. For a manager seeking better understanding of minor changes, estimating values from his own experience may suffice; "When a high degree of accuracy is needed; e.g., if thesimulation is being used to develop budget estimates, a timestudy may be necessary." A descriptive model of the proposed configuration should be developed before the time study, which can then both estimate parameters and validate the model, including statistically testing assumptions such as whether interview length depends on the applicant's occupation.

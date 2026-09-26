@@ -16,6 +16,7 @@ sources:
 # Onto-Epistemic Heterogeneity
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Onto-epistemic heterogeneity (OEH) proposes that ontology (who learners are, their identities and lived histories) and epistemology (how learners come to know) are inseparable, and that liberatory instruction must treat learners' diverse identities, experiences, and cultural backgrounds as legitimate sources of disciplinary knowledge rather than a motivational bridge to be set aside once "real" academic content begins. It departs from equity approaches that simply widen access to a discipline treated as settled and value-neutral. The framework is operationalized through three sensibilities: **multiplicity** (knowledge is plural and situated, not singular or objective, and whose knowledge is valued reflects power dynamics), **horizontality** (learners draw on multiple activity systems — home, school, community — as equally legitimate resources for disciplinary learning, rather than ranking academic knowledge above everyday knowledge), and **dialogicality** (meaning is made discursively, through language that is never neutral but shaped by interaction among different social voices).

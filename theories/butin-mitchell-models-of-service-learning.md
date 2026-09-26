@@ -16,6 +16,7 @@ sources:
 # Competing conceptual models of service-learning: Butin's four perspectives and Mitchell's traditional/critical distinction
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper reviews two framings of CSL's conceptual diversity. Butin presents four models of community engagement—technical, cultural, political, and antifoundational—ranging from efficiency and sustainability concerns to the premise that truths are local, contingent, and intersubjective. Mitchell identifies traditional service-learning, emphasizing service without attention to systems of inequality, versus a critical approach aiming to dismantle structures of injustice.

@@ -12,6 +12,7 @@ generated:
 # Engage Positive Role Models
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size
 
 ## Description
 Engaging positive role models brings credible people — family members, community professionals, older peers, alumni — into learning activities as speakers, mentors, coaches, or collaborators. The strategy leverages observational learning: learners who see people like themselves succeeding at a task come to believe they can succeed too, and gain concrete images of what that success looks like.

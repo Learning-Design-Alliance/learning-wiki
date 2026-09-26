@@ -12,6 +12,7 @@ generated:
 # Application
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 6 claims (6 for) · 9 studies, `q3`–`q4` · 9 of 9 report an effect size · 3 claims rest on one study
 
 ## Description
 Application asks learners to use newly acquired knowledge and skills to perform meaningful tasks — solving problems, producing artifacts, or working through realistic scenarios — rather than merely recalling or recognizing content. It converts declarative knowledge into procedural competence by requiring learners to act on what they know under conditions that approximate real use.

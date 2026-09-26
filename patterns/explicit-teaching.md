@@ -13,6 +13,7 @@ grain_size: lesson
 # Explicit Teaching
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Explicit teaching is the short-form canonical pattern for clearly stating goals, demonstrating performance, and guiding practice.

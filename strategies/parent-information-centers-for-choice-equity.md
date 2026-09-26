@@ -17,6 +17,7 @@ sources:
 # Establish parent-staffed Parent Information Centers to equalize access to the choice process
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 To "level the playing field" so parents across racial, ethnic, and socioeconomic groups can make informed choices, the plan calls for Parent Information Centers. "These Centers, staffed by parents, are an outreach service provided by the school system for the community at large" and should serve as an advocate for all parents. The authors cite evidence that information about special programs is unevenly distributed across groups.

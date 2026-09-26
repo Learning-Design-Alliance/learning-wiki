@@ -17,6 +17,7 @@ sources:
 # Assess self-efficacy with ordered, domain-specific task hierarchies and brief exposure to sample tasks
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper describes adapting Bandura's phobia-hierarchy assessment for academic domains: tasks are selected and ordered in difficulty within a domain (e.g., fraction problems ordered by number of terms and whether a lowest common denominator is needed). Students view sample problems briefly, long enough to assess difficulty but too short to perform the operations, and make one judgment per task type.

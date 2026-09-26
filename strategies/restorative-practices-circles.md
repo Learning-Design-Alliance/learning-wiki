@@ -12,6 +12,7 @@ generated:
 # Restorative Practices Circles
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 1 of 7 report an effect size
 
 ## Description
 Restorative circles are structured, facilitated group dialogues in which participants sit in a circle, speak in turn (often with a talking piece), and respond to a sequence of prompts. Circles serve two main functions: *proactive* circles build community and shared norms before conflict arises, and *responsive* circles repair harm after an incident by focusing on what happened, who was affected, and what is needed to make things right — rather than on rule violation and punishment.

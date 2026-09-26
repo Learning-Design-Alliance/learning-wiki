@@ -17,6 +17,7 @@ sources:
 # Local office simulation model with nine statistical output reports
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The report's central artifact is a computer simulation of a local office day, stepping through applicant interviews, job-order handling and miscellaneous tasks hour by hour while gathering statistics on system behavior. After a run, nine reports can be requested: Input, Applicant, Receptionist Facility, Receptionist Queue, Employment Officer Facility, Interview Queue, Terminal Facility, Terminal Queue, and Job Order Queue reports. Each provides hourly and full-day statistics such as staff utilization, queue contents, and waiting-time means and standard deviations, enabling diagnosis of bottlenecks such as terminal waiting.

@@ -12,6 +12,7 @@ generated:
 # Introducing Yourself Via Video
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 The instructor records and shares a short personal video introduction at the start of a course — covering who they are, their connection to the subject, and something humanizing (interests, teaching philosophy, a story). The goal is to establish [social presence](../principles/social-presence.md) and instructor credibility before text-based interaction begins, so that subsequent discussion, feedback, and email exchanges are read as coming from a person rather than an anonymous system.

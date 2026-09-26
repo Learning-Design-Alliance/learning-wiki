@@ -16,6 +16,7 @@ sources:
 # Three multidimensional IRT models for testlet-based tests: bifactor, testlet, and second-order models
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The report describes three multidimensional IRT models that account for conditional dependence among items sharing a testlet stimulus by incorporating testlet-specific dimensions. In the bifactor model, "each item measures a general dimension in addition to a testlet-specific dimension." The testlet model constrains specific loadings to be proportional to general loadings within each testlet, and in the second-order model items load only on testlet-specific factors whose correlations are modeled through a second-order factor. The report shows the latter two are formally equivalent and can be formulated as restricted bifactor models, and estimates all three within a common full-information maximum likelihood framework.

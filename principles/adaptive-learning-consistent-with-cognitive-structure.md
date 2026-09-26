@@ -17,6 +17,7 @@ sources:
 # Adaptive Learning Consistent with Knowledge Level and Knowledge Structure
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The survey argues that because students' cognitive structures include both their knowledge level and the knowledge structure of learning items (e.g., prerequisites), "adaptive learning should maintain consistency with both students’ knowledge level and the latent knowledge structure." It cites CSEAL, which uses DKT to trace knowledge states, a knowledge-structure navigation algorithm for logical learning paths, and an actor-critic algorithm to decide what to learn next.

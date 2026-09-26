@@ -16,6 +16,7 @@ sources:
 # Cloud-based constructivism and connectivism learning model for promoting creation of educational innovations
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A learning model combining constructivism, connectivism, and cloud technology to support undergraduates in creating educational innovations. The article states that "Cloud-based constructivism and connectivism learning consist of three main elements: input factors, instruction process, and output factors." Input factors include 21st-century learning skills, the two theories, cloud technology, and course contents; the instruction process runs from analysis and planning through publication; output factors are media analysis, educational innovations, and application. Cloud technology serves both as an information source and as a production tool.

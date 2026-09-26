@@ -33,6 +33,7 @@ sources:
 # Learning Mechanic
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q4` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A **game mechanic** is what a game lets you do — "the various actions, behaviors and control mechanisms afforded to the player within a game context" (Hunicke, LeBlanc, & Zubek, 2004, p. 3), or more narrowly the *core* mechanic, "the essential play activity players perform again and again and again" (Salen & Zimmerman, 2003, p. 316). A **learning mechanic** is the same idea asked of the learning, and Plass and colleagues define it in deliberate parallel:

@@ -16,6 +16,7 @@ sources:
 # Wilson et al.'s five functions of the adult educator committed to experiential approaches
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper reports that Wilson et al (1989) "suggest five main functions for the adult educator committed to experiential approaches to education": understanding the personal and social history of the individual; arranging the learning environment to promote experiential learning; preparing learners to engage with contradictory circumstances; creating and posing problems to be resolved; and facilitating dialogue and reflection on the learning experience. This role contrasts with the pedagogue who transmits content, and the paper uses it to define what facilitator-style trainers must do.

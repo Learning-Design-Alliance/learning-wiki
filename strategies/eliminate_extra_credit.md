@@ -12,6 +12,7 @@ generated:
 # Eliminate Extra Credit
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3` · 2 of 2 report an effect size
 
 ## Description
 Eliminating extra credit means designing a grading scheme in which every point available to any student is available to all students, and every graded task maps directly to the required curriculum. Extra credit — optional, supplemental tasks offered to raise a grade — is removed because it typically rewards students who already have surplus time, transportation, money, and family support, and because it distorts the meaning of the grade as a measure of learning.

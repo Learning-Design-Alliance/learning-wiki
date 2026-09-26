@@ -12,6 +12,7 @@ generated:
 # Low Stakes Testing
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q3` · 2 of 3 report an effect size
 
 ## Description
 Low stakes testing is the practice of administering frequent, short assessments — quizzes, clicker questions, exit tickets, practice tests — that carry little or no consequence for grades. The act of retrieving information from memory strengthens retention more than restudying, a phenomenon known as the testing effect [Retrieval practice produces durable learning beyond restudying.](../claims/assessment-for-learning-improves-achievement.md) [+S]. Because consequences are low, the assessments function primarily as learning events and feedback opportunities rather than evaluation.

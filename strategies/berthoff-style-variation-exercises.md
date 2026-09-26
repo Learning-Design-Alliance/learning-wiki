@@ -17,6 +17,7 @@ sources:
 # Berthoff-style sentence and paragraph variation exercises to connect what students write with how they write it
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article describes classroom practices from Berthoff's Forming, Thinking, Writing that ask student writers to study, analyze, and construct multiple variations of sentences and paragraphs in order to recognize a good voice for prose and develop different voices of their own. Examples include scrutinizing sentences by Rachel Carson, identifying parts of speech, writing interpretive paraphrases, comparing paragraphs by different professional writers, and rearranging a jumbled collection of sentences into an original paragraph. The purpose is to show students the concrete relationship between what they write and how they write it.

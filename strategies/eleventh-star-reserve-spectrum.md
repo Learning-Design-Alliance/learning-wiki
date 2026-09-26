@@ -17,6 +17,7 @@ sources:
 # Keep an extra unassigned spectrum (a red giant) in reserve to challenge students who finish early or reach an incorrect answer
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Besides the ten spectra given to students, facilitators hold back an eleventh spectrum of a red giant. The article explains this star "can be used in a myriad of situations," most commonly when students finish early, to ask them to verify their explanation also works with this star, or as evidence against an incorrect theory. Facilitators are cautioned against using it with very confused students, as it may confuse them more.

@@ -17,6 +17,7 @@ sources:
 # Match worked-example type (full vs completion) to the learner's prior knowledge
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (1 for, 2 mixed, 1 unmarked) · 3 studies, `q3` · 3 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The authors recommend assigning worked-example type by prior knowledge: "by applying the type of worked examples to individual learners based on their prior knowledge, learners are more likely to exert t heir efforts in learning". They single out low-prior-knowledge learners with full examples and high-prior-knowledge learners with completion examples, in line with the expertise reversal effect hypothesis.

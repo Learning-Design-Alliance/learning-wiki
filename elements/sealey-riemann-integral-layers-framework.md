@@ -17,6 +17,7 @@ sources:
 # Sealey's layered reference frame for Riemann sum and definite integral understanding
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article synthesizes Sealey's (2014) framework characterizing students' understanding of Riemann sums and the definite integral. "Sealey presents a reference frame for understanding the structure of the Riemann integral that distinguishes four layers: Product, Summation, Limitand Function." The layers correspond to the operations in calculating the integral, with the Product layer multiplying a rate f(xi) by a difference Δx. From her experimental research Sealey added a preliminary Orienting layer for visualizing the situation and recognizing quantities.

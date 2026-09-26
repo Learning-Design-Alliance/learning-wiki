@@ -12,6 +12,7 @@ generated:
 # Student Game Design
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 against) · 10 studies, `q2`–`q4` · 6 of 10 report an effect size
 
 ## Description
 In this approach, learners build their own game around a specific course topic or principle. Learners identify learning objectives, design game mechanics, and create rules and content, fostering creativity and critical thinking while reinforcing content knowledge. The learning power comes from the design work itself: to make a game that teaches X, learners must understand X well enough to represent it in rules and feedback structures.

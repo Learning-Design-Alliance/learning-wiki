@@ -12,6 +12,7 @@ generated:
 # Objective
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 2 claims (2 for) · 6 studies, `q2`–`q3` · 3 of 6 report an effect size
 
 ## Description
 An objective states the intended learning outcome in observable, measurable terms — typically an action verb applied to a content object under specified conditions and criteria. Objectives function as the design contract of a lesson: they discipline the selection of activities, [Practice](practice.md), and [Assessment](assessment.md), and they communicate expectations to learners.

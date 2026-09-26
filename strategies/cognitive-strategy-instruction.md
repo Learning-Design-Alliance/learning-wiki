@@ -12,6 +12,7 @@ generated:
 # Cognitive Strategy Instruction
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (4 for, 1 mixed) · 9 studies, `q3`–`q4` · 9 of 9 report an effect size · 1 claim rests on one study
 
 ## Description
 Cognitive strategy instruction (CSI) makes the hidden mental procedures of skilled performers — summarizing, predicting, decomposing problems, monitoring comprehension — explicit and teachable. The instructor names the strategy, models its use ([Think-Aloud](../elements/think-aloud.md)), guides practice, and gradually transfers responsibility to learners until they deploy the strategy independently. The goal is not content mastery alone but durable, transferable procedures learners own.

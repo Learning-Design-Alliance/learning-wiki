@@ -12,6 +12,7 @@ generated:
 # Responsible Decision-Making Practice
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q2`–`q4` · 2 of 4 report an effect size
 
 ## Description
 Learners engage in problem-solving scenarios in pairs or small groups, connecting to their everyday lives (e.g., cheating, bullying, peer pressure), to make decisions, analyze situations, and consider possible consequences. They then share their decisions with the whole class and reflect on how they arrived at them. The strategy operationalizes the "responsible decision-making" competency from SEL frameworks by giving learners repeated, structured practice on authentic dilemmas rather than abstract instruction about ethics.

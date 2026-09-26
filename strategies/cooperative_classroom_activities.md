@@ -12,6 +12,7 @@ generated:
 # Cooperative Classroom Activities
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q2`–`q4` · 6 of 7 report an effect size
 
 ## Description
 Cooperative classroom activities structure learning tasks so that students work together toward shared goals, with success depending on the contributions of every group member. Unlike merely seating students together, genuine cooperation requires [positive interdependence](../elements/positive-interdependence.md) — a "sink or swim together" task structure — combined with individual accountability, so that each student's learning is both supported by and responsible to the group [Cooperative learning with group rewards and individual accountability reliably improves achievement.](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+S].

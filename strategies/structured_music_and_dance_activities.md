@@ -12,6 +12,7 @@ generated:
 # Structured Music and Dance Activities
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 11 studies, `q2`–`q4` · 9 of 11 report an effect size · 2 claims rest on one study
 
 ## Description
 Structured music and dance activities use rhythm, song, and sequenced movement as the medium for learning academic content (counting, phonological awareness, vocabulary, science concepts) while simultaneously developing motor coordination and social participation skills. "Structured" distinguishes these from free movement play: activities have explicit learning objectives, predictable routines, and teacher-guided sequences that connect the movement or music directly to the target content.

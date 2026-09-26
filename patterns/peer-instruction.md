@@ -19,6 +19,7 @@ grain_size: lesson
 # Peer Instruction
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 4 claims (1 for, 3 mixed) · 10 studies, `q3`–`q4` · 10 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Peer Instruction is a pattern in which learners first answer a conceptual question individually, then discuss their reasoning with peers, and then answer again before instructor debrief. The key mechanism is not the poll itself. It is the combination of commitment, peer explanation, reconsideration, and feedback that helps learners confront misconceptions and refine understanding.

@@ -25,6 +25,7 @@ sources:
 # Journaling
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size
 
 ## Description
 Journaling is the practice of having learners write regularly to externalize thinking, notice experience, and make learning more visible to themselves or to an instructor. Journals can be reflective, dialogic, disciplinary, metacognitive, or affective, but the common mechanism is structured written sense-making. By writing about what they understand, what they are struggling with, and how new learning connects to prior experience, learners can process meaning more deliberately and track change over time.

@@ -12,6 +12,7 @@ generated:
 # Wise Feedback
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3` · 0 of 2 report an effect size
 
 ## Description
 Wise feedback is critical feedback deliberately framed to convey two messages at once: "I'm giving you this feedback because I have high standards" and "I'm giving it because I know you can meet them." It pairs substantive, actionable critique with explicit statements of the giver's confidence in the learner's capacity to improve, so that criticism is interpreted as investment rather than as evidence of low ability or bias.

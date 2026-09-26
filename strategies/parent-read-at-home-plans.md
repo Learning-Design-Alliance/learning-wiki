@@ -17,6 +17,7 @@ sources:
 # Provide parent read-at-home plans and home reading strategies for struggling readers
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The toolkit recommends at-home reading strategies to help families support literacy development, including a "Read-at-Home" plan outlined in a parental contract, the individual reading plan, parent training workshops, and regular parent-guided home reading activities. These should be provided once a student is identified with a reading difficulty or is at risk of 3rd-grade retention.

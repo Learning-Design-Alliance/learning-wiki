@@ -17,6 +17,7 @@ sources:
 # Differentiate by guiding higher-ability students to build models that validate their analysis, and support self-directed and collaborative learning goals
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 For higher ability students, teachers may guide the modeling construction to validate students' analysis, discuss the assumptions made in the investigation, and provide suggestions for refinements. The article frames OSP activities against self-directed learning indicators (ownership, management and monitoring, extension of own learning) and collaborative learning indicators (effective group processes, individual and group accountability).

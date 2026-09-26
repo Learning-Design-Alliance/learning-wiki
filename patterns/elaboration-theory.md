@@ -14,6 +14,7 @@ grain_size: course
 # Elaboration Theory
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Elaboration Theory is the short-form canonical target for Reigeluth's elaboration pattern, which sequences from simple, inclusive ideas toward more complex detail.

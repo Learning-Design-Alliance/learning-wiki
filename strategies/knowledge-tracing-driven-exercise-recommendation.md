@@ -17,6 +17,7 @@ sources:
 # Knowledge-Tracing-Driven Exercise Recommendation
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The survey's first application area uses traced knowledge states to choose learning resources automatically. "Given the inferred knowledge states, one common strategy is selecting the next exercise that will best advance students’ knowledge acquisition." Examples include the BKT-sequence algorithm, which returns the exercise whose predicted score is closest to the expected score, a DKVMN extension recommending exercises in SPOCs, and a BKT video model for evaluating video resources.

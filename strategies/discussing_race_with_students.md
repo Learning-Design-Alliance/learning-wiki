@@ -12,6 +12,7 @@ generated:
 # Discussing Race With Students
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Discussing race with students means deliberately creating classroom conditions — norms, framing, and facilitation — for examining racial identity, racism, and inequality rather than avoiding the topic. It is carried out through structured protocols, ground rules, facilitator preparation for hot moments, and content that treats race as a real social force rather than a taboo or a "diversity celebration" sidestep.

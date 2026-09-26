@@ -16,6 +16,7 @@ sources:
 # The interactive model of reading: meaning is constructed only when higher and lower level processes interact
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review describes the interactive model, used by Schwantes as his theoretical framework, as an alternative to bottom-up and top-down models of reading. In this model, "Meaning is only constructed if both higher and lower level processes interact" — meaning is not constructed through higher-level processes if lower-level processes such as word recognition are not yet developed. The review uses it to explain why young readers lean on semantic and syntactic context during word-level analysis.

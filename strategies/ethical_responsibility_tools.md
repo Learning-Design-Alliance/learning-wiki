@@ -12,6 +12,7 @@ generated:
 # Ethical Responsibility Tools
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 6 studies, `q2`–`q4` · 4 of 6 report an effect size
 
 ## Description
 Ethical Responsibility Tools are concrete scaffolds — graphic organizers, if/then decision trees, option walls, stakeholder maps — that externalize the process of ethical analysis so learners can examine the moral dimensions of a decision rather than reacting intuitively. Learners define responsibility and ethical responsibility explicitly, apply the tools to real cases (often current events), and evaluate whether the decisions made were ethical and by whom. The tools convert an abstract disposition ("be responsible") into an observable, teachable procedure.

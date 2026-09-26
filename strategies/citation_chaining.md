@@ -12,6 +12,7 @@ generated:
 # Citation_Chaining
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q3` · 0 of 3 report an effect size
 
 ## Description
 Citation chaining is a search strategy in which learners use the citation network of a known relevant source to find related literature: **backward chaining** follows the reference list to earlier foundational work, and **forward chaining** uses tools like Google Scholar's "Cited by" to find later work that builds on it. The strategy treats sources as nodes in a scholarly conversation rather than isolated results, teaching learners to reconstruct how ideas developed and where disagreement lies.

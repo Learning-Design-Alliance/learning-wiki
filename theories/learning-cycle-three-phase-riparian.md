@@ -16,6 +16,7 @@ sources:
 # Learning cycle instructional model: exploration, concept introduction, concept application
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The guide grounds its activities in the learning cycle, a sequence science educators have identified as "an effective means for learning concepts and processes of science" that is "also... effective for developing reasoning abilities and for reducing scientific misconceptions." Three phases are emphasized: Exploration, where learners develop their own questions and frame of reference with minimal guidance; Concept Introduction, where riparian science concepts are introduced through activities applying new patterns of thinking; and Concept Application, where learners apply newfound knowledge to develop scientific thinking and decision-making skills.

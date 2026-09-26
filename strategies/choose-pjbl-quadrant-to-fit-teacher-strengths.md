@@ -16,6 +16,7 @@ sources:
 # Teachers choose the matrix quadrant that complements their strengths and institutional culture
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends that teachers use the course design matrix to implement project-based strategies suited to their own strengths and context rather than defaulting to Flexible-Cooperative designs. "The course design matrix invites teachers to implement project-based strategies in a way that is most complementary with their existing strengths and their institutional culture." A teacher reluctant to experience the chaos of a highly Flexible project may prefer a more Fixed approach, and a teacher successful with individual discovery need not adopt Cooperative methods. Teachers who found PjBL messy can adjust guidance or collaboration along the two spectrums until they find a delivery suited to content and strengths.

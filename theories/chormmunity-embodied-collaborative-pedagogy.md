@@ -16,6 +16,7 @@ sources:
 # Chormmunity: collaborative embodied text-making as liberatory pedagogy
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Chormmunity is a group pedagogy in which participants co-create a movement text or ritual as an embodied 'document' of meaning. The article defines it as "the collaborative, embodied text-making (or "dance," or "ritual") by a group", exploring interfacings of intention, metaphor, empowerment, the presentational and the propositional. It is offered as liberatory pedagogy that invites meaning schemes and perspectives to be wrought via community, creativity, and the body.

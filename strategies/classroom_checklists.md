@@ -12,6 +12,7 @@ generated:
 # Classroom Checklists
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
 
 ## Description
 Classroom checklists decompose a task, routine, or assignment into discrete, ordered steps that learners (or teachers) can track and mark off as completed. They externalize the plan for a task so that working memory is not consumed by remembering *what comes next*, freeing attention for *doing*. Visual design — icons, color coding, spacing — supports rapid scanning and recall.

@@ -16,6 +16,7 @@ sources:
 # Ellsworth's framework organizes educational change models around agent, innovation, adopter, process, environment, and resistance
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The digest presents Ellsworth's framework as a way of uniting the major perspectives, or models, of educational change into a 360 degree view of the change process. In it, a change agent communicates an innovation to an intended adopter via a change process that establishes a channel through the change environment, which also contains resistance that can disrupt the process or distort how the innovation appears. The digest uses it to organize the practitioner literature.

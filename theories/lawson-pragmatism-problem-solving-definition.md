@@ -16,6 +16,7 @@ sources:
 # Lawson's problem-solving definition of pragmatism as applied to Washington
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recounts Bill Lawson's account of pragmatism, which locates "solving basic life problems" as fundamental to the tradition and requires a pragmatist to understand the problem being solved and then think creatively. On this basis Lawson calls Washington a "true pragmatist": no "mere puppet," but a creative, flawed leader who fused theory and practice to address difficult educational and racial problems in the South. The article uses this definition to justify placing Washington in the pragmatist camp.

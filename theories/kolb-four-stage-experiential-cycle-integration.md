@@ -16,6 +16,7 @@ sources:
 # Kolb's four-stage experiential learning cycle as the structural spine of case-based curriculum
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article adopts Kolb's four-stage cycle as the organizing structure of its program-level model, mapping case-based activities onto each stage. As printed, "The four stages are; Concrete Experience (CE), Reflective Observation (RO), Abstract Conceptualisation (AC) and, Active experimentation (AE)". The authors treat the cycle as continuous and iterative, with concrete experience and abstract conceptualisation supporting grasping experience and reflective observation and active experimentation supporting transforming experience, operationalised through real-world problem cases.

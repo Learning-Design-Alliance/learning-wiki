@@ -17,6 +17,7 @@ sources:
 # Interdisciplinary Unit Built on a Student's Household Knowledge
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A teacher uses knowledge of a student's household experience to create "a series of interdisciplinary lessons centered around the theme" drawn from that experience. In the digest's example, a student's experience selling candy from Mexico became a week-long candy production unit spanning math, science, health, consumer education, cross-cultural practices, marketing, and food production, with a parent teaching the class to make Mexican candy.

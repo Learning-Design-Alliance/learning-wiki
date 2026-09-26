@@ -17,6 +17,7 @@ sources:
 # Pursue competence, not expertise, as the realistic goal for the vast majority of teacher education graduates
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article argues that teacher education should aim to prepare novices and help advanced beginners become competent, since competence 'can be achieved by the vast majority of graduates of our teacher training colleges'. Pursuing excellence or expertise for all teachers is called a will-o-the-wisp, and denying that differences in teaching ability exist is called perpetuating a fiction. Expertise is reached by few members of a field.

@@ -12,6 +12,7 @@ generated:
 # Digital Learning
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Digital learning is the element in which instruction, resources, or interaction are mediated through digital tools, platforms, or networks. It is useful when learners need flexible access, interactive media, or non-linear exploration.

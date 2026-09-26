@@ -12,6 +12,7 @@ generated:
 # Utilizing Mobile Communication Apps for Parent Engagement
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
 
 ## Description
 Mobile communication apps let educators send short texts, photos, videos, and alerts directly to parents' phones about classroom activities, assignments, and their child's progress. Because they use channels parents already check daily (SMS, push notifications), they replace paper notes, sporadic conferences, and phone tag with low-cost, high-frequency two-way contact. The strategy treats parents as partners in learning rather than passive recipients of report cards, consistent with Epstein's framework of family–school partnership types (communicating, learning at home).

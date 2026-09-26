@@ -12,6 +12,7 @@ generated:
 # Semantic Feature Analysis
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 2 of 5 report an effect size
 
 ## Description
 Semantic Feature Analysis (SFA) is a vocabulary and comprehension strategy in which learners complete a grid: related concepts (or words) form the rows, and features or properties form the columns. Learners mark each cell (+/−, or a continuum) to indicate whether the feature applies, then discuss and justify their markings. The grid makes the semantic relationships among a word set explicit and forces learners to attend to fine-grained distinctions between similar concepts.

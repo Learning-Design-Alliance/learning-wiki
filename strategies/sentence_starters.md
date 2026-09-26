@@ -12,6 +12,7 @@ generated:
 # Sentence Starters
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q2`–`q4` · 5 of 7 report an effect size
 
 ## Description
 When the instructor asks a question, rather than having students raise hands and selecting one volunteer, every student in the class writes a sentence in response. The written sentence — often framed by a provided stem such as "The solution works because…" — gives every learner active practice articulating reasoning in academic language, and can then be shared, discussed, or collected for formative assessment.

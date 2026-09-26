@@ -12,6 +12,7 @@ generated:
 # Read-Alouds
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 10 studies, `q1`–`q3` · 6 of 10 report an effect size
 
 ## Description
 Read-alouds involve an educator reading a text aloud to learners, often pausing to model effective reading and thinking strategies such as questioning, inferencing, and using context cues. Because the educator carries the decoding load, learners can attend to meaning, story structure, and vocabulary beyond their independent reading level. Interactive variants — sometimes called dialogic reading or interactive read-alouds — embed deliberate pauses for prediction, discussion, and strategy modeling, making the read-aloud a form of [Demonstration](../elements/demonstration.md) of expert reading behavior.

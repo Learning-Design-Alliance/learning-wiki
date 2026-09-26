@@ -12,6 +12,7 @@ generated:
 # Addressing Biases in the Use of Language and Symbols
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q4` · 2 of 2 report an effect size
 
 ## Description
 This strategy involves auditing and revising the language, examples, names, imagery, and symbolic cues used in learning materials, assessments, and classroom discourse to remove stereotypes, exclusionary defaults, and identity-based assumptions. It is carried out through deliberate choices: gender-neutral phrasing, diverse and non-stereotyped example personas, culturally varied problem contexts, and visual environments that signal multiple identities are welcome. The goal is to create a learning environment in which no learner's identity is implicitly marked as out of place.

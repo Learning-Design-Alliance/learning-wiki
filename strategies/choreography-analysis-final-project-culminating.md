@@ -17,6 +17,7 @@ sources:
 # Conclude with a choreography-and-analysis final project in place of a final exam
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 In lieu of a final exam, student groups create a simple choreography, record and analyze its components with the tools developed over the quarter, perform it, give a talk on their analysis, and perform the dance again. The authors call this "a culminating opportunity where students are acquainted with the parallel activities of analysis and repetition that characterize both the creative and the experimental process."

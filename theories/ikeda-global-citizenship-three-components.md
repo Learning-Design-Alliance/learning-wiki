@@ -16,6 +16,7 @@ sources:
 # Ikeda's philosophy of global citizenship rests on inner transformation, dialogue, and global citizenship, expressed as wisdom, courage, and compassion
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article presents Ikeda's philosophy of value-creating education for global citizenship as congruent with Urbain's findings of "three major components of Ikeda's philosophy of peace: 1) inner transformation, 2) dialogue, and 3) global citizenship". In a 1996 Columbia University address Ikeda specifies the wisdom to perceive the interconnectedness of all life, the courage to respect and understand people of different cultures, and the compassion of imaginative empathy reaching beyond one's immediate surroundings. Human revolution, the inner transformation leading to dialogue and global citizenship, is the mechanism.

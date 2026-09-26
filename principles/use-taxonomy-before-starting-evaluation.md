@@ -17,6 +17,7 @@ sources:
 # Use the taxonomy of value conflicts before starting an evaluation
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that evaluators apply the value-conflict taxonomy prospectively rather than only retrospectively. As the abstract puts it: "It is suggested to use the taxonomy before starting an evaluation." Working through the six value areas and the goal/means and qualitative/quantitative distinctions beforehand makes latent dilemmas, such as anonymity vs. administrative demands, visible before commitments are made.

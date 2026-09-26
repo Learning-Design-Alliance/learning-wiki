@@ -12,6 +12,7 @@ generated:
 # Multimodal Assignments
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 6 claims (6 for) · 11 studies, `q3`–`q4` · 11 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 Multimodal assignments involve a variety of assessment methods that challenge learners to create video or audio projects, write personal essays, produce visualizations, or complete quizzes. The pedagogical rationale is twofold: learners encode content through multiple representational channels, and they must actively transform material into a new form — a generative process that supports retention and transfer.

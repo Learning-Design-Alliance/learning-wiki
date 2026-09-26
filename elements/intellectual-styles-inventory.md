@@ -17,6 +17,7 @@ sources:
 # Sternberg's intellectual styles inventory under validation
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Sternberg describes an inventory under validation designed to measure intellectual styles, in which students rate statements on a 1-to-9 scale for how well each describes them. Legislative, executive, and judicial preferences are indexed by agreement with items about planning one's own way, following instructions, and evaluating others' work. The article states "The inventory consists of a series of statements, which students rate on a 1-to-9 scale, depending on the extent to which each statement is viewed as describing the rater."

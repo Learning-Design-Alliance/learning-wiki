@@ -16,6 +16,7 @@ sources:
 # Vygotsky's account of mediated activity: three classes of mediators and the Zone of Proximal Development
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 mixed) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Vygotsky's approach treats higher mental processes as functions of mediated activity; the article states "He suggested three major classes of mediators: material tools, 'psychological tools,' andother human beings." Material tools indirectly influence psychological processes, psychological tools (from casting lots and knot-tying to languages and cultural-symbolic systems) mediate humans' own psychological processes, and other individuals mediate meaning so that functions appear first between people and then inside the child. The most popular Vygotskian idea in educational application is the Zone of Proximal Development, defined operationally as the difference between assisted and unassisted performance, where wider ZPD predicts better chances of school success.

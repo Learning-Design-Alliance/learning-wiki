@@ -12,6 +12,7 @@ generated:
 # Personalized Pacing
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Personalized pacing is the element in which learners move through content or practice at different rates based on need and progress.

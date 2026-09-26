@@ -17,6 +17,7 @@ sources:
 # Commission independent government investigations of whether high-impact tests predict what they are supposed to
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Testimony at the hearing recommends that Congress direct the Department of Education to audit the predictive validity of standardized tests that have major impacts on students. Rosser states: "I would like the Congress to request that the Department of Education investigate tests that are having major impacts on students, to see if they predict what they are supposed to." She further insists the contracted researchers be independent of the test publishers, since only publishers currently know which questions females and minorities answer incorrectly and have not made that information easily available.

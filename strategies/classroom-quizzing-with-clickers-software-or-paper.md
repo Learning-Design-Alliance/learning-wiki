@@ -17,6 +17,7 @@ sources:
 # Classroom Quizzing with Clickers, Software, or Paper
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Frequent classroom quizzing implements retrieval practice within courses. "Clicker systems allow instructors to pose questions (typically in multiple-choice format), record responses from all students regardless of class size" and give immediate feedback; custom software can deliver daily or spaced personalized quizzes; and daily or weekly paper quizzes also work. The chapter says quizzing has firmly established benefits.

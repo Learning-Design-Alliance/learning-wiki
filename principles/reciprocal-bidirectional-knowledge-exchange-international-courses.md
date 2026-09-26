@@ -17,6 +17,7 @@ sources:
 # Prioritize reciprocal bidirectional knowledge exchange so both parties from different cultural backgrounds contribute and learn equally in international courses
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 For equitable international education, institutions should ensure that partners from different cultural backgrounds contribute and learn equally, extending bidirectional exchange to the institutional level. In the course, the Philippine colleague shaped the content focus while Dutch colleagues contributed CEL/CBL experience. As the article reports, "The incorporation of a COIL component en - abled students from the Netherlands and the Philippines to jointly learn from each other's unique perspectives on global planetary health challenges."

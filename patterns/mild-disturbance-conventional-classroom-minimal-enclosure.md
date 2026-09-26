@@ -17,6 +17,7 @@ sources:
 # Mild-disturbance classrooms approach conventional classrooms with minimal enclosed space
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 At the mildest level the booklet reduces special provisions: "In classrooms for mildly disturbed children there is less need for enclosed spaces such as quiet rooms and study carrels." Drawing 7 is fully open with no carrels or quiet room, a day bed and study area enclosed only by shelving and a screen, and greater stress on a conventional atmosphere through additional chalkboards and reduced toy storage. Drawing 9 integrates five emotionally unstable children with twenty emotionally stable children in an informally arranged usual classroom.

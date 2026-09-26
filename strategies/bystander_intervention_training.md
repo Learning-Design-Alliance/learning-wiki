@@ -12,6 +12,7 @@ generated:
 # Bystander Intervention Training
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Bystander intervention training teaches community members (students, employees, soldiers) to notice problematic situations — harassment, sexual assault risk, bias incidents, bullying — interpret them as requiring action, assume responsibility, and intervene safely. Programs typically combine awareness of the bystander effect with a repertoire of intervention options (direct, distract, delegate, delay) and rehearsal through scenario practice. The approach shifts prevention responsibility from potential victims and formal authorities to the whole community.

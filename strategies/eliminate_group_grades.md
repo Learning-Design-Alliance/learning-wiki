@@ -12,6 +12,7 @@ generated:
 # Eliminate Group Grades
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 6 studies, `q2`–`q3` · 4 of 6 report an effect size
 
 ## Description
 Eliminating group grades means that no learner receives a summative score based primarily on the collective output of a team. Instead, each learner is assessed on individually demonstrable learning — via individual components, in-class assessments, structured peer assessment, or documented individual contributions — while group work remains a *learning* activity rather than a *grading* unit. The strategy targets the well-documented pathologies of shared grades: free-riding, unequal effort, and grade disputes that poison collaboration.

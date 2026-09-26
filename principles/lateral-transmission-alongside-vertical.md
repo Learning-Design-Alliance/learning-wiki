@@ -17,6 +17,7 @@ sources:
 # Balance vertical transmission with lateral transmission so all members of society continually learn from new discoveries
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Drawing on Mead's 1958-1959 essays, the report describes a shift from purely vertical teaching, in which experienced teachers transmit the tried and true to inexperienced pupils, toward "the lateral transmission, to every sentient member of society, of what has been discovered, invented, created, manufactured, and marketed." Mead argued the traditional linear system must be modified and balanced by a more innovative, circular approach, exemplified by in-service training and adult continuing education.

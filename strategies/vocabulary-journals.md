@@ -12,6 +12,7 @@ generated:
 # Vocabulary Journals
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies, `q3`–`q4` · 6 of 8 report an effect size
 
 ## Description
 A vocabulary journal is a personal, cumulative record in which learners collect target words and, for each, record information such as a student-friendly definition, an example sentence, a personal connection or image, and notes on how the word was encountered. The journal functions as both an encoding activity at entry and a review artifact for spaced revisiting.

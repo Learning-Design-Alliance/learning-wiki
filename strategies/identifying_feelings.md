@@ -12,6 +12,7 @@ generated:
 # Identifying Feelings
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q3` · 3 of 5 report an effect size
 
 ## Description
 Learners identify, label, or match facial expressions, body cues, and situational contexts to feelings — their own and others'. Activities range from categorizing feeling words by intensity, to analyzing characters' emotions in literature, to "affect labeling" of one's own internal states. The strategy treats emotion vocabulary as a learnable skill rather than assumed prior knowledge.

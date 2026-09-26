@@ -16,6 +16,7 @@ sources:
 # Applications of Knowledge Tracing Beyond Student Learning
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Beyond resource recommendation and adaptive learning, the survey states "the KT methods can be expanded to be utilized in any systems that necessitate continuous evaluation of user capabilities or states." It names player modeling in educational games, predicting crowdsourcing annotators' performance (KT4Crowd), training citizen-science volunteers with BKT, automated exercise collection for teachers, exam paper generation, and general user modeling in games, sports and recruitment.

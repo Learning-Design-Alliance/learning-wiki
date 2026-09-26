@@ -12,6 +12,7 @@ generated:
 # Workshop-Based Writing Instruction
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 7 studies, `q2`–`q4` · 3 of 7 report an effect size · 2 claims rest on one study
 
 ## Description
 Workshop-based writing instruction organizes writing class around a recurring cycle: a brief explicit mini-lesson, extended independent writing time, conferencing and peer feedback, and whole-class sharing. Rooted in the process writing movement (Graves, Calkins, Atwell), it treats writing as recursive drafting and revision rather than a single-shot product, positioning learners as authors writing for real purposes.

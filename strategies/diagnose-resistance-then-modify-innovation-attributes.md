@@ -17,6 +17,7 @@ sources:
 # Diagnose resistance causes, then modify innovation attributes or their perceptions, using Rogers's influential attributes
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 When a change effort encounters resistance, the digest recommends using Zaltman and Duncan's Strategies for Planned Change to narrow down the causes, which may include perceived status erosion, lack of knowledge or skills, entrenched values, or lack of confidence in the system. One approach is to "modify or adapt the innovation's attributes" or change stakeholder perceptions, with Rogers's Diffusion of Innovations identifying the attributes that are generally most influential.

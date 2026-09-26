@@ -17,6 +17,7 @@ sources:
 # PLC facets that catalyze scholarship epistemology: trust, common goal, reflection opportunity, dialogue, and accountability for results
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 In contrast to traditional institutional epistemology where knowledge is transmitted from one person to another, the article describes scholarship epistemology as bringing together theory and practice and constructing new knowledge by working together. The facets of the PLC that catalyze this include "working in an environment of trust, having a common goal, creating an opportunity for reflection, becoming engaged in dialogue, and being accountable for results". This pattern names the structural conditions a PLC needs to foster deeper, metacognitive professional thinking.

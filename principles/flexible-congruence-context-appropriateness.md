@@ -17,6 +17,7 @@ sources:
 # Teach learners to be both congruent and incongruent and to know when each is appropriate
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Because congruence of messages is context-dependent, culturally effective functioning requires the ability to communicate both congruently and incongruently and to judge which is appropriate in a given situation. The article argues failure to learn this may contribute to maladjustment in children and adults. It states: "culturally effective functioning may not always involve being congruent, but rather having the ability to be both congruent and incongruent, in communicating with others."

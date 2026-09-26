@@ -16,6 +16,7 @@ sources:
 # Prescriptive model of hierarchical task-adapted knowledge organization for selective information retrieval
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article formulates a prescriptive model in which knowledge is subdivided into units where "a few information items in any unit are elaborated by further description through "subordinate" knowledge units", with pointers linking units vertically and laterally. Superordinate units hold information most important for the intended task domain, and each unit is elaborated into few (<5) subordinate units to fit human processing and short-term-memory limits. Used with a top-down retrieval procedure, the model is expected to facilitate recall, debugging, and modification tasks.

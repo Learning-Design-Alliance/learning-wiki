@@ -12,6 +12,7 @@ generated:
 # Common Language for Multimodal Composition
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 against) · 7 studies, `q2`–`q4` · 4 of 7 report an effect size
 
 ## Description
 Creating a shared vocabulary or metalanguage empowers learners to analyze and discuss their multimodal composition process. The strategy involves selecting one mode (linguistic, visual, audio, gestural, or spatial), analyzing authentic examples together, and co-constructing class definitions of key terms. Explicitly connecting each mode to its use across subjects and contexts helps learners understand its versatility and application.

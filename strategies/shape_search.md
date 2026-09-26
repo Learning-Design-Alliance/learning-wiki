@@ -12,6 +12,7 @@ generated:
 # Shape Search
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 6 of 7 report an effect size
 
 ## Description
 Shape Search is an activity-based strategy in which learners hunt for two- and three-dimensional shapes in their physical environment — classroom objects, buildings, playground equipment, packaging — and name, classify, or sketch what they find. It converts abstract geometric vocabulary into perceptually grounded referents by anchoring each term to multiple real instances. Challenge is typically scaled by moving from prototypical shapes (circles, squares, cubes) to harder or less familiar ones (hexagons, prisms, pyramids in non-standard orientations).

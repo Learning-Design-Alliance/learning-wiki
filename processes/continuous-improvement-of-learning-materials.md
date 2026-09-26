@@ -14,6 +14,7 @@ grain_size: course
 # Continuous Improvement of Learning Materials
 
 > **Design Process** · [All design processes](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q2`–`q4` · 4 of 7 report an effect size
 
 ## Description
 Most design processes end at release. Continuous improvement begins there: the shipped course is treated as the current best hypothesis, instrumented so that every subsequent cohort produces evidence about which of its parts are working, and revised in small, targeted increments rather than in periodic wholesale rewrites.

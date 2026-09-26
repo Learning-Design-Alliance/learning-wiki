@@ -12,6 +12,7 @@ generated:
 # Build Relationships with Each Student
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q3`–`q4` · 3 of 7 report an effect size
 
 ## Description
 Building relationships with each student means deliberately establishing trust, care, and mutual respect so that learners feel known, valued, and capable of success. In practice this involves showing interest in students' welfare, respecting their perspectives, communicating high expectations, knowing their academic and social needs, and recognizing their achievements. It is carried out through frequent low-stakes interactions — greetings, [Check-Ins](../elements/check-in.md), personalized feedback, and informal conversations — sustained over time.

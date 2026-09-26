@@ -17,6 +17,7 @@ sources:
 # Sequence for educators: establish trust, assess group motivation and leadership, then choose a matching style before performing functions
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Linking the generated hypotheses, the article proposes an approach educators might use with community groups: "First, an educator should establish a trusting relationship with the group." The educator then assesses the group's motivation to the task and capacity for citizen leadership, chooses an educational style appropriate to the leadership developing within the group, and performs functions consistent with that style, noting that encouraging may matter most and that enlisting support may stifle growth.

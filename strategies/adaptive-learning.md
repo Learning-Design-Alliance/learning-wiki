@@ -12,6 +12,7 @@ generated:
 # Adaptive Learning
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q4` · 2 of 2 report an effect size
 
 ## Description
 Adaptive learning adjusts instructional content, task difficulty, pacing, or feedback in response to ongoing evidence of each learner's performance, rather than delivering a fixed sequence to all learners. Adaptation may be rule-based (e.g., mastery thresholds) or algorithmic (e.g., Bayesian knowledge tracing, item-response-theory-driven selection), implemented by a system or by a teacher using formative data.

@@ -16,6 +16,7 @@ sources:
 # Pragmatic progressive philosophy as a framework for adult education
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article presents pragmatism as the philosophical basis of progressivism in adult education, a distinctively American philosophy dating to the 1870s that, per the article, "accepts both the relativism and pluralism of worldviews." It holds that facilitated learning connects history and reality with adults' current experiences, and that educators should flexibly draw on humanistic and radical approaches, since "There is not one philosophy that can be used to approach every situation."

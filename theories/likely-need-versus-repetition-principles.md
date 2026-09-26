@@ -16,6 +16,7 @@ sources:
 # Principle of likely need versus principle of repetition as competing accounts of lexical learning
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The chapter contrasts two learning principles underlying lexical organization. The principle of repetition holds that repeating a word increases its memory strength; the principle of likely need, from rational models of memory, holds that a word experienced in many distinct contexts is more broadly accessible because it is more likely to be needed in an unknown future context. The chapter states that "A word that has been experienced in many contexts during learning is more likely to be needed in an unknown future context, making it more broadly accessible in the lexicon." The two principles make different item-specific predictions about words repeated within versus across contexts.

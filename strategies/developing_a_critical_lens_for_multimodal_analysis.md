@@ -12,6 +12,7 @@ generated:
 # Developing a Critical Lens for Multimodal Analysis
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 13 studies, `q2`–`q4` · 6 of 13 report an effect size · 2 claims rest on one study
 
 ## Description
 Students develop a critical lens for multimodal analysis by examining how different modes — image, written text, layout, color, sound — carry meaning individually and in combination. Instruction typically begins with simple media (e.g., a picture book) and structured discussion of how images and words convey, complement, or contradict each other's meanings, then expands across genres and media. The goal is to build a repertoire of exemplar structures that students can draw on in their own multimodal composition.

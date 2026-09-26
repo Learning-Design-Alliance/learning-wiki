@@ -17,6 +17,7 @@ sources:
 # Parent-teacher collaboration on independent self-care tasks and patience training to promote EF
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The teachers' guidelines propose that parents and teachers jointly train children to perform daily tasks independently (e.g., following verbal instructions, choosing clothes) and to wait rather than have desires immediately fulfilled, including setting conditions and time limits for screen use. Teachers judged these approaches "suitable and feasible" but flagged feasibility limits: parents "often hesitate to let children do things alone, fearing slowness and wasting time" and have limited time due to work.

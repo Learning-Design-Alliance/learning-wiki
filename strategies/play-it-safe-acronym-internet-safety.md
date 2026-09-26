@@ -16,6 +16,7 @@ sources:
 # Use the PLAY IT SAFE acronym to teach internet safety rules to teens with ASD
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 PLAY IT SAFE is a nine-letter acronym, adapted from Cerebra.org, that packages concrete internet safety rules for teens with ASD: never share personal information, tell a trusted adult, beware attachments, report discomfort, question online information, take breaks, get permission before spending money, act politely, and keep friends online. The brief says "an acronym called PLAY IT SAFE can be helpful" for teaching these rules.

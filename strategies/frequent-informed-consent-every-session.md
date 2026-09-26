@@ -17,6 +17,7 @@ sources:
 # Give informed consent frequently at every peer counselling session to manage confidentiality dilemmas
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 To tackle confidentiality dilemmas, the author recommends that peer counsellors be proactive in self-securing "by frequently giving informed consent at every meeting of the sessions". Peer counsellors must also be aware of circumstances that are not subject to confidentiality obligation, and should not scrutinize information that would be detrimental to clients or other people. The strategy operationalizes the client's right to privileged communication, which the author notes is not absolute.

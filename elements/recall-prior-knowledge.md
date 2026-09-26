@@ -12,6 +12,7 @@ generated:
 # Recall prior knowledge
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Recall prior knowledge is an instructional element that prompts learners to retrieve and surface what they already know before encountering new material. By activating existing schemas, it gives new information points of attachment, making it easier to encode, organize, and later retrieve. It typically appears early in a learning sequence — as opening questions, brainstorming, concept mapping, or analogy — and functions as the "activation" phase in several canonical instructional models.

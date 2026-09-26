@@ -15,6 +15,7 @@ sources:
 # Six participant roles in feedback loops: translators, facilitators, users, informants, advisors, designers
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The report identifies recurring participant roles that contribute to knowledge transformation in feedback loops. Translators bridge understanding between communities; facilitators manage the loop through planning, organizing, and leading engagements; users actively engage with outputs; informants generate feedback without engaging the outputs; advisors share expertise without engaging outputs; and designers construct outputs from the transformed knowledge. An individual may play more than one role depending on the structure, and some participants, such as informants, may contribute without being part of the loop itself.

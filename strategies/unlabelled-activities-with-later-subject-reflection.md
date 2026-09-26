@@ -17,6 +17,7 @@ sources:
 # Unlabelled Activities with Later Subject Reflection
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A proposal from the GEMS founder for bringing hidden mathematics into informal STEM activities: "Laura proposes that leaders do not label activities at the beginning but later guide students to reflect on the subject knowledge." After fun activities, leaders would ask which categories, science or mathematics, were used that day. It is a participant's proposal reported in interview, not a tested practice.

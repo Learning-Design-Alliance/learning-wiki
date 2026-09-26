@@ -12,6 +12,7 @@ generated:
 # SEL Videos with Discussion
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q3`–`q4` · 3 of 7 report an effect size
 
 ## Description
 This strategy involves showing short video clips on Social and Emotional Learning (SEL) topics — emotion recognition, conflict resolution, empathy, self-regulation — followed by facilitated discussion or related activities. The video provides a shared, concrete referent; discussion connects the depicted situations to learners' background knowledge and personal lives, making SEL concepts relevant and actionable.

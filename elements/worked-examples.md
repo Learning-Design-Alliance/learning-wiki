@@ -12,6 +12,7 @@ generated:
 # Worked Examples
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Worked examples are the element in which learners study complete or partial solutions before attempting similar problems independently.

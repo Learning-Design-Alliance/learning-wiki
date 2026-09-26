@@ -12,6 +12,7 @@ generated:
 # Conversations about Emotions and Social Issues
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 8 studies, `q3`–`q4` · 3 of 8 report an effect size
 
 ## Description
 This strategy uses deliberately structured classroom conversation — whole-class discussion, small-group dialogue, and one-on-one check-ins — to help learners identify and label emotions, consider others' perspectives, and reason about social issues including fairness, identity, and justice. The teacher acts as facilitator and co-participant, establishing norms for respectful disagreement and modeling emotional vocabulary rather than avoiding difficult topics.

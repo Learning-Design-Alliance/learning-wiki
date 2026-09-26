@@ -12,6 +12,7 @@ generated:
 # Picture Dictionaries
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 against) · 6 studies, `q2`–`q4` · 2 of 6 report an effect size
 
 ## Description
 Picture dictionaries are reference tools that use illustrations to define words and concepts, making them accessible to language learners of all ages. Each entry pairs a word with a corresponding image, leveraging the dual-channel structure of memory to bind meaning to form. They range from comprehensive published volumes (e.g., the Oxford Picture Dictionary) to learner-built personal collections, in print or digital form.

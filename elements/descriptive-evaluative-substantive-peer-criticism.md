@@ -17,6 +17,7 @@ sources:
 # Descriptive, evaluative and substantive peer criticism progression
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper describes Bruffee's sequence of written peer criticism: descriptive (saying something about a text without judging it), evaluative (what is good and what could improve it), and substantive (a judgment about content). Combined with reading aloud, "students in the Bruffee classroom would learn to interact dialectically", moving from low-level to more sophisticated involvement.

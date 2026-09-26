@@ -17,6 +17,7 @@ sources:
 # Six-step classroom C/I process: ideas, questions, positive comments, negative comments, metric, new ideas — cycled to refine the solution
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article's process "begins with statement by the instructor of a problem or goal, and then involves requests for: (1) ideas, (2) questions, (3) positive critical comments on the ideas, (4) negative critical comments on the ideas, (5) construction of a metric to determine the solution based on these positive and negative comments, and (6) new ideas after practicing methods for idea generation." Students first submit unrestrained ideas individually and anonymously via digital ink; the facilitator organizes and displays them; the positive and negative comments then form the foundation for the metric guiding selection of the final group solution. "This procedure is cycled to reﬁne the solution" and may extend over multiple class sessions.

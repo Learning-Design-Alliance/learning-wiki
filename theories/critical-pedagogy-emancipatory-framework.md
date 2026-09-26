@@ -16,6 +16,7 @@ sources:
 # Critical pedagogy as an emancipatory framework contrasting with Freire's banking model of education
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article presents critical pedagogy, developed from Freire, Gramsci, Apple, Giroux, McLaren and Shor, as an alternative to traditional 'banking' pedagogy in which teachers are the sole authority and learners passive recipients. It "seeks to understand and critique the historical and sociopolitical context of schooling" and aims to change schooling and wider society. In ELT, both language learning and teaching are treated as political processes, with language as a social practice helping learners understand themselves and their surroundings. Kincheloe's stated assumptions include recognizing sources of power, the political nature of education, justice and equality, and the promotion of emancipation.

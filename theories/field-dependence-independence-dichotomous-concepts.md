@@ -16,6 +16,7 @@ sources:
 # Witkin's dichotomous concepts of field-dependent and field-independent cognitive styles
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review presents Witkin's dichotomous cognitive-style concepts, derived from the orientation tests and the embedded figures test. A "field-dependent cognitive style refers to a way of organizing and processing information in which the field is seen as a single unit", including reliance on external references, while field independence treats objects as separate units with reliance on internal references. Witkin asserted these tendencies stay constant over time and appear under various conditions, and the review reports replicated findings linking them to distinct nonverbal social behaviors.

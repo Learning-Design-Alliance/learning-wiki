@@ -12,6 +12,7 @@ generated:
 # Personalization
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 5 claims (2 for, 2 mixed, 1 unmarked) · 11 studies, `q3`–`q4` · 11 of 11 report an effect size · 3 claims rest on one study
 
 ## Description
 Personalization tailors instruction to individual learners — adjusting pacing, task difficulty, content sequencing, or the context of problems to match prior knowledge, skill level, or interests. It ranges from learner-directed choice (topics, pathways) to system-directed adaptation (intelligent tutoring, adaptive difficulty). The core recommendation: replace one-size-fits-all instruction with experiences calibrated to where each learner actually is.

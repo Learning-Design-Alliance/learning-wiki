@@ -17,6 +17,7 @@ sources:
 # Rate only poor tests in rule-based aiding: full quality ratings were counterproductive
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The rule-based model enabled a form of computer-aided training in which subjects received immediate feedback after each test about the quality of the rules the model inferred they were using. Evaluation within Experiment Six concluded that "rulebased aidingwascounterproductivebecausesubjectstendedto misinterpret the quality ratings theirtests received." The article therefore suggests that ratings indicating unnecessary or otherwise poor tests might be helpful, while full quality ratings should not be given.

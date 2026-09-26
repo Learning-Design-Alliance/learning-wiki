@@ -12,6 +12,7 @@ generated:
 # Phonological Awareness Development through Rhyming
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 6 studies, `q1`–`q4` · 3 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy uses rhyming as an entry point into phonological awareness — the ability to detect and manipulate the sound structure of spoken language. During interactive read-alouds, children identify, predict, and produce rhyming words, drawing attention to shared rime units (e.g., *cat/hat/mat*) before instruction moves to smaller phonemic units.

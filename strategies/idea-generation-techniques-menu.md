@@ -17,6 +17,7 @@ sources:
 # Menu of techniques for generating new ideas in subsequent C/I iterations
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 In later iterations of the C/I cycle, the article recommends a menu of techniques for breaking fixed thought patterns and generating novel connections: "Using a random word as a prompt to break a ﬁxed thought pattern/ heuristic/model and generate novel connections"; asking repeated "why" questions to reveal tacit assumptions; "Having students sort the group ideas into categories," which "reveals deep-seated thought patterns"; asking for analogies; sketching mind maps; showing related pictures or videos; and focusing on anomalies that do not match accepted heuristics or models.

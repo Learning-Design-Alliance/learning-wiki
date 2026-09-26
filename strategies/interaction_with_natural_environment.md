@@ -12,6 +12,7 @@ generated:
 # Interaction with Natural Environment
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q4` · 2 of 2 report an effect size
 
 ## Description
 Interaction with the natural environment means deliberately incorporating natural elements into learning contexts: unrestricted views of greenery from classroom windows, indoor plants, natural materials, and lessons conducted outdoors. The strategy draws on Attention Restoration Theory, which holds that exposure to nature engages involuntary attention and allows depleted directed-attention resources to recover [Kaplan, 1995](https://doi.org/10.1016/0272-4944(95)90001-2) [+M]. It is an environmental intervention rather than an instructional one: it does not teach content directly, but replenishes the attentional capacity learners need to engage with it.

@@ -12,6 +12,7 @@ generated:
 # Erroneous Examples
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies, `q3`–`q4` · 4 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 An erroneous example (also called an "incorrect example" or "faulty worked example") presents a complete but deliberately flawed solution, argument, or procedure. Learners must locate the error, explain why it is wrong, and often repair it. Rather than modeling correct performance, the flawed solution makes a common misconception or procedural slip visible and available for analysis.

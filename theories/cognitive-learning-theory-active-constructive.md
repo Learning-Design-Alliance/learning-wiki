@@ -16,6 +16,7 @@ sources:
 # Cognitive learning theory: learners are active, build on prior learning, and learning is a change in mental structures
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper presents cognitive learning theory, citing Eggen and Kauchak, as the view that "learners are active in their attempts to understand the world" and that learning is a change in mental structures rather than observable behavior. It also cites Schneider and Stern's account in which knowledge must be understood and stored in a well-organised manner in long-term memory to be used later in different situations. The article uses this framework to justify attending to students' cognitive styles in ELT classes.

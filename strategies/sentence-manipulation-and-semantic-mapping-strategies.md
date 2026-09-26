@@ -17,6 +17,7 @@ sources:
 # Use sentence manipulation, sentence combining, sentence expanding, semantic feature analysis, and semantic mapping
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The review reports Barnitz's (1997) concrete recommendations for applying theory to classroom practice. Barnitz "suggests sentence manipulation, sentence combining, and sentence expanding to help students construct and understand meaning from syntactic input", and lists "semantic feature analysis and semantic mapping" as strategies for new vocabulary. Teachers are advised to let metacognition and awareness of linguistic diversity guide their approach and provide tools directly but not in an isolated fashion.

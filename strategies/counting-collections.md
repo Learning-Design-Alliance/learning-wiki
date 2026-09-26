@@ -12,6 +12,7 @@ generated:
 # Counting Collections
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 against) · 8 studies, `q2`–`q4` · 6 of 8 report an effect size
 
 ## Description
 Counting Collections is a routine in which learners — typically in pairs — count a real collection of objects (buttons, cubes, beans) of a size chosen to stretch their current counting ability. Learners decide how to organize the count (ones, groups of 2, 5, or 10), record their count on paper, and then compare strategies in a whole-class discussion. The routine originated in early-number work by Kathy Richardson and was developed extensively within [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md) classrooms.

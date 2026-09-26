@@ -12,6 +12,7 @@ generated:
 # Good Behavior Game
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 unmarked) · 3 studies, `q2`–`q3` · 2 of 3 report an effect size
 
 ## Description
 The Good Behavior Game (GBG) is a group-contingency classroom management strategy: the class is divided into teams, rules for disruptive behavior are posted, and teams earn (or avoid losing) privileges by staying under a preset criterion of behavior marks during a defined activity period. Because consequences depend on the whole team's conduct, peer attention shifts toward on-task behavior rather than disruption. It is carried out by the teacher during ordinary instruction, typically in short sessions that are gradually lengthened.

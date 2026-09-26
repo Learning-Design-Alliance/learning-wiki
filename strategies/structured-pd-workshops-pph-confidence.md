@@ -17,6 +17,7 @@ sources:
 # Use structured professional development workshops featuring the PPH framework to build workforce confidence for pro-environmental change
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends structured professional development as a vehicle for building dietitians' capacity for food system change: "structured professional development, in this case a workshop featuring the PPH framework, increased confidence and enabled dietitians to support sustainable and healthy food systems". The half-day workshop combined climate-crisis introduction, professional commitments, the PPH model, scope and influence discussion, and individual and collective intention-setting, with pre–post measurement embedded in delivery.

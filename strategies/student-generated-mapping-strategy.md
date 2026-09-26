@@ -17,6 +17,7 @@ sources:
 # Student-generated mapping exercise
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Provide students with skeletal map templates and term lists and have them analyze and place concepts into the structure prior to assessment, individually or in small groups of 3-4. The article treats this as a generative learning strategy that activates and alters existing knowledge structures, and found it benefited even incidental learning of unmapped content.

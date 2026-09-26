@@ -25,6 +25,7 @@ sources:
 # Explaining Their Thinking
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 2 of 2 report an effect size
 
 ## Description
 Explaining their thinking, also known as self-explanation, is an instructional principle where learners generate explanations for themselves as they solve problems or study worked examples. This process requires learners to make their internal reasoning explicit, helping them to bridge gaps in understanding, integrate new information with prior knowledge, and monitor their own comprehension [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].

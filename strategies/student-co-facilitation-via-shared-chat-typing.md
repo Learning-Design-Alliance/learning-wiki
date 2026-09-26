@@ -17,6 +17,7 @@ sources:
 # Invite students to co-facilitate tasks by typing content into the shared whiteboard or chat
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A concrete move from the article: the teacher designed slides with blanks and asked students "to voluntarily help me type out the missing words, phrases or information as I explained verbally to the class". When online students could not hear her, she made a quick decision to have a student type her speech into Chat. These moves positioned students as co-facilitators and kept the online cohort included.

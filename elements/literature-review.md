@@ -12,6 +12,7 @@ generated:
 # Literature Review
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Literature review is the element in which learners gather, evaluate, and synthesize existing sources on a topic in order to understand the current state of knowledge or argument. It is useful when research requires situating a new question within prior work.

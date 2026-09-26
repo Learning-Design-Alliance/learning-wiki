@@ -17,6 +17,7 @@ sources:
 # Return observational field-notes to teachers and discuss critical episodes in team meetings as dialogical data generation
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 In the study, transcribed field-notes were returned to teachers, who were invited to look for evidence of constitutive values in practice; follow-up team discussions were tape-recorded and transcribed. The meetings served epistemological, methodological and ethical functions: assessing the credibility of the record, generating further reflections in a process of "dialogical data generation", and involving teachers as active participants in creating new knowledge about their practice.

@@ -12,6 +12,7 @@ generated:
 # Maker Spaces and Fab Labs
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size
 
 ## Description
 Maker spaces and fab labs are dedicated physical environments equipped with materials, tools, and technologies (3D printers, laser cutters, electronics, craft supplies) where learners design, build, and iterate on self- or teacher-defined projects. They enact constructionist principles: learning happens most durably when learners build artifacts that are personally meaningful and open to critique and iteration.

@@ -17,6 +17,7 @@ sources:
 # Media corner / flexible multimedia learning space
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A prepared open classroom space equipped with multimedia tools and learning aids such as guidebooks, activity sheets, and orientation leaflets that fosters diverse production activities. The article describes a classroom media corner with a multimedia computer, video camera, and editing system where pupils work on production projects.

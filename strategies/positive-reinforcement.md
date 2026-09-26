@@ -12,6 +12,7 @@ generated:
 # Positive Reinforcement
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 against) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
 
 ## Description
 Positive reinforcement is the contingent delivery of a valued stimulus — praise, points, privileges, tokens, or feedback — immediately following a target behavior, with the intent of increasing that behavior's frequency. It is the core operant mechanism from [Behaviorism](../theories/behaviorism.md): behavior is shaped by its consequences rather than by insight or internal states. In learning design it appears as immediate correctness feedback, streak mechanics, badge systems, and teacher praise.

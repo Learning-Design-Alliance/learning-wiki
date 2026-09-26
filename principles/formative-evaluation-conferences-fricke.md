@@ -17,6 +17,7 @@ sources:
 # Use formative evaluation through student-teacher conferences to support learning
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends conferences and feedback through which the student is informed of progress, and by which the student develops a framework for evaluating his own progress — what it calls 'formative' evaluation. It argues this makes a more significant contribution to the student's education than a final grade and is indispensable to the learning process. Contract grading is presented as a structure that makes such formative evaluation central.

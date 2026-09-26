@@ -16,6 +16,7 @@ sources:
 # Four partial meanings of the definite integral articulated as a global meaning
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article proposes that instruction should distinguish four partial meanings of the definite integral: as a quantity of magnitude bounded between convergent sequences, as the limit of Riemann sums, as a cumulative function, and as the incremental difference of the cumulative function. "From the point of view of the processes of mathematical instruction at High School and University levels, we consider useful to distinguish four types of meanings, the integral as:" Each partial meaning contributes relevant aspects of the global meaning, understood as an articulated network of partial meanings.

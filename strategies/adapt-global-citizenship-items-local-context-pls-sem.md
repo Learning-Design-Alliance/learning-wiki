@@ -17,6 +17,7 @@ sources:
 # Adapt global citizenship scale items to the local context and validate component models separately with PLS-SEM
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends that institutions in developing countries measuring student global citizenship perspectives should pilot and adapt existing validated scales rather than keep original items wholesale, and validate each component's measurement model separately. The author states 'some adjustments should be made in term of social responsibility and global competence' and that future studies should involve more participants in various contexts and consider higher-order constructs.

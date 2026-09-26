@@ -17,6 +17,7 @@ sources:
 # Cognitive-flexibility-informed early literacy instruction combines multiple knowledge linkages, multiple application cases, participatory learning, and scaffolding
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article enumerates the design characteristics of an early literacy approach informed by cognitive flexibility theory: it "includes emphasis on multiple alternative systems of linkage among knowledge elements (e.g. sounds, words, patterns, ideas, etc.); multiple cases of application; participatory learning; and adequate scaffolding for managing the complexity". This pattern organizes literacy lessons around varied connections among sounds, words, patterns, and ideas rather than a single skill-and-drill pathway.

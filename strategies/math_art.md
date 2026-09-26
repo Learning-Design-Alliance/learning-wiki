@@ -12,6 +12,7 @@ generated:
 # Math Art
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 3 of 4 report an effect size
 
 ## Description
 Math Art involves creating drawings and designs that explore mathematical concepts and patterns. Learners use stencils, compasses, symmetry folding, tessellations, or freehand construction to produce visual work while identifying the mathematical relationships embedded in it — symmetry, ratio, number patterns, geometric properties. The strategy pairs visual production with verbal articulation: the art is the occasion for mathematical reasoning, not a substitute for it.

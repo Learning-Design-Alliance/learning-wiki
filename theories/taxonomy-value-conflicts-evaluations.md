@@ -16,6 +16,7 @@ sources:
 # Taxonomy of potential value conflicts in evaluations
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article presents a taxonomy of the value conflicts that arise in evaluation processes. Its basis is stated as follows: "Basis is the distinction of types of conflict (aims vs. means conflicts; qualitative vs. quantitative conflicts)." The taxonomy organizes conflicts across six areas of values and is intended as an analytical tool to be applied to concrete evaluation processes before they start.

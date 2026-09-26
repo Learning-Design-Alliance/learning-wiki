@@ -12,6 +12,7 @@ generated:
 # Learner And Context Analysis
 
 > **Design Method** · [All design methods](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies, `q3` · 2 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 Learner and context analysis is the front-end inquiry phase of instructional design in which designers gather evidence about who the learners are (prior knowledge, skills, motivations, demographics, accessibility needs) and the settings in which learning and performance will occur (orient, instructional, transfer contexts). It converts assumptions about the audience into design requirements, typically producing learner profiles, context inventories, and implications that drive objectives, sequencing, and media choices.

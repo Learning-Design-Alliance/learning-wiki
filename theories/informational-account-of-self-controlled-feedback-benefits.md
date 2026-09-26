@@ -16,6 +16,7 @@ sources:
 # Informational (error-estimation) account of self-controlled feedback benefits
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 6 claims (4 for, 2 mixed) · 1 study, `q3` · 1 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The article contrasts two explanations for why self-controlled knowledge of results (KR) aids motor learning. The motivational explanation says self-control "satisfies the basic psychological needs of autonomy and competence"; the information processing perspective says benefits are driven by "performance-dependent KR strategies". The authors conclude that error estimation, available when the KR decision follows the movement, is the more critical mechanism.

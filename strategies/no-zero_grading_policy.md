@@ -12,6 +12,7 @@ generated:
 # No-Zero Grading Policy
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q3` · 2 of 5 report an effect size
 
 ## Description
 A no-zero grading policy sets the floor of any grade scale at 50 percent (or equivalent), so that a missing or failed assignment cannot produce a score below half credit. The rationale is mathematical and motivational: on a 100-point scale where 50–59 is failing, a zero is not proportionate to other intervals — it makes recovery from a single missing task statistically improbable and can push struggling students to disengage entirely.

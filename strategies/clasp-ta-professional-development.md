@@ -17,6 +17,7 @@ sources:
 # Multi-component TA professional development program for teaching interactive-engagement discussion/labs
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Because graduate TAs lead over 90% of CLASP DL sections, the program runs a significant professional development sequence for new TAs: a mandatory 3-day introduction in which TAs experience CLASP activities as students, then prepare and teach DL with reflections after each turn; a mandatory weekly 1-hour training course during the first teaching term covering the theory and practice of teaching an interactive engagement class, including visiting senior TAs' DLs, practicing grading, and monitoring a peer's class; and twice-weekly one-hour TA meetings on nuts-and-bolts and general teaching issues. Non-mandatory post-Fall professional development classes focus on improving each TA's teaching skills and the CLASP activities.

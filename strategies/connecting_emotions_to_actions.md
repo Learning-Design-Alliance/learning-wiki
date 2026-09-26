@@ -12,6 +12,7 @@ generated:
 # Connecting Emotions to Actions
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 9 studies, `q3`–`q4` · 5 of 9 report an effect size
 
 ## Description
 Learners identify an emotion they have experienced, trace how it influenced their behavior, and consider alternative responses. Structured reflection (individual writing or drawing) is followed by discussion with peers or a facilitator, converting private emotional experience into explicit, discussable cause-and-effect reasoning. The strategy is a core social-emotional learning (SEL) practice: it builds the bridge between emotion awareness and self-regulation by making the emotion→action link an object of deliberate thought rather than an automatic reaction.

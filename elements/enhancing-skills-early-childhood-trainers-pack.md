@@ -17,6 +17,7 @@ sources:
 # Enhancing the Skills of Early Childhood Trainers training pack
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A training pack produced by the Bernard van Leer Foundation, co-published with UNESCO, which "brings together an established content area in early childhood development theory with experiential participat, .y training methods". It was developed over several years, is aimed at trainers of trainers, and can be used as part of a course or for self-learning. This Working Paper is extracted from the pack.

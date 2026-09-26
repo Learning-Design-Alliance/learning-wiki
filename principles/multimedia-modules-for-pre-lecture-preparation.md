@@ -17,6 +17,7 @@ sources:
 # Use multimedia learning modules as pre-lecture preparation for introductory physics instead of textbook reading assignments
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends assigning web-based multimedia learning modules, designed according to multimedia learning principles, as the pre-lecture exposure that lecture-based active learning requires. The authors conclude that "multimedia learning modules represent a viable, and more easily enforceable alternative means of pre-lecture preparation for introductory physics students". Modules can embed assessments and carry course credit, making completion monitorable in a way textbook reading is not, and their study showed large learning and retention advantages over textbook presentations.

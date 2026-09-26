@@ -16,6 +16,7 @@ sources:
 # Five-goal framework for K-12 social sciences education directed toward civic competence
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The California framework organizes all K-12 social sciences programs around five goals: disciplinary understanding, skills, diversity, values, and social participation. It states that programs 'will be directed toward the achievement of civic competence' and that the central purpose is to 'develop responsible citizens who will preserve and continue to advance progress toward a just society.' Each goal is elaborated in a dedicated section with discussion and illustrative objectives.

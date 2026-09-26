@@ -16,6 +16,7 @@ sources:
 # An anatomy of autonomy in early literacy learning distinguishing autonomy of outcome from autonomy in the learning process
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper proposes a taxonomy of autonomy in early literacy with two main axes. Autonomy of outcome comprises orthographic autonomy, described as "control over the process of lifting the words from the page and setting them down", and autonomy of meaning-making, ranging from literal comprehension to the critical. Autonomy in the learning process comprises autonomy of participation, cognitive autonomy, autonomy of interpretation, autonomy of composition and autonomy of judgement. The network uses this anatomy to analyse contrasting classroom practices across four countries.

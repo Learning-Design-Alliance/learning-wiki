@@ -12,6 +12,7 @@ generated:
 # Cooperative Learning
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 11 studies, `q2`–`q4` · 5 of 11 report an effect size
 
 ## Description
 Cooperative learning organizes instruction so that small groups of learners pursue shared goals under two defining conditions: **positive interdependence** (one member's success depends on all members' learning) and **individual accountability** (each member's learning is separately assessed). Structured interaction — discussion, explanation, mutual checking — converts group activity into learning rather than mere task completion.

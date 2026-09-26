@@ -16,6 +16,7 @@ sources:
 # Piaget's genetic epistemology studies how the human mind moves from less sufficient to higher knowledge
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The book presents Piaget's genetic epistemology as the developmental backbone of constructivism: rather than justifying knowledge by timeless logic, it investigates how children build knowledge. Von Glasersfeld quotes Piaget's own formulation: "genetic epistemology deals with both the formation and the meaning of knowledge. We can formulate our problem in the following terms: by what means does the human mind go from a state of less sufficient knowledge to a state of higner knowledge?" The meaning or value of knowledge lies in its function, and adequacy is judged by logicians or domain specialists.

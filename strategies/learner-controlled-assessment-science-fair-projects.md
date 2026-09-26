@@ -17,6 +17,7 @@ sources:
 # Give learners control over how learning is measured via assessment choices and science-fair-type projects
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends offering learners multiple assessment choices — multiple choice exams, essay exams, research papers, portfolios — and 'science-fair' types of projects in which the learner selects the topic of inquiry, decides the learning strategy, and creates a way to demonstrate the results. This addresses the author's point that uniform measures such as essay exams advantage good writers and 'negates the true measure of a learner's knowledge or skills.'

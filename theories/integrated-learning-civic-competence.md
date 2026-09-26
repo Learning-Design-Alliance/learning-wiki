@@ -16,6 +16,7 @@ sources:
 # Integrated Learning (IL): a philosophy linking subject contents to real-world issues to promote civic competence transversally
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Integrated Learning is proposed as a way of educating students and promoting civic competence at informal and non-formal levels. The article states that "IL is aimed is to teach and learn different types of knowledge by establishing links between them, making attitudes more ﬂexible, and applying knowledge to the real world". It is not a method but "a philosophy, an attitude or state of mind" toward complex reality. Unlike explicit civic instruction, IL connects subject contents to real-world issues, fostering critical thinking, dialogue, teamwork, and community participation, and requires reflective habits and metacognition from students.

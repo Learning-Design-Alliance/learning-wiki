@@ -12,6 +12,7 @@ generated:
 # Logs and Journals to Guide Reflection
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 4 studies, `q3`–`q4` · 4 of 4 report an effect size
 
 ## Description
 Students keep an ongoing log or journal of their learning, then periodically reread it to compare what they knew at the beginning of a learning sequence with what they know now. They select significant learnings, envision how these could apply to future situations, and commit to an action plan for consciously modifying their behaviors. The journal functions both as a record of experience and as a prompt for structured self-examination.

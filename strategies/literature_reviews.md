@@ -12,6 +12,7 @@ generated:
 # Literature Reviews
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (5 for) · 13 studies, `q2`–`q4` · 6 of 13 report an effect size
 
 ## Description
 A literature review asks learners to locate, appraise, and synthesize multiple published sources on a question, producing an organized account of the state of knowledge rather than a summary of individual texts. The core cognitive work is *integration*: identifying agreements, disagreements, and gaps across sources and organizing the review around ideas or controversies rather than source-by-source. It is carried out through structured search, critical reading with [Annotating](../principles/annotating.md), and synthesis writing organized by theme or argument.

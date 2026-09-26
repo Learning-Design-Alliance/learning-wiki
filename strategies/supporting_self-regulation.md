@@ -12,6 +12,7 @@ generated:
 # Supporting Self-Regulation
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 7 claims (6 for, 1 against) · 17 studies, `q3`–`q4` · 17 of 17 report an effect size
 
 ## Description
 Supporting self-regulation means helping students plan, monitor, and control their emotional, behavioral, and cognitive responses during learning. The strategy focuses on leveraging student strengths rather than remediating deficits: teachers scaffold self-management in emotionally safe contexts, embed reflection routines such as journaling, and teach concrete regulatory techniques (goal-setting, self-monitoring, mindfulness) so that regulation becomes a learnable skill rather than an assumed prerequisite.

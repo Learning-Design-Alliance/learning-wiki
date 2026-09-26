@@ -17,6 +17,7 @@ sources:
 # CID interdisciplinary design studio in a university library
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The Creativity, Innovation, and Design (CID) studio was a space created in a university library in 2014 to support interdisciplinary project-based learning, built quickly from surplus furniture, removed book rows, and temporary walls with nearby group study rooms for teams. Over four semesters it hosted courses spanning business, education, engineering, fine arts, and other disciplines (196 participants tabulated), including multi-semester projects such as Fundación Paraguaya, DUST, and social innovation design. The studio "was to serve as a prototype for the kind of interdisciplinary collaboration that could exist if space and opportunity were provided."

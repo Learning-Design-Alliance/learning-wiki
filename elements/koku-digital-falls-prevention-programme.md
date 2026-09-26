@@ -17,6 +17,7 @@ sources:
 # Keep-On-Keep-Up (KOKU) digital falls prevention programme
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 KOKU is an NHS-approved, tablet-delivered digital programme offering "a progressive strength and balance programme with animated characters (eCoaches) providing instructions, guidance, safety information, automated reminders and in-app progress tracking", alongside health literacy games on nutrition, hydration and falls awareness. It was co-developed with older adults and falls prevention experts using behaviour change techniques and MRC complex-intervention guidance. In the trial it was used 20–30 minutes, three times a week for 12 weeks at home.

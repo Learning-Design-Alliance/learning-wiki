@@ -16,6 +16,7 @@ sources:
 # A conceptual model deriving transfer from all-or-none learned common and falsely-common task elements and the product-moment correlation
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 3 claims (2 for, 1 against) · 1 study, `q3` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The model treats tasks as sets of mutually independent hypothetical elements whose extension corresponds to average mastery time. Transfer T is derived as proportional to the number of commonly identified elements minus falsely identified ones, and the product-moment correlation between tasks is derived under an all-or-none learning assumption, yielding T proportional to the unsquared correlation. The article argues this "does not require detailed task analyses, let alone a S-R decomposition" and makes psychometric research available to learning theory and instruction.

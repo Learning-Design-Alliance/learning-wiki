@@ -17,6 +17,7 @@ sources:
 # Student-Written Texts
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Learner-authored texts used as supplementary reading resources in literacy instruction. The article assigns them three functions: activating prior knowledge, directing learners' focus to key information, and aiding recall by linking known and new information. They formed the central design element of the documented classroom practice, in which students wrote, exchanged, questioned, and revised texts.

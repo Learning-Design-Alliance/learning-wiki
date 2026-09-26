@@ -25,6 +25,7 @@ sources:
 # Advance Organizers
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 2 claims (2 for) · 2 studies, `q3` · 2 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 An advance organizer is introductory material — a concept map, outline, analogy, or brief prose passage — presented *before* instruction to provide an anchoring framework into which new content can be assimilated. Introduced by Ausubel (1968), the organizer works by making relevant existing knowledge active and by pre-structuring the relationships among ideas the learner is about to encounter — for example, "Listen to this story and think of the three things the duckling did" primes a listener to organize what follows around a specific retrieval structure before hearing it.

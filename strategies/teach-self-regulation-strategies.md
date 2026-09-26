@@ -12,6 +12,7 @@ generated:
 # Teach Self Regulation Strategies
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 against) · 10 studies, `q2`–`q4` · 8 of 10 report an effect size
 
 ## Description
 Teaching self-regulation strategies means explicitly instructing learners in the processes they need to direct their own learning: setting goals, planning approaches, monitoring comprehension and progress, and adjusting strategies or effort based on feedback. Rather than assuming learners will acquire these skills incidentally, the instructor models, teaches, and provides practice in the strategies themselves — planning, self-monitoring, self-evaluation, and help-seeking — alongside the content. This is the instructional counterpart to the broader [Self-Regulated Learning](../theories/self-regulated-learning.md) framework.

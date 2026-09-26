@@ -12,6 +12,7 @@ generated:
 # Intervene in Abusive Language
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 mixed) · 2 studies, `q4` · 2 of 2 report an effect size
 
 ## Description
 When abusive, biased, or degrading language occurs in a learning environment, the teacher addresses it promptly and constructively — naming the harm, setting the expectation, and where appropriate turning the incident into a teachable moment about impact and norms. The strategy treats each incident as both a boundary-setting event and a curriculum opportunity, rather than something to ignore, defer, or handle solely through punishment.

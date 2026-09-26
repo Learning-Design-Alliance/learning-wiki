@@ -12,6 +12,7 @@ generated:
 # Calming Combinations
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3` · 2 of 2 report an effect size
 
 ## Description
 Calming combinations pair two or more sensory-regulation strategies — for example, a tactile bin with white-noise headphones, a weighted blanket with visual sensory bottles, chewing gum during a fine-motor task, or rhythmic rocking paired with slow breathing — so that multiple calming channels operate simultaneously. The rationale is that regulation demands vary by learner and moment, and a single strategy rarely matches the profile of sensory input a learner needs to down-regulate. Learners (or their teachers and caregivers) identify effective pairings through structured trial and observation rather than a fixed protocol.

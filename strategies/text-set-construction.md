@@ -12,6 +12,7 @@ generated:
 # Text Set Construction
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (4 for, 1 against) · 12 studies, `q2`–`q4` · 6 of 12 report an effect size
 
 ## Description
 Text set construction is the deliberate curation of multiple texts — articles, primary sources, images, videos, data displays — around a single concept or question, sequenced so that each text builds on what earlier ones established. Sets typically mix difficulty levels, genres, and perspectives, moving from accessible introductions toward more complex or contested material. The strategy treats reading as cumulative knowledge building rather than a series of isolated comprehension events.

@@ -17,6 +17,7 @@ sources:
 # Audacity-based Fourier analysis activity for teaching signal processing in an authentic context
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A classroom activity in which students used Audacity, an open-source audio editing program, to generate tone and noise spectra, combine them, and perform a Fourier transform. Students saw that "a visual inspection of the time-domain data does not allow them to separate the signal from the noise," yet the Fourier transform revealed a strong spike at the 100 Hz input tone. Students then examined a simulated LIGO noise spectrum and the frequency-domain representation of a binary-inspiral gravitational wave, and listened to audio representations of both.

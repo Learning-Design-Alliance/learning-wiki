@@ -17,6 +17,7 @@ sources:
 # Augment computer simulation learning with physical-world equipment rather than replacing it
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article argues for a balanced view in which real physical-world setups are foregrounded in situations where their strengths matter, complemented by virtual simulation. Real collision-carts equipment offers tacit 3D experience, random errors in measurement (illustrated by Tracker video analysis showing statistical fluctuations in momentum), and the conceptual significance of applying conservation of momentum to velocities just before and just after collision. As the author puts it, "Tacit 3D experience to learn through physical world collision carts setup, provides very valuable experience to students especially for performance in the real world".

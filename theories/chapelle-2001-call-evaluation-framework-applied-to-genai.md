@@ -16,6 +16,7 @@ sources:
 # Chapelle's (2001) six-criterion evaluation framework for CALL task appropriateness
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 6 claims (6 for) · 1 study, `q1` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 Chapelle's (2001) framework delineates six criteria for assessing the task appropriateness of CALL tools: "Language Learning Potential, Learner Fit, Meaning Focus, Authenticity, Positive Impact, and Practicality". It is grounded in SLA theoretical tenets, particularly Instructed SLA, whose ideal conditions hypothesized for technology-mediated L2 learning guide evaluators' observations of learning processes and outcomes. The framework permits evaluation at a judgmental level (whether the software allows enough interactional opportunities) and an empirical level (gathering data on learners' interaction opportunities), and accommodates specified pedagogical goals such as intercultural competence. This article applies it to a novel GenAI tool, Khanmigo, for French learning.

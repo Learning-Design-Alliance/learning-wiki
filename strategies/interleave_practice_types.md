@@ -12,6 +12,7 @@ generated:
 # Interleave Practice Types
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 against) · 5 studies, `q3`–`q4` · 2 of 5 report an effect size
 
 ## Description
 Interleaving arranges practice so that different problem categories, skills, or task types are mixed within a session (ABCBCA) instead of blocked (AAABBBCCC). Learners must first identify *which kind* of problem they face before selecting a solution strategy, rather than applying the same procedure repeatedly. It is typically combined with [Spaced Practice](../principles/spaced-practice.md), since interleaved schedules naturally distribute exposure over time.

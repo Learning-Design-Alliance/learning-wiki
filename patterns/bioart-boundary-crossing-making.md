@@ -19,6 +19,7 @@ sources:
 # Bioart Boundary-Crossing Making
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 unmarked) · 1 study, `q1` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Learners make art using or about living organisms (specimens, plants, biological processes), moving progressively through increasingly specialized institutional spaces — school grounds, a natural-history museum, a research laboratory — each introducing new tools, experts, and conventions. The project deliberately crosses institutional (school/museum/lab), interpersonal (student/researcher/artist), and intrapersonal (teacher-as-manager *and* teacher-as-learner) boundaries at once, brokered by a facilitator experienced in art-science collaboration. Low-threshold, student-buildable technology (a smartphone-based macro-photography rig) lets every learner participate regardless of prior expertise, while leaving room for learners who want more complexity (professional lab equipment) to pursue it.

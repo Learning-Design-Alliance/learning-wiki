@@ -16,6 +16,7 @@ sources:
 # Context Metaphor Relationship (CMR) model for easing youths' transitions into residential treatment
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The CMR model is the article's solution to procedural admissions: it organizes admissions around three emphases. As the abstract states, "In CMR, an emphasis on social contexts, transitional metaphors, and relationships were used to ease youths' transitions into residential treatment." The model integrates constructivist therapies and youth care work into a contextually relevant rite of passage, incorporating admission standards into short-term emergency and long-term expected admissions, and pursues a shift toward gradual, empathic concern for individuals.

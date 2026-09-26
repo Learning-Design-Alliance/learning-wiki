@@ -12,6 +12,7 @@ generated:
 # Phoneme Awareness Training
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 8 studies, `q1`–`q4` · 7 of 8 report an effect size
 
 ## Description
 Phoneme awareness training is explicit, systematic instruction in identifying, segmenting, blending, and manipulating the individual speech sounds (phonemes) in spoken words. Typical activities include oral segmentation ("say the sounds in *ship*"), phoneme counting with manipulatives such as chips or blocks to represent each sound, and phoneme manipulation tasks (substituting, deleting, or adding sounds). Because English spelling maps phonemes to graphemes, this oral-language skill is a prerequisite for understanding how the alphabetic principle works in both reading and spelling.

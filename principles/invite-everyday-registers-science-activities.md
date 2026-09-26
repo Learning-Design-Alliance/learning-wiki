@@ -17,6 +17,7 @@ sources:
 # Invite students' everyday registers into science activities to encourage productive sense-making and mechanistic reasoning
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article argues that classrooms recognizing and valuing students' everyday language foster productive engagement: "Classrooms that invite familiar registers and practices into science activities, encourage students to engage in productive sense-making, reasoning mechanistically [4], and argumentation." Physics is seen as particularly suited because of its appeal to shared, observable experiences. Teachers should avoid quickly correcting students toward academic terminology before they are ready.

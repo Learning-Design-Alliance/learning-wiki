@@ -12,6 +12,7 @@ generated:
 # Mistake-Friendly Classroom
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (5 for) · 10 studies, `q3`–`q4` · 9 of 10 report an effect size
 
 ## Description
 A mistake-friendly classroom deliberately normalizes error as information: learners are expected to make mistakes, errors are surfaced and analyzed publicly rather than hidden, and the social climate rewards intellectual risk-taking over error avoidance. The strategy combines teacher framing (how errors are responded to), task design (activities where errors are likely and useful), and routines (error analysis, revision, and discussion) so that mistakes become objects of study rather than sources of shame.

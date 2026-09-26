@@ -12,6 +12,7 @@ generated:
 # Formative Assessment Routines
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q3` · 2 of 3 report an effect size
 
 ## Description
 Formative assessment routines are scheduled, repeatable practices — entry tickets, quick polls, whiteboard responses, [check-ins](../elements/check-in.md), exit tickets — that elicit evidence of student thinking during instruction. The teacher (or system) interprets that evidence and adapts instruction in the moment or the next session, closing the loop between what was taught and what was learned.

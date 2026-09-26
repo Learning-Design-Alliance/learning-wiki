@@ -17,6 +17,7 @@ sources:
 # Administer the Inquiry with classroom test procedures and interpret by item-by-item comparison with expert votes
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Administration follows common classroom testing procedures, but the instrument yields no total score, median, or percentile rank. Interpretation instead asks how the respondent's vote on each statement compares with the votes of the ten linguists, and Part II responses — three items chosen for discussion with reasons — help a teacher or group leader plan discussion of the items.

@@ -12,6 +12,7 @@ generated:
 # Prompted Source Evaluation
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 10 studies, `q2`–`q4` · 6 of 10 report an effect size
 
 ## Description
 Prompted Source Evaluation pairs strategy instruction with written prompts that walk students through evaluating sources along defined dimensions: relevance and accuracy (quality of content), reliability and perspective (the author's agenda and affiliations), and corroboration (cross-checking claims across multiple sources). Prompts ask students to look for evidence that both supports and refutes key claims, weigh new ideas against prior beliefs, and justify their judgments in writing. The prompts function as temporary scaffolds that make expert evaluation routines explicit until students internalize them.

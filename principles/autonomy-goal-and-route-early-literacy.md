@@ -17,6 +17,7 @@ sources:
 # Treat autonomy as both the goal and the route of early literacy pedagogy
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper argues that if learning to read and write are seen as complex cognitive and meaning-making activities, classroom work must engage children's active mental participation rather than place them "on the receiving end of instructions". Children need richly significant contexts, a wide range of literacy experiences, and above all experience in putting literacy to their own use. The paper concludes that this "adds up to a pedagogy in which autonomy is not just the goal, but also in large part the route to that goal".

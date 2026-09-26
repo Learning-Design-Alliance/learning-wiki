@@ -16,6 +16,7 @@ sources:
 # Four-phase teaching process for developing mathematical communication skills
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A lesson-level teaching process the article uses to develop mathematical communication skills while teaching congruent triangles. It moves students through four phases: "Phase 1: Personal work" on an unfamiliar task, "Phase 2: Group work" where groups discuss and record answers on posters, "Phase 3: Debate" in which the teacher selects a poster (usually with wrong answers) to develop reasoning, and "Phase 4: Institutionalization process" where the teacher comments and explains based on group results. Mind maps are incorporated to review learned knowledge.

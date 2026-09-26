@@ -17,6 +17,7 @@ sources:
 # Library of Congress DBPH talking-book audio service network
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A national free reading service for blind and physically handicapped readers, authorized by Public Law 89-522, in which "Books and magazines are selected and put into recorded formats by the Division for the Blind and Physically Handicapped, for distribution through a network of state and locally-supported libraries." The network includes regional and subregional libraries and machine-lending agencies, postage-free mail service, and volunteer organizations that repair equipment and train readers. The study evaluated converting its media from rigid discs to cassettes and flexible discs.

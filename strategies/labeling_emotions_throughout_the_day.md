@@ -12,6 +12,7 @@ generated:
 # Labeling Emotions Throughout The Day
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies, `q3`–`q4` · 6 of 7 report an effect size
 
 ## Description
 Emotion labeling (affect labeling) is the practice of putting feelings into words — "I'm frustrated because the instructions were unclear" — at natural moments throughout the day rather than only during scheduled social-emotional lessons. The strategy has two strands: learners labeling their own internal states, and teachers/peers naming emotions they observe in others ("You seem disappointed about the score"). Carried out repeatedly across contexts, it converts diffuse arousal into identifiable, manageable states.

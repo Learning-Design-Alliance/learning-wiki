@@ -12,6 +12,7 @@ generated:
 # Instructor Feedback
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (1 for, 2 against) · 8 studies, `q2`–`q4` · 3 of 8 report an effect size
 
 ## Description
 Instructor feedback is information provided by a teacher, tutor, or system acting in an instructional role about a learner's performance, intended to reduce the gap between what the learner did and what the task required. It ranges from simple correctness confirmation to detailed explanations of errors, hints toward better strategies, and guidance on self-regulation. Its effectiveness depends less on how much is given than on whether the learner can act on it.

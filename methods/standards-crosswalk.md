@@ -12,6 +12,7 @@ generated:
 # Standards Crosswalk
 
 > **Design Method** · [All design methods](index.md)
+> **Evidence** · 2 claims (1 mixed, 1 against) · 3 studies, `q3`–`q4` · 1 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Many designs do not get to choose their goals. A state standards set, a professional competency framework, an accreditation outcome list or a certification blueprint arrives already written, and the design's job is to satisfy it and to be able to show that it does. A **crosswalk** is the artifact that makes that possible: a table mapping each statement in the external framework onto the course's own goals, and each course goal back onto the statements it serves.

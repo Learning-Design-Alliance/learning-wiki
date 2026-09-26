@@ -17,6 +17,7 @@ sources:
 # Collaborative approaches are participatory and characterized by active teacher and learner roles, community building, created rather than transferred knowledge, and knowledge located in the community
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The handbook defines collaborative approaches to adult learning as participatory in nature, premised on the belief that learning is social, and characterized by six features attributed to Whipple (1987). These include that "Collaboration involves both the learner and the teacheras active participants in the educational process", that collaboration bridges the teacher-student gap, creates a sense of community, means knowledge is created not transferred, makes teaching and research boundaries less distinct, and locates knowledge in the community rather than the individual, yielding knowledge greater than the sum of individual participants' knowledge.

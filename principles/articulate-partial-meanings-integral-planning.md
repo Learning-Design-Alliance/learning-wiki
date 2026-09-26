@@ -17,6 +17,7 @@ sources:
 # Plan integral instruction around the articulation of partial meanings, since the intuitive meaning alone is insufficient
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that curricular planning treat the definite integral's partial meanings macroscopically and articulate them progressively. "The curricular planning of the integral study should consider this macroscopic perspective on the various partial meanings and their articulation as a strategy to promote the students' understanding and competence." The intuitive first meaning "alone is not enough for robust understanding of integrals", and teachers must be aware of the ontological and semiotic complexity of each meaning, even informal ones.

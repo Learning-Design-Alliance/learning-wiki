@@ -12,6 +12,7 @@ generated:
 # Dialogic Reading
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 3 claims (3 for) · 9 studies, `q3`–`q4` · 9 of 9 report an effect size
 
 ## Description
 Dialogic reading is a shared-reading technique in which the adult shifts from reading *to* the child to reading *with* the child, using structured prompts (completion, recall, open-ended, wh-, and distancing questions), expansions of the child's utterances, and corrective feedback. The child progressively takes on more of the storytelling role, making the reading session a scaffolded conversation about the text rather than a passive read-aloud.

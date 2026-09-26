@@ -17,6 +17,7 @@ sources:
 # Solicit open-format curiosity questions after interactive simulations and use responses as a springboard for instruction
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Students explore free interactive simulations before or during class, then submit open-format responses via real-time formative assessment to prompts such as "What are you curious about after running the simulation?" The article states "The student responses provide a rich springboard from which to int roduce content and/or address misconceptions." Documenting questions facilitates motivation to understand and metacognition, and students can keep manipulating the simulation while constructing responses.

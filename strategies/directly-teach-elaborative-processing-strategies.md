@@ -17,6 +17,7 @@ sources:
 # Directly teach students when, why, and how to elaborate on new information
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The report recommends teaching students when, why, and how to elaborate on new information, since trained elaboration produced better delayed recall than merely asking questions that stimulate elaboration production, and the strategy transferred to new passages. The report concludes that important teacher activities include teaching "information for which learners have someprior related knowledge, and(2) teach students urhen, why, and how toelaborate on new information".

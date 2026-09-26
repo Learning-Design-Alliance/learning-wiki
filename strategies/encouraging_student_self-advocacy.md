@@ -12,6 +12,7 @@ generated:
 # Encouraging Student Self-Advocacy
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 6 claims (5 for, 1 mixed) · 13 studies, `q3`–`q4` · 13 of 13 report an effect size
 
 ## Description
 Self-advocacy instruction teaches learners to understand their own learning needs, communicate them effectively, and proactively request and use supports. It is carried out through structured reflection on academic standing, explicit instruction in communication scripts and rights (e.g., accommodations, help-seeking norms), and a classroom culture in which student voice is treated as legitimate and consequential. In special education research it is treated as a core component of self-determination, alongside goal setting and decision making.

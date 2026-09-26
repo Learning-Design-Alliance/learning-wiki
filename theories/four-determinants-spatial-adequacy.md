@@ -16,6 +16,7 @@ sources:
 # Four basic determinants of spatial adequacy in educational specifications
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper organizes educational specifications around four determinants of spatial adequacy: gross activities and sub-group organization, number of students in the space, services required, and location within the school and site. The author writes: "For a manageable discussion of educational specifications, this paper stresses four determinants of spatial adequacy." These determinants are offered as the basic organizing concerns for locally prepared educational specifications given to architects.

@@ -12,6 +12,7 @@ generated:
 # Preferential Seating
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
 
 ## Description
 Preferential seating is the deliberate placement of a learner in a classroom location that maximizes access to instruction — typically near the teacher, the board, and the audio source, and away from high-traffic zones, windows, doors, and noise sources. It is a low-cost environmental accommodation commonly written into IEPs and 504 plans for students with hearing loss, visual impairment, or attentional challenges.

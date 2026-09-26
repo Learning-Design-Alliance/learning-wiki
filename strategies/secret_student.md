@@ -12,6 +12,7 @@ generated:
 # Secret Student
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 against) · 6 studies, `q2`–`q4` · 5 of 6 report an effect size
 
 ## Description
 Secret Student is a group-contingency classroom management strategy: each day one student's name is secretly drawn, and the whole class knows that if the anonymous "Secret Student" meets behavior expectations (listening, participating, staying on task), the class earns a reward and the student is revealed and celebrated. Because any student could be the Secret Student, every student has an incentive to behave well throughout the day. It is an application of an *independent/interdependent group contingency* with an unknown target, drawn from [Behaviorism](../principles/behaviorism.md).

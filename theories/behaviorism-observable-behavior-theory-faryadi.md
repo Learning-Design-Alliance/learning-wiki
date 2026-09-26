@@ -16,6 +16,7 @@ sources:
 # Behaviorism as a learning theory: learning is the acquisition of new observable behavior, not a mental process
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The review presents behaviorism, associated with B.F. Skinner, as a theory in which learning is defined by observable behavior change rather than mental activity. It states that "learning occurs with the acquisition of new behavior" and that behaviorists "rely only on observable behavior in order to learn," treating environmental conditions and incentives as the drivers of learning.

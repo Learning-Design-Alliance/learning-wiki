@@ -12,6 +12,7 @@ generated:
 # Audio Commentary
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q4` · 2 of 2 report an effect size
 
 ## Description
 Audio commentary involves instructors (or peers) recording spoken feedback on learner work — via voice memos, embedded audio in documents, or screen-recorded walkthroughs — and sharing the recording for the learner to review. Because speech conveys tone, emphasis, and prosody, audio can communicate care and priority in ways flat text cannot, and speakers typically cover more substantive ground per unit of production time than typists.

@@ -12,6 +12,7 @@ generated:
 # Providing Graphic Organizers or Guided Notes
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size · 2 claims rest on one study
 
 ## Description
 During lectures, the instructor supplies a partially completed visual structure — a graphic organizer (matrix, hierarchy, concept map) or guided notes (skeleton outline with blanks, headings, and cues) — that students complete during the session. The materials externalize the lecture's structure, signaling which points matter and how they relate, so learners spend limited working memory on comprehension rather than on deciding what to record.

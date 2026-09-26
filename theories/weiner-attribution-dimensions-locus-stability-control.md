@@ -16,6 +16,7 @@ sources:
 # Weiner's dimensional organization of attributions: locus of control, stability, and later controllability
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Weiner expanded Heider's model by organizing the four attribution factors into two dimensions: locus of control (internal vs. external) and stability (fixed vs. variable), labeling ability internal/stable, effort internal/unstable, task difficulty external/unstable, and luck external/unstable. He later added a third dimension, control, and renamed locus of control as locus of causality. The review notes the recent model also includes "emotional reactions and future performance expectations" that may influence future behavior.

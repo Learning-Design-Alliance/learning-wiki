@@ -17,6 +17,7 @@ sources:
 # Highly structured, sequenced progression of research stages guiding online trainee researchers
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The TPI working procedures evolved from an initial version covering only research project stages to a final version adding work patterns for tutor and student, action and implementation, and relation to virtual tutoring environments. The stages "can be understood as gradual phases that will help to build the research project", following the Ewing model of "a highly structured and sequenced curriculum" that guides students through "a series of progressive research stages", facilitating dialogue, collaborative learning, and assessment based on research skills performance.

@@ -12,6 +12,7 @@ generated:
 # Emotion Cue Cards
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
 
 ## Description
 Emotion cue cards are portable visual or auditory prompts designed to remind students of strategies for managing emotions, such as using a fidget, taking deep breaths, or requesting a mindfulness break. Students carry them on a keyring, post them at a workstation, or access them digitally, selecting strategies that work best for them. Consistent use aims to move self-regulation responses from deliberate effort toward automatic, habitual execution.

@@ -12,6 +12,7 @@ generated:
 # Student Portfolio Creation
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size · 1 claim rests on one study
 
 ## Description
 Student portfolio creation involves students selecting and organizing work samples to demonstrate their progress, reflect on their learning, and set goals. Portfolios can include written assignments, projects, artwork, and written reflections, in physical or digital form. The act of curating — choosing what to include and justifying the choice — is the mechanism through which portfolios build ownership and self-assessment skill, not the mere accumulation of artifacts.

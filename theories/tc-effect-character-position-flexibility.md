@@ -16,6 +16,7 @@ sources:
 # The transposed-character effect as an index of flexibility in processing character position information in logographic scripts
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 3 claims (3 for) · 1 study, `q3` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article frames the transposed-character (TC) effect as a behavioral index of how strictly readers encode the position of characters within two-character logographic words: "The TC effect shows the flexibility of character position processing in Chinese Hanzi and Japanese Kanji." The effect is operationalized by comparing TC pseudowords (e.g., 界世-世界) with substituted-character control nonwords that hold the same correct characters in the same correct positions; a difference between the two conditions indicates that position information is not strictly processed. The study uses this framework to compare Chinese and Japanese speakers with identical homograph stimuli, concluding that Chinese speakers process Hanzi/Kanji position information more flexibly.

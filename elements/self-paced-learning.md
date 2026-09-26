@@ -12,6 +12,7 @@ generated:
 # Self-Paced Learning
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Self-paced learning is the element in which learners control the rate or sequence of progress through material within a designed structure. It is useful when learners need flexibility in timing, review, or progression.

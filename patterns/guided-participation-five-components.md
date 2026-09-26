@@ -17,6 +17,7 @@ sources:
 # Guided participation: five components of adult-child learning activity
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Drawing on Rogoff (1990), the paper describes guided participation as "a process during which the adult and child determine and carry out the learning activity" in real world activities. It enumerates five components: selecting the activity in which guidance takes place; deciding the goals of the activity; establishing bridges between what the child knows and what the adult wants to induct the child into; ensuring that the child attains independent functioning; and communicating in a number of dimensions. The pattern characterises how adults structure joint activity so children are inducted into culture by more competent members.

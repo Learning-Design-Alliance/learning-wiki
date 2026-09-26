@@ -12,6 +12,7 @@ generated:
 # Challenge Identification
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Challenge identification is the element in which learners or instructors surface the central obstacle, tension, or problem to be addressed.

@@ -17,6 +17,7 @@ sources:
 # Replace outline-and-practice-exam review courses with structured deliberate practice sessions including expert feedback
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends that licensing review courses abandon their homogeneous format of lecture outlines plus at-home sample exams and instead use "targeted exercises such as expert feedback, focused practice sessions, and continuous performance assessments." Its quasi-experiment found the deliberate practice group "exhibited higher exam pass rates" and greater satisfaction, supporting integration of deliberate practice into professional training programs.

@@ -12,6 +12,7 @@ generated:
 # Cramming
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 against) · 2 studies, `q3`–`q4` · 1 of 2 report an effect size
 
 ## Description
 Cramming concentrates all study of a topic into one or a few sessions immediately preceding an exam, rather than distributing it over time (spacing) or interleaving topics. It typically involves rereading notes and highlighting — high-fluency, low-retrieval activities — under time pressure and sleep deprivation. It can produce adequate performance on an imminent test while leaving knowledge fragile and rapidly decaying.

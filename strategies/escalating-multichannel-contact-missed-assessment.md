@@ -17,6 +17,7 @@ sources:
 # Escalating multi-channel contact immediately upon missed assessment, starting with SMS
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The department contacted students by SMS immediately upon missing any continuous assessment component, rather than waiting until the end of the first semester as previously. Contact methods escalated in severity: personal face-to-face conversations, SMS, email via Moodle, and finally personal letters copied to the Adviser of Studies. SMS "served to get students back on track quickly" during the early transition period, and email became the primary method by mid-semester.

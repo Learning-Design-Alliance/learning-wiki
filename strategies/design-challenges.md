@@ -12,6 +12,7 @@ generated:
 # Design Challenges
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 against) · 8 studies, `q2`–`q4` · 2 of 8 report an effect size
 
 ## Description
 A design challenge asks learners to produce a working artifact — a device, system, model, or solution — that must satisfy explicit criteria and constraints. Learning is driven by the iterative cycle of building, testing against requirements, and revising, with instruction positioned as a resource learners draw on when their designs fail.

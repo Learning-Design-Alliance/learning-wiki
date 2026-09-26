@@ -17,6 +17,7 @@ sources:
 # Knowledge map assessment of content understanding
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A knowledge mapping task in which participants build a map of the game's content, scored to measure the content-understanding component of problem solving. Participants were asked to "complete a content understanding knowledge map" after each game session, and scores were compared with expert maps. The authors report "The utility of a knowledge mapping system to assess content understanding was also indicated."

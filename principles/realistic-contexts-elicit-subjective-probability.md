@@ -17,6 +17,7 @@ sources:
 # Use realistic, culturally meaningful contexts alongside randomising devices to elicit the full range of probabilistic reasoning
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Because traditional randomising-device tasks cannot provide an adequate foundation for subjective probability, probability education for teachers should employ authentic situations (e.g. giving birth) in addition to devices like dice. The article argues that 'employing a realistic context can cultivate analysing PSMTs’ probabilistic reasoning', since realistic contexts revealed subjective reasoning in nearly 60% of participants while the die task did not.

@@ -17,6 +17,7 @@ sources:
 # Treat talking and writing as means to learning through dialogue-based, student-centered instruction
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article presents the Bullock Report's basic tenet, adopted by Cummins for minority students, that "talking and writing are a means to learning" (p.50). It argues for an instructional model based on dialogue between student and teacher using speech and writing as instruments for learning, encouraging a collaborative learning environment, constructing a student-centered environment guided and facilitated by the teacher, and emphasizing higher level cognitive skills rather than correction of surface forms.

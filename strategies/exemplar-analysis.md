@@ -12,6 +12,7 @@ generated:
 # Exemplar Analysis
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 8 studies, `q3`–`q4` · 4 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 Exemplar analysis presents learners with one or more complete instances of high-quality performance — a solved problem, a model essay, a finished design — and structures their examination of it. Rather than passively viewing the exemplar, learners are prompted to identify its features, explain why it works, and compare it against other cases or non-examples. The strategy converts an expert product into an object of study, making implicit quality criteria explicit.

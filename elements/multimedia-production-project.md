@@ -17,6 +17,7 @@ sources:
 # Multimedia production project
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A learning activity in which pupils design and produce a multimedia product, such as a CD-ROM encyclopedia, slide-show, home town database, botanical database, computer art gallery, or handmade TV program, taking diverse production roles. The article describes a handmade TV program produced in a class combining a broadcasting club and an art and design class.

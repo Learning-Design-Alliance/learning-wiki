@@ -16,6 +16,7 @@ sources:
 # Deliberate practice framework
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The deliberate practice framework, drawn from Ericsson and Pool, holds that expertise is built through "meticulously structured and purposefully engaged practice" rather than innate talent or favorable environment alone. It is characterized by "specific, repeated exercises aimed at particular aspects of performance," with expert feedback and repeated performance assessments. The dissertation applies this framework to real estate licensing exam preparation, extending it into vocational education.

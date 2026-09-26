@@ -12,6 +12,7 @@ generated:
 # Quiet Space
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 mixed, 1 against) · 4 studies, `q3`–`q4` · 1 of 4 report an effect size
 
 ## Description
 A quiet space is a designated classroom area where children can voluntarily reduce auditory, visual, and social input in order to self-regulate. It ranges from a corner with a bean bag chair to a desk with a partition, providing privacy and a refuge for regrouping. A clear communication system — a sign-up sheet, laminated card, or hand signal — enables children to request time in the space without negotiation or stigma.

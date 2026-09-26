@@ -12,6 +12,7 @@ generated:
 # Communities of Innovation
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 West's (2014) Communities of Innovation (COI) framework identifies characteristics at three levels that predict a group's capacity for collaborative creativity, positioned as an evolution of Communities of Practice (Lave & Wenger, 1991; Wenger, 1998) specifically for groups whose purpose is producing innovative output.

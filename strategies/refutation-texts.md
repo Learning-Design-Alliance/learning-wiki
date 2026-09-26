@@ -12,6 +12,7 @@ generated:
 # Refutation Texts
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 1 of 3 report an effect size
 
 ## Description
 A refutation text explicitly names a misconception learners are likely to hold ("Many people believe heavier objects fall faster"), refutes it ("This is not the case…"), and presents the accepted explanation. The classic structure is *misconception → refutation cue → correct statement*. It is carried out by embedding this structure in expository text, lectures, or multimedia before or alongside the target content.

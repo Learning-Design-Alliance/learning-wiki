@@ -17,6 +17,7 @@ sources:
 # Epistemic network analysis and its weighted density statistic for analyzing SKIVE element co-occurrence in epistemic games
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Epistemic network analysis (ENA) is a non-parametric analytic method developed for epistemic game data; the article focuses on its social-network based variant. Chat utterances are automatically scored into binary indicators of SKIVE element use, aggregated into adjacency and cumulative adjacency matrices across evidentiary segments. The weighted density (WD) statistic summarizes, for each learner, "the total number of unique pair-wise associations / connections between SKIVE elements", and the article evaluates its utility via a simulation study in Land Science.

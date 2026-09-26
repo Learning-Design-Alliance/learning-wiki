@@ -17,6 +17,7 @@ sources:
 # Interdisciplinary teacher teams with a block of time and common planning as the middle school organizational core
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The proposed organization standards specify that "Teachers are organized into interdisciplinary teams to provide instruction in the core subjects of reading, language arts, science, mathematics, and social studies," serving a common group of students. Teams control a block of time, have classrooms in close proximity, share a common planning period, and include a designated team leader; students are organized into grade-level teams of approximately 90 to 135 students.

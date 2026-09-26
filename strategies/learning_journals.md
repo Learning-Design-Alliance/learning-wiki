@@ -12,6 +12,7 @@ generated:
 # Learning Journals
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q3` · 2 of 3 report an effect size
 
 ## Description
 A learning journal is a recurring, learner-owned record in which students document what they did, what they understood, what confused them, and how their thinking changed. Entries are typically short, structured by prompts or frameworks, and revisited over time so the journal itself becomes an artifact of learning progress rather than a one-off assignment.

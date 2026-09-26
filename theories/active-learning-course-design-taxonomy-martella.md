@@ -16,6 +16,7 @@ sources:
 # Three-dimension taxonomy of active learning course design: location, percentage of time dedicated to activities, and goal of the activity
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article presents a taxonomy (Figure 3) as "a practical guide to support (a) instructors in creating an active learning course or to revise a course to include active learning and (b) researchers in doing systematic investigations of active learning." It has three dimensions mapped to the three sources of variation: location (lecture session, recitation, or lab), percentage of time dedicated to activities (a continuous dimension), and goal of the activity, with activities branching under each goal based on the ICAP framework and the authors' own analyses. Activities repeat across leaf nodes, so the taxonomy does not create mutually exclusive conditions.

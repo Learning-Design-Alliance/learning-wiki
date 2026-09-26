@@ -16,6 +16,7 @@ sources:
 # Onto-Semiotic Approach (OSA) framework for analyzing mathematical knowledge and instruction
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The OSA addresses epistemological, ontological and semiotic-cognitive problems in mathematics teaching by proposing a system of theoretical notions and methodological tools. It treats problem-solving activity as central to knowledge construction, typologizes mathematical objects by their roles in practice, and models knowledge via the semiotic function. As the article states, "a mathematical object is any material or immaterial entity that intervenes in mathematical practices, by supporting and regulating its realization." Onto-semiotic configurations can be epistemic (institutional) or cognitive (personal).

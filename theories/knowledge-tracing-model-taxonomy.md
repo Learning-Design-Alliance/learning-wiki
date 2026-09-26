@@ -16,6 +16,7 @@ sources:
 # Technical Taxonomy of Fundamental Knowledge Tracing Models
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The survey's first organizing axis sorts fundamental KT models by technical route: "the proposed taxonomy splits existing KT methods into three categories" — Bayesian models built on probability models, logistic models built on logistic functions, and deep learning models built on neural networks. It further divides the deep learning branch into deep, memory-aware, attentive and graph-based knowledge tracing, according to four types of neural networks.

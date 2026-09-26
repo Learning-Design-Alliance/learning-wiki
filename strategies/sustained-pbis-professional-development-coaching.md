@@ -17,6 +17,7 @@ sources:
 # Sustained, needs-based PBIS professional development with in-classroom coaching to build teacher capacity
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article describes a one-year professional development model in which eight self-contained ED teachers received 20 two-hour training sessions plus four classroom observations, with content guided by a needs assessment. Each session combined review, new material, and guided practice. The authors conclude that building capacity "should involve not only workshops, but ongoing coaching and attention to fidelity of implementation."

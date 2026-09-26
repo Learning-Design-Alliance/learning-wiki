@@ -16,6 +16,7 @@ sources:
 # Microstructure is language-experience dependent while macrostructure is a relatively language-general, transferable narrative framework
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article organizes narrative skill into two levels: microstructure, covering "language-specific features such as syntactic complexity and lexical diversity," and macrostructure (story grammar), the higher-order organization of discourse. The authors' findings support the view that microstructure depends on language-specific experience and input amount, whereas "story structure is relatively language-general: SS knowledge does not appear affected by reduced input and may transfer across languages." The study uses this framework to interpret bilingual–monolingual differences on the MAIN.

@@ -12,6 +12,7 @@ generated:
 # The Title (Pre-Reading)
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Learners are shown only the title of an upcoming reading and asked to form small groups to pool what they already know about the topic and predict what the text will cover. Each group then shares its ideas with the whole class, and the facilitator records them for later comparison with the actual text. The activity activates relevant background knowledge, surfaces misconceptions, and gives learners a purpose for reading.

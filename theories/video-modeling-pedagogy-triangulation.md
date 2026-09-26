@@ -16,6 +16,7 @@ sources:
 # Video modeling pedagogy: progressively triangulating understanding by building dynamic particle models on video clips
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Video modeling pedagogy (attributed to Brown, 2007-2010) has students create simple dynamic particle models on a video clip, which the authors argue makes learning connected to real life and powerful because it "provides a mechanism to progressively triangulate their understanding". Students predict by keying values, observe by comparing real data with the proposed model, and explain through their choices, with multiple representational views supporting data-driven discussion. Combining initial video analysis with model building adds a data-checking step.

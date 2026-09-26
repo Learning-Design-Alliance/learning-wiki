@@ -12,6 +12,7 @@ generated:
 # Digital Literacy Instruction
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 6 claims (6 for) · 13 studies, `q3`–`q4` · 12 of 13 report an effect size · 1 claim rests on one study
 
 ## Description
 Digital literacy instruction teaches learners how to effectively use digital technology, communication tools, and networks to locate, evaluate, use, and create information. It spans operational skills (using devices, search engines, and platforms), information literacy (judging credibility and relevance of sources), and productive skills (creating and communicating digital content). Effective programs treat evaluation and creation as core, not add-ons: learners who only receive tool training do not transfer skills to new platforms or unfamiliar information contexts.

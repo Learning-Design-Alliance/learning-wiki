@@ -17,6 +17,7 @@ sources:
 # Address environmental deficiencies using Ely's Conditions for Change, such as leadership commitment and professional development
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The digest recommends that when obstacles arise from the environment in which change is implemented, Ely's Conditions for Change can help address those deficiencies. Examples it gives include a clearer statement of commitment by top leaders or more evident leadership by example, and more opportunity for professional development to help stakeholders learn to use their new tools.

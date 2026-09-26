@@ -17,6 +17,7 @@ sources:
 # RELAB observation instrument for coding teacher mediation and children's elaborated/restricted talk
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 RELAB (restricted-ELABorated code) is a classroom observation instrument combining six teacher talk categories (adapted from Flanders, Amidon and Hunter, and Hough) with six child talk categories derived from Bernstein's elaborated and restricted codes. It records child statements, classroom contexts and child variables. It was field tested in five classrooms and judged valid by a jury of five university professors.

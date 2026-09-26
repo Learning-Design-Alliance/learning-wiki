@@ -13,6 +13,7 @@ grain_size: lesson
 # Collaborative Learning
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Collaborative learning is the short-form canonical pattern for shared work, discussion, and co-construction of understanding.

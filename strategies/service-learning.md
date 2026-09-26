@@ -12,6 +12,7 @@ generated:
 # Service Learning
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 6 studies, `q2`–`q3` · 1 of 6 report an effect size
 
 ## Description
 Service learning is a form of experiential instruction in which learners engage in organized service activities that meet genuine community needs, and then use structured reflection to connect that experience to course content. It differs from volunteering or community service by making the academic learning objectives — not the service alone — central: the experience is designed, scaffolded, and assessed as part of the curriculum [Furco's distinction between service learning and related experiential forms.](https://doi.org/10.1080/00221546.1996.11780257) [+M].

@@ -12,6 +12,7 @@ generated:
 # Peergrade
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 2 of 2 report an effect size
 
 ## Description
 Peergrade is a platform that allows learners to give and receive feedback effectively. Learners anonymously offer different types of feedback using a rubric set by the teacher, which allows for some objective and some open feedback questions. The feedback receivers can then go through the feedback and react to it, rating the feedback itself and offering tips for improvement. In the case of disagreement, learners can flag responses so that teachers can intervene and respond to the feedback. The platform's core design move is to make peer feedback *structured* — the rubric constrains what reviewers attend to — and *accountable* — receivers evaluate the usefulness of the feedback they receive.

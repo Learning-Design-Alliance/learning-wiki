@@ -12,6 +12,7 @@ generated:
 # Sensitivity to Language Concerns
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 6 studies, `q3`–`q4` · 4 of 6 report an effect size
 
 ## Description
 Sensitivity to language concerns is a strategy in which instructors treat learners' diverse language backgrounds as assets and deliberately adjust instruction — vocabulary load, syntax, discourse norms, and assessment language — so that non-native speakers can access content while continuing to develop academic language. It combines two moves: an affirmational stance toward home languages and dialects, and concrete material design choices such as plain syntax, glossed vocabulary, and multiple representations of key ideas.

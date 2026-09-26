@@ -12,6 +12,7 @@ generated:
 # Develop Observable Criteria
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q4` · 4 of 5 report an effect size
 
 ## Description
 Developing observable criteria means translating learning goals into performance descriptors that are specific, measurable, and visible to learners — typically through objectives written with observable verbs and through rubrics or success criteria shared before instruction. Frameworks such as Bloom's Taxonomy (revised by Anderson & Krathwohl), Webb's Depth of Knowledge, and Marzano's Dimensions of Learning supply the vocabulary for specifying *what observable behavior* demonstrates learning and *at what cognitive level*. The strategy treats criteria as an instructional tool, not just an assessment tool: when learners know what quality looks like, they can self-monitor and self-assess against it.

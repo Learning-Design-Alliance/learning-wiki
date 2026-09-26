@@ -12,6 +12,7 @@ generated:
 # Spaced Learning Through Activity Breaks
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size
 
 ## Description
 Breaking up learning or work into short chunks of time interspersed with activity breaks leverages the spacing effect, one of the most robust findings in memory research: distributing study across time produces markedly better long-term retention than massed study of the same total duration. Activity breaks during the intervals — physical movement, mindfulness, or unrelated engaging tasks — serve a dual role, providing the spacing gap while restoring vigilance and attention.

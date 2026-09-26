@@ -12,6 +12,7 @@ generated:
 # Student Self-Knowledge
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size · 1 claim rests on one study
 
 ## Description
 Student self-knowledge involves helping learners understand their strengths, interests, and areas for growth as learners. It is carried out through structured self-assessment, reflection routines, and feedback conversations that surface how a learner performs, what motivates them, and which strategies work for them. It is a foundational element of self-advocacy and [Self-Regulated Learning](../theories/self-regulated-learning.md): learners cannot plan, monitor, or adjust effectively if they lack an accurate model of their own learning.

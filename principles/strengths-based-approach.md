@@ -29,6 +29,7 @@ sources:
 # Strengths-based Approach
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 mixed) · 3 studies, `q3`–`q4` · 3 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 A strengths-based approach starts from the assumption that learners bring assets, knowledge, strategies, identities, and capabilities that instruction should recognize and build on. Rather than organizing teaching primarily around deficits, it looks for what learners can already do, what conditions help them succeed, and how those strengths can be leveraged to address new challenges. This does not mean ignoring real barriers. It means refusing to define learners only by gaps.

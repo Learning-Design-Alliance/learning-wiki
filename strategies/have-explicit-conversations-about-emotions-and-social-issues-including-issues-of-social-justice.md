@@ -28,6 +28,7 @@ sources:
 # Have Explicit Conversations About Emotions and Social Issues, Including Issues of Social Justice
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 10 claims (9 for, 1 mixed) · 19 studies, `q2`–`q4` · 8 of 19 report an effect size
 
 ## Description
 This strategy treats emotions and contested social realities — race, class, gender, disability, power, exclusion — as legitimate, planned subjects of classroom talk, taught with the same deliberateness as any other content. Explicit means named and scheduled: emotion vocabulary is taught rather than assumed, and social issues are raised as planned curriculum rather than only when an incident forces them. The alternative is not neutrality. A classroom that never names these things still teaches something about them — that they are unspeakable here — and the learners for whom they are daily experience are the ones who learn it most clearly.

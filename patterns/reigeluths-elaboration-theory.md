@@ -19,6 +19,7 @@ grain_size: course
 # Reigeluth's Elaboration Theory
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 4 claims (4 mixed) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size · 2 claims rest on one study
 
 ## Description
 Reigeluth's Elaboration Theory is a macro-level sequencing pattern that begins with a simple but meaningful version of the whole and then elaborates progressively toward greater complexity, detail, and specialization. The aim is to give learners a coherent big-picture structure early, then deepen and extend that structure through increasingly elaborate treatment. The pattern relies on summary, synthesis, analogy, and review to help learners keep the growing knowledge structure integrated.

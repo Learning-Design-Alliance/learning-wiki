@@ -16,6 +16,7 @@ sources:
 # Executive function components in early decoding: working memory, inhibitory control, and cognitive flexibility
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study, `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article frames early decoding as drawing on executive function, defined as "cognitive resources to control attention to the print, recall the relevant phonological codes, ignore irrelevant codes, and flexibly shift attention from one grapheme and sound to the next." It states that "Executive function (EF) comprises three primary and related cognitive processes: working memory, inhibitory control, and cognitive flexibility," each positively related to academic performance and still developing during the early school years. The study uses this framework to motivate embedding cognitive flexibility practice in phonics and to interpret why pretest flexibility predicted decoding gains.

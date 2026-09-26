@@ -12,6 +12,7 @@ generated:
 # Classroom Physical Activity Breaks
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Classroom physical activity breaks are brief (1–5 minute) movement activities embedded in instructional time, typically implemented 2–3 times per day. They serve three functions: energizing a sluggish class, calming an overstimulated one, or resetting attention between demanding tasks. Teachers are encouraged to participate alongside students rather than merely supervise.

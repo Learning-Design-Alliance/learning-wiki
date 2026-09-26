@@ -17,6 +17,7 @@ sources:
 # Phenomenon-based tasks on dissolution and boiling point administered after relevant instruction
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The study's assessment instruments were two open-response phenomenon-based tasks administered immediately after the relevant course content in each learning environment. "Students from each learning environment were administered two phenomenon-based tasks during the first and second semesters of introductory chemistry, immediately following the relevant course content." The dissolution task asked why a beaker of water warms when LiCl dissolves; the boiling point task asked why ethanol, which can hydrogen bond, has a higher boiling point than dimethyl ether despite the same formula and molar mass. Responses were coded for levels of causal mechanistic reasoning, not scientific accuracy.

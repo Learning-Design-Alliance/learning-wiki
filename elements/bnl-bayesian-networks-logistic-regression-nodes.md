@@ -17,6 +17,7 @@ sources:
 # BNL (Bayesian networks with logistic regression nodes)
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 BNL is the software in which the article's models were specified. The article states: "The models were specified in BNL (Bayesian networks with logistic regression nodes; Rijmen, 2006)." It is a Matlab toolbox referenced through Rijmen (2006), used here to specify the bifactor, testlet/second-order, and 2PL models estimated with an EM algorithm. The article uses it as the implementation vehicle for the empirical application, not as an evaluated intervention.

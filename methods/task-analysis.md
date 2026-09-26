@@ -12,6 +12,7 @@ generated:
 # Task Analysis
 
 > **Design Method** · [All design methods](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size · 2 claims rest on one study
 
 ## Description
 Task analysis is the systematic decomposition of a target task into its constituent steps, subtasks, prerequisite knowledge, and — in its cognitive form — the invisible decisions and strategies experts use. It is carried out before instruction is designed, typically through expert interviews, observation, think-aloud protocols, or document analysis, and produces a structured map of what must be taught, sequenced, and practiced.

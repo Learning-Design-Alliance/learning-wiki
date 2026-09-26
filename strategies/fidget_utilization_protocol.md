@@ -12,6 +12,7 @@ generated:
 # Fidget Utilization Protocol
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 mixed, 1 against) · 5 studies, `q3` · 2 of 5 report an effect size
 
 ## Description
 Fidgets are tools to aid focus and self-regulation, not toys. This strategy establishes explicit rules for using fidgets at home or in the classroom: being mindful of when a fidget is needed, using it only to focus or calm down, not distracting others, and returning it to a designated place after use. Learners experiment with different fidget types to find what works, and the rules are often formalized in a signed fidget contract.

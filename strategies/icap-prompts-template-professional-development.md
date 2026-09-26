@@ -17,6 +17,7 @@ sources:
 # Develop ICAP-based activity prompts, revise templates, and provide professional development for online course designers
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends a set of implementable steps for raising active learning in asynchronous online courses: develop prompts using the ICAP Framework, signal lower-level activities differently in templates, keep a record of every activity as part of the design process, and provide professional development for academic staff and learning designers. The authors state: "An improvement would be to develop prompts using the ICAP Framework," citing Hefter et al. on carefully constructed prompts increasing active learning such as self-explaining.

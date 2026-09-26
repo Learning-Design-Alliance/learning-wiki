@@ -17,6 +17,7 @@ sources:
 # Match therapist complementarity to the stage of the relationship rather than holding a single posture throughout
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article's central design recommendation is that the helpfulness of a confirming, complementary response style depends on when it is used. Its two stated conclusions are that "No single level of therapist complementarity is associated with successful, as opposed to unsuccessful, outcome" and that "The therapeutic timing of complementarity levels is crucial to facilitate constrective client change." Early in a relationship, moderately high complementarity builds rapport, trust, and security; in the middle work stage, successful therapists shift toward an anti-complementary stance that disconfirms constricted behavior patterns and prompts a search for new behaviors.

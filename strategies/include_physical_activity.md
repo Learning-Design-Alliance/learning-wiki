@@ -12,6 +12,7 @@ generated:
 # Include Physical Activity
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies, `q3` · 2 of 4 report an effect size
 
 ## Description
 This strategy embeds brief bouts of physical activity — stretching, jumping jacks, active games, or movement breaks — into the learning environment, or schedules active play immediately before demanding cognitive tasks. It is carried out through classroom-based activity breaks (typically 4–20 minutes), pre-task exercise, or active seating and movement options, rather than relying solely on scheduled recess or PE.

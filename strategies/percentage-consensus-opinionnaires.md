@@ -17,6 +17,7 @@ sources:
 # Use percentage-consensus opinionnaires to locate shared values before redesign
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The CMP's projective surveys use a Likert-scale percentage consensus approach to find where all stakeholder groups share common values that can undergird an educational design. The authors note that "the stronger the consensus, the safer the move forward," and that the technique can identify in advance possible tripwires for the board, superintendent, or principals by extracting key data school-by-school.

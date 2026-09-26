@@ -12,6 +12,7 @@ generated:
 # Guided Notes
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 6 studies, `q2`–`q4` · 4 of 6 report an effect size
 
 ## Description
 Guided notes are instructor-prepared handouts that outline a lecture or lesson while deliberately omitting key information — blanks, prompts, or incomplete diagrams — that learners must fill in during instruction. Cues (asterisks, numbering, headings) signal what is important to record, converting passive listening into structured, generative note-taking.

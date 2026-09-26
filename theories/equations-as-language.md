@@ -16,6 +16,7 @@ sources:
 # Equations as Language
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study, `q1` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Physics instruction often treats an equation as fully understood once a student can derive or correctly manipulate it. This theory argues that deriving an equation and comprehending it are separate achievements — analogous to the difference between decoding text and reading it with comprehension. Adapting a reading-comprehension framework from literacy research, the theory identifies three levels of understanding a physics equation:

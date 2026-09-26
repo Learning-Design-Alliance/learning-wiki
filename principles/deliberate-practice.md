@@ -17,6 +17,7 @@ sources:
 # Deliberate Practice
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Deliberate practice is the principle of engaging learners in focused, feedback-rich practice on specific aspects of performance that are just beyond current ability. It is useful when improvement depends on systematic refinement rather than repetition alone.

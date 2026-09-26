@@ -12,6 +12,7 @@ generated:
 # Assess and Differentiate
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 5 claims (4 for, 1 mixed) · 11 studies, `q3`–`q4` · 11 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 Assess and Differentiate is a strategy in which teachers gather evidence not only of students' content understanding but also of their academic language skills — vocabulary, syntax, and discourse functions — and use that evidence to adjust instruction. Differentiation can target the *process* (how students work and what scaffolds they receive), the *product* (how they demonstrate learning), or the *content* itself, with the goal of keeping all learners within a productive zone of challenge.

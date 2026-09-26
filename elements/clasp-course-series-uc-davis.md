@@ -17,6 +17,7 @@ sources:
 # CLASP course series (Physics 7A/7B/7C): a large-enrollment reformed introductory physics course for bioscience majors
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 CLASP (Collaborative Learning through Active Sense-making in Physics) is a three-quarter, one-year introductory physics course at UC Davis enrolling about 1700 students per year, fully institutionalized since 1996-97 as the physics requirement for biological science majors. Each quarter has five independent sections of roughly 300 students taught by two co-instructors and five TAs, with one 80-minute lecture per week and two 140-minute discussion/laboratory meetings, so less than a quarter of in-class time is lecture. The course was designated an exemplary practice course in a 2006 national CEPR review of 139 introductory physics courses, and has also been implemented at California State University, San Marcos.

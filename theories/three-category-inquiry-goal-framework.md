@@ -16,6 +16,7 @@ sources:
 # Three-category goal framework for inquiry design: process goals, attitudinal goals, and content goals
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article organizes its learning goals into three interrelated categories. Process goals include interpreting data, selecting relevant data from too much data, understanding the scientific process, evidence-based critical thinking, and applying new data. Attitudinal goals include open mindedness, appreciation for astronomy, excitement about STEM, community building, and confidence in scientific discourse. Content goals cover stellar populations basics such as "Blue stars are bright and hot, red stars are dim and cool" and "Red clusters are older than blue clusters."

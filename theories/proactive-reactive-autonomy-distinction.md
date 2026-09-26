@@ -16,6 +16,7 @@ sources:
 # Littlewood's distinction between proactive and reactive autonomy
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article adopts Littlewood's (1999) two-level account of learner autonomy for East Asian contexts. Proactive autonomy corresponds to Holec's model, in which learners are responsible for all aspects of their learning, including objectives, content, pace, methods, and evaluation. Reactive autonomy refers to teacher-directed situations where, once a goal has been initiated, learners organize their resources autonomously to reach it. The authors situate their activities in reactive autonomy: a defined structure gives students security while a degree of choice lets them personalize their learning.

@@ -12,6 +12,7 @@ generated:
 # Problem Solving Draw A Picture
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 against) · 5 studies, `q2`–`q4` · 2 of 5 report an effect size
 
 ## Description
 "Draw a picture" is a heuristic from [Polya's](https://en.wikipedia.org/wiki/How_to_Solve_It) problem-solving framework in which learners externalize a problem as a diagram — a picture, sketch, number line, or schematic — before or while solving it. The goal is not artistic rendering but a *schematic* representation that preserves the relational structure of the problem (quantities, relationships, actions), offloading working memory and making the solution path visible.

@@ -12,6 +12,7 @@ generated:
 # Embracing Errors as Learning
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 8 studies, `q2`–`q4` · 4 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy creates a classroom culture where errors are treated as opportunities for learning rather than indicators of failure. When a learner makes a mistake, the instructor surfaces what is correct in the learner's reasoning, helps the learner locate the misconception, and uses the error as a shared object of analysis. Errors are examined publicly, non-punitively, and with genuine curiosity — including the instructor's own errors.

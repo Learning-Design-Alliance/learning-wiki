@@ -17,6 +17,7 @@ sources:
 # Advance value-creating-modeled curriculum projects in Africana communities to foster ubuntu, happiness, and contributive lifestyles
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends designing curriculum and extra-curricular activities that promote optimum conditions for value creation, so that global citizenship orientation can appeal to Africana youth who often find current educational practices irrelevant. It concludes that "The opportunity derived from projects applying a value -creating-modeled curriculum in the Africana community is well worth advancing". Human-unity-minded educators are called to collaborate on a new wave of educational practices fostering happier students.

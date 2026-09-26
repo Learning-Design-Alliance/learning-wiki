@@ -12,6 +12,7 @@ generated:
 # Structured Academic Controversy
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q2`–`q3` · 1 of 2 report an effect size
 
 ## Description
 Structured Academic Controversy (SAC), developed by David and Roger Johnson, is a cooperative learning procedure built on constructive controversy theory. Students work in groups of four: two pairs are assigned opposing positions on a substantive issue, each pair researches and advocates its case, then the pairs *switch sides* and argue the opposite position from memory, before dropping advocacy entirely to synthesize a joint, evidence-based consensus position. The structure converts disagreement from a social threat into an epistemic tool.

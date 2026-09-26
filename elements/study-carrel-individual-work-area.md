@@ -17,6 +17,7 @@ sources:
 # Study carrel as an individual work area shielding a child from disturbance
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The booklet defines and details the study carrel as a behaviour-support fixture: "A carrel is a work area for individual study. Itis intended as a place where a child may work alone, relatively undisturbed by other children." Drawing 10 shows a folding-panel type with chalkboard and tackboard on each side that folds against the wall when unused, and two permanent types with built-in desk top, shelving, chalkboard, tackboard, and a light. Carrels need electrical outlets for teaching machines and warm-white fluorescent lighting with diffusers.

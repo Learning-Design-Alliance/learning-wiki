@@ -12,6 +12,7 @@ generated:
 # Educational Charts
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size · 2 claims rest on one study
 
 ## Description
 Educational charts translate quantitative or procedural information into visual form — bar charts, line graphs, flowcharts, pyramid diagrams, and similar displays — so learners can perceive structure and pattern directly rather than reconstructing it from prose or tables. Effective charts pair an appropriate visual encoding with clear labeling, honest scales, and strategic emphasis, turning raw data into an interpretable display.

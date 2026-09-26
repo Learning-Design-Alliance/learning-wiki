@@ -12,6 +12,7 @@ generated:
 # Authentic Audiences and Purposes
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (1 for, 1 mixed, 1 unmarked) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size
 
 ## Description
 Authentic audiences and purposes means designing tasks so learners produce real work for real readers, users, or decision-makers beyond the instructor, with a purpose that matters outside the classroom. Instead of writing an essay that only a teacher will grade, students publish an article, advise a community organization, pitch to industry judges, or build something someone will actually use. The audience and purpose give the work stakes, which changes how learners plan, draft, revise, and persist.

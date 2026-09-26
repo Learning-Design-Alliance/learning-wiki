@@ -17,6 +17,7 @@ sources:
 # Situated Learning
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (3 unmarked) · 7 studies, `q3`–`q4` · 7 of 7 report an effect size · 2 claims rest on one study
 
 ## Description
 Situated learning is the principle that learning is shaped by the contexts, practices, and communities in which knowledge is used.

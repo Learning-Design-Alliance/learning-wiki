@@ -16,6 +16,7 @@ sources:
 # Five Cs model of counsellor education: Collaboration, Competence, Context, Critical Consciousness, and Community
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article proposes a general model of counsellor education with three central goals: to empower students, to train counsellors to practice in a manner designed to empower clients, and to provide counsellor education consistent with the empowerment process. "Critical components of an empowerment model, for both the practice of counselling and counsellor education, can be represented in terms of 'Five Cs'": Collaboration, Competence, Context, Critical Consciousness, and Community. Adoption involves focused examination and modification of existing courses and relationships rather than a new theoretical orientation or curriculum.

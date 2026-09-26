@@ -17,6 +17,7 @@ sources:
 # Engage students with paradoxes and puzzles before presenting theory
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 In morning lectures the school implements active learning by having students do more than listen: "We often present them a paradox or a puzzle involving the concept at issue and have them struggle towards a solution, by forcing the students to work it out without some authority's solution." Discussion and thinking occur before theory is presented or after conflicting theories have been presented, so students construct the concept themselves.

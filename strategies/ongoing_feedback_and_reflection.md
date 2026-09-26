@@ -25,6 +25,7 @@ sources:
 # Ongoing Feedback and Reflection
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 10 claims (5 for, 2 mixed, 3 against) · 14 studies, `q2`–`q4` · 9 of 14 report an effect size · 4 claims rest on one study
 
 ## Description
 Ongoing feedback and reflection is a sustained arrangement rather than an event: feedback arrives at regular, predictable points, and each time it does, the learner is required to do something deliberate with it — record what it said, judge their own work against the same criteria first, decide what to change, and later check whether the change worked. Run over a term rather than a task, the pattern shifts responsibility: early cycles are dominated by the instructor's judgement, later ones by the learner's, with the instructor's role reducing to confirming or correcting a judgement the learner has already made.

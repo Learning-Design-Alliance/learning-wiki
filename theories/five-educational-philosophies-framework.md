@@ -16,6 +16,7 @@ sources:
 # Five educational philosophies framework (perennialism, idealism, realism, experimentalism, existentialism)
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article organizes teachers' philosophical orientations into five categories used by the Wiles and Bondi Philosophical Preferences Assessment: perennialism, idealism, realism, experimentalism and existentialism. Each carries distinct views of the teacher's role, from subject-centered authority in perennialism to guiding facilitator in experimentalism, where "The responsibility of the teacher is to guide students." The framework is used to classify teachers and relate philosophy to teaching style.

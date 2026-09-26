@@ -19,6 +19,7 @@ sources:
 # Body-Scale Collaborative Geometric Construction
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study, `q1` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Groups are given materials (e.g., rods and connectors) and a goal structure — an image of a complex geometric solid plus a short list of its defining properties (e.g., "triangular faces," "five edges meet at each vertex") — but no step-by-step assembly instructions. Working at body scale, the group must physically discover the structural constraints through trial and error, and develop shared perceptual vocabulary (e.g., naming a repeating sub-shape as a "star" or "base") to coordinate their construction. The named structures function as reusable coordination resources: once one member articulates a perceptual insight through speech, gesture, and material action together, peers take it up, refine it, and redeploy it to guide the next step of construction.

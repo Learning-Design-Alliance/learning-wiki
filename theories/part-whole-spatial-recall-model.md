@@ -16,6 +16,7 @@ sources:
 # Part-whole processing model of spatial recall
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article proposes a model of cognitive processing in which effective recall of spatial attributes depends on treating spatial arrays as part-whole relations: individual features are encoded and recalled as discrete entities or small groups separable from the whole map context. The Figural Creativity and Hidden Patterns results jointly support this account, since embellishing individual features and separating figures from embedded contexts both reflect treating items as "separable-from the whole map." Reconstruction is achieved by successive recall of map microstructures from within the stored macrostructure.

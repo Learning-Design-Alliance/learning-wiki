@@ -17,6 +17,7 @@ sources:
 # Make Science Teaching Activity-Centered, with Pupils Learning by Doing
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The digest holds that activity centered teaching involves pupils learning by doing, with active involvement rather than pupils being passive recipients of knowledge. It notes there tends to be interaction among cognitive, psychomotor, and attitudinal ends, and that activities require background information gathered from diverse reference sources.

@@ -17,6 +17,7 @@ sources:
 # Authoring constraints should encourage goal-directed creation without being so restrictive that creators feel unable to make what they want.
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 This principle holds that constraints in level editors should steer creators toward operating with an end-goal in mind while preserving enough freedom to avoid disengagement. The article states the editor constraints "are meant to encourage players to operate" with an end-goal in mind, while cautioning that students may find constraints too restrictive, which risks disengagement.

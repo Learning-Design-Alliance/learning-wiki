@@ -12,6 +12,7 @@ generated:
 # Collaborative Creation of Exemplars
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 6 claims (6 for) · 10 studies, `q3`–`q4` · 9 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 After completing collaborative problem-solving tasks, learners examine leveled exemplars of responses and identify the characteristics that distinguish each level. They then create posters or anchor charts — often using their own work — that illustrate the differences between levels. The activity converts assessment criteria from teacher-held secrets into shared, learner-articulated standards, promoting metacognition, self-assessment, and a common understanding of quality work.

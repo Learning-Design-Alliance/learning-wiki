@@ -17,6 +17,7 @@ sources:
 # Provide institutional support to enable relationship-building in critical service-learning
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends that nurturing critical interpersonal relationships requires more intensive time for students and professors and institutional support to create space for intentional relationship building. Specific supports include "increasing the course credit for service-learning courses for students and providing advanced learning credits, assistantships, stipends, and research opportunities for peer mentors." Institutions could also offer reduced course loads, course assistants, and stipends to support professors. The article also calls for more resources and smaller class sizes to support peer-mentoring.

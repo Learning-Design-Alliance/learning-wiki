@@ -12,6 +12,7 @@ generated:
 # Representational Drawing
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Representational drawing is the element in which learners sketch, diagram, or draw structures and relationships to support understanding.

@@ -16,6 +16,7 @@ sources:
 # Intertextuality and hypertextuality as twin modes of convergence operationalizing online education
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article treats intertextuality—words and texts always interacting and effectuating new semiotic realities—as a synonym for integration, reciprocity, and structural unboundedness, and a philosophy of learning describing meaning-making between humans and texts. Hypertextuality, the electronic links and texts that operationalize computerized devices, extends this logic into digital networks and online education. The two are framed as figurative equivalents or two modes of convergence that inform teaching and learning with technology. The article states that "hypertextuality is intertextuality reimagined for a world that rationalizes itself through computerized devices and the vast digital networks that allow us to cross space and time."

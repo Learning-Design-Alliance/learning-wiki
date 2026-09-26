@@ -25,6 +25,7 @@ sources:
 # Keep Your Love of Teaching
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 5 of 5 report an effect size
 
 ## Description
 This strategy treats the teacher's own enthusiasm, humor, and authentic enjoyment of students and subject matter as an instructional resource to be deliberately maintained rather than left to chance. It involves protecting the conditions that generate genuine enthusiasm — autonomy, connection with students, intellectual engagement with content — and expressing that enthusiasm visibly in instruction.

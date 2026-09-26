@@ -17,6 +17,7 @@ sources:
 # Begin career-awareness outreach in middle school to build the pipeline for high-demand fields
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 NVCC's CCTI health science project reaches students before high school because, in Johnson's words, "awareness must begin while students are in middle school." The college partners with Virginia Hospital Center to offer Camp Med summer camps for pupils in grades six through eight, where students shadow professionals, get certified in CPR, and do role-playing such as a mock crime scene. The article argues high school is too late to attract the numbers needed to fill the health care employee pipeline.

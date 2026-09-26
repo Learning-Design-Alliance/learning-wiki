@@ -16,6 +16,7 @@ sources:
 # Thick authenticity: four types of authentic learning occurring together
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article adopts Shaffer and Resnick's (1999) framework of thick authenticity, in which four types of authentic learning occur together: personally meaningful learning, learning connected to the real world outside school, opportunities to apply disciplinary modes of thinking, and assessment methods reflecting the learning process. The interdisciplinary design studio is proposed as an environment for this kind of learning. The authors' analysis "highlights the challenges of meeting all four types of authenticity simultaneously," finding the assessment type least prevalent in student statements.

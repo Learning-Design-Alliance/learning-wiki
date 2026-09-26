@@ -17,6 +17,7 @@ sources:
 # Integrated simulation performance assessment design characteristics
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The report enumerates four design characteristics of its integrated simulation performance assessment: "(a) relevant, project-based scenarios that include meaningful, real-world tasks; (b) individual and team processes and products; (c) a technology base using Web-based, networked systems; and (d) model-based assessments that integrate types of cognitive learning, grade level, and content area." This pattern describes the lesson/unit-level design of technology-based performance assessment suites combining individual and team tasks.

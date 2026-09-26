@@ -12,6 +12,7 @@ generated:
 # Create Beautiful Spaces
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies, `q4` · 2 of 2 report an effect size
 
 ## Description
 This strategy treats the physical environment as an instructional and motivational resource: schools and classrooms are deliberately designed to be beautiful, and walls, hallways, and common spaces display high-quality student work from real projects rather than commercial posters or decoration. The practice is most associated with expeditionary and project-based schools, and with Ron Berger's account of building a "culture of craftsmanship" in which visible excellence raises what students believe is possible. It carries particular weight in communities where students' homes and neighborhoods offer little beauty, making the school the one place where their work is treated as worthy of public display.

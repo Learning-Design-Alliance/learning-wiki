@@ -12,6 +12,7 @@ generated:
 # Peer Review/Peer Editing
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 6 studies, `q3`–`q4` · 6 of 6 report an effect size
 
 ## Description
 Peer review asks students to exchange drafts or completed work and provide structured, criterion-based feedback on each other's performance, typically using a rubric, checklist, or prompt set. Each student plays two roles: reviewer, which requires evaluating work against criteria, and reviewee, which requires interpreting and acting on feedback. Peer editing is the writing-focused variant, emphasizing revision of drafts rather than summative judgment.

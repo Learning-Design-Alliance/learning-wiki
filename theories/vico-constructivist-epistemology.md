@@ -16,6 +16,7 @@ sources:
 # Vico's principle that we can rationally know only what we ourselves have made as an early formulation of constructivism
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The book identifies Giambattista Vico's 1710 treatise on epistemology as, as far as the author knows, a first explicit formulation of constructivism. Von Glasersfeld recounts that "Vico's notions that we can rationally know only what we ourselves have made, and that the knowledge of poets and myth-makers is of a different kind, fitted well between some of the disconnected ideas in my head." Vico is treated as a pioneer of conceptual analysis alongside Bentham, anchoring the book's philosophical genealogy of radical constructivism.

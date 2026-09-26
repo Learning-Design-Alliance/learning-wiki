@@ -12,6 +12,7 @@ generated:
 # Process Writing Workshop
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies, `q2`–`q4` · 7 of 11 report an effect size
 
 ## Description
 The Process Writing Workshop organizes writing instruction around the recursive cycle of [planning, drafting, revising, and editing](../elements/assess-performance.md) described in Flower and Hayes's cognitive process model of composing. Students write extended pieces over multiple sessions while the teacher delivers brief mini-lessons, confers individually, and orchestrates peer response; the workshop format (mini-lesson → writing time → sharing) derives from the work of Calkins and Atwell in the National Writing Project tradition.

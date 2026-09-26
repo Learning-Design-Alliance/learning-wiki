@@ -17,6 +17,7 @@ sources:
 # Conduct a needs assessment combining baseline district data and projective opinion data before designing a middle school
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Under the CMP, planners gather two types of data before redesign: baseline data from district records (attendance, achievement analyses, mobility, attitudes) and projective data based on the perceptions of teachers, parents, students, and administrators. The authors state that "An early analysis of need can fulfill three key design functions" — conceptualizing the program, providing an evaluation baseline, and giving definition as the middle school unfolds. Sample instruments appear in the book's appendices.

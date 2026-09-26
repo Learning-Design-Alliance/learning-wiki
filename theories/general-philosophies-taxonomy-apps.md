@@ -16,6 +16,7 @@ sources:
 # Taxonomy of four general philosophies organized by the three basic philosophical questions
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Chapter 3 surveys four general philosophical systems—idealism, realism, experimentalism, and existentialism—using three organizing questions: what is reality (metaphysics), how do we know (epistemology), and what is of value (axiology). Apps notes "Most philosophers agree that they are confronted with three basic questions:" and summarizes each system's answers to reality, truth, and values in Table 1. The taxonomy serves as an idea source for educators building their own working philosophy.

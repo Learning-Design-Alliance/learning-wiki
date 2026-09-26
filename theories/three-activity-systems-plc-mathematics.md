@@ -16,6 +16,7 @@ sources:
 # Three activity systems for PLC in mathematics, differing in object, mediating artifacts and norms
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review constructs three distinct activity systems from the 32 studies: system A with the object of developing norms for collaboration, system B with developing teachers' understanding about mathematics and its teaching, and system C with developing teachers' repertoire of teaching actions. The authors state that "different objects have consequences for how the PLC are organised regarding mediating artifacts and norms": the objects determine which artifacts are used and the norms correlate with the object. The remaining aspects — subjects, division of labor, and community — "stay consistent across the three systems".

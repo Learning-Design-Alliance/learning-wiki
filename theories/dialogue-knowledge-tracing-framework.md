@@ -16,6 +16,7 @@ sources:
 # Dialogue Knowledge Tracing (dialogueKT) Framework
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 DialogueKT is the task the article proposes, which "analyzes student discourse within the knowledge tracing (KT) framework". It treats tutor turns as posing tasks tied to knowledge components (KCs) and student turns as correct or incorrect responses, so that "A pair of tutor-student dialogue turns corresponds to a time step in KT". The framework has three stages: identify the KCs in each turn, classify student correctness, then apply KT methods. Because most turns involve several KCs, it adopts "a compensatory model rather than a conjunctive model", predicting correctness as average KC mastery.

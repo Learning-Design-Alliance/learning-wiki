@@ -12,6 +12,7 @@ generated:
 # Equitable Grading
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 8 studies, `q3`–`q4` · 8 of 8 report an effect size
 
 ## Description
 Equitable grading is a set of grading policies designed to make grades accurate, bias-resistant, and motivational: they should reflect what students know and can do, minimize the influence of subjective judgment and circumstance, and support rather than punish developing learners. Common practices include separating academic achievement from behavior and work habits, using rubrics and multiple measures, allowing retakes and late work without punitive penalties, and replacing single high-stakes scores with evidence-based judgments of [competency](../principles/competency-based-assessment.md). Implementation depends on collaborative norming among educators and ongoing professional learning about implicit bias.

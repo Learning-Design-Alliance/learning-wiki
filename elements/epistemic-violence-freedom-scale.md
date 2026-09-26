@@ -17,6 +17,7 @@ sources:
 # Epistemic violence-freedom scale
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A researcher-developed 29-item instrument with four dimensions: adults' levels of accepting education-related epistemic violence, resorting to education-related epistemic violence, past epistemic freedom in their educational background, and tendency to education-related epistemic freedom. Answers use a 5-point Likert grid "ranging from "totally disagree" to "totally agree"". Content validity was checked by two faculty members; reliability analysis for each variable showed the scale was reliable, with Cronbach's alpha coefficients of .652, .721, .794, and .893.

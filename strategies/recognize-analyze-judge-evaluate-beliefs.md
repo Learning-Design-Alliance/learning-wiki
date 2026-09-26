@@ -17,6 +17,7 @@ sources:
 # A four-step process for examining beliefs: recognition, analysis, judgment, and evaluation
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Apps offers an implementable procedure for refining common sense into a working philosophy. First the educator recognizes and classifies beliefs—including discovering zero-order beliefs never consciously held—then judges them by asking about their source and evidence, and finally evaluates whether they serve current needs. He asks, "do my beliefs adequately support my role asan adult educator ?" The strategy operationalizes the process dimension of philosophy as systematic thinking about one's own belief system.

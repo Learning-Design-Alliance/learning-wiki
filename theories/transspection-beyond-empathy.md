@@ -16,6 +16,7 @@ sources:
 # Transspection: imagining oneself in a role within a foreign culture, a step beyond empathy
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Drawing on Lerner's account of empathy and Maruyama's concept of transspection, the essay distinguishes empathy, the capacity to imagine oneself in another role within one's own culture, from transspection, the capacity to imagine oneself in a role within the context of a foreign culture. Transspection is described as a trans-epistemological process in which a person temporarily believes what the other person believes, an understanding by practice. The essay charts a development from traditional through modern to postmodern psychic capacity and urges educators to provide students with maximum experience in transspection within a facilitating, reinforcing climate.

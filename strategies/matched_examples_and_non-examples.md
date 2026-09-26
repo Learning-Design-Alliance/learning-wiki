@@ -12,6 +12,7 @@ generated:
 # Matched Examples and Non-examples
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 6 studies, `q3`–`q4` · 5 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy pairs an example of a target concept with a non-example — an instance that is specifically *not* an instance of the concept — that differs from the example in one critical attribute. The pairs are presented simultaneously or in close succession so both can be held in working memory at once, allowing learners to isolate the attribute that separates the concept from its near neighbors. The goal is accurate concept formation: learners learn the boundaries of a concept, not just its center.

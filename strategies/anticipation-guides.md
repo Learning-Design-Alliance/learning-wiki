@@ -12,6 +12,7 @@ generated:
 # Anticipation Guides
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 6 studies, `q3`–`q4` · 2 of 6 report an effect size
 
 ## Description
 An anticipation guide is a series of 3–8 declarative statements — some true, some plausible-but-false — that learners respond to (typically agree/disagree) before reading or instruction. After engaging with the content, learners revisit their initial responses, discuss discrepancies, and revise their answers with justification. The strategy was developed by Readence and colleagues for content-area literacy and is widely used in science, social studies, and language arts.

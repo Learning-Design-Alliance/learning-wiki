@@ -17,6 +17,7 @@ sources:
 # Specify acoustic, durable finishes and mandatory carpeting in quiet and severe-disorder spaces
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The common-facilities section gives implementable material specifications, treating acoustics and maintenance as the major considerations when choosing finishes. It states that "Carpeting is considered mandatory in quiet rooms, in consultation rooms, and in teaching areas for severely disturbed children", recommends specific wall coverings, acoustic ceilings, non-glare chalkboards with a metallic magnetic panel, blackout drapes for projection, intercommunication systems, and ample exhaust fans for interior washrooms, quiet rooms, and consultation rooms.

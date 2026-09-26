@@ -16,6 +16,7 @@ sources:
 # Personal knowledge genres sit within the cultural logic of postmodernity, where specific empowerment can accompany overall social control
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article locates narrative and storying genres within emergent cultural patterns of contemporary societies and economies. It argues that an increasingly aggrandizing centre or state sponsors voices at the periphery while attacking medium and secondary associations such as schools, universities and libraries, so specific empowerment can go hand in hand with overall social control. Drawing on Denzin, the paper reports that the cultural logics of late capitalism valorize the life story because they keep the myth of the autonomous, free individual alive.

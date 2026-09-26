@@ -25,6 +25,7 @@ sources:
 # Formative Assessment Cycles
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 7 claims (4 for, 1 mixed, 2 against) · 14 studies, `q2`–`q4` · 8 of 14 report an effect size · 1 claim rests on one study
 
 ## Description
 A formative assessment cycle is a short instructional loop with four moves: elicit evidence of what students currently understand, interpret that evidence against where they need to get to, adjust the next stretch of teaching in response, and elicit again to check whether the adjustment worked. The cycle can run in ninety seconds, with a show-of-hands question mid-explanation, or across a fortnight, with a diagnostic task driving a re-teaching plan. What makes it a cycle rather than a check is the third move: if the evidence never changes what happens next, the assessment was monitoring, not formative.

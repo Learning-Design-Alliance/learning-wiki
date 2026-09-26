@@ -16,6 +16,7 @@ sources:
 # Egan's developmental understanding model: later understandings build on and incorporate the Somatic
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article draws on Kieran Egan's (1997) model of developmental understanding, in which prelinguistic bodily knowing from infancy undergirds later linguistic experience. As printed: "As what he names the Mythic, Romantic, Philosophic and Ironic Understandings are grown into they build on and incorporate the Somatic." The article uses this to argue that Western adults over-reinforced in Philosophic or Ironic Understanding are jolted when Somatic Understanding re-enters learning.

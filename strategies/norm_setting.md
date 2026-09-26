@@ -25,6 +25,7 @@ sources:
 # Norm Setting
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 7 claims (7 for) · 15 studies, `q2`–`q4` · 9 of 15 report an effect size
 
 ## Description
 Norm setting is the practice of establishing an explicit, short set of agreements about how a group will work together, generated with the learners rather than announced to them, and then referred to routinely in the ordinary business of the class. The distinguishing feature is not the list — most classrooms have rules — but that the agreements are stated in terms of observable behaviour, produced by the people bound by them, and used as the shared language for both recognizing and repairing conduct. A norm nobody invokes is decoration.

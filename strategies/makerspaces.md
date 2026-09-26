@@ -12,6 +12,7 @@ generated:
 # Makerspaces
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (2 for, 1 against) · 7 studies, `q2`–`q4` · 5 of 7 report an effect size
 
 ## Description
 A makerspace is a shared workshop environment — physical or hybrid — equipped with tools (3D printers, electronics, craft materials, hand tools) where learners design, prototype, and iterate on self- or group-directed projects. Learning happens through construction of tangible artifacts, supported by peer collaboration, mentorship, and open-ended experimentation rather than sequenced instruction.

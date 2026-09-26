@@ -12,6 +12,7 @@ generated:
 # Physical Activity Breaks
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 7 studies, `q3`–`q4` · 5 of 7 report an effect size
 
 ## Description
 Physical activity breaks are brief (2–10 minute) episodes of movement — stretching, walking, calisthenics, or breathing exercises — inserted into lessons, meetings, or study sessions. They counteract the attentional and physiological costs of prolonged sitting by increasing arousal and blood flow, returning learners to tasks with restored focus.

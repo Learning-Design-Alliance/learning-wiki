@@ -12,6 +12,7 @@ generated:
 # Short Conversations (Pre-Reading)
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 6 studies, `q3`–`q4` · 2 of 6 report an effect size
 
 ## Description
 Learners are given one sentence drawn from a text they are about to read and engage in a short paired conversation about it. A rule constrains each turn to no more than three words, forcing learners to distill ideas, negotiate meaning, and build on each other's contributions. The activity serves as a pre-reading [Activation](../principles/activation.md) routine: it surfaces prior knowledge, generates curiosity about the full text, and primes relevant vocabulary before independent reading.

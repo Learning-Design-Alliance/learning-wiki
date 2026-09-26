@@ -12,6 +12,7 @@ generated:
 # Inquiry-Based Learning
 
 > **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Inquiry-based learning is the element in which learners investigate questions, evidence, or problems in order to build understanding through guided exploration.

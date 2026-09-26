@@ -12,6 +12,7 @@ generated:
 # Specific Feedback
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 6 studies, `q2`–`q3` · 2 of 6 report an effect size
 
 ## Description
 Specific feedback directs learner attention to the exact location and nature of a strength or error — a particular claim, a piece of evidence, a transition, a sentence-level convention — rather than delivering global judgments ("good work," "unclear"). In writing instruction it addresses both the *what* (content: evidence, claims, analysis) and the *how* (organization, rhetorical strategy, style, voice, conventions). Teachers who are less comfortable with mechanics can focus feedback on content without losing effectiveness.

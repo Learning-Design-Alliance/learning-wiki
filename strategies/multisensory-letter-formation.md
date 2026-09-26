@@ -12,6 +12,7 @@ generated:
 # Multisensory Letter Formation
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 3 of 5 report an effect size
 
 ## Description
 Multisensory letter formation teaches letter shapes through simultaneous engagement of multiple sensory channels: the learner sees the letter, hears or says its name and sound, traces it in a tactile medium (sand, textured cards, air writing), and writes it with a pencil. The approach, rooted in Orton-Gillingham instruction for struggling readers, pairs motor execution with verbal labeling so that form, name, and sound are encoded as one integrated unit rather than as separate facts.

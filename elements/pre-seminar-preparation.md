@@ -12,6 +12,7 @@ generated:
 # Pre-Seminar Preparation
 
 > **Element** · [All elements](index.md)
+> **Evidence** · 3 claims (3 for) · 8 studies, `q3`–`q4` · 8 of 8 report an effect size
 
 ## Description
 Pre-seminar preparation asks learners to engage with source material — readings, videos, or problem sets — before a discussion-based session, so that class time is spent applying, questioning, and debating rather than receiving first exposure. It functions as the first-exposure phase of a flipped or seminar design, shifting transmission of foundational knowledge outside the group setting.

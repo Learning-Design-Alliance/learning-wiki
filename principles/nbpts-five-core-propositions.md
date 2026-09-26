@@ -12,6 +12,7 @@ generated:
 # NBPTS Five Core Propositions for Accomplished Teaching
 
 > **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The National Board for Professional Teaching Standards proposes five core propositions that provide a vision for accomplished teaching and form the basis for National Board Certification:

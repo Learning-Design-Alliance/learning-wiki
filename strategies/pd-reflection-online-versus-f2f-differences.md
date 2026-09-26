@@ -17,6 +17,7 @@ sources:
 # Support e-teachers' transition with professional development focused on reflecting on online-versus-F2F differences and the potential of the tools
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Based on their findings, the authors recommend that e-teachers need opportunities to reconcile past and present forms of practice. This reconciliation "might be accomplished through professional development experience s that focus reflection on the differences between what is possible or not possible in an online versus a F2F classroom." They also recommend opportunities to envisage the potential of the tools for learner-centered approaches, ongoing dialogue and open communication to communicate the organizational roadmap, and note that pre-service education programs may not be preparing teachers for online teaching.

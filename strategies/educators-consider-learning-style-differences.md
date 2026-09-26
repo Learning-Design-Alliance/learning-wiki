@@ -17,6 +17,7 @@ sources:
 # Educators should internalize individual differences and consider the advantages and disadvantages of students' learning styles
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Based on the finding that reflective thinking tendencies and epistemological beliefs differed by learning style, the article recommends that educators internalize individual differences and take the advantages and disadvantages of students' different learning styles into consideration. It further recommends creating teaching environments in line with students' understandings of knowledge and learning, and making use of the parallelism between reflective thinking tendencies and epistemological beliefs to improve these skills.

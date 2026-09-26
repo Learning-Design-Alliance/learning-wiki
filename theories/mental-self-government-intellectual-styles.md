@@ -16,6 +16,7 @@ sources:
 # Sternberg's mental self-government model of intellectual styles
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Sternberg proposes that intellectual style concerns how people use their intelligence rather than how much they have, analogizing the mind to a government. The model organizes styles along functions (legislative, executive, judicial), forms (monarchic, hierarchic, oligarchic, anarchic), levels (global, local), scopes (internal, external), and leanings (conservative, progressive). The article states it is "based on a notion of mentalself-government, according to which people, like societies, survive by instituting one of several alternative forms of governance."

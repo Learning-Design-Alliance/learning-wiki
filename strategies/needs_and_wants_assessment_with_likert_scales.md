@@ -12,6 +12,7 @@ generated:
 # Needs and Wants Assessment with Likert Scales
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 6 studies, `q2`–`q4` · 5 of 6 report an effect size
 
 ## Description
 A needs and wants assessment uses structured instruments — typically Likert-scale items (e.g., "How confident do you feel about X?" rated 1–5) supplemented by open-ended fill-in questions — to gather learner data on interests, prior knowledge, confidence, and perceived needs before or during instruction. The educator analyzes responses to adapt planning, while learners experience that their input shapes what happens in class.

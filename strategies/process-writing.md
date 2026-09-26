@@ -12,6 +12,7 @@ generated:
 # Process Writing
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 3 claims (3 for) · 7 studies, `q2`–`q4` · 4 of 7 report an effect size
 
 ## Description
 Process writing structures composition instruction around the recursive stages expert writers use — planning, drafting, revising, and editing — rather than evaluating a single finished product. Teachers model each stage, provide feedback on drafts, and give students sustained time to revise. The approach originated in the Hayes & Flower (1980) cognitive model of writing, which decomposed composing into planning, translating, and reviewing processes coordinated under working-memory load.

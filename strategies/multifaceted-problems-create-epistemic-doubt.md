@@ -17,6 +17,7 @@ sources:
 # Use context-rich multifaceted problems with TA scaffolding and group exams to create epistemic doubt in large introductory courses
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The article describes a method of creating epistemic doubt in large introductory science courses where project-based experiences are impractical: students work in groups of two to three on multifaceted problems that "involve more than one concept, hence students cannot readily use a direct algorithmic approach." TAs were trained to use leading prompts such as "What information is missing?" rather than direct help, and two group exams evaluated problem-solving approaches and contributed 7.5% of the final grade. The author reports this combination produced a statistically significant shift toward expansive strategies.

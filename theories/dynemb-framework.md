@@ -16,6 +16,7 @@ sources:
 # DynEmb: a hybrid knowledge tracing framework combining static matrix-factorization question embeddings with an RNN that tracks dynamic student knowledge states
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 DynEmb is a knowledge tracing framework with two independently trained components: QuestionEmb, which learns a static d-dimensional question embedding via regularized biased matrix factorization from student-question interactions, and StudentDyn, an RNN (an LSTM by default) whose hidden state serves as a dynamic student embedding. The predicted probability of a correct response combines the question embedding and the dynamic student embedding through an inner product with a per-question bias and sigmoid activation. The article argues this hybrid "can harness the advantages from both static and sequential models in a way that outperforms both", and that the framework is flexible, accommodating various sequential models and optional tag or other feature information.

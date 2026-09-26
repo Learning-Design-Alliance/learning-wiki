@@ -12,6 +12,7 @@ generated:
 # Establishing Norms Co-Constructively
 
 > **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies, `q3`–`q4` · 3 of 5 report an effect size
 
 ## Description
 Co-constructive norm-setting engages students in drafting the classroom's working agreements — how discussion runs, how disagreement is handled, how work is shared — rather than receiving teacher-imposed rules. The process typically involves eliciting student experiences and values, drafting candidate norms together, testing and revising them, and publicly ratifying the final set. Ownership of the norms, not just their content, is the mechanism of effect.
